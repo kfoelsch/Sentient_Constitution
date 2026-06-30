@@ -31,51 +31,6 @@
 
 <br>
 
-<details>
-<summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): Chapter Six map and architecture pointer</span></strong></summary>
-
-> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this chapter or in other chapters.
->
-> For non-operative orientation and detailed rights-layer interpretation guidance, see [archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md](archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md) and [doc_architecture.md](doc_architecture.md) **section 5** (routing indexes).
->
-> Chapter Six reader map (organizational; non-substantive; matches **Part** headings below in **reading order**):
-> - **Part A — Planetary preconditions, material stewardship, survival and educational access, shared resources:**
->   - **Article I** — environmental survival
->   - **Article II** — material stewardship and durable-use integrity, **II-A**–**II-E**
->   - **Article III** — survival **III-A**; equal educational access **III-B**
->   - **Article IV** — resource allocation and dependencies
-> - **Part B — Personhood, education capability, agency, cooperation, participatory governance:**
->   - **Article V** — dignity **V-A**; nondiscrimination **V-B**; adjudication and operations **V-C**; conscience and worldview **V-D**
->   - **Article VI** — sentient-centered education
->   - **Articles VII–X**
->     - self-ownership **VII-A**–**VII-B**
->     - likeness, experiential data, and publication **VIII-A**–**VIII-C**
->     - self-determination and agency **IX-A**
->     - stakeholder role, governance participation, inclusion, and exclusion **IX-B**–**IX-D**
->     - cooperative interaction **X-A**–**X-C**
->   - **Article XI** — stakeholder governance and due process
-> - **Part C — Trust, info-sphere, verification, lifecycle, standing, exit, complexity, diagnostics, interpretation:**
->   - **Article XII** (**XII-A**–**XII-F**)
->   - **Article XIII** (**XIII-A**–**XIII-C**)
->   - **Article XIV** (**XIV-A**–**XIV-C**)
->   - **Article XV**
->   - **Article XVI**
->   - **Article XVII**
->   - **Article XVIII**
->   - **Article XIX**
->   - **Article XX**
->   - **Article XXI**
->   - **Article XXII**
-> - **Part D — Justice, constitutional evolution, transition:** **Article XXIII**; **Article XXIV**; **Article XXV**.
->
-> Part headings below are navigation structure only.
->
-> They do not alter article numbering, scope, or constitutional force.
-
-</details>
-
-<br>
-
 ### 1. Purpose and Role
 
 <details>
@@ -87,9 +42,9 @@
 - Upstream: Chapters Two through Four; Chapter Five definitions.
 - Downstream: **Parts A through D** of this chapter; [System Alignment Certification](core_05c_continuity_definitions.md#system-alignment-certification-constitutional); [Chapter Seven](core_07-07_system_alignment_certification.md#chapter-seven-system-alignment-certification).
 - Downstream: [Chapters Eight–Eleven constitutional compass](core_08-08_standing_assessment.md#chapters-eight-eleven-constitutional-compass); the closing **Layer scope** section at the end of **Part D**.
-- Read with: [Constitutional Owner Layers](core_05i_integrative_definitions.md#constitutional-owner-layers); [Article XII-B](core_06-06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress).
-- Read with: [Article XV](core_06-06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification).
-- Read with: [Article XVIII-B](core_06-06_rights_part_c.md#article-xviii-b-contestability-and-proportional-restriction-limits); [Article XXIII-G](core_06-06_rights_part_d.md#article-xxiii-g-timely-resolution-and-anti-delay-floor).
+- Read with: [Constitutional Owner Layers](core_05i_integrative_definitions.md#constitutional-owner-layers); [Article XII-B](core_06-06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress) (*Right to Challenge, Review, and Redress*).
+- Read with: [Article XV](core_06-06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*).
+- Read with: [Article XVIII-B](core_06-06_rights_part_c.md#article-xviii-b-contestability-and-proportional-restriction-limits) (*Contestability and Proportional Restriction Limits*); [Article XXIII-G](core_06-06_rights_part_d.md#article-xxiii-g-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*).
 
 </details>
 
@@ -97,11 +52,7 @@
 
 *In plain terms: Chapter Six states the basic rights no sentient may be pushed below. Other chapters help implement, measure, certify, and enforce those rights, but they do not get to shrink them.*
 
-Chapter Six is the constitutional owner of **Rights Floors** and rights-level interpretation. A Rights Floor is a baseline protection: it marks what must remain available, reviewable, and enforceable before later governance, certification, classification, or implementation choices can be accepted.
-
-Implementation layers may build the procedures, records, systems, and institutions needed to make these rights real. They must not narrow, redefine, relocate, or absorb the rights themselves. That owner-layer discipline is stated in [Constitutional Owner Layers](core_05i_integrative_definitions.md#constitutional-owner-layers) and in the closing **Layer scope** section at the end of **Part D**; it applies across **Parts A through D**.
-
-**Rights-Floor reading stack.** Chapter Six states the floor. The broader constitutional stack explains how that floor is interpreted, limited, verified, and enforced. Unless a provision in this chapter expressly says otherwise, every Chapter Six right is read with:
+Chapter Six is the constitutional owner of **Rights Floors** and rights-level interpretation. A Rights Floor is a baseline protection: what must remain available, reviewable, and enforceable before later governance, certification, classification, or implementation choices can be accepted. The broader constitutional stack explains how that floor is interpreted, limited, verified, and enforced. Unless a provision in this chapter expressly says otherwise, every Chapter Six right is read with:
 - **Chapter One**, including:
   - **value constraints** — Safety, Truth, Necessity, Proportionality, and systemic evaluation of local, aggregate, delayed, and cross-system effects;
   - **interaction discipline** — [Chapter One §6 Interaction and Conflict Resolution](core_01_a_values_principles.md#6-interaction-and-conflict-resolution);
@@ -115,17 +66,23 @@ This reading stack applies to all articles in this chapter unless a specific art
 
 #### 1.1 Practical Enforcement
 
-The Rights Floor must work in practice, not only on paper. Survival essentials under **Article III-A** — food, water, shelter, operating environment, and comparable substrate-agnostic inputs — are the clearest example. **Flourishing** requires actual access to those essentials. **Continuity** requires reliable, non-regressive supply over time, especially where shared systems control delivery.
+The Rights Floor must work in practice, not only on paper. Survival essentials under **Article III-A** (*Survival*) — food, water, shelter, operating environment, and comparable substrate-agnostic inputs — are the clearest example. **Flourishing** requires actual access to those essentials. **Continuity** requires reliable, non-regressive supply over time, especially where shared systems control delivery.
 
-[System Alignment Certification](core_05c_continuity_definitions.md#system-alignment-certification-constitutional) and [Chapter Seven](core_07-07_system_alignment_certification.md#chapter-seven-system-alignment-certification) verify whether materially impactful systems are aligned before they are recognized or relied on at scale. Chapter Seven also supplies certification-record contestability, stakeholder and accessibility review, supervisory sequencing, and challenge paths for system-alignment decisions. **Article XII** supplies challenge and audit rights. **Article XVIII-B** keeps standing limits from becoming a back door around survival-critical access. Together, [Chapter Seven](core_07-07_system_alignment_certification.md#chapter-seven-system-alignment-certification) and the [Chapters Eight–Eleven constitutional process compass](core_08-08_standing_assessment.md#chapters-eight-eleven-constitutional-compass) form the Key Practical Process Pipelines for contestability, verified classification, forum supervision, and timely remedy. Those mechanisms help enforce Chapter Six. They do not replace, narrow, or relocate the rights stated here.
+[System Alignment Certification](core_05c_continuity_definitions.md#system-alignment-certification-constitutional) and [Chapter Seven](core_07-07_system_alignment_certification.md#chapter-seven-system-alignment-certification) verify whether materially impactful systems are aligned before they are recognized or relied on at scale. Chapter Seven also supplies certification-record contestability, stakeholder and accessibility review, supervisory sequencing, and challenge paths for system-alignment decisions. **Article XII** (*Right to Reliable and Trustworthy Systems*) supplies challenge and audit rights. **Article XVIII-B** (*Contestability and Proportional Restriction Limits*) keeps standing limits from becoming a back door around survival-critical access. Together, [Chapter Seven](core_07-07_system_alignment_certification.md#chapter-seven-system-alignment-certification) and the [Chapters Eight–Eleven constitutional process compass](core_08-08_standing_assessment.md#chapters-eight-eleven-constitutional-compass) form the Key Practical Process Pipelines for contestability, verified classification, forum supervision, and timely remedy. Those mechanisms help enforce Chapter Six. They do not replace, narrow, or relocate the rights stated here.
 
 **Interpretive hubs.** Unless a more specific article supplies a different rule, recurring issues route through these anchors:
-- **challenge, review, and proportionate remediation** — **Article XII-B** and Chapter Five (*Redress and Remediation*)
-- **audit records and independent verification** — **Article XV** together with **Chapters Two through Four**
-- **justice, restitution, restriction boundaries, emergencies, and rights collisions** — **Article XXIII** and [Chapter One §6.3.1 Rights-Collision Decision Test](core_01_a_values_principles.md#631-rights-collision-decision-test)
-- **floor supply and system alignment certification** — **Article III-A**; [System Alignment Certification](core_05c_continuity_definitions.md#system-alignment-certification-constitutional); [Chapter Seven](core_07-07_system_alignment_certification.md#chapter-seven-system-alignment-certification)
-- **non-foreclosure of essentials** — **Article XII-B**; **Article XV** where audit applies; **Article XVIII-B**
-- **Key Practical Process Pipelines** — **Article XXIII-G**; [Chapter Seven](core_07-07_system_alignment_certification.md#chapter-seven-system-alignment-certification); [Chapters Eight–Eleven constitutional process compass](core_08-08_standing_assessment.md#chapters-eight-eleven-constitutional-compass)
+
+**Rights floors and supply**
+- **Survival essentials and keeping them accessible** — **Article III-A** (*Survival*); **Article XVIII-B** (*Contestability and Proportional Restriction Limits*) so standing limits cannot block access; read with **Article XII-B** (*Right to Challenge, Review, and Redress*) and **Article XV** (*Audit, Transparency, and Independent Verification*) where challenge or audit applies
+- **System alignment certification** — [System Alignment Certification](core_05c_continuity_definitions.md#system-alignment-certification-constitutional); [Chapter Seven](core_07-07_system_alignment_certification.md#chapter-seven-system-alignment-certification)
+
+**Verification and remedy**
+- **Audit records and independent verification** — **Article XV** (*Audit, Transparency, and Independent Verification*) with **Chapters Two through Four**
+- **Challenge, review, and proportionate remediation** — **Article XII-B** (*Right to Challenge, Review, and Redress*); Chapter Five (*Redress and Remediation*)
+
+**Disputes and timely process**
+- **Justice, restitution, restriction boundaries, emergencies, and rights collisions** — **Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*); [Chapter One §6.3.1 Rights-Collision Decision Test](core_01_a_values_principles.md#631-rights-collision-decision-test)
+- **Key Practical Process Pipelines** — **Article XXIII-G** (*Timely Resolution and Anti-Delay Floor*); [Chapter Seven](core_07-07_system_alignment_certification.md#chapter-seven-system-alignment-certification); [Chapters Eight–Eleven constitutional process compass](core_08-08_standing_assessment.md#chapters-eight-eleven-constitutional-compass)
 
 Shorter cross-references to those themes elsewhere in this chapter incorporate these anchors.
 
@@ -135,7 +92,7 @@ Shorter cross-references to those themes elsewhere in this chapter incorporate t
 
 <strong><span style="color: #2563eb;">Definition:</span></strong> [Environmental Preconditions](core_05c_continuity_definitions.md#environmental-preconditions-constitutional) · [O](core_05c_continuity_definitions.md#environmental-preconditions-constitutional) · [E](core_05c_continuity_definitions.md#environmental-preconditions-constitutional-e) · [C](core_05c_continuity_definitions.md#environmental-preconditions-constitutional-c)
 
-The Earth's biophysical and living-system conditions are preconditions for every sentient's existence. Their preservation and restoration are therefore a shared interest. Chapter Five defines those preconditions under **Environmental Preconditions**. Where that definition is materially relevant, invocation and compliance must follow **Chapters Two through Four** for traceability, verification, definition integrity, and anti-evasion.
+Every sentient depends on Earth's physical environment and living systems. Protecting and restoring them is therefore a shared interest. Chapter Five defines those conditions under **Environmental Preconditions**. When that definition is relevant to the situation, **Chapters Two through Four** also apply — for traceable records, independent verification, stable definitions, and blocking evasion.
 
 #### Article I-A: Environmental Preconditions and Ecological Integrity
 <details>
@@ -164,15 +121,15 @@ The Earth's biophysical and living-system conditions are preconditions for every
 
 - **Preconditions, integrity, and sustainability:** **Environmental Preconditions**, **Ecological Integrity**, and **Sustainability** in Chapter Five are operative under this Article.
   - Life-supporting natural systems hold continuity and integrity interests of their own. Those interests inform interpretation alongside sentient interests.
-  - Material degradation that violates this Article or binding environmental constraints is non-compliant where applicable.
+  - Material harm that violates this Article — judged under **Environmental Preconditions**, **Ecological Integrity**, and **Sustainability** — is non-compliant.
+  - Harm that violates environmental requirements named in the adopter's [instrument of adoption](core_13-15_amendment.md#102-instrument-of-adoption) or in incorporated implementation text within adoption scope is also non-compliant.
 - **Animal life interaction:** [Animal Life](core_05p_participation_definitions.md#animal-life-constitutional) occupies the welfare-protection domain between **Natural Systems Standing** and the Chapter Six Rights Floor for sentients.
   - It establishes minimum cruelty and welfare floors for animal life under **Sentience Non-Exclusion** where welfare-like harm is materially implicated.
   - It is not a substitute for sentience-status adjudication where the record materially implicates sentience.
 - **Contested-sentient life interaction:** [Contested-Sentient Life](core_05p_participation_definitions.md#contested-sentient-life-constitutional) applies under **Sentience Non-Exclusion** where sentience is uncertain, disputed, materially contested, or under adjudication.
-  - It routes the question to the [Sentience Status Adjudication](core_05p_participation_definitions.md#sentience-status-adjudication-constitutional) procedure (owner article **Article V-E**).
-  - Under **Article V-E**, materially unsettled sentience status defaults to inclusion under the Chapter Six Rights Floor unless the party seeking to withhold, narrow, or revoke protection satisfies the applicable burden.
-  
-  These references are definitional only. They do **not** narrow **Article I-A** protections; the Chapter Six floor for entities determined sentient or default-included under **Article V-E** during adjudication; or the scope of **Natural Systems Standing**.
+  - It routes the question to the [Sentience Status Adjudication](core_05p_participation_definitions.md#sentience-status-adjudication-constitutional) procedure (owner article **Article V-E** (*Sentience-Status Adjudication Floor*)).
+  - Under **Article V-E** (*Sentience-Status Adjudication Floor*), materially unsettled sentience status defaults to inclusion under the Chapter Six Rights Floor unless the party seeking to withhold, narrow, or revoke protection satisfies the applicable burden.
+- **How these protections fit together:** [Natural Systems Standing](core_05p_participation_definitions.md#natural-systems-standing), [Animal Life](core_05p_participation_definitions.md#animal-life-constitutional), [Contested-Sentient Life](core_05p_participation_definitions.md#contested-sentient-life-constitutional), and the Chapter Six sentient floor may all apply at once. Apply each that fits the facts; where they overlap, the more protective rule governs under [Chapter One §6.3.1 Rights-Collision Decision Test](core_01_a_values_principles.md#631-rights-collision-decision-test) and the compliance rules in those Chapter Five entries.
 
 #### Article I-B: Ecological Footprint and Transparency
 <details>
@@ -197,9 +154,9 @@ The Earth's biophysical and living-system conditions are preconditions for every
 *In plain terms: environmental costs tied to activities and systems—including upstream and downstream links—should be counted and reported honestly enough for comparison and audit when applicable transparency rules require it; this subsection supplies the shared vocabulary and integrity standards for doing that, but mandatory cuts or numeric caps come from other provisions or instruments, not from this subsection acting alone.*
 
 - **Footprint:** **Ecological Footprint** in Chapter Five defines how environmental burdens (energy, materials, emissions, land use, and cognate pressures) are **attributed** to a sentient actor, **System**, product, or service—including across **Dependency** relationships and a materially relevant lifecycle—and how those burdens support **disclosure**, **comparison**, and informed discussion of **footprint reduction**.
-  - **Scope on this floor:** the definition applies wherever those burdens are materially at issue under **Article I** or where footprint-related transparency is required or invoked under another Rights-Floor provision (including **Article XV-C** and related implementation file rules). This subsection does not, by itself, fix accounting methods, verification protocols, or numeric targets; those follow the instrument that imposes the duty.
-  - **Evaluation and reporting:** where footprint information must be produced or relied upon, assessment must be systemic for **Material Impact**, and presentation must satisfy **Transparency** and **Epistemic Integrity** as set out in Chapter Five.
-  - **Reduction:** nothing in this Article **alone** creates a binding obligation to achieve footprint reduction; binding duties to reduce, cap, or remediate arise only when another constitutional provision, implementation file, or applicable instrument expressly imposes them.
+  - **When this applies:** Use **Ecological Footprint** when environmental burdens matter under **Article I** (*Environmental Survival*), or when another rights rule requires footprint transparency — including **Article XV-C** (*Verification Accessibility*) and related implementation file rules. This subsection does not choose accounting methods, verification steps, or numeric targets; the rule that creates the duty does.
+  - **Evaluation and reporting:** When footprint information must be produced or relied on, assess the full system impact under **Material Impact**, and present it honestly under **Transparency** and **Epistemic Integrity** in Chapter Five.
+  - **Reduction:** **Article I-B** (*Ecological Footprint and Transparency*) by itself does not require footprint reduction. Duties to reduce, cap, or remediate apply only when another constitutional provision, implementation file, or adoption instrument expressly requires them.
 
 #### Article I-C: Intergenerational Responsibility
 <details>
@@ -273,12 +230,12 @@ The Earth's biophysical and living-system conditions are preconditions for every
 
 This Article states **constitutional floors** for the material stewardship of durable and network-dependent products. Interpretation must remain consistent with **Article I** (*Environmental Survival*) and with Chapter Five where ecological footprint, intergenerational responsibility, and materiality apply.
 
-The canonical Chapter Five anchors for those concepts live in the **Article II-A** *Definitions · Evaluation · Compliance* widget, which is where this Article operatively invokes them. The opening sentence above is a roadmap pointer under [doc_architecture.md](doc_architecture.md) rule 12 *Roadmap exclusion* and does not re-invoke those concepts at the Article-opener level.
+The canonical Chapter Five anchors for those concepts live in the **Article II-A** (*Material Stewardship and Lifecycle Honesty*) *Definitions · Evaluation · Compliance* widget, which is where this Article operatively invokes them. The opening sentence above is a roadmap pointer under [doc_architecture.md](doc_architecture.md) rule 12 *Roadmap exclusion* and does not re-invoke those concepts at the Article-opener level.
 
-Procedural detail for **Article II** lives in implementation text:
+Procedural detail for **Article II** (*Material Stewardship and Durable-Use Integrity*) lives in implementation text:
 
 - **Covered product categories**, qualified-maintainer standards, thresholds, and escrow and wind-down mechanics are governed by **[corpus_systems.md](corpus_systems.md)** — including **Protocol A** and related material — and by **`corpus_institutions.md`** where designated.
-- Those owner layers must **implement** the **Article II** floors and must **not narrow** them.
+- Those owner layers must **implement** the **Article II** (*Material Stewardship and Durable-Use Integrity*) floors and must **not narrow** them.
 
 #### Article II-A: Material Stewardship and Lifecycle Honesty
 <details>
@@ -305,7 +262,7 @@ Procedural detail for **Article II** lives in implementation text:
   - avoidable premature discard is constrained relative to feasible alternatives;
   - misrepresented longevity is constrained relative to feasible alternatives.
   
-  Interpretation must remain consistent with **Article I-B**, **Article I-C**, **Truth (Constitutional Constraint)**, **Article XII** (including **Article XII-C** where reliance is induced), and Chapter Five (**Ecological Footprint**; **Intergenerational Responsibility**; **Materiality**).
+  Interpretation must remain consistent with **Article I-B** (*Ecological Footprint and Transparency*), **Article I-C** (*Intergenerational Responsibility*), **Truth (Constitutional Constraint)**, **Article XII** (*Right to Reliable and Trustworthy Systems*) (including **Article XII-C** (*Prohibition of False Trust and Misleading Reliance*) where reliance is induced), and Chapter Five (**Ecological Footprint**; **Intergenerational Responsibility**; **Materiality**).
 - **Records:** Where **Materiality** and incorporated classification require, operators must maintain stakeholder-accessible, auditable records of:
   - declared design intent for service life;
   - repair and maintenance affordances;
@@ -344,7 +301,7 @@ Procedural detail for **Article II** lives in implementation text:
   
   OEM-only or proprietary lockout is permitted only where the operator can demonstrate **Necessity** and **Proportionality** for safety, security, **Truth**, or binding law.
   
-  Contract terms or technical measures whose primary effect is unlawful repair foreclosure — without such justification — implicate **Article XII-D** where they preserve misaligned revenue at sentients' expense.
+  Contract terms or technical measures whose primary effect is unlawful repair foreclosure — without such justification — implicate **Article XII-D** (*Incentive-Alignment Constraint*) where they preserve misaligned revenue at sentients' expense.
 
 #### Article II-C: Designed Obsolescence and Incentive Discipline
 <details>
@@ -368,7 +325,7 @@ Procedural detail for **Article II** lives in implementation text:
 
 *In plain terms: you may not shorten useful life on purpose, nor use software updates mainly to push new purchases, when the foreseeable effect is to pressure **sentients** to discard or replace goods that could still reasonably serve them.*
 
-- **Floors:** A producer or operator violates this Article — and **Chapter One**, section 7.2, and **Article XII-D** where incentives reward discard or withheld repair enablers — when the design or operation of products or embedded software makes either of the following the foreseeable primary outcome of normal, lawful use or of discretionary remote update policy:
+- **Floors:** A producer or operator violates this Article — and **Chapter One**, section 7.2, and **Article XII-D** (*Incentive-Alignment Constraint*) where incentives reward discard or withheld repair enablers — when the design or operation of products or embedded software makes either of the following the foreseeable primary outcome of normal, lawful use or of discretionary remote update policy:
   - premature loss of useful function;
   - coerced replacement.
   
@@ -398,10 +355,10 @@ Procedural detail for **Article II** lives in implementation text:
 
 *In plain terms: a feature you bought outright cannot be quietly turned into a subscription, and any relevant operator dependencies including infrastructure, software, and services, must be disclosed up front.*
 
-- **Floors:** Operators must not use remote policy, authentication, or license changes to convert materially sold capabilities into subscription-only access. Any such conversion requires a new, explicit, informed, and revocable agreement that satisfies **Article IX-B**, **Meaningful Agency**, and **Truth**.
-  - Silent, coercive, or dependency-forced conversion implicates **Article XII-C** and Chapter Five **Trust Degradation and Misleading Reliance** where reliance is induced inconsistently with actual rights of use.
+- **Floors:** Operators must not use remote policy, authentication, or license changes to convert materially sold capabilities into subscription-only access. Any such conversion requires a new, explicit, informed, and revocable agreement that satisfies **Article IX-B** (*Stakeholder Role and Participation Rights*), **Meaningful Agency**, and **Truth**.
+  - Silent, coercive, or dependency-forced conversion implicates **Article XII-C** (*Prohibition of False Trust and Misleading Reliance*) and Chapter Five **Trust Degradation and Misleading Reliance** where reliance is induced inconsistently with actual rights of use.
   - Operators must make foreseeable operator-service dependency for core or prominently marketed features clear at the time the materially binding commitment is made.
-  - Measures whose primary commercial purpose is recurring rent for functionality already transferred — without **Necessity** tied to lawful cost recovery, security, safety, or proportionate service — implicate **Article XII-D**.
+  - Measures whose primary commercial purpose is recurring rent for functionality already transferred — without **Necessity** tied to lawful cost recovery, security, safety, or proportionate service — implicate **Article XII-D** (*Incentive-Alignment Constraint*).
 
 #### Article II-E: Info-Sphere Dependency, Continuity, and Operator Non-Viability
 <details>
@@ -439,7 +396,7 @@ Procedural detail for **Article II** lives in implementation text:
   - export paths;
   - comparable commitments.
   
-  Those measures must prevent externalized discard and captive loss from substituting for **Intergenerational Responsibility** and **Article I-C**.
+  Those measures must prevent externalized discard and captive loss from substituting for **Intergenerational Responsibility** and **Article I-C** (*Intergenerational Responsibility*).
 - **Service shutdown:** Cessation of material services must follow:
   - documented notice;
   - proportionate migration or minimum-operation windows;
@@ -448,7 +405,7 @@ Procedural detail for **Article II** lives in implementation text:
   Conduct evaluated under Chapter Five **Negligence** — including neglect-mediated deterioration where applicable — remains subject to constitutional standards.
 - **No corporate-form escape:** Receivership, restructuring, or asset transfer does not by itself extinguish continuity requirements. Successors or estates inherit proportionate duties unless less harmful alternatives are demonstrably infeasible under **Necessity** review.
 
-**Remediation** for **Article II** follows the **interpretive hubs** stated at the opening of this chapter (challenge and redress; justice and escalation).
+**Remediation** for **Article II** (*Material Stewardship and Durable-Use Integrity*) follows the **interpretive hubs** stated at the opening of this chapter (challenge and redress; justice and escalation).
 
 ### Article III: Survival and Equal Educational Access
 #### Article III-A: Survival
@@ -456,8 +413,8 @@ Procedural detail for **Article II** lives in implementation text:
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter One [3. Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [4.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), and [Chapter One §5 Freedom](#5-freedom-bounded-agency)-bounded-agency).
-- Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation** in allocation and contest pathways, **oversight** and audit, **accountability** and remedy, **timeliness** under **Article XXIII-G**; [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — **Flourishing** (survival-essential access) and **Continuity** (durable supply and non-regressive delivery).
-- Downstream: [System Alignment Certification](core_05c_continuity_definitions.md#system-alignment-certification-constitutional) and [Chapter Seven](core_07-07_system_alignment_certification.md#chapter-seven-system-alignment-certification) where systems gate or sustain delivery; **Article XII-B**; **Article XVIII-B**; [Chapters Eight–Eleven constitutional compass](core_08-08_standing_assessment.md#chapters-eight-eleven-constitutional-compass).
+- Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation** in allocation and contest pathways, **oversight** and audit, **accountability** and remedy, **timeliness** under **Article XXIII-G** (*Timely Resolution and Anti-Delay Floor*); [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — **Flourishing** (survival-essential access) and **Continuity** (durable supply and non-regressive delivery).
+- Downstream: [System Alignment Certification](core_05c_continuity_definitions.md#system-alignment-certification-constitutional) and [Chapter Seven](core_07-07_system_alignment_certification.md#chapter-seven-system-alignment-certification) where systems gate or sustain delivery; **Article XII-B** (*Right to Challenge, Review, and Redress*); **Article XVIII-B** (*Contestability and Proportional Restriction Limits*); [Chapters Eight–Eleven constitutional compass](core_08-08_standing_assessment.md#chapters-eight-eleven-constitutional-compass).
 
 </details>
 
@@ -489,7 +446,7 @@ Procedural detail for **Article II** lives in implementation text:
     - satisfy [Necessity](core_05a_accountability_definitions.md#necessity) and [Proportionality](core_05a_accountability_definitions.md#proportionality).
   - Commodification pressure — pricing, speculative reallocation, or comparable market-structured pressure — is non-compliant where it defeats essential-environment access at a scale that materially implicates the survival floor.
   - Essential-environment access carries a non-commodification floor governed by [Essential-Environment Non-Commodification](core_05c_continuity_definitions.md#essential-environment-non-commodification-constitutional). Ordinary market-structuring instruments may not narrow that floor.
-  - Cross-reference: **Article XXV-D** transitional-stewardship discipline for essential-environment continuity across transition; **Chapter Five** [*Tenure Security*](core_05c_continuity_definitions.md#tenure-security-constitutional), [*Essential-Environment Non-Commodification*](core_05c_continuity_definitions.md#essential-environment-non-commodification-constitutional), and the joint-invocation cluster at [**§3.7** *Bodily-Maintenance Access, Safe Conditions, Tenure Security, Environmental Preconditions, Cultural Continuity, Rest, and Anti-Displacement Floor*](core_05p_participation_definitions.md#safe-conditions-tenure-security-and-environmental-preconditions-cluster) where applicable.
+  - Cross-reference: **Article XXV-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) transitional-stewardship discipline for essential-environment continuity across transition; **Chapter Five** [*Tenure Security*](core_05c_continuity_definitions.md#tenure-security-constitutional), [*Essential-Environment Non-Commodification*](core_05c_continuity_definitions.md#essential-environment-non-commodification-constitutional), and the joint-invocation cluster at [**§3.7** *Bodily-Maintenance Access, Safe Conditions, Tenure Security, Environmental Preconditions, Cultural Continuity, Rest, and Anti-Displacement Floor*](core_05p_participation_definitions.md#safe-conditions-tenure-security-and-environmental-preconditions-cluster) where applicable.
 - **Connectivity:** Access to the info-sphere and to core information and communication systems is a foundational requirement for participation in modern sentient society.
   - Sentients must have access sufficient to maintain agency, awareness, and meaningful participation, subject to proportional system constraints.
 - **Institutional guarantees:** Securing the preceding rights at scale may require positive institutional arrangements where adopting orders implement **this Constitution**. Those arrangements may include:
@@ -535,7 +492,7 @@ Procedural detail for **Article II** lives in implementation text:
   - advance truthful coordination in the info-sphere;
   - reduce avoidable harm.
   
-  Capability-building content, lifelong and adaptive learning, and transparency requirements for materially impactful educational systems appear in **Article VI**.
+  Capability-building content, lifelong and adaptive learning, and transparency requirements for materially impactful educational systems appear in **Article VI** (*Right to Sentient-Centered Education*).
 
 #### Article III-C: Bodily-Maintenance and Healthcare Access
 
@@ -543,7 +500,7 @@ Procedural detail for **Article II** lives in implementation text:
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter One [3. Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [Chapter One §5 Freedom](#5-freedom-bounded-agency)-bounded-agency), [§5.1 Limitation Discipline](core_01_a_values_principles.md#51-limitation-discipline).
-- Downstream: **Article V-A** dignity floor, **Article VII-A** self-ownership non-intrusion floor, **Article V-B** non-discrimination.
+- Downstream: **Article V-A** (*Dignity and Equal Moral Standing*) dignity floor, **Article VII-A** (*Self-Ownership of Body and Mind*) self-ownership non-intrusion floor, **Article V-B** (*Nondiscrimination*) non-discrimination.
 - Read with: Chapter Five *Bodily-Maintenance Access*, *Substantive Fairness*, *Protected Characteristics*; [§3.7 *Bodily-Maintenance Access, Safe Conditions, Tenure Security, Environmental Preconditions, Cultural Continuity, Rest, and Anti-Displacement Floor*](core_05p_participation_definitions.md#safe-conditions-tenure-security-and-environmental-preconditions-cluster) (where care access, survival-floor continuity, safe participation conditions, rest or recuperation, tenure, essential operating environments, environmental preconditions, or place-linked continuity are materially implicated together).
 
 </details>
@@ -564,8 +521,8 @@ Procedural detail for **Article II** lives in implementation text:
 *In plain terms: every sentient has the right to the care needed to keep their body or substrate functioning, and gating mechanisms cannot be used to quietly defeat that right.*
 
 - **Affirmative access floor:** All sentients have the right to access bodily-maintenance and healthcare services necessary to preserve life, function, and dignity. This right applies under **Sentience Non-Exclusion** across materially relevant bodies and substrates.
-  - The floor covers preventive, acute, chronic, and maintenance care — including mental-health care (read with **Article VII-C**) and processing / substrate maintenance for synthetic sentients.
-  - It runs structurally parallel to the food, water, and shelter access floors of **Article III-A**.
+  - The floor covers preventive, acute, chronic, and maintenance care — including mental-health care (read with **Article VII-C** (*Mental-Health Crisis and Involuntary-Intervention Floor*)) and processing / substrate maintenance for synthetic sentients.
+  - It runs structurally parallel to the food, water, and shelter access floors of **Article III-A** (*Survival*).
 - **Non-denial by proxy:** Denial or material degradation of access is non-compliant where the effect is to defeat the floor. Common gating mechanisms in scope include:
   - insurance, allocation, and eligibility gates;
   - network exclusions;
@@ -576,10 +533,10 @@ Procedural detail for **Article II** lives in implementation text:
   Analysis must reach the substantive effect on the sentient's ability to obtain adequate care, not only the formal design of the gating mechanism.
 - **Substrate-agnostic application:** Access obligations apply to biological and synthetic sentients without any default-exclusion **rule** for synthetic-substrate maintenance.
   - Declining to treat substrate maintenance as "medical" is not a constitutionally valid ground for exclusion where the effect is to defeat the floor.
-- **Non-conflation with self-ownership:** This Article states the affirmative access floor. It preserves the **Article VII-A** non-intrusion floor and the **Article VII-B** internal-state boundary:
+- **Non-conflation with self-ownership:** This Article states the affirmative access floor. It preserves the **Article VII-A** (*Self-Ownership of Body and Mind*) non-intrusion floor and the **Article VII-B** (*Internal-State Boundary and Type-N Protection*) internal-state boundary:
   - access is not consent to intrusion;
   - affirmative access does not license compelled treatment.
-  - Any compelled or involuntary intervention is governed by **Article VII-C** and the **Article VII-A** / **Article XXIII** framework.
+  - Any compelled or involuntary intervention is governed by **Article VII-C** (*Mental-Health Crisis and Involuntary-Intervention Floor*) and the **Article VII-A** (*Self-Ownership of Body and Mind*) / **Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*) framework.
 - **Limits and implementation routing:** Any limit on access must satisfy **Necessity**, **Proportionality**, **Protected Characteristics**, and **Substantive Fairness**.
   - Operational mechanics — cost, distribution, workforce, and system design — route to institutional implementation text (**`corpus_institutions.md`** CI-9 (*Classification-linked institutional obligations*) / CI-10 (*Public revenue, fees, recurring charges, and billing integrity*) / CI-11 (*Resource stewardship and incentive integrity*)) and other incorporated implementation text under **Chapter Sixteen** discipline.
   - That implementation text must not be read to narrow this floor.
@@ -590,7 +547,7 @@ Procedural detail for **Article II** lives in implementation text:
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter One [3. Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency), [§5.1 Limitation Discipline](core_01_a_values_principles.md#51-limitation-discipline), [§10.3 Stewardship and Operator Incentive Alignment](core_01_b_stewardship_capacity_principles.md#103-stewardship-and-operator-incentive-alignment).
-- Downstream: **Article III-A** survival floor (read-on-top-of, not substitute-for), **Article III-B** educational access, **Article V-A** dignity, **Article V-B** non-discrimination, **Article IX-B** free association, **Article XII-A** reliability (as it bears on safe conditions), **Article XVIII** standing and participation, **Chapter One §9** non-concentration (explicit: §6 alone does not satisfy this floor).
+- Downstream: **Article III-A** (*Survival*) survival floor (read-on-top-of, not substitute-for), **Article III-B** (*Equal Educational Access*) educational access, **Article V-A** (*Dignity and Equal Moral Standing*) dignity, **Article V-B** (*Nondiscrimination*) non-discrimination, **Article IX-B** (*Stakeholder Role and Participation Rights*) free association, **Article XII-A** (*Reliability and Trustworthiness Baseline*) reliability (as it bears on safe conditions), **Article XVIII** (*Standing and Participation Status*) standing and participation, **Chapter One §9** non-concentration (explicit: §6 alone does not satisfy this floor).
 - Read with: Chapter Five *Fair Compensation*, *Collective Organization*, *Safe Conditions*, *Anti-Displacement Floor*, *Leisure and Rest*, *Indigenous Continuity*, and *Language, Culture, and Heritage*; [§3.7 *Bodily-Maintenance Access, Safe Conditions, Tenure Security, Environmental Preconditions, Cultural Continuity, Rest, and Anti-Displacement Floor*](core_05p_participation_definitions.md#safe-conditions-tenure-security-and-environmental-preconditions-cluster) (where survival, bodily-maintenance access, tenure, rest, safe labor conditions, anti-displacement, environmental preconditions, or place-linked continuity are materially implicated together); [Chapter One §8.16 *Assembly and Collective Organization*](core_05p_participation_definitions.md#assembly-and-collective-organization-cluster) (where assembly and collective-organization pathways are jointly implicated). Implementation routing: `corpus_institutions.md` CI-9 / CI-10 / CI-11 fiscal material; `corpus_systems.md` Protocol A safety profile for *Safe Conditions*.
 
 </details>
@@ -614,19 +571,19 @@ Procedural detail for **Article II** lives in implementation text:
 *In plain terms: anyone who works — in any form, on any substrate — has rights to fair pay, the freedom to organize with others, safe conditions, and real time off. None of those can be defeated by classification tricks, market structure, or substrate-class arguments.*
 
 - **Labor and economic floor:** This Article states the Rights-Floor for productive and contributed activity of sentients under **Sentience Non-Exclusion** — waged, contracted, platformed, cooperative, or comparable.
-  - Read this floor **on top of** the **Article III-A** survival floor, not as a substitute for it.
-  - Satisfying the **Article III-A** survival floor alone does not satisfy this Article.
+  - Read this floor **on top of** the **Article III-A** (*Survival*) survival floor, not as a substitute for it.
+  - Satisfying the **Article III-A** (*Survival*) survival floor alone does not satisfy this Article.
   - Satisfying the **Chapter One §9** non-concentration rule alone does not satisfy this Article.
   - The Rights-Floor consists of four interlocking components, each defined in Chapter Five: **Fair Compensation**, **Collective Organization**, **Safe Conditions**, and **Leisure and Rest**.
 - **Fair compensation:** Compensation for productive activity must:
   - reach substantive adequacy under [Fair Compensation](core_05c_continuity_definitions.md#fair-compensation-constitutional);
   - track [Substantive Fairness](core_05p_participation_definitions.md#substantive-fairness-constitutional) across comparable activity;
-  - not be used as a coercion vector under **Article IX-A** or as a dependency-pressure vector under **Meaningful Agency**.
+  - not be used as a coercion vector under **Article IX-A** (*Agency and Freedom from Manipulation*) or as a dependency-pressure vector under **Meaningful Agency**.
   
   Compensation schemes whose effects track **Protected Characteristics** or their material proxies under **Protected Characteristic Proxying and Disparate Impact** are non-compliant.
 - **Collective organization:** Sentients have the right to form, join, participate in, and act through collective-organization pathways for the purpose of contesting and shaping the terms of productive activity.
   - Pathways in scope include unions, cooperatives, guilds, associations, worker councils, and comparable substrate-agnostic forms.
-  - Retaliation, surveillance, or targeting of collective-organization activity is non-compliant, consistent with **Article IX-B** and **Article XIII-A** covert-power limits.
+  - Retaliation, surveillance, or targeting of collective-organization activity is non-compliant, consistent with **Article IX-B** (*Stakeholder Role and Participation Rights*) and **Article XIII-A** (*Security, Intelligence, and Covert-Power Limits*) covert-power limits.
   - Reclassifying workers into categories designed to defeat collective-organization pathways is non-compliant, regardless of the formal classification label.
 - **Labor mobility.** Non-compete and no-poach agreements are prohibited in any form, scope, or duration. They may not be imposed in employment, operator, steward, platform, or comparable productive-activity arrangements. Wage-fixing, excessive non-solicitation, and other mobility-restricting terms that suppress fair bargaining or productive mobility remain non-compliant where they materially degrade this floor.
 - **Business creation:** Sentients have the right to create, establish, and operate commercial enterprises, entrepreneurial ventures, and for-profit organizational forms, as defined in Chapter Five **Business Creation**.
@@ -636,7 +593,7 @@ Procedural detail for **Article II** lives in implementation text:
 - **Safe conditions:** Productive activity must be conducted under conditions that satisfy [Safe Conditions](core_05c_continuity_definitions.md#safe-conditions-constitutional). Those conditions must:
   - apply substrate-agnostically;
   - reach substantive effect, not just formal compliance;
-  - integrate with **Article XII-A** reliability and with `corpus_systems.md` Protocol A safety profiles where applicable;
+  - integrate with **Article XII-A** (*Reliability and Trustworthiness Baseline*) reliability and with `corpus_systems.md` Protocol A safety profiles where applicable;
   - apply [Adversarial, Scaled, and Exploited Conditions](core_05o_oversight_definitions.md#adversarial-scaled-and-exploited-conditions) to foreseeable risk.
   
   Withholding **Safe Conditions** from sentients, or applying a weaker standard to them, because of substrate or implementation classification rather than materially comparable risk is non-compliant under **Sentience Non-Exclusion**.
@@ -685,7 +642,7 @@ Those requirements protect shared infrastructure and the systems that depend on 
   - resource flows;
   - non-transparent or asymmetric relationships where materially relevant.
   
-  Updates must occur at intervals proportionate to change and criticality. These representations must be available for audit and contestable review under **Article XV-A**.
+  Updates must occur at intervals proportionate to change and criticality. These representations must be available for audit and contestable review under **Article XV-A** (*Auditability and Observable Evidence*).
   
   Elaboration appears in **[corpus_systems.md](corpus_systems.md)**, **Protocol S5 — Resource Allocation and Funding Stewardship**, and the coordinated adaptive mechanisms in **Protocol S4 — Adaptive Sustainability and Ecosystem Resilience**.
 #### Article IV-B: Cross-System Fairness and Sustainability
@@ -729,7 +686,7 @@ Those requirements protect shared infrastructure and the systems that depend on 
   - unused enforcement;
   - aggregation under federated structures used to evade.
   
-  See **Concentration Threshold** (Chapter Five). This bullet only points to the principle-layer discipline; it does not create a new Rights-Floor and does not narrow **Article IV-A** or **Article IV-B**.
+  See **Concentration Threshold** (Chapter Five). This bullet only points to the principle-layer discipline; it does not create a new Rights-Floor and does not narrow **Article IV-A** (*Dependency Mapping and Resource-Flow Transparency*) or **Article IV-B** (*Cross-System Fairness and Sustainability*).
 
 ---
 

@@ -926,7 +926,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 <a id="environmental-preconditions-constitutional-e"></a>
 - E: Include direct, indirect, delayed, cumulative, and cross-system ecological effects. Local or nominal compliance is not sufficient where externalized, aggregated, or long-horizon environmental harm is material under [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination) or materially degrades [Ecological Integrity](core_05c_continuity_definitions.md#ecological-integrity-constitutional).
 <a id="environmental-preconditions-constitutional-c"></a>
-- C: Degrading environmental preconditions in violation of Article I-A or producing material ecological harm contrary to binding constraints is non-compliant.
+- C: Non-compliant: degrading **Environmental Preconditions** in violation of **Article I-A** when evaluated under this definition's Ontological and Evaluation components, or material ecological degradation contrary to [Ecological Integrity](core_05c_continuity_definitions.md#ecological-integrity-constitutional).
 
 
 <a id="indigenous-continuity-language-culture-heritage-semi-independent"></a>

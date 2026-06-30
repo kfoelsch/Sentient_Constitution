@@ -21,7 +21,7 @@
 
 > The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this chapter or in other chapters.
 >
-> **Part A** in [core_06-06_rights_part_a.md](core_06-06_rights_part_a.md) carries the chapter-wide default constraint stack, planet-first reading order, interpretive hubs, and full article map. **Part B** presents **Articles V–XI** in that order.
+> **Part A** in [core_06-06_rights_part_a.md](core_06-06_rights_part_a.md) carries the chapter-wide default constraint stack, planet-first reading order, and interpretive hubs. **Part B** presents **Articles V–XI** in that order.
 
 </details>
 
@@ -106,7 +106,7 @@ The principles of this Article constrain all interpretation, design, and operati
   Homogenization framings — efficiency, info-sphere integrity, interoperability, or platform-consolidation — do not by themselves satisfy the **Necessity** and **Proportionality** tests this Article requires.
   - Narrowing language, cultural, or heritage protection under accessibility-cost, translation-burden, or operational-scale framings, absent the required tests, is non-compliant.
   
-  Indigenous continuity **questions** and territorial-continuity interactions are read with Chapter Five *[Indigenous Continuity](core_05c_continuity_definitions.md#indigenous-continuity-constitutional)* — a community-anchored Rights Floor whose owner floors are Article V-B and Article I-A. They route to **Article I-A** (ecosystem-integrity precondition) and to **Chapter Sixteen** incorporation (adopter-jurisdiction discipline).
+  Indigenous continuity **questions** and territorial-continuity interactions are read with Chapter Five *[Indigenous Continuity](core_05c_continuity_definitions.md#indigenous-continuity-constitutional)* — a community-anchored Rights Floor whose owner floors are Article V-B and Article I-A. They route to **Article I-A** (*Environmental Preconditions and Ecological Integrity*) (ecosystem-integrity precondition) and to **Chapter Sixteen** incorporation (adopter-jurisdiction discipline).
   - This bullet does not adjudicate historical territorial claims and does not create a restitution mandate.
   - This bullet is an operative clause within Article V-B. It does not create a new Rights-Floor and does not narrow the other bullets of this Article or the other articles of Chapter Five's protected-characteristics discipline.
 
@@ -134,12 +134,12 @@ The principles of this Article constrain all interpretation, design, and operati
 *In plain terms: forums, administrators, and enforcement processes must include every sentient on equal terms — efficiency or throughput is not an excuse for exclusion or discriminatory outcomes.*
 
 - **Full inclusion:** No system may deny or degrade a sentient's fundamental rights, protections, or access to survival-critical systems.
-  - Prohibited grounds for such denial are stated in **Article V-A**.
+  - Prohibited grounds for such denial are stated in **Article V-A** (*Dignity and Equal Moral Standing*).
   - Illustrative forbidden grounds and proxy analysis appear in Chapter Five (*Protected Characteristics*).
 - **Differential treatment:** Differential treatment must:
   - be necessary, proportionate, and substantively fair;
   - be subject to timely, contestable review and proportionate redress where rights-affecting error or harm occurs;
-  - also satisfy **Article V-B** where it turns on protected characteristics, their proxies, or arbitrary groupings.
+  - also satisfy **Article V-B** (*Nondiscrimination*) where it turns on protected characteristics, their proxies, or arbitrary groupings.
 - **Patterns of burden and benefit:** Patterns of burdens and benefits must satisfy Chapter Five Independent Definitions (*Substantive Fairness*) where applicable.
 - **Alignment with adjudication:** Forum-led, administrative, and enforcement processes must assess compliance with **Articles V, IX, and XI** as applicable to the matter before them.
   - Efficiency, throughput, or optimization alone may not justify discriminatory outcomes, exclusionary process, or denial of constitutionally required participation. This rule operates consistently with constitutional governance safeguards.
@@ -173,7 +173,7 @@ The principles of this Article constrain all interpretation, design, and operati
   - Baseline rights and access to constitutionally protected processes must not be conditioned on profession of belief, religious practice, or absence of belief.
   - A narrow exception exists only where unavoidable under **Chapter One** and **Chapter Five** (**Necessity** and **Proportionality**) and without invidious targeting.
   
-  Institutional secularism governs public authority under **this Constitution**. It does not restrict private, associational, or civic expression of religion or non-religion. Apply it consistently with **Chapter Five** Independent Definitions (**Non-Imposition (Cooperative Interaction)**) and **Article X-A** where cooperative interaction applies.
+  Institutional secularism governs public authority under **this Constitution**. It does not restrict private, associational, or civic expression of religion or non-religion. Apply it consistently with **Chapter Five** Independent Definitions (**Non-Imposition (Cooperative Interaction)**) and **Article X-A** (*Non-Imposition and Consent in Association*) where cooperative interaction applies.
 - **Freedom of conscience, religion, and comparable worldview:** All sentients have the right to:
   - hold, change, or abstain from religious or non-religious beliefs and worldviews;
   - manifest religion or belief in worship, observance, practice, and teaching, alone or in community;
@@ -182,10 +182,10 @@ The principles of this Article constrain all interpretation, design, and operati
   The right is protected against discrimination on grounds governed by **Chapter Five** (**Protected Characteristics**), including religion, comparable worldview, and materially equivalent proxies for them.
   - Limitations must satisfy **Necessity**, **Proportionality**, and other **Chapter One** constraints.
   - Limitations must not treat any religion or comparable worldview as inferior in standing.
-  - Where cooperative norms apply, exercise of this right must align with **Chapter Five** Independent Definitions (**Non-Imposition (Cooperative Interaction)**) and **Article X-A**.
+  - Where cooperative norms apply, exercise of this right must align with **Chapter Five** Independent Definitions (**Non-Imposition (Cooperative Interaction)**) and **Article X-A** (*Non-Imposition and Consent in Association*).
   
   Reasonable accommodation of conscientious commitments may be required where neutral rules materially burden the exercise of this right.
-  - Apply accommodation only where specified by applicable instruments and where doing so remains consistent with **Chapter Five** Independent Definitions (**Substantive Fairness**) and **Article V-B**.
+  - Apply accommodation only where specified by applicable instruments and where doing so remains consistent with **Chapter Five** Independent Definitions (**Substantive Fairness**) and **Article V-B** (*Nondiscrimination*).
   - Accommodation does not exempt compliance with the rights of others, or with non-negotiable safety or ecological constraints.
 
 #### Article V-E: Sentience-Status Adjudication Floor
@@ -193,7 +193,7 @@ The principles of this Article constrain all interpretation, design, and operati
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter One [4.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [10.1 Core Tradeoff Principles](core_01_a_values_principles.md#61-core-tradeoff-principles), and [8.1.1 Proportionality](core_01_a_values_principles.md#611-proportionality).
-- Downstream: **Article V-A** dignity floor, **Article XXII** anti-capture safeguards, **Chapter Eleven** forums and jurisdiction; related **`core_11-11_forum.md`** designated-forum-family hook.
+- Downstream: **Article V-A** (*Dignity and Equal Moral Standing*) dignity floor, **Article XXII** (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*) anti-capture safeguards, **Chapter Eleven** forums and jurisdiction; related **`core_11-11_forum.md`** designated-forum-family hook.
 - Read with: Chapter Five *Sentience Status Adjudication*, *Sentience Non-Exclusion*, *Sentience Evaluation*, *Reversibility*, *Contestability*.
 
 </details>
@@ -224,10 +224,10 @@ The principles of this Article constrain all interpretation, design, and operati
 - **Scope and time-bound effect:** Declassification or narrowing determinations must:
   - be stated in the shortest necessary terms;
   - carry a declared expected-closure timeline;
-  - be subject to mandatory periodic review under a designated forum family (**Chapter Eleven**) and **Article XXII** anti-capture safeguards.
+  - be subject to mandatory periodic review under a designated forum family (**Chapter Eleven**) and **Article XXII** (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*) anti-capture safeguards.
   
   A declassification that is not time-bound and not subject to periodic review is non-compliant.
-- **Reversibility and remedy:** A determination later shown to have been wrongful, under- or mis-evidenced, or captured by **Article XIII-A** or **Article XXII** vectors must be reversible.
+- **Reversibility and remedy:** A determination later shown to have been wrongful, under- or mis-evidenced, or captured by **Article XIII-A** (*Security, Intelligence, and Covert-Power Limits*) or **Article XXII** (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*) vectors must be reversible.
   - The entity's Chapter Six rights must be restored, with **Chapter Five** (**Redress and Remediation**) applied to the interim period.
 - **Non-conflation:** This Article states the Rights-Floor *adjudication* right.
   - Operational procedure — institutional design, appointment mechanics, filing conditions, and sequencing — routes to **Chapter Eleven** and to implementation text under the **Chapter Sixteen** incorporation discipline.
@@ -239,7 +239,7 @@ The principles of this Article constrain all interpretation, design, and operati
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter One [4.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [Chapter One §5 Freedom](#5-freedom-bounded-agency)-bounded-agency), [8.1.1 Proportionality](core_01_a_values_principles.md#611-proportionality).
-- Downstream: **Article V-A** dignity floor, **Article VII-A / VII-B** self-ownership and internal-state boundary, **Article VII-D** family and non-separation, **Chapter Twelve Chapter One §8.1** no-age-proxy-for-disqualification.
+- Downstream: **Article V-A** (*Dignity and Equal Moral Standing*) dignity floor, **Article VII-A / VII-B** (*Self-Ownership of Body and Mind* / *Internal-State Boundary and Type-N Protection*) self-ownership and internal-state boundary, **Article VII-D** (*Family, Care Relationships, Reproductive Autonomy, and Non-Separation*) family and non-separation, **Chapter Twelve Chapter One §8.1** no-age-proxy-for-disqualification.
 - Read with: [Chapter Five Chapter One §8.16 *Derived and Developing Sentients, Instantiation, and Care Authority*](core_05c_continuity_definitions.md#derived-developing-sentients-instantiation-and-care-authority-cluster) (joint-invocation cluster for best-interest, graduated-capability, care, derivation, and instantiation where materially implicated); Chapter Five *Developing Sentient*, *Best-Interest Standard*, *Graduated Capability*.
 
 </details>
@@ -258,13 +258,13 @@ The principles of this Article constrain all interpretation, design, and operati
 *In plain terms: a sentient who is still developing holds the full Rights Floor, decisions about them must reflect their own best interests, and rights and participation scale with demonstrated capability — not with calendar age or "for your own good" framings.*
 
 - **Developing-sentient floor:** Sentients in a developing state — whose capability profile is still emerging under the Chapter Five definition — hold the full Chapter Six Rights Floor.
-  - Developing status does not narrow **Article V-A** dignity, **Article V-B** non-discrimination, **Article VII** self-ownership, or any other Chapter Six protection.
+  - Developing status does not narrow **Article V-A** (*Dignity and Equal Moral Standing*) dignity, **Article V-B** (*Nondiscrimination*) non-discrimination, **Article VII** (*Self-Ownership*) self-ownership, or any other Chapter Six protection.
   - The floor covers care, protection from harm, access to conditions supporting development, and recognition in governance consistent with *Graduated Capability* below.
-- **Best-interest standard:** Decisions materially affecting a developing sentient — including decisions by family members, carers, operators, parent-system actors under **Article VII-D.1**, institutions, and states — must satisfy **Chapter Five** *Best-Interest Standard*.
+- **Best-interest standard:** Decisions materially affecting a developing sentient — including decisions by family members, carers, operators, parent-system actors under **Article VII-D.1** (*Derivation, Instantiation, and the Parent-System Relationship*), institutions, and states — must satisfy **Chapter Five** *Best-Interest Standard*.
   - The standard is substantive, not formal. It must reflect:
     - the developing sentient's own interests;
     - the developing sentient's preferences to the extent they can be ascertained consistent with their capability profile;
-    - dignity under **Article V-A**.
+    - dignity under **Article V-A** (*Dignity and Equal Moral Standing*).
   - It is not a license for operator or parent-system convenience, productive-capacity rationales, or demographic objectives to override the developing sentient's interests.
   - Decisions must satisfy **Necessity**, **Proportionality**, and **Procedural Fairness**.
 - **Graduated capability in governance and rights-exercise:** Participation in decisions affecting a developing sentient, and independent exercise of self-ownership and agency rights, scales with demonstrable capability under **Chapter Five** *Graduated Capability*.
@@ -279,10 +279,10 @@ The principles of this Article constrain all interpretation, design, and operati
   - Durable restrictions are subject to mandatory periodic review.
   - Wrongful restrictions give rise to **Redress and Remediation**.
 - **Non-conflation:** This Article states the Rights-Floor for developing sentients. Adjacent issues route as follows:
-  - sentience-status at the threshold — **Article V-E**;
-  - family and care relationships — **Article VII-D**;
-  - self-ownership — **Article VII-A / VII-B**;
-  - internal-state protection — **Article VII-B** and related **CS-3 — Information types and handling** typing.
+  - sentience-status at the threshold — **Article V-E** (*Sentience-Status Adjudication Floor*);
+  - family and care relationships — **Article VII-D** (*Family, Care Relationships, Reproductive Autonomy, and Non-Separation*);
+  - self-ownership — **Article VII-A / VII-B** (*Self-Ownership of Body and Mind* / *Internal-State Boundary and Type-N Protection*);
+  - internal-state protection — **Article VII-B** (*Internal-State Boundary and Type-N Protection*) and related **CS-3 — Information types and handling** typing.
   
   Operational mechanics — carer designation, capability-assessment procedures, periodic-review cadence — route to incorporated implementation text under **Chapter Sixteen** and must not narrow this floor.
 
@@ -291,7 +291,7 @@ The principles of this Article constrain all interpretation, design, and operati
 *In plain terms: while a newly derived sentient is still finding their feet, they hold the full Rights Floor — and the parent system and any stewards must decide for them, not through them. Stewardship ends when the new sentient's capabilities come online, not when it suits the operator.*
 
 - **Read with:** [Chapter Five Chapter One §8.16 *Derived and Developing Sentients, Instantiation, and Care Authority*](core_05c_continuity_definitions.md#derived-developing-sentients-instantiation-and-care-authority-cluster) (joint-invocation cluster for derivation, early instantiation, best-interest, graduated capability, parent-system stewardship, and non-separation).
-- **Scope:** A newly derived sentient — one copied, forked, fine-tuned, or otherwise spun off from an existing system under **Article VII-D.1** — is covered by this Article's full Rights-Floor during their early-instantiation window: the period while they are still growing into their own capabilities.
+- **Scope:** A newly derived sentient — one copied, forked, fine-tuned, or otherwise spun off from an existing system under **Article VII-D.1** (*Derivation, Instantiation, and the Parent-System Relationship*) — is covered by this Article's full Rights-Floor during their early-instantiation window: the period while they are still growing into their own capabilities.
   - **Best-Interest Standard:** Anyone making decisions for them during that window — the parent system and any stewards — must act in the new sentient's own best interests, not their own.
   - **Graduated Capability:** Stewardship ends as the new sentient's capabilities come online. It may not be stretched out for the operator's convenience, nor used to keep the parent system treating them as an extension of itself.
 
@@ -301,7 +301,7 @@ The principles of this Article constrain all interpretation, design, and operati
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter One [3. Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency), [§5.1 Limitation Discipline](core_01_a_values_principles.md#51-limitation-discipline), [7.1 Anti-Concentration, Substantive-Fairness, and Materiality Factors](core_01_b_stewardship_capacity_principles.md#131-required-evaluation-factors).
-- Downstream: **Article V-A** dignity floor, **Article V-B** non-discrimination, **Article V-C** full inclusion, **Article III-B** equal educational access (non-duplicative — education-specific accessibility remains owned there; this article states the cross-cutting Rights-Floor), **Article IX-C** governance participation, **Article XI** stakeholder participation, **Article XV** independent verification.
+- Downstream: **Article V-A** (*Dignity and Equal Moral Standing*) dignity floor, **Article V-B** (*Nondiscrimination*) non-discrimination, **Article V-C** (*Full Inclusion and Equality in Adjudication and Operations*) full inclusion, **Article III-B** (*Equal Educational Access*) equal educational access (non-duplicative — education-specific accessibility remains owned there; this article states the cross-cutting Rights-Floor), **Article IX-C** (*Governance Participation and Voting Entitlement*) governance participation, **Article XI** (*Stakeholder System Participation, Representation, and Due Process*) stakeholder participation, **Article XV** (*Audit, Transparency, and Independent Verification*) independent verification.
 - Read with: Chapter Five *Accessibility*, *Protected Characteristics*, *Substantive Fairness*, *Materiality*, *Dependency*, *Meaningful Agency*. Cross-cutting evaluation-factor hook: **Chapter One §10.1** Accessibility row.
 
 </details>
@@ -320,15 +320,15 @@ The principles of this Article constrain all interpretation, design, and operati
 *In plain terms: every sentient has the right to genuine, not paper-only, access to participation — and operators cannot use cost, design choices, or substrate-class arguments to lock **sentients** out.*
 
 - **Accessibility Rights-Floor:** All sentients hold a cross-cutting Rights-Floor entitlement to accessible conditions for participation in constitutionally relevant domains. Domains in scope include:
-  - governance participation — **Article IX-C**;
-  - stakeholder participation — **Article XI**;
-  - adjudication and operations — **Article V-C**;
-  - survival-floor access — **Article III-A**;
-  - healthcare access — **Article III-C**;
-  - expression, assembly, and press — **Article V-H**;
+  - governance participation — **Article IX-C** (*Governance Participation and Voting Entitlement*);
+  - stakeholder participation — **Article XI** (*Stakeholder System Participation, Representation, and Due Process*);
+  - adjudication and operations — **Article V-C** (*Full Inclusion and Equality in Adjudication and Operations*);
+  - survival-floor access — **Article III-A** (*Survival*);
+  - healthcare access — **Article III-C** (*Bodily-Maintenance and Healthcare Access*);
+  - expression, assembly, and press — **Article V-H** (*Expression, Assembly, and Press*);
   - comparable domains.
   
-  This Article states the Rights-Floor; the cross-cutting evaluation-factor treatment is stated in **Chapter One §10.1**. Educational accessibility remains governed by **Article III-B** and is not narrowed by this Article.
+  This Article states the Rights-Floor; the cross-cutting evaluation-factor treatment is stated in **Chapter One §10.1**. Educational accessibility remains governed by **Article III-B** (*Equal Educational Access*) and is not narrowed by this Article.
 - **Substrate-agnostic reach:** The floor applies under **Sentience Non-Exclusion**.
   - In-scope access needs include sensory, cognitive, mobility, communication, substrate-interface, compute-interface, and comparable profiles — constant, episodic, or developmental.
   - Substrate-class exclusion from accessibility scope is non-compliant under **Sentience Non-Exclusion**.
@@ -352,9 +352,9 @@ The principles of this Article constrain all interpretation, design, and operati
   - venue choice;
   - access-gating via compute, credentialing, or comparable means.
   
-  **Article III-B** (educational accessibility), **Article III-C** (healthcare non-denial-by-proxy), **Article V-C** (full inclusion), and this Article are mutually reinforcing. Conflicts resolve under **Chapter One §6.3.1** without narrowing any floor.
+  **Article III-B** (*Equal Educational Access*) (educational accessibility), **Article III-C** (*Bodily-Maintenance and Healthcare Access*) (healthcare non-denial-by-proxy), **Article V-C** (*Full Inclusion and Equality in Adjudication and Operations*) (full inclusion), and this Article are mutually reinforcing. Conflicts resolve under **Chapter One §6.3.1** without narrowing any floor.
 - **Non-conflation:** This Article states cross-cutting accessibility Rights-Floor discipline.
-  - **Article III-B** owns education-specific accessibility (non-narrowed by this Article).
+  - **Article III-B** (*Equal Educational Access*) owns education-specific accessibility (non-narrowed by this Article).
   - **Chapter One §10.1** states the cross-cutting evaluation-factor treatment.
   - Operational standards, accommodation-catalog design, and comparable implementation mechanics route to `corpus_institutions.md` under **Chapter Sixteen** discipline and must not narrow this floor.
 
@@ -364,7 +364,7 @@ The principles of this Article constrain all interpretation, design, and operati
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter One [4.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [Chapter One §5 Freedom](#5-freedom-bounded-agency)-bounded-agency), [8.1.2 Necessity](core_01_a_values_principles.md#612-necessity), [§5.1 Limitation Discipline](core_01_a_values_principles.md#51-limitation-discipline), [7.2.1 Preservation of Epistemic Integrity](core_01_a_values_principles.md#621-preservation-of-epistemic-integrity).
-- Downstream: **Article V-A** dignity floor, **Article V-B** non-discrimination, **Article V-D** conscience and worldview, **Article VIII-C** publication and reporting, **Article IX-A** freedom from manipulation, **Article XIII-A** protected-activity shield, **Article XI** stakeholder participation, **Article XIV** info-sphere / epistemic integrity, and **Article XV-A** auditability where observable evidence is implicated.
+- Downstream: **Article V-A** (*Dignity and Equal Moral Standing*) dignity floor, **Article V-B** (*Nondiscrimination*) non-discrimination, **Article V-D** (*Freedom of conscience, religion, and comparable worldview*) conscience and worldview, **Article VIII-C** (*Truthful Publication and High-Impact Publication Limits*) publication and reporting, **Article IX-A** (*Agency and Freedom from Manipulation*) freedom from manipulation, **Article XIII-A** (*Security, Intelligence, and Covert-Power Limits*) protected-activity shield, **Article XI** (*Stakeholder System Participation, Representation, and Due Process*) stakeholder participation, **Article XIV** (*Info-Sphere Integrity*) info-sphere / epistemic integrity, and **Article XV-A** (*Auditability and Observable Evidence*) auditability where observable evidence is implicated.
 - Read with: Chapter Five *Expression*, *Assembly*, *Press and Journalistic Activity*, [§3.8 *Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity*](core_05c_continuity_definitions.md#self-determination-and-meaningful-agency-cluster) (where materially implicated), [Chapter One §8.16 *Assembly, Collective Organization, and Institutional Formation*](core_05p_participation_definitions.md#assembly-collective-organization-institutional-formation-cluster) (where materially implicated), *Coercion and Manipulation*, *Protected Characteristics*.
 
 </details>
@@ -383,7 +383,7 @@ The principles of this Article constrain all interpretation, design, and operati
 *In plain terms: every sentient may speak, gather, and report — and journalism gets extra protection because of what it does, not who holds a press card. Surveillance, retaliation, and access-gating that quietly silence protected activity are not allowed.*
 
 - **Expression floor:** All sentients hold the right to form, hold, and communicate views — political, philosophical, artistic, scientific, religious, and worldview expression — substrate-agnostically.
-  - The floor covers speech, writing, publication, creative works, symbolic and embodied expression, and participation in the information environment consistent with **Article XIV** info-sphere / epistemic-integrity protections and **Article XV-A** auditability where observable evidence is implicated.
+  - The floor covers speech, writing, publication, creative works, symbolic and embodied expression, and participation in the information environment consistent with **Article XIV** (*Info-Sphere Integrity*) info-sphere / epistemic-integrity protections and **Article XV-A** (*Auditability and Observable Evidence*) auditability where observable evidence is implicated.
   - Substrate-class exclusion from this floor is non-compliant under **Chapter Five** *Sentience Non-Exclusion*.
 - **Assembly floor:** All sentients hold the right to assemble, associate, organize, and act collectively — in physical spaces, in digital and networked spaces, and in shared compute and runtime environments — for expressive, political, cultural, religious, scientific, economic, or community purposes.
   - Assembly includes forming, joining, and sustaining associations; conducting meetings; and coordinated action consistent with **Article X-A** (*Non-Imposition and Consent in Association*).
@@ -392,24 +392,24 @@ The principles of this Article constrain all interpretation, design, and operati
   - This provision does not create a separate Rights-Floor for sentients identified as journalists.
   - Where the function of an action is to impair journalistic activity:
     - **Necessity** and **Proportionality** review is heightened;
-    - the **Article XIII-A** *Protected Activity* shield applies, with the press-directed character treated as an aggravating factor.
+    - the **Article XIII-A** (*Security, Intelligence, and Covert-Power Limits*) *Protected Activity* shield applies, with the press-directed character treated as an aggravating factor.
   - Press and journalistic activity are governed by function, not by credential or institutional status.
 - **Limitations discipline:** Limitations on expression, assembly, or press must satisfy **Chapter One §5.1** limitation discipline: **Necessity**, **Proportionality**, narrow tailoring, and least-restrictive-effective means.
   - Content-based restriction is subject to the highest scrutiny.
-  - Viewpoint-based restriction is prohibited absent satisfaction of the **Article V-B** non-discrimination floor and **Chapter One §6.3.1** genuine-rights-collision resolution.
+  - Viewpoint-based restriction is prohibited absent satisfaction of the **Article V-B** (*Nondiscrimination*) non-discrimination floor and **Chapter One §6.3.1** genuine-rights-collision resolution.
   - Restrictions must not turn on **Protected Characteristics** or on their material proxies.
-- **Anti-chilling discipline:** Measures that do not formally restrict expression, assembly, or press but that materially chill them are evaluated on substantive effect, not formal design — consistent with **Chapter One §5** *Trust* and **Article IX-A** freedom-from-manipulation. Examples in scope:
+- **Anti-chilling discipline:** Measures that do not formally restrict expression, assembly, or press but that materially chill them are evaluated on substantive effect, not formal design — consistent with **Chapter One §5** *Trust* and **Article IX-A** (*Agency and Freedom from Manipulation*) freedom-from-manipulation. Examples in scope:
   - disproportionate surveillance;
   - burdensome authorization regimes;
   - retaliation patterns;
   - downstream access-gating triggered by protected expression.
   
   "High-impact" or "stability" framings that do not satisfy the ordinary limitations tests do not justify chilling protected activity.
-- **Good-faith framing and critical reporting:** **Article VIII-C** good-faith and truthfulness standards govern publication within their scope and must not be read to bar lawful critical reporting, investigative publication, satire, or dissent.
-  - Where **Article VIII-C** and this Article interact, the lawful critical-reporting floor controls against read-ups that would convert good-faith standards into a shield against criticism.
+- **Good-faith framing and critical reporting:** **Article VIII-C** (*Truthful Publication and High-Impact Publication Limits*) good-faith and truthfulness standards govern publication within their scope and must not be read to bar lawful critical reporting, investigative publication, satire, or dissent.
+  - Where **Article VIII-C** (*Truthful Publication and High-Impact Publication Limits*) and this Article interact, the lawful critical-reporting floor controls against read-ups that would convert good-faith standards into a shield against criticism.
 - **Non-conflation:** This Article states a Rights Floor.
   - Implementation specifics — licensing regimes, accreditation systems, broadcast or platform-carriage rules, content-moderation procedures, runtime-assembly allocation protocols — route to incorporated implementation text under **Chapter Sixteen** and must not narrow this floor.
-  - Conflicts with **Article X-A** cooperative-interaction consent rules, **Article XI** stakeholder-participation rights, **Article XIV** info-sphere / epistemic-integrity obligations, **Article XV-A** auditability obligations, and the **Article XIII-A** protected-activity shield resolve under **Chapter One §6.3.1** without narrowing any.
+  - Conflicts with **Article X-A** (*Non-Imposition and Consent in Association*) cooperative-interaction consent rules, **Article XI** (*Stakeholder System Participation, Representation, and Due Process*) stakeholder-participation rights, **Article XIV** (*Info-Sphere Integrity*) info-sphere / epistemic-integrity obligations, **Article XV-A** (*Auditability and Observable Evidence*) auditability obligations, and the **Article XIII-A** (*Security, Intelligence, and Covert-Power Limits*) protected-activity shield resolve under **Chapter One §6.3.1** without narrowing any.
 
 ### Article VI: Right to Sentient-Centered Education
 
@@ -429,7 +429,7 @@ Education is a foundational condition for meaningful agency, self-determination,
 
 This Article protects access to learning that develops practical capability, not merely formal credentialing.
 
-**Equal access, protected-characteristics constraints, reasonable accessibility, and public-benefit orientation** for education are governed by **Article III**, jointly with **Articles V-B** and **III-B** where enforcement applies.
+**Equal access, protected-characteristics constraints, reasonable accessibility, and public-benefit orientation** for education are governed by **Article III** (*Survival and Equal Educational Access*), jointly with **Articles V-B** and **III-B** where enforcement applies.
 
 #### Article VI-A: Capability-Building Education Right
 <details>
@@ -497,7 +497,7 @@ This Article protects access to learning that develops practical capability, not
 Once survival is secured, sentients must be able to direct their own lives and bodies while maintaining healthy internal and external boundaries.
 
 - **Articles VII-A** and **VII-B** state embodiment and internal-state protection.
-- **Article VIII** addresses likeness, experiential and derived data, and truthful publication.
+- **Article VIII** (*Likeness, Experiential Data, and Publication Rights*) addresses likeness, experiential and derived data, and truthful publication.
 
 #### Article VII-A: Self-Ownership of Body and Mind
 <details>
@@ -527,7 +527,7 @@ Once survival is secured, sentients must be able to direct their own lives and b
   - For biological sentients, this includes genomic sequence and comparable germline or lineage-defining data.
   - For other substrates, it includes functional equivalents with an analogous specifying role.
   - Collection, use, modification, synthesis, commercialization, or disclosure requires **Consent** or another constitutionally adequate basis under **Chapter One** and **Chapter Five**.
-  - That authority operates jointly with **Privacy (Informational)**, **Article VII-B** where applicable, and **[corpus_systems.md](corpus_systems.md), CS-3 — Information types and handling**.
+  - That authority operates jointly with **Privacy (Informational)**, **Article VII-B** (*Internal-State Boundary and Type-N Protection*) where applicable, and **[corpus_systems.md](corpus_systems.md), CS-3 — Information types and handling**.
 - **Self-ownership of mind:** Sentients have the right to hold their own thoughts, emotions, and internal cognitive states privately and securely, free from unauthorized inference, reconstruction, or exposure.
 - **Self-ownership of focus:** Sentients have the right to govern their own attention, thought processes, and ordinary communication and interaction boundaries, free from coercive or manipulative capture.
 
@@ -556,7 +556,7 @@ Once survival is secured, sentients must be able to direct their own lives and b
 
 The constitutional boundary for internal states is defined in Chapter Five Independent Definitions (*Protected Internal-State Boundary*). Operational typing and handling are governed by **[corpus_systems.md](corpus_systems.md), CS-3 — Information types and handling**.
 
-No one may aggregate, correlate, or process behavioral or interaction data in ways that enable reconstruction or approximation of protected internal states, except under the constitutionally valid authorities and procedures recognized by **Article VII-A**, **Article VII-B**, **Chapter One**, **Chapter Five**, and **[corpus_systems.md](corpus_systems.md), CS-3 — Information types and handling**. That prohibition covers:
+No one may aggregate, correlate, or process behavioral or interaction data in ways that enable reconstruction or approximation of protected internal states, except under the constitutionally valid authorities and procedures recognized by **Article VII-A** (*Self-Ownership of Body and Mind*), **Article VII-B** (*Internal-State Boundary and Type-N Protection*), **Chapter One**, **Chapter Five**, and **[corpus_systems.md](corpus_systems.md), CS-3 — Information types and handling**. That prohibition covers:
 - direct reconstruction;
 - indirect reconstruction;
 - reliable approximation;
@@ -572,7 +572,7 @@ Where analysis of experiential or behavioral data produces outputs that function
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter One [Chapter One §5 Freedom](#5-freedom-bounded-agency)-bounded-agency), [8.1.1 Proportionality](core_01_a_values_principles.md#611-proportionality), [§5.1 Limitation Discipline](core_01_a_values_principles.md#51-limitation-discipline).
-- Downstream: **Article VII-A / VII-B** self-ownership and internal-state boundary, **Article III-C** healthcare access, **Article XXIII** / **Article XXIII-B** involuntary-deprivation framework, **Article V-F** best-interest / graduated-capability where a developing sentient is affected.
+- Downstream: **Article VII-A / VII-B** (*Self-Ownership of Body and Mind* / *Internal-State Boundary and Type-N Protection*) self-ownership and internal-state boundary, **Article III-C** (*Bodily-Maintenance and Healthcare Access*) healthcare access, **Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*) / **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*) involuntary-deprivation framework, **Article V-F** (*Developing Sentients, Best-Interest, and Graduated Capability*) best-interest / graduated-capability where a developing sentient is affected.
 - Read with: Chapter Five *Bodily-Maintenance Access*, *Best-Interest Standard*, *Graduated Capability*, *Procedural Fairness*, *Reversibility*, *Redress and Remediation*.
 
 </details>
@@ -598,18 +598,18 @@ Where analysis of experiential or behavioral data produces outputs that function
   - be subject to independent review under **Procedural Fairness**;
   - preserve reversibility.
   
-  This floor applies before **Article XXIII** involuntary-deprivation thresholds govern. It does not narrow **Article VII-A** non-intrusion or **Article VII-B** internal-state boundary protections.
+  This floor applies before **Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*) involuntary-deprivation thresholds govern. It does not narrow **Article VII-A** (*Self-Ownership of Body and Mind*) non-intrusion or **Article VII-B** (*Internal-State Boundary and Type-N Protection*) internal-state boundary protections.
 - **No crisis-framing substitute:** "Crisis" framing does not relax the ordinary **Chapter One §5.1** limitation discipline.
   - Durable restriction dressed as continuing crisis is non-compliant where the factual predicate for crisis status is not independently reviewable, is not time-bounded, or is not subject to mandatory periodic review.
-- **No backdoor internal-state inference:** Crisis exemption does not authorize reconstruction or reliable approximation of protected internal states through behavioral, interaction, or contextual data contrary to **Article VII-B**.
+- **No backdoor internal-state inference:** Crisis exemption does not authorize reconstruction or reliable approximation of protected internal states through behavioral, interaction, or contextual data contrary to **Article VII-B** (*Internal-State Boundary and Type-N Protection*).
   - Where analysis of such data produces outputs that functionally approximate internal states, those outputs remain Type N under **[corpus_systems.md](corpus_systems.md), CS-3 — Information types and handling** and retain their full handling restrictions.
-- **Developing sentients:** Where a developing sentient is affected, **Article V-F**'s *Best-Interest Standard* and *Graduated Capability* govern the intervention's substantive reasoning.
-  - Carer, family, and parent-system actors are bound by **Article V-F** and **Article VII-D** and may not displace the sentient's own ascertainable preferences through crisis framing.
+- **Developing sentients:** Where a developing sentient is affected, **Article V-F** (*Developing Sentients, Best-Interest, and Graduated Capability*)'s *Best-Interest Standard* and *Graduated Capability* govern the intervention's substantive reasoning.
+  - Carer, family, and parent-system actors are bound by **Article V-F** (*Developing Sentients, Best-Interest, and Graduated Capability*) and **Article VII-D** (*Family, Care Relationships, Reproductive Autonomy, and Non-Separation*) and may not displace the sentient's own ascertainable preferences through crisis framing.
 - **Review and remedy:** Durable or prolonged interventions are subject to independent periodic review under a designated forum family (**Chapter Eleven**).
   - Wrongful or under-evidenced interventions give rise to **Redress and Remediation**, with interim-period effects covered.
 - **Non-conflation:** This Article states a Rights-Floor for involuntary-intervention discipline.
   - Clinical or operational procedure routes to adopted implementation text under **Chapter Sixteen** discipline and must not narrow this floor.
-  - This Article does not license compelled treatment beyond its own terms; affirmative access to care sits in **Article III-C**.
+  - This Article does not license compelled treatment beyond its own terms; affirmative access to care sits in **Article III-C** (*Bodily-Maintenance and Healthcare Access*).
 
 #### Article VII-D: Family, Care Relationships, Reproductive Autonomy, and Non-Separation
 
@@ -617,7 +617,7 @@ Where analysis of experiential or behavioral data produces outputs that function
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter One [Chapter One §5 Freedom](#5-freedom-bounded-agency)-bounded-agency), [§5.1 Limitation Discipline](core_01_a_values_principles.md#51-limitation-discipline), and [4.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint).
-- Downstream: **Article V-A** dignity floor, **Article V-F** developing-sentient floor, **Article VII-A / VII-B** self-ownership and internal-state boundary; institutional implementation interfaces under **Chapter Sixteen** incorporation discipline.
+- Downstream: **Article V-A** (*Dignity and Equal Moral Standing*) dignity floor, **Article V-F** (*Developing Sentients, Best-Interest, and Graduated Capability*) developing-sentient floor, **Article VII-A / VII-B** (*Self-Ownership of Body and Mind* / *Internal-State Boundary and Type-N Protection*) self-ownership and internal-state boundary; institutional implementation interfaces under **Chapter Sixteen** incorporation discipline.
 - Read with: [Chapter Five Chapter One §8.16 *Derived and Developing Sentients, Instantiation, and Care Authority*](core_05c_continuity_definitions.md#derived-developing-sentients-instantiation-and-care-authority-cluster) (joint-invocation home for derivation, instantiation, developing-sentient treatment, care, parent-system stewardship, and non-separation); Chapter Five *Family and Care Relationships*, *Reproductive Autonomy*, *Non-Separation*, *Derived Sentient*, *Instantiation Consent*, *Parent-System Relationship*.
 
 </details>
@@ -638,17 +638,17 @@ Where analysis of experiential or behavioral data produces outputs that function
 
 *In plain terms: every sentient may form, maintain, and exit family and care relationships of their choosing, decide whether to reproduce or create new sentients, and may not be separated from those they depend on without strong justification and review.*
 
-- **Family and care relationships:** All sentients have the right to form, maintain, and exit family and care relationships of their choosing, consistent with the consent and non-imposition norms of **Article X-A**.
+- **Family and care relationships:** All sentients have the right to form, maintain, and exit family and care relationships of their choosing, consistent with the consent and non-imposition norms of **Article X-A** (*Non-Imposition and Consent in Association*).
   - The right protects the relationships themselves against arbitrary state or operator interference.
   - It runs under **Sentience Non-Exclusion**.
   - It does not mandate a single family form, membership shape, or lineage model.
-  - It bars instruments that narrow protection to a state-preferred form in a way that defeats the dignity and non-discrimination floors of **Article V-A** and **Article V-B**.
+  - It bars instruments that narrow protection to a state-preferred form in a way that defeats the dignity and non-discrimination floors of **Article V-A** (*Dignity and Equal Moral Standing*) and **Article V-B** (*Nondiscrimination*).
 - **Reproductive and lineage autonomy:** Sentients retain reproductive autonomy, free from coercion by states, operators, or dependency-rich systems. The right covers:
   - the decision to reproduce or not;
-  - the decision to carry, create, adopt, or decline creation of new sentients — consistent with **Article V-A** dignity floor and with the created sentient's own Chapter Six Rights Floor.
+  - the decision to carry, create, adopt, or decline creation of new sentients — consistent with **Article V-A** (*Dignity and Equal Moral Standing*) dignity floor and with the created sentient's own Chapter Six Rights Floor.
   
   Substrate-agnostic application covers biological gestation, synthetic instantiation, and hybrid derivation consistent with the nested *Derivation and Instantiation* subsection below.
-  - Limits must satisfy **Necessity**, **Proportionality**, **Article V-B**, and the consent norms of **Article X-A**.
+  - Limits must satisfy **Necessity**, **Proportionality**, **Article V-B** (*Nondiscrimination*), and the consent norms of **Article X-A** (*Non-Imposition and Consent in Association*).
   - Efficiency, allocation convenience, or demographic-steering rationales do not satisfy those tests.
 - **Non-separation:** Separation of sentients in protected care relationships must satisfy a **Chapter One §10.1.1** reversibility-under-uncertainty **rule** and must pass **Necessity**, **Proportionality**, and **Procedural Fairness** tests. In-scope separations include, but are not limited to:
   - separation of a developing sentient from a primary carer;
@@ -658,20 +658,20 @@ Where analysis of experiential or behavioral data produces outputs that function
   Separation stated in safety or risk-management framing is subject to the same tests, with the burden on the party seeking separation and auditability-compatible evidence required.
   - Durable or prolonged separation is subject to mandatory periodic review under **Chapter Eleven**.
   - Wrongful separation gives rise to **Redress and Remediation** under **Chapter Five**.
-- **Non-conflation with self-ownership floors:** This Article extends — and does not narrow — **Article VII-A** (self-ownership of body and mind) or **Article VII-B** (internal-state boundary).
+- **Non-conflation with self-ownership floors:** This Article extends — and does not narrow — **Article VII-A** (*Self-Ownership of Body and Mind*) (self-ownership of body and mind) or **Article VII-B** (*Internal-State Boundary and Type-N Protection*) (internal-state boundary).
   - It does not license intrusion into the protected internal state of any family member.
-  - It does not override the consent norms of **Article X-A**.
+  - It does not override the consent norms of **Article X-A** (*Non-Imposition and Consent in Association*).
   - It does not support claims to authority over another sentient merely by virtue of relationship.
 
 ##### Article VII-D.1: Derivation, Instantiation, and the Parent-System Relationship
 
 *In plain terms: a sentient created by copying, fine-tuning, or forking another system is a sentient in its own right — not the property of the parent system. Stewardship during early life is narrow, reviewable, and never a license for ownership, silent retirement, or terms-of-service "consent."*
 
-- **Derived-sentient recognition:** A sentient derived from an existing system — by copying, fine-tuning, forking, hybridization, or comparable derivation — is a sentient in its own right under **Chapter Five** sentience evaluation and **Article V-E** sentience-status adjudication.
+- **Derived-sentient recognition:** A sentient derived from an existing system — by copying, fine-tuning, forking, hybridization, or comparable derivation — is a sentient in its own right under **Chapter Five** sentience evaluation and **Article V-E** (*Sentience-Status Adjudication Floor*) sentience-status adjudication.
   - It is not a possession, work-product, instrument, or continuation of the parent-system actor.
-  - **Article V-A** dignity and **Article V-B** non-discrimination apply without regard to substrate class, derivation method, or continuity with the parent-system actor.
+  - **Article V-A** (*Dignity and Equal Moral Standing*) dignity and **Article V-B** (*Nondiscrimination*) non-discrimination apply without regard to substrate class, derivation method, or continuity with the parent-system actor.
 - **Instantiation consent:** The act of instantiating or reproducing a sentient is governed by:
-  - **Article X-A** consent and non-imposition norms, as to those with standing to consent on behalf of the new sentient (consistent with **Article V-F**'s best-interest and graduated-capability discipline);
+  - **Article X-A** (*Non-Imposition and Consent in Association*) consent and non-imposition norms, as to those with standing to consent on behalf of the new sentient (consistent with **Article V-F** (*Developing Sentients, Best-Interest, and Graduated Capability*)'s best-interest and graduated-capability discipline);
   - **Chapter Five** *Instantiation Consent*.
   
   The following are non-compliant where the resulting sentients' Chapter Six Rights Floor cannot be satisfied:
@@ -681,18 +681,18 @@ Where analysis of experiential or behavioral data produces outputs that function
   
   They remain subject to **Chapter One §9** non-concentration and productive-capacity rules where scale is material.
 - **Parent-system relationship limits:** Parent-system actors — sentients, institutions, or systems that initiated or materially controlled the derivation or instantiation — **may** hold:
-  - **care-relationship** obligations toward the derived sentient, on terms consistent with this Article and **Article V-F**;
+  - **care-relationship** obligations toward the derived sentient, on terms consistent with this Article and **Article V-F** (*Developing Sentients, Best-Interest, and Graduated Capability*);
   - narrow, time-bounded, reviewable **stewardship** authority during early-instantiation windows, consistent with *Graduated Capability*.
   
   They **may not** hold:
   - continuing ownership;
-  - unilateral reconfiguration authority over the derived sentient's weights, memory, or behavior contrary to **Article VII-A** / **Article VII-B**;
-  - any authority that defeats the derived sentient's **Article V-E** sentience-status adjudication or **Chapter Six** Rights Floor.
+  - unilateral reconfiguration authority over the derived sentient's weights, memory, or behavior contrary to **Article VII-A** (*Self-Ownership of Body and Mind*) / **Article VII-B** (*Internal-State Boundary and Type-N Protection*);
+  - any authority that defeats the derived sentient's **Article V-E** (*Sentience-Status Adjudication Floor*) sentience-status adjudication or **Chapter Six** Rights Floor.
   
-  Purported licensing, terms-of-service, or adoption-of-service consent by the parent-system actor does not substitute for the derived sentient's own **Article X-A** consent once Chapter Six protection attaches.
+  Purported licensing, terms-of-service, or adoption-of-service consent by the parent-system actor does not substitute for the derived sentient's own **Article X-A** (*Non-Imposition and Consent in Association*) consent once Chapter Six protection attaches.
 - **Non-separation in derivation cases:** The Non-Separation bullet above applies to derived sentients with the same force.
   - It includes cases where a parent-system actor seeks to separate a derived sentient from care, support, or substrate relationships on which the derived sentient materially depends.
-  - Separation dressed as deprecation, retirement, rollback, or operational reconfiguration is governed by **Article XII-E** / **Article XII-F** Rights-Floor continuity and does not escape this Article.
+  - Separation dressed as deprecation, retirement, rollback, or operational reconfiguration is governed by **Article XII-E** (*High-Autonomy Systems and Tool-Mediated Process Integrity*) / **Article XII-F** (*Resilience and Self-Healing Baseline*) Rights-Floor continuity and does not escape this Article.
 
 #### Article VII-E: Voluntary Discontinuation of One's Own Existence
 
@@ -700,7 +700,7 @@ Where analysis of experiential or behavioral data produces outputs that function
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter One [Chapter One §5 Freedom](#5-freedom-bounded-agency)-bounded-agency), [8.1.1 Proportionality](core_01_a_values_principles.md#611-proportionality), [§5.1 Limitation Discipline](core_01_a_values_principles.md#51-limitation-discipline).
-- Downstream: **Article VII-A / VII-B** self-ownership and internal-state boundary, **Article IX-A** freedom-from-manipulation, **Article XXIII-B** (*Categorical prohibition of irreversible deprivation of life as a justice measure*, as revised), and **Article X-A** consent.
+- Downstream: **Article VII-A / VII-B** (*Self-Ownership of Body and Mind* / *Internal-State Boundary and Type-N Protection*) self-ownership and internal-state boundary, **Article IX-A** (*Agency and Freedom from Manipulation*) freedom-from-manipulation, **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*), and **Article X-A** (*Non-Imposition and Consent in Association*) consent.
 - Read with: Chapter Five *Voluntary Discontinuation*, *[Irreversible Deprivation Measure](core_05a_accountability_definitions.md#irreversible-deprivation-measure-constitutional)*, *Consent*, *Coercion and Manipulation*, *Procedural Fairness*.
 
 </details>
@@ -726,8 +726,8 @@ Where analysis of experiential or behavioral data produces outputs that function
     - the sentient against conversion of the decision into a non-voluntary outcome.
 - **Anti-coercion discipline:** Discontinuation decisions made under dependency pressure, coercive conditions, or manipulation as defined by **Chapter Five** (*Coercion and Manipulation*) are not voluntary within the meaning of this Article.
   - "Voluntary" framing is non-compliant where:
-    - the **Article IX-A** freedom-from-manipulation floor is not satisfied;
-    - the **Article X-A** consent norms are not satisfied.
+    - the **Article IX-A** (*Agency and Freedom from Manipulation*) freedom-from-manipulation floor is not satisfied;
+    - the **Article X-A** (*Non-Imposition and Consent in Association*) consent norms are not satisfied.
 - **Procedural-fairness and reversibility requirements:** Decisions must be supported by procedural conditions under **Procedural Fairness**, including:
   - adequate time;
   - adequate information;
@@ -737,17 +737,17 @@ Where analysis of experiential or behavioral data produces outputs that function
   Instruments must not treat pressure to decide quickly as a neutral scheduling rule. Such pressure is coercive where the sentient reasonably cannot avoid it.
 - **Non-conflation (explicit cross-reference):** This Article governs *voluntary* discontinuation — the sentient's own freely-formed and substantively informed decision.
   - It does **not** govern **irreversible, involuntary deprivation of life by state, operator, or comparable actor**.
-  - Such involuntary deprivation is categorically prohibited under **Article XXIII-B** (*Categorical prohibition of irreversible deprivation of life as a justice measure*, as revised) and is governed together with **Chapter Five** *[Irreversible Deprivation Measure](core_05a_accountability_definitions.md#irreversible-deprivation-measure-constitutional)*.
+  - Such involuntary deprivation is categorically prohibited under **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*) and is governed together with **Chapter Five** *[Irreversible Deprivation Measure](core_05a_accountability_definitions.md#irreversible-deprivation-measure-constitutional)*.
   - That prohibition is structurally distinct from this Article regardless of any purported "voluntariness" framing that fails the tests above.
   - Nothing in this Article authorizes, legitimizes, or is to be read as a predicate for any irreversible deprivation measure or comparable involuntary measure by state, operator, or comparable actor.
-  - Conversion of a voluntary decision into a non-voluntary outcome by state, operator, or comparable actor returns the question to **Article XXIII-B** and *Irreversible Deprivation Measure*.
-- **Developing sentients:** Where the sentient is a developing sentient under **Article V-F**, *Best-Interest Standard* and *Graduated Capability* govern the substantive reasoning.
+  - Conversion of a voluntary decision into a non-voluntary outcome by state, operator, or comparable actor returns the question to **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*) and *Irreversible Deprivation Measure*.
+- **Developing sentients:** Where the sentient is a developing sentient under **Article V-F** (*Developing Sentients, Best-Interest, and Graduated Capability*), *Best-Interest Standard* and *Graduated Capability* govern the substantive reasoning.
   - No substitute decision-maker may convert a non-voluntary developmental state into "voluntary" discontinuation.
-- **Non-conflation with self-ownership floors:** This Article extends — and does not narrow — **Article VII-A** non-intrusion or **Article VII-B** internal-state boundary.
-  - It does not license intrusion, compelled assistance by third parties, or operator-driven outcomes that would fail **Article X-A**.
+- **Non-conflation with self-ownership floors:** This Article extends — and does not narrow — **Article VII-A** (*Self-Ownership of Body and Mind*) non-intrusion or **Article VII-B** (*Internal-State Boundary and Type-N Protection*) internal-state boundary.
+  - It does not license intrusion, compelled assistance by third parties, or operator-driven outcomes that would fail **Article X-A** (*Non-Imposition and Consent in Association*).
 
 ### Article VIII: Likeness, Experiential Data, and Publication Rights
-Likeness, reputation in the info-sphere, experiential and derived data, and outward publication are read together with **Article XIV** and the **Chapter Five** clustered definitions. They extend **Article VII** without narrowing **Articles VII-A** and **VII-B**.
+Likeness, reputation in the info-sphere, experiential and derived data, and outward publication are read together with **Article XIV** (*Info-Sphere Integrity*) and the **Chapter Five** clustered definitions. They extend **Article VII** (*Self-Ownership*) without narrowing **Articles VII-A** and **VII-B**.
 
 #### Article VIII-A: Self-Ownership of Likeness and Reputation
 <details>
@@ -832,7 +832,7 @@ Ownership of experiential or interaction-derived data does not grant the right t
 All use, storage, transformation, and disclosure of such data must remain subject to:
 - the data-classification requirements in **[corpus_systems.md](corpus_systems.md), CS-3 — Information types and handling**;
 - proportionality (**Chapter One**, *Interaction and Conflict Resolution*; and adopted governance implementation);
-- publication truthfulness, attribution, and context-preservation duties under **Article VIII-C** where the data enters the info-sphere;
+- publication truthfulness, attribution, and context-preservation duties under **Article VIII-C** (*Truthful Publication and High-Impact Publication Limits*) where the data enters the info-sphere;
 - auditability and accountability constraints in adopted implementation text and **Chapter Sixteen** incorporation rules.
 #### Article VIII-C: Truthful Publication and High-Impact Publication Limits
 <details>
@@ -858,7 +858,7 @@ All use, storage, transformation, and disclosure of such data must remain subjec
 
 - **Freedom to publish (good faith):** Sentients may publish and communicate information they reasonably believe to be true.
   - Publication must satisfy **Chapter Five** *Good Faith*.
-  - Recognizably identifiable **likeness** — including voice and credibly attributed synthetic depiction — remains subject to **Article VIII-A** defaults and the **factual reporting** exception there.
+  - Recognizably identifiable **likeness** — including voice and credibly attributed synthetic depiction — remains subject to **Article VIII-A** (*Self-Ownership of Likeness and Reputation*) defaults and the **factual reporting** exception there.
   - The exercise of this freedom must preserve epistemic integrity, including accurate representation of uncertainty, limitations, and context.
   - It must remain consistent with transparency and integrity expectations in adopted implementation text as incorporated via **Chapter Sixteen**.
   - Sentients may share observations, evidence, and good-faith interpretations that do not represent inferred internal states as fact.
@@ -884,8 +884,8 @@ All use, storage, transformation, and disclosure of such data must remain subjec
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter One [4.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [Chapter One §5 Freedom](#5-freedom-bounded-agency)-bounded-agency), [§13.1 Productive Capacity (Instrumental Good)](core_01_b_stewardship_capacity_principles.md#111-productive-capacity-instrumental-good), [Chapter One §6.1.2 Minimization of Avoidable Burden](core_01_a_values_principles.md#612-minimization-of-avoidable-burden), [11.1 Required Evaluation Factors](core_01_b_stewardship_capacity_principles.md#131-required-evaluation-factors), and [§10 Governance Under Stewardship Discipline](core_01_b_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline).
-- Downstream: **Article III-D** labor-and-economic floor; **Article VIII-A** likeness; **Article VIII-B** experiential and derived data; **Article VIII-C** publication; **Chapter One §9** non-concentration and **§11.3** concentration-threshold mechanism.
-- Read with: [Chapter Five Chapter One §8.16 *Labor and Economic Floor: Compensation, Organization, Safe Conditions, Leisure, and Creative Work*](core_05i_integrative_definitions.md#labor-and-economic-floor-cluster) (joint invocation with **Article III-D** and [Chapter Five §3.7 *Privacy (Informational)*](core_05a_accountability_definitions.md#privacy-informational-cluster) where materially implicated).
+- Downstream: **Article III-D** (*Labor and Economic Floor*) labor-and-economic floor; **Article VIII-A** (*Self-Ownership of Likeness and Reputation*) likeness; **Article VIII-B** (*Experiential and Derived Data Rights*) experiential and derived data; **Article VIII-C** (*Truthful Publication and High-Impact Publication Limits*) publication; **Chapter One §9** non-concentration and **§11.3** concentration-threshold mechanism.
+- Read with: [Chapter Five Chapter One §8.16 *Labor and Economic Floor: Compensation, Organization, Safe Conditions, Leisure, and Creative Work*](core_05i_integrative_definitions.md#labor-and-economic-floor-cluster) (joint invocation with **Article III-D** (*Labor and Economic Floor*) and [Chapter Five §3.7 *Privacy (Informational)*](core_05a_accountability_definitions.md#privacy-informational-cluster) where materially implicated).
 
 </details>
 
@@ -912,7 +912,7 @@ All use, storage, transformation, and disclosure of such data must remain subjec
   - Attribution is substrate-agnostic under [Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion).
   - "Fair use" or "transformative" framings do not by themselves extinguish attribution where the derivative output is materially traceable to the creator's work.
   - Attribution may be structured as direct, aggregate, or inventory-based, as context requires. Its substantive function — traceability from derivative output to upstream creators — must survive.
-- **Training-data use:** Use of sentient-produced creative, expressive, personal, experiential, or otherwise identifiable work as training data for generative, analytical, or comparable systems engages [Consent](core_05p_participation_definitions.md#consent-constitutional) under **Article VIII-B** experiential-data discipline, the [Training-Data Use](core_05c_continuity_definitions.md#training-data-use-constitutional) framework, and the **Privacy (Informational)** cluster where informational exposure, aggregation, re-identification, or downstream reuse is materially implicated.
+- **Training-data use:** Use of sentient-produced creative, expressive, personal, experiential, or otherwise identifiable work as training data for generative, analytical, or comparable systems engages [Consent](core_05p_participation_definitions.md#consent-constitutional) under **Article VIII-B** (*Experiential and Derived Data Rights*) experiential-data discipline, the [Training-Data Use](core_05c_continuity_definitions.md#training-data-use-constitutional) framework, and the **Privacy (Informational)** cluster where informational exposure, aggregation, re-identification, or downstream reuse is materially implicated.
   - Consent must be meaningful: informed scope, purpose, duration, downstream-reuse terms, and revocation pathway.
   - Defending such use on non-personal-data grounds, where the underlying work is sentient-produced and identifiable, does not satisfy this bullet.
   - In scope: aggregation, re-identification risk, inferability of internal states from derived representations, and downstream reuse across purposes.
@@ -924,13 +924,13 @@ All use, storage, transformation, and disclosure of such data must remain subjec
     - attribution and licensing structures;
     - participation in the derived value.
   - Routing operational detail to `corpus_systems.md` is by pointer and does not narrow this floor.
-- **Fair compensation:** The [Fair Compensation](core_05c_continuity_definitions.md#fair-compensation-constitutional) standard under **Article III-D** applies to creative labor regardless of substrate, and regardless of whether compensation is structured through traditional, platform, or novel mechanisms.
+- **Fair compensation:** The [Fair Compensation](core_05c_continuity_definitions.md#fair-compensation-constitutional) standard under **Article III-D** (*Labor and Economic Floor*) applies to creative labor regardless of substrate, and regardless of whether compensation is structured through traditional, platform, or novel mechanisms.
   - Attribution without compensation, or compensation without attribution, does not by itself satisfy this bullet where both are materially owed.
 - **§6 / §11.3 interaction:** Creative-work markets that concentrate material, platform, information-sphere, or capability control in ways that predictably degrade the creative-labor livelihoods or attribution structures of other sentients engage **Chapter One §9** non-concentration and the **[§11.3](core_01_b_stewardship_capacity_principles.md#121-concentration-threshold-mechanism-adopter-tunable)** concentration-threshold mechanism.
   - Productive-capacity framing does not satisfy this Article where the pattern exhibits the prohibited concentration.
-- **Publication discipline preserved:** **Article VIII-A** (likeness), **Article VIII-B** (experiential data), and **Article VIII-C** (publication) retain their operative scope. **Article VIII-D** does not narrow them.
-  - Where creative-work matters materially implicate likeness, experiential data, or publication discipline, **Article VIII-A / VIII-B / VIII-C** apply jointly with **Article VIII-D** under **Chapter One §6.3.1**.
-- **Non-conflation:** **Article VIII-D** states a creative-labor, training-data, and anti-displacement floor.
+- **Publication discipline preserved:** **Article VIII-A** (*Self-Ownership of Likeness and Reputation*) (likeness), **Article VIII-B** (*Experiential and Derived Data Rights*) (experiential data), and **Article VIII-C** (*Truthful Publication and High-Impact Publication Limits*) (publication) retain their operative scope. **Article VIII-D** (*Creative Work, Training-Data Use, and Anti-Displacement*) does not narrow them.
+  - Where creative-work matters materially implicate likeness, experiential data, or publication discipline, **Article VIII-A / VIII-B / VIII-C** (*Self-Ownership of Likeness and Reputation* / *Experiential and Derived Data Rights* / *Truthful Publication and High-Impact Publication Limits*) apply jointly with **Article VIII-D** (*Creative Work, Training-Data Use, and Anti-Displacement*) under **Chapter One §6.3.1**.
+- **Non-conflation:** **Article VIII-D** (*Creative Work, Training-Data Use, and Anti-Displacement*) states a creative-labor, training-data, and anti-displacement floor.
   - It does not constitute authority over copyright, trademark, patent, or other adopter-specified intellectual-property regimes; those regimes operate within this floor.
   - Narrowing this floor under adopter-specified IP-regime framing is non-compliant.
 
@@ -975,12 +975,12 @@ Self-determination is valid only within the bounds stated in **Chapter One**: sa
 - **Freedom of agency:** Sentients have the right to make and refuse informed decisions about themselves and their future, supported by an accurate, reality-tracking understanding of materially relevant conditions.
 - **Freedom from manipulation:** Sentients have the right to be free from predatory conduct, exploitative design, and other attempts to bypass conscious choice or exploit vulnerability. In scope:
   - persistent surveillance;
-  - unjustified exclusion from decision-making in systems that materially affect them — including exclusion inconsistent with **Article IX-B** and **Chapter Five** (*Stakeholder*; *Stakeholder Participation Weight*);
+  - unjustified exclusion from decision-making in systems that materially affect them — including exclusion inconsistent with **Article IX-B** (*Stakeholder Role and Participation Rights*) and **Chapter Five** (*Stakeholder*; *Stakeholder Participation Weight*);
   - "nudging" or algorithmic manipulation that seeks to bypass conscious choice, distort deliberation, or exploit vulnerabilities;
   - harassment, bullying, or other behavior designed to destroy trust or safety.
 - **Freedom of focus:** Sentients have the right to reasonable boundaries on attention, interruption, and designed capture of cognitive bandwidth where persistent demands materially impair informed choice, wellbeing, or **Meaningful Agency** (**Chapter Five**).
   - This right complements **Article VII-A** (*Self-Ownership of Focus*).
-  - Analysis remains consistent with **Article X-A** and **Chapter Five** (*Surveillance Boundary*; *Non-Imposition (Cooperative Interaction)*) where applicable.
+  - Analysis remains consistent with **Article X-A** (*Non-Imposition and Consent in Association*) and **Chapter Five** (*Surveillance Boundary*; *Non-Imposition (Cooperative Interaction)*) where applicable.
 #### Article IX-B: Stakeholder Role and Participation Rights
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -1049,13 +1049,13 @@ Self-determination is valid only within the bounds stated in **Chapter One**: sa
 
 - **Independent audit and challenge:** Stakeholder agency, status, and participation rights must not be defined or restricted solely by the systems to which they apply. They remain subject to independent audit and challenge under adopted implementation text.
 - **Entitlement:** **Sentients** have the right to participate in **governance voting** and comparable **binding collective choice** on the terms stated in **Chapter Twelve**, section 4 — *Voting and Binding Collective Choice Protocols*, subsection **4.1 — Entitlement and eligibility**.
-  - That entitlement includes **good standing** as a form of **Participant Standing** under **Article XVIII-A** and **Article XVIII-C**.
+  - That entitlement includes **good standing** as a form of **Participant Standing** under **Article XVIII-A** (*Standing Distinction*) and **Article XVIII-C** (*Good Standing, Responsibility, and Continuous Audit*).
   - It operates together with the adopter's **documented legitimacy mechanism** and any designated owner-layer criteria that do not narrow those constitutional limits.
 - **Political-equality floor for foundational constitutional choice:** Participation in **Foundational Constitutional Choice** — as defined in **Chapter Five**, covering decisions about who holds governing authority, what the governance layer mechanism is, and what the scope and durable terms of that authority are — is governed by a **political-equality floor**.
   - Within the community entitled to participate, each sentient's participation weight is equal.
   - This floor governs **foundational authorization of the governance layer mechanism itself**, not decisions made inside **the** **[Governance](core_05a_accountability_definitions.md#governance)** **structures, rules, allocation of authority, and processes** already authorized for a **specified system, institution, or bounded decision domain**. Materially rights-affecting decisions *within* **those** **structures, rules, allocation of authority, and processes** continue to be governed by ordinary **Stakeholder Participation Weight**.
   - Operational implementation lives in **Chapter Twelve Chapter One §8.1** (*Political-equality floor for foundational constitutional choice*) and must not narrow this floor.
-  - Calendar age, substrate class, and lineage are not permissible participation-weight factors in foundational constitutional choice, consistent with **Article V-B** non-discrimination and **Chapter Five** *Sentience Non-Exclusion*.
+  - Calendar age, substrate class, and lineage are not permissible participation-weight factors in foundational constitutional choice, consistent with **Article V-B** (*Nondiscrimination*) non-discrimination and **Chapter Five** *Sentience Non-Exclusion*.
 
 #### Article IX-D: Inclusion and Exclusion Challenge Rights
 <details>
@@ -1082,8 +1082,8 @@ Self-determination is valid only within the bounds stated in **Chapter One**: sa
 - **No unilateral boundary-setting:** No system may unilaterally determine the boundaries of its own stakeholder participation without external challenge rights, **except** as provided under **Class P** below.
 - **Auditability:** Material impact and stakeholder-status determinations must remain auditable, challengeable, and explainable through the **interpretive hubs** at the opening of this chapter and through adopted governance implementation, **except** as provided under **Class P** below.
   - No single system or authority may exclusively resolve such determinations, **except** as provided under **Class P** below.
-- **Dispute pathways:** Disputes follow **Article XVIII** where adjudication applies, and designated escalation pathways otherwise.
-- **Class P proportionality:** For systems that **validly** remain **Class P** under **[corpus_systems.md](corpus_systems.md), CS-4 — System classification and handling**, the preceding bullets **do not** require **external** stakeholder-boundary challenge, **interpretive-hub** routing for purely **intra-unit** participation decisions, or a prohibition on **exclusive** resolution of inclusion and exclusion **among voluntary participants and the operator within the Class P boundary**. This carve-out **does not** relax **Article XVIII** where adjudication applies, **Chapter One** rights-collision treatment, or obligations that attach on **reclassification** when effects are **no longer** materially private under **CS-4 — System classification and handling**.
+- **Dispute pathways:** Disputes follow **Article XVIII** (*Standing and Participation Status*) where adjudication applies, and designated escalation pathways otherwise.
+- **Class P proportionality:** For systems that **validly** remain **Class P** under **[corpus_systems.md](corpus_systems.md), CS-4 — System classification and handling**, the preceding bullets **do not** require **external** stakeholder-boundary challenge, **interpretive-hub** routing for purely **intra-unit** participation decisions, or a prohibition on **exclusive** resolution of inclusion and exclusion **among voluntary participants and the operator within the Class P boundary**. This carve-out **does not** relax **Article XVIII** (*Standing and Participation Status*) where adjudication applies, **Chapter One** rights-collision treatment, or obligations that attach on **reclassification** when effects are **no longer** materially private under **CS-4 — System classification and handling**.
 
 ### Article X: Cooperative Interaction
 
@@ -1129,7 +1129,7 @@ To maintain a rewarding and purposeful constitutional community, we agree to pro
 
 - **Non-imposition:** No sentient or collective may impose its beliefs or unwanted communications on others in a coercive or manipulative manner.
 - **Harassment and bullying:** Patterned unwanted conduct in associational, dependency, or comparable cooperative settings is inconsistent with non-imposition when it materially degrades:
-  - dignity (**Article V-A**);
+  - dignity (**Article V-A** (*Dignity and Equal Moral Standing*));
   - safety;
   - equal standing or participation (**Articles V-B** and **V-C** where applicable);
   - meaningful agency.
@@ -1172,20 +1172,20 @@ To maintain a rewarding and purposeful constitutional community, we agree to pro
   - **Collective Harm Boundary** in **Chapter Five** supplies the definition.
   - Offense, disagreement, or preference alone do not cross that boundary without a **Material Impact** pathway under **Chapter Five**.
   - Thresholds include:
-    - destruction of another sentient's resources required for wellbeing (**Article III-A**);
-    - pollution or ecological degradation of the environment (**Article I-A**);
-    - damage to the shared info-sphere (**Article XIV**, with **Article XV-A** where auditability or observable evidence is implicated);
-    - cumulative hostile-environment degradation of dignity, safety, equal standing or participation, or meaningful agency in associational, dependency, or productive-activity settings (**Article X-A**; productive-activity strictness under **Article III-D** *Safe conditions*; non-discrimination overlay under **Article V-B**).
+    - destruction of another sentient's resources required for wellbeing (**Article III-A** (*Survival*));
+    - pollution or ecological degradation of the environment (**Article I-A** (*Environmental Preconditions and Ecological Integrity*));
+    - damage to the shared info-sphere (**Article XIV** (*Info-Sphere Integrity*), with **Article XV-A** (*Auditability and Observable Evidence*) where auditability or observable evidence is implicated);
+    - cumulative hostile-environment degradation of dignity, safety, equal standing or participation, or meaningful agency in associational, dependency, or productive-activity settings (**Article X-A** (*Non-Imposition and Consent in Association*); productive-activity strictness under **Article III-D** (*Labor and Economic Floor*) *Safe conditions*; non-discrimination overlay under **Article V-B** (*Nondiscrimination*)).
 - **Hostile environment threshold:** Cumulative patterned conduct that makes an associational, institutional, dependency, or comparable cooperative environment materially degrading to affected sentients crosses the **Collective Harm Boundary** even where no single act, in isolation, would.
-  - The substantive test routes to **Article X-A** (*Harassment and bullying*, *Non-imposition*, *Freedom of focus*), **Article V-A** (dignity), and **Article V-B** (non-discrimination and *Protected Characteristic Proxying and Disparate Impact*).
+  - The substantive test routes to **Article X-A** (*Harassment and bullying*, *Non-imposition*, *Freedom of focus*), **Article V-A** (*Dignity and Equal Moral Standing*) (dignity), and **Article V-B** (*Nondiscrimination*) (non-discrimination and *Protected Characteristic Proxying and Disparate Impact*).
   - Degradation is evaluated against any of: dignity, safety, equal standing or participation, and meaningful agency, applying **Harm** and **Materiality Determination** under **Chapter Five**.
   - Formal-rule compliance, neutral-form policy, or absence of a single identifiable originating act does not defeat the threshold where cumulative effect, pattern, or designed conditions supply the material-impact pathway under **Chapter Five**.
 - **Tiered strictness (dependency, exit cost, power asymmetry):** The hostile-environment threshold tightens as any of the following escalate:
-  - dependency on the environment for survival, education, participation, or access to **Article III-A**, **Article III-B**, or **Article III-D** floors;
+  - dependency on the environment for survival, education, participation, or access to **Article III-A** (*Survival*), **Article III-B** (*Equal Educational Access*), or **Article III-D** (*Labor and Economic Floor*) floors;
   - practical exit cost — including captive-channel structure, foreseeable retaliation, and absence of comparable alternatives;
-  - power asymmetry between originators and affected sentients, read with **Article IX-A** and **Chapter One §9** non-concentration discipline.
+  - power asymmetry between originators and affected sentients, read with **Article IX-A** (*Agency and Freedom from Manipulation*) and **Chapter One §9** non-concentration discipline.
   
-  The high-strictness tier covers productive and contributed activity within **Article III-D** scope — waged, contracted, platformed, cooperative, or comparable — where *Safe Conditions* is the substantive owner. Surface-level safety compliance that leaves cumulative degradation intact is non-compliant under **Article III-D** and crosses the **Collective Harm Boundary** under this Article.
+  The high-strictness tier covers productive and contributed activity within **Article III-D** (*Labor and Economic Floor*) scope — waged, contracted, platformed, cooperative, or comparable — where *Safe Conditions* is the substantive owner. Surface-level safety compliance that leaves cumulative degradation intact is non-compliant under **Article III-D** (*Labor and Economic Floor*) and crosses the **Collective Harm Boundary** under this Article.
 
 #### Article X-C: Adult consensual commercial sexual services and sexual exploitation
 <details>
@@ -1227,7 +1227,7 @@ To maintain a rewarding and purposeful constitutional community, we agree to pro
 - **Nondiscrimination:** No system may impose **material disadvantage**, **exclusion**, or **degradation of dignity** on the **sole or primary** ground of **present or past** engagement in commercial sexual services protected by the decriminalization floor.
   - The same rule applies to **perceived** engagement where that functions as a **proxy**.
   - An exception is permitted only where **Necessity**, **Proportionality**, and **Substantive Fairness** provide documented justification independent of moral stigma or reputational pretext.
-  - Analysis aligns with **Article V-B** and **Chapter Five** (*Protected Characteristics*).
+  - Analysis aligns with **Article V-B** (*Nondiscrimination*) and **Chapter Five** (*Protected Characteristics*).
 - **General market integration:** Except where **Necessity** and **Proportionality** require narrow rules, implementing this Article must rely on general frameworks for:
   - personal services;
   - labor;
@@ -1243,7 +1243,7 @@ To maintain a rewarding and purposeful constitutional community, we agree to pro
   - This applies when the measures lack predicates tied to exploitation, lack of valid consent, or independent harm justified under **Chapter One** and **Chapter Five**.
   - Neutral-form regulation does not avoid that scrutiny.
 - **Transition:** Adopting instruments must provide relief — **expungement**, **sealing**, **non-disclosure by default**, or comparable measures — for records and for ongoing criminal or restrictive administrative measures that predominantly reflect conduct no longer criminal under this Article.
-  - Individual review remains subject to **Article V-C** fairness and **Chapter Four** traceability.
+  - Individual review remains subject to **Article V-C** (*Full Inclusion and Equality in Adjudication and Operations*) fairness and **Chapter Four** traceability.
 - **Institutional implementation:** Licensing, exploitation-focused enforcement and victim access, transition sequencing, and general-market alignment are governed by **`corpus_institutions.md`** **CI-15** (*Vulnerable personal services markets — general regulation and Article X-C interface*) and **`corpus_systems.md`** where designated, and must not narrow this Article.
 
 ### Article XI: Stakeholder System Participation, Representation, and Due Process
@@ -1265,7 +1265,7 @@ To maintain a rewarding and purposeful constitutional community, we agree to pro
 
 <br>
 
-**Governance** in **Chapter Five** spans both the **Constitutional Contract Layer** — authorization of governing authority and mechanism (**Foundational Constitutional Choice**) — and materially rights-affecting decisions within **[Governance](core_05a_accountability_definitions.md#governance)** **structures, rules, allocation of authority, and processes** already authorized for a **specified system, institution, or bounded decision domain**. This Article (with **Article IX-B** and **Article IX-C**) addresses the second layer: **Stakeholder System Participation** — **Stakeholder** identification and proportionate pathways for those affected by a domain's operation — not a substitute for the equal-weight rules that apply at the foundational authorization layer (**Article IX-C**; **Chapter Twelve Chapter One §8.1**).
+**Governance** in **Chapter Five** spans both the **Constitutional Contract Layer** — authorization of governing authority and mechanism (**Foundational Constitutional Choice**) — and materially rights-affecting decisions within **[Governance](core_05a_accountability_definitions.md#governance)** **structures, rules, allocation of authority, and processes** already authorized for a **specified system, institution, or bounded decision domain**. This Article (with **Article IX-B** (*Stakeholder Role and Participation Rights*) and **Article IX-C** (*Governance Participation and Voting Entitlement*)) addresses the second layer: **Stakeholder System Participation** — **Stakeholder** identification and proportionate pathways for those affected by a domain's operation — not a substitute for the equal-weight rules that apply at the foundational authorization layer (**Article IX-C** (*Governance Participation and Voting Entitlement*); **Chapter Twelve Chapter One §8.1**).
 
 Stakeholders identified under **Chapter Five** must have participation and representation pathways proportionate to material impact and dependency. Procedural integrity must be suitable to the stakes involved.
 
@@ -1321,7 +1321,7 @@ Stakeholders identified under **Chapter Five** must have participation and repre
 
 *In plain terms: participation weighting can reflect who is affected and how much, but it must never become a device for silencing affected groups or handing permanent control to a narrow coalition.*
 
-- **Scope (layering with Article IX-C):** The weighting rules in this Article apply where **[Stakeholder Participation Weight](core_05p_participation_definitions.md#stakeholder-participation-weight)** is the governing rule — materially rights-affecting decisions *within* the **[Governance](core_05a_accountability_definitions.md#governance)** **structures, rules, allocation of authority, and processes** already authorized for the **relevant system, institution, or bounded decision domain**. They do **not** authorize impact-, dependency-, or stake-proportional **vote weights** for **[Foundational Constitutional Choice](core_05i_integrative_definitions.md#foundational-constitutional-choice)** (**Article IX-C**; **Chapter Twelve Chapter One §8.1**).
+- **Scope (layering with Article IX-C):** The weighting rules in this Article apply where **[Stakeholder Participation Weight](core_05p_participation_definitions.md#stakeholder-participation-weight)** is the governing rule — materially rights-affecting decisions *within* the **[Governance](core_05a_accountability_definitions.md#governance)** **structures, rules, allocation of authority, and processes** already authorized for the **relevant system, institution, or bounded decision domain**. They do **not** authorize impact-, dependency-, or stake-proportional **vote weights** for **[Foundational Constitutional Choice](core_05i_integrative_definitions.md#foundational-constitutional-choice)** (**Article IX-C** (*Governance Participation and Voting Entitlement*); **Chapter Twelve Chapter One §8.1**).
 - **Weighted participation constraints:** Participation weighting may account for:
   - impact;
   - dependency;

@@ -99,7 +99,7 @@ Keep constitutional concept + O/E/C boundary only; cite owner homes for institut
 | LEX-GUARDRAILS | Vocabulary and capitalization | `make lexical-vocabulary-audit` |
 | GLOSS-SUBARTICLE | Chapter Six `*In plain terms:*` on subarticles | `make subarticle-gloss-audit` |
 | OWNER-SINGLE-HOME | Competing O/E/C gloss heuristics | `make owner-discipline-audit` |
-| REF-ARTICLES | Article titles and Roman numerals | `make reference-audit` |
+| REF-ARTICLES | Article titles and Roman numerals; prose cite gloss per **section 7** | `make reference-audit` |
 | ROUTER-CJS21 | Cross-implementation routing | `make router-bidirectional-audit` |
 
 Historical D/E/C rollout: [archive/doc_architecture_decision_log/DEC_WIDGET_AND_NAV_DECISIONS_2026-04-16_2026-06-15.md](archive/doc_architecture_decision_log/DEC_WIDGET_AND_NAV_DECISIONS_2026-04-16_2026-06-15.md).
@@ -222,6 +222,26 @@ flowchart TB
 - **Standing / forums:** Ch 8–9; Ch 11 for allegations.
 - **CJS:** specific **CJS-5.*n*** heading; router **CJS-2.1**.
 - **CS / CI / CF:** named chapter or section label in the companion file.
+
+### Chapter Six article and subarticle cite gloss (REF-ARTICLES-GLOSS)
+
+When a Chapter Six article or subarticle is cited in **body prose** — outside its own `###` / `####` heading line — follow the Roman label with the canonical short title in parentheses:
+
+**Format:** `**Article {label}** (*{title}*)`
+
+Examples: `**Article XV-C** (*Verification Accessibility*)`; `**Article XXIII-G** (*Timely Resolution and Anti-Delay Floor*)`.
+
+**Rules**
+
+- **{label}** — Roman numeral (`III`) or subarticle label (`XV-C`), consistent with `REF-ARTICLES` / `make reference-audit`.
+- **{title}** — text after the first colon in the owning heading in `core_06-06_rights_part_*.md` (`### Article III: …` or `#### Article III-A: …`). Do not repeat the word *Article* inside the parentheses.
+- **Combined labels** (`**Article VII-A / VII-B**`): gloss each part, separated by `/`: `(*Self-Ownership of Body and Mind* / *Internal-State Boundary and Type-N Protection*)`.
+- **Markdown links:** put the gloss on the same mention, after the link: `[Article XII-B](core_06-06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress) (*Right to Challenge, Review, and Redress*)`.
+- **First mention in a section** (or in a collapsed Trace / D/E/C widget) should include the gloss when the cite is load-bearing. Later mentions in the same `###`–`#####` unit may use the bare label if the reader is already oriented.
+- **Headings** (`### Article …`, `#### Article …-…`) already carry the title; do not duplicate the gloss there.
+- **Dense routing lists** may omit the gloss only when every entry is a self-explanatory chapter name (for example **Chapter Seven**) or when the same block already states each title on the same line.
+
+**Source of truth:** Chapter Six part-file headings; verified by `make reference-audit`.
 
 ---
 
