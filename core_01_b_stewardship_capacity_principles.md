@@ -678,7 +678,7 @@ Threshold-setting must follow this discipline:
   - thresholds paired with unused or unusable enforcement tools;
   - threshold regimes that produce no actual review or intervention.
 - **Heightened scrutiny.** When concentration meaningfully touches any of the following, that article's tougher standards still apply — even when ordinary concentration thresholds have not been crossed:
-  - [Article I-D](core_06-06_rights_part_a.md#article-i-d-existential-risk-and-recovery-capacity): existential risk and recovery capacity;
+  - [Article I-D](core_06-06_rights_part_a.md#article-i-d-existential-risk-and-recovery-capacity): existential risk and ecological recovery capacity;
   - [Article XII-A](core_06-06_rights_part_c.md#article-xii-a-reliability-and-trustworthiness-baseline): whether systems can be relied on;
   - [Article XIII-A](core_06-06_rights_part_c.md#article-xiii-a-security-intelligence-and-covert-power-limits): limits on hidden or covert power.
 - **Article IV — resource rights stay intact.** [Article IV](core_06-06_rights_part_a.md#article-iv-resource-allocation-dependencies-and-ecosystem-funding) is where the Constitution sets the baseline **Rights Floor** for how resources are shared — who gets them, who depends on what, and how ecosystems are funded. **§12.1** adds concentration-threshold rules here at the principles level only; it does not weaken, replace, or narrow Article IV.
@@ -863,7 +863,7 @@ Evaluations must consider:
 - **aggregation and scale effects** — what changes when many small actions combine
 - **delayed, cumulative, and probabilistic impacts** — harms that show up later, stack up, or depend on chance
 - **adversarial conditions and misuse potential** — how bad actors or predictable abuse could exploit the system
-- **existential risks** — outcomes that could threaten sentient survival or recovery at civilization scale
+- **existential risks** — outcomes that could threaten sentient survival or [Ecological Recovery Capacity](core_05c_continuity_definitions.md#ecological-recovery-capacity-constitutional) at civilization scale
 
 <a id="1312-accessibility-under-sentience-non-exclusion"></a>
 ##### 13.1.2 Accessibility Under Sentience Non-Exclusion

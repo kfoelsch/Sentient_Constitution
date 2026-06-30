@@ -365,7 +365,7 @@ A case may move from one forum family to another only when the receiving family 
 
 #### Existential risk and uncertainty on the record
 
-- **Existential-risk handling.** Where a matter materially presents a credible claim of **Existential Risk**, survival-critical collapse, or irreversible loss of **recovery capacity**, the designated lead family under **primary-stakes** routing remains the merits forum **unless** another rule in this chapter requires **transfer**, **certification**, or **backup** activation. Existential-risk significance does **not** create a separate forum family.
+- **Existential-risk handling.** Where a matter materially presents a credible claim of **Existential Risk**, survival-critical collapse, or irreversible loss of **Ecological Recovery Capacity**, the designated lead family under **primary-stakes** routing remains the merits forum **unless** another rule in this chapter requires **transfer**, **certification**, or **backup** activation. Existential-risk significance does **not** create a separate forum family.
 - **Reasoned uncertainty treatment.** A forum must **not** reject an existential-risk claim solely because probability is hard to quantify. It must assess whether the pathway is credible under adversarial, aggregated, dependency-sensitive, or threshold conditions. It must state the uncertainty and evidentiary limits on the record.
 
 #### Certification to **Constitutional** forums
@@ -381,7 +381,7 @@ A case may move from one forum family to another only when the receiving family 
 
 #### Interim protection
 
-- Any competent family may issue interim relief necessary to prevent imminent irreversible harm, preserve evidence under [Evidence Preservation](core_05o_oversight_definitions.md#evidence-preservation), maintain **recovery capacity**, or stop material escalation while routing, certification, or technical review **is** completed. Such relief must be reasoned, proportionate, and subject to prompt review.
+- Any competent family may issue interim relief necessary to prevent imminent irreversible harm, preserve evidence under [Evidence Preservation](core_05o_oversight_definitions.md#evidence-preservation), maintain **Ecological Recovery Capacity**, or stop material escalation while routing, certification, or technical review **is** completed. Such relief must be reasoned, proportionate, and subject to prompt review.
 
 #### Backup routing under the anti-self-judging rule
 

@@ -20,7 +20,7 @@ Dimensions of **actual and reasonably foreseeable** impact must be evaluated **a
 
 Where credible failure modes produce materially higher impact, dependency, or risk, classification must reflect them unless they are **demonstrably excluded** through robust, verifiable constraints. Where classification is **uncertain**, govern at the **highest plausible** classification until resolved.
 
-Where failure, interaction, or aggregation creates credible pathways to irreversible or civilization-scale harm, including collapse of critical system layers or loss of recovery capacity, treat as existential risk.
+Where failure, interaction, or aggregation creates credible pathways to irreversible or civilization-scale harm, including collapse of critical system layers or loss of ecological recovery capacity, treat as existential risk.
 
 Systems contributing materially to such risk must be classified and governed at the **highest applicable** level regardless of isolated impact.
 

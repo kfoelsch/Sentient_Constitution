@@ -124,13 +124,13 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 
 - Downstream: Principles: [11.1 Required Evaluation Factors](core_01_b_stewardship_capacity_principles.md#131-required-evaluation-factors).
 - Cluster component: [Chapter Five §3.32 *Resilience, Safety, Reversibility, Self-Healing, Cascading Failure, Existential Risk, Environmental Preconditions, and Wellbeing*](core_05p_participation_definitions.md#collective-harm-boundary-and-harm-cluster)
-- Read with: [Risk](core_05c_continuity_definitions.md#risk), [Harm](core_05a_accountability_definitions.md#harm), [Environmental Preconditions](core_05c_continuity_definitions.md#environmental-preconditions-constitutional), [Ecological Integrity](core_05c_continuity_definitions.md#ecological-integrity-constitutional), and [Intergenerational Responsibility](core_05c_continuity_definitions.md#intergenerational-responsibility-constitutional).
+- Read with: [Risk](core_05c_continuity_definitions.md#risk), [Harm](core_05a_accountability_definitions.md#harm), [Environmental Preconditions](core_05c_continuity_definitions.md#environmental-preconditions-constitutional), [Ecological Integrity](core_05c_continuity_definitions.md#ecological-integrity-constitutional), [Ecological Recovery Capacity](core_05c_continuity_definitions.md#ecological-recovery-capacity-constitutional), and [Intergenerational Responsibility](core_05c_continuity_definitions.md#intergenerational-responsibility-constitutional).
 
 </details>
 
 <br>
 
-- O: Risk of large-scale, civilization-relevant, or survival-critical harm — including irreversible loss of recovery capacity, collapse of critical layers supporting sentient life, failures of coordination around [Environmental Preconditions](core_05c_continuity_definitions.md#environmental-preconditions-constitutional), and low-probability high-impact pathways.
+- O: Risk of large-scale, civilization-relevant, or survival-critical harm — including irreversible loss of [Ecological Recovery Capacity](core_05c_continuity_definitions.md#ecological-recovery-capacity-constitutional), collapse of critical layers supporting sentient life, failures of coordination around [Environmental Preconditions](core_05c_continuity_definitions.md#environmental-preconditions-constitutional), and low-probability high-impact pathways.
 <a id="existential-risk-e"></a>
 - E: Do not exclude credible existential pathways under adversarial, scaled, aggregated, or threshold-dependent conditions. Incorporate [Dependency](core_05c_continuity_definitions.md#dependency) and systemic feedback.
 <a id="existential-risk-c"></a>
@@ -548,10 +548,11 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 
 #### Ecological integrity, footprint, and sustainability
 
-**Cluster context:** This semi-independent topic group governs environmental stewardship and intergenerational duty. [Ecological Integrity](core_05c_continuity_definitions.md#ecological-integrity-constitutional) defines the condition and resilience of natural systems required for sentient survival. [Ecological Footprint](core_05c_continuity_definitions.md#ecological-footprint) measures attributable environmental flows across lifecycles. [Sustainability](core_05c_continuity_definitions.md#sustainability) establishes the capacity to maintain environmental preconditions without burden-shifting to other communities, systems, or future sentients. [Intergenerational Responsibility](core_05c_continuity_definitions.md#intergenerational-responsibility-constitutional) imposes the duty to account for foreseeable effects of present decisions on future sentients and ecological systems. These definitions implement [Article I-A](core_06-06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) and [Article I-B](core_06-06_rights_part_a.md#article-i-b-ecological-footprint-and-transparency).
+**Cluster context:** This semi-independent topic group governs environmental stewardship and intergenerational duty. [Ecological Integrity](core_05c_continuity_definitions.md#ecological-integrity-constitutional) defines the condition and resilience of natural systems required for sentient survival. [Ecological Recovery Capacity](core_05c_continuity_definitions.md#ecological-recovery-capacity-constitutional) defines the capacity of ecosystems and life-supporting systems to regenerate after severe harm. [Ecological Footprint](core_05c_continuity_definitions.md#ecological-footprint) measures attributable environmental flows across lifecycles. [Sustainability](core_05c_continuity_definitions.md#sustainability) establishes the capacity to maintain environmental preconditions without burden-shifting to other communities, systems, or future sentients. [Intergenerational Responsibility](core_05c_continuity_definitions.md#intergenerational-responsibility-constitutional) imposes the duty to account for foreseeable effects of present decisions on future sentients and ecological systems. These definitions implement [Article I-A](core_06-06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity), [Article I-B](core_06-06_rights_part_a.md#article-i-b-ecological-footprint-and-transparency), and [Article I-D](core_06-06_rights_part_a.md#article-i-d-existential-risk-and-recovery-capacity).
 
 **Topic group members.** This group comprises:
 - [Ecological Integrity](core_05c_continuity_definitions.md#ecological-integrity-constitutional);
+- [Ecological Recovery Capacity](core_05c_continuity_definitions.md#ecological-recovery-capacity-constitutional);
 - [Ecological Footprint](core_05c_continuity_definitions.md#ecological-footprint);
 - [Sustainability](core_05c_continuity_definitions.md#sustainability);
 - [Intergenerational Responsibility](core_05c_continuity_definitions.md#intergenerational-responsibility-constitutional).
@@ -567,7 +568,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 - Downstream: Principles: [§13.1 Productive Capacity (Instrumental Good)](core_01_b_stewardship_capacity_principles.md#111-productive-capacity-instrumental-good) and [11.1 Required Evaluation Factors](core_01_b_stewardship_capacity_principles.md#131-required-evaluation-factors), where ecological bounds, cumulative effects, and long-horizon materiality shape evaluation.
 - Owner floor: [Article I-A](core_06-06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity).
 - Cluster component: [the dependent cluster *Ecological Integrity, Footprint, and Sustainability*](core_05p_participation_definitions.md#ecological-footprint-semi-independent).
-- Read with: [Environmental Preconditions](core_05c_continuity_definitions.md#environmental-preconditions-constitutional), [Ecological Footprint](core_05c_continuity_definitions.md#ecological-footprint), [Sustainability](core_05c_continuity_definitions.md#sustainability), [Intergenerational Responsibility](core_05c_continuity_definitions.md#intergenerational-responsibility-constitutional), [Natural Systems Standing](core_05p_participation_definitions.md#natural-systems-standing), [Harm](core_05a_accountability_definitions.md#harm), [Risk](core_05c_continuity_definitions.md#risk), and [Reversibility](core_05c_continuity_definitions.md#reversibility-constitutional).
+- Read with: [Environmental Preconditions](core_05c_continuity_definitions.md#environmental-preconditions-constitutional), [Ecological Recovery Capacity](core_05c_continuity_definitions.md#ecological-recovery-capacity-constitutional), [Ecological Footprint](core_05c_continuity_definitions.md#ecological-footprint), [Sustainability](core_05c_continuity_definitions.md#sustainability), [Intergenerational Responsibility](core_05c_continuity_definitions.md#intergenerational-responsibility-constitutional), [Natural Systems Standing](core_05p_participation_definitions.md#natural-systems-standing), [Harm](core_05a_accountability_definitions.md#harm), [Risk](core_05c_continuity_definitions.md#risk), and [Reversibility](core_05c_continuity_definitions.md#reversibility-constitutional).
 
 </details>
 
@@ -575,9 +576,33 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 
 - O: The condition, resilience, functional continuity, diversity, regeneration capacity, and interdependence of natural and living systems sufficient to sustain sentient survival, wellbeing, ecological relationships, and the environmental preconditions protected by Article I-A.
 <a id="ecological-integrity-constitutional-e"></a>
-- E: Evaluate direct, indirect, cumulative, cross-system, delayed, and recovery-capacity effects on ecosystems and dependent sentients. Formal compliance, local mitigation, or offset accounting is insufficient where aggregate effect materially degrades ecological function, resilience, biodiversity, regeneration, or intergenerational continuity.
+- E: Evaluate direct, indirect, cumulative, cross-system, delayed, and [Ecological Recovery Capacity](core_05c_continuity_definitions.md#ecological-recovery-capacity-constitutional) effects on ecosystems and dependent sentients. Formal compliance, local mitigation, or offset accounting is insufficient where aggregate effect materially degrades ecological function, resilience, biodiversity, regeneration, or intergenerational continuity.
 <a id="ecological-integrity-constitutional-c"></a>
 - C: Non-compliant: material ecological degradation, externalized ecological harm, irreversible or avoidably hard-to-reverse ecosystem damage, or footprint and sustainability claims that obscure deterioration of ecological integrity.
+
+
+<a id="ecological-recovery-capacity-constitutional"></a>
+
+---
+#### Ecological Recovery Capacity
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Downstream: Principles: [4.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [8.1.1 Proportionality](core_01_a_values_principles.md#611-proportionality), and [11.1 Required Evaluation Factors](core_01_b_stewardship_capacity_principles.md#131-required-evaluation-factors).
+- Owner floor: [Article I-D](core_06-06_rights_part_a.md#article-i-d-existential-risk-and-recovery-capacity).
+- Cluster component: [the dependent cluster *Ecological Integrity, Footprint, and Sustainability*](core_05p_participation_definitions.md#ecological-footprint-semi-independent).
+- Read with: [Existential Risk](core_05c_continuity_definitions.md#existential-risk), [Environmental Preconditions](core_05c_continuity_definitions.md#environmental-preconditions-constitutional), [Ecological Integrity](core_05c_continuity_definitions.md#ecological-integrity-constitutional), [Sustainability](core_05c_continuity_definitions.md#sustainability), [Intergenerational Responsibility](core_05c_continuity_definitions.md#intergenerational-responsibility-constitutional), [Dependency](core_05c_continuity_definitions.md#dependency), [Reversibility](core_05c_continuity_definitions.md#reversibility-constitutional), and [Self-Healing](core_05c_continuity_definitions.md#self-healing-constitutional).
+
+</details>
+
+<br>
+
+- O: The capacity of ecosystems, living systems, and the [Environmental Preconditions](core_05c_continuity_definitions.md#environmental-preconditions-constitutional) they support to regenerate, restore functional continuity, and sustain sentient survival after severe harm, depletion, or disruption — including biodiversity, soil, water, climate stability, habitat connectivity, and other regeneration processes on which [Ecological Integrity](core_05c_continuity_definitions.md#ecological-integrity-constitutional) depends. **Ecological recovery capacity disambiguation:** this entry names ecological and life-supporting recovery only; it does not govern operational system restore after fault ([Self-Healing](core_05c_continuity_definitions.md#self-healing-constitutional)), rollback of specific decisions or commitments ([Reversibility](core_05c_continuity_definitions.md#reversibility-constitutional)), or commercial cost recovery.
+<a id="ecological-recovery-capacity-constitutional-e"></a>
+- E: Evaluate pathways to irreversible loss of ecological recovery capacity: threshold crossings, extinction cascades, regenerative-capacity depletion, climate or biogeochemical disruption, habitat fragmentation, dependency concentration in life-supporting systems, and cumulative effects that foreclose restoration within intergenerationally relevant horizons. Assess at the level of affected ecosystems and life-supporting systems — whether they can sustain and regenerate themselves under prevailing habitat conditions through functional continuity, connectivity, and regenerative processes — not by looking at one species, one local population, or one kind of organism on its own. What happens to particular species can inform the analysis, but it cannot stand in for judging the whole system. Read with [Existential Risk](core_05c_continuity_definitions.md#existential-risk) where civilization-scale pathways are credible. Distinguish temporary disturbance with viable ecological recovery from locked-in ecological collapse.
+<a id="ecological-recovery-capacity-constitutional-c"></a>
+- C: Non-compliant: treating irreversible ecological recovery-capacity loss as ordinary localized impact; routing ecological recovery-capacity analysis only through systems-layer [Self-Healing](core_05c_continuity_definitions.md#self-healing-constitutional) or [Reversibility](core_05c_continuity_definitions.md#reversibility-constitutional) where [Article I-D](core_06-06_rights_part_a.md#article-i-d-existential-risk-and-recovery-capacity) applies; treating one species or local population as the whole measure of recovery where systemic habitat condition and regenerative capacity are materially implicated; or using unqualified "recovery capacity" where this entry governs.
 
 
 <a id="ecological-footprint"></a>
@@ -636,13 +661,13 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 
 - Downstream: Principles: [3. Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [11.1 Required Evaluation Factors](core_01_b_stewardship_capacity_principles.md#131-required-evaluation-factors), and Article I-A ecological-preconditions discipline where decisions allocate foreseeable burdens across time.
 - Cluster component: [the dependent cluster *Ecological Integrity, Footprint, and Sustainability*](core_05p_participation_definitions.md#ecological-footprint-semi-independent).
-- Read with: [Ecological Integrity](core_05c_continuity_definitions.md#ecological-integrity-constitutional), [Ecological Footprint](core_05c_continuity_definitions.md#ecological-footprint), [Sustainability](core_05c_continuity_definitions.md#sustainability), [Environmental Preconditions](core_05c_continuity_definitions.md#environmental-preconditions-constitutional), [Indigenous Continuity](core_05c_continuity_definitions.md#indigenous-continuity-constitutional), [Language, Culture, and Heritage](core_05c_continuity_definitions.md#language-culture-and-heritage-constitutional), [Natural Systems Standing](core_05p_participation_definitions.md#natural-systems-standing), [Reversibility](core_05c_continuity_definitions.md#reversibility-constitutional), and [Materiality Under Uncertainty](core_05o_oversight_definitions.md#materiality-under-uncertainty).
+- Read with: [Ecological Integrity](core_05c_continuity_definitions.md#ecological-integrity-constitutional), [Ecological Recovery Capacity](core_05c_continuity_definitions.md#ecological-recovery-capacity-constitutional), [Ecological Footprint](core_05c_continuity_definitions.md#ecological-footprint), [Sustainability](core_05c_continuity_definitions.md#sustainability), [Environmental Preconditions](core_05c_continuity_definitions.md#environmental-preconditions-constitutional), [Indigenous Continuity](core_05c_continuity_definitions.md#indigenous-continuity-constitutional), [Language, Culture, and Heritage](core_05c_continuity_definitions.md#language-culture-and-heritage-constitutional), [Natural Systems Standing](core_05p_participation_definitions.md#natural-systems-standing), [Reversibility](core_05c_continuity_definitions.md#reversibility-constitutional), and [Materiality Under Uncertainty](core_05o_oversight_definitions.md#materiality-under-uncertainty).
 
 </details>
 
 <br>
 
-- O: The duty to account for reasonably foreseeable material effects of present decisions on future sentients, future communities, ecological systems, cultural and heritage continuity, recovery capacity, and the durability of Rights-Floor conditions.
+- O: The duty to account for reasonably foreseeable material effects of present decisions on future sentients, future communities, ecological systems, cultural and heritage continuity, [Ecological Recovery Capacity](core_05c_continuity_definitions.md#ecological-recovery-capacity-constitutional), and the durability of Rights-Floor conditions.
 <a id="intergenerational-responsibility-constitutional-e"></a>
 - E: Evaluate delayed, cumulative, path-dependent, and hard-to-reverse burdens; do not discount future sentients, future community continuity, or future ecological preconditions merely because affected sentients are not yet identified or presently participating. Scale precaution, reversibility, stewardship, and disclosure to materiality under uncertainty.
 <a id="intergenerational-responsibility-constitutional-c"></a>

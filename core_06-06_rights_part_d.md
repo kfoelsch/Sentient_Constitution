@@ -199,6 +199,7 @@ Adopted governance implementation provides escalation, proportionality of interv
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter One [4.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [10.1 Core Tradeoff Principles](core_01_a_values_principles.md#61-core-tradeoff-principles), and [Chapter One §6.3 Rights-Collision Procedure](core_01_a_values_principles.md#63-rights-collision-procedure).
+- Read with: **Article I-D** (*Existential Risk and Ecological Recovery Capacity*) where existential-risk scrutiny is materially implicated.
 
 </details>
 
@@ -215,7 +216,7 @@ Adopted governance implementation provides escalation, proportionality of interv
 
 <br>
 
-*In plain terms: emergencies can justify temporary measures, but they must have a real clock, real review, and cannot become a permanent workaround around ordinary rights.*
+*In plain terms: emergencies can justify temporary measures, but they must have a real clock, real review, and cannot become a permanent workaround around ordinary rights — including when someone invokes existential risk.*
 
 - **Emergency measures:** Temporary measures to prevent imminent harm must be:
   - time-limited;
@@ -229,7 +230,10 @@ Adopted governance implementation provides escalation, proportionality of interv
 - **Anti-pretext:** Emergency designation must not rest on:
   - operator convenience;
   - self-created urgency;
-  - avoidance of ordinary constitutional scrutiny.
+  - avoidance of ordinary constitutional scrutiny;
+  - existential-risk claims used to bypass **Truth**, auditability, contestability, or time-limited review.
+
+  The only exception is the narrow extent strictly necessary to prevent imminent irreversible harm. Any such temporary restriction must be attributable, justified, and promptly reviewable.
 - **Continuation discipline:** Continuation beyond default expiry is non-compliant unless reauthorized through a documented burden showing:
   - continuing necessity;
   - proportionality;

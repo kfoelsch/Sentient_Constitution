@@ -186,11 +186,15 @@ Every sentient depends on Earth's physical environment and living systems. Prote
   
   That constraint reaches the displacement of existential or ecological risk where mitigation, disclosure, and representation fall short of Chapter Five.
 
-#### Article I-D: Existential Risk and Recovery Capacity
+<a id="article-i-d-existential-risk-and-recovery-capacity"></a>
+
+#### Article I-D: Existential Risk and Ecological Recovery Capacity
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter One [4.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [10.1 Core Tradeoff Principles](core_01_a_values_principles.md#61-core-tradeoff-principles), and [9. Systemic Evaluation Requirement](core_01_b_stewardship_capacity_principles.md#13-systemic-evaluation-requirement).
+- Read with: [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint), [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint), [Environmental Preconditions](core_05c_continuity_definitions.md#environmental-preconditions-constitutional), [Ecological Recovery Capacity](core_05c_continuity_definitions.md#ecological-recovery-capacity-constitutional), [Intergenerational Responsibility](core_05c_continuity_definitions.md#intergenerational-responsibility-constitutional), and [Existential Risk](core_05c_continuity_definitions.md#existential-risk).
+- Downstream: **Article XXIII-D** (*Emergency Measures and Continuation Burden*) — anti-pretext and time-limited review discipline where existential-risk or emergency framing is invoked.
 
 </details>
 
@@ -198,6 +202,7 @@ Every sentient depends on Earth's physical environment and living systems. Prote
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
 
 - [Existential Risk](core_05c_continuity_definitions.md#existential-risk) · [O](core_05c_continuity_definitions.md#existential-risk) · [E](core_05c_continuity_definitions.md#existential-risk-e) · [C](core_05c_continuity_definitions.md#existential-risk-c)
+- [Ecological Recovery Capacity](core_05c_continuity_definitions.md#ecological-recovery-capacity-constitutional) · [O](core_05c_continuity_definitions.md#ecological-recovery-capacity-constitutional) · [E](core_05c_continuity_definitions.md#ecological-recovery-capacity-constitutional-e) · [C](core_05c_continuity_definitions.md#ecological-recovery-capacity-constitutional-c)
 - [Foreseeability](core_05o_oversight_definitions.md#foreseeability-diligence) · [O](core_05o_oversight_definitions.md#foreseeability-diligence) · [E](core_05o_oversight_definitions.md#foreseeability-diligence-e) · [C](core_05o_oversight_definitions.md#foreseeability-diligence-c)
 - [Dependency](core_05c_continuity_definitions.md#dependency) · [O](core_05c_continuity_definitions.md#dependency) · [E](core_05c_continuity_definitions.md#dependency-e) · [C](core_05c_continuity_definitions.md#dependency-c)
 
@@ -205,26 +210,24 @@ Every sentient depends on Earth's physical environment and living systems. Prote
 
 <br>
 
-*In plain terms: when a system or decision could plausibly threaten survival or recovery, regulators must apply maximum scrutiny — even if the danger is small, slow, or contested — and "existential risk" cannot be used as a pretext to suspend truth or oversight.*
+*In plain terms: when a system or decision could plausibly threaten sentient survival or ecological recovery capacity, regulators must apply maximum scrutiny — even if the danger is small, slow, or contested.*
 
-- **Heightened scrutiny:** Heightened constitutional scrutiny is mandatory where a system, policy, infrastructure, coordinated activity, or governance decision creates a credible pathway to **Existential Risk** or to irreversible loss of **recovery capacity**.
+- **Ecological recovery capacity scope:** **Ecological recovery capacity** in this Article means [Ecological Recovery Capacity](core_05c_continuity_definitions.md#ecological-recovery-capacity-constitutional) in Chapter Five — not operational system restore after fault (**Self-Healing**), rollback of specific states (**Reversibility**), or commercial cost recovery.
+- **Heightened scrutiny:** Heightened constitutional scrutiny is mandatory where a system, policy, infrastructure, coordinated activity, or governance decision creates a credible pathway to **Existential Risk** or to irreversible loss of **Ecological Recovery Capacity**.
   - This rule applies even when the pathway is low-probability, delayed, cumulative, threshold-dependent, or disputed in timing.
 - **Evaluation requirements:** Evaluation must:
   - include direct, indirect, aggregated, adversarial, and cross-system pathways;
-  - account for dependency concentration, coordination failure, environmental-precondition degradation, and systemic lock-in.
+  - account for dependency concentration, coordination failure, environmental-precondition degradation, ecological recovery-capacity loss, and systemic lock-in;
+  - where **Ecological Recovery Capacity** is materially implicated, assess whether the affected ecosystem or life-supporting system can sustain and regenerate itself under prevailing habitat conditions — by ecological function, connectivity, regenerative processes, and interdependence across the system as a whole, not by looking at one species, one local population, or one kind of organism on its own.
   
-  Local compliance, expected-value benefit, or short-horizon advantage do not satisfy this Article when credible existential pathways remain materially unresolved.
+  Checking boxes at the local level, showing a favorable cost-benefit estimate on paper, or securing a short-term gain does not satisfy this Article while credible paths to civilization-scale harm or irreversible ecological recovery loss remain open and not seriously addressed.
 - **Burden and record:** Actors seeking authorization, continuation, or expansion under such conditions must show, under **Chapters Two through Four**, that:
   - they meaningfully considered materially safer, reasonably effective alternatives;
   - mitigation and interruption measures are proportionate to the scale of possible harm;
-  - monitoring and reversal pathways are practical where feasible.
+  - monitoring is in place and the pathway can be reversed or interrupted if harm materializes.
   
   Decision records must openly state uncertainty, assumptions, evidence limits, disagreement, and material gaps.
-- **Interpretive alignment:** Read this Article together with **Safety (Constraint)**, **Truth (Constitutional Constraint)**, **Environmental Preconditions**, **Intergenerational Responsibility**, and **Existential Risk** in **Chapter Five**.
-  - Present benefit does not justify disproportionate exposure of future sentients, recovery-critical systems, or life-supporting ecological conditions to civilization-scale or survival-critical harm.
-- **No pretextual override:** Actors must not use existential-risk claims to bypass **Truth**, auditability, contestability, or time-limited review.
-  - The only exception is the narrow extent strictly necessary to prevent imminent irreversible harm.
-  - Any such temporary restriction must be attributable, justified, and promptly reviewable.
+- **Present benefit limit:** Present benefit does not justify disproportionate exposure of future sentients, systems critical to ecological recovery, or life-supporting ecological conditions to civilization-scale or survival-critical harm.
 
 ### Article II: Material Stewardship and Durable-Use Integrity
 

@@ -110,6 +110,7 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 - [Due Process](core_05a_accountability_definitions.md#due-process-constitutional)
 - [Ecological Footprint](core_05c_continuity_definitions.md#ecological-footprint)
 - [Ecological Integrity](core_05c_continuity_definitions.md#ecological-integrity-constitutional)
+- [Ecological Recovery Capacity](core_05c_continuity_definitions.md#ecological-recovery-capacity-constitutional)
 - [Educational Agency](core_05p_participation_definitions.md#educational-agency)
 - [Emergency and Contingency](core_05c_continuity_definitions.md#emergency-and-contingency-constitutional)
 - [Emergency Pre-Deliberation Action (Binding Collective Choice)](core_05c_continuity_definitions.md#emergency-pre-deliberation-action-binding-collective-choice)
