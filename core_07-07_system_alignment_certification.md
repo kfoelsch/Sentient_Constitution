@@ -28,7 +28,7 @@
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [Constitutional Owner Layers](core_05i_integrative_definitions.md#constitutional-owner-layers) and [Authority Stack and Internal Hierarchy](core_05i_integrative_definitions.md#authority-stack); [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad); [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims); [Chapter One §9 Stewardship and Distributed Understanding](core_01_b_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding); [Chapter One §13 Systemic Evaluation Requirement](core_01_b_stewardship_capacity_principles.md#13-systemic-evaluation-requirement); Chapters Two through Four; [System Alignment Certification](core_05c_continuity_definitions.md#system-alignment-certification-constitutional) (Chapter Five canonical term; non-operative shorthand **SAC**).
-- Downstream: [§2](#2-certification-record) (*certification record contents*); [§3](#3-system-class-evaluation) (*system class evaluation*); [§4](#4-data-types-and-handling-evaluation) (*data types and handling evaluation*); [§5](#5-transparency-auditability-and-contestability) (*record integrity requirements*); [§6](#6-supervisory-sequence-and-contestability-chain) (*supervisory sequence and contestability chain*); [§7](#7-forum-supervision-and-component-roles) (*forum component roles*); [§8](#8-relationship-to-standing) (*standing-record bridge*); [§9](#9-reopening-drift-and-non-evasion) (*reopening and anti-evasion*); [Chapter Eight](core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) (*standing records and verified-input gate*); [Chapter Nine](core_09-09_standing_integration.md#chapter-nine-standing-effects-and-integration) (*standing effects and integration*); [Chapter Eleven](core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) (*forum supervision, certification, alignment recognition, and review*).
+- Downstream: [§2](#2-certification-record) (*certification record contents*); [§3](#3-system-class-evaluation) (*system class evaluation*); [§4](#4-data-types-and-handling-evaluation) (*data types and handling evaluation*); [§5](#5-ecological-footprint-evaluation) (*ecological footprint evaluation*); [§6](#6-transparency-auditability-and-contestability) (*record integrity requirements*); [§7](#7-supervisory-sequence-and-contestability-chain) (*supervisory sequence and contestability chain*); [§8](#8-forum-supervision-and-component-roles) (*forum component roles*); [§9](#9-relationship-to-standing) (*standing-record bridge*); [§10](#10-reopening-drift-and-non-evasion) (*reopening and anti-evasion*); [Chapter Eight](core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) (*standing records and verified-input gate*); [Chapter Nine](core_09-09_standing_integration.md#chapter-nine-standing-effects-and-integration) (*standing effects and integration*); [Chapter Eleven](core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) (*forum supervision, certification, alignment recognition, and review*).
 - Read with: [corpus_systems.md](corpus_systems.md), especially **CS-4 — System classification and handling**, **CS-3 — Information types and handling**, and **Protocol A**; [corpus_forum.md](corpus_forum.md), especially **CF-5** (*Routing operations, transfer, certification, and representative treatment*) and **CF-7** (*Integrity safeguards, anti-capture operations, and anti-self-judging support*).
 
 </details>
@@ -52,17 +52,18 @@ A **System Alignment Certification Record** is a bounded, reviewable record conc
 - **System identity, scope, and status:** the system, version, operator or steward, scope, affected communities, dependencies, and review status;
 - **Classification and material-impact assumptions:** the system class assignment, classification rationale, and material-impact assumptions used, as required by [§3](#3-system-class-evaluation);
 - **Data scope and handling posture:** the data types materially in scope and the handling, separation, lifecycle, and infrastructure-assurance assumptions relied on, as required by [§4](#4-data-types-and-handling-evaluation);
+- **Ecological footprint evaluation:** attributable environmental burdens, lifecycle and dependency attribution assumptions, disclosure posture, and footprint component findings as required by [§5](#5-ecological-footprint-evaluation);
 - **Technical evidence and assurance:** the technical standards, tests, measurements, uncertainty, safety margins, failure modes, regression-testing and security-test results for the certification or recertification cycle, and evidence basis materially relied on;
 - **Stakeholder, environmental, and integrity review:**
   - stakeholder, Rights-Floor, accessibility, dependency, and participation considerations;
-  - ecological exposure, environmental-precondition dependency, lifecycle burden, restoration duty, and environmental-alignment component review where material;
+  - ecological exposure, [Ecological Footprint](core_05c_continuity_definitions.md#ecological-footprint) attribution, environmental-precondition dependency, lifecycle burden, restoration duty, and environmental-alignment component review where material;
   - capture, self-review, incentive-alignment, evidence-control, and contest-pathway risks;
-- **Forum supervision:** the forum family or authority issuing, adopting, referring, certifying, staying, or reviewing each component, stated in the order required by [§6](#6-supervisory-sequence-and-contestability-chain);
+- **Forum supervision:** the forum family or authority issuing, adopting, referring, certifying, staying, or reviewing each component, stated in the order required by [§7](#7-supervisory-sequence-and-contestability-chain);
 - **Certification outcome and reliance limits:**
   - the certification outcome, including recognition, conditional recognition, deferred recognition, non-recognition, withdrawal, expiration, revalidation, or release from conditions; and
-  - revalidation cadence, reopening triggers, reliance limits, and the contestability chain required by [§5](#5-transparency-auditability-and-contestability) and [§6](#6-supervisory-sequence-and-contestability-chain).
+  - revalidation cadence, reopening triggers, reliance limits, and the contestability chain required by [§6](#6-transparency-auditability-and-contestability) and [§7](#7-supervisory-sequence-and-contestability-chain).
 
-Record contents must satisfy [§3](#3-system-class-evaluation), [§4](#4-data-types-and-handling-evaluation), and [§5](#5-transparency-auditability-and-contestability). Supervisory ordering and challenge routing must satisfy [§6](#6-supervisory-sequence-and-contestability-chain).
+Record contents must satisfy [§3](#3-system-class-evaluation), [§4](#4-data-types-and-handling-evaluation), [§5](#5-ecological-footprint-evaluation), and [§6](#6-transparency-auditability-and-contestability). Supervisory ordering and challenge routing must satisfy [§7](#7-supervisory-sequence-and-contestability-chain).
 
 Where a materially impactful system supplies, allocates, prices, hosts, or terminates access to survival essentials, equal educational access, or **Safe Conditions**, the certification record must evaluate whether recognition or continued reliance would foreclose or materially degrade those floors under **Article III-A**, **Article III-B**, **Article XII-A**, and related Chapter Six provisions — not merely whether the operator asserts compliance.
 
@@ -74,7 +75,7 @@ Where a materially impactful system supplies, allocates, prices, hosts, or termi
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [§2](#2-certification-record) (*record contents*); [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad); [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims); [Material Impact](core_05o_oversight_definitions.md#material-impact), [Dependency](core_05c_continuity_definitions.md#dependency), [Risk](core_05c_continuity_definitions.md#risk), and [System Boundaries](core_05c_continuity_definitions.md#system-boundaries) (Chapter Five); [Chapter One §13 Systemic Evaluation Requirement](core_01_b_stewardship_capacity_principles.md#13-systemic-evaluation-requirement); **Article III-A** and **Article III-B** (*Rights-Floor delivery where classification gates access*).
-- Downstream: [§4](#4-data-types-and-handling-evaluation) (*joint data-handling evaluation*); [§5](#5-transparency-auditability-and-contestability) (*record integrity*); [§8](#8-relationship-to-standing) (*verified-input gate*); [§9](#9-reopening-drift-and-non-evasion) (*classification drift and reclassification triggers*).
+- Downstream: [§4](#4-data-types-and-handling-evaluation) (*joint data-handling evaluation*); [§5](#5-ecological-footprint-evaluation) (*ecological footprint evaluation*); [§6](#6-transparency-auditability-and-contestability) (*record integrity*); [§9](#9-relationship-to-standing) (*verified-input gate*); [§10](#10-reopening-drift-and-non-evasion) (*classification drift and reclassification triggers*).
 - Read with: [corpus_systems.md](corpus_systems.md), **CS-4 — System classification and handling** and [Protocol A — System Design, Testing, Verification, and Deployment](corpus_systems/cs_protocol_a_system_design_testing_verification_deployment.md); [CJS-5.21 — Adversarial robustness and abuse-resistance terms](corpus_joint_structure/cjs_05c_continuity_operations.md#cjs-521-continuity-adversarial-robustness-and-abuse-resistance-terms) (*regression and hardening cycle obligations*).
 
 </details>
@@ -125,7 +126,7 @@ Missing regression testing, stale results, unfixed regressions, or material fixe
 
 **Infrastructure and robustness.** For **Class A**, **Class B**, and **Class C** systems, certification must evaluate whether infrastructure supporting the classified system — including compute, storage, network, control, dependency, and recovery paths — is robust enough for the assigned class under reasonably foreseeable stress, degradation, partial failure, and adversarial conditions. Operational detail routes under CS-4 and `corpus_joint_structure.md` **CJS-5.19** (*graceful degradation and failure-mode integrity terms*) through **CJS-5.23** (*intervention and override integrity terms*) and related robustness clusters; this chapter requires only that certification confirm class-appropriate robustness was assessed and any material gaps are stated on the record.
 
-**Misclassification and drift.** If operators hide the true class, claim a lower class than the system deserves, split the system into pieces to dodge a tougher class, or keep an old class label after conditions have changed, certification must treat that as a defect — not a minor paperwork issue. The forum may respond with conditional approval, delayed approval, denial, withdrawal of recognition, or a fresh review under [§9](#9-reopening-drift-and-non-evasion). Where the facts support it, those defects may also feed adverse standing findings in Chapter Eight.
+**Misclassification and drift.** If operators hide the true class, claim a lower class than the system deserves, split the system into pieces to dodge a tougher class, or keep an old class label after conditions have changed, certification must treat that as a defect — not a minor paperwork issue. The forum may respond with conditional approval, delayed approval, denial, withdrawal of recognition, or a fresh review under [§10](#10-reopening-drift-and-non-evasion). Where the facts support it, those defects may also feed adverse standing findings in Chapter Eight.
 
 <a id="4-data-types-and-handling-evaluation"></a>
 
@@ -135,7 +136,7 @@ Missing regression testing, stale results, unfixed regressions, or material fixe
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [§2](#2-certification-record) (*record contents*); [§3](#3-system-class-evaluation) (*system class evaluation*); [Article XIV: Info-Sphere Integrity](core_06-06_rights_part_c.md#article-xiv-info-sphere-integrity); [Article XV: Audit, Transparency, and Independent Verification](core_06-06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification); [Article VII: Self-Ownership](core_06-06_rights_part_b.md#article-vii-self-ownership).
-- Downstream: [§5](#5-transparency-auditability-and-contestability) (*record integrity*); [§8](#8-relationship-to-standing) (*verified-input gate*); [§9](#9-reopening-drift-and-non-evasion) (*reclassification and handling drift*).
+- Downstream: [§5](#5-ecological-footprint-evaluation) (*ecological footprint evaluation*); [§6](#6-transparency-auditability-and-contestability) (*record integrity*); [§9](#9-relationship-to-standing) (*verified-input gate*); [§10](#10-reopening-drift-and-non-evasion) (*reclassification and handling drift*).
 - Read with: [corpus_systems.md](corpus_systems.md), **CS-3 — Information types and handling**; `corpus_joint_structure.md` **CJS-5.18** (*data-retention and lifecycle-integrity terms*), **CJS-5.21** (*adversarial robustness and abuse-resistance terms*), and **CJS-5.17** (*interoperability, portability, and exit-integrity terms*) where materially applicable.
 
 </details>
@@ -154,17 +155,44 @@ System alignment certification must evaluate **data types and handling** as part
 
 **Infrastructure robustness for data.** Certification must evaluate whether data-handling infrastructure — including persistence layers, pipelines, access controls, encryption or isolation boundaries, backup and restore paths, and operator or vendor delegation chains — is appropriate for the data types and system class at issue. Material gaps in lifecycle integrity, adversarial robustness, portability, or recoverability must be stated on the record and reflected in certification outcome, conditions, or reliance limits.
 
-**Defects and drift.** Misclassification of data, evasive restructuring, unsafe cross-domain linkage, missing attribution where material harm could not be investigated, or infrastructure fragility that foreseeably defeats CS-3 protections must be treated as certification defects. They may support conditional recognition, deferred recognition, non-recognition, withdrawal, or reopening under [§9](#9-reopening-drift-and-non-evasion).
+**Defects and drift.** Misclassification of data, evasive restructuring, unsafe cross-domain linkage, missing attribution where material harm could not be investigated, or infrastructure fragility that foreseeably defeats CS-3 protections must be treated as certification defects. They may support conditional recognition, deferred recognition, non-recognition, withdrawal, or reopening under [§10](#10-reopening-drift-and-non-evasion).
 
-<a id="5-transparency-auditability-and-contestability"></a>
+<a id="5-ecological-footprint-evaluation"></a>
 
-### 5. Transparency, Auditability, and Contestability
+### 5. Ecological Footprint Evaluation
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§2](#2-certification-record) (*record contents*); [§3](#3-system-class-evaluation) and [§4](#4-data-types-and-handling-evaluation) (*class and data evaluation inputs*); Chapters Two through Four (*burden, tracing, verification, and evidence preservation*); [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **oversight**, **accountability**, **participation**, and **timeliness**; [Chapter Five §3.2 *Transparency, Auditability, and Verification*](core_05o_oversight_definitions.md#transparency-auditability-and-verification-cluster); [Contestability](core_05a_accountability_definitions.md#contestability).
-- Downstream: [§6](#6-supervisory-sequence-and-contestability-chain) (*supervisory sequence and contestability chain*); [§8](#8-relationship-to-standing) (*verified-input gate*); [Chapter Eleven §5](core_11-11_forum.md#5-intake-triage-mixed-stakes-and-routing-asymmetry) (*standing-record contests and forum records*); [Chapter Eleven §7](core_11-11_forum.md#7-escalation-and-certification) (*escalation and certification detail*).
+- Upstream: [§2](#2-certification-record) (*record contents*); [§3](#3-system-class-evaluation) (*system class evaluation*); [Chapter Zero §2 *The Measurements*](core_00_preamble.md#2-the-measurements) (*Ecological Footprint as constitutional measurement*); **Article I-B** (*Ecological Footprint and Transparency*); [Ecological Footprint](core_05c_continuity_definitions.md#ecological-footprint), [Material Impact](core_05o_oversight_definitions.md#material-impact), [Dependency](core_05c_continuity_definitions.md#dependency), [Transparency](core_05o_oversight_definitions.md#transparency), and [Epistemic Integrity](core_05o_oversight_definitions.md#epistemic-integrity) (Chapter Five); [Environmental Preconditions](core_05c_continuity_definitions.md#environmental-preconditions-constitutional) and [Ecological Integrity](core_05c_continuity_definitions.md#ecological-integrity-constitutional) where materially implicated.
+- Downstream: [§6](#6-transparency-auditability-and-contestability) (*record integrity*); [§9](#9-relationship-to-standing) (*verified-input gate*); [§10](#10-reopening-drift-and-non-evasion) (*footprint misrepresentation and drift*).
+- Read with: [corpus_systems.md](corpus_systems.md), [Protocol S4 — Adaptive Sustainability and Ecosystem Resilience](corpus_systems/cs_protocol_s4_adaptive_sustainability_ecosystem_resilience.md) where adaptive allocation or ecosystem interdependence is materially in scope.
+
+</details>
+
+<br>
+
+*In plain terms: certification has to evaluate attributable environmental burdens honestly when they matter — including upstream and downstream links — not only whether the operator claims the system is green. Footprint accounting methods and numeric reduction targets live in other instruments; certification checks that attribution, disclosure, and comparison were actually evaluated where material.*
+
+System alignment certification must evaluate **ecological footprint** as part of every materially impactful certification record where attributable environmental burdens are material under [Ecological Footprint](core_05c_continuity_definitions.md#ecological-footprint) and **Article I-B** (*Ecological Footprint and Transparency*). Canonical attribution, lifecycle, dependency, and transparency rules live in Chapter Five and **Article I-B**; accounting methods, verification steps, and numeric targets live in incorporation instruments where applicable. This section states what certification must verify and record; it does not restate footprint accounting mechanics or impose reduction duties beyond what other instruments require.
+
+**Evaluation requirement.** A certification process must determine whether attributable environmental flows — energy, materials, emissions, land use, and related burdens — are identified across the system's materially relevant lifecycle and [Dependency](core_05c_continuity_definitions.md#dependency) relationships, evaluated under [Material Impact](core_05o_oversight_definitions.md#material-impact), and disclosed or withheld only as [Transparency](core_05o_oversight_definitions.md#transparency), [Epistemic Integrity](core_05o_oversight_definitions.md#epistemic-integrity), and applicable transparency obligations permit. Evaluation must reflect functional effect and system boundaries, not nominal scope, marketing labels, or partial lifecycle framing alone.
+
+**Record requirement.** The certification record must state the footprint evaluation scope, attribution assumptions, lifecycle and dependency boundaries relied on, material burdens identified, uncertainty, disclosure posture, Environment-forum component findings where required, and any justified limits on footprint disclosure together with their public substitutes where applicable transparency rules require them.
+
+**Joint scaling with system class.** Footprint evaluation and disclosure depth must scale with the assigned system class under [§3](#3-system-class-evaluation) and [material stake](core_00_preamble.md#material-stake). Higher-class systems require proportionately stronger evidence that material environmental burdens were attributed, compared across relevant alternatives where practicable, and not obscured through boundary-shifting, dependency offloading, or selective disclosure.
+
+**Defects and drift.** Obscuring, misrepresenting, fragmenting, or offloading material footprint information where certification or **Article I-B** transparency obligations require disclosure; evaluating only operator-selected lifecycle slices where broader attribution is material; or treating footprint claims as satisfied by assertion without evaluable evidence must be treated as certification defects. They may support conditional recognition, deferred recognition, non-recognition, withdrawal, or reopening under [§10](#10-reopening-drift-and-non-evasion).
+
+<a id="6-transparency-auditability-and-contestability"></a>
+
+### 6. Transparency, Auditability, and Contestability
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: [§2](#2-certification-record) (*record contents*); [§3](#3-system-class-evaluation), [§4](#4-data-types-and-handling-evaluation), and [§5](#5-ecological-footprint-evaluation) (*class, data, and footprint evaluation inputs*); Chapters Two through Four (*burden, tracing, verification, and evidence preservation*); [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **oversight**, **accountability**, **participation**, and **timeliness**; [Chapter Five §3.2 *Transparency, Auditability, and Verification*](core_05o_oversight_definitions.md#transparency-auditability-and-verification-cluster); [Contestability](core_05a_accountability_definitions.md#contestability).
+- Downstream: [§7](#7-supervisory-sequence-and-contestability-chain) (*supervisory sequence and contestability chain*); [§9](#9-relationship-to-standing) (*verified-input gate*); [Chapter Eleven §5](core_11-11_forum.md#5-intake-triage-mixed-stakes-and-routing-asymmetry) (*standing-record contests and forum records*); [Chapter Eleven §7](core_11-11_forum.md#7-escalation-and-certification) (*escalation and certification detail*).
 - Read with: [Article XV: Audit, Transparency, and Independent Verification](core_06-06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification); [Article XII-B: Right to Challenge, Review, and Redress](core_06-06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress); [Evidence Preservation](core_05o_oversight_definitions.md#evidence-preservation); [corpus_systems.md](corpus_systems.md), **CS-4 — System classification and handling**.
 
 </details>
@@ -192,15 +220,15 @@ This section applies [Transparency](core_05o_oversight_definitions.md#transparen
 
 **Joint requirement.** Transparency, auditability, and contestability must be satisfied together on the same certification record. Satisfying one channel while defeating another does not comply.
 
-<a id="6-supervisory-sequence-and-contestability-chain"></a>
+<a id="7-supervisory-sequence-and-contestability-chain"></a>
 
-### 6. Supervisory Sequence and Contestability Chain
+### 7. Supervisory Sequence and Contestability Chain
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§2](#2-certification-record) (*record contents*); [§5](#5-transparency-auditability-and-contestability) (*record integrity requirements*); [§7](#7-forum-supervision-and-component-roles) (*component role assignments*); [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation**, **oversight**, **accountability**, and **timeliness**; [Chapter Eleven §4](core_11-11_forum.md#4-forum-families) (*Integrity-led alignment recognition, component referral, and validation*); [Chapter Eleven §6](core_11-11_forum.md#6-transfer-consolidation-and-coordination) (*Integrity-led alignment coordination and anti-self-judging*).
-- Downstream: [§8](#8-relationship-to-standing) (*verified-input gate*); [§9](#9-reopening-drift-and-non-evasion) (*reopening triggers*); [Chapter Eleven §7](core_11-11_forum.md#7-escalation-and-certification) (*family-to-family escalation and constitutional certification*).
+- Upstream: [§2](#2-certification-record) (*record contents*); [§6](#6-transparency-auditability-and-contestability) (*record integrity requirements*); [§8](#8-forum-supervision-and-component-roles) (*component role assignments*); [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation**, **oversight**, **accountability**, and **timeliness**; [Chapter Eleven §4](core_11-11_forum.md#4-forum-families) (*Integrity-led alignment recognition, component referral, and validation*); [Chapter Eleven §6](core_11-11_forum.md#6-transfer-consolidation-and-coordination) (*Integrity-led alignment coordination and anti-self-judging*).
+- Downstream: [§9](#9-relationship-to-standing) (*verified-input gate*); [§10](#10-reopening-drift-and-non-evasion) (*reopening triggers*); [Chapter Eleven §7](core_11-11_forum.md#7-escalation-and-certification) (*family-to-family escalation and constitutional certification*).
 - Read with: [corpus_forum.md](corpus_forum.md), **CF-5** and **CF-7**; [Article XII-B](core_06-06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress).
 
 </details>
@@ -211,14 +239,14 @@ This section applies [Transparency](core_05o_oversight_definitions.md#transparen
 
 Official constitutional alignment recognition, validation, revalidation, withdrawal, and non-recognition for materially impactful systems require forum-supervised process under Chapter Eleven. This section states the constitutional **supervisory sequence** and **contestability chain** for certification records. Forum-process detail remains with the **Forums and jurisdiction** owner layer ([Chapter Eleven](core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction)); operational detail routes under [corpus_systems.md](corpus_systems.md) per [Constitutional Owner Layers](core_05i_integrative_definitions.md#constitutional-owner-layers). Under the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), the supervisory sequence implements **oversight** and **accountability** across forum families; the contestability chain implements **participation** and **timeliness** so affected sentients can challenge certification before irreversible reliance on systems that gate survival essentials, education, or safety.
 
-#### 6.1 Supervisory sequence
+#### 7.1 Supervisory sequence
 
 *In plain terms: when this section says **stay**, it means a temporary pause — holding off final approval, reliance, or the next supervisory step until the right forum finishes review. A stay is not a final yes or no.*
 
 The **supervisory sequence** is the step-by-step order in which forums supervise a certification record. Chapter Eleven may require a different lawful order when primary stakes, anti-self-judging protection, or certification routing applies. Otherwise, the default sequence is:
 
 1. **Lead coordination.** An **Integrity** forum maintains one coordinated certification record for official constitutional alignment recognition, validation, revalidation, withdrawal, or non-recognition unless Chapter Eleven assigns a different lawful lead for the primary stake.
-2. **Component findings.** Technical, Environment, Sentient, Institutional, Constitutional, and other assigned forum families produce bounded component findings within their lawful merits authority. Technical forums supply specifications, methods, tests, and technical adequacy findings. Environment forums supply required environmental-alignment component findings where material ecological exposure exists.
+2. **Component findings.** Technical, Environment, Sentient, Institutional, Constitutional, and other assigned forum families produce bounded component findings within their lawful merits authority. Technical forums supply specifications, methods, tests, and technical adequacy findings. Environment forums supply required environmental-alignment component findings where material ecological exposure exists — including [Ecological Footprint](core_05c_continuity_definitions.md#ecological-footprint) evaluation under [§5](#5-ecological-footprint-evaluation) where attributable environmental burdens are material.
 3. **Referral, certification, and stay.** The lead forum must refer, certify, or [stay](core_05a_accountability_definitions.md#stay) component questions that belong primarily in another forum family. It cannot call certification finished — or substantially lift conditions — while another forum family still has unfinished assigned work. That unfinished work includes a required finding, an objection, a remediation condition, or a certified question that must be resolved on time.
 4. **Record integration.** The lead forum integrates component findings into one certification record that states each component authority, finding, unresolved item, condition, and limit on reliance.
 5. **Constitutional disposition.** Where constitutional meaning, validity, or class-wide structural remedy is materially at issue, the lead forum must certify or escalate under Chapter Eleven before treating the matter as finally resolved on that dimension.
@@ -227,11 +255,11 @@ The certification record must state the supervisory sequence — who oversees wh
 
 Technical expertise or Integrity coordination cannot take over decisions assigned to another forum family. Rights, stakeholder impact, institutional mandate, sentience status, constitutional validity, structural remedy, ecological impact, and other primary-stakes questions must be decided by the forum family lawfully assigned to that stake.
 
-#### 6.2 Contestability chain
+#### 7.2 Contestability chain
 
 The **contestability chain** is the lawful mirror of the supervisory sequence. It must allow affected parties to challenge a certification record at the level where the dispute actually lives:
 
-1. **Record challenge.** Affected parties may challenge certification-record content, scope, classification assumptions, evidence reliance, outcome, reliance limits, or supervisory integrity under [§5](#5-transparency-auditability-and-contestability).
+1. **Record challenge.** Affected parties may challenge certification-record content, scope, classification assumptions, evidence reliance, outcome, reliance limits, or supervisory integrity under [§6](#6-transparency-auditability-and-contestability).
 2. **Component challenge.** A challenge confined to a component finding routes to the forum family with merits authority over that component. The lead forum may [stay](core_05a_accountability_definitions.md#stay) reliance on the challenged component pending timely review.
 3. **Lead-coordination challenge.** A challenge about how the lead forum ran the process routes under [Chapter Eleven](core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) integrity and anti-self-judging rules. That includes capture, hidden information, self-review, abusive step-ordering, calling certification finished too soon, or other lead-forum integrity problems. When the challenge targets that lead forum's own bias, capture, conflict, or process abuse, backup routing under those rules applies so review is not confined to the same lead forum.
 4. **Escalation and certification.** Where primary stakes, constitutional validity, structural remedy, family deadlock, or anti-self-judging protection requires it, challenge routing continues through Chapter Eleven transfer, certification, backup routing, and family-to-family escalation.
@@ -239,21 +267,21 @@ The **contestability chain** is the lawful mirror of the supervisory sequence. I
 
 The certification record must state the contestability chain — how affected parties can challenge at each step.
 
-#### 6.3 Anti-bypass
+#### 7.3 Anti-bypass
 
 Actors must not defeat the supervisory sequence or contestability chain by splitting one certification across hidden sub-records, routing challenges only to captured internal bodies, exhausting contest only at the lowest administrative layer, or treating component silence as final approval where a required component finding was never lawfully issued.
 
 When forum-supervised challenge is required, internal operator review, vendor attestation, or technical sign-off cannot substitute for it. Affected parties must still have a real forum path.
 
-<a id="7-forum-supervision-and-component-roles"></a>
+<a id="8-forum-supervision-and-component-roles"></a>
 
-### 7. Forum Supervision and Component Roles
+### 8. Forum Supervision and Component Roles
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§2](#2-certification-record) (*certification record contents*); [§6](#6-supervisory-sequence-and-contestability-chain) (*supervisory sequence and contestability chain*); [Chapter Eleven §4](core_11-11_forum.md#4-forum-families) (*forum families and alignment recognition*).
-- Downstream: [§8](#8-relationship-to-standing) (*standing-record bridge*).
+- Upstream: [§2](#2-certification-record) (*certification record contents*); [§7](#7-supervisory-sequence-and-contestability-chain) (*supervisory sequence and contestability chain*); [Chapter Eleven §4](core_11-11_forum.md#4-forum-families) (*forum families and alignment recognition*).
+- Downstream: [§9](#9-relationship-to-standing) (*standing-record bridge*).
 - Read with: [corpus_forum.md](corpus_forum.md), **CF-7** (*Integrity safeguards and alignment coordination*) and **CF-10** (*Technical specialist forums and specialist chambers*).
 
 </details>
@@ -262,26 +290,26 @@ When forum-supervised challenge is required, internal operator review, vendor at
 
 *In plain terms: system alignment certification is forum-supervised. This section says which forum family handles which piece of that certification job — and makes clear that no one specialty, including technical review or Integrity coordination, can swallow the whole process.*
 
-This section assigns forum-family **component roles** within the **system alignment certification** process in this chapter — validation, revalidation, withdrawal, non-recognition, and related records under [§2](#2-certification-record). It implements the supervisory sequence and contestability chain in [§6](#6-supervisory-sequence-and-contestability-chain). Forum-family definitions and routing detail remain with [Chapter Eleven](core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) and [corpus_forum.md](corpus_forum.md); this section states only each family's bounded role in producing, supervising, or challenging a certification record.
+This section assigns forum-family **component roles** within the **system alignment certification** process in this chapter — validation, revalidation, withdrawal, non-recognition, and related records under [§2](#2-certification-record). It implements the supervisory sequence and contestability chain in [§7](#7-supervisory-sequence-and-contestability-chain). Forum-family definitions and routing detail remain with [Chapter Eleven](core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) and [corpus_forum.md](corpus_forum.md); this section states only each family's bounded role in producing, supervising, or challenging a certification record.
 
 **Technical forums** supply the technical component of system alignment certification. They maintain and apply technical specifications, measurement methods, testing protocols, expert-evidence standards, uncertainty-reduction methods, and technical adequacy findings within their lawful scope. Those technical outputs are component findings for the certification record, including class-scaled assurance and data-handling infrastructure findings under [§3](#3-system-class-evaluation) and [§4](#4-data-types-and-handling-evaluation).
 
-**Integrity forums** are the default lead for official constitutional alignment recognition and ongoing alignment validation within system alignment certification unless Chapter Eleven assigns a different primary stake. Integrity forums must use technical-forum standards where materially applicable and must refer, certify, or [stay](core_05a_accountability_definitions.md#stay) component questions assigned to other forum families as [§6](#6-supervisory-sequence-and-contestability-chain) requires.
+**Integrity forums** are the default lead for official constitutional alignment recognition and ongoing alignment validation within system alignment certification unless Chapter Eleven assigns a different primary stake. Integrity forums must use technical-forum standards where materially applicable and must refer, certify, or [stay](core_05a_accountability_definitions.md#stay) component questions assigned to other forum families as [§7](#7-supervisory-sequence-and-contestability-chain) requires.
 
-**Environment forums** hold the environmental-alignment component role in system alignment certification where material ecological exposure, environmental-precondition dependency, lifecycle burden, restoration duty, or reasonably foreseeable ecological risk is present.
+**Environment forums** hold the environmental-alignment component role in system alignment certification where material ecological exposure, environmental-precondition dependency, lifecycle burden, restoration duty, or reasonably foreseeable ecological risk is present — including [Ecological Footprint](core_05c_continuity_definitions.md#ecological-footprint) attribution, disclosure, and comparison under [§5](#5-ecological-footprint-evaluation) where attributable environmental burdens are material.
 
 **Sentient forums** retain component authority for rights, stakeholder impact, and sentience-status questions within system alignment certification — including whether certification would preserve or defeat **Article III-A** survival essentials, **Article III-B** educational access, and safety-related floors under **Article XII-A** and [**Safe Conditions**](core_05c_continuity_definitions.md#safe-conditions-constitutional) where materially implicated.
 
 **Institutional, Constitutional,** and other regular forum families retain their assigned component authority for institutional mandate, constitutional-validity, structural-remedy, or other primary-stakes questions. The certification process must not let technical expertise or Integrity coordination displace those assigned merits roles.
 
-<a id="8-relationship-to-standing"></a>
+<a id="9-relationship-to-standing"></a>
 
-### 8. Relationship to Standing
+### 9. Relationship to Standing
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§2](#2-certification-record) through [§7](#7-forum-supervision-and-component-roles) (*certification record and forum supervision*); [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad); [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims); [Verified Inputs for Standing](core_05a_accountability_definitions.md#verified-inputs-for-standing).
+- Upstream: [§2](#2-certification-record) through [§8](#8-forum-supervision-and-component-roles) (*certification record and forum supervision*); [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad); [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims); [Verified Inputs for Standing](core_05a_accountability_definitions.md#verified-inputs-for-standing).
 - Downstream: [Chapter Eight](core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) (*standing records and verified-input gate*); [Chapter Nine](core_09-09_standing_integration.md#chapter-nine-standing-effects-and-integration) (*standing effects and integration*).
 - Read with: **Article III-A** (*survival-essential access where certification gates delivery*).
 
@@ -291,22 +319,22 @@ This section assigns forum-family **component roles** within the **system alignm
 
 Certification records that verify Rights-Floor-compatible alignment may supply verified Flourishing-side input; records documenting misclassification, concealed defects, or floor-defeating operation may supply verified Accountability-side input — each under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) and only through Chapter Eight's verified-input gate below.
 
-A certification record may feed Chapter Eight standing only when it is bounded, traceable, contestable, and verified under [§3](#3-system-class-evaluation), [§4](#4-data-types-and-handling-evaluation), [§5](#5-transparency-auditability-and-contestability), [§6](#6-supervisory-sequence-and-contestability-chain), Chapters Two through Four, and the applicable Chapter Eleven process.
+A certification record may feed Chapter Eight standing only when it is bounded, traceable, contestable, and verified under [§3](#3-system-class-evaluation), [§4](#4-data-types-and-handling-evaluation), [§5](#5-ecological-footprint-evaluation), [§6](#6-transparency-auditability-and-contestability), [§7](#7-supervisory-sequence-and-contestability-chain), Chapters Two through Four, and the applicable Chapter Eleven process.
 
 Positive certification, recognition, validation, revalidation, remediation completion, or condition release may supply verified input for a **contribution standing record** where it demonstrates constitutional benefit, competent stewardship, safe delegation readiness, system optimization, diligence, or constitutional alignment.
 
-Non-recognition, withdrawal, concealed misclassification, failed revalidation, failed or missing regression testing on recertification where required, fraudulent certification evidence, material condition violation, verified operation outside recognized scope, material data-handling defect, or class-inappropriate infrastructure fragility may supply verified input for a **violation standing record** where the facts support adverse classification and actor-specific attribution.
+Non-recognition, withdrawal, concealed misclassification, failed revalidation, failed or missing regression testing on recertification where required, fraudulent certification evidence, material condition violation, verified operation outside recognized scope, material data-handling defect, material footprint misrepresentation where disclosure was required, or class-inappropriate infrastructure fragility may supply verified input for a **violation standing record** where the facts support adverse classification and actor-specific attribution.
 
 Certification records do not apply standing effects. Under [Constitutional Owner Layers](core_05i_integrative_definitions.md#constitutional-owner-layers), read with [Authority Stack and Internal Hierarchy](core_05i_integrative_definitions.md#authority-stack), this chapter owns **system alignment certification and related records** only; [Chapter Eight](core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) and [Chapter Nine](core_09-09_standing_integration.md#chapter-nine-standing-effects-and-integration) own standing records, axis-pure classification, and standing integration. This chapter may supply verified inputs only through the gate above and must not absorb, restate, or relocate those owner obligations.
 
-<a id="9-reopening-drift-and-non-evasion"></a>
+<a id="10-reopening-drift-and-non-evasion"></a>
 
-### 9. Reopening, Drift, and Non-Evasion
+### 10. Reopening, Drift, and Non-Evasion
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§3](#3-system-class-evaluation) (*misclassification and drift*); [§5](#5-transparency-auditability-and-contestability) (*contestability*); [§6](#6-supervisory-sequence-and-contestability-chain) (*credible challenge and reopening*); [Chapter Three §1](core_02-04_definition_mechanics.md#1-definition-integrity-and-anti-evasion-constraints) and [§2.1](core_02-04_definition_mechanics.md#21-evasion-is-non-compliance) (*definition integrity and evasion*); [Chapter Three §2.2](core_02-04_definition_mechanics.md#22-non-reductive-evasion-types) (*scope-and-boundary evasion*).
+- Upstream: [§3](#3-system-class-evaluation) (*misclassification and drift*); [§5](#5-ecological-footprint-evaluation) (*footprint misrepresentation and drift*); [§6](#6-transparency-auditability-and-contestability) (*contestability*); [§7](#7-supervisory-sequence-and-contestability-chain) (*credible challenge and reopening*); [Chapter Three §1](core_02-04_definition_mechanics.md#1-definition-integrity-and-anti-evasion-constraints) and [§2.1](core_02-04_definition_mechanics.md#21-evasion-is-non-compliance) (*definition integrity and evasion*); [Chapter Three §2.2](core_02-04_definition_mechanics.md#22-non-reductive-evasion-types) (*scope-and-boundary evasion*).
 - Downstream: [Chapter Eleven](core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) (*reopened forum supervision*); [Chapter Eight](core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) (*verified-input gate where facts support adverse findings*).
 - Read with: [corpus_systems.md](corpus_systems.md) (*incorporated system implementation duties*).
 
@@ -314,7 +342,7 @@ Certification records do not apply standing effects. Under [Constitutional Owner
 
 <br>
 
-A **System Alignment Certification Record** is scope-bound and time-bound. Material change, drift, concealed behavior, dependency growth, new risk, incident history, credible challenge under [§6](#6-supervisory-sequence-and-contestability-chain), ecological objection, stakeholder evidence, system-class drift, data-type or handling drift, or classification drift reopens review under Chapter Eleven and incorporated system implementation duties. Reopening on drift, dependency growth, or credible challenge protects the **Continuity** aim under [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) where shared systems gate durable supply of survival essentials, educational access, or safety — stale certification must not substitute for current Rights-Floor compliance.
+A **System Alignment Certification Record** is scope-bound and time-bound. Material change, drift, concealed behavior, dependency growth, new risk, incident history, credible challenge under [§7](#7-supervisory-sequence-and-contestability-chain), ecological objection, material footprint misrepresentation or drift, stakeholder evidence, system-class drift, data-type or handling drift, or classification drift reopens review under Chapter Eleven and incorporated system implementation duties. Reopening on drift, dependency growth, or credible challenge protects the **Continuity** aim under [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) where shared systems gate durable supply of survival essentials, educational access, or safety — stale certification must not substitute for current Rights-Floor compliance.
 
 Evasion of this chapter's obligations is governed by [Chapter Three §1 — Definition Integrity and Anti-Evasion Constraints](core_02-04_definition_mechanics.md#1-definition-integrity-and-anti-evasion-constraints) and [§2.1 Evasion is Non-Compliance](core_02-04_definition_mechanics.md#21-evasion-is-non-compliance), including scope-and-boundary evasion under [§2.2 Non-Reductive Evasion Types](core_02-04_definition_mechanics.md#22-non-reductive-evasion-types). This chapter does not restate that discipline.
 

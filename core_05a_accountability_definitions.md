@@ -515,7 +515,7 @@ This band holds **Accountability**-leg definitions: contestability, redress, gov
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: [Chapter Seven §6](core_07-07_system_alignment_certification.md#6-supervisory-sequence-and-contestability-chain) (*supervisory sequence, component referral, and reliance limits during contest*); [Chapter Eleven](core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) (*transfer, certification, and interim relief*); `corpus_forum.md` **CF-6** (*appeal and secondary review*) and **CF-15** (*interim-relief order*).
+- Downstream: [Chapter Seven §7](core_07-07_system_alignment_certification.md#7-supervisory-sequence-and-contestability-chain) (*supervisory sequence, component referral, and reliance limits during contest*); [Chapter Eleven](core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) (*transfer, certification, and interim relief*); `corpus_forum.md` **CF-6** (*appeal and secondary review*) and **CF-15** (*interim-relief order*).
 - Read with: [Merits Determination](core_05a_accountability_definitions.md#merits-determination), [Contestability](core_05a_accountability_definitions.md#contestability), [Adjudication and Dispute Resolution](core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional), [Timely Resolution](core_05a_accountability_definitions.md#timely-resolution-constitutional), [Necessity](core_05a_accountability_definitions.md#necessity), [Proportionality](core_05a_accountability_definitions.md#proportionality), and [Procedural Fairness](core_05p_participation_definitions.md#procedural-fairness-constitutional).
 
 </details>
