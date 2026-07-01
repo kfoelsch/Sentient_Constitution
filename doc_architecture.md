@@ -98,6 +98,7 @@ Keep constitutional concept + O/E/C boundary only; cite owner homes for institut
 | CH5-SINGLE-DEF | One visible definition per term | `make ch5-single-definition-audit` |
 | LEX-GUARDRAILS | Vocabulary and capitalization | `make lexical-vocabulary-audit` |
 | GLOSS-SUBARTICLE | Chapter Six `*In plain terms:*` on subarticles | `make subarticle-gloss-audit` |
+| GLOSS-ARTICLE-NEIGHBORS | Chapter Six `*Article neighbors:*` article-intro coordination | editorial pattern in **section 4** |
 | OWNER-SINGLE-HOME | Competing O/E/C gloss heuristics | `make owner-discipline-audit` |
 | REF-ARTICLES | Article titles and Roman numerals; prose cite gloss per **section 7** | `make reference-audit` |
 | ROUTER-CJS21 | Cross-implementation routing | `make router-bidirectional-audit` |
@@ -144,6 +145,31 @@ Collapsed **Definitions · Evaluation · Compliance** widget (same blue `<detail
 - **Chapter One row order:** functional reasoning order, not alphabetical — config in [tools/architecture/ch1_dec_order.json](tools/architecture/ch1_dec_order.json); `make ch1-dec-order-audit`.
 
 **Do not** put `Definitions:` lines inside Trace (2026-04-16 D/E/C split). **Do not** use visible group labels as fake list rows inside D/E/C widgets.
+
+### Article neighbors gloss (GLOSS-ARTICLE-NEIGHBORS)
+
+`*Article neighbors:*` — visible, article-scoped coordination prose for average readers. It explains how the current article sits next to neighboring articles, chapters, or interpretive hubs — extension, governance split, mutual reinforcement, certification non-substitution, or hub routing **without narrowing** upstream Rights Floors.
+
+**Distinct from Trace.** Trace `Read with:` carries mandatory corpus routing for integrators and auditors (`Upstream:`, `Downstream:`, `Read with:`). `*Article neighbors:*` is reader-facing orientation in visible article prose. It does not replace Trace routing or CJS-2.1 integrator tables.
+
+**Typical intro stack** (when an article carries aims/tetrad framing):
+
+1. `*In plain terms:*`
+2. `This Article states **constitutional floors**…` + **Flourishing** / **Continuity** bullets where used
+3. Tetrad block — `Legitimate pursuit runs through the Constitutional Tetrad, scaled to material stake:` followed by four bullets: **Participation**, **Oversight**, **Accountability**, **Timeliness** (match **Article III** intro style).
+4. `*Article neighbors:*` — use bullets when coordination spans multiple neighboring articles, layers, or non-substitution rules; a single short sentence may remain inline.
+5. Subarticles (`#### Article …`)
+
+When no aims/tetrad block exists, place `*Article neighbors:*` after the article scope sentence and before the first subarticle.
+
+**When to use**
+
+- Neighboring articles govern part of the floor while this article carries the rest.
+- This article extends an upstream article without narrowing it.
+- Certification, challenge, interpretive-hub, or info-sphere articles must be read together without substitution.
+- Article placement or sequencing materially affects how neighboring floors apply.
+
+**Do not** use `*Article neighbors:*` for operative rights bullets, Trace contents, D/E/C widget rows, or implementation-owner routing to `corpus_systems` / `corpus_institutions` unless that routing is expressed as article-to-article coordination for readers.
 
 ### File-top placement template (NAV-PLACEMENT-01)
 

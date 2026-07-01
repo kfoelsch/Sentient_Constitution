@@ -52,7 +52,19 @@
 
 *In plain terms: Chapter Six states the basic rights no sentient may be pushed below. Those Rights Floors protect **Flourishing** and **Continuity** under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) and must remain available, reviewable, and enforceable through the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation**, **oversight**, **accountability**, and **timeliness** — scaled to [material stake](core_00_preamble.md#material-stake). Other chapters help implement, measure, certify, and enforce those rights, but they do not get to shrink them.*
 
-Chapter Six is the constitutional owner of **Rights Floors** and rights-level interpretation. A Rights Floor is a baseline protection: what must remain available, reviewable, and enforceable before later governance, certification, classification, or implementation choices can be accepted. Those floors serve the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims): **Flourishing** requires that baseline protections remain accessible in practice; **Continuity** requires that they remain durable, non-regressive, and repairable over time. Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation**, **oversight**, **accountability**, and **timeliness** — scaled to [material stake](core_00_preamble.md#material-stake). The broader constitutional stack explains how that floor is interpreted, limited, verified, and enforced. Unless a provision in this chapter expressly says otherwise, every Chapter Six right is read with:
+Chapter Six is the constitutional owner of **Rights Floors** and rights-level interpretation. A Rights Floor is a baseline protection: what must remain available, reviewable, and enforceable before later governance, certification, classification, or implementation choices can be accepted. Those floors serve the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims):
+
+- **Flourishing:** baseline protections remain accessible in practice.
+- **Continuity:** they remain durable, non-regressive, and repairable over time.
+
+Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), scaled to [material stake](core_00_preamble.md#material-stake):
+
+- **Participation**
+- **Oversight**
+- **Accountability**
+- **Timeliness**
+
+The broader constitutional stack explains how that floor is interpreted, limited, verified, and enforced. Unless a provision in this chapter expressly says otherwise, every Chapter Six right is read with:
 - **Chapter One**, including:
   - **value constraints** — Safety, Truth, Necessity, Proportionality, and systemic evaluation of local, aggregate, delayed, and cross-system effects;
   - **interaction discipline** — [Chapter One §6 Interaction and Conflict Resolution](core_01_a_values_principles.md#6-interaction-and-conflict-resolution);
@@ -94,7 +106,19 @@ Shorter cross-references to those themes elsewhere in this chapter incorporate t
 
 *In plain terms: **Article I** is the planet-first Rights Floor — Earth's life-support systems must hold so **Flourishing** and **Continuity** remain possible for every sentient, and later governance cannot shrink that floor through certification, classification, or implementation choices.*
 
-Every sentient depends on Earth's physical environment and living systems. Protecting and restoring them is therefore a shared constitutional interest. This Article states the Rights Floor for environmental survival under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims): **Flourishing** requires that sentients retain access to life-supporting conditions; **Continuity** requires durable ecological integrity, sustainability, and intergenerational repair where material harm would foreclose future wellbeing. Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation** in materially consequential environmental decisions, **oversight** through traceable integrity and footprint records, **accountability** for material harm and evasion, and **timeliness** in detection and remedy — scaled to [material stake](core_00_preamble.md#material-stake). Chapter Five defines those conditions under **Environmental Preconditions**. When that definition is relevant to the situation, **Chapters Two through Four** also apply — for traceable records, independent verification, stable definitions, and blocking evasion.
+Every sentient depends on Earth's physical environment and living systems. Protecting and restoring them is therefore a shared constitutional interest. This Article states the Rights Floor for environmental survival under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims):
+
+- **Flourishing:** sentients retain access to life-supporting conditions.
+- **Continuity:** durable ecological integrity, sustainability, and intergenerational repair where material harm would foreclose future wellbeing.
+
+Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), scaled to [material stake](core_00_preamble.md#material-stake):
+
+- **Participation:** in materially consequential environmental decisions.
+- **Oversight:** through traceable integrity and footprint records.
+- **Accountability:** for material harm and evasion.
+- **Timeliness:** in detection and remedy.
+
+Chapter Five defines those conditions under **Environmental Preconditions**. When that definition is relevant to the situation, **Chapters Two through Four** also apply — for traceable records, independent verification, stable definitions, and blocking evasion.
 
 #### Article I-A: Environmental Preconditions and Ecological Integrity
 <details>
@@ -235,7 +259,22 @@ Every sentient depends on Earth's physical environment and living systems. Prote
 
 *In plain terms: **Article II** is the material-stewardship Rights Floor — durable and network-dependent products must be designed, described, and supported honestly so **Flourishing** is not defeated by misleading longevity claims or blocked repair paths, and **Continuity** is not defeated by avoidable premature discard or hidden lifecycle burden.*
 
-This Article states **constitutional floors** for the material stewardship of durable and network-dependent products under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims): **Flourishing** requires that sentients can rely on honest lifecycle representation and practicable repair and maintenance; **Continuity** requires durable-use integrity, intergenerational responsibility, and non-regressive support for products on which communities depend. Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation** in materially consequential stewardship decisions, **oversight** through auditable lifecycle and support records, **accountability** for misrepresentation and avoidable obsolescence, and **timeliness** in remedy when support windows lapse — scaled to [material stake](core_00_preamble.md#material-stake). Interpretation must remain consistent with **Article I** (*Environmental Survival*) and with Chapter Five where ecological footprint, intergenerational responsibility, and materiality apply.
+This Article states **constitutional floors** for the material stewardship of durable and network-dependent products under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims):
+
+- **Flourishing:** sentients can rely on honest lifecycle representation and practicable repair and maintenance.
+- **Continuity:** durable-use integrity, intergenerational responsibility, and non-regressive support for products on which communities depend.
+
+Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), scaled to [material stake](core_00_preamble.md#material-stake):
+
+- **Participation:** in materially consequential stewardship decisions.
+- **Oversight:** through auditable lifecycle and support records.
+- **Accountability:** for misrepresentation and avoidable obsolescence.
+- **Timeliness:** in remedy when support windows lapse.
+
+*Article neighbors:*
+
+- **Environmental consistency:** Interpretation must remain consistent with **Article I** (*Environmental Survival*).
+- **Chapter Five scaling:** Read with Chapter Five where ecological footprint, intergenerational responsibility, and materiality apply.
 
 The canonical Chapter Five anchors for those concepts live in the **Article II-A** (*Material Stewardship and Lifecycle Honesty*) *Definitions · Evaluation · Compliance* widget, which is where this Article operatively invokes them. The opening sentence above is a roadmap pointer under [doc_architecture.md](doc_architecture.md) rule 12 *Roadmap exclusion* and does not re-invoke those concepts at the Article-opener level.
 
@@ -417,7 +456,7 @@ Procedural detail for **Article II** (*Material Stewardship and Durable-Use Inte
   Operators can still be held to constitutional standards when their conduct qualifies as **Negligence** under Chapter Five — including harm that builds up over time because maintenance, support, or continuity duties were neglected.
 - **Successor and formal-structure duties:** Restructuring, sale, receivership, or insolvency does not by itself extinguish the continuity duties stated in this Article. Read with [Chapter One §10.2.4 Successor responsibility and formal-structure non-escape](core_01_b_stewardship_capacity_principles.md#1024-successor-responsibility-and-formal-structure-non-escape) and [Chapter Nine §5.1](core_09-09_standing_integration.md#51-remediation-capacity-and-funding) / [§5.4](core_09-09_standing_integration.md#54-anti-evasion-and-look-through-authority).
 
-**Remediation** for **Article II** (*Material Stewardship and Durable-Use Integrity*) follows the **interpretive hubs** stated at the opening of this chapter (challenge and redress; justice and escalation).
+*Article neighbors:* **Remediation** for **Article II** (*Material Stewardship and Durable-Use Integrity*) follows the **interpretive hubs** stated at the opening of this chapter (challenge and redress; justice and escalation).
 
 ### Article III: Survival and Equal Educational Access
 
@@ -644,7 +683,17 @@ Cross-reference: **Article XXV-D** (*Non-Compliant Property and Systems; Volunta
 
 *In plain terms: **Article IV** is the shared-resources Rights Floor — resource flows among interdependent systems must stay visible, fair, and sustainable so **Flourishing** is not defeated by hidden extraction or dependency capture, and **Continuity** is not defeated by persistent imbalance, opaque routing, or underfunding of shared infrastructure.*
 
-This Article states **constitutional floors** for resource allocation, dependencies, and ecosystem funding under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims): **Flourishing** requires that sentients and dependent systems retain fair access to shared infrastructure without being persistently extracted from or trapped by asymmetric dependency; **Continuity** requires durable, ecosystem-aware resource flows, cross-system sustainability, and repairable funding arrangements that do not foreclose future wellbeing. Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation** in contestable allocation and challenge pathways, **oversight** through transparent dependency mapping and auditable resource-flow records, **accountability** for hidden extraction and persistent imbalance, and **timeliness** in detection and corrective review — scaled to [material stake](core_00_preamble.md#material-stake).
+This Article states **constitutional floors** for resource allocation, dependencies, and ecosystem funding under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims):
+
+- **Flourishing:** sentients and dependent systems retain fair access to shared infrastructure without being persistently extracted from or trapped by asymmetric dependency.
+- **Continuity:** durable, ecosystem-aware resource flows, cross-system sustainability, and repairable funding arrangements that do not foreclose future wellbeing.
+
+Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), scaled to [material stake](core_00_preamble.md#material-stake):
+
+- **Participation:** in contestable allocation and challenge pathways.
+- **Oversight:** through transparent dependency mapping and auditable resource-flow records.
+- **Accountability:** for hidden extraction and persistent imbalance.
+- **Timeliness:** in detection and corrective review.
 
 Resource flows among interdependent systems must remain:
 - transparent;
@@ -654,7 +703,10 @@ Resource flows among interdependent systems must remain:
 
 Those requirements protect shared infrastructure and the systems that depend on it from being undermined by hidden extraction or persistent imbalance.
 
-When materially impactful systems allocate, route, fund, or extract from shared infrastructure or foundational dependencies on which other systems or sentients rely, [System Alignment Certification](core_05c_continuity_definitions.md#system-alignment-certification-constitutional) under [Chapter Seven](core_07-07_system_alignment_certification.md#chapter-seven-system-alignment-certification) applies — and recognition or continued reliance cannot substitute for **Article IV-A** or **Article IV-B** compliance or shrink those floors.
+*Article neighbors:*
+
+- **When certification applies:** When materially impactful systems allocate, route, fund, or extract from shared infrastructure or foundational dependencies on which other systems or sentients rely, [System Alignment Certification](core_05c_continuity_definitions.md#system-alignment-certification-constitutional) under [Chapter Seven](core_07-07_system_alignment_certification.md#chapter-seven-system-alignment-certification) applies.
+- **Non-substitution:** Recognition or continued reliance cannot substitute for **Article IV-A** or **Article IV-B** compliance or shrink those floors.
 
 #### Article IV-A: Dependency Mapping and Resource-Flow Transparency
 <details>

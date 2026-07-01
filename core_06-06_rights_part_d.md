@@ -52,7 +52,10 @@ Disputes among sentients, systems, and institutions that affect constitutional r
 
 Adjudication and dispute resolution in the constitutional sense are defined in **Chapter Five** as [*Adjudication and Dispute Resolution*](core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional) and [*Timely Resolution*](core_05a_accountability_definitions.md#timely-resolution-constitutional), members of the [*Accountability, Contestability, Adjudication and Dispute Resolution, Collective Accountability Failure, and Force Majeure*](core_05i_integrative_definitions.md#accountability-contestability-and-collective-accountability-failure-cluster) cluster.
 
-Resolution velocity, anti-delay discipline, and materiality-tier milestones are governed by **Article XXIII-G** (*Timely Resolution and Anti-Delay Floor*), read with [**Article XII-B** (*Right to Challenge, Review, and Redress*)](core_06-06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress) (*timely redress access*).
+*Article neighbors:*
+
+- **Timeliness floor:** Resolution velocity, anti-delay discipline, and materiality-tier milestones are governed by **Article XXIII-G** (*Timely Resolution and Anti-Delay Floor*).
+- **Timely redress:** Read with [**Article XII-B** (*Right to Challenge, Review, and Redress*)](core_06-06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress) (*timely redress access*).
 
 Adopted governance implementation provides escalation, proportionality of intervention, emergency boundaries, and tier-default timing windows. It must not narrow practical access, reviewability, restoration, timely resolution, or Rights-Floor constraints under this Article.
 #### Article XXIII-A: Justice Objective and Scope

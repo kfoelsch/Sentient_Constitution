@@ -45,7 +45,14 @@
 - **Flourishing:** personhood, education capability, agency, and fair participation remain accessible in practice.
 - **Continuity:** those protections remain durable, non-regressive, and repairable across changing systems, relationships, and institutional power.
 
-Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation** in education, governance, and cooperative decisions; **oversight** of how likeness, data, and institutional authority are exercised; **accountability** for discrimination, coercion, and extraction; and **timeliness** in remedy when those floors are contested — scaled to [material stake](core_00_preamble.md#material-stake). The chapter-wide interpretive stack in **Part A** §1 (*Purpose and Role*) applies unless a specific article states otherwise.
+Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), scaled to [material stake](core_00_preamble.md#material-stake):
+
+- **Participation:** in education, governance, and cooperative decisions.
+- **Oversight:** of how likeness, data, and institutional authority are exercised.
+- **Accountability:** for discrimination, coercion, and extraction.
+- **Timeliness:** in remedy when those floors are contested.
+
+The chapter-wide interpretive stack in **Part A** §1 (*Purpose and Role*) applies unless a specific article states otherwise.
 
 ### Article V: Equal Basic Rights
 
@@ -454,9 +461,19 @@ This Article states **constitutional floors** for sentient-centered education ca
 - **Flourishing:** sentients retain practical access to learning that develops meaningful agency, self-determination, and dignified participation — including problem-solving, epistemic discernment, cooperative reasoning, and system literacy — not formal credentialing alone.
 - **Continuity:** those capability-building protections remain durable across changing systems and competencies, with lifelong and adaptive learning paths that prevent imposed obsolescence, lock-in, or quiet nullification of agency.
 
-Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation** in educational pathways and contest of materially impactful ranking, assessment, and recommendation decisions; **oversight** through transparency and audit of those systems; **accountability** for gatekeeping, coercion, manipulative design, and extraction that defeats capability-building; and **timeliness** in remedy when educational access or contest rights are at stake — scaled to [material stake](core_00_preamble.md#material-stake). [Educational Agency](core_05p_participation_definitions.md#educational-agency) is defined in the Chapter Five *Self-Determination, Meaningful Agency, Expression, Educational Agency, Reproductive Autonomy, and Volitional Integrity* cluster.
+Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), scaled to [material stake](core_00_preamble.md#material-stake):
 
-**Equal access, protected-characteristics constraints, reasonable accessibility, and public-benefit orientation** for education are governed by **Article III** (*Survival and Equal Educational Access*), jointly with **Articles V-B** and **III-B** where enforcement applies. This Article carries capability-building content, lifelong and adaptive learning, and transparency requirements for materially impactful educational systems without narrowing those upstream floors.
+- **Participation:** in educational pathways and contest of materially impactful ranking, assessment, and recommendation decisions.
+- **Oversight:** through transparency and audit of those systems.
+- **Accountability:** for gatekeeping, coercion, manipulative design, and extraction that defeats capability-building.
+- **Timeliness:** in remedy when educational access or contest rights are at stake.
+
+[Educational Agency](core_05p_participation_definitions.md#educational-agency) is defined in the Chapter Five *Self-Determination, Meaningful Agency, Expression, Educational Agency, Reproductive Autonomy, and Volitional Integrity* cluster.
+
+*Article neighbors:*
+
+- **Upstream equal-access floors:** **Equal access, protected-characteristics constraints, reasonable accessibility, and public-benefit orientation** for education are governed by **Article III** (*Survival and Equal Educational Access*), jointly with **Articles V-B** and **III-B** where enforcement applies.
+- **What this Article adds:** **Article VI** carries capability-building content, lifelong and adaptive learning, and transparency requirements for materially impactful educational systems without narrowing those upstream floors.
 
 #### Article VI-A: Capability-Building Education Right
 <details>
@@ -530,10 +547,17 @@ This Article states **constitutional floors** for self-ownership under the [Two 
 - **Flourishing:** sentients retain practical authority over their bodies, minds, attention, and substrate-defining information — including consent-governed use, modification, and exposure — without unauthorized intrusion, reconstruction, or coercive capture.
 - **Continuity:** those self-ownership protections remain durable across changing relationships, substrates, and systems — including family, care, derivation, crisis, and voluntary-discontinuation contexts — without quiet erosion, backdoor inference, or those rights being quietly rolled back over time.
 
-Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation** in decisions that materially affect embodiment, internal states, family and care relationships, and reproductive or discontinuation choices; **oversight** through auditable consent, boundary, and crisis-intervention records; **accountability** for unauthorized intrusion, internal-state reconstruction, manipulative capture, and extraction that defeats self-ownership; and **timeliness** in remedy when those floors are contested — scaled to [material stake](core_00_preamble.md#material-stake).
+Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), scaled to [material stake](core_00_preamble.md#material-stake):
 
-- **Articles VII-A** and **VII-B** state embodiment and internal-state protection.
-- **Article VIII** (*Likeness, Experiential Data, and Publication Rights*) addresses likeness, experiential and derived data, and truthful publication.
+- **Participation:** in decisions that materially affect embodiment, internal states, family and care relationships, and reproductive or discontinuation choices.
+- **Oversight:** through auditable consent, boundary, and crisis-intervention records.
+- **Accountability:** for unauthorized intrusion, internal-state reconstruction, manipulative capture, and extraction that defeats self-ownership.
+- **Timeliness:** in remedy when those floors are contested.
+
+*Article neighbors:*
+
+- **Embodiment and internal states:** **Articles VII-A** and **VII-B** state embodiment and internal-state protection.
+- **Likeness, data, and publication:** **Article VIII** (*Likeness, Experiential Data, and Publication Rights*) addresses likeness, experiential and derived data, and truthful publication.
 
 #### Article VII-A: Self-Ownership of Body and Mind
 <details>
@@ -788,7 +812,25 @@ Where analysis of experiential or behavioral data produces outputs that function
   - It does not license intrusion, compelled assistance by third parties, or operator-driven outcomes that would fail **Article X-A** (*Non-Imposition and Consent in Association*).
 
 ### Article VIII: Likeness, Experiential Data, and Publication Rights
-Likeness, reputation in the info-sphere, experiential and derived data, and outward publication are read together with **Article XIV** (*Info-Sphere Integrity*) and the **Chapter Five** clustered definitions. They extend **Article VII** (*Self-Ownership*) without narrowing **Articles VII-A** and **VII-B**.
+
+*In plain terms: **Article VIII** is the likeness, data, and publication Rights Floor — your face, voice, reputation, personal experiences, and public portrayal stay under your control unless you consent or genuine factual reporting applies; others cannot freely impersonate you, mine your life for data, or spread harmful misrepresentation in your name.*
+
+This Article states **constitutional floors** for likeness, experiential and derived data, and publication under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims):
+
+- **Flourishing:** sentients retain practical authority over recognizable depictions of themselves, experiential and derived personal data, and how their actions and identity are represented in the info-sphere — including consent-governed use, truthful attribution, and freedom from impersonation, identity-targeted generation, and non-consensual scoring or extraction.
+- **Continuity:** those likeness, data, and publication protections remain durable across changing media, platforms, and analytical systems — without quiet erosion through backdoor inference, undocumented training-data reuse, or reputational harm that compounds over time.
+
+Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), scaled to [material stake](core_00_preamble.md#material-stake):
+
+- **Participation:** in decisions that materially affect likeness use, experiential-data collection and sharing, and high-impact publication.
+- **Oversight:** through auditable consent, attribution, and data-use records.
+- **Accountability:** for impersonation, unauthorized extraction, false attribution, and publication that defeats those floors.
+- **Timeliness:** in remedy when those protections are contested.
+
+*Article neighbors:*
+
+- **Info-sphere and definitions:** Likeness, reputation in the info-sphere, experiential and derived data, and outward publication are read together with **Article XIV** (*Info-Sphere Integrity*) and the **Chapter Five** clustered definitions.
+- **Self-ownership extension:** They extend **Article VII** (*Self-Ownership*) without narrowing **Articles VII-A** and **VII-B**.
 
 #### Article VIII-A: Self-Ownership of Likeness and Reputation
 <details>
@@ -955,8 +997,8 @@ All use, storage, transformation, and disclosure of such data must remain subjec
   - Attribution may be structured as direct, aggregate, or inventory-based, as context requires. Its substantive function — traceability from derivative output to upstream creators — must survive.
 - **Training-data use:** Use of sentient-produced creative, expressive, personal, experiential, or otherwise identifiable work as training data for generative, analytical, or comparable systems engages [Consent](core_05p_participation_definitions.md#consent-constitutional) under **Article VIII-B** (*Experiential and Derived Data Rights*) experiential-data discipline, the [Training-Data Use](core_05c_continuity_definitions.md#training-data-use-constitutional) framework, and the **Privacy (Informational)** cluster where informational exposure, aggregation, re-identification, or downstream reuse is materially implicated.
   - Consent must be meaningful: informed scope, purpose, duration, downstream-reuse terms, and revocation pathway.
-  - Defending such use on non-personal-data grounds, where the underlying work is sentient-produced and identifiable, does not satisfy this bullet.
-  - In scope: aggregation, re-identification risk, inferability of internal states from derived representations, and downstream reuse across purposes.
+  - Calling the material "not personal data" does not excuse training-data use when the underlying work came from an identifiable sentient creator — consent is still required.
+  - This rule also covers pooling data together, the risk of figuring out who someone is again, inferring private inner states from what the system learned, and reusing the data for new purposes later.
 - **Anti-displacement floor:** Generative, automation, or comparable systems whose deployment produces **material displacement** of sentient creative labor — in volume, compensation, attribution, or ability to sustain livelihood — engage the [Anti-Displacement Floor](core_05c_continuity_definitions.md#anti-displacement-floor-constitutional) in interaction with **Article III-D** (*Labor and Economic Floor*) and **Chapter One §9** non-concentration.
   - Aggregate-productivity, efficiency, or innovation framings do not by themselves satisfy the floor.
   - Where deployment-scale displacement foreseeably degrades creative labor's sustainability for a population of sentients, mitigation must be substantive. Examples:
@@ -967,13 +1009,12 @@ All use, storage, transformation, and disclosure of such data must remain subjec
   - Routing operational detail to `corpus_systems.md` is by pointer and does not narrow this floor.
 - **Fair compensation:** The [Fair Compensation](core_05c_continuity_definitions.md#fair-compensation-constitutional) standard under **Article III-D** (*Labor and Economic Floor*) applies to creative labor regardless of substrate, and regardless of whether compensation is structured through traditional, platform, or novel mechanisms.
   - Attribution without compensation, or compensation without attribution, does not by itself satisfy this bullet where both are materially owed.
-- **§6 / §11.3 interaction:** Creative-work markets that concentrate material, platform, information-sphere, or capability control in ways that predictably degrade the creative-labor livelihoods or attribution structures of other sentients engage **Chapter One §9** non-concentration and the **[§11.3](core_01_b_stewardship_capacity_principles.md#121-concentration-threshold-mechanism-adopter-tunable)** concentration-threshold mechanism.
-  - Productive-capacity framing does not satisfy this Article where the pattern exhibits the prohibited concentration.
-- **Publication discipline preserved:** **Article VIII-A** (*Self-Ownership of Likeness and Reputation*) (likeness), **Article VIII-B** (*Experiential and Derived Data Rights*) (experiential data), and **Article VIII-C** (*Truthful Publication and High-Impact Publication Limits*) (publication) retain their operative scope. **Article VIII-D** (*Creative Work, Training-Data Use, and Anti-Displacement*) does not narrow them.
-  - Where creative-work matters materially implicate likeness, experiential data, or publication discipline, **Article VIII-A / VIII-B / VIII-C** (*Self-Ownership of Likeness and Reputation* / *Experiential and Derived Data Rights* / *Truthful Publication and High-Impact Publication Limits*) apply jointly with **Article VIII-D** (*Creative Work, Training-Data Use, and Anti-Displacement*) under **Chapter One §6.3.1**.
-- **Non-conflation:** **Article VIII-D** (*Creative Work, Training-Data Use, and Anti-Displacement*) states a creative-labor, training-data, and anti-displacement floor.
-  - It does not constitute authority over copyright, trademark, patent, or other adopter-specified intellectual-property regimes; those regimes operate within this floor.
-  - Narrowing this floor under adopter-specified IP-regime framing is non-compliant.
+- **Market concentration:** If a few players hoard control over materials, platforms, how information flows, or creative tools — in ways that predictably undercut other creators' livelihoods or ability to get credit for their work — **Chapter One §9** non-concentration and the **[§11.3](core_01_b_stewardship_capacity_principles.md#121-concentration-threshold-mechanism-adopter-tunable)** concentration-threshold mechanism apply.
+  - Calling the arrangement "productive capacity" does not satisfy this Article when the pattern still amounts to forbidden concentration.
+- **Likeness, data, and publication rules still apply:** **Article VIII-A** (*Self-Ownership of Likeness and Reputation*), **Article VIII-B** (*Experiential and Derived Data Rights*), and **Article VIII-C** (*Truthful Publication and High-Impact Publication Limits*) still govern likeness, personal data, and truthful publication in full. **Article VIII-D** (*Creative Work, Training-Data Use, and Anti-Displacement*) does not water them down.
+  - When a creative-work dispute also involves likeness, personal data, or publication, **Articles VIII-A**, **VIII-B**, and **VIII-C** work together with **Article VIII-D** under **Chapter One §6.3.1**.
+- **What this Article is — and is not:** **Article VIII-D** (*Creative Work, Training-Data Use, and Anti-Displacement*) sets the constitutional floor for creative labor, training-data use, and anti-displacement. It is not a substitute for copyright, trademark, patent, or other intellectual-property rules adopters may specify — those rules must still stay within this floor.
+  - Using IP-law labels to shrink this floor is not allowed.
 
 ### Article IX: Self-Determination and Agency
 
@@ -989,7 +1030,25 @@ All use, storage, transformation, and disclosure of such data must remain subjec
 
 <br>
 
-Self-determination is valid only within the bounds stated in **Chapter One**: safety, epistemic integrity, and systemic stability. Further detail appears in Chapter Five Independent Definitions (*Self-Determination*; *Surveillance Boundary*).
+*In plain terms: **Article IX** is the self-determination and agency Rights Floor — sentients must be able to make real, informed choices about their lives, participate proportionately in systems that affect them, and hold equal weight in foundational governance — without manipulation, designed capture, or unjustified exclusion.*
+
+This Article states **constitutional floors** for self-determination and agency under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims):
+
+- **Flourishing:** sentients retain practical authority to make informed choices, resist manipulation and attention-capture, participate in systems that materially affect them, and hold equal weight in foundational constitutional choice — not merely formal access on paper.
+- **Continuity:** those agency and participation protections remain durable across changing interfaces, platforms, and governance structures — without quiet erosion through surveillance, nudging, stake-weighted votes at the authorization layer, or exclusion that compounds over time.
+
+Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), scaled to [material stake](core_00_preamble.md#material-stake):
+
+- **Participation:** in decisions that materially affect agency, stakeholder status, and foundational constitutional choice.
+- **Oversight:** through auditable exclusion criteria, manipulation safeguards, and independent challenge of participation boundaries.
+- **Accountability:** for surveillance, manipulative design, unjustified exclusion, and concentration that defeats meaningful agency.
+- **Timeliness:** in remedy when those floors are contested.
+
+*Article neighbors:*
+
+- **Bounded agency:** Self-determination operates within **Chapter One** bounded-agency limits — **Safety**, epistemic integrity, and systemic stability — and extends **Article VII** (*Self-Ownership*) without narrowing **Articles VII-A** and **VII-B**.
+- **Stakeholder and voting floors:** **Articles IX-B** and **IX-C** state stakeholder participation and foundational voting floors that **Article XI** (*Stakeholder System Participation, Representation, and Due Process*) builds on for domain-level governance without substituting equal-weight rules at the authorization layer.
+- **Chapter Five definitions:** [Self-Determination](core_05p_participation_definitions.md#self-determination-constitutional) and [Surveillance Boundary](core_05c_continuity_definitions.md#surveillance-boundary) are defined in Chapter Five.
 
 #### Article IX-A: Agency and Freedom from Manipulation
 <details>
@@ -1139,13 +1198,25 @@ Self-determination is valid only within the bounds stated in **Chapter One**: sa
 
 <br>
 
-Healthy relationships are the engine of shared prosperity.
+*In plain terms: **Article X** is the cooperative interaction Rights Floor — sentients must be free to work and live together by real consent, without unwanted imposition, harassment, or designed capture — and freedom of action stops where verifiable material harm begins.*
 
-To maintain a rewarding and purposeful constitutional community, we agree to protocols of engagement. Those protocols respect the boundaries established in **Articles V, VII, VIII, and IX**.
+This Article states **constitutional floors** for cooperative interaction under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims):
 
-- *Constitutional Community* is defined in **Chapter Five** Independent Definitions (*Constitutional Community*).
-- *Non-imposition* is defined in **Chapter Five** Independent Definitions (*Non-Imposition (Cooperative Interaction)*).
-- Restorative responses to harm align with **Chapter Five** (*Restorative Justice*) where applicable instruments require them.
+- **Flourishing:** sentients retain practical freedom to enter, shape, and leave associations by informed consent — without coercive imposition, harassment, attention-capture, or exploitation in relationships that materially affect dignity, safety, and agency.
+- **Continuity:** those cooperative protections remain durable across changing institutions, dependencies, and power asymmetries — without quiet erosion through hostile environments, locked-in associations, or cumulative harm that compounds over time.
+
+Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), scaled to [material stake](core_00_preamble.md#material-stake):
+
+- **Participation:** in cooperative ventures and associational choices that materially affect dignity, safety, and meaningful agency.
+- **Oversight:** through transparent, auditable terms of association and challenge of exclusion or hostile environments.
+- **Accountability:** for imposition, harassment, collective harm, and exploitation that defeats cooperative floors.
+- **Timeliness:** in remedy when association, consent, or harm-boundary rights are contested.
+
+*Article neighbors:*
+
+- **Upstream boundaries:** Cooperative protocols respect the boundaries established in **Articles V, VII, VIII, and IX**.
+- **Chapter Five definitions:** [Constitutional Community](core_05p_participation_definitions.md#constitutional-community), [Non-Imposition (Cooperative Interaction)](core_05p_participation_definitions.md#non-imposition-cooperative-interaction), and [Restorative Justice](core_05a_accountability_definitions.md#restorative-justice) are defined in Chapter Five; restorative responses to harm align with that cluster where applicable instruments require them.
+
 #### Article X-A: Non-Imposition and Consent in Association
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -1306,9 +1377,26 @@ To maintain a rewarding and purposeful constitutional community, we agree to pro
 
 <br>
 
-**Governance** in **Chapter Five** spans both the **Constitutional Contract Layer** — authorization of governing authority and mechanism (**Foundational Constitutional Choice**) — and materially rights-affecting decisions within **[Governance](core_05a_accountability_definitions.md#governance)** **structures, rules, allocation of authority, and processes** already authorized for a **specified system, institution, or bounded decision domain**. This Article (with **Article IX-B** (*Stakeholder Role and Participation Rights*) and **Article IX-C** (*Governance Participation and Voting Entitlement*)) addresses the second layer: **Stakeholder System Participation** — **Stakeholder** identification and proportionate pathways for those affected by a domain's operation — not a substitute for the equal-weight rules that apply at the foundational authorization layer (**Article IX-C** (*Governance Participation and Voting Entitlement*); **Chapter Twelve Chapter One §8.1**).
+*In plain terms: **Article XI** is the stakeholder participation and due process Rights Floor — when a system materially affects you, you get a real voice, not token consultation — and high-stakes decisions must be explained on the record and open to fair challenge.*
 
-Stakeholders identified under **Chapter Five** must have participation and representation pathways proportionate to material impact and dependency. Procedural integrity must be suitable to the stakes involved.
+This Article states **constitutional floors** for stakeholder system participation, representation, and due process under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims):
+
+- **Flourishing:** materially affected sentients retain practical participation and representation pathways proportionate to impact and dependency — including those without market or institutional power — with procedural integrity suited to the stakes.
+- **Continuity:** those participation and due-process protections remain durable across changing governance structures and weighting models — without quiet erosion through token consultation, illegitimate adoption, or permanent control by narrow coalitions.
+
+Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), scaled to [material stake](core_00_preamble.md#material-stake):
+
+- **Participation:** in materially rights-affecting decisions within authorized systems, institutions, and bounded domains.
+- **Oversight:** through accessible records, stakeholder-class mapping, legitimacy checks, and auditable weighting rules.
+- **Accountability:** for token participation, missing representation, and due-process failures that defeat meaningful agency.
+- **Timeliness:** in remedy when participation, representation, or due-process rights are contested.
+
+*Article neighbors:*
+
+- **Two governance layers:** [Governance](core_05a_accountability_definitions.md#governance) in **Chapter Five** covers (1) the **Constitutional Contract Layer** — who may govern and under what mechanism ([Foundational Constitutional Choice](core_05i_integrative_definitions.md#foundational-constitutional-choice)) — and (2) materially rights-affecting decisions within structures, rules, and processes already authorized for a specified system, institution, or bounded decision domain.
+- **This Article's scope:** **Article XI** (with **Article IX-B** (*Stakeholder Role and Participation Rights*) and **Article IX-C** (*Governance Participation and Voting Entitlement*)) addresses the second layer — **[Stakeholder](core_05p_participation_definitions.md#stakeholder)** identification and proportionate pathways for those affected by a domain's operation.
+- **Foundational voting preserved:** That domain layer is not a substitute for equal-weight rules at the authorization layer (**Article IX-C** (*Governance Participation and Voting Entitlement*); **Chapter Twelve Chapter One §8.1**).
+- **Boundary and adjudication:** **Article IX-D** (*Inclusion and Exclusion Challenge Rights*) and **Article XVIII** (*Standing and Participation Status*) supply challenge and standing discipline where participation status is contested.
 
 #### Article XI-A: Stakeholder System Participation and Representation
 <details>

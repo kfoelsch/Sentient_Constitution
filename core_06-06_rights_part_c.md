@@ -47,7 +47,10 @@ Sentients have the right to interact with systems that are reliable and trustwor
 
 Trustworthiness must be evaluated across time, scale, and dependency relationships where these materially affect outcomes.
 
-Where system behavior materially gates or sustains **Chapter Six** Rights Floors — including survival essentials under **Article III-A** (*Survival*) — read this Article together with [System Alignment Certification](core_05c_continuity_definitions.md#system-alignment-certification-constitutional) and [Chapter Seven](core_07-07_system_alignment_certification.md#chapter-seven-system-alignment-certification) without substituting certification for the floors stated here.
+*Article neighbors:*
+
+- **When this applies:** Where system behavior materially gates or sustains **Chapter Six** Rights Floors — including survival essentials under **Article III-A** (*Survival*).
+- **Read together:** [System Alignment Certification](core_05c_continuity_definitions.md#system-alignment-certification-constitutional) and [Chapter Seven](core_07-07_system_alignment_certification.md#chapter-seven-system-alignment-certification) — without substituting certification for the floors stated here.
 
 #### Article XII-A: Reliability and Trustworthiness Baseline
 <details>
@@ -270,7 +273,12 @@ Where system behavior materially gates or sustains **Chapter Six** Rights Floors
 
 <br>
 
-This Article states the Rights-Floor for **exceptional institutional power**: covert intelligence and security activity (**Article XIII-A** (*Security, Intelligence, and Covert-Power Limits*)), overt force and military power (**Article XIII-B** (*Use of Force, Armed Conflict, and Military-Power Limits*)), and autonomous lethal systems and autonomous coercion tools (**Article XIII-C** (*Autonomous Lethal Systems and Autonomous Coercion Tools*)). It is placed immediately after **Article XII** (*Right to Reliable and Trustworthy Systems*) because reliability, contestability, and recovery discipline at the systems layer (**Article XII-A** (*Reliability and Trustworthiness Baseline*) through **Article XII-F** (*Resilience and Self-Healing Baseline*)) materially bear on how such power may be exercised and overseen. Read **Article IX-A** (*Agency and Freedom from Manipulation*) alongside **Article XIII-A** (*Security, Intelligence, and Covert-Power Limits*) on surveillance and covert collection.
+This Article states the Rights-Floor for **exceptional institutional power**: covert intelligence and security activity (**Article XIII-A** (*Security, Intelligence, and Covert-Power Limits*)), overt force and military power (**Article XIII-B** (*Use of Force, Armed Conflict, and Military-Power Limits*)), and autonomous lethal systems and autonomous coercion tools (**Article XIII-C** (*Autonomous Lethal Systems and Autonomous Coercion Tools*)).
+
+*Article neighbors:*
+
+- **Placement after Article XII:** **Article XIII** follows **Article XII** (*Right to Reliable and Trustworthy Systems*) because reliability, contestability, and recovery discipline at the systems layer (**Article XII-A** (*Reliability and Trustworthiness Baseline*) through **Article XII-F** (*Resilience and Self-Healing Baseline*)) materially bear on how such power may be exercised and overseen.
+- **Agency and covert power:** Read **Article IX-A** (*Agency and Freedom from Manipulation*) alongside **Article XIII-A** (*Security, Intelligence, and Covert-Power Limits*) on surveillance and covert collection.
 
 #### Article XIII-A: Security, Intelligence, and Covert-Power Limits
 <details>
