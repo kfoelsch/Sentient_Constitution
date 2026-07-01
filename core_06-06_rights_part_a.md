@@ -421,6 +421,15 @@ Procedural detail for **Article II** (*Material Stewardship and Durable-Use Inte
 
 ### Article III: Survival and Equal Educational Access
 
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Read with: **Article I** (*Environmental Survival*), **Article II** (*Material Stewardship and Durable-Use Integrity*), and Chapter Five where survival, educational access, bodily maintenance, or labor conditions are materially at issue.
+
+</details>
+
+<br>
+
 *In plain terms: **Article III** is the personal survival and access Rights Floor — sentients must retain access to survival essentials, equal educational opportunity, bodily-maintenance care, and minimum labor and economic protections so **Flourishing** is not defeated by deprivation or gatekeeping, and **Continuity** is not defeated by unstable, regressive, or commodified delivery of what they need to exist and participate.*
 
 This Article states **constitutional floors** for survival and equal access under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) and the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), scaled to [material stake](core_00_preamble.md#material-stake):
@@ -431,8 +440,6 @@ This Article states **constitutional floors** for survival and equal access unde
 - **Oversight:** records and checks on the systems that deliver them.
 - **Accountability:** consequences when access is denied, degraded, or dodged.
 - **Timeliness:** fixes that arrive before harm settles in.
-
-Read with **Article I** (*Environmental Survival*), **Article II** (*Material Stewardship and Durable-Use Integrity*), and Chapter Five where survival, educational access, bodily maintenance, or labor conditions are materially at issue.
 
 #### Article III-A: Survival
 <details>
@@ -628,7 +635,7 @@ Cross-reference: **Article XXV-D** (*Non-Compliant Property and Systems; Volunta
 - **Non-concentration, pro-competition, and consolidation-ceiling interaction:** **Chapter One §9** non-concentration discipline, **§14.2** pro-competition / anti-domination discipline, and **§14.3** consolidation-ceiling discipline apply to productive-activity power structures, but they are distinct from this floor.
   - A market structure that satisfies non-concentration while failing Fair Compensation, Collective Organization, Safe Conditions, or Leisure and Rest is non-compliant under this Article.
   - A productive-activity structure that satisfies this Article while concentrating power contrary to §6 is non-compliant under §6.
-  - When too few employers control hiring, workers are blocked from leaving or being recruited (non-competes, no-poach deals, wage-fixing, or heavy non-solicitation rules), platforms lock people in, suppliers are controlled to squeeze workers, consolidation crosses a labor or supplier dependency ceiling, or gatekeepers block fair bargaining and job mobility — evaluate those facts under **§14.2**, **§14.3**, and this Article when they materially apply.
+  - When too few employers control hiring, workers are blocked from leaving or being recruited (non-competes, no-poach deals, wage-fixing, or heavy non-solicitation rules), platforms lock sentients in, suppliers are controlled to squeeze workers, consolidation crosses a labor or supplier dependency ceiling, or gatekeepers block fair bargaining and job mobility — evaluate those facts under **§14.2**, **§14.3**, and this Article when they materially apply.
 - **Limits and implementation routing:** Any limit on **Fair Compensation**, **Collective Organization**, **Safe Conditions**, or **Leisure and Rest** must satisfy **Necessity**, **Proportionality**, **Protected Characteristics**, and **Substantive Fairness**.
   - Operational mechanics — fiscal orientation, transfer and insurance design, standards-setting for Safe Conditions, and collective-organization institutional design — route to `corpus_institutions.md` CI-9 (*Classification-linked institutional obligations*) / CI-10 (*Public revenue, fees, recurring charges, and billing integrity*) / CI-11 (*Resource stewardship and incentive integrity*) and to `corpus_systems.md` Protocol A under **Chapter Sixteen** incorporation discipline.
   - Those implementation texts must not be read to narrow this floor.

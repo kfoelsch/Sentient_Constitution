@@ -163,6 +163,11 @@ Access-preserving reward and anti-warehousing controls
 - OP-E: Evaluation must verify whether compulsory license, access order, buyout, sunset acceleration, interface condition, interoperability condition, reward conversion, or equivalent corrective path is available where a claim is materially necessary for survival-relevant systems, standards-setting interfaces, public-interest implementation, or high-dependency transition and continuity.
 - OP-C: It is non-compliant to warehouse, withhold, shelf, overbundle, or strategically maintain an innovation claim in a way that produces artificial scarcity, coercive lock-in, suppressed implementation, repair obstruction, migration obstruction, or public-interest access failure without proportionate justification.
 
+Collection-time exportability and continuity-critical data integrity
+- OP-O: Systems must not collect or retain continuity-critical sentient data in forms that cannot be exported, migrated, or transferred under disclosed continuity and export paths, except where **Necessity** requires confidentiality, security, **Type N** or comparable protected-boundary constraints, or lawful non-disclosure. Where export is limited, the limitation, scope, and any lawful substitute export path must be disclosed before commitment.
+- OP-E: Evaluation must verify collection design, format and protocol choices, retention, shutdown, migration, and operator-exit paths together. Reviewers must verify that confidentiality or security is the actual reason for any export limit — not convenience, proprietary lock-in, or deferred promises at service end.
+- OP-C: Collecting continuity-critical data in proprietary, undocumented, export-blocked, or shutdown-only forms without a current **Necessity**-based limitation is non-compliant. Relying on discretionary good-faith export at service end instead of collection-time exportability is non-compliant where export was reasonably available at design time.
+
 Commitment, renewal, and charge-exit integrity
 - OP-O: Paid commitments, renewals, trial-to-paid conversions, recurring charges, subscriptions, memberships, paid tiers, and transaction-linked charges must rest on affirmative, informed commitment where material, must disclose amount, timing, renewal, bundled entitlements, and exit consequences before commitment, and must honor a valid cancellation, downgrade, or withdrawal instruction through the published pathway.
 - OP-E: Evaluation must compare commitment, renewal, billing, downgrade, cancellation, partial-exit, and evidence-of-release records together, including notice timing and content, default settings, preselected options, component bundling, notice-period disclosures, cutoff rules, post-cancel charges, accessibility parity, and whether stricter governing-law requirements have been met where they apply.
@@ -223,15 +228,10 @@ Portability quality and non-obstruction controls
 - OP-E: Evaluation must verify schemas, documentation, context, and tooling for practical reuse.
 - OP-C: Degrading, fragmenting, obscuring, or gating data to prevent reuse is non-compliant.
 
-Collection-time exportability and continuity-critical data integrity
-- OP-O: Systems must not collect or retain continuity-critical sentient data in forms that cannot be exported, migrated, or transferred under disclosed continuity and export paths, except where **Necessity** requires confidentiality, security, **Type N** or comparable protected-boundary constraints, or lawful non-disclosure. Where export is limited, the limitation, scope, and any lawful substitute export path must be disclosed before commitment.
-- OP-E: Evaluation must verify collection design, format and protocol choices, retention, shutdown, migration, and operator-exit paths together. Reviewers must verify that confidentiality or security is the actual reason for any export limit — not convenience, proprietary lock-in, or deferred promises at service end.
-- OP-C: Collecting continuity-critical data in proprietary, undocumented, export-blocked, or shutdown-only forms without a current **Necessity**-based limitation is non-compliant. Relying on discretionary good-faith export at service end instead of collection-time exportability is non-compliant where export was reasonably available at design time.
-
 Proportional application
 - OP-O: Interoperability, portability, and exit duties scale with impact, dependency, ecosystem integration, and lock-in irreversibility.
 - OP-E: Evaluation must verify reduced rigor does not create hidden dependencies or external lock-in effects.
-- OP-C: Simplified controls are non-compliant where material lock-in remains.---
+- OP-C: Simplified controls are non-compliant where material lock-in remains.
 
 Right-to-exit pathway integrity
 - OP-O: Exit must be functionally available without violating Foundational Rights.

@@ -191,6 +191,7 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 - [Procedural Fairness](core_05p_participation_definitions.md#procedural-fairness-constitutional)
 - [Productive Capacity](core_05c_continuity_definitions.md#productive-capacity-constitutional)
 - [Proportionality](core_05a_accountability_definitions.md#proportionality)
+- [Proportionate Cross-System Support](core_05c_continuity_definitions.md#proportionate-cross-system-support-constitutional)
 - [Protected Characteristic Proxying and Disparate Impact](core_05p_participation_definitions.md#protected-characteristic-proxying-and-disparate-impact)
 - [Protected Characteristics](core_05p_participation_definitions.md#protected-characteristics-constitutional)
 - [Protected Commercial Sexual Services Status and Article X-C Circumvention](core_05p_participation_definitions.md#protected-commercial-sexual-services-status-and-article-x-c-circumvention)

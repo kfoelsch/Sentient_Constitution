@@ -158,7 +158,7 @@ Where export is limited, the limitation, scope, and any lawful substitute export
 
 Shutdown, migration, operator exit, and service-end paths must preserve usable export or handoff of continuity-critical data under those disclosed paths — not merely a discretionary promise to try later.
 
-Read with **Article II-E** (*Info-Sphere Dependency, Continuity, and Operator Non-Viability*), **Article XIX-A** (*Portability Rights*), and `corpus_joint_structure.md` **CJS-5.17** (*interoperability, portability, and exit-integrity terms*).
+Continuity and portability routing: **Article II-E** (*Info-Sphere Dependency, Continuity, and Operator Non-Viability*), **Article XIX-A** (*Portability Rights*), and `corpus_joint_structure.md` **CJS-5.17** (*interoperability, portability, and exit-integrity terms*).
 
 ---
 

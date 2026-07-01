@@ -489,13 +489,20 @@ Where in-system mitigation is infeasible or capture persists after proportionate
 <a id="1024-successor-responsibility-and-formal-structure-non-escape"></a>
 <a id="1024-formal-structure-non-escape"></a>
 
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Read with: [Chapter Nine §5.1](core_09-09_standing_integration.md#51-remediation-capacity-and-funding) and [§5.4](core_09-09_standing_integration.md#54-anti-evasion-and-look-through-authority); [Accountability](core_05a_accountability_definitions.md#accountability); [corpus_systems.md](corpus_systems.md) **Protocol C — Justice safeguards, restitution, and rehabilitation** (*Entity continuity checks*).
+
+</details>
+
+<br>
+
 *In plain terms: bankruptcy, a sale, a reorganization, or changing corporate labels cannot by themselves wipe out constitutional duties. Whoever continues the work — successors, estates, receivers, or comparable transferees — inherits proportionate obligations unless a less harmful path is shown under **Necessity**.*
 
 Receivership, restructuring, asset transfer, dissolution, insolvency, or comparable change of formal identity does **not** by itself extinguish verified constitutional duties — including continuity, remedy, export, migration, environmental, and other Rights-Floor obligations that remain material after the change.
 
 Successors, estates, receivers, and comparable transferees inherit proportionate duties to satisfy or lawfully transfer those obligations unless less harmful alternatives are demonstrably infeasible under [Necessity](core_05a_accountability_definitions.md#necessity) and [Proportionality](core_05a_accountability_definitions.md#proportionality) review.
-
-Read with [Chapter Nine §5.1](core_09-09_standing_integration.md#51-remediation-capacity-and-funding) and [§5.4](core_09-09_standing_integration.md#54-anti-evasion-and-look-through-authority); [Accountability](core_05a_accountability_definitions.md#accountability); [corpus_systems.md](corpus_systems.md) **Protocol C — Justice safeguards, restitution, and rehabilitation** (*Entity continuity checks*).
 
 #### 10.3 Stewardship and Operator Incentive Alignment
 

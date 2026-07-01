@@ -120,7 +120,7 @@ Each summary states what the chapter does and what it produces.
 - **What it does:** Supplies the canonical definition stack — Oversight, Participation, Accountability, Continuity, and Integrative bands — plus owner-layer routing, authority stack, and corpus boundary rules.
 - **What it produces:** Precise constitutional vocabulary for interpretation, audit, and adjudication. It is the **definition stack**, not the Rights Floor; binding rights live in Chapter Six.
 
-**Chapter Six — Foundational rights** ([Part A](core_06-06_rights_part_a.md) · [Part B](core_06-06_rights_part_b.md) · [Part C](core_06-06_rights_part_c.md) · [Part D](core_06-06_rights_part_d.md))
+**Chapter Six — Foundational Rights** ([Part A](core_06-06_rights_part_a.md) · [Part B](core_06-06_rights_part_b.md) · [Part C](core_06-06_rights_part_c.md) · [Part D](core_06-06_rights_part_d.md))
 
 - **What it does:** States the Rights Floor in Articles **I–XXV** — survival essentials, resource allocation and dependency stewardship, dignity, agency, participation, challenge and remedy, justice constraints, timeliness under **Article XXIII-G**, and transition rules — organized for planet-first reading across four parts.
 - **What it produces:** Non-negotiable rights protections and remedy hooks that Chapters Seven through Eleven, forums, governance, and amendment rules must respect — not narrow, bypass, or hollow through procedure or proxy metrics.
