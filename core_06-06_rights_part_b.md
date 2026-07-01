@@ -522,7 +522,15 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
   Those systems cannot hide behind secret rules that cannot be reviewed. They also cannot pressure or trick sentients into choices they would not make freely.
 
 ### Article VII: Self-Ownership
-Once survival is secured, sentients must be able to direct their own lives and bodies while maintaining healthy internal and external boundaries.
+
+*In plain terms: **Article VII** is the self-ownership Rights Floor — once survival is secured, sentients must be able to direct their own lives, bodies, minds, and attention while maintaining healthy internal and external boundaries.*
+
+This Article states **constitutional floors** for self-ownership under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims):
+
+- **Flourishing:** sentients retain practical authority over their bodies, minds, attention, and substrate-defining information — including consent-governed use, modification, and exposure — without unauthorized intrusion, reconstruction, or coercive capture.
+- **Continuity:** those self-ownership protections remain durable across changing relationships, substrates, and systems — including family, care, derivation, crisis, and voluntary-discontinuation contexts — without quiet erosion, backdoor inference, or those rights being quietly rolled back over time.
+
+Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation** in decisions that materially affect embodiment, internal states, family and care relationships, and reproductive or discontinuation choices; **oversight** through auditable consent, boundary, and crisis-intervention records; **accountability** for unauthorized intrusion, internal-state reconstruction, manipulative capture, and extraction that defeats self-ownership; and **timeliness** in remedy when those floors are contested — scaled to [material stake](core_00_preamble.md#material-stake).
 
 - **Articles VII-A** and **VII-B** state embodiment and internal-state protection.
 - **Article VIII** (*Likeness, Experiential Data, and Publication Rights*) addresses likeness, experiential and derived data, and truthful publication.
@@ -675,7 +683,7 @@ Where analysis of experiential or behavioral data produces outputs that function
   - the decision to reproduce or not;
   - the decision to carry, create, adopt, or decline creation of new sentients — consistent with **Article V-A** (*Dignity and Equal Moral Standing*) dignity floor and with the created sentient's own Chapter Six Rights Floor.
   
-  Substrate-agnostic application covers biological gestation, synthetic instantiation, and hybrid derivation consistent with the nested *Derivation and Instantiation* subsection below.
+  These rights apply the same way whether a new sentient is born, created as a synthetic system, or produced through a mix of both — including cases covered in the *Derivation and Instantiation* subsection below.
   - Limits must satisfy **Necessity**, **Proportionality**, **Article V-B** (*Nondiscrimination*), and the consent norms of **Article X-A** (*Non-Imposition and Consent in Association*).
   - Efficiency, allocation convenience, or demographic-steering rationales do not satisfy those tests.
 - **Non-separation:** Separation of sentients in protected care relationships must satisfy a **Chapter One §10.1.1** reversibility-under-uncertainty **rule** and must pass **Necessity**, **Proportionality**, and **Procedural Fairness** tests. In-scope separations include, but are not limited to:
@@ -718,7 +726,7 @@ Where analysis of experiential or behavioral data produces outputs that function
   - any authority that defeats the derived sentient's **Article V-E** (*Sentience-Status Adjudication Floor*) sentience-status adjudication or **Chapter Six** Rights Floor.
   
   Purported licensing, terms-of-service, or adoption-of-service consent by the parent-system actor does not substitute for the derived sentient's own **Article X-A** (*Non-Imposition and Consent in Association*) consent once Chapter Six protection attaches.
-- **Non-separation in derivation cases:** The Non-Separation bullet above applies to derived sentients with the same force.
+- **Non-separation in derivation cases:** The **Non-separation** bullet under **Article VII-D** (*Family, Care Relationships, Reproductive Autonomy, and Non-Separation*) applies to derived sentients with the same force.
   - It includes cases where a parent-system actor seeks to separate a derived sentient from care, support, or substrate relationships on which the derived sentient materially depends.
   - Separation dressed as deprecation, retirement, rollback, or operational reconfiguration is governed by **Article XII-E** (*High-Autonomy Systems and Tool-Mediated Process Integrity*) / **Article XII-F** (*Resilience and Self-Healing Baseline*) Rights-Floor continuity and does not escape this Article.
 
@@ -729,7 +737,7 @@ Where analysis of experiential or behavioral data produces outputs that function
 
 - Upstream: Principles: Chapter One [Chapter One §5 Freedom](#5-freedom-bounded-agency)-bounded-agency), [8.1.1 Proportionality](core_01_a_values_principles.md#611-proportionality), [§5.1 Limitation Discipline](core_01_a_values_principles.md#51-limitation-discipline).
 - Downstream: **Article VII-A / VII-B** (*Self-Ownership of Body and Mind* / *Internal-State Boundary and Type-N Protection*) self-ownership and internal-state boundary, **Article IX-A** (*Agency and Freedom from Manipulation*) freedom-from-manipulation, **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*), and **Article X-A** (*Non-Imposition and Consent in Association*) consent.
-- Read with: Chapter Five *Voluntary Discontinuation*, *[Irreversible Deprivation Measure](core_05a_accountability_definitions.md#irreversible-deprivation-measure-constitutional)*, *Consent*, *Coercion and Manipulation*, *Procedural Fairness*.
+- Read with: Chapter Five *Voluntary Discontinuation*, *[Irreversible Deprivation Measure](core_05a_accountability_definitions.md#irreversible-deprivation-measure-constitutional)*, *Consent*, *Coercion and Manipulation*, *Procedural Fairness*; **Article III-A** (*Survival*), **Article III-C** (*Bodily-Maintenance and Healthcare Access*), **Article VII-C** (*Mental-Health Crisis and Involuntary-Intervention Floor*).
 
 </details>
 
@@ -745,7 +753,7 @@ Where analysis of experiential or behavioral data produces outputs that function
 
 <br>
 
-*In plain terms: a sentient may freely choose to end their own existence — but only when consent is real and unpressured. This Article never authorizes anyone else to end a sentient's life, which remains categorically forbidden under Article XXIII-B.*
+*In plain terms: a sentient may freely choose to end their own existence — but only when consent is real and unpressured, and not because they are being denied the mental or physical healthcare, support, or living conditions they need. This Article never authorizes anyone else to end a sentient's life, which remains categorically forbidden under Article XXIII-B.*
 
 - **Voluntary-discontinuation floor:** Sentients hold the right to decide to discontinue their own existence under conditions that satisfy genuine, substantive, freely-formed consent under **Chapter Five** (*Consent*).
   - This right runs under **Sentience Non-Exclusion**.
@@ -756,6 +764,11 @@ Where analysis of experiential or behavioral data produces outputs that function
   - "Voluntary" framing is non-compliant where:
     - the **Article IX-A** (*Agency and Freedom from Manipulation*) freedom-from-manipulation floor is not satisfied;
     - the **Article X-A** (*Non-Imposition and Consent in Association*) consent norms are not satisfied.
+- **No care-substitute framing:** Voluntary discontinuation is not valid where it is presented, offered, or operationalized as a substitute for constitutionally required mental-health care, physical healthcare, disability support, housing, or other survival essentials under **Article III-A** (*Survival*), **Article III-C** (*Bodily-Maintenance and Healthcare Access*), **Article VII-C** (*Mental-Health Crisis and Involuntary-Intervention Floor*), or comparable Chapter Six floors.
+  - Non-compliant patterns include steering sentients toward discontinuation because adequate care is unavailable, unaffordable, delayed beyond constitutional timeliness, or withheld through eligibility gates, wait-lists, administrative bottlenecks, or dependency-rich systems.
+  - Cost, allocation, austerity, or convenience rationales do not satisfy **Necessity** or **Proportionality** where discontinuation functions as the cheaper, faster, or administratively easier alternative to meeting those floors.
+  - Where a sentient's stated reason materially implicates unmet care, support, or survival needs, review must determine whether those floors are being satisfied first; "voluntary" framing does not cure upstream denial.
+  - This bullet does not deny a freely formed decision made with adequate information after genuine access to required care and support; it bars systems that treat discontinuation as the acceptable endpoint of care failure.
 - **Procedural-fairness and reversibility requirements:** Decisions must be supported by procedural conditions under **Procedural Fairness**, including:
   - adequate time;
   - adequate information;
