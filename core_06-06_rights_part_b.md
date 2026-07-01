@@ -9,13 +9,6 @@
 
 </details>
 
-<br>
-
----
-## CHAPTER SIX: FOUNDATIONAL RIGHTS
-
-### Part B: Personhood, education capability, agency, cooperation, and stakeholder system participation
-
 <details>
 <summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): Part B position in Chapter Six</span></strong></summary>
 
@@ -27,10 +20,40 @@
 
 <br>
 
-*In plain terms: Part B covers personhood, education, agency, cooperation, and participatory governance rights — Articles V through XI in the planet-first reading order.*
+---
+## CHAPTER SIX: FOUNDATIONAL RIGHTS
+
+### Part B: Personhood, education capability, agency, cooperation, and stakeholder system participation
+
+<br>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: [core_06-06_rights_part_a.md](core_06-06_rights_part_a.md) §1 (*Purpose and Role*) — chapter-wide default constraint stack and interpretive hubs.
+- Upstream: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad); [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims); [material stake](core_00_preamble.md#material-stake).
+- Read with: **Articles I–IV** in Part A — planet-first material, survival, educational-access, and resource-flow floors that Part B rights presume but do not replace.
+
+</details>
+
+<br>
+
+*In plain terms: Part B states Rights Floors for equal standing, education capability, self-ownership, likeness and data, agency, cooperation, and stakeholder participation — **Articles V through XI** in the planet-first reading order. Those floors protect **Flourishing** and **Continuity** under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) and must remain available, reviewable, and enforceable through the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation**, **oversight**, **accountability**, and **timeliness** — scaled to [material stake](core_00_preamble.md#material-stake).*
+
+**Part B** states Rights Floors for dignity and equal standing, sentient-centered education, self-ownership, likeness and experiential data, bounded agency, cooperative interaction, and stakeholder system participation. Those floors serve the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims):
+
+- **Flourishing:** personhood, education capability, agency, and fair participation remain accessible in practice.
+- **Continuity:** those protections remain durable, non-regressive, and repairable across changing systems, relationships, and institutional power.
+
+Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation** in education, governance, and cooperative decisions; **oversight** of how likeness, data, and institutional authority are exercised; **accountability** for discrimination, coercion, and extraction; and **timeliness** in remedy when those floors are contested — scaled to [material stake](core_00_preamble.md#material-stake). The chapter-wide interpretive stack in **Part A** §1 (*Purpose and Role*) applies unless a specific article states otherwise.
 
 ### Article V: Equal Basic Rights
+
 The principles of this Article constrain all interpretation, design, and operation of systems under this constitution.
+
+*In plain terms: **Article V** is the equal-standing Rights Floor — dignity, nondiscrimination, inclusion, conscience, sentience-status fairness, accessibility, and expression must hold for every sentient before systems may rank, gate, exclude, or load disparate burdens on them.*
+
+This Article states **constitutional floors** for equal basic rights across **Articles V-A through V-H**. When materially impactful systems classify, rank, price, gate, exclude, or allocate burdens and benefits among sentients — including through eligibility rules, model features, ranking logic, platform policy, adjudicative or enforcement pathways, or comparable decision mechanisms — [System Alignment Certification](core_05c_continuity_definitions.md#system-alignment-certification-constitutional) under [Chapter Seven](core_07-07_system_alignment_certification.md#chapter-seven-system-alignment-certification) applies, including nondiscrimination evaluation under [§5B](core_07-07_system_alignment_certification.md#5b-nondiscrimination-evaluation) where the **Article V-B** materiality trigger applies and accessibility evaluation under [§5C](core_07-07_system_alignment_certification.md#5c-accessibility-evaluation) where the **Article V-G** materiality trigger applies. Recognition or continued reliance on those systems cannot substitute for compliance with the floors stated in this Article or shrink them. Certification verifies alignment; it does not replace challenge and audit rights under **Articles XII-B** and **XV**, non-foreclosure protections under **Article XVIII-B**, or the equal-basic-rights floors stated here.
 
 #### Article V-A: Dignity and Equal Moral Standing
 <details>
@@ -65,6 +88,7 @@ The principles of this Article constrain all interpretation, design, and operati
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter One [Chapter One §8.1 Fairness](core_01_a_values_principles.md#21-fairness), [Chapter One §5 Freedom](#5-freedom-bounded-agency)-bounded-agency), [10.1 Core Tradeoff Principles](core_01_a_values_principles.md#61-core-tradeoff-principles), and [Chapter One §6.3 Rights-Collision Procedure](core_01_a_values_principles.md#63-rights-collision-procedure).
+- Downstream: [Chapter Zero §2 *The Measurements*](core_00_preamble.md#2-the-measurements) (*Substantive Fairness and Protected Characteristic Proxying and Disparate Impact*); [Chapter Seven §5B](core_07-07_system_alignment_certification.md#5b-nondiscrimination-evaluation) (*nondiscrimination evaluation where certification gates classification, ranking, pricing, gating, or burden allocation*).
 
 </details>
 
@@ -106,9 +130,7 @@ The principles of this Article constrain all interpretation, design, and operati
   Homogenization framings — efficiency, info-sphere integrity, interoperability, or platform-consolidation — do not by themselves satisfy the **Necessity** and **Proportionality** tests this Article requires.
   - Narrowing language, cultural, or heritage protection under accessibility-cost, translation-burden, or operational-scale framings, absent the required tests, is non-compliant.
   
-  Indigenous continuity **questions** and territorial-continuity interactions are read with Chapter Five *[Indigenous Continuity](core_05c_continuity_definitions.md#indigenous-continuity-constitutional)* — a community-anchored Rights Floor whose owner floors are Article V-B and Article I-A. They route to **Article I-A** (*Environmental Preconditions and Ecological Integrity*) (ecosystem-integrity precondition) and to **Chapter Sixteen** incorporation (adopter-jurisdiction discipline).
-  - This bullet does not adjudicate historical territorial claims and does not create a restitution mandate.
-  - This bullet is an operative clause within Article V-B. It does not create a new Rights-Floor and does not narrow the other bullets of this Article or the other articles of Chapter Five's protected-characteristics discipline.
+  Indigenous continuity **questions** and territorial-continuity interactions are read with Chapter Five *[Indigenous Continuity](core_05c_continuity_definitions.md#indigenous-continuity-constitutional)* — a community-anchored Rights Floor whose owner floors are Article V-B and Article I-A. They route to **Article I-A** (*Environmental Preconditions and Ecological Integrity*) (ecosystem-integrity precondition) and to **Chapter Sixteen** incorporation (adopter-jurisdiction discipline). That routing does not decide historical land ownership or require restitution on its own. Language, culture, and heritage protection under **Article V-B** remains part of this Article's nondiscrimination floor — not a separate floor — and must not cut back other **Article V-B** rules or Chapter Five protected-characteristics protections.
 
 #### Article V-C: Full Inclusion and Equality in Adjudication and Operations
 <details>
@@ -301,7 +323,7 @@ The principles of this Article constrain all interpretation, design, and operati
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter One [3. Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency), [§5.1 Limitation Discipline](core_01_a_values_principles.md#51-limitation-discipline), [7.1 Anti-Concentration, Substantive-Fairness, and Materiality Factors](core_01_b_stewardship_capacity_principles.md#131-required-evaluation-factors).
-- Downstream: **Article V-A** (*Dignity and Equal Moral Standing*) dignity floor, **Article V-B** (*Nondiscrimination*) non-discrimination, **Article V-C** (*Full Inclusion and Equality in Adjudication and Operations*) full inclusion, **Article III-B** (*Equal Educational Access*) equal educational access (non-duplicative — education-specific accessibility remains owned there; this article states the cross-cutting Rights-Floor), **Article IX-C** (*Governance Participation and Voting Entitlement*) governance participation, **Article XI** (*Stakeholder System Participation, Representation, and Due Process*) stakeholder participation, **Article XV** (*Audit, Transparency, and Independent Verification*) independent verification.
+- Downstream: **Article V-A** (*Dignity and Equal Moral Standing*) dignity floor, **Article V-B** (*Nondiscrimination*) non-discrimination, **Article V-C** (*Full Inclusion and Equality in Adjudication and Operations*) full inclusion, **Article III-B** (*Equal Educational Access*) equal educational access (non-duplicative — education-specific accessibility remains owned there; this article states the cross-cutting Rights-Floor), **Article IX-C** (*Governance Participation and Voting Entitlement*) governance participation, **Article XI** (*Stakeholder System Participation, Representation, and Due Process*) stakeholder participation, **Article XV** (*Audit, Transparency, and Independent Verification*) independent verification; [Chapter Zero §2 *The Measurements*](core_00_preamble.md#2-the-measurements) (*Accessibility as constitutional measurement*); [Chapter Seven §5C](core_07-07_system_alignment_certification.md#5c-accessibility-evaluation) (*accessibility evaluation where certification gates substantive participation*).
 - Read with: Chapter Five *Accessibility*, *Protected Characteristics*, *Substantive Fairness*, *Materiality*, *Dependency*, *Meaningful Agency*. Cross-cutting evaluation-factor hook: **Chapter One §10.1** Accessibility row.
 
 </details>
@@ -407,9 +429,9 @@ The principles of this Article constrain all interpretation, design, and operati
   "High-impact" or "stability" framings that do not satisfy the ordinary limitations tests do not justify chilling protected activity.
 - **Good-faith framing and critical reporting:** **Article VIII-C** (*Truthful Publication and High-Impact Publication Limits*) good-faith and truthfulness standards govern publication within their scope and must not be read to bar lawful critical reporting, investigative publication, satire, or dissent.
   - Where **Article VIII-C** (*Truthful Publication and High-Impact Publication Limits*) and this Article interact, the lawful critical-reporting floor controls against read-ups that would convert good-faith standards into a shield against criticism.
-- **Non-conflation:** This Article states a Rights Floor.
-  - Implementation specifics — licensing regimes, accreditation systems, broadcast or platform-carriage rules, content-moderation procedures, runtime-assembly allocation protocols — route to incorporated implementation text under **Chapter Sixteen** and must not narrow this floor.
-  - Conflicts with **Article X-A** (*Non-Imposition and Consent in Association*) cooperative-interaction consent rules, **Article XI** (*Stakeholder System Participation, Representation, and Due Process*) stakeholder-participation rights, **Article XIV** (*Info-Sphere Integrity*) info-sphere / epistemic-integrity obligations, **Article XV-A** (*Auditability and Observable Evidence*) auditability obligations, and the **Article XIII-A** (*Security, Intelligence, and Covert-Power Limits*) protected-activity shield resolve under **Chapter One §6.3.1** without narrowing any.
+- **Non-conflation:** **Article V-H** states the constitutional floor for expression, assembly, and press — not the full rulebook for running platforms, broadcasters, or newsrooms.
+  - Licensing, accreditation, broadcast and platform rules, moderation procedures, and rules for gathering in shared digital spaces are worked out under **Chapter Sixteen**. Those implementation details cannot cut back the floor stated here.
+  - When this floor conflicts with cooperation and consent (**Article X-A**), stakeholder participation (**Article XI**), information integrity (**Article XIV**), auditability (**Article XV-A**), or the protected-activity limits in **Article XIII-A**, resolve the conflict under **Chapter One §6.3.1** without weakening any floor involved.
 
 ### Article VI: Right to Sentient-Centered Education
 
