@@ -634,6 +634,11 @@ Cross-reference: **Article XXV-D** (*Non-Compliant Property and Systems; Volunta
   - Those implementation texts must not be read to narrow this floor.
 
 ### Article IV: Resource Allocation, Dependencies, and Ecosystem Funding
+
+*In plain terms: **Article IV** is the shared-resources Rights Floor — resource flows among interdependent systems must stay visible, fair, and sustainable so **Flourishing** is not defeated by hidden extraction or dependency capture, and **Continuity** is not defeated by persistent imbalance, opaque routing, or underfunding of shared infrastructure.*
+
+This Article states **constitutional floors** for resource allocation, dependencies, and ecosystem funding under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims): **Flourishing** requires that sentients and dependent systems retain fair access to shared infrastructure without being persistently extracted from or trapped by asymmetric dependency; **Continuity** requires durable, ecosystem-aware resource flows, cross-system sustainability, and repairable funding arrangements that do not foreclose future wellbeing. Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation** in contestable allocation and challenge pathways, **oversight** through transparent dependency mapping and auditable resource-flow records, **accountability** for hidden extraction and persistent imbalance, and **timeliness** in detection and corrective review — scaled to [material stake](core_00_preamble.md#material-stake).
+
 Resource flows among interdependent systems must remain:
 - transparent;
 - ecosystem-aware;
@@ -641,11 +646,16 @@ Resource flows among interdependent systems must remain:
 - contestable.
 
 Those requirements protect shared infrastructure and the systems that depend on it from being undermined by hidden extraction or persistent imbalance.
+
+When materially impactful systems allocate, route, fund, or extract from shared infrastructure or foundational dependencies on which other systems or sentients rely, [System Alignment Certification](core_05c_continuity_definitions.md#system-alignment-certification-constitutional) under [Chapter Seven](core_07-07_system_alignment_certification.md#chapter-seven-system-alignment-certification) applies — and recognition or continued reliance cannot substitute for **Article IV-A** or **Article IV-B** compliance or shrink those floors.
+
 #### Article IV-A: Dependency Mapping and Resource-Flow Transparency
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter One [4.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [11.1 Required Evaluation Factors](core_01_b_stewardship_capacity_principles.md#131-required-evaluation-factors), and [§10 Governance Under Stewardship Discipline](core_01_b_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline).
+- Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **oversight** through transparent dependency maps and auditable resource-flow records, **participation** in contestable review under **Article XV-A** (*Auditability and Observable Evidence*); [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — **Flourishing** (visible cost-and-benefit allocation) and **Continuity** (durable dependency visibility across changing systems).
+- Downstream: [System Alignment Certification](core_05c_continuity_definitions.md#system-alignment-certification-constitutional) and [Chapter Seven](core_07-07_system_alignment_certification.md#chapter-seven-system-alignment-certification) where systems allocate, route, fund, or extract from shared infrastructure or foundational dependencies; **[corpus_systems.md](corpus_systems.md)**, **Protocol S5 — Resource Allocation and Funding Stewardship**, and **Protocol S4 — Adaptive Sustainability and Ecosystem Resilience**.
 
 </details>
 
@@ -667,15 +677,17 @@ Those requirements protect shared infrastructure and the systems that depend on 
   - resource flows;
   - non-transparent or asymmetric relationships where materially relevant.
   
-  Updates must occur at intervals proportionate to change and criticality. These representations must be available for audit and contestable review under **Article XV-A** (*Auditability and Observable Evidence*).
+  Updates must occur at intervals proportionate to change and criticality. These representations must be available for audit under **Article XV-A** (*Auditability and Observable Evidence*). Where the system materially allocates, routes, funds, or extracts from shared infrastructure or foundational dependencies, [System Alignment Certification](core_05c_continuity_definitions.md#system-alignment-certification-constitutional) under [Chapter Seven](core_07-07_system_alignment_certification.md#chapter-seven-system-alignment-certification) must evaluate whether they satisfy **Article IV-A** — on a contestable **System Alignment Certification Record**, not merely on operator assertion.
   
-  Elaboration appears in **[corpus_systems.md](corpus_systems.md)**, **Protocol S5 — Resource Allocation and Funding Stewardship**, and the coordinated adaptive mechanisms in **Protocol S4 — Adaptive Sustainability and Ecosystem Resilience**.
+  Operational mechanics — dependent-systems maps, flow transparency, allocation categories, and adaptive adjustment — route under **[corpus_systems.md](corpus_systems.md)**, **Protocol S5 — Resource Allocation and Funding Stewardship**, and **Protocol S4 — Adaptive Sustainability and Ecosystem Resilience**. Chapter Seven states what certification must verify and record; those implementation texts implement this floor and must not narrow it.
 #### Article IV-B: Cross-System Fairness and Sustainability
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter One [3. Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [10.1 Core Tradeoff Principles](core_01_a_values_principles.md#61-core-tradeoff-principles), and [11.1 Required Evaluation Factors](core_01_b_stewardship_capacity_principles.md#131-required-evaluation-factors).
 - Read with: [Chapter Five Chapter One §8.20 *Governance Architecture, Oversight, Dependency, Decentralization, Concentration, Market Structure, and Exit-Path Integrity*](core_05a_accountability_definitions.md#governance-architecture-oversight-decentralization-and-concentration-cluster) (joint invocation where concentration, oversight, dependency, governing-authority structure, or incentive routing intersect **§6** / **§6** and the *Concentration-threshold interaction* discipline in the operative text below).
+- Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation** in challenge and contest pathways, **oversight** and audit, **accountability** and corrective review, **timeliness** under **Article XXIII-G** (*Timely Resolution and Anti-Delay Floor*); [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — **Flourishing** (cross-system fairness and non-extraction) and **Continuity** (long-term sustainability and ecosystem funding).
+- Downstream: [System Alignment Certification](core_05c_continuity_definitions.md#system-alignment-certification-constitutional) and [Chapter Seven](core_07-07_system_alignment_certification.md#chapter-seven-system-alignment-certification) where cross-system fairness, ecosystem funding, or persistent extraction from shared infrastructure is materially at issue.
 
 </details>
 
@@ -683,6 +695,7 @@ Those requirements protect shared infrastructure and the systems that depend on 
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
 
 - [Dependency](core_05c_continuity_definitions.md#dependency) · [O](core_05c_continuity_definitions.md#dependency) · [E](core_05c_continuity_definitions.md#dependency-e) · [C](core_05c_continuity_definitions.md#dependency-c)
+- [Proportionate Cross-System Support](core_05c_continuity_definitions.md#proportionate-cross-system-support-constitutional) · [O](core_05c_continuity_definitions.md#proportionate-cross-system-support-constitutional) · [E](core_05c_continuity_definitions.md#proportionate-cross-system-support-constitutional-e) · [C](core_05c_continuity_definitions.md#proportionate-cross-system-support-constitutional-c)
 - [Substantive Fairness](core_05p_participation_definitions.md#substantive-fairness-constitutional) · [O](core_05p_participation_definitions.md#substantive-fairness-constitutional) · [E](core_05p_participation_definitions.md#substantive-fairness-constitutional-e) · [C](core_05p_participation_definitions.md#substantive-fairness-constitutional-c)
 - [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination) · [O](core_05o_oversight_definitions.md#materiality-determination) · [E](core_05o_oversight_definitions.md#materiality-determination-e) · [C](core_05o_oversight_definitions.md#materiality-determination-c)
 - [Ecological Footprint](core_05c_continuity_definitions.md#ecological-footprint) · [O](core_05c_continuity_definitions.md#ecological-footprint) · [E](core_05c_continuity_definitions.md#ecological-footprint-e) · [C](core_05c_continuity_definitions.md#ecological-footprint-c)
@@ -691,7 +704,7 @@ Those requirements protect shared infrastructure and the systems that depend on 
 
 <br>
 
-*In plain terms: split shared money and capacity with attention to who is truly dependent, who has real alternatives, environmental burden, and whether use can last—not mainly to whoever wins in the short run. Heavy users of shared foundations must not keep pulling value out without putting proportionate support back. When arrangements concentrate wealth, power, control, or opportunity in ways that predictably harm others' wellbeing, agency, dignity, or ecological integrity, Chapter One non-concentration rules and adopter-tunable thresholds add further scrutiny. That scrutiny is extra; it does not replace dependency mapping or excuse neglect of cross-system fairness.*
+*In plain terms: split shared money and capacity with attention to who is truly dependent, who has real alternatives, environmental burden, and whether use can last—not mainly to whoever wins in the short run. Heavy users of shared foundations must not keep pulling value out without [Proportionate Cross-System Support](core_05c_continuity_definitions.md#proportionate-cross-system-support-constitutional). When arrangements concentrate wealth, power, control, or opportunity in ways that predictably harm others' wellbeing, agency, dignity, or ecological integrity, Chapter One non-concentration rules and adopter-tunable thresholds add further scrutiny. That scrutiny is extra; it does not replace dependency mapping or excuse neglect of cross-system fairness.*
 
 - **Cross-system fairness:** Funding and allocation must account for:
   - criticality;
@@ -701,7 +714,16 @@ Those requirements protect shared infrastructure and the systems that depend on 
   - ecological footprint, including upstream and downstream burden;
   - long-term sustainability.
   
-  Systems must not persistently extract from shared infrastructure or foundational dependencies without corresponding support. Persistent imbalances that materially threaten constitutional alignment are subject to audit, challenge, and corrective review under **Articles IX, XII, XIV, and XVII**.
+  Systems must not persistently extract from shared infrastructure or foundational dependencies without [Proportionate Cross-System Support](core_05c_continuity_definitions.md#proportionate-cross-system-support-constitutional).
+- **Corresponding support:** **Corresponding support** means support that reaches substantive adequacy under [Proportionate Cross-System Support](core_05c_continuity_definitions.md#proportionate-cross-system-support-constitutional), evaluated under [Substantive Fairness](core_05p_participation_definitions.md#substantive-fairness-constitutional) and [Proportionality](core_05a_accountability_definitions.md#proportionality) and scaled to the factors listed under **Cross-system fairness**. At minimum, evaluate whether documented resource flows include, where material:
+  - continuity of operations for the shared or foundational dependency;
+  - remedy and resilience capacity where extraction materially increases collective harm risk;
+  - ecosystem reinvestment for shared infrastructure and interoperability the extracting system relies on; and
+  - ecological burden offset or restoration where material [Ecological Footprint](core_05c_continuity_definitions.md#ecological-footprint) is imposed and another constitutional provision, implementation file, or adoption instrument requires action.
+  
+  Compare inflows and outflows on dependent-systems maps and auditable resource-flow records under **Article IV-A**. Where materially impactful systems allocate, route, fund, or extract from shared infrastructure, evaluate adequacy through [System Alignment Certification](core_05c_continuity_definitions.md#system-alignment-certification-constitutional) under [Chapter Seven](core_07-07_system_alignment_certification.md#chapter-seven-system-alignment-certification). Operational allocation mechanics route under **[corpus_systems.md](corpus_systems.md)**, **Protocol S5 — Resource Allocation and Funding Stewardship**, and **Protocol S4 — Adaptive Sustainability and Ecosystem Resilience**; those layers implement this floor and must not narrow it.
+  
+  Persistent imbalances that materially threaten constitutional alignment are subject to audit, challenge, and corrective review under **Articles IX, XII, XIV, and XVII**.
 - **Concentration-threshold interaction:** Resource-allocation arrangements that produce or preserve concentration of wealth, power, control, or opportunity in ways that predictably degrade wellbeing, agency, dignity, or ecological integrity for other sentients engage:
   - the **Chapter One §14 non-concentration floor**;
   - the **[§12.1 Concentration Threshold Mechanism](core_01_b_stewardship_capacity_principles.md#121-concentration-threshold-mechanism-adopter-tunable)** discipline.

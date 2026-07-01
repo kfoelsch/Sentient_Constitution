@@ -1,11 +1,10 @@
 ## Protocol S5 — Resource Allocation and Funding Stewardship
 
-Constitutional tracing: This protocol specifies implementation-file-level funding stewardship, dependent-systems mapping.
-and cross-system resource-flow obligations implementing Sentient Constitution Chapter Six, Article IV-A (see doc_architecture.md section 5).
+Constitutional tracing: This protocol specifies implementation-file-level funding stewardship, dependent-systems mapping, and cross-system resource-flow obligations implementing Sentient Constitution Chapter Six, **Article IV-A** and **Article IV-B** (see doc_architecture.md section 5). It implements **Chapter Five** [*Proportionate Cross-System Support*](../core_05c_continuity_definitions.md#proportionate-cross-system-support-constitutional) through allocation categories, reauthorization, and funding-stewardship mechanics; it does not restate that definition.
 
 **Protocol S4** governs adaptive adjustment of allocation in response to degradation and systemic risk. This protocol does not replace or narrow Sentient Constitution Chapters Two through Five. Where this protocol is silent, Sentient Constitution Chapters Two through Five govern.
 
-**Article IV-A** and **Articles I–III and V** state the core obligations for transparent, ecosystem-aware resource flows and substrate wellbeing.
+**Article IV-A** and **Article IV-B**, together with **Articles I–III and V**, state the core obligations for transparent, ecosystem-aware resource flows, cross-system fairness, and substrate wellbeing.
 
 **Protocol S4** governs how allocation adapts when conditions change. This Protocol specifies **funding stewardship mechanics**—dependent systems maps, flow transparency, allocation categories, reauthorization, and triggers. **It** is **not** a second copy of Chapter Five.
 
@@ -13,13 +12,13 @@ Funding processes should reward contribution, sustain systems, and fund long-ter
 
 **Principles of funding.** Allocation reflects fairness, contribution, need, and sustainability (not equal distribution).
 
-Mechanisms must implement **Article IV-A** and foundational requirements. **They** must support long-term sustainability and improvement. **They** must resist concentration of wealth or influence that undermines constitutional alignment. **They** must remain transparent, auditable, and reviewable (**Article XV-A**). **They** must preserve adaptability (**Article XXIV**).
+Mechanisms must implement **Article IV-A**, **Article IV-B**, and foundational requirements. **They** must deliver **Proportionate Cross-System Support** where dependent systems materially extract from shared infrastructure or foundational dependencies. **They** must support long-term sustainability and improvement. **They** must resist concentration of wealth or influence that undermines constitutional alignment. **They** must remain transparent, auditable, and reviewable (**Article XV-A**). **They** must preserve adaptability (**Article XXIV**).
 
-**Cross-system resource flows and dependencies.** Interconnected systems must meet **Article IV-A** and remain subject to **Article XV-A**, **Article XXI-A**, and **Article XVIII-A**.
+**Cross-system resource flows and dependencies.** Interconnected systems must meet **Article IV-A** and **Article IV-B** and remain subject to **Article XV-A**, **Article XXI-A**, and **Article XVIII-A**.
 
 Funding structures must **account for all upstream and downstream dependencies**. **They** must **avoid creating unsustainable reliance on external systems**. **They** must **disclose material cross-system funding relationships**.
 
-**Systems providing foundational or widely used services** should **receive appropriate support from dependent systems**. **They** should **have indirect value distribution assessed regularly** through a maintained dependent systems map.
+**Systems providing foundational or widely used services** must **receive Proportionate Cross-System Support from dependent systems** that materially extract from them — not merely symbolic, opaque, or one-time transfers. **They** must **have indirect value distribution assessed regularly** through a maintained dependent systems map.
 
 **Systems must monitor and disclose** **dependency risks**. **They** must monitor and disclose **funding imbalances across interconnected systems**. **They** must monitor and disclose **potential points of systemic fragility**.
 
