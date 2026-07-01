@@ -661,6 +661,8 @@ This band holds **Accountability**-leg definitions: contestability, redress, gov
 
 ---
 
+<a id="governance-architecture-oversight-decentralization-and-concentration-cluster"></a>
+
 #### Governance architecture, decentralization, and concentration
 
 **Cluster context:** This semi-independent topic group establishes the structural framework for how authority is organized and constrained. [Governance](core_05a_accountability_definitions.md#governance) defines the structures, rules, and processes by which systems are directed and held accountable. [Decentralization](core_05a_accountability_definitions.md#decentralization) requires placement of authority at the least centralized scale that can satisfy binding requirements. [Market Structure](core_05a_accountability_definitions.md#market-structure-constitutional) states the principle-layer discipline for contestable productive conditions. [Concentration Threshold](core_05a_accountability_definitions.md#concentration-threshold-constitutional) provides the operational trigger for heightened review when material concentration reaches problematic levels. These definitions implement [Chapter One §12 Market Structure](core_01_b_stewardship_capacity_principles.md#12-market-structure) and constrain [System Capture](core_05c_continuity_definitions.md#system-capture) through distributed, accountable authority structures.

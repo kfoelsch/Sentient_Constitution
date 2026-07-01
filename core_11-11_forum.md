@@ -14,6 +14,8 @@
 ---
 ## CHAPTER ELEVEN: FORUMS AND JURISDICTION
 
+<a id="chapter-eleven-forums-and-jurisdiction"></a>
+
 *Non-operative subtitle:* Participation, oversight, and supervision in dispute handling.
 
 <details>
@@ -51,6 +53,7 @@
 
 *In plain terms: Under the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) and [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims), this chapter **supervises** how disputes move through the Chapters Eight–Ten standing pipeline — routing, independence, forensic support, remediation sequencing, and tier-default clocks under **Article XXIII-G**. Forum families answer which track handles which dispute, where a case ordinarily starts, and how mixed-stakes matters coordinate. They supply **participation** (accessible challenge) and **oversight** (traceable merits review) so **verified findings** can feed measure-and-integrate steps in Chapters Eight through Ten. They are **not** a parallel adjudication layer and do **not** classify standing records under Chapter Eight. Day-to-day trial rules, budgets, and staffing manuals live in implementation layers and must **implement, not narrow**, this chapter or **Article XXIII**.*
 
+<a id="2-purpose-and-role"></a>
 <a id="chapter-nine-part-a-participation-architecture"></a>
 
 ### 1. Purpose and role — participation architecture
@@ -85,6 +88,8 @@ Each **forum family** bears primary responsibility for incentive structures prim
 - remediating sequencing hooks, and comparable adjudication-adjacent alignment. 
 
 **System-wide** budgets, cross-cutting research funding, and governance-scale programs remain subject to [Chapter Twelve — Governance](core_12-12_governance.md#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship), **[corpus_systems.md](corpus_systems.md)**, and other supremacy rules where applicable. Incentive structures must not substitute for threshold routing, lawfully constituted merits determination, authoritative **Chapter Ten** slot assignment where applicable, or **Article XXIII** constraints.
+
+<a id="2-default-venue-and-primary-stakes"></a>
 
 ### 2. Default venue and primary stakes
 <details>
@@ -130,6 +135,7 @@ At filing, **default** venue follows these rules unless **section 6** transfers 
 - **Anti-self-judging backup.** Where material allegations warrant independent merits review of **Integrity** forum integrity in a Chapter Ten slot-classification proceeding, backup routing under **sections 6 and 7** applies without narrowing **Chapter Ten section 4** or **Article XXIII**.
 
 <a id="chapter-nine-part-b-oversight-architecture"></a>
+<a id="3-forensic-and-analytical-support"></a>
 
 ### 3. Forensic and analytical support — oversight architecture
 <details>
@@ -148,6 +154,7 @@ At filing, **default** venue follows these rules unless **section 6** transfers 
 Forum families must have access to **independent** **forensic** or **analytical** capacity where **material** **uncertainty**, **technical** **opacity**, **restricted** **evidence**, or **causal** **complexity** would otherwise prevent reliable adjudication. That capacity may gather, preserve, reconstruct, test, and explain evidence relevant to the dispute, consistent with **Chapters Two through Four**, **Article XII-B**, and **Article XV**. Its work must remain **contestable**. It must **not** itself exercise **binding** **merits** authority.
 
 <a id="chapter-nine-part-c-accountability-adjudication"></a>
+<a id="4-forum-families"></a>
 
 ### 4. Forum families — accountability through adjudication
 <details>
@@ -164,6 +171,8 @@ Forum families must have access to **independent** **forensic** or **analytical*
 
 *In plain terms: adopters keep six genuinely different forum tracks — sentient, technical, institutional, environment, integrity, and constitutional — in the same order as the default-venue table in **section 2**. **Institutional**, **Environment**, and **specialized technical** forums share **one** provisional-operational-law and constitutional-disposition framework (stated once below) so readers are not asked to reconcile three parallel copies. **Integrity** forums map interlocking process and system failure through **alignment** rulings and **coordinate** referred component issues on **one** lead record (with **section 6**). **Section 5** supplies per-family intake triage and mixed-stakes safeguards; those desks are **not** a separate top-level forum for final merits. Expert panels sit **inside** these families — not as a dodge around primary-stakes routing.*
 
+<a id="41-minimum-distinct-forum-families"></a>
+
 #### 4.1 Minimum distinct forum families
 
 Adopting instruments must maintain **at least** the following **distinct** forum families, **in** **the** **same** **order** as **section** **2**’s **default** **venue** **table**. Titles may differ; **function** must not collapse one family into another without **constitutional** amendment.
@@ -175,9 +184,13 @@ Adopting instruments must maintain **at least** the following **distinct** forum
 - **Integrity** forums.
 - **Constitutional** forums.
 
+<a id="42-forum-family-definitions"></a>
+
 #### 4.2 Forum family definitions
 
 The **subsections** **below** **follow** **section** **2**’s **default** **venue** **table** **order**. **Titles** **may** **differ** under **section** **4.1**.
+
+<a id="421-sentient-forums"></a>
 
 ##### 4.2.1 Sentient forums
 
@@ -186,6 +199,8 @@ The **subsections** **below** **follow** **section** **2**’s **default** **ven
 This includes contests over community-level exclusion, access to shared community process, local restorative obligations, moderation or membership decisions in non-institutional online communities, neighborhood or association self-governance, participatory-budget inputs, commons-use obligations, conflict-circle outcomes, and comparable community self-governance records where the matter remains primarily interpersonal, community-restorative, or locally normative.
 
 Community governance bodies themselves are not a separate **forum family** under this chapter. Their records, recommendations, delegated decisions, or omissions become matters for **Sentient forums** only where the **primary** stake fits this subsection. If an **institution** is a necessary party, effective relief requires **institutional** power, or the dispute primarily concerns delegated public authority, routing shifts to **Institutional** forums. If the primary issue is capture, retaliation, concealed manipulation, process-integrity failure, or anti-corruption breach, routing shifts to **Integrity** forums. If constitutional meaning, validity, or class-wide structural remedy is primary, certification or routing to **Constitutional** forums applies under **section 7**.
+
+<a id="422-technical-forum-domains"></a>
 
 ##### 4.2.2 Technical Forum Domains
 
@@ -197,15 +212,21 @@ Adopting instruments may establish **science**, **engineering**, **medicine**, o
 
 The **provisional implementation operational law** framework in **section** **4.3** applies to **specialized technical forums** within their **lawful** scope.
 
+<a id="423-institutional-forums"></a>
+
 ##### 4.2.3 Institutional forums
 
 **Institutional forums** hear disputes in which **at least one institution** is a **necessary party**, or in which the **primary** stake is **institutional** authority, **institutional mandate**, **supervised scope**, **classification** under adopted instruments, or **compliance** with **institutional** duties under **`corpus_institutions.md`** and cognate layers. Where shared cross-jurisdiction or cross-institution standards apply, **Institutional forums** are the default **local enforcement** forum unless primary-stakes routing places the matter elsewhere.
+
+<a id="424-environment-forums"></a>
 
 ##### 4.2.4 Environment forums
 
 **Environment forums** hear disputes whose **primary** stake is **ecological integrity**, **environmental preconditions**, **lifecycle** or **systemic** ecological **harm**, **restoration** or **remediation** of **shared** ecological **systems**, **accountability** for **attributable** environmental **burdens**, or comparable **ecological** **merits**. This includes **pattern** or **systemic** ecological failure where **Chapter Eight** classification, **Chapter Six** Rights-Floor enforcement, or **Chapter Five** (*Ecological Integrity*, *Environmental Preconditions*) depends on that determination.
 
 For system alignment, **Environment forums** hold the reviewable environmental-alignment component for systems whose operation, dependency map, resource use, lifecycle effects, emissions, land or water impacts, biodiversity effects, waste streams, remediation obligations, or failure modes materially implicate ecological integrity or environmental preconditions. They may issue environmental-alignment approval, conditional approval, objection, remediation requirements, or release-from-condition findings within their ecological merits authority. **Integrity** forums remain the default official lead for whole-system constitutional alignment recognition and validation, but must treat timely Environment forum environmental-alignment findings as required component determinations where material ecological exposure exists.
+
+<a id="425-integrity-forums"></a>
 
 ##### 4.2.5 Integrity forums
 
@@ -218,6 +239,8 @@ For system alignment, **Environment forums** hold the reviewable environmental-a
 - **Remediation framing.** An **alignment** ruling **may** establish a **reasoned** **remediation** **menu**, **implementation** **options**, or **sequencing** **requirements** within **lawful** scope; such elements are **binding** only to the extent the **ruling** **expressly** **states** **they** are **binding** and **they** are **consistent** with **assigned** **merits** authority elsewhere.
 - **Not provisional operational-law doctrine for other families.** **Alignment** rulings **do** **not** **substitute** for **provisional** **implementation** **operational** **law** under the shared rules in **section** **4.3** for **Institutional**, **Environment**, or **specialized technical** forums. Where **general** normative effect beyond **case-specific** or **pattern-specific** integrity **remediation** is **materially** **at** **stake**, **section** **7** governs **certification**, **escalation**, and **constitutional** **disposition**.
 
+<a id="426-constitutional-forums"></a>
+
 ##### 4.2.6 Constitutional forums
 
 These forums decide:
@@ -226,6 +249,8 @@ These forums decide:
 - **structural** remedies that alter governance for **classes** of actors or systems;
 - **certified** questions from other families;
 - disputes over action **beyond lawful authority** or **supremacy** where **constitutional** text is **enough by itself to decide** the certified issue.
+
+<a id="43-provisional-implementation-operational-law"></a>
 
 #### 4.3 Provisional implementation operational law
 
@@ -240,9 +265,13 @@ The following **single** framework applies to **Institutional forums**, **Enviro
 
 3. **Certification when stakes merge.** Where the **operational** question **cannot** be separated from **constitutional** validity, **meaning**, or **structural** remedy, **section 7** governs. A **provisional** ruling under this subsection **does not** **finally** resolve that dimension **without** the **certification** and escalation path **section 7** requires.
 
+<a id="44-chambers"></a>
+
 #### 4.4 Chambers
 
 Each family may use **internal chambers**; **family** boundaries still govern **appeal**, **certification**, and **primary-stakes** routing in **sections 2, 6, and 7**.
+
+<a id="45-shared-standards-and-anti-displacement"></a>
 
 #### 4.5 Shared standards and anti-displacement
 
@@ -251,6 +280,8 @@ The default **approach** for enforcement of constitutional law is **shared stand
 Incentive structures that mainly concern a forum family's allocated stakes — including reviewable cost, sanction, and contest incentives within lawful scope — are chiefly owned by that family through adopting instruments, consistent with **section 1**. They must not displace primary-stakes routing, certification under **sections 6 and 7**, or the anti-displacement rule in the following paragraph.
 
 Additionally, forum families must not use technical specialization to displace ordinary constitutional, institutional, integrity, environment, or sentient routing where the primary issue is rights, mandate, liability, remedy, or ecological merits outside those specialized functions.
+
+<a id="5-intake-triage-mixed-stakes-and-routing-asymmetry"></a>
 
 ### 5. Intake triage, mixed stakes, and routing asymmetry
 <details>
@@ -286,6 +317,7 @@ Operational requirements — including **published intake classes**, attributabl
 - **Sentient** forums **must not** be the **sole** **mandatory** forum when the **primary** stakes are **institutional**, **integrity**, or **ecological** under the table in **section 2**.
 
 <a id="chapter-nine-part-d-continuity-anti-capture"></a>
+<a id="6-transfer-consolidation-and-coordination"></a>
 
 ### 6. Transfer, consolidation, and coordination — continuity and anti-capture
 <details>
@@ -324,6 +356,8 @@ Operational requirements — including **published intake classes**, attributabl
   - against **Environment** forums: **Institutional** first and **Integrity** as backup
   - This rule does **not** convert every case naming a forum into a special venue rule. It applies only where **anti-self-judging** protection is materially necessary to preserve **independence**, **contestability**, or **public** **trust**.
 - **Family-level capture.** Where credible evidence indicates **capture**, compromise, coercive control, coordinated obstruction, or structural dependency affecting a **forum family** as a whole, ordinary intra-family recusal, appeal, or continuity process is not sufficient by itself. The forum system must activate family-level backup routing, independent preservation of records, and time-bound external review sufficient to restore lawful, contestable merits adjudication. The captured or compromised family must not control the activation record, restoration review, or final determination of its own restored independence. Backup authority remains limited to what is necessary for lawful merits adjudication, emergency relief, record custody, and restoration; it does not permanently absorb the captured family's jurisdiction or displace **Constitutional** certification where structural remedy or constitutional meaning is materially at issue.
+
+<a id="7-escalation-and-certification"></a>
 
 ### 7. Escalation and certification
 <details>
@@ -408,6 +442,8 @@ A case may move from one forum family to another only when the receiving family 
 - Final anti-constitutional misconduct assignments remain **anchored** in **Chapter Ten**. **Forum** **families** **apply** **independent** **review** and **due-process** **requirements** stated there (especially **Chapter Ten**, **section 4**) and in **Article XXIII**.
 - **Default lead family** for **Chapter Ten** classification as the **primary** stake is stated in **section 2**. **Sections 5 through 7** govern **transfer**, **consolidation**, **certification**, **backup** **routing**, and **anti-self-judging** **activation** **without** **narrowing** **Chapter** **Seven** **section** **4**.
 
+<a id="8-anti-gaming-and-interim-relief"></a>
+
 ### 8. Anti-gaming and interim relief
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -429,6 +465,7 @@ Incentive devices must not be structured or applied to reward forum shopping, op
 **Interim relief** **may** **issue** from **any** **competent** **family** to **preserve** **status** **quo** **pending** **merits**. Where **multiple** **forums** **share** **jurisdiction**, **one** **coordinating** **forum** or **rule** **must** **resolve** **conflicts** among **simultaneous** **interim** **orders**.
 
 <a id="chapter-nine-part-e-implementation-boundary"></a>
+<a id="9-relation-to-implementation-files"></a>
 
 ### 9. Relation to implementation files — implementation boundary
 <details>

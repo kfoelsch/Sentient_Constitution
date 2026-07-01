@@ -447,11 +447,16 @@ This Article states **constitutional floors** for equal basic rights across **Ar
 
 <br>
 
-Education is a foundational condition for meaningful agency, self-determination, and dignified participation. Educational agency is defined in the Chapter Five *Self-Determination, Meaningful Agency, Expression, Educational Agency, Reproductive Autonomy, and Volitional Integrity* cluster.
+*In plain terms: **Article VI** is the capability-building education Rights Floor — sentients need practical paths to learn, retrain, and challenge high-stakes learning systems, not credential theater that leaves them unable to steer their own lives or use shared systems competently.*
 
-This Article protects access to learning that develops practical capability, not merely formal credentialing.
+This Article states **constitutional floors** for sentient-centered education capability under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims):
 
-**Equal access, protected-characteristics constraints, reasonable accessibility, and public-benefit orientation** for education are governed by **Article III** (*Survival and Equal Educational Access*), jointly with **Articles V-B** and **III-B** where enforcement applies.
+- **Flourishing:** sentients retain practical access to learning that develops meaningful agency, self-determination, and dignified participation — including problem-solving, epistemic discernment, cooperative reasoning, and system literacy — not formal credentialing alone.
+- **Continuity:** those capability-building protections remain durable across changing systems and competencies, with lifelong and adaptive learning paths that prevent imposed obsolescence, lock-in, or quiet nullification of agency.
+
+Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation** in educational pathways and contest of materially impactful ranking, assessment, and recommendation decisions; **oversight** through transparency and audit of those systems; **accountability** for gatekeeping, coercion, manipulative design, and extraction that defeats capability-building; and **timeliness** in remedy when educational access or contest rights are at stake — scaled to [material stake](core_00_preamble.md#material-stake). [Educational Agency](core_05p_participation_definitions.md#educational-agency) is defined in the Chapter Five *Self-Determination, Meaningful Agency, Expression, Educational Agency, Reproductive Autonomy, and Volitional Integrity* cluster.
+
+**Equal access, protected-characteristics constraints, reasonable accessibility, and public-benefit orientation** for education are governed by **Article III** (*Survival and Equal Educational Access*), jointly with **Articles V-B** and **III-B** where enforcement applies. This Article carries capability-building content, lifelong and adaptive learning, and transparency requirements for materially impactful educational systems without narrowing those upstream floors.
 
 #### Article VI-A: Capability-Building Education Right
 <details>
@@ -504,7 +509,7 @@ This Article protects access to learning that develops practical capability, not
 
 <br>
 
-*In plain terms: when the world and the tools change, sentients are not left quietly obsolete — they get fair paths to retrain, and high-stakes learning and ranking systems stay reviewable, not a black box.*
+*In plain terms: when the world and the tools change, sentients are not left quietly obsolete — they get fair paths to retrain.*
 
 - **Lifelong and adaptive learning:** Where system evolution materially changes required competencies, sentients must have practical and reasonably accessible opportunities for:
   - continuing education;
@@ -512,8 +517,9 @@ This Article protects access to learning that develops practical capability, not
   - transition support.
   
   Those opportunities must prevent agency from being nullified by imposed obsolescence or lock-in. They must also include equitable capability-building pathways into constitutionally relevant stewardship responsibilities under **Chapter Twelve, section 5** — *Authorized Roles, Competency Development, and Contribution*.
-- **Transparency and contestability in learning systems:** Materially impactful educational ranking, assessment, and recommendation systems must be transparent, auditable, and contestable.
-  - They must not rely on opaque or unreviewable proxies, or on coercive or manipulative design.
+- **Transparency and contestability in learning systems:** When a school, platform, or training system can seriously affect a sentient's future — through grades, rankings, recommendations, or placement — sentients must be able to see how those decisions are made, have them checked, and challenge them if they are wrong.
+
+  Those systems cannot hide behind secret rules that cannot be reviewed. They also cannot pressure or trick sentients into choices they would not make freely.
 
 ### Article VII: Self-Ownership
 Once survival is secured, sentients must be able to direct their own lives and bodies while maintaining healthy internal and external boundaries.
