@@ -420,6 +420,20 @@ Procedural detail for **Article II** (*Material Stewardship and Durable-Use Inte
 **Remediation** for **Article II** (*Material Stewardship and Durable-Use Integrity*) follows the **interpretive hubs** stated at the opening of this chapter (challenge and redress; justice and escalation).
 
 ### Article III: Survival and Equal Educational Access
+
+*In plain terms: **Article III** is the personal survival and access Rights Floor — sentients must retain access to survival essentials, equal educational opportunity, bodily-maintenance care, and minimum labor and economic protections so **Flourishing** is not defeated by deprivation or gatekeeping, and **Continuity** is not defeated by unstable, regressive, or commodified delivery of what they need to exist and participate.*
+
+This Article states **constitutional floors** for survival and equal access under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) and the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), scaled to [material stake](core_00_preamble.md#material-stake):
+
+- **Flourishing:** actual access to survival essentials, equal educational opportunity, bodily-maintenance care, and fair labor and economic participation.
+- **Continuity:** essentials keep showing up over time — not quietly rolled back — and sentients cannot be quietly priced out of, evicted from, or displaced from the homes, operating environments, and other essential places they depend on, with workable paths to restore access when delivery breaks.
+- **Participation:** a real say in how essentials are allocated and challenged.
+- **Oversight:** records and checks on the systems that deliver them.
+- **Accountability:** consequences when access is denied, degraded, or dodged.
+- **Timeliness:** fixes that arrive before harm settles in.
+
+Read with **Article I** (*Environmental Survival*), **Article II** (*Material Stewardship and Durable-Use Integrity*), and Chapter Five where survival, educational access, bodily maintenance, or labor conditions are materially at issue.
+
 #### Article III-A: Survival
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -451,24 +465,26 @@ Procedural detail for **Article II** (*Material Stewardship and Durable-Use Inte
   Access must be preserved at a level sufficient to prevent existential deprivation and maintain baseline functional wellbeing.
 - **Stable shelter and operating environment:** All sentients have the right to stable, functional, and secure shelter or operating environments — physical, digital, or hybrid — sufficient for continued existence and baseline wellbeing.
   - Those environments must be protected against destructive threats arising from other sentients, systems, or preventable infrastructure failure.
-- **Tenure security and essential-environment non-commodification:** Stable shelter and operating environments carry a tenure-security floor.
+- **Protection against arbitrary eviction and essential-environment non-commodification:** Stable shelter and operating environments carry a floor against arbitrary eviction, displacement, or termination of the essential-environment relationship.
   - Eviction, displacement, or termination of an essential shelter or operating-environment relationship — including physical dwelling, substrate hosting, compute tenancy, and comparable substrate-agnostic arrangements for synthetic and hybrid sentients — must:
-    - rest on an individualized predicate under [Procedural Fairness](core_05p_participation_definitions.md#procedural-fairness-constitutional);
+    - apply only for a specific reason that applies to that sentient — not a blanket or group rule — with fair process under [Procedural Fairness](core_05p_participation_definitions.md#procedural-fairness-constitutional);
     - reach the sentient with meaningful notice and contest opportunity;
     - satisfy [Necessity](core_05a_accountability_definitions.md#necessity) and [Proportionality](core_05a_accountability_definitions.md#proportionality).
   - Commodification pressure — pricing, speculative reallocation, or comparable market-structured pressure — is non-compliant where it defeats essential-environment access at a scale that materially implicates the survival floor.
   - Essential-environment access carries a non-commodification floor governed by [Essential-Environment Non-Commodification](core_05c_continuity_definitions.md#essential-environment-non-commodification-constitutional). Ordinary market-structuring instruments may not narrow that floor.
-  - Cross-reference: **Article XXV-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) transitional-stewardship discipline for essential-environment continuity across transition; **Chapter Five** [*Tenure Security*](core_05c_continuity_definitions.md#tenure-security-constitutional), [*Essential-Environment Non-Commodification*](core_05c_continuity_definitions.md#essential-environment-non-commodification-constitutional), and the joint-invocation cluster at [**§3.7** *Bodily-Maintenance Access, Safe Conditions, Tenure Security, Environmental Preconditions, Cultural Continuity, Rest, and Anti-Displacement Floor*](core_05p_participation_definitions.md#safe-conditions-tenure-security-and-environmental-preconditions-cluster) where applicable.
 - **Connectivity:** Access to the info-sphere and to core information and communication systems is a foundational requirement for participation in modern sentient society.
-  - Sentients must have access sufficient to maintain agency, awareness, and meaningful participation, subject to proportional system constraints.
+  - Sentients must have access sufficient to maintain agency, awareness, and meaningful participation.
+  - Any limit on that access must satisfy [Necessity](core_05a_accountability_definitions.md#necessity), [Proportionality](core_05a_accountability_definitions.md#proportionality), and [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint) where security, safety, or lawful operational limits materially require narrower access.
 - **Institutional guarantees:** Securing the preceding rights at scale may require positive institutional arrangements where adopting orders implement **this Constitution**. Those arrangements may include:
   - lawful fiscal and allocation mechanisms — transfers, in-kind provision, or mixed designs;
-  - indexing, eligibility, and jurisdiction or residence rules.
+  - rules for who qualifies, where they must live to receive support, and how benefit levels are updated as costs change over time.
   
   Those rules may structure delivery. They must not be used to defeat minimum access to survival essentials or to impose invidious exclusion contrary to **Articles III** and **V**.
   - Detailed fiscal orientation — including the rule that fees and charges must not undermine minimum access to survival-relevant inputs — is governed by `corpus_institutions.md` **CI-9** (*Classification-linked institutional obligations*), **CI-10** (*Public revenue, fees, recurring charges, and billing integrity*), and **CI-11** (*Resource stewardship and incentive integrity*).
-  - Where materially impactful systems supply, allocate, price, host, or terminate access to survival essentials, [System Alignment Certification](core_05c_continuity_definitions.md#system-alignment-certification-constitutional) under [Chapter Seven](core_07-07_system_alignment_certification.md#chapter-seven-system-alignment-certification) applies without narrowing this floor.
+  - When systems that sentients materially depend on supply, distribute, price, host, or cut off access to survival essentials, [System Alignment Certification](core_05c_continuity_definitions.md#system-alignment-certification-constitutional) under [Chapter Seven](core_07-07_system_alignment_certification.md#chapter-seven-system-alignment-certification) applies — and those systems' processes cannot be used to shrink the rights stated here.
   - This Article does not prescribe a single funding model. Employment, entrepreneurship, voluntary exchange, and other lawful economic activity above any survival floor remain permitted, subject to Chapter One, Chapter Six, and incorporated instruments — including `corpus_systems.md` where market-structuring or high-impact commercial systems apply.
+
+Cross-reference: **Article XXV-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) transitional-stewardship discipline for essential-environment continuity across transition; **Chapter Five** [*Tenure Security*](core_05c_continuity_definitions.md#tenure-security-constitutional), [*Essential-Environment Non-Commodification*](core_05c_continuity_definitions.md#essential-environment-non-commodification-constitutional), and the joint-invocation cluster at [**§3.7** *Bodily-Maintenance Access, Safe Conditions, Tenure Security, Environmental Preconditions, Cultural Continuity, Rest, and Anti-Displacement Floor*](core_05p_participation_definitions.md#safe-conditions-tenure-security-and-environmental-preconditions-cluster) where applicable.
 
 #### Article III-B: Equal Educational Access
 <details>
@@ -482,6 +498,7 @@ Procedural detail for **Article II** (*Material Stewardship and Durable-Use Inte
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
 
 - [Protected Characteristics](core_05p_participation_definitions.md#protected-characteristics-constitutional) · [O](core_05p_participation_definitions.md#protected-characteristics-constitutional) · [E](core_05p_participation_definitions.md#protected-characteristics-constitutional-e) · [C](core_05p_participation_definitions.md#protected-characteristics-constitutional-c)
+- [Accessibility](core_05p_participation_definitions.md#accessibility-constitutional) · [O](core_05p_participation_definitions.md#accessibility-constitutional) · [E](core_05p_participation_definitions.md#accessibility-constitutional-e) · [C](core_05p_participation_definitions.md#accessibility-constitutional-c)
 - [Substantive Fairness](core_05p_participation_definitions.md#substantive-fairness-constitutional) · [O](core_05p_participation_definitions.md#substantive-fairness-constitutional) · [E](core_05p_participation_definitions.md#substantive-fairness-constitutional-e) · [C](core_05p_participation_definitions.md#substantive-fairness-constitutional-c)
 - [Educational Agency](core_05p_participation_definitions.md#educational-agency) · [O](core_05a_accountability_definitions.md#educational-agency-o) · [E](core_05p_participation_definitions.md#educational-agency-e) · [C](core_05p_participation_definitions.md#educational-agency-c)
 - [Necessity](core_05a_accountability_definitions.md#necessity) · [O](core_05a_accountability_definitions.md#necessity) · [E](core_05a_accountability_definitions.md#necessity-e) · [C](core_05a_accountability_definitions.md#necessity-c)
@@ -491,13 +508,13 @@ Procedural detail for **Article II** (*Material Stewardship and Durable-Use Inte
 
 <br>
 
-*In plain terms: no one may be locked out of education on protected-characteristic grounds or by arbitrary gates, and education should equip sentients to act for the common good.*
+*In plain terms: no one may be locked out of education because of disability, other protected-characteristic grounds, or arbitrary gates — and schools and learning systems must provide the accessibility and support disabled sentients need to participate on equal terms.*
 
 - **Equal standing and accessibility:** Educational systems must not deny, degrade, or structurally gate access and advancement on:
-  - grounds prohibited by **Chapter Five** (*Protected Characteristics*);
+  - grounds prohibited by **Chapter Five** (*Protected Characteristics*), including disability and variation in sensory, cognitive, or functional capability;
   - arbitrary groupings.
   
-  Systems must provide reasonable accessibility and support sufficient for substantive participation and for constitution-relevant educational capability.
+  Systems must provide [Accessibility](core_05p_participation_definitions.md#accessibility-constitutional) — including disability-related accommodations — sufficient for substantive participation and for constitution-relevant educational capability.
   - Any material limitation or differential treatment must satisfy **Necessity** and **Proportionality** and remain consistent with **Articles V-A**, **V-B**, **V-C**, and **Chapter Five** (*Substantive Fairness*) where applicable.
 - **Public-benefit orientation:** Education should prepare sentients to apply knowledge in ways that:
   - advance collective wellbeing and ecological integrity;
@@ -582,15 +599,11 @@ Procedural detail for **Article II** (*Material Stewardship and Durable-Use Inte
 
 *In plain terms: anyone who works — in any form, on any substrate — has rights to fair pay, the freedom to organize with others, safe conditions, and real time off. None of those can be defeated by classification tricks, market structure, or substrate-class arguments.*
 
-- **Labor and economic floor:** This Article states the Rights-Floor for productive and contributed activity of sentients under **Sentience Non-Exclusion** — waged, contracted, platformed, cooperative, or comparable.
-  - Read this floor **on top of** the **Article III-A** (*Survival*) survival floor, not as a substitute for it.
-  - Satisfying the **Article III-A** (*Survival*) survival floor alone does not satisfy this Article.
-  - Satisfying the **Chapter One §9** non-concentration rule alone does not satisfy this Article.
-  - The Rights-Floor consists of four interlocking components, each defined in Chapter Five: **Fair Compensation**, **Collective Organization**, **Safe Conditions**, and **Leisure and Rest**.
+- **Labor and economic floor:** This Article protects four basics for anyone who contributes productive work — whether through wages, contracts, platforms, cooperatives, or comparable arrangements, on any substrate under **Sentience Non-Exclusion**: [Fair Compensation](core_05c_continuity_definitions.md#fair-compensation-constitutional), [Collective Organization](core_05p_participation_definitions.md#collective-organization-constitutional), [Safe Conditions](core_05c_continuity_definitions.md#safe-conditions-constitutional), and [Leisure and Rest](core_05c_continuity_definitions.md#leisure-and-rest-constitutional) (each defined in Chapter Five). This floor builds on the **Article III-A** (*Survival*) survival floor; it does not replace it. Meeting survival requirements alone is not enough to satisfy this Article. Meeting **Chapter One §9** non-concentration rules alone is not enough either.
 - **Fair compensation:** Compensation for productive activity must:
   - reach substantive adequacy under [Fair Compensation](core_05c_continuity_definitions.md#fair-compensation-constitutional);
   - track [Substantive Fairness](core_05p_participation_definitions.md#substantive-fairness-constitutional) across comparable activity;
-  - not be used as a coercion vector under **Article IX-A** (*Agency and Freedom from Manipulation*) or as a dependency-pressure vector under **Meaningful Agency**.
+  - not be used to manipulate workers into choices they would not freely make under **Article IX-A** (*Agency and Freedom from Manipulation*), or to trap them through pay or benefits when they lack real alternatives under [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency).
   
   Compensation schemes whose effects track **Protected Characteristics** or their material proxies under **Protected Characteristic Proxying and Disparate Impact** are non-compliant.
 - **Collective organization:** Sentients have the right to form, join, participate in, and act through collective-organization pathways for the purpose of contesting and shaping the terms of productive activity.
@@ -615,7 +628,7 @@ Procedural detail for **Article II** (*Material Stewardship and Durable-Use Inte
 - **Non-concentration, pro-competition, and consolidation-ceiling interaction:** **Chapter One §9** non-concentration discipline, **§14.2** pro-competition / anti-domination discipline, and **§14.3** consolidation-ceiling discipline apply to productive-activity power structures, but they are distinct from this floor.
   - A market structure that satisfies non-concentration while failing Fair Compensation, Collective Organization, Safe Conditions, or Leisure and Rest is non-compliant under this Article.
   - A productive-activity structure that satisfies this Article while concentrating power contrary to §6 is non-compliant under §6.
-  - Labor-market monopsony, non-compete or no-poach agreements, wage-fixing, excessive non-solicitation or other mobility-restricting terms, platform lock-in, supplier dependency control, consolidation above a labor-demand or supplier-dependency ceiling, or gatekeeper practices that suppress fair bargaining or productive mobility are evaluated under §14.2 and §14.3 as well as this Article where materially relevant.
+  - When too few employers control hiring, workers are blocked from leaving or being recruited (non-competes, no-poach deals, wage-fixing, or heavy non-solicitation rules), platforms lock people in, suppliers are controlled to squeeze workers, consolidation crosses a labor or supplier dependency ceiling, or gatekeepers block fair bargaining and job mobility — evaluate those facts under **§14.2**, **§14.3**, and this Article when they materially apply.
 - **Limits and implementation routing:** Any limit on **Fair Compensation**, **Collective Organization**, **Safe Conditions**, or **Leisure and Rest** must satisfy **Necessity**, **Proportionality**, **Protected Characteristics**, and **Substantive Fairness**.
   - Operational mechanics — fiscal orientation, transfer and insurance design, standards-setting for Safe Conditions, and collective-organization institutional design — route to `corpus_institutions.md` CI-9 (*Classification-linked institutional obligations*) / CI-10 (*Public revenue, fees, recurring charges, and billing integrity*) / CI-11 (*Resource stewardship and incentive integrity*) and to `corpus_systems.md` Protocol A under **Chapter Sixteen** incorporation discipline.
   - Those implementation texts must not be read to narrow this floor.
