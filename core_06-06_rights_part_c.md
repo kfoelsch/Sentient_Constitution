@@ -9,13 +9,6 @@
 
 </details>
 
-<br>
-
----
-## CHAPTER SIX: FOUNDATIONAL RIGHTS
-
-### Part C: Trustworthy systems, security and force limits, information integrity, verification, lifecycle, and resilience
-
 <details>
 <summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): Part C position in Chapter Six</span></strong></summary>
 
@@ -24,6 +17,13 @@
 > **Part A** in [core_06-06_rights_part_a.md](core_06-06_rights_part_a.md) carries the chapter-wide default constraint stack, planet-first reading order, and interpretive hubs. **Part C** presents **Articles XII–XXI** in that order.
 
 </details>
+
+<br>
+
+---
+## CHAPTER SIX: FOUNDATIONAL RIGHTS
+
+### Part C: Trustworthy systems, security and force limits, information integrity, verification, lifecycle, and resilience
 
 <br>
 
@@ -42,6 +42,22 @@
 </details>
 
 <br>
+
+*In plain terms: **Article XII** is the trustworthy-systems Rights Floor — when a system materially affects your life, you are entitled to rely on it honestly, understand its limits, and challenge it when it fails. Trust has to be earned and kept, not manufactured with branding or fine print.*
+
+This Article states **constitutional floors** for reliable and trustworthy systems under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims):
+
+- **Flourishing:** sentients can form reasonable expectations about system behavior, receive honest disclosure of limits and risks, and participate and coordinate without systematic deception or manufactured reliance.
+- **Continuity:** trustworthiness holds across time, scale, and deepening dependency — systems must not quietly become less reliable, less honest, or harder to challenge as stakes rise.
+
+Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), scaled to [material stake](core_00_preamble.md#material-stake):
+
+- **Participation:** in challenging unreliable or misleading systems and accessing review, correction, and redress.
+- **Oversight:** through auditable behavior, disclosed limits, and independent verification proportionate to impact and dependency.
+- **Accountability:** for false trust, perverse incentives, and failures that materially harm those who reasonably relied on a system.
+- **Timeliness:** in detection, challenge, and remedy before delay would make reliability or redress effectively unreachable.
+
+When materially impactful systems materially shape sentient reliance on represented behavior, limits, risks, challenge paths, or remediation, [System Alignment Certification](core_05c_continuity_definitions.md#system-alignment-certification-constitutional) under [Chapter Seven](core_07-07_system_alignment_certification.md#chapter-seven-system-alignment-certification) applies, including trustworthiness evaluation under [§5E](core_07-07_system_alignment_certification.md#5e-trustworthiness-and-system-reliance-integrity-evaluation) where the Article XII materiality trigger applies. Recognition or continued reliance on those systems cannot substitute for compliance with the floors stated in this Article or shrink them. Certification verifies alignment; it does not replace challenge and audit rights under **Article XII-B** and **Article XV**, or the trustworthy-systems Rights Floors stated here.
 
 Sentients have the right to interact with systems that are reliable and trustworthy, to a degree proportionate to their impact, dependency, and risk. That reliability supports informed participation, coordinated action, and the preservation of wellbeing.
 
@@ -273,7 +289,23 @@ Trustworthiness must be evaluated across time, scale, and dependency relationshi
 
 <br>
 
-This Article states the Rights-Floor for **exceptional institutional power**: covert intelligence and security activity (**Article XIII-A** (*Security, Intelligence, and Covert-Power Limits*)), overt force and military power (**Article XIII-B** (*Use of Force, Armed Conflict, and Military-Power Limits*)), and autonomous lethal systems and autonomous coercion tools (**Article XIII-C** (*Autonomous Lethal Systems and Autonomous Coercion Tools*)).
+*In plain terms: **Article XIII** is the exceptional-power Rights Floor — surveillance, intelligence work, armed force, and machines that kill or coerce on their own are not normal tools of governance. They may be used only in narrow, authorized, reviewable circumstances, with real remedies when lines are crossed. No secret police, no permanent emergency, no machine deciding to hurt a sentient without a human actually in control.*
+
+This Article states **constitutional floors** for security, intelligence, force, and autonomous coercive systems under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims):
+
+- **Flourishing:** sentients can participate, associate, speak, and live without covert targeting, arbitrary force, or autonomous coercion that defeats agency, dignity, or protected activity — and without secrecy or emergency labels being used to escape review.
+- **Continuity:** exceptional power stays bounded across time — covert collection, force deployment, and autonomous harm cannot quietly normalize into permanent surveillance, endless emergency authority, or unreviewable machine violence as institutions scale or crises pass.
+
+Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), scaled to [material stake](core_00_preamble.md#material-stake):
+
+- **Participation:** for affected sentients and communities in challenging authorization, scope, and continued use of exceptional power — including protected reporting and constitutional contest.
+- **Oversight:** through independent authorization, auditable records, and review pathways proportionate to intrusiveness and harm — even where limited secrecy is justified.
+- **Accountability:** for covert overreach, wrongful force, autonomous coercion, and tainted collection — with attribution, remedy, and deterrence that secrecy cannot erase.
+- **Timeliness:** in authorization lapses, post-emergency review, and remedy before delay would normalize exceptional power or make rights effectively unreachable.
+
+Those floors apply to **exceptional institutional power** in three linked domains: covert intelligence and security activity (**Article XIII-A** (*Security, Intelligence, and Covert-Power Limits*)), overt force and military power (**Article XIII-B** (*Use of Force, Armed Conflict, and Military-Power Limits*)), and autonomous lethal systems and autonomous coercion tools (**Article XIII-C** (*Autonomous Lethal Systems and Autonomous Coercion Tools*)).
+
+- **Non-conflation:** **Article XIII** governs exceptional institutional power — covert intelligence and security activity under **Article XIII-A**, overt use of force and military-power deployment under **Article XIII-B**, and autonomous lethal systems and autonomous coercion tools under **Article XIII-C** — in their respective operational senses. It does **not** govern **irreversible deprivation of life imposed by a state or comparable actor as a justice measure or comparable non-combat outcome**. Such deprivation is categorically prohibited under **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*) and **Chapter Five** *[Irreversible Deprivation Measure](core_05a_accountability_definitions.md#irreversible-deprivation-measure-constitutional)*. That prohibition is structurally distinct from this Article. Nothing in **Article XIII** authorizes, legitimizes, broadens, or supplies a constitutional predicate for any irreversible deprivation measure — whether decided by a human operator, an autonomous system, or a hybrid human–system pipeline. No combat framing, emergency framing, use-of-force classification, covert-power routing, or autonomous-systems delegation may recast an irreversible justice-measure killing as power governed here. Conversion of a covert, force, autonomous-systems, or coercion-tool **context** into a justice-measure outcome returns the question to **Article XXIII-B** and *Irreversible Deprivation Measure*, without read-across from this Article.
 
 *Article neighbors:*
 
@@ -375,7 +407,7 @@ This Article states the Rights-Floor for **exceptional institutional power**: co
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter One [4.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [8.1.2 Necessity](core_01_a_values_principles.md#612-necessity), [§5.1 Limitation Discipline](core_01_a_values_principles.md#51-limitation-discipline), [§6.3.1 Rights-Collision Decision Test](#631-rights-collision-decision-test), [8. Prohibition on Absolute Override](#7-prohibition-on-absolute-override).
-- Downstream: **Article I-A** (*Environmental Preconditions and Ecological Integrity*) environmental preconditions, **Article I-D** (*Existential Risk and Ecological Recovery Capacity*) existential-risk scrutiny, **Article V-A** (*Dignity and Equal Moral Standing*) dignity, **Article XIII-A** (*Security, Intelligence, and Covert-Power Limits*) covert-power limits (overt-power counterpart), **Article XXIII-D** (*Emergency Measures and Continuation Burden*) emergency-measure limits, **Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*) conflict resolution, **Article XXV** (*Transition Governance, Continuity, and Re-Baselining*) transition governance. Cross-reference: **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*) and Chapter Five *[Irreversible Deprivation Measure](core_05a_accountability_definitions.md#irreversible-deprivation-measure-constitutional)* — this article does not create, extend, or predicate irreversible deprivation-measure authority; see *Non-Conflation* below.
+- Downstream: **Article I-A** (*Environmental Preconditions and Ecological Integrity*) environmental preconditions, **Article I-D** (*Existential Risk and Ecological Recovery Capacity*) existential-risk scrutiny, **Article V-A** (*Dignity and Equal Moral Standing*) dignity, **Article XIII-A** (*Security, Intelligence, and Covert-Power Limits*) covert-power limits (overt-power counterpart), **Article XXIII-D** (*Emergency Measures and Continuation Burden*) emergency-measure limits, **Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*) conflict resolution, **Article XXV** (*Transition Governance, Continuity, and Re-Baselining*) transition governance. Cross-reference: **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*) and Chapter Five *[Irreversible Deprivation Measure](core_05a_accountability_definitions.md#irreversible-deprivation-measure-constitutional)* — Article XIII *Non-conflation* discipline applies.
 - Read with: [Chapter Five Chapter One §8.16 *Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm*](core_05a_accountability_definitions.md#use-of-force-autonomous-coercion-and-mass-harm-cluster) (joint invocation where materially implicated); Chapter Five *Use of Force*, *Weapons of Mass Harm*, *Combatant / Non-Combatant Distinction*, *[Irreversible Deprivation Measure](core_05a_accountability_definitions.md#irreversible-deprivation-measure-constitutional)*, *Existential Risk*, *Reversibility*, *Redress and Remediation*.
 
 </details>
@@ -425,12 +457,6 @@ This Article states the Rights-Floor for **exceptional institutional power**: co
   - **Article XV** (*Audit, Transparency, and Independent Verification*) independent-verification and **Article XVIII-C** (*Good Standing, Responsibility, and Continuous Audit*) continuous-audit **practice** apply.
   - Information used to authorize or conduct force is subject to **Article XIII-A** (*Security, Intelligence, and Covert-Power Limits*) taint and remedy discipline where relevant.
   - Sole control by operational-force bodies over authorization, review, and legality assessment for their own conduct is prohibited on the same terms as **Article XIII-A** (*Security, Intelligence, and Covert-Power Limits*).
-- **Non-conflation:** This Article governs the *overt use of force* — security, conflict, and military-power deployment in their ordinary operational sense.
-  - It does **not** govern **irreversible deprivation of life imposed by a state or comparable actor as a justice measure or comparable non-combat outcome**.
-  - Such deprivation is categorically prohibited under **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*) and is governed together with **Chapter Five** *[Irreversible Deprivation Measure](core_05a_accountability_definitions.md#irreversible-deprivation-measure-constitutional)*.
-  - That prohibition is structurally distinct from this Article. No combat framing, emergency framing, or use-of-force classification may recast an irreversible justice-measure killing as ordinary use of force.
-  - Nothing in this Article authorizes, legitimizes, or supplies a legal predicate for any irreversible deprivation measure by a state or comparable actor.
-  - Conversion of a combat or use-of-force **context** into a justice-measure outcome returns the question to **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*) and *Irreversible Deprivation Measure*, without read-across from this Article.
 
 #### Article XIII-C: Autonomous Lethal Systems and Autonomous Coercion Tools
 
@@ -438,7 +464,7 @@ This Article states the Rights-Floor for **exceptional institutional power**: co
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter One [4.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [5. Trust](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity), [8.1.1 Proportionality](core_01_a_values_principles.md#611-proportionality), [8.1.2 Necessity](core_01_a_values_principles.md#612-necessity), [7.3.1 Alignment Requirement](core_01_b_stewardship_capacity_principles.md#1021-alignment-requirement), [8. Prohibition on Absolute Override](#7-prohibition-on-absolute-override).
-- Downstream: **Article I-D** (*Existential Risk and Ecological Recovery Capacity*) existential-risk scrutiny, **Article IX-A** (*Agency and Freedom from Manipulation*) freedom from manipulation, **Article XIII-A** (*Security, Intelligence, and Covert-Power Limits*) covert-power limits, **Article XIII-B** (*Use of Force, Armed Conflict, and Military-Power Limits*) overt-force floor, **Article XII-A** (*Reliability and Trustworthiness Baseline*) reliability and trustworthiness baseline (systems-layer counterpart), **Article XII-E** (*High-Autonomy Systems and Tool-Mediated Process Integrity*) autonomy-stewardship and autonomy-scaling, **Article XII-F** (*Resilience and Self-Healing Baseline*) resilience and self-healing baseline. Cross-reference: **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*) and Chapter Five *[Irreversible Deprivation Measure](core_05a_accountability_definitions.md#irreversible-deprivation-measure-constitutional)* — this Article does not authorize, broaden, or supply a constitutional predicate for irreversible deprivation measures; see *Non-Conflation* below.
+- Downstream: **Article I-D** (*Existential Risk and Ecological Recovery Capacity*) existential-risk scrutiny, **Article IX-A** (*Agency and Freedom from Manipulation*) freedom from manipulation, **Article XIII-A** (*Security, Intelligence, and Covert-Power Limits*) covert-power limits, **Article XIII-B** (*Use of Force, Armed Conflict, and Military-Power Limits*) overt-force floor, **Article XII-A** (*Reliability and Trustworthiness Baseline*) reliability and trustworthiness baseline (systems-layer counterpart), **Article XII-E** (*High-Autonomy Systems and Tool-Mediated Process Integrity*) autonomy-stewardship and autonomy-scaling, **Article XII-F** (*Resilience and Self-Healing Baseline*) resilience and self-healing baseline. Cross-reference: **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*) and Chapter Five *[Irreversible Deprivation Measure](core_05a_accountability_definitions.md#irreversible-deprivation-measure-constitutional)* — Article XIII *Non-conflation* discipline applies.
 - Read with: [Chapter Five Chapter One §8.16 *Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm*](core_05a_accountability_definitions.md#use-of-force-autonomous-coercion-and-mass-harm-cluster) (joint invocation where materially implicated); Chapter Five *Autonomous Lethal System*, *Autonomous Coercion Tool*, *[Irreversible Deprivation Measure](core_05a_accountability_definitions.md#irreversible-deprivation-measure-constitutional)*, *Coercion and Manipulation*, *Reversibility*. Systems-layer implementation: **[corpus_systems.md](corpus_systems.md), CS-4 — System classification and handling** classification.
 
 </details>
@@ -483,11 +509,6 @@ This Article states the Rights-Floor for **exceptional institutional power**: co
 - **Systems-layer interaction:** Operational classification, reliability, and **CS-4 — System classification and handling** class-scaled governance route to the systems layer — **Article XII-A** (*Reliability and Trustworthiness Baseline*) baseline and **[corpus_systems.md](corpus_systems.md), CS-4 — System classification and handling**.
   - The systems-layer routing does not narrow the Rights-Floor stated here.
   - Conflicts resolve under **Chapter One §6.3.1** without narrowing the Rights Floor.
-- **Non-conflation:** This Article sets heightened-scrutiny floor discipline for autonomous lethal systems and autonomous coercion tools. It does **not** govern **irreversible deprivation of life imposed by a state or comparable actor as a justice measure or comparable non-combat outcome**.
-  - Nothing in this Article authorizes such deprivation, broadens any existing authority to impose it, or supplies a constitutional predicate for it.
-  - This rule holds whether the decision is made by a human operator, by an autonomous system, or by a hybrid human–system pipeline. Automating, delegating, or routing the decision through an autonomous system does not create a read-across into this Article.
-  - Any such measure is categorically prohibited under **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*) and is governed together with **Chapter Five** *[Irreversible Deprivation Measure](core_05a_accountability_definitions.md#irreversible-deprivation-measure-constitutional)*, without read-across from this Article.
-  - Conversion of an autonomous-systems, force, or coercion-tool **context** into a justice-measure outcome returns the question to **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*) and *Irreversible Deprivation Measure*, without read-across from this Article.
 
 ### Article XIV: Info-Sphere Integrity
 
