@@ -56,7 +56,7 @@ Adjudication and dispute resolution in the constitutional sense are defined in *
 
 *Article neighbors:*
 
-- **Timeliness floor:** Resolution velocity, anti-delay discipline, and materiality-tier milestones are governed by **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*).
+- **Timeliness floor:** Resolution velocity, anti-delay discipline, and materiality-tier milestones are governed by **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*), implemented through [Chapter Eleven §10](core_11-11_forum.md#10-timely-resolution-materiality-tiers-and-anti-delay-discipline).
 - **Timely redress:** Read with [**Article XII-B** (*Right to Challenge, Review, and Redress*)](core_06-06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress) (*timely redress access*).
 
 Adopted governance implementation provides escalation, proportionality of intervention, emergency boundaries, and tier-default timing windows. It must not narrow practical access, reviewability, restoration, timely resolution, or Rights-Floor constraints under this Article.
@@ -222,7 +222,7 @@ Adopted governance implementation provides escalation, proportionality of interv
   - **Chapter One**-consistent justification (**Necessity** and **Proportionality**);
   - **documented independent reauthorization**;
   - **Chapter Sixteen** procedures where permanence would amend or newly bind the adopted corpus.
-### Article XXIV: Retrospective Review, Restorative Alignment, and Timely Resolution
+### Article XXIV: Timely Retrospective Review and Restorative Alignment
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
@@ -236,14 +236,15 @@ Adopted governance implementation provides escalation, proportionality of interv
 
 <br>
 
-*In plain terms: **Article XXIV** is the review-and-resolution companion to **Article XXIII**. After emergencies or serious rights conflicts, systems must look back honestly, disclose what can be disclosed, resolve rights collisions on the record, keep restoration tied to real protection, and move remedies quickly enough to matter.*
+*In plain terms: **Article XXIV** is the review-and-resolution companion to **Article XXIII**. After emergencies or serious rights conflicts, systems must look back honestly, disclose what can be disclosed, resolve rights collisions on the record, and keep restoration tied to real protection — on clocks that match what's at stake. [Timeliness](core_05a_accountability_definitions.md#timeliness-constitutional) binds each step: without it, the other duties hollow out while harm sits unresolved.*
 
 This Article applies the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) to the resolution lifecycle after or alongside the intervention rules in **Article XXIII**:
 
-- **oversight** through retrospective review and auditability;
-- **participation** through usable rights-collision and restorative-alignment pathways;
-- **accountability** through reasoned records, proportionate remediation, and non-substitution of symbolic repair;
-- **timeliness** through materiality-scaled clocks and anti-delay discipline.
+- **oversight** through retrospective review and auditability (**Article XXIV-A**);
+- **participation** through usable rights-collision and restorative-alignment pathways (**Article XXIV-B**);
+- **accountability** through reasoned records, proportionate remediation, and non-substitution of symbolic repair (**Article XXIV-B**).
+
+[Timeliness](core_05a_accountability_definitions.md#timeliness-constitutional) cross-cuts and enforces the legs above: material problems must move within materiality-scaled windows under **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*). Formal participation, oversight, or accountability structures do not satisfy this Article if review, collision resolution, or remedy stalls without lawful justification ([Timeliness](core_05a_accountability_definitions.md#timeliness-constitutional-e), Chapter Five).
 
 #### Article XXIV-A: Retrospective Review and Disclosure
 <details>
@@ -321,6 +322,7 @@ This Article applies the [Constitutional Tetrad](core_00_preamble.md#constitutio
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter One [§13.2 Constitutional Efficiency](core_01_b_stewardship_capacity_principles.md#112-constitutional-efficiency), [Chapter One §6.1.2 Minimization of Avoidable Burden](core_01_a_values_principles.md#612-minimization-of-avoidable-burden), and [Chapter One §6.3 Rights-Collision Procedure](core_01_a_values_principles.md#63-rights-collision-procedure); [Chapters Eight–Eleven constitutional compass](core_08-08_standing_assessment.md#chapters-eight-eleven-constitutional-compass) (*standing, integration, and forum coordination pipeline*).
+- Downstream: [Chapter Eleven §10](core_11-11_forum.md#10-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*materiality tiers, pipeline milestones, and anti-delay discipline*).
 
 </details>
 
@@ -338,35 +340,14 @@ This Article applies the [Constitutional Tetrad](core_00_preamble.md#constitutio
 
 <br>
 
-*In plain terms: constitutional problem resolution is a coordination and restoration system — quick, efficient, and just — not a warehouse where harm sits for years. Material disputes must move on bounded clocks through intake, verification, standing classification, integration, and remedy. Speed never excuses skipping verification, individualized attribution, or appeal rights.*
+*In plain terms: constitutional problem resolution is a coordination and restoration system — quick, efficient, and just — not a warehouse where harm sits for years. Material disputes must move on bounded clocks through intake, verification, standing classification, integration, and remedy. Moving quickly is not an excuse to skip fact-checking, punish the wrong person, offer a fix that does not fit the harm, or cut off challenge and appeal.*
 
 - **Coordination purpose:** Constitutional justice under **Article XXIII-A** (*Justice Objective and Scope*) operates through a **constitutional coordination and resolution system** — verify facts, classify standing, integrate consequences, and restore where feasible — not through indefinite adversarial delay, reputation scoring, or punishment for its own sake.
 - **Three joint requirements:** Material resolution pathways must be **timely**, **efficient**, and **just** together:
   - **Timely** — bounded clocks scaled to [material stake](core_00_preamble.md#material-stake) and harm urgency;
   - **Efficient** — [Constitutional Efficiency](core_05c_continuity_definitions.md#constitutional-efficiency) in the sense of Chapter One [§13.2](core_01_b_stewardship_capacity_principles.md#112-constitutional-efficiency) — real constitutional outcome per sentient time and shared effort consumed, not raw throughput or docket-clearing;
-  - **Just** — **Article XXIII-A** (*Justice Objective and Scope*), **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*), and **Article XXIII-C** (*Least-Restrictive and Time-Bounded Rule*) remain fully applicable; speed must not bypass verified-input gates ([Chapter Eight §14.3.2](core_08-08_standing_assessment.md#verified-inputs-for-standing)), individualized attribution, proportionate remedy, or core challenge and appeal rights.
-- **Materiality tiers.** Adopters must classify each material dispute into one tier under [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination) and apply the default windows below unless a narrower window is required by **Rights-Floor** urgency or a documented extension is authorized under **Article XXIII-D** (*Continuation discipline*):
-  - **Tier A — imminent or dependency-vulnerable ongoing harm** (for example acute care-duty failure, ongoing violence, or participation-barrier injury in dependency-asymmetric settings): lawful **interim protection** must be available without waiting for full merits; intake, acknowledgment, and evidence preservation must begin **within days**, not weeks, unless [Force Majeure](core_05a_accountability_definitions.md#force-majeure-constitutional) or a documented safety constraint prevents it;
-  - **Tier B — material rights impact, non-imminent** (for example discrimination patterns, misaligned business harm, or remediable institutional misconduct): intake and primary-stakes routing **within days**; preliminary verified disposition, standing classification, or equivalent merits milestone **within weeks**, not months, unless a documented tier-appropriate extension is authorized;
-  - **Tier C — complex multi-party, cross-border, or final top-slot review** (for example **Chapter Ten** **Violation Axis s = 7, 8, or 9** assignment where applicable): extension is permitted only under **Article XXIII-D** (*Emergency Measures and Continuation Burden*) continuation discipline; integrated remedy commencement, lawful supersession, or documented final disposition must not remain indefinitely pending.
-- **Pipeline-stage milestones.** For disputes routed through **Chapters Eight through Eleven**, adopters must publish sentient-accessible default windows for each stage, scaled to tier:
-  1. forum access and intake;
-  2. evidence preservation;
-  3. verified finding and **standing record** opening under **Chapter Eight section 2**;
-  4. **Question 1** classification under **Chapter Eight section 3**;
-  5. **Question 2** integration under **Chapter Nine**;
-  6. remedy commencement under **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*) and applicable redress rules.
-
-Overrun without documented tier-appropriate extension, escalation, or interim relief triggers review and is non-compliant where it foreseeably prolongs ongoing harm or nullifies redress.
-- **Outer bound:** Adopted instruments must publish tier outer bounds for integrated resolution. Those bounds must favor **days and weeks over months and years** for Tiers A and B. Tier C outer bounds must not exceed **one year** absent reauthorization under **Article XXIII-D** (*Emergency Measures and Continuation Burden*) showing continuing necessity, proportionality, and absence of less-restrictive feasible alternatives.
-- **Anti-delay floor:** The following are non-compliant where they foreseeably nullify rights, remedies, or timely protection:
-  - designed backlog, chronic underfunding, or inaccessible intake that defeats **Article XII-B** (*Right to Challenge, Review, and Redress*) practical access;
-  - delay regimes designed to exhaust claimants;
-  - self-created delay, procedural layering, forum shopping, or record fragmentation used to prolong resolution without milestone justification;
-  - treating allegations as verified standing inputs to buy time ([Chapter Eight §14.3.2](core_08-08_standing_assessment.md#verified-inputs-for-standing));
-  - [Capture of Resolution Pathways](core_05a_accountability_definitions.md#capture-of-resolution-pathways) through delay, opacity, or resolver bias;
-  - efficiency claims that skip verification, individualized attribution, or appeal rights contrary to Chapter One [§13.2](core_01_b_stewardship_capacity_principles.md#112-constitutional-efficiency).
-- **Implementation defaults:** Numeric tier-default windows and stage tables belong in adopted **`corpus_forum.md`** and **`corpus_institutions.md`** text within incorporation scope. Those defaults must implement this Article and must not narrow **Article XII-B** (*Right to Challenge, Review, and Redress*), **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*), or **Article XXIII-C** (*Least-Restrictive and Time-Bounded Rule*). Default floor tables: [CF-11.3.1](../corpus_forum/cf_11_performance_backlog_publication_accessibility.md#cf-1131-target-windows-and-timing-floors). Domain walkthroughs: [Chapters Eight–Eleven application vignettes](../core_08-11_application_vignettes.md#chapters-eight-eleven-application-vignettes).
+  - **Just** — **Article XXIII-A** (*Justice Objective and Scope*), **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*), and **Article XXIII-C** (*Least-Restrictive and Time-Bounded Rule*) remain fully applicable; moving quickly is not an excuse to skip checked facts ([Chapter Eight §14.3.2](core_08-08_standing_assessment.md#verified-inputs-for-standing)), punish the wrong person, offer a fix that does not fit the harm, or cut off challenge and appeal.
+- **Forum and pipeline supervision:** Materiality-tier classification, pipeline-stage milestones, integrated-resolution outer bounds, overrun review, and anti-delay discipline for disputes routed through **Chapters Eight through Eleven** are governed by [Chapter Eleven §10](core_11-11_forum.md#10-timely-resolution-materiality-tiers-and-anti-delay-discipline), subject to this Article's timely, efficient, and just floor. Numeric tier-default windows and stage tables: [CF-11.3.1](../corpus_forum/cf_11_performance_backlog_publication_accessibility.md#cf-1131-target-windows-and-timing-floors). Domain walkthroughs: [Chapters Eight–Eleven application vignettes](../core_08-11_application_vignettes.md#chapters-eight-eleven-application-vignettes).
 
 ### Article XXV: Constitutional Evolution and Non-Entrenchment
 

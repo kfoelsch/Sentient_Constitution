@@ -780,7 +780,7 @@ Dimensions decompose verified findings; they do **not** replace the Violation Ax
 
 Article XXIII-B/C, the verified-input gate ([Ch6 §14.3.2](core_08-08_standing_assessment.md#verified-inputs-for-standing)), and the no-substitution rule ([Chapter One §8.2](#62-joint-assessment-escalation-constraints-and-scrutiny)) apply in every example.
 
-Domain-scale pipeline walkthroughs with **Article XXIII-G** milestone tables: [Chapters Eight–Eleven application vignettes](core_08-11_application_vignettes.md#chapters-eight-eleven-application-vignettes).
+Domain-scale pipeline walkthroughs with **Article XXIV-C** milestone tables: [Chapters Eight–Eleven application vignettes](core_08-11_application_vignettes.md#chapters-eight-eleven-application-vignettes).
 
 <a id="violation-axis-slot-lock-and-attachment-compass"></a>
 
@@ -1170,7 +1170,7 @@ Where multiple descriptors apply, the **primary** **harm** route **or** **primar
 
 - Upstream: [§3.0](#30-non-recurrence-evaluation-and-integration-examples) (*integration sequence*); [Ch6 §3](core_08-08_standing_assessment.md#6-classification-evaluation-dimensions) (*violation Question 1 — classification*); [Standing lock context compass](#standing-lock-context-compass); [§1.3](#standing-locks-in-the-standing-model) (*standing lock record requirements*).
 - Downstream: [Chapter One §8.10](#210-safe-delegation-competency-gate-dimensions); [Chapter One §8.1](#38-standing-integration-contribution-and-violation-nature); [Chapter One §8.2](#62-joint-assessment-escalation-constraints-and-scrutiny); [§3.3](#standing-integration-slot-band-standing-locks); [Chapter One §6.3](#54-anti-evasion-and-look-through-authority) (*anti-evasion enforcement*).
-- Read with: [Chapter One §8.10](#210-safe-delegation-competency-gate-dimensions) (*symmetric contribution-side Question 2*); [Harm-route descriptors — Question 2 integration role](#harm-route-descriptors-q2-integration); [Ch6 §3 — dual-use classification hooks](core_08-08_standing_assessment.md#dual-use-classification-dimensions); [Timeliness](core_05a_accountability_definitions.md#timeliness-constitutional); **Article XXIII-G**.
+- Read with: [Chapter One §8.10](#210-safe-delegation-competency-gate-dimensions) (*symmetric contribution-side Question 2*); [Harm-route descriptors — Question 2 integration role](#harm-route-descriptors-q2-integration); [Ch6 §3 — dual-use classification hooks](core_08-08_standing_assessment.md#dual-use-classification-dimensions); [Timeliness](core_05a_accountability_definitions.md#timeliness-constitutional); **Article XXIV-C**.
 
 </details>
 
@@ -1184,7 +1184,7 @@ Where multiple descriptors apply, the **primary** **harm** route **or** **primar
 
 | **Dimension** | **Q2 lock effect** | **Typical lock posture** ([context compass](#standing-lock-context-compass)) |
 | --- | --- | --- |
-| **Remedy commencement / pipeline delay** | Escalated scrutiny when remedy or integration milestones exceed **Article XXIII-G** tier windows | **Correction** or **Restriction** band; may overlay **Recurrence-persistence lock** when delay compounds harm |
+| **Remedy commencement / pipeline delay** | Escalated scrutiny when remedy or integration milestones exceed [Chapter Eleven §10](core_11-11_forum.md#10-timely-resolution-materiality-tiers-and-anti-delay-discipline) tier windows | **Correction** or **Restriction** band; may overlay **Recurrence-persistence lock** when delay compounds harm |
 | **Pattern / recurrence after notice or after remediation** | Lock may persist after remediation otherwise complete | **Recurrence-persistence lock** |
 | **Ongoing safety / ordinary-participation risk** | Protective removal from unsafe participation until conditions met | **Protective participation lock** |
 | **Concealment / evasion / look-through need** | Escalated scrutiny; durable restriction tied to verified evasion | **Concealment / evasion escalated lock** |
@@ -1418,7 +1418,7 @@ For final Chapter Ten anti-constitutional misconduct, the **Anti-Constitutional 
 
 - Upstream: [§4](#8-cross-axis-coupling-and-escalation-constraints), including [Chapter One §8.2](#62-joint-assessment-escalation-constraints-and-scrutiny) and [§3.3](#standing-integration-slot-band-standing-locks) (*classification stack, non-substitution discipline, and standing locks*).
 - Downstream: [Chapter Thirteen §1](core_13-15_amendment.md#4-disputes-involving-external-legal-orders) (*external-order disputes read with cross-jurisdiction continuity*); **[corpus_systems.md](corpus_systems.md)** and implementation text (*operational detail for these anchors*).
-- Read with: [Chapter Five — Redress and Remediation](core_05a_accountability_definitions.md#redress-and-remediation-constitutional) (*remedy-organ durability hook*); [Article XII-B](core_06-06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress) (*challenge and redress access*); [Article XXIII-G](core_06-06_rights_part_d.md#article-xxiii-g-timely-resolution-and-anti-delay-floor) (*timely resolution tier milestones*).
+- Read with: [Chapter Five — Redress and Remediation](core_05a_accountability_definitions.md#redress-and-remediation-constitutional) (*remedy-organ durability hook*); [Article XII-B](core_06-06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress) (*challenge and redress access*); [Chapter Eleven §10](core_11-11_forum.md#10-timely-resolution-materiality-tiers-and-anti-delay-discipline) and [Article XXIV-C](core_06-06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor) (*timely resolution tier milestones*).
 
 </details>
 
@@ -1455,7 +1455,7 @@ Adopted implementation may specify funding mechanisms, asset recovery, insurance
 
 Forums, oversight bodies, complaint offices, technical review bodies, and rights-sensitive administrative systems must have enough staffing, funding, independence, records capacity, and succession planning to make challenge and redress access meaningful. Chronic underfunding, designed backlog, inaccessible intake, or dependency on a single fragile office can itself evidence constitutional non-compliance where it foreseeably nullifies rights or remedies.
 
-Capacity duties scale with risk, volume, vulnerability, and rights sensitivity. Systems such as child protection, environmental enforcement, benefits administration, detention oversight, public-health response, and comparable high-impact systems require durable remedy organs capable of timely intake, preservation, review, and enforcement. Those organs must meet **Article XXIII-G** tier milestones and pipeline-stage windows; chronic failure to do so is non-compliance under **Article XII-B** and this section.
+Capacity duties scale with risk, volume, vulnerability, and rights sensitivity. Systems such as child protection, environmental enforcement, benefits administration, detention oversight, public-health response, and comparable high-impact systems require durable remedy organs capable of timely intake, preservation, review, and enforcement. Those organs must meet [Chapter Eleven §10](core_11-11_forum.md#10-timely-resolution-materiality-tiers-and-anti-delay-discipline) tier milestones and pipeline-stage windows; chronic failure to do so is non-compliance under **Article XII-B** and this section.
 
 #### 5.3 Cross-jurisdiction continuity
 

@@ -38,7 +38,7 @@ This section applies to all forum families recognized in `core_11-11_forum.md` *
 
 CF-11 governs forum performance as a practical condition of **Contestability**, remedy, publication, and access. A forum that is formally available but too delayed, opaque, inaccessible, inaccurate, or self-damaging to use is not performing its constitutional function.
 
-This section implements **Article XXIII-G** (*Timely Resolution and Anti-Delay Floor*) within forum operations. Adopters may calibrate family-specific numbers above these defaults where **Proportionality** and published justification support it; they must not publish slower defaults for **Rights-Floor**-urgent matters.
+This section implements **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*) within forum operations. Adopters may calibrate family-specific numbers above these defaults where **Proportionality** and published justification support it; they must not publish slower defaults for **Rights-Floor**-urgent matters.
 
 This section does not displace stricter lawful deadlines.
 
@@ -201,12 +201,12 @@ Each matter must remain traceable across the service lifecycle:
 
 
 Minimum urgency levels for target windows and disclosure are:
-- **Emergency / imminent harm** — hours to a small number of days for initial responsive action where life, serious injury, or irreversible rights loss is at stake. Map to **Article XXIII-G Tier A**.
-- **Survival-critical** — access to essentials, shelter, or lawful livelihood tools; priority routing and short review cycles. Map to **Article XXIII-G Tier A** where dependency-vulnerable ongoing harm is verified or credibly alleged pending preservation.
-- **High-impact** — durable standing, systemic pattern, or large affected population; stronger publication and remediation duties when delay crosses published thresholds. Map to **Article XXIII-G Tier B** unless Tier A urgency is independently present.
-- **Structural or class-wide** — matters affecting forum design, class-wide treatment, repeated pathway failure, or large-pattern institutional behavior; publish aging and remediation data in forms that expose aggregate delay. Map to **Article XXIII-G Tier C** when cross-party, cross-border, or final **Chapter Ten** top-slot review dominates.
+- **Emergency / imminent harm** — hours to a small number of days for initial responsive action where life, serious injury, or irreversible rights loss is at stake. Map to **Article XXIV-C Tier A**.
+- **Survival-critical** — access to essentials, shelter, or lawful livelihood tools; priority routing and short review cycles. Map to **Article XXIV-C Tier A** where dependency-vulnerable ongoing harm is verified or credibly alleged pending preservation.
+- **High-impact** — durable standing, systemic pattern, or large affected population; stronger publication and remediation duties when delay crosses published thresholds. Map to **Article XXIV-C Tier B** unless Tier A urgency is independently present.
+- **Structural or class-wide** — matters affecting forum design, class-wide treatment, repeated pathway failure, or large-pattern institutional behavior; publish aging and remediation data in forms that expose aggregate delay. Map to **Article XXIV-C Tier C** when cross-party, cross-border, or final **Chapter Ten** top-slot review dominates.
 - **Restricted-evidence** — matters where lawful secrecy, protected investigation, or restricted evidence affects processing; track delay separately so secrecy constraints do not conceal timing failure. May justify **Tier C** extension only under documented **Article XXIII-D** continuation discipline.
-- **Ordinary** — default class for contested civil and administrative matters. Map to **Article XXIII-G Tier B** unless facts support a higher tier.
+- **Ordinary** — default class for contested civil and administrative matters. Map to **Article XXIV-C Tier B** unless facts support a higher tier.
 - **Low-impact** — may use longer targets only where **Proportionality** supports it and challenge rights stay meaningful.
 
 Performance tracking must use these urgency levels as the minimum reporting taxonomy for target windows, open-case aging, accuracy indicators, accessibility and publication performance, forum-damage ratings, constitutional-alignment scores, threshold crossings, and remediation records.
@@ -296,7 +296,7 @@ Forum-damage ratings must identify severity, affected population, reversibility,
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Eleven](../core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) forum-family routing; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
+- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Eleven §10](../core_11-11_forum.md#10-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*materiality tiers and pipeline milestones*); [Article XXIV-C](../core_06-06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor); [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: this section's local operational requirements for **CF-11.3.1 Target windows and timing floors**.
 - Read with: **CF-11.3.1**; **CF-11.2**; **CF-11.3**; **CF-11.3.2**.
 
@@ -325,7 +325,7 @@ If a system cannot yet justify its own calibrated numbers, the interim default s
 - recusal and backup-activation windows short enough that the independence dispute does not itself defeat meaningful remedy;
 - publication windows short enough that challenge rights remain real before practical effect hardens.
 
-**Article XXIII-G tier-default windows (adopter floor).** Until a forum family publishes calibrated targets, the following **maximum** windows apply from the triggering event (filing, protected report, or lawful agency referral) unless a narrower window is required by **Rights-Floor** urgency or **Force Majeure** is documented:
+**Article XXIV-C tier-default windows (adopter floor).** This table implements [Chapter Eleven §10](../core_11-11_forum.md#10-timely-resolution-materiality-tiers-and-anti-delay-discipline) and **Article XXIV-C**. Until a forum family publishes calibrated targets, the following **maximum** windows apply from the triggering event (filing, protected report, or lawful agency referral) unless a narrower window is required by **Rights-Floor** urgency or **Force Majeure** is documented:
 
 | **Pipeline stage** | **Tier A** (imminent / dependency-vulnerable) | **Tier B** (material, non-imminent) | **Tier C** (complex / top-slot / cross-border) |
 | --- | --- | --- | --- |
