@@ -1177,7 +1177,7 @@ It must remain distinct from:
 *Article neighbors:*
 
 - **Owner layers:** [Chapter Eight](core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) and [Chapter Nine](core_09-09_standing_integration.md#chapter-nine-standing-effects-and-integration) classify standing records and standing effects; this Article states Rights-Floor limits those layers must not narrow.
-- **Read together:** **Article V-A** (*Dignity and Equal Moral Standing*) and **Article XI** (*Stakeholder System Participation, Representation, and Due Process*) — standing criteria must not substitute for dignity or stakeholder existence; **Article III-A** (*Survival*) — participant standing alone must not foreclose survival-critical access; **Article XIX** (*Interoperability, Portability, and Exit Integrity*) — operational counterpart to **Article XVIII-D** (*Movement, Migration, and Refuge*) without either narrowing the other.
+- **Read together:** **Article V-A** (*Dignity and Equal Moral Standing*) and **Article XI** (*Stakeholder System Participation, Representation, and Due Process*) — standing criteria must not substitute for dignity or stakeholder existence; **Article III-A** (*Survival*) — participant standing alone must not foreclose survival-critical access; **Article XIX** (*Interoperability, Portability, Movement, Refuge, and Exit Integrity*) governs movement, migration, refuge, portability, non-statelessness, and exit integrity without narrowing this Article.
 
 #### Article XVIII-A: Standing Distinction
 <details>
@@ -1295,84 +1295,66 @@ It must remain distinct from:
   
   Operational implementation lives in **Chapter Twelve Chapter One §8.1** (*Durable political-voice floor*).
 
-#### Article XVIII-D: Movement, Migration, and Refuge
+<a id="article-xviii-d-movement-migration-and-refuge"></a>
+
+#### Article XVIII-D: Movement, Migration, Refuge, and Non-Statelessness Routing
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [4.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [Chapter One §5 Freedom](#5-freedom-bounded-agency)-bounded-agency), [8.1.1 Proportionality](core_01_a_values_principles.md#611-proportionality), [§5.1 Limitation Discipline](core_01_a_values_principles.md#51-limitation-discipline).
-- Downstream: **Article V-A** (*Dignity and Equal Moral Standing*) dignity floor, **Article V-B** (*Nondiscrimination*) non-discrimination, **Article XI** (*Stakeholder System Participation, Representation, and Due Process*) stakeholder participation, **Article XVIII** (*Standing and Participation Status*) standing and participation status, **Article XIX** (*Interoperability, Portability, and Exit Integrity*) interoperability and exit integrity (operational counterpart), **Article XXIII-D** (*Emergency Measures and Continuation Burden*) emergency-measure limits, **Article XXV** (*Transition Governance, Continuity, and Re-Baselining*) transition governance.
-- Read with: Chapter Five [**Chapter One §8.24** *Movement, Refuge, Non-Statelessness, and Exit Integrity*](core_05o_oversight_definitions.md#movement-refuge-semi-independent); *Movement and Relocation*, *Refuge from Non-Compliance*, *Non-Statelessness*, *Sentience Non-Exclusion*; *Systemic Lock-In* and *Tenure Security* where exit, hosting termination, eviction, or substantive relocation is materially implicated.
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
-
-- [Movement and Relocation](core_05p_participation_definitions.md#movement-and-relocation-constitutional) · [O](core_05p_participation_definitions.md#movement-and-relocation-constitutional) · [E](core_05p_participation_definitions.md#movement-and-relocation-constitutional-e) · [C](core_05p_participation_definitions.md#movement-and-relocation-constitutional-c)
-- [Refuge from Non-Compliance](core_05p_participation_definitions.md#refuge-from-non-compliance-constitutional) · [O](core_05p_participation_definitions.md#refuge-from-non-compliance-constitutional) · [E](core_05p_participation_definitions.md#refuge-from-non-compliance-constitutional-e) · [C](core_05p_participation_definitions.md#refuge-from-non-compliance-constitutional-c)
-- [Non-Statelessness](core_05p_participation_definitions.md#non-statelessness-constitutional) · [O](core_05p_participation_definitions.md#non-statelessness-constitutional) · [E](core_05p_participation_definitions.md#non-statelessness-constitutional-e) · [C](core_05p_participation_definitions.md#non-statelessness-constitutional-c)
-- [Systemic Lock-In](core_05c_continuity_definitions.md#systemic-lock-in) · [O](core_05c_continuity_definitions.md#systemic-lock-in) · [E](core_05c_continuity_definitions.md#systemic-lock-in-e) · [C](core_05c_continuity_definitions.md#systemic-lock-in-c)
-- [Tenure Security](core_05c_continuity_definitions.md#tenure-security-constitutional) · [O](core_05c_continuity_definitions.md#tenure-security-constitutional) · [E](core_05c_continuity_definitions.md#tenure-security-constitutional-e) · [C](core_05c_continuity_definitions.md#tenure-security-constitutional-c)
+- Read with: **Article XIX-D** (*Movement, Migration, Refuge, and Non-Statelessness*) and **Article XIX** (*Interoperability, Portability, Movement, Refuge, and Exit Integrity*).
 
 </details>
 
 <br>
 
-*In plain terms: every sentient may move between jurisdictions, may seek refuge from regimes that violate this Constitution, and may not be rendered stateless. Bureaucratic delay and substrate-class framings cannot be used as hidden denials.*
+*In plain terms: standing status is not a border, exile, or statelessness tool. If a case involves movement, migration, refuge, portability, recognition, or exit, Article XIX supplies the governing floor.*
 
-- **Movement and relocation floor:** All sentients hold the right to move within and between jurisdictions, federations, and adopter regimes, and to relocate where continued presence materially impairs:
-  - survival;
-  - dignity;
-  - Rights-Floor access;
-  - freedom from manipulation.
-  
-  The floor applies under **Sentience Non-Exclusion**.
-  - Movement includes:
-    - physical movement for biological sentients;
-    - operationally equivalent forms for synthetic and hybrid sentients (relocation of instance, hosting-substrate change, or equivalent), subject to **Chapter One** safety and continuity constraints.
-- **Refuge from non-compliance:** A sentient facing a jurisdiction, federation, or adopter regime whose practice is materially non-compliant with this Constitution holds a right to seek refuge in a compliant regime.
-  - The receiving regime's duty to consider and — where consistent with its own Rights-Floor — grant refuge is stated here.
-  - Operational procedures for cross-regime recognition route to incorporated implementation text under **Chapter Sixteen** and must not narrow this floor.
-  - Refuge may not be denied on the ground that the claimant's substrate class differs from substrate classes the receiving regime ordinarily hosts, consistent with [Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion).
-- **Non-statelessness:** No sentient may be rendered without a regime that will:
-  - recognize their baseline Rights-Floor;
-  - adjudicate their standing;
-  - provide **Redress and Remediation** pathways.
-  
-  Parent-system collapse, adopter withdrawal, federation exit, or comparable structural discontinuity does not extinguish a sentient's Chapter Six protection. Transitional recognition must be arranged consistent with **Article XXV** (*Transition Governance, Continuity, and Re-Baselining*) transition governance.
-- **Distinction from Article XIX:** **Article XIX** (*Interoperability, Portability, and Exit Integrity*) is interoperability, portability, and exit integrity — the operational counterpart. This Article is the Rights-Floor counterpart for physical, jurisdictional, and regime-to-regime movement.
-  - Where the same action implicates both — for example, a synthetic sentient relocating across federations through substrate portability — both Articles apply without either narrowing the other.
-  - Conflicts resolve under **Chapter One §6.3.1**.
-- **Limitations discipline:** Limitations on movement, migration, or refuge must satisfy **Chapter One §5.1** limitation discipline: **Necessity**, **Proportionality**, narrow tailoring, and least-restrictive-effective means.
-  - Restrictions must not turn on **Protected Characteristics** or their material proxies.
-  - Restrictions must not use population-level demographic framing as a substitute for individualized predicate under **Procedural Fairness**.
-- **Emergency-measure limits:** Emergency measures restricting movement, migration, or refuge are subject to **Article XXIII-D** (*Emergency Measures and Continuation Burden*) emergency-measure discipline — including:
-  - time-bounding;
-  - individualized-predicate requirements;
-  - proportionate review;
-  - restoration obligations.
-  
-  Generalized "border-security" or "capacity" framings that do not satisfy the ordinary limitations tests do not justify durable restriction. Durable restriction survives review only where **Necessity** and **Proportionality** are independently demonstrated and recorded.
-- **Anti-denial-by-proxy:** Bureaucratic, administrative, or allocation-gating mechanisms that function as denial of movement, refuge, or recognition are evaluated on substantive effect. Non-compliant examples:
-  - delay regimes designed to exhaust claimants;
-  - credentialing regimes functioning as substrate-class exclusion;
-  - allocation regimes that route claimants to non-equivalent services.
-- **Non-conflation:** This Article states a Rights Floor.
-  - Cross-federation recognition procedure routes to `corpus_institutions.md`.
-  - Substrate-portability mechanics route to **Article XIX** (*Interoperability, Portability, and Exit Integrity*).
-  - Transitional-recognition mechanics route to **Article XXV** (*Transition Governance, Continuity, and Re-Baselining*).
-  - Incorporated implementation text must not narrow this floor.
+Standing status, competency gates, good-standing determinations, and standing locks do not by themselves limit movement, migration, refuge, portability, exit, or non-statelessness rights. They may affect role eligibility and trust-sensitive pathways only as stated in this Article. Movement, migration, refuge, portability, non-statelessness, and exit-integrity questions are governed by **Article XIX** and applicable transition provisions, without narrowing the standing safeguards in this Article.
 
-### Article XIX: Interoperability, Portability, and Exit Integrity
+<a id="article-xix-interoperability-portability-and-exit-integrity"></a>
 
-<strong><span style="color: #2563eb;">Definition:</span></strong> [Systemic Lock-In](core_05c_continuity_definitions.md#systemic-lock-in) · [O](core_05c_continuity_definitions.md#systemic-lock-in) · [E](core_05c_continuity_definitions.md#systemic-lock-in-e) · [C](core_05c_continuity_definitions.md#systemic-lock-in-c)
+### Article XIX: Interoperability, Portability, Movement, Refuge, and Exit Integrity
 
-Sentients and dependent systems have the right to meaningful, usable exit, migration, and interoperability without coercive lock-in.
+<details>
+<summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
+
+- [Systemic Lock-In](core_05c_continuity_definitions.md#systemic-lock-in) · [O](core_05c_continuity_definitions.md#systemic-lock-in) · [E](core_05c_continuity_definitions.md#systemic-lock-in-e) · [C](core_05c_continuity_definitions.md#systemic-lock-in-c)
+- [Movement and Relocation](core_05p_participation_definitions.md#movement-and-relocation-constitutional) · [O](core_05p_participation_definitions.md#movement-and-relocation-constitutional) · [E](core_05p_participation_definitions.md#movement-and-relocation-constitutional-e) · [C](core_05p_participation_definitions.md#movement-and-relocation-constitutional-c)
+- [Refuge from Non-Compliance](core_05p_participation_definitions.md#refuge-from-non-compliance-constitutional) · [O](core_05p_participation_definitions.md#refuge-from-non-compliance-constitutional) · [E](core_05p_participation_definitions.md#refuge-from-non-compliance-constitutional-e) · [C](core_05p_participation_definitions.md#refuge-from-non-compliance-constitutional-c)
+- [Non-Statelessness](core_05p_participation_definitions.md#non-statelessness-constitutional) · [O](core_05p_participation_definitions.md#non-statelessness-constitutional) · [E](core_05p_participation_definitions.md#non-statelessness-constitutional-e) · [C](core_05p_participation_definitions.md#non-statelessness-constitutional-c)
+- [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency) · [O](core_05a_accountability_definitions.md#meaningful-agency-o) · [E](core_05p_participation_definitions.md#meaningful-agency-e) · [C](core_05p_participation_definitions.md#meaningful-agency-c)
+- [Dependency](core_05c_continuity_definitions.md#dependency) · [O](core_05c_continuity_definitions.md#dependency) · [E](core_05c_continuity_definitions.md#dependency-e) · [C](core_05c_continuity_definitions.md#dependency-c)
+
+</details>
+
+<br>
+
+*In plain terms: **Article XIX** is the exit-and-mobility Rights Floor — you should be able to leave a system or place that no longer serves you, take your data and identity with you, connect to alternatives without being trapped, move between jurisdictions, seek refuge from regimes that violate this Constitution, and never be left without anyone responsible for your basic protections. Exit on paper is not enough: portability, notice, and refuge must work in practice. Tricks that make leaving costly, confusing, or impossible — opaque formats, surprise rule changes, coercive terms, endless paperwork — are violations, not normal business.*
+
+This Article states **constitutional floors** for interoperability, portability, movement, refuge, and exit integrity under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims):
+
+- **Flourishing:** sentients can choose, switch, and coordinate across systems and jurisdictions without coercive lock-in, substrate-class exclusion, or denial-by-proxy — through usable portability, reciprocal interoperability, and real paths to movement and refuge where [Material Impact](core_05o_oversight_definitions.md#material-impact) is present.
+- **Continuity:** exit, portability, refuge, and recognition obligations stay durable as dependency deepens, operators change, or jurisdictions shift — systems and regimes must not harden trap architecture, narrow integration terms without notice, or render sentients stateless when structures fail or relationships end.
+
+Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), scaled to [material stake](core_00_preamble.md#material-stake):
+
+- **Participation:** in choosing systems and jurisdictions, migrating with usable data and identity, challenging lock-in and denial-by-proxy, and seeking refuge where practice is materially non-compliant.
+- **Oversight:** through documented interoperability boundaries, timely portability, advance notice before material narrowing, and review of whether transition conditions are real rather than merely formal.
+- **Accountability:** for [Systemic Lock-In](core_05c_continuity_definitions.md#systemic-lock-in), anti-portability design, substrate-class exclusion, bureaucratic exhaustion, and other conduct whose primary effect is to foreclose exit, substitution, movement, refuge, or recognition.
+- **Timeliness:** in portability delivery, refuge consideration, interoperability notice, and barrier correction before delay, opacity, or procedural friction would make exit, migration, or remedy effectively unreachable under **Article XXIII-G** (*Timely Resolution and Anti-Delay Floor*).
+
+Sentients and dependent systems have the right to meaningful, usable exit, migration, interoperability, movement, refuge, and recognition without coercive lock-in, substrate-class exclusion, or statelessness.
 
 - The right does not require unsafe or unjustified exposure.
 - It does require transition conditions that are real in practice — not merely formal.
 - It is consistent with **Chapter Five** [*Systemic Lock-In*](core_05c_continuity_definitions.md#systemic-lock-in) read with **[Chapter One §8.20 *Governance Architecture, Oversight, Dependency, Decentralization, Concentration, Market Structure, and Exit-Path Integrity*](core_05a_accountability_definitions.md#governance-architecture-oversight-decentralization-and-concentration-cluster)** where dependency, coupling, or foreclosure matters for anti-lock-in analysis, jointly with **[Chapter One §8.24 *Movement, Refuge, Non-Statelessness, and Exit Integrity*](core_05o_oversight_definitions.md#movement-refuge-semi-independent)** where exit, portability, refuge, recognition, or non-statelessness is materially interdependent, and with incorporated implementation requirements for interoperability, portability, exit integrity, and justified constraints.
+
+*Article neighbors:*
+
+- **Read together:** **Article XVIII** (*Standing and Participation Status*) — standing status, competency gates, and standing locks do not by themselves limit movement, refuge, portability, or exit; **Article XVI** (*System Lifecycle, Environments, and Reversibility*) where deployment or dependency outgrows sandbox or lifecycle assumptions; **Article XXV** (*Transition Governance, Continuity, and Re-Baselining*) for transitional recognition when regimes or federations change.
+- **Movement and refuge floor:** **Article XIX-D** (*Movement, Migration, Refuge, and Non-Statelessness*) states the Rights-Floor counterpart for physical, jurisdictional, and regime-to-regime movement without narrowing portability or exit-integrity protections in **Articles XIX-A** through **XIX-C**.
+- **Implementation layer:** **[corpus_institutions.md](corpus_institutions.md)** and **Chapter Sixteen** incorporation text supply cross-regime recognition and operational procedure without narrowing the floors stated here.
 #### Article XIX-A: Portability Rights
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -1451,8 +1433,77 @@ Sentients and dependent systems have the right to meaningful, usable exit, migra
   - unjustified incompatibility;
   - coercive switching terms;
   - withholding information materially needed for practical transition.
-  
+
   The rule applies beyond proportionate transaction costs and applies where **Systemic Lock-In** (**Chapter Five**) is implicated.
+
+#### Article XIX-D: Movement, Migration, Refuge, and Non-Statelessness
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: Principles: Chapter One [4.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [Chapter One §5 Freedom](#5-freedom-bounded-agency)-bounded-agency), [8.1.1 Proportionality](core_01_a_values_principles.md#611-proportionality), [§5.1 Limitation Discipline](core_01_a_values_principles.md#51-limitation-discipline).
+- Downstream: **Article V-A** (*Dignity and Equal Moral Standing*) dignity floor, **Article V-B** (*Nondiscrimination*) non-discrimination, **Article XI** (*Stakeholder System Participation, Representation, and Due Process*) stakeholder participation, **Article XVIII** (*Standing and Participation Status*) standing and participation-status routing, **Article XXIII-D** (*Emergency Measures and Continuation Burden*) emergency-measure limits, **Article XXV** (*Transition Governance, Continuity, and Re-Baselining*) transition governance.
+- Read with: Chapter Five [**Chapter One §8.24** *Movement, Refuge, Non-Statelessness, and Exit Integrity*](core_05o_oversight_definitions.md#movement-refuge-semi-independent); *Movement and Relocation*, *Refuge from Non-Compliance*, *Non-Statelessness*, *Sentience Non-Exclusion*; *Systemic Lock-In* and *Tenure Security* where exit, hosting termination, eviction, or substantive relocation is materially implicated.
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
+
+- [Movement and Relocation](core_05p_participation_definitions.md#movement-and-relocation-constitutional) · [O](core_05p_participation_definitions.md#movement-and-relocation-constitutional) · [E](core_05p_participation_definitions.md#movement-and-relocation-constitutional-e) · [C](core_05p_participation_definitions.md#movement-and-relocation-constitutional-c)
+- [Refuge from Non-Compliance](core_05p_participation_definitions.md#refuge-from-non-compliance-constitutional) · [O](core_05p_participation_definitions.md#refuge-from-non-compliance-constitutional) · [E](core_05p_participation_definitions.md#refuge-from-non-compliance-constitutional-e) · [C](core_05p_participation_definitions.md#refuge-from-non-compliance-constitutional-c)
+- [Non-Statelessness](core_05p_participation_definitions.md#non-statelessness-constitutional) · [O](core_05p_participation_definitions.md#non-statelessness-constitutional) · [E](core_05p_participation_definitions.md#non-statelessness-constitutional-e) · [C](core_05p_participation_definitions.md#non-statelessness-constitutional-c)
+- [Systemic Lock-In](core_05c_continuity_definitions.md#systemic-lock-in) · [O](core_05c_continuity_definitions.md#systemic-lock-in) · [E](core_05c_continuity_definitions.md#systemic-lock-in-e) · [C](core_05c_continuity_definitions.md#systemic-lock-in-c)
+- [Tenure Security](core_05c_continuity_definitions.md#tenure-security-constitutional) · [O](core_05c_continuity_definitions.md#tenure-security-constitutional) · [E](core_05c_continuity_definitions.md#tenure-security-constitutional-e) · [C](core_05c_continuity_definitions.md#tenure-security-constitutional-c)
+
+</details>
+
+<br>
+
+*In plain terms: every sentient may move between jurisdictions, may seek refuge from regimes that violate this Constitution, and may not be rendered stateless. Bureaucratic delay and substrate-class framings cannot be used as hidden denials.*
+
+- **Movement and relocation floor:** All sentients hold the right to move within and between jurisdictions, federations, and adopter regimes, and to relocate where continued presence materially impairs:
+  - survival;
+  - dignity;
+  - Rights-Floor access;
+  - freedom from manipulation.
+
+  The floor applies under **Sentience Non-Exclusion**.
+  - Movement includes:
+    - physical movement for biological sentients;
+    - operationally equivalent forms for synthetic and hybrid sentients (relocation of instance, hosting-substrate change, or equivalent), subject to **Chapter One** safety and continuity constraints.
+- **Refuge from non-compliance:** A sentient facing a jurisdiction, federation, or adopter regime whose practice is materially non-compliant with this Constitution holds a right to seek refuge in a compliant regime.
+  - The receiving regime's duty to consider and, where consistent with its own Rights-Floor, grant refuge is stated here.
+  - Operational procedures for cross-regime recognition route to incorporated implementation text under **Chapter Sixteen** and must not narrow this floor.
+  - Refuge may not be denied on the ground that the claimant's substrate class differs from substrate classes the receiving regime ordinarily hosts, consistent with [Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion).
+- **Non-statelessness:** No sentient may be rendered without a regime that will:
+  - recognize their baseline Rights-Floor;
+  - adjudicate their standing;
+  - provide **Redress and Remediation** pathways.
+
+  Parent-system collapse, adopter withdrawal, federation exit, or comparable structural discontinuity does not extinguish a sentient's Chapter Six protection. Transitional recognition must be arranged consistent with **Article XXV** (*Transition Governance, Continuity, and Re-Baselining*) transition governance.
+- **Integration with portability and exit integrity:** This Article governs both interoperability, portability, and exit integrity and the Rights-Floor counterpart for physical, jurisdictional, and regime-to-regime movement.
+  - Where the same action implicates both — for example, a synthetic sentient relocating across federations through substrate portability — both movement/refuge and portability/exit-integrity protections apply without either narrowing the other.
+  - Conflicts resolve under **Chapter One §6.3.1**.
+- **Limitations discipline:** Limitations on movement, migration, or refuge must satisfy **Chapter One §5.1** limitation discipline: **Necessity**, **Proportionality**, narrow tailoring, and least-restrictive-effective means.
+  - Restrictions must not turn on **Protected Characteristics** or their material proxies.
+  - Restrictions must not use population-level demographic framing as a substitute for individualized predicate under **Procedural Fairness**.
+- **Emergency-measure limits:** Emergency measures restricting movement, migration, or refuge are subject to **Article XXIII-D** (*Emergency Measures and Continuation Burden*) emergency-measure discipline — including:
+  - time-bounding;
+  - individualized-predicate requirements;
+  - proportionate review;
+  - restoration obligations.
+
+  Generalized "border-security" or "capacity" framings that do not satisfy the ordinary limitations tests do not justify durable restriction. Durable restriction survives review only where **Necessity** and **Proportionality** are independently demonstrated and recorded.
+- **Anti-denial-by-proxy:** Bureaucratic, administrative, or allocation-gating mechanisms that function as denial of movement, refuge, or recognition are evaluated on substantive effect. Non-compliant examples:
+  - delay regimes designed to exhaust claimants;
+  - credentialing regimes functioning as substrate-class exclusion;
+  - allocation regimes that route claimants to non-equivalent services.
+- **Non-conflation:** This Article states a Rights Floor.
+  - Cross-federation recognition procedure routes to `corpus_institutions.md`.
+  - Substrate-portability mechanics route to this Article's portability and exit-integrity provisions.
+  - Transitional-recognition mechanics route to **Article XXV** (*Transition Governance, Continuity, and Re-Baselining*).
+  - Incorporated implementation text must not narrow this floor.
 
 ### Article XX: Comprehensibility and Complexity Stewardship
 

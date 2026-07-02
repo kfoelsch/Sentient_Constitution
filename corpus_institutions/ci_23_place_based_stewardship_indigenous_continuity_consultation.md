@@ -23,7 +23,7 @@
 
 <br>
 
-*In plain terms: **CI-23** is the institutions layer's rulebook for decisions that touch land, ecosystems, and communities with durable place-based connection — especially Indigenous continuity of language, cultural practice, governance, and knowledge transmission. Consultation must be real, recorded, and challengeable — not a checkbox before bulldozers move. When a funded project runs "engagement" without changing risk decisions, someone must own the response and escalation route. This file does not create an unbounded territorial-restitution mandate or reopen adoption-scope choices reserved to **Chapter Sixteen**; it names who keeps consultation records, who responds to indigenous-continuity impacts, and who escalates compliance theater. Shared consultation and stakeholder-oversight floors live in **CJS-5.7** (*quorum and participatory legitimacy terms*); constitutional meaning lives in **Chapter Five** *Indigenous Continuity*, **Article I-A** (*Environmental Preconditions and Ecological Integrity*), **Article V-B** (*Nondiscrimination*), and **Article XVIII-D** (*Movement, Migration, and Refuge*) where materially applicable; this file states what each institution must name, file, and maintain locally.*
+*In plain terms: **CI-23** is the institutions layer's rulebook for decisions that touch land, ecosystems, and communities with durable place-based connection — especially Indigenous continuity of language, cultural practice, governance, and knowledge transmission. Consultation must be real, recorded, and challengeable — not a checkbox before bulldozers move. When a funded project runs "engagement" without changing risk decisions, someone must own the response and escalation route. This file does not create an unbounded territorial-restitution mandate or reopen adoption-scope choices reserved to **Chapter Sixteen**; it names who keeps consultation records, who responds to indigenous-continuity impacts, and who escalates compliance theater. Shared consultation and stakeholder-oversight floors live in **CJS-5.7** (*quorum and participatory legitimacy terms*); constitutional meaning lives in **Chapter Five** *Indigenous Continuity*, **Article I-A** (*Environmental Preconditions and Ecological Integrity*), **Article V-B** (*Nondiscrimination*), and **Article XIX-D** (*Movement, Migration, Refuge, and Non-Statelessness*) where materially applicable; this file states what each institution must name, file, and maintain locally.*
 
 **Quick orientation**
 
@@ -43,7 +43,7 @@
 - **Chapter Five** [*Indigenous Continuity*](../core_05c_continuity_definitions.md#indigenous-continuity-constitutional) — community-anchored continuity floor for language, cultural practice, governance practice, and knowledge transmission where material; routes territorial-continuity questions to **Article I-A** and **Chapter Sixteen** without creating a restitution mandate.
 - **Article I-A** (*Environmental Preconditions and Ecological Integrity*) in **Chapter Six** — territorial and ecosystem-integrity precondition where place-based stewardship is materially implicated.
 - **Article V-B** (*Nondiscrimination*) in **Chapter Six** — language, culture, and heritage protection alongside the community-anchored indigenous-continuity floor.
-- **Article XVIII-D** (*Movement, Migration, and Refuge*) in **Chapter Six** — movement, migration, and refuge interfaces where displacement or non-statelessness questions intersect place-based decisions.
+- **Article XIX-D** (*Movement, Migration, Refuge, and Non-Statelessness*) in **Chapter Six** — movement, migration, and refuge interfaces where displacement or non-statelessness questions intersect place-based decisions.
 - **Chapter Five** [*Natural Systems Standing*](../core_05p_participation_definitions.md#natural-systems-standing) — where community-to-ecosystem relationships are materially implicated.
 - **Chapter Sixteen** (*Incorporation Bridge*) — adopter-jurisdiction discipline and adoption-scope choices that this file does not reopen.
 - **CI-7.2** — external assurance triggers when internal review is not credible for consultation or continuity failures on funded projects.
@@ -65,7 +65,7 @@ Each institution in scope must name the office or body responsible for:
 - **advisory-versus-binding pathway publication** — who publishes whether a consultation route is advisory, binding, or relied on for governance effect, and what challenge or correction paths follow; and
 - **compliance-theater escalation** — who escalates funded projects or supervised programs where consultation occurs without meaningful risk response to **CI-7.2** external-assurance triggers and **CI-8** cross-institution escalation.
 
-Read **Chapter Five** *Indigenous Continuity* and **Article I-A**, **Article V-B**, and **Article XVIII-D** where materially applicable.
+Read **Chapter Five** *Indigenous Continuity* and **Article I-A**, **Article V-B**, and **Article XIX-D** where materially applicable.
 
 ---
 
