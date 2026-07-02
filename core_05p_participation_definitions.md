@@ -655,7 +655,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
   - military, constabulary, or analogous public service;
   - veteran or equivalent status, and discharge, separation, or release classification;
   - lawful employment, employment history, lawful work status, lack of employment, or protected association;
-  - economic, property, or social station when used to foreclose baseline rights or equitable opportunity;
+  - economic, property, or social station when used to foreclose Rights-Floor minimums or equitable opportunity;
   - any other trait or correlate that functions in context as an invidious proxy, consistent with [Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion) and [Sentience Evaluation](core_05p_participation_definitions.md#sentience-evaluation-e) requirements.
 
 <a id="protected-characteristics-constitutional-e"></a>

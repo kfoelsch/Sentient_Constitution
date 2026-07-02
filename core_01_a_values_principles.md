@@ -819,6 +819,7 @@ Many small decisions that each look fine may still combine into an outcome this 
 - **[§6.1.1 Proportionality](#611-proportionality)** — limits on rights, freedoms, and other constitutional protections must match the size and likelihood of the harm addressed; scrutiny and reversibility requirements rise where risk is irreversible, could lock systems in, or could threaten [Ecological Recovery Capacity](core_05c_continuity_definitions.md#ecological-recovery-capacity-constitutional).
 - **Necessity** — constraints may be imposed only when no less-restrictive, reasonably effective alternative exists.
 - **Minimization of harm** — where tradeoffs are required, systems must choose the option that minimizes total harm across sentients, systems, and time horizons.
+- **[Rights-Floor Minimums Principle](#rights-floor-minimums-principle)** — no constitutional process, measure, transition, amendment, standing consequence, emergency action, or justice-related outcome may suspend, waive, extinguish, or reduce the Rights-Floor minimums stated in Chapter Six.
 - **[§6.1.2 Minimization of Avoidable Burden](#612-minimization-of-avoidable-burden)** — only after Safety, Truth, rights, proportionality, necessity, and harm minimization are satisfied, prefer simplification or removal of unnecessary steps and the option that wastes the least sentient time, attention, and effort.
 
 <br>
@@ -860,6 +861,9 @@ Limitations on constitutional **values** — including **Chapter Six** Rights-Fl
 - plausible systemic lock-in
 - Existential Risk
 - irreversible loss of Ecological Recovery Capacity
+
+<a id="rights-floor-minimums-principle"></a>
+**Rights-Floor Minimums Principle.** No constitutional process, measure, transition, amendment, standing consequence, emergency action, or justice-related outcome may suspend, waive, extinguish, or reduce the **Rights-Floor minimums** of baseline dignity protections, minimum subsistence access, or core challenge, review, and appeal rights. Specific articles may add stronger or domain-specific safeguards. They may not narrow this principle or use convenience, efficiency, classification, emergency, transition, standing, amendment, contract, or implementation labels to bypass it.
 
 <a id="612-minimization-of-avoidable-burden"></a>
 <a id="614-minimization-of-avoidable-burden"></a>

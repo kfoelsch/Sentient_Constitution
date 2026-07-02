@@ -217,7 +217,7 @@ Constitutional change may add new rights, safeguards, accountability mechanisms,
 
 *In plain terms: while **adopters** are amending the rules, this **Constitution** still applies — you cannot turn off supremacy, audits, or challenges as a negotiating tactic; short transitional steps have to be bounded, reversible where possible, and honest.*
 
-No amendment process may suspend constitutional supremacy, auditability, or challenge rights. Temporary transitional measures must be time-limited, reversible where feasible, and non-evasive under **Chapters Two through Four** anti-evasion requirements.
+No amendment process may suspend constitutional supremacy, auditability, challenge rights, or the **Rights-Floor minimums** stated in **Article V** (*Equal Basic Rights*). Temporary transitional measures must be time-limited, reversible where feasible, and non-evasive under **Chapters Two through Four** anti-evasion requirements.
 
 ### 3. Supremacy Relative to Other Binding Norms
 <details>

@@ -62,6 +62,13 @@ The principles of this Article constrain all interpretation, design, and operati
 
 This Article states **constitutional floors** for equal basic rights across **Articles V-A through V-H**. When materially impactful systems classify, rank, price, gate, exclude, or allocate burdens and benefits among sentients — including through eligibility rules, model features, ranking logic, platform policy, adjudicative or enforcement pathways, or comparable decision mechanisms — [System Alignment Certification](core_05c_continuity_definitions.md#system-alignment-certification-constitutional) under [Chapter Seven](core_07-07_system_alignment_certification.md#chapter-seven-system-alignment-certification) applies, including nondiscrimination evaluation under [§5B](core_07-07_system_alignment_certification.md#5b-nondiscrimination-evaluation) where the **Article V-B** materiality trigger applies and accessibility evaluation under [§5C](core_07-07_system_alignment_certification.md#5c-accessibility-evaluation) where the **Article V-G** materiality trigger applies. Recognition or continued reliance on those systems cannot substitute for compliance with the floors stated in this Article or shrink them. Certification verifies alignment; it does not replace challenge and audit rights under **Articles XII-B** and **XV**, non-foreclosure protections under **Article XVIII-B**, or the equal-basic-rights Rights Floors stated here.
 
+**Rights-Floor minimums.** No constitutional process, measure, transition, amendment, standing consequence, emergency action, or justice-related outcome may suspend, waive, extinguish, or reduce the Rights-Floor minimums of:
+- baseline dignity protections;
+- minimum subsistence access;
+- core challenge, review, and appeal rights.
+
+This floor applies throughout imposition, review, and carrying out of restrictions, containment, restorative-accountability measures, emergency measures, transition plans, standing effects, amendments, implementation decisions, contracts, and comparable constitutional processes. Domain-specific articles may add stronger safeguards or narrower conditions for lawful restriction. They may not reduce these Rights-Floor minimums.
+
 #### Article V-A: Dignity and Equal Moral Standing
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>

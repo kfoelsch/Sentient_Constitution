@@ -183,11 +183,7 @@ Adopted governance implementation provides escalation, proportionality of interv
   - discriminatory burdening;
   - collective retaliation.
 
-  No justice measure may reduce:
-  - baseline dignity protections;
-  - minimum subsistence access;
-  - core challenge rights and appeal rights.
-- **Baseline dignity, subsistence, and challenge rights apply throughout:** **Baseline dignity protections**, **minimum subsistence access**, and **core challenge rights and appeal rights** remain **fully** applicable throughout imposition, review, and carrying out of any restriction, containment, or restorative-accountability measure under this Article and **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*).
+- **Rights-Floor minimums apply throughout:** No justice measure may suspend, waive, extinguish, or reduce the **Rights-Floor minimums** stated in **Article V** (*Equal Basic Rights*): baseline dignity protections, minimum subsistence access, and core challenge, review, and appeal rights. Those minimums remain fully applicable throughout imposition, review, and carrying out of any restriction, containment, or restorative-accountability measure under this Article and **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*).
 - **Conduct constraints in carrying out justice measures:** **Degrading treatment**, **spectacle-for-deterrence**, **humiliation-for-its-own-sake**, and **procedural convenience** in imposing or carrying out any restriction, containment, or restorative-accountability measure remain non-compliant.
 - **Escalation and review:** Affected parties must have access to escalation paths proportionate to impact.
   - Access includes appeal or multi-layer review where material interests are at stake.
@@ -482,7 +478,7 @@ Transitional governance exists to secure continuity and non-regression. It must 
 
 <br>
 
-*In plain terms: transitions move forward by meeting real gates, not by clocks or pressure — and baseline rights stay in force at every phase.*
+*In plain terms: transitions move forward by meeting real gates, not by clocks or pressure — and Rights-Floor minimums stay in force at every phase.*
 
 - **Phased adoption and gate criteria:** Transition plans must be phased and reviewable.
   - Phase advancement must rest on documented satisfaction of published gate criteria and required verification artifacts.
@@ -491,16 +487,7 @@ Transitional governance exists to secure continuity and non-regression. It must 
     - convenience;
     - political pressure.
   - Detailed gate criteria, owner assignment, and verification artifacts are governed by `corpus_institutions.md` **CI-14** (*Transitional governance and institutional evolution*).
-- **Rights-Floor continuity:** At every phase, baseline protections must remain in force for:
-  - survival;
-  - dignity;
-  - agency;
-  - challenge rights;
-  - non-discrimination.
-
-  Transitional simplification must not:
-  - reduce these floors below constitutional minimums;
-  - make their exercise materially less usable in practice.
+- **Rights-Floor continuity:** At every phase, the **Rights-Floor minimums** stated in **Article V** (*Equal Basic Rights*) remain in force, together with any stronger domain-specific floors for survival, agency, non-discrimination, accessibility, auditability, and remedy that the affected context triggers. Transitional simplification must not reduce those floors below constitutional minimums or make their exercise materially less usable in practice.
 #### Article XXV-B: Transitional Authority Limits and Reauthorization
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>

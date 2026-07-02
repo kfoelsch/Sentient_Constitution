@@ -1150,11 +1150,11 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
 
 <br>
 
-*In plain terms: **Article XVIII** is the participation-status Rights Floor — it governs who qualifies for which roles, how those calls are made and challenged, and what happens when standing is lowered or suspended. **Participant standing** is role eligibility from verified records and fair rules — not popularity, a brand name, or a social score — and it is separate from dignity, baseline rights, and being a stakeholder because a system actually affects you. If standing is lowered or suspended, you must get clear reasons, a real way to push back, and limits that fit the actual risk — and standing by itself must never cut off survival essentials or paths to challenge harm and get remedy. Good standing must reflect what can be checked today, not old reputation. Movement, refuge, portability, and exit are governed by **Article XIX**, not by standing labels alone.*
+*In plain terms: **Article XVIII** is the participation-status Rights Floor — it governs who qualifies for which roles, how those calls are made and challenged, and what happens when standing is lowered or suspended. **Participant standing** is role eligibility from verified records and fair rules — not popularity, a brand name, or a social score — and it is separate from dignity, Rights-Floor minimums, and being a stakeholder because a system actually affects you. If standing is lowered or suspended, you must get clear reasons, a real way to push back, and limits that fit the actual risk — and standing by itself must never cut off survival essentials or paths to challenge harm and get remedy. Good standing must reflect what can be checked today, not old reputation. Movement, refuge, portability, and exit are governed by **Article XIX**, not by standing labels alone.*
 
 This Article states **constitutional floors** for standing and participation status under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims):
 
-- **Flourishing:** sentients can hold and contest role eligibility through valid, plural, auditable pathways — without standing labels substituting for dignity, baseline rights, or stakeholder status when [Material Impact](core_05o_oversight_definitions.md#material-impact) is present; good standing rests on present, observable, contestable evidence rather than brand, scale, or past esteem alone.
+- **Flourishing:** sentients can hold and contest role eligibility through valid, plural, auditable pathways — without standing labels substituting for dignity, Rights-Floor minimums, or stakeholder status when [Material Impact](core_05o_oversight_definitions.md#material-impact) is present; good standing rests on present, observable, contestable evidence rather than brand, scale, or past esteem alone.
 - **Continuity:** standing discipline stays revisable across time — restrictions remain proportionate, restorable where corrected, and must not harden into permanent exclusion from foundational constitutional voice except where **Chapter Ten** **anti-constitutional misconduct** classification and **Chapter Twelve Chapter One §8.1** expressly withhold durable political voice pending **full restitution**.
 
 Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), scaled to [material stake](core_00_preamble.md#material-stake):
@@ -1170,7 +1170,7 @@ Standing discipline under this Article implements the [Constitutional Tetrad](co
 
 It must remain distinct from:
 - inherent dignity;
-- baseline rights;
+- Rights-Floor minimums;
 - stakeholder identification by material impact;
 - access to challenge or remedy where this Constitution preserves those floors.
 
@@ -1219,7 +1219,7 @@ It must remain distinct from:
   - Satisfying a competency gate does not waive an applicable standing lock; good contribution does not erase unresolved verified violation findings.
 - **Non-substitution:** Standing criteria, labels, scores, competency gates, and standing locks govern role eligibility only. They must not:
   - blur together who qualifies for a role and who has inherent dignity or equal moral standing;
-  - make role status a substitute for baseline rights or for deciding whether someone is a stakeholder because a system actually affects them.
+  - make role status a substitute for Rights-Floor minimums or for deciding whether someone is a stakeholder because a system actually affects them.
 #### Article XVIII-B: Contestability and Proportional Restriction Limits
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -1266,7 +1266,7 @@ It must remain distinct from:
   - [Standing locks](core_09-09_standing_integration.md#standing-lock-proportionality-and-calibration) must calibrate to verified **violation nature**, the protected pathway, current remedy status, and any linked **contribution state** only insofar as that contribution bears on repair capacity, safeguard reliability, non-recurrence, or least-restrictive reassessment under [Chapter Eight §2](core_08-08_standing_assessment.md#2-standing-records). Contribution must not offset, waive, average down, or substitute for unresolved violation findings.
   - **Formal Non-Compliance** findings alone ([Chapter Eight section 6.2](core_08-08_standing_assessment.md#52-violation-axis-severity-ladder)) do not justify durable exclusion absent repeated pattern evidence, evasion, or material harm linkage.
   - Escalation because conduct recurs or responsibility is concealed must still be necessary, proportionate, reviewable, and tied to verified findings.
-- **Rights-floor non-foreclosure:** Participant standing, competency gates, and standing locks govern role eligibility and trust-sensitive pathways only. They must not foreclose survival-critical access, **Article III-A** (*Survival*) resource-allocation and dependency floors where materially implicated, or constitutionally required audit, challenge, or remedy pathways — including under **Article XII-B** (*Right to Challenge, Review, and Redress*), **Article XIV-B** (*Transparency, Auditability, and Contestability*), and **Article XV** (*Audit, Transparency, and Independent Verification*) — absent adequate justification under **Chapter One**, **Chapter Five**, and applicable incorporated procedure.
+- **Rights-Floor minimums and non-foreclosure:** Participant standing, competency gates, and standing locks govern role eligibility and trust-sensitive pathways only. They must not suspend, waive, extinguish, or reduce the **Rights-Floor minimums** stated in **Article V** (*Equal Basic Rights*). They also must not foreclose survival-critical access, **Article III-A** (*Survival*) resource-allocation and dependency floors where materially implicated, or constitutionally required audit, challenge, or remedy pathways — including under **Article XII-B** (*Right to Challenge, Review, and Redress*), **Article XIV-B** (*Transparency, Auditability, and Contestability*), and **Article XV** (*Audit, Transparency, and Independent Verification*) — absent adequate justification under **Chapter One**, **Chapter Five**, and applicable incorporated procedure.
 - **Reinstatement and non-entrenchment:** Where standing is reduced due to violation findings, systems must provide clear conditions for review, remediation-based restoration, and periodic re-evaluation under [Chapter Nine §1.4](core_09-09_standing_integration.md#37-reinstatement-review-and-non-entrenchment).
   - Permanent exclusion based solely on historical status, without current and auditable justification, is non-compliant.
   - Completion of correction, restitution, monitoring, safeguard implementation, or other demonstrated reduction of recurrence risk must create a real reassessment pathway where lawful; failure to complete those obligations keeps the unresolved finding live for standing purposes.
