@@ -652,7 +652,7 @@ Where analysis of experiential or behavioral data produces outputs that function
 
 *In plain terms: when a mental-health crisis triggers involuntary intervention, the intervention must be the smallest necessary, time-limited, independently reviewed, and never used as a back door to reconstruct someone's protected inner state.*
 
-- **Crisis-intervention floor:** Where a mental-health or comparable crisis gives rise to involuntary intervention — detention, treatment, restraint, compelled medication, or comparable deprivation of ordinary autonomy — the intervention must:
+- **Crisis-intervention floor:** Where a mental-health or comparable crisis gives rise to involuntary intervention — detention, treatment, restraint, compelled medication, or comparable deprivation of ordinary autonomy — the intervention applies the [**Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle**](core_01_a_values_principles.md#least-restrictive-time-bounded-and-reviewable-constraint-principle) and must:
   - be the minimum intrusion necessary;
   - be time-bounded;
   - be subject to independent review under **Procedural Fairness**;
@@ -742,7 +742,7 @@ Where analysis of experiential or behavioral data produces outputs that function
   They remain subject to **Chapter One §9** non-concentration and productive-capacity rules where scale is material.
 - **Parent-system relationship limits:** Parent-system actors — sentients, institutions, or systems that initiated or materially controlled the derivation or instantiation — **may** hold:
   - **care-relationship** obligations toward the derived sentient, on terms consistent with this Article and **Article V-F** (*Developing Sentients, Best-Interest, and Graduated Capability*);
-  - narrow, time-bounded, reviewable **stewardship** authority during early-instantiation windows, consistent with *Graduated Capability*.
+  - narrow, time-bounded, reviewable **stewardship** authority during early-instantiation windows, consistent with *Graduated Capability* and the [**Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle**](core_01_a_values_principles.md#least-restrictive-time-bounded-and-reviewable-constraint-principle).
   
   They **may not** hold:
   - continuing ownership;

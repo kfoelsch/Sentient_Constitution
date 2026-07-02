@@ -165,7 +165,7 @@ Adopted governance implementation provides escalation, proportionality of interv
 
 *In plain terms: use the lightest effective measure, set a clock on it, build in review and restoration, and never let "severity" or "convenience" erase dignity or appeal rights.*
 
-- **Least-restrictive and time-bounded rule:** Where intervention is required, systems must select the least-restrictive effective measure. Each measure must include:
+- **Justice application of the constraint principle:** This Article applies the [**Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle**](core_01_a_values_principles.md#least-restrictive-time-bounded-and-reviewable-constraint-principle) to justice, containment, and restorative-accountability measures. Where intervention is required, systems must select the least-restrictive effective measure. Each measure must include:
   - explicit duration limits;
   - review cadence;
   - restoration conditions.
@@ -221,7 +221,7 @@ Adopted governance implementation provides escalation, proportionality of interv
 
 *In plain terms: emergencies can justify temporary measures, but they must have a real clock, real review, and cannot become a permanent workaround around ordinary rights — including when someone invokes existential risk.*
 
-- **Emergency measures:** Temporary measures to prevent imminent harm must be:
+- **Emergency application of the constraint principle:** Emergency measures apply the [**Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle**](core_01_a_values_principles.md#least-restrictive-time-bounded-and-reviewable-constraint-principle) under imminent-harm conditions. Temporary measures to prevent imminent harm must be:
   - time-limited;
   - documented;
   - consistent with **Articles V**, **XX**, and **Chapter One** constraints.
@@ -277,7 +277,7 @@ Adopted governance implementation provides escalation, proportionality of interv
   - harms caused;
   - rollback or restoration performance;
   - lessons for recurrence reduction.
-- **Disclosure:** Public or stakeholder-facing disclosure is required, subject to narrow, justified, and time-bounded confidentiality exceptions.
+- **Disclosure:** Public or stakeholder-facing disclosure is required, subject to the [**Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle**](core_01_a_values_principles.md#least-restrictive-time-bounded-and-reviewable-constraint-principle) for narrow, justified, and time-bounded confidentiality exceptions.
   - Each exception must identify:
     - its justification;
     - protected scope;
@@ -303,7 +303,7 @@ Adopted governance implementation provides escalation, proportionality of interv
 
 *In plain terms: rights conflicts must be resolved on the record; restoration is preferred where appropriate but must not replace real protection; and public apology must always be voluntary and non-degrading.*
 
-- **Rights-collision procedure:** Where rights conflicts are material, forums and governing bodies must apply **Chapter One §6.3.1** (*Rights-Collision Decision Test*).
+- **Rights-collision procedure:** Where rights conflicts are material, forums and governing bodies must apply **Chapter One §6.3.1** (*Rights-Collision Decision Test*), including the [**Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle**](core_01_a_values_principles.md#least-restrictive-time-bounded-and-reviewable-constraint-principle).
   - Records must explicitly identify:
     - rights in tension;
     - rejected alternatives;
@@ -457,6 +457,8 @@ Transition from legacy to constitutional operation must be:
 - time-bounded;
 - reviewable.
 
+Transition measures apply the [**Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle**](core_01_a_values_principles.md#least-restrictive-time-bounded-and-reviewable-constraint-principle) where interim authority, remediation, deprivation, custody transfer, or comparable restriction is used.
+
 Transitional governance exists to secure continuity and non-regression. It must **not** create:
 - durable exception authority;
 - de facto constitutional amendment;
@@ -520,7 +522,7 @@ Transitional governance exists to secure continuity and non-regression. It must 
 
 *In plain terms: temporary authority really is temporary. Extending it requires real reasons — and the longer it runs, the higher the bar.*
 
-- **Transitional authority limits:** Interim authorities must be:
+- **Transitional authority limits:** Interim authorities must implement the [**Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle**](core_01_a_values_principles.md#least-restrictive-time-bounded-and-reviewable-constraint-principle) and must be:
   - explicitly scoped;
   - sunset-bounded;
   - independently reviewable.
@@ -592,7 +594,7 @@ Transitional governance exists to secure continuity and non-regression. It must 
   - systems within **Article XII-E** (*High-Autonomy Systems and Tool-Mediated Process Integrity*);
   - instrumentalities whose **predominant readily foreseeable use** sustains **known non-compliant** operation at material risk.
   - **Permitted measures (only with procedural safeguards):** **Seizure**, **impoundment**, **quarantine from shared infrastructure**, or comparable **lawful custody transfer** is permitted **only** when procedural pathways satisfy **Article XI-A** (*Stakeholder System Participation and Representation*) and **Chapter Eight** where applicable.
-  - **Necessity and proportionality:** **Necessity** and **Proportionality** must be demonstrable, including:
+  - **Necessity and proportionality:** **Necessity**, **Proportionality**, and the [**Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle**](core_01_a_values_principles.md#least-restrictive-time-bounded-and-reviewable-constraint-principle) must be demonstrable, including:
     - least-restrictive feasible alternatives;
     - time-bounds.
   - **Notice and contest:** Prompt notice, stated reasons, and a practicable contest path must be provided as soon as feasible consistent with harm prevention and evidence integrity.

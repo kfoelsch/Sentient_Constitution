@@ -1035,7 +1035,7 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
     - interoperability;
     - truthful scrutiny.
   - Reward must not be structured for durable enclosure.
-- **Temporary and reviewable exclusivity only:** Any exclusion right over materially useful invention, design, interface, process, or expressive system must be:
+- **Temporary and reviewable exclusivity only:** Any exclusion right over materially useful invention, design, interface, process, or expressive system must implement the [**Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle**](core_01_a_values_principles.md#least-restrictive-time-bounded-and-reviewable-constraint-principle) and must be:
   - narrow;
   - time-bounded;
   - reviewable;
@@ -1256,7 +1256,7 @@ It must remain distinct from:
   - No single authority, dataset, reputation channel, or opaque algorithmic system may unilaterally determine standing in a manner that forecloses meaningful review.
   - [Competency gates](core_09-09_standing_integration.md#competency-gates) and positive standing recognition must remain contestable, reviewable, and non-monopolistic.
 - **Forum supervision and record challenge:** [Chapter Eleven](core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) forum families supervise accessible challenge and may produce verified findings that open or update standing records under [Chapter Eight §2.3.2](core_08-08_standing_assessment.md#232-minimum-record-contents) when those findings satisfy the verified-input gate under Chapters Two through Four. Dispute-phase material does not by itself supply contribution state or violation nature for standing ([Chapter Eight §2.3.7](core_08-08_standing_assessment.md#237-forum-boundary)). That boundary does not reduce challenge, remedy, interim relief, or procedural protections required under **Article XII-B** (*Right to Challenge, Review, and Redress*) and **Article XXIII-G** (*Timely Resolution and Anti-Delay Floor*).
-- **Procedural reviewability:** When standing is materially restricted, downgraded, or suspended — including through a [standing lock](core_09-09_standing_integration.md#standing-locks-in-the-standing-model) tied to a [verified violation finding](core_05a_accountability_definitions.md#verified-violation-findings) — the system must:
+- **Procedural reviewability:** When standing is materially restricted, downgraded, or suspended — including through a [standing lock](core_09-09_standing_integration.md#standing-locks-in-the-standing-model) tied to a [verified violation finding](core_05a_accountability_definitions.md#verified-violation-findings) — the system must apply the [**Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle**](core_01_a_values_principles.md#least-restrictive-time-bounded-and-reviewable-constraint-principle) and must:
   - explain **why** in clear terms;
   - set a **time limit** on the restriction where that is feasible under **Article XXIII-C** (*Least-Restrictive and Time-Bounded Rule*);
   - provide a **working path** to challenge the decision, get it reviewed, fix what is wrong, and ask for another look.

@@ -1045,6 +1045,9 @@ Trust must not be preserved through deception or suppression of truth. Where ten
 
 Where constitutional rights, constraints, or protections materially conflict in the same decision context, resolution must follow a **documented and auditable** rights-collision test. The selected resolution must not contract the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) below what [material stake](core_00_preamble.md#material-stake) requires.
 
+<a id="least-restrictive-time-bounded-and-reviewable-constraint-principle"></a>
+This section states the **Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle**: constitutional restrictions must be justified, minimal, reviewable, and temporary unless a stronger Rights-Floor rule expressly permits durable restriction. Domain-specific applications may add safeguards, but they must not weaken this principle.
+
 At minimum, the decision record must include:
 - **Alternative Set and Rejection Reasons:** materially feasible alternatives considered, including non-action baseline, with explicit reasons for rejection.
 - **Risk-Tiered Burden of Proof:** burden strength scales with expected harm severity, irreversibility, dependency concentration, and uncertainty. Higher-risk restrictions require stronger evidence and independent scrutiny.
