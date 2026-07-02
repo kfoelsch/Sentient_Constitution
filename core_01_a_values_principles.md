@@ -820,6 +820,7 @@ Many small decisions that each look fine may still combine into an outcome this 
 - **Necessity** — constraints may be imposed only when no less-restrictive, reasonably effective alternative exists.
 - **Minimization of harm** — where tradeoffs are required, systems must choose the option that minimizes total harm across sentients, systems, and time horizons.
 - **[Rights-Floor Minimums Principle](#rights-floor-minimums-principle)** — no constitutional process, measure, transition, amendment, standing consequence, emergency action, or justice-related outcome may suspend, waive, extinguish, or reduce the Rights-Floor minimums stated in Chapter Six.
+- **[Anti-Degrading-Process Principle](#anti-degrading-process-principle)** — constitutional processes, measures, and outcomes must not be justified by, include, or predictably create degradation, humiliation, spectacle, retaliation, discriminatory burdening, or convenience-driven rights erosion.
 - **[§6.1.2 Minimization of Avoidable Burden](#612-minimization-of-avoidable-burden)** — only after Safety, Truth, rights, proportionality, necessity, and harm minimization are satisfied, prefer simplification or removal of unnecessary steps and the option that wastes the least sentient time, attention, and effort.
 
 <br>
@@ -864,6 +865,9 @@ Limitations on constitutional **values** — including **Chapter Six** Rights-Fl
 
 <a id="rights-floor-minimums-principle"></a>
 **Rights-Floor Minimums Principle.** No constitutional process, measure, transition, amendment, standing consequence, emergency action, or justice-related outcome may suspend, waive, extinguish, or reduce the **Rights-Floor minimums** of baseline dignity protections, minimum subsistence access, or core challenge, review, and appeal rights. Specific articles may add stronger or domain-specific safeguards. They may not narrow this principle or use convenience, efficiency, classification, emergency, transition, standing, amendment, contract, or implementation labels to bypass it.
+
+<a id="anti-degrading-process-principle"></a>
+**Anti-Degrading-Process Principle.** Constitutional processes, measures, and outcomes must not be justified by, include, or predictably create degrading treatment, humiliation-for-its-own-sake, spectacle-for-deterrence, retaliatory grievance, collective retaliation, discriminatory burdening, or procedural-convenience override. Ordinary public accountability, reasoned publication, verified restriction, or proportionate remedy is not prohibited merely because it is unpleasant or reputationally adverse. But it must not be designed, framed, carried out, or allowed to operate as degradation, humiliation, spectacle, retaliation, discriminatory burdening, or convenience-driven rights erosion.
 
 <a id="612-minimization-of-avoidable-burden"></a>
 <a id="614-minimization-of-avoidable-burden"></a>

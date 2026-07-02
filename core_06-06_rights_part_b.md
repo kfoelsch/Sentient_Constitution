@@ -69,6 +69,8 @@ This Article states **constitutional floors** for equal basic rights across **Ar
 
 This floor applies throughout imposition, review, and carrying out of restrictions, containment, restorative-accountability measures, emergency measures, transition plans, standing effects, amendments, implementation decisions, contracts, and comparable constitutional processes. Domain-specific articles may add stronger safeguards or narrower conditions for lawful restriction. They may not reduce these Rights-Floor minimums.
 
+**Constitutional process dignity floor.** Constitutional processes, measures, and outcomes must not be justified by, include, or predictably create degrading treatment, humiliation-for-its-own-sake, spectacle-for-deterrence, retaliatory grievance, collective retaliation, discriminatory burdening, or procedural-convenience override. Public accountability, reasoned publication, verified restriction, or proportionate remedy remains lawful where otherwise justified, but it must not be designed, framed, carried out, or allowed to operate as degradation, humiliation, spectacle, retaliation, discriminatory burdening, or convenience-driven rights erosion.
+
 #### Article V-A: Dignity and Equal Moral Standing
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>

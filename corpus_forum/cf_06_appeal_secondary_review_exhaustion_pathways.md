@@ -370,7 +370,7 @@ Omission of a materially required element makes the corrective measure or restri
 
 Record supplementation may cure the procedural defect only prospectively and only if the supplemented record independently satisfies this section. It does not retroactively validate avoidable harm, preserve an excessive measure, or relieve the forum from ordering practical restoration where restoration remains feasible.
 
-**Prohibited sanction design.** Review bodies must not uphold retaliatory grievance, humiliation, spectacle-only deterrence, convenience severity, discriminatory burdening, collective retaliation, or retaliation-as-an-end as a sufficient rationale. Where feasible reversibility exists, forums must prefer reversible or reviewable measures over irreversible deprivation.
+**Prohibited sanction design.** Review bodies must not uphold measures that violate the [Anti-Degrading-Process Principle](../core_01_a_values_principles.md#anti-degrading-process-principle), including retaliatory grievance, humiliation, spectacle-only deterrence, convenience severity, discriminatory burdening, collective retaliation, or retaliation-as-an-end as a sufficient rationale. Where feasible reversibility exists, forums must prefer reversible or reviewable measures over irreversible deprivation.
 
 #### CF-6.2.5 Appeal Outcomes, Remedies, and Reviewable Records
 <details>

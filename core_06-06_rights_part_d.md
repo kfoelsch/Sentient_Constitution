@@ -175,16 +175,16 @@ Adopted governance implementation provides escalation, proportionality of interv
   - restrictions lacking auditable re-evaluation triggers.
 - **Deprivation of life:** Deprivation of life as a justice measure is **categorically prohibited** under **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*).
   - **Durable containment** under this bullet — subject to duration-limit, review-cadence, restoration-condition, and auditable-re-evaluation requirements — is the Chapter Six pathway for threats that cannot be addressed by time-limited or reversible measures.
-- **Prohibited justice bases:** Restrictions, exclusions, or comparable justice measures must not be justified by any of the following:
+- **Prohibited justice bases, methods, and effects:** Restrictions, exclusions, or comparable justice measures must not be justified by, imposed through, carried out through, or allowed to produce as an intended or reasonably foreseeable design effect any pattern prohibited by **Article V** (*Equal Basic Rights*) and the [**Anti-Degrading-Process Principle**](core_01_a_values_principles.md#anti-degrading-process-principle), including:
   - retaliatory grievance;
+  - degrading treatment;
   - humiliation-for-its-own-sake;
   - spectacle-for-deterrence;
-  - procedural convenience;
+  - procedural-convenience override;
   - discriminatory burdening;
   - collective retaliation.
 
 - **Rights-Floor minimums apply throughout:** No justice measure may suspend, waive, extinguish, or reduce the **Rights-Floor minimums** stated in **Article V** (*Equal Basic Rights*): baseline dignity protections, minimum subsistence access, and core challenge, review, and appeal rights. Those minimums remain fully applicable throughout imposition, review, and carrying out of any restriction, containment, or restorative-accountability measure under this Article and **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*).
-- **Conduct constraints in carrying out justice measures:** **Degrading treatment**, **spectacle-for-deterrence**, **humiliation-for-its-own-sake**, and **procedural convenience** in imposing or carrying out any restriction, containment, or restorative-accountability measure remain non-compliant.
 - **Escalation and review:** Affected parties must have access to escalation paths proportionate to impact.
   - Access includes appeal or multi-layer review where material interests are at stake.
   - Affected parties must receive:
