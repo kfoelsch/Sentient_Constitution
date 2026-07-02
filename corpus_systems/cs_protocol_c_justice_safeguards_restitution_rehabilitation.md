@@ -46,9 +46,9 @@ Implementations must **not** operationalize restrictions, exclusions, or restora
 Irreversible restrictive outcomes are prohibited where feasible reversible restitution, remediation, or protection alternatives exist.
 
 ### 6. Voluntary public accountability expression
-Where restorative pathways include public acknowledgment or apology, systems must enforce voluntariness controls.
+Where restorative pathways include public acknowledgment or apology, systems must enforce voluntariness and authenticity controls.
 
-Those controls are specified in **Article XXIII-A** and **CJS-5.13** (*procedural integrity and adjudication terms*), and include non-coercive consent, revocability up to delivery, and independent review of voluntariness.
+Those controls are specified in **Chapter Ten** §4.3 and **CJS-5.13** (*procedural integrity and adjudication terms*), and include non-coercive consent, revocability up to delivery, independent review of voluntariness and authenticity, and negative justice consequences for materially inauthentic or abusive expression.
 
 Refusal may **not** independently escalate baseline sanctions.
 
@@ -126,7 +126,7 @@ Evasive down-tiering requires corrective reclassification and enforcement review
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: **Article XXIII-B**, **Article XXIII-C**, and **Article XXIII-F** (Rights-Floor homes); **Article VII-C** (crisis-intervention boundaries); **Article XXIII** and **Article XXIII-A** (proportionality, justice objective, and restoration); **Protocol C** sections **2–5** above; `corpus_institutions.md` **CI-18** (*Community life, voluntary association, and non-instrumental time*) through **CI-21** (*Relational coercive control, intimate power, and anti-domination routing*) where **community**, **care**, and **relational-autonomy** supports intersect restriction contexts.
+- Read with: **Article XXIII-B**, **Article XXIII-C**, and **Article XXIV-B** (Rights-Floor homes); **Article VII-C** (crisis-intervention boundaries); **Article XXIII** and **Article XXIII-A** (proportionality, justice objective, and restoration); **Protocol C** sections **2–5** above; `corpus_institutions.md` **CI-18** (*Community life, voluntary association, and non-instrumental time*) through **CI-21** (*Relational coercive control, intimate power, and anti-domination routing*) where **community**, **care**, and **relational-autonomy** supports intersect restriction contexts.
 
 </details>
 

@@ -31,7 +31,7 @@ In pipeline terms, this chapter handles step 6: final top-slot review for possib
 
 This chapter decides only final top-slot assignment within the Violation Axis. It does not replace Chapter Eight records or verified-input review, does not replace Chapter Nine standing integration, and does not decide ordinary violations outside the top anti-constitutional slots.
 
-**What happens next:** once final top-slot assignment is made, Chapter Nine standing-lock and final-standing-effect rules apply, including the **Anti-Constitutional Trust Lock** for final anti-constitutional misconduct. Chapter Eleven forum rules, Chapter Six justice constraints, and the relevant governance or change-path chapters apply without bypassing this chapter's safeguards.
+**What happens next:** once final top-slot assignment is made with **section 4** safeguards, **section 4.1** supplies imprisonment requirements where applicable, **section 4.2** supplies restitution, remedy-priority, and consequence-integration requirements, and **section 4.3** supplies voluntary public accountability expression rules where applicable. Chapter Nine standing-lock and final-standing-effect rules apply, including the **Anti-Constitutional Trust Lock** for final anti-constitutional misconduct. Chapter Eleven forum rules, Chapter Six justice constraints, and the relevant governance or change-path chapters apply without bypassing this chapter's safeguards.
 
 Use this chapter in this order:
 
@@ -39,8 +39,11 @@ Use this chapter in this order:
 2. Use **section 2** to identify the criteria implicated by the incident.
 3. Use **section 3** to decide whether the final slot is **s = 7**, **s = 8**, or **s = 9**.
 4. Apply **section 4** before any classification is final.
-5. Use **section 5.1** to keep change-path, forum, rights, and governance questions in the correct chapters.
-6. Use **section 6** only to route named patterns into the same framework.
+5. Apply **section 4.1** for imprisonment requirements after final classification.
+6. Apply **section 4.2** to integrate restitution, remedy priority, and consequence sequencing.
+7. Apply **section 4.3** for voluntary public accountability expression where restorative pathways are used.
+8. Use **section 5** to keep change-path, forum, rights, and governance questions in the correct chapters.
+9. Use **section 6** only to route named patterns into the same framework.
 
 The named patterns in section 6.1 are not separate shortcuts. Flooding, bribery, unconstitutional commands, reward or protection of misconduct, enforcement suppression, and infrastructure denial or destruction all still have to pass through the same incident, criteria, gravity, and safeguard sequence.
 
@@ -52,7 +55,7 @@ The named patterns in section 6.1 are not separate shortcuts. Flooding, bribery,
 - **Chapters Two through Four:** supply record, custody, tracing, and verification discipline for the evidence used here.
 - **Chapter One:** supplies principles relevant to emergency authority, necessity, concentration, and system capture.
 - **Chapter Eleven:** supplies forum routing, Integrity-family default routing, transfer, and certification discipline.
-- **Chapter Six:** supplies the Rights Floor and Article XXIII review and publication safeguards.
+- **Chapter Six:** supplies the Rights Floor, **Article XXIII-B** joint requirements and **Imprisonment for violence**, **Article XXIII-C** review discipline, **Article XXIV-C** remedy-timing discipline, and **Article XXIII-A** review and publication safeguards; **section 4.1** here supplies imprisonment requirements for verified anti-constitutional misconduct, **section 4.2** supplies the consequence-integration rule for restitution and remedy priority, and **section 4.3** supplies voluntary public accountability expression rules.
 - **Chapter Twelve:** supplies governance legitimacy consequences tied to final Chapter Ten classification.
 - **Chapters Thirteen through Fifteen:** supply change-path validity, referral, procedural, and custody rules; they do not assign final Chapter Ten slots.
 - Read with: [Chapters Eight–Eleven constitutional compass](core_08-08_standing_assessment.md#chapters-eight-eleven-constitutional-compass).
@@ -75,7 +78,7 @@ The named patterns in section 6.1 are not separate shortcuts. Flooding, bribery,
 - Upstream map: [Chapter Eight §4](core_08-08_standing_assessment.md#31-slot-grammar-and-display-labels) (*standing-slot grammar*).
 - Upstream pointer: [Chapter Nine §6](core_09-09_standing_integration.md#9-violation-axis-s-7-9-anti-constitutional-misconduct-authoritative-location) points here as the sole home for final top-end anti-constitutional misconduct assignment.
 - Downstream: [§2](#2-criteria-set-for-slot-assignment) (*Criteria set*); [§3](#3-violation-axis-s-7-9-slot-assignment-incident-gravity) (*Violation Axis s = 7–9 slot assignment*).
-- Safeguards and discipline: [§4](#4-due-process-safeguards-for-slot-classification) (*Due-process safeguards*); [§5](#5-cross-chapter-discipline) (*Cross-chapter discipline*).
+- Safeguards and discipline: [§4](#4-due-process-safeguards-for-slot-classification) (*Due-process safeguards*); [§4.1](#4-1-imprisonment-for-anti-constitutional-misconduct) (*Imprisonment for anti-constitutional misconduct*); [§4.2](#4-2-restitution-remedy-priority-and-consequence-integration) (*Restitution, remedy priority, and consequence integration*); [§4.3](#4-3-voluntary-public-accountability-expression) (*Voluntary public accountability expression*); [§5](#5-cross-chapter-discipline) (*Cross-chapter discipline*).
 - Pattern applications: [§6](#6-pattern-applications-and-criteria-routing) (*named patterns route into the same criteria and slot rules*).
 - Read with: [Chapters Thirteen through Fifteen](core_13-15_amendment.md#chapter-thirteen-non-regression-and-substantive-amendment-validity) where **regressive deception** and change-path conduct may implicate **criteria 1–4**.
 - Tetrad leg(s): **participation**, **oversight**, **accountability**, **timeliness** (tetrad capture at scale). Primary aim(s): **Continuity** (primary), **Flourishing**. [material stake](core_00_preamble.md#material-stake) scaling applies to safeguards and gravity.
@@ -97,7 +100,8 @@ Top-slot review is a specialized **Violation Axis Question 1** gravity step for 
 3. assess the incident's gravity under **section 3**, including whether it is a **single catastrophic incident**, a **sustained high-gravity pattern**, or conduct satisfying **criterion 5** or **criterion 6**;
 4. assign any final **Violation Axis s = 7, s = 8, or s = 9** slot only under **section 3**;
 5. apply **section 4** due-process safeguards before treating the classification as final;
-6. preserve the cross-chapter boundary in **section 5** and use **section 6** named patterns only as applications of this same sequence.
+6. apply any required imprisonment, restitution, remedy-priority, and consequence-integration rules under **sections 4.1** and **4.2**;
+7. preserve the cross-chapter boundary in **section 5** and use **section 6** named patterns only as applications of this same sequence.
 
 Section **6** does not create a second catalogue of independent offenses. It states how recurring anti-constitutional patterns route into the unified-incident record, criteria set, gravity rules, safeguards, and chapter boundaries already stated in **sections 1 through 5**.
 
@@ -144,7 +148,7 @@ Evaluators must not treat the same underlying conduct as satisfying both **crite
 
 - Upstream: [§2](#2-criteria-set-for-slot-assignment) (*Criteria set*).
 - Criteria interactions: [§6](#61-concentration-based-subversion-criteria-interaction); [§7](#62-rights-floor-waivers-and-unconstitutional-contract-terms); [§11.3](#63-flooding-the-zone-and-contest-pathway-denial); [§11.4](#64-info-sphere-zone-flooding); [§6.5](#65-bribery-and-improper-benefit-exchange); [§6.6](#66-unlawful-or-unconstitutional-command-conduct); [§6.7](#67-reward-protection-or-normalization-of-anti-constitutional-conduct); [§6.8](#68-enforcement-refusal-suppression-or-non-prosecution-conduct); [§6.9](#69-infrastructure-denial-destruction-or-dependency-cutoff-conduct); [§6.10](#610-forum-recusal-failure-and-biased-panel-participation).
-- Downstream: [§4](#4-due-process-safeguards-for-slot-classification) (*Due-process safeguards*) and [§5](#5-cross-chapter-discipline) (*Cross-chapter discipline*).
+- Downstream: [§4](#4-due-process-safeguards-for-slot-classification) (*Due-process safeguards*), [§4.1](#4-1-imprisonment-for-anti-constitutional-misconduct) (*Imprisonment for anti-constitutional misconduct*), [§4.2](#4-2-restitution-remedy-priority-and-consequence-integration) (*Restitution, remedy priority, and consequence integration*), [§4.3](#4-3-voluntary-public-accountability-expression) (*Voluntary public accountability expression*), and [§5](#5-cross-chapter-discipline) (*Cross-chapter discipline*).
 - Downstream forums: [Chapter Eleven](core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) [§2](core_11-11_forum.md#2-default-venue-and-primary-stakes) gives the Integrity default lead where final Chapter Ten slot classification is the primary stake. [Chapter Eleven §8](core_11-11_forum.md#7-escalation-and-certification) covers forum certification and independent review for final **s = 7**, **s = 8**, and **s = 9** classification.
 - Read with: [Chapter Eight](core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) — **Chapters Thirteen through Fifteen** do not supply final Chapter Ten slot assignment; **the Contribution and Violation axes**, the Chapter Eight severity ladder, and Chapter Eight process / response character remain separate from final **s = 7, 8, or 9** assignment under **this** **section**.
 
@@ -186,7 +190,7 @@ Classification proceeds by **unified incident** and final **Violation Axis** slo
 
 - Upstream: [§3](#3-violation-axis-s-7-9-slot-assignment-incident-gravity) (*Violation Axis s = 7–9 slot assignment*); [§2](#2-criteria-set-for-slot-assignment) (*Criteria set*), especially **criteria 5** and **6** and the **good-faith** drafting carve-out.
 - Pattern applications: [§11.3](#63-flooding-the-zone-and-contest-pathway-denial) (*Flooding the zone*); [§11.4](#64-info-sphere-zone-flooding) (*Info-sphere zone flooding*); [§6.5](#65-bribery-and-improper-benefit-exchange) (*Bribery and improper benefit exchange*); [§6.6](#66-unlawful-or-unconstitutional-command-conduct) (*Unlawful or unconstitutional command conduct*); [§6.7](#67-reward-protection-or-normalization-of-anti-constitutional-conduct) (*Reward, protection, or normalization of anti-constitutional conduct*); [§6.8](#68-enforcement-refusal-suppression-or-non-prosecution-conduct) (*Enforcement refusal, suppression, or non-prosecution conduct*); [§6.9](#69-infrastructure-denial-destruction-or-dependency-cutoff-conduct) (*Infrastructure denial, destruction, or dependency cutoff conduct*); [§6.10](#610-forum-recusal-failure-and-biased-panel-participation) (*Forum recusal failure and biased panel participation*).
-- Downstream: [§5](#5-cross-chapter-discipline) (*Cross-chapter discipline*).
+- Downstream: [§4.1](#4-1-imprisonment-for-anti-constitutional-misconduct) (*Imprisonment for anti-constitutional misconduct*); [§4.2](#4-2-restitution-remedy-priority-and-consequence-integration) (*Restitution, remedy priority, and consequence integration*); [§4.3](#4-3-voluntary-public-accountability-expression) (*Voluntary public accountability expression*); [§5](#5-cross-chapter-discipline) (*Cross-chapter discipline*).
 - Forum discipline: [Chapter Eleven §2](core_11-11_forum.md#2-default-venue-and-primary-stakes) through [§8](core_11-11_forum.md#7-escalation-and-certification) cover default Integrity lead, forum-family application of due process, transfer, and certification. Read **section 4** with **Article XXIII** in **Chapter Six**.
 - Read with: [Article XXIII-A: Justice Objective and Scope](core_06-06_rights_part_d.md#article-xxiii-a-justice-objective-and-scope) for review and publication safeguards; [Chapters Two through Four](core_02-04_definition_mechanics.md) tracing standards for publication.
 
@@ -198,6 +202,102 @@ Classification proceeds by **unified incident** and final **Violation Axis** slo
 
 No final **Violation Axis anti-constitutional misconduct** classification under this chapter may be issued without independent review, contestable notice, and reasoned publication. Publication must satisfy **Chapters Two through Four** tracing standards and **Article XXIII-A** review safeguards. Good-faith drafting error that is promptly disclosed and cured before constitutional effect is not anti-constitutional misconduct **when** that error is material only to **criteria 1–4** in **change** or **record** contexts; it does **not** excuse **criteria 5** or **6** conduct.
 
+### 4.1 Imprisonment for anti-constitutional misconduct
+
+<a id="4-1-imprisonment-for-anti-constitutional-misconduct"></a>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: [§3](#3-violation-axis-s-7-9-slot-assignment-incident-gravity) (*Violation Axis s = 7–9 slot assignment*); [§4](#4-due-process-safeguards-for-slot-classification) (*Due-process safeguards*).
+- Downstream: [§4.2](#4-2-restitution-remedy-priority-and-consequence-integration) (*Restitution, remedy priority, and consequence integration*); [§4.3](#4-3-voluntary-public-accountability-expression) (*Voluntary public accountability expression*); [§5](#5-cross-chapter-discipline) (*Cross-chapter discipline*).
+- Read with: [Article XXIII-B](core_06-06_rights_part_d.md#article-xxiii-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints) (*joint requirements and **Imprisonment for violence***); [Article XXIII-C](core_06-06_rights_part_d.md#article-xxiii-c-least-restrictive-and-time-bounded-rule) (*duration, review, restoration, and re-evaluation discipline*).
+
+</details>
+
+<br>
+
+*In plain terms: once anti-constitutional misconduct is verified here, insurgency-like actors do not get to stay in the general population when imprisonment is necessary to stop further constitutional harm — especially if they refuse rehabilitation or keep repeating the conduct.*
+
+- **Imprisonment for anti-constitutional misconduct:** After final classification under **section 3** with **section 4** safeguards met, sentients with verified anti-constitutional misconduct must be imprisoned when imprisonment is necessary to stop further constitutional harm — including conduct that functions as insurgency within the general population.
+  - This requirement expressly applies to sentients who refuse rehabilitation offered on fair terms.
+  - It applies to repeated or sustained patterns assessed as a unified incident under **section 3**.
+  - **Section 3** decides whether the misconduct is verified and how serious it is; this section decides whether imprisonment is required. Imprisonment must still satisfy **Article XXIII-B** joint requirements, individualized attribution, and challenge and appeal protections, and **Article XXIII-C** duration, review, restoration, and re-evaluation discipline in **Chapter Six Part D**.
+  - Substituting deprivation of life, release, administrative relabeling, or lesser measures alone when this section requires imprisonment is non-compliant.
+
+### 4.2 Restitution, remedy priority, and consequence integration
+
+<a id="4-2-restitution-remedy-priority-and-consequence-integration"></a>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: [§3](#3-violation-axis-s-7-9-slot-assignment-incident-gravity) (*Violation Axis s = 7–9 slot assignment*); [§4](#4-due-process-safeguards-for-slot-classification) (*Due-process safeguards*); [§4.1](#4-1-imprisonment-for-anti-constitutional-misconduct) (*Imprisonment for anti-constitutional misconduct*) where imprisonment is implicated.
+- Downstream: [§4.3](#4-3-voluntary-public-accountability-expression) (*Voluntary public accountability expression*); [§5](#5-cross-chapter-discipline) (*Cross-chapter discipline*); [Chapter Nine](core_09-09_standing_integration.md#chapter-nine-standing-effects-and-integration) standing-effect and standing-lock integration; [Chapter Eleven](core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) forum routing and certification.
+- Read with: [Article XXIII-A](core_06-06_rights_part_d.md#article-xxiii-a-justice-objective-and-scope) (*Justice Objective and Scope*); [Article XXIII-B](core_06-06_rights_part_d.md#article-xxiii-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints) (*restitution, remediation, rehabilitation, and accountable attribution*); [Article XXIII-C](core_06-06_rights_part_d.md#article-xxiii-c-least-restrictive-and-time-bounded-rule) (*duration, review, and restoration*); [Article XXIV-C](core_06-06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor) (*timely resolution and remedy commencement*).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
+
+- [Redress and Remediation](core_05a_accountability_definitions.md#redress-and-remediation-constitutional) · [O](core_05a_accountability_definitions.md#redress-and-remediation-constitutional) · [E](core_05a_accountability_definitions.md#redress-and-remediation-constitutional-e) · [C](core_05a_accountability_definitions.md#redress-and-remediation-constitutional-c)
+- [Restorative Justice](core_05a_accountability_definitions.md#restorative-justice) · [O](core_05a_accountability_definitions.md#restorative-justice) · [E](core_05a_accountability_definitions.md#restorative-justice-e) · [C](core_05a_accountability_definitions.md#restorative-justice-c)
+- [Accountability](core_05a_accountability_definitions.md#accountability) · [O](core_05a_accountability_definitions.md#accountability) · [E](core_05a_accountability_definitions.md#accountability-e) · [C](core_05a_accountability_definitions.md#accountability-c)
+- [Proportionality](core_05a_accountability_definitions.md#proportionality) · [O](core_05a_accountability_definitions.md#proportionality) · [E](core_05a_accountability_definitions.md#proportionality-e) · [C](core_05a_accountability_definitions.md#proportionality-c)
+
+</details>
+
+<br>
+
+*In plain terms: a final anti-constitutional misconduct finding must not end with a label, a prison order, a standing lock, or institutional punishment while the affected parties are left unrepaired. The consequence package has to say who was harmed, what repair is owed, who must carry it, how it will be paid or executed, and when it must start.*
+
+- **Consequence-integration duty:** After final classification under **section 3** with **section 4** safeguards met, the disposition record must integrate any imprisonment, standing effect, sanction, dissolution, change-path invalidity, structural remedy, and restitution or remediation into one reviewable consequence package.
+- **Affected-party and remedy identification:** The record must identify, at the level of specificity feasible without unlawful disclosure:
+  - affected sentients, classes, communities, institutions, systems, or constitutional pathways;
+  - material harm, rights loss, remedy loss, dependency harm, evidence degradation, or process nullification caused or materially contributed to by the unified incident;
+  - restitution, compensation, restoration, correction, disgorgement or clawback where lawful, substitute safeguards where literal repair is impossible, and systemic remediation where harm is class-wide or structural;
+  - responsible actors, roles, institutions, systems, funds, successors, or coordinating bodies that must carry or finance each remedy;
+  - commencement deadlines, completion milestones, verification requirements, and review triggers under **Article XXIV-C**.
+- **Priority and interim protection:** Remedy design must prioritize affected parties and practical restoration before reputational closure, institutional convenience, or ordinary administrative sequencing. Where delay would foreseeably defeat remedy, prolong dependency harm, destroy evidence, or allow continued constitutional degradation, lawful interim protection, preservation, escrow, holdback, access restoration, service continuity, or comparable safeguard must be considered and either ordered or rejected on the record.
+- **Non-substitution rule:** Imprisonment, standing locks, role exclusion, publication, apology, institutional dissolution, supervised operation, clawback from wrongdoers, or invalidation of unlawful constitutional effect does not by itself satisfy restitution or remediation owed to affected parties unless the record shows the measure actually repairs, compensates, restores, prevents recurrence, or supplies a proportionate substitute safeguard for the relevant harm. Public acknowledgment or apology is governed by **section 4.3** where used.
+- **No offset by contribution:** Positive contribution state, prior service, expertise scarcity, institutional importance, settlement convenience, reputation repair, or later cooperation does not erase restitution or remediation duties. It may affect proportional sequencing, credit for cooperation, rehabilitation design, or recurrence-reduction conditions only where affected-party remedy remains practical and accountable attribution remains intact.
+- **Execution realism and anti-evasion:** Where restitution or systemic remediation requires funding, capacity, cross-institution coordination, successor-entity tracing, recognition by another forum, or pooled execution, the disposition must name the execution path or state why a substitute safeguard is the proportionate lawful remedy. Entity relabeling, forum shopping, confidentiality misuse, insolvency structuring, or custody transfer must not be used to extinguish remedy obligations.
+- **Boundary:** This section does not add new slot-assignment criteria and does not relocate forum operations, institutional dissolution, remedy-organ design, or implementation templates into Chapter Ten. It states the consequence-integration requirement triggered by final **s = 7, s = 8, or s = 9** classification. Operational mechanics remain in Chapter Eleven and incorporated forum, systems, institutions, and joint-structure text, subject to the Chapter Six Rights Floor.
+
+### 4.3 Voluntary public accountability expression
+
+<a id="4-3-voluntary-public-accountability-expression"></a>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: [§3](#3-violation-axis-s-7-9-slot-assignment-incident-gravity) (*Violation Axis s = 7–9 slot assignment*); [§4](#4-due-process-safeguards-for-slot-classification) (*Due-process safeguards*); [§4.2](#4-2-restitution-remedy-priority-and-consequence-integration) (*Restitution, remedy priority, and consequence integration*).
+- Downstream: [§5](#5-cross-chapter-discipline) (*Cross-chapter discipline*).
+- Read with: [Article XXIII-B](core_06-06_rights_part_d.md#article-xxiii-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints) (*joint requirements*); [Article XXIV-B](core_06-06_rights_part_d.md#article-xxiv-b-rights-collision-procedure-and-restorative-alignment) (*rights-collision procedure and restorative alignment*).
+
+</details>
+
+<br>
+
+*In plain terms: a public apology in an anti-constitutional misconduct case must be voluntary, sincere, and non-degrading — fake or abusive apologies can backfire on the person who gives them.*
+
+- **Voluntary public accountability expression:** After final classification under **section 3** with **section 4** safeguards met, accountable parties in restorative pathways for verified anti-constitutional misconduct may voluntarily choose public acknowledgment or apology as a supplementary accountability act.
+  - The choice is permitted where it supports repair, trust restoration, or community healing.
+  - Such expression must be:
+    - non-coercive;
+    - informed;
+    - revocable up to delivery;
+    - independently reviewable for voluntariness and authenticity.
+  - Refusal to participate in public expression must not, by itself, increase baseline sanctions.
+  - **Inauthentic or abusive expression:** Public acknowledgment or apology that is materially insincere, manipulative, performative without truthful accountability, or abusive toward affected parties or the public does not satisfy restorative requirements.
+    - It may carry negative justice consequences for the accountable party — including additional misconduct findings under **section 3**, reduced credit for rehabilitation, and other lawful restrictions under **Article XXIII-B** and **Chapter Eight**.
+    - Treating a fake or abusive apology as sufficient repair, or using it to avoid necessary protection or remediation under **section 4.2**, is non-compliant.
+  - No format may impose any of the following beyond what is necessary for truthful accountability and proportionate remediation:
+    - degrading treatment;
+    - compelled self-abasement;
+    - irreversible reputational harm.
+
 <a id="chapter-eight-part-e-cross-chapter-discipline"></a>
 
 ### 5. Cross-chapter discipline
@@ -205,7 +305,7 @@ No final **Violation Axis anti-constitutional misconduct** classification under 
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [§1](#1-decision-framework-scope-and-authority) (*Decision framework, scope, and authority*); [§2](#2-criteria-set-for-slot-assignment) (*Criteria set*).
-- Pattern and slot sources: [§11.3](#63-flooding-the-zone-and-contest-pathway-denial); [§11.4](#64-info-sphere-zone-flooding); [§6.5](#65-bribery-and-improper-benefit-exchange); [§6.6](#66-unlawful-or-unconstitutional-command-conduct); [§6.7](#67-reward-protection-or-normalization-of-anti-constitutional-conduct); [§6.8](#68-enforcement-refusal-suppression-or-non-prosecution-conduct); [§6.9](#69-infrastructure-denial-destruction-or-dependency-cutoff-conduct); [§6.10](#610-forum-recusal-failure-and-biased-panel-participation); [§3](#3-violation-axis-s-7-9-slot-assignment-incident-gravity); [§4](#4-due-process-safeguards-for-slot-classification).
+- Pattern and slot sources: [§11.3](#63-flooding-the-zone-and-contest-pathway-denial); [§11.4](#64-info-sphere-zone-flooding); [§6.5](#65-bribery-and-improper-benefit-exchange); [§6.6](#66-unlawful-or-unconstitutional-command-conduct); [§6.7](#67-reward-protection-or-normalization-of-anti-constitutional-conduct); [§6.8](#68-enforcement-refusal-suppression-or-non-prosecution-conduct); [§6.9](#69-infrastructure-denial-destruction-or-dependency-cutoff-conduct); [§6.10](#610-forum-recusal-failure-and-biased-panel-participation); [§3](#3-violation-axis-s-7-9-slot-assignment-incident-gravity); [§4](#4-due-process-safeguards-for-slot-classification); [§4.1](#4-1-imprisonment-for-anti-constitutional-misconduct); [§4.2](#4-2-restitution-remedy-priority-and-consequence-integration); [§4.3](#4-3-voluntary-public-accountability-expression).
 - Downstream: [Chapter Thirteen](core_13-15_amendment.md#chapter-thirteen-non-regression-and-substantive-amendment-validity) substantive non-regression validity floor and anti-evasion referral triggers.
 - Downstream custody: [Chapter Fifteen](core_13-15_amendment.md#chapter-fifteen-amendment-ratification-and-procedural-validity) procedural and custody validity tests, review triggers, provisional effect, and invalid-change handling.
 - Read with: [Chapter Eight](core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) for **the Contribution and Violation axes**, violation severity, process / response character, and the boundary that final Chapter Ten **s = 7, 8, or 9** assignments are supplied only here.
@@ -238,7 +338,7 @@ Those chapters decide whether the constitutional change itself can stand. They d
 
 *In plain terms: the rest of the chapter applies the same decision model to recurring anti-constitutional patterns. These examples do not create new criteria; they show how named conduct routes through the criteria, process safeguards, and chapter boundaries already stated above.*
 
-The following subsections state criteria interactions and named pattern applications. They do **not** add independent slot-assignment criteria, relocate operational rules from other chapters, or bypass **section 4** safeguards. Evaluators assess each materially implicated pattern on the **unified incident** record under **section 2**, assign any final slot under **section 3**, preserve required process under **section 4**, and maintain the cross-chapter boundary stated in **section 5.1**.
+The following subsections state criteria interactions and named pattern applications. They do **not** add independent slot-assignment criteria, relocate operational rules from other chapters, or bypass **section 4** safeguards. Evaluators assess each materially implicated pattern on the **unified incident** record under **section 2**, assign any final slot under **section 3**, preserve required process under **section 4**, and maintain the cross-chapter boundary stated in **section 5**.
 
 ### 6.1 Concentration-based subversion: criteria interaction
 <details>
