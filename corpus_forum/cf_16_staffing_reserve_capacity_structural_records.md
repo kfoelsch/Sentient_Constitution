@@ -142,6 +142,8 @@ Each forum family must maintain published reserve-capacity rules sufficient to r
 - training, competency-refresh, and readiness requirements for reserve personnel;
 - succession-effective administrative support for filing, records custody, scheduling, publication, and other materially binding forum-operation lanes.
 
+For the **Constitutional** forum family, reserve capacity must include the constitutional-review reserve roster required by **CF-6.2.5** for manifest-constitutional-error review. That roster must be maintained as review readiness, not as a separate forum family or general appellate body.
+
 Reserve capacity must not be designed so narrowly that a predictable set of recusals, absences, or conflicts disables ordinary adjudication in politically sensitive or high-stakes matters.
 
 Reserve and substitute design must also account for conflict integrity. A forum family must not rely for its ordinary backup capacity on a pool so conflict-entangled, dependency-linked, or patronage-shaped that the backup mechanism itself predictably fails when the dispute is sensitive.

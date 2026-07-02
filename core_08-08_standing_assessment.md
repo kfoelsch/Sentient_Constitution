@@ -782,7 +782,7 @@ The slot scale measures verified constitutional loss, harm, waste, foreclosure, 
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [§14.3.2](#232-minimum-record-contents) (*violation standing record fields*); [§11.2](#52-violation-axis-severity-ladder) (*aggravated violation row and severity ladder*); [corpus_forum.md](corpus_forum.md) **CF-4** (*panel formation, disclosure, recusal, and lawful bench constitution*).
-- Downstream: [Chapter Nine §4](core_09-09_standing_integration.md#8-cross-axis-coupling-and-escalation-constraints) (*standing-lock weighting for forum-integrity injury*); [Chapter Eleven §6](core_11-11_forum.md#6-transfer-consolidation-and-coordination) (*backup routing*); [Chapter Ten](core_10-10_misconduct.md#chapter-ten-anti-constitutional-misconduct) (*top-slot review where anti-constitutional misconduct is alleged*).
+- Downstream: [Chapter Nine §4](core_09-09_standing_integration.md#8-cross-axis-coupling-and-escalation-constraints) (*standing-lock weighting for forum-integrity injury*); [Chapter Eleven §6](core_11-11_forum.md#6-transfer-consolidation-and-coordination) (*backup routing*); [Chapter Ten §6.10](core_10-10_misconduct.md#610-forum-recusal-failure-and-biased-panel-participation) (*forum recusal failure and biased panel participation*); [Chapter Ten](core_10-10_misconduct.md#chapter-ten-anti-constitutional-misconduct) (*top-slot review where anti-constitutional misconduct is alleged*).
 - Read with: [Verified inputs for standing](#verified-inputs-for-standing) (*verified-input gate*).
 
 </details>
@@ -791,7 +791,8 @@ The slot scale measures verified constitutional loss, harm, waste, foreclosure, 
 
 *In plain terms: lying on a mandatory forum disclosure, or deliberately skipping a required recusal process, is not treated like ordinary deception or paperwork failure. It can corrupt the forum itself — who is lawfully on the panel, whether anyone can challenge bias, and whether the case is being heard fairly.*
 
-- **What counts.** A verified knowing, reckless, or materially dishonest omission from a mandatory forum disclosure required before merits participation, or a verified intentional failure to follow a required recusal process.
+- **What counts.** A verified knowing, reckless, or materially dishonest omission from a mandatory forum disclosure required before merits participation; a verified intentional failure to follow a required recusal process; or a verified **failure to recuse** while **impartiality was materially compromised** — including continuing to sit, vote, or issue binding interpretive determinations after a material conflict was disclosed or should have been disclosed under **CF-4**.
+- **Anti-constitutional misconduct path.** Verified **failure to recuse** on a **Constitutional forum** panel, or other verified forum-integrity conduct within this subsection that corrupts panel lawfulness or practical contestability, may be alleged as **anti-constitutional misconduct** within **[Chapter Ten](core_10-10_misconduct.md#chapter-ten-anti-constitutional-misconduct)** scope under **[Chapter Ten §6.10](core_10-10_misconduct.md#610-forum-recusal-failure-and-biased-panel-participation)** when substantiated under **Chapters Two through Four** and the **Chapter Ten** criteria set. Final slot assignment remains only under **Chapter Ten**.
 - **Why it is heightened.** The conduct can distort the legality and independence of the adjudicative forum itself — not merely the underlying merits dispute.
 - **What evaluators must weigh.** Compared with otherwise similar deception or process violation outside a forum-constitution setting, account for added impact on:
   - panel lawfulness;
@@ -801,7 +802,7 @@ The slot scale measures verified constitutional loss, harm, waste, foreclosure, 
   - backup routing;
   - practical contestability; and
   - public confidence in adjudication.
-- **What this clause does not do.** It does not let unverified allegations or intake material alone change standing — verified findings are still required; it does not automatically assign a top slot; and it does not reduce Chapter Ten safeguards where anti-constitutional misconduct is alleged.
+- **What this clause does not do.** It does not let unverified allegations or intake material alone change standing — verified findings are still required; it does not by itself assign a top slot without **Chapter Ten** criteria, process, and safeguards; and it does not reduce **Chapter Ten** safeguards where anti-constitutional misconduct is alleged.
 
 
 ---

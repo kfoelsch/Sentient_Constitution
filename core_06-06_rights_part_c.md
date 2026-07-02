@@ -1214,6 +1214,8 @@ It must remain distinct from:
   - A [Standing Lock](core_05a_accountability_definitions.md#standing-lock) is the restrictive counterpart to a competency gate. While a verified violation finding remains unresolved or materially unremediated, it may prevent or limit trust-, role-, authority-, credit-, or recognition-linked pathways under [Chapter Nine §1.3](core_09-09_standing_integration.md#standing-locks-in-the-standing-model).
   - A standing lock is not a dignity rank, Rights-Floor reduction, automatic retaliation, or merged merit score.
   - Each standing lock must identify the effect blocked or limited, the protected subjects or interests, the corrective condition, the review path, and the reassessment point — and remain necessary, proportionate, auditable, and contestable.
+  - A verified failure to recuse from a forum role where recusal was required and impartiality was materially compromised creates the **forum-service standing lock** stated in [Chapter Nine §1.3.5](core_09-09_standing_integration.md#forum-service-standing-lock-for-recusal-failure). Reinstatement to forum service requires strict independent restoration; ordinary apology, prior contribution, reputation, expertise scarcity, or staffing need cannot satisfy that path by itself.
+  - Final Chapter Ten anti-constitutional misconduct creates the **Anti-Constitutional Trust Lock** stated in [Chapter Nine §1.3.6](core_09-09_standing_integration.md#anti-constitutional-trust-lock). While active, it bars roles or material influence over **Class A**, **Class B**, or **Class C** systems, constitutional forums, constitutional alignment recognition, critical-system stewardship, and anti-constitutional accountability pathways until strict independent restoration is verified.
   - Satisfying a competency gate does not waive an applicable standing lock; good contribution does not erase unresolved verified violation findings.
 - **Non-substitution:** Standing criteria, labels, scores, competency gates, and standing locks govern role eligibility only. They must not:
   - blur together who qualifies for a role and who has inherent dignity or equal moral standing;
@@ -1640,7 +1642,17 @@ Stewardship discipline for complexity, plain-language access, and burden minimiz
 
   Where Protocol B and incorporated implementation conflict, the stricter applicable requirement governs.
 
+<a id="article-xxi-root-cause-analysis-and-adaptive-response"></a>
+
 ### Article XXI: Root Cause Analysis and Adaptive Response
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: Principles: Chapter One [4.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [4.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [10.1 Core Tradeoff Principles](core_01_a_values_principles.md#61-core-tradeoff-principles), and [11.1 Required Evaluation Factors](core_01_b_stewardship_capacity_principles.md#131-required-evaluation-factors).
+- Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad); [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — **Flourishing** and **Continuity**; [Reversibility](core_05c_continuity_definitions.md#reversibility-constitutional), [Risk](core_05c_continuity_definitions.md#risk), and [System Capture](core_05c_continuity_definitions.md#system-capture) in **Chapter Five**.
+
+</details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
@@ -1654,14 +1666,29 @@ Stewardship discipline for complexity, plain-language access, and burden minimiz
 
 <br>
 
-When degradation, instability, or systemic risk is detected, sentients and systems have the right to diagnostic rigor in practice — not symbolic response. That rigor includes:
-- timely identification and documentation of primary and contributing causes — including direct, indirect, delayed, or cumulative causes where materially relevant;
-- pluralistic or independent evaluation where appropriate to the stakes and to capture risk;
-- allocation of corrective effort toward causes rather than symptoms alone, with interim containment and monitoring where needed.
+*In plain terms: **Article XXI** is the find-the-real-problem-and-fix-it-right floor. When something breaks, degrades, or keeps failing, you are entitled to more than a press release or a band-aid. Systems must figure out what actually caused the harm — including causes that show up late or build up over time — address those causes where they can, and leave a record others can check and challenge. Quick containment is allowed; permanent fixes without honest diagnosis are not.*
 
-Diagnostic rigor must remain auditable and challengeable. It must be consistent with **Protocol S4** and with testing and verification environments under **Protocol A** and **Article XV-A** (*Auditability and Observable Evidence*).
+This Article states **constitutional floors** for root-cause analysis and adaptive response under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims):
 
-**Protocol S4** does not narrow governing requirements in **Chapters Two through Five** where diagnostic, evidentiary, or corrective obligations are materially implicated.
+- **Flourishing:** sentients affected by failure can learn what went wrong, take part in diagnosis proportionate to impact, and receive corrective action aimed at real causes — not symbolic response, blame-shifting, or symptom-only patches that leave the underlying problem intact.
+- **Continuity:** systems adapt to degradation and risk in ways that prevent recurrence as scale and dependency deepen — preserving resilience, evidence, and reversibility while corrections are tested and refined.
+
+Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), scaled to [material stake](core_00_preamble.md#material-stake):
+
+- **Participation:** in reporting failures, supplying evidence, and challenging superficial, captured, or incomplete diagnoses proportionate to impact and dependency.
+- **Oversight:** through documented causal analysis, pluralistic or independent evaluation where capture risk or stakes require it, and preserved evidence trails that automatic recovery must not erase.
+- **Accountability:** for treating symptoms alone, suppressing root-cause inquiry, overstating confidence, or failing to apply proportionate corrective action once causes are identified.
+- **Timeliness:** in opening diagnosis, interim containment, monitoring, and corrective work before delay would let harm spread, evidence degrade, or the same failure repeat.
+
+When degradation, instability, or systemic risk is detected, sentients and systems have the right to **diagnostic rigor in practice** — not symbolic response. That rigor requires timely identification and documentation of primary and contributing causes (including direct, indirect, delayed, or cumulative causes where materially relevant); pluralistic or independent evaluation where appropriate to the stakes and to capture risk; and corrective effort aimed at causes rather than symptoms alone, with interim containment and monitoring where needed.
+
+Diagnostic rigor must remain auditable and challengeable. It must be consistent with **[corpus_systems.md](corpus_systems.md), Protocol S4** (*Adaptive Sustainability and Ecosystem Resilience*), and with testing and verification environments under **Protocol A** and **Article XV-A** (*Auditability and Observable Evidence*). **Protocol S4** does not narrow governing requirements in **Chapters Two through Five** where diagnostic, evidentiary, or corrective obligations are materially implicated.
+
+*Article neighbors:*
+
+- **Evidence and challenge:** **Article XV** (*Audit, Transparency, and Independent Verification*) and **Article XII-B** (*Right to Challenge, Review, and Redress*) — root-cause records must remain open to audit and contest without narrowing those floors.
+- **Lifecycle and recovery:** **Article XVI** (*System Lifecycle, Environments, and Reversibility*) — automatic recovery must not suppress evidence needed for root-cause analysis; read with **Article XXI-B** reversibility preference.
+- **Implementation routing:** **[corpus_systems.md](corpus_systems.md), Protocol S4** (*Adaptive Sustainability and Ecosystem Resilience*) and **Protocol A** (*System Design, Testing, Verification, and Deployment*) — implement adaptive response without substituting for the Rights Floors stated here.
 #### Article XXI-A: Diagnostic Rigor and Causal Attribution
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -1714,14 +1741,24 @@ Diagnostic rigor must remain auditable and challengeable. It must be consistent 
 *In plain terms: when you are not sure, pick the fix you can walk back. Uncertainty cannot be used as a reason to freeze protection or to pretend permanent measures are certain.*
 
 - **Reversibility preference:** Where causes are uncertain or evidence remains incomplete, preference must favor:
-  - reversible, low-optionality-destroying interventions;
-  - expanded observability;
-  - bounded interim containment before irreversible commitments.
+  - fixes that can be rolled back and that do not permanently foreclose better choices later;
+  - more monitoring, logging, and visibility into what is happening while the cause is still unclear;
+  - temporary, limited stopgap measures with a clear end point — before making permanent changes.
 - **Anti-delay, anti-overclaim:** Uncertainty must not be used to justify:
   - avoidable delay in proportionate protective action;
   - overstated confidence in permanent measures.
 
+<a id="article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards"></a>
+
 ### Article XXII: Constitutional Interpretation, Review, and Anti-Capture Safeguards
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: Principles: Chapter One [§6.3 Rights-Collision Procedure](core_01_a_values_principles.md#63-rights-collision-procedure), [4.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§10 Governance Under Stewardship Discipline](core_01_b_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline), and [13. Integrated Application](core_01_b_stewardship_capacity_principles.md#14-integrated-application).
+- Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad); [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — **Flourishing** and **Continuity**; [Authority Stack and Internal Hierarchy](core_05i_integrative_definitions.md#authority-stack), [Forum Family, Constitutional](core_05a_accountability_definitions.md#forum-family-constitutional), and [System Capture](core_05c_continuity_definitions.md#system-capture) in **Chapter Five**.
+
+</details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
@@ -1735,11 +1772,28 @@ Diagnostic rigor must remain auditable and challengeable. It must be consistent 
 
 <br>
 
-Final **constitutional** interpretation must remain authoritative, bounded, auditable, and contestable.
+*In plain terms: **Article XXII** is the who-gets-to-say-what-the-constitution-means floor. When constitutional questions arise, the answer must come from designated Constitutional forums — not from whoever is loudest, most powerful, or most convenient for the institution. Their rulings have to be written down with real reasons, open to independent challenge, and protected against capture by any single bloc. They cannot expand their own power, shut down review, or use "restructuring" to punish dissent.*
 
-- Interpretive authority is delegated to **Constitutional** forums only within the limits of this Article, Chapter Eleven, and the **Authority Stack and Internal Hierarchy** cluster.
-- They must remain anchored to stated **constitutional** reasons — not self-asserted necessity, institutional convenience, or exclusive expertise claims.
-- They must never operate as a basis for unreviewable concentration of power.
+This Article states **constitutional floors** for interpretive authority, review, and anti-capture safeguards under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims):
+
+- **Flourishing:** sentients can understand what the Constitution requires, challenge interpretations that narrow their rights, and rely on published reasons — not insider convenience, self-asserted necessity, or claims that only one institution may speak for the whole system.
+- **Continuity:** interpretive institutions remain bounded, independent, and resistant to capture over time — so constitutional meaning cannot be quietly rewritten by whoever controls the reviewing body, and challenge pathways stay open as stakes and dependency deepen.
+
+Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), scaled to [material stake](core_00_preamble.md#material-stake):
+
+- **Participation:** in challenging interpretive decisions, accessing structurally independent review, and dissenting without retaliation proportionate to impact and dependency.
+- **Oversight:** through public reasons, published rationale and evidence, ongoing conflict disclosure, mandatory external review, and periodic revalidation of institutional design.
+- **Accountability:** for expanding jurisdiction beyond constitutional questions, suppressing challenge pathways, using removal or restructuring as pretext, or concentrating unreviewable interpretive power.
+- **Timeliness:** in publishing decisions with reasons in time for meaningful challenge, and in revalidating interpretive institutions before capture or entrenchment hardens.
+
+Final **constitutional** interpretation must remain authoritative, bounded, auditable, and contestable. Interpretive authority is delegated to **Constitutional** forums only within the limits of this Article, [Chapter Eleven](core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction), and the **Authority Stack and Internal Hierarchy** cluster. They must remain anchored to stated **constitutional** reasons — not self-asserted necessity, institutional convenience, or exclusive expertise claims — and must never operate as a basis for unreviewable concentration of power.
+
+*Article neighbors:*
+
+- **Forum supervision:** [Chapter Eleven](core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) — Constitutional forum-family routing and supervision implement this Article without substituting forum process for the interpretive floors stated here.
+- **Challenge and justice:** **Article XII-B** (*Right to Challenge, Review, and Redress*) and [**Article XXIII**](core_06-06_rights_part_d.md#article-xxiii-conflict-resolution-escalation-and-emergency-proportionality) (*Conflict Resolution, Escalation, and Emergency Proportionality*) — interpretive review must preserve challenge rights and justice constraints without narrowing those floors.
+- **Non-entrenchment:** [**Article XXIV-A**](core_06-06_rights_part_d.md#article-xxiv-a-non-entrenchment-and-revisability) (*Non-Entrenchment and Revisability*) — periodic revalidation under **Article XXII-D** read with non-entrenchment discipline.
+- **Institutional routing:** **[corpus_institutions.md](corpus_institutions.md), CI-4** (*Appointment, competency, rotation, and removal*) and **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*) — implement composition and conflict controls without substituting for the Rights Floors stated here.
 #### Article XXII-A: Bounded Interpretive Mandate
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -1774,10 +1828,12 @@ Final **constitutional** interpretation must remain authoritative, bounded, audi
   - suspend challenge pathways;
   - displace designated implementation owners, except where the **constitutional** question itself requires that determination under the **Authority Stack and Internal Hierarchy** cluster.
 #### Article XXII-B: Composition, Rotation, and Conflict Controls
+<a id="article-xxii-b-composition-rotation-and-conflict-controls"></a>
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter One [Chapter One §6.3 Rights-Collision Procedure](core_01_a_values_principles.md#63-rights-collision-procedure), [§10 Governance Under Stewardship Discipline](core_01_b_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline), and [13. Integrated Application](core_01_b_stewardship_capacity_principles.md#14-integrated-application).
+- Read with: [Chapter Eight §11.3](core_08-08_standing_assessment.md#53-forum-disclosure-and-recusal-process-impact) (*classification discipline*); [Chapter Ten §6.10](core_10-10_misconduct.md#610-forum-recusal-failure-and-biased-panel-participation) (*named misconduct pattern*); [Chapter Eleven §2](core_11-11_forum.md#2-default-venue-and-primary-stakes) and [§6](core_11-11_forum.md#6-transfer-consolidation-and-coordination) (*Integrity-first routing and anti-self-judging*).
 
 </details>
 
@@ -1792,18 +1848,19 @@ Final **constitutional** interpretation must remain authoritative, bounded, audi
 
 <br>
 
-*In plain terms: no single bloc may control Constitutional forums, conflicts must be disclosed in real time, and procedural levers like vacancy or rotation must not be used to rig them.*
+*In plain terms: no single bloc may control **Constitutional forums** — the bodies that decide what the Constitution means. The people who sit on those panels, and the authorities that appoint them, must disclose conflicts in real time. Vacancy, rotation, and recusal rules must not be used to rig outcomes. If a panelist stays on a case while materially compromised, that can count as serious misconduct — and the dispute goes to **Integrity** forums first, not back to the same **Constitutional** panel to judge itself.*
 
-- **Composition and conflict-control floor:** Interpretive institutions must be structured to:
-  - preserve impartiality;
-  - prevent capture;
-  - remain contestable.
-- **Anti-capture structure:** They must use transparent composition and conflict safeguards sufficient to prevent durable control by any single appointing authority, institution, or stakeholder bloc.
-- **Ongoing disclosure and recusal:** Material affiliations, dependencies, and conflicts must be disclosed on an ongoing basis. Recusal must be available where impartiality is materially compromised.
-- **No procedural gaming:** Vacancy, rotation, and recusal continuity rules must not be used to create:
+- **Composition and conflict-control floor:** **Constitutional forums** — and the bodies that design, seat, rotate, and remove their panels under adopting instruments — must be structured to preserve impartiality, prevent capture, and remain contestable.
+- **Anti-capture structure:** **Constitutional forums**, their **appointing authorities**, and **adopting institutions** that govern panel composition must use transparent membership rules and conflict safeguards sufficient to prevent durable control by any single appointing authority, institution, or stakeholder bloc.
+- **Ongoing disclosure and recusal:** **Constitutional forum members and panelists** must disclose material affiliations, dependencies, and conflicts on an ongoing basis. **Recusal** must be available where impartiality is materially compromised.
+- **Enforcement and routing:**
+  - **Misconduct path:** A verified **failure to recuse** while **impartiality was materially compromised** may be alleged as **anti-constitutional misconduct** under **Chapter Ten** when substantiated under **Chapters Two through Four** and the **Chapter Ten** criteria set.
+  - **Integrity-first routing:** If the dispute is mainly about that recusal failure — or about a final serious misconduct finding that comes from it — it goes to **Integrity** forums first under **Chapter Eleven §2**, using the anti-self-judging rule in **Chapter Eleven §6**.
+  - **No self-judging:** A **Constitutional** forum cannot be the only final forum deciding whether its own panelist should have stepped aside.
+- **No procedural gaming:** **Constitutional forums** and the **bodies that govern vacancy, rotation, and recusal continuity** must not use those levers to create:
   - selective paralysis;
   - covert control.
-- **Institutional routing:** Detailed appointment pathways, rotation controls, and conflict/recusal procedures are governed by `corpus_institutions.md` **CI-4** (*Appointment, competency, rotation, and removal*) and **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*).
+- **Institutional routing:** Detailed appointment pathways, rotation controls, and conflict/recusal procedures for **Constitutional forum** panels are governed by **[corpus_institutions.md](corpus_institutions.md), CI-4** (*Appointment, competency, rotation, and removal*) and **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*).
 #### Article XXII-C: Public Reasons, Challenge Rights, and External Review
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -1823,7 +1880,7 @@ Final **constitutional** interpretation must remain authoritative, bounded, audi
 
 <br>
 
-*In plain terms: interpretive decisions must be published with real reasons and are open to structurally independent review — not re-reviewed by the same body that made them.*
+*In plain terms: interpretive decisions must be published with real reasons and are open to structurally independent review — not re-reviewed by the same body that made them. On a regular schedule, **Integrity** forums also conduct mandatory outside checkups on **Constitutional** forums for capture, decision quality, and Rights-Floor integrity.*
 
 - **Public reasons and auditability:** Binding interpretive decisions must be published in time to support meaningful challenge. Publication must include:
   - **constitutional** rationale;
@@ -1838,9 +1895,10 @@ Final **constitutional** interpretation must remain authoritative, bounded, audi
 
   Confidentiality exceptions must be narrow, time-bounded, and justified under **Chapter One** constraints.
 - **Independent challenge and external review:** Affected stakeholders must have standing to seek secondary review through an independent pathway.
-  - The pathway must be structurally separate from the originating decision body.
-  - It must be capable of correction, suspension, or reversal where material error, capture, or Rights-Floor breach is shown.
-- **Mandatory external review:** Independent external review at defined intervals is mandatory. It must assess:
+  - The review must be run by a different body — not the same people or panel that made the original decision.
+  - If the record shows a serious mistake, capture, or Rights-Floor breach, the reviewer must be able to fix, pause, or undo the decision.
+  - For manifest constitutional error in a **Constitutional** forum ruling, the reviewer is a specially constituted **Constitutional review panel** under **CF-6.2.5**, staffed from a published constitutional-review reserve roster maintained under **CF-16**, with no overlapping decision-makers from the originating panel and with published rotation, recusal, competence, reserve-capacity, and conflict-screening safeguards. The panel is a limited review panel inside the **Constitutional** forum family, not a separate forum family or a general appellate body. Capture, recusal-failure, or self-judging allegations route through **CF-7** before merits review.
+- **Mandatory external review:** At defined intervals, independent external review of **Constitutional forums** is mandatory. By default, **Integrity** forums conduct this review under **[Chapter Eleven §2](core_11-11_forum.md#2-default-venue-and-primary-stakes)** and the **cross-forum anti-self-judging rule** in **[Chapter Eleven §6](core_11-11_forum.md#6-transfer-consolidation-and-coordination)**. The reviewing **Integrity** forum must be structurally separate from the **Constitutional** forum under review and must not include overlapping decision-makers from the reviewed body's recent interpretive panels. Where **Integrity** forum integrity itself is materially at issue, backup routing under **Chapter Eleven §6** applies without narrowing this obligation. The review must assess:
   - capture indicators;
   - decision quality;
   - Rights-Floor integrity.
@@ -1863,18 +1921,16 @@ Final **constitutional** interpretation must remain authoritative, bounded, audi
 
 <br>
 
-*In plain terms: reviewers can be removed for real cause through due process — but "removal" and "restructuring" must never be used as weapons against independence or dissent.*
+*In plain terms: **Constitutional forum** panelists can be removed for real cause through due process — but **appointing authorities** and **adopting institutions** must not use "removal," "restructuring," or "redesign" as weapons against forum independence or dissent.*
 
-- **Grounds for removal:** Members are removable for:
+- **Grounds for removal:** **Constitutional forum members and panelists** are removable by their **appointing authorities** through transparent due-process procedures for:
   - material breach;
   - concealment;
   - corruption;
   - capture participation;
   - persistent procedural unfairness.
-
-  Removal must follow transparent due-process procedures.
-- **Periodic revalidation:** Institutional design must be periodically revalidated under **Article XXIV-A** (*Non-Entrenchment and Revisability*). It must be revised where capture risk or challenge-rights failure is materially evidenced.
-- **Anti-pretext:** Removal, restructuring, or redesign must not be used as a pretext to:
+- **Periodic revalidation:** **Constitutional forum** institutional design — and **adopting institutions** that govern their composition, operation, and challenge pathways — must be periodically revalidated under [**Article XXIV-A**](core_06-06_rights_part_d.md#article-xxiv-a-non-entrenchment-and-revisability) (*Non-Entrenchment and Revisability*). **Adopting institutions** must revise that design where capture risk or challenge-rights failure is materially evidenced.
+- **Anti-pretext:** **Appointing authorities**, **Constitutional forums**, and **adopting institutions** must not use removal, restructuring, or redesign of **Constitutional forum** panels or institutions as a pretext to:
   - defeat independence;
   - terminate pending review;
   - retaliate for good-faith dissent;
