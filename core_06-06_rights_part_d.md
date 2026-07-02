@@ -151,7 +151,7 @@ Adopted governance implementation provides escalation, proportionality of interv
 
 *In plain terms: use the lightest effective measure, set a clock on it, build in review and restoration, and never let "severity" or "convenience" erase dignity or appeal rights.*
 
-- **Justice application of the constraint principle:** This Article applies the [**Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle**](core_01_a_values_principles.md#least-restrictive-time-bounded-and-reviewable-constraint-principle) to justice, containment, and restorative-accountability measures. Where intervention is required, systems must select the least-restrictive effective measure. Each measure must include:
+- **Justice application of the constraint principle:** Justice, containment, and restorative-accountability measures apply the [**Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle**](core_01_a_values_principles.md#least-restrictive-time-bounded-and-reviewable-constraint-principle). Where intervention is required, each measure must include:
   - explicit duration limits;
   - review cadence;
   - restoration conditions.
@@ -161,16 +161,7 @@ Adopted governance implementation provides escalation, proportionality of interv
   - restrictions lacking auditable re-evaluation triggers.
 - **Deprivation of life:** Deprivation of life as a justice measure is **categorically prohibited** under **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*).
   - **Durable containment** under this bullet — subject to duration-limit, review-cadence, restoration-condition, and auditable-re-evaluation requirements — is the Chapter Six pathway for threats that cannot be addressed by time-limited or reversible measures.
-- **Prohibited justice bases, methods, and effects:** Restrictions, exclusions, or comparable justice measures must not be justified by, imposed through, carried out through, or allowed to produce as an intended or reasonably foreseeable design effect any pattern prohibited by **Article V** (*Equal Basic Rights*) and the [**Anti-Degrading-Process Principle**](core_01_a_values_principles.md#anti-degrading-process-principle), including:
-  - retaliatory grievance;
-  - degrading treatment;
-  - humiliation-for-its-own-sake;
-  - spectacle-for-deterrence;
-  - procedural-convenience override;
-  - discriminatory burdening;
-  - collective retaliation.
-
-- **Rights-Floor minimums apply throughout:** No justice measure may suspend, waive, extinguish, or reduce the **Rights-Floor minimums** stated in **Article V** (*Equal Basic Rights*): baseline dignity protections, minimum subsistence access, and core challenge, review, and appeal rights. Those minimums remain fully applicable throughout imposition, review, and carrying out of any restriction, containment, or restorative-accountability measure under this Article and **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*).
+- **Article V minimums apply throughout:** Restrictions, exclusions, or comparable justice measures must comply with **Article V** (*Equal Basic Rights*), the [**Rights-Floor Minimums Principle**](core_01_a_values_principles.md#rights-floor-minimums-principle), and the [**Anti-Degrading-Process Principle**](core_01_a_values_principles.md#anti-degrading-process-principle) throughout imposition, review, and carrying out of any restriction, containment, or restorative-accountability measure under this Article and **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*).
 - **Escalation and review:** Affected parties must have access to escalation paths proportionate to impact.
   - Access includes appeal or multi-layer review where material interests are at stake.
   - Affected parties must receive:
@@ -212,7 +203,7 @@ Adopted governance implementation provides escalation, proportionality of interv
   - a default expiry;
   - a predefined independent review cadence;
   - explicit restoration and rollback conditions.
-- **Anti-pretext:** Emergency designation must not rest on:
+- **Anti-pretext and no-bypass:** Emergency designation is governed by the [**Constitutional No-Bypass Principle**](core_01_a_values_principles.md#constitutional-no-bypass-principle) and must not rest on:
   - operator convenience;
   - self-created urgency;
   - avoidance of ordinary constitutional scrutiny;
@@ -366,9 +357,7 @@ Overrun without documented tier-appropriate extension, escalation, or interim re
 
 <strong><span style="color: #2563eb;">Definition:</span></strong> [Governance](core_05a_accountability_definitions.md#governance) · [O](core_05a_accountability_definitions.md#governance) · [E](core_05a_accountability_definitions.md#governance-e) · [C](core_05a_accountability_definitions.md#governance-c)
 
-Governance rules, participation mechanisms, weighting models, and funding structures must remain revisable on ongoing justification.
-
-Inertia, convenience, and historical precedent alone cannot entrench arrangements that lack continued constitutional alignment.
+Governance rules, participation mechanisms, weighting models, and funding structures remain subject to the ongoing-justification discipline in [Chapter One §10.1](core_01_b_stewardship_capacity_principles.md#10-governance-as-authorized-structure).
 #### Article XXIV-A: Non-Entrenchment and Revisability
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -424,7 +413,7 @@ Inertia, convenience, and historical precedent alone cannot entrench arrangement
   - public reasons;
   - expected effects;
   - compatibility with **Chapters Thirteen through Fifteen** where applicable.
-- **Anti-bypass:** Changes must not be used to bypass any of the following by routing substantive change through emergency, implementation, or custody mechanisms:
+- **Anti-bypass:** Under the [**Constitutional No-Bypass Principle**](core_01_a_values_principles.md#constitutional-no-bypass-principle), changes must not be used to bypass any of the following by routing substantive change through emergency, implementation, or custody mechanisms:
   - **Articles V** and **VI**;
   - equality guarantees in **Articles V-B** and **III-B**;
   - formal change-validity constraints.
@@ -439,7 +428,7 @@ Transition from legacy to constitutional operation must be:
 - time-bounded;
 - reviewable.
 
-Transition measures apply the [**Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle**](core_01_a_values_principles.md#least-restrictive-time-bounded-and-reviewable-constraint-principle) where interim authority, remediation, deprivation, custody transfer, or comparable restriction is used.
+Transition measures apply the [**Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle**](core_01_a_values_principles.md#least-restrictive-time-bounded-and-reviewable-constraint-principle) and the [**Constitutional No-Bypass Principle**](core_01_a_values_principles.md#constitutional-no-bypass-principle) where interim authority, remediation, deprivation, custody transfer, or comparable restriction is used.
 
 Transitional governance exists to secure continuity and non-regression. It must **not** create:
 - durable exception authority;

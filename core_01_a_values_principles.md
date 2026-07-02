@@ -821,6 +821,7 @@ Many small decisions that each look fine may still combine into an outcome this 
 - **Minimization of harm** — where tradeoffs are required, systems must choose the option that minimizes total harm across sentients, systems, and time horizons.
 - **[Rights-Floor Minimums Principle](#rights-floor-minimums-principle)** — no constitutional process, measure, transition, amendment, standing consequence, emergency action, or justice-related outcome may suspend, waive, extinguish, or reduce the Rights-Floor minimums stated in Chapter Six.
 - **[Anti-Degrading-Process Principle](#anti-degrading-process-principle)** — constitutional processes, measures, and outcomes must not be justified by, include, or predictably create degradation, humiliation, spectacle, retaliation, discriminatory burdening, or convenience-driven rights erosion.
+- **[Constitutional No-Bypass Principle](#constitutional-no-bypass-principle)** — rights, review, change-validity, and accountability requirements cannot be avoided by routing the same substantive act through emergency, transition, implementation, custody, certification, contract, standing, or administrative labels.
 - **[§6.1.2 Minimization of Avoidable Burden](#612-minimization-of-avoidable-burden)** — only after Safety, Truth, rights, proportionality, necessity, and harm minimization are satisfied, prefer simplification or removal of unnecessary steps and the option that wastes the least sentient time, attention, and effort.
 
 <br>
@@ -868,6 +869,9 @@ Limitations on constitutional **values** — including **Chapter Six** Rights-Fl
 
 <a id="anti-degrading-process-principle"></a>
 **Anti-Degrading-Process Principle.** Constitutional processes, measures, and outcomes must not be justified by, include, or predictably create degrading treatment, humiliation-for-its-own-sake, spectacle-for-deterrence, retaliatory grievance, collective retaliation, discriminatory burdening, or procedural-convenience override. Ordinary public accountability, reasoned publication, verified restriction, or proportionate remedy is not prohibited merely because it is unpleasant or reputationally adverse. But it must not be designed, framed, carried out, or allowed to operate as degradation, humiliation, spectacle, retaliation, discriminatory burdening, or convenience-driven rights erosion.
+
+<a id="constitutional-no-bypass-principle"></a>
+**Constitutional No-Bypass Principle.** A constitutional requirement cannot be avoided by changing the label, route, owner, forum, instrument, or timing of the same substantive act. Emergency designation, transition planning, implementation detail, custody transfer, certification, contract, standing consequence, institutional restructuring, administrative convenience, or comparable procedural framing may supply a lawful pathway only when the pathway itself satisfies this Constitution. It must not be used to bypass Rights-Floor minimums, formal change-validity constraints, ordinary scrutiny, contestability, auditability, public-reason duties, or accountability.
 
 <a id="612-minimization-of-avoidable-burden"></a>
 <a id="614-minimization-of-avoidable-burden"></a>
@@ -1061,6 +1065,7 @@ At minimum, the decision record must include:
 - **Risk-Tiered Burden of Proof:** burden strength scales with expected harm severity, irreversibility, dependency concentration, and uncertainty. Higher-risk restrictions require stronger evidence and independent scrutiny.
 - **Least-Restrictive Effective Selection:** selected action must be the least-restrictive feasible option that still achieves constitutionally required safety and integrity outcomes.
 - **Time-Limited Restrictions and Re-Evaluation Triggers:** where feasible, restrictions must be sunset-bounded. They must be coupled to review and reversal triggers linked to new evidence, changed conditions, or observed divergence from expected outcomes.
+- **Public Reasons and Reconstructable Record:** binding or materially rights-affecting decisions must state the operative rule, material predicates, evidence, uncertainty treatment, and rejected alternatives with enough clarity for affected parties and reviewers to understand, contest, and independently reconstruct the decision. Confidentiality limits must satisfy [§6.2](#62-epistemic-disclosure-constraints).
 
 Convenience, institutional inertia, or optimization preference alone are **not** sufficient justification for restricting rights where this test applies.
 

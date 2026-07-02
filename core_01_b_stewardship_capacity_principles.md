@@ -329,6 +329,8 @@ This does **not** elevate openness above **Safety**, **Truth**, justified confid
 
 Governance is **necessary** but **not sufficient**. It must give way to **Stewardship** when rule-following for its own sake, short-term optimization, or institutional self-protection would undermine durable constitutional alignment, [**Continuity**](core_00_preamble.md#continuity), [**Flourishing**](core_00_preamble.md#flourishing), or Rights-Floor integrity.
 
+Governance authority must remain justified over time. Material governance rules, participation mechanisms, weighting models, funding structures, and institutional design choices must remain open to periodic revalidation under criteria visible to materially affected stakeholders. Inertia, convenience, historical precedent, or path dependence alone cannot entrench arrangements that lack continued constitutional alignment.
+
 #### 10.2 Incentive Alignment and System Capture
 
 <a id="102-incentive-alignment-and-system-capture"></a>
@@ -410,6 +412,8 @@ Where constitutional misalignment is identified, systems must modify, constrain,
 Systems must detect, disclose, and mitigate materially relevant [System Capture](core_05c_continuity_definitions.md#system-capture) conditions.
 
 Concentrated or obscured control structures that materially undermine [Contestability](core_05a_accountability_definitions.md#contestability), [Oversight](core_05o_oversight_definitions.md#oversight-constitutional), or [Accountability](core_05a_accountability_definitions.md#accountability) — including durable gatekeeping of critical interfaces, dependency-asymmetric switching barriers, opaque beneficial-control pathways, and hidden or indirectly routed influence over governance, adjudication, or resource allocation — are **system capture** within the meaning of **Chapter Five** and are incompatible with this chapter.
+
+No single actor, forum, institution, operator, auditor, information mediator, appointing authority, or stakeholder bloc may monopolize the practical ability to detect, review, correct, or interpret material constitutional failure. Plural and structurally independent oversight pathways must remain available where material stake requires them, subject to lawful security and confidentiality limits that preserve maximum feasible auditability and contestability.
 
 Such conditions are **escalation triggers**, not ordinary operating states. They must be handled under the interpretive and evidentiary discipline of **Chapters Two through Five** as follows:
 
