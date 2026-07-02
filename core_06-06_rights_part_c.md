@@ -523,9 +523,29 @@ Those floors apply to **exceptional institutional power** in three linked domain
 
 <br>
 
+*In plain terms: **Article XIV** is the information-integrity Rights Floor — the shared environment where we learn, coordinate, and decide must stay honest, plural, and open to challenge. No one gets to own the pipeline of truth. Rankings, summaries, and gatekeepers have to show their work, and you must be able to compare other views and push back when information misleads you.*
+
+This Article states **constitutional floors** for [Info-Sphere](core_05p_participation_definitions.md#info-sphere) integrity under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims):
+
+- **Flourishing:** sentients can access accurate, relevant information; compare alternative interpretations; and exercise self-determination without epistemic capture, manufactured consensus, or misleading reliance on what systems present as true.
+- **Continuity:** the info-sphere stays plural, auditable, and resilient across time and scale — knowledge infrastructures must not quietly concentrate into single points of mediation, suppress correction, or degrade the shared record that survival, coordination, and long-horizon stewardship depend on.
+
+Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), scaled to [material stake](core_00_preamble.md#material-stake):
+
+- **Participation:** in comparing interpretations, challenging materially misleading or incomplete outputs, and accessing contestability paths proportionate to reliance and impact.
+- **Oversight:** through disclosed sources, methods, limits, and uncertainty; independently verifiable validation; and audit trails that let outsiders reconstruct what was claimed and why.
+- **Accountability:** for selective reporting, suppression, fragmented disclosure, and other conduct that degrades decision-relevant understanding — with correction, provenance preservation, and remedy where harm follows misleading reliance.
+- **Timeliness:** in error correction, contest resolution, and disclosure review before delay would make understanding, challenge, or remedy effectively unreachable.
+
 Accurate, relevant, and contestable information is foundational to self-determination, coordination, and the effective allocation of resources in reality.
 
-Epistemic integrity operates as both a right and a system-wide constraint. Where conflict arises, its constraint function governs.
+[Epistemic Integrity](core_05o_oversight_definitions.md#epistemic-integrity) operates as both a right and a system-wide constraint. Where conflict arises, its constraint function governs.
+
+*Article neighbors:*
+
+- **Read together:** **Article XII** (*Right to Reliable and Trustworthy Systems*) where system outputs shape reliance; **Article XV** (*Audit, Transparency, and Independent Verification*) for records and independent verification; **Article XVII-E** (*Scientific Publication, Review, and Replication Integrity*) where publication-scoped integrity is materially implicated.
+- **Truth constraint:** Chapter One [4.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint) and [Epistemic Disclosure Constraints](core_01_a_values_principles.md#62-epistemic-disclosure-constraints) bind every subsection here.
+- **Classification:** **[corpus_systems.md](corpus_systems.md), CS-4 — System classification and handling** scales detailed info-sphere obligations for **Class A**, **Class B**, and **Class C** systems; [Material Impact](core_05o_oversight_definitions.md#material-impact) triggers classification where class is unsettled.
 
 #### Article XIV-A: Info-Sphere Plurality and Anti-Monopoly
 <details>
@@ -552,14 +572,14 @@ Epistemic integrity operates as both a right and a system-wide constraint. Where
   - Survival- and ecology-related data must have robust, geographically distributed storage.
 - **Plurality, contestability, and audit:** The interpretation of reality must remain plural, transparent, and contestable.
   - **Article XV** (*Audit, Transparency, and Independent Verification*) and **Chapters Two through Four** govern records and independent verification for systems under this Constitution.
-  - For high-impact summarization, ranking, mediation, or interpretation systems, operational detail appears in **[corpus_systems.md](corpus_systems.md)** (classification and protocol layers). That detail covers:
+  - For **Class A**, **Class B**, and **Class C** summarization, ranking, mediation, or interpretation systems, operational detail appears in **[corpus_systems.md](corpus_systems.md), CS-4 — System classification and handling** and related protocol layers. That detail covers:
     - disclosure of reasoning approach;
     - provenance and uncertainty treatment;
     - contestability;
     - proportional ability to bypass or adjust ranking criteria — subject to safety, security, and system integrity.
   - It must not narrow this Article.
 - **Contingent-settlement signals:** Prices, odds, pool sizes, or comparable outputs of contingent-payment or event-settlement systems must not be treated, on their own, as evidence sufficient to decide truth, probability, or compliance for rights, safety, or governance determinations.
-  - Where such signals inform public or high-impact decisions, they remain subject to **Chapter One §10.2.3**, **Chapter Five** (*Truth (Constitutional Constraint)*; *Epistemic Integrity*), and contestability obligations elsewhere in this Article.
+  - Where such signals inform public decisions or decisions with [Material Impact](core_05o_oversight_definitions.md#material-impact), they remain subject to **Chapter One §10.2.3**, **Chapter Five** (*Truth (Constitutional Constraint)*; *Epistemic Integrity*), and contestability obligations elsewhere in this Article.
 #### Article XIV-B: Transparency, Auditability, and Contestability
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -579,11 +599,11 @@ Epistemic integrity operates as both a right and a system-wide constraint. Where
 
 <br>
 
-*In plain terms: high-impact information must disclose its sources, methods, and limits, and sentients must have a real ability to compare alternative interpretations and contest misleading outputs.*
+*In plain terms: information that materially affects decisions or reliance must disclose its sources, methods, and limits, and sentients must have a real ability to compare alternative interpretations and contest misleading outputs.*
 
 - **Authentic inquiry and interpretive diversity:** All sentients have the right to compare alternative interpretations of shared information.
   - Critical knowledge infrastructures must preserve interpretive diversity so that multiple models, frameworks, and analytical methods remain meaningfully accessible.
-- **Transparency and provenance:** Before high-impact distribution or institutional reliance, the following must be documented:
+- **Transparency and provenance:** Before distribution or institutional reliance with [Material Impact](core_05o_oversight_definitions.md#material-impact), the following must be documented:
   - material sources;
   - methods;
   - scope;
@@ -614,9 +634,9 @@ Epistemic integrity operates as both a right and a system-wide constraint. Where
 
 <br>
 
-*In plain terms: public-facing and high-impact information must correct errors, preserve provenance, and not be sliced or suppressed to mislead. Ecological-footprint reporting must be accessible and decision-usable.*
+*In plain terms: public-facing information with material external impact must correct errors, preserve provenance, and not be sliced or suppressed to mislead. Ecological-footprint reporting must be accessible and decision-usable.*
 
-- **Correction, reporting, and epistemic stewardship:** Public-facing and high-impact information systems and institutions must:
+- **Correction, reporting, and epistemic stewardship:** Public-facing information systems and institutions with material external impact must:
   - correct material error;
   - preserve provenance;
   - avoid selective reporting, suppression, or fragmented disclosure that materially degrades decision-relevant understanding.
@@ -642,6 +662,20 @@ Epistemic integrity operates as both a right and a system-wide constraint. Where
 
 <br>
 
+*In plain terms: **Article XV** is the audit-and-verification Rights Floor — when a system materially affects your life, you must be able to see enough of what it does for an outsider to check it, and more than one independent path must be able to review and correct failure. Audit cannot be a rubber stamp, a private club, or a maze of cost and delay designed to keep challenges out.*
+
+This Article states **constitutional floors** for audit, transparency, and independent verification under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims):
+
+- **Flourishing:** sentients and appropriately authorized parties can reconstruct what materially impactful systems did, challenge misalignment or misleading conduct, and participate in review without capture by a single auditor, operator, or gatekeeper.
+- **Continuity:** audit trails, oversight pathways, and verification access stay durable across time, scale, and deepening dependency — systems must not quietly erode observability, concentrate review in one actor, or price or delay verification until accountability becomes theoretical.
+
+Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), scaled to [material stake](core_00_preamble.md#material-stake):
+
+- **Participation:** in accessing proportional records, initiating contestable review, and challenging barriers that defeat meaningful audit or verification.
+- **Oversight:** through observable evidence, distributed independent review pathways, and verification machinery proportionate to impact, dependency, and risk.
+- **Accountability:** for failure, misalignment, capture, and conduct that hides or degrades reconstructability — with correction and remedy where audit denial or oversight monopoly materially harms protected interests.
+- **Timeliness:** in audit access, independent review, and barrier correction before delay, cost, opacity, or gatekeeping would make verification or remedy effectively unreachable.
+
 Sentients and appropriately authorized parties have the right to audit, transparency, and independent verification mechanisms proportionate to system impact, dependency, and risk.
 
 Those mechanisms must preserve:
@@ -650,6 +684,13 @@ Those mechanisms must preserve:
 - proportional access.
 
 They operate consistently with **Chapters Two through Four**, including exclusive enforcement and burden allocation, the Compliance Evidence Standard, Definition Traceability, observability, and verification accessibility.
+
+*Article neighbors:*
+
+- **Read together:** **Article XIV** (*Info-Sphere Integrity*) where epistemic records and contestability are materially implicated; **Article XII-B** (*Right to Challenge, Review, and Redress*) for challenge rights that audit supports but does not replace; [Chapter Seven](core_07-07_system_alignment_certification.md#chapter-seven-system-alignment-certification) and [System Alignment Certification](core_05c_continuity_definitions.md#system-alignment-certification-constitutional) where alignment evidence must remain independently verifiable.
+- **Verification machinery:** **Chapters Two through Four** supply definition integrity, burden allocation, observability, and verification accessibility that this Article implements at the Rights-Floor layer.
+- **Classification:** obligations scale with [Classification-Scaled Governance](core_05o_oversight_definitions.md#classification-scaled-governance) and **[corpus_systems.md](corpus_systems.md), CS-4 — System classification and handling**; where class is uncertain, govern at the highest plausible class until resolved.
+
 #### Article XV-A: Auditability and Observable Evidence
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -744,9 +785,29 @@ They operate consistently with **Chapters Two through Four**, including exclusiv
 
 <br>
 
+*In plain terms: **Article XVI** is the lifecycle-and-reversibility Rights Floor — systems that materially affect the outside world must be built, tested, and rolled out in stages, with real separation between experiments and production, and a workable way to undo or contain harm when something goes wrong. You cannot label a system "experimental" or "low-impact" just to skip safeguards while it actually affects the outside world.*
+
+This Article states **constitutional floors** for system lifecycle, environments, and reversibility under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims):
+
+- **Flourishing:** sentients are protected across design, testing, deployment, and change — with safety, [Epistemic Integrity](core_05o_oversight_definitions.md#epistemic-integrity), and challenge rights preserved as impact and dependency grow, and with rollback, containment, or compensatory restoration where harm would otherwise stick.
+- **Continuity:** lifecycle discipline holds across time and scale — environments stay separated, escalation stays documented and auditable, and reversibility must not quietly disappear as systems become harder to replace or more deeply embedded in shared infrastructure.
+
+Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), scaled to [material stake](core_00_preamble.md#material-stake):
+
+- **Participation:** in stakeholder-visible justification for escalation, classification, and deployment decisions that materially affect protected interests — and in challenge paths that remain open across the functional lifecycle.
+- **Oversight:** through separable environments, documented promotion and escalation, progressive deployment records, and audit trails proportionate to impact, dependency, and irreversibility.
+- **Accountability:** for misclassification, environment bypass, undisclosed external impact, and deployment that forecloses restoration without proportionate precaution — with audit, standing review, and conflict resolution where evasion is substantiated.
+- **Timeliness:** in rollback, containment, and corrective escalation before delay would make harm irreversible or make challenge and remedy effectively unreachable.
+
 Systems that materially affect sentients, shared infrastructure, or the environment must be designed, tested, and deployed with disciplined lifecycle governance. Risk must scale with impact, dependency, and irreversibility.
 
 Sentients have the right to stewardship that preserves safety, epistemic integrity, and challenge rights across the functional lifecycle.
+
+*Article neighbors:*
+
+- **Read together:** **Article XVII** (*Sandboxed Innovation, Experimentation, and Creative Freedom*) where lighter rules apply only when external impact is absent or demonstrably contained; **Article XV** (*Audit, Transparency, and Independent Verification*) for reconstructable deployment and escalation evidence; **Article XII-F** (*Resilience and Self-Healing Baseline*) where recovery discipline intersects lifecycle change.
+- **Implementation layer:** **[corpus_systems.md](corpus_systems.md), CS-4 — System classification and handling** and **Protocol A — System Design, Testing, Verification, and Deployment** — without narrowing the floors stated here. **Class A**, **Class B**, and **Class C** systems carry the strongest lifecycle duties; valid **Class P** treatment remains under **Article XVII** only while external impact stays absent or demonstrably contained.
+
 #### Article XVI-A: Lifecycle Governance and Environment Separation
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -766,9 +827,9 @@ Sentients have the right to stewardship that preserves safety, epistemic integri
 
 <br>
 
-*In plain terms: high-impact systems must keep development, testing, and production separate — and non-production behavior must not leak through to bypass production safeguards.*
+*In plain terms: systems that materially affect the outside world must keep development, testing, and production separate — and non-production behavior must not leak through to bypass production safeguards.*
 
-- **Environment integrity:** High-impact and non-experimental systems must use separable operational environments — for example:
+- **Environment integrity:** **Class A**, **Class B**, and **Class C** systems under **[corpus_systems.md](corpus_systems.md), CS-4 — System classification and handling**, and other non-**Class P** systems with material external impact, must use separable operational environments — for example:
   - development;
   - testing;
   - staging;
@@ -828,13 +889,35 @@ Sentients have the right to stewardship that preserves safety, epistemic integri
 
 <br>
 
-*In plain terms: a system cannot call itself "experimental" or "low-impact" to dodge obligations while actually affecting the outside world.*
+*In plain terms: a system cannot call itself "experimental," **Class P**, or "low-impact" to dodge obligations while actually affecting the outside world.*
 
 - **Misclassification and evasion:** No system may claim reduced lifecycle or deployment obligations while exerting undisclosed or material external impact.
   - Such conduct violates informational integrity (**Article XIV** (*Info-Sphere Integrity*)) and auditability where observable evidence is implicated (**Article XV-A** (*Auditability and Observable Evidence*)).
   - It is subject to audit (**Article XV-A** (*Auditability and Observable Evidence*)), review of standing (**Article XVIII-A** (*Standing Distinction*)), and conflict resolution (**Article XXIII-A** (*Justice Objective and Scope*)).
 
 ### Article XVII: Sandboxed Innovation, Experimentation, and Creative Freedom
+
+<br>
+
+*In plain terms: **Article XVII** is the innovation-and-creativity Rights Floor — sentients may experiment, build, and express themselves under lighter rules when real outside impact is absent or truly contained, but a "sandbox" label is not a loophole. Once a project starts affecting others or plugging into shared systems, it must step up to full lifecycle obligations. Innovators can be rewarded, but not by locking up knowledge, tools, or infrastructure that others need to live, learn, repair, or verify.*
+
+This Article states **constitutional floors** for sandboxed innovation, experimentation, and creative freedom under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims):
+
+- **Flourishing:** sentients can innovate, experiment, and create with reduced structural requirements when material external impact is absent or demonstrably contained — through genuine opt-in, honest disclosure, and reward structures that preserve downstream experimentation, repair, interoperability, and truthful scrutiny.
+- **Continuity:** sandbox treatment does not normalize into permanent low-obligation operation as impact, dependency, or integration grow — transitions to higher obligations stay timely, exclusivity stays narrow and reviewable, and dependency-critical innovations must not harden into durable enclosure or lock-in.
+
+Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), scaled to [material stake](core_00_preamble.md#material-stake):
+
+- **Participation:** in opt-in experimentation, downstream reuse and challenge, and reassessment when sandbox systems begin to matter outside their stated boundaries.
+- **Oversight:** through disclosed experimental status, containment boundaries, transition monitoring, and reviewable reward or exclusivity claims proportionate to class, dependency, and coordination effects.
+- **Accountability:** for uncontained risk externalization, involuntary enrollment by default or opaque dependency, opportunistic delay in graduating to full obligations, and reward structures that suppress repair, safety work, interoperability, research, education, or migration.
+- **Timeliness:** in transition to **Article XVI** lifecycle requirements and in exclusivity reassessment before delay or lock-in would make higher obligations, broad access, or remedy effectively unreachable.
+
+*Article neighbors:*
+
+- **Read together:** **Article XVI** (*System Lifecycle, Environments, and Reversibility*) when impact, dependency, or integration outgrows sandbox conditions; **Article XIV** (*Info-Sphere Integrity*) and **Article XVII-E** (*Scientific Publication, Review, and Replication Integrity*) where publication-scoped integrity is materially implicated; **Article XV** (*Audit, Transparency, and Independent Verification*) for disclosure and verification of containment and transition claims.
+- **Implementation layer:** **[corpus_systems.md](corpus_systems.md), Protocol A** and **CS-4 — System classification and handling** — without narrowing the floors stated here.
+
 #### Article XVII-A: Sandboxed Scope
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -856,16 +939,15 @@ Sentients have the right to stewardship that preserves safety, epistemic integri
 
 *In plain terms: experimentation and creative work can operate under lighter rules — but only when real external impact is either absent or demonstrably contained. The "sandbox" label alone is not enough.*
 
-Sentients have the right to innovate, experiment, and express themselves through systems that operate with reduced structural requirements when material external impact is absent or demonstrably contained.
+- **Innovation and experimentation right:** Sentients have the right to innovate, experiment, and express themselves through systems that operate with reduced structural requirements when material external impact is absent or demonstrably contained.
+- **Sandbox eligibility:** Sandboxed treatment — including valid **Class P** classification under **[corpus_systems.md](corpus_systems.md), CS-4 — System classification and handling** where applicable — depends on:
+  - actual containment;
+  - reversibility;
+  - limited integration with shared systems.
+  
+  It may not be claimed by label alone.
+- **Implementation detail:** Further elaboration appears in **[corpus_systems.md](corpus_systems.md), Protocol A** (*Personal, Isolated, and Experimental Systems*; *Creative, Entertainment, and Expressive Systems*).
 
-Sandboxed treatment depends on:
-- actual containment;
-- reversibility;
-- limited integration with shared systems.
-
-It may not be claimed by label alone.
-
-Further elaboration appears in **[corpus_systems.md](corpus_systems.md), Protocol A** (*Personal, Isolated, and Experimental Systems*; *Creative, Entertainment, and Expressive Systems*).
 #### Article XVII-B: Containment, Disclosure, and Opt-In
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -960,8 +1042,13 @@ Further elaboration appears in **[corpus_systems.md](corpus_systems.md), Protoco
   - proportionate to actual contribution and justified development burden.
   
   The burden of justification remains on the claimant. Attribution and provenance may persist beyond an exclusivity term. Durable exclusion and artificial scarcity may not.
+- **Copyright-like protection:** For this Article, copyright-like protection means a temporary exclusionary reward over a fixed expressive work, including control over copying, distribution, public display or performance, adaptation, and commercial exploitation. Attribution, provenance, integrity, and anti-fraud protections may persist after exclusion expires.
+- **Publication and initial appearance:** Publication means the creator's or lawful right-holder's intentional release of a fixed expressive work to the public, commercial market, or a materially open audience. Private circulation, confidential review, limited collaboration, archival deposit without public access, or non-commercial draft sharing does not by itself constitute publication. Initial appearance means the first non-confidential public availability of a materially identifiable version of the work, including non-commercial draft availability.
 - **Publication-based terms for expressive works:** Copyright-like protection should default to publication-based timing rather than author-life timing.
-  - A published work should presumptively receive no more than `publish+30` years of exclusion.
+  - A published work should presumptively receive no more than `publication+30` years of exclusion.
+  - A non-commercial draft or unpublished expressive work that has made an initial appearance may receive copyright-like exclusion for no more than `initial appearance+50` years.
+  - If a work with an initial appearance is later published, the exclusion term is capped by the earlier of `initial appearance+50` or `publication+30`.
+  - No draft, unpublished-work, or delayed-publication rule may be used to create indefinite exclusion, suppress archiving, defeat lawful quotation or criticism, or extend control over works that function as shared cultural, educational, safety, standards, or informational infrastructure.
   - Shorter terms, earlier compulsory-access conversion, or immediate public-access treatment apply where the work is:
     - publicly funded;
     - dependency-critical;
@@ -1035,7 +1122,7 @@ Further elaboration appears in **[corpus_systems.md](corpus_systems.md), Protoco
   - long-run explanatory or predictive reliability.
   
   It must not track journal brand, impact-factor proxy, or closed editorial status.
-  - High-impact, policy-relevant, safety-relevant, or dependency-relevant claims should face a strong presumption of independent replication, adversarial review, or both before they receive durable institutional deference.
+  - Claims with [Material Impact](core_05o_oversight_definitions.md#material-impact) that are policy-relevant, safety-relevant, or dependency-relevant should face a strong presumption of independent replication, adversarial review, or both before they receive durable institutional deference.
   - Replication, null-result, and correction-oriented work must remain publishable and citable on terms that do not depend on prestige signaling.
 - **Correction and contestability:** Good-faith correction, amendment, and supersession must remain easier than concealment.
   - Review and editorial systems must remain contestable, auditable, conflict-disciplined, and reason-giving in major acceptance, correction, and retraction decisions.
@@ -1048,14 +1135,6 @@ Further elaboration appears in **[corpus_systems.md](corpus_systems.md), Protoco
 <a id="article-xviii-standing-and-participation-status"></a>
 
 ### Article XVIII: Standing and Participation Status
-
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Upstream: Principles: Chapter One [5. Trust](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity), [Chapter One §6.3 Rights-Collision Procedure](core_01_a_values_principles.md#63-rights-collision-procedure), and [§10 Governance Under Stewardship Discipline](core_01_b_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline).
-- Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad); [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims); **Article III-A** (*Survival*); [System Alignment Certification](core_05c_continuity_definitions.md#system-alignment-certification-constitutional); [Chapter Eight](core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) and [Chapter Nine](core_09-09_standing_integration.md#chapter-nine-standing-effects-and-integration) (*standing classification and effects — owner layers*).
-
-</details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
@@ -1071,7 +1150,21 @@ Further elaboration appears in **[corpus_systems.md](corpus_systems.md), Protoco
 
 <br>
 
-Participant standing is participation-status or role-eligibility status recognized from constitutionally valid standing records, standing effects, good-standing criteria, or role-specific qualification criteria. It is not reputation or social esteem, and it does not itself impose access restrictions.
+*In plain terms: **Article XVIII** is the participation-status Rights Floor — it governs who qualifies for which roles, how those calls are made and challenged, and your right to move, seek refuge, and not be left without protection. **Participant standing** is role eligibility from verified records and fair rules — not popularity, a brand name, or a social score — and it is separate from dignity, baseline rights, and being a stakeholder because a system actually affects you. If standing is lowered or suspended, you must get clear reasons, a real way to push back, and limits that fit the actual risk — and standing by itself must never cut off survival essentials or paths to challenge harm and get remedy. Good standing must reflect what can be checked today, not old reputation — and every sentient may move between jurisdictions, seek refuge from regimes that violate this Constitution, and must not be rendered stateless.*
+
+This Article states **constitutional floors** for standing and participation status under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims):
+
+- **Flourishing:** sentients can hold and contest role eligibility through valid, plural, auditable pathways — without standing labels substituting for dignity, baseline rights, or stakeholder status when [Material Impact](core_05o_oversight_definitions.md#material-impact) is present; good standing rests on present, observable, contestable evidence rather than brand, scale, or past esteem alone.
+- **Continuity:** standing discipline stays revisable across time — restrictions remain proportionate, restorable where corrected, and must not harden into permanent exclusion from foundational constitutional voice except where **Chapter Ten** **anti-constitutional misconduct** classification and **Chapter Twelve Chapter One §8.1** expressly withhold durable political voice pending **full restitution**.
+
+Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), scaled to [material stake](core_00_preamble.md#material-stake):
+
+- **Participation:** in pluralistic standing evaluation, challenge to opaque or monopolized standing determinations, and restoration or requalification where material restrictions are corrected.
+- **Oversight:** through auditable standing records, continuous review of good-standing claims, and independent verification proportionate to the roles and restrictions at stake.
+- **Accountability:** for standing loss or degradation imposed without individualized predicate, proportionality, narrow tailoring, or real restoration pathways — including patterns that track protected characteristics or their material proxies.
+- **Timeliness:** in standing review, challenge, and remedy before delay would foreclose survival-critical access, audit paths, or constitutionally required redress under **Article XXIII-G** (*Timely Resolution and Anti-Delay Floor*).
+
+[Participant Standing](core_05a_accountability_definitions.md#participant-standing-constitutional) is participation-status or role-eligibility status recognized from constitutionally valid standing records, standing effects, good-standing criteria, or role-specific qualification criteria. It is not reputation or social esteem, and it does not itself impose access restrictions.
 
 Standing discipline under this Article implements the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) and [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) together with [System Alignment Certification](core_05c_continuity_definitions.md#system-alignment-certification-constitutional) and the [Chapters Eight–Eleven constitutional compass](core_08-08_standing_assessment.md#chapters-eight-eleven-constitutional-compass). Those owner-layer processes measure verified contribution and violation and supervise remedy; they must not be used to defeat **Article III-A** (*Survival*) survival essentials or other Rights Floors stated in this chapter.
 
@@ -1081,11 +1174,17 @@ It must remain distinct from:
 - stakeholder identification by material impact;
 - access to challenge or remedy where this Constitution preserves those floors.
 
+*Article neighbors:*
+
+- **Owner layers:** [Chapter Eight](core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) and [Chapter Nine](core_09-09_standing_integration.md#chapter-nine-standing-effects-and-integration) classify standing records and standing effects; this Article states Rights-Floor limits those layers must not narrow.
+- **Read together:** **Article V-A** (*Dignity and Equal Moral Standing*) and **Article XI** (*Stakeholder System Participation, Representation, and Due Process*) — standing criteria must not substitute for dignity or stakeholder existence; **Article III-A** (*Survival*) — participant standing alone must not foreclose survival-critical access; **Article XIX** (*Interoperability, Portability, and Exit Integrity*) — operational counterpart to **Article XVIII-D** (*Movement, Migration, and Refuge*) without either narrowing the other.
+
 #### Article XVIII-A: Standing Distinction
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter One [5. Trust](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity), [Chapter One §5 Freedom](#5-freedom-bounded-agency)-bounded-agency), and [13. Integrated Application](core_01_b_stewardship_capacity_principles.md#14-integrated-application).
+- Read with: [Chapter Nine §1.2](core_09-09_standing_integration.md#competency-gates) (*competency gates*) and [Competency Gate](core_05a_accountability_definitions.md#competency-gate); [Chapter Nine §1.3](core_09-09_standing_integration.md#standing-locks-in-the-standing-model) (*standing locks*), [Verified Violation Findings](core_05a_accountability_definitions.md#verified-violation-findings), and [Standing Lock](core_05a_accountability_definitions.md#standing-lock) — restrictive pathways from verified Violation Axis inputs; satisfying a competency gate does not waive an applicable standing lock, and good contribution does not erase unresolved violation findings.
 
 </details>
 
@@ -1095,19 +1194,30 @@ It must remain distinct from:
 - [Dignity and Equal Moral Standing](core_05p_participation_definitions.md#dignity-and-equal-moral-standing) · [O](core_05p_participation_definitions.md#dignity-and-equal-moral-standing) · [E](core_05p_participation_definitions.md#dignity-and-equal-moral-standing-e) · [C](core_05p_participation_definitions.md#dignity-and-equal-moral-standing-c)
 - [Stakeholder Participation Weight](core_05p_participation_definitions.md#stakeholder-participation-weight) · [O](core_05p_participation_definitions.md#stakeholder-participation-weight) · [E](core_05p_participation_definitions.md#stakeholder-participation-weight-e) · [C](core_05p_participation_definitions.md#stakeholder-participation-weight-c)
 - [Participant Standing](core_05a_accountability_definitions.md#participant-standing-constitutional) · [O](core_05a_accountability_definitions.md#participant-standing-constitutional) · [E](core_05a_accountability_definitions.md#participant-standing-constitutional-e) · [C](core_05a_accountability_definitions.md#participant-standing-constitutional-c)
+- [Competency Gate](core_05a_accountability_definitions.md#competency-gate) · [O](core_05a_accountability_definitions.md#competency-gate) · [E](core_05a_accountability_definitions.md#competency-gate-e) · [C](core_05a_accountability_definitions.md#competency-gate-c)
+- [Verified Violation Findings](core_05a_accountability_definitions.md#verified-violation-findings) · [O](core_05a_accountability_definitions.md#verified-violation-findings) · [E](core_05a_accountability_definitions.md#verified-violation-findings-e) · [C](core_05a_accountability_definitions.md#verified-violation-findings-c)
+- [Standing Lock](core_05a_accountability_definitions.md#standing-lock) · [O](core_05a_accountability_definitions.md#standing-lock) · [E](core_05a_accountability_definitions.md#standing-lock-e) · [C](core_05a_accountability_definitions.md#standing-lock-c)
 
 </details>
 
 <br>
 
-*In plain terms: standing and qualification criteria may govern roles only through valid, contestable pathways — they cannot be reputation in disguise, erase dignity, or decide whether someone is a stakeholder at all.*
+*In plain terms: trust-sensitive roles may open through published **competency gates** when someone has shown the needed skill, experience, and reliability — and may stay closed or limited through **standing locks** while a **verified violation finding** still needs correction. Neither pathway is popularity, insider gatekeeping, or a substitute for dignity or stakeholder status. Accusations alone are not violation findings; locks must fit what was actually verified and leave a real path to challenge and remedy.*
 
 - **Standing is different from:**
   - inherent dignity and equal moral standing (**Article V-A** (*Dignity and Equal Moral Standing*));
   - demonstration of material stake for stakeholder identification (**Chapter Five** — *Stakeholder*; *Stakeholder Participation Weight*).
-- **Non-substitution:** Standing criteria, labels, or scores must not be used to:
-  - redefine those distinctions;
-  - convert ordinary participation status into a substitute test for baseline rights or stakeholder existence.
+- **Competency gates:** A [Competency Gate](core_05a_accountability_definitions.md#competency-gate) is a published, auditable, contestable readiness threshold. When verified competence, experience, contribution records, and current good-standing criteria satisfy role-proportionate requirements, it may open access to trust-sensitive roles, delegated authority, oversight eligibility, or progressively consequential stewardship under [Chapter Nine §1.2](core_09-09_standing_integration.md#competency-gates).
+  - A competency gate is not reputation, social prestige, insider sponsorship, credential monopoly, dignity rank, or permanent entitlement.
+  - Informal, peer-organized, mutual-aid, maintenance, repair, teaching, or community stewardship experience must be recognized where it satisfies the same demonstrability standards as formal institutional experience.
+- **Verified violation findings and standing locks:** [Verified Violation Findings](core_05a_accountability_definitions.md#verified-violation-findings) may affect standing effect only when they rest on auditable, contestable findings satisfying **Chapters Two through Four** and [Chapter Eight](core_08-08_standing_assessment.md#verified-inputs-for-standing) — not allegations, intake labels, provisional routing, or forum-phase narratives alone.
+  - A [Standing Lock](core_05a_accountability_definitions.md#standing-lock) is the restrictive counterpart to a competency gate. While a verified violation finding remains unresolved or materially unremediated, it may prevent or limit trust-, role-, authority-, credit-, or recognition-linked pathways under [Chapter Nine §1.3](core_09-09_standing_integration.md#standing-locks-in-the-standing-model).
+  - A standing lock is not a dignity rank, Rights-Floor reduction, automatic retaliation, or merged merit score.
+  - Each standing lock must identify the effect blocked or limited, the protected subjects or interests, the corrective condition, the review path, and the reassessment point — and remain necessary, proportionate, auditable, and contestable.
+  - Satisfying a competency gate does not waive an applicable standing lock; good contribution does not erase unresolved verified violation findings.
+- **Non-substitution:** Standing criteria, labels, scores, competency gates, and standing locks govern role eligibility only. They must not:
+  - blur together who qualifies for a role and who has inherent dignity or equal moral standing;
+  - make role status a substitute for baseline rights or for deciding whether someone is a stakeholder because a system actually affects them.
 #### Article XVIII-B: Contestability and Proportional Restriction Limits
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
