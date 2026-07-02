@@ -819,7 +819,7 @@ Many small decisions that each look fine may still combine into an outcome this 
 - **[§6.1.1 Proportionality](#611-proportionality)** — limits on rights, freedoms, and other constitutional protections must match the size and likelihood of the harm addressed; scrutiny and reversibility requirements rise where risk is irreversible, could lock systems in, or could threaten [Ecological Recovery Capacity](core_05c_continuity_definitions.md#ecological-recovery-capacity-constitutional).
 - **Necessity** — constraints may be imposed only when no less-restrictive, reasonably effective alternative exists.
 - **Minimization of harm** — where tradeoffs are required, systems must choose the option that minimizes total harm across sentients, systems, and time horizons.
-- **[§6.1.2 Minimization of Avoidable Burden](#612-minimization-of-avoidable-burden)** — only after Safety, Truth, rights, proportionality, necessity, and harm minimization are satisfied, prefer the option that wastes the least sentient time, attention, and effort.
+- **[§6.1.2 Minimization of Avoidable Burden](#612-minimization-of-avoidable-burden)** — only after Safety, Truth, rights, proportionality, necessity, and harm minimization are satisfied, prefer simplification or removal of unnecessary steps and the option that wastes the least sentient time, attention, and effort.
 
 <br>
 
@@ -878,9 +878,11 @@ Limitations on constitutional **values** — including **Chapter Six** Rights-Fl
 
 <br>
 
-*In plain terms: once an option satisfies Safety, Truth, rights, and the other tradeoff rules, pick the one that wastes the least sentient time, attention, and effort. Rights-protective process is not waste — but unjustified red tape is, and convenience or inertia cannot sustain it.*
+*In plain terms: once an option satisfies Safety, Truth, rights, and the other tradeoff rules, pick the one that wastes the least sentient time, attention, and effort. Simplify or remove steps that do not do constitutional work. Rights-protective process is not waste — but unjustified red tape is, and convenience or inertia cannot sustain it.*
 
 Where multiple options satisfy Safety, Truth, the Rights Floor in **Chapter Six**, [§6.1.1](#611-proportionality), **Necessity**, **Harm Minimization (Tradeoff Selection)**, and the other applicable constraints in this Constitution, systems must prefer the option that imposes the **least avoidable burden** on sentient time, attention, effort, and shared resources.
+
+Where an avoidable burden can be corrected by simplifying, consolidating, automating, clarifying, or removing unnecessary steps, that correction is the preferred remedy unless it would materially weaken Safety, Truth, Rights-Floor protection, auditability, contestability, due process, or retrospective review.
 
 For this subsection:
 - **Avoidable burden** is process, compliance, coordination, or implementation cost that is not traceable to a constitutional outcome under **Proportionality** and **Necessity**, and that is not required by a Rights-Floor protection, a Safety obligation, or a Truth obligation.

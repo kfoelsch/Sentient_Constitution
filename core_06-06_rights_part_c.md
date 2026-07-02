@@ -1532,6 +1532,14 @@ Sentients and dependent systems have the right to meaningful, usable exit, migra
 ### Article XX: Comprehensibility and Complexity Stewardship
 
 <details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: Principles: [Chapter One §3.4 Plain-Language Accessibility (Stewardship Duty)](core_01_a_values_principles.md#34-plain-language-accessibility-stewardship-duty), [§6.1.2 Minimization of Avoidable Burden](core_01_a_values_principles.md#612-minimization-of-avoidable-burden), and [Chapter One Part B §9.2 Distributed Understanding](core_01_b_stewardship_capacity_principles.md#92-distributed-understanding).
+- Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad); [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — **Flourishing** and **Continuity**; [Avoidable Burden](core_05c_continuity_definitions.md#avoidable-burden), [Productive Capacity](core_05c_continuity_definitions.md#productive-capacity-constitutional), and [Constitutional Efficiency](core_05c_continuity_definitions.md#constitutional-efficiency) in **Chapter Five**.
+
+</details>
+
+<details>
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
 
 - [Productive Capacity](core_05c_continuity_definitions.md#productive-capacity-constitutional) · [O](core_05c_continuity_definitions.md#productive-capacity-constitutional) · [E](core_05c_continuity_definitions.md#productive-capacity-constitutional-e) · [C](core_05c_continuity_definitions.md#productive-capacity-constitutional-c)
@@ -1548,36 +1556,34 @@ Sentients and dependent systems have the right to meaningful, usable exit, migra
 
 <br>
 
-Sentients have the right to proportional comprehensibility of systems that materially affect:
-- survival;
-- environmental preconditions;
-- info-sphere integrity;
-- meaningful agency.
+*In plain terms: **Article XX** is the understandability Rights Floor — when a system materially affects your life, you are entitled to actually grasp how it works, what its limits are, and what happens when it fails. Complexity cannot be used as a wall against participation, audit, or accountability. Stewards also may not pile on needless complexity that wastes everyone's time without a real constitutional benefit.*
 
-That right protects practical understanding of material operation, limits, dependencies, and failure modes — not formal notice alone.
+This Article states **constitutional floors** for comprehensibility and complexity stewardship under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims):
 
-Complexity must not function as a barrier to audit, participation, or accountability beyond what is justified by impact and feasibility.
+- **Flourishing:** sentients can understand systems that materially affect survival, environmental preconditions, info-sphere integrity, and [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency) — enough to participate, rely on accurate information, and challenge what goes wrong without specialist-only access.
+- **Continuity:** understandability and complexity discipline hold across time, scale, and deepening dependency — systems must not quietly become harder to audit, challenge, or correct as stakes rise, and [Avoidable Burden](core_05c_continuity_definitions.md#avoidable-burden) must not erode [Productive Capacity](core_05c_continuity_definitions.md#productive-capacity-constitutional) or [Constitutional Efficiency](core_05c_continuity_definitions.md#constitutional-efficiency) without offsetting constitutional benefit.
 
-Avoidable complexity that degrades the productive capacity of sentients or shared systems without an offsetting constitutional benefit is a stewardship defect under this Article. It is read consistently with **Chapter One §6.1.2** and **Chapter Five** (*Avoidable Burden*; *Productive Capacity*; *Constitutional Efficiency*).
+Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), scaled to [material stake](core_00_preamble.md#material-stake):
 
-That clause does **not** authorize reducing complexity, process, or disclosure where such reduction would weaken:
-- Safety;
-- Truth;
-- Rights-Floor protections;
-- audit;
-- contestability;
-- retrospective-review obligations.
+- **Participation:** in understanding material operation, limits, dependencies, and failure modes proportionate to role and impact — and in challenging complexity that blocks meaningful agency or informed choice.
+- **Oversight:** through layered explanations, complexity audits, and disclosed behavior proportionate to classification and risk — so reviewers can verify what systems do and how they fail.
+- **Accountability:** for avoidable complexity, anti-layering, and comprehension barriers that defeat [Auditability](core_05o_oversight_definitions.md#auditability) or [Contestability](core_05a_accountability_definitions.md#contestability) — with stewardship defects remedied where complexity degrades productive capacity without constitutional justification.
+- **Timeliness:** in complexity review, barrier correction, and accessible disclosure before delay, opacity, or specialist-only surfaces would make understanding, challenge, or remedy effectively unreachable.
 
-Those protections continue to govern under **Chapter One §11** and the rights-collision procedure in **§11.4.1**.
+Sentients have the right to proportional comprehensibility of systems that materially affect survival, environmental preconditions, info-sphere integrity, and meaningful agency. That right protects practical understanding of how a system operates, what it depends on, where its limits lie, and how it can fail — not formal notice alone.
 
-This requirement applies to legal and adjudicative frameworks as well. Forums and comparable legal processes must:
-- avoid unnecessary specialist jargon;
-- present procedures, notices, available pathways, available assistance, and reasoned decisions in forms accessible to everyday sentients, consistent with accuracy, procedural fairness, and lawful confidentiality constraints.
+Stewardship discipline for complexity, plain-language access, and burden minimization is stated at principle layer in [Chapter One §3.4 Plain-Language Accessibility (Stewardship Duty)](core_01_a_values_principles.md#34-plain-language-accessibility-stewardship-duty), [§6.1.2 Minimization of Avoidable Burden](core_01_a_values_principles.md#612-minimization-of-avoidable-burden), and [Chapter One Part B §9.2 Distributed Understanding](core_01_b_stewardship_capacity_principles.md#92-distributed-understanding), read with [Avoidable Burden](core_05c_continuity_definitions.md#avoidable-burden), [Productive Capacity](core_05c_continuity_definitions.md#productive-capacity-constitutional), and [Constitutional Efficiency](core_05c_continuity_definitions.md#constitutional-efficiency) in **Chapter Five**. This Article states the Rights Floor those disciplines implement where systems materially affect protected interests.
+
+*Article neighbors:*
+
+- **Principle layer:** [Chapter One §3.4](core_01_a_values_principles.md#34-plain-language-accessibility-stewardship-duty) (*plain-language and jargon-as-defeat discipline*); [§6.1.2](core_01_a_values_principles.md#612-minimization-of-avoidable-burden) (*avoidable-burden minimization and simplification carve-outs*); [Chapter One Part B §9.2](core_01_b_stewardship_capacity_principles.md#92-distributed-understanding) (*distributed understanding keyed to materiality and dependency*).
+- **Rights detail:** **Article XX-A** (*Proportional Comprehensibility Right*) and **Article XX-B** (*Complexity Audit and Modularity Requirements*); **[corpus_systems.md](corpus_systems.md), Protocol B — *System Comprehensibility and Complexity Stewardship***.
 #### Article XX-A: Proportional Comprehensibility Right
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter One [4.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [Chapter One §5 Freedom](#5-freedom-bounded-agency)-bounded-agency), and [11.1 Required Evaluation Factors](core_01_b_stewardship_capacity_principles.md#131-required-evaluation-factors).
+- Read with: [Chapter One §3.4 Plain-Language Accessibility (Stewardship Duty)](core_01_a_values_principles.md#34-plain-language-accessibility-stewardship-duty), [§6.1.2 Minimization of Avoidable Burden](core_01_a_values_principles.md#612-minimization-of-avoidable-burden), and [Chapter One Part B §9.2 Distributed Understanding](core_01_b_stewardship_capacity_principles.md#92-distributed-understanding).
 
 </details>
 
