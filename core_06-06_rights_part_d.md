@@ -9,13 +9,6 @@
 
 </details>
 
-<br>
-
----
-## CHAPTER SIX: FOUNDATIONAL RIGHTS
-
-### Part D: Justice, constitutional review, evolution, and transition
-
 <details>
 <summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): Part D position in Chapter Six</span></strong></summary>
 
@@ -24,6 +17,13 @@
 > **Part A** in [core_06-06_rights_part_a.md](core_06-06_rights_part_a.md) carries the chapter-wide default constraint stack, planet-first reading order, and interpretive hubs. **Part D** presents **Articles XXII–XXV**, including transition and re-baselining in **Article XXV** (*Transition Governance, Continuity, and Re-Baselining*).
 
 </details>
+
+<br>
+
+---
+## CHAPTER SIX: FOUNDATIONAL RIGHTS
+
+### Part D: Justice, constitutional review, evolution, and transition
 
 <br>
 
@@ -42,6 +42,8 @@
 </details>
 
 <br>
+
+*In plain terms: **Article XXIII** is the justice-and-resolution Rights Floor. When sentients, systems, or institutions collide over constitutional rights, the answer is not revenge, indefinite delay, or a permanent state of emergency. The answer is a fair process that stops harm, repairs damage, and reduces recurrence — scaled to how much is at stake. That process must give affected people a real voice, independent review, remedies that reach the right actors, and resolution within time limits that matter. Those are the four duties of the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad): **participation**, **oversight**, **accountability**, and **timeliness**. They serve the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims): **Flourishing** (protecting wellbeing and meaningful agency) and **Continuity** (keeping crises temporary and shared systems stable enough to recover). Escalation and emergency measures are allowed when truly necessary — but only at the smallest restriction that works, for as long as needed and no longer, with review and disclosure afterward.*
 
 Disputes among sentients, systems, and institutions that affect constitutional rights must be resolvable through processes that are:
 - transparent;
@@ -83,7 +85,7 @@ Adopted governance implementation provides escalation, proportionality of interv
   - prevent ongoing harm;
   - secure restitution and remediation for affected parties;
   - reduce recurrence through rehabilitation where feasible;
-  - maintain accountable attribution under **Chapter Eight** (*Contribution, Violation, and Standing Model*).
+  - keep credit and consequences on the right actors — supported by evidence on the record — under **Chapter Eight** (*Contribution, Violation, and Standing Model*).
 - **Anti-cruelty floor:** Justice must not be administered to inflict suffering as an end in itself.
 <a id="article-xxiii-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints"></a>
 #### Article XXIII-B: Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints
@@ -118,32 +120,16 @@ Adopted governance implementation provides escalation, proportionality of interv
   - material safety necessity;
   - proportionate restitution or remediation;
   - rehabilitation or recurrence reduction where feasible;
-  - accountable attribution supported by auditable evidence under **Chapters Two through Four**.
-- **Individualized burden:** Any such measure must remain individualized, attributable, and reviewable.
-  - Severity labels, public condemnation, or administrative convenience do not substitute for the joint showing above.
-- **Anti-constitutional misconduct (slot anchor):** **Chapter Ten** (*Anti-Constitutional Misconduct*) classifies **anti-constitutional misconduct** using the criteria in **section 2**, **unified-incident** assessment, and final **Violation Axis s = 7, 8, or 9** slot assignment in **section 3**.
-  - That includes anti-constitutional misconduct in **constitutional change** under **Chapters Thirteen through Fifteen**, and **forcible subversion**, **operative nullification**, or **regressive deception** evaluated **globally** where those criteria are implicated.
-  - For **maximum-restriction** rules in this Article:
-    - **s = 8** (*Defector: mid-level anti-constitutional misconduct*) and **s = 9** (*Defector: major-level anti-constitutional misconduct*) are the **constitutional-crime-level** slots;
-    - **s = 7** (*Defector: minor-level anti-constitutional misconduct*) is not.
-  - No final **s = 8** or **s = 9** assignment may issue except under **Chapter Ten §4**.
-- **Slot-limit clarification:** A **Chapter Ten** slot classification is a threshold condition only.
-  - It does **not** replace the **joint requirements**, individualized attribution, or challenge and appeal protections in this Article.
-  - No slot assignment — including **s = 8** or **s = 9** — authorizes irreversible deprivation of life as a justice measure. The *Categorical prohibition of irreversible deprivation of life as a justice measure* bullet below governs.
-- **Categorical prohibition of irreversible deprivation of life as a justice measure:** Deprivation of life as a justice measure by state, operator, or comparable actor is **non-compliant without exception** under **Sentience Non-Exclusion**.
-  - No mechanism re-introduces the measure or creates a durable exception authority. In scope:
-    - **Chapter Ten** slot classification (including **s = 8** or **s = 9**);
-    - **Article XXIII-D** (*Emergency Measures and Continuation Burden*) emergency framing;
-    - **Article XXV** (*Transition Governance, Continuity, and Re-Baselining*) transition or re-baselining authority;
-    - any comparable mechanism.
-  - Where the underlying concern is material safety necessity that cannot be met through time-limited or reversible measures, **durable containment** under **Article XXIII-C** (*Least-Restrictive and Time-Bounded Rule*) is the Chapter Six pathway. Such containment remains subject to:
-    - the *Joint requirements*, *Individualized burden*, and *Escalation and Review* bullets of this Article and **Article XXIII-C** (*Least-Restrictive and Time-Bounded Rule*);
-    - **Chapter Five** *Reversibility*, *Redress and Remediation*, and *Dignity and Equal Moral Standing*.
-  - Adopter instruments that currently permit the prohibited measure transition under **Chapter Sixteen** incorporation discipline — strictest-applicable-level per §3 and the **Chapter Thirteen** non-regression floor. This transition **does not** create a durable exception authority under **Article XXV** (*Transition Governance, Continuity, and Re-Baselining*).
-  - Read with **Chapter Five** *[Irreversible Deprivation Measure](core_05a_accountability_definitions.md#irreversible-deprivation-measure-constitutional)*.
-  - **Anti-relabeling:** Any framing that re-labels an involuntarily-imposed outcome as "voluntary" to route around this bullet and into **Article VII-E** (*Voluntary Discontinuation of One's Own Existence*) remains governed by this bullet and by **Chapter Five** *Voluntary Discontinuation*.
-    - The sentient's own freely-formed decision remains governed by **Article VII-E** (*Voluntary Discontinuation of One's Own Existence*).
-    - Any conversion of that decision into a non-voluntary outcome by state, operator, or comparable actor returns the question to this bullet.
+  - keep credit and consequences on the right actors — supported by evidence anyone can audit — under **Chapters Two through Four**.
+- **Individualized burden:** Any such measure must be aimed at the specific person or role involved — not a group label or proxy — and must stay open to challenge and independent review.
+  - A harsh label, public condemnation, or administrative shortcut does not substitute for proving every requirement in the joint list above.
+- **Anti-constitutional misconduct threshold:** Final **Chapter Ten** (*Anti-Constitutional Misconduct*) classification controls whether anti-constitutional misconduct reaches the maximum-restriction threshold for this Article.
+  - For this Article, final **s = 8** or **s = 9** assignment is the **constitutional-crime-level** threshold; final **s = 7** is not.
+  - That threshold does **not** replace the **joint requirements**, individualized attribution, or challenge and appeal protections in this Article.
+  - No slot assignment — including **s = 8** or **s = 9** — authorizes irreversible deprivation of life as a justice measure. The rights floor below governs.
+- **Rights floor against irreversible deprivation of life as a justice measure:** State, operator, or comparable justice systems must not impose irreversible deprivation of life as a penalty, sanction, or public-safety disposition.
+  - Where material safety cannot be protected through ordinary restrictions, the Chapter Six pathway is the least-restrictive durable containment or equivalent protective measure that remains reviewable, individualized, and consistent with dignity.
+  - This floor does not govern a sentient's own freely formed decision under **Article VII-E** (*Voluntary Discontinuation of One's Own Existence*). Coercion, relabeling, or state/operator conversion of that choice into an imposed outcome returns the matter to this floor.
 #### Article XXIII-C: Least-Restrictive and Time-Bounded Rule
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
