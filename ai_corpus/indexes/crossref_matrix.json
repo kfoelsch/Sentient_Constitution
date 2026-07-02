@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-06-30T12:46:56+00:00",
+  "generated_at": "2026-07-02T01:54:49+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -436,14 +436,21 @@
           },
           {
             "file": "core_05c_continuity_definitions.md",
-            "count": 7,
+            "count": 20,
             "anchors": [
               "#avoidable-burden",
               "#constitutional-efficiency",
               "#continuity-aim-constitutional",
+              "#dependency",
+              "#ecological-footprint",
+              "#language-culture-and-heritage-constitutional",
               "#materiality-semi-independent",
               "#productive-capacity-constitutional",
-              "#sustainability"
+              "#proportionate-cross-system-support-constitutional",
+              "#sustainability",
+              "#trust",
+              "#trust-degradation-and-misleading-reliance",
+              "#trustworthiness"
             ]
           },
           {
@@ -456,7 +463,7 @@
           },
           {
             "file": "core_05o_oversight_definitions.md",
-            "count": 6,
+            "count": 9,
             "anchors": [
               "#material",
               "#material-impact",
@@ -468,11 +475,15 @@
           },
           {
             "file": "core_05p_participation_definitions.md",
-            "count": 5,
+            "count": 9,
             "anchors": [
+              "#accessibility-constitutional",
+              "#educational-agency",
               "#flourishing-constitutional",
               "#participation-constitutional",
-              "#stakeholder-status-emergency-and-participation-weight-cluster"
+              "#protected-characteristic-proxying-and-disparate-impact",
+              "#stakeholder-status-emergency-and-participation-weight-cluster",
+              "#substantive-fairness-constitutional"
             ]
           },
           {
@@ -497,7 +508,7 @@
           },
           {
             "file": "core_07-07_system_alignment_certification.md",
-            "count": 3,
+            "count": 9,
             "anchors": [
               "#chapter-seven-system-alignment-certification"
             ]
@@ -974,7 +985,7 @@
           },
           {
             "file": "core_05a_accountability_definitions.md",
-            "count": 134,
+            "count": 137,
             "anchors": [
               "#accountability",
               "#accountability-c",
@@ -1245,6 +1256,14 @@
             ]
           },
           {
+            "file": "core_09-09_standing_integration.md",
+            "count": 2,
+            "anchors": [
+              "#51-remediation-capacity-and-funding",
+              "#54-anti-evasion-and-look-through-authority"
+            ]
+          },
+          {
             "file": "core_10-10_misconduct.md",
             "count": 3,
             "anchors": [
@@ -1278,7 +1297,7 @@
           },
           {
             "file": "corpus_systems.md",
-            "count": 9,
+            "count": 10,
             "anchors": []
           }
         ]
@@ -1379,7 +1398,7 @@
             "file": "core_07-07_system_alignment_certification.md",
             "count": 1,
             "anchors": [
-              "#9-reopening-drift-and-non-evasion"
+              "#10-reopening-drift-and-non-evasion"
             ]
           },
           {
@@ -1501,7 +1520,7 @@
           },
           {
             "file": "core_05c_continuity_definitions.md",
-            "count": 68,
+            "count": 69,
             "anchors": [
               "#anti-displacement-floor-constitutional",
               "#avoidable-burden",
@@ -1532,6 +1551,7 @@
               "#privacy-informational",
               "#privacy-informational-cluster",
               "#productive-capacity-constitutional",
+              "#proportionate-cross-system-support-constitutional",
               "#protected-internal-state-boundary-constitutional",
               "#residual-risk--misalignment",
               "#reversibility-constitutional",
@@ -1851,8 +1871,9 @@
         "targets": [
           {
             "file": "core_00_preamble.md",
-            "count": 8,
+            "count": 9,
             "anchors": [
+              "#2-the-measurements",
               "#chapter-00-preamble--foundational-requirements",
               "#constitutional-tetrad",
               "#material-stake",
@@ -2075,8 +2096,8 @@
             "count": 10,
             "anchors": [
               "#article-xiii-a-security-intelligence-and-covert-power-limits",
-              "#article-xv-auditability-and-observable-evidence",
-              "#article-xviii-d-movement-migration-and-refuge"
+              "#article-xix-d-movement-migration-refuge-and-non-statelessness",
+              "#article-xv-auditability-and-observable-evidence"
             ]
           },
           {
@@ -2084,6 +2105,13 @@
             "count": 1,
             "anchors": [
               "#article-xxiii-f-rights-collision-procedure-and-restorative-alignment"
+            ]
+          },
+          {
+            "file": "core_07-07_system_alignment_certification.md",
+            "count": 1,
+            "anchors": [
+              "#5c-accessibility-evaluation"
             ]
           },
           {
@@ -2148,10 +2176,11 @@
           },
           {
             "file": "core_01_b_stewardship_capacity_principles.md",
-            "count": 39,
+            "count": 41,
             "anchors": [
               "#10-governance-under-stewardship-discipline",
               "#1023-contingent-claims-games-of-chance-and-event-contract-markets",
+              "#1024-successor-responsibility-and-formal-structure-non-escape",
               "#111-productive-capacity-instrumental-good",
               "#12-market-structure",
               "#121-concentration-threshold-mechanism-adopter-tunable",
@@ -2386,7 +2415,7 @@
             "file": "core_07-07_system_alignment_certification.md",
             "count": 1,
             "anchors": [
-              "#6-supervisory-sequence-and-contestability-chain"
+              "#7-supervisory-sequence-and-contestability-chain"
             ]
           },
           {
@@ -2410,10 +2439,12 @@
           },
           {
             "file": "core_09-09_standing_integration.md",
-            "count": 13,
+            "count": 17,
             "anchors": [
               "#5-standing-effects",
+              "#51-remediation-capacity-and-funding",
               "#52-remedy-organ-durability",
+              "#54-anti-evasion-and-look-through-authority",
               "#6-extended-axis-ii-legal-hybrid-duty-and-harm-descriptors",
               "#73-stackable-harm-and-conduct-descriptors-violation-nature-supplement",
               "#8-cross-axis-coupling-and-escalation-constraints",
@@ -2474,8 +2505,9 @@
         "targets": [
           {
             "file": "core_00_preamble.md",
-            "count": 20,
+            "count": 22,
             "anchors": [
+              "#2-the-measurements",
               "#chapter-00-preamble--foundational-requirements",
               "#constitutional-tetrad",
               "#material-stake",
@@ -2534,7 +2566,7 @@
           },
           {
             "file": "core_05a_accountability_definitions.md",
-            "count": 144,
+            "count": 148,
             "anchors": [
               "#accountability",
               "#accountability-contestability-semi-independent",
@@ -2563,7 +2595,7 @@
           },
           {
             "file": "core_05c_continuity_definitions.md",
-            "count": 399,
+            "count": 410,
             "anchors": [
               "#anti-displacement-floor-constitutional",
               "#avoidable-burden",
@@ -2611,6 +2643,7 @@
               "#strategic-stewardship-obligation-constitutional",
               "#surveillance-boundary",
               "#sustainability",
+              "#system-alignment-certification-constitutional",
               "#system-boundaries",
               "#system-boundary-integrity",
               "#system-capture",
@@ -2661,7 +2694,7 @@
           },
           {
             "file": "core_05p_participation_definitions.md",
-            "count": 148,
+            "count": 150,
             "anchors": [
               "#accessibility-constitutional",
               "#binding-stakeholder-choice-cluster",
@@ -2693,7 +2726,7 @@
           },
           {
             "file": "core_06-06_rights_part_a.md",
-            "count": 26,
+            "count": 32,
             "anchors": [
               "#article-i-a-environmental-preconditions-and-ecological-integrity",
               "#article-i-b-ecological-footprint-and-transparency",
@@ -2702,17 +2735,20 @@
               "#article-iii-c-bodily-maintenance-and-healthcare-access",
               "#article-iii-d-labor-and-economic-floor",
               "#article-iii-survival",
+              "#article-iv-a-dependency-mapping-and-resource-flow-transparency",
+              "#article-iv-b-cross-system-fairness-and-sustainability",
               "#chapter-six-foundational-rights"
             ]
           },
           {
             "file": "core_06-06_rights_part_b.md",
-            "count": 20,
+            "count": 21,
             "anchors": [
               "#article-ix-a-agency-and-freedom-from-manipulation",
               "#article-v-b-nondiscrimination",
               "#article-vii-a-self-ownership-of-body-and-mind",
               "#article-vii-b-internal-state-boundary-and-type-n-protection",
+              "#article-vii-c-mental-health-crisis-and-involuntary-intervention-floor",
               "#article-vii-e-voluntary-discontinuation-of-ones-own-existence",
               "#article-viii-b-experiential-and-derived-data-rights",
               "#article-viii-d-creative-work-training-data-use-and-anti-displacement",
@@ -2725,9 +2761,9 @@
             "anchors": [
               "#article-xii-a-reliability-and-trustworthiness-baseline",
               "#article-xiii-a-security-intelligence-and-covert-power-limits",
+              "#article-xix-d-movement-migration-refuge-and-non-statelessness",
               "#article-xix-interoperability-portability-and-exit-integrity",
               "#article-xv-c-verification-accessibility",
-              "#article-xviii-d-movement-migration-and-refuge",
               "#article-xx-right-to-understand-and-contest"
             ]
           },
@@ -2742,8 +2778,10 @@
           },
           {
             "file": "core_07-07_system_alignment_certification.md",
-            "count": 3,
+            "count": 8,
             "anchors": [
+              "#5-ecological-footprint-evaluation",
+              "#5a-proportionate-cross-system-support-evaluation",
               "#chapter-seven-system-alignment-certification"
             ]
           },
@@ -2782,7 +2820,7 @@
           },
           {
             "file": "corpus_systems.md",
-            "count": 5,
+            "count": 6,
             "anchors": []
           }
         ]
@@ -2979,18 +3017,28 @@
         "targets": [
           {
             "file": "core_00_preamble.md",
-            "count": 19,
+            "count": 32,
             "anchors": [
+              "#2-the-measurements",
               "#constitutional-tetrad",
               "#material-stake",
               "#two-constitutional-aims"
             ]
           },
           {
+            "file": "core_01_a_values_principles.md",
+            "count": 2,
+            "anchors": [
+              "#32-truth-epistemic-integrity-constraint",
+              "#4-system-stability-enabler-trust-coordination-integrity"
+            ]
+          },
+          {
             "file": "core_01_b_stewardship_capacity_principles.md",
-            "count": 3,
+            "count": 5,
             "anchors": [
               "#13-systemic-evaluation-requirement",
+              "#131-required-evaluation-factors",
               "#9-stewardship-and-distributed-understanding"
             ]
           },
@@ -3005,37 +3053,53 @@
           },
           {
             "file": "core_05a_accountability_definitions.md",
-            "count": 12,
+            "count": 26,
             "anchors": [
               "#contestability",
               "#contestability-c",
               "#contestability-e",
+              "#governance-architecture-oversight-decentralization-and-concentration-cluster",
+              "#necessity",
+              "#proportionality",
+              "#redress-and-remediation-constitutional",
               "#stay",
               "#verified-inputs-for-standing"
             ]
           },
           {
             "file": "core_05c_continuity_definitions.md",
-            "count": 6,
+            "count": 47,
             "anchors": [
               "#dependency",
+              "#ecological-footprint",
+              "#ecological-integrity-constitutional",
+              "#environmental-preconditions-constitutional",
+              "#language-culture-and-heritage-constitutional",
+              "#proportionate-cross-system-support-constitutional",
+              "#reversibility-constitutional",
               "#risk",
               "#safe-conditions-constitutional",
+              "#sustainability",
               "#system-alignment-certification-constitutional",
-              "#system-boundaries"
+              "#system-boundaries",
+              "#systemic-lock-in",
+              "#trust",
+              "#trust-degradation-and-misleading-reliance",
+              "#trustworthiness"
             ]
           },
           {
             "file": "core_05i_integrative_definitions.md",
-            "count": 9,
+            "count": 10,
             "anchors": [
               "#authority-stack",
-              "#constitutional-owner-layers"
+              "#constitutional-owner-layers",
+              "#incentive-alignment"
             ]
           },
           {
             "file": "core_05o_oversight_definitions.md",
-            "count": 15,
+            "count": 29,
             "anchors": [
               "#auditability",
               "#auditability-c",
@@ -3043,10 +3107,25 @@
               "#epistemic-integrity",
               "#evidence-preservation",
               "#material-impact",
+              "#materiality-determination",
               "#transparency",
               "#transparency-auditability-and-verification-cluster",
               "#transparency-c",
               "#transparency-e"
+            ]
+          },
+          {
+            "file": "core_05p_participation_definitions.md",
+            "count": 25,
+            "anchors": [
+              "#accessibility-constitutional",
+              "#coercion-and-manipulation-constitutional",
+              "#educational-agency",
+              "#fairness-and-protected-status-semi-independent",
+              "#meaningful-agency",
+              "#protected-characteristic-proxying-and-disparate-impact",
+              "#protected-characteristics-constitutional",
+              "#substantive-fairness-constitutional"
             ]
           },
           {
@@ -3111,12 +3190,17 @@
           },
           {
             "file": "corpus_systems.md",
-            "count": 10,
+            "count": 13,
             "anchors": []
           },
           {
             "file": "corpus_systems/cs_protocol_a_system_design_testing_verification_deployment.md",
             "count": 4,
+            "anchors": []
+          },
+          {
+            "file": "corpus_systems/cs_protocol_s4_adaptive_sustainability_ecosystem_resilience.md",
+            "count": 1,
             "anchors": []
           }
         ]
@@ -3315,9 +3399,10 @@
           },
           {
             "file": "core_01_b_stewardship_capacity_principles.md",
-            "count": 4,
+            "count": 6,
             "anchors": [
               "#10-governance-under-stewardship-discipline",
+              "#1024-successor-responsibility-and-formal-structure-non-escape",
               "#9-stewardship-and-distributed-understanding"
             ]
           },
@@ -3330,7 +3415,7 @@
           },
           {
             "file": "core_05a_accountability_definitions.md",
-            "count": 233,
+            "count": 235,
             "anchors": [
               "#accountability",
               "#accountability-c",
@@ -4037,7 +4122,7 @@
         "targets": [
           {
             "file": "core_00_preamble.md",
-            "count": 8,
+            "count": 30,
             "anchors": [
               "#constitutional-tetrad",
               "#material-stake",
@@ -4061,10 +4146,11 @@
           },
           {
             "file": "core_01_b_stewardship_capacity_principles.md",
-            "count": 15,
+            "count": 18,
             "anchors": [
               "#10-governance-under-stewardship-discipline",
               "#102-incentive-alignment-and-system-capture",
+              "#1024-successor-responsibility-and-formal-structure-non-escape",
               "#103-stewardship-and-operator-incentive-alignment",
               "#121-concentration-threshold-mechanism-adopter-tunable",
               "#13-systemic-evaluation-requirement",
@@ -4073,7 +4159,7 @@
           },
           {
             "file": "core_05a_accountability_definitions.md",
-            "count": 46,
+            "count": 49,
             "anchors": [
               "#educational-agency-o",
               "#governance-architecture-oversight-decentralization-and-concentration-cluster",
@@ -4091,7 +4177,7 @@
           },
           {
             "file": "core_05c_continuity_definitions.md",
-            "count": 134,
+            "count": 156,
             "anchors": [
               "#anti-displacement-floor-constitutional",
               "#anti-displacement-floor-constitutional-c",
@@ -4134,9 +4220,13 @@
               "#leisure-and-rest-constitutional",
               "#leisure-and-rest-constitutional-c",
               "#leisure-and-rest-constitutional-e",
+              "#proportionate-cross-system-support-constitutional",
+              "#proportionate-cross-system-support-constitutional-c",
+              "#proportionate-cross-system-support-constitutional-e",
               "#safe-conditions-constitutional",
               "#safe-conditions-constitutional-c",
               "#safe-conditions-constitutional-e",
+              "#safety-constraint",
               "#sustainability",
               "#sustainability-c",
               "#sustainability-e",
@@ -4165,7 +4255,7 @@
           },
           {
             "file": "core_05o_oversight_definitions.md",
-            "count": 45,
+            "count": 46,
             "anchors": [
               "#adversarial-scaled-and-exploited-conditions",
               "#epistemic-integrity",
@@ -4192,8 +4282,11 @@
           },
           {
             "file": "core_05p_participation_definitions.md",
-            "count": 75,
+            "count": 83,
             "anchors": [
+              "#accessibility-constitutional",
+              "#accessibility-constitutional-c",
+              "#accessibility-constitutional-e",
               "#animal-life-constitutional",
               "#animal-life-constitutional-c",
               "#animal-life-constitutional-e",
@@ -4244,9 +4337,10 @@
           },
           {
             "file": "core_06-06_rights_part_c.md",
-            "count": 3,
+            "count": 4,
             "anchors": [
               "#article-xii-b-right-to-challenge-review-and-redress",
+              "#article-xix-a-portability-rights",
               "#article-xv-audit-transparency-and-independent-verification",
               "#article-xviii-b-contestability-and-proportional-restriction-limits"
             ]
@@ -4260,7 +4354,7 @@
           },
           {
             "file": "core_07-07_system_alignment_certification.md",
-            "count": 7,
+            "count": 12,
             "anchors": [
               "#chapter-seven-system-alignment-certification"
             ]
@@ -4278,6 +4372,14 @@
             "anchors": []
           },
           {
+            "file": "core_09-09_standing_integration.md",
+            "count": 4,
+            "anchors": [
+              "#51-remediation-capacity-and-funding",
+              "#54-anti-evasion-and-look-through-authority"
+            ]
+          },
+          {
             "file": "core_13-15_amendment.md",
             "count": 1,
             "anchors": [
@@ -4286,7 +4388,7 @@
           },
           {
             "file": "corpus_systems.md",
-            "count": 2,
+            "count": 6,
             "anchors": []
           }
         ]
@@ -4296,10 +4398,12 @@
         "targets": [
           {
             "file": "core_00_preamble.md",
-            "count": 2,
+            "count": 31,
             "anchors": [
+              "#2-the-measurements",
               "#constitutional-tetrad",
-              "#material-stake"
+              "#material-stake",
+              "#two-constitutional-aims"
             ]
           },
           {
@@ -4334,7 +4438,7 @@
           },
           {
             "file": "core_05a_accountability_definitions.md",
-            "count": 163,
+            "count": 164,
             "anchors": [
               "#accountability",
               "#accountability-c",
@@ -4385,7 +4489,7 @@
           },
           {
             "file": "core_05c_continuity_definitions.md",
-            "count": 116,
+            "count": 118,
             "anchors": [
               "#anti-displacement-floor-constitutional",
               "#anti-displacement-floor-constitutional-c",
@@ -4429,6 +4533,7 @@
               "#surveillance-boundary",
               "#surveillance-boundary-c",
               "#surveillance-boundary-e",
+              "#system-alignment-certification-constitutional",
               "#system-capture",
               "#system-capture-c",
               "#system-capture-e",
@@ -4445,7 +4550,7 @@
           },
           {
             "file": "core_05i_integrative_definitions.md",
-            "count": 13,
+            "count": 14,
             "anchors": [
               "#animal-life-sentient-life-and-sentience-status-cluster",
               "#foundational-constitutional-choice",
@@ -4489,7 +4594,7 @@
           },
           {
             "file": "core_05p_participation_definitions.md",
-            "count": 331,
+            "count": 336,
             "anchors": [
               "#accessibility-constitutional",
               "#accessibility-constitutional-c",
@@ -4587,13 +4692,22 @@
           },
           {
             "file": "core_06-06_rights_part_a.md",
-            "count": 2,
+            "count": 3,
             "anchors": []
           },
           {
             "file": "core_06-06_rights_part_c.md",
             "count": 1,
             "anchors": []
+          },
+          {
+            "file": "core_07-07_system_alignment_certification.md",
+            "count": 5,
+            "anchors": [
+              "#5b-nondiscrimination-evaluation",
+              "#5c-accessibility-evaluation",
+              "#chapter-seven-system-alignment-certification"
+            ]
           },
           {
             "file": "corpus_systems.md",
@@ -4607,9 +4721,10 @@
         "targets": [
           {
             "file": "core_00_preamble.md",
-            "count": 8,
+            "count": 27,
             "anchors": [
               "#constitutional-tetrad",
+              "#material-stake",
               "#two-constitutional-aims"
             ]
           },
@@ -4632,7 +4747,7 @@
           },
           {
             "file": "core_01_b_stewardship_capacity_principles.md",
-            "count": 41,
+            "count": 40,
             "anchors": [
               "#10-governance-under-stewardship-discipline",
               "#1021-alignment-requirement",
@@ -4642,7 +4757,7 @@
           },
           {
             "file": "core_05a_accountability_definitions.md",
-            "count": 221,
+            "count": 260,
             "anchors": [
               "#accountability",
               "#accountability-c",
@@ -4659,6 +4774,9 @@
               "#combatant-non-combatant-distinction-constitutional",
               "#combatant-non-combatant-distinction-constitutional-c",
               "#combatant-non-combatant-distinction-constitutional-e",
+              "#competency-gate",
+              "#competency-gate-c",
+              "#competency-gate-e",
               "#contestability",
               "#contestability-c",
               "#contestability-e",
@@ -4690,6 +4808,9 @@
               "#redress-and-remediation-constitutional-c",
               "#redress-and-remediation-constitutional-e",
               "#self-determination-constitutional-o",
+              "#standing-lock",
+              "#standing-lock-c",
+              "#standing-lock-e",
               "#timely-resolution-constitutional",
               "#timely-resolution-constitutional-c",
               "#timely-resolution-constitutional-e",
@@ -4697,6 +4818,9 @@
               "#use-of-force-constitutional",
               "#use-of-force-constitutional-c",
               "#use-of-force-constitutional-e",
+              "#verified-violation-findings",
+              "#verified-violation-findings-c",
+              "#verified-violation-findings-e",
               "#weapons-of-mass-harm-constitutional",
               "#weapons-of-mass-harm-constitutional-c",
               "#weapons-of-mass-harm-constitutional-e"
@@ -4704,7 +4828,7 @@
           },
           {
             "file": "core_05c_continuity_definitions.md",
-            "count": 215,
+            "count": 216,
             "anchors": [
               "#avoidable-burden",
               "#avoidable-burden-c",
@@ -4780,7 +4904,7 @@
           },
           {
             "file": "core_05o_oversight_definitions.md",
-            "count": 177,
+            "count": 189,
             "anchors": [
               "#auditability",
               "#auditability-c",
@@ -4817,7 +4941,7 @@
           },
           {
             "file": "core_05p_participation_definitions.md",
-            "count": 64,
+            "count": 65,
             "anchors": [
               "#coercion-and-manipulation-constitutional",
               "#coercion-and-manipulation-constitutional-c",
@@ -4828,6 +4952,7 @@
               "#dignity-and-equal-moral-standing",
               "#dignity-and-equal-moral-standing-c",
               "#dignity-and-equal-moral-standing-e",
+              "#info-sphere",
               "#meaningful-agency",
               "#meaningful-agency-c",
               "#meaningful-agency-e",
@@ -4872,29 +4997,46 @@
           },
           {
             "file": "core_07-07_system_alignment_certification.md",
-            "count": 1,
+            "count": 4,
             "anchors": [
+              "#5e-trustworthiness-and-system-reliance-integrity-evaluation",
               "#chapter-seven-system-alignment-certification"
             ]
           },
           {
             "file": "core_08-08_standing_assessment.md",
-            "count": 3,
+            "count": 13,
             "anchors": [
+              "#2-standing-records",
+              "#232-minimum-record-contents",
+              "#237-forum-boundary",
+              "#52-violation-axis-severity-ladder",
               "#chapter-eight-compliance-violation-and-standing-model",
-              "#chapters-eight-eleven-constitutional-compass"
+              "#chapters-eight-eleven-constitutional-compass",
+              "#verified-inputs-for-standing"
             ]
           },
           {
             "file": "core_09-09_standing_integration.md",
+            "count": 12,
+            "anchors": [
+              "#37-reinstatement-review-and-non-entrenchment",
+              "#chapter-nine-standing-effects-and-integration",
+              "#competency-gates",
+              "#standing-lock-proportionality-and-calibration",
+              "#standing-locks-in-the-standing-model"
+            ]
+          },
+          {
+            "file": "core_11-11_forum.md",
             "count": 1,
             "anchors": [
-              "#chapter-nine-standing-effects-and-integration"
+              "#chapter-eleven-forums-and-jurisdiction"
             ]
           },
           {
             "file": "corpus_systems.md",
-            "count": 10,
+            "count": 16,
             "anchors": []
           }
         ]
@@ -7861,6 +8003,13 @@
       {
         "source": "corpus_systems/cs_protocol_s5_resource_allocation_funding_stewardship.md",
         "targets": [
+          {
+            "file": "core_05c_continuity_definitions.md",
+            "count": 1,
+            "anchors": [
+              "#proportionate-cross-system-support-constitutional"
+            ]
+          },
           {
             "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
             "count": 2,
