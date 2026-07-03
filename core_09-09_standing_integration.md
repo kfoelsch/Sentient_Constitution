@@ -28,7 +28,7 @@
 >
 > **Core idea:** classification is separated from integration. Chapter Eight defines the Contribution Axis (**Flourishing**) and Violation Axis (**Accountability**). This chapter states what those classifications do to standing, trust, roles, remedies, safeguards, and enforcement, while preserving the no-offset rule and Tetrad scaling. Pipeline position and Tetrad / Aims framing: [Chapters Eight–Ten standing pipeline map](core_08-08_standing_assessment.md#chapters-eight-eleven-constitutional-compass).
 >
-> **What this chapter decides:** how verified classification records affect trust, roles, recognition, restrictions, remediation, review, and real-world enforcement — pipeline steps 4–5: **attachment / descriptor**, **standing lock**, and **final standing effect**.
+> **What this chapter decides:** how verified classification records affect trust, roles, recognition, restrictions, correction, remedy, safeguards, review, and real-world enforcement — pipeline steps 4–5: **attachment / descriptor**, **standing lock**, **remedy assignment**, and **final standing effect**.
 >
 > **What this chapter does not decide:** it does not reopen unverified allegations, merge contribution and violation into one score, or issue final Chapter Ten top-slot assignment.
 >
@@ -1202,6 +1202,7 @@ Where multiple descriptors apply, the **primary** **harm** route **or** **primar
 - **Lock band** (Correction / Restriction / Safeguard / Anti-Constitutional) ± context overlays from the context compass
 - **Pathway scope** — which standing effects are blocked or limited
 - **Corrective conditions** — remediation, restitution, safeguards, and review required before reassessment
+- **Remedy obligations** — acknowledgment, repair, restoration, compensation, or substitute safeguards for affected sentients under [**section 3.11**](#redress-remedy-and-restoration-in-the-standing-model)
 - **Duration posture** — time-bounded, recurrence-persistence, or protective-until-safe
 - **Reassessment trigger** — verified completion of corrective conditions under the applicable review path
 
@@ -1246,6 +1247,54 @@ Question 2 dimensions operate on **violation standing records only**. **Contribu
 | **Exit / lock-in foreclosure** | Platform, migration-authority, and exit-path blocks; may stack **institutional vehicle lock** |
 | **Lifecycle / irreversibility concealment** | Deployment and lifecycle-authority blocks; extended scrutiny until reversibility verified |
 
+<a id="311-redress-remedy-and-restoration-in-the-standing-model"></a>
+<a id="redress-remedy-and-restoration-in-the-standing-model"></a>
+<a id="35-redress-remedy-and-restoration-in-the-standing-model"></a>
+
+#### 3.11 Redress, remedy, and restoration in the standing model
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: [§3.10](#310-non-recurrence-lock-dimensions) (*Question 2 outputs — locks and corrective conditions*); [§3, slots 1–2 — remedial character](#61-remedial-restorative-and-civil-correction-character); [Ch6 §3](core_08-08_standing_assessment.md#6-classification-evaluation-dimensions) (*Violation Axis classification*); [Chapter Eight §2](core_08-08_standing_assessment.md#2-standing-records) (*violation standing records*).
+- Downstream: [§4](#8-cross-axis-coupling-and-escalation-constraints) (*no-offset discipline*); [§5](#8-enforcement-realism-anchors) (*remediation capacity and funding*); [Chapter Eleven](core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) (*remedy sequencing and timely resolution*).
+- Read with: [Redress and Remediation](core_05a_accountability_definitions.md#redress-and-remediation-constitutional) · [O](core_05a_accountability_definitions.md#redress-and-remediation-constitutional) · [E](core_05a_accountability_definitions.md#redress-and-remediation-constitutional-e) · [C](core_05a_accountability_definitions.md#redress-and-remediation-constitutional-c); [Article XII-B](core_06-06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress); [Article XXIII-B](core_06-06_rights_part_d.md#article-xxiii-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints); [Timely Resolution](core_05a_accountability_definitions.md#timely-resolution-constitutional) and **Article XXIV-C**.
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
+
+- [Redress and Remediation](core_05a_accountability_definitions.md#redress-and-remediation-constitutional) · [O](core_05a_accountability_definitions.md#redress-and-remediation-constitutional) · [E](core_05a_accountability_definitions.md#redress-and-remediation-constitutional-e) · [C](core_05a_accountability_definitions.md#redress-and-remediation-constitutional-c)
+- [Harm](core_05a_accountability_definitions.md#harm) · [O](core_05a_accountability_definitions.md#harm) · [E](core_05a_accountability_definitions.md#harm-e) · [C](core_05a_accountability_definitions.md#harm-c)
+- [Proportionality](core_05a_accountability_definitions.md#proportionality) · [O](core_05a_accountability_definitions.md#proportionality) · [E](core_05a_accountability_definitions.md#proportionality-e) · [C](core_05a_accountability_definitions.md#proportionality-c)
+
+</details>
+
+<br>
+
+*In plain terms: Question 2 decides what must stay blocked or supervised so harm does not repeat. This subsection decides what must be done for **sentients who were harmed** — acknowledgment, repair, restoration, or compensation — and records that remedy on the violation standing record. Fixing the system does not by itself make harmed sentients whole; making harmed sentients whole does not by itself stop recurrence.*
+
+Once a **violation standing record** carries verified findings that materially harmed sentients or violated rights, this chapter assigns **remedy obligations** under [Redress and Remediation](core_05a_accountability_definitions.md#redress-and-remediation-constitutional) as standing-model outputs — not as informal goodwill, dispute settlement, or reputation management separate from the record.
+
+**Correction and remedy are parallel outputs.**
+
+- **Correction** — change conduct, systems, safeguards, or role eligibility so the verified failure does not recur; expressed through standing locks, corrective conditions, and remediation orders under **sections 1.3**, **3.10**, and **3.3**.
+- **Remedy** — reduce ongoing rights burdens and material harm for affected sentients through acknowledgment, repair, restoration, compensation, substitute safeguards where literal repair is impossible, or comparable proportionate redress under [Redress and Remediation](core_05a_accountability_definitions.md#redress-and-remediation-constitutional).
+
+Correction does not waive remedy. Remedy does not waive applicable locks, safeguards, or review while recurrence risk remains live. **Contribution state** may support repair credibility under **section 1.3.4** but must not offset, substitute for, or buy out verified remedy owed to harmed sentients.
+
+**Remedy assignment.** From the verified violation record, identify affected sentients and material harms; apply [Redress and Remediation](core_05a_accountability_definitions.md#redress-and-remediation-constitutional) and [Proportionality](core_05a_accountability_definitions.md#proportionality) to determine required remedy type, scope, sequencing, and timeliness scaled to [material stake](core_00_preamble.md#material-stake). Record on the violation standing record:
+
+- affected parties and material harms verified;
+- remedy type and scope assigned;
+- commencement milestones and review path;
+- current remedy status, including partial completion, deferral where lawful, or non-compliance; and
+- linkage to any standing lock, corrective condition, or forum record supervising implementation.
+
+**Forum sequencing.** [Chapter Eleven](core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) supervises remedy commencement, interim relief, sequencing with correction work, and clocks under **Article XXIV-C**. Forums do not replace this assignment function; they supervise lawful implementation, challenge, and timely movement on the recorded remedy obligation.
+
+**Capacity.** Remedy obligations are non-compliant where sham, inaccessible, under-financed, or indefinitely deferred. Funding, successor responsibility, remedy-organ durability, and anti-evasion discipline remain governed by [**section 5**](#51-remediation-capacity-and-funding).
+
 <a id="8-cross-axis-coupling-and-escalation-constraints"></a>
 <a id="6-cross-axis-coupling-and-escalation-constraints"></a>
 <a id="4-cross-axis-coupling-and-escalation-constraints"></a>
@@ -1256,7 +1305,7 @@ Question 2 dimensions operate on **violation standing records only**. **Contribu
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§2.0](#20-evaluation-dimensions-contribution-magnitude-and-safe-delegation) through [Chapter One §8.10](#310-non-recurrence-lock-dimensions) (*Question 2 integration dimensions*); [Ch6 §3](core_08-08_standing_assessment.md#6-classification-evaluation-dimensions) (*Question 1 classification*); [§11.1](core_08-08_standing_assessment.md#51-contribution-axis-bands-and-table-2) through [§3](#6-extended-axis-ii-legal-hybrid-duty-and-harm-descriptors) (*primary categories, standing effects, and Violation Axis attachments*); [§1.5](#38-standing-integration-category-hook) (*standing integration — Contribution Axis hook*); [Chapter One §8.1](#71-shared-domain-lenses-cross-axis-vocabulary) (*cross-axis domain lens vocabulary*); [Chapter One §8.2](#72-stackable-benefit-and-stewardship-descriptors-contribution-state-supplement) (*contribution-state supplemental descriptors*); [§3.9](#73-stackable-harm-and-conduct-descriptors-violation-nature-supplement) (*violation-nature supplemental descriptors read with primary-stakes routing*).
+- Upstream: [§2.0](#20-evaluation-dimensions-contribution-magnitude-and-safe-delegation) through [Chapter One §8.10](#310-non-recurrence-lock-dimensions) (*Question 2 integration dimensions*); [§3.11](#redress-remedy-and-restoration-in-the-standing-model) (*remedy assignment*); [Ch6 §3](core_08-08_standing_assessment.md#6-classification-evaluation-dimensions) (*Question 1 classification*); [§11.1](core_08-08_standing_assessment.md#51-contribution-axis-bands-and-table-2) through [§3](#6-extended-axis-ii-legal-hybrid-duty-and-harm-descriptors) (*primary categories, standing effects, and Violation Axis attachments*); [§1.5](#38-standing-integration-category-hook) (*standing integration — Contribution Axis hook*); [Chapter One §8.1](#71-shared-domain-lenses-cross-axis-vocabulary) (*cross-axis domain lens vocabulary*); [Chapter One §8.2](#72-stackable-benefit-and-stewardship-descriptors-contribution-state-supplement) (*contribution-state supplemental descriptors*); [§3.9](#73-stackable-harm-and-conduct-descriptors-violation-nature-supplement) (*violation-nature supplemental descriptors read with primary-stakes routing*).
 - Downstream: [Chapter One §8.1](#38-standing-integration-contribution-and-violation-nature) (*standing integration computation*); [Chapter One §8.2](#62-joint-assessment-escalation-constraints-and-scrutiny) (*violation assessment and non-substitution preparation*); [§3.3](#standing-integration-slot-band-standing-locks) (*standing locks*); [§5](#8-enforcement-realism-anchors) (*implementation realism*); [Chapter Eleven](core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) (*forums applying this classification stack*).
 - Read with: [Article XXIII-B: Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints](core_06-06_rights_part_d.md#article-xxiii-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints) and [Article XXIII-C: Least-Restrictive and Time-Bounded Rule](core_06-06_rights_part_d.md#article-xxiii-c-least-restrictive-and-time-bounded-rule) (*escalation governs scrutiny, not automatic harsher restriction*).
 - Tetrad leg(s): **participation**, **oversight**, **accountability**, **timeliness** (all four — no hollowing). Primary aim(s): **Flourishing** and **Continuity**. [material stake](core_00_preamble.md#material-stake) scaling applies to integration scrutiny.
@@ -1288,14 +1337,15 @@ Question 2 dimensions operate on **violation standing records only**. **Contribu
 
 **Integration evaluation order.**
 
-1. From **violation standing records**, apply [Ch6 §3, Violation table](core_08-08_standing_assessment.md#violation-table-q1-severity-input-dimensions) for Question 1 classification, then [**Table B**](#violation-table-q2-non-recurrence-dimensions) for Question 2 lock design, to assign **standing locks** under **section 1.3** and **section 4.3**.
+1. From **violation standing records**, apply [Ch6 §3, Violation table](core_08-08_standing_assessment.md#violation-table-q1-severity-input-dimensions) for Question 1 classification, then [**Table B**](#violation-table-q2-non-recurrence-dimensions) for Question 2 lock design, to assign **standing locks** under **section 1.3** and **section 4.3**, and **remedy obligations** under **section 3.11** where verified harm or rights burdens require redress.
 2. From **contribution standing records**, apply [Ch6 §3, Contribution table](core_08-08_standing_assessment.md#contribution-table-q1-magnitude-input-dimensions) for Question 1 classification, then [**Table B (Contribution)**](#contribution-table-q2-safe-delegation-dimensions) for Question 2 gate design, to assign **competency gates** under **section 1.2** — **only for pathways not blocked by step 1**.
 3. Keep the following determinations **separately traceable** in the integration record:
 
    - the Contribution Axis classification and any contribution-side supplemental descriptors, drawn from contribution standing records;
    - the Violation Axis classification and any process / response character or violation-side supplemental descriptors, drawn from violation standing records;
-   - any competency gate satisfied under **section 1.2**, as the downstream positive readiness threshold for trust-, role-, authority-, oversight-, or recognition-linked eligibility; and
-   - the standing lock assigned under **section 1.3** and **section 4.3**, as the downstream constraint on any trust-, role-, credit-, authority-, oversight-, or recognition-linked effect.
+   - any competency gate satisfied under **section 1.2**, as the downstream positive readiness threshold for trust-, role-, authority-, oversight-, or recognition-linked eligibility;
+   - the standing lock assigned under **section 1.3** and **section 4.3**, as the downstream constraint on any trust-, role-, credit-, authority-, oversight-, or recognition-linked effect; and
+   - remedy obligations and current remedy status under **section 3.11**, as the downstream redress owed to affected sentients.
 
 Process / response character and supplemental descriptors remain dependent detail within the relevant axis-pure standing record; they do not create additional primary axes. Competency gates likewise do not replace Contribution Axis classification; they state whether verified competence, experience, and current good-standing criteria open a role- or trust-sensitive pathway after any standing lock has been assigned.
 
