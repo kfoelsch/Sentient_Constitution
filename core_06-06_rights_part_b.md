@@ -49,7 +49,7 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
 
 - **Participation:** in education, governance, and cooperative decisions.
 - **Oversight:** of how likeness, data, and institutional authority are exercised.
-- **Accountability:** for discrimination, coercion, and extraction.
+- **Accountability:** systems and institutions must answer for discrimination, coercion, and extraction that harms sentients.
 - **Timeliness:** in remedy when those floors are contested.
 
 The chapter-wide interpretive stack in **Part A** §1 (*Purpose and Role*) applies unless a specific article states otherwise.
@@ -467,7 +467,7 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
 
 - **Participation:** in educational pathways and contest of materially impactful ranking, assessment, and recommendation decisions.
 - **Oversight:** through transparency and audit of those systems.
-- **Accountability:** for gatekeeping, coercion, manipulative design, and extraction that defeats capability-building.
+- **Accountability:** educational systems and operators must answer for gatekeeping, coercion, manipulative design, or extraction that blocks real learning and capability-building.
 - **Timeliness:** in remedy when educational access or contest rights are at stake.
 
 [Educational Agency](core_05p_participation_definitions.md#educational-agency) is defined in the Chapter Five *Self-Determination, Meaningful Agency, Expression, Educational Agency, Reproductive Autonomy, and Volitional Integrity* cluster.
@@ -553,7 +553,7 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
 
 - **Participation:** in decisions that materially affect embodiment, internal states, family and care relationships, and reproductive or discontinuation choices.
 - **Oversight:** through auditable consent, boundary, and crisis-intervention records.
-- **Accountability:** for unauthorized intrusion, internal-state reconstruction, manipulative capture, and extraction that defeats self-ownership.
+- **Accountability:** those who touch bodies, minds, or personal boundaries must answer for unauthorized intrusion, reconstructing internal states, manipulative capture, or extraction that defeats self-ownership.
 - **Timeliness:** in remedy when those floors are contested.
 
 *Article neighbors:*
@@ -826,7 +826,7 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
 
 - **Participation:** in decisions that materially affect likeness use, experiential-data collection and sharing, and high-impact publication.
 - **Oversight:** through auditable consent, attribution, and data-use records.
-- **Accountability:** for impersonation, unauthorized extraction, false attribution, and publication that defeats those floors.
+- **Accountability:** platforms and publishers must answer for impersonation, unauthorized extraction, false attribution, or publication that defeats likeness and data protections.
 - **Timeliness:** in remedy when those protections are contested.
 
 *Article neighbors:*
@@ -1043,7 +1043,7 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
 
 - **Participation:** in decisions that materially affect agency, stakeholder status, and foundational constitutional choice.
 - **Oversight:** through auditable exclusion criteria, manipulation safeguards, and independent challenge of participation boundaries.
-- **Accountability:** for surveillance, manipulative design, unjustified exclusion, and concentration that defeats meaningful agency.
+- **Accountability:** systems and operators must answer for surveillance, manipulative design, unjustified exclusion, or power concentration that defeats meaningful agency.
 - **Timeliness:** in remedy when those floors are contested.
 
 *Article neighbors:*
@@ -1211,7 +1211,7 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
 
 - **Participation:** in cooperative ventures and associational choices that materially affect dignity, safety, and meaningful agency.
 - **Oversight:** through transparent, auditable terms of association and challenge of exclusion or hostile environments.
-- **Accountability:** for imposition, harassment, collective harm, and exploitation that defeats cooperative floors.
+- **Accountability:** associations and institutions must answer for imposition, harassment, collective harm, or exploitation that defeats cooperative protections.
 - **Timeliness:** in remedy when association, consent, or harm-boundary rights are contested.
 
 *Article neighbors:*
@@ -1390,7 +1390,7 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
 
 - **Participation:** in materially rights-affecting decisions within authorized systems, institutions, and bounded domains.
 - **Oversight:** through accessible records, stakeholder-class mapping, legitimacy checks, and auditable weighting rules.
-- **Accountability:** for token participation, missing representation, and due-process failures that defeat meaningful agency.
+- **Accountability:** governing bodies must answer for token participation, missing representation, or due-process failures that defeat meaningful agency.
 - **Timeliness:** in remedy when participation, representation, or due-process rights are contested.
 
 *Article neighbors:*

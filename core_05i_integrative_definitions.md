@@ -298,7 +298,7 @@ This cluster is the joint-invocation home for operative corpus identity, authori
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [Authority Stack and Internal Hierarchy](core_05i_integrative_definitions.md#authority-stack) (*source status, internal precedence, and owner routing read together*).
-- Downstream: [Chapter Six — Layer scope](core_06-06_rights_part_d.md#chapter-six--layer-scope); [Chapter Thirteen §4 Layer scope](core_13-15_amendment.md#4-layer-scope) and [Chapter Fifteen §12 Layer scope](core_13-15_amendment.md#12-layer-scope) (*validity-layer discipline*); chapter opening owner statements across the numbered `core_*` instrument.
+- Downstream: [Chapter Six — Layer scope](core_06-06_rights_part_a.md#chapter-six--layer-scope); [Chapter Thirteen §4 Layer scope](core_13-15_amendment.md#4-layer-scope) and [Chapter Fifteen §12 Layer scope](core_13-15_amendment.md#12-layer-scope) (*validity-layer discipline*); chapter opening owner statements across the numbered `core_*` instrument.
 - Read with: [doc_architecture.md](doc_architecture.md) section 2 (*editorial mirror of this register*); [README.md](README.md) reading order; [corpus_joint_structure.md](corpus_joint_structure.md) **CJS-2.1** (*implementation topic router*).
 
 </details>
@@ -312,7 +312,7 @@ This cluster is the joint-invocation home for operative corpus identity, authori
 | Principles and interpretation | Chapters 00–01 | Values, aims, interaction rules, constitutional interpretation | — |
 | Definition mechanics | Chapters 02–04 | Definition structure, burden, traceability, verification accessibility | — |
 | Canonical terms | Chapter 05 | O/E/C definitions and dependent clusters | — |
-| Rights Floor | Chapter 06 | Articles I–XXV Rights Floors and rights-level interpretive scope | — |
+| Rights Floor | Chapter 06 | Articles I–XXVI Rights Floors and rights-level interpretive scope | — |
 | System alignment certification | Chapter 07 | System alignment certification and related records where material; Chapter Five [System Alignment Certification](core_05c_continuity_definitions.md#system-alignment-certification-constitutional) | [corpus_systems.md](corpus_systems.md) |
 | Standing classification | Chapters 08–09 | Contribution / violation / standing classification (Axes I / II), standing integration | — |
 | Anti-constitutional misconduct | Chapter 10 | Final Violation Axis **s** = 7, 8, or 9 classification, criteria, and cross-chapter discipline | — |

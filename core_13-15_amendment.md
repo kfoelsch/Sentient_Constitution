@@ -652,7 +652,7 @@ Amendments take effect only on a stated effective date or event recorded in the 
 
 - Upstream: [Chapter Thirteen §4](#4-layer-scope) substantive-chapter mirror; [§8](#7-review-triggers) and [§10](#9-invalid-change-handling-and-remediation-continuity) trigger language scoped here.
 - Downstream: [Chapter Eight](core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) and [Chapter Ten](core_10-10_misconduct.md#chapter-ten-anti-constitutional-misconduct) remain sole canonical homes for listed taxonomies.
-- Read with: [Chapter Six — Layer scope](core_06-06_rights_part_d.md#chapter-six--layer-scope) and [Constitutional Owner Layers](core_05i_integrative_definitions.md#constitutional-owner-layers) for the converse Rights-Floor discipline pattern.
+- Read with: [Chapter Six — Layer scope](core_06-06_rights_part_a.md#chapter-six--layer-scope) and [Constitutional Owner Layers](core_05i_integrative_definitions.md#constitutional-owner-layers) for the converse Rights-Floor discipline pattern.
 
 </details>
 
