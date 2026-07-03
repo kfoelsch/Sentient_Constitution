@@ -39,7 +39,7 @@
 > - **Operational home:** forum structure, forum independence safeguards, forum process governance, and forum continuity mechanics.
 > - **Boundary rule:** this file does **not** redefine constitutional terms, Rights Floors, offense taxonomy, or the constitutional routing logic owned by `core_11-11_forum.md` **Chapter Eleven**.
 > - **Forum-family limit:** this file does **not** create new forum families beyond those authorized in **Chapter Eleven**.
-> - **Chapter Six structure:** operationalizes challenge and redress through **Article XII-B**; auditability through **Article XV-A** with **Chapters Two through Four**; interpretation safeguards through **Article XXII**; justice and emergency boundaries through **Article XXIII**; transition-phase adjudication support as **Article XXV** references into this file and **`corpus_institutions.md`** **CI-14** (*Transitional governance and institutional evolution*).
+> - **Chapter Six structure:** operationalizes challenge and redress through **Article XII-B**; auditability through **Article XV-A** with **Chapters Two through Four**; interpretation safeguards through **Article XXII**; justice and emergency boundaries through **Article XXIII**; transition-phase adjudication support as **Article XXVI** references into this file and **`corpus_institutions.md`** **CI-14** (*Transitional governance and institutional evolution*).
 >
 > **Implementation cross-reference index (routing only):** Read with Chapter Five constitutional definitions and `corpus_joint_structure.md` **CJS-5** (*Implementation and cross-implementation operational cluster library*) operational clusters where materially applicable. This index does not redefine owner-layer meaning.
 

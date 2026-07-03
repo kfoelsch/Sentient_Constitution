@@ -16,8 +16,8 @@ Custody and binding scope: [Chapter Five *Corpus*](core_05i_integrative_definiti
 
 1. **Chapter One** — preamble ([`core_00_preamble.md`](core_00_preamble.md)); Values Principles, Part A ([`core_01_a_values_principles.md`](core_01_a_values_principles.md)); Stewardship and Governance, Part B ([`core_01_b_stewardship_capacity_principles.md`](core_01_b_stewardship_capacity_principles.md)).
 2. **Chapters Two through Five** — definition structure, integrity, burden, traceability, and the definition stack ([`core_02-04_definition_mechanics.md`](core_02-04_definition_mechanics.md); Chapter Five Parts A–C below). Chapter Five is the **definition stack**, not the Rights Floor.
-3. **Chapter Six** — Rights Floor, Articles I–XXV in planet-first Parts A–D ([`core_06-06_rights_part_a.md`](core_06-06_rights_part_a.md) through [`core_06-06_rights_part_d.md`](core_06-06_rights_part_d.md); article map in [doc_architecture.md](doc_architecture.md) **section 5**).
-4. **Chapter Seven and Chapters Eight through Eleven** — enforce the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) and [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) through the **Key Practical Process Pipelines** ([Chapters Eight–Eleven compass](core_08-08_standing_assessment.md#chapters-eight-eleven-constitutional-compass)), governed by **Article XXIII-G** (*Timely Resolution and Anti-Delay Floor*): system alignment certification record where material → standing record → verified input → contribution / violation classification → attachments, descriptors, locks, and effects → Chapter Ten top-slot review for Violation Axis **s = 7**, **s = 8**, or **s = 9** anti-constitutional misconduct; **Chapter Eleven** supplies forum families, jurisdiction, and cross-forum anti-self-judging ([`core_11-11_forum.md`](core_11-11_forum.md)).
+3. **Chapter Six** — Rights Floor, Articles I–XXVI in planet-first Parts A–D ([`core_06-06_rights_part_a.md`](core_06-06_rights_part_a.md) through [`core_06-06_rights_part_d.md`](core_06-06_rights_part_d.md); article map in [doc_architecture.md](doc_architecture.md) **section 5**).
+4. **Chapter Seven and Chapters Eight through Eleven** — enforce the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) and [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) through the **Key Practical Process Pipelines** ([Chapters Eight–Eleven compass](core_08-08_standing_assessment.md#chapters-eight-eleven-constitutional-compass)), governed by **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*): system alignment certification record where material → standing record → verified input → contribution / violation classification → attachments, descriptors, locks, and effects → Chapter Ten top-slot review for Violation Axis **s = 7**, **s = 8**, or **s = 9** anti-constitutional misconduct; **Chapter Eleven** supplies forum families, jurisdiction, and cross-forum anti-self-judging ([`core_11-11_forum.md`](core_11-11_forum.md)).
 5. **Chapters Twelve through Sixteen** — governance, non-regression, supremacy, amendment and ratification, and the incorporation bridge.
 
 The corpus is written in plain language with low jargon to improve accessibility, audit readability, and adoption testing.
@@ -56,11 +56,11 @@ The corpus is written in plain language with low jargon to improve accessibility
 
 ### Rights Floor
 
-- **Chapter Six** (Articles I–XXV; planet-first presentation in Parts A–D)
+- **Chapter Six** (Articles I–XXVI; planet-first presentation in Parts A–D)
   - Part A — Articles I–IV — [`core_06-06_rights_part_a.md`](core_06-06_rights_part_a.md)
   - Part B — Articles V–XI — [`core_06-06_rights_part_b.md`](core_06-06_rights_part_b.md)
   - Part C — Articles XII–XXI — [`core_06-06_rights_part_c.md`](core_06-06_rights_part_c.md)
-  - Part D — Articles XXII–XXV (transition and re-baselining in **Article XXV**) — [`core_06-06_rights_part_d.md`](core_06-06_rights_part_d.md)
+  - Part D — Articles XXII–XXVI (transition and re-baselining in **Article XXVI**) — [`core_06-06_rights_part_d.md`](core_06-06_rights_part_d.md)
   - Stable IDs and routing — [doc_architecture.md](doc_architecture.md) **section 5**
 
 ### Governance, amendment, and incorporation

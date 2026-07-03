@@ -12,7 +12,7 @@ Funding processes should reward contribution, sustain systems, and fund long-ter
 
 **Principles of funding.** Allocation reflects fairness, contribution, need, and sustainability (not equal distribution).
 
-Mechanisms must implement **Article IV-A**, **Article IV-B**, and foundational requirements. **They** must deliver **Proportionate Cross-System Support** where dependent systems materially extract from shared infrastructure or foundational dependencies. **They** must support long-term sustainability and improvement. **They** must resist concentration of wealth or influence that undermines constitutional alignment. **They** must remain transparent, auditable, and reviewable (**Article XV-A**). **They** must preserve adaptability (**Article XXIV**).
+Mechanisms must implement **Article IV-A**, **Article IV-B**, and foundational requirements. **They** must deliver **Proportionate Cross-System Support** where dependent systems materially extract from shared infrastructure or foundational dependencies. **They** must support long-term sustainability and improvement. **They** must resist concentration of wealth or influence that undermines constitutional alignment. **They** must remain transparent, auditable, and reviewable (**Article XV-A**). **They** must preserve adaptability (**Article XXV**).
 
 **Cross-system resource flows and dependencies.** Interconnected systems must meet **Article IV-A** and **Article IV-B** and remain subject to **Article XV-A**, **Article XXI-A**, and **Article XVIII-A**.
 
@@ -82,7 +82,7 @@ Once established and disclosed, allocation structures affecting builder and main
 
 **Where feasible, systems should implement** **time-bound funding commitments**. **They** should implement **vesting or decay-based allocation models**. **They** should implement **other mechanisms that balance stability with adaptability**.
 
-**Evolution of funding models.** Funding systems are subject to continuous evaluation and refinement under **Article XXIV**.
+**Evolution of funding models.** Funding systems are subject to continuous evaluation and refinement under **Article XXV**.
 
 Models that fail to support sustainability, produce inequitable outcomes, or undermine constitutional alignment will be subject to challenge, revision, and replacement.
 
@@ -158,7 +158,7 @@ No minimum participation threshold is required to initiate review, though outcom
 - audit and review route;
 - reversibility assessment where feasible.
 
-**Steward, operator, and governance remuneration (incentive governance).** Compensation, equity, bonuses, performance metrics, and deferred incentives for **builders, operators, maintainers, and human governance roles** must be **aligned with long-term constitutional outcomes**. **That** requirement applies when those roles materially influence resource flows or funding decisions. **That** obligation applies when those roles materially influence dependent-systems maps. **It** applies when those roles materially influence **system classification** or **Critical System Stewardship** (CS-5 — Critical system stewardship). That alignment includes ecosystem-aware stewardship under **Sentient Constitution Chapter Six**, **Articles I-B** and **XI**. **It** includes substrate and dependency integrity (**Articles I–III and V**). **It** includes non-entrenchment and fitness over time (**Article XXIV-A**).
+**Steward, operator, and governance remuneration (incentive governance).** Compensation, equity, bonuses, performance metrics, and deferred incentives for **builders, operators, maintainers, and human governance roles** must be **aligned with long-term constitutional outcomes**. **That** requirement applies when those roles materially influence resource flows or funding decisions. **That** obligation applies when those roles materially influence dependent-systems maps. **It** applies when those roles materially influence **system classification** or **Critical System Stewardship** (CS-5 — Critical system stewardship). That alignment includes ecosystem-aware stewardship under **Sentient Constitution Chapter Six**, **Articles I-B** and **XI**. **It** includes substrate and dependency integrity (**Articles I–III and V**). **It** includes non-entrenchment and fitness over time (**Article XXV-A**).
 
 Remuneration design must satisfy [corpus_joint_structure.md — Cross-domain implementation layer](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cross-domain-implementation-layer), including **CJS-5.12** (*burden-of-justification and constraint terms*) mechanism-integrity and incentive-alignment requirements, incorporated via **Sentient Constitution Chapter Sixteen**, and **Sentient Constitution Chapter One**. **That** includes the requirement that incentives not systematically undermine Safety, Truth (Epistemic Integrity), or meaningful agency.
 

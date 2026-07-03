@@ -228,7 +228,7 @@ Recovery paths must **not** be permitted to suppress, overwrite, delay, or obscu
 
 Independent verification must be able to reconstruct **both** the recovery path and what the recovery path handled or suppressed.
 
-**Rights-Floor continuity in degraded and recovering states:** Degraded operating modes must preserve the **Chapter Six** Rights Floor, or must escalate rather than silently narrow it. Silent narrowing of Chapter Six guarantees under the banner of self-healing is non-compliant under **Article XII-F**'s Rights-Floor Continuity bullet and **Article XII-C** (prohibition of false trust). Degraded-mode designs that curtail contestability intake, Article XV-A audit fidelity, Article XII-B challenge acknowledgment, or comparable floor protections must be treated as **Article XXV** transition-governance territory and disclosed accordingly.
+**Rights-Floor continuity in degraded and recovering states:** Degraded operating modes must preserve the **Chapter Six** Rights Floor, or must escalate rather than silently narrow it. Silent narrowing of Chapter Six guarantees under the banner of self-healing is non-compliant under **Article XII-F**'s Rights-Floor Continuity bullet and **Article XII-C** (prohibition of false trust). Degraded-mode designs that curtail contestability intake, Article XV-A audit fidelity, Article XII-B challenge acknowledgment, or comparable floor protections must be treated as **Article XXVI** transition-governance territory and disclosed accordingly.
 
 Participant-facing disclosure during degraded and recovering operation must accurately describe the state as a Rights-Floor-affected state where it is one, consistent with **Article XII-C** and **Article XV-A**.
 

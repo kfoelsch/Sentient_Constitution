@@ -34,7 +34,7 @@ Filename renames require: reference audit, same-change link updates, dated evide
 | Layer | Primary home | Routing |
 |--------|--------------|---------|
 | Values, definition mechanics, definitions | Sentient Constitution `core_*` Ch 1–5 | [README.md](README.md) reading order |
-| Rights (Articles I–XXV) | Ch 6 | `core_06-06_rights_part_*.md`; titles via `make reference-audit` |
+| Rights (Articles I–XXVI) | Ch 6 | `core_06-06_rights_part_*.md`; titles via `make reference-audit` |
 | System alignment certification | Ch 7 | `core_07-07_system_alignment_certification.md` |
 | Standing pipeline | Ch 8–10 | `core_08-08_standing_assessment.md` through `core_10-10_misconduct.md`; comprehension layer: [Chapters Eight–Eleven compass](core_08-08_standing_assessment.md#chapters-eight-eleven-constitutional-compass) |
 | Forums (constitutional) | Ch 11 | `core_11-11_forum.md` (same compass) |
@@ -54,7 +54,7 @@ Filename renames require: reference audit, same-change link updates, dated evide
 2. **Implementation files own** *how* (taxonomies, protocols, institutions, forums, joint interlocks).
 3. **No duplicate definitions** across layers — implementation files *apply* Chapter Five terms.
 4. **Stricter wins** where the corpus already says so; core values and rights prevail over conflicting operational wording.
-5. **Chapter Six implements detail** for Articles I–XXV; do not invent parallel rights in implementation files.
+5. **Chapter Six implements detail** for Articles I–XXVI; do not invent parallel rights in implementation files.
 
 ---
 
@@ -255,7 +255,7 @@ When a Chapter Six article or subarticle is cited in **body prose** — outside 
 
 **Format:** `**Article {label}** (*{title}*)`
 
-Examples: `**Article XV-C** (*Verification Accessibility*)`; `**Article XXIII-G** (*Timely Resolution and Anti-Delay Floor*)`.
+Examples: `**Article XV-C** (*Verification Accessibility*)`; `**Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*)`.
 
 **Rules**
 

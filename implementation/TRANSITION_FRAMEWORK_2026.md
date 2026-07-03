@@ -23,7 +23,7 @@ This framework helps adopters map **2026 real-world conditions** (institutions, 
 
 | Topic | Primary corpus location |
 |--------|-------------------------|
-| Transition principles | [core_06-06_rights_part_d.md](../core_06-06_rights_part_d.md) — **Article XXV** (*Transition Governance, Continuity, and Re-Baselining*) |
+| Transition principles | [core_06-06_rights_part_d.md](../core_06-06_rights_part_d.md) — **Article XXVI** (*Transition Governance, Continuity, and Re-Baselining*) |
 | Operational transition protocol | [corpus_systems.md](../corpus_systems.md) — **Protocol T** (*Transition Constitution and Migration Governance*) |
 | Transitional stewardship | [corpus_systems.md](../corpus_systems.md) — **Protocol T** (*Transition Constitution and Migration Governance*); dependency / exit / anti-lock-in operational clusters — [corpus_joint_structure.md](../corpus_joint_structure.md) **CJS-5.17** (*interoperability, portability, and exit-integrity terms*), **CJS-5.12** (*Cross-domain implementation layer*) |
 | Legitimacy and authorization | [core_12-12_governance.md](../core_12-12_governance.md) — **Chapter Twelve** |
@@ -67,7 +67,7 @@ Use this section as a **factual** inventory to ground gate criteria and risk. It
 - **Legal constraints:** Constitutional, statutory, regulatory, and contractual obligations that bind the adopter.
 - Note conflicts with corpus rights floors for Chapter Eleven harmonization ([Chapter Thirteen §3](../core_13-15_amendment.md#3-supremacy-relative-to-other-binding-norms) — *Supremacy Relative to Other Binding Norms*; [Chapter Thirteen §4](../core_13-15_amendment.md#4-disputes-involving-external-legal-orders) — *Disputes Involving External Legal Orders*).
 - **Critical dependencies:** Digital, financial, energy, supply chain, identity, and communication dependencies ([corpus_systems.md](../corpus_systems.md) Protocol S5; *Dependent Systems Maps* under [Article IV-A](../core_06-06_rights_part_a.md#article-iv-a-dependent-systems-maps)).
-- **Known misalignments:** Gaps versus Article XXV transition rights-floor themes (survival, dignity, agency, contestability, non-discrimination) and versus audit/contestability ([Article IX](../core_06-06_rights_part_b.md#article-ix-self-determination-agency-and-freedom-from-manipulation), [Article XII](../core_06-06_rights_part_c.md#article-xii-reliable-trustworthy-and-contestable-systems), [Article XV](../core_06-06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification), [Article XXV](../core_06-06_rights_part_d.md#article-xxv-transition-governance-continuity-and-re-baselining)).
+- **Known misalignments:** Gaps versus Article XXVI transition rights-floor themes (survival, dignity, agency, contestability, non-discrimination) and versus audit/contestability ([Article IX](../core_06-06_rights_part_b.md#article-ix-self-determination-agency-and-freedom-from-manipulation), [Article XII](../core_06-06_rights_part_c.md#article-xii-reliable-trustworthy-and-contestable-systems), [Article XV](../core_06-06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification), [Article XXVI](../core_06-06_rights_part_d.md#article-xxvi-transition-governance-continuity-and-re-baselining)).
 
 **Optional risk pointer:** For corpus-level residual risk themes under adversarial pressure (not a substitute for adopter-specific threat modeling), see [archive/TRUST_UNDER_ATTACK_DELTA_REPORT_ARCHIVED_2026-05-01.md](../archive/TRUST_UNDER_ATTACK_DELTA_REPORT_ARCHIVED_2026-05-01.md).
 
@@ -88,7 +88,7 @@ Align **high-impact** decisions with [Article XI](../core_06-06_rights_part_b.md
 **Protocol T** requires at least: **preparation**, **limited adoption**, **expanded adoption**, and **steady-state** phases. For each phase, publish:
 
 - Scope of affected systems and stakeholders  
-- Rights-floor controls that remain **invariant** during the phase ([Article XXV](../core_06-06_rights_part_d.md#article-xxv-transition-governance-continuity-and-re-baselining))  
+- Rights-floor controls that remain **invariant** during the phase ([Article XXVI](../core_06-06_rights_part_d.md#article-xxvi-transition-governance-continuity-and-re-baselining))  
 - Accountable transition owners and review bodies  
 
 | Phase | Objectives | Entry criteria | Exit / gate criteria | Owners | Verification artifacts |
@@ -100,13 +100,13 @@ Align **high-impact** decisions with [Article XI](../core_06-06_rights_part_b.md
 
 **Gate advancement** requires auditable evidence per **Protocol T** §2: continuity of critical services and survival-supporting access; operational readiness of oversight, audit, and contestability pathways; rollback/fallback feasibility proportionate to impact. **Gate waivers** require independent approval and time-bounded compensating controls.
 
-**Rights-floor continuity:** At every phase, baseline protections for survival, dignity, agency, contestability, and non-discrimination remain in force — Article XXV; **Protocol T** §§1–2.
+**Rights-floor continuity:** At every phase, baseline protections for survival, dignity, agency, contestability, and non-discrimination remain in force — Article XXVI; **Protocol T** §§1–2.
 
 ---
 
 ## 7. Interim authority charter
 
-Temporary transition authorities must be **scope-limited**, **sunset-bounded**, and **independently reviewable** — [Article XXV](../core_06-06_rights_part_d.md#article-xxv-transition-governance-continuity-and-re-baselining); **Protocol T** §3.
+Temporary transition authorities must be **scope-limited**, **sunset-bounded**, and **independently reviewable** — [Article XXVI](../core_06-06_rights_part_d.md#article-xxvi-transition-governance-continuity-and-re-baselining); **Protocol T** §3.
 
 | Field | Record |
 |--------|--------|
@@ -116,7 +116,7 @@ Temporary transition authorities must be **scope-limited**, **sunset-bounded**, 
 | Independent review cadence | |
 | Extension conditions (documented reauthorization, risk explanation, alternatives, completion plan) | |
 
-**Non-entrenchment:** Transitional arrangements must not become durable exception authority — Article XXV; **Protocol T** §§3–4 (*Transitional authority constraints*; *Failure handling, off-ramps, and re-baselining*).
+**Non-entrenchment:** Transitional arrangements must not become durable exception authority — Article XXVI; **Protocol T** §§3–4 (*Transitional authority constraints*; *Failure handling, off-ramps, and re-baselining*).
 
 ---
 
@@ -157,7 +157,7 @@ For technical and organizational **exit, migration, and interoperability**, alig
 
 ## 11. Audit, disclosure, and challenge
 
-Material transition decisions, delays, reversals, and gate outcomes must be **logged** and **disclosed** to affected stakeholders, subject to narrow justified confidentiality — Article XXV; **Protocol T** §5.
+Material transition decisions, delays, reversals, and gate outcomes must be **logged** and **disclosed** to affected stakeholders, subject to narrow justified confidentiality — Article XXVI; **Protocol T** §5.
 
 - **Publication channels:** *(list)*  
 - **Standing and challenge pathways:** Articles IX, XII, XV, XVIII, XXV; **CJS-5.13** (*Procedural Integrity and Adjudication*) where applicable  
@@ -171,7 +171,7 @@ Material transition decisions, delays, reversals, and gate outcomes must be **lo
 
 | ID | Pack | Purpose |
 |----|------|---------|
-| **RS-T7-001** | Continuity | Gate blocking, rights-floor continuity, off-ramp/re-baselining — hooks: Article XXV; **Protocol T** §§1–10 |
+| **RS-T7-001** | Continuity | Gate blocking, rights-floor continuity, off-ramp/re-baselining — hooks: Article XXVI; **Protocol T** §§1–10 |
 
 Source narrative and pass/fail conditions: [CONSTITUTIONAL_REGRESSION_SCENARIOS.md](../CONSTITUTIONAL_REGRESSION_SCENARIOS.md) — scenario **RS-T7-001**.
 
@@ -240,7 +240,7 @@ Condensed from the 2026-Q2 completed-work archive (*Ticket 7: Transition constit
 
 **Normative closure (authoritative text remains in corpus):**
 
-- [core_06-06_rights_part_d.md](../core_06-06_rights_part_d.md) — **Article XXV**
+- [core_06-06_rights_part_d.md](../core_06-06_rights_part_d.md) — **Article XXVI**
 - [corpus_joint_structure.md](../corpus_joint_structure.md) — **CJS-5.17** (*interoperability, portability, and exit-integrity terms*), **CJS-5.12** (*Cross-domain implementation layer*)
 - [corpus_systems.md](../corpus_systems.md) — **Protocol T**
 
