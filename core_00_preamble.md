@@ -141,7 +141,7 @@ Each summary states what the chapter does and what it produces.
 
 **Chapter Two — Definition structure** ([`core_02-04_definition_mechanics.md`](core_02-04_definition_mechanics.md))
 
-- **What it does:** Defines how constitutional terms are built — the O/E/C component structure, alignment requirements, and component rules that keep definitions precise and usable across the corpus.
+- **What it does:** Defines how constitutional terms are built — the Ontological/Evaluative/Compliance (O/E/C) component structure, alignment requirements, and component rules that keep definitions precise and usable across the corpus.
 - **What it produces:** A shared grammar for definitions so later chapters do not drift into vague labels, hidden assumptions, or incompatible term shapes.
 
 **Chapter Three — Definition integrity** ([`core_02-04_definition_mechanics.md`](core_02-04_definition_mechanics.md))
@@ -174,7 +174,11 @@ Each step below states what the process does and what it produces.
 
 **System alignment certification** ([Chapter Seven](core_07-07_system_alignment_certification.md#chapter-seven-system-alignment-certification))
 
-- **What it does:** Before a system that materially affects sentients can be recognized or relied on at scale, evidence is gathered and reviewed under forum supervision — including whether the system respects survival essentials, **Article IV** resource allocation and dependency stewardship — including [Proportionate Cross-System Support](core_05c_continuity_definitions.md#proportionate-cross-system-support-constitutional) where shared-infrastructure reliance is materially at issue — safety, participation, and other constitutional floors. Sentients with standing can challenge the result. High-risk systems must be recertified on a regular schedule; certification is never permanent.
+- **What it does:** Ensures systems with material impact stay constitutionally aligned.
+  - Before a system that materially affects sentients can be recognized or relied on at scale, evidence is gathered and reviewed under forum supervision
+  - Review scope includes whether the system respects survival essentials; **Article IV** resource allocation and dependency stewardship — including [Proportionate Cross-System Support](core_05c_continuity_definitions.md#proportionate-cross-system-support-constitutional) where shared-infrastructure reliance is materially at issue; safety; participation; and other constitutional floors
+  - Sentients with standing can challenge the result
+  - High-risk systems must be recertified on a regular schedule; certification is never permanent
 - **What it produces:** A **system alignment certification record** — a bounded, contestable answer to whether that system is aligned enough to recognize, continue relying on, deploy, or release from conditions *right now*, within a stated scope and time window.
 
 **Standing measurement** ([Chapter Eight](core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model))
@@ -184,10 +188,10 @@ Each step below states what the process does and what it produces.
 
 **Standing integration and effects** ([Chapter Nine](core_09-09_standing_integration.md#chapter-nine-standing-effects-and-integration))
 
-Chapter Nine integrates verified classifications into real-world **standing effects** on separate tracks — scaled to [**material stake**](#material-stake), without folding contribution and violation into one net score, and without hollowing participation, oversight, accountability, or timeliness.
-
-- **Contribution state:** Integrates verified positive classification into practical upside — [**competency gates**](core_09-09_standing_integration.md#competency-gates) that may unlock trust-sensitive roles, delegated authority, oversight eligibility, and progressively consequential stewardship when competence and good standing are demonstrated, plus proportionate recognition and **material rewards** for lawful stewardship and cooperation as [Chapter One](core_01_a_values_principles.md#22-recognition-reinforcement-and-aspiration) requires — not token praise, but benefits that matter, evidence-backed, and challengeable.
-- **Violation state:** Integrates verified violation findings into practical downside — **standing locks**, role limits, remediation orders, [remedy for those harmed](core_09-09_standing_integration.md#redress-remedy-and-restoration-in-the-standing-model), supplemental descriptors, and enforcement hooks. Restrictions fit the severity of what was verified; unresolved violations stay live; proportionate paths back remain available where the Constitution requires them. Satisfying a competency gate on the contribution side does not waive a standing lock on the violation side.
+- **What it does:** Integrates verified classifications into real-world **standing effects** on separate tracks — scaled to [**material stake**](#material-stake), without folding contribution and violation into one net score, and without hollowing participation, oversight, accountability, or timeliness.
+  - **Contribution track:** Verified positive classification produces practical upside — [**competency gates**](core_09-09_standing_integration.md#competency-gates) that may unlock trust-sensitive roles, delegated authority, oversight eligibility, and progressively consequential stewardship when competence and good standing are demonstrated, plus proportionate recognition and **material rewards** for lawful stewardship and cooperation as [Chapter One](core_01_a_values_principles.md#22-recognition-reinforcement-and-aspiration) requires — not token praise, but benefits that matter, evidence-backed, and challengeable.
+  - **Violation track:** Verified violation findings produce practical downside — **standing locks**, role limits, remediation orders, [remedy for those harmed](core_09-09_standing_integration.md#redress-remedy-and-restoration-in-the-standing-model), supplemental descriptors, and enforcement hooks. Restrictions fit the severity of what was verified; unresolved violations stay live; proportionate paths to restore standing remain available for those who demonstrate authentic restitution. Satisfying a competency gate on the contribution side does not waive a standing lock on the violation side.
+- **What it produces:** Separate, scaled standing effects on the Contribution and Violation tracks — competency gates and material rewards on one side; standing locks, correction, and remedy on the other — neither folded into a single score.
 
 **Anti-constitutional misconduct guardrail** ([Chapter Ten](core_10-10_misconduct.md#chapter-ten-anti-constitutional-misconduct))
 
@@ -208,7 +212,7 @@ Think of it as a path from system check to remedy — with forums supervising th
    - **Contribution state:** Open a **contribution standing record** — a bounded, challengeable case file for verified help toward flourishing — and classify **contribution state** on the Contribution Axis.
    - **Violation state:** Open a **violation standing record** — a bounded, challengeable case file for verified harm and accountability failures — and classify **violation nature** on the Violation Axis. Good and harm never fold into one net score; linked records cross-reference but stay separate.
 3. **Apply standing effects on each track** ([Chapter Nine](core_09-09_standing_integration.md#chapter-nine-standing-effects-and-integration)) — verified contribution can open competency gates and support proportionate recognition and material rewards; verified violation can trigger standing locks, correction, and [remedy for those harmed](core_09-09_standing_integration.md#redress-remedy-and-restoration-in-the-standing-model).
-4. **Escalate only the worst misconduct** ([Chapter Ten](core_10-10_misconduct.md#chapter-ten-anti-constitutional-misconduct)) — if the facts may support the highest violation slots, run final top-slot review for anti-constitutional misconduct.
+4. **Proportionate escalation** ([Chapter Ten](core_10-10_misconduct.md#chapter-ten-anti-constitutional-misconduct)) — forums classify disputes into five [materiality tiers](core_11-11_forum.md#10-timely-resolution-materiality-tiers-and-anti-delay-discipline) (A/B/C/L/P) mirroring the system classification alphabet — from survival-critical urgency through private/contained matters; if the facts may support the highest violation slots, Tier A routes the matter to final top-slot review for anti-constitutional misconduct.
 5. **Route disputes and keep remedy timely** ([Chapter Eleven](core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction)) — forums supervise how cases move, which track handles them, and whether clocks under **Article XXIV-C** are met so remedy does not die in delay.
 
 The [Chapters Eight–Eleven constitutional process compass](core_08-08_standing_assessment.md#chapters-eight-eleven-constitutional-compass) walks through steps 2–5 in more detail. Chapter Seven supplies certification evidence that can feed step 2 when system alignment is part of what must be verified.
