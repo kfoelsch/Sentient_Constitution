@@ -27,7 +27,8 @@ class AlignmentAuditor:
         self.ch1_files = [
             repo_root / "core_00_preamble.md",
             repo_root / "core_01_a_values_principles.md",
-            repo_root / "core_01_b_stewardship_capacity_principles.md",
+            repo_root / "core_01_b_interaction_interpretation.md",
+            repo_root / "core_01_c_stewardship_capacity_principles.md",
         ]
         self.ch5_files = [repo_root / name for name in (
             "core_05-05_definitions_a_independent.md",

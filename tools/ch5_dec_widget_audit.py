@@ -29,7 +29,7 @@ audits. It enforces two invariants:
      C link.
 
 2. **D/E/C widget row-shape and anchor resolution.** Across the consumer core
-   files (``core_00_preamble.md`, `core_01_a_values_principles.md`, and `core_01_b_stewardship_capacity_principles.md``, ``core_02-04_definition_mechanics.md``,
+   files (``core_00_preamble.md`, `core_01_a_values_principles.md`, and `core_01_c_stewardship_capacity_principles.md``, ``core_02-04_definition_mechanics.md``,
    the four Chapter Eleven parts), every line inside a D/E/C widget that appears
    to be a widget row must match the canonical shape:
 
@@ -87,7 +87,8 @@ _WIDGET_SLUG_SUFFIXES = (
 CONSUMERS = [
     "core_00_preamble.md",
     "core_01_a_values_principles.md",
-    "core_01_b_stewardship_capacity_principles.md",
+    "core_01_b_interaction_interpretation.md",
+    "core_01_c_stewardship_capacity_principles.md",
     "core_02-04_definition_mechanics.md",
     "core_08-08_standing_assessment.md",
     "core_09-09_standing_integration.md",

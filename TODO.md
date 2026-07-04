@@ -13,7 +13,7 @@
 
 ## Current Chapter Map
 
-- **Ch 1:** [core_00_preamble.md](core_00_preamble.md), [core_01_a_values_principles.md](core_01_a_values_principles.md) (Part A), and [core_01_b_stewardship_capacity_principles.md](core_01_b_stewardship_capacity_principles.md) (Part B)
+- **Ch 1:** [core_00_preamble.md](core_00_preamble.md), [core_01_a_values_principles.md](core_01_a_values_principles.md) (Part A), [core_01_b_interaction_interpretation.md](core_01_b_interaction_interpretation.md) (Part B), and [core_01_c_stewardship_capacity_principles.md](core_01_c_stewardship_capacity_principles.md) (Part C)
 - **Ch 2–4:** [core_02-04_definition_mechanics.md](core_02-04_definition_mechanics.md)
 - **Ch 5:** Part A compass — [core_05-05_definitions_a_independent.md](core_05-05_definitions_a_independent.md); band files — [core_05o_oversight_definitions.md](core_05o_oversight_definitions.md), [core_05p_participation_definitions.md](core_05p_participation_definitions.md), [core_05a_accountability_definitions.md](core_05a_accountability_definitions.md), [core_05c_continuity_definitions.md](core_05c_continuity_definitions.md), [core_05i_integrative_definitions.md](core_05i_integrative_definitions.md) (retired Part B/C → [archive/core_ch5_retired/](archive/core_ch5_retired/README.md))
 - **Ch 6:** [core_06-06_rights_part_a.md](core_06-06_rights_part_a.md) through [core_06-06_rights_part_d.md](core_06-06_rights_part_d.md)

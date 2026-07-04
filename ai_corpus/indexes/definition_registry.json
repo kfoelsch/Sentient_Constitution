@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/definition_registry.schema.json",
-  "generated_at": "2026-07-04T06:34:34+00:00",
+  "generated_at": "2026-07-04T16:14:28+00:00",
   "source": "authoritative Chapter Five core files and Chapter One principle-layer anchors (preamble + Part A)",
   "definition_count": 226,
   "definitions": [
@@ -438,8 +438,8 @@
       "term": "Continuity",
       "source_file": "core_01_a_values_principles.md",
       "anchor": "#continuity",
-      "line_start": 85,
-      "line_end": 85,
+      "line_start": 49,
+      "line_end": 49,
       "category": "principle_layer",
       "cluster_membership": null
     },
@@ -748,8 +748,8 @@
       "term": "Flourishing",
       "source_file": "core_01_a_values_principles.md",
       "anchor": "#flourishing",
-      "line_start": 85,
-      "line_end": 85,
+      "line_start": 49,
+      "line_end": 49,
       "category": "principle_layer",
       "cluster_membership": null
     },
@@ -2165,8 +2165,8 @@
       "term": "Two Constitutional Aims",
       "source_file": "core_01_a_values_principles.md",
       "anchor": "#two-constitutional-aims",
-      "line_start": 85,
-      "line_end": 85,
+      "line_start": 49,
+      "line_end": 49,
       "category": "principle_layer",
       "cluster_membership": null
     },

@@ -11,7 +11,12 @@
       "status": "present"
     },
     {
-      "file": "core_01_b_stewardship_capacity_principles.md",
+      "file": "core_01_b_interaction_interpretation.md",
+      "label": "core",
+      "status": "present"
+    },
+    {
+      "file": "core_01_c_stewardship_capacity_principles.md",
       "label": "core",
       "status": "present"
     },

@@ -41,7 +41,7 @@ It must include explicit duration limits and sunset conditions, define review in
 Continuation without refreshed evidence at scheduled review is non-compliant.
 
 ### 5. Prohibited retaliatory forms
-Implementations must **not** operationalize restrictions, exclusions, or restorative-accountability measures that violate the [Anti-Degrading-Process Principle](../core_01_a_values_principles.md#anti-degrading-process-principle), including measures justified by retaliatory grievance, humiliation-as-an-end, spectacle-only deterrence, discriminatory burdening, collective retaliation, or administrative convenience.
+Implementations must **not** operationalize restrictions, exclusions, or restorative-accountability measures that violate the [Anti-Degrading-Process Principle](../core_01_b_interaction_interpretation.md#anti-degrading-process-principle), including measures justified by retaliatory grievance, humiliation-as-an-end, spectacle-only deterrence, discriminatory burdening, collective retaliation, or administrative convenience.
 
 Irreversible restrictive outcomes are prohibited where feasible reversible restitution, remediation, or protection alternatives exist.
 

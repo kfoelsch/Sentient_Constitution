@@ -37,8 +37,8 @@
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad); [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims); [material stake](core_00_preamble.md#material-stake).
-- Upstream: [Chapter One §6 Interaction and Conflict Resolution](core_01_a_values_principles.md#6-interaction-and-conflict-resolution); [Chapter One §6.3.1 Rights-Collision Decision Test](core_01_a_values_principles.md#631-rights-collision-decision-test).
-- Upstream: [Chapter One §10.2 Incentive Alignment and System Capture](core_01_b_stewardship_capacity_principles.md#102-incentive-alignment-and-system-capture).
+- Upstream: [Chapter One §6 Process Conflict Resolution](core_01_b_interaction_interpretation.md#6-process-conflict-resolution); [Chapter One §6.3.1 Rights-Collision Decision Test](core_01_b_interaction_interpretation.md#631-rights-collision-decision-test).
+- Upstream: [Chapter One §10.2 Incentive Alignment and System Capture](core_01_c_stewardship_capacity_principles.md#102-incentive-alignment-and-system-capture).
 - Upstream: Chapters Two through Four; Chapter Five definitions.
 - Downstream: **Parts A through D** of this chapter; [System Alignment Certification](core_05c_continuity_definitions.md#system-alignment-certification-constitutional); [Chapter Seven](core_07-07_system_alignment_certification.md#chapter-seven-system-alignment-certification).
 - Downstream: [Chapters Eight–Eleven constitutional compass](core_08-08_standing_assessment.md#chapters-eight-eleven-constitutional-compass); [§1.2 Layer scope](#12-layer-scope).
@@ -67,9 +67,9 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
 The broader constitutional stack explains how that floor is interpreted, limited, verified, and enforced. Unless a provision in this chapter expressly says otherwise, every Chapter Six right is read with:
 - **Chapter One**, including:
   - **value constraints** — Safety, Truth, Necessity, Proportionality, and systemic evaluation of local, aggregate, delayed, and cross-system effects;
-  - **interaction discipline** — [Chapter One §6 Interaction and Conflict Resolution](core_01_a_values_principles.md#6-interaction-and-conflict-resolution);
+  - **interaction discipline** — [Chapter One §6 Process Conflict Resolution](core_01_b_interaction_interpretation.md#6-process-conflict-resolution);
   - **constitutional scaling** — the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims), and [material stake](core_00_preamble.md#material-stake) scaling;
-  - **incentive alignment and system capture** — [Chapter One §10.2](core_01_b_stewardship_capacity_principles.md#102-incentive-alignment-and-system-capture) and related stewardship discipline, but only where incentive design, trust, fidelity, capture, market structure, or a defended limitation is materially relevant.
+  - **incentive alignment and system capture** — [Chapter One §10.2](core_01_c_stewardship_capacity_principles.md#102-incentive-alignment-and-system-capture) and related stewardship discipline, but only where incentive design, trust, fidelity, capture, market structure, or a defended limitation is materially relevant.
 - **Chapters Two through Four** — definition integrity, burden and traceability, observability, accessible verification, and security-constrained observability where applicable.
 - **Chapter Five** — definitions that materially bear on the right, conduct, system, or limitation being evaluated.
 - **Classification and scale rules** — **Materiality**, **Dependency**, and any incorporated class, tier, or cadence rule supplied by an adopting instrument.
@@ -93,7 +93,7 @@ The Rights Floor must work in practice, not only on paper. Survival essentials u
 - **Challenge, review, and proportionate remediation** — **Article XII-B** (*Right to Challenge, Review, and Redress*); Chapter Five (*Redress and Remediation*)
 
 **Disputes and timely process**
-- **Justice, restitution, restriction boundaries, emergencies, and rights collisions** — **Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*); [Chapter One §6.3.1 Rights-Collision Decision Test](core_01_a_values_principles.md#631-rights-collision-decision-test)
+- **Justice, restitution, restriction boundaries, emergencies, and rights collisions** — **Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*); [Chapter One §6.3.1 Rights-Collision Decision Test](core_01_b_interaction_interpretation.md#631-rights-collision-decision-test)
 - **Key Practical Process Pipelines** — **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*); [Chapter Seven](core_07-07_system_alignment_certification.md#chapter-seven-system-alignment-certification); [Chapters Eight–Eleven constitutional process compass](core_08-08_standing_assessment.md#chapters-eight-eleven-constitutional-compass)
 
 Shorter cross-references to those themes elsewhere in this chapter incorporate these anchors.
@@ -137,7 +137,7 @@ Chapter Five defines those conditions under **Environmental Preconditions**. Whe
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [3. Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [4.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), and [11.1 Required Evaluation Factors](core_01_b_stewardship_capacity_principles.md#131-required-evaluation-factors).
+- Upstream: Principles: Chapter One [3. Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [4.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), and [11.1 Required Evaluation Factors](core_01_c_stewardship_capacity_principles.md#131-required-evaluation-factors).
 
 </details>
 
@@ -168,13 +168,13 @@ Chapter Five defines those conditions under **Environmental Preconditions**. Whe
 - **Contested-sentient life interaction:** [Contested-Sentient Life](core_05p_participation_definitions.md#contested-sentient-life-constitutional) applies under **Sentience Non-Exclusion** where sentience is uncertain, disputed, materially contested, or under adjudication.
   - It routes the question to the [Sentience Status Adjudication](core_05p_participation_definitions.md#sentience-status-adjudication-constitutional) procedure (owner article **Article V-E** (*Sentience-Status Adjudication Floor*)).
   - Under **Article V-E** (*Sentience-Status Adjudication Floor*), materially unsettled sentience status defaults to inclusion under the Chapter Six Rights Floor unless the party seeking to withhold, narrow, or revoke protection satisfies the applicable burden.
-- **How these protections fit together:** [Natural Systems Standing](core_05p_participation_definitions.md#natural-systems-standing), [Animal Life](core_05p_participation_definitions.md#animal-life-constitutional), [Contested-Sentient Life](core_05p_participation_definitions.md#contested-sentient-life-constitutional), and the Chapter Six sentient floor may all apply at once. Apply each that fits the facts; where they overlap, the more protective rule governs under [Chapter One §6.3.1 Rights-Collision Decision Test](core_01_a_values_principles.md#631-rights-collision-decision-test) and the compliance rules in those Chapter Five entries.
+- **How these protections fit together:** [Natural Systems Standing](core_05p_participation_definitions.md#natural-systems-standing), [Animal Life](core_05p_participation_definitions.md#animal-life-constitutional), [Contested-Sentient Life](core_05p_participation_definitions.md#contested-sentient-life-constitutional), and the Chapter Six sentient floor may all apply at once. Apply each that fits the facts; where they overlap, the more protective rule governs under [Chapter One §6.3.1 Rights-Collision Decision Test](core_01_b_interaction_interpretation.md#631-rights-collision-decision-test) and the compliance rules in those Chapter Five entries.
 
 #### Article I-B: Ecological Footprint and Transparency
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [4.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [9.2 Epistemic Disclosure Constraints](core_01_a_values_principles.md#62-epistemic-disclosure-constraints), and [11.1 Required Evaluation Factors](core_01_b_stewardship_capacity_principles.md#131-required-evaluation-factors).
+- Upstream: Principles: Chapter One [4.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [9.2 Epistemic Disclosure Constraints](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints), and [11.1 Required Evaluation Factors](core_01_c_stewardship_capacity_principles.md#131-required-evaluation-factors).
 
 </details>
 
@@ -201,7 +201,7 @@ Chapter Five defines those conditions under **Environmental Preconditions**. Whe
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [3. Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [4.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), and [9. Systemic Evaluation Requirement](core_01_b_stewardship_capacity_principles.md#13-systemic-evaluation-requirement).
+- Upstream: Principles: Chapter One [3. Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [4.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), and [9. Systemic Evaluation Requirement](core_01_c_stewardship_capacity_principles.md#13-systemic-evaluation-requirement).
 - Chapter Five: canonical **Intergenerational Responsibility** O/E/C sits in [**Chapter One §8.16** *Ecological Integrity, Footprint, and Sustainability*](core_05p_participation_definitions.md#ecological-footprint-semi-independent), read jointly with **Ecological Integrity**, **Sustainability**, **Environmental Preconditions**, and **Ecological Footprint** (joint invocation where footprint burden, disclosure, comparison, reduction, or traceability is materially at issue). Joint invocation for **Indigenous Continuity**, **Language, Culture, and Heritage**, **Natural Systems Standing**, and **Intergenerational Responsibility** also routes through [**Chapter One §8.21**](core_05c_continuity_definitions.md#indigenous-continuity-language-culture-heritage-semi-independent) where community-anchored continuity, heritage, natural-systems standing, and futures-discipline analysis apply together.
 
 </details>
@@ -231,7 +231,7 @@ Chapter Five defines those conditions under **Environmental Preconditions**. Whe
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [4.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [10.1 Core Tradeoff Principles](core_01_a_values_principles.md#61-core-tradeoff-principles), and [9. Systemic Evaluation Requirement](core_01_b_stewardship_capacity_principles.md#13-systemic-evaluation-requirement).
+- Upstream: Principles: Chapter One [4.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [10.1 Core Tradeoff Principles](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), and [9. Systemic Evaluation Requirement](core_01_c_stewardship_capacity_principles.md#13-systemic-evaluation-requirement).
 - Read with: [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint), [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint), [Environmental Preconditions](core_05c_continuity_definitions.md#environmental-preconditions-constitutional), [Ecological Recovery Capacity](core_05c_continuity_definitions.md#ecological-recovery-capacity-constitutional), [Intergenerational Responsibility](core_05c_continuity_definitions.md#intergenerational-responsibility-constitutional), and [Existential Risk](core_05c_continuity_definitions.md#existential-risk).
 - Downstream: **Article XXIII-D** (*Emergency Measures and Continuation Burden*) — anti-pretext and time-limited review discipline where existential-risk or emergency framing is invoked.
 
@@ -300,7 +300,7 @@ Procedural detail for **Article II** (*Material Stewardship and Durable-Use Inte
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [4.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [10.1 Core Tradeoff Principles](core_01_a_values_principles.md#61-core-tradeoff-principles), and [11.1 Required Evaluation Factors](core_01_b_stewardship_capacity_principles.md#131-required-evaluation-factors).
+- Upstream: Principles: Chapter One [4.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [10.1 Core Tradeoff Principles](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), and [11.1 Required Evaluation Factors](core_01_c_stewardship_capacity_principles.md#131-required-evaluation-factors).
 
 </details>
 
@@ -333,7 +333,7 @@ Procedural detail for **Article II** (*Material Stewardship and Durable-Use Inte
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [4.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [4.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), and [10.1 Core Tradeoff Principles](core_01_a_values_principles.md#61-core-tradeoff-principles).
+- Upstream: Principles: Chapter One [4.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [4.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), and [10.1 Core Tradeoff Principles](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles).
 
 </details>
 
@@ -366,7 +366,7 @@ Procedural detail for **Article II** (*Material Stewardship and Durable-Use Inte
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [4.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [10.1 Core Tradeoff Principles](core_01_a_values_principles.md#61-core-tradeoff-principles), and [§10 Governance Under Stewardship Discipline](core_01_b_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline).
+- Upstream: Principles: Chapter One [4.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [10.1 Core Tradeoff Principles](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), and [§10 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline).
 
 </details>
 
@@ -388,7 +388,7 @@ Procedural detail for **Article II** (*Material Stewardship and Durable-Use Inte
   - the product stops being useful sooner than it should; or
   - sentients are pushed to replace it when replacement is not reasonably necessary.
   
-  When incentives reward discard or withholding repair tools, parts, and documentation, this also triggers [Chapter One §10.2 Incentive Alignment and System Capture](core_01_b_stewardship_capacity_principles.md#102-incentive-alignment-and-system-capture) and **Article XII-D** (*Incentive-Alignment Constraint*).
+  When incentives reward discard or withholding repair tools, parts, and documentation, this also triggers [Chapter One §10.2 Incentive Alignment and System Capture](core_01_c_stewardship_capacity_principles.md#102-incentive-alignment-and-system-capture) and **Article XII-D** (*Incentive-Alignment Constraint*).
   
   This floor does not apply when the operator can document **Necessity** and **Proportionality** — for example, a genuine safety fix, security response, or real interoperability limit. Those reasons must not replace a durable design that was reasonably available.
 
@@ -396,7 +396,7 @@ Procedural detail for **Article II** (*Material Stewardship and Durable-Use Inte
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [4.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [Chapter One §5 Freedom](#5-freedom-bounded-agency)-bounded-agency), and [§10 Governance Under Stewardship Discipline](core_01_b_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline).
+- Upstream: Principles: Chapter One [4.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [Chapter One §5 Freedom](#5-freedom-bounded-agency)-bounded-agency), and [§10 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline).
 
 </details>
 
@@ -425,8 +425,8 @@ Procedural detail for **Article II** (*Material Stewardship and Durable-Use Inte
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [4.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [10.1 Core Tradeoff Principles](core_01_a_values_principles.md#61-core-tradeoff-principles), and [11.1 Required Evaluation Factors](core_01_b_stewardship_capacity_principles.md#131-required-evaluation-factors).
-- Read with: [Article XIX-A](core_06-06_rights_part_c.md#article-xix-a-portability-rights) (*Portability Rights*); [corpus_systems.md](corpus_systems.md) **CS-3 — Information types and handling**; `corpus_joint_structure.md` **CJS-5.17** (*interoperability, portability, and exit-integrity terms*) and **CJS-5.18** (*data-retention and lifecycle-integrity terms*); [Chapter One §10.2.4 Successor responsibility and formal-structure non-escape](core_01_b_stewardship_capacity_principles.md#1024-successor-responsibility-and-formal-structure-non-escape); [Chapter Nine §5.1](core_09-09_standing_integration.md#51-remediation-capacity-and-funding) and [§5.4](core_09-09_standing_integration.md#54-anti-evasion-and-look-through-authority).
+- Upstream: Principles: Chapter One [4.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [10.1 Core Tradeoff Principles](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), and [11.1 Required Evaluation Factors](core_01_c_stewardship_capacity_principles.md#131-required-evaluation-factors).
+- Read with: [Article XIX-A](core_06-06_rights_part_c.md#article-xix-a-portability-rights) (*Portability Rights*); [corpus_systems.md](corpus_systems.md) **CS-3 — Information types and handling**; `corpus_joint_structure.md` **CJS-5.17** (*interoperability, portability, and exit-integrity terms*) and **CJS-5.18** (*data-retention and lifecycle-integrity terms*); [Chapter One §10.2.4 Successor responsibility and formal-structure non-escape](core_01_c_stewardship_capacity_principles.md#1024-successor-responsibility-and-formal-structure-non-escape); [Chapter Nine §5.1](core_09-09_standing_integration.md#51-remediation-capacity-and-funding) and [§5.4](core_09-09_standing_integration.md#54-anti-evasion-and-look-through-authority).
 
 </details>
 
@@ -467,7 +467,7 @@ Procedural detail for **Article II** (*Material Stewardship and Durable-Use Inte
   - usable export or handoff of continuity-critical data under the disclosed export paths, preserved through shutdown and migration windows — not merely a discretionary promise to try.
   
   Operators can still be held to constitutional standards when their conduct qualifies as **Negligence** under Chapter Five — including harm that builds up over time because maintenance, support, or continuity duties were neglected.
-- **Successor and formal-structure duties:** Restructuring, sale, receivership, or insolvency does not by itself extinguish the continuity duties stated in this Article. Read with [Chapter One §10.2.4 Successor responsibility and formal-structure non-escape](core_01_b_stewardship_capacity_principles.md#1024-successor-responsibility-and-formal-structure-non-escape) and [Chapter Nine §5.1](core_09-09_standing_integration.md#51-remediation-capacity-and-funding) / [§5.4](core_09-09_standing_integration.md#54-anti-evasion-and-look-through-authority).
+- **Successor and formal-structure duties:** Restructuring, sale, receivership, or insolvency does not by itself extinguish the continuity duties stated in this Article. Read with [Chapter One §10.2.4 Successor responsibility and formal-structure non-escape](core_01_c_stewardship_capacity_principles.md#1024-successor-responsibility-and-formal-structure-non-escape) and [Chapter Nine §5.1](core_09-09_standing_integration.md#51-remediation-capacity-and-funding) / [§5.4](core_09-09_standing_integration.md#54-anti-evasion-and-look-through-authority).
 
 *Article neighbors:* **Remediation** for **Article II** (*Material Stewardship and Durable-Use Integrity*) follows the **interpretive hubs** stated at the opening of this chapter (challenge and redress; justice and escalation).
 
@@ -634,7 +634,7 @@ Cross-reference: **Article XXVI-D** (*Non-Compliant Property and Systems; Volunt
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [3. Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency), [§5.1 Limitation Discipline](core_01_a_values_principles.md#51-limitation-discipline), [§10.3 Stewardship and Operator Incentive Alignment](core_01_b_stewardship_capacity_principles.md#103-stewardship-and-operator-incentive-alignment).
+- Upstream: Principles: Chapter One [3. Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency), [§5.1 Limitation Discipline](core_01_a_values_principles.md#51-limitation-discipline), [§10.3 Stewardship and Operator Incentive Alignment](core_01_c_stewardship_capacity_principles.md#103-stewardship-and-operator-incentive-alignment).
 - Downstream: **Article III-A** (*Survival*) survival floor (read-on-top-of, not substitute-for), **Article III-B** (*Equal Educational Access*) educational access, **Article V-A** (*Dignity and Equal Moral Standing*) dignity, **Article V-B** (*Nondiscrimination*) non-discrimination, **Article IX-B** (*Stakeholder Role and Participation Rights*) free association, **Article XII-A** (*Reliability and Trustworthiness Baseline*) reliability (as it bears on safe conditions), **Article XVIII** (*Standing and Participation Status*) standing and participation, **Chapter One §9** non-concentration (explicit: §6 alone does not satisfy this floor).
 - Read with: Chapter Five *Fair Compensation*, *Collective Organization*, *Safe Conditions*, *Anti-Displacement Floor*, *Leisure and Rest*, *Indigenous Continuity*, and *Language, Culture, and Heritage*; [§3.7 *Bodily-Maintenance Access, Safe Conditions, Tenure Security, Environmental Preconditions, Cultural Continuity, Rest, and Anti-Displacement Floor*](core_05p_participation_definitions.md#safe-conditions-tenure-security-and-environmental-preconditions-cluster) (where survival, bodily-maintenance access, tenure, rest, safe labor conditions, anti-displacement, environmental preconditions, or place-linked continuity are materially implicated together); [Chapter One §8.16 *Assembly and Collective Organization*](core_05p_participation_definitions.md#assembly-and-collective-organization-cluster) (where assembly and collective-organization pathways are jointly implicated). Implementation routing: `corpus_institutions.md` CI-9 / CI-10 / CI-11 fiscal material; `corpus_systems.md` Protocol A safety profile for *Safe Conditions*.
 
@@ -725,7 +725,7 @@ Those requirements protect shared infrastructure and the systems that depend on 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [4.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [11.1 Required Evaluation Factors](core_01_b_stewardship_capacity_principles.md#131-required-evaluation-factors), and [§10 Governance Under Stewardship Discipline](core_01_b_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline).
+- Upstream: Principles: Chapter One [4.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [11.1 Required Evaluation Factors](core_01_c_stewardship_capacity_principles.md#131-required-evaluation-factors), and [§10 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline).
 - Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **oversight** through transparent dependency maps and auditable resource-flow records, **participation** in contestable review under **Article XV-A** (*Auditability and Observable Evidence*); [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — **Flourishing** (visible cost-and-benefit allocation) and **Continuity** (durable dependency visibility across changing systems).
 - Downstream: [System Alignment Certification](core_05c_continuity_definitions.md#system-alignment-certification-constitutional) and [Chapter Seven](core_07-07_system_alignment_certification.md#chapter-seven-system-alignment-certification) where systems allocate, route, fund, or extract from shared infrastructure or foundational dependencies; **[corpus_systems.md](corpus_systems.md)**, **Protocol S5 — Resource Allocation and Funding Stewardship**, and **Protocol S4 — Adaptive Sustainability and Ecosystem Resilience**.
 
@@ -756,7 +756,7 @@ Those requirements protect shared infrastructure and the systems that depend on 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [3. Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [10.1 Core Tradeoff Principles](core_01_a_values_principles.md#61-core-tradeoff-principles), and [11.1 Required Evaluation Factors](core_01_b_stewardship_capacity_principles.md#131-required-evaluation-factors).
+- Upstream: Principles: Chapter One [3. Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [10.1 Core Tradeoff Principles](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), and [11.1 Required Evaluation Factors](core_01_c_stewardship_capacity_principles.md#131-required-evaluation-factors).
 - Read with: [Chapter Five Chapter One §8.20 *Governance Architecture, Oversight, Dependency, Decentralization, Concentration, Market Structure, and Exit-Path Integrity*](core_05a_accountability_definitions.md#governance-architecture-oversight-decentralization-and-concentration-cluster) (joint invocation where concentration, oversight, dependency, governing-authority structure, or incentive routing intersect **§6** / **§6** and the *Concentration-threshold interaction* discipline in the operative text below).
 - Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation** in challenge and contest pathways, **oversight** and audit, **accountability** and corrective review, **timeliness** under **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*); [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — **Flourishing** (cross-system fairness and non-extraction) and **Continuity** (long-term sustainability and ecosystem funding).
 - Downstream: [System Alignment Certification](core_05c_continuity_definitions.md#system-alignment-certification-constitutional) and [Chapter Seven](core_07-07_system_alignment_certification.md#chapter-seven-system-alignment-certification) where cross-system fairness, ecosystem funding, or persistent extraction from shared infrastructure is materially at issue.
@@ -798,7 +798,7 @@ Those requirements protect shared infrastructure and the systems that depend on 
   Persistent imbalances that materially threaten constitutional alignment are subject to audit, challenge, and corrective review under **Articles IX, XII, XIV, and XVII**.
 - **Concentration-threshold interaction:** Resource-allocation arrangements that produce or preserve concentration of wealth, power, control, or opportunity in ways that predictably degrade wellbeing, agency, dignity, or ecological integrity for other sentients engage:
   - the **Chapter One §14 non-concentration floor**;
-  - the **[§12.1 Concentration Threshold Mechanism](core_01_b_stewardship_capacity_principles.md#121-concentration-threshold-mechanism-adopter-tunable)** discipline.
+  - the **[§12.1 Concentration Threshold Mechanism](core_01_c_stewardship_capacity_principles.md#121-concentration-threshold-mechanism-adopter-tunable)** discipline.
   
   Adopter-tunable operational thresholds are permitted within the floor. Threshold regimes set to nullify the floor are non-compliant. Examples of nullifying regimes:
   - thresholds that foreseeably never bind;

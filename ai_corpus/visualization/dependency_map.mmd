@@ -4,7 +4,8 @@ graph TB
         direction TB
         Ch00["Ch 00: Preamble<br/>core_00_preamble.md"]
         Ch01A["Ch 01 Part A: Values<br/>core_01_a_values_principles.md"]
-        Ch01B["Ch 01 Part B: Stewardship & Capacity<br/>core_01_b_stewardship_capacity_principles.md"]
+        Ch01B["Ch 01 Part B: Interaction & Interpretation<br/>core_01_b_interaction_interpretation.md"]
+        Ch01C["Ch 01 Part C: Stewardship & Capacity<br/>core_01_c_stewardship_capacity_principles.md"]
         Ch02["Ch 2-4: Definition Mechanics<br/>core_02-04_definition_mechanics.md"]
         Ch05A["Ch 5 §1: Independent Definitions<br/>core_05-05_definitions_a_independent.md"]
         Ch05B["Ch 5 §2: Semi-Independent<br/>core_05-05_definitions_b_semi_independent.md"]
@@ -66,6 +67,8 @@ graph TB
     Ch01A -->|"6 refs"| Ch05B
     Ch01B -->|"8 refs"| Ch05B
     Ch01B -->|"5 refs"| Ch06
+    Ch01C -->|"12 refs"| Ch05B
+    Ch01C -->|"8 refs"| Ch06
 
     %% Definition mechanics underpin everything
     Ch02 -->|"25 refs"| Ch05A

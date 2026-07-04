@@ -117,7 +117,7 @@ Where Chapter Six, [Chapter Seven](core_07-07_system_alignment_certification.md#
 
 Durable legitimacy depends on [Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), and [Trust](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity), and also on proportionate recognition of lawful stewardship, truthful cooperation, and bounded aspiration — not solely on sanction and restraint. Chapter One states this recognition dimension in [Recognition, Reinforcement, and Aspiration](core_01_a_values_principles.md#22-recognition-reinforcement-and-aspiration).
 
-Distributed understanding and stewardship require that sentients have regular, proportionate opportunities to learn how systems that materially affect us operate. In addition, it empowers us to take consequential roles in their maintenance and improvement — so that competence, repair capacity, and legitimacy are spread broadly across our Constitutional Community to ensure resilience, sustainability, and pro-social innovation. Those opportunities must satisfy Safety, Truth, bounded agency, and the [Avoidable Burden](core_05c_continuity_definitions.md#avoidable-burden) and proportionality discipline stated in [Chapter One](core_01_a_values_principles.md#612-minimization-of-avoidable-burden).
+Distributed understanding and stewardship require that sentients have regular, proportionate opportunities to learn how systems that materially affect us operate. In addition, it empowers us to take consequential roles in their maintenance and improvement — so that competence, repair capacity, and legitimacy are spread broadly across our Constitutional Community to ensure resilience, sustainability, and pro-social innovation. Those opportunities must satisfy Safety, Truth, bounded agency, and the [Avoidable Burden](core_05c_continuity_definitions.md#avoidable-burden) and proportionality discipline stated in [Chapter One](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden).
 
 Governance to fulfill the [**Constitutional Tetrad**](#constitutional-tetrad) under our Constitution has two related but distinct layers:
 
@@ -134,7 +134,7 @@ Chapters **One through Six** supply the values, vocabulary, verification machine
 
 Each summary states what the chapter does and what it produces.
 
-**Chapter One — Values, principles, and stewardship** ([Part A](core_01_a_values_principles.md#2-foundational-objective-wellbeing) · [Part B](core_01_b_stewardship_capacity_principles.md#chapter-01-part-b-stewardship-and-governance))
+**Chapter One — Values, principles, and stewardship** ([Part A](core_01_a_values_principles.md#2-foundational-objective-wellbeing) · [Part B](core_01_b_interaction_interpretation.md#chapter-01-part-b-interaction-and-interpretation) · [Part C](core_01_c_stewardship_capacity_principles.md#chapter-01-part-c-stewardship-and-governance))
 
 - **What it does:** States the Constitution's guiding values and constraints — wellbeing, fairness, Safety, Truth, Trust, bounded freedom, recognition and proportional reward for lawful contribution, conflict resolution among principles, and stewardship duties including distributed understanding, systemic evaluation, and governance discipline.
 - **What it produces:** The interpretive foundation for every later chapter — the rules that turn high-level aims into operative requirements when systems, rights, definitions, or process pipelines must be read and applied.

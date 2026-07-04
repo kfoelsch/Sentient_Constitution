@@ -14,7 +14,7 @@
       "line_end": 1109,
       "downstream": [
         "§8 Freedom",
-        "6. Interaction and Conflict Resolution",
+        "6. Process Conflict Resolution",
         "6.2.1 Preservation of Epistemic Integrity",
         "6.4.1 Rights-Collision Decision Test",
         "9. Prohibition on Absolute Override"
@@ -51,7 +51,7 @@
     "core_05-05_definitions_b_semi_independent.md",
     "core_05-05_definitions_c_dependent_clusters.md",
     "core_01_a_values_principles.md",
-    "core_01_b_stewardship_capacity_principles.md"
+    "core_01_c_stewardship_capacity_principles.md"
   ],
   "cluster_membership": {
     "cluster_name": "Proportionality, Necessity, Feasibility, Avoidable Burden, Burden-Reduction Duty, Constitutional Efficiency, Harm Minimization (Tradeoff Selection), and Productive Capacity",

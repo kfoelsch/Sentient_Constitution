@@ -34,7 +34,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Chapter One](core_01_b_stewardship_capacity_principles.md#chapter-01-principles-and-constraints); [Chapters Two through Four](core_02-04_definition_mechanics.md) integrity and verification; [Chapter Six](core_06-06_rights_part_a.md#chapter-six-foundational-rights) Rights Floor; [Chapter Twelve](core_12-12_governance.md#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship) legitimacy and stewardship requirements.
+- Upstream: [Chapter One](core_01_c_stewardship_capacity_principles.md#chapter-01-principles-and-constraints); [Chapters Two through Four](core_02-04_definition_mechanics.md) integrity and verification; [Chapter Six](core_06-06_rights_part_a.md#chapter-six-foundational-rights) Rights Floor; [Chapter Twelve](core_12-12_governance.md#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship) legitimacy and stewardship requirements.
 - Subsections: [§1](#1-non-regression-floor); [§2](#2-test-1-substantive-non-regression-validity); [§3](#3-anti-evasion-clause-and-constitutional-misconduct-referral); [§4](#4-layer-scope).
 - Downstream: [Chapter Fourteen](core_13-15_amendment.md#chapter-fourteen-expansion-supremacy-and-external-legal-orders) expansion and supremacy; [Chapter Fifteen](core_13-15_amendment.md#chapter-fifteen-amendment-ratification-and-procedural-validity) procedural validity, ratification, and amendment requirements; [Chapter Eight](core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) and [Chapter Ten](core_10-10_misconduct.md#chapter-ten-anti-constitutional-misconduct) for canonical classification where referral triggers route.
 - Read with: [archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md](archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md) non-operative walkthrough for **Chapters Eleven through Fourteen** on constitutional change and incorporation.
@@ -79,7 +79,7 @@ No constitutional change is valid if it materially weakens core protections for 
 
 - Upstream: [§1](#1-non-regression-floor) non-regression floor definition.
 - Downstream: [§3](#3-anti-evasion-clause-and-constitutional-misconduct-referral) evasion and misconduct referral; [Chapter Fifteen](core_13-15_amendment.md#chapter-fifteen-amendment-ratification-and-procedural-validity) Tests 2–4 and procedural requirements (invalid if Test 1 fails regardless of procedure).
-- Read with: [Chapter One](core_01_b_stewardship_capacity_principles.md#chapter-01-principles-and-constraints) non-negotiable principle constraints; [Chapter Twelve](core_12-12_governance.md#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship) legitimacy obligations.
+- Read with: [Chapter One](core_01_c_stewardship_capacity_principles.md#chapter-01-principles-and-constraints) non-negotiable principle constraints; [Chapter Twelve](core_12-12_governance.md#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship) legitimacy obligations.
 
 </details>
 
@@ -240,7 +240,7 @@ No amendment process may suspend constitutional supremacy, auditability, challen
 
 - Upstream: [§3](#3-supremacy-relative-to-other-binding-norms) supremacy framing.
 - Downstream: [Chapter One §8.2](#32-stricter-external-protections) stricter-external overlay; [§3.3](#33-conflict-disclosure-and-mitigation) irreconcilable-conflict duties.
-- Read with: [Authority Stack and Internal Hierarchy](core_05i_integrative_definitions.md#authority-stack) for the boundary between source-layer authority and [Chapter One](core_01_b_stewardship_capacity_principles.md#chapter-01-principles-and-constraints) last-resort hierarchy.
+- Read with: [Authority Stack and Internal Hierarchy](core_05i_integrative_definitions.md#authority-stack) for the boundary between source-layer authority and [Chapter One](core_01_c_stewardship_capacity_principles.md#chapter-01-principles-and-constraints) last-resort hierarchy.
 
 </details>
 
@@ -256,7 +256,7 @@ For adopting entities, this Constitution and its integrated definitions govern i
 
 - Upstream: [Chapter One §8.1](#31-internal-hierarchy-for-adopters) internal hierarchy baseline.
 - Downstream: [§3.3](#33-conflict-disclosure-and-mitigation) when stricter external and constitutional requirements appear to collide.
-- Read with: [Chapter One §4](core_01_a_values_principles.md#4-non-negotiable-constraints-safety-and-truth) Safety and Truth as non-negotiable ceilings on how far "stricter" external law can be pushed in interpretation.
+- Read with: [Chapter One §4](core_01_a_values_principles.md#3-non-negotiable-constraints-safety-and-truth) Safety and Truth as non-negotiable ceilings on how far "stricter" external law can be pushed in interpretation.
 
 </details>
 

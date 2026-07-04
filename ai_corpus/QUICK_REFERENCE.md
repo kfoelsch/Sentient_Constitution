@@ -46,7 +46,7 @@ Read: Only those sections, not full files
 
 | Category | Files | Size |
 |----------|-------|------|
-| Core Ch 1 | `core_00_preamble.md`, `core_01_a_values_principles.md`, `core_01_b_stewardship_capacity_principles.md` | ~52 / ~595 / ~1,254 |
+| Core Ch 1 | `core_00_preamble.md`, `core_01_a_values_principles.md`, `core_01_b_interaction_interpretation.md`, `core_01_c_stewardship_capacity_principles.md` | ~272 / ~756 / ~646 / ~1,078 |
 | Core Ch 5 (all) | definitions_a/b/c | ~1,300-1,900 |
 | Core Ch 9 | rights a/b/c/d | ~560-1,600 |
 | Companion | systems/institutions/forum/joint | ~940-2,170 |

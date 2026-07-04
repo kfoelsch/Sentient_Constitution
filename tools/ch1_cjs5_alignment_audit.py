@@ -190,7 +190,8 @@ class Ch1Cjs5AlignmentAuditor:
         for rel in (
             "core_00_preamble.md",
             "core_01_a_values_principles.md",
-            "core_01_b_stewardship_capacity_principles.md",
+            "core_01_b_interaction_interpretation.md",
+            "core_01_c_stewardship_capacity_principles.md",
         ):
             path = self.repo_root / rel
             if not path.is_file():
@@ -262,7 +263,8 @@ class Ch1Cjs5AlignmentAuditor:
             for marker in (
                 "core_00_preamble.md",
                 "core_01_a_values_principles.md",
-                "core_01_b_stewardship_capacity_principles.md",
+                "core_01_b_interaction_interpretation.md",
+                "core_01_c_stewardship_capacity_principles.md",
             )
         ):
             refs.add("linked")

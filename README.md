@@ -14,7 +14,7 @@ Custody and binding scope: [Chapter Five *Corpus*](core_05i_integrative_definiti
 
 ## How to read
 
-1. **Chapter One** — preamble ([`core_00_preamble.md`](core_00_preamble.md)); Values Principles, Part A ([`core_01_a_values_principles.md`](core_01_a_values_principles.md)); Stewardship and Governance, Part B ([`core_01_b_stewardship_capacity_principles.md`](core_01_b_stewardship_capacity_principles.md)).
+1. **Chapter One** — preamble ([`core_00_preamble.md`](core_00_preamble.md)); Values Principles, Part A ([`core_01_a_values_principles.md`](core_01_a_values_principles.md)); Interaction and Interpretation, Part B ([`core_01_b_interaction_interpretation.md`](core_01_b_interaction_interpretation.md)); Stewardship and Governance, Part C ([`core_01_c_stewardship_capacity_principles.md`](core_01_c_stewardship_capacity_principles.md)).
 2. **Chapters Two through Five** — definition structure, integrity, burden, traceability, and the definition stack ([`core_02-04_definition_mechanics.md`](core_02-04_definition_mechanics.md); Chapter Five Parts A–C below). Chapter Five is the **definition stack**, not the Rights Floor.
 3. **Chapter Six** — Rights Floor, Articles I–XXVI in planet-first Parts A–D ([`core_06-06_rights_part_a.md`](core_06-06_rights_part_a.md) through [`core_06-06_rights_part_d.md`](core_06-06_rights_part_d.md); article map in [doc_architecture.md](doc_architecture.md) **section 5**).
 4. **Chapter Seven and Chapters Eight through Eleven** — enforce the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) and [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) through the **Key Practical Process Pipelines** ([Chapters Eight–Eleven compass](core_08-08_standing_assessment.md#chapters-eight-eleven-constitutional-compass)), governed by **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*): system alignment certification record where material → standing record → verified input → contribution / violation classification → attachments, descriptors, locks, and effects → Chapter Ten top-slot review for Violation Axis **s = 7**, **s = 8**, or **s = 9** anti-constitutional misconduct; **Chapter Eleven** supplies forum families, jurisdiction, and cross-forum anti-self-judging ([`core_11-11_forum.md`](core_11-11_forum.md)).
@@ -27,8 +27,9 @@ The corpus is written in plain language with low jargon to improve accessibility
 ### Values and principles
 
 - **Chapter 00** (Preamble) — [`core_00_preamble.md`](core_00_preamble.md)
-- **Chapter One, Part A** (Values Principles, §§1–8) — [`core_01_a_values_principles.md`](core_01_a_values_principles.md)
-- **Chapter One, Part B** (Stewardship and Governance, §§9–14; §14 integrated application capstone) — [`core_01_b_stewardship_capacity_principles.md`](core_01_b_stewardship_capacity_principles.md)
+- **Chapter One, Part A** (Values Principles, §§1–5) — [`core_01_a_values_principles.md`](core_01_a_values_principles.md)
+- **Chapter One, Part B** (Interaction and Interpretation, §§6–8) — [`core_01_b_interaction_interpretation.md`](core_01_b_interaction_interpretation.md)
+- **Chapter One, Part C** (Stewardship and Governance, §§9–14; §14 integrated application capstone) — [`core_01_c_stewardship_capacity_principles.md`](core_01_c_stewardship_capacity_principles.md)
 
 ### Definition mechanics and definitions
 
