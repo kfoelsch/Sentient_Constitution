@@ -351,6 +351,39 @@ This cluster is the joint-invocation home for operative corpus identity, authori
 
 ---
 
+<a id="constitutional-constraint"></a>
+
+##### Constitutional Constraint
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: Principles: [Chapter One §3 Non-Negotiable Constraints: Safety and Truth](core_01_a_values_principles.md#3-non-negotiable-constraints-safety-and-truth); [Chapter One §6 Interaction and Conflict Resolution](core_01_a_values_principles.md#6-interaction-and-conflict-resolution).
+- Read with: [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint), [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint), [Constitutional Owner Layers](core_05i_integrative_definitions.md#constitutional-owner-layers), [Supremacy and Enforceability](core_05i_integrative_definitions.md#supremacy-and-enforceability), and [Constitutional Constraint Violation](core_05i_integrative_definitions.md#constitutional-constraint-violation).
+
+</details>
+
+<br>
+
+- O: A binding limit, condition, or discipline imposed by this Constitution that determines whether a constitutional claim, system action, governance act, limitation, disclosure practice, evaluation, implementation practice, or source-layer claim is valid. A Constitutional Constraint may operate as a substantive boundary, Rights-Floor non-contraction rule, limitation discipline, disclosure discipline, evaluation discipline, owner-layer/source-layer discipline, or implementation boundary. This entry classifies and routes constraints; it does not create a new standalone rights floor or relocate any owner-layer obligation.
+<a id="constitutional-constraint-e"></a>
+- E: Identify the constraint kind before applying it:
+  - **Non-negotiable substantive constraints:** [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint) and [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint) as Chapter One's non-negotiable boundaries.
+  - **Rights-Floor constraints:** Chapter Six minimums and non-contraction rules that prevent implementation, process, governance, emergency, transition, or private-ordering frames from narrowing protected rights.
+  - **Restriction and limitation constraints:** [Necessity](core_05a_accountability_definitions.md#necessity), [Proportionality](core_05a_accountability_definitions.md#proportionality), least-restrictive effective selection, time-boundedness, reviewability, and burden-minimization disciplines that govern rights-affecting restrictions.
+  - **Epistemic and disclosure constraints:** [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint), [Epistemic Integrity](core_05o_oversight_definitions.md#epistemic-integrity), disclosure limits, publication limits, protected-data and internal-state limits, and security-sensitive disclosure balance.
+  - **Evaluation constraints:** [Evaluation Completeness Constraint](core_05o_oversight_definitions.md#evaluation-completeness-constraint), [Materiality Integrity Constraint](core_05o_oversight_definitions.md#materiality-integrity-constraint), time-consistency, proxy-divergence invalidation, and Chapter Four burden, tracing, and verification requirements.
+  - **Authority and source-layer constraints:** [Authority Stack and Internal Hierarchy](core_05i_integrative_definitions.md#authority-stack), [Constitutional Owner Layers](core_05i_integrative_definitions.md#constitutional-owner-layers), [Supremacy and Enforceability](core_05i_integrative_definitions.md#supremacy-and-enforceability), no-bypass, amendment validity, incorporation, custody, and source-status discipline.
+  - **Operational and implementation constraints:** capacity, feasibility, security, confidentiality, timing, technical, or resource limits recognized only within their valid adoption and source-layer scope, and only where they do not narrow higher constitutional obligations.
+<a id="constitutional-constraint-c"></a>
+- C: Non-compliant:
+  - invoking "constraints" generically to obscure which constitutional limit applies or which owner layer supplies it;
+  - using operational, implementation, source-layer, emergency, transition, confidentiality, security, or feasibility constraints to narrow Safety, Truth, the Chapter Six Rights Floor, amendment validity, contestability, auditability, or remedy access;
+  - treating a constraint category as a substitute for the specific O/E/C entry, Rights-Floor article, or owner-layer rule that governs the decision;
+  - applying one constraint while segmenting away another materially applicable constraint.
+
+---
+
 <a id="constitutional-constraint-violation"></a>
 
 ##### Constitutional Constraint Violation
@@ -358,7 +391,7 @@ This cluster is the joint-invocation home for operative corpus identity, authori
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint), [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint), and [Harm](core_05a_accountability_definitions.md#harm).
+- Read with: [Constitutional Constraint](core_05i_integrative_definitions.md#constitutional-constraint), [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint), [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint), and [Harm](core_05a_accountability_definitions.md#harm).
 
 </details>
 

@@ -399,9 +399,9 @@ Fail-soft within constraints and non-externalization
 - OP-C: Fail-soft mode may not justify out-of-bounds operation or undisclosed harm to dependents.
 
 Failure-integrity floor
-- OP-O: Failure, degradation, and stress are expected operating conditions. When full functionality cannot be maintained, systems must degrade in a controlled, bounded, observable, and non-escalatory manner that preserves constitutional constraints.
+- OP-O: Failure, degradation, and stress are expected operating conditions. When full functionality cannot be maintained, systems must degrade in a controlled, bounded, observable, and non-escalatory manner that preserves [Constitutional Constraints](../core_05i_integrative_definitions.md#constitutional-constraint).
 - OP-E: Evaluation must verify that degradation does not conceal or distort system condition, that cascading or cross-system propagation is prevented where feasible, and that transparency remains sufficient to preserve epistemic integrity.
-- OP-C: Nominal operation, silent degradation, or performance-preserving behavior that hides capability loss, disables accountability, or relaxes Safety or Truth constraints is non-compliant.
+- OP-C: Nominal operation, silent degradation, or performance-preserving behavior that hides capability loss, disables accountability, or relaxes Safety or Truth non-negotiable substantive constraints is non-compliant.
 
 Graceful degradation floor and defined failure-mode coverage
 - OP-O: Systems must degrade in controlled, visible, non-deceptive ways and avoid silent degradation or disproportionate harm.

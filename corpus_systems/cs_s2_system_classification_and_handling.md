@@ -590,7 +590,7 @@ Ownership stays **traceable** through governance changes, delegation, and subcon
 
 **First line** — operating owners and builders managing risk in design, deployment, and day-to-day operation.
 
-**Second line** — oversight, standards, or challenge functions monitoring aggregate risk, aligning treatment with classification and constitutional constraints, and escalating material gaps.
+**Second line** — oversight, standards, or challenge functions monitoring aggregate risk, aligning treatment with classification and [Constitutional Constraints](../core_05i_integrative_definitions.md#constitutional-constraint), and escalating material gaps.
 
 **Second line** functions must be **sufficiently independent** of first-line incentives for **credible challenge** where A/B stakes require it.
 

@@ -75,7 +75,7 @@ and support for constitutionally aligned systems, implementing **Article IV-A** 
 
 Adaptive allocation behaviors must be **transparent, auditable, and historically traceable**. **That** includes visibility into allocation changes over time, their triggers, and impacts on system and ecosystem health.
 
-**H. Governance integration.** Adaptive allocation remains subject to **Article XV-A**, **Article XVI-A**, and **Article XII-B** where auditability, lifecycle governance, or challenge rights are implicated. No automated or adaptive mechanism may override constitutional constraints or eliminate auditability or contestability.
+**H. Governance integration.** Adaptive allocation remains subject to **Article XV-A**, **Article XVI-A**, and **Article XII-B** where auditability, lifecycle governance, or challenge rights are implicated. No automated or adaptive mechanism may override [Constitutional Constraints](../core_05i_integrative_definitions.md#constitutional-constraint) or eliminate auditability or contestability.
 
 **I. Self-healing and recovery-path integration (Article XII-F implementation profile).** This subsection ties this Protocol's adaptive-allocation and root-cause architecture to **Sentient Constitution Chapter Six, Article XII-F** (*Resilience and Self-Healing Baseline*), **Chapter One §10.1** (*Resilience and Self-Healing Design*), and **Chapter Five** [*Self-Healing*](../core_05c_continuity_definitions.md#self-healing-constitutional). It is a Protocol S4-specific application of **Protocol A**, subsection **H** (*Self-healing and recovery-path integrity*), not a second self-healing profile.
 

@@ -867,7 +867,7 @@ A single pattern of conduct may carry multiple process / response characters at 
 
 *In plain terms: ordinary remedial, restrictive, or domain-specific processes **cannot** lawfully produce outcomes **below** constitutional floors — domain silos are not an end-run.*
 
-Where ordinary remedial, restrictive, or domain-specific treatment would permit outcomes below constitutional constraints, constitutional requirements govern. No domain-specific process may narrow, waive, or undercut non-negotiable constitutional protections.
+Where ordinary remedial, restrictive, or domain-specific treatment would permit outcomes below [Constitutional Constraints](core_05i_integrative_definitions.md#constitutional-constraint), constitutional requirements govern. No domain-specific process may narrow, waive, or undercut non-negotiable substantive constraints or constitutional protections.
 
 <a id="63-anti-constitutional-lock-attachments-slots-7-9"></a>
 
@@ -907,9 +907,9 @@ Final **Violation Axis s = 7, s = 8, or s = 9** assignment — including criteri
 
 <strong><span style="color: #2563eb;">Definition:</span></strong> [Constitutional Constraint Violation](core_05i_integrative_definitions.md#constitutional-constraint-violation) · [O](core_05i_integrative_definitions.md#constitutional-constraint-violation) · [E](core_05i_integrative_definitions.md#constitutional-constraint-violation-e) · [C](core_05i_integrative_definitions.md#constitutional-constraint-violation-c)
 
-*In plain terms: this character applies when the finding implicates binding constitutional constraints, Rights Floors, supremacy, anti-evasion discipline, or challenge-and-remedy access — and it can ride alongside remedial or coercive-safeguard character.*
+*In plain terms: this character applies when the finding implicates binding [Constitutional Constraints](core_05i_integrative_definitions.md#constitutional-constraint), Rights Floors, supremacy, anti-evasion discipline, or challenge-and-remedy access — and it can ride alongside remedial or coercive-safeguard character.*
 
-A finding has **constitutional-floor character** where it violates binding constitutional constraints, Rights Floors, anti-evasion requirements, challenge-and-remedy access, or supremacy and binding-effect conditions.
+A finding has **constitutional-floor character** where it violates binding [Constitutional Constraints](core_05i_integrative_definitions.md#constitutional-constraint), Rights Floors, anti-evasion requirements, challenge-and-remedy access, or supremacy and binding-effect conditions.
 
 The same conduct may also have remedial / restorative or coercive / liberty-restricting safeguard character under lower slot bands. Constitutional-floor character is **broader** than final **Chapter Ten s = 7, 8, or 9** assignment and does **not** by itself supply that assignment.
 
@@ -945,7 +945,7 @@ No instruction, order, policy, or contractual directive requiring unlawful condu
 
 Issuing, authorizing, transmitting, ratifying, or materially enforcing such an instruction, order, policy, or contractual directive is independently classifiable violation conduct. Where the directive materially affects constitutional validity, constitutional operation, Rights-Floor governance, contestability, remedy access, evidence integrity, or the use of coercion or force against constitutional authority, it routes for possible anti-constitutional misconduct assessment under **Chapter Ten**, including **section 6.6**.
 
-Such directives and agreement terms within **Chapter Ten**, section **6.2** (*Rights-Floor waivers and unconstitutional contract terms*) and **section 6.6** (*Unlawful or unconstitutional command conduct*) are **never binding** to defeat, narrow, or foreclose non-negotiable constitutional protections, audit or challenge rights, or pathways under **Article XXIII-A**.
+Such directives and agreement terms within **Chapter Ten**, section **6.2** (*Rights-Floor waivers and unconstitutional contract terms*) and **section 6.6** (*Unlawful or unconstitutional command conduct*) are **never binding** to defeat, narrow, or foreclose non-negotiable substantive constraints, constitutional protections, audit or challenge rights, or pathways under **Article XXIII-A**.
 
 Actors with material capacity to refuse, contest, document, or escalate such directives must do so proportionately and in good faith.
 

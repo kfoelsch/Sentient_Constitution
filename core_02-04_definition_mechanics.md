@@ -48,7 +48,7 @@ This chapter does not define:
 - procedural audit workflows
 - classification schemas beyond definitional scope
 
-All such mechanisms must be defined in subsequent chapters and must operate in full compliance with the structural constraints established herein.
+All such mechanisms must be defined in subsequent chapters and must operate in full compliance with the structural [Constitutional Constraints](core_05i_integrative_definitions.md#constitutional-constraint) established in this chapter.
 
 ### 2. Definition Structure Requirement
 <details>

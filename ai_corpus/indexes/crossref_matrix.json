@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-07-03T01:20:57+00:00",
+  "generated_at": "2026-07-03T23:57:51+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -448,7 +448,6 @@
               "#productive-capacity-constitutional",
               "#proportionate-cross-system-support-constitutional",
               "#sustainability",
-              "#trust",
               "#trust-degradation-and-misleading-reliance",
               "#trustworthiness"
             ]
@@ -508,14 +507,14 @@
           },
           {
             "file": "core_07-07_system_alignment_certification.md",
-            "count": 9,
+            "count": 8,
             "anchors": [
               "#chapter-seven-system-alignment-certification"
             ]
           },
           {
             "file": "core_08-08_standing_assessment.md",
-            "count": 4,
+            "count": 5,
             "anchors": [
               "#chapter-eight-compliance-violation-and-standing-model",
               "#chapters-eight-eleven-constitutional-compass"
@@ -523,10 +522,11 @@
           },
           {
             "file": "core_09-09_standing_integration.md",
-            "count": 3,
+            "count": 6,
             "anchors": [
               "#chapter-nine-standing-effects-and-integration",
-              "#competency-gates"
+              "#competency-gates",
+              "#redress-remedy-and-restoration-in-the-standing-model"
             ]
           },
           {
@@ -538,8 +538,9 @@
           },
           {
             "file": "core_11-11_forum.md",
-            "count": 2,
+            "count": 4,
             "anchors": [
+              "#10-timely-resolution-materiality-tiers-and-anti-delay-discipline",
               "#chapter-eleven-forums-and-jurisdiction"
             ]
           },
@@ -624,7 +625,7 @@
           },
           {
             "file": "core_02-04_definition_mechanics.md",
-            "count": 3,
+            "count": 4,
             "anchors": []
           },
           {
@@ -670,7 +671,7 @@
           },
           {
             "file": "core_05c_continuity_definitions.md",
-            "count": 145,
+            "count": 146,
             "anchors": [
               "#avoidable-burden",
               "#avoidable-burden-c",
@@ -718,12 +719,13 @@
           },
           {
             "file": "core_05i_integrative_definitions.md",
-            "count": 27,
+            "count": 28,
             "anchors": [
               "#accountability-contestability-and-collective-accountability-failure-cluster",
               "#authority-stack",
               "#authority-stack-c",
               "#authority-stack-e",
+              "#constitutional-constraint",
               "#constitutional-contract-layer",
               "#corpus",
               "#corpus-c",
@@ -1359,8 +1361,9 @@
           },
           {
             "file": "core_05i_integrative_definitions.md",
-            "count": 2,
+            "count": 3,
             "anchors": [
+              "#constitutional-constraint",
               "#supremacy-and-enforceability"
             ]
           },
@@ -1589,9 +1592,10 @@
           },
           {
             "file": "core_05i_integrative_definitions.md",
-            "count": 14,
+            "count": 15,
             "anchors": [
               "#authority-stack",
+              "#constitutional-constraint",
               "#constitutional-constraint-violation",
               "#constitutional-contract-layer",
               "#constitutional-owner-layers",
@@ -1972,10 +1976,11 @@
           },
           {
             "file": "core_05i_integrative_definitions.md",
-            "count": 16,
+            "count": 20,
             "anchors": [
               "#animal-life-sentient-life-and-sentience-status-cluster",
               "#authority-stack",
+              "#constitutional-constraint",
               "#constitutional-contract-layer",
               "#foundational-constitutional-choice"
             ]
@@ -2841,8 +2846,10 @@
           },
           {
             "file": "core_01_a_values_principles.md",
-            "count": 7,
+            "count": 9,
             "anchors": [
+              "#3-non-negotiable-constraints-safety-and-truth",
+              "#6-interaction-and-conflict-resolution",
               "#8-constitutional-interpretation"
             ]
           },
@@ -2868,7 +2875,7 @@
           },
           {
             "file": "core_05a_accountability_definitions.md",
-            "count": 31,
+            "count": 33,
             "anchors": [
               "#capture-of-resolution-pathways",
               "#contestability",
@@ -2887,7 +2894,7 @@
           },
           {
             "file": "core_05c_continuity_definitions.md",
-            "count": 18,
+            "count": 20,
             "anchors": [
               "#dependency",
               "#reversibility-constitutional",
@@ -2901,9 +2908,10 @@
           },
           {
             "file": "core_05i_integrative_definitions.md",
-            "count": 36,
+            "count": 43,
             "anchors": [
               "#authority-stack",
+              "#constitutional-constraint",
               "#constitutional-constraint-violation",
               "#constitutional-contract-layer",
               "#constitutional-owner-layers",
@@ -2914,12 +2922,14 @@
           },
           {
             "file": "core_05o_oversight_definitions.md",
-            "count": 15,
+            "count": 21,
             "anchors": [
               "#adversarial-scaled-and-exploited-conditions",
               "#auditability",
               "#epistemic-integrity",
+              "#evaluation-completeness-constraint",
               "#materiality-determination",
+              "#materiality-integrity-constraint",
               "#proxy-divergence",
               "#truth-constitutional-constraint"
             ]
@@ -3247,8 +3257,9 @@
           },
           {
             "file": "core_05i_integrative_definitions.md",
-            "count": 6,
+            "count": 7,
             "anchors": [
+              "#constitutional-constraint",
               "#constitutional-constraint-violation",
               "#constitutional-constraint-violation-c",
               "#constitutional-constraint-violation-e",
@@ -3373,7 +3384,7 @@
         "targets": [
           {
             "file": "core_00_preamble.md",
-            "count": 6,
+            "count": 7,
             "anchors": [
               "#constitutional-tetrad",
               "#material-stake",
@@ -3412,7 +3423,7 @@
           },
           {
             "file": "core_05a_accountability_definitions.md",
-            "count": 235,
+            "count": 256,
             "anchors": [
               "#accountability",
               "#accountability-c",
@@ -3448,6 +3459,7 @@
               "#standing-lock-c",
               "#standing-lock-e",
               "#timeliness-constitutional",
+              "#timely-resolution-constitutional",
               "#verified-violation-findings"
             ]
           },
@@ -3468,8 +3480,9 @@
           },
           {
             "file": "core_05i_integrative_definitions.md",
-            "count": 22,
+            "count": 25,
             "anchors": [
+              "#constitutional-constraint",
               "#constitutional-constraint-violation",
               "#constitutional-constraint-violation-c",
               "#constitutional-constraint-violation-e",
@@ -3529,7 +3542,7 @@
           },
           {
             "file": "core_06-06_rights_part_c.md",
-            "count": 4,
+            "count": 5,
             "anchors": [
               "#article-xii-b-right-to-challenge-review-and-redress",
               "#article-xix-interoperability-portability-and-exit-integrity",
@@ -3539,7 +3552,7 @@
           },
           {
             "file": "core_06-06_rights_part_d.md",
-            "count": 15,
+            "count": 16,
             "anchors": [
               "#article-xxiii-a-justice-objective-and-scope",
               "#article-xxiii-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints",
@@ -3549,10 +3562,11 @@
           },
           {
             "file": "core_08-08_standing_assessment.md",
-            "count": 97,
+            "count": 99,
             "anchors": [
               "#11-two-question-evaluation-discipline",
               "#2-purpose-and-role",
+              "#2-standing-records",
               "#22-linked-records-and-no-offset-bridge",
               "#237-forum-boundary",
               "#34-question-1-classification-illustrations",
@@ -3608,7 +3622,7 @@
           },
           {
             "file": "core_11-11_forum.md",
-            "count": 11,
+            "count": 13,
             "anchors": [
               "#10-timely-resolution-materiality-tiers-and-anti-delay-discipline",
               "#chapter-eleven-forums-and-jurisdiction"
@@ -3737,8 +3751,9 @@
           },
           {
             "file": "core_05i_integrative_definitions.md",
-            "count": 10,
+            "count": 11,
             "anchors": [
+              "#constitutional-constraint",
               "#incentive-alignment",
               "#incentive-alignment-c",
               "#incentive-alignment-e"
@@ -4615,9 +4630,10 @@
           },
           {
             "file": "core_05i_integrative_definitions.md",
-            "count": 14,
+            "count": 17,
             "anchors": [
               "#animal-life-sentient-life-and-sentience-status-cluster",
+              "#constitutional-constraint",
               "#foundational-constitutional-choice",
               "#foundational-constitutional-choice-c",
               "#foundational-constitutional-choice-e",
@@ -7134,8 +7150,9 @@
           },
           {
             "file": "core_05i_integrative_definitions.md",
-            "count": 4,
+            "count": 5,
             "anchors": [
+              "#constitutional-constraint",
               "#corpus",
               "#corpus-c",
               "#corpus-e"
@@ -7962,6 +7979,13 @@
             ]
           },
           {
+            "file": "core_05i_integrative_definitions.md",
+            "count": 1,
+            "anchors": [
+              "#constitutional-constraint"
+            ]
+          },
+          {
             "file": "corpus_systems/cs_protocol_b_system_comprehensibility_complexity_stewardship.md",
             "count": 1,
             "anchors": []
@@ -8069,8 +8093,9 @@
           },
           {
             "file": "core_05i_integrative_definitions.md",
-            "count": 1,
+            "count": 2,
             "anchors": [
+              "#constitutional-constraint",
               "#incentive-alignment"
             ]
           },
@@ -8102,6 +8127,13 @@
             "count": 1,
             "anchors": [
               "#proportionate-cross-system-support-constitutional"
+            ]
+          },
+          {
+            "file": "core_05i_integrative_definitions.md",
+            "count": 4,
+            "anchors": [
+              "#constitutional-constraint"
             ]
           },
           {
@@ -8161,6 +8193,13 @@
       {
         "source": "corpus_systems/cs_s2_system_classification_and_handling.md",
         "targets": [
+          {
+            "file": "core_05i_integrative_definitions.md",
+            "count": 1,
+            "anchors": [
+              "#constitutional-constraint"
+            ]
+          },
           {
             "file": "corpus_systems/cs_s1_information_types_and_handling.md",
             "count": 1,
@@ -8670,11 +8709,12 @@
           },
           {
             "file": "core_05i_integrative_definitions.md",
-            "count": 28,
+            "count": 29,
             "anchors": [
               "#authority-stack",
               "#authority-stack-c",
               "#authority-stack-e",
+              "#constitutional-constraint",
               "#corpus",
               "#corpus-c",
               "#corpus-e"

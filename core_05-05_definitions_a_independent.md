@@ -89,6 +89,7 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 - [Consent](core_05p_participation_definitions.md#consent-constitutional)
 - [Consent, Sexual](core_05p_participation_definitions.md#consent-sexual)
 - [Constitutional Community](core_05p_participation_definitions.md#constitutional-community)
+- [Constitutional Constraint](core_05i_integrative_definitions.md#constitutional-constraint)
 - [Constitutional Constraint Violation](core_05i_integrative_definitions.md#constitutional-constraint-violation)
 - [Constitutional Contract Layer](core_05i_integrative_definitions.md#constitutional-contract-layer)
 - [Constitutional Efficiency](core_05c_continuity_definitions.md#constitutional-efficiency)

@@ -100,7 +100,7 @@ Reauthorization processes may be initiated by system participants, oversight bod
 
 **Systems must define** **how reauthorization is initiated**. **They** must define **how participation is structured**. **They** must define **how outcomes are determined**.
 
-All such mechanisms must remain consistent with constitutional constraints and subject to audit.
+All such mechanisms must remain consistent with [Constitutional Constraints](../core_05i_integrative_definitions.md#constitutional-constraint) and subject to audit.
 
 **Default funding allocation models.** No default allocation model is permanent or universally required.
 
@@ -132,19 +132,19 @@ Systems and the broader ecosystem must ensure that critical substrate functions 
 **Non-substrate systems.** Systems that operate at higher layers (e.g., applications, tools, creative systems.
 and local coordination environments) may adopt more flexible funding models. **Those** models may **incentivize innovation and rapid iteration**. **They** may **reward builders and contributors more directly**. **They** may **allow for competitive and diverse allocation structures**.
 
-**Such systems must still** **remain transparent and auditable**. **They** must **avoid reinforcing harmful dependencies or extraction patterns**. **They** must **remain subject to stakeholder governance** (**Article XI**) **and constitutional constraints**.
+**Such systems must still** **remain transparent and auditable**. **They** must **avoid reinforcing harmful dependencies or extraction patterns**. **They** must **remain subject to stakeholder governance** (**Article XI**) **and [Constitutional Constraints](../core_05i_integrative_definitions.md#constitutional-constraint)**.
 
 **Stakeholder governance of funding.** Allocation models are subject to participatory oversight under **Article XI** and must remain understandable at a proportionate level under **Article XX-A** where interfaces and models are materially impactful. Where funding decisions materially affect system stability, security, or foundational requirements, such decisions must be evaluated with heightened scrutiny proportional to system criticality.
 
 **Stakeholders have the authority to** **review and modify allocation structures**. **They** may **evaluate fairness and effectiveness**. **They** may **redirect funding in response to changing needs**.
 
-**All changes must** **remain consistent with constitutional constraints**. **They** must **be transparently documented**. **They** must **preserve auditability**.
+**All changes must** **remain consistent with [Constitutional Constraints](../core_05i_integrative_definitions.md#constitutional-constraint)**. **They** must **be transparently documented**. **They** must **preserve auditability**.
 
 **Trigger definitions.** Systems must define measurable indicators and thresholds that reflect system health, resource flows, and ecosystem impact. These indicators form the basis for adaptive allocation processes defined in **Protocol S4** (see Sentient Constitution **Article IV-A**).
 
 **Triggering review and challenge.** Funding structures and allocation outcomes may be challenged by any sentient or group in good standing under **Article XVIII-A**.
 
-No minimum participation threshold is required to initiate review, though outcomes remain subject to constitutional constraint and collective deliberation.
+No minimum participation threshold is required to initiate review, though outcomes remain subject to [Constitutional Constraint](../core_05i_integrative_definitions.md#constitutional-constraint) discipline and collective deliberation.
 
 **Triggers for review include, but are not limited to** **evidence of disproportionate or persistent extraction**. **They** include **failure to meet required allocation categories**. **They** include **emerging concentration of funding or influence**. **They** include **material misalignment with constitutional principles**.
 

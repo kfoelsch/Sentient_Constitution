@@ -590,7 +590,7 @@ The command conduct is in scope whether the actor is the **issuer**, **authorize
 
 The conduct is in scope only where it has one of the following material effects:
 
-- Directing or inducing violation of the **Chapter Six** Rights Floor, constitutional constraints, binding remedies, or protected reporting and challenge pathways.
+- Directing or inducing violation of the **Chapter Six** Rights Floor, [Constitutional Constraints](core_05i_integrative_definitions.md#constitutional-constraint), binding remedies, or protected reporting and challenge pathways.
 - Distorting, bypassing, or suppressing constitutional custody, verification, publication, audit, disclosure, [Evidence Preservation](core_05o_oversight_definitions.md#evidence-preservation), or record integrity.
 - Blocking, chilling, delaying, or selectively weakening contestability, oversight, review, enforcement, or remedy pathways.
 - Producing Rights-Floor degradation, material rollback, system capture, or an equivalent structural workaround.

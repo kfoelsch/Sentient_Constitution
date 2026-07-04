@@ -1,8 +1,8 @@
 {
   "$schema": "../schemas/definition_registry.schema.json",
-  "generated_at": "2026-07-03T01:20:57+00:00",
+  "generated_at": "2026-07-03T23:57:50+00:00",
   "source": "authoritative Chapter Five core files and Chapter One principle-layer anchors (preamble + Part A)",
-  "definition_count": 225,
+  "definition_count": 226,
   "definitions": [
     {
       "term": "Accessibility",
@@ -337,11 +337,20 @@
       "cluster_membership": null
     },
     {
+      "term": "Constitutional Constraint",
+      "source_file": "core_05i_integrative_definitions.md",
+      "anchor": "#constitutional-constraint",
+      "line_start": 356,
+      "line_end": 388,
+      "category": "dependent_cluster",
+      "cluster_membership": null
+    },
+    {
       "term": "Constitutional Constraint Violation",
       "source_file": "core_05i_integrative_definitions.md",
       "anchor": "#constitutional-constraint-violation",
-      "line_start": 356,
-      "line_end": 379,
+      "line_start": 389,
+      "line_end": 412,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "3.16 Corpus, Authority Stack, Supremacy, and Enforceability",
@@ -429,8 +438,8 @@
       "term": "Continuity",
       "source_file": "core_01_a_values_principles.md",
       "anchor": "#continuity",
-      "line_start": 87,
-      "line_end": 87,
+      "line_start": 85,
+      "line_end": 85,
       "category": "principle_layer",
       "cluster_membership": null
     },
@@ -739,8 +748,8 @@
       "term": "Flourishing",
       "source_file": "core_01_a_values_principles.md",
       "anchor": "#flourishing",
-      "line_start": 87,
-      "line_end": 87,
+      "line_start": 85,
+      "line_end": 85,
       "category": "principle_layer",
       "cluster_membership": null
     },
@@ -2156,8 +2165,8 @@
       "term": "Two Constitutional Aims",
       "source_file": "core_01_a_values_principles.md",
       "anchor": "#two-constitutional-aims",
-      "line_start": 87,
-      "line_end": 87,
+      "line_start": 85,
+      "line_end": 85,
       "category": "principle_layer",
       "cluster_membership": null
     },

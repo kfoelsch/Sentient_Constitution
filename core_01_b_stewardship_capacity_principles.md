@@ -611,7 +611,7 @@ It is also bounded by the ecological preconditions life depends on. Life-support
 A productive-capacity claim fails where it materially degrades those systems, or shifts ecological or intergenerational burden onto others without mitigation, disclosure, and representation.
 
 Systems must preserve productive capacity and, where feasible, expand it. That obligation:
-- stays within Safety, Truth, Trust, Freedom, the Chapter Six Rights Floor (including [Article I-A](core_06-06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity)), **Ecological Integrity**, **Environmental Preconditions**, **Intergenerational Responsibility**, and this chapter's non-negotiable constraints
+- stays within Safety, Truth, Trust, Freedom, the Chapter Six Rights Floor (including [Article I-A](core_06-06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity)), **Ecological Integrity**, **Environmental Preconditions**, **Intergenerational Responsibility**, and Chapter One's non-negotiable substantive-constraint discipline
 - is judged against constitutionally traced outcomes under **Chapters Four and Five** (*Productive Capacity*; *Constitutional Efficiency*; *Avoidable Burden*; *Proxy Divergence*; *Ecological Integrity*; *Environmental Preconditions*; *Intergenerational Responsibility*)
 - is **not** met by raw throughput, output volume, utilization, headcount, revenue, asset growth, market share, or similar proxies that diverge from real outcomes — including proxies that show "growth" or "efficiency" while externalizing harm onto sentients, future generations, or life-supporting systems
 

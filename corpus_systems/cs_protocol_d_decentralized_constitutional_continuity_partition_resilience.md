@@ -8,7 +8,7 @@ Constitutional tracing: This protocol operationalizes **operational** constituti
 
 **1. Continuity modes and Rights-Floor invariants.** Systems must define and publish at least four operational continuity modes: **Normal**, **Degraded-Partitioned**, **Offline-Sovereign**, **Rejoin-Reconciliation**.
 
-For every mode, systems must preserve non-regression constitutional floors. **Those** floors include Safety, Truth (Epistemic Integrity), dignity-equality protections, meaningful agency constraints, and challengeability to the maximum feasible extent under conditions.
+For every mode, systems must preserve non-regression constitutional floors. **Those** floors include Safety, Truth (Constitutional Constraint), dignity-equality protections, meaningful agency constraints, and challengeability to the maximum feasible extent under conditions.
 
 **Mode transitions must be** **trigger-defined and auditable**. **They** must be **independently reviewable at class-appropriate cadence**. **They** must be **reversible when trigger conditions clear**.
 

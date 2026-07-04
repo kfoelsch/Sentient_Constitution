@@ -82,18 +82,16 @@
 
 *In plain terms: Chapter One sets the values and constraints that govern every other chapter. Shared systems must pursue **Flourishing** and **Continuity** together — not one at the expense of the other — and no single value may be maximized at the expense of the others.*
 
-This chapter establishes the principles and constraints that govern interpretation, application, and evolution of this Constitution.
+<a id="two-constitutional-aims"></a><a id="flourishing"></a><a id="continuity"></a>This chapter establishes the principles and constraints that govern interpretation, application, and evolution of this Constitution. It develops the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims), [**Flourishing**](core_00_preamble.md#flourishing), and [**Continuity**](core_00_preamble.md#continuity) established in [Chapter 00 §1 The Model](core_00_preamble.md#the-model) into operative principles and constraints. Canonical principle-layer definitions live in Chapter 00; this chapter applies them.
 
-<a id="two-constitutional-aims"></a><a id="flourishing"></a><a id="continuity"></a>This chapter develops the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims), [**Flourishing**](core_00_preamble.md#flourishing), and [**Continuity**](core_00_preamble.md#continuity) established in [Chapter 00 §1 The Model](core_00_preamble.md#the-model) into operative principles and constraints. Canonical principle-layer definitions live in Chapter 00; this chapter applies them.
-
-Those aims must be pursued together, always within the non-negotiable constraints and rights protections established in this Constitution. The [**Constitutional Tetrad**](core_00_preamble.md#constitutional-tetrad) governs how that pursuit remains legitimate — scaled to [**material stake**](core_00_preamble.md#material-stake).
+Those aims must be pursued together, always within the non-negotiable substantive constraints and rights protections established in this Constitution. The [**Constitutional Tetrad**](core_00_preamble.md#constitutional-tetrad) governs how that pursuit remains legitimate — scaled to [**material stake**](core_00_preamble.md#material-stake).
 
 These values:
 - are not independent, and in ordinary operation they are not strictly hierarchical.
 - function as interacting principles and constraints that must be evaluated together.
 - apply to all "systems," which include technical, organizational, economic, socio-technical structures, and ecosystems that materially affect sentients and the planet Earth.
 
-No single principle may be applied in isolation where doing so would materially violate the others. Where tensions arise, systems must resolve them under the proportionality, necessity, and systemic-impact requirements stated in this chapter. Where unresolved conflict directly implicates non-negotiable constraints, Chapter One, **§5** — Interaction and Conflict Resolution controls precedence.
+No single principle may be applied in isolation where doing so would materially violate the others. Where tensions arise, systems must resolve them under the proportionality, necessity, and systemic-impact requirements stated in this chapter. Where unresolved conflict directly implicates non-negotiable substantive constraints, Chapter One, **§5** — Interaction and Conflict Resolution controls precedence.
 
 <a id="1-constitutional-interpretation"></a>
 <a id="2-constitutional-interpretation"></a>
@@ -129,18 +127,15 @@ No single principle may be applied in isolation where doing so would materially 
 
 *In plain terms: the whole point of these systems is to make sentient lives genuinely better — and that purpose is not satisfied by chasing a proxy metric, nor available as a cover for cutting corners on Safety, Truth, or rights. Wellbeing is foundational for participation: token voice without the conditions that make agency real is not participation under this Constitution.*
 
-The ultimate objective of all systems governed under this Constitution is to preserve and advance sentient wellbeing — the [**Flourishing**](#flourishing) aim under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims).
+The ultimate objective of all systems governed under this Constitution is to preserve and advance sentient [wellbeing](core_05c_continuity_definitions.md#wellbeing) — the [**Flourishing**](#flourishing) aim under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims).
 
 Wellbeing is foundational for [Participation](core_05p_participation_definitions.md#participation-constitutional) under the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad). Shared systems may not treat participation as satisfied when underlying wellbeing conditions — including [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency), fair access, and dignity — are materially degraded.
 
-Wellbeing is defined in Chapter Five Independent Definitions (Wellbeing).
-
-Wellbeing must be interpreted across direct, indirect, delayed, cumulative, and cross-system effects under **Chapters Two through Four** evaluative and tracing requirements.
-At this value layer, wellbeing:
-- is foundational for substantive participation — voice, representation, and contestability require the wellbeing conditions this section protects
-- cannot be treated as satisfied through proxy optimization that materially diverges from underlying constitutional objectives
-- remains bounded by non-negotiable constraints in this chapter
-- cannot be used as a blanket justification for violating Safety, Truth, or rights protections
+Wellbeing includes not only immediate effects but also indirect, delayed, cumulative, and cross-system consequences, evaluated under [**Chapters Two through Four**](core_02-04_definition_mechanics.md). At this value layer, wellbeing:
+- makes real participation possible — a voice that people lack the conditions to use is not meaningful participation
+- cannot be declared "achieved" by hitting a metric that has drifted from what actually matters
+- remains bounded by this chapter's non-negotiable substantive constraints: **Safety** and **Truth**
+- cannot be invoked as a blanket justification for violating Safety, Truth, or rights protections
 
 #### 2.1 Fairness
 <details>
@@ -321,7 +316,7 @@ Granular ceremonies, curricula, budgets, programs, and metrics belong in adoptin
 
 *In plain terms: Safety and Truth are the Constitution's hard floors — not tradeoffs to optimize away. Shared systems may not foreseeably endanger sentients or deceive them, and both constraints apply within the pursuit of Flourishing and Continuity under the Tetrad's participation, oversight, accountability, and timeliness discipline.*
 
-**Safety** and **Truth** are non-negotiable constraints that bound every other Chapter One principle — including [§3 Foundational Objective: Wellbeing](#3-foundational-objective-wellbeing) and the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims). They are named constituents of [**Flourishing**](#flourishing) and indispensable to [**Continuity**](#continuity): systems cannot flourish through harm or deception, and durable legitimacy requires honest risk stewardship over time. Application of these constraints must satisfy the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — especially where safety determinations affect participation capacity, where truth claims govern reliance, and where accountability for harm or misleading conduct is at stake — scaled to [material stake](core_00_preamble.md#material-stake).
+**Safety** and **Truth** are non-negotiable substantive constraints that bound every other Chapter One principle — including [§3 Foundational Objective: Wellbeing](#3-foundational-objective-wellbeing) and the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims). They are named constituents of [**Flourishing**](#flourishing) and indispensable to [**Continuity**](#continuity): systems cannot flourish through harm or deception, and durable legitimacy requires honest risk stewardship over time. Application of these constraints must satisfy the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — especially where safety determinations affect participation capacity, where truth claims govern reliance, and where accountability for harm or misleading conduct is at stake — scaled to [material stake](core_00_preamble.md#material-stake).
 
 #### 3.1 Safety (Harm Constraint)
 <details>
@@ -354,7 +349,7 @@ Granular ceremonies, curricula, budgets, programs, and metrics belong in adoptin
 
 *In plain terms: systems may not be built or run in ways that foreseeably increase risks of uncontained harm, cascading failure, or irreversible damage to sentients and the systems they depend on.*
 
-Safety is a non-negotiable constitutional constraint on system design, operation, and governance — a named constituent of [**Flourishing**](#flourishing) and a floor for [**Continuity**](#continuity) wherever shared systems create foreseeable harm risk.
+Safety is a non-negotiable substantive constraint on system design, operation, and governance — a named constituent of [**Flourishing**](#flourishing) and a floor for [**Continuity**](#continuity) wherever shared systems create foreseeable harm risk.
 
 Its definitional, evaluative, and compliance requirements are governed by **Chapters Two through Five**, with foundational terms supplied in **Chapter Five** §§1–3.
 
@@ -391,7 +386,7 @@ Safety forbids system conduct or omission that materially increases uncontained 
 
 *In plain terms: systems may not deceive, distort, suppress, or structure their output to mislead — and high-impact decisions must rest on honest evidence, stated methods, acknowledged uncertainty, and genuine openness to contrary findings.*
 
-Truth is a non-negotiable constitutional constraint on epistemic integrity in internal operation and external communication — a named constituent of [**Flourishing**](#flourishing) and a condition for [**Continuity**](#continuity) wherever durable systems depend on honest evidence and reliable understanding.
+Truth is a non-negotiable substantive constraint on epistemic integrity in internal operation and external communication — a named constituent of [**Flourishing**](#flourishing) and a condition for [**Continuity**](#continuity) wherever durable systems depend on honest evidence and reliable understanding.
 
 Its definitional, evaluative, and compliance requirements are governed by **Chapters Two through Five**, with foundational terms supplied in **Chapter Five** §§1–3.
 
@@ -892,7 +887,7 @@ Limitations on constitutional **values** — including **Chapter Six** Rights-Fl
 
 *In plain terms: once an option satisfies Safety, Truth, rights, and the other tradeoff rules, pick the one that wastes the least sentient time, attention, and effort. Simplify or remove steps that do not do constitutional work. Rights-protective process is not waste — but unjustified red tape is, and convenience or inertia cannot sustain it.*
 
-Where multiple options satisfy Safety, Truth, the Rights Floor in **Chapter Six**, [§6.1.1](#611-proportionality), **Necessity**, **Harm Minimization (Tradeoff Selection)**, and the other applicable constraints in this Constitution, systems must prefer the option that imposes the **least avoidable burden** on sentient time, attention, effort, and shared resources.
+Where multiple options satisfy Safety, Truth, the Rights Floor in **Chapter Six**, [§6.1.1](#611-proportionality), **Necessity**, **Harm Minimization (Tradeoff Selection)**, and the other applicable [Constitutional Constraints](core_05i_integrative_definitions.md#constitutional-constraint), systems must prefer the option that imposes the **least avoidable burden** on sentient time, attention, effort, and shared resources.
 
 Where an avoidable burden can be corrected by simplifying, consolidating, automating, clarifying, or removing unnecessary steps, that correction is the preferred remedy unless it would materially weaken Safety, Truth, Rights-Floor protection, auditability, contestability, due process, or retrospective review.
 

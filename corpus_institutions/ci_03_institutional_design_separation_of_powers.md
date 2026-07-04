@@ -190,7 +190,7 @@ Emergency delegation is permitted only for necessity and proportionality reasons
 
 *In plain terms: each institution must publish, in everyday language, how much risk it is willing to accept — within constitutional limits and scaled to its class and tier duties — and must revisit that statement on a regular schedule and again after any serious incident.*
 
-Each institution must maintain a plain-language risk appetite and tolerance statement aligned to constitutional constraints and class/tier obligations. That statement must be reviewed on a fixed cadence and after material incidents.
+Each institution must maintain a plain-language risk appetite and tolerance statement aligned to [Constitutional Constraints](../core_05i_integrative_definitions.md#constitutional-constraint) and class/tier obligations. That statement must be reviewed on a fixed cadence and after material incidents.
 
 ---
 
