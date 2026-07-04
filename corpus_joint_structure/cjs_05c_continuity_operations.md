@@ -547,7 +547,7 @@ Adversarial robustness floor
 - OP-C: Good-faith-only design is non-compliant for consequential pathways.
 
 Automated auditing where feasible
-- OP-O: Where feasible, systems must use automated auditing to detect regressions, suspicious patterns, control drift, dependency changes, and evidence gaps without replacing human or independent review.
+- OP-O: Where feasible, systems must use automated auditing to detect regressions, suspicious patterns, control misalignment, dependency changes, and evidence gaps without replacing human or independent review.
 - OP-E: Reviewers must verify that automated checks have defined scope, thresholds, logging, alert routing, false-positive handling, and human escalation for material findings.
 - OP-C: It is non-compliant to rely on unavailable, unaudited, or purely symbolic automated checks, or to omit feasible automated auditing for high-impact recurrent risks without justification.
 

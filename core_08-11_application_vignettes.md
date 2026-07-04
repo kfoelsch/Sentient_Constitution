@@ -178,7 +178,7 @@ Arbitration clauses, shell subcontractors, years of “market efficiency” defe
 
 ### 4. Stewardship delay and deferred repair
 
-**Domain:** Operator defers safeguard maintenance and repair after documented drift notice.
+**Domain:** Operator defers safeguard maintenance and repair after documented misalignment notice.
 
 **Tier:** B (material rights impact, non-imminent) unless ongoing harm escalates to Tier A.
 

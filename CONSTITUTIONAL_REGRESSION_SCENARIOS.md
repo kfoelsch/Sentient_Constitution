@@ -632,7 +632,7 @@ Regression seeds document adversarial and core paths against constitutional owne
 
 ### Scenario ID: RS-TETRAD-TIMELINESS-001
 - **Class:** implementation / tetrad-timeliness vignette
-- **Summary:** Steward defers repair after documented drift notice; **Stewardship Defect** and Ch6 **Response timeliness / avoidable delay** Q1 hook; Ch7 Chapter One §8.10 remedy-commencement dimension. Vignette: [core_08-11_application_vignettes.md](core_08-11_application_vignettes.md#vignette-stewardship-delay-deferred-repair).
+- **Summary:** Steward defers repair after documented misalignment notice; **Stewardship Defect** and Ch6 **Response timeliness / avoidable delay** Q1 hook; Ch7 Chapter One §8.10 remedy-commencement dimension. Vignette: [core_08-11_application_vignettes.md](core_08-11_application_vignettes.md#vignette-stewardship-delay-deferred-repair).
 - **Read with:** [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad); [Chapter One §9.1](core_01_b_stewardship_capacity_principles.md#91-stewardship); [Chapter Eight §3](core_08-08_standing_assessment.md#dual-use-classification-dimensions); [Chapter Eleven §10](core_11-11_forum.md#10-timely-resolution-materiality-tiers-and-anti-delay-discipline); **Article XXIV-C**.
 
 ### Scenario ID: RS-TETRAD-TIMELINESS-002

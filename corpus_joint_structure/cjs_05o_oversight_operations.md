@@ -366,7 +366,7 @@ integrity assurance and resilience operations
 Adversarial response and revalidation non-entrenchment
 - OP-O: Detection, mitigation, escalation, revalidation, and replacement readiness must operate together as risks change.
 - OP-E: Evaluation must verify review cadence, challengeability, and update paths under changing capabilities, attacks, and dependencies.
-- OP-C: It is non-compliant to preserve legacy structures by inertia when material risk, drift, or known vulnerabilities require correction, reauthorization, or replacement.---
+- OP-C: It is non-compliant to preserve legacy structures by inertia when material risk, misalignment, or known vulnerabilities require correction, reauthorization, or replacement.---
 
 Audit reconstruction and tiered access continuity
 - OP-O: Records, disclosure tiers, qualified audit access, and forensic reconstruction must work together when harm, dispute, or credible risk requires deeper inspection.
@@ -385,7 +385,7 @@ Containment, reversibility, and retention lifecycle coherence
 
 Contest-integrity pathway chain
 - OP-O: Contest, secondary review, audit access, protected escalation, forum-adjacent forensic support, and backup routing must remain usable as one chain when system, institutional, or forum responsibilities materially interact.
-- OP-E: Evaluation must verify timeliness, accessibility, backlog effects, evidence availability within security-constrained observability, independence of the review path, and records sufficient to detect chill, capture, retaliation, secrecy-duration drift, or bypass of applicable limits.
+- OP-E: Evaluation must verify timeliness, accessibility, backlog effects, evidence availability within security-constrained observability, independence of the review path, and records sufficient to detect chill, capture, retaliation, secrecy-duration misalignment, or bypass of applicable limits.
 - OP-C: It is non-compliant to claim contest-integrity when monitoring becomes merits adjudication, displaces the assigned forum, hides pathway failure, lacks records for lawful transfer or recusal review, or leaves materially affected parties without a practical review path.
 
 Control-failure declaration chain

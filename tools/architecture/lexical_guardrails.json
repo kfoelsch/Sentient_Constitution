@@ -121,6 +121,10 @@
     {
       "avoid": "standing-calculus",
       "prefer": "standing-record classification under Chapter Eight"
+    },
+    {
+      "avoid": "drift",
+      "prefer": "misalignment or constitutional misalignment (stewardship, governance, incentive, and alignment sense); retain anti-drift, classification drift, version drift, editorial drift, cross-layer drift, Defects and drift, and other established certification or custody compounds"
     }
   ],
   "co_gloss_registry": [

@@ -299,7 +299,7 @@ Alignment recognition or review must be available when any of the following mate
 - an existing system undergoes material change in capability, scale, dependency, stakeholder exposure, integration, autonomy, incentive structure, or risk profile;
 - a system has material ecological exposure, environmental-precondition dependency, lifecycle burden, restoration duty, or reasonably foreseeable ecological risk that requires Environment forum environmental-alignment review;
 - periodic review is due under the system's class, stewardship tier, or prior forum order;
-- credible evidence indicates drift, concealed behavior, under-classification, misclassification, capture, unresolved residual risk, Rights-Floor exposure, ecological exposure, or info-sphere integrity risk;
+- credible evidence indicates misalignment, concealed behavior, under-classification, misclassification, capture, unresolved residual risk, Rights-Floor exposure, ecological exposure, or info-sphere integrity risk;
 - a stakeholder, steward, affected institution, technical specialist forum, or lawful oversight body makes a good-faith request for review with a non-frivolous evidentiary basis.
 
 #### CF-7.2.3 Minimum Recognition Record
@@ -615,7 +615,7 @@ Backup routing is limited to what is necessary to preserve a lawful and contesta
 <br>
 
 
-For constitutional alignment recognition, validation, revalidation, withdrawal, or material condition-release under **CF-7.2**, the Integrity forum must make a capture-sensitive routing check when capture, drift, concealed behavior, evidence-control dependency, self-review, or contest-pathway failure is material. The check must state:
+For constitutional alignment recognition, validation, revalidation, withdrawal, or material condition-release under **CF-7.2**, the Integrity forum must make a capture-sensitive routing check when capture, misalignment, concealed behavior, evidence-control dependency, self-review, or contest-pathway failure is material. The check must state:
 - who controls the technical evidence, incident history, audit access, environmental component record, classification assumptions, and contest pathway;
 - whether the operator, steward, institutional sponsor, or forum-adjacent unit has a material incentive or dependency that could distort recognition or revalidation;
 - whether technical, Environment, Institutional, Sentient, or Constitutional component questions require referral, certification, or stay;

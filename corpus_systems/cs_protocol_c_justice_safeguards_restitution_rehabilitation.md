@@ -59,7 +59,7 @@ Those metrics include recurrence rates after intervention, restitution completio
 
 **Independence indicators** include recusal frequency, challenge-path utilization, and secondary-review reversal rates for materially impactful determinations.
 
-Patterns indicating retaliatory drift, discriminatory outcomes, or review non-performance require corrective action, escalation, and audit.
+Patterns indicating retaliatory misalignment, discriminatory outcomes, or review non-performance require corrective action, escalation, and audit.
 
 Apply **Article XV-A**, **Article XVIII-A**, **Article XXIII-A**, and the related Chapter Five review and remedy definitions where auditability, standing review, or justice review is implicated.
 

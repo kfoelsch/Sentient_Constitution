@@ -489,7 +489,7 @@ Certification records do not apply standing effects. Under [Constitutional Owner
 
 <a id="10-reopening-drift-and-non-evasion"></a>
 
-### 10. Reopening, Drift, and Non-Evasion
+### 10. Reopening, Misalignment, and Non-Evasion
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -502,7 +502,7 @@ Certification records do not apply standing effects. Under [Constitutional Owner
 
 <br>
 
-A **System Alignment Certification Record** is scope-bound and time-bound. Material change, drift, concealed behavior, dependency growth, new risk, incident history, credible challenge under [§7](#7-supervisory-sequence-and-contestability-chain), ecological objection, material footprint misrepresentation or drift, material discrimination-pattern drift or proxy evasion, material accessibility drift or paper-only accommodation, material assessment-opacity drift, credential-gatekeeping drift, or imposed-obsolescence drift in learning systems, material false-trust drift, perverse-incentive drift, or recovery-integrity drift in reliance pathways, stakeholder evidence, system-class drift, data-type or handling drift, or classification drift reopens review under Chapter Eleven and incorporated system implementation duties. Reopening on drift, dependency growth, or credible challenge protects the **Continuity** aim under [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) where shared systems gate durable supply of survival essentials, educational access, capability-building pathways, trustworthy reliance, or safety — stale certification must not substitute for current Rights-Floor compliance.
+A **System Alignment Certification Record** is scope-bound and time-bound. Material change, misalignment, concealed behavior, dependency growth, new risk, incident history, credible challenge under [§7](#7-supervisory-sequence-and-contestability-chain), ecological objection, material footprint misrepresentation or misalignment, material discrimination-pattern drift or proxy evasion, material accessibility drift or paper-only accommodation, material assessment-opacity drift, credential-gatekeeping drift, or imposed-obsolescence drift in learning systems, material false-trust drift, perverse-incentive drift, or recovery-integrity drift in reliance pathways, stakeholder evidence, system-class drift, data-type or handling drift, or classification drift reopens review under Chapter Eleven and incorporated system implementation duties. Reopening on misalignment, dependency growth, or credible challenge protects the **Continuity** aim under [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) where shared systems gate durable supply of survival essentials, educational access, capability-building pathways, trustworthy reliance, or safety — stale certification must not substitute for current Rights-Floor compliance.
 
 Evasion of this chapter's obligations is governed by [Chapter Three §1 — Definition Integrity and Anti-Evasion Constraints](core_02-04_definition_mechanics.md#1-definition-integrity-and-anti-evasion-constraints) and [§2.1 Evasion is Non-Compliance](core_02-04_definition_mechanics.md#21-evasion-is-non-compliance), including scope-and-boundary evasion under [§2.2 Non-Reductive Evasion Types](core_02-04_definition_mechanics.md#22-non-reductive-evasion-types). This chapter does not restate that discipline.
 

@@ -405,7 +405,7 @@ Availability, observability, prior publication, platform possession, or technica
 
 <br>
 
-*In plain terms: when a metric drifts from what it was meant to measure, leaning on that metric no longer counts as compliance. The drift must be fixed on the record, with documented escalation and review.*
+*In plain terms: when a metric diverges from what it was meant to measure, leaning on that metric no longer counts as compliance. The divergence must be fixed on the record, with documented escalation and review.*
 
 Where materially relevant evidence indicates **proxy divergence** from constitutional objectives, compliance claims relying on such proxies are **invalid** unless corrected.
 

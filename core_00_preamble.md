@@ -142,7 +142,7 @@ Each summary states what the chapter does and what it produces.
 **Chapter Two — Definition structure** ([`core_02-04_definition_mechanics.md`](core_02-04_definition_mechanics.md))
 
 - **What it does:** Defines how constitutional terms are built — the Ontological/Evaluative/Compliance (O/E/C) component structure, alignment requirements, and component rules that keep definitions precise and usable across the corpus.
-- **What it produces:** A shared grammar for definitions so later chapters do not drift into vague labels, hidden assumptions, or incompatible term shapes.
+- **What it produces:** A shared grammar for definitions so later chapters do not fall into vague labels, hidden assumptions, or incompatible term shapes.
 
 **Chapter Three — Definition integrity** ([`core_02-04_definition_mechanics.md`](core_02-04_definition_mechanics.md))
 

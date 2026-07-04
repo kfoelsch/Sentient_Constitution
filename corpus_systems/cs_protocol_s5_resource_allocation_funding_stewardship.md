@@ -110,7 +110,7 @@ One such reference model includes **a portion allocated to builders and maintain
 
 **Default funding models must** **remain easy to understand and verify** (**Article XX-A** and **Article XV-A**). **They** must **be disclosed transparently**. **They** must **remain subject to modification through stakeholder deliberation** (**Article XI**; **Chapter Six**, section **4**, where binding collective choice applies).
 
-**Reference allocation guidance.** To support early system design and reduce path-dependent drift.
+**Reference allocation guidance.** To support early system design and reduce path-dependent misalignment.
 systems may consider illustrative allocation patterns appropriate to their role and criticality. For example, substrate systems may emphasize stability, with higher allocation toward operations, security, and ecosystem reserves.
 
 Non-substrate systems may allocate a greater share toward builder incentives and innovation.

@@ -57,6 +57,36 @@ _TRIBUNAL_ALLOWED_EXTERNAL = re.compile(
     re.IGNORECASE,
 )
 _STANDING_CALCULUS = re.compile(r"\bstanding[- ]calculus\b", re.IGNORECASE)
+_DRIFT_WORD = re.compile(r"\bdrift\b", re.IGNORECASE)
+_DRIFT_ALLOWLIST_STRIP = [
+    re.compile(r"\banti-drift\b", re.I),
+    re.compile(r"\bno silent drift\b", re.I),
+    re.compile(r"\bsilent drift\b", re.I),
+    re.compile(r"\bno-silent-drift\b", re.I),
+    re.compile(r"\bclassification drift\b", re.I),
+    re.compile(r"\bversion drift\b", re.I),
+    re.compile(r"\beditorial drift\b", re.I),
+    re.compile(r"\bcross-layer drift\b", re.I),
+    re.compile(r"\bcompanion-file drift\b", re.I),
+    re.compile(r"\bgovernance fork drift\b", re.I),
+    re.compile(r"reopening-drift", re.I),
+    re.compile(r"drift-and-non-evasion", re.I),
+    re.compile(r"\bdrift-prone\b", re.I),
+    re.compile(r"\bdrift checks\b", re.I),
+    re.compile(r"\bhigh-confidence drift\b", re.I),
+    re.compile(r"\bDefects and drift\b", re.I),
+    re.compile(r"\bMisclassification and drift\b", re.I),
+    re.compile(
+        r"\b(?:control|competency|extraction|accessibility|handling|footprint|system-class|"
+        r"secrecy-duration|path-dependent|retaliatory|assessment-opacity|credential-gatekeeping|"
+        r"imposed-obsolescence|false-trust|perverse-incentive|recovery-integrity|"
+        r"discrimination-pattern|proxy|data-type|credential|reclassification|handling|"
+        r"footprint misrepresentation and|misrepresentation and|resource-flow misrepresentation, extraction|"
+        r"discrimination-pattern|accessibility|assessment-opacity|credential gatekeeping, and imposed-obsolescence|"
+        r"false-trust|perverse-incentive|recovery-integrity) drift\b",
+        re.I,
+    ),
+]
 
 _RIGHTS_FLOOR_CASING = re.compile(r"\b(?:rights floor|rights floors|rights-floor)\b")
 _FOUNDATIONAL_RIGHTS_CASING = re.compile(r"\b(?:Foundational rights|foundational rights)\b")
@@ -275,6 +305,54 @@ def scan_avoid_standing_calculus(rel_path: str, text: str) -> list[Finding]:
                     file=rel_path,
                     line=idx,
                     rule="avoid-standing-calculus",
+                    text=raw.strip(),
+                ),
+            )
+
+    return findings
+
+
+def _mask_allowlisted_drift_spans(line: str) -> str:
+    masked = line
+    for pat in _DRIFT_ALLOWLIST_STRIP:
+        masked = pat.sub(lambda m: " " * len(m.group(0)), masked)
+    return masked
+
+
+def scan_avoid_bare_drift(rel_path: str, text: str) -> list[Finding]:
+    """Reject bare **drift** for stewardship/governance/alignment sense; prefer misalignment."""
+    if rel_path in {
+        "doc_architecture.md",
+        "TODO.md",
+        "CONSTITUTIONAL_REGRESSION_SCENARIOS.md",
+    }:
+        return []
+    if rel_path.startswith("archive/") or rel_path.startswith("implementation/"):
+        return []
+    if rel_path == "doc_architecture.md" and "`drift`" in text:
+        pass
+
+    findings: list[Finding] = []
+    lines = text.splitlines()
+    in_fence = False
+
+    for idx, raw in enumerate(lines, start=1):
+        if raw.strip().startswith("```"):
+            in_fence = not in_fence
+            continue
+        if in_fence:
+            continue
+        if rel_path in {"doc_architecture.md", ".cursor/rules/sentient-constitution.mdc"}:
+            if "`drift`" in raw or "lexical_guardrails" in raw:
+                continue
+
+        check_line = _mask_allowlisted_drift_spans(_mask_inline_code_and_link_targets(raw))
+        if _DRIFT_WORD.search(check_line):
+            findings.append(
+                Finding(
+                    file=rel_path,
+                    line=idx,
+                    rule="avoid-bare-drift",
                     text=raw.strip(),
                 ),
             )
@@ -612,6 +690,7 @@ def report_markdown(run_date: str, scope: list[str], findings: list[Finding]) ->
         "- **`avoid-court-family`:** reject **court** / **courts** in institutional senses → prefer **forum** / **forums**, **forum family**, or **adjudicative body**.",
         "- **`avoid-tribunal-family`:** reject internal Chapter Eleven / forum-governance **tribunal** / **tribunals** → prefer **forum** / **forums**, **forum family**, **panel**, **bench**, or **adjudicative body**. **Allowed:** external or historical tribunal wording where source fidelity or external legal-order references require it.",
         "- **`avoid-standing-calculus`:** reject **standing calculus** / **standing-calculus** (undefined jargon) → prefer **standing-record classification under Chapter Eight**, **classify standing records** on the Contribution and Violation axes, or other explicit Chapter Eight wording.",
+        "- **`avoid-bare-drift`:** reject bare **drift** for stewardship, governance, incentive, or alignment divergence → prefer **misalignment** or **constitutional misalignment**. **Allowed:** **anti-drift**, **classification drift**, **version drift**, **editorial drift**, **cross-layer drift**, **Defects and drift**, certification compounds (`extraction drift`, etc.), and `reopening-drift` anchors.",
         "- **`load-bearing-rights-floor-casing`:** reject lowercase **rights floor**, **rights floors**, and **rights-floor** outside Markdown link targets and inline code → use **Rights Floor**, **Rights Floors**, or **Rights-Floor** for the named Chapter Six layer.",
         "- **`load-bearing-foundational-rights-casing`:** reject **Foundational rights** / **foundational rights** outside Markdown link targets and inline code → use **Foundational Rights** when naming the Chapter Six title or layer.",
         "- **`avoid-should-not-prohibitions`:** reject **should not** in corpus prose → use **must not** for binding negative constraints.",
@@ -679,6 +758,7 @@ def main() -> int:
         findings.extend(scan_avoid_court_family(rel_path, text))
         findings.extend(scan_avoid_tribunal_family(rel_path, text))
         findings.extend(scan_avoid_standing_calculus(rel_path, text))
+        findings.extend(scan_avoid_bare_drift(rel_path, text))
         findings.extend(scan_load_bearing_capitalization(rel_path, text))
         findings.extend(scan_avoid_should_not_prohibitions(rel_path, text))
         findings.extend(scan_avoid_definition_map_label(rel_path, text))

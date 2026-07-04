@@ -13,13 +13,10 @@
 
 </details>
 
-<br>
+<details>
+<summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): principle hierarchy and reading arc (Part C)</span></strong></summary>
 
----
-<a id="chapter-01-principles-and-constraints"></a>
-<a id="chapter-01-part-b-stewardship-and-governance"></a>
-<a id="chapter-01-part-c-stewardship-and-governance"></a>
-## CHAPTER 01, PART C: STEWARDSHIP AND GOVERNANCE
+> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other chapters. Per-section **Trace** and **Definitions · Evaluation · Compliance** widgets carry routing at the point each § materially invokes a term; this block is a part-level crosswalk before §§9–14.
 
 **Principle hierarchy (Part C).** At principle layer:
 
@@ -29,6 +26,16 @@
 12. **[Market Structure](core_05a_accountability_definitions.md#market-structure-constitutional)** at [§12](#12-market-structure) supplies the anti-concentration discipline that keeps that capacity contestable in practice.
 13. **[Systemic Evaluation Requirement](#13-systemic-evaluation-requirement)** verifies whole-system scope, dependency, and incentive alignment before compliance or governance claims stand.
 14. **[Integrated Application](#14-integrated-application)** is the chapter capstone: later chapters are read through this chapter's integrated-value framework.
+
+</details>
+
+<br>
+
+---
+<a id="chapter-01-principles-and-constraints"></a>
+<a id="chapter-01-part-b-stewardship-and-governance"></a>
+<a id="chapter-01-part-c-stewardship-and-governance"></a>
+## CHAPTER 01, PART C: STEWARDSHIP AND GOVERNANCE
 
 <a id="9-stewardship-and-distributed-understanding"></a>
 ### 9. Stewardship and Distributed Understanding
@@ -76,13 +83,16 @@
 
 *In plain terms: systems that affect sentients' lives must not be run only by a sealed-off priesthood of specialists. Sentients need real paths to help operate, maintain, oversee, and improve them — and enough understanding to notice problems and push back. **§9.1–§10.2** carry that discipline: hands-on stewardship, understanding scaled to how much you depend on a system, institutional learning habits, an openness aspiration when safety allows, and clear limits so this section does not override safety, truth, justified secrecy, or the specific rights guaranteed in Chapter Six.*
 
-Stewardship requires real responsibility with genuine effect — [**Strategic Stewardship Obligation**](core_05c_continuity_definitions.md#strategic-stewardship-obligation-constitutional), [**Meaningful Agency**](core_05p_participation_definitions.md#meaningful-agency) — and records and pathways others can verify and challenge — [**Auditability**](core_05o_oversight_definitions.md#auditability), [**Contestability**](core_05a_accountability_definitions.md#contestability). Distributed understanding requires workable ways to learn how shared systems operate and what they are doing — [**Educational Agency**](core_05p_participation_definitions.md#educational-agency), [**Transparency**](core_05o_oversight_definitions.md#transparency). Together they carry the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) **participation**, **oversight**, and **timeliness** legs at principle layer, scaled to [material stake](core_00_preamble.md#material-stake), and advance the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims). Where material disputes require contestable challenge, remediation sequencing, or pattern learning beyond day-to-day stewardship roles, that architecture reads through the **forum families** under [Chapter Eleven §1 — Purpose and role](core_11-11_forum.md#2-purpose-and-role) and [§4 — Forum families](core_11-11_forum.md#4-forum-families); operative mechanics remain in [corpus_forum.md](corpus_forum.md). Good stewards detect drift early, escalate within tier-appropriate windows, and start fixing problems without unnecessary delay.
+- **Stewardship** requires real responsibility with genuine effect — [**Strategic Stewardship Obligation**](core_05c_continuity_definitions.md#strategic-stewardship-obligation-constitutional), [**Meaningful Agency**](core_05p_participation_definitions.md#meaningful-agency) — and records and pathways others can verify and challenge — [**Auditability**](core_05o_oversight_definitions.md#auditability), [**Contestability**](core_05a_accountability_definitions.md#contestability).
+- **Distributed understanding** requires workable ways to learn how shared systems operate and what they are doing — [**Educational Agency**](core_05p_participation_definitions.md#educational-agency), [**Transparency**](core_05o_oversight_definitions.md#transparency).
+- Together they carry the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) **participation**, **oversight**, and **timeliness** legs at principle layer, scaled to [material stake](core_00_preamble.md#material-stake), and advance the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims).
+- **Bigger disputes.** When day-to-day stewardship is not enough — when people need a real way to challenge a decision, a clear repair order, or a way to learn from a repeating pattern — that work goes to the **forum families** under [Chapter Eleven §1 — Purpose and role](core_11-11_forum.md#2-purpose-and-role) and [§4 — Forum families](core_11-11_forum.md#4-forum-families). The detailed rules for how those forums run are in [corpus_forum.md](corpus_forum.md).
+- **Stay ahead of problems.** Good stewards catch trouble early, raise it on time for their role, and start fixing it without sitting on avoidable delay.
+- **Backstops, not substitutes.** Review and correction remain mandatory. They do not replace proactive design, role pathways, observability, and repair capacity that prevent foreseeable constitutional misalignment before harm appears.
 
-**Materiality**, **Dependency**, and **Accessibility** decide how much understanding and access sentients must get — scaling up when impact and reliance are higher. **Safety**, **Truth**, **Necessity**, **Proportionality**, **Avoidable Burden**, and **Epistemic Integrity** set the limits so those duties stay fairly sized, honest, and respectful of legitimate security needs.
+**Materiality**, **Dependency**, and **Accessibility** set the priority for distributing understanding and access — with the strongest focus where impact and reliance are higher. **Safety**, **Truth**, **Necessity**, **Proportionality**, **Avoidable Burden**, and **Epistemic Integrity** set the limits so those duties stay fairly sized, honest, and respectful of legitimate security needs.
 
-Review and correction remain mandatory backstops. They do not replace proactive design, role pathways, observability, and repair capacity that prevent foreseeable constitutional misalignment before harm appears.
-
-**Scope and limits.** **§9** gives principle-layer direction, not a one-size-fits-all rulebook. It does **not** require everyone to rotate through every role, override justified specialization, or exceed legitimate confidentiality or security limits under [6.2 Epistemic Disclosure Constraints](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints) and applicable **Chapter Six** protections. **§9** does **not** create a new **Chapter Six** Rights-Floor — education, participation, transparency, comprehensibility, and governance-process floors remain owned by the **Chapter Six** articles cited in the **§9** trace block.
+**Scope and limits.** **§9** gives principle-layer direction, not a one-size-fits-all rulebook. It does **not** require everyone to rotate through every role, override justified specialization, or exceed legitimate confidentiality or security limits under [6.2 Epistemic Disclosure Constraints](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints) and applicable **Chapter Six** protections.
 
 <a id="91-stewardship"></a>
 #### 9.1 Stewardship
@@ -90,7 +100,7 @@ Review and correction remain mandatory backstops. They do not replace proactive 
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [§9 Stewardship and Distributed Understanding](#9-stewardship-and-distributed-understanding) (parent, including *In plain terms* above); [§11 Shared-System Capacity](#11-shared-system-capacity); [4. Trust](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity).
-- Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation** leg (consequential roles in operation, maintenance, and improvement); **oversight** leg (records, audit paths, and challengeable observability); **timeliness** leg (detect drift early, escalate within tier-appropriate windows, start fixing problems without unnecessary delay); [Timeliness](core_05a_accountability_definitions.md#timeliness-constitutional).
+- Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation** leg (consequential roles in operation, maintenance, and improvement); **oversight** leg (records, audit paths, and challengeable observability); **timeliness** leg (detect misalignment early, escalate within tier-appropriate windows, start fixing problems without unnecessary delay); [Timeliness](core_05a_accountability_definitions.md#timeliness-constitutional).
 - Downstream: [§9.2 Distributed Understanding](#92-distributed-understanding); [§9.3 Institutional Development](#93-institutional-development); [Chapter Seven — System Alignment Certification](core_07-07_system_alignment_certification.md#chapter-seven-system-alignment-certification) (*certification records for materially impactful systems before standing*); [Chapter Eight — Contribution, Violation, and Standing Model](core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) (*standing effect implements distributed competence and consequential stewardship*); [Article XVIII: Standing and Participation Status](core_06-06_rights_part_c.md#article-xviii-standing-and-participation-status).
 
 </details>
@@ -110,11 +120,11 @@ Review and correction remain mandatory backstops. They do not replace proactive 
 
 **Stewardship**, in **§9**, is consequential participation in operation, maintenance, oversight, and improvement — the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) **participation**, **oversight**, and **timeliness** legs made operational. It means hands-on engagement with the problems systems actually face, not ceremony or nominal consultation alone.
 
-Pathways may separate **learning-dominant** and **operations-dominant** roles. The constitutional requirement is that **movement between those modes remains feasible over time** where impact, safety, and consent constraints permit, so judgment and institutional memory do not concentrate beyond reach of affected communities.
-
 Good stewardship produces distributed understanding. It creates the documentation, teaching, role pathways, feedback practices, and repair habits that allow affected sentients to understand and challenge the systems they materially depend on.
 
-Stewardship favors proactive governance, system design, and constitutional alignment over reactive symptom-fixing after harm or drift has already appeared. Stewards must detect foreseeable drift early, escalate within tier-appropriate windows under [Timeliness](core_05a_accountability_definitions.md#timeliness-constitutional), and start fixing problems without unnecessary delay. Review, correction, and remediation remain mandatory where evidence warrants them, but they are not substitutes for designing incentives, controls, role pathways, observability, and repair capacity to prevent foreseeable constitutional misalignment in the first place.
+Pathways may separate **learning-dominant** and **operations-dominant** roles. The constitutional requirement is that **movement between those modes remains feasible over time** where impact, safety, and consent constraints permit, so judgment and institutional memory do not concentrate beyond reach of affected communities.
+
+Stewardship favors proactive governance, system design, and constitutional alignment over reactive symptom-fixing after harm or misalignment has already appeared. Stewards must detect foreseeable misalignment early, escalate within tier-appropriate windows under [Timeliness](core_05a_accountability_definitions.md#timeliness-constitutional), and start fixing problems without unnecessary delay. Review, correction, and remediation remain mandatory where evidence warrants them, but they are not substitutes for designing incentives, controls, role pathways, observability, and repair capacity to prevent foreseeable constitutional misalignment in the first place.
 
 <a id="92-distributed-understanding"></a>
 #### 9.2 Distributed Understanding
@@ -171,7 +181,7 @@ Distributed understanding does **not** require every sentient to master every su
 
 <br>
 
-*In plain terms: institutions have to actually learn — not just upgrade software while those in charge stay clueless. That means feedback loops, documented fixes when things drift, and keeping competence from walking out the door. Tracking how performance varies over time can help, but numbers alone do not count: when indicators look wrong, someone has to investigate and fix the root cause. Dashboards must be honest, scaled to real impact, and written so affected sentients can understand them — not gamed to look good while nothing changes.*
+*In plain terms: institutions have to actually learn — not just upgrade software while those in charge stay clueless. That means feedback loops, documented fixes when things fall out of alignment, and keeping competence from walking out the door. Tracking how performance varies over time can help, but numbers alone do not count: when indicators look wrong, someone has to investigate and fix the root cause. Dashboards must be honest, scaled to real impact, and written so affected sentients can understand them — not gamed to look good while nothing changes.*
 
 **Institutional development** is the paired obligation that organizations and shared systems **learn** — a core requirement of the **Continuity** aim under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims): feedback loops, documented correction, strategy alignment, and retention of competence that support repair and adaptation. It carries the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) **participation** and **oversight** legs through institutional learning that keeps competence, feedback, and scrutiny pathways live rather than static. It is not satisfied by upgrading technical artifacts while leaving governance and workforce understanding static. It reads together with [Strategic Stewardship Obligation](core_05c_continuity_definitions.md#strategic-stewardship-obligation-constitutional) and [Auditability](core_05o_oversight_definitions.md#auditability) where materially relevant.
 
@@ -290,7 +300,7 @@ This does **not** elevate openness above **Safety**, **Truth**, justified confid
 
 **Governance** at principle layer means the structures, rules, allocation of authority, and processes by which already-authorized systems and institutions are directed and held accountable — as defined in Chapter Five ([Governance](core_05a_accountability_definitions.md#governance)) and operationalized under **Chapter Twelve** for the **Constitutional Contract Layer** and stakeholder participation layers stated in [Chapter 00](core_00_preamble.md#chapter-00-preamble--foundational-requirements). Authorized governance must advance the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) under the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), scaled to [material stake](core_00_preamble.md#material-stake).
 
-Governance is **necessary** but **not sufficient**. It must give way to **Stewardship** when rule-following for its own sake, short-term optimization, or institutional self-protection would undermine durable constitutional alignment, [**Continuity**](core_00_preamble.md#continuity), [**Flourishing**](core_00_preamble.md#flourishing), or Rights-Floor integrity.
+Governance is **necessary** but **not sufficient**. It must give way to **Stewardship** when rule-following for its own sake, short-term optimization, or institutional self-protection would undermine durable constitutional alignment, [**Continuity**](core_00_preamble.md#continuity), [**Flourishing**](core_00_preamble.md#flourishing), or Rights-Floor integrity. Where governance and stewardship conflict, stewardship discipline controls at principle layer unless [Necessity](core_05a_accountability_definitions.md#necessity) and [Proportionality](core_05a_accountability_definitions.md#proportionality) expressly justify a bounded, time-limited exception with correction paths.
 
 Governance authority must remain justified over time. Material governance rules, participation mechanisms, weighting models, funding structures, and institutional design choices must remain open to periodic revalidation under criteria visible to materially affected stakeholders. Inertia, convenience, historical precedent, or path dependence alone cannot entrench arrangements that lack continued constitutional alignment.
 
@@ -362,7 +372,7 @@ Incentive structures that materially benefit from anti-constitutional conduct mu
 
 <a id="1022-misalignment-correction-and-capture-response"></a>
 
-*In plain terms: §5.1 covers honest recovery from system disturbance. This subsection covers governance correction when incentives or control structures drift out of alignment. Concentrated or hidden control that defeats challenge, oversight, accountability, or durable **Continuity** must be disclosed, mitigated, and escalated — not absorbed as ordinary operation.*
+*In plain terms: §5.1 covers honest recovery from system disturbance. This subsection covers governance correction when incentives or control structures fall out of alignment. Concentrated or hidden control that defeats challenge, oversight, accountability, or durable **Continuity** must be disclosed, mitigated, and escalated — not absorbed as ordinary operation.*
 
 Where constitutional misalignment is identified, systems must modify, constrain, or override such incentives to restore alignment and preserve [**Continuity**](core_00_preamble.md#continuity) under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims).
 
@@ -545,6 +555,8 @@ They **must not** treat **symbolic** participation as a **substitute** for **con
 <br>
 
 *In plain terms: shared systems should help sentients live better over time — more real capacity, less waste. **Productive Capacity** is the durable ability to turn time, effort, and resources into constitutionally aligned outcomes. **Constitutional Efficiency** asks whether that happens without burning more sentient time, attention, and shared resources than necessary. Neither label counts if the "gain" comes from hoarding wealth or power, cheating metrics, stripping rights, or loading harm onto others or the planet. Anti-concentration discipline for contestable productive conditions appears in **[§12 Market Structure](#12-market-structure)**.*
+
+**[Shared-System Capacity](core_05c_continuity_definitions.md#shared-system-capacity-constitutional)** is the durable, contestable ability stewardship and governance jointly produce — an **instrumental outcome** toward the **Flourishing** aim under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims), not a freestanding trump value.
 
 **Productive Capacity** and **Constitutional Efficiency** work as a pair. **Productive Capacity** is the durable ability to achieve constitutionally aligned outcomes. **Constitutional Efficiency** is disciplined improvement in outcomes per unit of sentient time, attention, effort, coordination, and shared resources consumed.
 
