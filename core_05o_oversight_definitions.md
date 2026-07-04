@@ -232,7 +232,7 @@ This band holds **Oversight**-leg definitions from the [Constitutional Tetrad](.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [11.1 Required Evaluation Factors](core_01_b_stewardship_capacity_principles.md#131-required-evaluation-factors) (aggregation and boundary integrity in evaluation); [Chapter One §6.3.2 Proxy-Divergence Invalidation](core_01_a_values_principles.md#632-proxy-divergence-invalidation) (metric/reality gaps that can manipulate materiality).
+- Downstream: Principles: [11.1 Required Evaluation Factors](core_01_b_stewardship_capacity_principles.md#131-required-evaluation-factors) (aggregation and boundary integrity in evaluation); [§6.2.4 Proxy-Divergence Invalidation](core_01_a_values_principles.md#632-proxy-divergence-invalidation) (metric/reality gaps that can manipulate materiality).
 - Read with: [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination), [System Boundaries](core_05c_continuity_definitions.md#system-boundaries), [System Boundary Integrity](core_05c_continuity_definitions.md#system-boundary-integrity), [Systemic Materiality](core_05a_accountability_definitions.md#systemic-materiality), [Auditability](core_05o_oversight_definitions.md#auditability), and [Accountability](core_05a_accountability_definitions.md#accountability).
 
 </details>
@@ -318,7 +318,7 @@ This band holds **Oversight**-leg definitions from the [Constitutional Tetrad](.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [Chapter One §6.3.2 Proxy-Divergence Invalidation](core_01_a_values_principles.md#632-proxy-divergence-invalidation), [11.1 Required Evaluation Factors](core_01_b_stewardship_capacity_principles.md#131-required-evaluation-factors), and [§10 Governance Under Stewardship Discipline](core_01_b_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline).
+- Downstream: Principles: [§6.2.4 Proxy-Divergence Invalidation](core_01_a_values_principles.md#632-proxy-divergence-invalidation), [11.1 Required Evaluation Factors](core_01_b_stewardship_capacity_principles.md#131-required-evaluation-factors), and [§10 Governance Under Stewardship Discipline](core_01_b_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline).
 - Cluster component: [the dependent cluster *Proxy Integrity and Indicator-Reality Alignment*](core_05c_continuity_definitions.md#materiality-semi-independent).
 - Read with: [Proxy Metric Gaming and Indicator-Reality Gaps](core_05o_oversight_definitions.md#proxy-metric-gaming-and-indicator-reality-gaps), [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination), [Materiality Integrity Constraint](core_05o_oversight_definitions.md#materiality-integrity-constraint), [System Boundary Integrity](core_05c_continuity_definitions.md#system-boundary-integrity), [Incentive Alignment](core_05i_integrative_definitions.md#incentive-alignment), [Auditability](core_05o_oversight_definitions.md#auditability), and [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint).
 
@@ -341,7 +341,7 @@ This band holds **Oversight**-leg definitions from the [Constitutional Tetrad](.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [Chapter One §6.3.2 Proxy-Divergence Invalidation](core_01_a_values_principles.md#632-proxy-divergence-invalidation), [§10 Governance Under Stewardship Discipline](core_01_b_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline), and Chapter Four verification duties where metrics become evidence of compliance.
+- Downstream: Principles: [§6.2.4 Proxy-Divergence Invalidation](core_01_a_values_principles.md#632-proxy-divergence-invalidation), [§10 Governance Under Stewardship Discipline](core_01_b_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline), and Chapter Four verification duties where metrics become evidence of compliance.
 - Cluster component: [the dependent cluster *Proxy Integrity and Indicator-Reality Alignment*](core_05c_continuity_definitions.md#materiality-semi-independent).
 - Read with: [Proxy Divergence](core_05o_oversight_definitions.md#proxy-divergence), [Incentive Alignment](core_05i_integrative_definitions.md#incentive-alignment), [Auditability](core_05o_oversight_definitions.md#auditability), [Transparency](core_05o_oversight_definitions.md#transparency), [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination), and [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint).
 

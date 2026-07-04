@@ -183,7 +183,7 @@ This band holds **Accountability**-leg definitions: contestability, redress, gov
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [Chapter One §5 Freedom](#5-freedom-bounded-agency)-bounded-agency) and [8. Prohibition on Absolute Override](#7-prohibition-on-absolute-override).
+- Downstream: Principles: [Chapter One §5 Freedom](#5-freedom-bounded-agency)-bounded-agency), [§6.1.2 Harm Minimization](core_01_a_values_principles.md#613-harm-minimization-principle), and [8. Prohibition on Absolute Override](#7-prohibition-on-absolute-override).
 - Cluster component: [Chapter Five Chapter One §8.27 *Proportionality, Necessity, Feasibility, Avoidable Burden, Burden-Reduction Duty, Constitutional Efficiency, Harm Minimization (Tradeoff Selection), and Productive Capacity*](core_05c_continuity_definitions.md#proportionality-necessity-feasibility-burden-and-efficiency-cluster)
 - Read with: Harm, Risk, Necessity, and Proportionality.
 
@@ -206,7 +206,7 @@ This band holds **Accountability**-leg definitions: contestability, redress, gov
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [Chapter One §5 Freedom](#5-freedom-bounded-agency)-bounded-agency), [5. Interaction and Conflict Resolution](#6-interaction-and-conflict-resolution), [10.2.1 Preservation of Epistemic Integrity](core_01_a_values_principles.md#621-preservation-of-epistemic-integrity), [§6.3.1 Rights-Collision Decision Test](#631-rights-collision-decision-test), and [8. Prohibition on Absolute Override](#7-prohibition-on-absolute-override).
+- Downstream: Principles: [Chapter One §5 Freedom](#5-freedom-bounded-agency)-bounded-agency), [§6.1.1 Necessity](core_01_a_values_principles.md#612-necessity-principle), [5. Interaction and Conflict Resolution](#6-interaction-and-conflict-resolution), [10.2.1 Preservation of Epistemic Integrity](core_01_a_values_principles.md#621-preservation-of-epistemic-integrity), [§6.3.1 Rights-Collision Decision Test](#631-rights-collision-decision-test), and [8. Prohibition on Absolute Override](#7-prohibition-on-absolute-override).
 - Cluster component: [Chapter Five Chapter One §8.27 *Proportionality, Necessity, Feasibility, Avoidable Burden, Burden-Reduction Duty, Constitutional Efficiency, Harm Minimization (Tradeoff Selection), and Productive Capacity*](core_05c_continuity_definitions.md#proportionality-necessity-feasibility-burden-and-efficiency-cluster)
 - Read with: Proportionality, Feasibility, Harm, Risk, and Freedom (Bounded Agency).
 
