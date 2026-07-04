@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-07-03T23:57:51+00:00",
+  "generated_at": "2026-07-04T06:34:34+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -592,7 +592,7 @@
         "targets": [
           {
             "file": "core_00_preamble.md",
-            "count": 110,
+            "count": 105,
             "anchors": [
               "#constitutional-tetrad",
               "#continuity",
@@ -605,7 +605,7 @@
           },
           {
             "file": "core_01_b_stewardship_capacity_principles.md",
-            "count": 36,
+            "count": 34,
             "anchors": [
               "#10-governance-under-stewardship-discipline",
               "#102-incentive-alignment-and-system-capture",
@@ -625,7 +625,7 @@
           },
           {
             "file": "core_02-04_definition_mechanics.md",
-            "count": 4,
+            "count": 7,
             "anchors": []
           },
           {
@@ -637,7 +637,7 @@
           },
           {
             "file": "core_05a_accountability_definitions.md",
-            "count": 152,
+            "count": 156,
             "anchors": [
               "#accountability",
               "#contestability",
@@ -647,6 +647,7 @@
               "#feasibility",
               "#feasibility-c",
               "#feasibility-e",
+              "#foreseeability",
               "#governance",
               "#governance-architecture-oversight-decentralization-and-concentration-cluster",
               "#harm",
@@ -671,11 +672,12 @@
           },
           {
             "file": "core_05c_continuity_definitions.md",
-            "count": 146,
+            "count": 151,
             "anchors": [
               "#avoidable-burden",
               "#avoidable-burden-c",
               "#avoidable-burden-e",
+              "#contribution",
               "#dependency",
               "#dependency-c",
               "#dependency-e",
@@ -719,7 +721,7 @@
           },
           {
             "file": "core_05i_integrative_definitions.md",
-            "count": 28,
+            "count": 29,
             "anchors": [
               "#accountability-contestability-and-collective-accountability-failure-cluster",
               "#authority-stack",
@@ -741,7 +743,7 @@
           },
           {
             "file": "core_05o_oversight_definitions.md",
-            "count": 165,
+            "count": 169,
             "anchors": [
               "#auditability",
               "#auditability-c",
@@ -779,7 +781,7 @@
           },
           {
             "file": "core_05p_participation_definitions.md",
-            "count": 152,
+            "count": 153,
             "anchors": [
               "#accessibility-constitutional",
               "#accessibility-constitutional-c",
@@ -838,7 +840,7 @@
           },
           {
             "file": "core_06-06_rights_part_a.md",
-            "count": 5,
+            "count": 6,
             "anchors": [
               "#article-iii-b-equal-educational-access",
               "#chapter-six-foundational-rights"
@@ -861,7 +863,7 @@
           },
           {
             "file": "core_06-06_rights_part_c.md",
-            "count": 57,
+            "count": 58,
             "anchors": [
               "#article-xii-b-right-to-challenge-review-and-redress",
               "#article-xii-right-to-reliable-and-trustworthy-systems",
@@ -882,11 +884,24 @@
           },
           {
             "file": "core_06-06_rights_part_d.md",
-            "count": 7,
+            "count": 8,
             "anchors": [
               "#article-xxiii-conflict-resolution-escalation-and-emergency-proportionality",
+              "#article-xxiii-d-emergency-measures-and-continuation-burden",
               "#article-xxiv-a-retrospective-review-and-disclosure"
             ]
+          },
+          {
+            "file": "core_07-07_system_alignment_certification.md",
+            "count": 2,
+            "anchors": [
+              "#chapter-seven-system-alignment-certification"
+            ]
+          },
+          {
+            "file": "core_08-08_standing_assessment.md",
+            "count": 1,
+            "anchors": []
           },
           {
             "file": "core_09-09_standing_integration.md",

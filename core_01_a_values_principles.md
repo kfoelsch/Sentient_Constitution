@@ -84,14 +84,14 @@
 
 <a id="two-constitutional-aims"></a><a id="flourishing"></a><a id="continuity"></a>This chapter establishes the principles and constraints that govern interpretation, application, and evolution of this Constitution. It develops the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims), [**Flourishing**](core_00_preamble.md#flourishing), and [**Continuity**](core_00_preamble.md#continuity) established in [Chapter 00 §1 The Model](core_00_preamble.md#the-model) into operative principles and constraints. Canonical principle-layer definitions live in Chapter 00; this chapter applies them.
 
-Those aims must be pursued together, always within the non-negotiable substantive constraints and rights protections established in this Constitution. The [**Constitutional Tetrad**](core_00_preamble.md#constitutional-tetrad) governs how that pursuit remains legitimate — scaled to [**material stake**](core_00_preamble.md#material-stake).
+Those aims must be pursued together, always within the non-negotiable principle constraints and rights protections established in this Constitution. The [**Constitutional Tetrad**](core_00_preamble.md#constitutional-tetrad) governs how that pursuit remains legitimate — scaled to [**material stake**](core_00_preamble.md#material-stake).
 
 These values:
 - are not independent, and in ordinary operation they are not strictly hierarchical.
 - function as interacting principles and constraints that must be evaluated together.
 - apply to all "systems," which include technical, organizational, economic, socio-technical structures, and ecosystems that materially affect sentients and the planet Earth.
 
-No single principle may be applied in isolation where doing so would materially violate the others. Where tensions arise, systems must resolve them under the proportionality, necessity, and systemic-impact requirements stated in this chapter. Where unresolved conflict directly implicates non-negotiable substantive constraints, Chapter One, **§5** — Interaction and Conflict Resolution controls precedence.
+No single principle may be applied in isolation where doing so would materially violate the others. Where tensions arise, systems must resolve them under the proportionality, necessity, and systemic-impact requirements stated in this chapter. Where unresolved conflict directly implicates non-negotiable principle constraints, Chapter One, **§5** — Interaction and Conflict Resolution controls precedence.
 
 <a id="1-constitutional-interpretation"></a>
 <a id="2-constitutional-interpretation"></a>
@@ -134,7 +134,7 @@ Wellbeing is foundational for [Participation](core_05p_participation_definitions
 Wellbeing includes not only immediate effects but also indirect, delayed, cumulative, and cross-system consequences, evaluated under [**Chapters Two through Four**](core_02-04_definition_mechanics.md). At this value layer, wellbeing:
 - makes real participation possible — a voice that people lack the conditions to use is not meaningful participation
 - cannot be declared "achieved" by hitting a metric that has drifted from what actually matters
-- remains bounded by this chapter's non-negotiable substantive constraints: **Safety** and **Truth**
+- remains bounded by this chapter's non-negotiable principle constraints: **Safety** and **Truth**
 - cannot be invoked as a blanket justification for violating Safety, Truth, or rights protections
 
 #### 2.1 Fairness
@@ -144,11 +144,11 @@ Wellbeing includes not only immediate effects but also indirect, delayed, cumula
 - Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation** leg (access, voice, and contestability; general requirement, not [Stakeholder System Participation](core_05p_participation_definitions.md#stakeholder-status-emergency-and-participation-weight-cluster) alone); **accountability** leg where benefits and burdens attach.
 - Upstream: Principles: [3. Foundational Objective: Wellbeing](#2-foundational-objective-wellbeing) — including wellbeing as foundational for [Participation](core_05p_participation_definitions.md#participation-constitutional).
 - Downstream: [2.2 Recognition, Reinforcement, and Aspiration](#22-recognition-reinforcement-and-aspiration); [4. Trust](#4-system-stability-enabler-trust-coordination-integrity), [§9 Stewardship and Distributed Understanding](core_01_b_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding), [6. Interaction and Conflict Resolution](#6-interaction-and-conflict-resolution), and [§6.3.1 Rights-Collision Decision Test](#631-rights-collision-decision-test) where precedence and allocation choices must remain coherent and reviewable.
-- Subsections (reading order): [§2.1.1](#211-access-and-opportunity) · [§2.1.2](#212-fair-treatment) · [§2.1.3](#213-benefits-and-burdens).
+- Subsections (reading order): [§2.1.1](#211-access-and-opportunity) · [§2.1.2](#212-benefits-and-burdens) · [§2.1.3](#213-fair-treatment) · [§2.1.4](#214-unfair-treatment).
 - Downstream: Shapes the rights surface for equal standing, non-arbitrary treatment, meaningful challenge, and proportionate restriction limits.
   - Especially [Article V: Equal Basic Rights](core_06-06_rights_part_b.md#article-v-equal-basic-rights), [Article V-B: Nondiscrimination](core_06-06_rights_part_b.md#article-v-b-nondiscrimination), [Article IX: Self-Determination and Agency](core_06-06_rights_part_b.md#article-ix-self-determination-and-agency), [Article XII-B: Right to Challenge, Review, and Redress](core_06-06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress), and [Article XVIII-B: Contestability and Proportional Restriction Limits](core_06-06_rights_part_c.md#article-xviii-b-contestability-and-proportional-restriction-limits).
   - Where systematic classification or gravity labels carry sanctions or durable effect, read with [Chapter Ten, section 4 — Due-process safeguards for slot classification](core_10-10_misconduct.md#4-due-process-safeguards-for-slot-classification).
-  - Non-discrimination commitments are elaborated through Chapter Five [§2 — Protected Characteristics, Proxying, Intimate-Signal Gating, and Article X-C Status](core_05p_participation_definitions.md#fairness-and-protected-status-semi-independent), including [Protected Commercial Sexual Services Status and Article X-C Circumvention](core_05p_participation_definitions.md#protected-commercial-sexual-services-status-and-article-x-c-circumvention) where §2.1.2 fair-treatment rules implicate Article X-C.
+  - Non-discrimination commitments are elaborated through Chapter Five [§2 — Protected Characteristics, Proxying, Intimate-Signal Gating, and Article X-C Status](core_05p_participation_definitions.md#fairness-and-protected-status-semi-independent), including [Protected Commercial Sexual Services Status and Article X-C Circumvention](core_05p_participation_definitions.md#protected-commercial-sexual-services-status-and-article-x-c-circumvention) where §2.1.3 fair-treatment rules implicate Article X-C.
 - Read with: [Substantive Fairness](core_05p_participation_definitions.md#substantive-fairness-constitutional) and related Chapter Six Rights-Floor obligations where benefits, burdens, rewards, costs, duties, risks, contribution, need, or exposure are material; [Accessibility](core_05p_participation_definitions.md#accessibility-constitutional) where §2.1.1 access paths are material; [Proxy Divergence](core_05o_oversight_definitions.md#proxy-divergence) where aggregate metrics or scoreboard effects are material.
 
 </details>
@@ -187,8 +187,16 @@ This section has **three working parts**. They guide this section but do not rep
 - Those paths must not be blocked, priced out, delayed, hidden, or tilted for arbitrary or irrelevant reasons.
 - A door that is open only on paper is not enough where this Constitution requires **substantive** opportunity.
 
+<a id="213-benefits-and-burdens"></a>
+<a id="212-benefits-and-burdens"></a>
+##### 2.1.2 Benefits and Burdens
+
+- A system is not fair when some sentients receive the gains while others quietly absorb the costs.
+- Favoritism, hidden cost-shifting, selective enforcement, and scoreboard tricks do not satisfy this requirement.
+
 <a id="212-fair-treatment"></a>
-##### 2.1.2 Fair Treatment
+<a id="213-fair-treatment"></a>
+##### 2.1.3 Fair Treatment
 
 - Sentients in similar situations should be treated by the same basic rules.
 - What sentients receive, owe, or risk should fit what they contributed, what they need, or what burdens they actually face.
@@ -198,6 +206,9 @@ This section has **three working parts**. They guide this section but do not rep
 
 Claimed wellbeing is not aligned with [§2](#2-foundational-objective-wellbeing) if it depends on arbitrary exclusion, unexplained or unstable rules, hidden extraction, or formal [Participation](core_05p_participation_definitions.md#participation-constitutional) while the fairness conditions that make participation meaningful have failed.
 
+<a id="214-unfair-treatment"></a>
+##### 2.1.4 Unfair Treatment
+
 Unfair treatment creates exclusion and inconsistency. Systems must not hide unfair treatment behind technical language, neutral labels, or automated decisions. In particular, they must not:
 - use algorithms, scoring systems, or administrative rules that repeat historical disadvantage without a constitutionally valid reason;
 - use intimate personal signals or sexual history as shortcuts for trust, risk, character, or access — read with [Protected Intimate-Signal Gating](core_05p_participation_definitions.md#protected-intimate-signal-gating);
@@ -205,13 +216,7 @@ Unfair treatment creates exclusion and inconsistency. Systems must not hide unfa
 - deny jobs, housing, banking, licenses, standing, or similar access **mainly because** of any lawful form of employment, lawful past employment, lawful perceived employment, or lack of employment;
 - create material disadvantage through licensing, zoning, fees, platform rules, or other neutral-looking requirements that mainly burden lawful work, lawful work history, perceived lawful work, lack of employment, or protected association without the justification this Constitution requires;
 
-<a id="213-benefits-and-burdens"></a>
-##### 2.1.3 Benefits and Burdens
-
-- A system is not fair when some sentients receive the gains while others quietly absorb the costs.
-- Favoritism, hidden cost-shifting, selective enforcement, and scoreboard tricks do not satisfy this requirement.
-
-These three parts also support [4. Trust](#4-system-stability-enabler-trust-coordination-integrity) where sentients must rely on a system, accept its decisions, or coordinate around its promises.
+These four parts also support [4. Trust](#4-system-stability-enabler-trust-coordination-integrity) where sentients must rely on a system, accept its decisions, or coordinate around its promises.
 
 #### 2.2 Recognition, Reinforcement, and Aspiration
 <details>
@@ -255,9 +260,12 @@ That is a constitutional duty, not optional culture. Shared systems should make 
 <a id="222-celebration-of-success"></a>
 ##### 2.2.2 Celebration of Success
 
-**Celebration** honors **traceable**, **non-misleading** accomplishment and prosocial coordination. Where **Chapter Eight** Axis I supplemental descriptors are material, that includes uplift and stewardship narratives tied to verified contribution.
+**Celebration** honors **traceable**, **non-misleading** accomplishment and prosocial coordination. That includes uplift and stewardship narratives tied to verified [contribution](core_05c_continuity_definitions.md#contribution).
 
-Celebration must not substitute for proxy optimization that diverges from underlying constitutional objectives ([§2](#2-foundational-objective-wellbeing)). It must not become **capture** of acclaim or prestige ([§10.2 Incentive Alignment and System Capture](core_01_b_stewardship_capacity_principles.md#102-incentive-alignment-and-system-capture)). It must not excuse avoidance of accountability where Safety, Truth, or rights protections are implicated.
+Celebration must not:
+- substitute for proxy optimization that diverges from underlying constitutional objectives ([§2](#2-foundational-objective-wellbeing))
+- become **capture** of acclaim or prestige ([§10.2 Incentive Alignment and System Capture](core_01_b_stewardship_capacity_principles.md#102-incentive-alignment-and-system-capture))
+- excuse avoidance of accountability where Safety, Truth, or rights protections are implicated
 
 <a id="223-aspiration"></a>
 ##### 2.2.3 Aspiration
@@ -298,9 +306,11 @@ Corrective, protective, or restorative measures for affected parties and good-fa
 <a id="227-implementation-layer"></a>
 ##### 2.2.7 Implementation Layer
 
-Granular ceremonies, curricula, budgets, programs, and metrics belong in adopting implementation layers. They **implement, not narrow**, this section.
+Granular ceremonies, curricula, budgets, programs, and metrics belong in adopting implementation layers.
 
-### 3. Non-Negotiable Constraints: Safety and Truth
+<a id="4-non-negotiable-constraints-safety-and-truth"></a>
+<a id="3-non-negotiable-constraints-safety-and-truth"></a>
+### 3. Non-Negotiable Principle Constraints: Safety and Truth
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
@@ -316,7 +326,9 @@ Granular ceremonies, curricula, budgets, programs, and metrics belong in adoptin
 
 *In plain terms: Safety and Truth are the Constitution's hard floors — not tradeoffs to optimize away. Shared systems may not foreseeably endanger sentients or deceive them, and both constraints apply within the pursuit of Flourishing and Continuity under the Tetrad's participation, oversight, accountability, and timeliness discipline.*
 
-**Safety** and **Truth** are non-negotiable substantive constraints that bound every other Chapter One principle — including [§3 Foundational Objective: Wellbeing](#3-foundational-objective-wellbeing) and the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims). They are named constituents of [**Flourishing**](#flourishing) and indispensable to [**Continuity**](#continuity): systems cannot flourish through harm or deception, and durable legitimacy requires honest risk stewardship over time. Application of these constraints must satisfy the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — especially where safety determinations affect participation capacity, where truth claims govern reliance, and where accountability for harm or misleading conduct is at stake — scaled to [material stake](core_00_preamble.md#material-stake).
+**Safety** and **Truth** are non-negotiable principle constraints that bound every other Chapter One principle — including [§3 Foundational Objective: Wellbeing](#3-foundational-objective-wellbeing) and the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims). They are named constituents of [**Flourishing**](#flourishing) and indispensable to [**Continuity**](#continuity): systems cannot flourish through harm or deception, and durable legitimacy requires honest risk stewardship over time. Application of these constraints must satisfy the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — especially where safety determinations affect participation capacity, where truth claims govern reliance, and where accountability for harm or misleading conduct is at stake — scaled to [material stake](core_00_preamble.md#material-stake).
+
+Safety and Truth findings can change a sentient's standing record — including how [contributions](core_05c_continuity_definitions.md#contribution) are recognized, whether violations are recorded, how severe those violations are classified, and what consequences attach. The [**Chapter Eight** standing model](core_08-08_standing_assessment.md) governs how those findings are classified, verified, and applied, with evaluation and compliance requirements drawn from [**Chapters Two through Five**](core_02-04_definition_mechanics.md).
 
 #### 3.1 Safety (Harm Constraint)
 <details>
@@ -349,13 +361,9 @@ Granular ceremonies, curricula, budgets, programs, and metrics belong in adoptin
 
 *In plain terms: systems may not be built or run in ways that foreseeably increase risks of uncontained harm, cascading failure, or irreversible damage to sentients and the systems they depend on.*
 
-Safety is a non-negotiable substantive constraint on system design, operation, and governance — a named constituent of [**Flourishing**](#flourishing) and a floor for [**Continuity**](#continuity) wherever shared systems create foreseeable harm risk.
+Safety is a non-negotiable principle constraint on system design, operation, and governance — a named constituent of [**Flourishing**](#flourishing) and a floor for [**Continuity**](#continuity) wherever shared systems create foreseeable harm risk. The detailed definitions, evaluation criteria, and compliance tests live in [**Chapters Two through Five**](core_02-04_definition_mechanics.md), especially [Harm](core_05a_accountability_definitions.md#harm), [Irreversible Harm](core_05a_accountability_definitions.md#irreversible-harm), [Risk](core_05c_continuity_definitions.md#risk), [Materiality](core_05o_oversight_definitions.md#materiality-determination), [Dependency](core_05c_continuity_definitions.md#dependency), and [Foreseeability](core_05a_accountability_definitions.md#foreseeability).
 
-Its definitional, evaluative, and compliance requirements are governed by **Chapters Two through Five**, with foundational terms supplied in **Chapter Five** §§1–3.
-
-Relevant definitions include Harm, Irreversible Harm, Risk, Materiality, Dependency, and Foreseeability where materially relevant.
-
-Safety forbids system conduct or omission that materially increases uncontained harm risk, cascading failure potential, or irreversible harm exposure in conflict with this Constitution.
+Systems may not act — or fail to act — in ways that foreseeably increase uncontained harm risk, cascading failure potential, or irreversible harm exposure in conflict with this Constitution.
 
 #### 3.2 Truth (Epistemic Integrity Constraint)
 <details>
@@ -386,15 +394,9 @@ Safety forbids system conduct or omission that materially increases uncontained 
 
 *In plain terms: systems may not deceive, distort, suppress, or structure their output to mislead — and high-impact decisions must rest on honest evidence, stated methods, acknowledged uncertainty, and genuine openness to contrary findings.*
 
-Truth is a non-negotiable substantive constraint on epistemic integrity in internal operation and external communication — a named constituent of [**Flourishing**](#flourishing) and a condition for [**Continuity**](#continuity) wherever durable systems depend on honest evidence and reliable understanding.
+Truth is a non-negotiable principle constraint on epistemic integrity in internal operation and external communication — a named constituent of [**Flourishing**](#flourishing) and a condition for [**Continuity**](#continuity) wherever durable systems depend on honest evidence and reliable understanding. The detailed definitions, evaluation criteria, and compliance tests live in [**Chapters Two through Five**](core_02-04_definition_mechanics.md), especially [Epistemic Integrity](core_05o_oversight_definitions.md#epistemic-integrity), [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint), [Materiality](core_05o_oversight_definitions.md#materiality-determination), [Dependency](core_05c_continuity_definitions.md#dependency), and [Foreseeability](core_05a_accountability_definitions.md#foreseeability).
 
-Its definitional, evaluative, and compliance requirements are governed by **Chapters Two through Five**, with foundational terms supplied in **Chapter Five** §§1–3.
-
-Relevant definitions include Epistemic Integrity, Truth (Constitutional Constraint), Materiality, Dependency, and Foreseeability where materially relevant.
-
-Truth forbids material degradation of reliable interpretation, informed decision-making, or auditable epistemic integrity. Such degradation includes deception, distortion, suppression, or structurally misleading presentation.
-
-Where Safety or Truth determinations affect contribution state, verified violation findings, violation nature, standing records, or standing effect, those consequences are governed by the **Chapter Eight standing model**, read together with **Chapters Two through Five**.
+Systems may not undermine the ability of sentients to understand what is happening, make informed decisions, or verify what they are being told. That includes lying, distorting, hiding information, or presenting things in ways designed to mislead.
 
 #### 3.3 Science-Informed Inquiry and Decision Support
 <details>
@@ -431,29 +433,25 @@ Where Safety or Truth determinations affect contribution state, verified violati
 
 Science-informed inquiry is a required support discipline for **Safety** and **Truth** where constitutional decisions rest on empirical, predictive, causal, measurable, or otherwise testable propositions. It is not a third non-negotiable constraint separate from Safety and Truth; it is the requirement to check claims with tested evidence and clear methods so those constraints stay truthful in practice, can be corrected when wrong, and remain proportionate to what is actually known.
 
-Where governance choices rest on **empirical** or **testable** propositions, evidence practices **must** align with **scientific integrity**.
-
-Those choices include predictions, causal claims, classifications, and other **high-impact** decisions.
-
-At minimum, where feasible, decision records should include:
+Where governance choices — including predictions, causal claims, classifications, and other **high-impact** decisions — rest on **empirical** or **testable** propositions, evidence practices **must** align with **scientific integrity**. At minimum, where feasible, decision records should include:
 - explicit questions or hypotheses
 - **methods**, **data limits**, and **uncertainty**
 - honest treatment of **conflicting evidence** and **revision when evidence disconfirms** prior conclusions or assumptions
 - **independent scrutiny** proportionate to stakes under **Chapter Four** and **Chapter Five** (*Epistemic Integrity*; *Truth (Constitutional Constraint)*)
 
-**Scientific method**, **systematic inquiry**, and **peer-review** norms are **reference disciplines**, not exclusive procedures. Domain-appropriate rigor and **Classification-Scaled Governance** (Chapter Five) govern how formality scales with impact and dependency.
+The scientific method, systematic inquiry, and peer review set the standard — but they are not the only acceptable procedures. How much formality is required depends on the stakes: higher-impact decisions need stricter evidence practices, governed by [Classification-Scaled Governance](core_05o_oversight_definitions.md#classification-scaled-governance).
 
 Where expert-evidence standards, methods, or evidence-stewardship disputes require forum resolution, routing follows **Technical Forum Domains** under [Chapter Eleven §3.2.2](core_11-11_forum.md#422-technical-forum-domains). Technical forums maintain cross-family standards and may answer certified component questions without displacing primary-stakes routing elsewhere.
 
 Safety-sensitive limits on publication, data access, method disclosure, or replication materials may be justified only under [6.2 Epistemic Disclosure Constraints](#62-epistemic-disclosure-constraints), the Chapter Five definitions listed above, and applicable Chapter Six rights. Such limits must preserve maximum feasible epistemic integrity through protected records, independent review, delayed disclosure, redaction, secure access, or comparable safeguards; they must not become a means to suppress unfavorable evidence, hide safety defects, or manufacture apparent consensus.
 
-#### 3.4 Plain-Language Accessibility (Stewardship Duty)
+#### 3.4 Plain-Language Accessibility (Participation and Stewardship Duty)
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation** leg (understandable engagement); **oversight** leg (audit and verification readability); [material stake](core_00_preamble.md#material-stake) scaling.
 - Read with: [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — **Flourishing** aim (meaningful agency through comprehensible **Truth** engagement); **Continuity** aim (durable institutional legibility over time).
-- Upstream: Principles: [4.2 Truth](#32-truth-epistemic-integrity-constraint), [3.3 Science-Informed Inquiry and Decision Support](#33-science-informed-inquiry-and-decision-support), [6.1.2 Minimization of Avoidable Burden](#612-minimization-of-avoidable-burden), and [§10.3 Stewardship and Operator Incentive Alignment](core_01_b_stewardship_capacity_principles.md#103-stewardship-and-operator-incentive-alignment); [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims).
+- Upstream: Principles: [4.2 Truth](#32-truth-epistemic-integrity-constraint), [3.3 Science-Informed Inquiry and Decision Support](#33-science-informed-inquiry-and-decision-support), [6.1.3 Minimization of Avoidable Burden](#612-minimization-of-avoidable-burden), and [§10.3 Stewardship and Operator Incentive Alignment](core_01_b_stewardship_capacity_principles.md#103-stewardship-and-operator-incentive-alignment); [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims).
 - Downstream: Rights surface: [Article V-G: Accessibility](core_06-06_rights_part_b.md#article-v-g-accessibility), [Article VI: Right to Sentient-Centered Education](core_06-06_rights_part_b.md#article-vi-right-to-sentient-centered-education), [Article XV: Audit, Transparency, and Independent Verification](core_06-06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification), [Article XX: Comprehensibility and Complexity Stewardship](core_06-06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship).
 - Cross-reference: Chapter Two through Four definition mechanics and plain-language guardrails in [core_02-04_definition_mechanics.md](core_02-04_definition_mechanics.md) remain controlling at the definition layer.
 - Subsections (reading order): [§3.4.1](#341-scope) · [§3.4.2](#342-the-duty) · [§3.4.3](#343-definitional-rigor-preserved) · [§3.4.4](#344-jargon-as-defeat-discipline) · [§3.4.5](#345-chapter-ten-floor-boundary).
@@ -476,7 +474,7 @@ Safety-sensitive limits on publication, data access, method disclosure, or repli
 
 *In plain terms: rules, decisions, and notices that bind sentients must be written so sentients can actually read, understand, and act on them — and jargon, stacked complexity, or procedural opacity may not be used to defeat contestability, agency, or audit.*
 
-A **plain-language accessibility stewardship duty** applies to constitutional, governance, adjudicative, and operational text that binds sentients. The same duty applies when sentients must engage that text to exercise rights, participate in governance, contest decisions, or verify compliance.
+A **plain-language accessibility duty** applies to constitutional, governance, adjudicative, and operational text that binds sentients. The same duty applies when sentients must engage that text to exercise rights, participate in governance, contest decisions, or verify compliance. This is a [Participation](core_05p_participation_definitions.md#participation-constitutional) requirement: sentients who cannot understand the rules that bind them cannot meaningfully participate in the systems those rules govern.
 
 <a id="341-scope"></a>
 ##### 3.4.1 Scope
@@ -489,19 +487,17 @@ This duty covers instruments and communications that sentients actually engage w
 - audit and verification artifacts where they reach sentient readers;
 - terms and consent interfaces, and comparable text.
 
-This duty is not limited to one format or channel. It applies to written text, interfaces, spoken communication, and any other way sentients receive binding information.
-
-A channel counts when it provides a plain-language equivalent under [Article V-G](core_06-06_rights_part_b.md#article-v-g-accessibility) and [Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion).
+This duty applies however binding information reaches sentients — written text, interfaces, spoken communication, or any other channel. A channel satisfies it when it provides a plain-language equivalent that any affected sentient can access, consistent with [Article V-G](core_06-06_rights_part_b.md#article-v-g-accessibility) and [Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion).
 
 <a id="342-the-duty"></a>
 ##### 3.4.2 The Duty
 
-As a stewardship duty under [§6.1.2 Minimization of Avoidable Burden](#612-minimization-of-avoidable-burden), operators and governance bodies must:
+Under [§6.1.3 Minimization of Avoidable Burden](#612-minimization-of-avoidable-burden), operators and governance bodies must:
 
-- prefer plain, direct language over jargon, stacked modifiers, and nested clauses where plain language is achievable without loss of operative meaning;
-- provide plain-language orientation or summary for technically dense operative material where sentients must engage it;
-- structure text for navigation, locability, and readable reference — supporting the capability-building interest recognized under [Article VI: Right to Sentient-Centered Education](core_06-06_rights_part_b.md#article-vi-right-to-sentient-centered-education);
-- match complexity to the communication's purpose. Avoidable complexity that imposes burden without traceable constitutional outcome is an [Avoidable Burden](core_05c_continuity_definitions.md#avoidable-burden) defect under [§6.1.2](#612-minimization-of-avoidable-burden) and an [Article XX](core_06-06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship) concern.
+- use plain, direct language instead of jargon or unnecessarily complex phrasing wherever that is possible without losing operative meaning;
+- provide a plain-language summary or orientation when sentients must engage technically dense material;
+- organize text so sentients can find what they need and read it without unnecessary difficulty — supporting the learning interest recognized under [Article VI](core_06-06_rights_part_b.md#article-vi-right-to-sentient-centered-education);
+- keep complexity proportionate to what the communication actually needs to say. Unnecessary complexity that makes things harder without serving a constitutional purpose is an [Avoidable Burden](core_05c_continuity_definitions.md#avoidable-burden) defect under [§6.1.3](#612-minimization-of-avoidable-burden) and an [Article XX](core_06-06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship) concern.
 
 <a id="343-definitional-rigor-preserved"></a>
 ##### 3.4.3 Definitional Rigor Preserved
@@ -509,33 +505,21 @@ As a stewardship duty under [§6.1.2 Minimization of Avoidable Burden](#612-mini
 Plain-language work is **not** a license to soften definitional rigor. These remain controlling at the definition layer:
 
 - Chapter Five definitions and their O/E/C components;
-- Chapter Two through Four definition mechanics;
-- the definitional anchors carried by [doc_architecture.md](doc_architecture.md) governance.
+- Chapter Two through Four definition mechanics.
 
-Plain-language framing at the principle or article level may not relax a compliance bullet, weaken a Chapter Five O/E/C component, or reinterpret definitional scope contrary to its canonical gloss.
-
-Where plain-language drafting at the engagement layer appears to conflict with definitional rigor at the definition layer, the definition layer governs. The engagement-layer drafting must then be adjusted to align without sacrificing rigor.
+Writing something in simpler language does not change what it means. If a plain-language summary and the formal definition it summarizes appear to say different things, the formal definition controls — and the summary must be corrected to match.
 
 <a id="344-jargon-as-defeat-discipline"></a>
 ##### 3.4.4 Jargon-as-Defeat Discipline
 
-Under this section and under [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint) *Epistemic Integrity* discipline, it is non-compliant to use jargon, stacked complexity, procedural opacity, or deliberate obfuscation to defeat:
+Systems may not use complex language, opaque procedures, or deliberate obscurity to prevent sentients from [contesting](core_05a_accountability_definitions.md#contestability) decisions, exercising [meaningful agency](core_05p_participation_definitions.md#meaningful-agency), accessing [audits](core_06-06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification), or exercising their [Chapter Six](core_06-06_rights_part_a.md#chapter-six-foundational-rights) rights.
 
-- [Contestability](core_05a_accountability_definitions.md#contestability);
-- [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency);
-- audit access under [Article XV: Audit, Transparency, and Independent Verification](core_06-06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification);
-- the exercise of Chapter Six rights more broadly.
-
-Plain-language stewardship must not run in reverse either. Framing that misrepresents scope, hides operative effect, or swaps a summary for the operative text that governs is a [Truth](core_05o_oversight_definitions.md#truth-constitutional-constraint) defect.
+The reverse is equally prohibited: plain-language framing that misrepresents what a rule actually does, hides its real effect, or substitutes a summary for the operative text is a [Truth](core_05o_oversight_definitions.md#truth-constitutional-constraint) violation.
 
 <a id="345-chapter-ten-floor-boundary"></a>
 ##### 3.4.5 Rights-Floor Boundary
 
-This section states a stewardship duty at principle layer. It does **not** create a new Chapter Six Rights-Floor.
-
-The cross-cutting accessibility floor remains owned by [Article V-G](core_06-06_rights_part_b.md#article-v-g-accessibility). The education-specific accessibility floor is owned by [Article III-B](core_06-06_rights_part_a.md#article-iii-b-equal-educational-access). The comprehensibility-and-complexity-stewardship obligation is owned by [Article XX](core_06-06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship).
-
-This section states the plain-language dimension of the principle-layer stewardship that reads through those articles.
+The rights floors for accessibility, education, and comprehensibility live in [Article V-G](core_06-06_rights_part_b.md#article-v-g-accessibility), [Article III-B](core_06-06_rights_part_a.md#article-iii-b-equal-educational-access), and [Article XX](core_06-06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship) respectively. This section states the principle-layer duty that supports those floors.
 
 ### 4. System Stability Enabler: Trust (Coordination Integrity)
 <details>
@@ -543,7 +527,7 @@ This section states the plain-language dimension of the principle-layer stewards
 
 - Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation** leg (justified reliance enabling meaningful agency and contestability); **oversight** leg (contestable detection of systemic risk and trustworthiness); **accountability** leg (answerability for misleading reliance); [material stake](core_00_preamble.md#material-stake) scaling.
 - Read with: [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — **Flourishing** aim (**trustworthiness** is a named constituent under [Chapter 00 §1](core_00_preamble.md#flourishing)); **Continuity** aim (durable coordination integrity and system stability over time).
-- Upstream: Principles: [§4 Non-Negotiable Constraints: Safety and Truth](#4-non-negotiable-constraints-safety-and-truth); [§2.2 Recognition, Reinforcement, and Aspiration](#22-recognition-reinforcement-and-aspiration); [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims).
+- Upstream: Principles: [§3 Non-Negotiable Principle Constraints: Safety and Truth](#3-non-negotiable-constraints-safety-and-truth); [§2.2 Recognition, Reinforcement, and Aspiration](#22-recognition-reinforcement-and-aspiration); [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims).
 - Downstream: [§9 Stewardship and Distributed Understanding](core_01_b_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding), [6.2.1 Preservation of Epistemic Integrity](#621-preservation-of-epistemic-integrity), [6.2.2 Trust-Truth Alignment](#622-trust-truth-alignment), and [7. Prohibition on Absolute Override](#7-prohibition-on-absolute-override).
 - Subsections: [§4.1 Resilience and Self-Healing Design](#41-resilience-and-self-healing-design).
 - Downstream: Shapes the rights surface for agency, reliable reliance, transparency, standing, and anti-capture review.
@@ -566,19 +550,17 @@ This section states the plain-language dimension of the principle-layer stewards
 
 <br>
 
-*In plain terms: trust is earned through truthfulness and demonstrated reliability over time. It cannot be manufactured through spin, secrecy, or hidden risk transfer — and reliance built on those means is not "trust" within the meaning of this Constitution. Trust coordinates **Flourishing** and **Continuity** together: sentients need systems they can actually rely on, under the Tetrad's participation, oversight, accountability, and timeliness discipline scaled to material stake.*
+*In plain terms: shared systems ask sentients to depend on them — for safety, information, access, and coordination. Trust under this Constitution means that dependence must be earned by how systems actually behave, not manufactured through spin, secrecy, or hidden risk transfer.*
 
-**Trust** is what lets [§4 Safety and Truth](#4-non-negotiable-constraints-safety-and-truth) work in shared life — the bridge to the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims). [**Trustworthiness**](#flourishing) is a named part of [**Flourishing**](#flourishing); lasting [**Continuity**](#continuity) requires coordination sentients can count on, not coordination that crumbles because systems misled them into relying on false assurances. Applying this section means meeting the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad): sentients must be able to detect and challenge systemic risk, participate meaningfully when they depend on a system, and hold actors answerable when reliance was misleading — scaled to [material stake](core_00_preamble.md#material-stake).
+Sentients need systems they can actually rely on. [**Trust**](core_05c_continuity_definitions.md#trust) is the constitutional principle that makes reliance legitimate: systems must earn it through honest behavior and demonstrated reliability over time, not induce it through deception or concealment. [**Trustworthiness**](core_05c_continuity_definitions.md#trustworthiness) is the track record that earns it. Trust is a named part of [**Flourishing**](#flourishing) and essential to [**Continuity**](#continuity) — durable coordination requires systems sentients can count on.
 
-Shared systems ask sentients to depend on them — for safety, information, access, and coordination. **Trust** is the constitutional rule that such dependence must be warranted by how systems actually behave, not merely induced by how they present themselves.
+Trust connects the principle constraints to everyday shared life:
+- [**Truth**](core_05o_oversight_definitions.md#truth-constitutional-constraint) forbids deception.
+- [**Safety**](core_05c_continuity_definitions.md#safety-constraint) limits how far reliance may go when real risk is present.
+- [**Materiality**](core_05o_oversight_definitions.md#materiality-determination) determines how much must be shown and explained — the higher the stakes for sentients who depend on a system, the more that system must disclose and justify.
+- [**Trust Degradation and Misleading Reliance**](core_05i_integrative_definitions.md#trust-degradation-and-misleading-reliance-constitutional) names the failure mode — when systems create, preserve, or score reliance in constitutionally misleading ways.
 
-**Trust** means reliance must be **earned**, not merely **manufactured**. [**Trustworthiness**](core_05c_continuity_definitions.md#trustworthiness) is the demonstrated track record that earns it. [**Truth**](core_05o_oversight_definitions.md#truth-constitutional-constraint) forbids deception. [**Safety**](core_05c_continuity_definitions.md#safety-constraint) limits how far reliance may go when real risk is present. [**Materiality**](core_05o_oversight_definitions.md#materiality-determination) sets how much must be shown and explained in context. [**Trust Degradation and Misleading Reliance**](core_05i_integrative_definitions.md#trust-degradation-and-misleading-reliance-constitutional) names the failure mode — when systems create, preserve, or score reliance in constitutionally misleading ways.
-
-Under this Constitution, trust grows from honest behavior and proven reliability over time. It supports [**Flourishing**](#flourishing) and [**Continuity**](#continuity) under the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), as defined in Chapter Five ([Trust](core_05c_continuity_definitions.md#trust); [Trustworthiness](core_05c_continuity_definitions.md#trustworthiness)).
-
-Adopted implementation text may spell out how this works in practice where designated. That text must not weaken the Chapter Five definitions.
-
-Trust fails when reliance is built or kept through suppression, deception, hidden risk-shifting, or similar tactics — including anything that seriously undermines [Truth](core_05o_oversight_definitions.md#truth-constitutional-constraint), [Safety](core_05c_continuity_definitions.md#safety-constraint), or sentients' ability to detect and challenge systemic risk.
+Trust fails when reliance is built or kept through suppression, deception, hidden risk-shifting, or similar tactics — including anything that seriously undermines sentients' ability to detect and challenge systemic risk. The [**System Alignment Certification**](core_07-07_system_alignment_certification.md) process under [Chapter Seven](core_07-07_system_alignment_certification.md#chapter-seven-system-alignment-certification) is where systems demonstrate that their trust claims hold up: certification must verify that a system's actual behavior matches its representations, on a contestable record — not merely on operator assertion.
 
 #### 4.1 Resilience and Self-Healing Design
 <details>
@@ -587,7 +569,7 @@ Trust fails when reliance is built or kept through suppression, deception, hidde
 - Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **oversight** and **accountability** legs; [material stake](core_00_preamble.md#material-stake) scaling for recovery and audit depth.
 - Read with: [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — **Continuity** aim (resilience and self-healing discipline); **Flourishing** aim (trustworthy recovery without epistemic degradation).
 - Upstream: Principles: [Chapter 00 §1 The Model](core_00_preamble.md#the-model); [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims); [3.1 Safety](#31-safety-harm-constraint), [3.2 Truth](#32-truth-epistemic-integrity-constraint), and [5. Trust](#4-system-stability-enabler-trust-coordination-integrity).
-- Downstream: [§9 Stewardship and Distributed Understanding](core_01_b_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding), [6.1.2 Minimization of Avoidable Burden](#612-minimization-of-avoidable-burden), [§13.1 Required Evaluation Factors](core_01_b_stewardship_capacity_principles.md#131-required-evaluation-factors), [§10 Governance Under Stewardship Discipline](core_01_b_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline), and [7. Prohibition on Absolute Override](#7-prohibition-on-absolute-override).
+- Downstream: [§9 Stewardship and Distributed Understanding](core_01_b_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding), [6.1.3 Minimization of Avoidable Burden](#612-minimization-of-avoidable-burden), [§13.1 Required Evaluation Factors](core_01_b_stewardship_capacity_principles.md#131-required-evaluation-factors), [§10 Governance Under Stewardship Discipline](core_01_b_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline), and [7. Prohibition on Absolute Override](#7-prohibition-on-absolute-override).
 - Downstream: Shapes the rights surface for reliability-with-recovery, root-cause honesty, reversibility, and comprehensibility of degraded and restoring states.
   - Especially [Article XII: Right to Reliable and Trustworthy Systems](core_06-06_rights_part_c.md#article-xii-right-to-reliable-and-trustworthy-systems) (including **Article XII-F**), [Article XV: Audit, Transparency, and Independent Verification](core_06-06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification), [Article XVI: System Lifecycle, Environments, and Reversibility](core_06-06_rights_part_c.md#article-xvi-system-lifecycle-environments-and-reversibility), [Article XX: Comprehensibility and Complexity Stewardship](core_06-06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship), and [Article XXI: Root Cause Analysis and Adaptive Response](core_06-06_rights_part_c.md#article-xxi-root-cause-analysis-and-adaptive-response).
 
@@ -605,22 +587,19 @@ Trust fails when reliance is built or kept through suppression, deception, hidde
 
 <br>
 
-*In plain terms: systems should detect trouble early, contain it, fail along disclosed paths, and recover — that is part of keeping **Continuity** over time. But "self-healing" that hides failure, skips root-cause work, or quietly narrows rights is not resilience; it undermines **Truth** and **Trust** and is an alignment defect under Incentive Alignment.*
+*In plain terms: systems should detect trouble early, contain it, fail along disclosed paths, and recover honestly. "Self-healing" that hides failure, skips root-cause work, or quietly narrows rights is not resilience — it is a defect.*
 
-**§4.1** develops [**Continuity**](#continuity) under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims): durable operation, honest recovery, and long-horizon stability — paired with [**Flourishing**](#flourishing) through recovery that does not degrade Truth or Trust. Constitutional systems should aspire to resilience as an active property, not a static claim. Within bounds set by **Safety**, **Truth**, and **Trust**, the constitutional aim is systems that:
+Systems that sentients depend on should be built to:
+- detect problems early;
+- contain them before they spread;
+- fail along paths that were planned and disclosed, not hidden ones;
+- recover in ways consistent with [Reversibility](core_05c_continuity_definitions.md#reversibility-constitutional) and the Chapter Six Rights Floor.
 
-- detect disturbance early;
-- contain it locally;
-- degrade along intended and disclosed paths rather than hidden ones;
-- restore constitutional operation consistent with **Reversibility** (Chapter Five) and the Chapter Six Rights Floor.
+This is what Chapter Five calls [**Self-Healing**](core_05c_continuity_definitions.md#self-healing-constitutional) — and it is only legitimate when it makes a system more honest about its own condition, not less. Automatic recovery that masks root cause, suppresses evidence, or substitutes for governance is not self-healing. It is a [Truth](core_05o_oversight_definitions.md#truth-constitutional-constraint) violation and an [Incentive Alignment](core_05i_integrative_definitions.md#incentive-alignment) defect.
 
-That operative property is **Self-Healing** as defined in Chapter Five.
+The more sentients depend on a system and the greater its impact, the less that system should rely on emergency intervention. It should instead invest in tested, audited, bounded self-recovery — reducing [Avoidable Burden](core_05c_continuity_definitions.md#avoidable-burden) and supporting long-term [**Continuity**](#continuity).
 
-**Self-Healing** is legitimate only where it makes the system more honest about its own state, not less. Automatic recovery that masks root cause, suppresses evidence of failure, or substitutes for governance is not self-healing within the meaning of this Constitution. It is an epistemic degradation under [3.2 Truth](#32-truth-epistemic-integrity-constraint) and an alignment defect under **Incentive Alignment** (Chapter Five) and [§10.3 Stewardship and Operator Incentive Alignment](core_01_b_stewardship_capacity_principles.md#103-stewardship-and-operator-incentive-alignment).
-
-Resilience capacity must track dependency and material impact. Systems with material external impact, shared dependencies, or Rights-Floor implications must progressively reduce reliance on emergency intervention. They must do so through tested, audited, and bounded self-recovery. That reduction supports [**Continuity**](#continuity) under stewardship at [§10.3 Stewardship and Operator Incentive Alignment](core_01_b_stewardship_capacity_principles.md#103-stewardship-and-operator-incentive-alignment) and through the **Avoidable Burden** **framing** under [§6.1.2 Minimization of Avoidable Burden](#612-minimization-of-avoidable-burden).
-
-Operative detail on recovery detection, containment, safe-failure preference, non-masking, Rights-Floor continuity, autonomy scaling, and root-cause closure appears at **Article XII-F** in Chapter Six. Detailed recovery-architecture requirements appear in incorporated implementation text. That implementation must not narrow this section, **Article XII-F**, or **Chapter Five** (*Self-Healing*).
+Operative detail — recovery detection, containment, safe-failure preference, root-cause closure, and Rights-Floor continuity — lives in [Article XII-F](core_06-06_rights_part_c.md#article-xii-right-to-reliable-and-trustworthy-systems) in Chapter Six, with recovery-architecture requirements in incorporated implementation text.
 
 ### 5. Freedom (Bounded Agency)
 <a id="5-freedom-bounded-agency"></a>
@@ -810,14 +789,12 @@ Many small decisions that each look fine may still combine into an outcome this 
 
 *In plain terms: when you have to limit something, match the remedy to the problem — use the lightest step that still works, choose the least harmful option, and waste the least sentient time once Safety, Truth, and rights are already satisfied. The bar rises fast when harm could be irreversible or could lock systems in.*
 
-**How to read the stack:** Apply in order — [§6.1.1 Proportionality](#611-proportionality), then the **Necessity** and **harm-minimization** rules in this subsection, then [§6.1.2 Minimization of Avoidable Burden](#612-minimization-of-avoidable-burden). They are one sequence, not independent rules.
-- **[§6.1.1 Proportionality](#611-proportionality)** — limits on rights, freedoms, and other constitutional protections must match the size and likelihood of the harm addressed; scrutiny and reversibility requirements rise where risk is irreversible, could lock systems in, or could threaten [Ecological Recovery Capacity](core_05c_continuity_definitions.md#ecological-recovery-capacity-constitutional).
-- **Necessity** — constraints may be imposed only when no less-restrictive, reasonably effective alternative exists.
-- **Minimization of harm** — where tradeoffs are required, systems must choose the option that minimizes total harm across sentients, systems, and time horizons.
-- **[Rights-Floor Minimums Principle](#rights-floor-minimums-principle)** — no constitutional process, measure, transition, amendment, standing consequence, emergency action, or justice-related outcome may suspend, waive, extinguish, or reduce the Rights-Floor minimums stated in Chapter Six.
-- **[Anti-Degrading-Process Principle](#anti-degrading-process-principle)** — constitutional processes, measures, and outcomes must not be justified by, include, or predictably create degradation, humiliation, spectacle, retaliation, discriminatory burdening, or convenience-driven rights erosion.
-- **[Constitutional No-Bypass Principle](#constitutional-no-bypass-principle)** — rights, review, rules for lawful constitutional change, and accountability requirements cannot be avoided by routing the same substantive act through emergency, transition, implementation, custody, certification, contract, standing, or administrative labels.
-- **[§6.1.2 Minimization of Avoidable Burden](#612-minimization-of-avoidable-burden)** — only after Safety, Truth, rights, proportionality, necessity, and harm minimization are satisfied, prefer simplification or removal of unnecessary steps and the option that wastes the least sentient time, attention, and effort.
+**How to read the stack:** Apply these rules as one sequence, not as independent permissions.
+- **[§6.1.1 Proportionality](#611-proportionality)** asks whether the scale of a limitation fits the magnitude, likelihood, and systemic character of the harm addressed.
+- **Necessity** asks whether a restriction is needed at all, or whether a less-restrictive reasonably effective alternative can do the constitutional work.
+- **Minimization of harm** requires the least harmful constitutionally adequate option across sentients, systems, and time horizons.
+- **[§6.1.2 Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle](#least-restrictive-time-bounded-and-reviewable-constraint-principle)** governs the form of any restriction that survives the preceding tests: it must preserve the Rights Floor, avoid degradation, remain independently reviewable, and be temporary unless this Constitution expressly permits durable restriction.
+- **[§6.1.3 Minimization of Avoidable Burden](#612-minimization-of-avoidable-burden)** applies only after the rights-protective and safety-protective rules above are satisfied.
 
 <br>
 
@@ -843,11 +820,13 @@ Many small decisions that each look fine may still combine into an outcome this 
 
 <br>
 
-*In plain terms: when a system must narrow a **right**, **freedom**, or other **constitutional protection** to stop harm or systemic risk, the narrowing must fit the problem — not wider or longer than the harm's size and likelihood justify. This applies in tradeoffs among rights and values **after** **Safety** and **Truth** are satisfied. The bar rises sharply where the risk is irreversible, could lock systems in, or could threaten ecological recovery capacity.*
+*In plain terms: proportionality asks whether the size of a limit fits the size and likelihood of the harm. The more irreversible, systemic, or dependency-creating the risk is, the stronger the justification and scrutiny must be.*
 
 Limitations on constitutional **values** — including **Chapter Six** Rights-Floor protections and other principles and protections subject to tradeoff under [§6](#6-interaction-and-conflict-resolution) — must be proportionate to the magnitude and likelihood of the **harm** or **systemic impact** legitimately addressed, consistent with [Proportionality](core_05a_accountability_definitions.md#proportionality) in **Chapter Five**.
 
-**Classification floor.** No system may be governed at a level lower than that required by its highest applicable classification.
+Proportionality does not by itself authorize restriction. It sets the outer scale of what may be justified; any actual restriction must also satisfy **Necessity**, **Harm Minimization (Tradeoff Selection)**, [§6.1.2](#least-restrictive-time-bounded-and-reviewable-constraint-principle), and all applicable Rights-Floor protections.
+
+**Classification floor.** No system may be governed at a level lower than that required by its highest applicable classification. A lower administrative label cannot reduce the scrutiny required by the highest applicable risk, dependency, rights, or system-impact classification.
 
 **Heightened thresholds.** Where actions introduce risk of irreversible harm, systemic lock-in, Existential Risk, or irreversible loss of Ecological Recovery Capacity, systems must apply heightened thresholds for justification, scrutiny, and reversibility where feasible.
 
@@ -859,18 +838,31 @@ Limitations on constitutional **values** — including **Chapter Six** Rights-Fl
 - Existential Risk
 - irreversible loss of Ecological Recovery Capacity
 
+<a id="least-restrictive-time-bounded-and-reviewable-constraint-principle"></a>
+##### 6.1.2 Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle
+
+*In plain terms: once a restriction is justified, it still has to be shaped correctly. Use the lightest effective measure, protect the Rights Floor, put a real clock or review cadence on it, preserve challenge and independent review, and define how the restriction ends or is restored. Convenience, severity, or administrative relabeling cannot turn a temporary rights limit into a permanent workaround.*
+
+This subsection governs the form of constitutional restrictions after proportionality, necessity, and harm minimization have been applied. It does not lower those tests.
+
+Constitutional restrictions must satisfy all of the following:
+- **Justified and minimal:** the restriction must be justified by the constitutional harm or systemic impact addressed and must not reach beyond what that justification supports.
+- **Least-restrictive effective means:** any rights-affecting constraint must use the least-restrictive means that can still achieve the required safety, integrity, or rights-protective outcome.
+- **Reviewable:** the restriction must preserve contestability and independent review.
+- **Temporary unless expressly permitted:** the restriction must be temporary unless a stronger Rights-Floor rule expressly permits durable restriction.
+- **Restoration path:** the restriction must include a stated duration or review cadence where feasible, plus restoration, rollback, or re-evaluation conditions tied to evidence, changed circumstances, or observed divergence from expected outcomes.
+
 <a id="rights-floor-minimums-principle"></a>
-**Rights-Floor Minimums Principle.** No constitutional process, measure, transition, amendment, standing consequence, emergency action, or justice-related outcome may suspend, waive, extinguish, or reduce the **Rights-Floor minimums** of baseline dignity protections, minimum subsistence access, or core challenge, review, and appeal rights. Specific articles may add stronger or domain-specific safeguards. They may not narrow this principle or use convenience, efficiency, classification, emergency, transition, standing, amendment, contract, or implementation labels to bypass it.
+**Rights-Floor Minimums Principle.**
+- No constitutional process, measure, transition, amendment, standing consequence, emergency action, or justice-related outcome may permanently extinguish or waive the **Rights-Floor minimums** of baseline dignity protections, minimum subsistence access, or core challenge, review, and appeal rights.
+- Temporary restriction of specific rights is permitted only when it satisfies the [Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle](#least-restrictive-time-bounded-and-reviewable-constraint-principle) and the emergency provisions of [Article XXIII-D](core_06-06_rights_part_d.md#article-xxiii-d-emergency-measures-and-continuation-burden) — meaning any restriction must be justified, minimal, documented, time-limited, and independently reviewable. Specific articles may add stronger safeguards, but they may not narrow this principle or use convenience, efficiency, classification, emergency, transition, standing, amendment, contract, or implementation labels to bypass it.
 
 <a id="anti-degrading-process-principle"></a>
 **Anti-Degrading-Process Principle.** Constitutional processes, measures, and outcomes must not be justified by, include, or predictably create degrading treatment, humiliation-for-its-own-sake, spectacle-for-deterrence, retaliatory grievance, collective retaliation, discriminatory burdening, or procedural-convenience override. Ordinary public accountability, reasoned publication, verified restriction, or proportionate remedy is not prohibited merely because it is unpleasant or reputationally adverse. But it must not be designed, framed, carried out, or allowed to operate as degradation, humiliation, spectacle, retaliation, discriminatory burdening, or convenience-driven rights erosion.
 
-<a id="constitutional-no-bypass-principle"></a>
-**Constitutional No-Bypass Principle.** A constitutional requirement cannot be avoided by changing the label, route, owner, forum, instrument, or timing of the same substantive act. Emergency designation, transition planning, implementation detail, custody transfer, certification, contract, standing consequence, institutional restructuring, administrative convenience, or comparable procedural framing may supply a lawful pathway only when the pathway itself satisfies this Constitution. It must not be used to bypass Rights-Floor minimums, formal change-validity constraints (amendment and ratification rules), ordinary scrutiny, contestability, auditability, public-reason duties, or accountability.
-
 <a id="612-minimization-of-avoidable-burden"></a>
 <a id="614-minimization-of-avoidable-burden"></a>
-##### 6.1.2 Minimization of Avoidable Burden
+##### 6.1.3 Minimization of Avoidable Burden
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
@@ -887,7 +879,7 @@ Limitations on constitutional **values** — including **Chapter Six** Rights-Fl
 
 *In plain terms: once an option satisfies Safety, Truth, rights, and the other tradeoff rules, pick the one that wastes the least sentient time, attention, and effort. Simplify or remove steps that do not do constitutional work. Rights-protective process is not waste — but unjustified red tape is, and convenience or inertia cannot sustain it.*
 
-Where multiple options satisfy Safety, Truth, the Rights Floor in **Chapter Six**, [§6.1.1](#611-proportionality), **Necessity**, **Harm Minimization (Tradeoff Selection)**, and the other applicable [Constitutional Constraints](core_05i_integrative_definitions.md#constitutional-constraint), systems must prefer the option that imposes the **least avoidable burden** on sentient time, attention, effort, and shared resources.
+Where multiple options satisfy Safety, Truth, the Rights Floor in **Chapter Six**, [§6.1.1](#611-proportionality), [§6.1.2](#least-restrictive-time-bounded-and-reviewable-constraint-principle), **Necessity**, **Harm Minimization (Tradeoff Selection)**, and the other applicable [Constitutional Constraints](core_05i_integrative_definitions.md#constitutional-constraint), systems must prefer the option that imposes the **least avoidable burden** on sentient time, attention, effort, and shared resources.
 
 Where an avoidable burden can be corrected by simplifying, consolidating, automating, clarifying, or removing unnecessary steps, that correction is the preferred remedy unless it would materially weaken Safety, Truth, Rights-Floor protection, auditability, contestability, due process, or retrospective review.
 
@@ -1052,8 +1044,7 @@ Trust must not be preserved through deception or suppression of truth. Where ten
 
 Where constitutional rights, constraints, or protections materially conflict in the same decision context, resolution must follow a **documented and auditable** rights-collision test. The selected resolution must not contract the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) below what [material stake](core_00_preamble.md#material-stake) requires.
 
-<a id="least-restrictive-time-bounded-and-reviewable-constraint-principle"></a>
-This section states the **Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle**: constitutional restrictions must be justified, minimal, reviewable, and temporary unless a stronger Rights-Floor rule expressly permits durable restriction. Domain-specific applications may add safeguards, but they must not weaken this principle.
+This decision test applies the [**Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle**](#least-restrictive-time-bounded-and-reviewable-constraint-principle) to material rights collisions.
 
 At minimum, the decision record must include:
 - **Alternative Set and Rejection Reasons:** materially feasible alternatives considered, including non-action baseline, with explicit reasons for rejection.
@@ -1124,7 +1115,7 @@ No value defined in this chapter may be used as a universal or unbounded justifi
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [Chapter 00 — Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad); [material stake](core_00_preamble.md#material-stake) scaling applies chapter-wide through section traces.
-- Downstream: [§8.1 Definitional layer and required disciplines](#81-definitional-layer-and-required-disciplines), [§8.2 Ambiguity resolution](#82-ambiguity-resolution), [§8.3 Conflict resolution procedure](#83-conflict-resolution-procedure) ([§8.3.1](#831-integrated-reading) · [§8.3.2](#832-last-resort-internal-hierarchy) · [§8.3.3](#833-incorporation-layer)); [2. Foundational Objective: Wellbeing](#2-foundational-objective-wellbeing) through [14. Integrated Application](core_01_b_stewardship_capacity_principles.md#14-integrated-application); [6. Interaction and Conflict Resolution](#6-interaction-and-conflict-resolution) for value-collision procedure; [Chapter Six: Foundational Rights](core_06-06_rights_part_a.md#chapter-six-foundational-rights) non-contraction default.
+- Downstream: [§8.1 Constitutional No-Bypass Principle](#constitutional-no-bypass-principle), [§8.2 Definitional layer and required disciplines](#81-definitional-layer-and-required-disciplines), [§8.3 Ambiguity resolution](#82-ambiguity-resolution), [§8.4 Conflict resolution procedure](#83-conflict-resolution-procedure) ([§8.4.1](#831-integrated-reading) · [§8.4.2](#832-last-resort-internal-hierarchy) · [§8.4.3](#833-incorporation-layer)); [2. Foundational Objective: Wellbeing](#2-foundational-objective-wellbeing) through [14. Integrated Application](core_01_b_stewardship_capacity_principles.md#14-integrated-application); [6. Interaction and Conflict Resolution](#6-interaction-and-conflict-resolution) for value-collision procedure; [Chapter Six: Foundational Rights](core_06-06_rights_part_a.md#chapter-six-foundational-rights) non-contraction default.
 - Read with: [Chapters Two through Four](core_02-04_definition_mechanics.md) and [Chapter Five](core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) — interpretive and evidentiary layer for every term in this chapter.
 - Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) and [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — interpretive backdrop for the integrated-value framework; [material stake](core_00_preamble.md#material-stake) scaling where materially relevant.
 - Read with: [Chapter Sixteen §8](core_16-16_incorporation.md#2-authority-stack-and-invocation) (*Conflict order* / strictest-applicable incorporated text).
@@ -1147,9 +1138,14 @@ No value defined in this chapter may be used as a universal or unbounded justifi
 
 *In plain terms: read this Constitution as one whole. Chapter One states values and limits, but those words only count when read with the definition and evidence rules in Chapters Two through Five. If a passage could be read more than one way, choose the reading that best protects sentients and the Constitution as a whole — favoring stability, minimized irreversible harm, truthful understanding, and meaningful agency — not the reading that is merely strictest or most restrictive on paper. Rights in Chapter Six may not be narrowed unless this Constitution clearly allows it.*
 
+<a id="constitutional-no-bypass-principle"></a>
+#### 8.1 Constitutional No-Bypass Principle
+
+A constitutional requirement cannot be avoided by changing the label, route, owner, forum, instrument, or timing of the same substantive act. Emergency designation, transition planning, implementation detail, custody transfer, certification, contract, standing consequence, institutional restructuring, administrative convenience, or comparable procedural framing may supply a lawful pathway only when the pathway itself satisfies this Constitution. It must not be used to bypass Rights-Floor minimums, formal change-validity constraints (amendment and ratification rules), ordinary scrutiny, contestability, auditability, public-reason duties, or accountability.
+
 <a id="11-definitional-layer-and-required-disciplines"></a>
 <a id="81-definitional-layer-and-required-disciplines"></a>
-#### 8.1 Definitional layer and required disciplines
+#### 8.2 Definitional layer and required disciplines
 
 **Chapters Two through Five** govern the meaning, evaluation, and satisfaction conditions of all terms and constraints used in Chapter One. They operate as the **interpretive and evidentiary layer**; they do **not** operate as a competing substantive layer.
 
@@ -1161,7 +1157,7 @@ No interpretation of Chapter One is valid outside the definitions and evaluation
 
 <a id="12-ambiguity-resolution"></a>
 <a id="82-ambiguity-resolution"></a>
-#### 8.2 Ambiguity resolution
+#### 8.3 Ambiguity resolution
 
 Where Chapter One is ambiguous, interpreters must choose the reading that best preserves two things at once: the Constitution's **fullest protective effect as an integrated whole**, and its constitutional objective of aligning shared systems with sentient wellbeing. They must not resolve ambiguity by preferring **maximal restriction** or **abstract strictness** in isolation. Where **Chapter Six** rights are implicated, interpreters must **not** resolve ambiguity by readings that **contract** those protections, except where **Chapter One** interaction rules and applicable definitions **expressly** permit.
 
@@ -1174,14 +1170,15 @@ Where ambiguity remains after integrated reading, interpretation must also favor
 <a id="14-canonical-conflict-resolution-procedure"></a>
 <a id="84-canonical-conflict-resolution-procedure"></a>
 <a id="83-conflict-resolution-procedure"></a>
-#### 8.3 Conflict resolution procedure
+#### 8.4 Conflict resolution procedure
 
 This subsection is the **single canonical procedure** for resolving interpretive tension **within the binding constitutional source** (the integrated `core_*` instrument) and for reading **strictest** / **stricter** language in **[Chapter Sixteen](core_16-16_incorporation.md#2-authority-stack-and-invocation)** section 2 (*Conflict order*). For **value and rights collisions in operation** — not textual layer precedence — apply **[§6 Interaction and Conflict Resolution](#6-interaction-and-conflict-resolution)**.
 
 <a id="831-integrated-reading"></a>
-##### 8.3.1 Integrated reading
+<a id="841-integrated-reading"></a>
+##### 8.4.1 Integrated reading
 
-Apply **[§8.1 Definitional layer and required disciplines](#81-definitional-layer-and-required-disciplines)** and **[§8.2 Ambiguity resolution](#82-ambiguity-resolution)** first:
+Apply **[§8.2 Definitional layer and required disciplines](#81-definitional-layer-and-required-disciplines)** and **[§8.3 Ambiguity resolution](#82-ambiguity-resolution)** first:
 - **Chapters Two through Five** operate as the interpretive and evidentiary layer.
 - The **ambiguity** rule requires the fullest **protective** effect as an integrated whole and alignment with sentient wellbeing; it does **not** permit **maximal restriction** or **abstract strictness** in isolation.
 - **Chapter Six** rights may not be contracted except where **Chapter One** interaction rules and applicable definitions **expressly** permit.
@@ -1189,11 +1186,12 @@ Apply **[§8.1 Definitional layer and required disciplines](#81-definitional-lay
 <a id="13-internal-hierarchy-last-resort-rule"></a>
 <a id="83-internal-hierarchy-last-resort-rule"></a>
 <a id="832-last-resort-internal-hierarchy"></a>
-##### 8.3.2 Last-resort internal hierarchy
+<a id="842-last-resort-internal-hierarchy"></a>
+##### 8.4.2 Last-resort internal hierarchy
 
 Within the binding constitutional source, **Chapter One principles** govern high-level constitutional direction. **Article-level obligations and Rights Floors** govern specific operative requirements. The canonical statement of this rule — including its boundary with source-layer authority and its application to adopters under **Chapter Thirteen §3.1** — lives in the [Authority Stack and Internal Hierarchy](core_05i_integrative_definitions.md#authority-stack) cluster in Chapter Five.
 
-If a genuine incompatibility remains after integrated reading under **§8.3.1**:
+If a genuine incompatibility remains after integrated reading under **§8.4.1**:
 - principles control over articles
 - articles control over definitions read as independent substantive glosses
 - canonical definitions continue to govern the meaning of the terms used at each level
@@ -1206,9 +1204,10 @@ This hierarchy is an interpretive rule of last resort and does not license:
 Each principle in this chapter applies together with the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) and [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) established in [Chapter 00 §1 The Model](core_00_preamble.md#the-model). Section traces identify which tetrad leg or legs are materially implicated, which aim or aims are materially implicated, and whether duties scale with [material stake](core_00_preamble.md#material-stake).
 
 <a id="833-incorporation-layer"></a>
-##### 8.3.3 Incorporation layer
+<a id="843-incorporation-layer"></a>
+##### 8.4.3 Incorporation layer
 
-Where **[Chapter Sixteen](core_16-16_incorporation.md#2-authority-stack-and-invocation)** section 2 (*Conflict order*) calls for the **strictest applicable** incorporated **text** or a **stricter clearly adopted baseline** when **edition identifiers or custody records** are missing, contradictory, or materially unreliable, **strictest** and **stricter** carry the same **protective, integrated-reading** meaning as the **ambiguity** rule in **§8.2**:
+Where **[Chapter Sixteen](core_16-16_incorporation.md#2-authority-stack-and-invocation)** section 2 (*Conflict order*) calls for the **strictest applicable** incorporated **text** or a **stricter clearly adopted baseline** when **edition identifiers or custody records** are missing, contradictory, or materially unreliable, **strictest** and **stricter** carry the same **protective, integrated-reading** meaning as the **ambiguity** rule in **§8.3**:
 - **Strictest applicable** means the incorporated **text** that preserves the **strongest protective, safety, accountability, and traceability** requirements for the same materially scoped obligation among alternatives that remain coherent with the constitutional reading produced under the **Chapter Sixteen** stack — in the same sense as the Constitution's **fullest protective effect as an integrated whole**, and **not** **maximal restriction** or **abstract strictness** in isolation.
 - **Stricter clearly adopted baseline** means the **adoption-traceable** incorporated edition or **baseline** the adoption chain **clearly supports** when records are unreliable (custody discipline and anti-drift), **not** substantive constitutional ambiguity resolution by preference for **abstract strictness**.
 
