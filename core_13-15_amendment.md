@@ -79,7 +79,7 @@ No constitutional change is valid if it materially weakens core protections for 
 
 - Upstream: [§1](#1-non-regression-floor) non-regression floor definition.
 - Downstream: [§3](#3-anti-evasion-clause-and-constitutional-misconduct-referral) evasion and misconduct referral; [Chapter Fifteen](core_13-15_amendment.md#chapter-fifteen-amendment-ratification-and-procedural-validity) Tests 2–4 and procedural requirements (invalid if Test 1 fails regardless of procedure).
-- Read with: [Chapter One](core_01_b_stewardship_capacity_principles.md#chapter-01-principles-and-constraints) non-negotiable substantive constraints; [Chapter Twelve](core_12-12_governance.md#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship) legitimacy obligations.
+- Read with: [Chapter One](core_01_b_stewardship_capacity_principles.md#chapter-01-principles-and-constraints) non-negotiable principle constraints; [Chapter Twelve](core_12-12_governance.md#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship) legitimacy obligations.
 
 </details>
 
@@ -88,7 +88,7 @@ No constitutional change is valid if it materially weakens core protections for 
 *In plain terms: Test 1 is the checklist — if a proposal would gut Chapter One constraints, Chapters Two through Four integrity, Chapter Six rights, or Chapter Twelve legitimacy, it fails, including when the damage is done through procedure, evidence rules, or re-tagging rather than a single blunt deletion.*
 
 A proposed amendment is invalid if it materially weakens any of the following:
-- Chapter One non-negotiable substantive constraints
+- Chapter One non-negotiable principle constraints
 - **Chapters Two through Four** integrity requirements
 - Chapter Six Rights Floors
 - Chapter Twelve legitimacy obligations
@@ -264,7 +264,7 @@ For adopting entities, this Constitution and its integrated definitions govern i
 
 *In plain terms: if the law of the land (or a treaty) is tougher than this **Constitution** on protecting sentients, safety, or accountability, follow the tougher rule — unless it would force a violation of Safety or Truth, in which case interpret to maximize protection within those two hard limits.*
 
-Where valid external law, regulation, or treaty obligation applicable to the adopter imposes stricter protections, the stricter requirement governs. Stricter protections may address sentients, safety, epistemic integrity, transparency, or accountability. That rule applies where the stricter requirement can be honored without forcing violation of Chapter One non-negotiable substantive constraints (Safety and Truth). Where multiple interpretations are reasonably available, interpretation must favor the maximal protection consistent with those constraints.
+Where valid external law, regulation, or treaty obligation applicable to the adopter imposes stricter protections, the stricter requirement governs. Stricter protections may address sentients, safety, epistemic integrity, transparency, or accountability. That rule applies where the stricter requirement can be honored without forcing violation of Chapter One non-negotiable principle constraints (Safety and Truth). Where multiple interpretations are reasonably available, interpretation must favor the maximal protection consistent with those constraints.
 
 #### 3.3 Conflict Disclosure and Mitigation
 <details>
@@ -280,7 +280,7 @@ Where valid external law, regulation, or treaty obligation applicable to the ado
 
 *In plain terms: when outside requirements and constitutional floors seem impossible to square, say so on the record, tell **affected** **stakeholders** where it makes sense, try to sequence harm down — and never use the conflict as cover to comply only where it is easy or to dodge rights.*
 
-Where external requirements appear irreconcilable with constitutional Rights Floors or non-negotiable substantive constraints, adopters must document the conflict. They must:
+Where external requirements appear irreconcilable with constitutional Rights Floors or non-negotiable principle constraints, adopters must document the conflict. They must:
 
 - notify materially affected stakeholders where appropriate.
 - pursue feasible harmonization and least-harm sequencing.

@@ -867,7 +867,7 @@ A single pattern of conduct may carry multiple process / response characters at 
 
 *In plain terms: ordinary remedial, restrictive, or domain-specific processes **cannot** lawfully produce outcomes **below** constitutional floors — domain silos are not an end-run.*
 
-Where ordinary remedial, restrictive, or domain-specific treatment would permit outcomes below [Constitutional Constraints](core_05i_integrative_definitions.md#constitutional-constraint), constitutional requirements govern. No domain-specific process may narrow, waive, or undercut non-negotiable substantive constraints or constitutional protections.
+Where ordinary remedial, restrictive, or domain-specific treatment would permit outcomes below [Constitutional Constraints](core_05i_integrative_definitions.md#constitutional-constraint), constitutional requirements govern. No domain-specific process may narrow, waive, or undercut non-negotiable principle constraints or constitutional protections.
 
 <a id="63-anti-constitutional-lock-attachments-slots-7-9"></a>
 
@@ -945,7 +945,7 @@ No instruction, order, policy, or contractual directive requiring unlawful condu
 
 Issuing, authorizing, transmitting, ratifying, or materially enforcing such an instruction, order, policy, or contractual directive is independently classifiable violation conduct. Where the directive materially affects constitutional validity, constitutional operation, Rights-Floor governance, contestability, remedy access, evidence integrity, or the use of coercion or force against constitutional authority, it routes for possible anti-constitutional misconduct assessment under **Chapter Ten**, including **section 6.6**.
 
-Such directives and agreement terms within **Chapter Ten**, section **6.2** (*Rights-Floor waivers and unconstitutional contract terms*) and **section 6.6** (*Unlawful or unconstitutional command conduct*) are **never binding** to defeat, narrow, or foreclose non-negotiable substantive constraints, constitutional protections, audit or challenge rights, or pathways under **Article XXIII-A**.
+Such directives and agreement terms within **Chapter Ten**, section **6.2** (*Rights-Floor waivers and unconstitutional contract terms*) and **section 6.6** (*Unlawful or unconstitutional command conduct*) are **never binding** to defeat, narrow, or foreclose non-negotiable principle constraints, constitutional protections, audit or challenge rights, or pathways under **Article XXIII-A**.
 
 Actors with material capacity to refuse, contest, document, or escalate such directives must do so proportionately and in good faith.
 
