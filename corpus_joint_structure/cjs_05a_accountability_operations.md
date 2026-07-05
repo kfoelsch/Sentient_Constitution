@@ -41,7 +41,7 @@ This family operationalizes the **Accountability** leg of the [Constitutional Te
 - Read with: `corpus_systems.md` **CS-5 — Critical system stewardship**
 - Constitutional frame: **Accountability** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05o_oversight_definitions.md#materiality-determination).
 - Finding profile (default): `A·F·SSP` — [Non-Compliance Finding Profile](../core_05a_accountability_definitions.md#non-compliance-finding-profile); use **CCL** layer and **structural** or **stewardship** **failure character** when undocumented authority, capture, or concentration is material; add **severity tier** **T1**–**T4** per finding ([Chapter Three, section 2.8](../core_02-04_definition_mechanics.md#28-non-compliance-finding-profiles)).
-- Chapter One basis: Chapter One §7.1, §3, §4.2, §12.2, §6 (see [cluster map](#cjs-51-constitutional-compass-and-cluster-map)).
+- Chapter One basis: Chapter One §7.1, §3, §4.2, §12.2, §6, [§13.1](../core_01_c_stewardship_capacity_principles.md#131-concentration-threshold-mechanism-adopter-tunable) (see [cluster map](#cjs-51-constitutional-compass-and-cluster-map)).
 </details>
 
 <details>
@@ -55,7 +55,7 @@ This family operationalizes the **Accountability** leg of the [Constitutional Te
 - [Governance](../core_05a_accountability_definitions.md#governance) · [O](../core_05a_accountability_definitions.md#governance) · [E](../core_05a_accountability_definitions.md#governance-e) · [C](../core_05a_accountability_definitions.md#governance-c)
 - [Oversight](../core_05o_oversight_definitions.md#oversight-constitutional) · [O](../core_05o_oversight_definitions.md#oversight-constitutional) · [E](../core_05o_oversight_definitions.md#oversight-constitutional-e) · [C](../core_05o_oversight_definitions.md#oversight-constitutional-c)
 - [Material](../core_05o_oversight_definitions.md#material) · [O](../core_05o_oversight_definitions.md#material) · [E](../core_05o_oversight_definitions.md#material-e) · [C](../core_05o_oversight_definitions.md#material-c)
-- Chapter One basis: Chapter One §7.1, §3, §4.2, §12.2, §6 (see [cluster map](#cjs-51-constitutional-compass-and-cluster-map)).
+- Chapter One basis: Chapter One §7.1, §3, §4.2, §12.2, §6, [§13.1](../core_01_c_stewardship_capacity_principles.md#131-concentration-threshold-mechanism-adopter-tunable) (see [cluster map](#cjs-51-constitutional-compass-and-cluster-map)).
 </details>
 
 <br>
@@ -72,10 +72,38 @@ distributed and proportional authority terms
 
 The sub-rules below apply that cluster floor to specific anti-concentration, distribution, accountability, classification, lane, systemic, formation, oversight, participation, and stewardship dimensions. Read them together with the cluster floor and the CJS read-with chain.
 
-Anti-concentration guardrails and trigger mitigation
+<a id="cjs-5111-concentration-threshold-setting-discipline-adopter-tunable"></a>
+### CJS-5.11.1 Concentration threshold-setting discipline (adopter-tunable)
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: [Chapter One §13.1 Concentration Threshold Mechanism (Adopter-Tunable)](../core_01_c_stewardship_capacity_principles.md#131-concentration-threshold-mechanism-adopter-tunable); [Concentration Threshold](../core_05a_accountability_definitions.md#concentration-threshold-constitutional).
+- Downstream: [Chapter Ten §6](../core_10-10_misconduct.md#61-concentration-based-subversion-criteria-interaction) where concentration-based subversion is at issue; [§13.2 Pro-Competition and Anti-Domination](../core_01_c_stewardship_capacity_principles.md#132-pro-competition-and-anti-domination); [§13.3 Consolidation Ceiling](../core_01_c_stewardship_capacity_principles.md#133-consolidation-ceiling).
+- Read with: [§6.2.4 Proxy-Divergence Invalidation](../core_01_b_interaction_interpretation.md#632-proxy-divergence-invalidation); [Article I-D](../core_06-06_rights_part_a.md#article-i-d-existential-risk-and-recovery-capacity); [Article XII-A](../core_06-06_rights_part_c.md#article-xii-a-reliability-and-trustworthiness-baseline); [Article XIII-A](../core_06-06_rights_part_c.md#article-xiii-a-security-intelligence-and-covert-power-limits).
+
+</details>
+
+<br>
+
+*In plain terms: adopters may choose their own numbers and triggers, but not so high that concentration never matters, not so narrow that shell companies dodge the rule, and not so weak that review never happens.*
+
+Adopters must define [Concentration Threshold](../core_05a_accountability_definitions.md#concentration-threshold-constitutional) indicators and activate mitigation when thresholds are crossed or credibly approached. Threshold-setting must follow this discipline:
+
+- **Floor preservation.** No adopter-set threshold may sit above a level at which material concentration would predictably degrade wellbeing, agency, dignity, or ecological integrity for other sentients. Setting thresholds above that level is non-compliant — whatever the justification, including efficiency, competitiveness, productive-capacity, scale-economies, or emergency framing.
+- **Substance over form.** Thresholds judge substantive concentration, not headcount of legal entities. In scope where they produce concentrated material effect without formal concentration: federated structures, shell entities, interlocking directorates, cross-platform integration, information-sphere control, **Article XII-E** autonomy-stewardship capture, and comparable indirection. Aggregation through federated structures to evade the threshold is non-compliant.
+- **Anti-nullification.** Adopter-tunable does **not** mean adopter-optional. Non-compliant nullifications of the floor under [§6.2.4 Proxy-Divergence Invalidation](../core_01_b_interaction_interpretation.md#632-proxy-divergence-invalidation) include:
+  - thresholds set so high they foreseeably never bind;
+  - thresholds paired with unused or unusable enforcement tools; and
+  - threshold regimes that produce no actual review or intervention.
+- **Heightened scrutiny.** When concentration meaningfully touches any of the following, that article's tougher standards still apply — even when ordinary concentration thresholds have not been crossed:
+  - [Article I-D](../core_06-06_rights_part_a.md#article-i-d-existential-risk-and-recovery-capacity): existential risk and ecological recovery capacity;
+  - [Article XII-A](../core_06-06_rights_part_c.md#article-xii-a-reliability-and-trustworthiness-baseline): whether systems can be relied on; and
+  - [Article XIII-A](../core_06-06_rights_part_c.md#article-xiii-a-security-intelligence-and-covert-power-limits): limits on hidden or covert power.
+
 - OP-O: Systems must define concentration indicators and thresholds, and activate mitigation when thresholds are crossed or credibly approached.
-- OP-E: Reviewers must verify metrics such as lasting control, dependency concentration, and interface gatekeeping, along with available mitigation options.
-- OP-C: Persistent concentration without effective mitigation is non-compliant.
+- OP-E: Reviewers must verify metrics such as lasting control, dependency concentration, and interface gatekeeping, along with available mitigation options, together with the floor-preservation, substance-over-form, anti-nullification, and heightened-scrutiny discipline above.
+- OP-C: Persistent concentration without effective mitigation is non-compliant; threshold regimes that nullify the constitutional floor are non-compliant.
 
 Authority distribution and anti-monopoly floor
 - OP-O: No single entity may monopolize interpretation, validation, or enforcement where plural authority is required.

@@ -23,7 +23,7 @@
 9. **[Stewardship](core_05c_continuity_definitions.md#stewardship-constitutional)** orients material systems through sentient organization — **Pillar 1** ([§9.1](#91-stewardship): consequential hands-on operation and improvement) and **Pillar 2** ([§9.2](#92-distributed-understanding) · [§9.3](#93-institutional-development): competence at community and institutional scale) — toward durable constitutional alignment over time under the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — especially **[Participation](core_05p_participation_definitions.md#participation-constitutional)** (consequential roles and voice) and **[Oversight](core_05o_oversight_definitions.md#oversight-constitutional)** (distributed understanding, auditability, and contestability) — including the **Continuity** aim under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims).
 10. **[Governance](core_05a_accountability_definitions.md#governance)** structures authorized decision-making, participation, and accountability under the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — especially **[Oversight](core_05o_oversight_definitions.md#oversight-constitutional)** of how authority is allocated and exercised. Where governance and stewardship conflict, stewardship discipline controls at principle layer unless **Necessity** and **Proportionality** expressly justify a bounded, time-limited exception with correction paths. Operative authorization and contract-layer requirements remain owned by **Chapter Twelve**.
 11. **[Incentive Alignment and System Capture](#11-incentive-alignment-and-system-capture)** supplies the principle-layer discipline for incentive structures, proxy integrity, short-horizon defects, reward-path correction, and capture response.
-12. **[Shared-System Capacity](core_05c_continuity_definitions.md#shared-system-capacity-constitutional)** is the durable, contestable ability those jointly produce — an **instrumental outcome** toward the **Flourishing** aim under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims), not a freestanding trump value.
+12. **[Shared-System Capacity](core_05c_continuity_definitions.md#shared-system-capacity-constitutional)** is what good stewardship, governance, and incentives should add up to over time — real, challengeable ability for people and shared systems to get constitutionally required work done. It is a means toward **Flourishing**, not a trump card over everything else. **[§12.1](#121-productive-capacity-instrumental-good)** and **[§12.2](#122-constitutional-efficiency)** explain its two main aspects.
 13. **[Market Structure](core_05a_accountability_definitions.md#market-structure-constitutional)** at [§13](#13-market-structure) supplies the anti-concentration discipline that keeps that capacity contestable in practice.
 14. **[Systemic Evaluation Requirement](#14-systemic-evaluation-requirement)** verifies whole-system scope, dependency, and incentive alignment before compliance or governance claims stand.
 15. **[Integrated Application](#15-integrated-application)** is the chapter capstone: later chapters are read through this chapter's integrated-value framework.
@@ -46,7 +46,8 @@
 - Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — primary Chapter One home for the **participation** leg (consequential roles and voice; general requirement, not [Stakeholder System Participation](core_05p_participation_definitions.md#stakeholder-status-emergency-and-participation-weight-cluster) alone), **oversight** leg, and **timeliness** leg (proactive repair velocity); [material stake](core_00_preamble.md#material-stake) scaling.
 - Read with: [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — **Flourishing** aim (participation, agency, and educational pathways); **Continuity** aim (institutional learning, repair capacity, and durable stewardship).
 - Upstream: Principles: [2. Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing); [3.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint); [4. Trust](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity); and [§12 Shared-System Capacity](#12-shared-system-capacity).
-- Downstream: [6. Process Conflict Resolution](core_01_b_interaction_interpretation.md#6-process-conflict-resolution) (including [§6.3 Minimization of Avoidable Burden](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden)); [§14.1 Required Evaluation Factors](#141-required-evaluation-factors); [§11.7 Stewardship and Operator Incentive Alignment](#117-stewardship-and-operator-incentive-alignment).
+- Downstream: [6. Process Conflict Resolution](core_01_b_interaction_interpretation.md#6-process-conflict-resolution) (including [§6.3 Minimization of Avoidable Burden](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden)); [§14.1 Required Evaluation Factors](#141-required-evaluation-factors); [§11.1.3 Stewardship and Operator Application](#1113-stewardship-and-operator-application).
+- Downstream: [§11.1.4 Role-Depth and Material-Responsibility Pathways](#1114-role-depth-and-material-responsibility-pathways).
 - Downstream: [§5 Freedom (Bounded Agency)](core_01_a_values_principles.md#5-freedom-bounded-agency), which depends on consequential stewardship, distributed understanding, meaningful participation, and repair capacity remaining real under material dependency.
 - Downstream: [Chapter Seven — System Alignment Certification](core_07-07_system_alignment_certification.md#chapter-seven-system-alignment-certification) (*forum-supervised system alignment records before standing*); [Chapter Eight — Contribution, Violation, and Standing Model](core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) (*standing effect — trust-, role-, and recognition-eligibility — implements this subsection as its principle-layer foundation*).
 - Downstream: [Chapter Eleven §1 — Purpose and role](core_11-11_forum.md#2-purpose-and-role) and [§4 — Forum families](core_11-11_forum.md#4-forum-families) (*forum families carry the participation and oversight architecture for contestable challenge, remediation sequencing, root-cause learning, and proactive governance aligned with this section*); [corpus_forum.md](corpus_forum.md) for adopted forum operations.
@@ -360,6 +361,7 @@ An arrangement that no longer fits the Constitution cannot stay in place just be
 - Read with: [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — **Continuity** aim (durable alignment against short-horizon optimization and capture); **Flourishing** aim (incentive structures that preserve meaningful agency).
 - Upstream: Principles: [2. Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§2.2 Recognition, Reinforcement, and Aspiration](core_01_a_values_principles.md#22-recognition-reinforcement-and-aspiration), [3.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [3.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [4. Trust](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity), [§9 Stewardship and Distributed Understanding](#9-stewardship-and-distributed-understanding), and [§14.1 Required Evaluation Factors](#141-required-evaluation-factors).
 - Downstream: [§5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency) and [§7 Prohibition on Absolute Override](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override).
+- Downstream: [§6.3 Minimization of Avoidable Burden](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden); [Chapter Twelve §5 — Authorized Roles, Competency Development, and Contribution](core_12-12_governance.md#5-authorized-roles-competency-development-and-contribution); **[corpus_systems.md](corpus_systems.md), CS-5 — Critical system stewardship**.
 - Downstream: Targets the rights surface for agency, participation, incentive alignment, info-sphere integrity, standing, and anti-capture review across [Chapter Six: Foundational Rights](core_06-06_rights_part_a.md#chapter-six-foundational-rights); especially [Article IX: Self-Determination and Agency](core_06-06_rights_part_b.md#article-ix-self-determination-and-agency), [Article XI: Stakeholder System Participation, Representation, and Due Process](core_06-06_rights_part_b.md#article-xi-stakeholder-system-participation-representation-and-due-process), [Article XII-D: Incentive-Alignment Constraint](core_06-06_rights_part_c.md#article-xii-d-incentive-alignment-constraint), [Article XIV: Info-Sphere Integrity](core_06-06_rights_part_c.md#article-xiv-info-sphere-integrity), [Article XVIII: Standing and Participation Status](core_06-06_rights_part_c.md#article-xviii-standing-and-participation-status), and [Article XXII: Constitutional Interpretation, Review, and Anti-Capture Safeguards](core_06-06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards).
 
 </details>
@@ -394,7 +396,7 @@ Systems must detect, disclose, and correct **short-horizon governance defects** 
 - ensure those structures do not systematically undermine those values and constraints; and
 - ensure those structures do not capture, hollow, or misalign the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) below what [material stake](core_00_preamble.md#material-stake) requires.
 
-[§11.5](#115-contingent-claims-games-of-chance-and-event-contract-markets) states a **special application** for contingent claims, games of chance, and event-contract markets.
+[§11.5](#115-contingent-claims-games-of-chance-and-event-contract-markets) states a **special application** for contingent claims, games of chance, and event-contract markets. [§11.1.3](#1113-stewardship-and-operator-application) states stewardship and operator vocabulary and pathway rules under the same general standard; neither creates a weaker incentive rule than [§11.1](#111-alignment-requirement).
 
 <a id="111-alignment-requirement"></a>
 #### 11.1 Alignment Requirement
@@ -434,6 +436,21 @@ Incentives must not reward, protect, normalize, or make materially advantageous:
   - comparable arrangements.
 
 **Misaligned reward consequences.** Material rewards obtained through prohibited pathways above are subject to forfeiture and reporting under the standing model. Read [Chapter Eight §3.3.1 Misaligned Reward Forfeiture](core_08-08_standing_assessment.md#331-misaligned-reward-forfeiture) and [§3.3.2 Misaligned Reward Reporting](core_08-08_standing_assessment.md#332-misaligned-reward-reporting), with record and classification discipline at [Chapter Eight §3.3.3](core_08-08_standing_assessment.md#333-misaligned-reward-benefit-retention-record-and-classification-discipline).
+
+<a id="1113-stewardship-and-operator-application"></a>
+<a id="117-stewardship-and-operator-incentive-alignment"></a>
+##### 11.1.3 Stewardship and Operator Application
+
+For stewards and operators under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) and [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), scaled to [material stake](core_00_preamble.md#material-stake): [Productive Capacity](core_05c_continuity_definitions.md#productive-capacity-constitutional) and [Constitutional Efficiency](core_05c_continuity_definitions.md#constitutional-efficiency) name what rewards may legitimately track — real, durable capacity and outcome-per-resource improvement. [Avoidable Burden](core_05c_continuity_definitions.md#avoidable-burden) and [Proxy Divergence](core_05o_oversight_definitions.md#proxy-divergence) guard against rewarding busywork, hollow targets, or metrics that no longer prove outcomes. [Auditability](core_05o_oversight_definitions.md#auditability), [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint), [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint), and [System Capture](core_05c_continuity_definitions.md#system-capture) remain the floor.
+
+<a id="1114-role-depth-and-material-responsibility-pathways"></a>
+##### 11.1.4 Role-Depth and Material-Responsibility Pathways
+
+Authorized roles, competency development, and paths into material responsibility for stewards and operators appear in **Chapter Twelve, section 5 — Authorized Roles, Competency Development, and Contribution** and in **[corpus_systems.md](corpus_systems.md), CS-5 — Critical system stewardship**. Principle-layer framing for distributed understanding and consequential stewardship appears at [§9 Stewardship and Distributed Understanding](#9-stewardship-and-distributed-understanding).
+
+Those pathways must support [**Meaningful Agency**](core_05p_participation_definitions.md#meaningful-agency) and advance the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) through the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) **participation** and **accountability** legs, scaled to [material stake](core_00_preamble.md#material-stake).
+
+They **must not** treat **symbolic** participation as a **substitute** for **consequential** duty where impact requires the latter.
 
 <a id="112-convenient-proxies-and-proxy-divergence"></a>
 #### 11.2 Convenient Proxies and Proxy Divergence
@@ -558,50 +575,6 @@ Receivership, restructuring, asset transfer, dissolution, insolvency, or compara
 
 Successors, estates, receivers, and comparable transferees inherit proportionate duties to satisfy or lawfully transfer those obligations unless less harmful alternatives are demonstrably infeasible under [Necessity](core_05a_accountability_definitions.md#necessity) and [Proportionality](core_05a_accountability_definitions.md#proportionality) review.
 
-<a id="117-stewardship-and-operator-incentive-alignment"></a>
-#### 11.7 Stewardship and Operator Incentive Alignment
-
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **accountability** leg (operator answerability and anti-capture); **participation** leg (stewardship roles with real effect); **oversight** leg (auditable, contestable incentive structures); **timeliness** leg ([Timeliness](core_05a_accountability_definitions.md#timeliness-constitutional), timely remediation); [material stake](core_00_preamble.md#material-stake) scaling.
-- Read with: [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — **Flourishing** aim (constitutional outcomes, [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency), and real paths into consequential duty); **Continuity** aim (durable [Productive Capacity](core_05c_continuity_definitions.md#productive-capacity-constitutional), competency retention, institutional memory, and long-horizon stewardship discipline).
-- Upstream: Principles: [§11 Incentive Alignment and System Capture](#11-incentive-alignment-and-system-capture) (including [§11.1 Alignment Requirement](#111-alignment-requirement)); [§9 Stewardship and Distributed Understanding](#9-stewardship-and-distributed-understanding); [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims).
-- Downstream: [§11.4 Misalignment Correction and Capture Response](#114-misalignment-correction-and-capture-response); [§6.3 Minimization of Avoidable Burden](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden); [§14.1 Required Evaluation Factors](#141-required-evaluation-factors); [Chapter Twelve §5 — Authorized Roles, Competency Development, and Contribution](core_12-12_governance.md#5-authorized-roles-competency-development-and-contribution); **[corpus_systems.md](corpus_systems.md), CS-5 — Critical system stewardship**.
-- Read with: [Productive Capacity](core_05c_continuity_definitions.md#productive-capacity-constitutional), [Constitutional Efficiency](core_05c_continuity_definitions.md#constitutional-efficiency), [Avoidable Burden](core_05c_continuity_definitions.md#avoidable-burden), and [Proxy Divergence](core_05o_oversight_definitions.md#proxy-divergence) in **Chapter Five**.
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
-
-- [Incentive Alignment](core_05i_integrative_definitions.md#incentive-alignment) · [O](core_05i_integrative_definitions.md#incentive-alignment) · [E](core_05i_integrative_definitions.md#incentive-alignment) · [C](core_05i_integrative_definitions.md#incentive-alignment)
-- [Productive Capacity](core_05c_continuity_definitions.md#productive-capacity-constitutional) · [O](core_05c_continuity_definitions.md#productive-capacity-constitutional) · [E](core_05c_continuity_definitions.md#productive-capacity-constitutional-e) · [C](core_05c_continuity_definitions.md#productive-capacity-constitutional-c)
-- [Constitutional Efficiency](core_05c_continuity_definitions.md#constitutional-efficiency) · [O](core_05c_continuity_definitions.md#constitutional-efficiency) · [E](core_05c_continuity_definitions.md#constitutional-efficiency-e) · [C](core_05c_continuity_definitions.md#constitutional-efficiency-c)
-- [Avoidable Burden](core_05c_continuity_definitions.md#avoidable-burden) · [O](core_05c_continuity_definitions.md#avoidable-burden) · [E](core_05c_continuity_definitions.md#avoidable-burden-e) · [C](core_05c_continuity_definitions.md#avoidable-burden-c)
-- [Proxy Divergence](core_05o_oversight_definitions.md#proxy-divergence) · [O](core_05o_oversight_definitions.md#proxy-divergence) · [E](core_05o_oversight_definitions.md#proxy-divergence-e) · [C](core_05o_oversight_definitions.md#proxy-divergence-c)
-- [Auditability](core_05o_oversight_definitions.md#auditability) · [O](core_05o_oversight_definitions.md#auditability) · [E](core_05o_oversight_definitions.md#auditability-e) · [C](core_05o_oversight_definitions.md#auditability-c)
-- [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint) · [O](core_05c_continuity_definitions.md#safety-constraint) · [E](core_05c_continuity_definitions.md#safety-constraint-e) · [C](core_05c_continuity_definitions.md#safety-constraint-c)
-- [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint) · [O](core_05o_oversight_definitions.md#truth-constitutional-constraint-o) · [E](core_05o_oversight_definitions.md#truth-constitutional-constraint-e) · [C](core_05o_oversight_definitions.md#truth-constitutional-constraint-c)
-- [System Capture](core_05c_continuity_definitions.md#system-capture) · [O](core_05c_continuity_definitions.md#system-capture) · [E](core_05c_continuity_definitions.md#system-capture-e) · [C](core_05c_continuity_definitions.md#system-capture-c)
-- [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency) · [O](core_05a_accountability_definitions.md#meaningful-agency-o) · [E](core_05p_participation_definitions.md#meaningful-agency-e) · [C](core_05p_participation_definitions.md#meaningful-agency-c)
-
-</details>
-
-<br>
-
-*In plain terms: this section applies the general incentive-alignment rule to stewards and operators. Operators who run shared systems should be paid and promoted for making things actually safer, truer, more auditable, and more capable over time. Sentients in consequential stewardship roles also need real paths into work that matters — not symbolic participation where material responsibility is required. The rule lives in [§11.1](#111-alignment-requirement) and [§11.2](#112-convenient-proxies-and-proxy-divergence); misaligned-reward correction is operational in [Chapter Eight §3.3.1–§3.3.3](core_08-08_standing_assessment.md#331-misaligned-reward-forfeiture). This section keeps the operator and stewardship pathway visible.*
-
-**Stewardship and operator application.** [§11.1 Alignment Requirement](#111-alignment-requirement) and [§11.2 Convenient Proxies and Proxy Divergence](#112-convenient-proxies-and-proxy-divergence) apply to stewards, operators, agents, and constituent components under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) and [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), scaled to [material stake](core_00_preamble.md#material-stake). For those roles, **Productive Capacity** and **Constitutional Efficiency** name what rewards may legitimately track: real, durable capacity and outcome-per-resource improvement. **Avoidable Burden** and **Proxy Divergence** guard against rewarding busywork, hollow targets, or metrics that no longer prove outcomes. **Auditability**, **Safety**, **Truth**, and **System Capture** remain the floor.
-
-This section shows how the general rule applies to stewards and operators — it does not create a second, weaker incentive standard. If a pay, promotion, or reward path conflicts with **§11.1** or **§11.2**, those sections control, and correction goes through [§11.4 Misalignment Correction and Capture Response](#114-misalignment-correction-and-capture-response).
-
-**Role-depth and material-responsibility pathways.** Authorized roles, competency development, and paths into material responsibility for stewards and operators appear in **Chapter Twelve, section 5 — Authorized Roles, Competency Development, and Contribution** and in **[corpus_systems.md](corpus_systems.md), CS-5 — Critical system stewardship**. Principle-layer framing for distributed understanding and consequential stewardship appears at [§9 Stewardship and Distributed Understanding](#9-stewardship-and-distributed-understanding).
-
-Those pathways must support [**Meaningful Agency**](core_05p_participation_definitions.md#meaningful-agency) and advance the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) through the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) **participation** and **accountability** legs, scaled to [material stake](core_00_preamble.md#material-stake).
-
-They **must not** treat **symbolic** participation as a **substitute** for **consequential** duty where impact requires the latter.
-
 <a id="12-shared-system-capacity"></a>
 ### 12. Shared-System Capacity
 <details>
@@ -609,14 +582,17 @@ They **must not** treat **symbolic** participation as a **substitute** for **con
 
 - Read with: [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — **Continuity** aim (ecological integrity, intergenerational responsibility, and durable shared-system capacity).
 - Upstream: Principles: [Chapter 00 §1 The Model](core_00_preamble.md#the-model); [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — **Continuity** aim development; [2. Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [4. Trust](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity), and [§12 Shared-System Capacity](#12-shared-system-capacity).
-- Downstream: [§6.3 Minimization of Avoidable Burden](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden), [10. Governance Under Stewardship Discipline](#10-governance-under-stewardship-discipline), and [§11.7 Stewardship and Operator Incentive Alignment](#117-stewardship-and-operator-incentive-alignment).
+- Downstream: [§6.3 Minimization of Avoidable Burden](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden), [10. Governance Under Stewardship Discipline](#10-governance-under-stewardship-discipline), and [§11.1.3 Stewardship and Operator Application](#1113-stewardship-and-operator-application).
+- Downstream: [corpus_joint_structure.md](corpus_joint_structure.md) **CJS-5.11.1 — Concentration threshold-setting discipline (adopter-tunable)** (operative threshold-setting rules).
 - Downstream: Shapes the rights surface for ecological preconditions, resource allocation, educational and developmental capacity, lifecycle resilience, interoperability, comprehensibility, and adaptive response; especially [Article I-A: Environmental Preconditions and Ecological Integrity](core_06-06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity), [Article III: Survival and Equal Educational Access](core_06-06_rights_part_a.md#article-iii-survival-and-equal-educational-access), [Article IV: Resource Allocation, Dependencies, and Ecosystem Funding](core_06-06_rights_part_a.md#article-iv-resource-allocation-dependencies-and-ecosystem-funding), [Article IX: Self-Determination and Agency](core_06-06_rights_part_b.md#article-ix-self-determination-and-agency), [Article XVI: System Lifecycle, Environments, and Reversibility](core_06-06_rights_part_c.md#article-xvi-system-lifecycle-environments-and-reversibility), [Article XIX: Interoperability, Portability, Movement, Refuge, and Exit Integrity](core_06-06_rights_part_c.md#article-xix-interoperability-portability-and-exit-integrity), [Article XX: Comprehensibility and Complexity Stewardship](core_06-06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship), and [Article XXI: Root Cause Analysis and Adaptive Response](core_06-06_rights_part_c.md#article-xxi-root-cause-analysis-and-adaptive-response).
+- Subsections (reading order): [§12.1 Productive Capacity (Instrumental Good)](#121-productive-capacity-instrumental-good) · [§12.2 Constitutional Efficiency](#122-constitutional-efficiency).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
 
+- [Shared-System Capacity](core_05c_continuity_definitions.md#shared-system-capacity-constitutional) · [O](core_05c_continuity_definitions.md#shared-system-capacity-constitutional) · [E](core_05c_continuity_definitions.md#shared-system-capacity-constitutional-e) · [C](core_05c_continuity_definitions.md#shared-system-capacity-constitutional-c)
 - [Productive Capacity](core_05c_continuity_definitions.md#productive-capacity-constitutional) · [O](core_05c_continuity_definitions.md#productive-capacity-constitutional) · [E](core_05c_continuity_definitions.md#productive-capacity-constitutional-e) · [C](core_05c_continuity_definitions.md#productive-capacity-constitutional-c)
 - [Constitutional Efficiency](core_05c_continuity_definitions.md#constitutional-efficiency) · [O](core_05c_continuity_definitions.md#constitutional-efficiency) · [E](core_05c_continuity_definitions.md#constitutional-efficiency-e) · [C](core_05c_continuity_definitions.md#constitutional-efficiency-c)
 - [Wellbeing](core_05c_continuity_definitions.md#wellbeing) · [O](core_05c_continuity_definitions.md#wellbeing) · [E](core_05c_continuity_definitions.md#wellbeing-e) · [C](core_05c_continuity_definitions.md#wellbeing-c)
@@ -635,59 +611,59 @@ They **must not** treat **symbolic** participation as a **substitute** for **con
 
 <br>
 
-*In plain terms: shared systems should help sentients live better over time — more real capacity, less waste. **Productive Capacity** is the durable ability to turn time, effort, and resources into constitutionally aligned outcomes. **Constitutional Efficiency** asks whether that happens without burning more sentient time, attention, and shared resources than necessary. Neither label counts if the "gain" comes from hoarding wealth or power, cheating metrics, stripping rights, or loading harm onto others or the planet. Anti-concentration discipline for contestable productive conditions appears in **[§13 Market Structure](#13-market-structure)**.*
+*In plain terms: when shared systems are run well, people should be able to do useful work, improve life over time, and push back when something is wrong — without everything getting locked up by a few powerful actors. That overall ability is **Shared-System Capacity**. **[§12.1](#121-productive-capacity-instrumental-good)** covers whether people can actually participate and get real results; **[§12.2](#122-constitutional-efficiency)** covers whether those results come without wasting everyone's time, money, and attention. **[§13 Market Structure](#13-market-structure)** stops a handful of players from hollowing that out. None of it counts if the "progress" comes from hoarding wealth or power, faking the numbers, stripping rights, or dumping harm on others or the planet.*
 
-**[Shared-System Capacity](core_05c_continuity_definitions.md#shared-system-capacity-constitutional)** is the durable, contestable ability stewardship and governance jointly produce — an **instrumental outcome** toward the **Flourishing** aim under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims), not a freestanding trump value.
+**[Shared-System Capacity](core_05c_continuity_definitions.md#shared-system-capacity-constitutional)** is what [Stewardship](core_05c_continuity_definitions.md#stewardship-constitutional) and [Governance](core_05a_accountability_definitions.md#governance) should produce together over time: lasting, challengeable ability for sentients and shared systems to achieve what this Constitution requires. It is a **means** toward the **Flourishing** aim under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — not a trump card that overrides safety, truth, rights, or ecology.
 
-**Productive Capacity** and **Constitutional Efficiency** work as a pair. **Productive Capacity** is the durable ability to achieve constitutionally aligned outcomes. **Constitutional Efficiency** is disciplined improvement in outcomes per unit of sentient time, attention, effort, coordination, and shared resources consumed.
+That capacity has several aspects working together:
+- **[Productive Capacity](core_05c_continuity_definitions.md#productive-capacity-constitutional)** — can people participate, contribute, and get real results? ([§12.1](#121-productive-capacity-instrumental-good))
+- **[Constitutional Efficiency](core_05c_continuity_definitions.md#constitutional-efficiency)** — are those results achieved without wasting sentient time, attention, and shared resources? ([§12.2](#122-constitutional-efficiency))
+- **Anti-concentration discipline** — can people still challenge, compete, and leave? ([§13](#13-market-structure))
+- **Fair stakeholder representation, exit, contestability, and ecological preconditions** — are affected stakeholders represented fairly, and do the background conditions keep capacity real instead of hollow?
 
-**Wellbeing**, **Dignity and Equal Moral Standing**, and **Meaningful Agency** state what counts as success. **Feasibility**, **Necessity**, and **Proportionality** govern tradeoffs. **Avoidable Burden** and **Proxy Divergence** govern waste and metric honesty. **Ecological Integrity**, **Environmental Preconditions**, and **Intergenerational Responsibility** keep capacity tied to survival and continuity. This subsection advances the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — **Flourishing** through shared productive capacity and **Continuity** through durable, contestable, ecologically bounded systems.
+**[Wellbeing](core_05c_continuity_definitions.md#wellbeing)**, **[Dignity and Equal Moral Standing](core_05p_participation_definitions.md#dignity-and-equal-moral-standing)**, and **[Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency)** say what success looks like. **[Feasibility](core_05a_accountability_definitions.md#feasibility)**, **[Necessity](core_05a_accountability_definitions.md#necessity)**, and **[Proportionality](core_05a_accountability_definitions.md#proportionality)** govern hard tradeoffs. **[Avoidable Burden](core_05c_continuity_definitions.md#avoidable-burden)** and **[Proxy Divergence](core_05o_oversight_definitions.md#proxy-divergence)** catch pointless friction and dishonest metrics. **[Ecological Integrity](core_05c_continuity_definitions.md#ecological-integrity-constitutional)**, **[Environmental Preconditions](core_05c_continuity_definitions.md#environmental-preconditions-constitutional)**, and **[Intergenerational Responsibility](core_05c_continuity_definitions.md#intergenerational-responsibility-constitutional)** keep capacity tied to a livable world over time.
 
 <a id="121-productive-capacity-instrumental-good"></a>
 #### 12.1 Productive Capacity (Instrumental Good)
 
-*In plain terms: productive capacity is the real ability to turn time, effort, and resources into outcomes that actually improve sentient lives — and to keep that ability over time. It is a tool for better living, not a license to concentrate power or ship volume while others pay the cost.*
+*In plain terms: productive capacity is the "can we actually get things done?" aspect of shared-system capacity. Can people take part, learn, contribute, and turn effort and resources into results that make life better — and keep that ability over time? It is a tool for better living, not a license to pile up power, chase volume, or make others pay the hidden costs.*
 
-**Productive capacity** is the durable ability of sentients and shared systems to turn available time, attention, effort, coordination, and resources into constitutionally aligned outcomes. It is an **instrumental good** — a means — not a freestanding value.
+**[Productive Capacity](core_05c_continuity_definitions.md#productive-capacity-constitutional)** is one aspect of **[Shared-System Capacity](core_05c_continuity_definitions.md#shared-system-capacity-constitutional)**. It names the lasting ability of sentients and shared systems to:
+- support real participation, contribution, and skill-building; and
+- turn time, attention, effort, coordination, and resources into outcomes this Constitution actually requires.
 
-Its constitutional job is to raise, sustain, and spread quality of life — serving the **Flourishing** aim — consistent with the [Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [Dignity and Equal Moral Standing](core_05p_participation_definitions.md#dignity-and-equal-moral-standing), and the Chapter Six Rights Floor, and within the **Continuity** aim's ecological and intergenerational bounds under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims).
+It is an **instrumental good** — a means, not a trump value. Its job is to raise, sustain, and spread quality of life under the **Flourishing** aim, consistent with [Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [Dignity and Equal Moral Standing](core_05p_participation_definitions.md#dignity-and-equal-moral-standing), the Chapter Six Rights Floor, and the ecological and intergenerational limits of the **Continuity** aim under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims).
 
-Productive capacity is **not** a pass to concentrate wealth, power, control, or opportunity in ways that degrade wellbeing, agency, dignity, or ecological integrity for other sentients — present or future. That pattern does not qualify.
+Systems must preserve productive capacity and, where feasible, expand it when doing so would improve [Constitutional Efficiency](core_05c_continuity_definitions.md#constitutional-efficiency) ([§12.2](#122-constitutional-efficiency)). That obligation stays within Safety, Truth, Trust, Freedom, the Chapter Six Rights Floor (including [Article I-A](core_06-06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity)), **[Ecological Integrity](core_05c_continuity_definitions.md#ecological-integrity-constitutional)**, **[Environmental Preconditions](core_05c_continuity_definitions.md#environmental-preconditions-constitutional)**, **[Intergenerational Responsibility](core_05c_continuity_definitions.md#intergenerational-responsibility-constitutional)**, and Chapter One's non-negotiable substantive-constraint discipline; is judged against traced outcomes under **Chapters Four and Five**; and must be shown with evidence, not slogans.
 
-It is also bounded by the ecological preconditions life depends on. Life-supporting natural systems have continuity and integrity interests alongside sentient interests, recognized in Chapter Five as **Environmental Preconditions** and **Ecological Integrity**, and protected under [Article I-A](core_06-06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity).
+Productive capacity does not count — and must not be used to justify:
+- concentrating wealth, power, control, or opportunity in ways that harm other sentients' wellbeing, agency, dignity, or ecological conditions — now or later;
+- degrading life-supporting natural systems, or pushing ecological or intergenerational costs onto others without mitigation, disclosure, and representation;
+- raw throughput, output volume, utilization, headcount, revenue, asset growth, market share, or similar proxies that no longer track real outcomes — including proxies that show "growth" while harm is exported to sentients, future generations, or the environment;
+- narrowing or delaying Chapter Six rights, including ecological preconditions under **Article I-A**;
+- bypassing [§6 Process Conflict Resolution](core_01_b_interaction_interpretation.md#6-process-conflict-resolution), including the [§6.1 decision-record discipline](core_01_b_interaction_interpretation.md#631-rights-collision-decision-test);
+- weakening audit, contestability, or retrospective-review duties; or
+- the other prohibited override paths in [§7 Prohibition on Absolute Override](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override), including shifting ecological, intergenerational, or distributional harm off the books that **Chapters Two through Four** require stay visible.
 
-A productive-capacity claim fails where it materially degrades those systems, or shifts ecological or intergenerational burden onto others without mitigation, disclosure, and representation.
-
-Systems must preserve productive capacity and, where feasible, expand it. That obligation:
-- stays within Safety, Truth, Trust, Freedom, the Chapter Six Rights Floor (including [Article I-A](core_06-06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity)), **Ecological Integrity**, **Environmental Preconditions**, **Intergenerational Responsibility**, and Chapter One's non-negotiable substantive-constraint discipline
-- is judged against constitutionally traced outcomes under **Chapters Four and Five** (*Productive Capacity*; *Constitutional Efficiency*; *Avoidable Burden*; *Proxy Divergence*; *Ecological Integrity*; *Environmental Preconditions*; *Intergenerational Responsibility*)
-- is **not** met by raw throughput, output volume, utilization, headcount, revenue, asset growth, market share, or similar proxies that diverge from real outcomes — including proxies that show "growth" or "efficiency" while externalizing harm onto sentients, future generations, or life-supporting systems
-
-Productive capacity must not justify:
-- narrowing or delaying Chapter Six rights, including ecological preconditions under **Article I-A**
-- bypassing [§6 Process Conflict Resolution](core_01_b_interaction_interpretation.md#6-process-conflict-resolution), including the [§6.1 decision-record discipline](core_01_b_interaction_interpretation.md#631-rights-collision-decision-test)
-- weakening audit, contestability, or retrospective-review duties
-- concentration that predictably degrades wellbeing, agency, dignity, or ecological integrity for other sentients
-- shifting ecological, intergenerational, or distributional harm outside the accounting **Chapters Two through Four** require
-- the other prohibited override paths in [§7 Prohibition on Absolute Override](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override)
-
-Where productive-capacity claims rest on proxies that materially diverge from constitutional outcomes — including proxies that hide ecological damage, intergenerational displacement, or concentration-driven harm — [§6.2.4 Proxy-Divergence Invalidation](core_01_b_interaction_interpretation.md#632-proxy-divergence-invalidation) applies.
+Where productive-capacity claims rest on metrics that no longer prove real outcomes — including metrics that hide ecological damage, future harm, or concentration-driven loss — [§6.2.4 Proxy-Divergence Invalidation](core_01_b_interaction_interpretation.md#632-proxy-divergence-invalidation) applies.
 
 <a id="122-constitutional-efficiency"></a>
 #### 12.2 Constitutional Efficiency
 
-*In plain terms: constitutional efficiency means getting more real constitutional benefit per unit of sentient time and shared effort — not cutting corners on rights, truth, or ecology in the name of speed, utilization, or savings.*
+*In plain terms: constitutional efficiency is the "are we getting our money's worth in human terms?" aspect of shared-system capacity. More real benefit for each hour of sentient time, attention, and shared effort — not cutting corners on rights, truth, safety, or ecology just to look fast, lean, or cheap.*
 
-**Constitutional Efficiency** measures whether systems improve sentient wellbeing by producing more constitutionally aligned outcome per unit of sentient time, attention, effort, coordination, and shared resources consumed.
+**[Constitutional Efficiency](core_05c_continuity_definitions.md#constitutional-efficiency)** is the other main aspect of **[Shared-System Capacity](core_05c_continuity_definitions.md#shared-system-capacity-constitutional)**. It asks whether systems produce more constitutionally required benefit per unit of sentient time, attention, effort, coordination, and shared resources consumed.
 
-It is an engine for broadly shared improvement, but only inside constitutional bounds. It is not raw speed, administrative convenience, utilization targets, revenue growth, market share, headcount cuts, or cost-cutting for its own sake.
+Efficiency can drive broadly shared improvement, but only inside constitutional bounds. By itself, it is **not**:
+- raw speed;
+- administrative convenience;
+- utilization targets;
+- revenue growth;
+- market share;
+- headcount cuts; or
+- cost-cutting for its own sake.
 
-A claimed efficiency gain counts only when traced to underlying constitutional outcomes and consistent with Safety, Truth, the Chapter Six Rights Floor, ecological integrity, dignity, meaningful agency, and fair distribution. Efficiency gains must not hollow the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) or substitute proxy metrics for progress toward the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims).
-
-**Constitutional Efficiency** works with, but is distinct from, **Productive Capacity** and **Avoidable Burden**:
-- **Productive Capacity** — whether sentients and shared systems keep and expand durable ability to achieve aligned outcomes over time
-- **Constitutional Efficiency** — whether those outcomes are achieved with disciplined use of shared resources
-- **Avoidable Burden** — whether a cost, process, or restriction lacks traceable constitutional value at all
+An efficiency claim counts only when it traces to real constitutional outcomes and stays consistent with Safety, Truth, the Chapter Six Rights Floor, ecological integrity, dignity, meaningful agency, and fair distribution. Efficiency gains must not hollow the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) or substitute dashboard metrics for progress toward the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims).
 
 <a id="13-market-structure"></a>
 ### 13. Market Structure
@@ -698,6 +674,7 @@ A claimed efficiency gain counts only when traced to underlying constitutional o
 - Read with: [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — **Continuity** aim (contestable, durable productive conditions); **Flourishing** aim (fair access to livelihood, agency, and innovation pathways).
 - Upstream: Principles: [§12 Shared-System Capacity](#12-shared-system-capacity) — productive-capacity and efficiency claims fail where concentration or domination hollows them; [10. Governance Under Stewardship Discipline](#10-governance-under-stewardship-discipline).
 - Downstream: [Chapter Ten §6](core_10-10_misconduct.md#61-concentration-based-subversion-criteria-interaction) (concentration-based subversion); [6. Process Conflict Resolution](core_01_b_interaction_interpretation.md#6-process-conflict-resolution) ([§6.2.4 Proxy-Divergence Invalidation](core_01_b_interaction_interpretation.md#632-proxy-divergence-invalidation)).
+- Downstream: [corpus_joint_structure.md](corpus_joint_structure.md) **CJS-5.11.1 — Concentration threshold-setting discipline (adopter-tunable)** ([§13.1](#131-concentration-threshold-mechanism-adopter-tunable) operative rules).
 - Downstream: Shapes the rights surface for resource allocation, fair compensation, collective organization, interoperability, exit, and anti-capture review; especially [Article III-D: Labor and Economic Floor](core_06-06_rights_part_a.md#article-iii-d-labor-and-economic-floor), [Article IV: Resource Allocation, Dependencies, and Ecosystem Funding](core_06-06_rights_part_a.md#article-iv-resource-allocation-dependencies-and-ecosystem-funding), and [Article XIX: Interoperability, Portability, Movement, Refuge, and Exit Integrity](core_06-06_rights_part_c.md#article-xix-interoperability-portability-and-exit-integrity).
 
 </details>
@@ -716,16 +693,36 @@ A claimed efficiency gain counts only when traced to underlying constitutional o
 
 <br>
 
-*In plain terms: **Market Structure** is the constitutional discipline for keeping productive life contestable — markets, platforms, labor arrangements, infrastructure, data, compute, credentials, and comparable dependencies must not become durable chokepoints that lock sentients in, block rivals, or capture accountability. Scale and innovation are allowed; domination is not. **§13.1–§13.3** carry concentration thresholds, anti-domination rules, and consolidation ceilings that must bite before lock-in.*
+*In plain terms: people should be able to work, build, switch providers, and push back without running into a wall because one company or institution owns the only door. **Market Structure** is that anti-monopoly discipline — for markets, platforms, job systems, infrastructure, data, computing power, credentials, and other dependencies that matter to daily life. Getting big and inventing new things is fine; cornering the market is not. **[§13.1–§13.3](#131-concentration-threshold-mechanism-adopter-tunable)** set when concentration has gone too far, how domination gets stopped, and how much consolidation is allowed before people are locked in.*
 
-**Market structure** governs how sentients and shared systems experience contestable participation in productive life — not only commercial exchange, but also platforms, labor-demand markets, supplier and resource-control systems, credentialing pathways, capital-access channels, and information-sphere gatekeeping where dependency is material.
+**[Market Structure](core_05a_accountability_definitions.md#market-structure-constitutional)** governs whether sentients and shared systems can take part in productive life in ways that stay open to choice, competition, and pushback. Where [material stake](core_00_preamble.md#material-stake) requires, that includes:
+- commercial exchange;
+- platforms;
+- labor-demand markets;
+- supplier and resource-control systems;
+- credentialing pathways;
+- capital-access channels; and
+- information-sphere gatekeeping.
 
-Productive-capacity and constitutional-efficiency claims under **§12** fail where market structure permits concentration, domination, or consolidation that predictably degrades wellbeing, meaningful agency, dignity, ecological integrity, or constitutional review.
-
-This section advances the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — **Flourishing** through fair access to livelihood and innovation, and **Continuity** through durable, contestable systems — and carries the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) where concentration or domination defeats voice, scrutiny, answerability, or timely correction, scaled to [material stake](core_00_preamble.md#material-stake).
+**[Productive Capacity](core_05c_continuity_definitions.md#productive-capacity-constitutional)** and **[Constitutional Efficiency](core_05c_continuity_definitions.md#constitutional-efficiency)** claims under **[§12](#12-shared-system-capacity)** fail where market structure permits concentration, domination, or consolidation that predictably degrades:
+- [Wellbeing](core_05c_continuity_definitions.md#wellbeing);
+- [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency);
+- [Dignity and Equal Moral Standing](core_05p_participation_definitions.md#dignity-and-equal-moral-standing);
+- [Ecological Integrity](core_05c_continuity_definitions.md#ecological-integrity-constitutional); or
+- constitutional review.
 
 <a id="131-concentration-threshold-mechanism-adopter-tunable"></a>
 #### 13.1 Concentration Threshold Mechanism (Adopter-Tunable)
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: [§13 Market Structure](#13-market-structure); [Concentration Threshold](core_05a_accountability_definitions.md#concentration-threshold-constitutional).
+- Downstream: [corpus_joint_structure.md](corpus_joint_structure.md) **CJS-5.11.1 — Concentration threshold-setting discipline (adopter-tunable)** (operative threshold-setting rules); [§13.2 Pro-Competition and Anti-Domination](#132-pro-competition-and-anti-domination); [§13.3 Consolidation Ceiling](#133-consolidation-ceiling); [Chapter Ten §6](core_10-10_misconduct.md#61-concentration-based-subversion-criteria-interaction).
+
+</details>
+
+<br>
 
 *In plain terms: the Constitution sets a floor against harmful concentrations of wealth, power, or control. Adopters may tune the exact numerical triggers to their context, but they may not set them so high they never bite, pair them with unusable enforcement, or paper over concentration through federated or shell structures.*
 
@@ -741,22 +738,13 @@ Adopters may set different thresholds by:
 
 This provision does not impose one global number. Different constitutional federations may set different thresholds without non-compliance by itself, provided the floor holds. See [Concentration Threshold](core_05a_accountability_definitions.md#concentration-threshold-constitutional) for the definitional anchor.
 
-Threshold-setting must follow this discipline:
+Operative threshold-setting discipline — floor preservation, substance-over-form review, anti-nullification, and heightened-scrutiny triggers — lives in **[corpus_joint_structure.md](corpus_joint_structure.md), CJS-5.11.1 — Concentration threshold-setting discipline (adopter-tunable)**.
 
-- **Floor preservation.** No adopter-set threshold may sit above a level at which material concentration would predictably degrade wellbeing, agency, dignity, or ecological integrity for other sentients. Setting thresholds above that level is non-compliant — whatever the justification, including efficiency, competitiveness, productive-capacity, scale-economies, or emergency framing.
-- **Substance over form.** Thresholds judge substantive concentration, not headcount of legal entities. In scope where they produce concentrated material effect without formal concentration: federated structures, shell entities, interlocking directorates, cross-platform integration, information-sphere control, **Article XII-E** autonomy-stewardship capture, and comparable indirection. Aggregation through federated structures to evade the threshold is non-compliant.
-- **Anti-nullification.** Adopter-tunable does **not** mean adopter-optional. Non-compliant nullifications of the floor under [§6.2.4 Proxy-Divergence Invalidation](core_01_b_interaction_interpretation.md#632-proxy-divergence-invalidation) include:
-  - thresholds set so high they foreseeably never bind;
-  - thresholds paired with unused or unusable enforcement tools;
-  - threshold regimes that produce no actual review or intervention.
-- **Heightened scrutiny.** When concentration meaningfully touches any of the following, that article's tougher standards still apply — even when ordinary concentration thresholds have not been crossed:
-  - [Article I-D](core_06-06_rights_part_a.md#article-i-d-existential-risk-and-recovery-capacity): existential risk and ecological recovery capacity;
-  - [Article XII-A](core_06-06_rights_part_c.md#article-xii-a-reliability-and-trustworthiness-baseline): whether systems can be relied on;
-  - [Article XIII-A](core_06-06_rights_part_c.md#article-xiii-a-security-intelligence-and-covert-power-limits): limits on hidden or covert power.
-- **Article IV — resource rights stay intact.** [Article IV](core_06-06_rights_part_a.md#article-iv-resource-allocation-dependencies-and-ecosystem-funding) is where the Constitution sets the baseline **Rights Floor** for how resources are shared — who gets them, who depends on what, and how ecosystems are funded. **§13.1** adds concentration-threshold rules here at the principles level only; it does not weaken, replace, or narrow Article IV.
-- **Chapter Ten pointer.** When concentration is used to subvert the Constitution, that misconduct is judged under [Chapter Ten §6](core_10-10_misconduct.md#61-concentration-based-subversion-criteria-interaction). Creating, maintaining, or exploiting concentration above the **§13** floor is reached through Chapter Ten **criteria 3, 4, and 6** and assigned there where conduct meets violation levels **s = 7, 8, or 9**. **§13.1** sets threshold discipline; it does not itself assign misconduct slots.
+**Article IV — resource rights stay intact.** [Article IV](core_06-06_rights_part_a.md#article-iv-resource-allocation-dependencies-and-ecosystem-funding) is where the Constitution sets the baseline **Rights Floor** for how resources are shared — who gets them, who depends on what, and how ecosystems are funded. **§13.1** adds concentration-threshold direction here at the principles level only; it does not weaken, replace, or narrow Article IV.
 
-This provision states threshold-mechanism discipline at principle layer. It does not create a new Rights-Floor and does not narrow any existing Chapter Six floor. The non-concentration discipline in **§13** remains controlling.
+When concentration is used to subvert the Constitution, that misconduct is judged under [Chapter Ten §6](core_10-10_misconduct.md#61-concentration-based-subversion-criteria-interaction). Creating, maintaining, or exploiting concentration above the **§13** floor is reached through Chapter Ten **criteria 3, 4, and 6** and assigned there where conduct meets violation levels **s = 7, 8, or 9**. **§13.1** states principle-layer threshold direction; it does not itself assign misconduct slots.
+
+This provision states the concentration-threshold mechanism at principle layer. It does not create a new Rights-Floor and does not narrow any existing Chapter Six floor. The non-concentration discipline in **§13** remains controlling.
 
 <a id="132-pro-competition-and-anti-domination"></a>
 #### 13.2 Pro-Competition and Anti-Domination

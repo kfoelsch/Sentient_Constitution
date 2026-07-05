@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-07-05T01:56:49+00:00",
+  "generated_at": "2026-07-05T08:28:37+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -635,7 +635,8 @@
             "anchors": [
               "#10-governance-under-stewardship-discipline",
               "#11-incentive-alignment-and-system-capture",
-              "#117-stewardship-and-operator-incentive-alignment",
+              "#1113-stewardship-and-operator-application",
+              "#1114-role-depth-and-material-responsibility-pathways",
               "#12-shared-system-capacity",
               "#13-market-structure",
               "#132-pro-competition-and-anti-domination",
@@ -955,10 +956,9 @@
           },
           {
             "file": "core_01_c_stewardship_capacity_principles.md",
-            "count": 14,
+            "count": 13,
             "anchors": [
-              "#111-alignment-requirement",
-              "#117-stewardship-and-operator-incentive-alignment",
+              "#1113-stewardship-and-operator-application",
               "#122-constitutional-efficiency",
               "#1416-time-consistency-constraint",
               "#15-integrated-application",
@@ -1186,7 +1186,7 @@
         "targets": [
           {
             "file": "core_00_preamble.md",
-            "count": 99,
+            "count": 96,
             "anchors": [
               "#chapter-00-preamble--foundational-requirements",
               "#constitutional-tetrad",
@@ -1215,7 +1215,7 @@
           },
           {
             "file": "core_01_b_interaction_interpretation.md",
-            "count": 30,
+            "count": 31,
             "anchors": [
               "#6-process-conflict-resolution",
               "#614-constitutional-floors-safety-and-process-character-constraints",
@@ -1299,7 +1299,7 @@
           },
           {
             "file": "core_05c_continuity_definitions.md",
-            "count": 188,
+            "count": 178,
             "anchors": [
               "#avoidable-burden",
               "#avoidable-burden-c",
@@ -1343,6 +1343,8 @@
               "#safety-constraint-c",
               "#safety-constraint-e",
               "#shared-system-capacity-constitutional",
+              "#shared-system-capacity-constitutional-c",
+              "#shared-system-capacity-constitutional-e",
               "#short-horizon-governance-defect-constitutional",
               "#short-horizon-governance-defect-constitutional-c",
               "#short-horizon-governance-defect-constitutional-e",
@@ -1368,7 +1370,7 @@
           },
           {
             "file": "core_05i_integrative_definitions.md",
-            "count": 38,
+            "count": 34,
             "anchors": [
               "#authority-stack",
               "#authority-stack-c",
@@ -1384,7 +1386,7 @@
           },
           {
             "file": "core_05o_oversight_definitions.md",
-            "count": 149,
+            "count": 140,
             "anchors": [
               "#auditability",
               "#auditability-c",
@@ -1422,7 +1424,7 @@
           },
           {
             "file": "core_05p_participation_definitions.md",
-            "count": 74,
+            "count": 70,
             "anchors": [
               "#accessibility-constitutional",
               "#accessibility-constitutional-c",
@@ -1513,8 +1515,11 @@
           },
           {
             "file": "core_08-08_standing_assessment.md",
-            "count": 3,
+            "count": 9,
             "anchors": [
+              "#331-misaligned-reward-forfeiture",
+              "#332-misaligned-reward-reporting",
+              "#333-misaligned-reward-benefit-retention-record-and-classification-discipline",
               "#chapter-eight-compliance-violation-and-standing-model"
             ]
           },
@@ -1560,7 +1565,7 @@
           },
           {
             "file": "corpus_systems.md",
-            "count": 10,
+            "count": 11,
             "anchors": []
           },
           {
@@ -2841,12 +2846,11 @@
           },
           {
             "file": "core_01_c_stewardship_capacity_principles.md",
-            "count": 56,
+            "count": 54,
             "anchors": [
               "#10-governance-under-stewardship-discipline",
               "#11-incentive-alignment-and-system-capture",
-              "#111-alignment-requirement",
-              "#117-stewardship-and-operator-incentive-alignment",
+              "#1113-stewardship-and-operator-application",
               "#12-shared-system-capacity",
               "#121-productive-capacity-instrumental-good",
               "#122-constitutional-efficiency",
@@ -3160,12 +3164,15 @@
           },
           {
             "file": "core_01_c_stewardship_capacity_principles.md",
-            "count": 8,
+            "count": 11,
             "anchors": [
               "#10-governance-under-stewardship-discipline",
               "#111-alignment-requirement",
+              "#1113-stewardship-and-operator-application",
+              "#1114-role-depth-and-material-responsibility-pathways",
+              "#112-convenient-proxies-and-proxy-divergence",
+              "#113-misalignment-detection",
               "#114-misalignment-correction-and-capture-response",
-              "#117-stewardship-and-operator-incentive-alignment",
               "#141-required-evaluation-factors",
               "#15-integrated-application"
             ]
@@ -3529,8 +3536,10 @@
           },
           {
             "file": "core_01_c_stewardship_capacity_principles.md",
-            "count": 5,
+            "count": 9,
             "anchors": [
+              "#1112-what-incentives-must-not-do",
+              "#114-misalignment-correction-and-capture-response",
               "#9-stewardship-and-distributed-understanding",
               "#chapter-01-principles-and-constraints"
             ]
@@ -3549,15 +3558,18 @@
           },
           {
             "file": "core_05a_accountability_definitions.md",
-            "count": 14,
+            "count": 19,
             "anchors": [
               "#harm",
               "#harm-c",
               "#harm-e",
+              "#necessity",
               "#proportionality",
               "#proportionality-c",
               "#proportionality-e",
-              "#standing-state-contribution-and-violation-cluster"
+              "#protected-reporting-whistleblowing",
+              "#standing-state-contribution-and-violation-cluster",
+              "#timeliness-constitutional"
             ]
           },
           {
@@ -3601,12 +3613,14 @@
           },
           {
             "file": "core_06-06_rights_part_d.md",
-            "count": 7,
+            "count": 9,
             "anchors": [
               "#article-xxiii-a-justice-objective-and-scope",
               "#article-xxiii-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints",
               "#article-xxiii-c-least-restrictive-and-time-bounded-rule",
-              "#article-xxiv-c-timely-resolution-and-anti-delay-floor"
+              "#article-xxiii-conflict-resolution-escalation-and-emergency-proportionality",
+              "#article-xxiv-c-timely-resolution-and-anti-delay-floor",
+              "#incentive-alignment-transition-carve-out"
             ]
           },
           {
@@ -3657,9 +3671,10 @@
           },
           {
             "file": "core_10-10_misconduct.md",
-            "count": 12,
+            "count": 14,
             "anchors": [
               "#610-forum-recusal-failure-and-biased-panel-participation",
+              "#67-reward-protection-or-normalization-of-anti-constitutional-conduct",
               "#chapter-ten-anti-constitutional-misconduct"
             ]
           },
@@ -4145,21 +4160,25 @@
           },
           {
             "file": "core_06-06_rights_part_d.md",
-            "count": 12,
+            "count": 13,
             "anchors": [
               "#article-xxiii-a-justice-objective-and-scope",
               "#article-xxiii-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints",
               "#article-xxiii-c-least-restrictive-and-time-bounded-rule",
               "#article-xxiii-d-emergency-measures-and-continuation-burden",
               "#article-xxiv-b-rights-collision-procedure-and-restorative-alignment",
-              "#article-xxiv-c-timely-resolution-and-anti-delay-floor"
+              "#article-xxiv-c-timely-resolution-and-anti-delay-floor",
+              "#incentive-alignment-transition-carve-out"
             ]
           },
           {
             "file": "core_08-08_standing_assessment.md",
-            "count": 10,
+            "count": 16,
             "anchors": [
               "#31-slot-grammar-and-display-labels",
+              "#331-misaligned-reward-forfeiture",
+              "#332-misaligned-reward-reporting",
+              "#333-misaligned-reward-benefit-retention-record-and-classification-discipline",
               "#34-violation-axis-rules-violation-nature-adverse-findings-and-severity",
               "#53-forum-disclosure-and-recusal-process-impact",
               "#chapter-eight-compliance-violation-and-standing-model",
@@ -4543,8 +4562,8 @@
             "anchors": [
               "#10-governance-under-stewardship-discipline",
               "#11-incentive-alignment-and-system-capture",
+              "#1113-stewardship-and-operator-application",
               "#116-successor-responsibility-and-formal-structure-non-escape",
-              "#117-stewardship-and-operator-incentive-alignment",
               "#131-concentration-threshold-mechanism-adopter-tunable",
               "#14-systemic-evaluation-requirement",
               "#141-required-evaluation-factors"
@@ -5569,7 +5588,7 @@
           },
           {
             "file": "core_05c_continuity_definitions.md",
-            "count": 38,
+            "count": 39,
             "anchors": [
               "#avoidable-burden",
               "#avoidable-burden-c",
@@ -5653,15 +5672,17 @@
           },
           {
             "file": "core_07-07_system_alignment_certification.md",
-            "count": 2,
+            "count": 4,
             "anchors": [
               "#chapter-seven-system-alignment-certification"
             ]
           },
           {
             "file": "core_08-08_standing_assessment.md",
-            "count": 5,
+            "count": 8,
             "anchors": [
+              "#331-misaligned-reward-forfeiture",
+              "#332-misaligned-reward-reporting",
               "#chapter-eight-compliance-violation-and-standing-model",
               "#chapters-eight-eleven-constitutional-compass",
               "#verified-inputs-for-standing"
