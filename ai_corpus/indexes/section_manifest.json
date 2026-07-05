@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-07-04T16:14:28+00:00",
+  "generated_at": "2026-07-05T01:56:49+00:00",
   "files": {
     "core_00_preamble.md": {
       "total_lines": 272,
@@ -522,252 +522,252 @@
       ]
     },
     "core_01_c_stewardship_capacity_principles.md": {
-      "total_lines": 993,
+      "total_lines": 1068,
       "sections": [
         {
           "header": "Stewardship and Governance (Chapter One, Part C)",
           "level": 1,
           "line_start": 1,
-          "line_end": 993,
+          "line_end": 1068,
           "anchor": null
         },
         {
           "header": "CHAPTER 01, PART C: STEWARDSHIP AND GOVERNANCE",
           "level": 2,
-          "line_start": 22,
-          "line_end": 993,
-          "anchor": "#chapter-01-part-c-stewardship-and-governance"
+          "line_start": 39,
+          "line_end": 1068,
+          "anchor": "#9-stewardship-and-distributed-understanding"
         },
         {
           "header": "9. Stewardship and Distributed Understanding",
           "level": 3,
-          "line_start": 34,
-          "line_end": 253,
-          "anchor": "#9-stewardship-and-distributed-understanding"
+          "line_start": 42,
+          "line_end": 284,
+          "anchor": null
         },
         {
-          "header": "9.1 Stewardship",
+          "header": "9.1 Consequential Stewardship",
           "level": 4,
-          "line_start": 88,
-          "line_end": 119,
+          "line_start": 99,
+          "line_end": 128,
           "anchor": "#91-stewardship"
         },
         {
           "header": "9.2 Distributed Understanding",
           "level": 4,
-          "line_start": 120,
-          "line_end": 149,
+          "line_start": 129,
+          "line_end": 159,
           "anchor": "#92-distributed-understanding"
         },
         {
           "header": "9.3 Institutional Development",
           "level": 4,
-          "line_start": 150,
-          "line_end": 182,
+          "line_start": 160,
+          "line_end": 190,
           "anchor": "#93-institutional-development"
         },
         {
           "header": "9.4 Openness Aspiration",
           "level": 4,
-          "line_start": 183,
-          "line_end": 215,
+          "line_start": 191,
+          "line_end": 223,
           "anchor": "#94-openness-aspiration"
         },
         {
           "header": "9.5 Process-Character Discipline (Anti-Degrading-Process Principle)",
           "level": 4,
-          "line_start": 216,
-          "line_end": 253,
+          "line_start": 224,
+          "line_end": 284,
           "anchor": "#anti-degrading-process-principle"
         },
         {
           "header": "10. Governance Under Stewardship Discipline",
           "level": 3,
-          "line_start": 254,
-          "line_end": 514,
+          "line_start": 285,
+          "line_end": 353,
           "anchor": "#10-governance-under-stewardship-discipline"
         },
         {
           "header": "10.1 Governance as Authorized Structure",
           "level": 4,
-          "line_start": 273,
-          "line_end": 296,
+          "line_start": 305,
+          "line_end": 353,
           "anchor": "#10-governance-as-authorized-structure"
         },
         {
-          "header": "10.2 Incentive Alignment and System Capture",
-          "level": 4,
-          "line_start": 297,
-          "line_end": 465,
-          "anchor": "#102-incentive-alignment-and-system-capture"
-        },
-        {
-          "header": "10.2.1 Alignment Requirement",
-          "level": 5,
-          "line_start": 344,
-          "line_end": 360,
-          "anchor": "#1021-alignment-requirement"
-        },
-        {
-          "header": "10.2.2 Misalignment Correction and Capture Response",
-          "level": 5,
-          "line_start": 361,
-          "line_end": 386,
-          "anchor": "#1022-misalignment-correction-and-capture-response"
-        },
-        {
-          "header": "10.2.3 Contingent claims, games of chance, and event-contract markets",
-          "level": 5,
-          "line_start": 387,
-          "line_end": 446,
-          "anchor": "#1023-contingent-claims-games-of-chance-and-event-contract-markets"
-        },
-        {
-          "header": "10.2.4 Successor responsibility and formal-structure non-escape",
-          "level": 5,
-          "line_start": 447,
-          "line_end": 465,
-          "anchor": "#1024-successor-responsibility-and-formal-structure-non-escape"
-        },
-        {
-          "header": "10.3 Stewardship and Operator Incentive Alignment",
-          "level": 4,
-          "line_start": 466,
-          "line_end": 514,
-          "anchor": "#103-stewardship-and-operator-incentive-alignment"
-        },
-        {
-          "header": "11. Shared-System Capacity",
+          "header": "11. Incentive Alignment and System Capture",
           "level": 3,
-          "line_start": 515,
-          "line_end": 597,
-          "anchor": "#111-productive-capacity-instrumental-good"
+          "line_start": 354,
+          "line_end": 585,
+          "anchor": "#11-incentive-alignment-and-system-capture"
         },
         {
-          "header": "11.1 Productive Capacity (Instrumental Good)",
+          "header": "11.1 Alignment Requirement",
           "level": 4,
-          "line_start": 553,
-          "line_end": 581,
-          "anchor": null
+          "line_start": 398,
+          "line_end": 442,
+          "anchor": "#111-alignment-requirement"
         },
         {
-          "header": "11.2 Constitutional Efficiency",
+          "header": "11.2 Misalignment Correction and Capture Response",
           "level": 4,
-          "line_start": 582,
-          "line_end": 597,
-          "anchor": null
+          "line_start": 443,
+          "line_end": 464,
+          "anchor": "#112-misalignment-correction-and-capture-response"
         },
         {
-          "header": "12. Market Structure",
+          "header": "11.3 Contingent Claims, Games of Chance, and Event-Contract Markets",
+          "level": 4,
+          "line_start": 465,
+          "line_end": 523,
+          "anchor": "#113-contingent-claims-games-of-chance-and-event-contract-markets"
+        },
+        {
+          "header": "11.4 Successor Responsibility and Formal-Structure Non-Escape",
+          "level": 4,
+          "line_start": 524,
+          "line_end": 541,
+          "anchor": "#114-successor-responsibility-and-formal-structure-non-escape"
+        },
+        {
+          "header": "11.5 Stewardship and Operator Incentive Alignment",
+          "level": 4,
+          "line_start": 542,
+          "line_end": 585,
+          "anchor": "#115-stewardship-and-operator-incentive-alignment"
+        },
+        {
+          "header": "12. Shared-System Capacity",
           "level": 3,
-          "line_start": 598,
-          "line_end": 751,
-          "anchor": "#12-market-structure"
+          "line_start": 586,
+          "line_end": 672,
+          "anchor": "#12-shared-system-capacity"
         },
         {
-          "header": "12.1 Concentration Threshold Mechanism (Adopter-Tunable)",
+          "header": "12.1 Productive Capacity (Instrumental Good)",
           "level": 4,
-          "line_start": 632,
-          "line_end": 667,
-          "anchor": "#121-concentration-threshold-mechanism-adopter-tunable"
+          "line_start": 627,
+          "line_end": 656,
+          "anchor": "#121-productive-capacity-instrumental-good"
         },
         {
-          "header": "12.2 Pro-Competition and Anti-Domination",
+          "header": "12.2 Constitutional Efficiency",
           "level": 4,
-          "line_start": 668,
-          "line_end": 704,
-          "anchor": "#122-pro-competition-and-anti-domination"
+          "line_start": 657,
+          "line_end": 672,
+          "anchor": "#122-constitutional-efficiency"
         },
         {
-          "header": "12.3 Consolidation Ceiling",
+          "header": "13. Market Structure",
+          "level": 3,
+          "line_start": 673,
+          "line_end": 825,
+          "anchor": "#13-market-structure"
+        },
+        {
+          "header": "13.1 Concentration Threshold Mechanism (Adopter-Tunable)",
           "level": 4,
-          "line_start": 705,
-          "line_end": 751,
-          "anchor": "#1231-consolidation-risk-pre-lock-in-impairment"
-        },
-        {
-          "header": "12.3.1 Consolidation Risk (Pre-Lock-In Impairment)",
-          "level": 5,
           "line_start": 708,
-          "line_end": 722,
+          "line_end": 741,
+          "anchor": "#131-concentration-threshold-mechanism-adopter-tunable"
+        },
+        {
+          "header": "13.2 Pro-Competition and Anti-Domination",
+          "level": 4,
+          "line_start": 742,
+          "line_end": 778,
+          "anchor": "#132-pro-competition-and-anti-domination"
+        },
+        {
+          "header": "13.3 Consolidation Ceiling",
+          "level": 4,
+          "line_start": 779,
+          "line_end": 825,
+          "anchor": "#1331-consolidation-risk-pre-lock-in-impairment"
+        },
+        {
+          "header": "13.3.1 Consolidation Risk (Pre-Lock-In Impairment)",
+          "level": 5,
+          "line_start": 782,
+          "line_end": 796,
           "anchor": null
         },
         {
-          "header": "12.3.2 Ceiling Discipline (Adopter Requirements)",
+          "header": "13.3.2 Ceiling Discipline (Adopter Requirements)",
           "level": 5,
-          "line_start": 723,
-          "line_end": 751,
-          "anchor": "#1232-ceiling-discipline-adopter-requirements"
+          "line_start": 797,
+          "line_end": 825,
+          "anchor": "#1332-ceiling-discipline-adopter-requirements"
         },
         {
-          "header": "13. Systemic Evaluation Requirement",
+          "header": "14. Systemic Evaluation Requirement",
           "level": 3,
-          "line_start": 752,
-          "line_end": 949,
-          "anchor": "#13-systemic-evaluation-requirement"
+          "line_start": 826,
+          "line_end": 1024,
+          "anchor": "#14-systemic-evaluation-requirement"
         },
         {
-          "header": "13.1 Required Evaluation Factors",
+          "header": "14.1 Required Evaluation Factors",
           "level": 4,
-          "line_start": 788,
-          "line_end": 934,
-          "anchor": "#131-required-evaluation-factors"
+          "line_start": 862,
+          "line_end": 1008,
+          "anchor": "#141-required-evaluation-factors"
         },
         {
-          "header": "13.1.1 Systemic Scope and Risk Factors",
+          "header": "14.1.1 Systemic Scope and Risk Factors",
           "level": 5,
-          "line_start": 835,
-          "line_end": 846,
-          "anchor": "#1311-systemic-scope-and-risk-factors"
+          "line_start": 909,
+          "line_end": 920,
+          "anchor": "#1411-systemic-scope-and-risk-factors"
         },
         {
-          "header": "13.1.2 Accessibility Under Sentience Non-Exclusion",
+          "header": "14.1.2 Accessibility Under Sentience Non-Exclusion",
           "level": 5,
-          "line_start": 847,
-          "line_end": 868,
-          "anchor": "#1312-accessibility-under-sentience-non-exclusion"
+          "line_start": 921,
+          "line_end": 942,
+          "anchor": "#1412-accessibility-under-sentience-non-exclusion"
         },
         {
-          "header": "13.1.3 Privacy (Informational) Joint Invocation",
+          "header": "14.1.3 Privacy (Informational) Joint Invocation",
           "level": 5,
-          "line_start": 869,
-          "line_end": 882,
-          "anchor": "#1313-privacy-informational-joint-invocation"
+          "line_start": 943,
+          "line_end": 956,
+          "anchor": "#1413-privacy-informational-joint-invocation"
         },
         {
-          "header": "13.1.4 Voluntary Discontinuation and Exit Rights",
+          "header": "14.1.4 Voluntary Discontinuation and Exit Rights",
           "level": 5,
-          "line_start": 883,
-          "line_end": 893,
-          "anchor": "#1314-voluntary-discontinuation-and-exit-rights"
+          "line_start": 957,
+          "line_end": 967,
+          "anchor": "#1414-voluntary-discontinuation-and-exit-rights"
         },
         {
-          "header": "13.1.5 Assembly, Collective Organization, and Institutional Formation",
+          "header": "14.1.5 Assembly, Collective Organization, and Institutional Formation",
           "level": 5,
-          "line_start": 894,
-          "line_end": 904,
-          "anchor": "#1315-assembly-collective-organization-and-institutional-formation"
+          "line_start": 968,
+          "line_end": 978,
+          "anchor": "#1415-assembly-collective-organization-and-institutional-formation"
         },
         {
-          "header": "13.1.6 Time-Consistency Constraint",
+          "header": "14.1.6 Time-Consistency Constraint",
           "level": 5,
-          "line_start": 905,
-          "line_end": 934,
-          "anchor": "#1316-time-consistency-constraint"
+          "line_start": 979,
+          "line_end": 1008,
+          "anchor": "#1416-time-consistency-constraint"
         },
         {
-          "header": "13.2 Governance and Incentive Discipline",
+          "header": "14.2 Governance and Incentive Discipline",
           "level": 4,
-          "line_start": 935,
-          "line_end": 949,
-          "anchor": "#132-read-with-governance-and-incentive-discipline"
+          "line_start": 1009,
+          "line_end": 1024,
+          "anchor": "#142-governance-and-incentive-discipline"
         },
         {
-          "header": "14. Integrated Application",
+          "header": "15. Integrated Application",
           "level": 3,
-          "line_start": 950,
-          "line_end": 993,
-          "anchor": "#14-integrated-application"
+          "line_start": 1025,
+          "line_end": 1068,
+          "anchor": "#15-integrated-application"
         }
       ]
     },
@@ -3309,7 +3309,7 @@
           "anchor": "#9-relationship-to-standing"
         },
         {
-          "header": "10. Reopening, Drift, and Non-Evasion",
+          "header": "10. Reopening, Misalignment, and Non-Evasion",
           "level": 3,
           "line_start": 492,
           "line_end": 513,

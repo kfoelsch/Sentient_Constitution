@@ -54,7 +54,7 @@ This chapter states the **Constitutional Contract Layer**: constitutional legiti
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency), [§11 Stewardship and Distributed Understanding](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding), [5. Process Conflict Resolution](#6-process-conflict-resolution); [Chapter Twelve §0](#0-layer-boundary-for-this-chapter).
+- Upstream: Principles: [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency), [§9 Stewardship and Distributed Understanding](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding), [5. Process Conflict Resolution](#6-process-conflict-resolution); [Chapter Twelve §0](#0-layer-boundary-for-this-chapter).
 - Subsections: [§1.1](#11-mechanism-families-auditability-and-pluralism) (*Mechanism families, auditability, and pluralism*); [§1.2](#12-eligibility-contested-selection-and-democratic-minimums) (*Eligibility, contested selection, and democratic minimums*); [§1.3](#13-recall-class-pathways-and-mid-cycle-transfer-guardrails) (*Recall-class pathways and mid-cycle transfer guardrails*).
 - Downstream: Integrity, strategy, voting, and role obligations under [§§ 2–5](#2-ethical-culture-and-integrity-federated-scale); adoption and ratification under [Chapter Fifteen](core_13-15_amendment.md#chapter-fifteen-amendment-ratification-and-procedural-validity); legitimacy, participation, and contestability in Chapter Six — especially [Article XI-C: Legitimacy Gate and Anti-Token Participation](core_06-06_rights_part_b.md#article-xi-c-legitimacy-gate-and-anti-token-participation), [Article XVIII: Standing and Participation Status](core_06-06_rights_part_c.md#article-xviii-standing-and-participation-status), and the expression, assembly, and procedural-fairness articles keyed in the operative bullets below.
 - Read with: Designated **corpus** and **[corpus_systems.md](corpus_systems.md)** hooks named in this section ([corpus_systems.md](corpus_systems.md), [corpus_institutions.md](corpus_institutions.md)).
@@ -208,7 +208,7 @@ Direction must remain outcome-oriented rather than institution-preserving for it
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§3](#3-strategy-stewardship-direction-and-ecosystem-value-non-corporate); [Chapter One §8](core_01_c_stewardship_capacity_principles.md#111-productive-capacity-instrumental-good) (*Productive Capacity* as instrumental good).
+- Upstream: [§3](#3-strategy-stewardship-direction-and-ecosystem-value-non-corporate); [Chapter One §12.1](core_01_c_stewardship_capacity_principles.md#121-productive-capacity-instrumental-good) (*Productive Capacity* as instrumental good).
 - Downstream: Outcome and proxy discipline continues through [§4](#4-voting-and-binding-collective-choice-protocols)–[§5](#5-authorized-roles-competency-development-and-contribution); Chapter Five (*Proxy Divergence*; *Constitutional Efficiency*; *Avoidable Burden*) as named in operative text.
 - Read with: [*Productive Capacity*](core_05c_continuity_definitions.md#productive-capacity-constitutional) and related bounding definitions in [Chapter Five](core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions).
 

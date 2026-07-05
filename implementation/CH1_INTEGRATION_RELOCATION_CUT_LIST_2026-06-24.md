@@ -74,7 +74,7 @@
 | `#611-proportionality` | `#611-proportionality` |
 | `#641-rights-collision-decision-test` | `#641-rights-collision-decision-test` |
 | `#632-time-consistency-constraint` | `#632-time-consistency-constraint` |
-| `#131-required-evaluation-factors` | `#131-required-evaluation-factors` |
+| `#141-required-evaluation-factors` | `#141-required-evaluation-factors` |
 | `#5-freedom-bounded-agency` | `#5-freedom-bounded-agency` |
 | `#7-prohibition-on-absolute-override` | `#7-prohibition-on-absolute-override` |
 | `#3-integrated-application` | `#3-integrated-application` |

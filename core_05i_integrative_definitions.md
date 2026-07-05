@@ -100,9 +100,9 @@ This band holds **Integrative** cross-leg definitions that require simultaneous 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) (tetrad capture discipline under [§7](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline); [material stake](core_00_preamble.md#material-stake) scaling); [11.1 Required Evaluation Factors](core_01_c_stewardship_capacity_principles.md#131-required-evaluation-factors) and [§10 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline).
-- Principle-layer rule: [Chapter One §10.2.1 Alignment Requirement](core_01_c_stewardship_capacity_principles.md#1021-alignment-requirement); stewardship and operator application anchor: [Chapter One §10.3 Stewardship and Operator Incentive Alignment](core_01_c_stewardship_capacity_principles.md#103-stewardship-and-operator-incentive-alignment).
-- Active correction and capture escalation: [Chapter One §10.2.2 Misalignment Correction and Capture Response](core_01_c_stewardship_capacity_principles.md#1022-misalignment-correction-and-capture-response).
+- Downstream: Principles: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) (tetrad capture discipline under [§7](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline); [material stake](core_00_preamble.md#material-stake) scaling); [14.1 Required Evaluation Factors](core_01_c_stewardship_capacity_principles.md#141-required-evaluation-factors) and [§10 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline).
+- Principle-layer rule: [Chapter One §11.1 Alignment Requirement](core_01_c_stewardship_capacity_principles.md#111-alignment-requirement); stewardship and operator application anchor: [Chapter One §11.5 Stewardship and Operator Incentive Alignment](core_01_c_stewardship_capacity_principles.md#115-stewardship-and-operator-incentive-alignment).
+- Active correction and capture escalation: [Chapter One §11.2 Misalignment Correction and Capture Response](core_01_c_stewardship_capacity_principles.md#112-misalignment-correction-and-capture-response).
 - Cluster component: [Chapter Five Chapter One §8.20 *Governance Architecture, Oversight, Dependency, Decentralization, Concentration, Market Structure, and Exit-Path Integrity*](core_05a_accountability_definitions.md#governance-architecture-oversight-decentralization-and-concentration-cluster) (hub paths that intersect dependency, concentration, governance-form incentives, or exit-quality analysis — read together with [Chapter Five Chapter One §8.13 *Contingent Claim, Event-Contract Market, and Game of Chance*](core_05a_accountability_definitions.md#contingent-claim) where contingent structures are materially implicated)
 - Read with: System Capture, Proxy Divergence, Truth (Constitutional Constraint), Epistemic Integrity, and Meaningful Agency.
 
@@ -116,7 +116,7 @@ This band holds **Integrative** cross-leg definitions that require simultaneous 
 <a id="incentive-alignment-e"></a>
 - E: Assess alignment across delayed and aggregated effects, not only immediate or local outputs — including effects on [Risk](core_05c_continuity_definitions.md#risk), [Harm](core_05a_accountability_definitions.md#harm), and [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency).
 <a id="incentive-alignment-c"></a>
-- C: Sustained incentives that predictably undermine Chapter One values without mitigation, disclosure, or feasible override are non-compliant. Systems must actively detect, disclose, and correct such misalignments (Chapter One §10.2.2). Concentrated or obscured control structures defeating challenge or oversight are escalation conditions under Chapters Two–Five.
+- C: Sustained incentives that predictably undermine Chapter One values without mitigation, disclosure, or feasible override are non-compliant. Systems must actively detect, disclose, and correct such misalignments (Chapter One §11.2). Concentrated or obscured control structures defeating challenge or oversight are escalation conditions under Chapters Two–Five.
 
 ##### Incentive Alignment — strategic, scaled, and adversarial evaluation
 
@@ -127,7 +127,7 @@ This band holds **Integrative** cross-leg definitions that require simultaneous 
 
 - O: [Contingent Claim](core_05a_accountability_definitions.md#contingent-claim) structures, including [Game of Chance](core_05a_accountability_definitions.md#game-of-chance) and [Event-Contract Market](core_05a_accountability_definitions.md#event-contract-market) forms, are within scope where materially relevant.
 <a id="incentive-alignment-contingent-claims-games-of-chance-and-event-contract-markets-e"></a>
-- E: Such systems must satisfy Chapter One §10.2.3, including:
+- E: Such systems must satisfy Chapter One §11.3, including:
   - Application of [Necessity](core_05a_accountability_definitions.md#necessity) and [Proportionality](core_05a_accountability_definitions.md#proportionality) to underlying permitted events
   - Governance of resolution procedures (independence, multi-source rules where feasible, contestable dispute pathways)
   - Concentration, leverage, and exposure limits scaled to vulnerability and systemic stability
@@ -237,7 +237,7 @@ This cluster is the joint-invocation home for operative corpus identity, authori
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [13. Integrated Application](core_01_c_stewardship_capacity_principles.md#14-integrated-application) (corpus read as integrated whole); [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **oversight** leg; [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — **Continuity** aim under incorporation and custody; [2. Constitutional Interpretation](core_01_b_interaction_interpretation.md#8-constitutional-interpretation) (binding source identification).
+- Downstream: Principles: [15. Integrated Application](core_01_c_stewardship_capacity_principles.md#15-integrated-application) (corpus read as integrated whole); [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **oversight** leg; [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — **Continuity** aim under incorporation and custody; [2. Constitutional Interpretation](core_01_b_interaction_interpretation.md#8-constitutional-interpretation) (binding source identification).
 - Downstream: [Chapter Sixteen — Incorporation bridge](core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) (*which adopted **implementation text** text is binding, edition pinning, custody chain, and anti-drift discipline*).
 - Read with: [Authority Stack and Internal Hierarchy](core_05i_integrative_definitions.md#authority-stack) and [Constitutional Constraint Violation](core_05i_integrative_definitions.md#constitutional-constraint-violation).
 - Read with: owner-layer references in [doc_architecture.md](doc_architecture.md) and [README.md](README.md).
@@ -263,7 +263,7 @@ This cluster is the joint-invocation home for operative corpus identity, authori
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [2. Constitutional Interpretation](core_01_b_interaction_interpretation.md#8-constitutional-interpretation); [13. Integrated Application](core_01_c_stewardship_capacity_principles.md#14-integrated-application) (Authority Stack vs Internal Hierarchy read-with Chapter One).
+- Downstream: Principles: [2. Constitutional Interpretation](core_01_b_interaction_interpretation.md#8-constitutional-interpretation); [15. Integrated Application](core_01_c_stewardship_capacity_principles.md#15-integrated-application) (Authority Stack vs Internal Hierarchy read-with Chapter One).
 - Downstream: [Chapter One — §2 Constitutional Interpretation](core_01_b_interaction_interpretation.md#8-constitutional-interpretation) (integrated reading and last-resort hierarchy); [Chapter Thirteen Chapter One §8.1](core_13-15_amendment.md#31-internal-hierarchy-for-adopters) (*Internal Hierarchy for Adopters*); [Chapter Sixteen §2](core_16-16_incorporation.md#2-authority-stack-and-invocation) (*Authority stack and invocation*).
 - Read with: [Corpus](core_05i_integrative_definitions.md#corpus), [Constitutional Owner Layers](core_05i_integrative_definitions.md#constitutional-owner-layers), [Supremacy and Enforceability](core_05i_integrative_definitions.md#supremacy-and-enforceability), and [Constitutional Constraint Violation](core_05i_integrative_definitions.md#constitutional-constraint-violation).
 - Read with: owner-layer references in [doc_architecture.md](doc_architecture.md) and [README.md](README.md).

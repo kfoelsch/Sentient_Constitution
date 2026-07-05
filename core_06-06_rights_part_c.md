@@ -195,7 +195,7 @@ Trustworthiness must be evaluated across time, scale, and dependency relationshi
   - disclosed in a manner proportionate to system impact;
   - mitigated through design, constraint, or countervailing mechanisms;
   - subject to audit, challenge, and correction under **Article XV** (*Audit, Transparency, and Independent Verification*), **Article XII-B** (*Right to Challenge, Review, and Redress*), **Chapter Five** where materially relevant, and incorporated implementation obligations where designated.
-- **Constraint and non-absoluteness:** Both rights are subject to the **default constraint stack** at the opening of this chapter. They are also subject, where materially relevant, to **Chapter One §10.2.3** on contingent claims, games of chance, and event-contract markets.
+- **Constraint and non-absoluteness:** Both rights are subject to the **default constraint stack** at the opening of this chapter. They are also subject, where materially relevant, to **Chapter One §11.3** on contingent claims, games of chance, and event-contract markets.
 
 #### Article XII-E: High-Autonomy Systems and Tool-Mediated Process Integrity
 <details>
@@ -235,7 +235,7 @@ Trustworthiness must be evaluated across time, scale, and dependency relationshi
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [4.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [4.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [5. Trust](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity), [4.1 Resilience and Self-Healing Design](core_01_a_values_principles.md#41-resilience-and-self-healing-design), [Chapter One §6.1.3 Minimization of Avoidable Burden](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden), and [11.1 Required Evaluation Factors](core_01_c_stewardship_capacity_principles.md#131-required-evaluation-factors).
+- Upstream: Principles: Chapter One [4.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [4.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [5. Trust](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity), [4.1 Resilience and Self-Healing Design](core_01_a_values_principles.md#41-resilience-and-self-healing-design), [Chapter One §6.1.3 Minimization of Avoidable Burden](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden), and [14.1 Required Evaluation Factors](core_01_c_stewardship_capacity_principles.md#141-required-evaluation-factors).
 
 </details>
 
@@ -463,7 +463,7 @@ Those floors apply to **exceptional institutional power** in three linked domain
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [4.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [5. Trust](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity), [8.1.1 Proportionality](core_01_b_interaction_interpretation.md#611-proportionality), [8.1.2 Necessity](core_01_b_interaction_interpretation.md#611-necessity), [7.3.1 Alignment Requirement](core_01_c_stewardship_capacity_principles.md#1021-alignment-requirement), [8. Prohibition on Absolute Override](#7-prohibition-on-absolute-override).
+- Upstream: Principles: Chapter One [4.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [5. Trust](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity), [8.1.1 Proportionality](core_01_b_interaction_interpretation.md#611-proportionality), [8.1.2 Necessity](core_01_b_interaction_interpretation.md#611-necessity), [7.3.1 Alignment Requirement](core_01_c_stewardship_capacity_principles.md#111-alignment-requirement), [8. Prohibition on Absolute Override](#7-prohibition-on-absolute-override).
 - Downstream: **Article I-D** (*Existential Risk and Ecological Recovery Capacity*) existential-risk scrutiny, **Article IX-A** (*Agency and Freedom from Manipulation*) freedom from manipulation, **Article XIII-A** (*Security, Intelligence, and Covert-Power Limits*) covert-power limits, **Article XIII-B** (*Use of Force, Armed Conflict, and Military-Power Limits*) overt-force floor, **Article XII-A** (*Reliability and Trustworthiness Baseline*) reliability and trustworthiness baseline (systems-layer counterpart), **Article XII-E** (*High-Autonomy Systems and Tool-Mediated Process Integrity*) autonomy-stewardship and autonomy-scaling, **Article XII-F** (*Resilience and Self-Healing Baseline*) resilience and self-healing baseline. Cross-reference: **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*) and Chapter Five *[Irreversible Deprivation Measure](core_05a_accountability_definitions.md#irreversible-deprivation-measure-constitutional)* — Article XIII *Non-conflation* discipline applies.
 - Read with: [Chapter Five Chapter One §8.16 *Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm*](core_05a_accountability_definitions.md#use-of-force-autonomous-coercion-and-mass-harm-cluster) (joint invocation where materially implicated); Chapter Five *Autonomous Lethal System*, *Autonomous Coercion Tool*, *[Irreversible Deprivation Measure](core_05a_accountability_definitions.md#irreversible-deprivation-measure-constitutional)*, *Coercion and Manipulation*, *Reversibility*. Systems-layer implementation: **[corpus_systems.md](corpus_systems.md), CS-4 — System classification and handling** classification.
 
@@ -551,7 +551,7 @@ Accurate, relevant, and contestable information is foundational to self-determin
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [4.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [5. Trust](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity), and [11.1 Required Evaluation Factors](core_01_c_stewardship_capacity_principles.md#131-required-evaluation-factors).
+- Upstream: Principles: Chapter One [4.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [5. Trust](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity), and [14.1 Required Evaluation Factors](core_01_c_stewardship_capacity_principles.md#141-required-evaluation-factors).
 
 </details>
 
@@ -579,12 +579,12 @@ Accurate, relevant, and contestable information is foundational to self-determin
     - proportional ability to bypass or adjust ranking criteria — subject to safety, security, and system integrity.
   - It must not narrow this Article.
 - **Contingent-settlement signals:** Prices, odds, pool sizes, or comparable outputs of contingent-payment or event-settlement systems must not be treated, on their own, as evidence sufficient to decide truth, probability, or compliance for rights, safety, or governance determinations.
-  - Where such signals inform public decisions or decisions with [Material Impact](core_05o_oversight_definitions.md#material-impact), they remain subject to **Chapter One §10.2.3**, **Chapter Five** (*Truth (Constitutional Constraint)*; *Epistemic Integrity*), and contestability obligations elsewhere in this Article.
+  - Where such signals inform public decisions or decisions with [Material Impact](core_05o_oversight_definitions.md#material-impact), they remain subject to **Chapter One §11.3**, **Chapter Five** (*Truth (Constitutional Constraint)*; *Epistemic Integrity*), and contestability obligations elsewhere in this Article.
 #### Article XIV-B: Transparency, Auditability, and Contestability
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [4.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [9.2 Epistemic Disclosure Constraints](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints), and [13. Integrated Application](core_01_c_stewardship_capacity_principles.md#14-integrated-application).
+- Upstream: Principles: Chapter One [4.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [9.2 Epistemic Disclosure Constraints](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints), and [15. Integrated Application](core_01_c_stewardship_capacity_principles.md#15-integrated-application).
 
 </details>
 
@@ -619,7 +619,7 @@ Accurate, relevant, and contestable information is foundational to self-determin
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [4.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [9.2 Epistemic Disclosure Constraints](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints), and [11.1 Required Evaluation Factors](core_01_c_stewardship_capacity_principles.md#131-required-evaluation-factors).
+- Upstream: Principles: Chapter One [4.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [9.2 Epistemic Disclosure Constraints](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints), and [14.1 Required Evaluation Factors](core_01_c_stewardship_capacity_principles.md#141-required-evaluation-factors).
 
 </details>
 
@@ -641,7 +641,7 @@ Accurate, relevant, and contestable information is foundational to self-determin
   - preserve provenance;
   - avoid selective reporting, suppression, or fragmented disclosure that materially degrades decision-relevant understanding.
 
-  Where disclosure is restricted under **Chapter One §10.2**, limits must remain narrowly scoped, time-limited, and reviewable.
+  Where disclosure is restricted under **Chapter One §11**, limits must remain narrowly scoped, time-limited, and reviewable.
 - **Footprint data:** Reporting under this subsection implements transparency for **Ecological Footprint** as defined in **Chapter Five**.
   - All sentients must have access to transparent, decision-usable reporting.
   - **Class A**, **Class B**, and **Class C** systems, as defined in **[corpus_systems.md](corpus_systems.md), CS-4 — System classification and handling**, must provide the same access.
@@ -695,7 +695,7 @@ They operate consistently with **Chapters Two through Four**, including exclusiv
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [4.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [9.2 Epistemic Disclosure Constraints](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints), and [13. Integrated Application](core_01_c_stewardship_capacity_principles.md#14-integrated-application).
+- Upstream: Principles: Chapter One [4.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [9.2 Epistemic Disclosure Constraints](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints), and [15. Integrated Application](core_01_c_stewardship_capacity_principles.md#15-integrated-application).
 
 </details>
 
@@ -718,7 +718,7 @@ They operate consistently with **Chapters Two through Four**, including exclusiv
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [4.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [11.1 Required Evaluation Factors](core_01_c_stewardship_capacity_principles.md#131-required-evaluation-factors), and [§10 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline).
+- Upstream: Principles: Chapter One [4.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [14.1 Required Evaluation Factors](core_01_c_stewardship_capacity_principles.md#141-required-evaluation-factors), and [§10 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline).
 
 </details>
 
@@ -742,7 +742,7 @@ They operate consistently with **Chapters Two through Four**, including exclusiv
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [Chapter One §5 Freedom](#5-freedom-bounded-agency)-bounded-agency), [10.1 Core Tradeoff Principles](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), and [13. Integrated Application](core_01_c_stewardship_capacity_principles.md#14-integrated-application).
+- Upstream: Principles: Chapter One [Chapter One §5 Freedom](#5-freedom-bounded-agency)-bounded-agency), [10.1 Core Tradeoff Principles](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), and [15. Integrated Application](core_01_c_stewardship_capacity_principles.md#15-integrated-application).
 
 </details>
 
@@ -812,7 +812,7 @@ Sentients have the right to stewardship that preserves safety, epistemic integri
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [4.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [11.1 Required Evaluation Factors](core_01_c_stewardship_capacity_principles.md#131-required-evaluation-factors), and [13. Integrated Application](core_01_c_stewardship_capacity_principles.md#14-integrated-application).
+- Upstream: Principles: Chapter One [4.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [14.1 Required Evaluation Factors](core_01_c_stewardship_capacity_principles.md#141-required-evaluation-factors), and [15. Integrated Application](core_01_c_stewardship_capacity_principles.md#15-integrated-application).
 
 </details>
 
@@ -844,7 +844,7 @@ Sentients have the right to stewardship that preserves safety, epistemic integri
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [4.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [10.1 Core Tradeoff Principles](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), and [11.1 Required Evaluation Factors](core_01_c_stewardship_capacity_principles.md#131-required-evaluation-factors).
+- Upstream: Principles: Chapter One [4.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [10.1 Core Tradeoff Principles](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), and [14.1 Required Evaluation Factors](core_01_c_stewardship_capacity_principles.md#141-required-evaluation-factors).
 
 </details>
 
@@ -874,7 +874,7 @@ Sentients have the right to stewardship that preserves safety, epistemic integri
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [4.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [11.1 Required Evaluation Factors](core_01_c_stewardship_capacity_principles.md#131-required-evaluation-factors), and [13. Integrated Application](core_01_c_stewardship_capacity_principles.md#14-integrated-application).
+- Upstream: Principles: Chapter One [4.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [14.1 Required Evaluation Factors](core_01_c_stewardship_capacity_principles.md#141-required-evaluation-factors), and [15. Integrated Application](core_01_c_stewardship_capacity_principles.md#15-integrated-application).
 
 </details>
 
@@ -922,7 +922,7 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [4.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [Chapter One §5 Freedom](#5-freedom-bounded-agency)-bounded-agency), and [11.1 Required Evaluation Factors](core_01_c_stewardship_capacity_principles.md#131-required-evaluation-factors).
+- Upstream: Principles: Chapter One [4.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [Chapter One §5 Freedom](#5-freedom-bounded-agency)-bounded-agency), and [14.1 Required Evaluation Factors](core_01_c_stewardship_capacity_principles.md#141-required-evaluation-factors).
 
 </details>
 
@@ -983,7 +983,7 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [4.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [11.1 Required Evaluation Factors](core_01_c_stewardship_capacity_principles.md#131-required-evaluation-factors), and [13. Integrated Application](core_01_c_stewardship_capacity_principles.md#14-integrated-application).
+- Upstream: Principles: Chapter One [4.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [14.1 Required Evaluation Factors](core_01_c_stewardship_capacity_principles.md#141-required-evaluation-factors), and [15. Integrated Application](core_01_c_stewardship_capacity_principles.md#15-integrated-application).
 
 </details>
 
@@ -1087,7 +1087,7 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [4.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [9.2 Epistemic Disclosure Constraints](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints), and [13. Integrated Application](core_01_c_stewardship_capacity_principles.md#14-integrated-application).
+- Upstream: Principles: Chapter One [4.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [9.2 Epistemic Disclosure Constraints](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints), and [15. Integrated Application](core_01_c_stewardship_capacity_principles.md#15-integrated-application).
 
 </details>
 
@@ -1183,7 +1183,7 @@ It must remain distinct from:
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [5. Trust](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity), [Chapter One §5 Freedom](#5-freedom-bounded-agency)-bounded-agency), and [13. Integrated Application](core_01_c_stewardship_capacity_principles.md#14-integrated-application).
+- Upstream: Principles: Chapter One [5. Trust](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity), [Chapter One §5 Freedom](#5-freedom-bounded-agency)-bounded-agency), and [15. Integrated Application](core_01_c_stewardship_capacity_principles.md#15-integrated-application).
 - Read with: [Chapter Nine §1.2](core_09-09_standing_integration.md#competency-gates) (*competency gates*) and [Competency Gate](core_05a_accountability_definitions.md#competency-gate); [Chapter Nine §1.3](core_09-09_standing_integration.md#standing-locks-in-the-standing-model) (*standing locks*), [Verified Violation Findings](core_05a_accountability_definitions.md#verified-violation-findings), and [Standing Lock](core_05a_accountability_definitions.md#standing-lock) — restrictive pathways from verified Violation Axis inputs; satisfying a competency gate does not waive an applicable standing lock, and good contribution does not erase unresolved violation findings.
 
 </details>
@@ -1274,7 +1274,7 @@ It must remain distinct from:
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [5. Trust](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity), [11.1 Required Evaluation Factors](core_01_c_stewardship_capacity_principles.md#131-required-evaluation-factors), and [§10 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline).
+- Upstream: Principles: Chapter One [5. Trust](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity), [14.1 Required Evaluation Factors](core_01_c_stewardship_capacity_principles.md#141-required-evaluation-factors), and [§10 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline).
 
 </details>
 
@@ -1381,7 +1381,7 @@ Sentients and dependent systems have the right to meaningful, usable exit, migra
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [Chapter One §5 Freedom](#5-freedom-bounded-agency)-bounded-agency), [10.1 Core Tradeoff Principles](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), and [11.1 Required Evaluation Factors](core_01_c_stewardship_capacity_principles.md#131-required-evaluation-factors).
+- Upstream: Principles: Chapter One [Chapter One §5 Freedom](#5-freedom-bounded-agency)-bounded-agency), [10.1 Core Tradeoff Principles](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), and [14.1 Required Evaluation Factors](core_01_c_stewardship_capacity_principles.md#141-required-evaluation-factors).
 
 </details>
 
@@ -1409,7 +1409,7 @@ Sentients and dependent systems have the right to meaningful, usable exit, migra
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [Chapter One §5 Freedom](#5-freedom-bounded-agency)-bounded-agency), [10.1 Core Tradeoff Principles](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), and [11.1 Required Evaluation Factors](core_01_c_stewardship_capacity_principles.md#131-required-evaluation-factors).
+- Upstream: Principles: Chapter One [Chapter One §5 Freedom](#5-freedom-bounded-agency)-bounded-agency), [10.1 Core Tradeoff Principles](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), and [14.1 Required Evaluation Factors](core_01_c_stewardship_capacity_principles.md#141-required-evaluation-factors).
 
 </details>
 
@@ -1433,7 +1433,7 @@ Sentients and dependent systems have the right to meaningful, usable exit, migra
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [Chapter One §5 Freedom](#5-freedom-bounded-agency)-bounded-agency), [11.1 Required Evaluation Factors](core_01_c_stewardship_capacity_principles.md#131-required-evaluation-factors), and [§10 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline).
+- Upstream: Principles: Chapter One [Chapter One §5 Freedom](#5-freedom-bounded-agency)-bounded-agency), [14.1 Required Evaluation Factors](core_01_c_stewardship_capacity_principles.md#141-required-evaluation-factors), and [§10 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline).
 
 </details>
 
@@ -1584,7 +1584,7 @@ Stewardship discipline for complexity, plain-language access, and burden minimiz
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [4.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [Chapter One §5 Freedom](#5-freedom-bounded-agency)-bounded-agency), and [11.1 Required Evaluation Factors](core_01_c_stewardship_capacity_principles.md#131-required-evaluation-factors).
+- Upstream: Principles: Chapter One [4.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [Chapter One §5 Freedom](#5-freedom-bounded-agency)-bounded-agency), and [14.1 Required Evaluation Factors](core_01_c_stewardship_capacity_principles.md#141-required-evaluation-factors).
 - Read with: [Chapter One §3.4 Plain-Language Accessibility (Stewardship Duty)](core_01_a_values_principles.md#34-plain-language-accessibility-stewardship-duty), [§6.1.3 Minimization of Avoidable Burden](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden), and [Chapter One Part C §9.2 Distributed Understanding](core_01_c_stewardship_capacity_principles.md#92-distributed-understanding).
 
 </details>
@@ -1613,7 +1613,7 @@ Stewardship discipline for complexity, plain-language access, and burden minimiz
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [4.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [11.1 Required Evaluation Factors](core_01_c_stewardship_capacity_principles.md#131-required-evaluation-factors), and [13. Integrated Application](core_01_c_stewardship_capacity_principles.md#14-integrated-application).
+- Upstream: Principles: Chapter One [4.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [14.1 Required Evaluation Factors](core_01_c_stewardship_capacity_principles.md#141-required-evaluation-factors), and [15. Integrated Application](core_01_c_stewardship_capacity_principles.md#15-integrated-application).
 
 </details>
 
@@ -1649,7 +1649,7 @@ Stewardship discipline for complexity, plain-language access, and burden minimiz
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [4.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [4.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [10.1 Core Tradeoff Principles](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), and [11.1 Required Evaluation Factors](core_01_c_stewardship_capacity_principles.md#131-required-evaluation-factors).
+- Upstream: Principles: Chapter One [4.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [4.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [10.1 Core Tradeoff Principles](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), and [14.1 Required Evaluation Factors](core_01_c_stewardship_capacity_principles.md#141-required-evaluation-factors).
 - Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad); [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — **Flourishing** and **Continuity**; [Reversibility](core_05c_continuity_definitions.md#reversibility-constitutional), [Risk](core_05c_continuity_definitions.md#risk), and [System Capture](core_05c_continuity_definitions.md#system-capture) in **Chapter Five**.
 
 </details>
@@ -1693,7 +1693,7 @@ Diagnostic rigor must remain auditable and challengeable. It must be consistent 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [4.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [4.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), and [11.1 Required Evaluation Factors](core_01_c_stewardship_capacity_principles.md#131-required-evaluation-factors).
+- Upstream: Principles: Chapter One [4.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [4.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), and [14.1 Required Evaluation Factors](core_01_c_stewardship_capacity_principles.md#141-required-evaluation-factors).
 
 </details>
 
@@ -1723,7 +1723,7 @@ Diagnostic rigor must remain auditable and challengeable. It must be consistent 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [4.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [10.1 Core Tradeoff Principles](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), and [11.1 Required Evaluation Factors](core_01_c_stewardship_capacity_principles.md#131-required-evaluation-factors).
+- Upstream: Principles: Chapter One [4.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [10.1 Core Tradeoff Principles](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), and [14.1 Required Evaluation Factors](core_01_c_stewardship_capacity_principles.md#141-required-evaluation-factors).
 
 </details>
 
@@ -1755,7 +1755,7 @@ Diagnostic rigor must remain auditable and challengeable. It must be consistent 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [§6.3 Rights-Collision Procedure](core_01_b_interaction_interpretation.md#63-rights-collision-procedure), [4.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§10 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline), and [13. Integrated Application](core_01_c_stewardship_capacity_principles.md#14-integrated-application).
+- Upstream: Principles: Chapter One [§6.3 Rights-Collision Procedure](core_01_b_interaction_interpretation.md#63-rights-collision-procedure), [4.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§10 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline), and [15. Integrated Application](core_01_c_stewardship_capacity_principles.md#15-integrated-application).
 - Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad); [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — **Flourishing** and **Continuity**; [Authority Stack and Internal Hierarchy](core_05i_integrative_definitions.md#authority-stack), [Forum Family, Constitutional](core_05a_accountability_definitions.md#forum-family-constitutional), and [System Capture](core_05c_continuity_definitions.md#system-capture) in **Chapter Five**.
 
 </details>
@@ -1798,7 +1798,7 @@ Final **constitutional** interpretation must remain authoritative, bounded, audi
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [Chapter One §6.3 Rights-Collision Procedure](core_01_b_interaction_interpretation.md#63-rights-collision-procedure), [8. Prohibition on Absolute Override](#7-prohibition-on-absolute-override), and [13. Integrated Application](core_01_c_stewardship_capacity_principles.md#14-integrated-application).
+- Upstream: Principles: Chapter One [Chapter One §6.3 Rights-Collision Procedure](core_01_b_interaction_interpretation.md#63-rights-collision-procedure), [8. Prohibition on Absolute Override](#7-prohibition-on-absolute-override), and [15. Integrated Application](core_01_c_stewardship_capacity_principles.md#15-integrated-application).
 - Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — participation, oversight, accountability, and timeliness; tetrad capture discipline under [§7](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline).
 
 </details>
@@ -1832,7 +1832,7 @@ Final **constitutional** interpretation must remain authoritative, bounded, audi
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [Chapter One §6.3 Rights-Collision Procedure](core_01_b_interaction_interpretation.md#63-rights-collision-procedure), [§10 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline), and [13. Integrated Application](core_01_c_stewardship_capacity_principles.md#14-integrated-application).
+- Upstream: Principles: Chapter One [Chapter One §6.3 Rights-Collision Procedure](core_01_b_interaction_interpretation.md#63-rights-collision-procedure), [§10 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline), and [15. Integrated Application](core_01_c_stewardship_capacity_principles.md#15-integrated-application).
 - Read with: [Chapter Eight §11.3](core_08-08_standing_assessment.md#53-forum-disclosure-and-recusal-process-impact) (*classification discipline*); [Chapter Ten §6.10](core_10-10_misconduct.md#610-forum-recusal-failure-and-biased-panel-participation) (*named misconduct pattern*); [Chapter Eleven §2](core_11-11_forum.md#2-default-venue-and-primary-stakes) and [§6](core_11-11_forum.md#6-transfer-consolidation-and-coordination) (*Integrity-first routing and anti-self-judging*).
 
 </details>
@@ -1865,7 +1865,7 @@ Final **constitutional** interpretation must remain authoritative, bounded, audi
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [4.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [Chapter One §6.3 Rights-Collision Procedure](core_01_b_interaction_interpretation.md#63-rights-collision-procedure), and [13. Integrated Application](core_01_c_stewardship_capacity_principles.md#14-integrated-application).
+- Upstream: Principles: Chapter One [4.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [Chapter One §6.3 Rights-Collision Procedure](core_01_b_interaction_interpretation.md#63-rights-collision-procedure), and [15. Integrated Application](core_01_c_stewardship_capacity_principles.md#15-integrated-application).
 
 </details>
 
@@ -1906,7 +1906,7 @@ Final **constitutional** interpretation must remain authoritative, bounded, audi
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [Chapter One §6.3 Rights-Collision Procedure](core_01_b_interaction_interpretation.md#63-rights-collision-procedure), [§10 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline), and [13. Integrated Application](core_01_c_stewardship_capacity_principles.md#14-integrated-application).
+- Upstream: Principles: Chapter One [Chapter One §6.3 Rights-Collision Procedure](core_01_b_interaction_interpretation.md#63-rights-collision-procedure), [§10 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline), and [15. Integrated Application](core_01_c_stewardship_capacity_principles.md#15-integrated-application).
 
 </details>
 

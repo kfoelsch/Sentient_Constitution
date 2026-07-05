@@ -331,7 +331,7 @@ The [Rights-Floor Minimums Principle](core_01_b_interaction_interpretation.md#ri
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [3. Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency), [§5.1 Limitation Discipline](core_01_a_values_principles.md#51-limitation-discipline), [7.1 Anti-Concentration, Substantive-Fairness, and Materiality Factors](core_01_c_stewardship_capacity_principles.md#131-required-evaluation-factors).
+- Upstream: Principles: Chapter One [3. Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency), [§5.1 Limitation Discipline](core_01_a_values_principles.md#51-limitation-discipline), [7.1 Anti-Concentration, Substantive-Fairness, and Materiality Factors](core_01_c_stewardship_capacity_principles.md#141-required-evaluation-factors).
 - Downstream: **Article V-A** (*Dignity and Equal Moral Standing*) dignity floor, **Article V-B** (*Nondiscrimination*) non-discrimination, **Article V-C** (*Full Inclusion and Equality in Adjudication and Operations*) full inclusion, **Article III-B** (*Equal Educational Access*) equal educational access (non-duplicative — education-specific accessibility remains owned there; this article states the cross-cutting Rights-Floor), **Article IX-C** (*Governance Participation and Voting Entitlement*) governance participation, **Article XI** (*Stakeholder System Participation, Representation, and Due Process*) stakeholder participation, **Article XV** (*Audit, Transparency, and Independent Verification*) independent verification; [Chapter Zero §2 *The Measurements*](core_00_preamble.md#2-the-measurements) (*Accessibility as constitutional measurement*); [Chapter Seven §5C](core_07-07_system_alignment_certification.md#5c-accessibility-evaluation) (*accessibility evaluation where certification gates substantive participation*).
 - Read with: Chapter Five *Accessibility*, *Protected Characteristics*, *Substantive Fairness*, *Materiality*, *Dependency*, *Meaningful Agency*. Cross-cutting evaluation-factor hook: **Chapter One §10.1** Accessibility row.
 
@@ -481,7 +481,7 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [3. Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [Chapter One §5 Freedom](#5-freedom-bounded-agency)-bounded-agency), and [11.1 Required Evaluation Factors](core_01_c_stewardship_capacity_principles.md#131-required-evaluation-factors).
+- Upstream: Principles: Chapter One [3. Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [Chapter One §5 Freedom](#5-freedom-bounded-agency)-bounded-agency), and [14.1 Required Evaluation Factors](core_01_c_stewardship_capacity_principles.md#141-required-evaluation-factors).
 
 </details>
 
@@ -923,7 +923,7 @@ All use, storage, transformation, and disclosure of such data must remain subjec
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [4.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [9.2 Epistemic Disclosure Constraints](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints), and [11.1 Required Evaluation Factors](core_01_c_stewardship_capacity_principles.md#131-required-evaluation-factors).
+- Upstream: Principles: Chapter One [4.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [9.2 Epistemic Disclosure Constraints](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints), and [14.1 Required Evaluation Factors](core_01_c_stewardship_capacity_principles.md#141-required-evaluation-factors).
 
 </details>
 
@@ -968,7 +968,7 @@ All use, storage, transformation, and disclosure of such data must remain subjec
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [4.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [Chapter One §5 Freedom](#5-freedom-bounded-agency)-bounded-agency), [§13.1 Productive Capacity (Instrumental Good)](core_01_c_stewardship_capacity_principles.md#111-productive-capacity-instrumental-good), [Chapter One §6.1.3 Minimization of Avoidable Burden](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden), [11.1 Required Evaluation Factors](core_01_c_stewardship_capacity_principles.md#131-required-evaluation-factors), and [§10 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline).
+- Upstream: Principles: Chapter One [4.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [Chapter One §5 Freedom](#5-freedom-bounded-agency)-bounded-agency), [§12.1 Productive Capacity (Instrumental Good)](core_01_c_stewardship_capacity_principles.md#121-productive-capacity-instrumental-good), [Chapter One §6.1.3 Minimization of Avoidable Burden](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden), [14.1 Required Evaluation Factors](core_01_c_stewardship_capacity_principles.md#141-required-evaluation-factors), and [§10 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline).
 - Downstream: **Article III-D** (*Labor and Economic Floor*) labor-and-economic floor; **Article VIII-A** (*Self-Ownership of Likeness and Reputation*) likeness; **Article VIII-B** (*Experiential and Derived Data Rights*) experiential and derived data; **Article VIII-C** (*Truthful Publication and High-Impact Publication Limits*) publication; **Chapter One §9** non-concentration and **§11.3** concentration-threshold mechanism.
 - Read with: [Chapter Five Chapter One §8.16 *Labor and Economic Floor: Compensation, Organization, Safe Conditions, Leisure, and Creative Work*](core_05i_integrative_definitions.md#labor-and-economic-floor-cluster) (joint invocation with **Article III-D** (*Labor and Economic Floor*) and [Chapter Five §3.7 *Privacy (Informational)*](core_05a_accountability_definitions.md#privacy-informational-cluster) where materially implicated).
 
@@ -1011,7 +1011,7 @@ All use, storage, transformation, and disclosure of such data must remain subjec
   - Routing operational detail to `corpus_systems.md` is by pointer and does not narrow this floor.
 - **Fair compensation:** The [Fair Compensation](core_05c_continuity_definitions.md#fair-compensation-constitutional) standard under **Article III-D** (*Labor and Economic Floor*) applies to creative labor regardless of substrate, and regardless of whether compensation is structured through traditional, platform, or novel mechanisms.
   - Attribution without compensation, or compensation without attribution, does not by itself satisfy this bullet where both are materially owed.
-- **Market concentration:** If a few players hoard control over materials, platforms, how information flows, or creative tools — in ways that predictably undercut other creators' livelihoods or ability to get credit for their work — **Chapter One §9** non-concentration and the **[§11.3](core_01_c_stewardship_capacity_principles.md#121-concentration-threshold-mechanism-adopter-tunable)** concentration-threshold mechanism apply.
+- **Market concentration:** If a few players hoard control over materials, platforms, how information flows, or creative tools — in ways that predictably undercut other creators' livelihoods or ability to get credit for their work — **Chapter One §9** non-concentration and the **[§13.1](core_01_c_stewardship_capacity_principles.md#131-concentration-threshold-mechanism-adopter-tunable)** concentration-threshold mechanism apply.
   - Calling the arrangement "productive capacity" does not satisfy this Article when the pattern still amounts to forbidden concentration.
 - **Likeness, data, and publication rules still apply:** **Article VIII-A** (*Self-Ownership of Likeness and Reputation*), **Article VIII-B** (*Experiential and Derived Data Rights*), and **Article VIII-C** (*Truthful Publication and High-Impact Publication Limits*) still govern likeness, personal data, and truthful publication in full. **Article VIII-D** (*Creative Work, Training-Data Use, and Anti-Displacement*) does not water them down.
   - When a creative-work dispute also involves likeness, personal data, or publication, **Articles VIII-A**, **VIII-B**, and **VIII-C** work together with **Article VIII-D** under **Chapter One §6.3.1**.
@@ -1087,7 +1087,7 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [Chapter One §5 Freedom](#5-freedom-bounded-agency)-bounded-agency), [Chapter One §6.3 Rights-Collision Procedure](core_01_b_interaction_interpretation.md#63-rights-collision-procedure), and [11.1 Required Evaluation Factors](core_01_c_stewardship_capacity_principles.md#131-required-evaluation-factors).
+- Upstream: Principles: Chapter One [Chapter One §5 Freedom](#5-freedom-bounded-agency)-bounded-agency), [Chapter One §6.3 Rights-Collision Procedure](core_01_b_interaction_interpretation.md#63-rights-collision-procedure), and [14.1 Required Evaluation Factors](core_01_c_stewardship_capacity_principles.md#141-required-evaluation-factors).
 
 </details>
 
@@ -1132,7 +1132,7 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [Chapter One §5 Freedom](#5-freedom-bounded-agency)-bounded-agency), [Chapter One §6.3 Rights-Collision Procedure](core_01_b_interaction_interpretation.md#63-rights-collision-procedure), and [13. Integrated Application](core_01_c_stewardship_capacity_principles.md#14-integrated-application).
+- Upstream: Principles: Chapter One [Chapter One §5 Freedom](#5-freedom-bounded-agency)-bounded-agency), [Chapter One §6.3 Rights-Collision Procedure](core_01_b_interaction_interpretation.md#63-rights-collision-procedure), and [15. Integrated Application](core_01_c_stewardship_capacity_principles.md#15-integrated-application).
 
 </details>
 
@@ -1163,7 +1163,7 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [Chapter One §5 Freedom](#5-freedom-bounded-agency)-bounded-agency), [Chapter One §6.3 Rights-Collision Procedure](core_01_b_interaction_interpretation.md#63-rights-collision-procedure), and [13. Integrated Application](core_01_c_stewardship_capacity_principles.md#14-integrated-application).
+- Upstream: Principles: Chapter One [Chapter One §5 Freedom](#5-freedom-bounded-agency)-bounded-agency), [Chapter One §6.3 Rights-Collision Procedure](core_01_b_interaction_interpretation.md#63-rights-collision-procedure), and [15. Integrated Application](core_01_c_stewardship_capacity_principles.md#15-integrated-application).
 - Read with: **[corpus_systems.md](corpus_systems.md), CS-4 — System classification and handling** for **Class P** (personal, private-use, isolated, and experimental **mode**): operational retention, boundaries, and scaling.
 
 </details>
@@ -1404,7 +1404,7 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [4.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [Chapter One §5 Freedom](#5-freedom-bounded-agency)-bounded-agency), and [11.1 Required Evaluation Factors](core_01_c_stewardship_capacity_principles.md#131-required-evaluation-factors).
+- Upstream: Principles: Chapter One [4.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [Chapter One §5 Freedom](#5-freedom-bounded-agency)-bounded-agency), and [14.1 Required Evaluation Factors](core_01_c_stewardship_capacity_principles.md#141-required-evaluation-factors).
 - Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation** leg (Stakeholder System Participation layer); [material stake](core_00_preamble.md#material-stake) scaling.
 
 </details>
@@ -1435,7 +1435,7 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [Chapter One §5 Freedom](#5-freedom-bounded-agency)-bounded-agency), [11.1 Required Evaluation Factors](core_01_c_stewardship_capacity_principles.md#131-required-evaluation-factors), and [§10 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline).
+- Upstream: Principles: Chapter One [Chapter One §5 Freedom](#5-freedom-bounded-agency)-bounded-agency), [14.1 Required Evaluation Factors](core_01_c_stewardship_capacity_principles.md#141-required-evaluation-factors), and [§10 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline).
 
 </details>
 
@@ -1467,7 +1467,7 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [4.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [Chapter One §5 Freedom](#5-freedom-bounded-agency)-bounded-agency), and [13. Integrated Application](core_01_c_stewardship_capacity_principles.md#14-integrated-application).
+- Upstream: Principles: Chapter One [4.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [Chapter One §5 Freedom](#5-freedom-bounded-agency)-bounded-agency), and [15. Integrated Application](core_01_c_stewardship_capacity_principles.md#15-integrated-application).
 
 </details>
 
@@ -1535,7 +1535,7 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [4.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [11.1 Required Evaluation Factors](core_01_c_stewardship_capacity_principles.md#131-required-evaluation-factors), and [§10 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline).
+- Upstream: Principles: Chapter One [4.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [14.1 Required Evaluation Factors](core_01_c_stewardship_capacity_principles.md#141-required-evaluation-factors), and [§10 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline).
 
 </details>
 

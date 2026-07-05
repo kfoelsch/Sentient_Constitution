@@ -29,7 +29,7 @@
 |-----|-----|
 | Chapter One §6.1–Chapter One §6.4 | Chapter One §15.1–§15.2 |
 | Chapter One §6.4.1–Chapter One §6.4.2 | §6.4.1–§6.4.2 (Interaction; unchanged) |
-| Chapter One §10.1–Chapter One §10.2 | §15.1.1–§15.1.5 |
+| Former Chapter One integrated-application subsections | §15.1.1–§15.1.5 |
 | Chapter One §8.1–Chapter One §8.3 | §8.1–§8.3 (Interpretation; unchanged) |
 
 ### Canonical anchor examples
@@ -43,8 +43,8 @@
 | `#7-prohibition-on-absolute-override` | `#7-prohibition-on-absolute-override` |
 | `#8-constitutional-interpretation` | `#8-constitutional-interpretation` |
 | `#81-definitional-layer-and-required-disciplines` | `#81-definitional-layer-and-required-disciplines` |
-| `#13-systemic-evaluation-requirement` | `#13-systemic-evaluation-requirement` |
-| `#131-required-evaluation-factors` | `#131-required-evaluation-factors` |
-| `#14-integrated-application` | `#14-integrated-application` |
+| `#14-systemic-evaluation-requirement` | `#14-systemic-evaluation-requirement` |
+| `#141-required-evaluation-factors` | `#141-required-evaluation-factors` |
+| `#15-integrated-application` | `#15-integrated-application` |
 
-Legacy redirect stubs retained for superseded anchors (one edition cycle).
+Legacy redirect stubs were not retained for this pre-release corpus.

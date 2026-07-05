@@ -535,7 +535,7 @@ This section implements **Article XXIV-C** (*Timely Resolution and Anti-Delay Fl
   - self-created delay, procedural layering, forum shopping, or record fragmentation used to prolong resolution without milestone justification;
   - treating allegations as verified standing inputs to buy time ([Chapter Eight §14.3.2](core_08-08_standing_assessment.md#verified-inputs-for-standing));
   - [Capture of Resolution Pathways](core_05a_accountability_definitions.md#capture-of-resolution-pathways) through delay, opacity, or resolver bias;
-  - efficiency claims that skip fact-checking, punish the wrong person, offer a fix that does not fit the harm, or cut off challenge and appeal contrary to Chapter One [§13.2](core_01_c_stewardship_capacity_principles.md#112-constitutional-efficiency).
+  - efficiency claims that skip fact-checking, punish the wrong person, offer a fix that does not fit the harm, or cut off challenge and appeal contrary to Chapter One [§12.2](core_01_c_stewardship_capacity_principles.md#122-constitutional-efficiency).
 - **Implementation defaults:** Numeric tier-default windows and stage tables belong in adopted **`corpus_forum.md`** and **`corpus_institutions.md`** text within incorporation scope. Those defaults must implement this section and **Article XXIV-C** and must not narrow **Article XII-B** (*Right to Challenge, Review, and Redress*), **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*), or **Article XXIII-C** (*Least-Restrictive and Time-Bounded Rule*). Default floor tables: [CF-11.3.1](corpus_forum/cf_11_performance_backlog_publication_accessibility.md#cf-1131-target-windows-and-timing-floors).
 
 ---

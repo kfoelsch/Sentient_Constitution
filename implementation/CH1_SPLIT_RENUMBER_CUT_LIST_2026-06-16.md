@@ -78,9 +78,9 @@ Binding only together with other `core_*` files. **Chapter One, Part A** — §�
 | Old ref pattern | New ref |
 |---|---|
 | `#7-stewardship-and-distributed-understanding` | `core_01_b_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding` |
-| `#6-shared-system-capacity` | `core_01_b_stewardship_capacity_principles.md#11-shared-system-capacity` |
+| `#6-shared-system-capacity` | `core_01_b_stewardship_capacity_principles.md#12-shared-system-capacity` |
 | `#614-minimization-of-avoidable-burden` | `core_01_a_values_principles.md#614-minimization-of-avoidable-burden` |
-| `#91-required-evaluation-factors` | `core_01_b_stewardship_capacity_principles.md#131-required-evaluation-factors` |
+| `#91-required-evaluation-factors` | `core_01_b_stewardship_capacity_principles.md#141-required-evaluation-factors` |
 | `#92-incentive-alignment-and-system-capture` | `core_01_b_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline` |
 | `#922-stewardship-and-operator-incentive-alignment` | `core_01_b_stewardship_capacity_principles.md#124-stewardship-and-operator-incentive-alignment` |
 | `#11-prohibition-on-absolute-override` | `core_01_a_values_principles.md#7-prohibition-on-absolute-override` |
@@ -227,7 +227,7 @@ Binding only together with other `core_*` files. **Chapter One, Part A** — §�
 
 | Stale reference | Current owner |
 |---|---|
-| `Chapter One §6` non-concentration | **§14 Market Structure** (`#12-market-structure`) |
+| `Chapter One §6` non-concentration | **§14 Market Structure** (`#13-market-structure`) |
 | `§11.4` pro-competition / anti-domination | **§14.2** |
 | `§6.5` consolidation ceiling | **§14.3** |
 | `§8.3` concentration threshold | **§14.1** |
@@ -403,7 +403,7 @@ Replace old §6–§9 sequence paragraph with:
 Whole-system evaluation under **Chapter One §8.1** is incomplete if it omits whether incentives and governance structures will preserve constitutional outcomes. Apply **§10 Governance Under Stewardship Discipline** for that discipline; **Chapter One §8.1** does not duplicate **§7**.
 ```
 
-### 5.6 Chapter One §14 Integrated Application — arc rewrite
+### 5.6 Chapter One §15 Integrated Application — arc rewrite
 
 Replace "§§6–9" language with:
 
@@ -485,7 +485,7 @@ core_00-01_principles.md#7-stewardship-and-distributed-understanding
   → core_01_b_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding
 
 core_00-01_principles.md#6-shared-system-capacity
-  → core_01_b_stewardship_capacity_principles.md#11-shared-system-capacity
+  → core_01_b_stewardship_capacity_principles.md#12-shared-system-capacity
 
 core_00-01_principles.md#92-incentive-alignment-and-system-capture
   → core_01_b_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline
