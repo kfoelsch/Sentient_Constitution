@@ -10,6 +10,7 @@
 - Topic routing (mandatory read-with): **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CJS-4.3**.
 - Topic routing (mandatory read-with): **CJS-R19** (*integrity assurance and resilie…*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CJS-5.6** (*integrity assurance and resilience operations*).
 - Topic routing (primary owner): **CJS-R10** (*Forum performance, backlog requirements, publication timeliness, access…*) in **CJS-2.1** (*Topic router (stable IDs)*). Mandatory read-with: **CI-7.3**.
+- Read with: [Chapter Zero §3.7 Measuring Timeliness](../core_00_preamble.md#measuring-timeliness) and [Chapter Zero §4.1 Using Measurements in Governance](../core_00_preamble.md#from-measurement-to-evidence-and-remedy) (*performance metrics must trace to constitutional measurement categories via [Chapter Seven](../core_07-07_system_alignment_certification.md#chapter-seven-system-alignment-certification)*).
 
 </details>
 

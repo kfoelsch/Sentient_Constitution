@@ -7,6 +7,7 @@ Single catalog for corpus integrity audits. Rule IDs map to [tools/architecture/
 | Make target | Tool | Rule ID(s) | Notes |
 |-------------|------|------------|-------|
 | `reference-audit` | `tools/reference_audit.py` | REF-ARTICLES | Chapter Six article map from part-file headings |
+| `measurement-anchor-audit` | `tools/measurement_anchor_audit.py` | MEAS-ANCHOR | Fails on outbound legacy `#measuring-*` aliases outside Chapter Zero |
 | `doc-architecture-section-audit` | `tools/architecture/doc_architecture_section_audit.py` | — | No letter-suffixed `##` sections in doc_architecture |
 | `primitive-retirement-audit` | `tools/primitive_retirement_audit.py` | — | Retired primitive label grammar |
 | `section-abbreviation-descriptor-audit` | `tools/section_abbreviation_descriptor_audit.py` | — | `--changed-only` in regression |

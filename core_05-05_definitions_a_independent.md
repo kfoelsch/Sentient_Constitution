@@ -311,7 +311,7 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Constitutional Tetrad](../core_00_preamble.md#constitutional-tetrad); [Two Constitutional Aims](../core_00_preamble.md#two-constitutional-aims); [material stake](../core_00_preamble.md#material-stake).
+- Upstream: [Constitutional Tetrad](../core_00_preamble.md#constitutional-tetrad); [Two Constitutional Aims](../core_00_preamble.md#two-constitutional-aims); [material stake](../core_00_preamble.md#material-stake); [Chapter Zero §2 Measurements Overview](../core_00_preamble.md#measurements-overview) and [§3 Major Measurement Aspects](../core_00_preamble.md#major-measurement-aspects).
 - Downstream: constitutional orientation for all Chapter Five band definitions and §3 dependent clusters.
 - Read with: [§3.0.1 Joint invocation](core_05-05_definitions_a_independent.md#joint-invocation-and-satisfaction) and [§3.0.2 Standalone interaction](core_05-05_definitions_a_independent.md#standalone-definitions-interaction-and-full-context) meta rules before applying any dependent cluster.
 

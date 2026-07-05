@@ -52,11 +52,11 @@ Measurement in this Constitution asks a practical question: are systems actually
 
 Measurements must remain traceable to those aims and to the rights protections established in this Constitution. Raw throughput, utilization, headcount, revenue, latency, or other convenient proxies cannot substitute for constitutional performance where [Proxy Divergence](core_05o_oversight_definitions.md#proxy-divergence) is foreseeable.
 
-The overview below lists measurement **categories** mapped to the [Two Constitutional Aims](#two-constitutional-aims) and the [Constitutional Tetrad](#constitutional-tetrad). Each category has one plain-language question and named **subcategories**. Subcategory detail — plain questions, constitutional uses, and binding definition links — lives in the matching [§3](#major-measurement-aspects) subsection. [Materiality](#material-family-orientation) is the threshold gate in [§3.1](#material-family-orientation). **Constitutional performance** is cross-cutting — instrumental to both aims. Binding definitions live in [Chapter Five](core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions).
+The overview below lists measurement **categories** mapped to the [Two Constitutional Aims](#two-constitutional-aims) and the [Constitutional Tetrad](#constitutional-tetrad). Each category has one plain-language question and named **subcategories**. Subcategory detail — plain questions, constitutional uses, and binding definition links — lives in the matching [§3](#major-measurement-aspects) subsection. [Materiality](#measuring-threshold-and-scaling) is the threshold gate in [§3.1](#measuring-threshold-and-scaling). **Constitutional performance** is cross-cutting — instrumental to both aims. Binding definitions live in [Chapter Five](core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions).
 
 | Category | Plain question | Subcategories |
 |---|---|---|
-| **[Threshold and scaling](#measuring-threshold-and-scaling)** | Is the effect serious enough to trigger stronger duties? | [Materiality](#material-family-orientation) |
+| **[Threshold and scaling](#measuring-threshold-and-scaling)** | Is the effect serious enough to trigger stronger duties? | [Materiality](#measuring-threshold-and-scaling) |
 | **[Flourishing](#measuring-flourishing)** | Are sentients actually sustained in life, safety, and access to essentials? | Wellbeing · Safety, harm, and risk · Survival-floor access |
 | **[Continuity](#measuring-continuity)** | Can sentients and systems endure — ecologically, dependably, and across failure? | Ecological footprint and environmental preconditions · Resilience, reversibility, and systemic risk · Dependency and resource flows · Cross-system support |
 | **[Participation](#measuring-participation)** | Can affected sentients take part fairly — voice, access, learning, and privacy? | Fairness, access, and agency · Privacy and data stewardship |
@@ -74,7 +74,7 @@ Measurement terms orient constitutional review. They do not, by themselves, crea
 The subsections below unpack each [overview category](#2-the-measurements) in the same order. Operational use of those measurements in governance is in [§4.1](#from-measurement-to-evidence-and-remedy). Where [Chapter Seven](core_07-07_system_alignment_certification.md#chapter-seven-system-alignment-certification) expressly requires certification evaluation, the matching evaluation section is noted for traceability.
 
 <a id="measuring-threshold-and-scaling"></a>
-<a id="material-family-orientation"></a>
+<a id="material-family-orientation"></a><!-- legacy alias; prefer #measuring-threshold-and-scaling -->
 
 #### 3.1 Measuring Threshold and Scaling
 
@@ -86,7 +86,7 @@ This measure asks whether effects are constitutionally serious enough to trigger
 - [Material](core_05o_oversight_definitions.md#material) — conditions that can cause meaningful impact or risk
 - [Material Impact](core_05o_oversight_definitions.md#material-impact) and [Material Risk](core_05o_oversight_definitions.md#material-risk) — what is being evaluated
 - **Materiality** — the judgment that something crosses constitutional significance (formal home: [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination))
-- Binding definitions for this family — Chapter Five, [Materiality, impact, risk, and proxy integrity](core_05c_continuity_definitions.md#materiality-semi-independent)
+- Binding definitions for this family — Chapter Five, [Materiality, impact, risk, and proxy integrity](core_05o_oversight_definitions.md#materiality-semi-independent)
 
 *Materially* in body text may invoke this family; capitalized **Material** terms are governed by the Chapter Five definitions.
 

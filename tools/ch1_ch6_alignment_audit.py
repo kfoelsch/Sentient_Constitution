@@ -175,6 +175,47 @@ MEASUREMENT_FAMILIES = {
     ],
 }
 
+# Parent map: Chapter Zero §2 eight categories → §3 measurement-family subcategories.
+MEASUREMENT_CATEGORIES: dict[str, list[str]] = {
+    "3.1 Threshold and scaling": ["Materiality"],
+    "3.2 Flourishing": [
+        "Wellbeing",
+        "Safety / Harm / Risk",
+        "Survival-floor access",
+    ],
+    "3.3 Continuity": [
+        "Ecological Footprint / Environmental Preconditions",
+        "Resilience / Systemic Risk",
+        "Dependency / Resource Flow",
+        "Proportionate Cross-System Support",
+    ],
+    "3.4 Participation": [
+        "Substantive Fairness",
+        "Accessibility",
+        "Educational Agency",
+        "Privacy / Data Stewardship",
+    ],
+    "3.5 Oversight": [
+        "Truth / Epistemic Integrity",
+        "Trustworthiness",
+    ],
+    "3.6 Accountability": [
+        "Incentive Alignment / Proxy Integrity",
+        "Market Structure / Contestability",
+    ],
+    "3.7 Timeliness": ["Timely Resolution"],
+    "3.8 Constitutional performance": [
+        "Constitutional Efficiency",
+        "Avoidable Burden",
+        "Productive Capacity",
+    ],
+}
+
+CH00_SECTION3_ANCHOR_RE = re.compile(
+    r"(?:core_00_preamble\.md#measuring-|Chapter Zero §3\.?\d?)",
+    re.IGNORECASE,
+)
+
 RIGHTS_FAMILIES = {
     "survival/resources": ["I", "II", "III", "IV"],
     "equality/access": ["V", "VI", "VII", "VIII"],
@@ -247,6 +288,7 @@ class Article:
     material_signals: list[str] = field(default_factory=list)
     expected_measurements: list[str] = field(default_factory=list)
     measurement_refs: list[str] = field(default_factory=list)
+    ch00_section3_signals: list[str] = field(default_factory=list)
     owner_refs: list[str] = field(default_factory=list)
     classifications: list[str] = field(default_factory=list)
 
@@ -409,6 +451,22 @@ def measurement_families_for(text: str) -> list[str]:
     return families
 
 
+def ch00_section3_signals_for(text: str) -> list[str]:
+    """Explicit Chapter Zero §3 read-with links or canonical #measuring-* anchors."""
+    signals: list[str] = []
+    if CH00_SECTION3_ANCHOR_RE.search(text):
+        signals.append("explicit_ch00_section3_trace")
+    for category, subcategories in MEASUREMENT_CATEGORIES.items():
+        if category.lower() in text.lower():
+            signals.append(category)
+            continue
+        for subcategory in subcategories:
+            if subcategory.lower() in text.lower():
+                signals.append(f"{category} ({subcategory})")
+                break
+    return signals
+
+
 def is_measurement_dependent(article: Article) -> bool:
     text = f"{article.title}\n{article.body}".lower()
     if any(term in text for terms in MEASUREMENT_FAMILIES.values() for term in terms):
@@ -542,6 +600,7 @@ class Ch1Ch6AlignmentAuditor:
                 term in text.lower() for term in MEASUREMENT_FAMILIES[family]
             )
         ]
+        article.ch00_section3_signals = ch00_section3_signals_for(text)
         article.owner_refs = collect_owner_refs(text)
 
         classifications: set[str] = set()
@@ -653,6 +712,7 @@ class Ch1Ch6AlignmentAuditor:
             1 for article in self.articles
             if article.tetrad_terms and article.aims and article.material_signals
         )
+        ch0_section3_traced = sum(1 for article in self.articles if article.ch00_section3_signals)
         measurement_routed = sum(
             1 for article in self.articles
             if not is_measurement_dependent(article) or article.expected_measurements
@@ -678,6 +738,7 @@ class Ch1Ch6AlignmentAuditor:
             f"- Chapter 6 article/subarticle inventory was discovered across all four rights files: `{total}` items.",
             f"- Direct Chapter 1 trace exists for `{direct}/{total}` Chapter 6 items.",
             f"- Chapter 0 measurement frame signals are structurally visible on `{ch0_framed}/{total}` items.",
+            f"- Explicit Chapter Zero §3 category traces or anchors appear on `{ch0_section3_traced}/{total}` items.",
             "",
             "### What Needs Review",
             "",
@@ -725,6 +786,7 @@ class Ch1Ch6AlignmentAuditor:
             f"| Chapter 6 articles/subarticles discovered | {total} | PASS |",
             f"| Items with direct Chapter 1 basis | {direct}/{total} | {'PASS' if direct == total else 'REVIEW'} |",
             f"| Items with Chapter 0 Tetrad/Aims/material-stake framing | {ch0_framed}/{total} | {'PASS' if ch0_framed == total else 'REVIEW'} |",
+            f"| Items with explicit Chapter Zero §3 trace or anchor signal | {ch0_section3_traced}/{total} | {'PASS' if ch0_section3_traced else 'REVIEW'} |",
             f"| Items with clear measurement routing or no measurement dependency | {measurement_routed}/{total} | {'PASS' if measurement_routed == total else 'REVIEW'} |",
             f"| Broken or ambiguous Chapter 0/1/6 links | {finding_counts.get('broken_link', 0)} | {'PASS' if finding_counts.get('broken_link', 0) == 0 else 'FAIL'} |",
             f"| Owner-boundary risks | {finding_counts.get('owner_drift', 0)} | {'PASS' if finding_counts.get('owner_drift', 0) == 0 else 'FAIL'} |",

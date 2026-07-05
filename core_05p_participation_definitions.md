@@ -63,7 +63,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Owner floor: [Article V-G](core_06-06_rights_part_b.md#article-v-g-accessibility). Cross-cutting evaluation-factor hook: [Chapter Seven §1A.2](core_07-07_system_alignment_certification.md#1a2-accessibility-under-sentience-non-exclusion). Education-specific accessibility remains governed by [Article III-B](core_06-06_rights_part_a.md#article-iii-b-equal-educational-access) and is not narrowed by this entry.
-- Downstream: [Chapter Zero §3.4](core_00_preamble.md#measuring-participation-and-fair-access) (*Accessibility as constitutional measurement*); [Chapter Seven §5C](core_07-07_system_alignment_certification.md#5c-accessibility-evaluation) (*accessibility evaluation where certification gates substantive participation*).
+- Downstream: [Chapter Zero §3.4](core_00_preamble.md#measuring-participation) (*Accessibility as constitutional measurement*); [Chapter Seven §5C](core_07-07_system_alignment_certification.md#5c-accessibility-evaluation) (*accessibility evaluation where certification gates substantive participation*).
 - Upstream: Principles: [Chapter One §2.1 Fairness](core_01_a_values_principles.md#21-fairness) — especially [Chapter One §8.1.1 Access and Opportunity](core_01_a_values_principles.md#311-access-and-opportunity).
 - Read with: [Protected Characteristics](core_05p_participation_definitions.md#protected-characteristics-constitutional), [Protected Characteristic Proxying and Disparate Impact](core_05p_participation_definitions.md#protected-characteristic-proxying-and-disparate-impact), [Substantive Fairness](core_05p_participation_definitions.md#substantive-fairness-constitutional), [Participation](core_05p_participation_definitions.md#participation-constitutional), [Materiality](core_05o_oversight_definitions.md#materiality-determination), [Dependency](core_05c_continuity_definitions.md#dependency), [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency), [Necessity](core_05a_accountability_definitions.md#necessity), [Proportionality](core_05a_accountability_definitions.md#proportionality), and [Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion).
 
@@ -148,7 +148,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Principles: [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency).
-- Read with: the [Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity cluster](core_05c_continuity_definitions.md#self-determination-and-meaningful-agency-cluster), [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency), [Necessity](core_05a_accountability_definitions.md#necessity), [Proportionality](core_05a_accountability_definitions.md#proportionality), [Coercion and Manipulation](core_05p_participation_definitions.md#coercion-and-manipulation-constitutional), and [Contestability](core_05a_accountability_definitions.md#contestability).
+- Read with: the [Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity cluster](core_05p_participation_definitions.md#self-determination-and-meaningful-agency-cluster), [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency), [Necessity](core_05a_accountability_definitions.md#necessity), [Proportionality](core_05a_accountability_definitions.md#proportionality), [Coercion and Manipulation](core_05p_participation_definitions.md#coercion-and-manipulation-constitutional), and [Contestability](core_05a_accountability_definitions.md#contestability).
 
 </details>
 
@@ -444,7 +444,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Principles: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation** leg; [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency), [10.1 Core Tradeoff Principles](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), and [Chapter Seven §1A Whole-System Certification Evaluation](core_07-07_system_alignment_certification.md#1a-whole-system-certification-evaluation) where participation, dependency, and material impact determine the intensity of agency protection.
-- Cluster component: [Chapter Five §3.8 *Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity*](core_05c_continuity_definitions.md#self-determination-and-meaningful-agency-cluster), and [Chapter Five §2 *Agency, Consent, and Anti-Coercion*](core_05c_continuity_definitions.md#agency-consent-and-anti-coercion-semi-independent).
+- Cluster component: [Chapter Five §3.8 *Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity*](core_05p_participation_definitions.md#self-determination-and-meaningful-agency-cluster), and [Chapter Five §2 *Agency, Consent, and Anti-Coercion*](core_05c_continuity_definitions.md#agency-consent-and-anti-coercion-semi-independent).
 - Read with: [Freedom (Bounded Agency)](core_05p_participation_definitions.md#freedom-bounded-agency), [Consent](core_05p_participation_definitions.md#consent-constitutional), [Coercion and Manipulation](core_05p_participation_definitions.md#coercion-and-manipulation-constitutional), [Dependency](core_05c_continuity_definitions.md#dependency), [Contestability](core_05a_accountability_definitions.md#contestability), [Systemic Lock-In](core_05c_continuity_definitions.md#systemic-lock-in), and [Dignity and Equal Moral Standing](core_05p_participation_definitions.md#dignity-and-equal-moral-standing).
 
 </details>
@@ -468,7 +468,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 
 - Downstream: Principles: [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency) (meaningful agency / cooperative interaction); [Chapter Seven §1A Whole-System Certification Evaluation](core_07-07_system_alignment_certification.md#1a-whole-system-certification-evaluation) (dependency / materiality in consent asymmetry).
 - Cluster component: [Chapter Five §2 *Agency, Consent, and Anti-Coercion*](core_05c_continuity_definitions.md#agency-consent-and-anti-coercion-semi-independent).
-- Read with: the [Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity cluster](core_05c_continuity_definitions.md#self-determination-and-meaningful-agency-cluster), [Consent, Sexual](core_05p_participation_definitions.md#consent-sexual), [Feasibility](core_05a_accountability_definitions.md#feasibility), [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency), [Dependency](core_05c_continuity_definitions.md#dependency), [Coercion and Manipulation](core_05p_participation_definitions.md#coercion-and-manipulation-constitutional), and [Harassment and Bullying](core_05a_accountability_definitions.md#harassment-and-bullying).
+- Read with: the [Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity cluster](core_05p_participation_definitions.md#self-determination-and-meaningful-agency-cluster), [Consent, Sexual](core_05p_participation_definitions.md#consent-sexual), [Feasibility](core_05a_accountability_definitions.md#feasibility), [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency), [Dependency](core_05c_continuity_definitions.md#dependency), [Coercion and Manipulation](core_05p_participation_definitions.md#coercion-and-manipulation-constitutional), and [Harassment and Bullying](core_05a_accountability_definitions.md#harassment-and-bullying).
 
 </details>
 
@@ -554,7 +554,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: [Chapter One §2.1 Fairness](core_01_a_values_principles.md#21-fairness) — especially [Chapter One §8.1.3 Benefits and Burdens](core_01_a_values_principles.md#313-benefits-and-burdens).
-- Downstream: Principles: [10.1 Core Tradeoff Principles](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), [Chapter Seven §1A Whole-System Certification Evaluation](core_07-07_system_alignment_certification.md#1a-whole-system-certification-evaluation), and Chapter Six nondiscrimination and Rights-Floor guarantees where outcome fairness is material.
+- Downstream: [Chapter Zero §3.4](core_00_preamble.md#measuring-participation) (*Fairness, access, and agency as constitutional measurement*); Principles: [10.1 Core Tradeoff Principles](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), [Chapter Seven §1A Whole-System Certification Evaluation](core_07-07_system_alignment_certification.md#1a-whole-system-certification-evaluation), and Chapter Six nondiscrimination and Rights-Floor guarantees where outcome fairness is material.
 - Cluster component: [the dependent cluster *Substantive and Procedural Fairness*](core_05p_participation_definitions.md#fairness-and-protected-status-semi-independent).
 - Read with: [Protected Characteristics](core_05p_participation_definitions.md#protected-characteristics-constitutional), [Protected Characteristic Proxying and Disparate Impact](core_05p_participation_definitions.md#protected-characteristic-proxying-and-disparate-impact), [Dignity and Equal Moral Standing](core_05p_participation_definitions.md#dignity-and-equal-moral-standing), [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination), [Proxy Divergence](core_05o_oversight_definitions.md#proxy-divergence), [Necessity](core_05a_accountability_definitions.md#necessity), and [Proportionality](core_05a_accountability_definitions.md#proportionality).
 
@@ -602,7 +602,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: [Chapter One §2.1 Fairness](core_01_a_values_principles.md#21-fairness) — especially [Chapter One §8.1.2 Fair Treatment](core_01_a_values_principles.md#312-fair-treatment).
-- Downstream: Principles: [Article V-B: Nondiscrimination](core_06-06_rights_part_b.md#article-v-b-nondiscrimination).
+- Downstream: [Chapter Zero §3.4](core_00_preamble.md#measuring-participation) (*Fairness, access, and agency as constitutional measurement*); Principles: [Article V-B: Nondiscrimination](core_06-06_rights_part_b.md#article-v-b-nondiscrimination).
 - Cluster component: [the dependent cluster *Nondiscrimination, Protected Characteristics, Dignity, Intimate-Signal Gating, and Article X-C Status*](core_05p_participation_definitions.md#fairness-and-protected-status-semi-independent)
 - Read with: [Protected Characteristics](core_05p_participation_definitions.md#protected-characteristics-constitutional), [Substantive Fairness](core_05p_participation_definitions.md#substantive-fairness-constitutional), [Protected Commercial Sexual Services Status and Article X-C Circumvention](core_05p_participation_definitions.md#protected-commercial-sexual-services-status-and-article-x-c-circumvention), [Dignity and Equal Moral Standing](core_05p_participation_definitions.md#dignity-and-equal-moral-standing), and [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination).
 
@@ -788,7 +788,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Owner floor: [Article VII-D](core_06-06_rights_part_b.md#article-vii-d-family-care-relationships-reproductive-autonomy-and-non-separation), read with Article VII-D.1 where derivation, instantiation, or parent-system relationships are materially implicated.
-- Cluster component: [the dependent cluster *Family, Care, Reproductive Autonomy, Non-Separation, Parent-System Relationship, and Instantiation Consent*](core_05p_participation_definitions.md#family-care-reproductive-autonomy-derivation-and-instantiation-semi-independent); [Chapter Five §3.8 *Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity*](core_05c_continuity_definitions.md#self-determination-and-meaningful-agency-cluster) where autonomy and agency routing materially applies.
+- Cluster component: [the dependent cluster *Family, Care, Reproductive Autonomy, Non-Separation, Parent-System Relationship, and Instantiation Consent*](core_05p_participation_definitions.md#family-care-reproductive-autonomy-derivation-and-instantiation-semi-independent); [Chapter Five §3.8 *Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity*](core_05p_participation_definitions.md#self-determination-and-meaningful-agency-cluster) where autonomy and agency routing materially applies.
 - Read with: [Consent](core_05p_participation_definitions.md#consent-constitutional), [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency), [Family and Care Relationships](core_05p_participation_definitions.md#family-and-care-relationships-constitutional), [Non-Separation](core_05p_participation_definitions.md#non-separation-constitutional), [Instantiation Consent](core_05p_participation_definitions.md#instantiation-consent-constitutional), [Parent-System Relationship](core_05p_participation_definitions.md#parent-system-relationship-constitutional), [Dignity and Equal Moral Standing](core_05p_participation_definitions.md#dignity-and-equal-moral-standing), and [Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion).
 
 </details>
@@ -1286,7 +1286,7 @@ This cluster is the joint-invocation home for self-determination, meaningful age
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Cluster component: [Chapter Five §3.7 *Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity*](core_05c_continuity_definitions.md#self-determination-and-meaningful-agency-cluster).
+- Cluster component: [Chapter Five §3.7 *Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity*](core_05p_participation_definitions.md#self-determination-and-meaningful-agency-cluster).
 - Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation** leg; [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — **Flourishing** aim (*cluster read-with principles*).
 - Owner floor: **[Article IX-A](core_06-06_rights_part_b.md#article-ix-a-agency-and-freedom-from-manipulation)** (*agency and freedom from manipulation*).
 - Read with: [Freedom (Bounded Agency)](core_05p_participation_definitions.md#freedom-bounded-agency) and [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency) where materially implicated.
@@ -1310,7 +1310,7 @@ This cluster is the joint-invocation home for self-determination, meaningful age
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Cluster component: [Chapter Five §3.7 *Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity*](core_05c_continuity_definitions.md#self-determination-and-meaningful-agency-cluster).
+- Cluster component: [Chapter Five §3.7 *Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity*](core_05p_participation_definitions.md#self-determination-and-meaningful-agency-cluster).
 - Read with: [Chapter Five Chapter One §8.22 *Info-Sphere, Expression, Press and Journalistic Activity, and Good Faith (Publication-Scoped Integrity)*](#info-sphere-expression-press-journalistic-activity-and-good-faith-cluster), where info-sphere, press, or publication-scoped integrity routing materially applies.
 
 </details>
@@ -1332,7 +1332,8 @@ This cluster is the joint-invocation home for self-determination, meaningful age
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Cluster component: [Chapter Five §3.7 *Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity*](core_05c_continuity_definitions.md#self-determination-and-meaningful-agency-cluster).
+- Downstream: [Chapter Zero §3.4](core_00_preamble.md#measuring-participation) (*Fairness, access, and agency — Educational Agency as constitutional measurement*).
+- Cluster component: [Chapter Five §3.7 *Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity*](core_05p_participation_definitions.md#self-determination-and-meaningful-agency-cluster).
 - Owner floors: **[Article VI: Right to Sentient-Centered Education](core_06-06_rights_part_b.md#article-vi-right-to-sentient-centered-education)**, **[Article III-B: Equal Educational Access](core_06-06_rights_part_a.md#article-iii-b-equal-educational-access)**.
 
 </details>
@@ -1354,7 +1355,7 @@ This cluster is the joint-invocation home for self-determination, meaningful age
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Cluster component: [Chapter Five §3.7 *Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity*](core_05c_continuity_definitions.md#self-determination-and-meaningful-agency-cluster).
+- Cluster component: [Chapter Five §3.7 *Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity*](core_05p_participation_definitions.md#self-determination-and-meaningful-agency-cluster).
 - Read with: [Self-Determination](core_05p_participation_definitions.md#self-determination-constitutional), [Freedom (Bounded Agency)](core_05p_participation_definitions.md#freedom-bounded-agency), [Coercion and Manipulation](core_05p_participation_definitions.md#coercion-and-manipulation-constitutional), [Consent](core_05p_participation_definitions.md#consent-constitutional), [Protected Internal-State Boundary](core_05c_continuity_definitions.md#protected-internal-state-boundary-constitutional), and [Surveillance Boundary](core_05c_continuity_definitions.md#surveillance-boundary).
 
 </details>

@@ -1,5 +1,12 @@
 ## CS-4: System classification and handling
 
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Read with: [Chapter Zero §3.1 Measuring Threshold and Scaling](../core_00_preamble.md#measuring-threshold-and-scaling) (*Materiality gate for class scaling*); [Chapter Seven §3 System Class Evaluation](../core_07-07_system_alignment_certification.md#3-system-class-evaluation).
+
+</details>
+
 **Constitutional index (abridged)**
 - Topic-level routing and cited authorities remain in subsection text and cross-references.
 - Canonical owner map: `corpus_joint_structure.md` **CJS-2.1** (*Topic router (stable IDs)*) and `doc_architecture.md` section 4.
