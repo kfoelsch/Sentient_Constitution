@@ -41,7 +41,7 @@ This family operationalizes the **Accountability** leg of the [Constitutional Te
 - Read with: `corpus_systems.md` **CS-5 — Critical system stewardship**
 - Constitutional frame: **Accountability** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05o_oversight_definitions.md#materiality-determination).
 - Finding profile (default): `A·F·SSP` — [Non-Compliance Finding Profile](../core_05a_accountability_definitions.md#non-compliance-finding-profile); use **CCL** layer and **structural** or **stewardship** **failure character** when undocumented authority, capture, or concentration is material; add **severity tier** **T1**–**T4** per finding ([Chapter Three, section 2.8](../core_02-04_definition_mechanics.md#28-non-compliance-finding-profiles)).
-- Chapter One basis: Chapter One §7.1, §3, §4.2, §12.2, §6, [§13.1](../core_01_c_stewardship_capacity_principles.md#131-concentration-threshold-mechanism-adopter-tunable) (see [cluster map](#cjs-51-constitutional-compass-and-cluster-map)).
+- Chapter One basis: Chapter One §7.1, §3, §4.2, §12.2, §6, [§13.1](../core_01_c_stewardship_capacity_principles.md#131-concentration-threshold-mechanism-adopter-tunable), [§13.2](../core_01_c_stewardship_capacity_principles.md#132-pro-competition-and-anti-domination) (see [cluster map](#cjs-51-constitutional-compass-and-cluster-map)).
 </details>
 
 <details>
@@ -55,7 +55,7 @@ This family operationalizes the **Accountability** leg of the [Constitutional Te
 - [Governance](../core_05a_accountability_definitions.md#governance) · [O](../core_05a_accountability_definitions.md#governance) · [E](../core_05a_accountability_definitions.md#governance-e) · [C](../core_05a_accountability_definitions.md#governance-c)
 - [Oversight](../core_05o_oversight_definitions.md#oversight-constitutional) · [O](../core_05o_oversight_definitions.md#oversight-constitutional) · [E](../core_05o_oversight_definitions.md#oversight-constitutional-e) · [C](../core_05o_oversight_definitions.md#oversight-constitutional-c)
 - [Material](../core_05o_oversight_definitions.md#material) · [O](../core_05o_oversight_definitions.md#material) · [E](../core_05o_oversight_definitions.md#material-e) · [C](../core_05o_oversight_definitions.md#material-c)
-- Chapter One basis: Chapter One §7.1, §3, §4.2, §12.2, §6, [§13.1](../core_01_c_stewardship_capacity_principles.md#131-concentration-threshold-mechanism-adopter-tunable) (see [cluster map](#cjs-51-constitutional-compass-and-cluster-map)).
+- Chapter One basis: Chapter One §7.1, §3, §4.2, §12.2, §6, [§13.1](../core_01_c_stewardship_capacity_principles.md#131-concentration-threshold-mechanism-adopter-tunable), [§13.2](../core_01_c_stewardship_capacity_principles.md#132-pro-competition-and-anti-domination) (see [cluster map](#cjs-51-constitutional-compass-and-cluster-map)).
 </details>
 
 <br>
@@ -79,7 +79,7 @@ The sub-rules below apply that cluster floor to specific anti-concentration, dis
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [Chapter One §13.1 Concentration Threshold Mechanism (Adopter-Tunable)](../core_01_c_stewardship_capacity_principles.md#131-concentration-threshold-mechanism-adopter-tunable); [Concentration Threshold](../core_05a_accountability_definitions.md#concentration-threshold-constitutional).
-- Downstream: [Chapter Ten §6](../core_10-10_misconduct.md#61-concentration-based-subversion-criteria-interaction) where concentration-based subversion is at issue; [§13.2 Pro-Competition and Anti-Domination](../core_01_c_stewardship_capacity_principles.md#132-pro-competition-and-anti-domination); [§13.3 Consolidation Ceiling](../core_01_c_stewardship_capacity_principles.md#133-consolidation-ceiling).
+- Downstream: [Chapter Ten §6](../core_10-10_misconduct.md#61-concentration-based-subversion-criteria-interaction) where concentration-based subversion is at issue; [CJS-5.11.2](cjs_05a_accountability_operations.md#cjs-5112-anti-domination-conduct-and-remediation-catalog) (operative anti-domination conduct and remedies); [CJS-5.11.3](cjs_05a_accountability_operations.md#cjs-5113-consolidation-ceiling-setting-discipline-adopter-tunable) (operative consolidation-ceiling setting); [§13.2 Pro-Competition and Anti-Domination](../core_01_c_stewardship_capacity_principles.md#132-pro-competition-and-anti-domination); [§13.3 Consolidation Ceiling](../core_01_c_stewardship_capacity_principles.md#133-consolidation-ceiling).
 - Read with: [§6.2.4 Proxy-Divergence Invalidation](../core_01_b_interaction_interpretation.md#632-proxy-divergence-invalidation); [Article I-D](../core_06-06_rights_part_a.md#article-i-d-existential-risk-and-recovery-capacity); [Article XII-A](../core_06-06_rights_part_c.md#article-xii-a-reliability-and-trustworthiness-baseline); [Article XIII-A](../core_06-06_rights_part_c.md#article-xiii-a-security-intelligence-and-covert-power-limits).
 
 </details>
@@ -104,6 +104,83 @@ Adopters must define [Concentration Threshold](../core_05a_accountability_defini
 - OP-O: Systems must define concentration indicators and thresholds, and activate mitigation when thresholds are crossed or credibly approached.
 - OP-E: Reviewers must verify metrics such as lasting control, dependency concentration, and interface gatekeeping, along with available mitigation options, together with the floor-preservation, substance-over-form, anti-nullification, and heightened-scrutiny discipline above.
 - OP-C: Persistent concentration without effective mitigation is non-compliant; threshold regimes that nullify the constitutional floor are non-compliant.
+
+<a id="cjs-5112-anti-domination-conduct-and-remediation-catalog"></a>
+### CJS-5.11.2 Anti-domination conduct and remediation catalog
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: [Chapter One §13.2 Pro-Competition and Anti-Domination](../core_01_c_stewardship_capacity_principles.md#132-pro-competition-and-anti-domination) ([§13.2.2 Anti-Domination Prohibitions (Don'ts)](../core_01_c_stewardship_capacity_principles.md#1322-anti-domination-prohibitions-donts) principle-layer prohibitions; [§13.2.3 Remedies](../core_01_c_stewardship_capacity_principles.md#1323-remedies) principle-layer remedy direction); [Market Structure](../core_05a_accountability_definitions.md#market-structure-constitutional).
+- Downstream: [Chapter Ten §6](../core_10-10_misconduct.md#61-concentration-based-subversion-criteria-interaction) where concentration-based subversion is at issue; [Chapter Ten §6.2](../core_10-10_misconduct.md#62-rights-floor-waivers-and-unconstitutional-contract-terms) where mobility-restriction or waiver conduct is at issue; [Chapter One §13.3 Consolidation Ceiling](../core_01_c_stewardship_capacity_principles.md#133-consolidation-ceiling).
+- Read with: [CJS-5.11.1](cjs_05a_accountability_operations.md#cjs-5111-concentration-threshold-setting-discipline-adopter-tunable); **CJS-5.17** (*interoperability, portability, and exit-integrity terms*); [Article III-D](../core_06-06_rights_part_a.md#article-iii-d-labor-and-economic-floor) (labor mobility Rights Floor); [Article XIX](../core_06-06_rights_part_c.md#article-xix-interoperability-portability-and-exit-integrity); [§6.2.4 Proxy-Divergence Invalidation](../core_01_b_interaction_interpretation.md#632-proxy-divergence-invalidation).
+
+</details>
+
+<br>
+
+*In plain terms: this is the operational checklist for domination-shaped conduct and the remedy toolbox that restores contestability — not a ban on being large or innovative.*
+
+When market-structuring arrangements cross the [Chapter One §13](../core_01_c_stewardship_capacity_principles.md#13-market-structure) floor or produce durable domination under **§13.2**, evaluators must reach substantive conduct — not formal entity count or nominal market openness. Illustrative prohibited domination patterns include:
+
+- exclusionary dealing, predatory foreclosure, discriminatory access, or retaliatory dependency cutoff;
+- tying, bundling, ranking, reputation, identity, credentialing, or payment practices that defeat meaningful choice or market entry without **Necessity** and **Proportionality**;
+- coercive lock-in, interoperability suppression, data-portability suppression, interface capture, or switching-cost design that materially defeats exit (read with **CJS-5.17** and **Article XIX**);
+- labor-market or supplier monopsony, wage-fixing, excessive non-solicitation, or functionally equivalent mobility-restricting terms that suppress fair bargaining or productive mobility (labor-mobility categorical prohibitions: [Article III-D](../core_06-06_rights_part_a.md#article-iii-d-labor-and-economic-floor); misconduct routing: [Chapter Ten §6.2](../core_10-10_misconduct.md#62-rights-floor-waivers-and-unconstitutional-contract-terms));
+- killer acquisitions, serial acquisitions, federation, ownership, licensing, patent, capital-access, or contracting structures that materially reduce potential competition or preserve dominance by removing contestable entrants (read with [Chapter One §13.3](../core_01_c_stewardship_capacity_principles.md#133-consolidation-ceiling));
+- collusive coordination, information exchange, common control, interlocking governance, or settlement arrangements that suppress rivalry, bargaining alternatives, or independent accountability;
+- self-preferencing by gatekeepers where it forecloses rivals, dependent participants, public-interest alternatives, or constitutionally required review pathways;
+- shell, successor, cross-domain, or federated restructuring that preserves substantive domination while clearing nominal concentration tests (read with **CJS-5.11.1** substance-over-form discipline).
+
+Claimed efficiencies, competitiveness, emergency need, security need, or productive-capacity gains must trace to constitutional outcomes and satisfy **Necessity**, **Proportionality**, **Proxy-Divergence Invalidation**, and Chapter Four evidence duties.
+
+anti-domination conduct and remediation catalog
+- OP-O: Market-structuring arrangements must not create, maintain, acquire, exploit, conceal, or restructure around the prohibited domination patterns above where those patterns foreseeably degrade wellbeing, meaningful agency, contestability, or constitutional review; proportionate remedies must restore contestability and preserve the Chapter Six Rights Floor.
+- OP-E: Reviewers must evaluate substantive control, dependency leverage, and pathway usability together — applying [Contestability](../core_05a_accountability_definitions.md#contestability), [Proxy Divergence](../core_05o_oversight_definitions.md#proxy-divergence), and [Dependency](../core_05c_continuity_definitions.md#dependency) analysis where livelihood, agency, wellbeing, ecological integrity, interoperability, exit, or constitutional review depend on the arrangement.
+- OP-C: Non-compliant: conduct that matches the illustrative patterns above without rebuttal under **Necessity**, **Proportionality**, and Chapter Four evidence duties; efficiency, competitiveness, emergency, security, or productive-capacity framing without traceable constitutional outcomes; or failure to apply proportionate remedies where domination is substantiated.
+
+Remedies must be proportionate to the concentration, dependency, conduct, and constitutional harm. They may include disclosure, access duties, interoperability, portability, open standards, conflict separation, labor-mobility protection, anti-retaliation measures, merger limits, acquisition standstill, procurement or capital-access correction, public-interest stewardship duties, receivership, divestiture, dissolution, or successor-control restrictions where lesser remedies cannot restore contestability. Remedies must preserve the Chapter Six Rights Floor and may not punish scale alone.
+
+<a id="cjs-5113-consolidation-ceiling-setting-discipline-adopter-tunable"></a>
+### CJS-5.11.3 Consolidation ceiling-setting discipline (adopter-tunable)
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: [Chapter One §13.3.2 Consolidation Ceiling Mechanism (Adopter-Tunable)](../core_01_c_stewardship_capacity_principles.md#1332-ceiling-discipline-adopter-requirements); [Chapter One §13.3.1 Consolidation Risk (Pre-Lock-In Impairment)](../core_01_c_stewardship_capacity_principles.md#1331-consolidation-risk-pre-lock-in-impairment); [Market Structure](../core_05a_accountability_definitions.md#market-structure-constitutional).
+- Downstream: [Chapter Ten §6](../core_10-10_misconduct.md#61-concentration-based-subversion-criteria-interaction) where concentration-based subversion is at issue; [CJS-5.11.2](cjs_05a_accountability_operations.md#cjs-5112-anti-domination-conduct-and-remediation-catalog) (remedy catalog on ceiling breach).
+- Read with: [CJS-5.11.1](cjs_05a_accountability_operations.md#cjs-5111-concentration-threshold-setting-discipline-adopter-tunable); [§6.2.4 Proxy-Divergence Invalidation](../core_01_b_interaction_interpretation.md#632-proxy-divergence-invalidation); [Article III-D](../core_06-06_rights_part_a.md#article-iii-d-labor-and-economic-floor).
+
+</details>
+
+<br>
+
+*In plain terms: adopters choose their own ceiling numbers and triggers, but not so high that consolidation never matters, not so narrow that shell structures dodge review, and not so weak that crossing a ceiling produces no response.*
+
+Ceiling design must follow evidence about how the domain actually works. Adopters should set distinct early-warning triggers where material for:
+
+- **Horizontal consolidation ceilings**, including:
+  - market share, capacity share, transaction share, usage share, or dependency share within the same layer;
+  - labor-market and labor-demand concentration, worker mobility, non-compete or no-poach agreements, and bargaining alternatives;
+  - buyer power, procurement concentration, and rival reduction where the effect is fewer contestable sellers or service providers at the same layer;
+  - common ownership, interlocking governance, serial acquisition, killer-acquisition risk, and potential-competition removal.
+- **Vertical consolidation ceilings**, including:
+  - supplier or buyer dependency, capital-access concentration, and procurement gatekeeping across layers;
+  - control over essential inputs, interfaces, standards, credentials, payments, data, compute, logistics, or other chokepoints;
+  - interoperability barriers, portability barriers, self-preferencing, ranking control, and cross-domain leverage.
+
+Read the cross-domain and federated-structure risk patterns in [Chapter One §13.3.1](../core_01_c_stewardship_capacity_principles.md#1331-consolidation-risk-pre-lock-in-impairment) when designing either ceiling type. Either ceiling type must account for dependency density, switching costs, lock-in, availability of practical substitutes, and ecological burden concentration or control over environmental preconditions where materially relevant.
+
+Crossing an adopted consolidation ceiling creates a rebuttable presumption of non-compliance and triggers heightened review. The presumption may be rebutted only with clear, reviewable evidence that the consolidation is necessary, proportionate, and consistent with Chapter Four evidence duties; that any scale benefit traces to constitutional outcomes; and that the consolidation does not materially degrade contestability, Rights-Floor protections, labor mobility, fair bargaining, ecological integrity, interoperability, exit, or constitutional accountability. Where feasible, rebuttal must include time bounds, periodic revalidation, and analysis of less-consolidating alternatives.
+
+Remedies for crossing a consolidation ceiling must be proportionate under **CJS-5.11.2**, including where applicable merger limits, acquisition standstill, and structural separation tailored to consolidation-ceiling breach.
+
+Adopter-tunable ceilings may vary by domain and jurisdiction, but they may not be set so high, measured so narrowly, or enforced so weakly that they nullify the [Chapter One §13](../core_01_c_stewardship_capacity_principles.md#13-market-structure) floor, the **§13.1** threshold mechanism, or **§13.2** anti-domination discipline. A ceiling regime that foreseeably never binds, ignores substantive control, or treats consolidation as harmless solely because prices stay low is non-compliant under **Proxy-Divergence Invalidation**.
+
+consolidation ceiling-setting discipline (adopter-tunable)
+- OP-O: Adopters must define domain-specific consolidation ceilings and activate heightened review, intervention, or structural remedy when a ceiling is crossed or credibly approached.
+- OP-E: Reviewers must verify horizontal and vertical trigger design, crossing presumption handling, rebuttal evidence, and available remedies together with the anti-nullification discipline above.
+- OP-C: Ceiling regimes that nullify the constitutional floor, produce no actual review or intervention, or ignore substantive control are non-compliant.
 
 Authority distribution and anti-monopoly floor
 - OP-O: No single entity may monopolize interpretation, validation, or enforcement where plural authority is required.
