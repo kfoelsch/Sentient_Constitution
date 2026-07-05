@@ -280,7 +280,7 @@ No final **Violation Axis anti-constitutional misconduct** classification under 
 
 <br>
 
-*In plain terms: a public apology in an anti-constitutional misconduct case must be voluntary, sincere, and non-degrading — fake or abusive apologies can backfire on the person who gives them.*
+*In plain terms: a public apology in an anti-constitutional misconduct case must be voluntary, sincere, and non-degrading — fake or abusive apologies can backfire on the sentient who gives them.*
 
 - **Voluntary public accountability expression:** After final classification under **section 3** with **section 4** safeguards met, accountable parties in restorative pathways for verified anti-constitutional misconduct may voluntarily choose public acknowledgment or apology as a supplementary accountability act.
   - The choice is permitted where it supports repair, trust restoration, or community healing.

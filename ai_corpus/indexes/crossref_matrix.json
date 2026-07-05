@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-07-05T20:32:40+00:00",
+  "generated_at": "2026-07-05T20:46:39+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -4928,7 +4928,7 @@
               "#63-rights-collision-procedure",
               "#anti-degrading-process-principle",
               "#least-restrictive-time-bounded-and-reviewable-constraint-principle",
-              "#rights-floor-minimums-principle"
+              "#rightsfloor-minimums-principle"
             ]
           },
           {
@@ -5251,7 +5251,7 @@
           },
           {
             "file": "core_01_b_interaction_interpretation.md",
-            "count": 34,
+            "count": 35,
             "anchors": [
               "#61-core-tradeoff-principles",
               "#611-necessity",
@@ -5264,11 +5264,12 @@
           },
           {
             "file": "core_01_c_stewardship_capacity_principles.md",
-            "count": 29,
+            "count": 30,
             "anchors": [
               "#10-governance-under-stewardship-discipline",
               "#111-alignment-requirement",
               "#15-integrated-application",
+              "#9-stewardship-and-distributed-understanding",
               "#92-distributed-understanding"
             ]
           },
@@ -5595,25 +5596,25 @@
           },
           {
             "file": "core_01_a_values_principles.md",
-            "count": 13,
+            "count": 10,
             "anchors": [
               "#2-foundational-objective-wellbeing",
               "#31-safety-harm-constraint",
-              "#32-truth-epistemic-integrity-constraint",
-              "#constitutional-no-bypass-principle"
+              "#32-truth-epistemic-integrity-constraint"
             ]
           },
           {
             "file": "core_01_b_interaction_interpretation.md",
-            "count": 24,
+            "count": 27,
             "anchors": [
               "#61-core-tradeoff-principles",
               "#62-epistemic-disclosure-constraints",
               "#63-minimization-of-avoidable-burden",
               "#63-rights-collision-procedure",
               "#anti-degrading-process-principle",
+              "#constitutional-no-bypass-principle",
               "#least-restrictive-time-bounded-and-reviewable-constraint-principle",
-              "#rights-floor-minimums-principle"
+              "#rightsfloor-minimums-principle"
             ]
           },
           {

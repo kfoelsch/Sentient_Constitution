@@ -490,21 +490,35 @@ Do **not** split LEQU into parallel ecological, system, or resource scores unles
 
 ##### 3.3.2 Misaligned Reward Reporting
 
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Read with: [§3.3.3 Misaligned reward / benefit retention — record and classification discipline](#333-misaligned-reward-benefit-retention-record-and-classification-discipline) (*exclusions from knowing acceptance and standing-record requirements*).
+
+</details>
+
+<br>
+
 *In plain terms: if you know a reward came from a bad process and you keep it without reporting, that can count as a violation. Report in good faith and you are protected; hide it and you are not.*
 
 *Upstream: [Chapter One §11.1.2 What Incentives Must Not Do](core_01_c_stewardship_capacity_principles.md#1112-what-incentives-must-not-do) and [§11.4 Misalignment Correction and Capture Response](core_01_c_stewardship_capacity_principles.md#114-misalignment-correction-and-capture-response).*
 
 **Reporting duty.** A sentient who **knowingly** accepts or retains a material reward from a misaligned process or system after sufficient notice of the misalignment violates this subsection unless they timely report through [Protected Reporting (Whistleblowing)](core_05a_accountability_definitions.md#protected-reporting-whistleblowing) or comparable lawful pathways within tier-appropriate windows under [Timeliness](core_05a_accountability_definitions.md#timeliness-constitutional).
 
-Read [§3.3.3 Misaligned reward / benefit retention — record and classification discipline](#333-misaligned-reward-benefit-retention-record-and-classification-discipline) for exclusions from knowing acceptance and standing-record requirements.
-
 <a id="333-misaligned-reward-benefit-retention-record-and-classification-discipline"></a>
 
 ##### 3.3.3 Misaligned reward / benefit retention — record and classification discipline
 
-*In plain terms: [§3.3.2 Misaligned Reward Reporting](#332-misaligned-reward-reporting) states the duty. This subsection states when that duty is **not** violated and how evaluators record and classify knowing acceptance on the standing pipeline.*
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-Read with [§3.3.1 Misaligned Reward Forfeiture](#331-misaligned-reward-forfeiture) and the [*Misaligned reward / benefit retention*](#33-dual-use-classification-hooks) dual-use row above.
+- Read with: [§3.3.1 Misaligned Reward Forfeiture](#331-misaligned-reward-forfeiture) and the [*Misaligned reward / benefit retention*](#33-dual-use-classification-hooks) dual-use row above.
+
+</details>
+
+<br>
+
+*In plain terms: [§3.3.2 Misaligned Reward Reporting](#332-misaligned-reward-reporting) states the duty. This subsection states when that duty is **not** violated and how evaluators record and classify knowing acceptance on the standing pipeline.*
 
 **Not knowing acceptance.** The [§3.3.2](#332-misaligned-reward-reporting) reporting duty does **not** treat a sentient as knowingly keeping a misaligned reward when any of the following applies:
 

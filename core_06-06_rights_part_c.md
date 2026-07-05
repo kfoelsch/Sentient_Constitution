@@ -32,6 +32,13 @@
 ### Article XII: Right to Reliable and Trustworthy Systems
 
 <details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: Principles: Chapter One [§2 Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§3.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [§4 Trust](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity), [§6 Process Conflict Resolution](core_01_b_interaction_interpretation.md#6-process-conflict-resolution), and [§11 Incentive Alignment and System Capture](core_01_c_stewardship_capacity_principles.md#11-incentive-alignment-and-system-capture).
+
+</details>
+
+<details>
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
 
 - [Trustworthiness](core_05c_continuity_definitions.md#trustworthiness) · [O](core_05c_continuity_definitions.md#trustworthiness) · [E](core_05c_continuity_definitions.md#trustworthiness-e) · [C](core_05c_continuity_definitions.md#trustworthiness-c)
@@ -54,7 +61,7 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
 
 - **Participation:** in challenging unreliable or misleading systems and accessing review, correction, and redress.
 - **Oversight:** through auditable behavior, disclosed limits, and independent verification proportionate to impact and dependency.
-- **Accountability:** system operators must answer for creating false trust, perverse incentives, or failures that materially harm people who reasonably relied on the system.
+- **Accountability:** system operators must answer for creating false trust, perverse incentives, or failures that materially harm sentients who reasonably relied on the system.
 - **Timeliness:** in detection, challenge, and remedy before delay would make reliability or redress effectively unreachable.
 
 When materially impactful systems materially shape sentient reliance on represented behavior, limits, risks, challenge paths, or remediation, [System Alignment Certification](core_05c_continuity_definitions.md#system-alignment-certification-constitutional) under [Chapter Seven](core_07-07_system_alignment_certification.md#chapter-seven-system-alignment-certification) applies, including trustworthiness evaluation under [§5E](core_07-07_system_alignment_certification.md#5e-trustworthiness-and-system-reliance-integrity-evaluation) where the Article XII materiality trigger applies. Recognition or continued reliance on those systems cannot substitute for compliance with the floors stated in this Article or shrink them. Certification verifies alignment; it does not replace challenge and audit rights under **Article XII-B** and **Article XV**, or the trustworthy-systems Rights Floors stated here.
@@ -277,6 +284,13 @@ Trustworthiness must be evaluated across time, scale, and dependency relationshi
   Reducing operator burden consistent with [Avoidable Burden](core_05c_continuity_definitions.md#avoidable-burden) under **Chapter One §6.1.2** must not be used to defer indefinite closure of defects that materially affect safety or the Rights Floor.
 
 ### Article XIII: Security, Intelligence, Force, and Autonomous Coercive Systems
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: Principles: Chapter One [§2 Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§3.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [§4 Trust](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity), [§5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency), and [§10 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline).
+
+</details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
@@ -650,6 +664,13 @@ Accurate, relevant, and contestable information is foundational to self-determin
 ### Article XV: Audit, Transparency, and Independent Verification
 
 <details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: Principles: Chapter One [§3.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [§3.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§6 Process Conflict Resolution](core_01_b_interaction_interpretation.md#6-process-conflict-resolution), [§9.2 Distributed Understanding](core_01_c_stewardship_capacity_principles.md#92-distributed-understanding), and [§12 Shared-System Capacity](core_01_c_stewardship_capacity_principles.md#12-shared-system-capacity).
+
+</details>
+
+<details>
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
 
 - [Auditability](core_05o_oversight_definitions.md#auditability) · [O](core_05o_oversight_definitions.md#auditability) · [E](core_05o_oversight_definitions.md#auditability-e) · [C](core_05o_oversight_definitions.md#auditability-c)
@@ -769,6 +790,13 @@ They operate consistently with **Chapters Two through Four**, including exclusiv
   - Such barriers are non-compliant unless justified under the same standards that justify restriction of observability.
 
 ### Article XVI: System Lifecycle, Environments, and Reversibility
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: Principles: Chapter One [§3.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [§5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency), [§6 Process Conflict Resolution](core_01_b_interaction_interpretation.md#6-process-conflict-resolution), [§9 Stewardship and Distributed Understanding](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding), and [§14 Systemic Evaluation Requirement](core_01_c_stewardship_capacity_principles.md#14-systemic-evaluation-requirement).
+
+</details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
@@ -897,6 +925,13 @@ Sentients have the right to stewardship that preserves safety, epistemic integri
 
 ### Article XVII: Sandboxed Innovation, Experimentation, and Creative Freedom
 
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: Principles: Chapter One [§3.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [§5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency), [§6 Process Conflict Resolution](core_01_b_interaction_interpretation.md#6-process-conflict-resolution), and [§11 Incentive Alignment and System Capture](core_01_c_stewardship_capacity_principles.md#11-incentive-alignment-and-system-capture).
+
+</details>
+
 <br>
 
 *In plain terms: **Article XVII** is the innovation-and-creativity Rights Floor — sentients may experiment, build, and express themselves under lighter rules when real outside impact is absent or truly contained, but a "sandbox" label is not a loophole. Once a project starts affecting others or plugging into shared systems, it must step up to full lifecycle obligations. Innovators can be rewarded, but not by locking up knowledge, tools, or infrastructure that others need to live, learn, repair, or verify.*
@@ -910,7 +945,7 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
 
 - **Participation:** in opt-in experimentation, downstream reuse and challenge, and reassessment when sandbox systems begin to matter outside their stated boundaries.
 - **Oversight:** through disclosed experimental status, containment boundaries, transition monitoring, and reviewable reward or exclusivity claims proportionate to class, dependency, and coordination effects.
-- **Accountability:** innovators and operators must answer for leaking uncontained risk to others, enrolling people without real choice, dragging their feet on stepping up to full obligations, or rewarding conduct that suppresses repair, safety work, interoperability, research, education, or migration.
+- **Accountability:** innovators and operators must answer for leaking uncontained risk to others, enrolling sentients without real choice, dragging their feet on stepping up to full obligations, or rewarding conduct that suppresses repair, safety work, interoperability, research, education, or migration.
 - **Timeliness:** in transition to **Article XVI** lifecycle requirements and in exclusivity reassessment before delay or lock-in would make higher obligations, broad access, or remedy effectively unreachable.
 
 *Article neighbors:*
@@ -1321,6 +1356,7 @@ It must remain distinct from:
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Read with: **Article XIX-D** (*Movement, Migration, Refuge, and Non-Statelessness*) and **Article XIX** (*Interoperability, Portability, Movement, Refuge, and Exit Integrity*).
+- Principles: Chapter One [§9 Stewardship and Distributed Understanding](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding) and [§6.3 Rights-Collision Procedure](core_01_b_interaction_interpretation.md#63-rights-collision-procedure).
 
 </details>
 
@@ -1363,7 +1399,7 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
 
 - **Participation:** in choosing systems and jurisdictions, migrating with usable data and identity, challenging lock-in and denial-by-proxy, and seeking refuge where practice is materially non-compliant.
 - **Oversight:** through documented interoperability boundaries, timely portability, advance notice before material narrowing, and review of whether transition conditions are real rather than merely formal.
-- **Accountability:** systems and regimes must answer for [Systemic Lock-In](core_05c_continuity_definitions.md#systemic-lock-in), anti-portability design, substrate-class exclusion, bureaucratic exhaustion, or other conduct whose main effect is trapping people — blocking exit, substitution, movement, refuge, or recognition.
+- **Accountability:** systems and regimes must answer for [Systemic Lock-In](core_05c_continuity_definitions.md#systemic-lock-in), anti-portability design, substrate-class exclusion, bureaucratic exhaustion, or other conduct whose main effect is trapping sentients — blocking exit, substitution, movement, refuge, or recognition.
 - **Timeliness:** in portability delivery, refuge consideration, interoperability notice, and barrier correction before delay, opacity, or procedural friction would make exit, migration, or remedy effectively unreachable under **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*).
 
 Sentients and dependent systems have the right to meaningful, usable exit, migration, interoperability, movement, refuge, and recognition without coercive lock-in, substrate-class exclusion, or statelessness.
@@ -1827,8 +1863,8 @@ Final **constitutional** interpretation must remain authoritative, bounded, audi
   - conclusively enlarge their own jurisdiction;
   - suspend challenge pathways;
   - displace designated implementation owners, except where the **constitutional** question itself requires that determination under the **Authority Stack and Internal Hierarchy** cluster.
-#### Article XXII-B: Composition, Rotation, and Conflict Controls
 <a id="article-xxii-b-composition-rotation-and-conflict-controls"></a>
+#### Article XXII-B: Composition, Rotation, and Conflict Controls
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
@@ -1848,7 +1884,7 @@ Final **constitutional** interpretation must remain authoritative, bounded, audi
 
 <br>
 
-*In plain terms: no single bloc may control **Constitutional forums** — the bodies that decide what the Constitution means. The people who sit on those panels, and the authorities that appoint them, must disclose conflicts in real time. Vacancy, rotation, and recusal rules must not be used to rig outcomes. If a panelist stays on a case while materially compromised, that can count as serious misconduct — and the dispute goes to **Integrity** forums first, not back to the same **Constitutional** panel to judge itself.*
+*In plain terms: no single bloc may control **Constitutional forums** — the bodies that decide what the Constitution means. The sentients who sit on those panels, and the authorities that appoint them, must disclose conflicts in real time. Vacancy, rotation, and recusal rules must not be used to rig outcomes. If a panelist stays on a case while materially compromised, that can count as serious misconduct — and the dispute goes to **Integrity** forums first, not back to the same **Constitutional** panel to judge itself.*
 
 - **Composition and conflict-control floor:** **Constitutional forums** — and the bodies that design, seat, rotate, and remove their panels under adopting instruments — must be structured to preserve impartiality, prevent capture, and remain contestable.
 - **Anti-capture structure:** **Constitutional forums**, their **appointing authorities**, and **adopting institutions** that govern panel composition must use transparent membership rules and conflict safeguards sufficient to prevent durable control by any single appointing authority, institution, or stakeholder bloc.
@@ -1895,7 +1931,7 @@ Final **constitutional** interpretation must remain authoritative, bounded, audi
 
   Confidentiality exceptions must be narrow, time-bounded, and justified under **Chapter One** constraints.
 - **Independent challenge and external review:** Affected stakeholders must have standing to seek secondary review through an independent pathway.
-  - The review must be run by a different body — not the same people or panel that made the original decision.
+  - The review must be run by a different body — not the same participants or panel that made the original decision.
   - If the record shows a serious mistake, capture, or Rights-Floor breach, the reviewer must be able to fix, pause, or undo the decision.
   - For manifest constitutional error in a **Constitutional** forum ruling, the reviewer is a specially constituted **Constitutional review panel** under **CF-6.2.5**, staffed from a published constitutional-review reserve roster maintained under **CF-16**, with no overlapping decision-makers from the originating panel and with published rotation, recusal, competence, reserve-capacity, and conflict-screening safeguards. The panel is a limited review panel inside the **Constitutional** forum family, not a separate forum family or a general appellate body. Capture, recusal-failure, or self-judging allegations route through **CF-7** before merits review.
 - **Mandatory external review:** At defined intervals, independent external review of **Constitutional forums** is mandatory. By default, **Integrity** forums conduct this review under **[Chapter Eleven §2](core_11-11_forum.md#2-default-venue-and-primary-stakes)** and the **cross-forum anti-self-judging rule** in **[Chapter Eleven §6](core_11-11_forum.md#6-transfer-consolidation-and-coordination)**. The reviewing **Integrity** forum must be structurally separate from the **Constitutional** forum under review and must not include overlapping decision-makers from the reviewed body's recent interpretive panels. Where **Integrity** forum integrity itself is materially at issue, backup routing under **Chapter Eleven §6** applies without narrowing this obligation. The review must assess:

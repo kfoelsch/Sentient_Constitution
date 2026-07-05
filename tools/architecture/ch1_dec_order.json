@@ -34,7 +34,8 @@
     "Avoidable Burden",
     "Epistemic Integrity"
   ],
-  "### 11. Shared-System Capacity": [
+  "### 12. Shared-System Capacity": [
+    "Shared-System Capacity",
     "Productive Capacity",
     "Constitutional Efficiency",
     "Wellbeing",
@@ -49,7 +50,7 @@
     "Environmental Preconditions",
     "Intergenerational Responsibility"
   ],
-  "### 12. Market Structure": [
+  "### 13. Market Structure": [
     "Market Structure",
     "Concentration Threshold",
     "Contestability",
@@ -57,7 +58,7 @@
     "Dependency",
     "Meaningful Agency"
   ],
-  "#### 9.1 Stewardship": [
+  "#### 9.1 Consequential Stewardship": [
     "Strategic Stewardship Obligation",
     "Meaningful Agency",
     "Auditability"
@@ -113,26 +114,7 @@
     "Harm Minimization (Tradeoff Selection)",
     "Harm"
   ],
-  "#### 13.1 Required Evaluation Factors": [
-    "Dependency",
-    "Materiality",
-    "Foreseeability",
-    "Risk",
-    "Systemic",
-    "System Boundaries",
-    "System Boundary Integrity",
-    "Cascading Failure",
-    "Residual Risk / Misalignment",
-    "Existential Risk",
-    "Incentive Alignment"
-  ],
-  "##### 13.1.6 Time-Consistency Constraint": [
-    "Safety (Constraint)",
-    "Truth (Constitutional Constraint)",
-    "Wellbeing",
-    "Foreseeability"
-  ],
-  "### 14. Integrated Application": [
+  "### 15. Integrated Application": [
     "Corpus",
     "Authority Stack and Internal Hierarchy",
     "Supremacy and Enforceability",

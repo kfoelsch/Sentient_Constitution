@@ -366,7 +366,7 @@ This cluster is the joint-invocation home for operative corpus identity, authori
 
 <br>
 
-- O: A binding limit, condition, or discipline imposed by this Constitution that determines whether a constitutional claim, system action, governance act, limitation, disclosure practice, evaluation, implementation practice, or source-layer claim is valid. A Constitutional Constraint may operate as a substantive boundary, Rights-Floor non-contraction rule, limitation discipline, disclosure discipline, evaluation discipline, owner-layer/source-layer discipline, or implementation boundary. This entry classifies and routes constraints; it does not create a new standalone rights floor or relocate any owner-layer obligation.
+- O: A binding limit, condition, or discipline imposed by this Constitution that determines whether a constitutional claim, system action, governance act, limitation, disclosure practice, evaluation, implementation practice, or source-layer claim is valid. A Constitutional Constraint may operate as a substantive boundary, Rights-Floor non-contraction rule, limitation discipline, disclosure discipline, evaluation discipline, owner-layer/source-layer discipline, or implementation boundary. This entry classifies and routes constraints; it does not create a new standalone Rights Floor or relocate any owner-layer obligation.
 <a id="constitutional-constraint-e"></a>
 - E: Identify the constraint kind before applying it:
   - **Non-negotiable principle constraints:** [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint) and [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint) as Chapter One's non-negotiable boundaries.

@@ -94,7 +94,7 @@ The ultimate objective of all systems governed under this Constitution is to pre
 Wellbeing is foundational for [Participation](core_05p_participation_definitions.md#participation-constitutional) under the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad). Shared systems may not treat participation as satisfied when underlying wellbeing conditions — including [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency), fair access, and dignity — are materially degraded.
 
 Wellbeing includes not only immediate effects but also indirect, delayed, cumulative, and cross-system consequences, evaluated under [**Chapters Two through Four**](core_02-04_definition_mechanics.md). At this value layer, wellbeing:
-- makes real participation possible — a voice that people lack the conditions to use is not meaningful participation
+- makes real participation possible — a voice that sentients lack the conditions to use is not meaningful participation
 - cannot be declared "achieved" by hitting a metric that has drifted from what actually matters
 - remains bounded by this chapter's non-negotiable principle constraints: **Safety** and **Truth**
 - cannot be invoked as a blanket justification for violating Safety, Truth, or rights protections
@@ -404,6 +404,7 @@ Where expert-evidence standards, methods, or evidence-stewardship disputes requi
 
 Safety-sensitive limits on publication, data access, method disclosure, or replication materials may be justified only under [6.2 Epistemic Disclosure Constraints](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints), the Chapter Five definitions listed above, and applicable Chapter Six rights. Such limits must preserve maximum feasible epistemic integrity through protected records, independent review, delayed disclosure, redaction, secure access, or comparable safeguards; they must not become a means to suppress unfavorable evidence, hide safety defects, or manufacture apparent consensus.
 
+<a id="34-plain-language-accessibility-stewardship-duty"></a>
 #### 3.4 Plain-Language Accessibility (Participation and Stewardship Duty)
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -478,7 +479,7 @@ The reverse is equally prohibited: plain-language framing that misrepresents wha
 <a id="345-chapter-ten-floor-boundary"></a>
 ##### 3.4.5 Rights-Floor Boundary
 
-The rights floors for accessibility, education, and comprehensibility live in [Article V-G](core_06-06_rights_part_b.md#article-v-g-accessibility), [Article III-B](core_06-06_rights_part_a.md#article-iii-b-equal-educational-access), and [Article XX](core_06-06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship) respectively. This section states the principle-layer duty that supports those floors.
+The Rights Floors for accessibility, education, and comprehensibility live in [Article V-G](core_06-06_rights_part_b.md#article-v-g-accessibility), [Article III-B](core_06-06_rights_part_a.md#article-iii-b-equal-educational-access), and [Article XX](core_06-06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship) respectively. This section states the principle-layer duty that supports those floors.
 
 ### 4. System Stability Enabler: Trust (Coordination Integrity)
 <details>
