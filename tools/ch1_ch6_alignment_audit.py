@@ -35,6 +35,29 @@ AIM_TERMS = ["flourishing", "continuity"]
 MATERIAL_TERMS = ["material stake", "materiality", "material impact", "material risk"]
 
 MEASUREMENT_FAMILIES = {
+    "Wellbeing": [
+        "wellbeing",
+        "flourishing",
+        "functional integrity",
+        "participation capacity",
+    ],
+    "Safety / Harm / Risk": [
+        "safety",
+        "harm",
+        "risk",
+        "safe conditions",
+        "irreversible harm",
+        "cascading failure",
+    ],
+    "Survival-floor access": [
+        "survival",
+        "food",
+        "water",
+        "shelter",
+        "bodily-maintenance",
+        "tenure security",
+        "operating environment",
+    ],
     "Constitutional Efficiency": [
         "constitutional efficiency",
         "efficient",
@@ -54,13 +77,22 @@ MEASUREMENT_FAMILIES = {
         "capacity",
         "capability",
     ],
-    "Ecological Footprint": [
+    "Ecological Footprint / Environmental Preconditions": [
         "ecological footprint",
+        "environmental preconditions",
         "environment",
         "ecological",
         "emissions",
         "materials",
         "land use",
+    ],
+    "Resilience / Systemic Risk": [
+        "resilience",
+        "reversibility",
+        "self-healing",
+        "existential risk",
+        "systemic risk",
+        "cascading",
     ],
     "Dependency / Resource Flow": [
         "dependency",
@@ -95,6 +127,21 @@ MEASUREMENT_FAMILIES = {
         "capability-building",
         "retraining",
     ],
+    "Truth / Epistemic Integrity": [
+        "truth",
+        "epistemic integrity",
+        "disclosure",
+        "misleading",
+        "accuracy",
+        "verification",
+    ],
+    "Privacy / Data Stewardship": [
+        "privacy",
+        "informational",
+        "data handling",
+        "segmentation",
+        "lifecycle",
+    ],
     "Trustworthiness": [
         "trustworthiness",
         "trustworthy",
@@ -102,6 +149,21 @@ MEASUREMENT_FAMILIES = {
         "reliability",
         "false trust",
         "misleading reliance",
+    ],
+    "Incentive Alignment / Proxy Integrity": [
+        "incentive alignment",
+        "proxy divergence",
+        "perverse incentive",
+        "capture",
+        "proxy metric",
+    ],
+    "Market Structure / Contestability": [
+        "market structure",
+        "concentration",
+        "contestability",
+        "anti-domination",
+        "entry",
+        "exit",
     ],
     "Timely Resolution": [
         "timely resolution",
