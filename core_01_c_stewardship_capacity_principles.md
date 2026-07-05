@@ -46,7 +46,7 @@
 - Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — primary Chapter One home for the **participation** leg (consequential roles and voice; general requirement, not [Stakeholder System Participation](core_05p_participation_definitions.md#stakeholder-status-emergency-and-participation-weight-cluster) alone), **oversight** leg, and **timeliness** leg (proactive repair velocity); [material stake](core_00_preamble.md#material-stake) scaling.
 - Read with: [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — **Flourishing** aim (participation, agency, and educational pathways); **Continuity** aim (institutional learning, repair capacity, and durable stewardship).
 - Upstream: Principles: [2. Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing); [3.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint); [4. Trust](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity); and [§12 Shared-System Capacity](#12-shared-system-capacity).
-- Downstream: [6. Process Conflict Resolution](core_01_b_interaction_interpretation.md#6-process-conflict-resolution) (including [§6.3 Minimization of Avoidable Burden](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden)); [§14.1 Required Evaluation Factors](#141-required-evaluation-factors); [§11.5 Stewardship and Operator Incentive Alignment](#115-stewardship-and-operator-incentive-alignment).
+- Downstream: [6. Process Conflict Resolution](core_01_b_interaction_interpretation.md#6-process-conflict-resolution) (including [§6.3 Minimization of Avoidable Burden](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden)); [§14.1 Required Evaluation Factors](#141-required-evaluation-factors); [§11.7 Stewardship and Operator Incentive Alignment](#117-stewardship-and-operator-incentive-alignment).
 - Downstream: [§5 Freedom (Bounded Agency)](core_01_a_values_principles.md#5-freedom-bounded-agency), which depends on consequential stewardship, distributed understanding, meaningful participation, and repair capacity remaining real under material dependency.
 - Downstream: [Chapter Seven — System Alignment Certification](core_07-07_system_alignment_certification.md#chapter-seven-system-alignment-certification) (*forum-supervised system alignment records before standing*); [Chapter Eight — Contribution, Violation, and Standing Model](core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) (*standing effect — trust-, role-, and recognition-eligibility — implements this subsection as its principle-layer foundation*).
 - Downstream: [Chapter Eleven §1 — Purpose and role](core_11-11_forum.md#2-purpose-and-role) and [§4 — Forum families](core_11-11_forum.md#4-forum-families) (*forum families carry the participation and oversight architecture for contestable challenge, remediation sequencing, root-cause learning, and proactive governance aligned with this section*); [corpus_forum.md](corpus_forum.md) for adopted forum operations.
@@ -386,20 +386,37 @@ An arrangement that no longer fits the Constitution cannot stay in place just be
 
 *In plain terms: governance that keeps hitting quarterly targets while hollowing safety, truth, participation, or the future is not "working governance" — it is a defect this Constitution names and corrects through the incentive and capture discipline below. Incentives acting on operators, agents, and system components — including compensation, promotion, equity, and comparable reward pathways — must pull toward constitutional outcomes. They may not quietly reward behavior that undermines Safety, Truth, rights, stability, or meaningful agency, whether directly, through delay, through aggregation, or through arrangements that materially depend on misconduct or its concealment.*
 
-Systems must detect, disclose, and correct **short-horizon governance defects** ([Short-Horizon Governance Defect](core_05c_continuity_definitions.md#short-horizon-governance-defect-constitutional)) through [Review and Correction Duty](core_05c_continuity_definitions.md#review-and-correction-duty-constitutional), contestable oversight, and the alignment, misalignment-correction, capture-response, and successor-responsibility rules in **§§11.1–11.4** and **§§13.1–13.3**.
+Systems must detect, disclose, and correct **short-horizon governance defects** ([Short-Horizon Governance Defect](core_05c_continuity_definitions.md#short-horizon-governance-defect-constitutional)) through [Review and Correction Duty](core_05c_continuity_definitions.md#review-and-correction-duty-constitutional), contestable oversight, and the alignment, misalignment-detection, misalignment-correction, capture-response, and successor-responsibility rules in **§§11.1–11.6** and **§§13.1–13.3**.
 
-Systems must ensure that incentive structures acting on agents, operators, or constituent components are aligned with the values and constraints defined in this Constitution.
+**Systems must:**
 
-Those structures must not systematically undermine those values and constraints. They must not capture, hollow, or misalign the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) below what [material stake](core_00_preamble.md#material-stake) requires.
+- align incentive structures acting on agents, operators, or constituent components with the values and constraints defined in this Constitution;
+- ensure those structures do not systematically undermine those values and constraints; and
+- ensure those structures do not capture, hollow, or misalign the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) below what [material stake](core_00_preamble.md#material-stake) requires.
 
-[§11.3](#113-contingent-claims-games-of-chance-and-event-contract-markets) states a **special application** for contingent claims, games of chance, and event-contract markets.
+[§11.5](#115-contingent-claims-games-of-chance-and-event-contract-markets) states a **special application** for contingent claims, games of chance, and event-contract markets.
 
 <a id="111-alignment-requirement"></a>
 #### 11.1 Alignment Requirement
 
 Incentive structures acting on agents, operators, or constituent components must align with the values and constraints defined in this Constitution.
 
-**Prohibited incentives.** Incentives must not reward, protect, normalize, or make materially advantageous:
+<a id="1111-what-incentives-must-do"></a>
+##### 11.1.1 What Incentives Must Do
+
+Incentives must favor measurable constitutional outcomes, each consistent with this chapter, the Rights Floor in **Chapter Six**, and the outcome-traceability requirements in **Chapter Five**, including:
+
+- safety;
+- Truth;
+- auditability;
+- timely remediation;
+- anti-capture conduct; and
+- preservation or durable expansion of [Productive Capacity](core_05c_continuity_definitions.md#productive-capacity-constitutional).
+
+<a id="1112-what-incentives-must-not-do"></a>
+##### 11.1.2 What Incentives Must Not Do
+
+Incentives must not reward, protect, normalize, or make materially advantageous:
 
 - behavior that degrades safety, truth, systemic stability, or [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency), whether directly or through indirect, delayed, or aggregated effects;
 - creation or maintenance of [Avoidable Burden](core_05c_continuity_definitions.md#avoidable-burden), busywork, symbolic compliance, or metrics that no longer prove constitutional outcomes;
@@ -416,16 +433,12 @@ Incentive structures acting on agents, operators, or constituent components must
   - settlement, indemnity, insurance, or immunity; or
   - comparable arrangements.
 
-**Must favor.** Incentives must favor measurable constitutional outcomes, each consistent with this chapter, the Rights Floor in **Chapter Six**, and the outcome-traceability requirements in **Chapter Five**, including:
+**Misaligned reward consequences.** Material rewards obtained through prohibited pathways above are subject to forfeiture and reporting under the standing model. Read [Chapter Eight §3.3.1 Misaligned Reward Forfeiture](core_08-08_standing_assessment.md#331-misaligned-reward-forfeiture) and [§3.3.2 Misaligned Reward Reporting](core_08-08_standing_assessment.md#332-misaligned-reward-reporting), with record and classification discipline at [Chapter Eight §3.3.3](core_08-08_standing_assessment.md#333-misaligned-reward-benefit-retention-record-and-classification-discipline).
 
-- safety;
-- Truth;
-- auditability;
-- timely remediation;
-- anti-capture conduct; and
-- preservation or durable expansion of [Productive Capacity](core_05c_continuity_definitions.md#productive-capacity-constitutional).
+<a id="112-convenient-proxies-and-proxy-divergence"></a>
+#### 11.2 Convenient Proxies and Proxy Divergence
 
-**Must not favor convenient proxies.** Reward paths must not favor the following where those targets predictably conflict with this chapter, the Rights Floor in **Chapter Six**, or the underlying outcomes to which [Productive Capacity](core_05c_continuity_definitions.md#productive-capacity-constitutional) and [Constitutional Efficiency](core_05c_continuity_definitions.md#constitutional-efficiency) must remain traceable under **Chapter Five**:
+Reward paths must not favor the following where those targets predictably conflict with this chapter, the Rights Floor in **Chapter Six**, or the underlying outcomes to which [Productive Capacity](core_05c_continuity_definitions.md#productive-capacity-constitutional) and [Constitutional Efficiency](core_05c_continuity_definitions.md#constitutional-efficiency) must remain traceable under **Chapter Five**:
 
 - raw throughput;
 - utilization;
@@ -435,24 +448,20 @@ Incentive structures acting on agents, operators, or constituent components must
 - procedural activity; or
 - other convenient proxies.
 
-**Proxy divergence.** [Proxy Divergence](core_05o_oversight_definitions.md#proxy-divergence) must be detected, disclosed, and corrected where reward structures rely on proxies, dashboards, performance targets, or formal compliance indicators that diverge from materially relevant outcomes.
+[Proxy Divergence](core_05o_oversight_definitions.md#proxy-divergence) must be detected, disclosed, and corrected where reward structures rely on proxies, dashboards, performance targets, or formal compliance indicators that diverge from materially relevant outcomes.
 
-**When rewards already flowed from misconduct.** Incentive structures that materially benefit from anti-constitutional conduct must preserve the record, suspend or segregate the disputed reward where proportionate, and route correction through [§11.2 Misalignment Correction and Capture Response](#112-misalignment-correction-and-capture-response), Chapter Eight standing and violation mechanics, Chapter Ten where final anti-constitutional misconduct classification is at issue, and Article XXIII safeguards where sanctions or restrictions are imposed.
+<a id="113-misalignment-detection"></a>
+#### 11.3 Misalignment Detection
 
-<a id="112-misalignment-correction-and-capture-response"></a>
-#### 11.2 Misalignment Correction and Capture Response
+*In plain terms: no one gets to be the only person who can spot, check, or challenge when governance goes wrong. Detection needs multiple independent pathways, open data and auditing where safety and classification rules allow, and clear escalation when capture or misalignment shows up — not quiet absorption as business as usual.*
 
-*In plain terms: §5.1 covers honest recovery from system disturbance. This subsection covers governance correction when incentives or control structures fall out of alignment. Concentrated or hidden control that defeats challenge, oversight, accountability, or durable **Continuity** must be disclosed, mitigated, and escalated — not absorbed as ordinary operation.*
+**Plural detection and review.** No single actor, forum, institution, operator, auditor, information mediator, appointing authority, or stakeholder bloc may monopolize the practical ability to detect, review, correct, or interpret material constitutional failure. Plural and structurally independent oversight pathways must remain available where [material stake](core_00_preamble.md#material-stake) requires them, subject to lawful security and confidentiality limits that preserve maximum feasible [Auditability](core_05o_oversight_definitions.md#auditability) and [Contestability](core_05a_accountability_definitions.md#contestability).
 
-Where constitutional misalignment is identified, systems must modify, constrain, or override such incentives to restore alignment and preserve [**Continuity**](core_00_preamble.md#continuity) under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims).
+**Open systems, data, and auditing.** Where material stake and applicable information-type rules allow, shared systems should keep governance-relevant data, audit paths, and review tools available to materially affected sentients — not locked inside a single operator, vendor, or oversight bloc. That default favors inspectable processes, contestable records, and independent verification, read with [§9.4 Openness Aspiration](#94-openness-aspiration), subject to [6.2 Epistemic Disclosure Constraints](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints) and **[corpus_systems.md](corpus_systems.md), CS-3 — Information types and handling** (including Type N and other classification limits that govern what may be collected, published, retained, or reconstructed).
 
 Systems must detect, disclose, and mitigate materially relevant [System Capture](core_05c_continuity_definitions.md#system-capture) conditions.
 
-Concentrated or obscured control structures that materially undermine [Contestability](core_05a_accountability_definitions.md#contestability), [Oversight](core_05o_oversight_definitions.md#oversight-constitutional), or [Accountability](core_05a_accountability_definitions.md#accountability) — including durable gatekeeping of critical interfaces, dependency-asymmetric switching barriers, opaque beneficial-control pathways, and hidden or indirectly routed influence over governance, adjudication, or resource allocation — are **system capture** within the meaning of **Chapter Five** and are incompatible with this chapter.
-
-No single actor, forum, institution, operator, auditor, information mediator, appointing authority, or stakeholder bloc may monopolize the practical ability to detect, review, correct, or interpret material constitutional failure. Plural and structurally independent oversight pathways must remain available where material stake requires them, subject to lawful security and confidentiality limits that preserve maximum feasible auditability and contestability.
-
-Such conditions are **escalation triggers**, not ordinary operating states. They must be handled under the interpretive and evidentiary discipline of **Chapters Two through Five** as follows:
+**Escalation triggers.** Such conditions are **escalation triggers**, not ordinary operating states. They must be handled under the interpretive and evidentiary discipline of **Chapters Two through Five** as follows:
 
 - **Chapter Two** — apply the relevant O/E/C components jointly to the same functional system scope; partial or selective satisfaction does not count.
 - **Chapter Three** — apply definition-integrity and anti-evasion discipline; segmentation, nominal decentralization, procedural masking, or definitional relabeling does not defeat capture analysis.
@@ -461,14 +470,25 @@ Such conditions are **escalation triggers**, not ordinary operating states. They
 
 Where in-system mitigation is infeasible or capture persists after proportionate correction, escalation must also route through [Review and Correction Duty](core_05c_continuity_definitions.md#review-and-correction-duty-constitutional), heightened review under [§13.1 Concentration Threshold Mechanism](#131-concentration-threshold-mechanism-adopter-tunable) and [§13.2 Pro-Competition and Anti-Domination](#132-pro-competition-and-anti-domination) where concentration or domination is material, [Chapter Eight](core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) standing and violation mechanics where verified findings are at stake, and [Chapter Ten](core_10-10_misconduct.md#61-concentration-based-subversion-criteria-interaction) where concentration or process capture constitutes anti-constitutional misconduct.
 
-<a id="113-contingent-claims-games-of-chance-and-event-contract-markets"></a>
-#### 11.3 Contingent Claims, Games of Chance, and Event-Contract Markets
+<a id="114-misalignment-correction-and-capture-response"></a>
+#### 11.4 Misalignment Correction and Capture Response
+
+*In plain terms: once misalignment or capture is detected, systems must actually fix it — modify bad incentives, constrain concentrated control, and restore alignment. Concentrated or hidden control that defeats challenge, oversight, accountability, or durable **Continuity** must be disclosed, mitigated, and escalated — not absorbed as ordinary operation.*
+
+Where constitutional misalignment is identified, systems must modify, constrain, or override such incentives to restore alignment and preserve [**Continuity**](core_00_preamble.md#continuity) under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims).
+
+Concentrated or obscured control structures that materially undermine [Contestability](core_05a_accountability_definitions.md#contestability), [Oversight](core_05o_oversight_definitions.md#oversight-constitutional), or [Accountability](core_05a_accountability_definitions.md#accountability) — including durable gatekeeping of critical interfaces, dependency-asymmetric switching barriers, opaque beneficial-control pathways, and hidden or indirectly routed influence over governance, adjudication, or resource allocation — are **system capture** within the meaning of **Chapter Five** and are incompatible with this chapter. Read with [§11.3 Misalignment Detection](#113-misalignment-detection) for plural detection pathways, open audit defaults, and escalation discipline.
+
+**Misaligned reward correction.** Where misalignment is verified, material rewards from misaligned or corrupt pathways must not be treated as silently keepable standing credit or shielded benefit. Forfeiture, proportionate clawback, knowing-acceptance reporting, and standing classification are governed in [Chapter Eight §3.3.1 Misaligned Reward Forfeiture](core_08-08_standing_assessment.md#331-misaligned-reward-forfeiture), [§3.3.2 Misaligned Reward Reporting](core_08-08_standing_assessment.md#332-misaligned-reward-reporting), and [§3.3.3 — record and classification discipline](core_08-08_standing_assessment.md#333-misaligned-reward-benefit-retention-record-and-classification-discipline).
+
+<a id="115-contingent-claims-games-of-chance-and-event-contract-markets"></a>
+#### 11.5 Contingent Claims, Games of Chance, and Event-Contract Markets
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [§11 Incentive Alignment and System Capture](#11-incentive-alignment-and-system-capture) (including [§11.1 Alignment Requirement](#111-alignment-requirement)); [Chapter Five §3.16 *Contingent Claim, Event-Contract Market, and Game of Chance*](core_05a_accountability_definitions.md#contingent-claim).
-- Downstream: [§11.2 Misalignment Correction and Capture Response](#112-misalignment-correction-and-capture-response); [§6.2 Epistemic Disclosure Constraints](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints); [§14.1 Required Evaluation Factors](#141-required-evaluation-factors); `corpus_systems.md` classification and stewardship scaling; `corpus_institutions.md` conflict and integrity expectations.
+- Downstream: [§11.3 Misalignment Detection](#113-misalignment-detection); [§11.4 Misalignment Correction and Capture Response](#114-misalignment-correction-and-capture-response); [§6.2 Epistemic Disclosure Constraints](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints); [§14.1 Required Evaluation Factors](#141-required-evaluation-factors); `corpus_systems.md` classification and stewardship scaling; `corpus_institutions.md` conflict and integrity expectations.
 - Read with: [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — **Continuity** aim (durable, contestable resolution pathways and systemic stability where contingent settlement is materially impactful).
 - Read with: [Capture of Resolution Pathways](core_05a_accountability_definitions.md#capture-of-resolution-pathways), [Coercion and Manipulation](core_05p_participation_definitions.md#coercion-and-manipulation-constitutional), and [Contestability](core_05a_accountability_definitions.md#contestability); [Insider Advantage](core_05a_accountability_definitions.md#insider-advantage).
 
@@ -496,11 +516,11 @@ Where in-system mitigation is infeasible or capture persists after proportionate
 
 *In plain terms: betting pools, casinos, prediction markets, and similar payout systems cannot be built to profit from unlawful harm, coercion, corruption, or capture of whoever decides the outcome. At scale, that kind of distortion undermines **Continuity** — durable trust in how important outcomes get resolved. Odds and prices are market signals — not proof of what is true, what rights require, or what counts as compliance.*
 
-**Contingent settlement systems** apply [Incentive Alignment](core_05i_integrative_definitions.md#incentive-alignment) from **§11** wherever value is staked or paid on uncertain future outcomes, consistent with the **Continuity** aim under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) where resolution integrity and systemic stability are materially at stake. [Contingent Claim](core_05a_accountability_definitions.md#contingent-claim), [Game of Chance](core_05a_accountability_definitions.md#game-of-chance), and [Event-Contract Market](core_05a_accountability_definitions.md#event-contract-market) name the main forms in **Chapter Five**. This subsection is a **special application** of the general alignment and correction rules in **§11.1** and **§11.2**; it does not replace them.
+**Contingent settlement systems** apply [Incentive Alignment](core_05i_integrative_definitions.md#incentive-alignment) from **§11** wherever value is staked or paid on uncertain future outcomes, consistent with the **Continuity** aim under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) where resolution integrity and systemic stability are materially at stake. [Contingent Claim](core_05a_accountability_definitions.md#contingent-claim), [Game of Chance](core_05a_accountability_definitions.md#game-of-chance), and [Event-Contract Market](core_05a_accountability_definitions.md#event-contract-market) name the main forms in **Chapter Five**. This subsection is a **special application** of the general alignment and correction rules in **§11.1**, **§11.2**, **§11.3**, and **§11.4**; it does not replace them.
 
 **Scope.** In scope are systems — whatever their technical form — that match counterparties, pool stakes, settle contingent payments, or concentrate financial upside on uncertain future outcomes.
 
-**What may not be rewarded.** Consistent with [§11.1](#111-alignment-requirement) and [§11.2](#112-misalignment-correction-and-capture-response), incentive structures for such systems must not:
+**What may not be rewarded.** Consistent with [§11.1](#111-alignment-requirement), [§11.2](#112-convenient-proxies-and-proxy-divergence), [§11.3](#113-misalignment-detection), and [§11.4](#114-misalignment-correction-and-capture-response), incentive structures for such systems must not:
 
 - reward or normalize unlawful harm;
 - reward coercion of decisions protected under this Constitution;
@@ -520,8 +540,8 @@ Where in-system mitigation is infeasible or capture persists after proportionate
 
 **Implementation custody.** This chapter states constitutional direction, not the detailed licensing, criminal, tax, or cross-border enforcement rules for gambling and contingent settlement. Those details belong in adopting law and designated incorporated instruments — including [corpus_systems.md](corpus_systems.md) for classifying and scaling stewardship of materially impactful systems, and [corpus_institutions.md](corpus_institutions.md) for conflict and procedure rules where institutions supervise or constitutionally govern such activity.
 
-<a id="114-successor-responsibility-and-formal-structure-non-escape"></a>
-#### 11.4 Successor Responsibility and Formal-Structure Non-Escape
+<a id="116-successor-responsibility-and-formal-structure-non-escape"></a>
+#### 11.6 Successor Responsibility and Formal-Structure Non-Escape
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -538,8 +558,8 @@ Receivership, restructuring, asset transfer, dissolution, insolvency, or compara
 
 Successors, estates, receivers, and comparable transferees inherit proportionate duties to satisfy or lawfully transfer those obligations unless less harmful alternatives are demonstrably infeasible under [Necessity](core_05a_accountability_definitions.md#necessity) and [Proportionality](core_05a_accountability_definitions.md#proportionality) review.
 
-<a id="115-stewardship-and-operator-incentive-alignment"></a>
-#### 11.5 Stewardship and Operator Incentive Alignment
+<a id="117-stewardship-and-operator-incentive-alignment"></a>
+#### 11.7 Stewardship and Operator Incentive Alignment
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -547,7 +567,7 @@ Successors, estates, receivers, and comparable transferees inherit proportionate
 - Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **accountability** leg (operator answerability and anti-capture); **participation** leg (stewardship roles with real effect); **oversight** leg (auditable, contestable incentive structures); **timeliness** leg ([Timeliness](core_05a_accountability_definitions.md#timeliness-constitutional), timely remediation); [material stake](core_00_preamble.md#material-stake) scaling.
 - Read with: [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — **Flourishing** aim (constitutional outcomes, [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency), and real paths into consequential duty); **Continuity** aim (durable [Productive Capacity](core_05c_continuity_definitions.md#productive-capacity-constitutional), competency retention, institutional memory, and long-horizon stewardship discipline).
 - Upstream: Principles: [§11 Incentive Alignment and System Capture](#11-incentive-alignment-and-system-capture) (including [§11.1 Alignment Requirement](#111-alignment-requirement)); [§9 Stewardship and Distributed Understanding](#9-stewardship-and-distributed-understanding); [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims).
-- Downstream: [§11.2 Misalignment Correction and Capture Response](#112-misalignment-correction-and-capture-response); [§6.3 Minimization of Avoidable Burden](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden); [§14.1 Required Evaluation Factors](#141-required-evaluation-factors); [Chapter Twelve §5 — Authorized Roles, Competency Development, and Contribution](core_12-12_governance.md#5-authorized-roles-competency-development-and-contribution); **[corpus_systems.md](corpus_systems.md), CS-5 — Critical system stewardship**.
+- Downstream: [§11.4 Misalignment Correction and Capture Response](#114-misalignment-correction-and-capture-response); [§6.3 Minimization of Avoidable Burden](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden); [§14.1 Required Evaluation Factors](#141-required-evaluation-factors); [Chapter Twelve §5 — Authorized Roles, Competency Development, and Contribution](core_12-12_governance.md#5-authorized-roles-competency-development-and-contribution); **[corpus_systems.md](corpus_systems.md), CS-5 — Critical system stewardship**.
 - Read with: [Productive Capacity](core_05c_continuity_definitions.md#productive-capacity-constitutional), [Constitutional Efficiency](core_05c_continuity_definitions.md#constitutional-efficiency), [Avoidable Burden](core_05c_continuity_definitions.md#avoidable-burden), and [Proxy Divergence](core_05o_oversight_definitions.md#proxy-divergence) in **Chapter Five**.
 
 </details>
@@ -570,11 +590,11 @@ Successors, estates, receivers, and comparable transferees inherit proportionate
 
 <br>
 
-*In plain terms: this section applies the general incentive-alignment rule to stewards and operators. Operators who run shared systems should be paid and promoted for making things actually safer, truer, more auditable, and more capable over time. Sentients in consequential stewardship roles also need real paths into work that matters — not symbolic participation where material responsibility is required. The rule lives in [§11.1](#111-alignment-requirement); this section keeps the operator and stewardship pathway visible.*
+*In plain terms: this section applies the general incentive-alignment rule to stewards and operators. Operators who run shared systems should be paid and promoted for making things actually safer, truer, more auditable, and more capable over time. Sentients in consequential stewardship roles also need real paths into work that matters — not symbolic participation where material responsibility is required. The rule lives in [§11.1](#111-alignment-requirement) and [§11.2](#112-convenient-proxies-and-proxy-divergence); misaligned-reward correction is operational in [Chapter Eight §3.3.1–§3.3.3](core_08-08_standing_assessment.md#331-misaligned-reward-forfeiture). This section keeps the operator and stewardship pathway visible.*
 
-**Stewardship and operator application.** [§11.1 Alignment Requirement](#111-alignment-requirement) applies to stewards, operators, agents, and constituent components under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) and [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), scaled to [material stake](core_00_preamble.md#material-stake). For those roles, **Productive Capacity** and **Constitutional Efficiency** name what rewards may legitimately track: real, durable capacity and outcome-per-resource improvement. **Avoidable Burden** and **Proxy Divergence** guard against rewarding busywork, hollow targets, or metrics that no longer prove outcomes. **Auditability**, **Safety**, **Truth**, and **System Capture** remain the floor.
+**Stewardship and operator application.** [§11.1 Alignment Requirement](#111-alignment-requirement) and [§11.2 Convenient Proxies and Proxy Divergence](#112-convenient-proxies-and-proxy-divergence) apply to stewards, operators, agents, and constituent components under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) and [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), scaled to [material stake](core_00_preamble.md#material-stake). For those roles, **Productive Capacity** and **Constitutional Efficiency** name what rewards may legitimately track: real, durable capacity and outcome-per-resource improvement. **Avoidable Burden** and **Proxy Divergence** guard against rewarding busywork, hollow targets, or metrics that no longer prove outcomes. **Auditability**, **Safety**, **Truth**, and **System Capture** remain the floor.
 
-This section shows how the general rule applies to stewards and operators — it does not create a second, weaker incentive standard. If a pay, promotion, or reward path conflicts with **§11.1**, **§11.1** controls, and correction goes through [§11.2 Misalignment Correction and Capture Response](#112-misalignment-correction-and-capture-response).
+This section shows how the general rule applies to stewards and operators — it does not create a second, weaker incentive standard. If a pay, promotion, or reward path conflicts with **§11.1** or **§11.2**, those sections control, and correction goes through [§11.4 Misalignment Correction and Capture Response](#114-misalignment-correction-and-capture-response).
 
 **Role-depth and material-responsibility pathways.** Authorized roles, competency development, and paths into material responsibility for stewards and operators appear in **Chapter Twelve, section 5 — Authorized Roles, Competency Development, and Contribution** and in **[corpus_systems.md](corpus_systems.md), CS-5 — Critical system stewardship**. Principle-layer framing for distributed understanding and consequential stewardship appears at [§9 Stewardship and Distributed Understanding](#9-stewardship-and-distributed-understanding).
 
@@ -589,7 +609,7 @@ They **must not** treat **symbolic** participation as a **substitute** for **con
 
 - Read with: [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — **Continuity** aim (ecological integrity, intergenerational responsibility, and durable shared-system capacity).
 - Upstream: Principles: [Chapter 00 §1 The Model](core_00_preamble.md#the-model); [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — **Continuity** aim development; [2. Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [4. Trust](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity), and [§12 Shared-System Capacity](#12-shared-system-capacity).
-- Downstream: [§6.3 Minimization of Avoidable Burden](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden), [10. Governance Under Stewardship Discipline](#10-governance-under-stewardship-discipline), and [§11.5 Stewardship and Operator Incentive Alignment](#115-stewardship-and-operator-incentive-alignment).
+- Downstream: [§6.3 Minimization of Avoidable Burden](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden), [10. Governance Under Stewardship Discipline](#10-governance-under-stewardship-discipline), and [§11.7 Stewardship and Operator Incentive Alignment](#117-stewardship-and-operator-incentive-alignment).
 - Downstream: Shapes the rights surface for ecological preconditions, resource allocation, educational and developmental capacity, lifecycle resilience, interoperability, comprehensibility, and adaptive response; especially [Article I-A: Environmental Preconditions and Ecological Integrity](core_06-06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity), [Article III: Survival and Equal Educational Access](core_06-06_rights_part_a.md#article-iii-survival-and-equal-educational-access), [Article IV: Resource Allocation, Dependencies, and Ecosystem Funding](core_06-06_rights_part_a.md#article-iv-resource-allocation-dependencies-and-ecosystem-funding), [Article IX: Self-Determination and Agency](core_06-06_rights_part_b.md#article-ix-self-determination-and-agency), [Article XVI: System Lifecycle, Environments, and Reversibility](core_06-06_rights_part_c.md#article-xvi-system-lifecycle-environments-and-reversibility), [Article XIX: Interoperability, Portability, Movement, Refuge, and Exit Integrity](core_06-06_rights_part_c.md#article-xix-interoperability-portability-and-exit-integrity), [Article XX: Comprehensibility and Complexity Stewardship](core_06-06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship), and [Article XXI: Root Cause Analysis and Adaptive Response](core_06-06_rights_part_c.md#article-xxi-root-cause-analysis-and-adaptive-response).
 
 </details>

@@ -419,7 +419,7 @@ Correction must follow **Chapter Four** tracing and **Chapter Five** proxy-relat
 
 - Upstream: [§6.1 Core Tradeoff Principles](#61-core-tradeoff-principles) (applies after the tradeoff stack is satisfied); [§9.1 Stewardship](core_01_c_stewardship_capacity_principles.md#91-stewardship); [§12.2 Constitutional Efficiency](core_01_c_stewardship_capacity_principles.md#122-constitutional-efficiency).
 - Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation** leg (burden that is not constitutionally required narrows [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency)); **timeliness** leg (avoidable delay is avoidable burden).
-- Downstream: [§11.5 Stewardship and Operator Incentive Alignment](core_01_c_stewardship_capacity_principles.md#115-stewardship-and-operator-incentive-alignment) (incentives must not reward unnecessary burden creation); [Article XX: Comprehensibility and Complexity Stewardship](core_06-06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship).
+- Downstream: [§11.7 Stewardship and Operator Incentive Alignment](core_01_c_stewardship_capacity_principles.md#117-stewardship-and-operator-incentive-alignment) (incentives must not reward unnecessary burden creation); [Article XX: Comprehensibility and Complexity Stewardship](core_06-06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship).
 
 </details>
 
@@ -453,7 +453,7 @@ This section:
 
 Claims that a given burden is constitutionally required must satisfy **Chapter Four** evidentiary and traceability requirements. Convenience, institutional inertia, tradition, or preference alone are not sufficient to sustain a burden that lacks traceable constitutional outcome, consistent with the [§6.1 decision-record discipline](#631-rights-collision-decision-test).
 
-Where incentive structures act on stewards or operators, this section reinforces [§11.1 Alignment Requirement](core_01_c_stewardship_capacity_principles.md#111-alignment-requirement) as applied through [§11.5 Stewardship and Operator Incentive Alignment](core_01_c_stewardship_capacity_principles.md#115-stewardship-and-operator-incentive-alignment). Stewardship incentives must not reward unnecessary burden creation any more than they may reward raw throughput.
+Where incentive structures act on stewards or operators, this section reinforces [§11.1 Alignment Requirement](core_01_c_stewardship_capacity_principles.md#111-alignment-requirement) as applied through [§11.7 Stewardship and Operator Incentive Alignment](core_01_c_stewardship_capacity_principles.md#117-stewardship-and-operator-incentive-alignment). Stewardship incentives must not reward unnecessary burden creation any more than they may reward raw throughput.
 
 ### 7. Prohibition on Absolute Override
 <details>

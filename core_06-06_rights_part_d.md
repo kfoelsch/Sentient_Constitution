@@ -456,10 +456,11 @@ Transition from legacy to constitutional operation must be phased, rights-preser
 Transitional governance exists to secure continuity and non-regression. It must **not** create durable exception authority, de facto constitutional amendment, or practical lowering of the constitutional floor through implementation misalignment. **Articles XXVI-A** through **XXVI-D** state the operative phased-adoption, authority-limit, failure off-ramp, and transition-scoped remediation floors.
 
 #### Article XXVI-A: Phased Adoption and Rights-Floor Continuity
+<a id="article-xxvi-a-phased-adoption-and-rights-floor-continuity"></a>
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [4.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [10.1 Core Tradeoff Principles](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), and [14.1 Required Evaluation Factors](core_01_c_stewardship_capacity_principles.md#141-required-evaluation-factors).
+- Upstream: Principles: Chapter One [4.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [10.1 Core Tradeoff Principles](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), and [14.1 Required Evaluation Factors](core_01_c_stewardship_capacity_principles.md#141-required-evaluation-factors); [Chapter Eight §3.3.1–§3.3.2](core_08-08_standing_assessment.md#331-misaligned-reward-forfeiture) (*misaligned-reward forfeiture and reporting limited during transition by this Article*); [Chapter Seven — System Alignment Certification](core_07-07_system_alignment_certification.md#chapter-seven-system-alignment-certification).
 
 </details>
 
@@ -484,6 +485,12 @@ Transitional governance exists to secure continuity and non-regression. It must 
     - political pressure.
   - Detailed gate criteria, owner assignment, and verification artifacts are governed by `corpus_institutions.md` **CI-14** (*Transitional governance and institutional evolution*).
 - **Rights-Floor continuity:** At every phase, the **Rights-Floor minimums** stated in **Article V** (*Equal Basic Rights*) remain in force, together with any stronger domain-specific floors for survival, agency, non-discrimination, accessibility, auditability, and remedy that the affected context triggers. Transitional simplification must not reduce those floors below constitutional minimums or make their exercise materially less usable in practice.
+<a id="incentive-alignment-transition-carve-out"></a>
+- **Incentive-alignment transition carve-out:** During approved transition phases under **Article XXVI**, read with [Chapter Seven — System Alignment Certification](core_07-07_system_alignment_certification.md#chapter-seven-system-alignment-certification). [Chapter Eight §3.3.1 Misaligned Reward Forfeiture](core_08-08_standing_assessment.md#331-misaligned-reward-forfeiture) and [§3.3.2 Misaligned Reward Reporting](core_08-08_standing_assessment.md#332-misaligned-reward-reporting) do **not** apply to rewards flowing through shared systems solely because those systems are **not yet alignment-certified** or are **not yet fully aligned**, provided:
+  - operation stays within a **documented transition plan** and published gate criteria under **Article XXVI**;
+  - the system is proceeding toward [System Alignment Certification](core_05c_continuity_definitions.md#system-alignment-certification-constitutional) on a published cadence, including **conditional** or **deferred recognition** where Chapter Seven allows; and
+  - operators and beneficiaries are not **knowingly concealing** misalignment, operating outside approved transition scope, or using transition status to evade certification, correction, or protected reporting.
+  - Those subsections **do** apply where verified anti-constitutional conduct, knowing concealment, operation outside approved transition scope, failed or exceeded transition milestones, or a certification record — including **conditional recognition** — documents material misalignment or misaligned reward pathways.
 #### Article XXVI-B: Transitional Authority Limits and Reauthorization
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>

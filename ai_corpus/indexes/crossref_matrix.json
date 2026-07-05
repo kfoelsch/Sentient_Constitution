@@ -635,7 +635,7 @@
             "anchors": [
               "#10-governance-under-stewardship-discipline",
               "#11-incentive-alignment-and-system-capture",
-              "#115-stewardship-and-operator-incentive-alignment",
+              "#117-stewardship-and-operator-incentive-alignment",
               "#12-shared-system-capacity",
               "#13-market-structure",
               "#132-pro-competition-and-anti-domination",
@@ -958,7 +958,7 @@
             "count": 14,
             "anchors": [
               "#111-alignment-requirement",
-              "#115-stewardship-and-operator-incentive-alignment",
+              "#117-stewardship-and-operator-incentive-alignment",
               "#122-constitutional-efficiency",
               "#1416-time-consistency-constraint",
               "#15-integrated-application",
@@ -2476,8 +2476,8 @@
             "count": 41,
             "anchors": [
               "#10-governance-under-stewardship-discipline",
-              "#113-contingent-claims-games-of-chance-and-event-contract-markets",
-              "#114-successor-responsibility-and-formal-structure-non-escape",
+              "#115-contingent-claims-games-of-chance-and-event-contract-markets",
+              "#116-successor-responsibility-and-formal-structure-non-escape",
               "#121-productive-capacity-instrumental-good",
               "#13-market-structure",
               "#131-concentration-threshold-mechanism-adopter-tunable",
@@ -2846,7 +2846,7 @@
               "#10-governance-under-stewardship-discipline",
               "#11-incentive-alignment-and-system-capture",
               "#111-alignment-requirement",
-              "#115-stewardship-and-operator-incentive-alignment",
+              "#117-stewardship-and-operator-incentive-alignment",
               "#12-shared-system-capacity",
               "#121-productive-capacity-instrumental-good",
               "#122-constitutional-efficiency",
@@ -3164,8 +3164,8 @@
             "anchors": [
               "#10-governance-under-stewardship-discipline",
               "#111-alignment-requirement",
-              "#112-misalignment-correction-and-capture-response",
-              "#115-stewardship-and-operator-incentive-alignment",
+              "#114-misalignment-correction-and-capture-response",
+              "#117-stewardship-and-operator-incentive-alignment",
               "#141-required-evaluation-factors",
               "#15-integrated-application"
             ]
@@ -3720,7 +3720,7 @@
             "count": 7,
             "anchors": [
               "#10-governance-under-stewardship-discipline",
-              "#114-successor-responsibility-and-formal-structure-non-escape",
+              "#116-successor-responsibility-and-formal-structure-non-escape",
               "#1412-accessibility-under-sentience-non-exclusion",
               "#9-stewardship-and-distributed-understanding"
             ]
@@ -4543,8 +4543,8 @@
             "anchors": [
               "#10-governance-under-stewardship-discipline",
               "#11-incentive-alignment-and-system-capture",
-              "#114-successor-responsibility-and-formal-structure-non-escape",
-              "#115-stewardship-and-operator-incentive-alignment",
+              "#116-successor-responsibility-and-formal-structure-non-escape",
+              "#117-stewardship-and-operator-incentive-alignment",
               "#131-concentration-threshold-mechanism-adopter-tunable",
               "#14-systemic-evaluation-requirement",
               "#141-required-evaluation-factors"

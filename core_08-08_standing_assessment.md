@@ -463,7 +463,63 @@ Do **not** split LEQU into parallel ecological, system, or resource scores unles
 | **Accessibility defeat / participation-barrier injury** | Modulates LEQU when verified inclusive contribution | Higher materiality in dependency-asymmetric settings |
 | **Privacy / self-ownership injury** | — | Aggravated features when concealment or exploitation verified |
 | **Exit / lock-in foreclosure** | Limits stewardship credit when lock-in created or sustained | System Misconduct features; structural enablement |
+| **Misaligned reward / benefit retention** | Disqualifies or caps countable LEQU benefit from the disputed pathway; read [§3.3.1 Misaligned Reward Forfeiture](#331-misaligned-reward-forfeiture) | Aggravated or duty-based violation (`s` = 4–5) when knowing acceptance without timely protected reporting is verified; read [§3.3.2 Misaligned Reward Reporting](#332-misaligned-reward-reporting); record and classification discipline at [§3.3.3](#333-misaligned-reward-benefit-retention-record-and-classification-discipline); subject to [Article XXVI-A](core_06-06_rights_part_d.md#incentive-alignment-transition-carve-out) incentive-alignment transition carve-out during constitutional transition |
 | **Lifecycle / irreversibility concealment** | — | Aggravated violation (`s` = 5) when material irreversibility concealed after notice |
+
+<a id="331-misaligned-reward-forfeiture"></a>
+
+##### 3.3.1 Misaligned Reward Forfeiture
+
+*In plain terms: if you got paid, promoted, or credited through a misaligned or corrupt process, that reward is not yours to keep by default — unless taking it back would do more harm than keeping it.*
+
+*Upstream: [Chapter One §11.1.2 What Incentives Must Not Do](core_01_c_stewardship_capacity_principles.md#1112-what-incentives-must-not-do) and [§11.4 Misalignment Correction and Capture Response](core_01_c_stewardship_capacity_principles.md#114-misalignment-correction-and-capture-response).*
+
+**Forfeiture default.** Material rewards obtained through constitutionally misaligned incentive structures, anti-constitutional conduct, or materially defective processes are **forfeit** for constitutional purposes. Forfeiture includes non-recognition, suspension, segregation, clawback, and denial of standing credit for the disputed benefit under the [*Misaligned reward / benefit retention*](#33-dual-use-classification-hooks) dual-use row above.
+
+**Proportionality limit.** Forfeiture or revocation is not harm-maximization by default. It proceeds only where [Necessity](core_05a_accountability_definitions.md#necessity) and [Proportionality](core_05a_accountability_definitions.md#proportionality) show that retention would cause greater constitutional harm than proportionate revocation. Legitimate third-party reliance, dependent-party harm, and systemic stability may limit how far revocation may go. The analysis must be recorded and contestable.
+
+**Correction duties.** Incentive structures that have materially benefited from anti-constitutional or misaligned conduct must:
+
+- preserve the record;
+- suspend or segregate disputed rewards where proportionate; and
+- route final anti-constitutional misconduct classification through [Chapter Ten](core_10-10_misconduct.md#chapter-ten-anti-constitutional-misconduct) where at issue.
+
+**Retention allowed.** Benefits may be retained solely when proportionate revocation would cause greater constitutional harm under the analysis above. Lawful compensation for ordinary work without knowledge of misalignment, restitution or repair payments to affected parties, and proportionate settlement of disputed claims under contestable process are not forfeiture targets by themselves.
+
+<a id="332-misaligned-reward-reporting"></a>
+
+##### 3.3.2 Misaligned Reward Reporting
+
+*In plain terms: if you know a reward came from a bad process and you keep it without reporting, that can count as a violation. Report in good faith and you are protected; hide it and you are not.*
+
+*Upstream: [Chapter One §11.1.2 What Incentives Must Not Do](core_01_c_stewardship_capacity_principles.md#1112-what-incentives-must-not-do) and [§11.4 Misalignment Correction and Capture Response](core_01_c_stewardship_capacity_principles.md#114-misalignment-correction-and-capture-response).*
+
+**Reporting duty.** A sentient who **knowingly** accepts or retains a material reward from a misaligned process or system after sufficient notice of the misalignment violates this subsection unless they timely report through [Protected Reporting (Whistleblowing)](core_05a_accountability_definitions.md#protected-reporting-whistleblowing) or comparable lawful pathways within tier-appropriate windows under [Timeliness](core_05a_accountability_definitions.md#timeliness-constitutional).
+
+Read [§3.3.3 Misaligned reward / benefit retention — record and classification discipline](#333-misaligned-reward-benefit-retention-record-and-classification-discipline) for exclusions from knowing acceptance and standing-record requirements.
+
+<a id="333-misaligned-reward-benefit-retention-record-and-classification-discipline"></a>
+
+##### 3.3.3 Misaligned reward / benefit retention — record and classification discipline
+
+*In plain terms: [§3.3.2 Misaligned Reward Reporting](#332-misaligned-reward-reporting) states the duty. This subsection states when that duty is **not** violated and how evaluators record and classify knowing acceptance on the standing pipeline.*
+
+Read with [§3.3.1 Misaligned Reward Forfeiture](#331-misaligned-reward-forfeiture) and the [*Misaligned reward / benefit retention*](#33-dual-use-classification-hooks) dual-use row above.
+
+**Not knowing acceptance.** The [§3.3.2](#332-misaligned-reward-reporting) reporting duty does **not** treat a sentient as knowingly keeping a misaligned reward when any of the following applies:
+
+- the sentient is **disputing the reward in good faith** through lawful process;
+- the sentient **preserves records** while review is still open;
+- the sentient is **cooperating with remediation**; or
+- the sentient **reports on time** through [Protected Reporting (Whistleblowing)](core_05a_accountability_definitions.md#protected-reporting-whistleblowing) or a comparable lawful pathway.
+
+Retention without reporting is also **not** knowing acceptance when [§3.3.1](#331-misaligned-reward-forfeiture) allows retention because taking the reward back would cause **more constitutional harm than leaving it in place**.
+
+**What the record must show.** Where the reporting duty is at issue, violation standing records must state **verified knowledge**, **benefit**, **concealment**, and **reporting timeliness** on a contestable record. Read [§2 — Verified-input gate](#verified-inputs-for-standing) and [§2.3.3 Collective and actor-specific records](#233-collective-and-actor-specific-records) for actor-specific benefit linkage.
+
+**How violations get classified.** Apply the [*Misaligned reward / benefit retention*](#33-dual-use-classification-hooks) dual-use row on the Violation Axis when knowing acceptance without timely protected reporting is verified.
+
+**Where serious patterns go next.** Where substantiated, patterns route to [Chapter Ten §6.7 Reward, protection, or normalization of anti-constitutional conduct](core_10-10_misconduct.md#67-reward-protection-or-normalization-of-anti-constitutional-conduct) and to [Article XXIII: Conflict Resolution, Escalation, and Emergency Proportionality](core_06-06_rights_part_d.md#article-xxiii-conflict-resolution-escalation-and-emergency-proportionality) safeguards where sanctions or restrictions are imposed.
 
 <a id="section-6-classification-worked-examples"></a>
 <a id="34-question-1-classification-illustrations"></a>

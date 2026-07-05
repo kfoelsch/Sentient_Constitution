@@ -195,7 +195,7 @@ Trustworthiness must be evaluated across time, scale, and dependency relationshi
   - disclosed in a manner proportionate to system impact;
   - mitigated through design, constraint, or countervailing mechanisms;
   - subject to audit, challenge, and correction under **Article XV** (*Audit, Transparency, and Independent Verification*), **Article XII-B** (*Right to Challenge, Review, and Redress*), **Chapter Five** where materially relevant, and incorporated implementation obligations where designated.
-- **Constraint and non-absoluteness:** Both rights are subject to the **default constraint stack** at the opening of this chapter. They are also subject, where materially relevant, to **Chapter One §11.3** on contingent claims, games of chance, and event-contract markets.
+- **Constraint and non-absoluteness:** Both rights are subject to the **default constraint stack** at the opening of this chapter. They are also subject, where materially relevant, to **Chapter One §11.5** on contingent claims, games of chance, and event-contract markets.
 
 #### Article XII-E: High-Autonomy Systems and Tool-Mediated Process Integrity
 <details>
@@ -579,7 +579,7 @@ Accurate, relevant, and contestable information is foundational to self-determin
     - proportional ability to bypass or adjust ranking criteria — subject to safety, security, and system integrity.
   - It must not narrow this Article.
 - **Contingent-settlement signals:** Prices, odds, pool sizes, or comparable outputs of contingent-payment or event-settlement systems must not be treated, on their own, as evidence sufficient to decide truth, probability, or compliance for rights, safety, or governance determinations.
-  - Where such signals inform public decisions or decisions with [Material Impact](core_05o_oversight_definitions.md#material-impact), they remain subject to **Chapter One §11.3**, **Chapter Five** (*Truth (Constitutional Constraint)*; *Epistemic Integrity*), and contestability obligations elsewhere in this Article.
+  - Where such signals inform public decisions or decisions with [Material Impact](core_05o_oversight_definitions.md#material-impact), they remain subject to **Chapter One §11.5**, **Chapter Five** (*Truth (Constitutional Constraint)*; *Epistemic Integrity*), and contestability obligations elsewhere in this Article.
 #### Article XIV-B: Transparency, Auditability, and Contestability
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
