@@ -35,7 +35,7 @@
 
 <br>
 
-*In plain terms: values and rights will collide — **Safety** and **Truth** come first. After that, limits must be proportionate, necessary, harm-minimizing, and as light as possible. Truth cannot be hidden for comfort; privacy cannot be stripped for convenience; freedom limits apply under [§5.1](core_01_a_values_principles.md#51-limitation-discipline); rights conflicts need a documented decision test; and metrics that lie about compliance do not count. Short-horizon optimization cannot pass evaluation under [§14.1.6 Time-Consistency Constraint](core_01_c_stewardship_capacity_principles.md#1416-time-consistency-constraint). **§6.1–§6.3** carry the tradeoff rules, disclosure and privacy constraints, and rights-collision procedure.*
+*In plain terms: values and rights will collide — **Safety** and **Truth** come first. After that, limits must be proportionate, necessary, harm-minimizing, and as light as possible. Truth cannot be hidden for comfort; privacy cannot be stripped for convenience; freedom limits apply under [§5.1](core_01_a_values_principles.md#51-limitation-discipline); rights conflicts need a documented decision test; and metrics that lie about compliance do not count. Short-horizon optimization cannot pass evaluation under [Chapter Seven §1A.6 Time-Consistency Constraint](core_07-07_system_alignment_certification.md#1a6-time-consistency-constraint). **§6.1–§6.3** carry the tradeoff rules, disclosure and privacy constraints, and rights-collision procedure.*
 
 **Safety** and **Truth** take precedence where conflicts cannot be resolved without violating them.
 
@@ -136,7 +136,7 @@ Assertion that no alternative exists, without documented analysis, does not sati
 
 Optimizing on local or immediate harm alone while creating larger systemic or aggregate harm is non-compliant.
 
-**Time-horizon discipline.** Short-term optimization at long-term systemic cost fails this test. Harm minimization must account for the [§14.1.6 Time-Consistency Constraint](core_01_c_stewardship_capacity_principles.md#1416-time-consistency-constraint): a decision that looks harm-minimizing in the current period but predictably creates greater harm across the relevant constitutional time horizon is non-compliant.
+**Time-horizon discipline.** Short-term optimization at long-term systemic cost fails this test. Harm minimization must account for the [Chapter Seven §1A.6 Time-Consistency Constraint](core_07-07_system_alignment_certification.md#1a6-time-consistency-constraint): a decision that looks harm-minimizing in the current period but predictably creates greater harm across the relevant constitutional time horizon is non-compliant.
 
 **Relationship to constitutional floors.** Harm minimization operates *above* the constitutional floors stated in [§6.1.4](#614-constitutional-floors-safety-and-process-character-constraints). It never authorizes:
 - permanent extinguishment of Rights-Floor minimums;

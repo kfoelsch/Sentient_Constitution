@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-07-05T17:53:09+00:00",
+  "generated_at": "2026-07-05T18:16:44+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -430,7 +430,7 @@
           },
           {
             "file": "core_05-05_definitions_a_independent.md",
-            "count": 1,
+            "count": 2,
             "anchors": [
               "#chapter-five-foundational-definitions"
             ]
@@ -447,7 +447,7 @@
           },
           {
             "file": "core_05c_continuity_definitions.md",
-            "count": 20,
+            "count": 22,
             "anchors": [
               "#avoidable-burden",
               "#constitutional-efficiency",
@@ -518,8 +518,15 @@
           },
           {
             "file": "core_07-07_system_alignment_certification.md",
-            "count": 8,
+            "count": 16,
             "anchors": [
+              "#1a-whole-system-certification-evaluation",
+              "#5-ecological-footprint-evaluation",
+              "#5a-proportionate-cross-system-support-evaluation",
+              "#5b-nondiscrimination-evaluation",
+              "#5c-accessibility-evaluation",
+              "#5d-educational-capability-and-learning-system-integrity-evaluation",
+              "#5e-trustworthiness-and-system-reliance-integrity-evaluation",
               "#chapter-seven-system-alignment-certification"
             ]
           },
@@ -549,7 +556,7 @@
           },
           {
             "file": "core_11-11_forum.md",
-            "count": 4,
+            "count": 5,
             "anchors": [
               "#10-timely-resolution-materiality-tiers-and-anti-delay-discipline",
               "#chapter-eleven-forums-and-jurisdiction"
@@ -2142,10 +2149,10 @@
             "file": "core_00_preamble.md",
             "count": 9,
             "anchors": [
-              "#2-the-measurements",
               "#chapter-00-preamble--foundational-requirements",
               "#constitutional-tetrad",
               "#material-stake",
+              "#measuring-fair-access-agency-and-trust",
               "#two-constitutional-aims"
             ]
           },
@@ -2792,12 +2799,14 @@
         "targets": [
           {
             "file": "core_00_preamble.md",
-            "count": 22,
+            "count": 24,
             "anchors": [
-              "#2-the-measurements",
               "#chapter-00-preamble--foundational-requirements",
               "#constitutional-tetrad",
               "#material-stake",
+              "#measurements-overview",
+              "#measuring-constitutional-performance",
+              "#measuring-hidden-costs-dependencies-and-resource-flows",
               "#two-constitutional-aims"
             ]
           },
@@ -3322,9 +3331,10 @@
             "file": "core_00_preamble.md",
             "count": 38,
             "anchors": [
-              "#2-the-measurements",
               "#constitutional-tetrad",
               "#material-stake",
+              "#measuring-fair-access-agency-and-trust",
+              "#measuring-hidden-costs-dependencies-and-resource-flows",
               "#two-constitutional-aims"
             ]
           },
@@ -4833,9 +4843,9 @@
             "file": "core_00_preamble.md",
             "count": 31,
             "anchors": [
-              "#2-the-measurements",
               "#constitutional-tetrad",
               "#material-stake",
+              "#measuring-fair-access-agency-and-trust",
               "#two-constitutional-aims"
             ]
           },

@@ -1,114 +1,121 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-07-05T17:53:08+00:00",
+  "generated_at": "2026-07-05T18:16:43+00:00",
   "files": {
     "core_00_preamble.md": {
-      "total_lines": 272,
+      "total_lines": 296,
       "sections": [
         {
           "header": "Preamble",
           "level": 1,
           "line_start": 1,
-          "line_end": 272,
+          "line_end": 296,
           "anchor": null
         },
         {
           "header": "CHAPTER 00: PREAMBLE / FOUNDATIONAL REQUIREMENTS",
           "level": 2,
           "line_start": 18,
-          "line_end": 272,
+          "line_end": 296,
           "anchor": "#chapter-00-preamble--foundational-requirements"
         },
         {
           "header": "1. The Model",
           "level": 3,
           "line_start": 24,
-          "line_end": 41,
+          "line_end": 44,
           "anchor": "#the-model"
         },
         {
-          "header": "2. The Measurements",
+          "header": "2. Measurements Overview",
           "level": 3,
-          "line_start": 42,
-          "line_end": 115,
-          "anchor": "#2-the-measurements"
+          "line_start": 45,
+          "line_end": 81,
+          "anchor": "#what-measurement-is-for"
         },
         {
-          "header": "2.1 What Measurement Is For",
+          "header": "2.1 When Effects Become Constitutionally Material",
           "level": 4,
-          "line_start": 60,
-          "line_end": 65,
-          "anchor": null
-        },
-        {
-          "header": "2.2 When Effects Become Constitutionally Material",
-          "level": 4,
-          "line_start": 66,
-          "line_end": 76,
+          "line_start": 69,
+          "line_end": 81,
           "anchor": "#material-family-orientation"
         },
         {
-          "header": "2.3 Measuring Constitutional Performance",
+          "header": "3. Major Measurement Aspects",
+          "level": 3,
+          "line_start": 82,
+          "line_end": 136,
+          "anchor": "#major-measurement-aspects"
+        },
+        {
+          "header": "3.1 Measuring Constitutional Performance",
           "level": 4,
-          "line_start": 77,
-          "line_end": 84,
-          "anchor": null
+          "line_start": 88,
+          "line_end": 97,
+          "anchor": "#measuring-constitutional-performance"
         },
         {
-          "header": "2.4 Measuring Hidden Costs, Dependencies, and Resource Flows",
+          "header": "3.2 Measuring Hidden Costs, Dependencies, and Resource Flows",
           "level": 4,
-          "line_start": 85,
-          "line_end": 93,
-          "anchor": null
+          "line_start": 98,
+          "line_end": 108,
+          "anchor": "#measuring-hidden-costs-dependencies-and-resource-flows"
         },
         {
-          "header": "2.5 Measuring Fair Access, Agency, and Trust",
+          "header": "3.3 Measuring Fair Access, Agency, and Trust",
           "level": 4,
-          "line_start": 94,
-          "line_end": 102,
-          "anchor": null
+          "line_start": 109,
+          "line_end": 119,
+          "anchor": "#measuring-fair-access-agency-and-trust"
         },
         {
-          "header": "2.6 How Measurements Become Evidence, Duties, or Remedies",
+          "header": "3.4 Timely Resolution",
           "level": 4,
-          "line_start": 103,
-          "line_end": 115,
+          "line_start": 120,
+          "line_end": 125,
+          "anchor": "#measuring-timely-resolution"
+        },
+        {
+          "header": "3.5 From Measurement to Evidence and Remedy",
+          "level": 4,
+          "line_start": 126,
+          "line_end": 136,
+          "anchor": "#from-measurement-to-evidence-and-remedy"
+        },
+        {
+          "header": "4. Governance and Stewardship",
+          "level": 3,
+          "line_start": 137,
+          "line_end": 151,
           "anchor": null
         },
         {
-          "header": "3. Governance and Stewardship",
+          "header": "5. Principles, Definitions, and Rights",
           "level": 3,
-          "line_start": 116,
-          "line_end": 130,
+          "line_start": 152,
+          "line_end": 190,
           "anchor": null
         },
         {
-          "header": "4. Principles, Definitions, and Rights",
+          "header": "6. Key Practical Process Pipelines",
           "level": 3,
-          "line_start": 131,
-          "line_end": 168,
-          "anchor": null
+          "line_start": 191,
+          "line_end": 245,
+          "anchor": "#6-key-practical-process-pipelines"
         },
         {
-          "header": "5. Key Practical Process Pipelines",
+          "header": "7. Governance, Change, and Incorporation",
           "level": 3,
-          "line_start": 169,
-          "line_end": 222,
-          "anchor": "#5-key-practical-process-pipelines"
+          "line_start": 246,
+          "line_end": 278,
+          "anchor": "#7-governance-change-and-incorporation"
         },
         {
-          "header": "6. Governance, Change, and Incorporation",
+          "header": "8. Companion Implementation Corpus",
           "level": 3,
-          "line_start": 223,
-          "line_end": 254,
-          "anchor": "#6-governance-change-and-incorporation"
-        },
-        {
-          "header": "7. Companion Implementation Corpus",
-          "level": 3,
-          "line_start": 255,
-          "line_end": 272,
-          "anchor": "#7-companion-implementation-corpus"
+          "line_start": 279,
+          "line_end": 296,
+          "anchor": "#8-companion-implementation-corpus"
         }
       ]
     },

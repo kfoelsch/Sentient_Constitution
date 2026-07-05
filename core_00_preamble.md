@@ -38,32 +38,35 @@ No system may preserve legitimacy through avoidable suffering, persistent neglig
 Those aims must be pursued together, always within the non-negotiable principle constraints and rights protections established in this Constitution. The [**Constitutional Tetrad**](#constitutional-tetrad) governs how that pursuit remains legitimate: **participation**, **oversight**, **accountability**, and **timeliness** scaled to [**material stake**](#material-stake). Binding O/E/C definitions for Tetrad legs and constitutional aims live in Chapter Five: [Participation](core_05p_participation_definitions.md#participation-constitutional), [Oversight](core_05o_oversight_definitions.md#oversight-constitutional), [Accountability](core_05a_accountability_definitions.md#accountability), [Timeliness](core_05a_accountability_definitions.md#timeliness-constitutional), [Flourishing](core_05p_participation_definitions.md#flourishing-constitutional), and [Continuity (Constitutional Aim)](core_05c_continuity_definitions.md#continuity-aim-constitutional).
 
 <a id="2-the-measurements"></a>
+<a id="measurements-overview"></a>
 
-### 2. The Measurements
+<a id="what-measurement-is-for"></a>
+
+### 2. Measurements Overview
 
 Measurement in this Constitution asks a practical question: are systems actually helping sentients flourish and endure, or are they producing harm, delay, exclusion, waste, hidden dependency, or false trust? Measurements are not scores for their own sake. They are tools for seeing whether constitutional duties are real in practice.
-
-Measurement terms orient constitutional review. They do not, by themselves, create every numeric target, funding formula, interface standard, accommodation catalog, technical metric, or assessment design. Binding mechanics arise when Chapter Six, [Chapter Seven](core_07-07_system_alignment_certification.md#chapter-seven-system-alignment-certification), incorporated implementation text, or a valid adoption instrument expressly requires them.
-
-| Measurement family | Plain question | Main constitutional use |
-|---|---|---|
-| Materiality | Is the effect serious enough to trigger stronger duties? | Scales participation, oversight, accountability, and timeliness |
-| Constitutional Efficiency | Are constitutional outcomes actually being delivered? | Prevents proxy metrics from replacing real protection |
-| Avoidable Burden | Is the system wasting sentient time, effort, or shared resources? | Reduces unnecessary friction |
-| Productive Capacity | Can sentients and systems keep producing aligned outcomes? | Protects durable capability without ecological burden-shifting |
-| Ecological Footprint | What environmental burden is being created or shifted? | Supports disclosure, comparison, and stewardship |
-| Dependency and resource flows | Are shared dependencies visible and sustained? | Prevents extraction without traceable return |
-| Fairness, access, and agency | Are affected sentients treated fairly, able to take part, and able to learn? | Guards against exclusion, disparate impact, and hollow access |
-| Trustworthiness | Is reliance justified, or is trust being degraded? | Protects sentients from false confidence and misleading reliance |
-| Timely Resolution | Are disputes resolved while remedy still matters? | Prevents delay from hollowing rights |
-
-#### 2.1 What Measurement Is For
 
 Constitutional measurement must support sustainable, resilient, and compassionate systems that protect the healthy existence of all sentients in alignment with the ecological wellbeing of planet Earth. This duty is expressed in binding form through the [Two Constitutional Aims](#two-constitutional-aims): **Flourishing** and **Continuity**.
 
 Measurements must remain traceable to those aims and to the rights protections established in this Constitution. Raw throughput, utilization, headcount, revenue, latency, or other convenient proxies cannot substitute for constitutional performance where [Proxy Divergence](core_05o_oversight_definitions.md#proxy-divergence) is foreseeable.
 
-#### 2.2 When Effects Become Constitutionally Material
+The table below indexes every constitutional measurement family. Each linked family unpacks in [§3 *Major Measurement Aspects*](#major-measurement-aspects) except [Materiality](#material-family-orientation), which is the threshold gate in [§2.1](#material-family-orientation). Binding definitions live in [Chapter Five](core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) and in the [§3](#major-measurement-aspects) detail subsections.
+
+| Measurement family | Plain question | Main constitutional use |
+|---|---|---|
+| [Materiality](#material-family-orientation) | Is the effect serious enough to trigger stronger duties? | Scales participation, oversight, accountability, and timeliness |
+| [Constitutional Efficiency](#measuring-constitutional-performance) | Are constitutional outcomes actually being delivered? | Prevents proxy metrics from replacing real protection |
+| [Avoidable Burden](#measuring-constitutional-performance) | Is the system wasting sentient time, effort, or shared resources? | Reduces unnecessary friction |
+| [Productive Capacity](#measuring-constitutional-performance) | Can sentients and systems keep producing aligned outcomes? | Protects durable capability without ecological burden-shifting |
+| [Ecological Footprint](#measuring-hidden-costs-dependencies-and-resource-flows) | What environmental burden is being created or shifted? | Supports disclosure, comparison, and stewardship |
+| [Dependency and resource flows](#measuring-hidden-costs-dependencies-and-resource-flows) | Are shared dependencies visible and sustained? | Prevents extraction without traceable return |
+| [Fairness, access, and agency](#measuring-fair-access-agency-and-trust) | Are affected sentients treated fairly, able to take part, and able to learn? | Guards against exclusion, disparate impact, and hollow access |
+| [Trustworthiness](#measuring-fair-access-agency-and-trust) | Is reliance justified, or is trust being degraded? | Protects sentients from false confidence and misleading reliance |
+| [Timely Resolution](#measuring-timely-resolution) | Are disputes resolved while remedy still matters? | Prevents delay from hollowing rights |
+
+Measurement terms orient constitutional review. They do not, by themselves, create every numeric target, funding formula, interface standard, accommodation catalog, technical metric, or assessment design. Binding mechanics arise when Chapter Six, [Chapter Seven](core_07-07_system_alignment_certification.md#chapter-seven-system-alignment-certification), incorporated implementation text, or a valid adoption instrument expressly requires them.
+
+#### 2.1 When Effects Become Constitutionally Material
 
 <a id="material-family-orientation"></a>The [**Constitutional Tetrad**](#constitutional-tetrad) scales to [**material stake**](#material-stake). Chapter Five supplies the formal definitions for when effects are constitutionally serious enough to require stronger duties:
 
@@ -74,46 +77,64 @@ Measurements must remain traceable to those aims and to the rights protections e
 
 *Materially* in body text may invoke this family; capitalized **Material** terms are governed by the Chapter Five definitions.
 
-#### 2.3 Measuring Constitutional Performance
+<a id="major-measurement-aspects"></a>
 
-These measures ask whether systems deliver constitutional outcomes effectively, avoid pointless waste, and preserve the capacity to keep producing aligned results. Performance targets, rewards, and resource measures are valid only to the extent they remain traceable to constitutional outcomes. They cannot substitute for Constitutional Efficiency, [Productive Capacity](core_05c_continuity_definitions.md#productive-capacity-constitutional), or Rights-Floor compliance.
+### 3. Major Measurement Aspects
+
+The subsections below unpack each family in the [overview table](#2-the-measurements). Where [Chapter Seven](core_07-07_system_alignment_certification.md#chapter-seven-system-alignment-certification) expressly requires certification evaluation, the matching evaluation section is noted for traceability.
+
+<a id="measuring-constitutional-performance"></a>
+
+#### 3.1 Measuring Constitutional Performance
+
+These measures ask whether systems deliver constitutional outcomes effectively, avoid pointless waste, and preserve the capacity to keep producing aligned results. Performance targets, rewards, and resource measures are valid only to the extent they remain traceable to constitutional outcomes. They cannot substitute for Constitutional Efficiency, [Productive Capacity](core_05c_continuity_definitions.md#productive-capacity-constitutional), or Rights-Floor compliance. Read with [Chapter Seven §1A Whole-System Certification Evaluation](core_07-07_system_alignment_certification.md#1a-whole-system-certification-evaluation) where whole-system performance is materially in scope.
 
 - [Constitutional Efficiency](core_05c_continuity_definitions.md#constitutional-efficiency) — high-level performance measure for constitutionally aligned outcomes; asks whether a system actually delivers the protections, corrections, and resolutions this Constitution requires, within the time and resource conditions needed for those outcomes to matter; measures performance by real progress toward **Flourishing** and **Continuity**, not by raw speed, volume, profit, or procedural activity alone; related to timeliness under **Article XXIV-C**, but not a fifth leg of the Tetrad
 - [Avoidable Burden](core_05c_continuity_definitions.md#avoidable-burden) — wasted sentient time, attention, effort, or shared resources that cannot be traced to constitutional benefit; such waste is inconsistent with wellbeing and bounded agency
 - [Productive Capacity](core_05c_continuity_definitions.md#productive-capacity-constitutional) — durable ability of sentients and shared systems to achieve constitutionally aligned outcomes, consistent with the non-negotiable principle constraints and rights protections established in this Constitution and with [Sustainability](core_05c_continuity_definitions.md#sustainability) of life-supporting systems; gains that depend on pollution, ecological damage, or shifting environmental harm onto sentients, future generations, or the planet do not qualify; systems must preserve, and where feasible expand, Productive Capacity — and reduce pollution and ecological damage where feasible
 
-#### 2.4 Measuring Hidden Costs, Dependencies, and Resource Flows
+<a id="measuring-hidden-costs-dependencies-and-resource-flows"></a>
+
+#### 3.2 Measuring Hidden Costs, Dependencies, and Resource Flows
 
 These measurements seek to assess current and potential problems in environmental burden, shared dependencies, and resource flows. **Articles I-B**, **IV-A**, and **IV-B** orient disclosure and comparison; they do not, by themselves, impose binding footprint-reduction duties, prescribe allocation formulas or funding models, or require equal splits, fixed percentages, or a single funding model. Under **Article IV-B**, traceable return distinguishes **cross-system system support** from **ecological support**; both are evaluated through [Proportionate Cross-System Support](core_05c_continuity_definitions.md#proportionate-cross-system-support-constitutional). Prioritization of reductions, mapping, allocation, and correction is determined by Chapter Six, [Chapter Seven](core_07-07_system_alignment_certification.md#chapter-seven-system-alignment-certification), incorporated instruments, or other constitutional provisions that expressly require them.
 
-- [Ecological Footprint](core_05c_continuity_definitions.md#ecological-footprint) — attributable environmental flows (energy, materials, emissions, land use, and related burdens) arising from a sentient, system, product, or service across its lifecycle and [Dependency](core_05c_continuity_definitions.md#dependency) relationships; supports honest disclosure, comparison, and informed stewardship under **Article I-B** (*Ecological Footprint and Transparency*) and related transparency obligations
-- **Dependency maps and resource-flow records** — auditable orientation measures for disclosure and comparison under **Article IV-A** (*Dependency Mapping and Resource-Flow Transparency*)
-- **Cross-system system support** — whether documented return flows sustain shared infrastructure and foundational dependencies through continuity of operations, remedy and resilience capacity, and ecosystem reinvestment; under **Article IV-B** (*Cross-System Fairness and Sustainability*); scaled to criticality, dependency asymmetry, substitutability, and long-term [Sustainability](core_05c_continuity_definitions.md#sustainability)
+- [Ecological Footprint](core_05c_continuity_definitions.md#ecological-footprint) — attributable environmental flows (energy, materials, emissions, land use, and related burdens) arising from a sentient, system, product, or service across its lifecycle and [Dependency](core_05c_continuity_definitions.md#dependency) relationships; supports honest disclosure, comparison, and informed stewardship under **Article I-B** (*Ecological Footprint and Transparency*) and related transparency obligations; certification hook: [Chapter Seven §5](core_07-07_system_alignment_certification.md#5-ecological-footprint-evaluation)
+- **Dependency maps and resource-flow records** — auditable orientation measures for disclosure and comparison under **Article IV-A** (*Dependency Mapping and Resource-Flow Transparency*); read with [Dependency](core_05c_continuity_definitions.md#dependency)
+- **Cross-system system support** — whether documented return flows sustain shared infrastructure and foundational dependencies through continuity of operations, remedy and resilience capacity, and ecosystem reinvestment; under **Article IV-B** (*Cross-System Fairness and Sustainability*); scaled to criticality, dependency asymmetry, substitutability, and long-term [Sustainability](core_05c_continuity_definitions.md#sustainability); evaluated through [Proportionate Cross-System Support](core_05c_continuity_definitions.md#proportionate-cross-system-support-constitutional); certification hook: [Chapter Seven §5A](core_07-07_system_alignment_certification.md#5a-proportionate-cross-system-support-evaluation)
 - **Ecological support** — whether documented return includes restoration, mitigation, or lifecycle burden offset where material [Ecological Footprint](core_05c_continuity_definitions.md#ecological-footprint) is imposed
 
-#### 2.5 Measuring Fair Access, Agency, and Trust
+<a id="measuring-fair-access-agency-and-trust"></a>
+
+#### 3.3 Measuring Fair Access, Agency, and Trust
 
 These measures ask whether materially comparable sentients receive fair treatment, real access, learning opportunity, and justified trust in systems that affect them. Binding nondiscrimination, accommodation, education, reliability, or review requirements arise when Chapter Six, [Chapter Seven](core_07-07_system_alignment_certification.md#chapter-seven-system-alignment-certification), or incorporated instruments expressly require them.
 
-- [Substantive Fairness](core_05p_participation_definitions.md#substantive-fairness-constitutional) and [Protected Characteristic Proxying and Disparate Impact](core_05p_participation_definitions.md#protected-characteristic-proxying-and-disparate-impact) — whether materially comparable sentients receive comparable burdens, benefits, protection, and access under **Article V-B** (*Nondiscrimination*), including language, culture, and heritage protections read with [Language, Culture, and Heritage](core_05c_continuity_definitions.md#language-culture-and-heritage-constitutional); **Article V-B** by itself does not prescribe specific inclusion quotas, demographic targets, or particular fairness-algorithm designs
-- [Accessibility](core_05p_participation_definitions.md#accessibility-constitutional) — whether sentients can substantively participate in constitutionally relevant domains under **Article V-G** (*Accessibility*), scaled to [Materiality](core_05o_oversight_definitions.md#materiality-determination) and [Dependency](core_05c_continuity_definitions.md#dependency); **Article V-G** by itself does not prescribe specific accommodation catalogs, interface standards, or universal-design specifications; educational accessibility remains governed by **Article III-B** (*Equal Educational Access*) and is not narrowed here
-- [Educational Agency](core_05p_participation_definitions.md#educational-agency) — whether sentients retain practical capability-building, lifelong-learning, and contestable education autonomy under **Article VI** (*Right to Sentient-Centered Education*), scaled to [Materiality](core_05o_oversight_definitions.md#materiality-determination) and [Dependency](core_05c_continuity_definitions.md#dependency); **Article VI** by itself does not prescribe curricula, credential formats, assessment rubrics, or institutional funding models; equal access, protected-characteristics constraints, and educational accessibility remain governed by **Article III-B** (*Equal Educational Access*) and are not narrowed here
-- [Trustworthiness](core_05c_continuity_definitions.md#trustworthiness) and [Trust Degradation and Misleading Reliance](core_05c_continuity_definitions.md#trust-degradation-and-misleading-reliance) — when a materially impactful system shapes how sentients rely on its claims about behavior, limits, risks, challenge paths, or remedies; whether that reliance is backed by observable, verifiable conduct under **Article XII** (*Right to Reliable and Trustworthy Systems*), so participation and remedy rest on facts rather than claims; scaled to [Materiality](core_05o_oversight_definitions.md#materiality-determination) and [Dependency](core_05c_continuity_definitions.md#dependency)
+- [Substantive Fairness](core_05p_participation_definitions.md#substantive-fairness-constitutional) and [Protected Characteristic Proxying and Disparate Impact](core_05p_participation_definitions.md#protected-characteristic-proxying-and-disparate-impact) — whether materially comparable sentients receive comparable burdens, benefits, protection, and access under **Article V-B** (*Nondiscrimination*), including language, culture, and heritage protections read with [Language, Culture, and Heritage](core_05c_continuity_definitions.md#language-culture-and-heritage-constitutional); **Article V-B** by itself does not prescribe specific inclusion quotas, demographic targets, or particular fairness-algorithm designs; certification hook: [Chapter Seven §5B](core_07-07_system_alignment_certification.md#5b-nondiscrimination-evaluation)
+- [Accessibility](core_05p_participation_definitions.md#accessibility-constitutional) — whether sentients can substantively participate in constitutionally relevant domains under **Article V-G** (*Accessibility*), scaled to [Materiality](core_05o_oversight_definitions.md#materiality-determination) and [Dependency](core_05c_continuity_definitions.md#dependency); **Article V-G** by itself does not prescribe specific accommodation catalogs, interface standards, or universal-design specifications; educational accessibility remains governed by **Article III-B** (*Equal Educational Access*) and is not narrowed here; certification hook: [Chapter Seven §5C](core_07-07_system_alignment_certification.md#5c-accessibility-evaluation)
+- [Educational Agency](core_05p_participation_definitions.md#educational-agency) — whether sentients retain practical capability-building, lifelong-learning, and contestable education autonomy under **Article VI** (*Right to Sentient-Centered Education*), scaled to [Materiality](core_05o_oversight_definitions.md#materiality-determination) and [Dependency](core_05c_continuity_definitions.md#dependency); **Article VI** by itself does not prescribe curricula, credential formats, assessment rubrics, or institutional funding models; equal access, protected-characteristics constraints, and educational accessibility remain governed by **Article III-B** (*Equal Educational Access*) and are not narrowed here; certification hook: [Chapter Seven §5D](core_07-07_system_alignment_certification.md#5d-educational-capability-and-learning-system-integrity-evaluation)
+- [Trustworthiness](core_05c_continuity_definitions.md#trustworthiness) and [Trust Degradation and Misleading Reliance](core_05c_continuity_definitions.md#trust-degradation-and-misleading-reliance) — when a materially impactful system shapes how sentients rely on its claims about behavior, limits, risks, challenge paths, or remedies; whether that reliance is backed by observable, verifiable conduct under **Article XII** (*Right to Reliable and Trustworthy Systems*), so participation and remedy rest on facts rather than claims; scaled to [Materiality](core_05o_oversight_definitions.md#materiality-determination) and [Dependency](core_05c_continuity_definitions.md#dependency); certification hook: [Chapter Seven §5E](core_07-07_system_alignment_certification.md#5e-trustworthiness-and-system-reliance-integrity-evaluation)
 
-#### 2.6 How Measurements Become Evidence, Duties, or Remedies
+<a id="measuring-timely-resolution"></a>
 
-[Timely Resolution](core_05a_accountability_definitions.md#timely-resolution-constitutional) and **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*) spell out what **timeliness** means for disputes and standing-pipeline cases. **Timeliness** also runs through the other three legs: participation, oversight, and accountability must happen in time to be useful, not merely exist on paper. Timeliness can be hollowed on its own - paperwork and deadlines may look fine while the underlying harm never moves.
+#### 3.4 Timely Resolution
 
-Constitutional stewardship starts with naming the problem and the [**material stake**](#material-stake) — how much impact, dependence, and risk are involved. Next, choose the relevant measurement and test real-world effects rather than convenience metrics. Require traceable evidence.
+[Timely Resolution](core_05a_accountability_definitions.md#timely-resolution-constitutional) and **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*) spell out what **timeliness** means for disputes and standing-pipeline cases. **Timeliness** also runs through the other three legs of the [**Constitutional Tetrad**](#constitutional-tetrad): participation, oversight, and accountability must happen in time to be useful, not merely exist on paper. Timeliness can be hollowed on its own — paperwork and deadlines may look fine while the underlying harm never moves. Certification and forum clocks read with [Chapter Eleven §10](core_11-11_forum.md#10-timely-resolution-materiality-tiers-and-anti-delay-discipline).
 
-Where Chapter Six, [Chapter Seven](core_07-07_system_alignment_certification.md#chapter-seven-system-alignment-certification), incorporated instruments, or other constitutional provisions expressly require it, take material constitutional issues into one or more of the paths below. [Section 5](#5-key-practical-process-pipelines) walks through the full chain in detail.
+<a id="from-measurement-to-evidence-and-remedy"></a>
+
+#### 3.5 From Measurement to Evidence and Remedy
+
+Constitutional stewardship starts with naming the problem and the [**material stake**](#material-stake) — how much impact, dependence, and risk are involved. Next, choose the relevant measurement from the [overview table](#2-the-measurements) and test real-world effects rather than convenience metrics. Require traceable evidence.
+
+Where Chapter Six, [Chapter Seven](core_07-07_system_alignment_certification.md#chapter-seven-system-alignment-certification), incorporated instruments, or other constitutional provisions expressly require it, take material constitutional issues into one or more of the paths below. [Section 6](#5-key-practical-process-pipelines) walks through the full chain in detail.
 
 - **System alignment certification** ([Chapter Seven](core_07-07_system_alignment_certification.md#chapter-seven-system-alignment-certification)) — before a high-impact system is trusted at scale, gather and review evidence on whether it is constitutionally safe to rely on right now
 - **Standing records** ([Chapter Eight](core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)) — when conduct or harm matters constitutionally, place verified facts into formal contribution or violation case files; rumors and reputation are not enough
 - **Correction and remedy** ([Chapter Nine §3.11](core_09-09_standing_integration.md#redress-remedy-and-restoration-in-the-standing-model)) — fix the underlying failure and provide proportionate acknowledgment, repair, restoration, or compensation for those harmed
 - **Forum review** ([Chapter Eleven](core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction)) — route disputes and certification challenges through supervised forums that support evidence, lawful transfer, and timely clocks under **Article XXIV-C**
 
-### 3. Governance and Stewardship
+### 4. Governance and Stewardship
 
 Durable legitimacy depends on [Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), and [Trust](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity), and also on proportionate recognition of lawful stewardship, truthful cooperation, and bounded aspiration — not solely on sanction and restraint. Chapter One states this recognition dimension in [Recognition, Reinforcement, and Aspiration](core_01_a_values_principles.md#22-recognition-reinforcement-and-aspiration).
 
@@ -126,11 +147,11 @@ Governance to fulfill the [**Constitutional Tetrad**](#constitutional-tetrad) un
 
 The first two layers may overlap in practice, but stakeholder-level participation in already-authorized systems is not a substitute for constitutional authorization, and constitutional authorization does not erase duties owed under the [Stakeholder System Participation](core_05p_participation_definitions.md#stakeholder-status-emergency-and-participation-weight-cluster) layer.
 
-[Key Practical Process Pipelines](#5-key-practical-process-pipelines) translate these duties into records, certification, verified inputs, classification, forum supervision, correction, and timely remedy. They are how authorized governance is tested, contested, and repaired in practice. They do not authorize governance by themselves; they make governance reviewable, contestable, correctable, and timely. [Section 5](#5-key-practical-process-pipelines) states that pipeline in full.
+[Key Practical Process Pipelines](#5-key-practical-process-pipelines) translate these duties into records, certification, verified inputs, classification, forum supervision, correction, and timely remedy. They are how authorized governance is tested, contested, and repaired in practice. They do not authorize governance by themselves; they make governance reviewable, contestable, correctable, and timely. [Section 6](#5-key-practical-process-pipelines) states that pipeline in full.
 
-### 4. Principles, Definitions, and Rights
+### 5. Principles, Definitions, and Rights
 
-Chapters **One through Six** supply the values, vocabulary, verification machinery, and Rights Floor that everything later must respect — including the [Key Practical Process Pipelines](#5-key-practical-process-pipelines) in Section 5, the governance and change-path chapters in Section 6, and the [companion implementation corpus](#7-companion-implementation-corpus) in Section 7.
+Chapters **One through Six** supply the values, vocabulary, verification machinery, and Rights Floor that everything later must respect — including the [Key Practical Process Pipelines](#5-key-practical-process-pipelines) in Section 6, the governance and change-path chapters in Section 7, and the [companion implementation corpus](#7-companion-implementation-corpus) in Section 8.
 
 Each summary states what the chapter does and what it produces.
 
@@ -166,7 +187,8 @@ Each summary states what the chapter does and what it produces.
 
 <a id="4-key-practical-process-pipelines"></a>
 <a id="5-key-practical-process-pipelines"></a>
-### 5. Key Practical Process Pipelines
+<a id="6-key-practical-process-pipelines"></a>
+### 6. Key Practical Process Pipelines
 
 Chapters Seven through Eleven link into one practical chain. Together they turn constitutional duties into records sentients can check, challenge, and repair — so the [**Constitutional Tetrad**](#constitutional-tetrad), [**Two Constitutional Aims**](#two-constitutional-aims), and Rights Floors stay real in day-to-day life, not only on paper.
 
@@ -220,7 +242,8 @@ The [Chapters Eight–Eleven constitutional process compass](core_08-08_standing
 <a id="4-alignment"></a>
 <a id="how-the-rest-fits-together"></a>
 <a id="6-governance-change-and-incorporation"></a>
-### 6. Governance, Change, and Incorporation
+<a id="7-governance-change-and-incorporation"></a>
+### 7. Governance, Change, and Incorporation
 
 Chapters **Twelve through Sixteen** close the instrument: who may govern legitimately, how the Constitution may lawfully change, and how adopted implementation text stays bound to constitutional source without silent drift.
 
@@ -249,10 +272,11 @@ Each summary states what the chapter does and what it produces.
 **Chapter Sixteen — Incorporation bridge** ([`core_16-16_incorporation.md`](core_16-16_incorporation.md))
 
 - **What it does:** Identifies which implementation files count as binding incorporated text when adopted; pins editions; maintains custody chains; and forbids silent drift between constitutional source and operational detail.
-- **What it produces:** A single incorporation boundary — designated implementation text binds when adopted; companion corpora implement the Constitution without becoming a second source that narrows it. [Section 7](#7-companion-implementation-corpus) summarizes those corpora at a high level.
+- **What it produces:** A single incorporation boundary — designated implementation text binds when adopted; companion corpora implement the Constitution without becoming a second source that narrows it. [Section 8](#7-companion-implementation-corpus) summarizes those corpora at a high level.
 
 <a id="7-companion-implementation-corpus"></a>
-### 7. Companion Implementation Corpus
+<a id="8-companion-implementation-corpus"></a>
+### 8. Companion Implementation Corpus
 
 Beyond the numbered `core_*` chapters, four companion corpora hold adopted **implementation text** — operational detail that makes constitutional duties runnable in practice:
 
