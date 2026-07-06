@@ -49,31 +49,36 @@ Chapters **Two through Five** form the constitutional definition stack; **[CJS](
   - Enforcement, governance, implementation, measurement, audit, and classification mechanics beyond definitional scope belong in later chapters; they MUST comply with [Constitutional Constraints](core_05i_integrative_definitions.md#constitutional-constraint) established here.
 - **Chapter Three** — whether definitions stay intact; what counts as evasion or non-compliance.
 - **Chapter Four** — who must prove what; definition traceability; observability; verification under security limits; who can actually access verification.
-- **Chapter Five** — the shared vocabulary for evaluation and compliance. Terms fall into three groups: stand-alone definitions (section 1), definitions that must be read together (section 2), and definitions built from other definitions (section 3). They are organized across five topic files — [Oversight](core_05o_oversight_definitions.md), [Participation](core_05p_participation_definitions.md), [Accountability](core_05a_accountability_definitions.md), [Continuity](core_05c_continuity_definitions.md), and [Integrative](core_05i_integrative_definitions.md). For reading order and the full map, see [Part A](core_05-05_definitions_a_independent.md#chapter-five-compass-and-definition-map). Sections 2 and 3 each have one canonical home in Chapter Five; automated checks in this repository enforce that boundary. Enforceability: [Supremacy and Enforceability](core_05i_integrative_definitions.md#supremacy-and-enforceability).
+- **Chapter Five** — the shared vocabulary for evaluation and compliance:
+  - Terms fall into three groups:
+    - stand-alone definitions (section 1)
+    - definitions that must be read together (section 2)
+    - definitions built from other definitions (section 3)
+  - Organization and enforceability:
+    - five topic files — [Oversight](core_05o_oversight_definitions.md), [Participation](core_05p_participation_definitions.md), [Accountability](core_05a_accountability_definitions.md), [Continuity](core_05c_continuity_definitions.md), and [Integrative](core_05i_integrative_definitions.md)
+    - enforceability — [Supremacy and Enforceability](core_05i_integrative_definitions.md#supremacy-and-enforceability)
 - **CJS** — operational definitions for cross-implementation terms in [corpus_joint_structure.md](corpus_joint_structure.md), chiefly the [CJS-5 operational cluster library](corpus_joint_structure/cjs_05_cross_implementation_operational_terms.md#cjs-51-constitutional-compass-and-cluster-map); apply Chapter Five canonical homes and MUST NOT redefine them. Domain taxonomies and protocols in **CS**, **CI**, and **CF** follow the same rule.
 
-### 2. Definition Structure Requirement
+<a id="2-requirements-for-definition-structure"></a>
+<a id="2-definition-structure-requirement"></a>
+
+### 2. Requirements for Definition Structure
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: [Chapter Two opening](#chapter-two-definition-structure-and-component-requirements) — O/E/C decomposition and internal alignment requirement.
-- Downstream: [2.4 Definition Integrity Requirement](#24-definition-integrity-requirement); [Chapter Three, section 1 — Definition Integrity and Anti-Evasion Constraints](#1-definition-integrity-and-anti-evasion-constraints); [Chapter Four, section 1 — Exclusive Enforcement and Burden Allocation](#1-exclusive-enforcement-and-burden-allocation); [Chapter Four, section 2 — Compliance Evidence Standard](#2-compliance-evidence-standard).
-- Read with: [Chapter Five Clustered Definitions (Foreseeability Diligence)](core_05o_oversight_definitions.md#foreseeability-diligence) — this section is the governing rule that makes every "reasonably foreseeable" in Chapters Two through Four an explicit invocation of Foreseeability; the phrase is also defined as [Reasonably Foreseeable](core_05o_oversight_definitions.md#reasonably-foreseeable) (Chapter Five, section 3 — Dependent clusters (Truth and Epistemic Integrity cluster; Foreseeability Diligence)).
+- Downstream: [2.4 Definition Integrity Requirement](#24-definition-integrity-requirement); [Chapter Two, 2.4.4 — Internal Consistency Conditions](#24-internal-consistency-conditions); [Chapter Three, section 1 — Definition Integrity and Anti-Evasion Constraints](#1-definition-integrity-and-anti-evasion-constraints); [Chapter Four, section 1 — Exclusive Enforcement and Burden Allocation](#1-exclusive-enforcement-and-burden-allocation); [Chapter Four, section 2 — Compliance Evidence Standard](#2-compliance-evidence-standard).
 
 </details>
 
-<strong><span style="color: #2563eb;">Definition:</span></strong> [Foreseeability](core_05o_oversight_definitions.md#foreseeability-diligence) · [O](core_05o_oversight_definitions.md#foreseeability-diligence) · [E](core_05o_oversight_definitions.md#foreseeability-diligence-e) · [C](core_05o_oversight_definitions.md#foreseeability-diligence-c)
+*In plain terms: each term is defined in three linked parts — what it refers to (O), how to assess it (E), and what must hold in the real world (C). All three must pass together on the same whole system and under the same rules, including when that system is spread across sites, machines, or actors. Satisfying one part while sidestepping or watering down another does not count.*
 
-All definitions MUST be decomposed into single-function components. Each component must perform exactly one of the following roles:
+Every definition MUST be built from separate parts. Each part MUST do exactly one of these jobs:
 - Ontological (O): what the subject of the definition is
 - Evaluative (E): how the subject must be assessed
 - Compliance (C): what must be true in practice
 
-*In plain terms: each term is defined in three linked parts — what it refers to (O), how to assess it (E), and what must hold in the real world (C). All three must pass together on the same whole system and under the same rules, including when that system is spread across sites, machines, or actors. Satisfying one part while sidestepping or watering down another does not count.*
-
-Definitions must be satisfied across full functional systems, including distributed and multi-actor implementations. All components (O, E, C) of a definition must be satisfied jointly and applied to the same functional system scope and evaluation conditions. No component may be satisfied independently in a manner that bypasses or weakens the others.
-
-All uses of “reasonably foreseeable” in **Chapters Two through Four** are governed exclusively by the Foreseeability definitions in Chapter Five, section 3 — Dependent clusters (Truth and Epistemic Integrity cluster; Foreseeability Diligence). They must be explicitly traceable where invoked.
+Every definition MUST be met for the whole system as it actually runs — including systems spread across people, machines, and locations. O, E, and C MUST all pass together, on the same scope and under the same test conditions. Passing one part by carving out pieces of the system, narrowing what counts, or weakening another part does not count.
 
 #### 2.1 Ontological Components (O) — What It Is
 Ontological components define the subject of the definition. Ontological components must not encode evaluation procedures or compliance outcomes. They must:
@@ -87,7 +92,7 @@ Ontological components must reflect functional reality. They must not rely on fo
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: [Chapter Two opening](#chapter-two-definition-structure-and-component-requirements); [2. Definition Structure Requirement](#2-definition-structure-requirement) — E component role within O/E/C decomposition.
+- Upstream: Principles: [Chapter Two opening](#chapter-two-definition-structure-and-component-requirements); [2. Requirements for Definition Structure](#2-definition-structure-requirement) — E component role within O/E/C decomposition.
 - Downstream: [Chapter Three, section 1 — Definition Integrity and Anti-Evasion Constraints](#1-definition-integrity-and-anti-evasion-constraints); [Chapter Four, section 1 — Exclusive Enforcement and Burden Allocation](#1-exclusive-enforcement-and-burden-allocation) — exclusive enforcement pathway for evaluation requirements defined in Chapters Two and Three; [Chapter Four, section 2 — Compliance Evidence Standard](#2-compliance-evidence-standard) — evidence sufficiency for that enforcement.
 - Read with: [Chapter Five Independent Definitions](core_05-05_definitions_a_independent.md#1-interdependent-definitions) — applicable definitions that govern evaluative scope and conditions.
 
@@ -126,17 +131,21 @@ Definitions must be constructed such that:
 - no component can be satisfied through abstraction, decomposition, scoping, or representation that excludes materially relevant system elements, interactions, or effects
 - no implicit assumptions, structural dependencies, or omitted conditions alter or weaken required evaluation scope or compliance outcomes
 
+<a id="24-internal-consistency-conditions"></a>
+
 ##### 2.4.4 Internal Consistency Conditions
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: [2.4 Definition Integrity Requirement](#24-definition-integrity-requirement); [2. Definition Structure Requirement](#2-definition-structure-requirement) governing-rule for "reasonably foreseeable" uses in Chapters Two through Four.
-- Downstream: [Chapter Three, section 2 — Non-Compliance from Observable System Behavior](#2-non-compliance-from-observable-system-behavior); [Chapter Four, section 3 — Definition Traceability Requirement](#3-definition-traceability-requirement).
-- Read with: [Chapter Five Clustered Definitions (Foreseeability Diligence)](core_05o_oversight_definitions.md#foreseeability-diligence) for the operative meaning of "reasonably foreseeable" conditions, including [Reasonably Foreseeable](core_05o_oversight_definitions.md#reasonably-foreseeable).
+- Upstream: Principles: [2.4 Definition Integrity Requirement](#24-definition-integrity-requirement); [2. Requirements for Definition Structure](#2-definition-structure-requirement).
+- Downstream: [Chapter Three, section 2 — Non-Compliance from Observable System Behavior](#2-non-compliance-from-observable-system-behavior); [Chapter Four, section 3 — Definition Traceability Requirement](#3-definition-traceability-requirement); Chapter Four sections **2.1**, **4**, **5**, and **6** where “reasonably foreseeable” appears without an inline Chapter Five pointer.
+- Read with: [Chapter Five Clustered Definitions (Foreseeability Diligence)](core_05o_oversight_definitions.md#foreseeability-diligence) — governing rule for every “reasonably foreseeable” in Chapters Two through Four; operative meaning in [Reasonably Foreseeable](core_05o_oversight_definitions.md#reasonably-foreseeable) (Chapter Five, section 3 — Dependent clusters (Truth and Epistemic Integrity cluster; Foreseeability Diligence)).
 
 </details>
 
 <strong><span style="color: #2563eb;">Definition:</span></strong> [Foreseeability](core_05o_oversight_definitions.md#foreseeability-diligence) · [O](core_05o_oversight_definitions.md#foreseeability-diligence) · [E](core_05o_oversight_definitions.md#foreseeability-diligence-e) · [C](core_05o_oversight_definitions.md#foreseeability-diligence-c)
+
+All uses of “reasonably foreseeable” in **Chapters Two through Four** are governed exclusively by the Foreseeability definitions in Chapter Five, section 3 — Dependent clusters (Truth and Epistemic Integrity cluster; Foreseeability Diligence). They must be explicitly traceable where invoked.
 
 Internal consistency must hold across:
 - full functional system conditions; those conditions include normal, degraded, adversarial, temporal, and cross-system interaction contexts where materially relevant.
@@ -174,7 +183,7 @@ If an interpretation would weaken safeguards, shrink what must be evaluated, or 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: [Chapter Two, section 2 — Definition Structure Requirement](#2-definition-structure-requirement); [Chapter Two, 2.4 Definition Integrity Requirement](#24-definition-integrity-requirement).
+- Upstream: Principles: [Chapter Two, section 2 — Requirements for Definition Structure](#2-definition-structure-requirement); [Chapter Two, 2.4 Definition Integrity Requirement](#24-definition-integrity-requirement).
 - Downstream: [Chapter Three, section 2 — Non-Compliance from Observable System Behavior](#2-non-compliance-from-observable-system-behavior); [Chapter Four, section 2 — Compliance Evidence Standard](#2-compliance-evidence-standard); [Chapter Four, section 3 — Definition Traceability Requirement](#3-definition-traceability-requirement); [Chapter Eight — Contribution, Violation, and Standing Model](core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model).
 - Read with: [Chapter One, section 4.2 — Truth (Epistemic Integrity Constraint)](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint) — interpretation based on observable behavior rather than declared structure or intent operationalizes the constitutional truth constraint at the definition-integrity layer.
 
@@ -217,7 +226,7 @@ This section does not define evaluation standards, evidence sufficiency, or burd
 
 - Upstream: Principles: [Chapter Three, section 1 — Definition Integrity and Anti-Evasion Constraints](#1-definition-integrity-and-anti-evasion-constraints); [Chapter Two, 2.4 Definition Integrity Requirement](#24-definition-integrity-requirement).
 - Downstream: the non-reductive, reductive, cross-component, cross-system, temporal, and uncertainty integrity constraints in sections [2.1](#21-evasion-is-non-compliance) through [2.7](#27-uncertainty-integrity-and-non-exploitation-constraint) of this chapter; [Chapter Four, section 4 — Observability of Traceability Requirement](#4-observability-of-traceability-requirement); [Chapter Eight — Contribution, Violation, and Standing Model](core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model).
-- Read with: [Chapter Two, section 2 — Definition Structure Requirement](#2-definition-structure-requirement) for the joint-satisfaction rule under full functional system conditions; [Chapter Four, 2.1 — Verification requirements for evidence](#21-verification-requirements-for-evidence) — observable outcomes govern declared representations at the evidence layer.
+- Read with: [Chapter Two, section 2 — Requirements for Definition Structure](#2-definition-structure-requirement) for the joint-satisfaction rule under full functional system conditions; [Chapter Four, 2.1 — Verification requirements for evidence](#21-verification-requirements-for-evidence) — observable outcomes govern declared representations at the evidence layer.
 
 </details>
 
@@ -373,7 +382,7 @@ Section **7** is a **non-operative boundary pointer**. Chapter Four (§§1–6) 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: [Chapter Four, section 1 — Exclusive Enforcement and Burden Allocation](#1-exclusive-enforcement-and-burden-allocation); [Chapter Two, section 2 — Definition Structure Requirement](#2-definition-structure-requirement); [Chapter Two, 2.4 Definition Integrity Requirement](#24-definition-integrity-requirement).
+- Upstream: Principles: [Chapter Four, section 1 — Exclusive Enforcement and Burden Allocation](#1-exclusive-enforcement-and-burden-allocation); [Chapter Two, section 2 — Requirements for Definition Structure](#2-definition-structure-requirement); [Chapter Two, 2.4 Definition Integrity Requirement](#24-definition-integrity-requirement).
 - Downstream: [2.4 Disqualifying evidence; uncertainty; default rule](#24-disqualifying-evidence-uncertainty-default-rule); [Chapter Four, section 3 — Definition Traceability Requirement](#3-definition-traceability-requirement); [Chapter Four, section 4 — Observability of Traceability Requirement](#4-observability-of-traceability-requirement); [Chapter Four, section 8 — Verification Accessibility and Feasibility Constraint](#6-verification-accessibility-and-feasibility-constraint).
 - Read with: [Chapter Five, section 3 — Dependent clusters (Truth and Epistemic Integrity; Foreseeability Diligence)](core_05o_oversight_definitions.md#foreseeability-diligence) — foreseeable conditions include adversarial, strategic, scaled, repeated, and misuse contexts where relevant.
 
