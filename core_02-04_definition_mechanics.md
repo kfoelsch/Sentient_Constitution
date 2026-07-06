@@ -78,7 +78,7 @@ Every definition MUST be built from separate parts. Each part MUST do exactly on
 - Evaluative (E): how the subject must be assessed
 - Compliance (C): what must be true in practice
 
-Every definition MUST be met for the whole system as it actually runs — including systems spread across people, machines, and locations. O, E, and C MUST all pass together, on the same scope and under the same test conditions. Passing one part by carving out pieces of the system, narrowing what counts, or weakening another part does not count.
+Every definition MUST be met for the whole system as it actually runs — including systems spread across sentients, machines, and locations. O, E, and C MUST all pass together, on the same scope and under the same test conditions. Passing one part by carving out pieces of the system, narrowing what counts, or weakening another part does not count.
 
 #### 2.1 Ontological Components (O) — What It Is
 Ontological components define the subject of the definition. Ontological components must not encode evaluation procedures or compliance outcomes. They must:

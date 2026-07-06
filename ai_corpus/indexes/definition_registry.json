@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/definition_registry.schema.json",
-  "generated_at": "2026-07-06T21:09:02+00:00",
+  "generated_at": "2026-07-06T21:20:34+00:00",
   "source": "authoritative Chapter Five core files and Chapter One principle-layer anchors (preamble + Part A)",
   "definition_count": 226,
   "definitions": [
@@ -448,7 +448,7 @@
       "source_file": "core_05g_continuity_aim.md",
       "anchor": "#continuity-aim-constitutional",
       "line_start": 33,
-      "line_end": 49,
+      "line_end": 44,
       "category": "semi_independent",
       "cluster_membership": null
     },

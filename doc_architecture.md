@@ -200,7 +200,7 @@ Not every definition requires all three tiers. Independent building blocks may d
 
 1. Pin tier schema on pilot and wave entries — see [measurement_tier_seeds.json](tools/architecture/measurement_tier_seeds.json).
 2. Thin Ch00 §3 bullet enumerations into index links where definition entries carry tiers (§3.1–§3.8 complete for approved waves).
-3. Remove redundant measurement rollups from aim heads once constituent definitions own tiers.
+3. Remove redundant measurement rollups from aim heads once constituent definitions own tiers — **complete** (Flourishing and Continuity aim files link-only; crosswalk split-placement notes tier-aligned).
 4. `make ch5-measurement-tier-audit` — enforces `*Measurements:*` and tier-aligned **E**/**C** for all `status: approved` seeds; wired in `make regression`.
 5. `make ch5-measurement-coverage-audit` — validates seed ↔ hierarchy `ch00_measurement` sync and bidirectional Ch00 §3.1–§3.8 owner links; wired in `make regression`.
 6. `make measurement-rollout-status` — emits [measurement_rollout_status.md](doc_architecture/generated/measurement_rollout_status.md); runs after `make hierarchy-map`.
