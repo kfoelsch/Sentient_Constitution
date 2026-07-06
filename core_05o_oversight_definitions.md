@@ -737,6 +737,6 @@ This nested sub-block is the joint-invocation home for **Foreseeability Diligenc
 
 ---
 
-**Previous file:** [core_05-05_definitions_a_independent.md](core_05-05_definitions_a_independent.md)
+**Previous file:** [core_05f_flourishing_aim.md](core_05f_flourishing_aim.md)
 
 **Next file:** [core_05p_participation_definitions.md](core_05p_participation_definitions.md)

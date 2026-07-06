@@ -126,7 +126,7 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 - [Fair Compensation](core_05c_continuity_definitions.md#fair-compensation-constitutional)
 - [Family and Care Relationships](core_05p_participation_definitions.md#family-and-care-relationships-constitutional)
 - [Feasibility](core_05a_accountability_definitions.md#feasibility)
-- [Flourishing](core_05p_participation_definitions.md#flourishing-constitutional)
+- [Flourishing](core_05f_flourishing_aim.md#flourishing-constitutional)
 - [Force Majeure](core_05a_accountability_definitions.md#force-majeure-constitutional)
 - [Foreseeability Burden](core_05o_oversight_definitions.md#foreseeability-burden)
 - [Foreseeability Diligence](core_05o_oversight_definitions.md#foreseeability-diligence)
@@ -319,12 +319,12 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 
 <br>
 
-Use this compass before invoking any Chapter Five definition. Chapter Five supplies canonical O/E/C homes for Tetrad legs ([Participation](core_05p_participation_definitions.md#participation-constitutional), [Oversight](core_05o_oversight_definitions.md#oversight-constitutional), [Accountability](core_05a_accountability_definitions.md#accountability), [Timeliness](core_05a_accountability_definitions.md#timeliness-constitutional)) and constitutional aims ([Flourishing](core_05p_participation_definitions.md#flourishing-constitutional), [Continuity (Constitutional Aim)](core_05c_continuity_definitions.md#continuity-aim-constitutional)); it does not replace the [Constitutional Tetrad](../core_00_preamble.md#constitutional-tetrad), [Two Constitutional Aims](../core_00_preamble.md#two-constitutional-aims), or [material stake](../core_00_preamble.md#material-stake) principle-layer glosses in [Chapter 00 §1](../core_00_preamble.md#the-model).
+Use this compass before invoking any Chapter Five definition. Chapter Five supplies canonical O/E/C homes for Tetrad legs ([Participation](core_05p_participation_definitions.md#participation-constitutional), [Oversight](core_05o_oversight_definitions.md#oversight-constitutional), [Accountability](core_05a_accountability_definitions.md#accountability), [Timeliness](core_05a_accountability_definitions.md#timeliness-constitutional)) and constitutional aims ([Flourishing](core_05f_flourishing_aim.md#flourishing-constitutional), [Continuity (Constitutional Aim)](core_05c_continuity_definitions.md#continuity-aim-constitutional)); it does not replace the [Constitutional Tetrad](../core_00_preamble.md#constitutional-tetrad), [Two Constitutional Aims](../core_00_preamble.md#two-constitutional-aims), or [material stake](../core_00_preamble.md#material-stake) principle-layer glosses in [Chapter 00 §1](../core_00_preamble.md#the-model).
 
 **Reading order**
 
 1. This compass and the constitutional bands below — or the [measurement crosswalk](#chapter-five-measurement-crosswalk) when arriving from [Chapter Zero §2–§3](../core_00_preamble.md#measurements-overview).
-2. The band file for the relevant Tetrad leg, **Continuity** band, or **Integrative** band.
+2. The [Flourishing aim file](core_05f_flourishing_aim.md#flourishing-aim-decomposition) when routing by **Flourishing** constitutional aim; the band file for the relevant Tetrad leg, **Continuity** band (for the Continuity aim head), or **Integrative** band otherwise.
 3. Individual definition O/E/C entries; dependent clusters per admission scope.
 4. Where a finding is **non-compliant**, optional [Non-Compliance Finding Profile](core_05a_accountability_definitions.md#non-compliance-finding-profile) metadata per cluster map.
 
@@ -332,6 +332,7 @@ Use this compass before invoking any Chapter Five definition. Chapter Five suppl
 
 | Band | File | §3 cluster range |
 |---|---|---|
+| **Flourishing aim** | [core_05f_flourishing_aim.md](core_05f_flourishing_aim.md) | aim hierarchy map only — leaf definitions in band files |
 | **Oversight leg** | [core_05o_oversight_definitions.md](core_05o_oversight_definitions.md) | **Chapter One §8.2–§3.3** |
 | **Participation leg** | [core_05p_participation_definitions.md](core_05p_participation_definitions.md) | **§3.5–§3.7** |
 | **Accountability leg** | [core_05a_accountability_definitions.md](core_05a_accountability_definitions.md) | **§3.8–Chapter One §8.11** |
@@ -350,7 +351,7 @@ Use this compass before invoking any Chapter Five definition. Chapter Five suppl
 | Ch00 category | Plain question | Chapter Five band homes | Split-placement notes |
 |---|---|---|---|
 | [§3.1 Threshold and scaling](../core_00_preamble.md#measuring-threshold-and-scaling) | Is the effect serious enough to trigger stronger duties? | [Oversight](core_05o_oversight_definitions.md) | [Material](core_05o_oversight_definitions.md#material), [Material Impact](core_05o_oversight_definitions.md#material-impact), [Material Risk](core_05o_oversight_definitions.md#material-risk), [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination), and related semi-independent cluster |
-| [§3.2 Flourishing](../core_00_preamble.md#measuring-flourishing) | Are sentients sustained in life, safety, and access to essentials? | [Participation](core_05p_participation_definitions.md), [Continuity](core_05c_continuity_definitions.md), [Accountability](core_05a_accountability_definitions.md) | **Flourishing** is a constitutional **aim**, not a Tetrad leg — terms split by substantive owner: [Flourishing](core_05p_participation_definitions.md#flourishing-constitutional), [Wellbeing](core_05c_continuity_definitions.md#wellbeing), [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint), survival-floor terms, [Harm](core_05a_accountability_definitions.md#harm) |
+| [§3.2 Flourishing](../core_00_preamble.md#measuring-flourishing) | Are sentients sustained in life, safety, and access to essentials? | [Flourishing aim](core_05f_flourishing_aim.md), [Participation](core_05p_participation_definitions.md), [Continuity](core_05c_continuity_definitions.md), [Accountability](core_05a_accountability_definitions.md) | **Flourishing** is a constitutional **aim**, not a Tetrad leg — [aim decomposition map](core_05f_flourishing_aim.md#flourishing-aim-decomposition); terms split by substantive owner: [Flourishing](core_05f_flourishing_aim.md#flourishing-constitutional), [Wellbeing](core_05c_continuity_definitions.md#wellbeing), [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint), survival-floor terms, [Harm](core_05a_accountability_definitions.md#harm) |
 | [§3.3 Continuity](../core_00_preamble.md#measuring-continuity) | Can sentients and systems endure — ecologically, dependably, and across failure? | [Continuity](core_05c_continuity_definitions.md) | Ecological footprint, dependency, reversibility, cascading failure, cross-system support, and related clusters |
 | [§3.4 Participation](../core_00_preamble.md#measuring-participation) | Can affected sentients take part fairly — voice, access, learning, and privacy? | [Participation](core_05p_participation_definitions.md), [Continuity](core_05c_continuity_definitions.md) | Fairness, access, and agency terms in **Participation** band; [Privacy (Informational)](core_05c_continuity_definitions.md#privacy-informational-cluster) cluster in **Continuity** band because privacy is distributed across rights articles |
 | [§3.5 Oversight](../core_00_preamble.md#measuring-oversight) | Can sentients see, verify, and rely on what systems represent? | [Oversight](core_05o_oversight_definitions.md), [Continuity](core_05c_continuity_definitions.md) | Truth and epistemic integrity in **Oversight** band; [Trustworthiness](core_05c_continuity_definitions.md#trustworthiness) and [Trust Degradation and Misleading Reliance](core_05c_continuity_definitions.md#trust-degradation-and-misleading-reliance) in **Continuity** band (cluster 3.15) |
@@ -422,4 +423,4 @@ Classification as an Independent or Semi-independent definition does not overrid
 
 **Previous file:** [core_02-04_definition_mechanics.md](core_02-04_definition_mechanics.md)
 
-**Next file:** [core_05o_oversight_definitions.md](core_05o_oversight_definitions.md)
+**Next file:** [core_05f_flourishing_aim.md](core_05f_flourishing_aim.md)

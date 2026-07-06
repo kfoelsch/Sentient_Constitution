@@ -27,7 +27,7 @@
 <br>
 
 
-This band holds **Participation**-leg definitions: accessibility, agency, consent, assembly, stakeholder voice, self-determination, and comparable participation floors. Primary constitutional aim: [Flourishing](../core_00_preamble.md#flourishing).
+This band holds **Participation**-leg definitions: accessibility, agency, consent, assembly, stakeholder voice, self-determination, and comparable participation floors. Primary constitutional aim: [Flourishing](core_05f_flourishing_aim.md#flourishing-constitutional) (canonical aim home and hierarchy map in the Flourishing aim file).
 
 | Cluster | Section |
 |---|---|
@@ -238,7 +238,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Constitutional Tetrad](../core_00_preamble.md#constitutional-tetrad) — **participation** leg; [material stake](../core_00_preamble.md#material-stake) scaling; [Flourishing](../core_00_preamble.md#flourishing) aim (primary).
+- Upstream: [Constitutional Tetrad](../core_00_preamble.md#constitutional-tetrad) — **participation** leg; [material stake](../core_00_preamble.md#material-stake) scaling; [Flourishing](core_05f_flourishing_aim.md#flourishing-constitutional) aim (primary).
 - Upstream: Principles: [Chapter One §2.1 Fairness](core_01_a_values_principles.md#21-fairness) — fairness conditions that make participation meaningful under [Chapter One §8.1.1 Access and Opportunity](core_01_a_values_principles.md#311-access-and-opportunity) and [Chapter One §8.1.2 Fair Treatment](core_01_a_values_principles.md#312-fair-treatment).
 - Downstream: Principles: [Chapter 00 §1 The Model](../core_00_preamble.md#the-model); [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency); [§9 Stewardship and Distributed Understanding](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding); [Stakeholder System Participation](core_05p_participation_definitions.md#stakeholder-status-emergency-and-participation-weight-cluster) where the stakeholder layer applies.
 - Read with: [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency), [Contestability](core_05a_accountability_definitions.md#contestability) (participation/accountability boundary), [Accessibility](core_05p_participation_definitions.md#accessibility-constitutional), [Substantive Fairness](core_05p_participation_definitions.md#substantive-fairness-constitutional), [Binding Stakeholder Choice](core_05p_participation_definitions.md#binding-stakeholder-choice-cluster), [Timeliness](core_05a_accountability_definitions.md#timeliness-constitutional) (timely participation), and [Classification-Scaled Governance](core_05o_oversight_definitions.md#classification-scaled-governance).
@@ -252,30 +252,6 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 - E: Distinguish substantive from symbolic participation. Assess whether affected parties can actually be heard, represented, challenge decisions, and reach roles with real effect under normal, degraded, and adversarial conditions. Read with [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency), [Contestability](core_05a_accountability_definitions.md#contestability), [Accessibility](core_05p_participation_definitions.md#accessibility-constitutional), [Stakeholder Participation Weight](core_05p_participation_definitions.md#stakeholder-participation-weight), and [System Capture](core_05c_continuity_definitions.md#system-capture). Participation may be hollowed where forms exist but consequential influence does not move.
 <a id="participation-constitutional-c"></a>
 - C: Non-compliant: structural exclusion; token consultation substituting for consequential voice; contest pathways that are inaccessible, captured, or ineffective where participation is materially required; role access blocked by arbitrary gatekeeping disproportionate to [material stake](../core_00_preamble.md#material-stake); participation capacity degraded by [Coercion and Manipulation](core_05p_participation_definitions.md#coercion-and-manipulation-constitutional) or [System Capture](core_05c_continuity_definitions.md#system-capture) without justified exception under [Necessity](core_05a_accountability_definitions.md#necessity) and [Proportionality](core_05a_accountability_definitions.md#proportionality).
-
----
-
-<a id="flourishing-constitutional"></a>
-
----
-#### Flourishing
-
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Upstream: [Two Constitutional Aims](../core_00_preamble.md#two-constitutional-aims); principle-layer gloss at [Chapter 00 §1](../core_00_preamble.md#flourishing).
-- Downstream: Principles: [§3 Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing); [§4 Non-Negotiable Constraints: Safety and Truth](core_01_a_values_principles.md#3-non-negotiable-constraints-safety-and-truth); [§5 Trust](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity); Participation, Oversight, and Accountability bands where **Flourishing** is primary aim per [Chapter Five compass](core_05-05_definitions_a_independent.md#chapter-five-compass-and-definition-map).
-- Read with: [Wellbeing](core_05c_continuity_definitions.md#wellbeing), [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint), [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint), [Trustworthiness](core_05c_continuity_definitions.md#trustworthiness), [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency), and [Continuity (Constitutional Aim)](core_05c_continuity_definitions.md#continuity-aim-constitutional) (paired aim — neither may be pursued at the expense of the other).
-
-</details>
-
-<br>
-
-- O: The constitutional aim of preserving and advancing sentient wellbeing through systems that sustain [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint), [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint), [Trustworthiness](core_05c_continuity_definitions.md#trustworthiness), and [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency) — evaluated under the [Constitutional Tetrad](../core_00_preamble.md#constitutional-tetrad) and scaled to [material stake](../core_00_preamble.md#material-stake). Does not authorize wellbeing claims that rest on harm, deception, captured governance, or proxy metrics divorced from lived constitutional outcomes.
-<a id="flourishing-constitutional-e"></a>
-- E: Trace claimed flourishing effects to constituent conditions and to sentient-experienced outcomes under Chapter Four discipline. Distinguish proxy throughput, engagement metrics, or institutional self-report from durable wellbeing under [Wellbeing](core_05c_continuity_definitions.md#wellbeing), [Substantive Fairness](core_05p_participation_definitions.md#substantive-fairness-constitutional), and Rights-Floor protections. Read paired with [Continuity (Constitutional Aim)](core_05c_continuity_definitions.md#continuity-aim-constitutional) — short-horizon gains that foreseeably degrade long-horizon stability, resilience, or ecological integrity fail **Flourishing** when evaluated as an integrated aim pair.
-<a id="flourishing-constitutional-c"></a>
-- C: Non-compliant: treating **Flourishing** as a license for harm or deception; maximizing one constituent while hollowing truth, safety, trustworthiness, or agency; flourishing claims untraceable to constitutional outcomes; pursuit of **Flourishing** that materially defeats the [Continuity (Constitutional Aim)](core_05c_continuity_definitions.md#continuity-aim-constitutional) without express interaction-rule permission under [Chapter One §9](core_01_b_interaction_interpretation.md#6-process-conflict-resolution).
 
 ---
 

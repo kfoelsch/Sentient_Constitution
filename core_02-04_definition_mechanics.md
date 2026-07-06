@@ -18,7 +18,7 @@
 > - **Chapter Two (this file)** — O/E/C definition structure and component alignment ([§1 Purpose and Role](#1-purpose-and-role)).
 > - **Chapter Three** (this file) — definition integrity, evasion, and non-compliance.
 > - **Chapter Four** (this file) — burden of proof, definition traceability, observability, verification under security limits, and verification accessibility.
-> - **Chapter Five** — shared vocabulary for evaluation and compliance (stand-alone, grouped, and package definitions in sections 1–3 across the five topic files: [Oversight](core_05o_oversight_definitions.md), [Participation](core_05p_participation_definitions.md), [Accountability](core_05a_accountability_definitions.md), [Continuity](core_05c_continuity_definitions.md), [Integrative](core_05i_integrative_definitions.md)); reading order and map in [Part A](core_05-05_definitions_a_independent.md#chapter-five-compass-and-definition-map).
+> - **Chapter Five** — shared vocabulary for evaluation and compliance (stand-alone, grouped, and package definitions in sections 1–3 across the five Tetrad band files and constitutional aim files: [Flourishing aim](core_05f_flourishing_aim.md), [Oversight](core_05o_oversight_definitions.md), [Participation](core_05p_participation_definitions.md), [Accountability](core_05a_accountability_definitions.md), [Continuity](core_05c_continuity_definitions.md), [Integrative](core_05i_integrative_definitions.md)); reading order and map in [Part A](core_05-05_definitions_a_independent.md#chapter-five-compass-and-definition-map).
 > - **CJS** — operational definitions for cross-implementation terms ([CJS-5](corpus_joint_structure/cjs_05_cross_implementation_operational_terms.md#cjs-51-constitutional-compass-and-cluster-map) operational cluster library); apply Chapter Five canonical homes—do not redefine them. Domain taxonomies and protocols in **CS**, **CI**, and **CF** follow the same rule.
 >
 > Additional navigation:
@@ -55,7 +55,7 @@ Chapters **Two through Five** form the constitutional definition stack; **[CJS](
     - definitions that must be read together (section 2)
     - definitions built from other definitions (section 3)
   - Organization and enforceability:
-    - five topic files — [Oversight](core_05o_oversight_definitions.md), [Participation](core_05p_participation_definitions.md), [Accountability](core_05a_accountability_definitions.md), [Continuity](core_05c_continuity_definitions.md), and [Integrative](core_05i_integrative_definitions.md)
+    - five Tetrad band files — [Oversight](core_05o_oversight_definitions.md), [Participation](core_05p_participation_definitions.md), [Accountability](core_05a_accountability_definitions.md), [Continuity](core_05c_continuity_definitions.md), and [Integrative](core_05i_integrative_definitions.md); constitutional aim files — [Flourishing aim](core_05f_flourishing_aim.md)
     - enforceability — [Supremacy and Enforceability](core_05i_integrative_definitions.md#supremacy-and-enforceability)
 - **CJS** — operational definitions for cross-implementation terms in [corpus_joint_structure.md](corpus_joint_structure.md), chiefly the [CJS-5 operational cluster library](corpus_joint_structure/cjs_05_cross_implementation_operational_terms.md#cjs-51-constitutional-compass-and-cluster-map); apply Chapter Five canonical homes and MUST NOT redefine them. Domain taxonomies and protocols in **CS**, **CI**, and **CF** follow the same rule.
 

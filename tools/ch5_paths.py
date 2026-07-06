@@ -11,6 +11,8 @@ CH5_BAND_A = "core_05a_accountability_definitions.md"
 CH5_BAND_C = "core_05c_continuity_definitions.md"
 CH5_BAND_I = "core_05i_integrative_definitions.md"
 
+CH5_AIM_F = "core_05f_flourishing_aim.md"
+
 CH5_BANDS: tuple[str, ...] = (
     CH5_BAND_O,
     CH5_BAND_P,
@@ -19,7 +21,11 @@ CH5_BANDS: tuple[str, ...] = (
     CH5_BAND_I,
 )
 
-CH5_ALL: tuple[str, ...] = (CH5_INDEX, *CH5_BANDS)
+CH5_AIMS: tuple[str, ...] = (
+    CH5_AIM_F,
+)
+
+CH5_ALL: tuple[str, ...] = (CH5_INDEX, *CH5_AIMS, *CH5_BANDS)
 
 # Retired paths (archive only — do not use in live corpus)
 CH5_PART_B_RETIRED = "core_05-05_definitions_b_semi_independent.md"
