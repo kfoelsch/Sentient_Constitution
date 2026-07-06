@@ -2,7 +2,7 @@
 
 Auto-generated. Do not edit by hand.
 
-Generated: 2026-07-06T23:05:21+00:00
+Generated: 2026-07-06T23:24:30+00:00
 
 Scopes **Chapter Five** band and aim files. Classifies disclaimer / negative-scope clauses on **O**, **E**, and **C** components using [tools/architecture/disclaimer_themes.json](../tools/architecture/disclaimer_themes.json).
 
@@ -10,52 +10,52 @@ Editorial model: **safe redundancy** = one canonical exposition + pointers (see 
 
 ## Summary
 
-- **Total hits (actionable):** 128
-- **Thin candidates:** 42
-- **Review candidates:** 22
-- **Keep (local boundary + canonical homes):** 64
+- **Total hits (actionable):** 115
+- **Thin candidates:** 43
+- **Review candidates:** 9
+- **Keep (local boundary + canonical homes):** 63
 - **Canonical exposition (do not thin):** 10
-- **Same-theme duplicates across O/E/C (terms):** 16
+- **Same-theme duplicates across O/E/C (terms):** 15
 
 ### By recommended action
 
 | Action | Count | Meaning |
 | --- | ---: | --- |
-| thin | 42 | Replace with Trace read-with / single C line |
-| review | 22 | Triage per term — may stay local |
-| keep | 54 | Term-pair or jurisdictional — do not fold |
+| thin | 43 | Replace with Trace read-with / single C line |
+| review | 9 | Triage per term — may stay local |
+| keep | 53 | Term-pair or jurisdictional — do not fold |
 | canonical | 10 | Canonical home for theme — retain |
 
 ### By O/E/C component
 
 | Component | Hits |
 | --- | ---: |
-| O | 70 |
-| E | 36 |
+| O | 61 |
+| E | 32 |
 | C | 22 |
 
 ### By source file
 
 | File | Hits |
 | --- | ---: |
-| core_05p_participation_definitions.md | 47 |
-| core_05a_accountability_definitions.md | 31 |
+| core_05p_participation_definitions.md | 42 |
 | core_05c_continuity_definitions.md | 29 |
-| core_05i_integrative_definitions.md | 11 |
-| core_05o_oversight_definitions.md | 8 |
+| core_05a_accountability_definitions.md | 26 |
+| core_05i_integrative_definitions.md | 10 |
+| core_05o_oversight_definitions.md | 6 |
 | core_05g_continuity_aim.md | 2 |
 
 ### By theme family
 
 | Theme | Hits | Default action | Canonical home |
 | --- | ---: | --- | --- |
-| Rights-Floor jurisdiction / does not displace Ch6 | 43 | keep | core_06-06_rights_part_*.md; Trace routing |
+| Rights-Floor jurisdiction / does not displace Ch6 | 42 | keep | core_06-06_rights_part_*.md; Trace routing |
 | Proxy / engagement / self-report substitution | 20 | thin | core_05o_oversight_definitions.md Proxy Divergence; core_01_c_stewardship_capac… |
 | Governance layer separation (authorization vs participation) | 19 | thin | core_00_preamble.md §4–§5; core_05i_integrative_definitions.md Constitutional C… |
-| Term-specific scope exclusion (does not include/govern/extend) | 12 | review | (local O boundary) |
 | Neighbor term disambiguation (distinct from …) | 11 | keep | (local term pair — no global fold) |
-| Anti-formalism / label-gaming evasion block | 10 | review | core_02-04_definition_mechanics.md Chapter Three §2; term-specific C where gamed |
-| Pointer / does not restate elsewhere | 6 | thin | Trace widget links only |
+| Pointer / does not restate elsewhere | 7 | thin | Trace widget links only |
+| Anti-formalism / label-gaming evasion block | 6 | review | core_02-04_definition_mechanics.md Chapter Three §2.2.1; core_01_c_stewardship_… |
+| Term-specific scope exclusion (does not include/govern/extend) | 3 | review | (local O boundary) |
 | Symbolic / theater participation negative | 3 | thin | core_01_c_stewardship_capacity_principles.md §11; Participation definition |
 | Not a substitute / backstops not substitutes | 3 | thin | core_01_c_stewardship_capacity_principles.md §9; core_01_b_interaction_interpre… |
 | Global integrity negative (harm / deception / capture / proxy divorce) | 1 | thin | core_01_c_stewardship_capacity_principles.md §11.1.2; core_01_a_values_principl… |
@@ -66,7 +66,7 @@ Highest-yield thinning: drop duplicate theme on secondary components when one en
 
 | Term | Theme | Components |
 | --- | --- | --- |
-| Autonomous Coercion Tool | Anti-formalism / label-gaming evasion block | C, E, O |
+| Autonomous Coercion Tool | Anti-formalism / label-gaming evasion block | C, E |
 | Combatant / Non-Combatant Distinction | Anti-formalism / label-gaming evasion block | C, E |
 | Constitutional Contract Layer | Governance layer separation (authorization vs participation) | C, O |
 | Constitutional Emergency and Contingency | Governance layer separation (authorization vs participation) | C, O |
@@ -79,7 +79,6 @@ Highest-yield thinning: drop duplicate theme on secondary components when one en
 | Non-Separation | Rights-Floor jurisdiction / does not displace Ch6 | C, O |
 | Parent-System Relationship | Rights-Floor jurisdiction / does not displace Ch6 | C, E, O |
 | Self-Healing | Rights-Floor jurisdiction / does not displace Ch6 | C, O |
-| Sentience Status Adjudication | Anti-formalism / label-gaming evasion block | C, E |
 | Sentience Status Adjudication | Rights-Floor jurisdiction / does not displace Ch6 | C, O |
 | Supremacy and Enforceability | Governance layer separation (authorization vs participation) | C, E, O |
 
@@ -94,13 +93,13 @@ Highest-yield thinning: drop duplicate theme on secondary components when one en
 | core_05o_oversight_definitions.md | 886 | Epistemic Integrity | E | proxy_metrics | - **Primary assessment.** Require proportionate methodological transparency within safety and secur… |
 | core_05p_participation_definitions.md | 277 | Lifespan Equivalent Unit (LEQU) | O | pointer_disclaimer | Shorthand for a **Lifespan Equivalent Unit** — the numeric or narrative unit adopted implementation… |
 | core_05p_participation_definitions.md | 368 | Participation | O | layer_separation | Principle-layer duty that materially affected sentients and [Stakeholders](core_05p_participation_d… |
-| core_05p_participation_definitions.md | 625 | Meaningful Agency | E | proxy_metrics | - **Primary assessment.** Measure real ability, not menu length. For decisions with material conseq… |
-| core_05p_participation_definitions.md | 625 | Meaningful Agency | E | symbolic_participation | - **Primary assessment.** Measure real ability, not menu length. For decisions with material conseq… |
-| core_05p_participation_definitions.md | 802 | Substantive Fairness | E | proxy_metrics | - **Primary assessment.** Evaluate real-world effects, not merely formal classifications. Detect di… |
-| core_05p_participation_definitions.md | 885 | Protected Characteristic Proxying and D… | E | proxy_metrics | - **Primary assessment.** Detect disparate impact, pretextual neutrality, proxy discrimination thro… |
-| core_05p_participation_definitions.md | 1446 | Stakeholder Participation Weight | O | layer_separation | The scaling of scope, form, timing, and decision influence afforded to [Stakeholders](core_05p_part… |
-| core_05p_participation_definitions.md | 1807 | Binding Stakeholder Choice — Decision-R… | O | layer_separation | A **Stakeholder System Participation** layer requirement: when material disagreement requires a bin… |
-| core_05p_participation_definitions.md | 1828 | Stakeholder Representation and Particip… | O | layer_separation | Bounds on legitimacy-mechanism **weighting** by [Material Impact](core_05o_oversight_definitions.md… |
+| core_05p_participation_definitions.md | 629 | Meaningful Agency | E | proxy_metrics | - **Primary assessment.** Measure real ability, not menu length. For decisions with material conseq… |
+| core_05p_participation_definitions.md | 629 | Meaningful Agency | E | symbolic_participation | - **Primary assessment.** Measure real ability, not menu length. For decisions with material conseq… |
+| core_05p_participation_definitions.md | 806 | Substantive Fairness | E | proxy_metrics | - **Primary assessment.** Evaluate real-world effects, not merely formal classifications. Detect di… |
+| core_05p_participation_definitions.md | 889 | Protected Characteristic Proxying and D… | E | proxy_metrics | - **Primary assessment.** Detect disparate impact, pretextual neutrality, proxy discrimination thro… |
+| core_05p_participation_definitions.md | 1450 | Stakeholder Participation Weight | O | layer_separation | The scaling of scope, form, timing, and decision influence afforded to [Stakeholders](core_05p_part… |
+| core_05p_participation_definitions.md | 1813 | Binding Stakeholder Choice — Decision-R… | O | layer_separation | A **Stakeholder System Participation** layer requirement: when material disagreement requires a bin… |
+| core_05p_participation_definitions.md | 1834 | Stakeholder Representation and Particip… | O | layer_separation | Bounds on legitimacy-mechanism **weighting** by [Material Impact](core_05o_oversight_definitions.md… |
 | core_05a_accountability_definitions.md | 426 | Contestability | E | proxy_metrics | - **Primary assessment.** Mechanisms must be effective, accessible, [auditable](core_05o_oversight_… |
 | core_05a_accountability_definitions.md | 426 | Contestability | E | symbolic_participation | - **Primary assessment.** Mechanisms must be effective, accessible, [auditable](core_05o_oversight_… |
 | core_05a_accountability_definitions.md | 549 | Timely Resolution | E | proxy_metrics | - **Primary assessment.** Apply [Chapter Eleven §10](core_11-11_forum.md#10-timely-resolution-mater… |
@@ -110,19 +109,19 @@ Highest-yield thinning: drop duplicate theme on secondary components when one en
 | core_05a_accountability_definitions.md | 714 | Capture of Resolution Pathways | E | proxy_metrics | - **Primary assessment.** Cover resolver independence from parties with material stake in the outco… |
 | core_05a_accountability_definitions.md | 850 | Market Structure | E | proxy_metrics | - **Primary assessment.** Reach substantive concentration, domination, and consolidation risk — not… |
 | core_05a_accountability_definitions.md | 876 | Governance | O | layer_separation | The structures, rules, allocation of authority, and processes by which systems and institutions are… |
+| core_05a_accountability_definitions.md | 1381 | Participant Standing | O | pointer_disclaimer | Participation-status or role-eligibility status that may be recognized from constitutionally valid… |
 | core_05a_accountability_definitions.md | 1413 | Contribution State | O | pointer_disclaimer | **Axis I** classifies **positive-only** constitutional outcomes: **baseline** satisfaction and **de… |
 | core_05a_accountability_definitions.md | 1469 | Verified Violation Findings | O | pointer_disclaimer | **Violation Axis** inputs that may affect **standing effect** because they rest on auditable, conte… |
 | core_05a_accountability_definitions.md | 1496 | Standing Effect | O | pointer_disclaimer | The **consequence layer** that applies verified [**contribution state**](core_05a_accountability_de… |
 | core_05a_accountability_definitions.md | 1523 | Standing Record | O | pointer_disclaimer | The bounded, **axis-pure** classification record that applies Chapter Eight categories to a defined… |
 | core_05a_accountability_definitions.md | 1602 | Violation Nature | O | pointer_disclaimer | **Axis II** classification of **adverse** constitutional outcomes from [**verified violation findin… |
-| core_05a_accountability_definitions.md | 1895 | Combatant / Non-Combatant Distinction | O | global_integrity_negative | The substantive distinction, at the time of an applicable use-of-force decision, between sentients… |
+| core_05a_accountability_definitions.md | 1893 | Combatant / Non-Combatant Distinction | O | global_integrity_negative | The substantive distinction, at the time of an applicable use-of-force decision, between sentients… |
 | core_05c_continuity_definitions.md | 317 | Safety (Constraint) | E | proxy_metrics | - **Primary assessment.** Trace protective obligations to sentient-experienced harm containment und… |
 | core_05c_continuity_definitions.md | 527 | Wellbeing | E | proxy_metrics | - **Primary assessment.** Trace claimed wellbeing effects to the Ontological conditions under full… |
 | core_05c_continuity_definitions.md | 620 | Constitutional Efficiency | E | proxy_metrics | - **Primary assessment.** Trace claimed efficiency to underlying constitutional outcomes under Chap… |
 | core_05c_continuity_definitions.md | 654 | Productive Capacity | E | proxy_metrics | - **Primary assessment.** Assess whether governing structures enable substantive participation and… |
 | core_05c_continuity_definitions.md | 690 | Avoidable Burden | E | proxy_metrics | - **Primary assessment.** Distinguish avoidable burden from constitutionally required burden using… |
-| core_05c_continuity_definitions.md | 945 | Emergency and Contingency | C | layer_separation | Invoking emergency or contingency to bypass [Safety (Constraint)](core_05c_continuity_definitions.m… |
-| … | … | … | … | … | (7 more thin hits) |
+| … | … | … | … | … | (8 more thin hits) |
 
 ## Suggested editorial waves
 
@@ -185,7 +184,7 @@ Highest-yield thinning: drop duplicate theme on secondary components when one en
 
 - **Label:** Anti-formalism / label-gaming evasion block
 - **Action:** review
-- **Canonical home:** core_02-04_definition_mechanics.md Chapter Three §2; term-specific C where gamed
+- **Canonical home:** core_02-04_definition_mechanics.md Chapter Three §2.2.1; core_01_c_stewardship_capacity_principles.md §11.6 for formal-structure change; term-specific C on gamed entries
 - **Notes:** Pattern is global; instance often must stay on the gamed term.
 - **Patterns:** `human-in-the-loop`, `rubber-stamp`, `rubber-stamps`, `formal relabeling`, `nominal .* does not`, `taxonomy-of-convenience`, `declared intent where`, `formal classification is relevant evidence but cannot`
 

@@ -414,7 +414,7 @@ This cluster is the joint-invocation home for operative corpus identity, authori
 
 <br>
 
-- O: A binding limit, condition, or discipline imposed by this Constitution that determines whether a constitutional claim, system action, governance act, limitation, disclosure practice, evaluation, implementation practice, or source-layer claim is valid. A Constitutional Constraint may operate as a substantive boundary, Rights-Floor non-contraction rule, limitation discipline, disclosure discipline, evaluation discipline, owner-layer/source-layer discipline, or implementation boundary. This entry classifies and routes constraints; it does not create a new standalone Rights Floor or relocate any owner-layer obligation.
+- O: A binding limit, condition, or discipline imposed by this Constitution that determines whether a constitutional claim, system action, governance act, limitation, disclosure practice, evaluation, implementation practice, or source-layer claim is valid. A Constitutional Constraint may operate as a substantive boundary, Rights-Floor non-contraction rule, limitation discipline, disclosure discipline, evaluation discipline, owner-layer/source-layer discipline, or implementation boundary. This entry classifies and routes constraint classes; owner-layer obligations remain on their canonical homes.
 
 *Measurements:*
 

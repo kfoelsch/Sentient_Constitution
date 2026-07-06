@@ -160,7 +160,7 @@ This band holds **Oversight**-leg definitions from the [Constitutional Tetrad](.
 
 <br>
 
-- O: Journalistic activity — newsgathering, source protection, investigation, and publication that functions as journalism — addressed as a function rather than as credential- or institution-conferred status. Sentients performing journalistic activity exercise the [Expression](core_05p_participation_definitions.md#expression-constitutional) and [Assembly](core_05p_participation_definitions.md#assembly-constitutional) Rights-Floor with heightened-scrutiny protection under [Article V-H](core_06-06_rights_part_b.md#article-v-h-expression-assembly-and-press) against state and operator actions whose function is to impair that activity. This entry does not create a separate Rights-Floor for a class of sentients; it identifies when heightened scrutiny and the Article XIII-A *Protected Activity* shield apply, under [Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion).
+- O: Journalistic activity — newsgathering, source protection, investigation, and publication that functions as journalism — addressed as a function rather than as credential- or institution-conferred status. Sentients performing journalistic activity exercise the [Expression](core_05p_participation_definitions.md#expression-constitutional) and [Assembly](core_05p_participation_definitions.md#assembly-constitutional) Rights-Floor with heightened-scrutiny protection under [Article V-H](core_06-06_rights_part_b.md#article-v-h-expression-assembly-and-press) against state and operator actions whose function is to impair that activity.
 
 *Measurements:*
 

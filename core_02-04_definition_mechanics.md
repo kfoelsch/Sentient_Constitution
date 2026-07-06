@@ -274,6 +274,20 @@ The following forms of evasion are prohibited. These categories are non-exhausti
   - Metric exploitation: optimizing for measurable criteria in ways that degrade real-world outcomes required by the definition
   - Representational evasion: generating or presenting artifacts or evidence that materially misrepresent actual system behavior or compliance status
   - Formal compliance without functional effect: satisfying requirements in representation, structure, or process without producing required real-world outcomes
+
+<a id="formal-label-gaming-discipline"></a>
+
+##### 2.2.1 Formal Label and Representation Gaming
+
+Systems must not satisfy constitutional definitions through labels, formal classifications, nominal procedures, or representation alone where substantive effect, operational tempo, or functional outcome required by the definition is absent. Prohibited patterns include, without limitation:
+
+- nominal human-in-the-loop or human-on-the-loop approval without substantive decisional effect at operational tempo;
+- rubber-stamp review, sham deliberation, or paper-record classification carried as a substitute for required burden or adjudication;
+- formal relabeling, restructuring, or entity reclassification that extinguishes duties without functional transfer of responsibility; and
+- taxonomy-of-convenience classifications that defeat substantive distinctions required by the definition.
+
+Where formal-structure change is material, apply [Chapter One §11.6 Successor Responsibility and Formal-Structure Non-Escape](core_01_c_stewardship_capacity_principles.md#116-successor-responsibility-and-formal-structure-non-escape).
+
 - Scope and Boundary Evasion
   - Selective scope limitation: restricting evaluation or application to exclude materially relevant system elements, effects, or conditions
   - Fragmentation or decomposition: distributing responsibility across components, actors, or time to avoid full-system application
