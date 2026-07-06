@@ -9,46 +9,52 @@
 
 </details>
 
-<br>
-
----
-
-## CHAPTER TWO: DEFINITION STRUCTURE AND COMPONENT REQUIREMENTS
-
 <details>
-<summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): where Chapter Two lives and what stays here</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): definition stack and where Chapter Two lives</span></strong></summary>
 
-> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this chapter or in other chapters.
+> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other chapters.
 >
-> Where this lives (navigation):
-> - **Constitutional owner:** O/E/C definition structure, component alignment, and definition-integrity requirements for **Chapter Two** in this file. Definition integrity, evasion, and non-compliance are **Chapter Three**; burden, traceability, and verification are **Chapter Four**; canonical term homes are **Chapter Five**.
-> - **Implementation owner:** operational taxonomies, protocols, and joint operational clusters in designated implementation files apply Chapter Five terms—they do not redefine them.
+> Chapters **Two through Five** form the constitutional definition stack; **[CJS](corpus_joint_structure.md)** carries operational definitions that apply it:
+> - **Chapter Two (this file)** — O/E/C definition structure and component alignment ([§1 Purpose and Role](#1-purpose-and-role)).
+> - **Chapter Three** (this file) — definition integrity, evasion, and non-compliance.
+> - **Chapter Four** (this file) — burden of proof, definition traceability, observability, verification under security limits, and verification accessibility.
+> - **Chapter Five** — standard terms for evaluative and compliance work (§§1–3 across the five constitutional **band files** ([Oversight](core_05o_oversight_definitions.md), [Participation](core_05p_participation_definitions.md), [Accountability](core_05a_accountability_definitions.md), [Continuity](core_05c_continuity_definitions.md), [Integrative](core_05i_integrative_definitions.md)); reading order and map in [Part A](core_05-05_definitions_a_independent.md#chapter-five-compass-and-definition-map).
+> - **CJS** — operational definitions for cross-implementation terms ([CJS-5](corpus_joint_structure/cjs_05_cross_implementation_operational_terms.md#cjs-51-constitutional-compass-and-cluster-map) operational cluster library); apply Chapter Five canonical homes—do not redefine them. Domain taxonomies and protocols in **CS**, **CI**, and **CF** follow the same rule.
+>
+> Additional navigation:
 > - **Anti-relocation rule:** procedural workflows, enforcement mechanics, and classification schemas beyond definitional scope must not be absorbed into this chapter.
 
 </details>
 
 <br>
 
-*In plain terms: this chapter defines how every constitutional term must be split into what-it-is, how to evaluate it, and what must hold in practice — the grammar the rest of the instrument builds on.*
+---
+
+## CHAPTER TWO: DEFINITION STRUCTURE AND COMPONENT REQUIREMENTS
+
+<br>
+
+*In plain terms: Chapters Two through Five are the constitutional definition stack — built (Two), kept honest (Three), checked (Four), named (Five). Cross-implementation operational definitions live in [CJS](corpus_joint_structure.md) ([CJS-5](corpus_joint_structure/cjs_05_cross_implementation_operational_terms.md#cjs-51-constitutional-compass-and-cluster-map)); they apply Chapter Five terms and do not redefine them. This chapter owns the first layer.*
 
 ### 1. Purpose and Role
-This chapter defines how definitions must be decomposed into Ontological (O), Evaluative (E), and Compliance (C) components and how those components must remain internally aligned within each definition.
 
-Definition integrity, evasion, and non-compliance are governed by **Chapter Three**. Burden of proof, definition traceability, observability, security-constrained verification, and verification accessibility are governed by **Chapter Four**.
+Chapters **Two through Five** form the constitutional definition stack; **[CJS](corpus_joint_structure.md)** carries operational definitions that apply it:
 
-Terminology and definitional refinements for evaluative and compliance work appear in **Chapter Five** §§1–3 (*Independent Definitions*, *Semi-independent Definitions*, and *Dependent clusters*), distributed across the five constitutional **band files** ([Oversight](core_05o_oversight_definitions.md), [Participation](core_05p_participation_definitions.md), [Accountability](core_05a_accountability_definitions.md), [Continuity](core_05c_continuity_definitions.md), [Integrative](core_05i_integrative_definitions.md)) with reading order and the compass in [Part A](core_05-05_definitions_a_independent.md#chapter-five-compass-and-definition-map). **Section 2** is the **exclusive** home for semi-independent joint-invocation cluster contracts (lines beginning `**Cluster context**` in the band files). **Section 3** is the **exclusive** home for dependent-cluster contracts (`#### 3.*` heads and nested member definitions in the band files). Repository verification tooling enforces that split.
-
-Enforceability in the constitutional sense is further specified in Chapter Five Independent Definitions ([Supremacy and Enforceability](core_05i_integrative_definitions.md#supremacy-and-enforceability)).
-
-This chapter does not define:
-- enforcement mechanisms
-- governance processes
-- implementation methods
-- specific measurement techniques or tools
-- procedural audit workflows
-- classification schemas beyond definitional scope
-
-All such mechanisms must be defined in subsequent chapters and must operate in full compliance with the structural [Constitutional Constraints](core_05i_integrative_definitions.md#constitutional-constraint) established in this chapter.
+- **Chapter Two (this chapter)** — definition structure and component alignment:
+  - Every definition MUST be built from three linked parts:
+    - **Ontological (O)** — what the term refers to
+    - **Evaluative (E)** — how it must be assessed
+    - **Compliance (C)** — what must hold in practice
+  - Those three parts MUST stay consistent within each definition; satisfying one while bypassing or weakening another does not count.
+  - Enforcement, governance, implementation, measurement, audit, and classification mechanics beyond definitional scope belong in later chapters; they MUST comply with [Constitutional Constraints](core_05i_integrative_definitions.md#constitutional-constraint) established here.
+- **Chapter Three** — whether definitions stay intact; what counts as evasion or non-compliance.
+- **Chapter Four** — who must prove what; definition traceability; observability; verification under security limits; who can actually access verification.
+- **Chapter Five** — standard terms for evaluative and compliance work, in §§1–3 (*Independent Definitions*, *Semi-independent Definitions*, and *Dependent clusters*), spread across five constitutional **band files** ([Oversight](core_05o_oversight_definitions.md), [Participation](core_05p_participation_definitions.md), [Accountability](core_05a_accountability_definitions.md), [Continuity](core_05c_continuity_definitions.md), [Integrative](core_05i_integrative_definitions.md)). Reading order and the map are in [Part A](core_05-05_definitions_a_independent.md#chapter-five-compass-and-definition-map).
+  - **Section 2** — only home for semi-independent joint-invocation cluster contracts (lines beginning `**Cluster context**` in the band files).
+  - **Section 3** — only home for dependent-cluster contracts (`#### 3.*` headings and nested member definitions in the band files).
+  - Repository verification tooling enforces that split.
+  - Enforceability in the constitutional sense: [Supremacy and Enforceability](core_05i_integrative_definitions.md#supremacy-and-enforceability).
+- **CJS** — operational definitions for cross-implementation terms in [corpus_joint_structure.md](corpus_joint_structure.md), chiefly the [CJS-5 operational cluster library](corpus_joint_structure/cjs_05_cross_implementation_operational_terms.md#cjs-51-constitutional-compass-and-cluster-map); apply Chapter Five canonical homes and MUST NOT redefine them. Domain taxonomies and protocols in **CS**, **CI**, and **CF** follow the same rule.
 
 ### 2. Definition Structure Requirement
 <details>
