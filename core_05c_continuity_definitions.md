@@ -515,6 +515,8 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 
   Includes direct and indirect conditions that materially affect these states, including those arising from system interactions, dependencies, and environments.
 
+<a id="wellbeing-measurements"></a>
+
 *Measurements:*
 
 - **Primary:** [Chapter Zero §3.2 *Measuring Flourishing* / Wellbeing family](../core_00_preamble.md#measuring-flourishing) — core **Flourishing** outcome measure for this term.
@@ -931,6 +933,8 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
   - subject to [Oversight](core_05o_oversight_definitions.md#oversight-constitutional);
   - reversible where feasible under [Reversibility](core_05c_continuity_definitions.md#reversibility-constitutional).
   Emergency and contingency authority is layer-sensitive: use [Constitutional Emergency and Contingency](core_05c_continuity_definitions.md#constitutional-emergency-and-contingency) where the emergency affects authorization of governing authority itself, and [Stakeholder Emergency and Contingency](core_05c_continuity_definitions.md#stakeholder-emergency-and-contingency) where the emergency affects materially rights-affecting procedure within an already-authorized system, institution, or bounded decision domain.
+
+<a id="emergency-and-contingency-measurements"></a>
 
 *Measurements:*
 

@@ -596,6 +596,8 @@ This band holds **Accountability**-leg definitions: contestability, redress, gov
 
   Final [Chapter Ten](core_10-10_misconduct.md#chapter-ten-anti-constitutional-misconduct) Violation Axis slot assignment is a specialized classification outcome governed by that chapter. It is not a substitute for ordinary forum merits authority and is not itself a pathway decision.
 
+<a id="merits-determination-measurements"></a>
+
 *Measurements:*
 
 - **Primary:** [Chapter Zero §3.6 *Measuring Accountability*](../core_00_preamble.md#measuring-accountability) and [Chapter Zero §3.7 *Measuring Timeliness*](../core_00_preamble.md#measuring-timeliness) — supporting measure where multiple measurement families co-apply.
@@ -1815,12 +1817,11 @@ This cluster is the joint-invocation home for overt use of force, weapons of mas
 - Owner floor: [Article XIII-C](core_06-06_rights_part_c.md#article-xiii-c-autonomous-lethal-systems-and-autonomous-coercion-tools). Existential-risk interaction: [Article I-D](core_06-06_rights_part_a.md#article-i-d-existential-risk-and-recovery-capacity). Systems-layer implementation: [Article XII-A](core_06-06_rights_part_c.md#article-xii-a-reliability-and-trustworthiness-baseline).
 - Cluster component: [Chapter One §8.11 *Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm*](core_05a_accountability_definitions.md#use-of-force-autonomous-coercion-and-mass-harm-cluster).
 - Read with: [Autonomous Coercion Tool](core_05a_accountability_definitions.md#autonomous-coercion-tool-constitutional), [Use of Force](core_05a_accountability_definitions.md#use-of-force-constitutional), [Weapons of Mass Harm](core_05a_accountability_definitions.md#weapons-of-mass-harm-constitutional), [Combatant / Non-Combatant Distinction](core_05a_accountability_definitions.md#combatant-non-combatant-distinction-constitutional), [Existential Risk](core_05c_continuity_definitions.md#existential-risk), [Adversarial, Scaled, and Exploited Conditions](core_05o_oversight_definitions.md#adversarial-scaled-and-exploited-conditions), [Reversibility](core_05c_continuity_definitions.md#reversibility-constitutional), [Irreversible Deprivation Measure](core_05a_accountability_definitions.md#irreversible-deprivation-measure-constitutional), and [Redress and Remediation](core_05a_accountability_definitions.md#redress-and-remediation-constitutional).
+- *In plain terms:* A system that selects or engages lethal-force targets on its own — without a human exercising real-time judgment over each targeting or engagement decision.
 
 </details>
 
 <br>
-
-*In plain terms:* *A system that selects or engages lethal-force targets on its own — without a human exercising real-time judgment over each targeting or engagement decision.*
 
 - O: A system that, under its operating conditions, selects, engages, or materially directs the application of lethal force in a targeting decision without a human's real, timely judgment shaping each targeting or engagement decision.
   - Substrate- and architecture-agnostic: autonomous platforms, swarms, software-mediated targeting pipelines, and hybrid arrangements are in scope.
@@ -1929,6 +1930,8 @@ This cluster is the joint-invocation home for overt use of force, weapons of mas
   - [Voluntary Discontinuation](core_05c_continuity_definitions.md#voluntary-discontinuation-constitutional) (the sentient's own freely-formed decision under [Article VII-E](core_06-06_rights_part_b.md#article-vii-e-voluntary-discontinuation-of-ones-own-existence));
   - overt [Use of Force](core_05a_accountability_definitions.md#use-of-force-constitutional), [Weapons of Mass Harm](core_05a_accountability_definitions.md#weapons-of-mass-harm-constitutional), and [Autonomous Lethal System](core_05a_accountability_definitions.md#autonomous-lethal-system-constitutional) / [Autonomous Coercion Tool](core_05a_accountability_definitions.md#autonomous-coercion-tool-constitutional) operation (governed by Articles XIII-B / XIII-C under their own owner-floor discipline even where effects are irreversible, without read-across authorizing a deprivation measure).
 
+<a id="irreversible-deprivation-measure-measurements"></a>
+
 *Measurements:*
 
 - **Primary:** [Chapter Zero §3.2 *Measuring Flourishing*](../core_00_preamble.md#measuring-flourishing) and [Chapter Zero §3.3 *Measuring Continuity*](../core_00_preamble.md#measuring-continuity) — supporting measure where multiple measurement families co-apply.
@@ -1959,12 +1962,11 @@ This cluster is the joint-invocation home for overt use of force, weapons of mas
 - Owner floor: [Article XIII-C](core_06-06_rights_part_c.md#article-xiii-c-autonomous-lethal-systems-and-autonomous-coercion-tools). Systems-layer implementation: [Article XII-A](core_06-06_rights_part_c.md#article-xii-a-reliability-and-trustworthiness-baseline) and *[corpus_systems.md](corpus_systems.md)*, CS-4 — System classification and handling classification.
 - Cluster component: [Chapter One §8.11 *Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm*](core_05a_accountability_definitions.md#use-of-force-autonomous-coercion-and-mass-harm-cluster).
 - Read with: [Autonomous Lethal System](core_05a_accountability_definitions.md#autonomous-lethal-system-constitutional), [Coercion and Manipulation](core_05p_participation_definitions.md#coercion-and-manipulation-constitutional), [Adversarial, Scaled, and Exploited Conditions](core_05o_oversight_definitions.md#adversarial-scaled-and-exploited-conditions), [Reversibility](core_05c_continuity_definitions.md#reversibility-constitutional), [Irreversible Deprivation Measure](core_05a_accountability_definitions.md#irreversible-deprivation-measure-constitutional), [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency), and [Protected Characteristics](core_05p_participation_definitions.md#protected-characteristics-constitutional).
+- *In plain terms:* A system that pressures, restricts, or manipulates sentients on its own, without a human exercising real-time judgment over each coercive act.
 
 </details>
 
 <br>
-
-*In plain terms:* *A system that pressures, restricts, or manipulates sentients on its own, without a human exercising real-time judgment over each coercive act.*
 
 - O: A system that coerces sentients — constraining their freedom or decision-making — through autonomous or adaptive behavior.
   - Coercive effects include, without limitation: shaping behavior at scale; targeted restriction of movement or access; targeted suppression or chilling of expression; targeted manipulation as defined in [Coercion and Manipulation](core_05p_participation_definitions.md#coercion-and-manipulation-constitutional); targeted harm calibrated by protected characteristics or their material proxies; and infliction of psychological trauma, acute stress, or chronic psychological destabilization.

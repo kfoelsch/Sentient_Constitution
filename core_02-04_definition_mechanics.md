@@ -71,6 +71,8 @@ Chapters **Two through Five** form the constitutional definition stack; **[CJS](
 
 </details>
 
+<br>
+
 *In plain terms: each term is defined in three linked parts — what it refers to (O), how to assess it (E), and what must hold in the real world (C). All three must pass together on the same whole system and under the same rules, including when that system is spread across sites, machines, or actors. Satisfying one part while sidestepping or watering down another does not count.*
 
 Every definition MUST be built from separate parts. Each part MUST do exactly one of these jobs:

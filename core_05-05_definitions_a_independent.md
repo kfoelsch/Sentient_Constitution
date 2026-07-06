@@ -71,7 +71,7 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 - [Autonomous Lethal System](core_05a_accountability_definitions.md#autonomous-lethal-system-constitutional)
 - [Avoidable Burden](core_05c_continuity_definitions.md#avoidable-burden)
 - [Best-Interest Standard](core_05p_participation_definitions.md#best-interest-standard-constitutional)
-- [Binding Stakeholder Choice — Decision-Resolution Requirements](core_05p_participation_definitions.md#binding-collective-choice-decision-resolution-process)
+- [Binding Stakeholder Choice — Decision-Resolution Requirements](core_05p_participation_definitions.md#binding-stakeholder-choice-decision-resolution-requirements)
 - [Bodily-Maintenance Access](core_05c_continuity_definitions.md#bodily-maintenance-access-constitutional)
 - [Burden-Reduction Duty](core_05c_continuity_definitions.md#burden-reduction-duty-constitutional)
 - [Business Creation](core_05p_participation_definitions.md#business-creation-constitutional)
@@ -229,8 +229,8 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 - [Stakeholder](core_05p_participation_definitions.md#stakeholder)
 - [Stakeholder Emergency and Contingency](core_05c_continuity_definitions.md#stakeholder-emergency-and-contingency)
 - [Stakeholder Participation Weight](core_05p_participation_definitions.md#stakeholder-participation-weight)
-- [Stakeholder Representation and Participation-Weight Limits (Binding Stakeholder Choice)](core_05p_participation_definitions.md#stakeholder-representation-and-participation-weight-limits-binding-collective-choice)
-- [Stakeholder Rights-Collision Record (Binding Stakeholder Choice)](core_05p_participation_definitions.md#rights-collision-record-binding-stakeholder-choice)
+- [Stakeholder Representation and Participation-Weight Limits (Binding Stakeholder Choice)](core_05p_participation_definitions.md#stakeholder-representation-and-participation-weight-limits-binding-stakeholder-choice)
+- [Stakeholder Rights-Collision Record (Binding Stakeholder Choice)](core_05p_participation_definitions.md#stakeholder-rights-collision-record-binding-stakeholder-choice)
 - [Standing Effect](core_05a_accountability_definitions.md#standing-effect-chapter-six)
 - [Standing Lock](core_05a_accountability_definitions.md#standing-lock)
 - [Standing Record](core_05a_accountability_definitions.md#standing-record-chapter-six)
@@ -282,14 +282,14 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 <a id="clusters-a-z"></a>
 #### Clusters A-Z
 
-- [3.5 Animal Life, Sentient Life, and Sentience Status](core_05p_participation_definitions.md#animal-life-sentient-life-and-sentience-status-cluster)
-- [3.6 Binding Stakeholder Choice](core_05p_participation_definitions.md#binding-stakeholder-choice-cluster)
+- [3.5 Animal Life, Sentient Life, and Sentience Status](core_05p_participation_definitions.md#35-animal-life-sentient-life-and-sentience-status)
+- [3.6 Binding Stakeholder Choice](core_05p_participation_definitions.md#36-binding-stakeholder-choice)
 - [3.8 Collective Harm Boundary, Harm, and Harassment and Bullying](core_05a_accountability_definitions.md#collective-harm-boundary-and-harm-cluster)
 - [3.16 Corpus, Authority Stack, Supremacy, and Enforceability](core_05i_integrative_definitions.md#corpus-authority-stack-supremacy-and-enforceability-cluster)
 - [3.9 Forum Families and Dispute Routing](core_05a_accountability_definitions.md#forum-families-and-dispute-routing-cluster)
 - [3.12 Labor and Economic Floor: Compensation, Organization, Safe Conditions, Leisure, and Creative Work](core_05c_continuity_definitions.md#labor-and-economic-floor-cluster)
 - [3.14 Privacy (Informational) — peer-level cluster head](core_05c_continuity_definitions.md#privacy-informational-cluster)
-- [3.7 Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity](core_05p_participation_definitions.md#self-determination-and-meaningful-agency-cluster)
+- [3.7 Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity](core_05p_participation_definitions.md#37-self-determination-meaningful-agency-expression-educational-agency-and-volitional-integrity)
 - [3.10 Standing State, Contribution, and Violation](core_05a_accountability_definitions.md#standing-state-contribution-and-violation-cluster)
 - [3.13 Stewardship, Governance Discipline, and Shared-System Capacity](core_05c_continuity_definitions.md#stewardship-governance-discipline-and-shared-system-capacity-cluster)
 - [3.2 Transparency, Auditability, and Verification](core_05o_oversight_definitions.md#transparency-auditability-and-verification-cluster)
@@ -340,6 +340,10 @@ Use this compass before invoking any Chapter Five definition. Chapter Five suppl
 | **Continuity leg** | [core_05c_continuity_definitions.md](core_05c_continuity_definitions.md) | **Chapter One §8.12–Chapter One §8.15** |
 | **Integrative leg** | [core_05i_integrative_definitions.md](core_05i_integrative_definitions.md) | **Chapter One §8.16** |
 
+---
+
+### Measurement crosswalk (reader guidance)
+
 <a id="chapter-five-measurement-crosswalk"></a>
 
 <details>
@@ -361,6 +365,8 @@ Use this compass before invoking any Chapter Five definition. Chapter Five suppl
 | [§3.8 Constitutional performance](../core_00_preamble.md#measuring-constitutional-performance) | Are constitutional outcomes delivered efficiently without pointless waste? | [Continuity](core_05c_continuity_definitions.md) | Cross-cutting outcome measures: [Constitutional Efficiency](core_05c_continuity_definitions.md#constitutional-efficiency), [Avoidable Burden](core_05c_continuity_definitions.md#avoidable-burden), [Productive Capacity](core_05c_continuity_definitions.md#productive-capacity-constitutional) — instrumental to both aims; no separate band file |
 
 </details>
+
+<br>
 
 ---
 
