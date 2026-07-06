@@ -232,7 +232,9 @@ Operators have minimal discretion, limited strictly to preserving survival, safe
 
 ---
 
-**Class B: Critical, high-dependency, systemically significant systems.** For classification purposes, **"systemic"** means capacity for cross-domain cascading failure across dependents, not merely large-scale or widespread impact.
+**Class B: Critical, high-dependency, systemically significant systems.**
+
+For classification purposes, **"systemic"** denotes capacity for cross-domain [Cascading Failure](../core_05c_continuity_definitions.md#cascading-failure) across dependents, not merely large-scale or widespread impact.
 
 This quoted meaning of **"systemic"** is **CS-local** classification language for **CS-4 — System classification and handling** and is not a standalone **CJS Tier 1** abstraction.
 

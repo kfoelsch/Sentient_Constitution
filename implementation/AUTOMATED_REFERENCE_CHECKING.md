@@ -43,6 +43,23 @@ Single catalog for corpus integrity audits. Rule IDs map to [tools/architecture/
 | `owner-discipline-audit` | `tools/owner_discipline_audit.py` | OWNER-SINGLE-HOME | Heuristic O/E/C outside Ch5; use `--strict` to block |
 | `ch5-cross-file-link-audit` | `tools/ch5_cross_file_link_audit.py` | — | Promote when clean |
 | `ci-cjs-relocation-audit` | `tools/ci_cjs_relocation_audit.py` | — | Relocation drift evidence |
+| `definition-appropriateness-audit` | `tools/definition_appropriateness_audit.py` | DEF-APPROPRIATENESS | Unified core vs CJS-5 placement; advisory by default; `--strict` to block |
+
+### Definition appropriateness finding taxonomy (`definition-appropriateness-audit`)
+
+| Check ID | Layer | Question |
+|----------|-------|----------|
+| `CORE-PLACEMENT` | Chapter Five | Correct band / §1–§3 home and structural invariants |
+| `CORE-GRAVITY` | Chapter Five | Institutional or procedural machinery absorbed into definitions |
+| `CORE-TRACE` | Chapter One ↔ Five | Principle anchors and complete O/E/C traceability |
+| `CJS-PLACEMENT` | CJS-5 | Operational clusters only in CJS-5 (not CJS-3) |
+| `CJS-TRACE` | Chapter One ↔ CJS-5 | Cluster trace metadata and OP triad completeness |
+| `CJS-CONSTITUTIONAL-CREEP` | CJS-5 | OP rules matching Ch5 labels without Chapter Five pointers |
+| `IMPL-COMPETING-GLOSS` | CS / CI / CF | O/E/C-shaped gloss outside Chapter Five |
+| `IMPL-RELOCATION` | CI (operative body) | Cross-layer material that may belong in CJS-5 or Chapter Five; CS/CF owner layers use integration maps and `ci-cjs-relocation-audit` |
+| `IMPL-NON-REDEFINITION` | CS / CI / CF | Definitional lead-ins for canonical Chapter Five terms |
+
+Persistent ledger: `evidence/definition_audit/ledger.json`. Dated snapshots: `definition_appropriateness_report_*.md`, `definition_appropriateness_matrix_*.csv`, `definition_appropriateness_log_*.json`.
 
 ## Architecture maintenance
 

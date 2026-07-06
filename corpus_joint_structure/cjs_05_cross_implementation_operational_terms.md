@@ -31,6 +31,7 @@ Use these clusters as shared operational terms within standalone implementation 
 - Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: this section's local operational requirements for **CJS-5.0 Cross-band: Role-definition preface and standing competency gate interface**.
 - Read with: **CJS-5.0**.
+- Chapter One basis: Chapter One §2.1, §3.4, §5.2, §7.1, §7.2, §10 (see [cluster map](#cjs-51-constitutional-compass-and-cluster-map)).
 
 </details>
 

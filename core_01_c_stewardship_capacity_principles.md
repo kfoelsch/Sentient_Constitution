@@ -296,6 +296,19 @@ It is not limited to the tradeoff-stack context in which it also operates as an 
 
 </details>
 
+<details>
+<summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
+
+- [Governance](core_05a_accountability_definitions.md#governance) · [O](core_05a_accountability_definitions.md#governance) · [E](core_05a_accountability_definitions.md#governance-e) · [C](core_05a_accountability_definitions.md#governance-c)
+- [Stewardship](core_05c_continuity_definitions.md#stewardship-constitutional) · [O](core_05c_continuity_definitions.md#stewardship-constitutional) · [E](core_05c_continuity_definitions.md#stewardship-constitutional-e) · [C](core_05c_continuity_definitions.md#stewardship-constitutional-c)
+- [Necessity](core_05a_accountability_definitions.md#necessity) · [O](core_05a_accountability_definitions.md#necessity) · [E](core_05a_accountability_definitions.md#necessity-e) · [C](core_05a_accountability_definitions.md#necessity-c)
+- [Proportionality](core_05a_accountability_definitions.md#proportionality) · [O](core_05a_accountability_definitions.md#proportionality) · [E](core_05a_accountability_definitions.md#proportionality-e) · [C](core_05a_accountability_definitions.md#proportionality-c)
+- [Participation](core_05p_participation_definitions.md#participation-constitutional) · [O](core_05p_participation_definitions.md#participation-constitutional) · [E](core_05p_participation_definitions.md#participation-constitutional-e) · [C](core_05p_participation_definitions.md#participation-constitutional-c)
+- [Oversight](core_05o_oversight_definitions.md#oversight-constitutional) · [O](core_05o_oversight_definitions.md#oversight-constitutional) · [E](core_05o_oversight_definitions.md#oversight-constitutional-e) · [C](core_05o_oversight_definitions.md#oversight-constitutional-c)
+- [Accountability](core_05a_accountability_definitions.md#accountability) · [O](core_05a_accountability_definitions.md#accountability) · [E](core_05a_accountability_definitions.md#accountability-e) · [C](core_05a_accountability_definitions.md#accountability-c)
+
+</details>
+
 <br>
 
 *In plain terms: governance is who may decide and how — but only when those structures stay under stewardship discipline, serve Flourishing and Continuity together, and do not hollow the Tetrad or replace Chapter Twelve's operative authorization rules.*
@@ -870,6 +883,15 @@ Operative ceiling-setting discipline — horizontal and vertical trigger design,
 - Upstream: [§9 Stewardship and Distributed Understanding](#9-stewardship-and-distributed-understanding); [§10 Governance Under Stewardship Discipline](#10-governance-under-stewardship-discipline); [6. Process Conflict Resolution](core_01_b_interaction_interpretation.md#6-process-conflict-resolution).
 - Downstream: [§15 Integrated Application](#15-integrated-application) — verifies pursuit of the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) and [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) scaling under the system's incentive and control structure, not only its stated rationale.
 - Read together, **§§9–15** move from capacity and stewardship, to tradeoff procedure, to whole-system validation.
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
+
+- [Classification-Scaled Governance](core_05o_oversight_definitions.md#classification-scaled-governance) · [O](core_05o_oversight_definitions.md#classification-scaled-governance) · [E](core_05o_oversight_definitions.md#classification-scaled-governance-e) · [C](core_05o_oversight_definitions.md#classification-scaled-governance-c)
+- [Risk](core_05c_continuity_definitions.md#risk) · [O](core_05c_continuity_definitions.md#risk) · [E](core_05c_continuity_definitions.md#risk-e) · [C](core_05c_continuity_definitions.md#risk-c)
+- [Dependency](core_05c_continuity_definitions.md#dependency) · [O](core_05c_continuity_definitions.md#dependency) · [E](core_05c_continuity_definitions.md#dependency-e) · [C](core_05c_continuity_definitions.md#dependency-c)
 
 </details>
 

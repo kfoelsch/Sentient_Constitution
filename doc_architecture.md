@@ -101,6 +101,7 @@ Keep constitutional concept + O/E/C boundary only; cite owner homes for institut
 | GLOSS-SUBARTICLE | Chapter Six `*In plain terms:*` on subarticles | `make subarticle-gloss-audit` |
 | GLOSS-ARTICLE-NEIGHBORS | Chapter Six `*Article neighbors:*` article-intro coordination | editorial pattern in **section 4** |
 | OWNER-SINGLE-HOME | Competing O/E/C gloss heuristics | `make owner-discipline-audit` |
+| DEF-APPROPRIATENESS | Unified definition placement (core vs CJS-5 vs implementation) | `make definition-appropriateness-audit` (advisory; ledger at `evidence/definition_audit/ledger.json`) |
 | REF-ARTICLES | Article titles and Roman numerals; prose cite gloss per **section 7** | `make reference-audit` |
 | MEAS-ANCHOR | Chapter Zero §3 canonical anchor hygiene | `make measurement-anchor-audit` |
 | ROUTER-CJS21 | Cross-implementation routing | `make router-bidirectional-audit` |
