@@ -37,6 +37,7 @@ The corpus is written in plain language with low jargon to improve accessibility
 - **Chapter Five** (foundational definitions)
   - Part A — compass, reader guidance, directory, §3.0 meta rules — [`core_05-05_definitions_a_independent.md`](core_05-05_definitions_a_independent.md)
   - Flourishing aim — canonical aim home and hierarchy map — [`core_05f_flourishing_aim.md`](core_05f_flourishing_aim.md)
+  - Continuity aim — canonical aim home and hierarchy map — [`core_05g_continuity_aim.md`](core_05g_continuity_aim.md)
   - Oversight band — §1/§2/§3 **§3.2–§3.3** — [`core_05o_oversight_definitions.md`](core_05o_oversight_definitions.md)
   - Participation band — §1/§2/§3 **§3.5–§3.7** — [`core_05p_participation_definitions.md`](core_05p_participation_definitions.md)
   - Accountability band — §1/§2/§3 **§3.8–§3.11** — [`core_05a_accountability_definitions.md`](core_05a_accountability_definitions.md)
@@ -112,7 +113,8 @@ The structure map ([doc_architecture.md](doc_architecture.md)) and corpus cross-
 
 ## Review and editing
 
-- `make regression` / `make regression-full` — automated repository integrity checks
+- `make regression` / `make regression-full` — automated repository integrity checks (includes `make ch5-measurement-tier-audit` and `make ch5-measurement-coverage-audit` for approved MEAS-DEF seeds)
+- `make hierarchy-map && make ch5-measurement-tier-audit && make ch5-measurement-coverage-audit` — refresh definition hierarchy and measurement rollout before publication cuts
 - `make best-practices-check` — benchmark-style governance review ([`implementation/BEST_PRACTICES_CHECK_STANDARD_2026-04-12.md`](implementation/BEST_PRACTICES_CHECK_STANDARD_2026-04-12.md))
 - Ownership, stable IDs, edit order, and definition discipline — [doc_architecture.md](doc_architecture.md)
 

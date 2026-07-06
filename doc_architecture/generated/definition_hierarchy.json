@@ -1,0 +1,3415 @@
+{
+  "generated_at": "2026-07-06T21:09:02+00:00",
+  "source": "ai_corpus/indexes/definition_registry.json",
+  "overrides": "tools/architecture/hierarchy_overrides.json",
+  "entry_count": 221,
+  "entries": [
+    {
+      "term": "Accessibility",
+      "canonical_file": "core_05p_participation_definitions.md",
+      "anchor": "#accessibility",
+      "line_start": 61,
+      "definition_class": "independent",
+      "tetrad_leg": "Participation",
+      "primary_aim": "cross-cutting",
+      "aim_role": "independent",
+      "ch00_measurement": [
+        "3.4 Participation"
+      ],
+      "cluster_id": null,
+      "notes": ""
+    },
+    {
+      "term": "Accountability",
+      "canonical_file": "core_05a_accountability_definitions.md",
+      "anchor": "#accountability",
+      "line_start": 378,
+      "definition_class": "semi_independent",
+      "tetrad_leg": "Accountability",
+      "primary_aim": "cross-cutting",
+      "aim_role": "tetrad_leg_head",
+      "ch00_measurement": [
+        "3.6 Accountability"
+      ],
+      "cluster_id": null,
+      "notes": ""
+    },
+    {
+      "term": "Adjudication and Dispute Resolution",
+      "canonical_file": "core_05a_accountability_definitions.md",
+      "anchor": "#adjudication-and-dispute-resolution-constitutional",
+      "line_start": 440,
+      "definition_class": "semi_independent",
+      "tetrad_leg": "Accountability",
+      "primary_aim": "cross-cutting",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.6 Accountability",
+        "3.7 Timeliness"
+      ],
+      "cluster_id": null,
+      "notes": ""
+    },
+    {
+      "term": "Adversarial, Scaled, and Exploited Conditions",
+      "canonical_file": "core_05o_oversight_definitions.md",
+      "anchor": "#adversarial-scaled-and-exploited-conditions",
+      "line_start": 43,
+      "definition_class": "independent",
+      "tetrad_leg": "Oversight",
+      "primary_aim": "cross-cutting",
+      "aim_role": "independent",
+      "ch00_measurement": [
+        "3.5 Oversight"
+      ],
+      "cluster_id": null,
+      "notes": ""
+    },
+    {
+      "term": "Animal Life",
+      "canonical_file": "core_05p_participation_definitions.md",
+      "anchor": "#animal-life",
+      "line_start": 1424,
+      "definition_class": "dependent_cluster",
+      "tetrad_leg": "Participation",
+      "primary_aim": "Flourishing",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.4 Participation"
+      ],
+      "cluster_id": "3.5 Animal Life, Sentient Life, and Sentience Status",
+      "notes": ""
+    },
+    {
+      "term": "Anti-Displacement Floor",
+      "canonical_file": "core_05c_continuity_definitions.md",
+      "anchor": "#anti-displacement-floor-constitutional",
+      "line_start": 1528,
+      "definition_class": "dependent_cluster",
+      "tetrad_leg": "Continuity",
+      "primary_aim": "Continuity",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.2 Flourishing",
+        "3.3 Continuity"
+      ],
+      "cluster_id": "3.12 Labor and Economic Floor: Compensation, Organization, Safe Conditions, Leisure, and Creative Work",
+      "notes": ""
+    },
+    {
+      "term": "Assembly",
+      "canonical_file": "core_05p_participation_definitions.md",
+      "anchor": "#assembly",
+      "line_start": 344,
+      "definition_class": "semi_independent",
+      "tetrad_leg": "Participation",
+      "primary_aim": "cross-cutting",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.4 Participation"
+      ],
+      "cluster_id": null,
+      "notes": ""
+    },
+    {
+      "term": "Audit Scope Sufficiency",
+      "canonical_file": "core_05o_oversight_definitions.md",
+      "anchor": "#audit-scope-sufficiency",
+      "line_start": 594,
+      "definition_class": "dependent_cluster",
+      "tetrad_leg": "Oversight",
+      "primary_aim": "Flourishing",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.5 Oversight"
+      ],
+      "cluster_id": "3.2 Transparency, Auditability, and Verification",
+      "notes": ""
+    },
+    {
+      "term": "Auditability",
+      "canonical_file": "core_05o_oversight_definitions.md",
+      "anchor": "#auditability",
+      "line_start": 609,
+      "definition_class": "dependent_cluster",
+      "tetrad_leg": "Oversight",
+      "primary_aim": "Flourishing",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.5 Oversight"
+      ],
+      "cluster_id": "3.2 Transparency, Auditability, and Verification",
+      "notes": ""
+    },
+    {
+      "term": "Authority Stack and Internal Hierarchy",
+      "canonical_file": "core_05i_integrative_definitions.md",
+      "anchor": "#authority-stack",
+      "line_start": 298,
+      "definition_class": "dependent_cluster",
+      "tetrad_leg": "Integrative",
+      "primary_aim": "Flourishing",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.5 Oversight",
+        "3.6 Accountability"
+      ],
+      "cluster_id": "3.16 Corpus, Authority Stack, Supremacy, and Enforceability",
+      "notes": ""
+    },
+    {
+      "term": "Autonomous Coercion Tool",
+      "canonical_file": "core_05a_accountability_definitions.md",
+      "anchor": "#autonomous-coercion-tool-constitutional",
+      "line_start": 1953,
+      "definition_class": "dependent_cluster",
+      "tetrad_leg": "Accountability",
+      "primary_aim": "Continuity",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.2 Flourishing",
+        "3.3 Continuity"
+      ],
+      "cluster_id": "3.11 Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm",
+      "notes": ""
+    },
+    {
+      "term": "Autonomous Lethal System",
+      "canonical_file": "core_05a_accountability_definitions.md",
+      "anchor": "#autonomous-lethal-system-constitutional",
+      "line_start": 1809,
+      "definition_class": "dependent_cluster",
+      "tetrad_leg": "Accountability",
+      "primary_aim": "Continuity",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.2 Flourishing",
+        "3.3 Continuity"
+      ],
+      "cluster_id": "3.11 Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm",
+      "notes": ""
+    },
+    {
+      "term": "Avoidable Burden",
+      "canonical_file": "core_05c_continuity_definitions.md",
+      "anchor": "#avoidable-burden",
+      "line_start": 665,
+      "definition_class": "semi_independent",
+      "tetrad_leg": "Continuity",
+      "primary_aim": "cross-cutting",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.3 Continuity",
+        "3.8 Constitutional performance"
+      ],
+      "cluster_id": null,
+      "notes": ""
+    },
+    {
+      "term": "Best-Interest Standard",
+      "canonical_file": "core_05p_participation_definitions.md",
+      "anchor": "#best-interest-standard",
+      "line_start": 1083,
+      "definition_class": "semi_independent",
+      "tetrad_leg": "Participation",
+      "primary_aim": "cross-cutting",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.4 Participation"
+      ],
+      "cluster_id": null,
+      "notes": ""
+    },
+    {
+      "term": "Binding Stakeholder Choice — Decision-Resolution Requirements",
+      "canonical_file": "core_05p_participation_definitions.md",
+      "anchor": "#binding-stakeholder-choice-decision-resolution-requirements",
+      "line_start": 1532,
+      "definition_class": "dependent_cluster",
+      "tetrad_leg": "Participation",
+      "primary_aim": "Flourishing",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.4 Participation"
+      ],
+      "cluster_id": "3.6 Binding Stakeholder Choice",
+      "notes": ""
+    },
+    {
+      "term": "Bodily-Maintenance Access",
+      "canonical_file": "core_05c_continuity_definitions.md",
+      "anchor": "#bodily-maintenance-access-constitutional",
+      "line_start": 1138,
+      "definition_class": "semi_independent",
+      "tetrad_leg": "Continuity",
+      "primary_aim": "cross-cutting",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.2 Flourishing",
+        "3.3 Continuity"
+      ],
+      "cluster_id": null,
+      "notes": ""
+    },
+    {
+      "term": "Burden-Reduction Duty",
+      "canonical_file": "core_05c_continuity_definitions.md",
+      "anchor": "#burden-reduction-duty-constitutional",
+      "line_start": 701,
+      "definition_class": "semi_independent",
+      "tetrad_leg": "Continuity",
+      "primary_aim": "cross-cutting",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.3 Continuity",
+        "3.8 Constitutional performance"
+      ],
+      "cluster_id": null,
+      "notes": ""
+    },
+    {
+      "term": "Business Creation",
+      "canonical_file": "core_05p_participation_definitions.md",
+      "anchor": "#business-creation",
+      "line_start": 450,
+      "definition_class": "semi_independent",
+      "tetrad_leg": "Participation",
+      "primary_aim": "cross-cutting",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.4 Participation"
+      ],
+      "cluster_id": null,
+      "notes": ""
+    },
+    {
+      "term": "Capability Requirement",
+      "canonical_file": "core_05o_oversight_definitions.md",
+      "anchor": "#capability-requirement",
+      "line_start": 68,
+      "definition_class": "independent",
+      "tetrad_leg": "Oversight",
+      "primary_aim": "cross-cutting",
+      "aim_role": "independent",
+      "ch00_measurement": [
+        "3.5 Oversight"
+      ],
+      "cluster_id": null,
+      "notes": ""
+    },
+    {
+      "term": "Capture of Resolution Pathways",
+      "canonical_file": "core_05a_accountability_definitions.md",
+      "anchor": "#capture-of-resolution-pathways",
+      "line_start": 691,
+      "definition_class": "semi_independent",
+      "tetrad_leg": "Accountability",
+      "primary_aim": "cross-cutting",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.6 Accountability",
+        "3.7 Timeliness"
+      ],
+      "cluster_id": null,
+      "notes": ""
+    },
+    {
+      "term": "Cascading Failure",
+      "canonical_file": "core_05c_continuity_definitions.md",
+      "anchor": "#cascading-failure",
+      "line_start": 57,
+      "definition_class": "independent",
+      "tetrad_leg": "Continuity",
+      "primary_aim": "cross-cutting",
+      "aim_role": "independent",
+      "ch00_measurement": [
+        "3.3 Continuity"
+      ],
+      "cluster_id": null,
+      "notes": ""
+    },
+    {
+      "term": "Classification-Scaled Governance",
+      "canonical_file": "core_05o_oversight_definitions.md",
+      "anchor": "#classification-scaled-governance",
+      "line_start": 94,
+      "definition_class": "semi_independent",
+      "tetrad_leg": "Oversight",
+      "primary_aim": "cross-cutting",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.5 Oversight"
+      ],
+      "cluster_id": null,
+      "notes": ""
+    },
+    {
+      "term": "Coercion and Manipulation",
+      "canonical_file": "core_05p_participation_definitions.md",
+      "anchor": "#coercion-and-manipulation",
+      "line_start": 603,
+      "definition_class": "semi_independent",
+      "tetrad_leg": "Participation",
+      "primary_aim": "cross-cutting",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.4 Participation"
+      ],
+      "cluster_id": null,
+      "notes": ""
+    },
+    {
+      "term": "Collective Accountability Failure",
+      "canonical_file": "core_05a_accountability_definitions.md",
+      "anchor": "#collective-accountability-failure",
+      "line_start": 637,
+      "definition_class": "semi_independent",
+      "tetrad_leg": "Accountability",
+      "primary_aim": "cross-cutting",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.6 Accountability",
+        "3.7 Timeliness"
+      ],
+      "cluster_id": null,
+      "notes": ""
+    },
+    {
+      "term": "Collective Harm Boundary",
+      "canonical_file": "core_05a_accountability_definitions.md",
+      "anchor": "#collective-harm-boundary",
+      "line_start": 1027,
+      "definition_class": "dependent_cluster",
+      "tetrad_leg": "Accountability",
+      "primary_aim": "Flourishing",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.2 Flourishing",
+        "3.6 Accountability"
+      ],
+      "cluster_id": "3.8 Collective Harm Boundary, Harm, and Harassment and Bullying",
+      "notes": ""
+    },
+    {
+      "term": "Collective Organization",
+      "canonical_file": "core_05p_participation_definitions.md",
+      "anchor": "#collective-organization",
+      "line_start": 380,
+      "definition_class": "semi_independent",
+      "tetrad_leg": "Participation",
+      "primary_aim": "cross-cutting",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.4 Participation"
+      ],
+      "cluster_id": null,
+      "notes": ""
+    },
+    {
+      "term": "Combatant / Non-Combatant Distinction",
+      "canonical_file": "core_05a_accountability_definitions.md",
+      "anchor": "#combatant-non-combatant-distinction-constitutional",
+      "line_start": 1880,
+      "definition_class": "dependent_cluster",
+      "tetrad_leg": "Accountability",
+      "primary_aim": "Continuity",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.2 Flourishing",
+        "3.3 Continuity"
+      ],
+      "cluster_id": "3.11 Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm",
+      "notes": ""
+    },
+    {
+      "term": "Competency Gate",
+      "canonical_file": "core_05a_accountability_definitions.md",
+      "anchor": "#competency-gate",
+      "line_start": 1535,
+      "definition_class": "dependent_cluster",
+      "tetrad_leg": "Accountability",
+      "primary_aim": "cross-cutting",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.6 Accountability",
+        "3.7 Timeliness"
+      ],
+      "cluster_id": "3.10 Standing State, Contribution, and Violation",
+      "notes": ""
+    },
+    {
+      "term": "Concentration Threshold",
+      "canonical_file": "core_05a_accountability_definitions.md",
+      "anchor": "#concentration-threshold-constitutional",
+      "line_start": 917,
+      "definition_class": "semi_independent",
+      "tetrad_leg": "Accountability",
+      "primary_aim": "cross-cutting",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.6 Accountability",
+        "3.7 Timeliness"
+      ],
+      "cluster_id": null,
+      "notes": ""
+    },
+    {
+      "term": "Consent",
+      "canonical_file": "core_05p_participation_definitions.md",
+      "anchor": "#consent",
+      "line_start": 540,
+      "definition_class": "semi_independent",
+      "tetrad_leg": "Participation",
+      "primary_aim": "cross-cutting",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.4 Participation"
+      ],
+      "cluster_id": null,
+      "notes": ""
+    },
+    {
+      "term": "Consent, Sexual",
+      "canonical_file": "core_05p_participation_definitions.md",
+      "anchor": "#consent-sexual",
+      "line_start": 571,
+      "definition_class": "semi_independent",
+      "tetrad_leg": "Participation",
+      "primary_aim": "cross-cutting",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.4 Participation"
+      ],
+      "cluster_id": null,
+      "notes": ""
+    },
+    {
+      "term": "Constitutional Community",
+      "canonical_file": "core_05p_participation_definitions.md",
+      "anchor": "#constitutional-community",
+      "line_start": 99,
+      "definition_class": "semi_independent",
+      "tetrad_leg": "Participation",
+      "primary_aim": "cross-cutting",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.4 Participation"
+      ],
+      "cluster_id": null,
+      "notes": ""
+    },
+    {
+      "term": "Constitutional Constraint",
+      "canonical_file": "core_05i_integrative_definitions.md",
+      "anchor": "#constitutional-constraint",
+      "line_start": 405,
+      "definition_class": "dependent_cluster",
+      "tetrad_leg": "Integrative",
+      "primary_aim": "cross-cutting",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.6 Accountability"
+      ],
+      "cluster_id": null,
+      "notes": ""
+    },
+    {
+      "term": "Constitutional Constraint Violation",
+      "canonical_file": "core_05i_integrative_definitions.md",
+      "anchor": "#constitutional-constraint-violation",
+      "line_start": 442,
+      "definition_class": "dependent_cluster",
+      "tetrad_leg": "Integrative",
+      "primary_aim": "Flourishing",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.5 Oversight",
+        "3.6 Accountability"
+      ],
+      "cluster_id": "3.16 Corpus, Authority Stack, Supremacy, and Enforceability",
+      "notes": ""
+    },
+    {
+      "term": "Constitutional Contract Layer",
+      "canonical_file": "core_05i_integrative_definitions.md",
+      "anchor": "#constitutional-contract-layer",
+      "line_start": 42,
+      "definition_class": "independent",
+      "tetrad_leg": "Integrative",
+      "primary_aim": "cross-cutting",
+      "aim_role": "independent",
+      "ch00_measurement": [
+        "3.6 Accountability"
+      ],
+      "cluster_id": null,
+      "notes": ""
+    },
+    {
+      "term": "Constitutional Efficiency",
+      "canonical_file": "core_05c_continuity_definitions.md",
+      "anchor": "#constitutional-efficiency",
+      "line_start": 595,
+      "definition_class": "semi_independent",
+      "tetrad_leg": "Continuity",
+      "primary_aim": "cross-cutting",
+      "aim_role": "measurement_family_member",
+      "ch00_measurement": [
+        "3.8 Constitutional performance"
+      ],
+      "cluster_id": null,
+      "notes": ""
+    },
+    {
+      "term": "Constitutional Emergency and Contingency",
+      "canonical_file": "core_05c_continuity_definitions.md",
+      "anchor": "#constitutional-emergency-and-contingency",
+      "line_start": 947,
+      "definition_class": "semi_independent",
+      "tetrad_leg": "Continuity",
+      "primary_aim": "cross-cutting",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.3 Continuity"
+      ],
+      "cluster_id": null,
+      "notes": ""
+    },
+    {
+      "term": "Constitutional Owner Layers",
+      "canonical_file": "core_05i_integrative_definitions.md",
+      "anchor": "#constitutional-owner-layers",
+      "line_start": 336,
+      "definition_class": "dependent_cluster",
+      "tetrad_leg": "Integrative",
+      "primary_aim": "cross-cutting",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.6 Accountability"
+      ],
+      "cluster_id": null,
+      "notes": ""
+    },
+    {
+      "term": "Contestability",
+      "canonical_file": "core_05a_accountability_definitions.md",
+      "anchor": "#contestability",
+      "line_start": 405,
+      "definition_class": "semi_independent",
+      "tetrad_leg": "Accountability",
+      "primary_aim": "cross-cutting",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.6 Accountability",
+        "3.7 Timeliness"
+      ],
+      "cluster_id": null,
+      "notes": ""
+    },
+    {
+      "term": "Contested-Sentient Life",
+      "canonical_file": "core_05p_participation_definitions.md",
+      "anchor": "#contested-sentient-life",
+      "line_start": 1445,
+      "definition_class": "dependent_cluster",
+      "tetrad_leg": "Participation",
+      "primary_aim": "Flourishing",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.4 Participation"
+      ],
+      "cluster_id": "3.5 Animal Life, Sentient Life, and Sentience Status",
+      "notes": ""
+    },
+    {
+      "term": "Contingent Claim",
+      "canonical_file": "core_05a_accountability_definitions.md",
+      "anchor": "#contingent-claim",
+      "line_start": 45,
+      "definition_class": "independent",
+      "tetrad_leg": "Accountability",
+      "primary_aim": "cross-cutting",
+      "aim_role": "independent",
+      "ch00_measurement": [
+        "3.6 Accountability",
+        "3.7 Timeliness"
+      ],
+      "cluster_id": null,
+      "notes": ""
+    },
+    {
+      "term": "Continuity (Constitutional Aim)",
+      "canonical_file": "core_05g_continuity_aim.md",
+      "anchor": "#continuity-aim-constitutional",
+      "line_start": 33,
+      "definition_class": "semi_independent",
+      "tetrad_leg": "cross-leg",
+      "primary_aim": "Continuity",
+      "aim_role": "aim_head",
+      "ch00_measurement": [
+        "3.3 Continuity"
+      ],
+      "cluster_id": null,
+      "notes": ""
+    },
+    {
+      "term": "Contribution State",
+      "canonical_file": "core_05a_accountability_definitions.md",
+      "anchor": "#contribution-state",
+      "line_start": 1398,
+      "definition_class": "dependent_cluster",
+      "tetrad_leg": "Accountability",
+      "primary_aim": "cross-cutting",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.6 Accountability",
+        "3.7 Timeliness"
+      ],
+      "cluster_id": "3.10 Standing State, Contribution, and Violation",
+      "notes": ""
+    },
+    {
+      "term": "Corpus",
+      "canonical_file": "core_05i_integrative_definitions.md",
+      "anchor": "#corpus",
+      "line_start": 268,
+      "definition_class": "dependent_cluster",
+      "tetrad_leg": "Integrative",
+      "primary_aim": "Flourishing",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.5 Oversight",
+        "3.6 Accountability"
+      ],
+      "cluster_id": "3.16 Corpus, Authority Stack, Supremacy, and Enforceability",
+      "notes": ""
+    },
+    {
+      "term": "Creative Work Attribution",
+      "canonical_file": "core_05c_continuity_definitions.md",
+      "anchor": "#creative-work-attribution-constitutional",
+      "line_start": 1481,
+      "definition_class": "dependent_cluster",
+      "tetrad_leg": "Continuity",
+      "primary_aim": "Continuity",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.2 Flourishing",
+        "3.3 Continuity"
+      ],
+      "cluster_id": "3.12 Labor and Economic Floor: Compensation, Organization, Safe Conditions, Leisure, and Creative Work",
+      "notes": ""
+    },
+    {
+      "term": "Decentralization",
+      "canonical_file": "core_05a_accountability_definitions.md",
+      "anchor": "#decentralization",
+      "line_start": 888,
+      "definition_class": "semi_independent",
+      "tetrad_leg": "Accountability",
+      "primary_aim": "cross-cutting",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.6 Accountability",
+        "3.7 Timeliness"
+      ],
+      "cluster_id": null,
+      "notes": ""
+    },
+    {
+      "term": "Dependency",
+      "canonical_file": "core_05c_continuity_definitions.md",
+      "anchor": "#dependency",
+      "line_start": 89,
+      "definition_class": "independent",
+      "tetrad_leg": "Continuity",
+      "primary_aim": "Continuity",
+      "aim_role": "measurement_family_member",
+      "ch00_measurement": [
+        "3.3 Continuity"
+      ],
+      "cluster_id": null,
+      "notes": ""
+    },
+    {
+      "term": "Derived Sentient",
+      "canonical_file": "core_05p_participation_definitions.md",
+      "anchor": "#derived-sentient",
+      "line_start": 1021,
+      "definition_class": "semi_independent",
+      "tetrad_leg": "Participation",
+      "primary_aim": "cross-cutting",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.4 Participation"
+      ],
+      "cluster_id": null,
+      "notes": ""
+    },
+    {
+      "term": "Developing Sentient",
+      "canonical_file": "core_05p_participation_definitions.md",
+      "anchor": "#developing-sentient",
+      "line_start": 1052,
+      "definition_class": "semi_independent",
+      "tetrad_leg": "Participation",
+      "primary_aim": "cross-cutting",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.4 Participation"
+      ],
+      "cluster_id": null,
+      "notes": ""
+    },
+    {
+      "term": "Dignity and Equal Moral Standing",
+      "canonical_file": "core_05p_participation_definitions.md",
+      "anchor": "#dignity-and-equal-moral-standing",
+      "line_start": 128,
+      "definition_class": "semi_independent",
+      "tetrad_leg": "Participation",
+      "primary_aim": "cross-cutting",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.4 Participation"
+      ],
+      "cluster_id": null,
+      "notes": ""
+    },
+    {
+      "term": "Distributed Understanding",
+      "canonical_file": "core_05c_continuity_definitions.md",
+      "anchor": "#distributed-understanding-constitutional",
+      "line_start": 1630,
+      "definition_class": "dependent_cluster",
+      "tetrad_leg": "Continuity",
+      "primary_aim": "Continuity",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.3 Continuity",
+        "3.8 Constitutional performance"
+      ],
+      "cluster_id": "3.13 Stewardship, Governance Discipline, and Shared-System Capacity",
+      "notes": ""
+    },
+    {
+      "term": "Due Process",
+      "canonical_file": "core_05a_accountability_definitions.md",
+      "anchor": "#due-process-constitutional",
+      "line_start": 470,
+      "definition_class": "semi_independent",
+      "tetrad_leg": "Accountability",
+      "primary_aim": "cross-cutting",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.6 Accountability",
+        "3.7 Timeliness"
+      ],
+      "cluster_id": null,
+      "notes": ""
+    },
+    {
+      "term": "Ecological Footprint",
+      "canonical_file": "core_05c_continuity_definitions.md",
+      "anchor": "#ecological-footprint",
+      "line_start": 807,
+      "definition_class": "semi_independent",
+      "tetrad_leg": "Continuity",
+      "primary_aim": "Continuity",
+      "aim_role": "measurement_family_member",
+      "ch00_measurement": [
+        "3.3 Continuity"
+      ],
+      "cluster_id": null,
+      "notes": ""
+    },
+    {
+      "term": "Ecological Integrity",
+      "canonical_file": "core_05c_continuity_definitions.md",
+      "anchor": "#ecological-integrity-constitutional",
+      "line_start": 751,
+      "definition_class": "semi_independent",
+      "tetrad_leg": "Continuity",
+      "primary_aim": "cross-cutting",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.3 Continuity"
+      ],
+      "cluster_id": null,
+      "notes": ""
+    },
+    {
+      "term": "Ecological Recovery Capacity",
+      "canonical_file": "core_05c_continuity_definitions.md",
+      "anchor": "#ecological-recovery-capacity-constitutional",
+      "line_start": 779,
+      "definition_class": "semi_independent",
+      "tetrad_leg": "Continuity",
+      "primary_aim": "cross-cutting",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.3 Continuity"
+      ],
+      "cluster_id": null,
+      "notes": ""
+    },
+    {
+      "term": "Educational Agency",
+      "canonical_file": "core_05p_participation_definitions.md",
+      "anchor": "#educational-agency",
+      "line_start": 1688,
+      "definition_class": "dependent_cluster",
+      "tetrad_leg": "Participation",
+      "primary_aim": "Flourishing",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.4 Participation"
+      ],
+      "cluster_id": "3.7 Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity",
+      "notes": ""
+    },
+    {
+      "term": "Emergency and Contingency",
+      "canonical_file": "core_05c_continuity_definitions.md",
+      "anchor": "#emergency-and-contingency-constitutional",
+      "line_start": 915,
+      "definition_class": "semi_independent",
+      "tetrad_leg": "Continuity",
+      "primary_aim": "cross-cutting",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.3 Continuity"
+      ],
+      "cluster_id": null,
+      "notes": ""
+    },
+    {
+      "term": "Emergency Pre-Deliberation Action (Binding Collective Choice)",
+      "canonical_file": "core_05c_continuity_definitions.md",
+      "anchor": "#emergency-pre-deliberation-action-binding-collective-choice",
+      "line_start": 1001,
+      "definition_class": "semi_independent",
+      "tetrad_leg": "Continuity",
+      "primary_aim": "cross-cutting",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.3 Continuity"
+      ],
+      "cluster_id": null,
+      "notes": ""
+    },
+    {
+      "term": "Environmental Preconditions",
+      "canonical_file": "core_05c_continuity_definitions.md",
+      "anchor": "#environmental-preconditions-constitutional",
+      "line_start": 1205,
+      "definition_class": "semi_independent",
+      "tetrad_leg": "Continuity",
+      "primary_aim": "cross-cutting",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.2 Flourishing",
+        "3.3 Continuity"
+      ],
+      "cluster_id": null,
+      "notes": ""
+    },
+    {
+      "term": "Epistemic Integrity",
+      "canonical_file": "core_05o_oversight_definitions.md",
+      "anchor": "#epistemic-integrity",
+      "line_start": 874,
+      "definition_class": "dependent_cluster",
+      "tetrad_leg": "Oversight",
+      "primary_aim": "Flourishing",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.5 Oversight"
+      ],
+      "cluster_id": "3.3 Truth and Epistemic Integrity",
+      "notes": ""
+    },
+    {
+      "term": "Essential-Environment Non-Commodification",
+      "canonical_file": "core_05c_continuity_definitions.md",
+      "anchor": "#essential-environment-non-commodification-constitutional",
+      "line_start": 157,
+      "definition_class": "semi_independent",
+      "tetrad_leg": "Continuity",
+      "primary_aim": "cross-cutting",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.3 Continuity"
+      ],
+      "cluster_id": null,
+      "notes": ""
+    },
+    {
+      "term": "Evaluation Completeness Constraint",
+      "canonical_file": "core_05o_oversight_definitions.md",
+      "anchor": "#evaluation-completeness-constraint",
+      "line_start": 667,
+      "definition_class": "dependent_cluster",
+      "tetrad_leg": "Oversight",
+      "primary_aim": "Flourishing",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.5 Oversight"
+      ],
+      "cluster_id": "3.2 Transparency, Auditability, and Verification",
+      "notes": ""
+    },
+    {
+      "term": "Event-Contract Market",
+      "canonical_file": "core_05a_accountability_definitions.md",
+      "anchor": "#event-contract-market",
+      "line_start": 72,
+      "definition_class": "independent",
+      "tetrad_leg": "Accountability",
+      "primary_aim": "cross-cutting",
+      "aim_role": "independent",
+      "ch00_measurement": [
+        "3.6 Accountability",
+        "3.7 Timeliness"
+      ],
+      "cluster_id": null,
+      "notes": ""
+    },
+    {
+      "term": "Evidence Preservation",
+      "canonical_file": "core_05o_oversight_definitions.md",
+      "anchor": "#evidence-preservation",
+      "line_start": 643,
+      "definition_class": "dependent_cluster",
+      "tetrad_leg": "Oversight",
+      "primary_aim": "Flourishing",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.5 Oversight"
+      ],
+      "cluster_id": "3.2 Transparency, Auditability, and Verification",
+      "notes": ""
+    },
+    {
+      "term": "Existential Risk",
+      "canonical_file": "core_05c_continuity_definitions.md",
+      "anchor": "#existential-risk",
+      "line_start": 187,
+      "definition_class": "semi_independent",
+      "tetrad_leg": "Continuity",
+      "primary_aim": "cross-cutting",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.3 Continuity"
+      ],
+      "cluster_id": null,
+      "notes": ""
+    },
+    {
+      "term": "Expression",
+      "canonical_file": "core_05p_participation_definitions.md",
+      "anchor": "#expression",
+      "line_start": 1658,
+      "definition_class": "dependent_cluster",
+      "tetrad_leg": "Participation",
+      "primary_aim": "Flourishing",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.4 Participation"
+      ],
+      "cluster_id": "3.7 Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity",
+      "notes": ""
+    },
+    {
+      "term": "Fair Compensation",
+      "canonical_file": "core_05c_continuity_definitions.md",
+      "anchor": "#fair-compensation-constitutional",
+      "line_start": 1370,
+      "definition_class": "dependent_cluster",
+      "tetrad_leg": "Continuity",
+      "primary_aim": "Continuity",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.2 Flourishing",
+        "3.3 Continuity"
+      ],
+      "cluster_id": "3.12 Labor and Economic Floor: Compensation, Organization, Safe Conditions, Leisure, and Creative Work",
+      "notes": ""
+    },
+    {
+      "term": "Family and Care Relationships",
+      "canonical_file": "core_05p_participation_definitions.md",
+      "anchor": "#family-and-care-relationships",
+      "line_start": 895,
+      "definition_class": "semi_independent",
+      "tetrad_leg": "Participation",
+      "primary_aim": "cross-cutting",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.4 Participation"
+      ],
+      "cluster_id": null,
+      "notes": ""
+    },
+    {
+      "term": "Feasibility",
+      "canonical_file": "core_05a_accountability_definitions.md",
+      "anchor": "#feasibility",
+      "line_start": 99,
+      "definition_class": "semi_independent",
+      "tetrad_leg": "Accountability",
+      "primary_aim": "cross-cutting",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.6 Accountability",
+        "3.7 Timeliness"
+      ],
+      "cluster_id": null,
+      "notes": ""
+    },
+    {
+      "term": "Flourishing",
+      "canonical_file": "core_05f_flourishing_aim.md",
+      "anchor": "#flourishing-constitutional",
+      "line_start": 33,
+      "definition_class": "semi_independent",
+      "tetrad_leg": "cross-leg",
+      "primary_aim": "Flourishing",
+      "aim_role": "aim_head",
+      "ch00_measurement": [
+        "3.2 Flourishing"
+      ],
+      "cluster_id": null,
+      "notes": ""
+    },
+    {
+      "term": "Force Majeure",
+      "canonical_file": "core_05a_accountability_definitions.md",
+      "anchor": "#force-majeure-constitutional",
+      "line_start": 665,
+      "definition_class": "semi_independent",
+      "tetrad_leg": "Accountability",
+      "primary_aim": "cross-cutting",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.6 Accountability",
+        "3.7 Timeliness"
+      ],
+      "cluster_id": null,
+      "notes": ""
+    },
+    {
+      "term": "Foreseeability Burden",
+      "canonical_file": "core_05o_oversight_definitions.md",
+      "anchor": "#foreseeability-burden",
+      "line_start": 927,
+      "definition_class": "dependent_cluster",
+      "tetrad_leg": "Oversight",
+      "primary_aim": "cross-cutting",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.5 Oversight"
+      ],
+      "cluster_id": null,
+      "notes": ""
+    },
+    {
+      "term": "Foreseeability Diligence",
+      "canonical_file": "core_05o_oversight_definitions.md",
+      "anchor": "#foreseeability-diligence",
+      "line_start": 939,
+      "definition_class": "dependent_cluster",
+      "tetrad_leg": "Oversight",
+      "primary_aim": "cross-cutting",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.5 Oversight"
+      ],
+      "cluster_id": null,
+      "notes": ""
+    },
+    {
+      "term": "Foreseeability Failure",
+      "canonical_file": "core_05o_oversight_definitions.md",
+      "anchor": "#foreseeability-failure",
+      "line_start": 950,
+      "definition_class": "dependent_cluster",
+      "tetrad_leg": "Oversight",
+      "primary_aim": "cross-cutting",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.5 Oversight"
+      ],
+      "cluster_id": null,
+      "notes": ""
+    },
+    {
+      "term": "Foreseeability Scaling",
+      "canonical_file": "core_05o_oversight_definitions.md",
+      "anchor": "#foreseeability-scaling",
+      "line_start": 961,
+      "definition_class": "dependent_cluster",
+      "tetrad_leg": "Oversight",
+      "primary_aim": "cross-cutting",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.5 Oversight"
+      ],
+      "cluster_id": null,
+      "notes": ""
+    },
+    {
+      "term": "Foreseeability Scope",
+      "canonical_file": "core_05o_oversight_definitions.md",
+      "anchor": "#foreseeability-scope",
+      "line_start": 972,
+      "definition_class": "dependent_cluster",
+      "tetrad_leg": "Oversight",
+      "primary_aim": "cross-cutting",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.5 Oversight"
+      ],
+      "cluster_id": null,
+      "notes": ""
+    },
+    {
+      "term": "Forum Family, Constitutional",
+      "canonical_file": "core_05a_accountability_definitions.md",
+      "anchor": "#forum-family-constitutional",
+      "line_start": 1300,
+      "definition_class": "dependent_cluster",
+      "tetrad_leg": "Accountability",
+      "primary_aim": "Flourishing",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.6 Accountability",
+        "3.7 Timeliness"
+      ],
+      "cluster_id": "3.9 Forum Families and Dispute Routing",
+      "notes": ""
+    },
+    {
+      "term": "Forum Family, Environment",
+      "canonical_file": "core_05a_accountability_definitions.md",
+      "anchor": "#forum-family-environment",
+      "line_start": 1252,
+      "definition_class": "dependent_cluster",
+      "tetrad_leg": "Accountability",
+      "primary_aim": "Flourishing",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.6 Accountability",
+        "3.7 Timeliness"
+      ],
+      "cluster_id": "3.9 Forum Families and Dispute Routing",
+      "notes": ""
+    },
+    {
+      "term": "Forum Family, Institutional",
+      "canonical_file": "core_05a_accountability_definitions.md",
+      "anchor": "#forum-family-institutional",
+      "line_start": 1228,
+      "definition_class": "dependent_cluster",
+      "tetrad_leg": "Accountability",
+      "primary_aim": "Flourishing",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.6 Accountability",
+        "3.7 Timeliness"
+      ],
+      "cluster_id": "3.9 Forum Families and Dispute Routing",
+      "notes": ""
+    },
+    {
+      "term": "Forum Family, Integrity",
+      "canonical_file": "core_05a_accountability_definitions.md",
+      "anchor": "#forum-family-integrity",
+      "line_start": 1276,
+      "definition_class": "dependent_cluster",
+      "tetrad_leg": "Accountability",
+      "primary_aim": "Flourishing",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.6 Accountability",
+        "3.7 Timeliness"
+      ],
+      "cluster_id": "3.9 Forum Families and Dispute Routing",
+      "notes": ""
+    },
+    {
+      "term": "Forum Family, Sentient",
+      "canonical_file": "core_05a_accountability_definitions.md",
+      "anchor": "#forum-family-sentient",
+      "line_start": 1180,
+      "definition_class": "dependent_cluster",
+      "tetrad_leg": "Accountability",
+      "primary_aim": "Flourishing",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.6 Accountability",
+        "3.7 Timeliness"
+      ],
+      "cluster_id": "3.9 Forum Families and Dispute Routing",
+      "notes": ""
+    },
+    {
+      "term": "Forum Family, Technical",
+      "canonical_file": "core_05a_accountability_definitions.md",
+      "anchor": "#forum-family-technical",
+      "line_start": 1204,
+      "definition_class": "dependent_cluster",
+      "tetrad_leg": "Accountability",
+      "primary_aim": "Flourishing",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.6 Accountability",
+        "3.7 Timeliness"
+      ],
+      "cluster_id": "3.9 Forum Families and Dispute Routing",
+      "notes": ""
+    },
+    {
+      "term": "Foundational Constitutional Choice",
+      "canonical_file": "core_05i_integrative_definitions.md",
+      "anchor": "#foundational-constitutional-choice",
+      "line_start": 72,
+      "definition_class": "independent",
+      "tetrad_leg": "Integrative",
+      "primary_aim": "cross-cutting",
+      "aim_role": "independent",
+      "ch00_measurement": [
+        "3.6 Accountability"
+      ],
+      "cluster_id": null,
+      "notes": ""
+    },
+    {
+      "term": "Freedom (Bounded Agency)",
+      "canonical_file": "core_05p_participation_definitions.md",
+      "anchor": "#freedom-bounded-agency",
+      "line_start": 159,
+      "definition_class": "semi_independent",
+      "tetrad_leg": "Participation",
+      "primary_aim": "Flourishing",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.4 Participation"
+      ],
+      "cluster_id": "3.7 Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity",
+      "notes": ""
+    },
+    {
+      "term": "Game of Chance",
+      "canonical_file": "core_05a_accountability_definitions.md",
+      "anchor": "#game-of-chance",
+      "line_start": 126,
+      "definition_class": "semi_independent",
+      "tetrad_leg": "Accountability",
+      "primary_aim": "cross-cutting",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.6 Accountability",
+        "3.7 Timeliness"
+      ],
+      "cluster_id": null,
+      "notes": ""
+    },
+    {
+      "term": "Good Faith",
+      "canonical_file": "core_05a_accountability_definitions.md",
+      "anchor": "#good-faith",
+      "line_start": 180,
+      "definition_class": "semi_independent",
+      "tetrad_leg": "Accountability",
+      "primary_aim": "cross-cutting",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.6 Accountability",
+        "3.7 Timeliness"
+      ],
+      "cluster_id": null,
+      "notes": ""
+    },
+    {
+      "term": "Governance",
+      "canonical_file": "core_05a_accountability_definitions.md",
+      "anchor": "#governance",
+      "line_start": 861,
+      "definition_class": "semi_independent",
+      "tetrad_leg": "Accountability",
+      "primary_aim": "cross-cutting",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.6 Accountability",
+        "3.7 Timeliness"
+      ],
+      "cluster_id": null,
+      "notes": ""
+    },
+    {
+      "term": "Graduated Capability",
+      "canonical_file": "core_05p_participation_definitions.md",
+      "anchor": "#graduated-capability",
+      "line_start": 1135,
+      "definition_class": "semi_independent",
+      "tetrad_leg": "Participation",
+      "primary_aim": "cross-cutting",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.4 Participation"
+      ],
+      "cluster_id": null,
+      "notes": ""
+    },
+    {
+      "term": "Harassment and Bullying",
+      "canonical_file": "core_05a_accountability_definitions.md",
+      "anchor": "#harassment-and-bullying",
+      "line_start": 1097,
+      "definition_class": "dependent_cluster",
+      "tetrad_leg": "Accountability",
+      "primary_aim": "Flourishing",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.2 Flourishing",
+        "3.6 Accountability"
+      ],
+      "cluster_id": "3.8 Collective Harm Boundary, Harm, and Harassment and Bullying",
+      "notes": ""
+    },
+    {
+      "term": "Harm",
+      "canonical_file": "core_05a_accountability_definitions.md",
+      "anchor": "#harm",
+      "line_start": 996,
+      "definition_class": "dependent_cluster",
+      "tetrad_leg": "Accountability",
+      "primary_aim": "Flourishing",
+      "aim_role": "measurement_family_member",
+      "ch00_measurement": [
+        "3.2 Flourishing"
+      ],
+      "cluster_id": "3.8 Collective Harm Boundary, Harm, and Harassment and Bullying",
+      "notes": ""
+    },
+    {
+      "term": "Harm Minimization (Tradeoff Selection)",
+      "canonical_file": "core_05a_accountability_definitions.md",
+      "anchor": "#harm-minimization-tradeoff-selection",
+      "line_start": 205,
+      "definition_class": "semi_independent",
+      "tetrad_leg": "Accountability",
+      "primary_aim": "cross-cutting",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.6 Accountability",
+        "3.7 Timeliness"
+      ],
+      "cluster_id": null,
+      "notes": ""
+    },
+    {
+      "term": "High-Impact and Systemic Harm Publication Constraint",
+      "canonical_file": "core_05o_oversight_definitions.md",
+      "anchor": "#high-impact-and-systemic-harm-publication-constraint",
+      "line_start": 828,
+      "definition_class": "dependent_cluster",
+      "tetrad_leg": "Oversight",
+      "primary_aim": "cross-cutting",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.5 Oversight"
+      ],
+      "cluster_id": null,
+      "notes": ""
+    },
+    {
+      "term": "Incentive Alignment",
+      "canonical_file": "core_05i_integrative_definitions.md",
+      "anchor": "#incentive-alignment",
+      "line_start": 106,
+      "definition_class": "semi_independent",
+      "tetrad_leg": "Integrative",
+      "primary_aim": "cross-cutting",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.6 Accountability"
+      ],
+      "cluster_id": null,
+      "notes": ""
+    },
+    {
+      "term": "Incentive Alignment — baseline constitutional alignment",
+      "canonical_file": "core_05i_integrative_definitions.md",
+      "anchor": "#incentive-alignment-baseline-constitutional-alignment",
+      "line_start": 128,
+      "definition_class": "dependent_cluster",
+      "tetrad_leg": "Integrative",
+      "primary_aim": "cross-cutting",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.6 Accountability"
+      ],
+      "cluster_id": null,
+      "notes": ""
+    },
+    {
+      "term": "Incentive Alignment — contingent claims, games of chance, and event-contract markets",
+      "canonical_file": "core_05i_integrative_definitions.md",
+      "anchor": "#incentive-alignment-contingent-claims-games-of-chance-and-event-contract-markets",
+      "line_start": 151,
+      "definition_class": "dependent_cluster",
+      "tetrad_leg": "Integrative",
+      "primary_aim": "cross-cutting",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.6 Accountability"
+      ],
+      "cluster_id": null,
+      "notes": ""
+    },
+    {
+      "term": "Indigenous Continuity",
+      "canonical_file": "core_05c_continuity_definitions.md",
+      "anchor": "#indigenous-continuity-constitutional",
+      "line_start": 1253,
+      "definition_class": "semi_independent",
+      "tetrad_leg": "Continuity",
+      "primary_aim": "cross-cutting",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.3 Continuity"
+      ],
+      "cluster_id": null,
+      "notes": ""
+    },
+    {
+      "term": "Info-Sphere",
+      "canonical_file": "core_05p_participation_definitions.md",
+      "anchor": "#info-sphere",
+      "line_start": 189,
+      "definition_class": "semi_independent",
+      "tetrad_leg": "Participation",
+      "primary_aim": "cross-cutting",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.4 Participation"
+      ],
+      "cluster_id": null,
+      "notes": ""
+    },
+    {
+      "term": "Innovation Reward and Anti-Enclosure",
+      "canonical_file": "core_05i_integrative_definitions.md",
+      "anchor": "#innovation-reward-and-anti-enclosure",
+      "line_start": 185,
+      "definition_class": "semi_independent",
+      "tetrad_leg": "Integrative",
+      "primary_aim": "cross-cutting",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.6 Accountability"
+      ],
+      "cluster_id": null,
+      "notes": ""
+    },
+    {
+      "term": "Insider Advantage",
+      "canonical_file": "core_05a_accountability_definitions.md",
+      "anchor": "#insider-advantage",
+      "line_start": 153,
+      "definition_class": "semi_independent",
+      "tetrad_leg": "Accountability",
+      "primary_aim": "cross-cutting",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.6 Accountability",
+        "3.7 Timeliness"
+      ],
+      "cluster_id": null,
+      "notes": ""
+    },
+    {
+      "term": "Instantiation Consent",
+      "canonical_file": "core_05p_participation_definitions.md",
+      "anchor": "#instantiation-consent",
+      "line_start": 1103,
+      "definition_class": "semi_independent",
+      "tetrad_leg": "Participation",
+      "primary_aim": "cross-cutting",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.4 Participation"
+      ],
+      "cluster_id": null,
+      "notes": ""
+    },
+    {
+      "term": "Intergenerational Responsibility",
+      "canonical_file": "core_05c_continuity_definitions.md",
+      "anchor": "#intergenerational-responsibility-constitutional",
+      "line_start": 873,
+      "definition_class": "semi_independent",
+      "tetrad_leg": "Continuity",
+      "primary_aim": "cross-cutting",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.3 Continuity"
+      ],
+      "cluster_id": null,
+      "notes": ""
+    },
+    {
+      "term": "Irreversible Deprivation Measure",
+      "canonical_file": "core_05a_accountability_definitions.md",
+      "anchor": "#irreversible-deprivation-measure-constitutional",
+      "line_start": 1913,
+      "definition_class": "dependent_cluster",
+      "tetrad_leg": "Accountability",
+      "primary_aim": "Continuity",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.2 Flourishing",
+        "3.3 Continuity"
+      ],
+      "cluster_id": "3.11 Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm",
+      "notes": ""
+    },
+    {
+      "term": "Irreversible Harm",
+      "canonical_file": "core_05a_accountability_definitions.md",
+      "anchor": "#irreversible-harm",
+      "line_start": 1065,
+      "definition_class": "dependent_cluster",
+      "tetrad_leg": "Accountability",
+      "primary_aim": "Flourishing",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.2 Flourishing",
+        "3.6 Accountability"
+      ],
+      "cluster_id": "3.8 Collective Harm Boundary, Harm, and Harassment and Bullying",
+      "notes": ""
+    },
+    {
+      "term": "Language, Culture, and Heritage",
+      "canonical_file": "core_05c_continuity_definitions.md",
+      "anchor": "#language-culture-and-heritage-constitutional",
+      "line_start": 1290,
+      "definition_class": "semi_independent",
+      "tetrad_leg": "Continuity",
+      "primary_aim": "cross-cutting",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.3 Continuity"
+      ],
+      "cluster_id": null,
+      "notes": ""
+    },
+    {
+      "term": "Leisure and Rest",
+      "canonical_file": "core_05c_continuity_definitions.md",
+      "anchor": "#leisure-and-rest-constitutional",
+      "line_start": 1432,
+      "definition_class": "dependent_cluster",
+      "tetrad_leg": "Continuity",
+      "primary_aim": "Continuity",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.2 Flourishing",
+        "3.3 Continuity"
+      ],
+      "cluster_id": "3.12 Labor and Economic Floor: Compensation, Organization, Safe Conditions, Leisure, and Creative Work",
+      "notes": ""
+    },
+    {
+      "term": "Lifespan Equivalent Unit (LEQU)",
+      "canonical_file": "core_05p_participation_definitions.md",
+      "anchor": "#lifespan-equivalent-unit-lequ",
+      "line_start": 218,
+      "definition_class": "semi_independent",
+      "tetrad_leg": "Participation",
+      "primary_aim": "cross-cutting",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.4 Participation"
+      ],
+      "cluster_id": null,
+      "notes": ""
+    },
+    {
+      "term": "Likeness and Documentary Depiction Interface",
+      "canonical_file": "core_05c_continuity_definitions.md",
+      "anchor": "#likeness-and-documentary-depiction-interface-constitutional",
+      "line_start": 1465,
+      "definition_class": "dependent_cluster",
+      "tetrad_leg": "Continuity",
+      "primary_aim": "Continuity",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.2 Flourishing",
+        "3.3 Continuity"
+      ],
+      "cluster_id": "3.12 Labor and Economic Floor: Compensation, Organization, Safe Conditions, Leisure, and Creative Work",
+      "notes": ""
+    },
+    {
+      "term": "Market Structure",
+      "canonical_file": "core_05a_accountability_definitions.md",
+      "anchor": "#market-structure-constitutional",
+      "line_start": 826,
+      "definition_class": "semi_independent",
+      "tetrad_leg": "Accountability",
+      "primary_aim": "cross-cutting",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.6 Accountability",
+        "3.7 Timeliness"
+      ],
+      "cluster_id": null,
+      "notes": ""
+    },
+    {
+      "term": "Material",
+      "canonical_file": "core_05o_oversight_definitions.md",
+      "anchor": "#material",
+      "line_start": 214,
+      "definition_class": "semi_independent",
+      "tetrad_leg": "Oversight",
+      "primary_aim": "cross-cutting",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.1 Threshold and scaling",
+        "3.5 Oversight"
+      ],
+      "cluster_id": null,
+      "notes": ""
+    },
+    {
+      "term": "Material Degradation",
+      "canonical_file": "core_05o_oversight_definitions.md",
+      "anchor": "#material-degradation",
+      "line_start": 470,
+      "definition_class": "semi_independent",
+      "tetrad_leg": "Oversight",
+      "primary_aim": "cross-cutting",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.1 Threshold and scaling",
+        "3.5 Oversight"
+      ],
+      "cluster_id": null,
+      "notes": ""
+    },
+    {
+      "term": "Material Impact",
+      "canonical_file": "core_05o_oversight_definitions.md",
+      "anchor": "#material-impact",
+      "line_start": 312,
+      "definition_class": "semi_independent",
+      "tetrad_leg": "Oversight",
+      "primary_aim": "cross-cutting",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.1 Threshold and scaling",
+        "3.5 Oversight"
+      ],
+      "cluster_id": null,
+      "notes": ""
+    },
+    {
+      "term": "Material Risk",
+      "canonical_file": "core_05o_oversight_definitions.md",
+      "anchor": "#material-risk",
+      "line_start": 344,
+      "definition_class": "semi_independent",
+      "tetrad_leg": "Oversight",
+      "primary_aim": "cross-cutting",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.1 Threshold and scaling",
+        "3.5 Oversight"
+      ],
+      "cluster_id": null,
+      "notes": ""
+    },
+    {
+      "term": "Materiality Determination",
+      "canonical_file": "core_05o_oversight_definitions.md",
+      "anchor": "#materiality-determination",
+      "line_start": 245,
+      "definition_class": "semi_independent",
+      "tetrad_leg": "Oversight",
+      "primary_aim": "cross-cutting",
+      "aim_role": "measurement_family_member",
+      "ch00_measurement": [
+        "3.1 Threshold and scaling"
+      ],
+      "cluster_id": null,
+      "notes": ""
+    },
+    {
+      "term": "Materiality Integrity Constraint",
+      "canonical_file": "core_05o_oversight_definitions.md",
+      "anchor": "#materiality-integrity-constraint",
+      "line_start": 281,
+      "definition_class": "semi_independent",
+      "tetrad_leg": "Oversight",
+      "primary_aim": "cross-cutting",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.1 Threshold and scaling",
+        "3.5 Oversight"
+      ],
+      "cluster_id": null,
+      "notes": ""
+    },
+    {
+      "term": "Materiality Under Uncertainty",
+      "canonical_file": "core_05o_oversight_definitions.md",
+      "anchor": "#materiality-under-uncertainty",
+      "line_start": 375,
+      "definition_class": "semi_independent",
+      "tetrad_leg": "Oversight",
+      "primary_aim": "cross-cutting",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.1 Threshold and scaling",
+        "3.5 Oversight"
+      ],
+      "cluster_id": null,
+      "notes": ""
+    },
+    {
+      "term": "Meaningful Agency",
+      "canonical_file": "core_05p_participation_definitions.md",
+      "anchor": "#meaningful-agency",
+      "line_start": 505,
+      "definition_class": "semi_independent",
+      "tetrad_leg": "Participation",
+      "primary_aim": "Flourishing",
+      "aim_role": "constituent",
+      "ch00_measurement": [
+        "3.4 Participation",
+        "3.2 Flourishing"
+      ],
+      "cluster_id": "3.7 Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity",
+      "notes": ""
+    },
+    {
+      "term": "Merits Determination",
+      "canonical_file": "core_05a_accountability_definitions.md",
+      "anchor": "#merits-determination",
+      "line_start": 563,
+      "definition_class": "semi_independent",
+      "tetrad_leg": "Accountability",
+      "primary_aim": "cross-cutting",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.6 Accountability",
+        "3.7 Timeliness"
+      ],
+      "cluster_id": null,
+      "notes": ""
+    },
+    {
+      "term": "Movement and Relocation",
+      "canonical_file": "core_05p_participation_definitions.md",
+      "anchor": "#movement-and-relocation",
+      "line_start": 1246,
+      "definition_class": "semi_independent",
+      "tetrad_leg": "Participation",
+      "primary_aim": "cross-cutting",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.4 Participation"
+      ],
+      "cluster_id": null,
+      "notes": ""
+    },
+    {
+      "term": "Natural Systems Standing",
+      "canonical_file": "core_05p_participation_definitions.md",
+      "anchor": "#natural-systems-standing",
+      "line_start": 247,
+      "definition_class": "semi_independent",
+      "tetrad_leg": "Participation",
+      "primary_aim": "cross-cutting",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.4 Participation"
+      ],
+      "cluster_id": null,
+      "notes": ""
+    },
+    {
+      "term": "Necessity",
+      "canonical_file": "core_05a_accountability_definitions.md",
+      "anchor": "#necessity",
+      "line_start": 232,
+      "definition_class": "semi_independent",
+      "tetrad_leg": "Accountability",
+      "primary_aim": "cross-cutting",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.6 Accountability",
+        "3.7 Timeliness"
+      ],
+      "cluster_id": null,
+      "notes": ""
+    },
+    {
+      "term": "Negligence",
+      "canonical_file": "core_05a_accountability_definitions.md",
+      "anchor": "#negligence",
+      "line_start": 259,
+      "definition_class": "semi_independent",
+      "tetrad_leg": "Accountability",
+      "primary_aim": "cross-cutting",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.6 Accountability",
+        "3.7 Timeliness"
+      ],
+      "cluster_id": null,
+      "notes": ""
+    },
+    {
+      "term": "Non-Imposition (Cooperative Interaction)",
+      "canonical_file": "core_05p_participation_definitions.md",
+      "anchor": "#non-imposition-cooperative-interaction",
+      "line_start": 267,
+      "definition_class": "semi_independent",
+      "tetrad_leg": "Participation",
+      "primary_aim": "cross-cutting",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.4 Participation"
+      ],
+      "cluster_id": null,
+      "notes": ""
+    },
+    {
+      "term": "Non-Separation",
+      "canonical_file": "core_05p_participation_definitions.md",
+      "anchor": "#non-separation",
+      "line_start": 989,
+      "definition_class": "semi_independent",
+      "tetrad_leg": "Participation",
+      "primary_aim": "cross-cutting",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.4 Participation"
+      ],
+      "cluster_id": null,
+      "notes": ""
+    },
+    {
+      "term": "Non-Statelessness",
+      "canonical_file": "core_05p_participation_definitions.md",
+      "anchor": "#non-statelessness",
+      "line_start": 1308,
+      "definition_class": "semi_independent",
+      "tetrad_leg": "Participation",
+      "primary_aim": "cross-cutting",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.4 Participation"
+      ],
+      "cluster_id": null,
+      "notes": ""
+    },
+    {
+      "term": "Observability",
+      "canonical_file": "core_05o_oversight_definitions.md",
+      "anchor": "#observability",
+      "line_start": 681,
+      "definition_class": "dependent_cluster",
+      "tetrad_leg": "Oversight",
+      "primary_aim": "Flourishing",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.5 Oversight"
+      ],
+      "cluster_id": "3.2 Transparency, Auditability, and Verification",
+      "notes": ""
+    },
+    {
+      "term": "Oversight",
+      "canonical_file": "core_05o_oversight_definitions.md",
+      "anchor": "#oversight-constitutional",
+      "line_start": 122,
+      "definition_class": "semi_independent",
+      "tetrad_leg": "Oversight",
+      "primary_aim": "Flourishing",
+      "aim_role": "tetrad_leg_head",
+      "ch00_measurement": [
+        "3.5 Oversight"
+      ],
+      "cluster_id": null,
+      "notes": ""
+    },
+    {
+      "term": "Parent-System Relationship",
+      "canonical_file": "core_05p_participation_definitions.md",
+      "anchor": "#parent-system-relationship",
+      "line_start": 925,
+      "definition_class": "semi_independent",
+      "tetrad_leg": "Participation",
+      "primary_aim": "cross-cutting",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.4 Participation"
+      ],
+      "cluster_id": null,
+      "notes": ""
+    },
+    {
+      "term": "Participant Standing",
+      "canonical_file": "core_05a_accountability_definitions.md",
+      "anchor": "#participant-standing-constitutional",
+      "line_start": 1367,
+      "definition_class": "dependent_cluster",
+      "tetrad_leg": "Accountability",
+      "primary_aim": "cross-cutting",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.6 Accountability",
+        "3.7 Timeliness"
+      ],
+      "cluster_id": "3.10 Standing State, Contribution, and Violation",
+      "notes": ""
+    },
+    {
+      "term": "Participation",
+      "canonical_file": "core_05p_participation_definitions.md",
+      "anchor": "#participation",
+      "line_start": 291,
+      "definition_class": "semi_independent",
+      "tetrad_leg": "Participation",
+      "primary_aim": "Flourishing",
+      "aim_role": "tetrad_leg_head",
+      "ch00_measurement": [
+        "3.4 Participation"
+      ],
+      "cluster_id": null,
+      "notes": ""
+    },
+    {
+      "term": "Press and Journalistic Activity",
+      "canonical_file": "core_05o_oversight_definitions.md",
+      "anchor": "#press-and-journalistic-activity-constitutional",
+      "line_start": 152,
+      "definition_class": "semi_independent",
+      "tetrad_leg": "Oversight",
+      "primary_aim": "cross-cutting",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.5 Oversight"
+      ],
+      "cluster_id": null,
+      "notes": ""
+    },
+    {
+      "term": "Primary-Stakes Routing",
+      "canonical_file": "core_05a_accountability_definitions.md",
+      "anchor": "#primary-stakes-routing",
+      "line_start": 1156,
+      "definition_class": "dependent_cluster",
+      "tetrad_leg": "Accountability",
+      "primary_aim": "Flourishing",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.6 Accountability",
+        "3.7 Timeliness"
+      ],
+      "cluster_id": "3.9 Forum Families and Dispute Routing",
+      "notes": ""
+    },
+    {
+      "term": "Privacy (Informational)",
+      "canonical_file": "core_05c_continuity_definitions.md",
+      "anchor": "#privacy-informational",
+      "line_start": 1807,
+      "definition_class": "dependent_cluster",
+      "tetrad_leg": "Continuity",
+      "primary_aim": "Flourishing",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.4 Participation"
+      ],
+      "cluster_id": "3.14 Privacy (Informational) — peer-level cluster head",
+      "notes": ""
+    },
+    {
+      "term": "Procedural Fairness",
+      "canonical_file": "core_05p_participation_definitions.md",
+      "anchor": "#procedural-fairness",
+      "line_start": 689,
+      "definition_class": "semi_independent",
+      "tetrad_leg": "Participation",
+      "primary_aim": "cross-cutting",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.4 Participation"
+      ],
+      "cluster_id": null,
+      "notes": ""
+    },
+    {
+      "term": "Productive Capacity",
+      "canonical_file": "core_05c_continuity_definitions.md",
+      "anchor": "#productive-capacity-constitutional",
+      "line_start": 631,
+      "definition_class": "semi_independent",
+      "tetrad_leg": "Continuity",
+      "primary_aim": "cross-cutting",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.3 Continuity",
+        "3.8 Constitutional performance"
+      ],
+      "cluster_id": null,
+      "notes": ""
+    },
+    {
+      "term": "Proportionality",
+      "canonical_file": "core_05a_accountability_definitions.md",
+      "anchor": "#proportionality",
+      "line_start": 275,
+      "definition_class": "semi_independent",
+      "tetrad_leg": "Accountability",
+      "primary_aim": "cross-cutting",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.6 Accountability",
+        "3.7 Timeliness"
+      ],
+      "cluster_id": null,
+      "notes": ""
+    },
+    {
+      "term": "Proportionate Cross-System Support",
+      "canonical_file": "core_05c_continuity_definitions.md",
+      "anchor": "#proportionate-cross-system-support-constitutional",
+      "line_start": 122,
+      "definition_class": "semi_independent",
+      "tetrad_leg": "Continuity",
+      "primary_aim": "cross-cutting",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.3 Continuity"
+      ],
+      "cluster_id": null,
+      "notes": ""
+    },
+    {
+      "term": "Protected Characteristic Proxying and Disparate Impact",
+      "canonical_file": "core_05p_participation_definitions.md",
+      "anchor": "#protected-characteristic-proxying-and-disparate-impact",
+      "line_start": 722,
+      "definition_class": "semi_independent",
+      "tetrad_leg": "Participation",
+      "primary_aim": "cross-cutting",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.4 Participation"
+      ],
+      "cluster_id": null,
+      "notes": ""
+    },
+    {
+      "term": "Protected Characteristics",
+      "canonical_file": "core_05p_participation_definitions.md",
+      "anchor": "#protected-characteristics",
+      "line_start": 758,
+      "definition_class": "semi_independent",
+      "tetrad_leg": "Participation",
+      "primary_aim": "cross-cutting",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.4 Participation"
+      ],
+      "cluster_id": null,
+      "notes": ""
+    },
+    {
+      "term": "Protected Commercial Sexual Services Status and Article X-C Circumvention",
+      "canonical_file": "core_05p_participation_definitions.md",
+      "anchor": "#protected-commercial-sexual-services-status-and-article-x-c-circumvention",
+      "line_start": 809,
+      "definition_class": "semi_independent",
+      "tetrad_leg": "Participation",
+      "primary_aim": "cross-cutting",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.4 Participation"
+      ],
+      "cluster_id": null,
+      "notes": ""
+    },
+    {
+      "term": "Protected Data and Internal-State Publication Constraint",
+      "canonical_file": "core_05o_oversight_definitions.md",
+      "anchor": "#protected-data-and-internal-state-publication-constraint",
+      "line_start": 818,
+      "definition_class": "dependent_cluster",
+      "tetrad_leg": "Oversight",
+      "primary_aim": "cross-cutting",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.5 Oversight"
+      ],
+      "cluster_id": null,
+      "notes": ""
+    },
+    {
+      "term": "Protected Internal-State Boundary",
+      "canonical_file": "core_05c_continuity_definitions.md",
+      "anchor": "#protected-internal-state-boundary-constitutional",
+      "line_start": 1830,
+      "definition_class": "dependent_cluster",
+      "tetrad_leg": "Continuity",
+      "primary_aim": "Flourishing",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.4 Participation"
+      ],
+      "cluster_id": "3.14 Privacy (Informational) — peer-level cluster head",
+      "notes": ""
+    },
+    {
+      "term": "Protected Intimate-Signal Gating",
+      "canonical_file": "core_05p_participation_definitions.md",
+      "anchor": "#protected-intimate-signal-gating",
+      "line_start": 841,
+      "definition_class": "semi_independent",
+      "tetrad_leg": "Participation",
+      "primary_aim": "cross-cutting",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.4 Participation"
+      ],
+      "cluster_id": null,
+      "notes": ""
+    },
+    {
+      "term": "Protected Reporting (Whistleblowing)",
+      "canonical_file": "core_05a_accountability_definitions.md",
+      "anchor": "#protected-reporting-whistleblowing",
+      "line_start": 741,
+      "definition_class": "semi_independent",
+      "tetrad_leg": "Accountability",
+      "primary_aim": "cross-cutting",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.6 Accountability",
+        "3.7 Timeliness"
+      ],
+      "cluster_id": null,
+      "notes": ""
+    },
+    {
+      "term": "Protected Reporting Retaliation and Access Interference",
+      "canonical_file": "core_05a_accountability_definitions.md",
+      "anchor": "#protected-reporting-retaliation-and-access-interference",
+      "line_start": 774,
+      "definition_class": "semi_independent",
+      "tetrad_leg": "Accountability",
+      "primary_aim": "cross-cutting",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.6 Accountability",
+        "3.7 Timeliness"
+      ],
+      "cluster_id": null,
+      "notes": ""
+    },
+    {
+      "term": "Proxy Divergence",
+      "canonical_file": "core_05o_oversight_definitions.md",
+      "anchor": "#proxy-divergence",
+      "line_start": 407,
+      "definition_class": "semi_independent",
+      "tetrad_leg": "Oversight",
+      "primary_aim": "cross-cutting",
+      "aim_role": "measurement_family_member",
+      "ch00_measurement": [
+        "3.5 Oversight",
+        "3.6 Accountability"
+      ],
+      "cluster_id": null,
+      "notes": ""
+    },
+    {
+      "term": "Proxy Metric Gaming and Indicator-Reality Gaps",
+      "canonical_file": "core_05o_oversight_definitions.md",
+      "anchor": "#proxy-metric-gaming-and-indicator-reality-gaps",
+      "line_start": 444,
+      "definition_class": "semi_independent",
+      "tetrad_leg": "Oversight",
+      "primary_aim": "cross-cutting",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.5 Oversight"
+      ],
+      "cluster_id": null,
+      "notes": ""
+    },
+    {
+      "term": "Psychological Harm",
+      "canonical_file": "core_05a_accountability_definitions.md",
+      "anchor": "#psychological-harm",
+      "line_start": 1050,
+      "definition_class": "dependent_cluster",
+      "tetrad_leg": "Accountability",
+      "primary_aim": "Flourishing",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.2 Flourishing",
+        "3.6 Accountability"
+      ],
+      "cluster_id": "3.8 Collective Harm Boundary, Harm, and Harassment and Bullying",
+      "notes": ""
+    },
+    {
+      "term": "Publication Truthfulness and Recklessness Floor",
+      "canonical_file": "core_05o_oversight_definitions.md",
+      "anchor": "#publication-truthfulness-and-recklessness-floor",
+      "line_start": 806,
+      "definition_class": "dependent_cluster",
+      "tetrad_leg": "Oversight",
+      "primary_aim": "cross-cutting",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.5 Oversight"
+      ],
+      "cluster_id": null,
+      "notes": ""
+    },
+    {
+      "term": "Reasonably Foreseeable",
+      "canonical_file": "core_05o_oversight_definitions.md",
+      "anchor": "#reasonably-foreseeable",
+      "line_start": 985,
+      "definition_class": "dependent_cluster",
+      "tetrad_leg": "Oversight",
+      "primary_aim": "cross-cutting",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.5 Oversight"
+      ],
+      "cluster_id": null,
+      "notes": ""
+    },
+    {
+      "term": "Redress and Remediation",
+      "canonical_file": "core_05a_accountability_definitions.md",
+      "anchor": "#redress-and-remediation-constitutional",
+      "line_start": 302,
+      "definition_class": "semi_independent",
+      "tetrad_leg": "Accountability",
+      "primary_aim": "cross-cutting",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.6 Accountability",
+        "3.7 Timeliness"
+      ],
+      "cluster_id": null,
+      "notes": ""
+    },
+    {
+      "term": "Refuge from Non-Compliance",
+      "canonical_file": "core_05p_participation_definitions.md",
+      "anchor": "#refuge-from-non-compliance",
+      "line_start": 1274,
+      "definition_class": "semi_independent",
+      "tetrad_leg": "Participation",
+      "primary_aim": "cross-cutting",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.4 Participation"
+      ],
+      "cluster_id": null,
+      "notes": ""
+    },
+    {
+      "term": "Reproductive Autonomy",
+      "canonical_file": "core_05p_participation_definitions.md",
+      "anchor": "#reproductive-autonomy",
+      "line_start": 958,
+      "definition_class": "semi_independent",
+      "tetrad_leg": "Participation",
+      "primary_aim": "cross-cutting",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.4 Participation"
+      ],
+      "cluster_id": null,
+      "notes": ""
+    },
+    {
+      "term": "Residual Risk / Misalignment",
+      "canonical_file": "core_05c_continuity_definitions.md",
+      "anchor": "#residual-risk--misalignment",
+      "line_start": 214,
+      "definition_class": "semi_independent",
+      "tetrad_leg": "Continuity",
+      "primary_aim": "cross-cutting",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.3 Continuity"
+      ],
+      "cluster_id": null,
+      "notes": ""
+    },
+    {
+      "term": "Restorative Justice",
+      "canonical_file": "core_05a_accountability_definitions.md",
+      "anchor": "#restorative-justice",
+      "line_start": 330,
+      "definition_class": "semi_independent",
+      "tetrad_leg": "Accountability",
+      "primary_aim": "cross-cutting",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.6 Accountability",
+        "3.7 Timeliness"
+      ],
+      "cluster_id": null,
+      "notes": ""
+    },
+    {
+      "term": "Reversibility",
+      "canonical_file": "core_05c_continuity_definitions.md",
+      "anchor": "#reversibility-constitutional",
+      "line_start": 230,
+      "definition_class": "semi_independent",
+      "tetrad_leg": "Continuity",
+      "primary_aim": "cross-cutting",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.3 Continuity"
+      ],
+      "cluster_id": null,
+      "notes": ""
+    },
+    {
+      "term": "Review and Correction Duty",
+      "canonical_file": "core_05c_continuity_definitions.md",
+      "anchor": "#review-and-correction-duty-constitutional",
+      "line_start": 1738,
+      "definition_class": "dependent_cluster",
+      "tetrad_leg": "Continuity",
+      "primary_aim": "Continuity",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.3 Continuity",
+        "3.8 Constitutional performance"
+      ],
+      "cluster_id": "3.13 Stewardship, Governance Discipline, and Shared-System Capacity",
+      "notes": ""
+    },
+    {
+      "term": "Risk",
+      "canonical_file": "core_05c_continuity_definitions.md",
+      "anchor": "#risk",
+      "line_start": 263,
+      "definition_class": "semi_independent",
+      "tetrad_leg": "Continuity",
+      "primary_aim": "cross-cutting",
+      "aim_role": "measurement_family_member",
+      "ch00_measurement": [
+        "3.2 Flourishing",
+        "3.3 Continuity"
+      ],
+      "cluster_id": null,
+      "notes": ""
+    },
+    {
+      "term": "Risk Evaluation and Disclosure",
+      "canonical_file": "core_05o_oversight_definitions.md",
+      "anchor": "#risk-evaluation-and-disclosure",
+      "line_start": 178,
+      "definition_class": "semi_independent",
+      "tetrad_leg": "Oversight",
+      "primary_aim": "cross-cutting",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.5 Oversight"
+      ],
+      "cluster_id": null,
+      "notes": ""
+    },
+    {
+      "term": "Safe Conditions",
+      "canonical_file": "core_05c_continuity_definitions.md",
+      "anchor": "#safe-conditions-constitutional",
+      "line_start": 1398,
+      "definition_class": "dependent_cluster",
+      "tetrad_leg": "Continuity",
+      "primary_aim": "Continuity",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.2 Flourishing",
+        "3.3 Continuity"
+      ],
+      "cluster_id": "3.12 Labor and Economic Floor: Compensation, Organization, Safe Conditions, Leisure, and Creative Work",
+      "notes": ""
+    },
+    {
+      "term": "Safety (Constraint)",
+      "canonical_file": "core_05c_continuity_definitions.md",
+      "anchor": "#safety-constraint",
+      "line_start": 295,
+      "definition_class": "semi_independent",
+      "tetrad_leg": "Continuity",
+      "primary_aim": "Flourishing",
+      "aim_role": "constituent",
+      "ch00_measurement": [
+        "3.2 Flourishing"
+      ],
+      "cluster_id": null,
+      "notes": ""
+    },
+    {
+      "term": "Security-Sensitive Disclosure Balance",
+      "canonical_file": "core_05o_oversight_definitions.md",
+      "anchor": "#security-sensitive-disclosure-balance",
+      "line_start": 840,
+      "definition_class": "dependent_cluster",
+      "tetrad_leg": "Oversight",
+      "primary_aim": "cross-cutting",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.5 Oversight"
+      ],
+      "cluster_id": null,
+      "notes": ""
+    },
+    {
+      "term": "Self-Determination",
+      "canonical_file": "core_05p_participation_definitions.md",
+      "anchor": "#self-determination",
+      "line_start": 1626,
+      "definition_class": "dependent_cluster",
+      "tetrad_leg": "Participation",
+      "primary_aim": "Flourishing",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.4 Participation"
+      ],
+      "cluster_id": "3.7 Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity",
+      "notes": ""
+    },
+    {
+      "term": "Self-Healing",
+      "canonical_file": "core_05c_continuity_definitions.md",
+      "anchor": "#self-healing-constitutional",
+      "line_start": 332,
+      "definition_class": "semi_independent",
+      "tetrad_leg": "Continuity",
+      "primary_aim": "cross-cutting",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.3 Continuity"
+      ],
+      "cluster_id": null,
+      "notes": ""
+    },
+    {
+      "term": "Sentience Non-Exclusion",
+      "canonical_file": "core_05p_participation_definitions.md",
+      "anchor": "#sentience-non-exclusion",
+      "line_start": 1406,
+      "definition_class": "dependent_cluster",
+      "tetrad_leg": "Participation",
+      "primary_aim": "Flourishing",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.4 Participation"
+      ],
+      "cluster_id": "3.5 Animal Life, Sentient Life, and Sentience Status",
+      "notes": ""
+    },
+    {
+      "term": "Sentience Status Adjudication",
+      "canonical_file": "core_05p_participation_definitions.md",
+      "anchor": "#sentience-status-adjudication",
+      "line_start": 1470,
+      "definition_class": "dependent_cluster",
+      "tetrad_leg": "Participation",
+      "primary_aim": "Flourishing",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.4 Participation"
+      ],
+      "cluster_id": "3.5 Animal Life, Sentient Life, and Sentience Status",
+      "notes": ""
+    },
+    {
+      "term": "Sentient",
+      "canonical_file": "core_05p_participation_definitions.md",
+      "anchor": "#sentient",
+      "line_start": 1364,
+      "definition_class": "dependent_cluster",
+      "tetrad_leg": "Participation",
+      "primary_aim": "Flourishing",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.4 Participation"
+      ],
+      "cluster_id": "3.5 Animal Life, Sentient Life, and Sentience Status",
+      "notes": ""
+    },
+    {
+      "term": "Shared-System Capacity",
+      "canonical_file": "core_05c_continuity_definitions.md",
+      "anchor": "#shared-system-capacity-constitutional",
+      "line_start": 569,
+      "definition_class": "semi_independent",
+      "tetrad_leg": "Continuity",
+      "primary_aim": "cross-cutting",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.3 Continuity"
+      ],
+      "cluster_id": null,
+      "notes": ""
+    },
+    {
+      "term": "Short-Horizon Governance Defect",
+      "canonical_file": "core_05c_continuity_definitions.md",
+      "anchor": "#short-horizon-governance-defect-constitutional",
+      "line_start": 1684,
+      "definition_class": "dependent_cluster",
+      "tetrad_leg": "Continuity",
+      "primary_aim": "Continuity",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.3 Continuity",
+        "3.8 Constitutional performance"
+      ],
+      "cluster_id": "3.13 Stewardship, Governance Discipline, and Shared-System Capacity",
+      "notes": ""
+    },
+    {
+      "term": "Single Catastrophic Incident",
+      "canonical_file": "core_05a_accountability_definitions.md",
+      "anchor": "#single-catastrophic-incident",
+      "line_start": 1692,
+      "definition_class": "dependent_cluster",
+      "tetrad_leg": "Accountability",
+      "primary_aim": "cross-cutting",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.6 Accountability",
+        "3.7 Timeliness"
+      ],
+      "cluster_id": "3.10 Standing State, Contribution, and Violation",
+      "notes": ""
+    },
+    {
+      "term": "Stakeholder",
+      "canonical_file": "core_05p_participation_definitions.md",
+      "anchor": "#stakeholder",
+      "line_start": 1170,
+      "definition_class": "semi_independent",
+      "tetrad_leg": "Participation",
+      "primary_aim": "cross-cutting",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.4 Participation"
+      ],
+      "cluster_id": null,
+      "notes": ""
+    },
+    {
+      "term": "Stakeholder Emergency and Contingency",
+      "canonical_file": "core_05c_continuity_definitions.md",
+      "anchor": "#stakeholder-emergency-and-contingency",
+      "line_start": 974,
+      "definition_class": "semi_independent",
+      "tetrad_leg": "Continuity",
+      "primary_aim": "cross-cutting",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.3 Continuity"
+      ],
+      "cluster_id": null,
+      "notes": ""
+    },
+    {
+      "term": "Stakeholder Participation Weight",
+      "canonical_file": "core_05p_participation_definitions.md",
+      "anchor": "#stakeholder-participation-weight",
+      "line_start": 1200,
+      "definition_class": "semi_independent",
+      "tetrad_leg": "Participation",
+      "primary_aim": "cross-cutting",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.4 Participation"
+      ],
+      "cluster_id": null,
+      "notes": ""
+    },
+    {
+      "term": "Stakeholder Representation and Participation-Weight Limits (Binding Stakeholder Choice)",
+      "canonical_file": "core_05p_participation_definitions.md",
+      "anchor": "#stakeholder-representation-and-participation-weight-limits-binding-stakeholder-choice",
+      "line_start": 1551,
+      "definition_class": "dependent_cluster",
+      "tetrad_leg": "Participation",
+      "primary_aim": "Flourishing",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.4 Participation"
+      ],
+      "cluster_id": "3.6 Binding Stakeholder Choice",
+      "notes": ""
+    },
+    {
+      "term": "Stakeholder Rights-Collision Record (Binding Stakeholder Choice)",
+      "canonical_file": "core_05p_participation_definitions.md",
+      "anchor": "#stakeholder-rights-collision-record-binding-stakeholder-choice",
+      "line_start": 1570,
+      "definition_class": "dependent_cluster",
+      "tetrad_leg": "Participation",
+      "primary_aim": "Flourishing",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.4 Participation"
+      ],
+      "cluster_id": "3.6 Binding Stakeholder Choice",
+      "notes": ""
+    },
+    {
+      "term": "Standing Effect",
+      "canonical_file": "core_05a_accountability_definitions.md",
+      "anchor": "#standing-effect-chapter-six",
+      "line_start": 1481,
+      "definition_class": "dependent_cluster",
+      "tetrad_leg": "Accountability",
+      "primary_aim": "cross-cutting",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.6 Accountability",
+        "3.7 Timeliness"
+      ],
+      "cluster_id": "3.10 Standing State, Contribution, and Violation",
+      "notes": ""
+    },
+    {
+      "term": "Standing Lock",
+      "canonical_file": "core_05a_accountability_definitions.md",
+      "anchor": "#standing-lock",
+      "line_start": 1561,
+      "definition_class": "dependent_cluster",
+      "tetrad_leg": "Accountability",
+      "primary_aim": "cross-cutting",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.6 Accountability",
+        "3.7 Timeliness"
+      ],
+      "cluster_id": "3.10 Standing State, Contribution, and Violation",
+      "notes": ""
+    },
+    {
+      "term": "Standing Record",
+      "canonical_file": "core_05a_accountability_definitions.md",
+      "anchor": "#standing-record-chapter-six",
+      "line_start": 1508,
+      "definition_class": "dependent_cluster",
+      "tetrad_leg": "Accountability",
+      "primary_aim": "cross-cutting",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.6 Accountability",
+        "3.7 Timeliness"
+      ],
+      "cluster_id": "3.10 Standing State, Contribution, and Violation",
+      "notes": ""
+    },
+    {
+      "term": "Stay",
+      "canonical_file": "core_05a_accountability_definitions.md",
+      "anchor": "#stay",
+      "line_start": 611,
+      "definition_class": "semi_independent",
+      "tetrad_leg": "Accountability",
+      "primary_aim": "cross-cutting",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.6 Accountability",
+        "3.7 Timeliness"
+      ],
+      "cluster_id": null,
+      "notes": ""
+    },
+    {
+      "term": "Stewardship",
+      "canonical_file": "core_05c_continuity_definitions.md",
+      "anchor": "#stewardship-constitutional",
+      "line_start": 1602,
+      "definition_class": "dependent_cluster",
+      "tetrad_leg": "Continuity",
+      "primary_aim": "Continuity",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.3 Continuity",
+        "3.8 Constitutional performance"
+      ],
+      "cluster_id": "3.13 Stewardship, Governance Discipline, and Shared-System Capacity",
+      "notes": ""
+    },
+    {
+      "term": "Stewardship Defect",
+      "canonical_file": "core_05c_continuity_definitions.md",
+      "anchor": "#stewardship-defect-constitutional",
+      "line_start": 1711,
+      "definition_class": "dependent_cluster",
+      "tetrad_leg": "Continuity",
+      "primary_aim": "Continuity",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.3 Continuity",
+        "3.8 Constitutional performance"
+      ],
+      "cluster_id": "3.13 Stewardship, Governance Discipline, and Shared-System Capacity",
+      "notes": ""
+    },
+    {
+      "term": "Strategic Stewardship Obligation",
+      "canonical_file": "core_05c_continuity_definitions.md",
+      "anchor": "#strategic-stewardship-obligation-constitutional",
+      "line_start": 1657,
+      "definition_class": "dependent_cluster",
+      "tetrad_leg": "Continuity",
+      "primary_aim": "Continuity",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.3 Continuity",
+        "3.8 Constitutional performance"
+      ],
+      "cluster_id": "3.13 Stewardship, Governance Discipline, and Shared-System Capacity",
+      "notes": ""
+    },
+    {
+      "term": "Substantive Fairness",
+      "canonical_file": "core_05p_participation_definitions.md",
+      "anchor": "#substantive-fairness",
+      "line_start": 653,
+      "definition_class": "semi_independent",
+      "tetrad_leg": "Participation",
+      "primary_aim": "cross-cutting",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.4 Participation"
+      ],
+      "cluster_id": null,
+      "notes": ""
+    },
+    {
+      "term": "Supremacy and Enforceability",
+      "canonical_file": "core_05i_integrative_definitions.md",
+      "anchor": "#supremacy-and-enforceability",
+      "line_start": 385,
+      "definition_class": "dependent_cluster",
+      "tetrad_leg": "Integrative",
+      "primary_aim": "Flourishing",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.5 Oversight",
+        "3.6 Accountability"
+      ],
+      "cluster_id": "3.16 Corpus, Authority Stack, Supremacy, and Enforceability",
+      "notes": ""
+    },
+    {
+      "term": "Surveillance Boundary",
+      "canonical_file": "core_05c_continuity_definitions.md",
+      "anchor": "#surveillance-boundary",
+      "line_start": 1850,
+      "definition_class": "dependent_cluster",
+      "tetrad_leg": "Continuity",
+      "primary_aim": "Flourishing",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.4 Participation"
+      ],
+      "cluster_id": "3.14 Privacy (Informational) — peer-level cluster head",
+      "notes": ""
+    },
+    {
+      "term": "Sustainability",
+      "canonical_file": "core_05c_continuity_definitions.md",
+      "anchor": "#sustainability",
+      "line_start": 840,
+      "definition_class": "semi_independent",
+      "tetrad_leg": "Continuity",
+      "primary_aim": "cross-cutting",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.3 Continuity"
+      ],
+      "cluster_id": null,
+      "notes": ""
+    },
+    {
+      "term": "Sustained High-Gravity Pattern",
+      "canonical_file": "core_05a_accountability_definitions.md",
+      "anchor": "#sustained-high-gravity-pattern",
+      "line_start": 1718,
+      "definition_class": "dependent_cluster",
+      "tetrad_leg": "Accountability",
+      "primary_aim": "cross-cutting",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.6 Accountability",
+        "3.7 Timeliness"
+      ],
+      "cluster_id": "3.10 Standing State, Contribution, and Violation",
+      "notes": ""
+    },
+    {
+      "term": "System",
+      "canonical_file": "core_05c_continuity_definitions.md",
+      "anchor": "#system-definition",
+      "line_start": 1045,
+      "definition_class": "semi_independent",
+      "tetrad_leg": "Continuity",
+      "primary_aim": "cross-cutting",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.3 Continuity"
+      ],
+      "cluster_id": null,
+      "notes": ""
+    },
+    {
+      "term": "System Alignment Certification",
+      "canonical_file": "core_05c_continuity_definitions.md",
+      "anchor": "#system-alignment-certification-constitutional",
+      "line_start": 362,
+      "definition_class": "semi_independent",
+      "tetrad_leg": "Continuity",
+      "primary_aim": "cross-cutting",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.3 Continuity"
+      ],
+      "cluster_id": null,
+      "notes": ""
+    },
+    {
+      "term": "System Boundaries",
+      "canonical_file": "core_05c_continuity_definitions.md",
+      "anchor": "#system-boundaries",
+      "line_start": 1064,
+      "definition_class": "semi_independent",
+      "tetrad_leg": "Continuity",
+      "primary_aim": "cross-cutting",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.3 Continuity"
+      ],
+      "cluster_id": null,
+      "notes": ""
+    },
+    {
+      "term": "System Boundary Integrity",
+      "canonical_file": "core_05c_continuity_definitions.md",
+      "anchor": "#system-boundary-integrity",
+      "line_start": 1079,
+      "definition_class": "semi_independent",
+      "tetrad_leg": "Continuity",
+      "primary_aim": "cross-cutting",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.3 Continuity"
+      ],
+      "cluster_id": null,
+      "notes": ""
+    },
+    {
+      "term": "System Capture",
+      "canonical_file": "core_05c_continuity_definitions.md",
+      "anchor": "#system-capture",
+      "line_start": 402,
+      "definition_class": "semi_independent",
+      "tetrad_leg": "Continuity",
+      "primary_aim": "cross-cutting",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.3 Continuity"
+      ],
+      "cluster_id": null,
+      "notes": ""
+    },
+    {
+      "term": "System Creation",
+      "canonical_file": "core_05p_participation_definitions.md",
+      "anchor": "#system-creation",
+      "line_start": 412,
+      "definition_class": "semi_independent",
+      "tetrad_leg": "Participation",
+      "primary_aim": "cross-cutting",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.4 Participation"
+      ],
+      "cluster_id": null,
+      "notes": ""
+    },
+    {
+      "term": "Systemic",
+      "canonical_file": "core_05c_continuity_definitions.md",
+      "anchor": "#systemic",
+      "line_start": 426,
+      "definition_class": "semi_independent",
+      "tetrad_leg": "Continuity",
+      "primary_aim": "cross-cutting",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.3 Continuity"
+      ],
+      "cluster_id": null,
+      "notes": ""
+    },
+    {
+      "term": "Systemic Lock-In",
+      "canonical_file": "core_05c_continuity_definitions.md",
+      "anchor": "#systemic-lock-in",
+      "line_start": 1095,
+      "definition_class": "semi_independent",
+      "tetrad_leg": "Continuity",
+      "primary_aim": "cross-cutting",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.3 Continuity"
+      ],
+      "cluster_id": null,
+      "notes": ""
+    },
+    {
+      "term": "Systemic Materiality",
+      "canonical_file": "core_05c_continuity_definitions.md",
+      "anchor": "#systemic-materiality",
+      "line_start": 440,
+      "definition_class": "semi_independent",
+      "tetrad_leg": "Continuity",
+      "primary_aim": "cross-cutting",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.3 Continuity"
+      ],
+      "cluster_id": null,
+      "notes": ""
+    },
+    {
+      "term": "Tenure Security",
+      "canonical_file": "core_05c_continuity_definitions.md",
+      "anchor": "#tenure-security-constitutional",
+      "line_start": 1171,
+      "definition_class": "semi_independent",
+      "tetrad_leg": "Continuity",
+      "primary_aim": "cross-cutting",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.2 Flourishing",
+        "3.3 Continuity"
+      ],
+      "cluster_id": null,
+      "notes": ""
+    },
+    {
+      "term": "Timeliness",
+      "canonical_file": "core_05a_accountability_definitions.md",
+      "anchor": "#timeliness-constitutional",
+      "line_start": 498,
+      "definition_class": "semi_independent",
+      "tetrad_leg": "Timeliness",
+      "primary_aim": "cross-cutting",
+      "aim_role": "tetrad_leg_head",
+      "ch00_measurement": [
+        "3.7 Timeliness"
+      ],
+      "cluster_id": null,
+      "notes": ""
+    },
+    {
+      "term": "Timely Resolution",
+      "canonical_file": "core_05a_accountability_definitions.md",
+      "anchor": "#timely-resolution-constitutional",
+      "line_start": 526,
+      "definition_class": "semi_independent",
+      "tetrad_leg": "Accountability",
+      "primary_aim": "cross-cutting",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.6 Accountability",
+        "3.7 Timeliness"
+      ],
+      "cluster_id": null,
+      "notes": ""
+    },
+    {
+      "term": "Top-Slot Review",
+      "canonical_file": "core_05a_accountability_definitions.md",
+      "anchor": "#top-slot-review",
+      "line_start": 1614,
+      "definition_class": "dependent_cluster",
+      "tetrad_leg": "Accountability",
+      "primary_aim": "cross-cutting",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.6 Accountability",
+        "3.7 Timeliness"
+      ],
+      "cluster_id": "3.10 Standing State, Contribution, and Violation",
+      "notes": ""
+    },
+    {
+      "term": "Training-Data Use",
+      "canonical_file": "core_05c_continuity_definitions.md",
+      "anchor": "#training-data-use-constitutional",
+      "line_start": 1512,
+      "definition_class": "dependent_cluster",
+      "tetrad_leg": "Continuity",
+      "primary_aim": "Continuity",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.2 Flourishing",
+        "3.3 Continuity"
+      ],
+      "cluster_id": "3.12 Labor and Economic Floor: Compensation, Organization, Safe Conditions, Leisure, and Creative Work",
+      "notes": ""
+    },
+    {
+      "term": "Transparency",
+      "canonical_file": "core_05o_oversight_definitions.md",
+      "anchor": "#transparency",
+      "line_start": 559,
+      "definition_class": "dependent_cluster",
+      "tetrad_leg": "Oversight",
+      "primary_aim": "Flourishing",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.5 Oversight"
+      ],
+      "cluster_id": "3.2 Transparency, Auditability, and Verification",
+      "notes": ""
+    },
+    {
+      "term": "Trust",
+      "canonical_file": "core_05c_continuity_definitions.md",
+      "anchor": "#trust",
+      "line_start": 1901,
+      "definition_class": "dependent_cluster",
+      "tetrad_leg": "Continuity",
+      "primary_aim": "Flourishing",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.5 Oversight"
+      ],
+      "cluster_id": "3.15 Trust and Trustworthiness",
+      "notes": ""
+    },
+    {
+      "term": "Trust Degradation and Misleading Reliance",
+      "canonical_file": "core_05c_continuity_definitions.md",
+      "anchor": "#trust-degradation-and-misleading-reliance",
+      "line_start": 1970,
+      "definition_class": "dependent_cluster",
+      "tetrad_leg": "Continuity",
+      "primary_aim": "Flourishing",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.5 Oversight"
+      ],
+      "cluster_id": "3.15 Trust and Trustworthiness",
+      "notes": ""
+    },
+    {
+      "term": "Trustworthiness",
+      "canonical_file": "core_05c_continuity_definitions.md",
+      "anchor": "#trustworthiness",
+      "line_start": 1926,
+      "definition_class": "dependent_cluster",
+      "tetrad_leg": "Continuity",
+      "primary_aim": "Flourishing",
+      "aim_role": "constituent",
+      "ch00_measurement": [
+        "3.2 Flourishing",
+        "3.5 Oversight"
+      ],
+      "cluster_id": "3.15 Trust and Trustworthiness",
+      "notes": ""
+    },
+    {
+      "term": "Truth (Constitutional Constraint)",
+      "canonical_file": "core_05o_oversight_definitions.md",
+      "anchor": "#truth-constitutional-constraint",
+      "line_start": 851,
+      "definition_class": "dependent_cluster",
+      "tetrad_leg": "Oversight",
+      "primary_aim": "Flourishing",
+      "aim_role": "constituent",
+      "ch00_measurement": [
+        "3.2 Flourishing",
+        "3.5 Oversight"
+      ],
+      "cluster_id": "3.3 Truth and Epistemic Integrity",
+      "notes": ""
+    },
+    {
+      "term": "Unified Incident",
+      "canonical_file": "core_05a_accountability_definitions.md",
+      "anchor": "#unified-incident",
+      "line_start": 1640,
+      "definition_class": "dependent_cluster",
+      "tetrad_leg": "Accountability",
+      "primary_aim": "cross-cutting",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.6 Accountability",
+        "3.7 Timeliness"
+      ],
+      "cluster_id": "3.10 Standing State, Contribution, and Violation",
+      "notes": ""
+    },
+    {
+      "term": "Unified Record",
+      "canonical_file": "core_05a_accountability_definitions.md",
+      "anchor": "#unified-record",
+      "line_start": 1666,
+      "definition_class": "dependent_cluster",
+      "tetrad_leg": "Accountability",
+      "primary_aim": "cross-cutting",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.6 Accountability",
+        "3.7 Timeliness"
+      ],
+      "cluster_id": "3.10 Standing State, Contribution, and Violation",
+      "notes": ""
+    },
+    {
+      "term": "Use of Force",
+      "canonical_file": "core_05a_accountability_definitions.md",
+      "anchor": "#use-of-force-constitutional",
+      "line_start": 1778,
+      "definition_class": "dependent_cluster",
+      "tetrad_leg": "Accountability",
+      "primary_aim": "Continuity",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.2 Flourishing",
+        "3.3 Continuity"
+      ],
+      "cluster_id": "3.11 Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm",
+      "notes": ""
+    },
+    {
+      "term": "Verifiability",
+      "canonical_file": "core_05o_oversight_definitions.md",
+      "anchor": "#verifiability",
+      "line_start": 694,
+      "definition_class": "dependent_cluster",
+      "tetrad_leg": "Oversight",
+      "primary_aim": "Flourishing",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.5 Oversight"
+      ],
+      "cluster_id": "3.2 Transparency, Auditability, and Verification",
+      "notes": ""
+    },
+    {
+      "term": "Verification Accessibility",
+      "canonical_file": "core_05o_oversight_definitions.md",
+      "anchor": "#verification-accessibility",
+      "line_start": 711,
+      "definition_class": "dependent_cluster",
+      "tetrad_leg": "Oversight",
+      "primary_aim": "Flourishing",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.5 Oversight"
+      ],
+      "cluster_id": "3.2 Transparency, Auditability, and Verification",
+      "notes": ""
+    },
+    {
+      "term": "Verification Feasibility",
+      "canonical_file": "core_05o_oversight_definitions.md",
+      "anchor": "#verification-feasibility",
+      "line_start": 722,
+      "definition_class": "dependent_cluster",
+      "tetrad_leg": "Oversight",
+      "primary_aim": "Flourishing",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.5 Oversight"
+      ],
+      "cluster_id": "3.2 Transparency, Auditability, and Verification",
+      "notes": ""
+    },
+    {
+      "term": "Verification Independence",
+      "canonical_file": "core_05o_oversight_definitions.md",
+      "anchor": "#verification-independence",
+      "line_start": 733,
+      "definition_class": "dependent_cluster",
+      "tetrad_leg": "Oversight",
+      "primary_aim": "Flourishing",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.5 Oversight"
+      ],
+      "cluster_id": "3.2 Transparency, Auditability, and Verification",
+      "notes": ""
+    },
+    {
+      "term": "Verification Proportionality",
+      "canonical_file": "core_05o_oversight_definitions.md",
+      "anchor": "#verification-proportionality",
+      "line_start": 744,
+      "definition_class": "dependent_cluster",
+      "tetrad_leg": "Oversight",
+      "primary_aim": "Flourishing",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.5 Oversight"
+      ],
+      "cluster_id": "3.2 Transparency, Auditability, and Verification",
+      "notes": ""
+    },
+    {
+      "term": "Verification Robustness",
+      "canonical_file": "core_05o_oversight_definitions.md",
+      "anchor": "#verification-robustness",
+      "line_start": 755,
+      "definition_class": "dependent_cluster",
+      "tetrad_leg": "Oversight",
+      "primary_aim": "Flourishing",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.5 Oversight"
+      ],
+      "cluster_id": "3.2 Transparency, Auditability, and Verification",
+      "notes": ""
+    },
+    {
+      "term": "Verified Inputs for Standing",
+      "canonical_file": "core_05a_accountability_definitions.md",
+      "anchor": "#verified-inputs-for-standing",
+      "line_start": 1428,
+      "definition_class": "dependent_cluster",
+      "tetrad_leg": "Accountability",
+      "primary_aim": "cross-cutting",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.6 Accountability",
+        "3.7 Timeliness"
+      ],
+      "cluster_id": "3.10 Standing State, Contribution, and Violation",
+      "notes": ""
+    },
+    {
+      "term": "Verified Violation Findings",
+      "canonical_file": "core_05a_accountability_definitions.md",
+      "anchor": "#verified-violation-findings",
+      "line_start": 1454,
+      "definition_class": "dependent_cluster",
+      "tetrad_leg": "Accountability",
+      "primary_aim": "cross-cutting",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.6 Accountability",
+        "3.7 Timeliness"
+      ],
+      "cluster_id": "3.10 Standing State, Contribution, and Violation",
+      "notes": ""
+    },
+    {
+      "term": "Violation Nature",
+      "canonical_file": "core_05a_accountability_definitions.md",
+      "anchor": "#violation-nature-chapter-six",
+      "line_start": 1587,
+      "definition_class": "dependent_cluster",
+      "tetrad_leg": "Accountability",
+      "primary_aim": "cross-cutting",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.6 Accountability",
+        "3.7 Timeliness"
+      ],
+      "cluster_id": "3.10 Standing State, Contribution, and Violation",
+      "notes": ""
+    },
+    {
+      "term": "Volitional Integrity",
+      "canonical_file": "core_05p_participation_definitions.md",
+      "anchor": "#volitional-integrity",
+      "line_start": 1720,
+      "definition_class": "dependent_cluster",
+      "tetrad_leg": "Participation",
+      "primary_aim": "Flourishing",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.4 Participation"
+      ],
+      "cluster_id": "3.7 Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity",
+      "notes": ""
+    },
+    {
+      "term": "Voluntary Discontinuation",
+      "canonical_file": "core_05c_continuity_definitions.md",
+      "anchor": "#voluntary-discontinuation-constitutional",
+      "line_start": 466,
+      "definition_class": "semi_independent",
+      "tetrad_leg": "Continuity",
+      "primary_aim": "cross-cutting",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.3 Continuity"
+      ],
+      "cluster_id": null,
+      "notes": ""
+    },
+    {
+      "term": "Weapons of Mass Harm",
+      "canonical_file": "core_05a_accountability_definitions.md",
+      "anchor": "#weapons-of-mass-harm-constitutional",
+      "line_start": 1851,
+      "definition_class": "dependent_cluster",
+      "tetrad_leg": "Accountability",
+      "primary_aim": "Continuity",
+      "aim_role": "cluster_member",
+      "ch00_measurement": [
+        "3.2 Flourishing",
+        "3.3 Continuity"
+      ],
+      "cluster_id": "3.11 Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm",
+      "notes": ""
+    },
+    {
+      "term": "Wellbeing",
+      "canonical_file": "core_05c_continuity_definitions.md",
+      "anchor": "#wellbeing",
+      "line_start": 496,
+      "definition_class": "semi_independent",
+      "tetrad_leg": "Continuity",
+      "primary_aim": "Flourishing",
+      "aim_role": "outcome_measure",
+      "ch00_measurement": [
+        "3.2 Flourishing"
+      ],
+      "cluster_id": null,
+      "notes": "Canonical file in Continuity band; primary Flourishing outcome measure — not a constituent."
+    }
+  ]
+}

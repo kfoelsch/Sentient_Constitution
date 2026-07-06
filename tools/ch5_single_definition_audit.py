@@ -305,6 +305,7 @@ def collect_cluster_members(root: Path) -> list[ClusterMember]:
                 or stripped == "---"
                 or stripped.startswith("<a id=")
                 or stripped.startswith("#### ")
+                or stripped.startswith("##### ")
             ):
                 in_roster = False
                 continue

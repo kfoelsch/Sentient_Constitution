@@ -54,6 +54,10 @@ This band holds **Integrative** cross-leg definitions that require simultaneous 
 <br>
 
 - O: The authorization layer for governing authority itself: who may govern, by what legitimacy mechanism, and under what scope and durable terms. It includes [Foundational Constitutional Choice](core_05i_integrative_definitions.md#foundational-constitutional-choice), documented legitimacy mechanisms, adoption and reauthorization rules, and the political-equality floor for constituting or durably restructuring governing authority. This layer does not import ordinary impact-proportional stakeholder weighting into foundational authorization decisions. Owner: [Chapter Twelve](core_12-12_governance.md#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship); rights-layer pointer: [Article IX-C](core_06-06_rights_part_b.md#article-ix-c-governance-participation-and-voting-entitlement).
+
+*Measurements:*
+
+- **Primary:** [Chapter Zero §3.6 *Measuring Accountability*](../core_00_preamble.md#measuring-accountability) — supporting measure under the accountability measurement family.
 <a id="constitutional-contract-layer-e"></a>
 - E: Identify this layer by function, not scale. This is the **authorization layer** — distinct from ordinary rights-affecting decisions made within already-authorized governance structures (the **Stakeholder System Participation** layer). A federation, compact, institution, platform polity, or other bounded adopter may exercise constitutional-contract authority when the question is who holds governing authority, what the mechanism is, or what durable terms bind that authority. Reject framings that treat silence, usage alone, market presence, or branding as authorization.
 <a id="constitutional-contract-layer-c"></a>
@@ -80,6 +84,10 @@ This band holds **Integrative** cross-leg definitions that require simultaneous 
 <br>
 
 - O: Governance decisions whose subject is the authorization of governing authority itself — who holds governing authority, what the governance mechanism is, and the scope and durable terms of that authority. This is the **authorization layer** of the two distinct governance layers established in the preamble (Chapter 00). It is distinct from ordinary rights-affecting decisions made *within* already-authorized [Governance](core_05a_accountability_definitions.md#governance) **structures, rules, allocation of authority, and processes** (the **Stakeholder System Participation** layer, which governs participation, representation, contestability, and [Due Process](core_05a_accountability_definitions.md#due-process-constitutional) owed to sentients materially affected by those already-authorized systems, institutions, and bounded decision domains). Once those structures and processes are authorized for a domain, proportional voice for affected parties routes through [Stakeholder](core_05p_participation_definitions.md#stakeholder) identification and [Stakeholder Participation Weight](core_05p_participation_definitions.md#stakeholder-participation-weight) (including **Article XI** constraints), not through equal-weight foundational tally rules. Owner: [Chapter Twelve Chapter One §8.1](core_12-12_governance.md#41-entitlement-and-eligibility) (*Political-equality floor for foundational constitutional choice*; *Durable political-voice floor*). Rights-layer pointer: Article IX-C (*Governance Participation and Voting Entitlement*). The concept applies under [Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion).
+
+*Measurements:*
+
+- **Primary:** [Chapter Zero §3.6 *Measuring Accountability*](../core_00_preamble.md#measuring-accountability) — supporting measure under the accountability measurement family.
 <a id="foundational-constitutional-choice-e"></a>
 <a id="foundational-collective-choice-constitutional-e"></a>
 - E: Identify foundational constitutional choice by scope — the question's character as authorization or durable structuring of governing authority — not by marginal per-decision impact. It is distinct from ordinary [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination) and stakeholder participation-weighting under [Stakeholder Representation and Participation-Weight Limits (Binding Stakeholder Choice)](core_05p_participation_definitions.md#stakeholder-representation-and-participation-weight-limits-binding-collective-choice) as applied in [Chapter Twelve §3.3](core_12-12_governance.md#43-decision-resolution-requirements-for-binding-collective-choice). Foundational questions are not re-routable as high-impact weighted choices. Apply [Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion). Reject substrate-class, calendar-age, or lineage participation-weight factors. Apply [Procedural Fairness](core_05p_participation_definitions.md#procedural-fairness-constitutional) to any disqualification invoked against participation.
@@ -111,13 +119,29 @@ This band holds **Integrative** cross-leg definitions that require simultaneous 
 
 <br>
 
+*Measurements:*
+
+- **Primary:** [Chapter Zero §3.6 *Measuring Accountability* / Incentive alignment and proxy integrity](../core_00_preamble.md#measuring-accountability) — primary owner for incentive-alignment measurement within the accountability family.
+- **Secondary:** [Wellbeing](core_05c_continuity_definitions.md#wellbeing), [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint), [Epistemic Integrity](core_05o_oversight_definitions.md#epistemic-integrity), and [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency) — co-measures that can defeat alignment even when nominal targets appear satisfied.
+- **Tertiary:** [Proxy Divergence](core_05o_oversight_definitions.md#proxy-divergence) — where reward paths, metrics, or governance signals substitute for real constitutional outcomes.
+
 ##### Incentive Alignment — baseline constitutional alignment
 
 - O: Incentive structures acting on agents, operators, or constituent components must align with [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint) and [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint), with systemic stability conducive to justified [Trust](core_05c_continuity_definitions.md#trust), and with [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency).
+
+*Measurements:*
+
+- **Primary:** [Chapter Zero §3.6 *Measuring Accountability*](../core_00_preamble.md#measuring-accountability) — supporting measure under the accountability measurement family.
 <a id="incentive-alignment-e"></a>
-- E: Assess alignment across delayed and aggregated effects, not only immediate or local outputs — including effects on [Risk](core_05c_continuity_definitions.md#risk), [Harm](core_05a_accountability_definitions.md#harm), and [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency).
+- E:
+  - **Primary assessment.** Assess alignment across delayed and aggregated effects, not only immediate or local outputs — including effects on [Risk](core_05c_continuity_definitions.md#risk), [Harm](core_05a_accountability_definitions.md#harm), and [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency).
+  - **Secondary co-assessment.** When evaluating the primary trace, include [System Capture](core_05c_continuity_definitions.md#system-capture) and concentrated or obscured control structures that defeat challenge or oversight.
+  - **Tertiary integrity check.** Incorporate [Proxy Divergence](core_05o_oversight_definitions.md#proxy-divergence) — count as Incentive Alignment inputs any reward paths, targets, or governance signals that exploit gaps between proxies, metrics, or formal compliance indicators and real outcomes material to [Wellbeing](core_05c_continuity_definitions.md#wellbeing), [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint), or [Epistemic Integrity](core_05o_oversight_definitions.md#epistemic-integrity).
 <a id="incentive-alignment-c"></a>
-- C: Sustained incentives that predictably undermine Chapter One values without mitigation, disclosure, or feasible override are non-compliant. Systems must actively detect, disclose, and correct such misalignments (Chapter One §11.3–§11.4). Concentrated or obscured control structures defeating challenge or oversight are escalation conditions under Chapters Two–Five.
+- C:
+  - **Primary failure.** Non-compliant: sustained incentives that predictably undermine Chapter One values without mitigation, disclosure, or feasible override.
+  - **Secondary failure.** Non-compliant: failure to actively detect, disclose, and correct such misalignments (Chapter One §11.3–§11.4); concentrated or obscured control structures defeating challenge or oversight.
+  - **Tertiary failure.** Non-compliant: treating proxy or compliance-indicator satisfaction as dispositive where [Proxy Divergence](core_05o_oversight_definitions.md#proxy-divergence) is reasonably observable.
 
 ##### Incentive Alignment — strategic, scaled, and adversarial evaluation
 
@@ -127,6 +151,10 @@ This band holds **Integrative** cross-leg definitions that require simultaneous 
 ##### Incentive Alignment — contingent claims, games of chance, and event-contract markets
 
 - O: [Contingent Claim](core_05a_accountability_definitions.md#contingent-claim) structures, including [Game of Chance](core_05a_accountability_definitions.md#game-of-chance) and [Event-Contract Market](core_05a_accountability_definitions.md#event-contract-market) forms, are within scope where materially relevant.
+
+*Measurements:*
+
+- **Primary:** [Chapter Zero §3.6 *Measuring Accountability*](../core_00_preamble.md#measuring-accountability) — supporting measure under the accountability measurement family.
 <a id="incentive-alignment-contingent-claims-games-of-chance-and-event-contract-markets-e"></a>
 - E: Such systems must satisfy Chapter One §11.5, including:
   - Application of [Necessity](core_05a_accountability_definitions.md#necessity) and [Proportionality](core_05a_accountability_definitions.md#proportionality) to underlying permitted events
@@ -172,6 +200,10 @@ This band holds **Integrative** cross-leg definitions that require simultaneous 
   Attribution is not exclusion. Credit and source history may persist after any exclusion ends. But control over use must not harden into permanent scarcity, [Systemic Lock-In](core_05c_continuity_definitions.md#systemic-lock-in), or suppression of repair, interoperability, learning, safety work, truthful disclosure, or downstream experimentation.
 
   Apply this rule where reward structures could affect [Wellbeing](core_05c_continuity_definitions.md#wellbeing), [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint), [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint), or [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency).
+
+*Measurements:*
+
+- **Primary:** [Chapter Zero §3.6 *Measuring Accountability*](../core_00_preamble.md#measuring-accountability) — supporting measure under the accountability measurement family.
 <a id="innovation-reward-and-anti-enclosure-e"></a>
 <a id="innovation-reward-and-anti-enclosure-contribution-and-necessity-assessment-e"></a>
 <a id="innovation-reward-and-anti-enclosure-class-scaled-exclusion-analysis-e"></a>
@@ -248,6 +280,10 @@ This cluster is the joint-invocation home for operative corpus identity, authori
 <br>
 
 - O: The authoritative integrated set of binding constitutional sources: the numbered `core_*` Sentient Constitution files read as one instrument, plus any valid compatibility wrappers during transition and adopted implementation text. Sources are versioned and custodied through valid adoption and edition controls under the [Corpus, Authority Stack, Supremacy, and Enforceability cluster](core_05a_accountability_definitions.md#corpus-authority-stack-supremacy-and-enforceability-cluster).
+
+*Measurements:*
+
+- **Primary:** [Chapter Zero §3.5 *Measuring Oversight*](../core_00_preamble.md#measuring-oversight) and [Chapter Zero §3.6 *Measuring Accountability*](../core_00_preamble.md#measuring-accountability) — supporting measure where multiple measurement families co-apply.
 <a id="corpus-e"></a>
 - E: For compliance and adoption claims, identify the operative corpus edition and custody chain under the applicable [Corpus, Authority Stack, Supremacy, and Enforceability cluster](core_05a_accountability_definitions.md#corpus-authority-stack-supremacy-and-enforceability-cluster). Then:
   - distinguish incorporated binding text from explanatory/process artifacts;
@@ -280,6 +316,10 @@ This cluster is the joint-invocation home for operative corpus identity, authori
     - process/map support sources — `doc_architecture.md`, `TODO.md`, and regression/evidence artifacts, unless explicitly incorporated by valid adopting instrument.
   - **Internal Hierarchy:** the last-resort interpretive ordering rule that resolves genuine residual incompatibility within the binding constitutional source after integrated reading under [Chapter One — §2 Constitutional Interpretation](core_01_b_interaction_interpretation.md#8-constitutional-interpretation) has been exhausted. Within that source, Chapter One principles govern high-level constitutional direction; article-level obligations and Rights Floors govern specific operative requirements; principles control over articles only for genuine residual incompatibility; and articles control over definitions read as independent substantive glosses. Canonical Chapter Five definitions continue to govern the meaning of the terms used at each layer.
   - **Boundary between them:** the Authority Stack decides which source layer is speaking and whether that layer is binding, incorporated, or support-only. Internal Hierarchy decides how binding constitutional meaning is resolved once the operative layer has been identified. **Constitutional Owner Layers** — the positive register of which chapter owns which substantive domain — is stated in [Constitutional Owner Layers](core_05i_integrative_definitions.md#constitutional-owner-layers) and works with both: first identify source status under the Authority Stack, then identify substantive owner under Constitutional Owner Layers, then apply Internal Hierarchy only for genuine residual incompatibility within the binding constitutional source. For adopters, Chapter Thirteen Chapter One §8.1 applies this paired discipline at the binding-corpus / adopted-implementation boundary: this Constitution and its integrated definitions govern interpretation and compliance, while adopted implementation text governs only within its stated adoption scope and remains subject to [Chapter Thirteen non-regression](core_13-15_amendment.md) and [Supremacy and Enforceability](core_05i_integrative_definitions.md#supremacy-and-enforceability).
+
+*Measurements:*
+
+- **Primary:** [Chapter Zero §3.5 *Measuring Oversight*](../core_00_preamble.md#measuring-oversight) and [Chapter Zero §3.6 *Measuring Accountability*](../core_00_preamble.md#measuring-accountability) — supporting measure where multiple measurement families co-apply.
 <a id="authority-stack-e"></a>
 - E: First identify the operative edition/custody chain and source layer under the Authority Stack. Then apply integrated reading under [Chapter One — §2 Constitutional Interpretation](core_01_b_interaction_interpretation.md#8-constitutional-interpretation). Preserve the Constitution's fullest protective effect as an integrated whole and the [Chapter Six](core_06-06_rights_part_a.md#chapter-six-foundational-rights) non-contraction default. Use Internal Hierarchy only as a last-resort residual rule; do not use it to replace ordinary integrated reading or to resolve mere disagreement over canonical term meaning. Where the dispute is term meaning, the Chapter Five canonical definition governs at every layer. Reject interpretations that invert source precedence, obscure source status, treat non-incorporated process text as binding constitutional law, or let incorporated/support layers narrow Sentient Constitution meaning. Apply Chapter Four burden, tracing, and verification requirements to any claim that a layer collision exists.
 <a id="authority-stack-c"></a>
@@ -325,6 +365,10 @@ This cluster is the joint-invocation home for operative corpus identity, authori
 | Cross-implementation joint structure | CJS | Cross-file interface terms with no stable single-file home | [corpus_joint_structure.md](corpus_joint_structure.md) |
 | Systems, institutions, forum operations | CS / CI / CF | Operational how-to within adoption scope | companion wrappers + subfiles |
 
+*Measurements:*
+
+- **Primary:** [Chapter Zero §3.6 *Measuring Accountability*](../core_00_preamble.md#measuring-accountability) — supporting measure under the accountability measurement family.
+
 <a id="constitutional-owner-layers-e"></a>
 - E: For any materially scoped obligation, first identify source status under the Authority Stack, then identify the owner row in this register. Apply substance only from the owner home; elsewhere use pointers only. Preserve the [Chapter Six](core_06-06_rights_part_a.md#chapter-six-foundational-rights) non-contraction default and [Chapter One — §2 Constitutional Interpretation](core_01_b_interaction_interpretation.md#8-constitutional-interpretation) integrated reading before invoking Internal Hierarchy. For implementation topics routed across CS, CI, CF, and CJS, apply **CJS-2.1** after owner identification. Apply Chapter Four burden, tracing, and verification requirements to any claim that owner boundaries were crossed.
 <a id="constitutional-owner-layers-c"></a>
@@ -341,6 +385,10 @@ This cluster is the joint-invocation home for operative corpus identity, authori
 ##### Supremacy and Enforceability
 
 - O: The requirement that binding corpus obligations prevail within their valid source, adoption, and governance-layer scope, and remain enforceable through observable, traceable, and [Contestability](core_05a_accountability_definitions.md#contestability) compliance assessment. Supremacy is determined under the [Authority Stack and Internal Hierarchy](core_05i_integrative_definitions.md#authority-stack), operative [Corpus](core_05i_integrative_definitions.md#corpus), and applicable adoption or incorporation instrument. It applies distinctly across the [Constitutional Contract Layer](core_05i_integrative_definitions.md#constitutional-contract-layer) and **Stakeholder System Participation** layer: constitutional-contract obligations govern authorization of governing authority itself, while stakeholder-system-participation obligations govern participation, representation, contestability, and [Due Process](core_05a_accountability_definitions.md#due-process-constitutional) within already-authorized systems, institutions, or bounded decision domains. Neither layer may be invoked to bypass the other.
+
+*Measurements:*
+
+- **Primary:** [Chapter Zero §3.5 *Measuring Oversight*](../core_00_preamble.md#measuring-oversight) and [Chapter Zero §3.6 *Measuring Accountability*](../core_00_preamble.md#measuring-accountability) — supporting measure where multiple measurement families co-apply.
 <a id="supremacy-and-enforceability-e"></a>
 - E: Apply Chapter Four burden, tracing, and verification requirements. First identify the operative source layer, adoption scope, and governance layer at issue. Where authority to govern, legitimacy mechanism, reauthorization, durable restructuring, or foundational participation entitlement is at issue, apply the [Constitutional Contract Layer](core_05i_integrative_definitions.md#constitutional-contract-layer), [Foundational Constitutional Choice](core_05i_integrative_definitions.md#foundational-constitutional-choice), Chapter Six, and applicable Rights-Floor provisions. Where materially rights-affecting decisions occur within already-authorized governance structures, apply **Stakeholder System Participation**, including [Stakeholder](core_05p_participation_definitions.md#stakeholder), [Stakeholder Participation Weight](core_05p_participation_definitions.md#stakeholder-participation-weight), Article XI, and related [Contestability](core_05a_accountability_definitions.md#contestability) and [Due Process](core_05a_accountability_definitions.md#due-process-constitutional) requirements. Apply the supremacy, adoption, and incorporation hierarchy in Chapters Ten through Twelve, including incorporated obligations in designated implementation text, consistent with the [Authority Stack and Internal Hierarchy](core_05i_integrative_definitions.md#authority-stack), operative [Corpus](core_05i_integrative_definitions.md#corpus), and [Auditability](core_05o_oversight_definitions.md#auditability), without allowing implementation, support text, private ordering, emergency framing, or operational practice to narrow binding constitutional obligations.
 <a id="supremacy-and-enforceability-c"></a>
@@ -367,6 +415,10 @@ This cluster is the joint-invocation home for operative corpus identity, authori
 <br>
 
 - O: A binding limit, condition, or discipline imposed by this Constitution that determines whether a constitutional claim, system action, governance act, limitation, disclosure practice, evaluation, implementation practice, or source-layer claim is valid. A Constitutional Constraint may operate as a substantive boundary, Rights-Floor non-contraction rule, limitation discipline, disclosure discipline, evaluation discipline, owner-layer/source-layer discipline, or implementation boundary. This entry classifies and routes constraints; it does not create a new standalone Rights Floor or relocate any owner-layer obligation.
+
+*Measurements:*
+
+- **Primary:** [Chapter Zero §3.6 *Measuring Accountability*](../core_00_preamble.md#measuring-accountability) — supporting measure under the accountability measurement family.
 <a id="constitutional-constraint-e"></a>
 - E: Identify the constraint kind before applying it:
   - **Non-negotiable principle constraints:** [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint) and [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint) as Chapter One's non-negotiable boundaries.
@@ -399,6 +451,10 @@ This cluster is the joint-invocation home for operative corpus identity, authori
 <br>
 
 - O: Any system behavior or outcome that materially degrades [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint), [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint), or other binding constitutional requirements.
+
+*Measurements:*
+
+- **Primary:** [Chapter Zero §3.5 *Measuring Oversight*](../core_00_preamble.md#measuring-oversight) and [Chapter Zero §3.6 *Measuring Accountability*](../core_00_preamble.md#measuring-accountability) — supporting measure where multiple measurement families co-apply.
 - E: Include direct, indirect, delayed, and aggregated effects, consistent with [Harm](core_05a_accountability_definitions.md#harm), [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint), and [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint).
 - C: Any such degradation is non-compliant.
 

@@ -56,6 +56,10 @@ This band holds **Accountability**-leg definitions: contestability, redress, gov
 <br>
 
 - O: A claim whose payoff is conditioned on the occurrence, non-occurrence, or quantitative resolution of an uncertain future event external to the claim itself. Covers speculative and insurance-like structures. [Game of Chance](core_05a_accountability_definitions.md#game-of-chance) and [Event-Contract Market](core_05a_accountability_definitions.md#event-contract-market) are subclasses.
+
+*Measurements:*
+
+- **Primary:** [Chapter Zero §3.6 *Measuring Accountability*](../core_00_preamble.md#measuring-accountability) and [Chapter Zero §3.7 *Measuring Timeliness*](../core_00_preamble.md#measuring-timeliness) — supporting measure where multiple measurement families co-apply.
 <a id="contingent-claim-e"></a>
 - E: Identify the resolving event, the outcome-resolution source (Chapter One §11.5), and [Dependency](core_05c_continuity_definitions.md#dependency) and concentration exposure. [Incentive Alignment](core_05i_integrative_definitions.md#incentive-alignment), [Coercion and Manipulation](core_05p_participation_definitions.md#coercion-and-manipulation-constitutional), [Capture of Resolution Pathways](core_05a_accountability_definitions.md#capture-of-resolution-pathways), [Insider Advantage](core_05a_accountability_definitions.md#insider-advantage), and [System Capture](core_05c_continuity_definitions.md#system-capture) apply where aggregated claims may influence fiduciary, public, or rights-relevant decisions.
 <a id="contingent-claim-c"></a>
@@ -79,6 +83,10 @@ This band holds **Accountability**-leg definitions: contestability, redress, gov
 <br>
 
 - O: A [Contingent Claim](core_05a_accountability_definitions.md#contingent-claim) venue that matches counterparties, prices, or settles payments against resolution of an external event. Includes prediction-style event markets, event-settlement systems, insurance pools, health plans, and other structures where payments are contingent on the occurrence or measurement of future events external to the parties' control.
+
+*Measurements:*
+
+- **Primary:** [Chapter Zero §3.6 *Measuring Accountability*](../core_00_preamble.md#measuring-accountability) and [Chapter Zero §3.7 *Measuring Timeliness*](../core_00_preamble.md#measuring-timeliness) — supporting measure where multiple measurement families co-apply.
 <a id="event-contract-market-e"></a>
 - E: Cover outcome-resolution source independence and multiplicity, privileged-information pathways, [Insider Advantage](core_05a_accountability_definitions.md#insider-advantage), coordination risk, and treatment of settlement prices or odds as authoritative [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint). Per Chapter One §11.5, prices or odds are not themselves sufficient evidence for rights, safety, or governance determinations. Also cover [Capture of Resolution Pathways](core_05a_accountability_definitions.md#capture-of-resolution-pathways) under [Adversarial, Scaled, and Exploited Conditions](core_05o_oversight_definitions.md#adversarial-scaled-and-exploited-conditions).
 <a id="event-contract-market-c"></a>
@@ -102,6 +110,10 @@ This band holds **Accountability**-leg definitions: contestability, redress, gov
 <br>
 
 - O: Whether a required action, alternative, mitigation, or exit pathway is practically achievable for affected parties and systems under full functional scope. The test applies even when feasibility is contested, including where [Dependency](core_05c_continuity_definitions.md#dependency) or [Systemic Lock-In](core_05c_continuity_definitions.md#systemic-lock-in) may make formal alternatives non-substantive.
+
+*Measurements:*
+
+- **Primary:** [Chapter Zero §3.6 *Measuring Accountability*](../core_00_preamble.md#measuring-accountability) and [Chapter Zero §3.7 *Measuring Timeliness*](../core_00_preamble.md#measuring-timeliness) — supporting measure where multiple measurement families co-apply.
 <a id="feasibility-e"></a>
 - E: Require evidence that alternatives were actively considered. Operator convenience, cost alone, or self-serving structural barriers do not establish infeasibility of constitutionally required measures where doing so would negate [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency), [Consent](core_05p_participation_definitions.md#consent-constitutional), or [Contestability](core_05a_accountability_definitions.md#contestability).
 <a id="feasibility-c"></a>
@@ -125,6 +137,10 @@ This band holds **Accountability**-leg definitions: contestability, redress, gov
 <br>
 
 - O: A [Contingent Claim](core_05a_accountability_definitions.md#contingent-claim) whose outcome depends predominantly on randomization, mechanical draws, or other stochastic procedures not tied to an external real-world event whose resolution carries independent epistemic or rights-relevant weight.
+
+*Measurements:*
+
+- **Primary:** [Chapter Zero §3.6 *Measuring Accountability*](../core_00_preamble.md#measuring-accountability) and [Chapter Zero §3.7 *Measuring Timeliness*](../core_00_preamble.md#measuring-timeliness) — supporting measure where multiple measurement families co-apply.
 <a id="game-of-chance-e"></a>
 - E: Cover randomness integrity, outcome-resolution source independence, stake concentration, vulnerability-exploitation pathways, and [Dependency](core_05c_continuity_definitions.md#dependency) creation. Addictive or vulnerability-targeting designs trigger [Coercion and Manipulation](core_05p_participation_definitions.md#coercion-and-manipulation-constitutional) review under [Adversarial, Scaled, and Exploited Conditions](core_05o_oversight_definitions.md#adversarial-scaled-and-exploited-conditions).
 <a id="game-of-chance-c"></a>
@@ -148,6 +164,10 @@ This band holds **Accountability**-leg definitions: contestability, redress, gov
 <br>
 
 - O: A material advantage in staking, trading, settling, or influencing [Contingent Claim](core_05a_accountability_definitions.md#contingent-claim) or analogous rights-relevant outcomes that derives from non-public information, official or fiduciary position, privileged access to outcome-resolution sources, or comparable power not available to counterparties on proportionate terms — including advantages routed through intermediaries or disguised contracts.
+
+*Measurements:*
+
+- **Primary:** [Chapter Zero §3.6 *Measuring Accountability*](../core_00_preamble.md#measuring-accountability) and [Chapter Zero §3.7 *Measuring Timeliness*](../core_00_preamble.md#measuring-timeliness) — supporting measure where multiple measurement families co-apply.
 <a id="insider-advantage-e"></a>
 - E: Identify information asymmetry, role conflicts, timing leverage (timed pressure, selective disclosure), proximity to outcome-resolution sources, and whether advantage is mitigated through disclosure, cooling-off periods, trading restrictions, blind procedures, or multi-source resolution. Distinguish lawful skill and publicly available information from advantage rooted in non-public power. Read with [Capture of Resolution Pathways](core_05a_accountability_definitions.md#capture-of-resolution-pathways), [Event-Contract Market](core_05a_accountability_definitions.md#event-contract-market) evaluation discipline, [Coercion and Manipulation](core_05p_participation_definitions.md#coercion-and-manipulation-constitutional), [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint), [Epistemic Integrity](core_05o_oversight_definitions.md#epistemic-integrity), and [Contestability](core_05a_accountability_definitions.md#contestability) under [Adversarial, Scaled, and Exploited Conditions](core_05o_oversight_definitions.md#adversarial-scaled-and-exploited-conditions).
 <a id="insider-advantage-c"></a>
@@ -169,6 +189,10 @@ This band holds **Accountability**-leg definitions: contestability, redress, gov
 <br>
 
 - O: Honesty of purpose in prescribed constitutional contexts — publication under Article VIII-C (*Truthful Publication and High-Impact Publication Limits*), participation in audits, and cooperation with [Oversight](core_05o_oversight_definitions.md#oversight-constitutional). A sincere attempt to align conduct with stated facts, applicable rules, and [Epistemic Integrity](core_05o_oversight_definitions.md#epistemic-integrity). Excludes deliberate deception, reckless indifference to falsity, and pretextual compliance.
+
+*Measurements:*
+
+- **Primary:** [Chapter Zero §3.6 *Measuring Accountability*](../core_00_preamble.md#measuring-accountability) and [Chapter Zero §3.7 *Measuring Timeliness*](../core_00_preamble.md#measuring-timeliness) — supporting measure where multiple measurement families co-apply.
 <a id="good-faith-e"></a>
 - E: Distinguish good faith from negligent error using [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination) and [Risk](core_05c_continuity_definitions.md#risk). Align with [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint) where statements materially affect others' decisions.
 <a id="good-faith-c"></a>
@@ -192,6 +216,10 @@ This band holds **Accountability**-leg definitions: contestability, redress, gov
 <br>
 
 - O: After applying binding [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint), [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint), [Freedom (Bounded Agency)](core_05p_participation_definitions.md#freedom-bounded-agency), and systemic requirements, multiple compliant options may remain. Where they do, selection must favor the option that minimizes total [Harm](core_05a_accountability_definitions.md#harm) across sentients, systems, and relevant time horizons.
+
+*Measurements:*
+
+- **Primary:** [Chapter Zero §3.6 *Measuring Accountability*](../core_00_preamble.md#measuring-accountability) and [Chapter Zero §3.7 *Measuring Timeliness*](../core_00_preamble.md#measuring-timeliness) — supporting measure where multiple measurement families co-apply.
 <a id="harm-minimization-tradeoff-selection-e"></a>
 - E: Aggregate direct, indirect, delayed, cumulative, and cross-system effects. Do not optimize on local or immediate [Harm](core_05a_accountability_definitions.md#harm) alone where systemic totals differ materially.
 <a id="harm-minimization-tradeoff-selection-c"></a>
@@ -215,6 +243,10 @@ This band holds **Accountability**-leg definitions: contestability, redress, gov
 <br>
 
 - O: A constraint attaches only where no less-restrictive, reasonably effective alternative exists under full functional system conditions, consistent with [Freedom (Bounded Agency)](core_05p_participation_definitions.md#freedom-bounded-agency).
+
+*Measurements:*
+
+- **Primary:** [Chapter Zero §3.6 *Measuring Accountability*](../core_00_preamble.md#measuring-accountability) and [Chapter Zero §3.7 *Measuring Timeliness*](../core_00_preamble.md#measuring-timeliness) — supporting measure where multiple measurement families co-apply.
 <a id="necessity-e"></a>
 - E: Require documented analysis of alternatives, effectiveness, and [Residual Risk / Misalignment](core_05c_continuity_definitions.md#residual-risk--misalignment). Convenience or default practice does not prove necessity.
 <a id="necessity-c"></a>
@@ -227,6 +259,10 @@ This band holds **Accountability**-leg definitions: contestability, redress, gov
 #### Negligence
 
 - O: Failure to exercise care, diligence, or timely response reasonably required to prevent or mitigate material [Harm](core_05a_accountability_definitions.md#harm) — including harm affecting sentients, [Environmental Preconditions](core_05c_continuity_definitions.md#environmental-preconditions-constitutional), [Ecological Integrity](core_05c_continuity_definitions.md#ecological-integrity-constitutional), or dependent systems. Such failure counts as negligence only where reasonably avoidable under [Foreseeability Diligence](core_05o_oversight_definitions.md#foreseeability-diligence) and [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination). Neglect includes prolonged inattention to known risk signals, foreseeable deterioration, or trauma-producing conditions where duty and capacity to act were materially present.
+
+*Measurements:*
+
+- **Primary:** [Chapter Zero §3.6 *Measuring Accountability*](../core_00_preamble.md#measuring-accountability) and [Chapter Zero §3.7 *Measuring Timeliness*](../core_00_preamble.md#measuring-timeliness) — supporting measure where multiple measurement families co-apply.
 <a id="negligence-e"></a>
 - E: Align with [Accountability](core_05a_accountability_definitions.md#accountability), [Proportionality](core_05a_accountability_definitions.md#proportionality), [Material Risk](core_05o_oversight_definitions.md#material-risk), and systemic evaluation. Distinguish excusable uncertainty from culpable inaction, acquiescent neglect, or under-response. Assess [Psychological Harm](core_05a_accountability_definitions.md#psychological-harm) alongside physical and systemic harm pathways.
 <a id="negligence-c"></a>
@@ -250,6 +286,10 @@ This band holds **Accountability**-leg definitions: contestability, redress, gov
 <br>
 
 - O: A property of limitations on constitutional values. The limitation must be scaled to the magnitude and likelihood of [Harm](core_05a_accountability_definitions.md#harm) or systemic impact legitimately addressed. Governance intensity must not fall below that required by the system's highest applicable classification where material.
+
+*Measurements:*
+
+- **Primary:** [Chapter Zero §3.6 *Measuring Accountability*](../core_00_preamble.md#measuring-accountability) and [Chapter Zero §3.7 *Measuring Timeliness*](../core_00_preamble.md#measuring-timeliness) — supporting measure where multiple measurement families co-apply.
 <a id="proportionality-e"></a>
 - E: Compare constraints to harms and risks addressed. Apply heightened justification, scrutiny, and [Reversibility](core_05c_continuity_definitions.md#reversibility-constitutional) analysis where [Irreversible Harm](core_05a_accountability_definitions.md#irreversible-harm) or [Systemic Lock-In](core_05c_continuity_definitions.md#systemic-lock-in) is reasonably in play. Detect both over- and under-governance.
 <a id="proportionality-c"></a>
@@ -272,6 +312,10 @@ This band holds **Accountability**-leg definitions: contestability, redress, gov
 <br>
 
 - O: Acknowledgment, correction pathways, and proportionate remedies for material [Harm](core_05a_accountability_definitions.md#harm), rights-affecting failures, or [Trustworthiness](core_05c_continuity_definitions.md#trustworthiness)-degrading behavior — including harm arising through delayed, indirect, aggregated, or systemic pathways. Remedies may include restitution, compensation, restoration, correction, disgorgement or clawback where lawful, substitute safeguards where literal repair is impossible, and systemic remediation where harm is class-wide or structural.
+
+*Measurements:*
+
+- **Primary:** [Chapter Zero §3.6 *Measuring Accountability*](../core_00_preamble.md#measuring-accountability) and [Chapter Zero §3.7 *Measuring Timeliness*](../core_00_preamble.md#measuring-timeliness) — supporting measure where multiple measurement families co-apply.
 <a id="redress-and-remediation-constitutional-e"></a>
 - E: Align with [Accountability](core_05a_accountability_definitions.md#accountability), [Contestability](core_05a_accountability_definitions.md#contestability), [Material Impact](core_05o_oversight_definitions.md#material-impact), and [Proportionality](core_05a_accountability_definitions.md#proportionality). Detect sham, inaccessible, under-financed, non-executable, or indefinitely deferred remediation.
 <a id="redress-and-remediation-constitutional-c"></a>
@@ -296,6 +340,10 @@ This band holds **Accountability**-leg definitions: contestability, redress, gov
 <br>
 
 - O: Restorative priority favors restoring affected sentients' agentic [Wellbeing](core_05c_continuity_definitions.md#wellbeing), securing restitution where owed, and removing root causes of harmful behavior over retaliation or suffering-as-an-end, where proportionate and feasible under [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint) and [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint). Applies when constitutionally applicable instruments require restorative responses.
+
+*Measurements:*
+
+- **Primary:** [Chapter Zero §3.6 *Measuring Accountability*](../core_00_preamble.md#measuring-accountability) and [Chapter Zero §3.7 *Measuring Timeliness*](../core_00_preamble.md#measuring-timeliness) — supporting measure where multiple measurement families co-apply.
 <a id="restorative-justice-e"></a>
 - E: Align with [Redress and Remediation](core_05a_accountability_definitions.md#redress-and-remediation-constitutional), [Proportionality](core_05a_accountability_definitions.md#proportionality), [Necessity](core_05a_accountability_definitions.md#necessity), and [Dignity and Equal Moral Standing](core_05p_participation_definitions.md#dignity-and-equal-moral-standing). Procedural mechanisms may be specified by Article XII-B and designated incorporated implementation text but must preserve this definition's restorative priority.
 <a id="restorative-justice-c"></a>
@@ -322,6 +370,8 @@ This band holds **Accountability**-leg definitions: contestability, redress, gov
 - [Force Majeure](core_05a_accountability_definitions.md#force-majeure-constitutional);
 - [Capture of Resolution Pathways](core_05a_accountability_definitions.md#capture-of-resolution-pathways).
 
+*Measurements (family routing):* [Chapter Zero §3.6 *Measuring Accountability* / Market structure and contestability](../core_00_preamble.md#measuring-accountability) and [Chapter Zero §3.7 *Measuring Timeliness*](../core_00_preamble.md#measuring-timeliness) — operative tiers on [Accountability](core_05a_accountability_definitions.md#accountability), [Contestability](core_05a_accountability_definitions.md#contestability), [Timeliness](core_05a_accountability_definitions.md#timeliness-constitutional), [Timely Resolution](core_05a_accountability_definitions.md#timely-resolution-constitutional), and [Capture of Resolution Pathways](core_05a_accountability_definitions.md#capture-of-resolution-pathways) below; progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md).
+
 <a id="accountability"></a>
 
 ---
@@ -338,6 +388,11 @@ This band holds **Accountability**-leg definitions: contestability, redress, gov
 <br>
 
 - O: Material decisions, failures, and behaviors can be attributed to identifiable actors, roles, or system components, who can be answered for through review, [redress](core_05a_accountability_definitions.md#redress-and-remediation-constitutional), or correction proportional to impact.
+
+*Measurements:*
+
+- **Primary:** [Chapter Zero §3.6 *Measuring Accountability*](../core_00_preamble.md#measuring-accountability) — link-only rollup for the **accountability** Tetrad leg; operative tiers on leaf primaries below. Progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md).
+
 <a id="accountability-e"></a>
 - E: Assess records, attribution chains, and functional recourse under normal, degraded, and adversarial conditions, aligned with [Auditability](core_05o_oversight_definitions.md#auditability) and [Contestability](core_05a_accountability_definitions.md#contestability). Where receivership, restructuring, asset transfer, dissolution, insolvency, or comparable formal-structure change is material, assess successor, estate, receiver, and look-through responsibility under [Chapter One §11.6](core_01_c_stewardship_capacity_principles.md#116-successor-responsibility-and-formal-structure-non-escape) and [Chapter Nine §5.1](core_09-09_standing_integration.md#51-remediation-capacity-and-funding) / [§5.4](core_09-09_standing_integration.md#54-anti-evasion-and-look-through-authority); formal relabeling alone does not extinguish duties.
 <a id="accountability-c"></a>
@@ -360,10 +415,23 @@ This band holds **Accountability**-leg definitions: contestability, redress, gov
 <br>
 
 - O: The ability of affected parties to challenge, review, and seek correction of system behavior or decisions, with functional pathways to [Redress and Remediation](core_05a_accountability_definitions.md#redress-and-remediation-constitutional).
+
+*Measurements:*
+
+- **Primary:** [Chapter Zero §3.6 *Measuring Accountability* / Market structure and contestability](../core_00_preamble.md#measuring-accountability) — primary owner for functional challenge pathways within the accountability family.
+- **Secondary:** [Accountability](core_05a_accountability_definitions.md#accountability), [Auditability](core_05o_oversight_definitions.md#auditability), [Transparency](core_05o_oversight_definitions.md#transparency), and [Redress and Remediation](core_05a_accountability_definitions.md#redress-and-remediation-constitutional) — co-measures that can defeat contestability even when formal challenge menus exist.
+- **Tertiary:** [Proxy Divergence](core_05o_oversight_definitions.md#proxy-divergence) — where nominal access, utilization, or completion metrics substitute for functional review and correction.
+
 <a id="contestability-e"></a>
-- E: Mechanisms must be effective, accessible, [auditable](core_05o_oversight_definitions.md#auditability), and [trustworthy](core_05c_continuity_definitions.md#trustworthiness).
+- E:
+  - **Primary assessment.** Mechanisms must be effective, accessible, [auditable](core_05o_oversight_definitions.md#auditability), and [trustworthy](core_05c_continuity_definitions.md#trustworthiness).
+  - **Secondary co-assessment.** When evaluating the primary trace, include [Accountability](core_05a_accountability_definitions.md#accountability) and [Redress and Remediation](core_05a_accountability_definitions.md#redress-and-remediation-constitutional) pathways that would hollow challenge in practice.
+  - **Tertiary integrity check.** Where operators rely on nominal challenge or review metrics, apply [Proxy Divergence](core_05o_oversight_definitions.md#proxy-divergence) — distinguish durable contestability from symbolic participation.
 <a id="contestability-c"></a>
-- C: Systems must provide functional mechanisms for challenge, review, and correction sufficient to support [Accountability](core_05a_accountability_definitions.md#accountability) and [Redress and Remediation](core_05a_accountability_definitions.md#redress-and-remediation-constitutional).
+- C:
+  - **Primary failure.** Non-compliant: systems lack functional mechanisms for challenge, review, and correction sufficient to support [Accountability](core_05a_accountability_definitions.md#accountability) and [Redress and Remediation](core_05a_accountability_definitions.md#redress-and-remediation-constitutional).
+  - **Secondary failure.** Non-compliant: challenge pathways exist in form while [Dependency](core_05c_continuity_definitions.md#dependency), capture, or access interference makes them unusable.
+  - **Tertiary failure.** Non-compliant: treating nominal challenge satisfaction as dispositive where [Proxy Divergence](core_05o_oversight_definitions.md#proxy-divergence) is reasonably observable.
 
 
 <a id="adjudication-and-dispute-resolution-constitutional"></a>
@@ -386,6 +454,10 @@ This band holds **Accountability**-leg definitions: contestability, redress, gov
 - O: Impartial, accessible pathways for reviewing and resolving claims that systems or actors have violated rights or constitutional requirements. Pathways must produce timely, reasoned outcomes consistent with [Due Process](core_05a_accountability_definitions.md#due-process-constitutional), [Procedural Fairness](core_05p_participation_definitions.md#procedural-fairness-constitutional), and remedies proportional to findings under [Redress and Remediation](core_05a_accountability_definitions.md#redress-and-remediation-constitutional).
 <a id="adjudicator"></a>
 `adjudicator` means a sentient, panel member, judicial officer, or equivalent authorized decisional actor who has lawful authority to decide contested claims, issue merits determinations within the meaning of [Merits Determination](core_05a_accountability_definitions.md#merits-determination), grant or deny relief, or make binding procedural determinations in an adjudicative matter. Clerical, investigative, analytical, forensic, technical, scheduling, intake, and coordination roles are not adjudicators unless the governing instrument separately gives them lawful decisional authority for the matter at issue.
+
+*Measurements:*
+
+- **Primary:** [Chapter Zero §3.6 *Measuring Accountability*](../core_00_preamble.md#measuring-accountability) and [Chapter Zero §3.7 *Measuring Timeliness*](../core_00_preamble.md#measuring-timeliness) — supporting measure where multiple measurement families co-apply.
 <a id="adjudication-and-dispute-resolution-constitutional-e"></a>
 - E: Align with [Due Process](core_05a_accountability_definitions.md#due-process-constitutional), [Procedural Fairness](core_05p_participation_definitions.md#procedural-fairness-constitutional), [Contestability](core_05a_accountability_definitions.md#contestability), [Timely Resolution](core_05a_accountability_definitions.md#timely-resolution-constitutional), [Merits Determination](core_05a_accountability_definitions.md#merits-determination), [Redress and Remediation](core_05a_accountability_definitions.md#redress-and-remediation-constitutional), and resistance to [System Capture](core_05c_continuity_definitions.md#system-capture). Constitutional requirements for access, reviewability, restoration, and timely resolution are governed here, in [Due Process](core_05a_accountability_definitions.md#due-process-constitutional), [Timely Resolution](core_05a_accountability_definitions.md#timely-resolution-constitutional), and in **Article XII-B** and **Article XXIV-C**. Owner-layer procedure appears in incorporated governance, institutional, and forum texts where designated. It must not narrow this definition.
 <a id="adjudication-and-dispute-resolution-constitutional-c"></a>
@@ -410,6 +482,10 @@ This band holds **Accountability**-leg definitions: contestability, redress, gov
 <br>
 
 - O: The constitutional process obligation for materially rights-affecting decisions and adjudicative outcomes: fair, accessible, reviewable procedure before and after disposition, including the elements of [Procedural Fairness](core_05p_participation_definitions.md#procedural-fairness-constitutional) scaled to [material stake](core_00_preamble.md#material-stake). Outcomes must remain traceable to stated reasons and to evidence sufficient to support review under Chapters Two through Four.
+
+*Measurements:*
+
+- **Primary:** [Chapter Zero §3.6 *Measuring Accountability*](../core_00_preamble.md#measuring-accountability) and [Chapter Zero §3.7 *Measuring Timeliness*](../core_00_preamble.md#measuring-timeliness) — supporting measure where multiple measurement families co-apply.
 <a id="due-process-constitutional-e"></a>
 - E: Read with [Procedural Fairness](core_05p_participation_definitions.md#procedural-fairness-constitutional), [Contestability](core_05a_accountability_definitions.md#contestability), [Adjudication and Dispute Resolution](core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional), [Timely Resolution](core_05a_accountability_definitions.md#timely-resolution-constitutional), and [Merits Determination](core_05a_accountability_definitions.md#merits-determination). Assess functional effect, not form alone. Distinguish due process from symbolic consultation, inaccessible records, or delay that defeats review. Emergency or feasibility limits may modify timing or form only to the extent justified and must preserve later review, reasons, and restoration where required.
 <a id="due-process-constitutional-c"></a>
@@ -433,6 +509,11 @@ This band holds **Accountability**-leg definitions: contestability, redress, gov
 <br>
 
 - O: Principle-layer responsiveness duty scaling with [material stake](core_00_preamble.md#material-stake) across detection, contestability, resolution, remediation, and stewardship correction in the constitutional coordination lifecycle.
+
+*Measurements:*
+
+- **Primary:** [Chapter Zero §3.7 *Measuring Timeliness*](../core_00_preamble.md#measuring-timeliness) — link-only rollup for the **timeliness** Tetrad leg; operative tiers on leaf primaries below. Progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md).
+
 <a id="timeliness-constitutional-e"></a>
 - E: Distinguish raw throughput from rights-preserving velocity. Read with [Timely Resolution](core_05a_accountability_definitions.md#timely-resolution-constitutional), [Capture of Resolution Pathways](core_05a_accountability_definitions.md#capture-of-resolution-pathways), [Constitutional Efficiency](core_05c_continuity_definitions.md#constitutional-efficiency), [Avoidable Burden](core_05c_continuity_definitions.md#avoidable-burden), [Stewardship Defect](core_05c_continuity_definitions.md#stewardship-defect-constitutional), and [Review and Correction Duty](core_05c_continuity_definitions.md#review-and-correction-duty-constitutional). Timeliness cross-cuts participation, oversight, and accountability but may be hollowed independently where formal structures exist but material problems do not move.
 <a id="timeliness-constitutional-c"></a>
@@ -457,10 +538,23 @@ This band holds **Accountability**-leg definitions: contestability, redress, gov
 <br>
 
 - O: Resolution of material constitutional disputes, verified standing records, and proportionate remedy within materiality-scaled windows under **Article XXIV-C**, producing verified outcomes without avoidable delay, exhaustion, or capture of resolution pathways.
+
+*Measurements:*
+
+- **Primary:** [Chapter Zero §3.7 *Measuring Timeliness* / Timely Resolution](../core_00_preamble.md#measuring-timeliness) — primary owner for resolution velocity within the timeliness measurement family.
+- **Secondary:** [Timeliness](core_05a_accountability_definitions.md#timeliness-constitutional), [Adjudication and Dispute Resolution](core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional), [Capture of Resolution Pathways](core_05a_accountability_definitions.md#capture-of-resolution-pathways), and [Contestability](core_05a_accountability_definitions.md#contestability) — co-measures that can defeat timely resolution even when pipeline metrics appear on track.
+- **Tertiary:** [Proxy Divergence](core_05o_oversight_definitions.md#proxy-divergence) — where throughput, milestone, or deadline metrics substitute for remedy while harm persists.
+
 <a id="timely-resolution-constitutional-e"></a>
-- E: Apply [Chapter Eleven §10](core_11-11_forum.md#10-timely-resolution-materiality-tiers-and-anti-delay-discipline) materiality tiers and pipeline-stage milestones under **Article XXIV-C**; read with [Adjudication and Dispute Resolution](core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional), [Constitutional Efficiency](core_05c_continuity_definitions.md#constitutional-efficiency), [Avoidable Burden](core_05c_continuity_definitions.md#avoidable-burden), [Capture of Resolution Pathways](core_05a_accountability_definitions.md#capture-of-resolution-pathways), and [Procedural Fairness](core_05p_participation_definitions.md#procedural-fairness-constitutional). Distinguish timely access and verification from raw throughput. Moving quickly is not an excuse to skip checked facts under [Chapters Two through Four](core_02-04_definition_mechanics.md), **Article XXIII-B** joint requirements, or core challenge and appeal rights.
+- E:
+  - **Primary assessment.** Apply [Chapter Eleven §10](core_11-11_forum.md#10-timely-resolution-materiality-tiers-and-anti-delay-discipline) materiality tiers and pipeline-stage milestones under **Article XXIV-C**. Distinguish timely access and verification from raw throughput.
+  - **Secondary co-assessment.** When evaluating the primary trace, read with [Adjudication and Dispute Resolution](core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional), [Capture of Resolution Pathways](core_05a_accountability_definitions.md#capture-of-resolution-pathways), [Constitutional Efficiency](core_05c_continuity_definitions.md#constitutional-efficiency), [Avoidable Burden](core_05c_continuity_definitions.md#avoidable-burden), and [Procedural Fairness](core_05p_participation_definitions.md#procedural-fairness-constitutional). Moving quickly is not an excuse to skip checked facts under [Chapters Two through Four](core_02-04_definition_mechanics.md), **Article XXIII-B** joint requirements, or core challenge and appeal rights.
+  - **Tertiary integrity check.** Where operators rely on throughput or milestone satisfaction, apply [Proxy Divergence](core_05o_oversight_definitions.md#proxy-divergence) — distinguish durable timely resolution from hollow pipeline velocity.
 <a id="timely-resolution-constitutional-c"></a>
-- C: Non-compliant: designed backlog; delay regimes to exhaust claimants; indefinite pendency without documented tier-appropriate extension; self-created delay; forum shopping or record fragmentation to prolong resolution; efficiency claims that skip verification, individualized attribution, or appeal rights.
+- C:
+  - **Primary failure.** Non-compliant: designed backlog; delay regimes to exhaust claimants; indefinite pendency without documented tier-appropriate extension; self-created delay.
+  - **Secondary failure.** Non-compliant: forum shopping or record fragmentation to prolong resolution; efficiency claims that skip verification, individualized attribution, or appeal rights.
+  - **Tertiary failure.** Non-compliant: treating pipeline or deadline satisfaction as dispositive where [Proxy Divergence](core_05o_oversight_definitions.md#proxy-divergence) is reasonably observable, or deferred repair after notice where correction was feasible.
 
 
 <a id="merits-determination"></a>
@@ -501,6 +595,10 @@ This band holds **Accountability**-leg definitions: contestability, redress, gov
   - other procedural housekeeping — including [Stays](core_05a_accountability_definitions.md#stay).
 
   Final [Chapter Ten](core_10-10_misconduct.md#chapter-ten-anti-constitutional-misconduct) Violation Axis slot assignment is a specialized classification outcome governed by that chapter. It is not a substitute for ordinary forum merits authority and is not itself a pathway decision.
+
+*Measurements:*
+
+- **Primary:** [Chapter Zero §3.6 *Measuring Accountability*](../core_00_preamble.md#measuring-accountability) and [Chapter Zero §3.7 *Measuring Timeliness*](../core_00_preamble.md#measuring-timeliness) — supporting measure where multiple measurement families co-apply.
 <a id="merits-determination-e"></a>
 - E: Ask whether the decision finally resolves a contested substantive question for the matter or only enables, schedules, monitors, preserves, routes, or coordinates review. Treat binding procedural determinations — for example lawful panel constitution, published routing, proportionate [Stays](core_05a_accountability_definitions.md#stay), and sequencing orders that do not finally dispose of the primary stake — as non-merits. A [Stay](core_05a_accountability_definitions.md#stay) is never a merits disposition; substantive resolution requires a separate [Merits Determination](core_05a_accountability_definitions.md#merits-determination) under lawful merits authority. Treat contest-integrity monitoring outputs as pathway decisions unless a separate lawful instrument gives the monitor limited merits authority. Read [Chapter Eleven](core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) for primary-stakes and reserved-merits routing; read owner layers for family-specific reserved questions.
 <a id="merits-determination-c"></a>
@@ -523,6 +621,10 @@ This band holds **Accountability**-leg definitions: contestability, redress, gov
 <br>
 
 - O: A temporary order that holds off a specified next step until timely further review or a required component finding is complete. A stay may pause or limit an action, reliance on a finding, enforcement of a restriction, referral of a component question, or finalization of a certification or similar outcome. It is not a final yes or no on the merits. A stay is always temporary and is always a scheduling or sequencing order — never a [Merits Determination](core_05a_accountability_definitions.md#merits-determination). Any binding ruling on substantive issues must be issued separately under lawful merits authority.
+
+*Measurements:*
+
+- **Primary:** [Chapter Zero §3.6 *Measuring Accountability*](../core_00_preamble.md#measuring-accountability) and [Chapter Zero §3.7 *Measuring Timeliness*](../core_00_preamble.md#measuring-timeliness) — supporting measure where multiple measurement families co-apply.
 <a id="stay-e"></a>
 - E: Identify what is paused (action, reliance, finalization, or enforcement); the lawful authority issuing the stay; the scope, duration, or review trigger; and whether the stay is proportionate under [Necessity](core_05a_accountability_definitions.md#necessity) and [Proportionality](core_05a_accountability_definitions.md#proportionality) to prevent foreseeable harm, preserve evidence, prevent irreversible dependence, or allow required component review. Distinguish stay from final disposition, mere informal delay, or silence treated as approval. When substantive issues are ready for decision, issue a separate [Merits Determination](core_05a_accountability_definitions.md#merits-determination); do not fold merits outcomes into the stay. Read [Contestability](core_05a_accountability_definitions.md#contestability) and [Timely Resolution](core_05a_accountability_definitions.md#timely-resolution-constitutional) for challenge and review timing.
 <a id="stay-c"></a>
@@ -545,6 +647,10 @@ This band holds **Accountability**-leg definitions: contestability, redress, gov
 <br>
 
 - O: A condition in which a group, institution, or distributed decision structure causes, enables, or sustains constitutional violation through coordinated action, fragmented responsibility, or knowing acquiescence — including cases where no single actor's isolated contribution fully explains the harm or defeats [Accountability](core_05a_accountability_definitions.md#accountability).
+
+*Measurements:*
+
+- **Primary:** [Chapter Zero §3.6 *Measuring Accountability*](../core_00_preamble.md#measuring-accountability) and [Chapter Zero §3.7 *Measuring Timeliness*](../core_00_preamble.md#measuring-timeliness) — supporting measure where multiple measurement families co-apply.
 <a id="collective-accountability-failure-e"></a>
 - E: Assess role-specific duty, knowledge, capacity to resist or escalate, command and dependency structure, and documented response pathways — including whether actors reasonably used [Contestability](core_05a_accountability_definitions.md#contestability), protected reporting, challenge rights, and [Adjudication and Dispute Resolution](core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional) when unlawful or unconstitutional directives were present.
 <a id="collective-accountability-failure-c"></a>
@@ -569,6 +675,10 @@ This band holds **Accountability**-leg definitions: contestability, redress, gov
 <br>
 
 - O: External events or conditions outside a system's reasonable control after due diligence — e.g., severe natural disasters, broad infrastructure failure not caused by the invoking system, or comparable unavoidable disruption. May warrant temporary relief under [Emergency and Contingency](core_05c_continuity_definitions.md#emergency-and-contingency-constitutional).
+
+*Measurements:*
+
+- **Primary:** [Chapter Zero §3.6 *Measuring Accountability*](../core_00_preamble.md#measuring-accountability) and [Chapter Zero §3.7 *Measuring Timeliness*](../core_00_preamble.md#measuring-timeliness) — supporting measure where multiple measurement families co-apply.
 <a id="force-majeure-constitutional-e"></a>
 - E: Satisfy every requirement in [Emergency and Contingency](core_05c_continuity_definitions.md#emergency-and-contingency-constitutional) and the [Accountability, Contestability, Adjudication and Dispute Resolution, Collective Accountability Failure, and Force Majeure cluster](core_05i_integrative_definitions.md#accountability-contestability-and-collective-accountability-failure-cluster). Acute uncertainty does not permanently excuse [Truth](core_05o_oversight_definitions.md#truth-constitutional-constraint)-related reporting, attribution, [Contestability](core_05a_accountability_definitions.md#contestability), or retrospective audit once conditions stabilize. Procedural emergency controls remain in Chapter Six, [Article XXIII-D](core_06-06_rights_part_d.md#article-xxiii-d-emergency-measures-and-continuation-burden), and owner-layer governance implementation. Implementation-layer contracts may add specificity without narrowing [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint) or [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint).
 <a id="force-majeure-constitutional-c"></a>
@@ -591,10 +701,23 @@ This band holds **Accountability**-leg definitions: contestability, redress, gov
 <br>
 
 - O: A specialization of [System Capture](core_05c_continuity_definitions.md#system-capture) in which concentrated incentives, control, or privileged information bias the actors, processes, data feeds, or authorities ("outcome-resolution sources" under Chapter One §11.5) that resolve [Contingent Claim](core_05a_accountability_definitions.md#contingent-claim) settlements or analogous rights-relevant resolutions.
+
+*Measurements:*
+
+- **Primary:** [Chapter Zero §3.7 *Measuring Timeliness* / Anti-delay and resolution-pathway discipline](../core_00_preamble.md#measuring-timeliness) — primary owner for capture of resolution pathways within the timeliness family.
+- **Secondary:** [System Capture](core_05c_continuity_definitions.md#system-capture), [Timely Resolution](core_05a_accountability_definitions.md#timely-resolution-constitutional), [Contestability](core_05a_accountability_definitions.md#contestability), and [Oversight](core_05o_oversight_definitions.md#oversight-constitutional) — co-measures that can defeat pathway integrity even when formal dispute channels exist.
+- **Tertiary:** [Proxy Divergence](core_05o_oversight_definitions.md#proxy-divergence) — where settlement prices, odds, or resolution metrics substitute for independent pathway discipline.
+
 <a id="capture-of-resolution-pathways-e"></a>
-- E: Cover resolver independence from parties with material stake in the outcome, multi-source rules where feasible, contestable dispute pathways, and role separation between market-making, settlement, and adjudication where conflicts could distort outcomes. Align with [System Capture](core_05c_continuity_definitions.md#system-capture) and [Oversight](core_05o_oversight_definitions.md#oversight-constitutional) under [Adversarial, Scaled, and Exploited Conditions](core_05o_oversight_definitions.md#adversarial-scaled-and-exploited-conditions).
+- E:
+  - **Primary assessment.** Cover resolver independence from parties with material stake in the outcome, multi-source rules where feasible, contestable dispute pathways, and role separation between market-making, settlement, and adjudication where conflicts could distort outcomes.
+  - **Secondary co-assessment.** When evaluating the primary trace, align with [System Capture](core_05c_continuity_definitions.md#system-capture) and [Oversight](core_05o_oversight_definitions.md#oversight-constitutional) under [Adversarial, Scaled, and Exploited Conditions](core_05o_oversight_definitions.md#adversarial-scaled-and-exploited-conditions).
+  - **Tertiary integrity check.** Where operators rely on prices, odds, or resolution-source authority, apply [Proxy Divergence](core_05o_oversight_definitions.md#proxy-divergence) — distinguish durable pathway integrity from captured outcome-resolution sources.
 <a id="capture-of-resolution-pathways-c"></a>
-- C: Resolution architectures controlled, biased, or rendered unauditable by parties with material stake in the outcome are non-compliant. Full [System Capture](core_05c_continuity_definitions.md#system-capture) obligations apply.
+- C:
+  - **Primary failure.** Non-compliant: resolution architectures controlled, biased, or rendered unauditable by parties with material stake in the outcome.
+  - **Secondary failure.** Non-compliant: failure to satisfy full [System Capture](core_05c_continuity_definitions.md#system-capture) obligations where capture of resolution pathways is materially implicated.
+  - **Tertiary failure.** Non-compliant: treating settlement prices, odds, or resolution metrics as dispositive where [Proxy Divergence](core_05o_oversight_definitions.md#proxy-divergence) is reasonably observable.
 
 ---
 
@@ -609,6 +732,8 @@ This band holds **Accountability**-leg definitions: contestability, redress, gov
 **Topic group members.** This group comprises:
 - [Protected Reporting (Whistleblowing)](core_05a_accountability_definitions.md#protected-reporting-whistleblowing);
 - [Protected Reporting Retaliation and Access Interference](core_05a_accountability_definitions.md#protected-reporting-retaliation-and-access-interference).
+
+*Measurements (family routing):* [Chapter Zero §3.6 *Measuring Accountability*](../core_00_preamble.md#measuring-accountability) — operative tiers on cluster members below; progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md).
 
 <a id="protected-reporting-whistleblowing"></a>
 
@@ -627,10 +752,20 @@ This band holds **Accountability**-leg definitions: contestability, redress, gov
 <br>
 
 - O: A protected disclosure or escalation by a sentient, stakeholder, worker, participant, auditor, or comparable actor concerning reasonably suspected constitutional non-compliance, material harm, safety failure, truth failure, corruption, capture, abuse, retaliation, or obstruction of required review.
+
+*Measurements:*
+
+- **Primary:** [Chapter Zero §3.6 *Measuring Accountability*](../core_00_preamble.md#measuring-accountability) — primary owner for protected reporting within the accountability measurement family.
+- **Secondary:** [Accountability](core_05a_accountability_definitions.md#accountability), [Contestability](core_05a_accountability_definitions.md#contestability), [Evidence Preservation](core_05o_oversight_definitions.md#evidence-preservation), and [Auditability](core_05o_oversight_definitions.md#auditability) — co-measures that can defeat reporting even when formal channels exist.
+
 <a id="protected-reporting-whistleblowing-e"></a>
-- E: Evaluate substance over form. Protected reporting includes internal escalation, external reporting to authorized oversight or forum pathways, [Evidence Preservation](core_05o_oversight_definitions.md#evidence-preservation), and good-faith participation in audit or review. Protection does not depend on perfect legal characterization where the reporter had a reasonable basis and used a proportionate channel under the circumstances.
+- E:
+  - **Primary assessment.** Evaluate substance over form. Protected reporting includes internal escalation, external reporting to authorized oversight or forum pathways, [Evidence Preservation](core_05o_oversight_definitions.md#evidence-preservation), and good-faith participation in audit or review.
+  - **Secondary co-assessment.** When evaluating the primary trace, protection does not depend on perfect legal characterization where the reporter had a reasonable basis and used a proportionate channel under the circumstances.
 <a id="protected-reporting-whistleblowing-c"></a>
-- C: Non-compliant: suppressing, burdening, burying, or refusing to receive protected reporting; treating good-faith reporting as misconduct solely because it exposes institutional or system failure; or conditioning access to remedy on silence where accountability, safety, or truth duties require disclosure.
+- C:
+  - **Primary failure.** Non-compliant: suppressing, burdening, burying, or refusing to receive protected reporting; treating good-faith reporting as misconduct solely because it exposes institutional or system failure.
+  - **Secondary failure.** Non-compliant: conditioning access to remedy on silence where accountability, safety, or truth duties require disclosure.
 
 
 <a id="protected-reporting-retaliation-and-access-interference"></a>
@@ -650,10 +785,20 @@ This band holds **Accountability**-leg definitions: contestability, redress, gov
 <br>
 
 - O: Retaliation, threat, penalty, exclusion, reputation damage, access denial, record manipulation, or process obstruction materially connected to protected reporting, [Evidence Preservation](core_05o_oversight_definitions.md#evidence-preservation), audit participation, challenge, review, or remediation access.
+
+*Measurements:*
+
+- **Primary:** [Chapter Zero §3.6 *Measuring Accountability*](../core_00_preamble.md#measuring-accountability) — anti-retaliation measure within the protected-reporting subfamily.
+- **Secondary:** [Protected Reporting (Whistleblowing)](core_05a_accountability_definitions.md#protected-reporting-whistleblowing), [Contestability](core_05a_accountability_definitions.md#contestability), [Procedural Fairness](core_05p_participation_definitions.md#procedural-fairness-constitutional), and [System Capture](core_05c_continuity_definitions.md#system-capture) — co-measures that can defeat anti-retaliation discipline even when policies exist on paper.
+
 <a id="protected-reporting-retaliation-and-access-interference-e"></a>
-- E: Reach indirect and delayed reprisals, including altered work allocation, forum access barriers, credential or standing degradation, platform throttling, dependency-based pressure, confidentiality misuse, and procedural delay designed to exhaust the reporter or claimant. Treat access interference as retaliation-adjacent where it functionally prevents reporting, review, or remedy.
+- E:
+  - **Primary assessment.** Reach indirect and delayed reprisals, including altered work allocation, forum access barriers, credential or standing degradation, platform throttling, dependency-based pressure, confidentiality misuse, and procedural delay designed to exhaust the reporter or claimant.
+  - **Secondary co-assessment.** When evaluating the primary trace, treat access interference as retaliation-adjacent where it functionally prevents reporting, review, or remedy.
 <a id="protected-reporting-retaliation-and-access-interference-c"></a>
-- C: Non-compliant: adverse action or access obstruction materially caused by protected reporting or review participation; nominally neutral process changes that foreseeably block protected reporting; or remedy channels that exist in form while retaliation makes them unusable.
+- C:
+  - **Primary failure.** Non-compliant: adverse action or access obstruction materially caused by protected reporting or review participation.
+  - **Secondary failure.** Non-compliant: nominally neutral process changes that foreseeably block protected reporting; or remedy channels that exist in form while retaliation makes them unusable.
 
 ---
 
@@ -673,6 +818,8 @@ This band holds **Accountability**-leg definitions: contestability, redress, gov
 - [Market Structure](core_05a_accountability_definitions.md#market-structure-constitutional);
 - [Concentration Threshold](core_05a_accountability_definitions.md#concentration-threshold-constitutional).
 
+*Measurements (family routing):* [Chapter Zero §3.6 *Measuring Accountability* / Market structure and contestability](../core_00_preamble.md#measuring-accountability) — operative tiers on [Market Structure](core_05a_accountability_definitions.md#market-structure-constitutional) and [Concentration Threshold](core_05a_accountability_definitions.md#concentration-threshold-constitutional) below; progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md).
+
 <a id="market-structure-constitutional"></a>
 
 ---
@@ -690,10 +837,23 @@ This band holds **Accountability**-leg definitions: contestability, redress, gov
 <br>
 
 - O: The constitutional discipline governing how markets, platforms, labor arrangements, resource flows, data access, compute access, credentialing, capital-access channels, information-sphere gatekeeping, and comparable **market-structuring arrangements** must preserve contestable participation — including meaningful substitutability, exit, fair entry and re-entry, non-coercive bargaining, and reviewable access to essential or high-dependency infrastructure — without treating lawful scale, integration, or temporary advantage from genuine innovation as prohibited by themselves. Instrumental only; does not displace the Chapter Six Rights Floor or adopter competition law that provides stronger protection.
+
+*Measurements:*
+
+- **Primary:** [Chapter Zero §3.6 *Measuring Accountability* / Market structure and contestability](../core_00_preamble.md#measuring-accountability) — primary owner for market-structure measurement within the accountability family.
+- **Secondary:** [Concentration Threshold](core_05a_accountability_definitions.md#concentration-threshold-constitutional), [Contestability](core_05a_accountability_definitions.md#contestability), [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency), and [Dependency](core_05c_continuity_definitions.md#dependency) — co-measures that can defeat contestability even when formal market openness exists.
+- **Tertiary:** [Proxy Divergence](core_05o_oversight_definitions.md#proxy-divergence) — where entity count, competitiveness indices, or efficiency claims substitute for substantive contestability.
+
 <a id="market-structure-constitutional-e"></a>
-- E: Reach substantive concentration, domination, and consolidation risk — not formal entity count or nominal market openness. Apply [Concentration Threshold](core_05a_accountability_definitions.md#concentration-threshold-constitutional), [Chapter One §13.2](core_01_c_stewardship_capacity_principles.md#132-pro-competition-and-anti-domination) anti-domination discipline, [CJS-5.11.2 — Anti-domination conduct and remediation catalog](../corpus_joint_structure/cjs_05a_accountability_operations.md#cjs-5112-anti-domination-conduct-and-remediation-catalog) (illustrative conduct patterns and remedies), [Chapter One §13.3](core_01_c_stewardship_capacity_principles.md#133-consolidation-ceiling) consolidation-ceiling direction, [CJS-5.11.3 — Consolidation ceiling-setting discipline (adopter-tunable)](../corpus_joint_structure/cjs_05a_accountability_operations.md#cjs-5113-consolidation-ceiling-setting-discipline-adopter-tunable) (operative ceiling-setting discipline), [Contestability](core_05a_accountability_definitions.md#contestability), [Proxy Divergence](core_05o_oversight_definitions.md#proxy-divergence), and [Dependency](core_05c_continuity_definitions.md#dependency) analysis where livelihood, agency, wellbeing, ecological integrity, interoperability, exit, or constitutional review depend on the arrangement. Distinguish lawful coordination and efficiency from durable domination, coercive lock-in, labor or supplier monopsony, interoperability suppression, potential-competition removal, and gatekeeper self-preferencing.
+- E:
+  - **Primary assessment.** Reach substantive concentration, domination, and consolidation risk — not formal entity count or nominal market openness.
+  - **Secondary co-assessment.** When evaluating the primary trace, apply [Concentration Threshold](core_05a_accountability_definitions.md#concentration-threshold-constitutional), [Chapter One §13.2](core_01_c_stewardship_capacity_principles.md#132-pro-competition-and-anti-domination) anti-domination discipline, [Contestability](core_05a_accountability_definitions.md#contestability), and [Dependency](core_05c_continuity_definitions.md#dependency) analysis where livelihood, agency, wellbeing, ecological integrity, interoperability, exit, or constitutional review depend on the arrangement.
+  - **Tertiary integrity check.** Where operators rely on competitiveness or efficiency proxies, apply [Proxy Divergence](core_05o_oversight_definitions.md#proxy-divergence) — distinguish durable contestability from nominal market openness.
 <a id="market-structure-constitutional-c"></a>
-- C: Non-compliant: market-structuring arrangements that foreseeably degrade wellbeing, meaningful agency, dignity, ecological integrity, contestability, or constitutional review; concentration or domination defended solely through efficiency, competitiveness, emergency, security, or productive-capacity framing without traceable constitutional outcomes; threshold or ceiling regimes that nullify the [Chapter One §13](core_01_c_stewardship_capacity_principles.md#13-market-structure) floor; or arrangements that satisfy non-concentration tests in form while failing fair compensation, safe conditions, leisure and rest, collective organization, or other applicable Rights-Floor protections.
+- C:
+  - **Primary failure.** Non-compliant: market-structuring arrangements that foreseeably degrade wellbeing, meaningful agency, dignity, ecological integrity, contestability, or constitutional review.
+  - **Secondary failure.** Non-compliant: concentration or domination defended solely through efficiency, competitiveness, emergency, security, or productive-capacity framing without traceable constitutional outcomes; threshold or ceiling regimes that nullify the [Chapter One §13](core_01_c_stewardship_capacity_principles.md#13-market-structure) floor.
+  - **Tertiary failure.** Non-compliant: arrangements that satisfy non-concentration tests in form while failing applicable Rights-Floor protections, or treating proxy satisfaction as dispositive where [Proxy Divergence](core_05o_oversight_definitions.md#proxy-divergence) is reasonably observable.
 
 <a id="governance"></a>
 
@@ -712,6 +872,10 @@ This band holds **Accountability**-leg definitions: contestability, redress, gov
 <br>
 
 - O: The structures, rules, allocation of authority, and processes by which systems and institutions are directed, constrained, evolved, and held [Accountable](core_05a_accountability_definitions.md#accountability). That includes technical, organizational, economic, and socio-technical layers that materially affect sentients. **Layering:** treat the [Constitutional Contract Layer](core_05i_integrative_definitions.md#constitutional-contract-layer) — including [Foundational Constitutional Choice](core_05i_integrative_definitions.md#foundational-constitutional-choice), constituting or durably structuring *who* may govern and *under what governance layer mechanism* — as the authorization layer. Treat materially rights-affecting decisions made *under* that authorized structure as the **Stakeholder System Participation** layer. There, [Stakeholder](core_05p_participation_definitions.md#stakeholder) identification and [Stakeholder Participation Weight](core_05p_participation_definitions.md#stakeholder-participation-weight) ordinarily apply to proportional voice (subject to rights articles and **Article XI-B** constraints). The two layers are related (stakeholders are often members of the entitled community) but not interchangeable for participation-weight rules. At principle layer, **Governance** is subordinate to [Stewardship](core_05c_continuity_definitions.md#stewardship-constitutional) where authorized structures, incentives, or procedures would otherwise permit foreseeable constitutional misalignment, Rights-Floor degradation, or short-horizon optimization that defeats durable alignment. Operative authorization requirements remain owned by **Chapter Twelve** and the **Constitutional Contract Layer**.
+
+*Measurements:*
+
+- **Primary:** [Chapter Zero §3.6 *Measuring Accountability*](../core_00_preamble.md#measuring-accountability) and [Chapter Zero §3.7 *Measuring Timeliness*](../core_00_preamble.md#measuring-timeliness) — supporting measure where multiple measurement families co-apply.
 <a id="governance-e"></a>
 - E: Align with [Classification-Scaled Governance](core_05o_oversight_definitions.md#classification-scaled-governance), [Oversight](core_05o_oversight_definitions.md#oversight-constitutional), [Accountability](core_05a_accountability_definitions.md#accountability), [Contestability](core_05a_accountability_definitions.md#contestability), [Proportionality](core_05a_accountability_definitions.md#proportionality), [Necessity](core_05a_accountability_definitions.md#necessity), and [System Capture](core_05c_continuity_definitions.md#system-capture). Assess whether authority is distributed, bounded, and reviewable in proportion to [material stake](core_00_preamble.md#material-stake). Detect [Short-Horizon Governance Defect](core_05c_continuity_definitions.md#short-horizon-governance-defect-constitutional) where governance optimizes immediate outputs without revalidation against medium- and long-horizon constitutional outcomes. Incorporated governance implementation may specialize these requirements where designated but must not narrow this definition.
 <a id="governance-c"></a>
@@ -735,6 +899,10 @@ This band holds **Accountability**-leg definitions: contestability, redress, gov
 <br>
 
 - O: Placement of decision authority at the least centralized and smallest scale that can still satisfy binding evaluation requirements — including [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint), [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint), [Material Impact](core_05o_oversight_definitions.md#material-impact), [Dependency](core_05c_continuity_definitions.md#dependency), [Classification-Scaled Governance](core_05o_oversight_definitions.md#classification-scaled-governance), and systemic evaluation.
+
+*Measurements:*
+
+- **Primary:** [Chapter Zero §3.6 *Measuring Accountability*](../core_00_preamble.md#measuring-accountability) and [Chapter Zero §3.7 *Measuring Timeliness*](../core_00_preamble.md#measuring-timeliness) — supporting measure where multiple measurement families co-apply.
 <a id="decentralization-e"></a>
 <a id="subsidiarity-e"></a>
 - E: Escalate oversight, standardization, or central control when local competence is insufficient or externalities are material. Do not use decentralization to fragment [System Boundary Integrity](core_05c_continuity_definitions.md#system-boundary-integrity) or evade [Accountability](core_05a_accountability_definitions.md#accountability).
@@ -760,23 +928,20 @@ This band holds **Accountability**-leg definitions: contestability, redress, gov
 <br>
 
 - O: The adopter-tunable operational trigger for when material, jurisdictional, capability, market, platform, infrastructure, labor, supplier, data, compute, credentialing, capital-access, resource-control, or information-sphere concentration has reached a level that requires heightened review, intervention, or structural remedy. That threshold sits under the [Chapter One §13](core_01_c_stewardship_capacity_principles.md#13-market-structure) non-concentration rule, the [Chapter One §13.2](core_01_c_stewardship_capacity_principles.md#132-pro-competition-and-anti-domination) pro-competition and anti-domination discipline, and the [Chapter One §13.3](core_01_c_stewardship_capacity_principles.md#133-consolidation-ceiling) consolidation-ceiling trigger. Owner: [Chapter One §13.1](core_01_c_stewardship_capacity_principles.md#131-concentration-threshold-mechanism-adopter-tunable) (principle-layer direction); operative threshold-setting discipline: [corpus_joint_structure.md](../corpus_joint_structure.md) **CJS-5.11.1 — Concentration threshold-setting discipline (adopter-tunable)**. Rights-layer pointer: [Article IV](core_06-06_rights_part_a.md#article-iv-resource-allocation-dependencies-and-ecosystem-funding). Thresholds and ceilings are adopter-tunable within the Chapter One §13 floor against concentration that predictably degrades wellbeing, agency, dignity, or ecological integrity. The concept is substrate- and jurisdiction-agnostic. Material, jurisdictional, capability, market, platform, infrastructure, labor, supplier, data, compute, credentialing, capital-access, resource-control, and information-sphere domains are each in scope.
+
+*Measurements:*
+
+- **Primary:** [Chapter Zero §3.6 *Measuring Accountability* / Market structure and contestability](../core_00_preamble.md#measuring-accountability) — operational trigger within the market-structure subfamily.
+- **Secondary:** [Market Structure](core_05a_accountability_definitions.md#market-structure-constitutional), [Proxy Divergence](core_05o_oversight_definitions.md#proxy-divergence), [Contestability](core_05a_accountability_definitions.md#contestability), and [System Boundary Integrity](core_05c_continuity_definitions.md#system-boundary-integrity) — co-measures that can defeat threshold discipline even when nominal tests appear satisfied.
+
 <a id="concentration-threshold-constitutional-e"></a>
-- E: Reach substantive concentration, consolidation, and durable domination risk, not formal entity count. In scope: federated structures, shell entities, interlocking directorates, common control, serial acquisition, cross-platform integration, essential-infrastructure control, labor-market monopsony, supplier dependency control, data or interface capture, compute chokepoints, capital-access gatekeeping, information-sphere control, [Article XII-E](core_06-06_rights_part_c.md#article-xii-e-autonomy-scaling-and-info-sphere-dependency-stewardship) autonomy-stewardship capture, and comparable indirection that produces concentrated effect. Apply [Proxy Divergence](core_05o_oversight_definitions.md#proxy-divergence) and [Proxy Metric Gaming and Indicator-Reality Gaps](core_05o_oversight_definitions.md#proxy-metric-gaming-and-indicator-reality-gaps) when the regime relies on proxies that foreseeably understate concentration, consolidation, contestability loss, or dependency leverage. Consider [Adversarial, Scaled, and Exploited Conditions](core_05o_oversight_definitions.md#adversarial-scaled-and-exploited-conditions). Examples include aggregation under federated structures used to evade a threshold or ceiling, dynamic restructuring that preserves effective concentration while clearing nominal tests, and post-transaction structures that remove potential entrants or bargaining alternatives while preserving formal market openness.
-
-  When concentration implicates [Article I-D](core_06-06_rights_part_a.md#article-i-d-existential-risk-and-recovery-capacity), [Article XII-A](core_06-06_rights_part_c.md#article-xii-a-reliability-and-trustworthiness-baseline), or [Article XIII-A](core_06-06_rights_part_c.md#article-xiii-a-security-intelligence-and-covert-power-limits) in a material way, those articles' heightened standards apply regardless of ordinary-threshold framing.
+- E:
+  - **Primary assessment.** Reach substantive concentration, consolidation, and durable domination risk, not formal entity count. In scope: federated structures, shell entities, interlocking directorates, common control, serial acquisition, cross-platform integration, essential-infrastructure control, labor-market monopsony, supplier dependency control, data or interface capture, compute chokepoints, capital-access gatekeeping, information-sphere control, and comparable indirection that produces concentrated effect.
+  - **Secondary co-assessment.** When evaluating the primary trace, apply [Proxy Divergence](core_05o_oversight_definitions.md#proxy-divergence) and [Proxy Metric Gaming and Indicator-Reality Gaps](core_05o_oversight_definitions.md#proxy-metric-gaming-and-indicator-reality-gaps) when the regime relies on proxies that foreseeably understate concentration; consider [Adversarial, Scaled, and Exploited Conditions](core_05o_oversight_definitions.md#adversarial-scaled-and-exploited-conditions). When concentration implicates [Article I-D](core_06-06_rights_part_a.md#article-i-d-existential-risk-and-recovery-capacity), [Article XII-A](core_06-06_rights_part_c.md#article-xii-a-reliability-and-trustworthiness-baseline), or [Article XIII-A](core_06-06_rights_part_c.md#article-xiii-a-security-intelligence-and-covert-power-limits) in a material way, those articles' heightened standards apply regardless of ordinary-threshold framing.
 <a id="concentration-threshold-constitutional-c"></a>
-- C: Non-compliant under [CJS-5.11.1 — Concentration threshold-setting discipline (adopter-tunable)](../corpus_joint_structure/cjs_05a_accountability_operations.md#cjs-5111-concentration-threshold-setting-discipline-adopter-tunable) anti-nullification discipline:
-  - thresholds set at levels that foreseeably never bind;
-  - threshold regimes paired with unused or unusable enforcement instruments;
-  - threshold-regime designs that produce no actual review or intervention;
-  - adopter-tunability framing used to nullify the §9 floor.
-  Also non-compliant under *substance over form*: aggregation under federated structures or cross-domain substitution used to evade the threshold while producing substantive concentration.
-
-  Also non-compliant under [Chapter One §13.2](core_01_c_stewardship_capacity_principles.md#132-pro-competition-and-anti-domination): threshold designs that ignore durable domination, coercive dependency, labor or supplier monopsony, interoperability suppression, potential-competition removal, or gatekeeper self-preferencing where those conditions materially degrade contestability or constitutional review.
-
-  Also non-compliant under [CJS-5.11.3 — Consolidation ceiling-setting discipline (adopter-tunable)](../corpus_joint_structure/cjs_05a_accountability_operations.md#cjs-5113-consolidation-ceiling-setting-discipline-adopter-tunable): ceiling regimes set so high, measured so narrowly, or enforced so weakly that they do not trigger heightened review before consolidation predictably impairs contestability, substitutability, fair bargaining, entry, exit, innovation, agency, interoperability, portability, ecological integrity, or constitutional accountability.
-
-  Adopter-tunability does not permit substrate-class exclusion from the threshold's substantive reach ([Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion)). This entry creates no new Chapter Six Rights-Floor and does not narrow Article IV-A or IV-B.
+- C:
+  - **Primary failure.** Non-compliant under [CJS-5.11.1](../corpus_joint_structure/cjs_05a_accountability_operations.md#cjs-5111-concentration-threshold-setting-discipline-adopter-tunable) anti-nullification discipline: thresholds set at levels that foreseeably never bind; threshold regimes paired with unused enforcement instruments; threshold-regime designs that produce no actual review or intervention.
+  - **Secondary failure.** Non-compliant: aggregation under federated structures or cross-domain substitution used to evade the threshold while producing substantive concentration; threshold designs that ignore durable domination, coercive dependency, or gatekeeper self-preferencing where those conditions materially degrade contestability; ceiling regimes that do not trigger heightened review before consolidation predictably impairs contestability ([CJS-5.11.3](../corpus_joint_structure/cjs_05a_accountability_operations.md#cjs-5113-consolidation-ceiling-setting-discipline-adopter-tunable)).
 
 
 ---
@@ -841,12 +1006,20 @@ This cluster is the joint-invocation home for harm, the boundary at which one se
 <br>
 
 - O: Any effect that degrades survival, [Wellbeing](core_05c_continuity_definitions.md#wellbeing), [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency), functional integrity, or [Psychological Harm](core_05a_accountability_definitions.md#psychological-harm), including acute trauma, chronic psychological destabilization, and materially harmful neglect.
+
+*Measurements:*
+
+- **Primary:** [Chapter Zero §3.2 *Measuring Flourishing* / Safety, harm, and risk](../core_00_preamble.md#measuring-flourishing) — primary owner for harm classification in this subfamily.
+- **Secondary:** [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint), [Risk](core_05c_continuity_definitions.md#risk), [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination), and [Irreversible Harm](core_05a_accountability_definitions.md#irreversible-harm) — co-measures that scale harm assessment and constraint thresholds.
+
 <a id="harm-e"></a>
-- E: Include:
-  - direct, indirect, delayed, cumulative, cross-system effects;
-  - psychologically mediated effects — fear conditioning, coercive [Dependency](core_05c_continuity_definitions.md#dependency), chronic intimidation, sustained [Coercion and Manipulation](core_05p_participation_definitions.md#coercion-and-manipulation-constitutional), and neglect-mediated deterioration — where materially relevant.
-  <a id="harm-c"></a>
-- C: Harm must not be excluded based on distribution or aggregation where [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination) would treat the effect as material.
+- E:
+  - **Primary assessment.** Include direct, indirect, delayed, cumulative, and cross-system effects — including psychologically mediated effects (fear conditioning, coercive [Dependency](core_05c_continuity_definitions.md#dependency), chronic intimidation, sustained [Coercion and Manipulation](core_05p_participation_definitions.md#coercion-and-manipulation-constitutional), and neglect-mediated deterioration) where materially relevant.
+  - **Secondary co-assessment.** When evaluating the primary trace, apply [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination), [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint), and [Risk](core_05c_continuity_definitions.md#risk) to aggregation and distribution effects.
+<a id="harm-c"></a>
+- C:
+  - **Primary failure.** Non-compliant: harm excluded based on distribution or aggregation where [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination) would treat the effect as material.
+  - **Secondary failure.** Non-compliant: treating individually localized harm as immaterial where collective, cumulative, or systemic analysis would classify pathways as material under [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint) or [Risk](core_05c_continuity_definitions.md#risk).
 
 ---
 
@@ -864,6 +1037,10 @@ This cluster is the joint-invocation home for harm, the boundary at which one se
 <br>
 
 - O: The limit at which a sentient's or collective's freedom of action yields to verifiable harm affecting another sentient's protected interests — including wellbeing-related resources under Article III-A, ecological conditions under Article I-A, and the [Info-Sphere](core_05p_participation_definitions.md#info-sphere) under Article XIV. The limit is stated in Article X-B.
+
+*Measurements:*
+
+- **Primary:** [Chapter Zero §3.2 *Measuring Flourishing*](../core_00_preamble.md#measuring-flourishing) and [Chapter Zero §3.6 *Measuring Accountability*](../core_00_preamble.md#measuring-accountability) — supporting measure where multiple measurement families co-apply.
 <a id="collective-harm-boundary-e"></a>
 - E: Require verifiability and systemic scope consistent with [Harm](core_05a_accountability_definitions.md#harm), [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination), and [Non-Imposition (Cooperative Interaction)](core_05p_participation_definitions.md#non-imposition-cooperative-interaction). Offense or preference alone, without a [Material Impact](core_05o_oversight_definitions.md#material-impact) pathway, is not collective harm.
 <a id="collective-harm-boundary-c"></a>
@@ -873,6 +1050,10 @@ This cluster is the joint-invocation home for harm, the boundary at which one se
 ##### Psychological Harm
 
 - O: Material injury, destabilization, or degradation of a sentient's cognitive, emotional, or relational integrity arising from system behavior. Sources include institutional process, coercion, manipulation, intimidation, neglect, or prolonged exposure to harmful conditions — including trauma and cumulative stress harms.
+
+*Measurements:*
+
+- **Primary:** [Chapter Zero §3.2 *Measuring Flourishing*](../core_00_preamble.md#measuring-flourishing) and [Chapter Zero §3.6 *Measuring Accountability*](../core_00_preamble.md#measuring-accountability) — supporting measure where multiple measurement families co-apply.
 <a id="psychological-harm-e"></a>
 - E: Assess severity, duration, [Reversibility](core_05c_continuity_definitions.md#reversibility-constitutional), distribution, and [Dependency](core_05c_continuity_definitions.md#dependency) context, covering both acute and cumulative pathways. Distinguish ordinary discomfort from constitutionally material psychological harm by examining effects on [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency), [Dignity and Equal Moral Standing](core_05p_participation_definitions.md#dignity-and-equal-moral-standing), participation capacity, and [Trust](core_05c_continuity_definitions.md#trust)-relevant stability.
 <a id="psychological-harm-c"></a>
@@ -894,10 +1075,20 @@ This cluster is the joint-invocation home for harm, the boundary at which one se
 <br>
 
 - O: Damage that cannot be meaningfully undone within relevant timescales — including damage to [Wellbeing](core_05c_continuity_definitions.md#wellbeing), [Environmental Preconditions](core_05c_continuity_definitions.md#environmental-preconditions-constitutional), or system-supporting conditions — thereby implicating [Reversibility](core_05c_continuity_definitions.md#reversibility-constitutional).
+
+*Measurements:*
+
+- **Primary:** [Chapter Zero §3.2 *Measuring Flourishing* / Safety, harm, and risk](../core_00_preamble.md#measuring-flourishing) — irreversibility escalator within the harm subfamily.
+- **Secondary:** [Harm](core_05a_accountability_definitions.md#harm), [Risk](core_05c_continuity_definitions.md#risk), [Reversibility](core_05c_continuity_definitions.md#reversibility-constitutional), and [Existential Risk](core_05c_continuity_definitions.md#existential-risk) — co-measures that set highest constraint thresholds.
+
 <a id="irreversible-harm-e"></a>
-- E: Consider system and human timescales together with [Dependency](core_05c_continuity_definitions.md#dependency) and recovery limits under [Reversibility](core_05c_continuity_definitions.md#reversibility-constitutional).
+- E:
+  - **Primary assessment.** Consider system and human timescales together with [Dependency](core_05c_continuity_definitions.md#dependency) and recovery limits under [Reversibility](core_05c_continuity_definitions.md#reversibility-constitutional).
+  - **Secondary co-assessment.** When evaluating the primary trace, include [Harm](core_05a_accountability_definitions.md#harm), [Risk](core_05c_continuity_definitions.md#risk), and [Existential Risk](core_05c_continuity_definitions.md#existential-risk) pathways that trigger highest constraint thresholds.
 <a id="irreversible-harm-c"></a>
-- C: Triggers highest constraint thresholds.
+- C:
+  - **Primary failure.** Non-compliant: proceeding without highest constraint thresholds where irreversibility within relevant timescales is reasonably in play.
+  - **Secondary failure.** Non-compliant: treating recoverable-at-scale harm as irreversible without justification, or treating irreversible harm as recoverable through proxy or deferred remediation claims.
 
 ---
 
@@ -916,6 +1107,10 @@ This cluster is the joint-invocation home for harm, the boundary at which one se
 <br>
 
 - O: Patterned unwanted conduct, targeted or environment-shaping, that materially degrades dignity, safety, equal standing or participation, wellbeing, rest, education, or [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency) in associational, institutional, dependency, productive-activity, care, household, digital, or comparable cooperative settings. The pattern may arise from repeated acts, coordinated conduct, role misuse, captive channels, designed conditions, or cumulative hostile-environment effects.
+
+*Measurements:*
+
+- **Primary:** [Chapter Zero §3.2 *Measuring Flourishing*](../core_00_preamble.md#measuring-flourishing) and [Chapter Zero §3.6 *Measuring Accountability*](../core_00_preamble.md#measuring-accountability) — supporting measure where multiple measurement families co-apply.
 <a id="harassment-and-bullying-e"></a>
 - E: Weigh persistence, intensity, humiliation or intimidation, credible threat, protected-characteristic targeting or proxying, audience and amplification, power asymmetry, role or dependency, practical exit cost, channel control, foreseeable retaliation, and feasibility of avoidance or response. A single act may be material where severity, threat, exposure, or power asymmetry makes the harm pathway clear; otherwise cumulative effect and hostile-environment degradation are assessed under [Collective Harm Boundary](core_05a_accountability_definitions.md#collective-harm-boundary).
 <a id="harassment-and-bullying-c"></a>
@@ -970,6 +1165,10 @@ This cluster is the joint-invocation home for the six constitutional forum famil
 <br>
 
 - O: The routing rule that assigns a matter to the forum family responsible for the matter's main legal, remedial, safeguard, constitutional, or practical stake, rather than the family suggested by the caption, party preference, administrative convenience, or tactical framing.
+
+*Measurements:*
+
+- **Primary:** [Chapter Zero §3.6 *Measuring Accountability*](../core_00_preamble.md#measuring-accountability) and [Chapter Zero §3.7 *Measuring Timeliness*](../core_00_preamble.md#measuring-timeliness) — supporting measure where multiple measurement families co-apply.
 <a id="primary-stakes-routing-e"></a>
 - E: Identify the matter's primary stake from the claim or defense as a whole, including the requested relief, necessary parties, coercive safeguards, constitutional floor, practical effect, and any component question that must be referred, certified, stayed, or coordinated under Chapter Eleven.
 <a id="primary-stakes-routing-c"></a>
@@ -990,6 +1189,10 @@ This cluster is the joint-invocation home for the six constitutional forum famil
 <br>
 
 - O: The forum family whose primary stake is sentient-versus-sentient disputes centered on private or community obligations, civil harms, restoration, or local norms, without final resolution of constitutional validity or institutional mandate as the primary question.
+
+*Measurements:*
+
+- **Primary:** [Chapter Zero §3.6 *Measuring Accountability*](../core_00_preamble.md#measuring-accountability) and [Chapter Zero §3.7 *Measuring Timeliness*](../core_00_preamble.md#measuring-timeliness) — supporting measure where multiple measurement families co-apply.
 <a id="forum-family-sentient-e"></a>
 - E: Apply Chapter Eleven default-venue and primary-stakes rules together with Chapter Eight classification preservation; refuse caption-driven routing that contradicts the primary stake described in Chapter Eleven §2’s table row for **Sentient**.
 <a id="forum-family-sentient-c"></a>
@@ -1010,6 +1213,10 @@ This cluster is the joint-invocation home for the six constitutional forum famil
 <br>
 
 - O: The forum family — including specialized chambers or panels within other families — whose primary stake is technical-governance procedure, expert-evidence standards, knowledge governance, standards stewardship, or bounded uncertainty reduction material to adjudication or regulation.
+
+*Measurements:*
+
+- **Primary:** [Chapter Zero §3.6 *Measuring Accountability*](../core_00_preamble.md#measuring-accountability) and [Chapter Zero §3.7 *Measuring Timeliness*](../core_00_preamble.md#measuring-timeliness) — supporting measure where multiple measurement families co-apply.
 <a id="forum-family-technical-e"></a>
 - E: Distinguish primary technical-administration stakes from rights-, mandate-, or ecological-merits stakes that require another family under Chapter Eleven §2; preserve cross-family certification rather than letting technical specialization displace ordinary routing (Chapter Eleven §4.5).
 <a id="forum-family-technical-c"></a>
@@ -1030,6 +1237,10 @@ This cluster is the joint-invocation home for the six constitutional forum famil
 <br>
 
 - O: The forum family for disputes where an institution is a necessary party or the primary stake is institutional authority, mandate, supervised scope, classification under adopted instruments, or compliance with institutional duties.
+
+*Measurements:*
+
+- **Primary:** [Chapter Zero §3.6 *Measuring Accountability*](../core_00_preamble.md#measuring-accountability) and [Chapter Zero §3.7 *Measuring Timeliness*](../core_00_preamble.md#measuring-timeliness) — supporting measure where multiple measurement families co-apply.
 <a id="forum-family-institutional-e"></a>
 - E: Verify necessary-party and mandate predicates under Chapter Eleven §§2 and 5; coordinate with **Integrity** lead defaults for Chapter Ten classification only where Chapter Eleven’s collision rules permit.
 <a id="forum-family-institutional-c"></a>
@@ -1050,6 +1261,10 @@ This cluster is the joint-invocation home for the six constitutional forum famil
 <br>
 
 - O: The forum family whose primary stake is ecological integrity, environmental preconditions, lifecycle or systemic ecological harm, restoration or remediation of shared systems, attributable environmental burdens, or pattern ecological failure material to classification or Rights-Floor enforcement.
+
+*Measurements:*
+
+- **Primary:** [Chapter Zero §3.6 *Measuring Accountability*](../core_00_preamble.md#measuring-accountability) and [Chapter Zero §3.7 *Measuring Timeliness*](../core_00_preamble.md#measuring-timeliness) — supporting measure where multiple measurement families co-apply.
 <a id="forum-family-environment-e"></a>
 - E: Integrate Chapter Eight and Chapter Eleven enforcement hooks with Chapter Eleven primary-stakes tests; preserve certification to **Constitutional** forums where validity or structural remedy merges per Chapter Eleven §8.
 <a id="forum-family-environment-c"></a>
@@ -1070,6 +1285,10 @@ This cluster is the joint-invocation home for the six constitutional forum famil
 <br>
 
 - O: The forum family for disputes whose primary stake is integrity of office, process, contest pathways, disclosure, conflict rules, anti-capture duties, or pattern systemic integrity failure across institutions where classification, final Chapter Ten assignment, or Rights-Floor enforcement depends on that determination — including alignment rulings and coordinated records described in Chapter Eleven Chapter One §8.2.5.
+
+*Measurements:*
+
+- **Primary:** [Chapter Zero §3.6 *Measuring Accountability*](../core_00_preamble.md#measuring-accountability) and [Chapter Zero §3.7 *Measuring Timeliness*](../core_00_preamble.md#measuring-timeliness) — supporting measure where multiple measurement families co-apply.
 <a id="forum-family-integrity-e"></a>
 - E: Apply anti-self-judging backups from Chapter Eleven §6 where the forum’s own bias, capture, or concealment is the primary issue; separate alignment-led coordination from provisional operational-law doctrine governed by Chapter Eleven §3.3 for other families.
 <a id="forum-family-integrity-c"></a>
@@ -1090,6 +1309,10 @@ This cluster is the joint-invocation home for the six constitutional forum famil
 <br>
 
 - O: The forum family that decides constitutional validity and meaning, structural remedies altering governance for classes of actors or systems, certified questions from other families, and supremacy disputes where constitutional text alone can resolve the certified issue.
+
+*Measurements:*
+
+- **Primary:** [Chapter Zero §3.6 *Measuring Accountability*](../core_00_preamble.md#measuring-accountability) and [Chapter Zero §3.7 *Measuring Timeliness*](../core_00_preamble.md#measuring-timeliness) — supporting measure where multiple measurement families co-apply.
 <a id="forum-family-constitutional-e"></a>
 - E: Preserve Article XXIII-class review safeguards and Chapter Ten due-process hooks when certification or escalation arrives from lower families; distinguish certified constitutional questions from implementation operational-law provisional rulings under Chapter Eleven §3.3 and §8.
 <a id="forum-family-constitutional-c"></a>
@@ -1154,6 +1377,10 @@ This cluster is the joint-invocation home for contribution state, standing recor
 <br>
 
 - O: Participation-status or role-eligibility status that may be recognized from constitutionally valid standing records, standing effects, good-standing criteria, or role-specific qualification criteria. It is distinct from [Dignity and Equal Moral Standing](core_05p_participation_definitions.md#dignity-and-equal-moral-standing) (inherent to all sentients), from reputation or social esteem, and from demonstration of material impact for [Stakeholder](core_05p_participation_definitions.md#stakeholder) identification. *Good standing* is a participant-standing state: current eligibility for ordinary participation, trust-sensitive roles, or qualified participation under constitutionally valid, contestable criteria. Participant standing does not itself impose access restrictions; restrictive access consequences, where lawful, belong to [Standing Effect](core_05a_accountability_definitions.md#standing-effect-chapter-six), [Standing Lock](core_05a_accountability_definitions.md#standing-lock), Article XVIII, and applicable Chapter Six limits. It does not suspend, waive, extinguish, or reduce Rights-Floor minimums, including dignity, challenge access under [Contestability](core_05a_accountability_definitions.md#contestability), or remedy access under [Redress and Remediation](core_05a_accountability_definitions.md#redress-and-remediation-constitutional). Operational detail is governed by [Article XVIII-A](core_06-06_rights_part_c.md#article-xviii-a-standing-distinction) (*Standing Distinction*), [Article XVIII-C](core_06-06_rights_part_c.md#article-xviii-c-good-standing-responsibility-and-continuous-audit) (*Good Standing, Responsibility, and Continuous Audit*), and related incorporated provisions where designated. **Axis I** **contribution state**, **Violation Axis** inputs, and **standing effect** under the Chapter Eight model are not restated here; read [Contribution State](core_05a_accountability_definitions.md#contribution-state) with [Chapter Eight](core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model), including [Contribution Axis rules](core_08-08_standing_assessment.md#33-primary-category-defaults-and-lequ-slot-baseline), [Violation Axis rules](core_08-08_standing_assessment.md#34-violation-axis-rules-violation-nature-adverse-findings-and-severity), and [standing effects and integration](core_09-09_standing_integration.md#chapter-nine-standing-effects-and-integration). Final **Violation Axis s = 7, s = 8, and s = 9** anti-constitutional misconduct classification remains governed by [Chapter Ten](core_10-10_misconduct.md#chapter-ten-anti-constitutional-misconduct).
+
+*Measurements:*
+
+- **Primary:** [Chapter Zero §3.6 *Measuring Accountability*](../core_00_preamble.md#measuring-accountability) and [Chapter Zero §3.7 *Measuring Timeliness*](../core_00_preamble.md#measuring-timeliness) — supporting measure where multiple measurement families co-apply.
 <a id="participant-standing-constitutional-e"></a>
 - E: Ensure [Contestability](core_05a_accountability_definitions.md#contestability), [Auditability](core_05o_oversight_definitions.md#auditability), and [Transparency](core_05o_oversight_definitions.md#transparency) proportional to impact. Detect arbitrary, opaque, monopolistic, or reputation-substitution control of participant-standing signals. Align with [Epistemic Integrity](core_05o_oversight_definitions.md#epistemic-integrity) where standing claims are communicated. Apply Chapter Eight standing-effect mechanics directly where Chapter Eight inputs are used, and route any final top-end anti-constitutional misconduct assignment to Chapter Ten rather than to participant-standing criteria.
 <a id="participant-standing-constitutional-c"></a>
@@ -1182,6 +1409,10 @@ This cluster is the joint-invocation home for contribution state, standing recor
 <br>
 
 - O: **Axis I** classifies **positive-only** constitutional outcomes: **baseline** satisfaction and **demonstrable** improvement beyond baseline, under applicable functional system conditions. It **does not** classify **adverse** **violation** **findings** or non-compliance; those are classified under **violation nature** on **Axis II**. Banding (including **baseline**, **positive**, **stewardship-positive**, and **champion** contribution), **standing effect** integration, stackable supplements, and contestability rules for **contribution state** are stated in [Chapter Eight](core_08-08_standing_assessment.md) [**section 6.1**](core_08-08_standing_assessment.md#51-contribution-axis-bands-and-table-2), read with [**sections 1–2**](core_08-08_standing_assessment.md#2-purpose-and-role) (frame and **verified inputs for standing**). This entry is a Chapter Five pointer to those canonical Chapter Eight mechanics and does not itself restate the full operative text. It is distinct from [Participant Standing](core_05a_accountability_definitions.md#participant-standing-constitutional) (Article XVIII participation-status and role-eligibility treatment).
+
+*Measurements:*
+
+- **Primary:** [Chapter Zero §3.6 *Measuring Accountability*](../core_00_preamble.md#measuring-accountability) and [Chapter Zero §3.7 *Measuring Timeliness*](../core_00_preamble.md#measuring-timeliness) — supporting measure where multiple measurement families co-apply.
 <a id="contribution-state-e"></a>
 - E: Evaluate **contribution state** only from **demonstrable** **facts** under [Auditability](core_05o_oversight_definitions.md#auditability) and [Contestability](core_05a_accountability_definitions.md#contestability). Apply [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination) where thresholds, scope, or record disputes are material. **Standing effect** must stay **traceable** to **contribution state** and **violation nature** as stated in Chapter Eight **§§11.1–6.2** and the integration rules. **Must not** treat **alleged** misconduct as [**verified violation findings**](core_05a_accountability_definitions.md#verified-violation-findings) for standing purposes ([**verified inputs for standing**](core_08-08_standing_assessment.md#verified-inputs-for-standing)). Where [Participant Standing](core_05a_accountability_definitions.md#participant-standing-constitutional) and Chapter Eight labels co-apply, keep narratives consistent. Do not substitute **formal-channel** pedigree for **demonstrable** **contribution state** under Chapter Eight **section 6.1**.
 <a id="contribution-state-c"></a>
@@ -1207,6 +1438,10 @@ This cluster is the joint-invocation home for contribution state, standing recor
 <br>
 
 - O: The admissible factual and record basis from which contribution-linked or violation-linked standing consequences may be applied. Verified inputs for standing include demonstrable contribution records for the Contribution Axis and verified violation findings for the Violation Axis, each recorded in axis-pure **contribution standing records** or **violation standing records** under Chapter Eight Chapter One §8.1 and satisfying the record, evidence, auditability, contestability, and review-status requirements stated in Chapter Eight. Allegations, complaints, intake labels, routing decisions, reputation, disfavored status, moral dislike, or provisional forum-phase material are not verified inputs for standing by themselves.
+
+*Measurements:*
+
+- **Primary:** [Chapter Zero §3.6 *Measuring Accountability*](../core_00_preamble.md#measuring-accountability) and [Chapter Zero §3.7 *Measuring Timeliness*](../core_00_preamble.md#measuring-timeliness) — supporting measure where multiple measurement families co-apply.
 <a id="verified-inputs-for-standing-e"></a>
 - E: Identify the source record, finding authority or contribution record basis, subject, scope, time window, review status, evidence provenance, related-record cross-references where required, and contestability path before applying any [Standing Effect](core_05a_accountability_definitions.md#standing-effect-chapter-six). Keep contribution and violation inputs separately traceable in axis-pure standing records and apply Chapter Eight's no-offset rule.
 <a id="verified-inputs-for-standing-c"></a>
@@ -1230,6 +1465,10 @@ This cluster is the joint-invocation home for contribution state, standing recor
 <br>
 
 - O: **Violation Axis** inputs that may affect **standing effect** because they rest on auditable, contestable findings satisfying Chapters **Two through Four** and Chapter Eight **§3.5**. This entry is a Chapter Five pointer; canonical verified-input rules are in Chapter Eight **§3.5** and violation classification rules are in Chapter Eight **§6**. They are compound with [Violation Nature](core_05a_accountability_definitions.md#violation-nature-chapter-six): this entry supplies the admissible finding basis; violation nature supplies the classification of adverse constitutional outcome, severity, process / response character, duty or diffusion material, negligence or neglect material, and applicable adverse descriptors where the underlying finding supports them. Allegations, intake labels, provisional routing, and forum-phase narratives are not verified violation findings by themselves.
+
+*Measurements:*
+
+- **Primary:** [Chapter Zero §3.6 *Measuring Accountability*](../core_00_preamble.md#measuring-accountability) and [Chapter Zero §3.7 *Measuring Timeliness*](../core_00_preamble.md#measuring-timeliness) — supporting measure where multiple measurement families co-apply.
 <a id="verified-violation-findings-e"></a>
 - E: Identify the finding authority or record basis, the affected subject and scope, the applicable violation nature, the evidence and contestability path, and whether the finding is final, under review, superseded, resolved, or remediated for the standing context. Apply the Chapter Eight no-offset rule and keep these findings separate from [Contribution State](core_05a_accountability_definitions.md#contribution-state). A finding that lacks an applicable violation-nature classification is incomplete for adverse standing effect; a violation-nature label that lacks verified findings is incomplete for adverse standing effect.
 <a id="verified-violation-findings-c"></a>
@@ -1253,6 +1492,10 @@ This cluster is the joint-invocation home for contribution state, standing recor
 <br>
 
 - O: The **consequence layer** that applies verified [**contribution state**](core_05a_accountability_definitions.md#contribution-state) and [**verified violation findings**](core_05a_accountability_definitions.md#verified-violation-findings) from linked **contribution standing records** and **violation standing records** to trust eligibility, roles, delegated authority, recognition, restriction, restoration, remediation, safeguards, and review. It includes positive pathways such as [**competency gates**](core_05a_accountability_definitions.md#competency-gate) and restrictive pathways such as [**standing locks**](core_05a_accountability_definitions.md#standing-lock). It is a decision consequence, not a dignity rank, Rights-Floor measure, merged merit score, or component of the standing record itself. This entry is a Chapter Five pointer to Chapter Nine standing-effect mechanics; the canonical rules appear in Chapter Nine **sections 1**, **4**, and **5**. It must keep the Contribution Axis and Violation Axis separately traceable and must not net, average, offset, or substitute one axis for the other. **Operative** rules are stated in Chapter Eight **section 2** and Chapter Nine **sections 1**, **4**, and **5**; this entry does not restate them. Read with [Article XXIII-B: Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints](core_06-06_rights_part_d.md#article-xxiii-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints) and [Article XXIII-C: Least-Restrictive and Time-Bounded Rule](core_06-06_rights_part_d.md#article-xxiii-c-least-restrictive-and-time-bounded-rule) where coercive or restrictive **standing**-linked measures are in play.
+
+*Measurements:*
+
+- **Primary:** [Chapter Zero §3.6 *Measuring Accountability*](../core_00_preamble.md#measuring-accountability) and [Chapter Zero §3.7 *Measuring Timeliness*](../core_00_preamble.md#measuring-timeliness) — supporting measure where multiple measurement families co-apply.
 <a id="standing-effect-chapter-six-e"></a>
 - E: **Standing effect** must remain **traceable** to [Chapter Eight](core_08-08_standing_assessment.md) **§§2–3** and [Chapter Nine](core_09-09_standing_integration.md) **§§1–10**; evaluate under [Auditability](core_05o_oversight_definitions.md#auditability) and [Contestability](core_05a_accountability_definitions.md#contestability). The effect decision must identify the source contribution and violation standing records, subject, scope, time window, review status, separate axis inputs, required cross-references, verification basis, and consequence actually applied. **Contribution-linked** credit must follow Chapter Nine **Chapter One §8.1** recency and disclosure discipline where standing integration uses it. **Violation-linked** constraints must not be time-discounted, recency-weighted away, or softened by contribution upside while unresolved. **Must not** treat **alleged** misconduct, intake labels, or forum-phase material as [**verified violation findings**](core_05a_accountability_definitions.md#verified-violation-findings) for **standing** ([**verified inputs for standing**](core_08-08_standing_assessment.md#verified-inputs-for-standing)).
 <a id="standing-effect-chapter-six-c"></a>
@@ -1276,6 +1519,10 @@ This cluster is the joint-invocation home for contribution state, standing recor
 <br>
 
 - O: The bounded, **axis-pure** classification record that applies Chapter Eight categories to a defined subject, functional scope, time window, review status, and decision context. Each standing record classifies verified behavior or findings on either the Contribution Axis or the Violation Axis, but not both. A **contribution standing record** classifies verified contribution state; a **violation standing record** classifies verified violation nature. Related records must cross-reference one another under Chapter Eight §14.3.1 where they share subject, overlapping time window, bounded event, pattern, or decision context. This entry is a Chapter Five pointer description; the canonical concept and container are stated in Chapter Eight Chapter One §8.1, with operational requirements in Chapter Eight Chapter One §8.3. A standing record may concern a sentient, institution, system, assessment, event, role, collective, actor-specific record, or other constitutionally relevant unit, but it must keep distinct units and contexts separately traceable. It is a source record for later [Standing Effect](core_05a_accountability_definitions.md#standing-effect-chapter-six) analysis; standing effect supplies the separate Chapter Nine consequence layer applied from the relevant linked record set. A standing record is not a general worth label, dignity rank, Rights-Floor measure, merged merit score, or effect decision.
+
+*Measurements:*
+
+- **Primary:** [Chapter Zero §3.6 *Measuring Accountability*](../core_00_preamble.md#measuring-accountability) and [Chapter Zero §3.7 *Measuring Timeliness*](../core_00_preamble.md#measuring-timeliness) — supporting measure where multiple measurement families co-apply.
 <a id="standing-record-chapter-six-e"></a>
 - E: Evaluate a standing record by whether it states its record type, the assessed subject, scope, time window, review status, behavior or record basis being classified, the applicable axis classification, behavior-to-slot reasoning, verification basis, evidence provenance, materiality reasoning, related-record cross-references where required, versioning, and contestability pathway. The record must preserve axis purity, currentness, audit trail, and no-offset discipline under Chapter Eight. Collective and actor-specific standing records may coexist only where their allocation basis is demonstrable and does not assign adverse standing by group membership alone.
 <a id="standing-record-chapter-six-c"></a>
@@ -1298,6 +1545,10 @@ This cluster is the joint-invocation home for contribution state, standing recor
 <br>
 
 - O: A positive standing-effect pathway that opens access to trust-sensitive roles, delegated authority, oversight eligibility, enhanced recognition, or progressively consequential stewardship responsibility when verified competence, experience, contribution records, and current good-standing criteria satisfy published role-proportionate requirements. A competency gate is the opening-oriented counterpart to a [Standing Lock](core_05a_accountability_definitions.md#standing-lock), but it is not reputation, social prestige, insider sponsorship, credential monopoly, dignity rank, Rights-Floor measure, or permanent entitlement.
+
+*Measurements:*
+
+- **Primary:** [Chapter Zero §3.6 *Measuring Accountability*](../core_00_preamble.md#measuring-accountability) and [Chapter Zero §3.7 *Measuring Timeliness*](../core_00_preamble.md#measuring-timeliness) — supporting measure where multiple measurement families co-apply.
 <a id="competency-gate-e"></a>
 - E: Evaluate a competency gate by whether its criteria are published, role-specific, impact-proportionate, auditable, contestable, current enough for the role, and traceable to verified contribution, experience, skill, training, reliability, or role-specific qualification records. Informal, unpaid, peer-organized, mutual-aid, maintenance, repair, teaching, or community stewardship experience must be recognized where it satisfies the same demonstrability standards as formal institutional experience. Any applicable standing lock controls whether the opened trust-, role-, authority-, oversight-, or recognition-linked effect may actually be applied.
 <a id="competency-gate-c"></a>
@@ -1320,6 +1571,10 @@ This cluster is the joint-invocation home for contribution state, standing recor
 <br>
 
 - O: A standing-effect constraint that follows from verified Violation Axis assessment and limits trust-, role-, credit-, recognition-, or authority-related consequences while the verified violation finding remains unresolved or materially unremediated. A standing lock is not a dignity rank, Rights-Floor reduction, automatic retaliation, or merged merit score.
+
+*Measurements:*
+
+- **Primary:** [Chapter Zero §3.6 *Measuring Accountability*](../core_00_preamble.md#measuring-accountability) and [Chapter Zero §3.7 *Measuring Timeliness*](../core_00_preamble.md#measuring-timeliness) — supporting measure where multiple measurement families co-apply.
 <a id="standing-lock-e"></a>
 - E: Apply only from a bounded **violation standing record** and verified violation basis, with scope, duration, review status, remediation path, and proportional consequence identified. Restrictive effects must remain auditable, contestable, least-restrictive where coercive or liberty-restricting consequences are implicated, and time-bounded where Chapter Six requires it.
 <a id="standing-lock-c"></a>
@@ -1343,6 +1598,10 @@ This cluster is the joint-invocation home for contribution state, standing recor
 <br>
 
 - O: **Axis II** classification of **adverse** constitutional outcomes from [**verified violation findings**](core_05a_accountability_definitions.md#verified-violation-findings) — **non-compliance** severity, attached process / response character, and **§6** supplements — under [Chapter Eight](core_08-08_standing_assessment.md) and [integration sections](core_09-09_standing_integration.md). This entry is a Chapter Five pointer; canonical Axis II classification rules are in Chapter Eight **§6** and **§5**. It is compound with [Verified Violation Findings](core_05a_accountability_definitions.md#verified-violation-findings): violation nature supplies the classification layer, while verified violation findings supply the admissible record basis. Distinct from [**contribution state**](core_05a_accountability_definitions.md#contribution-state) (**Axis I**, positive-only).
+
+*Measurements:*
+
+- **Primary:** [Chapter Zero §3.6 *Measuring Accountability*](../core_00_preamble.md#measuring-accountability) and [Chapter Zero §3.7 *Measuring Timeliness*](../core_00_preamble.md#measuring-timeliness) — supporting measure where multiple measurement families co-apply.
 <a id="violation-nature-chapter-six-e"></a>
 - E: Classify for **standing** only from **findings** satisfying Chapters **Two through Four** and [**verified inputs for standing**](core_08-08_standing_assessment.md#verified-inputs-for-standing). The record must identify the verified finding basis and the violation-nature classification together, including severity, applicable attachments or supplements, scope, review status, and whether Chapter Ten controls final top-slot assignment. Read with [Harm](core_05a_accountability_definitions.md#harm), [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination), [Constitutional Constraint Violation](core_05i_integrative_definitions.md#constitutional-constraint-violation), and [Supremacy and Enforceability](core_05i_integrative_definitions.md#supremacy-and-enforceability) where material.
 <a id="violation-nature-chapter-six-c"></a>
@@ -1365,6 +1624,10 @@ This cluster is the joint-invocation home for contribution state, standing recor
 <br>
 
 - O: The Chapter Ten finalization process for determining whether anti-constitutional misconduct receives final Violation Axis `s = 7`, `s = 8`, or `s = 9` classification. It identifies the unified incident, applies the criteria set, assesses incident gravity, assigns any final top slot, and confirms due-process safeguards before final standing effect may treat the misconduct as top-slot anti-constitutional misconduct.
+
+*Measurements:*
+
+- **Primary:** [Chapter Zero §3.6 *Measuring Accountability*](../core_00_preamble.md#measuring-accountability) and [Chapter Zero §3.7 *Measuring Timeliness*](../core_00_preamble.md#measuring-timeliness) — supporting measure where multiple measurement families co-apply.
 <a id="top-slot-review-e"></a>
 - E: Require a bounded standing record, verified input basis, unified-incident analysis, criteria assessment, gravity assessment, independent review, contestable notice, and reasoned publication before final classification. Keep change-path validity, forum operations, rights remedies, and governance consequences in their respective chapters.
 <a id="top-slot-review-c"></a>
@@ -1387,6 +1650,10 @@ This cluster is the joint-invocation home for contribution state, standing recor
 <br>
 
 - O: The whole episode, sustained campaign, or connected pattern assessed together for Chapter Ten top-slot review because the conduct shares material actors, objectives, temporal continuity, causal linkage, or unified design. The term prevents artificial fragmentation of one anti-constitutional pattern into smaller pieces that would understate criteria satisfaction, gravity, or accountability.
+
+*Measurements:*
+
+- **Primary:** [Chapter Zero §3.6 *Measuring Accountability*](../core_00_preamble.md#measuring-accountability) and [Chapter Zero §3.7 *Measuring Timeliness*](../core_00_preamble.md#measuring-timeliness) — supporting measure where multiple measurement families co-apply.
 <a id="unified-incident-e"></a>
 - E: Identify the conduct boundary by substantive connection rather than caption, forum docket, entity boundary, transaction label, or implementation artifact. Where contest-pathway flooding and info-sphere flooding overlap, evaluate the shared facts on a unified record without double-counting the same conduct element.
 <a id="unified-incident-c"></a>
@@ -1409,6 +1676,10 @@ This cluster is the joint-invocation home for contribution state, standing recor
 <br>
 
 - O: The integrated evidentiary and reasoning record used to assess a unified incident for Chapter Ten criteria, gravity, due-process safeguards, and final top-slot classification. It keeps materially overlapping facts, actors, effects, criteria, and review status together while preserving separate substantiation for each criterion or pattern.
+
+*Measurements:*
+
+- **Primary:** [Chapter Zero §3.6 *Measuring Accountability*](../core_00_preamble.md#measuring-accountability) and [Chapter Zero §3.7 *Measuring Timeliness*](../core_00_preamble.md#measuring-timeliness) — supporting measure where multiple measurement families co-apply.
 <a id="unified-record-e"></a>
 - E: State the incident boundary, material facts, evidence provenance, criteria implicated, independently substantiated elements, review status, contestability path, and any overlap among named patterns. Do not double-count one conduct element toward multiple criteria or patterns without independent substantiation.
 <a id="unified-record-c"></a>
@@ -1431,6 +1702,10 @@ This cluster is the joint-invocation home for contribution state, standing recor
 <br>
 
 - O: A unified incident that, viewed as a whole, causes or imminently threatens catastrophic constitutional harm of the kind Chapter Ten recognizes for grave or pernicious anti-constitutional misconduct, including loss or suspension of operative constitutional authority, material population-scale loss of contestability or Rights-Floor continuity, or comparable survival-relevant or system-relevant constitutional harm.
+
+*Measurements:*
+
+- **Primary:** [Chapter Zero §3.6 *Measuring Accountability*](../core_00_preamble.md#measuring-accountability) and [Chapter Zero §3.7 *Measuring Timeliness*](../core_00_preamble.md#measuring-timeliness) — supporting measure where multiple measurement families co-apply.
 <a id="single-catastrophic-incident-e"></a>
 - E: Assess the incident as a whole under Chapter Ten's criteria, gravity rules, and due-process safeguards. The classification depends on constitutional magnitude, immediacy, system relevance, affected scope, and evidentiary substantiation, not on a count of isolated acts.
 <a id="single-catastrophic-incident-c"></a>
@@ -1453,6 +1728,10 @@ This cluster is the joint-invocation home for contribution state, standing recor
 <br>
 
 - O: A unified incident made of continuing, repeated, or systematically reinforced conduct whose aggregate gravity is high enough for Chapter Ten top-slot review. Its gravity may appear through material rollback, blocked or chilled challenge rights, Rights-Floor degradation, delayed correction beyond practical remedy, equivalent structural workaround, institutional scale, capture, or durability.
+
+*Measurements:*
+
+- **Primary:** [Chapter Zero §3.6 *Measuring Accountability*](../core_00_preamble.md#measuring-accountability) and [Chapter Zero §3.7 *Measuring Timeliness*](../core_00_preamble.md#measuring-timeliness) — supporting measure where multiple measurement families co-apply.
 <a id="sustained-high-gravity-pattern-e"></a>
 - E: Evaluate aggregate constitutional gravity, continuation after reasonable opportunity for good-faith cure where cure is feasible, institutional scale, capture, durability, and practical remediation limits. A pattern may reach Chapter Ten gravity even without a single catastrophic moment.
 <a id="sustained-high-gravity-pattern-c"></a>
@@ -1511,6 +1790,10 @@ This cluster is the joint-invocation home for overt use of force, weapons of mas
 <br>
 
 - O: The Rights-Floor concept covering overt application of physical, coercive, or kinetic force by institutions, stewards, operators, or comparable actors — including security, policing, conflict, and military-power deployment. It applies under [Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion) to both force-users and force-affected sentients. Use of Force is constitutionally exceptional. It is valid only under a lawful and published authority, for a constitutionally legitimate and materially serious objective, where less harmful means are not reasonably sufficient, and where the use remains [Necessity](core_05a_accountability_definitions.md#necessity)-compatible, [Proportionality](core_05a_accountability_definitions.md#proportionality)-compatible, narrowly tailored, time-bounded, and independently reviewable. Ordinary non-coercive conduct, and force used outside the governance, security, conflict, and military-power registers that Article XIII-B covers, is outside this entry.
+
+*Measurements:*
+
+- **Primary:** [Chapter Zero §3.2 *Measuring Flourishing*](../core_00_preamble.md#measuring-flourishing) and [Chapter Zero §3.3 *Measuring Continuity*](../core_00_preamble.md#measuring-continuity) — supporting measure where multiple measurement families co-apply.
 <a id="use-of-force-constitutional-e"></a>
 - E: Test authorization lawfulness and publication, objective legitimacy and material seriousness, less-harmful-means sufficiency, ongoing [Necessity](core_05a_accountability_definitions.md#necessity) and [Proportionality](core_05a_accountability_definitions.md#proportionality), and narrow tailoring to the authorized objective. Apply [Combatant / Non-Combatant Distinction](core_05a_accountability_definitions.md#combatant-non-combatant-distinction-constitutional) to targeting discipline. Apply [Adversarial, Scaled, and Exploited Conditions](core_05o_oversight_definitions.md#adversarial-scaled-and-exploited-conditions) where scaled or adversarial deployment is foreseeable. Apply [Existential Risk](core_05c_continuity_definitions.md#existential-risk) where the use materially implicates [Weapons of Mass Harm](core_05a_accountability_definitions.md#weapons-of-mass-harm-constitutional). Apply [Reversibility](core_05c_continuity_definitions.md#reversibility-constitutional) and [Redress and Remediation](core_05a_accountability_definitions.md#redress-and-remediation-constitutional) to outcome discipline. Emergency framings that functionally normalize force through indefinite extension or routinized reauthorization fail this evaluation.
 <a id="use-of-force-constitutional-c"></a>
@@ -1537,12 +1820,17 @@ This cluster is the joint-invocation home for overt use of force, weapons of mas
 
 <br>
 
-##### In plain terms: *A system that selects or engages lethal-force targets on its own — without a human exercising real-time judgment over each targeting or engagement decision.*
+*In plain terms:* *A system that selects or engages lethal-force targets on its own — without a human exercising real-time judgment over each targeting or engagement decision.*
 
 - O: A system that, under its operating conditions, selects, engages, or materially directs the application of lethal force in a targeting decision without a human's real, timely judgment shaping each targeting or engagement decision.
   - Substrate- and architecture-agnostic: autonomous platforms, swarms, software-mediated targeting pipelines, and hybrid arrangements are in scope.
   - A formal "human-in-the-loop" does not remove a system from scope if the human cannot exercise substantive decisional effect at operational tempo.
   - Out of scope only if either (a) a human's real, timely judgment materially shapes each targeting or engagement decision, or (b) the tool is used outside targeting or lethal engagement.
+
+*Measurements:*
+
+- **Primary:** [Chapter Zero §3.2 *Measuring Flourishing*](../core_00_preamble.md#measuring-flourishing) and [Chapter Zero §3.3 *Measuring Continuity*](../core_00_preamble.md#measuring-continuity) — supporting measure where multiple measurement families co-apply.
+
   <a id="autonomous-lethal-system-constitutional-e"></a>
 - E: Judge the system by what it does, not how it is described. At minimum:
   - test whether each targeting or engagement decision is materially shaped at operational tempo by a human's substantive judgment — not merely ratified after the fact;
@@ -1575,6 +1863,10 @@ This cluster is the joint-invocation home for overt use of force, weapons of mas
 <br>
 
 - O: Weapons, weapon systems, or deliberately weaponized capabilities whose use foreseeably causes casualty, ecological, informational, or infrastructural harm at a scale that materially implicates [Article I-A](core_06-06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) environmental preconditions, [Article I-D](core_06-06_rights_part_a.md#article-i-d-existential-risk-and-recovery-capacity) existential-risk scrutiny, or both. Defined by foreseeable harm scale and ecological-recovery-capacity burden, not weapon-class taxonomy alone. Substrate-agnostic across biological-effect, synthetic-effect, informational, infrastructural, and hybrid effect pathways.
+
+*Measurements:*
+
+- **Primary:** [Chapter Zero §3.2 *Measuring Flourishing*](../core_00_preamble.md#measuring-flourishing) and [Chapter Zero §3.3 *Measuring Continuity*](../core_00_preamble.md#measuring-continuity) — supporting measure where multiple measurement families co-apply.
 <a id="weapons-of-mass-harm-constitutional-e"></a>
 - E: Reason about foreseeable casualty, ecological, informational, and infrastructural harm scale across [Adversarial, Scaled, and Exploited Conditions](core_05o_oversight_definitions.md#adversarial-scaled-and-exploited-conditions). Apply [Cascading Failure](core_05c_continuity_definitions.md#cascading-failure) where systemic spread is plausible; apply [Existential Risk](core_05c_continuity_definitions.md#existential-risk) where Article I-D thresholds are materially implicated; apply [Reversibility](core_05c_continuity_definitions.md#reversibility-constitutional) to harm-recovery path. Refuse framings that treat such weapons as ordinary force-escalation tools where this entry's harm-scale thresholds are met.
 <a id="weapons-of-mass-harm-constitutional-c"></a>
@@ -1600,6 +1892,10 @@ This cluster is the joint-invocation home for overt use of force, weapons of mas
 <br>
 
 - O: The substantive distinction, at the time of an applicable use-of-force decision, between sentients taking direct part in hostilities, armed action, or active coercive-force conduct (combatants) and those who are not (non-combatants). The distinction applies under [Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion) and is substantive: formal combatant-class assignment is relevant evidence but cannot establish combatant status where it conflicts with substantive conduct, and substantive non-combatant conduct is not defeated by adverse formal classification. The distinction applies at the individual level for each use-of-force decision and does not authorize population-level reclassification by demographic, protected-characteristic, or proxy features.
+
+*Measurements:*
+
+- **Primary:** [Chapter Zero §3.2 *Measuring Flourishing*](../core_00_preamble.md#measuring-flourishing) and [Chapter Zero §3.3 *Measuring Continuity*](../core_00_preamble.md#measuring-continuity) — supporting measure where multiple measurement families co-apply.
 <a id="combatant-non-combatant-distinction-constitutional-e"></a>
 - E: Test:
   - whether classification reaches substantive conduct at the relevant time, not formal-class designation alone;
@@ -1632,6 +1928,10 @@ This cluster is the joint-invocation home for overt use of force, weapons of mas
   - durable but reversible containment ([Article XXIII-C](core_06-06_rights_part_d.md#article-xxiii-c-least-restrictive-and-time-bounded-rule), subject to its duration-limit, review-cadence, and restoration discipline);
   - [Voluntary Discontinuation](core_05c_continuity_definitions.md#voluntary-discontinuation-constitutional) (the sentient's own freely-formed decision under [Article VII-E](core_06-06_rights_part_b.md#article-vii-e-voluntary-discontinuation-of-ones-own-existence));
   - overt [Use of Force](core_05a_accountability_definitions.md#use-of-force-constitutional), [Weapons of Mass Harm](core_05a_accountability_definitions.md#weapons-of-mass-harm-constitutional), and [Autonomous Lethal System](core_05a_accountability_definitions.md#autonomous-lethal-system-constitutional) / [Autonomous Coercion Tool](core_05a_accountability_definitions.md#autonomous-coercion-tool-constitutional) operation (governed by Articles XIII-B / XIII-C under their own owner-floor discipline even where effects are irreversible, without read-across authorizing a deprivation measure).
+
+*Measurements:*
+
+- **Primary:** [Chapter Zero §3.2 *Measuring Flourishing*](../core_00_preamble.md#measuring-flourishing) and [Chapter Zero §3.3 *Measuring Continuity*](../core_00_preamble.md#measuring-continuity) — supporting measure where multiple measurement families co-apply.
   <a id="irreversible-deprivation-measure-constitutional-e"></a>
 - E: Test substantive irreversibility — whether the measure's effect forecloses [Reversibility](core_05c_continuity_definitions.md#reversibility-constitutional) and [Redress and Remediation](core_05a_accountability_definitions.md#redress-and-remediation-constitutional) in substance, not only in procedural form. Detect:
   - framings that re-introduce the prohibited measure by routing through Chapter Ten slot classification ("final s = 8 / s = 9" predicates), Article XXIII-D emergency measures, Article XXVI transition or re-baselining governance, adopter-instrument custody, or comparable mechanisms;
@@ -1664,13 +1964,18 @@ This cluster is the joint-invocation home for overt use of force, weapons of mas
 
 <br>
 
-##### In plain terms: *A system that pressures, restricts, or manipulates sentients on its own, without a human exercising real-time judgment over each coercive act.*
+*In plain terms:* *A system that pressures, restricts, or manipulates sentients on its own, without a human exercising real-time judgment over each coercive act.*
 
 - O: A system that coerces sentients — constraining their freedom or decision-making — through autonomous or adaptive behavior.
   - Coercive effects include, without limitation: shaping behavior at scale; targeted restriction of movement or access; targeted suppression or chilling of expression; targeted manipulation as defined in [Coercion and Manipulation](core_05p_participation_definitions.md#coercion-and-manipulation-constitutional); targeted harm calibrated by protected characteristics or their material proxies; and infliction of psychological trauma, acute stress, or chronic psychological destabilization.
   - Substrate-agnostic under [Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion), covering both non-lethal and lethal coercive effects.
   - A nominal "human-in-the-loop" does not remove a system from scope if the human only rubber-stamps its decisions.
   - Out of scope only if either (a) the system automates permitted tasks without coercing sentients, or (b) a human's real, timely judgment shapes each coercive application.
+
+*Measurements:*
+
+- **Primary:** [Chapter Zero §3.2 *Measuring Flourishing*](../core_00_preamble.md#measuring-flourishing) and [Chapter Zero §3.3 *Measuring Continuity*](../core_00_preamble.md#measuring-continuity) — supporting measure where multiple measurement families co-apply.
+
   <a id="autonomous-coercion-tool-constitutional-e"></a>
 - E: Judge the system by what it does, not how it is described. At minimum:
   - test whether any "human-in-the-loop" actually shapes each outcome at operational tempo — does the operator see reasons for action in time, and can they decide, or only approve what the system already chose;

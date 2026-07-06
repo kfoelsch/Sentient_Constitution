@@ -65,7 +65,7 @@ Machine-checkable rules: [tools/architecture/rule_registry.json](tools/architect
 ### What counts as a definition
 
 - **Hard definitions:** Ch 2–4 (`core_02-04_definition_mechanics.md`); Chapter Five §1–§3 (single-home rule below).
-- **Values language:** Chapter 00 §1 — [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) (**Flourishing** / **Continuity**), and [material stake](core_00_preamble.md#material-stake) at principle layer; Chapter Five O/E/C for Tetrad legs ([Participation](core_05p_participation_definitions.md#participation-constitutional), [Oversight](core_05o_oversight_definitions.md#oversight-constitutional), [Accountability](core_05a_accountability_definitions.md#accountability), [Timeliness](core_05a_accountability_definitions.md#timeliness-constitutional)) and aims ([Flourishing](core_05f_flourishing_aim.md#flourishing-constitutional), [Continuity (Constitutional Aim)](core_05c_continuity_definitions.md#continuity-aim-constitutional)); Chapter One develops those aims into operative principles. **Reading arc:** Part A (§§1–5 values and bounded agency) → Part B (§§6–8 interaction, override limits, and interpretation) → Part C (§§9–13 stewardship through systemic evaluation) → **§15 Integrated Application** capstone in Part C. Use **Continuity aim** when linking to Chapter One §11; reserve bare *continuity* for operational uses elsewhere.
+- **Values language:** Chapter 00 §1 — [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) (**Flourishing** / **Continuity**), and [material stake](core_00_preamble.md#material-stake) at principle layer; Chapter Five O/E/C for Tetrad legs ([Participation](core_05p_participation_definitions.md#participation-constitutional), [Oversight](core_05o_oversight_definitions.md#oversight-constitutional), [Accountability](core_05a_accountability_definitions.md#accountability), [Timeliness](core_05a_accountability_definitions.md#timeliness-constitutional)) and aims ([Flourishing](core_05f_flourishing_aim.md#flourishing-constitutional), [Continuity (Constitutional Aim)](core_05g_continuity_aim.md#continuity-aim-constitutional)); Chapter One develops those aims into operative principles. **Reading arc:** Part A (§§1–5 values and bounded agency) → Part B (§§6–8 interaction, override limits, and interpretation) → Part C (§§9–13 stewardship through systemic evaluation) → **§15 Integrated Application** capstone in Part C. Use **Continuity aim** when linking to Chapter One §11; reserve bare *continuity* for operational uses elsewhere.
 - **Measurement frame (Chapter 00 §2–§4):** Eight constitutional measurement categories in [Measurements Overview](core_00_preamble.md#measurements-overview) map to [§3.1–§3.8 measurement families](core_00_preamble.md#major-measurement-aspects). **Canonical outbound anchors:** `#measuring-threshold-and-scaling`, `#measuring-flourishing`, `#measuring-continuity`, `#measuring-participation`, `#measuring-oversight`, `#measuring-accountability`, `#measuring-timeliness`, `#measuring-constitutional-performance`. Legacy alias anchors (e.g. `#measuring-participation-and-fair-access`, `#material-family-orientation`) remain in Chapter Zero source only during transition — do not link to them from other files. [§4.1](core_00_preamble.md#from-measurement-to-evidence-and-remedy) routes measurement → certification (Chapter Seven), standing records (Chapter Eight), remedy (Chapter Nine), forum review (Chapter Eleven). **Standing measurement** (Chapter Eight contribution/violation axis classification) is a *process* concept distinct from **constitutional measurement** categories (Chapter Zero §2–§3), which supply the evidentiary frame for what gets verified before records enter the standing pipeline.
 - **Standing:** Ch 8–9 (**verified** inputs); Ch 11 forums for **allegations**, not standing-record classification inputs.
 - **Rights:** Chapter Six; implementation files **cite** articles.
@@ -104,6 +104,8 @@ Keep constitutional concept + O/E/C boundary only; cite owner homes for institut
 | DEF-APPROPRIATENESS | Unified definition placement (core vs CJS-5 vs implementation) | `make definition-appropriateness-audit` (advisory; ledger at `evidence/definition_audit/ledger.json`) |
 | REF-ARTICLES | Article titles and Roman numerals; prose cite gloss per **section 7** | `make reference-audit` |
 | MEAS-ANCHOR | Chapter Zero §3 canonical anchor hygiene | `make measurement-anchor-audit` |
+| MEAS-DEF-01 | Definition-anchored measurement tiers inform E/C authoring | `make ch5-measurement-tier-audit` and `make ch5-measurement-coverage-audit`; seeds at [tools/architecture/measurement_tier_seeds.json](tools/architecture/measurement_tier_seeds.json); progress at [doc_architecture/generated/measurement_rollout_status.md](doc_architecture/generated/measurement_rollout_status.md) |
+| CH5-HIER-01 | Definition hierarchy layers, tags, and placement rules | `make hierarchy-map` (generated index) |
 | ROUTER-CJS21 | Cross-implementation routing | `make router-bidirectional-audit` |
 
 Historical D/E/C rollout: [archive/doc_architecture_decision_log/DEC_WIDGET_AND_NAV_DECISIONS_2026-04-16_2026-06-15.md](archive/doc_architecture_decision_log/DEC_WIDGET_AND_NAV_DECISIONS_2026-04-16_2026-06-15.md).
@@ -148,6 +150,95 @@ Collapsed **Definitions · Evaluation · Compliance** widget (same blue `<detail
 - **Chapter One row order:** functional reasoning order, not alphabetical — config in [tools/architecture/ch1_dec_order.json](tools/architecture/ch1_dec_order.json); `make ch1-dec-order-audit`.
 
 **Do not** put `Definitions:` lines inside Trace (2026-04-16 D/E/C split). **Do not** use visible group labels as fake list rows inside D/E/C widgets.
+
+### Measurement-informed E/C (MEAS-DEF-01)
+
+Chapter Zero [§2–§3](../core_00_preamble.md#measurements-overview) names constitutional **measurement categories** and **families** — plain questions that orient review. Those families are not a fourth O/E/C component. They are **routing metadata** that should inform how **Evaluative (E)** and **Compliance (C)** components are written on canonical Chapter Five definition homes.
+
+**Design intent**
+
+- **Chapter Zero** keeps category-level orientation and plain-language questions; it indexes outward to definition owners rather than duplicating full measurement prose.
+- **Chapter Five** carries operative measurement discipline: which measures apply to each term, how assessment must run, and what failure looks like when measures are gamed or untraceable.
+- **Aim and band file rollups** (for example [Flourishing aim decomposition](core_05f_flourishing_aim.md#flourishing-aim-decomposition)) route to definition homes; they do not restate per-term measurement tiers once those tiers live on the definition entry.
+
+**Relationship to Chapter Two**
+
+| Component | Measurement role |
+|-----------|------------------|
+| **O** | Unchanged — what the term is. Do not encode metrics, proxies, or assessment procedures in O. |
+| **E** | How the term must be assessed — primary trace, secondary co-measures, tertiary integrity checks. E specifies assessment scope and conditions; it does not prescribe pass/fail outcomes. |
+| **C** | What must hold in practice — observable satisfaction and non-compliance, including distinct failure modes aligned to primary, secondary, and tertiary measurement duties. |
+
+**Tier semantics** (declared per canonical definition home; scope-qualified when a term serves multiple aims or Tetrad legs)
+
+| Tier | E duty | C duty |
+|------|--------|--------|
+| **Primary** | Main evidentiary trace for this term in this owner scope — what evaluators must assess first. | Non-compliance when the primary measure is untraceable, hollow, or contradicted by full functional conditions. |
+| **Secondary** | Co-measures that must be included when evaluating the primary — scope expansion, not optional read-with decoration. | Non-compliance when primary indicators appear stable but secondary degradation defeats the term. |
+| **Tertiary** | Anti-proxy, metric-integrity, and verification-boundary checks — especially where throughput, engagement, self-report, or formal classification substitutes for outcome evidence. | Non-compliance when proxies are treated as dispositive, divergence is ignored, or correction is refused after divergence is reasonably observable. |
+
+Not every definition requires all three tiers. Independent building blocks may declare **primary only**. Cluster heads may carry family-level tiers; leaf entries inherit unless they state a narrower or broader boundary.
+
+**Entry placement** (Chapter Five leaf definition)
+
+1. Trace `</details>` → `<br>` (existing NAV-DEC-12-SPACER discipline where applicable).
+2. **O** — ontological component.
+3. **`*Measurements:*`** — visible italic label followed by tier bullets (Primary / Secondary / Tertiary as needed). Link Ch00 category anchors and Chapter Five co-measure terms.
+4. **E** — structured assessment duties; use **Primary assessment.**, **Secondary co-assessment.**, and **Tertiary integrity check.** sublabels when multiple tiers apply.
+5. **C** — satisfaction rule plus tier-aligned failure modes; use **Primary failure.**, **Secondary failure.**, and **Tertiary failure.** sublabels when multiple tiers apply.
+
+**Family vs definition**
+
+- Where a Ch00 family maps 1:1 to a term ([Wellbeing](core_05c_continuity_definitions.md#wellbeing), [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination)), tiers attach on that definition entry.
+- Where a family is a cluster label ("Safety, harm, and risk," "Survival-floor access"), the **cluster head** carries family routing; leaves inherit or override explicitly.
+
+**Distinct from standing measurement.** [Chapter Eight](../core_08-08_standing_assessment.md) contribution/violation axis classification is a *process* concept. Constitutional measurement categories (Chapter Zero §2–§3) supply the evidentiary frame for what gets verified before records enter the standing pipeline — see **section 4** measurement frame bullet.
+
+**Pilot exemplar:** [Wellbeing](core_05c_continuity_definitions.md#wellbeing) — primary Flourishing outcome measure with secondary harm/risk/agency co-measures and tertiary [Proxy Divergence](core_05o_oversight_definitions.md#proxy-divergence) discipline.
+
+**Rollout** (Waves 1–9 approved; machine-gated for approved seeds)
+
+1. Pin tier schema on pilot and wave entries — see [measurement_tier_seeds.json](tools/architecture/measurement_tier_seeds.json).
+2. Thin Ch00 §3 bullet enumerations into index links where definition entries carry tiers (§3.1–§3.8 complete for approved waves).
+3. Remove redundant measurement rollups from aim heads once constituent definitions own tiers.
+4. `make ch5-measurement-tier-audit` — enforces `*Measurements:*` and tier-aligned **E**/**C** for all `status: approved` seeds; wired in `make regression`.
+5. `make ch5-measurement-coverage-audit` — validates seed ↔ hierarchy `ch00_measurement` sync and bidirectional Ch00 §3.1–§3.8 owner links; wired in `make regression`.
+6. `make measurement-rollout-status` — emits [measurement_rollout_status.md](doc_architecture/generated/measurement_rollout_status.md); runs after `make hierarchy-map`.
+7. Wave 9 residual rollout — [apply_wave9_primary_measurements.py](tools/apply_wave9_primary_measurements.py) batch-applies `primary_only` link blocks from [definition_hierarchy.json](doc_architecture/generated/definition_hierarchy.json) for all non–aim-head leaves not already seeded.
+
+### Definition hierarchy (CH5-HIER-01)
+
+Chapter Five organizes **226+ canonical definitions** across principle layer, constitutional **aim heads**, Tetrad **band files**, taxonomy (independent / semi-independent / dependent), clusters, and leaf O/E/C entries. Partial maps already exist (compass, measurement crosswalk, alphabetical directory, full cluster map); this rule pins the **layer model** and the **generated hierarchy index** that unifies them.
+
+**Layer stack** (top → bottom)
+
+1. **Principle layer** — [Chapter 00 §1](../core_00_preamble.md#the-model): [Constitutional Tetrad](../core_00_preamble.md#constitutional-tetrad), [Two Constitutional Aims](../core_00_preamble.md#two-constitutional-aims), [material stake](../core_00_preamble.md#material-stake).
+2. **Aim heads** — dedicated aim files hold canonical O/E/C for each constitutional aim plus decomposition routing only: [Flourishing aim](core_05f_flourishing_aim.md), [Continuity aim](core_05g_continuity_aim.md).
+3. **Tetrad band files** — substantive owner files: [Oversight](core_05o_oversight_definitions.md), [Participation](core_05p_participation_definitions.md), [Accountability](core_05a_accountability_definitions.md), [Continuity band](core_05c_continuity_definitions.md), [Integrative](core_05i_integrative_definitions.md). **Timeliness** co-lives in the Accountability band.
+4. **Taxonomy** — within each band: Independent → Semi-independent → Dependent clusters (Chapter Five §1–§3).
+5. **Clusters** — numbered §3.x / Chapter One §8.x dependent clusters and semi-independent topic groups (`**Cluster context:**` heads).
+6. **Leaf definitions** — canonical `####` O/E/C entries (one visible label per term).
+
+**Orthogonal tags** (per term in [generated hierarchy index](doc_architecture/generated/definition_hierarchy.md))
+
+| Tag | Meaning |
+|-----|---------|
+| `canonical_file` | Substantive owner file — does not move for searchability |
+| `tetrad_leg` | Oversight, Participation, Accountability, Timeliness, Integrative, or cross-leg |
+| `primary_aim` | Flourishing, Continuity, or cross-cutting |
+| `aim_role` | `aim_head`, `constituent`, `outcome_measure`, `tetrad_leg_head`, `measurement_family_member`, `cluster_member`, `independent` |
+| `ch00_measurement` | One or more §3.1–§3.8 categories |
+| `cluster_id` | Owning cluster or topic-group anchor |
+| `definition_class` | independent / semi_independent / dependent_cluster |
+
+**Placement rules**
+
+- **File home** = substantive owner (band file). Split placement is normal: a term may measure **Flourishing** while living in the **Continuity** band (example: [Wellbeing](core_05c_continuity_definitions.md#wellbeing) — `outcome_measure` under **Flourishing**, not a constituent).
+- **Aim files** route only — O/E/C for the aim head, decomposition links, measurement-family index (link-only). Never duplicate leaf O/E/C bodies in aim files.
+- **Constituents vs outcome measures** — constituents are named in [Chapter 00 §1](../core_00_preamble.md#two-constitutional-aims) for each aim (Flourishing: truth, safety, trustworthiness, meaningful agency). Outcome measures (for example **Wellbeing**) track whether the aim is achieved; they are linked from aim decomposition but defined in band files.
+- **Searchability** — use [definition_hierarchy.md](doc_architecture/generated/definition_hierarchy.md) and [definition_registry.json](ai_corpus/indexes/definition_registry.json); do not relocate binding text into aim files for editor search convenience.
+
+**Generated artifacts:** `make hierarchy-map` → `doc_architecture/generated/definition_hierarchy.json` and `.md`. Seed overrides: [tools/architecture/hierarchy_overrides.json](tools/architecture/hierarchy_overrides.json).
 
 ### Article neighbors gloss (GLOSS-ARTICLE-NEIGHBORS)
 
@@ -213,6 +304,7 @@ Do not maintain hand-edited article or implementation maps here.
 - **Article titles / Roman numerals:** `make reference-audit` / Chapter Six part files.
 - **Cross-implementation routing:** [corpus_joint_structure.md](corpus_joint_structure.md) **CJS-2.1**; `make router-bidirectional-audit`.
 - **Generated stable-ID index:** [doc_architecture/generated/stable_id_index.md](doc_architecture/generated/stable_id_index.md) via `make architecture-index`.
+- **Definition hierarchy index (generated):** [doc_architecture/generated/definition_hierarchy.md](doc_architecture/generated/definition_hierarchy.md) via `make hierarchy-map`; machine JSON alongside. CH5-HIER-01 tag vocabulary in **section 4**.
 - **Topic router reader index (generated, human view):** [doc_architecture/generated/topic_router_reader_index.md](doc_architecture/generated/topic_router_reader_index.md) — plain-language grouped index derived from **CJS-2.1**; reading guidance in **CJS-0.1** ([cjs_00_registry_and_reading_rules.md](corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-cross-file-routing)). Authoritative mandatory read-with lists remain in the integrator table.
 - **CI-primary router slice (generated, integrator view):** [doc_architecture/generated/ci_primary_router_index.md](doc_architecture/generated/ci_primary_router_index.md) — filter of **CJS-2.1** rows whose primary owner is **CI**; do not duplicate in `corpus_institutions/` operative text.
 - **CJS cluster bands:** Oversight **CJS-5.2–5.6**, Participation **CJS-5.7–5.10**, Accountability **CJS-5.11–5.15**, Continuity **CJS-5.16–5.21**, Integrative **CJS-5.22–5.23** — see [CJS-5.1 compass](corpus_joint_structure/cjs_05_cross_implementation_operational_terms.md#cjs-51-constitutional-compass-and-cluster-map) and [corpus_joint_structure.md](corpus_joint_structure.md).

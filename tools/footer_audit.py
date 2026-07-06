@@ -18,6 +18,7 @@ CORE_CHAIN = (
     "core_02-04_definition_mechanics.md",
     "core_05-05_definitions_a_independent.md",
     "core_05f_flourishing_aim.md",
+    "core_05g_continuity_aim.md",
     "core_05o_oversight_definitions.md",
     "core_05p_participation_definitions.md",
     "core_05a_accountability_definitions.md",

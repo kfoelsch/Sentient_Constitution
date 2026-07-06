@@ -12,6 +12,7 @@ CH5_BAND_C = "core_05c_continuity_definitions.md"
 CH5_BAND_I = "core_05i_integrative_definitions.md"
 
 CH5_AIM_F = "core_05f_flourishing_aim.md"
+CH5_AIM_G = "core_05g_continuity_aim.md"
 
 CH5_BANDS: tuple[str, ...] = (
     CH5_BAND_O,
@@ -23,6 +24,7 @@ CH5_BANDS: tuple[str, ...] = (
 
 CH5_AIMS: tuple[str, ...] = (
     CH5_AIM_F,
+    CH5_AIM_G,
 )
 
 CH5_ALL: tuple[str, ...] = (CH5_INDEX, *CH5_AIMS, *CH5_BANDS)

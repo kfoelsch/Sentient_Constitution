@@ -939,8 +939,6 @@ Later chapters and provisions are governed through this chapter's integrated-val
 
 All foundational principles in this chapter must be implemented through enforceable classification, governance requirements, and accountability mechanisms defined here, and must remain enforceable under adversarial behavior, system capture, and misaligned incentives.
 
-
-
 ---
 
 **Previous file:** [core_01_b_interaction_interpretation.md](core_01_b_interaction_interpretation.md)

@@ -1,0 +1,219 @@
+{
+  "clusters": {
+    "3.2 Transparency, Auditability, and Verification": {
+      "primary_aim": "Flourishing",
+      "tetrad_leg": "Oversight",
+      "ch00_measurement": ["3.5 Oversight"]
+    },
+    "3.3 Truth and Epistemic Integrity": {
+      "primary_aim": "Flourishing",
+      "tetrad_leg": "Oversight",
+      "ch00_measurement": ["3.5 Oversight"]
+    },
+    "3.5 Animal Life, Sentient Life, and Sentience Status": {
+      "primary_aim": "Flourishing",
+      "tetrad_leg": "Participation",
+      "ch00_measurement": ["3.4 Participation"]
+    },
+    "3.6 Binding Stakeholder Choice": {
+      "primary_aim": "Flourishing",
+      "tetrad_leg": "Participation",
+      "ch00_measurement": ["3.4 Participation"]
+    },
+    "3.7 Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity": {
+      "primary_aim": "Flourishing",
+      "tetrad_leg": "Participation",
+      "ch00_measurement": ["3.4 Participation"]
+    },
+    "3.8 Collective Harm Boundary, Harm, and Harassment and Bullying": {
+      "primary_aim": "Flourishing",
+      "tetrad_leg": "Accountability",
+      "ch00_measurement": ["3.2 Flourishing", "3.6 Accountability"]
+    },
+    "3.9 Forum Families and Dispute Routing": {
+      "primary_aim": "Flourishing",
+      "tetrad_leg": "Accountability",
+      "ch00_measurement": ["3.6 Accountability", "3.7 Timeliness"]
+    },
+    "Chapter One §8.10 Standing State, Contribution, and Violation": {
+      "primary_aim": "Flourishing",
+      "tetrad_leg": "Accountability",
+      "ch00_measurement": ["3.6 Accountability"]
+    },
+    "3.11 Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm": {
+      "primary_aim": "Continuity",
+      "tetrad_leg": "Accountability",
+      "ch00_measurement": ["3.2 Flourishing", "3.3 Continuity"]
+    },
+    "3.12 Labor and Economic Floor: Compensation, Organization, Safe Conditions, Leisure, and Creative Work": {
+      "primary_aim": "Continuity",
+      "tetrad_leg": "Continuity",
+      "ch00_measurement": ["3.2 Flourishing", "3.3 Continuity"]
+    },
+    "3.13 Stewardship, Governance Discipline, and Shared-System Capacity": {
+      "primary_aim": "Continuity",
+      "tetrad_leg": "Continuity",
+      "ch00_measurement": ["3.3 Continuity", "3.8 Constitutional performance"]
+    },
+    "3.14 Privacy (Informational) — peer-level cluster head": {
+      "primary_aim": "Flourishing",
+      "tetrad_leg": "Continuity",
+      "ch00_measurement": ["3.4 Participation"]
+    },
+    "3.15 Trust and Trustworthiness": {
+      "primary_aim": "Flourishing",
+      "tetrad_leg": "Continuity",
+      "ch00_measurement": ["3.5 Oversight"]
+    },
+    "3.16 Corpus, Authority Stack, Supremacy, and Enforceability": {
+      "primary_aim": "Flourishing",
+      "tetrad_leg": "Integrative",
+      "ch00_measurement": ["3.5 Oversight", "3.6 Accountability"]
+    },
+    "3.32 Resilience, Safety, Reversibility, Self-Healing, Cascading Failure, Existential Risk, Environmental Preconditions, and Wellbeing": {
+      "primary_aim": "cross-cutting",
+      "tetrad_leg": "Continuity",
+      "ch00_measurement": ["3.2 Flourishing", "3.3 Continuity"]
+    },
+    "Materiality, impact, risk, and proxy integrity": {
+      "primary_aim": "cross-cutting",
+      "tetrad_leg": "Oversight",
+      "ch00_measurement": ["3.1 Threshold and scaling", "3.5 Oversight", "3.6 Accountability"]
+    }
+  },
+  "terms": {
+    "Flourishing": {
+      "aim_role": "aim_head",
+      "primary_aim": "Flourishing",
+      "canonical_file": "core_05f_flourishing_aim.md",
+      "ch00_measurement": ["3.2 Flourishing"]
+    },
+    "Continuity (Constitutional Aim)": {
+      "aim_role": "aim_head",
+      "primary_aim": "Continuity",
+      "canonical_file": "core_05g_continuity_aim.md",
+      "ch00_measurement": ["3.3 Continuity"]
+    },
+    "Participation": {
+      "aim_role": "tetrad_leg_head",
+      "primary_aim": "Flourishing",
+      "tetrad_leg": "Participation",
+      "ch00_measurement": ["3.4 Participation"]
+    },
+    "Oversight": {
+      "aim_role": "tetrad_leg_head",
+      "primary_aim": "Flourishing",
+      "tetrad_leg": "Oversight",
+      "ch00_measurement": ["3.5 Oversight"]
+    },
+    "Accountability": {
+      "aim_role": "tetrad_leg_head",
+      "primary_aim": "cross-cutting",
+      "tetrad_leg": "Accountability",
+      "ch00_measurement": ["3.6 Accountability"]
+    },
+    "Timeliness": {
+      "aim_role": "tetrad_leg_head",
+      "primary_aim": "cross-cutting",
+      "tetrad_leg": "Timeliness",
+      "ch00_measurement": ["3.7 Timeliness"]
+    },
+    "Truth (Constitutional Constraint)": {
+      "aim_role": "constituent",
+      "primary_aim": "Flourishing",
+      "ch00_measurement": ["3.2 Flourishing", "3.5 Oversight"]
+    },
+    "Safety (Constraint)": {
+      "aim_role": "constituent",
+      "primary_aim": "Flourishing",
+      "ch00_measurement": ["3.2 Flourishing"]
+    },
+    "Trustworthiness": {
+      "aim_role": "constituent",
+      "primary_aim": "Flourishing",
+      "ch00_measurement": ["3.2 Flourishing", "3.5 Oversight"]
+    },
+    "Meaningful Agency": {
+      "aim_role": "constituent",
+      "primary_aim": "Flourishing",
+      "ch00_measurement": ["3.4 Participation", "3.2 Flourishing"]
+    },
+    "Wellbeing": {
+      "aim_role": "outcome_measure",
+      "primary_aim": "Flourishing",
+      "ch00_measurement": ["3.2 Flourishing"],
+      "notes": "Canonical file in Continuity band; primary Flourishing outcome measure — not a constituent."
+    },
+    "Harm": {
+      "aim_role": "measurement_family_member",
+      "primary_aim": "Flourishing",
+      "ch00_measurement": ["3.2 Flourishing"]
+    },
+    "Risk": {
+      "aim_role": "measurement_family_member",
+      "primary_aim": "cross-cutting",
+      "ch00_measurement": ["3.2 Flourishing", "3.3 Continuity"]
+    },
+    "Materiality Determination": {
+      "aim_role": "measurement_family_member",
+      "primary_aim": "cross-cutting",
+      "ch00_measurement": ["3.1 Threshold and scaling"]
+    },
+    "Proxy Divergence": {
+      "aim_role": "measurement_family_member",
+      "primary_aim": "cross-cutting",
+      "ch00_measurement": ["3.5 Oversight", "3.6 Accountability"]
+    },
+    "Ecological Footprint": {
+      "aim_role": "measurement_family_member",
+      "primary_aim": "Continuity",
+      "ch00_measurement": ["3.3 Continuity"]
+    },
+    "Dependency": {
+      "aim_role": "measurement_family_member",
+      "primary_aim": "Continuity",
+      "ch00_measurement": ["3.3 Continuity"]
+    },
+    "Constitutional Efficiency": {
+      "aim_role": "measurement_family_member",
+      "primary_aim": "cross-cutting",
+      "ch00_measurement": ["3.8 Constitutional performance"]
+    },
+    "Material": {
+      "ch00_measurement": ["3.1 Threshold and scaling", "3.5 Oversight"]
+    },
+    "Material Impact": {
+      "ch00_measurement": ["3.1 Threshold and scaling", "3.5 Oversight"]
+    },
+    "Material Risk": {
+      "ch00_measurement": ["3.1 Threshold and scaling", "3.5 Oversight"]
+    },
+    "Material Degradation": {
+      "ch00_measurement": ["3.1 Threshold and scaling", "3.5 Oversight"]
+    },
+    "Materiality Integrity Constraint": {
+      "ch00_measurement": ["3.1 Threshold and scaling", "3.5 Oversight"]
+    },
+    "Materiality Under Uncertainty": {
+      "ch00_measurement": ["3.1 Threshold and scaling", "3.5 Oversight"]
+    },
+    "Avoidable Burden": {
+      "ch00_measurement": ["3.3 Continuity", "3.8 Constitutional performance"]
+    },
+    "Burden-Reduction Duty": {
+      "ch00_measurement": ["3.3 Continuity", "3.8 Constitutional performance"]
+    },
+    "Productive Capacity": {
+      "ch00_measurement": ["3.3 Continuity", "3.8 Constitutional performance"]
+    },
+    "Bodily-Maintenance Access": {
+      "ch00_measurement": ["3.2 Flourishing", "3.3 Continuity"]
+    },
+    "Environmental Preconditions": {
+      "ch00_measurement": ["3.2 Flourishing", "3.3 Continuity"]
+    },
+    "Tenure Security": {
+      "ch00_measurement": ["3.2 Flourishing", "3.3 Continuity"]
+    }
+  }
+}

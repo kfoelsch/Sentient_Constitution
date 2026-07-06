@@ -98,7 +98,7 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 - [Contestability](core_05a_accountability_definitions.md#contestability)
 - [Contested-Sentient Life](core_05p_participation_definitions.md#contested-sentient-life-constitutional)
 - [Contingent Claim](core_05a_accountability_definitions.md#contingent-claim)
-- [Continuity (Constitutional Aim)](core_05c_continuity_definitions.md#continuity-aim-constitutional)
+- [Continuity (Constitutional Aim)](core_05g_continuity_aim.md#continuity-aim-constitutional)
 - [Contribution State](core_05a_accountability_definitions.md#contribution-state)
 - [Corpus](core_05i_integrative_definitions.md#corpus)
 - [Creative Work Attribution](core_05c_continuity_definitions.md#creative-work-attribution-constitutional)
@@ -319,12 +319,12 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 
 <br>
 
-Use this compass before invoking any Chapter Five definition. Chapter Five supplies canonical O/E/C homes for Tetrad legs ([Participation](core_05p_participation_definitions.md#participation-constitutional), [Oversight](core_05o_oversight_definitions.md#oversight-constitutional), [Accountability](core_05a_accountability_definitions.md#accountability), [Timeliness](core_05a_accountability_definitions.md#timeliness-constitutional)) and constitutional aims ([Flourishing](core_05f_flourishing_aim.md#flourishing-constitutional), [Continuity (Constitutional Aim)](core_05c_continuity_definitions.md#continuity-aim-constitutional)); it does not replace the [Constitutional Tetrad](../core_00_preamble.md#constitutional-tetrad), [Two Constitutional Aims](../core_00_preamble.md#two-constitutional-aims), or [material stake](../core_00_preamble.md#material-stake) principle-layer glosses in [Chapter 00 §1](../core_00_preamble.md#the-model).
+Use this compass before invoking any Chapter Five definition. Chapter Five supplies canonical O/E/C homes for Tetrad legs ([Participation](core_05p_participation_definitions.md#participation-constitutional), [Oversight](core_05o_oversight_definitions.md#oversight-constitutional), [Accountability](core_05a_accountability_definitions.md#accountability), [Timeliness](core_05a_accountability_definitions.md#timeliness-constitutional)) and constitutional aims ([Flourishing](core_05f_flourishing_aim.md#flourishing-constitutional), [Continuity (Constitutional Aim)](core_05g_continuity_aim.md#continuity-aim-constitutional)); it does not replace the [Constitutional Tetrad](../core_00_preamble.md#constitutional-tetrad), [Two Constitutional Aims](../core_00_preamble.md#two-constitutional-aims), or [material stake](../core_00_preamble.md#material-stake) principle-layer glosses in [Chapter 00 §1](../core_00_preamble.md#the-model).
 
 **Reading order**
 
 1. This compass and the constitutional bands below — or the [measurement crosswalk](#chapter-five-measurement-crosswalk) when arriving from [Chapter Zero §2–§3](../core_00_preamble.md#measurements-overview).
-2. The [Flourishing aim file](core_05f_flourishing_aim.md#flourishing-aim-decomposition) when routing by **Flourishing** constitutional aim; the band file for the relevant Tetrad leg, **Continuity** band (for the Continuity aim head), or **Integrative** band otherwise.
+2. The [Flourishing aim file](core_05f_flourishing_aim.md#flourishing-aim-decomposition) or [Continuity aim file](core_05g_continuity_aim.md#continuity-aim-decomposition) when routing by constitutional aim; otherwise the band file for the relevant Tetrad leg or **Integrative** band.
 3. Individual definition O/E/C entries; dependent clusters per admission scope.
 4. Where a finding is **non-compliant**, optional [Non-Compliance Finding Profile](core_05a_accountability_definitions.md#non-compliance-finding-profile) metadata per cluster map.
 
@@ -333,6 +333,7 @@ Use this compass before invoking any Chapter Five definition. Chapter Five suppl
 | Band | File | §3 cluster range |
 |---|---|---|
 | **Flourishing aim** | [core_05f_flourishing_aim.md](core_05f_flourishing_aim.md) | aim hierarchy map only — leaf definitions in band files |
+| **Continuity aim** | [core_05g_continuity_aim.md](core_05g_continuity_aim.md) | aim hierarchy map only — leaf definitions in band files |
 | **Oversight leg** | [core_05o_oversight_definitions.md](core_05o_oversight_definitions.md) | **Chapter One §8.2–§3.3** |
 | **Participation leg** | [core_05p_participation_definitions.md](core_05p_participation_definitions.md) | **§3.5–§3.7** |
 | **Accountability leg** | [core_05a_accountability_definitions.md](core_05a_accountability_definitions.md) | **§3.8–Chapter One §8.11** |
@@ -386,6 +387,14 @@ Use this compass before invoking any Chapter Five definition. Chapter Five suppl
 | **Chapter One §8.14** | Privacy (Informational) — peer-level cluster head | Continuity | Flourishing | Chapter One §8.2, §4, §12.1, §12.2 | integrative with **Participation** and **Oversight** | — | [core_05c_continuity_definitions.md](core_05c_continuity_definitions.md) |
 | **Chapter One §8.15** | Trust and Trustworthiness | Continuity | Flourishing | §5, §12.1, §8 | — | — | [core_05c_continuity_definitions.md](core_05c_continuity_definitions.md) |
 | **Chapter One §8.16** | Corpus, Authority Stack, Supremacy, and Enforceability | Integrative | Flourishing | Chapter One §8.1, §4, Chapter One §6.2, §12.2, §10 | **Oversight**, **Accountability**, and **Participation** — authority stack spans all Tetrad legs | — | [core_05i_integrative_definitions.md](core_05i_integrative_definitions.md) |
+| **§3.32** | Resilience, Safety, Reversibility, Self-Healing, Cascading Failure, Existential Risk, Environmental Preconditions, and Wellbeing | Continuity | cross-cutting | Chapter One §8.1, §3.2, §3.3 | integrative with **Flourishing** where wellbeing and safety constituents are implicated | Constitutional **Continuity** aim — not operational uptime. | [core_05c_continuity_definitions.md](core_05c_continuity_definitions.md) |
+| **semi-independent** | Materiality, impact, risk, and proxy integrity | Oversight | cross-cutting | Chapter One §8.2, §3.1, §12.1 | integrative with **Accountability** where incentive alignment is implicated | — | [core_05o_oversight_definitions.md](core_05o_oversight_definitions.md) |
+| **semi-independent** | Constitutional efficiency, productive capacity, avoidable burden, and burden-reduction duty | Continuity | cross-cutting | Chapter One §8.1, §12.1, §3.8 | integrative with **Participation** where productive capacity is implicated | — | [core_05c_continuity_definitions.md](core_05c_continuity_definitions.md) |
+| **semi-independent** | Ecological integrity, footprint, sustainability, and intergenerational responsibility | Continuity | Continuity | Chapter One §8.1, §3.3 | — | Constitutional **Continuity** aim — ecological wellbeing. | [core_05c_continuity_definitions.md](core_05c_continuity_definitions.md) |
+| **semi-independent** | Survival-floor access stack (bodily maintenance, tenure, environmental preconditions) | Continuity | Flourishing | Chapter One §8.1, Article III | integrative with **Flourishing** wellbeing measurement | — | [core_05c_continuity_definitions.md](core_05c_continuity_definitions.md) |
+| **semi-independent** | Accountability, contestability, adjudication, due process, and timeliness | Accountability | cross-cutting | Chapter One §8.1, §11.4, §3.7 | integrative with **Participation** and **Oversight** | — | [core_05a_accountability_definitions.md](core_05a_accountability_definitions.md) |
+| **semi-independent** | Governance architecture, decentralization, concentration, and market structure | Accountability | cross-cutting | Chapter One §13, §8.1 | integrative with **Oversight** where concentration triggers review | — | [core_05a_accountability_definitions.md](core_05a_accountability_definitions.md) |
+| **semi-independent** | Protected reporting and whistleblowing pathways | Accountability | Flourishing | Chapter One §8.2, §12.1 | integrative with **Oversight** verification | — | [core_05a_accountability_definitions.md](core_05a_accountability_definitions.md) |
 
 </details>
 

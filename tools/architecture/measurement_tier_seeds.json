@@ -1,0 +1,1109 @@
+{
+  "ch00_categories": {
+    "3.1 Threshold and scaling": "#measuring-threshold-and-scaling",
+    "3.2 Flourishing": "#measuring-flourishing",
+    "3.3 Continuity": "#measuring-continuity",
+    "3.4 Participation": "#measuring-participation",
+    "3.5 Oversight": "#measuring-oversight",
+    "3.6 Accountability": "#measuring-accountability",
+    "3.7 Timeliness": "#measuring-timeliness",
+    "3.8 Constitutional performance": "#measuring-constitutional-performance"
+  },
+  "terms": {
+    "Wellbeing": {
+      "ch00_category": "3.2 Flourishing",
+      "tier_depth": "full",
+      "status": "approved"
+    },
+    "Safety (Constraint)": {
+      "ch00_category": "3.2 Flourishing",
+      "tier_depth": "full",
+      "status": "approved"
+    },
+    "Proxy Divergence": {
+      "ch00_category": "3.5 Oversight",
+      "tier_depth": "full",
+      "status": "approved"
+    },
+    "Materiality Determination": {
+      "ch00_category": "3.1 Threshold and scaling",
+      "tier_depth": "full",
+      "status": "approved"
+    },
+    "Material": {
+      "ch00_category": "3.1 Threshold and scaling",
+      "tier_depth": "primary_secondary",
+      "status": "approved"
+    },
+    "Material Impact": {
+      "ch00_category": "3.1 Threshold and scaling",
+      "tier_depth": "primary_secondary",
+      "status": "approved"
+    },
+    "Material Risk": {
+      "ch00_category": "3.1 Threshold and scaling",
+      "tier_depth": "primary_secondary",
+      "status": "approved"
+    },
+    "Material Degradation": {
+      "ch00_category": "3.1 Threshold and scaling",
+      "tier_depth": "primary_secondary",
+      "status": "approved"
+    },
+    "Materiality Integrity Constraint": {
+      "ch00_category": "3.1 Threshold and scaling",
+      "tier_depth": "primary_secondary",
+      "status": "approved"
+    },
+    "Materiality Under Uncertainty": {
+      "ch00_category": "3.1 Threshold and scaling",
+      "tier_depth": "primary_secondary",
+      "status": "approved"
+    },
+    "Truth (Constitutional Constraint)": {
+      "ch00_category": "3.5 Oversight",
+      "tier_depth": "full",
+      "status": "approved"
+    },
+    "Trustworthiness": {
+      "ch00_category": "3.5 Oversight",
+      "tier_depth": "full",
+      "status": "approved"
+    },
+    "Meaningful Agency": {
+      "ch00_category": "3.2 Flourishing",
+      "tier_depth": "full",
+      "status": "approved"
+    },
+    "Harm": {
+      "ch00_category": "3.2 Flourishing",
+      "tier_depth": "primary_secondary",
+      "status": "approved"
+    },
+    "Irreversible Harm": {
+      "ch00_category": "3.2 Flourishing",
+      "tier_depth": "primary_secondary",
+      "status": "approved"
+    },
+    "Bodily-Maintenance Access": {
+      "ch00_category": "3.2 Flourishing",
+      "tier_depth": "primary_secondary",
+      "status": "approved"
+    },
+    "Tenure Security": {
+      "ch00_category": "3.2 Flourishing",
+      "tier_depth": "primary_secondary",
+      "status": "approved"
+    },
+    "Environmental Preconditions": {
+      "ch00_category": "3.2 Flourishing",
+      "tier_depth": "primary_secondary",
+      "status": "approved"
+    },
+    "Dependency": {
+      "ch00_category": "3.3 Continuity",
+      "tier_depth": "primary_secondary",
+      "status": "approved"
+    },
+    "Risk": {
+      "ch00_category": "3.2 Flourishing",
+      "tier_depth": "primary_secondary",
+      "status": "approved"
+    },
+    "Ecological Footprint": {
+      "ch00_category": "3.3 Continuity",
+      "tier_depth": "primary_secondary",
+      "status": "approved"
+    },
+    "Reversibility": {
+      "ch00_category": "3.3 Continuity",
+      "tier_depth": "primary_secondary",
+      "status": "approved"
+    },
+    "Cascading Failure": {
+      "ch00_category": "3.3 Continuity",
+      "tier_depth": "primary_secondary",
+      "status": "approved"
+    },
+    "Proportionate Cross-System Support": {
+      "ch00_category": "3.3 Continuity",
+      "tier_depth": "primary_secondary",
+      "status": "approved"
+    },
+    "Sustainability": {
+      "ch00_category": "3.3 Continuity",
+      "tier_depth": "primary_secondary",
+      "status": "approved"
+    },
+    "Accessibility": {
+      "ch00_category": "3.4 Participation",
+      "tier_depth": "primary_secondary",
+      "status": "approved"
+    },
+    "Substantive Fairness": {
+      "ch00_category": "3.4 Participation",
+      "tier_depth": "full",
+      "status": "approved"
+    },
+    "Procedural Fairness": {
+      "ch00_category": "3.4 Participation",
+      "tier_depth": "primary_secondary",
+      "status": "approved"
+    },
+    "Protected Characteristic Proxying and Disparate Impact": {
+      "ch00_category": "3.4 Participation",
+      "tier_depth": "full",
+      "status": "approved"
+    },
+    "Educational Agency": {
+      "ch00_category": "3.4 Participation",
+      "tier_depth": "primary_secondary",
+      "status": "approved"
+    },
+    "Privacy (Informational)": {
+      "ch00_category": "3.4 Participation",
+      "tier_depth": "full",
+      "status": "approved"
+    },
+    "Protected Internal-State Boundary": {
+      "ch00_category": "3.4 Participation",
+      "tier_depth": "primary_secondary",
+      "status": "approved"
+    },
+    "Surveillance Boundary": {
+      "ch00_category": "3.4 Participation",
+      "tier_depth": "primary_secondary",
+      "status": "approved"
+    },
+    "Epistemic Integrity": {
+      "ch00_category": "3.5 Oversight",
+      "tier_depth": "full",
+      "status": "approved"
+    },
+    "Auditability": {
+      "ch00_category": "3.5 Oversight",
+      "tier_depth": "full",
+      "status": "approved"
+    },
+    "Transparency": {
+      "ch00_category": "3.5 Oversight",
+      "tier_depth": "full",
+      "status": "approved"
+    },
+    "Verifiability": {
+      "ch00_category": "3.5 Oversight",
+      "tier_depth": "primary_secondary",
+      "status": "approved"
+    },
+    "Oversight": {
+      "ch00_category": "3.5 Oversight",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Accountability": {
+      "ch00_category": "3.6 Accountability",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Contestability": {
+      "ch00_category": "3.6 Accountability",
+      "tier_depth": "full",
+      "status": "approved"
+    },
+    "Incentive Alignment": {
+      "ch00_category": "3.6 Accountability",
+      "tier_depth": "full",
+      "status": "approved"
+    },
+    "Market Structure": {
+      "ch00_category": "3.6 Accountability",
+      "tier_depth": "full",
+      "status": "approved"
+    },
+    "Concentration Threshold": {
+      "ch00_category": "3.6 Accountability",
+      "tier_depth": "primary_secondary",
+      "status": "approved"
+    },
+    "Protected Reporting (Whistleblowing)": {
+      "ch00_category": "3.6 Accountability",
+      "tier_depth": "primary_secondary",
+      "status": "approved"
+    },
+    "Protected Reporting Retaliation and Access Interference": {
+      "ch00_category": "3.6 Accountability",
+      "tier_depth": "primary_secondary",
+      "status": "approved"
+    },
+    "Timeliness": {
+      "ch00_category": "3.7 Timeliness",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Timely Resolution": {
+      "ch00_category": "3.7 Timeliness",
+      "tier_depth": "full",
+      "status": "approved"
+    },
+    "Capture of Resolution Pathways": {
+      "ch00_category": "3.7 Timeliness",
+      "tier_depth": "full",
+      "status": "approved"
+    },
+    "Constitutional Efficiency": {
+      "ch00_category": "3.8 Constitutional performance",
+      "tier_depth": "full",
+      "status": "approved"
+    },
+    "Avoidable Burden": {
+      "ch00_category": "3.8 Constitutional performance",
+      "tier_depth": "full",
+      "status": "approved"
+    },
+    "Productive Capacity": {
+      "ch00_category": "3.8 Constitutional performance",
+      "tier_depth": "full",
+      "status": "approved"
+    },
+    "Burden-Reduction Duty": {
+      "ch00_category": "3.8 Constitutional performance",
+      "tier_depth": "primary_secondary",
+      "status": "approved"
+    },
+    "Adjudication and Dispute Resolution": {
+      "ch00_category": "3.6 Accountability",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Adversarial, Scaled, and Exploited Conditions": {
+      "ch00_category": "3.5 Oversight",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Animal Life": {
+      "ch00_category": "3.4 Participation",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Anti-Displacement Floor": {
+      "ch00_category": "3.2 Flourishing",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Assembly": {
+      "ch00_category": "3.4 Participation",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Autonomous Coercion Tool": {
+      "ch00_category": "3.2 Flourishing",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Autonomous Lethal System": {
+      "ch00_category": "3.2 Flourishing",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Audit Scope Sufficiency": {
+      "ch00_category": "3.5 Oversight",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Authority Stack and Internal Hierarchy": {
+      "ch00_category": "3.5 Oversight",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Best-Interest Standard": {
+      "ch00_category": "3.4 Participation",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Binding Stakeholder Choice — Decision-Resolution Requirements": {
+      "ch00_category": "3.4 Participation",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Business Creation": {
+      "ch00_category": "3.4 Participation",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Capability Requirement": {
+      "ch00_category": "3.5 Oversight",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Classification-Scaled Governance": {
+      "ch00_category": "3.5 Oversight",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Coercion and Manipulation": {
+      "ch00_category": "3.4 Participation",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Collective Accountability Failure": {
+      "ch00_category": "3.6 Accountability",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Collective Harm Boundary": {
+      "ch00_category": "3.2 Flourishing",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Collective Organization": {
+      "ch00_category": "3.4 Participation",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Combatant / Non-Combatant Distinction": {
+      "ch00_category": "3.2 Flourishing",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Competency Gate": {
+      "ch00_category": "3.6 Accountability",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Consent": {
+      "ch00_category": "3.4 Participation",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Consent, Sexual": {
+      "ch00_category": "3.4 Participation",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Constitutional Community": {
+      "ch00_category": "3.4 Participation",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Constitutional Constraint": {
+      "ch00_category": "3.6 Accountability",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Constitutional Constraint Violation": {
+      "ch00_category": "3.5 Oversight",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Constitutional Contract Layer": {
+      "ch00_category": "3.6 Accountability",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Constitutional Emergency and Contingency": {
+      "ch00_category": "3.3 Continuity",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Constitutional Owner Layers": {
+      "ch00_category": "3.6 Accountability",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Contested-Sentient Life": {
+      "ch00_category": "3.4 Participation",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Contingent Claim": {
+      "ch00_category": "3.6 Accountability",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Contribution State": {
+      "ch00_category": "3.6 Accountability",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Corpus": {
+      "ch00_category": "3.5 Oversight",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Creative Work Attribution": {
+      "ch00_category": "3.2 Flourishing",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Decentralization": {
+      "ch00_category": "3.6 Accountability",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Derived Sentient": {
+      "ch00_category": "3.4 Participation",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Developing Sentient": {
+      "ch00_category": "3.4 Participation",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Dignity and Equal Moral Standing": {
+      "ch00_category": "3.4 Participation",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Distributed Understanding": {
+      "ch00_category": "3.3 Continuity",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Due Process": {
+      "ch00_category": "3.6 Accountability",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Ecological Integrity": {
+      "ch00_category": "3.3 Continuity",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Ecological Recovery Capacity": {
+      "ch00_category": "3.3 Continuity",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Emergency and Contingency": {
+      "ch00_category": "3.3 Continuity",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Emergency Pre-Deliberation Action (Binding Collective Choice)": {
+      "ch00_category": "3.3 Continuity",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Essential-Environment Non-Commodification": {
+      "ch00_category": "3.3 Continuity",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Evaluation Completeness Constraint": {
+      "ch00_category": "3.5 Oversight",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Event-Contract Market": {
+      "ch00_category": "3.6 Accountability",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Evidence Preservation": {
+      "ch00_category": "3.5 Oversight",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Existential Risk": {
+      "ch00_category": "3.3 Continuity",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Expression": {
+      "ch00_category": "3.4 Participation",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Fair Compensation": {
+      "ch00_category": "3.2 Flourishing",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Family and Care Relationships": {
+      "ch00_category": "3.4 Participation",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Feasibility": {
+      "ch00_category": "3.6 Accountability",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Force Majeure": {
+      "ch00_category": "3.6 Accountability",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Foreseeability Burden": {
+      "ch00_category": "3.5 Oversight",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Foreseeability Diligence": {
+      "ch00_category": "3.5 Oversight",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Foreseeability Failure": {
+      "ch00_category": "3.5 Oversight",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Foreseeability Scaling": {
+      "ch00_category": "3.5 Oversight",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Foreseeability Scope": {
+      "ch00_category": "3.5 Oversight",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Forum Family, Constitutional": {
+      "ch00_category": "3.6 Accountability",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Forum Family, Environment": {
+      "ch00_category": "3.6 Accountability",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Forum Family, Institutional": {
+      "ch00_category": "3.6 Accountability",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Forum Family, Integrity": {
+      "ch00_category": "3.6 Accountability",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Forum Family, Sentient": {
+      "ch00_category": "3.6 Accountability",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Forum Family, Technical": {
+      "ch00_category": "3.6 Accountability",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Foundational Constitutional Choice": {
+      "ch00_category": "3.6 Accountability",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Freedom (Bounded Agency)": {
+      "ch00_category": "3.4 Participation",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Game of Chance": {
+      "ch00_category": "3.6 Accountability",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Good Faith": {
+      "ch00_category": "3.6 Accountability",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Governance": {
+      "ch00_category": "3.6 Accountability",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Graduated Capability": {
+      "ch00_category": "3.4 Participation",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Harassment and Bullying": {
+      "ch00_category": "3.2 Flourishing",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Harm Minimization (Tradeoff Selection)": {
+      "ch00_category": "3.6 Accountability",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "High-Impact and Systemic Harm Publication Constraint": {
+      "ch00_category": "3.5 Oversight",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Incentive Alignment — baseline constitutional alignment": {
+      "ch00_category": "3.6 Accountability",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Incentive Alignment — contingent claims, games of chance, and event-contract markets": {
+      "ch00_category": "3.6 Accountability",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Indigenous Continuity": {
+      "ch00_category": "3.3 Continuity",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Info-Sphere": {
+      "ch00_category": "3.4 Participation",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Innovation Reward and Anti-Enclosure": {
+      "ch00_category": "3.6 Accountability",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Insider Advantage": {
+      "ch00_category": "3.6 Accountability",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Instantiation Consent": {
+      "ch00_category": "3.4 Participation",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Intergenerational Responsibility": {
+      "ch00_category": "3.3 Continuity",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Irreversible Deprivation Measure": {
+      "ch00_category": "3.2 Flourishing",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Language, Culture, and Heritage": {
+      "ch00_category": "3.3 Continuity",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Leisure and Rest": {
+      "ch00_category": "3.2 Flourishing",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Lifespan Equivalent Unit (LEQU)": {
+      "ch00_category": "3.4 Participation",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Likeness and Documentary Depiction Interface": {
+      "ch00_category": "3.2 Flourishing",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Merits Determination": {
+      "ch00_category": "3.6 Accountability",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Movement and Relocation": {
+      "ch00_category": "3.4 Participation",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Natural Systems Standing": {
+      "ch00_category": "3.4 Participation",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Necessity": {
+      "ch00_category": "3.6 Accountability",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Negligence": {
+      "ch00_category": "3.6 Accountability",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Non-Imposition (Cooperative Interaction)": {
+      "ch00_category": "3.4 Participation",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Non-Separation": {
+      "ch00_category": "3.4 Participation",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Non-Statelessness": {
+      "ch00_category": "3.4 Participation",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Observability": {
+      "ch00_category": "3.5 Oversight",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Parent-System Relationship": {
+      "ch00_category": "3.4 Participation",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Participant Standing": {
+      "ch00_category": "3.6 Accountability",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Participation": {
+      "ch00_category": "3.4 Participation",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Press and Journalistic Activity": {
+      "ch00_category": "3.5 Oversight",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Primary-Stakes Routing": {
+      "ch00_category": "3.6 Accountability",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Proportionality": {
+      "ch00_category": "3.6 Accountability",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Protected Characteristics": {
+      "ch00_category": "3.4 Participation",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Protected Commercial Sexual Services Status and Article X-C Circumvention": {
+      "ch00_category": "3.4 Participation",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Protected Data and Internal-State Publication Constraint": {
+      "ch00_category": "3.5 Oversight",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Protected Intimate-Signal Gating": {
+      "ch00_category": "3.4 Participation",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Proxy Metric Gaming and Indicator-Reality Gaps": {
+      "ch00_category": "3.5 Oversight",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Psychological Harm": {
+      "ch00_category": "3.2 Flourishing",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Publication Truthfulness and Recklessness Floor": {
+      "ch00_category": "3.5 Oversight",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Reasonably Foreseeable": {
+      "ch00_category": "3.5 Oversight",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Redress and Remediation": {
+      "ch00_category": "3.6 Accountability",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Refuge from Non-Compliance": {
+      "ch00_category": "3.4 Participation",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Reproductive Autonomy": {
+      "ch00_category": "3.4 Participation",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Residual Risk / Misalignment": {
+      "ch00_category": "3.3 Continuity",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Restorative Justice": {
+      "ch00_category": "3.6 Accountability",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Review and Correction Duty": {
+      "ch00_category": "3.3 Continuity",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Risk Evaluation and Disclosure": {
+      "ch00_category": "3.5 Oversight",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Safe Conditions": {
+      "ch00_category": "3.2 Flourishing",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Security-Sensitive Disclosure Balance": {
+      "ch00_category": "3.5 Oversight",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Self-Determination": {
+      "ch00_category": "3.4 Participation",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Self-Healing": {
+      "ch00_category": "3.3 Continuity",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Sentience Non-Exclusion": {
+      "ch00_category": "3.4 Participation",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Sentience Status Adjudication": {
+      "ch00_category": "3.4 Participation",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Sentient": {
+      "ch00_category": "3.4 Participation",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Shared-System Capacity": {
+      "ch00_category": "3.3 Continuity",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Short-Horizon Governance Defect": {
+      "ch00_category": "3.3 Continuity",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Single Catastrophic Incident": {
+      "ch00_category": "3.6 Accountability",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Stakeholder": {
+      "ch00_category": "3.4 Participation",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Stakeholder Emergency and Contingency": {
+      "ch00_category": "3.3 Continuity",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Stakeholder Participation Weight": {
+      "ch00_category": "3.4 Participation",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Stakeholder Representation and Participation-Weight Limits (Binding Stakeholder Choice)": {
+      "ch00_category": "3.4 Participation",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Stakeholder Rights-Collision Record (Binding Stakeholder Choice)": {
+      "ch00_category": "3.4 Participation",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Standing Effect": {
+      "ch00_category": "3.6 Accountability",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Standing Lock": {
+      "ch00_category": "3.6 Accountability",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Standing Record": {
+      "ch00_category": "3.6 Accountability",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Stay": {
+      "ch00_category": "3.6 Accountability",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Stewardship": {
+      "ch00_category": "3.3 Continuity",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Stewardship Defect": {
+      "ch00_category": "3.3 Continuity",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Strategic Stewardship Obligation": {
+      "ch00_category": "3.3 Continuity",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Supremacy and Enforceability": {
+      "ch00_category": "3.5 Oversight",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Sustained High-Gravity Pattern": {
+      "ch00_category": "3.6 Accountability",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "System": {
+      "ch00_category": "3.3 Continuity",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "System Alignment Certification": {
+      "ch00_category": "3.3 Continuity",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "System Boundaries": {
+      "ch00_category": "3.3 Continuity",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "System Boundary Integrity": {
+      "ch00_category": "3.3 Continuity",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "System Capture": {
+      "ch00_category": "3.3 Continuity",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "System Creation": {
+      "ch00_category": "3.4 Participation",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Systemic": {
+      "ch00_category": "3.3 Continuity",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Systemic Lock-In": {
+      "ch00_category": "3.3 Continuity",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Systemic Materiality": {
+      "ch00_category": "3.3 Continuity",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Top-Slot Review": {
+      "ch00_category": "3.6 Accountability",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Training-Data Use": {
+      "ch00_category": "3.2 Flourishing",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Trust": {
+      "ch00_category": "3.5 Oversight",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Trust Degradation and Misleading Reliance": {
+      "ch00_category": "3.5 Oversight",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Unified Incident": {
+      "ch00_category": "3.6 Accountability",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Unified Record": {
+      "ch00_category": "3.6 Accountability",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Use of Force": {
+      "ch00_category": "3.2 Flourishing",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Verification Accessibility": {
+      "ch00_category": "3.5 Oversight",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Verification Feasibility": {
+      "ch00_category": "3.5 Oversight",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Verification Independence": {
+      "ch00_category": "3.5 Oversight",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Verification Proportionality": {
+      "ch00_category": "3.5 Oversight",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Verification Robustness": {
+      "ch00_category": "3.5 Oversight",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Verified Inputs for Standing": {
+      "ch00_category": "3.6 Accountability",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Verified Violation Findings": {
+      "ch00_category": "3.6 Accountability",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Violation Nature": {
+      "ch00_category": "3.6 Accountability",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Volitional Integrity": {
+      "ch00_category": "3.4 Participation",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Voluntary Discontinuation": {
+      "ch00_category": "3.3 Continuity",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Weapons of Mass Harm": {
+      "ch00_category": "3.2 Flourishing",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    }
+  }
+}

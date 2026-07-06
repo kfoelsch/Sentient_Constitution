@@ -149,6 +149,27 @@
       "status": "blocking"
     },
     {
+      "id": "CH5-HIER-01",
+      "legacy_ref": "Definition hierarchy map",
+      "summary": "Layer stack, orthogonal tags, placement rules; generated definition_hierarchy index.",
+      "make_target": "hierarchy-map",
+      "status": "advisory"
+    },
+    {
+      "id": "MEAS-DEF-01",
+      "legacy_ref": "Measurement-informed E/C",
+      "summary": "Definition-anchored primary/secondary/tertiary measurement tiers inform E and C authoring; O stays ontological.",
+      "make_target": "ch5-measurement-tier-audit",
+      "status": "blocking"
+    },
+    {
+      "id": "MEAS-COVERAGE",
+      "legacy_ref": "Measurement seed/hierarchy coverage",
+      "summary": "Seed ↔ hierarchy ch00_measurement sync and bidirectional Ch00 §3 owner links.",
+      "make_target": "ch5-measurement-coverage-audit",
+      "status": "blocking"
+    },
+    {
       "id": "ROUTER-CJS21",
       "legacy_ref": "implementation routing",
       "summary": "Cross-implementation topic routing via CJS-2.1.",
