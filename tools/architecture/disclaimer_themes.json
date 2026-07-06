@@ -1,0 +1,192 @@
+{
+  "version": 1,
+  "description": "Disclaimer theme families for Chapter Five thinning inventory (DISC-INV-01).",
+  "themes": [
+    {
+      "id": "global_integrity_negative",
+      "label": "Global integrity negative (harm / deception / capture / proxy divorce)",
+      "patterns": [
+        "does not authorize",
+        "license for harm",
+        "license for deception",
+        "captured governance",
+        "proxy metrics divorced",
+        "rest on harm, deception",
+        "treating .* as a license"
+      ],
+      "canonical_home": "core_01_c_stewardship_capacity_principles.md §11.1.2; core_01_a_values_principles.md §3 Safety/Truth; Proxy Divergence",
+      "default_action": "thin",
+      "notes": "Fold duplicate negatives into principle layer + Trace; keep at most one enforceable C line per aim/cluster."
+    },
+    {
+      "id": "proxy_metrics",
+      "label": "Proxy / engagement / self-report substitution",
+      "patterns": [
+        "proxy throughput",
+        "engagement metrics",
+        "institutional self-report",
+        "institutional assertion",
+        "symbolic compliance",
+        "busywork",
+        "metrics that no longer prove",
+        "distinguish durable .* from proxy",
+        "tertiary integrity check"
+      ],
+      "canonical_home": "core_05o_oversight_definitions.md Proxy Divergence; core_01_c_stewardship_capacity_principles.md §11.1.2",
+      "default_action": "thin",
+      "canonical_terms": ["Proxy Divergence", "Materiality Integrity Constraint"],
+      "notes": "Tertiary measurement checks may become single Trace read-with Proxy Divergence."
+    },
+    {
+      "id": "instrumental_only",
+      "label": "Instrumental-only / does not rank outcomes",
+      "patterns": [
+        "instrumental only",
+        "does not define, rank, or substitute",
+        "does not define or substitute",
+        "does not rank or substitute"
+      ],
+      "canonical_home": "core_01_c_stewardship_capacity_principles.md §11 + §14 Systemic Evaluation",
+      "default_action": "thin",
+      "notes": "O line can stay positive; instrumental frame moves to principle layer."
+    },
+    {
+      "id": "layer_separation",
+      "label": "Governance layer separation (authorization vs participation)",
+      "patterns": [
+        "constitutional contract layer",
+        "stakeholder system participation",
+        "authorization layer",
+        "foundational constitutional choice",
+        "not a substitute for constitutional authorization",
+        "does not erase duties owed under"
+      ],
+      "canonical_home": "core_00_preamble.md §4–§5; core_05i_integrative_definitions.md Constitutional Contract cluster",
+      "default_action": "thin",
+      "canonical_terms": [
+        "Constitutional Contract Layer",
+        "Foundational Constitutional Choice",
+        "Supremacy and Enforceability"
+      ],
+      "notes": "One canonical exposition + short local pointer; remove repeated full layer essays."
+    },
+    {
+      "id": "not_substitute",
+      "label": "Not a substitute / backstops not substitutes",
+      "patterns": [
+        "not a substitute for",
+        "not substitutes for",
+        "backstops, not substitutes",
+        "not itself a pathway",
+        "not an excuse to skip",
+        "not an excuse for",
+        "does not permanently excuse"
+      ],
+      "canonical_home": "core_01_c_stewardship_capacity_principles.md §9; core_01_b_interaction_interpretation.md §6",
+      "default_action": "thin",
+      "notes": "Keep where term-specific routing is material; thin generic restatements."
+    },
+    {
+      "id": "neighbor_disambiguation",
+      "label": "Neighbor term disambiguation (distinct from …)",
+      "patterns": [
+        "distinct from \\[",
+        "is distinct from",
+        "distinct from but complementary",
+        "disambiguation:"
+      ],
+      "canonical_home": "(local term pair — no global fold)",
+      "default_action": "keep",
+      "notes": "Required O boundary per Chapter Two §2.1; do not centralize."
+    },
+    {
+      "id": "anti_formalism",
+      "label": "Anti-formalism / label-gaming evasion block",
+      "patterns": [
+        "human-in-the-loop",
+        "rubber-stamp",
+        "rubber-stamps",
+        "formal relabeling",
+        "nominal .* does not",
+        "taxonomy-of-convenience",
+        "declared intent where",
+        "formal classification is relevant evidence but cannot"
+      ],
+      "canonical_home": "core_02-04_definition_mechanics.md Chapter Three §2; term-specific C where gamed",
+      "default_action": "review",
+      "notes": "Pattern is global; instance often must stay on the gamed term."
+    },
+    {
+      "id": "pointer_disclaimer",
+      "label": "Pointer / does not restate elsewhere",
+      "patterns": [
+        "does not itself restate",
+        "does not restate the full",
+        "does not restate",
+        "this entry is a .* pointer",
+        "chapter five pointer",
+        "canonical rules appear in chapter"
+      ],
+      "canonical_home": "Trace widget links only",
+      "default_action": "thin",
+      "notes": "Replace with Trace upstream/downstream bullets."
+    },
+    {
+      "id": "rights_floor_jurisdiction",
+      "label": "Rights-Floor jurisdiction / does not displace Ch6",
+      "patterns": [
+        "does not displace",
+        "does not create a separate rights-floor",
+        "rights-floor concept",
+        "owner floor:",
+        "chapter six rights floor"
+      ],
+      "canonical_home": "core_06-06_rights_part_*.md; Trace routing",
+      "default_action": "keep",
+      "notes": "Keep short jurisdictional line or standard Trace boilerplate."
+    },
+    {
+      "id": "scope_exclusion",
+      "label": "Term-specific scope exclusion (does not include/govern/extend)",
+      "patterns": [
+        "does not include",
+        "does not govern",
+        "does not extend",
+        "does not reduce",
+        "does not create",
+        "does not itself impose",
+        "does not classify"
+      ],
+      "canonical_home": "(local O boundary)",
+      "default_action": "review",
+      "notes": "Many are legitimate O exclusions; triage per term."
+    },
+    {
+      "id": "symbolic_participation",
+      "label": "Symbolic / theater participation negative",
+      "patterns": [
+        "advisory theater",
+        "symbolic influence",
+        "symbolic participation",
+        "nominal consultation",
+        "substantive from formal"
+      ],
+      "canonical_home": "core_01_c_stewardship_capacity_principles.md §11; Participation definition",
+      "default_action": "thin",
+      "canonical_terms": ["Participation"],
+      "notes": "Canonical on Participation O/E/C; thin duplicates on cluster entries."
+    },
+    {
+      "id": "corpus_placement",
+      "label": "Corpus placement (non-operative reader guidance)",
+      "patterns": [
+        "reader guidance only",
+        "does not add, remove, or narrow binding obligations",
+        "non-operative"
+      ],
+      "canonical_home": "(file-top widget — out of thinning scope)",
+      "default_action": "exclude",
+      "notes": "Excluded from DISC-INV actionable counts."
+    }
+  ]
+}

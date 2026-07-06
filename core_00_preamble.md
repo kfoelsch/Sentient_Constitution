@@ -194,6 +194,8 @@ Where Chapter Six, [Chapter Seven](core_07-07_system_alignment_certification.md#
 - **Correction and remedy** ([Chapter Nine §3.11](core_09-09_standing_integration.md#redress-remedy-and-restoration-in-the-standing-model)) — fix the underlying failure and provide proportionate acknowledgment, repair, restoration, or compensation for those harmed
 - **Forum review** ([Chapter Eleven](core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction)) — route disputes and certification challenges through supervised forums that support evidence, lawful transfer, and timely clocks under **Article XXIV-C**
 
+<a id="governance-layer-discipline"></a>
+
 Governance to fulfill the [**Constitutional Tetrad**](#constitutional-tetrad) under our Constitution has two related but distinct layers:
 
 - The [**Constitutional Contract Layer**](core_05i_integrative_definitions.md#constitutional-contract-layer) governs the authorization of governing authority itself — who may govern, by what legitimacy mechanism, and under what scope and durable terms.

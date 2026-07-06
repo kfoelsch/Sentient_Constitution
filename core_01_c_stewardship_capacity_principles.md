@@ -464,7 +464,20 @@ Authorized roles, competency development, and paths into material responsibility
 
 Those pathways must support [**Meaningful Agency**](core_05p_participation_definitions.md#meaningful-agency) and advance the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) through the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) **participation** and **accountability** legs, scaled to [material stake](core_00_preamble.md#material-stake).
 
-They **must not** treat **symbolic** participation as a **substitute** for **consequential** duty where impact requires the latter.
+They **must not** treat **symbolic** participation as a **substitute** for **consequential** duty where impact requires the latter. Read [§11.1.5 Constitutional Outcome Claims Discipline](#1115-constitutional-outcome-claims-discipline).
+
+<a id="1115-constitutional-outcome-claims-discipline"></a>
+##### 11.1.5 Constitutional Outcome Claims Discipline
+
+Claims that a system, policy, or measure advances the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims), [Wellbeing](core_05c_continuity_definitions.md#wellbeing), [Productive Capacity](core_05c_continuity_definitions.md#productive-capacity-constitutional), [Constitutional Efficiency](core_05c_continuity_definitions.md#constitutional-efficiency), [Participation](core_05p_participation_definitions.md#participation-constitutional), or comparable constitutional outcomes **must not** rest on:
+
+- foreseeable harm or deception prohibited under [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint) and [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint);
+- [System Capture](core_05c_continuity_definitions.md#system-capture) or governance arrangements that hollow the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) below [material stake](core_00_preamble.md#material-stake); or
+- [Proxy Divergence](core_05o_oversight_definitions.md#proxy-divergence) — proxy throughput, engagement metrics, institutional self-report, or symbolic compliance standing in for traceable constitutional outcomes under **Chapter Four**.
+
+Instrumental measures — including efficiency ratios and [Market Structure](core_05a_accountability_definitions.md#market-structure-constitutional) discipline — **must remain** traceable to the outcomes they instrument and **must not** displace the Rights Floor in **Chapter Six** or stronger adopter protections where applicable.
+
+**Symbolic participation** — nominal consultation, advisory theater, or influence without consequential effect — **must not** substitute for participation required under [material stake](core_00_preamble.md#material-stake). Read [§11.1.4](#1114-role-depth-and-material-responsibility-pathways).
 
 <a id="112-convenient-proxies-and-proxy-divergence"></a>
 #### 11.2 Convenient Proxies and Proxy Divergence
