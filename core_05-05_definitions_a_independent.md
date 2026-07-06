@@ -323,7 +323,7 @@ Use this compass before invoking any Chapter Five definition. Chapter Five suppl
 
 **Reading order**
 
-1. This compass and the constitutional bands below.
+1. This compass and the constitutional bands below — or the [measurement crosswalk](#chapter-five-measurement-crosswalk) when arriving from [Chapter Zero §2–§3](../core_00_preamble.md#measurements-overview).
 2. The band file for the relevant Tetrad leg, **Continuity** band, or **Integrative** band.
 3. Individual definition O/E/C entries; dependent clusters per admission scope.
 4. Where a finding is **non-compliant**, optional [Non-Compliance Finding Profile](core_05a_accountability_definitions.md#non-compliance-finding-profile) metadata per cluster map.
@@ -337,6 +337,28 @@ Use this compass before invoking any Chapter Five definition. Chapter Five suppl
 | **Accountability leg** | [core_05a_accountability_definitions.md](core_05a_accountability_definitions.md) | **§3.8–Chapter One §8.11** |
 | **Continuity leg** | [core_05c_continuity_definitions.md](core_05c_continuity_definitions.md) | **Chapter One §8.12–Chapter One §8.15** |
 | **Integrative leg** | [core_05i_integrative_definitions.md](core_05i_integrative_definitions.md) | **Chapter One §8.16** |
+
+<a id="chapter-five-measurement-crosswalk"></a>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): Chapter Zero measurement crosswalk</span></strong></summary>
+
+> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this chapter or in other chapters.
+>
+> [Chapter Zero §2–§3](../core_00_preamble.md#measurements-overview) lists eight constitutional **measurement categories** — the questions operators ask when evaluating systems. Chapter Five organizes **canonical definitions** by Tetrad leg, **Continuity** aim, and **Integrative** cross-leg ownership. The table below maps each measurement category to its Chapter Five homes. A category may span more than one band file; canonical homes do not move when measurement categories overlap.
+
+| Ch00 category | Plain question | Chapter Five band homes | Split-placement notes |
+|---|---|---|---|
+| [§3.1 Threshold and scaling](../core_00_preamble.md#measuring-threshold-and-scaling) | Is the effect serious enough to trigger stronger duties? | [Oversight](core_05o_oversight_definitions.md) | [Material](core_05o_oversight_definitions.md#material), [Material Impact](core_05o_oversight_definitions.md#material-impact), [Material Risk](core_05o_oversight_definitions.md#material-risk), [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination), and related semi-independent cluster |
+| [§3.2 Flourishing](../core_00_preamble.md#measuring-flourishing) | Are sentients sustained in life, safety, and access to essentials? | [Participation](core_05p_participation_definitions.md), [Continuity](core_05c_continuity_definitions.md), [Accountability](core_05a_accountability_definitions.md) | **Flourishing** is a constitutional **aim**, not a Tetrad leg — terms split by substantive owner: [Flourishing](core_05p_participation_definitions.md#flourishing-constitutional), [Wellbeing](core_05c_continuity_definitions.md#wellbeing), [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint), survival-floor terms, [Harm](core_05a_accountability_definitions.md#harm) |
+| [§3.3 Continuity](../core_00_preamble.md#measuring-continuity) | Can sentients and systems endure — ecologically, dependably, and across failure? | [Continuity](core_05c_continuity_definitions.md) | Ecological footprint, dependency, reversibility, cascading failure, cross-system support, and related clusters |
+| [§3.4 Participation](../core_00_preamble.md#measuring-participation) | Can affected sentients take part fairly — voice, access, learning, and privacy? | [Participation](core_05p_participation_definitions.md), [Continuity](core_05c_continuity_definitions.md) | Fairness, access, and agency terms in **Participation** band; [Privacy (Informational)](core_05c_continuity_definitions.md#privacy-informational-cluster) cluster in **Continuity** band because privacy is distributed across rights articles |
+| [§3.5 Oversight](../core_00_preamble.md#measuring-oversight) | Can sentients see, verify, and rely on what systems represent? | [Oversight](core_05o_oversight_definitions.md), [Continuity](core_05c_continuity_definitions.md) | Truth and epistemic integrity in **Oversight** band; [Trustworthiness](core_05c_continuity_definitions.md#trustworthiness) and [Trust Degradation and Misleading Reliance](core_05c_continuity_definitions.md#trust-degradation-and-misleading-reliance) in **Continuity** band (cluster 3.15) |
+| [§3.6 Accountability](../core_00_preamble.md#measuring-accountability) | Do reward structures, market power, and answerability keep duties real? | [Accountability](core_05a_accountability_definitions.md), [Integrative](core_05i_integrative_definitions.md) | Market structure and contestability in **Accountability** band; [Incentive Alignment](core_05i_integrative_definitions.md#incentive-alignment) in **Integrative** band because incentives span Tetrad legs |
+| [§3.7 Timeliness](../core_00_preamble.md#measuring-timeliness) | Are disputes, corrections, and repairs resolved while remedy still matters? | [Accountability](core_05a_accountability_definitions.md) | [Timeliness](core_05a_accountability_definitions.md#timeliness-constitutional), [Timely Resolution](core_05a_accountability_definitions.md#timely-resolution-constitutional), [Capture of Resolution Pathways](core_05a_accountability_definitions.md#capture-of-resolution-pathways) — Timeliness is a Tetrad leg co-owned with accountability terms |
+| [§3.8 Constitutional performance](../core_00_preamble.md#measuring-constitutional-performance) | Are constitutional outcomes delivered efficiently without pointless waste? | [Continuity](core_05c_continuity_definitions.md) | Cross-cutting outcome measures: [Constitutional Efficiency](core_05c_continuity_definitions.md#constitutional-efficiency), [Avoidable Burden](core_05c_continuity_definitions.md#avoidable-burden), [Productive Capacity](core_05c_continuity_definitions.md#productive-capacity-constitutional) — instrumental to both aims; no separate band file |
+
+</details>
 
 ---
 
