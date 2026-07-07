@@ -1,4 +1,4 @@
-# Incorporation bridge
+# CHAPTER SIXTEEN: INCORPORATION BRIDGE
 
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
@@ -8,11 +8,6 @@
 > This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter Sixteen**, the constitutional bridge to incorporated implementation files. Read with the [**Corpus**](core_05i_integrative_definitions.md#corpus) entry in [Chapter Five](core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) and [Chapters Thirteen through Fifteen](core_13-15_amendment.md#chapter-thirteen-non-regression-and-substantive-amendment-validity) for adoption and validity controls. Incorporated implementation text must not narrow substantive constitutional meaning in Chapters One through Eleven — including the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) and [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims). Chapter numbering and cross-references match the integrated instrument. Reading order, the binding/support split, and corpus edition metadata are maintained in [README.md](README.md).
 
 </details>
-
-<br>
-
----
-## CHAPTER SIXTEEN: INCORPORATION BRIDGE
 
 <details>
 <summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): where Chapter Sixteen lives and what stays here</span></strong></summary>

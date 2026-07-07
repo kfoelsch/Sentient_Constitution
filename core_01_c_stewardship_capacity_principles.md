@@ -1,4 +1,7 @@
-# Stewardship and Governance (Chapter One, Part C)
+<a id="chapter-01-principles-and-constraints"></a>
+<a id="chapter-01-part-b-stewardship-and-governance"></a>
+<a id="chapter-01-part-c-stewardship-and-governance"></a>
+# CHAPTER 01, PART C: STEWARDSHIP AND GOVERNANCE
 
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
@@ -31,12 +34,6 @@
 </details>
 
 <br>
-
----
-<a id="chapter-01-principles-and-constraints"></a>
-<a id="chapter-01-part-b-stewardship-and-governance"></a>
-<a id="chapter-01-part-c-stewardship-and-governance"></a>
-## CHAPTER 01, PART C: STEWARDSHIP AND GOVERNANCE
 
 <a id="9-stewardship-and-distributed-understanding"></a>
 ### 9. Stewardship and Distributed Understanding

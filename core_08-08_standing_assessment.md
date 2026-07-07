@@ -1,4 +1,7 @@
-# Contribution, violation, and standing
+<a id="chapter-eight-compliance-violation-and-standing-model"></a>
+# CHAPTER EIGHT: CONTRIBUTION, VIOLATION, AND STANDING MODEL — CLASSIFICATION
+
+*Non-operative subtitle:* Flourishing and Accountability measurement under Tetrad discipline.
 
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
@@ -11,7 +14,6 @@
 
 <br>
 
----
 <a id="chapters-eight-eleven-constitutional-compass"></a>
 
 ### Measure, integrate, guard, and supervise: Chapters Eight through Eleven
@@ -47,13 +49,6 @@ This pipeline is a **constitutional coordination and resolution system**: verify
 </details>
 
 <br>
-
----
-<a id="chapter-eight-compliance-violation-and-standing-model"></a>
-
-## CHAPTER EIGHT: CONTRIBUTION, VIOLATION, AND STANDING MODEL — CLASSIFICATION
-
-*Non-operative subtitle:* Flourishing and Accountability measurement under Tetrad discipline.
 
 <a id="chapter-eight-part-a-orientation"></a>
 

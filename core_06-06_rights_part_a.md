@@ -1,4 +1,4 @@
-# Foundational Rights (Part A)
+# CHAPTER SIX: FOUNDATIONAL RIGHTS
 
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
@@ -8,11 +8,6 @@
 > This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter Six, Part A**; article numbering and cross-references match the integrated instrument. Reading order, the binding/support split, and corpus edition metadata are maintained in [README.md](README.md).
 
 </details>
-
-<br>
-
----
-## CHAPTER SIX: FOUNDATIONAL RIGHTS
 
 <details>
 <summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): reading order and fulfillment</span></strong></summary>

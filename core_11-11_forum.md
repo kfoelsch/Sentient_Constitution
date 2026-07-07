@@ -1,4 +1,7 @@
-# Forums and jurisdiction
+<a id="chapter-eleven-forums-and-jurisdiction"></a>
+# CHAPTER ELEVEN: FORUMS AND JURISDICTION
+
+*Non-operative subtitle:* Participation, oversight, and supervision in dispute handling.
 
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
@@ -10,13 +13,6 @@
 </details>
 
 <br>
-
----
-## CHAPTER ELEVEN: FORUMS AND JURISDICTION
-
-<a id="chapter-eleven-forums-and-jurisdiction"></a>
-
-*Non-operative subtitle:* Participation, oversight, and supervision in dispute handling.
 
 <details>
 <summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): where Chapter Eleven lives and what stays here</span></strong></summary>

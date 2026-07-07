@@ -1,4 +1,7 @@
-# Chapters Eight–Eleven application vignettes
+<a id="chapters-eight-eleven-application-vignettes"></a>
+# CHAPTERS EIGHT–ELEVEN: PIPELINE APPLICATION VIGNETTES
+
+*Non-operative subtitle:* Illustrative domain walkthroughs for standing, forum supervision, and timely resolution.
 
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
@@ -10,13 +13,6 @@
 </details>
 
 <br>
-
----
-<a id="chapters-eight-eleven-application-vignettes"></a>
-
-## CHAPTERS EIGHT–ELEVEN: PIPELINE APPLICATION VIGNETTES
-
-*Non-operative subtitle:* Illustrative domain walkthroughs for standing, forum supervision, and timely resolution.
 
 <details>
 <summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): how to use these vignettes</span></strong></summary>

@@ -103,6 +103,43 @@ def title_for_details(lines: list[str], details_idx: int) -> tuple[int, str] | N
     return title_idx, lines[title_idx].rstrip()
 
 
+# File-top orientation widgets are not Trace / definition entries; the
+# separator-above-title and post-block ``<br>`` spacer rules below apply to
+# Trace blocks, not these. File-top spacing is governed by
+# ``file_top_placement_audit`` and ``nav_widget_spacer_audit`` instead.
+_NONENTRY_WIDGET_MARKERS = (
+    "Corpus placement (non-operative):",
+    "Reader guidance (non-operative):",
+)
+
+
+def nonentry_widget_detail_lines(lines: list[str]) -> tuple[set[int], set[int]]:
+    """Line indices of ``<details>``/``</details>`` for non-entry widgets."""
+    opens: set[int] = set()
+    closes: set[int] = set()
+    for idx, raw in enumerate(lines):
+        if raw.strip() != "<details>":
+            continue
+        summary_idx = idx + 1
+        if summary_idx >= len(lines):
+            continue
+        if not any(marker in lines[summary_idx] for marker in _NONENTRY_WIDGET_MARKERS):
+            continue
+        opens.add(idx)
+        depth = 1
+        j = idx + 1
+        while j < len(lines) and depth:
+            stripped = lines[j].strip()
+            if stripped == "<details>":
+                depth += 1
+            elif stripped == "</details>":
+                depth -= 1
+                if depth == 0:
+                    closes.add(j)
+            j += 1
+    return opens, closes
+
+
 def iter_titles(lines: list[str]) -> list[tuple[int, str, bool]]:
     titles: list[tuple[int, str, bool]] = []
     for idx, raw in enumerate(lines):
@@ -183,8 +220,12 @@ def audit_one_ch5_file(path: pathlib.Path, violations: list[str]) -> None:
             f"{path}:{idx + 2}: trace-bearing Chapter Five headings must keep a blank line between the heading and '<details>' so the Trace block renders with consistent spacing"
         )
 
+    nonentry_open, nonentry_close = nonentry_widget_detail_lines(lines)
+
     for idx, raw in enumerate(lines):
         if raw.strip() != "<details>":
+            continue
+        if idx in nonentry_open:
             continue
         title_info = title_for_details(lines, idx)
         if title_info is None:
@@ -207,6 +248,8 @@ def audit_one_ch5_file(path: pathlib.Path, violations: list[str]) -> None:
 
     for idx, raw in enumerate(lines):
         if raw.strip() != "</details>":
+            continue
+        if idx in nonentry_close:
             continue
         if idx + 3 >= len(lines):
             violations.append(

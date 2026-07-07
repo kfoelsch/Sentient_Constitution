@@ -1,4 +1,5 @@
-# Preamble
+<a id="chapter-00-preamble--foundational-requirements"></a>
+# CHAPTER 00: PREAMBLE / FOUNDATIONAL REQUIREMENTS
 
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
@@ -13,13 +14,9 @@
 
 <br>
 
----
-<a id="chapter-00-preamble--foundational-requirements"></a>
-## CHAPTER 00: PREAMBLE / FOUNDATIONAL REQUIREMENTS
-
 The freedom, survival, and wellbeing of sentients are inseparable from the systems we create, inhabit, and depend on. As those systems grow in scope, interdependence, and power, so do the risks of irreversible, large-scale harm. These risks remain ever present and materially relevant.
 
-A system cannot stay legitimate by making people suffer when that suffering was preventable, by ignoring problems that keep happening, by quietly shifting harm onto others, or by locking people out of the systems that shape their lives. How systems are designed, tested, and run must support survival, wellbeing, dignity, honesty, and lasting stability.
+A system cannot stay legitimate by making sentients suffer when that suffering was preventable, by ignoring problems that keep happening, by quietly shifting harm onto others, or by locking sentients out of the systems that shape their lives. How systems are designed, tested, and run must support survival, wellbeing, dignity, honesty, and lasting stability.
 
 We intend to build better systems — structured to eliminate these imbalances — and to replace them with institutions that are more accountable, more robust, and more responsive to the real needs of all sentients. This Constitution begins that work with a better model for how we can work together justly, effectively, and sustainably.
 

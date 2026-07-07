@@ -1,4 +1,5 @@
-# Interaction and Interpretation (Chapter One, Part B)
+<a id="chapter-01-part-b-interaction-and-interpretation"></a>
+# CHAPTER 01, PART B: INTERACTION AND INTERPRETATION
 
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
@@ -14,10 +15,6 @@
 </details>
 
 <br>
-
----
-<a id="chapter-01-part-b-interaction-and-interpretation"></a>
-## CHAPTER 01, PART B: INTERACTION AND INTERPRETATION
 
 <a id="6-process-conflict-resolution"></a>
 ### 6. Process Conflict Resolution

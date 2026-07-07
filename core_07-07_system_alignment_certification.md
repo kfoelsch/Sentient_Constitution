@@ -1,4 +1,8 @@
-# System Alignment Certification
+<a id="chapter-seven-system-alignment-certification"></a>
+<a id="chapter-seven-system-alignment-certification-and-recognition"></a>
+# CHAPTER SEVEN: SYSTEM ALIGNMENT CERTIFICATION
+
+*Non-operative subtitle:* Forum-supervised certification records before standing.
 
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
@@ -13,14 +17,6 @@
 </details>
 
 <br>
-
----
-<a id="chapter-seven-system-alignment-certification"></a>
-<a id="chapter-seven-system-alignment-certification-and-recognition"></a>
-
-## CHAPTER SEVEN: SYSTEM ALIGNMENT CERTIFICATION
-
-*Non-operative subtitle:* Forum-supervised certification records before standing.
 
 ### 1. Purpose and Role
 

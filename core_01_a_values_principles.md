@@ -1,4 +1,4 @@
-# Values Principles (Chapter One, Part A)
+# CHAPTER 01, PART A: VALUES PRINCIPLES
 
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
@@ -13,9 +13,6 @@
 </details>
 
 <br>
-
----
-## CHAPTER 01, PART A: VALUES PRINCIPLES
 
 
 ### 1. Purpose and Role

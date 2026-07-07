@@ -1,4 +1,4 @@
-# Foundational Rights (Part B)
+# CHAPTER SIX: FOUNDATIONAL RIGHTS
 
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
@@ -19,9 +19,6 @@
 </details>
 
 <br>
-
----
-## CHAPTER SIX: FOUNDATIONAL RIGHTS
 
 ### Part B: Personhood, education capability, agency, cooperation, and stakeholder system participation
 

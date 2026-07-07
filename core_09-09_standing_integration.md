@@ -1,4 +1,8 @@
-# Standing effects and integration
+<a id="chapter-nine-standing-effects-and-integration"></a>
+<a id="chapter-eight-compliance-violation-and-standing-model"></a>
+# CHAPTER NINE: STANDING EFFECTS AND INTEGRATION
+
+*Non-operative subtitle:* Tetrad-preserving consequences for verified standing.
 
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
@@ -10,14 +14,6 @@
 </details>
 
 <br>
-
----
-<a id="chapter-nine-standing-effects-and-integration"></a>
-<a id="chapter-eight-compliance-violation-and-standing-model"></a>
-
-## CHAPTER NINE: STANDING EFFECTS AND INTEGRATION
-
-*Non-operative subtitle:* Tetrad-preserving consequences for verified standing.
 
 <a id="chapter-seven-part-a-orientation"></a>
 

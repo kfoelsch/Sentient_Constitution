@@ -1,4 +1,4 @@
-# Foundational Rights (Part C)
+# CHAPTER SIX: FOUNDATIONAL RIGHTS
 
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
@@ -19,9 +19,6 @@
 </details>
 
 <br>
-
----
-## CHAPTER SIX: FOUNDATIONAL RIGHTS
 
 ### Part C: Trustworthy systems, security and force limits, information integrity, verification, lifecycle, and resilience
 

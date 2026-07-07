@@ -39,11 +39,26 @@ def parse_args() -> argparse.Namespace:
     return parser.parse_args()
 
 
+HEADING_RE = re.compile(r"^#{1,6} ")
+
+
 def file_top_region(lines: list[str]) -> list[str]:
-    """Lines before the first ## heading."""
+    """File-top block: the leading title heading plus the widgets beneath it.
+
+    The block runs from the start of the file through the leading ``#`` title
+    and any Corpus placement / reader-guidance widgets, stopping at the first
+    section heading that follows the title. This supports files whose single
+    visible title is the chapter heading itself (``# CHAPTER …``) with body
+    sections at ``###`` and no intervening ``##``.
+    """
     region: list[str] = []
+    seen_title = False
     for line in lines:
-        if line.startswith("## "):
+        if HEADING_RE.match(line):
+            if not seen_title:
+                seen_title = True
+                region.append(line)
+                continue
             break
         region.append(line)
     return region
@@ -76,6 +91,8 @@ def visible_file_top_prose_lines(region: list[str]) -> list[tuple[int, str]]:
                 in_details = False
             continue
         if stripped in {"", "<br>", "---"}:
+            continue
+        if stripped.startswith("*Non-operative subtitle:*"):
             continue
         if stripped.startswith(allowed_prefixes):
             continue

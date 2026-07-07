@@ -1,4 +1,8 @@
-# Anti-Constitutional Misconduct
+<a id="chapter-eight-tiered-anti-constitutional-misconduct"></a>
+<a id="chapter-ten-anti-constitutional-misconduct"></a>
+# CHAPTER TEN: ANTI-CONSTITUTIONAL MISCONDUCT
+
+*Non-operative subtitle:* Continuity and tetrad-capture guard at Violation Axis **s = 7, 8, or 9**.
 
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
@@ -10,14 +14,6 @@
 </details>
 
 <br>
-
----
-<a id="chapter-eight-tiered-anti-constitutional-misconduct"></a>
-<a id="chapter-ten-anti-constitutional-misconduct"></a>
-
-## CHAPTER TEN: ANTI-CONSTITUTIONAL MISCONDUCT
-
-*Non-operative subtitle:* Continuity and tetrad-capture guard at Violation Axis **s = 7, 8, or 9**.
 
 This chapter is used only for the most serious anti-constitutional misconduct. It does not cover every violation, and it does not create a separate process. Its job is to decide whether a verified anti-constitutional violation belongs in one of the three highest **Violation Axis** slots: **s = 7**, **s = 8**, or **s = 9**.
 

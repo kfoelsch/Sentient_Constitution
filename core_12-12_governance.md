@@ -1,4 +1,5 @@
-# Constitutional contract, legitimacy, authorization, and stewardship
+<a id="chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship"></a>
+# CHAPTER TWELVE: CONSTITUTIONAL CONTRACT, LEGITIMACY, AUTHORIZATION, AND STEWARDSHIP
 
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
@@ -8,12 +9,6 @@
 > This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter Twelve**, the **Constitutional Contract Layer** — constitutional legitimacy and stewardship requirements for governing authority, distinct from **Stakeholder System Participation** in already-authorized systems ([Chapter 00](core_00_preamble.md#chapter-00-preamble--foundational-requirements)). Amendment and adoption validity controls continue in [Chapters Thirteen through Fifteen](core_13-15_amendment.md#chapter-thirteen-non-regression-and-substantive-amendment-validity). Chapter numbering and cross-references match the integrated instrument. Reading order, the binding/support split, and corpus edition metadata are maintained in [README.md](README.md).
 
 </details>
-
-<br>
-
----
-<a id="chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship"></a>
-## CHAPTER TWELVE: CONSTITUTIONAL CONTRACT, LEGITIMACY, AUTHORIZATION, AND STEWARDSHIP
 
 <details>
 <summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): where this chapter lives and what stays here</span></strong></summary>
