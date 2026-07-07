@@ -454,4 +454,4 @@ This cluster is the joint-invocation home for operative corpus identity, authori
 
 **Previous file:** [core_05c_continuity_definitions.md](core_05c_continuity_definitions.md)
 
-**Next file:** [core_07-07_system_alignment_certification.md](core_07-07_system_alignment_certification.md)
+**Next file:** [core_05m_performance_definitions.md](core_05m_performance_definitions.md)

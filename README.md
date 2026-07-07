@@ -43,6 +43,7 @@ The corpus is written in plain language with low jargon to improve accessibility
   - Accountability band — §1/§2/§3 **§3.8–§3.11** — [`core_05a_accountability_definitions.md`](core_05a_accountability_definitions.md)
   - Continuity band — §1/§2/§3 **§3.12–§3.15** — [`core_05c_continuity_definitions.md`](core_05c_continuity_definitions.md)
   - Integrative band — §1/§2/§3 **§3.16** — [`core_05i_integrative_definitions.md`](core_05i_integrative_definitions.md)
+  - Constitutional Performance band — Chapter Zero §3.8 measurement-family home (leaf definitions currently in the Continuity band) — [`core_05m_performance_definitions.md`](core_05m_performance_definitions.md)
 
 ### Standing pipeline and forums
 

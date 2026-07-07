@@ -36,6 +36,37 @@ This band holds **Oversight**-leg definitions from the [Constitutional Tetrad](.
 
 ---
 
+<a id="threshold-scaling-measurement-family"></a>
+
+### Measuring Threshold and Scaling (Chapter Zero §3.1 measurement family)
+
+*Chapter Five home for the [Chapter Zero §3.1 *Measuring Threshold and Scaling*](core_00_preamble.md#measuring-threshold-and-scaling) measurement family. Chapter Zero keeps the plain-language category question; the family table, constitutional use, and definition routing live here.*
+
+| Measurement family | Plain question | Main constitutional use |
+|---|---|---|
+| **Materiality** | Is the effect serious enough to trigger stronger duties? | Scales Tetrad legs and duty intensity to constitutional significance |
+
+This measure asks whether effects are constitutionally serious enough to trigger stronger duties — the threshold gate that scales every [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) leg to [**material stake**](core_00_preamble.md#material-stake). Operative measurement tiers live on Chapter Five definition homes in [Materiality, impact, risk, and proxy integrity](core_05o_oversight_definitions.md#materiality-semi-independent); primary owner: [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination). Progress tracker: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md).
+
+*Materially* in body text may invoke this family; capitalized **Material** terms are governed by the Chapter Five definitions.
+
+---
+
+<a id="oversight-measurement-family"></a>
+
+### Measuring Oversight (Chapter Zero §3.5 measurement family)
+
+*Chapter Five home for the [Chapter Zero §3.5 *Measuring Oversight*](core_00_preamble.md#measuring-oversight) measurement family. Chapter Zero keeps the plain-language category question; the family table, constitutional use, and definition routing live here.*
+
+| Measurement family | Plain question | Main constitutional use |
+|---|---|---|
+| Truth and epistemic integrity | Are claims, records, and disclosures honest enough for safe decisions? | Protects informed participation, remedy, and correction |
+| Trustworthiness | Is reliance justified, or is trust being degraded? | Protects sentients from false confidence and misleading reliance |
+
+These measures ask whether sentients can see, verify, and rely on what materially impactful systems represent — the **oversight** leg of the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), read together with **truth** and **trustworthiness** under the [**Flourishing**](core_00_preamble.md#flourishing) aim. Operative measurement tiers live on Chapter Five definition homes — see [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint), [Epistemic Integrity](core_05o_oversight_definitions.md#epistemic-integrity), [Transparency](core_05o_oversight_definitions.md#transparency), [Auditability](core_05o_oversight_definitions.md#auditability), [Verifiability](core_05o_oversight_definitions.md#verifiability), [Proxy Divergence](core_05o_oversight_definitions.md#proxy-divergence), [Trustworthiness](core_05c_continuity_definitions.md#trustworthiness), and [Oversight](core_05o_oversight_definitions.md#oversight-constitutional) (link-only leg-head rollup). Progress tracker: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md). Binding reliability, audit, or review requirements arise when Chapter Six, [Chapter Seven](core_07-07_system_alignment_certification.md#chapter-seven-system-alignment-certification), or incorporated instruments expressly require them.
+
+---
+
 ### Oversight: Independent terms
 
 <a id="adversarial-scaled-and-exploited-conditions"></a>

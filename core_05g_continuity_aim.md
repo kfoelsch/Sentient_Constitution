@@ -74,6 +74,23 @@ Each definition listed under this aim applies within the scope set by its parent
 
 ---
 
+<a id="continuity-measurement-family"></a>
+
+### Measuring Continuity (Chapter Zero §3.3 measurement family)
+
+*Chapter Five home for the [Chapter Zero §3.3 *Measuring Continuity*](core_00_preamble.md#measuring-continuity) measurement family. Chapter Zero keeps the plain-language category question; the family table, constitutional use, and definition routing live here. **Continuity** is a constitutional aim, not a Tetrad leg — see [aim decomposition](#continuity-aim-decomposition).*
+
+| Measurement family | Plain question | Main constitutional use |
+|---|---|---|
+| Ecological footprint and environmental preconditions | What environmental burden is being created or shifted? | Supports disclosure, comparison, and stewardship under **Articles I-A** and **I-B** |
+| Resilience, reversibility, and systemic risk | Can failures be contained, reversed, and escalated honestly? | Covers cascading effects, existential risk, and self-healing integrity |
+| Dependency and resource flows | Are shared dependencies visible and sustained? | Prevents extraction without traceable return under **Article IV-A** |
+| Cross-system support | Does documented return sustain shared infrastructure and ecological repair? | Evaluates [Proportionate Cross-System Support](core_05c_continuity_definitions.md#proportionate-cross-system-support-constitutional) under **Article IV-B** |
+
+These measurements seek to assess environmental burden, shared dependencies, resource flows, and long-horizon systemic risk under the [**Continuity**](core_00_preamble.md#continuity) constitutional aim. Operative measurement tiers live on Chapter Five definition homes — see [Ecological Footprint](core_05c_continuity_definitions.md#ecological-footprint), [Environmental Preconditions](core_05c_continuity_definitions.md#environmental-preconditions-constitutional), [Dependency](core_05c_continuity_definitions.md#dependency), [Reversibility](core_05c_continuity_definitions.md#reversibility-constitutional), [Cascading Failure](core_05c_continuity_definitions.md#cascading-failure), [Proportionate Cross-System Support](core_05c_continuity_definitions.md#proportionate-cross-system-support-constitutional), and [Sustainability](core_05c_continuity_definitions.md#sustainability); cluster routing for resilience and systemic risk: [Chapter Five §3.32](core_05c_continuity_definitions.md#resilience-safety-reversibility-self-healing-and-systemic-harm-cluster). Progress tracker: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md). **Articles I-B**, **IV-A**, and **IV-B** orient disclosure and comparison; they do not, by themselves, impose binding footprint-reduction duties, prescribe allocation formulas or funding models, or require equal splits, fixed percentages, or a single funding model. Under **Article IV-B**, traceable return distinguishes **cross-system system support** from **ecological support**; both are evaluated through [Proportionate Cross-System Support](core_05c_continuity_definitions.md#proportionate-cross-system-support-constitutional). Prioritization of reductions, mapping, allocation, and correction is determined by Chapter Six, [Chapter Seven](core_07-07_system_alignment_certification.md#chapter-seven-system-alignment-certification), incorporated instruments, or other constitutional provisions that expressly require them.
+
+---
+
 **Previous file:** [core_05f_flourishing_aim.md](core_05f_flourishing_aim.md)
 
 **Next file:** [core_05o_oversight_definitions.md](core_05o_oversight_definitions.md)

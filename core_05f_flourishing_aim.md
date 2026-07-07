@@ -85,6 +85,22 @@ Each definition listed under this aim applies within the scope set by its parent
 
 ---
 
+<a id="flourishing-measurement-family"></a>
+
+### Measuring Flourishing (Chapter Zero §3.2 measurement family)
+
+*Chapter Five home for the [Chapter Zero §3.2 *Measuring Flourishing*](core_00_preamble.md#measuring-flourishing) measurement family. Chapter Zero keeps the plain-language category question; the family table, constitutional use, and definition routing live here. **Flourishing** is a constitutional aim, not a Tetrad leg — see [aim decomposition](#flourishing-aim-decomposition).*
+
+| Measurement family | Plain question | Main constitutional use |
+|---|---|---|
+| [Wellbeing](core_05c_continuity_definitions.md#wellbeing) | Are sentients sustained in function, agency, and supporting conditions? | Tracks the core **Flourishing** outcome — not proxy engagement or throughput |
+| Safety, harm, and risk | Is foreseeable harm prevented, contained, and honestly assessed? | Applies [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint) across normal, degraded, and adversarial conditions |
+| Survival-floor access | Can sentients reach essentials — food, water, shelter, care, stable environment? | Verifies **Article III-A** and related survival-floor delivery in practice |
+
+These measures ask whether systems actually sustain sentient life, function, and agency — the core substance of the [**Flourishing**](core_00_preamble.md#flourishing) constitutional aim. They are outcome measures, not substitutes for the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad). Operative measurement tiers live on Chapter Five definition homes — see [Wellbeing](core_05c_continuity_definitions.md#wellbeing), [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint), [Harm](core_05a_accountability_definitions.md#harm), [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint), [Trustworthiness](core_05c_continuity_definitions.md#trustworthiness), [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency), and survival-floor primaries [Bodily-Maintenance Access](core_05c_continuity_definitions.md#bodily-maintenance-access-constitutional), [Tenure Security](core_05c_continuity_definitions.md#tenure-security-constitutional), [Environmental Preconditions](core_05c_continuity_definitions.md#environmental-preconditions-constitutional). Progress tracker: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md). Read with [Chapter Seven §1A Whole-System Certification Evaluation](core_07-07_system_alignment_certification.md#1a-whole-system-certification-evaluation) where whole-system effects, survival-floor delivery, or **Safe Conditions** are materially in scope.
+
+---
+
 **Previous file:** [core_05-05_definitions_a_independent.md](core_05-05_definitions_a_independent.md)
 
 **Next file:** [core_05g_continuity_aim.md](core_05g_continuity_aim.md)

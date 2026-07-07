@@ -20,7 +20,11 @@ from ch5_measurement_tier_audit import (  # noqa: E402
 
 CH00_FILE = "core_00_preamble.md"
 SKIP_AIM_ROLES = frozenset({"aim_head"})
-CLUSTER_ANCHOR_SUFFIXES = ("-cluster", "-semi-independent")
+# Non-leaf routing anchors that a Chapter Zero §3.x section may link without the
+# target being a seeded leaf definition: cluster heads, semi-independent cluster
+# heads, and the Chapter Five measurement-family home sections (the relocated
+# §3.x family tables and narrative).
+CLUSTER_ANCHOR_SUFFIXES = ("-cluster", "-semi-independent", "-measurement-family")
 
 SECTION_RE = re.compile(r"^#### (3\.\d+ Measuring[^\n]+)$", re.MULTILINE)
 CH5_LINK_RE = re.compile(r"\]\((core_05[^)#]+)(#([^)]+))?\)")

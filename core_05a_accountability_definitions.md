@@ -38,6 +38,36 @@ This band holds **Accountability**-leg definitions: contestability, redress, gov
 
 ---
 
+<a id="accountability-measurement-family"></a>
+
+### Measuring Accountability (Chapter Zero §3.6 measurement family)
+
+*Chapter Five home for the [Chapter Zero §3.6 *Measuring Accountability*](core_00_preamble.md#measuring-accountability) measurement family. Chapter Zero keeps the plain-language category question; the family table, constitutional use, and definition routing live here.*
+
+| Measurement family | Plain question | Main constitutional use |
+|---|---|---|
+| Incentive alignment and proxy integrity | Do rewards and metrics track real constitutional outcomes? | Detects perverse incentives, capture, and [Proxy Divergence](core_05o_oversight_definitions.md#proxy-divergence) |
+| Market structure and contestability | Can entry, exit, bargaining, and alternatives remain real? | Applies anti-concentration and anti-domination discipline where capacity claims depend on open markets |
+
+These measures ask whether reward structures, market power, and answerability keep the **accountability** leg of the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) real in practice — not merely present on paper. Operative measurement tiers live on Chapter Five definition homes — see [Incentive Alignment](core_05i_integrative_definitions.md#incentive-alignment), [Proxy Divergence](core_05o_oversight_definitions.md#proxy-divergence), [Contestability](core_05a_accountability_definitions.md#contestability), [Market Structure](core_05a_accountability_definitions.md#market-structure-constitutional), [Concentration Threshold](core_05a_accountability_definitions.md#concentration-threshold-constitutional), [Protected Reporting (Whistleblowing)](core_05a_accountability_definitions.md#protected-reporting-whistleblowing), and [Accountability](core_05a_accountability_definitions.md#accountability) (link-only leg-head rollup). Progress tracker: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md). Read with [Chapter One §11 Incentive Alignment and System Capture](core_01_c_stewardship_capacity_principles.md#11-incentive-alignment-and-system-capture), [§13 Market Structure](core_01_c_stewardship_capacity_principles.md#13-market-structure), and [Chapter Seven §1A.7 Governance, Incentive, and Contestability Discipline](core_07-07_system_alignment_certification.md#1a7-governance-incentive-and-contestability-discipline).
+
+---
+
+<a id="timeliness-measurement-family"></a>
+
+### Measuring Timeliness (Chapter Zero §3.7 measurement family)
+
+*Chapter Five home for the [Chapter Zero §3.7 *Measuring Timeliness*](core_00_preamble.md#measuring-timeliness) measurement family. Chapter Zero keeps the plain-language category question; the family table, constitutional use, and definition routing live here.*
+
+| Measurement family | Plain question | Main constitutional use |
+|---|---|---|
+| [Timely Resolution](core_05a_accountability_definitions.md#timely-resolution-constitutional) | Are disputes resolved while remedy still matters? | Prevents delay from hollowing rights |
+| Anti-delay and resolution-pathway discipline | Do incentives and structures avoid designed backlog, capture, and hollow deadlines? | Detects delay regimes and [Capture of Resolution Pathways](core_05a_accountability_definitions.md#capture-of-resolution-pathways) |
+
+These measures ask whether process clocks, resolution pathways, and repair velocity keep the **timeliness** leg of the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) real in practice — not merely present on paper. Operative measurement tiers live on Chapter Five definition homes — see [Timely Resolution](core_05a_accountability_definitions.md#timely-resolution-constitutional), [Capture of Resolution Pathways](core_05a_accountability_definitions.md#capture-of-resolution-pathways), and [Timeliness](core_05a_accountability_definitions.md#timeliness-constitutional) (link-only leg-head rollup). Progress tracker: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md). **Timeliness** also runs through the other three Tetrad legs; participation, oversight, and accountability must happen in time to be useful. Read with [Chapter Eleven §10](core_11-11_forum.md#10-timely-resolution-materiality-tiers-and-anti-delay-discipline).
+
+---
+
 ### Accountability: Independent terms
 
 <a id="contingent-claim"></a>

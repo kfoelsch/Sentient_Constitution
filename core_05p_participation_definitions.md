@@ -46,6 +46,21 @@ This band holds **Participation**-leg definitions: accessibility, agency, consen
 
 ---
 
+<a id="participation-measurement-family"></a>
+
+### Measuring Participation (Chapter Zero §3.4 measurement family)
+
+*Chapter Five home for the [Chapter Zero §3.4 *Measuring Participation*](core_00_preamble.md#measuring-participation) measurement family. Chapter Zero keeps the plain-language category question; the family table, constitutional use, and definition routing live here.*
+
+| Measurement family | Plain question | Main constitutional use |
+|---|---|---|
+| Fairness, access, and agency | Are affected sentients treated fairly, able to take part, and able to learn? | Guards against exclusion, disparate impact, and hollow access |
+| Privacy and data stewardship | Is informational self-determination preserved across handling lifecycles? | Prevents segmentation, read-across, and exposure pressure from defeating voice |
+
+These measures ask whether affected sentients can exercise real voice, fair treatment, substantive access, and learning opportunity — the **participation** leg of the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), scaled to [material stake](core_00_preamble.md#material-stake). Operative measurement tiers live on Chapter Five definition homes — see [Substantive Fairness](core_05p_participation_definitions.md#substantive-fairness-constitutional), [Protected Characteristic Proxying and Disparate Impact](core_05p_participation_definitions.md#protected-characteristic-proxying-and-disparate-impact), [Accessibility](core_05p_participation_definitions.md#accessibility-constitutional), [Educational Agency](core_05p_participation_definitions.md#educational-agency), [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency), and the [Privacy (Informational) cluster](core_05c_continuity_definitions.md#privacy-informational-cluster) in the Continuity band. Progress tracker: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md). Binding nondiscrimination, accommodation, education, or privacy requirements arise when Chapter Six, [Chapter Seven](core_07-07_system_alignment_certification.md#chapter-seven-system-alignment-certification), or incorporated instruments expressly require them.
+
+---
+
 ### Participation: Independent terms
 
 ### 1. Independent Definitions

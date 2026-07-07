@@ -2,7 +2,7 @@
 
 Auto-generated. Do not edit by hand.
 
-Generated: 2026-07-06T21:33:43+00:00
+Generated: 2026-07-07T09:15:08+00:00
 
 Grouped by Chapter Zero measurement category. **Approved** terms must carry `*Measurements:*` and tier-aligned **E**/**C** per [doc_architecture.md](../doc_architecture.md) MEAS-DEF-01.
 Approved progress: **219/219** terms pass tier audit.

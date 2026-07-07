@@ -590,6 +590,6 @@ Evasion of this chapter's obligations is governed by [Chapter Three §1 — Defi
 
 ---
 
-**Previous file:** [core_05i_integrative_definitions.md](core_05i_integrative_definitions.md)
+**Previous file:** [core_05m_performance_definitions.md](core_05m_performance_definitions.md)
 
 **Next file:** [core_08-08_standing_assessment.md](core_08-08_standing_assessment.md)

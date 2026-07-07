@@ -19,6 +19,7 @@ CORE_FILES = (
     "core_05a_accountability_definitions.md",
     "core_05c_continuity_definitions.md",
     "core_05i_integrative_definitions.md",
+    "core_05m_performance_definitions.md",
     "core_07-07_system_alignment_certification.md",
     "core_08-08_standing_assessment.md",
     "core_09-09_standing_integration.md",
