@@ -165,7 +165,7 @@ Chapter Zero [§2–§3](../core_00_preamble.md#measurements-overview) names con
 
 | Component | Measurement role |
 |-----------|------------------|
-| **O** | Unchanged — what the term is. Do not encode metrics, proxies, or assessment procedures in O. |
+| **O** | What the term is — concept sentence plus mandatory **In scope** / **Out of scope** sub-bullets (consolidated or dimensional). Do not encode metrics, proxies, or assessment procedures in O. |
 | **E** | How the term must be assessed — primary trace, secondary co-measures, tertiary integrity checks. E specifies assessment scope and conditions; it does not prescribe pass/fail outcomes. |
 | **C** | What must hold in practice — observable satisfaction and non-compliance, including distinct failure modes aligned to primary, secondary, and tertiary measurement duties. |
 
@@ -182,7 +182,8 @@ Not every definition requires all three tiers. Independent building blocks may d
 **Entry placement** (Chapter Five leaf definition)
 
 1. Trace `</details>` → `<br>` (existing NAV-DEC-12-SPACER discipline where applicable).
-2. **O** — ontological component.
+2. **O** — ontological component: concept sentence plus mandatory In scope / Out of scope sub-bullets.
+2b. **Scope sub-bullets** — at least one In scope (consolidated `- In scope:` or dimensional `- In scope — {dimension}:`) and one `- Out of scope:` under O.
 3. **`*Measurements:*`** — visible italic label followed by tier bullets (Primary / Secondary / Tertiary as needed). Link Ch00 category anchors and Chapter Five co-measure terms.
 4. **E** — structured assessment duties; use **Primary assessment.**, **Secondary co-assessment.**, and **Tertiary integrity check.** sublabels when multiple tiers apply.
 5. **C** — satisfaction rule plus tier-aligned failure modes; use **Primary failure.**, **Secondary failure.**, and **Tertiary failure.** sublabels when multiple tiers apply.

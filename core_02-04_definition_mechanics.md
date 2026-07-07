@@ -90,6 +90,11 @@ Ontological components define the subject of the definition. Ontological compone
 
 Ontological components must reflect functional reality. They must not rely on formal classification, labeling, jurisdiction, or declared intent where such representations diverge from actual system behavior or effects.
 
+Every O component MUST include at least one **In scope** sub-bullet and at least one **Out of scope** sub-bullet as indented children under `- O:` (or `- **O:**`):
+- **Flexible In scope form:** either a single consolidated `- In scope:` line, or one or more dimensional lines using `- In scope — {dimension}:` (e.g. domains, sentients, spaces, substrates).
+- The opening O sentence remains the concept statement; scope sub-bullets carry inclusion and exclusion boundaries — not evaluation procedures or compliance outcomes.
+- Optional additional bullets (e.g. `- Not narrowed here:`, `- *Term* is distinct from …`) may follow scope sub-bullets when they clarify boundaries without replacing In scope / Out of scope.
+
 #### 2.2 Evaluative Components (E) — How It Must Be Assessed
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>

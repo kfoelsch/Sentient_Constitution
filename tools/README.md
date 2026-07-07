@@ -13,7 +13,7 @@ Put a **blank line before** `---` when you mean a horizontal rule between sectio
 | Article reference integrity (Chapter Six part files) | `make reference-audit` |
 | Regression scenario matrix checks | `make scenario-audit` |
 | Blocking regression bundle | `make regression` |
-| Markdown / prose / definitions gravity | `make corpus-markdown-audit`, `make prose-continuity-audit`, `make ch5-definitions-gravity-audit`, `make ch5-trace-crosslink-audit` |
+| Markdown / prose / definitions gravity | `make corpus-markdown-audit`, `make prose-continuity-audit`, `make ch5-definitions-gravity-audit`, `make ch5-o-scope-audit`, `make ch5-trace-crosslink-audit` |
 | Corpus navigation footer chain and formatting | `make footer-audit` |
 | Trace / D/E/C / reader-guidance `<br>` spacer discipline | `make nav-widget-spacer-audit` |
 | Trace → D/E/C widget order (definition carrier immediately after Trace) | `make trace-dec-widget-order-audit` |

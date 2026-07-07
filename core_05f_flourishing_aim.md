@@ -33,6 +33,8 @@ This entry is the canonical Chapter Five home for the **Flourishing** constituti
 #### Flourishing
 
 - O: The constitutional aim of preserving and advancing sentient wellbeing through systems that sustain [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint), [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint), [Trustworthiness](core_05c_continuity_definitions.md#trustworthiness), and [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency).
+  - In scope: constitutional aim evaluation across Flourishing constituent families and measurement families linked from [aim decomposition](#flourishing-aim-decomposition).
+  - Out of scope: per-term leaf-definition scope, measurement tiers, and operational implementation detail owned by band files and CJS.
 <a id="flourishing-constitutional-e"></a>
 - E: Evaluate under the [Constitutional Tetrad](../core_00_preamble.md#constitutional-tetrad), scaled to [material stake](../core_00_preamble.md#material-stake). Trace claimed flourishing effects to [constituent](#flourishing-aim-decomposition) conditions and to sentient-experienced outcomes under Chapter Four discipline and [Chapter One §11.1.5](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline). Read paired with [Continuity (Constitutional Aim)](core_05g_continuity_aim.md#continuity-aim-constitutional) — short-horizon gains that foreseeably degrade long-horizon stability, resilience, or ecological integrity fail **Flourishing** when evaluated as an integrated aim pair.
 <a id="flourishing-constitutional-c"></a>

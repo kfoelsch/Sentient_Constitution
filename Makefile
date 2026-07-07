@@ -1,7 +1,7 @@
 PYTHON ?= python3
 READABILITY_MAX_GRADE ?= 14.0
 
-.PHONY: reference-audit primitive-retirement-audit section-abbreviation-descriptor-audit scenario-audit prose-continuity-audit corpus-markdown-audit footer-audit nav-widget-spacer-audit trace-dec-widget-order-audit file-top-placement-audit trace-routing-prose-audit in-paragraph-link-audit in-paragraph-link-audit-report ch5-definitions-gravity-audit ch5-trace-crosslink-audit ch5-entry-format-audit ch5-alphabetical-directory-audit ch5-single-definition-audit ch5-dec-widget-audit ch5-cross-file-link-audit ch5-cluster-order-audit ch1-dec-order-audit ch9-trace-audit subarticle-gloss-audit lexical-vocabulary-audit lexical-vocabulary-audit-evidence ci-cjs-relocation-audit ci-cjs-relocation-audit-evidence router-bidirectional-audit router-bidirectional-sync plain-language-audit plain-language-audit-evidence cjs-operational-cluster-audit cjs5-cluster-term-order-audit ch1-cjs5-alignment-audit ch1-ch6-alignment-audit measurement-anchor-audit ch5-measurement-tier-audit ch5-measurement-coverage-audit measurement-rollout-status disclaimer-inventory owner-discipline-audit definition-appropriateness-audit definition-appropriateness-audit-evidence architecture-inventory architecture-index doc-architecture-section-audit regression regression-full regression-ch7-stack-ab reference-audit-evidence prose-continuity-audit-evidence readability-audit readability-audit-with-gloss readability-audit-evidence readability-top-candidates readability-top-candidates-evidence best-practices-check best-practices-check-evidence todo-close-check scoring-v1 alignment-audit ai-manifest-generate ai-manifest-validate ai-manifest-regenerate ai-corpus-sync ai-corpus-help
+.PHONY: reference-audit primitive-retirement-audit section-abbreviation-descriptor-audit scenario-audit prose-continuity-audit corpus-markdown-audit footer-audit nav-widget-spacer-audit trace-dec-widget-order-audit file-top-placement-audit trace-routing-prose-audit in-paragraph-link-audit in-paragraph-link-audit-report ch5-definitions-gravity-audit ch5-o-scope-audit ch5-trace-crosslink-audit ch5-entry-format-audit ch5-alphabetical-directory-audit ch5-single-definition-audit ch5-dec-widget-audit ch5-cross-file-link-audit ch5-cluster-order-audit ch1-dec-order-audit ch9-trace-audit subarticle-gloss-audit lexical-vocabulary-audit lexical-vocabulary-audit-evidence ci-cjs-relocation-audit ci-cjs-relocation-audit-evidence router-bidirectional-audit router-bidirectional-sync plain-language-audit plain-language-audit-evidence cjs-operational-cluster-audit cjs5-cluster-term-order-audit ch1-cjs5-alignment-audit ch1-ch6-alignment-audit measurement-anchor-audit ch5-measurement-tier-audit ch5-measurement-coverage-audit measurement-rollout-status disclaimer-inventory owner-discipline-audit definition-appropriateness-audit definition-appropriateness-audit-evidence architecture-inventory architecture-index doc-architecture-section-audit regression regression-full regression-ch7-stack-ab reference-audit-evidence prose-continuity-audit-evidence readability-audit readability-audit-with-gloss readability-audit-evidence readability-top-candidates readability-top-candidates-evidence best-practices-check best-practices-check-evidence todo-close-check scoring-v1 alignment-audit ai-manifest-generate ai-manifest-validate ai-manifest-regenerate ai-corpus-sync ai-corpus-help
 
 reference-audit:
 	$(PYTHON) tools/reference_audit.py --root .
@@ -59,6 +59,9 @@ in-paragraph-link-audit-report:
 
 ch5-definitions-gravity-audit:
 	$(PYTHON) tools/ch5_definitions_gravity_audit.py --root .
+
+ch5-o-scope-audit:
+	$(PYTHON) tools/ch5_o_scope_audit.py --root .
 
 ch5-trace-crosslink-audit:
 	$(PYTHON) tools/ch5_trace_crosslink_audit.py --root .
@@ -167,6 +170,7 @@ regression:
 		trace-routing-prose-audit \
 		in-paragraph-link-audit \
 		ch5-definitions-gravity-audit \
+		ch5-o-scope-audit \
 		ch5-trace-crosslink-audit \
 		ch5-entry-format-audit \
 		ch5-alphabetical-directory-audit \
