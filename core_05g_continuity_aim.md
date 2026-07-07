@@ -20,7 +20,7 @@
 
 - Upstream: [Chapter Five compass](core_05-05_definitions_a_independent.md#chapter-five-compass-and-definition-map); [Two Constitutional Aims](../core_00_preamble.md#two-constitutional-aims); principle-layer gloss at [Chapter 00 §1](../core_00_preamble.md#continuity).
 - Downstream: Principles: [Chapter One §8.1 Resilience and Self-Healing Design](core_01_a_values_principles.md#41-resilience-and-self-healing-design); [§12 Shared-System Capacity](core_01_c_stewardship_capacity_principles.md#12-shared-system-capacity); [aim decomposition](#continuity-aim-decomposition); Continuity band clusters **Chapter One §8.12–Chapter One §8.15** and related semi-independent topic groups in [core_05c_continuity_definitions.md](core_05c_continuity_definitions.md).
-- Read with: [Stewardship](core_05c_continuity_definitions.md#stewardship-constitutional), [Ecological Integrity](core_05c_continuity_definitions.md#ecological-integrity-constitutional), [Dependency](core_05c_continuity_definitions.md#dependency), [Chapter One §11.1.5 Constitutional Outcome Claims Discipline](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline), [Flourishing](core_05f_flourishing_aim.md#flourishing-constitutional) (paired aim — neither may be pursued at the expense of the other), and [Chapter Zero §3.3 *Measuring Continuity*](../core_00_preamble.md#measuring-continuity).
+- Read with: [Stewardship](core_05c_continuity_definitions.md#stewardship-constitutional), [Ecological Integrity](core_05c_continuity_definitions.md#ecological-integrity-constitutional), [Dependency](core_05c_continuity_definitions.md#dependency), [Chapter One §11.1.5 Constitutional Outcome Claims Discipline](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline), [Flourishing](core_05f_flourishing_aim.md#flourishing-constitutional) (paired aim — neither may be pursued at the expense of the other), and Continuity measurement family.
 
 </details>
 
@@ -40,7 +40,7 @@ This entry is the canonical Chapter Five home for the **Continuity** constitutio
 <a id="continuity-aim-constitutional-c"></a>
 - C: Non-compliant: treating **Continuity** as indefinite deferral of correction; stability claims resting on hidden risk transfer, irreversible harm, or ecological burden-shifting; operational "continuity" framing used to defeat [Contestability](core_05a_accountability_definitions.md#contestability) or [Timely Resolution](core_05a_accountability_definitions.md#timely-resolution-constitutional); pursuit of **Continuity** that materially defeats [Flourishing](core_05f_flourishing_aim.md#flourishing-constitutional) without express interaction-rule permission under [Chapter One §9](core_01_b_interaction_interpretation.md#6-process-conflict-resolution).
 
-**Measurement families** ([Chapter Zero §3.3 *Measuring Continuity*](../core_00_preamble.md#measuring-continuity)) — link-only rollup; per-term tiers live on leaf definitions. Family routing: [aim decomposition](#continuity-aim-decomposition). Progress tracker: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md). Searchable index: [definition hierarchy](doc_architecture/generated/definition_hierarchy.md).
+**Measurement families** (Continuity measurement family) — link-only rollup; per-term tiers live on leaf definitions. Family routing: [aim decomposition](#continuity-aim-decomposition). Progress tracker: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md). Searchable index: [definition hierarchy](doc_architecture/generated/definition_hierarchy.md).
 
 ---
 
@@ -59,8 +59,8 @@ Each definition listed under this aim applies within the scope set by its parent
 - **Stability and resilience** — [Stewardship](core_05c_continuity_definitions.md#stewardship-constitutional), [Self-Healing](core_05c_continuity_definitions.md#self-healing-constitutional), [§3.32 resilience cluster](core_05c_continuity_definitions.md#resilience-safety-reversibility-self-healing-and-systemic-harm-cluster); read with [Cascading Failure](core_05c_continuity_definitions.md#cascading-failure) and [Existential Risk](core_05c_continuity_definitions.md#existential-risk).
 - **Sustainability** — [Sustainability](core_05c_continuity_definitions.md#sustainability); cluster [Ecological integrity, footprint, sustainability, and intergenerational responsibility](core_05c_continuity_definitions.md#ecological-integrity-footprint-sustainability-and-intergenerational-responsibility-cluster).
 - **Ecological wellbeing** — [Ecological Integrity](core_05c_continuity_definitions.md#ecological-integrity-constitutional), [Environmental Preconditions](core_05c_continuity_definitions.md#environmental-preconditions-constitutional), [Intergenerational Responsibility](core_05c_continuity_definitions.md#intergenerational-responsibility-constitutional).
-- **Dependency and resource flows** — [Dependency](core_05c_continuity_definitions.md#dependency); **Article IV-A** orientation under [Chapter Zero §3.3](../core_00_preamble.md#measuring-continuity).
-- **Cross-system support** — [Proportionate Cross-System Support](core_05c_continuity_definitions.md#proportionate-cross-system-support-constitutional); **Article IV-B** under [Chapter Zero §3.3](../core_00_preamble.md#measuring-continuity).
+- **Dependency and resource flows** — [Dependency](core_05c_continuity_definitions.md#dependency); **Article IV-A** orientation under Continuity measurement family.
+- **Cross-system support** — [Proportionate Cross-System Support](core_05c_continuity_definitions.md#proportionate-cross-system-support-constitutional); **Article IV-B** under Continuity measurement family.
 
 **Paired aim:** [Flourishing](core_05f_flourishing_aim.md#flourishing-constitutional) — neither aim may be pursued at the expense of the other; joint evaluation rules are stated in the **E** and **C** components above and in [Chapter One §9](core_01_b_interaction_interpretation.md#6-process-conflict-resolution).
 
@@ -76,9 +76,9 @@ Each definition listed under this aim applies within the scope set by its parent
 
 <a id="continuity-measurement-family"></a>
 
-### Measuring Continuity (Chapter Zero §3.3 measurement family)
+### Measuring Continuity (Chapter Zero measurement family)
 
-*Chapter Five home for the [Chapter Zero §3.3 *Measuring Continuity*](core_00_preamble.md#measuring-continuity) measurement family. Chapter Zero keeps the plain-language category question; the family table, constitutional use, and definition routing live here. **Continuity** is a constitutional aim, not a Tetrad leg — see [aim decomposition](#continuity-aim-decomposition).*
+*Chapter Five home for the Continuity measurement family. Chapter Zero §2 keeps the plain-language category question in the overview table; the family table, constitutional use, and definition routing live here. **Continuity** is a constitutional aim, not a Tetrad leg — see [aim decomposition](#continuity-aim-decomposition).*
 
 | Measurement family | Plain question | Main constitutional use |
 |---|---|---|

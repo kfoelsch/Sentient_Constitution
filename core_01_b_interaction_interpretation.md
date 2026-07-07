@@ -418,7 +418,7 @@ Correction must follow **Chapter Four** tracing and **Chapter Five** proxy-relat
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [§6.1 Core Tradeoff Principles](#61-core-tradeoff-principles) (applies after the tradeoff stack is satisfied); [§9.1 Stewardship](core_01_c_stewardship_capacity_principles.md#91-stewardship); [§12.2 Constitutional Efficiency](core_01_c_stewardship_capacity_principles.md#122-constitutional-efficiency).
-- Read with: [Chapter Zero §3.8 Measuring Constitutional Performance](core_00_preamble.md#measuring-constitutional-performance) (*Avoidable Burden as constitutional measurement*); [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation** leg (burden that is not constitutionally required narrows [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency)); **timeliness** leg (avoidable delay is avoidable burden).
+- Read with: Constitutional Performance measurement family (*Avoidable Burden as constitutional measurement*); [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation** leg (burden that is not constitutionally required narrows [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency)); **timeliness** leg (avoidable delay is avoidable burden).
 - Downstream: [§11.1.3 Stewardship and Operator Application](core_01_c_stewardship_capacity_principles.md#1113-stewardship-and-operator-application) (incentives must not reward unnecessary burden creation); [Article XX: Comprehensibility and Complexity Stewardship](core_06-06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship).
 
 </details>
@@ -591,7 +591,7 @@ Where **[Chapter Sixteen](core_16-16_incorporation.md#2-authority-stack-and-invo
 
 - [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation**, **oversight**, **accountability**, and **timeliness**, scaled to [material stake](core_00_preamble.md#material-stake)
 - [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — [Flourishing](core_00_preamble.md#flourishing) and [Continuity](core_00_preamble.md#continuity) (constitutional **Continuity aim**, distinct from operational or protocol continuity elsewhere in the corpus)
-- [material stake](core_00_preamble.md#material-stake) — impact, dependency, and risk scaling for tetrad duties; read with [Measuring Threshold and Scaling](core_00_preamble.md#measuring-threshold-and-scaling) (Chapter Zero §3.1) and Chapter Five entries below
+- [material stake](core_00_preamble.md#material-stake) — impact, dependency, and risk scaling for tetrad duties; read with the Threshold and Scaling measurement family (Chapter Zero Measurements Overview) and Chapter Five entries below
 
 **Chapter Five proxy definitions** (O/E/C satisfaction — trace under Chapters Two through Four when materially relevant):
 

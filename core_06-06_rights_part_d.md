@@ -235,7 +235,7 @@ Adopted governance implementation provides escalation, proportionality of interv
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter One [§3.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [§6 Process Conflict Resolution](core_01_b_interaction_interpretation.md#6-process-conflict-resolution), and [§8 Constitutional Interpretation](core_01_b_interaction_interpretation.md#8-constitutional-interpretation).
-- Read with: [Chapter Zero §3.7 Measuring Timeliness](core_00_preamble.md#measuring-timeliness) (*Timely Resolution as constitutional measurement*).
+- Read with: Timeliness measurement family (*Timely Resolution as constitutional measurement*).
 
 </details>
 
@@ -336,7 +336,7 @@ This Article applies the [Constitutional Tetrad](core_00_preamble.md#constitutio
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Chapter Zero §3.7 Measuring Timeliness](core_00_preamble.md#measuring-timeliness) (*Timely Resolution and anti-delay discipline as constitutional measurement*); [Chapters Eight–Eleven constitutional compass](core_08-08_standing_assessment.md#chapters-eight-eleven-constitutional-compass) (*standing, integration, and forum coordination pipeline*).
+- Upstream: Timeliness measurement family (*Timely Resolution and anti-delay discipline as constitutional measurement*); [Chapters Eight–Eleven constitutional compass](core_08-08_standing_assessment.md#chapters-eight-eleven-constitutional-compass) (*standing, integration, and forum coordination pipeline*).
 - Principles: Chapter One [§12.2 Constitutional Efficiency](core_01_c_stewardship_capacity_principles.md#122-constitutional-efficiency), [Chapter One §6.1.3 Minimization of Avoidable Burden](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden), and [Chapter One §6.3 Rights-Collision Procedure](core_01_b_interaction_interpretation.md#63-rights-collision-procedure).
 - Downstream: [Chapter Eleven §10](core_11-11_forum.md#10-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*materiality tiers, pipeline milestones, and anti-delay discipline*).
 

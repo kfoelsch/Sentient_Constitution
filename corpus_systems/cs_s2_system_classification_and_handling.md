@@ -3,7 +3,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: [Chapter Zero §3.1 Measuring Threshold and Scaling](../core_00_preamble.md#measuring-threshold-and-scaling) (*Materiality gate for class scaling*); [Chapter Seven §3 System Class Evaluation](../core_07-07_system_alignment_certification.md#3-system-class-evaluation).
+- Read with: Threshold and Scaling measurement family (*Materiality gate for class scaling*); [Chapter Seven §3 System Class Evaluation](../core_07-07_system_alignment_certification.md#3-system-class-evaluation).
 
 </details>
 

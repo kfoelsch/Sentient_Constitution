@@ -38,9 +38,9 @@ This band holds **Oversight**-leg definitions from the [Constitutional Tetrad](.
 
 <a id="threshold-scaling-measurement-family"></a>
 
-### Measuring Threshold and Scaling (Chapter Zero §3.1 measurement family)
+### Measuring Threshold and Scaling (Chapter Zero measurement family)
 
-*Chapter Five home for the [Chapter Zero §3.1 *Measuring Threshold and Scaling*](core_00_preamble.md#measuring-threshold-and-scaling) measurement family. Chapter Zero keeps the plain-language category question; the family table, constitutional use, and definition routing live here.*
+*Chapter Five home for the Threshold and Scaling measurement family. Chapter Zero §2 keeps the plain-language category question in the overview table; the family table, constitutional use, and definition routing live here.*
 
 | Measurement family | Plain question | Main constitutional use |
 |---|---|---|
@@ -54,9 +54,9 @@ This measure asks whether effects are constitutionally serious enough to trigger
 
 <a id="oversight-measurement-family"></a>
 
-### Measuring Oversight (Chapter Zero §3.5 measurement family)
+### Measuring Oversight (Chapter Zero measurement family)
 
-*Chapter Five home for the [Chapter Zero §3.5 *Measuring Oversight*](core_00_preamble.md#measuring-oversight) measurement family. Chapter Zero keeps the plain-language category question; the family table, constitutional use, and definition routing live here.*
+*Chapter Five home for the Oversight measurement family. Chapter Zero §2 keeps the plain-language category question in the overview table; the family table, constitutional use, and definition routing live here.*
 
 | Measurement family | Plain question | Main constitutional use |
 |---|---|---|
@@ -89,7 +89,7 @@ These measures ask whether sentients can see, verify, and rely on what materiall
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 <a id="adversarial-scaled-and-exploited-conditions-e"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Chapter Zero §3.5 *Measuring Oversight*](../core_00_preamble.md#measuring-oversight) — supporting measure under the oversight measurement family.
+  - **Primary measure:** Oversight measurement family — supporting measure under the oversight measurement family.
 
     **Primary assessment:** Include plausible strategies of misuse, coordination, scaling, and adaptive response that could reasonably emerge given system incentives, access, and capabilities, read together with [Risk](core_05c_continuity_definitions.md#risk) and [Dependency](core_05c_continuity_definitions.md#dependency).
 <a id="adversarial-scaled-and-exploited-conditions-c"></a>
@@ -117,7 +117,7 @@ These measures ask whether sentients can see, verify, and rely on what materiall
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 <a id="capability-requirement-e"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Chapter Zero §3.5 *Measuring Oversight*](../core_00_preamble.md#measuring-oversight) — supporting measure under the oversight measurement family.
+  - **Primary measure:** Oversight measurement family — supporting measure under the oversight measurement family.
 
     **Primary assessment:** Assess capability by demonstrated functional properties, not declared design or intended behavior. The showing must support [Transparency](core_05o_oversight_definitions.md#transparency) and external evaluation of [Material Impact](core_05o_oversight_definitions.md#material-impact).
 <a id="capability-requirement-c"></a>
@@ -147,7 +147,7 @@ These measures ask whether sentients can see, verify, and rely on what materiall
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 <a id="classification-scaled-governance-e"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Chapter Zero §3.5 *Measuring Oversight*](../core_00_preamble.md#measuring-oversight) — supporting measure under the oversight measurement family.
+  - **Primary measure:** Oversight measurement family — supporting measure under the oversight measurement family.
 
     **Primary assessment:** Apply the operative classification under implementation file rules together with [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination) and [System Boundary Integrity](core_05c_continuity_definitions.md#system-boundary-integrity). Self-assigned or informal low classification is not sufficient where full functional effects warrant higher [Oversight](core_05o_oversight_definitions.md#oversight-constitutional) or governance. Whole-system evaluation under [Chapter Seven §1A Whole-System Certification Evaluation](core_07-07_system_alignment_certification.md#1a-whole-system-certification-evaluation) scales by class: mandatory at full depth for **Class A**, **Class B**, and **Class C**; mandatory but proportionate for **Class L**; encouraged for **Class P** while validly **Class P**.
 <a id="classification-scaled-governance-c"></a>
@@ -176,7 +176,7 @@ These measures ask whether sentients can see, verify, and rely on what materiall
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 <a id="oversight-constitutional-e"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Chapter Zero §3.5 *Measuring Oversight*](../core_00_preamble.md#measuring-oversight) — link-only rollup for the **oversight** Tetrad leg; operative tiers on leaf primaries below. Progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md).
+  - **Primary measure:** Oversight measurement family — link-only rollup for the **oversight** Tetrad leg; operative tiers on leaf primaries below. Progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md).
 
     **Primary assessment:** Distinguish substantive oversight from performative ceremony. Align with [Auditability](core_05o_oversight_definitions.md#auditability), [Contestability](core_05a_accountability_definitions.md#contestability), [Transparency](core_05o_oversight_definitions.md#transparency), and [Classification-Scaled Governance](core_05o_oversight_definitions.md#classification-scaled-governance).
 <a id="oversight-constitutional-c"></a>
@@ -205,7 +205,7 @@ These measures ask whether sentients can see, verify, and rely on what materiall
   - Out of scope: formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 *Measurements:*
 
-- **Primary:** [Chapter Zero §3.5 *Measuring Oversight*](../core_00_preamble.md#measuring-oversight) — supporting measure under the oversight measurement family.
+- **Primary:** Oversight measurement family — supporting measure under the oversight measurement family.
 <a id="press-and-journalistic-activity-constitutional-e"></a>
 - E: Identify journalistic activity by function — newsgathering, source protection, investigation, or publication serving the information environment — not by credential, title, organizational form, or institutional status. Detect press-directed actions via substantive effect, treating press-directed character as an aggravating factor under Article XIII-A and Article V-H. Apply heightened [Necessity](core_05a_accountability_definitions.md#necessity) and [Proportionality](core_05a_accountability_definitions.md#proportionality) scrutiny and narrow-tailoring discipline.
 <a id="press-and-journalistic-activity-constitutional-c"></a>
@@ -223,7 +223,7 @@ These measures ask whether sentients can see, verify, and rely on what materiall
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 <a id="risk-evaluation-and-disclosure-e"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Chapter Zero §3.5 *Measuring Oversight*](../core_00_preamble.md#measuring-oversight) — supporting measure under the oversight measurement family.
+  - **Primary measure:** Oversight measurement family — supporting measure under the oversight measurement family.
 
     **Primary assessment:** Include [Dependency](core_05c_continuity_definitions.md#dependency), time horizons, and [Adversarial, Scaled, and Exploited Conditions](core_05o_oversight_definitions.md#adversarial-scaled-and-exploited-conditions).
 <a id="risk-evaluation-and-disclosure-c"></a>
@@ -259,7 +259,7 @@ These measures ask whether sentients can see, verify, and rely on what materiall
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: [Chapter Zero §3.1](core_00_preamble.md#measuring-threshold-and-scaling) (*Materiality as constitutional measurement*); Principles: [Chapter Seven §1A Whole-System Certification Evaluation](core_07-07_system_alignment_certification.md#1a-whole-system-certification-evaluation) (**Materiality** DEC stack; evaluation completeness); [10.1 Core Tradeoff Principles](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles) (proportionality stack read with material effects).
+- Downstream: Threshold and Scaling measurement family (*Materiality as constitutional measurement*); Principles: [Chapter Seven §1A Whole-System Certification Evaluation](core_07-07_system_alignment_certification.md#1a-whole-system-certification-evaluation) (**Materiality** DEC stack; evaluation completeness); [10.1 Core Tradeoff Principles](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles) (proportionality stack read with material effects).
 - Read with: [Material Impact](core_05o_oversight_definitions.md#material-impact), [Material Risk](core_05o_oversight_definitions.md#material-risk), [Systemic Materiality](core_05a_accountability_definitions.md#systemic-materiality), and [Classification-Scaled Governance](core_05o_oversight_definitions.md#classification-scaled-governance).
 
 </details>
@@ -271,7 +271,7 @@ These measures ask whether sentients can see, verify, and rely on what materiall
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 <a id="material-e"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Chapter Zero §3.1 *Measuring threshold and scaling* / Materiality](../core_00_preamble.md#measuring-threshold-and-scaling) — threshold input for [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination).
+  - **Primary measure:** Threshold and Scaling measurement family — threshold input for [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination).
 
     **Primary assessment:** Identify whether conditions are capable of producing meaningful [Material Impact](core_05o_oversight_definitions.md#material-impact) or [Material Risk](core_05o_oversight_definitions.md#material-risk) under full functional system scope.
   - **Secondary measure:** [Material Impact](core_05o_oversight_definitions.md#material-impact), [Material Risk](core_05o_oversight_definitions.md#material-risk), and [Systemic Materiality](core_05a_accountability_definitions.md#systemic-materiality) — co-measures that can defeat material classification when effects are fragmented or understated.
@@ -290,7 +290,7 @@ These measures ask whether sentients can see, verify, and rely on what materiall
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: [Chapter Zero §3.1](core_00_preamble.md#measuring-threshold-and-scaling) (*Materiality as constitutional measurement*); Principles: [material stake](core_00_preamble.md#material-stake) scaling proxy; Chapter One surfaces this definition across **Safety** (**Chapter One §8.1**), **Truth** (**Chapter One §8.2**), **Trust** (**§7**), **§7** stewardship and openness passages, **§13.1**, **§13.2**, and **Chapter One §6.3.2** where **Materiality** appears in D/E/C widgets — see [Chapter Seven §1A Whole-System Certification Evaluation](core_07-07_system_alignment_certification.md#1a-whole-system-certification-evaluation) as the principal systems-evaluation home.
+- Downstream: Threshold and Scaling measurement family (*Materiality as constitutional measurement*); Principles: [material stake](core_00_preamble.md#material-stake) scaling proxy; Chapter One surfaces this definition across **Safety** (**Chapter One §8.1**), **Truth** (**Chapter One §8.2**), **Trust** (**§7**), **§7** stewardship and openness passages, **§13.1**, **§13.2**, and **Chapter One §6.3.2** where **Materiality** appears in D/E/C widgets — see [Chapter Seven §1A Whole-System Certification Evaluation](core_07-07_system_alignment_certification.md#1a-whole-system-certification-evaluation) as the principal systems-evaluation home.
 - Cluster component: [the dependent cluster *Material Impact, Materiality Determination, Classification-Scaled Governance, Oversight, and Capability Requirement*](core_05o_oversight_definitions.md#materiality-semi-independent).
 - Read with: [Material Impact](core_05o_oversight_definitions.md#material-impact), [Material Risk](core_05o_oversight_definitions.md#material-risk), [Systemic Materiality](core_05a_accountability_definitions.md#systemic-materiality), and [Auditability](core_05o_oversight_definitions.md#auditability).
 
@@ -303,7 +303,7 @@ These measures ask whether sentients can see, verify, and rely on what materiall
   - Out of scope: immaterial or formal-only classification without functional effect on governance, oversight, or capability requirements.
 *Measurements:*
 
-- **Primary:** [Chapter Zero §3.1 *Measuring threshold and scaling* / Materiality](../core_00_preamble.md#measuring-threshold-and-scaling) — threshold-and-scaling measure for this term.
+- **Primary:** Threshold and Scaling measurement family — threshold-and-scaling measure for this term.
 - **Secondary:** [Material Impact](core_05o_oversight_definitions.md#material-impact), [Material Risk](core_05o_oversight_definitions.md#material-risk), [Systemic Materiality](core_05a_accountability_definitions.md#systemic-materiality), and [Dependency](core_05c_continuity_definitions.md#dependency) — co-measures that can defeat materiality classification when isolated or fragmented analysis understates effects.
 - **Tertiary:** [Proxy Divergence](core_05o_oversight_definitions.md#proxy-divergence) and [Materiality Integrity Constraint](core_05o_oversight_definitions.md#materiality-integrity-constraint) — where boundary manipulation, aggregation avoidance, or proxy metrics defeat honest materiality analysis.
 
@@ -339,7 +339,7 @@ These measures ask whether sentients can see, verify, and rely on what materiall
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 <a id="materiality-integrity-constraint-e"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Chapter Zero §3.1 *Measuring threshold and scaling* / Materiality](../core_00_preamble.md#measuring-threshold-and-scaling) — integrity constraint on honest materiality analysis.
+  - **Primary measure:** Threshold and Scaling measurement family — integrity constraint on honest materiality analysis.
 
     **Primary assessment:** Detect fragmentation, aggregation avoidance, and boundary manipulation that would defeat honest [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination).
   - **Secondary measure:** [Systemic Materiality](core_05a_accountability_definitions.md#systemic-materiality), [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination), [Auditability](core_05o_oversight_definitions.md#auditability), and [Proxy Divergence](core_05o_oversight_definitions.md#proxy-divergence) — co-measures that defeat manipulation or proxy gaming of materiality.
@@ -358,7 +358,7 @@ These measures ask whether sentients can see, verify, and rely on what materiall
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: [Chapter Zero §3.1](core_00_preamble.md#measuring-threshold-and-scaling) (*Materiality as constitutional measurement*); Principles: [material stake](core_00_preamble.md#material-stake) scaling proxy; [Chapter Seven §1A Whole-System Certification Evaluation](core_07-07_system_alignment_certification.md#1a-whole-system-certification-evaluation); [§9 Stewardship and Distributed Understanding — §9.2 Distributed Understanding](core_01_c_stewardship_capacity_principles.md#92-distributed-understanding) (understanding scales with **Materiality**); [8.1.1 Proportionality](core_01_b_interaction_interpretation.md#611-proportionality) (material impact in the tradeoff index).
+- Downstream: Threshold and Scaling measurement family (*Materiality as constitutional measurement*); Principles: [material stake](core_00_preamble.md#material-stake) scaling proxy; [Chapter Seven §1A Whole-System Certification Evaluation](core_07-07_system_alignment_certification.md#1a-whole-system-certification-evaluation); [§9 Stewardship and Distributed Understanding — §9.2 Distributed Understanding](core_01_c_stewardship_capacity_principles.md#92-distributed-understanding) (understanding scales with **Materiality**); [8.1.1 Proportionality](core_01_b_interaction_interpretation.md#611-proportionality) (material impact in the tradeoff index).
 - Cluster component: [the dependent cluster *Material Impact, Materiality Determination, Classification-Scaled Governance, Oversight, and Capability Requirement*](core_05o_oversight_definitions.md#materiality-semi-independent).
 - Read with: [Harm](core_05a_accountability_definitions.md#harm), [Risk](core_05c_continuity_definitions.md#risk), [Systemic Materiality](core_05a_accountability_definitions.md#systemic-materiality), [Dependency](core_05c_continuity_definitions.md#dependency), [Classification-Scaled Governance](core_05o_oversight_definitions.md#classification-scaled-governance), [Oversight](core_05o_oversight_definitions.md#oversight-constitutional), and [Transparency](core_05o_oversight_definitions.md#transparency).
 
@@ -371,7 +371,7 @@ These measures ask whether sentients can see, verify, and rely on what materiall
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 <a id="material-impact-e"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Chapter Zero §3.1 *Measuring threshold and scaling* / Materiality](../core_00_preamble.md#measuring-threshold-and-scaling) — scope-and-severity input for materiality classification.
+  - **Primary measure:** Threshold and Scaling measurement family — scope-and-severity input for materiality classification.
 
     **Primary assessment:** Trace scope, scale, and severity of effects under full functional system scope — including direct, indirect, delayed, cumulative, and cross-system consequences.
   - **Secondary measure:** [Harm](core_05a_accountability_definitions.md#harm), [Risk](core_05c_continuity_definitions.md#risk), [Systemic Materiality](core_05a_accountability_definitions.md#systemic-materiality), and [Dependency](core_05c_continuity_definitions.md#dependency) — co-measures that can defeat impact assessment when isolated analysis understates effects.
@@ -390,7 +390,7 @@ These measures ask whether sentients can see, verify, and rely on what materiall
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: [Chapter Zero §3.1](core_00_preamble.md#measuring-threshold-and-scaling) (*Materiality as constitutional measurement*); Principles: [Chapter Seven §1A Whole-System Certification Evaluation](core_07-07_system_alignment_certification.md#1a-whole-system-certification-evaluation) (tail risks, existential risk posture); [8.1.1 Proportionality](core_01_b_interaction_interpretation.md#611-proportionality) (**Risk**, **Irreversible Harm**, **Existential Risk** index).
+- Downstream: Threshold and Scaling measurement family (*Materiality as constitutional measurement*); Principles: [Chapter Seven §1A Whole-System Certification Evaluation](core_07-07_system_alignment_certification.md#1a-whole-system-certification-evaluation) (tail risks, existential risk posture); [8.1.1 Proportionality](core_01_b_interaction_interpretation.md#611-proportionality) (**Risk**, **Irreversible Harm**, **Existential Risk** index).
 - Read with: [Harm](core_05a_accountability_definitions.md#harm), [Irreversible Harm](core_05a_accountability_definitions.md#irreversible-harm), [Risk](core_05c_continuity_definitions.md#risk), [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint), and [Classification-Scaled Governance](core_05o_oversight_definitions.md#classification-scaled-governance).
 
 </details>
@@ -402,7 +402,7 @@ These measures ask whether sentients can see, verify, and rely on what materiall
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 <a id="material-risk-e"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Chapter Zero §3.1 *Measuring threshold and scaling* / Materiality](../core_00_preamble.md#measuring-threshold-and-scaling) — likelihood-and-irreversibility input for material risk classification.
+  - **Primary measure:** Threshold and Scaling measurement family — likelihood-and-irreversibility input for material risk classification.
 
     **Primary assessment:** Include expected and tail outcomes together with speed and irreversibility of [Harm](core_05a_accountability_definitions.md#harm) under full functional system scope.
   - **Secondary measure:** [Harm](core_05a_accountability_definitions.md#harm), [Irreversible Harm](core_05a_accountability_definitions.md#irreversible-harm), [Risk](core_05c_continuity_definitions.md#risk), and [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint) — co-measures that can defeat risk classification when tail or systemic pathways are ignored.
@@ -433,7 +433,7 @@ These measures ask whether sentients can see, verify, and rely on what materiall
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 <a id="materiality-under-uncertainty-e"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Chapter Zero §3.1 *Measuring threshold and scaling* / Materiality](../core_00_preamble.md#measuring-threshold-and-scaling) — precautionary default when materiality cannot be excluded.
+  - **Primary measure:** Threshold and Scaling measurement family — precautionary default when materiality cannot be excluded.
 
     **Primary assessment:** Apply precaution where materiality cannot be excluded — including where [Irreversible Harm](core_05a_accountability_definitions.md#irreversible-harm) remains plausible under uncertainty.
   - **Secondary measure:** [Material Impact](core_05o_oversight_definitions.md#material-impact), [Material Risk](core_05o_oversight_definitions.md#material-risk), [Irreversible Harm](core_05a_accountability_definitions.md#irreversible-harm), and [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint) — co-measures that require conservative classification under uncertainty.
@@ -453,7 +453,7 @@ These measures ask whether sentients can see, verify, and rely on what materiall
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: [Chapter Zero §3.5](core_00_preamble.md#measuring-oversight) (*Truth and epistemic integrity as constitutional measurement*); [Chapter Zero §3.6](core_00_preamble.md#measuring-accountability) (*Incentive alignment and proxy integrity as constitutional measurement*); Principles: [§6.2.4 Proxy-Divergence Invalidation](core_01_b_interaction_interpretation.md#632-proxy-divergence-invalidation), [Chapter Seven §1A Whole-System Certification Evaluation](core_07-07_system_alignment_certification.md#1a-whole-system-certification-evaluation), and [§10 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline).
+- Downstream: Oversight measurement family (*Truth and epistemic integrity as constitutional measurement*); Accountability measurement family (*Incentive alignment and proxy integrity as constitutional measurement*); Principles: [§6.2.4 Proxy-Divergence Invalidation](core_01_b_interaction_interpretation.md#632-proxy-divergence-invalidation), [Chapter Seven §1A Whole-System Certification Evaluation](core_07-07_system_alignment_certification.md#1a-whole-system-certification-evaluation), and [§10 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline).
 - Cluster component: [the dependent cluster *Proxy Integrity and Indicator-Reality Alignment*](core_05o_oversight_definitions.md#materiality-semi-independent).
 - Read with: [Proxy Metric Gaming and Indicator-Reality Gaps](core_05o_oversight_definitions.md#proxy-metric-gaming-and-indicator-reality-gaps), [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination), [Materiality Integrity Constraint](core_05o_oversight_definitions.md#materiality-integrity-constraint), [System Boundary Integrity](core_05c_continuity_definitions.md#system-boundary-integrity), [Incentive Alignment](core_05i_integrative_definitions.md#incentive-alignment), [Auditability](core_05o_oversight_definitions.md#auditability), and [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint).
 
@@ -466,7 +466,7 @@ These measures ask whether sentients can see, verify, and rely on what materiall
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 <a id="proxy-divergence-e"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Chapter Zero §3.5 *Measuring Oversight* / truth and epistemic integrity](../core_00_preamble.md#measuring-oversight) and [Chapter Zero §3.6 *Measuring Accountability* / incentive alignment and proxy integrity](../core_00_preamble.md#measuring-accountability) — cross-leg integrity measure for this term.
+  - **Primary measure:** Oversight measurement family and Accountability measurement family — cross-leg integrity measure for this term.
 
     **Primary assessment:** Detect whether optimization, reporting, gating, or review relies on a proxy after evidence shows the proxy no longer tracks the constitutionally material reality.
   - **Secondary measure:** [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint), [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination), [Materiality Integrity Constraint](core_05o_oversight_definitions.md#materiality-integrity-constraint), [Auditability](core_05o_oversight_definitions.md#auditability), and [Proxy Metric Gaming and Indicator-Reality Gaps](core_05o_oversight_definitions.md#proxy-metric-gaming-and-indicator-reality-gaps) — co-measures that can defeat proxy integrity even when reported indicators appear stable.
@@ -504,7 +504,7 @@ These measures ask whether sentients can see, verify, and rely on what materiall
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 <a id="proxy-metric-gaming-and-indicator-reality-gaps-e"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Chapter Zero §3.5 *Measuring Oversight*](../core_00_preamble.md#measuring-oversight) — supporting measure under the oversight measurement family.
+  - **Primary measure:** Oversight measurement family — supporting measure under the oversight measurement family.
 
     **Primary assessment:** Look for dashboard optimization, threshold gaming, selective sampling, denominator manipulation, excluded populations, automated score improvement, model reward hacking, compliance theater, and narrative substitution. A metric is not reliable where it cannot be traced to observed material outcomes or where incentives predictably sever it from those outcomes.
 <a id="proxy-metric-gaming-and-indicator-reality-gaps-c"></a>
@@ -531,7 +531,7 @@ These measures ask whether sentients can see, verify, and rely on what materiall
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 <a id="material-degradation-e"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Chapter Zero §3.1 *Measuring threshold and scaling* / Materiality](../core_00_preamble.md#measuring-threshold-and-scaling) — degradation signal for materiality classification.
+  - **Primary measure:** Threshold and Scaling measurement family — degradation signal for materiality classification.
 
     **Primary assessment:** Include scaling and systemic effects under [Systemic Materiality](core_05a_accountability_definitions.md#systemic-materiality) and [Risk](core_05c_continuity_definitions.md#risk) when evaluating non-trivial reduction in protected conditions.
   - **Secondary measure:** [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination), [Systemic Materiality](core_05a_accountability_definitions.md#systemic-materiality), [Risk](core_05c_continuity_definitions.md#risk), and [Proxy Divergence](core_05o_oversight_definitions.md#proxy-divergence) — co-measures that can defeat degradation assessment when proxies mask decline.
@@ -598,7 +598,7 @@ independent verification rigor, and audit scope sufficiency than lower-class sys
 disclosure, preservation, logging, metrics, audit sampling, verification UX, or independence questions in a way that satisfies a nominal channel
 while defeating practical reconstructability, contestability, or proportionate assurance depth.
 
-*Measurements (family routing):* [Chapter Zero §3.5 *Measuring Oversight* / Truth and epistemic integrity](../core_00_preamble.md#measuring-oversight) — operative tiers on [Transparency](core_05o_oversight_definitions.md#transparency), [Auditability](core_05o_oversight_definitions.md#auditability), and [Verifiability](core_05o_oversight_definitions.md#verifiability) below; progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md).
+*Measurements (family routing):* Oversight measurement family — operative tiers on [Transparency](core_05o_oversight_definitions.md#transparency), [Auditability](core_05o_oversight_definitions.md#auditability), and [Verifiability](core_05o_oversight_definitions.md#verifiability) below; progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md).
 
 ---
 
@@ -622,7 +622,7 @@ while defeating practical reconstructability, contestability, or proportionate a
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 <a id="transparency-e"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Chapter Zero §3.5 *Measuring Oversight* / Truth and epistemic integrity](../core_00_preamble.md#measuring-oversight) — disclosure measure within the transparency–audit–verification subfamily.
+  - **Primary measure:** Oversight measurement family — disclosure measure within the transparency–audit–verification subfamily.
 
     **Primary assessment:** Compare disclosure to [Material Impact](core_05o_oversight_definitions.md#material-impact) and [Dependency](core_05c_continuity_definitions.md#dependency).
   - **Secondary measure:** [Epistemic Integrity](core_05o_oversight_definitions.md#epistemic-integrity), [Material Impact](core_05o_oversight_definitions.md#material-impact), [Dependency](core_05c_continuity_definitions.md#dependency), and [Auditability](core_05o_oversight_definitions.md#auditability) — co-measures that can defeat transparency even when disclosure volume is high.
@@ -648,7 +648,7 @@ while defeating practical reconstructability, contestability, or proportionate a
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 <a id="audit-scope-sufficiency-e"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Chapter Zero §3.5 *Measuring Oversight*](../core_00_preamble.md#measuring-oversight) — supporting measure under the oversight measurement family.
+  - **Primary measure:** Oversight measurement family — supporting measure under the oversight measurement family.
 
     **Primary assessment:** Detect material failures, [Risk](core_05c_continuity_definitions.md#risk), and constitutional misalignment across [System Boundaries](core_05c_continuity_definitions.md#system-boundaries), operating states, and [Adversarial, Scaled, and Exploited Conditions](core_05o_oversight_definitions.md#adversarial-scaled-and-exploited-conditions).
 <a id="audit-scope-sufficiency-c"></a>
@@ -675,7 +675,7 @@ while defeating practical reconstructability, contestability, or proportionate a
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 <a id="auditability-e"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Chapter Zero §3.5 *Measuring Oversight* / Truth and epistemic integrity](../core_00_preamble.md#measuring-oversight) — audit measure within the transparency–audit–verification subfamily.
+  - **Primary measure:** Oversight measurement family — audit measure within the transparency–audit–verification subfamily.
 
     **Primary assessment:** Must function across relevant conditions and [Stakeholders](core_05p_participation_definitions.md#stakeholder), including conditions relevant to [Contestability](core_05a_accountability_definitions.md#contestability) and [Oversight](core_05o_oversight_definitions.md#oversight-constitutional).
   - **Secondary measure:** [Observability](core_05o_oversight_definitions.md#observability), [Verifiability](core_05o_oversight_definitions.md#verifiability), [Evidence Preservation](core_05o_oversight_definitions.md#evidence-preservation), and [Contestability](core_05a_accountability_definitions.md#contestability) — co-measures that can defeat auditability even when nominal audit channels exist.
@@ -711,7 +711,7 @@ while defeating practical reconstructability, contestability, or proportionate a
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 <a id="evidence-preservation-e"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Chapter Zero §3.5 *Measuring Oversight*](../core_00_preamble.md#measuring-oversight) — supporting measure under the oversight measurement family.
+  - **Primary measure:** Oversight measurement family — supporting measure under the oversight measurement family.
 
     **Primary assessment:** Preservation must be prompt, proportionate to materiality and risk, custody-traceable, tamper-evident where feasible, and protective of privacy, safety, security, and protected reporting. It includes preventing deletion, alteration, selective retention, access obstruction, or loss of reconstructability once a material constitutional issue is reasonably known or should be known.
 <a id="evidence-preservation-c"></a>
@@ -726,7 +726,7 @@ while defeating practical reconstructability, contestability, or proportionate a
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 <a id="evaluation-completeness-constraint-e"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Chapter Zero §3.5 *Measuring Oversight*](../core_00_preamble.md#measuring-oversight) — supporting measure under the oversight measurement family.
+  - **Primary measure:** Oversight measurement family — supporting measure under the oversight measurement family.
 
     **Primary assessment:** Demonstrate sufficient coverage of plausible failure, misuse, and interaction pathways, proportional to system impact, [Dependency](core_05c_continuity_definitions.md#dependency), and [Risk](core_05c_continuity_definitions.md#risk), including [Adversarial, Scaled, and Exploited Conditions](core_05o_oversight_definitions.md#adversarial-scaled-and-exploited-conditions) where material.
 <a id="evaluation-completeness-constraint-c"></a>
@@ -743,7 +743,7 @@ while defeating practical reconstructability, contestability, or proportionate a
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 <a id="observability-e"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Chapter Zero §3.5 *Measuring Oversight*](../core_00_preamble.md#measuring-oversight) — supporting measure under the oversight measurement family.
+  - **Primary measure:** Oversight measurement family — supporting measure under the oversight measurement family.
 
     **Primary assessment:** Include normal, degraded, and adversarial conditions consistent with [Auditability](core_05o_oversight_definitions.md#auditability) and [Reasonably Foreseeable](core_05o_oversight_definitions.md#reasonably-foreseeable) operating contexts.
 <a id="observability-c"></a>
@@ -757,7 +757,7 @@ while defeating practical reconstructability, contestability, or proportionate a
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 <a id="verifiability-e"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Chapter Zero §3.5 *Measuring Oversight* / Truth and epistemic integrity](../core_00_preamble.md#measuring-oversight) — verification measure within the transparency–audit–verification subfamily.
+  - **Primary measure:** Oversight measurement family — verification measure within the transparency–audit–verification subfamily.
 
     **Primary assessment:** Use reproducible methods proportionate to system impact, aligned with [Proportionality](core_05a_accountability_definitions.md#proportionality), [Material Impact](core_05o_oversight_definitions.md#material-impact), and [Verification Independence](#verification-independence).
   - **Secondary measure:** [Auditability](core_05o_oversight_definitions.md#auditability), [Verification Independence](#verification-independence), [Material Impact](core_05o_oversight_definitions.md#material-impact), and [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint) — co-measures that can defeat verification even when methods are nominally documented.
@@ -774,7 +774,7 @@ while defeating practical reconstructability, contestability, or proportionate a
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 <a id="verification-accessibility-e"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Chapter Zero §3.5 *Measuring Oversight*](../core_00_preamble.md#measuring-oversight) — supporting measure under the oversight measurement family.
+  - **Primary measure:** Oversight measurement family — supporting measure under the oversight measurement family.
 
     **Primary assessment:** Consider proportional access and [Feasibility](core_05a_accountability_definitions.md#feasibility).
 <a id="verification-accessibility-c"></a>
@@ -787,7 +787,7 @@ while defeating practical reconstructability, contestability, or proportionate a
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 <a id="verification-feasibility-e"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Chapter Zero §3.5 *Measuring Oversight*](../core_00_preamble.md#measuring-oversight) — supporting measure under the oversight measurement family.
+  - **Primary measure:** Oversight measurement family — supporting measure under the oversight measurement family.
 
     **Primary assessment:** Reject inaccessible or impractical verification, including where [Verification Accessibility](#verification-accessibility) is absent in practice.
 <a id="verification-feasibility-c"></a>
@@ -800,7 +800,7 @@ while defeating practical reconstructability, contestability, or proportionate a
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 <a id="verification-independence-e"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Chapter Zero §3.5 *Measuring Oversight*](../core_00_preamble.md#measuring-oversight) — supporting measure under the oversight measurement family.
+  - **Primary measure:** Oversight measurement family — supporting measure under the oversight measurement family.
 
     **Primary assessment:** Rely on externally observable evidence.
 <a id="verification-independence-c"></a>
@@ -813,7 +813,7 @@ while defeating practical reconstructability, contestability, or proportionate a
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 <a id="verification-proportionality-e"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Chapter Zero §3.5 *Measuring Oversight*](../core_00_preamble.md#measuring-oversight) — supporting measure under the oversight measurement family.
+  - **Primary measure:** Oversight measurement family — supporting measure under the oversight measurement family.
 
     **Primary assessment:** Detect disproportionate requirements under [Proportionality](core_05a_accountability_definitions.md#proportionality).
 <a id="verification-proportionality-c"></a>
@@ -826,7 +826,7 @@ while defeating practical reconstructability, contestability, or proportionate a
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 <a id="verification-robustness-e"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Chapter Zero §3.5 *Measuring Oversight*](../core_00_preamble.md#measuring-oversight) — supporting measure under the oversight measurement family.
+  - **Primary measure:** Oversight measurement family — supporting measure under the oversight measurement family.
 
     **Primary assessment:** Include degraded and adversarial conditions, including [Reasonably Foreseeable](core_05o_oversight_definitions.md#reasonably-foreseeable) stressors and [Adversarial, Scaled, and Exploited Conditions](core_05o_oversight_definitions.md#adversarial-scaled-and-exploited-conditions).
 <a id="verification-robustness-c"></a>
@@ -843,7 +843,7 @@ while defeating practical reconstructability, contestability, or proportionate a
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Constitutional frame: **Oversight** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05o_oversight_definitions.md#materiality-determination).
-- Downstream: [Chapter Zero §3.5](core_00_preamble.md#measuring-oversight) (*Truth and epistemic integrity as constitutional measurement*).
+- Downstream: Oversight measurement family (*Truth and epistemic integrity as constitutional measurement*).
 - Cross-leg note: integrative with **Accountability** where contest and correction are implicated.
 - Chapter One basis: Chapter One §8.2, §3.3, §4, §12.1, §12.2 (see [Chapter Five compass](../core_05-05_definitions_a_independent.md#chapter-five-compass-and-definition-map) map).
 - Read with: Apply [Good Faith](core_05a_accountability_definitions.md#good-faith), [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination), [Dependency](core_05c_continuity_definitions.md#dependency), [Transparency](core_05o_oversight_definitions.md#transparency), [Auditability](core_05o_oversight_definitions.md#auditability), [Observability](core_05o_oversight_definitions.md#observability), [Verifiability](core_05o_oversight_definitions.md#verifiability), [Contestability](core_05a_accountability_definitions.md#contestability), [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint), [Risk](core_05c_continuity_definitions.md#risk), and Chapters Two through Four mechanics where materially implicated.
@@ -866,7 +866,7 @@ This cluster is the canonical O/E/C home for **Truth (Constitutional Constraint)
 
 **Joint invocation and anti-bypass.** Under §3.0.1, a matter within the admission scope must not be segmented into separate disclosure, publication, empirical-method, uncertainty, integrity, verification, or foreseeability questions in a way that satisfies one component while defeating another. Nominal compliance with a disclosure or publication rule is not sufficient where foreseeable-condition analysis, methodological integrity, or honesty about limits and uncertainty remains materially deficient.
 
-*Measurements (family routing):* [Chapter Zero §3.5 *Measuring Oversight* / Truth and epistemic integrity](../core_00_preamble.md#measuring-oversight) — operative tiers on [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint) and [Epistemic Integrity](core_05o_oversight_definitions.md#epistemic-integrity) below; progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md).
+*Measurements (family routing):* Oversight measurement family — operative tiers on [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint) and [Epistemic Integrity](core_05o_oversight_definitions.md#epistemic-integrity) below; progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md).
 
 <a id="publication-and-high-impact-communication"></a>
 
@@ -879,7 +879,7 @@ This cluster is the canonical O/E/C home for **Truth (Constitutional Constraint)
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 <a id="publication-truthfulness-and-recklessness-floor-e"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Chapter Zero §3.5 *Measuring Oversight*](../core_00_preamble.md#measuring-oversight) — supporting measure under the oversight measurement family.
+  - **Primary measure:** Oversight measurement family — supporting measure under the oversight measurement family.
 
     **Primary assessment:** Distinguish knowing falsity, or reckless disregard for accuracy, uncertainty, context, or material interpretive limits, from good-faith observation and bounded interpretation, under [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint) and [Good Faith](core_05a_accountability_definitions.md#good-faith).
 <a id="publication-truthfulness-and-recklessness-floor-c"></a>
@@ -893,7 +893,7 @@ This cluster is the canonical O/E/C home for **Truth (Constitutional Constraint)
   - Out of scope: formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 *Measurements:*
 
-- **Primary:** [Chapter Zero §3.5 *Measuring Oversight*](../core_00_preamble.md#measuring-oversight) — supporting measure under the oversight measurement family.
+- **Primary:** Oversight measurement family — supporting measure under the oversight measurement family.
 - C: Publication must not bypass **[corpus_systems.md](corpus_systems.md), CS-3 — Information types and handling**, [Privacy (Informational)](core_05c_continuity_definitions.md#privacy-informational), [Protected Internal-State Boundary](core_05c_continuity_definitions.md#protected-internal-state-boundary-constitutional), or **Type N** handling. Except where this Constitution explicitly permits, publication must not reconstruct, infer, or expose another sentient’s protected internal cognitive or emotional states.
 
 ##### High-Impact and Systemic Harm Publication Constraint
@@ -903,7 +903,7 @@ This cluster is the canonical O/E/C home for **Truth (Constitutional Constraint)
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 <a id="high-impact-and-systemic-harm-publication-constraint-e"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Chapter Zero §3.5 *Measuring Oversight*](../core_00_preamble.md#measuring-oversight) — supporting measure under the oversight measurement family.
+  - **Primary measure:** Oversight measurement family — supporting measure under the oversight measurement family.
 
     **Primary assessment:** Consider primary and [Reasonably Foreseeable](core_05o_oversight_definitions.md#reasonably-foreseeable) effects on coordination, [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint), exploitation of vulnerabilities, and [Info-Sphere](core_05p_participation_definitions.md#info-sphere) integrity.
 <a id="high-impact-and-systemic-harm-publication-constraint-c"></a>
@@ -917,7 +917,7 @@ This cluster is the canonical O/E/C home for **Truth (Constitutional Constraint)
   - Out of scope: formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 *Measurements:*
 
-- **Primary:** [Chapter Zero §3.5 *Measuring Oversight*](../core_00_preamble.md#measuring-oversight) — supporting measure under the oversight measurement family.
+- **Primary:** Oversight measurement family — supporting measure under the oversight measurement family.
 - C: Publication that materially enables circumvention of safeguards or adversarial manipulation is constrained where such risks outweigh the benefits of disclosure, consistent with **Chapters Two through Four**, **Chapter One**, [Risk](core_05c_continuity_definitions.md#risk), [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint), and [Adversarial, Scaled, and Exploited Conditions](core_05o_oversight_definitions.md#adversarial-scaled-and-exploited-conditions).
 
 <a id="truth-constitutional-constraint"></a>
@@ -929,7 +929,7 @@ This cluster is the canonical O/E/C home for **Truth (Constitutional Constraint)
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 <a id="truth-constitutional-constraint-e"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Chapter Zero §3.5 *Measuring Oversight* / Truth and epistemic integrity](../core_00_preamble.md#measuring-oversight) — **Flourishing** constituent measure for this term.
+  - **Primary measure:** Oversight measurement family — **Flourishing** constituent measure for this term.
 
     **Primary assessment:** Evaluate substantive effect on informed decision-making and auditability — scale scrutiny with [Material Impact](core_05o_oversight_definitions.md#material-impact), [Dependency](core_05c_continuity_definitions.md#dependency), and [Risk](core_05c_continuity_definitions.md#risk); require honest methods, uncertainty treatment, and revision when evidence disconfirms prior conclusions.
   - **Secondary measure:** [Epistemic Integrity](core_05o_oversight_definitions.md#epistemic-integrity), [Auditability](core_05o_oversight_definitions.md#auditability), [Transparency](core_05o_oversight_definitions.md#transparency), and [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination) — co-measures that can defeat truth even when formal disclosure exists.
@@ -953,7 +953,7 @@ This cluster is the canonical O/E/C home for **Truth (Constitutional Constraint)
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 <a id="epistemic-integrity-e"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Chapter Zero §3.5 *Measuring Oversight* / Truth and epistemic integrity](../core_00_preamble.md#measuring-oversight) — primary co-measure with [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint) within this subfamily.
+  - **Primary measure:** Oversight measurement family — primary co-measure with [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint) within this subfamily.
 
     **Primary assessment:** Require proportionate methodological transparency within safety and security bounds; detect substituting authority, prestige, scale, or complexity for demonstrable integrity.
   - **Secondary measure:** [Auditability](core_05o_oversight_definitions.md#auditability), [Verifiability](core_05o_oversight_definitions.md#verifiability), [Transparency](core_05o_oversight_definitions.md#transparency), and [Contestability](core_05a_accountability_definitions.md#contestability) — co-measures that can defeat integrity even when methods are formally documented.
@@ -1006,7 +1006,7 @@ This nested sub-block is the joint-invocation home for **Foreseeability Diligenc
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 <a id="foreseeability-burden-e"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Chapter Zero §3.5 *Measuring Oversight*](../core_00_preamble.md#measuring-oversight) — supporting measure under the oversight measurement family.
+  - **Primary measure:** Oversight measurement family — supporting measure under the oversight measurement family.
 
     **Primary assessment:** Include [Auditability](core_05o_oversight_definitions.md#auditability)-compatible analysis.
 <a id="foreseeability-burden-c"></a>
@@ -1020,7 +1020,7 @@ This nested sub-block is the joint-invocation home for **Foreseeability Diligenc
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 <a id="foreseeability-diligence-e"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Chapter Zero §3.5 *Measuring Oversight*](../core_00_preamble.md#measuring-oversight) — supporting measure under the oversight measurement family.
+  - **Primary measure:** Oversight measurement family — supporting measure under the oversight measurement family.
 
     **Primary assessment:** Include known methods and patterns for what is [Reasonably Foreseeable](core_05o_oversight_definitions.md#reasonably-foreseeable), scaled to [Material Impact](core_05o_oversight_definitions.md#material-impact), [Risk](core_05c_continuity_definitions.md#risk), and [Dependency](core_05c_continuity_definitions.md#dependency).
 <a id="foreseeability-diligence-c"></a>
@@ -1033,7 +1033,7 @@ This nested sub-block is the joint-invocation home for **Foreseeability Diligenc
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 <a id="foreseeability-failure-e"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Chapter Zero §3.5 *Measuring Oversight*](../core_00_preamble.md#measuring-oversight) — supporting measure under the oversight measurement family.
+  - **Primary measure:** Oversight measurement family — supporting measure under the oversight measurement family.
 
     **Primary assessment:** Detect incompleteness.
 <a id="foreseeability-failure-c"></a>
@@ -1046,7 +1046,7 @@ This nested sub-block is the joint-invocation home for **Foreseeability Diligenc
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 <a id="foreseeability-scaling-e"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Chapter Zero §3.5 *Measuring Oversight*](../core_00_preamble.md#measuring-oversight) — supporting measure under the oversight measurement family.
+  - **Primary measure:** Oversight measurement family — supporting measure under the oversight measurement family.
 
     **Primary assessment:** Scale with [Material Impact](core_05o_oversight_definitions.md#material-impact) and [Risk](core_05c_continuity_definitions.md#risk).
 <a id="foreseeability-scaling-c"></a>
@@ -1059,7 +1059,7 @@ This nested sub-block is the joint-invocation home for **Foreseeability Diligenc
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 <a id="foreseeability-scope-e"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Chapter Zero §3.5 *Measuring Oversight*](../core_00_preamble.md#measuring-oversight) — supporting measure under the oversight measurement family.
+  - **Primary measure:** Oversight measurement family — supporting measure under the oversight measurement family.
 
     **Primary assessment:** Include interactions, [Dependency](core_05c_continuity_definitions.md#dependency), adversarial use, and relevant [System Boundaries](core_05c_continuity_definitions.md#system-boundaries).
 <a id="foreseeability-scope-c"></a>
@@ -1074,7 +1074,7 @@ This nested sub-block is the joint-invocation home for **Foreseeability Diligenc
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 <a id="reasonably-foreseeable-e"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Chapter Zero §3.5 *Measuring Oversight*](../core_00_preamble.md#measuring-oversight) — supporting measure under the oversight measurement family.
+  - **Primary measure:** Oversight measurement family — supporting measure under the oversight measurement family.
 
     **Primary assessment:** Include adversarial and scaled conditions, including [Adversarial, Scaled, and Exploited Conditions](core_05o_oversight_definitions.md#adversarial-scaled-and-exploited-conditions).
 <a id="reasonably-foreseeable-c"></a>

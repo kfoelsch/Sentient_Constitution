@@ -52,7 +52,7 @@
 
 *In plain terms: **Article XII** is the trustworthy-systems Rights Floor — when a system materially affects your life, you are entitled to rely on it honestly, understand its limits, and challenge it when it fails. Trust has to be earned and kept, not manufactured with branding or fine print.*
 
-This Article states **constitutional floors** for reliable and trustworthy systems under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims). Read with [Chapter Zero §3.5 Measuring Oversight](core_00_preamble.md#measuring-oversight) (*Trustworthiness as constitutional measurement*).
+This Article states **constitutional floors** for reliable and trustworthy systems under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims). Read with Oversight measurement family (*Trustworthiness as constitutional measurement*).
 
 - **Flourishing:** sentients can form reasonable expectations about system behavior, receive honest disclosure of limits and risks, and participate and coordinate without systematic deception or manufactured reliance.
 - **Continuity:** trustworthiness holds across time, scale, and deepening dependency — systems must not quietly become less reliable, less honest, or harder to challenge as stakes rise.

@@ -20,7 +20,7 @@
 
 - Upstream: [Chapter Five compass](core_05-05_definitions_a_independent.md#chapter-five-compass-and-definition-map); [Two Constitutional Aims](../core_00_preamble.md#two-constitutional-aims); principle-layer gloss at [Chapter 00 §1](../core_00_preamble.md#flourishing).
 - Downstream: Principles: [§3 Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing); [§4 Non-Negotiable Constraints: Safety and Truth](core_01_a_values_principles.md#3-non-negotiable-constraints-safety-and-truth); [§5 Trust](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity); [§11.1.5 Constitutional Outcome Claims Discipline](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline); [aim decomposition](#flourishing-aim-decomposition); Tetrad band files where **Flourishing** is primary aim per [Chapter Five compass](core_05-05_definitions_a_independent.md#chapter-five-compass-and-definition-map).
-- Read with: [Wellbeing](core_05c_continuity_definitions.md#wellbeing), [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint), [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint), [Trustworthiness](core_05c_continuity_definitions.md#trustworthiness), [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency), [Proxy Divergence](core_05o_oversight_definitions.md#proxy-divergence), [System Capture](core_05c_continuity_definitions.md#system-capture), [Continuity (Constitutional Aim)](core_05g_continuity_aim.md#continuity-aim-constitutional) (paired aim — neither may be pursued at the expense of the other), and [Chapter Zero §3.2 *Measuring Flourishing*](../core_00_preamble.md#measuring-flourishing).
+- Read with: [Wellbeing](core_05c_continuity_definitions.md#wellbeing), [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint), [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint), [Trustworthiness](core_05c_continuity_definitions.md#trustworthiness), [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency), [Proxy Divergence](core_05o_oversight_definitions.md#proxy-divergence), [System Capture](core_05c_continuity_definitions.md#system-capture), [Continuity (Constitutional Aim)](core_05g_continuity_aim.md#continuity-aim-constitutional) (paired aim — neither may be pursued at the expense of the other), and Flourishing measurement family.
 
 </details>
 
@@ -40,7 +40,7 @@ This entry is the canonical Chapter Five home for the **Flourishing** constituti
 <a id="flourishing-constitutional-c"></a>
 - C: Non-compliant: maximizing one constituent while hollowing truth, safety, trustworthiness, or agency; flourishing claims untraceable to constitutional outcomes under Chapter Four; pursuit of **Flourishing** that materially defeats the [Continuity (Constitutional Aim)](core_05g_continuity_aim.md#continuity-aim-constitutional) without express interaction-rule permission under [Chapter One §9](core_01_b_interaction_interpretation.md#6-process-conflict-resolution).
 
-**Measurement families** ([Chapter Zero §3.2 *Measuring Flourishing*](../core_00_preamble.md#measuring-flourishing)) — link-only rollup; per-term tiers live on leaf definitions. Primary outcome measure: [Wellbeing](core_05c_continuity_definitions.md#wellbeing). Constituent and family routing: [aim decomposition](#flourishing-aim-decomposition). Progress tracker: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md). Searchable index: [definition hierarchy](doc_architecture/generated/definition_hierarchy.md).
+**Measurement families** (Flourishing measurement family) — link-only rollup; per-term tiers live on leaf definitions. Primary outcome measure: [Wellbeing](core_05c_continuity_definitions.md#wellbeing). Constituent and family routing: [aim decomposition](#flourishing-aim-decomposition). Progress tracker: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md). Searchable index: [definition hierarchy](doc_architecture/generated/definition_hierarchy.md).
 
 ---
 
@@ -87,9 +87,9 @@ Each definition listed under this aim applies within the scope set by its parent
 
 <a id="flourishing-measurement-family"></a>
 
-### Measuring Flourishing (Chapter Zero §3.2 measurement family)
+### Measuring Flourishing (Chapter Zero measurement family)
 
-*Chapter Five home for the [Chapter Zero §3.2 *Measuring Flourishing*](core_00_preamble.md#measuring-flourishing) measurement family. Chapter Zero keeps the plain-language category question; the family table, constitutional use, and definition routing live here. **Flourishing** is a constitutional aim, not a Tetrad leg — see [aim decomposition](#flourishing-aim-decomposition).*
+*Chapter Five home for the Flourishing measurement family. Chapter Zero §2 keeps the plain-language category question in the overview table; the family table, constitutional use, and definition routing live here. **Flourishing** is a constitutional aim, not a Tetrad leg — see [aim decomposition](#flourishing-aim-decomposition).*
 
 | Measurement family | Plain question | Main constitutional use |
 |---|---|---|

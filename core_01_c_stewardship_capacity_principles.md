@@ -371,7 +371,7 @@ An arrangement that no longer fits the Constitution cannot stay in place just be
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — primary Chapter One home for tetrad **capture** discipline (incentives must not hollow **participation**, **oversight**, **accountability**, or **timeliness**); [material stake](core_00_preamble.md#material-stake) scaling.
-- Read with: [Chapter Zero §3.6 Measuring Accountability](core_00_preamble.md#measuring-accountability) (*Incentive alignment and proxy integrity; Market structure and contestability*).
+- Read with: Accountability measurement family (*Incentive alignment and proxy integrity; Market structure and contestability*).
 - Read with: [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — **Continuity** aim (durable alignment against short-horizon optimization and capture); **Flourishing** aim (incentive structures that preserve meaningful agency).
 - Upstream: Principles: [2. Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§2.2 Recognition, Reinforcement, and Aspiration](core_01_a_values_principles.md#22-recognition-reinforcement-and-aspiration), [3.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [3.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [4. Trust](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity), [§9 Stewardship and Distributed Understanding](#9-stewardship-and-distributed-understanding), and [Chapter Seven §1A Whole-System Certification Evaluation](core_07-07_system_alignment_certification.md#1a-whole-system-certification-evaluation).
 - Downstream: [§5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency) and [§7 Prohibition on Absolute Override](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override).
@@ -888,7 +888,7 @@ Operative ceiling-setting discipline — horizontal and vertical trigger design,
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: [Chapter Zero §3.3 Measuring Continuity](core_00_preamble.md#measuring-continuity) (*Resilience, reversibility, and systemic risk*).
+- Read with: Continuity measurement family (*Resilience, reversibility, and systemic risk*).
 - Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims), and [material stake](core_00_preamble.md#material-stake) scaling.
 - Read with: [6. Process Conflict Resolution](core_01_b_interaction_interpretation.md#6-process-conflict-resolution), [§9 Stewardship and Distributed Understanding](#9-stewardship-and-distributed-understanding), [§10 Governance Under Stewardship Discipline](#10-governance-under-stewardship-discipline), and [§11 Incentive Alignment and System Capture](#11-incentive-alignment-and-system-capture).
 - Read with: **[Chapter Seven §1A Whole-System Certification Evaluation](core_07-07_system_alignment_certification.md#1a-whole-system-certification-evaluation)** — operative whole-system evaluation factors for system alignment certification.

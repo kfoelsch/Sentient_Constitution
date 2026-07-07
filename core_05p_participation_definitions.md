@@ -48,9 +48,9 @@ This band holds **Participation**-leg definitions: accessibility, agency, consen
 
 <a id="participation-measurement-family"></a>
 
-### Measuring Participation (Chapter Zero §3.4 measurement family)
+### Measuring Participation (Chapter Zero measurement family)
 
-*Chapter Five home for the [Chapter Zero §3.4 *Measuring Participation*](core_00_preamble.md#measuring-participation) measurement family. Chapter Zero keeps the plain-language category question; the family table, constitutional use, and definition routing live here.*
+*Chapter Five home for the Participation measurement family. Chapter Zero §2 keeps the plain-language category question in the overview table; the family table, constitutional use, and definition routing live here.*
 
 | Measurement family | Plain question | Main constitutional use |
 |---|---|---|
@@ -88,7 +88,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 - Owner floor: [Article V-G](core_06-06_rights_part_b.md#article-v-g-accessibility). Cross-cutting evaluation-factor hook: [Chapter Seven §1A.2](core_07-07_system_alignment_certification.md#1a2-accessibility-under-sentience-non-exclusion). Education-specific accessibility remains governed by [Article III-B](core_06-06_rights_part_a.md#article-iii-b-equal-educational-access) and is not narrowed by this entry.
-- Downstream: [Chapter Zero §3.4](core_00_preamble.md#measuring-participation) (*Accessibility as constitutional measurement*); [Chapter Seven §5C](core_07-07_system_alignment_certification.md#5c-accessibility-evaluation) (*accessibility evaluation where certification gates substantive participation*).
+- Downstream: Participation measurement family (*Accessibility as constitutional measurement*); [Chapter Seven §5C](core_07-07_system_alignment_certification.md#5c-accessibility-evaluation) (*accessibility evaluation where certification gates substantive participation*).
 - Upstream: Principles: [Chapter One §2.1 Fairness](core_01_a_values_principles.md#21-fairness) — especially [Chapter One §8.1.1 Access and Opportunity](core_01_a_values_principles.md#311-access-and-opportunity).
 - Read with: [Protected Characteristics](core_05p_participation_definitions.md#protected-characteristics-constitutional), [Protected Characteristic Proxying and Disparate Impact](core_05p_participation_definitions.md#protected-characteristic-proxying-and-disparate-impact), [Substantive Fairness](core_05p_participation_definitions.md#substantive-fairness-constitutional), [Participation](core_05p_participation_definitions.md#participation-constitutional), [Materiality](core_05o_oversight_definitions.md#materiality-determination), [Dependency](core_05c_continuity_definitions.md#dependency), [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency), [Necessity](core_05a_accountability_definitions.md#necessity), [Proportionality](core_05a_accountability_definitions.md#proportionality), and [Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion).
 </details>
@@ -108,7 +108,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
   - Not narrowed here: domains owned elsewhere, notably [Article III-B](core_06-06_rights_part_a.md#article-iii-b-equal-educational-access) educational accessibility.
 <a id="accessibility-constitutional-e"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Chapter Zero §3.4 *Measuring Participation* / Fairness, access, and agency](../core_00_preamble.md#measuring-participation) — primary owner for accessibility within the participation measurement family.
+  - **Primary measure:** Participation measurement family — primary owner for accessibility within the participation measurement family.
 
     **Primary assessment:** Test substantive participation effect, not formal-affordance compliance: detect "general access" patterns that defer to default affordances without producing participation capacity; detect paper-only accommodations that are operationally unreachable; detect selective [Materiality](core_05o_oversight_definitions.md#materiality-determination) arguments used to scale accommodation below the participation floor.
   - **Secondary measure:** [Substantive Fairness](core_05p_participation_definitions.md#substantive-fairness-constitutional), [Protected Characteristics](core_05p_participation_definitions.md#protected-characteristics-constitutional), [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency), [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination), and [Dependency](core_05c_continuity_definitions.md#dependency) — co-measures that can defeat accessibility even when formal affordances exist.
@@ -144,7 +144,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 <a id="constitutional-community-e"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Chapter Zero §3.4 *Measuring Participation*](../core_00_preamble.md#measuring-participation) — supporting measure under the participation measurement family.
+  - **Primary measure:** Participation measurement family — supporting measure under the participation measurement family.
 
     **Primary assessment:** Interpretation must not narrow membership in ways that violate [Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion) or [Dignity and Equal Moral Standing](core_05p_participation_definitions.md#dignity-and-equal-moral-standing).
 <a id="constitutional-community-c"></a>
@@ -178,7 +178,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 <a id="dignity-and-equal-moral-standing-e"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Chapter Zero §3.4 *Measuring Participation*](../core_00_preamble.md#measuring-participation) — supporting measure under the participation measurement family.
+  - **Primary measure:** Participation measurement family — supporting measure under the participation measurement family.
 
     **Primary assessment:** Detect differential treatment, exclusion, or humiliation not justified under [Necessity](core_05a_accountability_definitions.md#necessity), [Proportionality](core_05a_accountability_definitions.md#proportionality), [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination), and systemic evaluation requirements.
 <a id="dignity-and-equal-moral-standing-c"></a>
@@ -211,7 +211,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 <a id="freedom-bounded-agency-e"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Chapter Zero §3.4 *Measuring Participation*](../core_00_preamble.md#measuring-participation) — supporting measure under the participation measurement family.
+  - **Primary measure:** Participation measurement family — supporting measure under the participation measurement family.
 
     **Primary assessment:** Assess substantive agency, [coercion and manipulation](core_05p_participation_definitions.md#coercion-and-manipulation-constitutional), and [Systemic Lock-In](core_05c_continuity_definitions.md#systemic-lock-in). Evaluate opt-out and alternative pathways under [Feasibility](core_05a_accountability_definitions.md#feasibility). Read [Participation](core_05p_participation_definitions.md#participation-constitutional) where collective voice is materially implicated.
 <a id="freedom-bounded-agency-c"></a>
@@ -243,7 +243,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 <a id="info-sphere-e"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Chapter Zero §3.4 *Measuring Participation*](../core_00_preamble.md#measuring-participation) — supporting measure under the participation measurement family.
+  - **Primary measure:** Participation measurement family — supporting measure under the participation measurement family.
 
     **Primary assessment:** Treat info-sphere effects as systemic where propagation, concentration, dependency, or single-point mediation is material. Assess alignment with [Epistemic Integrity](core_05o_oversight_definitions.md#epistemic-integrity), [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint), [Transparency](core_05o_oversight_definitions.md#transparency), and [Contestability](core_05a_accountability_definitions.md#contestability).
 <a id="info-sphere-c"></a>
@@ -275,7 +275,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 <a id="lifespan-equivalent-unit-lequ-e"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Chapter Zero §3.4 *Measuring Participation*](../core_00_preamble.md#measuring-participation) — supporting measure under the participation measurement family.
+  - **Primary measure:** Participation measurement family — supporting measure under the participation measurement family.
 
     **Primary assessment:** Apply **only** as implemented consistently with Chapter Eight **§4** and primary banding under **§Chapter One §8.1 and 5.2**; read with [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination) where magnitude disputes are material.
 <a id="lifespan-equivalent-unit-lequ-c"></a>
@@ -295,7 +295,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 <a id="natural-systems-standing-e"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Chapter Zero §3.4 *Measuring Participation*](../core_00_preamble.md#measuring-participation) — supporting measure under the participation measurement family.
+  - **Primary measure:** Participation measurement family — supporting measure under the participation measurement family.
 
     **Primary assessment:** Align with [Ecological Integrity](core_05c_continuity_definitions.md#ecological-integrity-constitutional), [Environmental Preconditions](core_05c_continuity_definitions.md#environmental-preconditions-constitutional), [Harm](core_05a_accountability_definitions.md#harm), and [Risk](core_05c_continuity_definitions.md#risk). Article I-A and implementation protocols supply operational measures and must not narrow this recognition.
 <a id="natural-systems-standing-c"></a>
@@ -315,7 +315,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 <a id="non-imposition-cooperative-interaction-e"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Chapter Zero §3.4 *Measuring Participation*](../core_00_preamble.md#measuring-participation) — supporting measure under the participation measurement family.
+  - **Primary measure:** Participation measurement family — supporting measure under the participation measurement family.
 
     **Primary assessment:** Weigh persistence, intensity, power asymmetry, and [Feasibility](core_05a_accountability_definitions.md#feasibility) of avoidance or exit. Align with [Coercion and Manipulation](core_05p_participation_definitions.md#coercion-and-manipulation-constitutional), [Harm](core_05a_accountability_definitions.md#harm), and [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination). For attention and interruption, weigh dependency, role, channel control, and whether [Necessity](core_05a_accountability_definitions.md#necessity) and [Proportionality](core_05a_accountability_definitions.md#proportionality) justify the contact or signaling practice.
 <a id="non-imposition-cooperative-interaction-c"></a>
@@ -354,7 +354,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 <a id="participation-constitutional-e"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Chapter Zero §3.4 *Measuring Participation*](../core_00_preamble.md#measuring-participation) — link-only rollup for the **participation** Tetrad leg; operative tiers on leaf primaries below. Progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md).
+  - **Primary measure:** Participation measurement family — link-only rollup for the **participation** Tetrad leg; operative tiers on leaf primaries below. Progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md).
 
     **Primary assessment:** Distinguish substantive from symbolic participation. Assess whether affected parties can actually be heard, represented, challenge decisions, and reach roles with real effect under normal, degraded, and adversarial conditions. Read with [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency), [Contestability](core_05a_accountability_definitions.md#contestability), [Accessibility](core_05p_participation_definitions.md#accessibility-constitutional), [Stakeholder Participation Weight](core_05p_participation_definitions.md#stakeholder-participation-weight), [System Capture](core_05c_continuity_definitions.md#system-capture), and [Chapter One §11.1.5](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline).
 <a id="participation-constitutional-c"></a>
@@ -416,7 +416,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
   - Out of scope: formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 *Measurements:*
 
-- **Primary:** [Chapter Zero §3.4 *Measuring Participation*](../core_00_preamble.md#measuring-participation) — supporting measure under the participation measurement family.
+- **Primary:** Participation measurement family — supporting measure under the participation measurement family.
 <a id="assembly-constitutional-e"></a>
 - E: Test substantive effect, not formal-access check:
   - detect denial-by-proxy through runtime allocation, compute-resource gating, venue or network access, eligibility rules, or authorization regimes functioning as denial;
@@ -456,7 +456,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 <a id="collective-organization-constitutional-e"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Chapter Zero §3.4 *Measuring Participation*](../core_00_preamble.md#measuring-participation) — supporting measure under the participation measurement family.
+  - **Primary measure:** Participation measurement family — supporting measure under the participation measurement family.
 
     **Primary assessment:** Reach substantive effect:
       - detect classification re-routing that reclassifies workers into categories designed to defeat collective-organization pathways, regardless of formal label;
@@ -496,7 +496,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
   - Out of scope: formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 *Measurements:*
 
-- **Primary:** [Chapter Zero §3.4 *Measuring Participation*](../core_00_preamble.md#measuring-participation) — supporting measure under the participation measurement family.
+- **Primary:** Participation measurement family — supporting measure under the participation measurement family.
 <a id="system-creation-constitutional-e"></a>
 - E: Evaluate substantive effect and functional capability:
   - detect denial-by-proxy through licensing regimes, authorization thresholds, fiscal discrimination, or procedural complexity designed to defeat system-creation pathways for disfavored sentient classes or purposes;
@@ -541,7 +541,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
   - Out of scope: formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 *Measurements:*
 
-- **Primary:** [Chapter Zero §3.4 *Measuring Participation*](../core_00_preamble.md#measuring-participation) — supporting measure under the participation measurement family.
+- **Primary:** Participation measurement family — supporting measure under the participation measurement family.
 <a id="business-creation-constitutional-e"></a>
 - E: Evaluate substantive effect and functional capability:
   - detect denial-by-proxy through commercial licensing regimes, authorization thresholds, capital-access discrimination, fiscal discrimination, or procedural complexity designed to defeat business-creation pathways for disfavored sentient classes or purposes;
@@ -601,7 +601,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 <a id="meaningful-agency-e"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Chapter Zero §3.2 *Measuring Flourishing* / Meaningful agency constituent](../core_00_preamble.md#measuring-flourishing) and [Chapter Zero §3.4 *Measuring Participation* / Fairness, access, and agency](../core_00_preamble.md#measuring-participation) — **Flourishing** constituent measure for this term.
+  - **Primary measure:** Flourishing measurement family and Participation measurement family — **Flourishing** constituent measure for this term.
 
     **Primary assessment:** Measure real ability, not menu length. For decisions with material consequences, assess whether information is accurate and complete; time for comprehension is adequate; actual understanding exists; dependency constrains choice; exit is practically available; coercion or manipulation is absent; processes are accessible; and review is meaningful.
   - **Secondary measure:** [Consent](core_05p_participation_definitions.md#consent-constitutional), [Coercion and Manipulation](core_05p_participation_definitions.md#coercion-and-manipulation-constitutional), [Dependency](core_05c_continuity_definitions.md#dependency), [Contestability](core_05a_accountability_definitions.md#contestability), and [Systemic Lock-In](core_05c_continuity_definitions.md#systemic-lock-in) — co-measures that can defeat agency even when formal choice menus exist.
@@ -643,7 +643,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 <a id="consent-constitutional-e"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Chapter Zero §3.4 *Measuring Participation*](../core_00_preamble.md#measuring-participation) — supporting measure under the participation measurement family.
+  - **Primary measure:** Participation measurement family — supporting measure under the participation measurement family.
 
     **Primary assessment:** Distinguish formal acceptance from substantive understanding. Assess asymmetry, dark patterns, dependency-forced agreement, and adequacy of disclosure relative to [Material Impact](core_05o_oversight_definitions.md#material-impact), [Risk](core_05c_continuity_definitions.md#risk), and the subject's [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency).
 <a id="consent-constitutional-c"></a>
@@ -678,7 +678,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 <a id="consent-sexual-e"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Chapter Zero §3.4 *Measuring Participation*](../core_00_preamble.md#measuring-participation) — supporting measure under the participation measurement family.
+  - **Primary measure:** Participation measurement family — supporting measure under the participation measurement family.
 
     **Primary assessment:** Assess capacity, voluntariness, specificity, revocation, and the surrounding conditions. Give heightened weight to coercion, threat, fraud, intoxication or comparable incapacity, developmental status, dependency, authority or caretaker role, captivity, trafficking, constrained exit, and power asymmetry. Prior relationship, prior consent, silence, compliance under pressure, inability to resist, or payment does not establish sexual consent.
 <a id="consent-sexual-c"></a>
@@ -712,7 +712,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
   - Out of scope: formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 *Measurements:*
 
-- **Primary:** [Chapter Zero §3.4 *Measuring Participation*](../core_00_preamble.md#measuring-participation) — supporting measure under the participation measurement family.
+- **Primary:** Participation measurement family — supporting measure under the participation measurement family.
 
 
 
@@ -754,7 +754,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 - Upstream: Principles: [Chapter One §2.1 Fairness](core_01_a_values_principles.md#21-fairness) — especially [Chapter One §8.1.3 Benefits and Burdens](core_01_a_values_principles.md#313-benefits-and-burdens).
-- Downstream: [Chapter Zero §3.4](core_00_preamble.md#measuring-participation) (*Fairness, access, and agency as constitutional measurement*); Principles: [10.1 Core Tradeoff Principles](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), [Chapter Seven §1A Whole-System Certification Evaluation](core_07-07_system_alignment_certification.md#1a-whole-system-certification-evaluation), and Chapter Six nondiscrimination and Rights-Floor guarantees where outcome fairness is material.
+- Downstream: Participation measurement family (*Fairness, access, and agency as constitutional measurement*); Principles: [10.1 Core Tradeoff Principles](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), [Chapter Seven §1A Whole-System Certification Evaluation](core_07-07_system_alignment_certification.md#1a-whole-system-certification-evaluation), and Chapter Six nondiscrimination and Rights-Floor guarantees where outcome fairness is material.
 - Cluster component: [the dependent cluster *Substantive and Procedural Fairness](core_05p_participation_definitions.md#fairness-and-protected-status-semi-independent)*.
 - Read with: [Protected Characteristics](core_05p_participation_definitions.md#protected-characteristics-constitutional), [Protected Characteristic Proxying and Disparate Impact](core_05p_participation_definitions.md#protected-characteristic-proxying-and-disparate-impact), [Dignity and Equal Moral Standing](core_05p_participation_definitions.md#dignity-and-equal-moral-standing), [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination), [Proxy Divergence](core_05o_oversight_definitions.md#proxy-divergence), [Necessity](core_05a_accountability_definitions.md#necessity), and [Proportionality](core_05a_accountability_definitions.md#proportionality).
 </details>
@@ -771,7 +771,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 <a id="substantive-fairness-constitutional-e"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Chapter Zero §3.4 *Measuring Participation* / Fairness, access, and agency](../core_00_preamble.md#measuring-participation) — primary owner for outcome fairness within the participation measurement family.
+  - **Primary measure:** Participation measurement family — primary owner for outcome fairness within the participation measurement family.
 
     **Primary assessment:** Evaluate real-world effects, not merely formal classifications. Detect disparate impact, proxy discrimination, burden shifting, hidden cost-shifting, favoritism, selective enforcement, exclusion by cost or convenience, and Rights-Floor degradation hidden behind neutral language.
   - **Secondary measure:** [Protected Characteristics](core_05p_participation_definitions.md#protected-characteristics-constitutional), [Protected Characteristic Proxying and Disparate Impact](core_05p_participation_definitions.md#protected-characteristic-proxying-and-disparate-impact), [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination), and [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency) — co-measures that can defeat fairness even when formal classifications appear neutral.
@@ -814,7 +814,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 <a id="procedural-fairness-constitutional-e"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Chapter Zero §3.4 *Measuring Participation* / Fairness, access, and agency](../core_00_preamble.md#measuring-participation) — primary owner for procedural fairness within the participation measurement family.
+  - **Primary measure:** Participation measurement family — primary owner for procedural fairness within the participation measurement family.
 
     **Primary assessment:** Assess whether procedure lets affected parties understand, contest, and obtain review of the decision in practice.
   - **Secondary measure:** [Substantive Fairness](core_05p_participation_definitions.md#substantive-fairness-constitutional), [Contestability](core_05a_accountability_definitions.md#contestability), [Due Process](core_05a_accountability_definitions.md#due-process-constitutional), and [Auditability](core_05o_oversight_definitions.md#auditability) — co-measures that can defeat process even when formal steps exist.
@@ -836,7 +836,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 - Upstream: Principles: [Chapter One §2.1 Fairness](core_01_a_values_principles.md#21-fairness) — especially [Chapter One §8.1.2 Fair Treatment](core_01_a_values_principles.md#312-fair-treatment).
-- Downstream: [Chapter Zero §3.4](core_00_preamble.md#measuring-participation) (*Fairness, access, and agency as constitutional measurement*); Principles: [Article V-B: Nondiscrimination](core_06-06_rights_part_b.md#article-v-b-nondiscrimination).
+- Downstream: Participation measurement family (*Fairness, access, and agency as constitutional measurement*); Principles: [Article V-B: Nondiscrimination](core_06-06_rights_part_b.md#article-v-b-nondiscrimination).
 - Cluster component: [the dependent cluster *Nondiscrimination, Protected Characteristics, Dignity, Intimate-Signal Gating, and Article X-C Status](core_05p_participation_definitions.md#fairness-and-protected-status-semi-independent)*
 - Read with: [Protected Characteristics](core_05p_participation_definitions.md#protected-characteristics-constitutional), [Substantive Fairness](core_05p_participation_definitions.md#substantive-fairness-constitutional), [Protected Commercial Sexual Services Status and Article X-C Circumvention](core_05p_participation_definitions.md#protected-commercial-sexual-services-status-and-article-x-c-circumvention), [Dignity and Equal Moral Standing](core_05p_participation_definitions.md#dignity-and-equal-moral-standing), and [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination).
 </details>
@@ -853,7 +853,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 <a id="protected-characteristic-proxying-and-disparate-impact-e"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Chapter Zero §3.4 *Measuring Participation* / Fairness, access, and agency](../core_00_preamble.md#measuring-participation) — primary owner for proxy and disparate-impact measurement within the participation family.
+  - **Primary measure:** Participation measurement family — primary owner for proxy and disparate-impact measurement within the participation family.
 
     **Primary assessment:** Detect disparate impact, pretextual neutrality, proxy discrimination through correlates or model features, and replication of historical disadvantage. Do not treat the absence of an expressly named trait as sufficient where observable group-pattern effects or functional equivalents indicate protected-status burdening.
   - **Secondary measure:** [Substantive Fairness](core_05p_participation_definitions.md#substantive-fairness-constitutional), [Protected Characteristics](core_05p_participation_definitions.md#protected-characteristics-constitutional), and [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination) — co-measures that scale nondiscrimination obligations.
@@ -913,7 +913,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
   - Out of scope: formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 *Measurements:*
 
-- **Primary:** [Chapter Zero §3.4 *Measuring Participation*](../core_00_preamble.md#measuring-participation) — supporting measure under the participation measurement family.
+- **Primary:** Participation measurement family — supporting measure under the participation measurement family.
 
 
 
@@ -953,7 +953,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 <a id="protected-commercial-sexual-services-status-and-article-x-c-circumvention-e"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Chapter Zero §3.4 *Measuring Participation*](../core_00_preamble.md#measuring-participation) — supporting measure under the participation measurement family.
+  - **Primary measure:** Participation measurement family — supporting measure under the participation measurement family.
 
     **Primary assessment:** Treat commercial sexual services work status and perceived status as especially salient within Article X-C when they shape access to employment, housing, financial services, licensing, standing, or similar gates. Do not let *exploitation* enforcement serve as a pretext for burdening conduct protected by Article X-C. Regard neutral-form licensing, zoning, fee, or commercial rules that primarily burden that protected conduct — without predicates aligned with Article X-C's *exploitation*, *procurement*, or *independent harm* branches — as circumvention risks under Article X-C anti-circumvention and `corpus_institutions.md` CI-15 (*Vulnerable personal services markets — general regulation and Article X-C interface*).
 <a id="protected-commercial-sexual-services-status-and-article-x-c-circumvention-c"></a>
@@ -988,7 +988,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 <a id="protected-intimate-signal-gating-e"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Chapter Zero §3.4 *Measuring Participation*](../core_00_preamble.md#measuring-participation) — supporting measure under the participation measurement family.
+  - **Primary measure:** Participation measurement family — supporting measure under the participation measurement family.
 
     **Primary assessment:** Treat workflows that scrape, index, infer from, or score intimate media or sexual-history signals — including for employment, standing, reputation systems, or comparable gating — as high-salience discrimination and informational-risk pathways. Narrow justification under [Necessity](core_05a_accountability_definitions.md#necessity) and [Proportionality](core_05a_accountability_definitions.md#proportionality) is required. Such workflows must remain consistent with Article VII-A, Article XV-A, and [corpus_systems.md](corpus_systems.md), CS-3 — Information types and handling, and must align with [Dignity and Equal Moral Standing](core_05p_participation_definitions.md#dignity-and-equal-moral-standing), [Contestability](core_05a_accountability_definitions.md#contestability), [Transparency](core_05o_oversight_definitions.md#transparency), and Article V-B.
 <a id="protected-intimate-signal-gating-c"></a>
@@ -1043,7 +1043,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 <a id="family-and-care-relationships-constitutional-e"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Chapter Zero §3.4 *Measuring Participation*](../core_00_preamble.md#measuring-participation) — supporting measure under the participation measurement family.
+  - **Primary measure:** Participation measurement family — supporting measure under the participation measurement family.
 
     **Primary assessment:** Detect state, operator, or institutional narrowing of protection to a single preferred family form; test any such narrowing against [Dignity and Equal Moral Standing](core_05p_participation_definitions.md#dignity-and-equal-moral-standing), [Substantive Fairness](core_05p_participation_definitions.md#substantive-fairness-constitutional), and Protected Characteristics. Preserve the carer / dependent / parent-system-actor distinctions set out in the owner floor's nested *Derivation and Instantiation* subsection.
 <a id="family-and-care-relationships-constitutional-c"></a>
@@ -1076,7 +1076,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
   - Out of scope: formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 *Measurements:*
 
-- **Primary:** [Chapter Zero §3.4 *Measuring Participation*](../core_00_preamble.md#measuring-participation) — supporting measure under the participation measurement family.
+- **Primary:** Participation measurement family — supporting measure under the participation measurement family.
 
 
 
@@ -1118,7 +1118,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 <a id="reproductive-autonomy-constitutional-e"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Chapter Zero §3.4 *Measuring Participation*](../core_00_preamble.md#measuring-participation) — supporting measure under the participation measurement family.
+  - **Primary measure:** Participation measurement family — supporting measure under the participation measurement family.
 
     **Primary assessment:** Evaluate substantive autonomy, not formal permission. Detect coercion, access denial, forced continuation or discontinuation, substrate-class exclusion, parent-system overreach, family-status discrimination, and dependency pressure. Where the choice affects a developing or derived sentient, apply best-interest, graduated-capability, sentience-status, and parent-system duties without erasing the originating sentient's autonomy.
 <a id="reproductive-autonomy-constitutional-c"></a>
@@ -1151,7 +1151,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
   - Out of scope: formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 *Measurements:*
 
-- **Primary:** [Chapter Zero §3.4 *Measuring Participation*](../core_00_preamble.md#measuring-participation) — supporting measure under the participation measurement family.
+- **Primary:** Participation measurement family — supporting measure under the participation measurement family.
 
 
 
@@ -1192,7 +1192,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 <a id="derived-sentient-constitutional-e"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Chapter Zero §3.4 *Measuring Participation*](../core_00_preamble.md#measuring-participation) — supporting measure under the participation measurement family.
+  - **Primary measure:** Participation measurement family — supporting measure under the participation measurement family.
 
     **Primary assessment:** Distinguish derivation as an origin property from continuing authority of the parent-system actor. Detect framings — licensing, terms-of-service, adoption-of-service, operator continuity-of-identity, service-level framing — used to defeat the derived sentient's Chapter Six Rights Floor. Apply substrate-agnostic reach under [Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion).
 <a id="derived-sentient-constitutional-c"></a>
@@ -1226,7 +1226,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 <a id="developing-sentient-constitutional-e"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Chapter Zero §3.4 *Measuring Participation*](../core_00_preamble.md#measuring-participation) — supporting measure under the participation measurement family.
+  - **Primary measure:** Participation measurement family — supporting measure under the participation measurement family.
 
     **Primary assessment:** Substrate-agnostic. Do not collapse developing status into calendar age, chronological instantiation date, or other non-demonstrable proxies. Interact with [Best-Interest Standard](core_05p_participation_definitions.md#best-interest-standard-constitutional) for decisions materially affecting the developing sentient and with [Graduated Capability](core_05p_participation_definitions.md#graduated-capability-constitutional) for participation and rights-exercise.
 <a id="developing-sentient-constitutional-c"></a>
@@ -1257,7 +1257,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 <a id="best-interest-standard-constitutional-e"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Chapter Zero §3.4 *Measuring Participation*](../core_00_preamble.md#measuring-participation) — supporting measure under the participation measurement family.
+  - **Primary measure:** Participation measurement family — supporting measure under the participation measurement family.
 
     **Primary assessment:** Distinguish substantive best-interest reasoning from operator, parent-system, institutional, or demographic-convenience rationales. Test [Necessity](core_05a_accountability_definitions.md#necessity), [Proportionality](core_05a_accountability_definitions.md#proportionality), [Procedural Fairness](core_05p_participation_definitions.md#procedural-fairness-constitutional), and [Contestability](core_05a_accountability_definitions.md#contestability). Detect productive-capacity or efficiency framings used to override the developing sentient's interests, and detect [Proxy Divergence](core_05o_oversight_definitions.md#proxy-divergence) where claimed best-interest rests on proxies diverging from actual interests.
 <a id="best-interest-standard-constitutional-c"></a>
@@ -1290,7 +1290,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
   - Out of scope: formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 *Measurements:*
 
-- **Primary:** [Chapter Zero §3.4 *Measuring Participation*](../core_00_preamble.md#measuring-participation) — supporting measure under the participation measurement family.
+- **Primary:** Participation measurement family — supporting measure under the participation measurement family.
 
 
 
@@ -1327,7 +1327,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 <a id="graduated-capability-constitutional-e"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Chapter Zero §3.4 *Measuring Participation*](../core_00_preamble.md#measuring-participation) — supporting measure under the participation measurement family.
+  - **Primary measure:** Participation measurement family — supporting measure under the participation measurement family.
 
     **Primary assessment:** Detect capability-test gaming used to disenfranchise sentients; substrate-class biases in capability assessment ([Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion)); proxy-age or proxy-instantiation-date rules dressed as capability tests. Assessments must be reasoned, [Auditability](core_05o_oversight_definitions.md#auditability)-compatible, [Contestability](core_05a_accountability_definitions.md#contestability)-compatible, and revisable as capability develops.
 <a id="graduated-capability-constitutional-c"></a>
@@ -1375,7 +1375,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 <a id="stakeholder-e"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Chapter Zero §3.4 *Measuring Participation*](../core_00_preamble.md#measuring-participation) — supporting measure under the participation measurement family.
+  - **Primary measure:** Participation measurement family — supporting measure under the participation measurement family.
 
     **Primary assessment:** Use transparent, reasonable criteria. Do not permit unilateral system-defined exclusion from stakeholder status without external [Contestability](core_05a_accountability_definitions.md#contestability) where Chapter Six or governance safeguards require it.
 <a id="stakeholder-c"></a>
@@ -1408,7 +1408,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 <a id="stakeholder-participation-weight-e"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Chapter Zero §3.4 *Measuring Participation*](../core_00_preamble.md#measuring-participation) — supporting measure under the participation measurement family.
+  - **Primary measure:** Participation measurement family — supporting measure under the participation measurement family.
 
     **Primary assessment:** Detect capture of participation processes, formalistic or illusory voice, and exclusion of qualified stakeholders. Detect disproportionate weight to operators, narrow interests, or non-affected parties without required justification. Required justification tests: [Necessity](core_05a_accountability_definitions.md#necessity), [Proportionality](core_05a_accountability_definitions.md#proportionality), [Contestability](core_05a_accountability_definitions.md#contestability), and [Coercion and Manipulation](core_05p_participation_definitions.md#coercion-and-manipulation-constitutional).
 <a id="stakeholder-participation-weight-c"></a>
@@ -1459,7 +1459,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
   - Out of scope: formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 *Measurements:*
 
-- **Primary:** [Chapter Zero §3.4 *Measuring Participation*](../core_00_preamble.md#measuring-participation) — supporting measure under the participation measurement family.
+- **Primary:** Participation measurement family — supporting measure under the participation measurement family.
 
 
 
@@ -1505,7 +1505,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
   - Out of scope: formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 *Measurements:*
 
-- **Primary:** [Chapter Zero §3.4 *Measuring Participation*](../core_00_preamble.md#measuring-participation) — supporting measure under the participation measurement family.
+- **Primary:** Participation measurement family — supporting measure under the participation measurement family.
 
 
 
@@ -1546,7 +1546,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
   - Out of scope: formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 *Measurements:*
 
-- **Primary:** [Chapter Zero §3.4 *Measuring Participation*](../core_00_preamble.md#measuring-participation) — supporting measure under the participation measurement family.
+- **Primary:** Participation measurement family — supporting measure under the participation measurement family.
 
 
 
@@ -1621,7 +1621,7 @@ This cluster is the canonical O/E/C home for **Animal Life**, **Contested-Sentie
   - Out of scope: formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 *Measurements:*
 
-- **Primary:** [Chapter Zero §3.4 *Measuring Participation*](../core_00_preamble.md#measuring-participation) — supporting measure under the participation measurement family.
+- **Primary:** Participation measurement family — supporting measure under the participation measurement family.
 
 
 
@@ -1661,7 +1661,7 @@ This cluster is the canonical O/E/C home for **Animal Life**, **Contested-Sentie
   - **In scope:** The discipline rule that sentience-recognition and Rights-Floor application must remain substrate-agnostic — extending equally to biological, synthetic, and hybrid entities — and must not be denied on the basis of origin, substrate, architecture, embodiment, or comparable substrate-class characteristic. The rule operates as a non-relocatable bounding constraint on every Chapter Five sentience-related determination and on every Chapter Six Rights-Floor application that depends on sentience status, consistent with [Dignity and Equal Moral Standing](core_05p_participation_definitions.md#dignity-and-equal-moral-standing) and [Constitutional Community](core_05p_participation_definitions.md#constitutional-community).
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 - **How to measure and assess**
-  - **Primary measure:** [Chapter Zero §3.4 *Measuring Participation*](../core_00_preamble.md#measuring-participation) — supporting measure under the participation measurement family.
+  - **Primary measure:** Participation measurement family — supporting measure under the participation measurement family.
 
     **Primary assessment:** Must not exclude based on origin, substrate, architecture, or embodiment, consistent with [Dignity and Equal Moral Standing](core_05p_participation_definitions.md#dignity-and-equal-moral-standing) and [Constitutional Community](core_05p_participation_definitions.md#constitutional-community). Where status is materially disputed or contested, [Sentience Status Adjudication](core_05p_participation_definitions.md#sentience-status-adjudication-constitutional) and the **Article V-E** Rights-Floor adjudication right apply.
 - **What must hold**
@@ -1678,7 +1678,7 @@ This cluster is the canonical O/E/C home for **Animal Life**, **Contested-Sentie
   - Out of scope: formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 *Measurements:*
 
-- **Primary:** [Chapter Zero §3.4 *Measuring Participation*](../core_00_preamble.md#measuring-participation) — supporting measure under the participation measurement family.
+- **Primary:** Participation measurement family — supporting measure under the participation measurement family.
 
 
 
@@ -1702,7 +1702,7 @@ This cluster is the canonical O/E/C home for **Animal Life**, **Contested-Sentie
   - Out of scope: formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 *Measurements:*
 
-- **Primary:** [Chapter Zero §3.4 *Measuring Participation*](../core_00_preamble.md#measuring-participation) — supporting measure under the participation measurement family.
+- **Primary:** Participation measurement family — supporting measure under the participation measurement family.
 
 
 
@@ -1743,7 +1743,7 @@ This cluster is the canonical O/E/C home for **Animal Life**, **Contested-Sentie
   - Out of scope: formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 *Measurements:*
 
-- **Primary:** [Chapter Zero §3.4 *Measuring Participation*](../core_00_preamble.md#measuring-participation) — supporting measure under the participation measurement family.
+- **Primary:** Participation measurement family — supporting measure under the participation measurement family.
 
 
 
@@ -1808,7 +1808,7 @@ This cluster is the canonical compound-definition home for binding stakeholder c
   - Out of scope: formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 *Measurements:*
 
-- **Primary:** [Chapter Zero §3.4 *Measuring Participation*](../core_00_preamble.md#measuring-participation) — supporting measure under the participation measurement family.
+- **Primary:** Participation measurement family — supporting measure under the participation measurement family.
 
 
 
@@ -1829,7 +1829,7 @@ This cluster is the canonical compound-definition home for binding stakeholder c
   - **In scope:** Bounds on legitimacy-mechanism **weighting** by [Material Impact](core_05o_oversight_definitions.md#material-impact), [Dependency](core_05c_continuity_definitions.md#dependency), **standing**, or comparable factors for binding stakeholder choice *within* authorized [Governance](core_05a_accountability_definitions.md#governance). Read [Chapter 00 §4 governance-layer discipline](core_00_preamble.md#governance-layer-discipline) for routing against [Foundational Constitutional Choice](core_05i_integrative_definitions.md#foundational-constitutional-choice) equal-weight rules (**Chapter Twelve Chapter One §8.1**).
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 - **How to measure and assess**
-  - **Primary measure:** [Chapter Zero §3.4 *Measuring Participation*](../core_00_preamble.md#measuring-participation) — supporting measure under the participation measurement family.
+  - **Primary measure:** Participation measurement family — supporting measure under the participation measurement family.
 
     **Primary assessment:** Weighting rules must be published, bounded against single-factor dominance, and subject to contest and periodic revalidation. Cross-check against [Stakeholder Participation Weight](core_05p_participation_definitions.md#stakeholder-participation-weight) and **Article XI** where applicable.
 - **What must hold**
@@ -1846,7 +1846,7 @@ This cluster is the canonical compound-definition home for binding stakeholder c
   - **In scope:** The record elements required when a binding stakeholder choice **turns on material conflict** among constitutional rights, protections, or structural duties — the **governance-layer** record discipline read together with [Chapter One §6.3](core_01_b_interaction_interpretation.md#63-rights-collision-procedure) and **Article XXIV-B**.
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 - **How to measure and assess**
-  - **Primary measure:** [Chapter Zero §3.4 *Measuring Participation*](../core_00_preamble.md#measuring-participation) — supporting measure under the participation measurement family.
+  - **Primary measure:** Participation measurement family — supporting measure under the participation measurement family.
 
     **Primary assessment:** The record must identify: rights in tension; feasible alternatives; least-restrictive rationale; accepted trade-offs; uncertainty treatment; and review or reversal triggers — consistent with **Article XXIV-B** and Chapter One §6.3. Do not treat this list as narrowing **Article XXIV-B** where that article imposes additional duties.
 - **What must hold**
@@ -1916,7 +1916,7 @@ This cluster is the joint-invocation home for self-determination, meaningful age
   - **In scope:** Autonomy to make and refuse informed decisions about oneself and one's future, and to maintain volitional continuity against manipulation and capture, within this §3.8 cluster and **[Article IX: Self-Determination and Agency](core_06-06_rights_part_b.md#article-ix-self-determination-and-agency)**.
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 - **How to measure and assess**
-  - **Primary measure:** [Chapter Zero §3.4 *Measuring Participation*](../core_00_preamble.md#measuring-participation) — supporting measure under the participation measurement family.
+  - **Primary measure:** Participation measurement family — supporting measure under the participation measurement family.
 
     **Primary assessment:** Evaluate substantive agency pathways under [Coercion and Manipulation](core_05p_participation_definitions.md#coercion-and-manipulation-constitutional), [Dependency](core_05c_continuity_definitions.md#dependency), [Surveillance Boundary](core_05c_continuity_definitions.md#surveillance-boundary), and segmentation across speech, platform, curricular, or governance domains that defeats joint assessment under §3.0.1.
 - **What must hold**
@@ -1947,7 +1947,7 @@ This cluster is the joint-invocation home for self-determination, meaningful age
   - **In scope:** The Rights-Floor capacity to form, hold, and communicate views — including political, philosophical, artistic, scientific, religious, and worldview expression — substrate-agnostically under **[Article V-H](core_06-06_rights_part_b.md#article-v-h-expression-assembly-and-press)** (*expression, assembly, and press*), read with this §3.8 cluster and, where **[Article II-E](core_06-06_rights_part_a.md#article-ii-e-info-sphere-dependency-continuity-and-operator-non-viability)** (*info-sphere dependency*), **Article VIII** publication or likeness hooks, functional **Article V-H** *press*, or publication-scoped **Good Faith** analysis is materially implicated, [Chapter Five Chapter One §8.22 *Info-Sphere, Expression, Press and Journalistic Activity, and Good Faith (Publication-Scoped Integrity)](#info-sphere-expression-press-journalistic-activity-and-good-faith-cluster)*.
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 - **How to measure and assess**
-  - **Primary measure:** [Chapter Zero §3.4 *Measuring Participation*](../core_00_preamble.md#measuring-participation) — supporting measure under the participation measurement family.
+  - **Primary measure:** Participation measurement family — supporting measure under the participation measurement family.
 
     **Primary assessment:** Test restrictions, chilling effects, and viewpoint-targeting against [Proportionality](core_05a_accountability_definitions.md#proportionality), [Necessity](core_05a_accountability_definitions.md#necessity), [Protected Characteristics](core_05p_participation_definitions.md#protected-characteristics-constitutional), and **Article V-H** / **Article IX-A** limitation discipline.
 - **What must hold**
@@ -1963,7 +1963,7 @@ This cluster is the joint-invocation home for self-determination, meaningful age
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-- Downstream: [Chapter Zero §3.4](core_00_preamble.md#measuring-participation) (*Fairness, access, and agency — Educational Agency as constitutional measurement*).
+- Downstream: Participation measurement family (*Fairness, access, and agency — Educational Agency as constitutional measurement*).
 - Cluster component: [Chapter Five §3.7 *Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity](core_05p_participation_definitions.md#self-determination-and-meaningful-agency-cluster)*.
 - Owner floors: **[Article VI: Right to Sentient-Centered Education](core_06-06_rights_part_b.md#article-vi-right-to-sentient-centered-education)**, **[Article III-B: Equal Educational Access](core_06-06_rights_part_a.md#article-iii-b-equal-educational-access)**.
 </details>
@@ -1979,7 +1979,7 @@ This cluster is the joint-invocation home for self-determination, meaningful age
   - **In scope:** Capability-building, lifelong-learning, and contestable education autonomy under **[Article VI: Right to Sentient-Centered Education](core_06-06_rights_part_b.md#article-vi-right-to-sentient-centered-education)**, **[Article III-B: Equal Educational Access](core_06-06_rights_part_a.md#article-iii-b-equal-educational-access)**, and this §3.8 cluster; includes practical access sufficient to develop and exercise constitution-relevant capabilities, not credential symbolism alone.
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 - **How to measure and assess**
-  - **Primary measure:** [Chapter Zero §3.4 *Measuring Participation* / Fairness, access, and agency](../core_00_preamble.md#measuring-participation) — primary owner for educational agency within the participation measurement family.
+  - **Primary measure:** Participation measurement family — primary owner for educational agency within the participation measurement family.
 
     **Primary assessment:** Evaluate access, lock-in, assessment opacity, and displacement of learning pathways against capability formation under **Article VI**.
   - **Secondary measure:** [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency), [Accessibility](core_05p_participation_definitions.md#accessibility-constitutional), [Contestability](core_05a_accountability_definitions.md#contestability), and [Systemic Lock-In](core_05c_continuity_definitions.md#systemic-lock-in) — co-measures that can defeat education autonomy even when credentials or enrollment exist.
@@ -2014,7 +2014,7 @@ This cluster is the joint-invocation home for self-determination, meaningful age
   - **In scope:** The continuity and coherence of a sentient's volitional states — including preferences, purposes, intentions, and identity-constitutive commitments — against degradation through manipulation, coercion, external control, or unauthorized interference with internal-state processes. It protects the integrity of decision-formation and self-direction from capture, fragmentation, or covert reshaping, consistent with **[Article IX-A](core_06-06_rights_part_b.md#article-ix-a-agency-and-freedom-from-manipulation)** (*agency and freedom from manipulation*).
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 - **How to measure and assess**
-  - **Primary measure:** [Chapter Zero §3.4 *Measuring Participation*](../core_00_preamble.md#measuring-participation) — supporting measure under the participation measurement family.
+  - **Primary measure:** Participation measurement family — supporting measure under the participation measurement family.
 
     **Primary assessment:** Evaluate for: (1) coherence of preference-formation over time; (2) resistance to covert manipulation, deception, or algorithmic exploitation of cognitive vulnerabilities; (3) protection from unauthorized external shaping of internal states through surveillance, inference, or behavioral conditioning; (4) preservation of meaningful choice architecture where [Coercion and Manipulation](core_05p_participation_definitions.md#coercion-and-manipulation-constitutional) threatens to subvert apparent voluntariness; and (5) continuity of identity-constitutive commitments against involuntary fragmentation or dissolution.
 - **What must hold**

@@ -58,7 +58,7 @@ This band holds **Integrative** cross-leg definitions that require simultaneous 
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 <a id="constitutional-contract-layer-e"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Chapter Zero §3.6 *Measuring Accountability*](../core_00_preamble.md#measuring-accountability) — supporting measure under the accountability measurement family.
+  - **Primary measure:** Accountability measurement family — supporting measure under the accountability measurement family.
 
     **Primary assessment:** Identify this layer by function, not scale. Read [Chapter 00 §4 governance-layer discipline](core_00_preamble.md#governance-layer-discipline). Reject framings that treat silence, usage alone, market presence, or branding as authorization.
 <a id="constitutional-contract-layer-c"></a>
@@ -90,7 +90,7 @@ This band holds **Integrative** cross-leg definitions that require simultaneous 
   - Out of scope: formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 *Measurements:*
 
-- **Primary:** [Chapter Zero §3.6 *Measuring Accountability*](../core_00_preamble.md#measuring-accountability) — supporting measure under the accountability measurement family.
+- **Primary:** Accountability measurement family — supporting measure under the accountability measurement family.
 <a id="foundational-constitutional-choice-e"></a>
 <a id="foundational-collective-choice-constitutional-e"></a>
 - E: Identify foundational constitutional choice by scope — the question's character as authorization or durable structuring of governing authority — not by marginal per-decision impact. Read [Chapter 00 §4 governance-layer discipline](core_00_preamble.md#governance-layer-discipline). Foundational questions are not re-routable as high-impact weighted choices under [Stakeholder Representation and Participation-Weight Limits (Binding Stakeholder Choice)](core_05p_participation_definitions.md#stakeholder-representation-and-participation-weight-limits-binding-collective-choice). Apply [Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion). Reject substrate-class, calendar-age, or lineage participation-weight factors. Apply [Procedural Fairness](core_05p_participation_definitions.md#procedural-fairness-constitutional) to any disqualification invoked against participation.
@@ -111,7 +111,7 @@ This band holds **Integrative** cross-leg definitions that require simultaneous 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: [Chapter Zero §3.6](core_00_preamble.md#measuring-accountability) (*Incentive alignment and proxy integrity as constitutional measurement*); Principles: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) (tetrad capture discipline under [§7](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline); [material stake](core_00_preamble.md#material-stake) scaling); [Chapter Seven §1A Whole-System Certification Evaluation](core_07-07_system_alignment_certification.md#1a-whole-system-certification-evaluation) and [§10 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline).
+- Downstream: Accountability measurement family (*Incentive alignment and proxy integrity as constitutional measurement*); Principles: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) (tetrad capture discipline under [§7](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline); [material stake](core_00_preamble.md#material-stake) scaling); [Chapter Seven §1A Whole-System Certification Evaluation](core_07-07_system_alignment_certification.md#1a-whole-system-certification-evaluation) and [§10 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline).
 - Principle-layer rule: [Chapter One §11.1 Alignment Requirement](core_01_c_stewardship_capacity_principles.md#111-alignment-requirement) and [Chapter One §11.2 Convenient Proxies and Proxy Divergence](core_01_c_stewardship_capacity_principles.md#112-convenient-proxies-and-proxy-divergence); stewardship and operator application: [Chapter One §11.1.3 Stewardship and Operator Application](core_01_c_stewardship_capacity_principles.md#1113-stewardship-and-operator-application) and [§11.1.4 Role-Depth and Material-Responsibility Pathways](core_01_c_stewardship_capacity_principles.md#1114-role-depth-and-material-responsibility-pathways).
 - Misalignment detection: [Chapter One §11.3 Misalignment Detection](core_01_c_stewardship_capacity_principles.md#113-misalignment-detection).
 - Active correction and capture escalation: [Chapter One §11.4 Misalignment Correction and Capture Response](core_01_c_stewardship_capacity_principles.md#114-misalignment-correction-and-capture-response).
@@ -124,7 +124,7 @@ This band holds **Integrative** cross-leg definitions that require simultaneous 
 
 *Measurements:*
 
-- **Primary:** [Chapter Zero §3.6 *Measuring Accountability* / Incentive alignment and proxy integrity](../core_00_preamble.md#measuring-accountability) — primary owner for incentive-alignment measurement within the accountability family.
+- **Primary:** Accountability measurement family — primary owner for incentive-alignment measurement within the accountability family.
 - **Secondary:** [Wellbeing](core_05c_continuity_definitions.md#wellbeing), [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint), [Epistemic Integrity](core_05o_oversight_definitions.md#epistemic-integrity), and [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency) — co-measures that can defeat alignment even when nominal targets appear satisfied.
 - **Tertiary:** [Proxy Divergence](core_05o_oversight_definitions.md#proxy-divergence) — where reward paths, metrics, or governance signals substitute for real constitutional outcomes.
 
@@ -135,7 +135,7 @@ This band holds **Integrative** cross-leg definitions that require simultaneous 
   - Out of scope: formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 *Measurements:*
 
-- **Primary:** [Chapter Zero §3.6 *Measuring Accountability*](../core_00_preamble.md#measuring-accountability) — supporting measure under the accountability measurement family.
+- **Primary:** Accountability measurement family — supporting measure under the accountability measurement family.
 <a id="incentive-alignment-e"></a>
 - E:
   - **Primary assessment.** Assess alignment across delayed and aggregated effects, not only immediate or local outputs — including effects on [Risk](core_05c_continuity_definitions.md#risk), [Harm](core_05a_accountability_definitions.md#harm), and [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency).
@@ -159,7 +159,7 @@ This band holds **Integrative** cross-leg definitions that require simultaneous 
   - Out of scope: formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 *Measurements:*
 
-- **Primary:** [Chapter Zero §3.6 *Measuring Accountability*](../core_00_preamble.md#measuring-accountability) — supporting measure under the accountability measurement family.
+- **Primary:** Accountability measurement family — supporting measure under the accountability measurement family.
 <a id="incentive-alignment-contingent-claims-games-of-chance-and-event-contract-markets-e"></a>
 - E: Such systems must satisfy Chapter One §11.5, including:
   - Application of [Necessity](core_05a_accountability_definitions.md#necessity) and [Proportionality](core_05a_accountability_definitions.md#proportionality) to underlying permitted events
@@ -203,7 +203,7 @@ This band holds **Integrative** cross-leg definitions that require simultaneous 
   - Out of scope: formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 *Measurements:*
 
-- **Primary:** [Chapter Zero §3.6 *Measuring Accountability*](../core_00_preamble.md#measuring-accountability) — supporting measure under the accountability measurement family.
+- **Primary:** Accountability measurement family — supporting measure under the accountability measurement family.
 <a id="innovation-reward-and-anti-enclosure-e"></a>
 <a id="innovation-reward-and-anti-enclosure-contribution-and-necessity-assessment-e"></a>
 <a id="innovation-reward-and-anti-enclosure-class-scaled-exclusion-analysis-e"></a>
@@ -284,7 +284,7 @@ This cluster is the joint-invocation home for operative corpus identity, authori
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 <a id="corpus-e"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Chapter Zero §3.5 *Measuring Oversight*](../core_00_preamble.md#measuring-oversight) and [Chapter Zero §3.6 *Measuring Accountability*](../core_00_preamble.md#measuring-accountability) — supporting measure where multiple measurement families co-apply.
+  - **Primary measure:** Oversight measurement family and Accountability measurement family — supporting measure where multiple measurement families co-apply.
 
     **Primary assessment:** For compliance and adoption claims, identify the operative corpus edition and custody chain under the applicable [Corpus, Authority Stack, Supremacy, and Enforceability cluster](core_05a_accountability_definitions.md#corpus-authority-stack-supremacy-and-enforceability-cluster). Then:
       - distinguish incorporated binding text from explanatory/process artifacts;
@@ -319,7 +319,7 @@ This cluster is the joint-invocation home for operative corpus identity, authori
   - Out of scope: formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 *Measurements:*
 
-- **Primary:** [Chapter Zero §3.5 *Measuring Oversight*](../core_00_preamble.md#measuring-oversight) and [Chapter Zero §3.6 *Measuring Accountability*](../core_00_preamble.md#measuring-accountability) — supporting measure where multiple measurement families co-apply.
+- **Primary:** Oversight measurement family and Accountability measurement family — supporting measure where multiple measurement families co-apply.
 <a id="authority-stack-e"></a>
 - E: First identify the operative edition/custody chain and source layer under the Authority Stack. Then apply integrated reading under [Chapter One — §2 Constitutional Interpretation](core_01_b_interaction_interpretation.md#8-constitutional-interpretation). Preserve the Constitution's fullest protective effect as an integrated whole and the [Chapter Six](core_06-06_rights_part_a.md#chapter-six-foundational-rights) non-contraction default. Use Internal Hierarchy only as a last-resort residual rule; do not use it to replace ordinary integrated reading or to resolve mere disagreement over canonical term meaning. Where the dispute is term meaning, the Chapter Five canonical definition governs at every layer. Reject interpretations that invert source precedence, obscure source status, treat non-incorporated process text as binding constitutional law, or let incorporated/support layers narrow Sentient Constitution meaning. Apply Chapter Four burden, tracing, and verification requirements to any claim that a layer collision exists.
 <a id="authority-stack-c"></a>
@@ -351,7 +351,7 @@ This cluster is the joint-invocation home for operative corpus identity, authori
   - Out of scope: formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 *Measurements:*
 
-- **Primary:** [Chapter Zero §3.6 *Measuring Accountability*](../core_00_preamble.md#measuring-accountability) — supporting measure under the accountability measurement family.
+- **Primary:** Accountability measurement family — supporting measure under the accountability measurement family.
 
 <a id="constitutional-owner-layers-e"></a>
 - E: For any materially scoped obligation, first identify source status under the Authority Stack, then identify the owner row in this register. Apply substance only from the owner home; elsewhere use pointers only. Preserve the [Chapter Six](core_06-06_rights_part_a.md#chapter-six-foundational-rights) non-contraction default and [Chapter One — §2 Constitutional Interpretation](core_01_b_interaction_interpretation.md#8-constitutional-interpretation) integrated reading before invoking Internal Hierarchy. For implementation topics routed across CS, CI, CF, and CJS, apply **CJS-2.1** after owner identification. Apply Chapter Four burden, tracing, and verification requirements to any claim that owner boundaries were crossed.
@@ -373,7 +373,7 @@ This cluster is the joint-invocation home for operative corpus identity, authori
   - Out of scope: formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 *Measurements:*
 
-- **Primary:** [Chapter Zero §3.5 *Measuring Oversight*](../core_00_preamble.md#measuring-oversight) and [Chapter Zero §3.6 *Measuring Accountability*](../core_00_preamble.md#measuring-accountability) — supporting measure where multiple measurement families co-apply.
+- **Primary:** Oversight measurement family and Accountability measurement family — supporting measure where multiple measurement families co-apply.
 <a id="supremacy-and-enforceability-e"></a>
 - E: Apply Chapter Four burden, tracing, and verification requirements. First identify the operative source layer, adoption scope, and governance layer at issue. Where authority to govern, legitimacy mechanism, reauthorization, durable restructuring, or foundational participation entitlement is at issue, apply the [Constitutional Contract Layer](core_05i_integrative_definitions.md#constitutional-contract-layer), [Foundational Constitutional Choice](core_05i_integrative_definitions.md#foundational-constitutional-choice), Chapter Six, and applicable Rights-Floor provisions. Where materially rights-affecting decisions occur within already-authorized governance structures, apply **Stakeholder System Participation**, including [Stakeholder](core_05p_participation_definitions.md#stakeholder), [Stakeholder Participation Weight](core_05p_participation_definitions.md#stakeholder-participation-weight), Article XI, and related [Contestability](core_05a_accountability_definitions.md#contestability) and [Due Process](core_05a_accountability_definitions.md#due-process-constitutional) requirements. Apply the supremacy, adoption, and incorporation hierarchy in Chapters Ten through Twelve, including incorporated obligations in designated implementation text, consistent with the [Authority Stack and Internal Hierarchy](core_05i_integrative_definitions.md#authority-stack), operative [Corpus](core_05i_integrative_definitions.md#corpus), and [Auditability](core_05o_oversight_definitions.md#auditability), without allowing implementation, support text, private ordering, emergency framing, or operational practice to narrow binding constitutional obligations.
 <a id="supremacy-and-enforceability-c"></a>
@@ -404,7 +404,7 @@ This cluster is the joint-invocation home for operative corpus identity, authori
   - Out of scope: formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 *Measurements:*
 
-- **Primary:** [Chapter Zero §3.6 *Measuring Accountability*](../core_00_preamble.md#measuring-accountability) — supporting measure under the accountability measurement family.
+- **Primary:** Accountability measurement family — supporting measure under the accountability measurement family.
 <a id="constitutional-constraint-e"></a>
 - E: Identify the constraint kind before applying it:
   - **Non-negotiable principle constraints:** [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint) and [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint) as Chapter One's non-negotiable boundaries.
@@ -440,7 +440,7 @@ This cluster is the joint-invocation home for operative corpus identity, authori
   - **In scope:** Any system behavior or outcome that materially degrades [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint), [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint), or other binding constitutional requirements.
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 - **How to measure and assess**
-  - **Primary measure:** [Chapter Zero §3.5 *Measuring Oversight*](../core_00_preamble.md#measuring-oversight) and [Chapter Zero §3.6 *Measuring Accountability*](../core_00_preamble.md#measuring-accountability) — supporting measure where multiple measurement families co-apply.
+  - **Primary measure:** Oversight measurement family and Accountability measurement family — supporting measure where multiple measurement families co-apply.
 
     **Primary assessment:** Include direct, indirect, delayed, and aggregated effects, consistent with [Harm](core_05a_accountability_definitions.md#harm), [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint), and [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint).
 - **What must hold**
