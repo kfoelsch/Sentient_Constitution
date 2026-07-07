@@ -141,18 +141,30 @@ def ch00_measurement_sections(root: Path, ch00_categories: dict[str, str]) -> di
     return sections
 
 
+# E/C region start markers, accepting legacy (`- E:` / `-e` anchor) and the
+# guidepost form (`- **How to measure and assess**` / `- **What must hold**`).
+E_REGION_START = (
+    r"^\s*(<a id=\"[^\"]*-e\"></a>|- \*?\*?E\*?\*?:|- \*\*How to measure and assess\*\*)"
+)
+C_REGION_START = (
+    r"^\s*(<a id=\"[^\"]*-c\"></a>|- \*?\*?C\*?\*?:|- \*\*What must hold\*\*)"
+)
+
+
 def measurements_block(body: str) -> str:
     match = MEASUREMENTS_RE.search(body)
-    if not match:
+    if match:
+        start = match.end()
+        rest = body[start:]
+        end_match = re.search(E_REGION_START, rest, re.MULTILINE)
+        return rest[: end_match.start()] if end_match else rest[:800]
+    # O/M/E/C form: measurement links live in the "How to measure and assess" region.
+    e_match = re.search(E_REGION_START, body, re.MULTILINE)
+    if not e_match:
         return ""
-    start = match.end()
-    rest = body[start:]
-    end_match = re.search(
-        r"^\s*(<a id=\"[^\"]*-e\"></a>|- \*?\*?E\*?\*?:)",
-        rest,
-        re.MULTILINE,
-    )
-    return rest[: end_match.start()] if end_match else rest[:800]
+    e_region = body[e_match.start() :]
+    c_match = re.search(C_REGION_START, e_region, re.MULTILINE)
+    return e_region[: c_match.start()] if c_match else e_region[:1200]
 
 
 def block_links_ch00_anchor(block: str, expected_anchor: str) -> bool:

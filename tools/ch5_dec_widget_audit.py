@@ -348,11 +348,18 @@ def scan_entry_body(lines: list[str], heading_idx: int) -> dict[str, object]:
             or stripped.startswith("# ")
         ):
             break
-        if stripped.startswith("- O:"):
+        # Recognize both the letter markers (- O: / - E: / - C:) and the
+        # reader-facing guidepost headers used by measurement-migrated pilot
+        # terms (What it is / How to measure and assess / What must hold).
+        if stripped.startswith("- O:") or stripped.startswith("- **What it is**"):
             has_o = True
-        elif stripped.startswith("- E:"):
+        elif stripped.startswith("- E:") or stripped.startswith(
+            "- **How to measure and assess**"
+        ):
             has_e = True
-        elif stripped.startswith("- C:"):
+        elif stripped.startswith("- C:") or stripped.startswith(
+            "- **What must hold**"
+        ):
             has_c = True
         for m in INLINE_ANCHOR_TAG_RE.finditer(lines[i]):
             slug = m.group(1)

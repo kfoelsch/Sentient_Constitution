@@ -22,7 +22,7 @@ SCOPE_FILES = (*CH5_BANDS, *CH5_AIMS)
 
 O_LINE = re.compile(r"^(- \*\*O:\*\*|- O:)\s*(.*)$", re.MULTILINE)
 O_END = re.compile(
-    r"^\*Measurements:\*|^- \*\*E:\*\*|^- E:|^  <a id=.*-e\"></a>\s*$",
+    r"^- \*\*E:\*\*|^- E:|^  <a id=.*-e\"></a>\s*$",
     re.MULTILINE,
 )
 IN_SCOPE = re.compile(r"^\s+- In scope(?:\s*—|\s*:)", re.MULTILINE)

@@ -153,7 +153,9 @@ Collapsed **Definitions · Evaluation · Compliance** widget (same blue `<detail
 
 ### Measurement-informed E/C (MEAS-DEF-01)
 
-Chapter Zero [§2–§3](../core_00_preamble.md#measurements-overview) names constitutional **measurement categories** and **families** — plain questions that orient review. Those families are not a fourth O/E/C component. They are **routing metadata** that should inform how **Evaluative (E)** and **Compliance (C)** components are written on canonical Chapter Five definition homes.
+Chapter Zero [§2–§3](../core_00_preamble.md#measurements-overview) names constitutional **measurement categories** and **families** — plain questions that orient review. On canonical Chapter Five definition homes these surface as an explicit **Measurement (M)** register that is **interwoven with Evaluative (E)** assessment inside the evaluation region — the **O/M/E/C** entry model. M carries measurement routing (which measure applies at each tier); E carries the matching assessment duty; C still carries what must hold in practice.
+
+To keep the model legible for non-specialist readers, migrated definition homes present O/M/E/C through **reader-facing guidepost headers** rather than bare letter markers: **What it is** (O), **How to measure and assess** (M interwoven with E), and **What must hold** (C), optionally opened by an italic `*In plain terms: …*` one-line gloss. Every sub-bullet uses a single **bold run-in label ending with a colon** followed by regular prose, for consistency and scannability: `**In scope:**` / `**Out of scope:**` under **What it is**; `**Primary measure:**` on the tier bullet with `**Primary assessment:**` on an unbulleted continuation line directly beneath (and likewise `**Secondary …**` / `**Tertiary …**`, in tier order, omitting tiers not present) under **How to measure and assess**; and `**Primary failure:**` / `**Secondary failure:**` / `**Tertiary failure:**` under **What must hold**. The `#{term}-e` and `#{term}-c` anchors are preserved immediately above the measure/assess and must-hold headers, so Chapter Two's O/E/C structure and every cross-file `#{term}-e` / `#{term}-c` link remain intact behind the friendlier labels.
 
 **Design intent**
 
@@ -165,9 +167,10 @@ Chapter Zero [§2–§3](../core_00_preamble.md#measurements-overview) names con
 
 | Component | Measurement role |
 |-----------|------------------|
-| **O** | What the term is — concept sentence plus mandatory **In scope** / **Out of scope** sub-bullets (consolidated or dimensional). Do not encode metrics, proxies, or assessment procedures in O. |
-| **E** | How the term must be assessed — primary trace, secondary co-measures, tertiary integrity checks. E specifies assessment scope and conditions; it does not prescribe pass/fail outcomes. |
-| **C** | What must hold in practice — observable satisfaction and non-compliance, including distinct failure modes aligned to primary, secondary, and tertiary measurement duties. |
+| **O** (*What it is*) | What the term is — mandatory `**In scope:**` / `**Out of scope:**` sub-bullets carry the concept and boundaries (consolidated or dimensional). Do not duplicate the concept across the header and In scope; do not encode metrics, proxies, or assessment procedures in O. |
+| **M** (in *How to measure and assess*) | Which measure applies at each tier — Ch00 category routing and Chapter Five co-measure links, stated on the `**Primary measure:**` (etc.) label. Interwoven with E; not a pass/fail outcome. |
+| **E** (in *How to measure and assess*) | How the term must be assessed — the `**Primary assessment:**` (etc.) label paired with each tier's measure (primary trace, secondary co-measures, tertiary integrity checks). E specifies assessment scope and conditions; it does not prescribe pass/fail outcomes. |
+| **C** (*What must hold*) | What must hold in practice — observable satisfaction and failure modes, stated on `**Primary failure:**` (etc.) labels aligned to primary, secondary, and tertiary measurement duties. |
 
 **Tier semantics** (declared per canonical definition home; scope-qualified when a term serves multiple aims or Tetrad legs)
 
@@ -179,14 +182,15 @@ Chapter Zero [§2–§3](../core_00_preamble.md#measurements-overview) names con
 
 Not every definition requires all three tiers. Independent building blocks may declare **primary only**. Cluster heads may carry family-level tiers; leaf entries inherit unless they state a narrower or broader boundary.
 
-**Entry placement** (Chapter Five leaf definition)
+**Entry placement** (Chapter Five leaf definition, guidepost O/M/E/C model)
 
 1. Trace `</details>` → `<br>` (existing NAV-DEC-12-SPACER discipline where applicable).
-2. **O** — ontological component: concept sentence plus mandatory In scope / Out of scope sub-bullets.
-2b. **Scope sub-bullets** — at least one In scope (consolidated `- In scope:` or dimensional `- In scope — {dimension}:`) and one `- Out of scope:` under O.
-3. **`*Measurements:*`** — visible italic label followed by tier bullets (Primary / Secondary / Tertiary as needed). Link Ch00 category anchors and Chapter Five co-measure terms.
-4. **E** — structured assessment duties; use **Primary assessment.**, **Secondary co-assessment.**, and **Tertiary integrity check.** sublabels when multiple tiers apply.
-5. **C** — satisfaction rule plus tier-aligned failure modes; use **Primary failure.**, **Secondary failure.**, and **Tertiary failure.** sublabels when multiple tiers apply.
+2. **Plain-terms lead** (optional) — a single italic `*In plain terms: …*` sentence giving a non-specialist the gist before the structured components.
+3. **O** — `- **What it is**` header; the concept and boundaries live in mandatory In scope / Out of scope sub-bullets (at least one In scope, consolidated `- **In scope:**` or dimensional `- **In scope — {dimension}:**`, and one `- **Out of scope:**`). No duplication of the concept on the header line.
+4. **M/E interwoven** — `<a id="{term}-e"></a>` then a `- **How to measure and assess**` header; under it, one bullet per tier with the measure on the tier bullet and the assessment on an unbulleted continuation line beneath it — `- **Primary measure:** …` then (indented four spaces) `**Primary assessment:** …`, then `- **Secondary measure:** …`, then `- **Tertiary measure:** …` (each with its paired `**{Tier} assessment:**` line; omit tiers not present). No `*Measurements:*` header and no bare `- E:` marker. Link Ch00 category anchors and Chapter Five co-measure terms on the `**{Tier} measure:**` label.
+5. **C** — `<a id="{term}-c"></a>` then a `- **What must hold**` header; satisfaction rule (where applicable) plus tier-aligned failure modes using `**Primary failure:**`, `**Secondary failure:**`, and `**Tertiary failure:**` sublabels when multiple tiers apply.
+
+**Guidepost O/M/E/C rollout** (2026-07): the reader-facing guidepost headers (**What it is** / **How to measure and assess** / **What must hold**), bold run-in sublabels (`**Primary measure:**` / `**Primary assessment:**` / `**Primary failure:**`, etc.), and `#{term}-e` / `#{term}-c` anchor placement are now the **corpus norm** on ~165 migrated leaf definitions across the Chapter Five band files. A remainder (~55 entries) still uses the legacy `*Measurements:*`-block or letter-marker placement — mostly cluster heads, multi-part Incentive Alignment children, inline E/C blocks with heterogeneous sub-lists, and O-line/In-scope divergences that require manual conversion. The tier, coverage, o-scope, single-definition, and DEC-widget audits accept **both** forms during the transition; `tools/apply_measurements_to_e_migration.py` automates the standard shapes and skips irregular entries for hand review. Plain-terms lead lines (`*In plain terms: …*`) remain optional and are being added in a separate pass.
 
 **Family vs definition**
 

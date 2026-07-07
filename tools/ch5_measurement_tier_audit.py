@@ -15,17 +15,61 @@ if str(_TOOLS) not in sys.path:
 
 from ch5_paths import CH5_ALL  # noqa: E402
 
-MEASUREMENTS_RE = re.compile(r"^\*Measurements:\*\s*$", re.MULTILINE)
-PRIMARY_MEAS_RE = re.compile(r"^\s*(?:-\s+)?\*\*Primary:\*\*", re.MULTILINE)
-SECONDARY_MEAS_RE = re.compile(r"^\s*(?:-\s+)?\*\*Secondary:\*\*", re.MULTILINE)
-TERTIARY_MEAS_RE = re.compile(r"^\s*(?:-\s+)?\*\*Tertiary:\*\*", re.MULTILINE)
-PRIMARY_E_RE = re.compile(r"\*\*Primary assessment\.\*\*", re.MULTILINE)
-SECONDARY_E_RE = re.compile(r"\*\*Secondary co-assessment\.\*\*", re.MULTILINE)
-TERTIARY_E_RE = re.compile(r"\*\*Tertiary integrity check\.\*\*", re.MULTILINE)
-PRIMARY_C_RE = re.compile(r"\*\*Primary failure\.\*\*", re.MULTILINE)
-SECONDARY_C_RE = re.compile(r"\*\*Secondary failure\.\*\*", re.MULTILINE)
-TERTIARY_C_RE = re.compile(r"\*\*Tertiary failure\.\*\*", re.MULTILINE)
+# Legacy interim marker (still valid for un-migrated terms).
+MEASUREMENTS_RE = re.compile(r"^\s*(?:-\s+)?\*Measurements:\*\s*$", re.MULTILINE)
+MEASUREMENTS_IN_E_RE = re.compile(r"^  -\s*\*Measurements:\*\s*$", re.MULTILINE)
+E_LINE_RE = re.compile(r"^- \*\*E:\*\*|^- E:", re.MULTILINE)
+# Guidepost header for the evaluation component on measurement-migrated terms.
+GUIDEPOST_E_RE = re.compile(r"^- \*\*How to measure and assess\*\*", re.MULTILINE)
+# Measurement (M) tier labels. Three accepted forms:
+#   - legacy         **Primary:**
+#   - interim O/M/E/C **M-Primary:**
+#   - guidepost       **Primary measure:** (bold run-in label, colon)
+PRIMARY_MEAS_RE = re.compile(
+    r"^\s*(?:-\s+)?\*\*(?:M-)?Primary:\*\*"
+    r"|\*\*Primary measure:\*\*",
+    re.MULTILINE,
+)
+SECONDARY_MEAS_RE = re.compile(
+    r"^\s*(?:-\s+)?\*\*(?:M-)?Secondary:\*\*"
+    r"|\*\*Secondary measure:\*\*",
+    re.MULTILINE,
+)
+TERTIARY_MEAS_RE = re.compile(
+    r"^\s*(?:-\s+)?\*\*(?:M-)?Tertiary:\*\*"
+    r"|\*\*Tertiary measure:\*\*",
+    re.MULTILINE,
+)
+MPRIMARY_LABEL_RE = re.compile(r"\*\*(?:M-Primary:|Primary measure:)\*\*", re.MULTILINE)
+# Assessment (E) tier labels — legacy, interim, or guidepost forms. The
+# guidepost form is a bold run-in label with a colon (**Primary assessment:**),
+# sitting on its own continuation line beneath the tier's measure.
+PRIMARY_E_RE = re.compile(
+    r"\*\*(?:Primary assessment\.|E-Primary Assessment:|Primary assessment:)\*\*",
+    re.MULTILINE,
+)
+SECONDARY_E_RE = re.compile(
+    r"\*\*(?:Secondary co-assessment\.|E-Secondary Assessment:|Secondary assessment:)\*\*",
+    re.MULTILINE,
+)
+TERTIARY_E_RE = re.compile(
+    r"\*\*(?:Tertiary integrity check\.|E-Tertiary Integrity Check:|Tertiary assessment:)\*\*",
+    re.MULTILINE,
+)
+PRIMARY_C_RE = re.compile(r"\*\*Primary failure[.:]\*\*", re.MULTILINE)
+SECONDARY_C_RE = re.compile(r"\*\*Secondary failure[.:]\*\*", re.MULTILINE)
+TERTIARY_C_RE = re.compile(r"\*\*Tertiary failure[.:]\*\*", re.MULTILINE)
 HEADING_RE = re.compile(r"^#{4,5}\s+(.+)$")
+
+# MEAS-DEF-01 E-placement pilot terms (enforce in-E placement).
+E_PLACEMENT_PILOT_TERMS = frozenset(
+    {
+        "Wellbeing",
+        "Transparency",
+        "Cascading Failure",
+        "Adversarial, Scaled, and Exploited Conditions",
+    }
+)
 
 
 def parse_args() -> argparse.Namespace:
@@ -90,8 +134,8 @@ def find_term_body(root: Path, term: str, registry: dict) -> tuple[str, str] | N
 
 def tier_checks(body: str, tier_depth: str) -> list[str]:
     errors: list[str] = []
-    if not MEASUREMENTS_RE.search(body):
-        errors.append("missing *Measurements:* block")
+    if not MEASUREMENTS_RE.search(body) and not PRIMARY_MEAS_RE.search(body):
+        errors.append("missing measurement register (legacy *Measurements:* or M-Primary)")
         return errors
     if tier_depth == "full":
         for label, pattern in (
@@ -124,6 +168,37 @@ def tier_checks(body: str, tier_depth: str) -> list[str]:
     return errors
 
 
+def placement_checks(body: str, term: str) -> list[str]:
+    """Enforce guidepost O/M/E/C presentation for pilot terms.
+
+    Pilot terms drop the letter markers and the legacy ``*Measurements:*``
+    header in favour of the reader-facing guidepost headers, with each tier's
+    measure and assessment stated as bold run-in labels (``**Primary measure:**``
+    on the tier bullet, ``**Primary assessment:**`` on the continuation line)
+    beneath the ``How to measure and assess`` header.
+    """
+    errors: list[str] = []
+    if term not in E_PLACEMENT_PILOT_TERMS:
+        return errors
+
+    if MEASUREMENTS_RE.search(body):
+        errors.append("pilot term must not use the legacy *Measurements:* header")
+    if E_LINE_RE.search(body):
+        errors.append("pilot term must not use a bare '- E:' marker (use guidepost headers)")
+
+    e_match = GUIDEPOST_E_RE.search(body)
+    if not e_match:
+        errors.append("pilot term missing 'How to measure and assess' guidepost header")
+        return errors
+
+    m_match = PRIMARY_MEAS_RE.search(body)
+    if not m_match:
+        errors.append("pilot term missing a **Primary measure:** label")
+    elif m_match.start() < e_match.start():
+        errors.append("Primary measure must appear under 'How to measure and assess'")
+    return errors
+
+
 def main() -> int:
     args = parse_args()
     root = Path(args.root).resolve()
@@ -146,6 +221,7 @@ def main() -> int:
             continue
         source_file, body = located
         errors = tier_checks(body, meta.get("tier_depth", "full"))
+        errors.extend(placement_checks(body, term))
         if errors:
             findings.append(f"{source_file} ({term}): " + "; ".join(errors))
         else:

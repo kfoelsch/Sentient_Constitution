@@ -129,10 +129,22 @@ def body_until_next_heading(lines: list[str], heading_idx: int, max_depth: int) 
 
 
 def owns_oec(body: str) -> bool:
-    return bool(
+    # Recognize both the letter markers (- O: / - E: / - C:) and the
+    # reader-facing guidepost headers used by measurement-migrated terms
+    # (What it is / How to measure and assess / What must hold).
+    has_o = bool(
         re.search(r"^-\s+(?:\*\*)?O(?::|\*\*:)", body, re.MULTILINE)
-        and re.search(r"^-\s+(?:\*\*)?[EC](?::|\*\*:)", body, re.MULTILINE)
+        or re.search(r"^-\s+\*\*What it is\*\*", body, re.MULTILINE)
     )
+    has_ec = bool(
+        re.search(r"^-\s+(?:\*\*)?[EC](?::|\*\*:)", body, re.MULTILINE)
+        or re.search(
+            r"^-\s+\*\*(?:How to measure and assess|What must hold)\*\*",
+            body,
+            re.MULTILINE,
+        )
+    )
+    return has_o and has_ec
 
 
 def href_for(file_name: str, anchor: str | None, label: str) -> str:

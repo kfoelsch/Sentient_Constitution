@@ -19,13 +19,13 @@ if str(_TOOLS) not in sys.path:
 
 from ch5_paths import CH5_AIMS, CH5_BANDS
 
-O_START = re.compile(r"^(- \*\*O:\*\*|- O:)", re.MULTILINE)
+O_START = re.compile(r"^(- \*\*O:\*\*|- O:|- \*\*What it is\*\*)", re.MULTILINE)
 O_END = re.compile(
-    r"^\*Measurements:\*|^- \*\*E:\*\*|^- E:|^  <a id=.*-e\"></a>\s*$",
+    r"^- \*\*E:\*\*|^- E:|^- \*\*How to measure and assess\*\*|^\s*<a id=.*-e\"></a>\s*$",
     re.MULTILINE,
 )
-IN_SCOPE = re.compile(r"^\s+- In scope(?:\s*—|\s*:)", re.MULTILINE)
-OUT_SCOPE = re.compile(r"^\s+- Out of scope:", re.MULTILINE)
+IN_SCOPE = re.compile(r"^\s+- \*{0,2}In scope(?:\s*—|\s*:)", re.MULTILINE)
+OUT_SCOPE = re.compile(r"^\s+- \*{0,2}Out of scope:", re.MULTILINE)
 
 SCOPE_FILES = (*CH5_BANDS, *CH5_AIMS)
 

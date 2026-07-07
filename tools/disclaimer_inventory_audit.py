@@ -161,7 +161,7 @@ def collect_oec_blocks(lines: list[str]) -> list[tuple[int, str, str, str]]:
                 break
             if OEC_START_RE.match(nst):
                 break
-            if nst.startswith("*Measurements:*"):
+            if "*Measurements:*" in nst and component == "O":
                 break
             if nst == "---":
                 break

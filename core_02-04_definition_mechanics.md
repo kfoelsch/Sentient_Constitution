@@ -107,7 +107,7 @@ Every O component MUST include at least one **In scope** sub-bullet and at least
 
 <br>
 
-Evaluative components define how a definition must be assessed. Evaluative components must not prescribe or imply required outcomes. All enforceable outcomes must be defined exclusively in Compliance components. They must:
+Evaluative components define how a definition must be assessed. Evaluative components must not prescribe or imply required outcomes. All enforceable outcomes must be defined exclusively in Compliance components. On Chapter Five leaf definitions, measurement tier routing (the **Measurement (M)** register) is interwoven with the assessment duty inside the evaluation component, with each tier stating its measure on the tier bullet (`**Primary measure:**`) and its assessment on the continuation line beneath (`**Primary assessment:**`), consistent with the [MEAS-DEF-01](doc_architecture.md#measurement-informed-ec-meas-def-01) O/M/E/C entry model; migrated homes present this component under the reader-facing **How to measure and assess** guidepost header (preserving the `#{term}-e` anchor), and the measurement register carries routing only and remains subordinate to this component's outcome constraint. They must:
 - specify required evaluation scope
 - specify required evaluation conditions
 - specify treatment of uncertainty where relevant

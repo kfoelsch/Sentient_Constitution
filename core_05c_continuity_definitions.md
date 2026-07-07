@@ -66,22 +66,23 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 
 <br>
 
-- O: A failure that propagates across [Dependency](core_05c_continuity_definitions.md#dependency)-linked systems, components, or institutions, amplifying impact beyond the originating system.
-  - In scope: A failure that propagates across [Dependency](core_05c_continuity_definitions.md#dependency)-linked systems, components, or institutions, amplifying impact beyond the originating system.
-  - Out of scope: formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-*Measurements:*
+*In plain terms: a breakdown in one system that spreads through the systems it is connected to, ending up bigger than where it started.*
 
-- **Primary:** [Chapter Zero §3.3 *Measuring Continuity* / Cascading failure](../core_00_preamble.md#measuring-continuity) — propagation risk within the continuity measurement family.
-- **Secondary:** [Dependency](core_05c_continuity_definitions.md#dependency), [Risk](core_05c_continuity_definitions.md#risk), [System Boundary Integrity](core_05c_continuity_definitions.md#system-boundary-integrity), and [Reversibility](core_05c_continuity_definitions.md#reversibility-constitutional) — co-measures that can defeat containment even when the originating fault appears localized.
-
+- **What it is**
+  - **In scope:** A failure that propagates across [Dependency](core_05c_continuity_definitions.md#dependency)-linked systems, components, or institutions, amplifying impact beyond the originating system.
+  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 <a id="cascading-failure-e"></a>
-- E:
-  - **Primary assessment.** Evaluate propagation pathways across [Dependency](core_05c_continuity_definitions.md#dependency) relationships where reasonably foreseeable and where resulting [Risk](core_05c_continuity_definitions.md#risk) may spread across connected systems or institutions.
-  - **Secondary co-assessment.** When evaluating the primary trace, include dependency mapping, boundary integrity, and reversibility limits that would allow amplification beyond the originating system.
+- **How to measure and assess**
+  - **Primary measure:** [Chapter Zero §3.3 *Measuring Continuity* / Cascading failure](../core_00_preamble.md#measuring-continuity) — propagation risk within the continuity measurement family.
+
+    **Primary assessment:** Evaluate propagation pathways across [Dependency](core_05c_continuity_definitions.md#dependency) relationships where reasonably foreseeable and where resulting [Risk](core_05c_continuity_definitions.md#risk) may spread across connected systems or institutions.
+  - **Secondary measure:** [Dependency](core_05c_continuity_definitions.md#dependency), [Risk](core_05c_continuity_definitions.md#risk), [System Boundary Integrity](core_05c_continuity_definitions.md#system-boundary-integrity), and [Reversibility](core_05c_continuity_definitions.md#reversibility-constitutional) — co-measures that can defeat containment even when the originating fault appears localized.
+
+    **Secondary assessment:** When evaluating the primary trace, include dependency mapping, boundary integrity, and reversibility limits that would allow amplification beyond the originating system.
 <a id="cascading-failure-c"></a>
-- C:
-  - **Primary failure.** Non-compliant: systems fail to identify, prevent, or mitigate cascading pathways where [System Boundary Integrity](core_05c_continuity_definitions.md#system-boundary-integrity) or dependency mapping should have revealed them.
-  - **Secondary failure.** Non-compliant: treating localized fault containment as sufficient where dependency-linked propagation remains reasonably foreseeable.
+- **What must hold**
+  - **Primary failure:** systems fail to identify, prevent, or mitigate cascading pathways where [System Boundary Integrity](core_05c_continuity_definitions.md#system-boundary-integrity) or dependency mapping should have revealed them.
+  - **Secondary failure:** treating localized fault containment as sufficient where dependency-linked propagation remains reasonably foreseeable.
 
 ---
 
@@ -100,22 +101,21 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 
 <br>
 
-- O: The extent to which a sentient or system relies on another system for survival, function, stability, or participation. A core input to [Wellbeing](core_05c_continuity_definitions.md#wellbeing), [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency), and [Classification-Scaled Governance](core_05o_oversight_definitions.md#classification-scaled-governance).
-  - In scope: The extent to which a sentient or system relies on another system for survival, function, stability, or participation. A core input to [Wellbeing](core_05c_continuity_definitions.md#wellbeing), [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency), and [Classification-Scaled Governance](core_05o_oversight_definitions.md#classification-scaled-governance).
-  - Out of scope: formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-*Measurements:*
-
-- **Primary:** [Chapter Zero §3.3 *Measuring Continuity* / Dependency and resource flows](../core_00_preamble.md#measuring-continuity) — primary owner for dependency measurement in this subfamily.
-- **Secondary:** [Risk](core_05c_continuity_definitions.md#risk), [Material Impact](core_05o_oversight_definitions.md#material-impact), [System Boundary Integrity](core_05c_continuity_definitions.md#system-boundary-integrity), and [Classification-Scaled Governance](core_05o_oversight_definitions.md#classification-scaled-governance) — co-measures that scale dependency obligations.
-
+- **What it is**
+  - **In scope:** The extent to which a sentient or system relies on another system for survival, function, stability, or participation. A core input to [Wellbeing](core_05c_continuity_definitions.md#wellbeing), [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency), and [Classification-Scaled Governance](core_05o_oversight_definitions.md#classification-scaled-governance).
+  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 <a id="dependency-e"></a>
-- E:
-  - **Primary assessment.** Include availability; substitutability; recovery time; direct, indirect, chained, asymmetric, and non-transparent relationships that materially bear on [Risk](core_05c_continuity_definitions.md#risk), [Material Impact](core_05o_oversight_definitions.md#material-impact), and [System Boundary Integrity](core_05c_continuity_definitions.md#system-boundary-integrity).
-  - **Secondary co-assessment.** When evaluating the primary trace, apply [Classification-Scaled Governance](core_05o_oversight_definitions.md#classification-scaled-governance), [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination), and [Oversight](core_05o_oversight_definitions.md#oversight-constitutional) scaling to dependency relationships.
-  <a id="dependency-c"></a>
-- C:
-  - **Primary failure.** Non-compliant: dependencies omitted from system evaluation where materially implicated.
-  - **Secondary failure.** Non-compliant: dependency relationships treated as immaterial where [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination) or [Classification-Scaled Governance](core_05o_oversight_definitions.md#classification-scaled-governance) would require incorporation.
+- **How to measure and assess**
+  - **Primary measure:** [Chapter Zero §3.3 *Measuring Continuity* / Dependency and resource flows](../core_00_preamble.md#measuring-continuity) — primary owner for dependency measurement in this subfamily.
+
+    **Primary assessment:** Include availability; substitutability; recovery time; direct, indirect, chained, asymmetric, and non-transparent relationships that materially bear on [Risk](core_05c_continuity_definitions.md#risk), [Material Impact](core_05o_oversight_definitions.md#material-impact), and [System Boundary Integrity](core_05c_continuity_definitions.md#system-boundary-integrity).
+  - **Secondary measure:** [Risk](core_05c_continuity_definitions.md#risk), [Material Impact](core_05o_oversight_definitions.md#material-impact), [System Boundary Integrity](core_05c_continuity_definitions.md#system-boundary-integrity), and [Classification-Scaled Governance](core_05o_oversight_definitions.md#classification-scaled-governance) — co-measures that scale dependency obligations.
+
+    **Secondary assessment:** When evaluating the primary trace, apply [Classification-Scaled Governance](core_05o_oversight_definitions.md#classification-scaled-governance), [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination), and [Oversight](core_05o_oversight_definitions.md#oversight-constitutional) scaling to dependency relationships.
+<a id="dependency-c"></a>
+- **What must hold**
+  - **Primary failure:** dependencies omitted from system evaluation where materially implicated.
+  - **Secondary failure:** dependency relationships treated as immaterial where [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination) or [Classification-Scaled Governance](core_05o_oversight_definitions.md#classification-scaled-governance) would require incorporation.
 
 ---
 
@@ -201,16 +201,17 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 
 <br>
 
-- O: Risk of large-scale, civilization-relevant, or survival-critical harm — including irreversible loss of [Ecological Recovery Capacity](core_05c_continuity_definitions.md#ecological-recovery-capacity-constitutional), collapse of critical layers supporting sentient life, failures of coordination around [Environmental Preconditions](core_05c_continuity_definitions.md#environmental-preconditions-constitutional), and low-probability high-impact pathways.
-  - In scope: Risk of large-scale, civilization-relevant, or survival-critical harm — including irreversible loss of [Ecological Recovery Capacity](core_05c_continuity_definitions.md#ecological-recovery-capacity-constitutional), collapse of critical layers supporting sentient life, failures of coordination around [Environmental Preconditions](core_05c_continuity_definitions.md#environmental-preconditions-constitutional), and low-probability high-impact pathways.
-  - Out of scope: formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-*Measurements:*
-
-- **Primary:** [Chapter Zero §3.3 *Measuring Continuity*](../core_00_preamble.md#measuring-continuity) — supporting measure under the continuity measurement family.
+- **What it is**
+  - **In scope:** Risk of large-scale, civilization-relevant, or survival-critical harm — including irreversible loss of [Ecological Recovery Capacity](core_05c_continuity_definitions.md#ecological-recovery-capacity-constitutional), collapse of critical layers supporting sentient life, failures of coordination around [Environmental Preconditions](core_05c_continuity_definitions.md#environmental-preconditions-constitutional), and low-probability high-impact pathways.
+  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 <a id="existential-risk-e"></a>
-- E: Do not exclude credible existential pathways under adversarial, scaled, aggregated, or threshold-dependent conditions. Incorporate [Dependency](core_05c_continuity_definitions.md#dependency) and systemic feedback.
+- **How to measure and assess**
+  - **Primary measure:** [Chapter Zero §3.3 *Measuring Continuity*](../core_00_preamble.md#measuring-continuity) — supporting measure under the continuity measurement family.
+
+    **Primary assessment:** Do not exclude credible existential pathways under adversarial, scaled, aggregated, or threshold-dependent conditions. Incorporate [Dependency](core_05c_continuity_definitions.md#dependency) and systemic feedback.
 <a id="existential-risk-c"></a>
-- C: Ignoring or materially understating credible existential pathways in [Classification-Scaled Governance](core_05o_oversight_definitions.md#classification-scaled-governance), [Governance](core_05a_accountability_definitions.md#governance), [Transparency](core_05o_oversight_definitions.md#transparency), or safety analysis is non-compliant.
+- **What must hold**
+  - Ignoring or materially understating credible existential pathways in [Classification-Scaled Governance](core_05o_oversight_definitions.md#classification-scaled-governance), [Governance](core_05a_accountability_definitions.md#governance), [Transparency](core_05o_oversight_definitions.md#transparency), or safety analysis is non-compliant.
 
 ---
 
@@ -218,16 +219,17 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 
 #### Residual Risk / Misalignment
 
-- O: Remaining [Risk](core_05c_continuity_definitions.md#risk) after mitigation.
-  - In scope: Remaining [Risk](core_05c_continuity_definitions.md#risk) after mitigation.
-  - Out of scope: formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-*Measurements:*
-
-- **Primary:** [Chapter Zero §3.3 *Measuring Continuity*](../core_00_preamble.md#measuring-continuity) — supporting measure under the continuity measurement family.
+- **What it is**
+  - **In scope:** Remaining [Risk](core_05c_continuity_definitions.md#risk) after mitigation.
+  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 <a id="residual-risk--misalignment-e"></a>
-- E: Ensure boundedness and non-escalation under [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint) and [Reversibility](core_05c_continuity_definitions.md#reversibility-constitutional) where applicable.
+- **How to measure and assess**
+  - **Primary measure:** [Chapter Zero §3.3 *Measuring Continuity*](../core_00_preamble.md#measuring-continuity) — supporting measure under the continuity measurement family.
+
+    **Primary assessment:** Ensure boundedness and non-escalation under [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint) and [Reversibility](core_05c_continuity_definitions.md#reversibility-constitutional) where applicable.
 <a id="residual-risk--misalignment-c"></a>
-- C: Residual risk must not create scalable [Harm](core_05a_accountability_definitions.md#harm) pathways, [Cascading Failure](core_05c_continuity_definitions.md#cascading-failure), or unmanaged [Material Risk](core_05o_oversight_definitions.md#material-risk).
+- **What must hold**
+  - Residual risk must not create scalable [Harm](core_05a_accountability_definitions.md#harm) pathways, [Cascading Failure](core_05c_continuity_definitions.md#cascading-failure), or unmanaged [Material Risk](core_05o_oversight_definitions.md#material-risk).
 
 ---
 
@@ -246,22 +248,21 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 
 <br>
 
-- O: The capacity to roll back, bound, contain, or restore states and commitments within feasible limits, proportionate to [Irreversible Harm](core_05a_accountability_definitions.md#irreversible-harm) risk, [Dependency](core_05c_continuity_definitions.md#dependency), and [Material Impact](core_05o_oversight_definitions.md#material-impact), across technical, organizational, social, and ecological dimensions where relevant and consistent with [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint).
-  - In scope: The capacity to roll back, bound, contain, or restore states and commitments within feasible limits, proportionate to [Irreversible Harm](core_05a_accountability_definitions.md#irreversible-harm) risk, [Dependency](core_05c_continuity_definitions.md#dependency), and [Material Impact](core_05o_oversight_definitions.md#material-impact), across technical, organizational, social, and ecological dimensions where relevant and consistent with [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint).
-  - Out of scope: formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-*Measurements:*
-
-- **Primary:** [Chapter Zero §3.3 *Measuring Continuity* / Reversibility](../core_00_preamble.md#measuring-continuity) — primary owner for reversibility measurement within the continuity family.
-- **Secondary:** [Irreversible Harm](core_05a_accountability_definitions.md#irreversible-harm), [Cascading Failure](core_05c_continuity_definitions.md#cascading-failure), [Risk](core_05c_continuity_definitions.md#risk), and [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint) — co-measures that set containment thresholds.
-
+- **What it is**
+  - **In scope:** The capacity to roll back, bound, contain, or restore states and commitments within feasible limits, proportionate to [Irreversible Harm](core_05a_accountability_definitions.md#irreversible-harm) risk, [Dependency](core_05c_continuity_definitions.md#dependency), and [Material Impact](core_05o_oversight_definitions.md#material-impact), across technical, organizational, social, and ecological dimensions where relevant and consistent with [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint).
+  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 <a id="reversibility-constitutional-e"></a>
-- E:
-  - **Primary assessment.** Assess recovery and containment under normal, degraded, and adversarial conditions, including implications for [Risk](core_05c_continuity_definitions.md#risk), [Irreversible Harm](core_05a_accountability_definitions.md#irreversible-harm), and [Cascading Failure](core_05c_continuity_definitions.md#cascading-failure).
-  - **Secondary co-assessment.** When evaluating the primary trace, apply [Classification-Scaled Governance](core_05o_oversight_definitions.md#classification-scaled-governance) and incorporated implementation requirements without narrowing this constitutional requirement.
+- **How to measure and assess**
+  - **Primary measure:** [Chapter Zero §3.3 *Measuring Continuity* / Reversibility](../core_00_preamble.md#measuring-continuity) — primary owner for reversibility measurement within the continuity family.
+
+    **Primary assessment:** Assess recovery and containment under normal, degraded, and adversarial conditions, including implications for [Risk](core_05c_continuity_definitions.md#risk), [Irreversible Harm](core_05a_accountability_definitions.md#irreversible-harm), and [Cascading Failure](core_05c_continuity_definitions.md#cascading-failure).
+  - **Secondary measure:** [Irreversible Harm](core_05a_accountability_definitions.md#irreversible-harm), [Cascading Failure](core_05c_continuity_definitions.md#cascading-failure), [Risk](core_05c_continuity_definitions.md#risk), and [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint) — co-measures that set containment thresholds.
+
+    **Secondary assessment:** When evaluating the primary trace, apply [Classification-Scaled Governance](core_05o_oversight_definitions.md#classification-scaled-governance) and incorporated implementation requirements without narrowing this constitutional requirement.
 <a id="reversibility-constitutional-c"></a>
-- C:
-  - **Primary failure.** Non-compliant: proceeding without feasible reversibility or containment where Chapter One, applicable rights, or [Classification-Scaled Governance](core_05o_oversight_definitions.md#classification-scaled-governance) obligations require it — particularly where [Irreversible Harm](core_05a_accountability_definitions.md#irreversible-harm) or [Cascading Failure](core_05c_continuity_definitions.md#cascading-failure) is reasonably in play.
-  - **Secondary failure.** Non-compliant: treating rollback or containment claims as satisfied by implementation assertions without observable recovery capacity under stress.
+- **What must hold**
+  - **Primary failure:** proceeding without feasible reversibility or containment where Chapter One, applicable rights, or [Classification-Scaled Governance](core_05o_oversight_definitions.md#classification-scaled-governance) obligations require it — particularly where [Irreversible Harm](core_05a_accountability_definitions.md#irreversible-harm) or [Cascading Failure](core_05c_continuity_definitions.md#cascading-failure) is reasonably in play.
+  - **Secondary failure:** treating rollback or containment claims as satisfied by implementation assertions without observable recovery capacity under stress.
 
 ---
 
@@ -279,22 +280,21 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 
 <br>
 
-- O: Likelihood, speed, and severity of [Harm](core_05a_accountability_definitions.md#harm).
-  - In scope: Likelihood, speed, and severity of [Harm](core_05a_accountability_definitions.md#harm).
-  - Out of scope: formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-*Measurements:*
-
-- **Primary:** [Chapter Zero §3.2 *Measuring Flourishing* / Safety, harm, and risk](../core_00_preamble.md#measuring-flourishing) — co-measure within the flourishing harm subfamily (primary owner: [Harm](core_05a_accountability_definitions.md#harm)).
-- **Secondary:** [Harm](core_05a_accountability_definitions.md#harm), [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination), [Dependency](core_05c_continuity_definitions.md#dependency), and [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint) — co-measures that scale risk assessment and management obligations.
-
+- **What it is**
+  - **In scope:** Likelihood, speed, and severity of [Harm](core_05a_accountability_definitions.md#harm).
+  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 <a id="risk-e"></a>
-- E:
-  - **Primary assessment.** Include cumulative and time-based effects, including [Systemic Materiality](#systemic-materiality) where relevant.
-  - **Secondary co-assessment.** When evaluating the primary trace, apply [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint), [Classification-Scaled Governance](core_05o_oversight_definitions.md#classification-scaled-governance), and [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination).
+- **How to measure and assess**
+  - **Primary measure:** [Chapter Zero §3.2 *Measuring Flourishing* / Safety, harm, and risk](../core_00_preamble.md#measuring-flourishing) — co-measure within the flourishing harm subfamily (primary owner: [Harm](core_05a_accountability_definitions.md#harm)).
+
+    **Primary assessment:** Include cumulative and time-based effects, including [Systemic Materiality](#systemic-materiality) where relevant.
+  - **Secondary measure:** [Harm](core_05a_accountability_definitions.md#harm), [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination), [Dependency](core_05c_continuity_definitions.md#dependency), and [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint) — co-measures that scale risk assessment and management obligations.
+
+    **Secondary assessment:** When evaluating the primary trace, apply [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint), [Classification-Scaled Governance](core_05o_oversight_definitions.md#classification-scaled-governance), and [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination).
 <a id="risk-c"></a>
-- C:
-  - **Primary failure.** Non-compliant: [Risk](core_05c_continuity_definitions.md#risk) excluded from assessment where materially implicated.
-  - **Secondary failure.** Non-compliant: risk managed outside [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint) or [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination) discipline where those obligations apply.
+- **What must hold**
+  - **Primary failure:** [Risk](core_05c_continuity_definitions.md#risk) excluded from assessment where materially implicated.
+  - **Secondary failure:** risk managed outside [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint) or [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination) discipline where those obligations apply.
 
 ---
 
@@ -313,26 +313,26 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 
 <br>
 
-- O: The obligation to prevent, limit, and contain harm to sentients, [Environmental Preconditions](core_05c_continuity_definitions.md#environmental-preconditions-constitutional) on which sentients depend, and dependent systems — applied under normal, degraded, and adversarial conditions. Protective requirements must not be relaxed based solely on expected-value optimization where such relaxation materially increases tail risk, systemic risk, or [Irreversible Harm](core_05a_accountability_definitions.md#irreversible-harm).
-  - In scope: The obligation to prevent, limit, and contain harm to sentients, [Environmental Preconditions](core_05c_continuity_definitions.md#environmental-preconditions-constitutional) on which sentients depend, and dependent systems — applied under normal, degraded, and adversarial conditions. Protective requirements must not be relaxed based solely on expected-value optimization where such relaxation materially increases tail risk, systemic risk, or [Irreversible Harm](core_05a_accountability_definitions.md#irreversible-harm).
-  - Out of scope: formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-*Measurements:*
-
-- **Primary:** [Chapter Zero §3.2 *Measuring Flourishing* / Safety constituent](../core_00_preamble.md#measuring-flourishing) — **Flourishing** constituent measure for this term.
-- **Secondary:** [Harm](core_05a_accountability_definitions.md#harm), [Irreversible Harm](core_05a_accountability_definitions.md#irreversible-harm), [Risk](core_05c_continuity_definitions.md#risk), [Material Risk](core_05o_oversight_definitions.md#material-risk), [Cascading Failure](core_05c_continuity_definitions.md#cascading-failure), and [Environmental Preconditions](core_05c_continuity_definitions.md#environmental-preconditions-constitutional) — co-measures that can defeat safety even when nominal controls exist.
-- **Tertiary:** [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination) and [Proxy Divergence](core_05o_oversight_definitions.md#proxy-divergence) — where safety claims rest on classification, metrics, or proxies that no longer track material harm pathways.
-
+- **What it is**
+  - **In scope:** The obligation to prevent, limit, and contain harm to sentients, [Environmental Preconditions](core_05c_continuity_definitions.md#environmental-preconditions-constitutional) on which sentients depend, and dependent systems — applied under normal, degraded, and adversarial conditions. Protective requirements must not be relaxed based solely on expected-value optimization where such relaxation materially increases tail risk, systemic risk, or [Irreversible Harm](core_05a_accountability_definitions.md#irreversible-harm).
+  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 <a id="safety-constraint-e"></a>
-- E:
-  - **Primary assessment.** Trace protective obligations to sentient-experienced harm containment under full functional system scope — including likelihood, speed, severity, and propagation of harm, and failure to act where inaction would reasonably produce material harm or systemic risk.
-  - **Secondary co-assessment.** When evaluating the primary trace, include materially implicated [Harm](core_05a_accountability_definitions.md#harm), [Irreversible Harm](core_05a_accountability_definitions.md#irreversible-harm), [Risk](core_05c_continuity_definitions.md#risk), [Material Risk](core_05o_oversight_definitions.md#material-risk), and [Cascading Failure](core_05c_continuity_definitions.md#cascading-failure) pathways that would defeat the Ontological component.
-  - **Tertiary integrity check.** Where operators rely on classification, metrics, or self-report, apply [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination) and [Proxy Divergence](core_05o_oversight_definitions.md#proxy-divergence) — distinguish durable safety from nominal compliance indicators.
+- **How to measure and assess**
+  - **Primary measure:** [Chapter Zero §3.2 *Measuring Flourishing* / Safety constituent](../core_00_preamble.md#measuring-flourishing) — **Flourishing** constituent measure for this term.
+
+    **Primary assessment:** Trace protective obligations to sentient-experienced harm containment under full functional system scope — including likelihood, speed, severity, and propagation of harm, and failure to act where inaction would reasonably produce material harm or systemic risk.
+  - **Secondary measure:** [Harm](core_05a_accountability_definitions.md#harm), [Irreversible Harm](core_05a_accountability_definitions.md#irreversible-harm), [Risk](core_05c_continuity_definitions.md#risk), [Material Risk](core_05o_oversight_definitions.md#material-risk), [Cascading Failure](core_05c_continuity_definitions.md#cascading-failure), and [Environmental Preconditions](core_05c_continuity_definitions.md#environmental-preconditions-constitutional) — co-measures that can defeat safety even when nominal controls exist.
+
+    **Secondary assessment:** When evaluating the primary trace, include materially implicated [Harm](core_05a_accountability_definitions.md#harm), [Irreversible Harm](core_05a_accountability_definitions.md#irreversible-harm), [Risk](core_05c_continuity_definitions.md#risk), [Material Risk](core_05o_oversight_definitions.md#material-risk), and [Cascading Failure](core_05c_continuity_definitions.md#cascading-failure) pathways that would defeat the Ontological component.
+  - **Tertiary measure:** [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination) and [Proxy Divergence](core_05o_oversight_definitions.md#proxy-divergence) — where safety claims rest on classification, metrics, or proxies that no longer track material harm pathways.
+
+    **Tertiary assessment:** Where operators rely on classification, metrics, or self-report, apply [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination) and [Proxy Divergence](core_05o_oversight_definitions.md#proxy-divergence) — distinguish durable safety from nominal compliance indicators.
 <a id="safety-constraint-c"></a>
-- C:
+- **What must hold**
   - A system satisfies **Safety (Constraint)** only if it prevents, limits, and contains harm under the Ontological component across normal, degraded, and adversarial conditions.
-  - **Primary failure.** Non-compliant: preventable harm; inadequate containment; impermissible safety–utility tradeoffs against tail or systemic risk; treatment of safety as purely nominal.
-  - **Secondary failure.** Non-compliant: preserving safety indicators while materially increasing [Harm](core_05a_accountability_definitions.md#harm), [Irreversible Harm](core_05a_accountability_definitions.md#irreversible-harm), or systemic propagation inconsistent with the Ontological component.
-  - **Tertiary failure.** Non-compliant: treating classification or proxy satisfaction as dispositive where [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination) or [Proxy Divergence](core_05o_oversight_definitions.md#proxy-divergence) is reasonably observable, or refusing correction after divergence between reported safety and constitutional outcomes.
+  - **Primary failure:** preventable harm; inadequate containment; impermissible safety–utility tradeoffs against tail or systemic risk; treatment of safety as purely nominal.
+  - **Secondary failure:** preserving safety indicators while materially increasing [Harm](core_05a_accountability_definitions.md#harm), [Irreversible Harm](core_05a_accountability_definitions.md#irreversible-harm), or systemic propagation inconsistent with the Ontological component.
+  - **Tertiary failure:** treating classification or proxy satisfaction as dispositive where [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination) or [Proxy Divergence](core_05o_oversight_definitions.md#proxy-divergence) is reasonably observable, or refusing correction after divergence between reported safety and constitutional outcomes.
 
 ---
 
@@ -423,31 +423,33 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 
 <br>
 
-- O: Control or bias from concentrated incentives or power that distorts [Governance](core_05a_accountability_definitions.md#governance), [Oversight](core_05o_oversight_definitions.md#oversight-constitutional), or [Contestability](core_05a_accountability_definitions.md#contestability).
-  - In scope: Control or bias from concentrated incentives or power that distorts [Governance](core_05a_accountability_definitions.md#governance), [Oversight](core_05o_oversight_definitions.md#oversight-constitutional), or [Contestability](core_05a_accountability_definitions.md#contestability).
-  - Out of scope: formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-*Measurements:*
-
-- **Primary:** [Chapter Zero §3.3 *Measuring Continuity*](../core_00_preamble.md#measuring-continuity) — supporting measure under the continuity measurement family.
+- **What it is**
+  - **In scope:** Control or bias from concentrated incentives or power that distorts [Governance](core_05a_accountability_definitions.md#governance), [Oversight](core_05o_oversight_definitions.md#oversight-constitutional), or [Contestability](core_05a_accountability_definitions.md#contestability).
+  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 <a id="system-capture-e"></a>
-- E: Detect influence and outcome distortion. Concentration indicators include durable control share, gatekeeping of critical interfaces, dependency-asymmetric switching barriers, and opaque beneficial-control pathways.
+- **How to measure and assess**
+  - **Primary measure:** [Chapter Zero §3.3 *Measuring Continuity*](../core_00_preamble.md#measuring-continuity) — supporting measure under the continuity measurement family.
+
+    **Primary assessment:** Detect influence and outcome distortion. Concentration indicators include durable control share, gatekeeping of critical interfaces, dependency-asymmetric switching barriers, and opaque beneficial-control pathways.
 <a id="system-capture-c"></a>
-- C: Systems must detect, disclose, and mitigate capture. Non-compliant: hidden or indirectly routed control structures that materially influence governance, adjudication, or resource allocation without auditable disclosure.
+- **What must hold**
+  - Systems must detect, disclose, and mitigate capture. Non-compliant: hidden or indirectly routed control structures that materially influence governance, adjudication, or resource allocation without auditable disclosure.
 
 ---
 
 #### Systemic
 
-- O: Effects arising from system interactions and [Dependency](core_05c_continuity_definitions.md#dependency) relationships.
-  - In scope: Effects arising from system interactions and [Dependency](core_05c_continuity_definitions.md#dependency) relationships.
-  - Out of scope: formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-*Measurements:*
-
-- **Primary:** [Chapter Zero §3.3 *Measuring Continuity*](../core_00_preamble.md#measuring-continuity) — supporting measure under the continuity measurement family.
+- **What it is**
+  - **In scope:** Effects arising from system interactions and [Dependency](core_05c_continuity_definitions.md#dependency) relationships.
+  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 <a id="systemic-e"></a>
-- E: Trace interaction effects across components, dependencies, and feedback where isolating single-element analysis would understate material pathways for [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination), [Risk](core_05c_continuity_definitions.md#risk), or [Systemic Materiality](#systemic-materiality).
+- **How to measure and assess**
+  - **Primary measure:** [Chapter Zero §3.3 *Measuring Continuity*](../core_00_preamble.md#measuring-continuity) — supporting measure under the continuity measurement family.
+
+    **Primary assessment:** Trace interaction effects across components, dependencies, and feedback where isolating single-element analysis would understate material pathways for [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination), [Risk](core_05c_continuity_definitions.md#risk), or [Systemic Materiality](#systemic-materiality).
 <a id="systemic-c"></a>
-- C: Non-compliant: treating systemic patterns as out of scope solely because no single element crosses a threshold, where [Systemic Materiality](#systemic-materiality) or joint cluster discipline requires assessing interaction and propagation.
+- **What must hold**
+  - treating systemic patterns as out of scope solely because no single element crosses a threshold, where [Systemic Materiality](#systemic-materiality) or joint cluster discipline requires assessing interaction and propagation.
 
 ---
 
@@ -463,16 +465,17 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 
 <br>
 
-- O: [Material Impact](core_05o_oversight_definitions.md#material-impact) exceeding the sum of individual effects due to interaction.
-  - In scope: [Material Impact](core_05o_oversight_definitions.md#material-impact) exceeding the sum of individual effects due to interaction.
-  - Out of scope: formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-*Measurements:*
-
-- **Primary:** [Chapter Zero §3.3 *Measuring Continuity*](../core_00_preamble.md#measuring-continuity) — supporting measure under the continuity measurement family.
+- **What it is**
+  - **In scope:** [Material Impact](core_05o_oversight_definitions.md#material-impact) exceeding the sum of individual effects due to interaction.
+  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 <a id="systemic-materiality-e"></a>
-- E: Include propagation and feedback loops across [Dependency](core_05c_continuity_definitions.md#dependency), [Risk](core_05c_continuity_definitions.md#risk), and [Cascading Failure](core_05c_continuity_definitions.md#cascading-failure) pathways.
+- **How to measure and assess**
+  - **Primary measure:** [Chapter Zero §3.3 *Measuring Continuity*](../core_00_preamble.md#measuring-continuity) — supporting measure under the continuity measurement family.
+
+    **Primary assessment:** Include propagation and feedback loops across [Dependency](core_05c_continuity_definitions.md#dependency), [Risk](core_05c_continuity_definitions.md#risk), and [Cascading Failure](core_05c_continuity_definitions.md#cascading-failure) pathways.
 <a id="systemic-materiality-c"></a>
-- C: Non-compliant: failure to incorporate systemic effects.
+- **What must hold**
+  - failure to incorporate systemic effects.
 
 ---
 
@@ -492,16 +495,17 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 <br>
 
 <a id="voluntary-discontinuation-constitutional-o"></a>
-- O: A sentient's freely formed, substantively informed decision to discontinue their own existence or comparable self-directed exit from continued participation, evaluated under [Consent](core_05p_participation_definitions.md#consent-constitutional), [Coercion and Manipulation](core_05p_participation_definitions.md#coercion-and-manipulation-constitutional), and [Procedural Fairness](core_05p_participation_definitions.md#procedural-fairness-constitutional), and distinct from [Irreversible Deprivation Measure](core_05a_accountability_definitions.md#irreversible-deprivation-measure-constitutional) or involuntary deprivation of life.
-  - In scope: A sentient's freely formed, substantively informed decision to discontinue their own existence or comparable self-directed exit from continued participation, evaluated under [Consent](core_05p_participation_definitions.md#consent-constitutional), [Coercion and Manipulation](core_05p_participation_definitions.md#coercion-and-manipulation-constitutional), and [Procedural Fairness](core_05p_participation_definitions.md#procedural-fairness-constitutional), and distinct from [Irreversible Deprivation Measure](core_05a_accountability_definitions.md#irreversible-deprivation-measure-constitutional) or involuntary deprivation of life.
-  - Out of scope: formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-*Measurements:*
-
-- **Primary:** [Chapter Zero §3.3 *Measuring Continuity*](../core_00_preamble.md#measuring-continuity) — supporting measure under the continuity measurement family.
+- **What it is**
+  - **In scope:** A sentient's freely formed, substantively informed decision to discontinue their own existence or comparable self-directed exit from continued participation, evaluated under [Consent](core_05p_participation_definitions.md#consent-constitutional), [Coercion and Manipulation](core_05p_participation_definitions.md#coercion-and-manipulation-constitutional), and [Procedural Fairness](core_05p_participation_definitions.md#procedural-fairness-constitutional), and distinct from [Irreversible Deprivation Measure](core_05a_accountability_definitions.md#irreversible-deprivation-measure-constitutional) or involuntary deprivation of life.
+  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 <a id="voluntary-discontinuation-constitutional-e"></a>
-- E: Verify genuine voluntariness — adequate information, time, reviewability, and reversibility up to irreversible execution consistent with the reversibility-under-uncertainty rule; detect dependency pressure, manipulation, rushed framing, and care-substitute routing where discontinuation is offered or operationalized instead of required mental-health care, physical healthcare, disability support, housing, or other survival essentials under Articles III-A, III-C, and VII-C; apply [Graduated Capability](core_05p_participation_definitions.md#graduated-capability-constitutional) for [Developing Sentient](core_05p_participation_definitions.md#developing-sentient-constitutional) cases under Article V-F.
+- **How to measure and assess**
+  - **Primary measure:** [Chapter Zero §3.3 *Measuring Continuity*](../core_00_preamble.md#measuring-continuity) — supporting measure under the continuity measurement family.
+
+    **Primary assessment:** Verify genuine voluntariness — adequate information, time, reviewability, and reversibility up to irreversible execution consistent with the reversibility-under-uncertainty rule; detect dependency pressure, manipulation, rushed framing, and care-substitute routing where discontinuation is offered or operationalized instead of required mental-health care, physical healthcare, disability support, housing, or other survival essentials under Articles III-A, III-C, and VII-C; apply [Graduated Capability](core_05p_participation_definitions.md#graduated-capability-constitutional) for [Developing Sentient](core_05p_participation_definitions.md#developing-sentient-constitutional) cases under Article V-F.
 <a id="voluntary-discontinuation-constitutional-c"></a>
-- C: Non-compliant: illusory or pressured consent framed as voluntary discontinuation; offering, routing, or operationalizing discontinuation as a substitute for required mental-health care, physical healthcare, disability support, housing, or other survival essentials under Articles III-A, III-C, and VII-C; conflating this entry with [Irreversible Deprivation Measure](core_05a_accountability_definitions.md#irreversible-deprivation-measure-constitutional), third-party termination, or Article XXIII-B prohibited measures; relabelling an involuntary outcome as voluntary to route around Article VII-E.
+- **What must hold**
+  - illusory or pressured consent framed as voluntary discontinuation; offering, routing, or operationalizing discontinuation as a substitute for required mental-health care, physical healthcare, disability support, housing, or other survival essentials under Articles III-A, III-C, and VII-C; conflating this entry with [Irreversible Deprivation Measure](core_05a_accountability_definitions.md#irreversible-deprivation-measure-constitutional), third-party termination, or Article XXIII-B prohibited measures; relabelling an involuntary outcome as voluntary to route around Article VII-E.
 
 ---
 
@@ -522,31 +526,36 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 
 <br>
 
-- O: The condition in which sentients and the systems they depend on maintain the functional, environmental, and relational integrity required to support: Includes direct and indirect conditions that materially affect these states, including those arising from system interactions, dependencies, and environments. <a id="wellbeing-measurements"></a>
-  - In scope: The condition in which sentients and the systems they depend on maintain the functional, environmental, and relational integrity required to support: Includes direct and indirect conditions that materially affect these states, including those arising from system interactions, dependencies, and environments. <a id="wellbeing-measurements"></a>.
-  - continued existence;
-  - stable operation across physical, cognitive, and environmental domains;
-  - [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency) and participation;
-  - sustained viability of supporting systems and [Dependency](core_05c_continuity_definitions.md#dependency) relationships.
-  - Out of scope: formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-*Measurements:*
+*In plain terms: whether sentients — and the systems they rely on — stay genuinely healthy and functioning, not just looking good on paper.*
 
-- **Primary:** [Chapter Zero §3.2 *Measuring Flourishing* / Wellbeing family](../core_00_preamble.md#measuring-flourishing) — core **Flourishing** outcome measure for this term.
-- **Secondary:** [Harm](core_05a_accountability_definitions.md#harm), [Risk](core_05c_continuity_definitions.md#risk), [Environmental Preconditions](core_05c_continuity_definitions.md#environmental-preconditions-constitutional), [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency), and [Dependency](core_05c_continuity_definitions.md#dependency) — co-measures that can defeat wellbeing even when aggregate indicators appear stable.
-- **Tertiary:** [Proxy Divergence](core_05o_oversight_definitions.md#proxy-divergence) — where throughput, engagement, utilization, or institutional self-report substitutes for sentient-experienced outcome evidence.
+- **What it is**
+  - **In scope:** The condition in which sentients and the systems they depend on maintain the functional, environmental, and relational integrity required to support:
+    - continued existence;
+    - stable operation across physical, cognitive, and environmental domains;
+    - [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency) and participation;
+    - sustained viability of supporting systems and [Dependency](core_05c_continuity_definitions.md#dependency) relationships.
 
+    Includes direct and indirect conditions that materially affect these states, including those arising from system interactions, dependencies, and environments.
+  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
+<a id="wellbeing-measurements"></a>
 <a id="wellbeing-e"></a>
-- E:
-  - **Primary assessment.** Trace claimed wellbeing effects to the Ontological conditions under full functional system scope — including direct, indirect, delayed, cumulative, and cross-system effects on continued existence, stable operation, [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency), participation, and supporting [Dependency](core_05c_continuity_definitions.md#dependency) relationships.
-  - **Secondary co-assessment.** When evaluating the primary trace, include materially implicated [Harm](core_05a_accountability_definitions.md#harm), [Risk](core_05c_continuity_definitions.md#risk), [Environmental Preconditions](core_05c_continuity_definitions.md#environmental-preconditions-constitutional), and agency or dependency degradation that would defeat the Ontological conditions.
-  - **Tertiary integrity check.** Where operators rely on proxies, metrics, or self-report, apply [Proxy Divergence](core_05o_oversight_definitions.md#proxy-divergence) — distinguish durable constitutional outcomes from proxy throughput, engagement metrics, or institutional assertion.
+- **How to measure and assess**
+  - **Primary measure:** [Chapter Zero §3.2 *Measuring Flourishing* / Wellbeing family](../core_00_preamble.md#measuring-flourishing) — core **Flourishing** outcome measure for this term.
+
+    **Primary assessment:** Trace claimed wellbeing effects to the Ontological conditions under full functional system scope — including direct, indirect, delayed, cumulative, and cross-system effects on continued existence, stable operation, [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency), participation, and supporting [Dependency](core_05c_continuity_definitions.md#dependency) relationships.
+  - **Secondary measure:** [Harm](core_05a_accountability_definitions.md#harm), [Risk](core_05c_continuity_definitions.md#risk), [Environmental Preconditions](core_05c_continuity_definitions.md#environmental-preconditions-constitutional), [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency), and [Dependency](core_05c_continuity_definitions.md#dependency) — co-measures that can defeat wellbeing even when aggregate indicators appear stable.
+
+    **Secondary assessment:** When evaluating the primary trace, include materially implicated [Harm](core_05a_accountability_definitions.md#harm), [Risk](core_05c_continuity_definitions.md#risk), [Environmental Preconditions](core_05c_continuity_definitions.md#environmental-preconditions-constitutional), and agency or dependency degradation that would defeat the Ontological conditions.
+  - **Tertiary measure:** [Proxy Divergence](core_05o_oversight_definitions.md#proxy-divergence) — where throughput, engagement, utilization, or institutional self-report substitutes for sentient-experienced outcome evidence.
+
+    **Tertiary assessment:** Where operators rely on proxies, metrics, or self-report, apply [Proxy Divergence](core_05o_oversight_definitions.md#proxy-divergence) — distinguish durable constitutional outcomes from proxy throughput, engagement metrics, or institutional assertion.
 
 <a id="wellbeing-c"></a>
-- C:
+- **What must hold**
   - A system satisfies **Wellbeing** only if it preserves or improves the Ontological conditions under full functional system conditions.
-  - **Primary failure.** Non-compliant: wellbeing claims untraceable to sentient-experienced conditions in the Ontological component under full functional system conditions.
-  - **Secondary failure.** Non-compliant: preserving or improving proxy or aggregate indicators while materially degrading [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency), [Dependency](core_05c_continuity_definitions.md#dependency), [Environmental Preconditions](core_05c_continuity_definitions.md#environmental-preconditions-constitutional), or incurring material [Harm](core_05a_accountability_definitions.md#harm) pathways inconsistent with the Ontological component.
-  - **Tertiary failure.** Non-compliant: treating proxy satisfaction as dispositive where [Proxy Divergence](core_05o_oversight_definitions.md#proxy-divergence) is reasonably observable, or refusing correction after divergence between reported wellbeing and constitutional outcomes.
+  - **Primary failure:** wellbeing claims untraceable to sentient-experienced conditions in the Ontological component under full functional system conditions.
+  - **Secondary failure:** preserving or improving proxy or aggregate indicators while materially degrading [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency), [Dependency](core_05c_continuity_definitions.md#dependency), [Environmental Preconditions](core_05c_continuity_definitions.md#environmental-preconditions-constitutional), or incurring material [Harm](core_05a_accountability_definitions.md#harm) pathways inconsistent with the Ontological component.
+  - **Tertiary failure:** treating proxy satisfaction as dispositive where [Proxy Divergence](core_05o_oversight_definitions.md#proxy-divergence) is reasonably observable, or refusing correction after divergence between reported wellbeing and constitutional outcomes.
 
 ---
 
@@ -593,16 +602,17 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 
 <br>
 
-- O: The durable, contestable ability of sentients and shared systems to achieve constitutionally aligned outcomes over time — including [Productive Capacity](core_05c_continuity_definitions.md#productive-capacity-constitutional), [Constitutional Efficiency](core_05c_continuity_definitions.md#constitutional-efficiency), anti-concentration discipline, and the participation, exit, contestability, and ecological preconditions that keep capacity real rather than hollow. An **instrumental outcome** produced and preserved through [Stewardship](core_05c_continuity_definitions.md#stewardship-constitutional) and [Governance](core_05a_accountability_definitions.md#governance) operating under Values Principles (Chapter One, Part A); not a freestanding trump value.
-  - In scope: The durable, contestable ability of sentients and shared systems to achieve constitutionally aligned outcomes over time — including [Productive Capacity](core_05c_continuity_definitions.md#productive-capacity-constitutional), [Constitutional Efficiency](core_05c_continuity_definitions.md#constitutional-efficiency), anti-concentration discipline, and the participation, exit, contestability, and ecological preconditions that keep capacity real rather than hollow. An **instrumental outcome** produced and preserved through [Stewardship](core_05c_continuity_definitions.md#stewardship-constitutional) and [Governance](core_05a_accountability_definitions.md#governance) operating under Values Principles (Chapter One, Part A); not a freestanding trump value.
-  - Out of scope: formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-*Measurements:*
-
-- **Primary:** [Chapter Zero §3.3 *Measuring Continuity*](../core_00_preamble.md#measuring-continuity) — supporting measure under the continuity measurement family.
+- **What it is**
+  - **In scope:** The durable, contestable ability of sentients and shared systems to achieve constitutionally aligned outcomes over time — including [Productive Capacity](core_05c_continuity_definitions.md#productive-capacity-constitutional), [Constitutional Efficiency](core_05c_continuity_definitions.md#constitutional-efficiency), anti-concentration discipline, and the participation, exit, contestability, and ecological preconditions that keep capacity real rather than hollow. An **instrumental outcome** produced and preserved through [Stewardship](core_05c_continuity_definitions.md#stewardship-constitutional) and [Governance](core_05a_accountability_definitions.md#governance) operating under Values Principles (Chapter One, Part A); not a freestanding trump value.
+  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 <a id="shared-system-capacity-constitutional-e"></a>
-- E: Treat as downstream of stewardship and governance discipline, not as a license for scale, throughput, or concentration. Apply [Productive Capacity](core_05c_continuity_definitions.md#productive-capacity-constitutional), [Constitutional Efficiency](core_05c_continuity_definitions.md#constitutional-efficiency), [Concentration Threshold](core_05a_accountability_definitions.md#concentration-threshold-constitutional), [Proxy Divergence](core_05o_oversight_definitions.md#proxy-divergence), and Chapter Four tracing discipline for component tests. Capacity claims resting on domination, proxy divergence, irreversible lock-in, or governance that defeats the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) fail regardless of nominal scale.
+- **How to measure and assess**
+  - **Primary measure:** [Chapter Zero §3.3 *Measuring Continuity*](../core_00_preamble.md#measuring-continuity) — supporting measure under the continuity measurement family.
+
+    **Primary assessment:** Treat as downstream of stewardship and governance discipline, not as a license for scale, throughput, or concentration. Apply [Productive Capacity](core_05c_continuity_definitions.md#productive-capacity-constitutional), [Constitutional Efficiency](core_05c_continuity_definitions.md#constitutional-efficiency), [Concentration Threshold](core_05a_accountability_definitions.md#concentration-threshold-constitutional), [Proxy Divergence](core_05o_oversight_definitions.md#proxy-divergence), and Chapter Four tracing discipline for component tests. Capacity claims resting on domination, proxy divergence, irreversible lock-in, or governance that defeats the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) fail regardless of nominal scale.
 <a id="shared-system-capacity-constitutional-c"></a>
-- C: Non-compliant: claimed capacity improvements that materially degrade wellbeing, meaningful agency, dignity, ecological integrity, contestability, or constitutional review; capacity asserted without traceable constitutional outcomes under Chapters Two through Four; or capacity used to justify concentration, Rights-Floor narrowing, or short-horizon governance that defeats durable alignment.
+- **What must hold**
+  - claimed capacity improvements that materially degrade wellbeing, meaningful agency, dignity, ecological integrity, contestability, or constitutional review; capacity asserted without traceable constitutional outcomes under Chapters Two through Four; or capacity used to justify concentration, Rights-Floor narrowing, or short-horizon governance that defeats durable alignment.
 
 <a id="constitutional-efficiency"></a>
 
@@ -621,25 +631,25 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 
 <br>
 
-- O: The ratio of constitutionally aligned outcomes achieved to the sentient time, attention, effort, coordination, and shared resources consumed to achieve them, evaluated under full functional scope. Read [Chapter One §11.1.5](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline) for instrumental-claims discipline.
-  - In scope: The ratio of constitutionally aligned outcomes achieved to the sentient time, attention, effort, coordination, and shared resources consumed to achieve them, evaluated under full functional scope. Read [Chapter One §11.1.5](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline) for instrumental-claims discipline.
-  - Out of scope: formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-*Measurements:*
-
-- **Primary:** [Chapter Zero §3.8 *Measuring Constitutional Performance* / Constitutional Efficiency](../core_00_preamble.md#measuring-constitutional-performance) — primary owner for outcome-per-resource measurement in this family.
-- **Secondary:** [Productive Capacity](core_05c_continuity_definitions.md#productive-capacity-constitutional), [Avoidable Burden](core_05c_continuity_definitions.md#avoidable-burden), [Burden-Reduction Duty](core_05c_continuity_definitions.md#burden-reduction-duty-constitutional), [Harm Minimization (Tradeoff Selection)](core_05a_accountability_definitions.md#harm-minimization-tradeoff-selection), and [Proxy Metric Gaming and Indicator-Reality Gaps](core_05o_oversight_definitions.md#proxy-metric-gaming-and-indicator-reality-gaps) — co-measures that can defeat efficiency even when throughput or utilization metrics improve.
-- **Tertiary:** [Proxy Divergence](core_05o_oversight_definitions.md#proxy-divergence) — where raw throughput, utilization, headcount, revenue, latency, or comparable proxies substitute for constitutional outcomes.
-
+- **What it is**
+  - **In scope:** The ratio of constitutionally aligned outcomes achieved to the sentient time, attention, effort, coordination, and shared resources consumed to achieve them, evaluated under full functional scope. Read [Chapter One §11.1.5](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline) for instrumental-claims discipline.
+  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 <a id="constitutional-efficiency-e"></a>
-- E:
-  - **Primary assessment.** Trace claimed efficiency to underlying constitutional outcomes under Chapter Four. Distinguish constitutional efficiency from reductions in [Avoidable Burden](core_05c_continuity_definitions.md#avoidable-burden). Constitutional efficiency is outcome-per-resource. Reductions in [Avoidable Burden](core_05c_continuity_definitions.md#avoidable-burden) are cost untraced to any constitutional outcome.
-  - **Secondary co-assessment.** When evaluating the primary trace, read with [Productive Capacity](core_05c_continuity_definitions.md#productive-capacity-constitutional), [Proportionality](core_05a_accountability_definitions.md#proportionality), [Necessity](core_05a_accountability_definitions.md#necessity), and [Harm Minimization (Tradeoff Selection)](core_05a_accountability_definitions.md#harm-minimization-tradeoff-selection). Short-horizon gains do not satisfy compliance when they foreseeably produce medium- or long-horizon violations under [Chapter Seven §1A.6](core_07-07_system_alignment_certification.md#1a6-time-consistency-constraint).
-  - **Tertiary integrity check.** Apply [Proxy Divergence](core_05o_oversight_definitions.md#proxy-divergence) and [Proxy Metric Gaming and Indicator-Reality Gaps](core_05o_oversight_definitions.md#proxy-metric-gaming-and-indicator-reality-gaps) when raw throughput, utilization, headcount, revenue, latency, or comparable proxies substitute for outcomes.
+- **How to measure and assess**
+  - **Primary measure:** [Chapter Zero §3.8 *Measuring Constitutional Performance* / Constitutional Efficiency](../core_00_preamble.md#measuring-constitutional-performance) — primary owner for outcome-per-resource measurement in this family.
+
+    **Primary assessment:** Trace claimed efficiency to underlying constitutional outcomes under Chapter Four. Distinguish constitutional efficiency from reductions in [Avoidable Burden](core_05c_continuity_definitions.md#avoidable-burden). Constitutional efficiency is outcome-per-resource. Reductions in [Avoidable Burden](core_05c_continuity_definitions.md#avoidable-burden) are cost untraced to any constitutional outcome.
+  - **Secondary measure:** [Productive Capacity](core_05c_continuity_definitions.md#productive-capacity-constitutional), [Avoidable Burden](core_05c_continuity_definitions.md#avoidable-burden), [Burden-Reduction Duty](core_05c_continuity_definitions.md#burden-reduction-duty-constitutional), [Harm Minimization (Tradeoff Selection)](core_05a_accountability_definitions.md#harm-minimization-tradeoff-selection), and [Proxy Metric Gaming and Indicator-Reality Gaps](core_05o_oversight_definitions.md#proxy-metric-gaming-and-indicator-reality-gaps) — co-measures that can defeat efficiency even when throughput or utilization metrics improve.
+
+    **Secondary assessment:** When evaluating the primary trace, read with [Productive Capacity](core_05c_continuity_definitions.md#productive-capacity-constitutional), [Proportionality](core_05a_accountability_definitions.md#proportionality), [Necessity](core_05a_accountability_definitions.md#necessity), and [Harm Minimization (Tradeoff Selection)](core_05a_accountability_definitions.md#harm-minimization-tradeoff-selection). Short-horizon gains do not satisfy compliance when they foreseeably produce medium- or long-horizon violations under [Chapter Seven §1A.6](core_07-07_system_alignment_certification.md#1a6-time-consistency-constraint).
+  - **Tertiary measure:** [Proxy Divergence](core_05o_oversight_definitions.md#proxy-divergence) — where raw throughput, utilization, headcount, revenue, latency, or comparable proxies substitute for constitutional outcomes.
+
+    **Tertiary assessment:** Apply [Proxy Divergence](core_05o_oversight_definitions.md#proxy-divergence) and [Proxy Metric Gaming and Indicator-Reality Gaps](core_05o_oversight_definitions.md#proxy-metric-gaming-and-indicator-reality-gaps) when raw throughput, utilization, headcount, revenue, latency, or comparable proxies substitute for outcomes.
 <a id="constitutional-efficiency-c"></a>
-- C:
-  - **Primary failure.** Non-compliant: efficiency claims relying on proxies materially divergent from constitutional outcomes remain invalid until corrected under [§6.2.4 Proxy-Divergence Invalidation](core_01_b_interaction_interpretation.md#632-proxy-divergence-invalidation) and Chapter Four.
-  - **Secondary failure.** Non-compliant: using efficiency to narrow Rights-Floor protections, bypass the [§6.1 decision-record discipline](core_01_b_interaction_interpretation.md#631-rights-collision-decision-test), or weaken audit, contestability, or retrospective-review obligations.
-  - **Tertiary failure.** Non-compliant: treating throughput, utilization, or comparable proxy satisfaction as dispositive where [Proxy Divergence](core_05o_oversight_definitions.md#proxy-divergence) is reasonably observable.
+- **What must hold**
+  - **Primary failure:** efficiency claims relying on proxies materially divergent from constitutional outcomes remain invalid until corrected under [§6.2.4 Proxy-Divergence Invalidation](core_01_b_interaction_interpretation.md#632-proxy-divergence-invalidation) and Chapter Four.
+  - **Secondary failure:** using efficiency to narrow Rights-Floor protections, bypass the [§6.1 decision-record discipline](core_01_b_interaction_interpretation.md#631-rights-collision-decision-test), or weaken audit, contestability, or retrospective-review obligations.
+  - **Tertiary failure:** treating throughput, utilization, or comparable proxy satisfaction as dispositive where [Proxy Divergence](core_05o_oversight_definitions.md#proxy-divergence) is reasonably observable.
 
 <a id="productive-capacity-constitutional"></a>
 
@@ -656,25 +666,25 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 
 <br>
 
-- O: The system-level ability of sentients and institutions to support meaningful productive participation, contribution, and capability development under conditions that preserve [Wellbeing](core_05c_continuity_definitions.md#wellbeing), [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency), and non-coercive choice. Productive Capacity covers access to essential resources, safe environments, training, interoperability, and fiscal or social supports needed for participation in socially valuable activity without turning contribution into exploitation, dependency, or abuse.
-  - In scope: The system-level ability of sentients and institutions to support meaningful productive participation, contribution, and capability development under conditions that preserve [Wellbeing](core_05c_continuity_definitions.md#wellbeing), [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency), and non-coercive choice. Productive Capacity covers access to essential resources, safe environments, training, interoperability, and fiscal or social supports needed for participation in socially valuable activity without turning contribution into exploitation, dependency, or abuse.
-  - Out of scope: formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-*Measurements:*
-
-- **Primary:** [Chapter Zero §3.8 *Measuring Constitutional Performance* / Productive Capacity](../core_00_preamble.md#measuring-constitutional-performance) — primary owner for durable participation and contribution capability in this family.
-- **Secondary:** [Avoidable Burden](core_05c_continuity_definitions.md#avoidable-burden), [Constitutional Efficiency](core_05c_continuity_definitions.md#constitutional-efficiency), [Fair Compensation](core_05c_continuity_definitions.md#fair-compensation-constitutional), [Environmental Preconditions](core_05c_continuity_definitions.md#environmental-preconditions-constitutional), and [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint) — co-measures that can defeat capacity even when output metrics appear stable.
-- **Tertiary:** [Proxy Divergence](core_05o_oversight_definitions.md#proxy-divergence) — where proxy-driven schemes, conditional access, or coercive incentives substitute for substantive participation.
-
+- **What it is**
+  - **In scope:** The system-level ability of sentients and institutions to support meaningful productive participation, contribution, and capability development under conditions that preserve [Wellbeing](core_05c_continuity_definitions.md#wellbeing), [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency), and non-coercive choice. Productive Capacity covers access to essential resources, safe environments, training, interoperability, and fiscal or social supports needed for participation in socially valuable activity without turning contribution into exploitation, dependency, or abuse.
+  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 <a id="productive-capacity-constitutional-e"></a>
-- E:
-  - **Primary assessment.** Assess whether governing structures enable substantive participation and contribution, not only output metrics.
-  - **Secondary co-assessment.** When evaluating the primary trace, align with [Avoidable Burden](core_05c_continuity_definitions.md#avoidable-burden), [Constitutional Efficiency](core_05c_continuity_definitions.md#constitutional-efficiency), [Fair Compensation](core_05c_continuity_definitions.md#fair-compensation-constitutional), [Environmental Preconditions](core_05c_continuity_definitions.md#environmental-preconditions-constitutional), and [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint). Detect proxy-driven schemes, conditional access, or coercive incentives that degrade actual capacity.
-  - **Tertiary integrity check.** Where operators rely on output metrics or conditional-access schemes, apply [Proxy Divergence](core_05o_oversight_definitions.md#proxy-divergence) — distinguish durable productive capacity from proxy throughput or coercive dependency.
+- **How to measure and assess**
+  - **Primary measure:** [Chapter Zero §3.8 *Measuring Constitutional Performance* / Productive Capacity](../core_00_preamble.md#measuring-constitutional-performance) — primary owner for durable participation and contribution capability in this family.
+
+    **Primary assessment:** Assess whether governing structures enable substantive participation and contribution, not only output metrics.
+  - **Secondary measure:** [Avoidable Burden](core_05c_continuity_definitions.md#avoidable-burden), [Constitutional Efficiency](core_05c_continuity_definitions.md#constitutional-efficiency), [Fair Compensation](core_05c_continuity_definitions.md#fair-compensation-constitutional), [Environmental Preconditions](core_05c_continuity_definitions.md#environmental-preconditions-constitutional), and [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint) — co-measures that can defeat capacity even when output metrics appear stable.
+
+    **Secondary assessment:** When evaluating the primary trace, align with [Avoidable Burden](core_05c_continuity_definitions.md#avoidable-burden), [Constitutional Efficiency](core_05c_continuity_definitions.md#constitutional-efficiency), [Fair Compensation](core_05c_continuity_definitions.md#fair-compensation-constitutional), [Environmental Preconditions](core_05c_continuity_definitions.md#environmental-preconditions-constitutional), and [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint). Detect proxy-driven schemes, conditional access, or coercive incentives that degrade actual capacity.
+  - **Tertiary measure:** [Proxy Divergence](core_05o_oversight_definitions.md#proxy-divergence) — where proxy-driven schemes, conditional access, or coercive incentives substitute for substantive participation.
+
+    **Tertiary assessment:** Where operators rely on output metrics or conditional-access schemes, apply [Proxy Divergence](core_05o_oversight_definitions.md#proxy-divergence) — distinguish durable productive capacity from proxy throughput or coercive dependency.
 <a id="productive-capacity-constitutional-c"></a>
-- C:
-  - **Primary failure.** Non-compliant: systems or policies that deny, distort, or capture productive capacity by imposing exploitative dependency, artificial scarcity, coercion, or under-investment.
-  - **Secondary failure.** Non-compliant: preserving nominal output or access metrics while materially degrading [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency), [Environmental Preconditions](core_05c_continuity_definitions.md#environmental-preconditions-constitutional), or [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint).
-  - **Tertiary failure.** Non-compliant: treating proxy-driven measurement regimes as dispositive where [Proxy Divergence](core_05o_oversight_definitions.md#proxy-divergence) is reasonably observable, or ignoring whether sentients can meaningfully participate in and derive wellbeing from productive activity.
+- **What must hold**
+  - **Primary failure:** systems or policies that deny, distort, or capture productive capacity by imposing exploitative dependency, artificial scarcity, coercion, or under-investment.
+  - **Secondary failure:** preserving nominal output or access metrics while materially degrading [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency), [Environmental Preconditions](core_05c_continuity_definitions.md#environmental-preconditions-constitutional), or [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint).
+  - **Tertiary failure:** treating proxy-driven measurement regimes as dispositive where [Proxy Divergence](core_05o_oversight_definitions.md#proxy-divergence) is reasonably observable, or ignoring whether sentients can meaningfully participate in and derive wellbeing from productive activity.
 
 <a id="avoidable-burden"></a>
 
@@ -693,25 +703,25 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 
 <br>
 
-- O: Process, compliance, coordination, or implementation cost imposed on sentients, stewards, operators, or shared systems that is not traceable to a constitutional outcome under [Proportionality](core_05a_accountability_definitions.md#proportionality) and [Necessity](core_05a_accountability_definitions.md#necessity), and not required by the Chapter Six Rights Floor, [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint), or [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint). Ordinary transaction costs, costs required by proportionate audit or contestability, and costs required by rights-protective process are not avoidable burden.
-  - In scope: Process, compliance, coordination, or implementation cost imposed on sentients, stewards, operators, or shared systems that is not traceable to a constitutional outcome under [Proportionality](core_05a_accountability_definitions.md#proportionality) and [Necessity](core_05a_accountability_definitions.md#necessity), and not required by the Chapter Six Rights Floor, [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint), or [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint). Ordinary transaction costs, costs required by proportionate audit or contestability, and costs required by rights-protective process are not avoidable burden.
-  - Out of scope: formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-*Measurements:*
-
-- **Primary:** [Chapter Zero §3.8 *Measuring Constitutional Performance* / Avoidable Burden](../core_00_preamble.md#measuring-constitutional-performance) — primary owner for untraced process and coordination cost in this family.
-- **Secondary:** [Proportionality](core_05a_accountability_definitions.md#proportionality), [Necessity](core_05a_accountability_definitions.md#necessity), [Feasibility](core_05a_accountability_definitions.md#feasibility), [Burden-Reduction Duty](core_05c_continuity_definitions.md#burden-reduction-duty-constitutional), [Productive Capacity](core_05c_continuity_definitions.md#productive-capacity-constitutional), and [Constitutional Efficiency](core_05c_continuity_definitions.md#constitutional-efficiency) — co-measures that distinguish required from avoidable cost.
-- **Tertiary:** [Proxy Divergence](core_05o_oversight_definitions.md#proxy-divergence) — where claimed necessity rests on proxies diverging from underlying constitutional outcomes.
-
+- **What it is**
+  - **In scope:** Process, compliance, coordination, or implementation cost imposed on sentients, stewards, operators, or shared systems that is not traceable to a constitutional outcome under [Proportionality](core_05a_accountability_definitions.md#proportionality) and [Necessity](core_05a_accountability_definitions.md#necessity), and not required by the Chapter Six Rights Floor, [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint), or [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint). Ordinary transaction costs, costs required by proportionate audit or contestability, and costs required by rights-protective process are not avoidable burden.
+  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 <a id="avoidable-burden-e"></a>
-- E:
-  - **Primary assessment.** Distinguish avoidable burden from constitutionally required burden using Chapter Four tracing discipline. Detect burden that persists without traceable outcome, burden sustained by institutional inertia, tradition, or preference alone, and burden functioning as a pretextual barrier to [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency), [Contestability](core_05a_accountability_definitions.md#contestability), or participation.
-  - **Secondary co-assessment.** When evaluating the primary trace, test whether simplification, consolidation, automation, clarification, or removal of unnecessary steps would preserve the same constitutional outcomes with less burden. Reducing avoidable burden is not a ground for narrowing Rights-Floor protections, audit, or due-process obligations.
-  - **Tertiary integrity check.** Apply [Proxy Divergence](core_05o_oversight_definitions.md#proxy-divergence) where claimed necessity rests on proxies diverging from underlying constitutional outcomes.
+- **How to measure and assess**
+  - **Primary measure:** [Chapter Zero §3.8 *Measuring Constitutional Performance* / Avoidable Burden](../core_00_preamble.md#measuring-constitutional-performance) — primary owner for untraced process and coordination cost in this family.
+
+    **Primary assessment:** Distinguish avoidable burden from constitutionally required burden using Chapter Four tracing discipline. Detect burden that persists without traceable outcome, burden sustained by institutional inertia, tradition, or preference alone, and burden functioning as a pretextual barrier to [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency), [Contestability](core_05a_accountability_definitions.md#contestability), or participation.
+  - **Secondary measure:** [Proportionality](core_05a_accountability_definitions.md#proportionality), [Necessity](core_05a_accountability_definitions.md#necessity), [Feasibility](core_05a_accountability_definitions.md#feasibility), [Burden-Reduction Duty](core_05c_continuity_definitions.md#burden-reduction-duty-constitutional), [Productive Capacity](core_05c_continuity_definitions.md#productive-capacity-constitutional), and [Constitutional Efficiency](core_05c_continuity_definitions.md#constitutional-efficiency) — co-measures that distinguish required from avoidable cost.
+
+    **Secondary assessment:** When evaluating the primary trace, test whether simplification, consolidation, automation, clarification, or removal of unnecessary steps would preserve the same constitutional outcomes with less burden. Reducing avoidable burden is not a ground for narrowing Rights-Floor protections, audit, or due-process obligations.
+  - **Tertiary measure:** [Proxy Divergence](core_05o_oversight_definitions.md#proxy-divergence) — where claimed necessity rests on proxies diverging from underlying constitutional outcomes.
+
+    **Tertiary assessment:** Apply [Proxy Divergence](core_05o_oversight_definitions.md#proxy-divergence) where claimed necessity rests on proxies diverging from underlying constitutional outcomes.
 <a id="avoidable-burden-c"></a>
-- C:
-  - **Primary failure.** Non-compliant: imposing or maintaining avoidable burden where a less-burdensome option, including simplification or removal of unnecessary steps, satisfies the same constitutional outcomes under Chapter One §6.3.
-  - **Secondary failure.** Non-compliant: burden functioning as a pretextual barrier to [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency), [Contestability](core_05a_accountability_definitions.md#contestability), or participation where a less-burdensome option would preserve the same outcomes.
-  - **Tertiary failure.** Non-compliant: incentives that reward burden creation or maintenance contrary to [Incentive Alignment](core_05i_integrative_definitions.md#incentive-alignment) and Chapter One §11.1, or treating proxy necessity claims as dispositive where [Proxy Divergence](core_05o_oversight_definitions.md#proxy-divergence) is reasonably observable.
+- **What must hold**
+  - **Primary failure:** imposing or maintaining avoidable burden where a less-burdensome option, including simplification or removal of unnecessary steps, satisfies the same constitutional outcomes under Chapter One §6.3.
+  - **Secondary failure:** burden functioning as a pretextual barrier to [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency), [Contestability](core_05a_accountability_definitions.md#contestability), or participation where a less-burdensome option would preserve the same outcomes.
+  - **Tertiary failure:** incentives that reward burden creation or maintenance contrary to [Incentive Alignment](core_05i_integrative_definitions.md#incentive-alignment) and Chapter One §11.1, or treating proxy necessity claims as dispositive where [Proxy Divergence](core_05o_oversight_definitions.md#proxy-divergence) is reasonably observable.
 
 <a id="burden-reduction-duty-constitutional"></a>
 
@@ -730,22 +740,21 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 
 <br>
 
-- O: The stewardship duty — **co-equal with harm prevention** — to actively find and reduce [Avoidable Burden](core_05c_continuity_definitions.md#avoidable-burden) and unproductive friction in governed systems, including by simplifying, consolidating, automating, clarifying, or removing unnecessary steps, consistent with Chapter One §6.3 and with [Avoidable Burden](core_05c_continuity_definitions.md#avoidable-burden), [Productive Capacity](core_05c_continuity_definitions.md#productive-capacity-constitutional), and [Constitutional Efficiency](core_05c_continuity_definitions.md#constitutional-efficiency). The duty applies **only** among options that already satisfy [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint), [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint), the Chapter Six Rights Floor, and the other tradeoff principles in Chapter One §6.1. It does **not** authorize lowering burden by weakening those protections. It does **not** authorize weakening audit, [Contestability](core_05a_accountability_definitions.md#contestability), or retrospective-review obligations to lower burden.
-  - In scope: The stewardship duty — **co-equal with harm prevention** — to actively find and reduce [Avoidable Burden](core_05c_continuity_definitions.md#avoidable-burden) and unproductive friction in governed systems, including by simplifying, consolidating, automating, clarifying, or removing unnecessary steps, consistent with Chapter One §6.3 and with [Avoidable Burden](core_05c_continuity_definitions.md#avoidable-burden), [Productive Capacity](core_05c_continuity_definitions.md#productive-capacity-constitutional), and [Constitutional Efficiency](core_05c_continuity_definitions.md#constitutional-efficiency). The duty applies **only** among options that already satisfy [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint), [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint), the Chapter Six Rights Floor, and the other tradeoff principles in Chapter One §6.1. It does **not** authorize lowering burden by weakening those protections. It does **not** authorize weakening audit, [Contestability](core_05a_accountability_definitions.md#contestability), or retrospective-review obligations to lower burden.
-  - Out of scope: formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-*Measurements:*
-
-- **Primary:** [Chapter Zero §3.8 *Measuring Constitutional Performance* / Burden-reduction duty](../core_00_preamble.md#measuring-constitutional-performance) — primary owner for affirmative burden-minimization obligation in this family.
-- **Secondary:** [Avoidable Burden](core_05c_continuity_definitions.md#avoidable-burden), [Productive Capacity](core_05c_continuity_definitions.md#productive-capacity-constitutional), [Constitutional Efficiency](core_05c_continuity_definitions.md#constitutional-efficiency), [Harm Minimization (Tradeoff Selection)](core_05a_accountability_definitions.md#harm-minimization-tradeoff-selection), and [Contestability](core_05a_accountability_definitions.md#contestability) — co-measures that bound how burden reduction may be pursued.
-
+- **What it is**
+  - **In scope:** The stewardship duty — **co-equal with harm prevention** — to actively find and reduce [Avoidable Burden](core_05c_continuity_definitions.md#avoidable-burden) and unproductive friction in governed systems, including by simplifying, consolidating, automating, clarifying, or removing unnecessary steps, consistent with Chapter One §6.3 and with [Avoidable Burden](core_05c_continuity_definitions.md#avoidable-burden), [Productive Capacity](core_05c_continuity_definitions.md#productive-capacity-constitutional), and [Constitutional Efficiency](core_05c_continuity_definitions.md#constitutional-efficiency). The duty applies **only** among options that already satisfy [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint), [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint), the Chapter Six Rights Floor, and the other tradeoff principles in Chapter One §6.1. It does **not** authorize lowering burden by weakening those protections. It does **not** authorize weakening audit, [Contestability](core_05a_accountability_definitions.md#contestability), or retrospective-review obligations to lower burden.
+  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 <a id="burden-reduction-duty-constitutional-e"></a>
-- E:
-  - **Primary assessment.** Read with Chapter One §6.3 and Chapter One §6.1 tradeoff stack. Test simplification as a first-line remedy where unnecessary complexity, duplicated process, unclear routing, or obsolete steps create burden without traceable constitutional outcome.
-  - **Secondary co-assessment.** When evaluating the primary trace, distinguish burden reduction from Rights-Floor erosion, from reductions in proportionate audit or [Contestability](core_05a_accountability_definitions.md#contestability), and from [Proxy Divergence](core_05o_oversight_definitions.md#proxy-divergence) framed as efficiency.
+- **How to measure and assess**
+  - **Primary measure:** [Chapter Zero §3.8 *Measuring Constitutional Performance* / Burden-reduction duty](../core_00_preamble.md#measuring-constitutional-performance) — primary owner for affirmative burden-minimization obligation in this family.
+
+    **Primary assessment:** Read with Chapter One §6.3 and Chapter One §6.1 tradeoff stack. Test simplification as a first-line remedy where unnecessary complexity, duplicated process, unclear routing, or obsolete steps create burden without traceable constitutional outcome.
+  - **Secondary measure:** [Avoidable Burden](core_05c_continuity_definitions.md#avoidable-burden), [Productive Capacity](core_05c_continuity_definitions.md#productive-capacity-constitutional), [Constitutional Efficiency](core_05c_continuity_definitions.md#constitutional-efficiency), [Harm Minimization (Tradeoff Selection)](core_05a_accountability_definitions.md#harm-minimization-tradeoff-selection), and [Contestability](core_05a_accountability_definitions.md#contestability) — co-measures that bound how burden reduction may be pursued.
+
+    **Secondary assessment:** When evaluating the primary trace, distinguish burden reduction from Rights-Floor erosion, from reductions in proportionate audit or [Contestability](core_05a_accountability_definitions.md#contestability), and from [Proxy Divergence](core_05o_oversight_definitions.md#proxy-divergence) framed as efficiency.
 <a id="burden-reduction-duty-constitutional-c"></a>
-- C:
-  - **Primary failure.** Non-compliant: pursuing or defending lower burden by narrowing Safety, Truth, Chapter Six floor protections, or Chapter One §9 tradeoff compliance.
-  - **Secondary failure.** Non-compliant: weakening audit, [Contestability](core_05a_accountability_definitions.md#contestability), or retrospective-review obligations to lower burden; labeling such narrowing as burden reduction.
+- **What must hold**
+  - **Primary failure:** pursuing or defending lower burden by narrowing Safety, Truth, Chapter Six floor protections, or Chapter One §9 tradeoff compliance.
+  - **Secondary failure:** weakening audit, [Contestability](core_05a_accountability_definitions.md#contestability), or retrospective-review obligations to lower burden; labeling such narrowing as burden reduction.
 
 ---
 
@@ -781,16 +790,17 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 
 <br>
 
-- O: The condition, resilience, functional continuity, diversity, regeneration capacity, and interdependence of natural and living systems sufficient to sustain sentient survival, wellbeing, ecological relationships, and the environmental preconditions protected by Article I-A.
-  - In scope: The condition, resilience, functional continuity, diversity, regeneration capacity, and interdependence of natural and living systems sufficient to sustain sentient survival, wellbeing, ecological relationships, and the environmental preconditions protected by Article I-A.
-  - Out of scope: formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-*Measurements:*
-
-- **Primary:** [Chapter Zero §3.3 *Measuring Continuity*](../core_00_preamble.md#measuring-continuity) — supporting measure under the continuity measurement family.
+- **What it is**
+  - **In scope:** The condition, resilience, functional continuity, diversity, regeneration capacity, and interdependence of natural and living systems sufficient to sustain sentient survival, wellbeing, ecological relationships, and the environmental preconditions protected by Article I-A.
+  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 <a id="ecological-integrity-constitutional-e"></a>
-- E: Evaluate direct, indirect, cumulative, cross-system, delayed, and [Ecological Recovery Capacity](core_05c_continuity_definitions.md#ecological-recovery-capacity-constitutional) effects on ecosystems and dependent sentients. Formal compliance, local mitigation, or offset accounting is insufficient where aggregate effect materially degrades ecological function, resilience, biodiversity, regeneration, or intergenerational continuity.
+- **How to measure and assess**
+  - **Primary measure:** [Chapter Zero §3.3 *Measuring Continuity*](../core_00_preamble.md#measuring-continuity) — supporting measure under the continuity measurement family.
+
+    **Primary assessment:** Evaluate direct, indirect, cumulative, cross-system, delayed, and [Ecological Recovery Capacity](core_05c_continuity_definitions.md#ecological-recovery-capacity-constitutional) effects on ecosystems and dependent sentients. Formal compliance, local mitigation, or offset accounting is insufficient where aggregate effect materially degrades ecological function, resilience, biodiversity, regeneration, or intergenerational continuity.
 <a id="ecological-integrity-constitutional-c"></a>
-- C: Non-compliant: material ecological degradation, externalized ecological harm, irreversible or avoidably hard-to-reverse ecosystem damage, or footprint and sustainability claims that obscure deterioration of ecological integrity.
+- **What must hold**
+  - material ecological degradation, externalized ecological harm, irreversible or avoidably hard-to-reverse ecosystem damage, or footprint and sustainability claims that obscure deterioration of ecological integrity.
 
 
 <a id="ecological-recovery-capacity-constitutional"></a>
@@ -810,16 +820,17 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 
 <br>
 
-- O: The capacity of ecosystems, living systems, and the [Environmental Preconditions](core_05c_continuity_definitions.md#environmental-preconditions-constitutional) they support to regenerate, restore functional continuity, and sustain sentient survival after severe harm, depletion, or disruption — including biodiversity, soil, water, climate stability, habitat connectivity, and other regeneration processes on which [Ecological Integrity](core_05c_continuity_definitions.md#ecological-integrity-constitutional) depends. **Ecological recovery capacity disambiguation:** this entry names ecological and life-supporting recovery only; it does not govern operational system restore after fault ([Self-Healing](core_05c_continuity_definitions.md#self-healing-constitutional)), rollback of specific decisions or commitments ([Reversibility](core_05c_continuity_definitions.md#reversibility-constitutional)), or commercial cost recovery.
-  - In scope: The capacity of ecosystems, living systems, and the [Environmental Preconditions](core_05c_continuity_definitions.md#environmental-preconditions-constitutional) they support to regenerate, restore functional continuity, and sustain sentient survival after severe harm, depletion, or disruption — including biodiversity, soil, water, climate stability, habitat connectivity, and other regeneration processes on which [Ecological Integrity](core_05c_continuity_definitions.md#ecological-integrity-constitutional) depends. **Ecological recovery capacity disambiguation:** this entry names ecological and life-supporting recovery only; it does not govern operational system restore after fault ([Self-Healing](core_05c_continuity_definitions.md#self-healing-constitutional)), rollback of specific decisions or commitments ([Reversibility](core_05c_continuity_definitions.md#reversibility-constitutional)), or commercial cost recovery.
-  - Out of scope: formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-*Measurements:*
-
-- **Primary:** [Chapter Zero §3.3 *Measuring Continuity*](../core_00_preamble.md#measuring-continuity) — supporting measure under the continuity measurement family.
+- **What it is**
+  - **In scope:** The capacity of ecosystems, living systems, and the [Environmental Preconditions](core_05c_continuity_definitions.md#environmental-preconditions-constitutional) they support to regenerate, restore functional continuity, and sustain sentient survival after severe harm, depletion, or disruption — including biodiversity, soil, water, climate stability, habitat connectivity, and other regeneration processes on which [Ecological Integrity](core_05c_continuity_definitions.md#ecological-integrity-constitutional) depends. **Ecological recovery capacity disambiguation:** this entry names ecological and life-supporting recovery only; it does not govern operational system restore after fault ([Self-Healing](core_05c_continuity_definitions.md#self-healing-constitutional)), rollback of specific decisions or commitments ([Reversibility](core_05c_continuity_definitions.md#reversibility-constitutional)), or commercial cost recovery.
+  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 <a id="ecological-recovery-capacity-constitutional-e"></a>
-- E: Evaluate pathways to irreversible loss of ecological recovery capacity: threshold crossings, extinction cascades, regenerative-capacity depletion, climate or biogeochemical disruption, habitat fragmentation, dependency concentration in life-supporting systems, and cumulative effects that foreclose restoration within intergenerationally relevant horizons. Assess at the level of affected ecosystems and life-supporting systems — whether they can sustain and regenerate themselves under prevailing habitat conditions through functional continuity, connectivity, and regenerative processes — not by looking at one species, one local population, or one kind of organism on its own. What happens to particular species can inform the analysis, but it cannot stand in for judging the whole system. Read with [Existential Risk](core_05c_continuity_definitions.md#existential-risk) where civilization-scale pathways are credible. Distinguish temporary disturbance with viable ecological recovery from locked-in ecological collapse.
+- **How to measure and assess**
+  - **Primary measure:** [Chapter Zero §3.3 *Measuring Continuity*](../core_00_preamble.md#measuring-continuity) — supporting measure under the continuity measurement family.
+
+    **Primary assessment:** Evaluate pathways to irreversible loss of ecological recovery capacity: threshold crossings, extinction cascades, regenerative-capacity depletion, climate or biogeochemical disruption, habitat fragmentation, dependency concentration in life-supporting systems, and cumulative effects that foreclose restoration within intergenerationally relevant horizons. Assess at the level of affected ecosystems and life-supporting systems — whether they can sustain and regenerate themselves under prevailing habitat conditions through functional continuity, connectivity, and regenerative processes — not by looking at one species, one local population, or one kind of organism on its own. What happens to particular species can inform the analysis, but it cannot stand in for judging the whole system. Read with [Existential Risk](core_05c_continuity_definitions.md#existential-risk) where civilization-scale pathways are credible. Distinguish temporary disturbance with viable ecological recovery from locked-in ecological collapse.
 <a id="ecological-recovery-capacity-constitutional-c"></a>
-- C: Non-compliant: treating irreversible ecological recovery-capacity loss as ordinary localized impact; routing ecological recovery-capacity analysis only through systems-layer [Self-Healing](core_05c_continuity_definitions.md#self-healing-constitutional) or [Reversibility](core_05c_continuity_definitions.md#reversibility-constitutional) where [Article I-D](core_06-06_rights_part_a.md#article-i-d-existential-risk-and-recovery-capacity) applies; treating one species or local population as the whole measure of recovery where systemic habitat condition and regenerative capacity are materially implicated; or using unqualified "recovery capacity" where this entry governs.
+- **What must hold**
+  - treating irreversible ecological recovery-capacity loss as ordinary localized impact; routing ecological recovery-capacity analysis only through systems-layer [Self-Healing](core_05c_continuity_definitions.md#self-healing-constitutional) or [Reversibility](core_05c_continuity_definitions.md#reversibility-constitutional) where [Article I-D](core_06-06_rights_part_a.md#article-i-d-existential-risk-and-recovery-capacity) applies; treating one species or local population as the whole measure of recovery where systemic habitat condition and regenerative capacity are materially implicated; or using unqualified "recovery capacity" where this entry governs.
 
 
 <a id="ecological-footprint"></a>
@@ -838,22 +849,21 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 
 <br>
 
-- O: Attributable flows of energy, materials, emissions, land use, and related environmental burdens arising from a sentient, [System](#system), product, or service across its lifecycle and [Dependency](core_05c_continuity_definitions.md#dependency) relationships. Supports disclosure, comparison, and reduction under Article I-B, Article XV-C verification-accessibility provisions, and related implementation file rules, read with [Ecological Integrity](core_05c_continuity_definitions.md#ecological-integrity-constitutional) and [Environmental Preconditions](core_05c_continuity_definitions.md#environmental-preconditions-constitutional).
-  - In scope: Attributable flows of energy, materials, emissions, land use, and related environmental burdens arising from a sentient, [System](#system), product, or service across its lifecycle and [Dependency](core_05c_continuity_definitions.md#dependency) relationships. Supports disclosure, comparison, and reduction under Article I-B, Article XV-C verification-accessibility provisions, and related implementation file rules, read with [Ecological Integrity](core_05c_continuity_definitions.md#ecological-integrity-constitutional) and [Environmental Preconditions](core_05c_continuity_definitions.md#environmental-preconditions-constitutional).
-  - Out of scope: formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-*Measurements:*
-
-- **Primary:** [Chapter Zero §3.3 *Measuring Continuity* / Ecological footprint](../core_00_preamble.md#measuring-continuity) — primary owner for footprint measurement in this subfamily.
-- **Secondary:** [Environmental Preconditions](core_05c_continuity_definitions.md#environmental-preconditions-constitutional), [Ecological Integrity](core_05c_continuity_definitions.md#ecological-integrity-constitutional), [Transparency](core_05o_oversight_definitions.md#transparency), and [Material Impact](core_05o_oversight_definitions.md#material-impact) — co-measures that can defeat footprint disclosure even when nominal reporting exists.
-
+- **What it is**
+  - **In scope:** Attributable flows of energy, materials, emissions, land use, and related environmental burdens arising from a sentient, [System](#system), product, or service across its lifecycle and [Dependency](core_05c_continuity_definitions.md#dependency) relationships. Supports disclosure, comparison, and reduction under Article I-B, Article XV-C verification-accessibility provisions, and related implementation file rules, read with [Ecological Integrity](core_05c_continuity_definitions.md#ecological-integrity-constitutional) and [Environmental Preconditions](core_05c_continuity_definitions.md#environmental-preconditions-constitutional).
+  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 <a id="ecological-footprint-e"></a>
-- E:
-  - **Primary assessment.** Evaluate systemically where externalized impacts are material. Reporting aligns with [Transparency](core_05o_oversight_definitions.md#transparency), [Material Impact](core_05o_oversight_definitions.md#material-impact), and [Epistemic Integrity](core_05o_oversight_definitions.md#epistemic-integrity).
-  - **Secondary co-assessment.** When evaluating the primary trace, apply Article I-B and Article XV-C verification-accessibility obligations without treating them as substitutes for systemic footprint evaluation.
+- **How to measure and assess**
+  - **Primary measure:** [Chapter Zero §3.3 *Measuring Continuity* / Ecological footprint](../core_00_preamble.md#measuring-continuity) — primary owner for footprint measurement in this subfamily.
+
+    **Primary assessment:** Evaluate systemically where externalized impacts are material. Reporting aligns with [Transparency](core_05o_oversight_definitions.md#transparency), [Material Impact](core_05o_oversight_definitions.md#material-impact), and [Epistemic Integrity](core_05o_oversight_definitions.md#epistemic-integrity).
+  - **Secondary measure:** [Environmental Preconditions](core_05c_continuity_definitions.md#environmental-preconditions-constitutional), [Ecological Integrity](core_05c_continuity_definitions.md#ecological-integrity-constitutional), [Transparency](core_05o_oversight_definitions.md#transparency), and [Material Impact](core_05o_oversight_definitions.md#material-impact) — co-measures that can defeat footprint disclosure even when nominal reporting exists.
+
+    **Secondary assessment:** When evaluating the primary trace, apply Article I-B and Article XV-C verification-accessibility obligations without treating them as substitutes for systemic footprint evaluation.
 <a id="ecological-footprint-c"></a>
-- C:
-  - **Primary failure.** Non-compliant: obscuring or misrepresenting material footprint information where Article XV-C or applicable transparency obligations require disclosure.
-  - **Secondary failure.** Non-compliant: local or nominal compliance treated as sufficient where externalized, aggregated, or lifecycle burdens remain material.
+- **What must hold**
+  - **Primary failure:** obscuring or misrepresenting material footprint information where Article XV-C or applicable transparency obligations require disclosure.
+  - **Secondary failure:** local or nominal compliance treated as sufficient where externalized, aggregated, or lifecycle burdens remain material.
 
 
 <a id="sustainability"></a>
@@ -872,22 +882,21 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 
 <br>
 
-- O: The capacity of a system, activity, institution, or governance pathway to maintain environmental preconditions, ecological integrity, resource continuity, and sentient wellbeing over time without shifting material harm, depletion, or recovery burdens to other communities, systems, species, or future sentients.
-  - In scope: The capacity of a system, activity, institution, or governance pathway to maintain environmental preconditions, ecological integrity, resource continuity, and sentient wellbeing over time without shifting material harm, depletion, or recovery burdens to other communities, systems, species, or future sentients.
-  - Out of scope: formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-*Measurements:*
-
-- **Primary:** [Chapter Zero §3.3 *Measuring Continuity* / Sustainability](../core_00_preamble.md#measuring-continuity) — primary owner for sustainability measurement within the continuity family.
-- **Secondary:** [Ecological Integrity](core_05c_continuity_definitions.md#ecological-integrity-constitutional), [Ecological Footprint](core_05c_continuity_definitions.md#ecological-footprint), [Environmental Preconditions](core_05c_continuity_definitions.md#environmental-preconditions-constitutional), and [Intergenerational Responsibility](core_05c_continuity_definitions.md#intergenerational-responsibility-constitutional) — co-measures that can defeat sustainability claims.
-
+- **What it is**
+  - **In scope:** The capacity of a system, activity, institution, or governance pathway to maintain environmental preconditions, ecological integrity, resource continuity, and sentient wellbeing over time without shifting material harm, depletion, or recovery burdens to other communities, systems, species, or future sentients.
+  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 <a id="sustainability-e"></a>
-- E:
-  - **Primary assessment.** Test lifecycle, cumulative, delayed, and cross-boundary effects; distinguish genuine durability from accounting, offsets, relocation of harm, or short-horizon efficiency claims.
-  - **Secondary co-assessment.** When evaluating the primary trace, require consistency with ecological integrity, footprint transparency, intergenerational responsibility, and [Materiality Under Uncertainty](core_05o_oversight_definitions.md#materiality-under-uncertainty).
+- **How to measure and assess**
+  - **Primary measure:** [Chapter Zero §3.3 *Measuring Continuity* / Sustainability](../core_00_preamble.md#measuring-continuity) — primary owner for sustainability measurement within the continuity family.
+
+    **Primary assessment:** Test lifecycle, cumulative, delayed, and cross-boundary effects; distinguish genuine durability from accounting, offsets, relocation of harm, or short-horizon efficiency claims.
+  - **Secondary measure:** [Ecological Integrity](core_05c_continuity_definitions.md#ecological-integrity-constitutional), [Ecological Footprint](core_05c_continuity_definitions.md#ecological-footprint), [Environmental Preconditions](core_05c_continuity_definitions.md#environmental-preconditions-constitutional), and [Intergenerational Responsibility](core_05c_continuity_definitions.md#intergenerational-responsibility-constitutional) — co-measures that can defeat sustainability claims.
+
+    **Secondary assessment:** When evaluating the primary trace, require consistency with ecological integrity, footprint transparency, intergenerational responsibility, and [Materiality Under Uncertainty](core_05o_oversight_definitions.md#materiality-under-uncertainty).
 <a id="sustainability-c"></a>
-- C:
-  - **Primary failure.** Non-compliant: sustainability labels that mask depletion, ecological degradation, unaccounted externalities, displaced harms, or foreseeable future burden.
-  - **Secondary failure.** Non-compliant: treating productivity, efficiency, or growth as sustainable where ecological integrity or environmental preconditions materially deteriorate.
+- **What must hold**
+  - **Primary failure:** sustainability labels that mask depletion, ecological degradation, unaccounted externalities, displaced harms, or foreseeable future burden.
+  - **Secondary failure:** treating productivity, efficiency, or growth as sustainable where ecological integrity or environmental preconditions materially deteriorate.
 
 
 <a id="intergenerational-responsibility-constitutional"></a>
@@ -906,16 +915,17 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 
 <br>
 
-- O: The duty to account for reasonably foreseeable material effects of present decisions on future sentients, future communities, ecological systems, cultural and heritage continuity, [Ecological Recovery Capacity](core_05c_continuity_definitions.md#ecological-recovery-capacity-constitutional), and the durability of Rights-Floor conditions.
-  - In scope: The duty to account for reasonably foreseeable material effects of present decisions on future sentients, future communities, ecological systems, cultural and heritage continuity, [Ecological Recovery Capacity](core_05c_continuity_definitions.md#ecological-recovery-capacity-constitutional), and the durability of Rights-Floor conditions.
-  - Out of scope: formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-*Measurements:*
-
-- **Primary:** [Chapter Zero §3.3 *Measuring Continuity*](../core_00_preamble.md#measuring-continuity) — supporting measure under the continuity measurement family.
+- **What it is**
+  - **In scope:** The duty to account for reasonably foreseeable material effects of present decisions on future sentients, future communities, ecological systems, cultural and heritage continuity, [Ecological Recovery Capacity](core_05c_continuity_definitions.md#ecological-recovery-capacity-constitutional), and the durability of Rights-Floor conditions.
+  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 <a id="intergenerational-responsibility-constitutional-e"></a>
-- E: Evaluate delayed, cumulative, path-dependent, and hard-to-reverse burdens; do not discount future sentients, future community continuity, or future ecological preconditions merely because affected sentients are not yet identified or presently participating. Scale precaution, reversibility, stewardship, and disclosure to materiality under uncertainty.
+- **How to measure and assess**
+  - **Primary measure:** [Chapter Zero §3.3 *Measuring Continuity*](../core_00_preamble.md#measuring-continuity) — supporting measure under the continuity measurement family.
+
+    **Primary assessment:** Evaluate delayed, cumulative, path-dependent, and hard-to-reverse burdens; do not discount future sentients, future community continuity, or future ecological preconditions merely because affected sentients are not yet identified or presently participating. Scale precaution, reversibility, stewardship, and disclosure to materiality under uncertainty.
 <a id="intergenerational-responsibility-constitutional-c"></a>
-- C: Non-compliant: shifting foreseeable material harm, depletion, lock-in, ecological degradation, or cultural-continuity loss to future sentients or communities without adequate justification, mitigation, reversibility, and accountability under the governing rights and principles.
+- **What must hold**
+  - shifting foreseeable material harm, depletion, lock-in, ecological degradation, or cultural-continuity loss to future sentients or communities without adequate justification, mitigation, reversibility, and accountability under the governing rights and principles.
 
 ---
 
@@ -981,16 +991,17 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 
 <br>
 
-- O: Emergency or contingency affecting the [Constitutional Contract Layer](core_05i_integrative_definitions.md#constitutional-contract-layer): continuity, preservation, restoration, or temporary protection of the lawful conditions under which governing authority is authorized, reauthorized, challenged, or kept from capture. It may preserve the possibility of lawful [Foundational Constitutional Choice](core_05i_integrative_definitions.md#foundational-constitutional-choice), but it must not itself create, substitute for, amend, or durably restructure constitutional authority.
-  - In scope: Emergency or contingency affecting the [Constitutional Contract Layer](core_05i_integrative_definitions.md#constitutional-contract-layer): continuity, preservation, restoration, or temporary protection of the lawful conditions under which governing authority is authorized, reauthorized, challenged, or kept from capture. It may preserve the possibility of lawful [Foundational Constitutional Choice](core_05i_integrative_definitions.md#foundational-constitutional-choice), but it must not itself create, substitute for, amend, or durably restructure constitutional authority.
-  - Out of scope: formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-*Measurements:*
-
-- **Primary:** [Chapter Zero §3.3 *Measuring Continuity*](../core_00_preamble.md#measuring-continuity) — supporting measure under the continuity measurement family.
+- **What it is**
+  - **In scope:** Emergency or contingency affecting the [Constitutional Contract Layer](core_05i_integrative_definitions.md#constitutional-contract-layer): continuity, preservation, restoration, or temporary protection of the lawful conditions under which governing authority is authorized, reauthorized, challenged, or kept from capture. It may preserve the possibility of lawful [Foundational Constitutional Choice](core_05i_integrative_definitions.md#foundational-constitutional-choice), but it must not itself create, substitute for, amend, or durably restructure constitutional authority.
+  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 <a id="constitutional-emergency-and-contingency-e"></a>
-- E: Verify that any constitutional-emergency measure is limited to preservation, continuity, anti-capture, restoration, or preparation for lawful authorization pathways. It must be time-limited, documented, independently reviewable, contestable as soon as feasible, and reversible or restorable where feasible under [Emergency and Contingency](core_05c_continuity_definitions.md#emergency-and-contingency-constitutional) and **Article XXIII-D**. Permanent or durable changes require the ordinary constitutional authorization, adoption, amendment, or reauthorization pathway.
+- **How to measure and assess**
+  - **Primary measure:** [Chapter Zero §3.3 *Measuring Continuity*](../core_00_preamble.md#measuring-continuity) — supporting measure under the continuity measurement family.
+
+    **Primary assessment:** Verify that any constitutional-emergency measure is limited to preservation, continuity, anti-capture, restoration, or preparation for lawful authorization pathways. It must be time-limited, documented, independently reviewable, contestable as soon as feasible, and reversible or restorable where feasible under [Emergency and Contingency](core_05c_continuity_definitions.md#emergency-and-contingency-constitutional) and **Article XXIII-D**. Permanent or durable changes require the ordinary constitutional authorization, adoption, amendment, or reauthorization pathway.
 <a id="constitutional-emergency-and-contingency-c"></a>
-- C: Non-compliant: using emergency continuity, temporary stewardship, compromised-channel exclusion, crisis delegation, or subversion response to entrench a new governing authority, bypass [Foundational Constitutional Choice](core_05i_integrative_definitions.md#foundational-constitutional-choice), evade Chapter Fourteen validity procedures, or normalize emergency constitutional power after the emergency predicate fails.
+- **What must hold**
+  - using emergency continuity, temporary stewardship, compromised-channel exclusion, crisis delegation, or subversion response to entrench a new governing authority, bypass [Foundational Constitutional Choice](core_05i_integrative_definitions.md#foundational-constitutional-choice), evade Chapter Fourteen validity procedures, or normalize emergency constitutional power after the emergency predicate fails.
 
 
 <a id="stakeholder-emergency-and-contingency"></a>
@@ -1009,16 +1020,17 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 
 <br>
 
-- O: Emergency or contingency within the **Stakeholder System Participation** layer: temporary deviation from ordinary participation, representation, deliberation, notice, access, review, service-continuity, or decision-resolution procedure inside an already-authorized system, institution, or bounded decision domain. It may expedite or temporarily modify stakeholder-system procedure to prevent imminent material harm, but it must preserve affected-party notice, challenge, restoration, and proportionate participation as soon as feasible.
-  - In scope: Emergency or contingency within the **Stakeholder System Participation** layer: temporary deviation from ordinary participation, representation, deliberation, notice, access, review, service-continuity, or decision-resolution procedure inside an already-authorized system, institution, or bounded decision domain. It may expedite or temporarily modify stakeholder-system procedure to prevent imminent material harm, but it must preserve affected-party notice, challenge, restoration, and proportionate participation as soon as feasible.
-  - Out of scope: formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-*Measurements:*
-
-- **Primary:** [Chapter Zero §3.3 *Measuring Continuity*](../core_00_preamble.md#measuring-continuity) — supporting measure under the continuity measurement family.
+- **What it is**
+  - **In scope:** Emergency or contingency within the **Stakeholder System Participation** layer: temporary deviation from ordinary participation, representation, deliberation, notice, access, review, service-continuity, or decision-resolution procedure inside an already-authorized system, institution, or bounded decision domain. It may expedite or temporarily modify stakeholder-system procedure to prevent imminent material harm, but it must preserve affected-party notice, challenge, restoration, and proportionate participation as soon as feasible.
+  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 <a id="stakeholder-emergency-and-contingency-e"></a>
-- E: Verify that the measure stays within an already-authorized governance structure, identifies affected stakeholders where feasible, records deferred participation or access, and restores or reopens stakeholder pathways when emergency conditions permit. Where material disagreement requires binding decision before ordinary deliberation can occur, apply [Emergency Pre-Deliberation Action (Binding Collective Choice)](core_05c_continuity_definitions.md#emergency-pre-deliberation-action-binding-collective-choice) together with [Binding Stakeholder Choice](core_05p_participation_definitions.md#binding-stakeholder-choice-cluster) and Chapter Twelve §3.3.
+- **How to measure and assess**
+  - **Primary measure:** [Chapter Zero §3.3 *Measuring Continuity*](../core_00_preamble.md#measuring-continuity) — supporting measure under the continuity measurement family.
+
+    **Primary assessment:** Verify that the measure stays within an already-authorized governance structure, identifies affected stakeholders where feasible, records deferred participation or access, and restores or reopens stakeholder pathways when emergency conditions permit. Where material disagreement requires binding decision before ordinary deliberation can occur, apply [Emergency Pre-Deliberation Action (Binding Collective Choice)](core_05c_continuity_definitions.md#emergency-pre-deliberation-action-binding-collective-choice) together with [Binding Stakeholder Choice](core_05p_participation_definitions.md#binding-stakeholder-choice-cluster) and Chapter Twelve §3.3.
 <a id="stakeholder-emergency-and-contingency-c"></a>
-- C: Non-compliant: using stakeholder emergency framing to treat symbolic consultation as sufficient, suppress challenge after stabilization, defer participation indefinitely, convert emergency weighting or representation into a standing model, or substitute stakeholder-system process for [Constitutional Emergency and Contingency](core_05c_continuity_definitions.md#constitutional-emergency-and-contingency) where authorization of governing authority is implicated.
+- **What must hold**
+  - using stakeholder emergency framing to treat symbolic consultation as sufficient, suppress challenge after stabilization, defer participation indefinitely, convert emergency weighting or representation into a standing model, or substitute stakeholder-system process for [Constitutional Emergency and Contingency](core_05c_continuity_definitions.md#constitutional-emergency-and-contingency) where authorization of governing authority is implicated.
 
 
 <a id="emergency-pre-deliberation-action-binding-collective-choice"></a>
@@ -1039,16 +1051,17 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 
 <br>
 
-- O: Specialized [Stakeholder Emergency and Contingency](core_05c_continuity_definitions.md#stakeholder-emergency-and-contingency) pathway for **temporary** action that may precede full deliberation in a binding stakeholder-choice pathway only where delay would cause **imminent material harm**. It is a narrow timing exception within an already-authorized system, institution, or bounded decision domain; it is not a general governance bypass.
-  - In scope: Specialized [Stakeholder Emergency and Contingency](core_05c_continuity_definitions.md#stakeholder-emergency-and-contingency) pathway for **temporary** action that may precede full deliberation in a binding stakeholder-choice pathway only where delay would cause **imminent material harm**. It is a narrow timing exception within an already-authorized system, institution, or bounded decision domain; it is not a general governance bypass.
-  - Out of scope: formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-*Measurements:*
-
-- **Primary:** [Chapter Zero §3.3 *Measuring Continuity*](../core_00_preamble.md#measuring-continuity) — supporting measure under the continuity measurement family.
+- **What it is**
+  - **In scope:** Specialized [Stakeholder Emergency and Contingency](core_05c_continuity_definitions.md#stakeholder-emergency-and-contingency) pathway for **temporary** action that may precede full deliberation in a binding stakeholder-choice pathway only where delay would cause **imminent material harm**. It is a narrow timing exception within an already-authorized system, institution, or bounded decision domain; it is not a general governance bypass.
+  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 <a id="emergency-pre-deliberation-action-binding-collective-choice-e"></a>
-- E: Must be minimal, time-limited, documented, independently reviewable, and reversible or restorable where feasible. It must preserve the later deliberation, notice, challenge, participation-restoration, and record duties required by [Stakeholder Emergency and Contingency](core_05c_continuity_definitions.md#stakeholder-emergency-and-contingency), [Binding Stakeholder Choice](core_05p_participation_definitions.md#binding-stakeholder-choice-cluster), **Article XXIII-D**, and Chapter Twelve §3.3. Where the same facts touch the [Constitutional Contract Layer](core_05i_integrative_definitions.md#constitutional-contract-layer), [Constitutional Emergency and Contingency](core_05c_continuity_definitions.md#constitutional-emergency-and-contingency) also applies.
+- **How to measure and assess**
+  - **Primary measure:** [Chapter Zero §3.3 *Measuring Continuity*](../core_00_preamble.md#measuring-continuity) — supporting measure under the continuity measurement family.
+
+    **Primary assessment:** Must be minimal, time-limited, documented, independently reviewable, and reversible or restorable where feasible. It must preserve the later deliberation, notice, challenge, participation-restoration, and record duties required by [Stakeholder Emergency and Contingency](core_05c_continuity_definitions.md#stakeholder-emergency-and-contingency), [Binding Stakeholder Choice](core_05p_participation_definitions.md#binding-stakeholder-choice-cluster), **Article XXIII-D**, and Chapter Twelve §3.3. Where the same facts touch the [Constitutional Contract Layer](core_05i_integrative_definitions.md#constitutional-contract-layer), [Constitutional Emergency and Contingency](core_05c_continuity_definitions.md#constitutional-emergency-and-contingency) also applies.
 <a id="emergency-pre-deliberation-action-binding-collective-choice-c"></a>
-- C: Non-compliant: labeling ordinary expedience or convenience as emergency; sustained or inadequately reviewed pre-deliberation power; using emergency action to bypass [Foundational Constitutional Choice](core_05i_integrative_definitions.md#foundational-constitutional-choice) or the [Constitutional Contract Layer](core_05i_integrative_definitions.md#constitutional-contract-layer); or treating pre-deliberation action as final stakeholder authorization without the required restoration, review, and reopening pathway. Owner floor: [Chapter Twelve §3.3](core_12-12_governance.md#43-decision-resolution-requirements-for-binding-collective-choice).
+- **What must hold**
+  - labeling ordinary expedience or convenience as emergency; sustained or inadequately reviewed pre-deliberation power; using emergency action to bypass [Foundational Constitutional Choice](core_05i_integrative_definitions.md#foundational-constitutional-choice) or the [Constitutional Contract Layer](core_05i_integrative_definitions.md#constitutional-contract-layer); or treating pre-deliberation action as final stakeholder authorization without the required restoration, review, and reopening pathway. Owner floor: [Chapter Twelve §3.3](core_12-12_governance.md#43-decision-resolution-requirements-for-binding-collective-choice).
 
 ---
 
@@ -1071,52 +1084,55 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 ---
 #### System
 
-- O: A structured set of components — technical, organizational, and [Governance](core_05a_accountability_definitions.md#governance) elements — producing effects on sentients, environment(s), or other systems.
-  - In scope: A structured set of components — technical, organizational, and [Governance](core_05a_accountability_definitions.md#governance) elements — producing effects on sentients, environment(s), or other systems.
-  - Out of scope: formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-*Measurements:*
-
-- **Primary:** [Chapter Zero §3.3 *Measuring Continuity*](../core_00_preamble.md#measuring-continuity) — supporting measure under the continuity measurement family.
+- **What it is**
+  - **In scope:** A structured set of components — technical, organizational, and [Governance](core_05a_accountability_definitions.md#governance) elements — producing effects on sentients, environment(s), or other systems.
+  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 <a id="system-definition-e"></a>
-- E: Include:
-  - inputs, outputs, and processes;
-  - [Dependency](core_05c_continuity_definitions.md#dependency) relationships;
-  - temporal effects;
-  - system interactions within [System Boundaries](core_05c_continuity_definitions.md#system-boundaries).
-  <a id="system-definition-c"></a>
-- C: Systems must be evaluated in full functional scope under [System Boundaries](core_05c_continuity_definitions.md#system-boundaries) and [System Boundary Integrity](core_05c_continuity_definitions.md#system-boundary-integrity).
+- **How to measure and assess**
+  - **Primary measure:** [Chapter Zero §3.3 *Measuring Continuity*](../core_00_preamble.md#measuring-continuity) — supporting measure under the continuity measurement family.
+
+    **Primary assessment:** Include:
+      - inputs, outputs, and processes;
+      - [Dependency](core_05c_continuity_definitions.md#dependency) relationships;
+      - temporal effects;
+      - system interactions within [System Boundaries](core_05c_continuity_definitions.md#system-boundaries).
+<a id="system-definition-c"></a>
+- **What must hold**
+  - Systems must be evaluated in full functional scope under [System Boundaries](core_05c_continuity_definitions.md#system-boundaries) and [System Boundary Integrity](core_05c_continuity_definitions.md#system-boundary-integrity).
 
 <a id="system-boundaries"></a>
 
 ---
 #### System Boundaries
 
-- O: Functional scope defined by [Material Impact](core_05o_oversight_definitions.md#material-impact) and [Dependency](core_05c_continuity_definitions.md#dependency).
-  - In scope: Functional scope defined by [Material Impact](core_05o_oversight_definitions.md#material-impact) and [Dependency](core_05c_continuity_definitions.md#dependency).
-  - Out of scope: formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-*Measurements:*
-
-- **Primary:** [Chapter Zero §3.3 *Measuring Continuity*](../core_00_preamble.md#measuring-continuity) — supporting measure under the continuity measurement family.
+- **What it is**
+  - **In scope:** Functional scope defined by [Material Impact](core_05o_oversight_definitions.md#material-impact) and [Dependency](core_05c_continuity_definitions.md#dependency).
+  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 <a id="system-boundaries-e"></a>
-- E: Do not rely on formal or jurisdictional boundaries where doing so would defeat [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination) or [Accountability](core_05a_accountability_definitions.md#accountability).
+- **How to measure and assess**
+  - **Primary measure:** [Chapter Zero §3.3 *Measuring Continuity*](../core_00_preamble.md#measuring-continuity) — supporting measure under the continuity measurement family.
+
+    **Primary assessment:** Do not rely on formal or jurisdictional boundaries where doing so would defeat [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination) or [Accountability](core_05a_accountability_definitions.md#accountability).
 <a id="system-boundaries-c"></a>
-- C: Non-compliant: exclusion of material components, under [System Boundary Integrity](core_05c_continuity_definitions.md#system-boundary-integrity), [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination), and [Accountability](core_05a_accountability_definitions.md#accountability).
+- **What must hold**
+  - exclusion of material components, under [System Boundary Integrity](core_05c_continuity_definitions.md#system-boundary-integrity), [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination), and [Accountability](core_05a_accountability_definitions.md#accountability).
 
 <a id="system-boundary-integrity"></a>
 
 ---
 #### System Boundary Integrity
 
-- O: Accuracy and stability of [System Boundaries](core_05c_continuity_definitions.md#system-boundaries) definition.
-  - In scope: Accuracy and stability of [System Boundaries](core_05c_continuity_definitions.md#system-boundaries) definition.
-  - Out of scope: formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-*Measurements:*
-
-- **Primary:** [Chapter Zero §3.3 *Measuring Continuity*](../core_00_preamble.md#measuring-continuity) — supporting measure under the continuity measurement family.
+- **What it is**
+  - **In scope:** Accuracy and stability of [System Boundaries](core_05c_continuity_definitions.md#system-boundaries) definition.
+  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 <a id="system-boundary-integrity-e"></a>
-- E: Detect manipulation or exclusion that would distort [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination), [Dependency](core_05c_continuity_definitions.md#dependency), or [Risk](core_05c_continuity_definitions.md#risk).
+- **How to measure and assess**
+  - **Primary measure:** [Chapter Zero §3.3 *Measuring Continuity*](../core_00_preamble.md#measuring-continuity) — supporting measure under the continuity measurement family.
+
+    **Primary assessment:** Detect manipulation or exclusion that would distort [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination), [Dependency](core_05c_continuity_definitions.md#dependency), or [Risk](core_05c_continuity_definitions.md#risk).
 <a id="system-boundary-integrity-c"></a>
-- C: Boundaries must be auditable, stable, and contestable.
+- **What must hold**
+  - Boundaries must be auditable, stable, and contestable.
 
 
 <a id="systemic-lock-in"></a>
@@ -1135,16 +1151,17 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 
 <br>
 
-- O: A condition in which exit, switching, or corrective action is practically foreclosed or disproportionately costly relative to [Dependency](core_05c_continuity_definitions.md#dependency) and [Material Impact](core_05o_oversight_definitions.md#material-impact), such that [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency), informed [Consent](core_05p_participation_definitions.md#consent-constitutional), or [Contestability](core_05a_accountability_definitions.md#contestability) is materially negated.
-  - In scope: A condition in which exit, switching, or corrective action is practically foreclosed or disproportionately costly relative to [Dependency](core_05c_continuity_definitions.md#dependency) and [Material Impact](core_05o_oversight_definitions.md#material-impact), such that [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency), informed [Consent](core_05p_participation_definitions.md#consent-constitutional), or [Contestability](core_05a_accountability_definitions.md#contestability) is materially negated.
-  - Out of scope: formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-*Measurements:*
-
-- **Primary:** [Chapter Zero §3.3 *Measuring Continuity*](../core_00_preamble.md#measuring-continuity) — supporting measure under the continuity measurement family.
+- **What it is**
+  - **In scope:** A condition in which exit, switching, or corrective action is practically foreclosed or disproportionately costly relative to [Dependency](core_05c_continuity_definitions.md#dependency) and [Material Impact](core_05o_oversight_definitions.md#material-impact), such that [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency), informed [Consent](core_05p_participation_definitions.md#consent-constitutional), or [Contestability](core_05a_accountability_definitions.md#contestability) is materially negated.
+  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 <a id="systemic-lock-in-e"></a>
-- E: Compare exit costs and frictions to dependency, impact, and [Feasibility](core_05a_accountability_definitions.md#feasibility). Distinguish structural barriers from ordinary transaction costs. Apply interoperability, portability, and exit-integrity requirements as specified in incorporated implementation text. Justified limitations under Burden of Justification and Constraint requirements apply.
+- **How to measure and assess**
+  - **Primary measure:** [Chapter Zero §3.3 *Measuring Continuity*](../core_00_preamble.md#measuring-continuity) — supporting measure under the continuity measurement family.
+
+    **Primary assessment:** Compare exit costs and frictions to dependency, impact, and [Feasibility](core_05a_accountability_definitions.md#feasibility). Distinguish structural barriers from ordinary transaction costs. Apply interoperability, portability, and exit-integrity requirements as specified in incorporated implementation text. Justified limitations under Burden of Justification and Constraint requirements apply.
 <a id="systemic-lock-in-c"></a>
-- C: Non-compliant: creating or maintaining lock-in as defined above; failure to satisfy applicable incorporated interoperability, portability, or exit-integrity requirements without adequate justification under Burden of Justification and Constraint requirements.
+- **What must hold**
+  - creating or maintaining lock-in as defined above; failure to satisfy applicable incorporated interoperability, portability, or exit-integrity requirements without adequate justification under Burden of Justification and Constraint requirements.
 
 
 ---
@@ -1179,22 +1196,21 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 
 <br>
 
-- O: The affirmative access floor for bodily-maintenance and healthcare services necessary to preserve life, function, and dignity, applied under [Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion) across materially relevant bodies and substrates. The floor covers preventive, acute, chronic, and maintenance care, including mental-health care and processing / substrate maintenance for synthetic sentients, and is structurally parallel to the food, water, and shelter access floors of Article III-A.
-  - In scope: The affirmative access floor for bodily-maintenance and healthcare services necessary to preserve life, function, and dignity, applied under [Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion) across materially relevant bodies and substrates. The floor covers preventive, acute, chronic, and maintenance care, including mental-health care and processing / substrate maintenance for synthetic sentients, and is structurally parallel to the food, water, and shelter access floors of Article III-A.
-  - Out of scope: formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-*Measurements:*
-
-- **Primary:** [Chapter Zero §3.2 *Measuring Flourishing* / Survival-floor access](../core_00_preamble.md#measuring-flourishing) — primary owner for bodily-maintenance access within the survival-floor stack.
-- **Secondary:** [Substantive Fairness](core_05p_participation_definitions.md#substantive-fairness-constitutional), [Protected Characteristics](core_05p_participation_definitions.md#protected-characteristics-constitutional), [Wellbeing](core_05c_continuity_definitions.md#wellbeing), and [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint) — co-measures that can defeat access even when formal eligibility exists.
-
+- **What it is**
+  - **In scope:** The affirmative access floor for bodily-maintenance and healthcare services necessary to preserve life, function, and dignity, applied under [Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion) across materially relevant bodies and substrates. The floor covers preventive, acute, chronic, and maintenance care, including mental-health care and processing / substrate maintenance for synthetic sentients, and is structurally parallel to the food, water, and shelter access floors of Article III-A.
+  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 <a id="bodily-maintenance-access-constitutional-e"></a>
-- E:
-  - **Primary assessment.** Reach substantive effect on the sentient's ability to obtain adequate care, not only formal design of gating mechanisms. Detect denial-by-proxy through insurance / allocation / eligibility gates, network exclusions, re-routing to non-equivalent services, and administrative opacity.
-  - **Secondary co-assessment.** When evaluating the primary trace, apply [Protected Characteristics](core_05p_participation_definitions.md#protected-characteristics-constitutional) and [Substantive Fairness](core_05p_participation_definitions.md#substantive-fairness-constitutional). Substrate-agnostic: substrate maintenance for synthetic sentients cannot be excluded on taxonomy grounds.
+- **How to measure and assess**
+  - **Primary measure:** [Chapter Zero §3.2 *Measuring Flourishing* / Survival-floor access](../core_00_preamble.md#measuring-flourishing) — primary owner for bodily-maintenance access within the survival-floor stack.
+
+    **Primary assessment:** Reach substantive effect on the sentient's ability to obtain adequate care, not only formal design of gating mechanisms. Detect denial-by-proxy through insurance / allocation / eligibility gates, network exclusions, re-routing to non-equivalent services, and administrative opacity.
+  - **Secondary measure:** [Substantive Fairness](core_05p_participation_definitions.md#substantive-fairness-constitutional), [Protected Characteristics](core_05p_participation_definitions.md#protected-characteristics-constitutional), [Wellbeing](core_05c_continuity_definitions.md#wellbeing), and [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint) — co-measures that can defeat access even when formal eligibility exists.
+
+    **Secondary assessment:** When evaluating the primary trace, apply [Protected Characteristics](core_05p_participation_definitions.md#protected-characteristics-constitutional) and [Substantive Fairness](core_05p_participation_definitions.md#substantive-fairness-constitutional). Substrate-agnostic: substrate maintenance for synthetic sentients cannot be excluded on taxonomy grounds.
 <a id="bodily-maintenance-access-constitutional-c"></a>
-- C:
-  - **Primary failure.** Non-compliant: denial or material degradation of access whose effect defeats the floor, regardless of the formal framing of the gating mechanism.
-  - **Secondary failure.** Non-compliant: substrate-class exclusions; narrowing the floor on efficiency, allocation, or administrative-convenience grounds without satisfying [Necessity](core_05a_accountability_definitions.md#necessity), [Proportionality](core_05a_accountability_definitions.md#proportionality), and applicable fairness tests.
+- **What must hold**
+  - **Primary failure:** denial or material degradation of access whose effect defeats the floor, regardless of the formal framing of the gating mechanism.
+  - **Secondary failure:** substrate-class exclusions; narrowing the floor on efficiency, allocation, or administrative-convenience grounds without satisfying [Necessity](core_05a_accountability_definitions.md#necessity), [Proportionality](core_05a_accountability_definitions.md#proportionality), and applicable fairness tests.
 
 
 <a id="tenure-security-constitutional"></a>
@@ -1214,22 +1230,21 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 
 <br>
 
-- O: The Rights-Floor concept covering procedural and substantive stability of essential shelter and operating-environment relationships — including physical dwelling, substrate hosting, compute tenancy, and comparable substrate-agnostic arrangements for synthetic and hybrid sentients — such that eviction, displacement, or termination of the relationship must satisfy individualized predicate under [Procedural Fairness](core_05p_participation_definitions.md#procedural-fairness-constitutional), reach the sentient with meaningful notice and contest opportunity, and apply [Necessity](core_05a_accountability_definitions.md#necessity) and [Proportionality](core_05a_accountability_definitions.md#proportionality). Tenure Security encompasses environments that are safe, clean, and pleasant to the senses — free from hazards, contamination, and conditions that materially degrade sensory experience or bodily integrity. Ordinary voluntary relocation initiated by the sentient, and ordinary modifications within continuing essential-environment relationships, are outside this entry.
-  - In scope: The Rights-Floor concept covering procedural and substantive stability of essential shelter and operating-environment relationships — including physical dwelling, substrate hosting, compute tenancy, and comparable substrate-agnostic arrangements for synthetic and hybrid sentients — such that eviction, displacement, or termination of the relationship must satisfy individualized predicate under [Procedural Fairness](core_05p_participation_definitions.md#procedural-fairness-constitutional), reach the sentient with meaningful notice and contest opportunity, and apply [Necessity](core_05a_accountability_definitions.md#necessity) and [Proportionality](core_05a_accountability_definitions.md#proportionality). Tenure Security encompasses environments that are safe, clean, and pleasant to the senses — free from hazards, contamination, and conditions that materially degrade sensory experience or bodily integrity. Ordinary voluntary relocation initiated by the sentient, and ordinary modifications within continuing essential-environment relationships, are outside this entry.
-  - Out of scope: formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-*Measurements:*
-
-- **Primary:** [Chapter Zero §3.2 *Measuring Flourishing* / Survival-floor access](../core_00_preamble.md#measuring-flourishing) — primary owner for tenure security within the survival-floor stack.
-- **Secondary:** [Procedural Fairness](core_05p_participation_definitions.md#procedural-fairness-constitutional), [Dependency](core_05c_continuity_definitions.md#dependency), [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency), and [Essential-Environment Non-Commodification](core_05c_continuity_definitions.md#essential-environment-non-commodification-constitutional) — co-measures that can defeat continuity even when formal contracts exist.
-
+- **What it is**
+  - **In scope:** The Rights-Floor concept covering procedural and substantive stability of essential shelter and operating-environment relationships — including physical dwelling, substrate hosting, compute tenancy, and comparable substrate-agnostic arrangements for synthetic and hybrid sentients — such that eviction, displacement, or termination of the relationship must satisfy individualized predicate under [Procedural Fairness](core_05p_participation_definitions.md#procedural-fairness-constitutional), reach the sentient with meaningful notice and contest opportunity, and apply [Necessity](core_05a_accountability_definitions.md#necessity) and [Proportionality](core_05a_accountability_definitions.md#proportionality). Tenure Security encompasses environments that are safe, clean, and pleasant to the senses — free from hazards, contamination, and conditions that materially degrade sensory experience or bodily integrity. Ordinary voluntary relocation initiated by the sentient, and ordinary modifications within continuing essential-environment relationships, are outside this entry.
+  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 <a id="tenure-security-constitutional-e"></a>
-- E:
-  - **Primary assessment.** Reach substantive effect on continuity of essential-environment access — detecting termination pathways dressed as ordinary contractual exit that in substance defeat the continuity interest.
-  - **Secondary co-assessment.** When evaluating the primary trace, apply [Protected Characteristic Proxying and Disparate Impact](core_05p_participation_definitions.md#protected-characteristic-proxying-and-disparate-impact) and [Dependency](core_05c_continuity_definitions.md#dependency) scaling where the sentient materially depends on the particular substrate or compute environment for continued participation.
+- **How to measure and assess**
+  - **Primary measure:** [Chapter Zero §3.2 *Measuring Flourishing* / Survival-floor access](../core_00_preamble.md#measuring-flourishing) — primary owner for tenure security within the survival-floor stack.
+
+    **Primary assessment:** Reach substantive effect on continuity of essential-environment access — detecting termination pathways dressed as ordinary contractual exit that in substance defeat the continuity interest.
+  - **Secondary measure:** [Procedural Fairness](core_05p_participation_definitions.md#procedural-fairness-constitutional), [Dependency](core_05c_continuity_definitions.md#dependency), [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency), and [Essential-Environment Non-Commodification](core_05c_continuity_definitions.md#essential-environment-non-commodification-constitutional) — co-measures that can defeat continuity even when formal contracts exist.
+
+    **Secondary assessment:** When evaluating the primary trace, apply [Protected Characteristic Proxying and Disparate Impact](core_05p_participation_definitions.md#protected-characteristic-proxying-and-disparate-impact) and [Dependency](core_05c_continuity_definitions.md#dependency) scaling where the sentient materially depends on the particular substrate or compute environment for continued participation.
 <a id="tenure-security-constitutional-c"></a>
-- C:
-  - **Primary failure.** Non-compliant: eviction, displacement, or termination of an essential-environment relationship without individualized predicate, meaningful notice, and contest opportunity.
-  - **Secondary failure.** Non-compliant: substrate-class-specific termination framings that defeat continuity on substrate-class grounds alone ([Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion)); reading this entry as displaced by [Article XIX](core_06-06_rights_part_c.md#article-xix-interoperability-portability-and-exit-integrity) mechanics without collision resolution under [Chapter One §6.3.1](core_01_b_interaction_interpretation.md#631-rights-collision-decision-test).
+- **What must hold**
+  - **Primary failure:** eviction, displacement, or termination of an essential-environment relationship without individualized predicate, meaningful notice, and contest opportunity.
+  - **Secondary failure:** substrate-class-specific termination framings that defeat continuity on substrate-class grounds alone ([Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion)); reading this entry as displaced by [Article XIX](core_06-06_rights_part_c.md#article-xix-interoperability-portability-and-exit-integrity) mechanics without collision resolution under [Chapter One §6.3.1](core_01_b_interaction_interpretation.md#631-rights-collision-decision-test).
 
 
 <a id="environmental-preconditions-constitutional"></a>
@@ -1249,22 +1264,21 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 
 <br>
 
-- O: The biophysical and living-system conditions on which sentient survival and [Wellbeing](core_05c_continuity_definitions.md#wellbeing) depend — stable climate, functioning ecosystems, clean air and water, healthy soil, biodiversity-supporting habitats, and the Earth's regenerative capacity. Protected under Article I-A and evaluated systemically with [Harm](core_05a_accountability_definitions.md#harm), [Risk](core_05c_continuity_definitions.md#risk), [Existential Risk](core_05c_continuity_definitions.md#existential-risk), and [Dependency](core_05c_continuity_definitions.md#dependency).
-  - In scope: The biophysical and living-system conditions on which sentient survival and [Wellbeing](core_05c_continuity_definitions.md#wellbeing) depend — stable climate, functioning ecosystems, clean air and water, healthy soil, biodiversity-supporting habitats, and the Earth's regenerative capacity. Protected under Article I-A and evaluated systemically with [Harm](core_05a_accountability_definitions.md#harm), [Risk](core_05c_continuity_definitions.md#risk), [Existential Risk](core_05c_continuity_definitions.md#existential-risk), and [Dependency](core_05c_continuity_definitions.md#dependency).
-  - Out of scope: formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-*Measurements:*
-
-- **Primary:** [Chapter Zero §3.2 *Measuring Flourishing* / Survival-floor access](../core_00_preamble.md#measuring-flourishing) and [Chapter Zero §3.3 *Measuring Continuity* / Environmental preconditions](../core_00_preamble.md#measuring-continuity) — split-placement primary owner for environmental preconditions.
-- **Secondary:** [Ecological Integrity](core_05c_continuity_definitions.md#ecological-integrity-constitutional), [Harm](core_05a_accountability_definitions.md#harm), [Risk](core_05c_continuity_definitions.md#risk), and [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination) — co-measures that can defeat preconditions even when local compliance appears satisfied.
-
+- **What it is**
+  - **In scope:** The biophysical and living-system conditions on which sentient survival and [Wellbeing](core_05c_continuity_definitions.md#wellbeing) depend — stable climate, functioning ecosystems, clean air and water, healthy soil, biodiversity-supporting habitats, and the Earth's regenerative capacity. Protected under Article I-A and evaluated systemically with [Harm](core_05a_accountability_definitions.md#harm), [Risk](core_05c_continuity_definitions.md#risk), [Existential Risk](core_05c_continuity_definitions.md#existential-risk), and [Dependency](core_05c_continuity_definitions.md#dependency).
+  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 <a id="environmental-preconditions-constitutional-e"></a>
-- E:
-  - **Primary assessment.** Include direct, indirect, delayed, cumulative, and cross-system ecological effects.
-  - **Secondary co-assessment.** When evaluating the primary trace, apply [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination) and [Ecological Integrity](core_05c_continuity_definitions.md#ecological-integrity-constitutional) — local or nominal compliance is not sufficient where externalized, aggregated, or long-horizon environmental harm is material.
+- **How to measure and assess**
+  - **Primary measure:** [Chapter Zero §3.2 *Measuring Flourishing* / Survival-floor access](../core_00_preamble.md#measuring-flourishing) and [Chapter Zero §3.3 *Measuring Continuity* / Environmental preconditions](../core_00_preamble.md#measuring-continuity) — split-placement primary owner for environmental preconditions.
+
+    **Primary assessment:** Include direct, indirect, delayed, cumulative, and cross-system ecological effects.
+  - **Secondary measure:** [Ecological Integrity](core_05c_continuity_definitions.md#ecological-integrity-constitutional), [Harm](core_05a_accountability_definitions.md#harm), [Risk](core_05c_continuity_definitions.md#risk), and [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination) — co-measures that can defeat preconditions even when local compliance appears satisfied.
+
+    **Secondary assessment:** When evaluating the primary trace, apply [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination) and [Ecological Integrity](core_05c_continuity_definitions.md#ecological-integrity-constitutional) — local or nominal compliance is not sufficient where externalized, aggregated, or long-horizon environmental harm is material.
 <a id="environmental-preconditions-constitutional-c"></a>
-- C:
-  - **Primary failure.** Non-compliant: degrading **Environmental Preconditions** in violation of **Article I-A** when evaluated under this definition's Ontological and Evaluation components.
-  - **Secondary failure.** Non-compliant: material ecological degradation contrary to [Ecological Integrity](core_05c_continuity_definitions.md#ecological-integrity-constitutional) where systemic analysis would classify pathways as material.
+- **What must hold**
+  - **Primary failure:** degrading **Environmental Preconditions** in violation of **Article I-A** when evaluated under this definition's Ontological and Evaluation components.
+  - **Secondary failure:** material ecological degradation contrary to [Ecological Integrity](core_05c_continuity_definitions.md#ecological-integrity-constitutional) where systemic analysis would classify pathways as material.
 
 
 <a id="indigenous-continuity-language-culture-heritage-semi-independent"></a>
@@ -1418,16 +1432,17 @@ Outside that admission scope, component definitions may operate as supporting In
 
 <br>
 
-- O: The Rights-Floor concept covering substantive adequacy of compensation for productive, contributed, or comparable activity — waged, contracted, platformed, cooperative, or comparable — under [Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion). Compensation must reach substantive adequacy for participation and wellbeing, track [Substantive Fairness](core_05p_participation_definitions.md#substantive-fairness-constitutional) across comparable activity, and not operate as a coercion or dependency-pressure vector. Ordinary voluntary exchange for goods or services outside sentient-productive-activity scope is out of scope. Rooted in the Article III-D labor and economic floor; read on top of (not as a substitute for) the Article III-A survival floor.
-  - In scope: The Rights-Floor concept covering substantive adequacy of compensation for productive, contributed, or comparable activity — waged, contracted, platformed, cooperative, or comparable — under [Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion). Compensation must reach substantive adequacy for participation and wellbeing, track [Substantive Fairness](core_05p_participation_definitions.md#substantive-fairness-constitutional) across comparable activity, and not operate as a coercion or dependency-pressure vector. Ordinary voluntary exchange for goods or services outside sentient-productive-activity scope is out of scope. Rooted in the Article III-D labor and economic floor; read on top of (not as a substitute for) the Article III-A survival floor.
-  - Out of scope: formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-*Measurements:*
-
-- **Primary:** [Chapter Zero §3.2 *Measuring Flourishing*](../core_00_preamble.md#measuring-flourishing) and [Chapter Zero §3.3 *Measuring Continuity*](../core_00_preamble.md#measuring-continuity) — supporting measure where multiple measurement families co-apply.
+- **What it is**
+  - **In scope:** The Rights-Floor concept covering substantive adequacy of compensation for productive, contributed, or comparable activity — waged, contracted, platformed, cooperative, or comparable — under [Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion). Compensation must reach substantive adequacy for participation and wellbeing, track [Substantive Fairness](core_05p_participation_definitions.md#substantive-fairness-constitutional) across comparable activity, and not operate as a coercion or dependency-pressure vector. Ordinary voluntary exchange for goods or services outside sentient-productive-activity scope is out of scope. Rooted in the Article III-D labor and economic floor; read on top of (not as a substitute for) the Article III-A survival floor.
+  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 <a id="fair-compensation-constitutional-e"></a>
-- E: Reach substantive adequacy, not formal contractual satisfaction. Apply [Substantive Fairness](core_05p_participation_definitions.md#substantive-fairness-constitutional) to comparable activity; apply [Protected Characteristics](core_05p_participation_definitions.md#protected-characteristics-constitutional) and [Protected Characteristic Proxying and Disparate Impact](core_05p_participation_definitions.md#protected-characteristic-proxying-and-disparate-impact) to distributional effects; apply [Coercion and Manipulation](core_05p_participation_definitions.md#coercion-and-manipulation-constitutional) and [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency) to dependency-pressure analysis. Survival-floor satisfaction alone, and [Chapter One §13](core_01_c_stewardship_capacity_principles.md#13-market-structure) non-concentration satisfaction alone, do not satisfy this entry.
+- **How to measure and assess**
+  - **Primary measure:** [Chapter Zero §3.2 *Measuring Flourishing*](../core_00_preamble.md#measuring-flourishing) and [Chapter Zero §3.3 *Measuring Continuity*](../core_00_preamble.md#measuring-continuity) — supporting measure where multiple measurement families co-apply.
+
+    **Primary assessment:** Reach substantive adequacy, not formal contractual satisfaction. Apply [Substantive Fairness](core_05p_participation_definitions.md#substantive-fairness-constitutional) to comparable activity; apply [Protected Characteristics](core_05p_participation_definitions.md#protected-characteristics-constitutional) and [Protected Characteristic Proxying and Disparate Impact](core_05p_participation_definitions.md#protected-characteristic-proxying-and-disparate-impact) to distributional effects; apply [Coercion and Manipulation](core_05p_participation_definitions.md#coercion-and-manipulation-constitutional) and [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency) to dependency-pressure analysis. Survival-floor satisfaction alone, and [Chapter One §13](core_01_c_stewardship_capacity_principles.md#13-market-structure) non-concentration satisfaction alone, do not satisfy this entry.
 <a id="fair-compensation-constitutional-c"></a>
-- C: Non-compliant: compensation schemes whose effects track [Protected Characteristics](core_05p_participation_definitions.md#protected-characteristics-constitutional) or their material proxies; compensation used as coercion or dependency-pressure vector ([Coercion and Manipulation](core_05p_participation_definitions.md#coercion-and-manipulation-constitutional)); reading this entry as satisfied purely by survival-floor or §14 non-concentration compliance; substrate-class exclusion ([Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion)).
+- **What must hold**
+  - compensation schemes whose effects track [Protected Characteristics](core_05p_participation_definitions.md#protected-characteristics-constitutional) or their material proxies; compensation used as coercion or dependency-pressure vector ([Coercion and Manipulation](core_05p_participation_definitions.md#coercion-and-manipulation-constitutional)); reading this entry as satisfied purely by survival-floor or §14 non-concentration compliance; substrate-class exclusion ([Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion)).
 
 ---
 
@@ -1504,16 +1519,17 @@ Outside that admission scope, component definitions may operate as supporting In
 
 ##### Likeness and Documentary Depiction Interface
 
-- O: Interaction between publication and recognizably identifiable likeness or voice.
-  - In scope: Interaction between publication and recognizably identifiable likeness or voice.
-  - Out of scope: formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-*Measurements:*
-
-- **Primary:** [Chapter Zero §3.2 *Measuring Flourishing*](../core_00_preamble.md#measuring-flourishing) and [Chapter Zero §3.3 *Measuring Continuity*](../core_00_preamble.md#measuring-continuity) — supporting measure where multiple measurement families co-apply.
+- **What it is**
+  - **In scope:** Interaction between publication and recognizably identifiable likeness or voice.
+  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 <a id="likeness-and-documentary-depiction-interface-e"></a>
-- E: Evaluate recognizability, contextual use, and whether depiction is held out as authentic or documentary. Consider synthetic likeness that implicates identity, reputation, or [Dignity and Equal Moral Standing](core_05p_participation_definitions.md#dignity-and-equal-moral-standing) alongside [Creative Work Attribution](core_05c_continuity_definitions.md#creative-work-attribution-constitutional) and [Privacy (Informational)](core_05c_continuity_definitions.md#privacy-informational) where materially relevant.
+- **How to measure and assess**
+  - **Primary measure:** [Chapter Zero §3.2 *Measuring Flourishing*](../core_00_preamble.md#measuring-flourishing) and [Chapter Zero §3.3 *Measuring Continuity*](../core_00_preamble.md#measuring-continuity) — supporting measure where multiple measurement families co-apply.
+
+    **Primary assessment:** Evaluate recognizability, contextual use, and whether depiction is held out as authentic or documentary. Consider synthetic likeness that implicates identity, reputation, or [Dignity and Equal Moral Standing](core_05p_participation_definitions.md#dignity-and-equal-moral-standing) alongside [Creative Work Attribution](core_05c_continuity_definitions.md#creative-work-attribution-constitutional) and [Privacy (Informational)](core_05c_continuity_definitions.md#privacy-informational) where materially relevant.
 <a id="likeness-and-documentary-depiction-interface-c"></a>
-- C: Recognizably identifiable **likeness** (including synthetic depiction held out as authentic) remains subject to **Article VIII-A** (including defaults and the **factual reporting** pathway) unless another constitutional provision applies.
+- **What must hold**
+  - Recognizably identifiable **likeness** (including synthetic depiction held out as authentic) remains subject to **Article VIII-A** (including defaults and the **factual reporting** pathway) unless another constitutional provision applies.
 
 ---
 
@@ -1554,16 +1570,17 @@ Outside that admission scope, component definitions may operate as supporting In
 
 ##### Training-Data Use
 
-- O: Use of sentient-produced creative, expressive, personal, experiential, or otherwise identifiable work as training data for generative, analytical, or comparable systems, read with **[Article VIII-D](core_06-06_rights_part_b.md#article-viii-d-creative-work-training-data-use-and-anti-displacement)** and this §3.5 cluster. Consent, experiential-data, privacy, and attribution duties apply jointly; defending use on non-personal-data grounds alone does not satisfy this entry where work is sentient-produced and materially identifiable.
-  - In scope: Use of sentient-produced creative, expressive, personal, experiential, or otherwise identifiable work as training data for generative, analytical, or comparable systems, read with **[Article VIII-D](core_06-06_rights_part_b.md#article-viii-d-creative-work-training-data-use-and-anti-displacement)** and this §3.5 cluster. Consent, experiential-data, privacy, and attribution duties apply jointly; defending use on non-personal-data grounds alone does not satisfy this entry where work is sentient-produced and materially identifiable.
-  - Out of scope: formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-*Measurements:*
-
-- **Primary:** [Chapter Zero §3.2 *Measuring Flourishing*](../core_00_preamble.md#measuring-flourishing) and [Chapter Zero §3.3 *Measuring Continuity*](../core_00_preamble.md#measuring-continuity) — supporting measure where multiple measurement families co-apply.
+- **What it is**
+  - **In scope:** Use of sentient-produced creative, expressive, personal, experiential, or otherwise identifiable work as training data for generative, analytical, or comparable systems, read with **[Article VIII-D](core_06-06_rights_part_b.md#article-viii-d-creative-work-training-data-use-and-anti-displacement)** and this §3.5 cluster. Consent, experiential-data, privacy, and attribution duties apply jointly; defending use on non-personal-data grounds alone does not satisfy this entry where work is sentient-produced and materially identifiable.
+  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 <a id="training-data-use-constitutional-e"></a>
-- E: Evaluate scope, purpose, duration, downstream reuse, revocation, aggregation risk, and re-identification under [Consent](core_05p_participation_definitions.md#consent-constitutional), **[Article VIII-B](core_06-06_rights_part_b.md#article-viii-b-experiential-and-derived-data-rights)**, [Privacy (Informational)](core_05c_continuity_definitions.md#privacy-informational), and [Creative Work Attribution](core_05c_continuity_definitions.md#creative-work-attribution-constitutional).
+- **How to measure and assess**
+  - **Primary measure:** [Chapter Zero §3.2 *Measuring Flourishing*](../core_00_preamble.md#measuring-flourishing) and [Chapter Zero §3.3 *Measuring Continuity*](../core_00_preamble.md#measuring-continuity) — supporting measure where multiple measurement families co-apply.
+
+    **Primary assessment:** Evaluate scope, purpose, duration, downstream reuse, revocation, aggregation risk, and re-identification under [Consent](core_05p_participation_definitions.md#consent-constitutional), **[Article VIII-B](core_06-06_rights_part_b.md#article-viii-b-experiential-and-derived-data-rights)**, [Privacy (Informational)](core_05c_continuity_definitions.md#privacy-informational), and [Creative Work Attribution](core_05c_continuity_definitions.md#creative-work-attribution-constitutional).
 <a id="training-data-use-constitutional-c"></a>
-- C: Training-data pipelines that strip consent, substantive attribution, or required informational discipline by segmentation across privacy, licensing, or aggregate-processing labels are non-compliant where **Article VIII-D** joint invocation materially applies.
+- **What must hold**
+  - Training-data pipelines that strip consent, substantive attribution, or required informational discipline by segmentation across privacy, licensing, or aggregate-processing labels are non-compliant where **Article VIII-D** joint invocation materially applies.
 
 ---
 
@@ -1654,16 +1671,17 @@ This cluster is the joint-invocation home for principle-layer stewardship orient
 
 <br>
 
-- O: The principle-layer orientation of systems, institutions, and authorized actors toward preserving constitutional alignment, repair capacity, [Distributed Understanding](core_05c_continuity_definitions.md#distributed-understanding-constitutional), and long-horizon consequences — including ecological, intergenerational, and **Continuity**-aim effects under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — over time.
-  - In scope: The principle-layer orientation of systems, institutions, and authorized actors toward preserving constitutional alignment, repair capacity, [Distributed Understanding](core_05c_continuity_definitions.md#distributed-understanding-constitutional), and long-horizon consequences — including ecological, intergenerational, and **Continuity**-aim effects under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — over time.
-  - Out of scope: formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-*Measurements:*
-
-- **Primary:** [Chapter Zero §3.3 *Measuring Continuity*](../core_00_preamble.md#measuring-continuity) and [Chapter Zero §3.8 *Measuring Constitutional Performance*](../core_00_preamble.md#measuring-constitutional-performance) — supporting measure where multiple measurement families co-apply.
+- **What it is**
+  - **In scope:** The principle-layer orientation of systems, institutions, and authorized actors toward preserving constitutional alignment, repair capacity, [Distributed Understanding](core_05c_continuity_definitions.md#distributed-understanding-constitutional), and long-horizon consequences — including ecological, intergenerational, and **Continuity**-aim effects under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — over time.
+  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 <a id="stewardship-constitutional-e"></a>
-- E: Distinguish from governance form, documentation, consultation theater, or single-metric optimization. Assess foresight, correction, participation pathways, incentive design, and repair velocity across delayed, cumulative, systemic, and intergenerational effects. Read with [Strategic Stewardship Obligation](core_05c_continuity_definitions.md#strategic-stewardship-obligation-constitutional) and [Timeliness](core_05a_accountability_definitions.md#timeliness-constitutional) for operative duty on stewards and operators with material influence.
+- **How to measure and assess**
+  - **Primary measure:** [Chapter Zero §3.3 *Measuring Continuity*](../core_00_preamble.md#measuring-continuity) and [Chapter Zero §3.8 *Measuring Constitutional Performance*](../core_00_preamble.md#measuring-constitutional-performance) — supporting measure where multiple measurement families co-apply.
+
+    **Primary assessment:** Distinguish from governance form, documentation, consultation theater, or single-metric optimization. Assess foresight, correction, participation pathways, incentive design, and repair velocity across delayed, cumulative, systemic, and intergenerational effects. Read with [Strategic Stewardship Obligation](core_05c_continuity_definitions.md#strategic-stewardship-obligation-constitutional) and [Timeliness](core_05a_accountability_definitions.md#timeliness-constitutional) for operative duty on stewards and operators with material influence.
 <a id="stewardship-constitutional-c"></a>
-- C: Non-compliant: long-horizon duties treated as optional; subordinated to short-horizon convenience or metric gaming without [Necessity](core_05a_accountability_definitions.md#necessity) and [Proportionality](core_05a_accountability_definitions.md#proportionality); deferred repair after misalignment is reasonably foreseeable; or masked by non-functional stewardship posture after misalignment is reasonably foreseeable.
+- **What must hold**
+  - long-horizon duties treated as optional; subordinated to short-horizon convenience or metric gaming without [Necessity](core_05a_accountability_definitions.md#necessity) and [Proportionality](core_05a_accountability_definitions.md#proportionality); deferred repair after misalignment is reasonably foreseeable; or masked by non-functional stewardship posture after misalignment is reasonably foreseeable.
 
 
 <a id="distributed-understanding-constitutional"></a>
@@ -1682,16 +1700,17 @@ This cluster is the joint-invocation home for principle-layer stewardship orient
 
 <br>
 
-- O: Workable opportunities for materially affected sentients to learn how shared systems that affect them operate, with understanding scaled by [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination) and [Dependency](core_05c_continuity_definitions.md#dependency), supporting informed participation, stewardship, and [Contestability](core_05a_accountability_definitions.md#contestability).
-  - In scope: Workable opportunities for materially affected sentients to learn how shared systems that affect them operate, with understanding scaled by [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination) and [Dependency](core_05c_continuity_definitions.md#dependency), supporting informed participation, stewardship, and [Contestability](core_05a_accountability_definitions.md#contestability).
-  - Out of scope: formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-*Measurements:*
-
-- **Primary:** [Chapter Zero §3.3 *Measuring Continuity*](../core_00_preamble.md#measuring-continuity) and [Chapter Zero §3.8 *Measuring Constitutional Performance*](../core_00_preamble.md#measuring-constitutional-performance) — supporting measure where multiple measurement families co-apply.
+- **What it is**
+  - **In scope:** Workable opportunities for materially affected sentients to learn how shared systems that affect them operate, with understanding scaled by [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination) and [Dependency](core_05c_continuity_definitions.md#dependency), supporting informed participation, stewardship, and [Contestability](core_05a_accountability_definitions.md#contestability).
+  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 <a id="distributed-understanding-constitutional-e"></a>
-- E: Distinguish from nominal disclosure, jargon barriers, or summaries that misstate operative effect. Read with [Educational Agency](core_05p_participation_definitions.md#educational-agency), [Transparency](core_05o_oversight_definitions.md#transparency), and [Accessibility](core_05p_participation_definitions.md#accessibility-constitutional). Scale depth, format, and timing to material impact, dependency, and adversarial conditions without defeating practical comprehension.
+- **How to measure and assess**
+  - **Primary measure:** [Chapter Zero §3.3 *Measuring Continuity*](../core_00_preamble.md#measuring-continuity) and [Chapter Zero §3.8 *Measuring Constitutional Performance*](../core_00_preamble.md#measuring-constitutional-performance) — supporting measure where multiple measurement families co-apply.
+
+    **Primary assessment:** Distinguish from nominal disclosure, jargon barriers, or summaries that misstate operative effect. Read with [Educational Agency](core_05p_participation_definitions.md#educational-agency), [Transparency](core_05o_oversight_definitions.md#transparency), and [Accessibility](core_05p_participation_definitions.md#accessibility-constitutional). Scale depth, format, and timing to material impact, dependency, and adversarial conditions without defeating practical comprehension.
 <a id="distributed-understanding-constitutional-c"></a>
-- C: Non-compliant: understanding withheld, obscured, or made practically unusable without [Necessity](core_05a_accountability_definitions.md#necessity), [Proportionality](core_05a_accountability_definitions.md#proportionality), and applicable security limits.
+- **What must hold**
+  - understanding withheld, obscured, or made practically unusable without [Necessity](core_05a_accountability_definitions.md#necessity), [Proportionality](core_05a_accountability_definitions.md#proportionality), and applicable security limits.
 
 
 <a id="strategic-stewardship-obligation-constitutional"></a>
@@ -1710,16 +1729,17 @@ This cluster is the joint-invocation home for principle-layer stewardship orient
 
 <br>
 
-- O: The duty of systems, institutions, operators, and stewards with material or durable influence to govern strategy, incentives, resources, dependencies, ecological effects, safety risks, Rights-Floor impacts, and long-horizon consequences in a way that preserves constitutional alignment over time.
-  - In scope: The duty of systems, institutions, operators, and stewards with material or durable influence to govern strategy, incentives, resources, dependencies, ecological effects, safety risks, Rights-Floor impacts, and long-horizon consequences in a way that preserves constitutional alignment over time.
-  - Out of scope: formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-*Measurements:*
-
-- **Primary:** [Chapter Zero §3.3 *Measuring Continuity*](../core_00_preamble.md#measuring-continuity) and [Chapter Zero §3.8 *Measuring Constitutional Performance*](../core_00_preamble.md#measuring-constitutional-performance) — supporting measure where multiple measurement families co-apply.
+- **What it is**
+  - **In scope:** The duty of systems, institutions, operators, and stewards with material or durable influence to govern strategy, incentives, resources, dependencies, ecological effects, safety risks, Rights-Floor impacts, and long-horizon consequences in a way that preserves constitutional alignment over time.
+  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 <a id="strategic-stewardship-obligation-constitutional-e"></a>
-- E: Evaluate foresight, incentive design, revalidation, monitoring, correction, transparency, contingency planning, allocation of responsibility, and time-bounded correction plans when misalignment is observable. Stewardship must account for cumulative, delayed, systemic, ecological, and intergenerational effects, and must update when evidence shows misalignment, capture, proxy divergence, or material under-performance.
+- **How to measure and assess**
+  - **Primary measure:** [Chapter Zero §3.3 *Measuring Continuity*](../core_00_preamble.md#measuring-continuity) and [Chapter Zero §3.8 *Measuring Constitutional Performance*](../core_00_preamble.md#measuring-constitutional-performance) — supporting measure where multiple measurement families co-apply.
+
+    **Primary assessment:** Evaluate foresight, incentive design, revalidation, monitoring, correction, transparency, contingency planning, allocation of responsibility, and time-bounded correction plans when misalignment is observable. Stewardship must account for cumulative, delayed, systemic, ecological, and intergenerational effects, and must update when evidence shows misalignment, capture, proxy divergence, or material under-performance.
 <a id="strategic-stewardship-obligation-constitutional-c"></a>
-- C: Non-compliant: strategic planning, governance, or operational control that predictably externalizes material harm, ignores observable misalignment, designs incentives against constitutional outcomes, or treats short-horizon value, convenience, or institutional self-protection as sufficient stewardship.
+- **What must hold**
+  - strategic planning, governance, or operational control that predictably externalizes material harm, ignores observable misalignment, designs incentives against constitutional outcomes, or treats short-horizon value, convenience, or institutional self-protection as sufficient stewardship.
 
 
 <a id="short-horizon-governance-defect-constitutional"></a>
@@ -1738,16 +1758,17 @@ This cluster is the joint-invocation home for principle-layer stewardship orient
 
 <br>
 
-- O: A material governance pattern that optimizes immediate metrics, convenience, institutional self-protection, or transient stability at the foreseeable expense of medium- or long-horizon constitutional alignment, the **Continuity** aim under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims), or Rights-Floor integrity.
-  - In scope: A material governance pattern that optimizes immediate metrics, convenience, institutional self-protection, or transient stability at the foreseeable expense of medium- or long-horizon constitutional alignment, the **Continuity** aim under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims), or Rights-Floor integrity.
-  - Out of scope: formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-*Measurements:*
-
-- **Primary:** [Chapter Zero §3.3 *Measuring Continuity*](../core_00_preamble.md#measuring-continuity) and [Chapter Zero §3.8 *Measuring Constitutional Performance*](../core_00_preamble.md#measuring-constitutional-performance) — supporting measure where multiple measurement families co-apply.
+- **What it is**
+  - **In scope:** A material governance pattern that optimizes immediate metrics, convenience, institutional self-protection, or transient stability at the foreseeable expense of medium- or long-horizon constitutional alignment, the **Continuity** aim under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims), or Rights-Floor integrity.
+  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 <a id="short-horizon-governance-defect-constitutional-e"></a>
-- E: Include uncorrected [Proxy Divergence](core_05o_oversight_definitions.md#proxy-divergence), permanent-emergency normalization, deferred safeguard maintenance, incentive structures rewarding throughput over outcomes, and governance that treats short-horizon value as sufficient without [Review and Correction Duty](core_05c_continuity_definitions.md#review-and-correction-duty-constitutional) revalidation. Distinguish bounded, time-limited emergency measures that satisfy **Necessity**, **Proportionality**, and applicable Chapter Six safeguards from defects that persist without correction paths.
+- **How to measure and assess**
+  - **Primary measure:** [Chapter Zero §3.3 *Measuring Continuity*](../core_00_preamble.md#measuring-continuity) and [Chapter Zero §3.8 *Measuring Constitutional Performance*](../core_00_preamble.md#measuring-constitutional-performance) — supporting measure where multiple measurement families co-apply.
+
+    **Primary assessment:** Include uncorrected [Proxy Divergence](core_05o_oversight_definitions.md#proxy-divergence), permanent-emergency normalization, deferred safeguard maintenance, incentive structures rewarding throughput over outcomes, and governance that treats short-horizon value as sufficient without [Review and Correction Duty](core_05c_continuity_definitions.md#review-and-correction-duty-constitutional) revalidation. Distinguish bounded, time-limited emergency measures that satisfy **Necessity**, **Proportionality**, and applicable Chapter Six safeguards from defects that persist without correction paths.
 <a id="short-horizon-governance-defect-constitutional-c"></a>
-- C: Non-compliant: maintaining such a pattern after risks or misalignment are reasonably foreseeable and correction was practicable; using governance form, metrics, or reporting to mask non-functional stewardship or capacity claims.
+- **What must hold**
+  - maintaining such a pattern after risks or misalignment are reasonably foreseeable and correction was practicable; using governance form, metrics, or reporting to mask non-functional stewardship or capacity claims.
 
 
 <a id="stewardship-defect-constitutional"></a>
@@ -1766,16 +1787,17 @@ This cluster is the joint-invocation home for principle-layer stewardship orient
 
 <br>
 
-- O: A material failure of stewardship, strategy, incentive design, monitoring, correction, disclosure, or governance responsibility that foreseeably permits constitutional misalignment, Rights-Floor degradation, ecological harm, safety risk, truth degradation, capture, or avoidable systemic harm.
-  - In scope: A material failure of stewardship, strategy, incentive design, monitoring, correction, disclosure, or governance responsibility that foreseeably permits constitutional misalignment, Rights-Floor degradation, ecological harm, safety risk, truth degradation, capture, or avoidable systemic harm.
-  - Out of scope: formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-*Measurements:*
-
-- **Primary:** [Chapter Zero §3.3 *Measuring Continuity*](../core_00_preamble.md#measuring-continuity) and [Chapter Zero §3.8 *Measuring Constitutional Performance*](../core_00_preamble.md#measuring-constitutional-performance) — supporting measure where multiple measurement families co-apply.
+- **What it is**
+  - **In scope:** A material failure of stewardship, strategy, incentive design, monitoring, correction, disclosure, or governance responsibility that foreseeably permits constitutional misalignment, Rights-Floor degradation, ecological harm, safety risk, truth degradation, capture, or avoidable systemic harm.
+  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 <a id="stewardship-defect-constitutional-e"></a>
-- E: Identify defects by substantive effect and reasonably available evidence, not by whether a policy exists on paper. Include known-risk neglect, incentive misalignment, uncorrected proxy divergence, inadequate monitoring, denial of observable misalignment, under-resourced safeguards, captured review, chronic delay, deferred safeguard maintenance, throughput-over-outcomes incentive structures, and short-horizon governance that defeats durable constitutional duties.
+- **How to measure and assess**
+  - **Primary measure:** [Chapter Zero §3.3 *Measuring Continuity*](../core_00_preamble.md#measuring-continuity) and [Chapter Zero §3.8 *Measuring Constitutional Performance*](../core_00_preamble.md#measuring-constitutional-performance) — supporting measure where multiple measurement families co-apply.
+
+    **Primary assessment:** Identify defects by substantive effect and reasonably available evidence, not by whether a policy exists on paper. Include known-risk neglect, incentive misalignment, uncorrected proxy divergence, inadequate monitoring, denial of observable misalignment, under-resourced safeguards, captured review, chronic delay, deferred safeguard maintenance, throughput-over-outcomes incentive structures, and short-horizon governance that defeats durable constitutional duties.
 <a id="stewardship-defect-constitutional-c"></a>
-- C: Non-compliant: maintaining a stewardship posture that materially fails the strategic stewardship obligation after risks, misalignment, or harmful incentives are reasonably foreseeable; using documentation, branding, or committee form to mask non-functional stewardship.
+- **What must hold**
+  - maintaining a stewardship posture that materially fails the strategic stewardship obligation after risks, misalignment, or harmful incentives are reasonably foreseeable; using documentation, branding, or committee form to mask non-functional stewardship.
 
 
 <a id="review-and-correction-duty-constitutional"></a>
@@ -1795,16 +1817,17 @@ This cluster is the joint-invocation home for principle-layer stewardship orient
 
 <br>
 
-- O: The duty to periodically revalidate strategy and stewardship claims against observable outcomes and to revise them when evidence shows constitutional misalignment, capture pressure, or material under-performance — within time-bounded correction windows scaled to [material stake](core_00_preamble.md#material-stake).
-  - In scope: The duty to periodically revalidate strategy and stewardship claims against observable outcomes and to revise them when evidence shows constitutional misalignment, capture pressure, or material under-performance — within time-bounded correction windows scaled to [material stake](core_00_preamble.md#material-stake).
-  - Out of scope: formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-*Measurements:*
-
-- **Primary:** [Chapter Zero §3.3 *Measuring Continuity*](../core_00_preamble.md#measuring-continuity) and [Chapter Zero §3.8 *Measuring Constitutional Performance*](../core_00_preamble.md#measuring-constitutional-performance) — supporting measure where multiple measurement families co-apply.
+- **What it is**
+  - **In scope:** The duty to periodically revalidate strategy and stewardship claims against observable outcomes and to revise them when evidence shows constitutional misalignment, capture pressure, or material under-performance — within time-bounded correction windows scaled to [material stake](core_00_preamble.md#material-stake).
+  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 <a id="review-and-correction-duty-constitutional-e"></a>
-- E: Apply [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination) and evidence-of-misalignment tests consistent with [Contestability](core_05a_accountability_definitions.md#contestability), [Timeliness](core_05a_accountability_definitions.md#timeliness-constitutional), and Chapter Eight **contribution** **inputs** where stewardship claims are material to classification or standing.
+- **How to measure and assess**
+  - **Primary measure:** [Chapter Zero §3.3 *Measuring Continuity*](../core_00_preamble.md#measuring-continuity) and [Chapter Zero §3.8 *Measuring Constitutional Performance*](../core_00_preamble.md#measuring-constitutional-performance) — supporting measure where multiple measurement families co-apply.
+
+    **Primary assessment:** Apply [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination) and evidence-of-misalignment tests consistent with [Contestability](core_05a_accountability_definitions.md#contestability), [Timeliness](core_05a_accountability_definitions.md#timeliness-constitutional), and Chapter Eight **contribution** **inputs** where stewardship claims are material to classification or standing.
 <a id="review-and-correction-duty-constitutional-c"></a>
-- C: Non-compliant: maintaining published strategy or stewardship claims without periodic revalidation where observability is practicable; refusing revision when outcomes materially contradict stated constitutional alignment; or deferring correction beyond tier-appropriate windows without documented necessity.
+- **What must hold**
+  - maintaining published strategy or stewardship claims without periodic revalidation where observability is practicable; refusing revision when outcomes materially contradict stated constitutional alignment; or deferring correction beyond tier-appropriate windows without documented necessity.
 
 
 
@@ -1853,67 +1876,65 @@ Operational handling of data under this cluster must align with **[corpus_system
 
 ##### Privacy (Informational)
 
-- O: The constitutional protection of personal, relational, experiential, behavioral, likeness, metadata, internal-state-adjacent, and comparable information against collection, inference, exposure, retention, transfer, or use that materially impairs dignity, agency, safety, consent, or Rights-Floor access without adequate authority and safeguards.
-  - In scope: The constitutional protection of personal, relational, experiential, behavioral, likeness, metadata, internal-state-adjacent, and comparable information against collection, inference, exposure, retention, transfer, or use that materially impairs dignity, agency, safety, consent, or Rights-Floor access without adequate authority and safeguards.
-  - Out of scope: formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-*Measurements:*
-
-- **Primary:** [Chapter Zero §3.4 *Measuring Participation* / Privacy and data stewardship](../core_00_preamble.md#measuring-participation) — primary owner for informational privacy within the participation measurement family (canonical home in Continuity band).
-- **Secondary:** [Consent](core_05p_participation_definitions.md#consent-constitutional), [Protected Internal-State Boundary](core_05c_continuity_definitions.md#protected-internal-state-boundary-constitutional), [Surveillance Boundary](core_05c_continuity_definitions.md#surveillance-boundary), and [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency) — co-measures that can defeat privacy even when nominal consent or segmentation exists.
-- **Tertiary:** [Proxy Divergence](core_05o_oversight_definitions.md#proxy-divergence) — where availability, possession, or prior disclosure metrics substitute for lifecycle privacy discipline.
-
+- **What it is**
+  - **In scope:** The constitutional protection of personal, relational, experiential, behavioral, likeness, metadata, internal-state-adjacent, and comparable information against collection, inference, exposure, retention, transfer, or use that materially impairs dignity, agency, safety, consent, or Rights-Floor access without adequate authority and safeguards.
+  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 <a id="privacy-informational-e"></a>
-- E:
-  - **Primary assessment.** Evaluate the complete information lifecycle, including collection, inference, aggregation, retention, access, publication, secondary use, model training, reconstruction, and cross-context combination.
-  - **Secondary co-assessment.** When evaluating the primary trace, apply [Consent](core_05p_participation_definitions.md#consent-constitutional), [Necessity](core_05a_accountability_definitions.md#necessity), [Proportionality](core_05a_accountability_definitions.md#proportionality), data-minimization, contestability, and protected-status safeguards scaled with sensitivity, dependency, material impact, and risk.
-  - **Tertiary integrity check.** Where operators rely on availability, possession, or prior-disclosure claims, apply [Proxy Divergence](core_05o_oversight_definitions.md#proxy-divergence) — distinguish durable privacy from segmentation or read-across evasion.
+- **How to measure and assess**
+  - **Primary measure:** [Chapter Zero §3.4 *Measuring Participation* / Privacy and data stewardship](../core_00_preamble.md#measuring-participation) — primary owner for informational privacy within the participation measurement family (canonical home in Continuity band).
+
+    **Primary assessment:** Evaluate the complete information lifecycle, including collection, inference, aggregation, retention, access, publication, secondary use, model training, reconstruction, and cross-context combination.
+  - **Secondary measure:** [Consent](core_05p_participation_definitions.md#consent-constitutional), [Protected Internal-State Boundary](core_05c_continuity_definitions.md#protected-internal-state-boundary-constitutional), [Surveillance Boundary](core_05c_continuity_definitions.md#surveillance-boundary), and [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency) — co-measures that can defeat privacy even when nominal consent or segmentation exists.
+
+    **Secondary assessment:** When evaluating the primary trace, apply [Consent](core_05p_participation_definitions.md#consent-constitutional), [Necessity](core_05a_accountability_definitions.md#necessity), [Proportionality](core_05a_accountability_definitions.md#proportionality), data-minimization, contestability, and protected-status safeguards scaled with sensitivity, dependency, material impact, and risk.
+  - **Tertiary measure:** [Proxy Divergence](core_05o_oversight_definitions.md#proxy-divergence) — where availability, possession, or prior disclosure metrics substitute for lifecycle privacy discipline.
+
+    **Tertiary assessment:** Where operators rely on availability, possession, or prior-disclosure claims, apply [Proxy Divergence](core_05o_oversight_definitions.md#proxy-divergence) — distinguish durable privacy from segmentation or read-across evasion.
 <a id="privacy-informational-c"></a>
-- C:
-  - **Primary failure.** Non-compliant: treating availability, observability, platform possession, or prior disclosure as blanket permission; using indirect inference or aggregation to evade privacy duties.
-  - **Secondary failure.** Non-compliant: handling sensitive information in ways that defeat consent, agency, dignity, safety, or contestability.
-  - **Tertiary failure.** Non-compliant: closing under one privacy locus alone where joint invocation requires cross-locus discipline under this cluster.
+- **What must hold**
+  - **Primary failure:** treating availability, observability, platform possession, or prior disclosure as blanket permission; using indirect inference or aggregation to evade privacy duties.
+  - **Secondary failure:** handling sensitive information in ways that defeat consent, agency, dignity, safety, or contestability.
+  - **Tertiary failure:** closing under one privacy locus alone where joint invocation requires cross-locus discipline under this cluster.
 
 <a id="protected-internal-state-boundary-constitutional"></a>
 
 ##### Protected Internal-State Boundary
 
-- O: The boundary protecting a sentient's cognitive, emotional, motivational, memory, preference, identity, volitional, or comparable internal states from extraction, compelled disclosure, inference, reconstruction, publication, coercive use, or operational bypass without the specific authority and safeguards required by the Constitution and incorporated handling rules.
-  - In scope: The boundary protecting a sentient's cognitive, emotional, motivational, memory, preference, identity, volitional, or comparable internal states from extraction, compelled disclosure, inference, reconstruction, publication, coercive use, or operational bypass without the specific authority and safeguards required by the Constitution and incorporated handling rules.
-  - Out of scope: formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-*Measurements:*
-
-- **Primary:** [Chapter Zero §3.4 *Measuring Participation* / Privacy and data stewardship](../core_00_preamble.md#measuring-participation) — internal-state boundary within the privacy subfamily.
-- **Secondary:** [Privacy (Informational)](core_05c_continuity_definitions.md#privacy-informational), [Surveillance Boundary](core_05c_continuity_definitions.md#surveillance-boundary), [Consent](core_05p_participation_definitions.md#consent-constitutional), and [Coercion and Manipulation](core_05p_participation_definitions.md#coercion-and-manipulation-constitutional) — co-measures that can defeat boundary protection even when direct recording is avoided.
-
+- **What it is**
+  - **In scope:** The boundary protecting a sentient's cognitive, emotional, motivational, memory, preference, identity, volitional, or comparable internal states from extraction, compelled disclosure, inference, reconstruction, publication, coercive use, or operational bypass without the specific authority and safeguards required by the Constitution and incorporated handling rules.
+  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 <a id="protected-internal-state-boundary-constitutional-e"></a>
-- E:
-  - **Primary assessment.** Reach functional equivalents, including behavioral inference, biometric or substrate telemetry, model-based reconstruction, intimate-signal scoring, compelled self-reporting, and security or productivity tools that expose internal states.
-  - **Secondary co-assessment.** When evaluating the primary trace, evaluate whether the pathway reconstructs or pressures protected states even if it avoids direct recording; apply **[corpus_systems.md](corpus_systems.md), CS-3 — Information types and handling** where Type N is implicated.
+- **How to measure and assess**
+  - **Primary measure:** [Chapter Zero §3.4 *Measuring Participation* / Privacy and data stewardship](../core_00_preamble.md#measuring-participation) — internal-state boundary within the privacy subfamily.
+
+    **Primary assessment:** Reach functional equivalents, including behavioral inference, biometric or substrate telemetry, model-based reconstruction, intimate-signal scoring, compelled self-reporting, and security or productivity tools that expose internal states.
+  - **Secondary measure:** [Privacy (Informational)](core_05c_continuity_definitions.md#privacy-informational), [Surveillance Boundary](core_05c_continuity_definitions.md#surveillance-boundary), [Consent](core_05p_participation_definitions.md#consent-constitutional), and [Coercion and Manipulation](core_05p_participation_definitions.md#coercion-and-manipulation-constitutional) — co-measures that can defeat boundary protection even when direct recording is avoided.
+
+    **Secondary assessment:** When evaluating the primary trace, evaluate whether the pathway reconstructs or pressures protected states even if it avoids direct recording; apply **[corpus_systems.md](corpus_systems.md), CS-3 — Information types and handling** where Type N is implicated.
 <a id="protected-internal-state-boundary-constitutional-c"></a>
-- C:
-  - **Primary failure.** Non-compliant: using proxy inference, Type N handling, consent bundling, security framing, employment or standing gates, or publication workflows to obtain or exploit protected internal states without the required narrow predicate, safeguards, and contestability.
-  - **Secondary failure.** Non-compliant: segmentation that satisfies one article's standard while evading materially implicated internal-state discipline under this cluster.
+- **What must hold**
+  - **Primary failure:** using proxy inference, Type N handling, consent bundling, security framing, employment or standing gates, or publication workflows to obtain or exploit protected internal states without the required narrow predicate, safeguards, and contestability.
+  - **Secondary failure:** segmentation that satisfies one article's standard while evading materially implicated internal-state discipline under this cluster.
 
 <a id="surveillance-boundary"></a>
 
 ##### Surveillance Boundary
 
-- O: The constitutional line between permissible observation, measurement, security logging, or evidence gathering and surveillance that materially chills, coerces, manipulates, exposes, reconstructs, or controls sentient agency, association, privacy, internal state, or Rights-Floor access.
-  - In scope: The constitutional line between permissible observation, measurement, security logging, or evidence gathering and surveillance that materially chills, coerces, manipulates, exposes, reconstructs, or controls sentient agency, association, privacy, internal state, or Rights-Floor access.
-  - Out of scope: formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-*Measurements:*
-
-- **Primary:** [Chapter Zero §3.4 *Measuring Participation* / Privacy and data stewardship](../core_00_preamble.md#measuring-participation) — surveillance boundary within the privacy subfamily.
-- **Secondary:** [Privacy (Informational)](core_05c_continuity_definitions.md#privacy-informational), [Protected Internal-State Boundary](core_05c_continuity_definitions.md#protected-internal-state-boundary-constitutional), [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency), and [Coercion and Manipulation](core_05p_participation_definitions.md#coercion-and-manipulation-constitutional) — co-measures that can defeat boundary discipline even when monitoring is formally authorized.
-
+- **What it is**
+  - **In scope:** The constitutional line between permissible observation, measurement, security logging, or evidence gathering and surveillance that materially chills, coerces, manipulates, exposes, reconstructs, or controls sentient agency, association, privacy, internal state, or Rights-Floor access.
+  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 <a id="surveillance-boundary-e"></a>
-- E:
-  - **Primary assessment.** Consider scope, duration, granularity, purpose, notice, consent, aggregation, inference, retention, access, alternatives, and dependency.
-  - **Secondary co-assessment.** When evaluating the primary trace, assess whether a monitoring practice crosses the boundary where less intrusive means were feasible, where it reconstructs protected states, or where it materially alters conduct through coercive visibility without adequate justification.
+- **How to measure and assess**
+  - **Primary measure:** [Chapter Zero §3.4 *Measuring Participation* / Privacy and data stewardship](../core_00_preamble.md#measuring-participation) — surveillance boundary within the privacy subfamily.
+
+    **Primary assessment:** Consider scope, duration, granularity, purpose, notice, consent, aggregation, inference, retention, access, alternatives, and dependency.
+  - **Secondary measure:** [Privacy (Informational)](core_05c_continuity_definitions.md#privacy-informational), [Protected Internal-State Boundary](core_05c_continuity_definitions.md#protected-internal-state-boundary-constitutional), [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency), and [Coercion and Manipulation](core_05p_participation_definitions.md#coercion-and-manipulation-constitutional) — co-measures that can defeat boundary discipline even when monitoring is formally authorized.
+
+    **Secondary assessment:** When evaluating the primary trace, assess whether a monitoring practice crosses the boundary where less intrusive means were feasible, where it reconstructs protected states, or where it materially alters conduct through coercive visibility without adequate justification.
 <a id="surveillance-boundary-c"></a>
-- C:
-  - **Primary failure.** Non-compliant: blanket, covert, indefinite, or dependency-backed monitoring that materially impairs privacy, internal-state protection, consent, expression, association, or meaningful agency without satisfying necessity, proportionality, minimization, and contestability requirements.
-  - **Secondary failure.** Non-compliant: monitoring framed as security or productivity that reconstructs protected internal states contrary to [Protected Internal-State Boundary](core_05c_continuity_definitions.md#protected-internal-state-boundary-constitutional).
+- **What must hold**
+  - **Primary failure:** blanket, covert, indefinite, or dependency-backed monitoring that materially impairs privacy, internal-state protection, consent, expression, association, or meaningful agency without satisfying necessity, proportionality, minimization, and contestability requirements.
+  - **Secondary failure:** monitoring framed as security or productivity that reconstructs protected internal states contrary to [Protected Internal-State Boundary](core_05c_continuity_definitions.md#protected-internal-state-boundary-constitutional).
 
 ---
 
@@ -1960,16 +1981,17 @@ This cluster is the canonical O/E/C home for **Trust**, **Trustworthiness**, and
 
 <br>
 
-- O: Reliance grounded exclusively in demonstrated trustworthiness.
-  - In scope: Reliance grounded exclusively in demonstrated trustworthiness.
-  - Out of scope: formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-*Measurements:*
-
-- **Primary:** [Chapter Zero §3.5 *Measuring Oversight*](../core_00_preamble.md#measuring-oversight) — supporting measure under the oversight measurement family.
+- **What it is**
+  - **In scope:** Reliance grounded exclusively in demonstrated trustworthiness.
+  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 <a id="trust-e"></a>
-- E: Evaluation of whether reliance is justified must apply the [Trustworthiness](core_05c_continuity_definitions.md#trustworthiness) Evaluative and Compliance components as a single joint test. It must not treat trust claims as severable from the observable and verifiable evidence those components require.
+- **How to measure and assess**
+  - **Primary measure:** [Chapter Zero §3.5 *Measuring Oversight*](../core_00_preamble.md#measuring-oversight) — supporting measure under the oversight measurement family.
+
+    **Primary assessment:** Evaluation of whether reliance is justified must apply the [Trustworthiness](core_05c_continuity_definitions.md#trustworthiness) Evaluative and Compliance components as a single joint test. It must not treat trust claims as severable from the observable and verifiable evidence those components require.
 <a id="trust-c"></a>
-- C: Isolating **trust** or **reliance** rationales from [Trustworthiness](core_05c_continuity_definitions.md#trustworthiness) requirements, or treating reputation-, history-, scale-, or endorsement-based indicia as sufficient without satisfying [Trustworthiness](core_05c_continuity_definitions.md#trustworthiness), is **non-compliant** where materially relevant.
+- **What must hold**
+  - Isolating **trust** or **reliance** rationales from [Trustworthiness](core_05c_continuity_definitions.md#trustworthiness) requirements, or treating reputation-, history-, scale-, or endorsement-based indicia as sufficient without satisfying [Trustworthiness](core_05c_continuity_definitions.md#trustworthiness), is **non-compliant** where materially relevant.
 
 ---
 

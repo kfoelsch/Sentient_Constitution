@@ -5,7 +5,6 @@ from __future__ import annotations
 
 import argparse
 import json
-import re
 import sys
 from collections import defaultdict
 from datetime import datetime, timezone
@@ -15,9 +14,12 @@ _TOOLS = Path(__file__).resolve().parent
 if str(_TOOLS) not in sys.path:
     sys.path.insert(0, str(_TOOLS))
 
-from ch5_measurement_tier_audit import find_term_body, tier_checks  # noqa: E402
-
-MEASUREMENTS_RE = re.compile(r"^\*Measurements:\*\s*$", re.MULTILINE)
+from ch5_measurement_tier_audit import (  # noqa: E402
+    MEASUREMENTS_RE,
+    PRIMARY_MEAS_RE,
+    find_term_body,
+    tier_checks,
+)
 
 
 def parse_args() -> argparse.Namespace:
@@ -92,7 +94,11 @@ def render(root: Path, seeds: dict, registry: dict, hierarchy: dict) -> str:
             audit = "—"
             if located:
                 source_file, body = located
-                has_meas = "yes" if MEASUREMENTS_RE.search(body) else "no"
+                has_meas = (
+                    "yes"
+                    if MEASUREMENTS_RE.search(body) or PRIMARY_MEAS_RE.search(body)
+                    else "no"
+                )
                 if meta.get("status") == "approved":
                     errs = tier_checks(body, meta.get("tier_depth", "full"))
                     audit = "pass" if not errs else "fail"

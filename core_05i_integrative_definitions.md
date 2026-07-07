@@ -53,16 +53,17 @@ This band holds **Integrative** cross-leg definitions that require simultaneous 
 
 <br>
 
-- O: The authorization layer for governing authority itself: who may govern, by what legitimacy mechanism, and under what scope and durable terms. It includes [Foundational Constitutional Choice](core_05i_integrative_definitions.md#foundational-constitutional-choice), documented legitimacy mechanisms, adoption and reauthorization rules, and the political-equality floor for constituting or durably restructuring governing authority. This layer does not import ordinary impact-proportional stakeholder weighting into foundational authorization decisions. Owner: [Chapter Twelve](core_12-12_governance.md#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship); rights-layer pointer: [Article IX-C](core_06-06_rights_part_b.md#article-ix-c-governance-participation-and-voting-entitlement).
-  - In scope: The authorization layer for governing authority itself: who may govern, by what legitimacy mechanism, and under what scope and durable terms. It includes [Foundational Constitutional Choice](core_05i_integrative_definitions.md#foundational-constitutional-choice), documented legitimacy mechanisms, adoption and reauthorization rules, and the political-equality floor for constituting or durably restructuring governing authority. This layer does not import ordinary impact-proportional stakeholder weighting into foundational authorization decisions. Owner: [Chapter Twelve](core_12-12_governance.md#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship); rights-layer pointer: [Article IX-C](core_06-06_rights_part_b.md#article-ix-c-governance-participation-and-voting-entitlement).
-  - Out of scope: formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-*Measurements:*
-
-- **Primary:** [Chapter Zero §3.6 *Measuring Accountability*](../core_00_preamble.md#measuring-accountability) — supporting measure under the accountability measurement family.
+- **What it is**
+  - **In scope:** The authorization layer for governing authority itself: who may govern, by what legitimacy mechanism, and under what scope and durable terms. It includes [Foundational Constitutional Choice](core_05i_integrative_definitions.md#foundational-constitutional-choice), documented legitimacy mechanisms, adoption and reauthorization rules, and the political-equality floor for constituting or durably restructuring governing authority. This layer does not import ordinary impact-proportional stakeholder weighting into foundational authorization decisions. Owner: [Chapter Twelve](core_12-12_governance.md#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship); rights-layer pointer: [Article IX-C](core_06-06_rights_part_b.md#article-ix-c-governance-participation-and-voting-entitlement).
+  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 <a id="constitutional-contract-layer-e"></a>
-- E: Identify this layer by function, not scale. Read [Chapter 00 §4 governance-layer discipline](core_00_preamble.md#governance-layer-discipline). Reject framings that treat silence, usage alone, market presence, or branding as authorization.
+- **How to measure and assess**
+  - **Primary measure:** [Chapter Zero §3.6 *Measuring Accountability*](../core_00_preamble.md#measuring-accountability) — supporting measure under the accountability measurement family.
+
+    **Primary assessment:** Identify this layer by function, not scale. Read [Chapter 00 §4 governance-layer discipline](core_00_preamble.md#governance-layer-discipline). Reject framings that treat silence, usage alone, market presence, or branding as authorization.
 <a id="constitutional-contract-layer-c"></a>
-- C: Non-compliant: treating stakeholder consultation, operational participation, or system use as a substitute for documented constitutional authorization; using impact-weighted stakeholder voting to constitute or durably restructure governing authority where [Foundational Constitutional Choice](core_05i_integrative_definitions.md#foundational-constitutional-choice) requires the political-equality floor.
+- **What must hold**
+  - treating stakeholder consultation, operational participation, or system use as a substitute for documented constitutional authorization; using impact-weighted stakeholder voting to constitute or durably restructure governing authority where [Foundational Constitutional Choice](core_05i_integrative_definitions.md#foundational-constitutional-choice) requires the political-equality floor.
 
 ---
 
@@ -278,18 +279,19 @@ This cluster is the joint-invocation home for operative corpus identity, authori
 
 <br>
 
-- O: The authoritative integrated set of binding constitutional sources: the numbered `core_*` Sentient Constitution files read as one instrument, plus any valid compatibility wrappers during transition and adopted implementation text. Sources are versioned and custodied through valid adoption and edition controls under the [Corpus, Authority Stack, Supremacy, and Enforceability cluster](core_05a_accountability_definitions.md#corpus-authority-stack-supremacy-and-enforceability-cluster).
-  - In scope: The authoritative integrated set of binding constitutional sources: the numbered `core_*` Sentient Constitution files read as one instrument, plus any valid compatibility wrappers during transition and adopted implementation text. Sources are versioned and custodied through valid adoption and edition controls under the [Corpus, Authority Stack, Supremacy, and Enforceability cluster](core_05a_accountability_definitions.md#corpus-authority-stack-supremacy-and-enforceability-cluster).
-  - Out of scope: formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-*Measurements:*
-
-- **Primary:** [Chapter Zero §3.5 *Measuring Oversight*](../core_00_preamble.md#measuring-oversight) and [Chapter Zero §3.6 *Measuring Accountability*](../core_00_preamble.md#measuring-accountability) — supporting measure where multiple measurement families co-apply.
+- **What it is**
+  - **In scope:** The authoritative integrated set of binding constitutional sources: the numbered `core_*` Sentient Constitution files read as one instrument, plus any valid compatibility wrappers during transition and adopted implementation text. Sources are versioned and custodied through valid adoption and edition controls under the [Corpus, Authority Stack, Supremacy, and Enforceability cluster](core_05a_accountability_definitions.md#corpus-authority-stack-supremacy-and-enforceability-cluster).
+  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 <a id="corpus-e"></a>
-- E: For compliance and adoption claims, identify the operative corpus edition and custody chain under the applicable [Corpus, Authority Stack, Supremacy, and Enforceability cluster](core_05a_accountability_definitions.md#corpus-authority-stack-supremacy-and-enforceability-cluster). Then:
-  - distinguish incorporated binding text from explanatory/process artifacts;
-  - apply Chapter Thirteen supremacy and Chapter Fourteen adoption conditions.
+- **How to measure and assess**
+  - **Primary measure:** [Chapter Zero §3.5 *Measuring Oversight*](../core_00_preamble.md#measuring-oversight) and [Chapter Zero §3.6 *Measuring Accountability*](../core_00_preamble.md#measuring-accountability) — supporting measure where multiple measurement families co-apply.
+
+    **Primary assessment:** For compliance and adoption claims, identify the operative corpus edition and custody chain under the applicable [Corpus, Authority Stack, Supremacy, and Enforceability cluster](core_05a_accountability_definitions.md#corpus-authority-stack-supremacy-and-enforceability-cluster). Then:
+      - distinguish incorporated binding text from explanatory/process artifacts;
+      - apply Chapter Thirteen supremacy and Chapter Fourteen adoption conditions.
 <a id="corpus-c"></a>
-- C: Non-compliant: representing divergent, uncontrolled, or misidentified text as the Corpus; collapsing non-binding process artifacts into binding scope without valid incorporation contrary to the governing [Corpus, Authority Stack, Supremacy, and Enforceability cluster](core_05a_accountability_definitions.md#corpus-authority-stack-supremacy-and-enforceability-cluster).
+- **What must hold**
+  - representing divergent, uncontrolled, or misidentified text as the Corpus; collapsing non-binding process artifacts into binding scope without valid incorporation contrary to the governing [Corpus, Authority Stack, Supremacy, and Enforceability cluster](core_05a_accountability_definitions.md#corpus-authority-stack-supremacy-and-enforceability-cluster).
 
 ---
 
@@ -434,14 +436,15 @@ This cluster is the joint-invocation home for operative corpus identity, authori
 
 <br>
 
-- O: Any system behavior or outcome that materially degrades [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint), [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint), or other binding constitutional requirements.
-  - In scope: Any system behavior or outcome that materially degrades [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint), [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint), or other binding constitutional requirements.
-  - Out of scope: formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-*Measurements:*
+- **What it is**
+  - **In scope:** Any system behavior or outcome that materially degrades [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint), [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint), or other binding constitutional requirements.
+  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
+- **How to measure and assess**
+  - **Primary measure:** [Chapter Zero §3.5 *Measuring Oversight*](../core_00_preamble.md#measuring-oversight) and [Chapter Zero §3.6 *Measuring Accountability*](../core_00_preamble.md#measuring-accountability) — supporting measure where multiple measurement families co-apply.
 
-- **Primary:** [Chapter Zero §3.5 *Measuring Oversight*](../core_00_preamble.md#measuring-oversight) and [Chapter Zero §3.6 *Measuring Accountability*](../core_00_preamble.md#measuring-accountability) — supporting measure where multiple measurement families co-apply.
-- E: Include direct, indirect, delayed, and aggregated effects, consistent with [Harm](core_05a_accountability_definitions.md#harm), [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint), and [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint).
-- C: Any such degradation is non-compliant.
+    **Primary assessment:** Include direct, indirect, delayed, and aggregated effects, consistent with [Harm](core_05a_accountability_definitions.md#harm), [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint), and [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint).
+- **What must hold**
+  - Any such degradation is non-compliant.
 
 ---
 

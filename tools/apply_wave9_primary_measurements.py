@@ -23,7 +23,6 @@ from ch5_measurement_tier_audit import (  # noqa: E402
 from ch5_paths import CH5_ALL  # noqa: E402
 
 E_START_RE = re.compile(r'^\s*(<a id="[^"]*-e"></a>|- \*?\*?E\*?\*?:)')
-O_START_RE = re.compile(r"^- \*?\*?O\*?\*?:")
 
 CAT_META: dict[str, tuple[str, str, str]] = {
     "3.1 Threshold and scaling": (
@@ -135,7 +134,7 @@ def build_measurements_block(term: str, categories: list[str], aim_role: str) ->
             f"- **Primary:** {' and '.join(links)} "
             "— supporting measure where multiple measurement families co-apply."
         )
-    return f"\n*Measurements:*\n\n{primary}\n"
+    return f"  - *Measurements:*\n\n  {primary}\n"
 
 
 def find_heading_index(lines: list[str], term: str) -> int | None:
@@ -148,38 +147,22 @@ def find_heading_index(lines: list[str], term: str) -> int | None:
 
 def find_insert_line(lines: list[str], heading_idx: int) -> int | None:
     depth = len(lines[heading_idx].strip()) - len(lines[heading_idx].strip().lstrip("#"))
-    in_section = False
-    o_end: int | None = None
-    in_o = False
+    e_line: int | None = None
 
     for i in range(heading_idx + 1, len(lines)):
         stripped = lines[i].strip()
         m2 = HEADING_RE.match(stripped)
         if m2 and len(m2.group(0)) - len(m2.group(0).lstrip("#")) <= depth:
             break
-        in_section = True
-        if MEASUREMENTS_RE.match(stripped):
+        if MEASUREMENTS_RE.match(stripped) or MEASUREMENTS_RE.match(lines[i]):
             return None
         if E_START_RE.match(stripped):
-            return o_end
-        if O_START_RE.match(stripped):
-            in_o = True
-            o_end = i
-            continue
-        if in_o:
-            if stripped == "":
+            if stripped.startswith("<a id="):
                 continue
-            if lines[i].startswith("  ") or re.match(r"^  +- ", lines[i]):
-                o_end = i
-                continue
-            if not stripped.startswith("-"):
-                o_end = i
-                continue
+            e_line = i
             break
 
-    if in_section and o_end is not None:
-        return o_end
-    return None
+    return e_line
 
 
 def patch_definition_text(text: str, term: str, block: str) -> tuple[str, bool]:
