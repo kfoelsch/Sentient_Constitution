@@ -1,4 +1,4 @@
-# Amendment, supremacy, and non-regression
+# CHAPTERS THIRTEEN–FIFTEEN: AMENDMENT, SUPREMACY, AND NON-REGRESSION
 
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
@@ -10,8 +10,6 @@
 </details>
 
 <br>
-
----
 
 ## CHAPTER THIRTEEN: NON-REGRESSION AND SUBSTANTIVE AMENDMENT VALIDITY
 

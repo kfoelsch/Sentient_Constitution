@@ -1,4 +1,4 @@
-# Definition mechanics and traceability
+# CHAPTERS TWO–FOUR: DEFINITION MECHANICS AND TRACEABILITY
 
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
@@ -27,8 +27,6 @@
 </details>
 
 <br>
-
----
 
 ## CHAPTER TWO: DEFINITION STRUCTURE AND COMPONENT REQUIREMENTS
 

@@ -276,7 +276,7 @@ One collapsed **Corpus placement** widget per audited file top. Summary label: *
 
 **Visible before the first section heading (or first operative registry section):**
 
-- `#` title. For single-chapter core files this is the chapter/part heading itself (e.g. `# CHAPTER 00: PREAMBLE / FOUNDATIONAL REQUIREMENTS`, `# CHAPTER SIX: FOUNDATIONAL RIGHTS`); the former redundant short-label `#` title above it has been retired. Multi-chapter core files (`core_02-04`, `core_13-15`) keep a `#` umbrella title above their several `## CHAPTER …` headings, and Chapter Five band/aim files keep their descriptive `#` band title.
+- `#` title. For single-chapter core files this is the chapter/part heading itself (e.g. `# CHAPTER 00: PREAMBLE / FOUNDATIONAL REQUIREMENTS`, `# CHAPTER SIX: FOUNDATIONAL RIGHTS`); the former redundant short-label `#` title above it has been retired. Multi-chapter core files (`core_02-04`, `core_13-15`) use a `# CHAPTERS …–…:` umbrella title above their several `## CHAPTER …` headings, and Chapter Five band/aim files keep their descriptive `#` band title.
 - Optional `<a id="chapter-…"></a>` anchors immediately above the `#` title carry the chapter/part anchors; an optional `*Non-operative subtitle:*` line may sit directly beneath the title.
 - On implementation `*_00_registry_and_reading_rules.md` files only: one-line `*In plain terms:*` front-door gloss.
 - The placement widget, then any file- or part-level reader-guidance widget, then `<br>` before operative prose. No `---` rule sits between the title and the widgets.
