@@ -335,6 +335,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Cluster component: [Chapter Five §3.32 *Resilience, Safety, Reversibility, Self-Healing, Cascading Failure, Existential Risk, Environmental Preconditions, and Wellbeing*](core_05c_continuity_definitions.md#resilience-safety-reversibility-self-healing-and-systemic-harm-cluster)
+- Owner floor: [Article XII-F](core_06-06_rights_part_c.md#article-xii-f-resilience-and-self-healing-baseline).
 - Read with: [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint), [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint), [Trust](core_05c_continuity_definitions.md#trust), [Reversibility](core_05c_continuity_definitions.md#reversibility-constitutional), [Dependency](core_05c_continuity_definitions.md#dependency), and [Cascading Failure](core_05c_continuity_definitions.md#cascading-failure).
 
 
@@ -477,7 +478,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 <br>
 
 <a id="voluntary-discontinuation-constitutional-o"></a>
-- O: A sentient's freely formed, substantively informed decision to discontinue their own existence or comparable self-directed exit from continued participation, evaluated under [Consent](core_05p_participation_definitions.md#consent-constitutional), [Coercion and Manipulation](core_05p_participation_definitions.md#coercion-and-manipulation-constitutional), and [Procedural Fairness](core_05p_participation_definitions.md#procedural-fairness-constitutional), and distinct from [Irreversible Deprivation Measure](core_05a_accountability_definitions.md#irreversible-deprivation-measure-constitutional) or involuntary deprivation of life. Owner floor: [Article VII-E](core_06-06_rights_part_b.md#article-vii-e-voluntary-discontinuation-of-ones-own-existence).
+- O: A sentient's freely formed, substantively informed decision to discontinue their own existence or comparable self-directed exit from continued participation, evaluated under [Consent](core_05p_participation_definitions.md#consent-constitutional), [Coercion and Manipulation](core_05p_participation_definitions.md#coercion-and-manipulation-constitutional), and [Procedural Fairness](core_05p_participation_definitions.md#procedural-fairness-constitutional), and distinct from [Irreversible Deprivation Measure](core_05a_accountability_definitions.md#irreversible-deprivation-measure-constitutional) or involuntary deprivation of life.
 
 *Measurements:*
 
@@ -1152,7 +1153,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 
 <br>
 
-- O: The affirmative access floor for bodily-maintenance and healthcare services necessary to preserve life, function, and dignity, applied under [Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion) across materially relevant bodies and substrates. The floor covers preventive, acute, chronic, and maintenance care, including mental-health care and processing / substrate maintenance for synthetic sentients, and is structurally parallel to the food, water, and shelter access floors of Article III-A. Owner: [Article III-C](core_06-06_rights_part_a.md#article-iii-c-bodily-maintenance-and-healthcare-access); read with Article VII-A non-intrusion and Article VII-C involuntary-intervention floor.
+- O: The affirmative access floor for bodily-maintenance and healthcare services necessary to preserve life, function, and dignity, applied under [Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion) across materially relevant bodies and substrates. The floor covers preventive, acute, chronic, and maintenance care, including mental-health care and processing / substrate maintenance for synthetic sentients, and is structurally parallel to the food, water, and shelter access floors of Article III-A.
 
 *Measurements:*
 
@@ -1269,7 +1270,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 
 <br>
 
-- O: The Rights-Floor concept covering continuity of language, cultural practice, governance practice, and knowledge-transmission — including community-custodial traditional, ecological, and technical knowledge — for communities with durable historical connection to particular territory, ecosystem, or comparable substrate-context, where that connection is materially implicated in community continuity. The floor is community-anchored. It is distinct from but complementary to the individual-level protections of [Article V-B](core_06-06_rights_part_b.md#article-v-b-nondiscrimination) and [Language, Culture, and Heritage](core_05c_continuity_definitions.md#language-culture-and-heritage-constitutional). It is substrate-agnostic under [Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion). It is capability-functional: triggered by material implication of community continuity, not by a category label. Owner floors: [Article V-B](core_06-06_rights_part_b.md#article-v-b-nondiscrimination) and [Article I-A](core_06-06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity). Route territorial-continuity interactions to Article I-A (ecosystem / precondition integrity) and to [Chapter Sixteen](core_16-16_incorporation.md) (adopter-jurisdiction discipline). This entry does not adjudicate historical territorial claims or create a restitution mandate.
+- O: The Rights-Floor concept covering continuity of language, cultural practice, governance practice, and knowledge-transmission — including community-custodial traditional, ecological, and technical knowledge — for communities with durable historical connection to particular territory, ecosystem, or comparable substrate-context, where that connection is materially implicated in community continuity. The floor is community-anchored. It is distinct from but complementary to the individual-level protections of [Article V-B](core_06-06_rights_part_b.md#article-v-b-nondiscrimination) and [Language, Culture, and Heritage](core_05c_continuity_definitions.md#language-culture-and-heritage-constitutional). It is substrate-agnostic under [Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion). It is capability-functional: triggered by material implication of community continuity, not by a category label. Route territorial-continuity interactions to Article I-A (ecosystem / precondition integrity) and to [Chapter Sixteen](core_16-16_incorporation.md) (adopter-jurisdiction discipline). This entry does not adjudicate historical territorial claims or create a restitution mandate.
 
 *Measurements:*
 
@@ -1297,6 +1298,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Principles: [3. Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing); [§5.1 Limitation Discipline](core_01_a_values_principles.md#51-limitation-discipline) (nondiscrimination limitations tests).
+- Owner floor: [Article V-B](core_06-06_rights_part_b.md#article-v-b-nondiscrimination).
 - Cluster component: [Bodily-Maintenance Access, Tenure Security, Environmental Preconditions, Cultural Continuity, and Anti-Displacement Floor](core_05p_participation_definitions.md#safe-conditions-tenure-security-and-environmental-preconditions-cluster) where language, culture, or heritage continuity is materially tied to place, ecosystem, tenure, bodily-maintenance access, or participation capacity. (Safe Conditions and Rest now in Section 3.5 Labor and Economic Floor cluster.)
 - Cluster component: [the dependent cluster *Indigenous Continuity, Language Culture and Heritage, Natural Systems Standing, and Intergenerational Responsibility*](core_05c_continuity_definitions.md#indigenous-continuity-language-culture-heritage-semi-independent).
 - Read with: [Protected Characteristics](core_05p_participation_definitions.md#protected-characteristics-constitutional), [Substantive Fairness](core_05p_participation_definitions.md#substantive-fairness-constitutional), [Necessity](core_05a_accountability_definitions.md#necessity), [Proportionality](core_05a_accountability_definitions.md#proportionality), [Intergenerational Responsibility](core_05c_continuity_definitions.md#intergenerational-responsibility-constitutional), [Indigenous Continuity](core_05c_continuity_definitions.md#indigenous-continuity-constitutional), [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency), and [Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion).
@@ -1305,7 +1307,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 
 <br>
 
-- O: The Rights-Floor concept recognizing language, cultural affiliation, heritage, traditions, and comparable cultural-identity characteristics as protected-characteristic specializations under the Chapter Six nondiscrimination discipline. Owner floor: [Article V-B](core_06-06_rights_part_b.md#article-v-b-nondiscrimination). Protection covers language use (including minority and heritage languages), cultural practice and observance, heritage transmission across generations, participation in the shared systems that sustain cultural and heritage continuity, and communication modalities that function as language-equivalents under [Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion).
+- O: The Rights-Floor concept recognizing language, cultural affiliation, heritage, traditions, and comparable cultural-identity characteristics as protected-characteristic specializations under the Chapter Six nondiscrimination discipline. Protection covers language use (including minority and heritage languages), cultural practice and observance, heritage transmission across generations, participation in the shared systems that sustain cultural and heritage continuity, and communication modalities that function as language-equivalents under [Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion).
 
 *Measurements:*
 
@@ -1488,6 +1490,7 @@ Outside that admission scope, component definitions may operate as supporting In
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Principles: [§12.1 Productive Capacity (Instrumental Good)](core_01_c_stewardship_capacity_principles.md#121-productive-capacity-instrumental-good); [§9.2 Distributed Understanding](core_01_c_stewardship_capacity_principles.md#92-distributed-understanding) (attribution / traceability read-with).
+- Owner floor: [Article VIII-D](core_06-06_rights_part_b.md#article-viii-d-creative-work-training-data-use-and-anti-displacement).
 - Cluster component: [Chapter Five Chapter One §8.12 *Labor and Economic Floor*](core_05i_integrative_definitions.md#labor-and-economic-floor-cluster).
 - Read with: [Training-Data Use](core_05c_continuity_definitions.md#training-data-use-constitutional), [Anti-Displacement Floor](core_05c_continuity_definitions.md#anti-displacement-floor-constitutional), [Fair Compensation](core_05c_continuity_definitions.md#fair-compensation-constitutional), [Collective Organization](core_05p_participation_definitions.md#collective-organization-constitutional), [Safe Conditions](core_05c_continuity_definitions.md#safe-conditions-constitutional), [Leisure and Rest](core_05c_continuity_definitions.md#leisure-and-rest-constitutional), [Good Faith](core_05a_accountability_definitions.md#good-faith), [Consent](core_05p_participation_definitions.md#consent-constitutional), [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint), and [Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion).
 
@@ -1495,7 +1498,7 @@ Outside that admission scope, component definitions may operate as supporting In
 
 <br>
 
-- O: The Rights-Floor concept addressing the attribution interest sentients hold in creative, intellectual, or comparable expressive work they produce, where that work is used, reproduced, adapted, transformed, or incorporated into derivative output by systems or other sentients. Owner: [Article VIII-D](core_06-06_rights_part_b.md#article-viii-d-creative-work-training-data-use-and-anti-displacement). Substrate-agnostic under [Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion). Attribution is a substantive traceability interest from derivative output back to upstream creator-work, not a specific format; structured attribution (direct, aggregate, or inventory-based) is permitted where the substantive traceability function survives.
+- O: The Rights-Floor concept addressing the attribution interest sentients hold in creative, intellectual, or comparable expressive work they produce, where that work is used, reproduced, adapted, transformed, or incorporated into derivative output by systems or other sentients. Substrate-agnostic under [Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion). Attribution is a substantive traceability interest from derivative output back to upstream creator-work, not a specific format; structured attribution (direct, aggregate, or inventory-based) is permitted where the substantive traceability function survives.
 
 *Measurements:*
 

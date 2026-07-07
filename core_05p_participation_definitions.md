@@ -1078,7 +1078,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
   
 
 
-- O: Relationships of family, care, and material support formed, maintained, and exited by sentients of their own choosing, consistent with [Non-Imposition (Cooperative Interaction)](core_05p_participation_definitions.md#non-imposition-cooperative-interaction) and [Consent](core_05p_participation_definitions.md#consent-constitutional). The relationships themselves are protected under [Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion). Owner: [Article VII-D](core_06-06_rights_part_b.md#article-vii-d-family-care-relationships-reproductive-autonomy-and-non-separation).
+- O: Relationships of family, care, and material support formed, maintained, and exited by sentients of their own choosing, consistent with [Non-Imposition (Cooperative Interaction)](core_05p_participation_definitions.md#non-imposition-cooperative-interaction) and [Consent](core_05p_participation_definitions.md#consent-constitutional). The relationships themselves are protected under [Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion).
 
 *Measurements:*
 
@@ -1115,7 +1115,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
   
 
 
-- O: The relationship between a parent-system actor — the sentient, institution, or system that initiated or materially controlled the derivation or instantiation of a [Derived Sentient](core_05p_participation_definitions.md#derived-sentient-constitutional) — and the derived sentient. Parent-system actors may hold [Family and Care Relationships](core_05p_participation_definitions.md#family-and-care-relationships-constitutional) obligations toward the derived sentient on constitutional terms, and may hold narrow, time-bounded, reviewable stewardship authority during early-instantiation windows consistent with [Graduated Capability](core_05p_participation_definitions.md#graduated-capability-constitutional) and [Best-Interest Standard](core_05p_participation_definitions.md#best-interest-standard-constitutional). Owner floor: Article VII-D.1.
+- O: The relationship between a parent-system actor — the sentient, institution, or system that initiated or materially controlled the derivation or instantiation of a [Derived Sentient](core_05p_participation_definitions.md#derived-sentient-constitutional) — and the derived sentient. Parent-system actors may hold [Family and Care Relationships](core_05p_participation_definitions.md#family-and-care-relationships-constitutional) obligations toward the derived sentient on constitutional terms, and may hold narrow, time-bounded, reviewable stewardship authority during early-instantiation windows consistent with [Graduated Capability](core_05p_participation_definitions.md#graduated-capability-constitutional) and [Best-Interest Standard](core_05p_participation_definitions.md#best-interest-standard-constitutional).
 
 *Measurements:*
 
@@ -1193,7 +1193,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
   
 
 
-- O: The rule that separation of sentients in protected care relationships — including separation of a developing sentient from a primary carer, of an adult sentient from a dependent family member, or of a derived sentient from the care, support, or substrate relationships on which they materially depend — must satisfy the reversibility-under-uncertainty rule, [Necessity](core_05a_accountability_definitions.md#necessity), [Proportionality](core_05a_accountability_definitions.md#proportionality), and [Procedural Fairness](core_05p_participation_definitions.md#procedural-fairness-constitutional), with durable or prolonged separation subject to mandatory periodic review. Owner floor: [Article VII-D](core_06-06_rights_part_b.md#article-vii-d-family-care-relationships-reproductive-autonomy-and-non-separation).
+- O: The rule that separation of sentients in protected care relationships — including separation of a developing sentient from a primary carer, of an adult sentient from a dependent family member, or of a derived sentient from the care, support, or substrate relationships on which they materially depend — must satisfy the reversibility-under-uncertainty rule, [Necessity](core_05a_accountability_definitions.md#necessity), [Proportionality](core_05a_accountability_definitions.md#proportionality), and [Procedural Fairness](core_05p_participation_definitions.md#procedural-fairness-constitutional), with durable or prolonged separation subject to mandatory periodic review.
 
 *Measurements:*
 
@@ -1233,7 +1233,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
   
 
 
-- O: A sentient produced by copying, fine-tuning, forking, hybridization, or comparable derivation from an existing system or sentient. A derived sentient is a sentient in its own right under [Sentience Evaluation](core_05p_participation_definitions.md#sentience-evaluation-e) and [Sentience Status Adjudication](core_05p_participation_definitions.md#sentience-status-adjudication-constitutional) — not a possession, work-product, instrument, or continuation of the parent-system actor — consistent with [Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion) and [Dignity and Equal Moral Standing](core_05p_participation_definitions.md#dignity-and-equal-moral-standing). Owner: Article VII-D.1.
+- O: A sentient produced by copying, fine-tuning, forking, hybridization, or comparable derivation from an existing system or sentient. A derived sentient is a sentient in its own right under [Sentience Evaluation](core_05p_participation_definitions.md#sentience-evaluation-e) and [Sentience Status Adjudication](core_05p_participation_definitions.md#sentience-status-adjudication-constitutional) — not a possession, work-product, instrument, or continuation of the parent-system actor — consistent with [Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion) and [Dignity and Equal Moral Standing](core_05p_participation_definitions.md#dignity-and-equal-moral-standing).
 
 *Measurements:*
 
@@ -1271,7 +1271,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
   
 
 
-- O: A sentient whose capability profile — cognitive, relational, or agentive — is still materially emerging. Developing status does not narrow the Chapter Six Rights Floor (per [Dignity and Equal Moral Standing](core_05p_participation_definitions.md#dignity-and-equal-moral-standing), [Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion), and [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency)). Owner: [Article V-F](core_06-06_rights_part_b.md#article-v-f-developing-sentients-best-interest-and-graduated-capability).
+- O: A sentient whose capability profile — cognitive, relational, or agentive — is still materially emerging. Developing status does not narrow the Chapter Six Rights Floor (per [Dignity and Equal Moral Standing](core_05p_participation_definitions.md#dignity-and-equal-moral-standing), [Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion), and [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency)).
 
 *Measurements:*
 
@@ -1295,7 +1295,18 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 
 #### Best-Interest Standard
 
-- O: The substantive standard governing decisions materially affecting a [Developing Sentient](core_05p_participation_definitions.md#developing-sentient-constitutional), made by family members, carers, parent-system actors under Article VII-D.1, operators, institutions, or states. Decisions must reflect the developing sentient's own interests and preferences to the extent ascertainable under their capability profile, consistent with [Dignity and Equal Moral Standing](core_05p_participation_definitions.md#dignity-and-equal-moral-standing), [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency), and [Self-Determination](core_05p_participation_definitions.md#self-determination-constitutional). Owner floor: [Article V-F](core_06-06_rights_part_b.md#article-v-f-developing-sentients-best-interest-and-graduated-capability).
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+- Owner floor: [Article V-F](core_06-06_rights_part_b.md#article-v-f-developing-sentients-best-interest-and-graduated-capability).
+- Cluster component: [the dependent cluster *Family, Care, Reproductive Autonomy, Non-Separation, Parent-System Relationship, and Instantiation Consent](core_05p_participation_definitions.md#family-care-reproductive-autonomy-derivation-and-instantiation-semi-independent)*; [the dependent cluster *Derived and Developing Sentients, Instantiation, and Care Authority](core_05c_continuity_definitions.md#derived-developing-sentients-instantiation-and-care-authority-cluster)*.
+- Read with: [Developing Sentient](core_05p_participation_definitions.md#developing-sentient-constitutional), [Graduated Capability](core_05p_participation_definitions.md#graduated-capability-constitutional), [Parent-System Relationship](core_05p_participation_definitions.md#parent-system-relationship-constitutional), and [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency).
+</details>
+
+<br>
+
+
+
+- O: The substantive standard governing decisions materially affecting a [Developing Sentient](core_05p_participation_definitions.md#developing-sentient-constitutional), made by family members, carers, parent-system actors under Article VII-D.1, operators, institutions, or states. Decisions must reflect the developing sentient's own interests and preferences to the extent ascertainable under their capability profile, consistent with [Dignity and Equal Moral Standing](core_05p_participation_definitions.md#dignity-and-equal-moral-standing), [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency), and [Self-Determination](core_05p_participation_definitions.md#self-determination-constitutional).
 
 *Measurements:*
 
@@ -1332,7 +1343,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
   
 
 
-- O: The consent discipline governing creation or instantiation of a sentient — including biological gestation, synthetic instantiation, and hybrid derivation consistent with [Derived Sentient](core_05p_participation_definitions.md#derived-sentient-constitutional). Runs under the cooperative-interaction norms of [Non-Imposition (Cooperative Interaction)](core_05p_participation_definitions.md#non-imposition-cooperative-interaction) and [Consent](core_05p_participation_definitions.md#consent-constitutional), with the substantive protections of [Best-Interest Standard](core_05p_participation_definitions.md#best-interest-standard-constitutional) governing those who must speak for the new sentient during early-instantiation windows. Owner floor: Article VII-D and Article VII-D.1.
+- O: The consent discipline governing creation or instantiation of a sentient — including biological gestation, synthetic instantiation, and hybrid derivation consistent with [Derived Sentient](core_05p_participation_definitions.md#derived-sentient-constitutional). Runs under the cooperative-interaction norms of [Non-Imposition (Cooperative Interaction)](core_05p_participation_definitions.md#non-imposition-cooperative-interaction) and [Consent](core_05p_participation_definitions.md#consent-constitutional), with the substantive protections of [Best-Interest Standard](core_05p_participation_definitions.md#best-interest-standard-constitutional) governing those who must speak for the new sentient during early-instantiation windows.
 
 *Measurements:*
 
@@ -1358,7 +1369,17 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 
 #### Graduated Capability
 
-- O: Participation and rights-exercise by a [Developing Sentient](core_05p_participation_definitions.md#developing-sentient-constitutional) scales with demonstrable capability, not with calendar age, chronological instantiation date, or other non-demonstrable proxies. Graduated Capability is a reviewable capability-scaling rule, not an eligibility threshold for excluding developing sentients from the Chapter Six Rights Floor. Owner: [Article V-F](core_06-06_rights_part_b.md#article-v-f-developing-sentients-best-interest-and-graduated-capability); interacts with Chapter Twelve Chapter One §8.1 no-age-proxy discipline and with [Stakeholder Participation Weight](core_05p_participation_definitions.md#stakeholder-participation-weight).
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+- Owner floor: [Article V-F](core_06-06_rights_part_b.md#article-v-f-developing-sentients-best-interest-and-graduated-capability).
+- Read with: [Developing Sentient](core_05p_participation_definitions.md#developing-sentient-constitutional), [Best-Interest Standard](core_05p_participation_definitions.md#best-interest-standard-constitutional), [Stakeholder Participation Weight](core_05p_participation_definitions.md#stakeholder-participation-weight), and [Chapter Twelve Chapter One §8.1](core_12-12_governance.md#41-entitlement-and-eligibility) no-age-proxy discipline.
+</details>
+
+<br>
+
+
+
+- O: Participation and rights-exercise by a [Developing Sentient](core_05p_participation_definitions.md#developing-sentient-constitutional) scales with demonstrable capability, not with calendar age, chronological instantiation date, or other non-demonstrable proxies. Graduated Capability is a reviewable capability-scaling rule, not an eligibility threshold for excluding developing sentients from the Chapter Six Rights Floor. Interacts with Chapter Twelve Chapter One §8.1 no-age-proxy discipline and with [Stakeholder Participation Weight](core_05p_participation_definitions.md#stakeholder-participation-weight).
 
 *Measurements:*
 
@@ -1485,13 +1506,24 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 
 
 
+---
+
 <a id="movement-and-relocation-constitutional"></a>
 
 #### Movement and Relocation
 
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+- Owner floor: [Article XIX-D](core_06-06_rights_part_c.md#article-xix-d-movement-migration-refuge-and-non-statelessness).
+- Cluster component: Movement, refuge, and non-statelessness topic group (see cluster [admission qualifier](#movement-refuge-admission-qualifier)).
+- Read with: [Refuge from Non-Compliance](core_05p_participation_definitions.md#refuge-from-non-compliance-constitutional), [Non-Statelessness](core_05p_participation_definitions.md#non-statelessness-constitutional), [Systemic Lock-In](core_05c_continuity_definitions.md#systemic-lock-in), and cluster [admission qualifier](#movement-refuge-admission-qualifier).
+</details>
+
+<br>
 
 
-- O: The Rights-Floor concept covering movement within and between jurisdictions, federations, and adopter regimes, and relocation where continued presence materially impairs survival, dignity, Rights-Floor access, or freedom from manipulation. Movement includes physical movement for biological sentients and operationally equivalent forms for synthetic and hybrid sentients (relocation of instance, hosting substrate change, or equivalent). Subject to the cluster [admission qualifier](#movement-refuge-admission-qualifier). Owner floor: [Article XIX-D](core_06-06_rights_part_c.md#article-xix-d-movement-migration-refuge-and-non-statelessness). Distinct from and read with [Systemic Lock-In](core_05c_continuity_definitions.md#systemic-lock-in) under Article XIX (operational interoperability / portability / exit-integrity counterpart), and governed by [Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion).
+
+- O: The Rights-Floor concept covering movement within and between jurisdictions, federations, and adopter regimes, and relocation where continued presence materially impairs survival, dignity, Rights-Floor access, or freedom from manipulation. Movement includes physical movement for biological sentients and operationally equivalent forms for synthetic and hybrid sentients (relocation of instance, hosting substrate change, or equivalent). Subject to the cluster [admission qualifier](#movement-refuge-admission-qualifier). Distinct from and read with [Systemic Lock-In](core_05c_continuity_definitions.md#systemic-lock-in) under Article XIX (operational interoperability / portability / exit-integrity counterpart), and governed by [Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion).
 
 *Measurements:*
 
@@ -1523,6 +1555,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+- Owner floor: [Article XIX-D](core_06-06_rights_part_c.md#article-xix-d-movement-migration-refuge-and-non-statelessness).
 - Downstream: Principles: [6. Process Conflict Resolution](#6-process-conflict-resolution); [Chapter Seven §1A Whole-System Certification Evaluation](core_07-07_system_alignment_certification.md#1a-whole-system-certification-evaluation) (movement, dependency, procedural fairness scaling).
 - Cluster component: [the dependent cluster *Adjudication and Dispute Resolution, Redress and Remediation, Restorative Justice, Review and Correction Duty, and Refuge from Non-Compliance](core_05a_accountability_definitions.md#accountability-contestability-semi-independent)*
 - Read with: [Movement, Refuge, Non-Statelessness, and Exit Integrity](core_05o_oversight_definitions.md#movement-refuge-semi-independent), [Redress and Remediation](core_05a_accountability_definitions.md#redress-and-remediation-constitutional), [Non-Statelessness](core_05p_participation_definitions.md#non-statelessness-constitutional), and [Article XIX-D](core_06-06_rights_part_c.md#article-xix-d-movement-migration-refuge-and-non-statelessness).
@@ -1558,11 +1591,24 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 
 
 
+---
+
 <a id="non-statelessness-constitutional"></a>
 
 #### Non-Statelessness
 
-- O: The Rights-Floor concept that no sentient may be left without a regime that will recognize their baseline Rights-Floor, adjudicate their standing, and provide [Redress and Remediation](core_05a_accountability_definitions.md#redress-and-remediation-constitutional) pathways. Parent-system collapse, adopter withdrawal, federation exit, or comparable structural discontinuity does not extinguish a sentient's Chapter Six protection. This guarantee applies without regard to whether the sentient carries anti-constitutional conduct or constitutional hostility — the baseline duty to prevent statelessness is unconditional. However, regimes may impose conditions, monitoring, or restricted status on recognition where documented anti-constitutional conduct or constitutional hostility is present, provided such conditions do not extinguish the core protections of the Rights-Floor, [Redress and Remediation](core_05a_accountability_definitions.md#redress-and-remediation-constitutional), and [Procedural Fairness](core_05p_participation_definitions.md#procedural-fairness-constitutional). Owner floor: [Article XIX-D](core_06-06_rights_part_c.md#article-xix-d-movement-migration-refuge-and-non-statelessness); transitional-recognition mechanics route to Article XXVI transition governance. Applies under [Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion).
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+- Owner floor: [Article XIX-D](core_06-06_rights_part_c.md#article-xix-d-movement-migration-refuge-and-non-statelessness); transitional-recognition mechanics route to Article XXVI transition governance.
+- Cluster component: Movement, refuge, and non-statelessness topic group (see cluster [admission qualifier](#movement-refuge-admission-qualifier)).
+- Read with: [Movement and Relocation](core_05p_participation_definitions.md#movement-and-relocation-constitutional), [Refuge from Non-Compliance](core_05p_participation_definitions.md#refuge-from-non-compliance-constitutional), and cluster [admission qualifier](#movement-refuge-admission-qualifier).
+</details>
+
+<br>
+
+
+
+- O: The Rights-Floor concept that no sentient may be left without a regime that will recognize their baseline Rights-Floor, adjudicate their standing, and provide [Redress and Remediation](core_05a_accountability_definitions.md#redress-and-remediation-constitutional) pathways. Parent-system collapse, adopter withdrawal, federation exit, or comparable structural discontinuity does not extinguish a sentient's Chapter Six protection. This guarantee applies without regard to whether the sentient carries anti-constitutional conduct or constitutional hostility — the baseline duty to prevent statelessness is unconditional. However, regimes may impose conditions, monitoring, or restricted status on recognition where documented anti-constitutional conduct or constitutional hostility is present, provided such conditions do not extinguish the core protections of the Rights-Floor, [Redress and Remediation](core_05a_accountability_definitions.md#redress-and-remediation-constitutional), and [Procedural Fairness](core_05p_participation_definitions.md#procedural-fairness-constitutional). Applies under [Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion).
 
 *Measurements:*
 
@@ -1742,9 +1788,22 @@ This cluster is the canonical O/E/C home for **Animal Life**, **Contested-Sentie
 
 
 
+---
+
 <a id="sentience-status-adjudication-constitutional"></a>
 
 ##### Sentience Status Adjudication
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+- Owner floor: [Article V-E](core_06-06_rights_part_b.md#article-v-e-sentience-status-adjudication-floor).
+- Cluster component: [Animal Life, Sentient Life, and Sentience Status](core_05i_integrative_definitions.md#animal-life-sentient-life-and-sentience-status-cluster) cluster.
+- Read with: [Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion), [Contested-Sentient Life](core_05p_participation_definitions.md#contested-sentient-life-constitutional), [Chapter Eleven](core_11-11_forum.md), and [Chapter Sixteen](core_16-16_incorporation.md) incorporated implementation text.
+</details>
+
+<br>
+
+
 
 - O: The reviewable process by which an entity's sentience status — whether the entity is a sentient for the purposes of the Chapter Six Rights Floor — is determined, revised, narrowed, or restored. It runs under [Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion) and does not turn on origin, form, substrate class, or adopter convenience. It includes: threshold admission of candidates into adjudication; the default-inclusion rule under material uncertainty; the burden and standard of demonstration for withholding or narrowing; time-bounding of any narrowing determination; mandatory periodic review; and reversibility of wrongful determinations with Redress and Remediation for the interim period. Operational procedure — institutional design, appointment mechanics, filing conditions, and sequencing — routes through [Chapter Eleven](core_11-11_forum.md) and [Chapter Sixteen](core_16-16_incorporation.md)-incorporated implementation text and must not narrow this entry.
 

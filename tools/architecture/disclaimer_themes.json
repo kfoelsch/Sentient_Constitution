@@ -143,7 +143,7 @@
       ],
       "canonical_home": "core_06-06_rights_part_*.md; Trace routing",
       "default_action": "keep",
-      "notes": "Keep short jurisdictional line or standard Trace boilerplate."
+      "notes": "Keep short jurisdictional line on O or enforceable C failure; route Chapter Six owner floor through Trace `- Owner floor:` boilerplate (DISC-INV Wave D)."
     },
     {
       "id": "scope_exclusion",
