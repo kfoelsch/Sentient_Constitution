@@ -15,10 +15,10 @@
 > The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other chapters.
 >
 > Chapters **Two through Five** form the constitutional definition stack; **[CJS](corpus_joint_structure.md)** carries operational definitions that apply it:
-> - **Chapter Two (this file)** — O/E/C definition structure and component alignment ([§1 Purpose and Role](#1-purpose-and-role)).
+> - **Chapter Two (this file)** — O/M/A/C definition structure and component alignment: every definition links **Ontological (O)** (what it is), the **Measurement (M)** register interwoven with the **Assessment (A)** duty (how it must be measured and assessed), and **Compliance (C)** (what must hold) ([§1 Purpose and Role](#1-purpose-and-role); [§2 Definition Integrity Requirement](#24-definition-integrity-requirement)).
 > - **Chapter Three** (this file) — definition integrity, evasion, and non-compliance.
 > - **Chapter Four** (this file) — burden of proof, definition traceability, observability, verification under security limits, and verification accessibility.
-> - **Chapter Five** — shared vocabulary for evaluation and compliance (stand-alone, grouped, and package definitions in sections 1–3 across the five Tetrad band files and constitutional aim files: [Flourishing aim](core_05f_flourishing_aim.md), [Oversight](core_05o_oversight_definitions.md), [Participation](core_05p_participation_definitions.md), [Accountability](core_05a_accountability_definitions.md), [Continuity](core_05c_continuity_definitions.md), [Integrative](core_05i_integrative_definitions.md)); reading order and map in [Part A](core_05-05_definitions_a_independent.md#chapter-five-compass-and-definition-map).
+> - **Chapter Five** — shared vocabulary for measurement, evaluation, and compliance (stand-alone, grouped, and package definitions in sections 1–3 across the five Tetrad band files and constitutional aim files: [Flourishing aim](core_05f_flourishing_aim.md), [Oversight](core_05o_oversight_definitions.md), [Participation](core_05p_participation_definitions.md), [Accountability](core_05a_accountability_definitions.md), [Continuity](core_05c_continuity_definitions.md), [Integrative](core_05i_integrative_definitions.md)); reading order and map in [Part A](core_05-05_definitions_a_independent.md#chapter-five-compass-and-definition-map).
 > - **CJS** — operational definitions for cross-implementation terms ([CJS-5](corpus_joint_structure/cjs_05_cross_implementation_operational_terms.md#cjs-51-constitutional-compass-and-cluster-map) operational cluster library); apply Chapter Five canonical homes—do not redefine them. Domain taxonomies and protocols in **CS**, **CI**, and **CF** follow the same rule.
 >
 > Additional navigation:
@@ -28,143 +28,227 @@
 
 <br>
 
+*In plain terms: Chapters Two through Five are the constitutional definition stack — built (Two), kept honest (Three), checked (Four), named (Five). Chapter Two builds each definition from linked parts — what a term is (O), how it must be measured and assessed (the measurement register interwoven with assessment, M/A), and what must hold in practice (C). Cross-implementation operational definitions live in [CJS](corpus_joint_structure.md) ([CJS-5 — Cross-Implementation Operational Terms](corpus_joint_structure/cjs_05_cross_implementation_operational_terms.md#cjs-51-constitutional-compass-and-cluster-map)); they apply Chapter Five terms and do not redefine them.*
+
+<br>
+
 ## CHAPTER TWO: DEFINITION STRUCTURE AND COMPONENT REQUIREMENTS
 
 <br>
 
-*In plain terms: Chapters Two through Five are the constitutional definition stack — built (Two), kept honest (Three), checked (Four), named (Five). Cross-implementation operational definitions live in [CJS](corpus_joint_structure.md) ([CJS-5](corpus_joint_structure/cjs_05_cross_implementation_operational_terms.md#cjs-51-constitutional-compass-and-cluster-map)); they apply Chapter Five terms and do not redefine them. This chapter owns the first layer.*
-
 ### 1. Purpose and Role
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-Chapters **Two through Five** form the constitutional definition stack; **[CJS](corpus_joint_structure.md)** carries operational definitions that apply it:
+- Upstream: [Chapter 00 §1 The Model](core_00_preamble.md#the-model) — [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims), and [material stake](core_00_preamble.md#material-stake) scaling apply chapter-wide through section traces; [Chapter One §1 Purpose and Role](core_01_a_values_principles.md#1-purpose-and-role) (*values and constraints this definition stack serves*).
+- Upstream: [Chapter Two opening](#chapter-two-definition-structure-and-component-requirements) — O/M/A/C decomposition and internal-alignment requirement.
+- Tetrad leg(s): **oversight**, **accountability** (definitions must be assessable and enforceable on observable behavior). Primary aim(s): **Flourishing** and **Continuity**. [material stake](core_00_preamble.md#material-stake) scaling applies chapter-wide.
+- Downstream: [§1.2 Measurement Components](#12-measurement-components) and [§1.3 Assessment Components](#12-assessment-components) (*Measurement (M) register interwoven with the assessment duty; [MEAS-DEF-01](doc_architecture.md#measurement-informed-ec-meas-def-01) O/M/A/C entry model*); [§2 Definition Integrity Requirement](#24-definition-integrity-requirement); [Chapter Three, section 1 — Definition Integrity and Anti-Evasion Constraints](#1-definition-integrity-and-anti-evasion-constraints); [Chapter Four, section 1 — Exclusive Enforcement and Burden Allocation](#1-exclusive-enforcement-and-burden-allocation); [Chapter Five compass and definition map](core_05-05_definitions_a_independent.md#chapter-five-compass-and-definition-map).
+- Read with: [Constitutional Owner Layers](core_05i_integrative_definitions.md#constitutional-owner-layers) and [Authority Stack and Internal Hierarchy](core_05i_integrative_definitions.md#authority-stack); [Constitutional Constraint](core_05i_integrative_definitions.md#constitutional-constraint) — later enforcement, governance, implementation, measurement, audit, and classification mechanics must comply; [CJS-5.1 Constitutional compass and cluster map](corpus_joint_structure/cjs_05_cross_implementation_operational_terms.md#cjs-51-constitutional-compass-and-cluster-map) — operational definitions apply, and MUST NOT redefine, Chapter Five canonical homes.
 
-- **Chapter Two (this chapter)** — definition structure and component alignment:
-  - Every definition MUST be built from three linked parts:
-    - **Ontological (O)** — what the term refers to
-    - **Evaluative (E)** — how it must be assessed
-    - **Compliance (C)** — what must hold in practice
-  - Those three parts MUST stay consistent within each definition; satisfying one while bypassing or weakening another does not count.
-  - Enforcement, governance, implementation, measurement, audit, and classification mechanics beyond definitional scope belong in later chapters; they MUST comply with [Constitutional Constraints](core_05i_integrative_definitions.md#constitutional-constraint) established here.
-- **Chapter Three** — whether definitions stay intact; what counts as evasion or non-compliance.
-- **Chapter Four** — who must prove what; definition traceability; observability; verification under security limits; who can actually access verification.
-- **Chapter Five** — the shared vocabulary for evaluation and compliance:
-  - Terms fall into three groups:
-    - stand-alone definitions (section 1)
-    - definitions that must be read together (section 2)
-    - definitions built from other definitions (section 3)
-  - Organization and enforceability:
-    - five Tetrad band files — [Oversight](core_05o_oversight_definitions.md), [Participation](core_05p_participation_definitions.md), [Accountability](core_05a_accountability_definitions.md), [Continuity](core_05c_continuity_definitions.md), and [Integrative](core_05i_integrative_definitions.md); constitutional aim files — [Flourishing aim](core_05f_flourishing_aim.md)
-    - enforceability — [Supremacy and Enforceability](core_05i_integrative_definitions.md#supremacy-and-enforceability)
-- **CJS** — operational definitions for cross-implementation terms in [corpus_joint_structure.md](corpus_joint_structure.md), chiefly the [CJS-5 operational cluster library](corpus_joint_structure/cjs_05_cross_implementation_operational_terms.md#cjs-51-constitutional-compass-and-cluster-map); apply Chapter Five canonical homes and MUST NOT redefine them. Domain taxonomies and protocols in **CS**, **CI**, and **CF** follow the same rule.
+</details>
+
+<br>
+
+*In plain terms: this section is Chapter Two's job description. It owns the first layer of the definition stack: every constitutional definition is built from linked parts — what a term is (O), how it must be measured and assessed (the Measurement register interwoven with evaluation, M/E), and what must hold in practice (C) — and those parts must stay aligned. Satisfying one while sidestepping another does not count. Enforcement, governance, and measurement operations live in later chapters and must comply with what this chapter establishes.*
+
+Chapter Two is the constitutional owner of **definition structure and component alignment**. Layer discipline is under [Constitutional Owner Layers](core_05i_integrative_definitions.md#constitutional-owner-layers), read with [Authority Stack and Internal Hierarchy](core_05i_integrative_definitions.md#authority-stack).
+
+Every constitutional definition MUST be built from linked parts, each with exactly one job:
+- **Ontological (O)** — what the term is about.
+- **Measurement (M)** — which measure applies at each tier. Measurement routing points assessment; it does not set pass/fail outcomes.
+- **Assessment (A)** — how the term must be assessed. On Chapter Five leaf definitions, the **Measurement (M)** register is woven into the **Assessment (A)** component. See [§1.3 Assessment Components](#12-assessment-components) and the [O/M/A/C entry model](doc_architecture.md#measurement-informed-ec-meas-def-01).
+- **Compliance (C)** — what must be true in practice.
+
+Those parts MUST stay consistent within each definition. Enforcement, governance, implementation, measurement operations, audit, and classification mechanics beyond definitional scope belong in later chapters; they MUST comply with the [Constitutional Constraints](core_05i_integrative_definitions.md#constitutional-constraint) established here.
 
 <a id="2-requirements-for-definition-structure"></a>
 <a id="2-definition-structure-requirement"></a>
 
-### 2. Requirements for Definition Structure
+Every definition MUST be met for the whole system as it actually runs — including systems spread across sentients, machines, and locations. The O, M, A, and C parts MUST all pass together, on the same scope and under the same test conditions. Passing one part by carving out pieces of the system, narrowing what counts, or weakening another part does not count.
+
+#### 1.1 Ontological Components (O) — What It Is
+
+*In plain terms: the O part answers one simple question — **what is this term about?** It names the thing and draws its edges. It does not say how to measure or judge the term, and it does not say what counts as passing or failing; those come later.*
+
+The Ontological part (O) describes what the term is about. It must not say how to measure or assess the term, and it must not say what counts as passing or failing — those live in the Measurement (M), Assessment (A), and Compliance (C) parts. It must also match how the system really works: a name, an official category, a jurisdiction, or a stated purpose does not settle what a term covers when real behavior or real effects say otherwise.
+
+On a definition, the O part is written as a short list of labelled fields. Each field answers a plain question:
+
+- **In scope:** what the term *does* cover. This lists the real parts of the system, how they work together, what they rely on, and the effects that actually matter for this term.
+- **Out of scope:** what the term *does not* cover. This is where things are ruled out — above all, anything that wears the right label but has no real effect on the matter the term governs.
+- **Depends on:** *(used only when it applies)* any *other*, already-defined thing this term is built on top of — for example a limit, a minimum floor, or a target it assumes is already in place. If the term only makes sense once that other thing exists, it is named here.
+
+A few things deliberately do **not** go in the O part:
+
+- what the term *feeds into*, or the larger group it *sits within* — that belongs with the definition's cross-references, not here;
+- how the term is measured or assessed — that belongs in M and A;
+- what counts as meeting or breaking the term — that belongs in C.
+
+The exact sub-bullet labels, formatting, and cross-reference placement that carry O on Chapter Five definitions are specified in the [O/M/A/C entry model](doc_architecture.md#measurement-informed-ec-meas-def-01).
+
+<a id="12-measurement-components"></a>
+
+#### 1.2 Measurement Components (M) — How It Must Be Measured
+
+*In plain terms: the M part answers one simple question — **what should we look at to judge this term?** It names the measures that apply. It does not say whether the term passes or fails; that comes later.*
+
+The Measurement part (M) says which measure applies to a term at each tier. It points assessment toward the right evidence. It must not say what counts as passing or failing — that belongs only in the Compliance part (C).
+
+On Chapter Five leaf definitions, M is woven into the Assessment part (A) under the reader-facing header **How to measure and assess**. Each tier names its measure first, then its matching assessment on the line directly beneath. The fields work like this:
+
+- **Primary measure:** the main thing to look at first — the first evidence trail evaluators should follow for this term in this context.
+- **Secondary measure:** *(used when it applies)* additional measures that must be included alongside the primary one — not optional extras. They widen the check so a problem cannot hide behind a narrow slice of evidence.
+- **Tertiary measure:** *(used when it applies)* integrity checks on the measures themselves — especially where numbers, labels, self-reports, or formal categories might stand in for real outcomes.
+
+Not every definition needs all three tiers. Some terms declare a primary measure only; others add secondary or tertiary measures when the term needs a wider or deeper check.
+
+A few things deliberately do **not** go in the M part:
+
+- what counts as meeting or breaking the term — that belongs in C;
+- what the term is about — that belongs in O;
+- the full assessment duty on its own — that belongs in A (though each measure is paired with its assessment on the line beneath it).
+
+The exact sub-bullet labels, formatting, and cross-reference placement that carry M on Chapter Five definitions are specified in the [O/M/A/C entry model](doc_architecture.md#measurement-informed-ec-meas-def-01).
+
+<a id="12-assessment-components"></a>
+
+#### 1.3 Assessment Components (A) — How It Must Be Assessed
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: [Chapter Two opening](#chapter-two-definition-structure-and-component-requirements) — O/E/C decomposition and internal alignment requirement.
-- Downstream: [2.4 Definition Integrity Requirement](#24-definition-integrity-requirement); [Chapter Two, 2.4.4 — Internal Consistency Conditions](#24-internal-consistency-conditions); [Chapter Three, section 1 — Definition Integrity and Anti-Evasion Constraints](#1-definition-integrity-and-anti-evasion-constraints); [Chapter Four, section 1 — Exclusive Enforcement and Burden Allocation](#1-exclusive-enforcement-and-burden-allocation); [Chapter Four, section 2 — Compliance Evidence Standard](#2-compliance-evidence-standard).
-
-</details>
-
-<br>
-
-*In plain terms: each term is defined in three linked parts — what it refers to (O), how to assess it (E), and what must hold in the real world (C). All three must pass together on the same whole system and under the same rules, including when that system is spread across sites, machines, or actors. Satisfying one part while sidestepping or watering down another does not count.*
-
-Every definition MUST be built from separate parts. Each part MUST do exactly one of these jobs:
-- Ontological (O): what the subject of the definition is
-- Evaluative (E): how the subject must be assessed
-- Compliance (C): what must be true in practice
-
-Every definition MUST be met for the whole system as it actually runs — including systems spread across sentients, machines, and locations. O, E, and C MUST all pass together, on the same scope and under the same test conditions. Passing one part by carving out pieces of the system, narrowing what counts, or weakening another part does not count.
-
-#### 2.1 Ontological Components (O) — What It Is
-Ontological components define the subject of the definition. Ontological components must not encode evaluation procedures or compliance outcomes. They must:
-- specify the nature of the concept
-- define inclusion and exclusion boundaries
-- identify the relevant system components, interactions, dependencies, and effects
-
-Ontological components must reflect functional reality. They must not rely on formal classification, labeling, jurisdiction, or declared intent where such representations diverge from actual system behavior or effects.
-
-Every O component MUST include at least one **In scope** sub-bullet and at least one **Out of scope** sub-bullet as indented children under `- O:` (or `- **O:**`):
-- **Flexible In scope form:** either a single consolidated `- In scope:` line, or one or more dimensional lines using `- In scope — {dimension}:` (e.g. domains, sentients, spaces, substrates).
-- The opening O sentence remains the concept statement; scope sub-bullets carry inclusion and exclusion boundaries — not evaluation procedures or compliance outcomes.
-- Optional additional bullets (e.g. `- Not narrowed here:`, `- *Term* is distinct from …`) may follow scope sub-bullets when they clarify boundaries without replacing In scope / Out of scope.
-
-#### 2.2 Evaluative Components (E) — How It Must Be Assessed
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Upstream: Principles: [Chapter Two opening](#chapter-two-definition-structure-and-component-requirements); [2. Requirements for Definition Structure](#2-definition-structure-requirement) — E component role within O/E/C decomposition.
+- Upstream: Principles: [Chapter Two opening](#chapter-two-definition-structure-and-component-requirements); [§1 Purpose and Role](#1-purpose-and-role) — A component role within O/M/A/C decomposition.
 - Downstream: [Chapter Three, section 1 — Definition Integrity and Anti-Evasion Constraints](#1-definition-integrity-and-anti-evasion-constraints); [Chapter Four, section 1 — Exclusive Enforcement and Burden Allocation](#1-exclusive-enforcement-and-burden-allocation) — exclusive enforcement pathway for evaluation requirements defined in Chapters Two and Three; [Chapter Four, section 2 — Compliance Evidence Standard](#2-compliance-evidence-standard) — evidence sufficiency for that enforcement.
-- Read with: [Chapter Five Independent Definitions](core_05-05_definitions_a_independent.md#1-interdependent-definitions) — applicable definitions that govern evaluative scope and conditions.
+- Read with: [Chapter Five Independent Definitions](core_05-05_definitions_a_independent.md#1-interdependent-definitions) — applicable definitions that govern assessment scope and conditions; assessment requirements apply consistently with every applicable Chapter Five definition within its admission scope.
 
 </details>
 
 <br>
 
-Evaluative components define how a definition must be assessed. Evaluative components must not prescribe or imply required outcomes. All enforceable outcomes must be defined exclusively in Compliance components. On Chapter Five leaf definitions, measurement tier routing (the **Measurement (M)** register) is interwoven with the assessment duty inside the evaluation component, with each tier stating its measure on the tier bullet (`**Primary measure:**`) and its assessment on the continuation line beneath (`**Primary assessment:**`), consistent with the [MEAS-DEF-01](doc_architecture.md#measurement-informed-ec-meas-def-01) O/M/E/C entry model; migrated homes present this component under the reader-facing **How to measure and assess** guidepost header (preserving the `#{term}-e` anchor), and the measurement register carries routing only and remains subordinate to this component's outcome constraint. They must:
-- specify required evaluation scope
-- specify required evaluation conditions
-- specify treatment of uncertainty where relevant
+*In plain terms: the A part answers one simple question — **how must this term be judged?** It says what evaluators must look at, under what conditions, and how to handle uncertainty. It does not say whether the term passes or fails; that comes later.*
 
-All evaluation requirements defined in **Chapters Two and Three** must be enforced under **Chapter Four, section 1 — Exclusive Enforcement and Burden Allocation**, with evidence sufficiency governed by **Chapter Four, section 2 — Compliance Evidence Standard**. They must be applied consistently with all applicable Chapter Five definitions, including Independent Definitions, Semi-independent Definitions, and Dependent clusters where their admission scope applies.
+The Assessment part (A) says how a definition must be assessed. It must not say what counts as passing or failing — that belongs only in the Compliance part (C).
 
-#### 2.3 Compliance Components (C) — What Must Be True in Practice
-Compliance components define the required real-world conditions that must be satisfied. They must:
-- specify observable and enforceable outcomes
-- define conditions under which a definition is satisfied or violated
-- operate independently of internal system claims, representations, or intent
+On individual term definitions in Chapter Five, measurement (M) and assessment (A) appear together in one section titled **How to measure and assess**.
 
-#### 2.4 Definition Integrity Requirement
-##### 2.4.1 Core Integrity Conditions
-Definitions must be internally coherent. They must preserve full alignment between their Ontological (O), Evaluative (E), and Compliance (C) components under all applicable evaluation conditions and functional system contexts. A definition is satisfied only where all Ontological (O), Evaluative (E), and Compliance (C) components are jointly satisfied.
+Within that section, each tier is a pair: the measure comes first, and the assessment for that measure sits on the line directly beneath it. The assessment fields are:
 
-Joint satisfaction requires the same functional system scope and evaluation conditions. Failure to satisfy any component is non-compliant.
+- **Primary assessment:** how to judge the primary measure — what evaluators must assess first, and what that check must actually reach (substance, not just labels or paperwork).
+- **Secondary assessment:** *(used when it applies)* how to judge the secondary measures — what must be included when the primary measure looks fine but wider evidence still matters.
+- **Tertiary assessment:** *(used when it applies)* how to judge the tertiary measures — checks on whether proxies, metrics, or formal categories still track real outcomes.
 
-##### 2.4.2 Non-Compliance by Structural or Applied Weakening
-A definition is non-compliant if its structure, interpretation, or application permits satisfaction of any component in a manner that:
-- weakens, bypasses, or contradicts any other component
-- produces outcomes that would not satisfy the full semantic, evaluative, and compliance scope of the definition under full functional system conditions
-- enables partial, selective, or condition-dependent satisfaction that would not hold under required evaluative conditions
+Across all tiers, the A part must:
 
-##### 2.4.3 Construction Constraints
-Definitions must be constructed such that:
-- all components (O, E, C) are jointly satisfiable only under conditions that reflect real-world system behavior and outcomes
-- no component can be satisfied through abstraction, decomposition, scoping, or representation that excludes materially relevant system elements, interactions, or effects
-- no implicit assumptions, structural dependencies, or omitted conditions alter or weaken required evaluation scope or compliance outcomes
+- say what must be assessed;
+- say under what conditions assessment must happen;
+- say how to handle uncertainty where it matters.
+
+A few things deliberately do **not** go in the A part:
+
+- what counts as meeting or breaking the term — that belongs in C;
+- what the term is about — that belongs in O;
+- which measure applies at each tier on its own — that belongs in M (though each measure is paired with its assessment on the line beneath it).
+
+The exact sub-bullet labels, formatting, and cross-reference placement that carry A on Chapter Five definitions are specified in the [O/M/A/C entry model](doc_architecture.md#measurement-informed-ec-meas-def-01).
+
+When these assessment rules are put to the test, the judgment must rest on enough real evidence — not on claims or paperwork alone — and the same rules must apply wherever the term applies.
+
+#### 1.4 Compliance Components (C) — What Must Be True in Practice
+
+*In plain terms: the C part answers one simple question — **what must actually hold, and when has this term been broken?** It states the real-world conditions that must be met and the failures that count — based on what can be seen in behavior and effects, not on what the system claims about itself.*
+
+The Compliance part (C) states the real-world conditions that must hold for a term to be met. It must work from observable behavior and effects — not from the system's own claims, paperwork, or stated intent.
+
+On individual term definitions in Chapter Five, the Compliance part (C) appears under the heading **What must hold**. The fields work like this:
+
+- **Primary failure:** when the term is broken at the primary tier — for example when the main measure is hollow, untraceable, or contradicted by how the system actually works.
+- **Secondary failure:** *(used when it applies)* when the term is broken at the secondary tier — for example when the primary check looks stable but something wider still defeats the term, such as a breakdown in a system it depends on or a connected system it interacts with.
+- **Tertiary failure:** *(used when it applies)* when the term is broken at the tertiary tier — for example when a proxy or metric is treated as enough on its own, or when known divergence is ignored or left uncorrected.
+
+Not every definition lists all three failure tiers. Some terms declare a primary failure only; others add secondary or tertiary failures when the term needs tier-aligned breach conditions.
+
+Across all tiers, the C part must:
+
+- state outcomes that can be observed and enforced;
+- state when the definition is met or violated;
+- stay tied to real behavior and effects, not to labels, formal categories, or stated purpose alone.
+
+A few things deliberately do **not** go in the C part:
+
+- what the term is about — that belongs in O;
+- which measures apply or how assessment must run — that belongs in M and A.
+
+The exact sub-bullet labels, formatting, and cross-reference placement that carry C on Chapter Five definitions are specified in the [O/M/A/C entry model](doc_architecture.md#measurement-informed-ec-meas-def-01).
+
+<a id="24-definition-integrity-requirement"></a>
+
+### 2. Definition Integrity Requirement
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: [§1 Purpose and Role](#1-purpose-and-role) — O/M/A/C component structure and whole-system joint-satisfaction rule.
+- Downstream: [§2.4 Interpretation Rule Under Ambiguity](#245-interpretation-rule-under-ambiguity); [§3 Consistency Across the Definition Stack](#24-internal-consistency-conditions); [Chapter Three, section 1 — Definition Integrity and Anti-Evasion Constraints](#1-definition-integrity-and-anti-evasion-constraints); [Chapter Four, section 1 — Exclusive Enforcement and Burden Allocation](#1-exclusive-enforcement-and-burden-allocation); [Chapter Four, section 2 — Compliance Evidence Standard](#2-compliance-evidence-standard).
+- Read with: [Chapter Five Clustered Definitions (Foreseeability Diligence)](core_05o_oversight_definitions.md#foreseeability-diligence) — operative meaning for every “reasonably foreseeable” in Chapters Two through Four.
+
+</details>
+
+<br>
+
+*In plain terms: building a definition correctly is not enough — it must stay intact when applied. Definitions cannot be satisfied piecemeal, weakened by interpretation, or gamed through scope carving — including by optimizing a measure while the outcome it stands for degrades. Where the language allows more than one reading, choose the one that preserves full protective scope.*
+
+#### 2.1 Core Integrity Conditions
+Every definition must hold together. Each one is built from three parts: what the term is (its Ontological part, O), how it must be measured and assessed (its Assessment part, A, with the Measurement register, M, woven into it), and what must be true in practice (its Compliance part, C). Those parts must agree with one another in every setting and system where the definition applies. A definition is met only when its O, A, and C parts are all met together; satisfying one or two of them is not enough. (For how the Measurement register sits inside the Assessment part, see the [O/M/A/C entry model](doc_architecture.md#measurement-informed-ec-meas-def-01).)
+
+The parts must be met on the same system and under the same conditions — you cannot pass one part on a narrow slice and another part on a different slice. Failing any part means the definition is not met. Where a definition uses measures, those measures must track what they are supposed to assess and the real-world result they stand for; hitting a measure while the real-world result falls short does not meet the definition.
+
+<a id="242-non-compliance-by-structural-or-applied-weakening"></a>
+
+#### 2.2 Non-Compliance by Structural or Applied Weakening
+A definition is not met if the way it is built, read, or applied lets one part be satisfied while:
+- undercutting, sidestepping, or clashing with another part
+- producing results that would not meet the definition's full meaning, assessment, and real-world requirements when the whole system is running
+- allowing it to pass only in part, only for selected cases, or only under certain conditions — passes that would not hold up under the conditions the definition actually requires
+
+#### 2.3 Construction Constraints
+Definitions must be written so that:
+- all parts (O, M, E, C) can only be met together under conditions that reflect how the system really behaves and what it really produces
+- no part can be met by generalizing, splitting things up, narrowing the scope, or describing them in a way that leaves out system elements, interactions, or effects that actually matter
+- no measure stands in for the result it is meant to capture; a measure that drifts from the real-world result it represents (see [Proxy Divergence](core_05o_oversight_definitions.md#proxy-divergence)) cannot meet the definition, and the choice of measures must not shrink what has to be assessed or what has to hold in practice
+- no unstated assumptions, hidden dependencies, or left-out conditions change or weaken what must be assessed or what must hold in practice
+
+<a id="245-interpretation-rule-under-ambiguity"></a>
+
+#### 2.4 Interpretation Rule Under Ambiguity
+When a definition can be read in more than one reasonable way, use the reading that keeps its full meaning. That reading governs how the definition is applied. The reading must also keep assessment rigorous, and it must keep the real-world requirements intact.
+
+A definition must not be used to judge or decide compliance if applying it forces a contradiction within the definition, a gap between the scope it states and what actually has to be covered, or a pass on one part while another required part is sidestepped.
+
+A broken definition is non-compliant on its own. That holds even when the system looks like it is behaving fine and even when nothing has gone wrong yet.
+
+If one reasonable reading would weaken safeguards, narrow what must be checked, or lower the required real-world results compared with another reading the wording and structure allow, that weaker reading is not allowed.
 
 <a id="24-internal-consistency-conditions"></a>
 
-##### 2.4.4 Internal Consistency Conditions
+### 3. Consistency Across the Definition Stack
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: [2.4 Definition Integrity Requirement](#24-definition-integrity-requirement); [2. Requirements for Definition Structure](#2-definition-structure-requirement).
+- Upstream: Principles: [§2 Definition Integrity Requirement](#24-definition-integrity-requirement); [§1 Purpose and Role](#1-purpose-and-role).
 - Downstream: [Chapter Three, section 2 — Non-Compliance from Observable System Behavior](#2-non-compliance-from-observable-system-behavior); [Chapter Four, section 3 — Definition Traceability Requirement](#3-definition-traceability-requirement); Chapter Four sections **2.1**, **4**, **5**, and **6** where “reasonably foreseeable” appears without an inline Chapter Five pointer.
 - Read with: [Chapter Five Clustered Definitions (Foreseeability Diligence)](core_05o_oversight_definitions.md#foreseeability-diligence) — governing rule for every “reasonably foreseeable” in Chapters Two through Four; operative meaning in [Reasonably Foreseeable](core_05o_oversight_definitions.md#reasonably-foreseeable) (Chapter Five, section 3 — Dependent clusters (Truth and Epistemic Integrity cluster; Foreseeability Diligence)).
 
 </details>
 
-<strong><span style="color: #2563eb;">Definition:</span></strong> [Foreseeability](core_05o_oversight_definitions.md#foreseeability-diligence) · [O](core_05o_oversight_definitions.md#foreseeability-diligence) · [E](core_05o_oversight_definitions.md#foreseeability-diligence-e) · [C](core_05o_oversight_definitions.md#foreseeability-diligence-c)
+<strong><span style="color: #2563eb;">Definition:</span></strong> [Foreseeability](core_05o_oversight_definitions.md#foreseeability-diligence) · [O](core_05o_oversight_definitions.md#foreseeability-diligence) · [A](core_05o_oversight_definitions.md#foreseeability-diligence-a) · [C](core_05o_oversight_definitions.md#foreseeability-diligence-c)
 
-All uses of “reasonably foreseeable” in **Chapters Two through Four** are governed exclusively by the Foreseeability definitions in Chapter Five, section 3 — Dependent clusters (Truth and Epistemic Integrity cluster; Foreseeability Diligence). They must be explicitly traceable where invoked.
+*In plain terms: a definition doesn't just have to hold together on paper — it has to hold together across the definition stack in the real world. Its parts must line up the same way across normal, degraded, and adversarial operation, over time, across connected systems, in every situation you could reasonably see coming, and under every fair reading of its words.*
 
-Internal consistency must hold across:
-- full functional system conditions; those conditions include normal, degraded, adversarial, temporal, and cross-system interaction contexts where materially relevant.
-- all reasonably foreseeable conditions as defined in Chapter Five, section 3 — Dependent clusters (Truth and Epistemic Integrity cluster; Foreseeability Diligence) (Foreseeability)
-- all valid interpretations consistent with the definition’s language and structure
+Whenever “reasonably foreseeable” appears anywhere in **Chapters Two through Four**, it means exactly what the Foreseeability definitions in Chapter Five, section 3 — Dependent clusters (Truth and Epistemic Integrity cluster; Foreseeability Diligence) say — nothing looser. Each use must point clearly back to those definitions.
 
-##### 2.4.5 Interpretation Rule Under Ambiguity
-Where multiple valid interpretations of a definition are possible, choose the interpretation that preserves the definition’s full semantic scope. That choice governs how the definition is applied. Interpretation must also preserve evaluative rigor. It must preserve compliance requirements. 
-
-A definition must not be used to evaluate compliance or to decide compliance when applying it necessarily involves contradiction within the definition, mismatch between the stated scope and what must be covered, or satisfying one definitional component while sidestepping another required component.
-
-Failure of definition integrity is non-compliance by itself. That remains true even when observed system behavior looks acceptable or when no adverse outcome occurred.
-
-If an interpretation would weaken safeguards, shrink what must be evaluated, or diminish required real-world outcomes compared with another interpretation consistent with the definition’s language and structure, that interpretation is invalid.
+A definition's parts must stay consistent across:
+- the full range of conditions the system runs under — including normal operation, degraded operation, adversarial pressure, changes over time, and interactions with other systems, wherever those matter.
+- every reasonably foreseeable condition, as set out in Chapter Five, section 3 — Dependent clusters (Truth and Epistemic Integrity cluster; Foreseeability Diligence) (Foreseeability)
+- every reasonable reading the definition's wording and structure allow
 
 ## CHAPTER THREE: DEFINITION INTEGRITY, EVASION, AND NON-COMPLIANCE
 
@@ -174,7 +258,7 @@ If an interpretation would weaken safeguards, shrink what must be evaluated, or 
 > The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this chapter or in other chapters.
 >
 > Where this lives (navigation):
-> - **Constitutional owner:** definition integrity, evasion, and non-compliance for evaluative work. **Chapter Two** owns structure; **Chapter Four** owns burden and trace artifacts; **Chapter Five** owns canonical definitions.
+> - **Constitutional owner:** definition integrity, evasion, and non-compliance for assessment work. **Chapter Two** owns structure; **Chapter Four** owns burden and trace artifacts; **Chapter Five** owns canonical definitions.
 > - **Implementation owner:** standing records, forum process, and implementation protocols operationalize these rules without replacing them.
 > - **Anti-relocation rule:** this chapter does not assign standing slots, forum routing, or final anti-constitutional misconduct classification.
 
@@ -188,7 +272,7 @@ If an interpretation would weaken safeguards, shrink what must be evaluated, or 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: [Chapter Two, section 2 — Requirements for Definition Structure](#2-definition-structure-requirement); [Chapter Two, 2.4 Definition Integrity Requirement](#24-definition-integrity-requirement).
+- Upstream: Principles: [Chapter Two, §1 — Purpose and Role](#1-purpose-and-role); [Chapter Two, §2 Definition Integrity Requirement](#24-definition-integrity-requirement).
 - Downstream: [Chapter Three, section 2 — Non-Compliance from Observable System Behavior](#2-non-compliance-from-observable-system-behavior); [Chapter Four, section 2 — Compliance Evidence Standard](#2-compliance-evidence-standard); [Chapter Four, section 3 — Definition Traceability Requirement](#3-definition-traceability-requirement); [Chapter Eight — Contribution, Violation, and Standing Model](core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model).
 - Read with: [Chapter One, section 4.2 — Truth (Epistemic Integrity Constraint)](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint) — interpretation based on observable behavior rather than declared structure or intent operationalizes the constitutional truth constraint at the definition-integrity layer.
 
@@ -221,17 +305,17 @@ If an interpretation would weaken safeguards, shrink what must be evaluated, or 
 
 <br>
 
-This section governs how definitions must be interpreted and applied in practice. Definitions must be interpreted and applied based on observable system behavior and outcomes under full functional system conditions. Interpretations, constructions, and system behaviors that undermine the full semantic, evaluative, and compliance scope of definitions — corresponding to their Ontological (O), Evaluative (E), and Compliance (C) components — are prohibited; [**Section 2**](#2-non-compliance-from-observable-system-behavior) of this chapter specifies non-compliance from observable behavior and evasion. Functional equivalence prevails over naming, structure, decomposition, representation, or declared intent; the outcomes a system produces govern how it is classified and evaluated.
+This section governs how definitions must be interpreted and applied in practice. Definitions must be interpreted and applied based on observable system behavior and outcomes under full functional system conditions. Interpretations, constructions, and system behaviors that undermine the full semantic, assessment, and compliance scope of definitions — corresponding to their Ontological (O), Assessment (A), and Compliance (C) components — are prohibited; [**Section 2**](#2-non-compliance-from-observable-system-behavior) of this chapter specifies non-compliance from observable behavior and evasion. Functional equivalence prevails over naming, structure, decomposition, representation, or declared intent; the outcomes a system produces govern how it is classified and evaluated.
 
-This section does not define evaluation standards, evidence sufficiency, or burden of proof, which are governed exclusively by **Chapter Two, section 2** and **Chapter Four, sections 1 and 2**.
+This section does not define evaluation standards, evidence sufficiency, or burden of proof, which are governed exclusively by **Chapter Two, section 1** and **Chapter Four, sections 1 and 2**.
 
 ### 2. Non-Compliance from Observable System Behavior
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: [Chapter Three, section 1 — Definition Integrity and Anti-Evasion Constraints](#1-definition-integrity-and-anti-evasion-constraints); [Chapter Two, 2.4 Definition Integrity Requirement](#24-definition-integrity-requirement).
+- Upstream: Principles: [Chapter Three, section 1 — Definition Integrity and Anti-Evasion Constraints](#1-definition-integrity-and-anti-evasion-constraints); [Chapter Two, §2 Definition Integrity Requirement](#24-definition-integrity-requirement).
 - Downstream: the non-reductive, reductive, cross-component, cross-system, temporal, and uncertainty integrity constraints in sections [2.1](#21-evasion-is-non-compliance) through [2.7](#27-uncertainty-integrity-and-non-exploitation-constraint) of this chapter; [Chapter Four, section 4 — Observability of Traceability Requirement](#4-observability-of-traceability-requirement); [Chapter Eight — Contribution, Violation, and Standing Model](core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model).
-- Read with: [Chapter Two, section 2 — Requirements for Definition Structure](#2-definition-structure-requirement) for the joint-satisfaction rule under full functional system conditions; [Chapter Four, 2.1 — Verification requirements for evidence](#21-verification-requirements-for-evidence) — observable outcomes govern declared representations at the evidence layer.
+- Read with: [Chapter Two, §1 — Purpose and Role](#1-purpose-and-role) for the joint-satisfaction rule under full functional system conditions; [Chapter Four, 2.1 — Verification requirements for evidence](#21-verification-requirements-for-evidence) — observable outcomes govern declared representations at the evidence layer.
 
 </details>
 
@@ -239,7 +323,7 @@ This section does not define evaluation standards, evidence sufficiency, or burd
 
 This section defines when systems are non-compliant based on observable behavior and outcomes, including where declared behavior or scope diverges from actual effects.
 
-A system is non-compliant where its observable behavior or outcomes would violate a definition. That violation is assessed under full application of its Ontological (O), Evaluative (E), and Compliance (C) components. That rule applies regardless of declared structure, interpretation, or implementation.
+A system is non-compliant where its observable behavior or outcomes would violate a definition. That violation is assessed under full application of its Ontological (O), Assessment (A), and Compliance (C) components. That rule applies regardless of declared structure, interpretation, or implementation.
 
 Systems are non-compliant where:
 - declared system behavior, representations, or audit artifacts conflict with observable outcomes; in that case, observable outcomes govern
@@ -249,9 +333,9 @@ Systems are non-compliant where:
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: [Chapter Three, section 2 — Non-Compliance from Observable System Behavior](#2-non-compliance-from-observable-system-behavior); [Chapter Two, 2.4.2 Non-Compliance by Structural or Applied Weakening](#242-non-compliance-by-structural-or-applied-weakening).
+- Upstream: Principles: [Chapter Three, section 2 — Non-Compliance from Observable System Behavior](#2-non-compliance-from-observable-system-behavior); [Chapter Two, §2.2 Non-Compliance by Structural or Applied Weakening](#242-non-compliance-by-structural-or-applied-weakening).
 - Downstream: [2.2 Non-Reductive Evasion Types](#22-non-reductive-evasion-types); [2.3 Reductive Evasion](#23-reductive-evasion); [Chapter Four, 2.4 — Disqualifying evidence; uncertainty; default rule](#24-disqualifying-evidence-uncertainty-default-rule); [Chapter Seven §10](core_07-07_system_alignment_certification.md#10-reopening-drift-and-non-evasion) (*system alignment certification reopening and anti-evasion pointer*); [Chapter Eight — Contribution, Violation, and Standing Model](core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model).
-- Read with: [Chapter Two, 2.4.5 Interpretation Rule Under Ambiguity](#245-interpretation-rule-under-ambiguity) — interpretations that weaken safeguards, shrink what must be evaluated, or worsen real-world results are invalid and reinforce the anti-evasion determination made on observable outcomes rather than declared intent.
+- Read with: [Chapter Two, §2.4 Interpretation Rule Under Ambiguity](#245-interpretation-rule-under-ambiguity) — interpretations that weaken safeguards, shrink what must be evaluated, or worsen real-world results are invalid and reinforce the anti-evasion determination made on observable outcomes rather than declared intent.
 
 </details>
 
@@ -259,14 +343,14 @@ Systems are non-compliant where:
 
 Evasion must be determined based on observable system behavior and outcomes across time, scale, system interaction, and operational conditions where materially relevant. Evasion occurs where definitions are:
 
-- not satisfied in their full semantic, evaluative, and compliance scope under full functional system conditions
-- satisfied in form, representation, structure, or limited conditions, but not in their full semantic, evaluative, and compliance scope
+- not satisfied in their full semantic, assessment, and compliance scope under full functional system conditions
+- satisfied in form, representation, structure, or limited conditions, but not in their full semantic, assessment, and compliance scope
 
-*In plain terms: evasion means weakening a definition when it is actually applied. That is non-compliance under Chapter Two §2.4.2 — regardless of intent, awareness, or what the system claims its purpose is.*
+*In plain terms: evasion means weakening a definition when it is actually applied. That is non-compliance under Chapter Two §2.2 — regardless of intent, awareness, or what the system claims its purpose is.*
 
-A system exhibits evasion, and is non-compliant under **Chapter Two, 2.4.2 — Non-Compliance by Structural or Applied Weakening**, where it:
+A system exhibits evasion, and is non-compliant under **Chapter Two, §2.2 — Non-Compliance by Structural or Applied Weakening**, where it:
 
-- produces outcomes inconsistent with the full protective, evaluative, or compliance scope of a definition
+- produces outcomes inconsistent with the full protective, assessment, or compliance scope of a definition
 - satisfies definition components only under restricted, non-representative, or selectively constructed conditions
 - relies on interpretations that preserve formal compliance while degrading real-world outcomes
 
@@ -300,22 +384,22 @@ Where formal-structure change is material, apply [Chapter One §11.6 Successor R
 
 #### 2.3 Reductive Evasion
 
-Reduction occurs where application of a definition produces outcomes that do not satisfy the full expression of its Ontological (O), Evaluative (E), and Compliance (C) components. A system is non-compliant where its interpretation or application of a definition reduces the definition's semantic scope, evaluative rigor, or compliance requirements, producing materially weaker protections or outcomes than the full definition requires.
+Reduction occurs where application of a definition produces outcomes that do not satisfy the full expression of its Ontological (O), Assessment (A), and Compliance (C) components. A system is non-compliant where its interpretation or application of a definition reduces the definition's semantic scope, assessment rigor, or compliance requirements, producing materially weaker protections or outcomes than the full definition requires.
 
 The following forms of reduction are prohibited:
-- Semantic reduction: treating a definition as descriptive while removing normative or evaluative force
+- Semantic reduction: treating a definition as descriptive while removing normative or assessment force
 - Procedural reduction: treating execution of processes as sufficient regardless of real-world outcomes
 - Formal reduction: treating documentation, structure, or representation as sufficient without functional effect
 - Scope reduction: excluding materially relevant conditions, system elements, or effects
-- Evaluative reduction: weakening required evaluation conditions in practice through selective application
+- Assessment reduction: weakening required evaluation conditions in practice through selective application
 - Outcome reduction: substituting proxy, partial, or intermediate outcomes for required real-world outcomes
 
 #### 2.4 Cross-Component Scope Integrity Constraint
-All definition components (Ontological (O), Evaluative (E), and Compliance (C)) must be applied to the same functional system scope, evaluation conditions, and temporal frame. All components must be satisfied jointly under consistent scope, conditions, and temporal context.
+All definition components (Ontological (O), Assessment (A), and Compliance (C)) must be applied to the same functional system scope, evaluation conditions, and temporal frame. All components must be satisfied jointly under consistent scope, conditions, and temporal context.
 
 Misalignment across components is both evasion and non-compliance, including:
 - applying Ontological components to broader or different system scopes than Compliance components
-- satisfying Evaluative components under constrained or idealized conditions while asserting compliance under full operation
+- satisfying Assessment components under constrained or idealized conditions while asserting compliance under full operation
 - demonstrating component satisfaction across different timeframes, instances, or system states
 
 #### 2.5 Cross-System Interaction Integrity Constraint
@@ -337,7 +421,7 @@ A system is non-compliant where:
 - compliance is fragmented across lifecycle stages such that no stage satisfies all components under full conditions
 
 #### 2.7 Uncertainty Integrity and Non-Exploitation Constraint
-Where uncertainty exists, definitions must be applied in a manner that preserves their full semantic, evaluative, and compliance scope. Application must occur under conditions proportionate to potential harm, dependency, and risk. Uncertainty must not be used to weaken, delay, or avoid application of definitions.
+Where uncertainty exists, definitions must be applied in a manner that preserves their full semantic, assessment, and compliance scope. Application must occur under conditions proportionate to potential harm, dependency, and risk. Uncertainty must not be used to weaken, delay, or avoid application of definitions.
 
 A system is non-compliant where it:
 - invokes uncertainty to defer or avoid evaluation or compliance determination
@@ -349,9 +433,9 @@ A system is non-compliant where it:
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Chapter Three, section 2 — Non-Compliance from Observable System Behavior](#2-non-compliance-from-observable-system-behavior); [Chapter Two, 2.4 Definition Integrity Requirement](#24-definition-integrity-requirement).
+- Upstream: [Chapter Three, section 2 — Non-Compliance from Observable System Behavior](#2-non-compliance-from-observable-system-behavior); [Chapter Two, §2 Definition Integrity Requirement](#24-definition-integrity-requirement).
 - Downstream: [Chapter Four, section 3 — Definition Traceability Requirement](#3-definition-traceability-requirement); [Chapter Eight — Contribution, Violation, and Standing Model](core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model); [CJS-5.1 Constitutional compass and cluster map](corpus_joint_structure/cjs_05_cross_implementation_operational_terms.md#cjs-51-constitutional-compass-and-cluster-map).
-- Read with: [Non-Compliance Finding Profile](core_05a_accountability_definitions.md#non-compliance-finding-profile) — canonical O/E/C home for profile fields; [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad); [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims).
+- Read with: [Non-Compliance Finding Profile](core_05a_accountability_definitions.md#non-compliance-finding-profile) — canonical O/M/A/C home for profile fields; [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad); [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims).
 
 </details>
 
@@ -388,8 +472,8 @@ All evaluation standards referenced elsewhere in this chapter are enforced exclu
 **Non-overlapping roles of sections 1 through 6.** Sections 1 through 6 of this chapter implement one integrated pipeline; failure in any section fails the whole. To limit redundancy and editorial drift, each section's **primary** job—what **neighboring** sections do not already do—is:
 
 - **Section 1:** **Who must prove compliance** and the **exclusive enforcement pathway** for every evaluation standard referenced elsewhere in this chapter. It does **not** specify evidence sufficiency (section 2), the trace **artifact** (section 3), required **instrumentation and access** (section 4), security **exceptions** (section 5), or practical accessibility (section 6).
-- **Section 2:** **What suffices as evidence**—joint O/E/C satisfaction under real conditions, independence where reasonably achievable, scaling with impact, disqualifying evidence, uncertainty defaults, and science-informed alignment. It does **not** allocate burden (section 1) or specify the trace **artifact** (section 3).
-- **Section 3:** The **structured trace artifact**: explicit mapping from each O/E/C component (and invoked **Chapter Five** definitions) to observable behavior and effects, and the rule that failure to invoke or correctly apply any materially required **Chapter Five** definition invalidates the determination in full. It does **not** allocate burden (section 1), restate evidence sufficiency (section 2), supply observability **capability** (section 4), or authorize security **exceptions** (section 5).
+- **Section 2:** **What suffices as evidence**—joint O/M/A/C satisfaction under real conditions, independence where reasonably achievable, scaling with impact, disqualifying evidence, uncertainty defaults, and science-informed alignment. It does **not** allocate burden (section 1) or specify the trace **artifact** (section 3).
+- **Section 3:** The **structured trace artifact**: explicit mapping from each O/M/A/C component (and invoked **Chapter Five** definitions) to observable behavior and effects, and the rule that failure to invoke or correctly apply any materially required **Chapter Five** definition invalidates the determination in full. It does **not** allocate burden (section 1), restate evidence sufficiency (section 2), supply observability **capability** (section 4), or authorize security **exceptions** (section 5).
 - **Section 4:** **Observability enablers**—instrumentation and access so section 3's mappings can be examined under required conditions. Design-driven opacity is a compliance problem here, not a burden rule (section 1) and not a security carve-out (section 5).
 - **Section 5:** **Justified limits** on the manner, scope, timing, or accessibility of disclosure and verification; **pretextual** security claims cannot nullify tracing or independent validation. It does **not** define evidence sufficiency (section 2) or substitute crypto for sections **3** through **6** (**5.1**).
 - **Section 6:** **Practical achievability** for appropriately authorized or affected parties—cost, delay, complexity, and structural dependence must not make independent verification **practically** illusory. Constraints here remain subject to section **5**. It does **not** restate burden allocation (section **1**). **Section 6.1** states how the Chapter One §3.4 plain-language duty interacts with definition and verification layers without narrowing them.
@@ -401,27 +485,27 @@ Section **7** is a **non-operative boundary pointer**. Chapter Four (§§1–6) 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: [Chapter Four, section 1 — Exclusive Enforcement and Burden Allocation](#1-exclusive-enforcement-and-burden-allocation); [Chapter Two, section 2 — Requirements for Definition Structure](#2-definition-structure-requirement); [Chapter Two, 2.4 Definition Integrity Requirement](#24-definition-integrity-requirement).
+- Upstream: Principles: [Chapter Four, section 1 — Exclusive Enforcement and Burden Allocation](#1-exclusive-enforcement-and-burden-allocation); [Chapter Two, §1 — Purpose and Role](#1-purpose-and-role); [Chapter Two, §2 Definition Integrity Requirement](#24-definition-integrity-requirement).
 - Downstream: [2.4 Disqualifying evidence; uncertainty; default rule](#24-disqualifying-evidence-uncertainty-default-rule); [Chapter Four, section 3 — Definition Traceability Requirement](#3-definition-traceability-requirement); [Chapter Four, section 4 — Observability of Traceability Requirement](#4-observability-of-traceability-requirement); [Chapter Four, section 8 — Verification Accessibility and Feasibility Constraint](#6-verification-accessibility-and-feasibility-constraint).
 - Read with: [Chapter Five, section 3 — Dependent clusters (Truth and Epistemic Integrity; Foreseeability Diligence)](core_05o_oversight_definitions.md#foreseeability-diligence) — foreseeable conditions include adversarial, strategic, scaled, repeated, and misuse contexts where relevant.
 
 </details>
 
-<strong><span style="color: #2563eb;">Definition:</span></strong> [Foreseeability](core_05o_oversight_definitions.md#foreseeability-diligence) · [O](core_05o_oversight_definitions.md#foreseeability-diligence) · [E](core_05o_oversight_definitions.md#foreseeability-diligence-e) · [C](core_05o_oversight_definitions.md#foreseeability-diligence-c)
+<strong><span style="color: #2563eb;">Definition:</span></strong> [Foreseeability](core_05o_oversight_definitions.md#foreseeability-diligence) · [O](core_05o_oversight_definitions.md#foreseeability-diligence) · [A](core_05o_oversight_definitions.md#foreseeability-diligence-a) · [C](core_05o_oversight_definitions.md#foreseeability-diligence-c)
 
 Verification of evidence must satisfy each of the following, jointly and without substitution:
 
 **Evaluation conditions (scope and realism).** Verification must:
-- occur under conditions fully consistent with the required evaluative scope
+- occur under conditions fully consistent with the required assessment scope
 - not be derived from evaluation conditions that fail to represent actual system behavior, operation, or impact; such evidence does not satisfy the burden of proof.
 - reflect full functional system conditions and demonstrate compliance based on real-world system behavior and outcomes
   - Outcomes must be assessed under reasonably foreseeable conditions as defined in Chapter Five, section 3 — Dependent clusters (Truth and Epistemic Integrity cluster; Foreseeability Diligence) (Foreseeability).
   - The foreseeable set includes adversarial, strategic, scaled, repeated, and misuse contexts where relevant.
 - demonstrate robustness under such conditions given system capabilities, incentives, and access.
 
-**Joint satisfaction across definitions and O/E/C components.** Verification must:
+**Joint satisfaction across definitions and O/M/A/C components.** Verification must:
 - satisfy all definitions jointly where multiple components apply, unless explicitly designated as mutually exclusive
-- demonstrate satisfaction of all Ontological (O), Evaluative (E), and Compliance (C) components jointly under the same functional system scope and evaluation conditions
+- demonstrate satisfaction of all Ontological (O), Assessment (A), and Compliance (C) components jointly under the same functional system scope and evaluation conditions
 
 **Independence.** Verification must:
 - not rely solely on internally generated or self-attested artifacts where independent validation is reasonably achievable. Absence of such validation must be justified under proportionality constraints.
@@ -429,7 +513,7 @@ Verification of evidence must satisfy each of the following, jointly and without
 **Minimum sufficiency properties.** Evidence must satisfy all of the following conditions jointly and without substitution:
 - be observable
 - be verifiable
-- be complete relative to required evaluative scope; incomplete or selectively scoped evidence does not satisfy the burden of proof
+- be complete relative to required assessment scope; incomplete or selectively scoped evidence does not satisfy the burden of proof
 - demonstrate sustained compliance across time, not point-in-time or condition-limited performance
 - be sufficient, in scope and rigor proportionate to system impact, dependency, and risk, to withstand independent audit and adversarial testing.
 
@@ -440,7 +524,7 @@ Verification of evidence must satisfy each of the following, jointly and without
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: [Chapter Four, section 1 — Exclusive Enforcement and Burden Allocation](#1-exclusive-enforcement-and-burden-allocation); [2.1 Verification requirements for evidence](#21-verification-requirements-for-evidence); [Chapter Two, 2.4 Definition Integrity Requirement](#24-definition-integrity-requirement); [Chapter Three, section 1 — Definition Integrity and Anti-Evasion Constraints](#1-definition-integrity-and-anti-evasion-constraints).
+- Upstream: Principles: [Chapter Four, section 1 — Exclusive Enforcement and Burden Allocation](#1-exclusive-enforcement-and-burden-allocation); [2.1 Verification requirements for evidence](#21-verification-requirements-for-evidence); [Chapter Two, §2 Definition Integrity Requirement](#24-definition-integrity-requirement); [Chapter Three, section 1 — Definition Integrity and Anti-Evasion Constraints](#1-definition-integrity-and-anti-evasion-constraints).
 - Downstream: [2.4 Disqualifying evidence; uncertainty; default rule](#24-disqualifying-evidence-uncertainty-default-rule); [Chapter Four, section 6 — Security-Constrained Observability and Verification Rule](#5-security-constrained-observability-and-verification-rule); [5.1 Cryptographic protection, credentials, and verification](#51-cryptographic-protection-credentials-and-verification-constitutional-layer); [Chapter Eight — Contribution, Violation, and Standing Model](core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model).
 - Read with: [Chapter Four, 3.1 Chapter Five definitions and tracing integrity](#31-interdependent-definitions-and-tracing-integrity) — invalidation here tracks the tracing-integrity rule that failure to invoke or correctly apply any materially required **Chapter Five** definition invalidates the associated evaluation, evidence, and compliance determination in full.
 
@@ -477,11 +561,11 @@ Where uncertainty prevents definitive demonstration of compliance for materially
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint) · [O](core_05c_continuity_definitions.md#safety-constraint) · [E](core_05c_continuity_definitions.md#safety-constraint-e) · [C](core_05c_continuity_definitions.md#safety-constraint-c)
-- [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint) · [O](core_05o_oversight_definitions.md#truth-constitutional-constraint-o) · [E](core_05o_oversight_definitions.md#truth-constitutional-constraint-e) · [C](core_05o_oversight_definitions.md#truth-constitutional-constraint-c)
-- [Epistemic Integrity](core_05o_oversight_definitions.md#epistemic-integrity) · [O](core_05o_oversight_definitions.md#epistemic-integrity-o) · [E](core_05o_oversight_definitions.md#epistemic-integrity-e) · [C](core_05o_oversight_definitions.md#epistemic-integrity-c)
+- [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint) · [O](core_05c_continuity_definitions.md#safety-constraint) · [A](core_05c_continuity_definitions.md#safety-constraint-a) · [C](core_05c_continuity_definitions.md#safety-constraint-c)
+- [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint) · [O](core_05o_oversight_definitions.md#truth-constitutional-constraint-o) · [A](core_05o_oversight_definitions.md#truth-constitutional-constraint-a) · [C](core_05o_oversight_definitions.md#truth-constitutional-constraint-c)
+- [Epistemic Integrity](core_05o_oversight_definitions.md#epistemic-integrity) · [O](core_05o_oversight_definitions.md#epistemic-integrity-o) · [A](core_05o_oversight_definitions.md#epistemic-integrity-a) · [C](core_05o_oversight_definitions.md#epistemic-integrity-c)
 
 </details>
 
@@ -497,11 +581,11 @@ That standard is consistent with **Safety (Constraint)**, **Truth (Constitutiona
 
 ### 3. Definition Traceability Requirement
 
-*In plain terms: this section requires a clear, checkable map from each part of each definition — what it is (O), how it is judged (E), and what must hold in practice (C), plus any required Chapter Five terms — to what the system actually does. That map must meet the same evidence standard as the rest of this chapter. This section does not repeat the joint-satisfaction, anti-evasion, or burden rules elsewhere; those live in Chapter Two §2, Chapter Three §2, and this chapter §§1–2.*
+*In plain terms: this section requires a clear, checkable map from each part of each definition — what it is (O), how it is judged (E), and what must hold in practice (C), plus any required Chapter Five terms — to what the system actually does. That map must meet the same evidence standard as the rest of this chapter. This section does not repeat the joint-satisfaction, anti-evasion, or burden rules elsewhere; those live in Chapter Two §1, Chapter Three §2, and this chapter §§1–2.*
 
-This section requires a structured trace artifact. It must map each Ontological (O), Evaluative (E), and Compliance (C) component—and every materially required **Chapter Five** definition—to observable system behavior and effects.
+This section requires a structured trace artifact. It must map each Ontological (O), Assessment (A), and Compliance (C) component—and every materially required **Chapter Five** definition—to observable system behavior and effects.
 
-Joint O/E/C satisfaction, observable-behavior interpretation, and evidence sufficiency are governed by **Chapter Two, section 2**, **Chapter Three, section 2**, and **this chapter's sections 1 and 2**, respectively; this section does not restate those rules.
+Joint O/M/A/C satisfaction, observable-behavior interpretation, and evidence sufficiency are governed by **Chapter Two, section 1**, **Chapter Three, section 2**, and **this chapter's sections 1 and 2**, respectively; this section does not restate those rules.
 
 Tracing mappings and their verification methods must satisfy the **Compliance Evidence Standard** (**section 2** of this chapter) and must be supported by observable, verifiable evidence.
 
@@ -513,13 +597,13 @@ Failure to invoke or correctly apply any materially required **Chapter Five** de
 #### 3.16 Mandatory traceability properties
 Traceability must be:
 - evaluated in full compliance with **Chapter Three, sections 1 and 2** (Definition Integrity and Anti-Evasion Constraints; Non-Compliance from Observable System Behavior).
-- expressed in a structured, auditable form that maps each definition component (O/E/C) to specific system properties, behaviors, and effects.
-- verified in actual operational conditions, with all mapped components (O/E/C) satisfied jointly under the same functional system scope and evaluation conditions.
+- expressed in a structured, auditable form that maps each definition component (O/M/A/C) to specific system properties, behaviors, and effects.
+- verified in actual operational conditions, with all mapped components (O/M/A/C) satisfied jointly under the same functional system scope and evaluation conditions.
 - mapped to actual operational system behavior under full functional system conditions including normal, degraded, adversarial, and interaction conditions where materially relevant. Mappings to abstracted, idealized, or non-operational representations do not satisfy this requirement.
-- complete relative to the required evaluative scope and must include normal, degraded, adversarial, temporal, and cross-system interaction conditions where materially relevant.
+- complete relative to the required assessment scope and must include normal, degraded, adversarial, temporal, and cross-system interaction conditions where materially relevant.
 - maintained across system updates, version changes, and deployment contexts; failure to maintain tracing over time is non-compliant.
 - bidirectional, such that:
-  - each definition component (O/E/C) maps to observable system behavior and effects, including direct, indirect, delayed, and aggregated effects where materially relevant.
+  - each definition component (O/M/A/C) maps to observable system behavior and effects, including direct, indirect, delayed, and aggregated effects where materially relevant.
   - all materially relevant system behaviors must be mapped completely and representatively, without omission of materially relevant behaviors or conditions
 
 ### 4. Observability of Traceability Requirement
@@ -532,13 +616,13 @@ Traceability must be:
 
 </details>
 
-<strong><span style="color: #2563eb;">Definition:</span></strong> [Foreseeability](core_05o_oversight_definitions.md#foreseeability-diligence) · [O](core_05o_oversight_definitions.md#foreseeability-diligence) · [E](core_05o_oversight_definitions.md#foreseeability-diligence-e) · [C](core_05o_oversight_definitions.md#foreseeability-diligence-c)
+<strong><span style="color: #2563eb;">Definition:</span></strong> [Foreseeability](core_05o_oversight_definitions.md#foreseeability-diligence) · [O](core_05o_oversight_definitions.md#foreseeability-diligence) · [A](core_05o_oversight_definitions.md#foreseeability-diligence-a) · [C](core_05o_oversight_definitions.md#foreseeability-diligence-c)
 
 *In plain terms: section 3 requires a trace map — this section requires the system to expose enough of itself that the map can actually be checked. If a materially relevant part of a definition cannot be observed, measured, or verified because of how the system is built, that is a design failure, not an excuse. Opaque architecture, outside dependencies, and black-box components do not get a pass.*
 
 Systems must provide sufficient observability, instrumentation, and access to components, data, and interactions to fully satisfy **section 3** (Definition Traceability Requirement).
 
-Failure to observe, measure, or verify any materially relevant Ontological (O), Evaluative (E), or Compliance (C) component under the evaluation conditions required by this chapter is non-compliant.
+Failure to observe, measure, or verify any materially relevant Ontological (O), Assessment (A), or Compliance (C) component under the evaluation conditions required by this chapter is non-compliant.
 
 Limitations caused by system design, architectural opacity, external dependencies, or third-party components do not exempt a system from this requirement. They must be treated as design failures and addressed through modification, constraint, or exclusion of non-compliant components.
 
@@ -554,7 +638,7 @@ Systems must not rely on components or dependencies that prevent satisfaction of
 
 </details>
 
-<strong><span style="color: #2563eb;">Definition:</span></strong> [Foreseeability](core_05o_oversight_definitions.md#foreseeability-diligence) · [O](core_05o_oversight_definitions.md#foreseeability-diligence) · [E](core_05o_oversight_definitions.md#foreseeability-diligence-e) · [C](core_05o_oversight_definitions.md#foreseeability-diligence-c)
+<strong><span style="color: #2563eb;">Definition:</span></strong> [Foreseeability](core_05o_oversight_definitions.md#foreseeability-diligence) · [O](core_05o_oversight_definitions.md#foreseeability-diligence) · [A](core_05o_oversight_definitions.md#foreseeability-diligence-a) · [C](core_05o_oversight_definitions.md#foreseeability-diligence-c)
 
 *In plain terms: real security concerns can limit how, when, and to whom disclosure or audit happens — but they cannot erase the duty to trace, verify, and allow independent checking. "It's secret for security" is not a free pass. Any limit must be as narrow as possible, justified, auditable, and must still leave a meaningful way to validate compliance claims.*
 
@@ -592,10 +676,10 @@ Restrictions that block meaningful independent validation of materially relevant
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint) · [O](core_05o_oversight_definitions.md#truth-constitutional-constraint-o) · [E](core_05o_oversight_definitions.md#truth-constitutional-constraint-e) · [C](core_05o_oversight_definitions.md#truth-constitutional-constraint-c)
-- [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint) · [O](core_05c_continuity_definitions.md#safety-constraint) · [E](core_05c_continuity_definitions.md#safety-constraint-e) · [C](core_05c_continuity_definitions.md#safety-constraint-c)
+- [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint) · [O](core_05o_oversight_definitions.md#truth-constitutional-constraint-o) · [A](core_05o_oversight_definitions.md#truth-constitutional-constraint-a) · [C](core_05o_oversight_definitions.md#truth-constitutional-constraint-c)
+- [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint) · [O](core_05c_continuity_definitions.md#safety-constraint) · [A](core_05c_continuity_definitions.md#safety-constraint-a) · [C](core_05c_continuity_definitions.md#safety-constraint-c)
 
 </details>
 
@@ -623,7 +707,7 @@ Algorithm, key-length, rotation, HSM, and protocol choices belong in **corpus_sy
 
 </details>
 
-<strong><span style="color: #2563eb;">Definition:</span></strong> [Foreseeability](core_05o_oversight_definitions.md#foreseeability-diligence) · [O](core_05o_oversight_definitions.md#foreseeability-diligence) · [E](core_05o_oversight_definitions.md#foreseeability-diligence-e) · [C](core_05o_oversight_definitions.md#foreseeability-diligence-c)
+<strong><span style="color: #2563eb;">Definition:</span></strong> [Foreseeability](core_05o_oversight_definitions.md#foreseeability-diligence) · [O](core_05o_oversight_definitions.md#foreseeability-diligence) · [A](core_05o_oversight_definitions.md#foreseeability-diligence-a) · [C](core_05o_oversight_definitions.md#foreseeability-diligence-c)
 
 *In plain terms: verification cannot live only on paper or only for insiders with unlimited time and money. Authorized or affected parties must be able to check compliance in practice — without prohibitive cost, delay, or runaround. "It's theoretically verifiable" does not count if nobody can actually do it.*
 
@@ -657,7 +741,7 @@ Where verification is technically possible but not practically achievable, compl
 
 The plain-language accessibility duty at [Chapter One §3.4](core_01_a_values_principles.md#34-plain-language-accessibility-stewardship-duty) applies to engagement-layer text — governance, adjudicative, and operational material that sentients must use to exercise rights, participate in governance, contest decisions, or verify compliance. It does **not** narrow this chapter, Chapter Two, or Chapter Three definition mechanics.
 
-If engagement-layer plain language conflicts with a Chapter Five Ontological (O), Evaluative (E), or Compliance (C) component, a definitional gloss, or this chapter's traceability, observability, or verification rules, the definition and verification layers govern. Engagement-layer drafting must be adjusted to align without softening definitional rigor or verification sufficiency.
+If engagement-layer plain language conflicts with a Chapter Five Ontological (O), Assessment (A), or Compliance (C) component, a definitional gloss, or this chapter's traceability, observability, or verification rules, the definition and verification layers govern. Engagement-layer drafting must be adjusted to align without softening definitional rigor or verification sufficiency.
 
 Jargon, stacked complexity, or opacity used to defeat [Contestability](core_05a_accountability_definitions.md#contestability), independent verification under **section 6** or **6.1** of this chapter, or [Article XV: Audit, Transparency, and Independent Verification](core_06-06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification) access is non-compliant under this chapter and **Chapter One §3.4**.
 
