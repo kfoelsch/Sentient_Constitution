@@ -25,6 +25,7 @@ Put a **blank line before** `---` when you mean a horizontal rule between sectio
 | Chapter One D/E/C functional ordering | `make ch1-dec-order-audit` |
 | Readability estimates | `make readability-audit` |
 | Plain-language jargon scan | `make plain-language-audit` |
+| Chapter Four ↔ Seven pointer discipline | `make ch4-ch7-pointer-audit` |
 | Regression bundle plus readability gate | `make regression-full` |
 | Institutional benchmark review | `make best-practices-check` |
 
@@ -51,6 +52,8 @@ Machine-checkable editorial rules: [tools/architecture/rule_registry.json](tools
 `readability_audit.py` excludes `MEMLOG.md` and `TODO.md` by default because those files are treated as AI-only working memory and project task tracking rather than reader-facing corpus prose.
 
 `plain_language_audit.py` is an advisory checker for jargon-heavy reader notes and navigation prose. It flags exact phrases such as `extended narrative context` and `non-operative explanatory framing`, plus dense guidance sentences that stack abstract terms instead of plain words. Start by running it manually and tune the rule list before promoting it into a blocking bundle.
+
+`ch4_ch7_pointer_audit.py` is an advisory checker for Chapter Seven pointer discipline against Chapter Four. It flags operative restatements of Chapter Four verification-substrate rules (burden, trace artifact, security-constrained verification, and related phrases) without upstream citations to Chapters Two through Four, and verifies the corpus-placement reader guidance names Chapter Four as verification-substrate owner. Run after edits to [`core_07-07_system_alignment_certification.md`](../core_07-07_system_alignment_certification.md) or [`core_04-04_burden_traceability_verification.md`](../core_04-04_burden_traceability_verification.md) Chapter Four §§1–6; use `--strict` to block on findings.
 
 ## Retired migration scripts
 

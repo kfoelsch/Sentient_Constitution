@@ -14,7 +14,7 @@
 
 2. **For Definition Lookups** → `ai_corpus/indexes/definition_registry.json`
    - Locate any term's authoritative definition instantly
-   - Get O/E/C component boundaries for precise reading
+   - Get O/M/A/C component boundaries for precise reading
 
 3. **For Cross-Reference Analysis** → `ai_corpus/indexes/crossref_matrix.json`
    - See which files reference which
@@ -33,7 +33,7 @@ Step 1: Query ai_corpus/indexes/definition_registry.json
         → Get line range for the definition
         
 Step 2: Read only those lines using read_file with offset/limit
-        → Capture O/E/C components completely
+        → Capture O/M/A/C components completely
         
 Step 3: Read your target section using manifest
         → Get exact line range
@@ -81,7 +81,7 @@ Step 1: Read adjacent definitions using manifest
 Step 2: Follow template structure:
         #### Term Name
         <details> [Trace block] </details>
-        <details> [DEFINITION: O/E/C] </details>
+        <details> [DEFINITION: O/M/A/C] </details>
         <details> [COMPLIANCE] </details>
         ---
         
@@ -103,7 +103,7 @@ Step 3: Run `make ai-corpus-sync`
 
 ### Unsafe Chunk Boundaries (Never Split Here)
 
-- ❌ Inside O/E/C component triplets
+- ❌ Inside O/M/A/C component triplets
 - ❌ Inside `<details>...</details>` blocks
 - ❌ Inside cross-reference lists
 - ❌ Inside tables
@@ -152,7 +152,8 @@ Step 3: Run `make ai-corpus-sync`
 | core_01_a_values_principles.md | ~756 | Chapter One, Part A — Values Principles (§§1–5) |
 | core_01_b_interaction_interpretation.md | ~646 | Chapter One, Part B — §§6–8 (interaction → override limits → interpretation) |
 | core_01_c_stewardship_capacity_principles.md | ~1,078 | Chapter One, Part C — §§9–14 (stewardship → evaluation → integrated capstone) |
-| core_02-04_definition_mechanics.md | ~530 | O/E/C structure, burden, traceability |
+| core_02-03_definition_mechanics.md | ~310 | O/M/A/C structure; definition integrity and evasion (Ch 2–3) |
+| core_04-04_burden_traceability_verification.md | ~340 | Burden of proof, traceability, verification (Ch 4) |
 | core_05-05_definitions_a_independent.md | ~1,300 | Independent definitions A-Z |
 | core_05-05_definitions_b_semi_independent.md | ~1,900 | Semi-independent definitions |
 | core_05-05_definitions_c_dependent_clusters.md | ~1,800 | Dependent definition clusters |

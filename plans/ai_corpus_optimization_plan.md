@@ -22,7 +22,7 @@ This plan established the token-efficient AI navigation layer while maintaining 
 Required migration scope is complete:
 
 - `ai_corpus/indexes/section_manifest.json` provides full-source section ranges for the active corpus scope.
-- `ai_corpus/indexes/definition_registry.json` indexes all Chapter Five O/E/C-owning definitions.
+- `ai_corpus/indexes/definition_registry.json` indexes all Chapter Five O/M/A/C-owning definitions.
 - `ai_corpus/indexes/crossref_matrix.json` maps file-to-file Markdown references across the active corpus scope.
 - `ai_corpus/visualization/dependency_map.mmd`, `ai_corpus/AI_NAVIGATION_GUIDE.md`, `ai_corpus/QUICK_REFERENCE.md`, and `ai_corpus/MAINTENANCE.md` document the workflow.
 - `make ai-corpus-sync` regenerates the derived indexes.
@@ -39,7 +39,8 @@ The older per-definition JSON files under `ai_corpus/definitions/` are retained 
 | File | Lines | Role | Primary Content |
 |------|-------|------|-----------------|
 | `core_00_preamble.md`, `core_01_a_values_principles.md`, and `core_01_b_stewardship_capacity_principles.md` | ~1,400 | Core | Preamble, Chapter 1 (values, constraints) |
-| `core_02-04_definition_mechanics.md` | ~530 | Core | Chapters 2-4 (O/E/C structure, burden, traceability) |
+| `core_02-03_definition_mechanics.md` | ~310 | Core | Chapters 2-3 (O/M/A/C structure, integrity) |
+| `core_04-04_burden_traceability_verification.md` | ~340 | Core | Chapter 4 (burden, traceability, verification) |
 | `core_05-05_definitions_a_independent.md` | ~1,300 | Core | Chapter 5 §1 (independent definitions A-Z) |
 | `core_05-05_definitions_b_semi_independent.md` | ~1,900 | Core | Chapter 5 §2 (semi-independent definitions) |
 | `core_05-05_definitions_c_dependent_clusters.md` | ~1,800 | Core | Chapter 5 §3 (dependent clusters) |
@@ -76,7 +77,7 @@ High-traffic cross-reference patterns:
 **Pattern A: Definition-First Reading**
 ```
 When editing content that uses defined terms:
-1. Read the specific definition entry (O/E/C components) from Chapter 5
+1. Read the specific definition entry (O/M/A/C components) from Chapter 5
 2. Read the referencing section from the target file
 3. Only read surrounding context if ambiguity remains
 ```
@@ -106,7 +107,7 @@ For edits confined to a single semantic unit:
 - At `<details>` block boundaries
 
 **Avoid splitting:**
-- O/E/C component triplets within definitions
+- O/M/A/C component triplets within definitions
 - Trace/DEFINITION/COMPLIANCE blocks
 - Cross-reference lists mid-entry
 - Table rows
@@ -119,7 +120,7 @@ Each definition in Chapter 5 follows this pattern:
 
 [Trace block in <details>]
 
-[DEFINITION block in <details> with O/E/C]
+[DEFINITION block in <details> with O/M/A/C]
 
 [COMPLIANCE block in <details>]
 
@@ -223,7 +224,7 @@ Scenario: Add new definition to Chapter 5
 
 Optimized pattern:
 1. Read only the alphabetical insertion point (adjacent definitions)
-2. Add definition following O/E/C template
+2. Add definition following O/M/A/C template
 3. Run `make ai-corpus-sync` to regenerate `ai_corpus/indexes/definition_registry.json`
 4. Flag for cross-reference audit (async)
 ```

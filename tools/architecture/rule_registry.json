@@ -175,6 +175,13 @@
       "summary": "Cross-implementation topic routing via CJS-2.1.",
       "make_target": "router-bidirectional-audit",
       "status": "blocking"
+    },
+    {
+      "id": "CH4-CH7-POINTER",
+      "legacy_ref": "Chapter Four ↔ Chapter Seven pointer discipline",
+      "summary": "Chapter Seven must cite Chapters Two through Four when applying verification-substrate rules; must not restate Chapter Four §§1–6.",
+      "make_target": "ch4-ch7-pointer-audit",
+      "status": "advisory"
     }
   ]
 }

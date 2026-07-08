@@ -432,6 +432,6 @@ Classification as an Independent or Semi-independent definition does not overrid
 
 ---
 
-**Previous file:** [core_02-04_definition_mechanics.md](core_02-04_definition_mechanics.md)
+**Previous file:** [core_04-04_burden_traceability_verification.md](core_04-04_burden_traceability_verification.md)
 
 **Next file:** [core_05f_flourishing_aim.md](core_05f_flourishing_aim.md)

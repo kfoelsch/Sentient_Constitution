@@ -32,7 +32,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Chapter One](core_01_c_stewardship_capacity_principles.md#chapter-01-principles-and-constraints); [Chapters Two through Four](core_02-04_definition_mechanics.md) integrity and verification; [Chapter Six](core_06-06_rights_part_a.md#chapter-six-foundational-rights) Rights Floor; [Chapter Twelve](core_12-12_governance.md#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship) legitimacy and stewardship requirements.
+- Upstream: [Chapter One](core_01_c_stewardship_capacity_principles.md#chapter-01-principles-and-constraints); [Chapters Two through Four](core_02-03_definition_mechanics.md) integrity and verification; [Chapter Six](core_06-06_rights_part_a.md#chapter-six-foundational-rights) Rights Floor; [Chapter Twelve](core_12-12_governance.md#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship) legitimacy and stewardship requirements.
 - Subsections: [§1](#1-non-regression-floor); [§2](#2-test-1-substantive-non-regression-validity); [§3](#3-anti-evasion-clause-and-constitutional-misconduct-referral); [§4](#4-layer-scope).
 - Downstream: [Chapter Fourteen](core_13-15_amendment.md#chapter-fourteen-expansion-supremacy-and-external-legal-orders) expansion and supremacy; [Chapter Fifteen](core_13-15_amendment.md#chapter-fifteen-amendment-ratification-and-procedural-validity) procedural validity, ratification, and amendment requirements; [Chapter Eight](core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) and [Chapter Ten](core_10-10_misconduct.md#chapter-ten-anti-constitutional-misconduct) for canonical classification where referral triggers route.
 - Read with: [archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md](archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md) non-operative walkthrough for **Chapters Eleven through Fourteen** on constitutional change and incorporation.
@@ -59,9 +59,9 @@ Permitted expansion of protection, supremacy sequencing, ratification, and proce
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Chapter Thirteen](#chapter-thirteen-non-regression-and-substantive-amendment-validity) opening floor list (Chapters One through Four, Ten, Eleven); integrated definitions — [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint), [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint), [Epistemic Integrity](core_05o_oversight_definitions.md#epistemic-integrity) (canonical O/E/C under [Truth and Epistemic Integrity](core_05c_continuity_definitions.md#truth-and-epistemic-integrity-cluster)), [Dignity and Equal Moral Standing](core_05p_participation_definitions.md#dignity-and-equal-moral-standing), [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency), and related floors named in operative text ([Chapter Five definitions](core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions)).
+- Upstream: [Chapter Thirteen](#chapter-thirteen-non-regression-and-substantive-amendment-validity) opening floor list (Chapters One through Four, Ten, Eleven); integrated definitions — [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint), [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint), [Epistemic Integrity](core_05o_oversight_definitions.md#epistemic-integrity) (canonical O/M/A/C under [Truth and Epistemic Integrity](core_05c_continuity_definitions.md#truth-and-epistemic-integrity-cluster)), [Dignity and Equal Moral Standing](core_05p_participation_definitions.md#dignity-and-equal-moral-standing), [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency), and related floors named in operative text ([Chapter Five definitions](core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions)).
 - Downstream: [§2](#2-test-1-substantive-non-regression-validity) Test 1 inventory; [§3](#3-anti-evasion-clause-and-constitutional-misconduct-referral) anti-evasion and referral triggers.
-- Read with: [Chapter Six](core_06-06_rights_part_a.md#chapter-six-foundational-rights) for Rights-Floor specifics; [Chapters Two through Four](core_02-04_definition_mechanics.md) for verification, standing gates, and observability as potential indirect narrowing vectors.
+- Read with: [Chapter Six](core_06-06_rights_part_a.md#chapter-six-foundational-rights) for Rights-Floor specifics; [Chapters Two through Four](core_02-03_definition_mechanics.md) for verification, standing gates, and observability as potential indirect narrowing vectors.
 
 </details>
 
@@ -207,7 +207,7 @@ Constitutional change may add new rights, safeguards, accountability mechanisms,
 
 - Upstream: [§1](#1-additive-expansion-permitted) permitted expansion boundary.
 - Downstream: [§3](#3-supremacy-relative-to-other-binding-norms) internal hierarchy and stricter-external rule; [Chapter Fifteen §9](core_13-15_amendment.md#8-provisional-effect-rule) provisional effect on rights-affecting amendments.
-- Read with: [Chapters Two through Four](core_02-04_definition_mechanics.md) anti-evasion on "temporary" suspension of supremacy or audit.
+- Read with: [Chapters Two through Four](core_02-03_definition_mechanics.md) anti-evasion on "temporary" suspension of supremacy or audit.
 
 </details>
 
@@ -307,7 +307,7 @@ Cross-jurisdiction coordination and anti-evasion execution follow **[corpus_syst
 
 - Upstream: [§4](#4-disputes-involving-external-legal-orders) external-dispute frame.
 - Downstream: [Chapter One §8.2](#42-preserved-internal-pathways) when external process is slow or inadequate.
-- Read with: Truth and auditability obligations in [Chapters Two through Four](core_02-04_definition_mechanics.md), [Evidence Preservation](core_05o_oversight_definitions.md#evidence-preservation), and [Chapter Six](core_06-06_rights_part_a.md#chapter-six-foundational-rights) as applicable to record preservation.
+- Read with: Truth and auditability obligations in [Chapters Two through Four](core_02-03_definition_mechanics.md), [Evidence Preservation](core_05o_oversight_definitions.md#evidence-preservation), and [Chapter Six](core_06-06_rights_part_a.md#chapter-six-foundational-rights) as applicable to record preservation.
 
 </details>
 
@@ -358,7 +358,7 @@ Constitutional interpretation, appeal, and review pathways under **Article XXIII
 - Upstream: [Chapter Thirteen](core_13-15_amendment.md#chapter-thirteen-non-regression-and-substantive-amendment-validity) Test 1 and non-regression; [Chapter Fourteen](core_13-15_amendment.md#chapter-fourteen-expansion-supremacy-and-external-legal-orders) supremacy and external-order interface; [Chapter Twelve](core_12-12_governance.md#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship) legitimacy context for collective change.
 - Subsections: [§§ 1–12](#1-heightened-review-for-rights-affecting-changes) procedural and custody validity suite (Tests 2–4, ratification, procedure requirements, and layer scope).
 - Downstream: Adoption instruments and edition custody tie to [Chapter Five *Corpus*](core_05i_integrative_definitions.md#corpus), [Corpus, Authority Stack, Supremacy, and Enforceability](core_05a_accountability_definitions.md#corpus-authority-stack-supremacy-and-enforceability-cluster) (*Chapter Five Chapter One §8.16 cluster*), and [doc_architecture.md](doc_architecture.md); invalidity remediation interfaces with owner implementation layers.
-- Read with: [Chapters Two through Four](core_02-04_definition_mechanics.md) publication, burden, and tracing requirements invoked in Tests 2 and 11.
+- Read with: [Chapters Two through Four](core_02-03_definition_mechanics.md) publication, burden, and tracing requirements invoked in Tests 2 and 11.
 
 </details>
 
@@ -391,7 +391,7 @@ Any proposed amendment that materially affects Chapter Six rights, adjudication 
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [§1](#1-heightened-review-for-rights-affecting-changes) heightened review gate.
-- Downstream: [§4](#4-test-2-procedural-validity-and-publication-integrity) Test 2 publication elements; [Chapter Four](core_02-04_definition_mechanics.md) tracing discipline referenced in operative text.
+- Downstream: [§4](#4-test-2-procedural-validity-and-publication-integrity) Test 2 publication elements; [Chapter Four](core_02-03_definition_mechanics.md) tracing discipline referenced in operative text.
 - Read with: [Chapter Thirteen](core_13-15_amendment.md#chapter-thirteen-non-regression-and-substantive-amendment-validity) non-regression compatibility as required justification content.
 
 </details>
@@ -424,7 +424,7 @@ This chapter states minimum constitutional **procedural and custody** validity c
 
 - Upstream: [§3](#3-validity-floor-rule) validity-floor rule; [§2](#2-burden-of-justification-and-public-traceability) justification content.
 - Downstream: [§5](#9-test-3-authority-chain-and-custody-validity) Test 3 custody; [§12.1](#121-notice-and-contest) notice and contest requirements.
-- Read with: [Chapter Four](core_02-04_definition_mechanics.md) burden and tracing requirements cited in operative text.
+- Read with: [Chapter Four](core_02-03_definition_mechanics.md) burden and tracing requirements cited in operative text.
 
 </details>
 
@@ -615,7 +615,7 @@ Additional parties may **join** as adopters under rules published by existing ad
 
 - Upstream: [§12](#11-amendment-procedure-requirements) procedure requirements header.
 - Downstream: [§4](#4-test-2-procedural-validity-and-publication-integrity) overlaps with publication integrity; [§1](#1-heightened-review-for-rights-affecting-changes) heightened review for rights-affecting packages.
-- Read with: [Chapter Four](core_02-04_definition_mechanics.md) burden and tracing; [Article X-C](core_06-06_rights_part_b.md) for materially high-impact changes.
+- Read with: [Chapter Four](core_02-03_definition_mechanics.md) burden and tracing; [Article X-C](core_06-06_rights_part_b.md) for materially high-impact changes.
 
 </details>
 

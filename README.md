@@ -15,7 +15,7 @@ Custody and binding scope: [Chapter Five *Corpus*](core_05i_integrative_definiti
 ## How to read
 
 1. **Chapter One** — preamble ([`core_00_preamble.md`](core_00_preamble.md)); Values Principles, Part A ([`core_01_a_values_principles.md`](core_01_a_values_principles.md)); Interaction and Interpretation, Part B ([`core_01_b_interaction_interpretation.md`](core_01_b_interaction_interpretation.md)); Stewardship and Governance, Part C ([`core_01_c_stewardship_capacity_principles.md`](core_01_c_stewardship_capacity_principles.md)).
-2. **Chapters Two through Five** — definition structure, integrity, burden, traceability, and the definition stack ([`core_02-04_definition_mechanics.md`](core_02-04_definition_mechanics.md); Chapter Five Parts A–C below). Chapter Five is the **definition stack**, not the Rights Floor.
+2. **Chapters Two through Five** — definition structure, integrity, burden, traceability, and the definition stack ([`core_02-03_definition_mechanics.md`](core_02-03_definition_mechanics.md) Chapters Two–Three; [`core_04-04_burden_traceability_verification.md`](core_04-04_burden_traceability_verification.md) Chapter Four; Chapter Five Parts A–C below). Chapter Five is the **definition stack**, not the Rights Floor.
 3. **Chapter Six** — Rights Floor, Articles I–XXVI in planet-first Parts A–D ([`core_06-06_rights_part_a.md`](core_06-06_rights_part_a.md) through [`core_06-06_rights_part_d.md`](core_06-06_rights_part_d.md); article map in [doc_architecture.md](doc_architecture.md) **section 5**).
 4. **Chapter Seven and Chapters Eight through Eleven** — enforce the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) and [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) through the **Key Practical Process Pipelines** ([Chapters Eight–Eleven compass](core_08-08_standing_assessment.md#chapters-eight-eleven-constitutional-compass)), governed by **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*): system alignment certification record where material → standing record → verified input → contribution / violation classification → attachments, descriptors, locks, and effects → Chapter Ten top-slot review for Violation Axis **s = 7**, **s = 8**, or **s = 9** anti-constitutional misconduct; **Chapter Eleven** supplies forum families, jurisdiction, and cross-forum anti-self-judging ([`core_11-11_forum.md`](core_11-11_forum.md)).
 5. **Chapters Twelve through Sixteen** — governance, non-regression, supremacy, amendment and ratification, and the incorporation bridge.
@@ -33,7 +33,8 @@ The corpus is written in plain language with low jargon to improve accessibility
 
 ### Definition mechanics and definitions
 
-- **Chapters Two through Four** (structure, integrity, burden, traceability) — [`core_02-04_definition_mechanics.md`](core_02-04_definition_mechanics.md)
+- **Chapters Two and Three** (structure and integrity) — [`core_02-03_definition_mechanics.md`](core_02-03_definition_mechanics.md)
+- **Chapter Four** (burden, traceability, verification) — [`core_04-04_burden_traceability_verification.md`](core_04-04_burden_traceability_verification.md)
 - **Chapter Five** (foundational definitions)
   - Part A — compass, reader guidance, directory, §3.0 meta rules — [`core_05-05_definitions_a_independent.md`](core_05-05_definitions_a_independent.md)
   - Flourishing aim — canonical aim home and hierarchy map — [`core_05f_flourishing_aim.md`](core_05f_flourishing_aim.md)
@@ -80,7 +81,7 @@ The corpus is written in plain language with low jargon to improve accessibility
 
 Cross-topic entry points not spelled out in the headings above:
 
-- Burden of proof, traceability, verification → **Chapter Four** ([`core_02-04_definition_mechanics.md`](core_02-04_definition_mechanics.md))
+- Burden of proof, traceability, verification → **Chapter Four** ([`core_04-04_burden_traceability_verification.md`](core_04-04_burden_traceability_verification.md))
 - Constitutional Tetrad, Two Constitutional Aims, material stake → **Chapter 00 §1 The Model** ([`#constitutional-tetrad`](core_00_preamble.md#constitutional-tetrad), [`#two-constitutional-aims`](core_00_preamble.md#two-constitutional-aims), [`#material-stake`](core_00_preamble.md#material-stake)); Chapter One develops the aims into operative principles
 - System alignment certification records → **Chapter Seven**
 - Contribution / violation classification (Axis I and II) → **Chapter Eight**

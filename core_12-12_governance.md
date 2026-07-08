@@ -32,7 +32,7 @@ This chapter states the **Constitutional Contract Layer**: constitutional legiti
 
 - Upstream: Principles: [Chapter One](core_01_c_stewardship_capacity_principles.md#chapter-01-principles-and-constraints) integrated constraint stack; [Chapter Six](core_06-06_rights_part_a.md#chapter-six-foundational-rights) Foundational Rights Floor through [Part D](core_06-06_rights_part_d.md).
 - Downstream: [§§ 1–5](#1-authorization-and-legitimacy-of-governing-authority) (stewardship and collective-choice requirements in this chapter); [Chapter Eight](core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) general **contribution, violation, and standing** classification (**Axes I and II**); [Chapter Ten](core_10-10_misconduct.md#chapter-ten-anti-constitutional-misconduct) final **Violation Axis s = 7, 8, or 9** slot classification for anti-constitutional misconduct.
-- Read with: [Chapters Two through Four](core_02-04_definition_mechanics.md) (integrity, tracing, verification); [Chapter Five](core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) (canonical definitions); [Chapter Five Chapter One §8.20 *Governance Architecture, Oversight, Dependency, Decentralization, Concentration, Market Structure, and Exit-Path Integrity*](core_05a_accountability_definitions.md#governance-architecture-oversight-decentralization-and-concentration-cluster) (joint-invocation cluster where authority placement, oversight design, dependency, decentralization, concentration, incentive routing, or exit-path analysis materially affect compliance).
+- Read with: [Chapters Two through Four](core_02-03_definition_mechanics.md) (integrity, tracing, verification); [Chapter Five](core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) (canonical definitions); [Chapter Five Chapter One §8.20 *Governance Architecture, Oversight, Dependency, Decentralization, Concentration, Market Structure, and Exit-Path Integrity*](core_05a_accountability_definitions.md#governance-architecture-oversight-decentralization-and-concentration-cluster) (joint-invocation cluster where authority placement, oversight design, dependency, decentralization, concentration, incentive routing, or exit-path analysis materially affect compliance).
 
 </details>
 
@@ -144,7 +144,7 @@ Mechanism families, publication, auditability, and pluralism are addressed in **
 
 - Upstream: [§1](#1-authorization-and-legitimacy-of-governing-authority) authorization premise; [Chapter Five](core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) definitional lenses for [Epistemic Integrity](core_05o_oversight_definitions.md#epistemic-integrity), [Materiality](core_05o_oversight_definitions.md#materiality-determination), and related clustered definitions in federated contexts.
 - Downstream: Legitimacy sufficiency ties to [§3](#3-strategy-stewardship-direction-and-ecosystem-value-non-corporate); observable integrity feeds **Axis I / II** evaluation under [Chapter Eight](core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) where applicable.
-- Read with: [Chapters Two through Four](core_02-04_definition_mechanics.md) tracing, observability, and verification requirements referenced above.
+- Read with: [Chapters Two through Four](core_02-03_definition_mechanics.md) tracing, observability, and verification requirements referenced above.
 
 </details>
 
@@ -189,7 +189,7 @@ Stewardship requirements for this section are stated in **Chapter Five** under t
 
 - Upstream: [§3](#3-strategy-stewardship-direction-and-ecosystem-value-non-corporate) stewardship framing and strategic obligations.
 - Downstream: Contestability and review hooks in [Chapter Six](core_06-06_rights_part_a.md#chapter-six-foundational-rights); violation and standing inputs under [Chapter Eight](core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) where stewardship claims fail observability or verification tests under **Chapters Two through Four**.
-- Read with: [Chapters Two through Four](core_02-04_definition_mechanics.md) (definition traceability and verification).
+- Read with: [Chapters Two through Four](core_02-03_definition_mechanics.md) (definition traceability and verification).
 
 </details>
 
@@ -310,7 +310,7 @@ This subsection implements **Chapter Six**, **Article IX-C**.
 
 *In plain terms: serious collective decisions need a real process — hear **affected** **parties** out first, bring in independent eyes when stakes are high, publish how weighting works, handle rights conflicts openly, treat "emergency" as narrow and temporary, and leave the door open when reality diverges from the plan.*
 
-Where material disagreement requires a **binding stakeholder choice** within an already-authorized system, institution, or bounded decision domain, the process must comply with the following Chapter Five definitions (operative specification and O/E/C decomposition reside there):
+Where material disagreement requires a **binding stakeholder choice** within an already-authorized system, institution, or bounded decision domain, the process must comply with the following Chapter Five definitions (operative specification and O/M/A/C decomposition reside there):
 
 - **Structured sequence, local deliberation first, plural evaluation, reopening:** [Binding Stakeholder Choice — Decision-Resolution Requirements](core_05p_participation_definitions.md#binding-collective-choice-decision-resolution-process).
 - **Stakeholder representation and participation-weight limits:** [Stakeholder Representation and Participation-Weight Limits (Binding Stakeholder Choice)](core_05p_participation_definitions.md#stakeholder-representation-and-participation-weight-limits-binding-collective-choice) (also cross-referenced from [Chapter One §8.1](#41-entitlement-and-eligibility)).

@@ -251,7 +251,7 @@ def run_core_trace(root: Path, findings: list[Finding]) -> dict[str, int]:
             message=gap.get("issue", "Principle missing definition anchors"),
             severity="error",
             expected_layer="Chapter Five band file",
-            action="add D/E/C anchors",
+            action="add D/A/C anchors",
         )
     for gap in auditor.accuracy_gaps:
         _add_finding(
@@ -542,7 +542,7 @@ def run_impl_non_redefinition(
     count = 0
     ch5_terms_sorted = sorted(ch5_lookup.keys(), key=len, reverse=True)
     for rel in binding_corpus_scope(root):
-        if rel in CH5_OWNERS or rel.startswith("core_02-04"):
+        if rel in CH5_OWNERS or rel.startswith("core_02-03") or rel.startswith("core_04-04"):
             continue
         path = root / rel
         if not path.is_file() or not any(rel.startswith(d) for d in IMPL_DIRS):

@@ -62,7 +62,7 @@ This chapter **does not** relocate or restate that implementation layer as a sec
 
 Incorporated implementation requirements apply together with **Chapter One**. They must not be satisfied through [**Safety (Constraint)**](core_05c_continuity_definitions.md#safety-constraint) or [**Truth (Constitutional Constraint)**](core_05o_oversight_definitions.md#truth-constitutional-constraint) violations. They do not displace **Chapter One** proportionality, necessity, systemic evaluation, or interaction rules where those govern.
 
-**Chapter Six** default constraint stack and **Chapter Five** ([**Supremacy and Enforceability**](core_05i_integrative_definitions.md#supremacy-and-enforceability), [**Trust**](core_05c_continuity_definitions.md#trust), and [**Trustworthiness**](core_05c_continuity_definitions.md#trustworthiness)) supply further evaluative anchors without restatement here.
+**Chapter Six** default constraint stack and **Chapter Five** ([**Supremacy and Enforceability**](core_05i_integrative_definitions.md#supremacy-and-enforceability), [**Trust**](core_05c_continuity_definitions.md#trust), and [**Trustworthiness**](core_05c_continuity_definitions.md#trustworthiness)) supply further assessment anchors without restatement here.
 
 Optional packaging that merges implementation files into fewer Markdown files **does not** alter normative status while those files remain listed as **implementation text** text in the [**Corpus**](core_05i_integrative_definitions.md#corpus) entry in **Chapter Five**.
 
@@ -105,7 +105,7 @@ References across these constitutional volumes to **Chapter Sixteen** or incorpo
 
 - Upstream: [§2](#2-authority-stack-and-invocation) (*binding vs incorporated sources; conflict order; stricter-baseline rule*); [Chapter Fifteen](core_13-15_amendment.md#chapter-fifteen-amendment-ratification-and-procedural-validity) (*recorded adoption chain*); [**Corpus**](core_05i_integrative_definitions.md#corpus) (*implementation text enumeration and operative corpus identity*) in [Chapter Five](core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions); [Chapter Thirteen §3](core_13-15_amendment.md#3-anti-evasion-clause-and-constitutional-misconduct-referral) (*anti-evasion interaction named in the anti-drift bullets*).
 - Downstream: [§4](#4-adoption-framing-and-scope-of-authority) (*operative effect and adoption framing*); designated **implementation text** files as pinned editions; [evidence/](evidence/) hooks named in the process-layer bullet.
-- Read with: [Chapters Two through Four](core_02-04_definition_mechanics.md) (*tracing and verification expectations that support custody discipline*); [doc_architecture.md](doc_architecture.md) (*non-binding mapping and edition metadata unless adopted*).
+- Read with: [Chapters Two through Four](core_02-03_definition_mechanics.md) (*tracing and verification expectations that support custody discipline*); [doc_architecture.md](doc_architecture.md) (*non-binding mapping and edition metadata unless adopted*).
 
 </details>
 

@@ -27,8 +27,13 @@ def parse_args() -> argparse.Namespace:
     )
     parser.add_argument(
         "--file",
-        default="core_02-04_definition_mechanics.md",
-        help="Corpus Markdown file for Ch 3 / Ch 4 definition-structure slices (under --root).",
+        default="core_02-03_definition_mechanics.md",
+        help="Corpus Markdown file for Chapter Three definition-structure slices (under --root).",
+    )
+    parser.add_argument(
+        "--ch4-file",
+        default="core_04-04_burden_traceability_verification.md",
+        help="Corpus Markdown file for Chapter Four traceability slices (under --root).",
     )
     parser.add_argument(
         "--thematic-break-files",
@@ -180,7 +185,8 @@ DEFAULT_THEMATIC_BREAK_TARGETS: tuple[str, ...] = (
     "core_01_a_values_principles.md",
     "core_01_b_interaction_interpretation.md",
     "core_01_c_stewardship_capacity_principles.md",
-    "core_02-04_definition_mechanics.md",
+    "core_02-03_definition_mechanics.md",
+    "core_04-04_burden_traceability_verification.md",
     "core_05-05_definitions_a_independent.md",
     "core_05f_flourishing_aim.md",
     "core_05g_continuity_aim.md",
@@ -264,22 +270,24 @@ def resolve_thematic_paths(root: pathlib.Path, arg: str | None) -> list[pathlib.
 
 
 def check_ch2_42_evansion_nesting(section_lines: list[str]) -> list[str]:
-    """First category under Non-Reductive Evasion Types must retain nested examples."""
+    """First category under Common Evasion Patterns must retain nested examples."""
     errors: list[str] = []
     cat_i = None
     for i, line in enumerate(section_lines):
-        if line.rstrip() == "- Representation and Proxy-Based Evasion":
+        if line.rstrip().startswith("- **Fake measures and paperwork**"):
             cat_i = i
             break
     if cat_i is None:
         errors.append(
-            "Chapter Three Chapter One §8.2: missing category line '- Representation and Proxy-Based Evasion'"
+            "Chapter Three §2.1: missing category line '- **Fake measures and paperwork**'"
         )
         return errors
 
     children = collect_immediate_nested_bullets(section_lines, cat_i)
     if not children:
-        errors.append("Chapter Three Chapter One §8.2: missing nested lines under Representation and Proxy-Based Evasion")
+        errors.append(
+            "Chapter Three §2.1: missing nested lines under Fake measures and paperwork"
+        )
         return errors
     return errors
 
@@ -287,8 +295,10 @@ def check_ch2_42_evansion_nesting(section_lines: list[str]) -> list[str]:
 def main() -> int:
     args = parse_args()
     root = pathlib.Path(args.root).resolve()
-    path = root / args.file
-    text = load_text(path)
+    ch3_path = root / args.file
+    ch4_path = root / args.ch4_file
+    ch3_text = load_text(ch3_path)
+    ch4_text = load_text(ch4_path)
 
     findings: list[str] = []
     thematic_paths = resolve_thematic_paths(root, args.thematic_break_files)
@@ -300,13 +310,13 @@ def main() -> int:
         findings.extend(check_oec_intro_sublist_nesting(tb_lines, rel))
 
     s65 = slice_between(
-        text,
+        ch4_text,
         "#### 3.16 Mandatory traceability properties",
         "### 4. Observability of Traceability Requirement",
     )
     if s65 is None:
         findings.append(
-            "Could not slice Chapter Four Chapter One §8.2 (missing heading or section 4 boundary)"
+            "Could not slice Chapter Four §3.16 (missing heading or section 4 boundary)"
         )
     else:
         findings.extend(
@@ -314,19 +324,20 @@ def main() -> int:
         )
 
     s42 = slice_between(
-        text,
-        "#### 2.2 Non-Reductive Evasion Types",
-        "#### 2.3 Reductive Evasion",
+        ch3_text,
+        "#### 2.1 Common Evasion Patterns",
+        "#### 2.2 Reductive Evasion",
     )
     if s42 is None:
         findings.append(
-            "Could not slice Chapter Three Chapter One §8.2 (missing heading or Chapter One §8.3 boundary)"
+            "Could not slice Chapter Three §2.1 (missing heading or §2.2 boundary)"
         )
     else:
         findings.extend(check_ch2_42_evansion_nesting(s42.splitlines()))
 
     print("Corpus Markdown structure audit:")
-    print(f"- Definition-structure slice file: {args.file} (Ch 3 Chapter One §8.2 + Ch 4 Chapter One §8.2)")
+    print(f"- Chapter Three slice file: {args.file}")
+    print(f"- Chapter Four slice file: {args.ch4_file}")
     print(
         "- Horizontal-rule (---) blank-line targets: "
         + ", ".join(p.relative_to(root).as_posix() for p in thematic_paths)
