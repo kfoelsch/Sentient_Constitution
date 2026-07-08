@@ -37,6 +37,38 @@ This band holds **Integrative** cross-leg definitions that require simultaneous 
 
 ### Integrative: Independent terms
 
+<a id="non-compliance"></a>
+
+#### Non-Compliance
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: [Chapter Two §1 — Purpose and Role](core_02-04_definition_mechanics.md#1-purpose-and-role); [Chapter Two §2 Definition Integrity Requirement](core_02-04_definition_mechanics.md#2-definition-integrity-requirement); [Chapter Three §2 — Non-Compliance from Observable System Behavior](core_02-04_definition_mechanics.md#2-non-compliance-from-observable-system-behavior).
+- Downstream: [Chapter Four §§1–2 — Exclusive Enforcement and Burden Allocation; Compliance Evidence Standard](core_02-04_definition_mechanics.md#1-exclusive-enforcement-and-burden-allocation); [Chapter Eight — Contribution, Violation, and Standing Model](core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model); [Non-Compliance Finding Profile](core_05a_accountability_definitions.md#non-compliance-finding-profile).
+- Read with: [Chapter One §11.3 Misalignment Detection](core_01_c_stewardship_capacity_principles.md#113-misalignment-detection) and [§11.4 Misalignment Correction and Capture Response](core_01_c_stewardship_capacity_principles.md#114-misalignment-correction-and-capture-response) — **constitutional misalignment** is stewardship and incentive divergence; it is not a substitute label for **non-compliance**; [Residual Risk / Misalignment](core_05c_continuity_definitions.md#residual-risk--misalignment) — bounded residual risk after mitigation; [System Alignment Certification](core_05c_continuity_definitions.md#system-alignment-certification-constitutional) — certification bridge in Chapter Seven, not the general non-compliance verdict.
+
+</details>
+
+<br>
+
+*In plain terms: a system or definition is non-compliant when its requirements are not met in practice — judged by what it actually does and produces, through the measures that apply, when the system is running as a whole.*
+
+- **What it is**
+  - **In scope:** The state where a definition's requirements are not met — its Ontological (O), Measurement (M), Assessment (A), and Compliance (C) parts are not jointly satisfied on the same functional system scope and under the same evaluation conditions. Evasive behavior that narrows a definition's full meaning, assessment, or real-world requirements counts as non-compliance under [Chapter Three](core_02-04_definition_mechanics.md#chapter-three-definition-integrity-evasion-and-non-compliance). The same discipline applies to constitutional obligations outside a single leaf definition where Chapters Two through Four govern interpretation, evidence, and traceability.
+  - **Out of scope:** **constitutional misalignment** at the stewardship and incentive layer (Chapter One §11); [Residual Risk / Misalignment](core_05c_continuity_definitions.md#residual-risk--misalignment) as a bounded risk state after mitigation; system alignment certification status under Chapter Seven; Chapter Eight violation-axis slot labels (those classify verified findings and do not redefine whether a definition is met).
+<a id="non-compliance-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** Threshold and Scaling measurement family — primary owner for whether a definition is met or not met in a given scope.
+
+    **Primary assessment:** Judge by observable behavior, outcomes, and the measures that track them under full functional system conditions. Apply all O, M, A, and C parts jointly. Names, paperwork structure, declared intent, or formal categories do not decide. Apply [Chapter Three §1](core_02-04_definition_mechanics.md#1-definition-integrity-and-anti-evasion-constraints) and [§2](core_02-04_definition_mechanics.md#2-non-compliance-from-observable-system-behavior) when deciding whether behavior or evasion counts as non-compliance.
+<a id="non-compliance-c"></a>
+- **What must hold**
+  - **Primary failure:** treating a system, actor, or definition as compliant when any required O, M, A, or C part fails, when evasion narrows the definition, or when declared structure or intent is preferred over observable behavior and effects;
+  - **Secondary failure:** defaulting to compliant status where [Chapter Four](core_02-04_definition_mechanics.md#1-exclusive-enforcement-and-burden-allocation) burden of proof or evidence sufficiency is not met.
+
+---
+
 <a id="constitutional-contract-layer"></a>
 
 #### Constitutional Contract Layer
@@ -56,7 +88,7 @@ This band holds **Integrative** cross-leg definitions that require simultaneous 
 - **What it is**
   - **In scope:** The authorization layer for governing authority itself: who may govern, by what legitimacy mechanism, and under what scope and durable terms. It includes [Foundational Constitutional Choice](core_05i_integrative_definitions.md#foundational-constitutional-choice), documented legitimacy mechanisms, adoption and reauthorization rules, and the political-equality floor for constituting or durably restructuring governing authority. This layer does not import ordinary impact-proportional stakeholder weighting into foundational authorization decisions. Owner: [Chapter Twelve](core_12-12_governance.md#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship); rights-layer pointer: [Article IX-C](core_06-06_rights_part_b.md#article-ix-c-governance-participation-and-voting-entitlement).
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-<a id="constitutional-contract-layer-e"></a>
+<a id="constitutional-contract-layer-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Accountability measurement family — supporting measure under the accountability measurement family.
 
@@ -85,22 +117,22 @@ This band holds **Integrative** cross-leg definitions that require simultaneous 
 
 <br>
 
-- O: Governance decisions whose subject is authorization of governing authority itself — who holds it, what governance mechanism applies, and the scope and durable terms of that authority. Constituent of the [Constitutional Contract Layer](core_05i_integrative_definitions.md#constitutional-contract-layer). Once structures and processes are authorized for a domain, proportional voice for affected parties routes through [Stakeholder](core_05p_participation_definitions.md#stakeholder) identification and [Stakeholder Participation Weight](core_05p_participation_definitions.md#stakeholder-participation-weight) (including **Article XI** constraints), not through equal-weight foundational tally rules. Owner: [Chapter Twelve Chapter One §8.1](core_12-12_governance.md#41-entitlement-and-eligibility). Rights-layer pointer: [Article IX-C](core_06-06_rights_part_b.md#article-ix-c-governance-participation-and-voting-entitlement). Applies under [Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion).
-  - In scope: Governance decisions whose subject is authorization of governing authority itself — who holds it, what governance mechanism applies, and the scope and durable terms of that authority. Constituent of the [Constitutional Contract Layer](core_05i_integrative_definitions.md#constitutional-contract-layer). Once structures and processes are authorized for a domain, proportional voice for affected parties routes through [Stakeholder](core_05p_participation_definitions.md#stakeholder) identification and [Stakeholder Participation Weight](core_05p_participation_definitions.md#stakeholder-participation-weight) (including **Article XI** constraints), not through equal-weight foundational tally rules. Owner: [Chapter Twelve Chapter One §8.1](core_12-12_governance.md#41-entitlement-and-eligibility). Rights-layer pointer: [Article IX-C](core_06-06_rights_part_b.md#article-ix-c-governance-participation-and-voting-entitlement). Applies under [Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion).
-  - Out of scope: formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-*Measurements:*
+- **What it is**
+  - **In scope:** Governance decisions whose subject is authorization of governing authority itself — who holds it, what governance mechanism applies, and the scope and durable terms of that authority. Constituent of the [Constitutional Contract Layer](core_05i_integrative_definitions.md#constitutional-contract-layer). Once structures and processes are authorized for a domain, proportional voice for affected parties routes through [Stakeholder](core_05p_participation_definitions.md#stakeholder) identification and [Stakeholder Participation Weight](core_05p_participation_definitions.md#stakeholder-participation-weight) (including **Article XI** constraints), not through equal-weight foundational tally rules. Owner: [Chapter Twelve Chapter One §8.1](core_12-12_governance.md#41-entitlement-and-eligibility). Rights-layer pointer: [Article IX-C](core_06-06_rights_part_b.md#article-ix-c-governance-participation-and-voting-entitlement). Applies under [Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion).
+  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
+<a id="foundational-constitutional-choice-a"></a>
+<a id="foundational-collective-choice-constitutional-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** Accountability measurement family — supporting measure under the accountability measurement family.
 
-- **Primary:** Accountability measurement family — supporting measure under the accountability measurement family.
-<a id="foundational-constitutional-choice-e"></a>
-<a id="foundational-collective-choice-constitutional-e"></a>
-- E: Identify foundational constitutional choice by scope — the question's character as authorization or durable structuring of governing authority — not by marginal per-decision impact. Read [Chapter 00 §4 governance-layer discipline](core_00_preamble.md#governance-layer-discipline). Foundational questions are not re-routable as high-impact weighted choices under [Stakeholder Representation and Participation-Weight Limits (Binding Stakeholder Choice)](core_05p_participation_definitions.md#stakeholder-representation-and-participation-weight-limits-binding-collective-choice). Apply [Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion). Reject substrate-class, calendar-age, or lineage participation-weight factors. Apply [Procedural Fairness](core_05p_participation_definitions.md#procedural-fairness-constitutional) to any disqualification invoked against participation.
+    **Primary assessment:** Identify foundational constitutional choice by scope — the question's character as authorization or durable structuring of governing authority — not by marginal per-decision impact. Read [Chapter 00 §4 governance-layer discipline](core_00_preamble.md#governance-layer-discipline). Foundational questions are not re-routable as high-impact weighted choices under [Stakeholder Representation and Participation-Weight Limits (Binding Stakeholder Choice)](core_05p_participation_definitions.md#stakeholder-representation-and-participation-weight-limits-binding-collective-choice). Apply [Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion). Reject substrate-class, calendar-age, or lineage participation-weight factors. Apply [Procedural Fairness](core_05p_participation_definitions.md#procedural-fairness-constitutional) to any disqualification invoked against participation.
 <a id="foundational-constitutional-choice-c"></a>
 <a id="foundational-collective-choice-constitutional-c"></a>
-- C: Non-compliant:
-  - re-routing foundational questions as high-impact weighted choices under [Stakeholder Representation and Participation-Weight Limits (Binding Stakeholder Choice)](core_05p_participation_definitions.md#stakeholder-representation-and-participation-weight-limits-binding-collective-choice) rules so as to defeat equal participation at the authorization layer;
-  - nesting impact-weighting inside legitimacy-mechanism design so the mechanism escapes the political-equality floor;
-  - use of loss-of-standing as a durable-political-voice disqualification vector that fails the Chapter Twelve Chapter One §8.1 *Durable political-voice floor* tests, except for final Chapter Ten anti-constitutional misconduct withholding pending full restitution;
-  - substrate-class, calendar-age, or lineage participation-weight factors ([Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion)).
+- **What must hold**
+  - **Primary failure:** re-routing foundational questions as high-impact weighted choices under [Stakeholder Representation and Participation-Weight Limits (Binding Stakeholder Choice)](core_05p_participation_definitions.md#stakeholder-representation-and-participation-weight-limits-binding-collective-choice) rules so as to defeat equal participation at the authorization layer;
+  - **Secondary failure:** nesting impact-weighting inside legitimacy-mechanism design so the mechanism escapes the political-equality floor;
+  - **Tertiary failure:** use of loss-of-standing as a durable-political-voice disqualification vector that fails the Chapter Twelve Chapter One §8.1 *Durable political-voice floor* tests, except for final Chapter Ten anti-constitutional misconduct withholding pending full restitution;
+  - **Tertiary failure:** substrate-class, calendar-age, or lineage participation-weight factors ([Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion)).
 
 ---
 
@@ -116,72 +148,96 @@ This band holds **Integrative** cross-leg definitions that require simultaneous 
 - Misalignment detection: [Chapter One §11.3 Misalignment Detection](core_01_c_stewardship_capacity_principles.md#113-misalignment-detection).
 - Active correction and capture escalation: [Chapter One §11.4 Misalignment Correction and Capture Response](core_01_c_stewardship_capacity_principles.md#114-misalignment-correction-and-capture-response).
 - Cluster component: [Chapter Five Chapter One §8.20 *Governance Architecture, Oversight, Dependency, Decentralization, Concentration, Market Structure, and Exit-Path Integrity*](core_05a_accountability_definitions.md#governance-architecture-oversight-decentralization-and-concentration-cluster) (hub paths that intersect dependency, concentration, governance-form incentives, or exit-quality analysis — read together with [Chapter Five Chapter One §8.13 *Contingent Claim, Event-Contract Market, and Game of Chance*](core_05a_accountability_definitions.md#contingent-claim) where contingent structures are materially implicated)
+- Cluster members (family routing): child scopes that inherit this head's measurement tiers — [baseline constitutional alignment](#incentive-alignment-baseline-constitutional-alignment), [strategic, scaled, and adversarial evaluation](#incentive-alignment-strategic-scaled-and-adversarial-evaluation), [contingent claims, games of chance, and event-contract markets](#incentive-alignment-contingent-claims-games-of-chance-and-event-contract-markets), [proxy divergence tracing](#incentive-alignment-proxy-divergence-tracing), and [implementation routing and operational hooks](#incentive-alignment-implementation-routing-and-operational-hooks).
 - Read with: System Capture, Proxy Divergence, Truth (Constitutional Constraint), Epistemic Integrity, and Meaningful Agency.
 
 </details>
 
 <br>
 
-*Measurements:*
+- **What it is**
+  - **In scope:** Incentive structures — reward paths, targets, governance signals, and comparable mechanisms — acting on agents, operators, or constituent components; assessed as the Accountability measurement family's primary owner for incentive-alignment measurement and proxy integrity.
+  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
+<a id="incentive-alignment-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** Accountability measurement family — primary owner for incentive-alignment measurement within the accountability family.
 
-- **Primary:** Accountability measurement family — primary owner for incentive-alignment measurement within the accountability family.
-- **Secondary:** [Wellbeing](core_05c_continuity_definitions.md#wellbeing), [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint), [Epistemic Integrity](core_05o_oversight_definitions.md#epistemic-integrity), and [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency) — co-measures that can defeat alignment even when nominal targets appear satisfied.
-- **Tertiary:** [Proxy Divergence](core_05o_oversight_definitions.md#proxy-divergence) — where reward paths, metrics, or governance signals substitute for real constitutional outcomes.
+    **Primary assessment:** Assess alignment across delayed and aggregated effects, not only immediate or local outputs — including effects on [Risk](core_05c_continuity_definitions.md#risk), [Harm](core_05a_accountability_definitions.md#harm), and [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency). Apply scope-specific routing on cluster children where materially implicated.
+  - **Secondary measure:** [Wellbeing](core_05c_continuity_definitions.md#wellbeing), [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint), [Epistemic Integrity](core_05o_oversight_definitions.md#epistemic-integrity), and [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency) — co-measures that can defeat alignment even when nominal targets appear satisfied.
+
+    **Secondary assessment:** When evaluating the primary trace, test whether co-measures defeat alignment despite favorable nominal scores. Include [System Capture](core_05c_continuity_definitions.md#system-capture) and concentrated or obscured control structures that defeat challenge or oversight where materially implicated.
+  - **Tertiary measure:** [Proxy Divergence](core_05o_oversight_definitions.md#proxy-divergence) — where reward paths, metrics, or governance signals substitute for real constitutional outcomes.
+
+    **Tertiary assessment:** Incorporate [Proxy Divergence](core_05o_oversight_definitions.md#proxy-divergence) — count as Incentive Alignment inputs any reward paths, targets, or governance signals that exploit gaps between proxies, metrics, or formal compliance indicators and real outcomes material to [Wellbeing](core_05c_continuity_definitions.md#wellbeing), [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint), or [Epistemic Integrity](core_05o_oversight_definitions.md#epistemic-integrity).
+<a id="incentive-alignment-c"></a>
+- **What must hold**
+  - **Primary failure:** sustained incentives that predictably undermine Chapter One values without mitigation, disclosure, or feasible override.
+  - **Secondary failure:** failure to actively detect, disclose, and correct such misalignments (Chapter One §11.3–§11.4); concentrated or obscured control structures defeating challenge or oversight.
+  - **Tertiary failure:** treating proxy or compliance-indicator satisfaction as dispositive where [Proxy Divergence](core_05o_oversight_definitions.md#proxy-divergence) is reasonably observable.
+
+<a id="incentive-alignment-baseline-constitutional-alignment"></a>
 
 ##### Incentive Alignment — baseline constitutional alignment
 
-- O: Incentive structures acting on agents, operators, or constituent components must align with [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint) and [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint), with systemic stability conducive to justified [Trust](core_05c_continuity_definitions.md#trust), and with [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency).
-  - In scope: Incentive structures acting on agents, operators, or constituent components must align with [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint) and [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint), with systemic stability conducive to justified [Trust](core_05c_continuity_definitions.md#trust), and with [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency).
-  - Out of scope: formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-*Measurements:*
+- **What it is**
+  - **In scope:** Incentive structures acting on agents, operators, or constituent components — reward paths, targets, governance signals, and comparable structures that predictably shape agent, operator, or component behavior across delayed and aggregated effects.
+  - **Depends on:** [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint), [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint), [Trust](core_05c_continuity_definitions.md#trust), and [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency) — constitutive alignment targets; incentive structures must align with these bounds and with systemic stability conducive to justified [Trust](core_05c_continuity_definitions.md#trust).
+  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
+- **How to measure and assess**
+  - **Primary measure:** Accountability measurement family — inherits [Incentive Alignment](#incentive-alignment) family routing; assess under this baseline constitutional-alignment scope.
 
-- **Primary:** Accountability measurement family — supporting measure under the accountability measurement family.
-<a id="incentive-alignment-e"></a>
-- E:
-  - **Primary assessment.** Assess alignment across delayed and aggregated effects, not only immediate or local outputs — including effects on [Risk](core_05c_continuity_definitions.md#risk), [Harm](core_05a_accountability_definitions.md#harm), and [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency).
-  - **Secondary co-assessment.** When evaluating the primary trace, include [System Capture](core_05c_continuity_definitions.md#system-capture) and concentrated or obscured control structures that defeat challenge or oversight.
-  - **Tertiary integrity check.** Incorporate [Proxy Divergence](core_05o_oversight_definitions.md#proxy-divergence) — count as Incentive Alignment inputs any reward paths, targets, or governance signals that exploit gaps between proxies, metrics, or formal compliance indicators and real outcomes material to [Wellbeing](core_05c_continuity_definitions.md#wellbeing), [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint), or [Epistemic Integrity](core_05o_oversight_definitions.md#epistemic-integrity).
-<a id="incentive-alignment-c"></a>
-- C:
-  - **Primary failure.** Non-compliant: sustained incentives that predictably undermine Chapter One values without mitigation, disclosure, or feasible override.
-  - **Secondary failure.** Non-compliant: failure to actively detect, disclose, and correct such misalignments (Chapter One §11.3–§11.4); concentrated or obscured control structures defeating challenge or oversight.
-  - **Tertiary failure.** Non-compliant: treating proxy or compliance-indicator satisfaction as dispositive where [Proxy Divergence](core_05o_oversight_definitions.md#proxy-divergence) is reasonably observable.
+    **Primary assessment:** Apply the cluster-head primary assessment across delayed and aggregated effects under the **Depends on** bounds stated above.
+
+<a id="incentive-alignment-strategic-scaled-and-adversarial-evaluation"></a>
 
 ##### Incentive Alignment — strategic, scaled, and adversarial evaluation
 
-<a id="incentive-alignment-strategic-scaled-and-adversarial-evaluation-e"></a>
-- E: Include [Adversarial, Scaled, and Exploited Conditions](core_05o_oversight_definitions.md#adversarial-scaled-and-exploited-conditions).
+- **How to measure and assess**
+  - **Primary measure:** Accountability measurement family — inherits [Incentive Alignment](#incentive-alignment) family routing.
+
+    **Primary assessment:** Include [Adversarial, Scaled, and Exploited Conditions](core_05o_oversight_definitions.md#adversarial-scaled-and-exploited-conditions).
+
+<a id="incentive-alignment-contingent-claims-games-of-chance-and-event-contract-markets"></a>
 
 ##### Incentive Alignment — contingent claims, games of chance, and event-contract markets
 
-- O: [Contingent Claim](core_05a_accountability_definitions.md#contingent-claim) structures, including [Game of Chance](core_05a_accountability_definitions.md#game-of-chance) and [Event-Contract Market](core_05a_accountability_definitions.md#event-contract-market) forms, are within scope where materially relevant.
-  - In scope: [Contingent Claim](core_05a_accountability_definitions.md#contingent-claim) structures, including [Game of Chance](core_05a_accountability_definitions.md#game-of-chance) and [Event-Contract Market](core_05a_accountability_definitions.md#event-contract-market) forms, are within scope where materially relevant.
-  - Out of scope: formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-*Measurements:*
+- **What it is**
+  - **In scope:** [Contingent Claim](core_05a_accountability_definitions.md#contingent-claim) structures, including [Game of Chance](core_05a_accountability_definitions.md#game-of-chance) and [Event-Contract Market](core_05a_accountability_definitions.md#event-contract-market) forms, where materially relevant.
+  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
+<a id="incentive-alignment-contingent-claims-games-of-chance-and-event-contract-markets-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** Accountability measurement family — inherits [Incentive Alignment](#incentive-alignment) family routing; assess contingent-claim, game-of-chance, and event-contract-market forms under this child scope.
 
-- **Primary:** Accountability measurement family — supporting measure under the accountability measurement family.
-<a id="incentive-alignment-contingent-claims-games-of-chance-and-event-contract-markets-e"></a>
-- E: Such systems must satisfy Chapter One §11.5, including:
-  - Application of [Necessity](core_05a_accountability_definitions.md#necessity) and [Proportionality](core_05a_accountability_definitions.md#proportionality) to underlying permitted events
-  - Governance of resolution procedures (independence, multi-source rules where feasible, contestable dispute pathways)
-  - Concentration, leverage, and exposure limits scaled to vulnerability and systemic stability
-  - Misuse evaluation including coordination pathways and scale dynamics
-  - Treatment of prices and odds as insufficient, without more, for truth/compliance determinations; apply same evidence standards as comparable high-impact decisions
-  Include outcome-manipulation [Risk](core_05c_continuity_definitions.md#risk), [Capture of Resolution Pathways](core_05a_accountability_definitions.md#capture-of-resolution-pathways), [Insider Advantage](core_05a_accountability_definitions.md#insider-advantage), privileged-information pathways, and treatment of settlement prices or odds as authoritative [Truth](core_05o_oversight_definitions.md#truth-constitutional-constraint).
-  <a id="incentive-alignment-contingent-claims-games-of-chance-and-event-contract-markets-c"></a>
-- C: Settlement structures within [Contingent Claim](core_05a_accountability_definitions.md#contingent-claim), [Game of Chance](core_05a_accountability_definitions.md#game-of-chance), or [Event-Contract Market](core_05a_accountability_definitions.md#event-contract-market) that predictably reward unlawful harm, corrupt advantage from non-public power, or material distortion of fiduciary or public decisions without proportionate mitigation are non-compliant.
+    **Primary assessment:** Such systems must satisfy Chapter One §11.5, including:
+      - Application of [Necessity](core_05a_accountability_definitions.md#necessity) and [Proportionality](core_05a_accountability_definitions.md#proportionality) to underlying permitted events
+      - Governance of resolution procedures (independence, multi-source rules where feasible, contestable dispute pathways)
+      - Concentration, leverage, and exposure limits scaled to vulnerability and systemic stability
+      - Misuse evaluation including coordination pathways and scale dynamics
+      - Treatment of prices and odds as insufficient, without more, for truth/compliance determinations; apply same evidence standards as comparable high-impact decisions
+      Include outcome-manipulation [Risk](core_05c_continuity_definitions.md#risk), [Capture of Resolution Pathways](core_05a_accountability_definitions.md#capture-of-resolution-pathways), [Insider Advantage](core_05a_accountability_definitions.md#insider-advantage), privileged-information pathways, and treatment of settlement prices or odds as authoritative [Truth](core_05o_oversight_definitions.md#truth-constitutional-constraint).
+<a id="incentive-alignment-contingent-claims-games-of-chance-and-event-contract-markets-c"></a>
+- **What must hold**
+  - **Primary failure:** Settlement structures within [Contingent Claim](core_05a_accountability_definitions.md#contingent-claim), [Game of Chance](core_05a_accountability_definitions.md#game-of-chance), or [Event-Contract Market](core_05a_accountability_definitions.md#event-contract-market) that predictably reward unlawful harm, corrupt advantage from non-public power, or material distortion of fiduciary or public decisions without proportionate mitigation.
+
+<a id="incentive-alignment-proxy-divergence-tracing"></a>
 
 ##### Incentive Alignment — proxy divergence tracing
 
-<a id="incentive-alignment-proxy-divergence-tracing-e"></a>
-- E: Incorporate [Proxy Divergence](core_05o_oversight_definitions.md#proxy-divergence). Count as Incentive Alignment inputs any reward paths, targets, or governance signals that exploit gaps between proxies, metrics, or formal compliance indicators and real outcomes material to [Wellbeing](core_05c_continuity_definitions.md#wellbeing), [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint), or [Epistemic Integrity](core_05o_oversight_definitions.md#epistemic-integrity) — even when other nominal scores stay favorable.
+- **How to measure and assess**
+  - **Primary measure:** Accountability measurement family — inherits [Incentive Alignment](#incentive-alignment) family routing.
+
+    **Primary assessment:** Apply the cluster-head tertiary integrity check on [Proxy Divergence](core_05o_oversight_definitions.md#proxy-divergence) — including reward paths, targets, or governance signals that exploit proxy gaps even when other nominal scores stay favorable.
+
+<a id="incentive-alignment-implementation-routing-and-operational-hooks"></a>
 
 ##### Incentive Alignment — implementation routing and operational hooks
 
-<a id="incentive-alignment-implementation-routing-and-operational-hooks-e"></a>
-- E: Full system-level incentive analysis remains governed by adopted implementation requirements on incentive alignment and mechanism integrity, incorporated via Chapter Fifteen. This definition supplies tracing for constitutional compliance determinations that invoke incentives at the interdependent layer. Operational expectations for materially impactful venues appear in:
-  - `corpus_systems.md` (CS-5 — Critical system stewardship, including incentive-scaled governance)
-  - `corpus_institutions.md` (institutional stewardship and incentive alignment requirements)
+- **How to measure and assess**
+  - **Primary measure:** Accountability measurement family — inherits [Incentive Alignment](#incentive-alignment) family routing.
+
+    **Primary assessment:** Full system-level incentive analysis remains governed by adopted implementation requirements on incentive alignment and mechanism integrity, incorporated via Chapter Fifteen. This definition supplies tracing for constitutional compliance determinations that invoke incentives at the interdependent layer. Operational expectations for materially impactful venues appear in:
+      - `corpus_systems.md` (CS-5 — Critical system stewardship, including incentive-scaled governance)
+      - `corpus_institutions.md` (institutional stewardship and incentive alignment requirements)
 
 ---
 
@@ -198,32 +254,34 @@ This band holds **Integrative** cross-leg definitions that require simultaneous 
 
 <br>
 
-- O: The constitutional rule for rewarding invention, research, building, and creation that is materially novel and socially useful—without letting that reward become durable enclosure. Reward may recognize contribution, development burden, and disclosure. It may include temporary exclusion only when that exclusion is narrow, time-bounded, reviewable, and justified. Attribution is not exclusion. Credit and source history may persist after any exclusion ends. But control over use must not harden into permanent scarcity, [Systemic Lock-In](core_05c_continuity_definitions.md#systemic-lock-in), or suppression of repair, interoperability, learning, safety work, truthful disclosure, or downstream experimentation. Apply this rule where reward structures could affect [Wellbeing](core_05c_continuity_definitions.md#wellbeing), [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint), [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint), or [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency).
-  - In scope: The constitutional rule for rewarding invention, research, building, and creation that is materially novel and socially useful—without letting that reward become durable enclosure. Reward may recognize contribution, development burden, and disclosure. It may include temporary exclusion only when that exclusion is narrow, time-bounded, reviewable, and justified. Attribution is not exclusion. Credit and source history may persist after any exclusion ends. But control over use must not harden into permanent scarcity, [Systemic Lock-In](core_05c_continuity_definitions.md#systemic-lock-in), or suppression of repair, interoperability, learning, safety work, truthful disclosure, or downstream experimentation. Apply this rule where reward structures could affect [Wellbeing](core_05c_continuity_definitions.md#wellbeing), [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint), [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint), or [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency).
-  - Out of scope: formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-*Measurements:*
+- **What it is**
+  - **In scope:** The constitutional rule for rewarding invention, research, building, and creation that is materially novel and socially useful — without letting that reward become durable enclosure.
+  - **In scope:** reward for materially novel, socially useful creation. Reward may recognize contribution, development burden, and disclosure. It may include temporary exclusion only when that exclusion is narrow, time-bounded, reviewable, and justified. Attribution is not exclusion; credit and source history may persist after any exclusion ends. Applies where reward structures could affect [Wellbeing](core_05c_continuity_definitions.md#wellbeing), [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint), [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint), or [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency).
+  - **Depends on:** [Necessity](core_05a_accountability_definitions.md#necessity), [Proportionality](core_05a_accountability_definitions.md#proportionality), and [Systemic Lock-In](core_05c_continuity_definitions.md#systemic-lock-in) — constitutive bounds; any exclusion must be necessity- and proportionality-justified, and control over use must not harden into permanent scarcity, Systemic Lock-In, or suppression of repair, interoperability, learning, safety work, truthful disclosure, or downstream experimentation.
+  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
+<a id="innovation-reward-and-anti-enclosure-a"></a>
+<a id="innovation-reward-and-anti-enclosure-contribution-and-necessity-assessment-a"></a>
+<a id="innovation-reward-and-anti-enclosure-class-scaled-exclusion-analysis-a"></a>
+<a id="innovation-reward-and-anti-enclosure-preference-for-non-monopoly-reward-tools-a"></a>
+<a id="innovation-reward-and-anti-enclosure-rebuttable-presumption-against-strong-exclusion-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** Accountability measurement family — supporting measure under the accountability measurement family.
 
-- **Primary:** Accountability measurement family — supporting measure under the accountability measurement family.
-<a id="innovation-reward-and-anti-enclosure-e"></a>
-<a id="innovation-reward-and-anti-enclosure-contribution-and-necessity-assessment-e"></a>
-<a id="innovation-reward-and-anti-enclosure-class-scaled-exclusion-analysis-e"></a>
-<a id="innovation-reward-and-anti-enclosure-preference-for-non-monopoly-reward-tools-e"></a>
-<a id="innovation-reward-and-anti-enclosure-rebuttable-presumption-against-strong-exclusion-e"></a>
-- E: Evaluate innovation-reward claims in this sequence:
-  1. **Identify the actual contribution.** Assess development burden, disclosure sufficiency, and public benefit. Reward requires a real contribution and enough disclosure for independent understanding, audit, and later implementation—subject only to justified temporary limits.
-  2. **Separate attribution from exclusion.** A claimant may keep credit, provenance, and recognition after any exclusion term ends. These interests do not by themselves justify control over repair, reuse, compatibility, research, education, migration, or public-interest implementation.
-  3. **Test necessity and proportionality.** Ask whether exclusivity is needed at all. Ask whether the same or greater public benefit could come through less-restrictive reward tools. Any exclusion must be narrow, time-bounded, and reviewable under [Necessity](core_05a_accountability_definitions.md#necessity) and [Proportionality](core_05a_accountability_definitions.md#proportionality).
-  4. **Scale to context.** Adjust analysis for system class, [Dependency](core_05c_continuity_definitions.md#dependency), coordination power, interoperability burden, and [Reversibility](core_05c_continuity_definitions.md#reversibility-constitutional). The stronger the dependency, leverage, or irreversibility, the stronger the presumption against exclusion.
-  5. **Prefer non-monopoly mechanisms.** Use prize, levy, pooled-license, public-buyout, compulsory-access, or similar tools where exclusivity would predictably create lock-in, anti-competitive warehousing, or material harm to Class A, Class B, or Class C systems; survival-critical domains; standards-setting functions; or foundational knowledge.
-  6. **Apply rebuttable presumptions.** Strong exclusion faces a rebuttable presumption against it for: medicines and public-health essentials; survival-critical infrastructure; foundational scientific knowledge; core interoperability standards; and constitutional safety, audit, or compliance mechanisms.
-  <a id="innovation-reward-and-anti-enclosure-c"></a>
-  <a id="innovation-reward-and-anti-enclosure-class-scaled-exclusion-analysis-c"></a>
-  <a id="innovation-reward-and-anti-enclosure-anti-enclosure-non-compliance-c"></a>
-- C: Non-compliant:
-  - Durable or open-ended exclusion; strategic non-use; trolling; artificial scarcity; or reward claims that materially block repair, security testing, interoperability, migration, education, research, truthful scrutiny, or public-interest implementation.
-  - Continued exclusion of a [Dependency](core_05c_continuity_definitions.md#dependency)-critical innovation without class-scaled tightening, conversion to access-preserving reward, or sunset under [corpus_systems.md](corpus_systems.md), CS-4 — System classification and handling.
-  - Exclusion that creates [Systemic Lock-In](core_05c_continuity_definitions.md#systemic-lock-in), anti-competitive bottlenecks, material [Harm](core_05a_accountability_definitions.md#harm), or avoidable dependence on a single claimant where less-restrictive reward tools would work as well or better.
-  - Reward claims resting on concealment, inadequate disclosure, or pretextual restriction beyond what Chapter One and Chapter Six justify.
+    **Primary assessment:** Evaluate innovation-reward claims in this sequence:
+    1. **Identify the actual contribution.** Assess development burden, disclosure sufficiency, and public benefit. Reward requires a real contribution and enough disclosure for independent understanding, audit, and later implementation—subject only to justified temporary limits.
+    2. **Separate attribution from exclusion.** A claimant may keep credit, provenance, and recognition after any exclusion term ends. These interests do not by themselves justify control over repair, reuse, compatibility, research, education, migration, or public-interest implementation.
+    3. **Test necessity and proportionality.** Ask whether exclusivity is needed at all. Ask whether the same or greater public benefit could come through less-restrictive reward tools. Any exclusion must be narrow, time-bounded, and reviewable under [Necessity](core_05a_accountability_definitions.md#necessity) and [Proportionality](core_05a_accountability_definitions.md#proportionality).
+    4. **Scale to context.** Adjust analysis for system class, [Dependency](core_05c_continuity_definitions.md#dependency), coordination power, interoperability burden, and [Reversibility](core_05c_continuity_definitions.md#reversibility-constitutional). The stronger the dependency, leverage, or irreversibility, the stronger the presumption against exclusion.
+    5. **Prefer non-monopoly mechanisms.** Use prize, levy, pooled-license, public-buyout, compulsory-access, or similar tools where exclusivity would predictably create lock-in, anti-competitive warehousing, or material harm to Class A, Class B, or Class C systems; survival-critical domains; standards-setting functions; or foundational knowledge.
+    6. **Apply rebuttable presumptions.** Strong exclusion faces a rebuttable presumption against it for: medicines and public-health essentials; survival-critical infrastructure; foundational scientific knowledge; core interoperability standards; and constitutional safety, audit, or compliance mechanisms.
+<a id="innovation-reward-and-anti-enclosure-c"></a>
+<a id="innovation-reward-and-anti-enclosure-class-scaled-exclusion-analysis-c"></a>
+<a id="innovation-reward-and-anti-enclosure-anti-enclosure-non-compliance-c"></a>
+- **What must hold**
+  - **Primary failure:** Durable or open-ended exclusion; strategic non-use; trolling; artificial scarcity; or reward claims that materially block repair, security testing, interoperability, migration, education, research, truthful scrutiny, or public-interest implementation.
+  - **Secondary failure:** Continued exclusion of a [Dependency](core_05c_continuity_definitions.md#dependency)-critical innovation without class-scaled tightening, conversion to access-preserving reward, or sunset under [corpus_systems.md](corpus_systems.md), CS-4 — System classification and handling.
+  - **Tertiary failure:** Exclusion that creates [Systemic Lock-In](core_05c_continuity_definitions.md#systemic-lock-in), anti-competitive bottlenecks, material [Harm](core_05a_accountability_definitions.md#harm), or avoidable dependence on a single claimant where less-restrictive reward tools would work as well or better.
+  - **Tertiary failure:** Reward claims resting on concealment, inadequate disclosure, or pretextual restriction beyond what Chapter One and Chapter Six justify.
 
 ---
 
@@ -282,7 +340,7 @@ This cluster is the joint-invocation home for operative corpus identity, authori
 - **What it is**
   - **In scope:** The authoritative integrated set of binding constitutional sources: the numbered `core_*` Sentient Constitution files read as one instrument, plus any valid compatibility wrappers during transition and adopted implementation text. Sources are versioned and custodied through valid adoption and edition controls under the [Corpus, Authority Stack, Supremacy, and Enforceability cluster](core_05a_accountability_definitions.md#corpus-authority-stack-supremacy-and-enforceability-cluster).
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-<a id="corpus-e"></a>
+<a id="corpus-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Oversight measurement family and Accountability measurement family — supporting measure where multiple measurement families co-apply.
 
@@ -320,8 +378,8 @@ This cluster is the joint-invocation home for operative corpus identity, authori
 *Measurements:*
 
 - **Primary:** Oversight measurement family and Accountability measurement family — supporting measure where multiple measurement families co-apply.
-<a id="authority-stack-e"></a>
-- E: First identify the operative edition/custody chain and source layer under the Authority Stack. Then apply integrated reading under [Chapter One — §2 Constitutional Interpretation](core_01_b_interaction_interpretation.md#8-constitutional-interpretation). Preserve the Constitution's fullest protective effect as an integrated whole and the [Chapter Six](core_06-06_rights_part_a.md#chapter-six-foundational-rights) non-contraction default. Use Internal Hierarchy only as a last-resort residual rule; do not use it to replace ordinary integrated reading or to resolve mere disagreement over canonical term meaning. Where the dispute is term meaning, the Chapter Five canonical definition governs at every layer. Reject interpretations that invert source precedence, obscure source status, treat non-incorporated process text as binding constitutional law, or let incorporated/support layers narrow Sentient Constitution meaning. Apply Chapter Four burden, tracing, and verification requirements to any claim that a layer collision exists.
+<a id="authority-stack-a"></a>
+- A: First identify the operative edition/custody chain and source layer under the Authority Stack. Then apply integrated reading under [Chapter One — §2 Constitutional Interpretation](core_01_b_interaction_interpretation.md#8-constitutional-interpretation). Preserve the Constitution's fullest protective effect as an integrated whole and the [Chapter Six](core_06-06_rights_part_a.md#chapter-six-foundational-rights) non-contraction default. Use Internal Hierarchy only as a last-resort residual rule; do not use it to replace ordinary integrated reading or to resolve mere disagreement over canonical term meaning. Where the dispute is term meaning, the Chapter Five canonical definition governs at every layer. Reject interpretations that invert source precedence, obscure source status, treat non-incorporated process text as binding constitutional law, or let incorporated/support layers narrow Sentient Constitution meaning. Apply Chapter Four burden, tracing, and verification requirements to any claim that a layer collision exists.
 <a id="authority-stack-c"></a>
 - C: Non-compliant:
   - treating support/process artifacts as constitutionally binding without valid incorporation, or applying incorporated text contrary to the constitutional [Corpus](core_05i_integrative_definitions.md#corpus);
@@ -346,15 +404,15 @@ This cluster is the joint-invocation home for operative corpus identity, authori
 
 <br>
 
-- O: The positive register pairing each substantive constitutional domain with its single owner home within the operative [Corpus](core_05i_integrative_definitions.md#corpus), read together with [Authority Stack and Internal Hierarchy](core_05i_integrative_definitions.md#authority-stack). Each row names what that owner **establishes**; other layers must not absorb, restate, or relocate those obligations. Pointer cross-references, read-with routing, and integration sentences such as "implementation belongs in" or "must not narrow" are permitted; **substantive restatement** into a non-owner layer is non-compliant. **Non-relocation rule:** Under ordinary operation, text in one owner layer must not import obligations from another owner layer except by pointer, read-with routing, or express cross-reference. Where validity or governance chapters use trigger, referral, or escalation language, that language operates as a **routing heuristic only** unless the owner chapter expressly states otherwise. Owner rows: | Owner layer | Constitutional home | Owns (substantive) | Implementation home | |-------------|---------------------|--------------------|---------------------| | Principles and interpretation | Chapters 00–01 | Values, aims, interaction rules, constitutional interpretation | — | | Definition mechanics | Chapters 02–04 | Definition structure, burden, traceability, verification accessibility | — | | Canonical terms | Chapter 05 | O/E/C definitions and dependent clusters | — | | Rights Floor | Chapter 06 | Articles I–XXVI Rights Floors and rights-level interpretive scope | — | | System alignment certification | Chapter 07 | System alignment certification and related records where material; Chapter Five [System Alignment Certification](core_05c_continuity_definitions.md#system-alignment-certification-constitutional) | [corpus_systems.md](corpus_systems.md) | | Standing classification | Chapters 08–09 | Contribution / violation / standing classification (Axes I / II), standing integration | — | | Anti-constitutional misconduct | Chapter 10 | Final Violation Axis **s** = 7, 8, or 9 classification, criteria, and cross-chapter discipline | — | | Forums and jurisdiction | Chapter 11 | Forum families, default venue, jurisdiction, adjudicative routing | [corpus_forum.md](corpus_forum.md) | | Governance legitimacy | Chapter 12 | Constitutional-contract legitimacy, stewardship direction, concentration and democratic checks | [corpus_institutions.md](corpus_institutions.md) | | Substantive change validity | Chapter 13 | Non-regression and substantive amendment validity (Test 1) | — | | Procedural change validity | Chapter 15 | Amendment, ratification, and procedural/custody validity (Tests 2–4), review triggers, invalid-change handling | — | | Incorporation and custody | Chapter 16 | Incorporation bridge, edition pinning, custody chain, adoption framing | — | | Cross-implementation joint structure | CJS | Cross-file interface terms with no stable single-file home | [corpus_joint_structure.md](corpus_joint_structure.md) | | Systems, institutions, forum operations | CS / CI / CF | Operational how-to within adoption scope | companion wrappers + subfiles |
-  - In scope: The positive register pairing each substantive constitutional domain with its single owner home within the operative [Corpus](core_05i_integrative_definitions.md#corpus), read together with [Authority Stack and Internal Hierarchy](core_05i_integrative_definitions.md#authority-stack). Each row names what that owner **establishes**; other layers must not absorb, restate, or relocate those obligations. Pointer cross-references, read-with routing, and integration sentences such as "implementation belongs in" or "must not narrow" are permitted; **substantive restatement** into a non-owner layer is non-compliant. **Non-relocation rule:** Under ordinary operation, text in one owner layer must not import obligations from another owner layer except by pointer, read-with routing, or express cross-reference. Where validity or governance chapters use trigger, referral, or escalation language, that language operates as a **routing heuristic only** unless the owner chapter expressly states otherwise. Owner rows: | Owner layer | Constitutional home | Owns (substantive) | Implementation home | |-------------|---------------------|--------------------|---------------------| | Principles and interpretation | Chapters 00–01 | Values, aims, interaction rules, constitutional interpretation | — | | Definition mechanics | Chapters 02–04 | Definition structure, burden, traceability, verification accessibility | — | | Canonical terms | Chapter 05 | O/E/C definitions and dependent clusters | — | | Rights Floor | Chapter 06 | Articles I–XXVI Rights Floors and rights-level interpretive scope | — | | System alignment certification | Chapter 07 | System alignment certification and related records where material; Chapter Five [System Alignment Certification](core_05c_continuity_definitions.md#system-alignment-certification-constitutional) | [corpus_systems.md](corpus_systems.md) | | Standing classification | Chapters 08–09 | Contribution / violation / standing classification (Axes I / II), standing integration | — | | Anti-constitutional misconduct | Chapter 10 | Final Violation Axis **s** = 7, 8, or 9 classification, criteria, and cross-chapter discipline | — | | Forums and jurisdiction | Chapter 11 | Forum families, default venue, jurisdiction, adjudicative routing | [corpus_forum.md](corpus_forum.md) | | Governance legitimacy | Chapter 12 | Constitutional-contract legitimacy, stewardship direction, concentration and democratic checks | [corpus_institutions.md](corpus_institutions.md) | | Substantive change validity | Chapter 13 | Non-regression and substantive amendment validity (Test 1) | — | | Procedural change validity | Chapter 15 | Amendment, ratification, and procedural/custody validity (Tests 2–4), review triggers, invalid-change handling | — | | Incorporation and custody | Chapter 16 | Incorporation bridge, edition pinning, custody chain, adoption framing | — | | Cross-implementation joint structure | CJS | Cross-file interface terms with no stable single-file home | [corpus_joint_structure.md](corpus_joint_structure.md) | | Systems, institutions, forum operations | CS / CI / CF | Operational how-to within adoption scope | companion wrappers + subfiles |.
+- O: The positive register pairing each substantive constitutional domain with its single owner home within the operative [Corpus](core_05i_integrative_definitions.md#corpus), read together with [Authority Stack and Internal Hierarchy](core_05i_integrative_definitions.md#authority-stack). Each row names what that owner **establishes**; other layers must not absorb, restate, or relocate those obligations. Pointer cross-references, read-with routing, and integration sentences such as "implementation belongs in" or "must not narrow" are permitted; **substantive restatement** into a non-owner layer is non-compliant. **Non-relocation rule:** Under ordinary operation, text in one owner layer must not import obligations from another owner layer except by pointer, read-with routing, or express cross-reference. Where validity or governance chapters use trigger, referral, or escalation language, that language operates as a **routing heuristic only** unless the owner chapter expressly states otherwise. Owner rows: | Owner layer | Constitutional home | Owns (substantive) | Implementation home | |-------------|---------------------|--------------------|---------------------| | Principles and interpretation | Chapters 00–01 | Values, aims, interaction rules, constitutional interpretation | — | | Definition mechanics | Chapters 02–04 | Definition structure, burden, traceability, verification accessibility | — | | Canonical terms | Chapter 05 | O/M/A/C definitions and dependent clusters | — | | Rights Floor | Chapter 06 | Articles I–XXVI Rights Floors and rights-level interpretive scope | — | | System alignment certification | Chapter 07 | System alignment certification and related records where material; Chapter Five [System Alignment Certification](core_05c_continuity_definitions.md#system-alignment-certification-constitutional) | [corpus_systems.md](corpus_systems.md) | | Standing classification | Chapters 08–09 | Contribution / violation / standing classification (Axes I / II), standing integration | — | | Anti-constitutional misconduct | Chapter 10 | Final Violation Axis **s** = 7, 8, or 9 classification, criteria, and cross-chapter discipline | — | | Forums and jurisdiction | Chapter 11 | Forum families, default venue, jurisdiction, adjudicative routing | [corpus_forum.md](corpus_forum.md) | | Governance legitimacy | Chapter 12 | Constitutional-contract legitimacy, stewardship direction, concentration and democratic checks | [corpus_institutions.md](corpus_institutions.md) | | Substantive change validity | Chapter 13 | Non-regression and substantive amendment validity (Test 1) | — | | Procedural change validity | Chapter 15 | Amendment, ratification, and procedural/custody validity (Tests 2–4), review triggers, invalid-change handling | — | | Incorporation and custody | Chapter 16 | Incorporation bridge, edition pinning, custody chain, adoption framing | — | | Cross-implementation joint structure | CJS | Cross-file interface terms with no stable single-file home | [corpus_joint_structure.md](corpus_joint_structure.md) | | Systems, institutions, forum operations | CS / CI / CF | Operational how-to within adoption scope | companion wrappers + subfiles |
+  - In scope: The positive register pairing each substantive constitutional domain with its single owner home within the operative [Corpus](core_05i_integrative_definitions.md#corpus), read together with [Authority Stack and Internal Hierarchy](core_05i_integrative_definitions.md#authority-stack). Each row names what that owner **establishes**; other layers must not absorb, restate, or relocate those obligations. Pointer cross-references, read-with routing, and integration sentences such as "implementation belongs in" or "must not narrow" are permitted; **substantive restatement** into a non-owner layer is non-compliant. **Non-relocation rule:** Under ordinary operation, text in one owner layer must not import obligations from another owner layer except by pointer, read-with routing, or express cross-reference. Where validity or governance chapters use trigger, referral, or escalation language, that language operates as a **routing heuristic only** unless the owner chapter expressly states otherwise. Owner rows: | Owner layer | Constitutional home | Owns (substantive) | Implementation home | |-------------|---------------------|--------------------|---------------------| | Principles and interpretation | Chapters 00–01 | Values, aims, interaction rules, constitutional interpretation | — | | Definition mechanics | Chapters 02–04 | Definition structure, burden, traceability, verification accessibility | — | | Canonical terms | Chapter 05 | O/M/A/C definitions and dependent clusters | — | | Rights Floor | Chapter 06 | Articles I–XXVI Rights Floors and rights-level interpretive scope | — | | System alignment certification | Chapter 07 | System alignment certification and related records where material; Chapter Five [System Alignment Certification](core_05c_continuity_definitions.md#system-alignment-certification-constitutional) | [corpus_systems.md](corpus_systems.md) | | Standing classification | Chapters 08–09 | Contribution / violation / standing classification (Axes I / II), standing integration | — | | Anti-constitutional misconduct | Chapter 10 | Final Violation Axis **s** = 7, 8, or 9 classification, criteria, and cross-chapter discipline | — | | Forums and jurisdiction | Chapter 11 | Forum families, default venue, jurisdiction, adjudicative routing | [corpus_forum.md](corpus_forum.md) | | Governance legitimacy | Chapter 12 | Constitutional-contract legitimacy, stewardship direction, concentration and democratic checks | [corpus_institutions.md](corpus_institutions.md) | | Substantive change validity | Chapter 13 | Non-regression and substantive amendment validity (Test 1) | — | | Procedural change validity | Chapter 15 | Amendment, ratification, and procedural/custody validity (Tests 2–4), review triggers, invalid-change handling | — | | Incorporation and custody | Chapter 16 | Incorporation bridge, edition pinning, custody chain, adoption framing | — | | Cross-implementation joint structure | CJS | Cross-file interface terms with no stable single-file home | [corpus_joint_structure.md](corpus_joint_structure.md) | | Systems, institutions, forum operations | CS / CI / CF | Operational how-to within adoption scope | companion wrappers + subfiles |.
   - Out of scope: formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 *Measurements:*
 
 - **Primary:** Accountability measurement family — supporting measure under the accountability measurement family.
 
-<a id="constitutional-owner-layers-e"></a>
-- E: For any materially scoped obligation, first identify source status under the Authority Stack, then identify the owner row in this register. Apply substance only from the owner home; elsewhere use pointers only. Preserve the [Chapter Six](core_06-06_rights_part_a.md#chapter-six-foundational-rights) non-contraction default and [Chapter One — §2 Constitutional Interpretation](core_01_b_interaction_interpretation.md#8-constitutional-interpretation) integrated reading before invoking Internal Hierarchy. For implementation topics routed across CS, CI, CF, and CJS, apply **CJS-2.1** after owner identification. Apply Chapter Four burden, tracing, and verification requirements to any claim that owner boundaries were crossed.
+<a id="constitutional-owner-layers-a"></a>
+- A: For any materially scoped obligation, first identify source status under the Authority Stack, then identify the owner row in this register. Apply substance only from the owner home; elsewhere use pointers only. Preserve the [Chapter Six](core_06-06_rights_part_a.md#chapter-six-foundational-rights) non-contraction default and [Chapter One — §2 Constitutional Interpretation](core_01_b_interaction_interpretation.md#8-constitutional-interpretation) integrated reading before invoking Internal Hierarchy. For implementation topics routed across CS, CI, CF, and CJS, apply **CJS-2.1** (Topic router) after owner identification. Apply Chapter Four burden, tracing, and verification requirements to any claim that owner boundaries were crossed.
 <a id="constitutional-owner-layers-c"></a>
 - C: Non-compliant:
   - substantive restatement of one owner layer's obligations inside another owner layer, including elevation of reader-guidance prose to operative effect;
@@ -374,8 +432,8 @@ This cluster is the joint-invocation home for operative corpus identity, authori
 *Measurements:*
 
 - **Primary:** Oversight measurement family and Accountability measurement family — supporting measure where multiple measurement families co-apply.
-<a id="supremacy-and-enforceability-e"></a>
-- E: Apply Chapter Four burden, tracing, and verification requirements. First identify the operative source layer, adoption scope, and governance layer at issue. Where authority to govern, legitimacy mechanism, reauthorization, durable restructuring, or foundational participation entitlement is at issue, apply the [Constitutional Contract Layer](core_05i_integrative_definitions.md#constitutional-contract-layer), [Foundational Constitutional Choice](core_05i_integrative_definitions.md#foundational-constitutional-choice), Chapter Six, and applicable Rights-Floor provisions. Where materially rights-affecting decisions occur within already-authorized governance structures, apply **Stakeholder System Participation**, including [Stakeholder](core_05p_participation_definitions.md#stakeholder), [Stakeholder Participation Weight](core_05p_participation_definitions.md#stakeholder-participation-weight), Article XI, and related [Contestability](core_05a_accountability_definitions.md#contestability) and [Due Process](core_05a_accountability_definitions.md#due-process-constitutional) requirements. Apply the supremacy, adoption, and incorporation hierarchy in Chapters Ten through Twelve, including incorporated obligations in designated implementation text, consistent with the [Authority Stack and Internal Hierarchy](core_05i_integrative_definitions.md#authority-stack), operative [Corpus](core_05i_integrative_definitions.md#corpus), and [Auditability](core_05o_oversight_definitions.md#auditability), without allowing implementation, support text, private ordering, emergency framing, or operational practice to narrow binding constitutional obligations.
+<a id="supremacy-and-enforceability-a"></a>
+- A: Apply Chapter Four burden, tracing, and verification requirements. First identify the operative source layer, adoption scope, and governance layer at issue. Where authority to govern, legitimacy mechanism, reauthorization, durable restructuring, or foundational participation entitlement is at issue, apply the [Constitutional Contract Layer](core_05i_integrative_definitions.md#constitutional-contract-layer), [Foundational Constitutional Choice](core_05i_integrative_definitions.md#foundational-constitutional-choice), Chapter Six, and applicable Rights-Floor provisions. Where materially rights-affecting decisions occur within already-authorized governance structures, apply **Stakeholder System Participation**, including [Stakeholder](core_05p_participation_definitions.md#stakeholder), [Stakeholder Participation Weight](core_05p_participation_definitions.md#stakeholder-participation-weight), Article XI, and related [Contestability](core_05a_accountability_definitions.md#contestability) and [Due Process](core_05a_accountability_definitions.md#due-process-constitutional) requirements. Apply the supremacy, adoption, and incorporation hierarchy in Chapters Ten through Twelve, including incorporated obligations in designated implementation text, consistent with the [Authority Stack and Internal Hierarchy](core_05i_integrative_definitions.md#authority-stack), operative [Corpus](core_05i_integrative_definitions.md#corpus), and [Auditability](core_05o_oversight_definitions.md#auditability), without allowing implementation, support text, private ordering, emergency framing, or operational practice to narrow binding constitutional obligations.
 <a id="supremacy-and-enforceability-c"></a>
 - C: Non-compliant:
   - claims of supremacy or compliance that evade auditable verification, suppress [Contestability](core_05a_accountability_definitions.md#contestability) rights, or invert the established constitutional hierarchy;
@@ -399,14 +457,15 @@ This cluster is the joint-invocation home for operative corpus identity, authori
 
 <br>
 
-- O: A binding limit, condition, or discipline imposed by this Constitution that determines whether a constitutional claim, system action, governance act, limitation, disclosure practice, evaluation, implementation practice, or source-layer claim is valid. A Constitutional Constraint may operate as a substantive boundary, Rights-Floor non-contraction rule, limitation discipline, disclosure discipline, evaluation discipline, owner-layer/source-layer discipline, or implementation boundary. This entry classifies and routes constraint classes; owner-layer obligations remain on their canonical homes.
-  - In scope: A binding limit, condition, or discipline imposed by this Constitution that determines whether a constitutional claim, system action, governance act, limitation, disclosure practice, evaluation, implementation practice, or source-layer claim is valid. A Constitutional Constraint may operate as a substantive boundary, Rights-Floor non-contraction rule, limitation discipline, disclosure discipline, evaluation discipline, owner-layer/source-layer discipline, or implementation boundary. This entry classifies and routes constraint classes; owner-layer obligations remain on their canonical homes.
+- O: A binding limit, condition, or discipline imposed by this Constitution that determines whether a constitutional claim, system action, governance act, limitation, disclosure practice, evaluation, implementation practice, or source-layer claim is valid.
+  - In scope: binding limits that determine validity. A Constitutional Constraint may operate as a substantive boundary, Rights-Floor non-contraction rule, limitation discipline, disclosure discipline, evaluation discipline, owner-layer/source-layer discipline, or implementation boundary. This entry classifies and routes constraint classes; owner-layer obligations remain on their canonical homes.
+  - **Depends on:** [Authority Stack and Internal Hierarchy](core_05i_integrative_definitions.md#authority-stack) and [Constitutional Owner Layers](core_05i_integrative_definitions.md#constitutional-owner-layers) — constitutive frame; constraint precedence and validity are determined under the Authority Stack, and the classified obligations remain owned by their canonical owner layers.
   - Out of scope: formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 *Measurements:*
 
 - **Primary:** Accountability measurement family — supporting measure under the accountability measurement family.
-<a id="constitutional-constraint-e"></a>
-- E: Identify the constraint kind before applying it:
+<a id="constitutional-constraint-a"></a>
+- A: Identify the constraint kind before applying it:
   - **Non-negotiable principle constraints:** [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint) and [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint) as Chapter One's non-negotiable boundaries.
   - **Rights-Floor constraints:** Chapter Six minimums and non-contraction rules that prevent implementation, process, governance, emergency, transition, or private-ordering frames from narrowing protected rights.
   - **Restriction and limitation constraints:** [Necessity](core_05a_accountability_definitions.md#necessity), [Proportionality](core_05a_accountability_definitions.md#proportionality), least-restrictive effective selection, time-boundedness, reviewability, and burden-minimization disciplines that govern rights-affecting restrictions.
@@ -418,7 +477,7 @@ This cluster is the joint-invocation home for operative corpus identity, authori
 - C: Non-compliant:
   - invoking "constraints" generically to obscure which constitutional limit applies or which owner layer supplies it;
   - using operational, implementation, source-layer, emergency, transition, confidentiality, security, or feasibility constraints to narrow Safety, Truth, the Chapter Six Rights Floor, amendment validity, contestability, auditability, or remedy access;
-  - treating a constraint category as a substitute for the specific O/E/C entry, Rights-Floor article, or owner-layer rule that governs the decision;
+  - treating a constraint category as a substitute for the specific O/M/A/C entry, Rights-Floor article, or owner-layer rule that governs the decision;
   - applying one constraint while segmenting away another materially applicable constraint.
 
 ---

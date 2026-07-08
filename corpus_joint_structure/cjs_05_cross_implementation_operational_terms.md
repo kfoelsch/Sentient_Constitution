@@ -9,11 +9,11 @@
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Corpus](../core_05i_integrative_definitions.md#corpus) · [O](../core_05i_integrative_definitions.md#corpus) · [E](../core_05i_integrative_definitions.md#corpus-e) · [C](../core_05i_integrative_definitions.md#corpus-c)
-- [Authority Stack and Internal Hierarchy](../core_05i_integrative_definitions.md#authority-stack) · [O](../core_05i_integrative_definitions.md#authority-stack) · [E](../core_05i_integrative_definitions.md#authority-stack-e) · [C](../core_05i_integrative_definitions.md#authority-stack-c)
-- [Supremacy and Enforceability](../core_05i_integrative_definitions.md#supremacy-and-enforceability) · [O](../core_05i_integrative_definitions.md#supremacy-and-enforceability) · [E](../core_05i_integrative_definitions.md#supremacy-and-enforceability-e) · [C](../core_05i_integrative_definitions.md#supremacy-and-enforceability-c)
+- [Corpus](../core_05i_integrative_definitions.md#corpus) · [O](../core_05i_integrative_definitions.md#corpus) · [A](../core_05i_integrative_definitions.md#corpus-a) · [C](../core_05i_integrative_definitions.md#corpus-c)
+- [Authority Stack and Internal Hierarchy](../core_05i_integrative_definitions.md#authority-stack) · [O](../core_05i_integrative_definitions.md#authority-stack) · [A](../core_05i_integrative_definitions.md#authority-stack-a) · [C](../core_05i_integrative_definitions.md#authority-stack-c)
+- [Supremacy and Enforceability](../core_05i_integrative_definitions.md#supremacy-and-enforceability) · [O](../core_05i_integrative_definitions.md#supremacy-and-enforceability) · [A](../core_05i_integrative_definitions.md#supremacy-and-enforceability-a) · [C](../core_05i_integrative_definitions.md#supremacy-and-enforceability-c)
 
 </details>
 
@@ -36,15 +36,15 @@ Use these clusters as shared operational terms within standalone implementation 
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Competency Gate](../core_05a_accountability_definitions.md#competency-gate) · [O](../core_05a_accountability_definitions.md#competency-gate) · [E](../core_05a_accountability_definitions.md#competency-gate-e) · [C](../core_05a_accountability_definitions.md#competency-gate-c)
-- [Accountability](../core_05a_accountability_definitions.md#accountability) · [O](../core_05a_accountability_definitions.md#accountability) · [E](../core_05a_accountability_definitions.md#accountability-e) · [C](../core_05a_accountability_definitions.md#accountability-c)
-- [Contestability](../core_05a_accountability_definitions.md#contestability) · [O](../core_05a_accountability_definitions.md#contestability) · [E](../core_05a_accountability_definitions.md#contestability-e) · [C](../core_05a_accountability_definitions.md#contestability-c)
-- [Reversibility](../core_05c_continuity_definitions.md#reversibility-constitutional) · [O](../core_05c_continuity_definitions.md#reversibility-constitutional) · [E](../core_05c_continuity_definitions.md#reversibility-constitutional-e) · [C](../core_05c_continuity_definitions.md#reversibility-constitutional-c)
-- [Auditability](../core_05o_oversight_definitions.md#auditability) · [O](../core_05o_oversight_definitions.md#auditability) · [E](../core_05o_oversight_definitions.md#auditability-e) · [C](../core_05o_oversight_definitions.md#auditability-c)
-- [Dependency](../core_05c_continuity_definitions.md#dependency) · [O](../core_05c_continuity_definitions.md#dependency) · [E](../core_05c_continuity_definitions.md#dependency-e) · [C](../core_05c_continuity_definitions.md#dependency-c)
-- [Governance](../core_05a_accountability_definitions.md#governance) · [O](../core_05a_accountability_definitions.md#governance) · [E](../core_05a_accountability_definitions.md#governance-e) · [C](../core_05a_accountability_definitions.md#governance-c)
+- [Competency Gate](../core_05a_accountability_definitions.md#competency-gate) · [O](../core_05a_accountability_definitions.md#competency-gate) · [A](../core_05a_accountability_definitions.md#competency-gate-a) · [C](../core_05a_accountability_definitions.md#competency-gate-c)
+- [Accountability](../core_05a_accountability_definitions.md#accountability) · [O](../core_05a_accountability_definitions.md#accountability) · [A](../core_05a_accountability_definitions.md#accountability-a) · [C](../core_05a_accountability_definitions.md#accountability-c)
+- [Contestability](../core_05a_accountability_definitions.md#contestability) · [O](../core_05a_accountability_definitions.md#contestability) · [A](../core_05a_accountability_definitions.md#contestability-a) · [C](../core_05a_accountability_definitions.md#contestability-c)
+- [Reversibility](../core_05c_continuity_definitions.md#reversibility-constitutional) · [O](../core_05c_continuity_definitions.md#reversibility-constitutional) · [A](../core_05c_continuity_definitions.md#reversibility-constitutional-a) · [C](../core_05c_continuity_definitions.md#reversibility-constitutional-c)
+- [Auditability](../core_05o_oversight_definitions.md#auditability) · [O](../core_05o_oversight_definitions.md#auditability) · [A](../core_05o_oversight_definitions.md#auditability-a) · [C](../core_05o_oversight_definitions.md#auditability-c)
+- [Dependency](../core_05c_continuity_definitions.md#dependency) · [O](../core_05c_continuity_definitions.md#dependency) · [A](../core_05c_continuity_definitions.md#dependency-a) · [C](../core_05c_continuity_definitions.md#dependency-c)
+- [Governance](../core_05a_accountability_definitions.md#governance) · [O](../core_05a_accountability_definitions.md#governance) · [A](../core_05a_accountability_definitions.md#governance-a) · [C](../core_05a_accountability_definitions.md#governance-c)
 
 </details>
 
@@ -151,7 +151,7 @@ Use this compass before applying any **CJS-5** (*Implementation and cross-implem
 2. The constitutional band file for the relevant Tetrad leg, **Continuity** band, or **Integrative** band.
 3. **CJS-2.1** (*Topic router*) mandatory read-with when a topic-router row applies.
 4. Individual cluster OP terms (pinned cluster floor first, then sub-rules).
-5. Where a finding is **non-compliant**, optional [Non-Compliance Finding Profile](../core_05a_accountability_definitions.md#non-compliance-finding-profile) metadata (Tetrad leg · aim · governance layer) per the cluster map below and [Chapter Three, section 2.8](../core_02-04_definition_mechanics.md#28-non-compliance-finding-profiles).
+5. Where a finding is **non-compliant** against an operative cluster rule, optional [Non-Compliance Finding Profile](../core_05a_accountability_definitions.md#non-compliance-finding-profile) metadata attaches **to that finding** (not to a person). Use the cluster map's **Default profile** for the operative cluster unless the facts of the case require a different orientation; document any change under the profile's Assessment part. Constitutional frame: [Chapter Three, section 3](../core_02-04_definition_mechanics.md#3-non-compliance-finding-profiles).
 
 **Constitutional bands**
 
@@ -168,7 +168,7 @@ Use this compass before applying any **CJS-5** (*Implementation and cross-implem
 
 > The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this section or in other corpus files. Per-cluster constitutional framing lives in each cluster's Trace block; use this map for cross-cluster lookup, audits, and migration reference.
 
-**Finding profile shorthand (non-operative).** Default **Tetrad·Aim·Layer** codes orient material **non-compliance** findings: **O** Oversight · **P** Participation · **A** Accountability · **T** Timeliness · **INT** integrative cross-leg; **F** Flourishing · **C** Continuity aim; **CCL** constitutional contract layer · **SSP** stakeholder system participation · **INT** integrative layer. Canonical rules: [Non-Compliance Finding Profile](../core_05a_accountability_definitions.md#non-compliance-finding-profile); [Chapter Three, section 2.8](../core_02-04_definition_mechanics.md#28-non-compliance-finding-profiles). Adjust defaults when facts require; add **failure character** and **severity tier** per finding.
+**Finding profile shorthand (non-operative).** Each cluster's **Default profile** is a starter label for a material **non-compliance** finding that arises under that cluster's operational constraints. The code names which constitutional leg and aim the finding most concerns and which governance layer it primarily sits in — for routing and audits, not as a pass/fail or standing verdict. Code key: **O** Oversight · **P** Participation · **A** Accountability · **T** Timeliness · **INT** integrative cross-leg; **F** Flourishing · **C** Continuity aim; **CCL** constitutional contract layer · **SSP** stakeholder system participation · **INT** integrative layer. Canonical field rules: [Non-Compliance Finding Profile](../core_05a_accountability_definitions.md#non-compliance-finding-profile). Constitutional frame: [Chapter Three, section 3](../core_02-04_definition_mechanics.md#3-non-compliance-finding-profiles). Adjust the default when facts require; add **failure character** and **severity tier** per finding.
 
 **Chapter Zero measurement routing (non-operative).** Operational **CJS-5** (*cross-implementation operational terms*) clusters implement [Chapter Zero §2 Measurements Overview](../core_00_preamble.md#measurements-overview) constitutional measurement categories — not a separate taxonomy. Default orientation: **Oversight** clusters → Oversight measurement family; **Participation** clusters → Participation measurement family; **Accountability** clusters → Accountability measurement family and Timeliness measurement family where resolution-pathway discipline applies; **Continuity** band clusters → Continuity measurement family. Threshold and Scaling measurement family scales all categories. Technical measurement methods must remain traceable to these categories via [Chapter Seven](../core_07-07_system_alignment_certification.md#chapter-seven-system-alignment-certification) and [Chapter Zero §3.1](../core_00_preamble.md#from-measurement-to-evidence-and-remedy).
 

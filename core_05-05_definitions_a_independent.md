@@ -172,6 +172,8 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 - [Natural Systems Standing](core_05p_participation_definitions.md#natural-systems-standing)
 - [Necessity](core_05a_accountability_definitions.md#necessity)
 - [Negligence](core_05a_accountability_definitions.md#negligence)
+- [Non-Compliance](core_05i_integrative_definitions.md#non-compliance)
+- [Non-Compliance Finding Profile](core_05a_accountability_definitions.md#non-compliance-finding-profile)
 - [Non-Imposition (Cooperative Interaction)](core_05p_participation_definitions.md#non-imposition-cooperative-interaction)
 - [Non-Separation](core_05p_participation_definitions.md#non-separation-constitutional)
 - [Non-Statelessness](core_05p_participation_definitions.md#non-statelessness-constitutional)
@@ -313,13 +315,13 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 
 <br>
 
-Use this compass before invoking any Chapter Five definition. Chapter Five supplies canonical O/E/C homes for Tetrad legs ([Participation](core_05p_participation_definitions.md#participation-constitutional), [Oversight](core_05o_oversight_definitions.md#oversight-constitutional), [Accountability](core_05a_accountability_definitions.md#accountability), [Timeliness](core_05a_accountability_definitions.md#timeliness-constitutional)) and constitutional aims ([Flourishing](core_05f_flourishing_aim.md#flourishing-constitutional), [Continuity (Constitutional Aim)](core_05g_continuity_aim.md#continuity-aim-constitutional)); it does not replace the [Constitutional Tetrad](../core_00_preamble.md#constitutional-tetrad), [Two Constitutional Aims](../core_00_preamble.md#two-constitutional-aims), or [material stake](../core_00_preamble.md#material-stake) principle-layer glosses in [Chapter 00 §1](../core_00_preamble.md#the-model).
+Use this compass before invoking any Chapter Five definition. Chapter Five supplies canonical O/M/A/C homes for Tetrad legs ([Participation](core_05p_participation_definitions.md#participation-constitutional), [Oversight](core_05o_oversight_definitions.md#oversight-constitutional), [Accountability](core_05a_accountability_definitions.md#accountability), [Timeliness](core_05a_accountability_definitions.md#timeliness-constitutional)) and constitutional aims ([Flourishing](core_05f_flourishing_aim.md#flourishing-constitutional), [Continuity (Constitutional Aim)](core_05g_continuity_aim.md#continuity-aim-constitutional)); it does not replace the [Constitutional Tetrad](../core_00_preamble.md#constitutional-tetrad), [Two Constitutional Aims](../core_00_preamble.md#two-constitutional-aims), or [material stake](../core_00_preamble.md#material-stake) principle-layer glosses in [Chapter 00 §1](../core_00_preamble.md#the-model).
 
 **Reading order**
 
 1. This compass and the constitutional bands below — or the [measurement crosswalk](#chapter-five-measurement-crosswalk) when arriving from [Chapter Zero §2](../core_00_preamble.md#measurements-overview).
 2. The [Flourishing aim file](core_05f_flourishing_aim.md#flourishing-aim-decomposition) or [Continuity aim file](core_05g_continuity_aim.md#continuity-aim-decomposition) when routing by constitutional aim; otherwise the band file for the relevant Tetrad leg or **Integrative** band.
-3. Individual definition O/E/C entries; dependent clusters per admission scope.
+3. Individual definition O/M/A/C entries; dependent clusters per admission scope.
 4. Where a finding is **non-compliant**, optional [Non-Compliance Finding Profile](core_05a_accountability_definitions.md#non-compliance-finding-profile) metadata per cluster map.
 
 **Constitutional bands**

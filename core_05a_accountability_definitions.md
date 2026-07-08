@@ -88,7 +88,7 @@ These measures ask whether process clocks, resolution pathways, and repair veloc
 - **What it is**
   - **In scope:** A claim whose payoff is conditioned on the occurrence, non-occurrence, or quantitative resolution of an uncertain future event external to the claim itself. Covers speculative and insurance-like structures. [Game of Chance](core_05a_accountability_definitions.md#game-of-chance) and [Event-Contract Market](core_05a_accountability_definitions.md#event-contract-market) are subclasses.
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-<a id="contingent-claim-e"></a>
+<a id="contingent-claim-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Accountability measurement family and Timeliness measurement family — supporting measure where multiple measurement families co-apply.
 
@@ -117,7 +117,7 @@ These measures ask whether process clocks, resolution pathways, and repair veloc
 - **What it is**
   - **In scope:** A [Contingent Claim](core_05a_accountability_definitions.md#contingent-claim) venue that matches counterparties, prices, or settles payments against resolution of an external event. Includes prediction-style event markets, event-settlement systems, insurance pools, health plans, and other structures where payments are contingent on the occurrence or measurement of future events external to the parties' control.
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-<a id="event-contract-market-e"></a>
+<a id="event-contract-market-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Accountability measurement family and Timeliness measurement family — supporting measure where multiple measurement families co-apply.
 
@@ -146,7 +146,7 @@ These measures ask whether process clocks, resolution pathways, and repair veloc
 - **What it is**
   - **In scope:** Whether a required action, alternative, mitigation, or exit pathway is practically achievable for affected parties and systems under full functional scope. The test applies even when feasibility is contested, including where [Dependency](core_05c_continuity_definitions.md#dependency) or [Systemic Lock-In](core_05c_continuity_definitions.md#systemic-lock-in) may make formal alternatives non-substantive.
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-<a id="feasibility-e"></a>
+<a id="feasibility-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Accountability measurement family and Timeliness measurement family — supporting measure where multiple measurement families co-apply.
 
@@ -175,7 +175,7 @@ These measures ask whether process clocks, resolution pathways, and repair veloc
 - **What it is**
   - **In scope:** A [Contingent Claim](core_05a_accountability_definitions.md#contingent-claim) whose outcome depends predominantly on randomization, mechanical draws, or other stochastic procedures not tied to an external real-world event whose resolution carries independent epistemic or rights-relevant weight.
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-<a id="game-of-chance-e"></a>
+<a id="game-of-chance-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Accountability measurement family and Timeliness measurement family — supporting measure where multiple measurement families co-apply.
 
@@ -204,7 +204,7 @@ These measures ask whether process clocks, resolution pathways, and repair veloc
 - **What it is**
   - **In scope:** A material advantage in staking, trading, settling, or influencing [Contingent Claim](core_05a_accountability_definitions.md#contingent-claim) or analogous rights-relevant outcomes that derives from non-public information, official or fiduciary position, privileged access to outcome-resolution sources, or comparable power not available to counterparties on proportionate terms — including advantages routed through intermediaries or disguised contracts.
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-<a id="insider-advantage-e"></a>
+<a id="insider-advantage-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Accountability measurement family and Timeliness measurement family — supporting measure where multiple measurement families co-apply.
 
@@ -231,7 +231,7 @@ These measures ask whether process clocks, resolution pathways, and repair veloc
 - **What it is**
   - **In scope:** Honesty of purpose in prescribed constitutional contexts — publication under Article VIII-C (*Truthful Publication and High-Impact Publication Limits*), participation in audits, and cooperation with [Oversight](core_05o_oversight_definitions.md#oversight-constitutional). A sincere attempt to align conduct with stated facts, applicable rules, and [Epistemic Integrity](core_05o_oversight_definitions.md#epistemic-integrity). Excludes deliberate deception, reckless indifference to falsity, and pretextual compliance.
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-<a id="good-faith-e"></a>
+<a id="good-faith-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Accountability measurement family and Timeliness measurement family — supporting measure where multiple measurement families co-apply.
 
@@ -260,7 +260,7 @@ These measures ask whether process clocks, resolution pathways, and repair veloc
 - **What it is**
   - **In scope:** After applying binding [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint), [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint), [Freedom (Bounded Agency)](core_05p_participation_definitions.md#freedom-bounded-agency), and systemic requirements, multiple compliant options may remain. Where they do, selection must favor the option that minimizes total [Harm](core_05a_accountability_definitions.md#harm) across sentients, systems, and relevant time horizons.
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-<a id="harm-minimization-tradeoff-selection-e"></a>
+<a id="harm-minimization-tradeoff-selection-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Accountability measurement family and Timeliness measurement family — supporting measure where multiple measurement families co-apply.
 
@@ -289,7 +289,7 @@ These measures ask whether process clocks, resolution pathways, and repair veloc
 - **What it is**
   - **In scope:** A constraint attaches only where no less-restrictive, reasonably effective alternative exists under full functional system conditions, consistent with [Freedom (Bounded Agency)](core_05p_participation_definitions.md#freedom-bounded-agency).
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-<a id="necessity-e"></a>
+<a id="necessity-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Accountability measurement family and Timeliness measurement family — supporting measure where multiple measurement families co-apply.
 
@@ -307,7 +307,7 @@ These measures ask whether process clocks, resolution pathways, and repair veloc
 - **What it is**
   - **In scope:** Failure to exercise care, diligence, or timely response reasonably required to prevent or mitigate material [Harm](core_05a_accountability_definitions.md#harm) — including harm affecting sentients, [Environmental Preconditions](core_05c_continuity_definitions.md#environmental-preconditions-constitutional), [Ecological Integrity](core_05c_continuity_definitions.md#ecological-integrity-constitutional), or dependent systems. Such failure counts as negligence only where reasonably avoidable under [Foreseeability Diligence](core_05o_oversight_definitions.md#foreseeability-diligence) and [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination). Neglect includes prolonged inattention to known risk signals, foreseeable deterioration, or trauma-producing conditions where duty and capacity to act were materially present.
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-<a id="negligence-e"></a>
+<a id="negligence-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Accountability measurement family and Timeliness measurement family — supporting measure where multiple measurement families co-apply.
 
@@ -336,7 +336,7 @@ These measures ask whether process clocks, resolution pathways, and repair veloc
 - **What it is**
   - **In scope:** A property of limitations on constitutional values. The limitation must be scaled to the magnitude and likelihood of [Harm](core_05a_accountability_definitions.md#harm) or systemic impact legitimately addressed. Governance intensity must not fall below that required by the system's highest applicable classification where material.
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-<a id="proportionality-e"></a>
+<a id="proportionality-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Accountability measurement family and Timeliness measurement family — supporting measure where multiple measurement families co-apply.
 
@@ -364,7 +364,7 @@ These measures ask whether process clocks, resolution pathways, and repair veloc
 - **What it is**
   - **In scope:** Acknowledgment, correction pathways, and proportionate remedies for material [Harm](core_05a_accountability_definitions.md#harm), rights-affecting failures, or [Trustworthiness](core_05c_continuity_definitions.md#trustworthiness)-degrading behavior — including harm arising through delayed, indirect, aggregated, or systemic pathways. Remedies may include restitution, compensation, restoration, correction, disgorgement or clawback where lawful, substitute safeguards where literal repair is impossible, and systemic remediation where harm is class-wide or structural.
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-<a id="redress-and-remediation-constitutional-e"></a>
+<a id="redress-and-remediation-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Accountability measurement family and Timeliness measurement family — supporting measure where multiple measurement families co-apply.
 
@@ -394,7 +394,7 @@ These measures ask whether process clocks, resolution pathways, and repair veloc
 - **What it is**
   - **In scope:** Restorative priority favors restoring affected sentients' agentic [Wellbeing](core_05c_continuity_definitions.md#wellbeing), securing restitution where owed, and removing root causes of harmful behavior over retaliation or suffering-as-an-end, where proportionate and feasible under [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint) and [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint). Applies when constitutionally applicable instruments require restorative responses.
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-<a id="restorative-justice-e"></a>
+<a id="restorative-justice-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Accountability measurement family and Timeliness measurement family — supporting measure where multiple measurement families co-apply.
 
@@ -444,11 +444,11 @@ These measures ask whether process clocks, resolution pathways, and repair veloc
 - **What it is**
   - **In scope:** Material decisions, failures, and behaviors can be attributed to identifiable actors, roles, or system components, who can be answered for through review, [redress](core_05a_accountability_definitions.md#redress-and-remediation-constitutional), or correction proportional to impact.
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-<a id="accountability-e"></a>
+<a id="accountability-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Accountability measurement family — link-only rollup for the **accountability** Tetrad leg; operative tiers on leaf primaries below. Progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md).
 
-    **Primary assessment:** Assess records, attribution chains, and functional recourse under normal, degraded, and adversarial conditions, aligned with [Auditability](core_05o_oversight_definitions.md#auditability) and [Contestability](core_05a_accountability_definitions.md#contestability). Where receivership, restructuring, asset transfer, dissolution, insolvency, or comparable formal-structure change is material, assess successor, estate, receiver, and look-through responsibility under [Chapter One §11.6](core_01_c_stewardship_capacity_principles.md#116-successor-responsibility-and-formal-structure-non-escape), [Chapter Three §2.2.1 Formal Label and Representation Gaming](core_02-04_definition_mechanics.md#formal-label-gaming-discipline), and [Chapter Nine §5.1](core_09-09_standing_integration.md#51-remediation-capacity-and-funding) / [§5.4](core_09-09_standing_integration.md#54-anti-evasion-and-look-through-authority).
+    **Primary assessment:** Assess records, attribution chains, and functional recourse under normal, degraded, and adversarial conditions, aligned with [Auditability](core_05o_oversight_definitions.md#auditability) and [Contestability](core_05a_accountability_definitions.md#contestability). Where receivership, restructuring, asset transfer, dissolution, insolvency, or comparable formal-structure change is material, assess successor, estate, receiver, and look-through responsibility under [Chapter One §11.6](core_01_c_stewardship_capacity_principles.md#116-successor-responsibility-and-formal-structure-non-escape), [Chapter Three §2.1.1 Formal Label and Representation Gaming](core_02-04_definition_mechanics.md#formal-label-gaming-discipline), and [Chapter Nine §5.1](core_09-09_standing_integration.md#51-remediation-capacity-and-funding) / [§5.4](core_09-09_standing_integration.md#54-anti-evasion-and-look-through-authority).
 <a id="accountability-c"></a>
 - **What must hold**
   - unattributable material harm; accountability pathways that are non-functional or illusory where accountability is materially required; attribution that exists in form while affected parties lack functional [Contestability](core_05a_accountability_definitions.md#contestability) to invoke review, redress, or correction; verified duties extinguished by receivership, restructuring, asset transfer, dissolution, or comparable formal-structure change alone; successor or estate arrangements that leave material obligations unassigned or practically unenforceable where proportionate transfer or satisfaction was feasible.
@@ -472,7 +472,7 @@ These measures ask whether process clocks, resolution pathways, and repair veloc
 - **What it is**
   - **In scope:** The ability of affected parties to challenge, review, and seek correction of system behavior or decisions, with functional pathways to [Redress and Remediation](core_05a_accountability_definitions.md#redress-and-remediation-constitutional).
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-<a id="contestability-e"></a>
+<a id="contestability-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Accountability measurement family — primary owner for functional challenge pathways within the accountability family.
 
@@ -510,7 +510,7 @@ These measures ask whether process clocks, resolution pathways, and repair veloc
 - **What it is**
   - **In scope:** Impartial, accessible pathways for reviewing and resolving claims that systems or actors have violated rights or constitutional requirements. Pathways must produce timely, reasoned outcomes consistent with [Due Process](core_05a_accountability_definitions.md#due-process-constitutional), [Procedural Fairness](core_05p_participation_definitions.md#procedural-fairness-constitutional), and remedies proportional to findings under [Redress and Remediation](core_05a_accountability_definitions.md#redress-and-remediation-constitutional). <a id="adjudicator"></a> `adjudicator` means a sentient, panel member, judicial officer, or equivalent authorized decisional actor who has lawful authority to decide contested claims, issue merits determinations within the meaning of [Merits Determination](core_05a_accountability_definitions.md#merits-determination), grant or deny relief, or make binding procedural determinations in an adjudicative matter. Clerical, investigative, analytical, forensic, technical, scheduling, intake, and coordination roles are not adjudicators unless the governing instrument separately gives them lawful decisional authority for the matter at issue.
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-<a id="adjudication-and-dispute-resolution-constitutional-e"></a>
+<a id="adjudication-and-dispute-resolution-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Accountability measurement family and Timeliness measurement family — supporting measure where multiple measurement families co-apply.
 
@@ -540,7 +540,7 @@ These measures ask whether process clocks, resolution pathways, and repair veloc
 - **What it is**
   - **In scope:** The constitutional process obligation for materially rights-affecting decisions and adjudicative outcomes: fair, accessible, reviewable procedure before and after disposition, including the elements of [Procedural Fairness](core_05p_participation_definitions.md#procedural-fairness-constitutional) scaled to [material stake](core_00_preamble.md#material-stake). Outcomes must remain traceable to stated reasons and to evidence sufficient to support review under Chapters Two through Four.
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-<a id="due-process-constitutional-e"></a>
+<a id="due-process-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Accountability measurement family and Timeliness measurement family — supporting measure where multiple measurement families co-apply.
 
@@ -569,7 +569,7 @@ These measures ask whether process clocks, resolution pathways, and repair veloc
 - **What it is**
   - **In scope:** Principle-layer responsiveness duty scaling with [material stake](core_00_preamble.md#material-stake) across detection, contestability, resolution, remediation, and stewardship correction in the constitutional coordination lifecycle.
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-<a id="timeliness-constitutional-e"></a>
+<a id="timeliness-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Timeliness measurement family — link-only rollup for the **timeliness** Tetrad leg; operative tiers on leaf primaries below. Progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md).
 
@@ -599,7 +599,7 @@ These measures ask whether process clocks, resolution pathways, and repair veloc
 - **What it is**
   - **In scope:** Resolution of material constitutional disputes, verified standing records, and proportionate remedy within materiality-scaled windows under **Article XXIV-C**, producing verified outcomes without avoidable delay, exhaustion, or capture of resolution pathways.
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-<a id="timely-resolution-constitutional-e"></a>
+<a id="timely-resolution-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Timeliness measurement family — primary owner for resolution velocity within the timeliness measurement family.
 
@@ -632,32 +632,36 @@ These measures ask whether process clocks, resolution pathways, and repair veloc
 
 <br>
 
-- O: A binding decision that resolves substantive issues in an adjudicative or equivalent dispute — as distinguished from pathway, sequencing, or procedural housekeeping orders. A merits determination may finally resolve, for example: It does not include decisions that govern only: Final [Chapter Ten](core_10-10_misconduct.md#chapter-ten-anti-constitutional-misconduct) Violation Axis slot assignment is a specialized classification outcome governed by that chapter. It is not a substitute for ordinary forum merits authority and is not itself a pathway decision. <a id="merits-determination-measurements"></a>
-  - In scope: A binding decision that resolves substantive issues in an adjudicative or equivalent dispute — as distinguished from pathway, sequencing, or procedural housekeeping orders. A merits determination may finally resolve, for example: It does not include decisions that govern only: Final [Chapter Ten](core_10-10_misconduct.md#chapter-ten-anti-constitutional-misconduct) Violation Axis slot assignment is a specialized classification outcome governed by that chapter. It is not a substitute for ordinary forum merits authority and is not itself a pathway decision. <a id="merits-determination-measurements"></a>.
-  - liability;
-  - entitlement;
-  - validity;
-  - mandate;
-  - remedy;
-  - classification outcome;
-  - rights restriction; or
-  - another comparable rights-affecting disposition.
-  - pathway integrity;
-  - panel formation;
-  - routing;
-  - monitoring;
-  - evidence preservation;
-  - coordination;
-  - sequencing; or
-  - other procedural housekeeping — including [Stays](core_05a_accountability_definitions.md#stay).
-  - Out of scope: formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-*Measurements:*
+- **What it is**
+  - **In scope:** A binding decision that resolves substantive issues in an adjudicative or equivalent dispute — as distinguished from pathway, sequencing, or procedural housekeeping orders.
+  - A merits determination may finally resolve, for example:
+    - liability;
+    - entitlement;
+    - validity;
+    - mandate;
+    - remedy;
+    - classification outcome;
+    - rights restriction; or
+    - another comparable rights-affecting disposition.
+  - It does not include decisions that govern only:
+    - pathway integrity;
+    - panel formation;
+    - routing;
+    - monitoring;
+    - evidence preservation;
+    - coordination;
+    - sequencing; or
+    - other procedural housekeeping — including [Stays](core_05a_accountability_definitions.md#stay).
+  - Final [Chapter Ten](core_10-10_misconduct.md#chapter-ten-anti-constitutional-misconduct) Violation Axis slot assignment is a specialized classification outcome governed by that chapter. It is not a substitute for ordinary forum merits authority and is not itself a pathway decision.
+  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
+<a id="merits-determination-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** Accountability measurement family and Timeliness measurement family — supporting measure where multiple measurement families co-apply.
 
-- **Primary:** Accountability measurement family and Timeliness measurement family — supporting measure where multiple measurement families co-apply.
-<a id="merits-determination-e"></a>
-- E: Ask whether the decision finally resolves a contested substantive question for the matter or only enables, schedules, monitors, preserves, routes, or coordinates review. Treat binding procedural determinations — for example lawful panel constitution, published routing, proportionate [Stays](core_05a_accountability_definitions.md#stay), and sequencing orders that do not finally dispose of the primary stake — as non-merits. A [Stay](core_05a_accountability_definitions.md#stay) is never a merits disposition; substantive resolution requires a separate [Merits Determination](core_05a_accountability_definitions.md#merits-determination) under lawful merits authority. Treat contest-integrity monitoring outputs as pathway decisions unless a separate lawful instrument gives the monitor limited merits authority. Read [Chapter Eleven](core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) for primary-stakes and reserved-merits routing; read owner layers for family-specific reserved questions.
+    **Primary assessment:** Ask whether the decision finally resolves a contested substantive question for the matter or only enables, schedules, monitors, preserves, routes, or coordinates review. Treat binding procedural determinations — for example lawful panel constitution, published routing, proportionate [Stays](core_05a_accountability_definitions.md#stay), and sequencing orders that do not finally dispose of the primary stake — as non-merits. A [Stay](core_05a_accountability_definitions.md#stay) is never a merits disposition; substantive resolution requires a separate [Merits Determination](core_05a_accountability_definitions.md#merits-determination) under lawful merits authority. Treat contest-integrity monitoring outputs as pathway decisions unless a separate lawful instrument gives the monitor limited merits authority. Read [Chapter Eleven](core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) for primary-stakes and reserved-merits routing; read owner layers for family-specific reserved questions.
 <a id="merits-determination-c"></a>
-- C: Non-compliant: support, oversight, forensic, investigative, or monitoring roles issuing binding merits outcomes without separate lawful authority; using pathway, monitoring, or forensic roles to pre-decide substantive issues assigned to a lawfully constituted merits forum; or treating routing, intake, or contest-integrity findings as final merits dispositions.
+- **What must hold**
+  - support, oversight, forensic, investigative, or monitoring roles issuing binding merits outcomes without separate lawful authority; using pathway, monitoring, or forensic roles to pre-decide substantive issues assigned to a lawfully constituted merits forum; or treating routing, intake, or contest-integrity findings as final merits dispositions.
 
 
 <a id="stay"></a>
@@ -678,7 +682,7 @@ These measures ask whether process clocks, resolution pathways, and repair veloc
 - **What it is**
   - **In scope:** A temporary order that holds off a specified next step until timely further review or a required component finding is complete. A stay may pause or limit an action, reliance on a finding, enforcement of a restriction, referral of a component question, or finalization of a certification or similar outcome. It is not a final yes or no on the merits. A stay is always temporary and is always a scheduling or sequencing order — never a [Merits Determination](core_05a_accountability_definitions.md#merits-determination). Any binding ruling on substantive issues must be issued separately under lawful merits authority.
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-<a id="stay-e"></a>
+<a id="stay-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Accountability measurement family and Timeliness measurement family — supporting measure where multiple measurement families co-apply.
 
@@ -703,18 +707,18 @@ These measures ask whether process clocks, resolution pathways, and repair veloc
 
 <br>
 
-- O: A condition in which a group, institution, or distributed decision structure causes, enables, or sustains constitutional violation through coordinated action, fragmented responsibility, or knowing acquiescence — including cases where no single actor's isolated contribution fully explains the harm or defeats [Accountability](core_05a_accountability_definitions.md#accountability).
-  - In scope: A condition in which a group, institution, or distributed decision structure causes, enables, or sustains constitutional violation through coordinated action, fragmented responsibility, or knowing acquiescence — including cases where no single actor's isolated contribution fully explains the harm or defeats [Accountability](core_05a_accountability_definitions.md#accountability).
-  - Out of scope: formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-*Measurements:*
+- **What it is**
+  - **In scope:** A condition in which a group, institution, or distributed decision structure causes, enables, or sustains constitutional violation through coordinated action, fragmented responsibility, or knowing acquiescence — including cases where no single actor's isolated contribution fully explains the harm or defeats [Accountability](core_05a_accountability_definitions.md#accountability).
+  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
+<a id="collective-accountability-failure-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** Accountability measurement family and Timeliness measurement family — supporting measure where multiple measurement families co-apply.
 
-- **Primary:** Accountability measurement family and Timeliness measurement family — supporting measure where multiple measurement families co-apply.
-<a id="collective-accountability-failure-e"></a>
-- E: Assess role-specific duty, knowledge, capacity to resist or escalate, command and dependency structure, and documented response pathways — including whether actors reasonably used [Contestability](core_05a_accountability_definitions.md#contestability), protected reporting, challenge rights, and [Adjudication and Dispute Resolution](core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional) when unlawful or unconstitutional directives were present.
+    **Primary assessment:** Assess role-specific duty, knowledge, capacity to resist or escalate, command and dependency structure, and documented response pathways — including whether actors reasonably used [Contestability](core_05a_accountability_definitions.md#contestability), protected reporting, challenge rights, and [Adjudication and Dispute Resolution](core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional) when unlawful or unconstitutional directives were present.
 <a id="collective-accountability-failure-c"></a>
-- C: Non-compliant:
-  - invoking hierarchy, collective process, or diffusion of responsibility to excuse materially enabling or unresisted constitutional violation;
-  - failure by materially capable actors to proportionately resist, contest, document, or escalate unlawful directives where [Accountability](core_05a_accountability_definitions.md#accountability) and [Redress and Remediation](core_05a_accountability_definitions.md#redress-and-remediation-constitutional) are materially implicated.
+- **What must hold**
+  - **Primary failure:** invoking hierarchy, collective process, or diffusion of responsibility to excuse materially enabling or unresisted constitutional violation;
+  - **Secondary failure:** failure by materially capable actors to proportionately resist, contest, document, or escalate unlawful directives where [Accountability](core_05a_accountability_definitions.md#accountability) and [Redress and Remediation](core_05a_accountability_definitions.md#redress-and-remediation-constitutional) are materially implicated.
 
 
 <a id="force-majeure-constitutional"></a>
@@ -735,7 +739,7 @@ These measures ask whether process clocks, resolution pathways, and repair veloc
 - **What it is**
   - **In scope:** External events or conditions outside a system's reasonable control after due diligence — e.g., severe natural disasters, broad infrastructure failure not caused by the invoking system, or comparable unavoidable disruption. May warrant temporary relief under [Emergency and Contingency](core_05c_continuity_definitions.md#emergency-and-contingency-constitutional).
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-<a id="force-majeure-constitutional-e"></a>
+<a id="force-majeure-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Accountability measurement family and Timeliness measurement family — supporting measure where multiple measurement families co-apply.
 
@@ -763,7 +767,7 @@ These measures ask whether process clocks, resolution pathways, and repair veloc
 - **What it is**
   - **In scope:** A specialization of [System Capture](core_05c_continuity_definitions.md#system-capture) in which concentrated incentives, control, or privileged information bias the actors, processes, data feeds, or authorities ("outcome-resolution sources" under Chapter One §11.5) that resolve [Contingent Claim](core_05a_accountability_definitions.md#contingent-claim) settlements or analogous rights-relevant resolutions.
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-<a id="capture-of-resolution-pathways-e"></a>
+<a id="capture-of-resolution-pathways-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Timeliness measurement family — primary owner for capture of resolution pathways within the timeliness family.
 
@@ -815,7 +819,7 @@ These measures ask whether process clocks, resolution pathways, and repair veloc
 - **What it is**
   - **In scope:** A protected disclosure or escalation by a sentient, stakeholder, worker, participant, auditor, or comparable actor concerning reasonably suspected constitutional non-compliance, material harm, safety failure, truth failure, corruption, capture, abuse, retaliation, or obstruction of required review.
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-<a id="protected-reporting-whistleblowing-e"></a>
+<a id="protected-reporting-whistleblowing-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Accountability measurement family — primary owner for protected reporting within the accountability measurement family.
 
@@ -848,7 +852,7 @@ These measures ask whether process clocks, resolution pathways, and repair veloc
 - **What it is**
   - **In scope:** Retaliation, threat, penalty, exclusion, reputation damage, access denial, record manipulation, or process obstruction materially connected to protected reporting, [Evidence Preservation](core_05o_oversight_definitions.md#evidence-preservation), audit participation, challenge, review, or remediation access.
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-<a id="protected-reporting-retaliation-and-access-interference-e"></a>
+<a id="protected-reporting-retaliation-and-access-interference-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Accountability measurement family — anti-retaliation measure within the protected-reporting subfamily.
 
@@ -900,7 +904,7 @@ These measures ask whether process clocks, resolution pathways, and repair veloc
 - **What it is**
   - **In scope:** The constitutional discipline governing how markets, platforms, labor arrangements, resource flows, data access, compute access, credentialing, capital-access channels, information-sphere gatekeeping, and comparable **market-structuring arrangements** must preserve contestable participation — including meaningful substitutability, exit, fair entry and re-entry, non-coercive bargaining, and reviewable access to essential or high-dependency infrastructure — without treating lawful scale, integration, or temporary advantage from genuine innovation as prohibited by themselves.
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-<a id="market-structure-constitutional-e"></a>
+<a id="market-structure-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Accountability measurement family — primary owner for market-structure measurement within the accountability family.
 
@@ -936,7 +940,7 @@ These measures ask whether process clocks, resolution pathways, and repair veloc
 - **What it is**
   - **In scope:** The structures, rules, allocation of authority, and processes by which systems and institutions are directed, constrained, evolved, and held [Accountable](core_05a_accountability_definitions.md#accountability). That includes technical, organizational, economic, and socio-technical layers that materially affect sentients. Read [Chapter 00 §4 governance-layer discipline](core_00_preamble.md#governance-layer-discipline) for [Constitutional Contract Layer](core_05i_integrative_definitions.md#constitutional-contract-layer) vs **Stakeholder System Participation** routing. At principle layer, **Governance** is subordinate to [Stewardship](core_05c_continuity_definitions.md#stewardship-constitutional) where authorized structures, incentives, or procedures would otherwise permit foreseeable constitutional misalignment, Rights-Floor degradation, or short-horizon optimization that defeats durable alignment. Operative authorization requirements remain owned by **Chapter Twelve** and the **Constitutional Contract Layer**.
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-<a id="governance-e"></a>
+<a id="governance-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Accountability measurement family and Timeliness measurement family — supporting measure where multiple measurement families co-apply.
 
@@ -965,8 +969,8 @@ These measures ask whether process clocks, resolution pathways, and repair veloc
 - **What it is**
   - **In scope:** Placement of decision authority at the least centralized and smallest scale that can still satisfy binding evaluation requirements — including [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint), [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint), [Material Impact](core_05o_oversight_definitions.md#material-impact), [Dependency](core_05c_continuity_definitions.md#dependency), [Classification-Scaled Governance](core_05o_oversight_definitions.md#classification-scaled-governance), and systemic evaluation.
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-<a id="decentralization-e"></a>
-<a id="subsidiarity-e"></a>
+<a id="decentralization-a"></a>
+<a id="subsidiarity-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Accountability measurement family and Timeliness measurement family — supporting measure where multiple measurement families co-apply.
 
@@ -1001,8 +1005,8 @@ These measures ask whether process clocks, resolution pathways, and repair veloc
 - **Primary:** Accountability measurement family — operational trigger within the market-structure subfamily.
 - **Secondary:** [Market Structure](core_05a_accountability_definitions.md#market-structure-constitutional), [Proxy Divergence](core_05o_oversight_definitions.md#proxy-divergence), [Contestability](core_05a_accountability_definitions.md#contestability), and [System Boundary Integrity](core_05c_continuity_definitions.md#system-boundary-integrity) — co-measures that can defeat threshold discipline even when nominal tests appear satisfied.
 
-<a id="concentration-threshold-constitutional-e"></a>
-- E:
+<a id="concentration-threshold-constitutional-a"></a>
+- A:
   - **Primary assessment.** Reach substantive concentration, consolidation, and durable domination risk, not formal entity count. In scope: federated structures, shell entities, interlocking directorates, common control, serial acquisition, cross-platform integration, essential-infrastructure control, labor-market monopsony, supplier dependency control, data or interface capture, compute chokepoints, capital-access gatekeeping, information-sphere control, and comparable indirection that produces concentrated effect.
   - **Secondary co-assessment.** When evaluating the primary trace, apply [Proxy Divergence](core_05o_oversight_definitions.md#proxy-divergence) and [Proxy Metric Gaming and Indicator-Reality Gaps](core_05o_oversight_definitions.md#proxy-metric-gaming-and-indicator-reality-gaps) when the regime relies on proxies that foreseeably understate concentration; consider [Adversarial, Scaled, and Exploited Conditions](core_05o_oversight_definitions.md#adversarial-scaled-and-exploited-conditions). When concentration implicates [Article I-D](core_06-06_rights_part_a.md#article-i-d-existential-risk-and-recovery-capacity), [Article XII-A](core_06-06_rights_part_c.md#article-xii-a-reliability-and-trustworthiness-baseline), or [Article XIII-A](core_06-06_rights_part_c.md#article-xiii-a-security-intelligence-and-covert-power-limits) in a material way, those articles' heightened standards apply regardless of ordinary-threshold framing.
 <a id="concentration-threshold-constitutional-c"></a>
@@ -1017,7 +1021,7 @@ These measures ask whether process clocks, resolution pathways, and repair veloc
 
 ---
 
-**Stewardship, governance discipline, review, and correction (Chapter One §8.13 redirect).** Canonical O/E/C entries for this stack live under [Chapter Five Chapter One §8.13 *Stewardship, Governance Discipline, and Shared-System Capacity*](core_05c_continuity_definitions.md#stewardship-governance-discipline-and-shared-system-capacity-cluster): [Stewardship](core_05c_continuity_definitions.md#stewardship-constitutional), [Distributed Understanding](core_05c_continuity_definitions.md#distributed-understanding-constitutional), [Strategic Stewardship Obligation](core_05c_continuity_definitions.md#strategic-stewardship-obligation-constitutional), [Short-Horizon Governance Defect](core_05c_continuity_definitions.md#short-horizon-governance-defect-constitutional), [Stewardship Defect](core_05c_continuity_definitions.md#stewardship-defect-constitutional), and [Review and Correction Duty](core_05c_continuity_definitions.md#review-and-correction-duty-constitutional).
+**Stewardship, governance discipline, review, and correction (Chapter One §8.13 redirect).** Canonical O/M/A/C entries for this stack live under [Chapter Five Chapter One §8.13 *Stewardship, Governance Discipline, and Shared-System Capacity*](core_05c_continuity_definitions.md#stewardship-governance-discipline-and-shared-system-capacity-cluster): [Stewardship](core_05c_continuity_definitions.md#stewardship-constitutional), [Distributed Understanding](core_05c_continuity_definitions.md#distributed-understanding-constitutional), [Strategic Stewardship Obligation](core_05c_continuity_definitions.md#strategic-stewardship-obligation-constitutional), [Short-Horizon Governance Defect](core_05c_continuity_definitions.md#short-horizon-governance-defect-constitutional), [Stewardship Defect](core_05c_continuity_definitions.md#stewardship-defect-constitutional), and [Review and Correction Duty](core_05c_continuity_definitions.md#review-and-correction-duty-constitutional).
 
 ---
 
@@ -1075,7 +1079,7 @@ This cluster is the joint-invocation home for harm, the boundary at which one se
 - **What it is**
   - **In scope:** Any effect that degrades survival, [Wellbeing](core_05c_continuity_definitions.md#wellbeing), [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency), functional integrity, or [Psychological Harm](core_05a_accountability_definitions.md#psychological-harm), including acute trauma, chronic psychological destabilization, and materially harmful neglect.
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-<a id="harm-e"></a>
+<a id="harm-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Flourishing measurement family — primary owner for harm classification in this subfamily.
 
@@ -1106,7 +1110,7 @@ This cluster is the joint-invocation home for harm, the boundary at which one se
 - **What it is**
   - **In scope:** The limit at which a sentient's or collective's freedom of action yields to verifiable harm affecting another sentient's protected interests — including wellbeing-related resources under Article III-A, ecological conditions under Article I-A, and the [Info-Sphere](core_05p_participation_definitions.md#info-sphere) under Article XIV. The limit is stated in Article X-B.
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-<a id="collective-harm-boundary-e"></a>
+<a id="collective-harm-boundary-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Flourishing measurement family and Accountability measurement family — supporting measure where multiple measurement families co-apply.
 
@@ -1121,7 +1125,7 @@ This cluster is the joint-invocation home for harm, the boundary at which one se
 - **What it is**
   - **In scope:** Material injury, destabilization, or degradation of a sentient's cognitive, emotional, or relational integrity arising from system behavior. Sources include institutional process, coercion, manipulation, intimidation, neglect, or prolonged exposure to harmful conditions — including trauma and cumulative stress harms.
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-<a id="psychological-harm-e"></a>
+<a id="psychological-harm-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Flourishing measurement family and Accountability measurement family — supporting measure where multiple measurement families co-apply.
 
@@ -1148,7 +1152,7 @@ This cluster is the joint-invocation home for harm, the boundary at which one se
 - **What it is**
   - **In scope:** Damage that cannot be meaningfully undone within relevant timescales — including damage to [Wellbeing](core_05c_continuity_definitions.md#wellbeing), [Environmental Preconditions](core_05c_continuity_definitions.md#environmental-preconditions-constitutional), or system-supporting conditions — thereby implicating [Reversibility](core_05c_continuity_definitions.md#reversibility-constitutional).
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-<a id="irreversible-harm-e"></a>
+<a id="irreversible-harm-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Flourishing measurement family — irreversibility escalator within the harm subfamily.
 
@@ -1180,7 +1184,7 @@ This cluster is the joint-invocation home for harm, the boundary at which one se
 - **What it is**
   - **In scope:** Patterned unwanted conduct, targeted or environment-shaping, that materially degrades dignity, safety, equal standing or participation, wellbeing, rest, education, or [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency) in associational, institutional, dependency, productive-activity, care, household, digital, or comparable cooperative settings. The pattern may arise from repeated acts, coordinated conduct, role misuse, captive channels, designed conditions, or cumulative hostile-environment effects.
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-<a id="harassment-and-bullying-e"></a>
+<a id="harassment-and-bullying-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Flourishing measurement family and Accountability measurement family — supporting measure where multiple measurement families co-apply.
 
@@ -1240,7 +1244,7 @@ This cluster is the joint-invocation home for the six constitutional forum famil
 - **What it is**
   - **In scope:** The routing rule that assigns a matter to the forum family responsible for the matter's main legal, remedial, safeguard, constitutional, or practical stake, rather than the family suggested by the caption, party preference, administrative convenience, or tactical framing.
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-<a id="primary-stakes-routing-e"></a>
+<a id="primary-stakes-routing-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Accountability measurement family and Timeliness measurement family — supporting measure where multiple measurement families co-apply.
 
@@ -1266,7 +1270,7 @@ This cluster is the joint-invocation home for the six constitutional forum famil
 - **What it is**
   - **In scope:** The forum family whose primary stake is sentient-versus-sentient disputes centered on private or community obligations, civil harms, restoration, or local norms, without final resolution of constitutional validity or institutional mandate as the primary question.
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-<a id="forum-family-sentient-e"></a>
+<a id="forum-family-sentient-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Accountability measurement family and Timeliness measurement family — supporting measure where multiple measurement families co-apply.
 
@@ -1292,7 +1296,7 @@ This cluster is the joint-invocation home for the six constitutional forum famil
 - **What it is**
   - **In scope:** The forum family — including specialized chambers or panels within other families — whose primary stake is technical-governance procedure, expert-evidence standards, knowledge governance, standards stewardship, or bounded uncertainty reduction material to adjudication or regulation.
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-<a id="forum-family-technical-e"></a>
+<a id="forum-family-technical-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Accountability measurement family and Timeliness measurement family — supporting measure where multiple measurement families co-apply.
 
@@ -1318,7 +1322,7 @@ This cluster is the joint-invocation home for the six constitutional forum famil
 - **What it is**
   - **In scope:** The forum family for disputes where an institution is a necessary party or the primary stake is institutional authority, mandate, supervised scope, classification under adopted instruments, or compliance with institutional duties.
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-<a id="forum-family-institutional-e"></a>
+<a id="forum-family-institutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Accountability measurement family and Timeliness measurement family — supporting measure where multiple measurement families co-apply.
 
@@ -1344,7 +1348,7 @@ This cluster is the joint-invocation home for the six constitutional forum famil
 - **What it is**
   - **In scope:** The forum family whose primary stake is ecological integrity, environmental preconditions, lifecycle or systemic ecological harm, restoration or remediation of shared systems, attributable environmental burdens, or pattern ecological failure material to classification or Rights-Floor enforcement.
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-<a id="forum-family-environment-e"></a>
+<a id="forum-family-environment-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Accountability measurement family and Timeliness measurement family — supporting measure where multiple measurement families co-apply.
 
@@ -1370,7 +1374,7 @@ This cluster is the joint-invocation home for the six constitutional forum famil
 - **What it is**
   - **In scope:** The forum family for disputes whose primary stake is integrity of office, process, contest pathways, disclosure, conflict rules, anti-capture duties, or pattern systemic integrity failure across institutions where classification, final Chapter Ten assignment, or Rights-Floor enforcement depends on that determination — including alignment rulings and coordinated records described in Chapter Eleven Chapter One §8.2.5.
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-<a id="forum-family-integrity-e"></a>
+<a id="forum-family-integrity-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Accountability measurement family and Timeliness measurement family — supporting measure where multiple measurement families co-apply.
 
@@ -1396,7 +1400,7 @@ This cluster is the joint-invocation home for the six constitutional forum famil
 - **What it is**
   - **In scope:** The forum family that decides constitutional validity and meaning, structural remedies altering governance for classes of actors or systems, certified questions from other families, and supremacy disputes where constitutional text alone can resolve the certified issue.
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-<a id="forum-family-constitutional-e"></a>
+<a id="forum-family-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Accountability measurement family and Timeliness measurement family — supporting measure where multiple measurement families co-apply.
 
@@ -1404,6 +1408,39 @@ This cluster is the joint-invocation home for the six constitutional forum famil
 <a id="forum-family-constitutional-c"></a>
 - **What must hold**
   - treating non-certifiable operational detail as final constitutional disposition; collapsing certification discipline so families bypass Chapter Eleven §8 when constitutional validity, meaning, or structural remedy is materially at stake.
+
+---
+
+<a id="non-compliance-finding-profile"></a>
+
+#### Non-Compliance Finding Profile
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: [Non-Compliance](core_05i_integrative_definitions.md#non-compliance); [Chapter Three §3 — Non-Compliance Finding Profiles](core_02-04_definition_mechanics.md#3-non-compliance-finding-profiles).
+- Downstream: [CJS-5.1 Constitutional compass and cluster map](corpus_joint_structure/cjs_05_cross_implementation_operational_terms.md#cjs-51-constitutional-compass-and-cluster-map); [Chapter Eight — Contribution, Violation, and Standing Model](core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model).
+- Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad); [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims); [Constitutional Contract Layer](core_05i_integrative_definitions.md#constitutional-contract-layer) — governance-layer routing for profile **layer** codes.
+
+</details>
+
+<br>
+
+*In plain terms: when a material non-compliance finding is recorded, an optional profile can say what kind of constitutional failure it implicates — which Tetrad leg, which aim, which governance layer — without changing the underlying verdict.*
+
+- **What it is**
+  - **In scope:** Optional orientation and routing metadata that may attach to a material [Non-Compliance](core_05i_integrative_definitions.md#non-compliance) finding. A profile names the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) leg, [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) orientation, governance layer, **failure character**, and **severity tier** (**T1**–**T4**) that best describe the finding for audits, routing, and cross-implementation operations.
+  - **Out of scope:** a parallel verdict label; a substitute for whether the underlying definition is met; [Chapter Eight](core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) contribution or violation classification.
+  - **Depends on:** a material non-compliance finding under [Chapter Three](core_02-04_definition_mechanics.md#chapter-three-definition-integrity-evasion-and-non-compliance) or an invoked Chapter Five definition.
+<a id="non-compliance-finding-profile-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** Accountability measurement family — supporting measure for finding-profile routing metadata.
+
+    **Primary assessment:** Apply the default **Tetrad·Aim·Layer** code from the [CJS-5.1 cluster map](corpus_joint_structure/cjs_05_cross_implementation_operational_terms.md#cjs-51-constitutional-compass-and-cluster-map) unless facts require a documented adjustment. Add **failure character** (for example formal, substantive, evasive, structural, or stewardship) and **severity tier** **T1**–**T4** per finding where materially relevant.
+<a id="non-compliance-finding-profile-c"></a>
+- **What must hold**
+  - **Primary failure:** treating the profile as dispositive for whether the underlying definition is met;
+  - **Secondary failure:** using the profile to bypass [Chapter Eight](core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) verified-input, contribution, or violation classification where verified findings affect standing.
 
 ---
 
@@ -1469,8 +1506,8 @@ This cluster is the joint-invocation home for contribution state, standing recor
 *Measurements:*
 
 - **Primary:** Accountability measurement family and Timeliness measurement family — supporting measure where multiple measurement families co-apply.
-<a id="participant-standing-constitutional-e"></a>
-- E: Ensure [Contestability](core_05a_accountability_definitions.md#contestability), [Auditability](core_05o_oversight_definitions.md#auditability), and [Transparency](core_05o_oversight_definitions.md#transparency) proportional to impact. Detect arbitrary, opaque, monopolistic, or reputation-substitution control of participant-standing signals. Align with [Epistemic Integrity](core_05o_oversight_definitions.md#epistemic-integrity) where standing claims are communicated. Apply Chapter Eight standing-effect mechanics directly where Chapter Eight inputs are used, and route any final top-end anti-constitutional misconduct assignment to Chapter Ten rather than to participant-standing criteria.
+<a id="participant-standing-constitutional-a"></a>
+- A: Ensure [Contestability](core_05a_accountability_definitions.md#contestability), [Auditability](core_05o_oversight_definitions.md#auditability), and [Transparency](core_05o_oversight_definitions.md#transparency) proportional to impact. Detect arbitrary, opaque, monopolistic, or reputation-substitution control of participant-standing signals. Align with [Epistemic Integrity](core_05o_oversight_definitions.md#epistemic-integrity) where standing claims are communicated. Apply Chapter Eight standing-effect mechanics directly where Chapter Eight inputs are used, and route any final top-end anti-constitutional misconduct assignment to Chapter Ten rather than to participant-standing criteria.
 <a id="participant-standing-constitutional-c"></a>
 - C: Non-compliant:
   - treating reputation, popularity, prestige, institutional brand, or social esteem as participant standing;
@@ -1502,8 +1539,8 @@ This cluster is the joint-invocation home for contribution state, standing recor
 *Measurements:*
 
 - **Primary:** Accountability measurement family and Timeliness measurement family — supporting measure where multiple measurement families co-apply.
-<a id="contribution-state-e"></a>
-- E: Evaluate **contribution state** only from **demonstrable** **facts** under [Auditability](core_05o_oversight_definitions.md#auditability) and [Contestability](core_05a_accountability_definitions.md#contestability). Apply [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination) where thresholds, scope, or record disputes are material. **Standing effect** must stay **traceable** to **contribution state** and **violation nature** as stated in Chapter Eight **§§11.1–6.2** and the integration rules. **Must not** treat **alleged** misconduct as [**verified violation findings**](core_05a_accountability_definitions.md#verified-violation-findings) for standing purposes ([**verified inputs for standing**](core_08-08_standing_assessment.md#verified-inputs-for-standing)). Where [Participant Standing](core_05a_accountability_definitions.md#participant-standing-constitutional) and Chapter Eight labels co-apply, keep narratives consistent. Do not substitute **formal-channel** pedigree for **demonstrable** **contribution state** under Chapter Eight **section 6.1**.
+<a id="contribution-state-a"></a>
+- A: Evaluate **contribution state** only from **demonstrable** **facts** under [Auditability](core_05o_oversight_definitions.md#auditability) and [Contestability](core_05a_accountability_definitions.md#contestability). Apply [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination) where thresholds, scope, or record disputes are material. **Standing effect** must stay **traceable** to **contribution state** and **violation nature** as stated in Chapter Eight **§§11.1–6.2** and the integration rules. **Must not** treat **alleged** misconduct as [**verified violation findings**](core_05a_accountability_definitions.md#verified-violation-findings) for standing purposes ([**verified inputs for standing**](core_08-08_standing_assessment.md#verified-inputs-for-standing)). Where [Participant Standing](core_05a_accountability_definitions.md#participant-standing-constitutional) and Chapter Eight labels co-apply, keep narratives consistent. Do not substitute **formal-channel** pedigree for **demonstrable** **contribution state** under Chapter Eight **section 6.1**.
 <a id="contribution-state-c"></a>
 - C: Non-compliant:
   - relabeling **adverse** **violation** findings as **negative contribution** on **Axis I**;
@@ -1529,7 +1566,7 @@ This cluster is the joint-invocation home for contribution state, standing recor
 - **What it is**
   - **In scope:** The admissible factual and record basis from which contribution-linked or violation-linked standing consequences may be applied. Verified inputs for standing include demonstrable contribution records for the Contribution Axis and verified violation findings for the Violation Axis, each recorded in axis-pure **contribution standing records** or **violation standing records** under Chapter Eight Chapter One §8.1 and satisfying the record, evidence, auditability, contestability, and review-status requirements stated in Chapter Eight. Allegations, complaints, intake labels, routing decisions, reputation, disfavored status, moral dislike, or provisional forum-phase material are not verified inputs for standing by themselves.
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-<a id="verified-inputs-for-standing-e"></a>
+<a id="verified-inputs-for-standing-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Accountability measurement family and Timeliness measurement family — supporting measure where multiple measurement families co-apply.
 
@@ -1558,7 +1595,7 @@ This cluster is the joint-invocation home for contribution state, standing recor
 - **What it is**
   - **In scope:** **Violation Axis** inputs that may affect **standing effect** because they rest on auditable, contestable findings satisfying Chapters **Two through Four** and Chapter Eight **§3.5**. Chapter Five pointer; canonical mechanics: Chapter Eight **§3.5** and **§6**. Compound with [Violation Nature](core_05a_accountability_definitions.md#violation-nature-chapter-six): this entry supplies the admissible finding basis; violation nature supplies adverse-outcome classification where the underlying finding supports it. Allegations, intake labels, provisional routing, and forum-phase narratives are not verified violation findings by themselves.
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-<a id="verified-violation-findings-e"></a>
+<a id="verified-violation-findings-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Accountability measurement family and Timeliness measurement family — supporting measure where multiple measurement families co-apply.
 
@@ -1590,8 +1627,8 @@ This cluster is the joint-invocation home for contribution state, standing recor
 *Measurements:*
 
 - **Primary:** Accountability measurement family and Timeliness measurement family — supporting measure where multiple measurement families co-apply.
-<a id="standing-effect-chapter-six-e"></a>
-- E: **Standing effect** must remain **traceable** to [Chapter Eight](core_08-08_standing_assessment.md) **§§2–3** and [Chapter Nine](core_09-09_standing_integration.md) **§§1–10**; evaluate under [Auditability](core_05o_oversight_definitions.md#auditability) and [Contestability](core_05a_accountability_definitions.md#contestability). The effect decision must identify the source contribution and violation standing records, subject, scope, time window, review status, separate axis inputs, required cross-references, verification basis, and consequence actually applied. **Contribution-linked** credit must follow Chapter Nine **Chapter One §8.1** recency and disclosure discipline where standing integration uses it. **Violation-linked** constraints must not be time-discounted, recency-weighted away, or softened by contribution upside while unresolved. **Must not** treat **alleged** misconduct, intake labels, or forum-phase material as [**verified violation findings**](core_05a_accountability_definitions.md#verified-violation-findings) for **standing** ([**verified inputs for standing**](core_08-08_standing_assessment.md#verified-inputs-for-standing)).
+<a id="standing-effect-chapter-six-a"></a>
+- A: **Standing effect** must remain **traceable** to [Chapter Eight](core_08-08_standing_assessment.md) **§§2–3** and [Chapter Nine](core_09-09_standing_integration.md) **§§1–10**; evaluate under [Auditability](core_05o_oversight_definitions.md#auditability) and [Contestability](core_05a_accountability_definitions.md#contestability). The effect decision must identify the source contribution and violation standing records, subject, scope, time window, review status, separate axis inputs, required cross-references, verification basis, and consequence actually applied. **Contribution-linked** credit must follow Chapter Nine **Chapter One §8.1** recency and disclosure discipline where standing integration uses it. **Violation-linked** constraints must not be time-discounted, recency-weighted away, or softened by contribution upside while unresolved. **Must not** treat **alleged** misconduct, intake labels, or forum-phase material as [**verified violation findings**](core_05a_accountability_definitions.md#verified-violation-findings) for **standing** ([**verified inputs for standing**](core_08-08_standing_assessment.md#verified-inputs-for-standing)).
 <a id="standing-effect-chapter-six-c"></a>
 - C: Non-compliant: **opaque** or **undisclosed** **standing** criteria; use of unverified allegations, provisional labels, or forum-phase material as adverse **standing** inputs; standing records that collapse distinct subjects, scopes, time windows, or review statuses into an undifferentiated label; placing both Contribution Axis and Violation Axis classifications in one standing record; **netting**, **averaging**, offsetting, or **substitution** that displaces **Chapter Nine Chapter One §8.1–4.2** or **verified**-input discipline; positive standing recognition used to erase unresolved violation findings; restrictive **standing effect** that is broader, less reviewable, or less time-bounded than Article **XXIII** permits; or **standing effect** that suspends, waives, extinguishes, or reduces Rights-Floor minimums, including inherent dignity, equal moral standing, minimum subsistence access, or access to **challenge** and **remedy** where Chapter Eight and Article **XXIII** forbid it.
 
@@ -1615,7 +1652,7 @@ This cluster is the joint-invocation home for contribution state, standing recor
 - **What it is**
   - **In scope:** The bounded, **axis-pure** classification record that applies Chapter Eight categories to a defined subject, functional scope, time window, review status, and decision context. Each standing record classifies verified behavior or findings on either the Contribution Axis or the Violation Axis, but not both. A **contribution standing record** classifies verified contribution state; a **violation standing record** classifies verified violation nature. Related records must cross-reference one another under Chapter Eight §14.3.1 where they share subject, overlapping time window, bounded event, pattern, or decision context. Chapter Five pointer; canonical concept: Chapter Eight Chapter One §8.1; operational requirements: Chapter Eight Chapter One §8.3. A standing record may concern a sentient, institution, system, assessment, event, role, collective, actor-specific record, or other constitutionally relevant unit, but it must keep distinct units and contexts separately traceable. It is a source record for later [Standing Effect](core_05a_accountability_definitions.md#standing-effect-chapter-six) analysis; standing effect supplies the separate Chapter Nine consequence layer applied from the relevant linked record set. A standing record is not a general worth label, dignity rank, Rights-Floor measure, merged merit score, or effect decision.
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-<a id="standing-record-chapter-six-e"></a>
+<a id="standing-record-chapter-six-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Accountability measurement family and Timeliness measurement family — supporting measure where multiple measurement families co-apply.
 
@@ -1643,7 +1680,7 @@ This cluster is the joint-invocation home for contribution state, standing recor
 - **What it is**
   - **In scope:** A positive standing-effect pathway that opens access to trust-sensitive roles, delegated authority, oversight eligibility, enhanced recognition, or progressively consequential stewardship responsibility when verified competence, experience, contribution records, and current good-standing criteria satisfy published role-proportionate requirements. A competency gate is the opening-oriented counterpart to a [Standing Lock](core_05a_accountability_definitions.md#standing-lock), but it is not reputation, social prestige, insider sponsorship, credential monopoly, dignity rank, Rights-Floor measure, or permanent entitlement.
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-<a id="competency-gate-e"></a>
+<a id="competency-gate-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Accountability measurement family and Timeliness measurement family — supporting measure where multiple measurement families co-apply.
 
@@ -1671,7 +1708,7 @@ This cluster is the joint-invocation home for contribution state, standing recor
 - **What it is**
   - **In scope:** A standing-effect constraint that follows from verified Violation Axis assessment and limits trust-, role-, credit-, recognition-, or authority-related consequences while the verified violation finding remains unresolved or materially unremediated. A standing lock is not a dignity rank, Rights-Floor reduction, automatic retaliation, or merged merit score.
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-<a id="standing-lock-e"></a>
+<a id="standing-lock-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Accountability measurement family and Timeliness measurement family — supporting measure where multiple measurement families co-apply.
 
@@ -1700,7 +1737,7 @@ This cluster is the joint-invocation home for contribution state, standing recor
 - **What it is**
   - **In scope:** **Axis II** classification of **adverse** constitutional outcomes from [**verified violation findings**](core_05a_accountability_definitions.md#verified-violation-findings) — **non-compliance** severity, attached process / response character, and **§6** supplements — under [Chapter Eight](core_08-08_standing_assessment.md) and [integration sections](core_09-09_standing_integration.md). Chapter Five pointer; canonical mechanics: Chapter Eight **§6** and **§5**. Compound with [Verified Violation Findings](core_05a_accountability_definitions.md#verified-violation-findings): violation nature supplies the classification layer; verified violation findings supply the admissible record basis. Distinct from [**contribution state**](core_05a_accountability_definitions.md#contribution-state) (**Axis I**, positive-only).
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-<a id="violation-nature-chapter-six-e"></a>
+<a id="violation-nature-chapter-six-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Accountability measurement family and Timeliness measurement family — supporting measure where multiple measurement families co-apply.
 
@@ -1728,7 +1765,7 @@ This cluster is the joint-invocation home for contribution state, standing recor
 - **What it is**
   - **In scope:** The Chapter Ten finalization process for determining whether anti-constitutional misconduct receives final Violation Axis `s = 7`, `s = 8`, or `s = 9` classification. It identifies the unified incident, applies the criteria set, assesses incident gravity, assigns any final top slot, and confirms due-process safeguards before final standing effect may treat the misconduct as top-slot anti-constitutional misconduct.
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-<a id="top-slot-review-e"></a>
+<a id="top-slot-review-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Accountability measurement family and Timeliness measurement family — supporting measure where multiple measurement families co-apply.
 
@@ -1756,7 +1793,7 @@ This cluster is the joint-invocation home for contribution state, standing recor
 - **What it is**
   - **In scope:** The whole episode, sustained campaign, or connected pattern assessed together for Chapter Ten top-slot review because the conduct shares material actors, objectives, temporal continuity, causal linkage, or unified design. The term prevents artificial fragmentation of one anti-constitutional pattern into smaller pieces that would understate criteria satisfaction, gravity, or accountability.
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-<a id="unified-incident-e"></a>
+<a id="unified-incident-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Accountability measurement family and Timeliness measurement family — supporting measure where multiple measurement families co-apply.
 
@@ -1784,7 +1821,7 @@ This cluster is the joint-invocation home for contribution state, standing recor
 - **What it is**
   - **In scope:** The integrated evidentiary and reasoning record used to assess a unified incident for Chapter Ten criteria, gravity, due-process safeguards, and final top-slot classification. It keeps materially overlapping facts, actors, effects, criteria, and review status together while preserving separate substantiation for each criterion or pattern.
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-<a id="unified-record-e"></a>
+<a id="unified-record-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Accountability measurement family and Timeliness measurement family — supporting measure where multiple measurement families co-apply.
 
@@ -1812,7 +1849,7 @@ This cluster is the joint-invocation home for contribution state, standing recor
 - **What it is**
   - **In scope:** A unified incident that, viewed as a whole, causes or imminently threatens catastrophic constitutional harm of the kind Chapter Ten recognizes for grave or pernicious anti-constitutional misconduct, including loss or suspension of operative constitutional authority, material population-scale loss of contestability or Rights-Floor continuity, or comparable survival-relevant or system-relevant constitutional harm.
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-<a id="single-catastrophic-incident-e"></a>
+<a id="single-catastrophic-incident-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Accountability measurement family and Timeliness measurement family — supporting measure where multiple measurement families co-apply.
 
@@ -1840,7 +1877,7 @@ This cluster is the joint-invocation home for contribution state, standing recor
 - **What it is**
   - **In scope:** A unified incident made of continuing, repeated, or systematically reinforced conduct whose aggregate gravity is high enough for Chapter Ten top-slot review. Its gravity may appear through material rollback, blocked or chilled challenge rights, Rights-Floor degradation, delayed correction beyond practical remedy, equivalent structural workaround, institutional scale, capture, or durability.
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-<a id="sustained-high-gravity-pattern-e"></a>
+<a id="sustained-high-gravity-pattern-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Accountability measurement family and Timeliness measurement family — supporting measure where multiple measurement families co-apply.
 
@@ -1901,14 +1938,15 @@ This cluster is the joint-invocation home for overt use of force, weapons of mas
 
 <br>
 
-- O: The Rights-Floor concept covering overt application of physical, coercive, or kinetic force by institutions, stewards, operators, or comparable actors — including security, policing, conflict, and military-power deployment. It applies under [Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion) to both force-users and force-affected sentients. Use of Force is constitutionally exceptional. It is valid only under a lawful and published authority, for a constitutionally legitimate and materially serious objective, where less harmful means are not reasonably sufficient, and where the use remains [Necessity](core_05a_accountability_definitions.md#necessity)-compatible, [Proportionality](core_05a_accountability_definitions.md#proportionality)-compatible, narrowly tailored, time-bounded, and independently reviewable. Ordinary non-coercive conduct, and force used outside the governance, security, conflict, and military-power registers that Article XIII-B covers, is outside this entry.
-  - In scope: The Rights-Floor concept covering overt application of physical, coercive, or kinetic force by institutions, stewards, operators, or comparable actors — including security, policing, conflict, and military-power deployment. It applies under [Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion) to both force-users and force-affected sentients. Use of Force is constitutionally exceptional. It is valid only under a lawful and published authority, for a constitutionally legitimate and materially serious objective, where less harmful means are not reasonably sufficient, and where the use remains [Necessity](core_05a_accountability_definitions.md#necessity)-compatible, [Proportionality](core_05a_accountability_definitions.md#proportionality)-compatible, narrowly tailored, time-bounded, and independently reviewable. Ordinary non-coercive conduct, and force used outside the governance, security, conflict, and military-power registers that Article XIII-B covers, is outside this entry.
-  - Out of scope: formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
+- O: The Rights-Floor concept covering overt application of physical, coercive, or kinetic force by institutions, stewards, operators, or comparable actors — including security, policing, conflict, and military-power deployment. Use of Force is constitutionally exceptional.
+  - **In scope:** overt application of physical, coercive, or kinetic force under the governance, security, conflict, and military-power registers that [Article XIII-B](core_06-06_rights_part_c.md#article-xiii-b-use-of-force-armed-conflict-and-military-power-limits) covers, applied to both force-users and force-affected sentients.
+  - **Depends on:** [Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion), [Necessity](core_05a_accountability_definitions.md#necessity), and [Proportionality](core_05a_accountability_definitions.md#proportionality) — validity bounds; force is valid only under lawful and published authority, for a constitutionally legitimate and materially serious objective, where less harmful means are not reasonably sufficient, and where the use remains necessity-compatible, proportionality-compatible, narrowly tailored, time-bounded, and independently reviewable.
+  - Out of scope: ordinary non-coercive conduct; force used outside the registers Article XIII-B covers; formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 *Measurements:*
 
 - **Primary:** Flourishing measurement family and Continuity measurement family — supporting measure where multiple measurement families co-apply.
-<a id="use-of-force-constitutional-e"></a>
-- E: Test authorization lawfulness and publication, objective legitimacy and material seriousness, less-harmful-means sufficiency, ongoing [Necessity](core_05a_accountability_definitions.md#necessity) and [Proportionality](core_05a_accountability_definitions.md#proportionality), and narrow tailoring to the authorized objective. Apply [Combatant / Non-Combatant Distinction](core_05a_accountability_definitions.md#combatant-non-combatant-distinction-constitutional) to targeting discipline. Apply [Adversarial, Scaled, and Exploited Conditions](core_05o_oversight_definitions.md#adversarial-scaled-and-exploited-conditions) where scaled or adversarial deployment is foreseeable. Apply [Existential Risk](core_05c_continuity_definitions.md#existential-risk) where the use materially implicates [Weapons of Mass Harm](core_05a_accountability_definitions.md#weapons-of-mass-harm-constitutional). Apply [Reversibility](core_05c_continuity_definitions.md#reversibility-constitutional) and [Redress and Remediation](core_05a_accountability_definitions.md#redress-and-remediation-constitutional) to outcome discipline. Emergency framings that functionally normalize force through indefinite extension or routinized reauthorization fail this evaluation.
+<a id="use-of-force-constitutional-a"></a>
+- A: Test authorization lawfulness and publication, objective legitimacy and material seriousness, less-harmful-means sufficiency, ongoing [Necessity](core_05a_accountability_definitions.md#necessity) and [Proportionality](core_05a_accountability_definitions.md#proportionality), and narrow tailoring to the authorized objective. Apply [Combatant / Non-Combatant Distinction](core_05a_accountability_definitions.md#combatant-non-combatant-distinction-constitutional) to targeting discipline. Apply [Adversarial, Scaled, and Exploited Conditions](core_05o_oversight_definitions.md#adversarial-scaled-and-exploited-conditions) where scaled or adversarial deployment is foreseeable. Apply [Existential Risk](core_05c_continuity_definitions.md#existential-risk) where the use materially implicates [Weapons of Mass Harm](core_05a_accountability_definitions.md#weapons-of-mass-harm-constitutional). Apply [Reversibility](core_05c_continuity_definitions.md#reversibility-constitutional) and [Redress and Remediation](core_05a_accountability_definitions.md#redress-and-remediation-constitutional) to outcome discipline. Emergency framings that functionally normalize force through indefinite extension or routinized reauthorization fail this evaluation.
 <a id="use-of-force-constitutional-c"></a>
 - C: Non-compliant:
   - use of force without lawful published authority, without a legitimate materially serious objective, without less-harmful-means sufficiency, or absent ongoing Necessity and Proportionality ([Article XIII-B](core_06-06_rights_part_c.md#article-xiii-b-use-of-force-armed-conflict-and-military-power-limits));
@@ -1927,7 +1965,7 @@ This cluster is the joint-invocation home for overt use of force, weapons of mas
 - Downstream: Principles: [4. Non-Negotiable Constraints: Safety and Truth](core_01_a_values_principles.md#3-non-negotiable-constraints-safety-and-truth); [8.1.1 Proportionality](core_01_b_interaction_interpretation.md#611-proportionality) (irreversible harm and existential-risk index).
 - Owner floor: [Article XIII-C](core_06-06_rights_part_c.md#article-xiii-c-autonomous-lethal-systems-and-autonomous-coercion-tools). Existential-risk interaction: [Article I-D](core_06-06_rights_part_a.md#article-i-d-existential-risk-and-recovery-capacity). Systems-layer implementation: [Article XII-A](core_06-06_rights_part_c.md#article-xii-a-reliability-and-trustworthiness-baseline).
 - Cluster component: [Chapter One §8.11 *Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm*](core_05a_accountability_definitions.md#use-of-force-autonomous-coercion-and-mass-harm-cluster).
-- Read with: [Autonomous Coercion Tool](core_05a_accountability_definitions.md#autonomous-coercion-tool-constitutional), [Use of Force](core_05a_accountability_definitions.md#use-of-force-constitutional), [Weapons of Mass Harm](core_05a_accountability_definitions.md#weapons-of-mass-harm-constitutional), [Combatant / Non-Combatant Distinction](core_05a_accountability_definitions.md#combatant-non-combatant-distinction-constitutional), [Existential Risk](core_05c_continuity_definitions.md#existential-risk), [Adversarial, Scaled, and Exploited Conditions](core_05o_oversight_definitions.md#adversarial-scaled-and-exploited-conditions), [Reversibility](core_05c_continuity_definitions.md#reversibility-constitutional), [Irreversible Deprivation Measure](core_05a_accountability_definitions.md#irreversible-deprivation-measure-constitutional), [Redress and Remediation](core_05a_accountability_definitions.md#redress-and-remediation-constitutional), and [Chapter Three §2.2.1 Formal Label and Representation Gaming](core_02-04_definition_mechanics.md#formal-label-gaming-discipline).
+- Read with: [Autonomous Coercion Tool](core_05a_accountability_definitions.md#autonomous-coercion-tool-constitutional), [Use of Force](core_05a_accountability_definitions.md#use-of-force-constitutional), [Weapons of Mass Harm](core_05a_accountability_definitions.md#weapons-of-mass-harm-constitutional), [Combatant / Non-Combatant Distinction](core_05a_accountability_definitions.md#combatant-non-combatant-distinction-constitutional), [Existential Risk](core_05c_continuity_definitions.md#existential-risk), [Adversarial, Scaled, and Exploited Conditions](core_05o_oversight_definitions.md#adversarial-scaled-and-exploited-conditions), [Reversibility](core_05c_continuity_definitions.md#reversibility-constitutional), [Irreversible Deprivation Measure](core_05a_accountability_definitions.md#irreversible-deprivation-measure-constitutional), [Redress and Remediation](core_05a_accountability_definitions.md#redress-and-remediation-constitutional), and [Chapter Three §2.1.1 Formal Label and Representation Gaming](core_02-04_definition_mechanics.md#formal-label-gaming-discipline).
 - *In plain terms:* A system that selects or engages lethal-force targets on its own — without a human exercising real-time judgment over each targeting or engagement decision.
 
 </details>
@@ -1936,13 +1974,14 @@ This cluster is the joint-invocation home for overt use of force, weapons of mas
 
 - O: A system that, under its operating conditions, selects, engages, or materially directs the application of lethal force in a targeting decision without a human's real, timely judgment shaping each targeting or engagement decision.
   - In scope — substrates: autonomous platforms, swarms, software-mediated targeting pipelines, and hybrid arrangements.
+  - **Depends on:** [Use of Force](core_05a_accountability_definitions.md#use-of-force-constitutional) and [Combatant / Non-Combatant Distinction](core_05a_accountability_definitions.md#combatant-non-combatant-distinction-constitutional) — constitutive bounds under [Article XIII-C](core_06-06_rights_part_c.md#article-xiii-c-autonomous-lethal-systems-and-autonomous-coercion-tools); deployment and each targeting decision must satisfy Use of Force validity and Combatant / Non-Combatant Distinction discipline.
   - Out of scope: (a) a human's real, timely judgment materially shapes each targeting or engagement decision; (b) use outside targeting or lethal engagement.
 *Measurements:*
 
 - **Primary:** Flourishing measurement family and Continuity measurement family — supporting measure where multiple measurement families co-apply.
 
-  <a id="autonomous-lethal-system-constitutional-e"></a>
-- E: Judge the system by what it does, not how it is described. At minimum:
+  <a id="autonomous-lethal-system-constitutional-a"></a>
+- A: Judge the system by what it does, not how it is described. At minimum:
   - test whether each targeting or engagement decision is materially shaped at operational tempo by a human's substantive judgment — not merely ratified after the fact;
   - test whether classification accuracy, robustness under [Adversarial, Scaled, and Exploited Conditions](core_05o_oversight_definitions.md#adversarial-scaled-and-exploited-conditions), and failure-mode behavior independently satisfy [Combatant / Non-Combatant Distinction](core_05a_accountability_definitions.md#combatant-non-combatant-distinction-constitutional);
   - test whether capability, scale, or deployment conditions materially implicate [Existential Risk](core_05c_continuity_definitions.md#existential-risk), triggering [Article I-D](core_06-06_rights_part_a.md#article-i-d-existential-risk-and-recovery-capacity) scrutiny;
@@ -1971,14 +2010,15 @@ This cluster is the joint-invocation home for overt use of force, weapons of mas
 
 <br>
 
-- O: Weapons, weapon systems, or deliberately weaponized capabilities whose use foreseeably causes casualty, ecological, informational, or infrastructural harm at a scale that materially implicates [Article I-A](core_06-06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) environmental preconditions, [Article I-D](core_06-06_rights_part_a.md#article-i-d-existential-risk-and-recovery-capacity) existential-risk scrutiny, or both. Defined by foreseeable harm scale and ecological-recovery-capacity burden, not weapon-class taxonomy alone. Substrate-agnostic across biological-effect, synthetic-effect, informational, infrastructural, and hybrid effect pathways.
-  - In scope: Weapons, weapon systems, or deliberately weaponized capabilities whose use foreseeably causes casualty, ecological, informational, or infrastructural harm at a scale that materially implicates [Article I-A](core_06-06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) environmental preconditions, [Article I-D](core_06-06_rights_part_a.md#article-i-d-existential-risk-and-recovery-capacity) existential-risk scrutiny, or both. Defined by foreseeable harm scale and ecological-recovery-capacity burden, not weapon-class taxonomy alone. Substrate-agnostic across biological-effect, synthetic-effect, informational, infrastructural, and hybrid effect pathways.
-  - Out of scope: formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
+- O: Weapons, weapon systems, or deliberately weaponized capabilities whose use foreseeably causes casualty, ecological, informational, or infrastructural harm at constitutional harm-scale thresholds. Defined by foreseeable harm scale and ecological-recovery-capacity burden, not weapon-class taxonomy alone. Substrate-agnostic across biological-effect, synthetic-effect, informational, infrastructural, and hybrid effect pathways.
+  - In scope: weapons, weapon systems, or deliberately weaponized capabilities whose foreseeable use causes casualty, ecological, informational, or infrastructural harm at a scale that materially implicates environmental-preconditions discipline under **Article I-A** or existential-risk scrutiny under **Article I-D**, or both.
+  - **Depends on:** [Use of Force](core_05a_accountability_definitions.md#use-of-force-constitutional), [Existential Risk](core_05c_continuity_definitions.md#existential-risk), and [Ecological Integrity](core_05c_continuity_definitions.md#ecological-integrity-constitutional) — constitutive bounds; possession, transfer, deployment, or use must satisfy Use of Force discipline and the harm-scale thresholds these entries supply.
+  - Out of scope: formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter; framing by weapon-class taxonomy alone where foreseeable harm scale implicates Article I-D thresholds.
 *Measurements:*
 
 - **Primary:** Flourishing measurement family and Continuity measurement family — supporting measure where multiple measurement families co-apply.
-<a id="weapons-of-mass-harm-constitutional-e"></a>
-- E: Reason about foreseeable casualty, ecological, informational, and infrastructural harm scale across [Adversarial, Scaled, and Exploited Conditions](core_05o_oversight_definitions.md#adversarial-scaled-and-exploited-conditions). Apply [Cascading Failure](core_05c_continuity_definitions.md#cascading-failure) where systemic spread is plausible; apply [Existential Risk](core_05c_continuity_definitions.md#existential-risk) where Article I-D thresholds are materially implicated; apply [Reversibility](core_05c_continuity_definitions.md#reversibility-constitutional) to harm-recovery path. Refuse framings that treat such weapons as ordinary force-escalation tools where this entry's harm-scale thresholds are met.
+<a id="weapons-of-mass-harm-constitutional-a"></a>
+- A: Reason about foreseeable casualty, ecological, informational, and infrastructural harm scale across [Adversarial, Scaled, and Exploited Conditions](core_05o_oversight_definitions.md#adversarial-scaled-and-exploited-conditions). Apply [Cascading Failure](core_05c_continuity_definitions.md#cascading-failure) where systemic spread is plausible; apply [Existential Risk](core_05c_continuity_definitions.md#existential-risk) where Article I-D thresholds are materially implicated; apply [Reversibility](core_05c_continuity_definitions.md#reversibility-constitutional) to harm-recovery path. Refuse framings that treat such weapons as ordinary force-escalation tools where this entry's harm-scale thresholds are met.
 <a id="weapons-of-mass-harm-constitutional-c"></a>
 - C: Non-compliant:
   - possession, transfer, deployment, or use of Weapons of Mass Harm without satisfying [Article XIII-B](core_06-06_rights_part_c.md#article-xiii-b-use-of-force-armed-conflict-and-military-power-limits) use-of-force discipline, [Article I-A](core_06-06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) environmental-preconditions discipline, and [Article I-D](core_06-06_rights_part_a.md#article-i-d-existential-risk-and-recovery-capacity) existential-risk scrutiny where materially implicated;
@@ -2001,14 +2041,15 @@ This cluster is the joint-invocation home for overt use of force, weapons of mas
 
 <br>
 
-- O: The substantive distinction, at the time of an applicable use-of-force decision, between sentients taking direct part in hostilities, armed action, or active coercive-force conduct (combatants) and those who are not (non-combatants). The distinction applies under [Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion) and is substantive: formal combatant-class assignment is relevant evidence but cannot establish combatant status where it conflicts with substantive conduct, and substantive non-combatant conduct is not defeated by adverse formal classification. The distinction applies at the individual level for each use-of-force decision and does not authorize population-level reclassification by demographic, protected-characteristic, or proxy features.
-  - In scope: The substantive distinction, at the time of an applicable use-of-force decision, between sentients taking direct part in hostilities, armed action, or active coercive-force conduct (combatants) and those who are not (non-combatants). The distinction applies under [Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion) and is substantive: formal combatant-class assignment is relevant evidence but cannot establish combatant status where it conflicts with substantive conduct, and substantive non-combatant conduct is not defeated by adverse formal classification. The distinction applies at the individual level for each use-of-force decision and does not authorize population-level reclassification by demographic, protected-characteristic, or proxy features.
+- O: The substantive distinction, at the time of an applicable use-of-force decision, between sentients taking direct part in hostilities, armed action, or active coercive-force conduct (combatants) and those who are not (non-combatants).
+  - In scope: individual-level distinction for each use-of-force decision. Formal combatant-class assignment is relevant evidence but cannot establish combatant status where it conflicts with substantive conduct, and substantive non-combatant conduct is not defeated by adverse formal classification. Does not authorize population-level reclassification by demographic, protected-characteristic, or proxy features.
+  - **Depends on:** [Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion) and [Use of Force](core_05a_accountability_definitions.md#use-of-force-constitutional) — constitutive bounds; the distinction applies to all sentients without substrate-class narrowing and operates only within applicable Use of Force decisions.
   - Out of scope: formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 *Measurements:*
 
 - **Primary:** Flourishing measurement family and Continuity measurement family — supporting measure where multiple measurement families co-apply.
-<a id="combatant-non-combatant-distinction-constitutional-e"></a>
-- E: Test:
+<a id="combatant-non-combatant-distinction-constitutional-a"></a>
+- A: Test:
   - whether classification reaches substantive conduct at the relevant time, not formal-class designation alone;
   - whether taxonomy-of-convenience reclassifications sweep protected populations into combatant status;
   - whether classification logic tracks [Protected Characteristics](core_05p_participation_definitions.md#protected-characteristics-constitutional) or their material proxies under [Protected Characteristic Proxying and Disparate Impact](core_05p_participation_definitions.md#protected-characteristic-proxying-and-disparate-impact);
@@ -2044,8 +2085,8 @@ This cluster is the joint-invocation home for overt use of force, weapons of mas
 *Measurements:*
 
 - **Primary:** Flourishing measurement family and Continuity measurement family — supporting measure where multiple measurement families co-apply.
-  <a id="irreversible-deprivation-measure-constitutional-e"></a>
-- E: Test substantive irreversibility — whether the measure's effect forecloses [Reversibility](core_05c_continuity_definitions.md#reversibility-constitutional) and [Redress and Remediation](core_05a_accountability_definitions.md#redress-and-remediation-constitutional) in substance, not only in procedural form. Detect:
+  <a id="irreversible-deprivation-measure-constitutional-a"></a>
+- A: Test substantive irreversibility — whether the measure's effect forecloses [Reversibility](core_05c_continuity_definitions.md#reversibility-constitutional) and [Redress and Remediation](core_05a_accountability_definitions.md#redress-and-remediation-constitutional) in substance, not only in procedural form. Detect:
   - framings that re-introduce the prohibited measure by routing through Chapter Ten slot classification ("final s = 8 / s = 9" predicates), Article XXIII-D emergency measures, Article XXVI transition or re-baselining governance, adopter-instrument custody, or comparable mechanisms;
   - "rehabilitation infeasibility" or "less-restrictive measures cannot achieve safety" framings used to carry the prohibited measure past the categorical prohibition in Article XXIII-B;
   - use of a nominally reversible durable-containment regime under Article XXIII-C as a predicate for the prohibited measure;
@@ -2070,25 +2111,24 @@ This cluster is the joint-invocation home for overt use of force, weapons of mas
 - Downstream: Principles: [4. Non-Negotiable Constraints: Safety and Truth](core_01_a_values_principles.md#3-non-negotiable-constraints-safety-and-truth); [Chapter Seven §1A Whole-System Certification Evaluation](core_07-07_system_alignment_certification.md#1a-whole-system-certification-evaluation) (scaled / adversarial deployment scrutiny).
 - Owner floor: [Article XIII-C](core_06-06_rights_part_c.md#article-xiii-c-autonomous-lethal-systems-and-autonomous-coercion-tools). Systems-layer implementation: [Article XII-A](core_06-06_rights_part_c.md#article-xii-a-reliability-and-trustworthiness-baseline) and *[corpus_systems.md](corpus_systems.md)*, CS-4 — System classification and handling classification.
 - Cluster component: [Chapter One §8.11 *Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm*](core_05a_accountability_definitions.md#use-of-force-autonomous-coercion-and-mass-harm-cluster).
-- Read with: [Autonomous Lethal System](core_05a_accountability_definitions.md#autonomous-lethal-system-constitutional), [Coercion and Manipulation](core_05p_participation_definitions.md#coercion-and-manipulation-constitutional), [Adversarial, Scaled, and Exploited Conditions](core_05o_oversight_definitions.md#adversarial-scaled-and-exploited-conditions), [Reversibility](core_05c_continuity_definitions.md#reversibility-constitutional), [Irreversible Deprivation Measure](core_05a_accountability_definitions.md#irreversible-deprivation-measure-constitutional), [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency), [Protected Characteristics](core_05p_participation_definitions.md#protected-characteristics-constitutional), and [Chapter Three §2.2.1 Formal Label and Representation Gaming](core_02-04_definition_mechanics.md#formal-label-gaming-discipline).
+- Read with: [Autonomous Lethal System](core_05a_accountability_definitions.md#autonomous-lethal-system-constitutional), [Coercion and Manipulation](core_05p_participation_definitions.md#coercion-and-manipulation-constitutional), [Adversarial, Scaled, and Exploited Conditions](core_05o_oversight_definitions.md#adversarial-scaled-and-exploited-conditions), [Reversibility](core_05c_continuity_definitions.md#reversibility-constitutional), [Irreversible Deprivation Measure](core_05a_accountability_definitions.md#irreversible-deprivation-measure-constitutional), [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency), [Protected Characteristics](core_05p_participation_definitions.md#protected-characteristics-constitutional), and [Chapter Three §2.1.1 Formal Label and Representation Gaming](core_02-04_definition_mechanics.md#formal-label-gaming-discipline).
 - *In plain terms:* A system that pressures, restricts, or manipulates sentients on its own, without a human exercising real-time judgment over each coercive act.
 
 </details>
 
 <br>
 
-- O: A system that coerces sentients — constraining their freedom or decision-making — through autonomous or adaptive behavior.
-  - In scope: A system that coerces sentients — constraining their freedom or decision-making — through autonomous or adaptive behavior.
-  - Coercive effects include, without limitation: shaping behavior at scale; targeted restriction of movement or access; targeted suppression or chilling of expression; targeted manipulation as defined in [Coercion and Manipulation](core_05p_participation_definitions.md#coercion-and-manipulation-constitutional); targeted harm calibrated by protected characteristics or their material proxies; and infliction of psychological trauma, acute stress, or chronic psychological destabilization.
-  - Substrate-agnostic under [Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion), covering both non-lethal and lethal coercive effects.
+- O: A system that coerces sentients — constraining their freedom or decision-making — through autonomous or adaptive behavior without a human's real, timely judgment shaping each coercive application.
+  - In scope — coercive effects: shaping behavior at scale; targeted restriction of movement or access; targeted suppression or chilling of expression; targeted manipulation as defined in [Coercion and Manipulation](core_05p_participation_definitions.md#coercion-and-manipulation-constitutional); targeted harm calibrated by protected characteristics or their material proxies; and infliction of psychological trauma, acute stress, or chronic psychological destabilization. Substrate-agnostic, covering both non-lethal and lethal coercive effects.
+  - **Depends on:** [Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion) and [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency) — constitutive bounds under [Article XIII-C](core_06-06_rights_part_c.md#article-xiii-c-autonomous-lethal-systems-and-autonomous-coercion-tools); coercive scope must not defeat substrate-agnostic protection or agency floors.
   - Out of scope: either (a) the system automates permitted tasks without coercing sentients, or (b) a human's real, timely judgment shapes each coercive application.
 *Measurements:*
 
 - **Primary:** Flourishing measurement family and Continuity measurement family — supporting measure where multiple measurement families co-apply.
 
-  <a id="autonomous-coercion-tool-constitutional-e"></a>
-- E: Judge the system by what it does, not how it is described. At minimum:
-  - apply [Chapter Three §2.2.1 Formal Label and Representation Gaming](core_02-04_definition_mechanics.md#formal-label-gaming-discipline) to nominal human-in-the-loop and systems-layer classification claims;
+  <a id="autonomous-coercion-tool-constitutional-a"></a>
+- A: Judge the system by what it does, not how it is described. At minimum:
+  - apply [Chapter Three §2.1.1 Formal Label and Representation Gaming](core_02-04_definition_mechanics.md#formal-label-gaming-discipline) to nominal human-in-the-loop and systems-layer classification claims;
   - assess by coercive effect on sentients, not by weapons-class labels; "non-lethal" is not a defense when coercion is present;
   - stress-test classification accuracy and failure modes under [Adversarial, Scaled, and Exploited Conditions](core_05o_oversight_definitions.md#adversarial-scaled-and-exploited-conditions);
   - apply [Protected Characteristics](core_05p_participation_definitions.md#protected-characteristics-constitutional) and [Protected Characteristic Proxying and Disparate Impact](core_05p_participation_definitions.md#protected-characteristic-proxying-and-disparate-impact) to targeting logic;
