@@ -34,6 +34,10 @@
 
 <br>
 
+Chapter Nine is the constitutional owner of **standing integration and standing effects**, including attachments, descriptors, standing locks, remedy assignment, and enforcement anchors.
+
+<br>
+
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
@@ -62,10 +66,10 @@
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Competency Gate](core_05a_accountability_definitions.md#competency-gate) · [O](core_05a_accountability_definitions.md#competency-gate) · [E](core_05a_accountability_definitions.md#competency-gate-e) · [C](core_05a_accountability_definitions.md#competency-gate-c)
-- [Standing Lock](core_05a_accountability_definitions.md#standing-lock) · [O](core_05a_accountability_definitions.md#standing-lock) · [E](core_05a_accountability_definitions.md#standing-lock-e) · [C](core_05a_accountability_definitions.md#standing-lock-c)
+- [Competency Gate](core_05a_accountability_definitions.md#competency-gate) · [O](core_05a_accountability_definitions.md#competency-gate) · [A](core_05a_accountability_definitions.md#competency-gate-a) · [C](core_05a_accountability_definitions.md#competency-gate-c)
+- [Standing Lock](core_05a_accountability_definitions.md#standing-lock) · [O](core_05a_accountability_definitions.md#standing-lock) · [A](core_05a_accountability_definitions.md#standing-lock-a) · [C](core_05a_accountability_definitions.md#standing-lock-c)
 
 </details>
 
@@ -99,17 +103,17 @@ Positive standing effects run through [**competency gates**](#competency-gates) 
 
 - Upstream: [§11.1](core_08-08_standing_assessment.md#51-contribution-axis-bands-and-table-2) (*Contribution Axis rules, bands, and Table 2*); [Chapter One §8.2](#72-stackable-benefit-and-stewardship-descriptors-contribution-state-supplement).
 - Downstream: [§1.2](#competency-gates) (*competency gates*); [§1.3](#standing-locks-in-the-standing-model); [§1.4](#37-reinstatement-review-and-non-entrenchment); [§1.5](#38-standing-integration-category-hook).
-- Read with: [Contribution State](core_05a_accountability_definitions.md#contribution-state) (*Chapter Five pointer — operative Contribution Axis text in **Chapter Eight section 6.1***); [Competency Gate](core_05a_accountability_definitions.md#competency-gate); [Auditability](core_05o_oversight_definitions.md#auditability) · [O](core_05o_oversight_definitions.md#auditability) · [E](core_05o_oversight_definitions.md#auditability-e) · [C](core_05o_oversight_definitions.md#auditability-c); [Contestability](core_05a_accountability_definitions.md#contestability) · [O](core_05a_accountability_definitions.md#contestability) · [E](core_05a_accountability_definitions.md#contestability-e) · [C](core_05a_accountability_definitions.md#contestability-c).
+- Read with: [Contribution State](core_05a_accountability_definitions.md#contribution-state) (*Chapter Five pointer — operative Contribution Axis text in **Chapter Eight section 6.1***); [Competency Gate](core_05a_accountability_definitions.md#competency-gate); [Auditability](core_05o_oversight_definitions.md#auditability) · [O](core_05o_oversight_definitions.md#auditability) · [A](core_05o_oversight_definitions.md#auditability-a) · [C](core_05o_oversight_definitions.md#auditability-c); [Contestability](core_05a_accountability_definitions.md#contestability) · [O](core_05a_accountability_definitions.md#contestability) · [A](core_05a_accountability_definitions.md#contestability-a) · [C](core_05a_accountability_definitions.md#contestability-c).
 
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Contribution State](core_05a_accountability_definitions.md#contribution-state) · [O](core_05a_accountability_definitions.md#contribution-state) · [E](core_05a_accountability_definitions.md#contribution-state-e) · [C](core_05a_accountability_definitions.md#contribution-state-c)
-- [Auditability](core_05o_oversight_definitions.md#auditability) · [O](core_05o_oversight_definitions.md#auditability) · [E](core_05o_oversight_definitions.md#auditability-e) · [C](core_05o_oversight_definitions.md#auditability-c)
-- [Contestability](core_05a_accountability_definitions.md#contestability) · [O](core_05a_accountability_definitions.md#contestability) · [E](core_05a_accountability_definitions.md#contestability-e) · [C](core_05a_accountability_definitions.md#contestability-c)
-- [Transparency](core_05o_oversight_definitions.md#transparency) · [O](core_05o_oversight_definitions.md#transparency) · [E](core_05o_oversight_definitions.md#transparency-e) · [C](core_05o_oversight_definitions.md#transparency-c)
+- [Contribution State](core_05a_accountability_definitions.md#contribution-state) · [O](core_05a_accountability_definitions.md#contribution-state) · [A](core_05a_accountability_definitions.md#contribution-state-a) · [C](core_05a_accountability_definitions.md#contribution-state-c)
+- [Auditability](core_05o_oversight_definitions.md#auditability) · [O](core_05o_oversight_definitions.md#auditability) · [A](core_05o_oversight_definitions.md#auditability-a) · [C](core_05o_oversight_definitions.md#auditability-c)
+- [Contestability](core_05a_accountability_definitions.md#contestability) · [O](core_05a_accountability_definitions.md#contestability) · [A](core_05a_accountability_definitions.md#contestability-a) · [C](core_05a_accountability_definitions.md#contestability-c)
+- [Transparency](core_05o_oversight_definitions.md#transparency) · [O](core_05o_oversight_definitions.md#transparency) · [A](core_05o_oversight_definitions.md#transparency-a) · [C](core_05o_oversight_definitions.md#transparency-c)
 
 </details>
 
@@ -134,17 +138,17 @@ Recognition must remain contestable, reviewable, and non-monopolistic.
 
 - Upstream: [§1.2](#competency-gates) (*positive readiness thresholds*); [Ch6 §3](core_08-08_standing_assessment.md#6-classification-evaluation-dimensions) (*contribution Question 1 — classification*); [§11.1](core_08-08_standing_assessment.md#51-contribution-axis-bands-and-table-2) (*Contribution Axis rules, bands, and Table 2*).
 - Downstream: [§1.3](#standing-locks-in-the-standing-model) (*standing locks*); [Chapter One §8.10](#210-safe-delegation-competency-gate-dimensions); [Chapter One §8.1](#38-standing-integration-contribution-and-violation-nature) (*standing integration*).
-- Read with: [Competency Gate](core_05a_accountability_definitions.md#competency-gate) · [O](core_05a_accountability_definitions.md#competency-gate) · [E](core_05a_accountability_definitions.md#competency-gate-e) · [C](core_05a_accountability_definitions.md#competency-gate-c); [Standing Lock](core_05a_accountability_definitions.md#standing-lock); [Contribution State](core_05a_accountability_definitions.md#contribution-state) (*Chapter Five pointer — operative Contribution Axis text in **Chapter Eight section 6.1***); [Auditability](core_05o_oversight_definitions.md#auditability) · [O](core_05o_oversight_definitions.md#auditability) · [E](core_05o_oversight_definitions.md#auditability-e) · [C](core_05o_oversight_definitions.md#auditability-c); [Contestability](core_05a_accountability_definitions.md#contestability) · [O](core_05a_accountability_definitions.md#contestability) · [E](core_05a_accountability_definitions.md#contestability-e) · [C](core_05a_accountability_definitions.md#contestability-c).
+- Read with: [Competency Gate](core_05a_accountability_definitions.md#competency-gate) · [O](core_05a_accountability_definitions.md#competency-gate) · [A](core_05a_accountability_definitions.md#competency-gate-a) · [C](core_05a_accountability_definitions.md#competency-gate-c); [Standing Lock](core_05a_accountability_definitions.md#standing-lock); [Contribution State](core_05a_accountability_definitions.md#contribution-state) (*Chapter Five pointer — operative Contribution Axis text in **Chapter Eight section 6.1***); [Auditability](core_05o_oversight_definitions.md#auditability) · [O](core_05o_oversight_definitions.md#auditability) · [A](core_05o_oversight_definitions.md#auditability-a) · [C](core_05o_oversight_definitions.md#auditability-c); [Contestability](core_05a_accountability_definitions.md#contestability) · [O](core_05a_accountability_definitions.md#contestability) · [A](core_05a_accountability_definitions.md#contestability-a) · [C](core_05a_accountability_definitions.md#contestability-c).
 
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Competency Gate](core_05a_accountability_definitions.md#competency-gate) · [O](core_05a_accountability_definitions.md#competency-gate) · [E](core_05a_accountability_definitions.md#competency-gate-e) · [C](core_05a_accountability_definitions.md#competency-gate-c)
-- [Standing Lock](core_05a_accountability_definitions.md#standing-lock) · [O](core_05a_accountability_definitions.md#standing-lock) · [E](core_05a_accountability_definitions.md#standing-lock-e) · [C](core_05a_accountability_definitions.md#standing-lock-c)
-- [Contribution State](core_05a_accountability_definitions.md#contribution-state) · [O](core_05a_accountability_definitions.md#contribution-state) · [E](core_05a_accountability_definitions.md#contribution-state-e) · [C](core_05a_accountability_definitions.md#contribution-state-c)
-- [Auditability](core_05o_oversight_definitions.md#auditability) · [O](core_05o_oversight_definitions.md#auditability) · [E](core_05o_oversight_definitions.md#auditability-e) · [C](core_05o_oversight_definitions.md#auditability-c)
+- [Competency Gate](core_05a_accountability_definitions.md#competency-gate) · [O](core_05a_accountability_definitions.md#competency-gate) · [A](core_05a_accountability_definitions.md#competency-gate-a) · [C](core_05a_accountability_definitions.md#competency-gate-c)
+- [Standing Lock](core_05a_accountability_definitions.md#standing-lock) · [O](core_05a_accountability_definitions.md#standing-lock) · [A](core_05a_accountability_definitions.md#standing-lock-a) · [C](core_05a_accountability_definitions.md#standing-lock-c)
+- [Contribution State](core_05a_accountability_definitions.md#contribution-state) · [O](core_05a_accountability_definitions.md#contribution-state) · [A](core_05a_accountability_definitions.md#contribution-state-a) · [C](core_05a_accountability_definitions.md#contribution-state-c)
+- [Auditability](core_05o_oversight_definitions.md#auditability) · [O](core_05o_oversight_definitions.md#auditability) · [A](core_05o_oversight_definitions.md#auditability-a) · [C](core_05o_oversight_definitions.md#auditability-c)
 
 </details>
 
@@ -232,20 +236,20 @@ Passing the gate does not:
 
 - Upstream: [§1.2](#competency-gates) (*positive readiness thresholds*); [§11.1](core_08-08_standing_assessment.md#51-contribution-axis-bands-and-table-2); [§11.2](core_08-08_standing_assessment.md#34-violation-axis-rules-violation-nature-adverse-findings-and-severity) (*Violation Axis severity ladder*); [§6, Formal Non-Compliance](core_08-08_standing_assessment.md#41-formal-non-compliance) (*Formal Non-Compliance ladder class*).
 - Downstream: [§1.4](#37-reinstatement-review-and-non-entrenchment) (*reinstatement and review*); [§1.5](#38-standing-integration-category-hook); [Chapter One §8.1](#38-standing-integration-contribution-and-violation-nature); [Chapter One §8.2](#62-joint-assessment-escalation-constraints-and-scrutiny) (*standing-lock preparation*); [§3.3](#standing-integration-slot-band-standing-locks) (*slot-band lock map*).
-- Read with: [Standing Lock](core_05a_accountability_definitions.md#standing-lock) · [O](core_05a_accountability_definitions.md#standing-lock) · [E](core_05a_accountability_definitions.md#standing-lock-e) · [C](core_05a_accountability_definitions.md#standing-lock-c); [Contribution State](core_05a_accountability_definitions.md#contribution-state) (*Chapter Five pointer — operative Contribution Axis text in **Chapter Eight section 6.1***); [Proportionality](core_05a_accountability_definitions.md#proportionality) · [O](core_05a_accountability_definitions.md#proportionality) · [E](core_05a_accountability_definitions.md#proportionality-e) · [C](core_05a_accountability_definitions.md#proportionality-c); [Necessity](core_05a_accountability_definitions.md#necessity) · [O](core_05a_accountability_definitions.md#necessity) · [E](core_05a_accountability_definitions.md#necessity-e) · [C](core_05a_accountability_definitions.md#necessity-c); [Article XXIII-B: Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints](core_06-06_rights_part_d.md#article-xxiii-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints); [Article XXIII-C: Least-Restrictive and Time-Bounded Rule](core_06-06_rights_part_d.md#article-xxiii-c-least-restrictive-and-time-bounded-rule); [Redress and Remediation](core_05a_accountability_definitions.md#redress-and-remediation-constitutional) · [O](core_05a_accountability_definitions.md#redress-and-remediation-constitutional) · [E](core_05a_accountability_definitions.md#redress-and-remediation-constitutional-e) · [C](core_05a_accountability_definitions.md#redress-and-remediation-constitutional-c).
+- Read with: [Standing Lock](core_05a_accountability_definitions.md#standing-lock) · [O](core_05a_accountability_definitions.md#standing-lock) · [A](core_05a_accountability_definitions.md#standing-lock-a) · [C](core_05a_accountability_definitions.md#standing-lock-c); [Contribution State](core_05a_accountability_definitions.md#contribution-state) (*Chapter Five pointer — operative Contribution Axis text in **Chapter Eight section 6.1***); [Proportionality](core_05a_accountability_definitions.md#proportionality) · [O](core_05a_accountability_definitions.md#proportionality) · [A](core_05a_accountability_definitions.md#proportionality-a) · [C](core_05a_accountability_definitions.md#proportionality-c); [Necessity](core_05a_accountability_definitions.md#necessity) · [O](core_05a_accountability_definitions.md#necessity) · [A](core_05a_accountability_definitions.md#necessity-a) · [C](core_05a_accountability_definitions.md#necessity-c); [Article XXIII-B: Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints](core_06-06_rights_part_d.md#article-xxiii-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints); [Article XXIII-C: Least-Restrictive and Time-Bounded Rule](core_06-06_rights_part_d.md#article-xxiii-c-least-restrictive-and-time-bounded-rule); [Redress and Remediation](core_05a_accountability_definitions.md#redress-and-remediation-constitutional) · [O](core_05a_accountability_definitions.md#redress-and-remediation-constitutional) · [A](core_05a_accountability_definitions.md#redress-and-remediation-constitutional-a) · [C](core_05a_accountability_definitions.md#redress-and-remediation-constitutional-c).
 
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Standing Lock](core_05a_accountability_definitions.md#standing-lock) · [O](core_05a_accountability_definitions.md#standing-lock) · [E](core_05a_accountability_definitions.md#standing-lock-e) · [C](core_05a_accountability_definitions.md#standing-lock-c)
-- [Contribution State](core_05a_accountability_definitions.md#contribution-state) · [O](core_05a_accountability_definitions.md#contribution-state) · [E](core_05a_accountability_definitions.md#contribution-state-e) · [C](core_05a_accountability_definitions.md#contribution-state-c)
-- [Proportionality](core_05a_accountability_definitions.md#proportionality) · [O](core_05a_accountability_definitions.md#proportionality) · [E](core_05a_accountability_definitions.md#proportionality-e) · [C](core_05a_accountability_definitions.md#proportionality-c)
-- [Harm](core_05a_accountability_definitions.md#harm) · [O](core_05a_accountability_definitions.md#harm) · [E](core_05a_accountability_definitions.md#harm-e) · [C](core_05a_accountability_definitions.md#harm-c)
-- [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination) · [O](core_05o_oversight_definitions.md#materiality-determination) · [E](core_05o_oversight_definitions.md#materiality-determination-e) · [C](core_05o_oversight_definitions.md#materiality-determination-c)
-- [Redress and Remediation](core_05a_accountability_definitions.md#redress-and-remediation-constitutional) · [O](core_05a_accountability_definitions.md#redress-and-remediation-constitutional) · [E](core_05a_accountability_definitions.md#redress-and-remediation-constitutional-e) · [C](core_05a_accountability_definitions.md#redress-and-remediation-constitutional-c)
-- [Contestability](core_05a_accountability_definitions.md#contestability) · [O](core_05a_accountability_definitions.md#contestability) · [E](core_05a_accountability_definitions.md#contestability-e) · [C](core_05a_accountability_definitions.md#contestability-c)
+- [Standing Lock](core_05a_accountability_definitions.md#standing-lock) · [O](core_05a_accountability_definitions.md#standing-lock) · [A](core_05a_accountability_definitions.md#standing-lock-a) · [C](core_05a_accountability_definitions.md#standing-lock-c)
+- [Contribution State](core_05a_accountability_definitions.md#contribution-state) · [O](core_05a_accountability_definitions.md#contribution-state) · [A](core_05a_accountability_definitions.md#contribution-state-a) · [C](core_05a_accountability_definitions.md#contribution-state-c)
+- [Proportionality](core_05a_accountability_definitions.md#proportionality) · [O](core_05a_accountability_definitions.md#proportionality) · [A](core_05a_accountability_definitions.md#proportionality-a) · [C](core_05a_accountability_definitions.md#proportionality-c)
+- [Harm](core_05a_accountability_definitions.md#harm) · [O](core_05a_accountability_definitions.md#harm) · [A](core_05a_accountability_definitions.md#harm-a) · [C](core_05a_accountability_definitions.md#harm-c)
+- [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination) · [O](core_05o_oversight_definitions.md#materiality-determination) · [A](core_05o_oversight_definitions.md#materiality-determination-a) · [C](core_05o_oversight_definitions.md#materiality-determination-c)
+- [Redress and Remediation](core_05a_accountability_definitions.md#redress-and-remediation-constitutional) · [O](core_05a_accountability_definitions.md#redress-and-remediation-constitutional) · [A](core_05a_accountability_definitions.md#redress-and-remediation-constitutional-a) · [C](core_05a_accountability_definitions.md#redress-and-remediation-constitutional-c)
+- [Contestability](core_05a_accountability_definitions.md#contestability) · [O](core_05a_accountability_definitions.md#contestability) · [A](core_05a_accountability_definitions.md#contestability-a) · [C](core_05a_accountability_definitions.md#contestability-c)
 
 </details>
 
@@ -354,16 +358,16 @@ Restoration from an Anti-Constitutional Trust Lock is exceptional. Reassessment 
 
 - Upstream: [§1.1](#35-positive-standing-recognition); [§1.3](#standing-locks-in-the-standing-model) (*standing locks*).
 - Downstream: [§1.5](#38-standing-integration-category-hook); [Chapter One §8.1](#38-standing-integration-contribution-and-violation-nature); [Chapter One §8.2](#62-joint-assessment-escalation-constraints-and-scrutiny).
-- Read with: [Contribution State](core_05a_accountability_definitions.md#contribution-state) (*Chapter Five pointer — operative Contribution Axis text in **Chapter Eight section 6.1***); [Redress and Remediation](core_05a_accountability_definitions.md#redress-and-remediation-constitutional) · [O](core_05a_accountability_definitions.md#redress-and-remediation-constitutional) · [E](core_05a_accountability_definitions.md#redress-and-remediation-constitutional-e) · [C](core_05a_accountability_definitions.md#redress-and-remediation-constitutional-c); [Procedural Fairness](core_05p_participation_definitions.md#procedural-fairness-constitutional) · [O](core_05p_participation_definitions.md#procedural-fairness-constitutional) · [E](core_05p_participation_definitions.md#procedural-fairness-constitutional-e) · [C](core_05p_participation_definitions.md#procedural-fairness-constitutional-c).
+- Read with: [Contribution State](core_05a_accountability_definitions.md#contribution-state) (*Chapter Five pointer — operative Contribution Axis text in **Chapter Eight section 6.1***); [Redress and Remediation](core_05a_accountability_definitions.md#redress-and-remediation-constitutional) · [O](core_05a_accountability_definitions.md#redress-and-remediation-constitutional) · [A](core_05a_accountability_definitions.md#redress-and-remediation-constitutional-a) · [C](core_05a_accountability_definitions.md#redress-and-remediation-constitutional-c); [Procedural Fairness](core_05p_participation_definitions.md#procedural-fairness-constitutional) · [O](core_05p_participation_definitions.md#procedural-fairness-constitutional) · [A](core_05p_participation_definitions.md#procedural-fairness-constitutional-a) · [C](core_05p_participation_definitions.md#procedural-fairness-constitutional-c).
 
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Contribution State](core_05a_accountability_definitions.md#contribution-state) · [O](core_05a_accountability_definitions.md#contribution-state) · [E](core_05a_accountability_definitions.md#contribution-state-e) · [C](core_05a_accountability_definitions.md#contribution-state-c)
-- [Redress and Remediation](core_05a_accountability_definitions.md#redress-and-remediation-constitutional) · [O](core_05a_accountability_definitions.md#redress-and-remediation-constitutional) · [E](core_05a_accountability_definitions.md#redress-and-remediation-constitutional-e) · [C](core_05a_accountability_definitions.md#redress-and-remediation-constitutional-c)
-- [Contestability](core_05a_accountability_definitions.md#contestability) · [O](core_05a_accountability_definitions.md#contestability) · [E](core_05a_accountability_definitions.md#contestability-e) · [C](core_05a_accountability_definitions.md#contestability-c)
+- [Contribution State](core_05a_accountability_definitions.md#contribution-state) · [O](core_05a_accountability_definitions.md#contribution-state) · [A](core_05a_accountability_definitions.md#contribution-state-a) · [C](core_05a_accountability_definitions.md#contribution-state-c)
+- [Redress and Remediation](core_05a_accountability_definitions.md#redress-and-remediation-constitutional) · [O](core_05a_accountability_definitions.md#redress-and-remediation-constitutional) · [A](core_05a_accountability_definitions.md#redress-and-remediation-constitutional-a) · [C](core_05a_accountability_definitions.md#redress-and-remediation-constitutional-c)
+- [Contestability](core_05a_accountability_definitions.md#contestability) · [O](core_05a_accountability_definitions.md#contestability) · [A](core_05a_accountability_definitions.md#contestability-a) · [C](core_05a_accountability_definitions.md#contestability-c)
 
 </details>
 
@@ -385,14 +389,14 @@ Restoration may require completed correction, restitution, monitoring, safeguard
 
 - Upstream: [§1.1](#35-positive-standing-recognition)–[§1.4](#37-reinstatement-review-and-non-entrenchment); [§11.2](core_08-08_standing_assessment.md#34-violation-axis-rules-violation-nature-adverse-findings-and-severity) (*violation nature*); [Chapter One §8.2](#62-joint-assessment-escalation-constraints-and-scrutiny) (*violation assessment and standing-lock preparation*).
 - Downstream: [Chapter One §8.2](#72-stackable-benefit-and-stewardship-descriptors-contribution-state-supplement); [Chapter One §8.1](#38-standing-integration-contribution-and-violation-nature) (*standing integration — mechanics*); [Chapter One §8.2](#62-joint-assessment-escalation-constraints-and-scrutiny) (*non-substitution and standing-lock preparation*).
-- Read with: [Contribution State](core_05a_accountability_definitions.md#contribution-state) (*Chapter Five pointer — operative Contribution Axis text in **Chapter Eight section 6.1***); [Article XXIII-B: Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints](core_06-06_rights_part_d.md#article-xxiii-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints); [Article XXIII-C: Least-Restrictive and Time-Bounded Rule](core_06-06_rights_part_d.md#article-xxiii-c-least-restrictive-and-time-bounded-rule); [Harm](core_05a_accountability_definitions.md#harm) · [O](core_05a_accountability_definitions.md#harm) · [E](core_05a_accountability_definitions.md#harm-e) · [C](core_05a_accountability_definitions.md#harm-c).
+- Read with: [Contribution State](core_05a_accountability_definitions.md#contribution-state) (*Chapter Five pointer — operative Contribution Axis text in **Chapter Eight section 6.1***); [Article XXIII-B: Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints](core_06-06_rights_part_d.md#article-xxiii-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints); [Article XXIII-C: Least-Restrictive and Time-Bounded Rule](core_06-06_rights_part_d.md#article-xxiii-c-least-restrictive-and-time-bounded-rule); [Harm](core_05a_accountability_definitions.md#harm) · [O](core_05a_accountability_definitions.md#harm) · [A](core_05a_accountability_definitions.md#harm-a) · [C](core_05a_accountability_definitions.md#harm-c).
 
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Contribution State](core_05a_accountability_definitions.md#contribution-state) · [O](core_05a_accountability_definitions.md#contribution-state) · [E](core_05a_accountability_definitions.md#contribution-state-e) · [C](core_05a_accountability_definitions.md#contribution-state-c)
+- [Contribution State](core_05a_accountability_definitions.md#contribution-state) · [O](core_05a_accountability_definitions.md#contribution-state) · [A](core_05a_accountability_definitions.md#contribution-state-a) · [C](core_05a_accountability_definitions.md#contribution-state-c)
 
 </details>
 
@@ -451,9 +455,9 @@ This section does not restate the full combination rules. Those mechanics — in
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Trustworthiness](core_05c_continuity_definitions.md#trustworthiness) · [O](core_05c_continuity_definitions.md#trustworthiness) · [E](core_05c_continuity_definitions.md#trustworthiness-e) · [C](core_05c_continuity_definitions.md#trustworthiness-c)
+- [Trustworthiness](core_05c_continuity_definitions.md#trustworthiness) · [O](core_05c_continuity_definitions.md#trustworthiness) · [A](core_05c_continuity_definitions.md#trustworthiness-a) · [C](core_05c_continuity_definitions.md#trustworthiness-c)
 
 </details>
 
@@ -532,20 +536,20 @@ The lenses are grouped in **§Chapter One §8.1.1–2.1.5** — from direct effe
 
 - Upstream: [Ch6 §3](core_08-08_standing_assessment.md#6-classification-evaluation-dimensions) (*contribution Question 1 — classification*); [Chapter One §8.1](#71-shared-domain-lenses-cross-axis-vocabulary) (*cross-axis domain lens table naming these supplements*); [§11.1](core_08-08_standing_assessment.md#51-contribution-axis-bands-and-table-2) (*primary Contribution Axis bands and Table 2*); [§1.5](#38-standing-integration-category-hook) (*standing integration — when both records matter*).
 - Downstream: [Chapter One §8.10](#210-safe-delegation-competency-gate-dimensions) (*Question 2 safe-delegation dimensions*); [§3.9](#73-stackable-harm-and-conduct-descriptors-violation-nature-supplement) (*symmetric adverse descriptors on Violation Axis*); [Chapter One §8.2](#62-joint-assessment-escalation-constraints-and-scrutiny) (*no netting across axes*).
-- Read with: [Benefit-route descriptors — Question 2 integration role](#benefit-route-descriptors-q2-integration); [Contribution State](core_05a_accountability_definitions.md#contribution-state) (*Chapter Five pointer — operative Contribution Axis text in **Chapter Eight section 6.1***); [§1.1](#35-positive-standing-recognition) (*positive standing recognition*); [§1.5](#38-standing-integration-category-hook) (*standing integration hook*); [Chapter One §8.1](#38-standing-integration-contribution-and-violation-nature) through [§3.3](#standing-integration-slot-band-standing-locks) (*standing effect integration*); [Chapter One §8.1](#71-shared-domain-lenses-cross-axis-vocabulary) (*domain lens mapping*); [Trustworthiness](core_05c_continuity_definitions.md#trustworthiness) — [psychological safety and substantive agency (evaluation)](core_05c_continuity_definitions.md#trustworthiness-e) (***psychological safety** in **Peace of body, mind, and/or community***); [Chapter Eleven](core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) (*primary-stakes routing with **`corpus_forum.md`***); [Chapter Ten](core_10-10_misconduct.md#chapter-ten-anti-constitutional-misconduct) (*final s = 7, 8, or 9 assignment is not supplied by descriptors*).
+- Read with: [Benefit-route descriptors — Question 2 integration role](#benefit-route-descriptors-q2-integration); [Contribution State](core_05a_accountability_definitions.md#contribution-state) (*Chapter Five pointer — operative Contribution Axis text in **Chapter Eight section 6.1***); [§1.1](#35-positive-standing-recognition) (*positive standing recognition*); [§1.5](#38-standing-integration-category-hook) (*standing integration hook*); [Chapter One §8.1](#38-standing-integration-contribution-and-violation-nature) through [§3.3](#standing-integration-slot-band-standing-locks) (*standing effect integration*); [Chapter One §8.1](#71-shared-domain-lenses-cross-axis-vocabulary) (*domain lens mapping*); [Trustworthiness](core_05c_continuity_definitions.md#trustworthiness) — [psychological safety and substantive agency (evaluation)](core_05c_continuity_definitions.md#trustworthiness-a) (***psychological safety** in **Peace of body, mind, and/or community***); [Chapter Eleven](core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) (*primary-stakes routing with **`corpus_forum.md`***); [Chapter Ten](core_10-10_misconduct.md#chapter-ten-anti-constitutional-misconduct) (*final s = 7, 8, or 9 assignment is not supplied by descriptors*).
 
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Contribution State](core_05a_accountability_definitions.md#contribution-state) · [O](core_05a_accountability_definitions.md#contribution-state) · [E](core_05a_accountability_definitions.md#contribution-state-e) · [C](core_05a_accountability_definitions.md#contribution-state-c)
-- [Auditability](core_05o_oversight_definitions.md#auditability) · [O](core_05o_oversight_definitions.md#auditability) · [E](core_05o_oversight_definitions.md#auditability-e) · [C](core_05o_oversight_definitions.md#auditability-c)
-- [Contestability](core_05a_accountability_definitions.md#contestability) · [O](core_05a_accountability_definitions.md#contestability) · [E](core_05a_accountability_definitions.md#contestability-e) · [C](core_05a_accountability_definitions.md#contestability-c)
-- [Epistemic Integrity](core_05o_oversight_definitions.md#epistemic-integrity) · [O](core_05o_oversight_definitions.md#epistemic-integrity-o) · [E](core_05o_oversight_definitions.md#epistemic-integrity-e) · [C](core_05o_oversight_definitions.md#epistemic-integrity-c)
-- [Ecological Integrity](core_05c_continuity_definitions.md#ecological-integrity-constitutional) · [O](core_05c_continuity_definitions.md#ecological-integrity-constitutional) · [E](core_05c_continuity_definitions.md#ecological-integrity-constitutional-e) · [C](core_05c_continuity_definitions.md#ecological-integrity-constitutional-c)
-- [Foreseeability Diligence](core_05o_oversight_definitions.md#foreseeability-diligence) · [O](core_05o_oversight_definitions.md#foreseeability-diligence) · [E](core_05o_oversight_definitions.md#foreseeability-diligence-e) · [C](core_05o_oversight_definitions.md#foreseeability-diligence-c)
-- [Trustworthiness](core_05c_continuity_definitions.md#trustworthiness) · [O](core_05c_continuity_definitions.md#trustworthiness) · [E](core_05c_continuity_definitions.md#trustworthiness-e) · [C](core_05c_continuity_definitions.md#trustworthiness-c)
+- [Contribution State](core_05a_accountability_definitions.md#contribution-state) · [O](core_05a_accountability_definitions.md#contribution-state) · [A](core_05a_accountability_definitions.md#contribution-state-a) · [C](core_05a_accountability_definitions.md#contribution-state-c)
+- [Auditability](core_05o_oversight_definitions.md#auditability) · [O](core_05o_oversight_definitions.md#auditability) · [A](core_05o_oversight_definitions.md#auditability-a) · [C](core_05o_oversight_definitions.md#auditability-c)
+- [Contestability](core_05a_accountability_definitions.md#contestability) · [O](core_05a_accountability_definitions.md#contestability) · [A](core_05a_accountability_definitions.md#contestability-a) · [C](core_05a_accountability_definitions.md#contestability-c)
+- [Epistemic Integrity](core_05o_oversight_definitions.md#epistemic-integrity) · [O](core_05o_oversight_definitions.md#epistemic-integrity-o) · [A](core_05o_oversight_definitions.md#epistemic-integrity-a) · [C](core_05o_oversight_definitions.md#epistemic-integrity-c)
+- [Ecological Integrity](core_05c_continuity_definitions.md#ecological-integrity-constitutional) · [O](core_05c_continuity_definitions.md#ecological-integrity-constitutional) · [A](core_05c_continuity_definitions.md#ecological-integrity-constitutional-a) · [C](core_05c_continuity_definitions.md#ecological-integrity-constitutional-c)
+- [Foreseeability Diligence](core_05o_oversight_definitions.md#foreseeability-diligence) · [O](core_05o_oversight_definitions.md#foreseeability-diligence) · [A](core_05o_oversight_definitions.md#foreseeability-diligence-a) · [C](core_05o_oversight_definitions.md#foreseeability-diligence-c)
+- [Trustworthiness](core_05c_continuity_definitions.md#trustworthiness) · [O](core_05c_continuity_definitions.md#trustworthiness) · [A](core_05c_continuity_definitions.md#trustworthiness-a) · [C](core_05c_continuity_definitions.md#trustworthiness-c)
 
 </details>
 
@@ -829,14 +833,14 @@ These **attachment categories** apply only when **violation nature** is verified
 
 - Upstream: [§11.2](core_08-08_standing_assessment.md#34-violation-axis-rules-violation-nature-adverse-findings-and-severity) (*severity ladder*); [Chapter One §9 — Process Conflict Resolution](core_01_b_interaction_interpretation.md#6-process-conflict-resolution) (*integrated conflict handling*).
 - Downstream: [§3, slots 7–9](#63-anti-constitutional-lock-attachments-slots-7-9) through [§3, slots 1–2](#61-correction-lock-attachments-slots-1-2); [§3.9](#73-stackable-harm-and-conduct-descriptors-violation-nature-supplement); [§4](#8-cross-axis-coupling-and-escalation-constraints).
-- Read with: [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination) · [O](core_05o_oversight_definitions.md#materiality-determination) · [E](core_05o_oversight_definitions.md#materiality-determination-e) · [C](core_05o_oversight_definitions.md#materiality-determination-c).
+- Read with: [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination) · [O](core_05o_oversight_definitions.md#materiality-determination) · [A](core_05o_oversight_definitions.md#materiality-determination-a) · [C](core_05o_oversight_definitions.md#materiality-determination-c).
 
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination) · [O](core_05o_oversight_definitions.md#materiality-determination) · [E](core_05o_oversight_definitions.md#materiality-determination-e) · [C](core_05o_oversight_definitions.md#materiality-determination-c)
+- [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination) · [O](core_05o_oversight_definitions.md#materiality-determination) · [A](core_05o_oversight_definitions.md#materiality-determination-a) · [C](core_05o_oversight_definitions.md#materiality-determination-c)
 
 </details>
 
@@ -855,11 +859,11 @@ A single pattern of conduct may carry multiple process / response characters at 
 
 - Upstream: [§3, slots 7–9](#63-constitutional-floor-character) (*constitutional-floor character*); [Chapter One §4 — Non-Negotiable Constraints: Safety and Truth](core_01_a_values_principles.md#3-non-negotiable-constraints-safety-and-truth) (*non-negotiable constraint supremacy*); [Chapter One §12 — Prohibition on Absolute Override](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override) (*no waiver of constitutional protections*); [Chapter Six](core_06-06_rights_part_a.md#chapter-six-foundational-rights).
 - Downstream: [§4](#8-cross-axis-coupling-and-escalation-constraints); [Chapter Eleven](core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction).
-- Read with: [Constitutional Constraint Violation](core_05i_integrative_definitions.md#constitutional-constraint-violation) · [O](core_05i_integrative_definitions.md#constitutional-constraint-violation) · [E](core_05i_integrative_definitions.md#constitutional-constraint-violation-e) · [C](core_05i_integrative_definitions.md#constitutional-constraint-violation-c).
+- Read with: [Constitutional Constraint Violation](core_05i_integrative_definitions.md#constitutional-constraint-violation) · [O](core_05i_integrative_definitions.md#constitutional-constraint-violation) · [A](core_05i_integrative_definitions.md#constitutional-constraint-violation-a) · [C](core_05i_integrative_definitions.md#constitutional-constraint-violation-c).
 
 </details>
 
-<strong><span style="color: #2563eb;">Definition:</span></strong> [Constitutional Constraint Violation](core_05i_integrative_definitions.md#constitutional-constraint-violation) · [O](core_05i_integrative_definitions.md#constitutional-constraint-violation) · [E](core_05i_integrative_definitions.md#constitutional-constraint-violation-e) · [C](core_05i_integrative_definitions.md#constitutional-constraint-violation-c)
+<strong><span style="color: #2563eb;">Definition:</span></strong> [Constitutional Constraint Violation](core_05i_integrative_definitions.md#constitutional-constraint-violation) · [O](core_05i_integrative_definitions.md#constitutional-constraint-violation) · [A](core_05i_integrative_definitions.md#constitutional-constraint-violation-a) · [C](core_05i_integrative_definitions.md#constitutional-constraint-violation-c)
 
 *In plain terms: ordinary remedial, restrictive, or domain-specific processes **cannot** lawfully produce outcomes **below** constitutional floors — domain silos are not an end-run.*
 
@@ -897,11 +901,11 @@ Final **Violation Axis s = 7, s = 8, or s = 9** assignment — including criteri
 
 - Upstream: [§11.2](core_08-08_standing_assessment.md#34-violation-axis-rules-violation-nature-adverse-findings-and-severity) (*slots 7–9 and Rights-Floor defeat patterns*); [Chapter One §4 — Non-Negotiable Constraints: Safety and Truth](core_01_a_values_principles.md#3-non-negotiable-constraints-safety-and-truth) (*non-negotiable constraint foundation*); [Supremacy and Enforceability](core_05i_integrative_definitions.md#supremacy-and-enforceability); [Constitutional Constraint Violation](core_05i_integrative_definitions.md#constitutional-constraint-violation).
 - Downstream: [§65-constitutional-floor-rule](#65-constitutional-floor-rule); [§6](#9-violation-axis-s-7-9-anti-constitutional-misconduct-authoritative-location) (*Chapter Ten pointer for final Violation Axis s = 7, 8, and 9 assignment*).
-- Read with: [Constitutional Constraint Violation](core_05i_integrative_definitions.md#constitutional-constraint-violation) · [O](core_05i_integrative_definitions.md#constitutional-constraint-violation) · [E](core_05i_integrative_definitions.md#constitutional-constraint-violation-e) · [C](core_05i_integrative_definitions.md#constitutional-constraint-violation-c).
+- Read with: [Constitutional Constraint Violation](core_05i_integrative_definitions.md#constitutional-constraint-violation) · [O](core_05i_integrative_definitions.md#constitutional-constraint-violation) · [A](core_05i_integrative_definitions.md#constitutional-constraint-violation-a) · [C](core_05i_integrative_definitions.md#constitutional-constraint-violation-c).
 
 </details>
 
-<strong><span style="color: #2563eb;">Definition:</span></strong> [Constitutional Constraint Violation](core_05i_integrative_definitions.md#constitutional-constraint-violation) · [O](core_05i_integrative_definitions.md#constitutional-constraint-violation) · [E](core_05i_integrative_definitions.md#constitutional-constraint-violation-e) · [C](core_05i_integrative_definitions.md#constitutional-constraint-violation-c)
+<strong><span style="color: #2563eb;">Definition:</span></strong> [Constitutional Constraint Violation](core_05i_integrative_definitions.md#constitutional-constraint-violation) · [O](core_05i_integrative_definitions.md#constitutional-constraint-violation) · [A](core_05i_integrative_definitions.md#constitutional-constraint-violation-a) · [C](core_05i_integrative_definitions.md#constitutional-constraint-violation-c)
 
 *In plain terms: this character applies when the finding implicates binding [Constitutional Constraints](core_05i_integrative_definitions.md#constitutional-constraint), Rights Floors, supremacy, anti-evasion discipline, or challenge-and-remedy access — and it can ride alongside remedial or coercive-safeguard character.*
 
@@ -921,15 +925,15 @@ The same conduct may also have remedial / restorative or coercive / liberty-rest
 
 - Upstream: [§3, slots 3–4](#410-collective-accountability-and-acquiescent-participation); [Chapter One §9 — Process Conflict Resolution](core_01_b_interaction_interpretation.md#6-process-conflict-resolution) (*conflict resolution and rights collision handling*); [Chapter Ten §7](core_10-10_misconduct.md#62-rights-floor-waivers-and-unconstitutional-contract-terms); [Chapter Ten §6.6](core_10-10_misconduct.md#66-unlawful-or-unconstitutional-command-conduct); [Article XXIII-A: Justice Objective and Scope](core_06-06_rights_part_d.md#article-xxiii-a-justice-objective-and-scope).
 - Downstream: [§4](#8-cross-axis-coupling-and-escalation-constraints); [Chapter Eleven](core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction); [Chapter Ten](core_10-10_misconduct.md#chapter-ten-anti-constitutional-misconduct).
-- Read with: [Contestability](core_05a_accountability_definitions.md#contestability) · [O](core_05a_accountability_definitions.md#contestability) · [E](core_05a_accountability_definitions.md#contestability-e) · [C](core_05a_accountability_definitions.md#contestability-c); [Proportionality](core_05a_accountability_definitions.md#proportionality) · [O](core_05a_accountability_definitions.md#proportionality) · [E](core_05a_accountability_definitions.md#proportionality-e) · [C](core_05a_accountability_definitions.md#proportionality-c).
+- Read with: [Contestability](core_05a_accountability_definitions.md#contestability) · [O](core_05a_accountability_definitions.md#contestability) · [A](core_05a_accountability_definitions.md#contestability-a) · [C](core_05a_accountability_definitions.md#contestability-c); [Proportionality](core_05a_accountability_definitions.md#proportionality) · [O](core_05a_accountability_definitions.md#proportionality) · [A](core_05a_accountability_definitions.md#proportionality-a) · [C](core_05a_accountability_definitions.md#proportionality-c).
 
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Contestability](core_05a_accountability_definitions.md#contestability) · [O](core_05a_accountability_definitions.md#contestability) · [E](core_05a_accountability_definitions.md#contestability-e) · [C](core_05a_accountability_definitions.md#contestability-c)
-- [Proportionality](core_05a_accountability_definitions.md#proportionality) · [O](core_05a_accountability_definitions.md#proportionality) · [E](core_05a_accountability_definitions.md#proportionality-e) · [C](core_05a_accountability_definitions.md#proportionality-c)
+- [Contestability](core_05a_accountability_definitions.md#contestability) · [O](core_05a_accountability_definitions.md#contestability) · [A](core_05a_accountability_definitions.md#contestability-a) · [C](core_05a_accountability_definitions.md#contestability-c)
+- [Proportionality](core_05a_accountability_definitions.md#proportionality) · [O](core_05a_accountability_definitions.md#proportionality) · [A](core_05a_accountability_definitions.md#proportionality-a) · [C](core_05a_accountability_definitions.md#proportionality-c)
 
 </details>
 
@@ -962,11 +966,11 @@ They must use protected reporting and adjudication pathways where applicable.
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Coercion and Manipulation](core_05p_participation_definitions.md#coercion-and-manipulation-constitutional) · [O](core_05p_participation_definitions.md#coercion-and-manipulation-constitutional) · [E](core_05p_participation_definitions.md#coercion-and-manipulation-constitutional-e) · [C](core_05p_participation_definitions.md#coercion-and-manipulation-constitutional-c)
-- [Proportionality](core_05a_accountability_definitions.md#proportionality) · [O](core_05a_accountability_definitions.md#proportionality) · [E](core_05a_accountability_definitions.md#proportionality-e) · [C](core_05a_accountability_definitions.md#proportionality-c)
-- [Necessity](core_05a_accountability_definitions.md#necessity) · [O](core_05a_accountability_definitions.md#necessity) · [E](core_05a_accountability_definitions.md#necessity-e) · [C](core_05a_accountability_definitions.md#necessity-c)
+- [Coercion and Manipulation](core_05p_participation_definitions.md#coercion-and-manipulation-constitutional) · [O](core_05p_participation_definitions.md#coercion-and-manipulation-constitutional) · [A](core_05p_participation_definitions.md#coercion-and-manipulation-constitutional-a) · [C](core_05p_participation_definitions.md#coercion-and-manipulation-constitutional-c)
+- [Proportionality](core_05a_accountability_definitions.md#proportionality) · [O](core_05a_accountability_definitions.md#proportionality) · [A](core_05a_accountability_definitions.md#proportionality-a) · [C](core_05a_accountability_definitions.md#proportionality-c)
+- [Necessity](core_05a_accountability_definitions.md#necessity) · [O](core_05a_accountability_definitions.md#necessity) · [A](core_05a_accountability_definitions.md#necessity-a) · [C](core_05a_accountability_definitions.md#necessity-c)
 
 </details>
 
@@ -992,10 +996,10 @@ This character triggers criminal-process or equivalent constitutional protection
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Accountability](core_05a_accountability_definitions.md#accountability) · [O](core_05a_accountability_definitions.md#accountability) · [E](core_05a_accountability_definitions.md#accountability-e) · [C](core_05a_accountability_definitions.md#accountability-c)
-- [Collective Accountability Failure](core_05a_accountability_definitions.md#collective-accountability-failure) · [O](core_05a_accountability_definitions.md#collective-accountability-failure) · [E](core_05a_accountability_definitions.md#collective-accountability-failure-e) · [C](core_05a_accountability_definitions.md#collective-accountability-failure-c)
+- [Accountability](core_05a_accountability_definitions.md#accountability) · [O](core_05a_accountability_definitions.md#accountability) · [A](core_05a_accountability_definitions.md#accountability-a) · [C](core_05a_accountability_definitions.md#accountability-c)
+- [Collective Accountability Failure](core_05a_accountability_definitions.md#collective-accountability-failure) · [O](core_05a_accountability_definitions.md#collective-accountability-failure) · [A](core_05a_accountability_definitions.md#collective-accountability-failure-a) · [C](core_05a_accountability_definitions.md#collective-accountability-failure-c)
 
 </details>
 
@@ -1009,15 +1013,15 @@ This character triggers criminal-process or equivalent constitutional protection
 
 - Upstream: [§64-concurrent-character-and-non-exclusivity](#64-concurrent-character-and-non-exclusivity); [Chapter One §6.2 — Incentive Alignment and System Capture](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline) (*diffusion and capture accountability*); [§4](#8-cross-axis-coupling-and-escalation-constraints) (*acquiescence floor*).
 - Downstream: [§3, slots 7–9](#411-duty-to-resist-unlawful-or-unconstitutional-instructions); [§412-negligence-and-neglect-as-violation-nature](#412-negligence-and-neglect-as-violation-nature).
-- Read with: [Accountability](core_05a_accountability_definitions.md#accountability) · [O](core_05a_accountability_definitions.md#accountability) · [E](core_05a_accountability_definitions.md#accountability-e) · [C](core_05a_accountability_definitions.md#accountability-c); [Collective Accountability Failure](core_05a_accountability_definitions.md#collective-accountability-failure) · [O](core_05a_accountability_definitions.md#collective-accountability-failure) · [E](core_05a_accountability_definitions.md#collective-accountability-failure-e) · [C](core_05a_accountability_definitions.md#collective-accountability-failure-c).
+- Read with: [Accountability](core_05a_accountability_definitions.md#accountability) · [O](core_05a_accountability_definitions.md#accountability) · [A](core_05a_accountability_definitions.md#accountability-a) · [C](core_05a_accountability_definitions.md#accountability-c); [Collective Accountability Failure](core_05a_accountability_definitions.md#collective-accountability-failure) · [O](core_05a_accountability_definitions.md#collective-accountability-failure) · [A](core_05a_accountability_definitions.md#collective-accountability-failure-a) · [C](core_05a_accountability_definitions.md#collective-accountability-failure-c).
 
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Accountability](core_05a_accountability_definitions.md#accountability) · [O](core_05a_accountability_definitions.md#accountability) · [E](core_05a_accountability_definitions.md#accountability-e) · [C](core_05a_accountability_definitions.md#accountability-c)
-- [Collective Accountability Failure](core_05a_accountability_definitions.md#collective-accountability-failure) · [O](core_05a_accountability_definitions.md#collective-accountability-failure) · [E](core_05a_accountability_definitions.md#collective-accountability-failure-e) · [C](core_05a_accountability_definitions.md#collective-accountability-failure-c)
+- [Accountability](core_05a_accountability_definitions.md#accountability) · [O](core_05a_accountability_definitions.md#accountability) · [A](core_05a_accountability_definitions.md#accountability-a) · [C](core_05a_accountability_definitions.md#accountability-c)
+- [Collective Accountability Failure](core_05a_accountability_definitions.md#collective-accountability-failure) · [O](core_05a_accountability_definitions.md#collective-accountability-failure) · [A](core_05a_accountability_definitions.md#collective-accountability-failure-a) · [C](core_05a_accountability_definitions.md#collective-accountability-failure-c)
 
 </details>
 
@@ -1038,15 +1042,15 @@ Records must be able to look through formal structure where the structure is use
 
 - Upstream: [§6, Duty-Based or Negligent-Harm Violation](core_08-08_standing_assessment.md#44-duty-based-or-negligent-harm-violation); [Chapter One §3.1 — Safety (Harm Constraint)](core_01_a_values_principles.md#31-safety-harm-constraint) (*harm prevention foundation*); [Chapter One §3.2 — Truth (Epistemic Integrity Constraint)](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint) (*foreseeability and diligence foundation*); [§410-collective-accountability-and-acquiescent-participation](#410-collective-accountability-and-acquiescent-participation); [§3.9](#73-stackable-harm-and-conduct-descriptors-violation-nature-supplement) (*Negligent Misconduct supplement*).
 - Downstream: [§3, slots 1–2](#61-correction-lock-attachments-slots-1-2); [§4](#8-cross-axis-coupling-and-escalation-constraints).
-- Read with: [Foreseeability Diligence](core_05o_oversight_definitions.md#foreseeability-diligence) · [O](core_05o_oversight_definitions.md#foreseeability-diligence) · [E](core_05o_oversight_definitions.md#foreseeability-diligence-e) · [C](core_05o_oversight_definitions.md#foreseeability-diligence-c); [Feasibility](core_05a_accountability_definitions.md#feasibility) · [O](core_05a_accountability_definitions.md#feasibility) · [E](core_05a_accountability_definitions.md#feasibility-e) · [C](core_05a_accountability_definitions.md#feasibility-c).
+- Read with: [Foreseeability Diligence](core_05o_oversight_definitions.md#foreseeability-diligence) · [O](core_05o_oversight_definitions.md#foreseeability-diligence) · [A](core_05o_oversight_definitions.md#foreseeability-diligence-a) · [C](core_05o_oversight_definitions.md#foreseeability-diligence-c); [Feasibility](core_05a_accountability_definitions.md#feasibility) · [O](core_05a_accountability_definitions.md#feasibility) · [A](core_05a_accountability_definitions.md#feasibility-a) · [C](core_05a_accountability_definitions.md#feasibility-c).
 
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Foreseeability Diligence](core_05o_oversight_definitions.md#foreseeability-diligence) · [O](core_05o_oversight_definitions.md#foreseeability-diligence) · [E](core_05o_oversight_definitions.md#foreseeability-diligence-e) · [C](core_05o_oversight_definitions.md#foreseeability-diligence-c)
-- [Harm](core_05a_accountability_definitions.md#harm) · [O](core_05a_accountability_definitions.md#harm) · [E](core_05a_accountability_definitions.md#harm-e) · [C](core_05a_accountability_definitions.md#harm-c)
+- [Foreseeability Diligence](core_05o_oversight_definitions.md#foreseeability-diligence) · [O](core_05o_oversight_definitions.md#foreseeability-diligence) · [A](core_05o_oversight_definitions.md#foreseeability-diligence-a) · [C](core_05o_oversight_definitions.md#foreseeability-diligence-c)
+- [Harm](core_05a_accountability_definitions.md#harm) · [O](core_05a_accountability_definitions.md#harm) · [A](core_05a_accountability_definitions.md#harm-a) · [C](core_05a_accountability_definitions.md#harm-c)
 
 </details>
 
@@ -1074,10 +1078,10 @@ They may co-occur with remedial, coercive-safeguard, constitutional-floor, duty,
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Redress and Remediation](core_05a_accountability_definitions.md#redress-and-remediation-constitutional) · [O](core_05a_accountability_definitions.md#redress-and-remediation-constitutional) · [E](core_05a_accountability_definitions.md#redress-and-remediation-constitutional-e) · [C](core_05a_accountability_definitions.md#redress-and-remediation-constitutional-c)
-- [Harm](core_05a_accountability_definitions.md#harm) · [O](core_05a_accountability_definitions.md#harm) · [E](core_05a_accountability_definitions.md#harm-e) · [C](core_05a_accountability_definitions.md#harm-c)
+- [Redress and Remediation](core_05a_accountability_definitions.md#redress-and-remediation-constitutional) · [O](core_05a_accountability_definitions.md#redress-and-remediation-constitutional) · [A](core_05a_accountability_definitions.md#redress-and-remediation-constitutional-a) · [C](core_05a_accountability_definitions.md#redress-and-remediation-constitutional-c)
+- [Harm](core_05a_accountability_definitions.md#harm) · [O](core_05a_accountability_definitions.md#harm) · [A](core_05a_accountability_definitions.md#harm-a) · [C](core_05a_accountability_definitions.md#harm-c)
 
 </details>
 
@@ -1091,15 +1095,15 @@ They may co-occur with remedial, coercive-safeguard, constitutional-floor, duty,
 
 - Upstream: [§64-concurrent-character-and-non-exclusivity](#64-concurrent-character-and-non-exclusivity); [§65-constitutional-floor-rule](#65-constitutional-floor-rule).
 - Downstream: [§4](#8-cross-axis-coupling-and-escalation-constraints); [Chapter One §8.1](#51-remediation-capacity-and-funding) (*remediation capacity and funding — general enforcement*).
-- Read with: [Redress and Remediation](core_05a_accountability_definitions.md#redress-and-remediation-constitutional) · [O](core_05a_accountability_definitions.md#redress-and-remediation-constitutional) · [E](core_05a_accountability_definitions.md#redress-and-remediation-constitutional-e) · [C](core_05a_accountability_definitions.md#redress-and-remediation-constitutional-c); [Harm](core_05a_accountability_definitions.md#harm) · [O](core_05a_accountability_definitions.md#harm) · [E](core_05a_accountability_definitions.md#harm-e) · [C](core_05a_accountability_definitions.md#harm-c).
+- Read with: [Redress and Remediation](core_05a_accountability_definitions.md#redress-and-remediation-constitutional) · [O](core_05a_accountability_definitions.md#redress-and-remediation-constitutional) · [A](core_05a_accountability_definitions.md#redress-and-remediation-constitutional-a) · [C](core_05a_accountability_definitions.md#redress-and-remediation-constitutional-c); [Harm](core_05a_accountability_definitions.md#harm) · [O](core_05a_accountability_definitions.md#harm) · [A](core_05a_accountability_definitions.md#harm-a) · [C](core_05a_accountability_definitions.md#harm-c).
 
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Harm](core_05a_accountability_definitions.md#harm) · [O](core_05a_accountability_definitions.md#harm) · [E](core_05a_accountability_definitions.md#harm-e) · [C](core_05a_accountability_definitions.md#harm-c)
-- [Redress and Remediation](core_05a_accountability_definitions.md#redress-and-remediation-constitutional) · [O](core_05a_accountability_definitions.md#redress-and-remediation-constitutional) · [E](core_05a_accountability_definitions.md#redress-and-remediation-constitutional-e) · [C](core_05a_accountability_definitions.md#redress-and-remediation-constitutional-c)
+- [Harm](core_05a_accountability_definitions.md#harm) · [O](core_05a_accountability_definitions.md#harm) · [A](core_05a_accountability_definitions.md#harm-a) · [C](core_05a_accountability_definitions.md#harm-c)
+- [Redress and Remediation](core_05a_accountability_definitions.md#redress-and-remediation-constitutional) · [O](core_05a_accountability_definitions.md#redress-and-remediation-constitutional) · [A](core_05a_accountability_definitions.md#redress-and-remediation-constitutional-a) · [C](core_05a_accountability_definitions.md#redress-and-remediation-constitutional-c)
 
 </details>
 
@@ -1127,15 +1131,15 @@ Remedial capacity, funding, and anti-cost-shifting duties remain governed by [**
 
 - Upstream: [Ch6 §3](core_08-08_standing_assessment.md#6-classification-evaluation-dimensions) (*harm-route classification role*); [§3.0](#30-non-recurrence-evaluation-and-integration-examples) (*integration sequence*); [§3, slots 7–9](#63-anti-constitutional-lock-attachments-slots-7-9) through [§3, slots 1–2](#61-correction-lock-attachments-slots-1-2) (*slot-band attachment rules*); [Chapter One §8.1](#71-shared-domain-lenses-cross-axis-vocabulary) (*cross-axis domain lens table*); [Chapter One §8.2](#72-stackable-benefit-and-stewardship-descriptors-contribution-state-supplement) (*symmetric prosocial descriptors*).
 - Downstream: [Chapter One §8.10](#310-non-recurrence-lock-dimensions) (*Question 2 — harm-route integration role*); [§4](#8-cross-axis-coupling-and-escalation-constraints); [Chapter Eleven](core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) (*primary-stakes routing with **`corpus_forum.md`***).
-- Read with: [Chapter One §8.1](#71-shared-domain-lenses-cross-axis-vocabulary) (*domain lens mapping from **`Chapter One §8.2`** supplements*); [Harm-route descriptors — Question 2 integration role](#harm-route-descriptors-q2-integration); [Chapter Ten](core_10-10_misconduct.md#chapter-ten-anti-constitutional-misconduct) (*final Violation Axis s = 7, 8, and 9 assignment*); [Harm](core_05a_accountability_definitions.md#harm) · [O](core_05a_accountability_definitions.md#harm) · [E](core_05a_accountability_definitions.md#harm-e) · [C](core_05a_accountability_definitions.md#harm-c).
+- Read with: [Chapter One §8.1](#71-shared-domain-lenses-cross-axis-vocabulary) (*domain lens mapping from **`Chapter One §8.2`** supplements*); [Harm-route descriptors — Question 2 integration role](#harm-route-descriptors-q2-integration); [Chapter Ten](core_10-10_misconduct.md#chapter-ten-anti-constitutional-misconduct) (*final Violation Axis s = 7, 8, and 9 assignment*); [Harm](core_05a_accountability_definitions.md#harm) · [O](core_05a_accountability_definitions.md#harm) · [A](core_05a_accountability_definitions.md#harm-a) · [C](core_05a_accountability_definitions.md#harm-c).
 
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Ecological Integrity](core_05c_continuity_definitions.md#ecological-integrity-constitutional) · [O](core_05c_continuity_definitions.md#ecological-integrity-constitutional) · [E](core_05c_continuity_definitions.md#ecological-integrity-constitutional-e) · [C](core_05c_continuity_definitions.md#ecological-integrity-constitutional-c)
-- [Environmental Preconditions](core_05c_continuity_definitions.md#environmental-preconditions-constitutional) · [O](core_05c_continuity_definitions.md#environmental-preconditions-constitutional) · [E](core_05c_continuity_definitions.md#environmental-preconditions-constitutional-e) · [C](core_05c_continuity_definitions.md#environmental-preconditions-constitutional-c)
+- [Ecological Integrity](core_05c_continuity_definitions.md#ecological-integrity-constitutional) · [O](core_05c_continuity_definitions.md#ecological-integrity-constitutional) · [A](core_05c_continuity_definitions.md#ecological-integrity-constitutional-a) · [C](core_05c_continuity_definitions.md#ecological-integrity-constitutional-c)
+- [Environmental Preconditions](core_05c_continuity_definitions.md#environmental-preconditions-constitutional) · [O](core_05c_continuity_definitions.md#environmental-preconditions-constitutional) · [A](core_05c_continuity_definitions.md#environmental-preconditions-constitutional-a) · [C](core_05c_continuity_definitions.md#environmental-preconditions-constitutional-c)
 
 </details>
 
@@ -1253,16 +1257,16 @@ Question 2 dimensions operate on **violation standing records only**. **Contribu
 
 - Upstream: [§3.10](#310-non-recurrence-lock-dimensions) (*Question 2 outputs — locks and corrective conditions*); [§3, slots 1–2 — remedial character](#61-remedial-restorative-and-civil-correction-character); [Ch6 §3](core_08-08_standing_assessment.md#6-classification-evaluation-dimensions) (*Violation Axis classification*); [Chapter Eight §2](core_08-08_standing_assessment.md#2-standing-records) (*violation standing records*).
 - Downstream: [§4](#8-cross-axis-coupling-and-escalation-constraints) (*no-offset discipline*); [§5](#8-enforcement-realism-anchors) (*remediation capacity and funding*); [Chapter Eleven](core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) (*remedy sequencing and timely resolution*).
-- Read with: [Redress and Remediation](core_05a_accountability_definitions.md#redress-and-remediation-constitutional) · [O](core_05a_accountability_definitions.md#redress-and-remediation-constitutional) · [E](core_05a_accountability_definitions.md#redress-and-remediation-constitutional-e) · [C](core_05a_accountability_definitions.md#redress-and-remediation-constitutional-c); [Article XII-B](core_06-06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress); [Article XXIII-B](core_06-06_rights_part_d.md#article-xxiii-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints); [Timely Resolution](core_05a_accountability_definitions.md#timely-resolution-constitutional) and **Article XXIV-C**.
+- Read with: [Redress and Remediation](core_05a_accountability_definitions.md#redress-and-remediation-constitutional) · [O](core_05a_accountability_definitions.md#redress-and-remediation-constitutional) · [A](core_05a_accountability_definitions.md#redress-and-remediation-constitutional-a) · [C](core_05a_accountability_definitions.md#redress-and-remediation-constitutional-c); [Article XII-B](core_06-06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress); [Article XXIII-B](core_06-06_rights_part_d.md#article-xxiii-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints); [Timely Resolution](core_05a_accountability_definitions.md#timely-resolution-constitutional) and **Article XXIV-C**.
 
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Redress and Remediation](core_05a_accountability_definitions.md#redress-and-remediation-constitutional) · [O](core_05a_accountability_definitions.md#redress-and-remediation-constitutional) · [E](core_05a_accountability_definitions.md#redress-and-remediation-constitutional-e) · [C](core_05a_accountability_definitions.md#redress-and-remediation-constitutional-c)
-- [Harm](core_05a_accountability_definitions.md#harm) · [O](core_05a_accountability_definitions.md#harm) · [E](core_05a_accountability_definitions.md#harm-e) · [C](core_05a_accountability_definitions.md#harm-c)
-- [Proportionality](core_05a_accountability_definitions.md#proportionality) · [O](core_05a_accountability_definitions.md#proportionality) · [E](core_05a_accountability_definitions.md#proportionality-e) · [C](core_05a_accountability_definitions.md#proportionality-c)
+- [Redress and Remediation](core_05a_accountability_definitions.md#redress-and-remediation-constitutional) · [O](core_05a_accountability_definitions.md#redress-and-remediation-constitutional) · [A](core_05a_accountability_definitions.md#redress-and-remediation-constitutional-a) · [C](core_05a_accountability_definitions.md#redress-and-remediation-constitutional-c)
+- [Harm](core_05a_accountability_definitions.md#harm) · [O](core_05a_accountability_definitions.md#harm) · [A](core_05a_accountability_definitions.md#harm-a) · [C](core_05a_accountability_definitions.md#harm-c)
+- [Proportionality](core_05a_accountability_definitions.md#proportionality) · [O](core_05a_accountability_definitions.md#proportionality) · [A](core_05a_accountability_definitions.md#proportionality-a) · [C](core_05a_accountability_definitions.md#proportionality-c)
 
 </details>
 
@@ -1309,11 +1313,11 @@ Correction does not waive remedy. Remedy does not waive applicable locks, safegu
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination) · [O](core_05o_oversight_definitions.md#materiality-determination) · [E](core_05o_oversight_definitions.md#materiality-determination-e) · [C](core_05o_oversight_definitions.md#materiality-determination-c)
-- [Auditability](core_05o_oversight_definitions.md#auditability) · [O](core_05o_oversight_definitions.md#auditability) · [E](core_05o_oversight_definitions.md#auditability-e) · [C](core_05o_oversight_definitions.md#auditability-c)
-- [Contestability](core_05a_accountability_definitions.md#contestability) · [O](core_05a_accountability_definitions.md#contestability) · [E](core_05a_accountability_definitions.md#contestability-e) · [C](core_05a_accountability_definitions.md#contestability-c)
+- [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination) · [O](core_05o_oversight_definitions.md#materiality-determination) · [A](core_05o_oversight_definitions.md#materiality-determination-a) · [C](core_05o_oversight_definitions.md#materiality-determination-c)
+- [Auditability](core_05o_oversight_definitions.md#auditability) · [O](core_05o_oversight_definitions.md#auditability) · [A](core_05o_oversight_definitions.md#auditability-a) · [C](core_05o_oversight_definitions.md#auditability-c)
+- [Contestability](core_05a_accountability_definitions.md#contestability) · [O](core_05a_accountability_definitions.md#contestability) · [A](core_05a_accountability_definitions.md#contestability-a) · [C](core_05a_accountability_definitions.md#contestability-c)
 
 </details>
 
@@ -1404,17 +1408,17 @@ This model is additive and non-exhaustive: lower-severity labels, positive stand
 
 - Upstream: [§11.2](core_08-08_standing_assessment.md#34-violation-axis-rules-violation-nature-adverse-findings-and-severity) (*violation nature*); [Ch6 §3](core_08-08_standing_assessment.md#6-classification-evaluation-dimensions) (*Question 1 classification*); [§3.0](#30-non-recurrence-evaluation-and-integration-examples) (*integration sequence*); [§3](#6-extended-axis-ii-legal-hybrid-duty-and-harm-descriptors) (*slot-band process / response character and violation attachments — **§3, slots 7–9** through **§3, slots 1–2***); [§3.9](#73-stackable-harm-and-conduct-descriptors-violation-nature-supplement) (*violation-nature supplemental descriptors*); [Chapter One §8.10](#310-non-recurrence-lock-dimensions) (*Question 2 non-recurrence dimensions*); [Chapter One §8.2](#62-joint-assessment-escalation-constraints-and-scrutiny) (*standing-lock preparation and non-substitution discipline*).
 - Downstream: [Chapter One §8.2](#72-stackable-benefit-and-stewardship-descriptors-contribution-state-supplement); [§5](#8-enforcement-realism-anchors).
-- Read with: [Contribution State](core_05a_accountability_definitions.md#contribution-state) (*Chapter Five pointer — operative Contribution Axis text in **Chapter Eight section 6.1***); [Article XXIII-B: Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints](core_06-06_rights_part_d.md#article-xxiii-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints); [Article XXIII-C: Least-Restrictive and Time-Bounded Rule](core_06-06_rights_part_d.md#article-xxiii-c-least-restrictive-and-time-bounded-rule); [Harm](core_05a_accountability_definitions.md#harm) · [O](core_05a_accountability_definitions.md#harm) · [E](core_05a_accountability_definitions.md#harm-e) · [C](core_05a_accountability_definitions.md#harm-c).
+- Read with: [Contribution State](core_05a_accountability_definitions.md#contribution-state) (*Chapter Five pointer — operative Contribution Axis text in **Chapter Eight section 6.1***); [Article XXIII-B: Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints](core_06-06_rights_part_d.md#article-xxiii-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints); [Article XXIII-C: Least-Restrictive and Time-Bounded Rule](core_06-06_rights_part_d.md#article-xxiii-c-least-restrictive-and-time-bounded-rule); [Harm](core_05a_accountability_definitions.md#harm) · [O](core_05a_accountability_definitions.md#harm) · [A](core_05a_accountability_definitions.md#harm-a) · [C](core_05a_accountability_definitions.md#harm-c).
 
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Contribution State](core_05a_accountability_definitions.md#contribution-state) · [O](core_05a_accountability_definitions.md#contribution-state) · [E](core_05a_accountability_definitions.md#contribution-state-e) · [C](core_05a_accountability_definitions.md#contribution-state-c)
-- [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination) · [O](core_05o_oversight_definitions.md#materiality-determination) · [E](core_05o_oversight_definitions.md#materiality-determination-e) · [C](core_05o_oversight_definitions.md#materiality-determination-c)
-- [Auditability](core_05o_oversight_definitions.md#auditability) · [O](core_05o_oversight_definitions.md#auditability) · [E](core_05o_oversight_definitions.md#auditability-e) · [C](core_05o_oversight_definitions.md#auditability-c)
-- [Contestability](core_05a_accountability_definitions.md#contestability) · [O](core_05a_accountability_definitions.md#contestability) · [E](core_05a_accountability_definitions.md#contestability-e) · [C](core_05a_accountability_definitions.md#contestability-c)
+- [Contribution State](core_05a_accountability_definitions.md#contribution-state) · [O](core_05a_accountability_definitions.md#contribution-state) · [A](core_05a_accountability_definitions.md#contribution-state-a) · [C](core_05a_accountability_definitions.md#contribution-state-c)
+- [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination) · [O](core_05o_oversight_definitions.md#materiality-determination) · [A](core_05o_oversight_definitions.md#materiality-determination-a) · [C](core_05o_oversight_definitions.md#materiality-determination-c)
+- [Auditability](core_05o_oversight_definitions.md#auditability) · [O](core_05o_oversight_definitions.md#auditability) · [A](core_05o_oversight_definitions.md#auditability-a) · [C](core_05o_oversight_definitions.md#auditability-c)
+- [Contestability](core_05a_accountability_definitions.md#contestability) · [O](core_05a_accountability_definitions.md#contestability) · [A](core_05a_accountability_definitions.md#contestability-a) · [C](core_05a_accountability_definitions.md#contestability-c)
 
 </details>
 
@@ -1469,11 +1473,11 @@ For final Chapter Ten anti-constitutional misconduct, the **Anti-Constitutional 
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Redress and Remediation](core_05a_accountability_definitions.md#redress-and-remediation-constitutional) · [O](core_05a_accountability_definitions.md#redress-and-remediation-constitutional) · [E](core_05a_accountability_definitions.md#redress-and-remediation-constitutional-e) · [C](core_05a_accountability_definitions.md#redress-and-remediation-constitutional-c)
-- [Auditability](core_05o_oversight_definitions.md#auditability) · [O](core_05o_oversight_definitions.md#auditability) · [E](core_05o_oversight_definitions.md#auditability-e) · [C](core_05o_oversight_definitions.md#auditability-c)
-- [Proportionality](core_05a_accountability_definitions.md#proportionality) · [O](core_05a_accountability_definitions.md#proportionality) · [E](core_05a_accountability_definitions.md#proportionality-e) · [C](core_05a_accountability_definitions.md#proportionality-c)
+- [Redress and Remediation](core_05a_accountability_definitions.md#redress-and-remediation-constitutional) · [O](core_05a_accountability_definitions.md#redress-and-remediation-constitutional) · [A](core_05a_accountability_definitions.md#redress-and-remediation-constitutional-a) · [C](core_05a_accountability_definitions.md#redress-and-remediation-constitutional-c)
+- [Auditability](core_05o_oversight_definitions.md#auditability) · [O](core_05o_oversight_definitions.md#auditability) · [A](core_05o_oversight_definitions.md#auditability-a) · [C](core_05o_oversight_definitions.md#auditability-c)
+- [Proportionality](core_05a_accountability_definitions.md#proportionality) · [O](core_05a_accountability_definitions.md#proportionality) · [A](core_05a_accountability_definitions.md#proportionality-a) · [C](core_05a_accountability_definitions.md#proportionality-c)
 
 </details>
 
@@ -1545,10 +1549,10 @@ Constitutional rights are only real if someone can invoke them, verify them, fun
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Constitutional Constraint Violation](core_05i_integrative_definitions.md#constitutional-constraint-violation) · [O](core_05i_integrative_definitions.md#constitutional-constraint-violation) · [E](core_05i_integrative_definitions.md#constitutional-constraint-violation-e) · [C](core_05i_integrative_definitions.md#constitutional-constraint-violation-c)
-- [Procedural Fairness](core_05p_participation_definitions.md#procedural-fairness-constitutional) · [O](core_05p_participation_definitions.md#procedural-fairness-constitutional) · [E](core_05p_participation_definitions.md#procedural-fairness-constitutional-e) · [C](core_05p_participation_definitions.md#procedural-fairness-constitutional-c)
+- [Constitutional Constraint Violation](core_05i_integrative_definitions.md#constitutional-constraint-violation) · [O](core_05i_integrative_definitions.md#constitutional-constraint-violation) · [A](core_05i_integrative_definitions.md#constitutional-constraint-violation-a) · [C](core_05i_integrative_definitions.md#constitutional-constraint-violation-c)
+- [Procedural Fairness](core_05p_participation_definitions.md#procedural-fairness-constitutional) · [O](core_05p_participation_definitions.md#procedural-fairness-constitutional) · [A](core_05p_participation_definitions.md#procedural-fairness-constitutional-a) · [C](core_05p_participation_definitions.md#procedural-fairness-constitutional-c)
 
 </details>
 

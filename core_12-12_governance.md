@@ -24,6 +24,11 @@
 
 </details>
 <br>
+
+Chapter Twelve is the constitutional owner of **constitutional-contract legitimacy, stewardship direction, concentration, and democratic checks**.
+
+<br>
+
 This chapter states the **Constitutional Contract Layer**: constitutional legitimacy and stewardship requirements for governing authority itself. It defines who may govern, what permits governing power, and what stewardship character must be maintained.
 
 ### 0. Layer Boundary for This Chapter

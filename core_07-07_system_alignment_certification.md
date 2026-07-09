@@ -2,8 +2,6 @@
 <a id="chapter-seven-system-alignment-certification-and-recognition"></a>
 # CHAPTER SEVEN: SYSTEM ALIGNMENT CERTIFICATION
 
-*Non-operative subtitle:* Forum-supervised certification records before standing.
-
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
@@ -11,8 +9,8 @@
 >
 > This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter Seven**: the bridge between Chapter Five definitions and Chapter Eight standing assessment for forum-supervised system alignment certification and related records.
 >
-> - **Constitutional owner:** forum-supervised **system alignment certification and related records** where material — evaluation domains, certification-record duties, recognition outcomes, revalidation cadence, supervisory sequence, contestability chain, and verified-input bridge to Chapter Eight.
-> - **Verification substrate owner:** [Chapter Four — Burden of Proof, Traceability, and Verification](core_04-04_burden_traceability_verification.md#chapter-four-burden-of-proof-traceability-and-verification) (within Chapters Two through Four) owns burden allocation, compliance evidence, definition traceability, observability, security-constrained verification, and practical verification access. This chapter **applies** that discipline to system alignment certification records; it does **not** restate Chapter Four sections **1** through **6**.
+> - **Constitutional owner:** forum-supervised **system alignment certification and related records** — evaluation domains, certification-record duties, recognition outcomes, revalidation cadence, supervisory sequence, contestability chain, and verified-input bridge to Chapter Eight.
+> - **Verification substrate owner:** [Chapter Four — Burden of Proof, Traceability, and Verification](core_04-04_burden_traceability_verification.md#chapter-four-burden-of-proof-traceability-and-verification) (within Chapters Two through Four) owns burden allocation, compliance evidence, definition traceability, observability, and security-constrained verification. This chapter **applies** that discipline to system alignment certification records; it does **not** restate Chapter Four sections **1** through **5**.
 > - **Implementation owner:** system-class handling, Protocol A, and forum-process detail in designated implementation files must remain consistent with this chapter and may be stricter where the corpus already provides stricter-rule logic.
 > - **Anti-relocation rule:** this chapter does not restate Chapter Five canonical definitions, Chapter Three anti-evasion discipline (see [§10](#10-reopening-drift-and-non-evasion)), Chapter Eight contribution or standing classification, or Chapter Nine standing effects. **§9** states the standing bridge boundary explicitly.
 >
@@ -23,27 +21,65 @@
 
 <br>
 
+Chapter Seven is the constitutional owner of **system alignment certification and related records**.
+
+<br>
+
 ### 1. Purpose and Role
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Constitutional Owner Layers](core_05i_integrative_definitions.md#constitutional-owner-layers) and [Authority Stack and Internal Hierarchy](core_05i_integrative_definitions.md#authority-stack); [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad); [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims); [Chapter One §9 Stewardship and Distributed Understanding](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding); [Chapter One §14 Systemic Evaluation Requirement](core_01_c_stewardship_capacity_principles.md#14-systemic-evaluation-requirement); Chapters Two through Four; [System Alignment Certification](core_05c_continuity_definitions.md#system-alignment-certification-constitutional) (Chapter Five canonical term; non-operative shorthand **SAC**).
+- Upstream: [Constitutional Owner Layers](core_05i_integrative_definitions.md#constitutional-owner-layers) and [Authority Stack and Internal Hierarchy](core_05i_integrative_definitions.md#authority-stack); [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad); [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims); [Chapter One §9 Stewardship and Distributed Understanding](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding); [Chapter One §14 Systemic Evaluation Requirement](core_01_c_stewardship_capacity_principles.md#14-systemic-evaluation-requirement) (*principle-layer whole-system evaluation lens — not one corner alone*); Chapters Two through Four; [Chapter Five](core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) (*canonical definitions*); [System Alignment Certification](core_05c_continuity_definitions.md#system-alignment-certification-constitutional) (Chapter Five canonical term; non-operative shorthand **SAC**).
 - Downstream: [§1A](#1a-whole-system-certification-evaluation) (*whole-system certification evaluation factors*); [§2](#2-certification-record) (*certification record contents*); [§3](#3-system-class-evaluation) (*system class evaluation*); [§4](#4-data-types-and-handling-evaluation) (*data types and handling evaluation*); [§5](#5-ecological-footprint-evaluation) (*ecological footprint evaluation*); [§5A](#5a-proportionate-cross-system-support-evaluation) (*proportionate cross-system support evaluation*); [§5B](#5b-nondiscrimination-evaluation) (*nondiscrimination evaluation*); [§5C](#5c-accessibility-evaluation) (*accessibility evaluation*); [§5D](#5d-educational-capability-and-learning-system-integrity-evaluation) (*educational capability and learning-system integrity evaluation*); [§5E](#5e-trustworthiness-and-system-reliance-integrity-evaluation) (*trustworthiness and system-reliance integrity evaluation*); [§6](#6-transparency-auditability-and-contestability) (*record integrity requirements*); [§7](#7-supervisory-sequence-and-contestability-chain) (*supervisory sequence and contestability chain*); [§8](#8-forum-supervision-and-component-roles) (*forum component roles*); [§9](#9-relationship-to-standing) (*standing-record bridge*); [§10](#10-reopening-drift-and-non-evasion) (*reopening and anti-evasion*); [Chapter Eight](core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) (*standing records and verified-input gate*); [Chapter Nine](core_09-09_standing_integration.md#chapter-nine-standing-effects-and-integration) (*standing effects and integration*); [Chapter Eleven](core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) (*forum supervision, certification, alignment recognition, and review*).
 - Read with: [corpus_systems.md](corpus_systems.md), especially **CS-4 — System classification and handling**, **CS-3 — Information types and handling**, and **Protocol A**; [corpus_forum.md](corpus_forum.md), especially **CF-5** (*Routing operations, transfer, certification, and representative treatment*) and **CF-7** (*Integrity safeguards, anti-capture operations, and anti-self-judging support*).
 - **Section-numbering note:** **Chapter Seven §3.1** and **§3.2** below are recertification subsections — not Chapter Zero measurement categories. Measurement categories live in [Chapter Zero §2 Measurements Overview](core_00_preamble.md#measurements-overview).
 
+</details>
+
 <br>
 
-*In plain terms: Chapter Seven is the certification bridge. Chapter Five defines the vocabulary. Chapter Seven turns system evidence into forum-supervised, contestable alignment records under the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) and [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims). Among its core jobs: verifying that shared systems sentients rely on for food, water, shelter, education, and safety are not formally blessed while quietly defeating those Rights Floors. Chapter Eight may then use those records as verified inputs for standing, but only through Chapter Eight's standing-record gate. A certification is not a reputation score, permanent permission slip, or shortcut around rights review. Instead, it is formal documentation that, to the best of everyone's knowledge, the system is currently aligned with constitutional outcomes. System alignment certifications are never permanent. They are required to be renewed on a frequency based on their system class, with Class A systems requiring the most frequent recertification.*
+*In plain terms: When a system really matters to people's lives — food, water, housing, schools, safety tools, or shared infrastructure — someone has to check whether it actually lives up to the constitution before society treats it as approved. Chapter Seven is that check. Forums review evidence, write it down in a certification record, let affected people challenge bad records, and require re-checks on a schedule that matches how risky the system is. A certification is not a popularity score, a forever pass, or a way to skip rights review. It is a time-bound, challengeable statement of what is known about the system's alignment right now.*
 
-This chapter is the constitutional owner of **system alignment certification and related records** where material. Layer discipline is under [Constitutional Owner Layers](core_05i_integrative_definitions.md#constitutional-owner-layers), read with [Authority Stack and Internal Hierarchy](core_05i_integrative_definitions.md#authority-stack).
+This chapter runs the forum-supervised certification process for:
 
-Chapter One [§14 Systemic Evaluation Requirement](core_01_c_stewardship_capacity_principles.md#14-systemic-evaluation-requirement) supplies the principle-layer whole-system evaluation lens. This chapter supplies the forum-supervised certification process, record duties, recognition outcomes, revalidation cadence, contestability chain, and certification-defect consequences where system alignment certification is required.
+- **Certification record contents** — what must go in the record ([§2](#2-certification-record));
+- **Recognition and continued reliance** — what outcomes count ([§1.1](#11-what-certification-decides), [§2](#2-certification-record));
+- **Revalidation cadence** — how often records must be renewed ([§3](#3-system-class-evaluation));
+- **Challenge and contestability** — how challenges move through forums ([§6](#6-transparency-auditability-and-contestability), [§7](#7-supervisory-sequence-and-contestability-chain));
+- **Certification defects** — what happens when certification is defective ([§10](#10-reopening-drift-and-non-evasion) and evaluation sections throughout).
 
-**Rights-Floor verification orientation.** Maintaining Chapter Six Rights Floors — especially survival essentials under **Article III-A** (food, water, shelter, operating-environment, and comparable substrate-agnostic inputs), equal educational access under **Article III-B**, sentient-centered education capability under **Article VI** where materially impactful systems rank, assess, recommend, place, credential-gate, or materially gate retraining and lifelong-learning pathways, nondiscrimination under **Article V-B** where materially impactful systems classify, gate, price, rank, or allocate burdens and benefits among sentients, accessibility under **Article V-G** where materially impactful systems gate substantive participation in constitutionally relevant domains, reliable and trustworthy system behavior under **Article XII** where materially impactful systems materially shape sentient reliance on represented behavior, limits, risks, challenge paths, or remediation, safety-related floors under **Article XII-A** and [**Safe Conditions**](core_05c_continuity_definitions.md#safe-conditions-constitutional) where materially impactful systems supply or gate productive activity, and resource allocation under **Article IV** — including [Proportionate Cross-System Support](core_05c_continuity_definitions.md#proportionate-cross-system-support-constitutional) under **Article IV-B** where materially impactful systems allocate, route, fund, or extract from shared infrastructure or foundational dependencies — is pursued under the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) and [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims). **Flourishing** requires that those essentials remain accessible in practice through systems sentients can rely on; **Continuity** requires durable, non-regressive supply and class-scaled revalidation where shared systems gate or sustain delivery. This chapter owns the forum-supervised **system alignment certification** process that verifies constitutional alignment — including Rights-Floor compatibility — before recognition or continued reliance at scale. Certification implements **oversight** (auditability, transparency, class-scaled assurance), **accountability** (contestability, attribution, remedy routing), **participation** (stakeholder and accessibility review, practicable challenge paths), and **timeliness** (revalidation cadence, contest clocks under **Article XXIV-C**) scaled to [material stake](core_00_preamble.md#material-stake). It does not replace Rights Floors stated in Chapter Six, challenge and audit rights under **Articles XII-B** and **XV**, non-foreclosure protections under **Article XVIII-B**, or standing classification in Chapter Eight.
+<a id="11-what-certification-decides"></a>
 
-System alignment certification exists to determine whether a system, within a stated scope and review cadence, has demonstrated constitutional alignment sufficient for recognition, conditional recognition, validation, revalidation, continued reliance, deployment, or material release from conditions.
+#### 1.1 What certification decides
+
+**System alignment certification** exists to answer one question for a stated scope and review schedule: Has the system shown constitutional alignment well enough for recognition, conditional recognition, validation, revalidation, continued reliance, deployment, or material release from conditions?
+
+#### 1.2 Rights floors this chapter helps verify
+
+When materially impactful systems gate or shape how people live, certification checks that approving them would not quietly defeat Chapter Six **Rights Floors**, including:
+
+- **Survival essentials** under **Article III-A** — food, water, shelter, operating environment, and comparable substrate-agnostic inputs;
+- **Equal educational access** under **Article III-B**;
+- **Sentient-centered education capability** under **Article VI** where systems rank, assess, recommend, place, credential-gate, or materially gate retraining and lifelong-learning pathways;
+- **Nondiscrimination** under **Article V-B** where systems classify, gate, price, rank, or allocate burdens and benefits among sentients;
+- **Accessibility** under **Article V-G** where systems gate substantive participation in constitutionally relevant domains;
+- **Reliable and trustworthy system behavior** under **Article XII** where systems materially shape sentient reliance on represented behavior, limits, risks, challenge paths, or remediation;
+- **Safe conditions** under **Article XII-A** and [**Safe Conditions**](core_05c_continuity_definitions.md#safe-conditions-constitutional) where systems supply or gate productive activity;
+- **Resource allocation** under **Article IV**, including [Proportionate Cross-System Support](core_05c_continuity_definitions.md#proportionate-cross-system-support-constitutional) under **Article IV-B** where systems allocate, route, fund, or extract from shared infrastructure or foundational dependencies.
+
+**Flourishing** requires that those protections stay reachable in practice through systems sentients can rely on. **Continuity** requires durable, non-regressive supply and class-scaled revalidation where shared systems gate or sustain delivery. Both aims are pursued under the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) and [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims), scaled to [material stake](core_00_preamble.md#material-stake).
+
+Certification supports that work through:
+
+- **Oversight** — auditability, transparency, and class-scaled assurance;
+- **Accountability** — contestability, attribution, and remedy routing;
+- **Participation** — stakeholder and accessibility review and practicable challenge paths;
+- **Timeliness** — revalidation cadence and contest clocks under **Article XXIV-C**.
+
+#### 1.3 What this chapter does not replace
+
+This chapter does not replace Rights Floors stated in Chapter Six, challenge and audit rights under **Articles XII-B** and **XV**, non-foreclosure protections under **Article XVIII-B**, or standing classification in Chapter Eight.
 
 <a id="1a-whole-system-certification-evaluation"></a>
 

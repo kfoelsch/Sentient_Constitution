@@ -36,6 +36,10 @@
 
 <br>
 
+Chapter Two is the constitutional owner of **definition structure and component alignment**.
+
+<br>
+
 ### 1. Purpose and Role
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -51,8 +55,6 @@
 <br>
 
 *In plain terms: this section is Chapter Two's job description. It owns the first layer of the definition stack: every constitutional definition is built from linked parts — what a term is (O), how it must be measured and assessed (the Measurement register interwoven with evaluation, M/E), and what must hold in practice (C) — and those parts must stay aligned. Satisfying one while sidestepping another does not count. Enforcement, governance, and measurement operations live in later chapters and must comply with what this chapter establishes.*
-
-Chapter Two is the constitutional owner of **definition structure and component alignment**. Layer discipline is under [Constitutional Owner Layers](core_05i_integrative_definitions.md#constitutional-owner-layers), read with [Authority Stack and Internal Hierarchy](core_05i_integrative_definitions.md#authority-stack).
 
 Every constitutional definition MUST be built from linked parts, each with exactly one job:
 - **Ontological (O)** — what the term is about.
@@ -115,7 +117,7 @@ The exact sub-bullet labels, formatting, and cross-reference placement that carr
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: [Chapter Two opening](#chapter-two-definition-structure-and-component-requirements); [§1 Purpose and Role](#1-purpose-and-role) — A component role within O/M/A/C decomposition.
-- Downstream: [Chapter Three, section 1 — Definition Integrity and Anti-Evasion Constraints](#1-definition-integrity-and-anti-evasion-constraints); [Chapter Four, section 1 — Exclusive Enforcement and Burden Allocation](core_04-04_burden_traceability_verification.md#1-exclusive-enforcement-and-burden-allocation) — exclusive enforcement pathway for evaluation requirements defined in Chapters Two and Three; [Chapter Four, section 4 — Compliance Evidence Standard](core_04-04_burden_traceability_verification.md#4-compliance-evidence-standard) — evidence sufficiency for that enforcement.
+- Downstream: [Chapter Three, section 1 — Definition Integrity and Anti-Evasion Constraints](#1-definition-integrity-and-anti-evasion-constraints); [Chapter Four, section 1 — Exclusive Enforcement and Burden Allocation](core_04-04_burden_traceability_verification.md#1-exclusive-enforcement-and-burden-allocation) — exclusive enforcement pathway for evaluation requirements defined in Chapters Two and Three; [Chapter Four, section 5 — Compliance Evidence Standard](core_04-04_burden_traceability_verification.md#5-compliance-evidence-standard) — evidence sufficiency for that enforcement.
 - Read with: [Chapter Five Independent Definitions](core_05-05_definitions_a_independent.md#1-interdependent-definitions) — applicable definitions that govern assessment scope and conditions; assessment requirements apply consistently with every applicable Chapter Five definition within its admission scope.
 
 </details>
@@ -182,7 +184,7 @@ The exact sub-bullet labels, formatting, and cross-reference placement that carr
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [§1 Purpose and Role](#1-purpose-and-role) — O/M/A/C component structure and whole-system joint-satisfaction rule.
-- Downstream: [§2.4 Interpretation Rule Under Ambiguity](#24-interpretation-rule-under-ambiguity); [§3 Consistency Across the Definition Stack](#3-consistency-across-the-definition-stack); [Chapter Three, section 1 — Definition Integrity and Anti-Evasion Constraints](#1-definition-integrity-and-anti-evasion-constraints); [Chapter Four, section 1 — Exclusive Enforcement and Burden Allocation](core_04-04_burden_traceability_verification.md#1-exclusive-enforcement-and-burden-allocation); [Chapter Four, section 4 — Compliance Evidence Standard](core_04-04_burden_traceability_verification.md#4-compliance-evidence-standard).
+- Downstream: [§2.4 Interpretation Rule Under Ambiguity](#24-interpretation-rule-under-ambiguity); [§3 Consistency Across the Definition Stack](#3-consistency-across-the-definition-stack); [Chapter Three, section 1 — Definition Integrity and Anti-Evasion Constraints](#1-definition-integrity-and-anti-evasion-constraints); [Chapter Four, section 1 — Exclusive Enforcement and Burden Allocation](core_04-04_burden_traceability_verification.md#1-exclusive-enforcement-and-burden-allocation); [Chapter Four, section 5 — Compliance Evidence Standard](core_04-04_burden_traceability_verification.md#5-compliance-evidence-standard).
 - Read with: [Chapter Five Clustered Definitions (Foreseeability Diligence)](core_05o_oversight_definitions.md#foreseeability-diligence) — operative meaning for every “reasonably foreseeable” in Chapters Two through Four.
 
 </details>
@@ -255,6 +257,10 @@ A definition's parts must stay consistent across:
 
 <br>
 
+Chapter Three is the constitutional owner of **definition integrity, evasion, and non-compliance for assessment work**.
+
+<br>
+
 *In plain terms: this chapter blocks word-games — if behavior evades a definition's real requirements, that counts as non-compliance even when paperwork looks fine.*
 
 ### 1. Definition Integrity and Anti-Evasion Constraints
@@ -262,7 +268,7 @@ A definition's parts must stay consistent across:
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: [Chapter Two, §1 — Purpose and Role](#1-purpose-and-role); [Chapter Two, §2 Definition Integrity Requirement](#2-definition-integrity-requirement).
-- Downstream: [Chapter Three, section 2 — Non-Compliance from Observable System Behavior](#2-non-compliance-from-observable-system-behavior); [Chapter Four, section 2 — Definition Traceability Requirement](core_04-04_burden_traceability_verification.md#2-definition-traceability-requirement); [Chapter Four, section 4 — Compliance Evidence Standard](core_04-04_burden_traceability_verification.md#4-compliance-evidence-standard); [Chapter Eight — Contribution, Violation, and Standing Model](core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model).
+- Downstream: [Chapter Three, section 2 — Non-Compliance from Observable System Behavior](#2-non-compliance-from-observable-system-behavior); [Chapter Four, section 2 — Definition Traceability Requirement](core_04-04_burden_traceability_verification.md#2-definition-traceability-requirement); [Chapter Four, section 5 — Compliance Evidence Standard](core_04-04_burden_traceability_verification.md#5-compliance-evidence-standard); [Chapter Eight — Contribution, Violation, and Standing Model](core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model).
 - Read with: [Chapter One, section 4.2 — Truth (Epistemic Integrity Constraint)](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint) — interpretation based on observable behavior rather than declared structure or intent operationalizes the constitutional truth constraint at the definition-integrity layer.
 
 </details>
@@ -301,8 +307,8 @@ This section does not define evaluation standards, evidence sufficiency, or burd
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: [Chapter Three, section 1 — Definition Integrity and Anti-Evasion Constraints](#1-definition-integrity-and-anti-evasion-constraints); [Chapter Two, §2 Definition Integrity Requirement](#2-definition-integrity-requirement); [Chapter Two, §2.2 Non-Compliance by Structural or Applied Weakening](#22-non-compliance-by-structural-or-applied-weakening).
-- Downstream: type catalogs in sections [2.1](#21-common-evasion-patterns) through [2.6](#26-uncertainty-integrity-and-non-exploitation-constraint); [3. Non-Compliance Finding Profiles](#3-non-compliance-finding-profiles); [Chapter Four, §4.4 — Disqualifying evidence; uncertainty; default rule](core_04-04_burden_traceability_verification.md#44-disqualifying-evidence-uncertainty-default-rule); [Chapter Four, section 3 — Observability of Traceability Requirement](core_04-04_burden_traceability_verification.md#3-observability-of-traceability-requirement); [Chapter Seven §10](core_07-07_system_alignment_certification.md#10-reopening-drift-and-non-evasion) (*system alignment certification reopening and anti-evasion pointer*); [Chapter Eight — Contribution, Violation, and Standing Model](core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model).
-- Read with: [Chapter Two, §1 — Purpose and Role](#1-purpose-and-role) for the joint-satisfaction rule under full functional system conditions; [Chapter Two, §2.4 Interpretation Rule Under Ambiguity](#24-interpretation-rule-under-ambiguity) — interpretations that weaken safeguards, shrink what must be evaluated, or worsen real-world results are invalid; [Chapter Four, §4.1 — Verification requirements for evidence](core_04-04_burden_traceability_verification.md#41-verification-requirements-for-evidence) — evidence must demonstrate compliance under the rules in this section; [Chapter Four, §4.4 — Disqualifying evidence; uncertainty; default rule](core_04-04_burden_traceability_verification.md#44-disqualifying-evidence-uncertainty-default-rule) — proof that would be non-compliant here fails the burden of proof; [Non-Compliance](core_05i_integrative_definitions.md#non-compliance).
+- Downstream: type catalogs in sections [2.1](#21-common-evasion-patterns) through [2.6](#26-uncertainty-integrity-and-non-exploitation-constraint); [3. Non-Compliance Finding Profiles](#3-non-compliance-finding-profiles); [Chapter Four, section 5 — Compliance Evidence Standard](core_04-04_burden_traceability_verification.md#5-compliance-evidence-standard); [Chapter Four, section 3 — Observability of Traceability Requirement](core_04-04_burden_traceability_verification.md#3-observability-of-traceability-requirement); [Chapter Seven §10](core_07-07_system_alignment_certification.md#10-reopening-drift-and-non-evasion) (*system alignment certification reopening and anti-evasion pointer*); [Chapter Eight — Contribution, Violation, and Standing Model](core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model).
+- Read with: [Chapter Two, §1 — Purpose and Role](#1-purpose-and-role) for the joint-satisfaction rule under full functional system conditions; [Chapter Two, §2.4 Interpretation Rule Under Ambiguity](#24-interpretation-rule-under-ambiguity) — interpretations that weaken safeguards, shrink what must be evaluated, or worsen real-world results are invalid; [Chapter Four, section 5 — Compliance Evidence Standard](core_04-04_burden_traceability_verification.md#5-compliance-evidence-standard) — evidence must demonstrate compliance under the rules in this section; proof that would be non-compliant here fails the burden of proof; [Non-Compliance](core_05i_integrative_definitions.md#non-compliance).
 
 </details>
 
@@ -409,7 +415,7 @@ A system is non-compliant where it:
 - amplifies ambiguity to weaken required rigor or outcomes
 - requires unattainable certainty to recognize non-compliance
 
-Where uncertainty prevents definitive demonstration of compliance for materially relevant definition components, systems must meet a precautionary burden proportionate to potential harm. Failure to do so is non-compliance under this section and fails the burden of proof under [Chapter Four, §4.4 — Disqualifying evidence; uncertainty; default rule](core_04-04_burden_traceability_verification.md#44-disqualifying-evidence-uncertainty-default-rule).
+Where uncertainty prevents definitive demonstration of compliance for materially relevant definition components, systems must meet a precautionary burden proportionate to potential harm. Failure to do so is non-compliance under this section and fails the burden of proof under [Chapter Four, section 5 — Compliance Evidence Standard](core_04-04_burden_traceability_verification.md#5-compliance-evidence-standard).
 
 ### 3. Non-Compliance Finding Profiles
 <details>

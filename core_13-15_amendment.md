@@ -29,6 +29,10 @@
 
 <br>
 
+Chapter Thirteen is the constitutional owner of **substantive non-regression and substantive amendment validity** (Test 1), anti-evasion controls, and validity-protection measures.
+
+<br>
+
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
@@ -42,8 +46,6 @@
 <br>
 
 *In plain terms: you cannot amend the constitution backward — core protections for sentients, integrity rules, rights, and legitimacy floors have to hold, and clever relabeling or hiding a rollback in "guidance" or "temporary" measures does not make it valid.*
-
-This chapter is the constitutional owner of **substantive non-regression and substantive amendment validity** (Test 1), anti-evasion controls, and validity-protection measures. Layer discipline is stated in **[§4 Layer scope](#4-layer-scope)** and in [Constitutional Owner Layers](core_05i_integrative_definitions.md#constitutional-owner-layers).
 
 No constitutional change is valid if it violates the non-regression requirements of this chapter.
 
@@ -168,6 +170,10 @@ Future additions that touch offense-flavored, sanction-flavored, or classificati
 > **Architecture — *In plain terms* placement:** Each *In plain terms* line appears immediately after the Trace navigational block (and the line break that follows it), and **before** the operative paragraphs and bullet lists for that section or subsection. Reader-facing gloss only; it does not add, remove, or narrow binding text.
 
 </details>
+
+<br>
+
+Chapter Fourteen is the constitutional owner of **additive expansion of protection, continuity of supremacy and challenge rights during amendment processes, source-layer authority and internal hierarchy relative to incorporated corpus and external law, and cooperation with external tribunals while preserving internal review pathways**.
 
 <br>
 
@@ -352,6 +358,10 @@ Constitutional interpretation, appeal, and review pathways under **Article XXIII
 
 <br>
 
+Chapter Fifteen is the constitutional owner of **procedural and custody validity** for amendment and adoption (Tests 2 through 4), review triggers, provisional effect, invalid-change handling, ratification instruments, and amendment procedure requirements.
+
+<br>
+
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
@@ -365,8 +375,6 @@ Constitutional interpretation, appeal, and review pathways under **Article XXIII
 <br>
 
 *In plain terms: this chapter is the procedural and paperwork spine for legitimate change — publish clearly, prove custody of the real text, let independent reviewers and the public contest it, and do not let rights-affecting updates snap irreversibly into place before those guardrails have actually run.*
-
-This chapter is the constitutional owner of **procedural and custody validity** for amendment and adoption (Tests 2 through 4), review triggers, provisional effect, invalid-change handling, ratification instruments, and amendment procedure requirements. Layer discipline is stated in **[§12 Layer scope](#12-layer-scope)** and in [Constitutional Owner Layers](core_05i_integrative_definitions.md#constitutional-owner-layers).
 
 This Constitution may be amended to improve protection, clarity, binding effect, or institutional fitness under changing conditions, subject to **Chapter Thirteen** (non-regression), **Chapter Fourteen** (supremacy and external-order interface), and the validity conditions in this chapter.
 
@@ -657,8 +665,6 @@ Amendments take effect only on a stated effective date or event recorded in the 
 <br>
 
 *In plain terms: Chapter Fifteen owns how amendments are published, chained, reviewed, and ratified — not the full taxonomy of compliance violations or final Violation Axis **s** = 7, 8, or 9 anti-constitutional misconduct slots; escalation wording here is routing, not a second accountability-disposition code.*
-
-This chapter is the constitutional owner of **procedural and custody** validity and invalid-change-handling requirements (Tests 2 through 4, review triggers, provisional effect, invalid-change remediation, ratification and adoption instruments, and amendment procedure requirements).
 
 Under [Constitutional Owner Layers](core_05i_integrative_definitions.md#constitutional-owner-layers), this chapter must not absorb, restate, or relocate obligations owned by another constitutional owner layer. Any review-trigger, escalation-trigger, or referral-trigger language in this chapter — including mandatory escalation language in **section 7** (*Review Triggers*) and in **section 9** (*Invalid-Change Handling and Remediation Continuity*) — operates as a **trigger or referral heuristic** for routing to canonical owners and is **non-canonical** for final offense classification.
 

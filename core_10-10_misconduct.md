@@ -15,6 +15,27 @@
 
 <br>
 
+<details>
+<summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): cross-chapter map for Chapter Ten</span></strong></summary>
+
+- **Chapter Eight:** supplies the standing record, verified-input gate, Contribution and Violation axes, standing-slot grammar, and ordinary violation severity.
+- **Chapter Nine:** supplies process / response attachments, descriptors, standing integration, standing locks, final standing effect rules, and the pointer here; it does not itself assign final **s = 7**, **s = 8**, or **s = 9** anti-constitutional misconduct slots.
+- **Chapters Two through Four:** supply record, custody, tracing, and verification discipline for the evidence used here.
+- **Chapter One:** supplies principles relevant to emergency authority, necessity, concentration, and system capture.
+- **Chapter Eleven:** supplies forum routing, Integrity-family default routing, transfer, and certification discipline.
+- **Chapter Six:** supplies the Rights Floor, **Article XXIII-B** joint requirements and **Imprisonment for violence**, **Article XXIII-C** review discipline, **Article XXIV-C** remedy-timing discipline, and **Article XXIII-A** review and publication safeguards; **section 4.1** here supplies imprisonment requirements for verified anti-constitutional misconduct, **section 4.2** supplies the consequence-integration rule for restitution and remedy priority, and **section 4.3** supplies voluntary public accountability expression rules.
+- **Chapter Twelve:** supplies governance legitimacy consequences tied to final Chapter Ten classification.
+- **Chapters Thirteen through Fifteen:** supply change-path validity, referral, procedural, and custody rules; they do not assign final Chapter Ten slots.
+- Read with: [Chapters Eight–Eleven constitutional compass](core_08-08_standing_assessment.md#chapters-eight-eleven-constitutional-compass).
+
+</details>
+
+<br>
+
+Chapter Ten is the constitutional owner of **final Violation Axis s = 7, 8, and 9 anti-constitutional misconduct classification, criteria, and cross-chapter discipline**.
+
+<br>
+
 This chapter is used only for the most serious anti-constitutional misconduct. It does not cover every violation, and it does not create a separate process. Its job is to decide whether a verified anti-constitutional violation belongs in one of the three highest **Violation Axis** slots: **s = 7**, **s = 8**, or **s = 9**.
 
 Under the [Continuity aim](core_00_preamble.md#continuity) and [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims), top-slot assignment protects long-horizon constitutional operation when conduct threatens to hollow the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation**, **oversight**, **accountability**, and **timeliness** — below [material stake](core_00_preamble.md#material-stake) requirements. Read [Chapters Eight–Eleven constitutional compass](core_08-08_standing_assessment.md#chapters-eight-eleven-constitutional-compass) first.
@@ -42,21 +63,6 @@ Use this chapter in this order:
 9. Use **section 6** only to route named patterns into the same framework.
 
 The named patterns in section 6.1 are not separate shortcuts. Flooding, bribery, unconstitutional commands, reward or protection of misconduct, enforcement suppression, and infrastructure denial or destruction all still have to pass through the same incident, criteria, gravity, and safeguard sequence.
-
-<details>
-<summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): cross-chapter map for Chapter Ten</span></strong></summary>
-
-- **Chapter Eight:** supplies the standing record, verified-input gate, Contribution and Violation axes, standing-slot grammar, and ordinary violation severity.
-- **Chapter Nine:** supplies process / response attachments, descriptors, standing integration, standing locks, final standing effect rules, and the pointer here; it does not itself assign final **s = 7**, **s = 8**, or **s = 9** anti-constitutional misconduct slots.
-- **Chapters Two through Four:** supply record, custody, tracing, and verification discipline for the evidence used here.
-- **Chapter One:** supplies principles relevant to emergency authority, necessity, concentration, and system capture.
-- **Chapter Eleven:** supplies forum routing, Integrity-family default routing, transfer, and certification discipline.
-- **Chapter Six:** supplies the Rights Floor, **Article XXIII-B** joint requirements and **Imprisonment for violence**, **Article XXIII-C** review discipline, **Article XXIV-C** remedy-timing discipline, and **Article XXIII-A** review and publication safeguards; **section 4.1** here supplies imprisonment requirements for verified anti-constitutional misconduct, **section 4.2** supplies the consequence-integration rule for restitution and remedy priority, and **section 4.3** supplies voluntary public accountability expression rules.
-- **Chapter Twelve:** supplies governance legitimacy consequences tied to final Chapter Ten classification.
-- **Chapters Thirteen through Fifteen:** supply change-path validity, referral, procedural, and custody rules; they do not assign final Chapter Ten slots.
-- Read with: [Chapters Eight–Eleven constitutional compass](core_08-08_standing_assessment.md#chapters-eight-eleven-constitutional-compass).
-
-</details>
 
 <br>
 
@@ -112,11 +118,11 @@ Section **6** does not create a second catalogue of independent offenses. It sta
 - Downstream slot assignment: [§3](#3-violation-axis-s-7-9-slot-assignment-incident-gravity).
 - Downstream safeguards and discipline: [§4](#4-due-process-safeguards-for-slot-classification); [§5](#5-cross-chapter-discipline).
 - Downstream pattern applications and criteria routing: [§6](#6-pattern-applications-and-criteria-routing), including [§6](#61-concentration-based-subversion-criteria-interaction), [§7](#62-rights-floor-waivers-and-unconstitutional-contract-terms), [§11.3](#63-flooding-the-zone-and-contest-pathway-denial), [§11.4](#64-info-sphere-zone-flooding), [§6.5](#65-bribery-and-improper-benefit-exchange), [§6.6](#66-unlawful-or-unconstitutional-command-conduct), [§6.7](#67-reward-protection-or-normalization-of-anti-constitutional-conduct), [§6.8](#68-enforcement-refusal-suppression-or-non-prosecution-conduct), [§6.9](#69-infrastructure-denial-destruction-or-dependency-cutoff-conduct), and [§6.10](#610-forum-recusal-failure-and-biased-panel-participation).
-- Read with: [Chapters Two through Four](core_02-04_definition_mechanics.md) for record, custody, and verification expectations tied to **criteria 1–4**.
+- Read with: [Chapters Two through Four](core_02-03_definition_mechanics.md) for record, custody, and verification expectations tied to **criteria 1–4**.
 
 </details>
 
-<strong><span style="color: #2563eb;">Definition:</span></strong> [Necessity](core_05a_accountability_definitions.md#necessity) · [O](core_05a_accountability_definitions.md#necessity) · [E](core_05a_accountability_definitions.md#necessity-e) · [C](core_05a_accountability_definitions.md#necessity-c)
+<strong><span style="color: #2563eb;">Definition:</span></strong> [Necessity](core_05a_accountability_definitions.md#necessity) · [O](core_05a_accountability_definitions.md#necessity) · [A](core_05a_accountability_definitions.md#necessity-a) · [C](core_05a_accountability_definitions.md#necessity-c)
 
 *In plain terms: evaluators first build one coherent picture of what happened: one episode, one sustained campaign, or another unified incident. They then ask how serious that incident is, using six checks: intent, records, rollback, real-world blockage, forcible takeover, and practical nullification of remedies. They may not split one scheme into artificial fragments to game the slot.*
 
@@ -188,7 +194,7 @@ Classification proceeds by **unified incident** and final **Violation Axis** slo
 - Pattern applications: [§11.3](#63-flooding-the-zone-and-contest-pathway-denial) (*Flooding the zone*); [§11.4](#64-info-sphere-zone-flooding) (*Info-sphere zone flooding*); [§6.5](#65-bribery-and-improper-benefit-exchange) (*Bribery and improper benefit exchange*); [§6.6](#66-unlawful-or-unconstitutional-command-conduct) (*Unlawful or unconstitutional command conduct*); [§6.7](#67-reward-protection-or-normalization-of-anti-constitutional-conduct) (*Reward, protection, or normalization of anti-constitutional conduct*); [§6.8](#68-enforcement-refusal-suppression-or-non-prosecution-conduct) (*Enforcement refusal, suppression, or non-prosecution conduct*); [§6.9](#69-infrastructure-denial-destruction-or-dependency-cutoff-conduct) (*Infrastructure denial, destruction, or dependency cutoff conduct*); [§6.10](#610-forum-recusal-failure-and-biased-panel-participation) (*Forum recusal failure and biased panel participation*).
 - Downstream: [§4.1](#4-1-imprisonment-for-anti-constitutional-misconduct) (*Imprisonment for anti-constitutional misconduct*); [§4.2](#4-2-restitution-remedy-priority-and-consequence-integration) (*Restitution, remedy priority, and consequence integration*); [§4.3](#4-3-voluntary-public-accountability-expression) (*Voluntary public accountability expression*); [§5](#5-cross-chapter-discipline) (*Cross-chapter discipline*).
 - Forum discipline: [Chapter Eleven §2](core_11-11_forum.md#2-default-venue-and-primary-stakes) through [§8](core_11-11_forum.md#7-escalation-and-certification) cover default Integrity lead, forum-family application of due process, transfer, and certification. Read **section 4** with **Article XXIII** in **Chapter Six**.
-- Read with: [Article XXIII-A: Justice Objective and Scope](core_06-06_rights_part_d.md#article-xxiii-a-justice-objective-and-scope) for review and publication safeguards; [Chapters Two through Four](core_02-04_definition_mechanics.md) tracing standards for publication.
+- Read with: [Article XXIII-A: Justice Objective and Scope](core_06-06_rights_part_d.md#article-xxiii-a-justice-objective-and-scope) for review and publication safeguards; [Chapters Two through Four](core_02-03_definition_mechanics.md) tracing standards for publication.
 
 </details>
 
@@ -235,12 +241,12 @@ No final **Violation Axis anti-constitutional misconduct** classification under 
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Redress and Remediation](core_05a_accountability_definitions.md#redress-and-remediation-constitutional) · [O](core_05a_accountability_definitions.md#redress-and-remediation-constitutional) · [E](core_05a_accountability_definitions.md#redress-and-remediation-constitutional-e) · [C](core_05a_accountability_definitions.md#redress-and-remediation-constitutional-c)
-- [Restorative Justice](core_05a_accountability_definitions.md#restorative-justice) · [O](core_05a_accountability_definitions.md#restorative-justice) · [E](core_05a_accountability_definitions.md#restorative-justice-e) · [C](core_05a_accountability_definitions.md#restorative-justice-c)
-- [Accountability](core_05a_accountability_definitions.md#accountability) · [O](core_05a_accountability_definitions.md#accountability) · [E](core_05a_accountability_definitions.md#accountability-e) · [C](core_05a_accountability_definitions.md#accountability-c)
-- [Proportionality](core_05a_accountability_definitions.md#proportionality) · [O](core_05a_accountability_definitions.md#proportionality) · [E](core_05a_accountability_definitions.md#proportionality-e) · [C](core_05a_accountability_definitions.md#proportionality-c)
+- [Redress and Remediation](core_05a_accountability_definitions.md#redress-and-remediation-constitutional) · [O](core_05a_accountability_definitions.md#redress-and-remediation-constitutional) · [A](core_05a_accountability_definitions.md#redress-and-remediation-constitutional-a) · [C](core_05a_accountability_definitions.md#redress-and-remediation-constitutional-c)
+- [Restorative Justice](core_05a_accountability_definitions.md#restorative-justice) · [O](core_05a_accountability_definitions.md#restorative-justice) · [A](core_05a_accountability_definitions.md#restorative-justice-a) · [C](core_05a_accountability_definitions.md#restorative-justice-c)
+- [Accountability](core_05a_accountability_definitions.md#accountability) · [O](core_05a_accountability_definitions.md#accountability) · [A](core_05a_accountability_definitions.md#accountability-a) · [C](core_05a_accountability_definitions.md#accountability-c)
+- [Proportionality](core_05a_accountability_definitions.md#proportionality) · [O](core_05a_accountability_definitions.md#proportionality) · [A](core_05a_accountability_definitions.md#proportionality-a) · [C](core_05a_accountability_definitions.md#proportionality-c)
 
 </details>
 
@@ -369,12 +375,12 @@ The absence of overt deception or forcible act does **not** defeat anti-constitu
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Auditability](core_05o_oversight_definitions.md#auditability) · [O](core_05o_oversight_definitions.md#auditability) · [E](core_05o_oversight_definitions.md#auditability-e) · [C](core_05o_oversight_definitions.md#auditability-c)
-- [Contestability](core_05a_accountability_definitions.md#contestability) · [O](core_05a_accountability_definitions.md#contestability) · [E](core_05a_accountability_definitions.md#contestability-e) · [C](core_05a_accountability_definitions.md#contestability-c)
-- [Necessity](core_05a_accountability_definitions.md#necessity) · [O](core_05a_accountability_definitions.md#necessity) · [E](core_05a_accountability_definitions.md#necessity-e) · [C](core_05a_accountability_definitions.md#necessity-c)
-- [Proportionality](core_05a_accountability_definitions.md#proportionality) · [O](core_05a_accountability_definitions.md#proportionality) · [E](core_05a_accountability_definitions.md#proportionality-e) · [C](core_05a_accountability_definitions.md#proportionality-c)
+- [Auditability](core_05o_oversight_definitions.md#auditability) · [O](core_05o_oversight_definitions.md#auditability) · [A](core_05o_oversight_definitions.md#auditability-a) · [C](core_05o_oversight_definitions.md#auditability-c)
+- [Contestability](core_05a_accountability_definitions.md#contestability) · [O](core_05a_accountability_definitions.md#contestability) · [A](core_05a_accountability_definitions.md#contestability-a) · [C](core_05a_accountability_definitions.md#contestability-c)
+- [Necessity](core_05a_accountability_definitions.md#necessity) · [O](core_05a_accountability_definitions.md#necessity) · [A](core_05a_accountability_definitions.md#necessity-a) · [C](core_05a_accountability_definitions.md#necessity-c)
+- [Proportionality](core_05a_accountability_definitions.md#proportionality) · [O](core_05a_accountability_definitions.md#proportionality) · [A](core_05a_accountability_definitions.md#proportionality-a) · [C](core_05a_accountability_definitions.md#proportionality-c)
 
 </details>
 
@@ -407,10 +413,10 @@ The following patterns are **anti-constitutional misconduct within this chapter�
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Contestability](core_05a_accountability_definitions.md#contestability) · [O](core_05a_accountability_definitions.md#contestability) · [E](core_05a_accountability_definitions.md#contestability-e) · [C](core_05a_accountability_definitions.md#contestability-c)
-- [Procedural Fairness](core_05p_participation_definitions.md#procedural-fairness-constitutional) · [O](core_05p_participation_definitions.md#procedural-fairness-constitutional) · [E](core_05p_participation_definitions.md#procedural-fairness-constitutional-e) · [C](core_05p_participation_definitions.md#procedural-fairness-constitutional-c)
+- [Contestability](core_05a_accountability_definitions.md#contestability) · [O](core_05a_accountability_definitions.md#contestability) · [A](core_05a_accountability_definitions.md#contestability-a) · [C](core_05a_accountability_definitions.md#contestability-c)
+- [Procedural Fairness](core_05p_participation_definitions.md#procedural-fairness-constitutional) · [O](core_05p_participation_definitions.md#procedural-fairness-constitutional) · [A](core_05p_participation_definitions.md#procedural-fairness-constitutional-a) · [C](core_05p_participation_definitions.md#procedural-fairness-constitutional-c)
 
 </details>
 
@@ -463,12 +469,12 @@ This subsection does **not** add an additional slot-assignment criterion beyond 
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Epistemic Integrity](core_05o_oversight_definitions.md#epistemic-integrity) · [O](core_05o_oversight_definitions.md#epistemic-integrity-o) · [E](core_05o_oversight_definitions.md#epistemic-integrity-e) · [C](core_05o_oversight_definitions.md#epistemic-integrity-c)
-- [Info-Sphere](core_05p_participation_definitions.md#info-sphere) · [O](core_05p_participation_definitions.md#info-sphere) · [E](core_05p_participation_definitions.md#info-sphere-e) · [C](core_05p_participation_definitions.md#info-sphere-c)
-- [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint) · [O](core_05o_oversight_definitions.md#truth-constitutional-constraint-o) · [E](core_05o_oversight_definitions.md#truth-constitutional-constraint-e) · [C](core_05o_oversight_definitions.md#truth-constitutional-constraint-c)
-- [Transparency](core_05o_oversight_definitions.md#transparency) · [O](core_05o_oversight_definitions.md#transparency) · [E](core_05o_oversight_definitions.md#transparency-e) · [C](core_05o_oversight_definitions.md#transparency-c)
+- [Epistemic Integrity](core_05o_oversight_definitions.md#epistemic-integrity) · [O](core_05o_oversight_definitions.md#epistemic-integrity-o) · [A](core_05o_oversight_definitions.md#epistemic-integrity-a) · [C](core_05o_oversight_definitions.md#epistemic-integrity-c)
+- [Info-Sphere](core_05p_participation_definitions.md#info-sphere) · [O](core_05p_participation_definitions.md#info-sphere) · [A](core_05p_participation_definitions.md#info-sphere-a) · [C](core_05p_participation_definitions.md#info-sphere-c)
+- [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint) · [O](core_05o_oversight_definitions.md#truth-constitutional-constraint-o) · [A](core_05o_oversight_definitions.md#truth-constitutional-constraint-a) · [C](core_05o_oversight_definitions.md#truth-constitutional-constraint-c)
+- [Transparency](core_05o_oversight_definitions.md#transparency) · [O](core_05o_oversight_definitions.md#transparency) · [A](core_05o_oversight_definitions.md#transparency-a) · [C](core_05o_oversight_definitions.md#transparency-c)
 
 </details>
 
@@ -521,14 +527,14 @@ This subsection does **not** add an additional slot-assignment criterion beyond 
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Accountability](core_05a_accountability_definitions.md#accountability) · [O](core_05a_accountability_definitions.md#accountability) · [E](core_05a_accountability_definitions.md#accountability-e) · [C](core_05a_accountability_definitions.md#accountability-c)
-- [Auditability](core_05o_oversight_definitions.md#auditability) · [O](core_05o_oversight_definitions.md#auditability) · [E](core_05o_oversight_definitions.md#auditability-e) · [C](core_05o_oversight_definitions.md#auditability-c)
-- [Incentive Alignment](core_05i_integrative_definitions.md#incentive-alignment) · [O](core_05i_integrative_definitions.md#incentive-alignment) · [E](core_05i_integrative_definitions.md#incentive-alignment-e) · [C](core_05i_integrative_definitions.md#incentive-alignment-c)
-- [Oversight](core_05o_oversight_definitions.md#oversight-constitutional) · [O](core_05o_oversight_definitions.md#oversight-constitutional) · [E](core_05o_oversight_definitions.md#oversight-constitutional-e) · [C](core_05o_oversight_definitions.md#oversight-constitutional-c)
-- [Procedural Fairness](core_05p_participation_definitions.md#procedural-fairness-constitutional) · [O](core_05p_participation_definitions.md#procedural-fairness-constitutional) · [E](core_05p_participation_definitions.md#procedural-fairness-constitutional-e) · [C](core_05p_participation_definitions.md#procedural-fairness-constitutional-c)
-- [System Capture](core_05c_continuity_definitions.md#system-capture) · [O](core_05c_continuity_definitions.md#system-capture) · [E](core_05c_continuity_definitions.md#system-capture-e) · [C](core_05c_continuity_definitions.md#system-capture-c)
+- [Accountability](core_05a_accountability_definitions.md#accountability) · [O](core_05a_accountability_definitions.md#accountability) · [A](core_05a_accountability_definitions.md#accountability-a) · [C](core_05a_accountability_definitions.md#accountability-c)
+- [Auditability](core_05o_oversight_definitions.md#auditability) · [O](core_05o_oversight_definitions.md#auditability) · [A](core_05o_oversight_definitions.md#auditability-a) · [C](core_05o_oversight_definitions.md#auditability-c)
+- [Incentive Alignment](core_05i_integrative_definitions.md#incentive-alignment) · [O](core_05i_integrative_definitions.md#incentive-alignment) · [A](core_05i_integrative_definitions.md#incentive-alignment-a) · [C](core_05i_integrative_definitions.md#incentive-alignment-c)
+- [Oversight](core_05o_oversight_definitions.md#oversight-constitutional) · [O](core_05o_oversight_definitions.md#oversight-constitutional) · [A](core_05o_oversight_definitions.md#oversight-constitutional-a) · [C](core_05o_oversight_definitions.md#oversight-constitutional-c)
+- [Procedural Fairness](core_05p_participation_definitions.md#procedural-fairness-constitutional) · [O](core_05p_participation_definitions.md#procedural-fairness-constitutional) · [A](core_05p_participation_definitions.md#procedural-fairness-constitutional-a) · [C](core_05p_participation_definitions.md#procedural-fairness-constitutional-c)
+- [System Capture](core_05c_continuity_definitions.md#system-capture) · [O](core_05c_continuity_definitions.md#system-capture) · [A](core_05c_continuity_definitions.md#system-capture-a) · [C](core_05c_continuity_definitions.md#system-capture-c)
 
 </details>
 
@@ -565,14 +571,14 @@ This subsection does **not** add an additional slot-assignment criterion beyond 
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Accountability](core_05a_accountability_definitions.md#accountability) · [O](core_05a_accountability_definitions.md#accountability) · [E](core_05a_accountability_definitions.md#accountability-e) · [C](core_05a_accountability_definitions.md#accountability-c)
-- [Collective Accountability Failure](core_05a_accountability_definitions.md#collective-accountability-failure) · [O](core_05a_accountability_definitions.md#collective-accountability-failure) · [E](core_05a_accountability_definitions.md#collective-accountability-failure-e) · [C](core_05a_accountability_definitions.md#collective-accountability-failure-c)
-- [Coercion and Manipulation](core_05p_participation_definitions.md#coercion-and-manipulation-constitutional) · [O](core_05p_participation_definitions.md#coercion-and-manipulation-constitutional) · [E](core_05p_participation_definitions.md#coercion-and-manipulation-constitutional-e) · [C](core_05p_participation_definitions.md#coercion-and-manipulation-constitutional-c)
-- [Contestability](core_05a_accountability_definitions.md#contestability) · [O](core_05a_accountability_definitions.md#contestability) · [E](core_05a_accountability_definitions.md#contestability-e) · [C](core_05a_accountability_definitions.md#contestability-c)
-- [Procedural Fairness](core_05p_participation_definitions.md#procedural-fairness-constitutional) · [O](core_05p_participation_definitions.md#procedural-fairness-constitutional) · [E](core_05p_participation_definitions.md#procedural-fairness-constitutional-e) · [C](core_05p_participation_definitions.md#procedural-fairness-constitutional-c)
-- [Protected Reporting (Whistleblowing)](core_05a_accountability_definitions.md#protected-reporting-whistleblowing) · [O](core_05a_accountability_definitions.md#protected-reporting-whistleblowing) · [E](core_05a_accountability_definitions.md#protected-reporting-whistleblowing-e) · [C](core_05a_accountability_definitions.md#protected-reporting-whistleblowing-c)
+- [Accountability](core_05a_accountability_definitions.md#accountability) · [O](core_05a_accountability_definitions.md#accountability) · [A](core_05a_accountability_definitions.md#accountability-a) · [C](core_05a_accountability_definitions.md#accountability-c)
+- [Collective Accountability Failure](core_05a_accountability_definitions.md#collective-accountability-failure) · [O](core_05a_accountability_definitions.md#collective-accountability-failure) · [A](core_05a_accountability_definitions.md#collective-accountability-failure-a) · [C](core_05a_accountability_definitions.md#collective-accountability-failure-c)
+- [Coercion and Manipulation](core_05p_participation_definitions.md#coercion-and-manipulation-constitutional) · [O](core_05p_participation_definitions.md#coercion-and-manipulation-constitutional) · [A](core_05p_participation_definitions.md#coercion-and-manipulation-constitutional-a) · [C](core_05p_participation_definitions.md#coercion-and-manipulation-constitutional-c)
+- [Contestability](core_05a_accountability_definitions.md#contestability) · [O](core_05a_accountability_definitions.md#contestability) · [A](core_05a_accountability_definitions.md#contestability-a) · [C](core_05a_accountability_definitions.md#contestability-c)
+- [Procedural Fairness](core_05p_participation_definitions.md#procedural-fairness-constitutional) · [O](core_05p_participation_definitions.md#procedural-fairness-constitutional) · [A](core_05p_participation_definitions.md#procedural-fairness-constitutional-a) · [C](core_05p_participation_definitions.md#procedural-fairness-constitutional-c)
+- [Protected Reporting (Whistleblowing)](core_05a_accountability_definitions.md#protected-reporting-whistleblowing) · [O](core_05a_accountability_definitions.md#protected-reporting-whistleblowing) · [A](core_05a_accountability_definitions.md#protected-reporting-whistleblowing-a) · [C](core_05a_accountability_definitions.md#protected-reporting-whistleblowing-c)
 
 </details>
 
@@ -598,14 +604,14 @@ The conduct is in scope only where it has one of the following material effects:
 #### 6.6.1 Follower and implementer accountability
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Accountability](core_05a_accountability_definitions.md#accountability) · [O](core_05a_accountability_definitions.md#accountability) · [E](core_05a_accountability_definitions.md#accountability-e) · [C](core_05a_accountability_definitions.md#accountability-c)
-- [Coercion and Manipulation](core_05p_participation_definitions.md#coercion-and-manipulation-constitutional) · [O](core_05p_participation_definitions.md#coercion-and-manipulation-constitutional) · [E](core_05p_participation_definitions.md#coercion-and-manipulation-constitutional-e) · [C](core_05p_participation_definitions.md#coercion-and-manipulation-constitutional-c)
-- [Contestability](core_05a_accountability_definitions.md#contestability) · [O](core_05a_accountability_definitions.md#contestability) · [E](core_05a_accountability_definitions.md#contestability-e) · [C](core_05a_accountability_definitions.md#contestability-c)
-- [Evidence Preservation](core_05o_oversight_definitions.md#evidence-preservation) · [O](core_05o_oversight_definitions.md#evidence-preservation) · [E](core_05o_oversight_definitions.md#evidence-preservation-e) · [C](core_05o_oversight_definitions.md#evidence-preservation-c)
-- [Procedural Fairness](core_05p_participation_definitions.md#procedural-fairness-constitutional) · [O](core_05p_participation_definitions.md#procedural-fairness-constitutional) · [E](core_05p_participation_definitions.md#procedural-fairness-constitutional-e) · [C](core_05p_participation_definitions.md#procedural-fairness-constitutional-c)
-- [Protected Reporting (Whistleblowing)](core_05a_accountability_definitions.md#protected-reporting-whistleblowing) · [O](core_05a_accountability_definitions.md#protected-reporting-whistleblowing) · [E](core_05a_accountability_definitions.md#protected-reporting-whistleblowing-e) · [C](core_05a_accountability_definitions.md#protected-reporting-whistleblowing-c)
+- [Accountability](core_05a_accountability_definitions.md#accountability) · [O](core_05a_accountability_definitions.md#accountability) · [A](core_05a_accountability_definitions.md#accountability-a) · [C](core_05a_accountability_definitions.md#accountability-c)
+- [Coercion and Manipulation](core_05p_participation_definitions.md#coercion-and-manipulation-constitutional) · [O](core_05p_participation_definitions.md#coercion-and-manipulation-constitutional) · [A](core_05p_participation_definitions.md#coercion-and-manipulation-constitutional-a) · [C](core_05p_participation_definitions.md#coercion-and-manipulation-constitutional-c)
+- [Contestability](core_05a_accountability_definitions.md#contestability) · [O](core_05a_accountability_definitions.md#contestability) · [A](core_05a_accountability_definitions.md#contestability-a) · [C](core_05a_accountability_definitions.md#contestability-c)
+- [Evidence Preservation](core_05o_oversight_definitions.md#evidence-preservation) · [O](core_05o_oversight_definitions.md#evidence-preservation) · [A](core_05o_oversight_definitions.md#evidence-preservation-a) · [C](core_05o_oversight_definitions.md#evidence-preservation-c)
+- [Procedural Fairness](core_05p_participation_definitions.md#procedural-fairness-constitutional) · [O](core_05p_participation_definitions.md#procedural-fairness-constitutional) · [A](core_05p_participation_definitions.md#procedural-fairness-constitutional-a) · [C](core_05p_participation_definitions.md#procedural-fairness-constitutional-c)
+- [Protected Reporting (Whistleblowing)](core_05a_accountability_definitions.md#protected-reporting-whistleblowing) · [O](core_05a_accountability_definitions.md#protected-reporting-whistleblowing) · [A](core_05a_accountability_definitions.md#protected-reporting-whistleblowing-a) · [C](core_05a_accountability_definitions.md#protected-reporting-whistleblowing-c)
 
 </details>
 
@@ -634,14 +640,14 @@ This subsection does **not** add an additional slot-assignment criterion beyond 
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Accountability](core_05a_accountability_definitions.md#accountability) · [O](core_05a_accountability_definitions.md#accountability) · [E](core_05a_accountability_definitions.md#accountability-e) · [C](core_05a_accountability_definitions.md#accountability-c)
-- [Auditability](core_05o_oversight_definitions.md#auditability) · [O](core_05o_oversight_definitions.md#auditability) · [E](core_05o_oversight_definitions.md#auditability-e) · [C](core_05o_oversight_definitions.md#auditability-c)
-- [Incentive Alignment](core_05i_integrative_definitions.md#incentive-alignment) · [O](core_05i_integrative_definitions.md#incentive-alignment) · [E](core_05i_integrative_definitions.md#incentive-alignment-e) · [C](core_05i_integrative_definitions.md#incentive-alignment-c)
-- [Protected Reporting Retaliation and Access Interference](core_05a_accountability_definitions.md#protected-reporting-retaliation-and-access-interference) · [O](core_05a_accountability_definitions.md#protected-reporting-retaliation-and-access-interference) · [E](core_05a_accountability_definitions.md#protected-reporting-retaliation-and-access-interference-e) · [C](core_05a_accountability_definitions.md#protected-reporting-retaliation-and-access-interference-c)
-- [System Capture](core_05c_continuity_definitions.md#system-capture) · [O](core_05c_continuity_definitions.md#system-capture) · [E](core_05c_continuity_definitions.md#system-capture-e) · [C](core_05c_continuity_definitions.md#system-capture-c)
-- [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint) · [O](core_05o_oversight_definitions.md#truth-constitutional-constraint-o) · [E](core_05o_oversight_definitions.md#truth-constitutional-constraint-e) · [C](core_05o_oversight_definitions.md#truth-constitutional-constraint-c)
+- [Accountability](core_05a_accountability_definitions.md#accountability) · [O](core_05a_accountability_definitions.md#accountability) · [A](core_05a_accountability_definitions.md#accountability-a) · [C](core_05a_accountability_definitions.md#accountability-c)
+- [Auditability](core_05o_oversight_definitions.md#auditability) · [O](core_05o_oversight_definitions.md#auditability) · [A](core_05o_oversight_definitions.md#auditability-a) · [C](core_05o_oversight_definitions.md#auditability-c)
+- [Incentive Alignment](core_05i_integrative_definitions.md#incentive-alignment) · [O](core_05i_integrative_definitions.md#incentive-alignment) · [A](core_05i_integrative_definitions.md#incentive-alignment-a) · [C](core_05i_integrative_definitions.md#incentive-alignment-c)
+- [Protected Reporting Retaliation and Access Interference](core_05a_accountability_definitions.md#protected-reporting-retaliation-and-access-interference) · [O](core_05a_accountability_definitions.md#protected-reporting-retaliation-and-access-interference) · [A](core_05a_accountability_definitions.md#protected-reporting-retaliation-and-access-interference-a) · [C](core_05a_accountability_definitions.md#protected-reporting-retaliation-and-access-interference-c)
+- [System Capture](core_05c_continuity_definitions.md#system-capture) · [O](core_05c_continuity_definitions.md#system-capture) · [A](core_05c_continuity_definitions.md#system-capture-a) · [C](core_05c_continuity_definitions.md#system-capture-c)
+- [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint) · [O](core_05o_oversight_definitions.md#truth-constitutional-constraint-o) · [A](core_05o_oversight_definitions.md#truth-constitutional-constraint-a) · [C](core_05o_oversight_definitions.md#truth-constitutional-constraint-c)
 
 </details>
 
@@ -680,16 +686,16 @@ This subsection does **not** add an additional slot-assignment criterion beyond 
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Accountability](core_05a_accountability_definitions.md#accountability) · [O](core_05a_accountability_definitions.md#accountability) · [E](core_05a_accountability_definitions.md#accountability-e) · [C](core_05a_accountability_definitions.md#accountability-c)
-- [Auditability](core_05o_oversight_definitions.md#auditability) · [O](core_05o_oversight_definitions.md#auditability) · [E](core_05o_oversight_definitions.md#auditability-e) · [C](core_05o_oversight_definitions.md#auditability-c)
-- [Contestability](core_05a_accountability_definitions.md#contestability) · [O](core_05a_accountability_definitions.md#contestability) · [E](core_05a_accountability_definitions.md#contestability-e) · [C](core_05a_accountability_definitions.md#contestability-c)
-- [Oversight](core_05o_oversight_definitions.md#oversight-constitutional) · [O](core_05o_oversight_definitions.md#oversight-constitutional) · [E](core_05o_oversight_definitions.md#oversight-constitutional-e) · [C](core_05o_oversight_definitions.md#oversight-constitutional-c)
-- [Procedural Fairness](core_05p_participation_definitions.md#procedural-fairness-constitutional) · [O](core_05p_participation_definitions.md#procedural-fairness-constitutional) · [E](core_05p_participation_definitions.md#procedural-fairness-constitutional-e) · [C](core_05p_participation_definitions.md#procedural-fairness-constitutional-c)
-- [Protected Reporting (Whistleblowing)](core_05a_accountability_definitions.md#protected-reporting-whistleblowing) · [O](core_05a_accountability_definitions.md#protected-reporting-whistleblowing) · [E](core_05a_accountability_definitions.md#protected-reporting-whistleblowing-e) · [C](core_05a_accountability_definitions.md#protected-reporting-whistleblowing-c)
-- [Protected Reporting Retaliation and Access Interference](core_05a_accountability_definitions.md#protected-reporting-retaliation-and-access-interference) · [O](core_05a_accountability_definitions.md#protected-reporting-retaliation-and-access-interference) · [E](core_05a_accountability_definitions.md#protected-reporting-retaliation-and-access-interference-e) · [C](core_05a_accountability_definitions.md#protected-reporting-retaliation-and-access-interference-c)
-- [System Capture](core_05c_continuity_definitions.md#system-capture) · [O](core_05c_continuity_definitions.md#system-capture) · [E](core_05c_continuity_definitions.md#system-capture-e) · [C](core_05c_continuity_definitions.md#system-capture-c)
+- [Accountability](core_05a_accountability_definitions.md#accountability) · [O](core_05a_accountability_definitions.md#accountability) · [A](core_05a_accountability_definitions.md#accountability-a) · [C](core_05a_accountability_definitions.md#accountability-c)
+- [Auditability](core_05o_oversight_definitions.md#auditability) · [O](core_05o_oversight_definitions.md#auditability) · [A](core_05o_oversight_definitions.md#auditability-a) · [C](core_05o_oversight_definitions.md#auditability-c)
+- [Contestability](core_05a_accountability_definitions.md#contestability) · [O](core_05a_accountability_definitions.md#contestability) · [A](core_05a_accountability_definitions.md#contestability-a) · [C](core_05a_accountability_definitions.md#contestability-c)
+- [Oversight](core_05o_oversight_definitions.md#oversight-constitutional) · [O](core_05o_oversight_definitions.md#oversight-constitutional) · [A](core_05o_oversight_definitions.md#oversight-constitutional-a) · [C](core_05o_oversight_definitions.md#oversight-constitutional-c)
+- [Procedural Fairness](core_05p_participation_definitions.md#procedural-fairness-constitutional) · [O](core_05p_participation_definitions.md#procedural-fairness-constitutional) · [A](core_05p_participation_definitions.md#procedural-fairness-constitutional-a) · [C](core_05p_participation_definitions.md#procedural-fairness-constitutional-c)
+- [Protected Reporting (Whistleblowing)](core_05a_accountability_definitions.md#protected-reporting-whistleblowing) · [O](core_05a_accountability_definitions.md#protected-reporting-whistleblowing) · [A](core_05a_accountability_definitions.md#protected-reporting-whistleblowing-a) · [C](core_05a_accountability_definitions.md#protected-reporting-whistleblowing-c)
+- [Protected Reporting Retaliation and Access Interference](core_05a_accountability_definitions.md#protected-reporting-retaliation-and-access-interference) · [O](core_05a_accountability_definitions.md#protected-reporting-retaliation-and-access-interference) · [A](core_05a_accountability_definitions.md#protected-reporting-retaliation-and-access-interference-a) · [C](core_05a_accountability_definitions.md#protected-reporting-retaliation-and-access-interference-c)
+- [System Capture](core_05c_continuity_definitions.md#system-capture) · [O](core_05c_continuity_definitions.md#system-capture) · [A](core_05c_continuity_definitions.md#system-capture-a) · [C](core_05c_continuity_definitions.md#system-capture-c)
 
 </details>
 
@@ -730,14 +736,14 @@ This subsection does **not** create a mandatory-prosecution rule, add an indepen
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Dependency](core_05c_continuity_definitions.md#dependency) · [O](core_05c_continuity_definitions.md#dependency) · [E](core_05c_continuity_definitions.md#dependency-e) · [C](core_05c_continuity_definitions.md#dependency-c)
-- [Cascading Failure](core_05c_continuity_definitions.md#cascading-failure) · [O](core_05c_continuity_definitions.md#cascading-failure) · [E](core_05c_continuity_definitions.md#cascading-failure-e) · [C](core_05c_continuity_definitions.md#cascading-failure-c)
-- [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint) · [O](core_05c_continuity_definitions.md#safety-constraint) · [E](core_05c_continuity_definitions.md#safety-constraint-e) · [C](core_05c_continuity_definitions.md#safety-constraint-c)
-- [Reversibility](core_05c_continuity_definitions.md#reversibility-constitutional) · [O](core_05c_continuity_definitions.md#reversibility-constitutional) · [E](core_05c_continuity_definitions.md#reversibility-constitutional-e) · [C](core_05c_continuity_definitions.md#reversibility-constitutional-c)
-- [Harm](core_05a_accountability_definitions.md#harm) · [O](core_05a_accountability_definitions.md#harm) · [E](core_05a_accountability_definitions.md#harm-e) · [C](core_05a_accountability_definitions.md#harm-c)
-- [System Capture](core_05c_continuity_definitions.md#system-capture) · [O](core_05c_continuity_definitions.md#system-capture) · [E](core_05c_continuity_definitions.md#system-capture-e) · [C](core_05c_continuity_definitions.md#system-capture-c)
+- [Dependency](core_05c_continuity_definitions.md#dependency) · [O](core_05c_continuity_definitions.md#dependency) · [A](core_05c_continuity_definitions.md#dependency-a) · [C](core_05c_continuity_definitions.md#dependency-c)
+- [Cascading Failure](core_05c_continuity_definitions.md#cascading-failure) · [O](core_05c_continuity_definitions.md#cascading-failure) · [A](core_05c_continuity_definitions.md#cascading-failure-a) · [C](core_05c_continuity_definitions.md#cascading-failure-c)
+- [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint) · [O](core_05c_continuity_definitions.md#safety-constraint) · [A](core_05c_continuity_definitions.md#safety-constraint-a) · [C](core_05c_continuity_definitions.md#safety-constraint-c)
+- [Reversibility](core_05c_continuity_definitions.md#reversibility-constitutional) · [O](core_05c_continuity_definitions.md#reversibility-constitutional) · [A](core_05c_continuity_definitions.md#reversibility-constitutional-a) · [C](core_05c_continuity_definitions.md#reversibility-constitutional-c)
+- [Harm](core_05a_accountability_definitions.md#harm) · [O](core_05a_accountability_definitions.md#harm) · [A](core_05a_accountability_definitions.md#harm-a) · [C](core_05a_accountability_definitions.md#harm-c)
+- [System Capture](core_05c_continuity_definitions.md#system-capture) · [O](core_05c_continuity_definitions.md#system-capture) · [A](core_05c_continuity_definitions.md#system-capture-a) · [C](core_05c_continuity_definitions.md#system-capture-c)
 
 </details>
 
@@ -777,12 +783,12 @@ This subsection does **not** add an additional slot-assignment criterion beyond 
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Procedural Fairness](core_05p_participation_definitions.md#procedural-fairness-constitutional) · [O](core_05p_participation_definitions.md#procedural-fairness-constitutional) · [E](core_05p_participation_definitions.md#procedural-fairness-constitutional-e) · [C](core_05p_participation_definitions.md#procedural-fairness-constitutional-c)
-- [Contestability](core_05a_accountability_definitions.md#contestability) · [O](core_05a_accountability_definitions.md#contestability) · [E](core_05a_accountability_definitions.md#contestability-e) · [C](core_05a_accountability_definitions.md#contestability-c)
-- [System Capture](core_05c_continuity_definitions.md#system-capture) · [O](core_05c_continuity_definitions.md#system-capture) · [E](core_05c_continuity_definitions.md#system-capture-e) · [C](core_05c_continuity_definitions.md#system-capture-c)
-- [Forum Family, Constitutional](core_05a_accountability_definitions.md#forum-family-constitutional) · [O](core_05a_accountability_definitions.md#forum-family-constitutional) · [E](core_05a_accountability_definitions.md#forum-family-constitutional-e) · [C](core_05a_accountability_definitions.md#forum-family-constitutional-c)
+- [Procedural Fairness](core_05p_participation_definitions.md#procedural-fairness-constitutional) · [O](core_05p_participation_definitions.md#procedural-fairness-constitutional) · [A](core_05p_participation_definitions.md#procedural-fairness-constitutional-a) · [C](core_05p_participation_definitions.md#procedural-fairness-constitutional-c)
+- [Contestability](core_05a_accountability_definitions.md#contestability) · [O](core_05a_accountability_definitions.md#contestability) · [A](core_05a_accountability_definitions.md#contestability-a) · [C](core_05a_accountability_definitions.md#contestability-c)
+- [System Capture](core_05c_continuity_definitions.md#system-capture) · [O](core_05c_continuity_definitions.md#system-capture) · [A](core_05c_continuity_definitions.md#system-capture-a) · [C](core_05c_continuity_definitions.md#system-capture-c)
+- [Forum Family, Constitutional](core_05a_accountability_definitions.md#forum-family-constitutional) · [O](core_05a_accountability_definitions.md#forum-family-constitutional) · [A](core_05a_accountability_definitions.md#forum-family-constitutional-a) · [C](core_05a_accountability_definitions.md#forum-family-constitutional-c)
 
 </details>
 

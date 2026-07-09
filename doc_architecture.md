@@ -29,7 +29,7 @@ Filename renames require: reference audit, same-change link updates, dated evide
 
 **Numbering note:** When a passage says only “Chapter Twelve,” disambiguate by filename — see [README.md](README.md).
 
-**Constitutional owner layers:** canonical positive register — [Chapter Five — Constitutional Owner Layers](core_05i_integrative_definitions.md#constitutional-owner-layers). The table below is the editorial mirror; substantive owner discipline and non-relocation rules live in that Chapter Five entry.
+**Constitutional owner layers:** canonical positive register — [Chapter Five — Constitutional Owner Layers](core_05i_integrative_definitions.md#constitutional-owner-layers). The table below is the editorial mirror; substantive owner discipline and non-relocation rules live in that Chapter Five entry. **Binding owner claims** at chapter openings follow **OWNER-OPENING-01** in **section 4**.
 
 | Layer | Primary home | Routing |
 |--------|--------------|---------|
@@ -64,8 +64,8 @@ Machine-checkable rules: [tools/architecture/rule_registry.json](tools/architect
 
 ### What counts as a definition
 
-- **Hard definitions:** Ch 2–4 (`core_02-04_definition_mechanics.md`); Chapter Five §1–§3 (single-home rule below).
-- **Values language:** Chapter 00 §1 — [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) (**Flourishing** / **Continuity**), and [material stake](core_00_preamble.md#material-stake) at principle layer; Chapter Five O/E/C for Tetrad legs ([Participation](core_05p_participation_definitions.md#participation-constitutional), [Oversight](core_05o_oversight_definitions.md#oversight-constitutional), [Accountability](core_05a_accountability_definitions.md#accountability), [Timeliness](core_05a_accountability_definitions.md#timeliness-constitutional)) and aims ([Flourishing](core_05f_flourishing_aim.md#flourishing-constitutional), [Continuity (Constitutional Aim)](core_05g_continuity_aim.md#continuity-aim-constitutional)); Chapter One develops those aims into operative principles. **Reading arc:** Part A (§§1–5 values and bounded agency) → Part B (§§6–8 interaction, override limits, and interpretation) → Part C (§§9–13 stewardship through systemic evaluation) → **§15 Integrated Application** capstone in Part C. Use **Continuity aim** when linking to Chapter One §11; reserve bare *continuity* for operational uses elsewhere.
+- **Hard definitions:** Ch 2–3 ([`core_02-03_definition_mechanics.md`](core_02-03_definition_mechanics.md)); Ch 4 ([`core_04-04_burden_traceability_verification.md`](core_04-04_burden_traceability_verification.md)); Chapter Five §1–§3 (single-home rule below).
+- **Values language:** Chapter 00 §1 — [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) (**Flourishing** / **Continuity**), and [material stake](core_00_preamble.md#material-stake) at principle layer; Chapter Five O/M/A/C for Tetrad legs ([Participation](core_05p_participation_definitions.md#participation-constitutional), [Oversight](core_05o_oversight_definitions.md#oversight-constitutional), [Accountability](core_05a_accountability_definitions.md#accountability), [Timeliness](core_05a_accountability_definitions.md#timeliness-constitutional)) and aims ([Flourishing](core_05f_flourishing_aim.md#flourishing-constitutional), [Continuity (Constitutional Aim)](core_05g_continuity_aim.md#continuity-aim-constitutional)); Chapter One develops those aims into operative principles. **Reading arc:** Part A (§§1–5 values and bounded agency) → Part B (§§6–8 interaction, override limits, and interpretation) → Part C (§§9–13 stewardship through systemic evaluation) → **§15 Integrated Application** capstone in Part C. Use **Continuity aim** when linking to Chapter One §11; reserve bare *continuity* for operational uses elsewhere.
 - **Measurement frame (Chapter 00 §2):** Eight constitutional measurement categories in [Measurements Overview](core_00_preamble.md#measurements-overview) link directly to their Chapter Five **measurement-family homes** (category column) and to canonical definitions (subcategory column); the family table, constitutional use, and definition routing live on the Chapter Five homes. **Family-home map:** Threshold/scaling and Oversight → [`core_05o`](core_05o_oversight_definitions.md#oversight-measurement-family); Flourishing → [`core_05f`](core_05f_flourishing_aim.md#flourishing-measurement-family); Continuity → [`core_05g`](core_05g_continuity_aim.md#continuity-measurement-family); Participation → [`core_05p`](core_05p_participation_definitions.md#participation-measurement-family); Accountability and Timeliness → [`core_05a`](core_05a_accountability_definitions.md#accountability-measurement-family); Constitutional Performance → [`core_05m`](core_05m_performance_definitions.md#performance-measurement-family). Home-section anchors use the `#…-measurement-family` suffix (skipped as non-leaf routing anchors by `make ch5-measurement-coverage-audit`). **Category-stub removal (2026-07):** the former Chapter Zero §3 *Major Measurement Aspects* stubs and their `#measuring-*` category anchors were removed; the §2 overview links straight to Chapter Five, and Chapter Five definitions no longer back-link to Chapter Zero category anchors. [§3.1 Using Measurements in Governance](core_00_preamble.md#from-measurement-to-evidence-and-remedy) routes measurement → certification (Chapter Seven), standing records (Chapter Eight), remedy (Chapter Nine), forum review (Chapter Eleven). **Standing measurement** (Chapter Eight contribution/violation axis classification) is a *process* concept distinct from **constitutional measurement** categories (Chapter Zero §2), which supply the evidentiary frame for what gets verified before records enter the standing pipeline.
 - **Standing:** Ch 8–9 (**verified** inputs); Ch 11 forums for **allegations**, not standing-record classification inputs.
 - **Rights:** Chapter Six; implementation files **cite** articles.
@@ -78,9 +78,9 @@ Use **CJS** only for cross-implementation interface terms with no stable single-
 
 ### Chapter Five admission gate
 
-Keep constitutional concept + O/E/C boundary only; cite owner homes for institutional machinery. **`make ch5-definitions-gravity-audit`** (blocking).
+Keep constitutional concept + O/M/A/C boundary only; cite owner homes for institutional machinery. **`make ch5-definitions-gravity-audit`** (blocking).
 
-**Band layout (June 2026):** Part A ([`core_05-05_definitions_a_independent.md`](core_05-05_definitions_a_independent.md)) holds the compass, alphabetical directory, and §3.0 joint-invocation meta rules. The [**Flourishing** aim file](core_05f_flourishing_aim.md) holds the canonical O/E/C home and hierarchy map for that constitutional aim. Definition bodies for Tetrad legs live in five constitutional **band** files — **Oversight** [`core_05o_oversight_definitions.md`](core_05o_oversight_definitions.md) (Chapter One §8.2–§3.3), **Participation** [`core_05p_participation_definitions.md`](core_05p_participation_definitions.md) (§3.5–§3.7), **Accountability** [`core_05a_accountability_definitions.md`](core_05a_accountability_definitions.md) (§3.8–Chapter One §8.11), **Continuity** [`core_05c_continuity_definitions.md`](core_05c_continuity_definitions.md) (Chapter One §8.12–Chapter One §8.15), **Integrative** [`core_05i_integrative_definitions.md`](core_05i_integrative_definitions.md) (Chapter One §8.16). Each band file contains §1 Independent, §2 Semi-independent, and §3 Dependent cluster entries assigned to that leg. Leaf definitions that serve **Flourishing** remain in band files; the aim file links the hierarchy only. A sixth cross-cutting file, the **Constitutional Performance** band [`core_05m_performance_definitions.md`](core_05m_performance_definitions.md), is the family-home container for the Constitutional Performance measurement family (instrumental to both aims, not a Tetrad leg); its leaf definitions (Constitutional Efficiency, Avoidable Burden, Productive Capacity, Burden-Reduction Duty) currently keep their canonical homes in the **Continuity** band and relocate only on an express, dated placement decision. Retired Part B/C paths live under [`archive/core_ch5_retired/`](archive/core_ch5_retired/README.md) only.
+**Band layout (June 2026):** Part A ([`core_05-05_definitions_a_independent.md`](core_05-05_definitions_a_independent.md)) holds the compass, alphabetical directory, and §3.0 joint-invocation meta rules. The [**Flourishing** aim file](core_05f_flourishing_aim.md) holds the canonical O/M/A/C home and hierarchy map for that constitutional aim. Definition bodies for Tetrad legs live in five constitutional **band** files — **Oversight** [`core_05o_oversight_definitions.md`](core_05o_oversight_definitions.md) (Chapter One §8.2–§3.3), **Participation** [`core_05p_participation_definitions.md`](core_05p_participation_definitions.md) (§3.5–§3.7), **Accountability** [`core_05a_accountability_definitions.md`](core_05a_accountability_definitions.md) (§3.8–Chapter One §8.11), **Continuity** [`core_05c_continuity_definitions.md`](core_05c_continuity_definitions.md) (Chapter One §8.12–Chapter One §8.15), **Integrative** [`core_05i_integrative_definitions.md`](core_05i_integrative_definitions.md) (Chapter One §8.16). Each band file contains §1 Independent, §2 Semi-independent, and §3 Dependent cluster entries assigned to that leg. Leaf definitions that serve **Flourishing** remain in band files; the aim file links the hierarchy only. A sixth cross-cutting file, the **Constitutional Performance** band [`core_05m_performance_definitions.md`](core_05m_performance_definitions.md), is the family-home container for the Constitutional Performance measurement family (instrumental to both aims, not a Tetrad leg); its leaf definitions (Constitutional Efficiency, Avoidable Burden, Productive Capacity, Burden-Reduction Duty) currently keep their canonical homes in the **Continuity** band and relocate only on an express, dated placement decision. Retired Part B/C paths live under [`archive/core_ch5_retired/`](archive/core_ch5_retired/README.md) only.
 
 ### Editorial rule registry
 
@@ -88,11 +88,12 @@ Keep constitutional concept + O/E/C boundary only; cite owner homes for institut
 |---------|---------|------|
 | NAV-TRACE-08–10 | Trace placement and contents | `make ch9-trace-audit`, `make trace-routing-prose-audit` |
 | NAV-READER-06 | Reader-guidance widget placement | Manual |
-| NAV-DEC-12 | D/E/C widget discipline | `make ch5-dec-widget-audit`, `make nav-widget-spacer-audit` |
-| NAV-DEC-12-ORDER | Trace → D/E/C placement | `make trace-dec-widget-order-audit` |
-| NAV-DEC-12-SPACER | `<br>` after collapsible D/E/C only | `make nav-widget-spacer-audit` |
-| NAV-DEC-CH1-ORDER | Chapter One D/E/C row order | `make ch1-dec-order-audit` |
+| NAV-DAC-12 | D/A/C widget discipline | `make ch5-dac-widget-audit`, `make nav-widget-spacer-audit` |
+| NAV-DAC-12-ORDER | Trace → D/A/C placement | `make trace-dac-widget-order-audit` |
+| NAV-DAC-12-SPACER | `<br>` after collapsible D/A/C only | `make nav-widget-spacer-audit` |
+| NAV-DAC-CH1-ORDER | Chapter One D/A/C row order | `make ch1-dac-order-audit` |
 | NAV-PLACEMENT-01 | File-top Corpus placement widget | `make file-top-placement-audit` |
+| OWNER-OPENING-01 | Binding constitutional-owner opening statement | Manual (see **section 4**) |
 | LINK-IN-PARA-14 | Load-bearing in-paragraph links | `make in-paragraph-link-audit` |
 | CH5-GRAVITY | Chapter Five admission / de-bundling | `make ch5-definitions-gravity-audit` |
 | CH5-ORDER-01 | Chapter Five editorial order | `make ch5-cluster-order-audit`, `make ch5-entry-format-audit`, `make ch5-constitutional-cluster-audit` |
@@ -100,15 +101,15 @@ Keep constitutional concept + O/E/C boundary only; cite owner homes for institut
 | LEX-GUARDRAILS | Vocabulary and capitalization | `make lexical-vocabulary-audit` |
 | GLOSS-SUBARTICLE | Chapter Six `*In plain terms:*` on subarticles | `make subarticle-gloss-audit` |
 | GLOSS-ARTICLE-NEIGHBORS | Chapter Six `*Article neighbors:*` article-intro coordination | editorial pattern in **section 4** |
-| OWNER-SINGLE-HOME | Competing O/E/C gloss heuristics | `make owner-discipline-audit` |
+| OWNER-SINGLE-HOME | Competing O/M/A/C gloss heuristics | `make owner-discipline-audit` |
 | DEF-APPROPRIATENESS | Unified definition placement (core vs CJS-5 vs implementation) | `make definition-appropriateness-audit` (advisory; ledger at `evidence/definition_audit/ledger.json`) |
 | REF-ARTICLES | Article titles and Roman numerals; prose cite gloss per **section 7** | `make reference-audit` |
 | MEAS-ANCHOR | No links to removed Chapter Zero §3 `#measuring-*` category anchors | `make measurement-anchor-audit` |
-| MEAS-DEF-01 | Definition-anchored measurement tiers inform E/C authoring | `make ch5-measurement-tier-audit` and `make ch5-measurement-coverage-audit`; seeds at [tools/architecture/measurement_tier_seeds.json](tools/architecture/measurement_tier_seeds.json); progress at [doc_architecture/generated/measurement_rollout_status.md](doc_architecture/generated/measurement_rollout_status.md) |
+| MEAS-DEF-01 | Definition-anchored measurement tiers inform A/C authoring | `make ch5-measurement-tier-audit` and `make ch5-measurement-coverage-audit`; seeds at [tools/architecture/measurement_tier_seeds.json](tools/architecture/measurement_tier_seeds.json); progress at [doc_architecture/generated/measurement_rollout_status.md](doc_architecture/generated/measurement_rollout_status.md) |
 | CH5-HIER-01 | Definition hierarchy layers, tags, and placement rules | `make hierarchy-map` (generated index) |
 | ROUTER-CJS21 | Cross-implementation routing | `make router-bidirectional-audit` |
 
-Historical D/E/C rollout: [archive/doc_architecture_decision_log/DEC_WIDGET_AND_NAV_DECISIONS_2026-04-16_2026-06-15.md](archive/doc_architecture_decision_log/DEC_WIDGET_AND_NAV_DECISIONS_2026-04-16_2026-06-15.md).
+Historical D/A/C rollout: [archive/doc_architecture_decision_log/DEC_WIDGET_AND_NAV_DECISIONS_2026-04-16_2026-06-15.md](archive/doc_architecture_decision_log/DEC_WIDGET_AND_NAV_DECISIONS_2026-04-16_2026-06-15.md).
 
 ### Reader-guidance placement (NAV-READER-06)
 
@@ -122,40 +123,77 @@ Collapsed **Reader guidance (non-operative)** widgets give readers orientation w
 - Do not leave general reading order, layer routing, architecture maps, or anti-relocation orientation in the middle of operative prose. Move those into opening reader-guidance widgets.
 - Reader-guidance widgets use the standard blue collapsed `<details>` styling and must state that the content is reader guidance only and does not add, remove, or narrow binding obligations.
 
-### D/E/C widget template (NAV-DEC-12)
+### Constitutional owner opening statement (OWNER-OPENING-01)
 
-Collapsed **Definitions · Evaluation · Compliance** widget (same blue `<details>` styling as Trace). Trace carries routing only (`Upstream:`, `Downstream:`, `Read with:`); D/E/C carries Chapter Five O/E/C jump links at the point of invocation.
+Each numbered owner-layer chapter states **who owns what** in one binding operative sentence at the chapter opening — not inside collapsed widgets and not buried in **§1 Purpose and Role**.
+
+**Canonical register:** substantive owner homes and non-relocation discipline live in [Chapter Five — Constitutional Owner Layers](core_05i_integrative_definitions.md#constitutional-owner-layers). The opening sentence is the chapter's positive owner claim; the registry is the cross-chapter index.
+
+**Placement rule (stack order):**
+
+1. `#` chapter title (and optional `*Non-operative subtitle:*`).
+2. File-top **Corpus placement** widget.
+3. Chapter- or part-level **Reader guidance** widget(s), when present.
+4. **Binding owner opening line** — operative prose, visible without expanding widgets.
+5. Optional chapter-specific orientation blocks that are substantive but not widgets (example: [Chapters Eight–Eleven constitutional compass](core_08-08_standing_assessment.md#chapters-eight-eleven-constitutional-compass) in Chapter Eight).
+6. Trace widget, `*In plain terms:*` gloss, and numbered sections — in the order already required by **NAV-TRACE-08–10** and **NAV-DAC-12-ORDER**.
+
+In **multi-chapter** files (`core_02-03`, `core_13-15`), repeat steps 2–5 at each `## CHAPTER …` boundary: that chapter's reader-guidance widget (if any), then its binding owner line, then that chapter's Trace and sections.
+
+**Formula:**
+
+`Chapter <Roman or spelled-out number> is the constitutional owner of **<domain>**.`
+
+- State the **owner domain** only — unqualified. Do **not** append **where material** to the owner claim; materiality triggers belong on evaluation sections inside the chapter.
+- Keep the sentence to one line when possible. Long domain lists may use a short trailing phrase (`including …`) only when the registry row requires it.
+- **Do not** fold layer-discipline routing (`Layer discipline is under …`, `read with Authority Stack`) into the owner line — that belongs in Trace **Read with:** bullets or in layer-scope sections.
+
+**Widget vs operative split:**
+
+- **Corpus placement** and **Reader guidance** widgets may include a non-operative `**Constitutional owner:**` bullet for navigation. That bullet does **not** replace the binding opening line.
+- State the owner claim **once** in operative prose at the chapter opening. Remove duplicate owner sentences from **§1** openings and from layer-scope sections unless the later text adds a **boundary** rule (what the chapter does **not** own), not a second owner claim.
+
+**Split owner layers:** when one registry row spans two files (standing classification **Chapters 08–09**), each file gets its own opening line scoped to what that file owns — classification in Chapter Eight, integration and standing effects in Chapter Nine.
+
+**Examples (reference pattern):** [Chapter Seven](core_07-07_system_alignment_certification.md#chapter-seven-system-alignment-certification) (after Corpus placement); [Chapter Six](core_06-06_rights_part_a.md#chapter-six-foundational-rights) (after reader guidance); [Chapter Ten](core_10-10_misconduct.md#chapter-ten-anti-constitutional-misconduct) (reader guidance moved before the opening line).
+
+### D/A/C widget template (NAV-DAC-12)
+
+Collapsed **Definitions · Assessment · Compliance** widget (same blue `<details>` styling as Trace). Trace carries routing only (`Upstream:`, `Downstream:`, `Read with:`); D/A/C carries Chapter Five O/M/A/C jump links at the point of invocation.
 
 **When to attach**
 
 - Attach where a section **materially invokes** Chapter Five concepts as working terms in its own substantive claims — not roadmap enumeration of terms treated downstream in named sections (*roadmap exclusion*; see archived decision log).
-- **Two or more** invoked concepts → collapsible D/E/C widget.
+- **Two or more** invoked concepts → collapsible D/A/C widget.
 - **Exactly one** invoked concept → single-line inline **`Definition:`** (no collapsible widget).
 
-**Placement under the owning `###`–`#####` unit (NAV-DEC-12-ORDER)**
+**Placement under the owning `###`–`#####` unit (NAV-DAC-12-ORDER)**
 
-1. **With Trace** — D/E/C widget or inline `Definition:` immediately follows Trace `</details>`; only blank lines may intervene. Enforced by `make trace-dec-widget-order-audit` when Trace carries Chapter Five `· [O]` read-with links.
-2. **Without Trace** — D/E/C widget is the **first substantive block under the heading**, before `*In plain terms:*` and operative prose. Legacy `<a id="…"></a>` anchors may follow the widget block (after its closing `</details>` and spacer). Example: Chapter One `#### 5.2 Voluntary Discontinuation and Exit Rights`.
+1. **With Trace** — D/A/C widget or inline `Definition:` immediately follows Trace `</details>`; only blank lines may intervene. Enforced by `make trace-dac-widget-order-audit` when Trace carries Chapter Five `· [O]` read-with links.
+2. **Without Trace** — D/A/C widget is the **first substantive block under the heading**, before `*In plain terms:*` and operative prose. Legacy `<a id="…"></a>` anchors may follow the widget block (after its closing `</details>` and spacer). Example: Chapter One `#### 5.2 Voluntary Discontinuation and Exit Rights`.
 
-**Spacer (NAV-DEC-12-SPACER)**
+**Spacer (NAV-DAC-12-SPACER)**
 
-- Collapsible D/E/C widget: `<br>` after `</details>` before operative prose.
+- Collapsible D/A/C widget: `<br>` after `</details>` before operative prose.
 - Inline `Definition:` line: **no** `<br>` (standard paragraph break only).
 
 **Inside the widget**
 
-- **Row shape (enforced by `make ch5-dec-widget-audit`):** each row is  
+- **Row shape (enforced by `make ch5-dac-widget-audit`):** each row is  
   `- [Name](core_05…#slug) · [O](…) · [E](…) · [C](…)`.
 - **Annotation prose (optional, non-row):** italic-label lines such as `*Scope.*`, `*Definition home.*`, or `*Cluster-head home.*` may appear as plain paragraphs inside the widget before the row list. They are **not** list bullets and must not mimic row shape.
-- **Chapter One row order:** functional reasoning order, not alphabetical — config in [tools/architecture/ch1_dec_order.json](tools/architecture/ch1_dec_order.json); `make ch1-dec-order-audit`.
+- **Chapter One row order:** functional reasoning order, not alphabetical — config in [tools/architecture/ch1_dac_order.json](tools/architecture/ch1_dac_order.json); `make ch1-dac-order-audit`.
 
-**Do not** put `Definitions:` lines inside Trace (2026-04-16 D/E/C split). **Do not** use visible group labels as fake list rows inside D/E/C widgets.
+**Do not** put `Definitions:` lines inside Trace (2026-04-16 D/A/C split). **Do not** use visible group labels as fake list rows inside D/A/C widgets.
 
-### Measurement-informed E/C (MEAS-DEF-01)
+<a id="measurement-informed-ec-meas-def-01"></a>
+### Measurement-informed A/C (MEAS-DEF-01)
 
-Chapter Zero [§2](../core_00_preamble.md#measurements-overview) names constitutional **measurement categories** and **families** — plain questions that orient review. On canonical Chapter Five definition homes these surface as an explicit **Measurement (M)** register that is **interwoven with Evaluative (E)** assessment inside the evaluation region — the **O/M/E/C** entry model. M carries measurement routing (which measure applies at each tier); E carries the matching assessment duty; C still carries what must hold in practice.
+*Component-letter note (2026-07): the Assessment component was formerly labelled **Evaluative (E)** with `#{term}-e` anchors; it is now **Assessment (A)** with `#{term}-a` anchors, so the entry model reads **O/M/A/C**. The legacy `measurement-informed-ec-meas-def-01` section anchor above is preserved for stable inbound links.*
 
-To keep the model legible for non-specialist readers, migrated definition homes present O/M/E/C through **reader-facing guidepost headers** rather than bare letter markers: **What it is** (O), **How to measure and assess** (M interwoven with E), and **What must hold** (C), optionally opened by an italic `*In plain terms: …*` one-line gloss. Every sub-bullet uses a single **bold run-in label ending with a colon** followed by regular prose, for consistency and scannability: `**In scope:**` / `**Out of scope:**` under **What it is**; `**Primary measure:**` on the tier bullet with `**Primary assessment:**` on an unbulleted continuation line directly beneath (and likewise `**Secondary …**` / `**Tertiary …**`, in tier order, omitting tiers not present) under **How to measure and assess**; and `**Primary failure:**` / `**Secondary failure:**` / `**Tertiary failure:**` under **What must hold**. The `#{term}-e` and `#{term}-c` anchors are preserved immediately above the measure/assess and must-hold headers, so Chapter Two's O/E/C structure and every cross-file `#{term}-e` / `#{term}-c` link remain intact behind the friendlier labels.
+Chapter Zero [§2](../core_00_preamble.md#measurements-overview) names constitutional **measurement categories** and **families** — plain questions that orient review. On canonical Chapter Five definition homes these surface as an explicit **Measurement (M)** register that is **interwoven with Assessment (A)** inside the assessment region — the **O/M/A/C** entry model. M carries measurement routing (which measure applies at each tier); A carries the matching assessment duty; C still carries what must hold in practice.
+
+To keep the model legible for non-specialist readers, migrated definition homes present O/M/A/C through **reader-facing guidepost headers** rather than bare letter markers: **What it is** (O), **How to measure and assess** (M interwoven with A), and **What must hold** (C), optionally opened by an italic `*In plain terms: …*` one-line gloss. Every sub-bullet uses a single **bold run-in label ending with a colon** followed by regular prose, for consistency and scannability: `**In scope:**` / `**Out of scope:**` under **What it is**, with optional `**Depends on:**` for constitutive prerequisites (see [Chapter Two §1.1](../core_02-03_definition_mechanics.md#11-ontological-components-o--what-it-is)); `**Primary measure:**` on the tier bullet with `**Primary assessment:**` on an unbulleted continuation line directly beneath (and likewise `**Secondary …**` / `**Tertiary …**`, in tier order, omitting tiers not present) under **How to measure and assess**; and `**Primary failure:**` / `**Secondary failure:**` / `**Tertiary failure:**` under **What must hold**. The `#{term}-a` and `#{term}-c` anchors are preserved immediately above the measure/assess and must-hold headers, so Chapter Two's O/M/A/C structure and every cross-file `#{term}-a` / `#{term}-c` link remain intact behind the friendlier labels.
 
 **Design intent**
 
@@ -167,7 +205,7 @@ To keep the model legible for non-specialist readers, migrated definition homes 
 
 | Component | Measurement role |
 |-----------|------------------|
-| **O** (*What it is*) | What the term is — mandatory `**In scope:**` / `**Out of scope:**` sub-bullets carry the concept and boundaries (consolidated or dimensional). Do not duplicate the concept across the header and In scope; do not encode metrics, proxies, or assessment procedures in O. |
+| **O** (*What it is*) | What the term is — mandatory `**In scope:**` / `**Out of scope:**` sub-bullets carry the concept and boundaries (consolidated or dimensional). Optional `**Depends on:**` lists constitutively required canonical definitions (bounds, floors, alignment targets); omit when dependencies are the phenomenon named in **In scope** (for example reliance relationships under [Dependency](core_05c_continuity_definitions.md#dependency)) or when the linked term is the definitional subject rather than a prerequisite (for example [Material Impact](core_05o_oversight_definitions.md#material-impact) under [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination)). `**Depends on:**` carries only *upstream* prerequisites and must not duplicate the joint-invocation rules under [Chapter Five §3.0.1](core_05-05_definitions_a_independent.md#joint-invocation-and-satisfaction) or co-measures under **How to measure and assess**; inverse relationships (downstream consumers via `Downstream:`, the parent group via `Cluster component:`, and a head's `Cluster members (family routing):`) live in the Trace block. Do not duplicate the concept across the header and In scope; do not encode metrics, proxies, assessment co-measures, or Trace routing in O. |
 | **M** (in *How to measure and assess*) | Which measure applies at each tier — Ch00 category routing and Chapter Five co-measure links, stated on the `**Primary measure:**` (etc.) label. Interwoven with E; not a pass/fail outcome. |
 | **E** (in *How to measure and assess*) | How the term must be assessed — the `**Primary assessment:**` (etc.) label paired with each tier's measure (primary trace, secondary co-measures, tertiary integrity checks). E specifies assessment scope and conditions; it does not prescribe pass/fail outcomes. |
 | **C** (*What must hold*) | What must hold in practice — observable satisfaction and failure modes, stated on `**Primary failure:**` (etc.) labels aligned to primary, secondary, and tertiary measurement duties. |
@@ -182,15 +220,15 @@ To keep the model legible for non-specialist readers, migrated definition homes 
 
 Not every definition requires all three tiers. Independent building blocks may declare **primary only**. Cluster heads may carry family-level tiers; leaf entries inherit unless they state a narrower or broader boundary.
 
-**Entry placement** (Chapter Five leaf definition, guidepost O/M/E/C model)
+**Entry placement** (Chapter Five leaf definition, guidepost O/M/A/C model)
 
-1. Trace `</details>` → `<br>` (existing NAV-DEC-12-SPACER discipline where applicable).
+1. Trace `</details>` → `<br>` (existing NAV-DAC-12-SPACER discipline where applicable).
 2. **Plain-terms lead** (optional) — a single italic `*In plain terms: …*` sentence giving a non-specialist the gist before the structured components.
-3. **O** — `- **What it is**` header; the concept and boundaries live in mandatory In scope / Out of scope sub-bullets (at least one In scope, consolidated `- **In scope:**` or dimensional `- **In scope — {dimension}:**`, and one `- **Out of scope:**`). No duplication of the concept on the header line.
-4. **M/E interwoven** — `<a id="{term}-e"></a>` then a `- **How to measure and assess**` header; under it, one bullet per tier with the measure on the tier bullet and the assessment on an unbulleted continuation line beneath it — `- **Primary measure:** …` then (indented four spaces) `**Primary assessment:** …`, then `- **Secondary measure:** …`, then `- **Tertiary measure:** …` (each with its paired `**{Tier} assessment:**` line; omit tiers not present). No `*Measurements:*` header and no bare `- E:` marker. Link Ch00 category anchors and Chapter Five co-measure terms on the `**{Tier} measure:**` label.
+3. **O** — `- **What it is**` header; the concept and boundaries live in mandatory In scope / Out of scope sub-bullets (at least one In scope, consolidated `- **In scope:**` or dimensional `- **In scope — {dimension}:**`, and one `- **Out of scope:**`). Optional `- **Depends on:**` when constitutive prerequisites should be separated from the core concept ([Chapter Two §1.1](../core_02-03_definition_mechanics.md#11-ontological-components-o--what-it-is)). No duplication of the concept on the header line.
+4. **M/A interwoven** — `<a id="{term}-a"></a>` then a `- **How to measure and assess**` header; under it, one bullet per tier with the measure on the tier bullet and the assessment on an unbulleted continuation line beneath it — `- **Primary measure:** …` then (indented four spaces) `**Primary assessment:** …`, then `- **Secondary measure:** …`, then `- **Tertiary measure:** …` (each with its paired `**{Tier} assessment:**` line; omit tiers not present). No `*Measurements:*` header and no bare `- A:` marker. Link Ch00 category anchors and Chapter Five co-measure terms on the `**{Tier} measure:**` label.
 5. **C** — `<a id="{term}-c"></a>` then a `- **What must hold**` header; satisfaction rule (where applicable) plus tier-aligned failure modes using `**Primary failure:**`, `**Secondary failure:**`, and `**Tertiary failure:**` sublabels when multiple tiers apply.
 
-**Guidepost O/M/E/C rollout** (2026-07): the reader-facing guidepost headers (**What it is** / **How to measure and assess** / **What must hold**), bold run-in sublabels (`**Primary measure:**` / `**Primary assessment:**` / `**Primary failure:**`, etc.), and `#{term}-e` / `#{term}-c` anchor placement are now the **corpus norm** on ~165 migrated leaf definitions across the Chapter Five band files. A remainder (~55 entries) still uses the legacy `*Measurements:*`-block or letter-marker placement — mostly cluster heads, multi-part Incentive Alignment children, inline E/C blocks with heterogeneous sub-lists, and O-line/In-scope divergences that require manual conversion. The tier, coverage, o-scope, single-definition, and DEC-widget audits accept **both** forms during the transition; `tools/apply_measurements_to_e_migration.py` automates the standard shapes and skips irregular entries for hand review. Plain-terms lead lines (`*In plain terms: …*`) remain optional and are being added in a separate pass.
+**Guidepost O/M/A/C rollout** (2026-07): the reader-facing guidepost headers (**What it is** / **How to measure and assess** / **What must hold**), bold run-in sublabels (`**Primary measure:**` / `**Primary assessment:**` / `**Primary failure:**`, etc.), and `#{term}-a` / `#{term}-c` anchor placement are now the **corpus norm** on ~165 migrated leaf definitions across the Chapter Five band files. A remainder (~55 entries) still uses the legacy `*Measurements:*`-block or letter-marker placement — mostly cluster heads, multi-part Incentive Alignment children, inline A/C blocks with heterogeneous sub-lists, and O-line/In-scope divergences that require manual conversion. The tier, coverage, o-scope, single-definition, and DEC-widget audits accept **both** forms during the transition; `tools/apply_measurements_to_e_migration.py` automates the standard shapes and skips irregular entries for hand review. Plain-terms lead lines (`*In plain terms: …*`) remain optional and are being added in a separate pass.
 
 **Family vs definition**
 
@@ -200,6 +238,8 @@ Not every definition requires all three tiers. Independent building blocks may d
 **Distinct from standing measurement.** [Chapter Eight](../core_08-08_standing_assessment.md) contribution/violation axis classification is a *process* concept. Constitutional measurement categories (Chapter Zero §2) supply the evidentiary frame for what gets verified before records enter the standing pipeline — see **section 4** measurement frame bullet.
 
 **Pilot exemplar:** [Wellbeing](core_05c_continuity_definitions.md#wellbeing) — primary Flourishing outcome measure with secondary harm/risk/agency co-measures and tertiary [Proxy Divergence](core_05o_oversight_definitions.md#proxy-divergence) discipline.
+
+**Depends on pilot (2026-07):** optional `**Depends on:**` under **What it is** — [Self-Healing](core_05c_continuity_definitions.md#self-healing-constitutional) (guidepost O split), [Incentive Alignment](core_05i_integrative_definitions.md#incentive-alignment) (baseline child), [Flourishing](core_05f_flourishing_aim.md#flourishing-constitutional) (aim head), [Use of Force](core_05a_accountability_definitions.md#use-of-force-constitutional), [Innovation Reward and Anti-Enclosure](core_05i_integrative_definitions.md#innovation-reward-and-anti-enclosure), [Constitutional Constraint](core_05i_integrative_definitions.md#constitutional-constraint), [System Alignment Certification](core_05c_continuity_definitions.md#system-alignment-certification-constitutional), [Autonomous Lethal System](core_05a_accountability_definitions.md#autonomous-lethal-system-constitutional), [Weapons of Mass Harm](core_05a_accountability_definitions.md#weapons-of-mass-harm-constitutional), [Combatant / Non-Combatant Distinction](core_05a_accountability_definitions.md#combatant-non-combatant-distinction-constitutional), [Autonomous Coercion Tool](core_05a_accountability_definitions.md#autonomous-coercion-tool-constitutional), [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint), [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint) (paired non-negotiable bounds), [Emergency and Contingency](core_05c_continuity_definitions.md#emergency-and-contingency-constitutional) (cluster head). See [Chapter Two §1.1](../core_02-03_definition_mechanics.md#11-ontological-components-o--what-it-is).
 
 **Rollout** (Waves 1–9 approved; machine-gated for approved seeds)
 
@@ -213,16 +253,16 @@ Not every definition requires all three tiers. Independent building blocks may d
 
 ### Definition hierarchy (CH5-HIER-01)
 
-Chapter Five organizes **226+ canonical definitions** across principle layer, constitutional **aim heads**, Tetrad **band files**, taxonomy (independent / semi-independent / dependent), clusters, and leaf O/E/C entries. Partial maps already exist (compass, measurement crosswalk, alphabetical directory, full cluster map); this rule pins the **layer model** and the **generated hierarchy index** that unifies them.
+Chapter Five organizes **226+ canonical definitions** across principle layer, constitutional **aim heads**, Tetrad **band files**, taxonomy (independent / semi-independent / dependent), clusters, and leaf O/M/A/C entries. Partial maps already exist (compass, measurement crosswalk, alphabetical directory, full cluster map); this rule pins the **layer model** and the **generated hierarchy index** that unifies them.
 
 **Layer stack** (top → bottom)
 
 1. **Principle layer** — [Chapter 00 §1](../core_00_preamble.md#the-model): [Constitutional Tetrad](../core_00_preamble.md#constitutional-tetrad), [Two Constitutional Aims](../core_00_preamble.md#two-constitutional-aims), [material stake](../core_00_preamble.md#material-stake).
-2. **Aim heads** — dedicated aim files hold canonical O/E/C for each constitutional aim plus decomposition routing only: [Flourishing aim](core_05f_flourishing_aim.md), [Continuity aim](core_05g_continuity_aim.md).
+2. **Aim heads** — dedicated aim files hold canonical O/M/A/C for each constitutional aim plus decomposition routing only: [Flourishing aim](core_05f_flourishing_aim.md), [Continuity aim](core_05g_continuity_aim.md).
 3. **Tetrad band files** — substantive owner files: [Oversight](core_05o_oversight_definitions.md), [Participation](core_05p_participation_definitions.md), [Accountability](core_05a_accountability_definitions.md), [Continuity band](core_05c_continuity_definitions.md), [Integrative](core_05i_integrative_definitions.md). **Timeliness** co-lives in the Accountability band.
 4. **Taxonomy** — within each band: Independent → Semi-independent → Dependent clusters (Chapter Five §1–§3).
 5. **Clusters** — numbered §3.x / Chapter One §8.x dependent clusters and semi-independent topic groups (`**Cluster context:**` heads).
-6. **Leaf definitions** — canonical `####` O/E/C entries (one visible label per term).
+6. **Leaf definitions** — canonical `####` O/M/A/C entries (one visible label per term).
 
 **Orthogonal tags** (per term in [generated hierarchy index](doc_architecture/generated/definition_hierarchy.md))
 
@@ -239,7 +279,7 @@ Chapter Five organizes **226+ canonical definitions** across principle layer, co
 **Placement rules**
 
 - **File home** = substantive owner (band file). Split placement is normal: a term may measure **Flourishing** while living in the **Continuity** band (example: [Wellbeing](core_05c_continuity_definitions.md#wellbeing) — `outcome_measure` under **Flourishing**, not a constituent).
-- **Aim files** route only — O/E/C for the aim head, decomposition links, measurement-family index (link-only). Never duplicate leaf O/E/C bodies in aim files.
+- **Aim files** route only — O/M/A/C for the aim head, decomposition links, measurement-family index (link-only). Never duplicate leaf O/M/A/C bodies in aim files.
 - **Constituents vs outcome measures** — constituents are named in [Chapter 00 §1](../core_00_preamble.md#two-constitutional-aims) for each aim (Flourishing: truth, safety, trustworthiness, meaningful agency). Outcome measures (for example **Wellbeing**) track whether the aim is achieved; they are linked from aim decomposition but defined in band files.
 - **Searchability** — use [definition_hierarchy.md](doc_architecture/generated/definition_hierarchy.md) and [definition_registry.json](ai_corpus/indexes/definition_registry.json); do not relocate binding text into aim files for editor search convenience.
 
@@ -268,7 +308,7 @@ When no aims/tetrad block exists, place `*Article neighbors:*` after the article
 - Certification, challenge, interpretive-hub, or info-sphere articles must be read together without substitution.
 - Article placement or sequencing materially affects how neighboring floors apply.
 
-**Do not** use `*Article neighbors:*` for operative rights bullets, Trace contents, D/E/C widget rows, or implementation-owner routing to `corpus_systems` / `corpus_institutions` unless that routing is expressed as article-to-article coordination for readers.
+**Do not** use `*Article neighbors:*` for operative rights bullets, Trace contents, D/A/C widget rows, or implementation-owner routing to `corpus_systems` / `corpus_institutions` unless that routing is expressed as article-to-article coordination for readers.
 
 ### File-top placement template (NAV-PLACEMENT-01)
 
@@ -279,11 +319,11 @@ One collapsed **Corpus placement** widget per audited file top. Summary label: *
 - `#` title. For single-chapter core files this is the chapter/part heading itself (e.g. `# CHAPTER 00: PREAMBLE / FOUNDATIONAL REQUIREMENTS`, `# CHAPTER SIX: FOUNDATIONAL RIGHTS`); the former redundant short-label `#` title above it has been retired. Multi-chapter core files (`core_02-04`, `core_13-15`) use a `# CHAPTERS …–…:` umbrella title above their several `## CHAPTER …` headings, and Chapter Five band/aim files keep their descriptive `#` band title.
 - Optional `<a id="chapter-…"></a>` anchors immediately above the `#` title carry the chapter/part anchors; an optional `*Non-operative subtitle:*` line may sit directly beneath the title.
 - On implementation `*_00_registry_and_reading_rules.md` files only: one-line `*In plain terms:*` front-door gloss.
-- The placement widget, then any file- or part-level reader-guidance widget, then `<br>` before operative prose. No `---` rule sits between the title and the widgets.
+- The placement widget, then any file- or part-level reader-guidance widget, then the **binding constitutional-owner opening line** when the file is an owner-layer chapter (see **OWNER-OPENING-01**), then `<br>` before Trace, `*In plain terms:*`, or other operative prose. No `---` rule sits between the title and the widgets.
 
 **Inside the placement widget (non-operative):**
 
-- `core_*` — binding-together notice, which chapter/part/band the file holds, README reading-order pointer, and file-sequence navigation (**Next**, **Upstream**, **Previous**) when present.
+- `core_*` — binding-together notice, which chapter/part/band the file holds, README reading-order pointer, and file-sequence navigation (**Next**, **Upstream**, **Previous**) when present. A non-operative `**Constitutional owner:**` navigation bullet may appear here or in reader guidance; the **binding** owner claim still appears as operative prose immediately after those widgets (**OWNER-OPENING-01**).
 - `*_00_registry` — edition and effective date, core vs implementation status, four-layer map (**CJS** / **CS** / **CI** / **CF**), navigation wrapper link, **CJS-1.2** pointer, and routing-anchor indexes previously split across multiple reader-guidance widgets.
 
 **Do not keep visible at file top:** **Application baseline**, upstream inheritance boilerplate, or pipeline routing that duplicates the Corpus placement widget, chapter reader-guidance widgets, or [README.md](README.md). Chapter-specific scope boundaries and anti-substitution notes belong in the Corpus placement widget (file-level) or in chapter reader-guidance widgets (chapter-level within multi-chapter files).
@@ -364,7 +404,7 @@ Examples: `**Article XV-C** (*Verification Accessibility*)`; `**Article XXIV-C**
 - **{title}** — text after the first colon in the owning heading in `core_06-06_rights_part_*.md` (`### Article III: …` or `#### Article III-A: …`). Do not repeat the word *Article* inside the parentheses.
 - **Combined labels** (`**Article VII-A / VII-B**`): gloss each part, separated by `/`: `(*Self-Ownership of Body and Mind* / *Internal-State Boundary and Type-N Protection*)`.
 - **Markdown links:** put the gloss on the same mention, after the link: `[Article XII-B](core_06-06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress) (*Right to Challenge, Review, and Redress*)`.
-- **First mention in a section** (or in a collapsed Trace / D/E/C widget) should include the gloss when the cite is load-bearing. Later mentions in the same `###`–`#####` unit may use the bare label if the reader is already oriented.
+- **First mention in a section** (or in a collapsed Trace / D/A/C widget) should include the gloss when the cite is load-bearing. Later mentions in the same `###`–`#####` unit may use the bare label if the reader is already oriented.
 - **Headings** (`### Article …`, `#### Article …-…`) already carry the title; do not duplicate the gloss there.
 - **Dense routing lists** may omit the gloss only when every entry is a self-explanatory chapter name (for example **Chapter Seven**) or when the same block already states each title on the same line.
 
