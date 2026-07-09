@@ -311,12 +311,12 @@ def main() -> int:
 
     s65 = slice_between(
         ch4_text,
-        "#### 3.16 Mandatory traceability properties",
-        "### 4. Observability of Traceability Requirement",
+        "#### 2.2 Mandatory traceability properties",
+        "### 3. Observability of Traceability Requirement",
     )
     if s65 is None:
         findings.append(
-            "Could not slice Chapter Four §3.16 (missing heading or section 4 boundary)"
+            "Could not slice Chapter Four §2.2 (missing heading or section 3 boundary)"
         )
     else:
         findings.extend(
