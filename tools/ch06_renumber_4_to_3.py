@@ -60,23 +60,23 @@ CROSS_FILE = [
     ("do not replace **section 4.3** severity typing", "do not replace **section 3.4** severity typing"),
     ("(*sections **1–4**, including", "(*sections **1–3**, including"),
     ("Chapter Eight **Chapter One §8.1**", "Chapter Eight **Chapter One §8.2**"),
-    ("Chapter Eight **§3.3**", "Chapter Eight **§3.4**"),
+    ("Chapter Eight **§11.3**", "Chapter Eight **§3.4**"),
     ("Chapter Eight **§Chapter One §8.2–4.3**", "Chapter Eight **§§3.3–3.4**"),
-    ("Chapter Eight **§3.5** and **§3.3**", "Chapter Eight **§14.3.2** and **§3.4**"),
+    ("Chapter Eight **§3.5** and **§11.3**", "Chapter Eight **§14.3.2** and **§3.4**"),
     (
-        "Chapter Eight **§3.5** and violation classification rules are in Chapter Eight **§3.3**",
+        "Chapter Eight **§3.5** and violation classification rules are in Chapter Eight **§11.3**",
         "Chapter Eight **§14.3.2** and violation classification rules are in Chapter Eight **§3.4**",
     ),
     (
-        "canonical Axis II classification rules are in Chapter Eight **§3.3** and **§5**",
-        "canonical Axis II classification rules are in Chapter Eight **§3.4** and [Chapter Nine **§5**](core_09-09_standing_integration.md#8-enforcement-realism-anchors)",
+        "canonical Axis II classification rules are in Chapter Eight **§11.3** and **§4**",
+        "canonical Axis II classification rules are in Chapter Eight **§3.4** and [Chapter Nine **§4**](core_09-09_standing_integration.md#8-enforcement-realism-anchors)",
     ),
     (
         "[Chapter One §8.1](core_08-08_standing_assessment.md#42-primary-category-defaults-and-lequ-slot-baseline)",
-        "[§3.3](core_08-08_standing_assessment.md#33-primary-category-defaults-and-lequ-slot-baseline)",
+        "[§11.3](core_08-08_standing_assessment.md#33-primary-category-defaults-and-lequ-slot-baseline)",
     ),
     (
-        "[§3.3](core_08-08_standing_assessment.md#43-violation-axis-rules-violation-nature-adverse-findings-and-severity)",
+        "[§11.3](core_08-08_standing_assessment.md#43-violation-axis-rules-violation-nature-adverse-findings-and-severity)",
         "[§3.4](core_08-08_standing_assessment.md#34-violation-axis-rules-violation-nature-adverse-findings-and-severity)",
     ),
     (
@@ -92,7 +92,7 @@ CROSS_FILE = [
         "verified violation assessment from **Chapter Eight section 3.3** into **standing locks**",
     ),
     (
-        "It supplements the primary Violation Axis ladder in **[§3.3](core_08-08_standing_assessment.md#43-violation-axis-rules-violation-nature-adverse-findings-and-severity)**. It does not replace the **section 4.3** severity ladder, **section 4.2**,",
+        "It supplements the primary Violation Axis ladder in **[§11.3](core_08-08_standing_assessment.md#43-violation-axis-rules-violation-nature-adverse-findings-and-severity)**. It does not replace the **section 4.3** severity ladder, **section 4.2**,",
         "It supplements the primary Violation Axis ladder in **[§3.4](core_08-08_standing_assessment.md#34-violation-axis-rules-violation-nature-adverse-findings-and-severity)**. It does not replace the **Chapter Eight section 3.4** severity ladder, **Chapter Eight section 3.3**,",
     ),
     (
@@ -114,7 +114,7 @@ CH06_PROSE = [
     ("Chapter One §8.1", "Chapter One §8.2"),
     ("Chapter One §8.2", "§3.3"),
     ("§3.3", "§3.4"),
-    ("[§4](#3-primary-axis-categories-slot-grammar-and-defaults)", "[§3](#3-primary-axis-categories-slot-grammar-and-defaults)"),
+    ("[§2](#3-primary-axis-categories-slot-grammar-and-defaults)", "[§11](#3-primary-axis-categories-slot-grammar-and-defaults)"),
     ("section 4.0", "section 3.1"),
     ("section 4.1", "section 3.2"),
     ("section 4.2", "section 3.3"),

@@ -18,11 +18,16 @@ def load_json(name: str) -> Any:
     return json.loads(path.read_text(encoding="utf-8"))
 
 
-def ch1_dec_order_expected() -> dict[str, list[str]]:
-    data = load_json("ch1_dec_order.json")
+def ch1_dac_order_expected() -> dict[str, list[str]]:
+    data = load_json("ch1_dac_order.json")
     if not isinstance(data, dict):
-        raise ValueError("ch1_dec_order.json must be a heading -> row list mapping")
+        raise ValueError("ch1_dac_order.json must be a heading -> row list mapping")
     return {str(k): list(v) for k, v in data.items()}
+
+
+def ch1_dec_order_expected() -> dict[str, list[str]]:
+    """Deprecated alias for ``ch1_dac_order_expected``."""
+    return ch1_dac_order_expected()
 
 
 def rule_registry() -> list[dict[str, Any]]:

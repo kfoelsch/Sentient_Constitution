@@ -51,7 +51,7 @@ MARKET_STRUCTURE_INTRO = """<a id="9-market-structure"></a>
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
 - [Market Structure](core_05a_accountability_definitions.md#market-structure-constitutional) · [O](core_05a_accountability_definitions.md#market-structure-constitutional) · [E](core_05a_accountability_definitions.md#market-structure-constitutional-e) · [C](core_05a_accountability_definitions.md#market-structure-constitutional-c)
 - [Concentration Threshold](core_05a_accountability_definitions.md#concentration-threshold-constitutional) · [O](core_05a_accountability_definitions.md#concentration-threshold-constitutional) · [E](core_05a_accountability_definitions.md#concentration-threshold-constitutional-e) · [C](core_05a_accountability_definitions.md#concentration-threshold-constitutional-c)
@@ -68,7 +68,7 @@ MARKET_STRUCTURE_INTRO = """<a id="9-market-structure"></a>
 
 **Market structure** governs how sentients and shared systems experience contestable participation in productive life — not only commercial exchange, but also platforms, labor-demand markets, supplier and resource-control systems, credentialing pathways, capital-access channels, and information-sphere gatekeeping where dependency is material.
 
-Productive-capacity and constitutional-efficiency claims under **§8** fail where market structure permits concentration, domination, or consolidation that predictably degrades wellbeing, meaningful agency, dignity, ecological integrity, or constitutional review.
+Productive-capacity and constitutional-efficiency claims under **§14** fail where market structure permits concentration, domination, or consolidation that predictably degrades wellbeing, meaningful agency, dignity, ecological integrity, or constitutional review.
 
 This section advances the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — **Flourishing** through fair access to livelihood and innovation, and **Continuity** through durable, contestable systems — and carries the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) where concentration or domination defeats voice, scrutiny, answerability, or timely correction, scaled to [material stake](core_00_preamble.md#material-stake).
 
@@ -139,18 +139,18 @@ def split_part_b(text: str) -> str:
     market_block = market_block.replace("##### 8.5.2 ", "##### 9.3.2 ")
 
     # Internal §8 refs inside market block → §9
-    market_block = re.sub(r"\*\*§8\*\*", "**§9**", market_block)
-    market_block = market_block.replace("**§8.3**", "**§14.1**")
+    market_block = re.sub(r"\*\*§8\*\*", "**§13**", market_block)
+    market_block = market_block.replace("**§14.3**", "**§14.1**")
     market_block = market_block.replace("**§8.4**", "**§14.2**")
     market_block = market_block.replace("**§8.5**", "**§14.3**")
     market_block = market_block.replace("[§8.4.2 Proxy-Divergence Invalidation](#842-proxy-divergence-invalidation)", "[Chapter One §6.4.2 Proxy-Divergence Invalidation](#642-proxy-divergence-invalidation)")
-    market_block = market_block.replace("above the **§8** floor", "above the **§9** floor")
-    market_block = market_block.replace("the **§8** non-concentration discipline", "the **§9** non-concentration discipline")
-    market_block = market_block.replace("The non-concentration discipline in **§8**", "The non-concentration discipline in **§9**")
-    market_block = market_block.replace("non-concentration discipline in **§8**", "non-concentration discipline in **§9**")
-    market_block = market_block.replace("nullify the **§8** floor, the **§8.3** threshold mechanism, or **§8.4** anti-domination discipline", "nullify the **§9** floor, the **§14.1** threshold mechanism, or **§14.2** anti-domination discipline")
-    market_block = market_block.replace("under the **§8** non-concentration discipline and **§8.4** anti-domination rules", "under the **§9** non-concentration discipline and **§14.2** anti-domination rules")
-    market_block = market_block.replace("the **§8.3** threshold mechanism, or **§8.4** anti-domination discipline", "the **§14.1** threshold mechanism, or **§14.2** anti-domination discipline")
+    market_block = market_block.replace("above the **§14** floor", "above the **§13** floor")
+    market_block = market_block.replace("the **§14** non-concentration discipline", "the **§13** non-concentration discipline")
+    market_block = market_block.replace("The non-concentration discipline in **§14**", "The non-concentration discipline in **§13**")
+    market_block = market_block.replace("non-concentration discipline in **§14**", "non-concentration discipline in **§13**")
+    market_block = market_block.replace("nullify the **§14** floor, the **§14.3** threshold mechanism, or **§8.4** anti-domination discipline", "nullify the **§13** floor, the **§14.1** threshold mechanism, or **§14.2** anti-domination discipline")
+    market_block = market_block.replace("under the **§14** non-concentration discipline and **§8.4** anti-domination rules", "under the **§13** non-concentration discipline and **§14.2** anti-domination rules")
+    market_block = market_block.replace("the **§14.3** threshold mechanism, or **§8.4** anti-domination discipline", "the **§14.1** threshold mechanism, or **§14.2** anti-domination discipline")
     market_block = market_block.replace("does not narrow Article III-D, Article IV, Article XIX, **§8.5**, or Chapter Ten", "does not narrow Article III-D, Article IV, Article XIX, **§14.3**, or Chapter Ten")
 
     # Update anchors in market block
@@ -438,7 +438,7 @@ def migrate_corpus_file(path: Path, content: str) -> str:
         ("Chapter One §6 non-concentration", "Chapter One §14 non-concentration"),
         ("Chapter One §11.4", "Chapter One §14.2"),
         ("Chapter One §6.5", "Chapter One §14.3"),
-        ("**§6** non-concentration", "**§9** non-concentration"),
+        ("**§5** non-concentration", "**§13** non-concentration"),
         ("**§11.4**", "**§14.2**"),
         ("**§6.5**", "**§14.3**"),
     ]

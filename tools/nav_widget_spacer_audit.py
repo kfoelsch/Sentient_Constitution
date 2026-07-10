@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
-"""Audit <br> spacer discipline after Trace, D/E/C, reader-guidance, and placement widgets.
+"""Audit <br> spacer discipline after Trace, D/A/C, reader-guidance, and placement widgets.
 
-Rule: NAV-DEC-12-SPACER in tools/architecture/rule_registry.json.
+Rule: NAV-DAC-12-SPACER in tools/architecture/rule_registry.json.
 """
 
 from __future__ import annotations
@@ -15,7 +15,7 @@ ROOT = Path(__file__).resolve().parents[1]
 
 TRACE_SUMMARY = '<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>'
 DEC_SUMMARY = (
-    '<summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>'
+    '<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>'
 )
 READER_GUIDANCE_RE = re.compile(
     r'<summary><strong><span style="color: #2563eb;">Reader guidance \(non-operative\):'

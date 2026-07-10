@@ -27,9 +27,9 @@ Validation and review rigor must scale with **CS-4 — System classification and
 
 **Class C:** Documented alternatives analysis and defined review cadence proportionate to impact and dependency.
 
-**Class L:** Simplified validation records are permitted where effects remain bounded and local under **CS-4** Class L. Whole-system evaluation under **Chapter Seven §1A** remains mandatory but proportionate, including lower default periodic cadence unless material change requires earlier re-evaluation.
+**Class L:** Simplified validation records are permitted where effects remain bounded and local under **CS-4** Class L. Whole-system evaluation under **Chapter Seven §3** remains mandatory but proportionate, including lower default periodic cadence unless material change requires earlier re-evaluation.
 
-**Class P:** Simplified validation records and informal self-assessment are permitted while validly **Class P**. **Chapter Seven §1A** evaluation is encouraged unless reclassification or a voluntary constitutional-compliance claim makes it mandatory.
+**Class P:** Simplified validation records and informal self-assessment are permitted while validly **Class P**. **Chapter Seven §3** evaluation is encouraged unless reclassification or a voluntary constitutional-compliance claim makes it mandatory.
 
 Where material external effects emerge, obligations escalate to the stricter applicable class profile.
 
@@ -106,9 +106,9 @@ That package should ordinarily include the full artifact set described in `imple
 
 Class C systems should use the subset of those templates materially relevant to model use, deployment risk, dependency, and incident profile.
 
-**Class L (bounded local profile):** Concise evidence checklist and lightweight records are permitted while **Class L** conditions hold. Whole-system evaluation under **Chapter Seven §1A** remains mandatory but proportionate.
+**Class L (bounded local profile):** Concise evidence checklist and lightweight records are permitted while **Class L** conditions hold. Whole-system evaluation under **Chapter Seven §3** remains mandatory but proportionate.
 
-**Class P (private profile):** Informal self-assessment and lightweight records are permitted while validly **Class P**. **Chapter Seven §1A** evaluation is encouraged unless reclassification or a voluntary constitutional-compliance claim makes it mandatory.
+**Class P (private profile):** Informal self-assessment and lightweight records are permitted while validly **Class P**. **Chapter Seven §3** evaluation is encouraged unless reclassification or a voluntary constitutional-compliance claim makes it mandatory.
 
 Controls must still preserve functional auditability and challenge rights where effects extend beyond operator-private scope.
 

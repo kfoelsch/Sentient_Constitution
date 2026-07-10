@@ -15,14 +15,14 @@ Put a **blank line before** `---` when you mean a horizontal rule between sectio
 | Blocking regression bundle | `make regression` |
 | Markdown / prose / definitions gravity | `make corpus-markdown-audit`, `make prose-continuity-audit`, `make ch5-definitions-gravity-audit`, `make ch5-o-scope-audit`, `make ch5-trace-crosslink-audit` |
 | Corpus navigation footer chain and formatting | `make footer-audit` |
-| Trace / D/E/C / reader-guidance `<br>` spacer discipline | `make nav-widget-spacer-audit` |
-| Trace → D/E/C widget order (definition carrier immediately after Trace) | `make trace-dec-widget-order-audit` |
+| Trace / D/A/C / reader-guidance `<br>` spacer discipline | `make nav-widget-spacer-audit` |
+| Trace → D/A/C widget order (definition carrier immediately after Trace) | `make trace-dac-widget-order-audit` |
 | File-top Corpus placement widget | `make file-top-placement-audit` |
 | CJS-2.1 topic-router bidirectional read-with links | `make router-bidirectional-audit` |
 | Chapter Five compound heading/member order | `make ch5-cluster-order-audit` |
 | Chapter Five single-definition and owner-roster rule | `make ch5-single-definition-audit` |
 | Chapter Five alphabetical directory and section 1 order | `make ch5-alphabetical-directory-audit` |
-| Chapter One D/E/C functional ordering | `make ch1-dec-order-audit` |
+| Chapter One D/A/C functional ordering | `make ch1-dac-order-audit` |
 | Readability estimates | `make readability-audit` |
 | Plain-language jargon scan | `make plain-language-audit` |
 | Chapter Four ↔ Seven pointer discipline | `make ch4-ch7-pointer-audit` |
@@ -37,7 +37,7 @@ Put a **blank line before** `---` when you mean a horizontal rule between sectio
 
 `trace_routing_prose_audit.py` enforces the binding-corpus rule that read-with routing stays inside Trace blocks. It also flags disguised navigation such as `Read them with …`, `Each … must be read with …`, `… also read **§…**`, and operative bullet labels such as `- *Read with.*` in operative prose.
 
-`trace_dec_widget_order_audit.py` enforces Trace → D/E/C placement: when a `###`–`#####` unit's Trace block carries Chapter Five `· [O]` read-with links, the next block after Trace close must be a **Definitions · Evaluation · Compliance** widget or a single-concept inline **Definition:** line, with only blank lines between. Without Trace, the D/E/C widget must be the first substantive block under `####` / `#####`. It also flags roadmap-only parent `###` D/E/C widgets (≤2 rows) when a `####` subsection owns operative definitions.
+`trace_dac_widget_order_audit.py` enforces Trace → D/A/C placement: when a `###`–`#####` unit's Trace block carries Chapter Five `· [O]` read-with links, the next block after Trace close must be a **Definitions · Assessment · Compliance** widget or a single-concept inline **Definition:** line, with only blank lines between. Without Trace, the D/A/C widget must be the first substantive block under `####` / `#####`. It also flags roadmap-only parent `###` D/A/C widgets (≤2 rows) when a `####` subsection owns operative definitions.
 
 `ch5_single_definition_audit.py` enforces the Chapter Five directory cleanup rule: one visible definition label, one directory row, no placeholder-only definition shells, and no repeated `Cluster members.` owner roster membership. Anchor fragments remain navigation targets only.
 
@@ -47,16 +47,16 @@ Put a **blank line before** `---` when you mean a horizontal rule between sectio
 
 Machine-checkable editorial rules: [tools/architecture/rule_registry.json](tools/architecture/rule_registry.json). Full audit catalog: [implementation/AUTOMATED_REFERENCE_CHECKING.md](implementation/AUTOMATED_REFERENCE_CHECKING.md).
 
-`ch1_dec_order_audit.py` guards Chapter One D/E/C functional ordering using [tools/architecture/ch1_dec_order.json](tools/architecture/ch1_dec_order.json) (rule NAV-DEC-CH1-ORDER).
+`ch1_dac_order_audit.py` guards Chapter One D/A/C functional ordering using [tools/architecture/ch1_dac_order.json](tools/architecture/ch1_dac_order.json) (rule NAV-DAC-CH1-ORDER).
 
 `readability_audit.py` excludes `MEMLOG.md` and `TODO.md` by default because those files are treated as AI-only working memory and project task tracking rather than reader-facing corpus prose.
 
 `plain_language_audit.py` is an advisory checker for jargon-heavy reader notes and navigation prose. It flags exact phrases such as `extended narrative context` and `non-operative explanatory framing`, plus dense guidance sentences that stack abstract terms instead of plain words. Start by running it manually and tune the rule list before promoting it into a blocking bundle.
 
-`ch4_ch7_pointer_audit.py` is an advisory checker for Chapter Seven pointer discipline against Chapter Four. It flags operative restatements of Chapter Four verification-substrate rules (burden, trace artifact, security-constrained verification, and related phrases) without upstream citations to Chapters Two through Four, and verifies the corpus-placement reader guidance names Chapter Four as verification-substrate owner. Run after edits to [`core_07-07_system_alignment_certification.md`](../core_07-07_system_alignment_certification.md) or [`core_04-04_burden_traceability_verification.md`](../core_04-04_burden_traceability_verification.md) Chapter Four §§1–6; use `--strict` to block on findings.
+`ch4_ch7_pointer_audit.py` is an advisory checker for Chapter Seven pointer discipline against Chapter Four. It flags operative restatements of Chapter Four verification-substrate rules (burden, trace artifact, security-constrained verification, and related phrases) without upstream citations to Chapters Two through Four, and verifies the corpus-placement reader guidance names Chapter Four as verification-substrate owner. Run after edits to [`core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation`](../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation) or [`core_04-04_burden_traceability_verification.md`](../core_04-04_burden_traceability_verification.md) Chapter Four §§1–6; use `--strict` to block on findings.
 
 ## Retired migration scripts
 
-One-off structural rewrite and migration helpers (Chapter Five cluster inserts, Chapter Six renumbering, corpus splits, D/E/C widget attachment, doc_architecture slim-down, etc.) were moved to [archive/tools_retired/](../archive/tools_retired/) on **2026-06-17**. **Do not run** them against the current tree unless you are deliberately replaying history from git; they can desync the corpus.
+One-off structural rewrite and migration helpers (Chapter Five cluster inserts, Chapter Six renumbering, corpus splits, D/A/C widget attachment, doc_architecture slim-down, etc.) were moved to [archive/tools_retired/](../archive/tools_retired/) on **2026-06-17**. **Do not run** them against the current tree unless you are deliberately replaying history from git; they can desync the corpus.
 
 For **current** article numbers and titles, use `make reference-audit` or read Chapter Six in `core_06-06_rights_part_*.md`.

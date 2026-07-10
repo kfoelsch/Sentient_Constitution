@@ -23,7 +23,7 @@ FIXES: list[tuple[str, str, str]] = [
     ("core_11-11_forum.md", "[Chapter Eight Chapter One §8.1.2.3](core_09-09_standing_integration.md#73-stackable-harm-and-conduct-descriptors-violation-nature-supplement)", "[Chapter Nine §3.9](core_09-09_standing_integration.md#73-stackable-harm-and-conduct-descriptors-violation-nature-supplement)"),
     ("core_11-11_forum.md", "[Chapter Eight Chapter One §8.1.2](core_08-08_standing_assessment.md#34-violation-axis-rules-violation-nature-adverse-findings-and-severity)", "[Chapter Eight Chapter One §6.2](core_08-08_standing_assessment.md#34-violation-axis-rules-violation-nature-adverse-findings-and-severity)"),
     ("core_11-11_forum.md", "[Chapter Eight Chapter One §8.1](core_09-09_standing_integration.md#6-extended-axis-ii-legal-hybrid-duty-and-harm-descriptors)", "[Chapter Nine §3](core_09-09_standing_integration.md#6-extended-axis-ii-legal-hybrid-duty-and-harm-descriptors)"),
-    ("core_11-11_forum.md", "**section 5.1** primary category defaults", "**§5** primary category defaults"),
+    ("core_11-11_forum.md", "**section 5.1** primary category defaults", "**§4** primary category defaults"),
     # Chapter Nine — Ch6 severity refs
     ("core_09-09_standing_integration.md", "Chapter Eight section 5.1.1.2", "Chapter Eight section 5.2"),
     ("core_09-09_standing_integration.md", "Chapter Eight section 5.1.2", "Chapter Eight section 5.2"),

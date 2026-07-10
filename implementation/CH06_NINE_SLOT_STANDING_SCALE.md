@@ -46,7 +46,7 @@ For an event classified to **slot** `s` (1 through 9) through verified violation
 V(s) = 3^{\,s-1}
 \]
 
-`V(s)` weights are ordinal analytics for verified constitutional loss under core **§4**. Violation Axis **s = 7** is anchored by at least one full-life-equivalent constitutional benefit destroyed, wasted, wrongfully consumed, or foreclosed, or by comparable critical constitutional harm. The numeric weight does not replace **section 5.2** severity typing, **Chapter Ten** final top-slot assignment where applicable, individualized evidence, LEQU-equivalent loss calibration where adopted, or process requirements.
+`V(s)` weights are ordinal analytics for verified constitutional loss under core **§2**. Violation Axis **s = 7** is anchored by at least one full-life-equivalent constitutional benefit destroyed, wasted, wrongfully consumed, or foreclosed, or by comparable critical constitutional harm. The numeric weight does not replace **section 5.2** severity typing, **Chapter Ten** final top-slot assignment where applicable, individualized evidence, LEQU-equivalent loss calibration where adopted, or process requirements.
 
 | `s` | `V(s)` |
 | --- | ---: |
@@ -115,7 +115,7 @@ A **record** that **only** has **primary** **band** **typing** may set **`nine_s
 
 ## 4. No single net score
 
-Implementations **may** **publish** **pairs** `(C*, V(s))` or `(C*, V_star_sum)` for **transparency**; they **must not** **define** **standing** **as** **C* minus V** or **reconcile** **axes** **into** **one** **number** for **gating** **that** **contradicts** **Chapter Eight** **Chapter One §8.2** and **§5**.
+Implementations **may** **publish** **pairs** `(C*, V(s))` or `(C*, V_star_sum)` for **transparency**; they **must not** **define** **standing** **as** **C* minus V** or **reconcile** **axes** **into** **one** **number** for **gating** **that** **contradicts** **Chapter Eight** **Chapter One §8.2** and **§4**.
 
 ---
 

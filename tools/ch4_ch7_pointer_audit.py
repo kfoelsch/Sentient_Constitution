@@ -18,7 +18,9 @@ _TOOLS = Path(__file__).resolve().parent
 if str(_TOOLS) not in sys.path:
     sys.path.insert(0, str(_TOOLS))
 
-CH7_FILE = "core_07-07_system_alignment_certification.md"
+CH7_PART_A = "core_07_a_system_alignment_certification_evaluation.md"
+CH7_PART_B = "core_07_b_system_alignment_certification_record_process.md"
+CH7_FILES = (CH7_PART_A, CH7_PART_B)
 CH4_FILE = "core_04-04_burden_traceability_verification.md"
 
 # Operative phrases owned by Chapter Four §§1–6; Ch7 should cite upstream, not restate.
@@ -70,9 +72,9 @@ NON_RESTATEMENT_RE = re.compile(r"does not restate", re.I)
 
 SECTION_HEADING_RE = re.compile(r"^###\s+(.+)$")
 HIGH_COUPLING_SECTIONS = {
-    "6. transparency, auditability, and contestability",
-    "7. supervisory sequence and contestability chain",
-    "9. relationship to standing",
+    "12. transparency, auditability, and contestability",
+    "14. supervisory sequence and contestability chain",
+    "15. relationship to standing",
 }
 
 HIGH_COUPLING_TERMS_RE = re.compile(
@@ -138,53 +140,56 @@ def _section_has_upstream_pointer(section_text: str) -> bool:
 
 
 def scan_ch7(root: Path) -> list[str]:
-    path = root / CH7_FILE
-    if not path.is_file():
-        return [f"{CH7_FILE}: missing Chapter Seven file"]
-
-    content = path.read_text(encoding="utf-8")
     findings: list[str] = []
 
-    # Corpus placement should name Chapter Four as verification-substrate owner.
-    placement_match = re.search(
-        r"<summary>.*?Corpus placement.*?</summary>\s*(.*?)</details>",
-        content,
-        re.S | re.I,
-    )
-    if placement_match:
-        placement = placement_match.group(1)
-        if "Verification substrate owner" not in placement:
-            findings.append(
-                f"{CH7_FILE}: corpus placement missing Verification substrate owner bullet"
-            )
-        if not UPSTREAM_POINTER_RE.search(placement):
-            findings.append(
-                f"{CH7_FILE}: corpus placement missing Chapters Two through Four upstream pointer"
-            )
-    else:
-        findings.append(f"{CH7_FILE}: corpus placement reader-guidance block not found")
+    for ch7_file in CH7_FILES:
+        path = root / ch7_file
+        if not path.is_file():
+            findings.append(f"{ch7_file}: missing Chapter Seven file")
+            continue
 
-    for title, start_line, section_text in _split_sections(content):
-        title_key = title.lower()
-        operative = _strip_details_blocks(section_text)
+        content = path.read_text(encoding="utf-8")
 
-        for label, pattern in CH4_EXCLUSIVE_PATTERNS:
-            if pattern.search(operative) and not _section_has_upstream_pointer(
-                section_text
-            ):
+        # Corpus placement should name Chapter Four as verification-substrate owner.
+        placement_match = re.search(
+            r"<summary>.*?Corpus placement.*?</summary>\s*(.*?)</details>",
+            content,
+            re.S | re.I,
+        )
+        if placement_match:
+            placement = placement_match.group(1)
+            if "Verification substrate owner" not in placement and ch7_file == CH7_PART_A:
                 findings.append(
-                    f"{CH7_FILE}:{start_line}: §{title} restates Chapter Four "
-                    f"substrate ({label}) without upstream pointer to Chapters Two through Four"
+                    f"{ch7_file}: corpus placement missing Verification substrate owner bullet"
                 )
-
-        if title_key in HIGH_COUPLING_SECTIONS:
-            if HIGH_COUPLING_TERMS_RE.search(operative) and not _section_has_upstream_pointer(
-                section_text
-            ):
+            if not UPSTREAM_POINTER_RE.search(placement) and ch7_file == CH7_PART_A:
                 findings.append(
-                    f"{CH7_FILE}:{start_line}: §{title} high-coupling verification language "
-                    "without upstream pointer to Chapters Two through Four"
+                    f"{ch7_file}: corpus placement missing Chapters Two through Four upstream pointer"
                 )
+        elif ch7_file == CH7_PART_A:
+            findings.append(f"{ch7_file}: corpus placement reader-guidance block not found")
+
+        for title, start_line, section_text in _split_sections(content):
+            title_key = title.lower()
+            operative = _strip_details_blocks(section_text)
+
+            for label, pattern in CH4_EXCLUSIVE_PATTERNS:
+                if pattern.search(operative) and not _section_has_upstream_pointer(
+                    section_text
+                ):
+                    findings.append(
+                        f"{ch7_file}:{start_line}: §{title} restates Chapter Four "
+                        f"substrate ({label}) without upstream pointer to Chapters Two through Four"
+                    )
+
+            if title_key in HIGH_COUPLING_SECTIONS:
+                if HIGH_COUPLING_TERMS_RE.search(operative) and not _section_has_upstream_pointer(
+                    section_text
+                ):
+                    findings.append(
+                        f"{ch7_file}:{start_line}: §{title} high-coupling verification language "
+                        "without upstream pointer to Chapters Two through Four"
+                    )
 
     return findings
 

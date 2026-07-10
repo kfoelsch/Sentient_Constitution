@@ -172,7 +172,7 @@ Adopted implementation may publish `C*` thresholds, `V(s)` weights, and keyed su
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§2](#2-standing-records) (*standing records, verified-input gate, and no-offset bridge*); [§3](#31-slot-grammar-and-display-labels) (*slot grammar and display labels*); [Chapter One §8.2](#42-lequ-violation-calibration) (*violation LEQU calibration*); [Chapter One §8.1](#51-contribution-axis-bands-and-table-2) (*Contribution Axis rules and **Table 2***); [Chapter Nine §3.9](core_09-09_standing_integration.md#73-stackable-harm-and-conduct-descriptors-violation-nature-supplement) (*Violation Axis supplements*).
+- Upstream: [§3](#2-standing-records) (*standing records, verified-input gate, and no-offset bridge*); [§11](#31-slot-grammar-and-display-labels) (*slot grammar and display labels*); [Chapter One §8.2](#42-lequ-violation-calibration) (*violation LEQU calibration*); [Chapter One §8.1](#51-contribution-axis-bands-and-table-2) (*Contribution Axis rules and **Table 2***); [Chapter Nine §3.9](core_09-09_standing_integration.md#73-stackable-harm-and-conduct-descriptors-violation-nature-supplement) (*Violation Axis supplements*).
 - Downstream: [Chapter Nine §3](core_09-09_standing_integration.md#6-extended-axis-ii-legal-hybrid-duty-and-harm-descriptors) (*process / response character, hybrid, and duty material*); [Chapter Nine §4](core_09-09_standing_integration.md#8-cross-axis-coupling-and-escalation-constraints) (*standing integration and no-netting mechanics*); [Chapter Ten](core_10-10_misconduct.md#chapter-ten-anti-constitutional-misconduct) (*final Violation Axis **s = 7, 8, or 9** anti-constitutional misconduct assignment*).
 - Read with: [Supremacy and Enforceability](core_05i_integrative_definitions.md#supremacy-and-enforceability), [Constitutional Constraint Violation](core_05i_integrative_definitions.md#constitutional-constraint-violation), [Harm](core_05a_accountability_definitions.md#harm), and [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination).
 - Triad leg(s): **accountability**. Primary aim(s): **Flourishing** and **Continuity**. [material stake](core_00_preamble.md#material-stake) scaling applies to severity and verification burden.
@@ -180,7 +180,7 @@ Adopted implementation may publish `C*` thresholds, `V(s)` weights, and keyed su
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
 - [Harm](core_05a_accountability_definitions.md#harm) · [O](core_05a_accountability_definitions.md#harm) · [E](core_05a_accountability_definitions.md#harm-e) · [C](core_05a_accountability_definitions.md#harm-c)
 - [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination) · [O](core_05o_oversight_definitions.md#materiality-determination) · [E](core_05o_oversight_definitions.md#materiality-determination-e) · [C](core_05o_oversight_definitions.md#materiality-determination-c)
@@ -275,26 +275,26 @@ CORPUS_REPLACEMENTS = [
     ("§§3–6):", "§§3–5):"),
     # Chapter six trace / orientation
     (
-        "*Reading order (classification layer §§3–5):* **[§3](#3-slot-grammar-and-display-labels)** names the shared slot labels (**Table 1**) · **[§4](#32-constitutional-outcome-baseline-for-slots)** calibrates magnitude in LEQU · **[§5](#33-primary-category-defaults-and-lequ-slot-baseline)** classifies verified **contribution state** (**Table 2**) · **[§6](#34-violation-axis-rules-violation-nature-adverse-findings-and-severity)** classifies verified **violation nature**.",
-        "*Reading order (classification layer §§3–5):* **[§3](#3-slot-grammar-and-display-labels)** names the shared slot labels (**Table 1**) · **[§4](#32-constitutional-outcome-baseline-for-slots)** calibrates magnitude in LEQU (**Chapter One §8.1** contribution · **Chapter One §8.2** violation) · **[§5](#33-primary-category-defaults-and-lequ-slot-baseline)** classifies verified records (**Chapter One §8.1** contribution / **Table 2** · **Chapter One §6.2** violation severity ladder).",
+        "*Reading order (classification layer §§3–5):* **[§11](#3-slot-grammar-and-display-labels)** names the shared slot labels (**Table 1**) · **[§2](#32-constitutional-outcome-baseline-for-slots)** calibrates magnitude in LEQU · **[§4](#33-primary-category-defaults-and-lequ-slot-baseline)** classifies verified **contribution state** (**Table 2**) · **[§5](#34-violation-axis-rules-violation-nature-adverse-findings-and-severity)** classifies verified **violation nature**.",
+        "*Reading order (classification layer §§3–5):* **[§11](#3-slot-grammar-and-display-labels)** names the shared slot labels (**Table 1**) · **[§2](#32-constitutional-outcome-baseline-for-slots)** calibrates magnitude in LEQU (**Chapter One §8.1** contribution · **Chapter One §8.2** violation) · **[§4](#33-primary-category-defaults-and-lequ-slot-baseline)** classifies verified records (**Chapter One §8.1** contribution / **Table 2** · **Chapter One §6.2** violation severity ladder).",
     ),
     (
-        "| [§4](#32-constitutional-outcome-baseline-for-slots) | **Calibration layer** — LEQU constitutional-outcome baseline | **Oversight** (verified calibration discipline) | **Flourishing** + **Accountability** |\n"
-        "| [§5](#33-primary-category-defaults-and-lequ-slot-baseline) | **Classification layer** — Contribution Axis bands and Table 2 | **Oversight** | **Flourishing** |\n"
-        "| [§6](#34-violation-axis-rules-violation-nature-adverse-findings-and-severity) | **Classification layer** — Violation Axis severity ladder | **Accountability** | **Accountability** (Violation Axis) + **Continuity** (unresolved findings stay live) |",
-        "| [§4](#32-constitutional-outcome-baseline-for-slots) | **Calibration layer** — LEQU baseline (**Chapter One §8.1** contribution · **Chapter One §8.2** violation) | **Oversight** (verified calibration discipline) | **Flourishing** + **Continuity** |\n"
-        "| [§5](#33-primary-category-defaults-and-lequ-slot-baseline) | **Classification layer** — primary defaults (**Chapter One §8.1** Contribution Axis · **Chapter One §6.2** Violation Axis) | **Oversight** + **Accountability** | **Flourishing** + **Continuity** |",
+        "| [§2](#32-constitutional-outcome-baseline-for-slots) | **Calibration layer** — LEQU constitutional-outcome baseline | **Oversight** (verified calibration discipline) | **Flourishing** + **Accountability** |\n"
+        "| [§4](#33-primary-category-defaults-and-lequ-slot-baseline) | **Classification layer** — Contribution Axis bands and Table 2 | **Oversight** | **Flourishing** |\n"
+        "| [§5](#34-violation-axis-rules-violation-nature-adverse-findings-and-severity) | **Classification layer** — Violation Axis severity ladder | **Accountability** | **Accountability** (Violation Axis) + **Continuity** (unresolved findings stay live) |",
+        "| [§2](#32-constitutional-outcome-baseline-for-slots) | **Calibration layer** — LEQU baseline (**Chapter One §8.1** contribution · **Chapter One §8.2** violation) | **Oversight** (verified calibration discipline) | **Flourishing** + **Continuity** |\n"
+        "| [§4](#33-primary-category-defaults-and-lequ-slot-baseline) | **Classification layer** — primary defaults (**Chapter One §8.1** Contribution Axis · **Chapter One §6.2** Violation Axis) | **Oversight** + **Accountability** | **Flourishing** + **Continuity** |",
     ),
     (
-        "Flourishing-side contribution under **§§3–5**, Accountability-side violation under **§6**",
+        "Flourishing-side contribution under **§§3–5**, Accountability-side violation under **§5**",
         "Contribution-side classification under **§Chapter One §8.1 and 5.1**, Violation-side classification under **§Chapter One §8.2 and 5.2**",
     ),
     (
-        "Accountability measure at **§6***",
+        "Accountability measure at **§5***",
         "Accountability measure at **Chapter One §6.2***",
     ),
     (
-        "Flourishing measure at **§§3–5**, Accountability measure at **§6***",
+        "Flourishing measure at **§§3–5**, Accountability measure at **§5***",
         "Flourishing measure at **§Chapter One §8.1 and 5.1**, Accountability measure at **§Chapter One §8.2 and 5.2***",
     ),
     # §3 internal pointers
@@ -307,7 +307,7 @@ CORPUS_REPLACEMENTS = [
     # §2 standing records
     ("classifies verified **contribution state** under **section 5**.", "classifies verified **contribution state** under **section 5.1**."),
     ("classifies verified **violation nature** under **section 6**", "classifies verified **violation nature** under **section 5.2**"),
-    ("(*Contribution Axis primary category defaults*); [§6](#34-violation-axis-rules-violation-nature-adverse-findings-and-severity) (*Violation Axis severity ladder*)", "(*Contribution Axis primary category defaults*); [Chapter One §6.2](#34-violation-axis-rules-violation-nature-adverse-findings-and-severity) (*Violation Axis severity ladder*)"),
+    ("(*Contribution Axis primary category defaults*); [§5](#34-violation-axis-rules-violation-nature-adverse-findings-and-severity) (*Violation Axis severity ladder*)", "(*Contribution Axis primary category defaults*); [Chapter One §6.2](#34-violation-axis-rules-violation-nature-adverse-findings-and-severity) (*Violation Axis severity ladder*)"),
     # Cross-chapter Ch6 refs — order matters (specific before general)
     ("Chapter Eight section 6 severity", "Chapter Eight section 5.2 severity"),
     ("Chapter Eight section 6** severity", "Chapter Eight section 5.2** severity"),
@@ -325,7 +325,7 @@ CORPUS_REPLACEMENTS = [
     ("Chapter Eight — section 5", "Chapter Eight — section 5.1"),
     ("Chapter Eight — section 6", "Chapter Eight — section 5.2"),
     ("Chapter Eight §5", "Chapter Eight Chapter One §8.1"),
-    ("[§6](core_08-08_standing_assessment.md#34-violation-axis-rules-violation-nature-adverse-findings-and-severity)", "[Chapter One §6.2](core_08-08_standing_assessment.md#34-violation-axis-rules-violation-nature-adverse-findings-and-severity)"),
+    ("[§5](core_08-08_standing_assessment.md#34-violation-axis-rules-violation-nature-adverse-findings-and-severity)", "[Chapter One §6.2](core_08-08_standing_assessment.md#34-violation-axis-rules-violation-nature-adverse-findings-and-severity)"),
     ("sections 5 and 6", "sections 5.1 and 5.2"),
     ("**sections 5 and 6**", "**sections 5.1 and 5.2**"),
     ("section 6 severity", "section 5.2 severity"),

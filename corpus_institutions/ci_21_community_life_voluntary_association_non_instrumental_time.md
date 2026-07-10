@@ -9,15 +9,15 @@
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Family and Care Relationships](../core_05p_participation_definitions.md#family-and-care-relationships-constitutional) · [O](../core_05p_participation_definitions.md#family-and-care-relationships-constitutional) · [E](../core_05p_participation_definitions.md#family-and-care-relationships-constitutional-e) · [C](../core_05p_participation_definitions.md#family-and-care-relationships-constitutional-c)
-- [Avoidable Burden](../core_05c_continuity_definitions.md#avoidable-burden) · [O](../core_05c_continuity_definitions.md#avoidable-burden) · [E](../core_05c_continuity_definitions.md#avoidable-burden-e) · [C](../core_05c_continuity_definitions.md#avoidable-burden-c)
-- [Contestability](../core_05a_accountability_definitions.md#contestability) · [O](../core_05a_accountability_definitions.md#contestability) · [E](../core_05a_accountability_definitions.md#contestability-e) · [C](../core_05a_accountability_definitions.md#contestability-c)
-- [Transparency](../core_05o_oversight_definitions.md#transparency) · [O](../core_05o_oversight_definitions.md#transparency) · [E](../core_05o_oversight_definitions.md#transparency-e) · [C](../core_05o_oversight_definitions.md#transparency-c)
-- [Expression](../core_05p_participation_definitions.md#expression-constitutional) · [O](../core_05p_participation_definitions.md#expression-constitutional) · [E](../core_05p_participation_definitions.md#expression-constitutional-e) · [C](../core_05p_participation_definitions.md#expression-constitutional-c)
-- [Governance](../core_05a_accountability_definitions.md#governance) · [O](../core_05a_accountability_definitions.md#governance) · [E](../core_05a_accountability_definitions.md#governance-e) · [C](../core_05a_accountability_definitions.md#governance-c)
-- [Necessity](../core_05a_accountability_definitions.md#necessity) · [O](../core_05a_accountability_definitions.md#necessity) · [E](../core_05a_accountability_definitions.md#necessity-e) · [C](../core_05a_accountability_definitions.md#necessity-c)
+- [Family and Care Relationships](../core_05p_participation_definitions.md#family-and-care-relationships-constitutional) · [O](../core_05p_participation_definitions.md#family-and-care-relationships-constitutional) · [A](../core_05p_participation_definitions.md#family-and-care-relationships-constitutional-a) · [C](../core_05p_participation_definitions.md#family-and-care-relationships-constitutional-c)
+- [Avoidable Burden](../core_05c_continuity_definitions.md#avoidable-burden) · [O](../core_05c_continuity_definitions.md#avoidable-burden) · [A](../core_05c_continuity_definitions.md#avoidable-burden-a) · [C](../core_05c_continuity_definitions.md#avoidable-burden-c)
+- [Contestability](../core_05a_accountability_definitions.md#contestability) · [O](../core_05a_accountability_definitions.md#contestability) · [A](../core_05a_accountability_definitions.md#contestability-a) · [C](../core_05a_accountability_definitions.md#contestability-c)
+- [Transparency](../core_05o_oversight_definitions.md#transparency) · [O](../core_05o_oversight_definitions.md#transparency) · [A](../core_05o_oversight_definitions.md#transparency-a) · [C](../core_05o_oversight_definitions.md#transparency-c)
+- [Expression](../core_05p_participation_definitions.md#expression-constitutional) · [O](../core_05p_participation_definitions.md#expression-constitutional) · [A](../core_05p_participation_definitions.md#expression-constitutional-a) · [C](../core_05p_participation_definitions.md#expression-constitutional-c)
+- [Governance](../core_05a_accountability_definitions.md#governance) · [O](../core_05a_accountability_definitions.md#governance) · [A](../core_05a_accountability_definitions.md#governance-a) · [C](../core_05a_accountability_definitions.md#governance-c)
+- [Necessity](../core_05a_accountability_definitions.md#necessity) · [O](../core_05a_accountability_definitions.md#necessity) · [A](../core_05a_accountability_definitions.md#necessity-a) · [C](../core_05a_accountability_definitions.md#necessity-c)
 
 </details>
 

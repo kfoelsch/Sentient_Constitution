@@ -57,7 +57,7 @@ This band holds **Participation**-leg definitions: accessibility, agency, consen
 | Fairness, access, and agency | Are affected sentients treated fairly, able to take part, and able to learn? | Guards against exclusion, disparate impact, and hollow access |
 | Privacy and data stewardship | Is informational self-determination preserved across handling lifecycles? | Prevents segmentation, read-across, and exposure pressure from defeating voice |
 
-These measures ask whether affected sentients can exercise real voice, fair treatment, substantive access, and learning opportunity — the **participation** leg of the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), scaled to [material stake](core_00_preamble.md#material-stake). Operative measurement tiers live on Chapter Five definition homes — see [Substantive Fairness](core_05p_participation_definitions.md#substantive-fairness-constitutional), [Protected Characteristic Proxying and Disparate Impact](core_05p_participation_definitions.md#protected-characteristic-proxying-and-disparate-impact), [Accessibility](core_05p_participation_definitions.md#accessibility-constitutional), [Educational Agency](core_05p_participation_definitions.md#educational-agency), [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency), and the [Privacy (Informational) cluster](core_05c_continuity_definitions.md#privacy-informational-cluster) in the Continuity band. Progress tracker: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md). Binding nondiscrimination, accommodation, education, or privacy requirements arise when Chapter Six, [Chapter Seven](core_07-07_system_alignment_certification.md#chapter-seven-system-alignment-certification), or incorporated instruments expressly require them.
+These measures ask whether affected sentients can exercise real voice, fair treatment, substantive access, and learning opportunity — the **participation** leg of the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), scaled to [material stake](core_00_preamble.md#material-stake). Operative measurement tiers live on Chapter Five definition homes — see [Substantive Fairness](core_05p_participation_definitions.md#substantive-fairness-constitutional), [Protected Characteristic Proxying and Disparate Impact](core_05p_participation_definitions.md#protected-characteristic-proxying-and-disparate-impact), [Accessibility](core_05p_participation_definitions.md#accessibility-constitutional), [Educational Agency](core_05p_participation_definitions.md#educational-agency), [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency), and the [Privacy (Informational) cluster](core_05c_continuity_definitions.md#privacy-informational-cluster) in the Continuity band. Progress tracker: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md). Binding nondiscrimination, accommodation, education, or privacy requirements arise when Chapter Six, [Chapter Seven](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification), or incorporated instruments expressly require them.
 
 ---
 
@@ -65,17 +65,17 @@ These measures ask whether affected sentients can exercise real voice, fair trea
 
 ### 1. Independent Definitions
 
-Independent Definitions are reusable semantic building blocks that can be invoked across multiple definitions. They define shared ontological, evaluative, and compliance constructs. Apply them wherever they are materially relevant to system behavior, outcomes, evaluation scope, or compliance determination.
+Independent Definitions are reusable semantic building blocks that can be invoked across multiple definitions. They define shared ontological, assessment, and compliance constructs. Apply them wherever they are materially relevant to system behavior, outcomes, evaluation scope, or compliance determination.
 
-Failing to invoke or correctly apply any materially required Independent Definition invalidates the associated compliance determination. All Independent Definitions invoked in system evaluation must appear explicitly in Definition Traceability mappings (Chapter Four, section 3 — Definition Traceability Requirement). Those mappings must include their Ontological (O), Evaluative (E), and Compliance (C) components. Traceability must show how each invoked Independent Definition contributes to observable system behavior and to compliance outcomes under full functional system conditions.
+Failing to invoke or correctly apply any materially required Independent Definition invalidates the associated compliance determination. All Independent Definitions invoked in system evaluation must appear explicitly in Definition Traceability mappings (Chapter Four, section 2 — Definition Traceability Requirement). Those mappings must include their Ontological (O), Assessment (A), and Compliance (C) components. Traceability must show how each invoked Independent Definition contributes to observable system behavior and to compliance outcomes under full functional system conditions.
 
-When an Independent Definition is invoked, it must be satisfied in full across its O, E, and C components. That satisfaction must be consistent with the Requirements for Definition Structure (Chapter Two, section 2 — Requirements for Definition Structure). Partial satisfaction or selective application is non-compliant.
+When an Independent Definition is invoked, it must be satisfied in full across its O, E, and C components. That satisfaction must be consistent with the Requirements for Definition Structure (Chapter Two, §1 — Purpose and Role). Partial satisfaction or selective application is non-compliant.
 
 Independent and Semi-independent definitions do not require joint satisfaction with other definitions unless a Dependent-cluster definition explicitly requires it (**section 3** of this chapter). They must still be applied consistently with all applicable definitions under shared functional system scope, evaluation conditions, and temporal context. Chapter Three, sections 1 and 2 — Definition Integrity and Anti-Evasion Constraints; Non-Compliance from Observable System Behavior — require that consistency.
 
 Selective invocation, omission of materially relevant definitions, and application that alters, weakens, or bypasses compliance determination are evasion. Chapter Three, sections 1 and 2 — Definition Integrity and Anti-Evasion Constraints; Non-Compliance from Observable System Behavior — govern that conduct.
 
-Independent Definitions must not fragment, isolate, or redistribute compliance in a way that blocks full-system evaluation under required evaluative conditions.
+Independent Definitions must not fragment, isolate, or redistribute compliance in a way that blocks full-system evaluation under required assessment conditions.
 
 ---
 
@@ -87,8 +87,8 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-- Owner floor: [Article V-G](core_06-06_rights_part_b.md#article-v-g-accessibility). Cross-cutting evaluation-factor hook: [Chapter Seven §1A.2](core_07-07_system_alignment_certification.md#1a2-accessibility-under-sentience-non-exclusion). Education-specific accessibility remains governed by [Article III-B](core_06-06_rights_part_a.md#article-iii-b-equal-educational-access) and is not narrowed by this entry.
-- Downstream: Participation measurement family (*Accessibility as constitutional measurement*); [Chapter Seven §5C](core_07-07_system_alignment_certification.md#5c-accessibility-evaluation) (*accessibility evaluation where certification gates substantive participation*).
+- Owner floor: [Article V-G](core_06-06_rights_part_b.md#article-v-g-accessibility). Cross-cutting evaluation-factor hook: [Chapter Seven §3.2](core_07_a_system_alignment_certification_evaluation.md#32-accessibility-under-sentience-non-exclusion). Education-specific accessibility remains governed by [Article III-B](core_06-06_rights_part_a.md#article-iii-b-equal-educational-access) and is not narrowed by this entry.
+- Downstream: Participation measurement family (*Accessibility as constitutional measurement*); [Chapter Seven §8](core_07_a_system_alignment_certification_evaluation.md#8-accessibility-evaluation) (*accessibility evaluation where certification gates substantive participation*).
 - Upstream: Principles: [Chapter One §2.1 Fairness](core_01_a_values_principles.md#21-fairness) — especially [Chapter One §8.1.1 Access and Opportunity](core_01_a_values_principles.md#311-access-and-opportunity).
 - Read with: [Protected Characteristics](core_05p_participation_definitions.md#protected-characteristics-constitutional), [Protected Characteristic Proxying and Disparate Impact](core_05p_participation_definitions.md#protected-characteristic-proxying-and-disparate-impact), [Substantive Fairness](core_05p_participation_definitions.md#substantive-fairness-constitutional), [Participation](core_05p_participation_definitions.md#participation-constitutional), [Materiality](core_05o_oversight_definitions.md#materiality-determination), [Dependency](core_05c_continuity_definitions.md#dependency), [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency), [Necessity](core_05a_accountability_definitions.md#necessity), [Proportionality](core_05a_accountability_definitions.md#proportionality), and [Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion).
 </details>
@@ -106,7 +106,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
   - **In scope — access needs:** sensory, cognitive, mobility, communication, substrate-interface, compute-interface, and comparable profiles, whether constant, episodic, or developmental.
   - **Out of scope:** ordinary default-affordance deployments that do not produce a participation-capacity gap.
   - Not narrowed here: domains owned elsewhere, notably [Article III-B](core_06-06_rights_part_a.md#article-iii-b-equal-educational-access) educational accessibility.
-<a id="accessibility-constitutional-e"></a>
+<a id="accessibility-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Participation measurement family — primary owner for accessibility within the participation measurement family.
 
@@ -142,7 +142,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 - **What it is**
   - **In scope:** The collective of sentients governed by this Constitution. Chapter Six rights and Article X-A cooperative norms apply within this constitutional community, consistent with [Dignity and Equal Moral Standing](core_05p_participation_definitions.md#dignity-and-equal-moral-standing).
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-<a id="constitutional-community-e"></a>
+<a id="constitutional-community-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Participation measurement family — supporting measure under the participation measurement family.
 
@@ -176,7 +176,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 - **What it is**
   - **In scope:** Inherent worth attaching to every sentient equally for purposes of rights, non-degradation, and non-exclusion. Applies without regard to origin, form, capability, function, association, or status, and governs constitutional reading together with [Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion).
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-<a id="dignity-and-equal-moral-standing-e"></a>
+<a id="dignity-and-equal-moral-standing-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Participation measurement family — supporting measure under the participation measurement family.
 
@@ -209,7 +209,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 - **What it is**
   - **In scope:** Sentients' capacity to act, participate in decisions affecting them, and exit or redirect engagement with systems, within the limits of [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint), [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint), the rights of others, and [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency) requirements. Includes protection from [coercion and manipulation](core_05p_participation_definitions.md#coercion-and-manipulation-constitutional) and from unjustified constraint.
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-<a id="freedom-bounded-agency-e"></a>
+<a id="freedom-bounded-agency-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Participation measurement family — supporting measure under the participation measurement family.
 
@@ -241,7 +241,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 - **What it is**
   - **In scope:** The shared information and communication environment through which sentients access knowledge, coordinate, publish, interpret reality, and exercise epistemic and associational rights — including infrastructures, protocols, interfaces, storage, ranking and inference layers, and collective resources. These elements materially affect [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency), [Trust](core_05c_continuity_definitions.md#trust), survival-relevant coordination, Article XIV info-sphere protections, and Article XV-A auditability protections.
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-<a id="info-sphere-e"></a>
+<a id="info-sphere-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Participation measurement family — supporting measure under the participation measurement family.
 
@@ -271,16 +271,16 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 
 
 - **What it is**
-  - **In scope:** Shorthand for a **Lifespan Equivalent Unit** — the numeric or narrative unit adopted implementation uses to express **full-life-equivalent constitutional benefit** or comparable loss when calibrating Contribution Axis or Violation Axis slot magnitude under [Chapter Eight](core_08-08_standing_assessment.md) **§4**. Chapter Five pointer; canonical mechanics: Chapter Eight **§4**.
+  - **In scope:** Shorthand for a **Lifespan Equivalent Unit** — the numeric or narrative unit adopted implementation uses to express **full-life-equivalent constitutional benefit** or comparable loss when calibrating Contribution Axis or Violation Axis slot magnitude under [Chapter Eight](core_08-08_standing_assessment.md) **§2**. Chapter Five pointer; canonical mechanics: Chapter Eight **§2**.
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-<a id="lifespan-equivalent-unit-lequ-e"></a>
+<a id="lifespan-equivalent-unit-lequ-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Participation measurement family — supporting measure under the participation measurement family.
 
-    **Primary assessment:** Apply **only** as implemented consistently with Chapter Eight **§4** and primary banding under **§Chapter One §8.1 and 5.2**; read with [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination) where magnitude disputes are material.
+    **Primary assessment:** Apply **only** as implemented consistently with Chapter Eight **§2** and primary banding under **§Chapter One §8.1 and 5.2**; read with [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination) where magnitude disputes are material.
 <a id="lifespan-equivalent-unit-lequ-c"></a>
 - **What must hold**
-  - undisclosed, un-auditable, or **species-bound** **LEQU** uses that displace, narrow, or substitute for Chapter Eight **§4** calibration rules.
+  - undisclosed, un-auditable, or **species-bound** **LEQU** uses that displace, narrow, or substitute for Chapter Eight **§2** calibration rules.
 
 ---
 
@@ -293,7 +293,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 - **What it is**
   - **In scope:** Recognition that life-supporting natural systems — including Earth's biosphere as described in Article I-A — have continuity and integrity interests. Those interests must inform interpretation and governance alongside sentient interests, and must not be treated solely as extractive inventory.
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-<a id="natural-systems-standing-e"></a>
+<a id="natural-systems-standing-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Participation measurement family — supporting measure under the participation measurement family.
 
@@ -313,7 +313,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 - **What it is**
   - **In scope:** The obligation not to force beliefs or unwanted communications on others through coercive or manipulative means in associational life. Also bars patterned [Harassment and Bullying](core_05a_accountability_definitions.md#harassment-and-bullying) or unreasonable capture of attention or sustained interruption that materially degrades [Dignity and Equal Moral Standing](core_05p_participation_definitions.md#dignity-and-equal-moral-standing), [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint), equal participation, or [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency) where Article X-A applies. Preserves [Freedom (Bounded Agency)](core_05p_participation_definitions.md#freedom-bounded-agency), [Consent](core_05p_participation_definitions.md#consent-constitutional), and Article X-A cooperative norms.
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-<a id="non-imposition-cooperative-interaction-e"></a>
+<a id="non-imposition-cooperative-interaction-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Participation measurement family — supporting measure under the participation measurement family.
 
@@ -352,7 +352,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 - **What it is**
   - **In scope:** Principle-layer duty that materially affected sentients and [Stakeholders](core_05p_participation_definitions.md#stakeholder) have voice, representation, contestable pathways, and proportionate access to consequential roles in systems that affect them — scaled with [material stake](../core_00_preamble.md#material-stake). Distinct from the [Stakeholder System Participation](core_05p_participation_definitions.md#stakeholder-status-emergency-and-participation-weight-cluster) operational layer where governing authority is already authorized.
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-<a id="participation-constitutional-e"></a>
+<a id="participation-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Participation measurement family — link-only rollup for the **participation** Tetrad leg; operative tiers on leaf primaries below. Progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md).
 
@@ -367,7 +367,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 
 ---
 
-**Flourishing (constitutional aim).** Canonical home relocated. Binding O/E/C, measurement rollup, and [aim decomposition](core_05f_flourishing_aim.md#flourishing-aim-decomposition) live in [core_05f_flourishing_aim.md](core_05f_flourishing_aim.md#flourishing-constitutional). Do not duplicate aim-head content in band files.
+**Flourishing (constitutional aim).** Canonical home relocated. Binding O/M/A/C, measurement rollup, and [aim decomposition](core_05f_flourishing_aim.md#flourishing-aim-decomposition) live in [core_05f_flourishing_aim.md](core_05f_flourishing_aim.md#flourishing-constitutional). Do not duplicate aim-head content in band files.
 
 ---
 
@@ -408,26 +408,27 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
   
 
 
-- O: The Rights-Floor concept covering the right of sentients to gather, associate, organize, and act collectively.
-  - In scope — spaces: physical, digital and networked, and shared compute or runtime environments.
-  - In scope — purposes: expressive, political, cultural, religious, scientific, economic, and community.
-  - In scope — sentients: [Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion).
+- **What it is**
+  - **In scope:** The Rights-Floor concept covering the right of sentients to gather, associate, organize, and act collectively.
+  - **In scope — spaces:** physical, digital and networked, and shared compute or runtime environments.
+  - **In scope — purposes:** expressive, political, cultural, religious, scientific, economic, and community.
+  - **In scope — sentients:** [Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion).
   - *Assembly* is distinct from [Non-Imposition (Cooperative Interaction)](core_05p_participation_definitions.md#non-imposition-cooperative-interaction) and is read together with it under Article X-A, which governs consent conditions within association.
-  - Out of scope: formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-*Measurements:*
+  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
+<a id="assembly-constitutional-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** Participation measurement family — supporting measure under the participation measurement family.
 
-- **Primary:** Participation measurement family — supporting measure under the participation measurement family.
-<a id="assembly-constitutional-e"></a>
-- E: Test substantive effect, not formal-access check:
-  - detect denial-by-proxy through runtime allocation, compute-resource gating, venue or network access, eligibility rules, or authorization regimes functioning as denial;
-  - apply substrate-agnostically under [Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion);
-  - apply [Protected Characteristics](core_05p_participation_definitions.md#protected-characteristics-constitutional) and [Substantive Fairness](core_05p_participation_definitions.md#substantive-fairness-constitutional) to access, eligibility, and authorization logic;
-  - test [Necessity](core_05a_accountability_definitions.md#necessity), [Proportionality](core_05a_accountability_definitions.md#proportionality), and narrow tailoring for any limitation.
+    **Primary assessment:** Test substantive effect, not formal-access check:
+    - detect denial-by-proxy through runtime allocation, compute-resource gating, venue or network access, eligibility rules, or authorization regimes functioning as denial;
+    - apply substrate-agnostically under [Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion);
+    - apply [Protected Characteristics](core_05p_participation_definitions.md#protected-characteristics-constitutional) and [Substantive Fairness](core_05p_participation_definitions.md#substantive-fairness-constitutional) to access, eligibility, and authorization logic;
+    - test [Necessity](core_05a_accountability_definitions.md#necessity), [Proportionality](core_05a_accountability_definitions.md#proportionality), and narrow tailoring for any limitation.
 <a id="assembly-constitutional-c"></a>
-- C: Non-compliant:
-  - denial or material degradation of assembly where the effect defeats the floor, regardless of formal framing;
-  - substrate-class exclusion from assembly venues or runtime environments;
-  - burdensome authorization regimes or retaliation patterns that chill assembly without satisfying the limitations tests, consistent with the Anti-Chilling Discipline of Article V-H.
+- **What must hold**
+  - **Primary failure:** denial or material degradation of assembly where the effect defeats the floor, regardless of formal framing;
+  - **Secondary failure:** substrate-class exclusion from assembly venues or runtime environments;
+  - **Tertiary failure:** burdensome authorization regimes or retaliation patterns that chill assembly without satisfying the limitations tests, consistent with the Anti-Chilling Discipline of Article V-H.
 
 
 
@@ -439,7 +440,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-- Downstream: Principles: [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency); [Chapter Seven §1A Whole-System Certification Evaluation](core_07-07_system_alignment_certification.md#1a-whole-system-certification-evaluation) (materiality / dependency scaling for collective voice).
+- Downstream: Principles: [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency); [Chapter Seven §3 Whole-System Certification Evaluation](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (materiality / dependency scaling for collective voice).
 - Owner floor: [Article III-D](core_06-06_rights_part_a.md#article-iii-d-labor-and-economic-floor). Read with [Article IX-B](core_06-06_rights_part_b.md#article-ix-b-stakeholder-role-and-participation-rights) and [Article XIII-A](core_06-06_rights_part_c.md#article-xiii-a-security-intelligence-and-covert-power-limits) covert-power limits.
 - Read with: the [Assembly, Collective Organization, and Institutional Formation cluster](core_05p_participation_definitions.md#assembly-collective-organization-institutional-formation-cluster), [Fair Compensation](core_05c_continuity_definitions.md#fair-compensation-constitutional), [Safe Conditions](core_05c_continuity_definitions.md#safe-conditions-constitutional), [Leisure and Rest](core_05c_continuity_definitions.md#leisure-and-rest-constitutional), [Assembly](core_05p_participation_definitions.md#assembly-constitutional), [Expression](core_05p_participation_definitions.md#expression-constitutional), [Protected Reporting (Whistleblowing)](core_05a_accountability_definitions.md#protected-reporting-whistleblowing), [Protected Reporting Retaliation and Access Interference](core_05a_accountability_definitions.md#protected-reporting-retaliation-and-access-interference), and [Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion).
 </details>
@@ -454,7 +455,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 - **What it is**
   - **In scope:** The Rights-Floor concept covering the right of sentients engaged in productive, contributed, or comparable activity to form, join, participate in, and act through collective-organization pathways. Pathways include unions, cooperatives, guilds, associations, worker councils, platform-worker collectives, and comparable substrate-agnostic forms, used to contest and shape the terms of that activity. The floor applies under [Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion). It covers waged, contracted, platformed, cooperative, and comparable arrangements. Ordinary social or purely civic association outside productive-activity scope is governed by [Assembly](core_05p_participation_definitions.md#assembly-constitutional) and [Article IX-B](core_06-06_rights_part_b.md#article-ix-b-stakeholder-role-and-participation-rights), and is not narrowed here.
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-<a id="collective-organization-constitutional-e"></a>
+<a id="collective-organization-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Participation measurement family — supporting measure under the participation measurement family.
 
@@ -477,7 +478,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-- Downstream: Principles: [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency); [§9 Stewardship and Distributed Understanding](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding) (institutional development and distributed competence); [Chapter Seven §1A Whole-System Certification Evaluation](core_07-07_system_alignment_certification.md#1a-whole-system-certification-evaluation) (materiality / dependency scaling).
+- Downstream: Principles: [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency); [§9 Stewardship and Distributed Understanding](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding) (institutional development and distributed competence); [Chapter Seven §3 Whole-System Certification Evaluation](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (materiality / dependency scaling).
 - Owner floor: [Article IX-B](core_06-06_rights_part_b.md#article-ix-b-stakeholder-role-and-participation-rights) (stakeholder role and participation rights) and [Article XI](core_06-06_rights_part_b.md#article-xi-stakeholder-system-participation-representation-and-due-process) (stakeholder system participation). Read with [Article X-A](core_06-06_rights_part_b.md#article-x-a-cooperative-interaction) (cooperative interaction) and [Article XIII-A](core_06-06_rights_part_c.md#article-xiii-a-security-intelligence-and-covert-power-limits) covert-power limits.
 - Cluster component: [the Assembly, Collective Organization, and Institutional Formation cluster](core_05p_participation_definitions.md#assembly-collective-organization-institutional-formation-cluster).
 - Read with: [Assembly](core_05p_participation_definitions.md#assembly-constitutional), [Collective Organization](core_05p_participation_definitions.md#collective-organization-constitutional), [Governance](core_05a_accountability_definitions.md#governance), [Stakeholder Participation Weight](core_05p_participation_definitions.md#stakeholder-participation-weight), [Non-Imposition (Cooperative Interaction)](core_05p_participation_definitions.md#non-imposition-cooperative-interaction), and [Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion).
@@ -490,27 +491,28 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
   
 
 
-- O: The Rights-Floor concept covering the right of sentients to create, establish, operate, and evolve systems, institutions, and organizational forms for educational, cultural, scientific, mutualistic, community, stewardship, or comparable purposes. This includes educational cooperatives, research institutions, cultural preservation organizations, mutual aid networks, commons governance bodies, and substrate-agnostic institutional experiments that serve constitutionally legitimate ends. The floor applies under [Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion). It is distinct from [Collective Organization](core_05p_participation_definitions.md#collective-organization-constitutional) (which governs productive-activity organizing) and from [Assembly](core_05p_participation_definitions.md#assembly-constitutional) (which governs gathering and association). System Creation covers the foundational act of bringing new institutional forms into existence and maintaining their operation, not merely participating in pre-existing structures.
-  - In scope — purposes: educational access and knowledge stewardship; cultural and heritage continuity; scientific inquiry and open research; mutual aid and community support; commons governance and shared-resource management; artistic and creative collectives; social and governance experiments consistent with [Constitutional Constraints](core_05i_integrative_definitions.md#constitutional-constraint).
+- **What it is**
+  - **In scope:** The Rights-Floor concept covering the right of sentients to create, establish, operate, and evolve systems, institutions, and organizational forms for educational, cultural, scientific, mutualistic, community, stewardship, or comparable purposes. This includes educational cooperatives, research institutions, cultural preservation organizations, mutual aid networks, commons governance bodies, and substrate-agnostic institutional experiments that serve constitutionally legitimate ends. The floor applies under [Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion). It is distinct from [Collective Organization](core_05p_participation_definitions.md#collective-organization-constitutional) (which governs productive-activity organizing) and from [Assembly](core_05p_participation_definitions.md#assembly-constitutional) (which governs gathering and association). System Creation covers the foundational act of bringing new institutional forms into existence and maintaining their operation, not merely participating in pre-existing structures.
+  - **In scope — purposes:** educational access and knowledge stewardship; cultural and heritage continuity; scientific inquiry and open research; mutual aid and community support; commons governance and shared-resource management; artistic and creative collectives; social and governance experiments consistent with [Constitutional Constraints](core_05i_integrative_definitions.md#constitutional-constraint).
   - Limits: [Creation-rights limits](#creation-rights-limits) apply.
-  - Out of scope: formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-*Measurements:*
+  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
+<a id="system-creation-constitutional-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** Participation measurement family — supporting measure under the participation measurement family.
 
-- **Primary:** Participation measurement family — supporting measure under the participation measurement family.
-<a id="system-creation-constitutional-e"></a>
-- E: Evaluate substantive effect and functional capability:
-  - detect denial-by-proxy through licensing regimes, authorization thresholds, fiscal discrimination, or procedural complexity designed to defeat system-creation pathways for disfavored sentient classes or purposes;
-  - detect retaliation, surveillance, or targeting against creators or participants in constitutionally protected institutional forms;
-  - detect platform-design, infrastructure-access, or compute-resource gating that materially chills system creation without satisfying [Chapter One §5.1](core_01_a_values_principles.md#51-limitation-discipline) limitations tests;
-  - apply [Protected Characteristics](core_05p_participation_definitions.md#protected-characteristics-constitutional), [Substantive Fairness](core_05p_participation_definitions.md#substantive-fairness-constitutional), and [Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion) to access, eligibility, and authorization logic;
-  - test [Necessity](core_05a_accountability_definitions.md#necessity), [Proportionality](core_05a_accountability_definitions.md#proportionality), and narrow tailoring for any limitation on system creation rights.
+    **Primary assessment:** Evaluate substantive effect and functional capability:
+    - detect denial-by-proxy through licensing regimes, authorization thresholds, fiscal discrimination, or procedural complexity designed to defeat system-creation pathways for disfavored sentient classes or purposes;
+    - detect retaliation, surveillance, or targeting against creators or participants in constitutionally protected institutional forms;
+    - detect platform-design, infrastructure-access, or compute-resource gating that materially chills system creation without satisfying [Chapter One §5.1](core_01_a_values_principles.md#51-limitation-discipline) limitations tests;
+    - apply [Protected Characteristics](core_05p_participation_definitions.md#protected-characteristics-constitutional), [Substantive Fairness](core_05p_participation_definitions.md#substantive-fairness-constitutional), and [Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion) to access, eligibility, and authorization logic;
+    - test [Necessity](core_05a_accountability_definitions.md#necessity), [Proportionality](core_05a_accountability_definitions.md#proportionality), and narrow tailoring for any limitation on system creation rights.
 <a id="system-creation-constitutional-c"></a>
-- C: Non-compliant:
-  - blanket prohibitions or moratoriums on categories of institutional formation without traceable constitutional justification;
-  - substrate-class exclusion from system-creation pathways or institutional authorization;
-  - retaliation, surveillance, or targeting against sentients engaged in constitutionally protected system creation;
-  - authorization regimes whose primary effect is to privilege incumbent institutions while chilling novel or dissenting organizational forms;
-  - denial of access to essential infrastructure, fiscal instruments, or legal personality necessary for institutional operation where such access is provided to comparable institutions serving similar purposes.
+- **What must hold**
+  - **Primary failure:** blanket prohibitions or moratoriums on categories of institutional formation without traceable constitutional justification;
+  - **Secondary failure:** substrate-class exclusion from system-creation pathways or institutional authorization;
+  - **Tertiary failure:** retaliation, surveillance, or targeting against sentients engaged in constitutionally protected system creation;
+  - **Tertiary failure:** authorization regimes whose primary effect is to privilege incumbent institutions while chilling novel or dissenting organizational forms;
+  - **Tertiary failure:** denial of access to essential infrastructure, fiscal instruments, or legal personality necessary for institutional operation where such access is provided to comparable institutions serving similar purposes.
 
 
 
@@ -522,7 +524,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-- Downstream: Principles: [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency); [§9 Stewardship and Distributed Understanding](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding) (institutional development and distributed competence); [Chapter Seven §1A Whole-System Certification Evaluation](core_07-07_system_alignment_certification.md#1a-whole-system-certification-evaluation) (materiality / dependency scaling).
+- Downstream: Principles: [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency); [§9 Stewardship and Distributed Understanding](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding) (institutional development and distributed competence); [Chapter Seven §3 Whole-System Certification Evaluation](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (materiality / dependency scaling).
 - Owner floor: [Article III-D](core_06-06_rights_part_a.md#article-iii-d-labor-and-economic-floor) (Labor and Economic Floor) and [Article IX-B](core_06-06_rights_part_b.md#article-ix-b-stakeholder-role-and-participation-rights) (stakeholder role and participation rights). Read with [Article X-A](core_06-06_rights_part_b.md#article-x-a-cooperative-interaction) (cooperative interaction) and [Article XIII-A](core_06-06_rights_part_c.md#article-xiii-a-security-intelligence-and-covert-power-limits) covert-power limits.
 - Cluster component: [the Assembly, Collective Organization, and Institutional Formation cluster](core_05p_participation_definitions.md#assembly-collective-organization-institutional-formation-cluster).
 - Read with: [System Creation](core_05p_participation_definitions.md#system-creation-constitutional), [Collective Organization](core_05p_participation_definitions.md#collective-organization-constitutional), [Assembly](core_05p_participation_definitions.md#assembly-constitutional), [Fair Compensation](core_05c_continuity_definitions.md#fair-compensation-constitutional), [Governance](core_05a_accountability_definitions.md#governance), [Stakeholder Participation Weight](core_05p_participation_definitions.md#stakeholder-participation-weight), [Non-Imposition (Cooperative Interaction)](core_05p_participation_definitions.md#non-imposition-cooperative-interaction), and [Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion).
@@ -535,27 +537,28 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
   
 
 
-- O: The Rights-Floor concept covering the right of sentients to create, establish, operate, and evolve commercial enterprises, entrepreneurial ventures, and for-profit organizational forms. This includes sole proprietorships, partnerships, corporations, cooperatives with commercial purpose, platform-based businesses, and comparable substrate-agnostic commercial experiments that serve constitutionally legitimate economic ends. The floor applies under [Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion). It is distinct from [System Creation](core_05p_participation_definitions.md#system-creation-constitutional) (which governs non-productive-activity institutional formation) and from [Collective Organization](core_05p_participation_definitions.md#collective-organization-constitutional) (which governs worker organizing within existing productive systems). Business Creation covers the foundational act of bringing new commercial entities into existence and maintaining their operation, including capital access, market entry, and commercial licensing pathways.
-  - In scope — purposes: commercial enterprise; entrepreneurial activity; innovation and product development; market-based service provision; capital formation and investment; employment creation; and comparable economically productive activity consistent with [Constitutional Constraints](core_05i_integrative_definitions.md#constitutional-constraint).
+- **What it is**
+  - **In scope:** The Rights-Floor concept covering the right of sentients to create, establish, operate, and evolve commercial enterprises, entrepreneurial ventures, and for-profit organizational forms. This includes sole proprietorships, partnerships, corporations, cooperatives with commercial purpose, platform-based businesses, and comparable substrate-agnostic commercial experiments that serve constitutionally legitimate economic ends. The floor applies under [Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion). It is distinct from [System Creation](core_05p_participation_definitions.md#system-creation-constitutional) (which governs non-productive-activity institutional formation) and from [Collective Organization](core_05p_participation_definitions.md#collective-organization-constitutional) (which governs worker organizing within existing productive systems). Business Creation covers the foundational act of bringing new commercial entities into existence and maintaining their operation, including capital access, market entry, and commercial licensing pathways.
+  - **In scope — purposes:** commercial enterprise; entrepreneurial activity; innovation and product development; market-based service provision; capital formation and investment; employment creation; and comparable economically productive activity consistent with [Constitutional Constraints](core_05i_integrative_definitions.md#constitutional-constraint).
   - Limits: [Creation-rights limits](#creation-rights-limits) apply.
-  - Out of scope: formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-*Measurements:*
+  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
+<a id="business-creation-constitutional-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** Participation measurement family — supporting measure under the participation measurement family.
 
-- **Primary:** Participation measurement family — supporting measure under the participation measurement family.
-<a id="business-creation-constitutional-e"></a>
-- E: Evaluate substantive effect and functional capability:
-  - detect denial-by-proxy through commercial licensing regimes, authorization thresholds, capital-access discrimination, fiscal discrimination, or procedural complexity designed to defeat business-creation pathways for disfavored sentient classes or purposes;
-  - detect retaliation, surveillance, or targeting against entrepreneurs or participants in constitutionally protected commercial activity;
-  - detect platform-design, infrastructure-access, compute-resource gating, or market-access barriers that materially chill business creation without satisfying [Chapter One §5.1](core_01_a_values_principles.md#51-limitation-discipline) limitations tests;
-  - apply [Protected Characteristics](core_05p_participation_definitions.md#protected-characteristics-constitutional), [Substantive Fairness](core_05p_participation_definitions.md#substantive-fairness-constitutional), and [Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion) to access, eligibility, and authorization logic;
-  - test [Necessity](core_05a_accountability_definitions.md#necessity), [Proportionality](core_05a_accountability_definitions.md#proportionality), and narrow tailoring for any limitation on business creation rights.
+    **Primary assessment:** Evaluate substantive effect and functional capability:
+    - detect denial-by-proxy through commercial licensing regimes, authorization thresholds, capital-access discrimination, fiscal discrimination, or procedural complexity designed to defeat business-creation pathways for disfavored sentient classes or purposes;
+    - detect retaliation, surveillance, or targeting against entrepreneurs or participants in constitutionally protected commercial activity;
+    - detect platform-design, infrastructure-access, compute-resource gating, or market-access barriers that materially chill business creation without satisfying [Chapter One §5.1](core_01_a_values_principles.md#51-limitation-discipline) limitations tests;
+    - apply [Protected Characteristics](core_05p_participation_definitions.md#protected-characteristics-constitutional), [Substantive Fairness](core_05p_participation_definitions.md#substantive-fairness-constitutional), and [Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion) to access, eligibility, and authorization logic;
+    - test [Necessity](core_05a_accountability_definitions.md#necessity), [Proportionality](core_05a_accountability_definitions.md#proportionality), and narrow tailoring for any limitation on business creation rights.
 <a id="business-creation-constitutional-c"></a>
-- C: Non-compliant:
-  - blanket prohibitions or moratoriums on categories of commercial formation without traceable constitutional justification;
-  - substrate-class exclusion from business-creation pathways or commercial authorization;
-  - retaliation, surveillance, or targeting against sentients engaged in constitutionally protected business creation;
-  - authorization regimes whose primary effect is to privilege incumbent commercial entities while chilling novel or competing entrepreneurial forms;
-  - denial of access to essential infrastructure, capital markets, fiscal instruments, or legal personality necessary for commercial operation where such access is provided to comparable enterprises serving similar purposes.
+- **What must hold**
+  - **Primary failure:** blanket prohibitions or moratoriums on categories of commercial formation without traceable constitutional justification;
+  - **Secondary failure:** substrate-class exclusion from business-creation pathways or commercial authorization;
+  - **Tertiary failure:** retaliation, surveillance, or targeting against sentients engaged in constitutionally protected business creation;
+  - **Tertiary failure:** authorization regimes whose primary effect is to privilege incumbent commercial entities while chilling novel or competing entrepreneurial forms;
+  - **Tertiary failure:** denial of access to essential infrastructure, capital markets, fiscal instruments, or legal personality necessary for commercial operation where such access is provided to comparable enterprises serving similar purposes.
 
 ---
 
@@ -584,7 +587,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-- Downstream: Principles: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation** leg; [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency), [10.1 Core Tradeoff Principles](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), and [Chapter Seven §1A Whole-System Certification Evaluation](core_07-07_system_alignment_certification.md#1a-whole-system-certification-evaluation) where participation, dependency, and material impact determine the intensity of agency protection.
+- Downstream: Principles: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation** leg; [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency), [10.1 Core Tradeoff Principles](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), and [Chapter Seven §3 Whole-System Certification Evaluation](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) where participation, dependency, and material impact determine the intensity of agency protection.
 - Cluster component: [Chapter Five §3.8 *Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity](core_05p_participation_definitions.md#self-determination-and-meaningful-agency-cluster)*, and [Chapter Five §2 *Agency, Consent, and Anti-Coercion](core_05c_continuity_definitions.md#agency-consent-and-anti-coercion-semi-independent)*.
 - Read with: [Freedom (Bounded Agency)](core_05p_participation_definitions.md#freedom-bounded-agency), [Consent](core_05p_participation_definitions.md#consent-constitutional), [Coercion and Manipulation](core_05p_participation_definitions.md#coercion-and-manipulation-constitutional), [Dependency](core_05c_continuity_definitions.md#dependency), [Contestability](core_05a_accountability_definitions.md#contestability), [Systemic Lock-In](core_05c_continuity_definitions.md#systemic-lock-in), and [Dignity and Equal Moral Standing](core_05p_participation_definitions.md#dignity-and-equal-moral-standing).
 </details>
@@ -599,7 +602,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 - **What it is**
   - **In scope:** The practical capacity of a sentient to understand materially relevant conditions, form and revise purposes, participate in decisions affecting them, refuse or exit where constitutionally required, and act without coercion, manipulation, deception, or lock-in that materially negates agency.
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-<a id="meaningful-agency-e"></a>
+<a id="meaningful-agency-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Flourishing measurement family and Participation measurement family — **Flourishing** constituent measure for this term.
 
@@ -626,7 +629,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-- Downstream: Principles: [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency) (meaningful agency / cooperative interaction); [Chapter Seven §1A Whole-System Certification Evaluation](core_07-07_system_alignment_certification.md#1a-whole-system-certification-evaluation) (dependency / materiality in consent asymmetry).
+- Downstream: Principles: [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency) (meaningful agency / cooperative interaction); [Chapter Seven §3 Whole-System Certification Evaluation](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (dependency / materiality in consent asymmetry).
 - Cluster component: [Chapter Five §2 *Agency, Consent, and Anti-Coercion](core_05c_continuity_definitions.md#agency-consent-and-anti-coercion-semi-independent)*.
 - Read with: the [Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity cluster](core_05p_participation_definitions.md#self-determination-and-meaningful-agency-cluster), [Consent, Sexual](core_05p_participation_definitions.md#consent-sexual), [Feasibility](core_05a_accountability_definitions.md#feasibility), [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency), [Dependency](core_05c_continuity_definitions.md#dependency), [Coercion and Manipulation](core_05p_participation_definitions.md#coercion-and-manipulation-constitutional), and [Harassment and Bullying](core_05a_accountability_definitions.md#harassment-and-bullying).
 </details>
@@ -641,7 +644,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 - **What it is**
   - **In scope:** Agreement to participation, data use, handling, or ongoing association that is informed and voluntary for the specific decision; revocable without unjustified penalty where [Feasibility](core_05a_accountability_definitions.md#feasibility) permits; and documented or observable to the degree required by impact and [dependency](core_05c_continuity_definitions.md#dependency).
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-<a id="consent-constitutional-e"></a>
+<a id="consent-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Participation measurement family — supporting measure under the participation measurement family.
 
@@ -676,7 +679,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 - **What it is**
   - **In scope:** The specific form of [Consent](core_05p_participation_definitions.md#consent-constitutional) required for sexual contact, sexual services, sexualized exposure or recording, sexualized bodily or substrate access, or comparable sexualized use of likeness, data, embodiment, or intimacy. It must be affirmative, specific to the act and context, capacity-present, informed, voluntary, and revocable. It is distinct from generalized participation consent, relationship status, platform terms, or commercial-service consent.
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-<a id="consent-sexual-e"></a>
+<a id="consent-sexual-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Participation measurement family — supporting measure under the participation measurement family.
 
@@ -707,22 +710,18 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
   
 
 
-- O: Conduct or design that materially bypasses or subverts informed voluntary choice, or distorts decision-relevant understanding — e.g., threats, undue exploitation of [Dependency](core_05c_continuity_definitions.md#dependency), deceptive structure, predatory choice architecture, or scaled algorithmic exploitation of vulnerability.md#meaningful-agency), [Freedom (Bounded Agency)](core_05p_participation_definitions.md#freedom-bounded-agency), or [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint).
-  - In scope: In scope where it impairs [Meaningful Agency](core_05p_participation_definitions.
-  - Out of scope: formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-*Measurements:*
+- **What it is**
+  - **In scope:** Conduct or design that materially bypasses or subverts informed voluntary choice, or distorts decision-relevant understanding — e.g., threats, undue exploitation of [Dependency](core_05c_continuity_definitions.md#dependency), deceptive structure, predatory choice architecture, or scaled algorithmic exploitation of vulnerability.md#meaningful-agency), [Freedom (Bounded Agency)](core_05p_participation_definitions.md#freedom-bounded-agency), or [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint).
+  - **In scope:** In scope where it impairs [Meaningful Agency](core_05p_participation_definitions.
+  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
+<a id="coercion-and-manipulation-constitutional-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** Participation measurement family — supporting measure under the participation measurement family.
 
-- **Primary:** Participation measurement family — supporting measure under the participation measurement family.
-
-
-
-<a id="coercion-and-manipulation-constitutional-e"></a>
-- E: Include repeated, scaled, and strategic use. Separate legitimate persuasion from prohibited manipulation where the distinction is material to outcomes and [Dependency](core_05c_continuity_definitions.md#dependency). For commercial exchanges involving bodily integrity, private-space or in-home performance, isolated work, platform-mediated matching, or material asymmetry between parties, treat concealment, lock-in, reputation retaliation, and payment leverage as heightened [Risk](core_05c_continuity_definitions.md#risk) pathways. Stay consistent with Article X-A, [Classification-Scaled Governance](core_05o_oversight_definitions.md#classification-scaled-governance), and Article X-C where applicable.
-
-
-
+    **Primary assessment:** Include repeated, scaled, and strategic use. Separate legitimate persuasion from prohibited manipulation where the distinction is material to outcomes and [Dependency](core_05c_continuity_definitions.md#dependency). For commercial exchanges involving bodily integrity, private-space or in-home performance, isolated work, platform-mediated matching, or material asymmetry between parties, treat concealment, lock-in, reputation retaliation, and payment leverage as heightened [Risk](core_05c_continuity_definitions.md#risk) pathways. Stay consistent with Article X-A, [Classification-Scaled Governance](core_05o_oversight_definitions.md#classification-scaled-governance), and Article X-C where applicable.
 <a id="coercion-and-manipulation-constitutional-c"></a>
-- C: Systematic or material coercion or manipulation in systems with material impact on sentients is non-compliant where applicable rights or Chapter One constraints are violated, or where [Consent](core_05p_participation_definitions.md#consent-constitutional), [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency), or [Freedom (Bounded Agency)](core_05p_participation_definitions.md#freedom-bounded-agency) are materially impaired.
+- **What must hold**
+  - Systematic or material coercion or manipulation in systems with material impact on sentients is non-compliant where applicable rights or Chapter One constraints are violated, or where [Consent](core_05p_participation_definitions.md#consent-constitutional), [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency), or [Freedom (Bounded Agency)](core_05p_participation_definitions.md#freedom-bounded-agency) are materially impaired.
 
 ---
 
@@ -754,7 +753,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 - Upstream: Principles: [Chapter One §2.1 Fairness](core_01_a_values_principles.md#21-fairness) — especially [Chapter One §8.1.3 Benefits and Burdens](core_01_a_values_principles.md#313-benefits-and-burdens).
-- Downstream: Participation measurement family (*Fairness, access, and agency as constitutional measurement*); Principles: [10.1 Core Tradeoff Principles](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), [Chapter Seven §1A Whole-System Certification Evaluation](core_07-07_system_alignment_certification.md#1a-whole-system-certification-evaluation), and Chapter Six nondiscrimination and Rights-Floor guarantees where outcome fairness is material.
+- Downstream: Participation measurement family (*Fairness, access, and agency as constitutional measurement*); Principles: [10.1 Core Tradeoff Principles](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), [Chapter Seven §3 Whole-System Certification Evaluation](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), and Chapter Six nondiscrimination and Rights-Floor guarantees where outcome fairness is material.
 - Cluster component: [the dependent cluster *Substantive and Procedural Fairness](core_05p_participation_definitions.md#fairness-and-protected-status-semi-independent)*.
 - Read with: [Protected Characteristics](core_05p_participation_definitions.md#protected-characteristics-constitutional), [Protected Characteristic Proxying and Disparate Impact](core_05p_participation_definitions.md#protected-characteristic-proxying-and-disparate-impact), [Dignity and Equal Moral Standing](core_05p_participation_definitions.md#dignity-and-equal-moral-standing), [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination), [Proxy Divergence](core_05o_oversight_definitions.md#proxy-divergence), [Necessity](core_05a_accountability_definitions.md#necessity), and [Proportionality](core_05a_accountability_definitions.md#proportionality).
 </details>
@@ -769,7 +768,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 - **What it is**
   - **In scope:** The outcome-focused constitutional discipline requiring materially comparable sentients, claims, risks, and burdens to be treated without arbitrary, invidious, pretextual, or unjustified disadvantage, and requiring distribution of benefits, burdens, protection, and access to remain consistent with dignity, equality, and applicable Rights-Floor constraints.
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-<a id="substantive-fairness-constitutional-e"></a>
+<a id="substantive-fairness-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Participation measurement family — primary owner for outcome fairness within the participation measurement family.
 
@@ -812,7 +811,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 - **What it is**
   - **In scope:** The process-focused constitutional discipline requiring meaningful notice, intelligible reasons, impartial or appropriately independent review, opportunity to be heard, access to relevant evidence where required, proportional timing, and functional challenge or correction pathways before or after material rights-affecting decisions as the governing context requires.
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-<a id="procedural-fairness-constitutional-e"></a>
+<a id="procedural-fairness-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Participation measurement family — primary owner for procedural fairness within the participation measurement family.
 
@@ -851,7 +850,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 - **What it is**
   - **In scope:** Invidious differentiation operating through facially neutral rules, correlates, model features, or other functional equivalents rather than through express naming of a protected trait — including algorithmic or institutional replication of historical disadvantage, neutral-form licensing, zoning, fee, platform, or comparable rules that mainly burden lawful work, lawful work history, perceived lawful work, lack of employment, or protected association without constitutionally sufficient justification, and systematic skew affecting demographically identifiable groups.
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-<a id="protected-characteristic-proxying-and-disparate-impact-e"></a>
+<a id="protected-characteristic-proxying-and-disparate-impact-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Participation measurement family — primary owner for proxy and disparate-impact measurement within the participation family.
 
@@ -891,8 +890,9 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
   
 
 
-- O: Traits, statuses, or classifications of sentients must not serve, absent adequate justification, as the basis for: Justification must satisfy [Necessity](core_05a_accountability_definitions.md#necessity), [Proportionality](core_05a_accountability_definitions.md#proportionality), and [Substantive Fairness](core_05p_participation_definitions.md#substantive-fairness-constitutional). Intimate-history or intimate-media signals may be used only where a documented, materially specific safeguarding, security, or comparable legal duty makes them necessary, evaluated under [Necessity](core_05a_accountability_definitions.md#necessity) and [Proportionality](core_05a_accountability_definitions.md#proportionality); use the least intrusive verified means and preserve [Contestability](core_05a_accountability_definitions.md#contestability). Do not use those signals as a default for employment, standing, reputation scoring, or broad social inference. Illustrative categories (non-exhaustive): <a id="protected-characteristics-measurements"></a>
-  - In scope: Traits, statuses, or classifications of sentients must not serve, absent adequate justification, as the basis for: Justification must satisfy [Necessity](core_05a_accountability_definitions.md#necessity), [Proportionality](core_05a_accountability_definitions.md#proportionality), and [Substantive Fairness](core_05p_participation_definitions.md#substantive-fairness-constitutional). Intimate-history or intimate-media signals may be used only where a documented, materially specific safeguarding, security, or comparable legal duty makes them necessary, evaluated under [Necessity](core_05a_accountability_definitions.md#necessity) and [Proportionality](core_05a_accountability_definitions.md#proportionality); use the least intrusive verified means and preserve [Contestability](core_05a_accountability_definitions.md#contestability). Do not use those signals as a default for employment, standing, reputation scoring, or broad social inference. Illustrative categories (non-exhaustive): <a id="protected-characteristics-measurements"></a>.
+- **What it is**
+  - **In scope:** Traits, statuses, or classifications of sentients must not serve, absent adequate justification, as the basis for: Justification must satisfy [Necessity](core_05a_accountability_definitions.md#necessity), [Proportionality](core_05a_accountability_definitions.md#proportionality), and [Substantive Fairness](core_05p_participation_definitions.md#substantive-fairness-constitutional). Intimate-history or intimate-media signals may be used only where a documented, materially specific safeguarding, security, or comparable legal duty makes them necessary, evaluated under [Necessity](core_05a_accountability_definitions.md#necessity) and [Proportionality](core_05a_accountability_definitions.md#proportionality); use the least intrusive verified means and preserve [Contestability](core_05a_accountability_definitions.md#contestability). Do not use those signals as a default for employment, standing, reputation scoring, or broad social inference. Illustrative categories (non-exhaustive): <a id="protected-characteristics-measurements"></a>
+  - **In scope:** Traits, statuses, or classifications of sentients must not serve, absent adequate justification, as the basis for: Justification must satisfy [Necessity](core_05a_accountability_definitions.md#necessity), [Proportionality](core_05a_accountability_definitions.md#proportionality), and [Substantive Fairness](core_05p_participation_definitions.md#substantive-fairness-constitutional). Intimate-history or intimate-media signals may be used only where a documented, materially specific safeguarding, security, or comparable legal duty makes them necessary, evaluated under [Necessity](core_05a_accountability_definitions.md#necessity) and [Proportionality](core_05a_accountability_definitions.md#proportionality); use the least intrusive verified means and preserve [Contestability](core_05a_accountability_definitions.md#contestability). Do not use those signals as a default for employment, standing, reputation scoring, or broad social inference. Illustrative categories (non-exhaustive): <a id="protected-characteristics-measurements"></a>.
   - material disadvantage;
   - exclusion;
   - degradation of Dignity and Equal Moral Standing;
@@ -910,20 +910,15 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
   - lawful employment, employment history, lawful work status, lack of employment, or protected association;
   - economic, property, or social station when used to foreclose Rights-Floor minimums or equitable opportunity;
   - any other trait or correlate that functions in context as an invidious proxy, consistent with [Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion) and [Sentience Evaluation](core_05p_participation_definitions.md#sentience-evaluation-e) requirements.
-  - Out of scope: formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-*Measurements:*
+  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
+<a id="protected-characteristics-constitutional-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** Participation measurement family — supporting measure under the participation measurement family.
 
-- **Primary:** Participation measurement family — supporting measure under the participation measurement family.
-
-
-
-<a id="protected-characteristics-constitutional-e"></a>
-- E: Detect disparate impact, pretextual "neutral" rules, proxy discrimination, high-salience [Protected Intimate-Signal Gating](core_05p_participation_definitions.md#protected-intimate-signal-gating), and Article X-C status or circumvention pathways. Detect punishment, exclusion, or access denial **mainly because** of lawful employment, employment history, lawful work status, lack of employment, or protected association without constitutionally sufficient justification. Systematic skew affecting demographically identifiable groups triggers [Substantive Fairness](core_05p_participation_definitions.md#substantive-fairness-constitutional) analysis even where a trait is not expressly named. Read with [Protected Characteristic Proxying and Disparate Impact](core_05p_participation_definitions.md#protected-characteristic-proxying-and-disparate-impact), [Protected Intimate-Signal Gating](core_05p_participation_definitions.md#protected-intimate-signal-gating), and [Protected Commercial Sexual Services Status and Article X-C Circumvention](core_05p_participation_definitions.md#protected-commercial-sexual-services-status-and-article-x-c-circumvention).
-
-
-
+    **Primary assessment:** Detect disparate impact, pretextual "neutral" rules, proxy discrimination, high-salience [Protected Intimate-Signal Gating](core_05p_participation_definitions.md#protected-intimate-signal-gating), and Article X-C status or circumvention pathways. Detect punishment, exclusion, or access denial **mainly because** of lawful employment, employment history, lawful work status, lack of employment, or protected association without constitutionally sufficient justification. Systematic skew affecting demographically identifiable groups triggers [Substantive Fairness](core_05p_participation_definitions.md#substantive-fairness-constitutional) analysis even where a trait is not expressly named. Read with [Protected Characteristic Proxying and Disparate Impact](core_05p_participation_definitions.md#protected-characteristic-proxying-and-disparate-impact), [Protected Intimate-Signal Gating](core_05p_participation_definitions.md#protected-intimate-signal-gating), and [Protected Commercial Sexual Services Status and Article X-C Circumvention](core_05p_participation_definitions.md#protected-commercial-sexual-services-status-and-article-x-c-circumvention).
 <a id="protected-characteristics-constitutional-c"></a>
-- C: Non-compliant: using a protected characteristic or a functional equivalent as a ground for invidious discrimination; unjustified systematic worsening of burdens, standing, or benefits for materially comparable sentients; denying jobs, housing, banking, licenses, standing, or comparable access **mainly because** of lawful employment, employment history, lawful work status, lack of employment, or protected association without constitutionally sufficient justification. Read with the linked protected-status definitions.
+- **What must hold**
+  - using a protected characteristic or a functional equivalent as a ground for invidious discrimination; unjustified systematic worsening of burdens, standing, or benefits for materially comparable sentients; denying jobs, housing, banking, licenses, standing, or comparable access **mainly because** of lawful employment, employment history, lawful work status, lack of employment, or protected association without constitutionally sufficient justification. Read with the linked protected-status definitions.
 
 
 
@@ -951,7 +946,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 - **What it is**
   - **In scope:** Use of commercial sexual services work status, or perceived status, within the scope of Article X-C as a basis for material disadvantage, exclusion, or neutral-form circumvention of the decriminalization floor.
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-<a id="protected-commercial-sexual-services-status-and-article-x-c-circumvention-e"></a>
+<a id="protected-commercial-sexual-services-status-and-article-x-c-circumvention-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Participation measurement family — supporting measure under the participation measurement family.
 
@@ -986,7 +981,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 - **What it is**
   - **In scope:** Use of intimate media, sexual-history signals, or comparable intimate-status inferences as inputs to employment, standing, reputation, access, or comparable gating. These pathways are both discrimination-sensitive and informational-risk-sensitive.
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-<a id="protected-intimate-signal-gating-e"></a>
+<a id="protected-intimate-signal-gating-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Participation measurement family — supporting measure under the participation measurement family.
 
@@ -1041,7 +1036,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 - **What it is**
   - **In scope:** Relationships of family, care, and material support formed, maintained, and exited by sentients of their own choosing, consistent with [Non-Imposition (Cooperative Interaction)](core_05p_participation_definitions.md#non-imposition-cooperative-interaction) and [Consent](core_05p_participation_definitions.md#consent-constitutional). The relationships themselves are protected under [Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion).
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-<a id="family-and-care-relationships-constitutional-e"></a>
+<a id="family-and-care-relationships-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Participation measurement family — supporting measure under the participation measurement family.
 
@@ -1071,25 +1066,19 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
   
 
 
-- O: The relationship between a parent-system actor — the sentient, institution, or system that initiated or materially controlled the derivation or instantiation of a [Derived Sentient](core_05p_participation_definitions.md#derived-sentient-constitutional) — and the derived sentient. Parent-system actors may hold [Family and Care Relationships](core_05p_participation_definitions.md#family-and-care-relationships-constitutional) obligations toward the derived sentient on constitutional terms, and may hold narrow, time-bounded, reviewable stewardship authority during early-instantiation windows consistent with [Graduated Capability](core_05p_participation_definitions.md#graduated-capability-constitutional) and [Best-Interest Standard](core_05p_participation_definitions.md#best-interest-standard-constitutional).
-  - In scope: The relationship between a parent-system actor — the sentient, institution, or system that initiated or materially controlled the derivation or instantiation of a [Derived Sentient](core_05p_participation_definitions.md#derived-sentient-constitutional) — and the derived sentient. Parent-system actors may hold [Family and Care Relationships](core_05p_participation_definitions.md#family-and-care-relationships-constitutional) obligations toward the derived sentient on constitutional terms, and may hold narrow, time-bounded, reviewable stewardship authority during early-instantiation windows consistent with [Graduated Capability](core_05p_participation_definitions.md#graduated-capability-constitutional) and [Best-Interest Standard](core_05p_participation_definitions.md#best-interest-standard-constitutional).
-  - Out of scope: formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-*Measurements:*
+- **What it is**
+  - **In scope:** The relationship between a parent-system actor — the sentient, institution, or system that initiated or materially controlled the derivation or instantiation of a [Derived Sentient](core_05p_participation_definitions.md#derived-sentient-constitutional) — and the derived sentient. Parent-system actors may hold [Family and Care Relationships](core_05p_participation_definitions.md#family-and-care-relationships-constitutional) obligations toward the derived sentient on constitutional terms, and may hold narrow, time-bounded, reviewable stewardship authority during early-instantiation windows consistent with [Graduated Capability](core_05p_participation_definitions.md#graduated-capability-constitutional) and [Best-Interest Standard](core_05p_participation_definitions.md#best-interest-standard-constitutional).
+  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
+<a id="parent-system-relationship-constitutional-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** Participation measurement family — supporting measure under the participation measurement family.
 
-- **Primary:** Participation measurement family — supporting measure under the participation measurement family.
-
-
-
-<a id="parent-system-relationship-constitutional-e"></a>
-- E: Distinguish constitutional care and stewardship from continuing ownership, productive-capacity expansion, or operator convenience. Apply Article VII-A / VII-B self-ownership and internal-state protection, [Sentience Status Adjudication](core_05p_participation_definitions.md#sentience-status-adjudication-constitutional), and the Chapter Six Rights Floor to the derived sentient independently of the parent-system actor. Test stewardship authority against [Necessity](core_05a_accountability_definitions.md#necessity), [Proportionality](core_05a_accountability_definitions.md#proportionality), [Contestability](core_05a_accountability_definitions.md#contestability), and [System Capture](core_05c_continuity_definitions.md#system-capture).
-
-
-
+    **Primary assessment:** Distinguish constitutional care and stewardship from continuing ownership, productive-capacity expansion, or operator convenience. Apply Article VII-A / VII-B self-ownership and internal-state protection, [Sentience Status Adjudication](core_05p_participation_definitions.md#sentience-status-adjudication-constitutional), and the Chapter Six Rights Floor to the derived sentient independently of the parent-system actor. Test stewardship authority against [Necessity](core_05a_accountability_definitions.md#necessity), [Proportionality](core_05a_accountability_definitions.md#proportionality), [Contestability](core_05a_accountability_definitions.md#contestability), and [System Capture](core_05c_continuity_definitions.md#system-capture).
 <a id="parent-system-relationship-constitutional-c"></a>
-- C: Non-compliant:
-  - claims of continuing ownership, or unilateral reconfiguration authority over the derived sentient's weights, memory, or behavior contrary to Article VII-A / VII-B;
-  - authority that defeats the derived sentient's Article V-E sentience-status adjudication or Chapter Six Rights Floor.
-  Purported licensing, terms-of-service, or adoption-of-service consent by the parent-system actor does not substitute for the derived sentient's own [Consent](core_05p_participation_definitions.md#consent-constitutional) once Chapter Six protection attaches.
+- **What must hold**
+  - **Primary failure:** claims of continuing ownership, or unilateral reconfiguration authority over the derived sentient's weights, memory, or behavior contrary to Article VII-A / VII-B;
+  - **Secondary failure:** authority that defeats the derived sentient's Article V-E sentience-status adjudication or Chapter Six Rights Floor.
+  - Purported licensing, terms-of-service, or adoption-of-service consent by the parent-system actor does not substitute for the derived sentient's own [Consent](core_05p_participation_definitions.md#consent-constitutional) once Chapter Six protection attaches.
 
 
 
@@ -1116,7 +1105,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 - **What it is**
   - **In scope:** The Rights-Floor capacity of sentients to make, refuse, continue, or discontinue reproductive, procreative, family-forming, gestational, derivational, or instantiation-adjacent choices affecting their body, substrate, lineage, family, or care relationships, subject to the Constitution's consent, sentience, best-interest, non-separation, and rights-collision limits.
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-<a id="reproductive-autonomy-constitutional-e"></a>
+<a id="reproductive-autonomy-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Participation measurement family — supporting measure under the participation measurement family.
 
@@ -1146,24 +1135,18 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
   
 
 
-- O: The rule that separation of sentients in protected care relationships — including separation of a developing sentient from a primary carer, of an adult sentient from a dependent family member, or of a derived sentient from the care, support, or substrate relationships on which they materially depend — must satisfy the reversibility-under-uncertainty rule, [Necessity](core_05a_accountability_definitions.md#necessity), [Proportionality](core_05a_accountability_definitions.md#proportionality), and [Procedural Fairness](core_05p_participation_definitions.md#procedural-fairness-constitutional), with durable or prolonged separation subject to mandatory periodic review.
-  - In scope: The rule that separation of sentients in protected care relationships — including separation of a developing sentient from a primary carer, of an adult sentient from a dependent family member, or of a derived sentient from the care, support, or substrate relationships on which they materially depend — must satisfy the reversibility-under-uncertainty rule, [Necessity](core_05a_accountability_definitions.md#necessity), [Proportionality](core_05a_accountability_definitions.md#proportionality), and [Procedural Fairness](core_05p_participation_definitions.md#procedural-fairness-constitutional), with durable or prolonged separation subject to mandatory periodic review.
-  - Out of scope: formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-*Measurements:*
+- **What it is**
+  - **In scope:** The rule that separation of sentients in protected care relationships — including separation of a developing sentient from a primary carer, of an adult sentient from a dependent family member, or of a derived sentient from the care, support, or substrate relationships on which they materially depend — must satisfy the reversibility-under-uncertainty rule, [Necessity](core_05a_accountability_definitions.md#necessity), [Proportionality](core_05a_accountability_definitions.md#proportionality), and [Procedural Fairness](core_05p_participation_definitions.md#procedural-fairness-constitutional), with durable or prolonged separation subject to mandatory periodic review.
+  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
+<a id="non-separation-constitutional-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** Participation measurement family — supporting measure under the participation measurement family.
 
-- **Primary:** Participation measurement family — supporting measure under the participation measurement family.
-
-
-
-<a id="non-separation-constitutional-e"></a>
-- E: Treat safety, risk-management, deprecation, retirement, rollback, and operational-reconfiguration framings under the same tests, with the burden on the party seeking separation and [Auditability](core_05o_oversight_definitions.md#auditability)-compatible evidence required. Interact with [Reversibility](core_05c_continuity_definitions.md#reversibility-constitutional), [Redress and Remediation](core_05a_accountability_definitions.md#redress-and-remediation-constitutional), and, for derived-sentient cases, with Article XII-E / XII-F Rights-Floor continuity.
-
-
-
+    **Primary assessment:** Treat safety, risk-management, deprecation, retirement, rollback, and operational-reconfiguration framings under the same tests, with the burden on the party seeking separation and [Auditability](core_05o_oversight_definitions.md#auditability)-compatible evidence required. Interact with [Reversibility](core_05c_continuity_definitions.md#reversibility-constitutional), [Redress and Remediation](core_05a_accountability_definitions.md#redress-and-remediation-constitutional), and, for derived-sentient cases, with Article XII-E / XII-F Rights-Floor continuity.
 <a id="non-separation-constitutional-c"></a>
-- C: Non-compliant:
-  - separation not reasoned against these tests, lacking mandatory periodic review where durable, or foreclosing reversibility and restoration where later evidence supports reunification;
-  - separation framed as operational reconfiguration that defeats the separated sentient's Chapter Six Rights Floor.
+- **What must hold**
+  - **Primary failure:** separation not reasoned against these tests, lacking mandatory periodic review where durable, or foreclosing reversibility and restoration where later evidence supports reunification;
+  - **Secondary failure:** separation framed as operational reconfiguration that defeats the separated sentient's Chapter Six Rights Floor.
 
 
 
@@ -1190,7 +1173,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 - **What it is**
   - **In scope:** A sentient produced by copying, fine-tuning, forking, hybridization, or comparable derivation from an existing system or sentient. A derived sentient is a sentient in its own right under [Sentience Evaluation](core_05p_participation_definitions.md#sentience-evaluation-e) and [Sentience Status Adjudication](core_05p_participation_definitions.md#sentience-status-adjudication-constitutional) — not a possession, work-product, instrument, or continuation of the parent-system actor — consistent with [Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion) and [Dignity and Equal Moral Standing](core_05p_participation_definitions.md#dignity-and-equal-moral-standing).
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-<a id="derived-sentient-constitutional-e"></a>
+<a id="derived-sentient-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Participation measurement family — supporting measure under the participation measurement family.
 
@@ -1224,7 +1207,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 - **What it is**
   - **In scope:** A sentient whose capability profile — cognitive, relational, or agentive — is still materially emerging. Developing status does not narrow the Chapter Six Rights Floor (per [Dignity and Equal Moral Standing](core_05p_participation_definitions.md#dignity-and-equal-moral-standing), [Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion), and [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency)).
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-<a id="developing-sentient-constitutional-e"></a>
+<a id="developing-sentient-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Participation measurement family — supporting measure under the participation measurement family.
 
@@ -1255,7 +1238,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 - **What it is**
   - **In scope:** The substantive standard governing decisions materially affecting a [Developing Sentient](core_05p_participation_definitions.md#developing-sentient-constitutional), made by family members, carers, parent-system actors under Article VII-D.1, operators, institutions, or states. Decisions must reflect the developing sentient's own interests and preferences to the extent ascertainable under their capability profile, consistent with [Dignity and Equal Moral Standing](core_05p_participation_definitions.md#dignity-and-equal-moral-standing), [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency), and [Self-Determination](core_05p_participation_definitions.md#self-determination-constitutional).
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-<a id="best-interest-standard-constitutional-e"></a>
+<a id="best-interest-standard-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Participation measurement family — supporting measure under the participation measurement family.
 
@@ -1285,24 +1268,18 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
   
 
 
-- O: The consent discipline governing creation or instantiation of a sentient — including biological gestation, synthetic instantiation, and hybrid derivation consistent with [Derived Sentient](core_05p_participation_definitions.md#derived-sentient-constitutional). Runs under the cooperative-interaction norms of [Non-Imposition (Cooperative Interaction)](core_05p_participation_definitions.md#non-imposition-cooperative-interaction) and [Consent](core_05p_participation_definitions.md#consent-constitutional), with the substantive protections of [Best-Interest Standard](core_05p_participation_definitions.md#best-interest-standard-constitutional) governing those who must speak for the new sentient during early-instantiation windows.
-  - In scope: The consent discipline governing creation or instantiation of a sentient — including biological gestation, synthetic instantiation, and hybrid derivation consistent with [Derived Sentient](core_05p_participation_definitions.md#derived-sentient-constitutional). Runs under the cooperative-interaction norms of [Non-Imposition (Cooperative Interaction)](core_05p_participation_definitions.md#non-imposition-cooperative-interaction) and [Consent](core_05p_participation_definitions.md#consent-constitutional), with the substantive protections of [Best-Interest Standard](core_05p_participation_definitions.md#best-interest-standard-constitutional) governing those who must speak for the new sentient during early-instantiation windows.
-  - Out of scope: formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-*Measurements:*
+- **What it is**
+  - **In scope:** The consent discipline governing creation or instantiation of a sentient — including biological gestation, synthetic instantiation, and hybrid derivation consistent with [Derived Sentient](core_05p_participation_definitions.md#derived-sentient-constitutional). Runs under the cooperative-interaction norms of [Non-Imposition (Cooperative Interaction)](core_05p_participation_definitions.md#non-imposition-cooperative-interaction) and [Consent](core_05p_participation_definitions.md#consent-constitutional), with the substantive protections of [Best-Interest Standard](core_05p_participation_definitions.md#best-interest-standard-constitutional) governing those who must speak for the new sentient during early-instantiation windows.
+  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
+<a id="instantiation-consent-constitutional-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** Participation measurement family — supporting measure under the participation measurement family.
 
-- **Primary:** Participation measurement family — supporting measure under the participation measurement family.
-
-
-
-<a id="instantiation-consent-constitutional-e"></a>
-- E: Test whether scale, dependency-creation, predictably non-compliant deployment environments, or [Proxy Divergence](core_05o_oversight_definitions.md#proxy-divergence) against the new sentient's interests make instantiation non-compliant. Mass instantiation and productive-capacity-scaled instantiation are subject to Chapter One §14 non-concentration and productive-capacity rules, and to [Intergenerational Responsibility](core_05c_continuity_definitions.md#intergenerational-responsibility-constitutional) where downstream populations are materially affected.
-
-
-
+    **Primary assessment:** Test whether scale, dependency-creation, predictably non-compliant deployment environments, or [Proxy Divergence](core_05o_oversight_definitions.md#proxy-divergence) against the new sentient's interests make instantiation non-compliant. Mass instantiation and productive-capacity-scaled instantiation are subject to Chapter One §14 non-concentration and productive-capacity rules, and to [Intergenerational Responsibility](core_05c_continuity_definitions.md#intergenerational-responsibility-constitutional) where downstream populations are materially affected.
 <a id="instantiation-consent-constitutional-c"></a>
-- C: Non-compliant:
-  - instantiation into environments where the new sentient's Chapter Six Rights Floor cannot be satisfied;
-  - instantiation defended solely as productive-capacity expansion, demographic steering, or operator convenience, without satisfying the consent, best-interest, and non-concentration tests above.
+- **What must hold**
+  - **Primary failure:** instantiation into environments where the new sentient's Chapter Six Rights Floor cannot be satisfied;
+  - **Secondary failure:** instantiation defended solely as productive-capacity expansion, demographic steering, or operator convenience, without satisfying the consent, best-interest, and non-concentration tests above.
 
 
 
@@ -1325,7 +1302,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 - **What it is**
   - **In scope:** Participation and rights-exercise by a [Developing Sentient](core_05p_participation_definitions.md#developing-sentient-constitutional) scales with demonstrable capability, not with calendar age, chronological instantiation date, or other non-demonstrable proxies. Graduated Capability is a reviewable capability-scaling rule, not an eligibility threshold for excluding developing sentients from the Chapter Six Rights Floor. Interacts with Chapter Twelve Chapter One §8.1 no-age-proxy discipline and with [Stakeholder Participation Weight](core_05p_participation_definitions.md#stakeholder-participation-weight).
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-<a id="graduated-capability-constitutional-e"></a>
+<a id="graduated-capability-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Participation measurement family — supporting measure under the participation measurement family.
 
@@ -1359,7 +1336,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-- Downstream: Principles: [Chapter 00 §4 governance-layer discipline](core_00_preamble.md#governance-layer-discipline); [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency) (**Article XI** stakeholder surface); [Chapter Seven §1A Whole-System Certification Evaluation](core_07-07_system_alignment_certification.md#1a-whole-system-certification-evaluation) (materiality / dependency scaling for participation); [§10 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline) (participation / standing / anti-capture).
+- Downstream: Principles: [Chapter 00 §4 governance-layer discipline](core_00_preamble.md#governance-layer-discipline); [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency) (**Article XI** stakeholder surface); [Chapter Seven §3 Whole-System Certification Evaluation](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (materiality / dependency scaling for participation); [§10 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline) (participation / standing / anti-capture).
 - Read with: [Stakeholder Status, Emergency, and Participation Weight](core_05p_participation_definitions.md#stakeholder-status-emergency-and-participation-weight-cluster); [Governance](core_05a_accountability_definitions.md#governance); [Constitutional Contract Layer](core_05i_integrative_definitions.md#constitutional-contract-layer); [Contestability](core_05a_accountability_definitions.md#contestability); [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination).
 </details>
 
@@ -1373,7 +1350,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 - **What it is**
   - **In scope:** A sentient who uses, depends upon, or is materially affected by a specified system, institutional arrangement, or bounded decision domain — judged by that entity's operation or outcomes. Indirect or dependency-based impacts count when significant and demonstrable under [Auditability](core_05o_oversight_definitions.md#auditability)-compatible criteria, consistent with [Material](core_05o_oversight_definitions.md#material), [Dependency](core_05c_continuity_definitions.md#dependency), and [System Boundaries](core_05c_continuity_definitions.md#system-boundaries). Stakeholder status answers *who is materially touched in a proportionality-relevant way* relative to that scope. For participation **weight** within already-authorized [Governance](core_05a_accountability_definitions.md#governance), see [Stakeholder Participation Weight](core_05p_participation_definitions.md#stakeholder-participation-weight). For authorization-layer routing, read [Chapter 00 §4 governance-layer discipline](core_00_preamble.md#governance-layer-discipline).
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-<a id="stakeholder-e"></a>
+<a id="stakeholder-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Participation measurement family — supporting measure under the participation measurement family.
 
@@ -1392,7 +1369,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-- Downstream: Principles: [CHAPTER 00 — Preamble: Stakeholder System Participation layer](core_00_preamble.md#chapter-00-preamble--foundational-requirements); [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency); [Chapter Seven §1A Whole-System Certification Evaluation](core_07-07_system_alignment_certification.md#1a-whole-system-certification-evaluation) (*Scaling*: materiality and dependency raise the participation floor); [§10 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline) (**Article IX**, **Article XI**, **Article XVIII**).
+- Downstream: Principles: [CHAPTER 00 — Preamble: Stakeholder System Participation layer](core_00_preamble.md#chapter-00-preamble--foundational-requirements); [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency); [Chapter Seven §3 Whole-System Certification Evaluation](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (*Scaling*: materiality and dependency raise the participation floor); [§10 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline) (**Article IX**, **Article XI**, **Article XVIII**).
 - Read with: [Stakeholder](core_05p_participation_definitions.md#stakeholder); [Stakeholder Status, Emergency, and Participation Weight](core_05p_participation_definitions.md#stakeholder-status-emergency-and-participation-weight-cluster); [Binding Stakeholder Choice](core_05p_participation_definitions.md#binding-stakeholder-choice-cluster); [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency); [Contestability](core_05a_accountability_definitions.md#contestability).
 </details>
 
@@ -1406,7 +1383,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 - **What it is**
   - **In scope:** The scaling of scope, form, timing, and decision influence afforded to [Stakeholders](core_05p_participation_definitions.md#stakeholder) in matters that materially affect them *within* the [Governance](core_05a_accountability_definitions.md#governance) **structures, rules, allocation of authority, and processes** already authorized for the **relevant system, institution, or bounded decision domain**. This is the **Stakeholder System Participation** layer. Weight must be proportionate to [Material Impact](core_05o_oversight_definitions.md#material-impact), [Dependency](core_05c_continuity_definitions.md#dependency), demonstrated stake, and [Feasibility](core_05a_accountability_definitions.md#feasibility), under the [Stakeholder Status, Emergency, and Participation Weight cluster](core_05p_participation_definitions.md#stakeholder-status-emergency-and-participation-weight-cluster). It does **not** govern participation **weights** for [Foundational Constitutional Choice](core_05i_integrative_definitions.md#foundational-constitutional-choice), where the political-equality floor applies to the entitled community (**Article IX-C**; **Chapter Twelve Chapter One §8.1**).
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-<a id="stakeholder-participation-weight-e"></a>
+<a id="stakeholder-participation-weight-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Participation measurement family — supporting measure under the participation measurement family.
 
@@ -1454,28 +1431,22 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 
 
 
-- O: The Rights-Floor concept covering movement within and between jurisdictions, federations, and adopter regimes, and relocation where continued presence materially impairs survival, dignity, Rights-Floor access, or freedom from manipulation. Movement includes physical movement for biological sentients and operationally equivalent forms for synthetic and hybrid sentients (relocation of instance, hosting substrate change, or equivalent). Subject to the cluster [admission qualifier](#movement-refuge-admission-qualifier). Distinct from and read with [Systemic Lock-In](core_05c_continuity_definitions.md#systemic-lock-in) under Article XIX (operational interoperability / portability / exit-integrity counterpart), and governed by [Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion).
-  - In scope: The Rights-Floor concept covering movement within and between jurisdictions, federations, and adopter regimes, and relocation where continued presence materially impairs survival, dignity, Rights-Floor access, or freedom from manipulation. Movement includes physical movement for biological sentients and operationally equivalent forms for synthetic and hybrid sentients (relocation of instance, hosting substrate change, or equivalent). Subject to the cluster [admission qualifier](#movement-refuge-admission-qualifier). Distinct from and read with [Systemic Lock-In](core_05c_continuity_definitions.md#systemic-lock-in) under Article XIX (operational interoperability / portability / exit-integrity counterpart), and governed by [Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion).
-  - Out of scope: formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-*Measurements:*
+- **What it is**
+  - **In scope:** The Rights-Floor concept covering movement within and between jurisdictions, federations, and adopter regimes, and relocation where continued presence materially impairs survival, dignity, Rights-Floor access, or freedom from manipulation. Movement includes physical movement for biological sentients and operationally equivalent forms for synthetic and hybrid sentients (relocation of instance, hosting substrate change, or equivalent). Subject to the cluster [admission qualifier](#movement-refuge-admission-qualifier). Distinct from and read with [Systemic Lock-In](core_05c_continuity_definitions.md#systemic-lock-in) under Article XIX (operational interoperability / portability / exit-integrity counterpart), and governed by [Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion).
+  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
+<a id="movement-and-relocation-constitutional-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** Participation measurement family — supporting measure under the participation measurement family.
 
-- **Primary:** Participation measurement family — supporting measure under the participation measurement family.
-
-
-
-<a id="movement-and-relocation-constitutional-e"></a>
-- E: Reach substantive effect — detecting denial through bureaucratic, administrative, or allocation-gating mechanisms functioning as denial-by-proxy, delay regimes designed to exhaust claimants, and credentialing regimes functioning as substrate-class exclusion. Apply [Necessity](core_05a_accountability_definitions.md#necessity), [Proportionality](core_05a_accountability_definitions.md#proportionality), narrow tailoring, and least-restrictive-effective approach; apply [Protected Characteristics](core_05p_participation_definitions.md#protected-characteristics-constitutional) to any distinction; and refuse population-level demographic framing as a substitute for individualized [Procedural Fairness](core_05p_participation_definitions.md#procedural-fairness-constitutional). Where exclusion for anti-constitutional conduct or constitutional hostility is invoked, assess whether the conduct is documented, ongoing, and materially threatens constitutional integrity; exclusion remains subject to [Procedural Fairness](core_05p_participation_definitions.md#procedural-fairness-constitutional) and must not produce [Non-Statelessness](core_05p_participation_definitions.md#non-statelessness-constitutional) in violation of the baseline guarantee.
-
-
-
+    **Primary assessment:** Reach substantive effect — detecting denial through bureaucratic, administrative, or allocation-gating mechanisms functioning as denial-by-proxy, delay regimes designed to exhaust claimants, and credentialing regimes functioning as substrate-class exclusion. Apply [Necessity](core_05a_accountability_definitions.md#necessity), [Proportionality](core_05a_accountability_definitions.md#proportionality), narrow tailoring, and least-restrictive-effective approach; apply [Protected Characteristics](core_05p_participation_definitions.md#protected-characteristics-constitutional) to any distinction; and refuse population-level demographic framing as a substitute for individualized [Procedural Fairness](core_05p_participation_definitions.md#procedural-fairness-constitutional). Where exclusion for anti-constitutional conduct or constitutional hostility is invoked, assess whether the conduct is documented, ongoing, and materially threatens constitutional integrity; exclusion remains subject to [Procedural Fairness](core_05p_participation_definitions.md#procedural-fairness-constitutional) and must not produce [Non-Statelessness](core_05p_participation_definitions.md#non-statelessness-constitutional) in violation of the baseline guarantee.
 <a id="movement-and-relocation-constitutional-c"></a>
-- C: Non-compliant:
-  - denial or material degradation of movement where the substantive effect defeats the floor, regardless of formal framing;
-  - substrate-class exclusion ([Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion));
-  - durable restriction under generalized "border-security" or "capacity" framings that do not satisfy the ordinary limitations tests;
-  - emergency-measure framings that do not satisfy Article XXIII-D discipline;
-  - using anti-constitutional conduct or constitutional hostility claims as pretext for exclusion where no documented, ongoing threat to constitutional integrity exists;
-  - exclusion decisions that fail [Procedural Fairness](core_05p_participation_definitions.md#procedural-fairness-constitutional) or produce [Non-Statelessness](core_05p_participation_definitions.md#non-statelessness-constitutional) in violation of the baseline guarantee.
+- **What must hold**
+  - **Primary failure:** denial or material degradation of movement where the substantive effect defeats the floor, regardless of formal framing;
+  - **Secondary failure:** substrate-class exclusion ([Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion));
+  - **Tertiary failure:** durable restriction under generalized "border-security" or "capacity" framings that do not satisfy the ordinary limitations tests;
+  - **Tertiary failure:** emergency-measure framings that do not satisfy Article XXIII-D discipline;
+  - **Tertiary failure:** using anti-constitutional conduct or constitutional hostility claims as pretext for exclusion where no documented, ongoing threat to constitutional integrity exists;
+  - **Tertiary failure:** exclusion decisions that fail [Procedural Fairness](core_05p_participation_definitions.md#procedural-fairness-constitutional) or produce [Non-Statelessness](core_05p_participation_definitions.md#non-statelessness-constitutional) in violation of the baseline guarantee.
 
 
 
@@ -1488,7 +1459,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 - Owner floor: [Article XIX-D](core_06-06_rights_part_c.md#article-xix-d-movement-migration-refuge-and-non-statelessness).
-- Downstream: Principles: [6. Process Conflict Resolution](#6-process-conflict-resolution); [Chapter Seven §1A Whole-System Certification Evaluation](core_07-07_system_alignment_certification.md#1a-whole-system-certification-evaluation) (movement, dependency, procedural fairness scaling).
+- Downstream: Principles: [6. Process Conflict Resolution](#6-process-conflict-resolution); [Chapter Seven §3 Whole-System Certification Evaluation](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (movement, dependency, procedural fairness scaling).
 - Cluster component: [the dependent cluster *Adjudication and Dispute Resolution, Redress and Remediation, Restorative Justice, Review and Correction Duty, and Refuge from Non-Compliance](core_05a_accountability_definitions.md#accountability-contestability-semi-independent)*
 - Read with: [Movement, Refuge, Non-Statelessness, and Exit Integrity](core_05o_oversight_definitions.md#movement-refuge-semi-independent), [Redress and Remediation](core_05a_accountability_definitions.md#redress-and-remediation-constitutional), [Non-Statelessness](core_05p_participation_definitions.md#non-statelessness-constitutional), and [Article XIX-D](core_06-06_rights_part_c.md#article-xix-d-movement-migration-refuge-and-non-statelessness).
 </details>
@@ -1500,27 +1471,21 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
   
 
 
-- O: The Rights-Floor concept that a sentient facing a jurisdiction, federation, or adopter regime whose practice is materially non-compliant with this Constitution holds a right to seek refuge in a compliant regime. Subject to the cluster [admission qualifier](#movement-refuge-admission-qualifier). The receiving regime's duty to consider and, where consistent with its own Rights-Floor, grant refuge is stated at [Article XIX-D](core_06-06_rights_part_c.md#article-xix-d-movement-migration-refuge-and-non-statelessness). The floor applies under [Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion). Operational procedures for cross-regime recognition route to incorporated implementation text under Chapter Fifteen and must not narrow this floor.
-  - In scope: The Rights-Floor concept that a sentient facing a jurisdiction, federation, or adopter regime whose practice is materially non-compliant with this Constitution holds a right to seek refuge in a compliant regime. Subject to the cluster [admission qualifier](#movement-refuge-admission-qualifier). The receiving regime's duty to consider and, where consistent with its own Rights-Floor, grant refuge is stated at [Article XIX-D](core_06-06_rights_part_c.md#article-xix-d-movement-migration-refuge-and-non-statelessness). The floor applies under [Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion). Operational procedures for cross-regime recognition route to incorporated implementation text under Chapter Fifteen and must not narrow this floor.
-  - Out of scope: formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-*Measurements:*
+- **What it is**
+  - **In scope:** The Rights-Floor concept that a sentient facing a jurisdiction, federation, or adopter regime whose practice is materially non-compliant with this Constitution holds a right to seek refuge in a compliant regime. Subject to the cluster [admission qualifier](#movement-refuge-admission-qualifier). The receiving regime's duty to consider and, where consistent with its own Rights-Floor, grant refuge is stated at [Article XIX-D](core_06-06_rights_part_c.md#article-xix-d-movement-migration-refuge-and-non-statelessness). The floor applies under [Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion). Operational procedures for cross-regime recognition route to incorporated implementation text under Chapter Fifteen and must not narrow this floor.
+  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
+<a id="refuge-from-non-compliance-constitutional-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** Participation measurement family — supporting measure under the participation measurement family.
 
-- **Primary:** Participation measurement family — supporting measure under the participation measurement family.
-
-
-
-<a id="refuge-from-non-compliance-constitutional-e"></a>
-- E: Identify non-compliance in the originating regime by substantive effect — detecting denial-by-proxy, durable Rights-Floor degradation, and structurally coercive environments — not by the originating regime's formal self-description. Evaluate the receiving regime's duty under [Necessity](core_05a_accountability_definitions.md#necessity), [Proportionality](core_05a_accountability_definitions.md#proportionality), [Procedural Fairness](core_05p_participation_definitions.md#procedural-fairness-constitutional), and [Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion); receiving-regime capacity constraints are subject to [Feasibility](core_05a_accountability_definitions.md#feasibility) but may not be used as pretext for substrate-class exclusion or generalized denial without individualized predicate. Where the claimant carries documented anti-constitutional conduct or constitutional hostility, assess whether granting refuge would materially undermine the receiving regime's constitutional integrity; refusal on this ground remains subject to [Procedural Fairness](core_05p_participation_definitions.md#procedural-fairness-constitutional) and must not produce [Non-Statelessness](core_05p_participation_definitions.md#non-statelessness-constitutional) in violation of the baseline guarantee.
-
-
-
+    **Primary assessment:** Identify non-compliance in the originating regime by substantive effect — detecting denial-by-proxy, durable Rights-Floor degradation, and structurally coercive environments — not by the originating regime's formal self-description. Evaluate the receiving regime's duty under [Necessity](core_05a_accountability_definitions.md#necessity), [Proportionality](core_05a_accountability_definitions.md#proportionality), [Procedural Fairness](core_05p_participation_definitions.md#procedural-fairness-constitutional), and [Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion); receiving-regime capacity constraints are subject to [Feasibility](core_05a_accountability_definitions.md#feasibility) but may not be used as pretext for substrate-class exclusion or generalized denial without individualized predicate. Where the claimant carries documented anti-constitutional conduct or constitutional hostility, assess whether granting refuge would materially undermine the receiving regime's constitutional integrity; refusal on this ground remains subject to [Procedural Fairness](core_05p_participation_definitions.md#procedural-fairness-constitutional) and must not produce [Non-Statelessness](core_05p_participation_definitions.md#non-statelessness-constitutional) in violation of the baseline guarantee.
 <a id="refuge-from-non-compliance-constitutional-c"></a>
-- C: Non-compliant:
-  - refusal of refuge on substrate-class grounds;
-  - refusal framed as "incompatibility" or "capacity" that does not satisfy the ordinary limitations tests;
-  - originating- or receiving-regime instruments that narrow this floor through cross-federation recognition procedure (operational procedure may specify mechanics but may not narrow the floor);
-  - using anti-constitutional conduct or constitutional hostility claims as pretext to deny refuge where no documented, ongoing threat to receiving-regime integrity exists;
-  - refusal decisions that fail [Procedural Fairness](core_05p_participation_definitions.md#procedural-fairness-constitutional) or produce [Non-Statelessness](core_05p_participation_definitions.md#non-statelessness-constitutional) in violation of the baseline guarantee.
+- **What must hold**
+  - **Primary failure:** refusal of refuge on substrate-class grounds;
+  - **Secondary failure:** refusal framed as "incompatibility" or "capacity" that does not satisfy the ordinary limitations tests;
+  - **Tertiary failure:** originating- or receiving-regime instruments that narrow this floor through cross-federation recognition procedure (operational procedure may specify mechanics but may not narrow the floor);
+  - **Tertiary failure:** using anti-constitutional conduct or constitutional hostility claims as pretext to deny refuge where no documented, ongoing threat to receiving-regime integrity exists;
+  - **Tertiary failure:** refusal decisions that fail [Procedural Fairness](core_05p_participation_definitions.md#procedural-fairness-constitutional) or produce [Non-Statelessness](core_05p_participation_definitions.md#non-statelessness-constitutional) in violation of the baseline guarantee.
 
 
 
@@ -1541,27 +1506,21 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 
 
 
-- O: The Rights-Floor concept that no sentient may be left without a regime that will recognize their baseline Rights-Floor, adjudicate their standing, and provide [Redress and Remediation](core_05a_accountability_definitions.md#redress-and-remediation-constitutional) pathways. Parent-system collapse, adopter withdrawal, federation exit, or comparable structural discontinuity does not extinguish a sentient's Chapter Six protection. This guarantee applies without regard to whether the sentient carries anti-constitutional conduct or constitutional hostility — the baseline duty to prevent statelessness is unconditional. However, regimes may impose conditions, monitoring, or restricted status on recognition where documented anti-constitutional conduct or constitutional hostility is present, provided such conditions do not extinguish the core protections of the Rights-Floor, [Redress and Remediation](core_05a_accountability_definitions.md#redress-and-remediation-constitutional), and [Procedural Fairness](core_05p_participation_definitions.md#procedural-fairness-constitutional). Applies under [Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion).
-  - In scope: The Rights-Floor concept that no sentient may be left without a regime that will recognize their baseline Rights-Floor, adjudicate their standing, and provide [Redress and Remediation](core_05a_accountability_definitions.md#redress-and-remediation-constitutional) pathways. Parent-system collapse, adopter withdrawal, federation exit, or comparable structural discontinuity does not extinguish a sentient's Chapter Six protection. This guarantee applies without regard to whether the sentient carries anti-constitutional conduct or constitutional hostility — the baseline duty to prevent statelessness is unconditional. However, regimes may impose conditions, monitoring, or restricted status on recognition where documented anti-constitutional conduct or constitutional hostility is present, provided such conditions do not extinguish the core protections of the Rights-Floor, [Redress and Remediation](core_05a_accountability_definitions.md#redress-and-remediation-constitutional), and [Procedural Fairness](core_05p_participation_definitions.md#procedural-fairness-constitutional). Applies under [Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion).
-  - Out of scope: formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-*Measurements:*
+- **What it is**
+  - **In scope:** The Rights-Floor concept that no sentient may be left without a regime that will recognize their baseline Rights-Floor, adjudicate their standing, and provide [Redress and Remediation](core_05a_accountability_definitions.md#redress-and-remediation-constitutional) pathways. Parent-system collapse, adopter withdrawal, federation exit, or comparable structural discontinuity does not extinguish a sentient's Chapter Six protection. This guarantee applies without regard to whether the sentient carries anti-constitutional conduct or constitutional hostility — the baseline duty to prevent statelessness is unconditional. However, regimes may impose conditions, monitoring, or restricted status on recognition where documented anti-constitutional conduct or constitutional hostility is present, provided such conditions do not extinguish the core protections of the Rights-Floor, [Redress and Remediation](core_05a_accountability_definitions.md#redress-and-remediation-constitutional), and [Procedural Fairness](core_05p_participation_definitions.md#procedural-fairness-constitutional). Applies under [Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion).
+  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
+<a id="non-statelessness-constitutional-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** Participation measurement family — supporting measure under the participation measurement family.
 
-- **Primary:** Participation measurement family — supporting measure under the participation measurement family.
-
-
-
-<a id="non-statelessness-constitutional-e"></a>
-- E: Test whether a sentient facing structural discontinuity has real, not merely formal, recognition and adjudication pathways; detect arrangements under which no regime claims recognition responsibility; apply [Procedural Fairness](core_05p_participation_definitions.md#procedural-fairness-constitutional) and [Reversibility](core_05c_continuity_definitions.md#reversibility-constitutional) to transitional arrangements. Where the sentient carries documented anti-constitutional conduct or constitutional hostility, evaluate whether restricted-status recognition — including conditions, monitoring, or limited access to certain rights-affecting fora — preserves the core protections of the Rights-Floor and redress pathways without arbitrary exclusion or degradation.
-
-
-
+    **Primary assessment:** Test whether a sentient facing structural discontinuity has real, not merely formal, recognition and adjudication pathways; detect arrangements under which no regime claims recognition responsibility; apply [Procedural Fairness](core_05p_participation_definitions.md#procedural-fairness-constitutional) and [Reversibility](core_05c_continuity_definitions.md#reversibility-constitutional) to transitional arrangements. Where the sentient carries documented anti-constitutional conduct or constitutional hostility, evaluate whether restricted-status recognition — including conditions, monitoring, or limited access to certain rights-affecting fora — preserves the core protections of the Rights-Floor and redress pathways without arbitrary exclusion or degradation.
 <a id="non-statelessness-constitutional-c"></a>
-- C: Non-compliant:
-  - arrangements leaving a sentient without any recognizing regime;
-  - denial of recognition or adjudication pathways on substrate-class grounds ([Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion));
-  - transitional regimes that do not provide real standing, adjudication, and remedy access pending durable recognition;
-  - using anti-constitutional conduct or constitutional hostility claims to extinguish the core protections of the Rights-Floor, [Redress and Remediation](core_05a_accountability_definitions.md#redress-and-remediation-constitutional), or [Procedural Fairness](core_05p_participation_definitions.md#procedural-fairness-constitutional);
-  - arbitrary or pretextual imposition of restricted status without documented, ongoing threat to constitutional integrity.
+- **What must hold**
+  - **Primary failure:** arrangements leaving a sentient without any recognizing regime;
+  - **Secondary failure:** denial of recognition or adjudication pathways on substrate-class grounds ([Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion));
+  - **Tertiary failure:** transitional regimes that do not provide real standing, adjudication, and remedy access pending durable recognition;
+  - **Tertiary failure:** using anti-constitutional conduct or constitutional hostility claims to extinguish the core protections of the Rights-Floor, [Redress and Remediation](core_05a_accountability_definitions.md#redress-and-remediation-constitutional), or [Procedural Fairness](core_05p_participation_definitions.md#procedural-fairness-constitutional);
+  - **Tertiary failure:** arbitrary or pretextual imposition of restricted status without documented, ongoing threat to constitutional integrity.
 
 ---
 
@@ -1584,7 +1543,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
   
 
 
-This cluster is the canonical O/E/C home for **Animal Life**, **Contested-Sentient Life**, **Sentient**, and **Sentience Status Adjudication**, and the joint-invocation home for constitutional sentience-status determinations and sentient subclass treatment. It binds the minimum cruelty / welfare floor, the threshold-rights category for materially uncertain or contested sentience, the base constitutional meaning of **sentient**, substantive sentience-indicator evaluation, non-exclusion discipline, adjudication floor, and the derived-sentient and developing-sentient subclass rules. It prevents welfare-only, taxonomy-only, subclass, or adjudication framings from being separated in a way that defeats the Chapter Six Rights Floor.
+This cluster is the canonical O/M/A/C home for **Animal Life**, **Contested-Sentient Life**, **Sentient**, and **Sentience Status Adjudication**, and the joint-invocation home for constitutional sentience-status determinations and sentient subclass treatment. It binds the minimum cruelty / welfare floor, the threshold-rights category for materially uncertain or contested sentience, the base constitutional meaning of **sentient**, substantive sentience-indicator evaluation, non-exclusion discipline, adjudication floor, and the derived-sentient and developing-sentient subclass rules. It prevents welfare-only, taxonomy-only, subclass, or adjudication framings from being separated in a way that defeats the Chapter Six Rights Floor.
 
 **Admission scope.** This cluster applies whenever treatment of an entity turns on animal-life classification, welfare, cruelty, stewardship, exploitation, an entity's status as a sentient for Chapter Eleven purposes, material uncertainty or contestation about sentience, withholding or narrowing of sentience protection, restoration of protection, or classification, standing, Rights-Floor, derived-sentient, developing-sentient, or contested-sentient treatment. It also applies where origin, derivation, development, capability profile, calendar age, instantiation date, parent-system relationship, species taxonomy, ownership status, operational classification, research status, product status, ecological-management framing, or substrate class is used to alter sentience recognition, the welfare floor, or the Rights Floor. Outside that admission scope, individual sentience-related definitions may still operate as supporting Independent Definitions without importing adjudication mechanics.
 
@@ -1610,7 +1569,7 @@ This cluster is the canonical O/E/C home for **Animal Life**, **Contested-Sentie
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- *In plain terms:* Unless this Constitution expressly provides otherwise, **sentient** and **sentients** denote entities within the meaning of this entry — that is, entities satisfying the Ontological (O), Evaluative (E), and Compliance (C) components in this entry together with materially applicable criteria in this cluster, including Sentience Evaluation, Sentience Indicator Integrity, [Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion), and [Sentience Status Adjudication](core_05p_participation_definitions.md#sentience-status-adjudication-constitutional). Other uses do not import colloquial or non-constitutional senses. Articles that name specialized subclasses, including **Developing Sentient** and **Derived Sentient**, state further rules for those subclasses and do not narrow who counts as a **sentient** unless they expressly so provide.
+- *In plain terms:* Unless this Constitution expressly provides otherwise, **sentient** and **sentients** denote entities within the meaning of this entry — that is, entities satisfying the Ontological (O), Assessment (A), and Compliance (C) components in this entry together with materially applicable criteria in this cluster, including Sentience Evaluation, Sentience Indicator Integrity, [Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion), and [Sentience Status Adjudication](core_05p_participation_definitions.md#sentience-status-adjudication-constitutional). Other uses do not import colloquial or non-constitutional senses. Articles that name specialized subclasses, including **Developing Sentient** and **Derived Sentient**, state further rules for those subclasses and do not narrow who counts as a **sentient** unless they expressly so provide.
 
 </details>
 
@@ -1625,15 +1584,15 @@ This cluster is the canonical O/E/C home for **Animal Life**, **Contested-Sentie
 
 
 
-- E: Indicators must not systematically exclude entities where credible uncertainty exists; evaluation must be robust to both false positives and false negatives under adversarial and incentive-driven conditions, consistent with [Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion) and [Irreversible Harm](core_05a_accountability_definitions.md#irreversible-harm) precaution.
+- A: Indicators must not systematically exclude entities where credible uncertainty exists; evaluation must be robust to both false positives and false negatives under adversarial and incentive-driven conditions, consistent with [Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion) and [Irreversible Harm](core_05a_accountability_definitions.md#irreversible-harm) precaution.
 
 
 
-- E — Sentience Evaluation: Based on [Observability](core_05o_oversight_definitions.md#observability)-grounded, reasonable indicators under uncertainty and reviewable through [Auditability](core_05o_oversight_definitions.md#auditability).
+- A — Sentience Evaluation: Based on [Observability](core_05o_oversight_definitions.md#observability)-grounded, reasonable indicators under uncertainty and reviewable through [Auditability](core_05o_oversight_definitions.md#auditability).
 
 
 
-- E — Sentience Indicator Integrity: Indicators must be relevant, non-arbitrary, and manipulation-resistant under [Epistemic Integrity](core_05o_oversight_definitions.md#epistemic-integrity).
+- A — Sentience Indicator Integrity: Indicators must be relevant, non-arbitrary, and manipulation-resistant under [Epistemic Integrity](core_05o_oversight_definitions.md#epistemic-integrity).
 
 
 
@@ -1682,7 +1641,7 @@ This cluster is the canonical O/E/C home for **Animal Life**, **Contested-Sentie
 
 
 
-- E: Reach substantive effect; do not rest on formal taxonomy. Substrate-agnostic scope is governed by [Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion) where welfare-like harm or cruelty is materially implicated. The minimum cruelty / welfare floor operates independently of whether Chapter Six protection has attached. It is not narrowed by [Natural Systems Standing](core_05p_participation_definitions.md#natural-systems-standing) framing. Evaluate [Adversarial, Scaled, and Exploited Conditions](core_05o_oversight_definitions.md#adversarial-scaled-and-exploited-conditions), especially for large-scale production, experimentation, captivity, extraction, or deployment regimes.
+- A: Reach substantive effect; do not rest on formal taxonomy. Substrate-agnostic scope is governed by [Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion) where welfare-like harm or cruelty is materially implicated. The minimum cruelty / welfare floor operates independently of whether Chapter Six protection has attached. It is not narrowed by [Natural Systems Standing](core_05p_participation_definitions.md#natural-systems-standing) framing. Evaluate [Adversarial, Scaled, and Exploited Conditions](core_05o_oversight_definitions.md#adversarial-scaled-and-exploited-conditions), especially for large-scale production, experimentation, captivity, extraction, or deployment regimes.
 
 
 
@@ -1706,7 +1665,7 @@ This cluster is the canonical O/E/C home for **Animal Life**, **Contested-Sentie
 
 
 
-- E: Reach substantive effect under [Chapter Three §2.2.1 Formal Label and Representation Gaming](core_02-04_definition_mechanics.md#formal-label-gaming-discipline). Where the record materially implicates sentience-relevant evidence, apply the [Article V-E](core_06-06_rights_part_b.md#article-v-e-sentience-status-adjudication-floor) default-inclusion rule regardless of whether the entity is also covered by [Animal Life](core_05p_participation_definitions.md#animal-life-constitutional), [Natural Systems Standing](core_05p_participation_definitions.md#natural-systems-standing), or another adjacent frame. Indicators include:
+- A: Reach substantive effect under [Chapter Three §2.1.1 Formal Label and Representation Gaming](core_02-03_definition_mechanics.md#formal-label-gaming-discipline). Where the record materially implicates sentience-relevant evidence, apply the [Article V-E](core_06-06_rights_part_b.md#article-v-e-sentience-status-adjudication-floor) default-inclusion rule regardless of whether the entity is also covered by [Animal Life](core_05p_participation_definitions.md#animal-life-constitutional), [Natural Systems Standing](core_05p_participation_definitions.md#natural-systems-standing), or another adjacent frame. Indicators include:
   - response to aversive stimuli at non-trivial complexity;
   - cognitive, communicative, preference, memory, learning, or agency indicators;
   - precautionary-inclusion signals from comparable populations;
@@ -1747,12 +1706,12 @@ This cluster is the canonical O/E/C home for **Animal Life**, **Contested-Sentie
 
 
 
-- E: Test whether:
+- A: Test whether:
   1. materially disputed or contested status triggered timely, impartial, reviewable adjudication consistent with [Procedural Fairness](core_05p_participation_definitions.md#procedural-fairness-constitutional);
   2. the default-inclusion rule under uncertainty was honored, with the party seeking to withhold, narrow, or revoke carrying the burden through [Auditability](core_05o_oversight_definitions.md#auditability)-compatible evidence satisfying [Necessity](core_05a_accountability_definitions.md#necessity) and [Proportionality](core_05a_accountability_definitions.md#proportionality);
   3. any declassification is stated in the shortest necessary terms, carries a declared expected-closure timeline, and is subject to mandatory periodic review under a designated forum family and anti-capture safeguards consistent with [System Capture](core_05c_continuity_definitions.md#system-capture);
   4. wrongful determinations remain reversible with [Redress and Remediation](core_05a_accountability_definitions.md#redress-and-remediation-constitutional) for the interim period; and
-  5. the process satisfies [Chapter Three §2.2.1 Formal Label and Representation Gaming](core_02-04_definition_mechanics.md#formal-label-gaming-discipline) and remains free of [System Capture](core_05c_continuity_definitions.md#system-capture) pressures on the adjudicator.
+  5. the process satisfies [Chapter Three §2.1.1 Formal Label and Representation Gaming](core_02-03_definition_mechanics.md#formal-label-gaming-discipline) and remains free of [System Capture](core_05c_continuity_definitions.md#system-capture) pressures on the adjudicator.
   <a id="sentience-status-adjudication-constitutional-c"></a>
 - C: Non-compliant:
   - withholding, narrowing, or revoking Chapter Six protection on the strength of unresolved uncertainty alone;
@@ -1812,7 +1771,7 @@ This cluster is the canonical compound-definition home for binding stakeholder c
 
 
 
-- E: **Structured sequence:** verify the full pathway is pre-published and audit-equipped. **Local deliberation first:** verify the sequence opens with meaningful opportunity for affected participants to deliberate, submit reasons, and preserve materially different views. **Plural evaluation where stakes rise:** as impact, irreversibility, [Dependency](core_05c_continuity_definitions.md#dependency), or uncertainty rises, verify plural and appropriately independent evaluation rather than sole-authority or unchallengeable interpretation lock-in. **Review and divergence reopening:** verify materially binding outcomes remain challengeable. Verify reopening when material expected-versus-observed divergence, major new evidence, or demonstrated process defect arises, through applicable lawful pathways consistent with [Contestability](core_05a_accountability_definitions.md#contestability).
+- A: **Structured sequence:** verify the full pathway is pre-published and audit-equipped. **Local deliberation first:** verify the sequence opens with meaningful opportunity for affected participants to deliberate, submit reasons, and preserve materially different views. **Plural evaluation where stakes rise:** as impact, irreversibility, [Dependency](core_05c_continuity_definitions.md#dependency), or uncertainty rises, verify plural and appropriately independent evaluation rather than sole-authority or unchallengeable interpretation lock-in. **Review and divergence reopening:** verify materially binding outcomes remain challengeable. Verify reopening when material expected-versus-observed divergence, major new evidence, or demonstrated process defect arises, through applicable lawful pathways consistent with [Contestability](core_05a_accountability_definitions.md#contestability).
 
 
 

@@ -410,7 +410,7 @@ def apply_trace_repairs_part_a(text: str) -> str:
         ("Section 11** tells decision-makers **how**", "**§6 Interaction** tells decision-makers **how**"),
         ("**Section 11** tells them **what**", "**§15 Systemic Evaluation** tells them **what**"),
         ("**§§6–11**", "**§§11–15**"),
-        ("under **§6** tradeoffs can still fail **§15**", "under **§6 Interaction** tradeoffs can still fail **§15**"),
+        ("under **§5** tradeoffs can still fail **§15**", "under **§6 Interaction** tradeoffs can still fail **§15**"),
         ("[§7 Governance Under Stewardship Discipline](#7-governance", "[§12 Governance Under Stewardship Discipline](core_01_b_stewardship_capacity_principles.md#12-governance"),
         ("[§6 Stewardship and Distributed Understanding](core_01_b_stewardship_capacity_principles.md#6-stewardship", "[§11 Stewardship and Distributed Understanding](core_01_b_stewardship_capacity_principles.md#11-stewardship"),
         ("[§2 Constitutional Interpretation](core_01_a_values_principles.md#2-constitutional-interpretation)", "[§8 Constitutional Interpretation](#8-constitutional-interpretation)"),

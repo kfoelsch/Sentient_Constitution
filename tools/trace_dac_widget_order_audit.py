@@ -1,13 +1,13 @@
 #!/usr/bin/env python3
-"""Audit Trace → D/E/C widget placement under owning headings.
+"""Audit Trace → D/A/C widget placement under owning headings.
 
-Rule: NAV-DEC-12-ORDER in tools/architecture/rule_registry.json.
+Rule: NAV-DAC-12-ORDER in tools/architecture/rule_registry.json.
 
 When a ``####`` or ``#####`` unit (or a ``###`` unit whose Trace block carries
 Chapter Five ``· [O]`` read-with links) opens with a Trace ``<details>`` widget,
 the next substantive block after ``</details>`` must be either:
 
-1. a **Definitions · Evaluation · Compliance** ``<details>`` widget, or
+1. a **Definitions · Assessment · Compliance** ``<details>`` widget, or
 2. a single-concept inline ``<strong>…Definition:</strong>`` line.
 
 Only blank lines may appear between Trace close and that definition carrier.
@@ -16,11 +16,11 @@ Only blank lines may appear between Trace close and that definition carrier.
 Sections whose Trace blocks carry no Chapter Five ``· [O]`` read-with links are
 exempt from the requirement (structural / routing-only traces).
 
-Without Trace, the D/E/C widget must be the first substantive block under the
+Without Trace, the D/A/C widget must be the first substantive block under the
 owning ``####`` or ``#####`` heading (before *In plain terms* or operative prose).
 
-A ``###`` heading that carries a small roadmap-only D/E/C widget (two or fewer
-O/E/C rows) must not also host ``####`` subsections with their own D/E/C widgets
+A ``###`` heading that carries a small roadmap-only D/A/C widget (two or fewer
+O/E/C rows) must not also host ``####`` subsections with their own D/A/C widgets
 (roadmap exclusion).
 """
 
@@ -40,14 +40,14 @@ TRACE_SUMMARY = (
 )
 DEC_SUMMARY = (
     '<summary><strong><span style="color: #2563eb;">'
-    "Definitions · Evaluation · Compliance</span></strong></summary>"
+    "Definitions · Assessment · Compliance</span></strong></summary>"
 )
 INLINE_DEFINITION_RE = re.compile(
     r"<strong><span style=\"color: #2563eb;\">Definition:</span></strong>"
 )
 OEC_READ_WITH_RE = re.compile(r"· \[O\]\(")
 OEC_ROW_RE = re.compile(
-    r"^\s*-\s+\[[^\]]+\]\([^)]+\)\s*·\s*\[O\]\([^)]+\)\s*·\s*\[E\]\([^)]+\)\s*·\s*\[C\]\([^)]+\)\s*$"
+    r"^\s*-\s+\[[^\]]+\]\([^)]+\)\s*·\s*\[O\]\([^)]+\)\s*·\s*\[A\]\([^)]+\)\s*·\s*\[C\]\([^)]+\)\s*$"
 )
 HEADING_RE = re.compile(r"^(#{1,6})\s+")
 PLAIN_TERMS_RE = re.compile(r"^\*In plain terms:")
@@ -179,7 +179,7 @@ def audit_dec_without_trace_placement(
         if is_substantive_before_dec(lines[idx]):
             preview = lines[idx].strip()[:72]
             return [
-                f"{rel}:{idx + 1}: D/E/C widget on {heading_text!r} must be the "
+                f"{rel}:{idx + 1}: D/A/C widget on {heading_text!r} must be the "
                 f"first substantive block under the heading (found prose first: "
                 f"{preview!r})"
             ]
@@ -212,7 +212,7 @@ def audit_roadmap_exclusion_parent_dec(
         child_end = section_end(lines, idx, 4)
         if find_dec_widget(lines, idx, child_end) is not None:
             return [
-                f"{rel}:{parent_dec + 1}: remove roadmap-only parent D/E/C widget on "
+                f"{rel}:{parent_dec + 1}: remove roadmap-only parent D/A/C widget on "
                 f"{heading_text!r} ({row_count} row(s)); subsection "
                 f"{lines[idx].strip()!r} owns the operative definitions "
                 f"(roadmap exclusion)"
@@ -297,7 +297,7 @@ def audit_file(path: Path, root: Path) -> list[str]:
             preview = lines[scan_idx].strip()[:72] if scan_idx is not None else "EOF"
             findings.append(
                 f"{rel}:{close_idx + 1}: Trace on {heading_text!r} must be "
-                f"followed immediately by a D/E/C widget or inline Definition "
+                f"followed immediately by a D/A/C widget or inline Definition "
                 f"(next line {scan_idx + 1 if scan_idx is not None else '?'}: "
                 f"{preview!r})"
             )
@@ -332,13 +332,13 @@ def main() -> int:
             findings.extend(audit_file(path, root))
 
     if findings:
-        print("Trace → D/E/C widget order audit failures:", file=sys.stderr)
+        print("Trace → D/A/C widget order audit failures:", file=sys.stderr)
         for item in findings:
             print(f"  - {item}", file=sys.stderr)
         print(f"Total: {len(findings)}", file=sys.stderr)
         return 1
 
-    print("Trace → D/E/C widget order audit OK.")
+    print("Trace → D/A/C widget order audit OK.")
     return 0
 
 

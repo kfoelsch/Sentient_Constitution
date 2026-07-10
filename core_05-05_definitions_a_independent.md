@@ -376,7 +376,7 @@ Use this compass before invoking any Chapter Five definition. Chapter Five suppl
 | § ID | Title | Tetrad leg / band | Primary aim | Chapter One § basis | Cross-leg note | Continuity disambiguation | Home file |
 |---|---|---|---|---|---|---|---|
 | **Chapter One §8.2** | Transparency, Auditability, and Verification | Oversight | Flourishing | Chapter One §8.2, §4, §12.1, §12.2 | — | — | [core_05o_oversight_definitions.md](core_05o_oversight_definitions.md) |
-| **§3.3** | Truth and Epistemic Integrity | Oversight | Flourishing | Chapter One §8.2, §3.3, §4, §12.1, §12.2 | integrative with **Accountability** where contest and correction are implicated | — | [core_05o_oversight_definitions.md](core_05o_oversight_definitions.md) |
+| **§11.3** | Truth and Epistemic Integrity | Oversight | Flourishing | Chapter One §8.2, §3.3, §4, §12.1, §12.2 | integrative with **Accountability** where contest and correction are implicated | — | [core_05o_oversight_definitions.md](core_05o_oversight_definitions.md) |
 | **§3.5** | Animal Life, Sentient Life, and Sentience Status | Participation | Flourishing | Chapter One §8.1, §4, §10 | — | — | [core_05p_participation_definitions.md](core_05p_participation_definitions.md) |
 | **§3.6** | Binding Stakeholder Choice | Participation | Flourishing | Chapter One §8.1, §3.4, §11.4, §8, §10 | integrative with **Accountability** procedural integrity | — | [core_05p_participation_definitions.md](core_05p_participation_definitions.md) |
 | **§3.7** | Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity | Participation | Flourishing | §10, Chapter One §8.1, §4 | — | — | [core_05p_participation_definitions.md](core_05p_participation_definitions.md) |

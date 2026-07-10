@@ -240,6 +240,34 @@ Recurrence of the same fault class across cycles must be treated as a single ope
 
 This subsection is an operational profile. It does not create rights and must not be read to narrow **Article XII-F**, **Chapter One §4.1**, or **Chapter Five** *Self-Healing*.
 
+**Recertification, regression testing, and certification defects.** Read with [Chapter Seven §11 Certification Record](../core_07_b_system_alignment_certification_record_process.md#11-certification-record) (*record contents*) and [Chapter Seven §2 System Class Evaluation](../core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) (*certification verification hook*); **CS-4 — System classification and handling** (*class scaling*); and `corpus_joint_structure.md` **CJS-5.21** (*adversarial robustness and abuse-resistance terms*, including regression and hardening cycle obligations).
+
+Every recertification or revalidation of a system alignment certification record must include **regression testing** showing that previously verified behavior, controls, and safeguards still hold — or that any break is identified, remediated, bounded by conditions, or reflected in the certification outcome. The certification record must state the regression scope, standard test suites run, custom tests run, results, known failures, remediations, and any accepted residual risk with justification.
+
+For **Class A**, **Class B**, and **Class C** systems, regression testing on each recertification must include both:
+
+- **Standard tests:** baseline suites appropriate to the assigned class and domain, including baseline security, abuse-resistance, and failure-mode coverage under **CJS-5.21** and data types in scope under **CS-3 — Information types and handling**; and
+- **Custom tests:** system-specific tests for the system's threat model, dependencies, and known failure or abuse modes that standard suites alone would not cover.
+
+For **Class L** and **Class P** systems where recertification applies, regression depth remains proportionate under **CS-4 — System classification and handling**, but recertification without regression coverage where feasible is a certification defect.
+
+**Initial recognition** may rely on pre-deployment evidence prepared under this Protocol, including:
+
+- **Forum recognition and lifecycle review:** evidence packages for scope, classification, testing, residual risk, remediation readiness, and monitoring;
+- **Pre-deployment stress testing;**
+- **Development and test environments;**
+- **Progressive deployment and escalation;**
+- **Simulation and stress testing.**
+
+For **Class A** and **Class B** systems, that evidence must also cover:
+
+- **Recovery-path testing and verification;** and
+- remediated **Exercises and drills** findings where this Protocol requires them.
+
+**Each later recertification** must rerun or extend regression coverage for material changes since the prior record, read with *Forum recognition and lifecycle review* (ongoing alignment review), *Root cause analysis*, and the requirement to validate corrective measures before deployment.
+
+Missing regression testing, stale results, unfixed regressions, or material fixes accepted without regression confirmation where feasible must be treated as certification defects.
+
 ---
 
 **Previous file:** [cs_02_implementation_integration_map.md](cs_02_implementation_integration_map.md)

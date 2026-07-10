@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Insert missing NAV-DEC-12 entry / E / C anchor tags on Chapter Five definitions."""
+"""Insert missing NAV-DAC-12 entry / E / C anchor tags on Chapter Five definitions."""
 
 from __future__ import annotations
 
@@ -12,7 +12,7 @@ _TOOLS = Path(__file__).resolve().parent
 if str(_TOOLS) not in sys.path:
     sys.path.insert(0, str(_TOOLS))
 
-from ch5_dec_widget_audit import (  # noqa: E402
+from ch5_dac_widget_audit import (  # noqa: E402
     ANCHOR_TAG_RE,
     CLUSTERED_HEADS,
     H4_RE,

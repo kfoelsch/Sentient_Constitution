@@ -6,7 +6,7 @@ Each Chapter Six subarticle must:
 
 1. Carry a local Trace ``<details>`` block immediately under the subarticle
    heading using the standard Trace summary label, AND
-2. Either (a) carry a separate **Definitions · Evaluation · Compliance**
+2. Either (a) carry a separate **Definitions · Assessment · Compliance**
    ``<details>`` widget directly after the Trace close, OR (b) carry a
    single-concept inline ``<strong><span style="color: #2563eb;">Definition:
    </span></strong>`` line directly after the Trace close, OR (c) — for
@@ -111,9 +111,9 @@ def main() -> int:
                     f"{path}:{lineno}: Chapter Six subarticle Trace blocks must include a '- Principles:' or '- Upstream: Principles:' line"
                 )
 
-            # Per doc_architecture.md rule 12 (2026-04-16 D/E/C split), the
+            # Per doc_architecture.md rule 12 (2026-04-16 D/A/C split), the
             # legacy in-Trace ``- Definitions:`` line is no longer accepted.
-            # Look forward from </details> for either a D/E/C widget or a
+            # Look forward from </details> for either a D/A/C widget or a
             # single-concept inline ``Definition:`` line. Either satisfies the
             # rule; their absence is allowed only for sections with no
             # invocations (we cannot verify "no invocations" mechanically here,
@@ -136,7 +136,7 @@ def main() -> int:
             if scan_idx < len(lines):
                 first = lines[scan_idx].strip()
                 if first == "<details>":
-                    # Look at the next non-empty line for the D/E/C summary.
+                    # Look at the next non-empty line for the D/A/C summary.
                     sidx = next_nonempty(lines, scan_idx + 1)
                     if sidx is not None and lines[sidx].strip() == dec_summary:
                         has_widget = True
@@ -157,7 +157,7 @@ def main() -> int:
                     f"{path}:{lineno}: legacy '- Definitions:' line found inside Trace (must be lifted into a separate Definitions \u00b7 Evaluation \u00b7 Compliance widget per doc_architecture.md rule 12)"
                 )
 
-            # Note: we deliberately do not require a D/E/C widget to be present.
+            # Note: we deliberately do not require a D/A/C widget to be present.
             # Some sections genuinely invoke zero Chapter Five concepts; in those
             # cases the absence is correct. We only flag the legacy pattern.
             _ = (has_widget, has_inline)  # reserved for future stricter check

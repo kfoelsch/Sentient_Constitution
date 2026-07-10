@@ -71,7 +71,7 @@ class AlignmentAuditor:
                 continue
                 
             # Anchors for current principle
-            if current_principle and 'Definitions · Evaluation · Compliance' in line:
+            if current_principle and 'Definitions · Assessment · Compliance' in line:
                 # Look for anchors in following lines
                 continue
             elif current_principle and line.strip().startswith('- ['):

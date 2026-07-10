@@ -9,15 +9,15 @@
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Classification-Scaled Governance](../core_05o_oversight_definitions.md#classification-scaled-governance) · [O](../core_05o_oversight_definitions.md#classification-scaled-governance) · [E](../core_05o_oversight_definitions.md#classification-scaled-governance-e) · [C](../core_05o_oversight_definitions.md#classification-scaled-governance-c)
-- [Coercion and Manipulation](../core_05p_participation_definitions.md#coercion-and-manipulation-constitutional) · [O](../core_05p_participation_definitions.md#coercion-and-manipulation-constitutional) · [E](../core_05p_participation_definitions.md#coercion-and-manipulation-constitutional-e) · [C](../core_05p_participation_definitions.md#coercion-and-manipulation-constitutional-c)
-- [Protected Characteristics](../core_05p_participation_definitions.md#protected-characteristics-constitutional) · [O](../core_05p_participation_definitions.md#protected-characteristics-constitutional) · [E](../core_05p_participation_definitions.md#protected-characteristics-constitutional-e) · [C](../core_05p_participation_definitions.md#protected-characteristics-constitutional-c)
-- [Material Impact](../core_05o_oversight_definitions.md#material-impact) · [O](../core_05o_oversight_definitions.md#material-impact) · [E](../core_05o_oversight_definitions.md#material-impact-e) · [C](../core_05o_oversight_definitions.md#material-impact-c)
-- [Proportionality](../core_05a_accountability_definitions.md#proportionality) · [O](../core_05a_accountability_definitions.md#proportionality) · [E](../core_05a_accountability_definitions.md#proportionality-e) · [C](../core_05a_accountability_definitions.md#proportionality-c)
-- [Contestability](../core_05a_accountability_definitions.md#contestability) · [O](../core_05a_accountability_definitions.md#contestability) · [E](../core_05a_accountability_definitions.md#contestability-e) · [C](../core_05a_accountability_definitions.md#contestability-c)
-- [Transparency](../core_05o_oversight_definitions.md#transparency) · [O](../core_05o_oversight_definitions.md#transparency) · [E](../core_05o_oversight_definitions.md#transparency-e) · [C](../core_05o_oversight_definitions.md#transparency-c)
+- [Classification-Scaled Governance](../core_05o_oversight_definitions.md#classification-scaled-governance) · [O](../core_05o_oversight_definitions.md#classification-scaled-governance) · [A](../core_05o_oversight_definitions.md#classification-scaled-governance-a) · [C](../core_05o_oversight_definitions.md#classification-scaled-governance-c)
+- [Coercion and Manipulation](../core_05p_participation_definitions.md#coercion-and-manipulation-constitutional) · [O](../core_05p_participation_definitions.md#coercion-and-manipulation-constitutional) · [A](../core_05p_participation_definitions.md#coercion-and-manipulation-constitutional-a) · [C](../core_05p_participation_definitions.md#coercion-and-manipulation-constitutional-c)
+- [Protected Characteristics](../core_05p_participation_definitions.md#protected-characteristics-constitutional) · [O](../core_05p_participation_definitions.md#protected-characteristics-constitutional) · [A](../core_05p_participation_definitions.md#protected-characteristics-constitutional-a) · [C](../core_05p_participation_definitions.md#protected-characteristics-constitutional-c)
+- [Material Impact](../core_05o_oversight_definitions.md#material-impact) · [O](../core_05o_oversight_definitions.md#material-impact) · [A](../core_05o_oversight_definitions.md#material-impact-a) · [C](../core_05o_oversight_definitions.md#material-impact-c)
+- [Proportionality](../core_05a_accountability_definitions.md#proportionality) · [O](../core_05a_accountability_definitions.md#proportionality) · [A](../core_05a_accountability_definitions.md#proportionality-a) · [C](../core_05a_accountability_definitions.md#proportionality-c)
+- [Contestability](../core_05a_accountability_definitions.md#contestability) · [O](../core_05a_accountability_definitions.md#contestability) · [A](../core_05a_accountability_definitions.md#contestability-a) · [C](../core_05a_accountability_definitions.md#contestability-c)
+- [Transparency](../core_05o_oversight_definitions.md#transparency) · [O](../core_05o_oversight_definitions.md#transparency) · [A](../core_05o_oversight_definitions.md#transparency-a) · [C](../core_05o_oversight_definitions.md#transparency-c)
 
 </details>
 

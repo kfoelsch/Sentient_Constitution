@@ -16,8 +16,8 @@ Single catalog for corpus integrity audits. Rule IDs map to [tools/architecture/
 | `scenario-audit` | `tools/scenario_audit.py` | — | When live regression catalog present |
 | `corpus-markdown-audit` | `tools/corpus_markdown_audit.py` | — | Markdown structure |
 | `footer-audit` | `tools/footer_audit.py` | — | Corpus navigation footer chain |
-| `nav-widget-spacer-audit` | `tools/nav_widget_spacer_audit.py` | NAV-DEC-12-SPACER | D/E/C vs inline Definition spacer |
-| `trace-dec-widget-order-audit` | `tools/trace_dec_widget_order_audit.py` | NAV-DEC-12-ORDER | D/E/C widget or inline Definition immediately after Trace |
+| `nav-widget-spacer-audit` | `tools/nav_widget_spacer_audit.py` | NAV-DAC-12-SPACER | D/A/C vs inline Definition spacer |
+| `trace-dac-widget-order-audit` | `tools/trace_dac_widget_order_audit.py` | NAV-DAC-12-ORDER | D/A/C widget or inline Definition immediately after Trace |
 | `file-top-placement-audit` | `tools/file_top_placement_audit.py` | NAV-PLACEMENT-01 | File-top Corpus placement widget |
 | `trace-routing-prose-audit` | `tools/trace_routing_prose_audit.py` | NAV-TRACE-10 | Read with inside Trace; flags disguised read-with routing in operative prose |
 | `in-paragraph-link-audit` | `tools/in_paragraph_link_audit.py` | LINK-IN-PARA-14 | Proof registry + See anti-patterns |
@@ -26,9 +26,9 @@ Single catalog for corpus integrity audits. Rule IDs map to [tools/architecture/
 | `ch5-entry-format-audit` | `tools/ch5_entry_format_audit.py` | CH5-FORMAT | Separators, suffix discipline |
 | `ch5-alphabetical-directory-audit` | `tools/ch5_alphabetical_directory_audit.py` | CH5-ORDER-01 | Directory order |
 | `ch5-single-definition-audit` | `tools/ch5_single_definition_audit.py` | CH5-SINGLE-DEF | One label per term |
-| `ch5-dec-widget-audit` | `tools/ch5_dec_widget_audit.py` | NAV-DEC-12 | Widget row shape |
+| `ch5-dac-widget-audit` | `tools/ch5_dac_widget_audit.py` | NAV-DAC-12 | Widget row shape |
 | `ch5-cluster-order-audit` | `tools/ch5_cluster_order_audit.py` | CH5-ORDER-01 | Compound heading order |
-| `ch1-dec-order-audit` | `tools/ch1_dec_order_audit.py` | NAV-DEC-CH1-ORDER | Config: `ch1_dec_order.json` |
+| `ch1-dac-order-audit` | `tools/ch1_dac_order_audit.py` | NAV-DAC-CH1-ORDER | Config: `ch1_dac_order.json` |
 | `ch9-trace-audit` | `tools/ch9_trace_audit.py` | NAV-TRACE-08–10 | Chapter Six subarticle traces |
 | `prose-continuity-audit` | `tools/prose_continuity_audit.py` | — | Stray indent / orphan lines |
 | `lexical-vocabulary-audit` | `tools/lexical_vocabulary_audit.py` | LEX-GUARDRAILS | Config: `lexical_guardrails.json` |
@@ -42,7 +42,7 @@ Single catalog for corpus integrity audits. Rule IDs map to [tools/architecture/
 | `plain-language-audit` | `tools/plain_language_audit.py` | PLAIN-JARGON | Phrase rules from `lexical_guardrails.json` |
 | `subarticle-gloss-audit` | `tools/subarticle_gloss_audit.py` | GLOSS-SUBARTICLE | Chapter Six `*In plain terms:*` on `#### Article` |
 | `readability-audit` | `tools/readability_audit.py` | — | `make regression-full`; optional `--with-subarticle-gloss` |
-| `owner-discipline-audit` | `tools/owner_discipline_audit.py` | OWNER-SINGLE-HOME | Heuristic O/E/C outside Ch5; use `--strict` to block |
+| `owner-discipline-audit` | `tools/owner_discipline_audit.py` | OWNER-SINGLE-HOME | Heuristic O/M/A/C outside Ch5; use `--strict` to block |
 | `ch4-ch7-pointer-audit` | `tools/ch4_ch7_pointer_audit.py` | CH4-CH7-POINTER | Ch7 must cite Ch2–4 for verification substrate; use `--strict` to block |
 | `ch5-cross-file-link-audit` | `tools/ch5_cross_file_link_audit.py` | — | Promote when clean |
 | `ci-cjs-relocation-audit` | `tools/ci_cjs_relocation_audit.py` | — | Relocation drift evidence |
@@ -54,11 +54,11 @@ Single catalog for corpus integrity audits. Rule IDs map to [tools/architecture/
 |----------|-------|----------|
 | `CORE-PLACEMENT` | Chapter Five | Correct band / §1–§3 home and structural invariants |
 | `CORE-GRAVITY` | Chapter Five | Institutional or procedural machinery absorbed into definitions |
-| `CORE-TRACE` | Chapter One ↔ Five | Principle anchors and complete O/E/C traceability |
+| `CORE-TRACE` | Chapter One ↔ Five | Principle anchors and complete O/M/A/C traceability |
 | `CJS-PLACEMENT` | CJS-5 | Operational clusters only in CJS-5 (not CJS-3) |
 | `CJS-TRACE` | Chapter One ↔ CJS-5 | Cluster trace metadata and OP triad completeness |
 | `CJS-CONSTITUTIONAL-CREEP` | CJS-5 | OP rules matching Ch5 labels without Chapter Five pointers |
-| `IMPL-COMPETING-GLOSS` | CS / CI / CF | O/E/C-shaped gloss outside Chapter Five |
+| `IMPL-COMPETING-GLOSS` | CS / CI / CF | O/M/A/C-shaped gloss outside Chapter Five |
 | `IMPL-RELOCATION` | CI (operative body) | Cross-layer material that may belong in CJS-5 or Chapter Five; CS/CF owner layers use integration maps and `ci-cjs-relocation-audit` |
 | `IMPL-NON-REDEFINITION` | CS / CI / CF | Definitional lead-ins for canonical Chapter Five terms |
 

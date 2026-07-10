@@ -48,7 +48,10 @@ The corpus is written in plain language with low jargon to improve accessibility
 
 ### Standing pipeline and forums
 
-- **Chapter Seven** — system alignment certification records before standing — [`core_07-07_system_alignment_certification.md`](core_07-07_system_alignment_certification.md)
+- **Chapter Seven** — system alignment certification before standing
+  - Part A — evaluation (§1–§10) — [`core_07_a_system_alignment_certification_evaluation.md`](core_07_a_system_alignment_certification_evaluation.md)
+  - Part B — record and process (§11–§16) — [`core_07_b_system_alignment_certification_record_process.md`](core_07_b_system_alignment_certification_record_process.md)
+  - Reading index — [`core_07-07_system_alignment_certification.md`](core_07-07_system_alignment_certification.md)
 - **Chapters Eight–Eleven compass** — Tetrad / Aims reader map for the standing and adjudication pipeline — [`#chapters-eight-eleven-constitutional-compass`](core_08-08_standing_assessment.md#chapters-eight-eleven-constitutional-compass)
 - **Chapter Eight** — standing records, verified inputs, slot grammar, contribution / violation classification — [`core_08-08_standing_assessment.md`](core_08-08_standing_assessment.md)
 - **Chapter Nine** — standing effects, attachments, descriptors, locks, enforcement — [`core_09-09_standing_integration.md`](core_09-09_standing_integration.md)

@@ -598,7 +598,7 @@ def apply_trace_repairs_part_a(text: str) -> str:
     repl = [
         (
             "Chapter One, section 9 — Interaction and Conflict Resolution controls precedence.",
-            "Chapter One, **§5** — Interaction and Conflict Resolution controls precedence.",
+            "Chapter One, **§4** — Interaction and Conflict Resolution controls precedence.",
         ),
         (
             "[§10 Interaction and Conflict Resolution](core_01_b_stewardship_capacity_principles.md#5-interaction-and-conflict-resolution)",
@@ -621,7 +621,7 @@ def apply_trace_repairs_part_a(text: str) -> str:
             "[§7 Freedom](#7-freedom-bounded-agency)",
         ),
         (
-            "[§10](core_01_b_stewardship_capacity_principles.md#7-freedom-bounded-agency)",
+            "[§15](core_01_b_stewardship_capacity_principles.md#7-freedom-bounded-agency)",
             "[§7 Freedom](#7-freedom-bounded-agency)",
         ),
         (
@@ -633,7 +633,7 @@ def apply_trace_repairs_part_a(text: str) -> str:
             "[§13 Shared-System Capacity](core_01_b_stewardship_capacity_principles.md#13-shared-system-capacity)",
         ),
         (
-            "[§6](core_01_b_stewardship_capacity_principles.md#13-shared-system-capacity)",
+            "[§5](core_01_b_stewardship_capacity_principles.md#13-shared-system-capacity)",
             "[§13 Shared-System Capacity](core_01_b_stewardship_capacity_principles.md#13-shared-system-capacity)",
         ),
         (
@@ -669,7 +669,7 @@ def apply_trace_repairs_part_a(text: str) -> str:
             "[§12.2 Stewardship and Operator Incentive Alignment](core_01_b_stewardship_capacity_principles.md#123-stewardship-and-operator-incentive-alignment)",
         ),
         (
-            "[§8.2](core_01_b_stewardship_capacity_principles.md#12-governance-under-stewardship-discipline)",
+            "[§14.2](core_01_b_stewardship_capacity_principles.md#12-governance-under-stewardship-discipline)",
             "[§12 Governance Under Stewardship Discipline](core_01_b_stewardship_capacity_principles.md#12-governance-under-stewardship-discipline)",
         ),
         (
@@ -689,12 +689,12 @@ def apply_trace_repairs_part_a(text: str) -> str:
             "[2. Foundational Objective: Wellbeing](#2-foundational-objective-wellbeing)",
         ),
         (
-            "[§3](#3-foundational-objective-wellbeing)",
-            "[§2](#2-foundational-objective-wellbeing)",
+            "[§11](#3-foundational-objective-wellbeing)",
+            "[§3](#2-foundational-objective-wellbeing)",
         ),
         (
-            "[§5](#5-system-stability-enabler-trust-coordination-integrity)",
-            "[§4](#4-system-stability-enabler-trust-coordination-integrity)",
+            "[§4](#5-system-stability-enabler-trust-coordination-integrity)",
+            "[§2](#4-system-stability-enabler-trust-coordination-integrity)",
         ),
         (
             "[§5.1](#51-resilience-and-self-healing-design)",
@@ -757,11 +757,11 @@ def apply_trace_repairs_part_b(text: str) -> str:
             "the **§14.1** threshold mechanism, or **§14.2** anti-domination discipline",
         ),
         (
-            "nullify the **§9** floor, the **§10.1** threshold mechanism, or **§10.2** anti-domination discipline",
+            "nullify the **§13** floor, the **§10.1** threshold mechanism, or **§10.2** anti-domination discipline",
             "nullify the **§14** floor, the **§14.1** threshold mechanism, or **§14.2** anti-domination discipline",
         ),
         (
-            "under the **§9** non-concentration discipline and **§10.2** anti-domination rules",
+            "under the **§13** non-concentration discipline and **§10.2** anti-domination rules",
             "under the **§14** non-concentration discipline and **§14.2** anti-domination rules",
         ),
         (
@@ -769,7 +769,7 @@ def apply_trace_repairs_part_b(text: str) -> str:
             "**§14.1–§14.3**",
         ),
         (
-            "Productive-capacity and constitutional-efficiency claims under **§8** fail",
+            "Productive-capacity and constitutional-efficiency claims under **§14** fail",
             "Productive-capacity and constitutional-efficiency claims under **§13** fail",
         ),
         (

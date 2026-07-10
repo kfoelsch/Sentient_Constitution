@@ -152,7 +152,7 @@ Maintain **role clarity**, **backup authority**, and communications preserving *
 
 **Competency, succession, and oversight effectiveness:** Maintain **competency**, **succession readiness**, and **effective oversight** proportional to **highest affected class (A/B/C)** and **CSS tier**.
 
-*Accountability*, *Oversight*, and related definitions remain **Chapter Five** (no O/E/C restatement here).
+*Accountability*, *Oversight*, and related definitions remain **Chapter Five** (no O/M/A/C restatement here).
 
 **Competency:** **Maximum calendar age** and **life-stage ceilings** **must not** be used as **stand-alone eligibility** rules for **Critical System Steward** roles. **They** **must not** be used as **stand-alone eligibility** rules for **governing personnel** exercising material authority over classified systems (**Sentient Constitution Chapter Six**, section 1 — *Authorization and Legitimacy of Governing Authority*; **Chapter Six**, **Article IX-C** *Governance Participation and Voting Entitlement*, implemented in **Chapter Six**, section **4.1 — Entitlement and eligibility**).
 

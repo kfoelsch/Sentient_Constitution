@@ -30,31 +30,31 @@
       "status": "blocking"
     },
     {
-      "id": "NAV-DEC-12",
+      "id": "NAV-DAC-12",
       "legacy_ref": "doc_architecture rule 12",
-      "summary": "D/E/C widget scope, trigger, roadmap exclusion, row shape, annotation prose, spacer discipline.",
-      "make_target": "ch5-dec-widget-audit",
+      "summary": "D/A/C widget scope, trigger, roadmap exclusion, row shape, annotation prose, spacer discipline.",
+      "make_target": "ch5-dac-widget-audit",
       "status": "blocking"
     },
     {
-      "id": "NAV-DEC-12-ORDER",
+      "id": "NAV-DAC-12-ORDER",
       "legacy_ref": "doc_architecture rule 12 trace-to-dec placement",
-      "summary": "With Trace: D/E/C or inline Definition immediately after Trace. Without Trace: D/E/C is first block under heading.",
-      "make_target": "trace-dec-widget-order-audit",
+      "summary": "With Trace: D/A/C or inline Definition immediately after Trace. Without Trace: D/A/C is first block under heading.",
+      "make_target": "trace-dac-widget-order-audit",
       "status": "blocking"
     },
     {
-      "id": "NAV-DEC-12-SPACER",
+      "id": "NAV-DAC-12-SPACER",
       "legacy_ref": "doc_architecture rule 12 spacer",
-      "summary": "Collapsible D/E/C keeps trailing br; inline Definition line does not.",
+      "summary": "Collapsible D/A/C keeps trailing br; inline Definition line does not.",
       "make_target": "nav-widget-spacer-audit",
       "status": "blocking"
     },
     {
-      "id": "NAV-DEC-CH1-ORDER",
+      "id": "NAV-DAC-CH1-ORDER",
       "legacy_ref": "doc_architecture rule 12 Ch1 order",
-      "summary": "Chapter One D/E/C widgets preserve functional row order.",
-      "make_target": "ch1-dec-order-audit",
+      "summary": "Chapter One D/A/C widgets preserve functional row order.",
+      "make_target": "ch1-dac-order-audit",
       "status": "blocking"
     },
     {

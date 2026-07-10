@@ -18,7 +18,7 @@
 - **Ch 4:** [core_04-04_burden_traceability_verification.md](core_04-04_burden_traceability_verification.md)
 - **Ch 5:** Part A compass — [core_05-05_definitions_a_independent.md](core_05-05_definitions_a_independent.md); band files — [core_05o_oversight_definitions.md](core_05o_oversight_definitions.md), [core_05p_participation_definitions.md](core_05p_participation_definitions.md), [core_05a_accountability_definitions.md](core_05a_accountability_definitions.md), [core_05c_continuity_definitions.md](core_05c_continuity_definitions.md), [core_05i_integrative_definitions.md](core_05i_integrative_definitions.md) (retired Part B/C → [archive/core_ch5_retired/](archive/core_ch5_retired/README.md))
 - **Ch 6:** [core_06-06_rights_part_a.md](core_06-06_rights_part_a.md) through [core_06-06_rights_part_d.md](core_06-06_rights_part_d.md)
-- **Ch 7:** [core_07-07_system_alignment_certification.md](core_07-07_system_alignment_certification.md)
+- **Ch 7:** [core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation)
 - **Ch 8:** [core_08-08_standing_assessment.md](core_08-08_standing_assessment.md)
 - **Ch 9:** [core_09-09_standing_integration.md](core_09-09_standing_integration.md)
 - **Ch 10:** [core_10-10_misconduct.md](core_10-10_misconduct.md)

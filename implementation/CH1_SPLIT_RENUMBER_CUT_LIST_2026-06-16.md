@@ -1,6 +1,6 @@
 # Chapter One split and renumber — cut list and migration spec
 
-**Status:** Applied (2026-06-16) — Chapter One split, Part B renumber, Chapter Five definitions (P3), corpus-wide link migration, edition `SC-Corpus-2026.04.33`. **2026-06-16 follow-up:** Part filenames reordered to `core_01_a_values_principles.md` / `core_01_b_stewardship_capacity_principles.md` (Chapter Five `_a_`/`_b_` convention; fixes reverse alphabetical sort). **2026-06-24 follow-up:** §8.3–§8.5 elevated to **§14 Market Structure**; former §9–§13 renumbered to §10–§14; Chapter Five **Market Structure** O/E/C added (`#market-structure-constitutional`). Migration script: `tools/ch1_market_structure_split.py`.  
+**Status:** Applied (2026-06-16) — Chapter One split, Part B renumber, Chapter Five definitions (P3), corpus-wide link migration, edition `SC-Corpus-2026.04.33`. **2026-06-16 follow-up:** Part filenames reordered to `core_01_a_values_principles.md` / `core_01_b_stewardship_capacity_principles.md` (Chapter Five `_a_`/`_b_` convention; fixes reverse alphabetical sort). **2026-06-24 follow-up:** §8.3–§8.5 elevated to **§14 Market Structure**; former §9–§13 renumbered to §10–§14; Chapter Five **Market Structure** O/M/A/C added (`#market-structure-constitutional`). Migration script: `tools/ch1_market_structure_split.py`.  
 **Date:** 2026-06-16  
 **Scope:** Split `core_00-01_principles.md` into three files; renumber Chapter One Part B §§6–13 per stewardship → governance → capacity hierarchy.
 
@@ -98,12 +98,12 @@ Binding only together with other `core_*` files. **Chapter One, Part A** — §�
 1. New file header + principle hierarchy intro (new prose)
 2. Legacy redirect anchor block (from L632–L665, **extended** — see §4)
 3. New Part B arc paragraph (replaces L659–L665)
-4. **§6** — body from old L874–L1068 (old §7)
-5. **§7** — new framing §12.1–7.2 + body from old L1520–L1688 (old §14.2)
-6. **§8** — body from old L669–L871 (old §6)
-7. **§9** — body from old L1070–L1202 + L1305–L1411 (old §8; subsections renumbered)
-8. **§10** — body from old L1413–L1518 (old §14.1 only) + new Chapter One §6.2 pointer to §7
-9. **§11** — old L1690–L1734 (old §10)
+4. **§5** — body from old L874–L1068 (old §7)
+5. **§12** — new framing §12.1–7.2 + body from old L1520–L1688 (old §14.2)
+6. **§14** — body from old L669–L871 (old §6)
+7. **§13** — body from old L1070–L1202 + L1305–L1411 (old §8; subsections renumbered)
+8. **§15** — body from old L1413–L1518 (old §14.1 only) + new Chapter One §6.2 pointer to §7
+9. **§16** — old L1690–L1734 (old §10)
 10. **§12** — old L1736–L1767 (old §11)
 11. **§13** — old L1769–L1808 (old §12)
 12. Vocabulary index from L1810–L1830 (update section refs)
@@ -115,12 +115,12 @@ Binding only together with other `core_*` files. **Chapter One, Part A** — §�
 
 | Old § | New § | New title |
 |---|---|---|
-| §7 | **§6** | Stewardship and Distributed Understanding |
-| §14.2 | **§7** | Governance Under Stewardship Discipline |
-| §6 | **§8** | Shared-System Capacity |
-| §8 | **§9** | Interaction and Conflict Resolution |
-| §14.1 | **§10** | Systemic Evaluation Requirement |
-| §10 | **§11** | Freedom (Bounded Agency) |
+| §7 | **§5** | Stewardship and Distributed Understanding |
+| §14.2 | **§12** | Governance Under Stewardship Discipline |
+| §6 | **§14** | Shared-System Capacity |
+| §8 | **§13** | Interaction and Conflict Resolution |
+| §14.1 | **§15** | Systemic Evaluation Requirement |
+| §10 | **§16** | Freedom (Bounded Agency) |
 | §11 | **§12** | Prohibition on Absolute Override |
 | §12 | **§13** | Integrated Application |
 
@@ -204,9 +204,9 @@ Binding only together with other `core_*` files. **Chapter One, Part A** — §�
 |---|---|---|
 | §13.1–§13.2 | **§13.1–§13.2** | Productive Capacity; Constitutional Efficiency |
 | §8.3–§8.5 | **§14.1–§14.3** | Concentration Threshold; Pro-Competition and Anti-Domination; Consolidation Ceiling |
-| *(new parent)* | **§9** | Market Structure (section intro + D/E/C widget) |
-| §9 | **§10** | Interaction and Conflict Resolution |
-| §10 | **§11** | Systemic Evaluation Requirement |
+| *(new parent)* | **§13** | Market Structure (section intro + D/A/C widget) |
+| §9 | **§15** | Interaction and Conflict Resolution |
+| §10 | **§16** | Systemic Evaluation Requirement |
 | §11 | **§12** | Freedom (Bounded Agency) |
 | §12 | **§13** | Prohibition on Absolute Override |
 | §13 | **§14** | Integrated Application |
@@ -331,7 +331,7 @@ Binding only together with other `core_*` files. **Chapter One, Part A** — §�
 | `72-short-horizon-governance-defect` | §12.2 |
 | `102-read-with-governance-and-incentive-discipline` | `112-read-with-governance-and-incentive-discipline` | §11.2 |
 | `9-market-structure` | §9 |
-| `market-structure-constitutional` | Chapter Five O/E/C (`core_05a_accountability_definitions.md`) |
+| `market-structure-constitutional` | Chapter Five O/M/A/C (`core_05a_accountability_definitions.md`) |
 | `chapter-01-part-b-stewardship-capacity-and-constitutional-safeguards` | Part B H2 |
 
 ### 4.3 Legacy redirect block (retain in Part B)
@@ -392,7 +392,7 @@ Replace old §6–§9 sequence paragraph with:
 ```markdown
 *In plain terms: shared systems must keep building real productive capacity — but capacity is something stewardship and lawful governance produce and preserve, not a license to concentrate power.*
 
-**§8** states **Shared-System Capacity** as an instrumental outcome downstream of **§11 Stewardship** and **§10 Governance Under Stewardship Discipline**. Capacity claims fail where they rest on domination, proxy divergence, irreversible lock-in, or governance that defeats the [Constitutional Triad](core_00_preamble.md#constitutional-triad).
+**§14** states **Shared-System Capacity** as an instrumental outcome downstream of **§11 Stewardship** and **§10 Governance Under Stewardship Discipline**. Capacity claims fail where they rest on domination, proxy divergence, irreversible lock-in, or governance that defeats the [Constitutional Triad](core_00_preamble.md#constitutional-triad).
 ```
 
 ### 5.5 §11.2 Read-with pointer (new)
@@ -400,7 +400,7 @@ Replace old §6–§9 sequence paragraph with:
 ```markdown
 #### 10.2 Read-with: Governance and Incentive Discipline
 
-Whole-system evaluation under **Chapter One §8.1** is incomplete if it omits whether incentives and governance structures will preserve constitutional outcomes. Apply **§10 Governance Under Stewardship Discipline** for that discipline; **Chapter One §8.1** does not duplicate **§7**.
+Whole-system evaluation under **Chapter One §8.1** is incomplete if it omits whether incentives and governance structures will preserve constitutional outcomes. Apply **§10 Governance Under Stewardship Discipline** for that discipline; **Chapter One §8.1** does not duplicate **§12**.
 ```
 
 ### 5.6 Chapter One §15 Integrated Application — arc rewrite
@@ -411,7 +411,7 @@ Replace "§§6–9" language with:
 
 ---
 
-## 6. Chapter Five definitions (draft O/E/C)
+## 6. Chapter Five definitions (draft O/M/A/C)
 
 **Placement:** new semi-independent topic group in `core_05-05_definitions_b_semi_independent.md`, before or after existing `Stewardship, review, and correction` group.
 
@@ -443,7 +443,7 @@ Replace "§§6–9" language with:
 - **E:** Include uncorrected proxy divergence, permanent-emergency normalization, deferred safeguard maintenance, and incentive structures rewarding throughput over outcomes. Read with **Stewardship Defect** and **System Capture**.
 - **C:** Non-compliant where such a pattern persists after risks or drift are reasonably foreseeable and correction was practicable.
 
-### 6.5 Governance (amend existing O/E/C)
+### 6.5 Governance (amend existing O/M/A/C)
 
 **Add to O (end):**
 
@@ -523,7 +523,7 @@ Full mapping: generate from Chapter One §8.1 via script `tools/ch1_split_link_m
 | **P0** | Approve this cut list | Operator sign-off |
 | **P1** | Create three files; retire or stub `core_00-01_principles.md` | Visual read; line counts |
 | **P2** | Renumber Part B body + new §7 framing | Section walkthrough |
-| **P3** | Insert Ch 5 definitions + amend Governance | `ch5_dec_widget_audit` |
+| **P3** | Insert Ch 5 definitions + amend Governance | `ch5_dac_widget_audit` |
 | **P4** | Bulk link migration + README/doc_architecture | `rg 'core_00-01_principles'` → 0 binding refs |
 | **P5** | Update `corpus_paths.py`, manifests, stable_id_index | `make regression` |
 | **P6** | Edition bump `SC-Corpus-2026.04.33` (or next) | README edition table |

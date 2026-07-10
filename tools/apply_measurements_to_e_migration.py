@@ -20,13 +20,12 @@ Transforms a legacy definition into the reader-facing guidepost form used by the
       - **Primary failure:** ...   (redundant "Non-compliant:" prefix stripped)
 
 Legacy input shapes handled:
-  * ``- O:`` line (concept, usually duplicated in In scope) + In scope / Out of scope.
+  * ``- O:`` / ``- **O:**`` line (concept, usually duplicated in In scope) + In scope / Out of scope.
+  * Optional ``**Depends on:**`` sub-bullet under O.
   * ``*Measurements:*`` header block of ``**Primary:**`` / ``**Secondary:**`` /
-    ``**Tertiary:**`` bullets between O and the ``-e`` anchor.
-  * ``- E:`` either inline prose (primary-only terms) or ``**Primary assessment.**`` /
-    ``**Secondary co-assessment.**`` / ``**Tertiary integrity check.**`` bullets.
-  * ``- C:`` either inline prose or ``**Primary failure.**`` / ``**Secondary failure.**`` /
-    ``**Tertiary failure.**`` sublabels.
+    ``**Tertiary:**`` bullets between O and the ``-a`` / ``-e`` anchor.
+  * ``- A:`` / ``- E:`` either inline prose (primary-only terms) or tier assessment bullets.
+  * ``- C:`` either inline prose, ``Non-compliant:`` header + list, or failure sublabels.
 
 The transform is deliberately conservative: any term it cannot confidently parse is
 left untouched and reported on stderr (skipped). Always run ``--dry-run`` first.
@@ -47,13 +46,21 @@ if str(_TOOLS) not in sys.path:
 from ch5_measurement_tier_audit import HEADING_RE, find_term_body  # noqa: E402
 from ch5_paths import CH5_ALL  # noqa: E402
 
-O_LINE_RE = re.compile(r"^- (?:\*\*)?O(?:\*\*)?:\s*(.*)$")
-E_MARKER_RE = re.compile(r'^(?:<a id="[^"]*-e"></a>|- (?:\*\*)?E(?:\*\*)?:)')
-E_LINE_RE = re.compile(r"^- (?:\*\*)?E(?:\*\*)?:\s*(.*)$")
-C_MARKER_RE = re.compile(r'^(?:<a id="[^"]*-c"></a>|- (?:\*\*)?C(?:\*\*)?:)')
-C_LINE_RE = re.compile(r"^- (?:\*\*)?C(?:\*\*)?:\s*(.*)$")
-IN_SCOPE_RE = re.compile(r"^(\s*)- (In scope.*?):\s*(.*)$")
-OUT_SCOPE_RE = re.compile(r"^(\s*)- (Out of scope):\s*(.*)$")
+LABEL_O = r"(?:\*\*O:\*\*|(?:\*\*)?O(?:\*\*)?:)"
+LABEL_AE = r"(?:\*\*[AE]:\*\*|(?:\*\*)?[AE](?:\*\*)?:)"
+LABEL_C = r"(?:\*\*C:\*\*|(?:\*\*)?C(?:\*\*)?:)"
+O_LINE_RE = re.compile(rf"^- {LABEL_O}\s*(.*)$")
+WHAT_IT_IS_RE = re.compile(r"^- \*\*What it is\*\*\s*$")
+ASSESS_MARKER_RE = re.compile(
+    rf'^(?:<a id="[^"]*-(?:a|e)"></a>|- {LABEL_AE}(\s|$))'
+)
+C_MARKER_RE = re.compile(rf'^(?:<a id="[^"]*-c"></a>|- {LABEL_C}(\s|$))')
+C_LINE_RE = re.compile(rf"^- {LABEL_C}\s*(.*)$")
+IN_SCOPE_RE = re.compile(
+    r"^(\s*)- \*{0,2}(In scope(?:\s*—\s*[^:*]+|\s*:))\*{0,2}\s*(.*)$"
+)
+OUT_SCOPE_RE = re.compile(r"^(\s*)- \*{0,2}(Out of scope:)\*{0,2}\s*(.*)$")
+DEPENDS_RE = re.compile(r"^(\s*)- \*{0,2}(Depends on:)\*{0,2}\s*(.*)$")
 MEAS_HEADER_RE = re.compile(r"^\s*-?\s*\*Measurements:\*\s*$")
 MEAS_BULLET_RE = re.compile(r"^\s*-\s*\*\*(?:M-)?(Primary|Secondary|Tertiary):\*\*\s*(.*)$")
 ASSESS_BULLET_RE = re.compile(
@@ -70,6 +77,14 @@ ANCHOR_LINE_RE = re.compile(r'^<a id="([^"]+)"></a>$')
 NONCOMPLIANT_PREFIX_RE = re.compile(r"^Non-compliant:\s*")
 LIST_ITEM_RE = re.compile(r"^\s+-\s+\S")
 
+CONTINUATION_RE = re.compile(r"^\s+(?:-\s+|\d+\.\s+)\S")
+ASSESS_AT_COL0_RE = re.compile(rf"^- {LABEL_AE}(\s|$)")
+ASSESS_LINE_RE = re.compile(rf"^- {LABEL_AE}\s*(.*)$")
+C_AT_COL0_RE = re.compile(rf"^- {LABEL_C}(\s|$)")
+ASSESS_ANCHOR_SUFFIX_RE = re.compile(r"-(a|e)$")
+C_ANCHOR_SUFFIX_RE = re.compile(r"-c$")
+MEASUREMENTS_ANCHOR_SUFFIX_RE = re.compile(r"-measurements$")
+
 TIER_ORDER = ("Primary", "Secondary", "Tertiary")
 
 
@@ -78,26 +93,25 @@ def _content_lines(block: list[str]) -> list[str]:
     return [r for r in block if r.strip() and not ANCHOR_LINE_RE.match(r.strip())]
 
 
-def e_block_is_clean(e_block: list[str]) -> bool:
-    """True only for the two shapes we can migrate without losing content:
-
-    * primary-only: a single ``- E: <inline prose>`` line and nothing else, or
-    * full tier: ``- E:`` (empty) followed only by tier assessment bullets.
-    """
-    body = _content_lines(e_block)
+def assess_block_is_clean(assess_block: list[str]) -> bool:
+    """Migratable A/E block: inline prose (+ optional sub-list) or tier bullets only."""
+    body = _content_lines(assess_block)
     if not body:
         return False
-    m = E_LINE_RE.match(body[0])
+    m = ASSESS_LINE_RE.match(body[0])
     if not m:
         return False
     inline = m.group(1).strip()
     rest = body[1:]
     if inline and not inline.startswith("**"):
-        # primary-only inline prose, optionally trailed by a continuation sub-list
-        return all(LIST_ITEM_RE.match(r) for r in rest)
+        return all(CONTINUATION_RE.match(r) for r in rest)
     if inline:
         return False
     return len(rest) > 0 and all(ASSESS_BULLET_RE.match(r) for r in rest)
+
+
+def e_block_is_clean(e_block: list[str]) -> bool:
+    return assess_block_is_clean(e_block)
 
 
 def c_block_is_clean(c_block: list[str], c_line_idx: int) -> bool:
@@ -110,9 +124,20 @@ def c_block_is_clean(c_block: list[str], c_line_idx: int) -> bool:
     inline = C_LINE_RE.match(c_block[c_line_idx]).group(1).strip()
     rest = _content_lines(c_block[c_line_idx + 1:])
     if inline:
-        if NONCOMPLIANT_PREFIX_RE.sub("", inline).strip() == "":
-            return False
-        return len(rest) == 0
+        remainder = NONCOMPLIANT_PREFIX_RE.sub("", inline).strip()
+        if remainder == "":
+            if not any(LIST_ITEM_RE.match(r) for r in rest):
+                return False
+            for raw in rest:
+                if FAILURE_BULLET_RE.match(raw) or LIST_ITEM_RE.match(raw):
+                    continue
+                if raw.strip():
+                    continue
+                return False
+            return True
+        if not inline.startswith("**"):
+            return len(rest) == 0
+        return False
     if not rest:
         return False
     for i, raw in enumerate(rest):
@@ -131,6 +156,14 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--file", help="Migrate every definition in this Chapter Five file.")
     parser.add_argument("--dry-run", action="store_true", help="Report without writing.")
     return parser.parse_args()
+
+
+def _bold_scope_line(indent: str, label: str, text: str) -> str:
+    label = label.strip()
+    text = text.strip().lstrip(":").strip()
+    if label.endswith(":"):
+        return f"{indent}- **{label}** {text}".rstrip()
+    return f"{indent}- **{label}:** {text}".rstrip()
 
 
 def _norm(text: str) -> str:
@@ -164,17 +197,25 @@ def entry_bounds(lines: list[str], heading_idx: int) -> tuple[int, int]:
 
 
 def transform_section(section: list[str], term: str) -> tuple[list[str] | None, str]:
+    if any(raw.strip() == "- **How to measure and assess**" for raw in section):
+        return None, "already guidepost M/A"
+
     o_start = e_start = c_start = None
     for i, raw in enumerate(section):
-        if o_start is None and O_LINE_RE.match(raw):
+        if o_start is None and (O_LINE_RE.match(raw) or WHAT_IT_IS_RE.match(raw)):
             o_start = i
-        elif o_start is not None and e_start is None and E_MARKER_RE.match(raw):
-            e_start = i
-        elif e_start is not None and c_start is None and C_MARKER_RE.match(raw):
+        elif o_start is not None and e_start is None:
+            if ASSESS_AT_COL0_RE.match(raw):
+                e_start = i
+            elif ANCHOR_LINE_RE.match(raw.strip()):
+                m = ANCHOR_LINE_RE.match(raw.strip())
+                if m and ASSESS_ANCHOR_SUFFIX_RE.search(m.group(1)) and raw.lstrip().startswith("<a"):
+                    e_start = i
+        elif e_start is not None and c_start is None and C_AT_COL0_RE.match(raw):
             c_start = i
             break
     if o_start is None or e_start is None or c_start is None:
-        return None, "missing O/E/C markers"
+        return None, "missing O/A/C markers"
 
     pre = section[:o_start]
     o_block = section[o_start:e_start]
@@ -190,58 +231,83 @@ def transform_section(section: list[str], term: str) -> tuple[list[str] | None, 
     else:
         tail = []
 
-    # Guard: only the -e / -c anchors may be standalone anchor lines. Anything
-    # else (for example a *-measurements anchor) is left for manual handling.
+    # Guard: only assessment/compliance anchors may be standalone. Measurements
+    # anchors and other legacy ids are skipped during O parsing.
     for raw in o_block + e_block + c_block:
         m = ANCHOR_LINE_RE.match(raw.strip())
-        if m and not (m.group(1).endswith("-e") or m.group(1).endswith("-c")):
-            return None, f"unexpected standalone anchor #{m.group(1)}"
+        if not m:
+            continue
+        slug = m.group(1)
+        if (
+            ASSESS_ANCHOR_SUFFIX_RE.search(slug)
+            or C_ANCHOR_SUFFIX_RE.search(slug)
+            or MEASUREMENTS_ANCHOR_SUFFIX_RE.search(slug)
+        ):
+            continue
+        return None, f"unexpected standalone anchor #{slug}"
 
-    # ---- O: relabel In scope / Out of scope, drop the duplicated concept line. ----
-    o_concept = O_LINE_RE.match(o_block[0]).group(1).strip()
+    # ---- O: relabel In scope / Out of scope / Depends on; drop duplicated concept line. ----
+    o_line = o_block[0]
+    o_concept = ""
+    if O_LINE_RE.match(o_line):
+        o_concept = O_LINE_RE.match(o_line).group(1).strip()
     scope_lines: list[str] = []
     in_scope_texts: list[str] = []
     for raw in o_block[1:]:
         if MEAS_HEADER_RE.match(raw) or MEAS_BULLET_RE.match(raw) or not raw.strip():
             continue
+        m_anchor = ANCHOR_LINE_RE.match(raw.strip())
+        if m_anchor and MEASUREMENTS_ANCHOR_SUFFIX_RE.search(m_anchor.group(1)):
+            continue
+        if m_anchor:
+            continue
         mi = IN_SCOPE_RE.match(raw)
         if mi:
             indent, label, text = mi.group(1), mi.group(2).strip(), mi.group(3).strip()
-            scope_lines.append(f"{indent}- **{label}:** {text}".rstrip())
+            scope_lines.append(_bold_scope_line(indent, label, text))
             in_scope_texts.append(text)
             continue
         mo = OUT_SCOPE_RE.match(raw)
         if mo:
             indent, label, text = mo.group(1), mo.group(2).strip(), mo.group(3).strip()
-            scope_lines.append(f"{indent}- **{label}:** {text}".rstrip())
+            scope_lines.append(_bold_scope_line(indent, label, text))
+            continue
+        md = DEPENDS_RE.match(raw)
+        if md:
+            indent, label, text = md.group(1), md.group(2).strip(), md.group(3).strip()
+            if "**" in raw:
+                scope_lines.append(raw.rstrip())
+            else:
+                scope_lines.append(_bold_scope_line(indent, label, text))
             continue
         scope_lines.append(raw)  # continuation sub-bullet (kept verbatim)
 
-    if not in_scope_texts:
-        if not o_concept:
-            return None, "no concept and no In scope to build O"
-        scope_lines.insert(0, f"  - **In scope:** {o_concept}")
-    elif o_concept and len(in_scope_texts) == 1 and _norm(o_concept) != _norm(in_scope_texts[0]):
-        return None, "O-line concept diverges from In scope (manual review)"
+    if WHAT_IT_IS_RE.match(o_line):
+        new_o = [o_line, *scope_lines]
+    else:
+        if o_concept and not WHAT_IT_IS_RE.match(o_line):
+            if not in_scope_texts or all(_norm(o_concept) != _norm(t) for t in in_scope_texts):
+                scope_lines.insert(0, f"  - **In scope:** {o_concept}")
+        if not any(OUT_SCOPE_RE.match(raw) or "**Out of scope:**" in raw for raw in o_block[1:]):
+            scope_lines.append(
+                "  - **Out of scope:** formal-label-only or nominal treatment without "
+                "functional effect on the constitutionally governed subject matter."
+            )
+        new_o = ["- **What it is**", *scope_lines]
 
-    if not any(OUT_SCOPE_RE.match(raw) for raw in o_block[1:]):
-        scope_lines.append(
-            "  - **Out of scope:** formal-label-only or nominal treatment without "
-            "functional effect on the constitutionally governed subject matter."
-        )
-
-    new_o = ["- **What it is**", *scope_lines]
-
-    # Only migrate E/C shapes we can transform without losing content.
-    if not e_block_is_clean(e_block):
-        return None, "E block has irregular content (manual review)"
-    c_line_idx_probe = next((i for i, raw in enumerate(c_block) if C_LINE_RE.match(raw)), None)
+    # Only migrate A/C shapes we can transform without losing content.
+    if not assess_block_is_clean(e_block):
+        return None, "A block has irregular content (manual review)"
+    c_line_idx_probe = next(
+        (i for i, raw in enumerate(c_block) if C_LINE_RE.match(raw.strip()) or C_LINE_RE.match(raw)),
+        None,
+    )
     if c_line_idx_probe is None:
         return None, "no C marker line"
     if not c_block_is_clean(c_block, c_line_idx_probe):
         return None, "C block has irregular content (manual review)"
 
-    # ---- Measures (from O block, where the *Measurements:* block lives) and E block. ----
+    # ---- Measures (from O block) and A block. ----
     measures: dict[str, str] = {}
     for raw in o_block + e_block:
         m = MEAS_BULLET_RE.match(raw)
@@ -250,7 +316,7 @@ def transform_section(section: list[str], term: str) -> tuple[list[str] | None, 
     if "Primary" not in measures:
         return None, "no Primary measurement bullet found"
 
-    # ---- Assessments: tier bullets, or inline E prose as the primary assessment. ----
+    # ---- Assessments: tier bullets, or inline A prose as the primary assessment. ----
     assessments: dict[str, str] = {}
     for raw in e_block:
         m = ASSESS_BULLET_RE.match(raw)
@@ -258,31 +324,29 @@ def transform_section(section: list[str], term: str) -> tuple[list[str] | None, 
             tier = next(g for g in m.groups()[:6] if g)
             assessments[tier] = m.group(7).strip()
     e_body = _content_lines(e_block)
-    e_inline = E_LINE_RE.match(e_body[0]) if e_body else None
+    e_inline = ASSESS_LINE_RE.match(e_body[0]) if e_body else None
     inline_text = e_inline.group(1).strip() if e_inline else ""
-    # A continuation sub-list under an inline `- E:` lead nests under the assessment.
     primary_sublist: list[str] = []
     if inline_text and not inline_text.startswith("**"):
         if "Primary" not in assessments:
             assessments["Primary"] = inline_text
-        primary_sublist = ["    " + raw for raw in e_body[1:] if LIST_ITEM_RE.match(raw)]
+        primary_sublist = [
+            "    " + raw.lstrip() for raw in e_body[1:] if CONTINUATION_RE.match(raw)
+        ]
 
-    # Guidepost pairs each assessment with a measure of the same tier. If an
-    # assessment tier has no matching measure, pairing is ambiguous and emitting
-    # would drop content — leave such terms for manual review.
     extra_assess = [t for t in TIER_ORDER if t in assessments and t not in measures]
     if extra_assess:
         return None, f"assessment tier(s) {extra_assess} without matching measure (manual review)"
 
-    # Anchors may sit in either block (a `-c` anchor is sometimes indented inside
-    # the legacy E block). Route each by its slug suffix and normalize to column 0.
-    anchor_ids = [
-        m.group(1)
-        for raw in e_block + c_block
-        if (m := ANCHOR_LINE_RE.match(raw.strip()))
-    ]
-    e_anchor = [f'<a id="{a}"></a>' for a in anchor_ids if a.endswith("-e")]
-    c_anchor = [f'<a id="{a}"></a>' for a in anchor_ids if a.endswith("-c")]
+    seen: set[str] = set()
+    e_anchor: list[str] = []
+    for raw in section[o_start:c_start]:
+        m = ANCHOR_LINE_RE.match(raw.strip())
+        if m and ASSESS_ANCHOR_SUFFIX_RE.search(m.group(1)):
+            line = f'<a id="{m.group(1)}"></a>'
+            if line not in seen:
+                seen.add(line)
+                e_anchor.append(line)
 
     new_e: list[str] = [*e_anchor, "- **How to measure and assess**"]
     for tier in TIER_ORDER:
@@ -294,24 +358,52 @@ def transform_section(section: list[str], term: str) -> tuple[list[str] | None, 
                 if tier == "Primary":
                     new_e.extend(primary_sublist)
 
-    # ---- C: relabel failure sublabels, strip redundant "Non-compliant:" prefixes. ----
-    c_line_idx = next((i for i, raw in enumerate(c_block) if C_LINE_RE.match(raw)), None)
-    if c_line_idx is None:
-        return None, "no C marker line"
+    # ---- C: relabel failure sublabels; convert Non-compliant lists; strip redundant prefix. ----
+    c_line_idx = c_line_idx_probe
     c_inline = C_LINE_RE.match(c_block[c_line_idx]).group(1).strip()
+    c_rest = [r for r in c_block[c_line_idx + 1:] if r.strip() and not ANCHOR_LINE_RE.match(r.strip())]
+
+    seen_c: set[str] = set()
+    c_anchor: list[str] = []
+    for raw in section[e_start:]:
+        m = ANCHOR_LINE_RE.match(raw.strip())
+        if m and C_ANCHOR_SUFFIX_RE.search(m.group(1)):
+            line = f'<a id="{m.group(1)}"></a>'
+            if line not in seen_c:
+                seen_c.add(line)
+                c_anchor.append(line)
 
     new_c: list[str] = [*c_anchor, "- **What must hold**"]
+    handled_c_rest = False
     if c_inline:
-        new_c.append("  - " + NONCOMPLIANT_PREFIX_RE.sub("", c_inline))
-    for raw in c_block[c_line_idx + 1:]:
-        if ANCHOR_LINE_RE.match(raw.strip()):
-            continue
-        mf = FAILURE_BULLET_RE.match(raw)
-        if mf:
-            indent, tier, rest = mf.group(1), mf.group(2), mf.group(3).strip()
-            new_c.append(f"{indent}- **{tier} failure:** {rest}")
-        else:
-            new_c.append(raw)
+        remainder = NONCOMPLIANT_PREFIX_RE.sub("", c_inline).strip()
+        if remainder == "" and c_rest:
+            handled_c_rest = True
+            tiers = list(TIER_ORDER)
+            ti = 0
+            for raw in c_rest:
+                if LIST_ITEM_RE.match(raw):
+                    text = re.sub(r"^\s+-\s+", "", raw).strip()
+                    tier = tiers[min(ti, 2)]
+                    indent = re.match(r"^(\s*)", raw).group(1)
+                    new_c.append(f"{indent}- **{tier} failure:** {text}")
+                    ti += 1
+                elif raw.strip():
+                    new_c.append(f"  - {raw.strip()}")
+        elif remainder:
+            new_c.append(f"  - {remainder}")
+    if not handled_c_rest:
+        for raw in c_block[c_line_idx + 1:]:
+            if ANCHOR_LINE_RE.match(raw.strip()):
+                continue
+            mf = FAILURE_BULLET_RE.match(raw)
+            if mf:
+                indent, tier, rest = mf.group(1), mf.group(2), mf.group(3).strip()
+                new_c.append(f"{indent}- **{tier} failure:** {rest}")
+            elif LIST_ITEM_RE.match(raw) and not c_inline:
+                new_c.append(raw)
+            elif raw.strip():
+                new_c.append(raw)
     while new_c and not new_c[-1].strip():
         new_c.pop()
 

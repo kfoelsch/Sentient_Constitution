@@ -280,7 +280,7 @@ def audit_proof_cases(
                             rule="proof-forbidden-link",
                             detail=(
                                 f"{proof_id}: operative body must not link "
-                                f"{forbidden_href!r} (route via D/E/C or bold text)."
+                                f"{forbidden_href!r} (route via D/A/C or bold text)."
                             ),
                         )
                     )

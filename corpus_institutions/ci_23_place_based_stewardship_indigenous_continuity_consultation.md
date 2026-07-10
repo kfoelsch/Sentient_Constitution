@@ -9,15 +9,15 @@
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Indigenous Continuity](../core_05c_continuity_definitions.md#indigenous-continuity-constitutional) · [O](../core_05c_continuity_definitions.md#indigenous-continuity-constitutional) · [E](../core_05c_continuity_definitions.md#indigenous-continuity-constitutional-e) · [C](../core_05c_continuity_definitions.md#indigenous-continuity-constitutional-c)
-- [Governance](../core_05a_accountability_definitions.md#governance) · [O](../core_05a_accountability_definitions.md#governance) · [E](../core_05a_accountability_definitions.md#governance-e) · [C](../core_05a_accountability_definitions.md#governance-c)
-- [Consent](../core_05p_participation_definitions.md#consent-constitutional) · [O](../core_05p_participation_definitions.md#consent-constitutional) · [E](../core_05p_participation_definitions.md#consent-constitutional-e) · [C](../core_05p_participation_definitions.md#consent-constitutional-c)
-- [Natural Systems Standing](../core_05p_participation_definitions.md#natural-systems-standing) · [O](../core_05p_participation_definitions.md#natural-systems-standing) · [E](../core_05p_participation_definitions.md#natural-systems-standing-e) · [C](../core_05p_participation_definitions.md#natural-systems-standing-c)
-- [Stakeholder Participation Weight](../core_05p_participation_definitions.md#stakeholder-participation-weight) · [O](../core_05p_participation_definitions.md#stakeholder-participation-weight) · [E](../core_05p_participation_definitions.md#stakeholder-participation-weight-e) · [C](../core_05p_participation_definitions.md#stakeholder-participation-weight-c)
-- [Oversight](../core_05o_oversight_definitions.md#oversight-constitutional) · [O](../core_05o_oversight_definitions.md#oversight-constitutional) · [E](../core_05o_oversight_definitions.md#oversight-constitutional-e) · [C](../core_05o_oversight_definitions.md#oversight-constitutional-c)
-- [Collective Organization](../core_05p_participation_definitions.md#collective-organization-constitutional) · [O](../core_05p_participation_definitions.md#collective-organization-constitutional) · [E](../core_05p_participation_definitions.md#collective-organization-constitutional-e) · [C](../core_05p_participation_definitions.md#collective-organization-constitutional-c)
+- [Indigenous Continuity](../core_05c_continuity_definitions.md#indigenous-continuity-constitutional) · [O](../core_05c_continuity_definitions.md#indigenous-continuity-constitutional) · [A](../core_05c_continuity_definitions.md#indigenous-continuity-constitutional-a) · [C](../core_05c_continuity_definitions.md#indigenous-continuity-constitutional-c)
+- [Governance](../core_05a_accountability_definitions.md#governance) · [O](../core_05a_accountability_definitions.md#governance) · [A](../core_05a_accountability_definitions.md#governance-a) · [C](../core_05a_accountability_definitions.md#governance-c)
+- [Consent](../core_05p_participation_definitions.md#consent-constitutional) · [O](../core_05p_participation_definitions.md#consent-constitutional) · [A](../core_05p_participation_definitions.md#consent-constitutional-a) · [C](../core_05p_participation_definitions.md#consent-constitutional-c)
+- [Natural Systems Standing](../core_05p_participation_definitions.md#natural-systems-standing) · [O](../core_05p_participation_definitions.md#natural-systems-standing) · [A](../core_05p_participation_definitions.md#natural-systems-standing-a) · [C](../core_05p_participation_definitions.md#natural-systems-standing-c)
+- [Stakeholder Participation Weight](../core_05p_participation_definitions.md#stakeholder-participation-weight) · [O](../core_05p_participation_definitions.md#stakeholder-participation-weight) · [A](../core_05p_participation_definitions.md#stakeholder-participation-weight-a) · [C](../core_05p_participation_definitions.md#stakeholder-participation-weight-c)
+- [Oversight](../core_05o_oversight_definitions.md#oversight-constitutional) · [O](../core_05o_oversight_definitions.md#oversight-constitutional) · [A](../core_05o_oversight_definitions.md#oversight-constitutional-a) · [C](../core_05o_oversight_definitions.md#oversight-constitutional-c)
+- [Collective Organization](../core_05p_participation_definitions.md#collective-organization-constitutional) · [O](../core_05p_participation_definitions.md#collective-organization-constitutional) · [A](../core_05p_participation_definitions.md#collective-organization-constitutional-a) · [C](../core_05p_participation_definitions.md#collective-organization-constitutional-c)
 
 </details>
 

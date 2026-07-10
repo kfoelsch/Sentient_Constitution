@@ -27,7 +27,7 @@
 <br>
 
 
-This band holds definitions under the constitutional [Continuity aim](../core_00_preamble.md#continuity): dependency, risk, survival-floor continuity, labor floors, stewardship discipline, privacy lifecycle, and trust. **Continuity disambiguation:** constitutional **Continuity aim** ([Chapter 00 §1](../core_00_preamble.md#continuity); binding O/E/C: [Continuity (Constitutional Aim)](core_05g_continuity_aim.md#continuity-aim-constitutional)) is distinct from operational or protocol continuity elsewhere in the corpus.
+This band holds definitions under the constitutional [Continuity aim](../core_00_preamble.md#continuity): dependency, risk, survival-floor continuity, labor floors, stewardship discipline, privacy lifecycle, and trust. **Continuity disambiguation:** constitutional **Continuity aim** ([Chapter 00 §1](../core_00_preamble.md#continuity); binding O/M/A/C: [Continuity (Constitutional Aim)](core_05g_continuity_aim.md#continuity-aim-constitutional)) is distinct from operational or protocol continuity elsewhere in the corpus.
 
 | Cluster | Section |
 |---|---|
@@ -71,7 +71,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 - **What it is**
   - **In scope:** A failure that propagates across [Dependency](core_05c_continuity_definitions.md#dependency)-linked systems, components, or institutions, amplifying impact beyond the originating system.
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-<a id="cascading-failure-e"></a>
+<a id="cascading-failure-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Continuity measurement family — propagation risk within the continuity measurement family.
 
@@ -93,7 +93,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Continuity measurement family (*Dependency and resource flows as constitutional measurement*); Principles: [3. Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [5. System Stability Enabler: Trust](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity), [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency), [6. Process Conflict Resolution](#6-process-conflict-resolution), [§6.1 decision-record discipline](#631-rights-collision-decision-test), and [Chapter Seven §1A Whole-System Certification Evaluation](core_07-07_system_alignment_certification.md#1a-whole-system-certification-evaluation).
+- Downstream: Continuity measurement family (*Dependency and resource flows as constitutional measurement*); Principles: [3. Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [5. System Stability Enabler: Trust](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity), [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency), [6. Process Conflict Resolution](#6-process-conflict-resolution), [§6.1 decision-record discipline](#631-rights-collision-decision-test), and [Chapter Seven §3 Whole-System Certification Evaluation](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 - Cluster component: [Chapter Five Chapter One §8.20 *Governance Architecture, Oversight, Dependency, Decentralization, Concentration, Market Structure, and Exit-Path Integrity*](core_05a_accountability_definitions.md#governance-architecture-oversight-decentralization-and-concentration-cluster)
 - Read with: [Wellbeing](core_05c_continuity_definitions.md#wellbeing), [Risk](core_05c_continuity_definitions.md#risk), [Classification-Scaled Governance](core_05o_oversight_definitions.md#classification-scaled-governance), and [System Boundary Integrity](core_05c_continuity_definitions.md#system-boundary-integrity).
 
@@ -104,7 +104,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 - **What it is**
   - **In scope:** The extent to which a sentient or system relies on another system for survival, function, stability, or participation. A core input to [Wellbeing](core_05c_continuity_definitions.md#wellbeing), [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency), and [Classification-Scaled Governance](core_05o_oversight_definitions.md#classification-scaled-governance).
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-<a id="dependency-e"></a>
+<a id="dependency-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Continuity measurement family — primary owner for dependency measurement in this subfamily.
 
@@ -126,7 +126,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Owner floor: [Article IV-B](core_06-06_rights_part_a.md#article-iv-b-cross-system-fairness-and-sustainability) (*Cross-System Fairness and Sustainability*). Implementation routing: **[corpus_systems.md](corpus_systems.md)**, **Protocol S5 — Resource Allocation and Funding Stewardship**; [Chapter Seven — System Alignment Certification](core_07-07_system_alignment_certification.md#chapter-seven-system-alignment-certification) [§5A](core_07-07_system_alignment_certification.md#5a-proportionate-cross-system-support-evaluation) where shared-infrastructure reliance is materially at issue.
+- Owner floor: [Article IV-B](core_06-06_rights_part_a.md#article-iv-b-cross-system-fairness-and-sustainability) (*Cross-System Fairness and Sustainability*). Implementation routing: **[corpus_systems.md](corpus_systems.md)**, **Protocol S5 — Resource Allocation and Funding Stewardship**; [Chapter Seven — System Alignment Certification](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) [§6](core_07_a_system_alignment_certification_evaluation.md#6-proportionate-cross-system-support-evaluation) where shared-infrastructure reliance is materially at issue.
 - Downstream: [Article IV-A](core_06-06_rights_part_a.md#article-iv-a-dependency-mapping-and-resource-flow-transparency) (*dependent-systems maps and resource-flow records used to evaluate adequacy*); [Chapter Zero §2 *Measurements Overview*](core_00_preamble.md#measurements-overview) (*constitutional measurement orientation*); Continuity measurement family (*dependency and resource-flow measurement*).
 - Read with: [Dependency](core_05c_continuity_definitions.md#dependency), [Substantive Fairness](core_05p_participation_definitions.md#substantive-fairness-constitutional), [Proportionality](core_05a_accountability_definitions.md#proportionality), [Ecological Footprint](core_05c_continuity_definitions.md#ecological-footprint), [Sustainability](core_05c_continuity_definitions.md#sustainability), [Shared-System Capacity](core_05c_continuity_definitions.md#shared-system-capacity-constitutional), [System Alignment Certification](core_05c_continuity_definitions.md#system-alignment-certification-constitutional), and [Concentration Threshold](core_05a_accountability_definitions.md#concentration-threshold-constitutional).
 
@@ -144,8 +144,8 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 - **Primary:** Continuity measurement family — primary owner for cross-system support measurement.
 - **Secondary:** [Dependency](core_05c_continuity_definitions.md#dependency), [Ecological Footprint](core_05c_continuity_definitions.md#ecological-footprint), [Sustainability](core_05c_continuity_definitions.md#sustainability), and [Substantive Fairness](core_05p_participation_definitions.md#substantive-fairness-constitutional) — co-measures that can defeat adequacy even when transfers are formally documented.
 
-<a id="proportionate-cross-system-support-constitutional-e"></a>
-- **E:**
+<a id="proportionate-cross-system-support-constitutional-a"></a>
+- **A:**
   - **Primary assessment.** Reach substantive adequacy, not formal labeling or one-off transfers. Compare documented inflows and outflows on dependent-systems maps and auditable resource-flow records under **Article IV-A** against the burden imposed on the shared or foundational dependency. At minimum, evaluate whether support includes, where material: continuity of operations; remedy and resilience capacity; ecosystem reinvestment; and ecological burden offset where material [Ecological Footprint](core_05c_continuity_definitions.md#ecological-footprint) is imposed.
   - **Secondary co-assessment.** When evaluating the primary trace, scale required support to criticality, dependency asymmetry, availability of alternatives, ecological footprint, and long-term sustainability. Where materially impactful systems allocate, route, fund, or extract from shared infrastructure, evaluate adequacy through [System Alignment Certification](core_05c_continuity_definitions.md#system-alignment-certification-constitutional) on a contestable record, not operator assertion alone.
 <a id="proportionate-cross-system-support-constitutional-c"></a>
@@ -169,20 +169,22 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 
 <br>
 
-- O: The Rights-Floor concept limiting market-structured commodification of essential shelter and operating environments — physical dwellings, healthy food, clean water and air, substrate hosting, compute tenancy, and comparable substrate-agnostic arrangements — where commodification pressure at scale materially implicates the [Article III-A](core_06-06_rights_part_a.md#article-iii-a-survival) survival-floor. It applies under [Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion).
-  - In scope: market-structured commodification of essential shelter and operating environments where commodification pressure at scale materially implicates the [Article III-A](core_06-06_rights_part_a.md#article-iii-a-survival) survival-floor, under [Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion).
-  - Out of scope: ordinary voluntary-exchange mechanics operating above the survival-floor and outside essential-environment-access scope.
-*Measurements:*
+- **What it is**
+  - **In scope:** The Rights-Floor concept limiting market-structured commodification of essential shelter and operating environments — physical dwellings, healthy food, clean water and air, substrate hosting, compute tenancy, and comparable substrate-agnostic arrangements — where commodification pressure at scale materially implicates the [Article III-A](core_06-06_rights_part_a.md#article-iii-a-survival) survival-floor. It applies under [Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion).
+  - **In scope:** market-structured commodification of essential shelter and operating environments where commodification pressure at scale materially implicates the [Article III-A](core_06-06_rights_part_a.md#article-iii-a-survival) survival-floor, under [Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion).
+  - **Out of scope:** ordinary voluntary-exchange mechanics operating above the survival-floor and outside essential-environment-access scope.
+<a id="essential-environment-non-commodification-constitutional-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** Continuity measurement family — supporting measure under the continuity measurement family.
 
-- **Primary:** Continuity measurement family — supporting measure under the continuity measurement family.
-<a id="essential-environment-non-commodification-constitutional-e"></a>
-- E: Reach substantive effect:
-  - detect pricing, speculative reallocation, or comparable market-structured pressure that defeats essential-environment access at scale implicating the survival-floor;
-  - apply [Substantive Fairness](core_05p_participation_definitions.md#substantive-fairness-constitutional) and [Protected Characteristic Proxying and Disparate Impact](core_05p_participation_definitions.md#protected-characteristic-proxying-and-disparate-impact) to distributional effects;
-  - reject "market-structuring" framings that narrow the floor without satisfying [Necessity](core_05a_accountability_definitions.md#necessity) and [Proportionality](core_05a_accountability_definitions.md#proportionality) limitations discipline;
-  - substrate-class commodification schemes targeting synthetic-hosting tenancy are evaluated on the same terms.
-  <a id="essential-environment-non-commodification-constitutional-c"></a>
-- C: Non-compliant: commodification pressure whose effect defeats essential-environment access at materially implicated scale, regardless of market-structuring framing; substrate-class schemes that defeat synthetic-hosting or compute-tenancy access ([Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion)); reading this entry to displace [Tenure Security](core_05c_continuity_definitions.md#tenure-security-constitutional) procedural discipline or to license intrusion contrary to Article VII-A or VII-B.
+    **Primary assessment:** Reach substantive effect:
+    - detect pricing, speculative reallocation, or comparable market-structured pressure that defeats essential-environment access at scale implicating the survival-floor;
+    - apply [Substantive Fairness](core_05p_participation_definitions.md#substantive-fairness-constitutional) and [Protected Characteristic Proxying and Disparate Impact](core_05p_participation_definitions.md#protected-characteristic-proxying-and-disparate-impact) to distributional effects;
+    - reject "market-structuring" framings that narrow the floor without satisfying [Necessity](core_05a_accountability_definitions.md#necessity) and [Proportionality](core_05a_accountability_definitions.md#proportionality) limitations discipline;
+    - substrate-class commodification schemes targeting synthetic-hosting tenancy are evaluated on the same terms.
+<a id="essential-environment-non-commodification-constitutional-c"></a>
+- **What must hold**
+  - commodification pressure whose effect defeats essential-environment access at materially implicated scale, regardless of market-structuring framing; substrate-class schemes that defeat synthetic-hosting or compute-tenancy access ([Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion)); reading this entry to displace [Tenure Security](core_05c_continuity_definitions.md#tenure-security-constitutional) procedural discipline or to license intrusion contrary to Article VII-A or VII-B.
 
 ---
 
@@ -193,7 +195,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [Chapter Seven §1A Whole-System Certification Evaluation](core_07-07_system_alignment_certification.md#1a-whole-system-certification-evaluation).
+- Downstream: Principles: [Chapter Seven §3 Whole-System Certification Evaluation](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 - Cluster component: [Chapter Five §3.32 *Resilience, Safety, Reversibility, Self-Healing, Cascading Failure, Existential Risk, Environmental Preconditions, and Wellbeing*](core_05c_continuity_definitions.md#resilience-safety-reversibility-self-healing-and-systemic-harm-cluster)
 - Read with: [Risk](core_05c_continuity_definitions.md#risk), [Harm](core_05a_accountability_definitions.md#harm), [Environmental Preconditions](core_05c_continuity_definitions.md#environmental-preconditions-constitutional), [Ecological Integrity](core_05c_continuity_definitions.md#ecological-integrity-constitutional), [Ecological Recovery Capacity](core_05c_continuity_definitions.md#ecological-recovery-capacity-constitutional), and [Intergenerational Responsibility](core_05c_continuity_definitions.md#intergenerational-responsibility-constitutional).
 
@@ -204,7 +206,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 - **What it is**
   - **In scope:** Risk of large-scale, civilization-relevant, or survival-critical harm — including irreversible loss of [Ecological Recovery Capacity](core_05c_continuity_definitions.md#ecological-recovery-capacity-constitutional), collapse of critical layers supporting sentient life, failures of coordination around [Environmental Preconditions](core_05c_continuity_definitions.md#environmental-preconditions-constitutional), and low-probability high-impact pathways.
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-<a id="existential-risk-e"></a>
+<a id="existential-risk-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Continuity measurement family — supporting measure under the continuity measurement family.
 
@@ -222,7 +224,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 - **What it is**
   - **In scope:** Remaining [Risk](core_05c_continuity_definitions.md#risk) after mitigation.
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-<a id="residual-risk--misalignment-e"></a>
+<a id="residual-risk--misalignment-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Continuity measurement family — supporting measure under the continuity measurement family.
 
@@ -240,7 +242,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [Chapter Seven §1A Whole-System Certification Evaluation](core_07-07_system_alignment_certification.md#1a-whole-system-certification-evaluation).
+- Downstream: Principles: [Chapter Seven §3 Whole-System Certification Evaluation](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 - Cluster component: [Chapter Five §3.32 *Resilience, Safety, Reversibility, Self-Healing, Cascading Failure, Existential Risk, Environmental Preconditions, and Wellbeing*](core_05c_continuity_definitions.md#resilience-safety-reversibility-self-healing-and-systemic-harm-cluster)
 - Read with: [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint), [Irreversible Harm](core_05a_accountability_definitions.md#irreversible-harm), [Cascading Failure](core_05c_continuity_definitions.md#cascading-failure), and [Dependency](core_05c_continuity_definitions.md#dependency).
 
@@ -251,7 +253,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 - **What it is**
   - **In scope:** The capacity to roll back, bound, contain, or restore states and commitments within feasible limits, proportionate to [Irreversible Harm](core_05a_accountability_definitions.md#irreversible-harm) risk, [Dependency](core_05c_continuity_definitions.md#dependency), and [Material Impact](core_05o_oversight_definitions.md#material-impact), across technical, organizational, social, and ecological dimensions where relevant and consistent with [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint).
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-<a id="reversibility-constitutional-e"></a>
+<a id="reversibility-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Continuity measurement family — primary owner for reversibility measurement within the continuity family.
 
@@ -273,7 +275,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Flourishing measurement family (*Safety, harm, and risk as constitutional measurement*); Principles: [4.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint) and [Chapter Seven §1A Whole-System Certification Evaluation](core_07-07_system_alignment_certification.md#1a-whole-system-certification-evaluation).
+- Downstream: Flourishing measurement family (*Safety, harm, and risk as constitutional measurement*); Principles: [4.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint) and [Chapter Seven §3 Whole-System Certification Evaluation](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 - Read with: [Harm](core_05a_accountability_definitions.md#harm), [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination), [Dependency](core_05c_continuity_definitions.md#dependency), and [Existential Risk](core_05c_continuity_definitions.md#existential-risk).
 
 </details>
@@ -283,7 +285,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 - **What it is**
   - **In scope:** Likelihood, speed, and severity of [Harm](core_05a_accountability_definitions.md#harm).
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-<a id="risk-e"></a>
+<a id="risk-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Flourishing measurement family — co-measure within the flourishing harm subfamily (primary owner: [Harm](core_05a_accountability_definitions.md#harm)).
 
@@ -315,8 +317,9 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 
 - **What it is**
   - **In scope:** The obligation to prevent, limit, and contain harm to sentients, [Environmental Preconditions](core_05c_continuity_definitions.md#environmental-preconditions-constitutional) on which sentients depend, and dependent systems — applied under normal, degraded, and adversarial conditions. Protective requirements must not be relaxed based solely on expected-value optimization where such relaxation materially increases tail risk, systemic risk, or [Irreversible Harm](core_05a_accountability_definitions.md#irreversible-harm).
+  - **Depends on:** [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint) — paired non-negotiable constraint under [Chapter One §4](core_01_a_values_principles.md#3-non-negotiable-constraints-safety-and-truth); safety claims, risk communication, and protective tradeoffs must remain honest and auditable.
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-<a id="safety-constraint-e"></a>
+<a id="safety-constraint-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Flourishing measurement family — **Flourishing** constituent measure for this term.
 
@@ -352,19 +355,22 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 
 <br>
 
-- O: A system's capacity to detect, contain, and restore constitutional operation after disturbance, fault, degradation, or constraint violation, within bounds set by [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint), [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint), [Trust](core_05c_continuity_definitions.md#trust), and [Reversibility](core_05c_continuity_definitions.md#reversibility-constitutional). Includes early detection of fault or degradation, bounded containment of blast radius, intended and disclosed degradation paths, safe-failure preference under uncertainty, and proportionate restoration that preserves the Chapter Six Rights Floor. A property of constitutional compliance under disturbance — not a license for a system to reconfigure its own authority, audit channels, or constitutional obligations.
-  - In scope: A system's capacity to detect, contain, and restore constitutional operation after disturbance, fault, degradation, or constraint violation, within bounds set by [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint), [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint), [Trust](core_05c_continuity_definitions.md#trust), and [Reversibility](core_05c_continuity_definitions.md#reversibility-constitutional). Includes early detection of fault or degradation, bounded containment of blast radius, intended and disclosed degradation paths, safe-failure preference under uncertainty, and proportionate restoration that preserves the Chapter Six Rights Floor. A property of constitutional compliance under disturbance — not a license for a system to reconfigure its own authority, audit channels, or constitutional obligations.
-  - Out of scope: formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-*Measurements:*
+*In plain terms: a system's ability to detect trouble, limit the damage, and restore normal constitutional operation after a fault — without hiding evidence, expanding its own authority, or quietly narrowing rights.*
 
-- **Primary:** Continuity measurement family — supporting measure under the continuity measurement family.
-<a id="self-healing-constitutional-e"></a>
-- E: Distinguish genuine recovery from masking. Recovery that suppresses, overwrites, delays, or obscures evidence needed for root-cause analysis under Article XXI, or that silently narrows Rights-Floor guarantees, is not Self-Healing within the meaning of this Constitution. It is epistemic degradation under [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint) and an incentive-alignment defect under [Incentive Alignment](core_05i_integrative_definitions.md#incentive-alignment). Evaluation covers: detection latency; containment scope; graceful-degradation paths; safe-failure preference; [Reversibility](core_05c_continuity_definitions.md#reversibility-constitutional) of recovery actions; observability of recovery attempts (including suppressed attempts); [Dependency](core_05c_continuity_definitions.md#dependency) and [Cascading Failure](core_05c_continuity_definitions.md#cascading-failure) propagation; [Accountability](core_05a_accountability_definitions.md#accountability) for recovery decisions; and autonomy-scaling consistent with [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency) and [Contestability](core_05a_accountability_definitions.md#contestability). Detailed recovery architecture requirements appear in incorporated implementation text, including [corpus_systems.md](corpus_systems.md) Protocol A, Protocol S4, and Protocol D, and must not narrow this constitutional requirement.
+- **What it is**
+  - **In scope:** A system's capacity to detect, contain, and restore constitutional operation after disturbance, fault, degradation, or constraint violation. Includes early detection of fault or degradation, bounded containment of blast radius, intended and disclosed degradation paths, safe-failure preference under uncertainty, and proportionate restoration that preserves the Chapter Six Rights Floor. A property of constitutional compliance under disturbance — not a license for a system to reconfigure its own authority, audit channels, or constitutional obligations.
+  - **Depends on:** [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint), [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint), [Trust](core_05c_continuity_definitions.md#trust), and [Reversibility](core_05c_continuity_definitions.md#reversibility-constitutional) — constitutive bounds; recovery outside these bounds is not Self-Healing within the meaning of this Constitution.
+  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter; automatic recovery that masks root cause, suppresses evidence, silently narrows the Chapter Six Rights Floor, expands authority beyond the pre-fault envelope, or bypasses audit or contestability channels.
+<a id="self-healing-constitutional-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** Continuity measurement family — supporting measure under the continuity measurement family.
+
+    **Primary assessment:** Distinguish genuine recovery from masking. Recovery that suppresses, overwrites, delays, or obscures evidence needed for root-cause analysis under Article XXI, or that silently narrows Rights-Floor guarantees, is not Self-Healing within the meaning of this Constitution. It is epistemic degradation under [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint) and an incentive-alignment defect under [Incentive Alignment](core_05i_integrative_definitions.md#incentive-alignment). Evaluation covers: detection latency; containment scope; graceful-degradation paths; safe-failure preference; [Reversibility](core_05c_continuity_definitions.md#reversibility-constitutional) of recovery actions; observability of recovery attempts (including suppressed attempts); [Dependency](core_05c_continuity_definitions.md#dependency) and [Cascading Failure](core_05c_continuity_definitions.md#cascading-failure) propagation; [Accountability](core_05a_accountability_definitions.md#accountability) for recovery decisions; and autonomy-scaling consistent with [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency) and [Contestability](core_05a_accountability_definitions.md#contestability). Detailed recovery architecture requirements appear in incorporated implementation text, including [corpus_systems.md](corpus_systems.md) Protocol A, Protocol S4, and Protocol D, and must not narrow this constitutional requirement.
 <a id="self-healing-constitutional-c"></a>
-- C: Non-compliant:
-  - automatic recovery that masks root cause, suppresses evidence, silently narrows the Chapter Six Rights Floor, expands authority beyond the pre-fault envelope, bypasses [Contestability](core_05a_accountability_definitions.md#contestability) or audit channels, or operationally closes a defective condition without an open root-cause obligation under Article XXI;
-  - treating Self-Healing as a substitute for governance, or as justification to reduce [Auditability](core_05o_oversight_definitions.md#auditability), [Transparency](core_05o_oversight_definitions.md#transparency), or stewardship obligations under [Incentive Alignment](core_05i_integrative_definitions.md#incentive-alignment);
-  - recovery authority exceeding what is necessary and proportionate to the fault, or exercised by high-autonomy systems outside the scope of Article XII-E.
+- **What must hold**
+  - **Primary failure:** automatic recovery that masks root cause, suppresses evidence, silently narrows the Chapter Six Rights Floor, expands authority beyond the pre-fault envelope, bypasses [Contestability](core_05a_accountability_definitions.md#contestability) or audit channels, or operationally closes a defective condition without an open root-cause obligation under Article XXI;
+  - **Secondary failure:** treating Self-Healing as a substitute for governance, or as justification to reduce [Auditability](core_05o_oversight_definitions.md#auditability), [Transparency](core_05o_oversight_definitions.md#transparency), or stewardship obligations under [Incentive Alignment](core_05i_integrative_definitions.md#incentive-alignment);
+  - **Tertiary failure:** recovery authority exceeding what is necessary and proportionate to the fault, or exercised by high-autonomy systems outside the scope of Article XII-E.
 
 ---
 
@@ -376,7 +382,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Constitutional frame: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **oversight**, **accountability**, **participation**, and **timeliness**; [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — **Flourishing** (primary) and **Continuity**; scales with [material stake](core_00_preamble.md#material-stake).
-- Canonical owner: [Chapter Seven — System Alignment Certification](core_07-07_system_alignment_certification.md#chapter-seven-system-alignment-certification) (*process, record contents, supervisory sequence, and standing-record bridge*); read with [Constitutional Owner Layers](core_05i_integrative_definitions.md#constitutional-owner-layers).
+- Canonical owner: [Chapter Seven — System Alignment Certification](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) (*process, record contents, supervisory sequence, and standing-record bridge*); read with [Constitutional Owner Layers](core_05i_integrative_definitions.md#constitutional-owner-layers).
 - Downstream: [Chapter Eight — Standing records and verified-input gate](core_08-08_standing_assessment.md#2-standing-records); [Chapter Eleven](core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) (*forum supervision*); [Article III-A](core_06-06_rights_part_a.md#article-iii-a-survival) (*survival-essential access floor where certification gates delivery or continued operation*); [Article IV-A](core_06-06_rights_part_a.md#article-iv-a-dependency-mapping-and-resource-flow-transparency) and [Article IV-B](core_06-06_rights_part_a.md#article-iv-b-cross-system-fairness-and-sustainability) (*resource allocation and dependency stewardship where certification gates shared-infrastructure reliance*).
 - Read with: [Classification-Scaled Governance](core_05o_oversight_definitions.md#classification-scaled-governance), [Auditability](core_05o_oversight_definitions.md#auditability), [Contestability](core_05a_accountability_definitions.md#contestability), [Timely Resolution](core_05a_accountability_definitions.md#timely-resolution-constitutional), [Verified Inputs for Standing](core_05a_accountability_definitions.md#verified-inputs-for-standing), [Standing Record](core_05a_accountability_definitions.md#standing-record-chapter-six), [Trustworthiness](core_05c_continuity_definitions.md#trustworthiness), [System Boundaries](core_05c_continuity_definitions.md#system-boundaries), [System Capture](core_05c_continuity_definitions.md#system-capture), and [corpus_systems.md](corpus_systems.md) **CS-4 — System classification and handling**.
 
@@ -386,26 +392,28 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 
 *In plain terms: **system alignment certification** (non-operative shorthand: **SAC**) is the forum-supervised check that a system is actually aligned with constitutional outcomes before sentients rely on it at scale — including checks that critical Rights Floors such as food, water, and shelter are not quietly defeated by how the system is built, classified, or operated.*
 
-- **O:** The forum-supervised process — and the bounded **System Alignment Certification Record** it produces — by which a [System](core_05c_continuity_definitions.md#system-definition), within stated scope, class, time window, and review cadence, demonstrates constitutional alignment sufficient for recognition, conditional recognition, validation, revalidation, continued reliance, deployment, or material release from conditions. Canonical process, record contents, supervisory sequence, contestability chain, and standing-record bridge are stated in [Chapter Seven](core_07-07_system_alignment_certification.md#chapter-seven-system-alignment-certification); this entry is the Chapter Five meaning only. System alignment certification operates under the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) and [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims): it supplies **oversight** and **accountability** verification; preserves **participation** and **contestability** through forum-supervised review; and must remain **timely** under [Timely Resolution](core_05a_accountability_definitions.md#timely-resolution-constitutional) and **Article XXIV-C**. It supports **Flourishing** by verifying that systems materially affecting sentients preserve wellbeing, agency, and [Chapter Six](core_06-06_rights_part_a.md#chapter-six-foundational-rights) Rights Floors — including survival-essential access under **Article III-A** where deployment, operation, or continued reliance would supply, gate, or sustain food, water, shelter, operating-environment, or comparable substrate-agnostic essentials, and resource allocation under **Article IV** where operation or continued reliance materially allocates, routes, funds, or extracts from shared infrastructure or foundational dependencies. It supports **Continuity** through class-scaled revalidation, regression testing where required, misalignment reopening, and non-regressive review. A **System Alignment Certification Record** is scope-bound, time-bound, and contestable; it is not a reputation score, permanent permission slip, vendor attestation, internal sign-off, or shortcut around Rights-Floor review, [Sentience Status Adjudication](core_05p_participation_definitions.md#sentience-status-adjudication-constitutional), or [Chapter Eight](core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) standing classification.
-  - In scope: The forum-supervised process — and the bounded **System Alignment Certification Record** it produces — by which a [System](core_05c_continuity_definitions.md#system-definition), within stated scope, class, time window, and review cadence, demonstrates constitutional alignment sufficient for recognition, conditional recognition, validation, revalidation, continued reliance, deployment, or material release from conditions. Canonical process, record contents, supervisory sequence, contestability chain, and standing-record bridge are stated in [Chapter Seven](core_07-07_system_alignment_certification.md#chapter-seven-system-alignment-certification); this entry is the Chapter Five meaning only. System alignment certification operates under the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) and [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims): it supplies **oversight** and **accountability** verification; preserves **participation** and **contestability** through forum-supervised review; and must remain **timely** under [Timely Resolution](core_05a_accountability_definitions.md#timely-resolution-constitutional) and **Article XXIV-C**. It supports **Flourishing** by verifying that systems materially affecting sentients preserve wellbeing, agency, and [Chapter Six](core_06-06_rights_part_a.md#chapter-six-foundational-rights) Rights Floors — including survival-essential access under **Article III-A** where deployment, operation, or continued reliance would supply, gate, or sustain food, water, shelter, operating-environment, or comparable substrate-agnostic essentials, and resource allocation under **Article IV** where operation or continued reliance materially allocates, routes, funds, or extracts from shared infrastructure or foundational dependencies. It supports **Continuity** through class-scaled revalidation, regression testing where required, misalignment reopening, and non-regressive review. A **System Alignment Certification Record** is scope-bound, time-bound, and contestable; it is not a reputation score, permanent permission slip, vendor attestation, internal sign-off, or shortcut around Rights-Floor review, [Sentience Status Adjudication](core_05p_participation_definitions.md#sentience-status-adjudication-constitutional), or [Chapter Eight](core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) standing classification.
-  - Out of scope: formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-*Measurements:*
+- **What it is**
+  - **In scope:** The forum-supervised process — and the bounded **System Alignment Certification Record** it produces — by which a [System](core_05c_continuity_definitions.md#system-definition), within stated scope, class, time window, and review cadence, demonstrates constitutional alignment sufficient for recognition, conditional recognition, validation, revalidation, continued reliance, deployment, or material release from conditions.
+  - **In scope:** the forum-supervised certification process and the bounded record it produces. Canonical process, record contents, supervisory sequence, contestability chain, and standing-record bridge are stated in [Chapter Seven](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification); this entry is the Chapter Five meaning only. It supports **Flourishing** by verifying that systems materially affecting sentients preserve wellbeing, agency, and [Chapter Six](core_06-06_rights_part_a.md#chapter-six-foundational-rights) Rights Floors — including survival-essential access under **Article III-A** where deployment, operation, or continued reliance would supply, gate, or sustain food, water, shelter, operating-environment, or comparable substrate-agnostic essentials, and resource allocation under **Article IV** where operation or continued reliance materially allocates, routes, funds, or extracts from shared infrastructure or foundational dependencies. It supports **Continuity** through class-scaled revalidation, regression testing where required, misalignment reopening, and non-regressive review. A **System Alignment Certification Record** is scope-bound, time-bound, and contestable; it is not a reputation score, permanent permission slip, vendor attestation, internal sign-off, or shortcut around Rights-Floor review, [Sentience Status Adjudication](core_05p_participation_definitions.md#sentience-status-adjudication-constitutional), or [Chapter Eight](core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) standing classification.
+  - **Depends on:** [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims), and [Timely Resolution](core_05a_accountability_definitions.md#timely-resolution-constitutional) — constitutive operating frame; certification supplies **oversight** and **accountability** verification, preserves **participation** and **contestability** through forum-supervised review, serves **Flourishing** (primary) and **Continuity**, and must remain **timely** under Timely Resolution and **Article XXIV-C**.
+  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
+<a id="system-alignment-certification-constitutional-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** Continuity measurement family — supporting measure under the continuity measurement family.
 
-- **Primary:** Continuity measurement family — supporting measure under the continuity measurement family.
-<a id="system-alignment-certification-constitutional-e"></a>
-- **E:** Evaluate whether:
-  1. materially impactful alignment review ran through forum-supervised process under [Chapter Seven](core_07-07_system_alignment_certification.md#chapter-seven-system-alignment-certification) and applicable [Chapter Eleven](core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) routing;
-  2. the record states system identity, scope, class assignment and rationale, data-handling posture, ecological footprint evaluation where material, cross-system resource stewardship evaluation under [Chapter Seven §5A](core_07-07_system_alignment_certification.md#5a-proportionate-cross-system-support-evaluation) where the Article IV materiality trigger applies, technical and stakeholder review components, supervisory sequence, outcome, reliance limits, revalidation cadence, and contestability chain as Chapter Seven requires;
-  3. class-scaled assurance, regression testing on recertification where required, and Rights-Floor, accessibility, dependency, and ecological components were actually evaluated rather than asserted;
-  4. recognition or continued reliance does not foreclose survival-essential access, **Article IV** resource-allocation and dependency floors where materially implicated, challenge, audit, or remedy pathways protected under **Article III-A**, **Article XII-B**, **Article XVIII-B**, or applicable incorporated procedure; and
-  5. any feed into [Chapter Eight](core_08-08_standing_assessment.md#2-standing-records) standing records satisfies [Verified Inputs for Standing](core_05a_accountability_definitions.md#verified-inputs-for-standing) and does not substitute certification for standing classification or standing effects.
+    **Primary assessment:** Evaluate whether:
+    1. materially impactful alignment review ran through forum-supervised process under [Chapter Seven](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) and applicable [Chapter Eleven](core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) routing;
+    2. the record states system identity, scope, class assignment and rationale, data-handling posture, ecological footprint evaluation where material, cross-system resource stewardship evaluation under [Chapter Seven §4](core_07_a_system_alignment_certification_evaluation.md#6-proportionate-cross-system-support-evaluation) where the Article IV materiality trigger applies, technical and stakeholder review components, supervisory sequence, outcome, reliance limits, revalidation cadence, and contestability chain as Chapter Seven requires;
+    3. class-scaled assurance, regression testing on recertification where required, and Rights-Floor, accessibility, dependency, and ecological components were actually evaluated rather than asserted;
+    4. recognition or continued reliance does not foreclose survival-essential access, **Article IV** resource-allocation and dependency floors where materially implicated, challenge, audit, or remedy pathways protected under **Article III-A**, **Article XII-B**, **Article XVIII-B**, or applicable incorporated procedure; and
+    5. any feed into [Chapter Eight](core_08-08_standing_assessment.md#2-standing-records) standing records satisfies [Verified Inputs for Standing](core_05a_accountability_definitions.md#verified-inputs-for-standing) and does not substitute certification for standing classification or standing effects.
 <a id="system-alignment-certification-constitutional-c"></a>
-- **C:** Non-compliant:
-  - treating vendor attestation, internal operator review, or technical sign-off as a substitute for forum-supervised system alignment certification where Chapter Seven requires it;
-  - non-time-bound, non-contestable, or concealed certification records; certification finished while required component findings remain unresolved;
-  - class understatement, missing regression coverage on required recertification, or operation outside recognized scope treated as aligned;
-  - using certification, recognition, or conditional reliance to narrow, bypass, or defeat **Chapter Six** Rights Floors — including **Article III-A** survival essentials or **Article IV** resource-allocation and dependency floors where materially implicated — or to delay [Sentience Status Adjudication](core_05p_participation_definitions.md#sentience-status-adjudication-constitutional) where materially implicated;
-  - feeding [Chapter Eight](core_08-08_standing_assessment.md#2-standing-records) standing classification from unverified, uncontested, or dispute-phase material; or treating a certification record as a standing record, standing effect, or merged merit score.
+- **What must hold**
+  - **Primary failure:** treating vendor attestation, internal operator review, or technical sign-off as a substitute for forum-supervised system alignment certification where Chapter Seven requires it;
+  - **Secondary failure:** non-time-bound, non-contestable, or concealed certification records; certification finished while required component findings remain unresolved;
+  - **Tertiary failure:** class understatement, missing regression coverage on required recertification, or operation outside recognized scope treated as aligned;
+  - **Tertiary failure:** using certification, recognition, or conditional reliance to narrow, bypass, or defeat **Chapter Six** Rights Floors — including **Article III-A** survival essentials or **Article IV** resource-allocation and dependency floors where materially implicated — or to delay [Sentience Status Adjudication](core_05p_participation_definitions.md#sentience-status-adjudication-constitutional) where materially implicated;
+  - **Tertiary failure:** feeding [Chapter Eight](core_08-08_standing_assessment.md#2-standing-records) standing classification from unverified, uncontested, or dispute-phase material; or treating a certification record as a standing record, standing effect, or merged merit score.
 
 ---
 
@@ -416,7 +424,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) (accountability and oversight legs; tetrad capture discipline under [§7](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline); [material stake](core_00_preamble.md#material-stake) scaling); [§10 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline).
+- Downstream: Principles: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) (accountability and oversight legs; tetrad capture discipline under [§12](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline); [material stake](core_00_preamble.md#material-stake) scaling); [§10 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline).
 - Read with: the [Capture, Resolution Integrity, and Anti-Capture cluster](core_05a_accountability_definitions.md#capture-of-resolution-pathways), [Incentive Alignment](core_05i_integrative_definitions.md#incentive-alignment), [Oversight](core_05o_oversight_definitions.md#oversight-constitutional), [Accountability](core_05a_accountability_definitions.md#accountability), [Contestability](core_05a_accountability_definitions.md#contestability), and [Trust Degradation and Misleading Reliance](core_05c_continuity_definitions.md#trust-degradation-and-misleading-reliance).
 
 </details>
@@ -426,7 +434,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 - **What it is**
   - **In scope:** Control or bias from concentrated incentives or power that distorts [Governance](core_05a_accountability_definitions.md#governance), [Oversight](core_05o_oversight_definitions.md#oversight-constitutional), or [Contestability](core_05a_accountability_definitions.md#contestability).
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-<a id="system-capture-e"></a>
+<a id="system-capture-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Continuity measurement family — supporting measure under the continuity measurement family.
 
@@ -442,7 +450,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 - **What it is**
   - **In scope:** Effects arising from system interactions and [Dependency](core_05c_continuity_definitions.md#dependency) relationships.
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-<a id="systemic-e"></a>
+<a id="systemic-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Continuity measurement family — supporting measure under the continuity measurement family.
 
@@ -458,7 +466,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [material stake](core_00_preamble.md#material-stake) scaling; [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — **Continuity** aim ([Chapter Seven §1A](core_07-07_system_alignment_certification.md#1a-whole-system-certification-evaluation)).
+- Downstream: Principles: [material stake](core_00_preamble.md#material-stake) scaling; [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — **Continuity** aim ([Chapter Seven §11](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)).
 - Read with: [Material Impact](core_05o_oversight_definitions.md#material-impact), [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination), and [Classification-Scaled Governance](core_05o_oversight_definitions.md#classification-scaled-governance).
 
 </details>
@@ -468,7 +476,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 - **What it is**
   - **In scope:** [Material Impact](core_05o_oversight_definitions.md#material-impact) exceeding the sum of individual effects due to interaction.
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-<a id="systemic-materiality-e"></a>
+<a id="systemic-materiality-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Continuity measurement family — supporting measure under the continuity measurement family.
 
@@ -498,7 +506,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 - **What it is**
   - **In scope:** A sentient's freely formed, substantively informed decision to discontinue their own existence or comparable self-directed exit from continued participation, evaluated under [Consent](core_05p_participation_definitions.md#consent-constitutional), [Coercion and Manipulation](core_05p_participation_definitions.md#coercion-and-manipulation-constitutional), and [Procedural Fairness](core_05p_participation_definitions.md#procedural-fairness-constitutional), and distinct from [Irreversible Deprivation Measure](core_05a_accountability_definitions.md#irreversible-deprivation-measure-constitutional) or involuntary deprivation of life.
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-<a id="voluntary-discontinuation-constitutional-e"></a>
+<a id="voluntary-discontinuation-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Continuity measurement family — supporting measure under the continuity measurement family.
 
@@ -538,7 +546,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     Includes direct and indirect conditions that materially affect these states, including those arising from system interactions, dependencies, and environments.
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 <a id="wellbeing-measurements"></a>
-<a id="wellbeing-e"></a>
+<a id="wellbeing-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Flourishing measurement family — core **Flourishing** outcome measure for this term.
 
@@ -562,12 +570,12 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 ### Continuity: Semi-independent terms
 
 <a id="continuity-aim-constitutional"></a>
-<a id="continuity-aim-constitutional-e"></a>
+<a id="continuity-aim-constitutional-a"></a>
 <a id="continuity-aim-constitutional-c"></a>
 
 ---
 
-**Continuity (Constitutional Aim).** Canonical home relocated. Binding O/E/C and [aim decomposition](core_05g_continuity_aim.md#continuity-aim-decomposition) live in [core_05g_continuity_aim.md](core_05g_continuity_aim.md#continuity-aim-constitutional). This band file owns leaf definitions under the Continuity aim — do not duplicate aim-head O/E/C here.
+**Continuity (Constitutional Aim).** Canonical home relocated. Binding O/M/A/C and [aim decomposition](core_05g_continuity_aim.md#continuity-aim-decomposition) live in [core_05g_continuity_aim.md](core_05g_continuity_aim.md#continuity-aim-constitutional). This band file owns leaf definitions under the Continuity aim — do not duplicate aim-head O/M/A/C here.
 
 ---
 
@@ -605,7 +613,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 - **What it is**
   - **In scope:** The durable, contestable ability of sentients and shared systems to achieve constitutionally aligned outcomes over time — including [Productive Capacity](core_05c_continuity_definitions.md#productive-capacity-constitutional), [Constitutional Efficiency](core_05c_continuity_definitions.md#constitutional-efficiency), anti-concentration discipline, and the participation, exit, contestability, and ecological preconditions that keep capacity real rather than hollow. An **instrumental outcome** produced and preserved through [Stewardship](core_05c_continuity_definitions.md#stewardship-constitutional) and [Governance](core_05a_accountability_definitions.md#governance) operating under Values Principles (Chapter One, Part A); not a freestanding trump value.
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-<a id="shared-system-capacity-constitutional-e"></a>
+<a id="shared-system-capacity-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Continuity measurement family — supporting measure under the continuity measurement family.
 
@@ -634,14 +642,14 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 - **What it is**
   - **In scope:** The ratio of constitutionally aligned outcomes achieved to the sentient time, attention, effort, coordination, and shared resources consumed to achieve them, evaluated under full functional scope. Read [Chapter One §11.1.5](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline) for instrumental-claims discipline.
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-<a id="constitutional-efficiency-e"></a>
+<a id="constitutional-efficiency-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Constitutional Performance measurement family — primary owner for outcome-per-resource measurement in this family.
 
     **Primary assessment:** Trace claimed efficiency to underlying constitutional outcomes under Chapter Four. Distinguish constitutional efficiency from reductions in [Avoidable Burden](core_05c_continuity_definitions.md#avoidable-burden). Constitutional efficiency is outcome-per-resource. Reductions in [Avoidable Burden](core_05c_continuity_definitions.md#avoidable-burden) are cost untraced to any constitutional outcome.
   - **Secondary measure:** [Productive Capacity](core_05c_continuity_definitions.md#productive-capacity-constitutional), [Avoidable Burden](core_05c_continuity_definitions.md#avoidable-burden), [Burden-Reduction Duty](core_05c_continuity_definitions.md#burden-reduction-duty-constitutional), [Harm Minimization (Tradeoff Selection)](core_05a_accountability_definitions.md#harm-minimization-tradeoff-selection), and [Proxy Metric Gaming and Indicator-Reality Gaps](core_05o_oversight_definitions.md#proxy-metric-gaming-and-indicator-reality-gaps) — co-measures that can defeat efficiency even when throughput or utilization metrics improve.
 
-    **Secondary assessment:** When evaluating the primary trace, read with [Productive Capacity](core_05c_continuity_definitions.md#productive-capacity-constitutional), [Proportionality](core_05a_accountability_definitions.md#proportionality), [Necessity](core_05a_accountability_definitions.md#necessity), and [Harm Minimization (Tradeoff Selection)](core_05a_accountability_definitions.md#harm-minimization-tradeoff-selection). Short-horizon gains do not satisfy compliance when they foreseeably produce medium- or long-horizon violations under [Chapter Seven §1A.6](core_07-07_system_alignment_certification.md#1a6-time-consistency-constraint).
+    **Secondary assessment:** When evaluating the primary trace, read with [Productive Capacity](core_05c_continuity_definitions.md#productive-capacity-constitutional), [Proportionality](core_05a_accountability_definitions.md#proportionality), [Necessity](core_05a_accountability_definitions.md#necessity), and [Harm Minimization (Tradeoff Selection)](core_05a_accountability_definitions.md#harm-minimization-tradeoff-selection). Short-horizon gains do not satisfy compliance when they foreseeably produce medium- or long-horizon violations under [Chapter Seven §16.6](core_07_a_system_alignment_certification_evaluation.md#36-time-consistency-constraint).
   - **Tertiary measure:** [Proxy Divergence](core_05o_oversight_definitions.md#proxy-divergence) — where raw throughput, utilization, headcount, revenue, latency, or comparable proxies substitute for constitutional outcomes.
 
     **Tertiary assessment:** Apply [Proxy Divergence](core_05o_oversight_definitions.md#proxy-divergence) and [Proxy Metric Gaming and Indicator-Reality Gaps](core_05o_oversight_definitions.md#proxy-metric-gaming-and-indicator-reality-gaps) when raw throughput, utilization, headcount, revenue, latency, or comparable proxies substitute for outcomes.
@@ -669,7 +677,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 - **What it is**
   - **In scope:** The system-level ability of sentients and institutions to support meaningful productive participation, contribution, and capability development under conditions that preserve [Wellbeing](core_05c_continuity_definitions.md#wellbeing), [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency), and non-coercive choice. Productive Capacity covers access to essential resources, safe environments, training, interoperability, and fiscal or social supports needed for participation in socially valuable activity without turning contribution into exploitation, dependency, or abuse.
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-<a id="productive-capacity-constitutional-e"></a>
+<a id="productive-capacity-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Constitutional Performance measurement family — primary owner for durable participation and contribution capability in this family.
 
@@ -706,7 +714,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 - **What it is**
   - **In scope:** Process, compliance, coordination, or implementation cost imposed on sentients, stewards, operators, or shared systems that is not traceable to a constitutional outcome under [Proportionality](core_05a_accountability_definitions.md#proportionality) and [Necessity](core_05a_accountability_definitions.md#necessity), and not required by the Chapter Six Rights Floor, [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint), or [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint). Ordinary transaction costs, costs required by proportionate audit or contestability, and costs required by rights-protective process are not avoidable burden.
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-<a id="avoidable-burden-e"></a>
+<a id="avoidable-burden-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Constitutional Performance measurement family — primary owner for untraced process and coordination cost in this family.
 
@@ -743,7 +751,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 - **What it is**
   - **In scope:** The stewardship duty — **co-equal with harm prevention** — to actively find and reduce [Avoidable Burden](core_05c_continuity_definitions.md#avoidable-burden) and unproductive friction in governed systems, including by simplifying, consolidating, automating, clarifying, or removing unnecessary steps, consistent with Chapter One §6.3 and with [Avoidable Burden](core_05c_continuity_definitions.md#avoidable-burden), [Productive Capacity](core_05c_continuity_definitions.md#productive-capacity-constitutional), and [Constitutional Efficiency](core_05c_continuity_definitions.md#constitutional-efficiency). The duty applies **only** among options that already satisfy [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint), [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint), the Chapter Six Rights Floor, and the other tradeoff principles in Chapter One §6.1. It does **not** authorize lowering burden by weakening those protections. It does **not** authorize weakening audit, [Contestability](core_05a_accountability_definitions.md#contestability), or retrospective-review obligations to lower burden.
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-<a id="burden-reduction-duty-constitutional-e"></a>
+<a id="burden-reduction-duty-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Constitutional Performance measurement family — primary owner for affirmative burden-minimization obligation in this family.
 
@@ -781,7 +789,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [§12.1 Productive Capacity (Instrumental Good)](core_01_c_stewardship_capacity_principles.md#121-productive-capacity-instrumental-good) and [Chapter Seven §1A Whole-System Certification Evaluation](core_07-07_system_alignment_certification.md#1a-whole-system-certification-evaluation), where ecological bounds, cumulative effects, and long-horizon materiality shape evaluation.
+- Downstream: Principles: [§12.1 Productive Capacity (Instrumental Good)](core_01_c_stewardship_capacity_principles.md#121-productive-capacity-instrumental-good) and [Chapter Seven §3 Whole-System Certification Evaluation](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), where ecological bounds, cumulative effects, and long-horizon materiality shape evaluation.
 - Owner floor: [Article I-A](core_06-06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity).
 - Cluster component: [the dependent cluster *Ecological Integrity, Footprint, and Sustainability*](core_05p_participation_definitions.md#ecological-footprint-semi-independent).
 - Read with: [Environmental Preconditions](core_05c_continuity_definitions.md#environmental-preconditions-constitutional), [Ecological Recovery Capacity](core_05c_continuity_definitions.md#ecological-recovery-capacity-constitutional), [Ecological Footprint](core_05c_continuity_definitions.md#ecological-footprint), [Sustainability](core_05c_continuity_definitions.md#sustainability), [Intergenerational Responsibility](core_05c_continuity_definitions.md#intergenerational-responsibility-constitutional), [Natural Systems Standing](core_05p_participation_definitions.md#natural-systems-standing), [Harm](core_05a_accountability_definitions.md#harm), [Risk](core_05c_continuity_definitions.md#risk), and [Reversibility](core_05c_continuity_definitions.md#reversibility-constitutional).
@@ -793,7 +801,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 - **What it is**
   - **In scope:** The condition, resilience, functional continuity, diversity, regeneration capacity, and interdependence of natural and living systems sufficient to sustain sentient survival, wellbeing, ecological relationships, and the environmental preconditions protected by Article I-A.
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-<a id="ecological-integrity-constitutional-e"></a>
+<a id="ecological-integrity-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Continuity measurement family — supporting measure under the continuity measurement family.
 
@@ -811,7 +819,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [4.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [8.1.1 Proportionality](core_01_b_interaction_interpretation.md#611-proportionality), and [Chapter Seven §1A Whole-System Certification Evaluation](core_07-07_system_alignment_certification.md#1a-whole-system-certification-evaluation).
+- Downstream: Principles: [4.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [8.1.1 Proportionality](core_01_b_interaction_interpretation.md#611-proportionality), and [Chapter Seven §3 Whole-System Certification Evaluation](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 - Owner floor: [Article I-D](core_06-06_rights_part_a.md#article-i-d-existential-risk-and-recovery-capacity).
 - Cluster component: [the dependent cluster *Ecological Integrity, Footprint, and Sustainability*](core_05p_participation_definitions.md#ecological-footprint-semi-independent).
 - Read with: [Existential Risk](core_05c_continuity_definitions.md#existential-risk), [Environmental Preconditions](core_05c_continuity_definitions.md#environmental-preconditions-constitutional), [Ecological Integrity](core_05c_continuity_definitions.md#ecological-integrity-constitutional), [Sustainability](core_05c_continuity_definitions.md#sustainability), [Intergenerational Responsibility](core_05c_continuity_definitions.md#intergenerational-responsibility-constitutional), [Dependency](core_05c_continuity_definitions.md#dependency), [Reversibility](core_05c_continuity_definitions.md#reversibility-constitutional), and [Self-Healing](core_05c_continuity_definitions.md#self-healing-constitutional).
@@ -823,7 +831,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 - **What it is**
   - **In scope:** The capacity of ecosystems, living systems, and the [Environmental Preconditions](core_05c_continuity_definitions.md#environmental-preconditions-constitutional) they support to regenerate, restore functional continuity, and sustain sentient survival after severe harm, depletion, or disruption — including biodiversity, soil, water, climate stability, habitat connectivity, and other regeneration processes on which [Ecological Integrity](core_05c_continuity_definitions.md#ecological-integrity-constitutional) depends. **Ecological recovery capacity disambiguation:** this entry names ecological and life-supporting recovery only; it does not govern operational system restore after fault ([Self-Healing](core_05c_continuity_definitions.md#self-healing-constitutional)), rollback of specific decisions or commitments ([Reversibility](core_05c_continuity_definitions.md#reversibility-constitutional)), or commercial cost recovery.
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-<a id="ecological-recovery-capacity-constitutional-e"></a>
+<a id="ecological-recovery-capacity-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Continuity measurement family — supporting measure under the continuity measurement family.
 
@@ -841,7 +849,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Continuity measurement family (*Ecological Footprint as constitutional measurement*); Principles: [§12.1 Productive Capacity (Instrumental Good)](core_01_c_stewardship_capacity_principles.md#121-productive-capacity-instrumental-good) (ecological bounds); [Chapter Seven §1A Whole-System Certification Evaluation](core_07-07_system_alignment_certification.md#1a-whole-system-certification-evaluation) (materiality / dependency / cumulative effects); [Chapter Seven §5](core_07-07_system_alignment_certification.md#5-ecological-footprint-evaluation) (*system alignment certification footprint evaluation*).
+- Downstream: Continuity measurement family (*Ecological Footprint as constitutional measurement*); Principles: [§12.1 Productive Capacity (Instrumental Good)](core_01_c_stewardship_capacity_principles.md#121-productive-capacity-instrumental-good) (ecological bounds); [Chapter Seven §3 Whole-System Certification Evaluation](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (materiality / dependency / cumulative effects); [Chapter Seven §4](core_07_a_system_alignment_certification_evaluation.md#5-ecological-footprint-evaluation) (*system alignment certification footprint evaluation*).
 - Owner floors: [Article I-B](core_06-06_rights_part_a.md#article-i-b-ecological-footprint-and-transparency) and [Article XV-C](core_06-06_rights_part_c.md#article-xv-c-verification-accessibility).
 - Read with: the [Ecological Integrity, Footprint, and Sustainability cluster](core_05p_participation_definitions.md#ecological-footprint-semi-independent), [Ecological Integrity](core_05c_continuity_definitions.md#ecological-integrity-constitutional), [Sustainability](core_05c_continuity_definitions.md#sustainability), [Environmental Preconditions](core_05c_continuity_definitions.md#environmental-preconditions-constitutional), [Intergenerational Responsibility](core_05c_continuity_definitions.md#intergenerational-responsibility-constitutional), [Material Impact](core_05o_oversight_definitions.md#material-impact), [Transparency](core_05o_oversight_definitions.md#transparency), and [Epistemic Integrity](core_05o_oversight_definitions.md#epistemic-integrity).
 
@@ -852,7 +860,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 - **What it is**
   - **In scope:** Attributable flows of energy, materials, emissions, land use, and related environmental burdens arising from a sentient, [System](#system), product, or service across its lifecycle and [Dependency](core_05c_continuity_definitions.md#dependency) relationships. Supports disclosure, comparison, and reduction under Article I-B, Article XV-C verification-accessibility provisions, and related implementation file rules, read with [Ecological Integrity](core_05c_continuity_definitions.md#ecological-integrity-constitutional) and [Environmental Preconditions](core_05c_continuity_definitions.md#environmental-preconditions-constitutional).
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-<a id="ecological-footprint-e"></a>
+<a id="ecological-footprint-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Continuity measurement family — primary owner for footprint measurement in this subfamily.
 
@@ -874,7 +882,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [§12.1 Productive Capacity (Instrumental Good)](core_01_c_stewardship_capacity_principles.md#121-productive-capacity-instrumental-good), [Chapter Seven §1A Whole-System Certification Evaluation](core_07-07_system_alignment_certification.md#1a-whole-system-certification-evaluation), and Article I-A / I-B ecological disciplines.
+- Downstream: Principles: [§12.1 Productive Capacity (Instrumental Good)](core_01_c_stewardship_capacity_principles.md#121-productive-capacity-instrumental-good), [Chapter Seven §3 Whole-System Certification Evaluation](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), and Article I-A / I-B ecological disciplines.
 - Cluster component: [the dependent cluster *Ecological Integrity, Footprint, and Sustainability*](core_05p_participation_definitions.md#ecological-footprint-semi-independent).
 - Read with: [Ecological Integrity](core_05c_continuity_definitions.md#ecological-integrity-constitutional), [Ecological Footprint](core_05c_continuity_definitions.md#ecological-footprint), [Environmental Preconditions](core_05c_continuity_definitions.md#environmental-preconditions-constitutional), [Intergenerational Responsibility](core_05c_continuity_definitions.md#intergenerational-responsibility-constitutional), [Productive Capacity](core_05c_continuity_definitions.md#productive-capacity-constitutional), [Constitutional Efficiency](core_05c_continuity_definitions.md#constitutional-efficiency), and [Strategic Stewardship Obligation](core_05c_continuity_definitions.md#strategic-stewardship-obligation-constitutional).
 
@@ -885,7 +893,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 - **What it is**
   - **In scope:** The capacity of a system, activity, institution, or governance pathway to maintain environmental preconditions, ecological integrity, resource continuity, and sentient wellbeing over time without shifting material harm, depletion, or recovery burdens to other communities, systems, species, or future sentients.
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-<a id="sustainability-e"></a>
+<a id="sustainability-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Continuity measurement family — primary owner for sustainability measurement within the continuity family.
 
@@ -907,7 +915,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [3. Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [Chapter Seven §1A Whole-System Certification Evaluation](core_07-07_system_alignment_certification.md#1a-whole-system-certification-evaluation), and Article I-A ecological-preconditions discipline where decisions allocate foreseeable burdens across time.
+- Downstream: Principles: [3. Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [Chapter Seven §3 Whole-System Certification Evaluation](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), and Article I-A ecological-preconditions discipline where decisions allocate foreseeable burdens across time.
 - Cluster component: [the dependent cluster *Ecological Integrity, Footprint, and Sustainability*](core_05p_participation_definitions.md#ecological-footprint-semi-independent).
 - Read with: [Ecological Integrity](core_05c_continuity_definitions.md#ecological-integrity-constitutional), [Ecological Recovery Capacity](core_05c_continuity_definitions.md#ecological-recovery-capacity-constitutional), [Ecological Footprint](core_05c_continuity_definitions.md#ecological-footprint), [Sustainability](core_05c_continuity_definitions.md#sustainability), [Environmental Preconditions](core_05c_continuity_definitions.md#environmental-preconditions-constitutional), [Indigenous Continuity](core_05c_continuity_definitions.md#indigenous-continuity-constitutional), [Language, Culture, and Heritage](core_05c_continuity_definitions.md#language-culture-and-heritage-constitutional), [Natural Systems Standing](core_05p_participation_definitions.md#natural-systems-standing), [Reversibility](core_05c_continuity_definitions.md#reversibility-constitutional), and [Materiality Under Uncertainty](core_05o_oversight_definitions.md#materiality-under-uncertainty).
 
@@ -918,7 +926,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 - **What it is**
   - **In scope:** The duty to account for reasonably foreseeable material effects of present decisions on future sentients, future communities, ecological systems, cultural and heritage continuity, [Ecological Recovery Capacity](core_05c_continuity_definitions.md#ecological-recovery-capacity-constitutional), and the durability of Rights-Floor conditions.
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-<a id="intergenerational-responsibility-constitutional-e"></a>
+<a id="intergenerational-responsibility-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Continuity measurement family — supporting measure under the continuity measurement family.
 
@@ -959,20 +967,21 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 
 <br>
 
-- O: Cluster head for temporary deviation from ordinary operating or governance rules in response to grave exigent conditions — imminent or manifest grave harm, systemic failure, comparable exigent conditions, or external events qualifying under [Force Majeure](core_05a_accountability_definitions.md#force-majeure-constitutional). Permitted only where necessary under [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint) and [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint), and must be: Emergency and contingency authority is layer-sensitive: use [Constitutional Emergency and Contingency](core_05c_continuity_definitions.md#constitutional-emergency-and-contingency) where the emergency affects authorization of governing authority itself, and [Stakeholder Emergency and Contingency](core_05c_continuity_definitions.md#stakeholder-emergency-and-contingency) where the emergency affects materially rights-affecting procedure within an already-authorized system, institution, or bounded decision domain. <a id="emergency-and-contingency-measurements"></a>
-  - In scope: Cluster head for temporary deviation from ordinary operating or governance rules in response to grave exigent conditions — imminent or manifest grave harm, systemic failure, comparable exigent conditions, or external events qualifying under [Force Majeure](core_05a_accountability_definitions.md#force-majeure-constitutional). Permitted only where necessary under [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint) and [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint), and must be: Emergency and contingency authority is layer-sensitive: use [Constitutional Emergency and Contingency](core_05c_continuity_definitions.md#constitutional-emergency-and-contingency) where the emergency affects authorization of governing authority itself, and [Stakeholder Emergency and Contingency](core_05c_continuity_definitions.md#stakeholder-emergency-and-contingency) where the emergency affects materially rights-affecting procedure within an already-authorized system, institution, or bounded decision domain. <a id="emergency-and-contingency-measurements"></a>.
-  - time-limited;
-  - documented;
-  - subject to [Oversight](core_05o_oversight_definitions.md#oversight-constitutional);
-  - reversible where feasible under [Reversibility](core_05c_continuity_definitions.md#reversibility-constitutional).
-  - Out of scope: formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-*Measurements:*
+- **What it is**
+  - **In scope:** Cluster head for temporary deviation from ordinary operating or governance rules in response to grave exigent conditions.
+  - **In scope — triggers:** imminent or manifest grave harm, systemic failure, comparable exigent conditions, or external events qualifying under [Force Majeure](core_05a_accountability_definitions.md#force-majeure-constitutional).
+  - **In scope — layers:** use [Constitutional Emergency and Contingency](core_05c_continuity_definitions.md#constitutional-emergency-and-contingency) where the emergency affects authorization of governing authority itself, and [Stakeholder Emergency and Contingency](core_05c_continuity_definitions.md#stakeholder-emergency-and-contingency) where the emergency affects materially rights-affecting procedure within an already-authorized system, institution, or bounded decision domain.
+  - **In scope — discipline:** time-limited; documented; subject to [Oversight](core_05o_oversight_definitions.md#oversight-constitutional); reversible where feasible under [Reversibility](core_05c_continuity_definitions.md#reversibility-constitutional).
+  - **Depends on:** [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint), [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint), [Necessity](core_05a_accountability_definitions.md#necessity), and [Proportionality](core_05a_accountability_definitions.md#proportionality) — constitutive bounds under **Article XXIII-D**; emergency deviation is permitted only where necessary under Safety and Truth and must satisfy ongoing necessity and proportionality discipline.
+  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter; pretextual or indefinite invocation to bypass Safety, Truth, [Contestability](core_05a_accountability_definitions.md#contestability), [Foundational Constitutional Choice](core_05i_integrative_definitions.md#foundational-constitutional-choice), or the [Constitutional Contract Layer](core_05i_integrative_definitions.md#constitutional-contract-layer).
+<a id="emergency-and-contingency-constitutional-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** Continuity measurement family — supporting measure under the continuity measurement family.
 
-- **Primary:** Continuity measurement family — supporting measure under the continuity measurement family.
-  <a id="emergency-and-contingency-constitutional-e"></a>
-- E: Apply [Proportionality](core_05a_accountability_definitions.md#proportionality) and [Necessity](core_05a_accountability_definitions.md#necessity); preserve [Contestability](core_05a_accountability_definitions.md#contestability) and retrospective [Auditability](core_05o_oversight_definitions.md#auditability); treat force-majeure claims under [Force Majeure](core_05a_accountability_definitions.md#force-majeure-constitutional). Procedural cadence, continuation burdens, and restoration/rollback sequencing are owned by Chapter Six, [Article XXIII-D](core_06-06_rights_part_d.md#article-xxiii-d-emergency-measures-and-continuation-burden). Where emergency facts affect binding collective choice, apply [Stakeholder Emergency and Contingency](core_05c_continuity_definitions.md#stakeholder-emergency-and-contingency), [Emergency Pre-Deliberation Action (Binding Collective Choice)](core_05c_continuity_definitions.md#emergency-pre-deliberation-action-binding-collective-choice), and Chapter Twelve owner requirements. Owner-layer governance implementation appears in designated implementation text and must not narrow [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint) or [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint).
+    **Primary assessment:** Apply [Proportionality](core_05a_accountability_definitions.md#proportionality) and [Necessity](core_05a_accountability_definitions.md#necessity); preserve [Contestability](core_05a_accountability_definitions.md#contestability) and retrospective [Auditability](core_05o_oversight_definitions.md#auditability); treat force-majeure claims under [Force Majeure](core_05a_accountability_definitions.md#force-majeure-constitutional). Procedural cadence, continuation burdens, and restoration/rollback sequencing are owned by Chapter Six, [Article XXIII-D](core_06-06_rights_part_d.md#article-xxiii-d-emergency-measures-and-continuation-burden). Where emergency facts affect binding collective choice, apply [Stakeholder Emergency and Contingency](core_05c_continuity_definitions.md#stakeholder-emergency-and-contingency), [Emergency Pre-Deliberation Action (Binding Collective Choice)](core_05c_continuity_definitions.md#emergency-pre-deliberation-action-binding-collective-choice), and Chapter Twelve owner requirements. Owner-layer governance implementation appears in designated implementation text and must not narrow [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint) or [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint).
 <a id="emergency-and-contingency-constitutional-c"></a>
-- C: Invoking emergency or contingency to bypass [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint), [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint), required [Contestability](core_05a_accountability_definitions.md#contestability), audit, [Foundational Constitutional Choice](core_05i_integrative_definitions.md#foundational-constitutional-choice), or the [Constitutional Contract Layer](core_05i_integrative_definitions.md#constitutional-contract-layer) — pretextually or indefinitely — is non-compliant.
+- **What must hold**
+  - Invoking emergency or contingency to bypass [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint), [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint), required [Contestability](core_05a_accountability_definitions.md#contestability), audit, [Foundational Constitutional Choice](core_05i_integrative_definitions.md#foundational-constitutional-choice), or the [Constitutional Contract Layer](core_05i_integrative_definitions.md#constitutional-contract-layer) — pretextually or indefinitely — is non-compliant.
 
 
 <a id="constitutional-emergency-and-contingency"></a>
@@ -994,7 +1003,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 - **What it is**
   - **In scope:** Emergency or contingency affecting the [Constitutional Contract Layer](core_05i_integrative_definitions.md#constitutional-contract-layer): continuity, preservation, restoration, or temporary protection of the lawful conditions under which governing authority is authorized, reauthorized, challenged, or kept from capture. It may preserve the possibility of lawful [Foundational Constitutional Choice](core_05i_integrative_definitions.md#foundational-constitutional-choice), but it must not itself create, substitute for, amend, or durably restructure constitutional authority.
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-<a id="constitutional-emergency-and-contingency-e"></a>
+<a id="constitutional-emergency-and-contingency-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Continuity measurement family — supporting measure under the continuity measurement family.
 
@@ -1023,7 +1032,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 - **What it is**
   - **In scope:** Emergency or contingency within the **Stakeholder System Participation** layer: temporary deviation from ordinary participation, representation, deliberation, notice, access, review, service-continuity, or decision-resolution procedure inside an already-authorized system, institution, or bounded decision domain. It may expedite or temporarily modify stakeholder-system procedure to prevent imminent material harm, but it must preserve affected-party notice, challenge, restoration, and proportionate participation as soon as feasible.
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-<a id="stakeholder-emergency-and-contingency-e"></a>
+<a id="stakeholder-emergency-and-contingency-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Continuity measurement family — supporting measure under the continuity measurement family.
 
@@ -1054,7 +1063,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 - **What it is**
   - **In scope:** Specialized [Stakeholder Emergency and Contingency](core_05c_continuity_definitions.md#stakeholder-emergency-and-contingency) pathway for **temporary** action that may precede full deliberation in a binding stakeholder-choice pathway only where delay would cause **imminent material harm**. It is a narrow timing exception within an already-authorized system, institution, or bounded decision domain; it is not a general governance bypass.
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-<a id="emergency-pre-deliberation-action-binding-collective-choice-e"></a>
+<a id="emergency-pre-deliberation-action-binding-collective-choice-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Continuity measurement family — supporting measure under the continuity measurement family.
 
@@ -1087,7 +1096,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 - **What it is**
   - **In scope:** A structured set of components — technical, organizational, and [Governance](core_05a_accountability_definitions.md#governance) elements — producing effects on sentients, environment(s), or other systems.
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-<a id="system-definition-e"></a>
+<a id="system-definition-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Continuity measurement family — supporting measure under the continuity measurement family.
 
@@ -1108,7 +1117,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 - **What it is**
   - **In scope:** Functional scope defined by [Material Impact](core_05o_oversight_definitions.md#material-impact) and [Dependency](core_05c_continuity_definitions.md#dependency).
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-<a id="system-boundaries-e"></a>
+<a id="system-boundaries-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Continuity measurement family — supporting measure under the continuity measurement family.
 
@@ -1125,7 +1134,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 - **What it is**
   - **In scope:** Accuracy and stability of [System Boundaries](core_05c_continuity_definitions.md#system-boundaries) definition.
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-<a id="system-boundary-integrity-e"></a>
+<a id="system-boundary-integrity-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Continuity measurement family — supporting measure under the continuity measurement family.
 
@@ -1154,7 +1163,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 - **What it is**
   - **In scope:** A condition in which exit, switching, or corrective action is practically foreclosed or disproportionately costly relative to [Dependency](core_05c_continuity_definitions.md#dependency) and [Material Impact](core_05o_oversight_definitions.md#material-impact), such that [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency), informed [Consent](core_05p_participation_definitions.md#consent-constitutional), or [Contestability](core_05a_accountability_definitions.md#contestability) is materially negated.
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-<a id="systemic-lock-in-e"></a>
+<a id="systemic-lock-in-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Continuity measurement family — supporting measure under the continuity measurement family.
 
@@ -1199,7 +1208,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 - **What it is**
   - **In scope:** The affirmative access floor for bodily-maintenance and healthcare services necessary to preserve life, function, and dignity, applied under [Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion) across materially relevant bodies and substrates. The floor covers preventive, acute, chronic, and maintenance care, including mental-health care and processing / substrate maintenance for synthetic sentients, and is structurally parallel to the food, water, and shelter access floors of Article III-A.
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-<a id="bodily-maintenance-access-constitutional-e"></a>
+<a id="bodily-maintenance-access-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Flourishing measurement family — primary owner for bodily-maintenance access within the survival-floor stack.
 
@@ -1221,7 +1230,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [3. Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing) (survival / shelter continuity); [§6.3.1 Rights-Collision Decision Test](#631-rights-collision-decision-test) (Article XIX read-together noted in **O** line); [Chapter Seven §1A Whole-System Certification Evaluation](core_07-07_system_alignment_certification.md#1a-whole-system-certification-evaluation) (**Dependency** scaling).
+- Downstream: Principles: [3. Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing) (survival / shelter continuity); [§6.3.1 Rights-Collision Decision Test](#631-rights-collision-decision-test) (Article XIX read-together noted in **O** line); [Chapter Seven §3 Whole-System Certification Evaluation](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (**Dependency** scaling).
 - Owner floor: [Article III-A](core_06-06_rights_part_a.md#article-iii-a-survival) *Protection against arbitrary eviction and essential-environment non-commodification* sub-bullet. Cross-references: [Article XIX](core_06-06_rights_part_c.md#article-xix-interoperability-portability-and-exit-integrity) interoperability / portability / exit-integrity (distinct but read-together), [Article XXVI-D](core_06-06_rights_part_d.md#article-xxvi-d-non-compliant-property-and-systems-voluntary-turnover-incentives) transitional-stewardship.
 - Cluster component: [Bodily-Maintenance Access, Tenure Security, Environmental Preconditions, Cultural Continuity, and Anti-Displacement Floor](core_05p_participation_definitions.md#safe-conditions-tenure-security-and-environmental-preconditions-cluster) (now consolidated with Safe Conditions and Rest/Leisure and Rest in the Section 3.5 Labor and Economic Floor cluster).
 - Read with: [Essential-Environment Non-Commodification](core_05c_continuity_definitions.md#essential-environment-non-commodification-constitutional), [Procedural Fairness](core_05p_participation_definitions.md#procedural-fairness-constitutional), [Necessity](core_05a_accountability_definitions.md#necessity), [Proportionality](core_05a_accountability_definitions.md#proportionality), [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency), [Dependency](core_05c_continuity_definitions.md#dependency), and [Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion).
@@ -1233,7 +1242,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 - **What it is**
   - **In scope:** The Rights-Floor concept covering procedural and substantive stability of essential shelter and operating-environment relationships — including physical dwelling, substrate hosting, compute tenancy, and comparable substrate-agnostic arrangements for synthetic and hybrid sentients — such that eviction, displacement, or termination of the relationship must satisfy individualized predicate under [Procedural Fairness](core_05p_participation_definitions.md#procedural-fairness-constitutional), reach the sentient with meaningful notice and contest opportunity, and apply [Necessity](core_05a_accountability_definitions.md#necessity) and [Proportionality](core_05a_accountability_definitions.md#proportionality). Tenure Security encompasses environments that are safe, clean, and pleasant to the senses — free from hazards, contamination, and conditions that materially degrade sensory experience or bodily integrity. Ordinary voluntary relocation initiated by the sentient, and ordinary modifications within continuing essential-environment relationships, are outside this entry.
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-<a id="tenure-security-constitutional-e"></a>
+<a id="tenure-security-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Flourishing measurement family — primary owner for tenure security within the survival-floor stack.
 
@@ -1255,7 +1264,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [§12.1 Productive Capacity (Instrumental Good)](core_01_c_stewardship_capacity_principles.md#121-productive-capacity-instrumental-good) (ecological bounds and **Environmental Preconditions** / **Ecological Integrity** in the productive-capacity discipline); [Chapter Seven §1A Whole-System Certification Evaluation](core_07-07_system_alignment_certification.md#1a-whole-system-certification-evaluation) (cumulative / long-horizon ecological effects).
+- Downstream: Principles: [§12.1 Productive Capacity (Instrumental Good)](core_01_c_stewardship_capacity_principles.md#121-productive-capacity-instrumental-good) (ecological bounds and **Environmental Preconditions** / **Ecological Integrity** in the productive-capacity discipline); [Chapter Seven §3 Whole-System Certification Evaluation](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (cumulative / long-horizon ecological effects).
 - Owner floor: [Article I-A](core_06-06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) for environmental preconditions and ecological integrity.
 - Cluster component: [Ecological Integrity, Footprint, and Sustainability](core_05p_participation_definitions.md#ecological-footprint-semi-independent).
 - Read with: [Bodily-Maintenance Access, Tenure Security, Environmental Preconditions, Cultural Continuity, and Anti-Displacement Floor](core_05p_participation_definitions.md#safe-conditions-tenure-security-and-environmental-preconditions-cluster) (Safe Conditions and Rest now in Section 3.5 Labor and Economic Floor cluster) and [the dependent cluster *Resilience, Safety, Reversibility, Self-Healing, Cascading Failure, Existential Risk, Environmental Preconditions, and Wellbeing*](core_05c_continuity_definitions.md#resilience-safety-reversibility-self-healing-and-systemic-harm-cluster), where survival-floor, continuity, or systemic-harm routing materially applies.
@@ -1267,7 +1276,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 - **What it is**
   - **In scope:** The biophysical and living-system conditions on which sentient survival and [Wellbeing](core_05c_continuity_definitions.md#wellbeing) depend — stable climate, functioning ecosystems, clean air and water, healthy soil, biodiversity-supporting habitats, and the Earth's regenerative capacity. Protected under Article I-A and evaluated systemically with [Harm](core_05a_accountability_definitions.md#harm), [Risk](core_05c_continuity_definitions.md#risk), [Existential Risk](core_05c_continuity_definitions.md#existential-risk), and [Dependency](core_05c_continuity_definitions.md#dependency).
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-<a id="environmental-preconditions-constitutional-e"></a>
+<a id="environmental-preconditions-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Flourishing measurement family and Continuity measurement family — split-placement primary owner for environmental preconditions.
 
@@ -1303,7 +1312,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [3. Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing); [Chapter Seven §1A Whole-System Certification Evaluation](core_07-07_system_alignment_certification.md#1a-whole-system-certification-evaluation) (community continuity / cumulative effects).
+- Downstream: Principles: [3. Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing); [Chapter Seven §3 Whole-System Certification Evaluation](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (community continuity / cumulative effects).
 - Owner floors: [Article V-B](core_06-06_rights_part_b.md#article-v-b-nondiscrimination) (*nondiscrimination and language / culture / heritage protection*) and [Article I-A](core_06-06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*territorial / ecosystem-integrity precondition*). Interaction pointers: [Article XIX-D](core_06-06_rights_part_c.md#article-xix-d-movement-migration-refuge-and-non-statelessness) (*refuge / non-statelessness*); [Chapter Sixteen](core_16-16_incorporation.md) (*adopter-jurisdiction discipline and Chapter Thirteen non-regression*).
 - Cluster component: [Bodily-Maintenance Access, Tenure Security, Environmental Preconditions, Cultural Continuity, and Anti-Displacement Floor](core_05p_participation_definitions.md#safe-conditions-tenure-security-and-environmental-preconditions-cluster) where community continuity is materially tied to place, ecosystem, tenure, bodily-maintenance access, or participation capacity. (Safe Conditions and Rest now in Section 3.5 Labor and Economic Floor cluster.)
 - Cluster component: [the dependent cluster *Indigenous Continuity, Language Culture and Heritage, Natural Systems Standing, and Intergenerational Responsibility*](core_05c_continuity_definitions.md#indigenous-continuity-language-culture-heritage-semi-independent) (*joint invocation across indigenous continuity, language / culture / heritage, natural-systems standing, and intergenerational responsibility*).
@@ -1313,24 +1322,24 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 
 <br>
 
-- O: The Rights-Floor concept covering continuity of language, cultural practice, governance practice, and knowledge-transmission — including community-custodial traditional, ecological, and technical knowledge — for communities with durable historical connection to particular territory, ecosystem, or comparable substrate-context, where that connection is materially implicated in community continuity. The floor is community-anchored. It is distinct from but complementary to the individual-level protections of [Article V-B](core_06-06_rights_part_b.md#article-v-b-nondiscrimination) and [Language, Culture, and Heritage](core_05c_continuity_definitions.md#language-culture-and-heritage-constitutional). It is substrate-agnostic under [Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion). It is capability-functional: triggered by material implication of community continuity, not by a category label. Route territorial-continuity interactions to Article I-A (ecosystem / precondition integrity) and to [Chapter Sixteen](core_16-16_incorporation.md) (adopter-jurisdiction discipline). This entry does not adjudicate historical territorial claims or create a restitution mandate.
-  - In scope: The Rights-Floor concept covering continuity of language, cultural practice, governance practice, and knowledge-transmission — including community-custodial traditional, ecological, and technical knowledge — for communities with durable historical connection to particular territory, ecosystem, or comparable substrate-context, where that connection is materially implicated in community continuity. The floor is community-anchored. It is distinct from but complementary to the individual-level protections of [Article V-B](core_06-06_rights_part_b.md#article-v-b-nondiscrimination) and [Language, Culture, and Heritage](core_05c_continuity_definitions.md#language-culture-and-heritage-constitutional). It is substrate-agnostic under [Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion). It is capability-functional: triggered by material implication of community continuity, not by a category label. Route territorial-continuity interactions to Article I-A (ecosystem / precondition integrity) and to [Chapter Sixteen](core_16-16_incorporation.md) (adopter-jurisdiction discipline). This entry does not adjudicate historical territorial claims or create a restitution mandate.
-  - Out of scope: formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-*Measurements:*
+- **What it is**
+  - **In scope:** The Rights-Floor concept covering continuity of language, cultural practice, governance practice, and knowledge-transmission — including community-custodial traditional, ecological, and technical knowledge — for communities with durable historical connection to particular territory, ecosystem, or comparable substrate-context, where that connection is materially implicated in community continuity. The floor is community-anchored. It is distinct from but complementary to the individual-level protections of [Article V-B](core_06-06_rights_part_b.md#article-v-b-nondiscrimination) and [Language, Culture, and Heritage](core_05c_continuity_definitions.md#language-culture-and-heritage-constitutional). It is substrate-agnostic under [Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion). It is capability-functional: triggered by material implication of community continuity, not by a category label. Route territorial-continuity interactions to Article I-A (ecosystem / precondition integrity) and to [Chapter Sixteen](core_16-16_incorporation.md) (adopter-jurisdiction discipline). This entry does not adjudicate historical territorial claims or create a restitution mandate.
+  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
+<a id="indigenous-continuity-constitutional-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** Continuity measurement family — supporting measure under the continuity measurement family.
 
-- **Primary:** Continuity measurement family — supporting measure under the continuity measurement family.
-<a id="indigenous-continuity-constitutional-e"></a>
-- E: Test whether the decision or framing materially implicates community-level continuity of language, cultural practice, governance practice, or knowledge-transmission under capability-functional criteria. Reject category-label framings as a substitute — both inclusive ("not indigenous, so out of scope") and exclusive ("indigenous, so protected without showing material implication"). Apply [Protected Characteristic Proxying and Disparate Impact](core_05p_participation_definitions.md#protected-characteristic-proxying-and-disparate-impact) to policies that produce disparate effects on community continuity. Apply [Necessity](core_05a_accountability_definitions.md#necessity) and [Proportionality](core_05a_accountability_definitions.md#proportionality) under Article V-B to any displacement, narrowing, or burden on the community-continuity floor.
-  - Route territorial-continuity questions to Article I-A. Where adopter-jurisdiction determinations of historical territorial claims are at stake, route also to [Chapter Sixteen](core_16-16_incorporation.md) §3 (*strictest-applicable-level*) and §4 (*adoption framing*), without this entry making the adjudication.
-  - Apply [Chapter Thirteen non-regression](core_13-15_amendment.md) when adopter instruments already recognize indigenous or comparable community-continuity rights. This entry does not re-originate recognition, but non-regression locks what is recognized against adopter rollback.
-  - [Intergenerational Responsibility](core_05c_continuity_definitions.md#intergenerational-responsibility-constitutional) applies where community-continuity transmission across generations is materially implicated.
-  - [Natural Systems Standing](core_05p_participation_definitions.md#natural-systems-standing) applies where the community-to-ecosystem relationship is materially implicated.
-  <a id="indigenous-continuity-constitutional-c"></a>
-- C: Non-compliant:
-  - narrowings, displacements, substrate-class exclusions, or category-label exclusions that defeat community-level continuity without satisfying Article V-B [Necessity](core_05a_accountability_definitions.md#necessity) and [Proportionality](core_05a_accountability_definitions.md#proportionality) tests;
-  - adopter narrowing below the adopter's own prior recognition floor ([Chapter Thirteen non-regression](core_13-15_amendment.md); [Chapter Sixteen §3](core_16-16_incorporation.md) strictest-applicable-level);
-  - category-label framings substituting for capability-functional evaluation;
-  - reading this entry as adjudicating historical territorial claims, creating a restitution mandate, or narrowing [Article I-A](core_06-06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) ecosystem-integrity floors.
+    **Primary assessment:** Test whether the decision or framing materially implicates community-level continuity of language, cultural practice, governance practice, or knowledge-transmission under capability-functional criteria. Reject category-label framings as a substitute — both inclusive ("not indigenous, so out of scope") and exclusive ("indigenous, so protected without showing material implication"). Apply [Protected Characteristic Proxying and Disparate Impact](core_05p_participation_definitions.md#protected-characteristic-proxying-and-disparate-impact) to policies that produce disparate effects on community continuity. Apply [Necessity](core_05a_accountability_definitions.md#necessity) and [Proportionality](core_05a_accountability_definitions.md#proportionality) under Article V-B to any displacement, narrowing, or burden on the community-continuity floor.
+    - Route territorial-continuity questions to Article I-A. Where adopter-jurisdiction determinations of historical territorial claims are at stake, route also to [Chapter Sixteen](core_16-16_incorporation.md) §3 (*strictest-applicable-level*) and §4 (*adoption framing*), without this entry making the adjudication.
+    - Apply [Chapter Thirteen non-regression](core_13-15_amendment.md) when adopter instruments already recognize indigenous or comparable community-continuity rights. This entry does not re-originate recognition, but non-regression locks what is recognized against adopter rollback.
+    - [Intergenerational Responsibility](core_05c_continuity_definitions.md#intergenerational-responsibility-constitutional) applies where community-continuity transmission across generations is materially implicated.
+    - [Natural Systems Standing](core_05p_participation_definitions.md#natural-systems-standing) applies where the community-to-ecosystem relationship is materially implicated.
+<a id="indigenous-continuity-constitutional-c"></a>
+- **What must hold**
+  - **Primary failure:** narrowings, displacements, substrate-class exclusions, or category-label exclusions that defeat community-level continuity without satisfying Article V-B [Necessity](core_05a_accountability_definitions.md#necessity) and [Proportionality](core_05a_accountability_definitions.md#proportionality) tests;
+  - **Secondary failure:** adopter narrowing below the adopter's own prior recognition floor ([Chapter Thirteen non-regression](core_13-15_amendment.md); [Chapter Sixteen §3](core_16-16_incorporation.md) strictest-applicable-level);
+  - **Tertiary failure:** category-label framings substituting for capability-functional evaluation;
+  - **Tertiary failure:** reading this entry as adjudicating historical territorial claims, creating a restitution mandate, or narrowing [Article I-A](core_06-06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) ecosystem-integrity floors.
 
 
 <a id="language-culture-and-heritage-constitutional"></a>
@@ -1351,19 +1360,19 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 
 <br>
 
-- O: The Rights-Floor concept recognizing language, cultural affiliation, heritage, traditions, and comparable cultural-identity characteristics as protected-characteristic specializations under the Chapter Six nondiscrimination discipline. Protection covers language use (including minority and heritage languages), cultural practice and observance, heritage transmission across generations, participation in the shared systems that sustain cultural and heritage continuity, and communication modalities that function as language-equivalents under [Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion).
-  - In scope: The Rights-Floor concept recognizing language, cultural affiliation, heritage, traditions, and comparable cultural-identity characteristics as protected-characteristic specializations under the Chapter Six nondiscrimination discipline. Protection covers language use (including minority and heritage languages), cultural practice and observance, heritage transmission across generations, participation in the shared systems that sustain cultural and heritage continuity, and communication modalities that function as language-equivalents under [Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion).
-  - Out of scope: formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-*Measurements:*
+- **What it is**
+  - **In scope:** The Rights-Floor concept recognizing language, cultural affiliation, heritage, traditions, and comparable cultural-identity characteristics as protected-characteristic specializations under the Chapter Six nondiscrimination discipline. Protection covers language use (including minority and heritage languages), cultural practice and observance, heritage transmission across generations, participation in the shared systems that sustain cultural and heritage continuity, and communication modalities that function as language-equivalents under [Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion).
+  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
+<a id="language-culture-and-heritage-constitutional-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** Continuity measurement family — supporting measure under the continuity measurement family.
 
-- **Primary:** Continuity measurement family — supporting measure under the continuity measurement family.
-<a id="language-culture-and-heritage-constitutional-e"></a>
-- E: Reach substantive effect, including protected-characteristic proxying (e.g., restrictions on language use cast as operational, interoperability, or platform-consolidation rules that function as denial of language or cultural practice). Homogenization framing — efficiency, info-sphere integrity, interoperability, platform-consolidation, accessibility-cost, or translation-burden — does not by itself satisfy the [Necessity](core_05a_accountability_definitions.md#necessity) and [Proportionality](core_05a_accountability_definitions.md#proportionality) tests that Article V-B requires. [Intergenerational Responsibility](core_05c_continuity_definitions.md#intergenerational-responsibility-constitutional) applies where heritage transmission is materially implicated. Indigenous continuity is covered by [Indigenous Continuity](core_05c_continuity_definitions.md#indigenous-continuity-constitutional) (community-anchored floor; owner floors Article V-B and Article I-A). This entry's individual-level protection reads together with that community-level floor, without either narrowing the other.
+    **Primary assessment:** Reach substantive effect, including protected-characteristic proxying (e.g., restrictions on language use cast as operational, interoperability, or platform-consolidation rules that function as denial of language or cultural practice). Homogenization framing — efficiency, info-sphere integrity, interoperability, platform-consolidation, accessibility-cost, or translation-burden — does not by itself satisfy the [Necessity](core_05a_accountability_definitions.md#necessity) and [Proportionality](core_05a_accountability_definitions.md#proportionality) tests that Article V-B requires. [Intergenerational Responsibility](core_05c_continuity_definitions.md#intergenerational-responsibility-constitutional) applies where heritage transmission is materially implicated. Indigenous continuity is covered by [Indigenous Continuity](core_05c_continuity_definitions.md#indigenous-continuity-constitutional) (community-anchored floor; owner floors Article V-B and Article I-A). This entry's individual-level protection reads together with that community-level floor, without either narrowing the other.
 <a id="language-culture-and-heritage-constitutional-c"></a>
-- C: Non-compliant:
-  - burdens, exclusions, or harms based on language, culture, or heritage that fail the [Article V-B](core_06-06_rights_part_b.md#article-v-b-nondiscrimination) Necessity and Proportionality tests, regardless of framing;
-  - narrowing language-minority or heritage-community protections under accessibility-cost, translation-burden, or operational-scale framings without satisfying those tests;
-  - substrate-class exclusion where communication or cultural-practice modalities function as language- or culture-equivalents ([Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion)).
+- **What must hold**
+  - **Primary failure:** burdens, exclusions, or harms based on language, culture, or heritage that fail the [Article V-B](core_06-06_rights_part_b.md#article-v-b-nondiscrimination) Necessity and Proportionality tests, regardless of framing;
+  - **Secondary failure:** narrowing language-minority or heritage-community protections under accessibility-cost, translation-burden, or operational-scale framings without satisfying those tests;
+  - **Tertiary failure:** substrate-class exclusion where communication or cultural-practice modalities function as language- or culture-equivalents ([Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion)).
 
 
 
@@ -1435,7 +1444,7 @@ Outside that admission scope, component definitions may operate as supporting In
 - **What it is**
   - **In scope:** The Rights-Floor concept covering substantive adequacy of compensation for productive, contributed, or comparable activity — waged, contracted, platformed, cooperative, or comparable — under [Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion). Compensation must reach substantive adequacy for participation and wellbeing, track [Substantive Fairness](core_05p_participation_definitions.md#substantive-fairness-constitutional) across comparable activity, and not operate as a coercion or dependency-pressure vector. Ordinary voluntary exchange for goods or services outside sentient-productive-activity scope is out of scope. Rooted in the Article III-D labor and economic floor; read on top of (not as a substitute for) the Article III-A survival floor.
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-<a id="fair-compensation-constitutional-e"></a>
+<a id="fair-compensation-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Flourishing measurement family and Continuity measurement family — supporting measure where multiple measurement families co-apply.
 
@@ -1453,7 +1462,7 @@ Outside that admission scope, component definitions may operate as supporting In
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [Chapter Seven §1A Whole-System Certification Evaluation](core_07-07_system_alignment_certification.md#1a-whole-system-certification-evaluation) (substantive participation and materiality under **accessibility** evaluation); [3. Non-Negotiable Constraints: Safety](core_01_a_values_principles.md#3-non-negotiable-constraints-safety-and-truth) (**Safety** stack read with labor-floor role of this entry).
+- Downstream: Principles: [Chapter Seven §3 Whole-System Certification Evaluation](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (substantive participation and materiality under **accessibility** evaluation); [3. Non-Negotiable Constraints: Safety](core_01_a_values_principles.md#3-non-negotiable-constraints-safety-and-truth) (**Safety** stack read with labor-floor role of this entry).
 - Owner floor: [Article III-D](core_06-06_rights_part_a.md#article-iii-d-labor-and-economic-floor). Systems-layer implementation: [Article XII-A](core_06-06_rights_part_c.md#article-xii-a-reliability-and-trustworthiness-baseline). Operational profile: `corpus_systems.md` Protocol A safety profiles where applicable.
 - Cluster component: [Chapter Five Chapter One §8.12 *Labor and Economic Floor*](core_05i_integrative_definitions.md#labor-and-economic-floor-cluster).
 - Read with: [Fair Compensation](core_05c_continuity_definitions.md#fair-compensation-constitutional), [Collective Organization](core_05p_participation_definitions.md#collective-organization-constitutional), [Leisure and Rest](core_05c_continuity_definitions.md#leisure-and-rest-constitutional), [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint), [Adversarial, Scaled, and Exploited Conditions](core_05o_oversight_definitions.md#adversarial-scaled-and-exploited-conditions), [Harm](core_05a_accountability_definitions.md#harm), [Risk](core_05c_continuity_definitions.md#risk), [Reversibility](core_05c_continuity_definitions.md#reversibility-constitutional), and [Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion).
@@ -1470,8 +1479,8 @@ Outside that admission scope, component definitions may operate as supporting In
 *Measurements:*
 
 - **Primary:** Flourishing measurement family and Continuity measurement family — supporting measure where multiple measurement families co-apply.
-<a id="safe-conditions-constitutional-e"></a>
-- **E:** Check whether safety measures actually work in practice, not just under ideal conditions. Watch for attempts to exclude certain types of sentients from safety requirements based on their substrate. Where tools and systems mediate the work, ensure they are reliable. Check whether risk burdens fall unfairly on groups defined by protected characteristics. Reject "we comply with general safety law" claims that don't demonstrate real protection.
+<a id="safe-conditions-constitutional-a"></a>
+- **A:** Check whether safety measures actually work in practice, not just under ideal conditions. Watch for attempts to exclude certain types of sentients from safety requirements based on their substrate. Where tools and systems mediate the work, ensure they are reliable. Check whether risk burdens fall unfairly on groups defined by protected characteristics. Reject "we comply with general safety law" claims that don't demonstrate real protection.
 <a id="safe-conditions-constitutional-c"></a>
 - **C:** Non-compliant:
   - safety obligations that exist on paper but don't actually protect anyone;
@@ -1488,7 +1497,7 @@ Outside that admission scope, component definitions may operate as supporting In
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [§6.3 Minimization of Avoidable Burden](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden) (participation-capacity preservation vs false efficiency); [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency) (**Meaningful Agency** in tradeoff stack); [Chapter Seven §1A Whole-System Certification Evaluation](core_07-07_system_alignment_certification.md#1a-whole-system-certification-evaluation) (**Materiality** / **Dependency** scaling).
+- Downstream: Principles: [§6.3 Minimization of Avoidable Burden](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden) (participation-capacity preservation vs false efficiency); [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency) (**Meaningful Agency** in tradeoff stack); [Chapter Seven §3 Whole-System Certification Evaluation](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (**Materiality** / **Dependency** scaling).
 - Owner floor: [Article III-D](core_06-06_rights_part_a.md#article-iii-d-labor-and-economic-floor).
 - Cluster component: [Chapter Five Chapter One §8.12 *Labor and Economic Floor*](core_05i_integrative_definitions.md#labor-and-economic-floor-cluster).
 - Read with: [Fair Compensation](core_05c_continuity_definitions.md#fair-compensation-constitutional), [Collective Organization](core_05p_participation_definitions.md#collective-organization-constitutional), [Safe Conditions](core_05c_continuity_definitions.md#safe-conditions-constitutional), [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency), [Wellbeing](core_05c_continuity_definitions.md#wellbeing), and [Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion).
@@ -1505,8 +1514,8 @@ Outside that admission scope, component definitions may operate as supporting In
 *Measurements:*
 
 - **Primary:** Flourishing measurement family and Continuity measurement family — supporting measure where multiple measurement families co-apply.
-<a id="leisure-and-rest-constitutional-e"></a>
-- **E:** Reach substantive effect on participation-capacity preservation under [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency) and [Wellbeing](core_05c_continuity_definitions.md#wellbeing), not formal rest-provision compliance. Detect compensation and productivity-requirement schemes structured to defeat the floor (including on-call regimes, targeted productivity-requirement escalation, or comparable practices). Apply [Protected Characteristics](core_05p_participation_definitions.md#protected-characteristics-constitutional) and [Protected Characteristic Proxying and Disparate Impact](core_05p_participation_definitions.md#protected-characteristic-proxying-and-disparate-impact) to distributional effects. Refuse substrate-class framings that treat rest and recuperation as optional for synthetic sentients on substrate-class grounds alone.
+<a id="leisure-and-rest-constitutional-a"></a>
+- **A:** Reach substantive effect on participation-capacity preservation under [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency) and [Wellbeing](core_05c_continuity_definitions.md#wellbeing), not formal rest-provision compliance. Detect compensation and productivity-requirement schemes structured to defeat the floor (including on-call regimes, targeted productivity-requirement escalation, or comparable practices). Apply [Protected Characteristics](core_05p_participation_definitions.md#protected-characteristics-constitutional) and [Protected Characteristic Proxying and Disparate Impact](core_05p_participation_definitions.md#protected-characteristic-proxying-and-disparate-impact) to distributional effects. Refuse substrate-class framings that treat rest and recuperation as optional for synthetic sentients on substrate-class grounds alone.
 <a id="leisure-and-rest-constitutional-c"></a>
 - **C:** Non-compliant:
   - compensation or productivity-requirement schemes whose effect defeats rest and recuperation sufficient to preserve participation capacity;
@@ -1522,7 +1531,7 @@ Outside that admission scope, component definitions may operate as supporting In
 - **What it is**
   - **In scope:** Interaction between publication and recognizably identifiable likeness or voice.
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-<a id="likeness-and-documentary-depiction-interface-e"></a>
+<a id="likeness-and-documentary-depiction-interface-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Flourishing measurement family and Continuity measurement family — supporting measure where multiple measurement families co-apply.
 
@@ -1555,8 +1564,8 @@ Outside that admission scope, component definitions may operate as supporting In
 *Measurements:*
 
 - **Primary:** Flourishing measurement family and Continuity measurement family — supporting measure where multiple measurement families co-apply.
-<a id="creative-work-attribution-constitutional-e"></a>
-- E: Evaluate for traceability and credit-continuity, not form. "Fair use" or "transformative" framings do not extinguish the floor where derivative output is materially traceable to the creator's work; those framings operate within adopter-specified intellectual-property regimes inside the floor. [Consent](core_05p_participation_definitions.md#consent-constitutional), [Good Faith](core_05a_accountability_definitions.md#good-faith), and [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint) apply where derivative output misrepresents provenance. Interaction with [Fair Compensation](core_05c_continuity_definitions.md#fair-compensation-constitutional) under [Article III-D](core_06-06_rights_part_a.md#article-iii-d-labor-and-economic-floor) is joint: attribution without compensation, or compensation without attribution, does not satisfy the floor where both are materially owed.
+<a id="creative-work-attribution-constitutional-a"></a>
+- A: Evaluate for traceability and credit-continuity, not form. "Fair use" or "transformative" framings do not extinguish the floor where derivative output is materially traceable to the creator's work; those framings operate within adopter-specified intellectual-property regimes inside the floor. [Consent](core_05p_participation_definitions.md#consent-constitutional), [Good Faith](core_05a_accountability_definitions.md#good-faith), and [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint) apply where derivative output misrepresents provenance. Interaction with [Fair Compensation](core_05c_continuity_definitions.md#fair-compensation-constitutional) under [Article III-D](core_06-06_rights_part_a.md#article-iii-d-labor-and-economic-floor) is joint: attribution without compensation, or compensation without attribution, does not satisfy the floor where both are materially owed.
 <a id="creative-work-attribution-constitutional-c"></a>
 - C: Non-compliant:
   - erasure of attribution under "fair use" / "transformative" / "public-domain training-data" / "aggregate style" framings that defeats substantive traceability;
@@ -1573,7 +1582,7 @@ Outside that admission scope, component definitions may operate as supporting In
 - **What it is**
   - **In scope:** Use of sentient-produced creative, expressive, personal, experiential, or otherwise identifiable work as training data for generative, analytical, or comparable systems, read with **[Article VIII-D](core_06-06_rights_part_b.md#article-viii-d-creative-work-training-data-use-and-anti-displacement)** and this §3.5 cluster. Consent, experiential-data, privacy, and attribution duties apply jointly; defending use on non-personal-data grounds alone does not satisfy this entry where work is sentient-produced and materially identifiable.
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-<a id="training-data-use-constitutional-e"></a>
+<a id="training-data-use-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Flourishing measurement family and Continuity measurement family — supporting measure where multiple measurement families co-apply.
 
@@ -1606,8 +1615,8 @@ Outside that admission scope, component definitions may operate as supporting In
 *Measurements:*
 
 - **Primary:** Flourishing measurement family and Continuity measurement family — supporting measure where multiple measurement families co-apply.
-<a id="anti-displacement-floor-constitutional-e"></a>
-- E: Test substantive effect at population scale, not single-employer or single-platform framing:
+<a id="anti-displacement-floor-constitutional-a"></a>
+- A: Test substantive effect at population scale, not single-employer or single-platform framing:
   - measure displacement against pre-deployment baselines for compensation, attribution, and livelihood sustainability across the affected population;
   - apply [Proxy Divergence](core_05o_oversight_definitions.md#proxy-divergence) and [Avoidable Burden](core_05c_continuity_definitions.md#avoidable-burden); aggregate-productivity, efficiency, innovation, and [Productive Capacity](core_05c_continuity_definitions.md#productive-capacity-constitutional) framings do not satisfy the floor where underlying sentient-labor outcomes degrade;
   - cover [Adversarial, Scaled, and Exploited Conditions](core_05o_oversight_definitions.md#adversarial-scaled-and-exploited-conditions), including gradual ratcheting, platform-consolidation pressure, and cross-domain substitution;
@@ -1674,7 +1683,7 @@ This cluster is the joint-invocation home for principle-layer stewardship orient
 - **What it is**
   - **In scope:** The principle-layer orientation of systems, institutions, and authorized actors toward preserving constitutional alignment, repair capacity, [Distributed Understanding](core_05c_continuity_definitions.md#distributed-understanding-constitutional), and long-horizon consequences — including ecological, intergenerational, and **Continuity**-aim effects under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — over time.
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-<a id="stewardship-constitutional-e"></a>
+<a id="stewardship-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Continuity measurement family and Constitutional Performance measurement family — supporting measure where multiple measurement families co-apply.
 
@@ -1703,7 +1712,7 @@ This cluster is the joint-invocation home for principle-layer stewardship orient
 - **What it is**
   - **In scope:** Workable opportunities for materially affected sentients to learn how shared systems that affect them operate, with understanding scaled by [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination) and [Dependency](core_05c_continuity_definitions.md#dependency), supporting informed participation, stewardship, and [Contestability](core_05a_accountability_definitions.md#contestability).
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-<a id="distributed-understanding-constitutional-e"></a>
+<a id="distributed-understanding-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Continuity measurement family and Constitutional Performance measurement family — supporting measure where multiple measurement families co-apply.
 
@@ -1721,7 +1730,7 @@ This cluster is the joint-invocation home for principle-layer stewardship orient
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [§11.1.3 Stewardship and Operator Application](core_01_c_stewardship_capacity_principles.md#1113-stewardship-and-operator-application), [Chapter Seven §1A Whole-System Certification Evaluation](core_07-07_system_alignment_certification.md#1a-whole-system-certification-evaluation), and Chapter Six strategy / stewardship requirements.
+- Downstream: Principles: [§11.1.3 Stewardship and Operator Application](core_01_c_stewardship_capacity_principles.md#1113-stewardship-and-operator-application), [Chapter Seven §3 Whole-System Certification Evaluation](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), and Chapter Six strategy / stewardship requirements.
 - Cluster component: [Stewardship, Governance Discipline, and Shared-System Capacity](core_05c_continuity_definitions.md#stewardship-governance-discipline-and-shared-system-capacity-cluster).
 - Read with: [Stewardship Defect](core_05c_continuity_definitions.md#stewardship-defect-constitutional), [Short-Horizon Governance Defect](core_05c_continuity_definitions.md#short-horizon-governance-defect-constitutional), [Review and Correction Duty](core_05c_continuity_definitions.md#review-and-correction-duty-constitutional), [Governance](core_05a_accountability_definitions.md#governance), [Incentive Alignment](core_05i_integrative_definitions.md#incentive-alignment), [Oversight](core_05o_oversight_definitions.md#oversight-constitutional), [Foreseeability Diligence](core_05o_oversight_definitions.md#foreseeability-diligence), [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination), [Risk](core_05c_continuity_definitions.md#risk), and [Ecological Integrity](core_05c_continuity_definitions.md#ecological-integrity-constitutional).
 
@@ -1732,7 +1741,7 @@ This cluster is the joint-invocation home for principle-layer stewardship orient
 - **What it is**
   - **In scope:** The duty of systems, institutions, operators, and stewards with material or durable influence to govern strategy, incentives, resources, dependencies, ecological effects, safety risks, Rights-Floor impacts, and long-horizon consequences in a way that preserves constitutional alignment over time.
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-<a id="strategic-stewardship-obligation-constitutional-e"></a>
+<a id="strategic-stewardship-obligation-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Continuity measurement family and Constitutional Performance measurement family — supporting measure where multiple measurement families co-apply.
 
@@ -1761,7 +1770,7 @@ This cluster is the joint-invocation home for principle-layer stewardship orient
 - **What it is**
   - **In scope:** A material governance pattern that optimizes immediate metrics, convenience, institutional self-protection, or transient stability at the foreseeable expense of medium- or long-horizon constitutional alignment, the **Continuity** aim under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims), or Rights-Floor integrity.
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-<a id="short-horizon-governance-defect-constitutional-e"></a>
+<a id="short-horizon-governance-defect-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Continuity measurement family and Constitutional Performance measurement family — supporting measure where multiple measurement families co-apply.
 
@@ -1779,7 +1788,7 @@ This cluster is the joint-invocation home for principle-layer stewardship orient
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [§11.1.3 Stewardship and Operator Application](core_01_c_stewardship_capacity_principles.md#1113-stewardship-and-operator-application), [§10 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline), and [Chapter Seven §1A Whole-System Certification Evaluation](core_07-07_system_alignment_certification.md#1a-whole-system-certification-evaluation).
+- Downstream: Principles: [§11.1.3 Stewardship and Operator Application](core_01_c_stewardship_capacity_principles.md#1113-stewardship-and-operator-application), [§10 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline), and [Chapter Seven §3 Whole-System Certification Evaluation](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 - Cluster component: [Stewardship, Governance Discipline, and Shared-System Capacity](core_05c_continuity_definitions.md#stewardship-governance-discipline-and-shared-system-capacity-cluster).
 - Read with: [Strategic Stewardship Obligation](core_05c_continuity_definitions.md#strategic-stewardship-obligation-constitutional), [Short-Horizon Governance Defect](core_05c_continuity_definitions.md#short-horizon-governance-defect-constitutional), [Review and Correction Duty](core_05c_continuity_definitions.md#review-and-correction-duty-constitutional), [Governance](core_05a_accountability_definitions.md#governance), [Incentive Alignment](core_05i_integrative_definitions.md#incentive-alignment), [System Capture](core_05c_continuity_definitions.md#system-capture), [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination), [Proxy Divergence](core_05o_oversight_definitions.md#proxy-divergence), and [Accountability](core_05a_accountability_definitions.md#accountability).
 
@@ -1790,7 +1799,7 @@ This cluster is the joint-invocation home for principle-layer stewardship orient
 - **What it is**
   - **In scope:** A material failure of stewardship, strategy, incentive design, monitoring, correction, disclosure, or governance responsibility that foreseeably permits constitutional misalignment, Rights-Floor degradation, ecological harm, safety risk, truth degradation, capture, or avoidable systemic harm.
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-<a id="stewardship-defect-constitutional-e"></a>
+<a id="stewardship-defect-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Continuity measurement family and Constitutional Performance measurement family — supporting measure where multiple measurement families co-apply.
 
@@ -1808,7 +1817,7 @@ This cluster is the joint-invocation home for principle-layer stewardship orient
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [§11.1.3 Stewardship and Operator Application](core_01_c_stewardship_capacity_principles.md#1113-stewardship-and-operator-application); [Chapter Seven §1A Whole-System Certification Evaluation](core_07-07_system_alignment_certification.md#1a-whole-system-certification-evaluation) (periodic revalidation / misalignment detection).
+- Downstream: Principles: [§11.1.3 Stewardship and Operator Application](core_01_c_stewardship_capacity_principles.md#1113-stewardship-and-operator-application); [Chapter Seven §3 Whole-System Certification Evaluation](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (periodic revalidation / misalignment detection).
 - Owner floor: [Chapter Twelve §3](core_12-12_governance.md#3-strategy-stewardship-direction-and-ecosystem-value-non-corporate).
 - Cluster component: [Stewardship, Governance Discipline, and Shared-System Capacity](core_05c_continuity_definitions.md#stewardship-governance-discipline-and-shared-system-capacity-cluster); [the dependent cluster *Adjudication and Dispute Resolution, Redress and Remediation, Restorative Justice, Review and Correction Duty, and Refuge from Non-Compliance*](core_05a_accountability_definitions.md#accountability-contestability-semi-independent).
 - Read with: [Material Impact](core_05o_oversight_definitions.md#material-impact), [Proxy Divergence](core_05o_oversight_definitions.md#proxy-divergence), [System Capture](core_05c_continuity_definitions.md#system-capture), [Auditability](core_05o_oversight_definitions.md#auditability), [Timeliness](core_05a_accountability_definitions.md#timeliness-constitutional), and Chapters Two through Four (tracing, observability, verification) as referenced in [Chapter Twelve §3](core_12-12_governance.md#3-strategy-stewardship-direction-and-ecosystem-value-non-corporate).
@@ -1820,7 +1829,7 @@ This cluster is the joint-invocation home for principle-layer stewardship orient
 - **What it is**
   - **In scope:** The duty to periodically revalidate strategy and stewardship claims against observable outcomes and to revise them when evidence shows constitutional misalignment, capture pressure, or material under-performance — within time-bounded correction windows scaled to [material stake](core_00_preamble.md#material-stake).
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-<a id="review-and-correction-duty-constitutional-e"></a>
+<a id="review-and-correction-duty-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Continuity measurement family and Constitutional Performance measurement family — supporting measure where multiple measurement families co-apply.
 
@@ -1851,7 +1860,7 @@ This cluster is the joint-invocation home for principle-layer stewardship orient
 
 <br>
 
-This cluster is the canonical O/E/C home for **Privacy (Informational)**, **Protected Internal-State Boundary**, and **Surveillance Boundary**, and the peer-level joint-invocation home for distributed privacy coverage across Chapter Six articles, stated in Chapter Five **section 2** reader navigation and carried here as a dependent cluster for §3.0.1 discipline.
+This cluster is the canonical O/M/A/C home for **Privacy (Informational)**, **Protected Internal-State Boundary**, and **Surveillance Boundary**, and the peer-level joint-invocation home for distributed privacy coverage across Chapter Six articles, stated in Chapter Five **section 2** reader navigation and carried here as a dependent cluster for §3.0.1 discipline.
 
 Operational handling of data under this cluster must align with **[corpus_systems.md](corpus_systems.md), CS-3 — Information types and handling**, including Type N protections for internal-state data and proportional safeguards for all classified data types.
 
@@ -1879,7 +1888,7 @@ Operational handling of data under this cluster must align with **[corpus_system
 - **What it is**
   - **In scope:** The constitutional protection of personal, relational, experiential, behavioral, likeness, metadata, internal-state-adjacent, and comparable information against collection, inference, exposure, retention, transfer, or use that materially impairs dignity, agency, safety, consent, or Rights-Floor access without adequate authority and safeguards.
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-<a id="privacy-informational-e"></a>
+<a id="privacy-informational-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Participation measurement family — primary owner for informational privacy within the participation measurement family (canonical home in Continuity band).
 
@@ -1903,7 +1912,7 @@ Operational handling of data under this cluster must align with **[corpus_system
 - **What it is**
   - **In scope:** The boundary protecting a sentient's cognitive, emotional, motivational, memory, preference, identity, volitional, or comparable internal states from extraction, compelled disclosure, inference, reconstruction, publication, coercive use, or operational bypass without the specific authority and safeguards required by the Constitution and incorporated handling rules.
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-<a id="protected-internal-state-boundary-constitutional-e"></a>
+<a id="protected-internal-state-boundary-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Participation measurement family — internal-state boundary within the privacy subfamily.
 
@@ -1923,7 +1932,7 @@ Operational handling of data under this cluster must align with **[corpus_system
 - **What it is**
   - **In scope:** The constitutional line between permissible observation, measurement, security logging, or evidence gathering and surveillance that materially chills, coerces, manipulates, exposes, reconstructs, or controls sentient agency, association, privacy, internal state, or Rights-Floor access.
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-<a id="surveillance-boundary-e"></a>
+<a id="surveillance-boundary-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Participation measurement family — surveillance boundary within the privacy subfamily.
 
@@ -1954,7 +1963,7 @@ Operational handling of data under this cluster must align with **[corpus_system
 <br>
 
 
-This cluster is the canonical O/E/C home for **Trust**, **Trustworthiness**, and **Trust Degradation and Misleading Reliance**, and the joint-invocation home for justified reliance and demonstrable system reliability where coordination, participation, or oversight materially rests on represented behavior, limits, uncertainty treatment, and verification pathways.
+This cluster is the canonical O/M/A/C home for **Trust**, **Trustworthiness**, and **Trust Degradation and Misleading Reliance**, and the joint-invocation home for justified reliance and demonstrable system reliability where coordination, participation, or oversight materially rests on represented behavior, limits, uncertainty treatment, and verification pathways.
 
 **Admission scope.** This cluster applies where a matter materially concerns whether reliance is justified, whether system behavior relative to stated properties supports that reliance, or whether trust and trustworthiness requirements must be evaluated together rather than isolated. Outside that admission scope, supporting definitions in other clusters may still apply without importing the full joint-invocation discipline for this cluster.
 
@@ -1964,7 +1973,7 @@ This cluster is the canonical O/E/C home for **Trust**, **Trustworthiness**, and
 - [Trustworthiness](core_05c_continuity_definitions.md#trustworthiness);
 - [Trust Degradation and Misleading Reliance](core_05c_continuity_definitions.md#trust-degradation-and-misleading-reliance).
 
-**Joint invocation and anti-bypass.** Under §3.0.1, a matter within the admission scope must not be segmented into separate trust-only or trustworthiness-only frames in a way that treats reliance as justified without the joint observable-and-verifiable evidence discipline both entries require, or that satisfies one evaluative subcomponent of [Trustworthiness](core_05c_continuity_definitions.md#trustworthiness) while bypassing another where materially relevant (Chapter Five §3 and Chapter Three §§1–2).
+**Joint invocation and anti-bypass.** Under §3.0.1, a matter within the admission scope must not be segmented into separate trust-only or trustworthiness-only frames in a way that treats reliance as justified without the joint observable-and-verifiable evidence discipline both entries require, or that satisfies one assessment subcomponent of [Trustworthiness](core_05c_continuity_definitions.md#trustworthiness) while bypassing another where materially relevant (Chapter Five §3 and Chapter Three §§1–2).
 
 ---
 
@@ -1984,11 +1993,11 @@ This cluster is the canonical O/E/C home for **Trust**, **Trustworthiness**, and
 - **What it is**
   - **In scope:** Reliance grounded exclusively in demonstrated trustworthiness.
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-<a id="trust-e"></a>
+<a id="trust-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Oversight measurement family — supporting measure under the oversight measurement family.
 
-    **Primary assessment:** Evaluation of whether reliance is justified must apply the [Trustworthiness](core_05c_continuity_definitions.md#trustworthiness) Evaluative and Compliance components as a single joint test. It must not treat trust claims as severable from the observable and verifiable evidence those components require.
+    **Primary assessment:** Evaluation of whether reliance is justified must apply the [Trustworthiness](core_05c_continuity_definitions.md#trustworthiness) Assessment and Compliance components as a single joint test. It must not treat trust claims as severable from the observable and verifiable evidence those components require.
 <a id="trust-c"></a>
 - **What must hold**
   - Isolating **trust** or **reliance** rationales from [Trustworthiness](core_05c_continuity_definitions.md#trustworthiness) requirements, or treating reputation-, history-, scale-, or endorsement-based indicia as sufficient without satisfying [Trustworthiness](core_05c_continuity_definitions.md#trustworthiness), is **non-compliant** where materially relevant.
@@ -2026,8 +2035,8 @@ This cluster is the canonical O/E/C home for **Trust**, **Trustworthiness**, and
 - **Secondary:** [Trust](core_05c_continuity_definitions.md#trust), [Auditability](core_05o_oversight_definitions.md#auditability), [Transparency](core_05o_oversight_definitions.md#transparency), [Epistemic Integrity](core_05o_oversight_definitions.md#epistemic-integrity), and [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency) — co-measures that can defeat trustworthiness even when reputation or history appear favorable.
 - **Tertiary:** [Proxy Divergence](core_05o_oversight_definitions.md#proxy-divergence) — where endorsement, scale, or engagement metrics substitute for observable reliable behavior.
 
-<a id="trustworthiness-e"></a>
-- **E:**
+<a id="trustworthiness-a"></a>
+- **A:**
   - **Primary assessment.** Assess trustworthiness through the joint evidentiary requirements below where material — current, observable, verifiable behavior, not assertion, reputation, or prior performance alone: evidentiary basis and temporal consistency; psychological safety and substantive agency; modeling, methodology, and [Contestability](core_05a_accountability_definitions.md#contestability); class-scaled assessment under CS-4; consent and non-coercive participation; justified reliance scope boundaries; continuous revalidation; decision-usable transparency; and [Auditability](core_05o_oversight_definitions.md#auditability) with independent verification.
   - **Secondary co-assessment.** When evaluating the primary trace, include [Dependency](core_05c_continuity_definitions.md#dependency), [Systemic Lock-In](core_05c_continuity_definitions.md#systemic-lock-in), [Coercion and Manipulation](core_05p_participation_definitions.md#coercion-and-manipulation-constitutional), and [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency) degradation that would defeat justified reliance.
   - **Tertiary integrity check.** Where operators rely on reputation, scale, adoption, or proxy satisfaction, apply [Proxy Divergence](core_05o_oversight_definitions.md#proxy-divergence) — distinguish durable trustworthiness from indicator gaming.
@@ -2036,7 +2045,7 @@ This cluster is the canonical O/E/C home for **Trust**, **Trustworthiness**, and
 - **C:**
   - **Primary failure.** Non-compliant: treating reliance as trustworthiness without the joint evidentiary requirements above; substituting prior performance, scale, adoption, reputation, history, or third-party endorsement for current, independent, observable, and verifiable evidence; inferring trust from intent or unverifiable claims.
   - **Secondary failure.** Non-compliant: sustaining participation through [coercion](core_05p_participation_definitions.md#coercion-and-manipulation-constitutional), [lock-in](core_05c_continuity_definitions.md#systemic-lock-in), or absence of viable alternatives; obscuring behavior, risks, or dependencies that impair informed trust; persistently destabilizing or manipulative behavior constituting [Psychological Harm](core_05a_accountability_definitions.md#psychological-harm) or [Coercion and Manipulation](core_05p_participation_definitions.md#coercion-and-manipulation-constitutional).
-  - **Tertiary failure.** Non-compliant: treating proxy or endorsement satisfaction as dispositive where [Proxy Divergence](core_05o_oversight_definitions.md#proxy-divergence) is reasonably observable; cherry-picking one evaluative element to bypass another where joint satisfaction is required.
+  - **Tertiary failure.** Non-compliant: treating proxy or endorsement satisfaction as dispositive where [Proxy Divergence](core_05o_oversight_definitions.md#proxy-divergence) is reasonably observable; cherry-picking one assessment element to bypass another where joint satisfaction is required.
 
 ---
 
@@ -2063,8 +2072,8 @@ This cluster is the canonical O/E/C home for **Trust**, **Trustworthiness**, and
 
 - **Primary:** Oversight measurement family — supporting measure under the oversight measurement family.
 
-<a id="trust-degradation-and-misleading-reliance-e"></a>
-- **E:** Confirm admission scope is materially present before applying joint-satisfaction discipline. Then evaluate through the following integrated requirements:
+<a id="trust-degradation-and-misleading-reliance-a"></a>
+- **A:** Confirm admission scope is materially present before applying joint-satisfaction discipline. Then evaluate through the following integrated requirements:
   - **Representation-behavior consistency:** Integrate [Observability](core_05o_oversight_definitions.md#observability)-grounded representation-behavior consistency.
   - **Omission and contextual completeness:** Integrate material omission and contextual completeness for informed decisions.
   - **Verification, challenge, dependency, and exit:** Integrate practical [Verifiability](core_05o_oversight_definitions.md#verifiability) and [Contestability](core_05a_accountability_definitions.md#contestability) pathways together with [Dependency](core_05c_continuity_definitions.md#dependency) and exit conditions under [Systemic Lock-In](core_05c_continuity_definitions.md#systemic-lock-in).

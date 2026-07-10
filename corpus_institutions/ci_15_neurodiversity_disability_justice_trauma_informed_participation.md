@@ -9,15 +9,15 @@
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Contestability](../core_05a_accountability_definitions.md#contestability) · [O](../core_05a_accountability_definitions.md#contestability) · [E](../core_05a_accountability_definitions.md#contestability-e) · [C](../core_05a_accountability_definitions.md#contestability-c)
-- [Accessibility](../core_05p_participation_definitions.md#accessibility-constitutional) · [O](../core_05p_participation_definitions.md#accessibility-constitutional) · [E](../core_05p_participation_definitions.md#accessibility-constitutional-e) · [C](../core_05p_participation_definitions.md#accessibility-constitutional-c)
-- [Governance](../core_05a_accountability_definitions.md#governance) · [O](../core_05a_accountability_definitions.md#governance) · [E](../core_05a_accountability_definitions.md#governance-e) · [C](../core_05a_accountability_definitions.md#governance-c)
-- [Necessity](../core_05a_accountability_definitions.md#necessity) · [O](../core_05a_accountability_definitions.md#necessity) · [E](../core_05a_accountability_definitions.md#necessity-e) · [C](../core_05a_accountability_definitions.md#necessity-c)
-- [Procedural Fairness](../core_05p_participation_definitions.md#procedural-fairness-constitutional) · [O](../core_05p_participation_definitions.md#procedural-fairness-constitutional) · [E](../core_05p_participation_definitions.md#procedural-fairness-constitutional-e) · [C](../core_05p_participation_definitions.md#procedural-fairness-constitutional-c)
-- [Protected Characteristics](../core_05p_participation_definitions.md#protected-characteristics-constitutional) · [O](../core_05p_participation_definitions.md#protected-characteristics-constitutional) · [E](../core_05p_participation_definitions.md#protected-characteristics-constitutional-e) · [C](../core_05p_participation_definitions.md#protected-characteristics-constitutional-c)
-- [Stakeholder Emergency and Contingency](../core_05c_continuity_definitions.md#stakeholder-emergency-and-contingency) · [O](../core_05c_continuity_definitions.md#stakeholder-emergency-and-contingency) · [E](../core_05c_continuity_definitions.md#stakeholder-emergency-and-contingency-e) · [C](../core_05c_continuity_definitions.md#stakeholder-emergency-and-contingency-c)
+- [Contestability](../core_05a_accountability_definitions.md#contestability) · [O](../core_05a_accountability_definitions.md#contestability) · [A](../core_05a_accountability_definitions.md#contestability-a) · [C](../core_05a_accountability_definitions.md#contestability-c)
+- [Accessibility](../core_05p_participation_definitions.md#accessibility-constitutional) · [O](../core_05p_participation_definitions.md#accessibility-constitutional) · [A](../core_05p_participation_definitions.md#accessibility-constitutional-a) · [C](../core_05p_participation_definitions.md#accessibility-constitutional-c)
+- [Governance](../core_05a_accountability_definitions.md#governance) · [O](../core_05a_accountability_definitions.md#governance) · [A](../core_05a_accountability_definitions.md#governance-a) · [C](../core_05a_accountability_definitions.md#governance-c)
+- [Necessity](../core_05a_accountability_definitions.md#necessity) · [O](../core_05a_accountability_definitions.md#necessity) · [A](../core_05a_accountability_definitions.md#necessity-a) · [C](../core_05a_accountability_definitions.md#necessity-c)
+- [Procedural Fairness](../core_05p_participation_definitions.md#procedural-fairness-constitutional) · [O](../core_05p_participation_definitions.md#procedural-fairness-constitutional) · [A](../core_05p_participation_definitions.md#procedural-fairness-constitutional-a) · [C](../core_05p_participation_definitions.md#procedural-fairness-constitutional-c)
+- [Protected Characteristics](../core_05p_participation_definitions.md#protected-characteristics-constitutional) · [O](../core_05p_participation_definitions.md#protected-characteristics-constitutional) · [A](../core_05p_participation_definitions.md#protected-characteristics-constitutional-a) · [C](../core_05p_participation_definitions.md#protected-characteristics-constitutional-c)
+- [Stakeholder Emergency and Contingency](../core_05c_continuity_definitions.md#stakeholder-emergency-and-contingency) · [O](../core_05c_continuity_definitions.md#stakeholder-emergency-and-contingency) · [A](../core_05c_continuity_definitions.md#stakeholder-emergency-and-contingency-a) · [C](../core_05c_continuity_definitions.md#stakeholder-emergency-and-contingency-c)
 
 </details>
 

@@ -29,7 +29,7 @@ Read: Only those sections, not full files
 
 | Split Here | Never Split Here |
 |------------|------------------|
-| After `---` | Inside O/E/C components |
+| After `---` | Inside O/M/A/C components |
 | Before `### ` | Inside `<details>` |
 | After `</details>` | Mid-table |
 | Between definitions | Mid-sentence |

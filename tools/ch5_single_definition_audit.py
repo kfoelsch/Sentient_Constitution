@@ -129,7 +129,7 @@ def body_until_next_heading(lines: list[str], heading_idx: int, max_depth: int) 
 
 
 def owns_oec(body: str) -> bool:
-    # Recognize both the letter markers (- O: / - E: / - C:) and the
+    # Recognize both the letter markers (- O: / - A: / - C:) and the
     # reader-facing guidepost headers used by measurement-migrated terms
     # (What it is / How to measure and assess / What must hold).
     has_o = bool(
@@ -137,7 +137,7 @@ def owns_oec(body: str) -> bool:
         or re.search(r"^-\s+\*\*What it is\*\*", body, re.MULTILINE)
     )
     has_ec = bool(
-        re.search(r"^-\s+(?:\*\*)?[EC](?::|\*\*:)", body, re.MULTILINE)
+        re.search(r"^-\s+(?:\*\*)?[AC](?::|\*\*:)", body, re.MULTILINE)
         or re.search(
             r"^-\s+\*\*(?:How to measure and assess|What must hold)\*\*",
             body,

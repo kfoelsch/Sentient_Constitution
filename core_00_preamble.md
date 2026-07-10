@@ -34,7 +34,7 @@ We intend to build better systems — structured to eliminate these imbalances �
 - <a id="flourishing"></a>**Flourishing** — sentient wellbeing sustained through truth, safety, trustworthiness, and meaningful agency
 - <a id="continuity"></a>**Continuity** — long-horizon stability, sustainability, resilience, and ecological wellbeing
 
-Those aims must be pursued together, always within the non-negotiable principle constraints and rights protections established in this Constitution. The [**Constitutional Tetrad**](#constitutional-tetrad) governs how that pursuit remains legitimate: **participation**, **oversight**, **accountability**, and **timeliness** scaled to [**material stake**](#material-stake). Binding O/E/C definitions for Tetrad legs and constitutional aims live in Chapter Five: [Participation](core_05p_participation_definitions.md#participation-constitutional), [Oversight](core_05o_oversight_definitions.md#oversight-constitutional), [Accountability](core_05a_accountability_definitions.md#accountability), [Timeliness](core_05a_accountability_definitions.md#timeliness-constitutional), [Flourishing](core_05f_flourishing_aim.md#flourishing-constitutional), and [Continuity (Constitutional Aim)](core_05g_continuity_aim.md#continuity-aim-constitutional).
+Those aims must be pursued together, always within the non-negotiable principle constraints and rights protections established in this Constitution. The [**Constitutional Tetrad**](#constitutional-tetrad) governs how that pursuit remains legitimate: **participation**, **oversight**, **accountability**, and **timeliness** scaled to [**material stake**](#material-stake). Binding O/M/A/C definitions for Tetrad legs and constitutional aims live in Chapter Five: [Participation](core_05p_participation_definitions.md#participation-constitutional), [Oversight](core_05o_oversight_definitions.md#oversight-constitutional), [Accountability](core_05a_accountability_definitions.md#accountability), [Timeliness](core_05a_accountability_definitions.md#timeliness-constitutional), [Flourishing](core_05f_flourishing_aim.md#flourishing-constitutional), and [Continuity (Constitutional Aim)](core_05g_continuity_aim.md#continuity-aim-constitutional).
 
 <a id="2-the-measurements"></a>
 <a id="measurements-overview"></a>
@@ -84,9 +84,9 @@ Constitutional stewardship starts with naming the problem and the [**material st
 
 #### 3.2 Key Governance Processes
 
-Where Chapter Six, [Chapter Seven](core_07-07_system_alignment_certification.md#chapter-seven-system-alignment-certification), incorporated instruments, or other constitutional provisions expressly require it, take material constitutional issues into one or more of the paths below. The [Key Practical Process Pipelines](#5-key-practical-process-pipelines) translate measurement into records, certification, verified inputs, classification, forum supervision, correction, and timely remedy — how authorized governance is tested, contested, and repaired in practice. They do not authorize governance by themselves; they make governance reviewable, contestable, correctable, and timely. [Section 5](#5-key-practical-process-pipelines) states that pipeline in full.
+Where Chapter Six, [Chapter Seven](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification), incorporated instruments, or other constitutional provisions expressly require it, take material constitutional issues into one or more of the paths below. The [Key Practical Process Pipelines](#5-key-practical-process-pipelines) translate measurement into records, certification, verified inputs, classification, forum supervision, correction, and timely remedy — how authorized governance is tested, contested, and repaired in practice. They do not authorize governance by themselves; they make governance reviewable, contestable, correctable, and timely. [Section 5](#5-key-practical-process-pipelines) states that pipeline in full.
 
-- **System alignment certification** ([Chapter Seven](core_07-07_system_alignment_certification.md#chapter-seven-system-alignment-certification)) — before a high-impact system is trusted at scale, gather and review evidence on whether it is constitutionally safe to rely on right now
+- **System alignment certification** ([Chapter Seven](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification)) — before a high-impact system is trusted at scale, gather and review evidence on whether it is constitutionally safe to rely on right now
 - **Standing records** ([Chapter Eight](core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)) — when conduct or harm matters constitutionally, place verified facts into formal contribution or violation case files; rumors and reputation are not enough
 - **Correction and remedy** ([Chapter Nine §3.11](core_09-09_standing_integration.md#redress-remedy-and-restoration-in-the-standing-model)) — fix the underlying failure and provide proportionate acknowledgment, repair, restoration, or compensation for those harmed
 - **Forum review** ([Chapter Eleven](core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction)) — route disputes and certification challenges through supervised forums that support evidence, lawful transfer, and timely clocks under **Article XXIV-C**
@@ -113,20 +113,20 @@ Each summary states what the chapter does and what it produces.
 - **What it does:** States the Constitution's guiding values and constraints — wellbeing, fairness, Safety, Truth, Trust, bounded freedom, recognition and proportional reward for lawful contribution, conflict resolution among principles, and stewardship duties including distributed understanding, systemic evaluation, and governance discipline.
 - **What it produces:** The interpretive foundation for every later chapter — the rules that turn high-level aims into operative requirements when systems, rights, definitions, or process pipelines must be read and applied.
 
-**Chapter Two — Definition structure** ([`core_02-04_definition_mechanics.md`](core_02-04_definition_mechanics.md))
+**Chapter Two — Definition structure** ([`core_02-03_definition_mechanics.md`](core_02-03_definition_mechanics.md))
 
-- **What it does:** Defines how constitutional terms are built — the Ontological/Evaluative/Compliance (O/E/C) component structure, alignment requirements, and component rules that keep definitions precise and usable across the corpus.
+- **What it does:** Defines how constitutional terms are built — the Ontological/Measurement/Assessment/Compliance (O/M/A/C) component structure, alignment requirements, and component rules that keep definitions precise and usable across the corpus.
 - **What it produces:** A shared grammar for definitions so later chapters do not fall into vague labels, hidden assumptions, or incompatible term shapes.
 
-**Chapter Three — Definition integrity** ([`core_02-04_definition_mechanics.md`](core_02-04_definition_mechanics.md))
+**Chapter Three — Definition integrity** ([`core_02-03_definition_mechanics.md`](core_02-03_definition_mechanics.md))
 
 - **What it does:** Guards against evasion, scope-shifting, redefinition games, and non-compliance tricks that would hollow definitions on paper while defeating them in practice.
 - **What it produces:** Anti-evasion discipline and non-compliance orientation metadata — including routing hooks toward standing and misconduct review where evasion is substantiated.
 
-**Chapter Four — Burden, traceability, and verification** ([`core_02-04_definition_mechanics.md`](core_02-04_definition_mechanics.md))
+**Chapter Four — Burden, traceability, and verification** ([`core_02-03_definition_mechanics.md`](core_02-03_definition_mechanics.md))
 
 - **What it does:** Puts the proof burden on whoever claims compliance; requires traceable evidence, observability, and verification that scale to [**material stake**](#material-stake) and remain practically challengeable.
-- **What it produces:** The verification pipeline that feeds **verified inputs** in [Chapter Eight](core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) and system-alignment evidence in [Chapter Seven](core_07-07_system_alignment_certification.md#chapter-seven-system-alignment-certification) — without replacing standing classification itself.
+- **What it produces:** The verification pipeline that feeds **verified inputs** in [Chapter Eight](core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) and system-alignment evidence in [Chapter Seven](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) — without replacing standing classification itself.
 
 **Chapter Five — Foundational definitions** ([`core_05-05_definitions_a_independent.md`](core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions))
 
@@ -147,7 +147,7 @@ Chapters Seven through Eleven link into one practical chain. Together they turn 
 
 Each step below states what the process does and what it produces.
 
-**System alignment certification** ([Chapter Seven](core_07-07_system_alignment_certification.md#chapter-seven-system-alignment-certification))
+**System alignment certification** ([Chapter Seven](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification))
 
 - **What it does:** Ensures systems with material impact stay constitutionally aligned.
   - Before a system that materially affects sentients can be recognized or relied on at scale, evidence is gathered and reviewed under forum supervision
@@ -182,7 +182,7 @@ Each step below states what the process does and what it produces.
 
 Think of it as a path from system check to remedy — with forums supervising the dispute and standing steps throughout:
 
-1. **Certify the system when impact is serious enough** ([Chapter Seven](core_07-07_system_alignment_certification.md#chapter-seven-system-alignment-certification)) — before a high-impact system is trusted at scale, get a contestable alignment record: is it constitutionally safe to rely on *right now*?
+1. **Certify the system when impact is serious enough** ([Chapter Seven](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification)) — before a high-impact system is trusted at scale, get a contestable alignment record: is it constitutionally safe to rely on *right now*?
 2. **Measure standing on separate tracks** ([Chapter Eight](core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)) — when good conduct or harm is serious enough to matter constitutionally, Chapter Eight opens formal case files, admits only **verified inputs** (including system-alignment certification evidence from Chapter Seven when that evidence is material), and classifies what was verified. Rumors, reputations, and dispute stories are not enough.
    - **Contribution state:** Open a **contribution standing record** — a bounded, challengeable case file for verified help toward flourishing — and classify **contribution state** on the Contribution Axis.
    - **Violation state:** Open a **violation standing record** — a bounded, challengeable case file for verified harm and accountability failures — and classify **violation nature** on the Violation Axis. Good and harm never fold into one net score; linked records cross-reference but stay separate.

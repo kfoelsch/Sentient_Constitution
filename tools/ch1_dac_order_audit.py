@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
-"""Audit Chapter One D/E/C widget row order for drift-sensitive sections.
+"""Audit Chapter One D/A/C widget row order for drift-sensitive sections.
 
 This checker intentionally validates a small set of high-value widgets instead
 of trying to infer semantic order everywhere. Expected order lives in
-tools/architecture/ch1_dec_order.json (rule NAV-DEC-CH1-ORDER).
+tools/architecture/ch1_dac_order.json (rule NAV-DAC-CH1-ORDER).
 """
 
 from __future__ import annotations
@@ -17,11 +17,11 @@ _TOOLS = Path(__file__).resolve().parent
 if str(_TOOLS) not in sys.path:
     sys.path.insert(0, str(_TOOLS))
 
-from architecture.load_config import ch1_dec_order_expected  # noqa: E402
+from architecture.load_config import ch1_dac_order_expected  # noqa: E402
 
 DEC_SUMMARY = (
     '<summary><strong><span style="color: #2563eb;">'
-    "Definitions · Evaluation · Compliance</span></strong></summary>"
+    "Definitions · Assessment · Compliance</span></strong></summary>"
 )
 ROW_RE = re.compile(r"^\s*-\s+\[(?P<name>[^\]]+)\]\(")
 ANNOTATION_ROW_RE = re.compile(r"^\s*-\s+\*[^*]+\*")
@@ -43,7 +43,7 @@ def extract_widget_rows(lines: list[str], heading: str) -> tuple[int, list[str]]
             dec_idx = i
             break
     if dec_idx is None:
-        raise ValueError(f"missing D/E/C widget after heading: {heading}")
+        raise ValueError(f"missing D/A/C widget after heading: {heading}")
 
     rows: list[str] = []
     for i in range(dec_idx + 1, len(lines)):
@@ -61,11 +61,11 @@ def extract_widget_rows(lines: list[str], heading: str) -> tuple[int, list[str]]
         if PROSE_ANNOTATION_RE.match(stripped):
             continue
         raise ValueError(
-            f"unexpected non-row content in D/E/C widget for {heading} "
+            f"unexpected non-row content in D/A/C widget for {heading} "
             f"at line {i + 1}: {stripped}"
         )
 
-    raise ValueError(f"unterminated D/E/C widget after heading: {heading}")
+    raise ValueError(f"unterminated D/A/C widget after heading: {heading}")
 
 
 def main() -> int:
@@ -87,9 +87,9 @@ def main() -> int:
             continue
         lines.extend(path.read_text(encoding="utf-8").splitlines())
     if not lines:
-        print("FAIL: Chapter One D/E/C order audit — no Chapter One content found.")
+        print("FAIL: Chapter One D/A/C order audit — no Chapter One content found.")
         return 1
-    expected_map = ch1_dec_order_expected()
+    expected_map = ch1_dac_order_expected()
 
     for heading, expected in expected_map.items():
         try:
@@ -101,7 +101,7 @@ def main() -> int:
             failures.append(
                 "\n".join(
                     [
-                        f"Chapter One:{line_no}: D/E/C order drift under {heading}",
+                        f"Chapter One:{line_no}: D/A/C order drift under {heading}",
                         f"  expected: {expected}",
                         f"  actual:   {actual}",
                     ]
@@ -109,12 +109,12 @@ def main() -> int:
             )
 
     if failures:
-        print("FAIL: Chapter One D/E/C order drift detected.")
+        print("FAIL: Chapter One D/A/C order drift detected.")
         for failure in failures:
             print(failure)
         return 1
 
-    print("PASS: Chapter One D/E/C widgets preserve expected functional order.")
+    print("PASS: Chapter One D/A/C widgets preserve expected functional order.")
     return 0
 
 

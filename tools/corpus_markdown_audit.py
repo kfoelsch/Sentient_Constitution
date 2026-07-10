@@ -195,7 +195,7 @@ DEFAULT_THEMATIC_BREAK_TARGETS: tuple[str, ...] = (
     "core_05a_accountability_definitions.md",
     "core_05c_continuity_definitions.md",
     "core_05i_integrative_definitions.md",
-    "core_07-07_system_alignment_certification.md",
+    "core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation",
     "core_08-08_standing_assessment.md",
     "core_09-09_standing_integration.md",
     "core_10-10_misconduct.md",
@@ -311,12 +311,12 @@ def main() -> int:
 
     s65 = slice_between(
         ch4_text,
-        "#### 2.2 Mandatory traceability properties",
+        "### 2. Definition Traceability Requirement",
         "### 3. Observability of Traceability Requirement",
     )
     if s65 is None:
         findings.append(
-            "Could not slice Chapter Four §2.2 (missing heading or section 3 boundary)"
+            "Could not slice Chapter Four §2 (missing heading or section 3 boundary)"
         )
     else:
         findings.extend(

@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
-"""Chapter Five anchor-presence and D/E/C widget row-shape integrity audit.
+"""Chapter Five anchor-presence and D/A/C widget row-shape integrity audit.
 
-Rule: NAV-DEC-12 in tools/architecture/rule_registry.json.
+Rule: NAV-DAC-12 in tools/architecture/rule_registry.json.
 
 This audit supersedes the one-off ``tools/verify_dec_anchors.py`` check by
 running as a blocking regression gate alongside the other ``make regression``
@@ -24,13 +24,13 @@ audits. It enforces two invariants:
      ``- C:`` body bullets. No ``-e`` / ``-c`` anchors required.
    - **Content gaps** (``MISSING_C``) — entries that have an ``- E:`` bullet
      but deliberately lack a top-level ``- C:`` bullet (pending future
-     authoring). The ``-c`` anchor requirement is relaxed; D/E/C widget rows
+     authoring). The ``-c`` anchor requirement is relaxed; D/A/C widget rows
      pointing at those entries fall back to the entry heading anchor for the
      C link.
 
-2. **D/E/C widget row-shape and anchor resolution.** Across the consumer core
-   files (``core_00_preamble.md`, `core_01_a_values_principles.md`, and `core_01_c_stewardship_capacity_principles.md``, ``core_02-04_definition_mechanics.md``,
-   the four Chapter Eleven parts), every line inside a D/E/C widget that appears
+2. **D/A/C widget row-shape and anchor resolution.** Across the consumer core
+   files (``core_00_preamble.md`, `core_01_a_values_principles.md`, and `core_01_c_stewardship_capacity_principles.md``, ``core_02-03_definition_mechanics.md``,
+   the four Chapter Eleven parts), every line inside a D/A/C widget that appears
    to be a widget row must match the canonical shape:
 
        - [Name](core_05a_accountability_definitions.md#slug) · [O](...) · [E](...) · [C](...)
@@ -45,11 +45,11 @@ audits. It enforces two invariants:
 
 Run from the repository root:
 
-    make ch5-dec-widget-audit
+    make ch5-dac-widget-audit
 
 or directly:
 
-    python3 tools/ch5_dec_widget_audit.py --root .
+    python3 tools/ch5_dac_widget_audit.py --root .
 
 Exits 0 on PASS, non-zero on any violation.
 """
@@ -72,15 +72,15 @@ CH5_FILENAME = CH5_PART_A
 # Longest first so ``substantive-fairness-constitutional-e`` matches
 # ``…-constitutional`` base when present, not ``substantive-fairness``.
 _WIDGET_SLUG_SUFFIXES = (
-    "-constitutional-e",
+    "-constitutional-a",
     "-constitutional-c",
     "-constitutional",
     "-o",
-    "-e",
+    "-a",
     "-c",
 )
 
-# Files that host D/E/C widgets or inline Definition: lines. Chapter Five
+# Files that host D/A/C widgets or inline Definition: lines. Chapter Five
 # itself does not host widgets (definitions live there), but its own heading
 # anchors must still resolve — so Chapter Five is the canonical anchor source
 # rather than a consumer.
@@ -89,7 +89,7 @@ CONSUMERS = [
     "core_01_a_values_principles.md",
     "core_01_b_interaction_interpretation.md",
     "core_01_c_stewardship_capacity_principles.md",
-    "core_02-04_definition_mechanics.md",
+    "core_02-03_definition_mechanics.md",
     "core_08-08_standing_assessment.md",
     "core_09-09_standing_integration.md",
     "core_10-10_misconduct.md",
@@ -145,7 +145,7 @@ INLINE_ANCHOR_TAG_RE = re.compile(r'<a id="([^"]+)"></a>')
 
 DEC_SUMMARY_RE = re.compile(
     r'<summary><strong><span style="color: #2563eb;">'
-    r"Definitions · Evaluation · Compliance</span></strong></summary>"
+    r"Definitions · Assessment · Compliance</span></strong></summary>"
 )
 TRACE_SUMMARY_RE = re.compile(
     r'<summary><strong><span style="color: #2563eb;">'
@@ -154,7 +154,7 @@ TRACE_SUMMARY_RE = re.compile(
 DETAILS_OPEN_RE = re.compile(r"^\s*<details>\s*$")
 DETAILS_CLOSE_RE = re.compile(r"^\s*</details>\s*$")
 
-# Canonical widget-row shape inside a D/E/C widget block. The separator is
+# Canonical widget-row shape inside a D/A/C widget block. The separator is
 # middle-dot with single spaces. Each href must point into Chapter Five.
 #
 # Example:
@@ -163,7 +163,7 @@ ROW_RE = re.compile(
     r"^\s*-\s+"
     r"\[(?P<name>[^\]]+)\]\((?P<link>[^)]+)\)"
     r"\s+·\s+\[O\]\((?P<o>[^)]+)\)"
-    r"\s+·\s+\[E\]\((?P<e>[^)]+)\)"
+    r"\s+·\s+\[A\]\((?P<a>[^)]+)\)"
     r"\s+·\s+\[C\]\((?P<c>[^)]+)\)"
     r"\s*$"
 )
@@ -175,12 +175,12 @@ INLINE_RE = re.compile(
     r'^<strong><span style="color: #2563eb;">Definition:</span></strong>'
     r"\s+\[(?P<name>[^\]]+)\]\((?P<link>[^)]+)\)"
     r"\s+·\s+\[O\]\((?P<o>[^)]+)\)"
-    r"\s+·\s+\[E\]\((?P<e>[^)]+)\)"
+    r"\s+·\s+\[A\]\((?P<a>[^)]+)\)"
     r"\s+·\s+\[C\]\((?P<c>[^)]+)\)"
     r"\s*$"
 )
 
-# A loose "row-like" detector for catching mis-shaped rows inside a D/E/C
+# A loose "row-like" detector for catching mis-shaped rows inside a D/A/C
 # widget. We treat any line starting with a list bullet followed by a markdown
 # link as a candidate, so we can flag shape violations that ROW_RE does not
 # match.
@@ -353,7 +353,7 @@ def scan_entry_body(lines: list[str], heading_idx: int) -> dict[str, object]:
         # terms (What it is / How to measure and assess / What must hold).
         if stripped.startswith("- O:") or stripped.startswith("- **What it is**"):
             has_o = True
-        elif stripped.startswith("- E:") or stripped.startswith(
+        elif stripped.startswith("- A:") or stripped.startswith(
             "- **How to measure and assess**"
         ):
             has_e = True
@@ -415,11 +415,11 @@ def audit_chapter_five(ch5_path: Path) -> list[str]:
         lineno = idx + 1
         inline_anchors = body["inline_anchors"]
 
-        # An entry with - O: should also have - E: and - C: (unless MISSING_C).
+        # An entry with - O: should also have - A: and - C: (unless MISSING_C).
         if not body["has_e"]:
             violations.append(
                 f"{ch5_path}:{lineno}: Chapter Five entry '{slug}' has '- O:' "
-                f"but is missing a top-level '- E:' bullet"
+                f"but is missing a top-level '- A:' bullet"
             )
         if slug not in MISSING_C and not body["has_c"]:
             violations.append(
@@ -428,12 +428,12 @@ def audit_chapter_five(ch5_path: Path) -> list[str]:
                 f"MISSING_C exception set)"
             )
 
-        # -e anchor is required when - E: is present.
-        if body["has_e"] and f"{slug}-e" not in inline_anchors:
+        # -a anchor is required when - A: is present.
+        if body["has_e"] and f"{slug}-a" not in inline_anchors:
             violations.append(
                 f"{ch5_path}:{lineno}: Chapter Five entry '{slug}' is "
-                f"missing expected anchor <a id=\"{slug}-e\"></a> above the "
-                f"'- E:' bullet"
+                f"missing expected anchor <a id=\"{slug}-a\"></a> above the "
+                f"'- A:' bullet"
             )
         # -c anchor is required when - C: is present and not in MISSING_C.
         if (
@@ -462,7 +462,7 @@ def slug_from_ch5_href(href: str) -> str | None:
 def audit_widgets_in_file(
     path: Path, anchors: set[str]
 ) -> list[str]:
-    """Scan ``path`` for D/E/C widget blocks and inline Definition: lines,
+    """Scan ``path`` for D/A/C widget blocks and inline Definition: lines,
     returning violation strings.
 
     Checks:
@@ -481,14 +481,14 @@ def audit_widgets_in_file(
     n = len(lines)
     while i < n:
         line = lines[i]
-        # Detect a D/E/C widget: <details> followed by the DEC summary.
+        # Detect a D/A/C widget: <details> followed by the DEC summary.
         if DETAILS_OPEN_RE.match(line):
             # Peek next non-blank line.
             j = i + 1
             while j < n and lines[j].strip() == "":
                 j += 1
             if j < n and DEC_SUMMARY_RE.search(lines[j]):
-                # This is a D/E/C widget block. Walk until </details>.
+                # This is a D/A/C widget block. Walk until </details>.
                 block_start = i + 1
                 k = j + 1
                 while k < n and not DETAILS_CLOSE_RE.match(lines[k]):
@@ -514,24 +514,24 @@ def audit_widgets_in_file(
                     # Mis-shaped row-like line.
                     if ROW_LIKE_RE.match(raw):
                         violations.append(
-                            f"{path}:{k + 1}: D/E/C widget row does not "
+                            f"{path}:{k + 1}: D/A/C widget row does not "
                             f"match canonical shape "
-                            f"'- [Name](...) · [O](...) · [E](...) · [C](...)': "
+                            f"'- [Name](...) · [O](...) · [A](...) · [C](...)': "
                             f"{stripped}"
                         )
                         k += 1
                         continue
-                    # Other non-empty content inside a D/E/C widget is a
+                    # Other non-empty content inside a D/A/C widget is a
                     # shape violation.
                     violations.append(
                         f"{path}:{k + 1}: unexpected non-row content inside "
-                        f"D/E/C widget block (started line {block_start}): "
+                        f"D/A/C widget block (started line {block_start}): "
                         f"{stripped}"
                     )
                     k += 1
                 if k >= n:
                     violations.append(
-                        f"{path}:{block_start}: unterminated D/E/C widget "
+                        f"{path}:{block_start}: unterminated D/A/C widget "
                         f"<details> block"
                     )
                     i = n
@@ -546,12 +546,12 @@ def audit_widgets_in_file(
         elif line.lstrip().startswith(
             '<strong><span style="color: #2563eb;">Definition:'
         ):
-            # Shape looks like an inline D/E/C line but didn't match INLINE_RE.
+            # Shape looks like an inline D/A/C line but didn't match INLINE_RE.
             violations.append(
                 f"{path}:{i + 1}: inline 'Definition:' line does not match "
                 f"canonical shape "
                 f"'<strong>...Definition:</strong> [Name](...) · [O](...) · "
-                f"[E](...) · [C](...)'"
+                f"[A](...) · [C](...)'"
             )
         i += 1
 
@@ -569,25 +569,25 @@ def validate_row(
     name = match.group("name")
     link_href = match.group("link")
     o_href = match.group("o")
-    e_href = match.group("e")
+    a_href = match.group("a")
     c_href = match.group("c")
 
     for label, href in (
         ("link", link_href),
         ("O", o_href),
-        ("E", e_href),
+        ("A", a_href),
         ("C", c_href),
     ):
         slug = slug_from_ch5_href(href)
         if slug is None:
             violations.append(
-                f"{path}:{lineno}: D/E/C row [{name}] {label}-link does not "
+                f"{path}:{lineno}: D/A/C row [{name}] {label}-link does not "
                 f"point into Chapter Five: {href}"
             )
             continue
         if not anchor_resolves_for_widget(slug, anchors):
             violations.append(
-                f"{path}:{lineno}: D/E/C row [{name}] {label}-link anchor "
+                f"{path}:{lineno}: D/A/C row [{name}] {label}-link anchor "
                 f"#{slug} does not resolve in Chapter Five ({', '.join(CH5_ALL)})"
             )
     return violations
@@ -631,7 +631,7 @@ def main() -> int:
         for v in violations:
             print(v, file=sys.stderr)
         print(
-            f"\nFAIL: {len(violations)} Chapter Five anchor / D/E/C widget "
+            f"\nFAIL: {len(violations)} Chapter Five anchor / D/A/C widget "
             f"integrity violation(s).",
             file=sys.stderr,
         )
@@ -639,7 +639,7 @@ def main() -> int:
 
     print(
         "PASS: Chapter Five definition entries carry canonical anchors and "
-        "all D/E/C widget rows resolve to live Chapter Five anchors."
+        "all D/A/C widget rows resolve to live Chapter Five anchors."
     )
     return 0
 

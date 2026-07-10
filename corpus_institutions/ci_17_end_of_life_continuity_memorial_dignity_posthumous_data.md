@@ -9,15 +9,15 @@
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Irreversible Deprivation Measure](../core_05a_accountability_definitions.md#irreversible-deprivation-measure-constitutional) · [O](../core_05a_accountability_definitions.md#irreversible-deprivation-measure-constitutional) · [E](../core_05a_accountability_definitions.md#irreversible-deprivation-measure-constitutional-e) · [C](../core_05a_accountability_definitions.md#irreversible-deprivation-measure-constitutional-c)
-- [Voluntary Discontinuation](../core_05c_continuity_definitions.md#voluntary-discontinuation-constitutional) · [O](../core_05c_continuity_definitions.md#voluntary-discontinuation-constitutional) · [E](../core_05c_continuity_definitions.md#voluntary-discontinuation-constitutional-e) · [C](../core_05c_continuity_definitions.md#voluntary-discontinuation-constitutional-c)
-- [Accessibility](../core_05p_participation_definitions.md#accessibility-constitutional) · [O](../core_05p_participation_definitions.md#accessibility-constitutional) · [E](../core_05p_participation_definitions.md#accessibility-constitutional-e) · [C](../core_05p_participation_definitions.md#accessibility-constitutional-c)
-- [Transparency](../core_05o_oversight_definitions.md#transparency) · [O](../core_05o_oversight_definitions.md#transparency) · [E](../core_05o_oversight_definitions.md#transparency-e) · [C](../core_05o_oversight_definitions.md#transparency-c)
-- [Material](../core_05o_oversight_definitions.md#material) · [O](../core_05o_oversight_definitions.md#material) · [E](../core_05o_oversight_definitions.md#material-e) · [C](../core_05o_oversight_definitions.md#material-c)
-- [Consent](../core_05p_participation_definitions.md#consent-constitutional) · [O](../core_05p_participation_definitions.md#consent-constitutional) · [E](../core_05p_participation_definitions.md#consent-constitutional-e) · [C](../core_05p_participation_definitions.md#consent-constitutional-c)
-- [Dignity and Equal Moral Standing](../core_05p_participation_definitions.md#dignity-and-equal-moral-standing) · [O](../core_05p_participation_definitions.md#dignity-and-equal-moral-standing) · [E](../core_05p_participation_definitions.md#dignity-and-equal-moral-standing-e) · [C](../core_05p_participation_definitions.md#dignity-and-equal-moral-standing-c)
+- [Irreversible Deprivation Measure](../core_05a_accountability_definitions.md#irreversible-deprivation-measure-constitutional) · [O](../core_05a_accountability_definitions.md#irreversible-deprivation-measure-constitutional) · [A](../core_05a_accountability_definitions.md#irreversible-deprivation-measure-constitutional-a) · [C](../core_05a_accountability_definitions.md#irreversible-deprivation-measure-constitutional-c)
+- [Voluntary Discontinuation](../core_05c_continuity_definitions.md#voluntary-discontinuation-constitutional) · [O](../core_05c_continuity_definitions.md#voluntary-discontinuation-constitutional) · [A](../core_05c_continuity_definitions.md#voluntary-discontinuation-constitutional-a) · [C](../core_05c_continuity_definitions.md#voluntary-discontinuation-constitutional-c)
+- [Accessibility](../core_05p_participation_definitions.md#accessibility-constitutional) · [O](../core_05p_participation_definitions.md#accessibility-constitutional) · [A](../core_05p_participation_definitions.md#accessibility-constitutional-a) · [C](../core_05p_participation_definitions.md#accessibility-constitutional-c)
+- [Transparency](../core_05o_oversight_definitions.md#transparency) · [O](../core_05o_oversight_definitions.md#transparency) · [A](../core_05o_oversight_definitions.md#transparency-a) · [C](../core_05o_oversight_definitions.md#transparency-c)
+- [Material](../core_05o_oversight_definitions.md#material) · [O](../core_05o_oversight_definitions.md#material) · [A](../core_05o_oversight_definitions.md#material-a) · [C](../core_05o_oversight_definitions.md#material-c)
+- [Consent](../core_05p_participation_definitions.md#consent-constitutional) · [O](../core_05p_participation_definitions.md#consent-constitutional) · [A](../core_05p_participation_definitions.md#consent-constitutional-a) · [C](../core_05p_participation_definitions.md#consent-constitutional-c)
+- [Dignity and Equal Moral Standing](../core_05p_participation_definitions.md#dignity-and-equal-moral-standing) · [O](../core_05p_participation_definitions.md#dignity-and-equal-moral-standing) · [A](../core_05p_participation_definitions.md#dignity-and-equal-moral-standing-a) · [C](../core_05p_participation_definitions.md#dignity-and-equal-moral-standing-c)
 
 </details>
 
