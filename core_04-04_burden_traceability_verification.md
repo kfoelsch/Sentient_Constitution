@@ -186,7 +186,7 @@ Where uncertainty prevents definitive demonstration of compliance for materially
 
 - Upstream: [Chapter Two — Definition Structure and Component Requirements](core_02-03_definition_mechanics.md#chapter-two-definition-structure-and-component-requirements); [Chapter Three — Definition Integrity, Evasion, and Non-Compliance](core_02-03_definition_mechanics.md#chapter-three-definition-integrity-evasion-and-non-compliance); [Chapter Four, sections 1 through 5](#1-exclusive-enforcement-and-burden-allocation).
 - Downstream: [Chapter Seven — System Alignment Certification](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification); [Chapter Eight — Contribution, Violation, and Standing Model](core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model).
-- Read with: [Chapter Seven §16 — Reopening, Drift, and Non-Evasion](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) — verified non-compliance under Chapters Two through Four can reopen or defeat certification regardless of prior recognition.
+- Read with: [Chapter Seven §16 — Reopening, Misalignment, and Non-Evasion](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) — verified non-compliance under Chapters Two through Four can reopen or defeat certification regardless of prior recognition.
 
 </details>
 

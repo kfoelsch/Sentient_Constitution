@@ -74,18 +74,7 @@ _DRIFT_ALLOWLIST_STRIP = [
     re.compile(r"\bdrift-prone\b", re.I),
     re.compile(r"\bdrift checks\b", re.I),
     re.compile(r"\bhigh-confidence drift\b", re.I),
-    re.compile(r"\bDefects and drift\b", re.I),
-    re.compile(r"\bMisclassification and drift\b", re.I),
-    re.compile(
-        r"\b(?:control|competency|extraction|accessibility|handling|footprint|system-class|"
-        r"secrecy-duration|path-dependent|retaliatory|assessment-opacity|credential-gatekeeping|"
-        r"imposed-obsolescence|false-trust|perverse-incentive|recovery-integrity|"
-        r"discrimination-pattern|proxy|data-type|credential|reclassification|handling|"
-        r"footprint misrepresentation and|misrepresentation and|resource-flow misrepresentation, extraction|"
-        r"discrimination-pattern|accessibility|assessment-opacity|credential gatekeeping, and imposed-obsolescence|"
-        r"false-trust|perverse-incentive|recovery-integrity) drift\b",
-        re.I,
-    ),
+    re.compile(r"\bMisclassification and misalignment\b", re.I),
 ]
 
 _RIGHTS_FLOOR_CASING = re.compile(r"\b(?:rights floor|rights floors|rights-floor)\b")
@@ -277,6 +266,17 @@ def run_internal_regression_checks() -> None:
     if len(standing_calculus_findings) != 1:
         raise RuntimeError(
             "Internal regression failed: 'standing calculus' was not flagged or backtick masking broke.",
+        )
+    drift_findings = scan_avoid_bare_drift(
+        "internal-regression.md",
+        "**Defects and drift.** Must be flagged.\n"
+        "Accessibility drift must be evaluated.\n"
+        "Classification drift and version drift remain allowed.\n"
+        "See Part B §16 reopening-drift-and-non-evasion.\n",
+    )
+    if len(drift_findings) != 2:
+        raise RuntimeError(
+            "Internal regression failed: stewardship-sense drift was not flagged or custody compounds broke.",
         )
 
 
@@ -690,7 +690,7 @@ def report_markdown(run_date: str, scope: list[str], findings: list[Finding]) ->
         "- **`avoid-court-family`:** reject **court** / **courts** in institutional senses → prefer **forum** / **forums**, **forum family**, or **adjudicative body**.",
         "- **`avoid-tribunal-family`:** reject internal Chapter Eleven / forum-governance **tribunal** / **tribunals** → prefer **forum** / **forums**, **forum family**, **panel**, **bench**, or **adjudicative body**. **Allowed:** external or historical tribunal wording where source fidelity or external legal-order references require it.",
         "- **`avoid-standing-calculus`:** reject **standing calculus** / **standing-calculus** (undefined jargon) → prefer **standing-record classification under Chapter Eight**, **classify standing records** on the Contribution and Violation axes, or other explicit Chapter Eight wording.",
-        "- **`avoid-bare-drift`:** reject bare **drift** for stewardship, governance, incentive, or alignment divergence → prefer **misalignment** or **constitutional misalignment**. **Allowed:** **anti-drift**, **classification drift**, **version drift**, **editorial drift**, **cross-layer drift**, **Defects and drift**, certification compounds (`extraction drift`, etc.), and `reopening-drift` anchors.",
+        "- **`avoid-bare-drift`:** reject bare **drift** for stewardship, governance, incentive, or alignment divergence → prefer **misalignment** or **constitutional misalignment**. **Allowed:** **anti-drift**, **classification drift**, **version drift**, **editorial drift**, **cross-layer drift**, **Misclassification and misalignment**, and `reopening-drift` anchors.",
         "- **`load-bearing-rights-floor-casing`:** reject lowercase **rights floor**, **rights floors**, and **rights-floor** outside Markdown link targets and inline code → use **Rights Floor**, **Rights Floors**, or **Rights-Floor** for the named Chapter Six layer.",
         "- **`load-bearing-foundational-rights-casing`:** reject **Foundational rights** / **foundational rights** outside Markdown link targets and inline code → use **Foundational Rights** when naming the Chapter Six title or layer.",
         "- **`avoid-should-not-prohibitions`:** reject **should not** in corpus prose → use **must not** for binding negative constraints.",
