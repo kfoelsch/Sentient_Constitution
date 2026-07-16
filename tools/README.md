@@ -31,7 +31,7 @@ Put a **blank line before** `---` when you mean a horizontal rule between sectio
 
 `reference_audit.py` builds the **canonical Chapter Six map** from merged `### Article …:` headings in `core_06-06_rights_part_*.md` (falling back across part files as needed). If a citation fails the audit, fix the citing file or the heading—not the audit script.
 
-`apply_article_cite_gloss.py` adds missing **REF-ARTICLES-GLOSS** parenthetical titles to bare `**Article …**` and `[Article …](url)` cites in Chapter Six part files (see `doc_architecture.md` section 7). Run after heading renames or bulk cite cleanup; review combined-label and bullet-specific edge cases by hand.
+`apply_article_cite_gloss.py` adds missing **REF-ARTICLES-GLOSS** parenthetical titles to bare `**Article …**`, `[Article …](url)`, and unbolded `Article …` cites across the binding corpus (see `doc_architecture.md` section 7). Run after heading renames or bulk cite cleanup; review combined-label and bullet-specific edge cases by hand.
 
 `ch5_trace_crosslink_audit.py` enforces the Chapter Five navigation-metadata rule: `Read with:` lines belong inside each entry's local `Trace` / `<details>` block, not in operative prose after the block closes. It does not ban selective same-file cross-definition links in O / E / C body text.
 

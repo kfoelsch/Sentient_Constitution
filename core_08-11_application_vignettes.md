@@ -53,11 +53,11 @@ Years-long cycles: vague “welfare checks,” reputation gossip, family-forum d
 | --- | --- |
 | 1 | **Protected report** received; **CI-16** care-economy intake routes to child-protection remedy organ and **Sentient** or **Institutional** forum family per primary stakes. |
 | 2 | **Tier A intake** under **CF-11.3.1**; evidence preservation (home visit records, school logs, platform schedule exports) begins concurrently. |
-| 3 | **Interim protection** (supervised care, respite placement, or in-home support bundle) without waiting for full merits — **Article XXIV-C Tier A**. |
+| 3 | **Interim protection** (supervised care, respite placement, or in-home support bundle) without waiting for full merits — **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*) Tier A. |
 | 4 | Forum produces **verified violation finding** → open **axis-pure violation standing record** on guardian and, if verified, **institutional vehicle** record on platform scheduling policy ([Chapter Eight §2](core_08-08_standing_assessment.md#2-standing-records)). |
 | 5 | **Question 1** ([Chapter Eight §3](core_08-08_standing_assessment.md#6-classification-evaluation-dimensions)): **Interpersonal / Care Duty Misconduct** + **Negligent Misconduct**; dependency-asymmetric **materiality** elevates severity; likely `s` = 4–5 pending LEQU calibration. |
 | 6 | **Question 2** ([Chapter Nine §3.1](core_09-09_standing_integration.md#310-non-recurrence-lock-dimensions)): **Safeguard Lock** + **protective participation lock** on unsupervised custody routes; **pathway-scoped** blocks on sole-custody authority until verified monitoring and respite plan. |
-| 7 | **Remedy**: restitution bundle (food, care access, stable housing link), platform schedule relief, and monitored care plan — **Article XXIII-B** joint requirements. |
+| 7 | **Remedy**: restitution bundle (food, care access, stable housing link), platform schedule relief, and monitored care plan — **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*) joint requirements. |
 | 8 | If verified platform policy **forecloses exit** from exploitative scheduling, linked record cross-references **Exit and Lock-In Misconduct** on institutional route. |
 
 #### Milestone table (Tier A defaults)
@@ -165,7 +165,7 @@ Arbitration clauses, shell subcontractors, years of “market efficiency” defe
 #### Must not happen
 
 - Counting revenue growth as **Contribution Axis** credit while lock-in injury remains open.
-- Forum treating arbitration clause as permanent bar to **Article XII-B** access.
+- Forum treating arbitration clause as permanent bar to **Article XII-B** (*Right to Challenge, Review, and Redress*) access.
 - Efficiency arguments that skip verification or individualized attribution (**Chapter One §9.2**).
 
 <br>
@@ -183,7 +183,7 @@ Arbitration clauses, shell subcontractors, years of “market efficiency” defe
 | Stewardship | [Chapter One §9.1](core_01_c_stewardship_capacity_principles.md#91-stewardship) — tetrad **timeliness** leg; [Stewardship Defect](core_05c_continuity_definitions.md#stewardship-defect-constitutional) when chronic delay after notice |
 | Q1 classification | [Chapter Eight §3 dual-use](core_08-08_standing_assessment.md#dual-use-classification-dimensions) — **Response timeliness / avoidable delay** aggravates violation `s` = 4–5 |
 | Q2 integration | [Chapter Nine §3.1](core_09-09_standing_integration.md#310-non-recurrence-lock-dimensions) — **Remedy commencement / pipeline delay** row |
-| Pipeline clocks | [Chapter Eleven §10](core_11-11_forum.md#10-timely-resolution-materiality-tiers-and-anti-delay-discipline); [Article XXIV-C](core_06-06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor); **CF-11.3.1** Tier B windows |
+| Pipeline clocks | [Chapter Eleven §10](core_11-11_forum.md#10-timely-resolution-materiality-tiers-and-anti-delay-discipline); [Article XXIV-C](core_06-06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*); **CF-11.3.1** Tier B windows |
 
 **Must not happen:** Treating post-notice deferral as sufficient stewardship when correction was feasible; counting throughput metrics as **Contribution Axis** credit while delay compounds harm.
 
@@ -213,7 +213,7 @@ Arbitration clauses, shell subcontractors, years of “market efficiency” defe
 | No offset across axes | [Chapter Eight §2.2](core_08-08_standing_assessment.md#22-linked-records-and-no-offset-bridge) |
 | Forums ≠ standing-record classification | [Chapter Eight §2.3.7](core_08-08_standing_assessment.md#237-forum-boundary) |
 | Tetrad timeliness leg | [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad); [Timeliness](core_05a_accountability_definitions.md#timeliness-constitutional) |
-| Timely + efficient + just together | [Article XXIV-C](core_06-06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor) |
+| Timely + efficient + just together | [Article XXIV-C](core_06-06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*) |
 | Numeric tier floors | [CF-11.3.1](corpus_forum/cf_11_performance_backlog_publication_accessibility.md#cf-1131-target-windows-and-timing-floors) |
 
 ---

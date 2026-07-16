@@ -182,7 +182,7 @@ Chapter Fourteen is the constitutional owner of **additive expansion of protecti
 
 - Upstream: [Chapter Thirteen](core_13-15_amendment.md#chapter-thirteen-non-regression-and-substantive-amendment-validity) non-regression and Test 1; [Authority Stack and Internal Hierarchy](core_05i_integrative_definitions.md#authority-stack), [Supremacy and Enforceability](core_05i_integrative_definitions.md#supremacy-and-enforceability), and related [Corpus](core_05i_integrative_definitions.md#corpus) boundary concepts.
 - Subsections: [§1](#1-additive-expansion-permitted)–[§3](#2-continuity-of-supremacy-and-challenge-rights-during-amendment); [§11](#3-supremacy-relative-to-other-binding-norms)–[§2](#4-disputes-involving-external-legal-orders).
-- Downstream: [Chapter Fifteen](core_13-15_amendment.md#chapter-fifteen-amendment-ratification-and-procedural-validity) adoption and supremacy continuity during amendment; [Article XXIII-A](core_06-06_rights_part_d.md) review pathways preserved against external process gaps; [Chapter Ten, section 7.2 — *Rights-Floor waivers and unconstitutional contract terms*](core_10-10_misconduct.md#62-rights-floor-waivers-and-unconstitutional-contract-terms) where external-order interfaces implicate waiver or pseudo-contract devices.
+- Downstream: [Chapter Fifteen](core_13-15_amendment.md#chapter-fifteen-amendment-ratification-and-procedural-validity) adoption and supremacy continuity during amendment; [Article XXIII-A](core_06-06_rights_part_d.md) (*Justice Objective and Scope*) review pathways preserved against external process gaps; [Chapter Ten, section 7.2 — *Rights-Floor waivers and unconstitutional contract terms*](core_10-10_misconduct.md#62-rights-floor-waivers-and-unconstitutional-contract-terms) where external-order interfaces implicate waiver or pseudo-contract devices.
 - Read with: **[corpus_systems.md](corpus_systems.md)** and **Protocol C** references in operative text on cross-jurisdiction execution; [Chapter Eight, section 11 — *Enforcement Realism Anchors*](core_09-09_standing_integration.md#10-enforcement-realism-anchors) where cited in §3.3; [Corpus, Authority Stack, Supremacy, and Enforceability](core_05a_accountability_definitions.md#corpus-authority-stack-supremacy-and-enforceability-cluster) (*Chapter Five Chapter One §8.16 cluster — read with [Corpus](core_05i_integrative_definitions.md#corpus) for custody and adoption*).
 
 </details>
@@ -298,7 +298,7 @@ Cross-jurisdiction coordination and anti-evasion execution follow **[corpus_syst
 
 - Upstream: [§11.3](#33-conflict-disclosure-and-mitigation) documented conflict handling.
 - Subsections: [Chapter One §8.1](#41-good-faith-cooperation); [Chapter One §8.2](#42-preserved-internal-pathways).
-- Downstream: [Article XXIII-A](core_06-06_rights_part_d.md) constitutional interpretation and review where external process is insufficient.
+- Downstream: [Article XXIII-A](core_06-06_rights_part_d.md) (*Justice Objective and Scope*) constitutional interpretation and review where external process is insufficient.
 - Read with: [Chapter Fourteen §2](#2-continuity-of-supremacy-and-challenge-rights-during-amendment) non-suspension of challenge rights during amendment.
 
 </details>
@@ -329,7 +329,7 @@ Adopters must cooperate in good faith with competent external tribunals and regu
 
 - Upstream: [Chapter One §8.1](#41-good-faith-cooperation) cooperation duty.
 - Downstream: [Chapter Fifteen](core_13-15_amendment.md#chapter-fifteen-amendment-ratification-and-procedural-validity) procedural validity for waivers tied to adoption instruments.
-- Read with: [Article XXIII-A](core_06-06_rights_part_d.md) review and appeal safeguards referenced in operative text; [Chapter Ten, section 7.2 — *Rights-Floor waivers and unconstitutional contract terms*](core_10-10_misconduct.md#62-rights-floor-waivers-and-unconstitutional-contract-terms).
+- Read with: [Article XXIII-A](core_06-06_rights_part_d.md) (*Justice Objective and Scope*) review and appeal safeguards referenced in operative text; [Chapter Ten, section 7.2 — *Rights-Floor waivers and unconstitutional contract terms*](core_10-10_misconduct.md#62-rights-floor-waivers-and-unconstitutional-contract-terms).
 
 </details>
 
@@ -337,7 +337,7 @@ Adopters must cooperate in good faith with competent external tribunals and regu
 
 *In plain terms: if an outside process cannot deliver timely, real protection, the constitution's own review and appeal routes stay open — boilerplate waivers demanded just to use a product or service do not erase those rights where the chapter applies.*
 
-Constitutional interpretation, appeal, and review pathways under **Article XXIII-A** remain available where external processes do not provide substitute protection within reasonable time and scope. Waivers of challenge rights, standing, or audit rights demanded as a condition of ordinary commercial convenience alone are **anti-constitutional misconduct** within the scope of [Chapter Ten, section 7.2 — *Rights-Floor waivers and unconstitutional contract terms*](core_10-10_misconduct.md#62-rights-floor-waivers-and-unconstitutional-contract-terms), and are **never binding** where applicable. The same **non-binding** discipline applies to agreement terms that purport to waive Rights-Floor protections or to override binding constitutional obligations, as stated in that section.
+Constitutional interpretation, appeal, and review pathways under **Article XXIII-A** (*Justice Objective and Scope*) remain available where external processes do not provide substitute protection within reasonable time and scope. Waivers of challenge rights, standing, or audit rights demanded as a condition of ordinary commercial convenience alone are **anti-constitutional misconduct** within the scope of [Chapter Ten, section 7.2 — *Rights-Floor waivers and unconstitutional contract terms*](core_10-10_misconduct.md#62-rights-floor-waivers-and-unconstitutional-contract-terms), and are **never binding** where applicable. The same **non-binding** discipline applies to agreement terms that purport to waive Rights-Floor protections or to override binding constitutional obligations, as stated in that section.
 
 ---
 
@@ -384,7 +384,7 @@ This Constitution may be amended to improve protection, clarity, binding effect,
 
 - Upstream: [Chapter Fifteen](#chapter-fifteen-amendment-ratification-and-procedural-validity) validity stack; [Chapter Six](core_06-06_rights_part_a.md#chapter-six-foundational-rights) Rights Floor.
 - Downstream: [§3](#2-burden-of-justification-and-public-traceability) public justification; [§14](#7-review-triggers) automatic triggers list.
-- Read with: [Article XI](core_06-06_rights_part_b.md#article-xi-stakeholder-system-participation-representation-and-due-process) family for materially rights-affecting process design.
+- Read with: [Article XI](core_06-06_rights_part_b.md#article-xi-stakeholder-system-participation-representation-and-due-process) (*Stakeholder System Participation, Representation, and Due Process*) family for materially rights-affecting process design.
 
 </details>
 
@@ -464,7 +464,7 @@ A proposed amendment is invalid where the instrument of adoption, edition identi
 
 - Upstream: [§1](#1-heightened-review-for-rights-affecting-changes) independent review expectation; [§4](#9-test-3-authority-chain-and-custody-validity) custody baseline.
 - Downstream: [§14](#7-review-triggers) automatic heightened review; [§13](#8-provisional-effect-rule) irreversible effect timing.
-- Read with: [Article XXIII-A](core_06-06_rights_part_d.md) review and contest pathways.
+- Read with: [Article XXIII-A](core_06-06_rights_part_d.md) (*Justice Objective and Scope*) review and contest pathways.
 
 </details>
 
@@ -493,7 +493,7 @@ A proposed amendment is invalid if it:
 
 Heightened review is automatically triggered for amendments that materially affect any of the following:
 - rights (**Chapter Six**)
-- constitutional interpretation and review safeguards (**Article XXIII-A**)
+- constitutional interpretation and review safeguards (**Article XXIII-A** (*Justice Objective and Scope*))
 - standing effects ([Chapter Eight, section 4 — *Standing Effects*](core_09-09_standing_integration.md#5-standing-effects); read with [section 4.1](core_08-08_standing_assessment.md#33-primary-category-defaults-and-lequ-slot-baseline) — Contribution Axis and standing-effect rules)
 - emergency powers
 - cross-jurisdiction enforcement pathways
@@ -600,7 +600,7 @@ Adopters must maintain an identifiable instrument of adoption. Examples include 
 
 *In plain terms: new adopters can come aboard under published rules — but expanding the club cannot be a back door to dilute rights or challenge rights for those already **covered** without their genuine, procedurally valid consent.*
 
-Additional parties may **join** as adopters under rules published by existing adopters. **Joining** must not reduce Rights Floors or challenge rights for already-covered sentients without procedurally valid, informed participation. That participation must be consistent with Article X-B where participation weight applies.
+Additional parties may **join** as adopters under rules published by existing adopters. **Joining** must not reduce Rights Floors or challenge rights for already-covered sentients without procedurally valid, informed participation. That participation must be consistent with **Article X-B** (*Collective Harm Boundary and Enforcement Interface*) where participation weight applies.
 
 ### 11. Amendment Procedure Requirements
 <details>
@@ -623,7 +623,7 @@ Additional parties may **join** as adopters under rules published by existing ad
 
 - Upstream: [§12](#11-amendment-procedure-requirements) procedure requirements header.
 - Downstream: [§2](#4-test-2-procedural-validity-and-publication-integrity) overlaps with publication integrity; [§1](#1-heightened-review-for-rights-affecting-changes) heightened review for rights-affecting packages.
-- Read with: [Chapter Four](core_02-03_definition_mechanics.md) burden and tracing; [Article X-C](core_06-06_rights_part_b.md) for materially high-impact changes.
+- Read with: [Chapter Four](core_02-03_definition_mechanics.md) burden and tracing; [Article X-C](core_06-06_rights_part_b.md) (*Adult consensual commercial sexual services and sexual exploitation*) for materially high-impact changes.
 
 </details>
 
@@ -631,7 +631,7 @@ Additional parties may **join** as adopters under rules published by existing ad
 
 *In plain terms: put amendments out early and clearly enough that **affected** **stakeholders** can actually respond, keep a durable record of participation and objections, and keep review independent where this chapter says so.*
 
-Amendments must be proposed with sufficient specificity and advance publication for informed review and contest under **Chapter Four** burden and tracing requirements. Procedures must record participation, objections, and review independence consistent with **section 1** of this chapter and with Article X-C for materially high-impact changes.
+Amendments must be proposed with sufficient specificity and advance publication for informed review and contest under **Chapter Four** burden and tracing requirements. Procedures must record participation, objections, and review independence consistent with **section 1** of this chapter and with **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) for materially high-impact changes.
 
 #### 11.2 Recorded Effectiveness
 <details>

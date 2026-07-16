@@ -201,17 +201,17 @@ These measures ask whether sentients can see, verify, and rely on what materiall
 <br>
 
 - **What it is**
-  - **In scope:** Journalistic activity — newsgathering, source protection, investigation, and publication that functions as journalism — addressed as a function rather than as credential- or institution-conferred status. Sentients performing journalistic activity exercise the [Expression](core_05p_participation_definitions.md#expression-constitutional) and [Assembly](core_05p_participation_definitions.md#assembly-constitutional) Rights-Floor with heightened-scrutiny protection under [Article V-H](core_06-06_rights_part_b.md#article-v-h-expression-assembly-and-press) against state and operator actions whose function is to impair that activity.
+  - **In scope:** Journalistic activity — newsgathering, source protection, investigation, and publication that functions as journalism — addressed as a function rather than as credential- or institution-conferred status. Sentients performing journalistic activity exercise the [Expression](core_05p_participation_definitions.md#expression-constitutional) and [Assembly](core_05p_participation_definitions.md#assembly-constitutional) Rights-Floor with heightened-scrutiny protection under [Article V-H](core_06-06_rights_part_b.md#article-v-h-expression-assembly-and-press) (*Expression, Assembly, and Press*) against state and operator actions whose function is to impair that activity.
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 <a id="press-and-journalistic-activity-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Oversight measurement family — supporting measure under the oversight measurement family.
 
-    **Primary assessment:** Identify journalistic activity by function — newsgathering, source protection, investigation, or publication serving the information environment — not by credential, title, organizational form, or institutional status. Detect press-directed actions via substantive effect, treating press-directed character as an aggravating factor under Article XIII-A and Article V-H. Apply heightened [Necessity](core_05a_accountability_definitions.md#necessity) and [Proportionality](core_05a_accountability_definitions.md#proportionality) scrutiny and narrow-tailoring discipline.
+    **Primary assessment:** Identify journalistic activity by function — newsgathering, source protection, investigation, or publication serving the information environment — not by credential, title, organizational form, or institutional status. Detect press-directed actions via substantive effect, treating press-directed character as an aggravating factor under **Article XIII-A** (*Security, Intelligence, and Covert-Power Limits*) and **Article V-H** (*Expression, Assembly, and Press*). Apply heightened [Necessity](core_05a_accountability_definitions.md#necessity) and [Proportionality](core_05a_accountability_definitions.md#proportionality) scrutiny and narrow-tailoring discipline.
 <a id="press-and-journalistic-activity-constitutional-c"></a>
 - **What must hold**
   - **Primary failure:** state or operator actions whose function is to impair journalistic activity and that do not satisfy heightened-scrutiny limitations analysis;
-  - **Secondary failure:** read-ups of [Good Faith](core_05a_accountability_definitions.md#good-faith) or Article VIII-C publication-integrity standards that operate to bar lawful critical reporting, investigative publication, or dissent;
+  - **Secondary failure:** read-ups of [Good Faith](core_05a_accountability_definitions.md#good-faith) or **Article VIII-C** (*Truthful Publication and High-Impact Publication Limits*) publication-integrity standards that operate to bar lawful critical reporting, investigative publication, or dissent;
   - **Tertiary failure:** credential- or institution-gating treated as the test for this entry, rather than functional journalistic activity.
 
 ---

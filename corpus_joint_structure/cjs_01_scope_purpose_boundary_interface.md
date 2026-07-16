@@ -148,7 +148,7 @@ Implementation files should point back here instead of repeating long boilerplat
     - Read [CJS-0.1](cjs_00_registry_and_reading_rules.md#cjs-01-cross-file-routing) (*Cross-file routing*) for how **primary owner** and **mandatory read-with** work.
     - Route through **CJS-2.1** (*Cross-implementation read-with contract*) for the authoritative integrator router table; apply **CJS-2.2** (*Intentional overlap (non-duplication discipline)*) for deliberately split topics.
     - Apply **CJS-3** (*Joint structural obligations (cross-domain requirements)*) for other joint requirements and **CJS-3.6** (*Implementation-label traceability and stricter-wins discipline*) for stricter-wins.
-  - Keep implementation text understandable under **Article XX**.
+  - Keep implementation text understandable under **Article XX** (*Comprehensibility and Complexity Stewardship*).
   - To find which section owns a topic: [CJS-0.1](cjs_00_registry_and_reading_rules.md#cjs-01-cross-file-routing), the integrator table in **CJS-2.1**, [topic_router_reader_index.md](../doc_architecture/generated/topic_router_reader_index.md) (generated grouped index), or `doc_architecture.md` section 2 (*Corpus roles*) for layer homes. For definition placement, use `doc_architecture.md` section 4 (*Project-wide definitions protocol*).
 
 This file does not create a separate authority stack. Use the constitutional **Authority Stack and Internal Hierarchy** in `core_05-05_definitions_c_dependent_clusters.md` **Chapter Five**, section **3.4** (*Corpus, Authority Stack, Supremacy, and Enforceability*), read with `core_16-16_incorporation.md` **Chapter Sixteen** for incorporation, edition custody, and anti-drift rules. Applied here:

@@ -89,7 +89,7 @@ Where Chapter Six, [Chapter Seven](core_07_a_system_alignment_certification_eval
 - **System alignment certification** ([Chapter Seven](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification)) — before a high-impact system is trusted at scale, gather and review evidence on whether it is constitutionally safe to rely on right now
 - **Standing records** ([Chapter Eight](core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)) — when conduct or harm matters constitutionally, place verified facts into formal contribution or violation case files; rumors and reputation are not enough
 - **Correction and remedy** ([Chapter Nine §3.11](core_09-09_standing_integration.md#redress-remedy-and-restoration-in-the-standing-model)) — fix the underlying failure and provide proportionate acknowledgment, repair, restoration, or compensation for those harmed
-- **Forum review** ([Chapter Eleven](core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction)) — route disputes and certification challenges through supervised forums that support evidence, lawful transfer, and timely clocks under **Article XXIV-C**
+- **Forum review** ([Chapter Eleven](core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction)) — route disputes and certification challenges through supervised forums that support evidence, lawful transfer, and timely clocks under **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*)
 
 <a id="governance-layer-discipline"></a>
 
@@ -135,7 +135,7 @@ Each summary states what the chapter does and what it produces.
 
 **Chapter Six — Foundational Rights** ([Part A](core_06-06_rights_part_a.md) · [Part B](core_06-06_rights_part_b.md) · [Part C](core_06-06_rights_part_c.md) · [Part D](core_06-06_rights_part_d.md))
 
-- **What it does:** States the Rights Floor in Articles **I–XXVI** — survival essentials, resource allocation and dependency stewardship, dignity, agency, participation, challenge and remedy, justice constraints, timeliness under **Article XXIV-C**, and transition rules — organized for planet-first reading across four parts.
+- **What it does:** States the Rights Floor in Articles **I–XXVI** — survival essentials, resource allocation and dependency stewardship, dignity, agency, participation, challenge and remedy, justice constraints, timeliness under **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*), and transition rules — organized for planet-first reading across four parts.
 - **What it produces:** Non-negotiable rights protections and remedy hooks that Chapters Seven through Eleven, forums, governance, and amendment rules must respect — not narrow, bypass, or hollow through procedure or proxy metrics.
 
 <a id="4-key-practical-process-pipelines"></a>
@@ -151,7 +151,7 @@ Each step below states what the process does and what it produces.
 
 - **What it does:** Ensures systems with material impact stay constitutionally aligned.
   - Before a system that materially affects sentients can be recognized or relied on at scale, evidence is gathered and reviewed under forum supervision
-  - Review scope includes whether the system respects survival essentials; **Article IV** resource allocation and dependency stewardship — including [Proportionate Cross-System Support](core_05c_continuity_definitions.md#proportionate-cross-system-support-constitutional) where shared-infrastructure reliance is materially at issue; safety; participation; and other constitutional floors
+  - Review scope includes whether the system respects survival essentials; **Article IV** (*Resource Allocation, Dependencies, and Ecosystem Funding*) resource allocation and dependency stewardship — including [Proportionate Cross-System Support](core_05c_continuity_definitions.md#proportionate-cross-system-support-constitutional) where shared-infrastructure reliance is materially at issue; safety; participation; and other constitutional floors
   - Sentients with standing can challenge the result
   - High-risk systems must be recertified on a regular schedule; certification is never permanent
 - **What it produces:** A **system alignment certification record** — a bounded, contestable answer to whether that system is aligned enough to recognize, continue relying on, deploy, or release from conditions *right now*, within a stated scope and time window.
@@ -175,7 +175,7 @@ Each step below states what the process does and what it produces.
 
 **Forum supervision and routing** ([Chapter Eleven](core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction))
 
-- **What it does:** Supervises how disputes and certification matters actually move — which forum family handles them, where a case ordinarily starts, how evidence is supported, how matters transfer or consolidate, and how anti-self-judging rules keep captured forums from being the sole final home. Clocks under **Article XXIV-C** keep cases from sitting unresolved so long that remedy no longer matters.
+- **What it does:** Supervises how disputes and certification matters actually move — which forum family handles them, where a case ordinarily starts, how evidence is supported, how matters transfer or consolidate, and how anti-self-judging rules keep captured forums from being the sole final home. Clocks under **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*) keep cases from sitting unresolved so long that remedy no longer matters.
 - **What it produces:** **Verified findings** that may open or update standing records, plus lawful routing toward remedy and [timely resolution](core_05a_accountability_definitions.md#timely-resolution-constitutional). Forums supervise the pipeline; they do not replace Chapter Eight standing-record classification.
 
 **How the full chain fits together**
@@ -188,7 +188,7 @@ Think of it as a path from system check to remedy — with forums supervising th
    - **Violation state:** Open a **violation standing record** — a bounded, challengeable case file for verified harm and accountability failures — and classify **violation nature** on the Violation Axis. Good and harm never fold into one net score; linked records cross-reference but stay separate.
 3. **Apply standing effects on each track** ([Chapter Nine](core_09-09_standing_integration.md#chapter-nine-standing-effects-and-integration)) — verified contribution can open competency gates and support proportionate recognition and material rewards; verified violation can trigger standing locks, correction, and [remedy for those harmed](core_09-09_standing_integration.md#redress-remedy-and-restoration-in-the-standing-model).
 4. **Proportionate escalation** ([Chapter Ten](core_10-10_misconduct.md#chapter-ten-anti-constitutional-misconduct)) — forums classify disputes into five [materiality tiers](core_11-11_forum.md#10-timely-resolution-materiality-tiers-and-anti-delay-discipline) (A/B/C/L/P) mirroring the system classification alphabet — from survival-critical urgency through private/contained matters; if the facts may support the highest violation slots, Tier A routes the matter to final top-slot review for anti-constitutional misconduct.
-5. **Route disputes and keep remedy timely** ([Chapter Eleven](core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction)) — forums supervise how cases move, which track handles them, and whether clocks under **Article XXIV-C** are met so remedy does not die in delay.
+5. **Route disputes and keep remedy timely** ([Chapter Eleven](core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction)) — forums supervise how cases move, which track handles them, and whether clocks under **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*) are met so remedy does not die in delay.
 
 The [Chapters Eight–Eleven constitutional process compass](core_08-08_standing_assessment.md#chapters-eight-eleven-constitutional-compass) walks through steps 2–5 in more detail. Chapter Seven supplies certification evidence that can feed step 2 when system alignment is part of what must be verified.
 

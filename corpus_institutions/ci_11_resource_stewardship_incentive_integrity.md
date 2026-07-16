@@ -60,7 +60,7 @@ The institution must publish who owns the trigger decision and the handoff route
 
 ### CI-11.3: Class-aligned fiscal orientation
 
-Taxes, access charges, and similar revenue are covered in **CI-10.1** and **CI-10.2** within **CI-10**. The **Article III-A** survival-floor and market link is in **CI-9.4**.
+Taxes, access charges, and similar revenue are covered in **CI-10.1** and **CI-10.2** within **CI-10**. The **Article III-A** (*Survival*) survival-floor and market link is in **CI-9.4**.
 
 ### CI-11.4: Local alignment duties
 

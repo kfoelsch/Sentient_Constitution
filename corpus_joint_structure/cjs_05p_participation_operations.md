@@ -31,8 +31,8 @@ This family operationalizes the **Participation** leg of the [Constitutional Tet
 - Read with: **CJS-5.11 and CJS-5.7**; **CJS-5.13**.
 - Read with: **CJS-5.11** (*Accountability: distributed and proportional authority terms*), **CJS-5.7** (*Participation: quorum and participatory legitimacy terms*), and **CJS-5.13** (*Accountability: procedural integrity and adjudication terms*) for authority, participation legitimacy, and procedural integrity terms
 - Read with: **Sentient Constitution Chapter Twelve** section 4
-- Read with: **Chapter Six Article IX-C**
-- Read with: **Chapter Six Article XI**
+- Read with: **Chapter Six **Article IX-C** (*Governance Participation and Voting Entitlement*)**
+- Read with: **Chapter Six **Article XI** (*Stakeholder System Participation, Representation, and Due Process*)**
 - Constitutional frame: **Participation** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05o_oversight_definitions.md#materiality-determination).
 - Chapter One basis: Chapter One §7.1, §3, §4.2, §11.4, §13, §6 (see [cluster map](#cjs-51-constitutional-compass-and-cluster-map)).
 </details>
@@ -71,7 +71,7 @@ Community and associational pathway integrity
 
 Foundational constitutional choice equality floor
 - OP-O: Where the decision is **Foundational Constitutional Choice**, eligible sentients participate under the political-equality floor: each eligible sentient has equal participation weight, subject only to lawful good-standing and restitution-linked limits recognized by the Constitution.
-- OP-E: Evaluation must verify equal-weight treatment, substrate-agnostic and age-neutral eligibility, good-standing or restitution predicates where invoked, contestability, opposition protection, peaceful-succession or reauthorization pathways, and compliance with Chapter Twelve section 4.1 and Article IX-C.
+- OP-E: Evaluation must verify equal-weight treatment, substrate-agnostic and age-neutral eligibility, good-standing or restitution predicates where invoked, contestability, opposition protection, peaceful-succession or reauthorization pathways, and compliance with Chapter Twelve section 4.1 and **Article IX-C** (*Governance Participation and Voting Entitlement*).
 - OP-C: Impact, dependency, stakeholder status, lineage, substrate class, calendar age, or ordinary stakeholder-participation weighting may not dilute foundational constitutional choice.
 
 Impact coverage
@@ -91,12 +91,12 @@ Participation
 
 Quorum source and binding-effect gate
 - OP-O: Quorum, threshold, turnout, supermajority, multi-step confirmation, and binding-effect rules must be published before the decision event and tied to the correct constitutional or stakeholder layer.
-- OP-E: Evaluation must verify the source of quorum authority, the eligible participation pool, denominator treatment, abstention and non-response treatment, threshold calculation, tie or failure handling, emergency sequencing, and whether Article XI-A or other binding-effect gates were satisfied before implementation.
+- OP-E: Evaluation must verify the source of quorum authority, the eligible participation pool, denominator treatment, abstention and non-response treatment, threshold calculation, tie or failure handling, emergency sequencing, and whether **Article XI-A** (*Stakeholder System Participation and Representation*) or other binding-effect gates were satisfied before implementation.
 - OP-C: Post-hoc quorum formulas, undisclosed denominator changes, emergency shortcuts without mandatory forum review, or implementation of a high-impact decision before required legitimacy gates are satisfied are non-compliant.
 
 Stakeholder governance participation floor
-- OP-O: Where the decision occurs inside already-authorized governance for a specified system, institution, or bounded decision domain, **Stakeholder** identification, participation pathways, and any **Stakeholder Participation Weight** must be proportionate to material impact and dependency and must satisfy Article XI and Chapter Twelve section 4.3.
-- OP-E: Evaluation must verify stakeholder mapping, affected-class coverage, local deliberation where required, plural evaluation for high-impact choices, representation and weighting limits, rights-collision records, dissent or alternative records, reopening paths, and Article XI-A legitimacy gates for materially high-impact collective choice.
+- OP-O: Where the decision occurs inside already-authorized governance for a specified system, institution, or bounded decision domain, **Stakeholder** identification, participation pathways, and any **Stakeholder Participation Weight** must be proportionate to material impact and dependency and must satisfy **Article XI** (*Stakeholder System Participation, Representation, and Due Process*) and Chapter Twelve section 4.3.
+- OP-E: Evaluation must verify stakeholder mapping, affected-class coverage, local deliberation where required, plural evaluation for high-impact choices, representation and weighting limits, rights-collision records, dissent or alternative records, reopening paths, and **Article XI-A** (*Stakeholder System Participation and Representation*) legitimacy gates for materially high-impact collective choice.
 - OP-C: Token consultation, dominance-prone weighting, missing affected classes, or stakeholder procedures that purport to authorize or reauthorize the **Constitutional Contract Layer** questions of governing authority, the governance-layer mechanism, or the scope and durable terms of that authority are non-compliant.
 
 Stakeholder oversight and binding-governance pathway integrity
@@ -225,7 +225,7 @@ Summary integrity
 - Read with: **CJS-5.9** (*Participation: salience integrity and attention-allocation terms*) and **CJS-5.10** (*Participation: disclosure sufficiency and observability terms*) — System Status, Risk, and Scope Representation
 - Read with: **CJS-5.10 — Transparency and Disclosure**
 - Read with: **CJS-5.21 — Adversarial Robustness and Abuse Resistance**
-- Read with: **Article XV-A**
+- Read with: **Article XV-A** (*Auditability and Observable Evidence*)
 - Read with: **Chapter Six** incentive-alignment constraints
 - Constitutional frame: **Participation** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05o_oversight_definitions.md#materiality-determination).
 - Chapter One basis: §8, §2.2, §3, §12.1, §13 (see [cluster map](#cjs-51-constitutional-compass-and-cluster-map)).
@@ -310,8 +310,8 @@ User agency and control
 - Topic routing (mandatory read-with): **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CJS-4.3**.
 - Read with: **CJS-5.10 — Transparency and Disclosure**
 - Read with: **CJS-5.16 — Dependency Awareness, Disclosure, and Risk Integrity** where dependencies matter
-- Read with: **Article XV-A**
-- Read with: **Article VII-B**
+- Read with: **Article XV-A** (*Auditability and Observable Evidence*)
+- Read with: **Article VII-B** (*Internal-State Boundary and Type-N Protection*)
 - Constitutional frame: **Participation** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05o_oversight_definitions.md#materiality-determination).
 - Chapter One basis: §2.2, §11.2, §12.1, §13 (see [cluster map](#cjs-51-constitutional-compass-and-cluster-map)).
 </details>
@@ -350,7 +350,7 @@ Minimum disclosure content set
 - OP-C: Leaving out a material assumption, risk, limit, dependency, criterion, or decision factor is non-compliant if the omission would make affected parties less able to understand, verify, participate, or challenge.
 
 Private internal-state boundary and external observability attribution
-- OP-O: Transparency does not give anyone a right to expose protected private internal states under **Article VII-B**. But actions, outputs, external effects, decisions, and responsibility must still be observable and attributable.
+- OP-O: Transparency does not give anyone a right to expose protected private internal states under **Article VII-B** (*Internal-State Boundary and Type-N Protection*). But actions, outputs, external effects, decisions, and responsibility must still be observable and attributable.
 - OP-E: Reviewers must check both sides of the boundary: privacy must be protected, and accountability for external behavior must remain possible.
 - OP-C: It is non-compliant either to force unlawful exposure of private internal states or to use privacy as an excuse to hide observable conduct, impacts, decision paths, or responsible actors.
 

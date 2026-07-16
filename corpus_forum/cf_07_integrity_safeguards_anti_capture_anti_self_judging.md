@@ -398,7 +398,7 @@ An Integrity forum may issue any of the following within lawful scope:
 <br>
 
 
-Where Environment forum review is required, final recognition, validation, revalidation, or material release from environmental conditions must not issue while a timely Environment forum objection remains pending. The same bar applies while an unresolved remediation condition or certified environmental question remains pending. An Integrity forum may issue deferred or conditional recognition only if the record explains why interim operation remains compatible with Article I. The record must also identify environmental limits and monitoring, and preserve Environment forum review and reopening authority.
+Where Environment forum review is required, final recognition, validation, revalidation, or material release from environmental conditions must not issue while a timely Environment forum objection remains pending. The same bar applies while an unresolved remediation condition or certified environmental question remains pending. An Integrity forum may issue deferred or conditional recognition only if the record explains why interim operation remains compatible with **Article I** (*Environmental Survival*). The record must also identify environmental limits and monitoring, and preserve Environment forum review and reopening authority.
 
 #### CF-7.2.6 Component Referrals and Certification
 <details>

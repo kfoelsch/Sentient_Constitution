@@ -171,7 +171,7 @@ Forensic and analytical support must leave a record that later reviewers can fol
 - uncertainty statements, assumptions, and limits;
 - access, retention, segregation, and disclosure handling for restricted or sensitive material.
 
-Evidence handling must satisfy Chapter Five [Evidence Preservation](../core_05o_oversight_definitions.md#evidence-preservation). Access to restricted evidence must also satisfy **Chapter Five** (*Auditability*, *Verifiability*, *Verification Accessibility*, *Transparency*), `core_02-03_definition_mechanics.md` **Chapters Two through Four** security-constrained observability requirements, `corpus_systems.md` restricted-data rules, and `core_06-06_rights_part_c.md` **Article XV-A** plus Article XV's verification-access provisions.
+Evidence handling must satisfy Chapter Five [Evidence Preservation](../core_05o_oversight_definitions.md#evidence-preservation). Access to restricted evidence must also satisfy **Chapter Five** (*Auditability*, *Verifiability*, *Verification Accessibility*, *Transparency*), `core_02-03_definition_mechanics.md` **Chapters Two through Four** security-constrained observability requirements, `corpus_systems.md` restricted-data rules, and `core_06-06_rights_part_c.md` **Article XV-A** (*Auditability and Observable Evidence*) plus **Article XV** (*Audit, Transparency, and Independent Verification*)'s verification-access provisions.
 
 ### CF-8.5 Reports, explanations, and emergency preservation
 <details>

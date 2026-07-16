@@ -127,8 +127,8 @@ Transparency, audit, and verification-integrity duties
 - Read with: **CJS-5.3 — Auditability**
 - Read with: **CJS-5.10 — Transparency and Disclosure**
 - Read with: **CJS-5.4 — Tiered Transparency and Audit Access**
-- Read with: **Article XV-A**
-- Read with: **Article VII-B**
+- Read with: **Article XV-A** (*Auditability and Observable Evidence*)
+- Read with: **Article VII-B** (*Internal-State Boundary and Type-N Protection*)
 - Constitutional frame: **Oversight** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05o_oversight_definitions.md#materiality-determination).
 - Chapter One basis: §2.2, §3, §12.1, §12.2 (see [cluster map](#cjs-51-constitutional-compass-and-cluster-map)).
 </details>
@@ -156,8 +156,8 @@ auditability and reconstructability terms
 - OP-E: Evaluation must assess all relevant system components, dependencies, institutional roles, and implementation-layer interactions together.
 - OP-C: It is non-compliant to claim auditability when a material component has not been fully evaluated, is unavailable to qualified review, or is unusable for reconstruction.
 
-Article VII-B boundary and anti-concealment rule
-- OP-O: **Article VII-B** protects private internal states, but that protection does not excuse systems from showing what they did, why it mattered, who or what was responsible, and what external effects followed.
+**Article VII-B** (*Internal-State Boundary and Type-N Protection*) boundary and anti-concealment rule
+- OP-O: **Article VII-B** (*Internal-State Boundary and Type-N Protection*) protects private internal states, but that protection does not excuse systems from showing what they did, why it mattered, who or what was responsible, and what external effects followed.
 - OP-E: Evaluation must verify that privacy limits protect internal states without preventing lawful audit of actions, outputs, decisions, effects, responsibilities, or control pathways.
 - OP-C: It is non-compliant to invoke internal-state protection in a way that conceals accountability-relevant system behavior or prevents lawful reconstruction of external facts.---
 
@@ -189,8 +189,8 @@ Operational transparency and structured logging requirements
 - Read with: **CJS-5.20** (*Continuity: reversibility and containment terms*) and **CJS-5.18** (*Continuity: data-retention and lifecycle-integrity terms*) — Reversibility and Containment
 - Read with: **Chapter One §6.3.1 — Rights-Collision Decision Test**
 - Read with: **`corpus_forum.md` CF-12 through CF-14 — Forum continuity, fallback operation, and emergency adjudication**
-- Read with: **Article XV-A**
-- Read with: **Article VII-B**
+- Read with: **Article XV-A** (*Auditability and Observable Evidence*)
+- Read with: **Article VII-B** (*Internal-State Boundary and Type-N Protection*)
 - Constitutional frame: **Oversight** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05o_oversight_definitions.md#materiality-determination).
 - Chapter One basis: §2.2, §11.2, §11.4, §12.1, §13 (see [cluster map](#cjs-51-constitutional-compass-and-cluster-map)).
 </details>

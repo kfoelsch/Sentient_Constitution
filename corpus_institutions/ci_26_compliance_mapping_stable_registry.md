@@ -48,7 +48,7 @@
 | Section | Topic |
 |---|---|
 | **CI-9.3** | Delegated subunits, institutional design class, and attachment discipline |
-| **CI-9.4** | Survival floors, voluntary exchange, and markets (Article III-A interface) |
+| **CI-9.4** | Survival floors, voluntary exchange, and markets (**Article III-A** (*Survival*) interface) |
 | **CI-10.1** | Public revenue, user fees, and class-aligned burden |
 | **CI-10.2** | Recurring charges, renewals, and commercial billing integrity |
 | **CI-8.3** | Digital self-service pathway integrity |
@@ -57,7 +57,7 @@
 | **CI-16** | Care labor, dependent support, respite, and care-economy fairness |
 | **CI-17** | End-of-life continuity, memorial dignity, and posthumous-data stewardship |
 | **CI-18** | Collective public health, epidemic response, and addiction-informed care |
-| **CI-19** | Vulnerable personal services markets and Article X-C interface |
+| **CI-19** | Vulnerable personal services markets and **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) interface |
 | **CI-20** | Relational coercive control, intimate power, and anti-domination routing |
 | **CI-21** | Community life, voluntary association, and non-instrumental time |
 | **CI-22** | Commons, cooperatives, mutual aid, and non-market community governance |

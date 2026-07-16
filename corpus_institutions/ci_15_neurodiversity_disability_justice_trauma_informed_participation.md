@@ -52,7 +52,7 @@
 **Apply**
 
 - Apply **CJS-5.8** **Institutional participation and pathway accessibility floor** for the shared adaptive-participation and cognitive-accessibility floor.
-- **CI-15** states only local procedural-design, trauma-informed alternative, and anti-exclusion review owner duties under **Article V-G**, **Article XI**, **Article XX**, and **Article XXIII**.
+- **CI-15** states only local procedural-design, trauma-informed alternative, and anti-exclusion review owner duties under **Article V-G** (*Accessibility*), **Article XI** (*Stakeholder System Participation, Representation, and Due Process*), **Article XX** (*Comprehensibility and Complexity Stewardship*), and **Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*).
 
 **Local adaptive participation and anti-exclusion role map**
 

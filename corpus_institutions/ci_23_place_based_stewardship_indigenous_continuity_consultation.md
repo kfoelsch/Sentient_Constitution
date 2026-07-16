@@ -28,7 +28,7 @@
 **Quick orientation**
 
 - **The basic idea** — place-based stewardship decisions must identify affected communities, publish consultation pathways, and keep records that support accountable reconstruction — not symbolic listening sessions with no effect.
-- **Indigenous continuity** — when community continuity of language, culture, governance practice, or knowledge transmission is materially implicated, institutions must route response under **Chapter Five** *Indigenous Continuity* and owner floors **Article V-B** and **Article I-A**.
+- **Indigenous continuity** — when community continuity of language, culture, governance practice, or knowledge transmission is materially implicated, institutions must route response under **Chapter Five** *Indigenous Continuity* and owner floors **Article V-B** (*Nondiscrimination*) and **Article I-A** (*Environmental Preconditions and Ecological Integrity*).
 - **Consultation records** — who was consulted, what was said, what changed, and what did not must be custodied and auditable.
 - **Compliance theater** — funded projects that box-check consultation without meaningful risk response must escalate through **CI-7.2** and **CI-8**.
 - **What this is not** — no unbounded territorial-restitution mandate; no constitutional-layer adjudication of historical territorial claims; adoption-scope and adopter-jurisdiction discipline stay in **Chapter Sixteen**.
@@ -40,7 +40,7 @@
 *Shared rules live elsewhere.*
 
 - **[CJS-5.7](../corpus_joint_structure.md)** (*quorum and participatory legitimacy terms*) — **Stakeholder oversight and binding-governance pathway integrity**: stakeholder identification, participation rights, challenge paths, advisory-versus-binding status, and accountable participation records.
-- **Chapter Five** [*Indigenous Continuity*](../core_05c_continuity_definitions.md#indigenous-continuity-constitutional) — community-anchored continuity floor for language, cultural practice, governance practice, and knowledge transmission where material; routes territorial-continuity questions to **Article I-A** and **Chapter Sixteen** without creating a restitution mandate.
+- **Chapter Five** [*Indigenous Continuity*](../core_05c_continuity_definitions.md#indigenous-continuity-constitutional) — community-anchored continuity floor for language, cultural practice, governance practice, and knowledge transmission where material; routes territorial-continuity questions to **Article I-A** (*Environmental Preconditions and Ecological Integrity*) and **Chapter Sixteen** without creating a restitution mandate.
 - **Article I-A** (*Environmental Preconditions and Ecological Integrity*) in **Chapter Six** — territorial and ecosystem-integrity precondition where place-based stewardship is materially implicated.
 - **Article V-B** (*Nondiscrimination*) in **Chapter Six** — language, culture, and heritage protection alongside the community-anchored indigenous-continuity floor.
 - **Article XIX-D** (*Movement, Migration, Refuge, and Non-Statelessness*) in **Chapter Six** — movement, migration, and refuge interfaces where displacement or non-statelessness questions intersect place-based decisions.
@@ -61,11 +61,11 @@ Each institution in scope must name the office or body responsible for:
 
 - **consultation-record custody** — who receives, stores, versions, and publishes consultation notices, submissions, responses, and decision rationales so participation can be reconstructed and challenged later;
 - **stakeholder and affected-community identification** — who determines which place-linked, Indigenous, tenure-holding, ecosystem-dependent, or comparable communities are materially affected and must receive notice and practical participation routes under **CJS-5.7** (*quorum and participatory legitimacy terms*);
-- **indigenous-continuity response** — who evaluates and routes decisions that materially implicate **Chapter Five** *Indigenous Continuity*, including language, cultural practice, governance practice, and knowledge-transmission impacts, under **Article V-B**, **Article I-A**, and **Chapter Sixteen** discipline where territorial-continuity questions arise;
+- **indigenous-continuity response** — who evaluates and routes decisions that materially implicate **Chapter Five** *Indigenous Continuity*, including language, cultural practice, governance practice, and knowledge-transmission impacts, under **Article V-B** (*Nondiscrimination*), **Article I-A** (*Environmental Preconditions and Ecological Integrity*), and **Chapter Sixteen** discipline where territorial-continuity questions arise;
 - **advisory-versus-binding pathway publication** — who publishes whether a consultation route is advisory, binding, or relied on for governance effect, and what challenge or correction paths follow; and
 - **compliance-theater escalation** — who escalates funded projects or supervised programs where consultation occurs without meaningful risk response to **CI-7.2** external-assurance triggers and **CI-8** cross-institution escalation.
 
-Read **Chapter Five** *Indigenous Continuity* and **Article I-A**, **Article V-B**, and **Article XIX-D** where materially applicable.
+Read **Chapter Five** *Indigenous Continuity* and **Article I-A** (*Environmental Preconditions and Ecological Integrity*), **Article V-B** (*Nondiscrimination*), and **Article XIX-D** (*Movement, Migration, Refuge, and Non-Statelessness*) where materially applicable.
 
 ---
 

@@ -31,7 +31,7 @@ Where failure, interaction, or aggregation creates credible pathways to irrevers
 
 Systems contributing materially to such risk must be classified and governed at the **highest applicable** level regardless of isolated impact.
 
-**Classification under CS-4 — System classification and handling** is **mandatory** for all systems with **material impact**. **It** is **functionally determined** from observed and reasonably foreseeable effects rather than declared intent, structure, or self-description. **It** must be **transparent**, **auditable**, and **subject to challenge** under **Article XV-A**, Article XV's verification-access provisions, and **Article XII-B**. **It** must be **continuously revalidated** per `corpus_joint_structure.md` **CJS-5.18** (*data-retention and lifecycle-integrity terms*). **No** system may claim **reduced obligations**, **exemptions**, or **lower-impact** classification while exerting **material external** effects.
+**Classification under CS-4 — System classification and handling** is **mandatory** for all systems with **material impact**. **It** is **functionally determined** from observed and reasonably foreseeable effects rather than declared intent, structure, or self-description. **It** must be **transparent**, **auditable**, and **subject to challenge** under **Article XV-A** (*Auditability and Observable Evidence*), **Article XV** (*Audit, Transparency, and Independent Verification*)'s verification-access provisions, and **Article XII-B** (*Right to Challenge, Review, and Redress*). **It** must be **continuously revalidated** per `corpus_joint_structure.md` **CJS-5.18** (*data-retention and lifecycle-integrity terms*). **No** system may claim **reduced obligations**, **exemptions**, or **lower-impact** classification while exerting **material external** effects.
 
 Where classification, deployment, or continued operation depends on official constitutional alignment status, the classification record must support **Integrity** forum recognition or revalidation under `core_11-11_forum.md` **Chapter Eleven** and `corpus_forum.md` **CF-7.2** (*Constitutional alignment recognition and review*). Where material ecological exposure exists, it must also support **Environment** forum environmental-alignment component review before final recognition, validation, revalidation, or material release from environmental conditions. Forum review must be able to inspect the classification rationale, assumptions, evidence, uncertainty, dependency analysis, ecological exposure analysis where material, and monitoring triggers without relying on operator self-description alone.
 
@@ -221,7 +221,7 @@ Operators have minimal discretion, limited strictly to preserving survival, safe
 
 **Governance** — formal, multi-layered, and capture-resistant. Use constrained-scope authority, independent oversight and audit, emergency protocols, and accountability in normal and crisis conditions. Test structures against failure, capture, and adversarial manipulation.
 
-**Comprehensibility and complexity stewardship** (**Protocol B** / **Article XX**; `corpus_joint_structure.md` **CJS-5.8** (*comprehensibility and cognitive accessibility terms*) through **CJS-5.10** (*disclosure sufficiency and observability terms*), **CJS-5.16** (*dependency integrity and disclosure terms*), **CJS-5.19** (*graceful degradation and failure-mode integrity terms*), and **CJS-5.21** (*adversarial robustness and abuse-resistance terms*)) -> **maximum:**
+**Comprehensibility and complexity stewardship** (**Protocol B** / **Article XX** (*Comprehensibility and Complexity Stewardship*); `corpus_joint_structure.md` **CJS-5.8** (*comprehensibility and cognitive accessibility terms*) through **CJS-5.10** (*disclosure sufficiency and observability terms*), **CJS-5.16** (*dependency integrity and disclosure terms*), **CJS-5.19** (*graceful degradation and failure-mode integrity terms*), and **CJS-5.21** (*adversarial robustness and abuse-resistance terms*)) -> **maximum:**
 - structure, dependencies, failure modes, degraded behavior, and adversarial stress paths remain intelligible to qualified operators and independent overseers
 - salience and presentation must **not** obscure survival-critical or systemic risk
 - **mandatory** periodic independent complexity audits
@@ -294,13 +294,13 @@ Failure propagates through dependency chains, not only participant disruption, a
 
 **Governance** — formal, structured, and enforceable, with clear authority/accountability, independent oversight or audit where appropriate, stakeholder representation/challenge, and safeguards against concentration of power or systemic capture.
 
-**Comprehensibility and complexity stewardship** (**Protocol B** / **Article XX**, `corpus_joint_structure.md` **CJS-5.8** (*comprehensibility and cognitive accessibility terms*) through **CJS-5.10** (*disclosure sufficiency and observability terms*), **CJS-5.16** (*dependency integrity and disclosure terms*), **CJS-5.19** (*graceful degradation and failure-mode integrity terms*), and **CJS-5.21** (*adversarial robustness and abuse-resistance terms*)) -> **strict / high-assurance:** layered explanations for dependent-system operators, stakeholders, and formal oversight; periodic independent complexity audits are required.
+**Comprehensibility and complexity stewardship** (**Protocol B** / **Article XX** (*Comprehensibility and Complexity Stewardship*), `corpus_joint_structure.md` **CJS-5.8** (*comprehensibility and cognitive accessibility terms*) through **CJS-5.10** (*disclosure sufficiency and observability terms*), **CJS-5.16** (*dependency integrity and disclosure terms*), **CJS-5.19** (*graceful degradation and failure-mode integrity terms*), and **CJS-5.21** (*adversarial robustness and abuse-resistance terms*)) -> **strict / high-assurance:** layered explanations for dependent-system operators, stakeholders, and formal oversight; periodic independent complexity audits are required.
 
 Dependency chains and failure modes must be understandable under normal and degraded conditions.
 
 Salience must **not** bury systemic or cascading risk.
 
-Modular interfaces and cross-system coupling are subject to review under **Article XV-A**.
+Modular interfaces and cross-system coupling are subject to review under **Article XV-A** (*Auditability and Observable Evidence*).
 
 **Evolution and reclassification (out of Class B, typically toward Class A):** Reclassify when any of the following applies:
 - the system **directly controls or constitutes** critical infrastructure or essential survival systems where failure would cause **immediate and severe** harm at scale
@@ -352,7 +352,7 @@ Failures can disrupt significantly but stay **non-critical** to **immediate surv
 
 **Governance** — structured and accountable, with clear responsibility, stakeholder feedback, challenge/dispute resolution, and safeguards against capture, hidden control, and unilateral decisions that materially affect participants.
 
-**Comprehensibility and complexity stewardship** (**Protocol B** / **Article XX**, `corpus_joint_structure.md` **CJS-5.8** (*comprehensibility and cognitive accessibility terms*) through **CJS-5.10** (*disclosure sufficiency and observability terms*), **CJS-5.16** (*dependency integrity and disclosure terms*), **CJS-5.19** (*graceful degradation and failure-mode integrity terms*), and **CJS-5.21** (*adversarial robustness and abuse-resistance terms*)) -> **strong:** participant- and stakeholder-facing layers, with complexity audits when scale, coupling, or coordination depth warrant.
+**Comprehensibility and complexity stewardship** (**Protocol B** / **Article XX** (*Comprehensibility and Complexity Stewardship*), `corpus_joint_structure.md` **CJS-5.8** (*comprehensibility and cognitive accessibility terms*) through **CJS-5.10** (*disclosure sufficiency and observability terms*), **CJS-5.16** (*dependency integrity and disclosure terms*), **CJS-5.19** (*graceful degradation and failure-mode integrity terms*), and **CJS-5.21** (*adversarial robustness and abuse-resistance terms*)) -> **strong:** participant- and stakeholder-facing layers, with complexity audits when scale, coupling, or coordination depth warrant.
 
 Failure behavior and salience must preserve population-scale verification and contestability under `corpus_joint_structure.md` **CJS-5.5** (*independent verification and claim-integrity terms*).
 
@@ -418,7 +418,7 @@ The system may influence local coordination, services, exchanges, or participati
 
 **Governance** — lightweight but real. **It** provides basic accountability, feedback, correction, and dispute handling. **It** provides safeguards against avoidable opacity, arbitrariness, and abuse within bounded scope.
 
-**Comprehensibility and complexity stewardship** (**Protocol B** / **Article XX**, `corpus_joint_structure.md` **CJS-5.8** (*comprehensibility and cognitive accessibility terms*) through **CJS-5.10** (*disclosure sufficiency and observability terms*), **CJS-5.16** (*dependency integrity and disclosure terms*), **CJS-5.19** (*graceful degradation and failure-mode integrity terms*), and **CJS-5.21** (*adversarial robustness and abuse-resistance terms*)) -> **proportionate:** material risks, limits, and dependencies must be understandable without specialist-only surfaces. Provide deeper disclosure on contest, ensure complexity does not block local accountability/correction, and scale adversarial robustness to bounded impact.
+**Comprehensibility and complexity stewardship** (**Protocol B** / **Article XX** (*Comprehensibility and Complexity Stewardship*), `corpus_joint_structure.md` **CJS-5.8** (*comprehensibility and cognitive accessibility terms*) through **CJS-5.10** (*disclosure sufficiency and observability terms*), **CJS-5.16** (*dependency integrity and disclosure terms*), **CJS-5.19** (*graceful degradation and failure-mode integrity terms*), and **CJS-5.21** (*adversarial robustness and abuse-resistance terms*)) -> **proportionate:** material risks, limits, and dependencies must be understandable without specialist-only surfaces. Provide deeper disclosure on contest, ensure complexity does not block local accountability/correction, and scale adversarial robustness to bounded impact.
 
 **Evolution and reclassification (out of Class L):** Reclassify when any of the following applies:
 - **Broad, durable, hard-to-replace** dependency across larger populations, organizations, or systems
@@ -490,7 +490,7 @@ Containment includes informational and behavioral dimensions so outputs, data, o
 
 **Governance** — **no** formal external governance or participatory requirements while validly Class P.
 
-**Comprehensibility and complexity stewardship** (**Protocol B** / **Article XX**, `corpus_joint_structure.md` **CJS-5.8** (*comprehensibility and cognitive accessibility terms*) through **CJS-5.10** (*disclosure sufficiency and observability terms*), **CJS-5.16** (*dependency integrity and disclosure terms*), **CJS-5.19** (*graceful degradation and failure-mode integrity terms*), and **CJS-5.21** (*adversarial robustness and abuse-resistance terms*)) -> **internal / minimal external:** operators and participants must understand enough for informed private use.
+**Comprehensibility and complexity stewardship** (**Protocol B** / **Article XX** (*Comprehensibility and Complexity Stewardship*), `corpus_joint_structure.md` **CJS-5.8** (*comprehensibility and cognitive accessibility terms*) through **CJS-5.10** (*disclosure sufficiency and observability terms*), **CJS-5.16** (*dependency integrity and disclosure terms*), **CJS-5.19** (*graceful degradation and failure-mode integrity terms*), and **CJS-5.21** (*adversarial robustness and abuse-resistance terms*)) -> **internal / minimal external:** operators and participants must understand enough for informed private use.
 
 There are no standing independent complexity audits or public Protocol B reporting requirements while Class P holds.
 
@@ -513,7 +513,7 @@ Examples include behavior that **creates measurable** off-unit harm risk. **They
 
 **Scarce-capacity, API, and traffic-priority handling for Class A/B/C systems.** Where a system exposes scarce operational capacity, network access, compute, model inference, API calls, queue position, bandwidth, or comparable throughput that may become constrained during peak demand, operators must define **published priority rules** scaled to classification and dependency.
 
-**Class A traffic and API use** must receive the highest continuity protection where the request or dependent workflow is survival-critical, Rights-Floor-sustaining, emergency-response, or recovery-critical. Throttling, queuing, paid tiering, or commercial prioritization must not displace the minimum safe capacity needed to preserve Class A continuity, unless a narrower emergency measure is justified under **Chapter Six, Article XXIII** and remains time-bounded, auditable, and restoration-triggered.
+**Class A traffic and API use** must receive the highest continuity protection where the request or dependent workflow is survival-critical, Rights-Floor-sustaining, emergency-response, or recovery-critical. Throttling, queuing, paid tiering, or commercial prioritization must not displace the minimum safe capacity needed to preserve Class A continuity, unless a narrower emergency measure is justified under **Chapter Six, **Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*)** and remains time-bounded, auditable, and restoration-triggered.
 
 **Class B traffic and API use** must receive priority sufficient to preserve normal operation of dependent systems and to prevent cascading degradation into Class A or broader systemic harm. Class B uses may be queued, rate-limited, or degraded before Class A uses when capacity is genuinely constrained, but degradation must be disclosed, proportionate, and designed around viable fallback or recovery paths.
 
@@ -603,7 +603,7 @@ Ownership stays **traceable** through governance changes, delegation, and subcon
 
 **Second line** functions must be **sufficiently independent** of first-line incentives for **credible challenge** where A/B stakes require it.
 
-**Third line** — **independent assurance** (audit and verification) consistent with **Article XV-A** and **CS-4 — System classification and handling** disclosure and auditability.
+**Third line** — **independent assurance** (audit and verification) consistent with **Article XV-A** (*Auditability and Observable Evidence*) and **CS-4 — System classification and handling** disclosure and auditability.
 
 **Third line** work impartially assesses whether appetite, tolerance, and treatments match **observed behavior and classification**. Where strict structural separation is **infeasible** (e.g. small organizations), **compensating transparency, rotation, independent review, or multi-steward checks** must yield **equivalent assurance** proportional to impact and dependency, read with `corpus_institutions.md` **CI-3** (*Institutional design, separation of powers, and authority custody*) for institutional lane separation and **CJS-5.11** (*distributed and proportional authority terms*) and **CJS-5.7** (*quorum and participatory legitimacy terms*) for shared proportional-authority scaling.
 

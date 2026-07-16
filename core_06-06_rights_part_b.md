@@ -55,11 +55,11 @@ The chapter-wide interpretive stack in **Part A** §1 (*Purpose and Role*) appli
 
 The principles of this Article constrain all interpretation, design, and operation of systems under this constitution.
 
-*In plain terms: **Article V** is the equal-standing Rights Floor — dignity, nondiscrimination, inclusion, conscience, sentience-status fairness, accessibility, and expression must hold for every sentient before systems may rank, gate, exclude, or load disparate burdens on them.*
+*In plain terms: **Article V** (*Equal Basic Rights*) is the equal-standing Rights Floor — dignity, nondiscrimination, inclusion, conscience, sentience-status fairness, accessibility, and expression must hold for every sentient before systems may rank, gate, exclude, or load disparate burdens on them.*
 
-This Article states **constitutional floors** for equal basic rights across **Articles V-A through V-H**. When materially impactful systems classify, rank, price, gate, exclude, or allocate burdens and benefits among sentients — including through eligibility rules, model features, ranking logic, platform policy, adjudicative or enforcement pathways, or comparable decision mechanisms — [System Alignment Certification](core_05c_continuity_definitions.md#system-alignment-certification-constitutional) under [Chapter Seven](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) applies, including nondiscrimination evaluation under [§7](core_07_a_system_alignment_certification_evaluation.md#7-nondiscrimination-evaluation) where the **Article V-B** materiality trigger applies and accessibility evaluation under [§8](core_07_a_system_alignment_certification_evaluation.md#8-accessibility-evaluation) where the **Article V-G** materiality trigger applies. Recognition or continued reliance on those systems cannot substitute for compliance with the floors stated in this Article or shrink them. Certification verifies alignment; it does not replace challenge and audit rights under **Articles XII-B** and **XV**, non-foreclosure protections under **Article XVIII-B**, or the equal-basic-rights Rights Floors stated here.
+This Article states **constitutional floors** for equal basic rights across **Articles V-A through V-H**. When materially impactful systems classify, rank, price, gate, exclude, or allocate burdens and benefits among sentients — including through eligibility rules, model features, ranking logic, platform policy, adjudicative or enforcement pathways, or comparable decision mechanisms — [System Alignment Certification](core_05c_continuity_definitions.md#system-alignment-certification-constitutional) under [Chapter Seven](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) applies, including nondiscrimination evaluation under [§7](core_07_a_system_alignment_certification_evaluation.md#7-nondiscrimination-evaluation) where the **Article V-B** (*Nondiscrimination*) materiality trigger applies and accessibility evaluation under [§8](core_07_a_system_alignment_certification_evaluation.md#8-accessibility-evaluation) where the **Article V-G** (*Accessibility*) materiality trigger applies. Recognition or continued reliance on those systems cannot substitute for compliance with the floors stated in this Article or shrink them. Certification verifies alignment; it does not replace challenge and audit rights under **Articles XII-B** and **XV**, non-foreclosure protections under **Article XVIII-B** (*Contestability and Proportional Restriction Limits*), or the equal-basic-rights Rights Floors stated here.
 
-The [Rights-Floor Minimums Principle](core_01_b_interaction_interpretation.md#rightsfloor-minimums-principle) and [Anti-Degrading-Process Principle](core_01_b_interaction_interpretation.md#anti-degrading-process-principle) apply throughout Article V and throughout imposition, review, and carrying out of restrictions, containment, restorative-accountability measures, emergency measures, transition plans, standing effects, amendments, implementation decisions, contracts, and comparable constitutional processes. Domain-specific articles may add stronger safeguards or narrower conditions for lawful restriction. They may not reduce these Article V minimums.
+The [Rights-Floor Minimums Principle](core_01_b_interaction_interpretation.md#rightsfloor-minimums-principle) and [Anti-Degrading-Process Principle](core_01_b_interaction_interpretation.md#anti-degrading-process-principle) apply throughout **Article V** (*Equal Basic Rights*) and throughout imposition, review, and carrying out of restrictions, containment, restorative-accountability measures, emergency measures, transition plans, standing effects, amendments, implementation decisions, contracts, and comparable constitutional processes. Domain-specific articles may add stronger safeguards or narrower conditions for lawful restriction. They may not reduce these **Article V** (*Equal Basic Rights*) minimums.
 
 #### Article V-A: Dignity and Equal Moral Standing
 <details>
@@ -136,7 +136,7 @@ The [Rights-Floor Minimums Principle](core_01_b_interaction_interpretation.md#ri
   Homogenization framings — efficiency, info-sphere integrity, interoperability, or platform-consolidation — do not by themselves satisfy the **Necessity** and **Proportionality** tests this Article requires.
   - Narrowing language, cultural, or heritage protection under accessibility-cost, translation-burden, or operational-scale framings, absent the required tests, is non-compliant.
   
-  Indigenous continuity **questions** and territorial-continuity interactions are read with Chapter Five *[Indigenous Continuity](core_05c_continuity_definitions.md#indigenous-continuity-constitutional)* — a community-anchored Rights Floor whose owner floors are Article V-B and Article I-A. They route to **Article I-A** (*Environmental Preconditions and Ecological Integrity*) (ecosystem-integrity precondition) and to **Chapter Sixteen** incorporation (adopter-jurisdiction discipline). That routing does not decide historical land ownership or require restitution on its own. Language, culture, and heritage protection under **Article V-B** remains part of this Article's nondiscrimination floor — not a separate floor — and must not cut back other **Article V-B** rules or Chapter Five protected-characteristics protections.
+  Indigenous continuity **questions** and territorial-continuity interactions are read with Chapter Five *[Indigenous Continuity](core_05c_continuity_definitions.md#indigenous-continuity-constitutional)* — a community-anchored Rights Floor whose owner floors are **Article V-B** (*Nondiscrimination*) and **Article I-A** (*Environmental Preconditions and Ecological Integrity*). They route to **Article I-A** (*Environmental Preconditions and Ecological Integrity*) (ecosystem-integrity precondition) and to **Chapter Sixteen** incorporation (adopter-jurisdiction discipline). That routing does not decide historical land ownership or require restitution on its own. Language, culture, and heritage protection under **Article V-B** (*Nondiscrimination*) remains part of this Article's nondiscrimination floor — not a separate floor — and must not cut back other **Article V-B** (*Nondiscrimination*) rules or Chapter Five protected-characteristics protections.
 
 #### Article V-C: Full Inclusion and Equality in Adjudication and Operations
 <details>
@@ -435,9 +435,9 @@ The [Rights-Floor Minimums Principle](core_01_b_interaction_interpretation.md#ri
   "High-impact" or "stability" framings that do not satisfy the ordinary limitations tests do not justify chilling protected activity.
 - **Good-faith framing and critical reporting:** **Article VIII-C** (*Truthful Publication and High-Impact Publication Limits*) good-faith and truthfulness standards govern publication within their scope. They must not be read to bar lawful critical reporting, investigative publication, satire, or dissent.
   - Where **Article VIII-C** (*Truthful Publication and High-Impact Publication Limits*) and this Article interact, the lawful critical-reporting floor controls against read-ups that would convert good-faith standards into a shield against criticism.
-- **Non-conflation:** **Article V-H** states the constitutional floor for expression, assembly, and press — not the full rulebook for running platforms, broadcasters, or newsrooms.
+- **Non-conflation:** **Article V-H** (*Expression, Assembly, and Press*) states the constitutional floor for expression, assembly, and press — not the full rulebook for running platforms, broadcasters, or newsrooms.
   - Licensing, accreditation, broadcast and platform rules, moderation procedures, and rules for gathering in shared digital spaces are worked out under **Chapter Sixteen**. Those implementation details cannot cut back the floor stated here.
-  - When this floor conflicts with cooperation and consent (**Article X-A**), stakeholder participation (**Article XI**), information integrity (**Article XIV**), auditability (**Article XV-A**), or the protected-activity limits in **Article XIII-A**, resolve the conflict under **Chapter One §6.3.1** without weakening any floor involved.
+  - When this floor conflicts with cooperation and consent (**Article X-A** (*Non-Imposition and Consent in Association*)), stakeholder participation (**Article XI** (*Stakeholder System Participation, Representation, and Due Process*)), information integrity (**Article XIV** (*Info-Sphere Integrity*)), auditability (**Article XV-A** (*Auditability and Observable Evidence*)), or the protected-activity limits in **Article XIII-A** (*Security, Intelligence, and Covert-Power Limits*), resolve the conflict under **Chapter One §6.3.1** without weakening any floor involved.
 
 ### Article VI: Right to Sentient-Centered Education
 
@@ -460,7 +460,7 @@ The [Rights-Floor Minimums Principle](core_01_b_interaction_interpretation.md#ri
 
 <br>
 
-*In plain terms: **Article VI** is the capability-building education Rights Floor — sentients need practical paths to learn, retrain, and challenge high-stakes learning systems, not credential theater that leaves them unable to steer their own lives or use shared systems competently.*
+*In plain terms: **Article VI** (*Right to Sentient-Centered Education*) is the capability-building education Rights Floor — sentients need practical paths to learn, retrain, and challenge high-stakes learning systems, not credential theater that leaves them unable to steer their own lives or use shared systems competently.*
 
 This Article states **constitutional floors** for sentient-centered education capability under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims):
 
@@ -479,7 +479,7 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
 *Article neighbors:*
 
 - **Upstream equal-access floors:** **Equal access, protected-characteristics constraints, reasonable accessibility, and public-benefit orientation** for education are governed by **Article III** (*Survival and Equal Educational Access*), jointly with **Articles V-B** and **III-B** where enforcement applies.
-- **What this Article adds:** **Article VI** carries capability-building content, lifelong and adaptive learning, and transparency requirements for materially impactful educational systems without narrowing those upstream floors.
+- **What this Article adds:** **Article VI** (*Right to Sentient-Centered Education*) carries capability-building content, lifelong and adaptive learning, and transparency requirements for materially impactful educational systems without narrowing those upstream floors.
 
 #### Article VI-A: Capability-Building Education Right
 <details>
@@ -555,7 +555,7 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
 
 <br>
 
-*In plain terms: **Article VII** is the self-ownership Rights Floor — once survival is secured, sentients must be able to direct their own lives, bodies, minds, and attention while maintaining healthy internal and external boundaries.*
+*In plain terms: **Article VII** (*Self-Ownership*) is the self-ownership Rights Floor — once survival is secured, sentients must be able to direct their own lives, bodies, minds, and attention while maintaining healthy internal and external boundaries.*
 
 This Article states **constitutional floors** for self-ownership under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims):
 
@@ -792,7 +792,7 @@ Where analysis of experiential or behavioral data produces outputs that function
 
 <br>
 
-*In plain terms: a sentient may freely choose to end their own existence — but only when consent is real and unpressured, and not because they are being denied the mental or physical healthcare, support, or living conditions they need. This Article never authorizes anyone else to end a sentient's life, which remains categorically forbidden under Article XXIII-B.*
+*In plain terms: a sentient may freely choose to end their own existence — but only when consent is real and unpressured, and not because they are being denied the mental or physical healthcare, support, or living conditions they need. This Article never authorizes anyone else to end a sentient's life, which remains categorically forbidden under **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*).*
 
 - **Voluntary-discontinuation floor:** Sentients hold the right to decide to discontinue their own existence under conditions that satisfy genuine, substantive, freely-formed consent under **Chapter Five** (*Consent*).
   - This right runs under **Sentience Non-Exclusion**.
@@ -837,7 +837,7 @@ Where analysis of experiential or behavioral data produces outputs that function
 
 <br>
 
-*In plain terms: **Article VIII** is the likeness, data, and publication Rights Floor — your face, voice, reputation, personal experiences, and public portrayal stay under your control unless you consent or genuine factual reporting applies; others cannot freely impersonate you, mine your life for data, or spread harmful misrepresentation in your name.*
+*In plain terms: **Article VIII** (*Likeness, Experiential Data, and Publication Rights*) is the likeness, data, and publication Rights Floor — your face, voice, reputation, personal experiences, and public portrayal stay under your control unless you consent or genuine factual reporting applies; others cannot freely impersonate you, mine your life for data, or spread harmful misrepresentation in your name.*
 
 This Article states **constitutional floors** for likeness, experiential and derived data, and publication under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims):
 
@@ -1036,7 +1036,7 @@ All use, storage, transformation, and disclosure of such data must remain subjec
 - **Market concentration:** If a few players hoard control over materials, platforms, how information flows, or creative tools — in ways that predictably undercut other creators' livelihoods or ability to get credit for their work — **Chapter One §9** non-concentration and the **[§13.1](core_01_c_stewardship_capacity_principles.md#131-concentration-threshold-mechanism-adopter-tunable)** concentration-threshold mechanism apply.
   - Calling the arrangement "productive capacity" does not satisfy this Article when the pattern still amounts to forbidden concentration.
 - **Likeness, data, and publication rules still apply:** **Article VIII-A** (*Self-Ownership of Likeness and Reputation*), **Article VIII-B** (*Experiential and Derived Data Rights*), and **Article VIII-C** (*Truthful Publication and High-Impact Publication Limits*) still govern likeness, personal data, and truthful publication in full. **Article VIII-D** (*Creative Work, Training-Data Use, and Anti-Displacement*) does not water them down.
-  - When a creative-work dispute also involves likeness, personal data, or publication, **Articles VIII-A**, **VIII-B**, and **VIII-C** work together with **Article VIII-D** under **Chapter One §6.3.1**.
+  - When a creative-work dispute also involves likeness, personal data, or publication, **Articles VIII-A**, **VIII-B**, and **VIII-C** work together with **Article VIII-D** (*Creative Work, Training-Data Use, and Anti-Displacement*) under **Chapter One §6.3.1**.
 - **What this Article is — and is not:** **Article VIII-D** (*Creative Work, Training-Data Use, and Anti-Displacement*) sets the constitutional floor for creative labor, training-data use, and anti-displacement. It is not a substitute for copyright, trademark, patent, or other intellectual-property rules adopters may specify — those rules must still stay within this floor.
   - Using IP-law labels to shrink this floor is not allowed.
 
@@ -1061,7 +1061,7 @@ All use, storage, transformation, and disclosure of such data must remain subjec
 
 <br>
 
-*In plain terms: **Article IX** is the self-determination and agency Rights Floor — sentients must be able to make real, informed choices about their lives, participate proportionately in systems that affect them, and hold equal weight in foundational governance — without manipulation, designed capture, or unjustified exclusion.*
+*In plain terms: **Article IX** (*Self-Determination and Agency*) is the self-determination and agency Rights Floor — sentients must be able to make real, informed choices about their lives, participate proportionately in systems that affect them, and hold equal weight in foundational governance — without manipulation, designed capture, or unjustified exclusion.*
 
 This Article states **constitutional floors** for self-determination and agency under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims):
 
@@ -1236,7 +1236,7 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
 
 <br>
 
-*In plain terms: **Article X** is the cooperative interaction Rights Floor — sentients must be free to work and live together by real consent, without unwanted imposition, harassment, or designed capture — and freedom of action stops where verifiable material harm begins.*
+*In plain terms: **Article X** (*Cooperative Interaction*) is the cooperative interaction Rights Floor — sentients must be free to work and live together by real consent, without unwanted imposition, harassment, or designed capture — and freedom of action stops where verifiable material harm begins.*
 
 This Article states **constitutional floors** for cooperative interaction under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims):
 
@@ -1388,13 +1388,13 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
   - dispute resolution.
   
   Those frameworks must scale by **Materiality**, dependency, isolation, and vulnerability. They must not become stigma-driven regimes or single out this activity relative to functionally comparable lawful services.
-  - **`corpus_institutions.md`** **CI-15** (*Vulnerable personal services markets — general regulation and Article X-C interface*) and **`corpus_systems.md`** (market-mediated personal services) supply operational expectations and must not narrow this Article.
+  - **`corpus_institutions.md`** **CI-15** (*Vulnerable personal services markets — general regulation and **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) interface*) and **`corpus_systems.md`** (market-mediated personal services) supply operational expectations and must not narrow this Article.
 - **Anti-circumvention:** Civil, administrative, licensing, zoning, or commercial measures are subject to the same constitutional scrutiny as direct criminalization where their primary practical effect is to replicate a criminal prohibition forbidden by the decriminalization floor.
   - This applies when the measures lack predicates tied to exploitation, lack of valid consent, or independent harm justified under **Chapter One** and **Chapter Five**.
   - Neutral-form regulation does not avoid that scrutiny.
 - **Transition:** Adopting instruments must provide relief — **expungement**, **sealing**, **non-disclosure by default**, or comparable measures — for records and for ongoing criminal or restrictive administrative measures that predominantly reflect conduct no longer criminal under this Article.
   - Individual review remains subject to **Article V-C** (*Full Inclusion and Equality in Adjudication and Operations*) fairness and **Chapter Four** traceability.
-- **Institutional implementation:** Licensing, exploitation-focused enforcement and victim access, transition sequencing, and general-market alignment are governed by **`corpus_institutions.md`** **CI-15** (*Vulnerable personal services markets — general regulation and Article X-C interface*) and **`corpus_systems.md`** where designated, and must not narrow this Article.
+- **Institutional implementation:** Licensing, exploitation-focused enforcement and victim access, transition sequencing, and general-market alignment are governed by **`corpus_institutions.md`** **CI-15** (*Vulnerable personal services markets — general regulation and **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) interface*) and **`corpus_systems.md`** where designated, and must not narrow this Article.
 
 ### Article XI: Stakeholder System Participation, Representation, and Due Process
 
@@ -1415,7 +1415,7 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
 
 <br>
 
-*In plain terms: **Article XI** is the stakeholder participation and due process Rights Floor — when a system materially affects you, you get a real voice, not token consultation — and high-stakes decisions must be explained on the record and open to fair challenge.*
+*In plain terms: **Article XI** (*Stakeholder System Participation, Representation, and Due Process*) is the stakeholder participation and due process Rights Floor — when a system materially affects you, you get a real voice, not token consultation — and high-stakes decisions must be explained on the record and open to fair challenge.*
 
 This Article states **constitutional floors** for stakeholder system participation, representation, and due process under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims):
 
@@ -1432,7 +1432,7 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
 *Article neighbors:*
 
 - **Two governance layers:** [Governance](core_05a_accountability_definitions.md#governance) in **Chapter Five** covers (1) the **Constitutional Contract Layer** — who may govern and under what mechanism ([Foundational Constitutional Choice](core_05i_integrative_definitions.md#foundational-constitutional-choice)) — and (2) materially rights-affecting decisions within structures, rules, and processes already authorized for a specified system, institution, or bounded decision domain.
-- **This Article's scope:** **Article XI** (with **Article IX-B** (*Stakeholder Role and Participation Rights*) and **Article IX-C** (*Governance Participation and Voting Entitlement*)) addresses the second layer — **[Stakeholder](core_05p_participation_definitions.md#stakeholder)** identification and proportionate pathways for those affected by a domain's operation.
+- **This Article's scope:** **Article XI** (*Stakeholder System Participation, Representation, and Due Process*) (with **Article IX-B** (*Stakeholder Role and Participation Rights*) and **Article IX-C** (*Governance Participation and Voting Entitlement*)) addresses the second layer — **[Stakeholder](core_05p_participation_definitions.md#stakeholder)** identification and proportionate pathways for those affected by a domain's operation.
 - **Foundational voting preserved:** That domain layer is not a substitute for equal-weight rules at the authorization layer (**Article IX-C** (*Governance Participation and Voting Entitlement*); **Chapter Twelve Chapter One §8.1**).
 - **Boundary and adjudication:** **Article IX-D** (*Inclusion and Exclusion Challenge Rights*) and **Article XVIII** (*Standing and Participation Status*) supply challenge and standing discipline where participation status is contested.
 
@@ -1488,7 +1488,7 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
 
 *In plain terms: participation weighting can reflect who is affected and how much, but it must never become a device for silencing affected groups or handing permanent control to a narrow coalition.*
 
-- **Scope (layering with Article IX-C):** The weighting rules in this Article apply where **[Stakeholder Participation Weight](core_05p_participation_definitions.md#stakeholder-participation-weight)** is the governing rule — materially rights-affecting decisions *within* the **[Governance](core_05a_accountability_definitions.md#governance)** **structures, rules, allocation of authority, and processes** already authorized for the **relevant system, institution, or bounded decision domain**. They do **not** authorize impact-, dependency-, or stake-proportional **vote weights** for **[Foundational Constitutional Choice](core_05i_integrative_definitions.md#foundational-constitutional-choice)** (**Article IX-C** (*Governance Participation and Voting Entitlement*); **Chapter Twelve Chapter One §8.1**).
+- **Scope (layering with **Article IX-C** (*Governance Participation and Voting Entitlement*)):** The weighting rules in this Article apply where **[Stakeholder Participation Weight](core_05p_participation_definitions.md#stakeholder-participation-weight)** is the governing rule — materially rights-affecting decisions *within* the **[Governance](core_05a_accountability_definitions.md#governance)** **structures, rules, allocation of authority, and processes** already authorized for the **relevant system, institution, or bounded decision domain**. They do **not** authorize impact-, dependency-, or stake-proportional **vote weights** for **[Foundational Constitutional Choice](core_05i_integrative_definitions.md#foundational-constitutional-choice)** (**Article IX-C** (*Governance Participation and Voting Entitlement*); **Chapter Twelve Chapter One §8.1**).
 - **Weighted participation constraints:** Participation weighting may account for:
   - impact;
   - dependency;

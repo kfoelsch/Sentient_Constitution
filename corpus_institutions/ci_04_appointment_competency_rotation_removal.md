@@ -140,7 +140,7 @@ Governing bodies must run periodic performance and capability review, including 
 
 *In plain terms: bodies that interpret the constitution face extra rules. Terms must be fixed and public, members must rotate, no single appointing bloc may control back-to-back cycles, conflicts must be disclosed, and members who hide bias, abuse recusal, or carry capture risk can be challenged and removed.*
 
-Interpretive-body composition controls (**Article XXII** — constitutional interpretation and review — interface):
+Interpretive-body composition controls (**Article XXII** (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*) — constitutional interpretation and review — interface):
 - Membership terms, appointment pathways, and renewal limits must be fixed, transparent, and rotation-based.
 - No single appointing authority, institution, or stakeholder bloc may control appointment outcomes across consecutive cycles.
 - Members must disclose material conflicts and recuse where impartiality is reasonably contested.
@@ -169,9 +169,9 @@ Interpretive-body composition controls (**Article XXII** — constitutional inte
 
 <br>
 
-*In plain terms: under **Chapter Six**, section 5 and the **Article XI-D** interface, each institution writes its own map of who is authorized to do what — and who is accountable when things go wrong. That local map must spell out decision power, review power, escalation paths, hiring standards, backup coverage, and how skills stay current. Three shared rulebooks govern what gets stricter for higher-impact systems — apply them locally, do not reinvent them: **CJS-4.4** sets minimum staffing and backup by impact level; **CI-3** assigns each role to a functional lane; **CS-4** and **CS-5** define system class and when critical-stewardship duties apply.*
+*In plain terms: under **Chapter Six**, section 5 and the **Article XI-D** (*Internal Roles, Accountability, and Due-Process Requirements*) interface, each institution writes its own map of who is authorized to do what — and who is accountable when things go wrong. That local map must spell out decision power, review power, escalation paths, hiring standards, backup coverage, and how skills stay current. Three shared rulebooks govern what gets stricter for higher-impact systems — apply them locally, do not reinvent them: **CJS-4.4** sets minimum staffing and backup by impact level; **CI-3** assigns each role to a functional lane; **CS-4** and **CS-5** define system class and when critical-stewardship duties apply.*
 
-Under **Chapter Six**, section 5 (*Authorized Roles, Competency Development, and Contribution*) and the **Article XI-D** interface, each institution maintains its own authorized-role and accountability-chain map. That local map must assign:
+Under **Chapter Six**, section 5 (*Authorized Roles, Competency Development, and Contribution*) and the **Article XI-D** (*Internal Roles, Accountability, and Due-Process Requirements*) interface, each institution maintains its own authorized-role and accountability-chain map. That local map must assign:
 - scope and limits,
 - decision rights and review rights,
 - accountability owners and escalation routes,

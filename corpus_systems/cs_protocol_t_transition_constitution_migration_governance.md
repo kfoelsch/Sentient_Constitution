@@ -4,7 +4,7 @@
 - Topic-level routing and cited authorities remain in subsection text and cross-references.
 - Canonical owner map: `corpus_joint_structure.md` **CJS-2.1** (*Topic router (stable IDs)*) and `doc_architecture.md` section 4.
 
-Constitutional tracing: This protocol operationalizes phased migration into constitutional operation. **It** implements **Sentient Constitution Chapter Six, Article XXVI-A** for phased adoption and **Article XXVI-C** for failure off-ramps and re-baselining, with continuity requirements linked to Articles I–III and V, XI, XIII, and XIV. **It** defines transition sequencing, gate criteria, fallback handling, and reviewability. **It** does not narrow constitutional rights or constraints.
+Constitutional tracing: This protocol operationalizes phased migration into constitutional operation. **It** implements **Sentient Constitution Chapter Six, **Article XXVI-A** (*Phased Adoption and Rights-Floor Continuity*)** for phased adoption and **Article XXVI-C** (*Failure Off-Ramps, Re-Baselining, and Traceability*) for failure off-ramps and re-baselining, with continuity requirements linked to Articles I–III and V, XI, XIII, and XIV. **It** defines transition sequencing, gate criteria, fallback handling, and reviewability. **It** does not narrow constitutional rights or constraints.
 
 **1. Phased transition structure.** Transition programs must define at least: preparation, limited adoption, expanded adoption, and steady-state phases.
 

@@ -38,7 +38,7 @@ This family operationalizes the constitutional [Continuity aim](../core_00_pream
 - Read with: **CJS-5.3 — Auditability**
 - Read with: **CJS-5.15** (*Accountability: structural review, correction urgency, and disclosure terms*) and **CJS-5.6** (*Oversight: integrity assurance and resilience operations*) — Evolution, Revalidation, and Non-Entrenchment
 - Read with: `corpus_systems.md` **Protocol A — System Design, Testing, Verification, and Deployment**
-- Read with: **Article XV-A**
+- Read with: **Article XV-A** (*Auditability and Observable Evidence*)
 - Constitutional frame: **Continuity band** leg; **Continuity** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05o_oversight_definitions.md#materiality-determination).
 - Continuity disambiguation: Constitutional **Continuity** aim — not protocol or forum continuity alone.
 - Chapter One basis: §2.1, §3.1, §4.1, §12.1, §14 (see [cluster map](#cjs-51-constitutional-compass-and-cluster-map)).
@@ -127,9 +127,9 @@ Substitutability, exit constraints, and mitigation duties
 - Read with: `corpus_systems.md` **CS-3 — Information types and handling**
 - Read with: `corpus_systems.md` **CS-4 — System classification and handling**
 - Read with: `corpus_systems.md` **CS-5 — Critical system stewardship**
-- Read with: **Article XIX**
+- Read with: **Article XIX** (*Interoperability, Portability, Movement, Refuge, and Exit Integrity*)
 - Read with: **Article II-E** (*Info-Sphere Dependency, Continuity, and Operator Non-Viability*)
-- Read with: **Article XV-A**
+- Read with: **Article XV-A** (*Auditability and Observable Evidence*)
 - Constitutional frame: **Continuity band** leg; **Continuity** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05o_oversight_definitions.md#materiality-determination).
 - Continuity disambiguation: Constitutional **Continuity** aim — exit paths preserve lawful agency and system survivability.
 - Chapter One basis: §4.1, §11.1, §12.1, §13, §14 (see [cluster map](#cjs-51-constitutional-compass-and-cluster-map)).

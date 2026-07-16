@@ -43,8 +43,8 @@
 - **Article VII-D** (*Family, Care Relationships, Reproductive Autonomy, and Non-Separation*) in **Chapter Six** — family and care relationships, reproductive autonomy, and non-separation floors.
 - **Article III-D** (*Labor and Economic Floor*) in **Chapter Six** — fair compensation, collective organization, safe conditions, and leisure and rest for productive activity, including care work where material.
 - **Article III-C** (*Bodily-Maintenance and Healthcare Access*) in **Chapter Six** — bodily-maintenance and healthcare access for dependents without proxy denial.
-- **Chapter Five** [*Family and Care Relationships*](../core_05p_participation_definitions.md#family-and-care-relationships-constitutional) — definitional home for care-relationship duties alongside **Article VII-D**.
-- **CI-9.4** — survival floors, voluntary exchange, and markets (**Article III-A** interface): essential access cannot depend on unpaid care labor or premium purchasing.
+- **Chapter Five** [*Family and Care Relationships*](../core_05p_participation_definitions.md#family-and-care-relationships-constitutional) — definitional home for care-relationship duties alongside **Article VII-D** (*Family, Care Relationships, Reproductive Autonomy, and Non-Separation*).
+- **CI-9.4** — survival floors, voluntary exchange, and markets (**Article III-A** (*Survival*) interface): essential access cannot depend on unpaid care labor or premium purchasing.
 - **CI-10** — public revenue, fees, recurring charges, and billing integrity: charge design must not defeat care or respite access in practice.
 - **Protocol S5** (*Resource Allocation and Funding Stewardship*) in `corpus_systems.md` — funding stewardship, dependent-systems mapping, and auditable allocation for care-adjacent resource flows.
 - **CI-20** — relational coercive control, intimate power, and anti-domination routing: shared coercion floors and escalation interfaces for care, household, and platform contexts.
@@ -65,7 +65,7 @@ Each institution in scope must name the office or body responsible for:
 - **coercion-intake and escalation** — who receives reports of coercion, exploitation, or dependency abuse in care, household, or service relationships and routes them to **CI-20**, labor, housing, benefits, or comparable remedy lanes without retaliation against reporters;
 - **reproductive-labor metrics** — who tracks embodiment-related, reproductive, and maintenance labor burdens as governable inputs to planning and oversight, not invisible default obligations;
 - **reproductive-labor budget and service pathways** — who owns budget lines, service enrollment, and referral routes for reproductive healthcare, pregnancy-related support, elder care, disability support, substrate maintenance, and comparable dependency services; and
-- **reproductive-labor and care-work labor routes** — who connects paid care workers, family carers, and platform or agency intermediaries to fair-compensation, collective-organization, safe-conditions, and billing-integrity pathways under **Article III-D**, **CI-10**, and **Protocol S5**.
+- **reproductive-labor and care-work labor routes** — who connects paid care workers, family carers, and platform or agency intermediaries to fair-compensation, collective-organization, safe-conditions, and billing-integrity pathways under **Article III-D** (*Labor and Economic Floor*), **CI-10**, and **Protocol S5**.
 
 Read **CI-9.4**, **CI-10**, **Protocol S5**, **CI-20**, and **CI-19** where applicable.
 

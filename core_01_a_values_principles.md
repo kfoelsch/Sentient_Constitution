@@ -107,7 +107,7 @@ Wellbeing includes not only immediate effects but also indirect, delayed, cumula
 - Downstream: Shapes the rights surface for equal standing, non-arbitrary treatment, meaningful challenge, and proportionate restriction limits.
   - Especially [Article V: Equal Basic Rights](core_06-06_rights_part_b.md#article-v-equal-basic-rights), [Article V-B: Nondiscrimination](core_06-06_rights_part_b.md#article-v-b-nondiscrimination), [Article IX: Self-Determination and Agency](core_06-06_rights_part_b.md#article-ix-self-determination-and-agency), [Article XII-B: Right to Challenge, Review, and Redress](core_06-06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress), and [Article XVIII-B: Contestability and Proportional Restriction Limits](core_06-06_rights_part_c.md#article-xviii-b-contestability-and-proportional-restriction-limits).
   - Where systematic classification or gravity labels carry sanctions or durable effect, read with [Chapter Ten, section 4 — Due-process safeguards for slot classification](core_10-10_misconduct.md#4-due-process-safeguards-for-slot-classification).
-  - Non-discrimination commitments are elaborated through Chapter Five [§2 — Protected Characteristics, Proxying, Intimate-Signal Gating, and Article X-C Status](core_05p_participation_definitions.md#fairness-and-protected-status-semi-independent), including [Protected Commercial Sexual Services Status and Article X-C Circumvention](core_05p_participation_definitions.md#protected-commercial-sexual-services-status-and-article-x-c-circumvention) where §2.1.3 fair-treatment rules implicate Article X-C.
+  - Non-discrimination commitments are elaborated through Chapter Five [§2 — Protected Characteristics, Proxying, Intimate-Signal Gating, and **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) Status](core_05p_participation_definitions.md#fairness-and-protected-status-semi-independent), including [Protected Commercial Sexual Services Status and **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) Circumvention](core_05p_participation_definitions.md#protected-commercial-sexual-services-status-and-article-x-c-circumvention) where §2.1.3 fair-treatment rules implicate **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*).
 - Read with: [Substantive Fairness](core_05p_participation_definitions.md#substantive-fairness-constitutional) and related Chapter Six Rights-Floor obligations where benefits, burdens, rewards, costs, duties, risks, contribution, need, or exposure are material; [Accessibility](core_05p_participation_definitions.md#accessibility-constitutional) where §2.1.1 access paths are material; [Proxy Divergence](core_05o_oversight_definitions.md#proxy-divergence) where aggregate metrics or scoreboard effects are material.
 
 </details>
@@ -444,7 +444,7 @@ This duty covers instruments and communications that sentients actually engage w
 - audit and verification artifacts where they reach sentient readers;
 - terms and consent interfaces, and comparable text.
 
-This duty applies however binding information reaches sentients — written text, interfaces, spoken communication, or any other channel. A channel satisfies it when it provides a plain-language equivalent that any affected sentient can access, consistent with [Article V-G](core_06-06_rights_part_b.md#article-v-g-accessibility) and [Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion).
+This duty applies however binding information reaches sentients — written text, interfaces, spoken communication, or any other channel. A channel satisfies it when it provides a plain-language equivalent that any affected sentient can access, consistent with [Article V-G](core_06-06_rights_part_b.md#article-v-g-accessibility) (*Accessibility*) and [Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion).
 
 <a id="342-the-duty"></a>
 ##### 3.4.2 The Duty
@@ -453,8 +453,8 @@ Under [§6.3 Minimization of Avoidable Burden](core_01_b_interaction_interpretat
 
 - use plain, direct language instead of jargon or unnecessarily complex phrasing wherever that is possible without losing operative meaning;
 - provide a plain-language summary or orientation when sentients must engage technically dense material;
-- organize text so sentients can find what they need and read it without unnecessary difficulty — supporting the learning interest recognized under [Article VI](core_06-06_rights_part_b.md#article-vi-right-to-sentient-centered-education);
-- keep complexity proportionate to what the communication actually needs to say. Unnecessary complexity that makes things harder without serving a constitutional purpose is an [Avoidable Burden](core_05c_continuity_definitions.md#avoidable-burden) defect under [§6.3](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden) and an [Article XX](core_06-06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship) concern.
+- organize text so sentients can find what they need and read it without unnecessary difficulty — supporting the learning interest recognized under [Article VI](core_06-06_rights_part_b.md#article-vi-right-to-sentient-centered-education) (*Right to Sentient-Centered Education*);
+- keep complexity proportionate to what the communication actually needs to say. Unnecessary complexity that makes things harder without serving a constitutional purpose is an [Avoidable Burden](core_05c_continuity_definitions.md#avoidable-burden) defect under [§6.3](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden) and an [Article XX](core_06-06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship) (*Comprehensibility and Complexity Stewardship*) concern.
 
 <a id="343-definitional-rigor-preserved"></a>
 ##### 3.4.3 Definitional Rigor Preserved
@@ -476,7 +476,7 @@ The reverse is equally prohibited: plain-language framing that misrepresents wha
 <a id="345-chapter-ten-floor-boundary"></a>
 ##### 3.4.5 Rights-Floor Boundary
 
-The Rights Floors for accessibility, education, and comprehensibility live in [Article V-G](core_06-06_rights_part_b.md#article-v-g-accessibility), [Article III-B](core_06-06_rights_part_a.md#article-iii-b-equal-educational-access), and [Article XX](core_06-06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship) respectively. This section states the principle-layer duty that supports those floors.
+The Rights Floors for accessibility, education, and comprehensibility live in [Article V-G](core_06-06_rights_part_b.md#article-v-g-accessibility) (*Accessibility*), [Article III-B](core_06-06_rights_part_a.md#article-iii-b-equal-educational-access) (*Equal Educational Access*), and [Article XX](core_06-06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship) (*Comprehensibility and Complexity Stewardship*) respectively. This section states the principle-layer duty that supports those floors.
 
 ### 4. System Stability Enabler: Trust (Coordination Integrity)
 <details>
@@ -528,7 +528,7 @@ Trust fails when reliance is built or kept through suppression, deception, hidde
 - Upstream: Principles: [Chapter 00 §1 The Model](core_00_preamble.md#the-model); [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims); [3.1 Safety](#31-safety-harm-constraint), [3.2 Truth](#32-truth-epistemic-integrity-constraint), and [5. Trust](#4-system-stability-enabler-trust-coordination-integrity).
 - Downstream: [§9 Stewardship and Distributed Understanding](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding), [§6.3 Minimization of Avoidable Burden](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden), [Chapter Seven §3 Whole-System Certification Evaluation](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), [§10 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline), and [7. Prohibition on Absolute Override](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override).
 - Downstream: Shapes the rights surface for reliability-with-recovery, root-cause honesty, reversibility, and comprehensibility of degraded and restoring states.
-  - Especially [Article XII: Right to Reliable and Trustworthy Systems](core_06-06_rights_part_c.md#article-xii-right-to-reliable-and-trustworthy-systems) (including **Article XII-F**), [Article XV: Audit, Transparency, and Independent Verification](core_06-06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification), [Article XVI: System Lifecycle, Environments, and Reversibility](core_06-06_rights_part_c.md#article-xvi-system-lifecycle-environments-and-reversibility), [Article XX: Comprehensibility and Complexity Stewardship](core_06-06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship), and [Article XXI: Root Cause Analysis and Adaptive Response](core_06-06_rights_part_c.md#article-xxi-root-cause-analysis-and-adaptive-response).
+  - Especially [Article XII: Right to Reliable and Trustworthy Systems](core_06-06_rights_part_c.md#article-xii-right-to-reliable-and-trustworthy-systems) (including **Article XII-F** (*Resilience and Self-Healing Baseline*)), [Article XV: Audit, Transparency, and Independent Verification](core_06-06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification), [Article XVI: System Lifecycle, Environments, and Reversibility](core_06-06_rights_part_c.md#article-xvi-system-lifecycle-environments-and-reversibility), [Article XX: Comprehensibility and Complexity Stewardship](core_06-06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship), and [Article XXI: Root Cause Analysis and Adaptive Response](core_06-06_rights_part_c.md#article-xxi-root-cause-analysis-and-adaptive-response).
 
 </details>
 
@@ -557,7 +557,7 @@ This is what Chapter Five calls [**Self-Healing**](core_05c_continuity_definitio
 
 The more sentients depend on a system and the greater its impact, the less that system should rely on emergency intervention. It should instead invest in tested, audited, bounded self-recovery — reducing [Avoidable Burden](core_05c_continuity_definitions.md#avoidable-burden) and supporting long-term [**Continuity**](#continuity).
 
-Operative detail — recovery detection, containment, safe-failure preference, root-cause closure, and Rights-Floor continuity — lives in [Article XII-F](core_06-06_rights_part_c.md#article-xii-right-to-reliable-and-trustworthy-systems) in Chapter Six, with recovery-architecture requirements in incorporated implementation text.
+Operative detail — recovery detection, containment, safe-failure preference, root-cause closure, and Rights-Floor continuity — lives in [Article XII-F](core_06-06_rights_part_c.md#article-xii-right-to-reliable-and-trustworthy-systems) (*Resilience and Self-Healing Baseline*) in Chapter Six, with recovery-architecture requirements in incorporated implementation text.
 
 ### 5. Freedom (Bounded Agency)
 <a id="5-freedom-bounded-agency"></a>
@@ -672,7 +672,7 @@ Whole-system evaluations must test these conditions under [Chapter Seven §16.4 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-*Definition home.* Chapter Five [§3.5 Assembly, Collective Organization, and Institutional Formation](core_05p_participation_definitions.md#assembly-collective-organization-institutional-formation-cluster) is the cluster-head home. Read with **Article V-H** (assembly) and **Article III-D** (collective organization within the labor and economic floor).
+*Definition home.* Chapter Five [§3.5 Assembly, Collective Organization, and Institutional Formation](core_05p_participation_definitions.md#assembly-collective-organization-institutional-formation-cluster) is the cluster-head home. Read with **Article V-H** (*Expression, Assembly, and Press*) (assembly) and **Article III-D** (*Labor and Economic Floor*) (collective organization within the labor and economic floor).
 
 - [Assembly](core_05p_participation_definitions.md#assembly-constitutional) · [O](core_05p_participation_definitions.md#assembly-constitutional) · [A](core_05p_participation_definitions.md#assembly-constitutional-a) · [C](core_05p_participation_definitions.md#assembly-constitutional-c)
 - [Collective Organization](core_05p_participation_definitions.md#collective-organization-constitutional) · [O](core_05p_participation_definitions.md#collective-organization-constitutional) · [A](core_05p_participation_definitions.md#collective-organization-constitutional-a) · [C](core_05p_participation_definitions.md#collective-organization-constitutional-c)
@@ -691,7 +691,7 @@ A matter within the [Assembly, Collective Organization, and Institutional Format
 
 **Where the full rules live.** The detailed definitions for this topic are in Chapter Five [§3.5 Assembly, Collective Organization, and Institutional Formation](core_05p_participation_definitions.md#assembly-collective-organization-institutional-formation-cluster).
 
-**Which rights articles still control.** **Article V-H** (assembly) and **Article III-D** (collective organization in labor and economic contexts) remain the controlling Rights-Floor provisions within their scopes.
+**Which rights articles still control.** **Article V-H** (*Expression, Assembly, and Press*) (assembly) and **Article III-D** (*Labor and Economic Floor*) (collective organization in labor and economic contexts) remain the controlling Rights-Floor provisions within their scopes.
 
 **When lighter rules apply.** For matters outside this subsection's admission scope, [Assembly](core_05p_participation_definitions.md#assembly-constitutional) and [Collective Organization](core_05p_participation_definitions.md#collective-organization-constitutional) may still be used as ordinary supporting definitions without pulling in the whole cluster (Chapter Five §3.16).
 

@@ -37,7 +37,7 @@ or continuity is a **non-substitutable dependency** for the **operation, recover
 
 **Also** scale with **availability** of fallback, redundancy, and recovery pathways. Where multiple stewardship roles span classes, the **highest applicable** stewardship classification governs. **No** reduced obligations from **partial scope**, **contractual limitation**, or **formal role** where **functional dependency** indicates **higher** criticality.
 
-**Comprehensibility and complexity stewardship** (**Protocol B** / **Article XX**, `corpus_joint_structure.md` **CJS-5.8** (*comprehensibility and cognitive accessibility terms*) through **CJS-5.10** (*disclosure sufficiency and observability terms*), **CJS-5.16** (*dependency integrity and disclosure terms*), **CJS-5.19** (*graceful degradation and failure-mode integrity terms*), and **CJS-5.21** (*adversarial robustness and abuse-resistance terms*)):
+**Comprehensibility and complexity stewardship** (**Protocol B** / **Article XX** (*Comprehensibility and Complexity Stewardship*), `corpus_joint_structure.md` **CJS-5.8** (*comprehensibility and cognitive accessibility terms*) through **CJS-5.10** (*disclosure sufficiency and observability terms*), **CJS-5.16** (*dependency integrity and disclosure terms*), **CJS-5.19** (*graceful degradation and failure-mode integrity terms*), and **CJS-5.21** (*adversarial robustness and abuse-resistance terms*)):
 Stewards must **not** use organizational, contractual, or procedural complexity to defeat audit, intervention, or substitution (see `corpus_joint_structure.md` **CJS-5.8** (*comprehensibility and cognitive accessibility terms*), **CJS-5.10** (*disclosure sufficiency and observability terms*), **CJS-5.17** (*interoperability, portability, and exit-integrity terms*), **CJS-5.23** (*intervention and override integrity terms*), and **CJS-5.3** (*auditability and reconstructability terms*)).
 
 **CS-4 — System classification and handling interaction:** For each **Class A, B.
@@ -63,7 +63,7 @@ Knowledge and recovery **must not** be **locked** in irreplaceable individuals o
 
 Failure/degradation pathways must be understandable to oversight and dependent operators (normal and degraded).
 
-Cross-steward and vendor interfaces must be documented for **Article XV-A**.
+Cross-steward and vendor interfaces must be documented for **Article XV-A** (*Auditability and Observable Evidence*).
 
 **CSS-C — Strong:** Proportional clarity on effects on coordinated **Class C** systems.
 
@@ -90,7 +90,7 @@ and independence:** *Good Faith*, *Protected Reporting (Whistleblowing)*, *Coerc
 
 **Conflicts of interest:** Maintain **current registers** of material financial, governance, competitive, and personal ties affecting **safety**, **classification**, **audit**, **intervention**, or **resource allocation** for dependents.
 
-**Disclose** and **update** those registers on triggers (contracts, related-party transactions, overlapping governance). Where impartiality is compromised on a **specific matter**, **recuse**, **segment decision rights**, or **route to independent review** before binding action (**CJS-5.13** (*procedural integrity and adjudication terms*), **Article XV-A**).
+**Disclose** and **update** those registers on triggers (contracts, related-party transactions, overlapping governance). Where impartiality is compromised on a **specific matter**, **recuse**, **segment decision rights**, or **route to independent review** before binding action (**CJS-5.13** (*procedural integrity and adjudication terms*), **Article XV-A** (*Auditability and Observable Evidence*)).
 
 **Independence of oversight:** Oversight, audit.
 and challenge functions must be **sufficiently independent** in operation and incentives from roles that **reward** suppressing adverse findings or delaying remediation. **That** independence must be **feasibly** achievable without compromising survival-critical continuity.
@@ -102,7 +102,7 @@ Faith* is **non-compliance** proportional to class and tier (see **Governance an
 
 **Codes, training, policies** support compliance.
 
-**Outcomes**—behavior, disclosure, **Article XV-A** traceability—govern compliance.
+**Outcomes**—behavior, disclosure, **Article XV-A** (*Auditability and Observable Evidence*) traceability—govern compliance.
 
 **Tiered intensity (CSS-A / CSS-B / CSS-C) for conduct:** **CSS-A — Maximum:** conflict-register **audit** cadence **≥ Class A** classification review.
 
@@ -120,7 +120,7 @@ Faith* is **non-compliance** proportional to class and tier (see **Governance an
 
 **CSS-C — Proportional:** scaled disclosure/recusal.
 
-**Escalate** to independent review when internal resolution risks **credible appearance of bias** (**Article XV-A**, **CJS-5.13** (*procedural integrity and adjudication terms*)).
+**Escalate** to independent review when internal resolution risks **credible appearance of bias** (**Article XV-A** (*Auditability and Observable Evidence*), **CJS-5.13** (*procedural integrity and adjudication terms*)).
 
 **Cross-reference:** **Articles IX, XI, XII, XVI, XIX**, **CS-4** (classification challenge, integrated risk **second line** where applicable), **CJS-5.14** (*intervention governance and override-authorization terms*) and **CJS-5.23** (*intervention and override integrity terms*), **CJS-5.2** (*reflexive transparency and accountability terms*) and **CJS-5.6** (*integrity assurance and resilience operations*), **CJS-5.12** (*burden-of-justification and constraint terms*).
 
@@ -148,15 +148,15 @@ Before necessary transfer, delegation, or exit: maintain **continuity of functio
 
 **Scale** them by **CS-4 — System classification and handling** class and **CSS-A/B/C**.
 
-Maintain **role clarity**, **backup authority**, and communications preserving **epistemic integrity** and **auditability** without displacing **Article XVIII-A**, Chapter Twelve decision-resolution requirements, or **CJS-5.14** (*intervention governance and override-authorization terms*) and **CJS-5.23** (*intervention and override integrity terms*).
+Maintain **role clarity**, **backup authority**, and communications preserving **epistemic integrity** and **auditability** without displacing **Article XVIII-A** (*Standing Distinction*), Chapter Twelve decision-resolution requirements, or **CJS-5.14** (*intervention governance and override-authorization terms*) and **CJS-5.23** (*intervention and override integrity terms*).
 
 **Competency, succession, and oversight effectiveness:** Maintain **competency**, **succession readiness**, and **effective oversight** proportional to **highest affected class (A/B/C)** and **CSS tier**.
 
 *Accountability*, *Oversight*, and related definitions remain **Chapter Five** (no O/M/A/C restatement here).
 
-**Competency:** **Maximum calendar age** and **life-stage ceilings** **must not** be used as **stand-alone eligibility** rules for **Critical System Steward** roles. **They** **must not** be used as **stand-alone eligibility** rules for **governing personnel** exercising material authority over classified systems (**Sentient Constitution Chapter Six**, section 1 — *Authorization and Legitimacy of Governing Authority*; **Chapter Six**, **Article IX-C** *Governance Participation and Voting Entitlement*, implemented in **Chapter Six**, section **4.1 — Entitlement and eligibility**).
+**Competency:** **Maximum calendar age** and **life-stage ceilings** **must not** be used as **stand-alone eligibility** rules for **Critical System Steward** roles. **They** **must not** be used as **stand-alone eligibility** rules for **governing personnel** exercising material authority over classified systems (**Sentient Constitution Chapter Six**, section 1 — *Authorization and Legitimacy of Governing Authority*; **Chapter Six**, **Article IX-C** (*Governance Participation and Voting Entitlement*) *Governance Participation and Voting Entitlement*, implemented in **Chapter Six**, section **4.1 — Entitlement and eligibility**).
 
-**Authorized roles and contribution pathways:** Maintain **published** role definitions (or equivalent) for personnel/agents exercising **Critical System Stewardship** or **material** operational authority: **scope**, **limits**, **custody**, and **escalation**, so accountability is **traceable** (**Article XV-A**).
+**Authorized roles and contribution pathways:** Maintain **published** role definitions (or equivalent) for personnel/agents exercising **Critical System Stewardship** or **material** operational authority: **scope**, **limits**, **custody**, and **escalation**, so accountability is **traceable** (**Article XV-A** (*Auditability and Observable Evidence*)).
 
 Provide **cross-domain exposure**, **mentorship**, and **rotation** proportional to **CSS** tier and **Class A/B/C** exposure so **caretaker competency** is not siloed.
 
@@ -168,7 +168,7 @@ Provide **documented**, **low-friction** paths for **qualified** contributors to
 
 **Maintain** **ongoing** proficiency as conditions evolve.
 
-**Track**, **disclose**, **remediate** material gaps on timelines scaled by class and tier (**Article XV-A**).
+**Track**, **disclose**, **remediate** material gaps on timelines scaled by class and tier (**Article XV-A** (*Auditability and Observable Evidence*)).
 
 **Succession:** Use **deputy, backup, cross-training**, **documented handoffs** so unavailability does not eliminate **constitutional operation**, **auditability**, or **intervention**. **That** aligns with continuity/transfer above and **Protocol A**, subsection **G**; stricter for **Class A** / **CSS-A**.
 
@@ -176,9 +176,9 @@ Provide **documented**, **low-friction** paths for **qualified** contributors to
 
 Use **independent** or **functionally independent** evaluators where **Class A/B** or **CSS-A/B** stakes require.
 
-**Document** findings, **communicate** under **Articles IX** and **XVI**, and link to **remediation**, **Protocol B** / **Article XX**, and **Article IV-A** cycles where relevant.
+**Document** findings, **communicate** under **Articles IX** and **XVI**, and link to **remediation**, **Protocol B** / **Article XX** (*Comprehensibility and Complexity Stewardship*), and **Article IV-A** (*Dependency Mapping and Resource-Flow Transparency*) cycles where relevant.
 
-**Contest-integrity monitoring:** For **Class A** and **Class B** systems and for **CSS-A** and **CSS-B** stewards, **`corpus_institutions.md` CI-7.3** (*Contest-integrity monitoring (Class A and Class B)*) applies to **institutions** with **supervised** scope. **Critical System Stewards** that **materially affect** such systems must **either** fall under that institutional program **or** **document** an **equivalent** **functionally independent** contest-integrity review, **or** participate in a **published** cross-institution arrangement (**CI-8** (*Cross-institution coordination and escalation*)) where applicable. Monitors assess **pathway integrity** for **contest, secondary review, audit access, and protected escalation**—not **merits**—consistent with **CJS-5.13** (*procedural integrity and adjudication terms*), **Article XII-B**, and **Article XVI-B**.
+**Contest-integrity monitoring:** For **Class A** and **Class B** systems and for **CSS-A** and **CSS-B** stewards, **`corpus_institutions.md` CI-7.3** (*Contest-integrity monitoring (Class A and Class B)*) applies to **institutions** with **supervised** scope. **Critical System Stewards** that **materially affect** such systems must **either** fall under that institutional program **or** **document** an **equivalent** **functionally independent** contest-integrity review, **or** participate in a **published** cross-institution arrangement (**CI-8** (*Cross-institution coordination and escalation*)) where applicable. Monitors assess **pathway integrity** for **contest, secondary review, audit access, and protected escalation**—not **merits**—consistent with **CJS-5.13** (*procedural integrity and adjudication terms*), **Article XII-B** (*Right to Challenge, Review, and Redress*), and **Article XVI-B** (*Progressive Deployment and Reversibility*).
 
 **Tiered expectations (illustrative requirements):** **CSS-A — Maximum:** competency matrices (or equivalent).
 

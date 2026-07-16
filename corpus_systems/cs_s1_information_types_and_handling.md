@@ -35,7 +35,7 @@ Protection may be reduced only through **justified, documented override** under 
 
 All classification decisions and transformations must remain **transparent (`corpus_joint_structure.md` CJS-5.10 (*disclosure sufficiency and observability terms*))**, **auditable (`corpus_joint_structure.md` CJS-5.3 (*auditability and reconstructability terms*))**, and **subject to challenge (`corpus_joint_structure.md` CJS-5.13 (*procedural integrity and adjudication terms*))**.
 
-**Misclassification:** Misclassification, evasive structuring, or functional circumvention violates **informational integrity** (**Article XIV**), auditability where observable evidence is implicated (**Article XV-A**), and **applicable rights under Chapter Six, Articles V through IX**.
+**Misclassification:** Misclassification, evasive structuring, or functional circumvention violates **informational integrity** (**Article XIV** (*Info-Sphere Integrity*)), auditability where observable evidence is implicated (**Article XV-A** (*Auditability and Observable Evidence*)), and **applicable rights under Chapter Six, Articles V through IX**.
 
 ### IV. Anti-circumvention and integrity of classification
 Data classification under CS-3 — Information types and handling is binding across all systems, processes, and transformations. **No system may:**
@@ -61,7 +61,7 @@ Reductions in protection may occur only through **proportional application** (**
 
 **3. Tiered transparency and audit access.** Data access must satisfy `corpus_joint_structure.md` **CJS-5.4** (*tiered transparency and audit-access terms*) for balancing transparency, auditability, and protected-boundary constraints.
 
-It must also balance protection of internal states and sensitive data (**Sentient Constitution Chapter Six, Article VII-B**; Types **H**, **I**, **N**, and **S** in this chapter). Where applicable based on system impact (**CJS-5.11** (*distributed and proportional authority terms*) and **CJS-5.7** (*quorum and participatory legitimacy terms*)), systems must support **baseline accessibility** (sufficient visibility into behavior and effects for informed participation and risk evaluation). Systems must support qualified audit access (structured pathways for independent auditors to deeper data where verification requires it) and forensic access (full reconstruction in cases of harm, dispute, or credible risk, consistent with **CJS-5.11** (*distributed and proportional authority terms*) and **CJS-5.7** (*quorum and participatory legitimacy terms*) and **CJS-5.12** (*burden-of-justification and constraint terms*)).
+It must also balance protection of internal states and sensitive data (**Sentient Constitution Chapter Six, **Article VII-B** (*Internal-State Boundary and Type-N Protection*)**; Types **H**, **I**, **N**, and **S** in this chapter). Where applicable based on system impact (**CJS-5.11** (*distributed and proportional authority terms*) and **CJS-5.7** (*quorum and participatory legitimacy terms*)), systems must support **baseline accessibility** (sufficient visibility into behavior and effects for informed participation and risk evaluation). Systems must support qualified audit access (structured pathways for independent auditors to deeper data where verification requires it) and forensic access (full reconstruction in cases of harm, dispute, or credible risk, consistent with **CJS-5.11** (*distributed and proportional authority terms*) and **CJS-5.7** (*quorum and participatory legitimacy terms*) and **CJS-5.12** (*burden-of-justification and constraint terms*)).
 
 Restrictions on access must be **narrowly scoped**, **justified**, **auditable**, and **subject to challenge (`corpus_joint_structure.md` CJS-5.13 (*procedural integrity and adjudication terms*))**.
 
@@ -89,7 +89,7 @@ Responsibility must remain assignable through transparent, auditable processes.
 
 Attribution must resist **tampering, repudiation, or ambiguity**.
 
-All data access, processing, and transformation must be **attributable** to identifiable systems, agents, or sentients (**Chapter Six, Article VII** — self-ownership and attributable representation where applicable) and **recorded** in a manner sufficient for audit and reconstruction (`corpus_joint_structure.md` **CJS-5.3** (*auditability and reconstructability terms*)). Systems must ensure **clear responsibility** for actions taken on data and **traceability** of decisions and outcomes.
+All data access, processing, and transformation must be **attributable** to identifiable systems, agents, or sentients (**Chapter Six, **Article VII** (*Self-Ownership*)** — self-ownership and attributable representation where applicable) and **recorded** in a manner sufficient for audit and reconstruction (`corpus_joint_structure.md` **CJS-5.3** (*auditability and reconstructability terms*)). Systems must ensure **clear responsibility** for actions taken on data and **traceability** of decisions and outcomes.
 
 **7. Proportional attribution and retention.** Attribution requirements do **not** imply universal or persistent logging of all actions.
 
@@ -276,7 +276,7 @@ treat the data under the **more sensitive domain’s** protections. Systems must
 - use Type H to create **hidden or coercive behavioral profiling** (including opaque social scoring, predictive manipulation. or differential treatment that is not transparent, challengeable, and aligned with this constitution)
 - **retain** fine-grained behavioral histories longer than justified by purpose, safety, audit, or stakeholder need
 - create **asymmetric informational advantages** that materially impair affected sentients’ ability to understand, challenge, or respond to decisions affecting them
-- use external, contractor-held, foreign-partner, or parallel-system data flows to circumvent limits that would have applied to direct collection, linkage, or analysis under **Article XIII-A**, **CJS-5.12** (*burden-of-justification and constraint terms*), or this chapter
+- use external, contractor-held, foreign-partner, or parallel-system data flows to circumvent limits that would have applied to direct collection, linkage, or analysis under **Article XIII-A** (*Security, Intelligence, and Covert-Power Limits*), **CJS-5.12** (*burden-of-justification and constraint terms*), or this chapter
 
 **Retention:** Type H must **not** be retained beyond the period necessary for its justified purpose. Systems must **actively minimize** retention and periodically review stored data for deletion, aggregation, or de-identification.
 
@@ -300,10 +300,10 @@ it must **also** satisfy **Type N** requirements, applying the **more protective
 - be **exposed** beyond what is necessary for its intended function
 - **create persistent tracking** across unrelated contexts
 - be **centralized** in a manner that creates systemic control or dependency
-- **enable coercion, surveillance, or manipulation** (**Article VII-A**), including consolidating power or control through identity dependency (**CJS-5.17** (*interoperability, portability, and exit-integrity terms*) — exit and dependency concentration)
+- **enable coercion, surveillance, or manipulation** (**Article VII-A** (*Self-Ownership of Body and Mind*)), including consolidating power or control through identity dependency (**CJS-5.17** (*interoperability, portability, and exit-integrity terms*) — exit and dependency concentration)
 - **restrict access** to participation, resources, or systems **without justified cause** (**CJS-5.12** (*burden-of-justification and constraint terms*))
 
-All uses are subject to **audit** (**Article XV-A**), **challenge** (**Article XII-B**), and **revalidation** (**CJS-5.15** (*structural review, correction urgency, and disclosure terms*) and **CJS-5.6** (*integrity assurance and resilience operations*)).
+All uses are subject to **audit** (**Article XV-A** (*Auditability and Observable Evidence*)), **challenge** (**Article XII-B** (*Right to Challenge, Review, and Redress*)), and **revalidation** (**CJS-5.15** (*structural review, correction urgency, and disclosure terms*) and **CJS-5.6** (*integrity assurance and resilience operations*)).
 
 **Disclosure requirement:** High restriction. No system may require **global, persistent, or unified** identity across all contexts without **justified necessity** under **CJS-5.12** (*burden-of-justification and constraint terms*).
 
@@ -311,15 +311,15 @@ All uses are subject to **audit** (**Article XV-A**), **challenge** (**Article X
 
 All additional disclosure requires **explicit, informed, freely given consent** or **justified, documented override** under **CJS-5.12** (*burden-of-justification and constraint terms*). This data must **not** be **centralized** to create systemic control or dependency. It must not be exposed beyond necessary function and must not be used to restrict participation except under justified conditions consistent with **CJS-5.12** (*burden-of-justification and constraint terms*).
 
-Where identity or attribution systems support security, intelligence, screening, or covert-investigation functions, they must not create generalized watchlisting, persistent cross-context tracking, or hidden political, associational, or belief-linked profiling absent a specifically justified and independently reviewable basis consistent with **Article XIII-A** and the stricter applicable protections in this chapter.
+Where identity or attribution systems support security, intelligence, screening, or covert-investigation functions, they must not create generalized watchlisting, persistent cross-context tracking, or hidden political, associational, or belief-linked profiling absent a specifically justified and independently reviewable basis consistent with **Article XIII-A** (*Security, Intelligence, and Covert-Power Limits*) and the stricter applicable protections in this chapter.
 
 ---
 
 **Type N: Neurocognitive and internal data.** **Default classification:** Non-Accessible by Default.  
 **Normative alignment:** CJS-5.10 (*disclosure sufficiency and observability terms*).
-CJS-5.5 (*independent verification and claim-integrity terms*), CJS-5.12 (*burden-of-justification and constraint terms*), CJS-5.22 (*constrained-secrecy and protected-investigation terms*), **Sentient Constitution Chapter Six, Article VII-B** (*Internal-State Boundary and Type-N Protection*), and **corpus_joint_structure.md** **CJS-4.3** (*Cross-implementation trust integrity (joint operation model)*) and **CJS-5** (*Implementation and cross-implementation operational cluster library*) operational clusters, incorporated via **Sentient Constitution Chapter Sixteen**.
+CJS-5.5 (*independent verification and claim-integrity terms*), CJS-5.12 (*burden-of-justification and constraint terms*), CJS-5.22 (*constrained-secrecy and protected-investigation terms*), **Sentient Constitution Chapter Six, **Article VII-B** (*Internal-State Boundary and Type-N Protection*)** (*Internal-State Boundary and Type-N Protection*), and **corpus_joint_structure.md** **CJS-4.3** (*Cross-implementation trust integrity (joint operation model)*) and **CJS-5** (*Implementation and cross-implementation operational cluster library*) operational clusters, incorporated via **Sentient Constitution Chapter Sixteen**.
 
-**Definition:** All data that represents or enables reconstruction of sentients' internal states. This category is foundational to self-ownership (**Article VII-A**; **Article VII-B**). It includes thoughts, intentions, beliefs, subjective experiences, internal perception, private cognitive processes, internal memory, non-public emotional or psychological states, and physical or behavioral data that could be used to reconstruct or infer the above.
+**Definition:** All data that represents or enables reconstruction of sentients' internal states. This category is foundational to self-ownership (**Article VII-A** (*Self-Ownership of Body and Mind*); **Article VII-B** (*Internal-State Boundary and Type-N Protection*)). It includes thoughts, intentions, beliefs, subjective experiences, internal perception, private cognitive processes, internal memory, non-public emotional or psychological states, and physical or behavioral data that could be used to reconstruct or infer the above.
 
 **Core constraint:** Must **not** be accessed, inferred, reconstructed, simulated, or exposed without **explicit, informed, freely given consent**, except under conditions **justified through CJS-5.12** (*burden-of-justification and constraint terms*).
 
@@ -327,7 +327,7 @@ CJS-5.5 (*independent verification and claim-integrity terms*), CJS-5.12 (*burde
 
 **Consent requirements:** **Explicit and informed**.
 
-Consent must be freely given, without coercion, manipulation, or deceptive framing (**Article VII-A**). It must be specific to intended use and scope, and revocable where technically feasible.
+Consent must be freely given, without coercion, manipulation, or deceptive framing (**Article VII-A** (*Self-Ownership of Body and Mind*)). It must be specific to intended use and scope, and revocable where technically feasible.
 
 Consent must **not** be **inferred from behavior**. It must not be assumed through participation in unrelated systems, and must not be transferred or repurposed without explicit reauthorization.
 
@@ -337,7 +337,7 @@ Consent must **not** be **inferred from behavior**. It must not be assumed throu
 
 Systems generating behavioral, predictive, or analytical models from external data must **not** present outputs as authoritative representations of internal states without clear disclosure of uncertainty, limitations, and methodological boundaries. They must not simulate, represent, or imply access to internal cognition in a misleading, coercive, or unverifiable manner, and must not reconstruct, derive, or approximate internal states in a way that functionally bypasses consent requirements. Such systems must **clearly distinguish observed behavior from inferred internal states**. They must preserve uncertainty, avoiding deterministic claims about cognition and intent.
 
-Where such systems are used for security, intelligence, eligibility restriction, or covert-investigation purposes, they must also preserve reviewable records of model role, authorization basis, protected-activity safeguards, and any minimization, segregation, challenge, or deletion controls required by **Article XIII-A** or **CJS-5.12** (*burden-of-justification and constraint terms*).
+Where such systems are used for security, intelligence, eligibility restriction, or covert-investigation purposes, they must also preserve reviewable records of model role, authorization basis, protected-activity safeguards, and any minimization, segregation, challenge, or deletion controls required by **Article XIII-A** (*Security, Intelligence, and Covert-Power Limits*) or **CJS-5.12** (*burden-of-justification and constraint terms*).
 
 ---
 

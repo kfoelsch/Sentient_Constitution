@@ -31,7 +31,7 @@
 - **CI-9.1** — formation and authorization burdens that scale with impact: easy paths for low-risk (**Class P**) contexts, deeper diligence for high-dependency (**Class A** / **Class B**) contexts.
 - **CI-9.2** — a published map of which industries and domains the institution supervises, how they are classified, and when reclassification is required.
 - **CI-9.3** — rules for delegated subunits and hybrid decision bodies: who they are, what they may decide, how members are composed, and how long rotating or home-based terms run.
-- **CI-9.4** — how institutional instruments connect essential-access floors and voluntary markets without conditioning survival on labor or premium purchasing (**Article III-A** interface).
+- **CI-9.4** — how institutional instruments connect essential-access floors and voluntary markets without conditioning survival on labor or premium purchasing (**Article III-A** (*Survival*) interface).
 
 *In plain terms: classification is not a decorative label. It is the dial that sets how hard institutions must work — and the dial must match reality, stay published, and tighten when dependency or risk grows.*
 
@@ -41,7 +41,7 @@ Apply **CJS-5.11** **Classification-scaled governance burden** for the shared cl
 
 **Constitutional floor for formation**
 
-The operational mechanics in this section — registration, fiscal treatment, liability frameworks, and dissolution pathways — implement the Chapter Five Rights Floor for [System Creation](../core_05p_participation_definitions.md#system-creation-constitutional) (non-commercial institutional formation) and [Business Creation](../core_05p_participation_definitions.md#business-creation-constitutional) (commercial entrepreneurial formation). These mechanics must not narrow the constitutional floor. They must remain consistent with the [Assembly, Collective Organization, and Institutional Formation cluster](../core_05p_participation_definitions.md#assembly-collective-organization-institutional-formation-cluster) and owner-floor provisions in **Article IX-B** (System Creation) and **Article III-D** (Business Creation).
+The operational mechanics in this section — registration, fiscal treatment, liability frameworks, and dissolution pathways — implement the Chapter Five Rights Floor for [System Creation](../core_05p_participation_definitions.md#system-creation-constitutional) (non-commercial institutional formation) and [Business Creation](../core_05p_participation_definitions.md#business-creation-constitutional) (commercial entrepreneurial formation). These mechanics must not narrow the constitutional floor. They must remain consistent with the [Assembly, Collective Organization, and Institutional Formation cluster](../core_05p_participation_definitions.md#assembly-collective-organization-institutional-formation-cluster) and owner-floor provisions in **Article IX-B** (*Stakeholder Role and Participation Rights*) (System Creation) and **Article III-D** (*Labor and Economic Floor*) (Business Creation).
 
 ### CI-9.1: Formation proportionality
 <details>
@@ -280,12 +280,12 @@ Apply **CJS-4.1.2** (*Attachment publication*) for shared rotating-attachment re
 
 Apply **CJS-4.1.2** (*Attachment publication*) for shared home-based continuity requirements (published term, renewal, and stagger rules and no mirror requirement relative to rotating formulas). **CI-9.3.4** retains institution-specific scaling and assurance requirements on top of that shared floor.
 
-### CI-9.4: Survival floors, voluntary exchange, and markets (Article III-A interface)
+### CI-9.4: Survival floors, voluntary exchange, and markets (**Article III-A** (*Survival*) interface)
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06-06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
-- Downstream: this section's local operational requirements for **CI-9.4: Survival floors, voluntary exchange, and markets (Article III-A interface)**.
+- Downstream: this section's local operational requirements for **CI-9.4: Survival floors, voluntary exchange, and markets (**Article III-A** (*Survival*) interface)**.
 - Read with: **CI-9.4**; **CI-10.1**.
 
 </details>
@@ -309,7 +309,7 @@ Apply **CJS-4.1.2** (*Attachment publication*) for shared home-based continuity 
 
 Apply **CJS-5.12** **Survival-critical access and voluntary-market interface** for the shared floor. **CI-9.4** keeps only what each institution must name and maintain locally:
 
-- who owns the **Article III-A** instrument or program interface;
+- who owns the **Article III-A** (*Survival*) instrument or program interface;
 - how it links to **CI-10.1** revenue and charge design; and
 - documentation duties for eligibility, migration, fraud control, regional adequacy, and proportionality.
 

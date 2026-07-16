@@ -45,14 +45,14 @@
 
 - **[CJS-5.5](../corpus_joint_structure.md)** (*independent verification and claim-integrity terms*) — independent verification, reproducibility, anti-single-authority verification, structured claim-testing, reliance and correction integrity, structured review and incentive-integrity floors.
 - **Article XVII-E** (*Scientific Publication, Review, and Replication Integrity*) in **Chapter Six** — science as public verification infrastructure, open publication and evidence sufficiency, review and replication over prestige, correction and contestability.
-- **Chapter One** (*Truth*, epistemic disclosure constraints) and **Article XVI-A** — narrow limits on publication where privacy, biosafety, security, or comparable justification applies.
+- **Chapter One** (*Truth*, epistemic disclosure constraints) and **Article XVI-A** (*Lifecycle Governance and Environment Separation*) — narrow limits on publication where privacy, biosafety, security, or comparable justification applies.
 - **CF-10** (*Technical specialist forums and specialist chambers*) in `corpus_forum.md` — specialist science-facing technical forum routes under **CJS-R09**.
-- **CI-25 scope** — does not repeat those floors; states **Article XVII-E** publication owner files and local routing duties.
+- **CI-25 scope** — does not repeat those floors; states **Article XVII-E** (*Scientific Publication, Review, and Replication Integrity*) publication owner files and local routing duties.
 
 **Apply**
 
 - Apply **CJS-5.5** (*independent verification and claim-integrity terms*) for the shared claim-testing, review, reliance, correction, and incentive-integrity floors.
-- **CI-25** states only local **Article XVII-E** publication owner files, ombuds routing, and **CF-10** referral interfaces across **CI-25.1** through **CI-25.5**.
+- **CI-25** states only local **Article XVII-E** (*Scientific Publication, Review, and Replication Integrity*) publication owner files, ombuds routing, and **CF-10** referral interfaces across **CI-25.1** through **CI-25.5**.
 
 ### CI-25.1: Publication intake and correction records
 <details>

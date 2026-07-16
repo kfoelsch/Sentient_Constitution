@@ -3,9 +3,12 @@
 
 from __future__ import annotations
 
+import argparse
 import pathlib
 import re
 import sys
+
+from corpus_paths import binding_corpus_scope
 
 ROOT = pathlib.Path(__file__).resolve().parents[1]
 PART_FILES = sorted(ROOT.glob("core_06-06_rights_part_*.md"))
@@ -18,6 +21,24 @@ BOLD_CITE_RE = re.compile(rf"\*\*Article ({LABEL_RE})\*\*(?!\s*\(\*)")
 LINK_CITE_RE = re.compile(
     rf"\[Article ({LABEL_RE})\]\(([^)]+)\)(?!\s*\(\*)"
 )
+BARE_CITE_RE = re.compile(
+    rf"(?<!this )(?<!\[)(?<!\*\*)\bArticle ({LABEL_RE})\b(?!\s*\(\*)"
+)
+
+
+def parse_args() -> argparse.Namespace:
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument(
+        "--root",
+        default=".",
+        help="Workspace root. Defaults to current directory.",
+    )
+    parser.add_argument(
+        "--dry-run",
+        action="store_true",
+        help="Report changes without writing files.",
+    )
+    return parser.parse_args()
 
 
 def load_titles() -> dict[str, str]:
@@ -46,6 +67,14 @@ def gloss_link(match: re.Match[str], titles: dict[str, str]) -> str:
     return f"[Article {label}]({url}) (*{title}*)"
 
 
+def gloss_bare(match: re.Match[str], titles: dict[str, str]) -> str:
+    label = match.group(1)
+    title = titles.get(label)
+    if not title:
+        return match.group(0)
+    return f"**Article {label}** (*{title}*)"
+
+
 def process_file(path: pathlib.Path, titles: dict[str, str], dry_run: bool) -> int:
     lines = path.read_text(encoding="utf-8").splitlines()
     changed = 0
@@ -56,6 +85,7 @@ def process_file(path: pathlib.Path, titles: dict[str, str], dry_run: bool) -> i
             continue
         new_line = BOLD_CITE_RE.sub(lambda m: gloss_bold(m, titles), line)
         new_line = LINK_CITE_RE.sub(lambda m: gloss_link(m, titles), new_line)
+        new_line = BARE_CITE_RE.sub(lambda m: gloss_bare(m, titles), new_line)
         if new_line != line:
             changed += 1
         out.append(new_line)
@@ -65,13 +95,19 @@ def process_file(path: pathlib.Path, titles: dict[str, str], dry_run: bool) -> i
 
 
 def main() -> int:
-    dry_run = "--dry-run" in sys.argv
+    args = parse_args()
+    root = pathlib.Path(args.root).resolve()
     titles = load_titles()
+    scope = binding_corpus_scope(root)
     total = 0
-    for path in PART_FILES:
-        n = process_file(path, titles, dry_run)
-        print(f"{path.name}: {n} lines updated")
-        total += n
+    for rel_path in scope:
+        path = root / rel_path
+        if not path.is_file():
+            continue
+        n = process_file(path, titles, args.dry_run)
+        if n:
+            print(f"{rel_path}: {n} lines updated")
+            total += n
     print(f"total: {total} lines")
     return 0
 
