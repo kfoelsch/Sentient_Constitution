@@ -144,8 +144,14 @@ In **multi-chapter** files (`core_02-03`, `core_13-15`), repeat steps 2–5 at e
 
 `Chapter <Roman or spelled-out number> is the constitutional owner of **<domain>**.`
 
+When one registry row splits across **part files** within the same chapter number (e.g. **Chapter Seven Part A / Part B**), use:
+
+`Chapter <N>, Part <letter>, is the constitutional owner of **<domain>**.`
+
 - State the **owner domain** only — unqualified. Do **not** append **where material** to the owner claim; materiality triggers belong on evaluation sections inside the chapter.
-- Keep the sentence to one line when possible. Long domain lists may use a short trailing phrase (`including …`) only when the registry row requires it.
+- Do **not** append em-dash or trailing clauses that restate procedural, evaluative, or verification detail on the owner sentence; put that in **§1 Purpose and Role**, Trace, or the sibling part's home.
+- Keep the owner sentence to one line when possible. Long domain lists may use a short trailing phrase (`including …`) only when the registry row requires it.
+- **Sibling-part pointer (split chapters only):** after the owner claim, one optional second sentence may route readers to the sibling part's domain — by pointer only, without restating substantive obligations (example: `Record contents … are in **Part B**`; `Evaluation requirements are in **Part A**`).
 - **Do not** fold layer-discipline routing (`Layer discipline is under …`, `read with Authority Stack`) into the owner line — that belongs in Trace **Read with:** bullets or in layer-scope sections.
 
 **Widget vs operative split:**
@@ -153,9 +159,9 @@ In **multi-chapter** files (`core_02-03`, `core_13-15`), repeat steps 2–5 at e
 - **Corpus placement** and **Reader guidance** widgets may include a non-operative `**Constitutional owner:**` bullet for navigation. That bullet does **not** replace the binding opening line.
 - State the owner claim **once** in operative prose at the chapter opening. Remove duplicate owner sentences from **§1** openings and from layer-scope sections unless the later text adds a **boundary** rule (what the chapter does **not** own), not a second owner claim.
 
-**Split owner layers:** when one registry row spans two files (standing classification **Chapters 08–09**), each file gets its own opening line scoped to what that file owns — classification in Chapter Eight, integration and standing effects in Chapter Nine.
+**Split owner layers:** when one registry row spans two or more files — standing classification (**Chapters 08–09**); system alignment certification (**Chapter 07 Part A / Part B**) — each file gets its own opening line scoped to what that file owns: classification in Chapter Eight, integration and standing effects in Chapter Nine; evaluation in Part A, record/process/standing bridge in Part B.
 
-**Examples (reference pattern):** [Chapter Seven](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) (after Corpus placement); [Chapter Six](core_06-06_rights_part_a.md#chapter-six-foundational-rights) (after reader guidance); [Chapter Ten](core_10-10_misconduct.md#chapter-ten-anti-constitutional-misconduct) (reader guidance moved before the opening line).
+**Examples (reference pattern):** [Chapter Seven Part A](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation) and [Part B](core_07_b_system_alignment_certification_record_process.md#chapter-seven-part-b-certification-record-and-process) (split registry row; sibling-part pointers); [Chapter Six](core_06-06_rights_part_a.md#chapter-six-foundational-rights) (after reader guidance); [Chapter Ten](core_10-10_misconduct.md#chapter-ten-anti-constitutional-misconduct) (reader guidance moved before the opening line).
 
 ### D/A/C widget template (NAV-DAC-12)
 

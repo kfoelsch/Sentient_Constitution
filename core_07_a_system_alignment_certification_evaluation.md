@@ -22,7 +22,7 @@
 
 <br>
 
-Chapter Seven, **Part A**, is the constitutional owner of **system alignment certification evaluation** — what forums must verify before a certification record may reflect recognition, validation, revalidation, or continued reliance. Record contents, forum supervision, contest paths, and the standing bridge are in **[Part B](core_07_b_system_alignment_certification_record_process.md#chapter-seven-part-b-certification-record-and-process)**.
+Chapter Seven, **Part A**, is the constitutional owner of **system alignment certification evaluation**. Record contents, forum supervision, contest paths, and the standing bridge are in **[Part B](core_07_b_system_alignment_certification_record_process.md#chapter-seven-part-b-certification-record-and-process)**.
 
 <br>
 ### 1. Purpose and Role

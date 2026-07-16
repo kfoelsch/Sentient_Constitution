@@ -609,7 +609,7 @@ while defeating practical reconstructability, contestability, or proportionate a
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Principles: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **oversight** leg; [§9 Stewardship and Distributed Understanding](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding), [10.2.1 Preservation of Epistemic Integrity](core_01_b_interaction_interpretation.md#621-preservation-of-epistemic-integrity).
-- Read with: [Epistemic Integrity](core_05o_oversight_definitions.md#epistemic-integrity), [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint), [Contestability](core_05a_accountability_definitions.md#contestability), and [Auditability](core_05o_oversight_definitions.md#auditability).
+- Read with: [Epistemic Integrity](core_05o_oversight_definitions.md#epistemic-integrity), [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint), [Contestability](core_05a_accountability_definitions.md#contestability), [Auditability](core_05o_oversight_definitions.md#auditability), and **[corpus_systems.md](corpus_systems.md), CS-3 — Information types and handling** (**Type P** — public disclosure data).
 
 </details>
 
@@ -619,6 +619,9 @@ while defeating practical reconstructability, contestability, or proportionate a
 
 - **What it is**
   - **In scope:** Disclosure of externally relevant system behavior, limitations, uncertainties, and dependencies, reaching a level sufficient for affected parties to understand function and risk in context. Subject to safety- and security-justified limits consistent with [Epistemic Integrity](core_05o_oversight_definitions.md#epistemic-integrity) and Chapter One §9.2 — Epistemic Disclosure Constraints.
+    - Where lawful online publication infrastructure exists for a materially scoped system, institution, forum process, or comparable governed domain, baseline transparency disclosure must be freely available online for class-appropriate public access, without paywall or insider-only substitution for the public baseline.
+    - Where raw public disclosure is inappropriate under lawful protection constraints, the owner must provide the maximum feasible online public substitute (for example aggregation, de-identification, summary disclosure, delayed disclosure, or qualified audit access) while preserving meaningful accountability and contestability.
+    - Public-baseline publication posture, online availability, and lawful substitute discipline are implemented at the systems layer as **Type P** data under **[corpus_systems.md](corpus_systems.md), CS-3 — Information types and handling**.
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 <a id="transparency-a"></a>
 - **How to measure and assess**

@@ -537,7 +537,7 @@ Classification must be **disclosed** to affected stakeholders at a level appropr
 
 **For Class A, B, and C:** Disclosure must include **classification rationale and key assumptions**. **It** must include **identified impact scope and dependency characteristics**. **It** must include **known limitations, uncertainties, and risk factors**.
 
-Class A, B, and C disclosure must also satisfy the **public-interest visibility default** in **CS-3 — Information types and handling**, including maximum feasible public substitutes where protected data classifications limit raw disclosure.
+Class A, B, and C disclosure must also satisfy the **public-interest visibility default** in **CS-3 — Information types and handling**, including **Type P** public-baseline release and maximum feasible public substitutes where protected data classifications limit raw disclosure.
 
 **3. Auditability and verification.** Classification must be **auditable** with sufficient documentation and evidence.
 

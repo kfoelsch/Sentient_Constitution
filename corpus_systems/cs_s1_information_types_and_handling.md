@@ -11,9 +11,9 @@ Therefore, all data must be identified as belonging to one or more of the types 
 
 Handling must align with Sentient Constitution Chapter Six and scale with system class under CS-4 — System classification and handling. Where data handling supports material portability, audit, repair, continuity, migration, or cross-implementation operation for **Class A**, **Class B**, or **Class C** systems, format, schema, API, and interchange-protocol choices must also satisfy `corpus_joint_structure.md` **CJS-5.17** (*interoperability, portability, and exit-integrity terms*). **Continuity-critical collection and exportability** for those classes is stated in **section VI.5** below and read with **Article II-E** (*Info-Sphere Dependency, Continuity, and Operator Non-Viability*).
 
-**Class A/B/C public-interest visibility default.** For **Class A**, **Class B**, and **Class C** systems, data necessary to understand system purpose, classification, dependency structure, operational status, material risks, performance, failures, governance, audit outcomes, stakeholder effects, and constitutional compliance is **public by default**.
+**Class A/B/C public-interest visibility default.** For **Class A**, **Class B**, and **Class C** systems, data necessary to understand system purpose, classification, dependency structure, operational status, material risks, performance, failures, governance, audit outcomes, stakeholder effects, and constitutional compliance is **public by default** and must be classified as **Type P** when released for public-baseline access.
 
-This default applies most strongly to **Type C** and **Type G** data. It does **not** convert **Type H**, **Type I**, **Type N**, or **Type S** data into public data. Where privacy, internal-state protection, identity protection, safety, security, or restricted-investigation needs justify limiting raw disclosure, systems must provide the **maximum feasible public substitute**, including aggregation, de-identification, summary disclosure, delayed disclosure, or qualified audit access.
+This default applies most strongly to material drawn from **Type C** and **Type G** sources. It does **not** convert **Type H**, **Type I**, **Type N**, or **Type S** data into **Type P** without lawful reclassification, aggregation, de-identification, summary disclosure, or other maximum feasible public substitute. Where privacy, internal-state protection, identity protection, safety, security, or restricted-investigation needs justify limiting raw disclosure, systems must provide the maximum feasible **Type P** public substitute, including aggregation, de-identification, summary disclosure, delayed disclosure, or qualified audit access.
 
 Any restriction must be **narrowly scoped**, **documented**, **proportionate**, **auditable**, and **subject to challenge**. Security or investigation-based restrictions must be **time-bound** and **review-bound** under **Type S**. Restrictions must not conceal systemic behavior, constitutional violations, material risk, dependency, failure, or externalized cost.
 
@@ -61,7 +61,7 @@ Reductions in protection may occur only through **proportional application** (**
 
 **3. Tiered transparency and audit access.** Data access must satisfy `corpus_joint_structure.md` **CJS-5.4** (*tiered transparency and audit-access terms*) for balancing transparency, auditability, and protected-boundary constraints.
 
-It must also balance protection of internal states and sensitive data (**Sentient Constitution Chapter Six, **Article VII-B** (*Internal-State Boundary and Type-N Protection*)**; Types **H**, **I**, **N**, and **S** in this chapter). Where applicable based on system impact (**CJS-5.11** (*distributed and proportional authority terms*) and **CJS-5.7** (*quorum and participatory legitimacy terms*)), systems must support **baseline accessibility** (sufficient visibility into behavior and effects for informed participation and risk evaluation). Systems must support qualified audit access (structured pathways for independent auditors to deeper data where verification requires it) and forensic access (full reconstruction in cases of harm, dispute, or credible risk, consistent with **CJS-5.11** (*distributed and proportional authority terms*) and **CJS-5.7** (*quorum and participatory legitimacy terms*) and **CJS-5.12** (*burden-of-justification and constraint terms*)).
+It must also balance protection of internal states and sensitive data (**Sentient Constitution Chapter Six, **Article VII-B** (*Internal-State Boundary and Type-N Protection*)**; Types **H**, **I**, **N**, and **S** in this chapter). Where applicable based on system impact (**CJS-5.11** (*distributed and proportional authority terms*) and **CJS-5.7** (*quorum and participatory legitimacy terms*)), systems must support **baseline accessibility** (sufficient visibility into behavior and effects for informed participation and risk evaluation). **Type P** governs public-baseline release posture, including lawful online publication where infrastructure exists. Systems must support qualified audit access (structured pathways for independent auditors to deeper data where verification requires it) and forensic access (full reconstruction in cases of harm, dispute, or credible risk, consistent with **CJS-5.11** (*distributed and proportional authority terms*) and **CJS-5.7** (*quorum and participatory legitimacy terms*) and **CJS-5.12** (*burden-of-justification and constraint terms*)).
 
 Restrictions on access must be **narrowly scoped**, **justified**, **auditable**, and **subject to challenge (`corpus_joint_structure.md` CJS-5.13 (*procedural integrity and adjudication terms*))**.
 
@@ -163,7 +163,7 @@ Continuity and portability routing: **Article II-E** (*Info-Sphere Dependency, C
 ---
 
 ### VII. Data classifications
-The ordering of data classifications (Type C-S) reflects functional role and typical accessibility, not intrinsic sensitivity or priority. Letter designations are non-sequential and reflect domain identifiers rather than hierarchical ranking or sensitivity.  Protections are defined within each classification and may vary independently of ordering. Where ambiguity exists, the most restrictive applicable protections govern.
+The ordering of data classifications (**Type C** through **Type S**, including **Type P**) reflects functional role and typical accessibility, not intrinsic sensitivity or priority. Letter designations are non-sequential and reflect domain identifiers rather than hierarchical ranking or sensitivity.  Protections are defined within each classification and may vary independently of ordering. Where ambiguity exists, the most restrictive applicable protections govern.
 
 **Type C: Coordination and survival data.** **Default classification:** Accessible by Default (strong presumption).  
 **Normative alignment:** **CJS-5.11** (*distributed and proportional authority terms*) and **CJS-5.7** (*quorum and participatory legitimacy terms*), `corpus_joint_structure.md` **CJS-5.8** (*comprehensibility and cognitive accessibility terms*), **CJS-5.10** (*disclosure sufficiency and observability terms*), **CJS-5.3** (*auditability and reconstructability terms*), **CJS-5.5** (*independent verification and claim-integrity terms*), and **CJS-5.12** (see Core Constraints and Disclosure Requirement below); foundational substrate framing under **Articles I–III and V**.
@@ -229,7 +229,37 @@ how decisions are made, what risks exist, and how to challenge and verify claims
 
 Limited redaction is permitted only to protect **Type N** data. **It** is permitted to protect **Type I** data beyond necessary scope. **It** is permitted to protect **active Type S** data related to restricted investigations. **It** is permitted to protect **narrowly scoped** security-sensitive implementation detail where disclosure would create **material risk**.
 
-**Handling constraints:** No system may classify governance-relevant or operationally material information as secret **merely** for convenience, reputational protection, or power preservation. **No** system may provide **performative summaries** while withholding information necessary for meaningful review. **No** system may use **complexity, opacity, or format fragmentation** to defeat auditability (contrary to `corpus_joint_structure.md` **CJS-5.8** (*comprehensibility and cognitive accessibility terms*), **CJS-5.10** (*disclosure sufficiency and observability terms*), and **CJS-5.3** (*auditability and reconstructability terms*)).
+**Handling constraints:** No system may classify governance-relevant or operationally material information as secret **merely** for convenience, reputational protection, or power preservation. **No** system may provide **performative summaries** while withholding information necessary for meaningful review. **No** system may use **complexity, opacity, or format fragmentation** to defeat auditability (contrary to `corpus_joint_structure.md` **CJS-5.8** (*comprehensibility and cognitive accessibility terms*), **CJS-5.10** (*disclosure sufficiency and observability terms*), and **CJS-5.3** (*auditability and reconstructability terms*)). Material released for public-baseline transparency must be classified and handled as **Type P**.
+
+---
+
+**Type P: Public disclosure data.** **Default classification:** Public by Default (strong presumption for public-baseline release).  
+**Normative alignment:** [Transparency](core_05o_oversight_definitions.md#transparency); `corpus_joint_structure.md` **CJS-5.4** (*tiered transparency and audit-access terms*), **CJS-5.10** (*disclosure sufficiency and observability terms*), **CJS-5.3** (*auditability and reconstructability terms*), and **CJS-5.5** (*independent verification and claim-integrity terms*); **Article XV** (*Audit, Transparency, and Independent Verification*).
+
+**Definition:** Data released or required to be released for **public-baseline** transparency, oversight, audit, and contestability — including lawful substitutes where source records remain in a more restricted type. Examples include:
+- **published certification, governance, and audit records** required for public baseline visibility
+- **class A/B/C public-interest visibility disclosures** under the default above
+- **aggregated, de-identified, summary, or delayed** public releases that substitute for restricted source data
+- **public eligibility rules and routing** for qualified audit access where full raw disclosure is inappropriate
+- **versioned public change notices, operational status, and material-risk summaries** for baseline understanding
+
+**Relationship to other types:** Source or operational records may remain **Type C**, **Type G**, or another type internally. **Type P** governs the **publication posture** of baseline disclosure artifacts. Data does **not** become **Type P** merely by copying **Type H**, **Type I**, **Type N**, or **Type S** without meeting substitute, reclassification, or release requirements in this chapter.
+
+**Core constraint:** Must remain sufficiently accessible for informed participation, oversight, audit, and challenge at the public-baseline tier.
+
+**Disclosure requirement:** Baseline public accessibility. Deeper structured or qualified audit access may run in parallel but must not replace the public baseline where **Type P** applies.
+
+**Online publication:** Where lawful online publication infrastructure exists to support class-appropriate access, **Type P** data must be **freely available online** — without paywalls or insider-only substitutes for the public baseline.
+
+**Access requirements:** Systems must provide **Type P** data in a manner that is **understandable**, **documented**, **attributable**, **versioned** where material changes occur, and **retained** for a duration proportional to system impact and dependency.
+
+**Restrictions:** Redactions must **not** prevent meaningful accountability at the public-baseline tier. Limited redaction is permitted only to protect **Type N** data, **Type I** data beyond necessary scope, **active Type S** data related to restricted investigations, or **narrowly scoped** security-sensitive implementation detail where disclosure would create **material risk** — and only where a lawful **Type P** substitute still preserves meaningful accountability.
+
+**Handling constraints:** Systems must **not:**
+- withhold **Type P** material behind paywalls, account barriers beyond reasonable identity verification for restricted tiers, or insider-only distribution substitutes for the public baseline
+- treat **Type P** publication as satisfied by performative summaries while withholding decision-relevant baseline material
+- use **complexity, opacity, or format fragmentation** to defeat public-baseline auditability or contestability
+- label restricted source data **Type P** without lawful substitute, reclassification, or release discipline
 
 ---
 
@@ -378,7 +408,7 @@ All restrictions must be **explicitly time-bound** at classification. They must 
 
 If revalidation does not occur within the defined time bound, restriction expires automatically and data must be reclassified and disclosed per **CS-3 — Information types and handling**.
 
-**Reclassification and release:** On expiration or invalidation of justification, systems must reclassify to the appropriate non-restricted domain (including **Type C** or **G** where applicable). They must disclose the data, or a sufficiently informative summary, for audit and accountability.
+**Reclassification and release:** On expiration or invalidation of justification, systems must reclassify to the appropriate non-restricted domain (including **Type P**, **Type C**, or **G** where applicable). They must disclose the data, or a sufficiently informative summary classified as **Type P** where public-baseline release applies, for audit and accountability.
 
 Post-restriction disclosure must include nature of restricted data, justification, duration, scope of impact, oversight or authorization pathway, and outcomes/findings/corrective actions where applicable.
 

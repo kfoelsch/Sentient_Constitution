@@ -79,7 +79,7 @@ def part_a_header_block() -> str:
 
 <br>
 
-Chapter Seven, **Part A**, is the constitutional owner of **system alignment certification evaluation** — what forums must verify before a certification record may reflect recognition, validation, revalidation, or continued reliance. Record contents, forum supervision, contest paths, and the standing bridge are in **[Part B](core_07_b_system_alignment_certification_record_process.md#chapter-seven-part-b-certification-record-and-process)**.
+Chapter Seven, **Part A**, is the constitutional owner of **system alignment certification evaluation**. Record contents, forum supervision, contest paths, and the standing bridge are in **[Part B](core_07_b_system_alignment_certification_record_process.md#chapter-seven-part-b-certification-record-and-process)**.
 
 <br>
 """
@@ -107,7 +107,7 @@ def part_b_header_block() -> str:
 
 <br>
 
-Chapter Seven, **Part B**, owns the **certification record**, **forum-supervised process**, and **standing bridge** for system alignment certification. Evaluation requirements live in **[Part A](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation)**.
+Chapter Seven, **Part B**, is the constitutional owner of the **certification record**, **forum-supervised process**, and **standing bridge** for system alignment certification. Evaluation requirements are in **[Part A](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation)**.
 
 <br>
 
