@@ -435,9 +435,37 @@ When forum-supervised challenge is required, internal operator review, vendor at
 
 <br>
 
-A **System Alignment Certification Record** is scope-bound and time-bound. Material change, misalignment, concealed behavior, dependency growth, new risk, incident history, credible challenge under [§14](#14-supervisory-sequence-and-contestability-chain), ecological objection, material footprint misrepresentation or misalignment, material discrimination-pattern misalignment or proxy evasion, material accessibility misalignment or paper-only accommodation, material assessment-opacity misalignment, credential-gatekeeping misalignment, or imposed-obsolescence misalignment in learning systems, material false-trust misalignment, perverse-incentive misalignment, or recovery-integrity misalignment in reliance pathways, stakeholder evidence, system-class misalignment, data-type or handling misalignment, or classification drift reopens review under Chapter Eleven and incorporated system implementation duties. Reopening on misalignment, dependency growth, or credible challenge protects the **Continuity** aim under [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) where shared systems gate durable supply of survival essentials, educational access, capability-building pathways, trustworthy reliance, or safety — stale certification must not substitute for current Rights-Floor compliance.
+*In plain terms: a certification does not last forever. When the system, the risks, or the facts change — or when someone credibly challenges the record — review must reopen. Stale approval cannot stand in for current Rights-Floor compliance, and operators may not evade these duties by relabeling or boundary games.*
 
-Evasion of this chapter's obligations is governed by [Chapter Three §1 — Definition Integrity and Anti-Evasion Constraints](core_02-03_definition_mechanics.md#1-definition-integrity-and-anti-evasion-constraints) and [§2 Non-Compliance from Observable System Behavior](core_02-03_definition_mechanics.md#2-non-compliance-from-observable-system-behavior), including scope-and-boundary evasion under [§2.1 Common Evasion Patterns](core_02-03_definition_mechanics.md#21-common-evasion-patterns). This chapter does not restate that discipline.
+A **System Alignment Certification Record** is **scope-bound** and **time-bound**. Review reopens under Chapter Eleven and incorporated system implementation duties when any of the following is material:
+
+- **General triggers:**
+  - material change in the system, its use, or its operating context;
+  - concealed behavior;
+  - dependency growth;
+  - new risk;
+  - incident history;
+  - stakeholder evidence;
+  - credible challenge under [§14](#14-supervisory-sequence-and-contestability-chain);
+  - ecological objection;
+  - system-class misalignment, data-type or handling misalignment, or classification drift;
+- **Domain misalignment** reflected on the certification record, including:
+  - material footprint misrepresentation or misalignment under [§5](core_07_a_system_alignment_certification_evaluation.md#5-ecological-footprint-evaluation);
+  - material discrimination-pattern misalignment or proxy evasion under [§7](core_07_a_system_alignment_certification_evaluation.md#7-nondiscrimination-evaluation);
+  - material accessibility misalignment or paper-only accommodation under [§8](core_07_a_system_alignment_certification_evaluation.md#8-accessibility-evaluation);
+  - material assessment-opacity, credential-gatekeeping, or imposed-obsolescence misalignment under [§9](core_07_a_system_alignment_certification_evaluation.md#9-educational-capability-and-learning-system-integrity-evaluation);
+  - material false-trust, perverse-incentive, or recovery-integrity misalignment under [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation);
+  - other Part A evaluation misalignment where the corresponding materiality trigger applies — including [§2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation), [§4](core_07_a_system_alignment_certification_evaluation.md#4-data-types-and-handling-evaluation), and [§6](core_07_a_system_alignment_certification_evaluation.md#6-proportionate-cross-system-support-evaluation).
+
+**Why reopening matters.** Reopening on misalignment, dependency growth, or credible challenge protects the **Continuity** aim under [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) where shared systems gate durable supply of survival essentials, educational access, capability-building pathways, trustworthy reliance, or safety. Stale certification must not substitute for current Rights-Floor compliance.
+
+**Non-evasion.** Evasion of this chapter's obligations is governed by Chapter Three — this chapter does not restate that discipline:
+
+- [Chapter Three §1 — Definition Integrity and Anti-Evasion Constraints](core_02-03_definition_mechanics.md#1-definition-integrity-and-anti-evasion-constraints);
+- [Chapter Three §2 — Non-Compliance from Observable System Behavior](core_02-03_definition_mechanics.md#2-non-compliance-from-observable-system-behavior);
+- including scope-and-boundary evasion under [§2.1 Common Evasion Patterns](core_02-03_definition_mechanics.md#21-common-evasion-patterns).
+
+*Closing note:* No single step in this Part B process is new or radical on its own — records, disclosure, review, challenge, forum roles, reopening, and standing inputs are familiar governance tools. What is different is the **consistency**, **oversight**, and **accountability** that drive them together under the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad): the same discipline applies across system classes and forum families, the work stays visible and reconstructable, and actors remain answerable when certification is wrong, stale, or evasive.
 
 ---
 
