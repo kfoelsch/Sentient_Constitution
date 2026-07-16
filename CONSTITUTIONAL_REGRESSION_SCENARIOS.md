@@ -613,7 +613,7 @@ Regression seeds document adversarial and core paths against constitutional owne
 ### Scenario ID: RS-XXIV-C-CHILD-001
 - **Class:** implementation / timely-resolution vignette
 - **Summary:** Tier A child neglect / care-duty path: interim protection before merits; verified violation standing record; **Interpersonal / Care Duty Misconduct** Q1; safeguard locks Q2; **CF-11.3.1** Tier A milestone compliance. Vignette: [core_08-11_application_vignettes.md](core_08-11_application_vignettes.md#vignette-child-neglect-care-duty).
-- **Read with:** [Article XXIV-C](core_06-06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor); [Chapter Eleven §10](core_11-11_forum.md#10-timely-resolution-materiality-tiers-and-anti-delay-discipline); [Chapter Eight §3](core_08-08_standing_assessment.md#6-classification-evaluation-dimensions); [Chapter Nine Chapter One §8.10](core_09-09_standing_integration.md#310-non-recurrence-lock-dimensions); **CF-11.3.1**.
+- **Read with:** [Article XXIV-C](core_06-06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor); [Chapter Eleven §10](core_11-11_forum.md#10-timely-resolution-materiality-tiers-and-anti-delay-discipline); [Chapter Eight §4](core_08-08_standing_assessment.md#4-classification-evaluation-dimensions); [Chapter Nine Chapter One §8.10](core_09-09_standing_integration.md#310-non-recurrence-lock-dimensions); **CF-11.3.1**.
 
 ### Scenario ID: RS-XXIV-C-DISC-001
 - **Class:** implementation / timely-resolution vignette

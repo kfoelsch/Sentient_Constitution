@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-07-09T14:12:37+00:00",
+  "generated_at": "2026-07-16T14:12:35+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -65,7 +65,15 @@
         "type": "core"
       },
       {
-        "id": "core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation",
+        "id": "core_07_a_system_alignment_certification_evaluation.md",
+        "type": "core"
+      },
+      {
+        "id": "core_07_b_system_alignment_certification_record_process.md",
+        "type": "core"
+      },
+      {
+        "id": "core_07-07_system_alignment_certification.md",
         "type": "core"
       },
       {
@@ -559,7 +567,7 @@
             "anchors": []
           },
           {
-            "file": "core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation",
+            "file": "core_07_a_system_alignment_certification_evaluation.md",
             "count": 5,
             "anchors": [
               "#chapter-seven-system-alignment-certification"
@@ -931,13 +939,14 @@
             ]
           },
           {
-            "file": "core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation",
+            "file": "core_07_a_system_alignment_certification_evaluation.md",
             "count": 7,
             "anchors": [
               "#3-whole-system-certification-evaluation",
               "#34-voluntary-discontinuation-and-exit-rights",
               "#35-assembly-collective-organization-and-institutional-formation",
               "#36-time-consistency-constraint",
+              "#chapter-seven-part-a-certification-evaluation",
               "#chapter-seven-system-alignment-certification"
             ]
           },
@@ -1209,7 +1218,7 @@
             ]
           },
           {
-            "file": "core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation",
+            "file": "core_07_a_system_alignment_certification_evaluation.md",
             "count": 2,
             "anchors": [
               "#36-time-consistency-constraint"
@@ -1419,7 +1428,7 @@
           },
           {
             "file": "core_05o_oversight_definitions.md",
-            "count": 116,
+            "count": 117,
             "anchors": [
               "#auditability",
               "#auditability-a",
@@ -1524,21 +1533,27 @@
             ]
           },
           {
-            "file": "core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation",
-            "count": 10,
+            "file": "core_07_a_system_alignment_certification_evaluation.md",
+            "count": 9,
             "anchors": [
               "#3-whole-system-certification-evaluation",
-              "#11-certification-record",
               "#chapter-seven-system-alignment-certification"
+            ]
+          },
+          {
+            "file": "core_07_b_system_alignment_certification_record_process.md",
+            "count": 1,
+            "anchors": [
+              "#11-certification-record"
             ]
           },
           {
             "file": "core_08-08_standing_assessment.md",
             "count": 9,
             "anchors": [
-              "#331-misaligned-reward-forfeiture",
-              "#332-misaligned-reward-reporting",
-              "#333-misaligned-reward-benefit-retention-record-and-classification-discipline",
+              "#431-misaligned-reward-forfeiture",
+              "#432-misaligned-reward-reporting",
+              "#433-misaligned-reward-benefit-retention-record-and-classification-discipline",
               "#chapter-eight-compliance-violation-and-standing-model"
             ]
           },
@@ -1597,7 +1612,7 @@
           },
           {
             "file": "corpus_systems.md",
-            "count": 8,
+            "count": 9,
             "anchors": []
           },
           {
@@ -1706,12 +1721,18 @@
             "anchors": []
           },
           {
-            "file": "core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation",
-            "count": 6,
+            "file": "core_07_a_system_alignment_certification_evaluation.md",
+            "count": 3,
+            "anchors": [
+              "#chapter-seven-system-alignment-certification"
+            ]
+          },
+          {
+            "file": "core_07_b_system_alignment_certification_record_process.md",
+            "count": 3,
             "anchors": [
               "#15-relationship-to-standing",
-              "#16-reopening-drift-and-non-evasion",
-              "#chapter-seven-system-alignment-certification"
+              "#16-reopening-drift-and-non-evasion"
             ]
           },
           {
@@ -1831,11 +1852,17 @@
             ]
           },
           {
-            "file": "core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation",
-            "count": 5,
+            "file": "core_07_a_system_alignment_certification_evaluation.md",
+            "count": 4,
             "anchors": [
-              "#16-reopening-drift-and-non-evasion",
               "#chapter-seven-system-alignment-certification"
+            ]
+          },
+          {
+            "file": "core_07_b_system_alignment_certification_record_process.md",
+            "count": 1,
+            "anchors": [
+              "#16-reopening-drift-and-non-evasion"
             ]
           },
           {
@@ -2268,7 +2295,7 @@
             ]
           },
           {
-            "file": "core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation",
+            "file": "core_07_a_system_alignment_certification_evaluation.md",
             "count": 1,
             "anchors": [
               "#3-whole-system-certification-evaluation"
@@ -2364,7 +2391,7 @@
             ]
           },
           {
-            "file": "core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation",
+            "file": "core_07_a_system_alignment_certification_evaluation.md",
             "count": 1,
             "anchors": [
               "#chapter-seven-system-alignment-certification"
@@ -2533,7 +2560,7 @@
             ]
           },
           {
-            "file": "core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation",
+            "file": "core_07_a_system_alignment_certification_evaluation.md",
             "count": 11,
             "anchors": [
               "#3-whole-system-certification-evaluation",
@@ -2542,7 +2569,7 @@
           },
           {
             "file": "corpus_systems.md",
-            "count": 4,
+            "count": 6,
             "anchors": []
           }
         ]
@@ -2807,7 +2834,7 @@
             ]
           },
           {
-            "file": "core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation",
+            "file": "core_07_a_system_alignment_certification_evaluation.md",
             "count": 12,
             "anchors": [
               "#3-whole-system-certification-evaluation",
@@ -2820,7 +2847,7 @@
             "file": "core_08-08_standing_assessment.md",
             "count": 2,
             "anchors": [
-              "#32-constitutional-outcome-baseline-for-slots"
+              "#6-lequ-baseline-constitutional-outcome"
             ]
           },
           {
@@ -3127,11 +3154,17 @@
             ]
           },
           {
-            "file": "core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation",
-            "count": 9,
+            "file": "core_07_a_system_alignment_certification_evaluation.md",
+            "count": 8,
             "anchors": [
               "#3-whole-system-certification-evaluation",
-              "#37-governance-incentive-and-contestability-discipline",
+              "#37-governance-incentive-and-contestability-discipline"
+            ]
+          },
+          {
+            "file": "core_07_b_system_alignment_certification_record_process.md",
+            "count": 1,
+            "anchors": [
               "#14-supervisory-sequence-and-contestability-chain"
             ]
           },
@@ -3142,13 +3175,13 @@
               "#2-purpose-and-role",
               "#2-standing-records",
               "#21-standing-records-as-the-unit-of-application",
-              "#23-standing-record-operational-requirements",
-              "#232-minimum-record-contents",
-              "#31-slot-grammar-and-display-labels",
-              "#32-constitutional-outcome-baseline-for-slots",
-              "#33-primary-category-defaults-and-lequ-slot-baseline",
-              "#34-violation-axis-rules-violation-nature-adverse-findings-and-severity",
-              "#51-contribution-axis-bands-and-table-2",
+              "#3-standing-record-operational-requirements",
+              "#31-minimum-record-contents",
+              "#5-slot-grammar-and-display-labels",
+              "#6-lequ-baseline-constitutional-outcome",
+              "#7-primary-category-defaults",
+              "#71-contribution-axis-bands-and-table-2",
+              "#72-violation-axis-severity-ladder",
               "#chapter-eight-compliance-violation-and-standing-model",
               "#chapters-eight-eleven-constitutional-compass",
               "#verified-inputs-for-standing"
@@ -3518,7 +3551,7 @@
             ]
           },
           {
-            "file": "core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation",
+            "file": "core_07_a_system_alignment_certification_evaluation.md",
             "count": 26,
             "anchors": [
               "#3-whole-system-certification-evaluation",
@@ -3737,7 +3770,7 @@
             ]
           },
           {
-            "file": "core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation",
+            "file": "core_07_a_system_alignment_certification_evaluation.md",
             "count": 1,
             "anchors": [
               "#3-whole-system-certification-evaluation"
@@ -3834,24 +3867,26 @@
             "anchors": []
           },
           {
-            "file": "core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation",
+            "file": "core_07_a_system_alignment_certification_evaluation.md",
             "count": 2,
             "anchors": [
-              "#3-whole-system-certification-evaluation"
+              "#3-whole-system-certification-evaluation",
+              "#chapter-seven-part-a-certification-evaluation"
             ]
           }
         ]
       },
       {
-        "source": "core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation",
+        "source": "core_07_a_system_alignment_certification_evaluation.md",
         "targets": [
           {
             "file": "core_00_preamble.md",
-            "count": 31,
+            "count": 24,
             "anchors": [
               "#constitutional-tetrad",
+              "#continuity",
+              "#flourishing",
               "#material-stake",
-              "#measurements-overview",
               "#two-constitutional-aims"
             ]
           },
@@ -3867,21 +3902,13 @@
           },
           {
             "file": "core_01_c_stewardship_capacity_principles.md",
-            "count": 11,
+            "count": 12,
             "anchors": [
               "#10-governance-under-stewardship-discipline",
               "#11-incentive-alignment-and-system-capture",
+              "#1114-role-depth-and-material-responsibility-pathways",
               "#14-systemic-evaluation-requirement",
               "#9-stewardship-and-distributed-understanding"
-            ]
-          },
-          {
-            "file": "core_02-03_definition_mechanics.md",
-            "count": 6,
-            "anchors": [
-              "#1-definition-integrity-and-anti-evasion-constraints",
-              "#2-non-compliance-from-observable-system-behavior",
-              "#21-common-evasion-patterns"
             ]
           },
           {
@@ -3900,23 +3927,19 @@
           },
           {
             "file": "core_05a_accountability_definitions.md",
-            "count": 27,
+            "count": 22,
             "anchors": [
               "#contestability",
-              "#contestability-a",
-              "#contestability-c",
               "#governance-architecture-oversight-decentralization-and-concentration-cluster",
               "#necessity",
               "#privacy-informational-cluster",
               "#proportionality",
-              "#redress-and-remediation-constitutional",
-              "#stay",
-              "#verified-inputs-for-standing"
+              "#redress-and-remediation-constitutional"
             ]
           },
           {
             "file": "core_05c_continuity_definitions.md",
-            "count": 51,
+            "count": 52,
             "anchors": [
               "#dependency",
               "#ecological-footprint",
@@ -3940,7 +3963,7 @@
           },
           {
             "file": "core_05i_integrative_definitions.md",
-            "count": 7,
+            "count": 3,
             "anchors": [
               "#authority-stack",
               "#constitutional-owner-layers",
@@ -3948,30 +3971,19 @@
             ]
           },
           {
-            "file": "core_05m_performance_definitions.md",
-            "count": 1,
-            "anchors": []
-          },
-          {
             "file": "core_05o_oversight_definitions.md",
-            "count": 30,
+            "count": 18,
             "anchors": [
               "#auditability",
-              "#auditability-a",
-              "#auditability-c",
               "#epistemic-integrity",
-              "#evidence-preservation",
               "#material-impact",
               "#materiality-determination",
-              "#transparency",
-              "#transparency-a",
-              "#transparency-auditability-and-verification-cluster",
-              "#transparency-c"
+              "#transparency"
             ]
           },
           {
             "file": "core_05p_participation_definitions.md",
-            "count": 26,
+            "count": 34,
             "anchors": [
               "#accessibility-constitutional",
               "#coercion-and-manipulation-constitutional",
@@ -4001,55 +4013,63 @@
           },
           {
             "file": "core_06-06_rights_part_c.md",
-            "count": 6,
+            "count": 3,
             "anchors": [
-              "#article-xii-b-right-to-challenge-review-and-redress",
               "#article-xiv-info-sphere-integrity",
               "#article-xv-audit-transparency-and-independent-verification"
             ]
           },
           {
-            "file": "core_06-06_rights_part_d.md",
-            "count": 1,
-            "anchors": [
-              "#article-xxiv-c-timely-resolution-and-anti-delay-floor"
-            ]
-          },
-          {
-            "file": "core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation",
+            "file": "core_07_a_system_alignment_certification_evaluation.md",
             "count": 1,
             "anchors": [
               "#32-accessibility-under-sentience-non-exclusion"
             ]
           },
           {
+            "file": "core_07_b_system_alignment_certification_record_process.md",
+            "count": 71,
+            "anchors": [
+              "#11-certification-record",
+              "#12-transparency-auditability-and-contestability",
+              "#13-forum-supervision-and-component-roles",
+              "#14-supervisory-sequence-and-contestability-chain",
+              "#15-relationship-to-standing",
+              "#16-reopening-drift-and-non-evasion",
+              "#chapter-seven-part-b-certification-record-and-process"
+            ]
+          },
+          {
             "file": "core_08-08_standing_assessment.md",
-            "count": 5,
+            "count": 2,
             "anchors": [
               "#chapter-eight-compliance-violation-and-standing-model"
             ]
           },
           {
             "file": "core_09-09_standing_integration.md",
-            "count": 3,
+            "count": 1,
             "anchors": [
               "#chapter-nine-standing-effects-and-integration"
             ]
           },
           {
             "file": "core_11-11_forum.md",
-            "count": 11,
+            "count": 1,
             "anchors": [
-              "#4-forum-families",
-              "#5-intake-triage-mixed-stakes-and-routing-asymmetry",
-              "#6-transfer-consolidation-and-coordination",
-              "#7-escalation-and-certification",
               "#chapter-eleven-forums-and-jurisdiction"
             ]
           },
           {
+            "file": "core_12-12_governance.md",
+            "count": 1,
+            "anchors": [
+              "#5-authorized-roles-competency-development-and-contribution"
+            ]
+          },
+          {
             "file": "corpus_forum.md",
-            "count": 4,
+            "count": 2,
             "anchors": []
           },
           {
@@ -4061,12 +4081,12 @@
           },
           {
             "file": "corpus_systems.md",
-            "count": 14,
+            "count": 11,
             "anchors": []
           },
           {
             "file": "corpus_systems/cs_protocol_a_system_design_testing_verification_deployment.md",
-            "count": 4,
+            "count": 2,
             "anchors": []
           },
           {
@@ -4077,12 +4097,183 @@
         ]
       },
       {
+        "source": "core_07_b_system_alignment_certification_record_process.md",
+        "targets": [
+          {
+            "file": "core_00_preamble.md",
+            "count": 12,
+            "anchors": [
+              "#constitutional-tetrad",
+              "#material-stake",
+              "#two-constitutional-aims"
+            ]
+          },
+          {
+            "file": "core_02-03_definition_mechanics.md",
+            "count": 6,
+            "anchors": [
+              "#1-definition-integrity-and-anti-evasion-constraints",
+              "#2-non-compliance-from-observable-system-behavior",
+              "#21-common-evasion-patterns"
+            ]
+          },
+          {
+            "file": "core_05a_accountability_definitions.md",
+            "count": 12,
+            "anchors": [
+              "#contestability",
+              "#contestability-a",
+              "#contestability-c",
+              "#stay",
+              "#verified-inputs-for-standing"
+            ]
+          },
+          {
+            "file": "core_05c_continuity_definitions.md",
+            "count": 7,
+            "anchors": [
+              "#ecological-footprint",
+              "#proportionate-cross-system-support-constitutional",
+              "#safe-conditions-constitutional"
+            ]
+          },
+          {
+            "file": "core_05i_integrative_definitions.md",
+            "count": 4,
+            "anchors": [
+              "#authority-stack",
+              "#constitutional-owner-layers"
+            ]
+          },
+          {
+            "file": "core_05m_performance_definitions.md",
+            "count": 1,
+            "anchors": []
+          },
+          {
+            "file": "core_05o_oversight_definitions.md",
+            "count": 15,
+            "anchors": [
+              "#auditability",
+              "#auditability-a",
+              "#auditability-c",
+              "#epistemic-integrity",
+              "#evidence-preservation",
+              "#transparency",
+              "#transparency-a",
+              "#transparency-auditability-and-verification-cluster",
+              "#transparency-c"
+            ]
+          },
+          {
+            "file": "core_05p_participation_definitions.md",
+            "count": 1,
+            "anchors": [
+              "#sentience-status-adjudication-constitutional"
+            ]
+          },
+          {
+            "file": "core_06-06_rights_part_c.md",
+            "count": 3,
+            "anchors": [
+              "#article-xii-b-right-to-challenge-review-and-redress",
+              "#article-xv-audit-transparency-and-independent-verification"
+            ]
+          },
+          {
+            "file": "core_06-06_rights_part_d.md",
+            "count": 1,
+            "anchors": [
+              "#article-xxiv-c-timely-resolution-and-anti-delay-floor"
+            ]
+          },
+          {
+            "file": "core_07_a_system_alignment_certification_evaluation.md",
+            "count": 77,
+            "anchors": [
+              "#1-purpose-and-role",
+              "#10-trustworthiness-and-system-reliance-integrity-evaluation",
+              "#2-system-class-evaluation",
+              "#21-illustrative-class-profiles-non-exhaustive",
+              "#3-whole-system-certification-evaluation",
+              "#4-data-types-and-handling-evaluation",
+              "#5-ecological-footprint-evaluation",
+              "#6-proportionate-cross-system-support-evaluation",
+              "#7-nondiscrimination-evaluation",
+              "#8-accessibility-evaluation",
+              "#9-educational-capability-and-learning-system-integrity-evaluation",
+              "#chapter-seven-part-a-certification-evaluation"
+            ]
+          },
+          {
+            "file": "core_08-08_standing_assessment.md",
+            "count": 5,
+            "anchors": [
+              "#chapter-eight-compliance-violation-and-standing-model"
+            ]
+          },
+          {
+            "file": "core_09-09_standing_integration.md",
+            "count": 2,
+            "anchors": [
+              "#chapter-nine-standing-effects-and-integration"
+            ]
+          },
+          {
+            "file": "core_11-11_forum.md",
+            "count": 12,
+            "anchors": [
+              "#4-forum-families",
+              "#5-intake-triage-mixed-stakes-and-routing-asymmetry",
+              "#6-transfer-consolidation-and-coordination",
+              "#7-escalation-and-certification",
+              "#chapter-eleven-forums-and-jurisdiction"
+            ]
+          },
+          {
+            "file": "corpus_forum.md",
+            "count": 5,
+            "anchors": []
+          },
+          {
+            "file": "corpus_joint_structure.md",
+            "count": 1,
+            "anchors": []
+          },
+          {
+            "file": "corpus_systems.md",
+            "count": 5,
+            "anchors": []
+          }
+        ]
+      },
+      {
+        "source": "core_07-07_system_alignment_certification.md",
+        "targets": [
+          {
+            "file": "core_07_a_system_alignment_certification_evaluation.md",
+            "count": 2,
+            "anchors": [
+              "#chapter-seven-part-a-certification-evaluation"
+            ]
+          },
+          {
+            "file": "core_07_b_system_alignment_certification_record_process.md",
+            "count": 2,
+            "anchors": [
+              "#chapter-seven-part-b-certification-record-and-process"
+            ]
+          }
+        ]
+      },
+      {
         "source": "core_08-08_standing_assessment.md",
         "targets": [
           {
             "file": "core_00_preamble.md",
-            "count": 21,
+            "count": 23,
             "anchors": [
+              "#5-key-practical-process-pipelines",
               "#constitutional-tetrad",
               "#from-measurement-to-evidence-and-remedy",
               "#material-stake",
@@ -4102,7 +4293,7 @@
           },
           {
             "file": "core_02-03_definition_mechanics.md",
-            "count": 3,
+            "count": 4,
             "anchors": []
           },
           {
@@ -4180,16 +4371,28 @@
             ]
           },
           {
-            "file": "core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation",
-            "count": 1,
-            "anchors": []
+            "file": "core_07_a_system_alignment_certification_evaluation.md",
+            "count": 5,
+            "anchors": [
+              "#chapter-seven-part-a-certification-evaluation",
+              "#chapter-seven-system-alignment-certification"
+            ]
+          },
+          {
+            "file": "core_07_b_system_alignment_certification_record_process.md",
+            "count": 5,
+            "anchors": [
+              "#12-transparency-auditability-and-contestability",
+              "#14-supervisory-sequence-and-contestability-chain",
+              "#15-relationship-to-standing"
+            ]
           },
           {
             "file": "core_08-08_standing_assessment.md",
             "count": 4,
             "anchors": [
-              "#2-standing-records",
-              "#237-forum-boundary",
+              "#3-standing-record-operational-requirements",
+              "#36-forum-boundary",
               "#chapter-eight-compliance-violation-and-standing-model"
             ]
           },
@@ -4202,7 +4405,7 @@
           },
           {
             "file": "core_09-09_standing_integration.md",
-            "count": 55,
+            "count": 56,
             "anchors": [
               "#210-safe-delegation-competency-gate-dimensions",
               "#30-non-recurrence-evaluation-and-integration-examples",
@@ -4442,7 +4645,7 @@
             ]
           },
           {
-            "file": "core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation",
+            "file": "core_07_a_system_alignment_certification_evaluation.md",
             "count": 1,
             "anchors": [
               "#32-accessibility-under-sentience-non-exclusion"
@@ -4456,17 +4659,16 @@
               "#2-purpose-and-role",
               "#2-standing-records",
               "#22-linked-records-and-no-offset-bridge",
-              "#237-forum-boundary",
-              "#34-question-1-classification-illustrations",
-              "#34-violation-axis-rules-violation-nature-adverse-findings-and-severity",
+              "#36-forum-boundary",
+              "#4-classification-evaluation-dimensions",
               "#41-formal-non-compliance",
               "#42-lequ-violation-calibration",
               "#42-remedial-substantive-non-compliance",
               "#44-duty-based-or-negligent-harm-violation",
-              "#51-contribution-axis-bands-and-table-2",
-              "#52-violation-axis-severity-ladder",
-              "#53-forum-disclosure-and-recusal-process-impact",
-              "#6-classification-evaluation-dimensions",
+              "#44-question-1-classification-illustrations",
+              "#71-contribution-axis-bands-and-table-2",
+              "#72-violation-axis-severity-ladder",
+              "#73-forum-disclosure-and-recusal-process-impact",
               "#benefit-route-descriptors-q1-classification-role",
               "#chapter-eight-compliance-violation-and-standing-model",
               "#chapters-eight-eleven-constitutional-compass",
@@ -4737,12 +4939,12 @@
             "file": "core_08-08_standing_assessment.md",
             "count": 16,
             "anchors": [
-              "#31-slot-grammar-and-display-labels",
-              "#331-misaligned-reward-forfeiture",
-              "#332-misaligned-reward-reporting",
-              "#333-misaligned-reward-benefit-retention-record-and-classification-discipline",
-              "#34-violation-axis-rules-violation-nature-adverse-findings-and-severity",
-              "#53-forum-disclosure-and-recusal-process-impact",
+              "#431-misaligned-reward-forfeiture",
+              "#432-misaligned-reward-reporting",
+              "#433-misaligned-reward-benefit-retention-record-and-classification-discipline",
+              "#5-slot-grammar-and-display-labels",
+              "#72-violation-axis-severity-ladder",
+              "#73-forum-disclosure-and-recusal-process-impact",
               "#chapter-eight-compliance-violation-and-standing-model",
               "#chapters-eight-eleven-constitutional-compass"
             ]
@@ -4915,15 +5117,16 @@
           },
           {
             "file": "core_08-08_standing_assessment.md",
-            "count": 19,
+            "count": 22,
             "anchors": [
               "#2-standing-records",
-              "#237-forum-boundary",
-              "#31-slot-grammar-and-display-labels",
-              "#34-violation-axis-rules-violation-nature-adverse-findings-and-severity",
-              "#51-contribution-axis-bands-and-table-2",
-              "#53-forum-disclosure-and-recusal-process-impact",
-              "#6-classification-evaluation-dimensions",
+              "#3-standing-record-operational-requirements",
+              "#36-forum-boundary",
+              "#4-classification-evaluation-dimensions",
+              "#5-slot-grammar-and-display-labels",
+              "#71-contribution-axis-bands-and-table-2",
+              "#72-violation-axis-severity-ladder",
+              "#73-forum-disclosure-and-recusal-process-impact",
               "#chapter-eight-compliance-violation-and-standing-model",
               "#chapters-eight-eleven-constitutional-compass",
               "#verified-inputs-for-standing"
@@ -5045,11 +5248,11 @@
             "anchors": [
               "#2-standing-records",
               "#22-linked-records-and-no-offset-bridge",
-              "#231-related-record-cross-references",
-              "#232-minimum-record-contents",
-              "#237-forum-boundary",
-              "#34-question-1-classification-illustrations",
-              "#6-classification-evaluation-dimensions",
+              "#31-minimum-record-contents",
+              "#32-related-record-cross-references",
+              "#36-forum-boundary",
+              "#4-classification-evaluation-dimensions",
+              "#44-question-1-classification-illustrations",
               "#chapters-eight-eleven-constitutional-compass",
               "#dual-use-classification-dimensions"
             ]
@@ -5332,7 +5535,7 @@
             ]
           },
           {
-            "file": "core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation",
+            "file": "core_07_a_system_alignment_certification_evaluation.md",
             "count": 18,
             "anchors": [
               "#3-whole-system-certification-evaluation",
@@ -5701,7 +5904,7 @@
             "anchors": []
           },
           {
-            "file": "core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation",
+            "file": "core_07_a_system_alignment_certification_evaluation.md",
             "count": 13,
             "anchors": [
               "#3-whole-system-certification-evaluation",
@@ -6015,11 +6218,11 @@
             ]
           },
           {
-            "file": "core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation",
+            "file": "core_07_a_system_alignment_certification_evaluation.md",
             "count": 22,
             "anchors": [
-              "#3-whole-system-certification-evaluation",
               "#10-trustworthiness-and-system-reliance-integrity-evaluation",
+              "#3-whole-system-certification-evaluation",
               "#chapter-seven-system-alignment-certification"
             ]
           },
@@ -6028,10 +6231,10 @@
             "count": 14,
             "anchors": [
               "#2-standing-records",
-              "#232-minimum-record-contents",
-              "#237-forum-boundary",
-              "#52-violation-axis-severity-ladder",
-              "#53-forum-disclosure-and-recusal-process-impact",
+              "#31-minimum-record-contents",
+              "#36-forum-boundary",
+              "#72-violation-axis-severity-ladder",
+              "#73-forum-disclosure-and-recusal-process-impact",
               "#chapter-eight-compliance-violation-and-standing-model",
               "#chapters-eight-eleven-constitutional-compass",
               "#verified-inputs-for-standing"
@@ -6252,7 +6455,7 @@
             ]
           },
           {
-            "file": "core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation",
+            "file": "core_07_a_system_alignment_certification_evaluation.md",
             "count": 8,
             "anchors": [
               "#3-whole-system-certification-evaluation",
@@ -6263,8 +6466,8 @@
             "file": "core_08-08_standing_assessment.md",
             "count": 8,
             "anchors": [
-              "#331-misaligned-reward-forfeiture",
-              "#332-misaligned-reward-reporting",
+              "#431-misaligned-reward-forfeiture",
+              "#432-misaligned-reward-reporting",
               "#chapter-eight-compliance-violation-and-standing-model",
               "#chapters-eight-eleven-constitutional-compass",
               "#verified-inputs-for-standing"
@@ -6585,8 +6788,8 @@
             "file": "core_08-08_standing_assessment.md",
             "count": 10,
             "anchors": [
-              "#31-slot-grammar-and-display-labels",
-              "#33-primary-category-defaults-and-lequ-slot-baseline",
+              "#5-slot-grammar-and-display-labels",
+              "#7-primary-category-defaults",
               "#chapter-eight-compliance-violation-and-standing-model"
             ]
           },
@@ -7855,7 +8058,7 @@
             ]
           },
           {
-            "file": "core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation",
+            "file": "core_07_a_system_alignment_certification_evaluation.md",
             "count": 1,
             "anchors": [
               "#chapter-seven-system-alignment-certification"
@@ -8960,6 +9163,20 @@
             ]
           },
           {
+            "file": "core_07_a_system_alignment_certification_evaluation.md",
+            "count": 1,
+            "anchors": [
+              "#2-system-class-evaluation"
+            ]
+          },
+          {
+            "file": "core_07_b_system_alignment_certification_record_process.md",
+            "count": 1,
+            "anchors": [
+              "#11-certification-record"
+            ]
+          },
+          {
             "file": "corpus_systems.md",
             "count": 1,
             "anchors": []
@@ -9239,11 +9456,16 @@
             ]
           },
           {
-            "file": "core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation",
-            "count": 1,
+            "file": "core_07_a_system_alignment_certification_evaluation.md",
+            "count": 2,
             "anchors": [
               "#2-system-class-evaluation"
             ]
+          },
+          {
+            "file": "corpus_systems/cs_protocol_a_system_design_testing_verification_deployment.md",
+            "count": 2,
+            "anchors": []
           },
           {
             "file": "corpus_systems/cs_s1_information_types_and_handling.md",
@@ -12910,9 +13132,9 @@
             "file": "core_08-08_standing_assessment.md",
             "count": 8,
             "anchors": [
-              "#232-minimum-record-contents",
-              "#52-violation-axis-severity-ladder",
-              "#53-forum-disclosure-and-recusal-process-impact"
+              "#31-minimum-record-contents",
+              "#72-violation-axis-severity-ladder",
+              "#73-forum-disclosure-and-recusal-process-impact"
             ]
           },
           {
@@ -13468,7 +13690,7 @@
             ]
           },
           {
-            "file": "core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation",
+            "file": "core_07_a_system_alignment_certification_evaluation.md",
             "count": 1,
             "anchors": [
               "#chapter-seven-system-alignment-certification"
@@ -13930,7 +14152,7 @@
             ]
           },
           {
-            "file": "core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation",
+            "file": "core_07_a_system_alignment_certification_evaluation.md",
             "count": 1,
             "anchors": [
               "#chapter-seven-system-alignment-certification"
@@ -13941,7 +14163,7 @@
             "count": 2,
             "anchors": [
               "#2-standing-records",
-              "#6-classification-evaluation-dimensions"
+              "#4-classification-evaluation-dimensions"
             ]
           },
           {

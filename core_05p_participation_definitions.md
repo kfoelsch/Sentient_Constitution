@@ -260,7 +260,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-- Canonical owner: [Chapter Eight — §4 LEQU baseline](core_08-08_standing_assessment.md#32-constitutional-outcome-baseline-for-slots) (*full-life-equivalent benefit and loss, **LEQU** calibration, substrate-agnostic scope*).
+- Canonical owner: [Chapter Eight — §6 LEQU baseline](core_08-08_standing_assessment.md#6-lequ-baseline-constitutional-outcome) (*full-life-equivalent benefit and loss, **LEQU** calibration, substrate-agnostic scope*).
 </details>
 
 <br>
