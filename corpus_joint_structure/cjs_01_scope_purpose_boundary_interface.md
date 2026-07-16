@@ -160,7 +160,7 @@ This file does not create a separate authority stack. Use the constitutional **A
 - **Canonical homes by layer**
   - Chapters Two through Four control O/M/A/C definition mechanics. Chapter Five controls constitutional term definitions.
   - Chapter Six controls rights language. Implementation files implement Rights Floors and must not restate weaker versions.
-  - Chapter Eight controls canonical compliance, violation, and standing classification policy.
+  - Chapter Eight controls canonical compliance, violation, and standing measurement policy.
   - [corpus_systems.md](../corpus_systems.md) Chapters S1 through S3 control data types, system classes, dependency types, and steward tiers.
 - **CJS cross-links**
   - **CJS-5.23** (*Integrative: intervention and override integrity terms*) and **CJS-5.14** (*Accountability: intervention governance and override-authorization terms*) stay separate: **CJS-5.23** (*Integrative: intervention and override integrity terms*) states technical intervention and override integrity terms; **CJS-5.14** (*Accountability: intervention governance and override-authorization terms*) states governance authorization terms. Both apply where relevant.

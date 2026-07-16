@@ -128,11 +128,11 @@ Where amendment or adoption conduct indicates serious misconduct, a mandatory re
 
 <br>
 
-*In plain terms: Chapter Thirteen can demand extra review, preserve evidence, or pause things when validity is in doubt — but it does not run parallel classification or invent new offense categories; final standing classification belongs to Chapters Eight and Nine, and final Violation Axis **s** = 7, 8, or 9 assignment belongs to Chapter Ten.*
+*In plain terms: Chapter Thirteen can demand extra review, preserve evidence, or pause things when validity is in doubt — but it does not run parallel classification or invent new offense categories; final standing measurement belongs to Chapters Eight and Nine, and final Violation Axis **s** = 7, 8, or 9 assignment belongs to Chapter Ten.*
 
 This chapter may impose immediate validity-protection controls. Those controls include heightened review, provisional suspension where materially necessary, [Evidence Preservation](core_05o_oversight_definitions.md#evidence-preservation), and remediation publication.
 
-Under [Constitutional Owner Layers](core_05i_integrative_definitions.md#constitutional-owner-layers), this chapter must not absorb, restate, or relocate obligations owned by another constitutional owner layer — including final offense classification, sanction taxonomy, standing classification, adjudicative workflow, or procedural amendment validity owned by Chapters Eight, Ten, Eleven, and Fifteen respectively. Slot-flavored or classification-flavored language in this chapter or in **Chapter Fifteen** operates only as a **trigger or referral heuristic** for routing to canonical owners and is **non-canonical** for final offense classification.
+Under [Constitutional Owner Layers](core_05i_integrative_definitions.md#constitutional-owner-layers), this chapter must not absorb, restate, or relocate obligations owned by another constitutional owner layer — including final offense classification, sanction taxonomy, standing measurement, adjudicative workflow, or procedural amendment validity owned by Chapters Eight, Ten, Eleven, and Fifteen respectively. Slot-flavored or classification-flavored language in this chapter or in **Chapter Fifteen** operates only as a **trigger or referral heuristic** for routing to canonical owners and is **non-canonical** for final offense classification.
 
 Cross-layer drift that imports adjudicative workflow, sanction mechanics, or classification substance from another owner layer into **Chapter Thirteen** or **Chapter Fifteen** — whether as direct text, as reader-guidance prose elevated to operative effect, or as inference from review-trigger language — is **non-compliant** under this section.
 
@@ -144,7 +144,7 @@ Future additions that touch offense-flavored, sanction-flavored, or classificati
 > The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this chapter or in other chapters.
 >
 > Canonical owner routing lives in [Constitutional Owner Layers](core_05i_integrative_definitions.md#constitutional-owner-layers). For editorial orientation, obligations outside the substantive change-validity owner layer include:
-> - **general contribution / violation / standing classification** (Axes I / II) — **Chapter Eight** in [core_08-08_standing_assessment.md](core_08-08_standing_assessment.md) and [core_09-09_standing_integration.md](core_09-09_standing_integration.md);
+> - **general contribution / violation / standing measurement** (Axes I / II) — **Chapter Eight** in [core_08-08_standing_assessment.md](core_08-08_standing_assessment.md) and [core_09-09_standing_integration.md](core_09-09_standing_integration.md);
 > - **final Violation Axis s = 7, 8, or 9** classification for **anti-constitutional misconduct** — **Chapter Ten** in [core_10-10_misconduct.md](core_10-10_misconduct.md#chapter-ten-anti-constitutional-misconduct);
 > - **forum-operational workflow and adjudicative procedure** — **Chapter Eleven** and [corpus_forum.md](corpus_forum.md);
 > - **procedural and custody validity** for amendment, ratification, and adoption — **Chapter Fifteen** in this file; and
@@ -678,7 +678,7 @@ Future additions that touch offense-flavored or sanction-flavored language must 
 > The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this chapter or in other chapters.
 >
 > Canonical owner routing lives in [Constitutional Owner Layers](core_05i_integrative_definitions.md#constitutional-owner-layers). For editorial orientation, obligations outside the procedural change-validity owner layer include:
-> - **general contribution / violation / standing classification** (Axes I / II) — **Chapter Eight** in [core_08-08_standing_assessment.md](core_08-08_standing_assessment.md) and [core_09-09_standing_integration.md](core_09-09_standing_integration.md);
+> - **general contribution / violation / standing measurement** (Axes I / II) — **Chapter Eight** in [core_08-08_standing_assessment.md](core_08-08_standing_assessment.md) and [core_09-09_standing_integration.md](core_09-09_standing_integration.md);
 > - **final Violation Axis s = 7, 8, or 9** classification for **anti-constitutional misconduct** — **Chapter Ten** in [core_10-10_misconduct.md](core_10-10_misconduct.md#chapter-ten-anti-constitutional-misconduct); and
 > - **sanction taxonomy** and adjudicative workflow — owner layers identified in [Chapter Thirteen §4 Layer scope](#4-layer-scope) and [Constitutional Owner Layers](core_05i_integrative_definitions.md#constitutional-owner-layers).
 

@@ -967,7 +967,7 @@
             "file": "core_10-10_misconduct.md",
             "count": 1,
             "anchors": [
-              "#4-due-process-safeguards-for-slot-classification"
+              "#4-due-process-safeguards-for-slot-assignment"
             ]
           },
           {
@@ -1553,7 +1553,7 @@
             "anchors": [
               "#431-misaligned-reward-forfeiture",
               "#432-misaligned-reward-reporting",
-              "#433-misaligned-reward-benefit-retention-record-and-classification-discipline",
+              "#433-misaligned-reward-benefit-retention-record-and-measurement-discipline",
               "#chapter-eight-compliance-violation-and-standing-model"
             ]
           },
@@ -3211,7 +3211,7 @@
               "#1-decision-framework-scope-and-authority",
               "#2-criteria-set-for-slot-assignment",
               "#3-violation-axis-s-7-9-slot-assignment-incident-gravity",
-              "#4-due-process-safeguards-for-slot-classification",
+              "#4-due-process-safeguards-for-slot-assignment",
               "#64-info-sphere-zone-flooding",
               "#chapter-ten-anti-constitutional-misconduct"
             ]
@@ -4660,21 +4660,21 @@
               "#2-standing-records",
               "#22-linked-records-and-no-offset-bridge",
               "#36-forum-boundary",
-              "#4-classification-evaluation-dimensions",
+              "#4-standing-measurement-evaluation-dimensions",
               "#41-formal-non-compliance",
               "#42-lequ-violation-calibration",
               "#42-remedial-substantive-non-compliance",
               "#44-duty-based-or-negligent-harm-violation",
-              "#44-question-1-classification-illustrations",
+              "#44-question-1-measurement-illustrations",
               "#71-contribution-axis-bands-and-table-2",
               "#72-violation-axis-severity-ladder",
               "#73-forum-disclosure-and-recusal-process-impact",
-              "#benefit-route-descriptors-q1-classification-role",
+              "#benefit-route-descriptors-q1-measurement-role",
               "#chapter-eight-compliance-violation-and-standing-model",
               "#chapters-eight-eleven-constitutional-compass",
               "#contribution-table-q1-magnitude-input-dimensions",
-              "#dual-use-classification-dimensions",
-              "#harm-route-descriptors-q1-classification-role",
+              "#dual-use-measurement-dimensions",
+              "#harm-route-descriptors-q1-measurement-role",
               "#verified-inputs-for-standing",
               "#violation-table-q1-severity-input-dimensions"
             ]
@@ -4941,7 +4941,7 @@
             "anchors": [
               "#431-misaligned-reward-forfeiture",
               "#432-misaligned-reward-reporting",
-              "#433-misaligned-reward-benefit-retention-record-and-classification-discipline",
+              "#433-misaligned-reward-benefit-retention-record-and-measurement-discipline",
               "#5-slot-grammar-and-display-labels",
               "#72-violation-axis-severity-ladder",
               "#73-forum-disclosure-and-recusal-process-impact",
@@ -5122,7 +5122,7 @@
               "#2-standing-records",
               "#3-standing-record-operational-requirements",
               "#36-forum-boundary",
-              "#4-classification-evaluation-dimensions",
+              "#4-standing-measurement-evaluation-dimensions",
               "#5-slot-grammar-and-display-labels",
               "#71-contribution-axis-bands-and-table-2",
               "#72-violation-axis-severity-ladder",
@@ -5155,7 +5155,7 @@
             "count": 11,
             "anchors": [
               "#3-violation-axis-s-7-9-slot-assignment-incident-gravity",
-              "#4-due-process-safeguards-for-slot-classification",
+              "#4-due-process-safeguards-for-slot-assignment",
               "#610-forum-recusal-failure-and-biased-panel-participation",
               "#chapter-ten-anti-constitutional-misconduct"
             ]
@@ -5251,10 +5251,10 @@
               "#31-minimum-record-contents",
               "#32-related-record-cross-references",
               "#36-forum-boundary",
-              "#4-classification-evaluation-dimensions",
-              "#44-question-1-classification-illustrations",
+              "#4-standing-measurement-evaluation-dimensions",
+              "#44-question-1-measurement-illustrations",
               "#chapters-eight-eleven-constitutional-compass",
-              "#dual-use-classification-dimensions"
+              "#dual-use-measurement-dimensions"
             ]
           },
           {
@@ -14163,7 +14163,7 @@
             "count": 2,
             "anchors": [
               "#2-standing-records",
-              "#4-classification-evaluation-dimensions"
+              "#4-standing-measurement-evaluation-dimensions"
             ]
           },
           {

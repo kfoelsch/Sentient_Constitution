@@ -36,7 +36,7 @@ This chapter states the **Constitutional Contract Layer**: constitutional legiti
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: [Chapter One](core_01_c_stewardship_capacity_principles.md#chapter-01-principles-and-constraints) integrated constraint stack; [Chapter Six](core_06-06_rights_part_a.md#chapter-six-foundational-rights) Foundational Rights Floor through [Part D](core_06-06_rights_part_d.md).
-- Downstream: [§§ 1–5](#1-authorization-and-legitimacy-of-governing-authority) (stewardship and collective-choice requirements in this chapter); [Chapter Eight](core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) general **contribution, violation, and standing** classification (**Axes I and II**); [Chapter Ten](core_10-10_misconduct.md#chapter-ten-anti-constitutional-misconduct) final **Violation Axis s = 7, 8, or 9** slot classification for anti-constitutional misconduct.
+- Downstream: [§§ 1–5](#1-authorization-and-legitimacy-of-governing-authority) (stewardship and collective-choice requirements in this chapter); [Chapter Eight](core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) general **contribution, violation, and standing** classification (**Axes I and II**); [Chapter Ten](core_10-10_misconduct.md#chapter-ten-anti-constitutional-misconduct) final **Violation Axis s = 7, 8, or 9** slot assignment for anti-constitutional misconduct.
 - Read with: [Chapters Two through Four](core_02-03_definition_mechanics.md) (integrity, tracing, verification); [Chapter Five](core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) (canonical definitions); [Chapter Five Chapter One §8.20 *Governance Architecture, Oversight, Dependency, Decentralization, Concentration, Market Structure, and Exit-Path Integrity*](core_05a_accountability_definitions.md#governance-architecture-oversight-decentralization-and-concentration-cluster) (joint-invocation cluster where authority placement, oversight design, dependency, decentralization, concentration, incentive routing, or exit-path analysis materially affect compliance).
 
 </details>
@@ -47,7 +47,7 @@ This chapter states the **Constitutional Contract Layer**: constitutional legiti
 
 - It sets constitutional requirements, not full operating detail.
 - Participation, due-process, and binding-adoption gates remain anchored in Chapter Six (especially **Article XI-A** (*Stakeholder System Participation and Representation*)).
-- **General** classification under **Chapter Eight** (**Axes I and II** — contribution **state**, violation nature, standing effect) remains **Chapter Eight**-anchored. **Final Violation Axis s = 7, 8, or 9** slot classification for **anti-constitutional misconduct** remains anchored in **Chapter Ten**.
+- **General** classification under **Chapter Eight** (**Axes I and II** — contribution **state**, violation nature, standing effect) remains **Chapter Eight**-anchored. **Final Violation Axis s = 7, 8, or 9** slot assignment for **anti-constitutional misconduct** remains anchored in **Chapter Ten**.
 - Detailed procedure, staffing, voting implementation, and execution protocols are owned by designated implementation layers.
 
 ### 1. Authorization and Legitimacy of Governing Authority

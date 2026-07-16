@@ -125,7 +125,7 @@ Each institution must also name:
 
 <br>
 
-*In plain terms: institutions use a common set of trigger labels — corruption, fraud, self-dealing, procurement capture, and the rest — so training, control maps, and routing stay consistent. Shared cross-layer routing lives in **CJS-5.6** (*integrity assurance and resilience operations*); contribution, violation, and standing classification stays in **Chapter Eight** and **Chapter Ten**.*
+*In plain terms: institutions use a common set of trigger labels — corruption, fraud, self-dealing, procurement capture, and the rest — so training, control maps, and routing stay consistent. Shared cross-layer routing lives in **CJS-5.6** (*integrity assurance and resilience operations*); contribution, violation, and standing measurement stays in **Chapter Eight** and **Chapter Ten**.*
 
 This subsection names institutional trigger labels for **CI-5** control maps and training. Apply **CJS-5.6** **Integrity-trigger routing chain** for shared cross-layer traceability.
 
@@ -147,7 +147,7 @@ When a trigger fires, route it to the correct owner section — not every proble
 - applicable **CF** sections — forum-side support; and
 - **CI-11**, **CI-13** — sanctions where misconduct is confirmed.
 
-Contribution, violation, standing, and Violation Axis classification remain under **Chapter Eight** and **Chapter Ten**.
+Contribution, violation, standing, and Violation Axis measurement remain under **Chapter Eight** and **Chapter Ten**.
 
 ---
 

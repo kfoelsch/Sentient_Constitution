@@ -1208,7 +1208,7 @@ It must remain distinct from:
 
 *Article neighbors:*
 
-- **Owner layers:** [Chapter Eight](core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) and [Chapter Nine](core_09-09_standing_integration.md#chapter-nine-standing-effects-and-integration) classify standing records and standing effects; this Article states Rights-Floor limits those layers must not narrow.
+- **Owner layers:** [Chapter Eight](core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) and [Chapter Nine](core_09-09_standing_integration.md#chapter-nine-standing-effects-and-integration) measure standing records and standing effects; this Article states Rights-Floor limits those layers must not narrow.
 - **Read together:** **Article V-A** (*Dignity and Equal Moral Standing*) and **Article XI** (*Stakeholder System Participation, Representation, and Due Process*) — standing criteria must not substitute for dignity or stakeholder existence; **Article III-A** (*Survival*) — participant standing alone must not foreclose survival-critical access; **Article XIX** (*Interoperability, Portability, Movement, Refuge, and Exit Integrity*) — standing discipline must not substitute for individualized justice process or function as exile, refuge denial, or statelessness by label alone; movement, refuge, portability, and exit floors remain in **Article XIX** (*Interoperability, Portability, Movement, Refuge, and Exit Integrity*) without narrowing standing safeguards here.
 
 #### Article XVIII-A: Standing Distinction
@@ -1866,7 +1866,7 @@ Final **constitutional** interpretation must remain authoritative, bounded, audi
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter One [Chapter One §6.3 Rights-Collision Procedure](core_01_b_interaction_interpretation.md#63-rights-collision-procedure), [§10 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline), and [15. Integrated Application](core_01_c_stewardship_capacity_principles.md#15-integrated-application).
-- Read with: [Chapter Eight §7.3](core_08-08_standing_assessment.md#73-forum-disclosure-and-recusal-process-impact) (*classification discipline*); [Chapter Ten §6.10](core_10-10_misconduct.md#610-forum-recusal-failure-and-biased-panel-participation) (*named misconduct pattern*); [Chapter Eleven §2](core_11-11_forum.md#2-default-venue-and-primary-stakes) and [§5](core_11-11_forum.md#6-transfer-consolidation-and-coordination) (*Integrity-first routing and anti-self-judging*).
+- Read with: [Chapter Eight §7.3](core_08-08_standing_assessment.md#73-forum-disclosure-and-recusal-process-impact) (*measurement discipline*); [Chapter Ten §6.10](core_10-10_misconduct.md#610-forum-recusal-failure-and-biased-panel-participation) (*named misconduct pattern*); [Chapter Eleven §2](core_11-11_forum.md#2-default-venue-and-primary-stakes) and [§5](core_11-11_forum.md#6-transfer-consolidation-and-coordination) (*Integrity-first routing and anti-self-judging*).
 
 </details>
 

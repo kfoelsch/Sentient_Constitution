@@ -719,7 +719,7 @@ while defeating practical reconstructability, contestability, or proportionate a
     **Primary assessment:** Preservation must be prompt, proportionate to materiality and risk, custody-traceable, tamper-evident where feasible, and protective of privacy, safety, security, and protected reporting. It includes preventing deletion, alteration, selective retention, access obstruction, or loss of reconstructability once a material constitutional issue is reasonably known or should be known.
 <a id="evidence-preservation-c"></a>
 - **What must hold**
-  - destroying, altering, withholding, selectively preserving, rendering inaccessible, or failing to secure materially relevant evidence in a way that defeats auditability, contestability, accountability, remedy access, protected reporting, due-process review, or standing classification.
+  - destroying, altering, withholding, selectively preserving, rendering inaccessible, or failing to secure materially relevant evidence in a way that defeats auditability, contestability, accountability, remedy access, protected reporting, due-process review, or standing measurement.
 
 <a id="evaluation-completeness-constraint"></a>
 ##### Evaluation Completeness Constraint

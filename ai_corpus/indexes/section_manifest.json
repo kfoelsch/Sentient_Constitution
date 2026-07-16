@@ -3519,7 +3519,7 @@
       "total_lines": 900,
       "sections": [
         {
-          "header": "CHAPTER EIGHT: CONTRIBUTION, VIOLATION, AND STANDING MODEL — CLASSIFICATION",
+          "header": "CHAPTER EIGHT: CONTRIBUTION, VIOLATION, AND STANDING MODEL — MEASUREMENT",
           "level": 1,
           "line_start": 2,
           "line_end": 900,
@@ -3617,11 +3617,11 @@
           "anchor": "#36-forum-boundary"
         },
         {
-          "header": "4. Classification evaluation dimensions — Question 1 (how good / how bad?)",
+          "header": "4. Standing measurement evaluation dimensions — Question 1 (how good / how bad?)",
           "level": 3,
           "line_start": 358,
           "line_end": 613,
-          "anchor": "#4-classification-evaluation-dimensions"
+          "anchor": "#4-standing-measurement-evaluation-dimensions"
         },
         {
           "header": "4.1 Magnitude-input dimensions",
@@ -3631,18 +3631,18 @@
           "anchor": "#41-magnitude-input-dimensions"
         },
         {
-          "header": "4.2 Route descriptor classification roles",
+          "header": "4.2 Route descriptor measurement roles",
           "level": 4,
           "line_start": 422,
           "line_end": 470,
-          "anchor": "#42-route-descriptor-classification-roles"
+          "anchor": "#42-route-descriptor-measurement-roles"
         },
         {
-          "header": "4.3 Dual-use classification hooks",
+          "header": "4.3 Dual-use measurement hooks",
           "level": 4,
           "line_start": 471,
           "line_end": 562,
-          "anchor": "#43-dual-use-classification-hooks"
+          "anchor": "#43-dual-use-measurement-hooks"
         },
         {
           "header": "4.3.1 Misaligned Reward Forfeiture",
@@ -3659,18 +3659,18 @@
           "anchor": "#432-misaligned-reward-reporting"
         },
         {
-          "header": "4.3.3 Misaligned reward / benefit retention — record and classification discipline",
+          "header": "4.3.3 Misaligned reward / benefit retention — record and measurement discipline",
           "level": 5,
           "line_start": 533,
           "line_end": 562,
-          "anchor": "#433-misaligned-reward-benefit-retention-record-and-classification-discipline"
+          "anchor": "#433-misaligned-reward-benefit-retention-record-and-measurement-discipline"
         },
         {
-          "header": "4.4 Question 1 classification illustrations",
+          "header": "4.4 Question 1 measurement illustrations",
           "level": 4,
           "line_start": 563,
           "line_end": 613,
-          "anchor": "#44-question-1-classification-illustrations"
+          "anchor": "#44-question-1-measurement-illustrations"
         },
         {
           "header": "5. Slot grammar and display labels",
@@ -3874,7 +3874,7 @@
           "anchor": "#chapter-seven-part-d-oversight-vocabulary"
         },
         {
-          "header": "2.0 Contribution classification pointer — Question 1 lives in Chapter Eight",
+          "header": "2.0 Contribution measurement pointer — Question 1 lives in Chapter Eight",
           "level": 4,
           "line_start": 439,
           "line_end": 446,
@@ -4166,7 +4166,7 @@
           "anchor": "#3-violation-axis-s-7-9-slot-assignment-incident-gravity"
         },
         {
-          "header": "4. Due-process safeguards for slot classification — Oversight safeguards",
+          "header": "4. Due-process safeguards for slot assignment — Oversight safeguards",
           "level": 3,
           "line_start": 189,
           "line_end": 206,

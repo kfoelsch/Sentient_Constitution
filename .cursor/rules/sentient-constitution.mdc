@@ -29,7 +29,7 @@ This repository is the **Sentient Constitution** markdown corpus and tooling—n
 | `court` / `courts` (institutional / adjudicative sense) | `forums`, `forum family` for routing, or `adjudicative body` where a generic label is still needed |
 | `tribunal` / `tribunals` (internal Chapter Nine / forum-governance sense) | `forum` / `forums`, `forum family`, `panel`, `bench`, or `adjudicative body` as context requires |
 | `Router read` (body-prose label for CJS-2.1 routing) | `- Topic routing (primary owner):` or `- Topic routing (mandatory read-with):` bullets inside the Trace `<details>` block |
-| `standing calculus` / `standing-calculus` (undefined jargon for Chapter Six classification) | `standing-record classification` under Chapter Six; `classify standing records` on the Contribution and Violation axes |
+| `standing calculus` / `standing-calculus` (undefined jargon for Chapter Eight standing measurement) | `standing measurement` under Chapter Eight; `measure standing records` on the Contribution and Violation axes |
 | `filed claim is not standing` (forum/standing boundary slogan) | `filed case is not standing by itself`; keep `claim` for *unadjudicated claims* and other established senses |
 | `drift` (bare; stewardship / governance / incentive / alignment sense) | `misalignment` or `constitutional misalignment` at principle layer |
 

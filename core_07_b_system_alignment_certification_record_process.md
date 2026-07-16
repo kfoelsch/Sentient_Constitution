@@ -10,7 +10,7 @@
 >
 > - **Constitutional owner (joint with Part A):** forum-supervised **system alignment certification and related records**.
 > - **Evaluation inputs:** [Part A §2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) through [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) supply evaluation outputs reflected on the certification record.
-> - **Anti-relocation rule:** Part B does not restate Part A evaluation mechanics, Chapter Five canonical definitions, Chapter Eight standing classification, or Chapter Nine standing effects. **§15** states the standing bridge boundary explicitly.
+> - **Anti-relocation rule:** Part B does not restate Part A evaluation mechanics, Chapter Five canonical definitions, Chapter Eight standing measurement, or Chapter Nine standing effects. **§15** states the standing bridge boundary explicitly.
 >
 > **Upstream:** [Part A](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation); Chapter Eleven forum supervision; Chapters Two through Four verification discipline.
 > **Downstream:** Chapter Eight standing records and verified inputs; Chapter Nine standing effects.
@@ -36,7 +36,7 @@ Chapter Seven, **Part B**, is the constitutional owner of the **certification re
 
 <br>
 
-*In plain terms: Part A says what must be **evaluated**. Part B says what must go **on the record**, how **forums** run the process, how people **challenge** outcomes, and how certification may feed **standing** — without letting certification substitute for standing classification or effects.*
+*In plain terms: Part A says what must be **evaluated**. Part B says what must go **on the record**, how **forums** run the process, how people **challenge** outcomes, and how certification may feed **standing** — without letting certification substitute for standing measurement or effects.*
 
 Forum-supervised certification must produce a bounded **System Alignment Certification Record** under [§11](#11-certification-record) that reflects Part A evaluation outputs, satisfies [§12](#12-transparency-auditability-and-contestability), follows the forum roles in [§13](#13-forum-supervision-and-component-roles) and supervisory sequence in [§14](#14-supervisory-sequence-and-contestability-chain), and may supply verified inputs to Chapter Eight only through [§15](#15-relationship-to-standing). Defective certification, misclassification, and evasion route under [§16](#16-reopening-drift-and-non-evasion).
 
@@ -413,7 +413,7 @@ When forum-supervised challenge is required, internal operator review, vendor at
 
 - A certification record does **not** apply standing effects;
 - This chapter owns **system alignment certification and related records** only — see [Constitutional Owner Layers](core_05i_integrative_definitions.md#constitutional-owner-layers), read with [Authority Stack and Internal Hierarchy](core_05i_integrative_definitions.md#authority-stack);
-- [Chapter Eight](core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) owns standing records and axis-pure classification;
+- [Chapter Eight](core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) owns standing records and axis-pure measurement;
 - [Chapter Nine](core_09-09_standing_integration.md#chapter-nine-standing-effects-and-integration) owns standing integration and effects;
 - This chapter may supply verified inputs only through the gate above;
 - It must not absorb, restate, or relocate Chapter Eight or Chapter Nine owner obligations.

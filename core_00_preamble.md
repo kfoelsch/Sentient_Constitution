@@ -126,7 +126,7 @@ Each summary states what the chapter does and what it produces.
 **Chapter Four — Burden, traceability, and verification** ([`core_02-03_definition_mechanics.md`](core_02-03_definition_mechanics.md))
 
 - **What it does:** Puts the proof burden on whoever claims compliance; requires traceable evidence, observability, and verification that scale to [**material stake**](#material-stake) and remain practically challengeable.
-- **What it produces:** The verification pipeline that feeds **verified inputs** in [Chapter Eight](core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) and system-alignment evidence in [Chapter Seven](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) — without replacing standing classification itself.
+- **What it produces:** The verification pipeline that feeds **verified inputs** in [Chapter Eight](core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) and system-alignment evidence in [Chapter Seven](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) — without replacing standing measurement itself.
 
 **Chapter Five — Foundational definitions** ([`core_05-05_definitions_a_independent.md`](core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions))
 
@@ -158,7 +158,7 @@ Each step below states what the process does and what it produces.
 
 **Standing measurement** ([Chapter Eight](core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model))
 
-- **What it does:** When conduct matters constitutionally, rumors and reputations are not enough. Verified facts enter **standing records**. **Contribution** (help toward flourishing) and **violation** (accountability failures and harm) are classified on **separate axes** — verified good conduct does not erase verified harm, and the two are never folded into one net score.
+- **What it does:** When conduct matters constitutionally, rumors and reputations are not enough. Verified facts enter **standing records**. **Contribution** (help toward flourishing) and **violation** (accountability failures and harm) are measured on **separate axes** — verified good conduct does not erase verified harm, and the two are never folded into one net score.
 - **What it produces:** Classified **standing records** on the Contribution Axis and Violation Axis, based only on **verified inputs** and forum-supervised findings — not informal scoring or dispute narratives standing in for classification.
 
 **Standing integration and effects** ([Chapter Nine](core_09-09_standing_integration.md#chapter-nine-standing-effects-and-integration))
@@ -176,7 +176,7 @@ Each step below states what the process does and what it produces.
 **Forum supervision and routing** ([Chapter Eleven](core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction))
 
 - **What it does:** Supervises how disputes and certification matters actually move — which forum family handles them, where a case ordinarily starts, how evidence is supported, how matters transfer or consolidate, and how anti-self-judging rules keep captured forums from being the sole final home. Clocks under **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*) keep cases from sitting unresolved so long that remedy no longer matters.
-- **What it produces:** **Verified findings** that may open or update standing records, plus lawful routing toward remedy and [timely resolution](core_05a_accountability_definitions.md#timely-resolution-constitutional). Forums supervise the pipeline; they do not replace Chapter Eight standing-record classification.
+- **What it produces:** **Verified findings** that may open or update standing records, plus lawful routing toward remedy and [timely resolution](core_05a_accountability_definitions.md#timely-resolution-constitutional). Forums supervise the pipeline; they do not replace Chapter Eight standing measurement.
 
 **How the full chain fits together**
 

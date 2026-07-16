@@ -2,7 +2,7 @@
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$id": "https://constitution.sentient/schemas/ch06_assessment.schema.json",
   "title": "ch06_assessment",
-  "description": "Logical Chapter Eight classification snapshot; semantic meaning and obligations are in core_08-08_standing_assessment.md and core_09-09_standing_integration.md. Snapshots that drive standing effect must reflect verified standing inputs only (demonstrable Contribution Axis; verified violation findings for the Violation Axis per Chapter Eight section 2 Verified inputs for standing and Chapter Five Verified Violation Findings); allegations and forum-phase material are not standing inputs. Cross-field rules (e.g. when axis_two is present, joint.highest_severity should equal axis_two.severity; no netting of severity via descriptors) may require validators beyond this schema or custom assertions.",
+  "description": "Logical Chapter Eight measurement snapshot; semantic meaning and obligations are in core_08-08_standing_assessment.md and core_09-09_standing_integration.md. Snapshots that drive standing effect must reflect verified standing inputs only (demonstrable Contribution Axis; verified violation findings for the Violation Axis per Chapter Eight section 2 Verified inputs for standing and Chapter Five Verified Violation Findings); allegations and forum-phase material are not standing inputs. Cross-field rules (e.g. when axis_two is present, joint.highest_severity should equal axis_two.severity; no netting of severity via descriptors) may require validators beyond this schema or custom assertions.",
   "type": "object",
   "additionalProperties": false,
   "required": [

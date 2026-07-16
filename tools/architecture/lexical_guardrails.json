@@ -116,15 +116,23 @@
     },
     {
       "avoid": "standing calculus",
-      "prefer": "standing-record classification under Chapter Eight; classify standing records on the Contribution and Violation axes"
+      "prefer": "standing measurement under Chapter Eight; measure standing records on the Contribution and Violation axes"
+    },
+    {
+      "avoid": "standing-calculus",
+      "prefer": "standing measurement under Chapter Eight"
+    },
+    {
+      "avoid": "standing classification",
+      "prefer": "standing measurement under Chapter Eight (reserve classification for CS-4 system classification)"
+    },
+    {
+      "avoid": "standing-record classification",
+      "prefer": "standing measurement under Chapter Eight"
     },
     {
       "avoid": "filed claim is not standing",
       "prefer": "filed case is not standing by itself (forum matter vs standing record); keep claim for unadjudicated claims and other established senses"
-    },
-    {
-      "avoid": "standing-calculus",
-      "prefer": "standing-record classification under Chapter Eight"
     },
     {
       "avoid": "drift",

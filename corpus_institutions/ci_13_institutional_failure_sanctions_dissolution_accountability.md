@@ -31,7 +31,7 @@
 - **When alignment-supervision review is mandatory** — institutions that operate, supervise, charter, license, or materially control a chronically misaligned system enter review when an Integrity forum issues a final alignment ruling, withdraws recognition, imposes remediation conditions, or identifies sustained material misalignment under **Chapter Eleven**.
 - **Who keeps the official record** — the authoritative consequence record is an **Integrity forum lead record** under **CF-7**, not an institution-only file controlled by the subject institution.
 - **What the institution still must do** — name a consequence liaison, submit required materials on deadline, mirror the forum-held record without rewrite, propose continuity transfer for forum approval, and publish the personal-accountability boundary.
-- **What dissolution is not** — not a substitute for misconduct classification under **Chapter Ten** or ordinary personal accountability under constitutional law.
+- **What dissolution is not** — not a substitute for misconduct slot assignment under **Chapter Ten** or ordinary personal accountability under constitutional law.
 - **Read with** — **CF-7** for lead-record custody and alignment rulings; **CF-11** where forum performance thresholds trigger **CI-13** consequences; **CI-5** for integrity triggers and routing; **CI-8** when cross-institution escalation is needed; **CI-11** for stewardship and malus/clawback interfaces; **CI-14** for transitional governance during structural change.
 
 *In plain terms: breaking constitutional obligations is not an administrative annoyance you can paper over forever. Lesser sanctions come first when they can work — but if an institution resists realignment, hides failures, or keeps harming sentients after a fair chance to fix things, the consequence path must escalate with continuity safeguards so services, records, and challenge rights do not disappear in the wreckage. The institution under review cannot be the only place those facts are written down.*
@@ -53,7 +53,7 @@ These are cooperation and implementation duties only:
 - duty to **submit** required materials, cure reports, sanction responses, and continuity proposals to the lead Integrity forum on published deadlines;
 - duty to **mirror publication** of the forum-held official record without selective omission, delay, or rewrite;
 - a **proposed continuity-transfer plan** for forum review, adoption, or amendment before receivership, supervised operation, or successor handoff proceeds; and
-- a published **personal-accountability boundary** clarifying that institutional dissolution or disbandment does not replace misconduct classification under **Chapter Ten** or ordinary constitutional accountability for responsible sentients.
+- a published **personal-accountability boundary** clarifying that institutional dissolution or disbandment does not replace misconduct slot assignment under **Chapter Ten** or ordinary constitutional accountability for responsible sentients.
 
 **What the Integrity forum lead record must name**
 

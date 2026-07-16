@@ -841,7 +841,7 @@
       "theme_label": "Neighbor term disambiguation (distinct from \u2026)",
       "action": "keep",
       "canonical_home": "(local term pair \u2014 no global fold)",
-      "excerpt": "**Axis I** classifies **positive-only** constitutional outcomes: **baseline** satisfaction and **demonstrable** improvement beyond baseline, under applicable functional system conditions. It **does not** classify **adve\u2026",
+      "excerpt": "**Axis I** measures **positive-only** constitutional outcomes: **baseline** satisfaction and **demonstrable** improvement beyond baseline, under applicable functional system conditions. It **does not** classify **adve\u2026",
       "pattern": "distinct from \\["
     },
     {
@@ -853,7 +853,7 @@
       "theme_label": "Pointer / does not restate elsewhere",
       "action": "thin",
       "canonical_home": "Trace widget links only",
-      "excerpt": "**Axis I** classifies **positive-only** constitutional outcomes: **baseline** satisfaction and **demonstrable** improvement beyond baseline, under applicable functional system conditions. It **does not** classify **adve\u2026",
+      "excerpt": "**Axis I** measures **positive-only** constitutional outcomes: **baseline** satisfaction and **demonstrable** improvement beyond baseline, under applicable functional system conditions. It **does not** classify **adve\u2026",
       "pattern": "chapter five pointer"
     },
     {
@@ -889,7 +889,7 @@
       "theme_label": "Pointer / does not restate elsewhere",
       "action": "thin",
       "canonical_home": "Trace widget links only",
-      "excerpt": "The bounded, **axis-pure** classification record that applies Chapter Eight categories to a defined subject, functional scope, time window, review status, and decision context. Each standing record classifies verified b\u2026",
+      "excerpt": "The bounded, **axis-pure** measurement record that applies Chapter Eight categories to a defined subject, functional scope, time window, review status, and decision context. Each standing record measures verified b\u2026",
       "pattern": "chapter five pointer"
     },
     {

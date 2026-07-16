@@ -108,10 +108,10 @@ Highest-yield thinning: drop duplicate theme on secondary components when one en
 | core_05a_accountability_definitions.md | 850 | Market Structure | E | proxy_metrics | - **Primary assessment.** Reach substantive concentration, domination, and consolidation risk — not… |
 | core_05a_accountability_definitions.md | 876 | Governance | O | layer_separation | The structures, rules, allocation of authority, and processes by which systems and institutions are… |
 | core_05a_accountability_definitions.md | 1381 | Participant Standing | O | pointer_disclaimer | Participation-status or role-eligibility status that may be recognized from constitutionally valid… |
-| core_05a_accountability_definitions.md | 1413 | Contribution State | O | pointer_disclaimer | **Axis I** classifies **positive-only** constitutional outcomes: **baseline** satisfaction and **de… |
+| core_05a_accountability_definitions.md | 1413 | Contribution State | O | pointer_disclaimer | **Axis I** measures **positive-only** constitutional outcomes: **baseline** satisfaction and **de… |
 | core_05a_accountability_definitions.md | 1469 | Verified Violation Findings | O | pointer_disclaimer | **Violation Axis** inputs that may affect **standing effect** because they rest on auditable, conte… |
 | core_05a_accountability_definitions.md | 1496 | Standing Effect | O | pointer_disclaimer | The **consequence layer** that applies verified [**contribution state**](core_05a_accountability_de… |
-| core_05a_accountability_definitions.md | 1523 | Standing Record | O | pointer_disclaimer | The bounded, **axis-pure** classification record that applies Chapter Eight categories to a defined… |
+| core_05a_accountability_definitions.md | 1523 | Standing Record | O | pointer_disclaimer | The bounded, **axis-pure** measurement record that applies Chapter Eight categories to a defined… |
 | core_05a_accountability_definitions.md | 1602 | Violation Nature | O | pointer_disclaimer | **Axis II** classification of **adverse** constitutional outcomes from [**verified violation findin… |
 | core_05a_accountability_definitions.md | 1893 | Combatant / Non-Combatant Distinction | O | global_integrity_negative | The substantive distinction, at the time of an applicable use-of-force decision, between sentients… |
 | core_05c_continuity_definitions.md | 317 | Safety (Constraint) | E | proxy_metrics | - **Primary assessment.** Trace protective obligations to sentient-experienced harm containment und… |

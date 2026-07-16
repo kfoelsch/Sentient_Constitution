@@ -27,7 +27,7 @@
 > 4. **Milestone table** — [Chapter Eleven §10](core_11-11_forum.md#10-timely-resolution-materiality-tiers-and-anti-delay-discipline) tier windows from **CF-11.3.1** (adopter floor).
 > 5. **Must not happen** — anti-patterns the constitution rejects.
 >
-> **References:** [Chapter Eight §4](core_08-08_standing_assessment.md#4-classification-evaluation-dimensions) (Question 1 dimensions); [Chapter Eight §4.4](core_08-08_standing_assessment.md#44-question-1-classification-illustrations) (Question 1 classification illustrations); [Chapter Nine §2.1](core_09-09_standing_integration.md#210-safe-delegation-competency-gate-dimensions) and [Chapter Nine §3.1](core_09-09_standing_integration.md#310-non-recurrence-lock-dimensions) (Question 2); [Chapter Eleven](core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) (forum routing and supervision); [implementation/CH06_NINE_SLOT_STANDING_SCALE.md](implementation/CH06_NINE_SLOT_STANDING_SCALE.md) (numeric layer).
+> **References:** [Chapter Eight §4](core_08-08_standing_assessment.md#4-standing-measurement-evaluation-dimensions) (Question 1 dimensions); [Chapter Eight §4.4](core_08-08_standing_assessment.md#44-question-1-measurement-illustrations) (Question 1 measurement illustrations); [Chapter Nine §2.1](core_09-09_standing_integration.md#210-safe-delegation-competency-gate-dimensions) and [Chapter Nine §3.1](core_09-09_standing_integration.md#310-non-recurrence-lock-dimensions) (Question 2); [Chapter Eleven](core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) (forum routing and supervision); [implementation/CH06_NINE_SLOT_STANDING_SCALE.md](implementation/CH06_NINE_SLOT_STANDING_SCALE.md) (numeric layer).
 >
 > Regression hooks: `RS-XXIV-C-CHILD-001`, `RS-XXIV-C-DISC-001`, `RS-XXIV-C-BIZ-001`, `RS-XXIV-C-DELAY-001` in [CONSTITUTIONAL_REGRESSION_SCENARIOS.md](CONSTITUTIONAL_REGRESSION_SCENARIOS.md).
 
@@ -55,7 +55,7 @@ Years-long cycles: vague “welfare checks,” reputation gossip, family-forum d
 | 2 | **Tier A intake** under **CF-11.3.1**; evidence preservation (home visit records, school logs, platform schedule exports) begins concurrently. |
 | 3 | **Interim protection** (supervised care, respite placement, or in-home support bundle) without waiting for full merits — **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*) Tier A. |
 | 4 | Forum produces **verified violation finding** → open **axis-pure violation standing record** on guardian and, if verified, **institutional vehicle** record on platform scheduling policy ([Chapter Eight §2](core_08-08_standing_assessment.md#2-standing-records)). |
-| 5 | **Question 1** ([Chapter Eight §4](core_08-08_standing_assessment.md#4-classification-evaluation-dimensions)): **Interpersonal / Care Duty Misconduct** + **Negligent Misconduct**; dependency-asymmetric **materiality** elevates severity; likely `s` = 4–5 pending LEQU calibration. |
+| 5 | **Question 1** ([Chapter Eight §4](core_08-08_standing_assessment.md#4-standing-measurement-evaluation-dimensions)): **Interpersonal / Care Duty Misconduct** + **Negligent Misconduct**; dependency-asymmetric **materiality** elevates severity; likely `s` = 4–5 pending LEQU calibration. |
 | 6 | **Question 2** ([Chapter Nine §3.1](core_09-09_standing_integration.md#310-non-recurrence-lock-dimensions)): **Safeguard Lock** + **protective participation lock** on unsupervised custody routes; **pathway-scoped** blocks on sole-custody authority until verified monitoring and respite plan. |
 | 7 | **Remedy**: restitution bundle (food, care access, stable housing link), platform schedule relief, and monitored care plan — **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*) joint requirements. |
 | 8 | If verified platform policy **forecloses exit** from exploitative scheduling, linked record cross-references **Exit and Lock-In Misconduct** on institutional route. |
@@ -144,7 +144,7 @@ Arbitration clauses, shell subcontractors, years of “market efficiency” defe
 | --- | --- |
 | 1 | **Primary-stakes routing**: **Institutional** lead; **Technical Forum Domains** certified component for routing-safety specification. |
 | 2 | **Tier B** for driver lock-in and compensation injury; escalate to **Tier C** if cross-border corporate structure or **Chapter Ten** capture pattern is verified. |
-| 3 | Verified findings → violation records on platform operator; linked **contribution** claims for “efficiency” capped or rejected when [dual-use externalized harm](core_08-08_standing_assessment.md#dual-use-classification-dimensions) is verified. |
+| 3 | Verified findings → violation records on platform operator; linked **contribution** claims for “efficiency” capped or rejected when [dual-use externalized harm](core_08-08_standing_assessment.md#dual-use-measurement-dimensions) is verified. |
 | 4 | **Question 1**: **Exit and Lock-In Misconduct** + **System Misconduct** + **Agency and Manipulation Misconduct**; ecological hub harm may add **Ecological Misconduct** component (`s` = 4–6 range pending verification). |
 | 5 | **Question 2**: **pathway-scoped locks** on migration, contract-enforcement, and governance routes; **concealment / evasion escalated lock** if defect reports were buried after notice. |
 | 6 | **Remedy**: contract reform, exit without penalty, driver stabilization fund, safety patch deployment, ecological remediation plan — look-through accountability on functional control ([Chapter Nine §5.4](core_09-09_standing_integration.md#54-anti-evasion-and-look-through-authority)). |
@@ -181,7 +181,7 @@ Arbitration clauses, shell subcontractors, years of “market efficiency” defe
 | Stage | Application |
 | --- | --- |
 | Stewardship | [Chapter One §9.1](core_01_c_stewardship_capacity_principles.md#91-stewardship) — tetrad **timeliness** leg; [Stewardship Defect](core_05c_continuity_definitions.md#stewardship-defect-constitutional) when chronic delay after notice |
-| Q1 classification | [Chapter Eight §4.3 dual-use](core_08-08_standing_assessment.md#dual-use-classification-dimensions) — **Response timeliness / avoidable delay** aggravates violation `s` = 4–5 |
+| Q1 classification | [Chapter Eight §4.3 dual-use](core_08-08_standing_assessment.md#dual-use-measurement-dimensions) — **Response timeliness / avoidable delay** aggravates violation `s` = 4–5 |
 | Q2 integration | [Chapter Nine §3.1](core_09-09_standing_integration.md#310-non-recurrence-lock-dimensions) — **Remedy commencement / pipeline delay** row |
 | Pipeline clocks | [Chapter Eleven §10](core_11-11_forum.md#10-timely-resolution-materiality-tiers-and-anti-delay-discipline); [Article XXIV-C](core_06-06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*); **CF-11.3.1** Tier B windows |
 
