@@ -134,11 +134,12 @@ Each numbered owner-layer chapter states **who owns what** in one binding operat
 1. `#` chapter title (and optional `*Non-operative subtitle:*`).
 2. File-top **Corpus placement** widget.
 3. Chapter- or part-level **Reader guidance** widget(s), when present.
-4. **Binding owner opening line** — operative prose, visible without expanding widgets.
-5. Optional chapter-specific orientation blocks that are substantive but not widgets (example: [Chapters Eight–Eleven constitutional compass](core_08-08_standing_assessment.md#chapters-eight-eleven-constitutional-compass) in Chapter Eight).
-6. Trace widget, `*In plain terms:*` gloss, and numbered sections — in the order already required by **NAV-TRACE-08–10** and **NAV-DAC-12-ORDER**.
+4. Chapter-opening **Trace** widget (when the file carries a chapter-level Trace before numbered sections).
+5. **Binding owner opening line** — operative prose, visible without expanding widgets.
+6. Optional chapter-specific orientation blocks that are substantive but not widgets (example: [Chapters Eight–Eleven constitutional compass](core_08-08_standing_assessment.md#chapters-eight-eleven-constitutional-compass) in Chapter Eight).
+7. `*In plain terms:*` gloss and numbered sections — section-level Trace / D/A/C under each heading in the order already required by **NAV-TRACE-08–10** and **NAV-DAC-12-ORDER**.
 
-In **multi-chapter** files (`core_02-03`, `core_13-15`), repeat steps 2–5 at each `## CHAPTER …` boundary: that chapter's reader-guidance widget (if any), then its binding owner line, then that chapter's Trace and sections.
+In **multi-chapter** files (`core_02-03`, `core_13-15`), repeat steps 2–6 at each `## CHAPTER …` boundary: that chapter's reader-guidance widget (if any), then its chapter-opening Trace (if any), then its binding owner line, then optional orientation and sections.
 
 **Formula:**
 
@@ -325,11 +326,11 @@ One collapsed **Corpus placement** widget per audited file top. Summary label: *
 - `#` title. For single-chapter core files this is the chapter/part heading itself (e.g. `# CHAPTER 00: PREAMBLE / FOUNDATIONAL REQUIREMENTS`, `# CHAPTER SIX: FOUNDATIONAL RIGHTS`); the former redundant short-label `#` title above it has been retired. Multi-chapter core files (`core_02-04`, `core_13-15`) use a `# CHAPTERS …–…:` umbrella title above their several `## CHAPTER …` headings, and Chapter Five band/aim files keep their descriptive `#` band title.
 - Optional `<a id="chapter-…"></a>` anchors immediately above the `#` title carry the chapter/part anchors; an optional `*Non-operative subtitle:*` line may sit directly beneath the title.
 - On implementation `*_00_registry_and_reading_rules.md` files only: one-line `*In plain terms:*` front-door gloss.
-- The placement widget, then any file- or part-level reader-guidance widget, then the **binding constitutional-owner opening line** when the file is an owner-layer chapter (see **OWNER-OPENING-01**), then `<br>` before Trace, `*In plain terms:*`, or other operative prose. No `---` rule sits between the title and the widgets.
+- The placement widget, then any file- or part-level reader-guidance widget, then the chapter-opening **Trace** widget when present, then the **binding constitutional-owner opening line** when the file is an owner-layer chapter (see **OWNER-OPENING-01**), then `<br>` before optional orientation, `*In plain terms:*`, or other operative prose. No `---` rule sits between the title and the widgets.
 
 **Inside the placement widget (non-operative):**
 
-- `core_*` — binding-together notice, which chapter/part/band the file holds, README reading-order pointer, and file-sequence navigation (**Next**, **Upstream**, **Previous**) when present. A non-operative `**Constitutional owner:**` navigation bullet may appear here or in reader guidance; the **binding** owner claim still appears as operative prose immediately after those widgets (**OWNER-OPENING-01**).
+- `core_*` — binding-together notice, which chapter/part/band the file holds, README reading-order pointer, and file-sequence navigation (**Next**, **Upstream**, **Previous**) when present. A non-operative `**Constitutional owner:**` navigation bullet may appear here or in reader guidance; the **binding** owner claim still appears as operative prose after the opening widgets and chapter-opening Trace when present (**OWNER-OPENING-01**).
 - `*_00_registry` — edition and effective date, core vs implementation status, four-layer map (**CJS** / **CS** / **CI** / **CF**), navigation wrapper link, **CJS-1.2** pointer, and routing-anchor indexes previously split across multiple reader-guidance widgets.
 
 **Do not keep visible at file top:** **Application baseline**, upstream inheritance boilerplate, or pipeline routing that duplicates the Corpus placement widget, chapter reader-guidance widgets, or [README.md](README.md). Chapter-specific scope boundaries and anti-substitution notes belong in the Corpus placement widget (file-level) or in chapter reader-guidance widgets (chapter-level within multi-chapter files).

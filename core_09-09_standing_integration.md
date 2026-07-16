@@ -34,10 +34,6 @@
 
 <br>
 
-Chapter Nine is the constitutional owner of **standing integration and standing effects**, including attachments, descriptors, standing locks, remedy assignment, and enforcement anchors.
-
-<br>
-
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
@@ -46,6 +42,10 @@ Chapter Nine is the constitutional owner of **standing integration and standing 
 - Downstream: [Chapter Ten](core_10-10_misconduct.md#chapter-ten-anti-constitutional-misconduct); [Chapter Eleven](core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction); [Chapter Six — **Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*)](core_06-06_rights_part_d.md#article-xxiii-a-justice-objective-and-scope).
 
 </details>
+
+<br>
+
+Chapter Nine is the constitutional owner of **standing integration and standing effects**, including attachments, descriptors, standing locks, remedy assignment, and enforcement anchors.
 
 <br>
 

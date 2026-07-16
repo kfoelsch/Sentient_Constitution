@@ -190,7 +190,7 @@ Think of it as a path from system check to remedy — with forums supervising th
 4. **Proportionate escalation** ([Chapter Ten](core_10-10_misconduct.md#chapter-ten-anti-constitutional-misconduct)) — forums classify disputes into five [materiality tiers](core_11-11_forum.md#10-timely-resolution-materiality-tiers-and-anti-delay-discipline) (A/B/C/L/P) mirroring the system classification alphabet — from survival-critical urgency through private/contained matters; if the facts may support the highest violation slots, Tier A routes the matter to final top-slot review for anti-constitutional misconduct.
 5. **Route disputes and keep remedy timely** ([Chapter Eleven](core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction)) — forums supervise how cases move, which track handles them, and whether clocks under **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*) are met so remedy does not die in delay.
 
-The [Chapters Eight–Eleven constitutional process compass](core_08-08_standing_assessment.md#chapters-eight-eleven-constitutional-compass) walks through steps 2–5 in more detail. Chapter Seven supplies certification evidence that can feed step 2 when system alignment is part of what must be verified.
+The [Chapters Eight–Eleven constitutional process compass](core_08-08_standing_assessment.md#chapters-eight-eleven-constitutional-compass) walks through the chain above in more detail, including Chapter Seven’s potential verified inputs into standing measurement.
 
 <a id="4-alignment"></a>
 <a id="how-the-rest-fits-together"></a>
