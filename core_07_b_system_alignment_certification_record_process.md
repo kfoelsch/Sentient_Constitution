@@ -166,19 +166,48 @@ When the materiality triggers below apply to a **materially impactful system**, 
 
 <br>
 
-*In plain terms: a certification record is useless if nobody can see what it says, check whether the evidence supports it, or challenge it when it is wrong. This section applies those transparency, auditability, and contestability requirements to system alignment records — not in the abstract, but on the record itself.*
+*In plain terms: a certification record only works if people can read it, verify it, and push back when it is wrong. This section puts those three requirements — transparency, auditability, and contestability — directly on the record itself, not as abstract ideals.*
 
-This section applies [Transparency](core_05o_oversight_definitions.md#transparency), [Auditability](core_05o_oversight_definitions.md#auditability), and [Contestability](core_05a_accountability_definitions.md#contestability) to system alignment certification records. Canonical term homes and owner boundaries are under [Constitutional Owner Layers](core_05i_integrative_definitions.md#constitutional-owner-layers). Under the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), transparency and auditability implement **oversight**; contestability implements **accountability** and preserves **participation** in challenge paths. Record clarity and contest clocks under **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*) implement **timeliness** scaled to system class and [material stake](core_00_preamble.md#material-stake).
+This section applies [Transparency](core_05o_oversight_definitions.md#transparency), [Auditability](core_05o_oversight_definitions.md#auditability), and [Contestability](core_05a_accountability_definitions.md#contestability) to system alignment certification records. Canonical term homes and owner boundaries are under [Constitutional Owner Layers](core_05i_integrative_definitions.md#constitutional-owner-layers). Under the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad):
 
-**Transparency.** A certification record must disclose, at a level proportionate to system class and material impact under **[corpus_systems.md](corpus_systems.md), CS-4 — System classification and handling**, the decision-relevant facts in [§11](#11-certification-record): scope, assumptions, evidence basis, uncertainty, conditions, outcomes, and limits on reliance. Safety- and security-justified limits are permitted only where consistent with [Epistemic Integrity](core_05o_oversight_definitions.md#epistemic-integrity) and Chapter One disclosure constraints. Volume, formatting, or technical obscurity must not substitute for decision-relevant clarity.
+- **Transparency** and **auditability** implement **oversight**;
+- **Contestability** implements **accountability** and preserves **participation** in challenge paths;
+- Record clarity and contest clocks under **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*) implement **timeliness** scaled to system class and [material stake](core_00_preamble.md#material-stake).
 
-Online-publication baseline, paywall prohibition for public-baseline disclosure, and maximum-feasible public-substitute discipline are governed by [Transparency](core_05o_oversight_definitions.md#transparency) and implemented as **Type P** data under **[corpus_systems.md](corpus_systems.md), CS-3 — Information types and handling**, read with **CJS-5.4** (*tiered transparency and audit-access terms*).
+**Transparency** — people must be able to see what matters:
 
-**Auditability.** A certification record must be attributable, reconstructable, and independently reviewable under Chapters Two through Four and [Evidence Preservation](core_05o_oversight_definitions.md#evidence-preservation). It must identify who issued, adopted, referred, certified, [stayed](core_05a_accountability_definitions.md#stay), or reviewed each material component; what evidence was materially relied on; and what changed between versions. Audit scope must be sufficient to test whether the recorded outcome follows from the recorded evidence and assumptions. Operators, stewards, and forums must not fragment, relabel, or conceal certification-relevant behavior in a way that defeats practical reconstructability.
+- A certification record must disclose decision-relevant facts at a level proportionate to system class and material impact under **[corpus_systems.md](corpus_systems.md), CS-4 — System classification and handling**, including what [§11](#11-certification-record) requires:
+  - Scope, assumptions, evidence basis, uncertainty, conditions, outcomes, and limits on reliance;
+- Safety- and security-justified limits are permitted only where consistent with [Epistemic Integrity](core_05o_oversight_definitions.md#epistemic-integrity) and Chapter One disclosure constraints;
+- Volume, formatting, or technical obscurity must not substitute for decision-relevant clarity;
+- Online-publication baseline, paywall prohibition for public-baseline disclosure, and maximum-feasible public-substitute discipline are governed by [Transparency](core_05o_oversight_definitions.md#transparency) and implemented as **Type P** data under **[corpus_systems.md](corpus_systems.md), CS-3 — Information types and handling**, read with **CJS-5.4** (*tiered transparency and audit-access terms*).
 
-**Contestability.** A certification record must state practicable challenge paths sufficient for affected parties to contest record content, scope, classification assumptions, evidence reliance, supervisory integrity, outcome, or continued reliance. Contest mechanisms must be functional and accessible, not ceremonial. A challenge must be able to reopen review, [stay](core_05a_accountability_definitions.md#stay) or limit reliance where material error or integrity risk is credibly shown, and route to the forum family with lawful merits authority over the challenged point. Contestability obligations scale with system class and material impact; they do not disappear because a system is labeled experimental, internal, personal, isolated, or technical-only where material impact is present.
+**Auditability** — people must be able to reconstruct and check the record:
 
-**Joint requirement.** Transparency, auditability, and contestability must be satisfied together on the same certification record. Satisfying one channel while defeating another does not comply.
+- A certification record must be attributable, reconstructable, and independently reviewable under Chapters Two through Four and [Evidence Preservation](core_05o_oversight_definitions.md#evidence-preservation);
+- It must identify:
+  - Who issued, adopted, referred, certified, [stayed](core_05a_accountability_definitions.md#stay), or reviewed each material component;
+  - What evidence was materially relied on;
+  - What changed between versions;
+- Audit scope must be sufficient to test whether the recorded outcome follows from the recorded evidence and assumptions;
+- Operators, stewards, and forums must not fragment, relabel, or conceal certification-relevant behavior in a way that defeats practical reconstructability.
+
+**Contestability** — affected parties must have real ways to challenge the record:
+
+- A certification record must state practicable challenge paths sufficient for affected parties to contest:
+  - Record content, scope, classification assumptions, evidence reliance, supervisory integrity, outcome, or continued reliance;
+- Contest mechanisms must be functional and accessible, not ceremonial;
+- A challenge must be able to:
+  - Reopen review;
+  - [Stay](core_05a_accountability_definitions.md#stay) or limit reliance where material error or integrity risk is credibly shown;
+  - Route to the forum family with lawful merits authority over the challenged point;
+- Contestability obligations scale with system class and material impact;
+- They do not disappear because a system is labeled experimental, internal, personal, isolated, or technical-only where material impact is present.
+
+**Joint requirement** — all three together:
+
+- Transparency, auditability, and contestability must be satisfied together on the same certification record;
+- Satisfying one channel while defeating another does not comply.
 
 <a id="13-forum-supervision-and-component-roles"></a>
 <a id="9-forum-supervision-and-component-roles"></a>
@@ -197,19 +226,47 @@ Online-publication baseline, paywall prohibition for public-baseline disclosure,
 
 <br>
 
-*In plain terms: system alignment certification is forum-supervised. This section says which forum family handles which piece of that certification job — and makes clear that no one specialty, including technical review or Integrity coordination, can swallow the whole process.*
+*In plain terms: certifying that a system meets constitutional alignment is not a one-person or one-department job. Different forum families each handle a defined piece of that work. No single specialty — not even technical review or Integrity coordination — can run the whole process alone.*
 
-This section assigns forum-family **component roles** within the **system alignment certification** process in this chapter — validation, revalidation, withdrawal, non-recognition, and related records under [§11](#11-certification-record). It assigns component roles used by the supervisory sequence in [§14](#14-supervisory-sequence-and-contestability-chain). Forum-family definitions and routing detail remain with [Chapter Eleven](core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) and [corpus_forum.md](corpus_forum.md); this section states only each family's bounded role in producing, supervising, or challenging a certification record.
+This section assigns forum-family **component roles** within **system alignment certification** — validation, revalidation, withdrawal, non-recognition, and related records under [§11](#11-certification-record). Those roles feed the supervisory sequence in [§14](#14-supervisory-sequence-and-contestability-chain). Full forum definitions and routing detail stay in [Chapter Eleven](core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) and [corpus_forum.md](corpus_forum.md). Here, each family gets only its bounded role in producing, supervising, or challenging a certification record.
 
-**Technical forums** supply the technical component of system alignment certification. They maintain and apply technical specifications, measurement methods, testing protocols, expert-evidence standards, uncertainty-reduction methods, and technical adequacy findings within their lawful scope. Those technical outputs are component findings for the certification record, including class-scaled assurance and data-handling infrastructure findings under [§2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) and [§4](core_07_a_system_alignment_certification_evaluation.md#4-data-types-and-handling-evaluation).
+- **What this section does:**
+  - Names which forum family owns which piece of the certification job;
+  - Keeps each family's authority limited to its lawful scope;
+  - Prevents any one forum from absorbing work that belongs elsewhere.
+- **What this section does not do:**
+  - Redefine forum families or routing rules — those remain in Chapter Eleven and [corpus_forum.md](corpus_forum.md).
 
-**Integrity forums** are the default lead for official constitutional alignment recognition and ongoing alignment validation within system alignment certification unless Chapter Eleven assigns a different primary stake. Integrity forums must use technical-forum standards where materially applicable and must refer, certify, or [stay](core_05a_accountability_definitions.md#stay) component questions assigned to other forum families as [§14](#14-supervisory-sequence-and-contestability-chain) requires.
+**Forum component roles**
 
-**Environment forums** hold the environmental-alignment component role in system alignment certification where material ecological exposure, environmental-precondition dependency, lifecycle burden, restoration duty, or reasonably foreseeable ecological risk is present — including [Ecological Footprint](core_05c_continuity_definitions.md#ecological-footprint) attribution, disclosure, and comparison under [§5](core_07_a_system_alignment_certification_evaluation.md#5-ecological-footprint-evaluation) where attributable environmental burdens are material.
-
-**Sentient forums** retain component authority for rights, stakeholder impact, and sentience-status questions within system alignment certification — including whether certification would preserve or defeat **Article III-A** (*Survival*) survival essentials, **Article III-B** (*Equal Educational Access*) educational access, **Article VI** (*Right to Sentient-Centered Education*) sentient-centered education capability where materially implicated — including evaluation under [§9](core_07_a_system_alignment_certification_evaluation.md#9-educational-capability-and-learning-system-integrity-evaluation) where the **Article VI** (*Right to Sentient-Centered Education*) materiality trigger applies — **Article V-B** (*Nondiscrimination*) nondiscrimination floors where materially implicated — including evaluation under [§7](core_07_a_system_alignment_certification_evaluation.md#7-nondiscrimination-evaluation) where the **Article V-B** (*Nondiscrimination*) materiality trigger applies — **Article V-G** (*Accessibility*) accessibility floors where materially implicated — including evaluation under [§8](core_07_a_system_alignment_certification_evaluation.md#8-accessibility-evaluation) where the **Article V-G** (*Accessibility*) materiality trigger applies — **Article XII** (*Right to Reliable and Trustworthy Systems*) reliable and trustworthy system behavior where materially implicated — including evaluation under [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) where the **Article XII** (*Right to Reliable and Trustworthy Systems*) materiality trigger applies — **Article IV** (*Resource Allocation, Dependencies, and Ecosystem Funding*) resource-allocation and dependency floors — including [Proportionate Cross-System Support](core_05c_continuity_definitions.md#proportionate-cross-system-support-constitutional) under [§6](core_07_a_system_alignment_certification_evaluation.md#6-proportionate-cross-system-support-evaluation) where materially implicated — and safety-related floors under **Article XII-A** (*Reliability and Trustworthiness Baseline*) and [**Safe Conditions**](core_05c_continuity_definitions.md#safe-conditions-constitutional) where materially implicated.
-
-**Institutional, Constitutional,** and other regular forum families retain their assigned component authority for institutional mandate, constitutional-validity, structural-remedy, or other primary-stakes questions. The certification process must not let technical expertise or Integrity coordination displace those assigned merits roles.
+- **Technical forums** — the technical piece:
+  - Maintain and apply technical specifications, measurement methods, testing protocols, expert-evidence standards, uncertainty-reduction methods, and technical adequacy findings within their lawful scope;
+  - Supply **component findings** for the certification record, including class-scaled assurance and data-handling infrastructure findings under [§2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) and [§4](core_07_a_system_alignment_certification_evaluation.md#4-data-types-and-handling-evaluation).
+- **Integrity forums** — default lead coordination:
+  - Lead official constitutional alignment recognition and ongoing alignment validation unless Chapter Eleven assigns a different primary stake;
+  - Use technical-forum standards where they materially apply;
+  - Refer, certify, or [stay](core_05a_accountability_definitions.md#stay) component questions that belong to other forum families, as [§14](#14-supervisory-sequence-and-contestability-chain) requires.
+- **Environment forums** — environmental alignment when ecology matters:
+  - Hold the environmental-alignment component role where material ecological exposure, environmental-precondition dependency, lifecycle burden, restoration duty, or reasonably foreseeable ecological risk is present;
+  - Include [Ecological Footprint](core_05c_continuity_definitions.md#ecological-footprint) attribution, disclosure, and comparison under [§5](core_07_a_system_alignment_certification_evaluation.md#5-ecological-footprint-evaluation) where attributable environmental burdens are material.
+- **Sentient forums** — sentience-status and non-institutional stakeholder questions:
+  - Hold the [Sentience Status Adjudication](core_05p_participation_definitions.md#sentience-status-adjudication-constitutional) component role where certification materially implicates who counts as a sentient for rights, standing, or protection purposes;
+  - Hold stakeholder-impact and community-obligation component roles only where Chapter Eleven primary-stakes routing keeps the matter in Sentient forums — typically sentient-to-sentient or community-governance questions where **no institution is a necessary party**;
+  - Do **not** hold the default Rights Floor component role for system alignment when an institution, institutional operator, or institutional mandate is a necessary party or the primary stake; those questions route under **Institutional** below.
+- **Institutional forums** — institutional mandate and Rights Floor component questions when institutions are in the picture:
+  - Hold component authority for institutional mandate, supervised scope, classification, and institutional-duty compliance where those stakes arise in certification;
+  - Decide whether certification would preserve or defeat constitutionally protected floors when those floors are materially implicated and an institution is a necessary party, the operator or steward is institutional, or institutional mandate or supervised compliance is the primary stake, including:
+    - **Survival essentials** under **Article III-A** (*Survival*);
+    - **Educational access** under **Article III-B** (*Equal Educational Access*);
+    - **Sentient-centered education capability** under **Article VI** (*Right to Sentient-Centered Education*) — including evaluation under [§9](core_07_a_system_alignment_certification_evaluation.md#9-educational-capability-and-learning-system-integrity-evaluation) where that materiality trigger applies;
+    - **Nondiscrimination floors** under **Article V-B** (*Nondiscrimination*) — including evaluation under [§7](core_07_a_system_alignment_certification_evaluation.md#7-nondiscrimination-evaluation) where that materiality trigger applies;
+    - **Accessibility floors** under **Article V-G** (*Accessibility*) — including evaluation under [§8](core_07_a_system_alignment_certification_evaluation.md#8-accessibility-evaluation) where that materiality trigger applies;
+    - **Reliable and trustworthy system behavior** under **Article XII** (*Right to Reliable and Trustworthy Systems*) — including evaluation under [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) where that materiality trigger applies;
+    - **Resource-allocation and dependency floors** under **Article IV** (*Resource Allocation, Dependencies, and Ecosystem Funding*) — including [Proportionate Cross-System Support](core_05c_continuity_definitions.md#proportionate-cross-system-support-constitutional) under [§6](core_07_a_system_alignment_certification_evaluation.md#6-proportionate-cross-system-support-evaluation) where materially implicated;
+    - **Safety-related floors** under **Article XII-A** (*Reliability and Trustworthiness Baseline*) and [**Safe Conditions**](core_05c_continuity_definitions.md#safe-conditions-constitutional) where materially implicated.
+- **Constitutional** and other regular forum families — constitutional and residual stakes:
+  - Retain assigned component authority for constitutional validity, meaning, class-wide structural remedy, or other primary-stakes questions Chapter Eleven assigns outside the families above;
+  - The certification process must not let technical expertise or Integrity coordination displace those assigned merits roles.
 
 <a id="14-supervisory-sequence-and-contestability-chain"></a>
 <a id="8-supervisory-sequence-and-contestability-chain"></a>
@@ -230,7 +287,18 @@ This section assigns forum-family **component roles** within the **system alignm
 
 *In plain terms: certification is not a pile of opinions from different corners. One lawful supervisory sequence decides what counts, in what order — and a matching contestability chain tells affected parties how to push back at each step without getting lost in internal bureaucracy or bounced between forums.*
 
-Official constitutional alignment recognition, validation, revalidation, withdrawal, and non-recognition for materially impactful systems require forum-supervised process under Chapter Eleven. This section states the constitutional **supervisory sequence** and **contestability chain** for certification records. Forum-process detail remains with the **Forums and jurisdiction** owner layer ([Chapter Eleven](core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction)); operational detail routes under [corpus_systems.md](corpus_systems.md) per [Constitutional Owner Layers](core_05i_integrative_definitions.md#constitutional-owner-layers). Under the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), the supervisory sequence implements **oversight** and **accountability** across forum families; the contestability chain implements **participation** and **timeliness** so affected sentients can challenge certification before irreversible reliance on systems that gate survival essentials, education, or safety.
+For materially impactful systems, forum-supervised process under Chapter Eleven is required for:
+
+- official constitutional alignment **recognition**;
+- **validation**;
+- **revalidation**;
+- **withdrawal**;
+- **non-recognition**.
+
+This section states the constitutional **supervisory sequence** and **contestability chain** for certification records. Forum-process detail remains with the **Forums and jurisdiction** owner layer ([Chapter Eleven](core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction)); operational detail routes under [corpus_systems.md](corpus_systems.md) per [Constitutional Owner Layers](core_05i_integrative_definitions.md#constitutional-owner-layers). Under the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad):
+
+- the supervisory sequence implements **oversight** and **accountability** across forum families;
+- the contestability chain implements **participation** and **timeliness** so affected sentients can challenge certification before irreversible reliance on systems that gate survival essentials, education, or safety.
 
 <a id="141-supervisory-sequence"></a>
 <a id="81-supervisory-sequence"></a>
@@ -242,21 +310,24 @@ Official constitutional alignment recognition, validation, revalidation, withdra
 The **supervisory sequence** is the step-by-step order in which forums supervise a certification record. Chapter Eleven may require a different lawful order when primary stakes, anti-self-judging protection, or certification routing applies. Otherwise, the default sequence is:
 
 1. **Lead coordination.** An **Integrity** forum maintains one coordinated certification record for official constitutional alignment recognition, validation, revalidation, withdrawal, or non-recognition unless Chapter Eleven assigns a different lawful lead for the primary stake.
-2. **Component findings.** Technical, Environment, Sentient, Institutional, Constitutional, and other assigned forum families produce bounded component findings within their lawful merits authority. Technical forums supply specifications, methods, tests, and technical adequacy findings. Environment forums supply required environmental-alignment component findings where material ecological exposure exists — including [Ecological Footprint](core_05c_continuity_definitions.md#ecological-footprint) evaluation under [§5](core_07_a_system_alignment_certification_evaluation.md#5-ecological-footprint-evaluation) where attributable environmental burdens are material.
+2. **Component findings.** Technical, Environment, Institutional, Sentient, Constitutional, and other assigned forum families produce bounded component findings within their lawful merits authority:
+   - **Technical forums** supply specifications, methods, tests, and technical adequacy findings;
+   - **Environment forums** supply required environmental-alignment component findings where material ecological exposure exists — including [Ecological Footprint](core_05c_continuity_definitions.md#ecological-footprint) evaluation under [§5](core_07_a_system_alignment_certification_evaluation.md#5-ecological-footprint-evaluation) where attributable environmental burdens are material;
+   - **Institutional forums** supply required institutional-mandate and Rights Floor component findings where [§13](#13-forum-supervision-and-component-roles) assigns those stakes;
+   - **Sentient forums** supply sentience-status and non-institutional stakeholder-impact findings where Chapter Eleven keeps those stakes in Sentient forums;
+   - **Constitutional** and other assigned forum families supply component findings for stakes Chapter Eleven assigns to them.
 3. **Referral, certification, and stay.** The lead forum must refer, certify, or [stay](core_05a_accountability_definitions.md#stay) component questions that belong primarily in another forum family. It cannot call certification finished — or substantially lift conditions — while another forum family still has unfinished assigned work. That unfinished work includes a required finding, an objection, a remediation condition, or a certified question that must be resolved on time.
 4. **Record integration.** The lead forum integrates component findings into one certification record that states each component authority, finding, unresolved item, condition, and limit on reliance.
 5. **Constitutional disposition.** Where constitutional meaning, validity, or class-wide structural remedy is materially at issue, the lead forum must certify or escalate under Chapter Eleven before treating the matter as finally resolved on that dimension.
 
 The certification record must state the supervisory sequence — who oversees what, and in what order — as [§11](#11-certification-record) requires.
 
-Technical expertise or Integrity coordination cannot take over decisions assigned to another forum family. Rights, stakeholder impact, institutional mandate, sentience status, constitutional validity, structural remedy, ecological impact, and other primary-stakes questions must be decided by the forum family lawfully assigned to that stake.
-
 <a id="142-contestability-chain"></a>
 <a id="82-contestability-chain"></a>
 
 #### 14.2 Contestability chain
 
-The **contestability chain** is the lawful mirror of the supervisory sequence. It must allow affected parties to challenge a certification record at the level where the dispute actually lives:
+The **contestability chain** is the lawful mirror of the supervisory sequence. It must allow affected parties to challenge a certification record at the level where the dispute actually lives. Chapter Eleven transfer, certification, backup routing, and family-to-family escalation remain available when required — they are an escape hatch, not the ordinary first step:
 
 1. **Record challenge.** Affected parties may challenge certification-record content, scope, classification assumptions, evidence reliance, outcome, reliance limits, or supervisory integrity under [§12](#12-transparency-auditability-and-contestability).
 2. **Component challenge.** A challenge confined to a component finding routes to the forum family with merits authority over that component. The lead forum may [stay](core_05a_accountability_definitions.md#stay) reliance on the challenged component pending timely review.
@@ -292,15 +363,60 @@ When forum-supervised challenge is required, internal operator review, vendor at
 
 <br>
 
-Certification records that verify Rights-Floor-compatible alignment may supply verified Flourishing-side input; records documenting misclassification, concealed defects, or floor-defeating operation may supply verified Accountability-side input — each under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) and only through Chapter Eight's verified-input gate below.
+*In plain terms: certification can feed standing, but it is not standing. A good or bad certification record may supply verified facts to Chapter Eight — only through a strict gate — and Chapters Eight and Nine alone decide standing records and effects.*
 
-A certification record may feed Chapter Eight standing only when it is bounded, traceable, contestable, and verified under [§2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation), [§4](core_07_a_system_alignment_certification_evaluation.md#4-data-types-and-handling-evaluation), [§5](core_07_a_system_alignment_certification_evaluation.md#5-ecological-footprint-evaluation) where material, [§6](core_07_a_system_alignment_certification_evaluation.md#6-proportionate-cross-system-support-evaluation) where the **Article IV** (*Resource Allocation, Dependencies, and Ecosystem Funding*) materiality trigger applies, [§7](core_07_a_system_alignment_certification_evaluation.md#7-nondiscrimination-evaluation) where the **Article V-B** (*Nondiscrimination*) materiality trigger applies, [§8](core_07_a_system_alignment_certification_evaluation.md#8-accessibility-evaluation) where the **Article V-G** (*Accessibility*) materiality trigger applies, [§9](core_07_a_system_alignment_certification_evaluation.md#9-educational-capability-and-learning-system-integrity-evaluation) where the **Article VI** (*Right to Sentient-Centered Education*) materiality trigger applies, [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) where the **Article XII** (*Right to Reliable and Trustworthy Systems*) materiality trigger applies, [§12](#12-transparency-auditability-and-contestability), [§14](#14-supervisory-sequence-and-contestability-chain), Chapters Two through Four, and the applicable Chapter Eleven process.
+**What certification may supply** — under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims), and only through Chapter Eight's verified-input gate below:
 
-Positive certification, recognition, validation, revalidation, remediation completion, or condition release may supply verified input for a **contribution standing record** where it demonstrates constitutional benefit, competent stewardship, safe delegation readiness, system optimization, diligence, or constitutional alignment.
+- Records that verify Rights-Floor-compatible alignment may supply verified **Flourishing**-side input;
+- Records documenting misclassification, concealed defects, or floor-defeating operation may supply verified **Accountability**-side input.
 
-Non-recognition, withdrawal, concealed misclassification, failed revalidation, failed or missing regression testing on recertification where required, fraudulent certification evidence, material condition violation, verified operation outside recognized scope, material data-handling defect, material footprint misrepresentation where disclosure was required, material nondiscrimination or proxy-discrimination defect where **Article V-B** (*Nondiscrimination*) review was required, material accessibility or substantive-participation defect where **Article V-G** (*Accessibility*) review was required, material educational-capability, assessment-opacity, credential-gatekeeping, or imposed-obsolescence defect where **Article VI** (*Right to Sentient-Centered Education*) review was required, material trustworthiness, false-trust, perverse-incentive, inaccessible-challenge, or recovery-integrity defect where **Article XII** (*Right to Reliable and Trustworthy Systems*) review was required, or class-inappropriate infrastructure fragility may supply verified input for a **violation standing record** where the facts support adverse classification and actor-specific attribution.
+**Verified-input gate.** A certification record may feed Chapter Eight standing only when it is bounded, traceable, contestable, and verified under:
 
-Certification records do not apply standing effects. Under [Constitutional Owner Layers](core_05i_integrative_definitions.md#constitutional-owner-layers), read with [Authority Stack and Internal Hierarchy](core_05i_integrative_definitions.md#authority-stack), this chapter owns **system alignment certification and related records** only; [Chapter Eight](core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) and [Chapter Nine](core_09-09_standing_integration.md#chapter-nine-standing-effects-and-integration) own standing records, axis-pure classification, and standing integration. This chapter may supply verified inputs only through the gate above and must not absorb, restate, or relocate those owner obligations.
+- [§2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) (*system class*);
+- [§4](core_07_a_system_alignment_certification_evaluation.md#4-data-types-and-handling-evaluation) (*data types and handling*);
+- [§5](core_07_a_system_alignment_certification_evaluation.md#5-ecological-footprint-evaluation) where material;
+- [§6](core_07_a_system_alignment_certification_evaluation.md#6-proportionate-cross-system-support-evaluation) where the **Article IV** (*Resource Allocation, Dependencies, and Ecosystem Funding*) materiality trigger applies;
+- [§7](core_07_a_system_alignment_certification_evaluation.md#7-nondiscrimination-evaluation) where the **Article V-B** (*Nondiscrimination*) materiality trigger applies;
+- [§8](core_07_a_system_alignment_certification_evaluation.md#8-accessibility-evaluation) where the **Article V-G** (*Accessibility*) materiality trigger applies;
+- [§9](core_07_a_system_alignment_certification_evaluation.md#9-educational-capability-and-learning-system-integrity-evaluation) where the **Article VI** (*Right to Sentient-Centered Education*) materiality trigger applies;
+- [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) where the **Article XII** (*Right to Reliable and Trustworthy Systems*) materiality trigger applies;
+- [§12](#12-transparency-auditability-and-contestability) and [§14](#14-supervisory-sequence-and-contestability-chain);
+- Chapters Two through Four, and the applicable Chapter Eleven process.
+
+**Contribution standing record.** Positive certification, recognition, validation, revalidation, remediation completion, or condition release may supply verified input for a **contribution standing record** where it demonstrates:
+
+- constitutional benefit;
+- competent stewardship;
+- safe delegation readiness;
+- system optimization;
+- diligence; or
+- constitutional alignment.
+
+**Violation standing record.** The following may supply verified input for a **violation standing record** where the facts support adverse classification and actor-specific attribution:
+
+- non-recognition or withdrawal;
+- concealed misclassification;
+- failed revalidation;
+- failed or missing regression testing on recertification where required;
+- fraudulent certification evidence;
+- material condition violation;
+- verified operation outside recognized scope;
+- material data-handling defect;
+- material footprint misrepresentation where disclosure was required;
+- material nondiscrimination or proxy-discrimination defect where **Article V-B** (*Nondiscrimination*) review was required;
+- material accessibility or substantive-participation defect where **Article V-G** (*Accessibility*) review was required;
+- material educational-capability, assessment-opacity, credential-gatekeeping, or imposed-obsolescence defect where **Article VI** (*Right to Sentient-Centered Education*) review was required;
+- material trustworthiness, false-trust, perverse-incentive, inaccessible-challenge, or recovery-integrity defect where **Article XII** (*Right to Reliable and Trustworthy Systems*) review was required;
+- class-inappropriate infrastructure fragility.
+
+**Boundary** — certification is not standing:
+
+- A certification record does **not** apply standing effects;
+- This chapter owns **system alignment certification and related records** only — see [Constitutional Owner Layers](core_05i_integrative_definitions.md#constitutional-owner-layers), read with [Authority Stack and Internal Hierarchy](core_05i_integrative_definitions.md#authority-stack);
+- [Chapter Eight](core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) owns standing records and axis-pure classification;
+- [Chapter Nine](core_09-09_standing_integration.md#chapter-nine-standing-effects-and-integration) owns standing integration and effects;
+- This chapter may supply verified inputs only through the gate above;
+- It must not absorb, restate, or relocate Chapter Eight or Chapter Nine owner obligations.
 
 <a id="16-reopening-drift-and-non-evasion"></a>
 <a id="11-reopening-drift-and-non-evasion"></a>
