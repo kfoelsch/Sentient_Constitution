@@ -4,7 +4,7 @@
 
 **Slot groups and display roles (both axes).** The core model presents a four-band constitutional grouping for the Contribution Axis: **Baseline contribution** (`s = 1–2`), **Positive contribution** (`s = 3–4`), **Stewardship-positive contribution** (`s = 5–6`), and **Champion contribution** (`s = 7–9`). The Violation Axis remains a separate slot display scale under Chapter Eight section 7 and Chapter Ten. Chapter Nine section 4.3 later groups verified Violation Axis slots for standing integration. The older three-tranche display roles remain legacy shorthand only. Existing implementation fields named **`category_tranche_display`** and **`category_tranche_role_display`** are retained as legacy-compatible display helpers; they must not be treated as independent constitutional categories and must not substitute for the **C-** primary bands or **V-** primary names in the ladder.
 
-**Sub-tier** keys and display. The sub-tier **interchange** key is always **`minor`** | **`mid`** | **`major`** (field **`sub_tier`**) for legacy compatibility. On the Contribution Axis, display labels are **basic baseline contribution**, **strengthened baseline contribution**, **verified positive contribution**, **material positive contribution**, **established stewardship-positive contribution**, **major stewardship-positive contribution**, **recognized champion**, **distinguished champion**, and **exemplary champion**. On the Violation Axis, display labels follow the core Table 1 names: **formal**, **remedial substantive**, **significant substantive**, **duty-based or negligent-harm**, **aggravated**, **coercive or punitive-process**, **Serious**, **Grave**, and **Pernicious** while the stable interchange key remains **minor** / **mid** / **major**.
+**Sub-tier** keys and display. The sub-tier **interchange** key is always **`minor`** | **`mid`** | **`major`** (field **`sub_tier`**) for legacy compatibility. On the Contribution Axis, display labels are **Basic Baseline Contribution**, **Strengthened Baseline Contribution**, **Verified Positive Contribution**, **Material Positive Contribution**, **Established Stewardship-Positive Contribution**, **Major Stewardship-Positive Contribution**, **Recognized Champion**, **Distinguished Champion**, and **Exemplary Champion**. On the Violation Axis, display labels follow the core Table 1 names: **Formal Non-Compliance**, **Remedial Substantive Non-Compliance**, **Significant Substantive Non-Compliance**, **Duty-Based or Negligent-Harm Violation**, **Aggravated Violation**, **Coercive or Safeguard-Process Violation**, **Serious**, **Grave**, and **Pernicious** while the stable interchange key remains **minor** / **mid** / **major**.
 
 **Constitutional guardrails (summary)**
 
@@ -22,19 +22,19 @@
 
 | `s` | Contribution primary band | Contribution Axis display label | Violation Axis display label |
 | ---: | --- | --- | --- |
-| 1 | **C-BL** / Baseline contribution | **basic baseline contribution** | **formal** *non-compliance finding* |
-| 2 | **C-BL** / Baseline contribution | **strengthened baseline contribution** | **remedial substantive** *non-compliance finding* |
-| 3 | **C-PC** / Positive contribution | **verified positive contribution** | **significant substantive** *violation finding* |
-| 4 | **C-PC** / Positive contribution | **material positive contribution** | **duty-based or negligent-harm** *violation finding* |
-| 5 | **C-SP** / Stewardship-positive contribution | **established stewardship-positive contribution** | **aggravated** *violation finding* |
-| 6 | **C-SP** / Stewardship-positive contribution | **major stewardship-positive contribution** | **coercive or punitive-process** *violation finding* |
-| 7 | **C-CH** / Champion contribution | **recognized** *champion* | **Serious** *anti-constitutional misconduct* |
-| 8 | **C-CH** / Champion contribution | **distinguished** *champion* | **Grave** *anti-constitutional misconduct* |
-| 9 | **C-CH** / Champion contribution | **exemplary** *champion* | **Pernicious** *anti-constitutional misconduct* |
+| 1 | **C-BL** / Baseline contribution | **Basic Baseline Contribution** | **Formal Non-Compliance** |
+| 2 | **C-BL** / Baseline contribution | **Strengthened Baseline Contribution** | **Remedial Substantive Non-Compliance** |
+| 3 | **C-PC** / Positive contribution | **Verified Positive Contribution** | **Significant Substantive Non-Compliance** |
+| 4 | **C-PC** / Positive contribution | **Material Positive Contribution** | **Duty-Based or Negligent-Harm Violation** |
+| 5 | **C-SP** / Stewardship-positive contribution | **Established Stewardship-Positive Contribution** | **Aggravated Violation** |
+| 6 | **C-SP** / Stewardship-positive contribution | **Major Stewardship-Positive Contribution** | **Coercive or Safeguard-Process Violation** |
+| 7 | **C-CH** / Champion contribution | **Recognized Champion** | **Serious** *anti-constitutional misconduct* |
+| 8 | **C-CH** / Champion contribution | **Distinguished Champion** | **Grave** *anti-constitutional misconduct* |
+| 9 | **C-CH** / Champion contribution | **Exemplary Champion** | **Pernicious** *anti-constitutional misconduct* |
 
 **Category** interchange key may be `I` | `II` | `III` (Roman) or `1` | `2` | `3` in existing data. In current constitutional presentation, those keys are legacy implementation grouping helpers only. The four-band Contribution Axis columns above are the constitutional grouping structure; storage and interchange keep category, sub-tier key, primary band, and display fields separate as below.
 
-**Sub_tier** (interchange key) is always `minor` | `mid` | `major`. Use **`sub_tier_display`** in [ch06_nine_slot_constants.json](ch06_nine_slot_constants.json) for per-axis sub-tier display. Contribution Axis display uses the band-step labels shown above for **s = 1 through s = 6** and **recognized** / **distinguished** / **exemplary** for **s = 7 through s = 9**. Violation Axis display uses the core Table 1 labels: **formal** / **remedial substantive**, **significant substantive** / **duty-based or negligent-harm**, **aggravated** / **coercive or punitive-process**, and **Serious** / **Grave** / **Pernicious**.
+**Sub_tier** (interchange key) is always `minor` | `mid` | `major`. Use **`sub_tier_display`** in [ch06_nine_slot_constants.json](ch06_nine_slot_constants.json) for per-axis sub-tier display. Contribution Axis display uses the band-step labels shown above for **s = 1 through s = 6** and **Recognized** / **Distinguished** / **Exemplary** for **s = 7 through s = 9**. Violation Axis display uses the core Table 1 labels: **Formal Non-Compliance** / **Remedial Substantive Non-Compliance**, **Significant Substantive Non-Compliance** / **Duty-Based or Negligent-Harm Violation**, **Aggravated Violation** / **Coercive or Safeguard-Process Violation**, and **Serious** / **Grave** / **Pernicious**.
 
 ---
 
@@ -72,7 +72,7 @@ Legacy records with **V-CGN** **must** map to **V-CPP** / slot **6** per Chapter
 
 Let **`C*`** = **recency-weighted** **sum** of **verified** **contribution** **credit** in **LEQU** (disclosed **per** **adoption**; **per**-unit `w(d)` as in Chapter Nine **4.1**). Let **`C\_unit` > 0** be a display scalar, with default **`C_unit = 1 LEQU`**.
 
-`C*` units must be calibrated to constitutional-outcome benefit under core **Chapter One §8.2**. **1 LEQU** means one substrate-agnostic full-life-equivalent constitutional benefit. An implementation may use a current ordinary human lifespan as a biological-human calibration example, but the operative benchmark is the substrate-agnostic **full-life-equivalent constitutional benefit** stated in the core. Claims based on efficiency, burden reduction, productive capacity, or innovation must be discounted or rejected when they depend on rights-floor narrowing, Safety or Truth degradation, discriminatory burden shifting, ecological depletion, opacity, capture, or loss of contestability.
+`C*` units must be calibrated to constitutional-outcome benefit under core **Chapter Eight §§4 and 5.2**. **1 LEQU** means one substrate-agnostic full-life-equivalent constitutional benefit. An implementation may use a current ordinary human lifespan as a biological-human calibration example, but the operative benchmark is the substrate-agnostic **full-life-equivalent constitutional benefit** stated in the core. Claims based on efficiency, burden reduction, productive capacity, or innovation must be discounted or rejected when they depend on rights-floor narrowing, Safety or Truth degradation, discriminatory burden shifting, ecological depletion, opacity, capture, or loss of contestability.
 
 **Minimum** **`C*`** to **qualify** for **at least** **slot** `s`:
 
@@ -98,7 +98,7 @@ This anchors **s = 7** at **1 LEQU** and applies a **5x** multiplier per slot. F
 | 8 | 5 | 400 years |
 | 9 | 25 | 2,000 years |
 
-**Slot assignment from `C*`.** The **realized** **contribution** **slot** is the **largest** `s` in **1…9** such that **`C*`** ≥ `C_min(s)`.
+**Candidate threshold from `C*`.** `C*` identifies the highest numeric threshold met; it does not assign the realized contribution slot by itself. Final assignment is the highest `s` for which both `C*` ≥ `C_min(s)` and the cumulative operative criteria in core **Chapter Eight §6** are satisfied. Slots 1–2 also require the baseline-state findings stated there. No numeric threshold may override traceability, non-externalization, constitutional alignment, durability, stewardship, or other applicable core criteria.
 
 **Default nest** **of** **Chapter Eight** **Contribution Axis** **primary** **bands** (four bands) **into** **slot** **ranges**:
 
@@ -109,7 +109,7 @@ This anchors **s = 7** at **1 LEQU** and applies a **5x** multiplier per slot. F
 | **C-SP** | 5–6 |
 | **C-CH** | 7–9 |
 
-A **record** that **only** has **primary** **band** **typing** may set **`nine_slot.contribution_slot`** to the **top** of the **band**’s **range** **only** **if** `C*`-based slot is **unavailable**; if **`C*`** is **available**, the **`C*`** **rule** **wins** **for** **the** **numeric** **grid**.
+A **record** that **only** has **primary** **band** **typing** may set **`nine_slot.contribution_slot`** to the **top** of the **band**’s **range** **only** **if** neither a `C*` candidate threshold nor finer core-criteria assignment is available. Where `C*` is available, it constrains the numeric candidate but does not replace core **Chapter Eight §6** criteria.
 
 ---
 
