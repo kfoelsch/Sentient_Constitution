@@ -2,14 +2,14 @@
 <a id="chapter-ten-anti-constitutional-misconduct"></a>
 # CHAPTER TEN: ANTI-CONSTITUTIONAL MISCONDUCT
 
-*Non-operative subtitle:* Continuity and tetrad-capture guard at Violation Axis **s = 7, 8, or 9**.
+*Non-operative subtitle:* Continuity and tetrad-capture designation guard for Violation Axis **s = 7, 8, or 9**.
 
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
 > The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other chapters.
 >
-> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter Ten**, the standing-pipeline top-slot finalization chapter for final Violation Axis `s = 7`, `s = 8`, and `s = 9` anti-constitutional misconduct assignment inside the pipeline begun in [Chapter Eight](core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) and integrated in [Chapter Nine](core_09-09_standing_integration.md#chapter-nine-standing-effects-and-integration). It does **not** replace general violation classification outside those top slots. Anti-constitutional misconduct at **s = 7, 8, or 9** is **tetrad capture** at scale — read with the [Continuity aim](core_00_preamble.md#continuity) under [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims). Change-path validity interactions continue in [Chapters Thirteen through Fifteen](core_13-15_amendment.md#chapter-thirteen-non-regression-and-substantive-amendment-validity); justice constraints remain in [Chapter Six Part D](core_06-06_rights_part_d.md). Chapter numbering and cross-references match the integrated instrument. Reading order, the binding/support split, and corpus edition metadata are maintained in [README.md](README.md).
+> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter Ten**, the standing-pipeline designation chapter for determining whether a verified Violation Axis `s = 7`, `s = 8`, or `s = 9` impact finding also constitutes anti-constitutional misconduct. Chapter Eight alone assigns the numeric impact slot under its unified proportional LEQU scale. This chapter does **not** replace or alter that measurement. Anti-constitutional misconduct at **s = 7, 8, or 9** is **tetrad capture** at scale — read with the [Continuity aim](core_00_preamble.md#continuity) under [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims). Change-path validity interactions continue in [Chapters Thirteen through Fifteen](core_13-15_amendment.md#chapter-thirteen-non-regression-and-substantive-amendment-validity); justice constraints remain in [Chapter Six Part D](core_06-06_rights_part_d.md).
 
 </details>
 
@@ -18,45 +18,45 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): cross-chapter map for Chapter Ten</span></strong></summary>
 
-- **Chapter Eight:** supplies the standing record, verified-input gate, Contribution and Violation axes, standing-slot grammar, and ordinary violation severity.
-- **Chapter Nine:** supplies process / response attachments, descriptors, standing integration, standing locks, final standing effect rules, and the pointer here; it does not itself assign final **s = 7**, **s = 8**, or **s = 9** anti-constitutional misconduct slots.
+- **Chapter Eight:** supplies the standing record, verified-input gate, Contribution and Violation axes, unified proportional LEQU scale, and every numeric impact slot.
+- **Chapter Nine:** supplies process / response attachments, descriptors, standing integration, standing locks, final standing effect rules, and the pointer here; it does not itself issue a final anti-constitutional-misconduct designation.
 - **Chapters Two through Four:** supply record, custody, tracing, and verification discipline for the evidence used here.
 - **Chapter One:** supplies principles relevant to emergency authority, necessity, concentration, and system capture.
 - **Chapter Eleven:** supplies forum routing, Integrity-family default routing, transfer, and certification discipline.
 - **Chapter Six:** supplies the Rights Floor, **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*) joint requirements and **Imprisonment for violence**, **Article XXIII-C** (*Least-Restrictive and Time-Bounded Rule*) review discipline, **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*) remedy-timing discipline, and **Article XXIII-A** (*Justice Objective and Scope*) review and publication safeguards; **section 4.1** here supplies imprisonment requirements for verified anti-constitutional misconduct, **section 4.2** supplies the consequence-integration rule for restitution and remedy priority, and **section 4.3** supplies voluntary public accountability expression rules.
-- **Chapter Twelve:** supplies governance legitimacy consequences tied to final Chapter Ten slot assignment.
-- **Chapters Thirteen through Fifteen:** supply change-path validity, referral, procedural, and custody rules; they do not assign final Chapter Ten slots.
-- Read with: [Chapters Eight–Eleven constitutional compass](core_08-08_standing_assessment.md#chapters-eight-eleven-constitutional-compass).
+- **Chapter Twelve:** supplies governance legitimacy consequences tied to a final Chapter Ten designation.
+- **Chapters Thirteen through Fifteen:** supply change-path validity, referral, procedural, and custody rules; they do not issue the final Chapter Ten designation.
+- Read with: [README — Standing pipeline and forums](README.md#standing-pipeline-and-forums).
 
 </details>
 
 <br>
 
-Chapter Ten is the constitutional owner of **final Violation Axis s = 7, 8, and 9 anti-constitutional misconduct slot assignment, criteria, and cross-chapter discipline**.
+Chapter Ten is the constitutional owner of **final anti-constitutional-misconduct designation for Violation Axis s = 7, 8, and 9 findings, designation criteria, and cross-chapter discipline**.
 
 <br>
 
-This chapter is used only for the most serious anti-constitutional misconduct. It does not cover every violation, and it does not create a separate process. Its job is to decide whether a verified anti-constitutional violation belongs in one of the three highest **Violation Axis** slots: **s = 7**, **s = 8**, or **s = 9**.
+This chapter is used only when a verified violation already occupies one of the three highest **Violation Axis** impact slots and anti-constitutional misconduct is materially alleged. It does not cover every violation, create a separate impact scale, or move a finding between slots. Its job is to decide whether the existing finding also receives the corresponding anti-constitutional-misconduct designation.
 
-Under the [Continuity aim](core_00_preamble.md#continuity) and [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims), top-slot assignment protects long-horizon constitutional operation when conduct threatens to hollow the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation**, **oversight**, **accountability**, and **timeliness** — below [material stake](core_00_preamble.md#material-stake) requirements. Read [Chapters Eight–Eleven constitutional compass](core_08-08_standing_assessment.md#chapters-eight-eleven-constitutional-compass) first.
+Under the [Continuity aim](core_00_preamble.md#continuity) and [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims), top-impact designation review protects long-horizon constitutional operation when conduct threatens to hollow the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation**, **oversight**, **accountability**, and **timeliness** — below [material stake](core_00_preamble.md#material-stake) requirements. Use [README — Standing pipeline and forums](README.md#standing-pipeline-and-forums) for pipeline navigation.
 
-By the time a matter reaches this chapter, the basic work should already be done. Chapter Eight should have opened a bounded **violation standing record**, applied the **verified input** gate, and placed the matter on the shared classification scale. Chapter Nine should have handled ordinary standing integration, including any standing locks and consequence rules.
+By the time a matter reaches this chapter, Chapter Eight must have opened a bounded **violation standing record**, applied the **verified input** gate, measured integrated loss under Proportionality, and assigned `s` = 7, 8, or 9 under the unified LEQU scale. Chapter Nine should have handled ordinary standing integration, including any standing locks and consequence rules.
 
-Chapter Ten then asks the final top-slot question: what happened, how serious was it, which criteria apply, and have the required due-process safeguards been met? A Chapter Eight measurement or Chapter Nine standing lock may help explain the record, but neither can replace this chapter's criteria, gravity rules, or safeguards.
+Chapter Ten then asks the designation question: does the verified top-impact finding satisfy the anti-constitutional criteria, and have the required due-process safeguards been met? It accepts the Chapter Eight slot as fixed and does not infer intent, capture, or misconduct character from magnitude alone.
 
-In pipeline terms, this chapter handles step 6: final top-slot review for possible `s = 7`, `s = 8`, or `s = 9` anti-constitutional misconduct.
+In pipeline terms, this chapter handles step 6: final designation review for an existing `s` = 7, `s` = 8, or `s` = 9 violation.
 
-This chapter decides only final top-slot assignment within the Violation Axis. It does not replace Chapter Eight records or verified-input review, does not replace Chapter Nine standing integration, and does not decide ordinary violations outside the top anti-constitutional slots.
+This chapter decides only whether the anti-constitutional-misconduct designation attaches. It does not replace Chapter Eight records, verification, LEQU measurement, or slot assignment; replace Chapter Nine standing integration; or convert lower-impact violations into top-impact findings.
 
-**What happens next:** once final top-slot assignment is made with **section 4** safeguards, **section 4.1** supplies imprisonment requirements where applicable, **section 4.2** supplies restitution, remedy-priority, and consequence-integration requirements, and **section 4.3** supplies voluntary public accountability expression rules where applicable. Chapter Nine standing-lock and final-standing-effect rules apply, including the **Anti-Constitutional Trust Lock** for final anti-constitutional misconduct. Chapter Eleven forum rules, Chapter Six justice constraints, and the relevant governance or change-path chapters apply without bypassing this chapter's safeguards.
+**What happens next:** once a final designation is made with **section 4** safeguards, **section 4.1** supplies imprisonment requirements where applicable, **section 4.2** supplies restitution, remedy-priority, and consequence-integration requirements, and **section 4.3** supplies voluntary public accountability expression rules where applicable. Chapter Nine standing-lock and final-standing-effect rules apply, including the **Anti-Constitutional Trust Lock** for final anti-constitutional misconduct.
 
 Use this chapter in this order:
 
 1. Start with **section 1** for the decision framework.
 2. Use **section 2** to identify the criteria implicated by the incident.
-3. Use **section 3** to decide whether the final slot is **s = 7**, **s = 8**, or **s = 9**.
-4. Apply **section 4** before any slot assignment is final.
-5. Apply **section 4.1** for imprisonment requirements after final slot assignment.
+3. Use **section 3** to decide whether the designation attaches to the existing **s = 7**, **s = 8**, or **s = 9** finding.
+4. Apply **section 4** before any designation is final.
+5. Apply **section 4.1** for imprisonment requirements after final designation.
 6. Apply **section 4.2** to integrate restitution, remedy priority, and consequence sequencing.
 7. Apply **section 4.3** for voluntary public accountability expression where restorative pathways are used.
 8. Use **section 5** to keep change-path, forum, rights, and governance questions in the correct chapters.
@@ -66,7 +66,7 @@ The named patterns in section 6.1 are not separate shortcuts. Flooding, bribery,
 
 <br>
 
-*In plain terms: Under the [Continuity aim](core_00_preamble.md#continuity), this chapter **guards** the top of the standing pipeline — it decides only whether verified misconduct reaches the highest three violation slots after Chapters Six and Seven have done their work, when conduct amounts to **tetrad capture** at scale.*
+*In plain terms: under the [Continuity aim](core_00_preamble.md#continuity), this chapter decides whether a violation already measured in a highest impact slot also amounts to **tetrad capture** at scale. It does not choose the slot.*
 
 <a id="1-scope-and-authority"></a>
 
@@ -79,9 +79,9 @@ The named patterns in section 6.1 are not separate shortcuts. Flooding, bribery,
 - Upstream: [Chapter Eight](core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) (*the Contribution and Violation axes*).
 - Upstream map: [Chapter Eight §5.1](core_08-08_standing_assessment.md#7-slot-grammar-and-display-labels) (*standing-slot grammar*).
 - Upstream pointer: [Chapter Nine §6](core_09-09_standing_integration.md#9-violation-axis-s-7-9-anti-constitutional-misconduct-authoritative-location) points here as the sole home for final top-end anti-constitutional misconduct assignment.
-- Downstream: [§3](#2-criteria-set-for-slot-assignment) (*Criteria set*); [§11](#3-violation-axis-s-7-9-slot-assignment-incident-gravity) (*Violation Axis s = 7–9 slot assignment*).
+- Downstream: [§3](#2-criteria-set-for-slot-assignment) (*Designation criteria set*); [§11](#3-violation-axis-s-7-9-slot-assignment-incident-gravity) (*Violation Axis s = 7–9 designation*).
 - Safeguards and discipline: [§2](#4-due-process-safeguards-for-slot-assignment) (*Due-process safeguards*); [§4.1](#4-1-imprisonment-for-anti-constitutional-misconduct) (*Imprisonment for anti-constitutional misconduct*); [§4.2](#4-2-restitution-remedy-priority-and-consequence-integration) (*Restitution, remedy priority, and consequence integration*); [§4.3](#4-3-voluntary-public-accountability-expression) (*Voluntary public accountability expression*); [§4](#5-cross-chapter-discipline) (*Cross-chapter discipline*).
-- Pattern applications: [§5](#6-pattern-applications-and-criteria-routing) (*named patterns route into the same criteria and slot rules*).
+- Pattern applications: [§5](#6-pattern-applications-and-criteria-routing) (*named patterns route into the same designation criteria*).
 - Read with: [Chapters Thirteen through Fifteen](core_13-15_amendment.md#chapter-thirteen-non-regression-and-substantive-amendment-validity) where **regressive deception** and change-path conduct may implicate **criteria 1–4**.
 - Tetrad leg(s): **participation**, **oversight**, **accountability**, **timeliness** (tetrad capture at scale). Primary aim(s): **Continuity** (primary), **Flourishing**. [material stake](core_00_preamble.md#material-stake) scaling applies to safeguards and gravity.
 
@@ -89,33 +89,33 @@ The named patterns in section 6.1 are not separate shortcuts. Flooding, bribery,
 
 <br>
 
-*In plain terms: this chapter works in one sequence. First define the incident, then apply the criteria, then judge gravity, then assign the slot, then apply process safeguards. The named patterns later in the chapter are applications of that sequence, not separate routes around it.*
+*In plain terms: this chapter works in one sequence. First confirm the Chapter Eight impact slot, then define the incident, apply the designation criteria, and apply process safeguards. The named patterns later in the chapter are applications of that sequence, not separate routes around it.*
 
-Top-slot review is a specialized **Violation Axis Question 2** gravity step for **s = 7–9** only. Question 1 verified facts and ordinary Question 2 measurement remain in [Chapter Eight](core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model); Question 3 remedies, safeguards, and lock design remain in [Chapter Nine](core_09-09_standing_integration.md#chapter-nine-standing-effects-and-integration).
+Designation review follows, but does not reopen, **Violation Axis Question 2** measurement for **s = 7–9**. Question 1 verified facts and Question 2 impact measurement remain in [Chapter Eight](core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model); Question 3 remedies, safeguards, and lock design remain in [Chapter Nine](core_09-09_standing_integration.md#chapter-nine-standing-effects-and-integration).
 
-**Anti-constitutional misconduct** under the final three violation categories is assigned only under **this chapter**. The conduct may arise in **constitutional change** under **Chapters Thirteen through Fifteen**, including **regressive deception** reflected in criteria **1–4**. It may also arise through **criteria 5** or **6**, or through other conduct that materially affects constitutional **validity**, **operation**, or **Rights-Floor** governance. **No** adopting instrument, process note, or subsidiary body may issue final **anti-constitutional misconduct** classification in place of **this chapter**.
+**Anti-constitutional misconduct** designation for an `s` = 7–9 finding is issued only under **this chapter**. The conduct may arise in **constitutional change** under **Chapters Thirteen through Fifteen**, including **regressive deception** reflected in criteria **1–4**. It may also arise through **criteria 5** or **6**, or through other conduct that materially affects constitutional **validity**, **operation**, or **Rights-Floor** governance. **No** adopting instrument, process note, or subsidiary body may issue the final designation in place of **this chapter**.
 
-**Decision sequence.** Final slot assignment under this chapter proceeds in the following order:
+**Decision sequence.** Final designation under this chapter proceeds in the following order:
 
-1. identify the **unified incident** to be assessed, without artificial fragmentation;
-2. determine which **section 2** criteria are materially implicated on the verified record;
-3. assess the incident's gravity under **section 3**, including whether it is a **single catastrophic incident**, a **sustained high-gravity pattern**, or conduct satisfying **criterion 5** or **criterion 6**;
-4. assign any final **Violation Axis s = 7, s = 8, or s = 9** slot only under **section 3**;
-5. apply **section 4** due-process safeguards before treating the slot assignment as final;
+1. confirm the final Chapter Eight **Violation Axis s = 7, s = 8, or s = 9** impact slot;
+2. identify the **unified incident** to be assessed, without artificial fragmentation;
+3. determine which **section 2** designation criteria are materially implicated on the verified record;
+4. decide under **section 3** whether the corresponding designation attaches without changing the impact slot;
+5. apply **section 4** due-process safeguards before treating the designation as final;
 6. apply any required imprisonment, restitution, remedy-priority, and consequence-integration rules under **sections 4.1** and **4.2**;
 7. preserve the cross-chapter boundary in **section 5** and use **section 6** named patterns only as applications of this same sequence.
 
-Section **6** does not create a second catalogue of independent offenses. It states how recurring anti-constitutional patterns route into the unified-incident record, criteria set, gravity rules, safeguards, and chapter boundaries already stated in **sections 1 through 5**.
+Section **6** does not create a second catalogue of independent offenses. It states how recurring anti-constitutional patterns route into the unified-incident record, designation criteria, safeguards, and chapter boundaries already stated in **sections 1 through 5**.
 
 <a id="chapter-eight-part-b-accountability-scale"></a>
 
-### 2. Criteria set (for slot assignment) — Accountability at constitutional scale
+### 2. Criteria set (for designation) — Accountability at constitutional scale
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [§1](#1-decision-framework-scope-and-authority) (*Decision framework, scope, and authority*).
 - Emergency authority: [Chapter One](core_01_c_stewardship_capacity_principles.md#chapter-01-principles-and-constraints) emergency and necessity discipline; [Article XXIII-D: Emergency Measures and Continuation Burden](core_06-06_rights_part_d.md#article-xxiii-d-emergency-measures-and-continuation-burden) where **criteria 5** and **6** are read against bounded emergency authority.
-- Downstream slot assignment: [§11](#3-violation-axis-s-7-9-slot-assignment-incident-gravity).
+- Downstream designation decision: [§11](#3-violation-axis-s-7-9-slot-assignment-incident-gravity).
 - Downstream safeguards and discipline: [§2](#4-due-process-safeguards-for-slot-assignment); [§4](#5-cross-chapter-discipline).
 - Downstream pattern applications and criteria routing: [§5](#6-pattern-applications-and-criteria-routing), including [§5](#61-concentration-based-subversion-criteria-interaction), [§12](#62-rights-floor-waivers-and-unconstitutional-contract-terms), [§11.3](#63-flooding-the-zone-and-contest-pathway-denial), [§11.4](#64-info-sphere-zone-flooding), [§6.5](#65-bribery-and-improper-benefit-exchange), [§6.6](#66-unlawful-or-unconstitutional-command-conduct), [§6.7](#67-reward-protection-or-normalization-of-anti-constitutional-conduct), [§6.8](#68-enforcement-refusal-suppression-or-non-prosecution-conduct), [§6.9](#69-infrastructure-denial-destruction-or-dependency-cutoff-conduct), and [§6.10](#610-forum-recusal-failure-and-biased-panel-participation).
 - Read with: [Chapters Two through Four](core_02-03_definition_mechanics.md) for record, custody, and verification expectations tied to **criteria 1–4**.
@@ -124,7 +124,7 @@ Section **6** does not create a second catalogue of independent offenses. It sta
 
 <strong><span style="color: #2563eb;">Definition:</span></strong> [Necessity](core_05a_accountability_definitions.md#necessity) · [O](core_05a_accountability_definitions.md#necessity) · [A](core_05a_accountability_definitions.md#necessity-a) · [C](core_05a_accountability_definitions.md#necessity-c)
 
-*In plain terms: evaluators first build one coherent picture of what happened: one episode, one sustained campaign, or another unified incident. They then ask how serious that incident is, using six checks: intent, records, rollback, real-world blockage, forcible takeover, and practical nullification of remedies. They may not split one scheme into artificial fragments to game the slot.*
+*In plain terms: evaluators first accept the Chapter Eight impact slot, then build one coherent picture of what happened: one episode, one sustained campaign, or another unified incident. They use six checks—intent, records, rollback, real-world blockage, forcible takeover, and practical nullification of remedies—to decide whether the anti-constitutional designation applies. They may not split one scheme to game the designation.*
 
 **Unified incident.** Evaluators must treat as **one incident** conduct that shares material **actors**, **objectives**, **temporal continuity**, **causal linkage**, or **unified design**. Artificial fragmentation of one pattern to manipulate anti-constitutional misconduct outcomes is prohibited. Where **section 7.3** and **section 7.4** overlap, assess on a **unified record** per **section 7.4**.
 
@@ -139,7 +139,7 @@ Criteria **1–4** commonly arise in **change**, **record**, and **validity** pa
 
 Evaluators must not treat the same underlying conduct as satisfying both **criterion 5** and **criterion 6** unless each criterion is independently substantiated. For example, the record must show separate forcible acts and separate nullification mechanisms, not two labels for one undifferentiated fact.
 
-### 3. Violation Axis s = 7–9 slot assignment (incident gravity)
+### 3. Violation Axis s = 7–9 anti-constitutional designation
 
 <a id="3-violation-axis-s-7-9-slot-assignment-incident-gravity"></a>
 <a id="3-tier-labels-criterion-counts"></a>
@@ -151,16 +151,16 @@ Evaluators must not treat the same underlying conduct as satisfying both **crite
 - Upstream: [§3](#2-criteria-set-for-slot-assignment) (*Criteria set*).
 - Criteria interactions: [§5](#61-concentration-based-subversion-criteria-interaction); [§12](#62-rights-floor-waivers-and-unconstitutional-contract-terms); [§11.3](#63-flooding-the-zone-and-contest-pathway-denial); [§11.4](#64-info-sphere-zone-flooding); [§6.5](#65-bribery-and-improper-benefit-exchange); [§6.6](#66-unlawful-or-unconstitutional-command-conduct); [§6.7](#67-reward-protection-or-normalization-of-anti-constitutional-conduct); [§6.8](#68-enforcement-refusal-suppression-or-non-prosecution-conduct); [§6.9](#69-infrastructure-denial-destruction-or-dependency-cutoff-conduct); [§6.10](#610-forum-recusal-failure-and-biased-panel-participation).
 - Downstream: [§2](#4-due-process-safeguards-for-slot-assignment) (*Due-process safeguards*), [§4.1](#4-1-imprisonment-for-anti-constitutional-misconduct) (*Imprisonment for anti-constitutional misconduct*), [§4.2](#4-2-restitution-remedy-priority-and-consequence-integration) (*Restitution, remedy priority, and consequence integration*), [§4.3](#4-3-voluntary-public-accountability-expression) (*Voluntary public accountability expression*), and [§4](#5-cross-chapter-discipline) (*Cross-chapter discipline*).
-- Downstream forums: [Chapter Eleven](core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) [§3](core_11-11_forum.md#2-default-venue-and-primary-stakes) gives the Integrity default lead where final Chapter Ten slot assignment is the primary stake. [Chapter Eleven §8](core_11-11_forum.md#7-escalation-and-certification) covers forum certification and independent review for final **s = 7**, **s = 8**, and **s = 9** classification.
-- Read with: [Chapter Eight](core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) — **Chapters Thirteen through Fifteen** do not supply final Chapter Ten slot assignment; **the Contribution and Violation axes**, the Chapter Eight severity ladder, and Chapter Eight process / response character remain separate from final **s = 7, 8, or 9** assignment under **this** **section**.
+- Downstream forums: [Chapter Eleven](core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) [§3](core_11-11_forum.md#2-default-venue-and-primary-stakes) gives the Integrity default lead where final Chapter Ten designation is the primary stake. [Chapter Eleven §8](core_11-11_forum.md#7-escalation-and-certification) covers forum certification and independent review for final designation.
+- Read with: [Chapter Eight](core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) — **Chapters Thirteen through Fifteen** do not supply final Chapter Ten designation; Chapter Eight's unified proportional LEQU scale supplies the fixed impact slot, while this section supplies designation only.
 
 </details>
 
 <br>
 
-*In plain terms: the serious anti-constitutional slots depend on how bad the whole incident is. One blow can threaten the system; a long pattern can do the same damage over time. The question is not how many unrelated scraps of evidence can be tied to checklist boxes. Real forum process is still required before anyone treats the finding like constitutional crime-level conduct.*
+*In plain terms: the numeric slot already reflects proportional LEQU impact. This section decides whether the incident also attacked constitutional validity, operation, Rights Floors, or the Tetrad in the way required for an anti-constitutional designation.*
 
-**Chapters Thirteen through Fifteen** do not supply final anti-constitutional misconduct assignment for anti-constitutional misconduct within their scope. **No** other pathway may substitute final Chapter Ten slot assignment for **this chapter**.
+**Chapters Thirteen through Fifteen** do not supply final anti-constitutional misconduct designation for conduct within their scope. **No** other pathway may substitute for this chapter's designation decision.
 
 **Single catastrophic incident** means a **unified incident** that, viewed as a whole, causes or imminently threatens one of the following:
 
@@ -170,27 +170,25 @@ Evaluators must not treat the same underlying conduct as satisfying both **crite
 
 **Sustained high-gravity pattern** means a **unified incident** made of continuing, repeated, or systematically reinforced conduct whose aggregate gravity is high. That gravity may appear as material rollback, blocked or chilled challenge rights, Rights-Floor degradation, delayed correction beyond practical remedy, or an equivalent structural workaround. The pattern must either continue after a reasonable opportunity for good-faith cure where cure is feasible, or reach comparable severity through institutional scale, capture, or durability even without a single catastrophic moment.
 
-**Top Violation Axis labels (Table 1, rows 7–9).** The top three **Violation Axis** rows for anti-constitutional misconduct use **Chapter Eight**'s standing-slot index. In Chapter Ten, those three slots read (in order) **Serious anti-constitutional misconduct**, **Grave anti-constitutional misconduct**, and **Pernicious anti-constitutional misconduct**. The full nine-row Table 1 is not repeated here; the short table below shows only the rows where Chapter Ten supplies final slot assignment.
+**Designation matched to the existing impact slot.** Chapter Eight's top three neutral impact labels remain controlling whether or not this chapter's designation is established. When the criteria are established, the corresponding designation follows the already assigned slot:
 
-| `s` | Violation Axis — Chapter Ten display |
-| ---: | --- |
-| 7 | **Serious** anti-constitutional misconduct |
-| 8 | **Grave** anti-constitutional misconduct |
-| 9 | **Pernicious** anti-constitutional misconduct |
+| Existing `s` | Chapter Eight impact label | Chapter Ten designation, if established |
+| ---: | --- | --- |
+| 7 | **Serious Constitutional Impact** | **Serious anti-constitutional misconduct** |
+| 8 | **Grave Constitutional Impact** | **Grave anti-constitutional misconduct** |
+| 9 | **Catastrophic Constitutional Impact** | **Catastrophic anti-constitutional misconduct** |
 
-Assignment proceeds by **unified incident** and final **Violation Axis** slot as stated in the row for that **s** in the table above and in the operative bullets below.
+The designation attaches when the **unified incident** materially implicates one or more **section 2** criteria on a verified record and the **section 4** safeguards are met. The adjective follows the existing impact slot; criterion count, intent, coercion, pattern, or institutional character does not move the finding between slots. A single catastrophic incident, a sustained high-gravity pattern, criterion 5, or criterion 6 may establish designation eligibility, but Chapter Eight LEQU impact alone controls whether the underlying finding is `s` = 7, 8, or 9.
 
-- **Serious anti-constitutional misconduct:** A **unified incident** **materially implicates** one or more **section 2** criteria **and** triggers mandatory **heightened** review, [Evidence Preservation](core_05o_oversight_definitions.md#evidence-preservation) obligations, and published remediation controls, **but** does **not** satisfy grave or pernicious under the bullets below. Where materially necessary, it also triggers provisional suspension of disputed constitutional effect (including under **Chapters Thirteen through Fifteen** where applicable).
-- **Grave anti-constitutional misconduct:** A **final** finding, with **section 4** safeguards, that the **unified incident** is a **single catastrophic incident** **or** a **sustained high-gravity pattern**. That classification requires independent forum review and proportional sanctions or remediation where confirmed. **Alternatively**, a **final** finding that **criterion 5** **or** **criterion 6** **alone** is satisfied—with **section 4** safeguards and accountable attribution under **Chapters Two through Four**—creates the **same** grave classification.
-- **Pernicious anti-constitutional misconduct:** grave is established and at least one added condition is present. The added condition may be both **criterion 5** and **criterion 6** being independently substantiated on the **unified incident** record. It may also be a **single catastrophic incident**, or a **sustained high-gravity pattern**, that includes substantiated **criterion 5** or **criterion 6**. That slot assignment requires maximum constitutional safeguards, remedy priority for affected parties, and anti-capture oversight. 
+A final designation triggers mandatory heightened review, [Evidence Preservation](core_05o_oversight_definitions.md#evidence-preservation), published remediation controls, proportional sanctions or remediation where confirmed, and the applicable Chapter Nine standing integration. Catastrophic designation requires maximum constitutional safeguards, remedy priority for affected parties, and anti-capture oversight because the underlying impact is `s` = 9—not because character independently escalated the slot.
 
 <a id="chapter-eight-part-c-oversight-safeguards"></a>
 
-### 4. Due-process safeguards for slot assignment — Oversight safeguards
+### 4. Due-process safeguards for designation — Oversight safeguards
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§11](#3-violation-axis-s-7-9-slot-assignment-incident-gravity) (*Violation Axis s = 7–9 slot assignment*); [§3](#2-criteria-set-for-slot-assignment) (*Criteria set*), especially **criteria 5** and **6** and the **good-faith** drafting carve-out.
+- Upstream: [§11](#3-violation-axis-s-7-9-slot-assignment-incident-gravity) (*Violation Axis s = 7–9 designation*); [§3](#2-criteria-set-for-slot-assignment) (*Criteria set*), especially **criteria 5** and **6** and the **good-faith** drafting carve-out.
 - Pattern applications: [§11.3](#63-flooding-the-zone-and-contest-pathway-denial) (*Flooding the zone*); [§11.4](#64-info-sphere-zone-flooding) (*Info-sphere zone flooding*); [§6.5](#65-bribery-and-improper-benefit-exchange) (*Bribery and improper benefit exchange*); [§6.6](#66-unlawful-or-unconstitutional-command-conduct) (*Unlawful or unconstitutional command conduct*); [§6.7](#67-reward-protection-or-normalization-of-anti-constitutional-conduct) (*Reward, protection, or normalization of anti-constitutional conduct*); [§6.8](#68-enforcement-refusal-suppression-or-non-prosecution-conduct) (*Enforcement refusal, suppression, or non-prosecution conduct*); [§6.9](#69-infrastructure-denial-destruction-or-dependency-cutoff-conduct) (*Infrastructure denial, destruction, or dependency cutoff conduct*); [§6.10](#610-forum-recusal-failure-and-biased-panel-participation) (*Forum recusal failure and biased panel participation*).
 - Downstream: [§4.1](#4-1-imprisonment-for-anti-constitutional-misconduct) (*Imprisonment for anti-constitutional misconduct*); [§4.2](#4-2-restitution-remedy-priority-and-consequence-integration) (*Restitution, remedy priority, and consequence integration*); [§4.3](#4-3-voluntary-public-accountability-expression) (*Voluntary public accountability expression*); [§4](#5-cross-chapter-discipline) (*Cross-chapter discipline*).
 - Forum discipline: [Chapter Eleven §2](core_11-11_forum.md#2-default-venue-and-primary-stakes) through [§14](core_11-11_forum.md#7-escalation-and-certification) cover default Integrity lead, forum-family application of due process, transfer, and certification. Read **section 4** with **Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*) in **Chapter Six**.
@@ -200,9 +198,9 @@ Assignment proceeds by **unified incident** and final **Violation Axis** slot as
 
 <br>
 
-*In plain terms: nobody gets a final anti-constitutional slot 7, 8, or 9 without process. There has to be independent review, a real chance to respond, and a reasoned public record. A genuine drafting mistake that is fixed fast can take some change/record cases out of slots 8 and 9, but it does not excuse a real coup path.*
+*In plain terms: nobody receives a final anti-constitutional designation without process. There has to be independent review, a real chance to respond, and a reasoned public record. A genuine drafting mistake that is fixed promptly may defeat designation in some change or record cases, but it does not excuse a real coup path.*
 
-No final **Violation Axis anti-constitutional misconduct** slot assignment under this chapter may be issued without independent review, contestable notice, and reasoned publication. Publication must satisfy **Chapters Two through Four** tracing standards and **Article XXIII-A** (*Justice Objective and Scope*) review safeguards. Good-faith drafting error that is promptly disclosed and cured before constitutional effect is not anti-constitutional misconduct **when** that error is material only to **criteria 1–4** in **change** or **record** contexts; it does **not** excuse **criteria 5** or **6** conduct.
+No final **anti-constitutional misconduct designation** under this chapter may be issued without independent review, contestable notice, and reasoned publication. Publication must satisfy **Chapters Two through Four** tracing standards and **Article XXIII-A** (*Justice Objective and Scope*) review safeguards. Good-faith drafting error that is promptly disclosed and cured before constitutional effect is not anti-constitutional misconduct **when** that error is material only to **criteria 1–4** in **change** or **record** contexts; it does **not** excuse **criteria 5** or **6** conduct.
 
 ### 4.1 Imprisonment for anti-constitutional misconduct
 
@@ -221,7 +219,7 @@ No final **Violation Axis anti-constitutional misconduct** slot assignment under
 
 *In plain terms: once anti-constitutional misconduct is verified here, insurgency-like actors do not get to stay in the general population when imprisonment is necessary to stop further constitutional harm — especially if they refuse rehabilitation or keep repeating the conduct.*
 
-- **Imprisonment for anti-constitutional misconduct:** After final slot assignment under **section 3** with **section 4** safeguards met, sentients with verified anti-constitutional misconduct must be imprisoned when imprisonment is necessary to stop further constitutional harm — including conduct that functions as insurgency within the general population.
+- **Imprisonment for anti-constitutional misconduct:** After final designation under **section 3** with **section 4** safeguards met, sentients with verified anti-constitutional misconduct must be imprisoned when imprisonment is necessary to stop further constitutional harm — including conduct that functions as insurgency within the general population.
   - This requirement expressly applies to sentients who refuse rehabilitation offered on fair terms.
   - It applies to repeated or sustained patterns assessed as a unified incident under **section 3**.
   - **Section 3** decides whether the misconduct is verified and how serious it is; this section decides whether imprisonment is required. Imprisonment must still satisfy **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*) joint requirements, individualized attribution, and challenge and appeal protections, and **Article XXIII-C** (*Least-Restrictive and Time-Bounded Rule*) duration, review, restoration, and re-evaluation discipline in **Chapter Six Part D**.
@@ -254,7 +252,7 @@ No final **Violation Axis anti-constitutional misconduct** slot assignment under
 
 *In plain terms: a final anti-constitutional misconduct finding must not end with a label, a prison order, a standing lock, or institutional punishment while the affected parties are left unrepaired. The consequence package has to say who was harmed, what repair is owed, who must carry it, how it will be paid or executed, and when it must start.*
 
-- **Consequence-integration duty:** After final slot assignment under **section 3** with **section 4** safeguards met, the disposition record must integrate any imprisonment, standing effect, sanction, dissolution, change-path invalidity, structural remedy, and restitution or remediation into one reviewable consequence package.
+- **Consequence-integration duty:** After final designation under **section 3** with **section 4** safeguards met, the disposition record must integrate any imprisonment, standing effect, sanction, dissolution, change-path invalidity, structural remedy, and restitution or remediation into one reviewable consequence package.
 - **Affected-party and remedy identification:** The record must identify, at the level of specificity feasible without unlawful disclosure:
   - affected sentients, classes, communities, institutions, systems, or constitutional pathways;
   - material harm, rights loss, remedy loss, dependency harm, evidence degradation, or process nullification caused or materially contributed to by the unified incident;
@@ -284,7 +282,7 @@ No final **Violation Axis anti-constitutional misconduct** slot assignment under
 
 *In plain terms: a public apology in an anti-constitutional misconduct case must be voluntary, sincere, and non-degrading — fake or abusive apologies can backfire on the sentient who gives them.*
 
-- **Voluntary public accountability expression:** After final slot assignment under **section 3** with **section 4** safeguards met, accountable parties in restorative pathways for verified anti-constitutional misconduct may voluntarily choose public acknowledgment or apology as a supplementary accountability act.
+- **Voluntary public accountability expression:** After final designation under **section 3** with **section 4** safeguards met, accountable parties in restorative pathways for verified anti-constitutional misconduct may voluntarily choose public acknowledgment or apology as a supplementary accountability act.
   - The choice is permitted where it supports repair, trust restoration, or community healing.
   - Such expression must be:
     - non-coercive;
@@ -320,7 +318,7 @@ No final **Violation Axis anti-constitutional misconduct** slot assignment under
 
 **Chapter Thirteen** decides whether a constitutional change would wrongly weaken protected constitutional rights or duties, including through evasion. **Chapter Fifteen** decides whether the change process was properly run, whether the records were properly kept, whether review was triggered when required, and whether any temporary effect is valid.
 
-Those chapters decide whether the constitutional change itself can stand. They do **not** decide the final misconduct label for the sentients or institutions involved. If conduct within this chapter's scope may deserve a final anti-constitutional misconduct slot assignment, including a final **Violation Axis** slot, any connected sanctions, or escalation as anti-constitutional misconduct, that decision remains **in this chapter**.
+Those chapters decide whether the constitutional change itself can stand. They do **not** decide the final misconduct designation for the sentients or institutions involved. Chapter Eight supplies the impact slot; if conduct within this chapter's scope may deserve a final anti-constitutional-misconduct designation, that decision remains **in this chapter**.
 
 <a id="6-criteria-interactions-and-named-pattern-routing"></a>
 
@@ -340,7 +338,7 @@ Those chapters decide whether the constitutional change itself can stand. They d
 
 *In plain terms: the rest of the chapter applies the same decision model to recurring anti-constitutional patterns. These examples do not create new criteria; they show how named conduct routes through the criteria, process safeguards, and chapter boundaries already stated above.*
 
-The following subsections state criteria interactions and named pattern applications. They do **not** add independent slot-assignment criteria, relocate operational rules from other chapters, or bypass **section 4** safeguards. Evaluators assess each materially implicated pattern on the **unified incident** record under **section 2**, assign any final slot under **section 3**, preserve required process under **section 4**, and maintain the cross-chapter boundary stated in **section 5**.
+The following subsections state criteria interactions and named pattern applications. They do **not** add independent impact criteria, relocate operational rules from other chapters, or bypass **section 4** safeguards. Evaluators assess each materially implicated pattern on the **unified incident** record under **section 2**, decide designation under **section 3**, preserve required process under **section 4**, and maintain the cross-chapter boundary stated in **section 5**.
 
 ### 6.1 Concentration-based subversion: criteria interaction
 <details>
@@ -450,7 +448,7 @@ The following are non-exhaustive examples of in-scope means:
 - Ordinary caseload pressure without the imputed purpose or material effect stated here.
 - Volume alone, without culpable purpose or foreseeable indifference tied to those effects.
 
-**Operational response** — including primary-stakes routing, per-family intake triage, consolidation, anti-gaming measures, forum performance and backlog requirements, continuity measures, and forensic support — remains governed by **Chapter Eleven** and adopted implementation. This subsection states when such conduct may implicate final anti-constitutional misconduct slot assignment under this chapter; it does not relocate operational rules to this chapter.
+**Operational response** — including primary-stakes routing, per-family intake triage, consolidation, anti-gaming measures, forum performance and backlog requirements, continuity measures, and forensic support — remains governed by **Chapter Eleven** and adopted implementation. This subsection states when such conduct may implicate final anti-constitutional-misconduct designation under this chapter; it does not relocate operational rules to this chapter.
 
 **Criteria routing.** Evaluators assess these patterns under **criterion 4** where conduct materially contributes to blocked challenge rights, delayed correction beyond practical remedy, or Rights-Floor degradation. **Criterion 3** applies where the pattern operates as an equivalent structural workaround producing material rollback of constitutional protections. **Criteria 1 and 2** apply where willful deception, concealment, or knowing record, custody, routing, or publication manipulation is implicated. **Criterion 6** applies only where **section 2** and **section 4** substantiation shows that constitutional process or remedies became unusable in practice. Volume, redundancy, or automation alone is not sufficient.
 
@@ -509,7 +507,7 @@ The following are non-exhaustive examples of in-scope means:
 
 **Relation to section 7.3.** The same campaign may implicate both **contest-pathway flooding** and **info-sphere flooding**. Evaluators must assess them together on a **unified record** where facts overlap. They must not double-count the same conduct element toward criteria satisfaction twice without independent substantiation for each pattern.
 
-**Operational response** — including Rights-Floor implementation under **Chapter Six**, **Article XV** (*Audit, Transparency, and Independent Verification*) verification and auditability discipline, **[corpus_systems.md](corpus_systems.md)** handling where designated, and institutional governance under **Chapter Sixteen** — remains governed by those instruments and adopted owner layers. This subsection states when such conduct may implicate final anti-constitutional misconduct slot assignment under this chapter; it does not relocate operational rules to this chapter.
+**Operational response** — including Rights-Floor implementation under **Chapter Six**, **Article XV** (*Audit, Transparency, and Independent Verification*) verification and auditability discipline, **[corpus_systems.md](corpus_systems.md)** handling where designated, and institutional governance under **Chapter Sixteen** — remains governed by those instruments and adopted owner layers. This subsection states when such conduct may implicate final anti-constitutional-misconduct designation under this chapter; it does not relocate operational rules to this chapter.
 
 **Criteria routing.** Evaluators assess these patterns under **criterion 4** where conduct materially contributes to blocked challenge rights, delayed correction beyond practical remedy, Rights-Floor degradation, or impaired verification or audit access in practice. **Criterion 3** applies where the pattern operates as an equivalent structural workaround producing material rollback of constitutional protections. **Criteria 1 and 2** apply where willful deception, concealment, or knowing record, custody, routing, provenance, or publication manipulation in info-sphere channels is implicated. **Criterion 6** applies only where **section 2** and **section 4** substantiation shows that constitutional process or remedies became unusable in practice. Volume, redundancy, automation, or attention capture alone is not sufficient.
 
@@ -556,7 +554,7 @@ The conduct is in scope only where it has one of the following material effects:
 
 **Exclusions.** This subsection does **not** treat transparent, lawful, and constitutionally aligned compensation, reimbursement, public financing, ordinary procurement, disclosed conflict-managed support, restitution, or incentive design as bribery merely because value changes hands. Benefit exchange alone is not sufficient. The materially corrupt linkage to constitutional distortion, concealment, capture, or pathway impairment must be substantiated.
 
-**Criteria routing.** Evaluators assess these patterns under **criteria 1 and 2** where deception, concealment, material omission, or record, custody, disclosure, provenance, or verification manipulation is implicated. **Criterion 3** applies where the exchange produces material rollback or an equivalent structural workaround. **Criterion 4** applies where it materially contributes to blocked challenge rights, delayed correction beyond practical remedy, Rights-Floor degradation, or selectively weakened enforcement or remedy. **Criterion 6** applies only where **section 2** and **section 4** substantiation shows that constitutional process or remedies became unusable in practice. Bribery, giving, receiving, solicitation, or routing alone is not sufficient for final slot assignment without the required criteria and due-process showing.
+**Criteria routing.** Evaluators assess these patterns under **criteria 1 and 2** where deception, concealment, material omission, or record, custody, disclosure, provenance, or verification manipulation is implicated. **Criterion 3** applies where the exchange produces material rollback or an equivalent structural workaround. **Criterion 4** applies where it materially contributes to blocked challenge rights, delayed correction beyond practical remedy, Rights-Floor degradation, or selectively weakened enforcement or remedy. **Criterion 6** applies only where **section 2** and **section 4** substantiation shows that constitutional process or remedies became unusable in practice. Bribery, giving, receiving, solicitation, or routing alone is not sufficient for final designation without the required criteria and due-process showing.
 
 This subsection does **not** add an additional slot-assignment criterion beyond the **section 2** set; it routes evaluation of the named pattern into that set.
 
@@ -619,15 +617,15 @@ The conduct is in scope only where it has one of the following material effects:
 
 Following, implementing, transmitting, or enforcing an unlawful or unconstitutional directive may also be measurable violation conduct where the actor had material knowledge or reason to know, feasible capacity to refuse, contest, document, or escalate, and a material causal role in the violation. Evaluation must account for coercion, dependency, threat, access to protected reporting, urgency, available alternatives, role authority, technical capacity, and the actor's documented effort to resist or reduce harm. A command relationship is not a defense, but it may bear on culpability, remedy design, protection needs, and standing consequences.
 
-**Immediate containment and final slot boundary.** A materially substantiated unlawful or unconstitutional directive affecting constitutional validity, constitutional operation, Rights-Floor governance, contestability, remedy access, evidence integrity, or coercive force against constitutional authority triggers anti-constitutional misconduct routing, [Evidence Preservation](core_05o_oversight_definitions.md#evidence-preservation) duties, protected-reporting safeguards, and provisional containment where necessary to prevent continued harm. Final **Violation Axis s = 7, 8, or 9** classification still requires **section 3** slot assignment and **section 4** due-process safeguards.
+**Immediate containment and designation boundary.** A materially substantiated unlawful or unconstitutional directive affecting constitutional validity, constitutional operation, Rights-Floor governance, contestability, remedy access, evidence integrity, or coercive force against constitutional authority triggers anti-constitutional misconduct routing, [Evidence Preservation](core_05o_oversight_definitions.md#evidence-preservation) duties, protected-reporting safeguards, and provisional containment where necessary to prevent continued harm. A final designation still requires an existing Chapter Eight `s` = 7, 8, or 9 impact slot, a **section 3** decision, and **section 4** due-process safeguards.
 
 **Personal accountability and non-substitution.** Institutional sanction, dissolution, restructuring, remediation, or continuity transfer does not substitute for accountable attribution to materially responsible sentients, roles, or system components. Personal accountability must remain individualized, evidence-supported, contestable, and proportionate under **Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*) and **Chapters Two through Four**.
 
 **Exclusions.** This subsection does **not** treat good-faith legal advice, operational safety direction, emergency coordination, refusal instructions, stop-work orders, protective containment, ordinary supervision, or lawful compliance management as command conduct merely because an order or instruction exists. The unlawful or unconstitutional directive, material effect, and accountable attribution must be substantiated. Necessity-bounded emergency authority remains governed by **Chapter One** and **Article XXIII-D** (*Emergency Measures and Continuation Burden*) and must not be used as a pretext for unconstitutional command conduct.
 
-**Criteria routing.** Evaluators assess these patterns under **criteria 1 and 2** where deception, concealment, material omission, or record, custody, evidence, publication, provenance, or verification manipulation is implicated. **Criterion 3** applies where the directive produces material rollback or an equivalent structural workaround. **Criterion 4** applies where it materially contributes to unlawful constitutional effect, delayed correction, blocked challenge rights, Rights-Floor degradation, or selectively weakened enforcement or remedy. **Criterion 5** applies where the directive materially organizes or authorizes unlawful force, coercion, or usurpation to overthrow, suspend, or replace operative constitutional authority. **Criterion 6** applies only where **section 2** and **section 4** substantiation shows that constitutional process or remedies became unusable in practice. Command issuance, obedience, hierarchy, or role participation alone is not sufficient for final slot assignment without the required criteria and due-process showing.
+**Criteria routing.** Evaluators assess these patterns under **criteria 1 and 2** where deception, concealment, material omission, or record, custody, evidence, publication, provenance, or verification manipulation is implicated. **Criterion 3** applies where the directive produces material rollback or an equivalent structural workaround. **Criterion 4** applies where it materially contributes to unlawful constitutional effect, delayed correction, blocked challenge rights, Rights-Floor degradation, or selectively weakened enforcement or remedy. **Criterion 5** applies where the directive materially organizes or authorizes unlawful force, coercion, or usurpation to overthrow, suspend, or replace operative constitutional authority. **Criterion 6** applies only where **section 2** and **section 4** substantiation shows that constitutional process or remedies became unusable in practice. Command issuance, obedience, hierarchy, or role participation alone is not sufficient for final designation without the required criteria and due-process showing.
 
-This subsection does **not** add an additional slot-assignment criterion beyond the **section 2** set; it routes evaluation of the named pattern into that set.
+This subsection does **not** add an additional designation criterion beyond the **section 2** set; it routes evaluation of the named pattern into that set.
 
 ### 6.7 Reward, protection, or normalization of anti-constitutional conduct
 <details>
@@ -728,7 +726,7 @@ This subsection does **not** create a mandatory-prosecution rule, add an indepen
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§3](#2-criteria-set-for-slot-assignment) (*Criteria set*); [§11](#3-violation-axis-s-7-9-slot-assignment-incident-gravity) (*Violation Axis s = 7-9 slot assignment*); [§2](#4-due-process-safeguards-for-slot-assignment) (*Due-process safeguards*); [Chapter Eight §8](core_08-08_standing_assessment.md#8-violation-axis-severity-ladder) (*Violation Axis severity, including ecological or infrastructure damage*).
+- Upstream: [§3](#2-criteria-set-for-slot-assignment) (*Criteria set*); [§11](#3-violation-axis-s-7-9-slot-assignment-incident-gravity) (*Violation Axis s = 7–9 designation*); [§2](#4-due-process-safeguards-for-slot-assignment) (*Due-process safeguards*); [Chapter Eight §7](core_08-08_standing_assessment.md#7-unified-proportional-lequ-scale) (*proportional Violation Axis impact, including ecological or infrastructure loss*).
 - Rights and systems context: [Article III-A](core_06-06_rights_part_a.md#article-iii-a-survival) (*Survival*), [Article IV-A](core_06-06_rights_part_a.md#article-iv-a-dependency-mapping-and-resource-flow-transparency) (*Dependency Mapping and Resource-Flow Transparency*), [Article XII-A](core_06-06_rights_part_c.md#article-xii-a-reliability-and-trustworthiness-baseline) (*Reliability and Trustworthiness Baseline*), [Article XV](core_06-06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*), and adopted [corpus_systems.md](corpus_systems.md) infrastructure, dependency, reliability, and classification controls where materially relevant.
 - Related patterns: [§5](#61-concentration-based-subversion-criteria-interaction) where infrastructure control produces capture or dependency abuse; [§6.6](#66-unlawful-or-unconstitutional-command-conduct) where the conduct is ordered, automated, or technically enforced; [§6.8](#68-enforcement-refusal-suppression-or-non-prosecution-conduct) where accountability for the infrastructure conduct is suppressed.
 - Read with: [Dependency](core_05c_continuity_definitions.md#dependency), [Cascading Failure](core_05c_continuity_definitions.md#cascading-failure), [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint), [Reversibility](core_05c_continuity_definitions.md#reversibility-constitutional), [Harm](core_05a_accountability_definitions.md#harm), [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination), and [System Capture](core_05c_continuity_definitions.md#system-capture).
@@ -776,7 +774,7 @@ This subsection does **not** add an additional slot-assignment criterion beyond 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Chapter Eight §9](core_08-08_standing_assessment.md#9-forum-disclosure-and-recusal-process-impact) (*forum disclosure omission and recusal-process impact*); [Article XXII-B](core_06-06_rights_part_c.md#article-xxii-b-composition-rotation-and-conflict-controls) (*Constitutional forum recusal and enforcement routing*); [corpus_forum.md](corpus_forum.md) **CF-4** (*panel formation, disclosure, recusal, and lawful bench constitution*).
+- Upstream: [Chapter Nine §4.2.1](core_09-09_standing_integration.md#421-forum-disclosure-and-recusal-process-impact) (*forum disclosure omission and recusal-process impact*); [Article XXII-B](core_06-06_rights_part_c.md#article-xxii-b-composition-rotation-and-conflict-controls) (*Constitutional forum recusal and enforcement routing*); [corpus_forum.md](corpus_forum.md) **CF-4** (*panel formation, disclosure, recusal, and lawful bench constitution*).
 - Forum routing: [Chapter Eleven §2](core_11-11_forum.md#2-default-venue-and-primary-stakes) (*Integrity default lead*); [Chapter Eleven §6](core_11-11_forum.md#6-transfer-consolidation-and-coordination) (*cross-forum anti-self-judging rule*).
 - Read with: [Procedural Fairness](core_05p_participation_definitions.md#procedural-fairness-constitutional), [Contestability](core_05a_accountability_definitions.md#contestability), [System Capture](core_05c_continuity_definitions.md#system-capture), and [Forum Family, Constitutional](core_05a_accountability_definitions.md#forum-family-constitutional).
 

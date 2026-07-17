@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-07-17T15:02:38+00:00",
+  "generated_at": "2026-07-17T16:29:58+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -575,10 +575,9 @@
           },
           {
             "file": "core_08-08_standing_assessment.md",
-            "count": 5,
+            "count": 4,
             "anchors": [
-              "#chapter-eight-compliance-violation-and-standing-model",
-              "#chapters-eight-eleven-constitutional-compass"
+              "#chapter-eight-compliance-violation-and-standing-model"
             ]
           },
           {
@@ -2847,10 +2846,9 @@
           },
           {
             "file": "core_08-08_standing_assessment.md",
-            "count": 4,
+            "count": 3,
             "anchors": [
-              "#7-contribution-axis-bands-and-table-2",
-              "#8-violation-axis-severity-ladder",
+              "#7-unified-proportional-lequ-scale",
               "#lequ-baseline-constitutional-outcome"
             ]
           },
@@ -3174,25 +3172,23 @@
           },
           {
             "file": "core_08-08_standing_assessment.md",
-            "count": 40,
+            "count": 37,
             "anchors": [
               "#2-purpose-and-role",
               "#2-standing-records",
               "#21-standing-records-as-the-unit-of-application",
               "#3-standing-record-operational-requirements",
               "#31-minimum-record-contents",
-              "#7-contribution-axis-bands-and-table-2",
               "#7-slot-grammar-and-display-labels",
-              "#8-violation-axis-severity-ladder",
+              "#7-unified-proportional-lequ-scale",
               "#chapter-eight-compliance-violation-and-standing-model",
-              "#chapters-eight-eleven-constitutional-compass",
               "#lequ-baseline-constitutional-outcome",
               "#verified-inputs-for-standing"
             ]
           },
           {
             "file": "core_09-09_standing_integration.md",
-            "count": 16,
+            "count": 17,
             "anchors": [
               "#5-standing-effects",
               "#51-remediation-capacity-and-funding",
@@ -4274,7 +4270,7 @@
         "targets": [
           {
             "file": "core_00_preamble.md",
-            "count": 8,
+            "count": 7,
             "anchors": [
               "#5-key-practical-process-pipelines",
               "#constitutional-tetrad",
@@ -4323,7 +4319,7 @@
           },
           {
             "file": "core_05a_accountability_definitions.md",
-            "count": 21,
+            "count": 16,
             "anchors": [
               "#accountability",
               "#contestability",
@@ -4341,23 +4337,17 @@
           },
           {
             "file": "core_05i_integrative_definitions.md",
-            "count": 9,
+            "count": 2,
             "anchors": [
-              "#constitutional-constraint",
               "#constitutional-constraint-violation",
-              "#constitutional-constraint-violation-a",
-              "#constitutional-constraint-violation-c",
               "#supremacy-and-enforceability"
             ]
           },
           {
             "file": "core_05o_oversight_definitions.md",
-            "count": 17,
+            "count": 8,
             "anchors": [
               "#auditability",
-              "#foreseeability-diligence",
-              "#foreseeability-diligence-a",
-              "#foreseeability-diligence-c",
               "#materiality-determination",
               "#materiality-determination-a",
               "#materiality-determination-c"
@@ -4365,11 +4355,8 @@
           },
           {
             "file": "core_05p_participation_definitions.md",
-            "count": 5,
+            "count": 1,
             "anchors": [
-              "#coercion-and-manipulation-constitutional",
-              "#coercion-and-manipulation-constitutional-a",
-              "#coercion-and-manipulation-constitutional-c",
               "#lifespan-equivalent-unit-lequ"
             ]
           },
@@ -4403,7 +4390,7 @@
           },
           {
             "file": "core_07_a_system_alignment_certification_evaluation.md",
-            "count": 3,
+            "count": 2,
             "anchors": [
               "#chapter-seven-part-a-certification-evaluation",
               "#chapter-seven-system-alignment-certification"
@@ -4411,7 +4398,7 @@
           },
           {
             "file": "core_07_b_system_alignment_certification_record_process.md",
-            "count": 2,
+            "count": 1,
             "anchors": [
               "#15-relationship-to-standing"
             ]
@@ -4424,25 +4411,16 @@
             ]
           },
           {
-            "file": "core_08-11_application_vignettes.md",
-            "count": 1,
-            "anchors": [
-              "#chapters-eight-eleven-application-vignettes"
-            ]
-          },
-          {
             "file": "core_09-09_standing_integration.md",
-            "count": 49,
+            "count": 46,
             "anchors": [
               "#210-safe-delegation-competency-gate-dimensions",
-              "#30-non-recurrence-evaluation-and-integration-examples",
               "#310-non-recurrence-lock-dimensions",
               "#312-misaligned-reward-reporting-forfeiture-and-correction",
               "#35-positive-standing-recognition",
               "#38-standing-integration-contribution-and-violation-nature",
-              "#6-extended-axis-ii-legal-hybrid-duty-and-harm-descriptors",
+              "#421-forum-disclosure-and-recusal-process-impact",
               "#71-shared-domain-lenses-cross-axis-vocabulary",
-              "#8-cross-axis-coupling-and-escalation-constraints",
               "#benefit-route-descriptors-q2-integration",
               "#chapter-nine-standing-effects-and-integration",
               "#competency-gates",
@@ -4456,25 +4434,18 @@
           },
           {
             "file": "core_10-10_misconduct.md",
-            "count": 8,
+            "count": 4,
             "anchors": [
-              "#610-forum-recusal-failure-and-biased-panel-participation",
               "#chapter-ten-anti-constitutional-misconduct"
             ]
           },
           {
             "file": "core_11-11_forum.md",
-            "count": 6,
+            "count": 4,
             "anchors": [
               "#10-timely-resolution-materiality-tiers-and-anti-delay-discipline",
-              "#6-transfer-consolidation-and-coordination",
               "#chapter-eleven-forums-and-jurisdiction"
             ]
-          },
-          {
-            "file": "corpus_forum.md",
-            "count": 1,
-            "anchors": []
           },
           {
             "file": "corpus_systems.md",
@@ -4664,7 +4635,7 @@
           },
           {
             "file": "core_06-06_rights_part_d.md",
-            "count": 18,
+            "count": 19,
             "anchors": [
               "#article-xxiii-a-justice-objective-and-scope",
               "#article-xxiii-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints",
@@ -4683,27 +4654,22 @@
           },
           {
             "file": "core_08-08_standing_assessment.md",
-            "count": 93,
+            "count": 88,
             "anchors": [
               "#11-three-question-evaluation-discipline",
               "#2-purpose-and-role",
               "#2-standing-records",
               "#22-linked-records-and-no-offset-bridge",
+              "#31-minimum-record-contents",
               "#33-collective-and-actor-specific-records",
               "#36-forum-boundary",
               "#4-standing-measurement-evaluation-dimensions",
               "#41-contribution-magnitude-input-dimensions",
-              "#41-formal-non-compliance",
-              "#42-remedial-substantive-non-compliance",
               "#42-violation-severity-input-dimensions",
-              "#44-duty-based-or-negligent-harm-violation",
               "#46-question-2-measurement-illustrations",
-              "#7-contribution-axis-bands-and-table-2",
-              "#8-violation-axis-severity-ladder",
-              "#9-forum-disclosure-and-recusal-process-impact",
+              "#7-unified-proportional-lequ-scale",
               "#benefit-route-descriptors-q2-measurement-role",
               "#chapter-eight-compliance-violation-and-standing-model",
-              "#chapters-eight-eleven-constitutional-compass",
               "#contribution-table-q1-magnitude-input-dimensions",
               "#contribution-table-q2-magnitude-input-dimensions",
               "#dual-use-measurement-dimensions",
@@ -4721,23 +4687,22 @@
           },
           {
             "file": "core_09-09_standing_integration.md",
-            "count": 12,
+            "count": 7,
             "anchors": [
               "#10-enforcement-realism-anchors",
               "#62-joint-assessment-escalation-constraints-and-scrutiny",
-              "#9-violation-axis-s-7-9-anti-constitutional-misconduct-authoritative-location",
               "#competency-gates",
               "#standing-integration-slot-band-standing-locks",
               "#standing-lock-context-compass",
-              "#standing-lock-record-visibility-and-escalation",
               "#standing-locks-in-the-standing-model",
               "#violation-axis-slot-lock-and-attachment-compass"
             ]
           },
           {
             "file": "core_10-10_misconduct.md",
-            "count": 19,
+            "count": 23,
             "anchors": [
+              "#610-forum-recusal-failure-and-biased-panel-participation",
               "#62-rights-floor-waivers-and-unconstitutional-contract-terms",
               "#66-unlawful-or-unconstitutional-command-conduct",
               "#67-reward-protection-or-normalization-of-anti-constitutional-conduct",
@@ -4746,9 +4711,10 @@
           },
           {
             "file": "core_11-11_forum.md",
-            "count": 14,
+            "count": 15,
             "anchors": [
               "#10-timely-resolution-materiality-tiers-and-anti-delay-discipline",
+              "#6-transfer-consolidation-and-coordination",
               "#chapter-eleven-forums-and-jurisdiction"
             ]
           },
@@ -4757,6 +4723,18 @@
             "count": 1,
             "anchors": [
               "#4-disputes-involving-external-legal-orders"
+            ]
+          },
+          {
+            "file": "corpus_forum.md",
+            "count": 1,
+            "anchors": []
+          },
+          {
+            "file": "corpus_forum/cf_04_panel_formation_disclosure_recusal_bench_constitution.md",
+            "count": 1,
+            "anchors": [
+              "#cf-4-panel-formation-disclosure-recusal-and-lawful-bench-constitution"
             ]
           },
           {
@@ -4971,13 +4949,11 @@
           },
           {
             "file": "core_08-08_standing_assessment.md",
-            "count": 10,
+            "count": 6,
             "anchors": [
               "#7-slot-grammar-and-display-labels",
-              "#8-violation-axis-severity-ladder",
-              "#9-forum-disclosure-and-recusal-process-impact",
-              "#chapter-eight-compliance-violation-and-standing-model",
-              "#chapters-eight-eleven-constitutional-compass"
+              "#7-unified-proportional-lequ-scale",
+              "#chapter-eight-compliance-violation-and-standing-model"
             ]
           },
           {
@@ -4987,6 +4963,7 @@
               "#312-misaligned-reward-reporting-forfeiture-and-correction",
               "#38-standing-integration-contribution-and-violation-nature",
               "#410-collective-accountability-and-acquiescent-participation",
+              "#421-forum-disclosure-and-recusal-process-impact",
               "#67-duty-to-resist-unlawful-or-unconstitutional-instructions",
               "#9-violation-axis-s-7-9-anti-constitutional-misconduct-authoritative-location",
               "#chapter-nine-standing-effects-and-integration"
@@ -5149,18 +5126,15 @@
           },
           {
             "file": "core_08-08_standing_assessment.md",
-            "count": 22,
+            "count": 21,
             "anchors": [
               "#2-standing-records",
               "#3-standing-record-operational-requirements",
               "#36-forum-boundary",
               "#4-standing-measurement-evaluation-dimensions",
               "#6-slot-grammar-and-display-labels",
-              "#7-contribution-axis-bands-and-table-2",
-              "#8-violation-axis-severity-ladder",
-              "#9-forum-disclosure-and-recusal-process-impact",
+              "#7-unified-proportional-lequ-scale",
               "#chapter-eight-compliance-violation-and-standing-model",
-              "#chapters-eight-eleven-constitutional-compass",
               "#verified-inputs-for-standing"
             ]
           },
@@ -5173,8 +5147,9 @@
           },
           {
             "file": "core_09-09_standing_integration.md",
-            "count": 15,
+            "count": 16,
             "anchors": [
+              "#421-forum-disclosure-and-recusal-process-impact",
               "#6-extended-axis-ii-legal-hybrid-duty-and-harm-descriptors",
               "#71-shared-domain-lenses-cross-axis-vocabulary",
               "#72-stackable-benefit-and-stewardship-descriptors-contribution-state-supplement",
@@ -5185,7 +5160,7 @@
           },
           {
             "file": "core_10-10_misconduct.md",
-            "count": 11,
+            "count": 12,
             "anchors": [
               "#3-violation-axis-s-7-9-slot-assignment-incident-gravity",
               "#4-due-process-safeguards-for-slot-assignment",
@@ -5277,7 +5252,7 @@
           },
           {
             "file": "core_08-08_standing_assessment.md",
-            "count": 12,
+            "count": 13,
             "anchors": [
               "#2-standing-records",
               "#22-linked-records-and-no-offset-bridge",
@@ -5285,9 +5260,8 @@
               "#32-related-record-cross-references",
               "#36-forum-boundary",
               "#4-standing-measurement-evaluation-dimensions",
-              "#42-violation-severity-input-dimensions",
               "#46-question-2-measurement-illustrations",
-              "#chapters-eight-eleven-constitutional-compass",
+              "#7-unified-proportional-lequ-scale",
               "#dual-use-measurement-dimensions"
             ]
           },
@@ -5574,13 +5548,6 @@
             "anchors": [
               "#3-whole-system-certification-evaluation",
               "#chapter-seven-system-alignment-certification"
-            ]
-          },
-          {
-            "file": "core_08-08_standing_assessment.md",
-            "count": 4,
-            "anchors": [
-              "#chapters-eight-eleven-constitutional-compass"
             ]
           },
           {
@@ -6262,23 +6229,22 @@
           },
           {
             "file": "core_08-08_standing_assessment.md",
-            "count": 14,
+            "count": 10,
             "anchors": [
               "#2-standing-records",
               "#31-minimum-record-contents",
               "#36-forum-boundary",
-              "#8-violation-axis-severity-ladder",
-              "#9-forum-disclosure-and-recusal-process-impact",
+              "#7-unified-proportional-lequ-scale",
               "#chapter-eight-compliance-violation-and-standing-model",
-              "#chapters-eight-eleven-constitutional-compass",
               "#verified-inputs-for-standing"
             ]
           },
           {
             "file": "core_09-09_standing_integration.md",
-            "count": 19,
+            "count": 20,
             "anchors": [
               "#37-reinstatement-review-and-non-entrenchment",
+              "#421-forum-disclosure-and-recusal-process-impact",
               "#62-coercive-or-liberty-restricting-safeguard-character",
               "#anti-constitutional-trust-lock",
               "#chapter-nine-standing-effects-and-integration",
@@ -6498,10 +6464,9 @@
           },
           {
             "file": "core_08-08_standing_assessment.md",
-            "count": 5,
+            "count": 2,
             "anchors": [
               "#chapter-eight-compliance-violation-and-standing-model",
-              "#chapters-eight-eleven-constitutional-compass",
               "#verified-inputs-for-standing"
             ]
           },
@@ -6827,10 +6792,10 @@
           },
           {
             "file": "core_08-08_standing_assessment.md",
-            "count": 10,
+            "count": 12,
             "anchors": [
-              "#7-contribution-axis-bands-and-table-2",
               "#7-slot-grammar-and-display-labels",
+              "#7-unified-proportional-lequ-scale",
               "#chapter-eight-compliance-violation-and-standing-model"
             ]
           },
@@ -12657,13 +12622,6 @@
             ]
           },
           {
-            "file": "core_08-08_standing_assessment.md",
-            "count": 1,
-            "anchors": [
-              "#chapters-eight-eleven-constitutional-compass"
-            ]
-          },
-          {
             "file": "core_11-11_forum.md",
             "count": 4,
             "anchors": [
@@ -13171,18 +13129,17 @@
           },
           {
             "file": "core_08-08_standing_assessment.md",
-            "count": 8,
+            "count": 4,
             "anchors": [
               "#31-minimum-record-contents",
-              "#8-violation-axis-severity-ladder",
-              "#9-forum-disclosure-and-recusal-process-impact"
+              "#7-unified-proportional-lequ-scale"
             ]
           },
           {
             "file": "core_09-09_standing_integration.md",
-            "count": 2,
+            "count": 4,
             "anchors": [
-              "#8-cross-axis-coupling-and-escalation-constraints"
+              "#421-forum-disclosure-and-recusal-process-impact"
             ]
           },
           {

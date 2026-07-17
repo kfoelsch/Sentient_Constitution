@@ -36,8 +36,8 @@ Filename renames require: reference audit, same-change link updates, dated evide
 | Values, definition mechanics, definitions | Sentient Constitution `core_*` Ch 1–5 | [README.md](README.md) reading order |
 | Rights (Articles I–XXVI) | Ch 6 | `core_06-06_rights_part_*.md`; titles via `make reference-audit` |
 | System alignment certification | Ch 7 | `core_07_a_system_alignment_certification_evaluation.md` (Part A — evaluation); `core_07_b_system_alignment_certification_record_process.md` (Part B — record and process); reading index: `core_07-07_system_alignment_certification.md` |
-| Standing pipeline | Ch 8–10 | `core_08-08_standing_assessment.md` through `core_10-10_misconduct.md`; comprehension layer: [Chapters Eight–Eleven compass](core_08-08_standing_assessment.md#chapters-eight-eleven-constitutional-compass) |
-| Forums (constitutional) | Ch 11 | `core_11-11_forum.md` (same compass) |
+| Standing pipeline | Ch 8–10 | `core_08-08_standing_assessment.md` through `core_10-10_misconduct.md`; navigation: [README — Standing pipeline and forums](README.md#standing-pipeline-and-forums) |
+| Forums (constitutional) | Ch 11 | `core_11-11_forum.md`; same [README navigation](README.md#standing-pipeline-and-forums) |
 | Governance / amendment / incorporation | Ch 12–16 | `core_12-12_governance.md`, `core_13-15_amendment.md`, `core_16-16_incorporation.md` |
 | Cross-implementation joint structure | CJS | [corpus_joint_structure.md](corpus_joint_structure.md) **CJS-2.1** (*Topic router*) |
 | Systems, institutions, forum operations | CS / CI / CF | Companion wrappers + subfiles |
@@ -136,7 +136,7 @@ Each numbered owner-layer chapter states **who owns what** in one binding operat
 3. Chapter- or part-level **Reader guidance** widget(s), when present.
 4. Chapter-opening **Trace** widget (when the file carries a chapter-level Trace before numbered sections).
 5. **Binding owner opening line** — operative prose, visible without expanding widgets.
-6. Optional chapter-specific orientation blocks that are substantive but not widgets (example: [Chapters Eight–Eleven constitutional compass](core_08-08_standing_assessment.md#chapters-eight-eleven-constitutional-compass) in Chapter Eight).
+6. Optional chapter-specific orientation blocks that are substantive but not widgets.
 7. `*In plain terms:*` gloss and numbered sections — section-level Trace / D/A/C under each heading in the order already required by **NAV-TRACE-08–10** and **NAV-DAC-12-ORDER**.
 
 In **multi-chapter** files (`core_02-03`, `core_13-15`), repeat steps 2–6 at each `## CHAPTER …` boundary: that chapter's reader-guidance widget (if any), then its chapter-opening Trace (if any), then its binding owner line, then optional orientation and sections.

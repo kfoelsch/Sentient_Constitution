@@ -19,11 +19,11 @@
 
 > The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this chapter or in other chapters.
 >
-> | Question | Chapter Eight's role |
+> | Question | Owner and role |
 > | --- | --- |
 > | **1. What happened?** | Establish verified facts in a bounded, contestable record. |
 > | **2. How good or bad was it?** | Measure the verified facts without merging help and harm. |
-> | **3. What happens because of it?** | State the boundary and continue to [Chapter Nine](core_09-09_standing_integration.md#chapter-nine-standing-effects-and-integration). |
+> | **3. What happens because of it?** | Continue to [Chapter Nine](core_09-09_standing_integration.md#chapter-nine-standing-effects-and-integration). |
 >
 > Allegations, popularity, and dispute narratives are not answers to Question 1. A desired rating cannot supply the facts for Question 1, and a desired consequence cannot supply the rating for Question 2.
 
@@ -37,8 +37,8 @@
 - Upstream: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad); [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims); [material stake](core_00_preamble.md#material-stake); [Chapter Zero §5 Key Practical Process Pipelines](core_00_preamble.md#5-key-practical-process-pipelines) (*Chapters Seven through Eleven chain*).
 - Upstream: [Chapter One](core_01_c_stewardship_capacity_principles.md#chapter-01-principles-and-constraints) (*Plain-Language Accessibility* stewardship reflected in section-level gloss); [Chapter One §7 — Stewardship and Distributed Understanding](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding) (*principle-layer foundation for competence-linked, traceable standing — trust, roles, and recognition*); [Chapters Two through Four](core_02-03_definition_mechanics.md) (*integrity, records, and verification*); [Chapter Five](core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) (*definitions and supremacy read with Chapters Two through Four*).
 - Upstream: [Chapter Seven](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) (*system alignment certification*); [Part B §15](core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing) (*standing bridge — potential verified inputs only*).
-- Standing pipeline: [Chapters Eight–Eleven constitutional compass](#chapters-eight-eleven-constitutional-compass); [Chapter Eight — Measurement](core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) (*three-question frame, Question 1 records, Question 2 measurement, and Question 3 bridge — sections **1–10***); [Chapter Nine — Standing Effects and Integration](core_09-09_standing_integration.md#chapter-nine-standing-effects-and-integration) (*Question 3 effects and integration*); [Chapter Ten](core_10-10_misconduct.md#chapter-ten-anti-constitutional-misconduct) (*top-slot Question 2 review*).
-- Subsections in this file: [§1](#2-purpose-and-role) (*three-question frame and scope*); [§2](#2-standing-records) (*Question 1 — verified facts and records*); [§3](#3-standing-record-operational-requirements) (*verification and record requirements*); [§4](#4-standing-measurement-evaluation-dimensions) (*Question 2 — measurement dimensions*); [§5](#5-slot-grammar-and-lequ-calibration) (*slot grammar and shared scaling*); [§6](#6-constitutional-inputs-to-axis-assignment) (*constitutional-source routing*); [§7](#7-contribution-axis-bands-and-table-2) (*Contribution Axis*); [§8](#8-violation-axis-severity-ladder) (*Violation Axis*); [§9](#9-forum-disclosure-and-recusal-process-impact) (*forum-integrity modifier*); [§10](#10-question-3-what-happens-because-of-it) (*Question 3 boundary and Chapter Nine bridge*).
+- Standing pipeline: [README — Standing pipeline and forums](README.md#standing-pipeline-and-forums); [Chapter Eight — Measurement](core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) (*three-question frame, Question 1 records, and Question 2 measurement — sections **1–7***); [Chapter Nine — Standing Effects and Integration](core_09-09_standing_integration.md#chapter-nine-standing-effects-and-integration) (*Question 3 effects and integration*); [Chapter Ten](core_10-10_misconduct.md#chapter-ten-anti-constitutional-misconduct) (*top-slot Question 2 review*).
+- Subsections in this file: [§1](#2-purpose-and-role) (*three-question frame and scope*); [§2](#2-standing-records) (*Question 1 — verified facts and records*); [§3](#3-standing-record-operational-requirements) (*verification and record requirements*); [§4](#4-standing-measurement-evaluation-dimensions) (*Question 2 — measurement dimensions*); [§5](#5-slot-grammar-and-lequ-calibration) (*slot grammar and shared scaling*); [§6](#6-constitutional-inputs-to-axis-assignment) (*constitutional-source routing*); [§7](#7-unified-proportional-lequ-scale) (*unified proportional LEQU scale for both axes*).
 - Downstream: [Chapter Ten](core_10-10_misconduct.md#chapter-ten-anti-constitutional-misconduct) (*specialized top-level gravity review*); [Chapter Eleven](core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) (*forum supervision and routing*); [Article XXIV-C](core_06-06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor) (*timely resolution*); [Article XXIII](core_06-06_rights_part_d.md#article-xxiii-a-justice-objective-and-scope) (*justice constraints*).
 - Read with: [Chapter Five *Standing State, Contribution, and Violation*](core_05a_accountability_definitions.md#standing-state-contribution-and-violation-cluster) (*canonical definition routing*).
 - Read with: [README.md](README.md) (*reading order*); [doc_architecture.md](doc_architecture.md) (*non-binding editorial maps unless adopted*).
@@ -66,7 +66,7 @@ Chapter Eight owns the verified factual record for Question 1 and the standing m
 | --- | --- | --- |
 | **1. What happened?** | Which facts are verified, about whom or what, during what period, and with what record and challenge status? | [Section 2](#2-standing-records) |
 | **2. How good or bad was it?** | What kind and magnitude of contribution or violation do those facts establish? | [Section 4](#4-standing-measurement-evaluation-dimensions) |
-| **3. What happens because of it?** | What recognition, readiness, remedy, safeguard, restriction, or other consequence follows? | [Section 10](#10-question-3-what-happens-because-of-it), continuing in [Chapter Nine](core_09-09_standing_integration.md#chapter-nine-standing-effects-and-integration) |
+| **3. What happens because of it?** | What recognition, readiness, remedy, safeguard, restriction, or other consequence follows? | [Chapter Nine](core_09-09_standing_integration.md#chapter-nine-standing-effects-and-integration) |
 
 Each question depends on the answer before it:
 
@@ -90,7 +90,7 @@ Chapter Eight measurement does **not**, by itself, authorize force, detention, o
 <summary><strong><span style="color: #2563eb;">Trace · Definitions · Assessment · Compliance</span></strong></summary>
 
 - Upstream: [Chapter One §7 — Stewardship and Distributed Understanding](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding); [Chapters Two through Four](core_02-03_definition_mechanics.md); [Chapter Five](core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions).
-- Downstream: [§2](#2-standing-records) (*Question 1*); [§3](#3-standing-record-operational-requirements) (*verification and record requirements*); [§4](#4-standing-measurement-evaluation-dimensions) (*Question 2 measurement*); [§5](#5-slot-grammar-and-lequ-calibration) (*slot grammar and shared scaling*); [§6](#6-constitutional-inputs-to-axis-assignment) (*constitutional-source routing*); [§7](#7-contribution-axis-bands-and-table-2) (*Contribution Axis*); [§8](#8-violation-axis-severity-ladder) (*Violation Axis*); [§9](#9-forum-disclosure-and-recusal-process-impact) (*forum-integrity modifier*); [§10](#10-question-3-what-happens-because-of-it) and [Chapter Nine](core_09-09_standing_integration.md#chapter-nine-standing-effects-and-integration) (*Question 3*).
+- Downstream: [§2](#2-standing-records) (*Question 1*); [§3](#3-standing-record-operational-requirements) (*verification and record requirements*); [§4](#4-standing-measurement-evaluation-dimensions) (*Question 2 measurement*); [§5](#5-slot-grammar-and-lequ-calibration) (*slot grammar and shared scaling*); [§6](#6-constitutional-inputs-to-axis-assignment) (*constitutional-source routing*); [§7](#7-unified-proportional-lequ-scale) (*unified proportional LEQU scale for both axes*); [Chapter Nine](core_09-09_standing_integration.md#chapter-nine-standing-effects-and-integration) (*Question 3*).
 - [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination) · [O](core_05o_oversight_definitions.md#materiality-determination) · [A](core_05o_oversight_definitions.md#materiality-determination-a) · [C](core_05o_oversight_definitions.md#materiality-determination-c)
 - [Harm](core_05a_accountability_definitions.md#harm) · [O](core_05a_accountability_definitions.md#harm) · [A](core_05a_accountability_definitions.md#harm-a) · [C](core_05a_accountability_definitions.md#harm-c)
 - [Proportionality](core_05a_accountability_definitions.md#proportionality) · [O](core_05a_accountability_definitions.md#proportionality) · [A](core_05a_accountability_definitions.md#proportionality-a) · [C](core_05a_accountability_definitions.md#proportionality-c)
@@ -107,7 +107,7 @@ Chapter Eight measurement does **not**, by itself, authorize force, detention, o
 
 - Upstream: [§1](#2-purpose-and-role) (*three-question frame*); [Chapters Two through Four](core_02-03_definition_mechanics.md) (*record, verification, and tracing discipline*).
 - Tetrad leg(s): **participation**; **oversight** (contestability and challenge paths). Primary aim(s): **Flourishing** and **Continuity** (traceable records that preserve separate contribution and violation findings for later measurement).
-- Downstream: [§2.2](#22-linked-records-and-no-offset-bridge) (*linked-record no-offset bridge*); [§2.3](#23-question-1-event-type-guide) (*event-type guide*); [§3](#3-standing-record-operational-requirements) (*verified-input gate and forum boundary*); [§4](#4-standing-measurement-evaluation-dimensions) (*Question 2 measurement*); [§5](#5-slot-grammar-and-lequ-calibration) (*slot grammar and shared scaling*); [§6](#6-constitutional-inputs-to-axis-assignment) (*constitutional-source routing*); [§7](#7-contribution-axis-bands-and-table-2) (*Contribution Axis*); [§8](#8-violation-axis-severity-ladder) (*Violation Axis*); [§9](#9-forum-disclosure-and-recusal-process-impact) (*forum-integrity modifier*); [§10](#10-question-3-what-happens-because-of-it) and [Chapter Nine](core_09-09_standing_integration.md#chapter-nine-standing-effects-and-integration) (*Question 3*).
+- Downstream: [§2.2](#22-linked-records-and-no-offset-bridge) (*linked-record no-offset bridge*); [§2.3](#23-question-1-event-type-guide) (*event-type guide*); [§3](#3-standing-record-operational-requirements) (*verified-input gate and forum boundary*); [§4](#4-standing-measurement-evaluation-dimensions) (*Question 2 measurement*); [§5](#5-slot-grammar-and-lequ-calibration) (*slot grammar and shared scaling*); [§6](#6-constitutional-inputs-to-axis-assignment) (*constitutional-source routing*); [§7](#7-unified-proportional-lequ-scale) (*unified proportional LEQU scale for both axes*); [Chapter Nine](core_09-09_standing_integration.md#chapter-nine-standing-effects-and-integration) (*Question 3*).
 
 </details>
 
@@ -147,7 +147,7 @@ Any later standing effect belongs to Chapter Nine and must be traceable back to 
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [§2.1](#21-standing-records-as-the-unit-of-application) (*separate contribution and violation records*).
-- Downstream: [§3.1](#31-minimum-record-contents) (*verified-input gate*); [§3.2](#32-related-record-cross-references) (*cross-references*); [§3.6](#36-forum-boundary) (*forum boundary*); [§4](#4-standing-measurement-evaluation-dimensions) (*Question 2 measurement*); [§5](#5-slot-grammar-and-lequ-calibration) (*slot grammar and shared scaling*); [§6](#6-constitutional-inputs-to-axis-assignment) (*constitutional-source routing*); [§7](#7-contribution-axis-bands-and-table-2) (*Contribution Axis*); [§8](#8-violation-axis-severity-ladder) (*Violation Axis*); [§9](#9-forum-disclosure-and-recusal-process-impact) (*forum-integrity modifier*); [§10](#10-question-3-what-happens-because-of-it) (*Question 3 bridge*).
+- Downstream: [§3.1](#31-minimum-record-contents) (*verified-input gate*); [§3.2](#32-related-record-cross-references) (*cross-references*); [§3.6](#36-forum-boundary) (*forum boundary*); [§4](#4-standing-measurement-evaluation-dimensions) (*Question 2 measurement*); [§5](#5-slot-grammar-and-lequ-calibration) (*slot grammar and shared scaling*); [§6](#6-constitutional-inputs-to-axis-assignment) (*constitutional-source routing*); [§7](#7-unified-proportional-lequ-scale) (*unified proportional LEQU scale for both axes*); [Chapter Nine](core_09-09_standing_integration.md#chapter-nine-standing-effects-and-integration) (*Question 3*).
 - Read with: [Chapter Nine — Standing integration](core_09-09_standing_integration.md#38-standing-integration-contribution-and-violation-nature) (*non-waiver and linked-record integration*); [Chapter Nine §1.2 — Competency gates](core_09-09_standing_integration.md#competency-gates); [Chapter Nine §1.3 — Standing locks](core_09-09_standing_integration.md#standing-locks-in-the-standing-model).
 
 </details>
@@ -272,9 +272,9 @@ Every standing record must include, at minimum:
 
 **Violation standing records** must also state:
 
-- the Question 2 violation measurement, including the finding authority or record basis, severity level, slot `s` where assigned, process / response character where applicable, and whether Chapter Ten controls final top-slot assignment;
+- the Question 2 violation measurement, including the finding authority or record basis, LEQU impact, slot `s` where assigned, process / response character where applicable, and any Chapter Ten designation status;
 - where violation is shared or distributed, the verified basis for any actor-specific adverse standing, including causal role, duty, authority, control, foreseeability, benefit, concealment, or feasible prevention capacity;
-- where the violation finding involves a forum disclosure omission or intentional recusal-process failure, the verified basis for the omission or failure, the unmet disclosure or recusal duty, the actor's knowledge, recklessness, or intent where found, and whether the conduct materially affected panel lawfulness, independence, recusal challenge, evidence integrity, remedy timing, backup routing, or practical contestability (read **§9** for measurement discipline); and
+- where the violation finding involves a forum disclosure omission or intentional recusal-process failure, the verified basis for the omission or failure, the unmet disclosure or recusal duty, the actor's knowledge, recklessness, or intent where found, and whether the conduct materially affected panel lawfulness, independence, recusal challenge, evidence integrity, remedy timing, backup routing, or practical contestability (read **§4.2** for measurement discipline); and
 - the violation measurement basis that any later Chapter Nine standing effect must use.
 
 <a id="32-related-record-cross-references"></a>
@@ -351,7 +351,7 @@ This boundary does **not** reduce challenge, remedy, interim relief, or procedur
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [§2](#2-standing-records) (*Question 1 — standing records and verified facts*); [§3](#3-standing-record-operational-requirements) (*verified-input gate and record requirements*); [§1](#11-three-question-evaluation-discipline) (*three-question frame*).
-- Downstream: [§5](#5-slot-grammar-and-lequ-calibration) (*slot grammar and shared scaling*); [§6](#6-constitutional-inputs-to-axis-assignment) (*constitutional-source routing*); [§7](#7-contribution-axis-bands-and-table-2) (*Contribution Axis assignment*); [§8](#8-violation-axis-severity-ladder) (*Violation Axis assignment*); [Chapter Nine §2.10](core_09-09_standing_integration.md#210-safe-delegation-competency-gate-dimensions) (*contribution Question 3 — safe delegation*); [Chapter Nine §3.10](core_09-09_standing_integration.md#310-non-recurrence-lock-dimensions) (*violation Question 3 — non-recurrence*).
+- Downstream: [§5](#5-slot-grammar-and-lequ-calibration) (*slot grammar and shared scaling*); [§6](#6-constitutional-inputs-to-axis-assignment) (*constitutional-source routing*); [§7](#7-unified-proportional-lequ-scale) (*Contribution and Violation Axis assignment*); [Chapter Nine §2.10](core_09-09_standing_integration.md#210-safe-delegation-competency-gate-dimensions) (*contribution Question 3 — safe delegation*); [Chapter Nine §3.10](core_09-09_standing_integration.md#310-non-recurrence-lock-dimensions) (*violation Question 3 — non-recurrence*).
 - Read with: [§3.1](#31-minimum-record-contents) (*verified record fields; no standing effects in Chapter Eight*).
 
 </details>
@@ -374,7 +374,7 @@ A **full-life-equivalent constitutional benefit** means verified benefit compara
 
 - **Not a net-score rule.** You cannot "cancel out" violations with contributions or vice versa. Each axis stands alone.
 - **Not a mandatory human-life metric.** The LEQU is sentient-generic; it applies to any conscious being, not just humans.
-- **Not an accusation metric.** Allegations, intake tags, routing decisions, reputation, disfavored status, or moral dislike do not supply Contribution Axis benefit or Violation Axis severity without verified inputs under **section 3.1** and calibration under **sections 7–8**.
+- **Not an accusation metric.** Allegations, intake tags, routing decisions, reputation, disfavored status, or moral dislike do not supply Contribution Axis benefit or Violation Axis severity without verified inputs under **section 3.1** and calibration under **section 7**.
 - **Not a license to trade rights.** Claims framed as efficiency, productive capacity, innovation, burden reduction, security, retaliation, emergency response, or institutional necessity must be discounted or rejected where they depend on coercion, discriminatory burden shifting, ecological depletion, hidden unpaid work, avoidable opacity, Rights-Floor narrowing, capture, misleading proxies, loss of contestability, or unreviewable aggregation.
 
 **Question 2 only.** Use these dimensions to measure the verified facts established under **section 2** and recorded under **section 3**. Names for kinds of help or harm come from [Chapter Nine's domain-lens catalog](core_09-09_standing_integration.md#71-shared-domain-lenses-cross-axis-vocabulary). The **benefit-route** table in **section 4.3** and **harm-route** table in **section 4.4** say how each name counts toward *how good* or *how bad*. Question 3 uses appear in Chapter Nine ([benefit side](core_09-09_standing_integration.md#benefit-route-descriptors-q2-integration); [harm side](core_09-09_standing_integration.md#harm-route-descriptors-q2-integration)).
@@ -391,7 +391,7 @@ A **full-life-equivalent constitutional benefit** means verified benefit compara
 
 | **Dimension** | **Role in Q2** | **Corpus anchor** |
 | --- | --- | --- |
-| **Constitutional outcome magnitude (LEQU)** | Primary benefit anchor — integrated verified constitutional gain | [Chapter Eight §7](#7-contribution-axis-bands-and-table-2); `s` = 7 begins at ≥1 LEQU saved or transformed |
+| **Constitutional outcome magnitude (LEQU)** | Primary benefit anchor — integrated verified constitutional gain | [Chapter Eight §7](#7-unified-proportional-lequ-scale); `s` = 7 begins at ≥1 LEQU saved or transformed |
 | **Sentient scope (count, depth, vulnerability)** | Modulates LEQU assessment and materiality | [Chapter Eight §5.2](#52-shared-impact-scaling-rules); [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination) |
 | **Temporal scope (duration, durability)** | Modulates LEQU assessment | Lasting stewardship, cross-generational benefit, durable institutional repair toward `s` = 8–9 |
 | **Spatial / institutional scope** | Modulates LEQU assessment | Cross-community, cross-institutional, or civilization-scale benefit |
@@ -420,25 +420,26 @@ Do **not** split LEQU into parallel ecological, system, or resource benefit scor
 
 #### 4.2 Violation severity-input dimensions
 
-**Violation table — Question 2: severity-input dimensions (how bad was it?).** These dimensions feed Violation Axis slot assignment and stacked harm descriptors recorded in the **violation standing record**. Operative slot criteria and LEQU calibration are in **section 8**.
+**Violation table — Question 2: severity-input dimensions (how bad was it?).** These dimensions feed Violation Axis slot assignment and stacked harm descriptors recorded in the **violation standing record**. Operative slot criteria and LEQU calibration are in the unified scale in **section 7**.
 
 | **Dimension** | **Role in Q2** | **Corpus anchor** |
 | --- | --- | --- |
-| **Constitutional outcome magnitude (LEQU)** | Primary loss-magnitude input — integrated verified constitutional loss | [Chapter Eight §8](#8-violation-axis-severity-ladder); magnitude does not by itself assign a Chapter Ten top slot |
+| **Constitutional outcome magnitude (LEQU)** | Primary and controlling slot input — integrated verified constitutional loss | [Chapter Eight §7](#7-unified-proportional-lequ-scale); Chapter Ten designation remains separate |
 | **Sentient scope (count, depth, vulnerability)** | Modulates LEQU assessment and materiality | [Chapter Eight §5.2](#52-shared-impact-scaling-rules); [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination) |
-| **Temporal scope (duration, irreversibility)** | Modulates LEQU assessment | Persistent trauma, irreversible loss, and durable agency impairment increase loss magnitude; top-slot relevance remains subject to Chapter Ten |
-| **Spatial / institutional scope** | Modulates LEQU assessment | Cross-community, cross-institutional, or civilizational reach; top-slot relevance remains subject to Chapter Ten |
+| **Temporal scope (duration, irreversibility)** | Modulates LEQU assessment | Persistent trauma, irreversible loss, and durable agency impairment increase the integrated loss estimate |
+| **Spatial / institutional scope** | Modulates LEQU assessment | Cross-community, cross-institutional, or civilizational reach may increase the integrated loss estimate |
 | **Harm-route stack** | Names routes of verified harm; stackable | [Chapter Nine §2.1](core_09-09_standing_integration.md#71-shared-domain-lenses-cross-axis-vocabulary); [**harm-route descriptors**](#harm-route-descriptors-q1-measurement-role) |
-| **Conduct-character stack** | How harm was caused; may characterize or escalate ordinary severity | Violence/coercion may support `s` = 6; negligence may support `s` = 4; deception/concealment may support `s` = 5; Rights-Floor defeat may support `s` = 3; `s` = 7–9 require Chapter Ten |
+| **Conduct-character stack** | How harm was caused; separately recorded from impact | Duty, negligence, deception, concealment, coercion, violence, intent, and structural enablement inform attribution, safeguards, and response but do not move the LEQU slot |
 
 **Violation conduct-character application.** Apply the conduct-character stack separately from outcome magnitude:
 
-- avoidable response or escalation delay may support `s` = 4–5 when a duty and feasible capacity to act existed and the delay compounded harm;
-- deception, concealment, evasion, repetition after notice, reckless disregard, structural enablement, or material dependency-asymmetry abuse may support aggravated `s` = 5;
-- violence, coercion, manipulation, or liberty danger may support `s` = 6;
+- avoidable response or escalation delay is recorded where a duty and feasible capacity to act existed; any compounded loss enters the LEQU estimate once, while the delay remains a separate character fact;
+- independently verified forum-integrity injury enters the proportional LEQU estimate exactly once; dishonest omission, intentional recusal-process failure, coercion, liberty danger, and other conduct-character facts remain separate descriptors and do not move the impact slot;
+- deception, concealment, evasion, repetition after notice, reckless disregard, structural enablement, or material dependency-asymmetry abuse remain separately recorded conduct-character facts;
+- violence, coercion, manipulation, or liberty danger remain separately recorded and may require heightened safeguards regardless of slot;
 - diffusion concerns distributed causal role, authority, control, foreseeability, benefit, concealment, or feasible prevention capacity; it is not part of **sentient scope** and does not permit blame by group membership;
 - acquiescent participation or failure to resist may support duty-based, aggravated, or collective-accountability character only when the actor-specific linkage required by **sections 3.1 and 3.3** is verified; and
-- knowing acceptance or retention of a material misaligned reward without timely protected reporting may support `s` = 4–5 under [Chapter Nine §3.12](core_09-09_standing_integration.md#312-misaligned-reward-reporting-forfeiture-and-correction), subject to [Article XXVI-A](core_06-06_rights_part_d.md#incentive-alignment-transition-carve-out).
+- knowing acceptance or retention of a material misaligned reward without timely protected reporting is recorded under [Chapter Nine §3.12](core_09-09_standing_integration.md#312-misaligned-reward-reporting-forfeiture-and-correction), subject to [Article XXVI-A](core_06-06_rights_part_d.md#incentive-alignment-transition-carve-out); only its verified constitutional loss affects the slot.
 
 **Misaligned-reward boundary.** This chapter only measures how a verified misaligned reward affects the Contribution Axis or Violation Axis. [Chapter Nine §3.12](core_09-09_standing_integration.md#312-misaligned-reward-reporting-forfeiture-and-correction) states the reporting duty, exclusions, forfeiture consequences, correction duties, and routing rules.
 
@@ -491,20 +492,20 @@ Do **not** split violation-side LEQU into parallel ecological-harm, system-harm,
 
 | **Harm-route descriptor** | **Chapter Nine §2.1 anchor** | **Q2 (how bad?)** |
 | --- | --- | --- |
-| **Violent Misconduct** | Chapter Nine §2.1.1 | May support `s` = 6 when coercion or liberty danger is verified; Chapter Ten controls any top-slot review |
+| **Violent Misconduct** | Chapter Nine §2.1.1 | Records violence, coercion, or liberty danger separately from the LEQU impact slot; may require heightened safeguards |
 | **Interpersonal / Care Duty Misconduct** | Chapter Nine §2.1.1 | Higher materiality in dependency-asymmetric settings |
-| **Info-Sphere Misconduct** | Chapter Nine §2.1.3 | Degraded Safety/Truth; may stack with aggravated `s` = 5 |
-| **Property Misconduct** | Chapter Nine §2.1.2 | Remedial substantive band unless aggravated |
+| **Info-Sphere Misconduct** | Chapter Nine §2.1.3 | Degraded Safety or Truth; concealment and deception remain separate character facts |
+| **Property Misconduct** | Chapter Nine §2.1.2 | Property-loss route; slot follows integrated LEQU loss |
 | **Ecological Misconduct** | Chapter Nine §2.1.5 | Continuity-weighted LEQU; may stack with violent route |
-| **System Misconduct** | Chapter Nine §2.1.4 | Diffusion and structural enablement; may stack with aggravated features |
-| **Anti-Constitutional Misconduct** (descriptor) | Chapter Nine §2.1.4 | Routes to Chapter Ten review; final `s` = 7–9 assignment remains there |
-| **Negligent Misconduct** | Chapter Nine §2.1.5 | Duty-based or negligent-harm band (`s` = 4) |
-| **Remedially correctable misconduct** | Chapter Nine §2.1.2 | Remedial substantive character; slot per verified harm |
+| **System Misconduct** | Chapter Nine §2.1.4 | Diffusion and structural enablement remain separately recorded; slot follows integrated LEQU loss |
+| **Anti-Constitutional Misconduct** (descriptor) | Chapter Nine §2.1.4 | Routes an `s` = 7–9 violation to Chapter Ten designation review without changing its impact slot |
+| **Negligent Misconduct** | Chapter Nine §2.1.5 | Records duty, foreseeability, and preventability separately from the impact slot |
+| **Remedially correctable misconduct** | Chapter Nine §2.1.2 | Records correction character; slot follows integrated LEQU loss |
 | **Accessibility and Participation-Barrier Misconduct** | Chapter Nine §2.1.1 | Higher materiality when dependency-asymmetric; may stack aggravated features |
 | **Privacy and Self-Ownership Misconduct** | Chapter Nine §2.1.1 | Aggravated features when concealment or exploitation verified; may stack `s` = 5 |
-| **Agency and Manipulation Misconduct** | Chapter Nine §2.1.1 | May support `s` = 5–6 when coercion or liberty danger is verified; otherwise aggravated `s` = 5 |
+| **Agency and Manipulation Misconduct** | Chapter Nine §2.1.1 | Records coercion, manipulation, or liberty danger separately from the impact slot |
 | **Exit and Lock-In Misconduct** | Chapter Nine §2.1.4 | System Misconduct features; diffusion or capture when structural |
-| **Lifecycle and Irreversibility Misconduct** | Chapter Nine §2.1.4 | Aggravated violation (`s` = 5) when material irreversibility is concealed; negligent band when duty-based only |
+| **Lifecycle and Irreversibility Misconduct** | Chapter Nine §2.1.4 | Irreversibility affects LEQU magnitude; concealment or negligence remains separately recorded character |
 
 <a id="dual-use-measurement-dimensions"></a>
 <a id="dual-use-classification-dimensions"></a>
@@ -528,7 +529,7 @@ Do **not** split violation-side LEQU into parallel ecological-harm, system-harm,
 | **Deception / concealment / evasion** | Violation conduct-character application in **§4.2** | [Chapter Nine §3.10](core_09-09_standing_integration.md#dual-use-violation-integration-dimensions) — concealment / evasion escalated lock |
 | **Violence / coercion / liberty danger** | Violation conduct-character application in **§4.2** and **Violent Misconduct** in **§4.4** | [Chapter Nine §3.10](core_09-09_standing_integration.md#dual-use-violation-integration-dimensions) — protective and safeguard locks |
 | **Persistence / pattern / recurrence after notice** | Violation conduct-character application in **§4.2** | [Chapter Nine §3.10](core_09-09_standing_integration.md#dual-use-violation-integration-dimensions) — recurrence-persistence lock |
-| **Forum-integrity injury** | Measurement modifier in **§9** | [Chapter Nine §3.10](core_09-09_standing_integration.md#violation-table-q3-non-recurrence-dimensions) — forum-integrity escalated lock |
+| **Forum-integrity injury** | Violation conduct-character application in **§4.2** | [Chapter Nine §4.2.1](core_09-09_standing_integration.md#421-forum-disclosure-and-recusal-process-impact) — forum-integrity standing-lock effects |
 | **Diffusion of responsibility or control** | Violation conduct-character application in **§4.2**; actor-specific linkage under **§§3.1 and 3.3** | [Chapter Nine §3.10](core_09-09_standing_integration.md#dual-use-violation-integration-dimensions) — broader pathway scope or institutional-vehicle consideration |
 | **System / structural enablement** | Contribution conduct-quality application in **§4.1**; violation conduct character in **§4.2** and **System Misconduct** in **§4.4** | [Chapter Nine §§2.10](core_09-09_standing_integration.md#dual-use-contribution-integration-dimensions) and [3.10](core_09-09_standing_integration.md#dual-use-violation-integration-dimensions) — delegation safeguards or institutional-vehicle locks |
 | **Acquiescent participation / failure to resist** | Violation conduct-character application in **§4.2** | [Chapter Nine §3.10](core_09-09_standing_integration.md#dual-use-violation-integration-dimensions) — pathway-scope and recurrence-persistence effects |
@@ -561,7 +562,7 @@ Some facts are related but answer different questions. Record them separately:
 
 #### 4.6 Measurement illustrations
 
-*In plain terms: these illustrations begin with Question 1's verified facts, then show how **section 4** measures them. They record Question 2 outputs — not standing effects. Slot assignment follows **sections 5–8**; Question 3 begins in [section 10](#10-question-3-what-happens-because-of-it) and continues in Chapter Nine.*
+*In plain terms: these illustrations begin with Question 1's verified facts, then show how **section 4** measures them. They record Question 2 outputs — not standing effects. Slot assignment follows **sections 5–7**; Question 3 is answered in [Chapter Nine](core_09-09_standing_integration.md#chapter-nine-standing-effects-and-integration).*
 
 **Example 1 — Riparian cooperative restoration (contribution).**
 
@@ -580,7 +581,7 @@ Some facts are related but answer different questions. Record them separately:
 | Benefit-route stack | **Ecological Stewardship** + **Diligence** — documented planting plan, scheduled follow-up monitoring, and soil checks |
 | Conduct-quality stack | Traceable work; runoff not externalized onto adjacent parcels; no concealed burden on downstream irrigators |
 
-**Q2 outputs recorded:** stacked **Ecological Stewardship** and **Diligence** benefit-route descriptors; LEQU and scope inputs ready for calibration and slot assignment under **[section 7](#7-contribution-axis-bands-and-table-2)**. No standing effects apply in Chapter Eight.
+**Q2 outputs recorded:** stacked **Ecological Stewardship** and **Diligence** benefit-route descriptors; LEQU and scope inputs ready for calibration and slot assignment under **[section 7](#7-unified-proportional-lequ-scale)**. No standing effects apply in Chapter Eight.
 
 **Example 2 — Watershed steward negligence with concealed test results (violation).**
 
@@ -600,7 +601,7 @@ Some facts are related but answer different questions. Record them separately:
 | Conduct-character stack | Negligence where maintenance duty existed; deception/concealment after notice |
 | Conduct-character inputs | **Deception / concealment / evasion**; **Response timeliness / avoidable delay** (harm compounded after duty to act) |
 
-**Q2 outputs recorded:** stacked **Ecological Misconduct** and **Negligent Misconduct** harm-route descriptors and aggravated conduct-character inputs. Deception is also indexed in **section 4.5** for a distinct Question 3 integration decision; the original response delay remains a Question 2 input, while any later remedy-pipeline delay must be established separately. **Violation Axis slot** and display label are assigned under **[section 8](#8-violation-axis-severity-ladder)**.
+**Q2 outputs recorded:** stacked **Ecological Misconduct** and **Negligent Misconduct** harm-route descriptors and concealment conduct-character inputs. Deception is also indexed in **section 4.5** for a distinct Question 3 integration decision; the original response delay remains a Question 2 input, while any later remedy-pipeline delay must be established separately. **Violation Axis slot** and display label are assigned from the integrated LEQU loss under **[section 7](#7-unified-proportional-lequ-scale)**.
 
 <a id="5-slot-grammar-and-display-labels"></a>
 <a id="45-slot-grammar-and-display-labels"></a>
@@ -620,7 +621,7 @@ Some facts are related but answer different questions. Record them separately:
 <a id="471-what-the-slot-grammar-does"></a>
 <a id="511-what-the-slot-grammar-does"></a>
 
-*In plain terms: this section gives consistent names to nine possible positions on each of two separate scales and explains how impact scales across them. One scale records verified contribution; the other records verified violations. Sharing a slot number does not combine the scales, offset harm with help, or decide where a record belongs. Sections 7 and 8 explain how to assign the slots.*
+*In plain terms: this section gives consistent names to nine possible positions on each of two separate axes and explains how impact scales across them. One axis records verified contribution; the other records verified violations. Sharing a slot number does not combine the axes or offset harm with help. The unified scale in **section 7** assigns both axes by proportional LEQU impact.*
 
 The slot grammar uses a slot number, `s`, from **1** through **9**. Each axis has its own slot position:
 
@@ -639,23 +640,23 @@ The same slot number can appear on both axes, but the axes remain separate. A co
 
 #### 5.1 Table 1 — slot display labels
 
-**Table 1** names the nine slots and shows the Contribution Axis and Violation Axis display labels side by side. It supplies display language only; slot assignment occurs under **sections 7–8**.
+**Table 1** names the nine slots and shows the Contribution Axis and Violation Axis display labels side by side. It supplies display language only; slot assignment occurs under the unified scale in **section 7**.
 
 |  `s` | Contribution Axis display label | Violation Axis display label |
 | ---: | --- | --- |
-|    1 | **Basic Baseline Contribution** | **Formal Non-Compliance** |
-|    2 | **Strengthened Baseline Contribution** | **Remedial Substantive Non-Compliance** |
-|    3 | **Verified Positive Contribution** | **Significant Substantive Non-Compliance** |
-|    4 | **Material Positive Contribution** | **Duty-Based or Negligent-Harm Violation** |
-|    5 | **Established Stewardship-Positive Contribution** | **Aggravated Violation** |
-|    6 | **Major Stewardship-Positive Contribution** | **Coercive or Safeguard-Process Violation** |
-|    7 | **Recognized Champion** | **Serious** *anti-constitutional misconduct* |
-|    8 | **Distinguished Champion** | **Grave** *anti-constitutional misconduct* |
-|    9 | **Exemplary Champion** | **Pernicious** *anti-constitutional misconduct* |
+|    1 | **Basic Baseline Contribution** | **Minimal Constitutional Impact** |
+|    2 | **Strengthened Baseline Contribution** | **Limited Constitutional Impact** |
+|    3 | **Verified Positive Contribution** | **Material Constitutional Impact** |
+|    4 | **Material Positive Contribution** | **Significant Constitutional Impact** |
+|    5 | **Established Stewardship-Positive Contribution** | **Major Constitutional Impact** |
+|    6 | **Major Stewardship-Positive Contribution** | **Severe Constitutional Impact** |
+|    7 | **Recognized Champion** | **Serious Constitutional Impact** |
+|    8 | **Distinguished Champion** | **Grave Constitutional Impact** |
+|    9 | **Exemplary Champion** | **Catastrophic Constitutional Impact** |
 
-Slots `s` = 1–6 use Contribution Axis band-step labels and Violation Axis ordinary impact-and-character labels. Slots `s` = 7–9 use champion labels on the Contribution Axis and anti-constitutional misconduct labels on the Violation Axis. The axes remain separate and do not create a net score or permit offset between contribution and violation records. Operative criteria for Violation Axis slots `s` = 7–9 remain in **Chapter Ten**.
+The Contribution Axis uses baseline, positive, stewardship-positive, and champion labels. The Violation Axis uses neutral impact labels at every slot. The axes remain separate and do not create a net score or permit offset between contribution and violation records. A Violation Axis slot does not by itself classify anti-constitutional misconduct; [Chapter Ten](core_10-10_misconduct.md#chapter-ten-anti-constitutional-misconduct) independently determines whether that designation attaches to a verified `s` = 7–9 violation.
 
-Implementations may publish measurement units, evidence methods, and examples to help estimate full-life-equivalent benefit or loss. These materials are guidance only and may not override **sections 7–8**, **Chapter One**, or the **Chapter Six** Rights Floor.
+Implementations may publish measurement units, evidence methods, and examples to help estimate full-life-equivalent benefit or loss. These materials are guidance only and may not override **section 7**, **Chapter One**, or the **Chapter Six** Rights Floor.
 
 <a id="52-shared-impact-scaling-rules"></a>
 
@@ -663,7 +664,7 @@ Implementations may publish measurement units, evidence methods, and examples to
 
 *In plain terms: impact is not measured by headcount alone. A profound benefit or loss affecting one sentient may be more significant than a shallow effect affecting many. Count, depth, vulnerability, duration, durability, reach, and constitutional character must be assessed together.*
 
-Use the following rules to interpret the Contribution Axis in **section 7**, the Violation Axis in **section 8**, and any modifier applied under **section 9**:
+Use the following rules to interpret both axes in **section 7**:
 
 | Scaling dimension | Shared rule | Axis-specific application |
 | --- | --- | --- |
@@ -671,14 +672,14 @@ Use the following rules to interpret the Contribution Axis in **section 7**, the
 | **Sentient scope** | Consider **count, depth, and vulnerability together**. No slot uses headcount as an independent requirement. A sufficiently deep impact on one sentient may support the same slot as a broader but shallower impact where the integrated magnitude and the row's other criteria are equal; any express aggregate-LEQU or wide-scope criterion still must be met. | Dependency, reduced capacity, or unusual vulnerability may increase materiality. Group size alone does not establish contribution or severity. |
 | **Temporal scope** | Consider duration, recurrence, durability, and, for loss, irreversibility. A short but transformative event may outweigh a long trivial effect; duration alone does not control. | Durable benefit supports higher contribution magnitude. Persistent or irreversible loss supports higher violation severity. |
 | **Spatial or institutional scope** | Broader reach may increase magnitude, but cross-community or cross-institutional reach is not required where depth, duration, vulnerability, or constitutional criticality independently supports the slot. | Institutional repair may increase contribution magnitude; structural or systemic damage may increase violation severity. |
-| **Constitutional quality or character** | Measure how the outcome was produced separately from how broadly it spread. Do not double-count the same fact. | Externalized harm, concealed burden, capture, or dependency may cap or disqualify contribution. Duty, negligence, deception, coercion, violence, or structural enablement may characterize or escalate a violation under **sections 4.2 and 7**. |
+| **Constitutional quality or character** | Measure how the outcome was produced separately from how broadly it spread. Do not double-count the same fact. | Externalized harm, concealed burden, capture, or dependency may cap or disqualify claimed contribution. Duty, negligence, deception, coercion, violence, or structural enablement remains separately recorded as violation conduct character and does not move the impact slot. |
 | **Rights Floors and critical safeguards** | Rights-Floor compliance is not traded against aggregate benefit or loss. | Compliance with a floor does not by itself establish high contribution. Material Rights-Floor defeat or critical safeguard failure may support higher violation severity even when few sentients are directly affected. |
 
 The dimensions are not a checklist requiring every form of scale. Explain which dimensions controlled, which did not, and why.
 
-- **Contribution Axis method.** Slots `s` = 1–2 record verified baseline state. Slots `s` = 3–9 form a cumulative benefit-magnitude progression: each higher slot must satisfy the prior slot's benefit floor and the additional criteria stated for the higher slot.
-- **Violation Axis method.** Slots `s` = 1–6 form a hybrid impact-and-character ladder, not pure magnitude bins. Assign one displayed slot: the highest slot whose complete impact-and-character criteria fit. Keep other applicable harm-route and conduct-character descriptors stacked in the record rather than recording several severity slots. Greater loss magnitude alone does not prove negligence, aggravation, coercion, or another character element; a character label likewise does not excuse the materiality required by its row.
-- **Top-slot boundary.** Violation Axis `s` = 7–9 are reserved for final anti-constitutional misconduct findings under **Chapter Ten**. LEQU magnitude, headcount, or worst-case loss may inform that review but does not independently assign a top slot.
+- **Shared slot method.** Estimate integrated verified benefit or loss in LEQU under Proportionality, then assign the one slot whose numeric band contains that magnitude. The same thresholds apply on both axes. Contribution slots retain the applicable baseline and constitutional-alignment requirements; satisfying a numeric threshold cannot make externalized or constitutionally defeated output count as contribution.
+- **Character separation.** Keep applicable benefit-route, harm-route, conduct-quality, and conduct-character descriptors stacked in the record. Duty, negligence, deception, aggravation, coercion, violence, intent, or structural enablement may affect attribution, safeguards, or Question 3 consequences, but none raises or lowers the LEQU impact slot.
+- **Top-slot boundary.** Verified Violation Axis loss may reach `s` = 7–9 by impact whether or not anti-constitutional misconduct is established. Chapter Ten does not replace the impact assignment; it independently determines whether the corresponding anti-constitutional-misconduct designation attaches.
 
 For unrealized danger, record probability, exposure duration, affected scope, uncertainty, and the worst credible outcome separately. Do not treat the worst credible outcome as realized LEQU loss without an adopted, transparent risk calibration.
 
@@ -690,7 +691,7 @@ For unrealized danger, record probability, exposure duration, affected scope, un
 
 *In plain terms: before choosing a slot, identify the constitutional sources that say what baseline, benefit, duty, harm, or violation is being measured. Use the links below to apply those sources at their canonical homes; do not turn this routing step into another score or a substitute definition.*
 
-Before assigning a slot under **section 7** or **section 8**, the standing record must identify:
+Before assigning a slot under **section 7**, the standing record must identify:
 
 - the applicable constitutional baseline, duty, constraint, or protected interest;
 - the provisions that establish the verified benefit, adverse outcome, harm, or violation being measured;
@@ -738,62 +739,50 @@ The routing tables below are non-exhaustive. Every additional definition, princi
 | [Article XXI — Root Cause Analysis and Adaptive Response](core_06-06_rights_part_c.md#article-xxi-root-cause-analysis-and-adaptive-response) | Applies where causal attribution, correction, recurrence, or adaptive response is material to the verified conduct and its constitutional character. |
 | [Article XXIII — Conflict Resolution, Escalation, and Emergency Proportionality](core_06-06_rights_part_d.md#article-xxiii-conflict-resolution-escalation-and-emergency-proportionality) and [Article XXIV-C — Timely Resolution and Anti-Delay Floor](core_06-06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor) | Apply to any factually implicated process or delay. Article XXIII principally constrains Question 3 consequences and must not be used to raise or lower a Question 2 slot merely to justify a preferred response. |
 
-**Application limits.** This routing step does not reopen Question 1, admit unverified facts, add a measurement dimension or score, double-count one fact through several sources, merge the axes, or make every listed source applicable to every record. Contribution and violation remain separately measured. Article XXIII consequences remain outside Question 2, and final Violation Axis `s` = 7–9 assignment remains exclusively governed by **Chapter Ten**.
+**Application limits.** This routing step does not reopen Question 1, admit unverified facts, add a measurement dimension or score, double-count one fact through several sources, merge the axes, or make every listed source applicable to every record. Contribution and violation remain separately measured. Article XXIII consequences remain outside Question 2. Chapter Ten designation review remains separate from the impact slot assigned here.
 
-<a id="46-lequ-magnitude-calibration"></a>
-<a id="6-lequ-magnitude-calibration"></a>
-<a id="47-lequ-magnitude-calibration"></a>
-<a id="7-lequ-magnitude-calibration"></a>
-<a id="48-lequ-magnitude-calibration"></a>
-<a id="8-lequ-magnitude-calibration"></a>
-<a id="52-lequ-magnitude-calibration"></a>
-<a id="52-contribution-magnitude-calibration"></a>
-<a id="41-lequ-contribution-calibration"></a>
-<a id="461-contribution-magnitude-calibration"></a>
-<a id="471-contribution-magnitude-calibration"></a>
-<a id="481-contribution-magnitude-calibration"></a>
-<a id="521-contribution-magnitude-calibration"></a>
-<a id="7-primary-category-defaults"></a>
-<a id="47-primary-category-defaults"></a>
-<a id="8-primary-category-defaults"></a>
-<a id="48-primary-category-defaults"></a>
-<a id="9-primary-category-defaults"></a>
-<a id="49-primary-category-defaults"></a>
-<a id="53-primary-category-defaults"></a>
-<a id="54-primary-category-defaults"></a>
-<a id="6-primary-category-defaults"></a>
-<a id="71-contribution-axis-bands-and-table-2"></a>
-<a id="471-contribution-axis-bands-and-table-2"></a>
-<a id="81-contribution-axis-bands-and-table-2"></a>
-<a id="481-contribution-axis-bands-and-table-2"></a>
-<a id="91-contribution-axis-bands-and-table-2"></a>
-<a id="491-contribution-axis-bands-and-table-2"></a>
-<a id="531-contribution-axis-bands-and-table-2"></a>
-<a id="541-contribution-axis-bands-and-table-2"></a>
-<a id="61-contribution-axis-bands-and-table-2"></a>
-<a id="6-contribution-axis-bands-and-table-2"></a>
-<a id="7-contribution-axis-bands-and-table-2"></a>
+<a id="7-unified-proportional-lequ-scale"></a>
 
-### 7. Contribution Axis — bands and Table 2
+### 7. Unified proportional LEQU scale — Contribution and Violation Axes
 
-*In plain terms: **Table 2** shows where verified contribution belongs on the scale. Higher slots mean greater integrated constitutional benefit. That benefit may be deep or broad: a transformative benefit to one sentient can outweigh a shallow benefit to many.*
+<details>
+<summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): how the five-times progression works</span></strong></summary>
 
-- The **Contribution Axis** is **positive-only**. It measures verified constitutional benefit, baseline satisfaction, and demonstrable uplift.
-- Adverse violation findings and non-compliance belong to **violation nature** under **section 8** and, where applicable, process / response character under **Chapter Nine section 3**.
-- Use **Table 2** after Question 1 confirms the kind of contribution under **section 2.3**, Question 2 measures its benefit under **section 4.1**, the LEQU baseline and shared impact-scaling rules in **sections 4 and 5.2** are applied, and the constitutional sources required by **section 6** are identified in the standing record.
-- Every contribution claim or baseline-state assignment at every level must satisfy the traceability, non-externalization, and constitutional-alignment requirements in **sections 2.3 and 4.1**.
+> This guidance helps readers interpret the scale. It does not add, remove, or narrow binding obligations.
+>
+> The scale uses a five-times progression anchored at `s` = 7 = one LEQU. For either axis, the minimum magnitude for slot `s` is `5^(s−7)` LEQU for slots 2 through 9; slot 1 begins at zero. Adopted implementation may publish the resulting numeric thresholds and calibration examples. Slot 1 includes a verified constitutional baseline on the Contribution Axis and verified loss below the first positive threshold on the Violation Axis; absence of a contribution or absence of a violation is not itself an `s` = 1 record.
 
-| `s` | Contribution Level | Operative criteria |
-| ---: | --- | --- |
-| 1 | **Basic Baseline Contribution** | Verified satisfaction of the basic constitutional floor for the assessed scope. |
-| 2 | **Strengthened Baseline Contribution** | Reliable, bounded, and demonstrable performance above the minimum constitutional floor while remaining within the baseline band. The improvement is repeatable or otherwise stronger than one-time floor satisfaction, but does not yet establish the material positive benefit required by `s` = 3. |
-| 3 | **Verified Positive Contribution** | A bounded, material improvement beyond baseline obligations, including a modest but meaningful benefit to one sentient or a comparably significant constitutional benefit. |
-| 4 | **Material Positive Contribution** | Benefit at least as material as `s` = 3 that is also deeper, lasting, repeated, vulnerability-responsive, or broader in sentient scope. |
-| 5 | **Established Stewardship-Positive Contribution** | Benefit at least as material as `s` = 4, with durable stewardship in a defined domain or across system boundaries, supported by demonstrated coordination, maintenance, institutional repair, or comparable sustained capacity. |
-| 6 | **Major Stewardship-Positive Contribution** | Benefit exceeding `s` = 5 and approaching one LEQU, or comparably major verified improvement in independent flourishing or baseline capacity. Substantial depth affecting one sentient may qualify; breadth, durability, productive-capacity gain, or cross-system reach may establish comparable magnitude. |
-| 7 | **Recognized Champion** | **At least one LEQU saved or transformed**, together with verified stewardship whose depth, durability, breadth, or cross-institutional reach exceeds `s` = 6. |
-| 8 | **Distinguished Champion** | **Multiple LEQUs of verified benefit** exceeding `s` = 7, ordinarily through durable repair, prevention, capability building, or stewardship that crosses institutions or communities or outlasts the originating actors. |
-| 9 | **Exemplary Champion** | Verified benefit exceeding `s` = 8 and producing a **rare, durable, wide-scope constitutional gain** at intergenerational, ecosystem, or civilizational scale. Broad reach alone is not enough; the total verified benefit must also exceed `s` = 8. |
+</details>
+
+<br>
+
+*In plain terms: **Table 2** places verified contribution and verified violation on the same proportional impact scale. Higher slots mean greater integrated constitutional benefit or loss. The records and axes remain separate: the common scale compares magnitude, not moral worth, and never permits help to cancel harm.*
+
+- Apply **Proportionality** to estimate integrated LEQU impact from depth, sentient scope, vulnerability, duration, durability or irreversibility, reach, and constitutional criticality. These dimensions shape the LEQU estimate; they are not independent slot bonuses.
+- Use **Table 2** after Question 1 confirms what happened, Question 2 measures the verified benefit or loss, **sections 4 and 5.2** are applied, and the constitutional sources required by **section 6** are identified.
+- Every assignment must satisfy traceability, auditability, contestability, and the applicable Rights Floor. Contribution must also satisfy non-externalization and constitutional alignment.
+
+**Human-readable anchor.** Using an 80-year human lifespan as a calibration example, read the middle column upward as full-life-equivalent benefit, usable time, or rights-consistent resources and capacity added; read it downward as equivalent loss, deprivation, waste, or foreclosure. Resource quantity does not count by itself—the constitutional outcome it produces or prevents controls.
+
+| `s` | 80-year human calibration — benefit added / loss imposed | Contribution Axis | Violation Axis |
+| ---: | --- | --- | --- |
+| 1 | Less than about **9 days** | **Basic Baseline Contribution** — verified satisfaction of the constitutional floor for the assessed scope; any measurable uplift remains below `s` = 2. | **Minimal Constitutional Impact** — verified loss or operational impairment below `s` = 2, including a formal defect without proven substantive harm. |
+| 2 | About **9–47 days** | **Strengthened Baseline Contribution** — reliable, bounded performance above the minimum floor within this impact level. | **Limited Constitutional Impact** — verified bounded loss at this impact level. |
+| 3 | About **47 days–8 months** | **Verified Positive Contribution** — demonstrable benefit beyond baseline at this impact level. | **Material Constitutional Impact** — verified material loss at this impact level. |
+| 4 | About **8 months–3.2 years** | **Material Positive Contribution** — deeper, lasting, repeated, vulnerability-responsive, or broader verified benefit. | **Significant Constitutional Impact** — verified significant constitutional loss. |
+| 5 | About **3.2–16 years** | **Established Stewardship-Positive Contribution** — durable stewardship, coordination, maintenance, repair, or comparable sustained benefit. | **Major Constitutional Impact** — verified major constitutional loss. |
+| 6 | About **16–80 years** | **Major Stewardship-Positive Contribution** — major verified benefit approaching one LEQU. | **Severe Constitutional Impact** — severe verified loss approaching one LEQU. |
+| 7 | About **1–5 lifetimes** (**80–400 years**) | **Recognized Champion** — at least one LEQU of verified, constitutionally aligned benefit. | **Serious Constitutional Impact** — at least one LEQU of verified constitutional loss. |
+| 8 | About **5–25 lifetimes** (**400–2,000 years**) | **Distinguished Champion** — verified benefit materially exceeding `s` = 7. | **Grave Constitutional Impact** — verified loss materially exceeding `s` = 7. |
+| 9 | At least **25 lifetimes** (**2,000+ years**) | **Exemplary Champion** — verified benefit materially exceeding `s` = 8. | **Catastrophic Constitutional Impact** — verified loss materially exceeding `s` = 8. |
+
+**Proportional assignment rule:**
+
+- Assign one slot from the integrated LEQU estimate.
+- Explain how each material scaling dimension affected the estimate and why omitted dimensions did not control.
+- Do not raise or lower the slot because of duty, negligence, intent, concealment, repetition, aggravation, coercion, violence, liberty danger, correctability, or a preferred consequence.
+- Do not infer conduct character from magnitude or substitute conduct character for verified magnitude.
+- Record those facts as separately traceable descriptors. They may control attribution, review intensity, safeguards, remedy, or a Chapter Ten designation.
 
 <details>
 <summary><strong><span style="color: #2563eb;">Implementation interop note</span></strong></summary>
@@ -802,159 +791,9 @@ The routing tables below are non-exhaustive. Every additional definition, princi
 
 Machine-readable fields for slot display (`sub_tier`, `sub_tier_display`, and related display fields) are defined in [CH06_NINE_SLOT_STANDING_SCALE.md](implementation/CH06_NINE_SLOT_STANDING_SCALE.md) and [ch06_nine_slot_constants.json](implementation/ch06_nine_slot_constants.json). The implementation four-band map remains an interoperability aid and does not add a primary-band column to operative **Table 2**.
 
-Adopted implementation may publish `C*` thresholds, `V(s)` weights, and keyed sub-tier labels. Those helpers must not replace the calibration and primary typing in **sections 7–8** or the Chapter Ten assignment rules for Violation Axis `s` = 7, 8, and 9, except through a **conforming instrument** change.
+Adopted implementation may publish LEQU estimates and keyed display labels. Those helpers must not replace the shared thresholds and proportional assignment rule in **section 7** or the Chapter Ten designation safeguards, except through a **conforming instrument** change.
 
 </details>
-
-<a id="42-lequ-violation-calibration"></a>
-<a id="462-violation-magnitude-calibration"></a>
-<a id="472-violation-magnitude-calibration"></a>
-<a id="482-violation-magnitude-calibration"></a>
-<a id="522-violation-magnitude-calibration"></a>
-<a id="53-violation-magnitude-calibration"></a>
-<a id="72-violation-axis-severity-ladder"></a>
-<a id="472-violation-axis-severity-ladder"></a>
-<a id="82-violation-axis-severity-ladder"></a>
-<a id="482-violation-axis-severity-ladder"></a>
-<a id="92-violation-axis-severity-ladder"></a>
-<a id="492-violation-axis-severity-ladder"></a>
-<a id="532-violation-axis-severity-ladder"></a>
-<a id="542-violation-axis-severity-ladder"></a>
-<a id="62-violation-axis-severity-ladder"></a>
-<a id="7-violation-axis-severity-ladder"></a>
-<a id="8-violation-axis-severity-ladder"></a>
-
-### 8. Violation Axis — impact-and-character ladder
-
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Upstream: [§2](#2-standing-records) (*Question 1 records and verified-input gate*); [§4.2](#42-violation-severity-input-dimensions) (*violation Question 2 dimensions*); [§5.1](#51-slot-grammar-and-display-labels) (*slot grammar*); [§6](#6-constitutional-inputs-to-axis-assignment) (*constitutional-source routing*); [§7](#7-contribution-axis-bands-and-table-2) (*Contribution Axis rules*).
-- Downstream: [§9](#9-forum-disclosure-and-recusal-process-impact) (*forum-integrity modifier*); [Chapter Nine §3](core_09-09_standing_integration.md#6-extended-axis-ii-legal-hybrid-duty-and-harm-descriptors) (*process and response character*); [Chapter Ten](core_10-10_misconduct.md#chapter-ten-anti-constitutional-misconduct) (*final top-slot assignment*).
-- Read with: [Supremacy and Enforceability](core_05i_integrative_definitions.md#supremacy-and-enforceability), [Constitutional Constraint Violation](core_05i_integrative_definitions.md#constitutional-constraint-violation), [Harm](core_05a_accountability_definitions.md#harm), and [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination).
-- Tetrad leg(s): **accountability**. Primary aim(s): **Flourishing** and **Continuity**. [material stake](core_00_preamble.md#material-stake) scaling applies to severity and verification burden.
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
-
-- [Harm](core_05a_accountability_definitions.md#harm) · [O](core_05a_accountability_definitions.md#harm) · [A](core_05a_accountability_definitions.md#harm-a) · [C](core_05a_accountability_definitions.md#harm-c)
-- [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination) · [O](core_05o_oversight_definitions.md#materiality-determination) · [A](core_05o_oversight_definitions.md#materiality-determination-a) · [C](core_05o_oversight_definitions.md#materiality-determination-c)
-- [Constitutional Constraint Violation](core_05i_integrative_definitions.md#constitutional-constraint-violation) · [O](core_05i_integrative_definitions.md#constitutional-constraint-violation) · [A](core_05i_integrative_definitions.md#constitutional-constraint-violation-a) · [C](core_05i_integrative_definitions.md#constitutional-constraint-violation-c)
-- [Coercion and Manipulation](core_05p_participation_definitions.md#coercion-and-manipulation-constitutional) · [O](core_05p_participation_definitions.md#coercion-and-manipulation-constitutional) · [A](core_05p_participation_definitions.md#coercion-and-manipulation-constitutional-a) · [C](core_05p_participation_definitions.md#coercion-and-manipulation-constitutional-c)
-- [Foreseeability Diligence](core_05o_oversight_definitions.md#foreseeability-diligence) · [O](core_05o_oversight_definitions.md#foreseeability-diligence) · [A](core_05o_oversight_definitions.md#foreseeability-diligence-a) · [C](core_05o_oversight_definitions.md#foreseeability-diligence-c)
-
-</details>
-
-<br>
-
-*In plain terms: The **Violation Axis** measures how serious a verified violation is. Slots 1–6 combine verified impact with the violation's constitutional character; they are not headcount or loss-volume bins. Slots 7–9 are reserved for anti-constitutional misconduct finalized under Chapter Ten.*
-
-- Use the ladder after Question 1 confirms the kind of violation under **section 2.3**, Question 2 measures its severity under **section 4.2**, the LEQU baseline and shared impact-scaling rules in **sections 4 and 5.2** are applied, and the constitutional sources required by **section 6** are identified in the standing record.
-- Assign one displayed slot: the highest `s` whose complete criteria fit the verified findings. Record other applicable harm-route and conduct-character descriptors separately.
-- A subject's status, an allegation, a desire to punish, or simple moral disapproval does not count by itself.
-- Formal defects remain at `s` = 1 unless substantive harm, a rights burden, or material operational failure is verified.
-- The availability of civil correction does not prevent a higher slot when the findings involve constitutional floors, aggravating features, coercion, liberty danger, or critical harm.
-- Consider relevant duties, shared responsibility, negligence, mixed conduct, and how the subject acted or responded. Magnitude does not prove a conduct-character element, and conduct character does not remove a row's materiality requirement.
-- Within slots `s` = 1–6, a higher number reflects more constitutionally serious impact-and-character criteria, not raw loss volume alone.
-- Process / response character under **Chapter Nine section 3** remains separately traceable; it is not a second severity ladder.
-- Final **Violation Axis** `s` = 7, 8, and 9 assignment remains in **Chapter Ten**.
-
-**Violation Axis severity levels:**
-
-
-| `s` | Violation Level | Operative criteria |
-| ---: | --- | --- |
-| 1 | <a id="41-formal-non-compliance"></a>**Formal Non-Compliance** | Process, records, verification, observability, accessibility, or challenge-path problems without proven substantive harm. A policy or safeguard that exists only on paper does not count when the rules require it to work in practice, particularly if it cannot be meaningfully verified or challenged. |
-| 2 | <a id="42-remedial-substantive-non-compliance"></a>**Remedial Substantive Non-Compliance** | Real-world duty, harm, rights, Ontological (O), Assessment (A), or Compliance (C) failure requiring repair, restoration, compensation, injunction, or comparable civil correction. |
-| 3 | <a id="43-constitutional-substantive-non-compliance"></a>**Significant Substantive Non-Compliance** | Material violation of [Constitutional Constraints](core_05i_integrative_definitions.md#constitutional-constraint), Rights Floors, supremacy and enforceability, anti-evasion requirements, or challenge-and-remedy access, before aggravated, coercive or safeguard-process, critical, or final Chapter Ten top-slot criteria are met. |
-|    4 | <a id="44-duty-based-or-negligent-harm-violation"></a>**Duty-Based or Negligent-Harm Violation** | Material preventable harm or danger is verified, and duty, foreseeability, and feasible capacity to prevent, mitigate, supervise, or escalate existed. Inadequate operational care, inadequate supervision, delayed escalation, or neglect may establish this character. Related substantive or harm-route descriptors may stack, but the record retains one displayed severity slot. |
-|    5 | <a id="45-aggravated-violation"></a>**Aggravated Violation** | Formal, remedial substantive, significant substantive, or duty-based violation with worsening features such as evasion, concealment, strategic obstruction of audit, dishonest forum disclosure omission, intentional recusal-process failure, repetition after notice, reckless disregard, exploitative incentive design, structural enablement, or material dependency-asymmetry abuse. For forum disclosure omission and recusal-process impact, read **§9**. |
-|    6 | <a id="46-coercive-or-safeguard-process-violation"></a>**Coercive or Safeguard-Process Violation** | Verified coercion, manipulation, violence, credible threat, liberty danger, or comparably serious conduct creates material harm or social danger and requires criminal-process or equivalent constitutional safeguards where a coercive or liberty-restricting response is considered. The need for those safeguards does not by itself establish severity. Severity and Chapter Nine process / response character remain separately traceable. |
-| 7 | <a id="47-critical-non-compliance"></a>**Serious anti-constitutional misconduct** | A final Chapter Ten finding that the unified incident materially implicates one or more Chapter Ten criteria but does not satisfy the grave or pernicious criteria. |
-| 8 | **Grave anti-constitutional misconduct** | A final Chapter Ten finding that the unified incident is a single catastrophic incident or sustained high-gravity pattern, or independently satisfies Chapter Ten criterion 5 or 6. |
-| 9 | **Pernicious anti-constitutional misconduct** | A final Chapter Ten finding that grave anti-constitutional misconduct is established and at least one additional pernicious condition specified there is met. |
-
-<a id="48-adjacent-level-application-notes"></a>
-
-<a id="73-forum-disclosure-and-recusal-process-impact"></a>
-<a id="473-forum-disclosure-and-recusal-process-impact"></a>
-<a id="83-forum-disclosure-and-recusal-process-impact"></a>
-<a id="483-forum-disclosure-and-recusal-process-impact"></a>
-<a id="93-forum-disclosure-and-recusal-process-impact"></a>
-<a id="493-forum-disclosure-and-recusal-process-impact"></a>
-<a id="forum-disclosure-omission-and-recusal-process-impact"></a>
-<a id="533-forum-disclosure-and-recusal-process-impact"></a>
-<a id="543-forum-disclosure-and-recusal-process-impact"></a>
-<a id="63-forum-disclosure-and-recusal-process-impact"></a>
-<a id="8-forum-disclosure-and-recusal-process-impact"></a>
-<a id="9-forum-disclosure-and-recusal-process-impact"></a>
-
-### 9. Forum disclosure omission and recusal-process impact
-
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Upstream: [§3.1](#31-minimum-record-contents) (*violation standing record fields*); [§8](#8-violation-axis-severity-ladder) (*aggravated violation row and impact-and-character ladder*); [corpus_forum.md](corpus_forum.md) **CF-4** (*panel formation, disclosure, recusal, and lawful bench constitution*).
-- Downstream: [Chapter Nine §4](core_09-09_standing_integration.md#8-cross-axis-coupling-and-escalation-constraints) (*standing-lock weighting for forum-integrity injury*); [Chapter Eleven §6](core_11-11_forum.md#6-transfer-consolidation-and-coordination) (*backup routing*); [Chapter Ten §6.10](core_10-10_misconduct.md#610-forum-recusal-failure-and-biased-panel-participation) (*forum recusal failure and biased panel participation*); [Chapter Ten](core_10-10_misconduct.md#chapter-ten-anti-constitutional-misconduct) (*top-slot review where anti-constitutional misconduct is alleged*).
-- Read with: [Verified inputs for standing](#verified-inputs-for-standing) (*verified-input gate*).
-
-</details>
-
-<br>
-
-*In plain terms: lying on a mandatory forum disclosure, or deliberately skipping a required recusal process, is not treated like ordinary deception or paperwork failure. It can corrupt the forum itself — who is lawfully on the panel, whether anyone can challenge bias, and whether the case is being heard fairly.*
-
-- **What counts.** A verified knowing, reckless, or materially dishonest omission from a mandatory forum disclosure required before merits participation; a verified intentional failure to follow a required recusal process; or a verified **failure to recuse** while **impartiality was materially compromised** — including continuing to sit, vote, or issue binding interpretive determinations after a material conflict was disclosed or should have been disclosed under **CF-4**.
-- **Anti-constitutional misconduct path.** Verified **failure to recuse** on a **Constitutional forum** panel, or other verified forum-integrity conduct within this section that corrupts panel lawfulness or practical contestability, may be alleged as **anti-constitutional misconduct** within **[Chapter Ten](core_10-10_misconduct.md#chapter-ten-anti-constitutional-misconduct)** scope under **[Chapter Ten §6.10](core_10-10_misconduct.md#610-forum-recusal-failure-and-biased-panel-participation)** when substantiated under **Chapters Two through Four** and the **Chapter Ten** criteria set. Final slot assignment remains only under **Chapter Ten**.
-- **Why it is heightened.** The conduct can distort the legality and independence of the adjudicative forum itself — not merely the underlying merits dispute.
-- **What evaluators must weigh.** Compared with otherwise similar deception or process violation outside a forum-constitution setting, account for added impact on:
-  - panel lawfulness;
-  - recusal challenge;
-  - evidence integrity;
-  - remedy timing;
-  - backup routing;
-  - practical contestability; and
-  - public confidence in adjudication.
-- **How the modifier affects measurement.** First identify the ordinary Violation Axis slot under **section 8**. Add independently verified forum-integrity loss to the magnitude assessment and record the applicable harm-route and conduct-character descriptors. A dishonest disclosure omission or intentional recusal-process failure may support `s` = 5 aggravation when that row's complete criteria are met. It supports `s` = 6 only when the separate coercion, liberty-danger, or comparable criteria for that row are established. It does not independently assign `s` = 7–9; those slots require final Chapter Ten review.
-- **What this clause does not do.** It does not let unverified allegations or intake material alone change standing — verified findings are still required; it does not by itself assign a top slot without **Chapter Ten** criteria, process, and safeguards; and it does not reduce **Chapter Ten** safeguards where anti-constitutional misconduct is alleged.
-
-
-<a id="4-question-3-what-happens-because-of-it"></a>
-<a id="5-question-3-what-happens-because-of-it"></a>
-<a id="6-question-3-what-happens-because-of-it"></a>
-<a id="7-question-3-what-happens-because-of-it"></a>
-<a id="9-question-3-what-happens-because-of-it"></a>
-<a id="chapters-eight-eleven-constitutional-compass"></a>
-<a id="10-question-3-what-happens-because-of-it"></a>
-
-### 10. Question 3 — what happens because of it?
-
-*In plain terms: Chapter Eight stops after verified facts have been measured. It does not decide consequences. Chapter Nine uses the Question 1 record and Question 2 measurement to decide recognition, readiness, remedy, safeguards, restrictions, and other standing effects.*
-
-Question 3 must preserve the separation established in Questions 1 and 2. Verified contribution may support recognition or readiness, but it does not cancel a verified violation. A verified violation may support remedy or safeguards, but it does not erase unrelated contribution history. Any consequence must remain traceable to the relevant record and measurement.
-
-Question 3 integration examples (competency gates, standing locks, and remedies) appear in [Chapter Nine §2.10](core_09-09_standing_integration.md#210-safe-delegation-competency-gate-dimensions) and [Chapter Nine §3.0](core_09-09_standing_integration.md#30-non-recurrence-evaluation-and-integration-examples). Domain-scale pipeline walkthroughs with **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*) milestone tables (child neglect, discrimination, misaligned business) appear in [Chapters Eight–Eleven application vignettes](core_08-11_application_vignettes.md#chapters-eight-eleven-application-vignettes).
-
-| Stage | Constitutional job |
-| --- | --- |
-| **Chapter Seven — certify where material** | Produce bounded certification records that may become potential inputs to Question 1. Certification is not standing by itself. |
-| **Chapter Eight §2 — Question 1** | Establish what happened in verified, bounded, contestable records. |
-| **Chapter Eight §3 — record requirements** | Apply the verified-input gate, minimum contents, cross-references, versioning, and forum boundary. |
-| **Chapter Eight §4 — Question 2** | Measure how good or bad the verified contribution or violation was on separate Contribution and Violation Axes. |
-| **Chapter Eight §5 — slot grammar and shared scaling** | Apply the display grammar and shared impact-scaling rules used by the axis-specific assignment sections. |
-| **Chapter Eight §6 — constitutional inputs** | Identify the definitions, principles, and Rights-Floor Articles that govern the axis-specific assignment. |
-| **Chapter Eight §7 — Contribution Axis** | Apply the operative contribution category for that slot. |
-| **Chapter Eight §8 — Violation Axis** | Apply the operative violation category for that slot. |
-| **Chapter Eight §9 — forum-integrity impacts** | Measure verified forum disclosure omissions and recusal-process failures. |
-| **Chapter Nine — Question 3** | Decide consequences without netting the axes or changing the underlying findings. |
-| **Chapter Ten — specialized Question 2 review** | Make final top-slot gravity assignments for qualifying anti-constitutional misconduct. |
-| **Chapter Eleven — supervise** | Route disputes, support challenge and review, and return verified outcomes to the same pipeline. |
-
-Where material, [Chapter Seven](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) may supply potential verified inputs through [Part B §15](core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing). Those inputs must still satisfy Question 1's verified-input gate. [Chapter Eleven](core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) supervises disputes and may support opening, correcting, or setting aside records when the facts are verified.
-
-Question 3 continues in [Chapter Nine — Standing Effects and Integration](core_09-09_standing_integration.md#chapter-nine-standing-effects-and-integration). Any liberty restriction must also satisfy the independent justice constraints in Chapter Six, **Article XXIII**.
 
 ---
 

@@ -10,7 +10,6 @@ ROOT = Path(__file__).resolve().parents[1]
 CH06 = ROOT / "core_08-08_standing_assessment.md"
 
 KEEP = {
-    "chapters-eight-eleven-constitutional-compass",
     "chapter-eight-compliance-violation-and-standing-model",
     "chapter-eight-part-a-orientation",
     "2-purpose-and-role",
@@ -52,7 +51,6 @@ KEEP = {
 
 REDIRECT: dict[str, str] = {
     "1-purpose-and-role": "2-purpose-and-role",
-    "chapters-six-eight-standing-pipeline-map": "chapters-eight-eleven-constitutional-compass",
     "2-primary-contribution-and-violation-levels": "2-standing-records",
     "2-standing-effect-verified-inputs-forums": "2-standing-records",
     "2-standing-records-and-verified-inputs": "2-standing-records",

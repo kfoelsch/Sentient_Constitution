@@ -171,7 +171,7 @@ Each step below states what the process does and what it produces.
 **Anti-constitutional misconduct guardrail** ([Chapter Ten](core_10-10_misconduct.md#chapter-ten-anti-constitutional-misconduct))
 
 - **What it does:** Handles only the most serious verified violations — conduct that may have captured or hollowed out constitutional duties at scale. After Chapters Eight and Nine have done their work, this chapter runs final review for the three highest violation severity slots.
-- **What it produces:** A final assignment — or rejection — for Violation Axis **s = 7**, **s = 8**, or **s = 9** anti-constitutional misconduct, only after the required criteria and due-process safeguards are met.
+- **What it produces:** A final anti-constitutional-misconduct designation — or rejection — for an existing Violation Axis **s = 7**, **s = 8**, or **s = 9** impact finding, only after the required criteria and due-process safeguards are met. Chapter Eight supplies the numeric slot.
 
 **Forum supervision and routing** ([Chapter Eleven](core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction))
 
@@ -187,10 +187,10 @@ Think of it as a path from system check to remedy — with forums supervising th
    - **Contribution state:** Open a **contribution standing record** — a bounded, challengeable case file for verified help toward flourishing — and classify **contribution state** on the Contribution Axis.
    - **Violation state:** Open a **violation standing record** — a bounded, challengeable case file for verified harm and accountability failures — and classify **violation nature** on the Violation Axis. Good and harm never fold into one net score; linked records cross-reference but stay separate.
 3. **Apply standing effects on each track** ([Chapter Nine](core_09-09_standing_integration.md#chapter-nine-standing-effects-and-integration)) — verified contribution can open competency gates and support proportionate recognition and material rewards; verified violation can trigger standing locks, correction, and [remedy for those harmed](core_09-09_standing_integration.md#redress-remedy-and-restoration-in-the-standing-model).
-4. **Proportionate escalation** ([Chapter Ten](core_10-10_misconduct.md#chapter-ten-anti-constitutional-misconduct)) — forums classify disputes into five [materiality tiers](core_11-11_forum.md#10-timely-resolution-materiality-tiers-and-anti-delay-discipline) (A/B/C/L/P) mirroring the system classification alphabet — from survival-critical urgency through private/contained matters; if the facts may support the highest violation slots, Tier A routes the matter to final top-slot review for anti-constitutional misconduct.
+4. **Proportionate escalation** ([Chapter Ten](core_10-10_misconduct.md#chapter-ten-anti-constitutional-misconduct)) — forums classify disputes into five [materiality tiers](core_11-11_forum.md#10-timely-resolution-materiality-tiers-and-anti-delay-discipline) (A/B/C/L/P) mirroring the system classification alphabet — from survival-critical urgency through private/contained matters; if a highest-impact violation may also satisfy anti-constitutional criteria, Tier A routes the matter to final designation review.
 5. **Route disputes and keep remedy timely** ([Chapter Eleven](core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction)) — forums supervise how cases move, which track handles them, and whether clocks under **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*) are met so remedy does not die in delay.
 
-The [Chapters Eight–Eleven constitutional process compass](core_08-08_standing_assessment.md#chapters-eight-eleven-constitutional-compass) walks through the chain above in more detail, including Chapter Seven’s potential verified inputs into standing measurement.
+The [README standing-pipeline map](README.md#standing-pipeline-and-forums) provides direct navigation for the chain above, including Chapter Seven’s potential verified inputs into standing measurement.
 
 <a id="4-alignment"></a>
 <a id="how-the-rest-fits-together"></a>

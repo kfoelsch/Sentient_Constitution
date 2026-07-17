@@ -1,13 +1,12 @@
 # Chapters Eight–Eleven Triad / Aims restructure cut list
 
 **Date:** 2026-06-19  
-**Scope:** Reader-comprehension reframe around [Constitutional Triad](../core_00_preamble.md#constitutional-triad), [Two Constitutional Aims](../core_01_a_values_principles.md#two-constitutional-aims), and unified pipeline compass. Operative standing rules unchanged.
+**Scope:** Reader-comprehension reframe around [Constitutional Triad](../core_00_preamble.md#constitutional-triad), [Two Constitutional Aims](../core_01_a_values_principles.md#two-constitutional-aims), and the [standing pipeline and forums](../README.md#standing-pipeline-and-forums) navigation. Operative standing rules unchanged.
 
 ## New anchors
 
 | Anchor | Home |
 |--------|------|
-| `#chapters-eight-eleven-constitutional-compass` (alias: `#chapters-six-eight-standing-pipeline-map`) | [core_08-08_standing_assessment.md](../core_08-08_standing_assessment.md) — visible Ch 6–8 Triad / Aims table + Ch 9 footnote |
 | `#chapter-eight-part-a-orientation` through `#chapter-six-part-e-accountability-measure` | core_06 — **legacy aliases** on reader guidance and §§2–4 headers (no `## PART` headings) |
 | `#chapter-seven-part-a` through `#chapter-seven-part-g` | core_07 — legacy aliases on reader guidance and §§1–6 headers |
 | `#chapter-eight-part-a` through `#chapter-eight-part-e` | core_08 — legacy aliases on §§1–6 headers |

@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-07-17T15:02:37+00:00",
+  "generated_at": "2026-07-17T16:29:57+00:00",
   "files": {
     "core_00_preamble.md": {
       "total_lines": 249,
@@ -3516,13 +3516,13 @@
       ]
     },
     "core_08-08_standing_assessment.md": {
-      "total_lines": 967,
+      "total_lines": 806,
       "sections": [
         {
           "header": "CHAPTER EIGHT: CONTRIBUTION, VIOLATION, AND STANDING MODEL — MEASUREMENT",
           "level": 1,
           "line_start": 2,
-          "line_end": 967,
+          "line_end": 806,
           "anchor": "#chapter-eight-compliance-violation-and-standing-model"
         },
         {
@@ -3634,7 +3634,7 @@
           "header": "4. Question 2 — how good or bad was it?",
           "level": 3,
           "line_start": 349,
-          "line_end": 613,
+          "line_end": 614,
           "anchor": "#4-question-2-how-good-or-bad-was-it"
         },
         {
@@ -3648,131 +3648,110 @@
           "header": "4.2 Violation severity-input dimensions",
           "level": 4,
           "line_start": 421,
-          "line_end": 458,
+          "line_end": 459,
           "anchor": "#violation-table-q2-severity-input-dimensions"
         },
         {
           "header": "4.3 Contribution route descriptor measurement roles",
           "level": 4,
-          "line_start": 459,
-          "line_end": 487,
+          "line_start": 460,
+          "line_end": 488,
           "anchor": "#43-contribution-route-descriptor-measurement-roles"
         },
         {
           "header": "4.4 Violation route descriptor measurement roles",
           "level": 4,
-          "line_start": 488,
-          "line_end": 520,
+          "line_start": 489,
+          "line_end": 521,
           "anchor": "#44-violation-route-descriptor-measurement-roles"
         },
         {
           "header": "4.5 Cross-question measurement hooks",
           "level": 4,
-          "line_start": 521,
-          "line_end": 561,
+          "line_start": 522,
+          "line_end": 562,
           "anchor": "#45-dual-use-classification-hooks"
         },
         {
           "header": "4.5.1 Similar-looking facts that must stay separate",
           "level": 5,
-          "line_start": 543,
-          "line_end": 561,
+          "line_start": 544,
+          "line_end": 562,
           "anchor": "#451-similar-looking-facts-that-must-stay-separate"
         },
         {
           "header": "4.6 Measurement illustrations",
           "level": 4,
-          "line_start": 562,
-          "line_end": 613,
+          "line_start": 563,
+          "line_end": 614,
           "anchor": "#46-question-2-measurement-illustrations"
         },
         {
           "header": "5. Slot grammar and shared scaling",
           "level": 3,
-          "line_start": 614,
-          "line_end": 688,
+          "line_start": 615,
+          "line_end": 689,
           "anchor": "#5-slot-grammar-and-lequ-calibration"
         },
         {
           "header": "5.1 Table 1 — slot display labels",
           "level": 4,
-          "line_start": 640,
-          "line_end": 661,
+          "line_start": 641,
+          "line_end": 662,
           "anchor": "#51-table-1-slot-display-labels"
         },
         {
           "header": "5.2 Shared impact-scaling rules",
           "level": 4,
-          "line_start": 662,
-          "line_end": 688,
+          "line_start": 663,
+          "line_end": 689,
           "anchor": "#52-shared-impact-scaling-rules"
         },
         {
           "header": "6. Constitutional inputs to axis assignment",
           "level": 3,
-          "line_start": 689,
-          "line_end": 776,
+          "line_start": 690,
+          "line_end": 745,
           "anchor": "#6-constitutional-inputs-to-axis-assignment"
         },
         {
           "header": "6.1 Definition inputs",
           "level": 4,
-          "line_start": 704,
-          "line_end": 718,
+          "line_start": 705,
+          "line_end": 719,
           "anchor": "#61-definition-inputs"
         },
         {
           "header": "6.2 Principle inputs",
           "level": 4,
-          "line_start": 719,
-          "line_end": 730,
+          "line_start": 720,
+          "line_end": 731,
           "anchor": "#62-principle-inputs"
         },
         {
           "header": "6.3 Rights-Floor and Article inputs",
           "level": 4,
-          "line_start": 731,
-          "line_end": 776,
+          "line_start": 732,
+          "line_end": 745,
           "anchor": "#63-rights-floor-and-article-inputs"
         },
         {
-          "header": "7. Contribution Axis — bands and Table 2",
+          "header": "7. Unified proportional LEQU scale — Contribution and Violation Axes",
           "level": 3,
-          "line_start": 777,
-          "line_end": 826,
-          "anchor": "#7-contribution-axis-bands-and-table-2"
-        },
-        {
-          "header": "8. Violation Axis — impact-and-character ladder",
-          "level": 3,
-          "line_start": 827,
-          "line_end": 893,
-          "anchor": "#8-violation-axis-severity-ladder"
-        },
-        {
-          "header": "9. Forum disclosure omission and recusal-process impact",
-          "level": 3,
-          "line_start": 894,
-          "line_end": 931,
-          "anchor": "#9-forum-disclosure-and-recusal-process-impact"
-        },
-        {
-          "header": "10. Question 3 — what happens because of it?",
-          "level": 3,
-          "line_start": 932,
-          "line_end": 967,
-          "anchor": "#10-question-3-what-happens-because-of-it"
+          "line_start": 746,
+          "line_end": 806,
+          "anchor": "#7-unified-proportional-lequ-scale"
         }
       ]
     },
     "core_09-09_standing_integration.md": {
-      "total_lines": 1658,
+      "total_lines": 1680,
       "sections": [
         {
           "header": "CHAPTER NINE: STANDING EFFECTS AND INTEGRATION",
           "level": 1,
           "line_start": 3,
-          "line_end": 1658,
+          "line_end": 1680,
           "anchor": "#chapter-eight-compliance-violation-and-standing-model"
         },
         {
@@ -3986,7 +3965,7 @@
           "anchor": "#49-constitutional-floor-rule"
         },
         {
-          "header": "3, slots 7–9 — Anti-Constitutional Lock attachments (Violation Axis s = 7, 8, and 9)",
+          "header": "3, slots 7–9 — Serious, Grave, and Catastrophic impact attachments",
           "level": 4,
           "line_start": 881,
           "line_end": 965,
@@ -4007,14 +3986,14 @@
           "anchor": "#67-duty-to-resist-unlawful-or-unconstitutional-instructions"
         },
         {
-          "header": "3, slots 5–6 — Safeguard Lock attachments (Violation Axis s = 5 and 6)",
+          "header": "3, slots 5–6 — Major and Severe impact attachments",
           "level": 4,
           "line_start": 966,
           "line_end": 995,
           "anchor": "#46-criminal-violation"
         },
         {
-          "header": "3, slots 3–4 — Restriction Lock attachments (Violation Axis s = 3 and 4)",
+          "header": "3, slots 3–4 — Material and Significant impact attachments",
           "level": 4,
           "line_start": 996,
           "line_end": 1077,
@@ -4035,7 +4014,7 @@
           "anchor": "#312-negligence-and-neglect-as-violation-nature"
         },
         {
-          "header": "3, slots 1–2 — Correction Lock attachments (Violation Axis s = 1 and 2)",
+          "header": "3, slots 1–2 — Minimal and Limited impact attachments",
           "level": 4,
           "line_start": 1078,
           "line_end": 1134,
@@ -4101,7 +4080,7 @@
           "header": "4. Coupling between Contribution State and Violation Nature — integrative discipline (no hollowing)",
           "level": 3,
           "line_start": 1390,
-          "line_end": 1551,
+          "line_end": 1573,
           "anchor": "#chapter-seven-part-e-integrative-discipline"
         },
         {
@@ -4115,82 +4094,89 @@
           "header": "4.2 Standing-lock assignment — violation assessment and non-substitution",
           "level": 4,
           "line_start": 1467,
-          "line_end": 1491,
+          "line_end": 1480,
           "anchor": "#62-joint-assessment-escalation-constraints-and-scrutiny"
+        },
+        {
+          "header": "4.2.1 Forum disclosure omission and recusal-process impact",
+          "level": 4,
+          "line_start": 1481,
+          "line_end": 1513,
+          "anchor": "#421-forum-disclosure-and-recusal-process-impact"
         },
         {
           "header": "4.3 Standing integration — slot-band standing locks",
           "level": 4,
-          "line_start": 1492,
-          "line_end": 1551,
+          "line_start": 1514,
+          "line_end": 1573,
           "anchor": "#standing-integration-slot-band-standing-locks"
         },
         {
           "header": "5. Enforcement realism anchors — Continuity enforcement",
           "level": 3,
-          "line_start": 1552,
-          "line_end": 1614,
+          "line_start": 1574,
+          "line_end": 1636,
           "anchor": "#chapter-seven-part-f-continuity-enforcement"
         },
         {
           "header": "5.1 Remediation capacity and funding",
           "level": 4,
-          "line_start": 1579,
-          "line_end": 1590,
+          "line_start": 1601,
+          "line_end": 1612,
           "anchor": "#51-remediation-capacity-and-funding"
         },
         {
           "header": "5.2 Remedy-organ durability",
           "level": 4,
-          "line_start": 1591,
-          "line_end": 1596,
+          "line_start": 1613,
+          "line_end": 1618,
           "anchor": null
         },
         {
           "header": "5.3 Cross-jurisdiction continuity",
           "level": 4,
-          "line_start": 1597,
-          "line_end": 1602,
+          "line_start": 1619,
+          "line_end": 1624,
           "anchor": null
         },
         {
           "header": "5.4 Anti-evasion and look-through authority",
           "level": 4,
-          "line_start": 1603,
-          "line_end": 1608,
+          "line_start": 1625,
+          "line_end": 1630,
           "anchor": null
         },
         {
           "header": "5.5 Reassessment after real correction",
           "level": 4,
-          "line_start": 1609,
-          "line_end": 1614,
+          "line_start": 1631,
+          "line_end": 1636,
           "anchor": null
         },
         {
           "header": "Why All This Matters",
           "level": 3,
-          "line_start": 1615,
-          "line_end": 1627,
+          "line_start": 1637,
+          "line_end": 1649,
           "anchor": null
         },
         {
-          "header": "6. Violation Axis s = 7–9 anti-constitutional misconduct — Chapter Ten gateway",
+          "header": "6. Violation Axis s = 7–9 — Chapter Ten designation gateway",
           "level": 3,
-          "line_start": 1628,
-          "line_end": 1658,
+          "line_start": 1650,
+          "line_end": 1680,
           "anchor": "#chapter-seven-part-g-chapter-eight-gateway"
         }
       ]
     },
     "core_10-10_misconduct.md": {
-      "total_lines": 813,
+      "total_lines": 811,
       "sections": [
         {
           "header": "CHAPTER TEN: ANTI-CONSTITUTIONAL MISCONDUCT",
           "level": 1,
           "line_start": 3,
-          "line_end": 813,
+          "line_end": 811,
           "anchor": "#chapter-ten-anti-constitutional-misconduct"
         },
         {
@@ -4201,136 +4187,136 @@
           "anchor": "#chapter-eight-part-a-continuity-frame"
         },
         {
-          "header": "2. Criteria set (for slot assignment) — Accountability at constitutional scale",
+          "header": "2. Criteria set (for designation) — Accountability at constitutional scale",
           "level": 3,
           "line_start": 112,
           "line_end": 141,
           "anchor": "#chapter-eight-part-b-accountability-scale"
         },
         {
-          "header": "3. Violation Axis s = 7–9 slot assignment (incident gravity)",
+          "header": "3. Violation Axis s = 7–9 anti-constitutional designation",
           "level": 3,
           "line_start": 142,
-          "line_end": 188,
+          "line_end": 186,
           "anchor": "#3-violation-axis-s-7-9-slot-assignment-incident-gravity"
         },
         {
-          "header": "4. Due-process safeguards for slot assignment — Oversight safeguards",
+          "header": "4. Due-process safeguards for designation — Oversight safeguards",
           "level": 3,
-          "line_start": 189,
-          "line_end": 206,
+          "line_start": 187,
+          "line_end": 204,
           "anchor": "#chapter-eight-part-c-oversight-safeguards"
         },
         {
           "header": "4.1 Imprisonment for anti-constitutional misconduct",
           "level": 3,
-          "line_start": 207,
-          "line_end": 229,
+          "line_start": 205,
+          "line_end": 227,
           "anchor": "#4-1-imprisonment-for-anti-constitutional-misconduct"
         },
         {
           "header": "4.2 Restitution, remedy priority, and consequence integration",
           "level": 3,
-          "line_start": 230,
-          "line_end": 269,
+          "line_start": 228,
+          "line_end": 267,
           "anchor": "#4-2-restitution-remedy-priority-and-consequence-integration"
         },
         {
           "header": "4.3 Voluntary public accountability expression",
           "level": 3,
-          "line_start": 270,
-          "line_end": 304,
+          "line_start": 268,
+          "line_end": 302,
           "anchor": "#4-3-voluntary-public-accountability-expression"
         },
         {
           "header": "5. Cross-chapter discipline",
           "level": 3,
-          "line_start": 305,
-          "line_end": 328,
+          "line_start": 303,
+          "line_end": 326,
           "anchor": "#chapter-eight-part-e-cross-chapter-discipline"
         },
         {
           "header": "6. Pattern applications and criteria routing — Participation and pathway integrity",
           "level": 3,
-          "line_start": 329,
-          "line_end": 344,
+          "line_start": 327,
+          "line_end": 342,
           "anchor": "#chapter-eight-part-d-participation-pathways"
         },
         {
           "header": "6.1 Concentration-based subversion: criteria interaction",
           "level": 3,
-          "line_start": 345,
-          "line_end": 366,
+          "line_start": 343,
+          "line_end": 364,
           "anchor": null
         },
         {
           "header": "6.2 Rights-Floor waivers and unconstitutional contract terms",
           "level": 3,
-          "line_start": 367,
-          "line_end": 402,
+          "line_start": 365,
+          "line_end": 400,
           "anchor": null
         },
         {
           "header": "6.3 Flooding the zone and contest-pathway denial",
           "level": 3,
-          "line_start": 403,
-          "line_end": 458,
+          "line_start": 401,
+          "line_end": 456,
           "anchor": null
         },
         {
           "header": "6.4 Info-sphere zone flooding",
           "level": 3,
-          "line_start": 459,
-          "line_end": 517,
+          "line_start": 457,
+          "line_end": 515,
           "anchor": null
         },
         {
           "header": "6.5 Bribery and improper benefit exchange",
           "level": 3,
-          "line_start": 518,
-          "line_end": 562,
+          "line_start": 516,
+          "line_end": 560,
           "anchor": null
         },
         {
           "header": "6.6 Unlawful or unconstitutional command conduct",
           "level": 3,
-          "line_start": 563,
-          "line_end": 631,
+          "line_start": 561,
+          "line_end": 629,
           "anchor": null
         },
         {
           "header": "6.6.1 Follower and implementer accountability",
           "level": 4,
-          "line_start": 604,
-          "line_end": 631,
+          "line_start": 602,
+          "line_end": 629,
           "anchor": "#661-follower-and-implementer-accountability"
         },
         {
           "header": "6.7 Reward, protection, or normalization of anti-constitutional conduct",
           "level": 3,
-          "line_start": 632,
-          "line_end": 677,
+          "line_start": 630,
+          "line_end": 675,
           "anchor": null
         },
         {
           "header": "6.8 Enforcement refusal, suppression, or non-prosecution conduct",
           "level": 3,
-          "line_start": 678,
-          "line_end": 726,
+          "line_start": 676,
+          "line_end": 724,
           "anchor": null
         },
         {
           "header": "6.9 Infrastructure denial, destruction, or dependency cutoff conduct",
           "level": 3,
-          "line_start": 727,
-          "line_end": 774,
+          "line_start": 725,
+          "line_end": 772,
           "anchor": null
         },
         {
           "header": "6.10 Forum recusal failure and biased panel participation",
           "level": 3,
-          "line_start": 775,
-          "line_end": 813,
+          "line_start": 773,
+          "line_end": 811,
           "anchor": "#610-forum-recusal-failure-and-biased-panel-participation"
         }
       ]
@@ -4528,7 +4514,7 @@
           "anchor": null
         },
         {
-          "header": "Chapter Ten slot assignment and independent review",
+          "header": "Chapter Ten designation and independent review",
           "level": 4,
           "line_start": 441,
           "line_end": 447,
@@ -4558,13 +4544,13 @@
       ]
     },
     "core_08-11_application_vignettes.md": {
-      "total_lines": 223,
+      "total_lines": 224,
       "sections": [
         {
           "header": "CHAPTERS EIGHT–ELEVEN: PIPELINE APPLICATION VIGNETTES",
           "level": 1,
           "line_start": 2,
-          "line_end": 223,
+          "line_end": 224,
           "anchor": "#chapters-eight-eleven-application-vignettes"
         },
         {
@@ -4711,7 +4697,7 @@
           "header": "Cross-vignette discipline",
           "level": 3,
           "line_start": 208,
-          "line_end": 223,
+          "line_end": 224,
           "anchor": null
         }
       ]

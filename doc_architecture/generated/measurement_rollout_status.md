@@ -2,10 +2,10 @@
 
 Auto-generated. Do not edit by hand.
 
-Generated: 2026-07-07T09:15:08+00:00
+Generated: 2026-07-17T16:29:59+00:00
 
 Grouped by Chapter Zero measurement category. **Approved** terms must carry `*Measurements:*` and tier-aligned **E**/**C** per [doc_architecture.md](../doc_architecture.md) MEAS-DEF-01.
-Approved progress: **219/219** terms pass tier audit.
+Approved progress: **218/219** terms pass tier audit.
 
 
 ## 3.1 Threshold and scaling
@@ -128,7 +128,7 @@ Approved progress: **219/219** terms pass tier audit.
 | Procedural Fairness | approved | primary_secondary | cluster_member | `core_05p_participation_definitions.md` | yes | pass |
 | Protected Characteristic Proxying and Disparate Impact | approved | full | cluster_member | `core_05p_participation_definitions.md` | yes | pass |
 | Protected Characteristics | approved | primary_only | cluster_member | `core_05p_participation_definitions.md` | yes | pass |
-| Protected Commercial Sexual Services Status and Article X-C Circumvention | approved | primary_only | cluster_member | `core_05p_participation_definitions.md` | yes | pass |
+| Protected Commercial Sexual Services Status and Article X-C Circumvention | approved | primary_only | — | `—` | — | — |
 | Protected Internal-State Boundary | approved | primary_secondary | cluster_member | `core_05c_continuity_definitions.md` | yes | pass |
 | Protected Intimate-Signal Gating | approved | primary_only | cluster_member | `core_05p_participation_definitions.md` | yes | pass |
 | Refuge from Non-Compliance | approved | primary_only | cluster_member | `core_05p_participation_definitions.md` | yes | pass |
@@ -216,7 +216,7 @@ Approved progress: **219/219** terms pass tier audit.
 | Forum Family, Integrity | approved | primary_only | cluster_member | `core_05a_accountability_definitions.md` | yes | pass |
 | Forum Family, Sentient | approved | primary_only | cluster_member | `core_05a_accountability_definitions.md` | yes | pass |
 | Forum Family, Technical | approved | primary_only | cluster_member | `core_05a_accountability_definitions.md` | yes | pass |
-| Foundational Constitutional Choice | approved | primary_only | independent | `core_05i_integrative_definitions.md` | yes | pass |
+| Foundational Constitutional Choice | approved | primary_only | cluster_member | `core_05i_integrative_definitions.md` | yes | pass |
 | Game of Chance | approved | primary_only | cluster_member | `core_05a_accountability_definitions.md` | yes | pass |
 | Good Faith | approved | primary_only | cluster_member | `core_05a_accountability_definitions.md` | yes | pass |
 | Governance | approved | primary_only | cluster_member | `core_05a_accountability_definitions.md` | yes | pass |

@@ -251,7 +251,7 @@ A definition's parts must stay consistent across:
 > Where this lives (navigation):
 > - **Constitutional owner:** definition integrity, evasion, and non-compliance for assessment work. **Chapter Two** owns structure; **Chapter Four** owns burden and trace artifacts; **Chapter Five** owns canonical definitions.
 > - **Implementation owner:** standing records, forum process, and implementation protocols operationalize these rules without replacing them.
-> - **Anti-relocation rule:** this chapter does not assign standing slots, forum routing, or final anti-constitutional misconduct slot assignment.
+> - **Anti-relocation rule:** this chapter does not assign standing slots, forum routing, or final anti-constitutional-misconduct designation.
 
 </details>
 

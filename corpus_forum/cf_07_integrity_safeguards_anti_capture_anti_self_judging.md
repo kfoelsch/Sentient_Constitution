@@ -553,7 +553,7 @@ Every activation or refusal to activate must produce a reviewable record. At min
 - any interim relief, evidence-preservation order, stay, sequencing order, or restricted-evidence handling needed while the routing question is resolved;
 - the contest, appeal, publication, and later-review path for the activation decision.
 
-The record must preserve allegations and verified findings separately. An activation record may support routing, preservation, interim protection, or referral, but it must not by itself create a Chapter Eight standing effect, final Chapter Ten slot assignment, system non-recognition, disciplinary finding, or merits judgment unless the governing merits process independently verifies the necessary facts.
+The record must preserve allegations and verified findings separately. An activation record may support routing, preservation, interim protection, or referral, but it must not by itself create a Chapter Eight standing effect, final Chapter Ten anti-constitutional-misconduct designation, system non-recognition, disciplinary finding, or merits judgment unless the governing merits process independently verifies the necessary facts.
 
 #### CF-7.3.3 Backup Family Map and Limits
 <details>
