@@ -260,7 +260,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-- Canonical owner: [Chapter Eight — §3.6 LEQU baseline](core_08-08_standing_assessment.md#6-lequ-baseline-constitutional-outcome) (*full-life-equivalent benefit and loss, **LEQU** calibration, substrate-agnostic scope*).
+- Canonical owner: [Chapter Eight — §4.6 LEQU baseline](core_08-08_standing_assessment.md#6-lequ-baseline-constitutional-outcome) (*full-life-equivalent benefit and loss, **LEQU** calibration, substrate-agnostic scope*).
 </details>
 
 <br>
@@ -277,10 +277,10 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 - **How to measure and assess**
   - **Primary measure:** Participation measurement family — supporting measure under the participation measurement family.
 
-    **Primary assessment:** Apply **only** as implemented consistently with Chapter Eight **§3.6** and primary banding under **§§3.7.1–3.7.2**; read with [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination) where magnitude disputes are material.
+    **Primary assessment:** Apply **only** as implemented consistently with Chapter Eight **§4.6** and primary banding under **§§4.7.1–4.7.2**; read with [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination) where magnitude disputes are material.
 <a id="lifespan-equivalent-unit-lequ-c"></a>
 - **What must hold**
-  - undisclosed, un-auditable, or **species-bound** **LEQU** uses that displace, narrow, or substitute for Chapter Eight **§3.6** calibration rules.
+  - undisclosed, un-auditable, or **species-bound** **LEQU** uses that displace, narrow, or substitute for Chapter Eight **§4.6** calibration rules.
 
 ---
 

@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-07-17T01:05:28+00:00",
+  "generated_at": "2026-07-17T03:24:37+00:00",
   "files": {
     "core_00_preamble.md": {
       "total_lines": 249,
@@ -3516,13 +3516,13 @@
       ]
     },
     "core_08-08_standing_assessment.md": {
-      "total_lines": 876,
+      "total_lines": 904,
       "sections": [
         {
           "header": "CHAPTER EIGHT: CONTRIBUTION, VIOLATION, AND STANDING MODEL — MEASUREMENT",
           "level": 1,
           "line_start": 2,
-          "line_end": 876,
+          "line_end": 904,
           "anchor": "#chapter-eight-compliance-violation-and-standing-model"
         },
         {
@@ -3543,210 +3543,224 @@
           "header": "2. Question 1 — what happened?",
           "level": 3,
           "line_start": 103,
-          "line_end": 332,
+          "line_end": 228,
           "anchor": "#2-standing-records"
         },
         {
           "header": "2.1 What Question 1 must establish",
           "level": 4,
           "line_start": 122,
-          "line_end": 146,
+          "line_end": 143,
           "anchor": "#violation-standing-record"
         },
         {
           "header": "2.2 Linked records and no-offset bridge",
           "level": 4,
-          "line_start": 147,
-          "line_end": 169,
+          "line_start": 144,
+          "line_end": 174,
           "anchor": "#22-linked-records-and-no-offset-bridge"
         },
         {
           "header": "2.3 Question 1 event-type guide — what kind of help or harm occurred?",
           "level": 4,
-          "line_start": 170,
-          "line_end": 212,
+          "line_start": 175,
+          "line_end": 228,
           "anchor": "#question-1-event-type-guide"
         },
         {
-          "header": "2.4 Verification and record requirements",
-          "level": 4,
-          "line_start": 213,
-          "line_end": 332,
-          "anchor": "#24-verification-and-record-requirements"
+          "header": "2.3.1 Contribution event types",
+          "level": 5,
+          "line_start": 181,
+          "line_end": 203,
+          "anchor": "#231-contribution-event-types"
         },
         {
-          "header": "2.4.1 Minimum record contents",
+          "header": "2.3.2 Violation event types",
           "level": 5,
-          "line_start": 231,
-          "line_end": 265,
+          "line_start": 204,
+          "line_end": 228,
+          "anchor": "#232-violation-event-types"
+        },
+        {
+          "header": "3. Verification and record requirements",
+          "level": 3,
+          "line_start": 229,
+          "line_end": 348,
+          "anchor": "#3-verification-and-record-requirements"
+        },
+        {
+          "header": "3.1 Minimum record contents",
+          "level": 4,
+          "line_start": 247,
+          "line_end": 281,
           "anchor": "#31-minimum-record-contents"
         },
         {
-          "header": "2.4.2 Related record cross-references",
-          "level": 5,
-          "line_start": 266,
-          "line_end": 281,
+          "header": "3.2 Related record cross-references",
+          "level": 4,
+          "line_start": 282,
+          "line_end": 297,
           "anchor": "#32-related-record-cross-references"
         },
         {
-          "header": "2.4.3 Collective and actor-specific records",
-          "level": 5,
-          "line_start": 282,
-          "line_end": 292,
+          "header": "3.3 Collective and actor-specific records",
+          "level": 4,
+          "line_start": 298,
+          "line_end": 308,
           "anchor": "#33-collective-and-actor-specific-records"
         },
         {
-          "header": "2.4.4 Versioning",
-          "level": 5,
-          "line_start": 293,
-          "line_end": 306,
+          "header": "3.4 Versioning",
+          "level": 4,
+          "line_start": 309,
+          "line_end": 322,
           "anchor": "#34-versioning"
         },
         {
-          "header": "2.4.5 Implementation tools",
-          "level": 5,
-          "line_start": 307,
-          "line_end": 312,
+          "header": "3.5 Implementation tools",
+          "level": 4,
+          "line_start": 323,
+          "line_end": 328,
           "anchor": "#35-implementation-tools"
         },
         {
-          "header": "2.4.6 Forum boundary",
-          "level": 5,
-          "line_start": 313,
-          "line_end": 332,
+          "header": "3.6 Forum boundary",
+          "level": 4,
+          "line_start": 329,
+          "line_end": 348,
           "anchor": "#36-forum-boundary"
         },
         {
-          "header": "3. Question 2 — how good or bad was it?",
+          "header": "4. Question 2 — how good or bad was it?",
           "level": 3,
-          "line_start": 333,
-          "line_end": 848,
-          "anchor": "#3-question-2-how-good-or-bad-was-it"
+          "line_start": 349,
+          "line_end": 875,
+          "anchor": "#4-question-2-how-good-or-bad-was-it"
         },
         {
-          "header": "3.1 Magnitude-input dimensions",
+          "header": "4.1 Magnitude-input dimensions",
           "level": 4,
-          "line_start": 351,
-          "line_end": 399,
+          "line_start": 367,
+          "line_end": 415,
           "anchor": "#41-magnitude-input-dimensions"
         },
         {
-          "header": "3.2 Route descriptor measurement roles",
+          "header": "4.2 Route descriptor measurement roles",
           "level": 4,
-          "line_start": 400,
-          "line_end": 454,
+          "line_start": 416,
+          "line_end": 470,
           "anchor": "#42-route-descriptor-classification-roles"
         },
         {
-          "header": "3.3 Dual-use measurement hooks",
+          "header": "4.3 Dual-use measurement hooks",
           "level": 4,
-          "line_start": 455,
-          "line_end": 549,
+          "line_start": 471,
+          "line_end": 565,
           "anchor": "#43-dual-use-classification-hooks"
         },
         {
-          "header": "3.3.1 Misaligned Reward Forfeiture",
+          "header": "4.3.1 Misaligned Reward Forfeiture",
           "level": 5,
-          "line_start": 478,
-          "line_end": 497,
+          "line_start": 494,
+          "line_end": 513,
           "anchor": "#431-misaligned-reward-forfeiture"
         },
         {
-          "header": "3.3.2 Misaligned Reward Reporting",
+          "header": "4.3.2 Misaligned Reward Reporting",
           "level": 5,
-          "line_start": 498,
-          "line_end": 517,
+          "line_start": 514,
+          "line_end": 533,
           "anchor": "#432-misaligned-reward-reporting"
         },
         {
-          "header": "3.3.3 Misaligned reward / benefit retention — record and measurement discipline",
+          "header": "4.3.3 Misaligned reward / benefit retention — record and measurement discipline",
           "level": 5,
-          "line_start": 518,
-          "line_end": 549,
+          "line_start": 534,
+          "line_end": 565,
           "anchor": "#433-misaligned-reward-benefit-retention-record-and-classification-discipline"
         },
         {
-          "header": "3.4 Measurement illustrations",
+          "header": "4.4 Measurement illustrations",
           "level": 4,
-          "line_start": 550,
-          "line_end": 600,
+          "line_start": 566,
+          "line_end": 617,
           "anchor": "#44-question-2-measurement-illustrations"
         },
         {
-          "header": "3.5 Slot grammar and display labels",
+          "header": "4.5 Slot grammar and display labels",
           "level": 4,
-          "line_start": 601,
-          "line_end": 652,
-          "anchor": "#5-slot-grammar-and-display-labels"
+          "line_start": 618,
+          "line_end": 674,
+          "anchor": "#45-slot-grammar-and-display-labels"
         },
         {
-          "header": "3.5.1 What the slot grammar does",
+          "header": "4.5.1 What the slot grammar does",
           "level": 5,
-          "line_start": 606,
-          "line_end": 618,
-          "anchor": null
+          "line_start": 624,
+          "line_end": 637,
+          "anchor": "#451-what-the-slot-grammar-does"
         },
         {
-          "header": "3.5.2 Table 1 — slot display labels",
+          "header": "4.5.2 Table 1 — slot display labels",
           "level": 5,
-          "line_start": 619,
-          "line_end": 652,
-          "anchor": "#52-table-1-slot-display-labels"
+          "line_start": 638,
+          "line_end": 674,
+          "anchor": "#452-table-1-slot-display-labels"
         },
         {
-          "header": "3.6 LEQU baseline — measuring impact in lifetime-equivalent units",
+          "header": "4.6 LEQU baseline — measuring impact in lifetime-equivalent units",
           "level": 4,
-          "line_start": 653,
-          "line_end": 714,
-          "anchor": "#6-lequ-baseline-constitutional-outcome"
+          "line_start": 675,
+          "line_end": 737,
+          "anchor": "#46-lequ-baseline-constitutional-outcome"
         },
         {
-          "header": "3.6.1 Contribution magnitude calibration",
+          "header": "4.6.1 Contribution magnitude calibration",
           "level": 5,
-          "line_start": 672,
-          "line_end": 691,
-          "anchor": "#41-lequ-contribution-calibration"
+          "line_start": 693,
+          "line_end": 713,
+          "anchor": "#461-contribution-magnitude-calibration"
         },
         {
-          "header": "3.6.2 Violation magnitude calibration",
+          "header": "4.6.2 Violation magnitude calibration",
           "level": 5,
-          "line_start": 692,
-          "line_end": 714,
-          "anchor": "#42-lequ-violation-calibration"
+          "line_start": 714,
+          "line_end": 737,
+          "anchor": "#462-violation-magnitude-calibration"
         },
         {
-          "header": "3.7 Primary category defaults — Contribution Axis and Violation Axis",
+          "header": "4.7 Primary category defaults — Contribution Axis and Violation Axis",
           "level": 4,
-          "line_start": 715,
-          "line_end": 848,
-          "anchor": "#7-primary-category-defaults"
+          "line_start": 738,
+          "line_end": 875,
+          "anchor": "#47-primary-category-defaults"
         },
         {
-          "header": "3.7.1 Contribution Axis — bands and Table 2",
+          "header": "4.7.1 Contribution Axis — bands and Table 2",
           "level": 5,
-          "line_start": 723,
-          "line_end": 765,
-          "anchor": "#71-contribution-axis-bands-and-table-2"
+          "line_start": 747,
+          "line_end": 790,
+          "anchor": "#471-contribution-axis-bands-and-table-2"
         },
         {
-          "header": "3.7.2 Violation Axis — severity ladder",
+          "header": "4.7.2 Violation Axis — severity ladder",
           "level": 5,
-          "line_start": 766,
-          "line_end": 816,
-          "anchor": "#72-violation-axis-severity-ladder"
+          "line_start": 791,
+          "line_end": 842,
+          "anchor": "#472-violation-axis-severity-ladder"
         },
         {
-          "header": "3.7.3 Forum disclosure omission and recusal-process impact",
+          "header": "4.7.3 Forum disclosure omission and recusal-process impact",
           "level": 5,
-          "line_start": 817,
-          "line_end": 848,
+          "line_start": 843,
+          "line_end": 875,
           "anchor": "#forum-disclosure-omission-and-recusal-process-impact"
         },
         {
-          "header": "4. Question 3 — what happens because of it?",
+          "header": "5. Question 3 — what happens because of it?",
           "level": 3,
-          "line_start": 849,
-          "line_end": 876,
+          "line_start": 876,
+          "line_end": 904,
           "anchor": "#chapters-eight-eleven-constitutional-compass"
         }
       ]

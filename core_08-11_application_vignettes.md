@@ -27,7 +27,7 @@
 > 4. **Milestone table** — [Chapter Eleven §10](core_11-11_forum.md#10-timely-resolution-materiality-tiers-and-anti-delay-discipline) tier windows from **CF-11.3.1** (adopter floor).
 > 5. **Must not happen** — anti-patterns the constitution rejects.
 >
-> **References:** [Chapter Eight §2](core_08-08_standing_assessment.md#2-standing-records) (Question 1); [Chapter Eight §3](core_08-08_standing_assessment.md#4-standing-measurement-evaluation-dimensions) and [§3.4](core_08-08_standing_assessment.md#44-question-2-measurement-illustrations) (Question 2); [Chapter Nine §2.10](core_09-09_standing_integration.md#210-safe-delegation-competency-gate-dimensions) and [§3.10](core_09-09_standing_integration.md#310-non-recurrence-lock-dimensions) (Question 3); [Chapter Eleven](core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) (forum routing and supervision).
+> **References:** [Chapter Eight §2](core_08-08_standing_assessment.md#2-standing-records) (Question 1); [Chapter Eight §4](core_08-08_standing_assessment.md#4-standing-measurement-evaluation-dimensions) and [§4.4](core_08-08_standing_assessment.md#44-question-2-measurement-illustrations) (Question 2); [Chapter Nine §2.10](core_09-09_standing_integration.md#210-safe-delegation-competency-gate-dimensions) and [§3.10](core_09-09_standing_integration.md#310-non-recurrence-lock-dimensions) (Question 3); [Chapter Eleven](core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) (forum routing and supervision).
 >
 > Regression hooks: `RS-XXIV-C-CHILD-001`, `RS-XXIV-C-DISC-001`, `RS-XXIV-C-BIZ-001`, `RS-XXIV-C-DELAY-001` in [CONSTITUTIONAL_REGRESSION_SCENARIOS.md](CONSTITUTIONAL_REGRESSION_SCENARIOS.md).
 
@@ -55,7 +55,7 @@ Years-long cycles: vague “welfare checks,” reputation gossip, family-forum d
 | 2 | **Tier A intake** under **CF-11.3.1**; evidence preservation (home visit records, school logs, platform schedule exports) begins concurrently. |
 | 3 | **Interim protection** (supervised care, respite placement, or in-home support bundle) without waiting for full merits — **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*) Tier A. |
 | 4 | **Question 1 — what happened?** Forum produces a **verified violation finding** → open a separate **violation standing record** on the guardian and, if verified, an **institutional vehicle** record on the platform scheduling policy ([Chapter Eight §2](core_08-08_standing_assessment.md#2-standing-records)). |
-| 5 | **Question 2 — how bad was it?** ([Chapter Eight §3](core_08-08_standing_assessment.md#4-standing-measurement-evaluation-dimensions)): **Interpersonal / Care Duty Misconduct** + **Negligent Misconduct**; dependency-asymmetric **materiality** elevates severity; likely `s` = 4–5 pending LEQU calibration. |
+| 5 | **Question 2 — how bad was it?** ([Chapter Eight §4](core_08-08_standing_assessment.md#4-standing-measurement-evaluation-dimensions)): **Interpersonal / Care Duty Misconduct** + **Negligent Misconduct**; dependency-asymmetric **materiality** elevates severity; likely `s` = 4–5 pending LEQU calibration. |
 | 6 | **Question 3 — what happens because of it?** ([Chapter Nine §3.10](core_09-09_standing_integration.md#310-non-recurrence-lock-dimensions)): **Safeguard Lock** + **protective participation lock** on unsupervised custody routes; **pathway-scoped** blocks on sole-custody authority until verified monitoring and respite plan. |
 | 7 | **Remedy**: restitution bundle (food, care access, stable housing link), platform schedule relief, and monitored care plan — **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*) joint requirements. |
 | 8 | If verified platform policy **forecloses exit** from exploitative scheduling, linked record cross-references **Exit and Lock-In Misconduct** on institutional route. |
@@ -181,7 +181,7 @@ Arbitration clauses, shell subcontractors, years of “market efficiency” defe
 | Stage | Application |
 | --- | --- |
 | Stewardship | [Chapter One §9.1](core_01_c_stewardship_capacity_principles.md#91-stewardship) — tetrad **timeliness** leg; [Stewardship Defect](core_05c_continuity_definitions.md#stewardship-defect-constitutional) when chronic delay after notice |
-| Q2 measurement | [Chapter Eight §3.3 dual-use](core_08-08_standing_assessment.md#dual-use-measurement-dimensions) — **Response timeliness / avoidable delay** aggravates violation `s` = 4–5 |
+| Q2 measurement | [Chapter Eight §4.3 dual-use](core_08-08_standing_assessment.md#dual-use-measurement-dimensions) — **Response timeliness / avoidable delay** aggravates violation `s` = 4–5 |
 | Q3 integration | [Chapter Nine §3.10](core_09-09_standing_integration.md#310-non-recurrence-lock-dimensions) — **Remedy commencement / pipeline delay** row |
 | Pipeline clocks | [Chapter Eleven §10](core_11-11_forum.md#10-timely-resolution-materiality-tiers-and-anti-delay-discipline); [Article XXIV-C](core_06-06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*); **CF-11.3.1** Tier B windows |
 
@@ -209,9 +209,9 @@ Arbitration clauses, shell subcontractors, years of “market efficiency” defe
 
 | Rule | Source |
 | --- | --- |
-| Allegations ≠ standing | [Chapter Eight §2.4.1](core_08-08_standing_assessment.md#31-minimum-record-contents) |
+| Allegations ≠ standing | [Chapter Eight §3.1](core_08-08_standing_assessment.md#31-minimum-record-contents) |
 | No offset across axes | [Chapter Eight §2.2](core_08-08_standing_assessment.md#22-linked-records-and-no-offset-bridge) |
-| Forums may open, update, or correct records — filed case ≠ standing | [Chapter Eight §2.4.6](core_08-08_standing_assessment.md#36-forum-boundary) |
+| Forums may open, update, or correct records — filed case ≠ standing | [Chapter Eight §3.6](core_08-08_standing_assessment.md#36-forum-boundary) |
 | Tetrad timeliness leg | [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad); [Timeliness](core_05a_accountability_definitions.md#timeliness-constitutional) |
 | Timely + efficient + just together | [Article XXIV-C](core_06-06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*) |
 | Numeric tier floors | [CF-11.3.1](corpus_forum/cf_11_performance_backlog_publication_accessibility.md#cf-1131-target-windows-and-timing-floors) |
