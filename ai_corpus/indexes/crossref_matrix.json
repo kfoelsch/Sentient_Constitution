@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-07-17T09:06:26+00:00",
+  "generated_at": "2026-07-17T11:08:45+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -3181,10 +3181,12 @@
               "#3-standing-record-operational-requirements",
               "#31-minimum-record-contents",
               "#48-lequ-magnitude-calibration",
+              "#52-contribution-magnitude-calibration",
+              "#61-contribution-axis-bands-and-table-2",
+              "#62-violation-axis-severity-ladder",
               "#7-slot-grammar-and-display-labels",
               "#9-primary-category-defaults",
               "#91-contribution-axis-bands-and-table-2",
-              "#92-violation-axis-severity-ladder",
               "#chapter-eight-compliance-violation-and-standing-model",
               "#chapters-eight-eleven-constitutional-compass",
               "#lequ-baseline-constitutional-outcome",
@@ -4662,12 +4664,9 @@
               "#44-duty-based-or-negligent-harm-violation",
               "#46-question-2-measurement-illustrations",
               "#482-violation-magnitude-calibration",
-              "#81-contribution-axis-bands-and-table-2",
-              "#82-violation-axis-severity-ladder",
-              "#83-forum-disclosure-and-recusal-process-impact",
-              "#91-contribution-axis-bands-and-table-2",
-              "#92-violation-axis-severity-ladder",
-              "#93-forum-disclosure-and-recusal-process-impact",
+              "#61-contribution-axis-bands-and-table-2",
+              "#62-violation-axis-severity-ladder",
+              "#63-forum-disclosure-and-recusal-process-impact",
               "#benefit-route-descriptors-q2-measurement-role",
               "#chapter-eight-compliance-violation-and-standing-model",
               "#chapters-eight-eleven-constitutional-compass",
@@ -4940,9 +4939,9 @@
             "file": "core_08-08_standing_assessment.md",
             "count": 10,
             "anchors": [
+              "#62-violation-axis-severity-ladder",
+              "#63-forum-disclosure-and-recusal-process-impact",
               "#7-slot-grammar-and-display-labels",
-              "#92-violation-axis-severity-ladder",
-              "#93-forum-disclosure-and-recusal-process-impact",
               "#chapter-eight-compliance-violation-and-standing-model",
               "#chapters-eight-eleven-constitutional-compass"
             ]
@@ -5123,9 +5122,9 @@
               "#36-forum-boundary",
               "#4-standing-measurement-evaluation-dimensions",
               "#6-slot-grammar-and-display-labels",
-              "#81-contribution-axis-bands-and-table-2",
-              "#82-violation-axis-severity-ladder",
-              "#83-forum-disclosure-and-recusal-process-impact",
+              "#61-contribution-axis-bands-and-table-2",
+              "#62-violation-axis-severity-ladder",
+              "#63-forum-disclosure-and-recusal-process-impact",
               "#chapter-eight-compliance-violation-and-standing-model",
               "#chapters-eight-eleven-constitutional-compass",
               "#verified-inputs-for-standing"
@@ -6234,8 +6233,8 @@
               "#2-standing-records",
               "#31-minimum-record-contents",
               "#36-forum-boundary",
-              "#92-violation-axis-severity-ladder",
-              "#93-forum-disclosure-and-recusal-process-impact",
+              "#62-violation-axis-severity-ladder",
+              "#63-forum-disclosure-and-recusal-process-impact",
               "#chapter-eight-compliance-violation-and-standing-model",
               "#chapters-eight-eleven-constitutional-compass",
               "#verified-inputs-for-standing"
@@ -6796,8 +6795,8 @@
             "file": "core_08-08_standing_assessment.md",
             "count": 10,
             "anchors": [
+              "#61-contribution-axis-bands-and-table-2",
               "#7-slot-grammar-and-display-labels",
-              "#9-primary-category-defaults",
               "#chapter-eight-compliance-violation-and-standing-model"
             ]
           },
@@ -13141,8 +13140,8 @@
             "count": 8,
             "anchors": [
               "#31-minimum-record-contents",
-              "#92-violation-axis-severity-ladder",
-              "#93-forum-disclosure-and-recusal-process-impact"
+              "#62-violation-axis-severity-ladder",
+              "#63-forum-disclosure-and-recusal-process-impact"
             ]
           },
           {

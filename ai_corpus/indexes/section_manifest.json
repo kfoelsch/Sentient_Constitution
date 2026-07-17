@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-07-17T09:06:25+00:00",
+  "generated_at": "2026-07-17T11:08:44+00:00",
   "files": {
     "core_00_preamble.md": {
       "total_lines": 249,
@@ -3516,13 +3516,13 @@
       ]
     },
     "core_08-08_standing_assessment.md": {
-      "total_lines": 935,
+      "total_lines": 930,
       "sections": [
         {
           "header": "CHAPTER EIGHT: CONTRIBUTION, VIOLATION, AND STANDING MODEL — MEASUREMENT",
           "level": 1,
           "line_start": 2,
-          "line_end": 935,
+          "line_end": 930,
           "anchor": "#chapter-eight-compliance-violation-and-standing-model"
         },
         {
@@ -3634,7 +3634,7 @@
           "header": "4. Question 2 — how good or bad was it?",
           "level": 3,
           "line_start": 349,
-          "line_end": 612,
+          "line_end": 613,
           "anchor": "#4-question-2-how-good-or-bad-was-it"
         },
         {
@@ -3683,91 +3683,70 @@
           "header": "4.6 Measurement illustrations",
           "level": 4,
           "line_start": 562,
-          "line_end": 612,
+          "line_end": 613,
           "anchor": "#46-question-2-measurement-illustrations"
         },
         {
-          "header": "5. Slot assignment, calibration, and category defaults",
+          "header": "5. Slot grammar and LEQU calibration",
           "level": 3,
-          "line_start": 613,
-          "line_end": 903,
-          "anchor": "#5-slot-assignment-calibration-and-category-defaults"
+          "line_start": 614,
+          "line_end": 736,
+          "anchor": "#5-slot-grammar-and-lequ-calibration"
         },
         {
-          "header": "5.1 Slot grammar and display labels",
+          "header": "5.1 Table 1 — slot display labels",
           "level": 4,
-          "line_start": 619,
-          "line_end": 686,
-          "anchor": "#51-what-the-slot-grammar-does"
+          "line_start": 640,
+          "line_end": 666,
+          "anchor": "#51-table-1-slot-display-labels"
         },
         {
-          "header": "5.1.1 What the slot grammar does",
-          "level": 5,
-          "line_start": 628,
-          "line_end": 644,
-          "anchor": "#511-what-the-slot-grammar-does"
-        },
-        {
-          "header": "5.1.2 Table 1 — slot display labels",
-          "level": 5,
-          "line_start": 645,
-          "line_end": 686,
-          "anchor": "#512-table-1-slot-display-labels"
-        },
-        {
-          "header": "5.2 LEQU magnitude calibration",
+          "header": "5.2 Contribution magnitude calibration",
           "level": 4,
-          "line_start": 687,
-          "line_end": 749,
-          "anchor": "#52-lequ-magnitude-calibration"
+          "line_start": 667,
+          "line_end": 701,
+          "anchor": "#52-contribution-magnitude-calibration"
         },
         {
-          "header": "5.2.1 Contribution magnitude calibration",
-          "level": 5,
-          "line_start": 697,
-          "line_end": 720,
-          "anchor": "#521-contribution-magnitude-calibration"
-        },
-        {
-          "header": "5.2.2 Violation magnitude calibration",
-          "level": 5,
-          "line_start": 721,
-          "line_end": 749,
-          "anchor": "#522-violation-magnitude-calibration"
-        },
-        {
-          "header": "5.3 Primary category defaults — Contribution Axis and Violation Axis",
+          "header": "5.3 Violation magnitude calibration",
           "level": 4,
-          "line_start": 750,
-          "line_end": 903,
-          "anchor": "#53-primary-category-defaults"
+          "line_start": 702,
+          "line_end": 736,
+          "anchor": "#53-violation-magnitude-calibration"
         },
         {
-          "header": "5.3.1 Contribution Axis — bands and Table 2",
-          "level": 5,
-          "line_start": 764,
-          "line_end": 812,
-          "anchor": "#531-contribution-axis-bands-and-table-2"
-        },
-        {
-          "header": "5.3.2 Violation Axis — severity ladder",
-          "level": 5,
-          "line_start": 813,
-          "line_end": 869,
-          "anchor": "#532-violation-axis-severity-ladder"
-        },
-        {
-          "header": "5.3.3 Forum disclosure omission and recusal-process impact",
-          "level": 5,
-          "line_start": 870,
-          "line_end": 903,
-          "anchor": "#533-forum-disclosure-and-recusal-process-impact"
-        },
-        {
-          "header": "6. Question 3 — what happens because of it?",
+          "header": "6. Primary category defaults — Contribution Axis and Violation Axis",
           "level": 3,
-          "line_start": 904,
-          "line_end": 935,
+          "line_start": 737,
+          "line_end": 897,
+          "anchor": "#6-primary-category-defaults"
+        },
+        {
+          "header": "6.1 Contribution Axis — bands and Table 2",
+          "level": 4,
+          "line_start": 753,
+          "line_end": 803,
+          "anchor": "#61-contribution-axis-bands-and-table-2"
+        },
+        {
+          "header": "6.2 Violation Axis — severity ladder",
+          "level": 4,
+          "line_start": 804,
+          "line_end": 862,
+          "anchor": "#62-violation-axis-severity-ladder"
+        },
+        {
+          "header": "6.3 Forum disclosure omission and recusal-process impact",
+          "level": 4,
+          "line_start": 863,
+          "line_end": 897,
+          "anchor": "#63-forum-disclosure-and-recusal-process-impact"
+        },
+        {
+          "header": "7. Question 3 — what happens because of it?",
+          "level": 3,
+          "line_start": 898,
+          "line_end": 930,
           "anchor": "#chapters-eight-eleven-constitutional-compass"
         }
       ]
