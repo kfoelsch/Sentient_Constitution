@@ -181,7 +181,7 @@ Arbitration clauses, shell subcontractors, years of “market efficiency” defe
 | Stage | Application |
 | --- | --- |
 | Stewardship | [Chapter One §9.1](core_01_c_stewardship_capacity_principles.md#91-stewardship) — tetrad **timeliness** leg; [Stewardship Defect](core_05c_continuity_definitions.md#stewardship-defect-constitutional) when chronic delay after notice |
-| Q2 measurement | [Chapter Eight §4.3 dual-use](core_08-08_standing_assessment.md#dual-use-measurement-dimensions) — **Response timeliness / avoidable delay** aggravates violation `s` = 4–5 |
+| Q2 measurement | [Chapter Eight §4.2 conduct-character application](core_08-08_standing_assessment.md#42-violation-severity-input-dimensions) — **Response timeliness / avoidable delay** aggravates violation `s` = 4–5 |
 | Q3 integration | [Chapter Nine §3.10](core_09-09_standing_integration.md#310-non-recurrence-lock-dimensions) — **Remedy commencement / pipeline delay** row |
 | Pipeline clocks | [Chapter Eleven §10](core_11-11_forum.md#10-timely-resolution-materiality-tiers-and-anti-delay-discipline); [Article XXIV-C](core_06-06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*); **CF-11.3.1** Tier B windows |
 

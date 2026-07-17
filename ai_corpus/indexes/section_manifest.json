@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-07-17T04:39:11+00:00",
+  "generated_at": "2026-07-17T09:06:25+00:00",
   "files": {
     "core_00_preamble.md": {
       "total_lines": 249,
@@ -3516,13 +3516,13 @@
       ]
     },
     "core_08-08_standing_assessment.md": {
-      "total_lines": 970,
+      "total_lines": 935,
       "sections": [
         {
           "header": "CHAPTER EIGHT: CONTRIBUTION, VIOLATION, AND STANDING MODEL — MEASUREMENT",
           "level": 1,
           "line_start": 2,
-          "line_end": 970,
+          "line_end": 935,
           "anchor": "#chapter-eight-compliance-violation-and-standing-model"
         },
         {
@@ -3634,159 +3634,152 @@
           "header": "4. Question 2 — how good or bad was it?",
           "level": 3,
           "line_start": 349,
-          "line_end": 941,
+          "line_end": 612,
           "anchor": "#4-question-2-how-good-or-bad-was-it"
         },
         {
           "header": "4.1 Contribution magnitude-input dimensions",
           "level": 4,
           "line_start": 385,
-          "line_end": 412,
+          "line_end": 420,
           "anchor": "#41-contribution-magnitude-input-dimensions"
         },
         {
           "header": "4.2 Violation severity-input dimensions",
           "level": 4,
-          "line_start": 413,
-          "line_end": 439,
+          "line_start": 421,
+          "line_end": 458,
           "anchor": "#violation-table-q2-severity-input-dimensions"
         },
         {
           "header": "4.3 Contribution route descriptor measurement roles",
           "level": 4,
-          "line_start": 440,
-          "line_end": 468,
+          "line_start": 459,
+          "line_end": 487,
           "anchor": "#43-contribution-route-descriptor-measurement-roles"
         },
         {
           "header": "4.4 Violation route descriptor measurement roles",
           "level": 4,
-          "line_start": 469,
-          "line_end": 501,
+          "line_start": 488,
+          "line_end": 520,
           "anchor": "#44-violation-route-descriptor-measurement-roles"
         },
         {
-          "header": "4.5 Dual-use measurement hooks",
+          "header": "4.5 Cross-question measurement hooks",
           "level": 4,
-          "line_start": 502,
-          "line_end": 610,
+          "line_start": 521,
+          "line_end": 561,
           "anchor": "#45-dual-use-classification-hooks"
         },
         {
-          "header": "4.5.1 Misaligned Reward Forfeiture",
+          "header": "4.5.1 Similar-looking facts that must stay separate",
           "level": 5,
-          "line_start": 527,
-          "line_end": 548,
-          "anchor": "#451-misaligned-reward-forfeiture"
-        },
-        {
-          "header": "4.5.2 Misaligned Reward Reporting",
-          "level": 5,
-          "line_start": 549,
-          "line_end": 572,
-          "anchor": "#452-misaligned-reward-reporting"
-        },
-        {
-          "header": "4.5.3 Misaligned reward / benefit retention — record and measurement discipline",
-          "level": 5,
-          "line_start": 573,
-          "line_end": 610,
-          "anchor": "#453-misaligned-reward-benefit-retention-record-and-classification-discipline"
+          "line_start": 543,
+          "line_end": 561,
+          "anchor": "#451-similar-looking-facts-that-must-stay-separate"
         },
         {
           "header": "4.6 Measurement illustrations",
           "level": 4,
-          "line_start": 611,
-          "line_end": 666,
+          "line_start": 562,
+          "line_end": 612,
           "anchor": "#46-question-2-measurement-illustrations"
         },
         {
-          "header": "4.7 Slot grammar and display labels",
+          "header": "5. Slot assignment, calibration, and category defaults",
+          "level": 3,
+          "line_start": 613,
+          "line_end": 903,
+          "anchor": "#5-slot-assignment-calibration-and-category-defaults"
+        },
+        {
+          "header": "5.1 Slot grammar and display labels",
           "level": 4,
-          "line_start": 667,
-          "line_end": 731,
-          "anchor": "#47-slot-grammar-and-display-labels"
+          "line_start": 619,
+          "line_end": 686,
+          "anchor": "#51-what-the-slot-grammar-does"
         },
         {
-          "header": "4.7.1 What the slot grammar does",
+          "header": "5.1.1 What the slot grammar does",
           "level": 5,
-          "line_start": 675,
-          "line_end": 690,
-          "anchor": "#471-what-the-slot-grammar-does"
+          "line_start": 628,
+          "line_end": 644,
+          "anchor": "#511-what-the-slot-grammar-does"
         },
         {
-          "header": "4.7.2 Table 1 — slot display labels",
+          "header": "5.1.2 Table 1 — slot display labels",
           "level": 5,
-          "line_start": 691,
-          "line_end": 731,
-          "anchor": "#472-table-1-slot-display-labels"
+          "line_start": 645,
+          "line_end": 686,
+          "anchor": "#512-table-1-slot-display-labels"
         },
         {
-          "header": "4.8 LEQU magnitude calibration",
+          "header": "5.2 LEQU magnitude calibration",
           "level": 4,
-          "line_start": 732,
-          "line_end": 791,
-          "anchor": "#8-lequ-magnitude-calibration"
+          "line_start": 687,
+          "line_end": 749,
+          "anchor": "#52-lequ-magnitude-calibration"
         },
         {
-          "header": "4.8.1 Contribution magnitude calibration",
+          "header": "5.2.1 Contribution magnitude calibration",
           "level": 5,
-          "line_start": 741,
-          "line_end": 763,
-          "anchor": "#481-contribution-magnitude-calibration"
+          "line_start": 697,
+          "line_end": 720,
+          "anchor": "#521-contribution-magnitude-calibration"
         },
         {
-          "header": "4.8.2 Violation magnitude calibration",
+          "header": "5.2.2 Violation magnitude calibration",
+          "level": 5,
+          "line_start": 721,
+          "line_end": 749,
+          "anchor": "#522-violation-magnitude-calibration"
+        },
+        {
+          "header": "5.3 Primary category defaults — Contribution Axis and Violation Axis",
+          "level": 4,
+          "line_start": 750,
+          "line_end": 903,
+          "anchor": "#53-primary-category-defaults"
+        },
+        {
+          "header": "5.3.1 Contribution Axis — bands and Table 2",
           "level": 5,
           "line_start": 764,
-          "line_end": 791,
-          "anchor": "#482-violation-magnitude-calibration"
+          "line_end": 812,
+          "anchor": "#531-contribution-axis-bands-and-table-2"
         },
         {
-          "header": "4.9 Primary category defaults — Contribution Axis and Violation Axis",
-          "level": 4,
-          "line_start": 792,
-          "line_end": 941,
-          "anchor": "#49-primary-category-defaults"
-        },
-        {
-          "header": "4.9.1 Contribution Axis — bands and Table 2",
+          "header": "5.3.2 Violation Axis — severity ladder",
           "level": 5,
-          "line_start": 805,
-          "line_end": 852,
-          "anchor": "#491-contribution-axis-bands-and-table-2"
+          "line_start": 813,
+          "line_end": 869,
+          "anchor": "#532-violation-axis-severity-ladder"
         },
         {
-          "header": "4.9.2 Violation Axis — severity ladder",
+          "header": "5.3.3 Forum disclosure omission and recusal-process impact",
           "level": 5,
-          "line_start": 853,
-          "line_end": 908,
-          "anchor": "#492-violation-axis-severity-ladder"
+          "line_start": 870,
+          "line_end": 903,
+          "anchor": "#533-forum-disclosure-and-recusal-process-impact"
         },
         {
-          "header": "4.9.3 Forum disclosure omission and recusal-process impact",
-          "level": 5,
-          "line_start": 909,
-          "line_end": 941,
-          "anchor": "#forum-disclosure-omission-and-recusal-process-impact"
-        },
-        {
-          "header": "5. Question 3 — what happens because of it?",
+          "header": "6. Question 3 — what happens because of it?",
           "level": 3,
-          "line_start": 942,
-          "line_end": 970,
+          "line_start": 904,
+          "line_end": 935,
           "anchor": "#chapters-eight-eleven-constitutional-compass"
         }
       ]
     },
     "core_09-09_standing_integration.md": {
-      "total_lines": 1582,
+      "total_lines": 1658,
       "sections": [
         {
           "header": "CHAPTER NINE: STANDING EFFECTS AND INTEGRATION",
           "level": 1,
           "line_start": 3,
-          "line_end": 1582,
+          "line_end": 1658,
           "anchor": "#chapter-eight-compliance-violation-and-standing-model"
         },
         {
@@ -3905,7 +3898,7 @@
           "header": "2. Supplemental descriptors and domain lenses — oversight vocabulary and attachments",
           "level": 3,
           "line_start": 424,
-          "line_end": 718,
+          "line_end": 717,
           "anchor": "#chapter-seven-part-d-oversight-vocabulary"
         },
         {
@@ -3968,203 +3961,231 @@
           "header": "2.10 Safe-delegation competency-gate dimensions (Question 3)",
           "level": 4,
           "line_start": 600,
-          "line_end": 718,
+          "line_end": 717,
           "anchor": "#2-10-safe-delegation-competency-gate-dimensions"
         },
         {
           "header": "3. Violation Axis Attachments — process / response character, hybrid rules, and duties",
           "level": 3,
-          "line_start": 719,
-          "line_end": 1313,
+          "line_start": 718,
+          "line_end": 1389,
           "anchor": "#6-axis-ii-extended"
         },
         {
           "header": "3.0 Non-recurrence evaluation and integration examples",
           "level": 4,
-          "line_start": 738,
-          "line_end": 881,
+          "line_start": 737,
+          "line_end": 880,
           "anchor": "#3-evaluation-dimensions"
         },
         {
           "header": "Concurrent character and non-exclusivity",
           "level": 5,
-          "line_start": 838,
-          "line_end": 863,
+          "line_start": 837,
+          "line_end": 862,
           "anchor": "#48-concurrent-and-hybrid-violations"
         },
         {
           "header": "Constitutional Floor Rule",
           "level": 5,
-          "line_start": 864,
-          "line_end": 881,
+          "line_start": 863,
+          "line_end": 880,
           "anchor": "#49-constitutional-floor-rule"
         },
         {
           "header": "3, slots 7–9 — Anti-Constitutional Lock attachments (Violation Axis s = 7, 8, and 9)",
           "level": 4,
-          "line_start": 882,
-          "line_end": 966,
+          "line_start": 881,
+          "line_end": 965,
           "anchor": "#63-anti-constitutional-lock-attachments-slots-7-9"
         },
         {
           "header": "Constitutional-floor character",
           "level": 5,
-          "line_start": 906,
-          "line_end": 929,
+          "line_start": 905,
+          "line_end": 928,
           "anchor": "#47-constitutional-violation"
         },
         {
           "header": "Duty to Resist Unlawful or Unconstitutional Instructions",
           "level": 5,
-          "line_start": 930,
-          "line_end": 966,
+          "line_start": 929,
+          "line_end": 965,
           "anchor": "#67-duty-to-resist-unlawful-or-unconstitutional-instructions"
         },
         {
           "header": "3, slots 5–6 — Safeguard Lock attachments (Violation Axis s = 5 and 6)",
           "level": 4,
-          "line_start": 967,
-          "line_end": 996,
+          "line_start": 966,
+          "line_end": 995,
           "anchor": "#46-criminal-violation"
         },
         {
           "header": "3, slots 3–4 — Restriction Lock attachments (Violation Axis s = 3 and 4)",
           "level": 4,
-          "line_start": 997,
-          "line_end": 1078,
+          "line_start": 996,
+          "line_end": 1077,
           "anchor": "#310-collective-accountability-and-acquiescent-participation"
         },
         {
           "header": "Collective Accountability and Acquiescent Participation",
           "level": 5,
-          "line_start": 1018,
-          "line_end": 1046,
+          "line_start": 1017,
+          "line_end": 1045,
           "anchor": null
         },
         {
           "header": "Negligence and Neglect as Violation Nature",
           "level": 5,
-          "line_start": 1047,
-          "line_end": 1078,
+          "line_start": 1046,
+          "line_end": 1077,
           "anchor": "#312-negligence-and-neglect-as-violation-nature"
         },
         {
           "header": "3, slots 1–2 — Correction Lock attachments (Violation Axis s = 1 and 2)",
           "level": 4,
-          "line_start": 1079,
-          "line_end": 1135,
+          "line_start": 1078,
+          "line_end": 1134,
           "anchor": "#35-civil-violation"
         },
         {
           "header": "Remedial, restorative, and civil-correction character",
           "level": 5,
-          "line_start": 1100,
-          "line_end": 1135,
+          "line_start": 1099,
+          "line_end": 1134,
           "anchor": null
         },
         {
           "header": "3.9 Stackable harm-and-conduct descriptors (violation-nature supplement)",
           "level": 4,
-          "line_start": 1136,
-          "line_end": 1174,
+          "line_start": 1135,
+          "line_end": 1173,
           "anchor": "#73-stackable-harm-and-conduct-descriptors-violation-nature-supplement"
         },
         {
           "header": "3.10 Non-recurrence lock dimensions (Question 3)",
           "level": 4,
-          "line_start": 1175,
-          "line_end": 1263,
+          "line_start": 1174,
+          "line_end": 1262,
           "anchor": "#3-10-non-recurrence-lock-dimensions"
         },
         {
           "header": "3.11 Redress, remedy, and restoration in the standing model",
           "level": 4,
-          "line_start": 1264,
-          "line_end": 1313,
+          "line_start": 1263,
+          "line_end": 1308,
           "anchor": "#35-redress-remedy-and-restoration-in-the-standing-model"
+        },
+        {
+          "header": "3.12 Misaligned-reward reporting, forfeiture, and correction",
+          "level": 4,
+          "line_start": 1309,
+          "line_end": 1389,
+          "anchor": "#312-misaligned-reward-reporting-forfeiture-and-correction"
+        },
+        {
+          "header": "3.12.1 Reporting duty and exclusions",
+          "level": 5,
+          "line_start": 1329,
+          "line_end": 1349,
+          "anchor": "#453-misaligned-reward-reporting"
+        },
+        {
+          "header": "3.12.2 Forfeiture and retention",
+          "level": 5,
+          "line_start": 1350,
+          "line_end": 1369,
+          "anchor": "#452-misaligned-reward-forfeiture"
+        },
+        {
+          "header": "3.12.3 Correction, records, and routing",
+          "level": 5,
+          "line_start": 1370,
+          "line_end": 1389,
+          "anchor": "#454-misaligned-reward-benefit-retention-record-and-classification-discipline"
         },
         {
           "header": "4. Coupling between Contribution State and Violation Nature — integrative discipline (no hollowing)",
           "level": 3,
-          "line_start": 1314,
-          "line_end": 1475,
+          "line_start": 1390,
+          "line_end": 1551,
           "anchor": "#chapter-seven-part-e-integrative-discipline"
         },
         {
           "header": "4.1 Standing integration — contribution and violation nature",
           "level": 4,
-          "line_start": 1342,
-          "line_end": 1390,
+          "line_start": 1418,
+          "line_end": 1466,
           "anchor": "#211-standing-integration-contribution-and-violation-nature"
         },
         {
           "header": "4.2 Standing-lock assignment — violation assessment and non-substitution",
           "level": 4,
-          "line_start": 1391,
-          "line_end": 1415,
+          "line_start": 1467,
+          "line_end": 1491,
           "anchor": "#62-joint-assessment-escalation-constraints-and-scrutiny"
         },
         {
           "header": "4.3 Standing integration — slot-band standing locks",
           "level": 4,
-          "line_start": 1416,
-          "line_end": 1475,
+          "line_start": 1492,
+          "line_end": 1551,
           "anchor": "#standing-integration-slot-band-standing-locks"
         },
         {
           "header": "5. Enforcement realism anchors — Continuity enforcement",
           "level": 3,
-          "line_start": 1476,
-          "line_end": 1538,
+          "line_start": 1552,
+          "line_end": 1614,
           "anchor": "#chapter-seven-part-f-continuity-enforcement"
         },
         {
           "header": "5.1 Remediation capacity and funding",
           "level": 4,
-          "line_start": 1503,
-          "line_end": 1514,
+          "line_start": 1579,
+          "line_end": 1590,
           "anchor": "#51-remediation-capacity-and-funding"
         },
         {
           "header": "5.2 Remedy-organ durability",
           "level": 4,
-          "line_start": 1515,
-          "line_end": 1520,
+          "line_start": 1591,
+          "line_end": 1596,
           "anchor": null
         },
         {
           "header": "5.3 Cross-jurisdiction continuity",
           "level": 4,
-          "line_start": 1521,
-          "line_end": 1526,
+          "line_start": 1597,
+          "line_end": 1602,
           "anchor": null
         },
         {
           "header": "5.4 Anti-evasion and look-through authority",
           "level": 4,
-          "line_start": 1527,
-          "line_end": 1532,
+          "line_start": 1603,
+          "line_end": 1608,
           "anchor": null
         },
         {
           "header": "5.5 Reassessment after real correction",
           "level": 4,
-          "line_start": 1533,
-          "line_end": 1538,
+          "line_start": 1609,
+          "line_end": 1614,
           "anchor": null
         },
         {
           "header": "Why All This Matters",
           "level": 3,
-          "line_start": 1539,
-          "line_end": 1551,
+          "line_start": 1615,
+          "line_end": 1627,
           "anchor": null
         },
         {
           "header": "6. Violation Axis s = 7–9 anti-constitutional misconduct — Chapter Ten gateway",
           "level": 3,
-          "line_start": 1552,
-          "line_end": 1582,
+          "line_start": 1628,
+          "line_end": 1658,
           "anchor": "#chapter-seven-part-g-chapter-eight-gateway"
         }
       ]

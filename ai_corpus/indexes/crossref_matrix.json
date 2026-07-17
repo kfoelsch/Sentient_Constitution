@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-07-17T04:39:11+00:00",
+  "generated_at": "2026-07-17T09:06:26+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -1549,18 +1549,20 @@
           },
           {
             "file": "core_08-08_standing_assessment.md",
-            "count": 9,
+            "count": 4,
             "anchors": [
-              "#451-misaligned-reward-forfeiture",
-              "#452-misaligned-reward-reporting",
-              "#453-misaligned-reward-benefit-retention-record-and-measurement-discipline",
+              "#4-standing-measurement-evaluation-dimensions",
               "#chapter-eight-compliance-violation-and-standing-model"
             ]
           },
           {
             "file": "core_09-09_standing_integration.md",
-            "count": 2,
+            "count": 6,
             "anchors": [
+              "#312-misaligned-reward-reporting-forfeiture-and-correction",
+              "#3121-misaligned-reward-reporting-duty-and-exclusions",
+              "#3122-misaligned-reward-forfeiture-and-retention",
+              "#3123-misaligned-reward-correction-records-and-routing",
               "#51-remediation-capacity-and-funding",
               "#54-anti-evasion-and-look-through-authority"
             ]
@@ -4283,10 +4285,8 @@
           },
           {
             "file": "core_01_c_stewardship_capacity_principles.md",
-            "count": 7,
+            "count": 3,
             "anchors": [
-              "#1112-what-incentives-must-not-do",
-              "#114-misalignment-correction-and-capture-response",
               "#9-stewardship-and-distributed-understanding",
               "#chapter-01-principles-and-constraints"
             ]
@@ -4305,18 +4305,15 @@
           },
           {
             "file": "core_05a_accountability_definitions.md",
-            "count": 19,
+            "count": 14,
             "anchors": [
               "#harm",
               "#harm-a",
               "#harm-c",
-              "#necessity",
               "#proportionality",
               "#proportionality-a",
               "#proportionality-c",
-              "#protected-reporting-whistleblowing",
-              "#standing-state-contribution-and-violation-cluster",
-              "#timeliness-constitutional"
+              "#standing-state-contribution-and-violation-cluster"
             ]
           },
           {
@@ -4363,7 +4360,6 @@
             "count": 6,
             "anchors": [
               "#article-xxiii-a-justice-objective-and-scope",
-              "#article-xxiii-conflict-resolution-escalation-and-emergency-proportionality",
               "#article-xxiv-c-timely-resolution-and-anti-delay-floor",
               "#incentive-alignment-transition-carve-out"
             ]
@@ -4399,11 +4395,12 @@
           },
           {
             "file": "core_09-09_standing_integration.md",
-            "count": 33,
+            "count": 49,
             "anchors": [
               "#210-safe-delegation-competency-gate-dimensions",
               "#30-non-recurrence-evaluation-and-integration-examples",
               "#310-non-recurrence-lock-dimensions",
+              "#312-misaligned-reward-reporting-forfeiture-and-correction",
               "#35-positive-standing-recognition",
               "#38-standing-integration-contribution-and-violation-nature",
               "#6-extended-axis-ii-legal-hybrid-duty-and-harm-descriptors",
@@ -4412,17 +4409,19 @@
               "#benefit-route-descriptors-q2-integration",
               "#chapter-nine-standing-effects-and-integration",
               "#competency-gates",
+              "#dual-use-contribution-integration-dimensions",
+              "#dual-use-violation-integration-dimensions",
               "#harm-route-descriptors-q2-integration",
               "#standing-integration-slot-band-standing-locks",
-              "#standing-locks-in-the-standing-model"
+              "#standing-locks-in-the-standing-model",
+              "#violation-table-q3-non-recurrence-dimensions"
             ]
           },
           {
             "file": "core_10-10_misconduct.md",
-            "count": 10,
+            "count": 8,
             "anchors": [
               "#610-forum-recusal-failure-and-biased-panel-participation",
-              "#67-reward-protection-or-normalization-of-anti-constitutional-conduct",
               "#chapter-ten-anti-constitutional-misconduct"
             ]
           },
@@ -4480,9 +4479,11 @@
           },
           {
             "file": "core_01_c_stewardship_capacity_principles.md",
-            "count": 5,
+            "count": 7,
             "anchors": [
               "#10-governance-under-stewardship-discipline",
+              "#1112-what-incentives-must-not-do",
+              "#114-misalignment-correction-and-capture-response",
               "#116-successor-responsibility-and-formal-structure-non-escape",
               "#9-stewardship-and-distributed-understanding"
             ]
@@ -4496,7 +4497,7 @@
           },
           {
             "file": "core_05a_accountability_definitions.md",
-            "count": 256,
+            "count": 263,
             "anchors": [
               "#accountability",
               "#accountability-a",
@@ -4525,6 +4526,7 @@
               "#proportionality",
               "#proportionality-a",
               "#proportionality-c",
+              "#protected-reporting-whistleblowing",
               "#redress-and-remediation-constitutional",
               "#redress-and-remediation-constitutional-a",
               "#redress-and-remediation-constitutional-c",
@@ -4625,12 +4627,14 @@
           },
           {
             "file": "core_06-06_rights_part_d.md",
-            "count": 16,
+            "count": 18,
             "anchors": [
               "#article-xxiii-a-justice-objective-and-scope",
               "#article-xxiii-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints",
               "#article-xxiii-c-least-restrictive-and-time-bounded-rule",
-              "#article-xxiv-c-timely-resolution-and-anti-delay-floor"
+              "#article-xxiii-conflict-resolution-escalation-and-emergency-proportionality",
+              "#article-xxiv-c-timely-resolution-and-anti-delay-floor",
+              "#incentive-alignment-transition-carve-out"
             ]
           },
           {
@@ -4642,16 +4646,19 @@
           },
           {
             "file": "core_08-08_standing_assessment.md",
-            "count": 89,
+            "count": 94,
             "anchors": [
               "#11-three-question-evaluation-discipline",
               "#2-purpose-and-role",
               "#2-standing-records",
               "#22-linked-records-and-no-offset-bridge",
+              "#33-collective-and-actor-specific-records",
               "#36-forum-boundary",
               "#4-standing-measurement-evaluation-dimensions",
+              "#41-contribution-magnitude-input-dimensions",
               "#41-formal-non-compliance",
               "#42-remedial-substantive-non-compliance",
+              "#42-violation-severity-input-dimensions",
               "#44-duty-based-or-negligent-harm-violation",
               "#46-question-2-measurement-illustrations",
               "#482-violation-magnitude-calibration",
@@ -4696,16 +4703,17 @@
           },
           {
             "file": "core_10-10_misconduct.md",
-            "count": 16,
+            "count": 19,
             "anchors": [
               "#62-rights-floor-waivers-and-unconstitutional-contract-terms",
               "#66-unlawful-or-unconstitutional-command-conduct",
+              "#67-reward-protection-or-normalization-of-anti-constitutional-conduct",
               "#chapter-ten-anti-constitutional-misconduct"
             ]
           },
           {
             "file": "core_11-11_forum.md",
-            "count": 13,
+            "count": 14,
             "anchors": [
               "#10-timely-resolution-materiality-tiers-and-anti-delay-discipline",
               "#chapter-eleven-forums-and-jurisdiction"
@@ -4930,11 +4938,8 @@
           },
           {
             "file": "core_08-08_standing_assessment.md",
-            "count": 16,
+            "count": 10,
             "anchors": [
-              "#451-misaligned-reward-forfeiture",
-              "#452-misaligned-reward-reporting",
-              "#453-misaligned-reward-benefit-retention-record-and-measurement-discipline",
               "#7-slot-grammar-and-display-labels",
               "#92-violation-axis-severity-ladder",
               "#93-forum-disclosure-and-recusal-process-impact",
@@ -4944,8 +4949,9 @@
           },
           {
             "file": "core_09-09_standing_integration.md",
-            "count": 11,
+            "count": 13,
             "anchors": [
+              "#312-misaligned-reward-reporting-forfeiture-and-correction",
               "#38-standing-integration-contribution-and-violation-nature",
               "#410-collective-accountability-and-acquiescent-participation",
               "#67-duty-to-resist-unlawful-or-unconstitutional-instructions",
@@ -5246,6 +5252,7 @@
               "#32-related-record-cross-references",
               "#36-forum-boundary",
               "#4-standing-measurement-evaluation-dimensions",
+              "#42-violation-severity-input-dimensions",
               "#46-question-2-measurement-illustrations",
               "#chapters-eight-eleven-constitutional-compass",
               "#dual-use-measurement-dimensions"
@@ -6458,13 +6465,20 @@
           },
           {
             "file": "core_08-08_standing_assessment.md",
-            "count": 8,
+            "count": 5,
             "anchors": [
-              "#451-misaligned-reward-forfeiture",
-              "#452-misaligned-reward-reporting",
               "#chapter-eight-compliance-violation-and-standing-model",
               "#chapters-eight-eleven-constitutional-compass",
               "#verified-inputs-for-standing"
+            ]
+          },
+          {
+            "file": "core_09-09_standing_integration.md",
+            "count": 3,
+            "anchors": [
+              "#312-misaligned-reward-reporting-forfeiture-and-correction",
+              "#3121-misaligned-reward-reporting-duty-and-exclusions",
+              "#3122-misaligned-reward-forfeiture-and-retention"
             ]
           },
           {
