@@ -1,8 +1,6 @@
 <a id="chapter-nine-standing-effects-and-integration"></a>
 # CHAPTER NINE: STANDING EFFECTS AND INTEGRATION
 
-*Non-operative subtitle:* Question 3 consequences for verified standing.
-
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
@@ -39,26 +37,42 @@
 
 Chapter Nine is the constitutional owner of **standing integration and standing effects**, including attachments, descriptors, standing locks, remedy assignment, and enforcement anchors.
 
-Under the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) and [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims), Question 3 must convert verified standing records into consequences without changing Chapter Eight facts or measurement, merging the two axes, weakening the [Rights Floor](core_06-06_rights_part_a.md#chapter-six-foundational-rights), or allowing positive contribution to erase unresolved violation.
+Question 3 of the standing pipeline applies the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) and [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) when converting verified Chapter Eight standing records into consequences.
 
 <a id="1-immutable-chapter-eight-inputs"></a>
 <a id="5-standing-effects"></a>
 <a id="chapter-seven-part-b-flourishing-consequences"></a>
 <a id="1-standing-effects--flourishing-consequences"></a>
-### 1. Immutable Chapter Eight inputs
+### 1. Chapter Eight records do not change
 
-Chapter Nine begins only with the applicable linked, verified, axis-pure record or records produced under Chapter Eight:
+Chapter Nine starts with the verified standing records produced under Chapter Eight. It uses only records that apply to the decision, and it keeps contribution and violation records separate:
 
-- where contribution is applicable, a **contribution standing record**, including its verified facts, Contribution Axis slot, evidence basis, scope, time window, review status, and contribution descriptors; and
-- where violation is applicable, a **violation standing record**, including its verified facts, Violation Axis slot, evidence basis, scope, time window, review status, process or response character, and violation descriptors.
+- If contribution applies, use the **contribution standing record**, including its verified facts, Contribution Axis slot, supporting evidence, scope, time period, review status, and contribution descriptors.
+- If violation applies, use the **violation standing record**, including its verified facts, Violation Axis slot, supporting evidence, scope, time period, review status, process or response character, and violation descriptors.
 
-A Question 3 decision may therefore be contribution-only, violation-only, or dual-axis. Absence of an inapplicable axis does not block integration and must not be filled by inference, allegation, or a synthetic zero-value record.
+A Question 3 decision may address contribution only, violation only, or both. If one axis does not apply, the decision may proceed without it. The decision-maker must not fill the gap by guessing, relying on an allegation, or creating an artificial zero-value record.
 
-Those inputs are immutable within a Question 3 decision. This chapter must not reopen facts, infer a slot from a desired consequence, recalculate LEQU impact, merge records into a net score, or treat allegations, intake labels, unadjudicated claims, reputation, routing tags, or provisional descriptions as standing. A filed case is not standing by itself.
+Chapter Nine must use the facts and measurements exactly as Chapter Eight established them. It must not:
 
-Every Contribution Axis and Violation Axis slot remains exclusively owned by [Chapter Eight §7](core_08-08_standing_assessment.md#7-unified-proportional-lequ-scale). Descriptor, attachment, lock, gate, remedy, restoration, or Chapter Ten routing decisions never raise, lower, replace, or relabel that slot.
+- reopen the facts;
+- choose a slot to produce a desired consequence;
+- recalculate LEQU impact; or
+- combine the two axes into a net score.
 
-The [Rights Floor](core_06-06_rights_part_a.md#chapter-six-foundational-rights) remains outside standing measurement and standing effects. No consequence may reduce inherent dignity, equal moral standing, survival-critical access, or required challenge, review, appeal, and remedy pathways.
+The following do not count as standing:
+
+- allegations;
+- intake labels;
+- unadjudicated claims;
+- reputation;
+- routing tags; or
+- provisional descriptions.
+
+A filed case is not standing by itself.
+
+Question 3 decisions do not by themselves change a Chapter Eight slot. If a forum verifies a pipeline error or material new facts—including later-discovered effects—it may set the record aside or require it to be updated, corrected, or superseded under Chapter Eight. Any new slot must follow Chapter Eight’s measurement process, preserve the audit trail, and keep the two axes separate.
+
+The [Rights Floor](core_06-06_rights_part_a.md#chapter-six-foundational-rights) does not depend on standing and cannot be changed by a standing decision. No consequence may reduce inherent dignity, equal moral standing, survival-critical access, or required pathways for challenge, review, appeal, and remedy.
 
 <a id="2-integration-record-and-decision-order"></a>
 <a id="38-standing-integration-category-hook"></a>
@@ -70,9 +84,11 @@ The [Rights Floor](core_06-06_rights_part_a.md#chapter-six-foundational-rights) 
 <a id="211-standing-integration-contribution-and-violation-nature"></a>
 <a id="4-coupling-between-contribution-state-and-violation-nature--integrative-discipline-no-hollowing"></a>
 <a id="41-standing-integration--contribution-and-violation-nature"></a>
-### 2. Integration record and decision order
+### 2. Automatic integration, review, and continuity
 
-The decision-maker must create a distinct **integration record**. It cross-references, but does not alter, the Chapter Eight records. It must identify:
+The standing system must automatically create or update a distinct **integration record** whenever an applicable Chapter Eight record is opened, updated, corrected, or superseded. The integration record cross-references, but does not alter, its source records. The system must keep contribution and violation records separate rather than combining them into a running balance or lifetime score.
+
+Each integration record must identify:
 
 1. each source record and current version;
 2. each applicable fixed Contribution Axis or Violation Axis measurement;
@@ -84,7 +100,9 @@ The decision-maker must create a distinct **integration record**. It cross-refer
 8. implementation milestones, review route, and reassessment triggers; and
 9. any Chapter Ten gateway status.
 
-The decision order is mandatory:
+Automation may complete any step for which verified inputs and published rules produce a determinate result. No additional manual approval is required unless this Constitution or adopted implementation requires review. The system must refer uncertain, disputed, novel, materially discretionary, or high-impact questions to an authorized reviewer or forum. A record requiring review may still be assembled and routed automatically.
+
+The following processing order applies to both automated and manual decisions:
 
 1. validate the Chapter Eight records and their current review status;
 2. normalize shared descriptors and attachments without changing either slot;
@@ -95,19 +113,9 @@ The decision order is mandatory:
 7. verify practical enforceability; and
 8. route a qualifying top-slot violation to Chapter Ten where designation is at issue.
 
-The no-offset rule applies throughout. Contribution remains visible, including contribution that supports repair capacity, learning, restitution, or non-recurrence. It cannot waive a remedy, lift a lock, lower violation impact, average away a pattern, purchase restored trust, or substitute reputation for verified correction.
+Every automated or manual result must preserve its inputs, rules, intermediate steps, outcome, and review route in a form that affected parties and authorized reviewers can inspect and challenge.
 
-<a id="9-additive-and-non-substitution-rule"></a>
-<a id="7-additive-and-non-substitution-rule"></a>
-<a id="73-additive-and-non-substitution-rule"></a>
-<a id="5-additive-and-non-substitution-rule"></a>
-<a id="8-cross-axis-coupling-and-escalation-constraints"></a>
-<a id="6-cross-axis-coupling-and-escalation-constraints"></a>
-<a id="4-cross-axis-coupling-and-escalation-constraints"></a>
-<a id="chapter-seven-part-e-integrative-discipline"></a>
-<a id="62-joint-assessment-escalation-constraints-and-scrutiny"></a>
-<a id="42-standing-lock-assignment--violation-assessment-and-non-substitution"></a>
-**Additive and non-substitution rule.** Each verified record, remedy, correction duty, lock, gate, and descriptor keeps its own function. Escalated scrutiny does not automatically authorize harsher restriction. Restrictive consequences must remain needed, proportionate, evidence-based, reviewable, and consistent with **Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*).
+During a technology outage, authorized bodies must use a manual continuity process that preserves the same required fields, processing order, evidence custody, review rights, and applicable time limits. When the technology returns, the system must reconcile the manual and electronic records, preserve both audit trails, explain any difference, and never silently overwrite a decision.
 
 <a id="3-shared-descriptor-and-attachment-normalization"></a>
 <a id="7-supplemental-descriptors-and-domain-lenses"></a>
@@ -272,6 +280,8 @@ The lock reaches shells, nominees, advisory capture, funding leverage, contractu
 
 Restoration is exceptional and requires independently verified restitution or lawful substitute restoration; structural correction of tainted governance, systems, records, and decisions; disclosure and cooperation sufficient to map dependencies; durable anti-recurrence and proxy-control safeguards; required monitoring and requalification; and a published finding that renewed influence is safer and constitutionally compatible. For a Grave or Catastrophic designation, covered-system and forum influence remains barred unless an independent reviewer makes specific, published findings that reinstatement is necessary, proportionate, non-capturing, and safer than continued exclusion for the protected constitutional interests.
 
+**Global no-offset rule.** Contribution and violation remain separately visible throughout the standing pipeline. Positive contribution—including contribution supporting repair, learning, restitution, or non-recurrence—must not waive a remedy, lift a lock, lower violation impact, average away a pattern, purchase restored trust, or replace verified correction.
+
 <a id="44-special-violation-rules"></a>
 <a id="63-anti-constitutional-lock-attachments-slots-7-9"></a>
 <a id="63-constitutional-violation"></a>
@@ -388,6 +398,18 @@ An applicable standing lock controls. Gate satisfaction cannot open a blocked pa
 <a id="6-final-standing-effect"></a>
 <a id="standing-effect"></a>
 ### 6. Final standing effect
+
+<a id="9-additive-and-non-substitution-rule"></a>
+<a id="7-additive-and-non-substitution-rule"></a>
+<a id="73-additive-and-non-substitution-rule"></a>
+<a id="5-additive-and-non-substitution-rule"></a>
+<a id="8-cross-axis-coupling-and-escalation-constraints"></a>
+<a id="6-cross-axis-coupling-and-escalation-constraints"></a>
+<a id="4-cross-axis-coupling-and-escalation-constraints"></a>
+<a id="chapter-seven-part-e-integrative-discipline"></a>
+<a id="62-joint-assessment-escalation-constraints-and-scrutiny"></a>
+<a id="42-standing-lock-assignment--violation-assessment-and-non-substitution"></a>
+**Separate roles.** Verified records, remedies, correction duties, locks, gates, and descriptors may work together, but each has a different role and one must not replace another. Closer review does not by itself justify a harsher restriction. Any restriction must be needed, proportionate to the verified facts, supported by evidence, open to review, and consistent with **Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*).
 
 The integration record must state the final effect separately for each pathway:
 
