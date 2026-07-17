@@ -374,7 +374,7 @@ A **full-life-equivalent constitutional benefit** means verified benefit compara
 
 - **Not a net-score rule.** You cannot "cancel out" violations with contributions or vice versa. Each axis stands alone.
 - **Not a mandatory human-life metric.** The LEQU is sentient-generic; it applies to any conscious being, not just humans.
-- **Not an accusation metric.** Allegations, intake tags, routing decisions, reputation, disfavored status, or moral dislike do not supply Contribution Axis benefit or Violation Axis severity without verified inputs under **section 3.1** and calibration under **sections 5.2–5.3**.
+- **Not an accusation metric.** Allegations, intake tags, routing decisions, reputation, disfavored status, or moral dislike do not supply Contribution Axis benefit or Violation Axis severity without verified inputs under **section 3.1** and calibration under **sections 6–7**.
 - **Not a license to trade rights.** Claims framed as efficiency, productive capacity, innovation, burden reduction, security, retaliation, emergency response, or institutional necessity must be discounted or rejected where they depend on coercion, discriminatory burden shifting, ecological depletion, hidden unpaid work, avoidable opacity, Rights-Floor narrowing, capture, misleading proxies, loss of contestability, or unreviewable aggregation.
 
 **Question 2 only.** Use these dimensions to measure the verified facts established under **section 2** and recorded under **section 3**. Names for kinds of help or harm come from [Chapter Nine's domain-lens catalog](core_09-09_standing_integration.md#71-shared-domain-lenses-cross-axis-vocabulary). The **benefit-route** table in **section 4.3** and **harm-route** table in **section 4.4** say how each name counts toward *how good* or *how bad*. Question 3 uses appear in Chapter Nine ([benefit side](core_09-09_standing_integration.md#benefit-route-descriptors-q2-integration); [harm side](core_09-09_standing_integration.md#harm-route-descriptors-q2-integration)).
@@ -387,7 +387,7 @@ A **full-life-equivalent constitutional benefit** means verified benefit compara
 <a id="contribution-table-q1-magnitude-input-dimensions"></a>
 <a id="contribution-table-q2-magnitude-input-dimensions"></a>
 
-**Contribution table — Question 2: magnitude-input dimensions (how good was it?).** These dimensions feed Contribution Axis slot assignment and stacked benefit descriptors recorded in the **contribution standing record**. Operative band criteria are in **section 6**; LEQU calibration is in **section 5.2**.
+**Contribution table — Question 2: magnitude-input dimensions (how good was it?).** These dimensions feed Contribution Axis slot assignment and stacked benefit descriptors recorded in the **contribution standing record**. Operative band criteria and LEQU calibration are in **section 6**.
 
 | **Dimension** | **Role in Q2** | **Corpus anchor** |
 | --- | --- | --- |
@@ -420,7 +420,7 @@ Do **not** split LEQU into parallel ecological, system, or resource benefit scor
 
 #### 4.2 Violation severity-input dimensions
 
-**Violation table — Question 2: severity-input dimensions (how bad was it?).** These dimensions feed Violation Axis slot assignment and stacked harm descriptors recorded in the **violation standing record**. Operative slot criteria are in **section 7**; LEQU calibration is in **section 5.3**.
+**Violation table — Question 2: severity-input dimensions (how bad was it?).** These dimensions feed Violation Axis slot assignment and stacked harm descriptors recorded in the **violation standing record**. Operative slot criteria and LEQU calibration are in **section 7**.
 
 | **Dimension** | **Role in Q2** | **Corpus anchor** |
 | --- | --- | --- |
@@ -580,7 +580,7 @@ Some facts are related but answer different questions. Record them separately:
 | Benefit-route stack | **Ecological Stewardship** + **Diligence** — documented planting plan, scheduled follow-up monitoring, and soil checks |
 | Conduct-quality stack | Traceable work; runoff not externalized onto adjacent parcels; no concealed burden on downstream irrigators |
 
-**Q2 outputs recorded:** stacked **Ecological Stewardship** and **Diligence** benefit-route descriptors; LEQU and scope inputs ready for **[section 5.2](#52-contribution-magnitude-calibration)** calibration and **[section 6](#6-contribution-axis-bands-and-table-2)** band assignment. No standing effects apply in Chapter Eight.
+**Q2 outputs recorded:** stacked **Ecological Stewardship** and **Diligence** benefit-route descriptors; LEQU and scope inputs ready for calibration and slot assignment under **[section 6](#6-contribution-axis-bands-and-table-2)**. No standing effects apply in Chapter Eight.
 
 **Example 2 — Watershed steward negligence with concealed test results (violation).**
 
@@ -600,7 +600,7 @@ Some facts are related but answer different questions. Record them separately:
 | Conduct-character stack | Negligence where maintenance duty existed; deception/concealment after notice |
 | Conduct-character inputs | **Deception / concealment / evasion**; **Response timeliness / avoidable delay** (harm compounded after duty to act) |
 
-**Q2 outputs recorded:** stacked **Ecological Misconduct** and **Negligent Misconduct** harm-route descriptors and aggravated conduct-character inputs. Deception is also indexed in **section 4.5** for a distinct Question 3 integration decision; the original response delay remains a Question 2 input, while any later remedy-pipeline delay must be established separately. **Violation Axis slot** and display label are assigned only after **[section 5.3](#53-violation-magnitude-calibration)** calibration and **[section 7](#7-violation-axis-severity-ladder)**.
+**Q2 outputs recorded:** stacked **Ecological Misconduct** and **Negligent Misconduct** harm-route descriptors and aggravated conduct-character inputs. Deception is also indexed in **section 4.5** for a distinct Question 3 integration decision; the original response delay remains a Question 2 input, while any later remedy-pipeline delay must be established separately. **Violation Axis slot** and display label are assigned under **[section 7](#7-violation-axis-severity-ladder)**.
 
 <a id="5-slot-grammar-and-display-labels"></a>
 <a id="45-slot-grammar-and-display-labels"></a>
@@ -611,7 +611,7 @@ Some facts are related but answer different questions. Record them separately:
 <a id="5-slot-assignment-calibration-and-category-defaults"></a>
 <a id="5-slot-grammar-and-lequ-calibration"></a>
 
-### 5. Slot grammar and LEQU calibration
+### 5. Slot grammar and display labels
 
 <a id="51-slot-grammar-and-display-labels"></a>
 <a id="51-what-the-slot-grammar-does"></a>
@@ -620,7 +620,7 @@ Some facts are related but answer different questions. Record them separately:
 <a id="471-what-the-slot-grammar-does"></a>
 <a id="511-what-the-slot-grammar-does"></a>
 
-*In plain terms: this section gives consistent names to nine possible positions on each of two separate scales. One scale records verified contribution; the other records verified violations. Sharing a slot number does not combine the scales, offset harm with help, or decide where a record belongs. Sections 5.2–5.3 calibrate the two axes; section 6 assigns the operative categories.*
+*In plain terms: this section gives consistent names to nine possible positions on each of two separate scales. One scale records verified contribution; the other records verified violations. Sharing a slot number does not combine the scales, offset harm with help, or decide where a record belongs. Sections 6 and 7 explain how to assign the slots.*
 
 The slot grammar uses a slot number, `s`, from **1** through **9**. Each axis has its own slot position:
 
@@ -639,7 +639,7 @@ The same slot number can appear on both axes, but the axes remain separate. A co
 
 #### 5.1 Table 1 — slot display labels
 
-**Table 1** names the nine slots and shows the Contribution Axis and Violation Axis display labels side by side. It supplies display language only; slot assignment occurs under **sections 5.2–5.3 and 6**.
+**Table 1** names the nine slots and shows the Contribution Axis and Violation Axis display labels side by side. It supplies display language only; slot assignment occurs under **sections 6–7**.
 
 |  `s` | Contribution Axis display label | Violation Axis display label |
 | ---: | --- | --- |
@@ -655,6 +655,8 @@ The same slot number can appear on both axes, but the axes remain separate. A co
 
 Slots `s` = 1–6 use paired band-step labels; slots `s` = 7–9 use champion labels on the Contribution Axis and anti-constitutional misconduct labels on the Violation Axis. The axes remain separate and do not create a net score or permit offset between contribution and violation records. Operative criteria for Violation Axis slots `s` = 7–9 remain in **section 7** and **Chapter Ten**.
 
+Implementations may publish measurement units, evidence methods, and examples to help estimate full-life-equivalent benefit or loss. These materials are guidance only and may not override **sections 6–7**, **Chapter One**, or the **Chapter Six** Rights Floor.
+
 <a id="46-lequ-magnitude-calibration"></a>
 <a id="6-lequ-magnitude-calibration"></a>
 <a id="47-lequ-magnitude-calibration"></a>
@@ -663,67 +665,11 @@ Slots `s` = 1–6 use paired band-step labels; slots `s` = 7–9 use champion la
 <a id="8-lequ-magnitude-calibration"></a>
 <a id="52-lequ-magnitude-calibration"></a>
 <a id="52-contribution-magnitude-calibration"></a>
-
-#### 5.2 Contribution magnitude calibration
-
 <a id="41-lequ-contribution-calibration"></a>
 <a id="461-contribution-magnitude-calibration"></a>
 <a id="471-contribution-magnitude-calibration"></a>
 <a id="481-contribution-magnitude-calibration"></a>
 <a id="521-contribution-magnitude-calibration"></a>
-
-Use this table after:
-
-- Question 1 confirms the kind of contribution under **section 2.3**.
-- Question 2 measures how much good it did under **section 4.1**.
-- The LEQU baseline and limits at the opening of **section 4** are applied.
-
-Higher slots reflect larger, longer-lasting benefits that reach more sentients or institutions and strengthen more parts of the Constitutional Tetrad and **Continuity**.
-
-| `s` | Contribution Level | Roughly Equivalent To... | Tetrad leg(s) | Primary aim(s) |
-| ---: | --- | --- | --- | --- |
-| 1 | **Baseline contribution** | Meeting constitutional floor without violations | **Participation**, **Oversight** | **Flourishing** |
-| 2 | **Strengthened baseline contribution** | Reliably exceeding the floor in a bounded, demonstrable way | **Participation**, **Oversight** | **Flourishing** |
-| 3 | **Verified positive contribution** | Helping one sentient modestly beyond baseline | **Participation**, **Oversight** | **Flourishing** |
-| 4 | **Material positive contribution** | Helping a small group or single community noticeably | **Participation**, **Oversight** | **Flourishing** |
-| 5 | **Established stewardship-positive contribution** | Creating lasting benefit in a defined domain | **Participation**, **Oversight** | **Flourishing**, **Continuity** |
-| 6 | **Major stewardship-positive contribution** | Approaching one LEQU in impact, or enabling many others to meet obligations | **Participation**, **Oversight**, **Accountability** | **Flourishing**, **Continuity** |
-| 7 | **Recognized champion** | **At least one LEQU** — verifiably saved or transformed one lifetime-equivalent | **Participation**, **Oversight**, **Accountability** | **Flourishing**, **Continuity** |
-| 8 | **Distinguished champion** | **Multiple LEQUs** — lasting institutional repair or prevention that outlives the actors | **Participation**, **Oversight**, **Accountability** | **Flourishing**, **Continuity** |
-| 9 | **Exemplary champion** | **Rare, wide-scope gains** — intergenerational, ecosystem, or civilization-level benefit | **Participation**, **Oversight**, **Accountability** | **Continuity**, **Flourishing** |
-
-<a id="42-lequ-violation-calibration"></a>
-<a id="462-violation-magnitude-calibration"></a>
-<a id="472-violation-magnitude-calibration"></a>
-<a id="482-violation-magnitude-calibration"></a>
-<a id="522-violation-magnitude-calibration"></a>
-<a id="53-violation-magnitude-calibration"></a>
-
-#### 5.3 Violation magnitude calibration
-
-Use this table after:
-
-- Question 1 confirms the kind of violation under **section 2.3**.
-- Question 2 measures how bad it was under **section 4.2**.
-- The LEQU baseline and limits at the opening of **section 4** are applied.
-
-Higher slots reflect larger, longer-lasting losses that affect more sentients or institutions and harm more parts of the Constitutional Tetrad and **Continuity**. Operative criteria for each level are in **section 7**; final **Violation Axis** `s` = 7, 8, and 9 assignment remains in **Chapter Ten**.
-
-| `s` | Violation Level | Roughly Equivalent To... | Tetrad leg(s) | Primary aim(s) |
-| ---: | --- | --- | --- | --- |
-| 1 | **Formal non-compliance** | Process, records, or challenge-path problems without proven substantive harm | **Participation**, **Oversight** | **Flourishing** |
-| 2 | **Remedial substantive non-compliance** | Real harm or rights failure requiring repair, restoration, or civil correction | **Accountability**, **Participation** | **Flourishing** |
-| 3 | **Significant substantive non-compliance** | Material constitutional or Rights-Floor violation without aggravated or coercive features | **Accountability**, **Oversight** | **Flourishing**, **Continuity** |
-| 4 | **Duty-based or negligent-harm violation** | Preventable harm from unmet duty, foreseeable risk, or neglect where capacity to act existed | **Accountability**, **Oversight** | **Flourishing**, **Continuity** |
-| 5 | **Aggravated violation** | Repeated, reckless, evasive, concealed, or structurally enabled failure | **Accountability**, **Oversight** | **Flourishing**, **Continuity** |
-| 6 | **Coercive or safeguard-process violation** | Coercion, liberty threat, or social danger requiring criminal-process or equivalent safeguards | **Accountability**, **Participation**, **Oversight** | **Flourishing**, **Continuity** |
-| 7 | **Serious / critical non-compliance** | **At least one LEQU destroyed** or comparable critical constitutional harm | **Accountability**, **Participation**, **Oversight** | **Continuity**, **Flourishing** |
-| 8 | **Grave anti-constitutional misconduct** | **Multiple LEQUs lost** or structural cross-institutional constitutional damage | **Accountability**, **Participation**, **Oversight** | **Continuity**, **Flourishing** |
-| 9 | **Pernicious anti-constitutional misconduct** | Worst-case systemic, intergenerational, or civilizational constitutional harm | **Accountability**, **Participation**, **Oversight** | **Continuity**, **Flourishing** |
-
-Implementations may publish measurement units, evidence methods, and examples to help estimate full-life-equivalent benefit or loss. These materials are guidance only and may not override **sections 5.2 and 5.3**, **Table 2**, **Chapter One**, or the **Chapter Six** Rights Floor.
-
-
 <a id="7-primary-category-defaults"></a>
 <a id="47-primary-category-defaults"></a>
 <a id="8-primary-category-defaults"></a>
@@ -746,33 +692,23 @@ Implementations may publish measurement units, evidence methods, and examples to
 
 ### 6. Contribution Axis — bands and Table 2
 
-*In plain terms: **Table 1** gives the short display names for each slot on the scale. **Table 2** below turns those names into the real rules for verified good — what counts as baseline contribution, positive contribution, stewardship, or champion-level work. When contribution is recorded, the **contribution standing record** under **sections 2.1** and **3** is the case file that shows which category was applied, to whom or what, for which situation, and over what time period.*
+*In plain terms: **Table 2** shows where verified contribution belongs on the scale. Higher slots mean larger, longer-lasting benefits that reach more sentients or institutions.*
 
-The **Contribution Axis** is **positive-only**. It measures verified constitutional benefit, baseline satisfaction, and demonstrable uplift; it does not measure adverse violation findings or non-compliance. Those belong to **violation nature** under **section 7** and, where applicable, process / response character under **Chapter Nine section 3**.
-
-**Four primary bands** nest into the slot scale:
-
-- **Baseline contribution** (**C-BL**; `s` = 1–2): required constitutional conditions are met without unresolved material violation under applicable definitions, rights, and evaluation scope; strengthened baseline contribution records bounded, demonstrable reliability above the floor that has not yet become positive contribution.
-- **Positive contribution** (**C-PC**; `s` = 3–4): behavior demonstrably improves constitutional outcomes beyond minimum baseline obligations, including measurable reduction of systemic risk, restoration of harmed conditions, strengthened challenge rights, or durable improvement of environmental and informational integrity.
-- **Stewardship-positive contribution** (**C-SP**; `s` = 5–6): sustained, verifiable contribution to collective constitutional resilience across system boundaries, including prevention investments, ecosystem-strengthening coordination, and improvements that increase others' ability to meet baseline obligations without dependency abuse.
-- **Champion contribution** (**C-CH**; `s` = 7–9): sustained, verifiable stewardship whose scale, durability, or cross-institutional reach materially exceeds the stewardship-positive standard under the same auditability and contestability discipline. It includes durable reduction of systemic dependency or capture risk at material scope, structural repair or prevention that multiple communities or institutions rely on, or demonstrable constitutional-resilience gains that outlast the originating actors.
-
-Column 1 uses the same `s` as **Table 1**. Read each row with **sections 4.1**, **5.1**, **5.2**, **2.1**, and **2.2**. For the Violation Axis display label paired with each `s`, see **Table 1** column 3 and **section 7**.
-
+- The **Contribution Axis** is **positive-only**. It measures verified constitutional benefit, baseline satisfaction, and demonstrable uplift.
+- Adverse violation findings and non-compliance belong to **violation nature** under **section 7** and, where applicable, process / response character under **Chapter Nine section 3**.
+- Use **Table 2** after Question 1 confirms the kind of contribution under **section 2.3**, Question 2 measures its benefit under **section 4.1**, and the LEQU baseline and limits at the opening of **section 4** are applied.
 
 |  `s` | Contribution Axis — what it means in practice |
 | ---: | --- |
 |    1 | **basic baseline contribution** — You meet the basic constitutional floor for your scope. No major violations hiding under the surface. |
 |    2 | **strengthened baseline contribution** — You reliably exceed the minimum floor in a bounded, demonstrable way while remaining within the baseline band. |
-|    3 | **verified positive contribution** — You've made a real, demonstrable improvement beyond baseline obligations. |
-|    4 | **material positive contribution** — You've delivered material, lasting, or repeated benefits within your scope, though not yet stewardship-positive contribution. |
-|    5 | **established stewardship-positive contribution** — You've sustained contribution to collective constitutional resilience across system boundaries. |
-|    6 | **major stewardship-positive contribution** — Broad or deeply embedded stewardship that materially improves others' capacity to meet baseline obligations without creating dependency. |
-|    7 | **recognized champion** — Recognized stewardship whose scale, durability, or cross-institutional reach materially exceeds the stewardship-positive standard. |
-|    8 | **distinguished champion** — Distinguished stewardship with durable cross-institutional reliance, structural repair, or prevention that outlasts you. |
-|    9 | **exemplary champion** — Exemplary stewardship producing rare, durable constitutional-resilience gains at the widest material scope. |
-
-Positive contribution may be recorded in a **contribution standing record** while a subject also holds a linked **violation standing record** under **section 7**, subject to the no-offset rules in **section 2.2** and **Chapter Nine section 5.2**. Contribution credit under this table does not require formal governance status, salaried office, licensed-program participation, designated filings, or other official-channel pedigree. Peer, neighbor, voluntary, mutual-aid, and other non-institutional stewardship may count when its effects are demonstrable under the same **auditability** and **contestability** discipline applied to institutional contribution.
+|    3 | **verified positive contribution** — You make a real, demonstrable improvement beyond baseline obligations, such as modestly helping one sentient. |
+|    4 | **material positive contribution** — You deliver material, lasting, or repeated benefits to a small group or community. |
+|    5 | **established stewardship-positive contribution** — You create lasting benefit in a defined domain or across system boundaries. |
+|    6 | **major stewardship-positive contribution** — Your contribution approaches one LEQU in impact or materially improves many others' ability to meet baseline obligations without creating dependency. |
+|    7 | **recognized champion** — You verifiably save or transform at least one full-life equivalent through stewardship whose scale, durability, or cross-institutional reach exceeds the prior level. |
+|    8 | **distinguished champion** — You produce multiple LEQUs of benefit through durable institutional repair or prevention that outlasts the originating actors. |
+|    9 | **exemplary champion** — You produce rare, durable, wide-scope gains at an intergenerational, ecosystem, or civilizational scale. |
 
 <details>
 <summary><strong><span style="color: #2563eb;">Implementation interop note</span></strong></summary>
@@ -781,10 +717,16 @@ Positive contribution may be recorded in a **contribution standing record** whil
 
 Machine-readable fields for slot display (`sub_tier`, `sub_tier_display`, and related display fields) are defined in [CH06_NINE_SLOT_STANDING_SCALE.md](implementation/CH06_NINE_SLOT_STANDING_SCALE.md) and [ch06_nine_slot_constants.json](implementation/ch06_nine_slot_constants.json). Use them with the four-band default map in **Table 2** above.
 
-Adopted implementation may publish `C*` thresholds, `V(s)` weights, and keyed sub-tier labels. Those helpers must not replace the calibration in **sections 5.2–5.3**, the primary typing in **sections 6–7**, or the Chapter Ten assignment rules for Violation Axis `s` = 7, 8, and 9, except through a **conforming instrument** change.
+Adopted implementation may publish `C*` thresholds, `V(s)` weights, and keyed sub-tier labels. Those helpers must not replace the calibration and primary typing in **sections 6–7** or the Chapter Ten assignment rules for Violation Axis `s` = 7, 8, and 9, except through a **conforming instrument** change.
 
 </details>
 
+<a id="42-lequ-violation-calibration"></a>
+<a id="462-violation-magnitude-calibration"></a>
+<a id="472-violation-magnitude-calibration"></a>
+<a id="482-violation-magnitude-calibration"></a>
+<a id="522-violation-magnitude-calibration"></a>
+<a id="53-violation-magnitude-calibration"></a>
 <a id="72-violation-axis-severity-ladder"></a>
 <a id="472-violation-axis-severity-ladder"></a>
 <a id="82-violation-axis-severity-ladder"></a>
@@ -801,7 +743,7 @@ Adopted implementation may publish `C*` thresholds, `V(s)` weights, and keyed su
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§2](#2-standing-records) (*Question 1 records and verified-input gate*); [§4.2](#42-violation-severity-input-dimensions) (*violation Question 2 dimensions*); [§5.1](#51-slot-grammar-and-display-labels) (*slot grammar*); [§5.3](#53-violation-magnitude-calibration) (*violation LEQU calibration*); [§6](#6-contribution-axis-bands-and-table-2) (*Contribution Axis rules*).
+- Upstream: [§2](#2-standing-records) (*Question 1 records and verified-input gate*); [§4.2](#42-violation-severity-input-dimensions) (*violation Question 2 dimensions*); [§5.1](#51-slot-grammar-and-display-labels) (*slot grammar*); [§6](#6-contribution-axis-bands-and-table-2) (*Contribution Axis rules*).
 - Downstream: [§8](#8-forum-disclosure-and-recusal-process-impact) (*forum-integrity modifier*); [Chapter Nine §3](core_09-09_standing_integration.md#6-extended-axis-ii-legal-hybrid-duty-and-harm-descriptors) (*process and response character*); [Chapter Ten](core_10-10_misconduct.md#chapter-ten-anti-constitutional-misconduct) (*final top-slot assignment*).
 - Read with: [Supremacy and Enforceability](core_05i_integrative_definitions.md#supremacy-and-enforceability), [Constitutional Constraint Violation](core_05i_integrative_definitions.md#constitutional-constraint-violation), [Harm](core_05a_accountability_definitions.md#harm), and [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination).
 - Tetrad leg(s): **accountability**. Primary aim(s): **Flourishing** and **Continuity**. [material stake](core_00_preamble.md#material-stake) scaling applies to severity and verification burden.
@@ -821,11 +763,18 @@ Adopted implementation may publish `C*` thresholds, `V(s)` weights, and keyed su
 
 <br>
 
-*In plain terms: **Violation nature** is the adverse side of the model. To decide which slot a verified violation belongs in, apply **section 5.3** LEQU calibration on the loss side — roughly, whether conduct impaired, destroyed, wrongfully consumed, or foreclosed constitutional wellbeing.*
+*In plain terms: The **Violation Axis** measures how serious a verified violation is. Higher slots generally mean larger, longer-lasting losses that affect more sentients or institutions.*
 
-The slot scale measures verified constitutional loss, harm, waste, foreclosure, or danger, not disfavored status, allegation, retaliation preference, or moral dislike alone. **Violation nature** includes Violation Axis severity under this subsection, process / response character under **Chapter Nine section 3**, and hybrid, duty, diffusion, negligence, and descriptor material where facts warrant. Apply the **full-life-equivalent constitutional loss** definition and **Important limits on using LEQU** at the opening of **section 4** to all violation-side calibration.
+- Use the ladder after Question 1 confirms the kind of violation under **section 2.3**, Question 2 measures its severity under **section 4.2**, and the LEQU baseline and limits at the opening of **section 4** are applied.
+- Assign the highest `s` whose criteria fit the verified findings.
+- A person's status, an allegation, a desire to punish, or simple moral disapproval does not count by itself.
+- Formal defects remain at `s` = 1 unless substantive harm, a rights burden, or material operational failure is verified.
+- The availability of civil correction does not prevent a higher slot when the findings involve constitutional floors, aggravating features, coercion, liberty danger, or critical harm.
+- Consider relevant duties, shared responsibility, negligence, mixed conduct, and how the subject acted or responded.
+- Process / response character under **Chapter Nine section 3** remains separately traceable; it is not a second severity ladder.
+- Final **Violation Axis** `s` = 7, 8, and 9 assignment remains in **Chapter Ten**.
 
-**Operative Violation Axis severity ladder:**
+**Violation Axis severity levels:**
 
 
 | `s` | Violation Level | Operative criteria |
@@ -841,8 +790,6 @@ The slot scale measures verified constitutional loss, harm, waste, foreclosure, 
 | 9 | **Pernicious anti-constitutional misconduct** | **Worst-case systemic harm**: rare, intentional, systemic, intergenerational, civilizational, constitution-subverting harm at the widest material scope, or a final Chapter Ten finding establishing **s = 9** pernicious anti-constitutional misconduct. |
 
 <a id="48-adjacent-level-application-notes"></a>
-
-**Applying the ladder.** Assign the **highest** `s` whose criteria fit the verified findings. Formal defects stay at `s` = 1 unless substantive harm, rights burden, or material operational failure is verified. Remedial or civil-correction character alone does not cap escalation where constitutional floors, aggravating features, coercion, liberty danger, or critical harm are verified. Severity and process / response character remain separately traceable and do not form a second ladder.
 
 <a id="73-forum-disclosure-and-recusal-process-impact"></a>
 <a id="473-forum-disclosure-and-recusal-process-impact"></a>

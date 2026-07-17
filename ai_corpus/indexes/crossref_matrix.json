@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-07-17T11:35:03+00:00",
+  "generated_at": "2026-07-17T12:59:56+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -2847,9 +2847,10 @@
           },
           {
             "file": "core_08-08_standing_assessment.md",
-            "count": 3,
+            "count": 4,
             "anchors": [
-              "#48-lequ-magnitude-calibration",
+              "#6-contribution-axis-bands-and-table-2",
+              "#7-violation-axis-severity-ladder",
               "#lequ-baseline-constitutional-outcome"
             ]
           },
@@ -3173,20 +3174,16 @@
           },
           {
             "file": "core_08-08_standing_assessment.md",
-            "count": 41,
+            "count": 40,
             "anchors": [
               "#2-purpose-and-role",
               "#2-standing-records",
               "#21-standing-records-as-the-unit-of-application",
               "#3-standing-record-operational-requirements",
               "#31-minimum-record-contents",
-              "#48-lequ-magnitude-calibration",
-              "#52-contribution-magnitude-calibration",
               "#6-contribution-axis-bands-and-table-2",
               "#7-slot-grammar-and-display-labels",
               "#7-violation-axis-severity-ladder",
-              "#9-primary-category-defaults",
-              "#91-contribution-axis-bands-and-table-2",
               "#chapter-eight-compliance-violation-and-standing-model",
               "#chapters-eight-eleven-constitutional-compass",
               "#lequ-baseline-constitutional-outcome",
@@ -4648,7 +4645,7 @@
           },
           {
             "file": "core_08-08_standing_assessment.md",
-            "count": 94,
+            "count": 93,
             "anchors": [
               "#11-three-question-evaluation-discipline",
               "#2-purpose-and-role",
@@ -4663,7 +4660,6 @@
               "#42-violation-severity-input-dimensions",
               "#44-duty-based-or-negligent-harm-violation",
               "#46-question-2-measurement-illustrations",
-              "#482-violation-magnitude-calibration",
               "#6-contribution-axis-bands-and-table-2",
               "#7-violation-axis-severity-ladder",
               "#8-forum-disclosure-and-recusal-process-impact",

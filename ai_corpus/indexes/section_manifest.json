@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-07-17T11:35:02+00:00",
+  "generated_at": "2026-07-17T12:59:54+00:00",
   "files": {
     "core_00_preamble.md": {
       "total_lines": 249,
@@ -3516,13 +3516,13 @@
       ]
     },
     "core_08-08_standing_assessment.md": {
-      "total_lines": 929,
+      "total_lines": 876,
       "sections": [
         {
           "header": "CHAPTER EIGHT: CONTRIBUTION, VIOLATION, AND STANDING MODEL — MEASUREMENT",
           "level": 1,
           "line_start": 2,
-          "line_end": 929,
+          "line_end": 876,
           "anchor": "#chapter-eight-compliance-violation-and-standing-model"
         },
         {
@@ -3687,59 +3687,45 @@
           "anchor": "#46-question-2-measurement-illustrations"
         },
         {
-          "header": "5. Slot grammar and LEQU calibration",
+          "header": "5. Slot grammar and display labels",
           "level": 3,
           "line_start": 614,
-          "line_end": 746,
+          "line_end": 692,
           "anchor": "#5-slot-grammar-and-lequ-calibration"
         },
         {
           "header": "5.1 Table 1 — slot display labels",
           "level": 4,
           "line_start": 640,
-          "line_end": 666,
+          "line_end": 692,
           "anchor": "#51-table-1-slot-display-labels"
-        },
-        {
-          "header": "5.2 Contribution magnitude calibration",
-          "level": 4,
-          "line_start": 667,
-          "line_end": 701,
-          "anchor": "#52-contribution-magnitude-calibration"
-        },
-        {
-          "header": "5.3 Violation magnitude calibration",
-          "level": 4,
-          "line_start": 702,
-          "line_end": 746,
-          "anchor": "#53-violation-magnitude-calibration"
         },
         {
           "header": "6. Contribution Axis — bands and Table 2",
           "level": 3,
-          "line_start": 747,
-          "line_end": 798,
+          "line_start": 693,
+          "line_end": 740,
           "anchor": "#6-contribution-axis-bands-and-table-2"
         },
         {
           "header": "7. Violation Axis — severity ladder",
           "level": 3,
-          "line_start": 799,
-          "line_end": 858,
+          "line_start": 741,
+          "line_end": 805,
           "anchor": "#7-violation-axis-severity-ladder"
         },
         {
           "header": "8. Forum disclosure omission and recusal-process impact",
           "level": 3,
-          "line_start": 859,
-          "line_end": 894,
+          "line_start": 806,
+          "line_end": 841,
           "anchor": "#8-forum-disclosure-and-recusal-process-impact"
         },
         {
           "header": "9. Question 3 — what happens because of it?",
           "level": 3,
-          "line_start": 895,
-          "line_end": 929,
+          "line_start": 842,
+          "line_end": 876,
           "anchor": "#chapters-eight-eleven-constitutional-compass"
         }
       ]
