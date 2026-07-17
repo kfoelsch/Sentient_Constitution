@@ -612,17 +612,17 @@ Regression seeds document adversarial and core paths against constitutional owne
 
 ### Scenario ID: RS-XXIV-C-CHILD-001
 - **Class:** implementation / timely-resolution vignette
-- **Summary:** Tier A child neglect / care-duty path: interim protection before merits; verified violation standing record; **Interpersonal / Care Duty Misconduct** Q1; safeguard locks Q2; **CF-11.3.1** Tier A milestone compliance. Vignette: [core_08-11_application_vignettes.md](core_08-11_application_vignettes.md#vignette-child-neglect-care-duty).
-- **Read with:** [Article XXIV-C](core_06-06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor); [Chapter Eleven §10](core_11-11_forum.md#10-timely-resolution-materiality-tiers-and-anti-delay-discipline); [Chapter Eight §4](core_08-08_standing_assessment.md#4-standing-measurement-evaluation-dimensions); [Chapter Nine Chapter One §8.10](core_09-09_standing_integration.md#310-non-recurrence-lock-dimensions); **CF-11.3.1**.
+- **Summary:** Tier A child neglect / care-duty path: interim protection before merits; Q1 requires verified facts in a violation standing record; **Interpersonal / Care Duty Misconduct** is measured under Q2; safeguards, remedies, and locks follow under Q3; **CF-11.3.1** Tier A milestone compliance. Allegations do not complete Q1. Vignette: [core_08-11_application_vignettes.md](core_08-11_application_vignettes.md#vignette-child-neglect-care-duty).
+- **Read with:** [Article XXIV-C](core_06-06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor); [Chapter Eleven §10](core_11-11_forum.md#10-timely-resolution-materiality-tiers-and-anti-delay-discipline); [Chapter Eight §3](core_08-08_standing_assessment.md#4-standing-measurement-evaluation-dimensions); [Chapter Nine Chapter One §8.10](core_09-09_standing_integration.md#310-non-recurrence-lock-dimensions); **CF-11.3.1**.
 
 ### Scenario ID: RS-XXIV-C-DISC-001
 - **Class:** implementation / timely-resolution vignette
-- **Summary:** Tier B employment discrimination / participation-barrier pattern: institutional violation record; **Accessibility and Participation-Barrier Misconduct** + **System Misconduct** Q1; restriction and institutional vehicle locks Q2; no contribution offset. Vignette: [core_08-11_application_vignettes.md](core_08-11_application_vignettes.md#vignette-discrimination-participation-barrier).
+- **Summary:** Tier B employment discrimination / participation-barrier pattern: Q1 records the verified institutional pattern; **Accessibility and Participation-Barrier Misconduct** + **System Misconduct** are measured under Q2; restriction and institutional vehicle locks follow under Q3; no contribution offset. Vignette: [core_08-11_application_vignettes.md](core_08-11_application_vignettes.md#vignette-discrimination-participation-barrier).
 - **Read with:** [Article XXIV-C](core_06-06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor); [Chapter Eleven §10](core_11-11_forum.md#10-timely-resolution-materiality-tiers-and-anti-delay-discipline); [Article XII-B](core_06-06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress); **CF-11.3.1**.
 
 ### Scenario ID: RS-XXIV-C-BIZ-001
 - **Class:** implementation / timely-resolution vignette
-- **Summary:** Tier B–C misaligned business: exit lock-in, externalized harm caps contribution credit; **Exit and Lock-In Misconduct** + **System Misconduct** Q1; pathway-scoped and concealment escalated locks Q2; optional **Chapter Ten** escalation. Vignette: [core_08-11_application_vignettes.md](core_08-11_application_vignettes.md#vignette-misaligned-business-structural-harm).
+- **Summary:** Tier B–C misaligned business: Q1 records verified exit lock-in and externalized harm; **Exit and Lock-In Misconduct** + **System Misconduct** are measured under Q2; pathway-scoped and concealment-escalated locks follow under Q3; optional **Chapter Ten** Q2 gravity review. Vignette: [core_08-11_application_vignettes.md](core_08-11_application_vignettes.md#vignette-misaligned-business-structural-harm).
 - **Read with:** [Article XXIV-C](core_06-06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor); [Chapter Eleven §10](core_11-11_forum.md#10-timely-resolution-materiality-tiers-and-anti-delay-discipline); [Chapter Nine Chapter One §6.4](core_09-09_standing_integration.md#54-anti-evasion-and-look-through-authority); **CF-11.3.1**.
 
 ### Scenario ID: RS-XXIV-C-DELAY-001
@@ -632,8 +632,8 @@ Regression seeds document adversarial and core paths against constitutional owne
 
 ### Scenario ID: RS-TETRAD-TIMELINESS-001
 - **Class:** implementation / tetrad-timeliness vignette
-- **Summary:** Steward defers repair after documented misalignment notice; **Stewardship Defect** and Ch6 **Response timeliness / avoidable delay** Q1 hook; Ch7 Chapter One §8.10 remedy-commencement dimension. Vignette: [core_08-11_application_vignettes.md](core_08-11_application_vignettes.md#vignette-stewardship-delay-deferred-repair).
-- **Read with:** [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad); [Chapter One §9.1](core_01_b_stewardship_capacity_principles.md#91-stewardship); [Chapter Eight §3](core_08-08_standing_assessment.md#dual-use-measurement-dimensions); [Chapter Eleven §10](core_11-11_forum.md#10-timely-resolution-materiality-tiers-and-anti-delay-discipline); **Article XXIV-C**.
+- **Summary:** Steward defers repair after documented misalignment notice; Q1 records the verified delay, **Stewardship Defect** and **Response timeliness / avoidable delay** are Q2 measurement hooks, and remedy commencement is a Q3 consequence. Vignette: [core_08-11_application_vignettes.md](core_08-11_application_vignettes.md#vignette-stewardship-delay-deferred-repair).
+- **Read with:** [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad); [Chapter One §9.1](core_01_b_stewardship_capacity_principles.md#91-stewardship); [Chapter Eight §3.3](core_08-08_standing_assessment.md#dual-use-measurement-dimensions); [Chapter Eleven §10](core_11-11_forum.md#10-timely-resolution-materiality-tiers-and-anti-delay-discipline); **Article XXIV-C**.
 
 ### Scenario ID: RS-TETRAD-TIMELINESS-002
 - **Class:** adversarial / tetrad-hollow

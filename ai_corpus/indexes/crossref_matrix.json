@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-07-16T14:12:35+00:00",
+  "generated_at": "2026-07-17T01:05:29+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -4271,19 +4271,17 @@
         "targets": [
           {
             "file": "core_00_preamble.md",
-            "count": 23,
+            "count": 5,
             "anchors": [
               "#5-key-practical-process-pipelines",
               "#constitutional-tetrad",
-              "#from-measurement-to-evidence-and-remedy",
               "#material-stake",
-              "#measurements-overview",
               "#two-constitutional-aims"
             ]
           },
           {
             "file": "core_01_c_stewardship_capacity_principles.md",
-            "count": 9,
+            "count": 7,
             "anchors": [
               "#1112-what-incentives-must-not-do",
               "#114-misalignment-correction-and-capture-response",
@@ -4353,18 +4351,16 @@
           },
           {
             "file": "core_06-06_rights_part_c.md",
-            "count": 2,
+            "count": 1,
             "anchors": [
               "#article-xii-b-right-to-challenge-review-and-redress"
             ]
           },
           {
             "file": "core_06-06_rights_part_d.md",
-            "count": 9,
+            "count": 6,
             "anchors": [
               "#article-xxiii-a-justice-objective-and-scope",
-              "#article-xxiii-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints",
-              "#article-xxiii-c-least-restrictive-and-time-bounded-rule",
               "#article-xxiii-conflict-resolution-escalation-and-emergency-proportionality",
               "#article-xxiv-c-timely-resolution-and-anti-delay-floor",
               "#incentive-alignment-transition-carve-out"
@@ -4372,7 +4368,7 @@
           },
           {
             "file": "core_07_a_system_alignment_certification_evaluation.md",
-            "count": 5,
+            "count": 3,
             "anchors": [
               "#chapter-seven-part-a-certification-evaluation",
               "#chapter-seven-system-alignment-certification"
@@ -4380,57 +4376,48 @@
           },
           {
             "file": "core_07_b_system_alignment_certification_record_process.md",
-            "count": 5,
+            "count": 2,
             "anchors": [
-              "#12-transparency-auditability-and-contestability",
-              "#14-supervisory-sequence-and-contestability-chain",
               "#15-relationship-to-standing"
             ]
           },
           {
             "file": "core_08-08_standing_assessment.md",
-            "count": 4,
+            "count": 1,
             "anchors": [
-              "#3-standing-record-operational-requirements",
-              "#36-forum-boundary",
               "#chapter-eight-compliance-violation-and-standing-model"
             ]
           },
           {
             "file": "core_08-11_application_vignettes.md",
-            "count": 2,
+            "count": 1,
             "anchors": [
               "#chapters-eight-eleven-application-vignettes"
             ]
           },
           {
             "file": "core_09-09_standing_integration.md",
-            "count": 56,
+            "count": 33,
             "anchors": [
               "#210-safe-delegation-competency-gate-dimensions",
               "#30-non-recurrence-evaluation-and-integration-examples",
               "#310-non-recurrence-lock-dimensions",
               "#35-positive-standing-recognition",
               "#38-standing-integration-contribution-and-violation-nature",
-              "#5-standing-effects",
               "#6-extended-axis-ii-legal-hybrid-duty-and-harm-descriptors",
               "#71-shared-domain-lenses-cross-axis-vocabulary",
-              "#73-stackable-harm-and-conduct-descriptors-violation-nature-supplement",
               "#8-cross-axis-coupling-and-escalation-constraints",
-              "#8-enforcement-realism-anchors",
-              "#9-violation-axis-s-7-9-anti-constitutional-misconduct-authoritative-location",
               "#benefit-route-descriptors-q2-integration",
               "#chapter-nine-standing-effects-and-integration",
               "#competency-gates",
               "#harm-route-descriptors-q2-integration",
               "#standing-integration-slot-band-standing-locks",
-              "#standing-locks-in-the-standing-model",
-              "#standing-orientation-by-violation-slot"
+              "#standing-locks-in-the-standing-model"
             ]
           },
           {
             "file": "core_10-10_misconduct.md",
-            "count": 14,
+            "count": 10,
             "anchors": [
               "#610-forum-recusal-failure-and-biased-panel-participation",
               "#67-reward-protection-or-normalization-of-anti-constitutional-conduct",
@@ -4439,7 +4426,7 @@
           },
           {
             "file": "core_11-11_forum.md",
-            "count": 10,
+            "count": 6,
             "anchors": [
               "#10-timely-resolution-materiality-tiers-and-anti-delay-discipline",
               "#6-transfer-consolidation-and-coordination",
@@ -4453,7 +4440,7 @@
           },
           {
             "file": "corpus_systems.md",
-            "count": 3,
+            "count": 1,
             "anchors": []
           }
         ]
@@ -4472,7 +4459,7 @@
           },
           {
             "file": "core_01_a_values_principles.md",
-            "count": 9,
+            "count": 8,
             "anchors": [
               "#2-foundational-objective-wellbeing",
               "#3-non-negotiable-constraints-safety-and-truth",
@@ -4491,7 +4478,7 @@
           },
           {
             "file": "core_01_c_stewardship_capacity_principles.md",
-            "count": 6,
+            "count": 5,
             "anchors": [
               "#10-governance-under-stewardship-discipline",
               "#116-successor-responsibility-and-formal-structure-non-escape",
@@ -4549,7 +4536,7 @@
           },
           {
             "file": "core_05c_continuity_definitions.md",
-            "count": 22,
+            "count": 20,
             "anchors": [
               "#ecological-integrity-constitutional",
               "#ecological-integrity-constitutional-a",
@@ -4653,9 +4640,9 @@
           },
           {
             "file": "core_08-08_standing_assessment.md",
-            "count": 99,
+            "count": 89,
             "anchors": [
-              "#11-two-question-evaluation-discipline",
+              "#11-three-question-evaluation-discipline",
               "#2-purpose-and-role",
               "#2-standing-records",
               "#22-linked-records-and-no-offset-bridge",
@@ -4665,18 +4652,19 @@
               "#42-lequ-violation-calibration",
               "#42-remedial-substantive-non-compliance",
               "#44-duty-based-or-negligent-harm-violation",
-              "#44-question-1-measurement-illustrations",
+              "#44-question-2-measurement-illustrations",
               "#71-contribution-axis-bands-and-table-2",
               "#72-violation-axis-severity-ladder",
               "#73-forum-disclosure-and-recusal-process-impact",
-              "#benefit-route-descriptors-q1-measurement-role",
+              "#benefit-route-descriptors-q2-measurement-role",
               "#chapter-eight-compliance-violation-and-standing-model",
               "#chapters-eight-eleven-constitutional-compass",
               "#contribution-table-q1-magnitude-input-dimensions",
+              "#contribution-table-q2-magnitude-input-dimensions",
               "#dual-use-measurement-dimensions",
-              "#harm-route-descriptors-q1-measurement-role",
+              "#harm-route-descriptors-q2-measurement-role",
               "#verified-inputs-for-standing",
-              "#violation-table-q1-severity-input-dimensions"
+              "#violation-table-q2-severity-input-dimensions"
             ]
           },
           {
@@ -4688,7 +4676,7 @@
           },
           {
             "file": "core_09-09_standing_integration.md",
-            "count": 14,
+            "count": 12,
             "anchors": [
               "#10-enforcement-realism-anchors",
               "#62-joint-assessment-escalation-constraints-and-scrutiny",
@@ -5141,13 +5129,14 @@
           },
           {
             "file": "core_09-09_standing_integration.md",
-            "count": 17,
+            "count": 15,
             "anchors": [
               "#6-extended-axis-ii-legal-hybrid-duty-and-harm-descriptors",
               "#71-shared-domain-lenses-cross-axis-vocabulary",
               "#72-stackable-benefit-and-stewardship-descriptors-contribution-state-supplement",
               "#73-stackable-harm-and-conduct-descriptors-violation-nature-supplement",
-              "#8-cross-axis-coupling-and-escalation-constraints"
+              "#8-cross-axis-coupling-and-escalation-constraints",
+              "#chapter-nine-standing-effects-and-integration"
             ]
           },
           {
@@ -5244,7 +5233,7 @@
           },
           {
             "file": "core_08-08_standing_assessment.md",
-            "count": 11,
+            "count": 12,
             "anchors": [
               "#2-standing-records",
               "#22-linked-records-and-no-offset-bridge",
@@ -5252,7 +5241,7 @@
               "#32-related-record-cross-references",
               "#36-forum-boundary",
               "#4-standing-measurement-evaluation-dimensions",
-              "#44-question-1-measurement-illustrations",
+              "#44-question-2-measurement-illustrations",
               "#chapters-eight-eleven-constitutional-compass",
               "#dual-use-measurement-dimensions"
             ]

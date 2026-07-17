@@ -332,10 +332,10 @@ If a system cannot yet justify its own calibrated numbers, the interim default s
 | --- | --- | --- | --- |
 | Forum access and intake acknowledgment | ≤ 72 hours | ≤ 5 calendar days | ≤ 10 calendar days |
 | Evidence preservation initiated | concurrent with intake | ≤ 5 calendar days from intake | ≤ 10 calendar days from intake |
-| Verified finding → **standing record** opened ([Chapter Eight §2](../core_08-08_standing_assessment.md#2-standing-records)) | ≤ 7 calendar days | ≤ 21 calendar days | ≤ 60 calendar days |
-| **Question 1** measurement ([Chapter Eight §4](../core_08-08_standing_assessment.md#4-standing-measurement-evaluation-dimensions)) | ≤ 3 calendar days after verified inputs complete | ≤ 14 calendar days | ≤ 45 calendar days |
-| **Question 2** integration ([Chapter Nine](../core_09-09_standing_integration.md#chapter-nine-standing-effects-and-integration)) | ≤ 7 calendar days after Q1 | ≤ 21 calendar days | ≤ 60 calendar days |
-| Remedy or safeguard commencement | ≤ 3 calendar days after Q2 where ongoing harm is material | ≤ 14 calendar days | ≤ 30 calendar days after published integration plan |
+| **Question 1** — verified finding → **standing record** opened ([Chapter Eight §2](../core_08-08_standing_assessment.md#2-standing-records)) | ≤ 7 calendar days | ≤ 21 calendar days | ≤ 60 calendar days |
+| **Question 2** — measurement ([Chapter Eight §3](../core_08-08_standing_assessment.md#4-standing-measurement-evaluation-dimensions)) | ≤ 3 calendar days after verified inputs complete | ≤ 14 calendar days | ≤ 45 calendar days |
+| **Question 3** — integration ([Chapter Nine](../core_09-09_standing_integration.md#chapter-nine-standing-effects-and-integration)) | ≤ 7 calendar days after Q2 | ≤ 21 calendar days | ≤ 60 calendar days |
+| Remedy or safeguard commencement | ≤ 3 calendar days after Q3 where ongoing harm is material | ≤ 14 calendar days | ≤ 30 calendar days after published integration plan |
 | **Integrated resolution outer bound** | ≤ 30 calendar days | ≤ 90 calendar days | ≤ 365 calendar days |
 
 **Tier C continuation.** Extension beyond the integrated-resolution outer bound requires reauthorization under **Article XXIII-D** (*Continuation discipline*) with documented necessity, proportionality, and absence of less-restrictive feasible alternatives.

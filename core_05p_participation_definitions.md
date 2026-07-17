@@ -260,7 +260,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-- Canonical owner: [Chapter Eight — §6 LEQU baseline](core_08-08_standing_assessment.md#6-lequ-baseline-constitutional-outcome) (*full-life-equivalent benefit and loss, **LEQU** calibration, substrate-agnostic scope*).
+- Canonical owner: [Chapter Eight — §3.6 LEQU baseline](core_08-08_standing_assessment.md#6-lequ-baseline-constitutional-outcome) (*full-life-equivalent benefit and loss, **LEQU** calibration, substrate-agnostic scope*).
 </details>
 
 <br>
@@ -271,16 +271,16 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 
 
 - **What it is**
-  - **In scope:** Shorthand for a **Lifespan Equivalent Unit** — the numeric or narrative unit adopted implementation uses to express **full-life-equivalent constitutional benefit** or comparable loss when calibrating Contribution Axis or Violation Axis slot magnitude under [Chapter Eight](core_08-08_standing_assessment.md) **§2**. Chapter Five pointer; canonical mechanics: Chapter Eight **§2**.
+  - **In scope:** Shorthand for a **Lifespan Equivalent Unit** — the numeric or narrative unit adopted implementation uses to express **full-life-equivalent constitutional benefit** or comparable loss when calibrating Contribution Axis or Violation Axis slot magnitude under [Chapter Eight](core_08-08_standing_assessment.md) **§3.6**. Chapter Five pointer; canonical mechanics: Chapter Eight **§3.6**.
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 <a id="lifespan-equivalent-unit-lequ-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Participation measurement family — supporting measure under the participation measurement family.
 
-    **Primary assessment:** Apply **only** as implemented consistently with Chapter Eight **§2** and primary banding under **§Chapter One §8.1 and 5.2**; read with [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination) where magnitude disputes are material.
+    **Primary assessment:** Apply **only** as implemented consistently with Chapter Eight **§3.6** and primary banding under **§§3.7.1–3.7.2**; read with [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination) where magnitude disputes are material.
 <a id="lifespan-equivalent-unit-lequ-c"></a>
 - **What must hold**
-  - undisclosed, un-auditable, or **species-bound** **LEQU** uses that displace, narrow, or substitute for Chapter Eight **§2** calibration rules.
+  - undisclosed, un-auditable, or **species-bound** **LEQU** uses that displace, narrow, or substitute for Chapter Eight **§3.6** calibration rules.
 
 ---
 

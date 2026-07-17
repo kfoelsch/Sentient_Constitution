@@ -23,11 +23,11 @@
 >
 > 1. **Situation** — actors and stakes (illustrative facts only).
 > 2. **Legacy failure mode** — why conventional systems stall for years.
-> 3. **Pipeline pass** — numbered steps through forum supervision → standing record → Question 1 → Question 2 → remedy.
+> 3. **Pipeline pass** — numbered steps through Question 1 (*what happened?*) → Question 2 (*how good or bad?*) → Question 3 (*what happens because of it?*).
 > 4. **Milestone table** — [Chapter Eleven §10](core_11-11_forum.md#10-timely-resolution-materiality-tiers-and-anti-delay-discipline) tier windows from **CF-11.3.1** (adopter floor).
 > 5. **Must not happen** — anti-patterns the constitution rejects.
 >
-> **References:** [Chapter Eight §4](core_08-08_standing_assessment.md#4-standing-measurement-evaluation-dimensions) (Question 1 dimensions); [Chapter Eight §4.4](core_08-08_standing_assessment.md#44-question-1-measurement-illustrations) (Question 1 measurement illustrations); [Chapter Nine §2.1](core_09-09_standing_integration.md#210-safe-delegation-competency-gate-dimensions) and [Chapter Nine §3.1](core_09-09_standing_integration.md#310-non-recurrence-lock-dimensions) (Question 2); [Chapter Eleven](core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) (forum routing and supervision); [implementation/CH06_NINE_SLOT_STANDING_SCALE.md](implementation/CH06_NINE_SLOT_STANDING_SCALE.md) (numeric layer).
+> **References:** [Chapter Eight §2](core_08-08_standing_assessment.md#2-standing-records) (Question 1); [Chapter Eight §3](core_08-08_standing_assessment.md#4-standing-measurement-evaluation-dimensions) and [§3.4](core_08-08_standing_assessment.md#44-question-2-measurement-illustrations) (Question 2); [Chapter Nine §2.10](core_09-09_standing_integration.md#210-safe-delegation-competency-gate-dimensions) and [§3.10](core_09-09_standing_integration.md#310-non-recurrence-lock-dimensions) (Question 3); [Chapter Eleven](core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) (forum routing and supervision).
 >
 > Regression hooks: `RS-XXIV-C-CHILD-001`, `RS-XXIV-C-DISC-001`, `RS-XXIV-C-BIZ-001`, `RS-XXIV-C-DELAY-001` in [CONSTITUTIONAL_REGRESSION_SCENARIOS.md](CONSTITUTIONAL_REGRESSION_SCENARIOS.md).
 
@@ -54,9 +54,9 @@ Years-long cycles: vague “welfare checks,” reputation gossip, family-forum d
 | 1 | **Protected report** received; **CI-16** care-economy intake routes to child-protection remedy organ and **Sentient** or **Institutional** forum family per primary stakes. |
 | 2 | **Tier A intake** under **CF-11.3.1**; evidence preservation (home visit records, school logs, platform schedule exports) begins concurrently. |
 | 3 | **Interim protection** (supervised care, respite placement, or in-home support bundle) without waiting for full merits — **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*) Tier A. |
-| 4 | Forum produces **verified violation finding** → open **axis-pure violation standing record** on guardian and, if verified, **institutional vehicle** record on platform scheduling policy ([Chapter Eight §2](core_08-08_standing_assessment.md#2-standing-records)). |
-| 5 | **Question 1** ([Chapter Eight §4](core_08-08_standing_assessment.md#4-standing-measurement-evaluation-dimensions)): **Interpersonal / Care Duty Misconduct** + **Negligent Misconduct**; dependency-asymmetric **materiality** elevates severity; likely `s` = 4–5 pending LEQU calibration. |
-| 6 | **Question 2** ([Chapter Nine §3.1](core_09-09_standing_integration.md#310-non-recurrence-lock-dimensions)): **Safeguard Lock** + **protective participation lock** on unsupervised custody routes; **pathway-scoped** blocks on sole-custody authority until verified monitoring and respite plan. |
+| 4 | **Question 1 — what happened?** Forum produces a **verified violation finding** → open a separate **violation standing record** on the guardian and, if verified, an **institutional vehicle** record on the platform scheduling policy ([Chapter Eight §2](core_08-08_standing_assessment.md#2-standing-records)). |
+| 5 | **Question 2 — how bad was it?** ([Chapter Eight §3](core_08-08_standing_assessment.md#4-standing-measurement-evaluation-dimensions)): **Interpersonal / Care Duty Misconduct** + **Negligent Misconduct**; dependency-asymmetric **materiality** elevates severity; likely `s` = 4–5 pending LEQU calibration. |
+| 6 | **Question 3 — what happens because of it?** ([Chapter Nine §3.10](core_09-09_standing_integration.md#310-non-recurrence-lock-dimensions)): **Safeguard Lock** + **protective participation lock** on unsupervised custody routes; **pathway-scoped** blocks on sole-custody authority until verified monitoring and respite plan. |
 | 7 | **Remedy**: restitution bundle (food, care access, stable housing link), platform schedule relief, and monitored care plan — **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*) joint requirements. |
 | 8 | If verified platform policy **forecloses exit** from exploitative scheduling, linked record cross-references **Exit and Lock-In Misconduct** on institutional route. |
 
@@ -67,10 +67,10 @@ Years-long cycles: vague “welfare checks,” reputation gossip, family-forum d
 | Intake acknowledgment | ≤ 72 hours |
 | Evidence preservation | concurrent with intake |
 | Interim protection | as soon as credible harm is material — not after merits |
-| Verified finding → standing record | ≤ 7 days |
-| Q1 classification | ≤ 3 days after verified inputs |
-| Q2 integration | ≤ 7 days after Q1 |
-| Remedy commencement | ≤ 3 days after Q2 |
+| Q1 verified finding → standing record | ≤ 7 days |
+| Q2 measurement | ≤ 3 days after verified inputs |
+| Q3 integration | ≤ 7 days after Q2 |
+| Remedy commencement | ≤ 3 days after Q3 |
 | Integrated resolution outer bound | ≤ 30 days |
 
 #### Must not happen
@@ -100,9 +100,9 @@ Multi-year EEO-style litigation, sealed settlements, reputation damage without v
 | --- | --- |
 | 1 | **Forum access** and class treatment under **CF-5**; **Tier B** routing. |
 | 2 | Evidence preservation: model cards, override logs, compensation bands, accessibility accommodation denials. |
-| 3 | Verified pattern finding → **violation standing record** on employer institution; individual records cross-linked under [§3.2](core_08-08_standing_assessment.md#32-related-record-cross-references). |
-| 4 | **Question 1**: **Accessibility and Participation-Barrier Misconduct** + **System Misconduct**; stacked harm routes; pattern after notice may add aggravated character (`s` = 4–5). |
-| 5 | **Question 2**: **Restriction Lock** on hiring and compensation authority routes; **institutional vehicle lock** if policy is structurally unremediable without receivership-level change. |
+| 3 | **Question 1 — what happened?** Verified pattern finding → **violation standing record** on employer institution; individual records cross-linked under [§3.2](core_08-08_standing_assessment.md#32-related-record-cross-references). |
+| 4 | **Question 2 — how bad was it?** **Accessibility and Participation-Barrier Misconduct** + **System Misconduct**; stacked harm routes; pattern after notice may add aggravated character (`s` = 4–5). |
+| 5 | **Question 3 — what happens because of it?** **Restriction Lock** on hiring and compensation authority routes; **institutional vehicle lock** if policy is structurally unremediable without receivership-level change. |
 | 6 | **Remedy**: back pay, role restoration, accommodation implementation, algorithmic audit, and public correction record — remedial character stacks without lowering slot. |
 | 7 | **Contribution record** (if any): verified **Access and Inclusion** repair work by reformed HR unit stays on separate **contribution standing record**; does not offset open violation record. |
 
@@ -112,10 +112,10 @@ Multi-year EEO-style litigation, sealed settlements, reputation damage without v
 | --- | --- |
 | Intake acknowledgment | ≤ 5 calendar days |
 | Evidence preservation | ≤ 5 days from intake |
-| Verified finding → standing record | ≤ 21 days |
-| Q1 classification | ≤ 14 days after verified inputs |
-| Q2 integration | ≤ 21 days after Q1 |
-| Remedy commencement | ≤ 14 days after Q2 |
+| Q1 verified finding → standing record | ≤ 21 days |
+| Q2 measurement | ≤ 14 days after verified inputs |
+| Q3 integration | ≤ 21 days after Q2 |
+| Remedy commencement | ≤ 14 days after Q3 |
 | Integrated resolution outer bound | ≤ 90 days |
 
 #### Must not happen
@@ -144,9 +144,9 @@ Arbitration clauses, shell subcontractors, years of “market efficiency” defe
 | --- | --- |
 | 1 | **Primary-stakes routing**: **Institutional** lead; **Technical Forum Domains** certified component for routing-safety specification. |
 | 2 | **Tier B** for driver lock-in and compensation injury; escalate to **Tier C** if cross-border corporate structure or **Chapter Ten** capture pattern is verified. |
-| 3 | Verified findings → violation records on platform operator; linked **contribution** claims for “efficiency” capped or rejected when [dual-use externalized harm](core_08-08_standing_assessment.md#dual-use-measurement-dimensions) is verified. |
-| 4 | **Question 1**: **Exit and Lock-In Misconduct** + **System Misconduct** + **Agency and Manipulation Misconduct**; ecological hub harm may add **Ecological Misconduct** component (`s` = 4–6 range pending verification). |
-| 5 | **Question 2**: **pathway-scoped locks** on migration, contract-enforcement, and governance routes; **concealment / evasion escalated lock** if defect reports were buried after notice. |
+| 3 | **Question 1 — what happened?** Verified findings → violation records on platform operator; linked **contribution** claims for “efficiency” capped or rejected when [dual-use externalized harm](core_08-08_standing_assessment.md#dual-use-measurement-dimensions) is verified. |
+| 4 | **Question 2 — how bad was it?** **Exit and Lock-In Misconduct** + **System Misconduct** + **Agency and Manipulation Misconduct**; ecological hub harm may add **Ecological Misconduct** component (`s` = 4–6 range pending verification). |
+| 5 | **Question 3 — what happens because of it?** **Pathway-scoped locks** on migration, contract-enforcement, and governance routes; **concealment / evasion escalated lock** if defect reports were buried after notice. |
 | 6 | **Remedy**: contract reform, exit without penalty, driver stabilization fund, safety patch deployment, ecological remediation plan — look-through accountability on functional control ([Chapter Nine §5.4](core_09-09_standing_integration.md#54-anti-evasion-and-look-through-authority)). |
 | 7 | If capture-scale misconduct verified, **Chapter Ten** pointer for top-slot review; **Tier C** outer bound applies. |
 
@@ -156,9 +156,9 @@ Arbitration clauses, shell subcontractors, years of “market efficiency” defe
 | --- | --- | --- |
 | Intake acknowledgment | ≤ 5 days | ≤ 10 days |
 | Evidence preservation | ≤ 5 days | ≤ 10 days |
-| Standing record | ≤ 21 days | ≤ 60 days |
-| Q1 classification | ≤ 14 days | ≤ 45 days |
-| Q2 integration | ≤ 21 days | ≤ 60 days |
+| Q1 verified finding → standing record | ≤ 21 days | ≤ 60 days |
+| Q2 measurement | ≤ 14 days | ≤ 45 days |
+| Q3 integration | ≤ 21 days | ≤ 60 days |
 | Remedy commencement | ≤ 14 days | ≤ 30 days after plan |
 | Integrated resolution outer bound | ≤ 90 days | ≤ 365 days |
 
@@ -181,8 +181,8 @@ Arbitration clauses, shell subcontractors, years of “market efficiency” defe
 | Stage | Application |
 | --- | --- |
 | Stewardship | [Chapter One §9.1](core_01_c_stewardship_capacity_principles.md#91-stewardship) — tetrad **timeliness** leg; [Stewardship Defect](core_05c_continuity_definitions.md#stewardship-defect-constitutional) when chronic delay after notice |
-| Q1 classification | [Chapter Eight §4.3 dual-use](core_08-08_standing_assessment.md#dual-use-measurement-dimensions) — **Response timeliness / avoidable delay** aggravates violation `s` = 4–5 |
-| Q2 integration | [Chapter Nine §3.1](core_09-09_standing_integration.md#310-non-recurrence-lock-dimensions) — **Remedy commencement / pipeline delay** row |
+| Q2 measurement | [Chapter Eight §3.3 dual-use](core_08-08_standing_assessment.md#dual-use-measurement-dimensions) — **Response timeliness / avoidable delay** aggravates violation `s` = 4–5 |
+| Q3 integration | [Chapter Nine §3.10](core_09-09_standing_integration.md#310-non-recurrence-lock-dimensions) — **Remedy commencement / pipeline delay** row |
 | Pipeline clocks | [Chapter Eleven §10](core_11-11_forum.md#10-timely-resolution-materiality-tiers-and-anti-delay-discipline); [Article XXIV-C](core_06-06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*); **CF-11.3.1** Tier B windows |
 
 **Must not happen:** Treating post-notice deferral as sufficient stewardship when correction was feasible; counting throughput metrics as **Contribution Axis** credit while delay compounds harm.
@@ -209,9 +209,9 @@ Arbitration clauses, shell subcontractors, years of “market efficiency” defe
 
 | Rule | Source |
 | --- | --- |
-| Allegations ≠ standing | [Chapter Eight §3.1](core_08-08_standing_assessment.md#31-minimum-record-contents) |
+| Allegations ≠ standing | [Chapter Eight §2.4.1](core_08-08_standing_assessment.md#31-minimum-record-contents) |
 | No offset across axes | [Chapter Eight §2.2](core_08-08_standing_assessment.md#22-linked-records-and-no-offset-bridge) |
-| Forums may open, update, or correct records — filed case ≠ standing | [Chapter Eight §3.6](core_08-08_standing_assessment.md#36-forum-boundary) |
+| Forums may open, update, or correct records — filed case ≠ standing | [Chapter Eight §2.4.6](core_08-08_standing_assessment.md#36-forum-boundary) |
 | Tetrad timeliness leg | [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad); [Timeliness](core_05a_accountability_definitions.md#timeliness-constitutional) |
 | Timely + efficient + just together | [Article XXIV-C](core_06-06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*) |
 | Numeric tier floors | [CF-11.3.1](corpus_forum/cf_11_performance_backlog_publication_accessibility.md#cf-1131-target-windows-and-timing-floors) |

@@ -1261,7 +1261,7 @@ This cluster is the joint-invocation home for the six constitutional forum famil
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Owner: [Chapter Eleven Chapter One §8.2.1](core_11-11_forum.md#421-sentient-forums); read with [Chapter Eight §5](core_08-08_standing_assessment.md#5-slot-grammar-and-display-labels) primary-stakes routing.
+- Owner: [Chapter Eleven Chapter One §8.2.1](core_11-11_forum.md#421-sentient-forums); read with [Chapter Eight §3.5](core_08-08_standing_assessment.md#5-slot-grammar-and-display-labels) primary-stakes routing.
 
 </details>
 
@@ -1453,7 +1453,7 @@ This cluster is the joint-invocation home for the six constitutional forum famil
 
 - Constitutional frame: **Accountability** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05o_oversight_definitions.md#materiality-determination).
 - Chapter One basis: §11.1, §11.3, §11.4, §12.1, §8 (see [Chapter Five compass](../core_05-05_definitions_a_independent.md#chapter-five-compass-and-definition-map) map).
-- Read with: Apply [Auditability](core_05o_oversight_definitions.md#auditability), [Contestability](core_05a_accountability_definitions.md#contestability), [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination), [Adjudication and Dispute Resolution](core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional), [Chapter Eight §5](core_08-08_standing_assessment.md#5-slot-grammar-and-display-labels), [Chapter Nine §3.3](core_09-09_standing_integration.md#standing-integration-slot-band-standing-locks), and [Chapter Ten](core_10-10_misconduct.md#chapter-ten-anti-constitutional-misconduct) where materially implicated.
+- Read with: Apply [Auditability](core_05o_oversight_definitions.md#auditability), [Contestability](core_05a_accountability_definitions.md#contestability), [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination), [Adjudication and Dispute Resolution](core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional), [Chapter Eight §3.5](core_08-08_standing_assessment.md#5-slot-grammar-and-display-labels), [Chapter Nine §3.3](core_09-09_standing_integration.md#standing-integration-slot-band-standing-locks), and [Chapter Ten](core_10-10_misconduct.md#chapter-ten-anti-constitutional-misconduct) where materially implicated.
 - Downstream: [Chapters Eight–Eleven constitutional compass](core_08-08_standing_assessment.md#chapters-eight-eleven-constitutional-compass) (*reader map for Chapters Eight through Eleven pipeline and Tetrad / Aims framing*).
 
 </details>
@@ -1526,7 +1526,7 @@ This cluster is the joint-invocation home for contribution state, standing recor
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Principles: [Chapter Seven §3 Whole-System Certification Evaluation](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (materiality / verification in standing inputs); [Chapter One §6.3.2 Proxy-Divergence Invalidation](core_01_b_interaction_interpretation.md#632-proxy-divergence-invalidation) (standing metrics vs demonstrable facts).
-- Canonical owner: [Chapter Eight — section 7.1](core_08-08_standing_assessment.md#71-contribution-axis-bands-and-table-2) (*Axis I — contribution state, standing-effect mechanics, and supplemental descriptors*); read with [Chapter Eight — section 1](core_08-08_standing_assessment.md#2-purpose-and-role) (*two-axis frame*); [Chapter Eight §3.1 — Verified-input gate](core_08-08_standing_assessment.md#31-minimum-record-contents); [Chapter Eight §6](core_08-08_standing_assessment.md#6-lequ-baseline-constitutional-outcome) (*LEQU and constitutional-outcome baselines*).
+- Canonical owner: [Chapter Eight — section 3.7.1](core_08-08_standing_assessment.md#71-contribution-axis-bands-and-table-2) (*Contribution Axis state and primary bands*); read with [Chapter Eight — section 1](core_08-08_standing_assessment.md#2-purpose-and-role) (*three-question frame*); [Chapter Eight §2.4.1 — Verified-input gate](core_08-08_standing_assessment.md#31-minimum-record-contents); [Chapter Eight §3.6](core_08-08_standing_assessment.md#6-lequ-baseline-constitutional-outcome) (*LEQU calibration*).
 - Read with: the [Standing State, Contribution, and Violation cluster](core_05p_participation_definitions.md#standing-state-contribution-and-violation-cluster), [Participant Standing](core_05a_accountability_definitions.md#participant-standing-constitutional) (*distinct — **Article XVIII** (*Standing and Participation Status*) participation status versus Axis I typing*); [Standing Record](core_05a_accountability_definitions.md#standing-record-chapter-six); [Standing Effect](core_05a_accountability_definitions.md#standing-effect-chapter-six); [Violation Nature](core_05a_accountability_definitions.md#violation-nature-chapter-six); [Verified Violation Findings](core_05a_accountability_definitions.md#verified-violation-findings); [Lifespan Equivalent Unit (LEQU)](core_05p_participation_definitions.md#lifespan-equivalent-unit-lequ) (*shorthand for full-life-equivalent calibration*); [Chapter Eight — section 6.2](core_08-08_standing_assessment.md#72-violation-axis-severity-ladder) (*Axis II — violation-nature primary typing*); [Auditability](core_05o_oversight_definitions.md#auditability); [Contestability](core_05a_accountability_definitions.md#contestability); [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination).
 
 </details>
@@ -1556,7 +1556,7 @@ This cluster is the joint-invocation home for contribution state, standing recor
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Canonical owner: [Chapter Eight §3.1](core_08-08_standing_assessment.md#31-minimum-record-contents) (*Verified-input gate*).
+- Canonical owner: [Chapter Eight §2.4.1](core_08-08_standing_assessment.md#31-minimum-record-contents) (*Verified-input gate*).
 - Read with: the [Standing State, Contribution, and Violation cluster](core_05p_participation_definitions.md#standing-state-contribution-and-violation-cluster), [Contribution State](core_05a_accountability_definitions.md#contribution-state), [Verified Violation Findings](core_05a_accountability_definitions.md#verified-violation-findings), [Standing Record](core_05a_accountability_definitions.md#standing-record-chapter-six), [Standing Effect](core_05a_accountability_definitions.md#standing-effect-chapter-six), [Violation Nature](core_05a_accountability_definitions.md#violation-nature-chapter-six), [Auditability](core_05o_oversight_definitions.md#auditability), and [Contestability](core_05a_accountability_definitions.md#contestability).
 
 </details>
@@ -1593,7 +1593,7 @@ This cluster is the joint-invocation home for contribution state, standing recor
 <br>
 
 - **What it is**
-  - **In scope:** **Violation Axis** inputs that may affect **standing effect** because they rest on auditable, contestable findings satisfying Chapters **Two through Four** and Chapter Eight **§3.2**. Chapter Five pointer; canonical mechanics: Chapter Eight **§3.2** and **§7**. Compound with [Violation Nature](core_05a_accountability_definitions.md#violation-nature-chapter-six): this entry supplies the admissible finding basis; violation nature supplies adverse-outcome classification where the underlying finding supports it. Allegations, intake labels, provisional routing, and forum-phase narratives are not verified violation findings by themselves.
+  - **In scope:** **Violation Axis** inputs that may affect **standing effect** because they rest on auditable, contestable findings satisfying Chapters **Two through Four** and Chapter Eight **§2.4.2**. Chapter Five pointer; canonical mechanics: Chapter Eight **§2.4.2** and **§3.7.2**. Compound with [Violation Nature](core_05a_accountability_definitions.md#violation-nature-chapter-six): this entry supplies the admissible finding basis; violation nature supplies adverse-outcome classification where the underlying finding supports it. Allegations, intake labels, provisional routing, and forum-phase narratives are not verified violation findings by themselves.
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 <a id="verified-violation-findings-a"></a>
 - **How to measure and assess**
