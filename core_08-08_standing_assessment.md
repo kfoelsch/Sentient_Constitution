@@ -751,6 +751,8 @@ The routing tables below are non-exhaustive. Every additional definition, princi
 > This guidance helps readers interpret the scale. It does not add, remove, or narrow binding obligations.
 >
 > The scale uses a five-times progression anchored at `s` = 7 = one LEQU. For either axis, the minimum magnitude for slot `s` is `5^(s−7)` LEQU for slots 2 through 9; slot 1 begins at zero. Adopted implementation may publish the resulting numeric thresholds and calibration examples. Slot 1 includes a verified constitutional baseline on the Contribution Axis and verified loss below the first positive threshold on the Violation Axis; absence of a contribution or absence of a violation is not itself an `s` = 1 record.
+>
+> **Human-readable anchor.** Using an 80-year human lifespan as a calibration example, read the middle column upward as full-life-equivalent benefit, usable time, or rights-consistent resources and capacity added; read it downward as equivalent loss, deprivation, waste, or foreclosure. Resource quantity does not count by itself—the constitutional outcome it produces or prevents controls.
 
 </details>
 
@@ -758,11 +760,17 @@ The routing tables below are non-exhaustive. Every additional definition, princi
 
 *In plain terms: **Table 2** places verified contribution and verified violation on the same proportional impact scale. Higher slots mean greater integrated constitutional benefit or loss. The records and axes remain separate: the common scale compares magnitude, not moral worth, and never permits help to cancel harm.*
 
-- Apply **Proportionality** to estimate integrated LEQU impact from depth, sentient scope, vulnerability, duration, durability or irreversibility, reach, and constitutional criticality. These dimensions shape the LEQU estimate; they are not independent slot bonuses.
-- Use **Table 2** after Question 1 confirms what happened, Question 2 measures the verified benefit or loss, **sections 4 and 5.2** are applied, and the constitutional sources required by **section 6** are identified.
-- Every assignment must satisfy traceability, auditability, contestability, and the applicable Rights Floor. Contribution must also satisfy non-externalization and constitutional alignment.
+Apply **Proportionality** to estimate integrated LEQU impact from depth, sentient scope, vulnerability, duration, durability or irreversibility, reach, and constitutional criticality. These dimensions shape the LEQU estimate; they are not independent slot bonuses.
 
-**Human-readable anchor.** Using an 80-year human lifespan as a calibration example, read the middle column upward as full-life-equivalent benefit, usable time, or rights-consistent resources and capacity added; read it downward as equivalent loss, deprivation, waste, or foreclosure. Resource quantity does not count by itself—the constitutional outcome it produces or prevents controls.
+- Use **Table 2** after Question 1 confirms what happened, Question 2 measures the verified benefit or loss, **sections 4 and 5.2** are applied, and the constitutional sources required by **section 6** are identified.
+- Assign one slot from the integrated LEQU estimate.
+  - Explain how each material scaling dimension affected the estimate and why omitted dimensions did not control.
+  - Every assignment must satisfy traceability, auditability, contestability, and the applicable Rights Floor. Contribution must also satisfy non-externalization and constitutional alignment.
+- Record conduct-character facts as separately traceable descriptors. They may control attribution, review intensity, safeguards, remedy, or a Chapter Ten designation; they affect the slot only to the extent that verified consequences alter the integrated LEQU impact.
+- Fully assess the verified consequences of the action or course of conduct, including physical injury, psychological trauma, coercive effects, deprivation or danger to liberty, cumulative harm, and other constitutionally cognizable benefit or loss, through the material scaling dimensions.
+- Do not:
+  - Raise or lower the slot merely because an event or course of conduct is characterized by duty, negligence, intent, concealment, repetition, aggravation, coercion, violence, liberty danger, correctability, or a preferred consequence.
+  - Infer conduct character from magnitude or substitute conduct character for verified magnitude.
 
 | `s` | 80-year human calibration — benefit added / loss imposed | Contribution Axis | Violation Axis |
 | ---: | --- | --- | --- |
@@ -775,14 +783,6 @@ The routing tables below are non-exhaustive. Every additional definition, princi
 | 7 | About **1–5 lifetimes** (**80–400 years**) | **Recognized Champion** — at least one LEQU of verified, constitutionally aligned benefit. | **Serious Constitutional Impact** — at least one LEQU of verified constitutional loss. |
 | 8 | About **5–25 lifetimes** (**400–2,000 years**) | **Distinguished Champion** — verified benefit materially exceeding `s` = 7. | **Grave Constitutional Impact** — verified loss materially exceeding `s` = 7. |
 | 9 | At least **25 lifetimes** (**2,000+ years**) | **Exemplary Champion** — verified benefit materially exceeding `s` = 8. | **Catastrophic Constitutional Impact** — verified loss materially exceeding `s` = 8. |
-
-**Proportional assignment rule:**
-
-- Assign one slot from the integrated LEQU estimate.
-- Explain how each material scaling dimension affected the estimate and why omitted dimensions did not control.
-- Do not raise or lower the slot because of duty, negligence, intent, concealment, repetition, aggravation, coercion, violence, liberty danger, correctability, or a preferred consequence.
-- Do not infer conduct character from magnitude or substitute conduct character for verified magnitude.
-- Record those facts as separately traceable descriptors. They may control attribution, review intensity, safeguards, remedy, or a Chapter Ten designation.
 
 <details>
 <summary><strong><span style="color: #2563eb;">Implementation interop note</span></strong></summary>
