@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-07-17T03:24:37+00:00",
+  "generated_at": "2026-07-17T04:39:11+00:00",
   "files": {
     "core_00_preamble.md": {
       "total_lines": 249,
@@ -3516,13 +3516,13 @@
       ]
     },
     "core_08-08_standing_assessment.md": {
-      "total_lines": 904,
+      "total_lines": 970,
       "sections": [
         {
           "header": "CHAPTER EIGHT: CONTRIBUTION, VIOLATION, AND STANDING MODEL — MEASUREMENT",
           "level": 1,
           "line_start": 2,
-          "line_end": 904,
+          "line_end": 970,
           "anchor": "#chapter-eight-compliance-violation-and-standing-model"
         },
         {
@@ -3634,133 +3634,147 @@
           "header": "4. Question 2 — how good or bad was it?",
           "level": 3,
           "line_start": 349,
-          "line_end": 875,
+          "line_end": 941,
           "anchor": "#4-question-2-how-good-or-bad-was-it"
         },
         {
-          "header": "4.1 Magnitude-input dimensions",
+          "header": "4.1 Contribution magnitude-input dimensions",
           "level": 4,
-          "line_start": 367,
-          "line_end": 415,
-          "anchor": "#41-magnitude-input-dimensions"
+          "line_start": 385,
+          "line_end": 412,
+          "anchor": "#41-contribution-magnitude-input-dimensions"
         },
         {
-          "header": "4.2 Route descriptor measurement roles",
+          "header": "4.2 Violation severity-input dimensions",
           "level": 4,
-          "line_start": 416,
-          "line_end": 470,
-          "anchor": "#42-route-descriptor-classification-roles"
+          "line_start": 413,
+          "line_end": 439,
+          "anchor": "#violation-table-q2-severity-input-dimensions"
         },
         {
-          "header": "4.3 Dual-use measurement hooks",
+          "header": "4.3 Contribution route descriptor measurement roles",
           "level": 4,
-          "line_start": 471,
-          "line_end": 565,
-          "anchor": "#43-dual-use-classification-hooks"
+          "line_start": 440,
+          "line_end": 468,
+          "anchor": "#43-contribution-route-descriptor-measurement-roles"
         },
         {
-          "header": "4.3.1 Misaligned Reward Forfeiture",
+          "header": "4.4 Violation route descriptor measurement roles",
+          "level": 4,
+          "line_start": 469,
+          "line_end": 501,
+          "anchor": "#44-violation-route-descriptor-measurement-roles"
+        },
+        {
+          "header": "4.5 Dual-use measurement hooks",
+          "level": 4,
+          "line_start": 502,
+          "line_end": 610,
+          "anchor": "#45-dual-use-classification-hooks"
+        },
+        {
+          "header": "4.5.1 Misaligned Reward Forfeiture",
           "level": 5,
-          "line_start": 494,
-          "line_end": 513,
-          "anchor": "#431-misaligned-reward-forfeiture"
+          "line_start": 527,
+          "line_end": 548,
+          "anchor": "#451-misaligned-reward-forfeiture"
         },
         {
-          "header": "4.3.2 Misaligned Reward Reporting",
+          "header": "4.5.2 Misaligned Reward Reporting",
           "level": 5,
-          "line_start": 514,
-          "line_end": 533,
-          "anchor": "#432-misaligned-reward-reporting"
+          "line_start": 549,
+          "line_end": 572,
+          "anchor": "#452-misaligned-reward-reporting"
         },
         {
-          "header": "4.3.3 Misaligned reward / benefit retention — record and measurement discipline",
+          "header": "4.5.3 Misaligned reward / benefit retention — record and measurement discipline",
           "level": 5,
-          "line_start": 534,
-          "line_end": 565,
-          "anchor": "#433-misaligned-reward-benefit-retention-record-and-classification-discipline"
+          "line_start": 573,
+          "line_end": 610,
+          "anchor": "#453-misaligned-reward-benefit-retention-record-and-classification-discipline"
         },
         {
-          "header": "4.4 Measurement illustrations",
+          "header": "4.6 Measurement illustrations",
           "level": 4,
-          "line_start": 566,
-          "line_end": 617,
-          "anchor": "#44-question-2-measurement-illustrations"
+          "line_start": 611,
+          "line_end": 666,
+          "anchor": "#46-question-2-measurement-illustrations"
         },
         {
-          "header": "4.5 Slot grammar and display labels",
+          "header": "4.7 Slot grammar and display labels",
           "level": 4,
-          "line_start": 618,
-          "line_end": 674,
-          "anchor": "#45-slot-grammar-and-display-labels"
+          "line_start": 667,
+          "line_end": 731,
+          "anchor": "#47-slot-grammar-and-display-labels"
         },
         {
-          "header": "4.5.1 What the slot grammar does",
+          "header": "4.7.1 What the slot grammar does",
           "level": 5,
-          "line_start": 624,
-          "line_end": 637,
-          "anchor": "#451-what-the-slot-grammar-does"
-        },
-        {
-          "header": "4.5.2 Table 1 — slot display labels",
-          "level": 5,
-          "line_start": 638,
-          "line_end": 674,
-          "anchor": "#452-table-1-slot-display-labels"
-        },
-        {
-          "header": "4.6 LEQU baseline — measuring impact in lifetime-equivalent units",
-          "level": 4,
           "line_start": 675,
-          "line_end": 737,
-          "anchor": "#46-lequ-baseline-constitutional-outcome"
+          "line_end": 690,
+          "anchor": "#471-what-the-slot-grammar-does"
         },
         {
-          "header": "4.6.1 Contribution magnitude calibration",
+          "header": "4.7.2 Table 1 — slot display labels",
           "level": 5,
-          "line_start": 693,
-          "line_end": 713,
-          "anchor": "#461-contribution-magnitude-calibration"
+          "line_start": 691,
+          "line_end": 731,
+          "anchor": "#472-table-1-slot-display-labels"
         },
         {
-          "header": "4.6.2 Violation magnitude calibration",
-          "level": 5,
-          "line_start": 714,
-          "line_end": 737,
-          "anchor": "#462-violation-magnitude-calibration"
-        },
-        {
-          "header": "4.7 Primary category defaults — Contribution Axis and Violation Axis",
+          "header": "4.8 LEQU magnitude calibration",
           "level": 4,
-          "line_start": 738,
-          "line_end": 875,
-          "anchor": "#47-primary-category-defaults"
+          "line_start": 732,
+          "line_end": 791,
+          "anchor": "#8-lequ-magnitude-calibration"
         },
         {
-          "header": "4.7.1 Contribution Axis — bands and Table 2",
+          "header": "4.8.1 Contribution magnitude calibration",
           "level": 5,
-          "line_start": 747,
-          "line_end": 790,
-          "anchor": "#471-contribution-axis-bands-and-table-2"
+          "line_start": 741,
+          "line_end": 763,
+          "anchor": "#481-contribution-magnitude-calibration"
         },
         {
-          "header": "4.7.2 Violation Axis — severity ladder",
+          "header": "4.8.2 Violation magnitude calibration",
           "level": 5,
-          "line_start": 791,
-          "line_end": 842,
-          "anchor": "#472-violation-axis-severity-ladder"
+          "line_start": 764,
+          "line_end": 791,
+          "anchor": "#482-violation-magnitude-calibration"
         },
         {
-          "header": "4.7.3 Forum disclosure omission and recusal-process impact",
+          "header": "4.9 Primary category defaults — Contribution Axis and Violation Axis",
+          "level": 4,
+          "line_start": 792,
+          "line_end": 941,
+          "anchor": "#49-primary-category-defaults"
+        },
+        {
+          "header": "4.9.1 Contribution Axis — bands and Table 2",
           "level": 5,
-          "line_start": 843,
-          "line_end": 875,
+          "line_start": 805,
+          "line_end": 852,
+          "anchor": "#491-contribution-axis-bands-and-table-2"
+        },
+        {
+          "header": "4.9.2 Violation Axis — severity ladder",
+          "level": 5,
+          "line_start": 853,
+          "line_end": 908,
+          "anchor": "#492-violation-axis-severity-ladder"
+        },
+        {
+          "header": "4.9.3 Forum disclosure omission and recusal-process impact",
+          "level": 5,
+          "line_start": 909,
+          "line_end": 941,
           "anchor": "#forum-disclosure-omission-and-recusal-process-impact"
         },
         {
           "header": "5. Question 3 — what happens because of it?",
           "level": 3,
-          "line_start": 876,
-          "line_end": 904,
+          "line_start": 942,
+          "line_end": 970,
           "anchor": "#chapters-eight-eleven-constitutional-compass"
         }
       ]

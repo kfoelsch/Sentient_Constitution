@@ -27,7 +27,7 @@
 > 4. **Milestone table** — [Chapter Eleven §10](core_11-11_forum.md#10-timely-resolution-materiality-tiers-and-anti-delay-discipline) tier windows from **CF-11.3.1** (adopter floor).
 > 5. **Must not happen** — anti-patterns the constitution rejects.
 >
-> **References:** [Chapter Eight §2](core_08-08_standing_assessment.md#2-standing-records) (Question 1); [Chapter Eight §4](core_08-08_standing_assessment.md#4-standing-measurement-evaluation-dimensions) and [§4.4](core_08-08_standing_assessment.md#44-question-2-measurement-illustrations) (Question 2); [Chapter Nine §2.10](core_09-09_standing_integration.md#210-safe-delegation-competency-gate-dimensions) and [§3.10](core_09-09_standing_integration.md#310-non-recurrence-lock-dimensions) (Question 3); [Chapter Eleven](core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) (forum routing and supervision).
+> **References:** [Chapter Eight §2](core_08-08_standing_assessment.md#2-standing-records) (Question 1); [Chapter Eight §4](core_08-08_standing_assessment.md#4-standing-measurement-evaluation-dimensions) and [§4.6](core_08-08_standing_assessment.md#46-question-2-measurement-illustrations) (Question 2); [Chapter Nine §2.10](core_09-09_standing_integration.md#210-safe-delegation-competency-gate-dimensions) and [§3.10](core_09-09_standing_integration.md#310-non-recurrence-lock-dimensions) (Question 3); [Chapter Eleven](core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) (forum routing and supervision).
 >
 > Regression hooks: `RS-XXIV-C-CHILD-001`, `RS-XXIV-C-DISC-001`, `RS-XXIV-C-BIZ-001`, `RS-XXIV-C-DELAY-001` in [CONSTITUTIONAL_REGRESSION_SCENARIOS.md](CONSTITUTIONAL_REGRESSION_SCENARIOS.md).
 

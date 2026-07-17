@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-07-17T03:24:38+00:00",
+  "generated_at": "2026-07-17T04:39:11+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -1551,9 +1551,9 @@
             "file": "core_08-08_standing_assessment.md",
             "count": 9,
             "anchors": [
-              "#431-misaligned-reward-forfeiture",
-              "#432-misaligned-reward-reporting",
-              "#433-misaligned-reward-benefit-retention-record-and-measurement-discipline",
+              "#451-misaligned-reward-forfeiture",
+              "#452-misaligned-reward-reporting",
+              "#453-misaligned-reward-benefit-retention-record-and-measurement-discipline",
               "#chapter-eight-compliance-violation-and-standing-model"
             ]
           },
@@ -2845,9 +2845,10 @@
           },
           {
             "file": "core_08-08_standing_assessment.md",
-            "count": 2,
+            "count": 3,
             "anchors": [
-              "#6-lequ-baseline-constitutional-outcome"
+              "#48-lequ-magnitude-calibration",
+              "#lequ-baseline-constitutional-outcome"
             ]
           },
           {
@@ -3170,20 +3171,21 @@
           },
           {
             "file": "core_08-08_standing_assessment.md",
-            "count": 40,
+            "count": 41,
             "anchors": [
               "#2-purpose-and-role",
               "#2-standing-records",
               "#21-standing-records-as-the-unit-of-application",
               "#3-standing-record-operational-requirements",
               "#31-minimum-record-contents",
-              "#5-slot-grammar-and-display-labels",
-              "#6-lequ-baseline-constitutional-outcome",
-              "#7-primary-category-defaults",
-              "#71-contribution-axis-bands-and-table-2",
-              "#72-violation-axis-severity-ladder",
+              "#48-lequ-magnitude-calibration",
+              "#7-slot-grammar-and-display-labels",
+              "#9-primary-category-defaults",
+              "#91-contribution-axis-bands-and-table-2",
+              "#92-violation-axis-severity-ladder",
               "#chapter-eight-compliance-violation-and-standing-model",
               "#chapters-eight-eleven-constitutional-compass",
+              "#lequ-baseline-constitutional-outcome",
               "#verified-inputs-for-standing"
             ]
           },
@@ -4649,13 +4651,16 @@
               "#36-forum-boundary",
               "#4-standing-measurement-evaluation-dimensions",
               "#41-formal-non-compliance",
-              "#42-lequ-violation-calibration",
               "#42-remedial-substantive-non-compliance",
               "#44-duty-based-or-negligent-harm-violation",
-              "#44-question-2-measurement-illustrations",
-              "#71-contribution-axis-bands-and-table-2",
-              "#72-violation-axis-severity-ladder",
-              "#73-forum-disclosure-and-recusal-process-impact",
+              "#46-question-2-measurement-illustrations",
+              "#482-violation-magnitude-calibration",
+              "#81-contribution-axis-bands-and-table-2",
+              "#82-violation-axis-severity-ladder",
+              "#83-forum-disclosure-and-recusal-process-impact",
+              "#91-contribution-axis-bands-and-table-2",
+              "#92-violation-axis-severity-ladder",
+              "#93-forum-disclosure-and-recusal-process-impact",
               "#benefit-route-descriptors-q2-measurement-role",
               "#chapter-eight-compliance-violation-and-standing-model",
               "#chapters-eight-eleven-constitutional-compass",
@@ -4927,12 +4932,12 @@
             "file": "core_08-08_standing_assessment.md",
             "count": 16,
             "anchors": [
-              "#431-misaligned-reward-forfeiture",
-              "#432-misaligned-reward-reporting",
-              "#433-misaligned-reward-benefit-retention-record-and-measurement-discipline",
-              "#5-slot-grammar-and-display-labels",
-              "#72-violation-axis-severity-ladder",
-              "#73-forum-disclosure-and-recusal-process-impact",
+              "#451-misaligned-reward-forfeiture",
+              "#452-misaligned-reward-reporting",
+              "#453-misaligned-reward-benefit-retention-record-and-measurement-discipline",
+              "#7-slot-grammar-and-display-labels",
+              "#92-violation-axis-severity-ladder",
+              "#93-forum-disclosure-and-recusal-process-impact",
               "#chapter-eight-compliance-violation-and-standing-model",
               "#chapters-eight-eleven-constitutional-compass"
             ]
@@ -5111,10 +5116,10 @@
               "#3-standing-record-operational-requirements",
               "#36-forum-boundary",
               "#4-standing-measurement-evaluation-dimensions",
-              "#5-slot-grammar-and-display-labels",
-              "#71-contribution-axis-bands-and-table-2",
-              "#72-violation-axis-severity-ladder",
-              "#73-forum-disclosure-and-recusal-process-impact",
+              "#6-slot-grammar-and-display-labels",
+              "#81-contribution-axis-bands-and-table-2",
+              "#82-violation-axis-severity-ladder",
+              "#83-forum-disclosure-and-recusal-process-impact",
               "#chapter-eight-compliance-violation-and-standing-model",
               "#chapters-eight-eleven-constitutional-compass",
               "#verified-inputs-for-standing"
@@ -5241,7 +5246,7 @@
               "#32-related-record-cross-references",
               "#36-forum-boundary",
               "#4-standing-measurement-evaluation-dimensions",
-              "#44-question-2-measurement-illustrations",
+              "#46-question-2-measurement-illustrations",
               "#chapters-eight-eleven-constitutional-compass",
               "#dual-use-measurement-dimensions"
             ]
@@ -6222,8 +6227,8 @@
               "#2-standing-records",
               "#31-minimum-record-contents",
               "#36-forum-boundary",
-              "#72-violation-axis-severity-ladder",
-              "#73-forum-disclosure-and-recusal-process-impact",
+              "#92-violation-axis-severity-ladder",
+              "#93-forum-disclosure-and-recusal-process-impact",
               "#chapter-eight-compliance-violation-and-standing-model",
               "#chapters-eight-eleven-constitutional-compass",
               "#verified-inputs-for-standing"
@@ -6455,8 +6460,8 @@
             "file": "core_08-08_standing_assessment.md",
             "count": 8,
             "anchors": [
-              "#431-misaligned-reward-forfeiture",
-              "#432-misaligned-reward-reporting",
+              "#451-misaligned-reward-forfeiture",
+              "#452-misaligned-reward-reporting",
               "#chapter-eight-compliance-violation-and-standing-model",
               "#chapters-eight-eleven-constitutional-compass",
               "#verified-inputs-for-standing"
@@ -6777,8 +6782,8 @@
             "file": "core_08-08_standing_assessment.md",
             "count": 10,
             "anchors": [
-              "#5-slot-grammar-and-display-labels",
-              "#7-primary-category-defaults",
+              "#7-slot-grammar-and-display-labels",
+              "#9-primary-category-defaults",
               "#chapter-eight-compliance-violation-and-standing-model"
             ]
           },
@@ -13122,8 +13127,8 @@
             "count": 8,
             "anchors": [
               "#31-minimum-record-contents",
-              "#72-violation-axis-severity-ladder",
-              "#73-forum-disclosure-and-recusal-process-impact"
+              "#92-violation-axis-severity-ladder",
+              "#93-forum-disclosure-and-recusal-process-impact"
             ]
           },
           {
