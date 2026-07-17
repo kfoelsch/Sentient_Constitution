@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-07-17T12:59:56+00:00",
+  "generated_at": "2026-07-17T15:02:38+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -2849,8 +2849,8 @@
             "file": "core_08-08_standing_assessment.md",
             "count": 4,
             "anchors": [
-              "#6-contribution-axis-bands-and-table-2",
-              "#7-violation-axis-severity-ladder",
+              "#7-contribution-axis-bands-and-table-2",
+              "#8-violation-axis-severity-ladder",
               "#lequ-baseline-constitutional-outcome"
             ]
           },
@@ -3181,9 +3181,9 @@
               "#21-standing-records-as-the-unit-of-application",
               "#3-standing-record-operational-requirements",
               "#31-minimum-record-contents",
-              "#6-contribution-axis-bands-and-table-2",
+              "#7-contribution-axis-bands-and-table-2",
               "#7-slot-grammar-and-display-labels",
-              "#7-violation-axis-severity-ladder",
+              "#8-violation-axis-severity-ladder",
               "#chapter-eight-compliance-violation-and-standing-model",
               "#chapters-eight-eleven-constitutional-compass",
               "#lequ-baseline-constitutional-outcome",
@@ -4274,7 +4274,7 @@
         "targets": [
           {
             "file": "core_00_preamble.md",
-            "count": 5,
+            "count": 8,
             "anchors": [
               "#5-key-practical-process-pipelines",
               "#constitutional-tetrad",
@@ -4283,9 +4283,28 @@
             ]
           },
           {
-            "file": "core_01_c_stewardship_capacity_principles.md",
-            "count": 3,
+            "file": "core_01_a_values_principles.md",
+            "count": 4,
             "anchors": [
+              "#2-foundational-objective-wellbeing",
+              "#22-recognition-reinforcement-and-aspiration",
+              "#31-safety-harm-constraint",
+              "#32-truth-epistemic-integrity-constraint"
+            ]
+          },
+          {
+            "file": "core_01_b_interaction_interpretation.md",
+            "count": 2,
+            "anchors": [
+              "#61-core-tradeoff-principles",
+              "#614-constitutional-floors-safety-and-process-character-constraints"
+            ]
+          },
+          {
+            "file": "core_01_c_stewardship_capacity_principles.md",
+            "count": 5,
+            "anchors": [
+              "#10-governance-under-stewardship-discipline",
               "#9-stewardship-and-distributed-understanding",
               "#chapter-01-principles-and-constraints"
             ]
@@ -4304,20 +4323,25 @@
           },
           {
             "file": "core_05a_accountability_definitions.md",
-            "count": 14,
+            "count": 21,
             "anchors": [
+              "#accountability",
+              "#contestability",
+              "#contribution-state",
               "#harm",
               "#harm-a",
               "#harm-c",
               "#proportionality",
               "#proportionality-a",
               "#proportionality-c",
-              "#standing-state-contribution-and-violation-cluster"
+              "#standing-state-contribution-and-violation-cluster",
+              "#verified-violation-findings",
+              "#violation-nature-chapter-six"
             ]
           },
           {
             "file": "core_05i_integrative_definitions.md",
-            "count": 7,
+            "count": 9,
             "anchors": [
               "#constitutional-constraint",
               "#constitutional-constraint-violation",
@@ -4328,8 +4352,9 @@
           },
           {
             "file": "core_05o_oversight_definitions.md",
-            "count": 15,
+            "count": 17,
             "anchors": [
+              "#auditability",
               "#foreseeability-diligence",
               "#foreseeability-diligence-a",
               "#foreseeability-diligence-c",
@@ -4340,25 +4365,38 @@
           },
           {
             "file": "core_05p_participation_definitions.md",
-            "count": 4,
+            "count": 5,
             "anchors": [
               "#coercion-and-manipulation-constitutional",
               "#coercion-and-manipulation-constitutional-a",
-              "#coercion-and-manipulation-constitutional-c"
+              "#coercion-and-manipulation-constitutional-c",
+              "#lifespan-equivalent-unit-lequ"
+            ]
+          },
+          {
+            "file": "core_06-06_rights_part_a.md",
+            "count": 1,
+            "anchors": [
+              "#chapter-six-foundational-rights"
             ]
           },
           {
             "file": "core_06-06_rights_part_c.md",
-            "count": 1,
+            "count": 6,
             "anchors": [
-              "#article-xii-b-right-to-challenge-review-and-redress"
+              "#article-xii-b-right-to-challenge-review-and-redress",
+              "#article-xiv-b-transparency-auditability-and-contestability",
+              "#article-xv-audit-transparency-and-independent-verification",
+              "#article-xviii-standing-and-participation-status",
+              "#article-xxi-root-cause-analysis-and-adaptive-response"
             ]
           },
           {
             "file": "core_06-06_rights_part_d.md",
-            "count": 6,
+            "count": 8,
             "anchors": [
               "#article-xxiii-a-justice-objective-and-scope",
+              "#article-xxiii-conflict-resolution-escalation-and-emergency-proportionality",
               "#article-xxiv-c-timely-resolution-and-anti-delay-floor",
               "#incentive-alignment-transition-carve-out"
             ]
@@ -4660,9 +4698,9 @@
               "#42-violation-severity-input-dimensions",
               "#44-duty-based-or-negligent-harm-violation",
               "#46-question-2-measurement-illustrations",
-              "#6-contribution-axis-bands-and-table-2",
-              "#7-violation-axis-severity-ladder",
-              "#8-forum-disclosure-and-recusal-process-impact",
+              "#7-contribution-axis-bands-and-table-2",
+              "#8-violation-axis-severity-ladder",
+              "#9-forum-disclosure-and-recusal-process-impact",
               "#benefit-route-descriptors-q2-measurement-role",
               "#chapter-eight-compliance-violation-and-standing-model",
               "#chapters-eight-eleven-constitutional-compass",
@@ -4936,8 +4974,8 @@
             "count": 10,
             "anchors": [
               "#7-slot-grammar-and-display-labels",
-              "#7-violation-axis-severity-ladder",
-              "#8-forum-disclosure-and-recusal-process-impact",
+              "#8-violation-axis-severity-ladder",
+              "#9-forum-disclosure-and-recusal-process-impact",
               "#chapter-eight-compliance-violation-and-standing-model",
               "#chapters-eight-eleven-constitutional-compass"
             ]
@@ -5117,10 +5155,10 @@
               "#3-standing-record-operational-requirements",
               "#36-forum-boundary",
               "#4-standing-measurement-evaluation-dimensions",
-              "#6-contribution-axis-bands-and-table-2",
               "#6-slot-grammar-and-display-labels",
-              "#7-violation-axis-severity-ladder",
-              "#8-forum-disclosure-and-recusal-process-impact",
+              "#7-contribution-axis-bands-and-table-2",
+              "#8-violation-axis-severity-ladder",
+              "#9-forum-disclosure-and-recusal-process-impact",
               "#chapter-eight-compliance-violation-and-standing-model",
               "#chapters-eight-eleven-constitutional-compass",
               "#verified-inputs-for-standing"
@@ -6229,8 +6267,8 @@
               "#2-standing-records",
               "#31-minimum-record-contents",
               "#36-forum-boundary",
-              "#7-violation-axis-severity-ladder",
-              "#8-forum-disclosure-and-recusal-process-impact",
+              "#8-violation-axis-severity-ladder",
+              "#9-forum-disclosure-and-recusal-process-impact",
               "#chapter-eight-compliance-violation-and-standing-model",
               "#chapters-eight-eleven-constitutional-compass",
               "#verified-inputs-for-standing"
@@ -6791,7 +6829,7 @@
             "file": "core_08-08_standing_assessment.md",
             "count": 10,
             "anchors": [
-              "#6-contribution-axis-bands-and-table-2",
+              "#7-contribution-axis-bands-and-table-2",
               "#7-slot-grammar-and-display-labels",
               "#chapter-eight-compliance-violation-and-standing-model"
             ]
@@ -13136,8 +13174,8 @@
             "count": 8,
             "anchors": [
               "#31-minimum-record-contents",
-              "#7-violation-axis-severity-ladder",
-              "#8-forum-disclosure-and-recusal-process-impact"
+              "#8-violation-axis-severity-ladder",
+              "#9-forum-disclosure-and-recusal-process-impact"
             ]
           },
           {

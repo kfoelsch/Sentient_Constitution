@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-07-17T12:59:54+00:00",
+  "generated_at": "2026-07-17T15:02:37+00:00",
   "files": {
     "core_00_preamble.md": {
       "total_lines": 249,
@@ -3516,13 +3516,13 @@
       ]
     },
     "core_08-08_standing_assessment.md": {
-      "total_lines": 876,
+      "total_lines": 967,
       "sections": [
         {
           "header": "CHAPTER EIGHT: CONTRIBUTION, VIOLATION, AND STANDING MODEL — MEASUREMENT",
           "level": 1,
           "line_start": 2,
-          "line_end": 876,
+          "line_end": 967,
           "anchor": "#chapter-eight-compliance-violation-and-standing-model"
         },
         {
@@ -3687,46 +3687,81 @@
           "anchor": "#46-question-2-measurement-illustrations"
         },
         {
-          "header": "5. Slot grammar and display labels",
+          "header": "5. Slot grammar and shared scaling",
           "level": 3,
           "line_start": 614,
-          "line_end": 692,
+          "line_end": 688,
           "anchor": "#5-slot-grammar-and-lequ-calibration"
         },
         {
           "header": "5.1 Table 1 — slot display labels",
           "level": 4,
           "line_start": 640,
-          "line_end": 692,
+          "line_end": 661,
           "anchor": "#51-table-1-slot-display-labels"
         },
         {
-          "header": "6. Contribution Axis — bands and Table 2",
-          "level": 3,
-          "line_start": 693,
-          "line_end": 740,
-          "anchor": "#6-contribution-axis-bands-and-table-2"
+          "header": "5.2 Shared impact-scaling rules",
+          "level": 4,
+          "line_start": 662,
+          "line_end": 688,
+          "anchor": "#52-shared-impact-scaling-rules"
         },
         {
-          "header": "7. Violation Axis — severity ladder",
+          "header": "6. Constitutional inputs to axis assignment",
           "level": 3,
-          "line_start": 741,
-          "line_end": 805,
-          "anchor": "#7-violation-axis-severity-ladder"
+          "line_start": 689,
+          "line_end": 776,
+          "anchor": "#6-constitutional-inputs-to-axis-assignment"
         },
         {
-          "header": "8. Forum disclosure omission and recusal-process impact",
-          "level": 3,
-          "line_start": 806,
-          "line_end": 841,
-          "anchor": "#8-forum-disclosure-and-recusal-process-impact"
+          "header": "6.1 Definition inputs",
+          "level": 4,
+          "line_start": 704,
+          "line_end": 718,
+          "anchor": "#61-definition-inputs"
         },
         {
-          "header": "9. Question 3 — what happens because of it?",
+          "header": "6.2 Principle inputs",
+          "level": 4,
+          "line_start": 719,
+          "line_end": 730,
+          "anchor": "#62-principle-inputs"
+        },
+        {
+          "header": "6.3 Rights-Floor and Article inputs",
+          "level": 4,
+          "line_start": 731,
+          "line_end": 776,
+          "anchor": "#63-rights-floor-and-article-inputs"
+        },
+        {
+          "header": "7. Contribution Axis — bands and Table 2",
           "level": 3,
-          "line_start": 842,
-          "line_end": 876,
-          "anchor": "#chapters-eight-eleven-constitutional-compass"
+          "line_start": 777,
+          "line_end": 826,
+          "anchor": "#7-contribution-axis-bands-and-table-2"
+        },
+        {
+          "header": "8. Violation Axis — impact-and-character ladder",
+          "level": 3,
+          "line_start": 827,
+          "line_end": 893,
+          "anchor": "#8-violation-axis-severity-ladder"
+        },
+        {
+          "header": "9. Forum disclosure omission and recusal-process impact",
+          "level": 3,
+          "line_start": 894,
+          "line_end": 931,
+          "anchor": "#9-forum-disclosure-and-recusal-process-impact"
+        },
+        {
+          "header": "10. Question 3 — what happens because of it?",
+          "level": 3,
+          "line_start": 932,
+          "line_end": 967,
+          "anchor": "#10-question-3-what-happens-because-of-it"
         }
       ]
     },

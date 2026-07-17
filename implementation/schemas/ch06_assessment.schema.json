@@ -133,21 +133,21 @@
     "nine_slot": {
       "type": "object",
       "additionalProperties": false,
-      "description": "Optional numeric layer per implementation/CH06_NINE_SLOT_STANDING_SCALE.md: nine slots on each axis, Contribution Axis LEQU candidate thresholds with a 5x multiplier anchored at s=7, and four Contribution Axis primary bands (C-BL s=1..2, C-PC s=3..4, C-SP s=5..6, C-CH s=7..9). Numeric thresholds do not assign a slot unless the cumulative operative criteria in core Chapter Eight section 6 are also satisfied. Chapter Nine section 4.3 later groups verified Violation Axis slots for standing integration. Legacy-compatible category keys I|II|III and sub-tier keys minor|mid|major remain implementation helpers. Violation Axis s=1..6 uses the hybrid impact-and-character ladder in Chapter Eight section 7; s=7..9 requires final Chapter Ten assignment. This layer does not replace primary band/severity enums on axis_one and axis_two or override shared impact scaling, highest-applicable-slot, or no-netting rules.",
+      "description": "Optional numeric layer per implementation/CH06_NINE_SLOT_STANDING_SCALE.md: nine slots on each axis, Contribution Axis LEQU candidate thresholds with a 5x multiplier anchored at s=7, and four Contribution Axis primary bands (C-BL s=1..2, C-PC s=3..4, C-SP s=5..6, C-CH s=7..9). Numeric thresholds do not assign a slot unless the cumulative operative criteria in core Chapter Eight section 7 are also satisfied. Chapter Nine section 4.3 later groups verified Violation Axis slots for standing integration. Legacy-compatible category keys I|II|III and sub-tier keys minor|mid|major remain implementation helpers. Violation Axis s=1..6 uses the hybrid impact-and-character ladder in Chapter Eight section 8; s=7..9 requires final Chapter Ten assignment. This layer does not replace primary band/severity enums on axis_one and axis_two or override shared impact scaling, highest-applicable-slot, or no-netting rules.",
       "properties": {
         "c_unit": {
           "type": "number",
           "exclusiveMinimum": 0,
-          "description": "Display scalar for LEQU candidate thresholds; default c_unit=1 LEQU. Contribution threshold for slot s is c_unit * 5^(s-7) for s=2..9, with c_min(1)=0. Core Chapter Eight section 6 criteria also apply."
+          "description": "Display scalar for LEQU candidate thresholds; default c_unit=1 LEQU. Contribution threshold for slot s is c_unit * 5^(s-7) for s=2..9, with c_min(1)=0. Core Chapter Eight section 7 criteria also apply."
         },
         "c_star_cumulative": {
           "type": "number",
           "minimum": 0,
-          "description": "Recency-weighted sum of verified contribution credit in LEQU before slot assignment; read with core Chapter Eight sections 5.2 and 6."
+          "description": "Recency-weighted sum of verified contribution credit in LEQU before slot assignment; read with core Chapter Eight sections 5.2 and 7."
         },
         "contribution_slot": {
           "$ref": "#/$defs/nineSlotIndex",
-          "description": "Final contribution slot after both the C* candidate threshold and the cumulative core Chapter Eight section 6 criteria are satisfied; omit when that combined assignment has not been completed."
+          "description": "Final contribution slot after both the C* candidate threshold and the cumulative core Chapter Eight section 7 criteria are satisfied; omit when that combined assignment has not been completed."
         },
         "highest_finding_slot": {
           "$ref": "#/$defs/nineSlotIndex",
@@ -156,7 +156,7 @@
         "v_star_sum": {
           "type": "number",
           "minimum": 0,
-          "description": "Optional sum of 3^(s-1) over findings; for analytics only, not a substitute for the Chapter Eight section 7 hybrid impact-and-character ladder or Chapter Ten top-slot assignment."
+          "description": "Optional sum of 3^(s-1) over findings; for analytics only, not a substitute for the Chapter Eight section 8 hybrid impact-and-character ladder or Chapter Ten top-slot assignment."
         }
       }
     }

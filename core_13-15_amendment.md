@@ -483,7 +483,7 @@ A proposed amendment is invalid if it:
 
 - Upstream: [§1](#1-heightened-review-for-rights-affecting-changes)–[§5](#6-test-4-contestability-and-independent-review-validity) validity tests and contestability floor.
 - Downstream: [§12](#12-layer-scope) reminder that trigger language routes to canonical owners rather than creating new slot-classification law.
-- Read with: [Chapter Nine, section 1 — *Standing Effects*](core_09-09_standing_integration.md#5-standing-effects); [Chapter Eight §6 — Contribution Axis](core_08-08_standing_assessment.md#6-contribution-axis-bands-and-table-2) (*measurement foundation*).
+- Read with: [Chapter Nine, section 1 — *Standing Effects*](core_09-09_standing_integration.md#5-standing-effects); [Chapter Eight §7 — Contribution Axis](core_08-08_standing_assessment.md#7-contribution-axis-bands-and-table-2) (*measurement foundation*).
 
 </details>
 
@@ -494,7 +494,7 @@ A proposed amendment is invalid if it:
 Heightened review is automatically triggered for amendments that materially affect any of the following:
 - rights (**Chapter Six**)
 - constitutional interpretation and review safeguards (**Article XXIII-A** (*Justice Objective and Scope*))
-- standing effects ([Chapter Nine, section 1 — *Standing Effects*](core_09-09_standing_integration.md#5-standing-effects); read with [Chapter Eight §6](core_08-08_standing_assessment.md#6-contribution-axis-bands-and-table-2) — Contribution Axis measurement)
+- standing effects ([Chapter Nine, section 1 — *Standing Effects*](core_09-09_standing_integration.md#5-standing-effects); read with [Chapter Eight §7](core_08-08_standing_assessment.md#7-contribution-axis-bands-and-table-2) — Contribution Axis measurement)
 - emergency powers
 - cross-jurisdiction enforcement pathways
 
