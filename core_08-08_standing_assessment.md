@@ -148,7 +148,7 @@ Any later standing effect belongs to Chapter Nine and must be traceable back to 
 
 - Upstream: [§2.1](#21-standing-records-as-the-unit-of-application) (*separate contribution and violation records*).
 - Downstream: [§3.1](#31-minimum-record-contents) (*verified-input gate*); [§3.2](#32-related-record-cross-references) (*cross-references*); [§3.6](#36-forum-boundary) (*forum boundary*); [§4](#4-standing-measurement-evaluation-dimensions) (*Question 2 measurement*); [§5](#5-slot-grammar-and-lequ-calibration) (*slot grammar and shared scaling*); [§6](#6-constitutional-inputs-to-axis-assignment) (*constitutional-source routing*); [§7](#7-unified-proportional-lequ-scale) (*unified proportional LEQU scale for both axes*); [Chapter Nine](core_09-09_standing_integration.md#chapter-nine-standing-effects-and-integration) (*Question 3*).
-- Read with: [Chapter Nine — Standing integration](core_09-09_standing_integration.md#38-standing-integration-contribution-and-violation-nature) (*non-waiver and linked-record integration*); [Chapter Nine §1.2 — Competency gates](core_09-09_standing_integration.md#competency-gates); [Chapter Nine §1.3 — Standing locks](core_09-09_standing_integration.md#standing-locks-in-the-standing-model).
+- Read with: [Chapter Nine — Standing integration](core_09-09_standing_integration.md#2-integration-record-and-decision-order) (*non-waiver and linked-record integration*); [Chapter Nine §5.2 — Competency gates](core_09-09_standing_integration.md#52-competency-gates); [Chapter Nine §4.2 — Standing locks](core_09-09_standing_integration.md#42-general-standing-locks).
 
 </details>
 
@@ -351,7 +351,7 @@ This boundary does **not** reduce challenge, remedy, interim relief, or procedur
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [§2](#2-standing-records) (*Question 1 — standing records and verified facts*); [§3](#3-standing-record-operational-requirements) (*verified-input gate and record requirements*); [§1](#11-three-question-evaluation-discipline) (*three-question frame*).
-- Downstream: [§5](#5-slot-grammar-and-lequ-calibration) (*slot grammar and shared scaling*); [§6](#6-constitutional-inputs-to-axis-assignment) (*constitutional-source routing*); [§7](#7-unified-proportional-lequ-scale) (*Contribution and Violation Axis assignment*); [Chapter Nine §2.10](core_09-09_standing_integration.md#210-safe-delegation-competency-gate-dimensions) (*contribution Question 3 — safe delegation*); [Chapter Nine §3.10](core_09-09_standing_integration.md#310-non-recurrence-lock-dimensions) (*violation Question 3 — non-recurrence*).
+- Downstream: [§5](#5-slot-grammar-and-lequ-calibration) (*slot grammar and shared scaling*); [§6](#6-constitutional-inputs-to-axis-assignment) (*constitutional-source routing*); [§7](#7-unified-proportional-lequ-scale) (*Contribution and Violation Axis assignment*); [Chapter Nine §5.2](core_09-09_standing_integration.md#52-competency-gates) (*contribution Question 3 — safe delegation*); [Chapter Nine §4.2](core_09-09_standing_integration.md#42-general-standing-locks) (*violation Question 3 — non-recurrence*).
 - Read with: [§3.1](#31-minimum-record-contents) (*verified record fields; no standing effects in Chapter Eight*).
 
 </details>
@@ -377,7 +377,7 @@ A **full-life-equivalent constitutional benefit** means verified benefit compara
 - **Not an accusation metric.** Allegations, intake tags, routing decisions, reputation, disfavored status, or moral dislike do not supply Contribution Axis benefit or Violation Axis severity without verified inputs under **section 3.1** and calibration under **section 7**.
 - **Not a license to trade rights.** Claims framed as efficiency, productive capacity, innovation, burden reduction, security, retaliation, emergency response, or institutional necessity must be discounted or rejected where they depend on coercion, discriminatory burden shifting, ecological depletion, hidden unpaid work, avoidable opacity, Rights-Floor narrowing, capture, misleading proxies, loss of contestability, or unreviewable aggregation.
 
-**Question 2 only.** Use these dimensions to measure the verified facts established under **section 2** and recorded under **section 3**. Names for kinds of help or harm come from [Chapter Nine's domain-lens catalog](core_09-09_standing_integration.md#71-shared-domain-lenses-cross-axis-vocabulary). The **benefit-route** table in **section 4.3** and **harm-route** table in **section 4.4** say how each name counts toward *how good* or *how bad*. Question 3 uses appear in Chapter Nine ([benefit side](core_09-09_standing_integration.md#benefit-route-descriptors-q2-integration); [harm side](core_09-09_standing_integration.md#harm-route-descriptors-q2-integration)).
+**Question 2 only.** Use these dimensions to measure the verified facts established under **section 2** and recorded under **section 3**. Names for kinds of help or harm come from [Chapter Nine's domain-lens catalog](core_09-09_standing_integration.md#3-shared-descriptor-and-attachment-normalization). The **benefit-route** table in **section 4.3** and **harm-route** table in **section 4.4** say how each name counts toward *how good* or *how bad*. Question 3 uses appear in Chapter Nine ([benefit side](core_09-09_standing_integration.md#52-competency-gates); [harm side](core_09-09_standing_integration.md#42-general-standing-locks)).
 
 <a id="41-magnitude-input-dimensions"></a>
 <a id="41-contribution-magnitude-input-dimensions"></a>
@@ -395,7 +395,7 @@ A **full-life-equivalent constitutional benefit** means verified benefit compara
 | **Sentient scope (count, depth, vulnerability)** | Modulates LEQU assessment and materiality | [Chapter Eight §5.2](#52-shared-impact-scaling-rules); [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination) |
 | **Temporal scope (duration, durability)** | Modulates LEQU assessment | Lasting stewardship, cross-generational benefit, durable institutional repair toward `s` = 8–9 |
 | **Spatial / institutional scope** | Modulates LEQU assessment | Cross-community, cross-institutional, or civilization-scale benefit |
-| **Benefit-route stack** | Names routes of verified benefit; stackable | [Chapter Nine §2.1](core_09-09_standing_integration.md#71-shared-domain-lenses-cross-axis-vocabulary); [**benefit-route descriptors**](#benefit-route-descriptors-q1-measurement-role) |
+| **Benefit-route stack** | Names routes of verified benefit; stackable | [Chapter Nine §3](core_09-09_standing_integration.md#3-shared-descriptor-and-attachment-normalization); [**benefit-route descriptors**](#benefit-route-descriptors-q1-measurement-role) |
 | **Conduct-quality stack** | How benefit was produced; may limit countable benefit | Traceability, non-externalization, diligence, constitutional alignment; externalized harm or concealed burden caps benefit ([Chapter Eight §4.1](#41-contribution-magnitude-input-dimensions)) |
 
 **Contribution conduct-quality application.** Apply the conduct-quality stack before assigning a Contribution Axis slot:
@@ -404,13 +404,13 @@ A **full-life-equivalent constitutional benefit** means verified benefit compara
 - externalized harm or concealed burden caps or disqualifies benefit attributed to the disputed pathway;
 - verified capture risk, structural dependency, or exit / lock-in design limits stewardship-positive credit;
 - verified accessibility or participation-barrier repair may increase materiality and support the **Access and Inclusion** benefit-route descriptor under **section 4.3**; and
-- a material reward obtained through a constitutionally misaligned incentive structure, anti-constitutional conduct, or materially defective process is not countable benefit by default. Apply [Chapter Nine §3.12](core_09-09_standing_integration.md#312-misaligned-reward-reporting-forfeiture-and-correction) and the transition limit in [Article XXVI-A](core_06-06_rights_part_d.md#incentive-alignment-transition-carve-out).
+- a material reward obtained through a constitutionally misaligned incentive structure, anti-constitutional conduct, or materially defective process is not countable benefit by default. Apply [Chapter Nine §4.4](core_09-09_standing_integration.md#44-special-violation-rules) and the transition limit in [Article XXVI-A](core_06-06_rights_part_d.md#incentive-alignment-transition-carve-out).
 
 **Q2 outputs (record in the contribution standing record; not standing effects).**
 
 - Applicable **Contribution Axis slot** (`s` = 1–9) and primary band (**C-BL**, **C-PC**, **C-SP**, or **C-CH**)
 - Stacked **benefit-route descriptors**
-- Inputs to default recognition orientation under [Chapter Nine §1.1](core_09-09_standing_integration.md#35-positive-standing-recognition)
+- Inputs to default recognition orientation under [Chapter Nine §5](core_09-09_standing_integration.md#5-contribution-consequences-second)
 
 Do **not** split LEQU into parallel ecological, system, or resource benefit scores unless adopted implementation needs transparent decomposition for audit.
 
@@ -428,7 +428,7 @@ Do **not** split LEQU into parallel ecological, system, or resource benefit scor
 | **Sentient scope (count, depth, vulnerability)** | Modulates LEQU assessment and materiality | [Chapter Eight §5.2](#52-shared-impact-scaling-rules); [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination) |
 | **Temporal scope (duration, irreversibility)** | Modulates LEQU assessment | Persistent trauma, irreversible loss, and durable agency impairment increase the integrated loss estimate |
 | **Spatial / institutional scope** | Modulates LEQU assessment | Cross-community, cross-institutional, or civilizational reach may increase the integrated loss estimate |
-| **Harm-route stack** | Names routes of verified harm; stackable | [Chapter Nine §2.1](core_09-09_standing_integration.md#71-shared-domain-lenses-cross-axis-vocabulary); [**harm-route descriptors**](#harm-route-descriptors-q1-measurement-role) |
+| **Harm-route stack** | Names routes of verified harm; stackable | [Chapter Nine §3](core_09-09_standing_integration.md#3-shared-descriptor-and-attachment-normalization); [**harm-route descriptors**](#harm-route-descriptors-q1-measurement-role) |
 | **Conduct-character stack** | How harm was caused; separately recorded from impact | Duty, negligence, deception, concealment, coercion, violence, intent, and structural enablement inform attribution, safeguards, and response but do not move the LEQU slot |
 
 **Violation conduct-character application.** Apply the conduct-character stack separately from outcome magnitude:
@@ -439,15 +439,15 @@ Do **not** split LEQU into parallel ecological, system, or resource benefit scor
 - violence, coercion, manipulation, or liberty danger remain separately recorded and may require heightened safeguards regardless of slot;
 - diffusion concerns distributed causal role, authority, control, foreseeability, benefit, concealment, or feasible prevention capacity; it is not part of **sentient scope** and does not permit blame by group membership;
 - acquiescent participation or failure to resist may support duty-based, aggravated, or collective-accountability character only when the actor-specific linkage required by **sections 3.1 and 3.3** is verified; and
-- knowing acceptance or retention of a material misaligned reward without timely protected reporting is recorded under [Chapter Nine §3.12](core_09-09_standing_integration.md#312-misaligned-reward-reporting-forfeiture-and-correction), subject to [Article XXVI-A](core_06-06_rights_part_d.md#incentive-alignment-transition-carve-out); only its verified constitutional loss affects the slot.
+- knowing acceptance or retention of a material misaligned reward without timely protected reporting is recorded under [Chapter Nine §4.4](core_09-09_standing_integration.md#44-special-violation-rules), subject to [Article XXVI-A](core_06-06_rights_part_d.md#incentive-alignment-transition-carve-out); only its verified constitutional loss affects the slot.
 
-**Misaligned-reward boundary.** This chapter only measures how a verified misaligned reward affects the Contribution Axis or Violation Axis. [Chapter Nine §3.12](core_09-09_standing_integration.md#312-misaligned-reward-reporting-forfeiture-and-correction) states the reporting duty, exclusions, forfeiture consequences, correction duties, and routing rules.
+**Misaligned-reward boundary.** This chapter only measures how a verified misaligned reward affects the Contribution Axis or Violation Axis. [Chapter Nine §4.4](core_09-09_standing_integration.md#44-special-violation-rules) states the reporting duty, exclusions, forfeiture consequences, correction duties, and routing rules.
 
 **Q2 outputs (record in the violation standing record; not standing effects).**
 
 - Highest applicable **Violation Axis slot** (`s` = 1–9)
 - Stacked **harm-route descriptors**
-- Inputs to default lock-band orientation under [Chapter Nine §3.3](core_09-09_standing_integration.md#standing-integration-slot-band-standing-locks)
+- Inputs to default lock-band orientation under [Chapter Nine §4.2](core_09-09_standing_integration.md#42-general-standing-locks)
 
 Do **not** split violation-side LEQU into parallel ecological-harm, system-harm, or resource-loss scores unless adopted implementation needs transparent decomposition for audit.
 
@@ -463,23 +463,25 @@ Do **not** split violation-side LEQU into parallel ecological-harm, system-harm,
 <a id="benefit-route-descriptors-q1-classification-role"></a>
 <a id="benefit-route-descriptors-q2-measurement-role"></a>
 
-**Benefit-route descriptors — Question 2 measurement role.** Descriptor catalog: [Chapter Nine §2.1](core_09-09_standing_integration.md#71-shared-domain-lenses-cross-axis-vocabulary). Question 3 safe-delegation role: [Chapter Nine §2.10](core_09-09_standing_integration.md#benefit-route-descriptors-q2-integration).
+**Benefit-route descriptors — Question 2 measurement role.** Descriptor catalog: [Chapter Nine §3](core_09-09_standing_integration.md#3-shared-descriptor-and-attachment-normalization). Question 3 safe-delegation role: [Chapter Nine §5.2](core_09-09_standing_integration.md#52-competency-gates).
 
-| **Benefit-route descriptor** | **Chapter Nine §2.1 anchor** | **Q2 (how good?)** |
+| **Benefit-route descriptor** | **Chapter Nine §3 anchor** | **Q2 (how good?)** |
 | --- | --- | --- |
-| **Peace of body, mind, and/or community** | Chapter Nine §2.1.1 | Bodily, psychological, and community calm benefit; modulates materiality |
-| **Reliable Relationships** | Chapter Nine §2.1.1 | Relational and fiduciary-trust benefit in asymmetric settings |
-| **Caretaking and Dependency Support** | Chapter Nine §2.1.1 | Verified care for dependents; informal care counts when demonstrable |
-| **Remedial and restorative benefit** | Chapter Nine §2.1.2 | Repair, compensation, and harm-reduction benefit |
-| **Resourceful Stewardship** | Chapter Nine §2.1.2 | Material stewardship and allocative reliability |
-| **Info-Sphere Integrity** | Chapter Nine §2.1.3 | Records, transparency, and communications strengthening |
-| **Education and Capability Building** | Chapter Nine §2.1.3 | Learning, literacy, and agency-expanding benefit |
-| **STEM and Discovery Contribution** | Chapter Nine §2.1.3 | Reproducible discovery and safety-improving research |
-| **System Optimization** | Chapter Nine §2.1.4 | Cross-institutional process repair and risk reduction |
-| **Constitutional Alignment** | Chapter Nine §2.1.4 | Floor-strengthening and challenge-access benefit |
-| **Ecological Stewardship** | Chapter Nine §2.1.5 | Habitat, biodiversity, and climate-responsible benefit |
-| **Diligence** | Chapter Nine §2.1.5 | Foreseeable-risk prevention and competent supervision |
-| **Access and Inclusion** | Chapter Nine §2.1.1 | Substantive participation and accessibility benefit; modulates materiality in dependency-asymmetric settings |
+| **Peace of body, mind, and/or community** | Chapter Nine §3 | Bodily, psychological, and community calm benefit; modulates materiality |
+| **Reliable Relationships** | Chapter Nine §3 | Relational and fiduciary-trust benefit in asymmetric settings |
+| **Caretaking and Dependency Support** | Chapter Nine §3 | Verified care for dependents; informal care counts when demonstrable |
+| **Remedial and restorative benefit** | Chapter Nine §3 | Repair, compensation, and harm-reduction benefit |
+| **Resourceful Stewardship** | Chapter Nine §3 | Material stewardship and allocative reliability |
+| **Info-Sphere Integrity** | Chapter Nine §3 | Records, transparency, and communications strengthening |
+| **Education and Capability Building** | Chapter Nine §3 | Learning, literacy, and agency-expanding benefit |
+| **STEM and Discovery Contribution** | Chapter Nine §3 | Reproducible discovery and safety-improving research |
+| **System Optimization** | Chapter Nine §3 | Cross-institutional process repair and risk reduction |
+| **Constitutional Alignment** | Chapter Nine §3 | Floor-strengthening and challenge-access benefit |
+| **Ecological Stewardship** | Chapter Nine §3 | Habitat, biodiversity, and climate-responsible benefit |
+| **Diligence** | Chapter Nine §3 | Foreseeable-risk prevention and competent supervision |
+| **Access and Inclusion** | Chapter Nine §3 | Substantive participation and accessibility benefit; modulates materiality in dependency-asymmetric settings |
+
+**Catalog inheritance and completeness.** The contribution and violation tables in **sections 4.3–4.4** inherit the complete normalized descriptor catalog in [Chapter Nine §3](core_09-09_standing_integration.md#3-shared-descriptor-and-attachment-normalization). A combined display row or implementation label must map back to every applicable normalized descriptor; omission from an explanatory row does not make a Chapter Nine descriptor unavailable. This inheritance governs descriptor names only. Question 3 remedy, lock, gate, and other standing effects remain exclusively in Chapter Nine.
 
 <a id="harm-route-descriptors-q1-measurement-role"></a>
 <a id="harm-route-descriptors-q1-classification-role"></a>
@@ -488,24 +490,26 @@ Do **not** split violation-side LEQU into parallel ecological-harm, system-harm,
 
 #### 4.4 Violation route descriptor measurement roles
 
-**Harm-route descriptors — Question 2 measurement role.** Descriptor catalog: [Chapter Nine §2.1](core_09-09_standing_integration.md#71-shared-domain-lenses-cross-axis-vocabulary). Question 3 non-recurrence role: [Chapter Nine §3.10](core_09-09_standing_integration.md#harm-route-descriptors-q2-integration).
+**Harm-route descriptors — Question 2 measurement role.** Descriptor catalog: [Chapter Nine §3](core_09-09_standing_integration.md#3-shared-descriptor-and-attachment-normalization). Question 3 non-recurrence role: [Chapter Nine §4.2](core_09-09_standing_integration.md#42-general-standing-locks).
 
-| **Harm-route descriptor** | **Chapter Nine §2.1 anchor** | **Q2 (how bad?)** |
+| **Harm-route descriptor** | **Chapter Nine §3 anchor** | **Q2 (how bad?)** |
 | --- | --- | --- |
-| **Violent Misconduct** | Chapter Nine §2.1.1 | Records violence, coercion, or liberty danger separately from the LEQU impact slot; may require heightened safeguards |
-| **Interpersonal / Care Duty Misconduct** | Chapter Nine §2.1.1 | Higher materiality in dependency-asymmetric settings |
-| **Info-Sphere Misconduct** | Chapter Nine §2.1.3 | Degraded Safety or Truth; concealment and deception remain separate character facts |
-| **Property Misconduct** | Chapter Nine §2.1.2 | Property-loss route; slot follows integrated LEQU loss |
-| **Ecological Misconduct** | Chapter Nine §2.1.5 | Continuity-weighted LEQU; may stack with violent route |
-| **System Misconduct** | Chapter Nine §2.1.4 | Diffusion and structural enablement remain separately recorded; slot follows integrated LEQU loss |
-| **Anti-Constitutional Misconduct** (descriptor) | Chapter Nine §2.1.4 | Routes an `s` = 7–9 violation to Chapter Ten designation review without changing its impact slot |
-| **Negligent Misconduct** | Chapter Nine §2.1.5 | Records duty, foreseeability, and preventability separately from the impact slot |
-| **Remedially correctable misconduct** | Chapter Nine §2.1.2 | Records correction character; slot follows integrated LEQU loss |
-| **Accessibility and Participation-Barrier Misconduct** | Chapter Nine §2.1.1 | Higher materiality when dependency-asymmetric; may stack aggravated features |
-| **Privacy and Self-Ownership Misconduct** | Chapter Nine §2.1.1 | Aggravated features when concealment or exploitation verified; may stack `s` = 5 |
-| **Agency and Manipulation Misconduct** | Chapter Nine §2.1.1 | Records coercion, manipulation, or liberty danger separately from the impact slot |
-| **Exit and Lock-In Misconduct** | Chapter Nine §2.1.4 | System Misconduct features; diffusion or capture when structural |
-| **Lifecycle and Irreversibility Misconduct** | Chapter Nine §2.1.4 | Irreversibility affects LEQU magnitude; concealment or negligence remains separately recorded character |
+| **Violent Misconduct** | Chapter Nine §3 | Records violence, coercion, or liberty danger separately from the LEQU impact slot; may require heightened safeguards |
+| **Interpersonal / Care Duty Misconduct** | Chapter Nine §3 | Higher materiality in dependency-asymmetric settings |
+| **Info-Sphere Misconduct** | Chapter Nine §3 | Degraded Safety or Truth; concealment and deception remain separate character facts |
+| **Educational Misconduct** | Chapter Nine §3 | Records education- or capability-pathway harm separately from the impact slot |
+| **Research and Discovery Misconduct** | Chapter Nine §3 | Records research- or discovery-pathway harm separately from the impact slot |
+| **Property Misconduct** | Chapter Nine §3 | Property-loss route; slot follows integrated LEQU loss |
+| **Ecological Misconduct** | Chapter Nine §3 | Continuity-weighted LEQU; may stack with violent route |
+| **System Misconduct** | Chapter Nine §3 | Diffusion and structural enablement remain separately recorded; slot follows integrated LEQU loss |
+| **Anti-Constitutional Misconduct** (descriptor) | Chapter Nine §3 | Routes an `s` = 7–9 violation to Chapter Ten designation review without changing its impact slot |
+| **Negligent Misconduct** | Chapter Nine §3 | Records duty, foreseeability, and preventability separately from the impact slot |
+| **Remedially correctable misconduct** | Chapter Nine §3 | Records correction character; slot follows integrated LEQU loss |
+| **Accessibility and Participation-Barrier Misconduct** | Chapter Nine §3 | Higher materiality when dependency-asymmetric; may stack aggravated features |
+| **Privacy and Self-Ownership Misconduct** | Chapter Nine §3 | Aggravated features when concealment or exploitation verified; may stack `s` = 5 |
+| **Agency and Manipulation Misconduct** | Chapter Nine §3 | Records coercion, manipulation, or liberty danger separately from the impact slot |
+| **Exit and Lock-In Misconduct** | Chapter Nine §3 | System Misconduct features; diffusion or capture when structural |
+| **Lifecycle and Irreversibility Misconduct** | Chapter Nine §3 | Irreversibility affects LEQU magnitude; concealment or negligence remains separately recorded character |
 
 <a id="dual-use-measurement-dimensions"></a>
 <a id="dual-use-classification-dimensions"></a>
@@ -525,19 +529,19 @@ Do **not** split violation-side LEQU into parallel ecological-harm, system-harm,
 
 | **Verified feature** | **Question 2 owner in this chapter** | **Question 3 integration owner** |
 | --- | --- | --- |
-| **Externalized harm / concealed burden** | Contribution conduct-quality application in **§4.1** | [Chapter Nine §2.10](core_09-09_standing_integration.md#dual-use-contribution-integration-dimensions) — may block or narrow a gate until remedied |
-| **Deception / concealment / evasion** | Violation conduct-character application in **§4.2** | [Chapter Nine §3.10](core_09-09_standing_integration.md#dual-use-violation-integration-dimensions) — concealment / evasion escalated lock |
-| **Violence / coercion / liberty danger** | Violation conduct-character application in **§4.2** and **Violent Misconduct** in **§4.4** | [Chapter Nine §3.10](core_09-09_standing_integration.md#dual-use-violation-integration-dimensions) — protective and safeguard locks |
-| **Persistence / pattern / recurrence after notice** | Violation conduct-character application in **§4.2** | [Chapter Nine §3.10](core_09-09_standing_integration.md#dual-use-violation-integration-dimensions) — recurrence-persistence lock |
-| **Forum-integrity injury** | Violation conduct-character application in **§4.2** | [Chapter Nine §4.2.1](core_09-09_standing_integration.md#421-forum-disclosure-and-recusal-process-impact) — forum-integrity standing-lock effects |
-| **Diffusion of responsibility or control** | Violation conduct-character application in **§4.2**; actor-specific linkage under **§§3.1 and 3.3** | [Chapter Nine §3.10](core_09-09_standing_integration.md#dual-use-violation-integration-dimensions) — broader pathway scope or institutional-vehicle consideration |
-| **System / structural enablement** | Contribution conduct-quality application in **§4.1**; violation conduct character in **§4.2** and **System Misconduct** in **§4.4** | [Chapter Nine §§2.10](core_09-09_standing_integration.md#dual-use-contribution-integration-dimensions) and [3.10](core_09-09_standing_integration.md#dual-use-violation-integration-dimensions) — delegation safeguards or institutional-vehicle locks |
-| **Acquiescent participation / failure to resist** | Violation conduct-character application in **§4.2** | [Chapter Nine §3.10](core_09-09_standing_integration.md#dual-use-violation-integration-dimensions) — pathway-scope and recurrence-persistence effects |
-| **Accessibility / participation-barrier repair** | **Access and Inclusion** in **§4.3** | [Chapter Nine §2.10](core_09-09_standing_integration.md#dual-use-contribution-integration-dimensions) — inclusive-experience or pathway-scoped gate |
-| **Accessibility defeat / participation-barrier injury** | **Accessibility and Participation-Barrier Misconduct** in **§4.4** | [Chapter Nine §3.10](core_09-09_standing_integration.md#dual-use-violation-integration-dimensions) — participation and accessibility pathway blocks |
-| **Privacy / self-ownership injury** | **Privacy and Self-Ownership Misconduct** in **§4.4** | [Chapter Nine §3.10](core_09-09_standing_integration.md#dual-use-violation-integration-dimensions) — data-, likeness-, publication-, or internal-state pathway blocks |
-| **Exit / lock-in risk or foreclosure** | Contribution conduct-quality application in **§4.1**; **Exit and Lock-In Misconduct** in **§4.4** | [Chapter Nine §§2.10](core_09-09_standing_integration.md#dual-use-contribution-integration-dimensions) and [3.10](core_09-09_standing_integration.md#dual-use-violation-integration-dimensions) — delegation safeguards or exit-path blocks |
-| **Lifecycle / irreversibility concealment** | **Lifecycle and Irreversibility Misconduct** in **§4.4** | [Chapter Nine §3.10](core_09-09_standing_integration.md#dual-use-violation-integration-dimensions) — deployment and lifecycle-authority blocks |
+| **Externalized harm / concealed burden** | Contribution conduct-quality application in **§4.1** | [Chapter Nine §5.2](core_09-09_standing_integration.md#52-competency-gates) — may block or narrow a gate until remedied |
+| **Deception / concealment / evasion** | Violation conduct-character application in **§4.2** | [Chapter Nine §4.2](core_09-09_standing_integration.md#42-general-standing-locks) — concealment / evasion escalated lock |
+| **Violence / coercion / liberty danger** | Violation conduct-character application in **§4.2** and **Violent Misconduct** in **§4.4** | [Chapter Nine §4.2](core_09-09_standing_integration.md#42-general-standing-locks) — protective and safeguard locks |
+| **Persistence / pattern / recurrence after notice** | Violation conduct-character application in **§4.2** | [Chapter Nine §4.2](core_09-09_standing_integration.md#42-general-standing-locks) — recurrence-persistence lock |
+| **Forum-integrity injury** | Violation conduct-character application in **§4.2** | [Chapter Nine §4.3](core_09-09_standing_integration.md#43-special-locks) — forum-integrity standing-lock effects |
+| **Diffusion of responsibility or control** | Violation conduct-character application in **§4.2**; actor-specific linkage under **§§3.1 and 3.3** | [Chapter Nine §4.2](core_09-09_standing_integration.md#42-general-standing-locks) — broader pathway scope or institutional-vehicle consideration |
+| **System / structural enablement** | Contribution conduct-quality application in **§4.1**; violation conduct character in **§4.2** and **System Misconduct** in **§4.4** | [Chapter Nine §5.2](core_09-09_standing_integration.md#52-competency-gates) and [Chapter Nine §4.2](core_09-09_standing_integration.md#42-general-standing-locks) — delegation safeguards or institutional-vehicle locks |
+| **Acquiescent participation / failure to resist** | Violation conduct-character application in **§4.2** | [Chapter Nine §4.2](core_09-09_standing_integration.md#42-general-standing-locks) — pathway-scope and recurrence-persistence effects |
+| **Accessibility / participation-barrier repair** | **Access and Inclusion** in **§4.3** | [Chapter Nine §5.2](core_09-09_standing_integration.md#52-competency-gates) — inclusive-experience or pathway-scoped gate |
+| **Accessibility defeat / participation-barrier injury** | **Accessibility and Participation-Barrier Misconduct** in **§4.4** | [Chapter Nine §4.2](core_09-09_standing_integration.md#42-general-standing-locks) — participation and accessibility pathway blocks |
+| **Privacy / self-ownership injury** | **Privacy and Self-Ownership Misconduct** in **§4.4** | [Chapter Nine §4.2](core_09-09_standing_integration.md#42-general-standing-locks) — data-, likeness-, publication-, or internal-state pathway blocks |
+| **Exit / lock-in risk or foreclosure** | Contribution conduct-quality application in **§4.1**; **Exit and Lock-In Misconduct** in **§4.4** | [Chapter Nine §5.2](core_09-09_standing_integration.md#52-competency-gates) and [Chapter Nine §4.2](core_09-09_standing_integration.md#42-general-standing-locks) — delegation safeguards or exit-path blocks |
+| **Lifecycle / irreversibility concealment** | **Lifecycle and Irreversibility Misconduct** in **§4.4** | [Chapter Nine §4.2](core_09-09_standing_integration.md#42-general-standing-locks) — deployment and lifecycle-authority blocks |
 
 <a id="451-similar-looking-facts-that-must-stay-separate"></a>
 
@@ -547,7 +551,7 @@ Some facts are related but answer different questions. Record them separately:
 
 | **First fact** | **Different fact** | **Why they stay separate** |
 | --- | --- | --- |
-| **Delay in responding to or escalating the original problem** | **Delay in starting or carrying out the remedy** | The first helps measure Question 2 under **§§4.1–4.2**. The second is a later Question 3 fact under [Chapter Nine §3.10](core_09-09_standing_integration.md#violation-table-q3-non-recurrence-dimensions). |
+| **Delay in responding to or escalating the original problem** | **Delay in starting or carrying out the remedy** | The first helps measure Question 2 under **§§4.1–4.2**. The second is a later Question 3 fact under [Chapter Nine §8.5](core_09-09_standing_integration.md#85-timely-implementation-and-reassessment). |
 | **Number of sentients affected** | **How responsibility or control was spread among actors or systems** | The first helps measure how large the benefit or harm was under **§§4.1–4.2**. The second concerns actor-specific responsibility, diffusion, and possible Question 3 pathway scope. |
 
 <a id="44-question-1-measurement-illustrations"></a>

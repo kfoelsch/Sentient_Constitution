@@ -9,7 +9,7 @@ Retired architecture sections **14–19** (worklist, adoption appendix, document
 ## 1. Purpose
 
 - **Avoid duplication** — owner routing in **section 2**; definitions protocol in **section 4**.
-- **Preserve dependency order** — edit order in **section 9**.
+- **Preserve dependency order** — edit order in **section 8**.
 - **Track gaps** — stable IDs via `make architecture-index` ([generated index](doc_architecture/generated/stable_id_index.md)).
 - **Keep human and AI readable** — consistent headings, stable anchors, explicit cross-references. Auxiliary exports (PDF, plain text) are **non-authoritative** derivatives.
 
@@ -36,8 +36,10 @@ Filename renames require: reference audit, same-change link updates, dated evide
 | Values, definition mechanics, definitions | Sentient Constitution `core_*` Ch 1–5 | [README.md](README.md) reading order |
 | Rights (Articles I–XXVI) | Ch 6 | `core_06-06_rights_part_*.md`; titles via `make reference-audit` |
 | System alignment certification | Ch 7 | `core_07_a_system_alignment_certification_evaluation.md` (Part A — evaluation); `core_07_b_system_alignment_certification_record_process.md` (Part B — record and process); reading index: `core_07-07_system_alignment_certification.md` |
-| Standing pipeline | Ch 8–10 | `core_08-08_standing_assessment.md` through `core_10-10_misconduct.md`; navigation: [README — Standing pipeline and forums](README.md#standing-pipeline-and-forums) |
-| Forums (constitutional) | Ch 11 | `core_11-11_forum.md`; same [README navigation](README.md#standing-pipeline-and-forums) |
+| Standing records and measurement (Questions 1 and 2) | Ch 8 | `core_08-08_standing_assessment.md`; verified records and Contribution Axis / Violation Axis slots |
+| Standing integration and effects (Question 3) | Ch 9 | `core_09-09_standing_integration.md`; violation consequences before contribution gates, then final effect, restoration, and enforcement |
+| Anti-constitutional-misconduct designation | Ch 10 | `core_10-10_misconduct.md`; designation only for qualifying fixed Ch 8 Violation Axis `s = 7–9` findings |
+| Forums (constitutional) | Ch 11 | `core_11-11_forum.md`; forum families, jurisdiction, supervision, and cross-forum anti-self-judging; [README navigation](README.md#standing-pipeline-and-forums) |
 | Governance / amendment / incorporation | Ch 12–16 | `core_12-12_governance.md`, `core_13-15_amendment.md`, `core_16-16_incorporation.md` |
 | Cross-implementation joint structure | CJS | [corpus_joint_structure.md](corpus_joint_structure.md) **CJS-2.1** (*Topic router*) |
 | Systems, institutions, forum operations | CS / CI / CF | Companion wrappers + subfiles |
@@ -67,7 +69,7 @@ Machine-checkable rules: [tools/architecture/rule_registry.json](tools/architect
 - **Hard definitions:** Ch 2–3 ([`core_02-03_definition_mechanics.md`](core_02-03_definition_mechanics.md)); Ch 4 ([`core_04-04_burden_traceability_verification.md`](core_04-04_burden_traceability_verification.md)); Chapter Five §1–§3 (single-home rule below).
 - **Values language:** Chapter 00 §1 — [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) (**Flourishing** / **Continuity**), and [material stake](core_00_preamble.md#material-stake) at principle layer; Chapter Five O/M/A/C for Tetrad legs ([Participation](core_05p_participation_definitions.md#participation-constitutional), [Oversight](core_05o_oversight_definitions.md#oversight-constitutional), [Accountability](core_05a_accountability_definitions.md#accountability), [Timeliness](core_05a_accountability_definitions.md#timeliness-constitutional)) and aims ([Flourishing](core_05f_flourishing_aim.md#flourishing-constitutional), [Continuity (Constitutional Aim)](core_05g_continuity_aim.md#continuity-aim-constitutional)); Chapter One develops those aims into operative principles. **Reading arc:** Part A (§§1–5 values and bounded agency) → Part B (§§6–8 interaction, override limits, and interpretation) → Part C (§§9–13 stewardship through systemic evaluation) → **§15 Integrated Application** capstone in Part C. Use **Continuity aim** when linking to Chapter One §11; reserve bare *continuity* for operational uses elsewhere.
 - **Measurement frame (Chapter 00 §2):** Eight constitutional measurement categories in [Measurements Overview](core_00_preamble.md#measurements-overview) link directly to their Chapter Five **measurement-family homes** (category column) and to canonical definitions (subcategory column); the family table, constitutional use, and definition routing live on the Chapter Five homes. **Family-home map:** Threshold/scaling and Oversight → [`core_05o`](core_05o_oversight_definitions.md#oversight-measurement-family); Flourishing → [`core_05f`](core_05f_flourishing_aim.md#flourishing-measurement-family); Continuity → [`core_05g`](core_05g_continuity_aim.md#continuity-measurement-family); Participation → [`core_05p`](core_05p_participation_definitions.md#participation-measurement-family); Accountability and Timeliness → [`core_05a`](core_05a_accountability_definitions.md#accountability-measurement-family); Constitutional Performance → [`core_05m`](core_05m_performance_definitions.md#performance-measurement-family). Home-section anchors use the `#…-measurement-family` suffix (skipped as non-leaf routing anchors by `make ch5-measurement-coverage-audit`). **Category-stub removal (2026-07):** the former Chapter Zero §3 *Major Measurement Aspects* stubs and their `#measuring-*` category anchors were removed; the §2 overview links straight to Chapter Five, and Chapter Five definitions no longer back-link to Chapter Zero category anchors. [§3.1 Using Measurements in Governance](core_00_preamble.md#from-measurement-to-evidence-and-remedy) routes measurement → certification (Chapter Seven), standing records (Chapter Eight), remedy (Chapter Nine), forum review (Chapter Eleven). **Standing measurement** (Chapter Eight contribution/violation axis measurement) is a *process* concept distinct from **constitutional measurement** categories (Chapter Zero §2), which supply the evidentiary frame for what gets verified before records enter the standing pipeline.
-- **Standing:** Ch 8–9 (**verified** inputs). Ch 11 forums may **open, update, or correct** standing records — or **set a bad record aside on challenge** — from verified findings. Boundary gloss: a **filed case** is not standing by itself. Prefer **case** (forum matter / dispute filing) over **claim** in that contrast; keep **claim** for dispute-phase inventory labels (*unadjudicated claims*) and other established senses.
+- **Standing:** Chapter Eight owns Questions 1 and 2 (**verified** standing records and Contribution Axis / Violation Axis measurement). Chapter Nine accepts those inputs as immutable and owns Question 3 integration and effects. Chapter Ten owns designation only. Chapter Eleven forums may **open, update, or correct** standing records — or **set a bad record aside on challenge** — from verified findings. Boundary gloss: a **filed case** is not standing by itself. Prefer **case** (forum matter / dispute filing) over **claim** in that contrast; keep **claim** for dispute-phase inventory labels (*unadjudicated claims*) and other established senses.
 - **Rights:** Chapter Six; implementation files **cite** articles.
 - **Joint operational terms:** `corpus_joint_structure.md` only — route via **CJS-2.1**.
 - **Operational taxonomies:** **CS-3**, **CS-4**, **CS-5** and named protocols.
@@ -160,7 +162,7 @@ When one registry row splits across **part files** within the same chapter numbe
 - **Corpus placement** and **Reader guidance** widgets may include a non-operative `**Constitutional owner:**` bullet for navigation. That bullet does **not** replace the binding opening line.
 - State the owner claim **once** in operative prose at the chapter opening. Remove duplicate owner sentences from **§1** openings and from layer-scope sections unless the later text adds a **boundary** rule (what the chapter does **not** own), not a second owner claim.
 
-**Split owner layers:** when one registry row spans two or more files — standing measurement (**Chapters 08–09**); system alignment certification (**Chapter 07 Part A / Part B**) — each file gets its own opening line scoped to what that file owns: measurement in Chapter Eight, integration and standing effects in Chapter Nine; evaluation in Part A, record/process/standing bridge in Part B.
+**Split owner layers:** when one registry row spans two or more files — the standing pipeline (**Chapters 08–10**); system alignment certification (**Chapter 07 Part A / Part B**) — each file gets its own opening line scoped to what that file owns: verified records and measurement in Chapter Eight, integration and standing effects in Chapter Nine, designation only in Chapter Ten; evaluation in Part A, record/process/standing bridge in Part B.
 
 **Examples (reference pattern):** [Chapter Seven Part A](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation) and [Part B](core_07_b_system_alignment_certification_record_process.md#chapter-seven-part-b-certification-record-and-process) (split registry row; sibling-part pointers); [Chapter Six](core_06-06_rights_part_a.md#chapter-six-foundational-rights) (after reader guidance); [Chapter Ten](core_10-10_misconduct.md#chapter-ten-anti-constitutional-misconduct) (reader guidance moved before the opening line).
 
@@ -242,7 +244,7 @@ Not every definition requires all three tiers. Independent building blocks may d
 - Where a Ch00 family maps 1:1 to a term ([Wellbeing](core_05c_continuity_definitions.md#wellbeing), [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination)), tiers attach on that definition entry.
 - Where a family is a cluster label ("Safety, harm, and risk," "Survival-floor access"), the **cluster head** carries family routing; leaves inherit or override explicitly.
 
-**Distinct from standing measurement.** [Chapter Eight](../core_08-08_standing_assessment.md) contribution/violation axis measurement is a *process* concept. Constitutional measurement categories (Chapter Zero §2) supply the evidentiary frame for what gets verified before records enter the standing pipeline — see **section 4** measurement frame bullet.
+**Distinct from standing measurement.** [Chapter Eight](core_08-08_standing_assessment.md) Contribution Axis / Violation Axis measurement is a *process* concept. Constitutional measurement categories (Chapter Zero §2) supply the evidentiary frame for what gets verified before records enter the standing pipeline — see **section 4** measurement frame bullet.
 
 **Pilot exemplar:** [Wellbeing](core_05c_continuity_definitions.md#wellbeing) — primary Flourishing outcome measure with secondary harm/risk/agency co-measures and tertiary [Proxy Divergence](core_05o_oversight_definitions.md#proxy-divergence) discipline.
 
@@ -369,13 +371,16 @@ Do not maintain hand-edited article or implementation maps here.
 
 ```mermaid
 flowchart TB
-  subgraph sc [Sentient Constitution core Ch 1-15]
+  subgraph sc [Sentient Constitution core Ch 1-16]
     C1[Ch1 Values]
     C5[Ch5 definitions]
-    C6[Ch6-8 standing pipeline]
-    C9[Ch9 forums]
-    C10[Ch10 rights]
-    C15[Ch15 incorporation]
+    C6[Ch6 Rights Floor]
+    C7[Ch7 certification]
+    C8[Ch8 Q1/Q2 records + measurement]
+    C9[Ch9 Q3 effects]
+    C10[Ch10 designation]
+    C11[Ch11 forums]
+    C16[Ch16 incorporation]
   end
   subgraph cjs [CJS]
     R[CJS-2.1 router]
@@ -393,7 +398,7 @@ flowchart TB
 ## 7. Cross-reference convention
 
 - **Rights:** `Sentient Constitution Ch 6 Art III` or spelled-out article cite.
-- **Standing / forums:** Ch 8–9; Ch 11 for allegations.
+- **Standing / forums:** Ch 8 for Questions 1 and 2 records and measurement; Ch 9 for Question 3 effects; Ch 10 for designation; Ch 11 for forum supervision and allegations.
 - **CJS:** specific **CJS-5.*n*** heading; router **CJS-2.1**.
 - **CS / CI / CF:** named chapter or section label in the companion file.
 

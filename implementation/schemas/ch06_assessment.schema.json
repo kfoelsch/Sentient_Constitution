@@ -2,7 +2,7 @@
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$id": "https://constitution.sentient/schemas/ch06_assessment.schema.json",
   "title": "ch06_assessment",
-  "description": "Logical Chapter Eight measurement snapshot; semantic meaning and obligations are in core_08-08_standing_assessment.md and core_09-09_standing_integration.md. Snapshots that drive standing effect must reflect verified standing inputs only (demonstrable Contribution Axis; verified violation findings for the Violation Axis per Chapter Eight section 2 Verified inputs for standing and Chapter Five Verified Violation Findings); allegations and forum-phase material are not standing inputs. Cross-field rules (e.g. when axis_two is present, joint.highest_severity should equal axis_two.severity; no netting of severity via descriptors) may require validators beyond this schema or custom assertions.",
+  "description": "Logical Chapter Eight measurement snapshot; semantic meaning and obligations are in core_08-08_standing_assessment.md and core_09-09_standing_integration.md. Snapshots that drive standing effect must reflect verified standing inputs only (demonstrable Contribution Axis; verified violation findings for the Violation Axis per Chapter Eight section 2 Verified inputs for standing and Chapter Five Verified Violation Findings); allegations and forum-phase material are not standing inputs. Chapter Nine recency/currentness is a Question 3 gate/readiness input only and must not alter this snapshot's Contribution Axis slot or LEQU measurement. Chapter Nine decides violation locks before contribution gates. Cross-field and decision-order rules may require validators beyond this schema or custom assertions.",
   "type": "object",
   "additionalProperties": false,
   "required": [
@@ -133,7 +133,7 @@
     "nine_slot": {
       "type": "object",
       "additionalProperties": false,
-      "description": "Optional numeric layer for the unified Chapter Eight proportional LEQU scale: nine shared 5x impact bands on each separate axis, anchored at s=7 = 1 LEQU. Conduct character and Chapter Ten designation do not change the slot. Contribution also requires its constitutional-alignment conditions. No netting is permitted.",
+      "description": "Optional numeric layer for the unified Chapter Eight proportional LEQU scale: nine shared 5x impact bands on each separate axis, anchored at s=7 = 1 LEQU. Conduct character, Chapter Nine recency/currentness, and Chapter Ten designation do not change the slot. Contribution also requires its constitutional-alignment conditions. No netting is permitted.",
       "properties": {
         "c_unit": {
           "type": "number",
@@ -143,11 +143,11 @@
         "c_star_cumulative": {
           "type": "number",
           "minimum": 0,
-          "description": "Recency-weighted sum of verified contribution benefit in LEQU before assignment under Chapter Eight section 7-8."
+          "description": "Legacy interoperability field. Historical records may contain a recency-weighted contribution sum, but this value must not derive, raise, or lower a Chapter Eight Contribution Axis slot or LEQU measurement; Chapter Nine recency/currentness is for Question 3 gate/readiness decisions only."
         },
         "contribution_slot": {
           "$ref": "#/$defs/nineSlotIndex",
-          "description": "Contribution impact slot under the shared LEQU bands after applicable contribution conditions are satisfied."
+          "description": "Contribution impact slot under the shared Chapter Eight LEQU bands after applicable contribution conditions are satisfied; must not be derived from Chapter Nine recency/currentness or a legacy recency-weighted c_star_cumulative value."
         },
         "violation_lequ_loss": {
           "type": "number",

@@ -10,9 +10,9 @@
 
 - **Verified inputs only** (demonstrable Contribution Axis; [verified violation findings](../core_05a_accountability_definitions.md#verified-violation-findings) for the Violation Axis) per [Verified inputs for standing](../core_08-08_standing_assessment.md#verified-inputs-for-standing).
 - **Constitutional-outcome baseline controls.** Both axes use the unified Chapter Eight thresholds. Numeric estimates must not count raw efficiency, output, prestige, wealth, utilization, burden shifting, allegations, or disfavored status as impact.
-- **Recency** applies **only** to **contribution** credit expressed in LEQU, per [contribution recency weighting](../core_09-09_standing_integration.md#contribution-recency-weighting) (`w(d)`, half-life ten years, no floor). Compute **`C*`** = sum of (credit × `w(d)`) per unit before slot assignment.
+- **Recency and currentness** apply only at **Question 3** as gate/readiness inputs under [Chapter Nine §5.1](../core_09-09_standing_integration.md#51-recency-and-currentness). They must not alter a Chapter Eight contribution standing record, Contribution Axis slot, LEQU measurement, descriptor, or historical recognition. Any stored recency-weighted `C*` value is legacy interoperability data only and must not derive a slot.
 - **Unresolved** violation findings are **not** time-discounted for standing integration.
-- **Do not** net **`C*`** against **`V*`**; **do not** **average** or **substitute** axes. **Violation-linked constraints** **must** **dominate** **contribution** **upside** where both apply, per [Chapter Nine section 4.1](../core_09-09_standing_integration.md#38-standing-integration-contribution-and-violation-nature).
+- **Do not** net contribution against violation; **do not** **average** or **substitute** axes. Decide violation remedy, correction, and locks before contribution currentness and competency gates, per [Chapter Nine §2](../core_09-09_standing_integration.md#2-integration-record-and-decision-order). An applicable lock controls.
 
 **References:** [corpus_systems.md](../corpus_systems.md) (standing composites), [schemas/ch06_assessment.schema.json](schemas/ch06_assessment.schema.json) (optional `nine_slot` fields), [ch06_nine_slot_constants.json](ch06_nine_slot_constants.json) (precomputed table).
 
@@ -68,13 +68,13 @@ Chapter Ten may attach a corresponding anti-constitutional-misconduct designatio
 
 ---
 
-## 3. Contribution accumulation and baseline requirements
+## 3. Contribution measurement and baseline requirements
 
-Let **`C*`** = **recency-weighted** **sum** of **verified** **contribution** **credit** in **LEQU** (disclosed **per** **adoption**; **per**-unit `w(d)` as in Chapter Nine **4.1**). Let **`C\_unit` > 0** be a display scalar, with default **`C_unit = 1 LEQU`**.
+Let **`C_measure`** be the Chapter Eight integrated verified contribution benefit in **LEQU**, without Chapter Nine recency or currentness adjustment. Let **`C\_unit` > 0** be a display scalar, with default **`C_unit = 1 LEQU`**. Existing fields or records named **`C*`** remain readable for interoperability, but if they contain recency weighting they are legacy analytics only and must not derive, raise, or lower a Chapter Eight slot.
 
-`C*` units must be calibrated to constitutional-outcome benefit under core **Chapter Eight §§4 and 5.2**. **1 LEQU** means one substrate-agnostic full-life-equivalent constitutional benefit. An implementation may use a current ordinary human lifespan as a biological-human calibration example, but the operative benchmark is the substrate-agnostic **full-life-equivalent constitutional benefit** stated in the core. Claims based on efficiency, burden reduction, productive capacity, or innovation must be discounted or rejected when they depend on rights-floor narrowing, Safety or Truth degradation, discriminatory burden shifting, ecological depletion, opacity, capture, or loss of contestability.
+`C_measure` units must be calibrated to constitutional-outcome benefit under core **Chapter Eight §§4 and 5.2**. **1 LEQU** means one substrate-agnostic full-life-equivalent constitutional benefit. An implementation may use a current ordinary human lifespan as a biological-human calibration example, but the operative benchmark is the substrate-agnostic **full-life-equivalent constitutional benefit** stated in the core. Claims based on efficiency, burden reduction, productive capacity, or innovation must be discounted or rejected when they depend on rights-floor narrowing, Safety or Truth degradation, discriminatory burden shifting, ecological depletion, opacity, capture, or loss of contestability.
 
-**Minimum** **`C*`** to qualify for at least slot `s` follows the shared `T(s)` formula above:
+**Minimum** **`C_measure`** to qualify for at least slot `s` follows the shared `T(s)` formula above:
 
 \[
 C_{\min}(1) = 0
@@ -98,7 +98,7 @@ This anchors **s = 7** at **1 LEQU** and applies a **5x** multiplier per slot on
 | 8 | 5 | 400 years |
 | 9 | 25 | 2,000 years |
 
-**Contribution requirements.** `C*` assigns the numeric impact band, while contribution recognition also requires the applicable baseline-state, traceability, non-externalization, and constitutional-alignment findings in core **Chapter Eight §7**. No numeric threshold turns constitutionally defeated output into contribution.
+**Contribution requirements.** `C_measure` supplies the numeric candidate impact band, while contribution recognition also requires the applicable baseline-state, traceability, non-externalization, and constitutional-alignment findings in core **Chapter Eight §7**. No numeric threshold turns constitutionally defeated output into contribution. Chapter Nine currentness affects only a named gate or readiness decision after violation consequences are decided.
 
 **Default nest** **of** **Chapter Eight** **Contribution Axis** **primary** **bands** (four bands) **into** **slot** **ranges**:
 
@@ -109,13 +109,13 @@ This anchors **s = 7** at **1 LEQU** and applies a **5x** multiplier per slot on
 | **C-SP** | 5–6 |
 | **C-CH** | 7–9 |
 
-A **record** that **only** has **primary** **band** **typing** may set **`nine_slot.contribution_slot`** to the **top** of the **band**’s **range** **only** **if** neither a `C*` candidate threshold nor finer core-criteria assignment is available. Where `C*` is available, it constrains the numeric candidate but does not replace core **Chapter Eight §7** criteria.
+A **record** that **only** has **primary** **band** **typing** may set **`nine_slot.contribution_slot`** to the **top** of the **band**’s **range** **only** **if** neither a `C_measure` candidate threshold nor finer core-criteria assignment is available. Where unweighted `C_measure` is available, it constrains the numeric candidate but does not replace core **Chapter Eight §7** criteria. A legacy recency-weighted `C*` value cannot constrain or derive the slot.
 
 ---
 
 ## 4. No single net score
 
-Implementations may publish pairs `(C*, L*)`, where `L*` is verified violation loss in LEQU. They must not define standing as `C* - L*` or reconcile the axes into one gating number.
+Implementations may publish pairs `(C_measure, L*)`, where `L*` is verified violation loss in LEQU. They must not define standing as `C_measure - L*` or reconcile the axes into one gating number. In Question 3 processing, violation consequences are recorded first; contribution currentness and competency gates are evaluated only for pathways not blocked by a lock.
 
 ---
 

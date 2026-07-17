@@ -125,18 +125,18 @@ Unless another reference pattern is stated, **Article** labels with Roman numera
 
 <br>
 
-*In plain terms: when this file mentions **anti-constitutional misconduct**, that is a pointer to the real classification rules in Chapters Two through Eight — not a separate offense list here.*
+*In plain terms: when this file mentions **anti-constitutional misconduct**, that is a pointer to the constitutional pipeline — verified records and measurement in Chapter Eight, effects in Chapter Nine, and designation in Chapter Ten — not a separate offense list here.*
 
-References in this file to **anti-constitutional misconduct** are routing shorthand only. Assessment remains under **Sentient Constitution Chapters Two through Six** and adopting instruments where they apply.
+References in this file to **anti-constitutional misconduct** are routing shorthand only. Facts and measurement remain governed by **Sentient Constitution Chapters Two through Eight** and adopting instruments where they apply; Chapter Nine supplies standing effects, and Chapter Ten supplies designation.
 
-**Chapter Ten** (*Anti-Constitutional Misconduct*) in [core_10-10_misconduct.md](../core_10-10_misconduct.md#chapter-ten-anti-constitutional-misconduct) supplies the final **Violation Axis s = 7, 8, or 9** criteria and slot labels for conduct within that chapter's scope.
+**Chapter Ten** (*Anti-Constitutional Misconduct*) in [core_10-10_misconduct.md](../core_10-10_misconduct.md#chapter-ten-anti-constitutional-misconduct) decides only whether the corresponding designation attaches to a fixed **Chapter Eight Violation Axis s = 7, 8, or 9** finding.
 
 This file does **not**:
 
 - create a parallel offense taxonomy, or
 - substitute labels for **Chapter Ten**.
 
-**General** classification on **Axes I and II** (contribution **state**, violation nature, standing effect) remains authoritative in **Chapter Eight**. Final top-end anti-constitutional-misconduct slot labels remain authoritative in **Chapter Ten**.
+Verified standing records and Contribution Axis / Violation Axis measurement remain authoritative in **Chapter Eight**. Standing integration and effects remain authoritative in **Chapter Nine**. Final top-end anti-constitutional-misconduct designation remains authoritative in **Chapter Ten**.
 
 ### CI-1.4: Proportionality rule
 <details>

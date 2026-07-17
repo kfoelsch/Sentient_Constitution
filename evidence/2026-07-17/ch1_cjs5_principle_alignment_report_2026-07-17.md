@@ -23,7 +23,7 @@ CJS-5 is operationally aligned with Chapter 01 at the structural level: all expe
 
 | Cluster | Title | File | Inferred Chapter 01 Principles | Direct Chapter 01 Refs | Owner Refs | Status |
 |---|---|---|---|---|---|---|
-| CJS-5.0 | Cross-band: Role-definition preface and standing competency gate interface | `corpus_joint_structure/cjs_05_cross_implementation_operational_terms.md` | 2.1, 3.4, 5.2, 7.1, 7.2, 10 | 2.1 | Article XI-D, CI, CS, Chapter Five, Chapter Nine, Chapter Six (+6) | complete |
+| CJS-5.0 | Cross-band: Role-definition preface and standing competency gate interface | `corpus_joint_structure/cjs_05_cross_implementation_operational_terms.md` | 2.1, 3.4, 5.2, 7.1, 7.2, 10 | 2.1 | Article XI-D, CI, CS, Chapter Five, Chapter Nine, Chapter Six (+5) | complete |
 | CJS-5.2 | Oversight: reflexive transparency and accountability terms | `corpus_joint_structure/cjs_05o_oversight_operations.md` | 3.2, 4, 5.2, 7.1, 7.2 | 12.1, 12.2, 2.2, 3, 4.2, linked | Chapter Five, Chapter Six | complete |
 | CJS-5.3 | Oversight: auditability and reconstructability terms | `corpus_joint_structure/cjs_05o_oversight_operations.md` | 3.2, 4, 7.1, 7.2 | 12.1, 12.2, 2.2, 3, linked | Article VII-B, Article XV-A, Chapter Five, Chapter Six | complete |
 | CJS-5.4 | Oversight: tiered transparency and audit-access terms | `corpus_joint_structure/cjs_05o_oversight_operations.md` | 3.2, 6.2, 6.4, 7.1, 8 | 11.2, 11.4, 12.1, 13, 2.2, 6.3.1, linked | Article VII-B, Article XV-A, CF, CS, Chapter Five, Chapter Six (+2) | complete |

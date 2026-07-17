@@ -86,11 +86,6 @@
       "status": "present"
     },
     {
-      "file": "core_07-07_system_alignment_certification.md",
-      "label": "core",
-      "status": "present"
-    },
-    {
       "file": "core_08-08_standing_assessment.md",
       "label": "core",
       "status": "present"

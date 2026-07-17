@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-07-17T16:29:58+00:00",
+  "generated_at": "2026-07-17T17:43:56+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -70,10 +70,6 @@
       },
       {
         "id": "core_07_b_system_alignment_certification_record_process.md",
-        "type": "core"
-      },
-      {
-        "id": "core_07-07_system_alignment_certification.md",
         "type": "core"
       },
       {
@@ -584,9 +580,9 @@
             "file": "core_09-09_standing_integration.md",
             "count": 6,
             "anchors": [
-              "#chapter-nine-standing-effects-and-integration",
-              "#competency-gates",
-              "#redress-remedy-and-restoration-in-the-standing-model"
+              "#41-remedy-and-correction",
+              "#52-competency-gates",
+              "#chapter-nine-standing-effects-and-integration"
             ]
           },
           {
@@ -958,8 +954,7 @@
             "file": "core_09-09_standing_integration.md",
             "count": 2,
             "anchors": [
-              "#11-shared-domain-lenses-cross-axis-vocabulary",
-              "#12-stackable-benefit-and-stewardship-descriptors-contribution-state-supplement"
+              "#3-shared-descriptor-and-attachment-normalization"
             ]
           },
           {
@@ -1558,12 +1553,9 @@
             "file": "core_09-09_standing_integration.md",
             "count": 6,
             "anchors": [
-              "#312-misaligned-reward-reporting-forfeiture-and-correction",
-              "#3121-misaligned-reward-reporting-duty-and-exclusions",
-              "#3122-misaligned-reward-forfeiture-and-retention",
-              "#3123-misaligned-reward-correction-records-and-routing",
-              "#51-remediation-capacity-and-funding",
-              "#54-anti-evasion-and-look-through-authority"
+              "#44-special-violation-rules",
+              "#81-remediation-capacity-and-funding",
+              "#84-anti-evasion-and-look-through-authority"
             ]
           },
           {
@@ -3188,19 +3180,16 @@
           },
           {
             "file": "core_09-09_standing_integration.md",
-            "count": 17,
+            "count": 16,
             "anchors": [
-              "#5-standing-effects",
-              "#51-remediation-capacity-and-funding",
-              "#52-remedy-organ-durability",
-              "#54-anti-evasion-and-look-through-authority",
-              "#6-extended-axis-ii-legal-hybrid-duty-and-harm-descriptors",
-              "#73-stackable-harm-and-conduct-descriptors-violation-nature-supplement",
-              "#8-cross-axis-coupling-and-escalation-constraints",
-              "#chapter-nine-standing-effects-and-integration",
-              "#competency-gates",
-              "#standing-integration-slot-band-standing-locks",
-              "#standing-locks-in-the-standing-model"
+              "#1-immutable-chapter-eight-inputs",
+              "#3-shared-descriptor-and-attachment-normalization",
+              "#42-general-standing-locks",
+              "#52-competency-gates",
+              "#81-remediation-capacity-and-funding",
+              "#82-remedy-organ-durability",
+              "#84-anti-evasion-and-look-through-authority",
+              "#chapter-nine-standing-effects-and-integration"
             ]
           },
           {
@@ -4247,25 +4236,6 @@
         ]
       },
       {
-        "source": "core_07-07_system_alignment_certification.md",
-        "targets": [
-          {
-            "file": "core_07_a_system_alignment_certification_evaluation.md",
-            "count": 2,
-            "anchors": [
-              "#chapter-seven-part-a-certification-evaluation"
-            ]
-          },
-          {
-            "file": "core_07_b_system_alignment_certification_record_process.md",
-            "count": 2,
-            "anchors": [
-              "#chapter-seven-part-b-certification-record-and-process"
-            ]
-          }
-        ]
-      },
-      {
         "source": "core_08-08_standing_assessment.md",
         "targets": [
           {
@@ -4412,24 +4382,17 @@
           },
           {
             "file": "core_09-09_standing_integration.md",
-            "count": 46,
+            "count": 47,
             "anchors": [
-              "#210-safe-delegation-competency-gate-dimensions",
-              "#310-non-recurrence-lock-dimensions",
-              "#312-misaligned-reward-reporting-forfeiture-and-correction",
-              "#35-positive-standing-recognition",
-              "#38-standing-integration-contribution-and-violation-nature",
-              "#421-forum-disclosure-and-recusal-process-impact",
-              "#71-shared-domain-lenses-cross-axis-vocabulary",
-              "#benefit-route-descriptors-q2-integration",
-              "#chapter-nine-standing-effects-and-integration",
-              "#competency-gates",
-              "#dual-use-contribution-integration-dimensions",
-              "#dual-use-violation-integration-dimensions",
-              "#harm-route-descriptors-q2-integration",
-              "#standing-integration-slot-band-standing-locks",
-              "#standing-locks-in-the-standing-model",
-              "#violation-table-q3-non-recurrence-dimensions"
+              "#2-integration-record-and-decision-order",
+              "#3-shared-descriptor-and-attachment-normalization",
+              "#42-general-standing-locks",
+              "#43-special-locks",
+              "#44-special-violation-rules",
+              "#5-contribution-consequences-second",
+              "#52-competency-gates",
+              "#85-timely-implementation-and-reassessment",
+              "#chapter-nine-standing-effects-and-integration"
             ]
           },
           {
@@ -4459,152 +4422,17 @@
         "targets": [
           {
             "file": "core_00_preamble.md",
-            "count": 7,
+            "count": 2,
             "anchors": [
               "#constitutional-tetrad",
-              "#material-stake",
               "#two-constitutional-aims"
             ]
           },
           {
-            "file": "core_01_a_values_principles.md",
-            "count": 8,
-            "anchors": [
-              "#2-foundational-objective-wellbeing",
-              "#3-non-negotiable-constraints-safety-and-truth",
-              "#31-safety-harm-constraint",
-              "#32-truth-epistemic-integrity-constraint",
-              "#5-freedom-bounded-agency"
-            ]
-          },
-          {
-            "file": "core_01_b_interaction_interpretation.md",
-            "count": 3,
-            "anchors": [
-              "#6-process-conflict-resolution",
-              "#7-prohibition-on-absolute-override"
-            ]
-          },
-          {
-            "file": "core_01_c_stewardship_capacity_principles.md",
-            "count": 7,
-            "anchors": [
-              "#10-governance-under-stewardship-discipline",
-              "#1112-what-incentives-must-not-do",
-              "#114-misalignment-correction-and-capture-response",
-              "#116-successor-responsibility-and-formal-structure-non-escape",
-              "#9-stewardship-and-distributed-understanding"
-            ]
-          },
-          {
-            "file": "core_05-05_definitions_a_independent.md",
+            "file": "core_05a_accountability_definitions.md",
             "count": 1,
             "anchors": [
-              "#chapter-five-foundational-definitions"
-            ]
-          },
-          {
-            "file": "core_05a_accountability_definitions.md",
-            "count": 263,
-            "anchors": [
-              "#accountability",
-              "#accountability-a",
-              "#accountability-c",
-              "#collective-accountability-failure",
-              "#collective-accountability-failure-a",
-              "#collective-accountability-failure-c",
-              "#competency-gate",
-              "#competency-gate-a",
-              "#competency-gate-c",
-              "#contestability",
-              "#contestability-a",
-              "#contestability-c",
-              "#contribution-state",
-              "#contribution-state-a",
-              "#contribution-state-c",
-              "#feasibility",
-              "#feasibility-a",
-              "#feasibility-c",
-              "#harm",
-              "#harm-a",
-              "#harm-c",
-              "#necessity",
-              "#necessity-a",
-              "#necessity-c",
-              "#proportionality",
-              "#proportionality-a",
-              "#proportionality-c",
-              "#protected-reporting-whistleblowing",
-              "#redress-and-remediation-constitutional",
-              "#redress-and-remediation-constitutional-a",
-              "#redress-and-remediation-constitutional-c",
-              "#standing-lock",
-              "#standing-lock-a",
-              "#standing-lock-c",
-              "#timeliness-constitutional",
-              "#timely-resolution-constitutional",
-              "#verified-violation-findings"
-            ]
-          },
-          {
-            "file": "core_05c_continuity_definitions.md",
-            "count": 20,
-            "anchors": [
-              "#ecological-integrity-constitutional",
-              "#ecological-integrity-constitutional-a",
-              "#ecological-integrity-constitutional-c",
-              "#environmental-preconditions-constitutional",
-              "#environmental-preconditions-constitutional-a",
-              "#environmental-preconditions-constitutional-c",
-              "#trustworthiness",
-              "#trustworthiness-a",
-              "#trustworthiness-c"
-            ]
-          },
-          {
-            "file": "core_05i_integrative_definitions.md",
-            "count": 25,
-            "anchors": [
-              "#constitutional-constraint",
-              "#constitutional-constraint-violation",
-              "#constitutional-constraint-violation-a",
-              "#constitutional-constraint-violation-c",
-              "#supremacy-and-enforceability"
-            ]
-          },
-          {
-            "file": "core_05o_oversight_definitions.md",
-            "count": 74,
-            "anchors": [
-              "#auditability",
-              "#auditability-a",
-              "#auditability-c",
-              "#epistemic-integrity",
-              "#epistemic-integrity-a",
-              "#epistemic-integrity-c",
-              "#epistemic-integrity-o",
-              "#evidence-preservation",
-              "#foreseeability-diligence",
-              "#foreseeability-diligence-a",
-              "#foreseeability-diligence-c",
-              "#materiality-determination",
-              "#materiality-determination-a",
-              "#materiality-determination-c",
-              "#transparency",
-              "#transparency-a",
-              "#transparency-c"
-            ]
-          },
-          {
-            "file": "core_05p_participation_definitions.md",
-            "count": 12,
-            "anchors": [
-              "#coercion-and-manipulation-constitutional",
-              "#coercion-and-manipulation-constitutional-a",
-              "#coercion-and-manipulation-constitutional-c",
-              "#procedural-fairness-constitutional",
-              "#procedural-fairness-constitutional-a",
-              "#procedural-fairness-constitutional-c"
+              "#timeliness-constitutional"
             ]
           },
           {
@@ -4615,132 +4443,27 @@
             ]
           },
           {
-            "file": "core_06-06_rights_part_b.md",
-            "count": 3,
-            "anchors": [
-              "#article-ix-a-agency-and-freedom-from-manipulation",
-              "#article-v-g-accessibility",
-              "#article-vii-self-ownership"
-            ]
-          },
-          {
-            "file": "core_06-06_rights_part_c.md",
-            "count": 5,
-            "anchors": [
-              "#article-xii-b-right-to-challenge-review-and-redress",
-              "#article-xix-interoperability-portability-and-exit-integrity",
-              "#article-xvi-system-lifecycle-environments-and-reversibility",
-              "#article-xxi-root-cause-analysis-and-adaptive-response"
-            ]
-          },
-          {
-            "file": "core_06-06_rights_part_d.md",
-            "count": 19,
-            "anchors": [
-              "#article-xxiii-a-justice-objective-and-scope",
-              "#article-xxiii-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints",
-              "#article-xxiii-c-least-restrictive-and-time-bounded-rule",
-              "#article-xxiii-conflict-resolution-escalation-and-emergency-proportionality",
-              "#article-xxiv-c-timely-resolution-and-anti-delay-floor",
-              "#incentive-alignment-transition-carve-out"
-            ]
-          },
-          {
-            "file": "core_07_a_system_alignment_certification_evaluation.md",
-            "count": 1,
-            "anchors": [
-              "#32-accessibility-under-sentience-non-exclusion"
-            ]
-          },
-          {
             "file": "core_08-08_standing_assessment.md",
-            "count": 88,
+            "count": 4,
             "anchors": [
-              "#11-three-question-evaluation-discipline",
-              "#2-purpose-and-role",
-              "#2-standing-records",
-              "#22-linked-records-and-no-offset-bridge",
-              "#31-minimum-record-contents",
-              "#33-collective-and-actor-specific-records",
-              "#36-forum-boundary",
-              "#4-standing-measurement-evaluation-dimensions",
-              "#41-contribution-magnitude-input-dimensions",
-              "#42-violation-severity-input-dimensions",
-              "#46-question-2-measurement-illustrations",
               "#7-unified-proportional-lequ-scale",
-              "#benefit-route-descriptors-q2-measurement-role",
-              "#chapter-eight-compliance-violation-and-standing-model",
-              "#contribution-table-q1-magnitude-input-dimensions",
-              "#contribution-table-q2-magnitude-input-dimensions",
-              "#dual-use-measurement-dimensions",
-              "#harm-route-descriptors-q2-measurement-role",
-              "#verified-inputs-for-standing",
-              "#violation-table-q2-severity-input-dimensions"
-            ]
-          },
-          {
-            "file": "core_08-11_application_vignettes.md",
-            "count": 1,
-            "anchors": [
-              "#chapters-eight-eleven-application-vignettes"
-            ]
-          },
-          {
-            "file": "core_09-09_standing_integration.md",
-            "count": 7,
-            "anchors": [
-              "#10-enforcement-realism-anchors",
-              "#62-joint-assessment-escalation-constraints-and-scrutiny",
-              "#competency-gates",
-              "#standing-integration-slot-band-standing-locks",
-              "#standing-lock-context-compass",
-              "#standing-locks-in-the-standing-model",
-              "#violation-axis-slot-lock-and-attachment-compass"
+              "#chapter-eight-compliance-violation-and-standing-model"
             ]
           },
           {
             "file": "core_10-10_misconduct.md",
-            "count": 23,
+            "count": 4,
             "anchors": [
-              "#610-forum-recusal-failure-and-biased-panel-participation",
-              "#62-rights-floor-waivers-and-unconstitutional-contract-terms",
-              "#66-unlawful-or-unconstitutional-command-conduct",
-              "#67-reward-protection-or-normalization-of-anti-constitutional-conduct",
               "#chapter-ten-anti-constitutional-misconduct"
             ]
           },
           {
             "file": "core_11-11_forum.md",
-            "count": 15,
+            "count": 3,
             "anchors": [
               "#10-timely-resolution-materiality-tiers-and-anti-delay-discipline",
-              "#6-transfer-consolidation-and-coordination",
               "#chapter-eleven-forums-and-jurisdiction"
             ]
-          },
-          {
-            "file": "core_13-15_amendment.md",
-            "count": 1,
-            "anchors": [
-              "#4-disputes-involving-external-legal-orders"
-            ]
-          },
-          {
-            "file": "corpus_forum.md",
-            "count": 1,
-            "anchors": []
-          },
-          {
-            "file": "corpus_forum/cf_04_panel_formation_disclosure_recusal_bench_constitution.md",
-            "count": 1,
-            "anchors": [
-              "#cf-4-panel-formation-disclosure-recusal-and-lawful-bench-constitution"
-            ]
-          },
-          {
-            "file": "corpus_systems.md",
-            "count": 1,
-            "anchors": []
           }
         ]
       },
@@ -4960,12 +4683,10 @@
             "file": "core_09-09_standing_integration.md",
             "count": 13,
             "anchors": [
-              "#312-misaligned-reward-reporting-forfeiture-and-correction",
-              "#38-standing-integration-contribution-and-violation-nature",
-              "#410-collective-accountability-and-acquiescent-participation",
-              "#421-forum-disclosure-and-recusal-process-impact",
-              "#67-duty-to-resist-unlawful-or-unconstitutional-instructions",
-              "#9-violation-axis-s-7-9-anti-constitutional-misconduct-authoritative-location",
+              "#2-integration-record-and-decision-order",
+              "#43-special-locks",
+              "#44-special-violation-rules",
+              "#9-chapter-ten-gateway",
               "#chapter-nine-standing-effects-and-integration"
             ]
           },
@@ -5149,12 +4870,9 @@
             "file": "core_09-09_standing_integration.md",
             "count": 16,
             "anchors": [
-              "#421-forum-disclosure-and-recusal-process-impact",
-              "#6-extended-axis-ii-legal-hybrid-duty-and-harm-descriptors",
-              "#71-shared-domain-lenses-cross-axis-vocabulary",
-              "#72-stackable-benefit-and-stewardship-descriptors-contribution-state-supplement",
-              "#73-stackable-harm-and-conduct-descriptors-violation-nature-supplement",
-              "#8-cross-axis-coupling-and-escalation-constraints",
+              "#2-integration-record-and-decision-order",
+              "#3-shared-descriptor-and-attachment-normalization",
+              "#43-special-locks",
               "#chapter-nine-standing-effects-and-integration"
             ]
           },
@@ -5269,9 +4987,10 @@
             "file": "core_09-09_standing_integration.md",
             "count": 5,
             "anchors": [
-              "#210-safe-delegation-competency-gate-dimensions",
-              "#310-non-recurrence-lock-dimensions",
-              "#54-anti-evasion-and-look-through-authority"
+              "#42-general-standing-locks",
+              "#52-competency-gates",
+              "#84-anti-evasion-and-look-through-authority",
+              "#85-timely-implementation-and-reassessment"
             ]
           },
           {
@@ -5559,8 +5278,8 @@
             "file": "core_09-09_standing_integration.md",
             "count": 4,
             "anchors": [
-              "#51-remediation-capacity-and-funding",
-              "#54-anti-evasion-and-look-through-authority"
+              "#81-remediation-capacity-and-funding",
+              "#84-anti-evasion-and-look-through-authority"
             ]
           },
           {
@@ -6243,15 +5962,12 @@
             "file": "core_09-09_standing_integration.md",
             "count": 20,
             "anchors": [
-              "#37-reinstatement-review-and-non-entrenchment",
-              "#421-forum-disclosure-and-recusal-process-impact",
-              "#62-coercive-or-liberty-restricting-safeguard-character",
-              "#anti-constitutional-trust-lock",
-              "#chapter-nine-standing-effects-and-integration",
-              "#competency-gates",
-              "#forum-service-standing-lock-for-recusal-failure",
-              "#standing-lock-proportionality-and-calibration",
-              "#standing-locks-in-the-standing-model"
+              "#42-general-standing-locks",
+              "#43-special-locks",
+              "#44-special-violation-rules",
+              "#52-competency-gates",
+              "#7-restoration-and-reassessment",
+              "#chapter-nine-standing-effects-and-integration"
             ]
           },
           {
@@ -6474,9 +6190,7 @@
             "file": "core_09-09_standing_integration.md",
             "count": 3,
             "anchors": [
-              "#312-misaligned-reward-reporting-forfeiture-and-correction",
-              "#3121-misaligned-reward-reporting-duty-and-exclusions",
-              "#3122-misaligned-reward-forfeiture-and-retention"
+              "#44-special-violation-rules"
             ]
           },
           {
@@ -6801,11 +6515,12 @@
           },
           {
             "file": "core_09-09_standing_integration.md",
-            "count": 9,
+            "count": 10,
             "anchors": [
-              "#10-enforcement-realism-anchors",
-              "#10-violation-axis-s-7-9-anti-constitutional-misconduct-authoritative-location",
-              "#5-standing-effects"
+              "#6-final-standing-effect",
+              "#8-enforcement-realism",
+              "#9-chapter-ten-gateway",
+              "#chapter-nine-standing-effects-and-integration"
             ]
           },
           {
@@ -7935,6 +7650,15 @@
             ]
           },
           {
+            "file": "core_09-09_standing_integration.md",
+            "count": 3,
+            "anchors": [
+              "#42-general-standing-locks",
+              "#43-special-locks",
+              "#52-competency-gates"
+            ]
+          },
+          {
             "file": "core_16-16_incorporation.md",
             "count": 8,
             "anchors": [
@@ -8068,6 +7792,15 @@
             "count": 1,
             "anchors": [
               "#chapter-seven-system-alignment-certification"
+            ]
+          },
+          {
+            "file": "core_09-09_standing_integration.md",
+            "count": 6,
+            "anchors": [
+              "#42-general-standing-locks",
+              "#43-special-locks",
+              "#52-competency-gates"
             ]
           },
           {
@@ -8900,15 +8633,11 @@
             ]
           },
           {
-            "file": "core_08-08_standing_assessment.md",
-            "count": 1,
-            "anchors": []
-          },
-          {
             "file": "core_09-09_standing_integration.md",
-            "count": 1,
+            "count": 2,
             "anchors": [
-              "#38-standing-integration-contribution-and-violation-nature"
+              "#2-integration-record-and-decision-order",
+              "#51-recency-and-currentness"
             ]
           },
           {
@@ -10143,6 +9872,15 @@
             "count": 6,
             "anchors": [
               "#chapter-six-foundational-rights"
+            ]
+          },
+          {
+            "file": "core_09-09_standing_integration.md",
+            "count": 12,
+            "anchors": [
+              "#42-general-standing-locks",
+              "#43-special-locks",
+              "#52-competency-gates"
             ]
           },
           {
@@ -13137,9 +12875,11 @@
           },
           {
             "file": "core_09-09_standing_integration.md",
-            "count": 4,
+            "count": 11,
             "anchors": [
-              "#421-forum-disclosure-and-recusal-process-impact"
+              "#43-special-locks",
+              "#52-competency-gates",
+              "#7-restoration-and-reassessment"
             ]
           },
           {
@@ -14175,7 +13915,7 @@
             "file": "core_09-09_standing_integration.md",
             "count": 2,
             "anchors": [
-              "#52-remedy-organ-durability",
+              "#82-remedy-system-durability",
               "#chapter-nine-standing-effects-and-integration"
             ]
           },
