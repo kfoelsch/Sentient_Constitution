@@ -104,7 +104,7 @@ Trustworthiness must be evaluated across time, scale, and dependency relationshi
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter One [4.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [4.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), and [Chapter One §6.3 Rights-Collision Procedure](core_01_b_interaction_interpretation.md#63-rights-collision-procedure).
-- Read with: **Article III-A** (*Survival*); [System Alignment Certification](core_05c_continuity_definitions.md#system-alignment-certification-constitutional) where system failure or misalignment defeats survival-essential access; [README — Standing pipeline and forums](README.md#standing-pipeline-and-forums) (*verified classification and timely remedy*).
+- Read with: **Article III-A** (*Survival*); [System Alignment Certification](core_05c_continuity_definitions.md#system-alignment-certification-constitutional) where system failure or misalignment defeats survival-essential access; [README — Standing pipeline and forums](README.md#standing-pipeline-and-forums) (*verified classification and timely remedy*); [Chapter Nine §9](core_09-09_standing_integration.md#9-enforcement-realism) (*Enforcement realism and remedy systems*); [CI-27](corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md) (*Remedy systems and institutional redress capacity*).
 
 </details>
 
@@ -113,6 +113,7 @@ Trustworthiness must be evaluated across time, scale, and dependency relationshi
 
 - [Good Faith](core_05a_accountability_definitions.md#good-faith) · [O](core_05a_accountability_definitions.md#good-faith) · [A](core_05a_accountability_definitions.md#good-faith-a) · [C](core_05a_accountability_definitions.md#good-faith-c)
 - [Redress and Remediation](core_05a_accountability_definitions.md#redress-and-remediation-constitutional) · [O](core_05a_accountability_definitions.md#redress-and-remediation-constitutional) · [A](core_05a_accountability_definitions.md#redress-and-remediation-constitutional-a) · [C](core_05a_accountability_definitions.md#redress-and-remediation-constitutional-c)
+- [Remedy System](core_05a_accountability_definitions.md#remedy-system-constitutional) · [O](core_05a_accountability_definitions.md#remedy-system-constitutional) · [A](core_05a_accountability_definitions.md#remedy-system-constitutional-a) · [C](core_05a_accountability_definitions.md#remedy-system-constitutional-c)
 - [Timely Resolution](core_05a_accountability_definitions.md#timely-resolution-constitutional) · [O](core_05a_accountability_definitions.md#timely-resolution-constitutional) · [A](core_05a_accountability_definitions.md#timely-resolution-constitutional-a) · [C](core_05a_accountability_definitions.md#timely-resolution-constitutional-c)
 - [Protected Reporting (Whistleblowing)](core_05a_accountability_definitions.md#protected-reporting-whistleblowing) · [O](core_05a_accountability_definitions.md#protected-reporting-whistleblowing) · [A](core_05a_accountability_definitions.md#protected-reporting-whistleblowing-a) · [C](core_05a_accountability_definitions.md#protected-reporting-whistleblowing-c)
 
@@ -125,6 +126,7 @@ Trustworthiness must be evaluated across time, scale, and dependency relationshi
 - **Right to challenge, review, and redress:** Good-faith challenges (*Good Faith*, **Chapter Five**), review requests, and protected reports must not be suppressed, obstructed, or penalized.
 - **Access to correction:** Sentients have the right to practical access to review, audit, correction, and proportionate remediation where system failures materially affect them.
   - Redress and remediation for material impacts are governed by **Chapter Five** Independent Definitions (*Redress and Remediation*).
+- **Remedy-system durability:** Challenge and redress require a real [Remedy System](core_05a_accountability_definitions.md#remedy-system-constitutional) — durable institutional capacity, not a paper pathway. The constitutional floor lives in [Chapter Nine §9](core_09-09_standing_integration.md#9-enforcement-realism) (*Enforcement realism and remedy systems*). Institutional implementation is owned by **`corpus_institutions.md`** **CI-27** (*Remedy systems and institutional redress capacity*).
 - **Timely redress:** Practical access includes time-bounded intake, acknowledgment, and proportionate interim relief where ongoing harm is material under **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*). Indefinite pendency without documented tier-appropriate justification is incompatible with this Article.
 - **Substantive entitlements:** Sentients have the right to:
   - challenge the reliability, integrity, or trustworthiness of systems that materially affect them;

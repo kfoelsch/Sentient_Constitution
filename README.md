@@ -53,7 +53,7 @@ The corpus is written in plain language with low jargon to improve accessibility
   - Part B — record and process (§11–§16) — [`core_07_b_system_alignment_certification_record_process.md`](core_07_b_system_alignment_certification_record_process.md)
   - Reading index — [`core_07-07_system_alignment_certification.md`](core_07-07_system_alignment_certification.md)
 - **Chapter Eight** — Questions 1 and 2: verified standing records, normalized descriptor catalogs, and Contribution Axis / Violation Axis measurement — [`core_08-08_standing_assessment.md`](core_08-08_standing_assessment.md)
-- **Chapter Nine** — Question 3: integration records, descriptor integration, attachment normalization, violation and contribution consequences, final effects, restoration, and enforcement — [`core_09-09_standing_integration.md`](core_09-09_standing_integration.md)
+- **Chapter Nine** — Question 3: integration records, descriptor integration, attachment normalization, violation and contribution consequences, final effects, restoration, and enforcement realism / remedy systems — [`core_09-09_standing_integration.md`](core_09-09_standing_integration.md)
 - **Chapter Ten** — designation only: anti-constitutional-misconduct designation for qualifying **s = 7, 8, or 9** Violation Axis findings — [`core_10-10_misconduct.md`](core_10-10_misconduct.md)
 
 ### Forums
@@ -88,6 +88,7 @@ Cross-topic entry points not spelled out in the headings above:
 - System alignment certification records → **Chapter Seven**
 - Contribution / violation records and measurement (Contribution Axis and Violation Axis; Questions 1 and 2) → **Chapter Eight**
 - Standing integration and effects (Question 3; violation, correction, and prevention, lock design and enforcement, then contribution gates) → **Chapter Nine**
+- Remedy systems and enforcement realism (capacity, durability, anti-evasion) → **Chapter Nine §9**; implementation → **CI-27**
 - Anti-constitutional misconduct designation only → **Chapter Ten**
 - Incorporation boundary and custody effect → **Chapter Sixteen**
 

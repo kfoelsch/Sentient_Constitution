@@ -42,6 +42,7 @@
 | **CI-9** | Classification-linked institutional obligations and scaling map |
 | **CI-12** | Cross-institution coordination and escalation |
 | **CI-13** | Institutional failure, graduated sanctions, dissolution, and continuity transfer |
+| **CI-27** | Remedy systems and institutional redress capacity |
 
 **Domain-specific section homes**
 
@@ -81,4 +82,4 @@ During assurance review, ambiguous terms in this file must be interpreted by ref
 
 **Previous file:** [ci_25_scientific_publication_peer_review_replication_evidence_stewardship.md](ci_25_scientific_publication_peer_review_replication_evidence_stewardship.md)
 
-**Next file:** [corpus_forum.md](../corpus_forum.md)
+**Next file:** [ci_27_remedy_systems_institutional_redress_capacity.md](ci_27_remedy_systems_institutional_redress_capacity.md)

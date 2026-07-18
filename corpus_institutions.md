@@ -37,6 +37,7 @@
 | CI-24: Innovation reward, disclosure, and anti-enclosure | [ci_24_innovation_reward_disclosure_anti_enclosure.md](corpus_institutions/ci_24_innovation_reward_disclosure_anti_enclosure.md) |
 | CI-25: Scientific publication, peer review, replication, and evidence stewardship | [ci_25_scientific_publication_peer_review_replication_evidence_stewardship.md](corpus_institutions/ci_25_scientific_publication_peer_review_replication_evidence_stewardship.md) |
 | CI-26: Compliance mapping and stable registry | [ci_26_compliance_mapping_stable_registry.md](corpus_institutions/ci_26_compliance_mapping_stable_registry.md) |
+| CI-27: Remedy systems and institutional redress capacity | [ci_27_remedy_systems_institutional_redress_capacity.md](corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md) |
 
 ---
 

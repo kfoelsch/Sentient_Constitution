@@ -204,6 +204,7 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 - [Reasonably Foreseeable](core_05o_oversight_definitions.md#reasonably-foreseeable)
 - [Redress and Remediation](core_05a_accountability_definitions.md#redress-and-remediation-constitutional)
 - [Refuge from Non-Compliance](core_05p_participation_definitions.md#refuge-from-non-compliance-constitutional)
+- [Remedy System](core_05a_accountability_definitions.md#remedy-system-constitutional)
 - [Reproductive Autonomy](core_05p_participation_definitions.md#reproductive-autonomy-constitutional)
 - [Residual Risk / Misalignment](core_05c_continuity_definitions.md#residual-risk--misalignment)
 - [Restorative Justice](core_05a_accountability_definitions.md#restorative-justice)

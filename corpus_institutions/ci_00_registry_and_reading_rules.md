@@ -58,7 +58,7 @@
 
 *In plain terms: labels like **CI-7.2** are institutional-implementation section numbers — not Sentient Constitution article numbers.*
 
-Apply [corpus_joint_structure.md](../corpus_joint_structure.md) **CJS-1.3** (*Section identifiers and article references*) as the shared implementation-corpus identifier rule. In this folder specifically, headings use **CI-1** (*Scope, purpose, and legitimacy interface*) through **CI-26** (*Compliance mapping and stable registry*). Subsections use **CI-*n*.*m*** (for example **CI-7.2** (*External assurance triggers*)). They must not be read as Sentient Constitution **Article** numbers. The abbreviation **CI** matches [doc_architecture.md](../doc_architecture.md) (*corpus_institutions.md*).
+Apply [corpus_joint_structure.md](../corpus_joint_structure.md) **CJS-1.3** (*Section identifiers and article references*) as the shared implementation-corpus identifier rule. In this folder specifically, headings use **CI-1** (*Scope, purpose, and legitimacy interface*) through **CI-27** (*Remedy systems and institutional redress capacity*). Subsections use **CI-*n*.*m*** (for example **CI-7.2** (*External assurance triggers*)). They must not be read as Sentient Constitution **Article** numbers. The abbreviation **CI** matches [doc_architecture.md](../doc_architecture.md) (*corpus_institutions.md*).
 
 Unless another reference pattern is stated, **Article** labels with Roman numerals in this folder point to Sentient Constitution Chapter Six in the `core_06-06_rights_part_*.md` files.
 
@@ -106,6 +106,7 @@ Unless another reference pattern is stated, **Article** labels with Roman numera
 | **CI-24** | Innovation reward, disclosure, and anti-enclosure | [ci_24_innovation_reward_disclosure_anti_enclosure.md](ci_24_innovation_reward_disclosure_anti_enclosure.md) |
 | **CI-25** | Scientific publication, peer review, replication, and evidence stewardship | [ci_25_scientific_publication_peer_review_replication_evidence_stewardship.md](ci_25_scientific_publication_peer_review_replication_evidence_stewardship.md) |
 | **CI-26** | Compliance mapping and stable registry | [ci_26_compliance_mapping_stable_registry.md](ci_26_compliance_mapping_stable_registry.md) |
+| **CI-27** | Remedy systems and institutional redress capacity | [ci_27_remedy_systems_institutional_redress_capacity.md](ci_27_remedy_systems_institutional_redress_capacity.md) |
 
 ---
 

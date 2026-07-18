@@ -375,6 +375,39 @@ These measures ask whether process clocks, resolution pathways, and repair veloc
 
 ---
 
+<a id="remedy-system"></a>
+<a id="remedy-system-constitutional"></a>
+
+#### Remedy System
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Canonical owner: [Chapter Nine §9](core_09-09_standing_integration.md#9-enforcement-realism) (*Enforcement realism and remedy systems*).
+- Implementation owner: [CI-27](corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md) (*Remedy systems and institutional redress capacity*).
+- Cluster component: [Chapter Five §3.31 *Adjudication and Dispute Resolution, Redress and Remediation, Restorative Justice, Review and Correction Duty, and Refuge from Non-Compliance*](core_05a_accountability_definitions.md#accountability-contestability-semi-independent)
+- Read with: [Redress and Remediation](core_05a_accountability_definitions.md#redress-and-remediation-constitutional), [Contestability](core_05a_accountability_definitions.md#contestability), [Timely Resolution](core_05a_accountability_definitions.md#timely-resolution-constitutional), [Accountability](core_05a_accountability_definitions.md#accountability), **Article XII-B** (*Right to Challenge, Review, and Redress*), and [Chapter Eleven](core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) (*primary-stakes forum supervision*).
+
+</details>
+
+<br>
+
+- **What it is**
+  - **In scope:** The durable institutional, administrative, technical, and financial capacity that delivers practical challenge, intake, preservation, review, repair, compensation, monitoring, safeguard enforcement, lock review, and recurrence prevention. A remedy system includes forums, oversight bodies, complaint offices, technical review bodies, and rights-sensitive administrative systems where those bodies must make redress real rather than nominal. It is the machinery that makes [Redress and Remediation](core_05a_accountability_definitions.md#redress-and-remediation-constitutional) executable. It is not a dignity rank, reputation score, forum family, or substitute for primary-stakes merits authority.
+  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter; treating technical standards bodies as the command hierarchy for remedy institutions.
+<a id="remedy-system-constitutional-a"></a>
+<a id="remedy-system-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** Accountability measurement family and Timeliness measurement family — supporting measure where multiple measurement families co-apply.
+
+    **Primary assessment:** Align with [Chapter Nine §9](core_09-09_standing_integration.md#9-enforcement-realism), [Redress and Remediation](core_05a_accountability_definitions.md#redress-and-remediation-constitutional), [Contestability](core_05a_accountability_definitions.md#contestability), and [Timely Resolution](core_05a_accountability_definitions.md#timely-resolution-constitutional). Detect paper-only pathways, designed backlog, inaccessible intake, chronic underfunding, single-point fragility, and externalization of remedy cost onto affected parties or public systems where responsible actors can lawfully bear them. Capacity, measurement, and milestone methods may be published under [Technical Forum Domains](core_11-11_forum.md#422-technical-forum-domains); accountability for staffing, funding, backlog, succession, and performance remains with the primary-stakes forum family under [Chapter Eleven](core_11-11_forum.md#2-default-venue-and-primary-stakes).
+<a id="remedy-system-constitutional-c"></a>
+<a id="remedy-system-c"></a>
+- **What must hold**
+  - operating challenge or redress pathways that exist only on paper; defeating [Redress and Remediation](core_05a_accountability_definitions.md#redress-and-remediation-constitutional) or **Article XII-B** (*Right to Challenge, Review, and Redress*) through under-capacity, delay, capture, or cost-shifting; or treating technical-forum standards ownership as institutional command authority over remedy systems.
+
+---
+
 <a id="restorative-justice"></a>
 
 ---

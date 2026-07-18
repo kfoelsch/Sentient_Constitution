@@ -18,7 +18,7 @@
 
 > The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations.
 >
-> Read this chapter in order: immutable Chapter Eight inputs; integration record and decision order; descriptor integration and attachment normalization; violation, correction, and prevention; lock design and enforcement (definition and attachment, proportionality and calibration, record visibility and escalation, special violation rules, and special locks); contribution consequences (recency and currentness, then competency gates); final standing effect; restoration and reassessment; enforcement realism; Chapter Ten gateway; named applications.
+> Read this chapter in order: immutable Chapter Eight inputs; integration record and decision order; descriptor integration and attachment normalization; violation, correction, and prevention; lock design and enforcement (definition and attachment, proportionality and calibration, record visibility and escalation, special violation rules, and special locks); contribution consequences (recency and currentness, then competency gates); final standing effect; restoration and reassessment; enforcement realism and remedy systems; Chapter Ten gateway; named applications.
 
 </details>
 
@@ -28,8 +28,8 @@
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [Chapter Eight](core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) (*Questions 1 and 2; verified records and standing measurement*).
-- This file: Question 3 integration, remedy, correction, locks, competency gates, final standing effect, restoration, reassessment, and enforcement.
-- Downstream: [Chapter Ten](core_10-10_misconduct.md#chapter-ten-anti-constitutional-misconduct) (*designation only*); [Chapter Eleven](core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) (*forum supervision*).
+- This file: Question 3 integration, remedy, correction, locks, competency gates, final standing effect, restoration, reassessment, enforcement realism, and remedy systems.
+- Downstream: [Chapter Ten](core_10-10_misconduct.md#chapter-ten-anti-constitutional-misconduct) (*designation only*); [Chapter Eleven](core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) (*forum supervision*); [CI-27](corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md) (*remedy-system implementation*).
 
 </details>
 
@@ -632,7 +632,7 @@ The automatically calculated integration record displays, for each contribution 
 <a id="20-contribution-measurement-pointer--question-2-lives-in-chapter-eight"></a>
 #### 6.2 Competency gates
 
-*In plain terms: a competency gate asks whether someone is ready for a named pathway. It uses current verified contribution and other demonstrated readiness inputs. Satisfying a gate never opens a pathway that a standing lock still blocks.*
+*In plain terms: a competency gate asks whether someone is ready for a named pathway. It uses current verified contribution and other demonstrated readiness inputs. Once a gate is open, it stays open by default. Some roles need periodic retesting; technical forums decide which ones. A real change in role-relevant capacity — for example after a stroke or a mental-health condition that impairs needed judgment — can trigger reassessment. Satisfying a gate never opens a pathway that a standing lock still blocks.*
 
 A **competency gate** is a published readiness check for a named pathway. Anyone affected must be able to see the rule, check how it was applied, and challenge it if it is wrong. In short, it asks: is this sentient ready for this role or access?
 
@@ -666,15 +666,20 @@ Every gate must be designed so the integration record can identify:
 - the review route; and
 - the reassessment trigger.
 
-A satisfied gate never creates permanent entitlement.
+**Default continuity.** Once a competency gate is satisfied and the affected pathway is open, it stays open by default. That is not permanent entitlement. Published retesting, a material change in role-relevant capacity, an applicable standing lock, or another reassessment trigger under this section may reopen, limit, or close it.
+
+**Periodic retesting.** Some competencies require periodic retesting; others do not. Which pathways require retesting, how often, and by what method is set by published standards under [Technical Forum Domains](core_11-11_forum.md#422-technical-forum-domains), including specialized technical forums within their lawful scope. Those standards must be role-proportionate, inspectable, and contestable.
+
+**Material capacity change.** A gate may also be reassessed when verified facts show a material change in the capacity the named pathway actually requires — for example loss of motion or language after a stroke, or a mental-health condition that impairs judgment needed for that role. Reassessment must target the role-relevant capacity at stake, not disability or health status as such. It must remain necessary, proportionate, open to review, and consistent with accessibility and anti-discrimination floors under Chapters Five and Six. Accommodation, support, or a narrower pathway must be considered before closing a gate where those options would preserve safe readiness.
 
 The integration record must say, in plain view, for each gate result:
 
 - whether the gate is satisfied, not satisfied, or satisfied only with named safeguards;
 - which verified contribution and other readiness inputs were used;
 - how currentness under [§6.1](#61-recency-and-currentness) affected the result;
+- whether the open gate remains under default continuity or a published retesting schedule;
 - who may contest or review the gate, and by what route; and
-- what triggers reassessment.
+- what triggers reassessment, including material capacity change where applicable.
 
 An applicable standing lock under [§4.2](#42-general-standing-locks) and [§5](#5-lock-design-and-enforcement) controls. Gate satisfaction cannot open a blocked pathway, waive the Rights Floor, erase a violation, replace remedy or correction, or lower a Violation Axis slot. Pathway outcomes after gates are stated under [§7](#7-final-standing-effect).
 
@@ -693,9 +698,11 @@ An applicable standing lock under [§4.2](#42-general-standing-locks) and [§5](
 <a id="chapter-seven-part-e-integrative-discipline"></a>
 <a id="62-joint-assessment-escalation-constraints-and-scrutiny"></a>
 <a id="42-standing-lock-assignment--violation-assessment-and-non-substitution"></a>
-**Separate roles.** Verified records, remedies, correction duties, locks, gates, and descriptors may work together, but each has a different role and one must not replace another. Closer review does not by itself justify a harsher restriction. Any restriction must be needed, proportionate to the verified facts, supported by evidence, open to review, and consistent with **Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*).
+The standing system must **automatically** state the final standing effect for each named pathway once the earlier steps in [§2](#2-integration-record-and-decision-order) are complete. That statement must list every open gate and every restricted gate. No additional manual approval is required when verified inputs and published rules produce a determinate result. Contested, uncertain, novel, materially discretionary, or high-impact questions still assemble and route automatically, then go to authorized review under [§2](#2-integration-record-and-decision-order).
 
-The integration record must state the final effect separately for each pathway:
+**Separate roles.** Automatic integration may use verified records, remedies, correction duties, locks, gates, and descriptors together. Each still has its own job, and none may do the work of another. Closer or automated scrutiny is not, by itself, a reason to impose a harsher restriction. Any restriction must be necessary, matched to the verified facts, backed by evidence, open to review, and consistent with **Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*).
+
+The integration record must state the final effect separately for each affected pathway:
 
 - **open**—the competency gate is satisfied and no lock blocks the pathway;
 - **open with safeguards**—readiness is established but named, proportionate safeguards remain required;
@@ -704,7 +711,16 @@ The integration record must state the final effect separately for each pathway:
 - **restoration-only**—contribution may support repair credibility or supervised lower-risk service but not ordinary pathway access; or
 - **no effect**—the verified records do not justify a change.
 
-The decision must explain which immutable inputs, descriptors, remedies, locks, currentness findings, and gates produced the effect. Automated or formulaic systems must expose inputs, weights, rules, and review routes. The final effect is not a dignity rank, merged merit score, universal reputation label, or substitute for the underlying records.
+The record must show which of the following produced the effect:
+
+- immutable inputs;
+- descriptors;
+- remedies;
+- locks;
+- currentness findings; and
+- gates.
+
+It must also expose the inputs, weights, rules, and review routes used. The final effect is not a dignity rank, merged merit score, universal reputation label, or substitute for the underlying records.
 
 <a id="8-restoration-and-reassessment"></a>
 <a id="7-restoration-and-reassessment"></a>
@@ -734,7 +750,13 @@ Restoration is not automatic forgiveness, record erasure, or contribution offset
 <a id="6-enforcement-realism-anchors"></a>
 <a id="chapter-seven-part-f-continuity-enforcement"></a>
 <a id="5-enforcement-realism-anchors--continuity-enforcement"></a>
-### 9. Enforcement realism
+<a id="remedy-systems"></a>
+<a id="9-enforcement-realism-and-remedy-systems"></a>
+### 9. Enforcement realism and remedy systems
+
+*In plain terms: standing consequences and redress count only when real institutions can deliver them. This section is the constitutional floor for that machinery. Day-to-day staffing, funding, backlog, and succession rules live in the institutions layer.*
+
+Chapter Nine owns the constitutional floor that Question 3 consequences and related redress must be institutionally real. A [Remedy System](core_05a_accountability_definitions.md#remedy-system-constitutional) is the durable capacity that delivers challenge, intake, preservation, review, repair, monitoring, safeguard enforcement, and lock review — not a paper pathway. Implementation detail is owned by [CI-27](corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md) (*Remedy systems and institutional redress capacity*). Read with **Article XII-B** (*Right to Challenge, Review, and Redress*) and [Chapter Eleven](core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) for forum supervision.
 
 Standing integration fails if consequences exist only on paper. Adopters must maintain practical, timely capacity to implement correction, fund remedy, review restrictions, preserve records, enforce safeguards, and prevent escape through cost, delay, borders, restructuring, or formal identity changes.
 
@@ -742,13 +764,59 @@ Standing integration fails if consequences exist only on paper. Adopters must ma
 <a id="81-remediation-capacity-and-funding"></a>
 #### 9.1 Remediation capacity and funding
 
-Correction, repair, compensation, monitoring, safeguards, and recurrence prevention require real institutional, technical, and financial capacity. Expense, insolvency, inconvenience, receivership, dissolution, asset transfer, or restructuring does not by itself defeat a verified obligation. Successors, estates, receivers, and comparable transferees inherit proportionate duties unless a less harmful lawful transfer is demonstrated. Costs must not be externalized onto affected sentients, communities, ecological subjects, or public remedy systems where responsible actors can lawfully bear them.
+Correction, repair, compensation, monitoring, safeguards, and recurrence prevention require real:
+
+- institutional capacity;
+- technical capacity; and
+- financial capacity.
+
+Expense, insolvency, inconvenience, receivership, dissolution, asset transfer, or restructuring does not by itself defeat a verified obligation. Successors, estates, receivers, and comparable transferees inherit proportionate duties — whether the responsible actor is an individual, an institution, or a system — unless a less harmful lawful transfer is demonstrated.
+
+Costs must not be externalized onto:
+
+- affected sentients;
+- communities;
+- ecological subjects; or
+- public remedy systems
+
+where responsible actors can lawfully bear them.
 
 <a id="52-remedy-organ-durability"></a>
 <a id="82-remedy-organ-durability"></a>
 #### 9.2 Remedy-system durability
 
-Forums, oversight bodies, complaint offices, technical review bodies, and rights-sensitive administrative systems must have sufficient staffing, funding, independence, records capacity, accessibility, and succession planning. Capacity duties scale with risk, case volume, vulnerability, and rights sensitivity. Child protection, environmental enforcement, benefits administration, detention oversight, public-health response, and comparable high-impact systems require durable remedy systems capable of timely intake, preservation, review, and enforcement. Those systems must meet [Chapter Eleven §10](core_11-11_forum.md#10-timely-resolution-materiality-tiers-and-anti-delay-discipline) tier milestones and pipeline-stage windows. Designed backlog, inaccessible intake, chronic underfunding, dependence on a single fragile office, or chronic milestone failure violates this rule where it foreseeably nullifies challenge or remedy.
+Forums, oversight bodies, complaint offices, technical review bodies, and rights-sensitive administrative systems must have sufficient:
+
+- staffing;
+- funding;
+- independence;
+- records capacity;
+- accessibility; and
+- succession planning.
+
+Capacity duties scale with:
+
+- risk;
+- case volume;
+- vulnerability; and
+- rights sensitivity.
+
+Child protection, environmental enforcement, benefits administration, detention oversight, public-health response, and comparable high-impact systems require durable remedy systems capable of timely:
+
+- intake;
+- preservation;
+- review; and
+- enforcement.
+
+Those systems must meet [Chapter Eleven §10](core_11-11_forum.md#10-timely-resolution-materiality-tiers-and-anti-delay-discipline) tier milestones and pipeline-stage windows. They must also meet published capacity, measurement, and milestone standards under [Technical Forum Domains](core_11-11_forum.md#422-technical-forum-domains). Technical forums set and maintain those standards; they are not the command hierarchy for remedy systems or institutions. Accountability for staffing, funding, backlog, succession, and performance remains with the [primary-stakes](core_11-11_forum.md#2-default-venue-and-primary-stakes) forum family — ordinarily [Institutional](core_11-11_forum.md#423-institutional-forums), or [Integrity](core_11-11_forum.md#425-integrity-forums) where capture, process failure, or system-alignment collapse is primary. Institutional implementation detail for remedy-system capacity is owned by [CI-27](corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md) (*Remedy systems and institutional redress capacity*).
+
+The following violate this rule where they foreseeably nullify challenge or remedy:
+
+- designed backlog;
+- inaccessible intake;
+- chronic underfunding;
+- dependence on a single fragile office; or
+- chronic milestone failure.
 
 <a id="53-cross-jurisdiction-continuity"></a>
 <a id="83-cross-jurisdiction-continuity"></a>
