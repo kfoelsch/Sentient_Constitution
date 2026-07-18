@@ -638,7 +638,7 @@ Regression seeds document adversarial and core paths against constitutional owne
 ### Scenario ID: RS-CH9-Q3-CHARACTER-001
 - **Class:** adversarial / attachment discipline
 - **Summary:** Verified concealment and recurrence attach to a low-impact violation, while a high-impact violation lacks those characters. Expected result: character may occur at any slot and may shape scrutiny, safeguards, and review, but it does not move either Chapter Eight slot or operate as a slot multiplier.
-- **Read with:** [Chapter Nine §3](core_09-09_standing_integration.md#3-shared-descriptor-and-attachment-normalization); [Chapter Nine §4.2](core_09-09_standing_integration.md#42-general-standing-locks).
+- **Read with:** [Chapter Nine §3](core_09-09_standing_integration.md#3-descriptor-integration-and-attachment-normalization); [Chapter Nine §4.2](core_09-09_standing_integration.md#42-general-standing-locks).
 
 ### Scenario ID: RS-CH9-Q3-ORDER-001
 - **Class:** adversarial / integration order

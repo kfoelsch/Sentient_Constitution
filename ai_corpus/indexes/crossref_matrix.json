@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-07-17T17:43:56+00:00",
+  "generated_at": "2026-07-17T19:46:15+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -947,14 +947,16 @@
           },
           {
             "file": "core_08-08_standing_assessment.md",
-            "count": 1,
-            "anchors": []
+            "count": 3,
+            "anchors": [
+              "#shared-descriptor-catalog-and-measurement-roles"
+            ]
           },
           {
             "file": "core_09-09_standing_integration.md",
-            "count": 2,
+            "count": 1,
             "anchors": [
-              "#3-shared-descriptor-and-attachment-normalization"
+              "#3-descriptor-integration-and-attachment-normalization"
             ]
           },
           {
@@ -3164,13 +3166,14 @@
           },
           {
             "file": "core_08-08_standing_assessment.md",
-            "count": 37,
+            "count": 38,
             "anchors": [
               "#2-purpose-and-role",
               "#2-standing-records",
               "#21-standing-records-as-the-unit-of-application",
               "#3-standing-record-operational-requirements",
               "#31-minimum-record-contents",
+              "#44-violation-route-descriptor-measurement-roles",
               "#7-slot-grammar-and-display-labels",
               "#7-unified-proportional-lequ-scale",
               "#chapter-eight-compliance-violation-and-standing-model",
@@ -3180,10 +3183,10 @@
           },
           {
             "file": "core_09-09_standing_integration.md",
-            "count": 16,
+            "count": 15,
             "anchors": [
               "#1-immutable-chapter-eight-inputs",
-              "#3-shared-descriptor-and-attachment-normalization",
+              "#3-descriptor-integration-and-attachment-normalization",
               "#42-general-standing-locks",
               "#52-competency-gates",
               "#81-remediation-capacity-and-funding",
@@ -4382,10 +4385,10 @@
           },
           {
             "file": "core_09-09_standing_integration.md",
-            "count": 47,
+            "count": 43,
             "anchors": [
               "#2-integration-record-and-decision-order",
-              "#3-shared-descriptor-and-attachment-normalization",
+              "#3-descriptor-integration-and-attachment-normalization",
               "#42-general-standing-locks",
               "#43-special-locks",
               "#44-special-violation-rules",
@@ -4437,7 +4440,7 @@
           },
           {
             "file": "core_06-06_rights_part_a.md",
-            "count": 2,
+            "count": 1,
             "anchors": [
               "#chapter-six-foundational-rights"
             ]
@@ -4446,8 +4449,8 @@
             "file": "core_08-08_standing_assessment.md",
             "count": 4,
             "anchors": [
-              "#7-unified-proportional-lequ-scale",
-              "#chapter-eight-compliance-violation-and-standing-model"
+              "#chapter-eight-compliance-violation-and-standing-model",
+              "#shared-descriptor-catalog-and-measurement-roles"
             ]
           },
           {
@@ -4847,7 +4850,7 @@
           },
           {
             "file": "core_08-08_standing_assessment.md",
-            "count": 21,
+            "count": 25,
             "anchors": [
               "#2-standing-records",
               "#3-standing-record-operational-requirements",
@@ -4856,6 +4859,7 @@
               "#6-slot-grammar-and-display-labels",
               "#7-unified-proportional-lequ-scale",
               "#chapter-eight-compliance-violation-and-standing-model",
+              "#shared-descriptor-catalog-and-measurement-roles",
               "#verified-inputs-for-standing"
             ]
           },
@@ -4868,10 +4872,10 @@
           },
           {
             "file": "core_09-09_standing_integration.md",
-            "count": 16,
+            "count": 4,
             "anchors": [
               "#2-integration-record-and-decision-order",
-              "#3-shared-descriptor-and-attachment-normalization",
+              "#3-descriptor-integration-and-attachment-normalization",
               "#43-special-locks",
               "#chapter-nine-standing-effects-and-integration"
             ]

@@ -18,7 +18,7 @@
 
 > The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations.
 >
-> Read this chapter in order: immutable Chapter Eight inputs; integration record and decision order; shared descriptor and attachment rules; violation consequences; contribution consequences; final standing effect; restoration and reassessment; enforcement realism; Chapter Ten gateway; named applications.
+> Read this chapter in order: immutable Chapter Eight inputs; integration record and decision order; descriptor integration and attachment normalization; violation consequences; contribution consequences; final standing effect; restoration and reassessment; enforcement realism; Chapter Ten gateway; named applications.
 
 </details>
 
@@ -35,7 +35,7 @@
 
 <br>
 
-Chapter Nine is the constitutional owner of **standing integration and standing effects**, including attachments, descriptors, standing locks, remedy assignment, and enforcement anchors.
+Chapter Nine is the constitutional owner of **standing integration and standing effects**, including attachments, the consequence-facing use of Chapter Eight descriptors, standing locks, remedy assignment, and enforcement anchors.
 
 Question 3 of the standing pipeline applies the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) and [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) when converting verified Chapter Eight standing records into consequences.
 
@@ -118,6 +118,7 @@ Every automated or manual result must preserve its inputs, rules, intermediate s
 During a technology outage, authorized bodies must use a manual continuity process that preserves the same required fields, processing order, evidence custody, review rights, and applicable time limits. When the technology returns, the system must reconcile the manual and electronic records, preserve both audit trails, explain any difference, and never silently overwrite a decision.
 
 <a id="3-shared-descriptor-and-attachment-normalization"></a>
+<a id="3-descriptor-integration-and-attachment-normalization"></a>
 <a id="7-supplemental-descriptors-and-domain-lenses"></a>
 <a id="7-shared-domain-lenses-cross-axis-vocabulary"></a>
 <a id="5-shared-domain-lenses-cross-axis-vocabulary"></a>
@@ -128,19 +129,11 @@ During a technology outage, authorized bodies must use a manual continuity proce
 <a id="71-shared-domain-lenses-cross-axis-vocabulary"></a>
 <a id="2-supplemental-descriptors-and-domain-lenses--oversight-vocabulary-and-attachments"></a>
 <a id="21-shared-domain-lenses--cross-axis-vocabulary"></a>
-### 3. Shared descriptor and attachment normalization
+### 3. Descriptor integration and attachment normalization
 
-Descriptors answer **how** verified benefit or harm occurred. Attachments state legally or constitutionally relevant response character. They are stackable, non-exclusive, and subordinate to the fixed Chapter Eight slot. A single record may carry several where the verified facts warrant.
+Descriptors answer **how** verified benefit or harm occurred and are assigned as Question 2 outputs under the [Chapter Eight normalized descriptor catalog](core_08-08_standing_assessment.md#shared-descriptor-catalog-and-measurement-roles). Attachments state legally or constitutionally relevant response character for Question 3. Descriptors and attachments are stackable, non-exclusive, and subordinate to the fixed Chapter Eight slot. A single integration record may carry several where the verified facts warrant.
 
-Use one normalized catalog across both axes:
-
-| Domain | Contribution-side descriptors | Violation-side descriptors |
-| --- | --- | --- |
-| Bodily safety, relationships, care, and agency | Peace of body, mind, and/or community; Reliable Relationships; Caretaking and Dependency Support; Access and Inclusion | Violent Misconduct; Interpersonal / Care Duty Misconduct; Accessibility and Participation-Barrier Misconduct; Privacy and Self-Ownership Misconduct; Agency and Manipulation Misconduct |
-| Repair, property, and resources | Remedial and restorative benefit; Resourceful Stewardship | Remedially correctable misconduct; Property Misconduct |
-| Knowledge, education, records, and discovery | Info-Sphere Integrity; Education and Capability Building; STEM and Discovery Contribution | Info-Sphere Misconduct; Educational Misconduct; Research and Discovery Misconduct |
-| Systems and constitutional operation | System Optimization; Constitutional Alignment | System Misconduct; Exit and Lock-In Misconduct; Lifecycle and Irreversibility Misconduct; Anti-Constitutional Misconduct (descriptor) |
-| Ecology and diligence | Ecological Stewardship; Diligence | Ecological Misconduct; Negligent Misconduct |
+The integration record must import each applicable descriptor from its source standing record without adding, removing, or substantively reclassifying it. It may map a legacy label, local display name, or stable identifier to the Chapter Eight catalog, but the mapping must remain inspectable and must not change the underlying verified facts or measurement role. A substantive descriptor error or omission must return through the Chapter Eight correction or supersession process.
 
 <a id="domain-lenses-bodily-relational-care"></a>
 <a id="domain-lenses-repair-property"></a>
@@ -152,8 +145,6 @@ Use one normalized catalog across both axes:
 <a id="213-knowledge-education-and-discovery"></a>
 <a id="214-systems-institutions-and-constitutional-order"></a>
 <a id="215-ecology-and-cross-cutting-diligence"></a>
-The catalog is a foundation, not a closed list. Implementations may use stable identifiers mapped to it but must not create a conflicting exclusive taxonomy. Alleged descriptors may support lawful preservation, triage, or temporary safeguards; only verified descriptors may affect standing.
-
 <a id="64-concurrent-and-hybrid-violations"></a>
 <a id="64-concurrent-character-and-non-exclusivity"></a>
 <a id="48-concurrent-and-hybrid-violations"></a>
@@ -182,7 +173,7 @@ Violation attachments may concurrently include remedial or restorative character
 <a id="benefit-route-descriptors-q3-integration"></a>
 <a id="harm-route-descriptors-q2-integration"></a>
 <a id="harm-route-descriptors-q3-integration"></a>
-Contribution descriptors may orient matched competency gates. Violation descriptors may orient matched remedy, safeguard, and lock scope. Neither is a second measurement ladder, and neither supplies a Chapter Ten designation.
+Contribution descriptors may orient matched competency gates. Violation descriptors and attachments may orient matched remedy, safeguard, and lock scope. Neither descriptors nor attachments form a second measurement ladder, and neither supplies a Chapter Ten designation.
 
 <a id="4-violation-consequences-first"></a>
 <a id="6-extended-axis-ii-legal-hybrid-duty-and-harm-descriptors"></a>

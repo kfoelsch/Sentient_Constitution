@@ -377,7 +377,7 @@ A **full-life-equivalent constitutional benefit** means verified benefit compara
 - **Not an accusation metric.** Allegations, intake tags, routing decisions, reputation, disfavored status, or moral dislike do not supply Contribution Axis benefit or Violation Axis severity without verified inputs under **section 3.1** and calibration under **section 7**.
 - **Not a license to trade rights.** Claims framed as efficiency, productive capacity, innovation, burden reduction, security, retaliation, emergency response, or institutional necessity must be discounted or rejected where they depend on coercion, discriminatory burden shifting, ecological depletion, hidden unpaid work, avoidable opacity, Rights-Floor narrowing, capture, misleading proxies, loss of contestability, or unreviewable aggregation.
 
-**Question 2 only.** Use these dimensions to measure the verified facts established under **section 2** and recorded under **section 3**. Names for kinds of help or harm come from [Chapter Nine's domain-lens catalog](core_09-09_standing_integration.md#3-shared-descriptor-and-attachment-normalization). The **benefit-route** table in **section 4.3** and **harm-route** table in **section 4.4** say how each name counts toward *how good* or *how bad*. Question 3 uses appear in Chapter Nine ([benefit side](core_09-09_standing_integration.md#52-competency-gates); [harm side](core_09-09_standing_integration.md#42-general-standing-locks)).
+**Question 2 only.** Use these dimensions to measure the verified facts established under **section 2** and recorded under **section 3**. The **benefit-route** catalog in **section 4.3** and **harm-route** catalog in **section 4.4** supply the normalized names for kinds of help or harm and state how each name counts toward *how good* or *how bad*. Question 3 integration and attachment rules appear in [Chapter Nine §3](core_09-09_standing_integration.md#3-descriptor-integration-and-attachment-normalization), with consequence rules on the [benefit side](core_09-09_standing_integration.md#52-competency-gates) and [harm side](core_09-09_standing_integration.md#42-general-standing-locks).
 
 <a id="41-magnitude-input-dimensions"></a>
 <a id="41-contribution-magnitude-input-dimensions"></a>
@@ -395,7 +395,7 @@ A **full-life-equivalent constitutional benefit** means verified benefit compara
 | **Sentient scope (count, depth, vulnerability)** | Modulates LEQU assessment and materiality | [Chapter Eight §5.2](#52-shared-impact-scaling-rules); [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination) |
 | **Temporal scope (duration, durability)** | Modulates LEQU assessment | Lasting stewardship, cross-generational benefit, durable institutional repair toward `s` = 8–9 |
 | **Spatial / institutional scope** | Modulates LEQU assessment | Cross-community, cross-institutional, or civilization-scale benefit |
-| **Benefit-route stack** | Names routes of verified benefit; stackable | [Chapter Nine §3](core_09-09_standing_integration.md#3-shared-descriptor-and-attachment-normalization); [**benefit-route descriptors**](#benefit-route-descriptors-q1-measurement-role) |
+| **Benefit-route stack** | Names routes of verified benefit; stackable | [**Benefit-route descriptor catalog**](#shared-descriptor-catalog-and-measurement-roles) |
 | **Conduct-quality stack** | How benefit was produced; may limit countable benefit | Traceability, non-externalization, diligence, constitutional alignment; externalized harm or concealed burden caps benefit ([Chapter Eight §4.1](#41-contribution-magnitude-input-dimensions)) |
 
 **Contribution conduct-quality application.** Apply the conduct-quality stack before assigning a Contribution Axis slot:
@@ -428,7 +428,7 @@ Do **not** split LEQU into parallel ecological, system, or resource benefit scor
 | **Sentient scope (count, depth, vulnerability)** | Modulates LEQU assessment and materiality | [Chapter Eight §5.2](#52-shared-impact-scaling-rules); [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination) |
 | **Temporal scope (duration, irreversibility)** | Modulates LEQU assessment | Persistent trauma, irreversible loss, and durable agency impairment increase the integrated loss estimate |
 | **Spatial / institutional scope** | Modulates LEQU assessment | Cross-community, cross-institutional, or civilizational reach may increase the integrated loss estimate |
-| **Harm-route stack** | Names routes of verified harm; stackable | [Chapter Nine §3](core_09-09_standing_integration.md#3-shared-descriptor-and-attachment-normalization); [**harm-route descriptors**](#harm-route-descriptors-q1-measurement-role) |
+| **Harm-route stack** | Names routes of verified harm; stackable | [**Harm-route descriptor catalog**](#44-violation-route-descriptor-measurement-roles) |
 | **Conduct-character stack** | How harm was caused; separately recorded from impact | Duty, negligence, deception, concealment, coercion, violence, intent, and structural enablement inform attribution, safeguards, and response but do not move the LEQU slot |
 
 **Violation conduct-character application.** Apply the conduct-character stack separately from outcome magnitude:
@@ -456,60 +456,63 @@ Do **not** split violation-side LEQU into parallel ecological-harm, system-harm,
 <a id="43-route-descriptor-measurement-roles"></a>
 <a id="43-route-descriptor-classification-roles"></a>
 <a id="43-contribution-route-descriptor-measurement-roles"></a>
+<a id="shared-descriptor-catalog-and-measurement-roles"></a>
 
-#### 4.3 Contribution route descriptor measurement roles
+#### 4.3 Contribution route descriptor catalog and measurement roles
 
 <a id="benefit-route-descriptors-q1-measurement-role"></a>
 <a id="benefit-route-descriptors-q1-classification-role"></a>
 <a id="benefit-route-descriptors-q2-measurement-role"></a>
 
-**Benefit-route descriptors — Question 2 measurement role.** Descriptor catalog: [Chapter Nine §3](core_09-09_standing_integration.md#3-shared-descriptor-and-attachment-normalization). Question 3 safe-delegation role: [Chapter Nine §5.2](core_09-09_standing_integration.md#52-competency-gates).
+**Canonical descriptor rule.** Sections **4.3–4.4** own the normalized descriptor catalog for both axes. Descriptors answer **how** verified benefit or harm occurred. They are stackable, non-exclusive, and subordinate to the applicable slot; one record may carry several where the verified facts warrant. The catalog is a foundation, not a closed list. Implementations may use stable identifiers mapped to it but must not create a conflicting exclusive taxonomy. Alleged descriptors may support lawful preservation, triage, or temporary safeguards; only verified descriptors may be recorded as Question 2 outputs or affect standing.
 
-| **Benefit-route descriptor** | **Chapter Nine §3 anchor** | **Q2 (how good?)** |
+**Benefit-route descriptors — Question 2 measurement role.** Question 3 safe-delegation role: [Chapter Nine §5.2](core_09-09_standing_integration.md#52-competency-gates).
+
+| **Benefit-route descriptor** | **Normalized domain** | **Q2 (how good?)** |
 | --- | --- | --- |
-| **Peace of body, mind, and/or community** | Chapter Nine §3 | Bodily, psychological, and community calm benefit; modulates materiality |
-| **Reliable Relationships** | Chapter Nine §3 | Relational and fiduciary-trust benefit in asymmetric settings |
-| **Caretaking and Dependency Support** | Chapter Nine §3 | Verified care for dependents; informal care counts when demonstrable |
-| **Remedial and restorative benefit** | Chapter Nine §3 | Repair, compensation, and harm-reduction benefit |
-| **Resourceful Stewardship** | Chapter Nine §3 | Material stewardship and allocative reliability |
-| **Info-Sphere Integrity** | Chapter Nine §3 | Records, transparency, and communications strengthening |
-| **Education and Capability Building** | Chapter Nine §3 | Learning, literacy, and agency-expanding benefit |
-| **STEM and Discovery Contribution** | Chapter Nine §3 | Reproducible discovery and safety-improving research |
-| **System Optimization** | Chapter Nine §3 | Cross-institutional process repair and risk reduction |
-| **Constitutional Alignment** | Chapter Nine §3 | Floor-strengthening and challenge-access benefit |
-| **Ecological Stewardship** | Chapter Nine §3 | Habitat, biodiversity, and climate-responsible benefit |
-| **Diligence** | Chapter Nine §3 | Foreseeable-risk prevention and competent supervision |
-| **Access and Inclusion** | Chapter Nine §3 | Substantive participation and accessibility benefit; modulates materiality in dependency-asymmetric settings |
+| **Peace of body, mind, and/or community** | Bodily safety, relationships, care, and agency | Bodily, psychological, and community calm benefit; modulates materiality |
+| **Reliable Relationships** | Bodily safety, relationships, care, and agency | Relational and fiduciary-trust benefit in asymmetric settings |
+| **Caretaking and Dependency Support** | Bodily safety, relationships, care, and agency | Verified care for dependents; informal care counts when demonstrable |
+| **Access and Inclusion** | Bodily safety, relationships, care, and agency | Substantive participation and accessibility benefit; modulates materiality in dependency-asymmetric settings |
+| **Remedial and restorative benefit** | Repair, property, and resources | Repair, compensation, and harm-reduction benefit |
+| **Resourceful Stewardship** | Repair, property, and resources | Material stewardship and allocative reliability |
+| **Info-Sphere Integrity** | Knowledge, education, records, and discovery | Records, transparency, and communications strengthening |
+| **Education and Capability Building** | Knowledge, education, records, and discovery | Learning, literacy, and agency-expanding benefit |
+| **STEM and Discovery Contribution** | Knowledge, education, records, and discovery | Reproducible discovery and safety-improving research |
+| **System Optimization** | Systems and constitutional operation | Cross-institutional process repair and risk reduction |
+| **Constitutional Alignment** | Systems and constitutional operation | Floor-strengthening and challenge-access benefit |
+| **Ecological Stewardship** | Ecology and diligence | Habitat, biodiversity, and climate-responsible benefit |
+| **Diligence** | Ecology and diligence | Foreseeable-risk prevention and competent supervision |
 
-**Catalog inheritance and completeness.** The contribution and violation tables in **sections 4.3–4.4** inherit the complete normalized descriptor catalog in [Chapter Nine §3](core_09-09_standing_integration.md#3-shared-descriptor-and-attachment-normalization). A combined display row or implementation label must map back to every applicable normalized descriptor; omission from an explanatory row does not make a Chapter Nine descriptor unavailable. This inheritance governs descriptor names only. Question 3 remedy, lock, gate, and other standing effects remain exclusively in Chapter Nine.
+**Catalog completeness.** A combined display row or implementation label must map back to every applicable normalized descriptor. This catalog governs descriptor names and their Question 2 measurement roles only. Question 3 attachment, remedy, lock, gate, and other standing-effect rules remain exclusively in Chapter Nine.
 
 <a id="harm-route-descriptors-q1-measurement-role"></a>
 <a id="harm-route-descriptors-q1-classification-role"></a>
 <a id="harm-route-descriptors-q2-measurement-role"></a>
 <a id="44-violation-route-descriptor-measurement-roles"></a>
 
-#### 4.4 Violation route descriptor measurement roles
+#### 4.4 Violation route descriptor catalog and measurement roles
 
-**Harm-route descriptors — Question 2 measurement role.** Descriptor catalog: [Chapter Nine §3](core_09-09_standing_integration.md#3-shared-descriptor-and-attachment-normalization). Question 3 non-recurrence role: [Chapter Nine §4.2](core_09-09_standing_integration.md#42-general-standing-locks).
+**Harm-route descriptors — Question 2 measurement role.** Question 3 integration and attachment rules: [Chapter Nine §3](core_09-09_standing_integration.md#3-descriptor-integration-and-attachment-normalization). Question 3 non-recurrence role: [Chapter Nine §4.2](core_09-09_standing_integration.md#42-general-standing-locks).
 
-| **Harm-route descriptor** | **Chapter Nine §3 anchor** | **Q2 (how bad?)** |
+| **Harm-route descriptor** | **Normalized domain** | **Q2 (how bad?)** |
 | --- | --- | --- |
-| **Violent Misconduct** | Chapter Nine §3 | Records violence, coercion, or liberty danger separately from the LEQU impact slot; may require heightened safeguards |
-| **Interpersonal / Care Duty Misconduct** | Chapter Nine §3 | Higher materiality in dependency-asymmetric settings |
-| **Info-Sphere Misconduct** | Chapter Nine §3 | Degraded Safety or Truth; concealment and deception remain separate character facts |
-| **Educational Misconduct** | Chapter Nine §3 | Records education- or capability-pathway harm separately from the impact slot |
-| **Research and Discovery Misconduct** | Chapter Nine §3 | Records research- or discovery-pathway harm separately from the impact slot |
-| **Property Misconduct** | Chapter Nine §3 | Property-loss route; slot follows integrated LEQU loss |
-| **Ecological Misconduct** | Chapter Nine §3 | Continuity-weighted LEQU; may stack with violent route |
-| **System Misconduct** | Chapter Nine §3 | Diffusion and structural enablement remain separately recorded; slot follows integrated LEQU loss |
-| **Anti-Constitutional Misconduct** (descriptor) | Chapter Nine §3 | Routes an `s` = 7–9 violation to Chapter Ten designation review without changing its impact slot |
-| **Negligent Misconduct** | Chapter Nine §3 | Records duty, foreseeability, and preventability separately from the impact slot |
-| **Remedially correctable misconduct** | Chapter Nine §3 | Records correction character; slot follows integrated LEQU loss |
-| **Accessibility and Participation-Barrier Misconduct** | Chapter Nine §3 | Higher materiality when dependency-asymmetric; may stack aggravated features |
-| **Privacy and Self-Ownership Misconduct** | Chapter Nine §3 | Aggravated features when concealment or exploitation verified; may stack `s` = 5 |
-| **Agency and Manipulation Misconduct** | Chapter Nine §3 | Records coercion, manipulation, or liberty danger separately from the impact slot |
-| **Exit and Lock-In Misconduct** | Chapter Nine §3 | System Misconduct features; diffusion or capture when structural |
-| **Lifecycle and Irreversibility Misconduct** | Chapter Nine §3 | Irreversibility affects LEQU magnitude; concealment or negligence remains separately recorded character |
+| **Violent Misconduct** | Bodily safety, relationships, care, and agency | Records violence, coercion, or liberty danger separately from the LEQU impact slot; may require heightened safeguards |
+| **Interpersonal / Care Duty Misconduct** | Bodily safety, relationships, care, and agency | Higher materiality in dependency-asymmetric settings |
+| **Accessibility and Participation-Barrier Misconduct** | Bodily safety, relationships, care, and agency | Higher materiality when dependency-asymmetric; may stack aggravated features |
+| **Privacy and Self-Ownership Misconduct** | Bodily safety, relationships, care, and agency | Aggravated features when concealment or exploitation verified; may stack `s` = 5 |
+| **Agency and Manipulation Misconduct** | Bodily safety, relationships, care, and agency | Records coercion, manipulation, or liberty danger separately from the impact slot |
+| **Remedially correctable misconduct** | Repair, property, and resources | Records correction character; slot follows integrated LEQU loss |
+| **Property Misconduct** | Repair, property, and resources | Property-loss route; slot follows integrated LEQU loss |
+| **Info-Sphere Misconduct** | Knowledge, education, records, and discovery | Degraded Safety or Truth; concealment and deception remain separate character facts |
+| **Educational Misconduct** | Knowledge, education, records, and discovery | Records education- or capability-pathway harm separately from the impact slot |
+| **Research and Discovery Misconduct** | Knowledge, education, records, and discovery | Records research- or discovery-pathway harm separately from the impact slot |
+| **System Misconduct** | Systems and constitutional operation | Diffusion and structural enablement remain separately recorded; slot follows integrated LEQU loss |
+| **Exit and Lock-In Misconduct** | Systems and constitutional operation | System Misconduct features; diffusion or capture when structural |
+| **Lifecycle and Irreversibility Misconduct** | Systems and constitutional operation | Irreversibility affects LEQU magnitude; concealment or negligence remains separately recorded character |
+| **Anti-Constitutional Misconduct** (descriptor) | Systems and constitutional operation | Routes an `s` = 7–9 violation to Chapter Ten designation review without changing its impact slot |
+| **Ecological Misconduct** | Ecology and diligence | Continuity-weighted LEQU; may stack with violent route |
+| **Negligent Misconduct** | Ecology and diligence | Records duty, foreseeability, and preventability separately from the impact slot |
 
 <a id="dual-use-measurement-dimensions"></a>
 <a id="dual-use-classification-dimensions"></a>

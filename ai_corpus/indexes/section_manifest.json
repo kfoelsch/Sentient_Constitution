@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-07-17T17:43:53+00:00",
+  "generated_at": "2026-07-17T19:46:14+00:00",
   "files": {
     "core_00_preamble.md": {
       "total_lines": 249,
@@ -3504,13 +3504,13 @@
       ]
     },
     "core_08-08_standing_assessment.md": {
-      "total_lines": 810,
+      "total_lines": 813,
       "sections": [
         {
           "header": "CHAPTER EIGHT: CONTRIBUTION, VIOLATION, AND STANDING MODEL — MEASUREMENT",
           "level": 1,
           "line_start": 2,
-          "line_end": 810,
+          "line_end": 813,
           "anchor": "#chapter-eight-compliance-violation-and-standing-model"
         },
         {
@@ -3622,7 +3622,7 @@
           "header": "4. Question 2 — how good or bad was it?",
           "level": 3,
           "line_start": 349,
-          "line_end": 618,
+          "line_end": 621,
           "anchor": "#4-question-2-how-good-or-bad-was-it"
         },
         {
@@ -3636,257 +3636,257 @@
           "header": "4.2 Violation severity-input dimensions",
           "level": 4,
           "line_start": 421,
-          "line_end": 459,
+          "line_end": 460,
           "anchor": "#violation-table-q2-severity-input-dimensions"
         },
         {
-          "header": "4.3 Contribution route descriptor measurement roles",
+          "header": "4.3 Contribution route descriptor catalog and measurement roles",
           "level": 4,
-          "line_start": 460,
-          "line_end": 490,
-          "anchor": "#43-contribution-route-descriptor-measurement-roles"
+          "line_start": 461,
+          "line_end": 493,
+          "anchor": "#shared-descriptor-catalog-and-measurement-roles"
         },
         {
-          "header": "4.4 Violation route descriptor measurement roles",
+          "header": "4.4 Violation route descriptor catalog and measurement roles",
           "level": 4,
-          "line_start": 491,
-          "line_end": 525,
+          "line_start": 494,
+          "line_end": 528,
           "anchor": "#44-violation-route-descriptor-measurement-roles"
         },
         {
           "header": "4.5 Cross-question measurement hooks",
           "level": 4,
-          "line_start": 526,
-          "line_end": 566,
+          "line_start": 529,
+          "line_end": 569,
           "anchor": "#45-dual-use-classification-hooks"
         },
         {
           "header": "4.5.1 Similar-looking facts that must stay separate",
           "level": 5,
-          "line_start": 548,
-          "line_end": 566,
+          "line_start": 551,
+          "line_end": 569,
           "anchor": "#451-similar-looking-facts-that-must-stay-separate"
         },
         {
           "header": "4.6 Measurement illustrations",
           "level": 4,
-          "line_start": 567,
-          "line_end": 618,
+          "line_start": 570,
+          "line_end": 621,
           "anchor": "#46-question-2-measurement-illustrations"
         },
         {
           "header": "5. Slot grammar and shared scaling",
           "level": 3,
-          "line_start": 619,
-          "line_end": 693,
+          "line_start": 622,
+          "line_end": 696,
           "anchor": "#5-slot-grammar-and-lequ-calibration"
         },
         {
           "header": "5.1 Table 1 — slot display labels",
           "level": 4,
-          "line_start": 645,
-          "line_end": 666,
+          "line_start": 648,
+          "line_end": 669,
           "anchor": "#51-table-1-slot-display-labels"
         },
         {
           "header": "5.2 Shared impact-scaling rules",
           "level": 4,
-          "line_start": 667,
-          "line_end": 693,
+          "line_start": 670,
+          "line_end": 696,
           "anchor": "#52-shared-impact-scaling-rules"
         },
         {
           "header": "6. Constitutional inputs to axis assignment",
           "level": 3,
-          "line_start": 694,
-          "line_end": 749,
+          "line_start": 697,
+          "line_end": 752,
           "anchor": "#6-constitutional-inputs-to-axis-assignment"
         },
         {
           "header": "6.1 Definition inputs",
           "level": 4,
-          "line_start": 709,
-          "line_end": 723,
+          "line_start": 712,
+          "line_end": 726,
           "anchor": "#61-definition-inputs"
         },
         {
           "header": "6.2 Principle inputs",
           "level": 4,
-          "line_start": 724,
-          "line_end": 735,
+          "line_start": 727,
+          "line_end": 738,
           "anchor": "#62-principle-inputs"
         },
         {
           "header": "6.3 Rights-Floor and Article inputs",
           "level": 4,
-          "line_start": 736,
-          "line_end": 749,
+          "line_start": 739,
+          "line_end": 752,
           "anchor": "#63-rights-floor-and-article-inputs"
         },
         {
           "header": "7. Unified proportional LEQU scale — Contribution and Violation Axes",
           "level": 3,
-          "line_start": 750,
-          "line_end": 810,
+          "line_start": 753,
+          "line_end": 813,
           "anchor": "#7-unified-proportional-lequ-scale"
         }
       ]
     },
     "core_09-09_standing_integration.md": {
-      "total_lines": 508,
+      "total_lines": 521,
       "sections": [
         {
           "header": "CHAPTER NINE: STANDING EFFECTS AND INTEGRATION",
           "level": 1,
           "line_start": 2,
-          "line_end": 508,
+          "line_end": 521,
           "anchor": "#chapter-nine-standing-effects-and-integration"
         },
         {
-          "header": "1. Immutable Chapter Eight inputs",
+          "header": "1. Chapter Eight records do not change",
           "level": 3,
-          "line_start": 48,
-          "line_end": 72,
+          "line_start": 46,
+          "line_end": 86,
           "anchor": "#1-standing-effects--flourishing-consequences"
         },
         {
-          "header": "2. Integration record and decision order",
+          "header": "2. Automatic integration, review, and continuity",
           "level": 3,
-          "line_start": 73,
-          "line_end": 122,
+          "line_start": 87,
+          "line_end": 131,
           "anchor": "#41-standing-integration--contribution-and-violation-nature"
         },
         {
-          "header": "3. Shared descriptor and attachment normalization",
+          "header": "3. Descriptor integration and attachment normalization",
           "level": 3,
-          "line_start": 123,
-          "line_end": 182,
+          "line_start": 132,
+          "line_end": 181,
           "anchor": "#21-shared-domain-lenses--cross-axis-vocabulary"
         },
         {
           "header": "4. Violation consequences first",
           "level": 3,
-          "line_start": 183,
-          "line_end": 339,
+          "line_start": 182,
+          "line_end": 340,
           "anchor": "#3-violation-axis-attachments--process-response-character-hybrid-rules-and-duties"
         },
         {
           "header": "4.1 Remedy and correction",
           "level": 4,
-          "line_start": 198,
-          "line_end": 222,
+          "line_start": 197,
+          "line_end": 221,
           "anchor": "#remedial-restorative-and-civil-correction-character"
         },
         {
           "header": "4.2 General standing locks",
           "level": 4,
-          "line_start": 223,
-          "line_end": 262,
+          "line_start": 222,
+          "line_end": 261,
           "anchor": "#134-contribution-visibility-and-slot-band-map"
         },
         {
           "header": "4.3 Special locks",
           "level": 4,
-          "line_start": 263,
-          "line_end": 288,
+          "line_start": 262,
+          "line_end": 289,
           "anchor": "#421-forum-disclosure-omission-and-recusal-process-impact"
         },
         {
           "header": "4.4 Special violation rules",
           "level": 4,
-          "line_start": 289,
-          "line_end": 339,
+          "line_start": 290,
+          "line_end": 340,
           "anchor": "#3-slots-34--material-and-significant-impact-attachments"
         },
         {
           "header": "5. Contribution consequences second",
           "level": 3,
-          "line_start": 340,
-          "line_end": 389,
+          "line_start": 341,
+          "line_end": 390,
           "anchor": "#11-positive-standing-recognition"
         },
         {
           "header": "5.1 Recency and currentness",
           "level": 4,
-          "line_start": 346,
-          "line_end": 377,
+          "line_start": 347,
+          "line_end": 378,
           "anchor": "#contribution-recency-weighting"
         },
         {
           "header": "5.2 Competency gates",
           "level": 4,
-          "line_start": 378,
-          "line_end": 389,
+          "line_start": 379,
+          "line_end": 390,
           "anchor": "#20-contribution-measurement-pointer--question-2-lives-in-chapter-eight"
         },
         {
           "header": "6. Final standing effect",
           "level": 3,
-          "line_start": 390,
-          "line_end": 407,
+          "line_start": 391,
+          "line_end": 420,
           "anchor": "#standing-effect"
         },
         {
           "header": "7. Restoration and reassessment",
           "level": 3,
-          "line_start": 408,
-          "line_end": 428,
+          "line_start": 421,
+          "line_end": 441,
           "anchor": "#55-reassessment-after-real-correction"
         },
         {
           "header": "8. Enforcement realism",
           "level": 3,
-          "line_start": 429,
-          "line_end": 473,
+          "line_start": 442,
+          "line_end": 486,
           "anchor": "#5-enforcement-realism-anchors--continuity-enforcement"
         },
         {
           "header": "8.1 Remediation capacity and funding",
           "level": 4,
-          "line_start": 435,
-          "line_end": 440,
+          "line_start": 448,
+          "line_end": 453,
           "anchor": "#81-remediation-capacity-and-funding"
         },
         {
           "header": "8.2 Remedy-system durability",
           "level": 4,
-          "line_start": 441,
-          "line_end": 446,
+          "line_start": 454,
+          "line_end": 459,
           "anchor": "#82-remedy-organ-durability"
         },
         {
           "header": "8.3 Cross-jurisdiction continuity",
           "level": 4,
-          "line_start": 447,
-          "line_end": 452,
+          "line_start": 460,
+          "line_end": 465,
           "anchor": "#83-cross-jurisdiction-continuity"
         },
         {
           "header": "8.4 Anti-evasion and look-through authority",
           "level": 4,
-          "line_start": 453,
-          "line_end": 457,
+          "line_start": 466,
+          "line_end": 470,
           "anchor": "#84-anti-evasion-and-look-through-authority"
         },
         {
           "header": "8.5 Timely implementation",
           "level": 4,
-          "line_start": 458,
-          "line_end": 473,
+          "line_start": 471,
+          "line_end": 486,
           "anchor": "#85-timely-implementation-and-reassessment"
         },
         {
           "header": "9. Chapter Ten gateway",
           "level": 3,
-          "line_start": 474,
-          "line_end": 483,
+          "line_start": 487,
+          "line_end": 496,
           "anchor": "#6-violation-axis-s--79--chapter-ten-designation-gateway"
         },
         {
           "header": "10. Named applications",
           "level": 3,
-          "line_start": 484,
-          "line_end": 508,
+          "line_start": 497,
+          "line_end": 521,
           "anchor": "#violation-side-descriptor-application-location"
         }
       ]
