@@ -2,8 +2,6 @@
 <a id="chapter-ten-anti-constitutional-misconduct"></a>
 # CHAPTER TEN: ANTI-CONSTITUTIONAL MISCONDUCT
 
-*Non-operative subtitle:* Continuity and tetrad-capture designation guard for Violation Axis **s = 7, 8, or 9**.
-
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
@@ -16,17 +14,53 @@
 <br>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): cross-chapter map for Chapter Ten</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): cross-chapter map and reading order</span></strong></summary>
 
-- **Chapter Eight:** supplies the standing record, verified-input gate, Contribution and Violation axes, unified proportional LEQU scale, and every numeric impact slot.
-- **Chapter Nine:** supplies process / response attachments, descriptors, standing integration, standing locks, final standing effect rules, and the pointer here; it does not itself issue a final anti-constitutional-misconduct designation.
-- **Chapters Two through Four:** supply record, custody, tracing, and verification discipline for the evidence used here.
-- **Chapter One:** supplies principles relevant to emergency authority, necessity, concentration, and system capture.
-- **Chapter Eleven:** supplies forum routing, Integrity-family default routing, transfer, and certification discipline.
-- **Chapter Six:** supplies the Rights Floor, **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*) joint requirements and **Imprisonment for violence**, **Article XXIII-C** (*Least-Restrictive and Time-Bounded Rule*) review discipline, **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*) remedy-timing discipline, and **Article XXIII-A** (*Justice Objective and Scope*) review and publication safeguards; **section 4.1** here supplies imprisonment requirements for verified anti-constitutional misconduct, **section 4.2** supplies the consequence-integration rule for restitution and remedy priority, and **section 4.3** supplies voluntary public accountability expression rules.
-- **Chapter Twelve:** supplies governance legitimacy consequences tied to a final Chapter Ten designation.
-- **Chapters Thirteen through Fifteen:** supply change-path validity, referral, procedural, and custody rules; they do not issue the final Chapter Ten designation.
-- Read with: [README — Standing pipeline and forums](README.md#standing-pipeline-and-forums).
+> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other chapters.
+>
+> Under the [Continuity aim](core_00_preamble.md#continuity), designation review protects long-horizon constitutional operation when top-impact conduct threatens to hollow the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation**, **oversight**, **accountability**, and **timeliness** — below [material stake](core_00_preamble.md#material-stake) requirements.
+>
+> **Cross-chapter map**
+>
+> - **Chapter Eight:** supplies the standing record, verified-input gate, Contribution and Violation axes, unified proportional LEQU scale, and every numeric impact slot.
+> - **Chapter Nine:** supplies process / response attachments, descriptors, standing integration, standing locks, final standing effect rules, and the pointer here; it does not itself issue a final anti-constitutional-misconduct designation.
+> - **Chapters Two through Four:** supply record, custody, tracing, and verification discipline for the evidence used here.
+> - **Chapter One:** supplies principles relevant to emergency authority, necessity, concentration, and system capture.
+> - **Chapter Eleven:** supplies forum routing, Integrity-family default routing, transfer, and certification discipline.
+> - **Chapter Six:** supplies the Rights Floor, **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*) joint requirements and **Imprisonment for violence**, **Article XXIII-C** (*Least-Restrictive and Time-Bounded Rule*) review discipline, **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*) remedy-timing discipline, and **Article XXIII-A** (*Justice Objective and Scope*) review and publication safeguards; **section 4.1** here supplies imprisonment requirements for verified anti-constitutional misconduct, **section 4.2** supplies the consequence-integration rule for restitution and remedy priority, and **section 4.3** supplies voluntary public accountability expression rules.
+> - **Chapter Twelve:** supplies governance legitimacy consequences tied to a final Chapter Ten designation.
+> - **Chapters Thirteen through Fifteen:** supply change-path validity, referral, procedural, and custody rules; they do not issue the final Chapter Ten designation.
+>
+> **Reading order**
+>
+> 1. Start with **section 1** for the decision framework.
+> 2. Use **section 2** to identify the criteria implicated by the incident.
+> 3. Use **section 3** to decide whether the designation attaches to the existing **s = 7**, **s = 8**, or **s = 9** finding.
+> 4. Apply **section 4** before any designation is final.
+> 5. Apply **section 4.1** for imprisonment requirements after final designation.
+> 6. Apply **section 4.2** to integrate restitution, remedy priority, and consequence sequencing.
+> 7. Apply **section 4.3** for voluntary public accountability expression where restorative pathways are used.
+> 8. Use **section 5** to keep change-path, forum, rights, and governance questions in the correct chapters.
+> 9. Use **section 6** only to route named patterns into the same framework.
+>
+> Named patterns in **section 6** are applications of that sequence, not separate shortcuts.
+>
+> **After final designation:** **section 4.1** imprisonment where applicable; **section 4.2** restitution and remedy priority; **section 4.3** voluntary public accountability expression; Chapter Nine standing-lock and final-standing-effect rules, including the **Anti-Constitutional Trust Lock** only on a **final** designation.
+>
+> Read with: [README — Standing pipeline and forums](README.md#standing-pipeline-and-forums).
+
+</details>
+
+<br>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: [Chapter Eight](core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) (*Questions 1 and 2; verified records and standing measurement*).
+- Upstream pointer: [Chapter Nine §2](core_09-09_standing_integration.md#2-integration-record-and-decision-order) routes qualifying top-slot findings here for designation only.
+- This file: final anti-constitutional-misconduct designation for Violation Axis `s` = 7–9; designation criteria; due-process safeguards; cross-chapter discipline; named-pattern routing.
+- Downstream: [Chapter Nine](core_09-09_standing_integration.md#chapter-nine-standing-effects-and-integration) (*Trust Lock and standing-effect integration after final designation*); [Chapter Eleven](core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) (*forum routing and certification*); [Chapter Twelve](core_12-12_governance.md#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship) (*governance legitimacy consequences*).
+- Read with: [README — Standing pipeline and forums](README.md#standing-pipeline-and-forums); [Chapters Thirteen through Fifteen](core_13-15_amendment.md#chapter-thirteen-non-regression-and-substantive-amendment-validity) (*change-path conduct may implicate criteria 1–4*).
 
 </details>
 
@@ -34,37 +68,7 @@
 
 Chapter Ten is the constitutional owner of **final anti-constitutional-misconduct designation for Violation Axis s = 7, 8, and 9 findings, designation criteria, and cross-chapter discipline**.
 
-<br>
-
-This chapter is used only when a verified violation already occupies one of the three highest **Violation Axis** impact slots and anti-constitutional misconduct is materially alleged. It does not cover every violation, create a separate impact scale, or move a finding between slots. Its job is to decide whether the existing finding also receives the corresponding anti-constitutional-misconduct designation.
-
-Under the [Continuity aim](core_00_preamble.md#continuity) and [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims), top-impact designation review protects long-horizon constitutional operation when conduct threatens to hollow the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation**, **oversight**, **accountability**, and **timeliness** — below [material stake](core_00_preamble.md#material-stake) requirements. Use [README — Standing pipeline and forums](README.md#standing-pipeline-and-forums) for pipeline navigation.
-
-By the time a matter reaches this chapter, Chapter Eight must have opened a bounded **violation standing record**, applied the **verified input** gate, measured integrated loss under Proportionality, and assigned `s` = 7, 8, or 9 under the unified LEQU scale. Chapter Nine ordinary Question 3 integration — remedy, correction, protective locks, and other standing effects from the fixed violation record — proceeds whether or not designation is at issue. Designation review here is a Chapter Nine gateway track that runs in parallel with those ordinary effects; it does not wait for Question 3 to finish, and it does not reopen Chapter Eight measurement.
-
-Chapter Ten then asks the designation question: does the verified top-impact finding satisfy the anti-constitutional criteria, and have the required due-process safeguards been met? It accepts the Chapter Eight slot as fixed and does not infer intent, capture, or misconduct character from magnitude alone.
-
-In pipeline terms, this chapter handles designation review for an existing `s` = 7, `s` = 8, or `s` = 9 violation when anti-constitutional misconduct is materially alleged.
-
-This chapter decides only whether the anti-constitutional-misconduct designation attaches. It does not replace Chapter Eight records, verification, LEQU measurement, or numeric slot assignment; replace Chapter Nine standing integration; or convert lower-impact violations into top-impact findings.
-
-**What happens next:** once a final designation is made with **section 4** safeguards, **section 4.1** supplies imprisonment requirements where applicable, **section 4.2** supplies restitution, remedy-priority, and consequence-integration requirements, and **section 4.3** supplies voluntary public accountability expression rules where applicable. Chapter Nine standing-lock and final-standing-effect rules apply; only a **final** designation triggers the **Anti-Constitutional Trust Lock**.
-
-Use this chapter in this order:
-
-1. Start with **section 1** for the decision framework.
-2. Use **section 2** to identify the criteria implicated by the incident.
-3. Use **section 3** to decide whether the designation attaches to the existing **s = 7**, **s = 8**, or **s = 9** finding.
-4. Apply **section 4** before any designation is final.
-5. Apply **section 4.1** for imprisonment requirements after final designation.
-6. Apply **section 4.2** to integrate restitution, remedy priority, and consequence sequencing.
-7. Apply **section 4.3** for voluntary public accountability expression where restorative pathways are used.
-8. Use **section 5** to keep change-path, forum, rights, and governance questions in the correct chapters.
-9. Use **section 6** only to route named patterns into the same framework.
-
-The named patterns in section 6.1 are not separate shortcuts. Flooding, bribery, unconstitutional commands, reward or protection of misconduct, enforcement suppression, and infrastructure denial or destruction all still have to pass through the same incident, criteria, gravity, and safeguard sequence.
-
-<br>
+This chapter is used only when a verified violation already occupies Violation Axis `s` = 7, 8, or 9 and anti-constitutional misconduct is materially alleged. It decides only whether the matching designation attaches; it does not create a separate impact scale, move a finding between slots, or replace Chapter Eight measurement or Chapter Nine standing integration.
 
 *In plain terms: under the [Continuity aim](core_00_preamble.md#continuity), this chapter decides whether a violation already measured in a highest impact slot also amounts to **tetrad capture** at scale. It does not choose the slot.*
 
@@ -73,7 +77,7 @@ The named patterns in section 6.1 are not separate shortcuts. Flooding, bribery,
 
 <a id="chapter-eight-part-a-continuity-frame"></a>
 
-### 1. Decision framework, scope, and authority — Continuity and tetrad-capture frame
+### 1. How designation decisions work — Continuity and tetrad-capture frame
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
@@ -92,21 +96,29 @@ The named patterns in section 6.1 are not separate shortcuts. Flooding, bribery,
 
 *In plain terms: this chapter works in one sequence. First confirm the Chapter Eight impact slot, then define the incident, apply the designation criteria, and apply process safeguards. The named patterns later in the chapter are applications of that sequence, not separate routes around it.*
 
-Designation review follows, but does not reopen, **Violation Axis Question 2** measurement for **s = 7–9**. Question 1 verified facts and Question 2 impact measurement remain in [Chapter Eight](core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model); Question 3 remedies, safeguards, and lock design remain in [Chapter Nine](core_09-09_standing_integration.md#chapter-nine-standing-effects-and-integration).
+This chapter does not re-measure how serious the violation is. Chapter Eight already answered that when it assigned Violation Axis `s` = 7, 8, or 9.
 
-**Anti-constitutional misconduct** designation for an `s` = 7–9 finding is issued only under **this chapter**. The conduct may arise in **constitutional change** under **Chapters Thirteen through Fifteen**, including **regressive deception** reflected in criteria **1–4**. It may also arise through **criteria 5** or **6**, or through other conduct that materially affects constitutional **validity**, **operation**, or **Rights-Floor** governance. **No** adopting instrument, process note, or subsidiary body may issue the final designation in place of **this chapter**.
+- [Chapter Eight](core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) keeps the verified facts (Question 1) and the impact rating (Question 2).
+  - The Chapter Eight slot stays fixed. How large the harm is does not, by itself, prove intent, capture, or anti-constitutional misconduct.
+- [Chapter Nine](core_09-09_standing_integration.md#chapter-nine-standing-effects-and-integration) keeps ordinary remedies, safeguards, and locks (Question 3).
+  - Those Chapter Nine consequences continue even while designation is under review.
+  - Designation review runs alongside that Chapter Nine work. It does not wait for Question 3 to finish, and it does not reopen Chapter Eight measurement.
 
-**Decision sequence.** Final designation under this chapter proceeds in the following order:
+Only **this chapter** may issue a final **anti-constitutional misconduct** designation for an `s` = 7–9 finding.
 
-1. confirm the final Chapter Eight **Violation Axis s = 7, s = 8, or s = 9** impact slot;
-2. identify the **unified incident** to be assessed, without artificial fragmentation;
-3. determine which **section 2** designation criteria are materially implicated on the verified record;
-4. decide under **section 3** whether the corresponding designation attaches without changing the impact slot;
-5. apply **section 4** due-process safeguards before treating the designation as final;
-6. apply any required imprisonment, restitution, remedy-priority, and consequence-integration rules under **sections 4.1** and **4.2**, and hand final designation to Chapter Nine for Trust Lock and standing-effect integration;
-7. preserve the cross-chapter boundary in **section 5** and use **section 6** named patterns only as applications of this same sequence.
+- The underlying conduct may arise during **constitutional change** under **Chapters Thirteen through Fifteen**, including **regressive deception** covered by criteria **1–4**.
+- It may also arise through **criteria 5** or **6**, or through other conduct that materially harms constitutional **validity**, **operation**, or **Rights-Floor** governance.
+- No adopting instrument, process note, or subsidiary body may issue the final designation instead of **this chapter**.
 
-Section **6** does not create a second catalogue of independent offenses. It states how recurring anti-constitutional patterns route into the unified-incident record, designation criteria, safeguards, and chapter boundaries already stated in **sections 1 through 5**.
+**Decision sequence.** Make a final designation in this order:
+
+1. Confirm that Chapter Eight has already assigned Violation Axis `s` = 7, 8, or 9.
+2. Identify the **unified incident** — one episode or campaign — without splitting it artificially to change the outcome.
+3. Decide which **section 2** designation criteria the verified record materially implicates.
+4. Under **section 3**, decide whether the matching designation attaches, without changing the impact slot.
+5. Apply **section 4** due-process safeguards before treating the designation as final.
+6. Apply any required imprisonment, restitution, remedy-priority, and consequence-integration rules under **sections 4.1** and **4.2**, then hand the final designation to Chapter Nine for the Trust Lock and standing-effect integration.
+7. Keep the cross-chapter boundary in **section 5**, and use **section 6** named patterns only as applications of this same sequence.
 
 <a id="chapter-eight-part-b-accountability-scale"></a>
 <a id="2-criteria-set-for-slot-assignment"></a>
@@ -116,7 +128,7 @@ Section **6** does not create a second catalogue of independent offenses. It sta
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§1](#1-decision-framework-scope-and-authority) (*Decision framework, scope, and authority*).
+- Upstream: [§1](#1-decision-framework-scope-and-authority) (*How designation decisions work*).
 - Emergency authority: [Chapter One](core_01_c_stewardship_capacity_principles.md#chapter-01-principles-and-constraints) emergency and necessity discipline; [Article XXIII-D: Emergency Measures and Continuation Burden](core_06-06_rights_part_d.md#article-xxiii-d-emergency-measures-and-continuation-burden) where **criteria 5** and **6** are read against bounded emergency authority.
 - Downstream designation decision: [§3](#3-violation-axis-s-7-9-slot-assignment-incident-gravity).
 - Downstream safeguards and discipline: [§4](#4-due-process-safeguards-for-slot-assignment); [§5](#5-cross-chapter-discipline).
@@ -310,7 +322,7 @@ No final **anti-constitutional misconduct designation** under this chapter may b
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§1](#1-decision-framework-scope-and-authority) (*Decision framework, scope, and authority*); [§2](#2-criteria-set-for-slot-assignment) (*Criteria set*).
+- Upstream: [§1](#1-decision-framework-scope-and-authority) (*How designation decisions work*); [§2](#2-criteria-set-for-slot-assignment) (*Criteria set*).
 - Pattern and designation sources: [§6.3](#63-flooding-the-zone-and-contest-pathway-denial); [§6.4](#64-info-sphere-zone-flooding); [§6.5](#65-bribery-and-improper-benefit-exchange); [§6.6](#66-unlawful-or-unconstitutional-command-conduct); [§6.7](#67-reward-protection-or-normalization-of-anti-constitutional-conduct); [§6.8](#68-enforcement-refusal-suppression-or-non-prosecution-conduct); [§6.9](#69-infrastructure-denial-destruction-or-dependency-cutoff-conduct); [§6.10](#610-forum-recusal-failure-and-biased-panel-participation); [§3](#3-violation-axis-s-7-9-slot-assignment-incident-gravity); [§4](#4-due-process-safeguards-for-slot-assignment); [§4.1](#4-1-imprisonment-for-anti-constitutional-misconduct); [§4.2](#4-2-restitution-remedy-priority-and-consequence-integration); [§4.3](#4-3-voluntary-public-accountability-expression).
 - Downstream: [Chapter Thirteen](core_13-15_amendment.md#chapter-thirteen-non-regression-and-substantive-amendment-validity) substantive non-regression validity floor and anti-evasion referral triggers.
 - Downstream custody: [Chapter Fifteen](core_13-15_amendment.md#chapter-fifteen-amendment-ratification-and-procedural-validity) procedural and custody validity tests, review triggers, provisional effect, and invalid-change handling.
