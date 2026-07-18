@@ -141,9 +141,20 @@ Only **this chapter** may issue a final **anti-constitutional misconduct** desig
 
 *In plain terms: evaluators first accept the Chapter Eight impact slot, then build one coherent picture of what happened: one episode, one sustained campaign, or another unified incident. They use six checks—intent, records, rollback, real-world blockage, forcible takeover, and practical nullification of remedies—to decide whether the anti-constitutional designation applies. They may not split one scheme to game the designation.*
 
-**Unified incident.** Evaluators must treat as **one incident** conduct that shares material **actors**, **objectives**, **temporal continuity**, **causal linkage**, or **unified design**. Artificial fragmentation of one pattern to manipulate anti-constitutional misconduct outcomes is prohibited. Where **section 6.3** and **section 6.4** overlap, assess on a **unified record** under the unified-incident rule in this section and **section 3**.
+**Unified incident.** Evaluators must treat as **one incident** conduct that shares one or more of the following material factors:
 
-Criteria **1–4** commonly arise in **change**, **record**, and **validity** pathways. **Criteria 5** and **6** address forcible displacement of constitutional authority and practical nullification of constitutional process or remedies. Evaluators assess all materially implicated criteria together on the **unified incident** record:
+- **actors**
+- **objectives**
+- **temporal continuity**
+- **causal linkage**
+- **unified design**
+
+Evaluators must also apply the following:
+
+- Artificial fragmentation of one pattern to manipulate anti-constitutional misconduct outcomes is prohibited.
+- Where **section 6.3** (*Flooding the zone*) and **section 6.4** (*Info-sphere zone flooding*) overlap, assess on a **unified record** under the unified-incident rule in this section and **section 3** (*Violation Axis s = 7–9 designation*).
+
+**Criteria 1–4** usually show up in cases about changing the Constitution, handling official records, or attacking validity rules. **Criteria 5** and **6** cover forcible takeover of constitutional authority and making constitutional process or remedies unusable in practice. Assess every criterion the facts actually support together on the same **unified incident** record:
 
 1. **Willful deceptive intent:** intent to deceive, conceal, or bypass constitutional validity safeguards.
 2. **Knowing falsification or suppression:** knowing falsification, material omission, or evidence/custody manipulation in proposal, review, adoption, publication, **or other material constitutional custody or verification** records.
@@ -152,7 +163,7 @@ Criteria **1–4** commonly arise in **change**, **record**, and **validity** pa
 5. **Insurrection or material forcible subversion:** organized or material **unlawful** action using **force**, **coercion**, or **usurpation** to **overthrow**, **suspend**, or **replace** this Constitution’s operative constitutional authority. This excludes conduct justified under **Chapter One** and **Article XXIII-D** (*Emergency Measures and Continuation Burden*) or equivalent **Necessity**-bounded emergency authority.
 6. **Operative nullification:** conduct that makes constitutional **process** or **remedies** unusable in practice. This excludes conduct justified under **Chapter One** and **Article XXIII-D** (*Emergency Measures and Continuation Burden*) or equivalent **Necessity**-bounded emergency authority.
 
-Evaluators must not treat the same underlying conduct as satisfying both **criterion 5** and **criterion 6** unless each criterion is independently substantiated. For example, the record must show separate forcible acts and separate nullification mechanisms, not two labels for one undifferentiated fact.
+Do not count the same conduct as both **criterion 5** and **criterion 6** unless each one has its own independent proof. For example, the record must show separate forcible acts and separate ways of making process or remedies unusable — not two labels for one undifferentiated fact.
 
 ### 3. Violation Axis s = 7–9 anti-constitutional designation
 
