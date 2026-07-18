@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-07-17T19:46:15+00:00",
+  "generated_at": "2026-07-18T17:43:38+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -345,6 +345,10 @@
         "type": "companion"
       },
       {
+        "id": "corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md",
+        "type": "companion"
+      },
+      {
         "id": "corpus_forum/cf_00_registry_and_reading_rules.md",
         "type": "companion"
       },
@@ -581,7 +585,7 @@
             "count": 6,
             "anchors": [
               "#41-remedy-and-correction",
-              "#52-competency-gates",
+              "#62-competency-gates",
               "#chapter-nine-standing-effects-and-integration"
             ]
           },
@@ -1892,7 +1896,7 @@
           },
           {
             "file": "core_05a_accountability_definitions.md",
-            "count": 87,
+            "count": 88,
             "anchors": [
               "#accountability",
               "#accountability-measurement-family",
@@ -1942,6 +1946,7 @@
               "#protected-reporting-whistleblowing",
               "#psychological-harm",
               "#redress-and-remediation-constitutional",
+              "#remedy-system-constitutional",
               "#restorative-justice",
               "#single-catastrophic-incident",
               "#standing-effect-chapter-six",
@@ -2947,7 +2952,7 @@
           },
           {
             "file": "core_05a_accountability_definitions.md",
-            "count": 485,
+            "count": 495,
             "anchors": [
               "#accountability",
               "#accountability-contestability-semi-independent",
@@ -3183,21 +3188,23 @@
           },
           {
             "file": "core_09-09_standing_integration.md",
-            "count": 15,
+            "count": 18,
             "anchors": [
               "#1-immutable-chapter-eight-inputs",
               "#3-descriptor-integration-and-attachment-normalization",
               "#42-general-standing-locks",
+              "#5-lock-design-and-enforcement",
               "#52-competency-gates",
               "#81-remediation-capacity-and-funding",
               "#82-remedy-organ-durability",
               "#84-anti-evasion-and-look-through-authority",
+              "#9-enforcement-realism",
               "#chapter-nine-standing-effects-and-integration"
             ]
           },
           {
             "file": "core_10-10_misconduct.md",
-            "count": 18,
+            "count": 17,
             "anchors": [
               "#1-decision-framework-scope-and-authority",
               "#2-criteria-set-for-slot-assignment",
@@ -3209,7 +3216,7 @@
           },
           {
             "file": "core_11-11_forum.md",
-            "count": 18,
+            "count": 21,
             "anchors": [
               "#10-timely-resolution-materiality-tiers-and-anti-delay-discipline",
               "#2-default-venue-and-primary-stakes",
@@ -3233,6 +3240,11 @@
           {
             "file": "corpus_institutions.md",
             "count": 3,
+            "anchors": []
+          },
+          {
+            "file": "corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md",
+            "count": 1,
             "anchors": []
           },
           {
@@ -4385,15 +4397,18 @@
           },
           {
             "file": "core_09-09_standing_integration.md",
-            "count": 43,
+            "count": 47,
             "anchors": [
+              "#101-informal-ecological-stewardship-competency-gate",
+              "#102-ecological-negligence-with-concealment",
               "#2-integration-record-and-decision-order",
               "#3-descriptor-integration-and-attachment-normalization",
               "#42-general-standing-locks",
-              "#43-special-locks",
-              "#44-special-violation-rules",
-              "#5-contribution-consequences-second",
-              "#52-competency-gates",
+              "#5-lock-design-and-enforcement",
+              "#54-special-violation-rules",
+              "#55-special-locks",
+              "#6-contribution-consequences-second",
+              "#62-competency-gates",
               "#85-timely-implementation-and-reassessment",
               "#chapter-nine-standing-effects-and-integration"
             ]
@@ -4433,40 +4448,66 @@
           },
           {
             "file": "core_05a_accountability_definitions.md",
-            "count": 1,
+            "count": 2,
             "anchors": [
+              "#remedy-system-constitutional",
               "#timeliness-constitutional"
             ]
           },
           {
             "file": "core_06-06_rights_part_a.md",
-            "count": 1,
+            "count": 2,
             "anchors": [
               "#chapter-six-foundational-rights"
             ]
           },
           {
             "file": "core_08-08_standing_assessment.md",
-            "count": 4,
+            "count": 12,
             "anchors": [
+              "#22-linked-records-and-no-offset-bridge",
+              "#46-question-2-measurement-illustrations",
               "#chapter-eight-compliance-violation-and-standing-model",
               "#shared-descriptor-catalog-and-measurement-roles"
             ]
           },
           {
-            "file": "core_10-10_misconduct.md",
-            "count": 4,
+            "file": "core_08-11_application_vignettes.md",
+            "count": 1,
             "anchors": [
+              "#chapters-eight-eleven-application-vignettes"
+            ]
+          },
+          {
+            "file": "core_10-10_misconduct.md",
+            "count": 13,
+            "anchors": [
+              "#4-2-prevention-anti-constitutional-locks",
+              "#4-3-voluntary-public-accountability-expression-anti-constitutional",
+              "#6-criteria-interactions-and-named-pattern-routing",
+              "#62-rights-floor-waivers-and-unconstitutional-contract-terms",
+              "#63-flooding-the-zone-and-contest-pathway-denial",
+              "#64-info-sphere-zone-flooding",
+              "#69-infrastructure-denial-destruction-or-dependency-cutoff-conduct",
               "#chapter-ten-anti-constitutional-misconduct"
             ]
           },
           {
             "file": "core_11-11_forum.md",
-            "count": 3,
+            "count": 11,
             "anchors": [
               "#10-timely-resolution-materiality-tiers-and-anti-delay-discipline",
+              "#2-default-venue-and-primary-stakes",
+              "#422-technical-forum-domains",
+              "#423-institutional-forums",
+              "#425-integrity-forums",
               "#chapter-eleven-forums-and-jurisdiction"
             ]
+          },
+          {
+            "file": "corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md",
+            "count": 3,
+            "anchors": []
           }
         ]
       },
@@ -4475,7 +4516,7 @@
         "targets": [
           {
             "file": "core_00_preamble.md",
-            "count": 8,
+            "count": 7,
             "anchors": [
               "#constitutional-tetrad",
               "#continuity",
@@ -4684,18 +4725,27 @@
           },
           {
             "file": "core_09-09_standing_integration.md",
-            "count": 13,
+            "count": 38,
             "anchors": [
+              "#10-pattern-applications-and-question-3-routing",
+              "#1010-contest-pathway-or-info-sphere-flooding",
+              "#1011-infrastructure-denial-or-dependency-cutoff",
+              "#109-rights-floor-waiver-or-unconstitutional-contract-devices",
               "#2-integration-record-and-decision-order",
-              "#43-special-locks",
-              "#44-special-violation-rules",
-              "#9-chapter-ten-gateway",
+              "#4-violation-correction-and-prevention",
+              "#41-remedy-and-correction",
+              "#42-general-standing-locks",
+              "#43-voluntary-public-accountability-expression",
+              "#5-lock-design-and-enforcement",
+              "#51-definition-and-attachment",
+              "#54-special-violation-rules",
+              "#55-special-locks",
               "#chapter-nine-standing-effects-and-integration"
             ]
           },
           {
             "file": "core_11-11_forum.md",
-            "count": 15,
+            "count": 16,
             "anchors": [
               "#2-default-venue-and-primary-stakes",
               "#5-intake-triage-mixed-stakes-and-routing-asymmetry",
@@ -4706,14 +4756,14 @@
           },
           {
             "file": "core_12-12_governance.md",
-            "count": 2,
+            "count": 3,
             "anchors": [
               "#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship"
             ]
           },
           {
             "file": "core_13-15_amendment.md",
-            "count": 5,
+            "count": 4,
             "anchors": [
               "#chapter-fifteen-amendment-ratification-and-procedural-validity",
               "#chapter-thirteen-non-regression-and-substantive-amendment-validity"
@@ -4989,10 +5039,11 @@
           },
           {
             "file": "core_09-09_standing_integration.md",
-            "count": 5,
+            "count": 6,
             "anchors": [
+              "#10-pattern-applications-and-question-3-routing",
               "#42-general-standing-locks",
-              "#52-competency-gates",
+              "#62-competency-gates",
               "#84-anti-evasion-and-look-through-authority",
               "#85-timely-implementation-and-reassessment"
             ]
@@ -5700,7 +5751,7 @@
           },
           {
             "file": "core_05a_accountability_definitions.md",
-            "count": 263,
+            "count": 268,
             "anchors": [
               "#accountability",
               "#accountability-a",
@@ -5750,6 +5801,9 @@
               "#redress-and-remediation-constitutional",
               "#redress-and-remediation-constitutional-a",
               "#redress-and-remediation-constitutional-c",
+              "#remedy-system-constitutional",
+              "#remedy-system-constitutional-a",
+              "#remedy-system-constitutional-c",
               "#self-determination-constitutional-o",
               "#standing-lock",
               "#standing-lock-a",
@@ -5964,13 +6018,14 @@
           },
           {
             "file": "core_09-09_standing_integration.md",
-            "count": 20,
+            "count": 22,
             "anchors": [
               "#42-general-standing-locks",
               "#43-special-locks",
               "#44-special-violation-rules",
               "#52-competency-gates",
               "#7-restoration-and-reassessment",
+              "#9-enforcement-realism",
               "#chapter-nine-standing-effects-and-integration"
             ]
           },
@@ -5993,6 +6048,11 @@
           {
             "file": "corpus_institutions.md",
             "count": 3,
+            "anchors": []
+          },
+          {
+            "file": "corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md",
+            "count": 1,
             "anchors": []
           },
           {
@@ -6042,11 +6102,12 @@
           },
           {
             "file": "core_01_c_stewardship_capacity_principles.md",
-            "count": 8,
+            "count": 9,
             "anchors": [
               "#10-governance-under-stewardship-discipline",
               "#122-constitutional-efficiency",
-              "#15-integrated-application"
+              "#15-integrated-application",
+              "#95-process-character-discipline"
             ]
           },
           {
@@ -6192,9 +6253,11 @@
           },
           {
             "file": "core_09-09_standing_integration.md",
-            "count": 3,
+            "count": 6,
             "anchors": [
-              "#44-special-violation-rules"
+              "#4-violation-correction-and-prevention",
+              "#43-voluntary-public-accountability-expression",
+              "#54-special-violation-rules"
             ]
           },
           {
@@ -6202,7 +6265,7 @@
             "count": 4,
             "anchors": [
               "#4-1-imprisonment-for-anti-constitutional-misconduct",
-              "#4-3-voluntary-public-accountability-expression"
+              "#4-3-voluntary-public-accountability-expression-anti-constitutional"
             ]
           },
           {
@@ -6948,6 +7011,11 @@
           },
           {
             "file": "corpus_institutions/ci_26_compliance_mapping_stable_registry.md",
+            "count": 1,
+            "anchors": []
+          },
+          {
+            "file": "corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md",
             "count": 1,
             "anchors": []
           }
@@ -9410,6 +9478,11 @@
           },
           {
             "file": "corpus_institutions/ci_26_compliance_mapping_stable_registry.md",
+            "count": 1,
+            "anchors": []
+          },
+          {
+            "file": "corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md",
             "count": 1,
             "anchors": []
           },
@@ -12273,12 +12346,121 @@
             ]
           },
           {
+            "file": "corpus_institutions/ci_25_scientific_publication_peer_review_replication_evidence_stewardship.md",
+            "count": 1,
+            "anchors": []
+          },
+          {
+            "file": "corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md",
+            "count": 1,
+            "anchors": []
+          },
+          {
+            "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
+            "count": 1,
+            "anchors": [
+              "#cjs-12-shared-implementation-corpus-preamble-contract"
+            ]
+          },
+          {
+            "file": "corpus_joint_structure/cjs_02_implementation_integration_map.md",
+            "count": 1,
+            "anchors": [
+              "#cjs-21-topic-router-stable-ids"
+            ]
+          }
+        ]
+      },
+      {
+        "source": "corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md",
+        "targets": [
+          {
+            "file": "core_05-05_definitions_a_independent.md",
+            "count": 1,
+            "anchors": [
+              "#chapter-five-foundational-definitions"
+            ]
+          },
+          {
+            "file": "core_05a_accountability_definitions.md",
+            "count": 21,
+            "anchors": [
+              "#accountability",
+              "#accountability-a",
+              "#accountability-c",
+              "#contestability",
+              "#contestability-a",
+              "#contestability-c",
+              "#redress-and-remediation-constitutional",
+              "#redress-and-remediation-constitutional-a",
+              "#redress-and-remediation-constitutional-c",
+              "#remedy-system-constitutional",
+              "#remedy-system-constitutional-a",
+              "#remedy-system-constitutional-c",
+              "#timely-resolution-constitutional",
+              "#timely-resolution-constitutional-a",
+              "#timely-resolution-constitutional-c"
+            ]
+          },
+          {
+            "file": "core_05c_continuity_definitions.md",
+            "count": 4,
+            "anchors": [
+              "#dependency",
+              "#dependency-a",
+              "#dependency-c"
+            ]
+          },
+          {
+            "file": "core_05o_oversight_definitions.md",
+            "count": 4,
+            "anchors": [
+              "#auditability",
+              "#auditability-a",
+              "#auditability-c"
+            ]
+          },
+          {
+            "file": "core_06-06_rights_part_a.md",
+            "count": 1,
+            "anchors": [
+              "#chapter-six-foundational-rights"
+            ]
+          },
+          {
+            "file": "core_09-09_standing_integration.md",
+            "count": 4,
+            "anchors": [
+              "#81-remediation-capacity-and-funding",
+              "#82-remedy-system-durability",
+              "#9-enforcement-realism"
+            ]
+          },
+          {
+            "file": "core_11-11_forum.md",
+            "count": 5,
+            "anchors": [
+              "#10-timely-resolution-materiality-tiers-and-anti-delay-discipline",
+              "#2-default-venue-and-primary-stakes",
+              "#422-technical-forum-domains",
+              "#423-institutional-forums",
+              "#425-integrity-forums"
+            ]
+          },
+          {
+            "file": "core_16-16_incorporation.md",
+            "count": 1,
+            "anchors": [
+              "#chapter-sixteen-incorporation-bridge"
+            ]
+          },
+          {
             "file": "corpus_forum.md",
             "count": 1,
             "anchors": []
           },
           {
-            "file": "corpus_institutions/ci_25_scientific_publication_peer_review_replication_evidence_stewardship.md",
+            "file": "corpus_institutions/ci_26_compliance_mapping_stable_registry.md",
             "count": 1,
             "anchors": []
           },

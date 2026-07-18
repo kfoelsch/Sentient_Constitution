@@ -405,15 +405,16 @@ After final designation under **section 3** with **section 4** safeguards met:
 
 - Upstream: [§2](#2-criteria-set-for-slot-assignment) (*Criteria set*); [§3](#3-violation-axis-s-7-9-slot-assignment-incident-gravity) (*Violation Axis s = 7–9 designation*); [§4](#4-due-process-safeguards-for-slot-assignment) (*Due-process safeguards, remedy, and prevention*); [§1](#5-cross-chapter-discipline) (*Chapters Thirteen through Fifteen boundary*).
 - Subsections: [§6.1](#61-concentration-based-subversion-criteria-interaction); [§6.2](#62-rights-floor-waivers-and-unconstitutional-contract-terms); [§6.3](#63-flooding-the-zone-and-contest-pathway-denial) (*Flooding the zone*); [§6.4](#64-info-sphere-zone-flooding); [§6.5](#65-bribery-and-improper-benefit-exchange); [§6.6](#66-unlawful-or-unconstitutional-command-conduct), including [§6.6.1](#661-follower-and-implementer-accountability); [§6.7](#67-reward-protection-or-normalization-of-anti-constitutional-conduct); [§6.8](#68-enforcement-refusal-suppression-or-non-prosecution-conduct); [§6.9](#69-infrastructure-denial-destruction-or-dependency-cutoff-conduct); [§6.10](#610-forum-recusal-failure-and-biased-panel-participation).
+- Topic routing (mandatory read-with): [Chapter Nine §4.2](core_09-09_standing_integration.md#42-general-standing-locks) (*Prevention — general standing locks*); [Chapter Nine §5.4](core_09-09_standing_integration.md#54-special-violation-rules) (*Special violation rules*); [Chapter Nine §5.5](core_09-09_standing_integration.md#55-special-locks) (*Special locks — Forum-Service Standing Lock and Anti-Constitutional Trust Lock*); [Chapter Nine §10](core_09-09_standing_integration.md#10-pattern-applications-and-question-3-routing) (*Question 3 pattern routing — dual-layer mirror for verified pathway harm*).
 - Read with: [Chapter Five](core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) for definitions named inside each pattern-routing subsection.
 
 </details>
 
 <br>
 
-*In plain terms: the rest of the chapter applies the same decision model to recurring anti-constitutional patterns. These examples do not create new criteria; they show how named conduct routes through the criteria, process safeguards, and chapter boundaries already stated above.*
+*In plain terms: the rest of the chapter applies the same decision model to recurring anti-constitutional patterns. “Participation and pathway integrity” names the **attack targets** — contest, standing, audit, forum, and related pathways — not a catalog of new Chapter Nine lock types. These examples do not create new criteria or new special locks; they show how named conduct routes through the criteria, process safeguards, and chapter boundaries already stated above. Locks stay in Chapter Nine.*
 
-The following subsections state criteria interactions and named pattern applications. They do **not** add independent impact criteria, relocate operational rules from other chapters, or bypass **section 4** safeguards. Evaluators assess each materially implicated pattern on the **unified incident** record under **section 2**, decide designation under **section 3**, preserve required process under **section 4**, and keep the Chapters Thirteen through Fifteen boundary stated in **section 1**.
+The following subsections state criteria interactions and named pattern applications. They do **not** add independent impact criteria, relocate operational rules from other chapters, bypass **section 4** safeguards, or create Chapter Nine lock types. Pathway language in this section names **attack targets**. Standing locks, special-violation shaping, and special locks remain owned by [Chapter Nine](core_09-09_standing_integration.md#chapter-nine-standing-effects-and-integration): general locks and [§5.4](core_09-09_standing_integration.md#54-special-violation-rules) shaping for ordinary verified pathway harm; the **Forum-Service Standing Lock** for required-recusal failure under [§6.10](#610-forum-recusal-failure-and-biased-panel-participation); and the **Anti-Constitutional Trust Lock** after final designation under [§4.2](#4-2-prevention-anti-constitutional-locks). Evaluators assess each materially implicated pattern on the **unified incident** record under **section 2**, decide designation under **section 3**, preserve required process under **section 4**, and keep the Chapters Thirteen through Fifteen boundary stated in **section 1**.
 
 ### 6.1 Concentration-based subversion: criteria interaction
 <details>
@@ -443,6 +444,7 @@ The absence of overt deception or forcible act does **not** defeat anti-constitu
 
 - Upstream: [§2](#2-criteria-set-for-slot-assignment) (*Criteria set*); [Chapter Six](core_06-06_rights_part_a.md#chapter-six-foundational-rights) Rights Floor; [Chapter Nine §5.4](core_09-09_standing_integration.md#54-special-violation-rules) (*Duty to Resist Unlawful or Unconstitutional Instructions*) for unconstitutional-instruction routing named in the second bullet.
 - Downstream: [§1](#5-cross-chapter-discipline) (*Chapters Thirteen through Fifteen boundary*); [Article XXIII-A: Justice Objective and Scope](core_06-06_rights_part_d.md#article-xxiii-a-justice-objective-and-scope) for review pathways that waiver devices must not defeat.
+- Topic routing (mandatory read-with): [Chapter Nine §10.9](core_09-09_standing_integration.md#109-rights-floor-waiver-or-unconstitutional-contract-devices) (*Question 3 pathway-lock routing for the same fact family — general locks only*).
 - Read with: [Chapter Fifteen](core_13-15_amendment.md#chapter-fifteen-amendment-ratification-and-procedural-validity) procedural-validity rules for adoption instruments (contrast with ordinary association terms).
 
 </details>
@@ -463,13 +465,24 @@ The absence of overt deception or forcible act does **not** defeat anti-constitu
 
 The following patterns are **anti-constitutional misconduct within this chapter’s scope** when substantiated under **Chapters Two through Four** and assessed through the **section 2** criteria for possible anti-constitutional misconduct designation. They are stated here so that **purported waiver** and **pseudo-contract** devices are not mistaken for ordinary compliance disputes alone.
 
-- **Rights-Floor waiver conduct:** conditioning cooperative participation, employment, platform access, services, or comparable ordinary association on giving up protected rights or review paths. This includes waiver, disclaimer, or relinquishment of **Chapter Six** Rights-Floor protections; interpretation, appeal, or review pathways under **Article XXIII-A** (*Justice Objective and Scope*); constitutionally required **auditability** or **contestability**; or **standing** needed to vindicate those protections. The condition is in scope where it functions to defeat, narrow, or chill those protections without **Necessity** and **Proportionality** under **Chapter One** and **Chapter Five**, and outside **Chapter Fifteen** procedural-validity rules for adoption instruments themselves. **Ordinary commercial convenience alone** is not a sufficient justification.
+- **Rights-Floor waiver conduct:** conditioning cooperative participation, employment, platform access, services, or comparable ordinary association on giving up protected rights or review paths.
+  - Includes waiver, disclaimer, or relinquishment of **Chapter Six** Rights-Floor protections; interpretation, appeal, or review pathways under **Article XXIII-A** (*Justice Objective and Scope*); constitutionally required **auditability** or **contestability**; or **standing** needed to vindicate those protections.
+  - In scope where the condition functions to defeat, narrow, or chill those protections without **Necessity** and **Proportionality** under **Chapter One** and **Chapter Five**, and outside **Chapter Fifteen** procedural-validity rules for adoption instruments themselves.
+  - **Ordinary commercial convenience alone** is not a sufficient justification.
 
-- **Unconstitutional contract-term conduct:** any agreement, adhesion term, policy, or comparable instrument that purports to waive, disclaim, override, or contract around binding **Sentient Constitution** obligations or **Chapter Six** Rights Floors, **including** **non-disclosure agreements** (**NDAs**) and **overbroad confidentiality** terms where they **function** as **waiver**, **gag**, or **override** devices. This also includes a **contractual directive** requiring unlawful conduct or material constitutional violation (read with **Chapter Nine** [§5.4](core_09-09_standing_integration.md#54-special-violation-rules) and [§2](core_09-09_standing_integration.md#2-integration-record-and-decision-order)).
+- **Unconstitutional contract-term conduct:** any agreement, adhesion term, policy, or comparable instrument that purports to waive, disclaim, override, or contract around binding **Sentient Constitution** obligations or **Chapter Six** Rights Floors.
+  - Includes **non-disclosure agreements** (**NDAs**) and **overbroad confidentiality** terms where they **function** as **waiver**, **gag**, or **override** devices.
+  - Includes a **contractual directive** requiring unlawful conduct or material constitutional violation (read with **Chapter Nine** [§5.4](core_09-09_standing_integration.md#54-special-violation-rules) and [§2](core_09-09_standing_integration.md#2-integration-record-and-decision-order)).
 
-- **Post-employment mobility-restriction conduct:** **non-compete** or **no-poach** terms in employment, **operator**, **steward**, platform, or comparable arrangements — prohibited categorically in any form, scope, or duration, with **no operative effect** to restrict labor mobility. **Excessive** **non-solicitation** or **functionally equivalent** post-association terms that purport to **foreclose** **contestable** **labor** **mobility** or to **chill** **standing**, **audit**, **contestability**, or **Article XXIII-A** (*Justice Objective and Scope*) review in ways that **degrade** **Chapter Six** protections **without** **Necessity** and **Proportionality** under **Chapter One** and **Chapter Five**. **Retention** or **competitive** convenience **alone** is not a sufficient justification.
+- **Post-employment mobility-restriction conduct:**
+  - **Non-compete** or **no-poach** terms in employment, **operator**, **steward**, platform, or comparable arrangements — prohibited categorically in any form, scope, or duration, with **no operative effect** to restrict labor mobility.
+  - **Excessive** **non-solicitation** or **functionally equivalent** post-association terms that purport to **foreclose** **contestable** **labor** **mobility** or to **chill** **standing**, **audit**, **contestability**, or **Article XXIII-A** (*Justice Objective and Scope*) review in ways that **degrade** **Chapter Six** protections **without** **Necessity** and **Proportionality** under **Chapter One** and **Chapter Five**.
+  - **Retention** or **competitive** convenience **alone** is not a sufficient justification.
 
-**Non-binding effect.** Provisions and conditions within the bullets above are **never binding** and have **no operative effect** to defeat, narrow, or foreclose Rights-Floor protections, challenge or **standing** rights, audit or verification rights, or **Article XXIII-A** (*Justice Objective and Scope*) pathways. **NDAs** and **confidentiality** terms are **void** and **without operative effect** to the extent they would **suppress** **disclosure** or **cooperation** necessary for **accountability** for **criminal** conduct (including **reporting** to **competent** **criminal** or **oversight** process) or for **anti-constitutional misconduct** within **this chapter’s** scope. Actors must not treat them as lawful authority for selective compliance, evidence destruction, forum shopping, or reincorporation arbitrage.
+**Non-binding effect.** Provisions and conditions within the bullets above are **never binding** and have **no operative effect**.
+- They do not defeat, narrow, or foreclose Rights-Floor protections, challenge or **standing** rights, audit or verification rights, or **Article XXIII-A** (*Justice Objective and Scope*) pathways.
+- **NDAs** and **confidentiality** terms are **void** and **without operative effect** to the extent they would **suppress** **disclosure** or **cooperation** necessary for **accountability** for **criminal** conduct (including **reporting** to **competent** **criminal** or **oversight** process) or for **anti-constitutional misconduct** within **this chapter’s** scope.
+- Actors must not treat them as lawful authority for selective compliance, evidence destruction, forum shopping, or reincorporation arbitrage.
 
 **Criteria routing.** Evaluators assess these patterns under **criteria 3 and 4** where they produce material rollback or equivalent structural workaround, blocked or chilled challenge rights, or Rights-Floor degradation. **Criteria 1 and 2** apply where willful deception or record manipulation is implicated. This subsection does **not** add an additional designation criterion beyond the **section 2** set; it routes evaluation of the named patterns into that set.
 
@@ -479,6 +492,7 @@ The following patterns are **anti-constitutional misconduct within this chapter�
 
 - Upstream: [§2](#2-criteria-set-for-slot-assignment) (*Criteria set*); [Chapter Eleven](core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) (*default venue, intake triage, transfer and consolidation, anti-gaming, and interim relief — operational response without relocating designation review*).
 - Downstream: [§3](#3-violation-axis-s-7-9-slot-assignment-incident-gravity) (*Violation Axis s = 7–9 designation*); [§1](#5-cross-chapter-discipline) (*Chapters Thirteen through Fifteen boundary*).
+- Topic routing (mandatory read-with): [Chapter Nine §10.10](core_09-09_standing_integration.md#1010-contest-pathway-or-info-sphere-flooding) (*Question 3 pathway-lock routing for contest-pathway or info-sphere flooding — general locks only*).
 - Read with: [Contestability](core_05a_accountability_definitions.md#contestability) and [Transparency](core_05o_oversight_definitions.md#transparency) in **Chapter Five** where pathway usability and publication are material.
 - Forum operations: [Chapter Eleven §5](core_11-11_forum.md#5-intake-triage-mixed-stakes-and-routing-asymmetry) through [§5](core_11-11_forum.md#6-transfer-consolidation-and-coordination) for intake triage, consolidation, and representative treatment.
 - Distinct pattern: [§6.4](#64-info-sphere-zone-flooding) covers info-sphere flooding.
@@ -497,7 +511,11 @@ The following patterns are **anti-constitutional misconduct within this chapter�
 
 *In plain terms: burying forums and contest desks under junk volume, copy-paste filings, or automated noise can be a constitutional attack pattern. The key is purpose or reckless disregard: real challenges cannot get through in time. Mass meritorious claims seeking real relief are different.*
 
-**Flooding-the-zone conduct** (including **contest-pathway flooding**) is **anti-constitutional misconduct within this chapter’s scope** when substantiated under **Chapters Two through Four** and assessed through the **section 2** criteria for possible designation. It means deliberate, reckless, or foreseeably indifferent use of high volume, redundancy, distributed load, or automation to burden contest, routing, intake, adjudication, panel formation, recusal or backup resolution, review, publication, forensic processing, or comparable pathway capacity.
+**Flooding-the-zone conduct** (including **contest-pathway flooding**) is **anti-constitutional misconduct within this chapter’s scope** when substantiated under **Chapters Two through Four** and assessed through the **section 2** criteria for possible designation. It means deliberate, reckless, or foreseeably indifferent use of high volume, redundancy, distributed load, or automation to burden:
+- contest, routing, or intake;
+- adjudication, panel formation, or recusal or backup resolution;
+- review, publication, or forensic processing; or
+- comparable pathway capacity.
 
 The conduct is in scope only where it has one of the following material effects:
 
@@ -525,7 +543,12 @@ The following are non-exhaustive examples of in-scope means:
 
 **Operational response** — including primary-stakes routing, per-family intake triage, consolidation, anti-gaming measures, forum performance and backlog requirements, continuity measures, and forensic support — remains governed by **Chapter Eleven** and adopted implementation. This subsection states when such conduct may implicate final anti-constitutional-misconduct designation under this chapter; it does not relocate operational rules to this chapter.
 
-**Criteria routing.** Evaluators assess these patterns under **criterion 4** where conduct materially contributes to blocked challenge rights, delayed correction beyond practical remedy, or Rights-Floor degradation. **Criterion 3** applies where the pattern operates as an equivalent structural workaround producing material rollback of constitutional protections. **Criteria 1 and 2** apply where willful deception, concealment, or knowing record, custody, routing, or publication manipulation is implicated. **Criterion 6** applies only where **section 2** and **section 4** substantiation shows that constitutional process or remedies became unusable in practice. Volume, redundancy, or automation alone is not sufficient.
+**Criteria routing.** Evaluators assess these patterns as follows:
+- **Criterion 4** — where conduct materially contributes to blocked challenge rights, delayed correction beyond practical remedy, or Rights-Floor degradation.
+- **Criterion 3** — where the pattern operates as an equivalent structural workaround producing material rollback of constitutional protections.
+- **Criteria 1 and 2** — where willful deception, concealment, or knowing record, custody, routing, or publication manipulation is implicated.
+- **Criterion 6** — only where **section 2** and **section 4** substantiation shows that constitutional process or remedies became unusable in practice.
+- Volume, redundancy, or automation alone is not sufficient.
 
 This subsection does **not** add an additional designation criterion beyond the **section 2** set; it routes evaluation of the named patterns into that set.
 
@@ -535,6 +558,7 @@ This subsection does **not** add an additional designation criterion beyond the 
 
 - Upstream: [§2](#2-criteria-set-for-slot-assignment) (*Criteria set*); [§6.3](#63-flooding-the-zone-and-contest-pathway-denial) (*Flooding the zone — contest-pathway distinction*); [Chapter One §3.2](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint) (*Truth / epistemic integrity*); [Chapter One §6.2.1](core_01_b_interaction_interpretation.md#621-preservation-of-epistemic-integrity) (*Preservation of epistemic integrity*).
 - Downstream: [§3](#3-violation-axis-s-7-9-slot-assignment-incident-gravity) (*Violation Axis s = 7–9 designation*); [§1](#5-cross-chapter-discipline) (*Chapters Thirteen through Fifteen boundary*).
+- Topic routing (mandatory read-with): [Chapter Nine §10.10](core_09-09_standing_integration.md#1010-contest-pathway-or-info-sphere-flooding) (*Question 3 pathway-lock routing for contest-pathway or info-sphere flooding — general locks only*).
 - Read with: [Info-Sphere](core_05p_participation_definitions.md#info-sphere), [Epistemic Integrity](core_05o_oversight_definitions.md#epistemic-integrity), [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint), and [Transparency](core_05o_oversight_definitions.md#transparency) in **Chapter Five**.
 - Rights and verification: [Article V-H: Expression, Assembly, and Press](core_06-06_rights_part_b.md#article-v-h-expression-assembly-and-press) and [Article XV: Audit, Transparency, and Independent Verification](core_06-06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification) in **Chapter Six**. These supply Rights Floors and verification discipline without relocating designation review.
 - Implementation context: adopted **[corpus_systems.md](corpus_systems.md)** and institutional implementation under **Chapter Sixteen** where materially relevant.
@@ -555,9 +579,18 @@ This subsection does **not** add an additional designation criterion beyond the 
 
 *In plain terms: hammering the shared information environment with coordinated junk, bots, or meaningless volume can keep **sentients** from finding true signals, checking claims, or correcting lies in time. That is different from burying a forum docket. Both can break constitutional contestability, but the info-sphere version works through attention, discovery, and epistemic noise rather than filing desks.*
 
-**Info-sphere zone flooding** (including **epistemic flooding** and **attention-pathway denial**) is **anti-constitutional misconduct within this chapter’s scope** when substantiated under **Chapters Two through Four** and assessed through the **section 2** criteria for possible anti-constitutional misconduct designation. It means deliberate, reckless, or foreseeably indifferent use of high volume, redundancy, distributed load, automation, coordination across channels, ranking or discovery manipulation, synthetic or inauthentic persona traffic, or comparable means.
+**Info-sphere zone flooding** (including **epistemic flooding** and **attention-pathway denial**) is **anti-constitutional misconduct within this chapter’s scope** when substantiated under **Chapters Two through Four** and assessed through the **section 2** criteria for possible anti-constitutional misconduct designation. It means deliberate, reckless, or foreseeably indifferent use of:
+- high volume, redundancy, distributed load, or automation;
+- coordination across channels;
+- ranking or discovery manipulation;
+- synthetic or inauthentic persona traffic; or
+- comparable means.
 
-Those means are in scope when they burden attention, indexing, search, verification, audit, correction, notice, or publication pathways in the **info-sphere**.
+Those means are in scope when they burden the following pathways in the **info-sphere**:
+- access, attention, indexing, or search;
+- verification, audit, or correction;
+- notice or publication; or
+- comparable info-sphere pathway capacity.
 
 The conduct is in scope only where it has one of the following material effects:
 
@@ -565,6 +598,8 @@ The conduct is in scope only where it has one of the following material effects:
 - Burying decision-relevant clarity under volume or obscurity.
 - Defeating practical contestability of material claims at population scale.
 - Preventing timely correction of material falsehoods in constitutionally governed contexts.
+- Substantially increasing the practical cost of access, verification, moderation, correction, or ordinary participation.
+- Preventing or defeating ordinary use of info-sphere systems, interfaces, or channels needed for constitutionally material access, verification, or coordination.
 
 The following are non-exhaustive examples of in-scope means:
 
@@ -582,9 +617,20 @@ The following are non-exhaustive examples of in-scope means:
 
 **Relation to section 6.3.** The same campaign may implicate both **contest-pathway flooding** and **info-sphere flooding**. Evaluators must assess them together on a **unified record** where facts overlap. They must not double-count the same conduct element toward criteria satisfaction twice without independent substantiation for each pattern.
 
-**Operational response** — including Rights-Floor implementation under **Chapter Six**, **Article XV** (*Audit, Transparency, and Independent Verification*) verification and auditability discipline, **[corpus_systems.md](corpus_systems.md)** handling where designated, and institutional governance under **Chapter Sixteen** — remains governed by those instruments and adopted owner layers. This subsection states when such conduct may implicate final anti-constitutional-misconduct designation under this chapter; it does not relocate operational rules to this chapter.
+**Operational response** remains governed by those instruments and adopted owner layers, including:
+- Rights-Floor implementation under **Chapter Six**;
+- **Article XV** (*Audit, Transparency, and Independent Verification*) verification and auditability discipline;
+- **[corpus_systems.md](corpus_systems.md)** handling where designated; and
+- institutional governance under **Chapter Sixteen**.
 
-**Criteria routing.** Evaluators assess these patterns under **criterion 4** where conduct materially contributes to blocked challenge rights, delayed correction beyond practical remedy, Rights-Floor degradation, or impaired verification or audit access in practice. **Criterion 3** applies where the pattern operates as an equivalent structural workaround producing material rollback of constitutional protections. **Criteria 1 and 2** apply where willful deception, concealment, or knowing record, custody, routing, provenance, or publication manipulation in info-sphere channels is implicated. **Criterion 6** applies only where **section 2** and **section 4** substantiation shows that constitutional process or remedies became unusable in practice. Volume, redundancy, automation, or attention capture alone is not sufficient.
+This subsection states when such conduct may implicate final anti-constitutional-misconduct designation under this chapter; it does not relocate operational rules to this chapter.
+
+**Criteria routing.** Evaluators assess these patterns as follows:
+- **Criterion 4** — where conduct materially contributes to blocked challenge rights, delayed correction beyond practical remedy, Rights-Floor degradation, or impaired verification or audit access in practice.
+- **Criterion 3** — where the pattern operates as an equivalent structural workaround producing material rollback of constitutional protections.
+- **Criteria 1 and 2** — where willful deception, concealment, or knowing record, custody, routing, provenance, or publication manipulation in info-sphere channels is implicated.
+- **Criterion 6** — only where **section 2** and **section 4** substantiation shows that constitutional process or remedies became unusable in practice.
+- Volume, redundancy, automation, or attention capture alone is not sufficient.
 
 This subsection does **not** add an additional designation criterion beyond the **section 2** set; it routes evaluation of the named patterns into that set.
 
@@ -804,6 +850,7 @@ This subsection does **not** create a mandatory-prosecution rule, add an indepen
 - Upstream: [§2](#2-criteria-set-for-slot-assignment) (*Criteria set*); [§3](#3-violation-axis-s-7-9-slot-assignment-incident-gravity) (*Violation Axis s = 7–9 designation*); [§4](#4-due-process-safeguards-for-slot-assignment) (*Due-process safeguards, remedy, and prevention*); [Chapter Eight §7](core_08-08_standing_assessment.md#7-unified-proportional-lequ-scale) (*proportional Violation Axis impact, including ecological or infrastructure loss*).
 - Rights and systems context: [Article III-A](core_06-06_rights_part_a.md#article-iii-a-survival) (*Survival*), [Article IV-A](core_06-06_rights_part_a.md#article-iv-a-dependency-mapping-and-resource-flow-transparency) (*Dependency Mapping and Resource-Flow Transparency*), [Article XII-A](core_06-06_rights_part_c.md#article-xii-a-reliability-and-trustworthiness-baseline) (*Reliability and Trustworthiness Baseline*), [Article XV](core_06-06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*), and adopted [corpus_systems.md](corpus_systems.md) infrastructure, dependency, reliability, and classification controls where materially relevant.
 - Related patterns: [§6.1](#61-concentration-based-subversion-criteria-interaction) where infrastructure control produces capture or dependency abuse; [§6.6](#66-unlawful-or-unconstitutional-command-conduct) where the conduct is ordered, automated, or technically enforced; [§6.8](#68-enforcement-refusal-suppression-or-non-prosecution-conduct) where accountability for the infrastructure conduct is suppressed.
+- Topic routing (mandatory read-with): [Chapter Nine §10.11](core_09-09_standing_integration.md#1011-infrastructure-denial-or-dependency-cutoff) (*Question 3 pathway-lock routing for infrastructure denial or dependency cutoff — general locks only*).
 - Read with: [Dependency](core_05c_continuity_definitions.md#dependency), [Cascading Failure](core_05c_continuity_definitions.md#cascading-failure), [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint), [Reversibility](core_05c_continuity_definitions.md#reversibility-constitutional), [Harm](core_05a_accountability_definitions.md#harm), [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination), and [System Capture](core_05c_continuity_definitions.md#system-capture).
 
 </details>
