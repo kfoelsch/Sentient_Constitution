@@ -54,7 +54,7 @@ The corpus is written in plain language with low jargon to improve accessibility
   - Reading index — [`core_07-07_system_alignment_certification.md`](core_07-07_system_alignment_certification.md)
 - **Chapter Eight** — Questions 1 and 2: verified standing records, normalized descriptor catalogs, and Contribution Axis / Violation Axis measurement — [`core_08-08_standing_assessment.md`](core_08-08_standing_assessment.md)
 - **Chapter Nine** — Question 3: integration records, descriptor integration, attachment normalization, violation and contribution consequences, final effects, restoration, and enforcement realism / remedy systems — [`core_09-09_standing_integration.md`](core_09-09_standing_integration.md)
-- **Chapter Ten** — designation only: anti-constitutional-misconduct designation for qualifying **s = 7, 8, or 9** Violation Axis findings — [`core_10-10_misconduct.md`](core_10-10_misconduct.md)
+- **Chapter Ten** — designation only: anti-constitutional-misconduct designation for qualifying **s = 7, 8, or 9** Violation Axis findings — Part A [`core_10_a_misconduct_designation.md`](core_10_a_misconduct_designation.md) (criteria and designation); Part B [`core_10_b_misconduct_pattern_applications.md`](core_10_b_misconduct_pattern_applications.md) (named pattern applications)
 
 ### Forums
 

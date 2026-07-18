@@ -76,7 +76,7 @@ Optional packaging that merges implementation files into fewer Markdown files **
 
 - Upstream: [§1](#1-role-of-this-chapter) (*bridge role and Chapter One interaction*); [Authority Stack and Internal Hierarchy](core_05i_integrative_definitions.md#authority-stack) (*which layer is speaking; how residual conflict is resolved*); [Chapter Thirteen](core_13-15_amendment.md#chapter-thirteen-non-regression-and-substantive-amendment-validity) (*non-regression*); [Chapter Fourteen](core_13-15_amendment.md#chapter-fourteen-expansion-supremacy-and-external-legal-orders) (*internal hierarchy for adopters*); [Chapter One — §2 Constitutional Interpretation](core_01_b_interaction_interpretation.md#8-constitutional-interpretation) (*Chapter One §8.3 conflict resolution procedure; §2 points — does not restate*).
 - Downstream: [§11](#3-custody-editions-and-operative-effect) (*edition pinning, custody, anti-drift, stricter-baseline rule*); [§2](#4-adoption-framing-and-scope-of-authority) (*operative effect contingent on adoption*).
-- Read with: [Chapter Eight](core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) and [Chapter Ten](core_10-10_misconduct.md#chapter-ten-anti-constitutional-misconduct) (*classification homes referenced from other chapters through this bridge*).
+- Read with: [Chapter Eight](core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) and [Chapter Ten](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct) (*classification homes referenced from other chapters through this bridge*).
 
 </details>
 

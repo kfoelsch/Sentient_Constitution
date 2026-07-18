@@ -129,7 +129,7 @@ Unless another reference pattern is stated, **Article** labels with Roman numera
 
 References in this file to **anti-constitutional misconduct** are routing shorthand only. Facts and measurement remain governed by **Sentient Constitution Chapters Two through Eight** and adopting instruments where they apply; Chapter Nine supplies standing effects, and Chapter Ten supplies designation.
 
-**Chapter Ten** (*Anti-Constitutional Misconduct*) in [core_10-10_misconduct.md](../core_10-10_misconduct.md#chapter-ten-anti-constitutional-misconduct) decides only whether the corresponding designation attaches to a fixed **Chapter Eight Violation Axis s = 7, 8, or 9** finding.
+**Chapter Ten** (*Anti-Constitutional Misconduct*) in [core_10_a_misconduct_designation.md](../core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct) decides only whether the corresponding designation attaches to a fixed **Chapter Eight Violation Axis s = 7, 8, or 9** finding.
 
 This file does **not**:
 

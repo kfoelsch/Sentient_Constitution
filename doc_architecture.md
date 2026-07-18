@@ -38,7 +38,7 @@ Filename renames require: reference audit, same-change link updates, dated evide
 | System alignment certification | Ch 7 | `core_07_a_system_alignment_certification_evaluation.md` (Part A — evaluation); `core_07_b_system_alignment_certification_record_process.md` (Part B — record and process); reading index: `core_07-07_system_alignment_certification.md` |
 | Standing records and measurement (Questions 1 and 2) | Ch 8 | `core_08-08_standing_assessment.md`; verified records and Contribution Axis / Violation Axis slots |
 | Standing integration and effects (Question 3) | Ch 9 | `core_09-09_standing_integration.md`; violation, correction, and prevention before contribution gates, with lock design and enforcement, then final effect, restoration, and enforcement |
-| Anti-constitutional-misconduct designation | Ch 10 | `core_10-10_misconduct.md`; designation only for qualifying fixed Ch 8 Violation Axis `s = 7–9` findings |
+| Anti-constitutional-misconduct designation | Ch 10 | `core_10_a_misconduct_designation.md` (Part A — designation criteria and safeguards); `core_10_b_misconduct_pattern_applications.md` (Part B — named pattern applications); designation only for qualifying fixed Ch 8 Violation Axis `s = 7–9` findings |
 | Forums (constitutional) | Ch 11 | `core_11-11_forum.md`; forum families, jurisdiction, supervision, and cross-forum anti-self-judging; [README navigation](README.md#standing-pipeline-and-forums) |
 | Governance / amendment / incorporation | Ch 12–16 | `core_12-12_governance.md`, `core_13-15_amendment.md`, `core_16-16_incorporation.md` |
 | Cross-implementation joint structure | CJS | [corpus_joint_structure.md](corpus_joint_structure.md) **CJS-2.1** (*Topic router*) |
@@ -164,7 +164,7 @@ When one registry row splits across **part files** within the same chapter numbe
 
 **Split owner layers:** when one registry row spans two or more files — the standing pipeline (**Chapters 08–10**); system alignment certification (**Chapter 07 Part A / Part B**) — each file gets its own opening line scoped to what that file owns: verified records and measurement in Chapter Eight, integration and standing effects in Chapter Nine, designation only in Chapter Ten; evaluation in Part A, record/process/standing bridge in Part B.
 
-**Examples (reference pattern):** [Chapter Seven Part A](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation) and [Part B](core_07_b_system_alignment_certification_record_process.md#chapter-seven-part-b-certification-record-and-process) (split registry row; sibling-part pointers); [Chapter Six](core_06-06_rights_part_a.md#chapter-six-foundational-rights) (after reader guidance); [Chapter Ten](core_10-10_misconduct.md#chapter-ten-anti-constitutional-misconduct) (reader guidance moved before the opening line).
+**Examples (reference pattern):** [Chapter Seven Part A](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation) and [Part B](core_07_b_system_alignment_certification_record_process.md#chapter-seven-part-b-certification-record-and-process) (split registry row; sibling-part pointers); [Chapter Six](core_06-06_rights_part_a.md#chapter-six-foundational-rights) (after reader guidance); [Chapter Ten Part A](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct) (reader guidance moved before the opening line).
 
 ### D/A/C widget template (NAV-DAC-12)
 

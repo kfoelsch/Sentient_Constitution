@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-07-18T17:43:37+00:00",
+  "generated_at": "2026-07-18T23:21:32+00:00",
   "files": {
     "core_00_preamble.md": {
       "total_lines": 249,
@@ -4003,147 +4003,159 @@
         }
       ]
     },
-    "core_10-10_misconduct.md": {
-      "total_lines": 933,
+    "core_10_a_misconduct_designation.md": {
+      "total_lines": 411,
       "sections": [
         {
-          "header": "CHAPTER TEN: ANTI-CONSTITUTIONAL MISCONDUCT",
+          "header": "CHAPTER TEN, PART A: ANTI-CONSTITUTIONAL MISCONDUCT — DESIGNATION",
           "level": 1,
-          "line_start": 3,
-          "line_end": 933,
-          "anchor": "#chapter-ten-anti-constitutional-misconduct"
+          "line_start": 4,
+          "line_end": 411,
+          "anchor": "#chapter-ten-part-a-anti-constitutional-misconduct-designation"
         },
         {
           "header": "1. How designation decisions work — Continuity and tetrad-capture frame",
           "level": 3,
-          "line_start": 79,
-          "line_end": 132,
+          "line_start": 89,
+          "line_end": 142,
           "anchor": "#chapter-eight-part-a-continuity-frame"
         },
         {
           "header": "2. Criteria set (for designation) — Accountability at constitutional scale",
           "level": 3,
-          "line_start": 133,
-          "line_end": 195,
+          "line_start": 143,
+          "line_end": 205,
           "anchor": "#2-criteria-set-for-designation"
         },
         {
           "header": "3. Violation Axis s = 7–9 anti-constitutional designation",
           "level": 3,
-          "line_start": 196,
-          "line_end": 258,
+          "line_start": 206,
+          "line_end": 268,
           "anchor": "#3-violation-axis-s-7-9-slot-assignment-incident-gravity"
         },
         {
           "header": "4. Due-process safeguards, remedy, and prevention",
           "level": 3,
-          "line_start": 259,
-          "line_end": 280,
+          "line_start": 269,
+          "line_end": 290,
           "anchor": "#4-due-process-safeguards-remedy-and-prevention"
         },
         {
           "header": "4.1 Remedy and correction (anti-constitutional)",
           "level": 3,
-          "line_start": 281,
-          "line_end": 341,
+          "line_start": 291,
+          "line_end": 351,
           "anchor": "#4-1-remedy-and-correction-anti-constitutional"
         },
         {
           "header": "4.2 Prevention — anti-constitutional locks",
           "level": 3,
-          "line_start": 342,
-          "line_end": 373,
+          "line_start": 352,
+          "line_end": 383,
           "anchor": "#4-2-prevention-anti-constitutional-locks"
         },
         {
           "header": "4.3 Voluntary public accountability expression (anti-constitutional)",
           "level": 3,
-          "line_start": 374,
-          "line_end": 401,
+          "line_start": 384,
+          "line_end": 411,
           "anchor": "#4-3-voluntary-public-accountability-expression-anti-constitutional"
+        }
+      ]
+    },
+    "core_10_b_misconduct_pattern_applications.md": {
+      "total_lines": 630,
+      "sections": [
+        {
+          "header": "CHAPTER TEN, PART B: ANTI-CONSTITUTIONAL MISCONDUCT — PATTERN APPLICATIONS",
+          "level": 1,
+          "line_start": 2,
+          "line_end": 630,
+          "anchor": "#chapter-ten-part-b-anti-constitutional-misconduct-pattern-applications"
         },
         {
-          "header": "6. Pattern applications and criteria routing — Participation and pathway integrity",
+          "header": "5. Pattern applications and criteria routing — Participation and pathway integrity",
           "level": 3,
-          "line_start": 402,
-          "line_end": 418,
+          "line_start": 31,
+          "line_end": 50,
           "anchor": "#chapter-eight-part-d-participation-pathways"
         },
         {
-          "header": "6.1 Concentration-based subversion: criteria interaction",
+          "header": "5.1 Concentration-based subversion: criteria interaction",
           "level": 3,
-          "line_start": 419,
+          "line_start": 51,
+          "line_end": 75,
+          "anchor": "#61-concentration-based-subversion-criteria-interaction"
+        },
+        {
+          "header": "5.2 Rights-Floor waivers and unconstitutional contract terms",
+          "level": 3,
+          "line_start": 76,
+          "line_end": 126,
+          "anchor": "#62-rights-floor-waivers-and-unconstitutional-contract-terms"
+        },
+        {
+          "header": "5.3 Flooding the zone and contest-pathway denial",
+          "level": 3,
+          "line_start": 127,
+          "line_end": 195,
+          "anchor": "#63-flooding-the-zone-and-contest-pathway-denial"
+        },
+        {
+          "header": "5.4 Info-sphere zone flooding",
+          "level": 3,
+          "line_start": 196,
+          "line_end": 280,
+          "anchor": "#64-info-sphere-zone-flooding"
+        },
+        {
+          "header": "5.5 Bribery and improper benefit exchange",
+          "level": 3,
+          "line_start": 281,
+          "line_end": 367,
+          "anchor": "#65-bribery-and-improper-benefit-exchange"
+        },
+        {
+          "header": "5.6 Unlawful or unconstitutional command conduct",
+          "level": 3,
+          "line_start": 368,
           "line_end": 440,
-          "anchor": null
+          "anchor": "#66-unlawful-or-unconstitutional-command-conduct"
         },
         {
-          "header": "6.2 Rights-Floor waivers and unconstitutional contract terms",
-          "level": 3,
-          "line_start": 441,
-          "line_end": 488,
-          "anchor": null
-        },
-        {
-          "header": "6.3 Flooding the zone and contest-pathway denial",
-          "level": 3,
-          "line_start": 489,
-          "line_end": 554,
-          "anchor": null
-        },
-        {
-          "header": "6.4 Info-sphere zone flooding",
-          "level": 3,
-          "line_start": 555,
-          "line_end": 636,
-          "anchor": null
-        },
-        {
-          "header": "6.5 Bribery and improper benefit exchange",
-          "level": 3,
-          "line_start": 637,
-          "line_end": 681,
-          "anchor": null
-        },
-        {
-          "header": "6.6 Unlawful or unconstitutional command conduct",
-          "level": 3,
-          "line_start": 682,
-          "line_end": 750,
-          "anchor": null
-        },
-        {
-          "header": "6.6.1 Follower and implementer accountability",
+          "header": "5.6.1 Follower and implementer accountability",
           "level": 4,
-          "line_start": 723,
-          "line_end": 750,
+          "line_start": 410,
+          "line_end": 440,
           "anchor": "#661-follower-and-implementer-accountability"
         },
         {
-          "header": "6.7 Reward, protection, or normalization of anti-constitutional conduct",
+          "header": "5.7 Reward, protection, or normalization of anti-constitutional conduct",
           "level": 3,
-          "line_start": 751,
-          "line_end": 796,
-          "anchor": null
+          "line_start": 441,
+          "line_end": 489,
+          "anchor": "#67-reward-protection-or-normalization-of-anti-constitutional-conduct"
         },
         {
-          "header": "6.8 Enforcement refusal, suppression, or non-prosecution conduct",
+          "header": "5.8 Enforcement refusal, suppression, or non-prosecution conduct",
           "level": 3,
-          "line_start": 797,
-          "line_end": 845,
-          "anchor": null
+          "line_start": 490,
+          "line_end": 541,
+          "anchor": "#68-enforcement-refusal-suppression-or-non-prosecution-conduct"
         },
         {
-          "header": "6.9 Infrastructure denial, destruction, or dependency cutoff conduct",
+          "header": "5.9 Infrastructure denial, destruction, or dependency cutoff conduct",
           "level": 3,
-          "line_start": 846,
-          "line_end": 894,
-          "anchor": null
+          "line_start": 542,
+          "line_end": 591,
+          "anchor": "#69-infrastructure-denial-destruction-or-dependency-cutoff-conduct"
         },
         {
-          "header": "6.10 Forum recusal failure and biased panel participation",
+          "header": "5.10 Forum recusal failure and biased panel participation",
           "level": 3,
-          "line_start": 895,
-          "line_end": 933,
+          "line_start": 592,
+          "line_end": 630,
           "anchor": "#610-forum-recusal-failure-and-biased-panel-participation"
         }
       ]

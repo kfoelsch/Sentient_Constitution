@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-07-18T17:43:38+00:00",
+  "generated_at": "2026-07-18T23:21:33+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -81,7 +81,11 @@
         "type": "core"
       },
       {
-        "id": "core_10-10_misconduct.md",
+        "id": "core_10_a_misconduct_designation.md",
+        "type": "core"
+      },
+      {
+        "id": "core_10_b_misconduct_pattern_applications.md",
         "type": "core"
       },
       {
@@ -590,7 +594,7 @@
             ]
           },
           {
-            "file": "core_10-10_misconduct.md",
+            "file": "core_10_a_misconduct_designation.md",
             "count": 2,
             "anchors": [
               "#chapter-ten-anti-constitutional-misconduct"
@@ -964,7 +968,7 @@
             ]
           },
           {
-            "file": "core_10-10_misconduct.md",
+            "file": "core_10_a_misconduct_designation.md",
             "count": 1,
             "anchors": [
               "#4-due-process-safeguards-for-slot-assignment"
@@ -1559,16 +1563,16 @@
             "file": "core_09-09_standing_integration.md",
             "count": 6,
             "anchors": [
-              "#44-special-violation-rules",
+              "#54-special-violation-rules",
               "#81-remediation-capacity-and-funding",
               "#84-anti-evasion-and-look-through-authority"
             ]
           },
           {
-            "file": "core_10-10_misconduct.md",
+            "file": "core_10_b_misconduct_pattern_applications.md",
             "count": 6,
             "anchors": [
-              "#61-concentration-based-subversion-criteria-interaction"
+              "#51-concentration-based-subversion-criteria-interaction"
             ]
           },
           {
@@ -3194,24 +3198,30 @@
               "#3-descriptor-integration-and-attachment-normalization",
               "#42-general-standing-locks",
               "#5-lock-design-and-enforcement",
-              "#52-competency-gates",
+              "#62-competency-gates",
               "#81-remediation-capacity-and-funding",
-              "#82-remedy-organ-durability",
+              "#82-remedy-system-durability",
               "#84-anti-evasion-and-look-through-authority",
               "#9-enforcement-realism",
               "#chapter-nine-standing-effects-and-integration"
             ]
           },
           {
-            "file": "core_10-10_misconduct.md",
-            "count": 17,
+            "file": "core_10_a_misconduct_designation.md",
+            "count": 16,
             "anchors": [
               "#1-decision-framework-scope-and-authority",
               "#2-criteria-set-for-slot-assignment",
               "#3-violation-axis-s-7-9-slot-assignment-incident-gravity",
               "#4-due-process-safeguards-for-slot-assignment",
-              "#64-info-sphere-zone-flooding",
               "#chapter-ten-anti-constitutional-misconduct"
+            ]
+          },
+          {
+            "file": "core_10_b_misconduct_pattern_applications.md",
+            "count": 1,
+            "anchors": [
+              "#54-info-sphere-zone-flooding"
             ]
           },
           {
@@ -4414,7 +4424,7 @@
             ]
           },
           {
-            "file": "core_10-10_misconduct.md",
+            "file": "core_10_a_misconduct_designation.md",
             "count": 4,
             "anchors": [
               "#chapter-ten-anti-constitutional-misconduct"
@@ -4479,17 +4489,23 @@
             ]
           },
           {
-            "file": "core_10-10_misconduct.md",
-            "count": 13,
+            "file": "core_10_a_misconduct_designation.md",
+            "count": 8,
             "anchors": [
               "#4-2-prevention-anti-constitutional-locks",
               "#4-3-voluntary-public-accountability-expression-anti-constitutional",
-              "#6-criteria-interactions-and-named-pattern-routing",
-              "#62-rights-floor-waivers-and-unconstitutional-contract-terms",
-              "#63-flooding-the-zone-and-contest-pathway-denial",
-              "#64-info-sphere-zone-flooding",
-              "#69-infrastructure-denial-destruction-or-dependency-cutoff-conduct",
               "#chapter-ten-anti-constitutional-misconduct"
+            ]
+          },
+          {
+            "file": "core_10_b_misconduct_pattern_applications.md",
+            "count": 5,
+            "anchors": [
+              "#5-criteria-interactions-and-named-pattern-routing",
+              "#52-rights-floor-waivers-and-unconstitutional-contract-terms",
+              "#53-flooding-the-zone-and-contest-pathway-denial",
+              "#54-info-sphere-zone-flooding",
+              "#59-infrastructure-denial-destruction-or-dependency-cutoff-conduct"
             ]
           },
           {
@@ -4512,7 +4528,7 @@
         ]
       },
       {
-        "source": "core_10-10_misconduct.md",
+        "source": "core_10_a_misconduct_designation.md",
         "targets": [
           {
             "file": "core_00_preamble.md",
@@ -4524,6 +4540,128 @@
               "#two-constitutional-aims"
             ]
           },
+          {
+            "file": "core_01_c_stewardship_capacity_principles.md",
+            "count": 1,
+            "anchors": [
+              "#chapter-01-principles-and-constraints"
+            ]
+          },
+          {
+            "file": "core_02-03_definition_mechanics.md",
+            "count": 2,
+            "anchors": []
+          },
+          {
+            "file": "core_05a_accountability_definitions.md",
+            "count": 20,
+            "anchors": [
+              "#accountability",
+              "#accountability-a",
+              "#accountability-c",
+              "#necessity",
+              "#necessity-a",
+              "#necessity-c",
+              "#proportionality",
+              "#proportionality-a",
+              "#proportionality-c",
+              "#redress-and-remediation-constitutional",
+              "#redress-and-remediation-constitutional-a",
+              "#redress-and-remediation-constitutional-c",
+              "#restorative-justice",
+              "#restorative-justice-a",
+              "#restorative-justice-c"
+            ]
+          },
+          {
+            "file": "core_05o_oversight_definitions.md",
+            "count": 1,
+            "anchors": [
+              "#evidence-preservation"
+            ]
+          },
+          {
+            "file": "core_06-06_rights_part_d.md",
+            "count": 11,
+            "anchors": [
+              "#article-xxiii-a-justice-objective-and-scope",
+              "#article-xxiii-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints",
+              "#article-xxiii-c-least-restrictive-and-time-bounded-rule",
+              "#article-xxiii-d-emergency-measures-and-continuation-burden",
+              "#article-xxiv-b-rights-collision-procedure-and-restorative-alignment",
+              "#article-xxiv-c-timely-resolution-and-anti-delay-floor"
+            ]
+          },
+          {
+            "file": "core_08-08_standing_assessment.md",
+            "count": 5,
+            "anchors": [
+              "#7-slot-grammar-and-display-labels",
+              "#chapter-eight-compliance-violation-and-standing-model"
+            ]
+          },
+          {
+            "file": "core_09-09_standing_integration.md",
+            "count": 19,
+            "anchors": [
+              "#2-integration-record-and-decision-order",
+              "#4-violation-correction-and-prevention",
+              "#41-remedy-and-correction",
+              "#42-general-standing-locks",
+              "#43-voluntary-public-accountability-expression",
+              "#5-lock-design-and-enforcement",
+              "#51-definition-and-attachment",
+              "#54-special-violation-rules",
+              "#55-special-locks",
+              "#chapter-nine-standing-effects-and-integration"
+            ]
+          },
+          {
+            "file": "core_10_b_misconduct_pattern_applications.md",
+            "count": 36,
+            "anchors": [
+              "#5-pattern-applications-and-criteria-routing",
+              "#51-concentration-based-subversion-criteria-interaction",
+              "#510-forum-recusal-failure-and-biased-panel-participation",
+              "#52-rights-floor-waivers-and-unconstitutional-contract-terms",
+              "#53-flooding-the-zone-and-contest-pathway-denial",
+              "#54-info-sphere-zone-flooding",
+              "#55-bribery-and-improper-benefit-exchange",
+              "#56-unlawful-or-unconstitutional-command-conduct",
+              "#57-reward-protection-or-normalization-of-anti-constitutional-conduct",
+              "#58-enforcement-refusal-suppression-or-non-prosecution-conduct",
+              "#59-infrastructure-denial-destruction-or-dependency-cutoff-conduct",
+              "#chapter-ten-part-b-anti-constitutional-misconduct-pattern-applications"
+            ]
+          },
+          {
+            "file": "core_11-11_forum.md",
+            "count": 7,
+            "anchors": [
+              "#2-default-venue-and-primary-stakes",
+              "#7-escalation-and-certification",
+              "#chapter-eleven-forums-and-jurisdiction"
+            ]
+          },
+          {
+            "file": "core_12-12_governance.md",
+            "count": 1,
+            "anchors": [
+              "#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship"
+            ]
+          },
+          {
+            "file": "core_13-15_amendment.md",
+            "count": 3,
+            "anchors": [
+              "#chapter-thirteen-non-regression-and-substantive-amendment-validity"
+            ]
+          }
+        ]
+      },
+      {
+        "source": "core_10_b_misconduct_pattern_applications.md",
+        "targets": [
           {
             "file": "core_01_a_values_principles.md",
             "count": 2,
@@ -4541,20 +4679,14 @@
           },
           {
             "file": "core_01_c_stewardship_capacity_principles.md",
-            "count": 6,
+            "count": 5,
             "anchors": [
               "#11-incentive-alignment-and-system-capture",
               "#121-productive-capacity-instrumental-good",
               "#131-concentration-threshold-mechanism-adopter-tunable",
               "#132-pro-competition-and-anti-domination",
-              "#133-consolidation-ceiling",
-              "#chapter-01-principles-and-constraints"
+              "#133-consolidation-ceiling"
             ]
-          },
-          {
-            "file": "core_02-03_definition_mechanics.md",
-            "count": 2,
-            "anchors": []
           },
           {
             "file": "core_05-05_definitions_a_independent.md",
@@ -4565,7 +4697,7 @@
           },
           {
             "file": "core_05a_accountability_definitions.md",
-            "count": 120,
+            "count": 100,
             "anchors": [
               "#accountability",
               "#accountability-a",
@@ -4594,13 +4726,7 @@
               "#protected-reporting-retaliation-and-access-interference-c",
               "#protected-reporting-whistleblowing",
               "#protected-reporting-whistleblowing-a",
-              "#protected-reporting-whistleblowing-c",
-              "#redress-and-remediation-constitutional",
-              "#redress-and-remediation-constitutional-a",
-              "#redress-and-remediation-constitutional-c",
-              "#restorative-justice",
-              "#restorative-justice-a",
-              "#restorative-justice-c"
+              "#protected-reporting-whistleblowing-c"
             ]
           },
           {
@@ -4636,7 +4762,7 @@
           },
           {
             "file": "core_05o_oversight_definitions.md",
-            "count": 65,
+            "count": 64,
             "anchors": [
               "#auditability",
               "#auditability-a",
@@ -4703,70 +4829,68 @@
           },
           {
             "file": "core_06-06_rights_part_d.md",
-            "count": 13,
+            "count": 2,
             "anchors": [
               "#article-xxiii-a-justice-objective-and-scope",
-              "#article-xxiii-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints",
-              "#article-xxiii-c-least-restrictive-and-time-bounded-rule",
-              "#article-xxiii-d-emergency-measures-and-continuation-burden",
-              "#article-xxiv-b-rights-collision-procedure-and-restorative-alignment",
-              "#article-xxiv-c-timely-resolution-and-anti-delay-floor",
               "#incentive-alignment-transition-carve-out"
             ]
           },
           {
             "file": "core_08-08_standing_assessment.md",
-            "count": 6,
+            "count": 1,
             "anchors": [
-              "#7-slot-grammar-and-display-labels",
-              "#7-unified-proportional-lequ-scale",
-              "#chapter-eight-compliance-violation-and-standing-model"
+              "#7-unified-proportional-lequ-scale"
             ]
           },
           {
             "file": "core_09-09_standing_integration.md",
-            "count": 38,
+            "count": 19,
             "anchors": [
               "#10-pattern-applications-and-question-3-routing",
               "#1010-contest-pathway-or-info-sphere-flooding",
               "#1011-infrastructure-denial-or-dependency-cutoff",
               "#109-rights-floor-waiver-or-unconstitutional-contract-devices",
               "#2-integration-record-and-decision-order",
-              "#4-violation-correction-and-prevention",
-              "#41-remedy-and-correction",
               "#42-general-standing-locks",
-              "#43-voluntary-public-accountability-expression",
-              "#5-lock-design-and-enforcement",
-              "#51-definition-and-attachment",
               "#54-special-violation-rules",
               "#55-special-locks",
               "#chapter-nine-standing-effects-and-integration"
             ]
           },
           {
+            "file": "core_10_a_misconduct_designation.md",
+            "count": 34,
+            "anchors": [
+              "#2-criteria-set-for-slot-assignment",
+              "#3-violation-axis-s-7-9-slot-assignment-incident-gravity",
+              "#4-2-prevention-anti-constitutional-locks",
+              "#4-due-process-safeguards-for-slot-assignment",
+              "#5-cross-chapter-discipline",
+              "#chapter-ten-part-a-anti-constitutional-misconduct-designation"
+            ]
+          },
+          {
             "file": "core_11-11_forum.md",
-            "count": 16,
+            "count": 9,
             "anchors": [
               "#2-default-venue-and-primary-stakes",
               "#5-intake-triage-mixed-stakes-and-routing-asymmetry",
               "#6-transfer-consolidation-and-coordination",
-              "#7-escalation-and-certification",
               "#chapter-eleven-forums-and-jurisdiction"
             ]
           },
           {
             "file": "core_12-12_governance.md",
-            "count": 3,
+            "count": 2,
             "anchors": [
               "#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship"
             ]
           },
           {
             "file": "core_13-15_amendment.md",
-            "count": 4,
+            "count": 1,
             "anchors": [
-              "#chapter-fifteen-amendment-ratification-and-procedural-validity",
-              "#chapter-thirteen-non-regression-and-substantive-amendment-validity"
+              "#chapter-fifteen-amendment-ratification-and-procedural-validity"
             ]
           },
           {
@@ -4926,18 +5050,24 @@
             "anchors": [
               "#2-integration-record-and-decision-order",
               "#3-descriptor-integration-and-attachment-normalization",
-              "#43-special-locks",
+              "#55-special-locks",
               "#chapter-nine-standing-effects-and-integration"
             ]
           },
           {
-            "file": "core_10-10_misconduct.md",
-            "count": 12,
+            "file": "core_10_a_misconduct_designation.md",
+            "count": 10,
             "anchors": [
               "#3-violation-axis-s-7-9-slot-assignment-incident-gravity",
               "#4-due-process-safeguards-for-slot-assignment",
-              "#610-forum-recusal-failure-and-biased-panel-participation",
               "#chapter-ten-anti-constitutional-misconduct"
+            ]
+          },
+          {
+            "file": "core_10_b_misconduct_pattern_applications.md",
+            "count": 2,
+            "anchors": [
+              "#510-forum-recusal-failure-and-biased-panel-participation"
             ]
           },
           {
@@ -5049,7 +5179,7 @@
             ]
           },
           {
-            "file": "core_10-10_misconduct.md",
+            "file": "core_10_a_misconduct_designation.md",
             "count": 1,
             "anchors": [
               "#chapter-ten-anti-constitutional-misconduct"
@@ -6021,19 +6151,19 @@
             "count": 22,
             "anchors": [
               "#42-general-standing-locks",
-              "#43-special-locks",
-              "#44-special-violation-rules",
-              "#52-competency-gates",
-              "#7-restoration-and-reassessment",
+              "#54-special-violation-rules",
+              "#55-special-locks",
+              "#62-competency-gates",
+              "#8-restoration-and-reassessment",
               "#9-enforcement-realism",
               "#chapter-nine-standing-effects-and-integration"
             ]
           },
           {
-            "file": "core_10-10_misconduct.md",
+            "file": "core_10_b_misconduct_pattern_applications.md",
             "count": 1,
             "anchors": [
-              "#610-forum-recusal-failure-and-biased-panel-participation"
+              "#510-forum-recusal-failure-and-biased-panel-participation"
             ]
           },
           {
@@ -6261,7 +6391,7 @@
             ]
           },
           {
-            "file": "core_10-10_misconduct.md",
+            "file": "core_10_a_misconduct_designation.md",
             "count": 4,
             "anchors": [
               "#4-1-imprisonment-for-anti-constitutional-misconduct",
@@ -6438,7 +6568,7 @@
             ]
           },
           {
-            "file": "core_10-10_misconduct.md",
+            "file": "core_10_a_misconduct_designation.md",
             "count": 2,
             "anchors": [
               "#chapter-ten-anti-constitutional-misconduct"
@@ -6584,19 +6714,25 @@
             "file": "core_09-09_standing_integration.md",
             "count": 10,
             "anchors": [
-              "#6-final-standing-effect",
-              "#8-enforcement-realism",
-              "#9-chapter-ten-gateway",
+              "#2-integration-record-and-decision-order",
+              "#7-final-standing-effect",
+              "#9-enforcement-realism",
               "#chapter-nine-standing-effects-and-integration"
             ]
           },
           {
-            "file": "core_10-10_misconduct.md",
-            "count": 12,
+            "file": "core_10_a_misconduct_designation.md",
+            "count": 9,
             "anchors": [
               "#2-criteria-set-for-slot-assignment",
-              "#62-rights-floor-waivers-and-unconstitutional-contract-terms",
               "#chapter-ten-anti-constitutional-misconduct"
+            ]
+          },
+          {
+            "file": "core_10_b_misconduct_pattern_applications.md",
+            "count": 3,
+            "anchors": [
+              "#52-rights-floor-waivers-and-unconstitutional-contract-terms"
             ]
           },
           {
@@ -6748,7 +6884,7 @@
             ]
           },
           {
-            "file": "core_10-10_misconduct.md",
+            "file": "core_10_a_misconduct_designation.md",
             "count": 1,
             "anchors": [
               "#chapter-ten-anti-constitutional-misconduct"
@@ -7726,8 +7862,8 @@
             "count": 3,
             "anchors": [
               "#42-general-standing-locks",
-              "#43-special-locks",
-              "#52-competency-gates"
+              "#55-special-locks",
+              "#62-competency-gates"
             ]
           },
           {
@@ -7871,8 +8007,8 @@
             "count": 6,
             "anchors": [
               "#42-general-standing-locks",
-              "#43-special-locks",
-              "#52-competency-gates"
+              "#55-special-locks",
+              "#62-competency-gates"
             ]
           },
           {
@@ -8069,11 +8205,11 @@
             ]
           },
           {
-            "file": "core_10-10_misconduct.md",
+            "file": "core_10_b_misconduct_pattern_applications.md",
             "count": 5,
             "anchors": [
-              "#61-concentration-based-subversion-criteria-interaction",
-              "#62-rights-floor-waivers-and-unconstitutional-contract-terms"
+              "#51-concentration-based-subversion-criteria-interaction",
+              "#52-rights-floor-waivers-and-unconstitutional-contract-terms"
             ]
           },
           {
@@ -8709,7 +8845,7 @@
             "count": 2,
             "anchors": [
               "#2-integration-record-and-decision-order",
-              "#51-recency-and-currentness"
+              "#61-recency-and-currentness"
             ]
           },
           {
@@ -9615,7 +9751,7 @@
             ]
           },
           {
-            "file": "core_10-10_misconduct.md",
+            "file": "core_10_a_misconduct_designation.md",
             "count": 1,
             "anchors": [
               "#chapter-ten-anti-constitutional-misconduct"
@@ -9956,8 +10092,8 @@
             "count": 12,
             "anchors": [
               "#42-general-standing-locks",
-              "#43-special-locks",
-              "#52-competency-gates"
+              "#55-special-locks",
+              "#62-competency-gates"
             ]
           },
           {
@@ -13063,13 +13199,13 @@
             "file": "core_09-09_standing_integration.md",
             "count": 11,
             "anchors": [
-              "#43-special-locks",
-              "#52-competency-gates",
-              "#7-restoration-and-reassessment"
+              "#55-special-locks",
+              "#62-competency-gates",
+              "#8-restoration-and-reassessment"
             ]
           },
           {
-            "file": "core_10-10_misconduct.md",
+            "file": "core_10_a_misconduct_designation.md",
             "count": 2,
             "anchors": [
               "#2-criteria-set-for-slot-assignment"

@@ -21,7 +21,7 @@
 - **Ch 7:** [core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation)
 - **Ch 8:** [core_08-08_standing_assessment.md](core_08-08_standing_assessment.md)
 - **Ch 9:** [core_09-09_standing_integration.md](core_09-09_standing_integration.md)
-- **Ch 10:** [core_10-10_misconduct.md](core_10-10_misconduct.md)
+- **Ch 10:** Part A [core_10_a_misconduct_designation.md](core_10_a_misconduct_designation.md); Part B [core_10_b_misconduct_pattern_applications.md](core_10_b_misconduct_pattern_applications.md)
 - **Ch 11:** [core_11-11_forum.md](core_11-11_forum.md)
 - **Ch 12:** [core_12-12_governance.md](core_12-12_governance.md)
 - **Ch 13–15:** [core_13-15_amendment.md](core_13-15_amendment.md)

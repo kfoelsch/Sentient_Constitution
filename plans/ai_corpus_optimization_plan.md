@@ -46,7 +46,7 @@ The older per-definition JSON files under `ai_corpus/definitions/` are retained 
 | `core_05-05_definitions_c_dependent_clusters.md` | ~1,800 | Core | Chapter 5 §3 (dependent clusters) |
 | `core_08-08_standing_assessment.md` | ~880 | Core | Chapter 6 Part A (two-axis model) |
 | `core_09-09_standing_integration.md` | ~780 | Core | Chapter 6 Part B (integration, effects) |
-| `core_10-10_misconduct.md` | ~420 | Core | Chapter 7 (anti-constitutional misconduct) |
+| `core_10_a_misconduct_designation.md` | ~420 | Core | Chapter 7 (anti-constitutional misconduct) |
 | `core_11-11_forum.md` | ~380 | Core | Chapter 8 (forums, jurisdiction) |
 | `core_06-06_rights_part_a.md` | ~630 | Core | Chapter 9 Part A (Articles I-IV) |
 | `core_06-06_rights_part_b.md` | ~1,380 | Core | Chapter 9 Part B (Articles V-XI) |

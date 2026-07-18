@@ -199,7 +199,7 @@ Arbitration clauses, shell subcontractors, years of “market efficiency” defe
 | --- | --- |
 | Tetrad hollow | **Timeliness** leg hollowed independently — participation and oversight structures exist but material matters do not move |
 | Definitions | [Timeliness](core_05a_accountability_definitions.md#timeliness-constitutional); [Capture of Resolution Pathways](core_05a_accountability_definitions.md#capture-of-resolution-pathways) |
-| High-impact designation guard | If verified impact reaches Chapter Eight slot 7, 8, or 9 and conduct scales to institutional capture, [Chapter Ten](core_10-10_misconduct.md#chapter-ten-anti-constitutional-misconduct) **tetrad capture** designation review; Chapter Ten does not assign the numeric slot |
+| High-impact designation guard | If verified impact reaches Chapter Eight slot 7, 8, or 9 and conduct scales to institutional capture, [Chapter Ten](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct) **tetrad capture** designation review; Chapter Ten does not assign the numeric slot |
 
 **Must not happen:** Using allegations as verified standing inputs to buy time; backlog treated as neutral operations metric.
 

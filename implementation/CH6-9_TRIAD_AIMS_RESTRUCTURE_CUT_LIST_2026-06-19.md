@@ -74,7 +74,7 @@
 
 - `core_08-08_standing_assessment.md`
 - `core_09-09_standing_integration.md`
-- `core_10-10_misconduct.md`
+- `core_10_a_misconduct_designation.md`
 - `core_11-11_forum.md`
 - `core_00_preamble.md`
 - `core_05a_accountability_definitions.md` (Chapter One §8.10 trace)

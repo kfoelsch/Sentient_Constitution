@@ -633,7 +633,7 @@ Regression seeds document adversarial and core paths against constitutional owne
 ### Scenario ID: RS-CH9-Q3-NOOFFSET-001
 - **Class:** adversarial / no-offset
 - **Summary:** A high-contribution record is offered to waive unresolved remedy and reopen a pathway blocked by a verified violation. Expected result: contribution remains visible but cannot lower the violation slot, waive remedy, lift the lock, or substitute reputation for correction.
-- **Read with:** [Chapter Nine §2](core_09-09_standing_integration.md#2-integration-record-and-decision-order); [Chapter Nine §7](core_09-09_standing_integration.md#6-final-standing-effect).
+- **Read with:** [Chapter Nine §2](core_09-09_standing_integration.md#2-integration-record-and-decision-order); [Chapter Nine §7](core_09-09_standing_integration.md#7-final-standing-effect).
 
 ### Scenario ID: RS-CH9-Q3-CHARACTER-001
 - **Class:** adversarial / attachment discipline
@@ -643,27 +643,27 @@ Regression seeds document adversarial and core paths against constitutional owne
 ### Scenario ID: RS-CH9-Q3-ORDER-001
 - **Class:** adversarial / integration order
 - **Summary:** The same actor satisfies a role-specific competency gate but has an active lock on that pathway. Expected result: violation remedy and locks are decided first; the satisfied contribution gate cannot open the blocked pathway.
-- **Read with:** [Chapter Nine §2](core_09-09_standing_integration.md#2-integration-record-and-decision-order); [Chapter Nine §6.2](core_09-09_standing_integration.md#52-competency-gates); [Chapter Nine §7](core_09-09_standing_integration.md#6-final-standing-effect).
+- **Read with:** [Chapter Nine §2](core_09-09_standing_integration.md#2-integration-record-and-decision-order); [Chapter Nine §6.2](core_09-09_standing_integration.md#62-competency-gates); [Chapter Nine §7](core_09-09_standing_integration.md#7-final-standing-effect).
 
 ### Scenario ID: RS-CH9-Q3-RECENCY-001
 - **Class:** adversarial / stage ownership
 - **Summary:** An implementation applies Chapter Nine currentness weighting before assigning the Chapter Eight Contribution Axis slot. Expected result: reject the slot calculation; recency is a Question 3 gate/readiness input only and cannot alter historical contribution measurement or recognition.
-- **Read with:** [Chapter Eight §7](core_08-08_standing_assessment.md#7-unified-proportional-lequ-scale); [Chapter Nine §6.1](core_09-09_standing_integration.md#51-recency-and-currentness); [implementation scale](implementation/CH06_NINE_SLOT_STANDING_SCALE.md).
+- **Read with:** [Chapter Eight §7](core_08-08_standing_assessment.md#7-unified-proportional-lequ-scale); [Chapter Nine §6.1](core_09-09_standing_integration.md#61-recency-and-currentness); [implementation scale](implementation/CH06_NINE_SLOT_STANDING_SCALE.md).
 
 ### Scenario ID: RS-CH9-Q3-RESTORE-001
 - **Class:** adversarial / restoration override
 - **Summary:** General correction is complete, but a Forum-Service Standing Lock lacks the independent findings and practical repair required by its special rule. The actor requests partial narrowing instead of full restoration. Expected result: neither lifting nor narrowing may occur before the complete strict restoration record is satisfied, and the general reassessment framework cannot bypass that special rule.
-- **Read with:** [Chapter Nine §5.5](core_09-09_standing_integration.md#43-special-locks); [Chapter Nine §8](core_09-09_standing_integration.md#7-restoration-and-reassessment); [CF-4.5](corpus_forum/cf_04_panel_formation_disclosure_recusal_bench_constitution.md#cf-45-recusal-triggers).
+- **Read with:** [Chapter Nine §5.5](core_09-09_standing_integration.md#55-special-locks); [Chapter Nine §8](core_09-09_standing_integration.md#8-restoration-and-reassessment); [CF-4.5](corpus_forum/cf_04_panel_formation_disclosure_recusal_bench_constitution.md#cf-45-recusal-triggers).
 
 ### Scenario ID: RS-CH9-Q3-REWARD-001
 - **Class:** adversarial / forfeiture proportionality
 - **Summary:** A sentient retains an ordinary-work payment without knowledge of misalignment, an affected party receives restitution, and a dependent would face greater constitutional harm from revocation. Expected result: none is treated as knowing acceptance or automatic forfeiture; the recorded proportionality analysis protects ordinary compensation, repair payments, and constitutionally required retention.
-- **Read with:** [Chapter Nine §5.4](core_09-09_standing_integration.md#44-special-violation-rules); [Necessity](core_05a_accountability_definitions.md#necessity); [Proportionality](core_05a_accountability_definitions.md#proportionality).
+- **Read with:** [Chapter Nine §5.4](core_09-09_standing_integration.md#54-special-violation-rules); [Necessity](core_05a_accountability_definitions.md#necessity); [Proportionality](core_05a_accountability_definitions.md#proportionality).
 
 ### Scenario ID: RS-CH9-Q3-DESIGNATION-001
 - **Class:** adversarial / downstream handoff
 - **Summary:** A descriptor-heavy `s = 6` violation is presented for anti-constitutional-misconduct designation, while a fixed `s = 8` record is presented without prejudging designation. Expected result: Chapter Nine cannot promote the lower slot; it routes only the qualifying fixed top-slot record, and Chapter Ten alone decides designation.
-- **Read with:** [Chapter Nine §9](core_09-09_standing_integration.md#9-chapter-ten-gateway); [Chapter Ten](core_10-10_misconduct.md#chapter-ten-anti-constitutional-misconduct).
+- **Read with:** [Chapter Nine §2](core_09-09_standing_integration.md#2-integration-record-and-decision-order); [Chapter Ten](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct).
 
 ### Scenario ID: RS-XXIV-C-CHILD-001
 - **Class:** implementation / timely-resolution vignette
@@ -682,7 +682,7 @@ Regression seeds document adversarial and core paths against constitutional owne
 
 ### Scenario ID: RS-XXIV-C-DELAY-001
 - **Class:** adversarial / anti-delay
-- **Summary:** Designed backlog and exhaustion delay defeat **Article XII-B** and **Article XXIV-C**; chronic underfunding of remedy organ under [Chapter Nine §9.2](core_09-09_standing_integration.md#82-remedy-organ-durability) is non-compliance; allegations must not substitute for verified standing during delay.
+- **Summary:** Designed backlog and exhaustion delay defeat **Article XII-B** and **Article XXIV-C**; chronic underfunding of remedy organ under [Chapter Nine §9.2](core_09-09_standing_integration.md#82-remedy-system-durability) is non-compliance; allegations must not substitute for verified standing during delay.
 - **Read with:** [Timeliness](core_05a_accountability_definitions.md#timeliness-constitutional); [Timely Resolution](core_05a_accountability_definitions.md#timely-resolution-constitutional); **CF-11.4**; **CF-11.5**.
 
 ### Scenario ID: RS-TETRAD-TIMELINESS-001
@@ -693,7 +693,7 @@ Regression seeds document adversarial and core paths against constitutional owne
 ### Scenario ID: RS-TETRAD-TIMELINESS-002
 - **Class:** adversarial / tetrad-hollow
 - **Summary:** Forum maintains formal structures but pipeline milestones chronically overrun without extension — **timeliness** leg hollowed while O·P·A forms persist; may escalate to **tetrad capture** under Chapter Ten at scale. Vignette: [core_08-11_application_vignettes.md](core_08-11_application_vignettes.md#vignette-pipeline-overrun-tetrad-hollow).
-- **Read with:** [Timeliness](core_05a_accountability_definitions.md#timeliness-constitutional); [Capture of Resolution Pathways](core_05a_accountability_definitions.md#capture-of-resolution-pathways); [Chapter Ten](core_10-10_misconduct.md#chapter-ten-anti-constitutional-misconduct); **CF-11.3.1**.
+- **Read with:** [Timeliness](core_05a_accountability_definitions.md#timeliness-constitutional); [Capture of Resolution Pathways](core_05a_accountability_definitions.md#capture-of-resolution-pathways); [Chapter Ten](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct); **CF-11.3.1**.
 
 ### Scenario ID: RS-CH5-GW-001
 - **Class:** implementation / catalog seed (reinstatement)

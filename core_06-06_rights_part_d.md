@@ -98,7 +98,7 @@ Adopted governance implementation provides escalation, proportionality of interv
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter One [4.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [10.1 Core Tradeoff Principles](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), and [Chapter One §6.3 Rights-Collision Procedure](core_01_b_interaction_interpretation.md#63-rights-collision-procedure).
-- Read with: [Chapter Ten §4.2](core_10-10_misconduct.md#4-1-imprisonment-for-anti-constitutional-misconduct) (*Prevention — anti-constitutional locks*; imprisonment specialization).
+- Read with: [Chapter Ten §4.2](core_10_a_misconduct_designation.md#4-1-imprisonment-for-anti-constitutional-misconduct) (*Prevention — anti-constitutional locks*; imprisonment specialization).
 
 </details>
 
@@ -133,7 +133,7 @@ Adopted governance implementation provides escalation, proportionality of interv
   - This requirement expressly applies to sentients who refuse rehabilitation offered on fair terms.
   - It applies when less-restrictive protective measures cannot satisfy material safety necessity.
   - Substituting deprivation of life, or failing to impose imprisonment when this bullet requires it, is non-compliant. Imprisonment must satisfy all joint requirements, individualized-attribution rules, and review protections in this Article and **Article XXIII-C** (*Least-Restrictive and Time-Bounded Rule*).
-- **Imprisonment for anti-constitutional misconduct:** Governed by [Chapter Ten §4.2](core_10-10_misconduct.md#4-1-imprisonment-for-anti-constitutional-misconduct) (*Prevention — anti-constitutional locks*; imprisonment specialization), subject to the joint requirements, individualized-attribution rules, and review protections in this Article and **Article XXIII-C** (*Least-Restrictive and Time-Bounded Rule*).
+- **Imprisonment for anti-constitutional misconduct:** Governed by [Chapter Ten §4.2](core_10_a_misconduct_designation.md#4-1-imprisonment-for-anti-constitutional-misconduct) (*Prevention — anti-constitutional locks*; imprisonment specialization), subject to the joint requirements, individualized-attribution rules, and review protections in this Article and **Article XXIII-C** (*Least-Restrictive and Time-Bounded Rule*).
 - **Rights floor against irreversible deprivation of life as a justice measure:** State, operator, or comparable justice systems must not impose irreversible deprivation of life as a penalty, sanction, or public-safety disposition.
   - Where imprisonment is required, **Imprisonment for violence** under this Article and imprisonment under **Chapter Ten** §4.1 are the required protective measures; deprivation of life is prohibited.
   - This floor does not govern a sentient's own freely formed decision under **Article VII-E** (*Voluntary Discontinuation of One's Own Existence*). Coercion, relabeling, or state/operator conversion of that choice into an imposed outcome returns the matter to this floor.
@@ -299,7 +299,7 @@ This Article applies the [Constitutional Tetrad](core_00_preamble.md#constitutio
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter One [Chapter One §6.3 Rights-Collision Procedure](core_01_b_interaction_interpretation.md#63-rights-collision-procedure), [8. Prohibition on Absolute Override](#7-prohibition-on-absolute-override), and [15. Integrated Application](core_01_c_stewardship_capacity_principles.md#15-integrated-application).
-- Read with: [Chapter Nine §4.3](core_09-09_standing_integration.md#43-voluntary-public-accountability-expression) (*Voluntary public accountability expression*); [Chapter Ten §4.3](core_10-10_misconduct.md#4-3-voluntary-public-accountability-expression-anti-constitutional) (*Voluntary public accountability expression (anti-constitutional)*).
+- Read with: [Chapter Nine §4.3](core_09-09_standing_integration.md#43-voluntary-public-accountability-expression) (*Voluntary public accountability expression*); [Chapter Ten §4.3](core_10_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional) (*Voluntary public accountability expression (anti-constitutional)*).
 
 </details>
 
@@ -328,7 +328,7 @@ This Article applies the [Constitutional Tetrad](core_00_preamble.md#constitutio
     - ongoing risk;
     - material power asymmetry;
     - non-consent by affected parties.
-- **Voluntary public accountability expression:** Governed by [Chapter Nine §4.3](core_09-09_standing_integration.md#43-voluntary-public-accountability-expression) (*Voluntary public accountability expression*) generally, and by [Chapter Ten §4.3](core_10-10_misconduct.md#4-3-voluntary-public-accountability-expression-anti-constitutional) (*Voluntary public accountability expression (anti-constitutional)*) for verified anti-constitutional misconduct, subject to the rights-collision and restorative-alignment rules in this Article.
+- **Voluntary public accountability expression:** Governed by [Chapter Nine §4.3](core_09-09_standing_integration.md#43-voluntary-public-accountability-expression) (*Voluntary public accountability expression*) generally, and by [Chapter Ten §4.3](core_10_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional) (*Voluntary public accountability expression (anti-constitutional)*) for verified anti-constitutional misconduct, subject to the rights-collision and restorative-alignment rules in this Article.
 <a id="article-xxiv-c-timely-resolution-and-anti-delay-floor"></a>
 #### Article XXIV-C: Timely Resolution and Anti-Delay Floor
 <details>

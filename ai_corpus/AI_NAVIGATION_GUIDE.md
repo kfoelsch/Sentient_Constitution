@@ -159,7 +159,8 @@ Step 3: Run `make ai-corpus-sync`
 | core_05-05_definitions_c_dependent_clusters.md | ~1,800 | Dependent definition clusters |
 | core_08-08_standing_assessment.md | ~880 | Two-axis standing model |
 | core_09-09_standing_integration.md | ~780 | Standing effects, integration |
-| core_10-10_misconduct.md | ~420 | Anti-constitutional misconduct |
+| core_10_a_misconduct_designation.md | ~410 | Anti-constitutional misconduct — designation (Part A) |
+| core_10_b_misconduct_pattern_applications.md | ~630 | Anti-constitutional misconduct — pattern applications (Part B) |
 | core_11-11_forum.md | ~380 | Forums, jurisdiction |
 | core_06-06_rights_part_a.md | ~630 | Articles I-IV |
 | core_06-06_rights_part_b.md | ~1,380 | Articles V-XI |
