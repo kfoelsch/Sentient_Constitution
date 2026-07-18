@@ -152,7 +152,26 @@ Only **this chapter** may issue a final **anti-constitutional misconduct** desig
 Evaluators must also apply the following:
 
 - Artificial fragmentation of one pattern to manipulate anti-constitutional misconduct outcomes is prohibited.
-- Where **section 6.3** (*Flooding the zone*) and **section 6.4** (*Info-sphere zone flooding*) overlap, assess on a **unified record** under the unified-incident rule in this section and **section 3** (*Violation Axis s = 7–9 designation*).
+- Where **section 6.3** (*Flooding the zone*) and **section 6.4** (*Info-sphere zone flooding*) overlap, assess on a **unified record** under the unified-incident rule in this section.
+
+**Single catastrophic incident** means a **unified incident** that, viewed as a whole, causes or imminently threatens one of the following:
+
+- Loss or suspension of this Constitution’s operative authority as law.
+- Material population-scale loss of constitutionally required contestability or Rights-Floor continuity.
+- Other constitutional harm of comparable magnitude within survival-relevant or system-relevant time horizons.
+
+**Sustained high-gravity pattern** means one **unified incident** made of conduct that keeps going, repeats, or is systematically reinforced, and whose combined harm is serious. That harm may show up as:
+
+- material weakening of constitutional protections;
+- blocked or chilled challenge rights;
+- Rights-Floor degradation;
+- correction delayed past practical remedy;
+- or an equivalent structural workaround.
+
+The pattern qualifies when either:
+
+- it continues after a fair chance to fix the problem in good faith, where a fix was possible; or
+- it reaches the same level of seriousness through institutional scale, capture, or staying power — even without one catastrophic moment.
 
 **Criteria 1–4** usually show up in cases about changing the Constitution, handling official records, or attacking validity rules. **Criteria 5** and **6** cover forcible takeover of constitutional authority and making constitutional process or remedies unusable in practice. Assess every criterion the facts actually support together on the same **unified incident** record:
 
@@ -179,25 +198,15 @@ Do not count the same conduct as both **criterion 5** and **criterion 6** unless
 - Criteria interactions: [§6.1](#61-concentration-based-subversion-criteria-interaction); [§6.2](#62-rights-floor-waivers-and-unconstitutional-contract-terms); [§6.3](#63-flooding-the-zone-and-contest-pathway-denial); [§6.4](#64-info-sphere-zone-flooding); [§6.5](#65-bribery-and-improper-benefit-exchange); [§6.6](#66-unlawful-or-unconstitutional-command-conduct); [§6.7](#67-reward-protection-or-normalization-of-anti-constitutional-conduct); [§6.8](#68-enforcement-refusal-suppression-or-non-prosecution-conduct); [§6.9](#69-infrastructure-denial-destruction-or-dependency-cutoff-conduct); [§6.10](#610-forum-recusal-failure-and-biased-panel-participation).
 - Downstream: [§4](#4-due-process-safeguards-for-slot-assignment) (*Due-process safeguards for designation*), [§4.1](#4-1-imprisonment-for-anti-constitutional-misconduct) (*Imprisonment for anti-constitutional misconduct*), [§4.2](#4-2-restitution-remedy-priority-and-consequence-integration) (*Restitution, remedy priority, and consequence integration*), [§4.3](#4-3-voluntary-public-accountability-expression) (*Voluntary public accountability expression*), and [§5](#5-cross-chapter-discipline) (*Cross-chapter discipline*).
 - Downstream forums: [Chapter Eleven](core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) [§3](core_11-11_forum.md#2-default-venue-and-primary-stakes) gives the Integrity default lead where final Chapter Ten designation is the primary stake. [Chapter Eleven §8](core_11-11_forum.md#7-escalation-and-certification) covers forum certification and independent review for final designation.
-- Read with: [Chapter Eight](core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) — **Chapters Thirteen through Fifteen** do not supply final Chapter Ten designation; Chapter Eight's unified proportional LEQU scale supplies the fixed impact slot, while this section supplies designation only.
+- Read with: [Chapter Eight](core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) — Chapter Eight's unified proportional LEQU scale supplies the fixed impact slot, while this section supplies designation only; [§5](#5-cross-chapter-discipline) for the Chapters Thirteen through Fifteen boundary.
 
 </details>
 
 <br>
 
-*In plain terms: the numeric slot already reflects proportional LEQU impact. This section decides whether the incident also attacked constitutional validity, operation, Rights Floors, or the Tetrad in the way required for an anti-constitutional designation.*
+*In plain terms: Chapter Eight has already scored how serious the harm is. This section only asks a further question: did the same incident also attack the Constitution’s validity, day-to-day operation, Rights Floors, or the Tetrad badly enough to count as anti-constitutional misconduct?*
 
-**Chapters Thirteen through Fifteen** do not supply final anti-constitutional misconduct designation for conduct within their scope. **No** other pathway may substitute for this chapter's designation decision.
-
-**Single catastrophic incident** means a **unified incident** that, viewed as a whole, causes or imminently threatens one of the following:
-
-- Loss or suspension of this Constitution’s operative authority as law.
-- Material population-scale loss of constitutionally required contestability or Rights-Floor continuity.
-- Other constitutional harm of comparable magnitude within survival-relevant or system-relevant time horizons.
-
-**Sustained high-gravity pattern** means a **unified incident** made of continuing, repeated, or systematically reinforced conduct whose aggregate gravity is high. That gravity may appear as material rollback, blocked or chilled challenge rights, Rights-Floor degradation, delayed correction beyond practical remedy, or an equivalent structural workaround. The pattern must either continue after a reasonable opportunity for good-faith cure where cure is feasible, or reach comparable severity through institutional scale, capture, or durability even without a single catastrophic moment.
-
-**Designation matched to the existing impact slot.** Chapter Eight's top three neutral impact labels remain controlling whether or not this chapter's designation is established. When the criteria are established, the corresponding designation follows the already assigned slot:
+Only **this chapter** may decide whether anti-constitutional misconduct applies. No other process may stand in for that decision. The designation, when established, follows Chapter Eight’s already assigned impact score. Those top three impact labels stay in place either way — and the matching designation uses the slot already assigned:
 
 | Existing `s` | Chapter Eight impact label | Chapter Ten designation, if established |
 | ---: | --- | --- |
@@ -205,9 +214,33 @@ Do not count the same conduct as both **criterion 5** and **criterion 6** unless
 | 8 | **Grave Constitutional Impact** | **Grave anti-constitutional misconduct** |
 | 9 | **Catastrophic Constitutional Impact** | **Catastrophic anti-constitutional misconduct** |
 
-The designation attaches when the **unified incident** materially implicates one or more **section 2** criteria on a verified record and the **section 4** safeguards are met. The adjective follows the existing impact slot; criterion count, intent, coercion, pattern, or institutional character does not move the finding between slots. A single catastrophic incident, a sustained high-gravity pattern, criterion 5, or criterion 6 may establish designation eligibility, but Chapter Eight LEQU impact alone controls whether the underlying finding is `s` = 7, 8, or 9.
+The designation attaches when both of the following are true:
 
-A final designation triggers mandatory heightened review, [Evidence Preservation](core_05o_oversight_definitions.md#evidence-preservation), published remediation controls, proportional sanctions or remediation where confirmed, and the applicable Chapter Nine standing integration. Catastrophic designation requires maximum constitutional safeguards, remedy priority for affected parties, and anti-capture oversight because the underlying impact is `s` = 9—not because character independently escalated the slot.
+- the **unified incident** meets one or more **section 2** criteria on a verified record; and
+- the **section 4** process safeguards are satisfied.
+
+Once it attaches:
+
+- the seriousness label (Serious, Grave, or Catastrophic) follows the impact score Chapter Eight already assigned;
+- how many criteria apply, and facts about intent, coercion, pattern, or institutional character, do **not** move the finding between slots;
+- a single catastrophic incident, a sustained high-gravity pattern, criterion 5, or criterion 6 may make the designation eligible; and
+- only Chapter Eight’s impact score decides whether the underlying finding is `s` = 7, 8, or 9.
+
+A final designation requires:
+
+- heightened review;
+- [Evidence Preservation](core_05o_oversight_definitions.md#evidence-preservation);
+- published remediation controls;
+- proportional sanctions or repair where confirmed; and
+- the matching Chapter Nine standing consequences.
+
+A Catastrophic designation also requires:
+
+- the strongest constitutional safeguards;
+- remedy priority for people harmed; and
+- anti-capture oversight —
+
+because the underlying impact is already `s` = 9, not because character somehow raised the score.
 
 <a id="chapter-eight-part-c-oversight-safeguards"></a>
 <a id="4-due-process-safeguards-for-slot-assignment"></a>
@@ -250,7 +283,7 @@ No final **anti-constitutional misconduct designation** under this chapter may b
 
 - **Imprisonment for anti-constitutional misconduct:** After final designation under **section 3** with **section 4** safeguards met, sentients with verified anti-constitutional misconduct must be imprisoned when imprisonment is necessary to stop further constitutional harm — including conduct that functions as insurgency within the general population.
   - This requirement expressly applies to sentients who refuse rehabilitation offered on fair terms.
-  - It applies to repeated or sustained patterns assessed as a unified incident under **section 3**.
+  - It applies to repeated or sustained patterns assessed as a unified incident under **section 2**.
   - **Section 3** decides whether the misconduct is verified and how serious it is; this section decides whether imprisonment is required. Imprisonment must still satisfy **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*) joint requirements, individualized attribution, and challenge and appeal protections, and **Article XXIII-C** (*Least-Restrictive and Time-Bounded Rule*) duration, review, restoration, and re-evaluation discipline in **Chapter Six Part D**.
   - Substituting deprivation of life, release, administrative relabeling, or lesser measures alone when this section requires imprisonment is non-compliant.
 

@@ -1816,7 +1816,7 @@ This cluster is the joint-invocation home for contribution state, standing recor
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Canonical owner: [Chapter Ten §2](core_10-10_misconduct.md#2-criteria-set-for-slot-assignment) and [§11](core_10-10_misconduct.md#3-violation-axis-s-7-9-slot-assignment-incident-gravity).
+- Canonical owner: [Chapter Ten §2](core_10-10_misconduct.md#2-criteria-set-for-slot-assignment).
 - Read with: the [Standing State, Contribution, and Violation cluster](core_05p_participation_definitions.md#standing-state-contribution-and-violation-cluster), [Top-Slot Review](core_05a_accountability_definitions.md#top-slot-review), [Unified Record](core_05a_accountability_definitions.md#unified-record), [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination), [System Boundaries](core_05c_continuity_definitions.md#system-boundaries), [System Boundary Integrity](core_05c_continuity_definitions.md#system-boundary-integrity), and [Accountability](core_05a_accountability_definitions.md#accountability).
 
 </details>
@@ -1872,7 +1872,7 @@ This cluster is the joint-invocation home for contribution state, standing recor
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Canonical owner: [Chapter Ten §3](core_10-10_misconduct.md#3-violation-axis-s-7-9-slot-assignment-incident-gravity) (*incident gravity*).
+- Canonical owner: [Chapter Ten §2](core_10-10_misconduct.md#2-criteria-set-for-slot-assignment) (*incident shapes for designation*).
 - Read with: the [Standing State, Contribution, and Violation cluster](core_05p_participation_definitions.md#standing-state-contribution-and-violation-cluster), [Top-Slot Review](core_05a_accountability_definitions.md#top-slot-review), [Unified Incident](core_05a_accountability_definitions.md#unified-incident), [Violation Nature](core_05a_accountability_definitions.md#violation-nature-chapter-six), [Irreversible Harm](core_05a_accountability_definitions.md#irreversible-harm), the Chapter Six Rights Floor, and [Constitutional Constraint Violation](core_05i_integrative_definitions.md#constitutional-constraint-violation).
 
 </details>
@@ -1900,7 +1900,7 @@ This cluster is the joint-invocation home for contribution state, standing recor
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Canonical owner: [Chapter Ten §3](core_10-10_misconduct.md#3-violation-axis-s-7-9-slot-assignment-incident-gravity) (*incident gravity*).
+- Canonical owner: [Chapter Ten §2](core_10-10_misconduct.md#2-criteria-set-for-slot-assignment) (*incident shapes for designation*).
 - Read with: the [Standing State, Contribution, and Violation cluster](core_05p_participation_definitions.md#standing-state-contribution-and-violation-cluster), [Top-Slot Review](core_05a_accountability_definitions.md#top-slot-review), [Unified Incident](core_05a_accountability_definitions.md#unified-incident), [Unified Record](core_05a_accountability_definitions.md#unified-record), Chapter Ten criterion 3 (*Material rollback effect*), [System Capture](core_05c_continuity_definitions.md#system-capture), [Review and Correction Duty](core_05c_continuity_definitions.md#review-and-correction-duty-constitutional), and [Accountability](core_05a_accountability_definitions.md#accountability).
 
 </details>
