@@ -48,7 +48,7 @@ Irreversible restrictive outcomes are prohibited where feasible reversible resti
 ### 6. Voluntary public accountability expression
 Where restorative pathways include public acknowledgment or apology, systems must enforce voluntariness and authenticity controls.
 
-Those controls are specified in **Chapter Ten** §4.3 and **CJS-5.13** (*procedural integrity and adjudication terms*), and include non-coercive consent, revocability up to delivery, independent review of voluntariness and authenticity, and negative justice consequences for materially inauthentic or abusive expression.
+Those controls are specified in **Chapter Nine** §4.3 (*Voluntary public accountability expression*), **Chapter Ten** §4.3 (*Voluntary public accountability expression (anti-constitutional)*) where anti-constitutional misconduct is designated, and **CJS-5.13** (*procedural integrity and adjudication terms*), and include non-coercive consent, revocability up to delivery, independent review of voluntariness and authenticity, and negative justice consequences for materially inauthentic or abusive expression.
 
 Refusal may **not** independently escalate baseline sanctions.
 
