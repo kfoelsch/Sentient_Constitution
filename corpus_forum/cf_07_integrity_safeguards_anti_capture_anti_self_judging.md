@@ -654,7 +654,7 @@ Institutional internal integrity process may precede Integrity forum adjudicatio
 - protected escalation or evidence access is obstructed;
 - retaliation, concealment, or capture allegations require independent merits review;
 - cross-institution deadlock or dependency makes local resolution unreliable;
-- a Chapter Ten slot-classification, Rights-Floor, system-recognition, or public-trust consequence requires forum-level verification.
+- a Chapter Ten designation, Rights-Floor, system-recognition, or public-trust consequence requires forum-level verification.
 
 Where internal process remains available, the forum record must state what issues are stayed, what issues proceed, what evidence must be preserved, and what deadline or trigger returns the matter to the forum if the internal process fails.
 

@@ -606,7 +606,7 @@ Feedback integration and effectiveness verification
 Realignment resistance and dissolution-review trigger floor
 - OP-O: Repeated, verified anti-constitutional misconduct, chronic misalignment, or realignment resistance must trigger structural review that can escalate to constrained authority, supervised operation, dissolution, disbandment, or equivalent owner-layer consequence where lesser measures cannot protect constitutional obligations.
 - OP-E: Evaluation must verify whether obstruction, concealment, retaliation, strategic delay, evidence destruction, metric gaming, dependency lock-in, or structural workaround persists after a reasonable opportunity for good-faith cure, and whether continuity-transfer safeguards preserve rights, services, records, and active challenge pathways during any escalation.
-- OP-C: It is non-compliant to treat persistent realignment resistance as ordinary delay, to use dissolution review as a substitute for the owner-file misconduct slot assignment or personal accountability process, or to dissolve or disband a structure without continuity safeguards for affected rights, services, records, and challenge pathways.
+- OP-C: It is non-compliant to treat persistent realignment resistance as ordinary delay, to use dissolution review as a substitute for the owner-file anti-constitutional-misconduct designation or personal accountability process, or to dissolve or disband a structure without continuity safeguards for affected rights, services, records, and challenge pathways.
 
 Stakeholder scope and targeted transparency
 - OP-O: Systems must define clear, contestable stakeholder criteria for disclosure, audit access, and accountability, expanding scope as class, impact, dependency, CUL level, or propagation risk rises.
