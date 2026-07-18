@@ -18,7 +18,7 @@
 
 > The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations.
 >
-> Read this chapter in order: immutable Chapter Eight inputs; integration record and decision order; descriptor integration and attachment normalization; violation, correction, and prevention; lock design and enforcement (definition and attachment, proportionality and calibration, record visibility and escalation, special violation rules, and special locks); contribution consequences; final standing effect; restoration and reassessment; enforcement realism; Chapter Ten gateway; named applications.
+> Read this chapter in order: immutable Chapter Eight inputs; integration record and decision order; descriptor integration and attachment normalization; violation, correction, and prevention; lock design and enforcement (definition and attachment, proportionality and calibration, record visibility and escalation, special violation rules, and special locks); contribution consequences (recency and currentness, then competency gates); final standing effect; restoration and reassessment; enforcement realism; Chapter Ten gateway; named applications.
 
 </details>
 
@@ -277,10 +277,10 @@ Design a lock in this order:
 - Make it no broader than the risk requires ([§5.2](#52-proportionality-and-calibration)).
 - Put the terms in plain view and keep a review path ([§5.3](#53-record-visibility-and-escalation)).
 - Apply any special violation rules that shape that attachment ([§5.4](#54-special-violation-rules)).
-- Apply any mandatory special locks, using the same attachment fields ([§5.5](#53-special-locks)).
+- Apply any mandatory special locks, using the same attachment fields ([§5.5](#55-special-locks)).
 - Past good work does not cancel a verified harm, skip repair, or open a locked pathway—that no-offset rule lives in [Chapter Eight §2.2](core_08-08_standing_assessment.md#22-linked-records-and-no-offset-bridge) and applies here.
 - [§4](#4-violation-correction-and-prevention) already says contribution does not decide locks.
-- What contribution can do later is covered in [§6](#6-contribution-consequences-second) and [§8](#7-restoration-and-reassessment).
+- What contribution can do later is covered in [§6](#6-contribution-consequences-second) and [§8](#8-restoration-and-reassessment).
 
 <a id="51-definition-and-attachment"></a>
 #### 5.1 Definition and attachment
@@ -321,7 +321,7 @@ Special violation rules and special locks later in this section do not replace t
 
 Lock design must weigh the risks being reduced and the conditions that raise them, including pathway sensitivity, unresolved remedy and safeguard gaps, recurrence after notice or remediation, ongoing safety risk, role asymmetry, concealment or evasion, diffusion of control, institutional enablement, forum-integrity injury, cross-jurisdiction continuity, reviewability, and practical time to correction.
 
-The resulting lock must be needed for risk reduction, proportionate, no broader than required, and time-bounded where the protected purpose permits. Calibration may tighten or narrow scope as those conditions change, but may not convert the lock into punishment, reputation scoring, or a substitute for remedy and correction owed under [§4.1](#41-remedy-and-correction). Special locks under [§5.5](#53-special-locks) still must meet their own corrective conditions; calibration may not waive a mandatory special lock.
+The resulting lock must be needed for risk reduction, proportionate, no broader than required, and time-bounded where the protected purpose permits. Calibration may tighten or narrow scope as those conditions change, but may not convert the lock into punishment, reputation scoring, or a substitute for remedy and correction owed under [§4.1](#41-remedy-and-correction). Special locks under [§5.5](#55-special-locks) still must meet their own corrective conditions; calibration may not waive a mandatory special lock.
 
 <a id="55-record-visibility-and-escalation"></a>
 <a id="53-record-visibility-and-escalation"></a>
@@ -329,7 +329,7 @@ The resulting lock must be needed for risk reduction, proportionate, no broader 
 <a id="133-record-visibility-and-escalation"></a>
 #### 5.3 Record visibility and escalation
 
-The integration record must say, in plain view, for each lock—including each special lock under [§5.5](#53-special-locks):
+The integration record must say, in plain view, for each lock—including each special lock under [§5.5](#55-special-locks):
 
 - which pathway or pathways are blocked or limited;
 - what risk and protected interests justify the lock;
@@ -339,7 +339,7 @@ The integration record must say, in plain view, for each lock—including each s
 - what happens if delay or noncompliance occurs; and
 - what triggers reassessment.
 
-Locks must remain auditable and contestable while active. Escalation on delay, evasion, or noncompliance must preserve the same inspectable record. Restoration and reassessment conditions are stated under [§8](#7-restoration-and-reassessment); practical enforceability is verified under [§9](#8-enforcement-realism).
+Locks must remain auditable and contestable while active. Escalation on delay, evasion, or noncompliance must preserve the same inspectable record. Restoration and reassessment conditions are stated under [§8](#8-restoration-and-reassessment); practical enforceability is verified under [§9](#9-enforcement-realism).
 
 <a id="54-special-violation-rules"></a>
 <a id="52-special-violation-rules"></a>
@@ -547,20 +547,65 @@ These locks are mandatory when their verified trigger is met. Each must be recor
 <a id="11-positive-standing-recognition"></a>
 ### 6. Contribution consequences second
 
-Verified contribution may support positive recognition and readiness only after violation, correction, and prevention have been assigned. Recognition must be evidence-backed, contestable, reviewable, non-monopolistic, and available on equal standards to informal, unpaid, peer-organized, mutual-aid, maintenance, repair, teaching, and community-stewardship work.
+*In plain terms: after violation, correction, and prevention are assigned under [§4](#4-violation-correction-and-prevention) and [§5](#5-lock-design-and-enforcement), this section asks what verified contribution may still do. It may support recognition and readiness for pathways that are not locked. It never offsets a verified harm, cancels a lock, or opens a blocked pathway.*
+
+This section starts from verified Chapter Eight contribution records that apply to the decision. From those records it asks two things:
+
+- how current the contribution still is; and
+- whether any competency gate for an open pathway is met.
+
+Past good work does not set the remedy, the correction duties, the safeguards, or the locks under [§4](#4-violation-correction-and-prevention) and [§5](#5-lock-design-and-enforcement). Good work also cannot cancel or balance out a verified harm—that [no-offset rule](core_08-08_standing_assessment.md#22-linked-records-and-no-offset-bridge) from Chapter Eight still applies.
+
+Decide contribution consequences in this order:
+
+- Confirm recognition eligibility: recognition must be evidence-backed, contestable, reviewable, non-monopolistic, and available on equal standards to informal, unpaid, peer-organized, mutual-aid, maintenance, repair, teaching, and community-stewardship work.
+- Apply recency and currentness ([§6.1](#61-recency-and-currentness)).
+- Apply competency gates for pathways not blocked by a lock ([§6.2](#62-competency-gates)).
+- Hand off each pathway outcome to [§7](#7-final-standing-effect); restoration and reassessment remain under [§8](#8-restoration-and-reassessment).
 
 <a id="61-recency-and-currentness"></a>
 <a id="51-recency-and-currentness"></a>
 <a id="contribution-recency-weighting"></a>
 #### 6.1 Recency and currentness
 
+*In plain terms: how much does an older verified contribution still say about present competence and reliability? The system answers that automatically for Question 3 readiness. No one has to re-weigh ordinary contributions by hand. Manual review starts only when a contribution is contested. Recency does not rewrite Chapter Eight measurement, and time alone does not cure an unresolved violation.*
+
 Recency is strictly a **Question 3 gate and readiness input**. It does not change a Chapter Eight contribution standing record, Contribution Axis slot, LEQU measurement, descriptor, or historical recognition.
 
-For a current trust-, role-, authority-, oversight-, or recognition-sensitive decision, each verified contribution is assessed for how probative it remains of present competence and reliability. Unless a more role-specific published rule is stricter and constitutionally valid, current standing weight uses a 10-year half-life, calculated by whole days:
+For a current trust-, role-, authority-, oversight-, or recognition-sensitive decision, the standing system must **automatically** calculate currentness weight for each applicable verified contribution. No additional manual approval is required for an uncontested contribution when verified inputs and the published formula (or a stricter published role-specific rule) produce a determinate result. The process must run seamlessly unless the contribution—or the inputs used to weight it—is contested, uncertain, or otherwise requires review under [§2](#2-integration-record-and-decision-order).
+
+Unless a more role-specific published rule is stricter and constitutionally valid, current standing weight uses a 10-year half-life, calculated by whole days:
 
 `currentness weight = 2^(-days / 3652.5)`
 
-Apply the weight to each contribution separately. After 50 years, a contribution remains in the historical record but supplies no current gate weight. Continuing or maintained contribution may be evidenced by current records rather than treated as a single old event. No recency rule applies to unresolved violation: passage of time alone does not correct, remedy, supersede, or resolve it.
+Illustrative weights at whole-year ages (exact day counts may differ slightly):
+
+| Age (years) | Currentness weight |
+|---:|---:|
+| 0 | 1.000 |
+| 5 | 0.707 |
+| 10 | 0.500 |
+| 15 | 0.354 |
+| 20 | 0.250 |
+| 25 | 0.177 |
+| 30 | 0.125 |
+| 35 | 0.088 |
+| 40 | 0.063 |
+| 45 | 0.044 |
+| 50+ | none (historical only) |
+
+The system applies the weight to each contribution separately. After 50 years, a contribution remains in the historical record but supplies no current gate weight. Continuing or maintained contribution may be evidenced by current records rather than treated as a single old event. No recency rule applies to unresolved violation: passage of time alone does not correct, remedy, supersede, or resolve it.
+
+When a contribution or its currentness inputs are contested, the system must still assemble and preserve the automatic calculation, route the contest for authorized review, and keep the result inspectable. Contest does not erase the historical contribution record.
+
+The automatically calculated integration record displays, for each contribution used as a currentness input:
+
+- which contribution record and version;
+- the age or continuing-status basis used;
+- the resulting currentness weight;
+- whether the weight was produced automatically or after contest review;
+- whether the contribution is historical-only for gate purposes; and
+- whether a stricter published role-specific rule applied.
 
 <a id="62-competency-gates"></a>
 <a id="52-competency-gates"></a>
@@ -587,13 +632,51 @@ Apply the weight to each contribution separately. After 50 years, a contribution
 <a id="20-contribution-measurement-pointer--question-2-lives-in-chapter-eight"></a>
 #### 6.2 Competency gates
 
-A **competency gate** is a published, auditable, contestable readiness threshold for a named pathway. It may use current verified contribution, demonstrated skill, relevant experience, training, role-specific qualification, and observed reliability. Thresholds must fit role impact, dependency, and foreseeable risk.
+*In plain terms: a competency gate asks whether someone is ready for a named pathway. It uses current verified contribution and other demonstrated readiness inputs. Satisfying a gate never opens a pathway that a standing lock still blocks.*
+
+A **competency gate** is a published readiness check for a named pathway. Anyone affected must be able to see the rule, check how it was applied, and challenge it if it is wrong. In short, it asks: is this sentient ready for this role or access?
+
+A gate may look at:
+
+- current verified contribution;
+- demonstrated skill;
+- relevant experience;
+- training;
+- role-specific qualification; and
+- observed reliability.
+
+How hard the gate is must match:
+
+- how much the role can affect others;
+- how much others depend on it; and
+- how serious the foreseeable risk is if the sentient is not ready.
+
+**Examples.** A peer mutual-aid coordinator may need shown reliability in shared care work, not a formal degree. A water-system or critical-infrastructure operator may need role-specific training plus recent demonstrated skill. A forum panelist or certifier may need verified impartiality-relevant experience and current qualification for that pathway. Teaching, maintenance, repair, and community-stewardship records can satisfy a gate when they show the same readiness a formal credential would.
 
 A gate must not become arbitrary gatekeeping, opaque credentialism, reputation substitution, social-prestige screening, insider sponsorship, formal-channel monopoly, or exclusion by inaccessible specialization. Equivalent demonstrability standards apply to formal and informal experience.
 
-Gate design must identify pathway sensitivity, skill and experience fit, role proportionality, currentness, contribution-to-role relevance, inclusive access, review route, and reassessment trigger. A satisfied gate never creates permanent entitlement.
+Every gate must be designed so the integration record can identify:
 
-An applicable standing lock controls. Gate satisfaction cannot open a blocked pathway, waive the Rights Floor, erase a violation, replace remedy or correction, or lower a Violation Axis slot.
+- the named pathway and its sensitivity;
+- skill and experience fit;
+- role proportionality;
+- currentness;
+- contribution-to-role relevance;
+- inclusive access;
+- the review route; and
+- the reassessment trigger.
+
+A satisfied gate never creates permanent entitlement.
+
+The integration record must say, in plain view, for each gate result:
+
+- whether the gate is satisfied, not satisfied, or satisfied only with named safeguards;
+- which verified contribution and other readiness inputs were used;
+- how currentness under [§6.1](#61-recency-and-currentness) affected the result;
+- who may contest or review the gate, and by what route; and
+- what triggers reassessment.
+
+An applicable standing lock under [§4.2](#42-general-standing-locks) and [§5](#5-lock-design-and-enforcement) controls. Gate satisfaction cannot open a blocked pathway, waive the Rights Floor, erase a violation, replace remedy or correction, or lower a Violation Axis slot. Pathway outcomes after gates are stated under [§7](#7-final-standing-effect).
 
 <a id="7-final-standing-effect"></a>
 <a id="6-final-standing-effect"></a>
