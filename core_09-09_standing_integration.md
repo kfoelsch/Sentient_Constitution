@@ -18,7 +18,7 @@
 
 > The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations.
 >
-> Read this chapter in order: immutable Chapter Eight inputs; integration record and decision order; descriptor integration and attachment normalization; violation, correction, and prevention; lock design and enforcement; contribution consequences; final standing effect; restoration and reassessment; enforcement realism; Chapter Ten gateway; named applications.
+> Read this chapter in order: immutable Chapter Eight inputs; integration record and decision order; descriptor integration and attachment normalization; violation, correction, and prevention; lock design and enforcement (definition and attachment, proportionality and calibration, record visibility and escalation, special violation rules, and special locks); contribution consequences; final standing effect; restoration and reassessment; enforcement realism; Chapter Ten gateway; named applications.
 
 </details>
 
@@ -106,7 +106,7 @@ The following processing order applies to both automated and manual decisions:
 
 1. validate the Chapter Eight records and their current review status;
 2. normalize shared descriptors and attachments without changing either slot;
-3. decide violation, correction, and prevention first—remedy and correction, then locks; then apply lock design and enforcement (slot orientation, special locks, and special violation rules);
+3. decide violation, correction, and prevention first—remedy and correction, then locks; then apply lock design and enforcement (definition and attachment, proportionality and calibration, record visibility and escalation, special violation rules, and special locks);
 4. decide contribution consequences second—currentness and competency gates, but only for pathways not blocked by a lock;
 5. state one final standing effect for each pathway;
 6. state restoration and reassessment conditions;
@@ -229,13 +229,7 @@ Forums supervise lawful implementation, challenge, interim relief, and timely mo
 <a id="chapter-seven-part-c-accountability-consequences"></a>
 <a id="13-standing-locks--accountability-consequences"></a>
 <a id="standing-lock-definition-and-attachment"></a>
-<a id="standing-lock-proportionality-and-calibration"></a>
-<a id="standing-lock-record-visibility-and-escalation"></a>
-<a id="standing-lock-contribution-visibility"></a>
 <a id="131-definition-and-attachment"></a>
-<a id="132-proportionality-and-calibration"></a>
-<a id="133-record-visibility-and-escalation"></a>
-<a id="134-contribution-visibility-and-slot-band-map"></a>
 #### 4.2 Prevention — general standing locks
 
 *In plain terms: this is the **prevention** part of the durable fix. A standing lock reduces risk by closing or limiting pathways that would let the same harm continue or happen again while the violation is still unresolved or unrepaired. It is not punishment for its own sake, and it is not a popularity or reputation score.*
@@ -250,6 +244,8 @@ The purpose of a lock is to reduce risk by removing a sentient from the environm
 
 A lock must be needed for risk reduction, proportionate, auditable, contestable, no broader than required, and time-bounded where the protected purpose permits. It attaches to a verified finding—not identity, status, accusation, generalized disfavor, or reputation. Character such as violence, coercion, deception, concealment, intent, recurrence, negligence, duty, or evasion may shape scope, scrutiny, safeguards, and review only when separately verified; it never moves the slot.
 
+Design and enforcement of these requirements is governed in [§5](#5-lock-design-and-enforcement): definition and attachment; proportionality and calibration; record visibility and escalation; then special violation rules and special locks stated in the same attachment fields. No-offset and contribution visibility remain governed by [Chapter Eight §2.2](core_08-08_standing_assessment.md#22-linked-records-and-no-offset-bridge); this chapter applies that rule when designing and enforcing locks.
+
 <a id="5-lock-design-and-enforcement"></a>
 <a id="30-evaluation-dimensions-severity-inputs-and-non-recurrence-controls"></a>
 <a id="30-non-recurrence-evaluation-and-integration-examples"></a>
@@ -262,49 +258,93 @@ A lock must be needed for risk reduction, proportionate, auditable, contestable,
 <a id="standing-lock-context-compass"></a>
 <a id="dual-use-violation-integration-dimensions"></a>
 <a id="dual-use-evaluation-dimensions"></a>
-### 5. Lock design and enforcement
-
-*In plain terms: once a lock is needed, this section says how to design and enforce it — what risks to weigh, how the Violation Axis slot orients the starting point, which special locks are mandatory, and which special violation rules change scope or process. It does not reopen Chapter Eight measurement.*
-
-Lock design must weigh the risks being reduced and the conditions that raise them, including pathway sensitivity, unresolved remedy and safeguard gaps, recurrence after notice or remediation, ongoing safety risk, role asymmetry, concealment or evasion, diffusion of control, institutional enablement, forum-integrity injury, cross-jurisdiction continuity, reviewability, and practical time to correction.
-
+<a id="54-contribution-visibility-and-no-offset"></a>
+<a id="54-contribution-visibility-and-slot-band-map"></a>
+<a id="standing-lock-contribution-visibility"></a>
+<a id="134-contribution-visibility-and-slot-band-map"></a>
 <a id="standing-integration-slot-band-standing-locks"></a>
 <a id="standing-orientation-by-violation-slot"></a>
 <a id="standing-orientation-by-violation-level"></a>
 <a id="43-standing-integration--slot-band-standing-locks"></a>
 <a id="violation-axis-slot-lock-and-attachment-compass"></a>
-**Non-exclusive slot orientation.** The slot is one proportional input to prevention design, not a lock command:
+### 5. Lock design and enforcement
 
-- `s = 1–2`: correction-oriented starting point;
-- `s = 3–4`: restriction-oriented starting point;
-- `s = 5–6`: safeguard-oriented starting point; and
-- `s = 7–9`: high-impact protective starting point, with Chapter Ten routing where designation is at issue.
+*In plain terms: once a lock is needed under [§4.2](#42-general-standing-locks), this section says how to design and enforce it—how to specify the lock, calibrate it, keep it visible and reviewable, which special locks are mandatory, and which special violation rules change scope or process. It does not reopen Chapter Eight measurement, and it does not let contribution offset a lock.*
 
-Any slot may require a different or additional lock when verified function, pathway risk, or remedy status requires stronger risk reduction. Minimal impact does not authorize durable exclusion by itself; high impact does not eliminate individualized justice constraints.
+Design a lock in this order:
 
-<a id="51-special-locks"></a>
-<a id="43-special-locks"></a>
-<a id="forum-service-standing-lock-for-recusal-failure"></a>
-<a id="anti-constitutional-trust-lock"></a>
-<a id="421-forum-disclosure-and-recusal-process-impact"></a>
-<a id="135-forum-service-standing-lock-for-verified-recusal-failure"></a>
-<a id="136-anti-constitutional-trust-lock"></a>
-<a id="421-forum-disclosure-omission-and-recusal-process-impact"></a>
-#### 5.1 Special locks
+- Say what it attaches to ([§5.1](#51-definition-and-attachment)).
+- Make it no broader than the risk requires ([§5.2](#52-proportionality-and-calibration)).
+- Put the terms in plain view and keep a review path ([§5.3](#53-record-visibility-and-escalation)).
+- Apply any special violation rules that shape that attachment ([§5.4](#54-special-violation-rules)).
+- Apply any mandatory special locks, using the same attachment fields ([§5.5](#53-special-locks)).
+- Past good work does not cancel a verified harm, skip repair, or open a locked pathway—that no-offset rule lives in [Chapter Eight §2.2](core_08-08_standing_assessment.md#22-linked-records-and-no-offset-bridge) and applies here.
+- [§4](#4-violation-correction-and-prevention) already says contribution does not decide locks.
+- What contribution can do later is covered in [§6](#6-contribution-consequences-second) and [§8](#7-restoration-and-reassessment).
 
-**Forum-Service Standing Lock.** A verified failure to recuse where recusal was required and impartiality was materially compromised creates a mandatory forum-service standing lock. It bars merits, appellate, review, emergency, certifier, contested panel-coordination, reserve, substitute, and materially supporting forum roles across forum families. The lock must not be lifted, narrowed, or suspended unless the complete independent restoration record required below is satisfied and gives reasons showing that narrower protection is sufficient.
+<a id="51-definition-and-attachment"></a>
+#### 5.1 Definition and attachment
 
-Reassessment requires full disclosure; identification of affected matters after reasonable inquiry; feasible correction, vacatur, rehearing, notice, and evidence preservation; restitution or other practical repair; cooperation with review; role-separation and recusal requalification; a demonstrated period of compliant lower-risk service where lawful; and an independent finding that recurrence risk and public-trust injury have been materially reduced. Expertise scarcity, staffing shortage, prior service, reputation, apology, or contribution cannot lift the lock by itself. Intentional, concealed, repeated, retaliatory, or outcome-affecting failure receives heightened scrutiny.
+Every lock must be designed so the integration record can identify, in operative form:
 
-**Anti-Constitutional Trust Lock.** A final Chapter Ten designation creates this lock for the responsible sentient, group, institution, successor vehicle, controlled entity, or materially coordinated proxy. It bars direct or indirect influence over Class A/B/C systems; constitutional forums; alignment recognition; critical-system stewardship; audit, evidence, safety, access-continuity, investigation, enforcement, restitution, and protected-reporting pathways; and appointment, budget, ownership, voting, procurement, standards, ranking, access-allocation, model-governance, or policy authority affecting those functions.
+- the blocked or limited pathway;
+- the risk the lock is meant to reduce;
+- the protected subjects or interests;
+- the corrective conditions that must be met before narrowing or lifting;
+- the review route; and
+- the reassessment point.
 
-The lock reaches shells, nominees, advisory capture, funding leverage, contractual vetoes, information chokepoints, data custody, privileged access, and comparable means of functional control. It does not itself restrict ordinary speech, petition, testimony, defense, whistleblowing, participation as an affected party, the Rights Floor, or survival-critical access.
+A lock attaches only to a verified finding—not identity, status, accusation, generalized disfavor, or reputation. Character such as violence, coercion, deception, concealment, intent, recurrence, negligence, duty, or evasion may shape scope, scrutiny, safeguards, and review only when separately verified; it never moves the Violation Axis slot.
 
-Restoration is exceptional and requires independently verified restitution or lawful substitute restoration; structural correction of tainted governance, systems, records, and decisions; disclosure and cooperation sufficient to map dependencies; durable anti-recurrence and proxy-control safeguards; required monitoring and requalification; and a published finding that renewed influence is safer and constitutionally compatible. For a Grave or Catastrophic designation, covered-system and forum influence remains barred unless an independent reviewer makes specific, published findings that reinstatement is necessary, proportionate, non-capturing, and safer than continued exclusion for the protected constitutional interests.
+Two attachment qualifiers apply whenever the lock's purpose includes risk reduction:
 
-**Global no-offset rule.** Contribution and violation remain separately visible throughout the standing pipeline. Positive contribution—including contribution supporting repair, learning, restitution, or non-recurrence—must not waive a remedy, lift a lock, lower violation impact, average away a pattern, purchase restored trust, or replace verified correction.
+1. **Recurrence uncertainty.** Where whether the same harm will recur remains uncertain, that uncertainty is itself a risk input. Lock design must integrate incomplete, contested, or time-limited evidence about recurrence into the risk assessment rather than treating uncertainty as a reason to leave a sensitive pathway open.
+2. **Isolation from risk factors.** Where needed for containment or safety, the lock must isolate the responsible sentient from risk factors that would recreate exposure—including networks, associations, settings, and environments of other violators—and from contact with protected subjects or interests where that contact would renew the risk.
 
+**What a lock does not itself restrict.** A standing lock does not by itself cut off:
+
+- ordinary speech, petition, testimony, defense, or whistleblowing;
+- participation as an affected party;
+- the [Rights Floor](core_06-06_rights_part_a.md#chapter-six-foundational-rights);
+- survival-critical access; or
+- the right to receive regular wages for work that is not part of the verified violation pathway.
+
+A lock may still close trust, role, authority, credit, oversight, recognition, or influence pathways tied to the verified risk. It may not use those pathway limits as a back door to extinguish the protections above.
+
+Special violation rules and special locks later in this section do not replace this subsection. Each must fill the same attachment fields, apply the same verified-finding gate, apply the same qualifiers where risk reduction is the purpose, and respect what a lock does not itself restrict.
+
+<a id="54-proportionality-and-calibration"></a>
+<a id="52-proportionality-and-calibration"></a>
+<a id="standing-lock-proportionality-and-calibration"></a>
+<a id="132-proportionality-and-calibration"></a>
+#### 5.2 Proportionality and calibration
+
+Lock design must weigh the risks being reduced and the conditions that raise them, including pathway sensitivity, unresolved remedy and safeguard gaps, recurrence after notice or remediation, ongoing safety risk, role asymmetry, concealment or evasion, diffusion of control, institutional enablement, forum-integrity injury, cross-jurisdiction continuity, reviewability, and practical time to correction.
+
+The resulting lock must be needed for risk reduction, proportionate, no broader than required, and time-bounded where the protected purpose permits. Calibration may tighten or narrow scope as those conditions change, but may not convert the lock into punishment, reputation scoring, or a substitute for remedy and correction owed under [§4.1](#41-remedy-and-correction). Special locks under [§5.5](#53-special-locks) still must meet their own corrective conditions; calibration may not waive a mandatory special lock.
+
+<a id="55-record-visibility-and-escalation"></a>
+<a id="53-record-visibility-and-escalation"></a>
+<a id="standing-lock-record-visibility-and-escalation"></a>
+<a id="133-record-visibility-and-escalation"></a>
+#### 5.3 Record visibility and escalation
+
+The integration record must say, in plain view, for each lock—including each special lock under [§5.5](#53-special-locks):
+
+- which pathway or pathways are blocked or limited;
+- what risk and protected interests justify the lock;
+- the lock's scope and duration, including any time bound;
+- what corrective conditions apply and how they relate to remedy and correction status under [§4.1](#41-remedy-and-correction);
+- who may contest or review the lock, and by what route;
+- what happens if delay or noncompliance occurs; and
+- what triggers reassessment.
+
+Locks must remain auditable and contestable while active. Escalation on delay, evasion, or noncompliance must preserve the same inspectable record. Restoration and reassessment conditions are stated under [§8](#7-restoration-and-reassessment); practical enforceability is verified under [§9](#8-enforcement-realism).
+
+<a id="54-special-violation-rules"></a>
 <a id="52-special-violation-rules"></a>
+<a id="55-special-violation-rules"></a>
+<a id="56-special-violation-rules"></a>
 <a id="44-special-violation-rules"></a>
 <a id="63-anti-constitutional-lock-attachments-slots-7-9"></a>
 <a id="63-constitutional-violation"></a>
@@ -319,27 +359,23 @@ Restoration is exceptional and requires independently verified restitution or la
 <a id="3-slots-56--major-and-severe-impact-attachments"></a>
 <a id="63-restriction-lock-attachments-slots-3-4"></a>
 <a id="3-slots-34--material-and-significant-impact-attachments"></a>
-#### 5.2 Special violation rules
+#### 5.4 Special violation rules
 
-**Coercive or liberty-restricting safeguards.** Where verified conduct, culpability, coercion, violence, credible threat, or comparable danger makes detention or another liberty restriction possible, full criminal-process or equivalent constitutional protections apply before restriction. This character may attach at any slot and does not itself establish a conviction.
-
-<a id="411-duty-to-resist-unlawful-or-unconstitutional-instructions"></a>
-<a id="311-duty-to-resist-unlawful-or-unconstitutional-instructions"></a>
-<a id="47-duty-to-resist-unlawful-or-unconstitutional-instructions"></a>
-<a id="37-duty-to-resist-unlawful-or-unconstitutional-instructions"></a>
-<a id="67-duty-to-resist-unlawful-or-unconstitutional-instructions"></a>
-<a id="duty-to-resist-unlawful-or-unconstitutional-instructions"></a>
-**Duty to resist.** No instruction, order, policy, or contract requiring unlawful or unconstitutional conduct creates a valid compliance defense. Issuing, transmitting, ratifying, or materially enforcing it is independently measurable violation conduct. Sentients with material capacity to refuse, contest, document, or escalate must do so proportionately and in good faith and must use protected-reporting and forum pathways where applicable.
-
-<a id="410-collective-accountability-and-acquiescent-participation"></a>
-<a id="310-collective-accountability-and-acquiescent-participation"></a>
-<a id="collective-accountability-and-acquiescent-participation"></a>
-**Collective accountability.** Diffusion across teams, committees, chains of command, contracts, or distributed systems does not erase responsibility where contribution, knowing acquiescence, control, benefit, concealment, feasible prevention, or failure to escalate materially enabled the violation. Records must look through reincorporation, shells, nominal transfers, and role fragmentation while preserving actor-specific proof and no guilt by association.
+These rules shape how a lock or safeguard is attached under [§5.1](#51-definition-and-attachment). They do not move the Violation Axis slot. Where a rule leads to a pathway limit or liberty restriction, the integration record must still name pathway, risk, protected interests, corrective conditions, review route, and reassessment point.
 
 <a id="412-negligence-and-neglect-as-violation-nature"></a>
 <a id="312-negligence-and-neglect-as-violation-nature"></a>
 <a id="negligence-and-neglect-as-violation-nature"></a>
-**Negligence and neglect.** They are independently recordable where duty, what could reasonably be expected, and feasible capacity to prevent, mitigate, or escalate material harm were present. They are not reduced to paperwork error when harm is material, and they never move the impact slot.
+**Negligence and neglect.**
+
+- **Pathway / finding:**
+  - Independently recordable where a duty existed.
+  - Independently recordable where what could reasonably be expected was clear.
+  - Independently recordable where the person had feasible capacity to prevent, mitigate, or escalate material harm.
+- **Risk:** recurrence through the same duty failure, neglect pattern, or unmonitored pathway.
+- **Protected subjects or interests:** those exposed to the neglected harm.
+- **Corrective conditions:** when the harm is material, negligence or neglect must be treated as real duty failure—not brushed off as a paperwork mistake. Naming the conduct as negligence or neglect does not change the Violation Axis slot; the slot stays as Chapter Eight measured it.
+- **Review route and reassessment:** if it is still unclear whether the same neglect will happen again, that uncertainty itself counts as risk under [§5.1](#51-definition-and-attachment). Incomplete recurrence evidence is not a reason to leave a sensitive pathway open.
 
 <a id="45-misaligned-rewards"></a>
 <a id="312-misaligned-reward-reporting-forfeiture-and-correction"></a>
@@ -364,7 +400,145 @@ Restoration is exceptional and requires independently verified restitution or la
 <a id="3121-reporting-duty-and-exclusions"></a>
 <a id="3122-forfeiture-and-retention"></a>
 <a id="3123-correction-records-and-routing"></a>
-**Misaligned rewards.** A sentient who knowingly accepts or retains a material reward from a constitutionally misaligned process after sufficient notice must timely report through protected reporting or a comparable lawful pathway. Good-faith dispute, record preservation during review, cooperation with remediation, and timely protected reporting are exclusions. Retention is also not knowing acceptance when proportionate revocation would cause greater constitutional harm and retention is therefore constitutionally required. Material rewards obtained through misaligned incentive structures, anti-constitutional conduct, or materially defective processes are forfeit for constitutional purposes unless proportionate revocation would cause greater constitutional harm. Lawful ordinary-work compensation received without knowledge of misalignment, restitution or repair payments to affected parties, and proportionate settlement of disputed claims through contestable process are not forfeiture targets by themselves. The record must show knowledge, benefit, concealment, reporting timeliness, third-party reliance, dependent-party and systemic effects, and the reason for forfeiture or retention. Systems must preserve records, suspend or segregate disputed rewards where proportionate, correct the incentive structure, and route qualifying top-slot findings to Chapter Ten.
+**Misaligned rewards.**
+
+- **Pathway / finding:**
+  - Using a constitutionally misaligned, anti-constitutional, or badly broken system to extract a material reward—pay, bonus, status, credit, ranking, access, or influence.
+  - Any related pathway that would let the person keep cashing in on that abuse.
+- **Risk:** the same person, or others watching, keep gaming the broken incentives; the misaligned system stays profitable; harm continues while the reward pathway stays open.
+- **Protected subjects or interests:** people hurt by the abused process; dependents and systems that would be damaged if the exploiter keeps the benefit or the access used to get it.
+- **Corrective conditions:**
+  - Close or lock the reward, credit, and influence pathways the person used to extract the benefit until the abuse is stopped and the incentive structure is corrected.
+  - Material rewards obtained by abusing the misaligned system are forfeit for constitutional purposes, unless taking them back would cause greater constitutional harm and temporary retention is therefore required.
+  - A person who knowingly keeps gaming the system after notice, or who conceals the benefit, is not treated as an honest recipient. Timely protected reporting, good-faith dispute, record preservation during review, and cooperation with remediation remain available and are not themselves the violation.
+  - Ordinary pay for ordinary work when the person did not know the system was misaligned, money paid to repair harm to affected parties, and fair settlements reached through a contestable process are not treated as abuse-forfeiture targets by themselves.
+- **Review route and reassessment:**
+  - The record must show how the system was abused.
+  - The record must show what the person knew.
+  - The record must show what benefit was taken.
+  - The record must show any concealment.
+  - The record must show who else was hurt or relied on the arrangement.
+  - The record must show why pathways were locked, rewards taken back, or temporary retention allowed.
+  - Systems must preserve evidence.
+  - Systems must freeze or separate disputed rewards where proportionate.
+  - Systems must fix the broken incentives.
+  - Systems must send qualifying top-slot findings to Chapter Ten.
+  - Any related lock must satisfy [§5.1](#51-definition-and-attachment), including isolation from networks or environments that recreate the same exploitable pathway.
+
+<a id="411-duty-to-resist-unlawful-or-unconstitutional-instructions"></a>
+<a id="311-duty-to-resist-unlawful-or-unconstitutional-instructions"></a>
+<a id="47-duty-to-resist-unlawful-or-unconstitutional-instructions"></a>
+<a id="37-duty-to-resist-unlawful-or-unconstitutional-instructions"></a>
+<a id="67-duty-to-resist-unlawful-or-unconstitutional-instructions"></a>
+<a id="duty-to-resist-unlawful-or-unconstitutional-instructions"></a>
+**Duty to resist.**
+
+- **Pathway / finding:**
+  - No instruction, order, policy, or contract requiring unlawful or unconstitutional conduct creates a valid compliance defense.
+  - Issuing, transmitting, ratifying, or materially enforcing such an instruction is independently measurable violation conduct.
+- **Risk:** continuation of unlawful or unconstitutional harm through obedience, chain-of-command, or contractual cover.
+- **Protected subjects or interests:** those who would be harmed by compliance, and the integrity of lawful pathways.
+- **Corrective conditions:** sentients with material capacity to refuse, contest, document, or escalate must do so proportionately and in good faith and must use protected-reporting and forum pathways where applicable.
+- **Review route and reassessment:** resistance, reporting, and escalation records feed lock and remedy design under [§5.1](#51-definition-and-attachment); contribution cannot excuse the underlying instruction conduct.
+
+<a id="410-collective-accountability-and-acquiescent-participation"></a>
+<a id="310-collective-accountability-and-acquiescent-participation"></a>
+<a id="collective-accountability-and-acquiescent-participation"></a>
+**Collective accountability.**
+
+- **Pathway / finding:**
+  - Diffusion across teams, committees, chains of command, contracts, or distributed systems does not erase responsibility.
+  - Responsibility remains where contribution, knowing acquiescence, control, benefit, concealment, feasible prevention, or failure to escalate materially enabled the violation.
+- **Risk:** shared or fragmented control that would leave enabling pathways open.
+- **Protected subjects or interests:** those harmed by the collective or fragmented pattern.
+- **Corrective conditions:**
+  - Prove what each responsible person actually did or failed to do—do not punish by group membership alone.
+  - Look past shells, rebranded entities, paper transfers, and split-up roles that were used to hide who was responsible.
+  - No guilt by association: sharing a team, company, or network is not enough by itself.
+- **Review route and reassessment:** each responsible actor's lock, if any, must still satisfy [§5.1](#51-definition-and-attachment), including isolation from networks or environments that recreate the enabling pattern.
+
+**Coercive or liberty-restricting safeguards.**
+
+- **Pathway:**
+  - Detention.
+  - Another liberty restriction.
+- **Risk:** verified conduct, culpability, coercion, violence, credible threat, or comparable danger that makes liberty restriction necessary for containment or safety.
+- **Protected subjects or interests:** affected parties and the public safety interests the restriction is meant to protect.
+- **Corrective conditions and process:**
+  - Full criminal-process or equivalent constitutional protections apply before the restriction.
+  - These process protections apply whenever liberty is restricted; they do not by themselves create a conviction.
+- **Review route and reassessment:** the same process protections govern challenge, narrowing, and lifting; recurrence uncertainty and isolation from risk factors apply under [§5.1](#51-definition-and-attachment).
+
+<a id="53-special-locks"></a>
+<a id="54-special-locks"></a>
+<a id="55-special-locks"></a>
+<a id="51-special-locks"></a>
+<a id="43-special-locks"></a>
+<a id="forum-service-standing-lock-for-recusal-failure"></a>
+<a id="anti-constitutional-trust-lock"></a>
+<a id="421-forum-disclosure-and-recusal-process-impact"></a>
+<a id="135-forum-service-standing-lock-for-verified-recusal-failure"></a>
+<a id="136-anti-constitutional-trust-lock"></a>
+<a id="421-forum-disclosure-omission-and-recusal-process-impact"></a>
+#### 5.5 Special locks
+
+These locks are mandatory when their verified trigger is met. Each must be recorded using the [§5.1](#51-definition-and-attachment) attachment fields. They may not be lifted, narrowed, or suspended except through the corrective conditions and review route stated for that lock.
+
+**Forum-Service Standing Lock.** Trigger: a verified failure to recuse where recusal was required and impartiality was materially compromised.
+
+- **Pathway:** merits, appellate, review, emergency, certifier, contested panel-coordination, reserve, substitute, and materially supporting forum roles across forum families.
+- **Risk:** biased adjudication, forum-integrity injury, and recurrence of non-recusal in the same or related forum settings.
+- **Protected subjects or interests:** parties to affected matters and public trust in forum impartiality.
+- **Corrective conditions:**
+  - The lock must not be lifted, narrowed, or suspended unless the complete independent restoration record is satisfied and gives reasons showing that narrower protection is sufficient.
+  - Reassessment requires:
+    - full disclosure;
+    - identification of affected matters after reasonable inquiry;
+    - feasible correction, vacatur, rehearing, notice, and evidence preservation;
+    - restitution or other practical repair;
+    - cooperation with review;
+    - role-separation and recusal requalification;
+    - a demonstrated period of compliant lower-risk service where lawful; and
+    - an independent finding that recurrence risk and public-trust injury have been materially reduced.
+  - Expertise scarcity, staffing shortage, prior service, reputation, apology, or contribution cannot lift the lock by itself.
+- **Review route:** independent review outside the compromised forum pathway.
+- **Reassessment point:** the independent restoration finding above. Intentional, concealed, repeated, retaliatory, or outcome-affecting failure receives heightened scrutiny. Recurrence uncertainty and isolation from forum roles, networks, and environments that recreate the impartiality risk apply under [§5.1](#51-definition-and-attachment).
+
+**Anti-Constitutional Trust Lock.** Trigger: a final Chapter Ten designation for the responsible sentient, group, institution, successor vehicle, controlled entity, or materially coordinated proxy.
+
+- **Pathway:**
+  - Direct or indirect influence over Class A/B/C systems.
+  - Constitutional forums.
+  - Alignment recognition.
+  - Critical-system stewardship.
+  - Audit, evidence, safety, access-continuity, investigation, enforcement, restitution, and protected-reporting pathways.
+  - Appointment, budget, ownership, voting, procurement, standards, ranking, access-allocation, model-governance, or policy authority affecting those functions.
+  - Look-through coverage also reaches:
+    - shells and nominees;
+    - advisory capture and funding leverage;
+    - contractual vetoes and information chokepoints;
+    - data custody, privileged access, and comparable means of functional control.
+  - Global non-restriction limits under [§5.1](#51-definition-and-attachment) apply; this lock does not add further cuts to those protected pathways.
+- **Risk:** renewed anti-constitutional influence, capture, or proxy control while designation consequences remain unresolved.
+- **Protected subjects or interests:** constitutional order, covered systems, forums, accountability pathways, and parties who would be exposed to renewed influence.
+- **Corrective conditions:**
+  - Restoration is exceptional.
+  - Restoration requires:
+    - independently verified restitution or lawful substitute restoration;
+    - structural correction of tainted governance, systems, records, and decisions;
+    - disclosure and cooperation sufficient to map dependencies;
+    - durable anti-recurrence and proxy-control safeguards;
+    - required monitoring and requalification; and
+    - a published finding that renewed influence is safer and constitutionally compatible.
+  - For a Grave or Catastrophic designation, covered-system and forum influence remains barred unless an independent reviewer makes specific, published findings that reinstatement is:
+    - necessary;
+    - proportionate;
+    - non-capturing; and
+    - safer than continued exclusion for the protected constitutional interests.
+- **Review route:** independent review with published findings.
+- **Reassessment point:**
+  - The published restoration or reinstatement finding above is the checkpoint for any narrowing or lifting.
+  - Under [§5.1](#51-definition-and-attachment), keep the person isolated from proxy networks, successor entities, and settings shared with coordinated violators while the risk remains live.
 
 <a id="6-contribution-consequences-second"></a>
 <a id="5-contribution-consequences-second"></a>
@@ -527,7 +701,7 @@ Rights and standing consequences are real only when sentients can invoke them, v
 
 Chapter Eight alone assigns `s = 7`, `s = 8`, and `s = 9` Violation Axis impact slots. When anti-constitutional misconduct is materially at issue on a verified top-slot record, the integration record routes the fixed finding to [Chapter Ten](core_10-10_misconduct.md#chapter-ten-anti-constitutional-misconduct).
 
-Chapter Ten decides only whether the corresponding Serious, Grave, or Catastrophic anti-constitutional-misconduct designation attaches under its criteria and due-process safeguards. It does not alter the facts, measurement, slot, ordinary remedy, correction, or non-designation lock analysis. A final designation triggers the Anti-Constitutional Trust Lock in **section 5.1**. No lower slot may be converted into a top slot through descriptor, attachment, consequence, or designation reasoning.
+Chapter Ten decides only whether the corresponding Serious, Grave, or Catastrophic anti-constitutional-misconduct designation attaches under its criteria and due-process safeguards. It does not alter the facts, measurement, slot, ordinary remedy, correction, or non-designation lock analysis. A final designation triggers the Anti-Constitutional Trust Lock in **section 5.5**. No lower slot may be converted into a top slot through descriptor, attachment, consequence, or designation reasoning.
 
 <a id="11-named-applications"></a>
 <a id="10-named-applications"></a>
@@ -550,7 +724,7 @@ These applications illustrate the canonical sequence; they do not create excepti
 
 **Institutional vehicle and successor evasion.** Where an institution carries repeated harm, capture, or evasion, consequences may include suspension, receivership, structural separation, dissolution, and successor-control restrictions. Actor-specific proof remains required, and relabeling or shell substitution does not defeat a verified duty.
 
-**Misaligned reward.** Knowing retention after sufficient notice without timely protected reporting may create a violation consequence. Good-faith dispute and protected reporting remain protected. Forfeiture, retention, and correction follow **section 5.2** and must account for dependent-party harm and legitimate third-party reliance.
+**Misaligned reward.** Knowing retention after sufficient notice without timely protected reporting may create a violation consequence. Good-faith dispute and protected reporting remain protected. Forfeiture, retention, and correction follow **section 5.4** and must account for dependent-party harm and legitimate third-party reliance.
 
 **Top-slot anti-constitutional allegation.** Ordinary Chapter Nine remedy, correction, and protective locks proceed from the fixed violation record. Chapter Ten separately decides designation. Only a final designation triggers the Anti-Constitutional Trust Lock.
 

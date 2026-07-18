@@ -404,7 +404,7 @@ A **full-life-equivalent constitutional benefit** means verified benefit compara
 - externalized harm or concealed burden caps or disqualifies benefit attributed to the disputed pathway;
 - verified capture risk, structural dependency, or exit / lock-in design limits stewardship-positive credit;
 - verified accessibility or participation-barrier repair may increase materiality and support the **Access and Inclusion** benefit-route descriptor under **section 4.3**; and
-- a material reward obtained through a constitutionally misaligned incentive structure, anti-constitutional conduct, or materially defective process is not countable benefit by default. Apply [Chapter Nine §5.2](core_09-09_standing_integration.md#44-special-violation-rules) and the transition limit in [Article XXVI-A](core_06-06_rights_part_d.md#incentive-alignment-transition-carve-out).
+- a material reward obtained through a constitutionally misaligned incentive structure, anti-constitutional conduct, or materially defective process is not countable benefit by default. Apply [Chapter Nine §5.4](core_09-09_standing_integration.md#44-special-violation-rules) and the transition limit in [Article XXVI-A](core_06-06_rights_part_d.md#incentive-alignment-transition-carve-out).
 
 **Q2 outputs (record in the contribution standing record; not standing effects).**
 
@@ -439,9 +439,9 @@ Do **not** split LEQU into parallel ecological, system, or resource benefit scor
 - violence, coercion, manipulation, or liberty danger remain separately recorded and may require heightened safeguards regardless of slot;
 - diffusion concerns distributed causal role, authority, control, foreseeability, benefit, concealment, or feasible prevention capacity; it is not part of **sentient scope** and does not permit blame by group membership;
 - acquiescent participation or failure to resist may support duty-based, aggravated, or collective-accountability character only when the actor-specific linkage required by **sections 3.1 and 3.3** is verified; and
-- knowing acceptance or retention of a material misaligned reward without timely protected reporting is recorded under [Chapter Nine §5.2](core_09-09_standing_integration.md#44-special-violation-rules), subject to [Article XXVI-A](core_06-06_rights_part_d.md#incentive-alignment-transition-carve-out); only its verified constitutional loss affects the slot.
+- knowing acceptance or retention of a material misaligned reward without timely protected reporting is recorded under [Chapter Nine §5.4](core_09-09_standing_integration.md#44-special-violation-rules), subject to [Article XXVI-A](core_06-06_rights_part_d.md#incentive-alignment-transition-carve-out); only its verified constitutional loss affects the slot.
 
-**Misaligned-reward boundary.** This chapter only measures how a verified misaligned reward affects the Contribution Axis or Violation Axis. [Chapter Nine §5.2](core_09-09_standing_integration.md#44-special-violation-rules) states the reporting duty, exclusions, forfeiture consequences, correction duties, and routing rules.
+**Misaligned-reward boundary.** This chapter only measures how a verified misaligned reward affects the Contribution Axis or Violation Axis. [Chapter Nine §5.4](core_09-09_standing_integration.md#44-special-violation-rules) states the reporting duty, exclusions, forfeiture consequences, correction duties, and routing rules.
 
 **Q2 outputs (record in the violation standing record; not standing effects).**
 
@@ -536,7 +536,7 @@ Do **not** split violation-side LEQU into parallel ecological-harm, system-harm,
 | **Deception / concealment / evasion** | Violation conduct-character application in **§4.2** | [Chapter Nine §4.2](core_09-09_standing_integration.md#42-general-standing-locks) — concealment / evasion escalated lock |
 | **Violence / coercion / liberty danger** | Violation conduct-character application in **§4.2** and **Violent Misconduct** in **§4.4** | [Chapter Nine §4.2](core_09-09_standing_integration.md#42-general-standing-locks) — protective and safeguard locks |
 | **Persistence / pattern / recurrence after notice** | Violation conduct-character application in **§4.2** | [Chapter Nine §4.2](core_09-09_standing_integration.md#42-general-standing-locks) — recurrence-persistence lock |
-| **Forum-integrity injury** | Violation conduct-character application in **§4.2** | [Chapter Nine §5.1](core_09-09_standing_integration.md#43-special-locks) — forum-integrity standing-lock effects |
+| **Forum-integrity injury** | Violation conduct-character application in **§4.2** | [Chapter Nine §5.5](core_09-09_standing_integration.md#43-special-locks) — forum-integrity standing-lock effects |
 | **Diffusion of responsibility or control** | Violation conduct-character application in **§4.2**; actor-specific linkage under **§§3.1 and 3.3** | [Chapter Nine §4.2](core_09-09_standing_integration.md#42-general-standing-locks) — broader pathway scope or institutional-vehicle consideration |
 | **System / structural enablement** | Contribution conduct-quality application in **§4.1**; violation conduct character in **§4.2** and **System Misconduct** in **§4.4** | [Chapter Nine §6.2](core_09-09_standing_integration.md#52-competency-gates) and [Chapter Nine §4.2](core_09-09_standing_integration.md#42-general-standing-locks) — delegation safeguards or institutional-vehicle locks |
 | **Acquiescent participation / failure to resist** | Violation conduct-character application in **§4.2** | [Chapter Nine §4.2](core_09-09_standing_integration.md#42-general-standing-locks) — pathway-scope and recurrence-persistence effects |

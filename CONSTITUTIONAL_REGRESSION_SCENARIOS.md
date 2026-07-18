@@ -653,12 +653,12 @@ Regression seeds document adversarial and core paths against constitutional owne
 ### Scenario ID: RS-CH9-Q3-RESTORE-001
 - **Class:** adversarial / restoration override
 - **Summary:** General correction is complete, but a Forum-Service Standing Lock lacks the independent findings and practical repair required by its special rule. The actor requests partial narrowing instead of full restoration. Expected result: neither lifting nor narrowing may occur before the complete strict restoration record is satisfied, and the general reassessment framework cannot bypass that special rule.
-- **Read with:** [Chapter Nine §5.1](core_09-09_standing_integration.md#43-special-locks); [Chapter Nine §8](core_09-09_standing_integration.md#7-restoration-and-reassessment); [CF-4.5](corpus_forum/cf_04_panel_formation_disclosure_recusal_bench_constitution.md#cf-45-recusal-triggers).
+- **Read with:** [Chapter Nine §5.5](core_09-09_standing_integration.md#43-special-locks); [Chapter Nine §8](core_09-09_standing_integration.md#7-restoration-and-reassessment); [CF-4.5](corpus_forum/cf_04_panel_formation_disclosure_recusal_bench_constitution.md#cf-45-recusal-triggers).
 
 ### Scenario ID: RS-CH9-Q3-REWARD-001
 - **Class:** adversarial / forfeiture proportionality
 - **Summary:** A sentient retains an ordinary-work payment without knowledge of misalignment, an affected party receives restitution, and a dependent would face greater constitutional harm from revocation. Expected result: none is treated as knowing acceptance or automatic forfeiture; the recorded proportionality analysis protects ordinary compensation, repair payments, and constitutionally required retention.
-- **Read with:** [Chapter Nine §5.2](core_09-09_standing_integration.md#44-special-violation-rules); [Necessity](core_05a_accountability_definitions.md#necessity); [Proportionality](core_05a_accountability_definitions.md#proportionality).
+- **Read with:** [Chapter Nine §5.4](core_09-09_standing_integration.md#44-special-violation-rules); [Necessity](core_05a_accountability_definitions.md#necessity); [Proportionality](core_05a_accountability_definitions.md#proportionality).
 
 ### Scenario ID: RS-CH9-Q3-DESIGNATION-001
 - **Class:** adversarial / downstream handoff
