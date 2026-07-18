@@ -242,7 +242,7 @@ Trust claims must remain consistent with **CJS-3.2** (*No false partial complian
 
 Use this rule for **CJS-R18** (*Class-scaled lane staffing and competency redundancy for materially binding stewardship*), class-scaled lane staffing and competency redundancy for materially binding stewardship. It covers roles with materially binding effect under **Chapter Six**, section **5**, where `corpus_systems.md` **CS-4 — System classification and handling** or **CS-5 — Critical system stewardship** scales the burden.
 
-Before applying role, role-holder, stewardship, operator, accountable-role, or lane terms in this subsection, apply **CJS-5.0** (*Cross-band: Role-definition preface and standing competency gate interface*), [Chapter Nine §5.2](../core_09-09_standing_integration.md#52-competency-gates) (*Competency gates*), and any controlling standing lock under [Chapter Nine §4.2](../core_09-09_standing_integration.md#42-general-standing-locks) or [§4.3](../core_09-09_standing_integration.md#43-special-locks).
+Before applying role, role-holder, stewardship, operator, accountable-role, or lane terms in this subsection, apply **CJS-5.0** (*Cross-band: Role-definition preface and standing competency gate interface*), [Chapter Nine §6.2](../core_09-09_standing_integration.md#52-competency-gates) (*Competency gates*), and any controlling standing lock under [Chapter Nine §4.2](../core_09-09_standing_integration.md#42-general-standing-locks) or [§5.1](../core_09-09_standing_integration.md#43-special-locks).
 
 For **constitutional lane** and functional-separation meaning, apply **CJS-5.11** (*Constitutional lane and functional separation*) with **CI-3** (*Institutional design and separation of powers*).
 

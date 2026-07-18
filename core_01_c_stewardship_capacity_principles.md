@@ -242,7 +242,7 @@ This does **not** elevate openness above **Safety**, **Truth**, justified confid
 
 <br>
 
-*In plain terms: however you govern, enforce, judge, restrict, or remedy — you don't run sentients through humiliation, public spectacle, retaliation, or "because it's easier for us" cruelty. Fair consequences, public accountability, and firm restrictions can still be lawful even when they hurt or embarrass someone. What crosses the line is when the process itself is the punishment — designed to degrade, shame, or lash out rather than to protect, correct, or restore. This applies everywhere constitutional authority runs, not only during rights tradeoffs.*
+*In plain terms: however you govern, enforce, judge, restrict, or remedy — you don't run sentients through humiliation, public spectacle, retaliation, or "because it's easier for us" cruelty. Fair consequences, public accountability, and firm restrictions can still be lawful even when they hurt or embarrass someone. What crosses the line is when the process itself is the punishment — designed to degrade, shame, or lash out rather than to protect, correct, restore, or prevent. This applies everywhere constitutional authority runs, not only during rights tradeoffs.*
 
 **Anti-Degrading-Process Principle.** Constitutional processes, measures, and outcomes must satisfy this principle.
 
@@ -446,7 +446,7 @@ Incentives must not reward, protect, normalize, or make materially advantageous:
   - settlement, indemnity, insurance, or immunity; or
   - comparable arrangements.
 
-**Misaligned reward consequences.** Material rewards obtained through prohibited pathways above are subject to forfeiture and reporting under the standing model. Read [Chapter Nine §4.4 Reporting duty and exclusions](core_09-09_standing_integration.md#44-special-violation-rules), [§4.4 Forfeiture and retention](core_09-09_standing_integration.md#44-special-violation-rules), and [§4.4 Correction, records, and routing](core_09-09_standing_integration.md#44-special-violation-rules).
+**Misaligned reward consequences.** Material rewards obtained through prohibited pathways above are subject to forfeiture and reporting under the standing model. Read [Chapter Nine §5.2 Reporting duty and exclusions](core_09-09_standing_integration.md#44-special-violation-rules), [§5.2 Forfeiture and retention](core_09-09_standing_integration.md#44-special-violation-rules), and [§5.2 Correction, records, and routing](core_09-09_standing_integration.md#44-special-violation-rules).
 
 <a id="1113-stewardship-and-operator-application"></a>
 <a id="117-stewardship-and-operator-incentive-alignment"></a>
@@ -520,7 +520,7 @@ Where constitutional misalignment is identified, systems must modify, constrain,
 
 Concentrated or obscured control structures that materially undermine [Contestability](core_05a_accountability_definitions.md#contestability), [Oversight](core_05o_oversight_definitions.md#oversight-constitutional), or [Accountability](core_05a_accountability_definitions.md#accountability) — including durable gatekeeping of critical interfaces, dependency-asymmetric switching barriers, opaque beneficial-control pathways, and hidden or indirectly routed influence over governance, adjudication, or resource allocation — are **system capture** within the meaning of **Chapter Five** and are incompatible with this chapter. Read with [§11.3 Misalignment Detection](#113-misalignment-detection) for plural detection pathways, open audit defaults, and escalation discipline.
 
-**Misaligned reward correction.** Where misalignment is verified, material rewards from misaligned or corrupt pathways must not be treated as silently keepable standing credit or shielded benefit. Forfeiture, proportionate clawback, knowing-acceptance reporting, and correction are governed in [Chapter Nine §4.4](core_09-09_standing_integration.md#44-special-violation-rules); Question 2 measurement remains in [Chapter Eight §§4.1–4.2](core_08-08_standing_assessment.md#4-standing-measurement-evaluation-dimensions).
+**Misaligned reward correction.** Where misalignment is verified, material rewards from misaligned or corrupt pathways must not be treated as silently keepable standing credit or shielded benefit. Forfeiture, proportionate clawback, knowing-acceptance reporting, and correction are governed in [Chapter Nine §5.2](core_09-09_standing_integration.md#44-special-violation-rules); Question 2 measurement remains in [Chapter Eight §§4.1–4.2](core_08-08_standing_assessment.md#4-standing-measurement-evaluation-dimensions).
 
 <a id="115-contingent-claims-games-of-chance-and-event-contract-markets"></a>
 #### 11.5 Contingent Claims, Games of Chance, and Event-Contract Markets
@@ -587,7 +587,7 @@ Concentrated or obscured control structures that materially undermine [Contestab
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: [Chapter Nine §8.1](core_09-09_standing_integration.md#81-remediation-capacity-and-funding) and [§8.4](core_09-09_standing_integration.md#84-anti-evasion-and-look-through-authority); [Accountability](core_05a_accountability_definitions.md#accountability); [corpus_systems.md](corpus_systems.md) **Protocol C — Justice safeguards, restitution, and rehabilitation** (*Entity continuity checks*).
+- Read with: [Chapter Nine §9.1](core_09-09_standing_integration.md#81-remediation-capacity-and-funding) and [§9.4](core_09-09_standing_integration.md#84-anti-evasion-and-look-through-authority); [Accountability](core_05a_accountability_definitions.md#accountability); [corpus_systems.md](corpus_systems.md) **Protocol C — Justice safeguards, restitution, and rehabilitation** (*Entity continuity checks*).
 
 </details>
 

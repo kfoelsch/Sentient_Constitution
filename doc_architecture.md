@@ -37,7 +37,7 @@ Filename renames require: reference audit, same-change link updates, dated evide
 | Rights (Articles I–XXVI) | Ch 6 | `core_06-06_rights_part_*.md`; titles via `make reference-audit` |
 | System alignment certification | Ch 7 | `core_07_a_system_alignment_certification_evaluation.md` (Part A — evaluation); `core_07_b_system_alignment_certification_record_process.md` (Part B — record and process); reading index: `core_07-07_system_alignment_certification.md` |
 | Standing records and measurement (Questions 1 and 2) | Ch 8 | `core_08-08_standing_assessment.md`; verified records and Contribution Axis / Violation Axis slots |
-| Standing integration and effects (Question 3) | Ch 9 | `core_09-09_standing_integration.md`; violation consequences before contribution gates, then final effect, restoration, and enforcement |
+| Standing integration and effects (Question 3) | Ch 9 | `core_09-09_standing_integration.md`; violation, correction, and prevention before contribution gates, with lock design and enforcement, then final effect, restoration, and enforcement |
 | Anti-constitutional-misconduct designation | Ch 10 | `core_10-10_misconduct.md`; designation only for qualifying fixed Ch 8 Violation Axis `s = 7–9` findings |
 | Forums (constitutional) | Ch 11 | `core_11-11_forum.md`; forum families, jurisdiction, supervision, and cross-forum anti-self-judging; [README navigation](README.md#standing-pipeline-and-forums) |
 | Governance / amendment / incorporation | Ch 12–16 | `core_12-12_governance.md`, `core_13-15_amendment.md`, `core_16-16_incorporation.md` |

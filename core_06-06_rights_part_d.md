@@ -47,7 +47,7 @@
 
 <br>
 
-*In plain terms: **Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*) is the justice-and-resolution Rights Floor. When sentients, systems, or institutions collide over constitutional rights, the answer is not revenge, indefinite delay, or a permanent state of emergency. The answer is a fair process that stops harm, repairs damage, and reduces recurrence — scaled to how much is at stake. That process must give affected sentients a real voice, independent review, remedies that reach the right actors, and resolution within time limits that matter. Those are the four duties of the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad): **participation**, **oversight**, **accountability**, and **timeliness**. They serve the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims): **Flourishing** (protecting wellbeing and meaningful agency) and **Continuity** (keeping crises temporary and shared systems stable enough to recover). Escalation and emergency measures are allowed when truly necessary — but only at the smallest restriction that works, for as long as needed and no longer, with review and disclosure afterward.*
+*In plain terms: **Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*) is the justice-and-resolution Rights Floor. When sentients, systems, or institutions collide over constitutional rights, the answer is not revenge, indefinite delay, or a permanent state of emergency. The answer is a fair process of **violation**, **correction**, and **prevention** — stopping harm, repairing damage, and reducing recurrence — scaled to how much is at stake. That process must give affected sentients a real voice, independent review, remedies that reach the right actors, and resolution within time limits that matter. Those are the four duties of the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad): **participation**, **oversight**, **accountability**, and **timeliness**. They serve the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims): **Flourishing** (protecting wellbeing and meaningful agency) and **Continuity** (keeping crises temporary and shared systems stable enough to recover). Escalation and emergency measures are allowed when truly necessary — but only at the smallest restriction that works, for as long as needed and no longer, with review and disclosure afterward.*
 
 Disputes among sentients, systems, and institutions that affect constitutional rights must be resolvable through processes that are:
 - transparent;
@@ -68,7 +68,8 @@ Adopted governance implementation provides escalation, proportionality of interv
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [4.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [Chapter One §6.3 Rights-Collision Procedure](core_01_b_interaction_interpretation.md#63-rights-collision-procedure), and [15. Integrated Application](core_01_c_stewardship_capacity_principles.md#15-integrated-application).
+- Upstream: Principles: Chapter One [4.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [Chapter One §6.3 Rights-Collision Procedure](core_01_b_interaction_interpretation.md#63-rights-collision-procedure), [Chapter One §9.5 Process-Character Discipline](core_01_c_stewardship_capacity_principles.md#95-process-character-discipline), and [15. Integrated Application](core_01_c_stewardship_capacity_principles.md#15-integrated-application).
+- Downstream: [Chapter Nine §4](core_09-09_standing_integration.md#4-violation-correction-and-prevention) (*Violation, correction, and prevention*); [Article XXIII-B](#article-xxiii-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints); [Article XXIII-C](#article-xxiii-c-least-restrictive-and-time-bounded-rule).
 
 </details>
 
@@ -83,12 +84,12 @@ Adopted governance implementation provides escalation, proportionality of interv
 
 <br>
 
-*In plain terms: justice protects and restores. Its purpose is to stop harm, repair it, and reduce recurrence — not to inflict suffering for its own sake.*
+*In plain terms: justice works through **violation**, **correction**, and **prevention**. Address what went wrong, fix what was broken and what caused it, and keep it from happening again — not inflict suffering for its own sake.*
 
-- **Justice objective and scope:** Constitutional justice is protective and restorative. Its primary purposes are to:
-  - prevent ongoing harm;
-  - secure restitution and remediation for affected parties;
-  - reduce recurrence through rehabilitation where feasible;
+- **Justice objective and scope:** Constitutional justice is structured around violation, correction, and prevention. Its primary purposes are to:
+  - respond to verified violation, including stopping ongoing harm;
+  - secure correction through restitution, remediation, and change to conduct or systems;
+  - prevent recurrence through rehabilitation, safeguards, and other durable controls where feasible;
   - keep credit and consequences on the right actors — supported by evidence on the record — under **Chapter Eight** (*Contribution, Violation, and Standing Model*).
 - **Anti-cruelty floor:** Justice must not be administered to inflict suffering as an end in itself.
 <a id="article-xxiii-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints"></a>
@@ -469,7 +470,7 @@ Transitional governance exists to secure continuity and non-regression. It must 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [4.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [10.1 Core Tradeoff Principles](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), and [Chapter Seven §3 Whole-System Certification Evaluation](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [Chapter Nine §4.4](core_09-09_standing_integration.md#44-special-violation-rules) (*misaligned-reward forfeiture and reporting limited during transition by this Article*); [Chapter Seven — System Alignment Certification](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification).
+- Upstream: Principles: Chapter One [4.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [10.1 Core Tradeoff Principles](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), and [Chapter Seven §3 Whole-System Certification Evaluation](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [Chapter Nine §5.2](core_09-09_standing_integration.md#44-special-violation-rules) (*misaligned-reward forfeiture and reporting limited during transition by this Article*); [Chapter Seven — System Alignment Certification](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification).
 
 </details>
 
@@ -495,7 +496,7 @@ Transitional governance exists to secure continuity and non-regression. It must 
   - Detailed gate criteria, owner assignment, and verification artifacts are governed by `corpus_institutions.md` **CI-14** (*Transitional governance and institutional evolution*).
 - **Rights-Floor continuity:** At every phase, the **Rights-Floor minimums** stated in **Article V** (*Equal Basic Rights*) remain in force, together with any stronger domain-specific floors for survival, agency, non-discrimination, accessibility, auditability, and remedy that the affected context triggers. Transitional simplification must not reduce those floors below constitutional minimums or make their exercise materially less usable in practice.
 <a id="incentive-alignment-transition-carve-out"></a>
-- **Incentive-alignment transition carve-out:** During approved transition phases under **Article XXVI** (*Transition Governance, Continuity, and Re-Baselining*), read with [Chapter Seven — System Alignment Certification](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification). [Chapter Nine §4.4 Reporting duty and exclusions](core_09-09_standing_integration.md#44-special-violation-rules) and [§4.4 Forfeiture and retention](core_09-09_standing_integration.md#44-special-violation-rules) do **not** apply to rewards flowing through shared systems solely because those systems are **not yet alignment-certified** or are **not yet fully aligned**, provided:
+- **Incentive-alignment transition carve-out:** During approved transition phases under **Article XXVI** (*Transition Governance, Continuity, and Re-Baselining*), read with [Chapter Seven — System Alignment Certification](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification). [Chapter Nine §5.2 Reporting duty and exclusions](core_09-09_standing_integration.md#44-special-violation-rules) and [§5.2 Forfeiture and retention](core_09-09_standing_integration.md#44-special-violation-rules) do **not** apply to rewards flowing through shared systems solely because those systems are **not yet alignment-certified** or are **not yet fully aligned**, provided:
   - operation stays within a **documented transition plan** and published gate criteria under **Article XXVI** (*Transition Governance, Continuity, and Re-Baselining*);
   - the system is proceeding toward [System Alignment Certification](core_05c_continuity_definitions.md#system-alignment-certification-constitutional) on a published cadence, including **conditional** or **deferred recognition** where Chapter Seven allows; and
   - operators and beneficiaries are not **knowingly concealing** misalignment, operating outside approved transition scope, or using transition status to evade certification, correction, or protected reporting.

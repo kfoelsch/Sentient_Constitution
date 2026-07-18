@@ -18,7 +18,7 @@
 
 > The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations.
 >
-> Read this chapter in order: immutable Chapter Eight inputs; integration record and decision order; descriptor integration and attachment normalization; violation consequences; contribution consequences; final standing effect; restoration and reassessment; enforcement realism; Chapter Ten gateway; named applications.
+> Read this chapter in order: immutable Chapter Eight inputs; integration record and decision order; descriptor integration and attachment normalization; violation, correction, and prevention; lock design and enforcement; contribution consequences; final standing effect; restoration and reassessment; enforcement realism; Chapter Ten gateway; named applications.
 
 </details>
 
@@ -106,7 +106,7 @@ The following processing order applies to both automated and manual decisions:
 
 1. validate the Chapter Eight records and their current review status;
 2. normalize shared descriptors and attachments without changing either slot;
-3. decide violation consequences first—remedy and correction, then locks and special locks;
+3. decide violation, correction, and prevention first—remedy and correction, then locks; then apply lock design and enforcement (slot orientation, special locks, and special violation rules);
 4. decide contribution consequences second—currentness and competency gates, but only for pathways not blocked by a lock;
 5. state one final standing effect for each pathway;
 6. state restoration and reassessment conditions;
@@ -176,12 +176,15 @@ Violation attachments may concurrently include remedial or restorative character
 Contribution descriptors may orient matched competency gates. Violation descriptors and attachments may orient matched remedy, safeguard, and lock scope. Neither descriptors nor attachments form a second measurement ladder, and neither supplies a Chapter Ten designation.
 
 <a id="4-violation-consequences-first"></a>
+<a id="4-violation-correction-and-prevention"></a>
 <a id="6-extended-axis-ii-legal-hybrid-duty-and-harm-descriptors"></a>
 <a id="6-axis-ii-extended"></a>
 <a id="3-violation-axis-attachments--process-response-character-hybrid-rules-and-duties"></a>
-### 4. Violation consequences first
+### 4. Violation, correction, and prevention
 
-Violation consequences are determined from the violation standing record alone. Contribution is not an input to remedy, correction, safeguard, or lock assignment. It may later show capacity to perform an obligation, but it cannot change the obligation or the unresolved status that supports it.
+*In plain terms: Something bad happened. How do we create a durable fix? This section answers in three parts — **violation**, **correction**, and **prevention**. Once Chapter Eight has verified a violation, remedy and correction come from that record alone — fix what was broken, and change what caused it — then prevention locks hold sensitive pathways closed until those conditions are met. Past contribution does not soften the duty, cancel a lock, or substitute for verified repair. Forums supervise implementation and challenge; they do not invent a different consequence from the verified record.*
+
+Violation, correction, and prevention are determined from the violation standing record alone. Contribution is not an input to remedy, correction, safeguard, or lock assignment. It may later show capacity to perform an obligation, but it cannot change the obligation or the unresolved status that supports it.
 
 <a id="41-remedy-and-correction"></a>
 <a id="311-redress-remedy-and-restoration-in-the-standing-model"></a>
@@ -196,14 +199,28 @@ Violation consequences are determined from the violation standing record alone. 
 <a id="remedial-restorative-and-civil-correction-character"></a>
 #### 4.1 Remedy and correction
 
-Every verified violation must be tested for two parallel outputs:
+*In plain terms: after a verified **violation**, this subsection assigns the **correction** part of the durable fix. **Remedy** repairs what was broken for those harmed. **Correction** changes what caused it. **Prevention** — standing locks and related pathway limits — begins in [§4.2](#42-general-standing-locks), with design and enforcement in [§5](#5-lock-design-and-enforcement), and must not be waived while recurrence risk remains live.*
+
+Every verified violation must be tested for two parallel correction outputs:
 
 - **Remedy:** acknowledgment, repair, restoration, compensation, substitute safeguards where literal repair is impossible, or comparable redress for affected sentients and interests.
-- **Correction:** changes to conduct, systems, records, incentives, supervision, safeguards, or role eligibility needed to stop continuation or recurrence.
+- **Correction:** changes to conduct, systems, records, incentives, supervision, safeguards, or role eligibility needed to address the cause and stop continuation.
 
-Correction never waives remedy. Remedy never waives correction, safeguards, or locks while recurrence risk remains live. Correctability does not lower the Violation Axis slot. The integration record must state affected parties and harms, remedy type and scope, correction duties, responsible actors, funding source, commencement milestones, current status, supervision route, and consequences of delay.
+Fixing the cause does not cancel the duty to repair those harmed. Repairing those harmed does not cancel the duty to fix the cause, keep needed safeguards in place, or keep prevention locks in place while the risk of the same harm happening again remains real. Being able to fix the problem does not lower how serious the Violation Axis slot is.
 
-Forums supervise lawful implementation, challenge, interim relief, and timely movement. They do not replace the Chapter Nine duty to assign the consequence from the verified record.
+The integration record must say, in plain view:
+
+- who was affected and what harm occurred;
+- what remedy is owed and how far it reaches;
+- what correction duties apply;
+- who is responsible for carrying them out;
+- where the funding comes from;
+- when work must start and what milestones apply;
+- where things stand now;
+- who supervises follow-through; and
+- what happens if delay occurs.
+
+Forums supervise lawful implementation, challenge, interim relief, and timely movement. They do not replace the Chapter Nine duty to assign violation, correction, and prevention from the verified record.
 
 <a id="42-general-standing-locks"></a>
 <a id="36-restrictive-standing-effects"></a>
@@ -219,12 +236,21 @@ Forums supervise lawful implementation, challenge, interim relief, and timely mo
 <a id="132-proportionality-and-calibration"></a>
 <a id="133-record-visibility-and-escalation"></a>
 <a id="134-contribution-visibility-and-slot-band-map"></a>
-#### 4.2 General standing locks
+#### 4.2 Prevention — general standing locks
 
-A **standing lock** blocks or limits a named trust-, role-, authority-, credit-, oversight-, or recognition-linked pathway while a verified violation remains unresolved or materially unremedied. It must identify the blocked pathway, protected subjects or interests, corrective conditions, review route, and reassessment point.
+*In plain terms: this is the **prevention** part of the durable fix. A standing lock reduces risk by closing or limiting pathways that would let the same harm continue or happen again while the violation is still unresolved or unrepaired. It is not punishment for its own sake, and it is not a popularity or reputation score.*
 
-A lock must be needed, proportionate, auditable, contestable, no broader than required, and time-bounded where the protected purpose permits. It attaches to a verified finding—not identity, status, accusation, generalized disfavor, or reputation. Character such as concealment, coercion, intent, recurrence, negligence, duty, or evasion may shape scope, scrutiny, safeguards, and review only when separately verified; it never moves the slot.
+A **standing lock** is a prevention and risk-reduction measure. It blocks or limits a named trust-, role-, authority-, credit-, oversight-, or recognition-linked pathway while a verified violation remains unresolved or materially unremedied. It must identify the blocked pathway, the risk it is meant to reduce, protected subjects or interests, corrective conditions, review route, and reassessment point.
 
+The purpose of a lock is to reduce risk by removing a sentient from the environment, roles, or pathways — and, where needed, from contact with the sentients — where the violation occurred. That separation serves three purposes:
+
+1. **Containment** — stop the same harm from continuing through the same setting or pathways;
+2. **Safety for affected parties** — keep those already harmed from further exposure; and
+3. **Risk reduction** — lower the chance the same pattern recurs while remedy and correction remain incomplete.
+
+A lock must be needed for risk reduction, proportionate, auditable, contestable, no broader than required, and time-bounded where the protected purpose permits. It attaches to a verified finding—not identity, status, accusation, generalized disfavor, or reputation. Character such as violence, coercion, deception, concealment, intent, recurrence, negligence, duty, or evasion may shape scope, scrutiny, safeguards, and review only when separately verified; it never moves the slot.
+
+<a id="5-lock-design-and-enforcement"></a>
 <a id="30-evaluation-dimensions-severity-inputs-and-non-recurrence-controls"></a>
 <a id="30-non-recurrence-evaluation-and-integration-examples"></a>
 <a id="3-evaluation-dimensions"></a>
@@ -236,22 +262,27 @@ A lock must be needed, proportionate, auditable, contestable, no broader than re
 <a id="standing-lock-context-compass"></a>
 <a id="dual-use-violation-integration-dimensions"></a>
 <a id="dual-use-evaluation-dimensions"></a>
-Lock design must consider pathway sensitivity, unresolved remedy and safeguard gaps, recurrence after notice or remediation, ongoing safety risk, role asymmetry, concealment or evasion, diffusion of control, institutional enablement, forum-integrity injury, cross-jurisdiction continuity, reviewability, and practical time to correction.
+### 5. Lock design and enforcement
+
+*In plain terms: once a lock is needed, this section says how to design and enforce it — what risks to weigh, how the Violation Axis slot orients the starting point, which special locks are mandatory, and which special violation rules change scope or process. It does not reopen Chapter Eight measurement.*
+
+Lock design must weigh the risks being reduced and the conditions that raise them, including pathway sensitivity, unresolved remedy and safeguard gaps, recurrence after notice or remediation, ongoing safety risk, role asymmetry, concealment or evasion, diffusion of control, institutional enablement, forum-integrity injury, cross-jurisdiction continuity, reviewability, and practical time to correction.
 
 <a id="standing-integration-slot-band-standing-locks"></a>
 <a id="standing-orientation-by-violation-slot"></a>
 <a id="standing-orientation-by-violation-level"></a>
 <a id="43-standing-integration--slot-band-standing-locks"></a>
 <a id="violation-axis-slot-lock-and-attachment-compass"></a>
-**Non-exclusive slot orientation.** The slot is one proportional input, not a lock command:
+**Non-exclusive slot orientation.** The slot is one proportional input to prevention design, not a lock command:
 
 - `s = 1–2`: correction-oriented starting point;
 - `s = 3–4`: restriction-oriented starting point;
 - `s = 5–6`: safeguard-oriented starting point; and
 - `s = 7–9`: high-impact protective starting point, with Chapter Ten routing where designation is at issue.
 
-Any slot may require a different or additional lock when verified function, pathway risk, or remedy status requires it. Minimal impact does not authorize durable exclusion by itself; high impact does not eliminate individualized justice constraints.
+Any slot may require a different or additional lock when verified function, pathway risk, or remedy status requires stronger risk reduction. Minimal impact does not authorize durable exclusion by itself; high impact does not eliminate individualized justice constraints.
 
+<a id="51-special-locks"></a>
 <a id="43-special-locks"></a>
 <a id="forum-service-standing-lock-for-recusal-failure"></a>
 <a id="anti-constitutional-trust-lock"></a>
@@ -259,7 +290,7 @@ Any slot may require a different or additional lock when verified function, path
 <a id="135-forum-service-standing-lock-for-verified-recusal-failure"></a>
 <a id="136-anti-constitutional-trust-lock"></a>
 <a id="421-forum-disclosure-omission-and-recusal-process-impact"></a>
-#### 4.3 Special locks
+#### 5.1 Special locks
 
 **Forum-Service Standing Lock.** A verified failure to recuse where recusal was required and impartiality was materially compromised creates a mandatory forum-service standing lock. It bars merits, appellate, review, emergency, certifier, contested panel-coordination, reserve, substitute, and materially supporting forum roles across forum families. The lock must not be lifted, narrowed, or suspended unless the complete independent restoration record required below is satisfied and gives reasons showing that narrower protection is sufficient.
 
@@ -273,6 +304,7 @@ Restoration is exceptional and requires independently verified restitution or la
 
 **Global no-offset rule.** Contribution and violation remain separately visible throughout the standing pipeline. Positive contribution—including contribution supporting repair, learning, restitution, or non-recurrence—must not waive a remedy, lift a lock, lower violation impact, average away a pattern, purchase restored trust, or replace verified correction.
 
+<a id="52-special-violation-rules"></a>
 <a id="44-special-violation-rules"></a>
 <a id="63-anti-constitutional-lock-attachments-slots-7-9"></a>
 <a id="63-constitutional-violation"></a>
@@ -287,7 +319,7 @@ Restoration is exceptional and requires independently verified restitution or la
 <a id="3-slots-56--major-and-severe-impact-attachments"></a>
 <a id="63-restriction-lock-attachments-slots-3-4"></a>
 <a id="3-slots-34--material-and-significant-impact-attachments"></a>
-#### 4.4 Special violation rules
+#### 5.2 Special violation rules
 
 **Coercive or liberty-restricting safeguards.** Where verified conduct, culpability, coercion, violence, credible threat, or comparable danger makes detention or another liberty restriction possible, full criminal-process or equivalent constitutional protections apply before restriction. This character may attach at any slot and does not itself establish a conviction.
 
@@ -334,17 +366,19 @@ Restoration is exceptional and requires independently verified restitution or la
 <a id="3123-correction-records-and-routing"></a>
 **Misaligned rewards.** A sentient who knowingly accepts or retains a material reward from a constitutionally misaligned process after sufficient notice must timely report through protected reporting or a comparable lawful pathway. Good-faith dispute, record preservation during review, cooperation with remediation, and timely protected reporting are exclusions. Retention is also not knowing acceptance when proportionate revocation would cause greater constitutional harm and retention is therefore constitutionally required. Material rewards obtained through misaligned incentive structures, anti-constitutional conduct, or materially defective processes are forfeit for constitutional purposes unless proportionate revocation would cause greater constitutional harm. Lawful ordinary-work compensation received without knowledge of misalignment, restitution or repair payments to affected parties, and proportionate settlement of disputed claims through contestable process are not forfeiture targets by themselves. The record must show knowledge, benefit, concealment, reporting timeliness, third-party reliance, dependent-party and systemic effects, and the reason for forfeiture or retention. Systems must preserve records, suspend or segregate disputed rewards where proportionate, correct the incentive structure, and route qualifying top-slot findings to Chapter Ten.
 
+<a id="6-contribution-consequences-second"></a>
 <a id="5-contribution-consequences-second"></a>
 <a id="35-positive-standing-recognition"></a>
 <a id="34-positive-standing-recognition"></a>
 <a id="11-positive-standing-recognition"></a>
-### 5. Contribution consequences second
+### 6. Contribution consequences second
 
-Verified contribution may support positive recognition and readiness only after violation consequences have been assigned. Recognition must be evidence-backed, contestable, reviewable, non-monopolistic, and available on equal standards to informal, unpaid, peer-organized, mutual-aid, maintenance, repair, teaching, and community-stewardship work.
+Verified contribution may support positive recognition and readiness only after violation, correction, and prevention have been assigned. Recognition must be evidence-backed, contestable, reviewable, non-monopolistic, and available on equal standards to informal, unpaid, peer-organized, mutual-aid, maintenance, repair, teaching, and community-stewardship work.
 
+<a id="61-recency-and-currentness"></a>
 <a id="51-recency-and-currentness"></a>
 <a id="contribution-recency-weighting"></a>
-#### 5.1 Recency and currentness
+#### 6.1 Recency and currentness
 
 Recency is strictly a **Question 3 gate and readiness input**. It does not change a Chapter Eight contribution standing record, Contribution Axis slot, LEQU measurement, descriptor, or historical recognition.
 
@@ -354,6 +388,7 @@ For a current trust-, role-, authority-, oversight-, or recognition-sensitive de
 
 Apply the weight to each contribution separately. After 50 years, a contribution remains in the historical record but supplies no current gate weight. Continuing or maintained contribution may be evidenced by current records rather than treated as a single old event. No recency rule applies to unresolved violation: passage of time alone does not correct, remedy, supersede, or resolve it.
 
+<a id="62-competency-gates"></a>
 <a id="52-competency-gates"></a>
 <a id="competency-gates"></a>
 <a id="competency-gate"></a>
@@ -376,7 +411,7 @@ Apply the weight to each contribution separately. After 50 years, a contribution
 <a id="20-evaluation-dimensions-contribution-magnitude-and-safe-delegation"></a>
 <a id="2-evaluation-dimensions-contribution"></a>
 <a id="20-contribution-measurement-pointer--question-2-lives-in-chapter-eight"></a>
-#### 5.2 Competency gates
+#### 6.2 Competency gates
 
 A **competency gate** is a published, auditable, contestable readiness threshold for a named pathway. It may use current verified contribution, demonstrated skill, relevant experience, training, role-specific qualification, and observed reliability. Thresholds must fit role impact, dependency, and foreseeable risk.
 
@@ -386,9 +421,10 @@ Gate design must identify pathway sensitivity, skill and experience fit, role pr
 
 An applicable standing lock controls. Gate satisfaction cannot open a blocked pathway, waive the Rights Floor, erase a violation, replace remedy or correction, or lower a Violation Axis slot.
 
+<a id="7-final-standing-effect"></a>
 <a id="6-final-standing-effect"></a>
 <a id="standing-effect"></a>
-### 6. Final standing effect
+### 7. Final standing effect
 
 <a id="9-additive-and-non-substitution-rule"></a>
 <a id="7-additive-and-non-substitution-rule"></a>
@@ -413,12 +449,13 @@ The integration record must state the final effect separately for each pathway:
 
 The decision must explain which immutable inputs, descriptors, remedies, locks, currentness findings, and gates produced the effect. Automated or formulaic systems must expose inputs, weights, rules, and review routes. The final effect is not a dignity rank, merged merit score, universal reputation label, or substitute for the underlying records.
 
+<a id="8-restoration-and-reassessment"></a>
 <a id="7-restoration-and-reassessment"></a>
 <a id="37-reinstatement-review-and-non-entrenchment"></a>
 <a id="36-reinstatement-review-and-non-entrenchment"></a>
 <a id="14-reinstatement-review-and-non-entrenchment"></a>
 <a id="55-reassessment-after-real-correction"></a>
-### 7. Restoration and reassessment
+### 8. Restoration and reassessment
 
 Every non-permanent lock must provide a real route to review. Restoration may require completed correction, restitution, remedy, evidence preservation, safeguard implementation, monitoring, requalification, supervised lower-risk service, or another verified reduction in recurrence risk. Historical status alone cannot justify indefinite exclusion.
 
@@ -433,48 +470,50 @@ Reassessment begins when the record's stated trigger is met or when material new
 
 Restoration is not automatic forgiveness, record erasure, or contribution offset. Partial completion may justify a narrower lock only when the remaining protection is sufficient. Repetition after otherwise completed remedy may support a recurrence-persistence lock. The special restoration rules for forum-service and Anti-Constitutional Trust Locks control over this general rule.
 
+<a id="9-enforcement-realism"></a>
 <a id="8-enforcement-realism"></a>
 <a id="10-enforcement-realism-anchors"></a>
 <a id="8-enforcement-realism-anchors"></a>
 <a id="6-enforcement-realism-anchors"></a>
 <a id="chapter-seven-part-f-continuity-enforcement"></a>
 <a id="5-enforcement-realism-anchors--continuity-enforcement"></a>
-### 8. Enforcement realism
+### 9. Enforcement realism
 
 Standing integration fails if consequences exist only on paper. Adopters must maintain practical, timely capacity to implement correction, fund remedy, review restrictions, preserve records, enforce safeguards, and prevent escape through cost, delay, borders, restructuring, or formal identity changes.
 
 <a id="51-remediation-capacity-and-funding"></a>
 <a id="81-remediation-capacity-and-funding"></a>
-#### 8.1 Remediation capacity and funding
+#### 9.1 Remediation capacity and funding
 
 Correction, repair, compensation, monitoring, safeguards, and recurrence prevention require real institutional, technical, and financial capacity. Expense, insolvency, inconvenience, receivership, dissolution, asset transfer, or restructuring does not by itself defeat a verified obligation. Successors, estates, receivers, and comparable transferees inherit proportionate duties unless a less harmful lawful transfer is demonstrated. Costs must not be externalized onto affected sentients, communities, ecological subjects, or public remedy systems where responsible actors can lawfully bear them.
 
 <a id="52-remedy-organ-durability"></a>
 <a id="82-remedy-organ-durability"></a>
-#### 8.2 Remedy-system durability
+#### 9.2 Remedy-system durability
 
 Forums, oversight bodies, complaint offices, technical review bodies, and rights-sensitive administrative systems must have sufficient staffing, funding, independence, records capacity, accessibility, and succession planning. Capacity duties scale with risk, case volume, vulnerability, and rights sensitivity. Child protection, environmental enforcement, benefits administration, detention oversight, public-health response, and comparable high-impact systems require durable remedy systems capable of timely intake, preservation, review, and enforcement. Those systems must meet [Chapter Eleven §10](core_11-11_forum.md#10-timely-resolution-materiality-tiers-and-anti-delay-discipline) tier milestones and pipeline-stage windows. Designed backlog, inaccessible intake, chronic underfunding, dependence on a single fragile office, or chronic milestone failure violates this rule where it foreseeably nullifies challenge or remedy.
 
 <a id="53-cross-jurisdiction-continuity"></a>
 <a id="83-cross-jurisdiction-continuity"></a>
-#### 8.3 Cross-jurisdiction continuity
+#### 9.3 Cross-jurisdiction continuity
 
 Verified remedy, lock, safeguard, and review obligations remain actionable across boundaries wherever applicable law permits recognition, cooperation, enforcement, or fallback review. Flight, relocation, forum shopping, cross-border structure, or distributed operation does not by itself nullify them.
 
 <a id="54-anti-evasion-and-look-through-authority"></a>
 <a id="84-anti-evasion-and-look-through-authority"></a>
-#### 8.4 Anti-evasion and look-through authority
+#### 9.4 Anti-evasion and look-through authority
 
 Forums and implementation systems must be able to look through formal structure to functional control, benefit, continuity, and responsibility. Reincorporation, shells, contractual layering, nominal ownership transfer, asset stripping, record fragmentation, and successor relabeling do not erase verified duties. Look-through decisions must remain evidence-based, actor-specific, contestable, proportionate, and reviewable.
 
 <a id="85-timely-implementation-and-reassessment"></a>
-#### 8.5 Timely implementation
+#### 9.5 Timely implementation
 
 Remedy commencement, correction milestones, lock review, and reassessment must satisfy [Timeliness](core_05a_accountability_definitions.md#timeliness-constitutional), [Chapter Eleven §10](core_11-11_forum.md#10-timely-resolution-materiality-tiers-and-anti-delay-discipline), and **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*). Delay that compounds harm, conceals non-performance, or defeats review is a new verified fact for Question 3 and may justify escalated safeguards without changing the original Chapter Eight slot.
 
 <a id="why-all-this-matters"></a>
 Rights and standing consequences are real only when sentients can invoke them, verify them, fund practical repair, obtain timely review, and enforce obligations against the actors functionally responsible.
 
+<a id="10-chapter-ten-gateway"></a>
 <a id="9-chapter-ten-gateway"></a>
 <a id="11-tiered-anti-constitutional-misconduct-authoritative-location"></a>
 <a id="10-violation-axis-s-7-9-anti-constitutional-misconduct-authoritative-location"></a>
@@ -484,17 +523,18 @@ Rights and standing consequences are real only when sentients can invoke them, v
 <a id="11-axis-ii-grand-anti-constitutional-misconduct-authoritative-location"></a>
 <a id="chapter-seven-part-g-chapter-eight-gateway"></a>
 <a id="6-violation-axis-s--79--chapter-ten-designation-gateway"></a>
-### 9. Chapter Ten gateway
+### 10. Chapter Ten gateway
 
 Chapter Eight alone assigns `s = 7`, `s = 8`, and `s = 9` Violation Axis impact slots. When anti-constitutional misconduct is materially at issue on a verified top-slot record, the integration record routes the fixed finding to [Chapter Ten](core_10-10_misconduct.md#chapter-ten-anti-constitutional-misconduct).
 
-Chapter Ten decides only whether the corresponding Serious, Grave, or Catastrophic anti-constitutional-misconduct designation attaches under its criteria and due-process safeguards. It does not alter the facts, measurement, slot, ordinary remedy, correction, or non-designation lock analysis. A final designation triggers the Anti-Constitutional Trust Lock in **section 4.3**. No lower slot may be converted into a top slot through descriptor, attachment, consequence, or designation reasoning.
+Chapter Ten decides only whether the corresponding Serious, Grave, or Catastrophic anti-constitutional-misconduct designation attaches under its criteria and due-process safeguards. It does not alter the facts, measurement, slot, ordinary remedy, correction, or non-designation lock analysis. A final designation triggers the Anti-Constitutional Trust Lock in **section 5.1**. No lower slot may be converted into a top slot through descriptor, attachment, consequence, or designation reasoning.
 
+<a id="11-named-applications"></a>
 <a id="10-named-applications"></a>
 <a id="section-2-integration-worked-examples"></a>
 <a id="section-3-evaluation-worked-examples"></a>
 <a id="violation-side-descriptor-application-location"></a>
-### 10. Named applications
+### 11. Named applications
 
 These applications illustrate the canonical sequence; they do not create exceptions.
 
@@ -510,7 +550,7 @@ These applications illustrate the canonical sequence; they do not create excepti
 
 **Institutional vehicle and successor evasion.** Where an institution carries repeated harm, capture, or evasion, consequences may include suspension, receivership, structural separation, dissolution, and successor-control restrictions. Actor-specific proof remains required, and relabeling or shell substitution does not defeat a verified duty.
 
-**Misaligned reward.** Knowing retention after sufficient notice without timely protected reporting may create a violation consequence. Good-faith dispute and protected reporting remain protected. Forfeiture, retention, and correction follow **section 4.4** and must account for dependent-party harm and legitimate third-party reliance.
+**Misaligned reward.** Knowing retention after sufficient notice without timely protected reporting may create a violation consequence. Good-faith dispute and protected reporting remain protected. Forfeiture, retention, and correction follow **section 5.2** and must account for dependent-party harm and legitimate third-party reliance.
 
 **Top-slot anti-constitutional allegation.** Ordinary Chapter Nine remedy, correction, and protective locks proceed from the fixed violation record. Chapter Ten separately decides designation. Only a final designation triggers the Anti-Constitutional Trust Lock.
 

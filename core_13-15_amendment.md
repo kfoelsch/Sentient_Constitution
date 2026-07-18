@@ -483,7 +483,7 @@ A proposed amendment is invalid if it:
 
 - Upstream: [§1](#1-heightened-review-for-rights-affecting-changes)–[§5](#6-test-4-contestability-and-independent-review-validity) validity tests and contestability floor.
 - Downstream: [§12](#12-layer-scope) reminder that trigger language routes to canonical owners rather than creating new slot-classification law.
-- Read with: [Chapter Nine §6 — *Final standing effect*](core_09-09_standing_integration.md#6-final-standing-effect); [Chapter Eight §7 unified scale](core_08-08_standing_assessment.md#7-unified-proportional-lequ-scale) (*shared five-times LEQU measurement foundation for separate Contribution and Violation records*).
+- Read with: [Chapter Nine §7 — *Final standing effect*](core_09-09_standing_integration.md#6-final-standing-effect); [Chapter Eight §7 unified scale](core_08-08_standing_assessment.md#7-unified-proportional-lequ-scale) (*shared five-times LEQU measurement foundation for separate Contribution and Violation records*).
 
 </details>
 
@@ -494,7 +494,7 @@ A proposed amendment is invalid if it:
 Heightened review is automatically triggered for amendments that materially affect any of the following:
 - rights (**Chapter Six**)
 - constitutional interpretation and review safeguards (**Article XXIII-A** (*Justice Objective and Scope*))
-- standing effects ([Chapter Nine §6 — *Final standing effect*](core_09-09_standing_integration.md#6-final-standing-effect); read with the [Chapter Eight §7 unified scale](core_08-08_standing_assessment.md#7-unified-proportional-lequ-scale) — separate-axis measurement)
+- standing effects ([Chapter Nine §7 — *Final standing effect*](core_09-09_standing_integration.md#6-final-standing-effect); read with the [Chapter Eight §7 unified scale](core_08-08_standing_assessment.md#7-unified-proportional-lequ-scale) — separate-axis measurement)
 - emergency powers
 - cross-jurisdiction enforcement pathways
 
