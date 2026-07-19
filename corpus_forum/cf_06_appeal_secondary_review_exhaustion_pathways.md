@@ -124,7 +124,7 @@ The determination binds the parties before the forum on the issues decided, incl
 <br>
 
 
-The determination binds or governs a **class**, **subclass**, **common practice**, **common decision rule**, or similar shared stake. This includes representative proceedings authorized under `core_11-11_forum.md` **Chapter Eleven**, **section 6** (*Scope expansion and representative treatment*). A **high-impact, Rights-Floor, constitutional, or structurally precedential** determination usually carries the published panel-rule disposition effect when it materially reaches beyond the named parties.
+The determination binds or governs a **class**, **subclass**, **common practice**, **common decision rule**, or similar shared stake. This includes representative proceedings authorized under `core_11-11_forum.md` **Chapter Eleven**, **section 3** (*Scope expansion and representative treatment*). A **high-impact, Rights-Floor, constitutional, or structurally precedential** determination usually carries the published panel-rule disposition effect when it materially reaches beyond the named parties.
 
 #### CF-6.1.3 Published Panel-Rule Disposition Effect
 <details>

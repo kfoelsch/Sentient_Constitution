@@ -429,7 +429,7 @@ Lawful independent forum
 
 Representative treatment
 
-This sub-rule governs **common-question procedure**: a forum resolves one shared issue for many affected parties at once instead of requiring each sentient to relitigate the same underlying practice alone. It includes scope expansion to a **class** or **subclass** under `core_11-11_forum.md` **Chapter Eleven**, **section 6** (*Scope expansion and representative treatment*).
+This sub-rule governs **common-question procedure**: a forum resolves one shared issue for many affected parties at once instead of requiring each sentient to relitigate the same underlying practice alone. It includes scope expansion to a **class** or **subclass** under `core_11-11_forum.md` **Chapter Eleven**, **section 3** (*Scope expansion and representative treatment*).
 
 A **common decision rule** is the **named shared practice in dispute** for that expanded proceeding—the specific rule, policy, model behavior, eligibility test, fee formula, routing criterion, or comparable decision basis applied the same way across the group. It is the thing whose lawfulness, application, or effect the forum is deciding for everyone included, not merely a label for "many sentients were harmed." Examples include a mass-denial algorithm, a published institutional threshold, a standardized sanction trigger, or a system-default setting that drives the same result class-wide.
 
