@@ -72,6 +72,7 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 - [Capability Requirement](core_05o_oversight_definitions.md#capability-requirement)
 - [Capture of Resolution Pathways](core_05a_accountability_definitions.md#capture-of-resolution-pathways)
 - [Cascading Failure](core_05c_continuity_definitions.md#cascading-failure)
+- [Charter](core_05c_continuity_definitions.md#charter)
 - [Classification-Scaled Governance](core_05o_oversight_definitions.md#classification-scaled-governance)
 - [Coercion and Manipulation](core_05p_participation_definitions.md#coercion-and-manipulation-constitutional)
 - [Collective Accountability Failure](core_05a_accountability_definitions.md#collective-accountability-failure)

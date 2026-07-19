@@ -28,7 +28,7 @@
 **Quick orientation**
 
 - **When dissolution review is mandatory** — institutions with repeated, verified anti-constitutional misconduct must enter mandatory dissolution review.
-- **When alignment-supervision review is mandatory** — institutions that operate, supervise, charter, license, or materially control a chronically misaligned system enter review when an Integrity forum issues a final alignment ruling, withdraws recognition, imposes remediation conditions, or identifies sustained material misalignment under **Chapter Eleven**.
+- **When alignment-supervision review is mandatory** — institutions that operate, supervise, hold a [Charter](../core_05c_continuity_definitions.md#charter) over, license, or materially control a chronically misaligned system enter review when an Integrity forum issues a final alignment ruling, withdraws recognition, imposes remediation conditions, or identifies sustained material misalignment under **Chapter Eleven**.
 - **Who keeps the official record** — the authoritative consequence record is an **Integrity forum lead record** under **CF-7**, not an institution-only file controlled by the subject institution.
 - **What the institution still must do** — name a consequence liaison, submit required materials on deadline, mirror the forum-held record without rewrite, propose continuity transfer for forum approval, and publish the personal-accountability boundary.
 - **What dissolution is not** — not a substitute for anti-constitutional-misconduct designation under **Chapter Ten** or ordinary personal accountability under constitutional law.

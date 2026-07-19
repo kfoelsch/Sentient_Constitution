@@ -6,7 +6,7 @@
 
 > The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other chapters.
 >
-> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter Seven, Part B** — certification **record** contents, transparency and contestability, forum component roles, supervisory sequence, standing bridge, and reopening. **Part A** — evaluation requirements — is in [`core_07_a_system_alignment_certification_evaluation.md`](core_07_a_system_alignment_certification_evaluation.md).
+> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter Seven, Part B** — certification **record** contents, transparency and contestability, forum component roles, supervisory sequence, standing bridge, and reopening (**§11–§16**, continuing from Part A §1–§10). **Part A** — evaluation requirements — is in [`core_07_a_system_alignment_certification_evaluation.md`](core_07_a_system_alignment_certification_evaluation.md).
 >
 > - **Constitutional owner (joint with Part A):** forum-supervised **system alignment certification and related records**.
 > - **Evaluation inputs:** [Part A §2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) through [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) supply evaluation outputs reflected on the certification record.
@@ -19,11 +19,7 @@
 
 <br>
 
-Chapter Seven, **Part B**, is the constitutional owner of the **certification record**, **forum-supervised process**, and **standing bridge** for system alignment certification. Evaluation requirements are in **[Part A](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation)**.
-
-<br>
-
-### 1. Purpose and Role (record and process)
+Chapter Seven, **Part B**, is the constitutional owner of the **certification record**, **forum-supervised process**, and **standing bridge** for system alignment certification. Evaluation requirements are in **[Part A](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation)**. Part A ends at [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation); this Part continues the chapter at **§11**.
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -36,7 +32,7 @@ Chapter Seven, **Part B**, is the constitutional owner of the **certification re
 
 <br>
 
-*In plain terms: Part A says what must be **evaluated**. Part B says what must go **on the record**, how **forums** run the process, how people **challenge** outcomes, and how certification may feed **standing** — without letting certification substitute for standing measurement or effects.*
+*In plain terms: Part A says what must be **evaluated**. Part B says what must go **on the record**, how **forums** run the process, how affected sentients **challenge** outcomes, and how certification may feed **standing** — without letting certification substitute for standing measurement or effects.*
 
 Forum-supervised certification must produce a bounded **System Alignment Certification Record** under [§11](#11-certification-record) that reflects Part A evaluation outputs, satisfies [§12](#12-transparency-auditability-and-contestability), follows the forum roles in [§13](#13-forum-supervision-and-component-roles) and supervisory sequence in [§14](#14-supervisory-sequence-and-contestability-chain), and may supply verified inputs to Chapter Eight only through [§15](#15-relationship-to-standing). Defective certification, misclassification, and evasion route under [§16](#16-reopening-drift-and-non-evasion).
 
@@ -50,7 +46,7 @@ Forum-supervised certification must produce a bounded **System Alignment Certifi
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§3](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (*whole-system evaluation factors*); [§2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) through [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) (*domain evaluation outputs reflected on the record*); [§12](#12-transparency-auditability-and-contestability) (*transparency, auditability, and contestability*); [§14](#14-supervisory-sequence-and-contestability-chain) (*supervisory sequence and contestability chain*).
+- Upstream: [Part A §1](core_07_a_system_alignment_certification_evaluation.md#1-purpose-and-role) (*certification purpose*); [§3](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (*whole-system evaluation factors*); [§2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) through [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) (*domain evaluation outputs reflected on the record*); [§12](#12-transparency-auditability-and-contestability) (*transparency, auditability, and contestability*); [§14](#14-supervisory-sequence-and-contestability-chain) (*supervisory sequence and contestability chain*).
 - Downstream: [§15](#15-relationship-to-standing) (*verified-input gate*); [Chapter Eleven](core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) (*forum-supervised certification process*).
 - Subsections: [§11.1](#111-minimum-record-contents) (*minimum record contents*); [§11.2](#112-cross-section-record-requirements) (*cross-section record requirements*); [§11.3](#113-rights-floor-record-evaluation-non-substitution) (*Rights-Floor record evaluation — non-substitution*).
 
@@ -69,7 +65,7 @@ A **System Alignment Certification Record** is a bounded, reviewable record conc
 
 The record must identify, at minimum:
 
-- **System identity, scope, and status:** the system, version, operator or steward, scope, affected communities, dependencies, and review status;
+- **System identity, scope, and status:** the system, version, operator or steward, scope, governing [Charter](core_05c_continuity_definitions.md#charter) or equivalent published scope instrument (or reasoned absence where immaterial), affected communities, dependencies, and review status — including whether certified scope matches the Charter's stated scope where a Charter exists;
 - **Whole-system evaluation findings:** material findings under [§3](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), including systemic scope, accessibility, privacy joint-invocation, exit, assembly, time-consistency, governance, incentive, and contestability findings where implicated;
 - **Classification and material-impact assumptions:** the system class assignment, classification rationale, and material-impact assumptions used, as required by [§2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation);
 - **Data scope and handling posture:** the data types materially in scope and the handling, separation, lifecycle, and infrastructure-assurance assumptions relied on, as required by [§4](core_07_a_system_alignment_certification_evaluation.md#4-data-types-and-handling-evaluation);
@@ -427,7 +423,7 @@ When forum-supervised challenge is required, internal operator review, vendor at
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) (*misclassification and misalignment*); [§5](core_07_a_system_alignment_certification_evaluation.md#5-ecological-footprint-evaluation) (*footprint misrepresentation and misalignment*); [§6](core_07_a_system_alignment_certification_evaluation.md#6-proportionate-cross-system-support-evaluation) (*resource-flow misrepresentation, extraction misalignment, and support inadequacy*); [§7](core_07_a_system_alignment_certification_evaluation.md#7-nondiscrimination-evaluation) (*discrimination-pattern misalignment and proxy evasion*); [§8](core_07_a_system_alignment_certification_evaluation.md#8-accessibility-evaluation) (*accessibility misalignment and paper-only accommodation*); [§9](core_07_a_system_alignment_certification_evaluation.md#9-educational-capability-and-learning-system-integrity-evaluation) (*assessment-opacity misalignment, credential gatekeeping, and imposed-obsolescence misalignment*); [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) (*false-trust misalignment, perverse-incentive misalignment, and recovery-integrity misalignment*); [§12](#12-transparency-auditability-and-contestability) (*contestability*); [§14](#14-supervisory-sequence-and-contestability-chain) (*credible challenge and reopening*); [Chapter Three §1](core_02-03_definition_mechanics.md#1-definition-integrity-and-anti-evasion-constraints) and [§2](core_02-03_definition_mechanics.md#2-non-compliance-from-observable-system-behavior) (*definition integrity and evasion*); [Chapter Three §2.1 Common Evasion Patterns](core_02-03_definition_mechanics.md#21-common-evasion-patterns) (*scope-and-boundary evasion*).
+- Upstream: [§2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) (*misclassification and misalignment*); [§5](core_07_a_system_alignment_certification_evaluation.md#5-ecological-footprint-evaluation) (*footprint misrepresentation and misalignment*); [§6](core_07_a_system_alignment_certification_evaluation.md#6-proportionate-cross-system-support-evaluation) (*resource-flow misrepresentation, extraction misalignment, and support inadequacy*); [§7](core_07_a_system_alignment_certification_evaluation.md#7-nondiscrimination-evaluation) (*discrimination-pattern misalignment and proxy evasion*); [§8](core_07_a_system_alignment_certification_evaluation.md#8-accessibility-evaluation) (*accessibility misalignment and paper-only accommodation*); [§9](core_07_a_system_alignment_certification_evaluation.md#9-educational-capability-and-learning-system-integrity-evaluation) (*assessment-opacity misalignment, credential gatekeeping, and imposed-obsolescence misalignment*); [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) (*false-trust misalignment, perverse-incentive misalignment, and recovery-integrity misalignment*); [§12](#12-transparency-auditability-and-contestability) (*contestability*); [§14](#14-supervisory-sequence-and-contestability-chain) (*credible challenge and reopening*); [Chapter Three §1](core_02-03_definition_mechanics.md#1-definition-integrity-and-anti-evasion-constraints) and [§2](core_02-03_definition_mechanics.md#2-non-compliance-from-observable-system-behavior) (*definition integrity and evasion*); [Chapter Three §2.1 Common Evasion Patterns](core_02-03_definition_mechanics.md#21-common-evasion-patterns) (*scope-and-boundary evasion*); [Charter](core_05c_continuity_definitions.md#charter) (*charter–behavior mismatch and overdue review*).
 - Downstream: [Chapter Eleven](core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) (*reopened forum supervision*); [Chapter Eight](core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) (*verified-input gate where facts support adverse findings*).
 - Read with: [corpus_systems.md](corpus_systems.md) (*incorporated system implementation duties*).
 
@@ -449,6 +445,7 @@ A **System Alignment Certification Record** is **scope-bound** and **time-bound*
   - credible challenge under [§14](#14-supervisory-sequence-and-contestability-chain);
   - ecological objection;
   - system-class misalignment, data-type or handling misalignment, or classification drift;
+  - [Charter](core_05c_continuity_definitions.md#charter) amendment, charter–behavior mismatch, operation materially outside chartered scope, or overdue periodic charter review;
 - **Domain misalignment** reflected on the certification record, including:
   - material footprint misrepresentation or misalignment under [§5](core_07_a_system_alignment_certification_evaluation.md#5-ecological-footprint-evaluation);
   - material discrimination-pattern misalignment or proxy evasion under [§7](core_07_a_system_alignment_certification_evaluation.md#7-nondiscrimination-evaluation);

@@ -384,7 +384,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 - Constitutional frame: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **oversight**, **accountability**, **participation**, and **timeliness**; [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — **Flourishing** (primary) and **Continuity**; scales with [material stake](core_00_preamble.md#material-stake).
 - Canonical owner: [Chapter Seven — System Alignment Certification](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) (*process, record contents, supervisory sequence, and standing-record bridge*); read with [Constitutional Owner Layers](core_05i_integrative_definitions.md#constitutional-owner-layers).
 - Downstream: [Chapter Eight — Standing records and verified-input gate](core_08-08_standing_assessment.md#2-standing-records); [Chapter Eleven](core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) (*forum supervision*); [Article III-A](core_06-06_rights_part_a.md#article-iii-a-survival) (*survival-essential access floor where certification gates delivery or continued operation*); [Article IV-A](core_06-06_rights_part_a.md#article-iv-a-dependency-mapping-and-resource-flow-transparency) (*Dependency Mapping and Resource-Flow Transparency*) and [Article IV-B](core_06-06_rights_part_a.md#article-iv-b-cross-system-fairness-and-sustainability) (*resource allocation and dependency stewardship where certification gates shared-infrastructure reliance*).
-- Read with: [Classification-Scaled Governance](core_05o_oversight_definitions.md#classification-scaled-governance), [Auditability](core_05o_oversight_definitions.md#auditability), [Contestability](core_05a_accountability_definitions.md#contestability), [Timely Resolution](core_05a_accountability_definitions.md#timely-resolution-constitutional), [Verified Inputs for Standing](core_05a_accountability_definitions.md#verified-inputs-for-standing), [Standing Record](core_05a_accountability_definitions.md#standing-record-chapter-six), [Trustworthiness](core_05c_continuity_definitions.md#trustworthiness), [System Boundaries](core_05c_continuity_definitions.md#system-boundaries), [System Capture](core_05c_continuity_definitions.md#system-capture), and [corpus_systems.md](corpus_systems.md) **CS-4 — System classification and handling**.
+- Read with: [Classification-Scaled Governance](core_05o_oversight_definitions.md#classification-scaled-governance), [Auditability](core_05o_oversight_definitions.md#auditability), [Contestability](core_05a_accountability_definitions.md#contestability), [Timely Resolution](core_05a_accountability_definitions.md#timely-resolution-constitutional), [Verified Inputs for Standing](core_05a_accountability_definitions.md#verified-inputs-for-standing), [Standing Record](core_05a_accountability_definitions.md#standing-record-chapter-six), [Trustworthiness](core_05c_continuity_definitions.md#trustworthiness), [System Boundaries](core_05c_continuity_definitions.md#system-boundaries), [Charter](core_05c_continuity_definitions.md#charter), [System Capture](core_05c_continuity_definitions.md#system-capture), and [corpus_systems.md](corpus_systems.md) **CS-4 — System classification and handling**.
 
 </details>
 
@@ -1078,14 +1078,17 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 
 ---
 
+<a id="system-boundaries-integrity-and-exit"></a>
+
 #### System boundaries, integrity, and exit
 
-**Cluster context:** This semi-independent topic group establishes how constitutional evaluation scopes and constrains system behavior. [System](core_05c_continuity_definitions.md#system-definition) provides the foundational definition of structured components producing effects on sentients. [System Boundaries](core_05c_continuity_definitions.md#system-boundaries) defines functional scope based on material impact and dependency rather than formal or jurisdictional limits. [System Boundary Integrity](core_05c_continuity_definitions.md#system-boundary-integrity) requires accuracy and stability in boundary definition to prevent manipulation. [Systemic Lock-In](core_05c_continuity_definitions.md#systemic-lock-in) identifies conditions where exit or corrective action is foreclosed, negating [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency) and [Contestability](core_05a_accountability_definitions.md#contestability). These definitions ensure systems are evaluated in full functional scope with meaningful pathways for change and exit.
+**Cluster context:** This semi-independent topic group establishes how constitutional evaluation scopes and constrains system behavior. [System](core_05c_continuity_definitions.md#system-definition) provides the foundational definition of structured components producing effects on sentients. [System Boundaries](core_05c_continuity_definitions.md#system-boundaries) defines functional scope based on material impact and dependency rather than formal or jurisdictional limits. [System Boundary Integrity](core_05c_continuity_definitions.md#system-boundary-integrity) requires accuracy and stability in boundary definition to prevent manipulation. [Charter](core_05c_continuity_definitions.md#charter) is the published scope instrument stating what a system, institution, or business claims authority to do — amendable over time, but subject to periodic alignment review. [Systemic Lock-In](core_05c_continuity_definitions.md#systemic-lock-in) identifies conditions where exit or corrective action is foreclosed, negating [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency) and [Contestability](core_05a_accountability_definitions.md#contestability). These definitions ensure systems are evaluated in full functional scope with meaningful pathways for change and exit.
 
 **Topic group members.** This group comprises:
 - [System](core_05c_continuity_definitions.md#system-definition);
 - [System Boundaries](core_05c_continuity_definitions.md#system-boundaries);
 - [System Boundary Integrity](core_05c_continuity_definitions.md#system-boundary-integrity);
+- [Charter](core_05c_continuity_definitions.md#charter);
 - [Systemic Lock-In](core_05c_continuity_definitions.md#systemic-lock-in).
 
 <a id="system-definition"></a>
@@ -1142,6 +1145,45 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 <a id="system-boundary-integrity-c"></a>
 - **What must hold**
   - Boundaries must be auditable, stable, and contestable.
+
+<a id="charter"></a>
+
+---
+#### Charter
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Constitutional frame: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **oversight**, **accountability**, and **timeliness**; [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims); scales with [material stake](core_00_preamble.md#material-stake).
+- Downstream: [Chapter Seven](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) (*certification record scope and reopening*); [Chapter Eleven §4.3](core_11-11_forum.md#43-institutional-forums) (*institutional mandate and supervised-scope disputes*); [corpus_institutions.md](corpus_institutions.md) **CI-3.6** (*Charter contents, review, and formation template*).
+- Cluster component: [System boundaries, integrity, and exit](#system-boundaries-integrity-and-exit).
+- Read with: [System Boundaries](core_05c_continuity_definitions.md#system-boundaries), [System Boundary Integrity](core_05c_continuity_definitions.md#system-boundary-integrity), [System Alignment Certification](core_05c_continuity_definitions.md#system-alignment-certification-constitutional), [Governance](core_05a_accountability_definitions.md#governance), [System Creation](core_05p_participation_definitions.md#system-creation-constitutional), [Business Creation](core_05p_participation_definitions.md#business-creation-constitutional), [Classification-Scaled Governance](core_05o_oversight_definitions.md#classification-scaled-governance), and [Authority Stack and Internal Hierarchy](core_05i_integrative_definitions.md#authority-stack).
+- Distinguish: Chapter Twelve **treaty, compact, or charter** legitimacy-mechanism family ([core_12-12_governance.md](core_12-12_governance.md)) is a polity-authorization pathway sense — not this scope-instrument definition.
+
+</details>
+
+<br>
+
+*In plain terms: a **Charter** is the published statement of what a system, institution, or business is for and what it is allowed to do. Scope can change, but not silently — amendments and periodic review keep the paper matched to real behavior. A Charter is not a shield against impact-based classification or full-boundary evaluation.*
+
+- **What it is**
+  - **In scope:** The published, amendable scope instrument for a [System](core_05c_continuity_definitions.md#system-definition), institution, business, or comparable stewarded organizational form. A Charter states claimed purpose, in-scope activities, material out-of-scope limits, affected communities or dependencies where material, amendment authority, and periodic-review cadence scaled to [material stake](core_00_preamble.md#material-stake) under [Proportionality](core_05a_accountability_definitions.md#proportionality) and [Classification-Scaled Governance](core_05o_oversight_definitions.md#classification-scaled-governance). It supports [System Creation](core_05p_participation_definitions.md#system-creation-constitutional) and [Business Creation](core_05p_participation_definitions.md#business-creation-constitutional) by making operated scope reviewable without narrowing those floors. Adopt, amend, and supervise mechanics route to [corpus_institutions.md](corpus_institutions.md) under **Chapter Sixteen** incorporation discipline.
+  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter; treating Charter text as a substitute for [System Boundaries](core_05c_continuity_definitions.md#system-boundaries) or as proof of classification under **CS-4**; polity-founding **treaty, compact, or charter** authorization mechanisms under Chapter Twelve (different sense).
+<a id="charter-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** Continuity measurement family — supporting measure under the continuity measurement family.
+
+    **Primary assessment:** Evaluate whether:
+    1. a governing Charter exists where the entity is materially impactful, or an equivalent published scope instrument is identified and reasoned;
+    2. stated purpose and in-scope / out-of-scope limits are specific enough to test against observed operation;
+    3. periodic-review cadence and amendment records match class, dependency, and risk;
+    4. observed behavior, dependency, and impact remain within chartered scope — or material mismatch is disclosed and routed to amendment, recertification, or reopening; and
+    5. Charter claims do not understate [System Boundaries](core_05c_continuity_definitions.md#system-boundaries) defined by [Material Impact](core_05o_oversight_definitions.md#material-impact) and [Dependency](core_05c_continuity_definitions.md#dependency).
+<a id="charter-c"></a>
+- **What must hold**
+  - **Primary failure:** operating materially outside chartered scope while treating the Charter as current authorization;
+  - **Secondary failure:** overdue periodic charter review, silent scope expansion, or amendment without recorded authority;
+  - **Tertiary failure:** using Charter text to defeat [System Boundary Integrity](core_05c_continuity_definitions.md#system-boundary-integrity), understate class, or narrow [System Creation](core_05p_participation_definitions.md#system-creation-constitutional) / [Business Creation](core_05p_participation_definitions.md#business-creation-constitutional) floors.
 
 
 <a id="systemic-lock-in"></a>
