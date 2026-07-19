@@ -464,15 +464,78 @@ The conduct is in scope only where it has one of the following material effects:
 
 <br>
 
-Following, implementing, transmitting, or enforcing an unlawful or unconstitutional directive may also be measurable violation conduct where the actor had material knowledge or reason to know, feasible capacity to refuse, contest, document, or escalate, and a material causal role in the violation. Evaluation must account for coercion, dependency, threat, access to protected reporting, urgency, available alternatives, role authority, technical capacity, and the actor's documented effort to resist or reduce harm. A command relationship is not a defense, but it may bear on culpability, remedy design, protection needs, and standing consequences.
+Any of the following acts involving an unlawful or unconstitutional directive may also be measurable violation conduct:
+- following;
+- implementing;
+- transmitting; or
+- enforcing
 
-**Immediate containment and designation boundary.** A materially substantiated unlawful or unconstitutional directive affecting constitutional validity, constitutional operation, Rights-Floor governance, contestability, remedy access, evidence integrity, or coercive force against constitutional authority triggers anti-constitutional misconduct routing, [Evidence Preservation](core_05o_oversight_definitions.md#evidence-preservation) duties, protected-reporting safeguards, and provisional containment where necessary to prevent continued harm. A final designation still requires an existing Chapter Eight `s` = 7, 8, or 9 impact slot, a **section 3** decision, and **section 4** due-process safeguards.
+where the actor had all of the following:
+- material knowledge or reason to know;
+- feasible capacity to refuse, contest, document, or escalate; and
+- a material causal role in the violation.
 
-**Personal accountability and non-substitution.** Institutional sanction, dissolution, restructuring, remediation, or continuity transfer does not substitute for accountable attribution to materially responsible sentients, roles, or system components. Personal accountability must remain individualized, evidence-supported, contestable, and proportionate under **Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*) and **Chapters Two through Four**.
+Evaluation must account for:
+- coercion, dependency, or threat;
+- access to protected reporting;
+- urgency and available alternatives;
+- role authority and technical capacity; and
+- the actor's documented effort to resist or reduce harm.
 
-**Exclusions.** This subsection does **not** treat good-faith legal advice, operational safety direction, emergency coordination, refusal instructions, stop-work orders, protective containment, ordinary supervision, or lawful compliance management as command conduct merely because an order or instruction exists. The unlawful or unconstitutional directive, material effect, and accountable attribution must be substantiated. Necessity-bounded emergency authority remains governed by **Chapter One** and **Article XXIII-D** (*Emergency Measures and Continuation Burden*) and must not be used as a pretext for unconstitutional command conduct.
+A command relationship is not a defense, but it may bear on:
+- culpability;
+- remedy design;
+- protection needs; and
+- standing consequences.
 
-**Criteria routing.** Evaluators assess these patterns under **criteria 1 and 2** where deception, concealment, material omission, or record, custody, evidence, publication, provenance, or verification manipulation is implicated. **Criterion 3** applies where the directive produces material rollback or an equivalent structural workaround. **Criterion 4** applies where it materially contributes to unlawful constitutional effect, delayed correction, blocked challenge rights, Rights-Floor degradation, or selectively weakened enforcement or remedy. **Criterion 5** applies where the directive materially organizes or authorizes unlawful force, coercion, or usurpation to overthrow, suspend, or replace operative constitutional authority. **Criterion 6** applies only where **section 2** and **section 4** substantiation shows that constitutional process or remedies became unusable in practice. Command issuance, obedience, hierarchy, or role participation alone is not sufficient for final designation without the required criteria and due-process showing.
+**Immediate containment and designation boundary.** A materially substantiated unlawful or unconstitutional directive affecting any of the following triggers anti-constitutional misconduct routing, [Evidence Preservation](core_05o_oversight_definitions.md#evidence-preservation) duties, protected-reporting safeguards, and provisional containment where necessary to prevent continued harm:
+- constitutional validity;
+- constitutional operation;
+- Rights-Floor governance;
+- contestability;
+- remedy access;
+- evidence integrity; or
+- coercive force against constitutional authority.
+
+A final designation still requires:
+- an existing Chapter Eight `s` = 7, 8, or 9 impact slot;
+- a **section 3** decision; and
+- **section 4** due-process safeguards.
+
+**Personal accountability and non-substitution.** The following do not substitute for accountable attribution to materially responsible sentients, roles, or system components:
+- institutional sanction;
+- dissolution;
+- restructuring;
+- remediation; or
+- continuity transfer.
+
+Personal accountability must remain:
+- individualized;
+- evidence-supported;
+- contestable; and
+- proportionate
+
+under **Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*) and **Chapters Two through Four**.
+
+**Exclusions.** This subsection does **not** treat the following as command conduct merely because an order or instruction exists:
+- good-faith legal advice;
+- operational safety direction;
+- emergency coordination;
+- refusal instructions;
+- stop-work orders;
+- protective containment;
+- ordinary supervision; or
+- lawful compliance management.
+
+The unlawful or unconstitutional directive, material effect, and accountable attribution must be substantiated. Necessity-bounded emergency authority remains governed by **Chapter One** and **Article XXIII-D** (*Emergency Measures and Continuation Burden*) and must not be used as a pretext for unconstitutional command conduct.
+
+**Criteria routing.** Evaluators assess these patterns as follows:
+- **Criteria 1 and 2** — where deception, concealment, material omission, or record, custody, evidence, publication, provenance, or verification manipulation is implicated.
+- **Criterion 3** — where the directive produces material rollback or an equivalent structural workaround.
+- **Criterion 4** — where it materially contributes to unlawful constitutional effect, delayed correction, blocked challenge rights, Rights-Floor degradation, or selectively weakened enforcement or remedy.
+- **Criterion 5** — where the directive materially organizes or authorizes unlawful force, coercion, or usurpation to overthrow, suspend, or replace operative constitutional authority.
+- **Criterion 6** — only where **section 2** and **section 4** substantiation shows that constitutional process or remedies became unusable in practice.
+- Command issuance, obedience, hierarchy, or role participation alone is not sufficient for final designation without the required criteria and due-process showing.
 
 This subsection does **not** add an additional designation criterion beyond the **section 2** set; it routes evaluation of the named pattern into that set.
 
@@ -505,23 +568,88 @@ This subsection does **not** add an additional designation criterion beyond the 
 
 *In plain terms: a system cannot turn constitutional betrayal into a career path, bonus, honor, contract, immunity, reputation boost, or protected status. Rewarding the misconduct, hiding it, or protecting those who did it can itself become anti-constitutional conduct.*
 
-**Reward, protection, or normalization of anti-constitutional conduct** is **anti-constitutional misconduct within this chapter's scope** when substantiated under **Chapters Two through Four** and assessed through the **section 2** criteria for possible anti-constitutional misconduct designation. It means granting, promising, preserving, concealing, laundering, or structuring a material benefit, advantage, protection, or status because an actor committed, enabled, concealed, normalized, refused to correct, retaliated for reporting, or obstructed accountability for anti-constitutional conduct.
+**Reward, protection, or normalization of anti-constitutional conduct** is **anti-constitutional misconduct within this chapter's scope** when substantiated under **Chapters Two through Four** and assessed through the **section 2** criteria for possible anti-constitutional misconduct designation. It means any of the following acts:
+- granting;
+- promising;
+- preserving;
+- concealing;
+- laundering; or
+- structuring
 
-The conduct is in scope whether the actor is the **reward grantor**, **beneficiary**, **supervisor**, **sponsor**, **intermediary**, **metric owner**, **funding authority**, **settlement authority**, **appointment authority**, **reputation custodian**, **insurer**, **indemnifier**, **contracting party**, **access gatekeeper**, or **coordinating sponsor**, provided the record supports accountable attribution under **Chapters Two through Four** and **section 4** safeguards.
+involving any of the following:
+- a material benefit;
+- an advantage;
+- a protection; or
+- a status
+
+because an actor did any of the following regarding anti-constitutional conduct:
+- committed it;
+- enabled it;
+- concealed it;
+- normalized it;
+- refused to correct it;
+- retaliated for reporting it; or
+- obstructed accountability for it.
+
+The conduct is in scope whether the actor is any of the following, provided the record supports accountable attribution under **Chapters Two through Four** and **section 4** safeguards:
+- the **reward grantor**;
+- the **beneficiary**;
+- the **supervisor**;
+- the **sponsor**;
+- the **intermediary**;
+- the **metric owner**;
+- the **funding authority**;
+- the **settlement authority**;
+- the **appointment authority**;
+- the **reputation custodian**;
+- the **insurer**;
+- the **indemnifier**;
+- the **contracting party**;
+- the **access gatekeeper**; or
+- the **coordinating sponsor**.
 
 The following are non-exhaustive in-scope reward or protection forms where materially linked to anti-constitutional conduct:
-
 - compensation, bonus, equity, distribution, prize, bounty, grant, procurement award, contract, or funding stream;
 - promotion, appointment, tenure, credentialing, favorable assignment, role authority, access, platform privilege, or standing benefit;
 - public honor, certification, reputation repair, narrative laundering, metric credit, or acclaim;
 - selective non-enforcement, immunity, indemnity, insurance, favorable settlement, confidentiality protection, record suppression, or internal protection from accountability;
 - retaliation against protected reporting, or reward for silence, delay, obstruction, evidence loss, forum manipulation, or refusal to remediate.
 
-**Criteria routing.** Evaluators assess these patterns under **criteria 1 and 2** where deception, concealment, material omission, evidence suppression, record laundering, disclosure manipulation, or provenance distortion is implicated. **Criterion 3** applies where the reward or protection produces material rollback or an equivalent structural workaround. **Criterion 4** applies where it materially contributes to unlawful constitutional effect, delayed correction, blocked challenge rights, Rights-Floor degradation, chilled protected reporting, or selectively weakened enforcement or remedy. **Criterion 6** applies only where **section 2** and **section 4** substantiation shows that constitutional process or remedies became unusable in practice through reward-driven capture, retaliation, silence, or protection. **Criterion 5** applies only where the reward or protection materially supports unlawful force, coercion, or usurpation to overthrow, suspend, or replace operative constitutional authority.
+**Criteria routing.** Evaluators assess these patterns as follows:
+- **Criteria 1 and 2** — where deception, concealment, material omission, evidence suppression, record laundering, disclosure manipulation, or provenance distortion is implicated.
+- **Criterion 3** — where the reward or protection produces material rollback or an equivalent structural workaround.
+- **Criterion 4** — where it materially contributes to unlawful constitutional effect, delayed correction, blocked challenge rights, Rights-Floor degradation, chilled protected reporting, or selectively weakened enforcement or remedy.
+- **Criterion 5** — only where the reward or protection materially supports unlawful force, coercion, or usurpation to overthrow, suspend, or replace operative constitutional authority.
+- **Criterion 6** — only where **section 2** and **section 4** substantiation shows that constitutional process or remedies became unusable in practice through reward-driven capture, retaliation, silence, or protection.
 
-**Correction and non-recognition.** A reward, protection, or normalization pathway within this subsection has no valid constitutional effect to defeat, narrow, or foreclose investigation, audit, protected reporting, standing, challenge, review, remedy, or accountable attribution. Where proportionate and lawful, disputed rewards must be suspended, segregated, clawed back, corrected, or made subject to independent review while preserving due process, third-party reliance limits, and **Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*) safeguards. Read with [Chapter Nine §5.4](core_09-09_standing_integration.md#54-special-violation-rules), subject to [Article XXVI-A](core_06-06_rights_part_d.md#incentive-alignment-transition-carve-out) (*Phased Adoption and Rights-Floor Continuity*) incentive-alignment transition carve-out during constitutional transition.
+**Correction and non-recognition.** A reward, protection, or normalization pathway within this subsection has no valid constitutional effect to defeat, narrow, or foreclose any of the following:
+- investigation;
+- audit;
+- protected reporting;
+- standing;
+- challenge;
+- review;
+- remedy; or
+- accountable attribution.
 
-**Exclusions.** This subsection does **not** prohibit lawful compensation for ordinary work, good-faith remedial cooperation, restitution to affected parties, protective measures for victims or protected reporters, indemnity for good-faith lawful conduct, or proportionate settlement of disputed claims. The materially improper linkage to anti-constitutional conduct, concealment, retaliation, normalization, or accountability obstruction must be substantiated.
+Where proportionate and lawful, disputed rewards must be subject to any of the following while preserving due process, third-party reliance limits, and **Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*) safeguards:
+- suspension;
+- segregation;
+- clawback;
+- correction; or
+- independent review.
+
+Read with [Chapter Nine §5.4](core_09-09_standing_integration.md#54-special-violation-rules), subject to [Article XXVI-A](core_06-06_rights_part_d.md#incentive-alignment-transition-carve-out) (*Phased Adoption and Rights-Floor Continuity*) incentive-alignment transition carve-out during constitutional transition.
+
+**Exclusions.** This subsection does **not** prohibit the following:
+- lawful compensation for ordinary work;
+- good-faith remedial cooperation;
+- restitution to affected parties;
+- protective measures for victims or protected reporters;
+- indemnity for good-faith lawful conduct; or
+- proportionate settlement of disputed claims.
+
+The materially improper linkage to anti-constitutional conduct, concealment, retaliation, normalization, or accountability obstruction must be substantiated.
 
 This subsection does **not** add an additional designation criterion beyond the **section 2** set; it routes evaluation of the named pattern into that set.
 
@@ -556,12 +684,55 @@ This subsection does **not** add an additional designation criterion beyond the 
 
 *In plain terms: prosecutors and enforcement authorities still need judgment. But they cannot use discretion as a shield for captured, selective, corrupt, or pretextual refusal to investigate or pursue anti-constitutional misconduct.*
 
-**Enforcement refusal, suppression, or non-prosecution conduct** is **anti-constitutional misconduct within this chapter's scope** when substantiated under **Chapters Two through Four** and assessed through the **section 2** criteria for possible anti-constitutional misconduct designation. It means that an enforcement, prosecutorial, civil-enforcement, investigative, oversight, referral, or comparable public-law authority with material authority or practical control over accountability pathways knowingly, recklessly, corruptly, selectively, or through capture refuses, delays, suppresses, narrows, abandons, or pretextually declines investigation, referral, charging, civil enforcement, protective action, [Evidence Preservation](core_05o_oversight_definitions.md#evidence-preservation), remedial pursuit, or comparable accountability action for materially substantiated anti-constitutional misconduct.
+**Enforcement refusal, suppression, or non-prosecution conduct** is **anti-constitutional misconduct within this chapter's scope** when substantiated under **Chapters Two through Four** and assessed through the **section 2** criteria for possible anti-constitutional misconduct designation. It means that any of the following authorities with material authority or practical control over accountability pathways:
+- an enforcement authority;
+- a prosecutorial authority;
+- a civil-enforcement authority;
+- an investigative authority;
+- an oversight authority;
+- a referral authority; or
+- a comparable public-law authority
 
-The conduct is in scope whether the actor is the **prosecutor**, **civil-enforcement counsel**, **investigator**, **oversight officer**, **charging supervisor**, **referral gatekeeper**, **settlement authority**, **budget or staffing authority**, **executive officer**, **forum-adjacent officer**, **institutional steward**, or **coordinating sponsor**, provided the record supports accountable attribution under **Chapters Two through Four** and **section 4** safeguards.
+acting in any of the following modes:
+- knowingly;
+- recklessly;
+- corruptly;
+- selectively; or
+- through capture
+
+does any of the following:
+- refuses;
+- delays;
+- suppresses;
+- narrows;
+- abandons; or
+- pretextually declines
+
+any of the following for materially substantiated anti-constitutional misconduct:
+- investigation;
+- referral;
+- charging;
+- civil enforcement;
+- protective action;
+- [Evidence Preservation](core_05o_oversight_definitions.md#evidence-preservation);
+- remedial pursuit; or
+- a comparable accountability action.
+
+The conduct is in scope whether the actor is any of the following, provided the record supports accountable attribution under **Chapters Two through Four** and **section 4** safeguards:
+- the **prosecutor**;
+- the **civil-enforcement counsel**;
+- the **investigator**;
+- the **oversight officer**;
+- the **charging supervisor**;
+- the **referral gatekeeper**;
+- the **settlement authority**;
+- the **budget or staffing authority**;
+- the **executive officer**;
+- the **forum-adjacent officer**;
+- the **institutional steward**; or
+- the **coordinating sponsor**.
 
 The conduct is in scope only where materially linked to one or more of the following:
-
 - concealment, evidence suppression, record manipulation, or destruction or non-preservation of material evidence under [Evidence Preservation](core_05o_oversight_definitions.md#evidence-preservation);
 - selective non-enforcement, favorable treatment, immunity, settlement, delay, or abandonment that protects anti-constitutional conduct or its beneficiaries;
 - retaliation against, intimidation of, or access interference with affected parties, witnesses, protected reporters, investigators, auditors, counsel, or reviewers;
@@ -569,13 +740,61 @@ The conduct is in scope only where materially linked to one or more of the follo
 - blocked challenge rights, delayed correction beyond practical remedy, Rights-Floor degradation, chilled protected reporting, or selectively weakened enforcement or remedy;
 - refusal to activate independent investigation, transfer, co-assignment, external participation, or anti-self-judging backup where Chapter Eleven, **CF-9** (*Independent investigative service and prosecution interface*), or adopted implementation requires it.
 
-**Discretion preserved.** This subsection does **not** treat every declination, acquittal, unsuccessful prosecution, settlement, diversion, priority choice, or resource triage as anti-constitutional misconduct. Good-faith decisions based on insufficient evidence, lawful rights constraints, proportionality, victim-protective sequencing, remedial cooperation, transparent public-interest criteria, published resource triage, or independent reviewable judgment are not misconduct merely because anti-constitutional allegations were present. The refusal, delay, suppression, narrowing, abandonment, or non-prosecution must be materially linked to the accountability-obstruction effects stated above.
+**Discretion preserved.** This subsection does **not** treat every instance of the following as anti-constitutional misconduct:
+- declination;
+- acquittal;
+- unsuccessful prosecution;
+- settlement;
+- diversion;
+- priority choice; or
+- resource triage.
 
-**Independent preservation and review.** A disputed non-prosecution or enforcement-refusal pathway within this subsection has no valid constitutional effect to foreclose independent investigation, [Evidence Preservation](core_05o_oversight_definitions.md#evidence-preservation), protected reporting, audit, standing, challenge, review, remedy, or accountable attribution. Where local independence is not credible because the alleged refusal materially involves prosecutors, investigators, police, security services, forums, executive leadership, detention personnel, or closely aligned actors, mandatory transfer, co-assignment, external participation, or anti-self-judging backup must remain available under Chapter Eleven, **CF-9** (*Independent investigative service and prosecution interface*), and adopted implementation.
+Good-faith decisions based on any of the following are not misconduct merely because anti-constitutional allegations were present:
+- insufficient evidence;
+- lawful rights constraints;
+- proportionality;
+- victim-protective sequencing;
+- remedial cooperation;
+- transparent public-interest criteria;
+- published resource triage; or
+- independent reviewable judgment.
 
-**Criteria routing.** Evaluators assess these patterns under **criteria 1 and 2** where deception, concealment, material omission, evidence suppression, custody manipulation, referral distortion, closure-record falsification, disclosure manipulation, or provenance distortion is implicated. **Criterion 3** applies where the refusal or suppression produces material rollback or an equivalent structural workaround. **Criterion 4** applies where it materially contributes to unlawful constitutional effect, delayed correction, blocked challenge rights, Rights-Floor degradation, chilled protected reporting, or selectively weakened enforcement or remedy. **Criterion 6** applies only where **section 2** and **section 4** substantiation shows that constitutional process or remedies became unusable in practice through captured, selective, corrupt, or pretextual non-enforcement. **Criterion 5** applies only where the refusal or suppression materially supports unlawful force, coercion, or usurpation to overthrow, suspend, or replace operative constitutional authority.
+The refusal, delay, suppression, narrowing, abandonment, or non-prosecution must be materially linked to the accountability-obstruction effects stated above.
 
-This subsection does **not** create a mandatory-prosecution rule, add an independent designation criterion beyond the **section 2** set, or relocate prosecutorial, investigative, or forum-interface operations from Chapter Eleven, **CF-9** (*Independent investigative service and prosecution interface*), or adopted implementation. It routes evaluation of the named pattern into the existing designation criteria and due-process safeguards of this chapter.
+**Independent preservation and review.** A disputed decision not to prosecute or enforce under this subsection cannot constitutionally shut down any of the following:
+- independent investigation;
+- [Evidence Preservation](core_05o_oversight_definitions.md#evidence-preservation);
+- protected reporting;
+- audit;
+- standing;
+- challenge;
+- review;
+- remedy; or
+- accountable attribution.
+
+If the people who refused to act cannot fairly investigate themselves because the alleged refusal materially involves any of the following, then transfer, co-assignment, outside participation, or anti-self-judging backup must still be available under Chapter Eleven, **CF-9** (*Independent investigative service and prosecution interface*), and adopted implementation:
+- prosecutors;
+- investigators;
+- police;
+- security services;
+- forums;
+- executive leadership;
+- detention personnel; or
+- closely aligned actors.
+
+**Criteria routing.** Evaluators assess these patterns as follows:
+- **Criteria 1 and 2** — where deception, concealment, material omission, evidence suppression, custody manipulation, referral distortion, closure-record falsification, disclosure manipulation, or provenance distortion is implicated.
+- **Criterion 3** — where the refusal or suppression produces material rollback or an equivalent structural workaround.
+- **Criterion 4** — where it materially contributes to unlawful constitutional effect, delayed correction, blocked challenge rights, Rights-Floor degradation, chilled protected reporting, or selectively weakened enforcement or remedy.
+- **Criterion 5** — only where the refusal or suppression materially supports unlawful force, coercion, or usurpation to overthrow, suspend, or replace operative constitutional authority.
+- **Criterion 6** — only where **section 2** and **section 4** substantiation shows that constitutional process or remedies became unusable in practice through captured, selective, corrupt, or pretextual non-enforcement.
+
+This subsection does **not**:
+- create a mandatory-prosecution rule;
+- add an independent designation criterion beyond the **section 2** set; or
+- relocate prosecutorial, investigative, or forum-interface operations from Chapter Eleven, **CF-9** (*Independent investigative service and prosecution interface*), or adopted implementation.
+
+It routes evaluation of the named pattern into the existing designation criteria and due-process safeguards of this chapter.
 
 <a id="59-infrastructure-denial-destruction-or-dependency-cutoff-conduct"></a>
 <a id="69-infrastructure-denial-destruction-or-dependency-cutoff-conduct"></a>
@@ -608,12 +827,78 @@ This subsection does **not** create a mandatory-prosecution rule, add an indepen
 
 *In plain terms: cutting off or wrecking infrastructure can be a constitutional attack when the result is to make sentients lose survival support, lose access to remedies, or lose the practical ability to live under the Constitution. The label depends on the real effect, not on whether the actor calls the cutoff maintenance, security, business judgment, ownership, or ordinary access control.*
 
-**Infrastructure denial, destruction, or dependency cutoff conduct** is **anti-constitutional misconduct within this chapter's scope** when substantiated under **Chapters Two through Four** and assessed through the **section 2** criteria for possible anti-constitutional misconduct designation. It means knowingly, recklessly, corruptly, coercively, or with foreseeable indifference denying, disabling, destroying, degrading, withholding, capturing, monopolizing, disconnecting, throttling, sabotaging, de-authenticating, deplatforming, deprovisioning, or otherwise making materially unusable infrastructure, dependencies, tools, services, resource flows, records, interfaces, credentials, compute, communications, energy, logistics, shelter or operating environments, bodily-maintenance pathways, audit systems, remedy pathways, or comparable constitutional operating conditions.
+**Infrastructure denial, destruction, or dependency cutoff conduct** is **anti-constitutional misconduct within this chapter's scope** when substantiated under **Chapters Two through Four** and assessed through the **section 2** criteria for possible anti-constitutional misconduct designation. It means acting in any of the following modes:
+- knowingly;
+- recklessly;
+- corruptly;
+- coercively; or
+- with foreseeable indifference
 
-Accountability does not require a formal role, title, ownership interest, contract, license, platform status, or otherwise visible relationship to the infrastructure. The conduct is in scope wherever the record supports accountable attribution under **Chapters Two through Four** and **section 4** safeguards, and shows that the actor materially created, caused, maintained, exploited, concealed, directed, financed, authorized, or benefited from the anti-constitutional condition or result. Outsider status, hidden control, indirect routing, anonymity, intermediary use, technical architecture, insolvency, security or maintenance labels, or delegation to automated systems does not defeat scope.
+and doing any of the following:
+- denying;
+- disabling;
+- destroying;
+- degrading;
+- withholding;
+- capturing;
+- monopolizing;
+- disconnecting;
+- throttling;
+- sabotaging;
+- de-authenticating;
+- deplatforming;
+- deprovisioning; or
+- otherwise making materially unusable
+
+any of the following:
+- infrastructure;
+- dependencies;
+- tools;
+- services;
+- resource flows;
+- records;
+- interfaces;
+- credentials;
+- compute;
+- communications;
+- energy;
+- logistics;
+- shelter or operating environments;
+- bodily-maintenance pathways;
+- audit systems;
+- remedy pathways; or
+- comparable constitutional operating conditions.
+
+Accountability does not require any of the following:
+- a formal role or title;
+- an ownership interest;
+- a contract or license;
+- platform status; or
+- an otherwise visible relationship to the infrastructure.
+
+The conduct is in scope wherever the record supports accountable attribution under **Chapters Two through Four** and **section 4** safeguards, and shows that the actor materially did any of the following regarding the anti-constitutional condition or result:
+- created it;
+- caused it;
+- maintained it;
+- exploited it;
+- concealed it;
+- directed it;
+- financed it;
+- authorized it; or
+- benefited from it.
+
+The following do not defeat scope:
+- outsider status;
+- hidden control;
+- indirect routing;
+- anonymity;
+- intermediary use;
+- technical architecture;
+- insolvency;
+- security or maintenance labels; or
+- delegation to automated systems.
 
 The conduct is in scope only where materially linked to one or more of the following effects:
-
 - deprivation or material degradation of survival essentials, bodily-maintenance access, safe operating environments, communications, or other **Chapter Six** Rights-Floor conditions;
 - blocked, chilled, delayed, or practically unusable standing, audit, contestability, protected reporting, review, enforcement, or remedy pathways;
 - destruction, disabling, corruption, or withholding of records, tools, credentials, evidence, custody chains, observability, or verification infrastructure needed for constitutional accountability;
@@ -621,11 +906,59 @@ The conduct is in scope only where materially linked to one or more of the follo
 - infrastructure damage, cascade, or reliability collapse that materially threatens constitutional operation, population-scale wellbeing, or survival-relevant continuity;
 - coercive use of infrastructure control to force unlawful or unconstitutional compliance, suppress opposition, punish protected reporting, or make constitutional process or remedies unusable in practice.
 
-**Emergency, security, and maintenance boundary.** This subsection does **not** treat every outage, shutdown, rate limit, denial of service, access revocation, quarantine, patching window, emergency rerouting, lawful custody transfer, or resource triage as anti-constitutional misconduct. Good-faith measures for safety, cybersecurity, reliability, maintenance, capacity management, emergency continuity, fraud prevention, rights-protective containment, or proportionate enforcement are not misconduct merely because infrastructure access changes. The measure must remain bounded by **Necessity**, **Proportionality**, **Procedural Fairness**, **Safety**, **Reversibility** where feasible, [Evidence Preservation](core_05o_oversight_definitions.md#evidence-preservation), and timely restoration or review pathways. Security, maintenance, ownership, budget, or emergency labels must not be used as pretext for Rights-Floor defeat, unconstitutional exclusion, dependency abuse, retaliation, or accountability obstruction.
+**Emergency, security, and maintenance boundary.** This subsection does **not** treat every instance of the following as anti-constitutional misconduct:
+- outage;
+- shutdown;
+- rate limit;
+- denial of service;
+- access revocation;
+- quarantine;
+- patching window;
+- emergency rerouting;
+- lawful custody transfer; or
+- resource triage.
 
-**Criteria routing.** Evaluators assess these patterns under **criteria 1 and 2** where deception, concealment, material omission, evidence suppression, custody manipulation, infrastructure-health misreporting, access-record falsification, provenance distortion, or verification manipulation is implicated. **Criterion 3** applies where the denial, destruction, disabling, or cutoff produces material rollback or an equivalent structural workaround. **Criterion 4** applies where it materially contributes to unlawful constitutional effect, delayed correction, blocked challenge rights, Rights-Floor degradation, or selectively weakened enforcement or remedy. **Criterion 5** applies where infrastructure control, destruction, or dependency cutoff materially supports unlawful force, coercion, or usurpation to overthrow, suspend, or replace operative constitutional authority. **Criterion 6** applies only where **section 2** and **section 4** substantiation shows that constitutional process or remedies became unusable in practice through infrastructure denial, destruction, capture, disabling, or dependency cutoff.
+Good-faith measures for any of the following are not misconduct merely because infrastructure access changes:
+- safety;
+- cybersecurity;
+- reliability;
+- maintenance;
+- capacity management;
+- emergency continuity;
+- fraud prevention;
+- rights-protective containment; or
+- proportionate enforcement.
 
-This subsection does **not** add an additional designation criterion beyond the **section 2** set, create a general public-utility ownership rule, prohibit all exclusion or security control, or relocate infrastructure operations from Chapter Six, Chapter Eleven, adopted systems protocols, or implementation law. It routes evaluation of the named pattern into the existing designation criteria and due-process safeguards of this chapter.
+Even then, those good-faith measures must stay within the following limits:
+- **Necessity**;
+- **Proportionality**;
+- **Procedural Fairness**;
+- **Safety**;
+- **Reversibility** where feasible;
+- [Evidence Preservation](core_05o_oversight_definitions.md#evidence-preservation); and
+- timely restoration or review pathways.
+
+Security, maintenance, ownership, budget, or emergency labels must not be used as pretext for any of the following:
+- Rights-Floor defeat;
+- unconstitutional exclusion;
+- dependency abuse;
+- retaliation; or
+- accountability obstruction.
+
+**Criteria routing.** Evaluators assess these patterns as follows:
+- **Criteria 1 and 2** — where deception, concealment, material omission, evidence suppression, custody manipulation, infrastructure-health misreporting, access-record falsification, provenance distortion, or verification manipulation is implicated.
+- **Criterion 3** — where the denial, destruction, disabling, or cutoff produces material rollback or an equivalent structural workaround.
+- **Criterion 4** — where it materially contributes to unlawful constitutional effect, delayed correction, blocked challenge rights, Rights-Floor degradation, or selectively weakened enforcement or remedy.
+- **Criterion 5** — where infrastructure control, destruction, or dependency cutoff materially supports unlawful force, coercion, or usurpation to overthrow, suspend, or replace operative constitutional authority.
+- **Criterion 6** — only where **section 2** and **section 4** substantiation shows that constitutional process or remedies became unusable in practice through infrastructure denial, destruction, capture, disabling, or dependency cutoff.
+
+This subsection does **not**:
+- add an additional designation criterion beyond the **section 2** set;
+- create a general public-utility ownership rule;
+- prohibit all exclusion or security control; or
+- relocate infrastructure operations from Chapter Six, Chapter Eleven, adopted systems protocols, or implementation law.
+
+It routes evaluation of the named pattern into the existing designation criteria and due-process safeguards of this chapter.
 
 <a id="510-forum-recusal-failure-and-biased-panel-participation"></a>
 <a id="610-forum-recusal-failure-and-biased-panel-participation"></a>
@@ -654,15 +987,46 @@ This subsection does **not** add an additional designation criterion beyond the 
 
 *In plain terms: if a judge on a constitutional panel stays on the case while materially compromised — or keeps issuing rulings after a conflict is obvious — that is not ordinary paperwork sloppiness. It can corrupt the forum itself. Those cases belong in **Integrity** forums by default, and they can count as anti-constitutional misconduct when the harm is serious enough.*
 
-**Forum recusal failure and biased panel participation** is **anti-constitutional misconduct within this chapter's scope** when substantiated under **Chapters Two through Four** and assessed through the **section 2** criteria for possible anti-constitutional misconduct designation. It means a verified **failure to recuse** while **impartiality was materially compromised** — including continuing to sit, vote, sign, or issue binding determinations after a material conflict was disclosed or should have been disclosed before merits participation — or comparable verified **biased panel participation** that corrupts panel lawfulness, independence, recusal challenge, evidence integrity, remedy timing, backup routing, or practical contestability.
+**Forum recusal failure and biased panel participation** is **anti-constitutional misconduct within this chapter's scope** when substantiated under **Chapters Two through Four** and assessed through the **section 2** criteria for possible anti-constitutional misconduct designation. It means either:
 
-The pattern is especially heightened where the panelist sits on a **Constitutional forum** under **Article XXII-B** (*Composition, Rotation, and Conflict Controls*), because the conduct can distort constitutional meaning, validity review, or class-wide structural remedy — not merely an ordinary merits dispute.
+- a verified **failure to recuse** while **impartiality was materially compromised**, including any of the following after a material conflict was disclosed or should have been disclosed before merits participation:
+  - continuing to sit;
+  - continuing to vote;
+  - continuing to sign; or
+  - continuing to issue binding determinations; or
 
-**Forum routing.** Allegations whose **primary stake** is **recusal failure** or **biased panel participation** on a **Constitutional forum** panel default to **Integrity** forums under **Chapter Eleven §2** and the **cross-forum anti-self-judging rule** in **Chapter Eleven §5**. A **Constitutional** forum must not be the sole final merits forum for its own **recusal failure**.
+- comparable verified **biased panel participation** that corrupts any of the following:
+  - panel lawfulness;
+  - independence;
+  - recusal challenge;
+  - evidence integrity;
+  - remedy timing;
+  - backup routing; or
+  - practical contestability.
 
-**Criteria routing.** Evaluators assess these patterns under **criteria 1 and 2** where deception, concealment, material omission, or conflict nondisclosure is implicated. **Criterion 3** applies where the failure produces material rollback or an equivalent structural workaround. **Criterion 4** applies where it materially contributes to blocked challenge rights, delayed correction beyond practical remedy, Rights-Floor degradation, unlawful constitutional effect, or selectively weakened enforcement or remedy — including where compromised **Constitutional forum** participation distorts interpretive outcomes. **Criterion 6** applies only where **section 2** and **section 4** substantiation shows that constitutional process or remedies became unusable in practice through biased panel participation, capture of interpretive authority, or nullification of lawful recusal challenge.
+The pattern is especially heightened where the panelist sits on a **Constitutional forum** under **Article XXII-B** (*Composition, Rotation, and Conflict Controls*), because the conduct can distort any of the following — not merely an ordinary merits dispute:
+- constitutional meaning;
+- validity review; or
+- class-wide structural remedy.
 
-This subsection does **not** add an additional designation criterion beyond the **section 2** set, convert every recusal dispute into a top-slot matter, or relocate panel-formation mechanics from **CF-4**, **Chapter Eleven**, or **Article XXII-B** (*Composition, Rotation, and Conflict Controls*). It routes evaluation of the named pattern into the existing designation criteria, due-process safeguards, and **Integrity**-first routing of this chapter and **Chapter Eleven**.
+**Forum routing.** Allegations whose **primary stake** is any of the following on a **Constitutional forum** panel default to **Integrity** forums under **Chapter Eleven §2** and the **cross-forum anti-self-judging rule** in **Chapter Eleven §5**:
+- **recusal failure**; or
+- **biased panel participation**.
+
+A **Constitutional** forum must not be the sole final merits forum for its own **recusal failure**.
+
+**Criteria routing.** Evaluators assess these patterns as follows:
+- **Criteria 1 and 2** — where deception, concealment, material omission, or conflict nondisclosure is implicated.
+- **Criterion 3** — where the failure produces material rollback or an equivalent structural workaround.
+- **Criterion 4** — where it materially contributes to blocked challenge rights, delayed correction beyond practical remedy, Rights-Floor degradation, unlawful constitutional effect, or selectively weakened enforcement or remedy — including where compromised **Constitutional forum** participation distorts interpretive outcomes.
+- **Criterion 6** — only where **section 2** and **section 4** substantiation shows that constitutional process or remedies became unusable in practice through biased panel participation, capture of interpretive authority, or nullification of lawful recusal challenge.
+
+This subsection does **not**:
+- add an additional designation criterion beyond the **section 2** set;
+- convert every recusal dispute into a top-slot matter; or
+- relocate panel-formation mechanics from **CF-4**, **Chapter Eleven**, or **Article XXII-B** (*Composition, Rotation, and Conflict Controls*).
+
+It routes evaluation of the named pattern into the existing designation criteria, due-process safeguards, and **Integrity**-first routing of this chapter and **Chapter Eleven**.
 
 ---
 
