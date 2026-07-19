@@ -297,7 +297,7 @@ Forum-damage ratings must identify severity, affected population, reversibility,
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Eleven §10](../core_11-11_forum.md#10-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*materiality tiers and pipeline milestones*); [Article XXIV-C](../core_06-06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*); [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
+- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Eleven §6](../core_11-11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*materiality tiers and pipeline milestones*); [Article XXIV-C](../core_06-06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*); [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: this section's local operational requirements for **CF-11.3.1 Target windows and timing floors**.
 - Read with: **CF-11.3.1**; **CF-11.2**; **CF-11.3**; **CF-11.3.2**.
 
@@ -326,19 +326,19 @@ If a system cannot yet justify its own calibrated numbers, the interim default s
 - recusal and backup-activation windows short enough that the independence dispute does not itself defeat meaningful remedy;
 - publication windows short enough that challenge rights remain real before practical effect hardens.
 
-**Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*) tier-default windows (adopter floor). This table implements [Chapter Eleven §10](../core_11-11_forum.md#10-timely-resolution-materiality-tiers-and-anti-delay-discipline) and **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*). Until a forum family publishes calibrated targets, the following **maximum** windows apply from the triggering event (filing, protected report, or lawful agency referral) unless a narrower window is required by **Rights-Floor** urgency or **Force Majeure** is documented:
+**Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*) tier-default windows (adopter floor). This table implements [Chapter Eleven §6](../core_11-11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) and **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*). Until a forum family publishes calibrated targets, the following **maximum** windows apply from the triggering event (filing, protected report, or lawful agency referral) unless a narrower window is required by **Rights-Floor** urgency or **Force Majeure** is documented:
 
-| **Pipeline stage** | **Tier A** (imminent / dependency-vulnerable) | **Tier B** (material, non-imminent) | **Tier C** (complex / top-slot / cross-border) |
-| --- | --- | --- | --- |
-| Forum access and intake acknowledgment | ≤ 72 hours | ≤ 5 calendar days | ≤ 10 calendar days |
-| Evidence preservation initiated | concurrent with intake | ≤ 5 calendar days from intake | ≤ 10 calendar days from intake |
-| **Question 1** — verified finding → **standing record** opened ([Chapter Eight §2](../core_08-08_standing_assessment.md#2-standing-records)) | ≤ 7 calendar days | ≤ 21 calendar days | ≤ 60 calendar days |
-| **Question 2** — measurement ([Chapter Eight §4](../core_08-08_standing_assessment.md#4-standing-measurement-evaluation-dimensions)) | ≤ 3 calendar days after verified inputs complete | ≤ 14 calendar days | ≤ 45 calendar days |
-| **Question 3** — integration ([Chapter Nine](../core_09-09_standing_integration.md#chapter-nine-standing-effects-and-integration)) | ≤ 7 calendar days after Q2 | ≤ 21 calendar days | ≤ 60 calendar days |
-| Remedy or safeguard commencement | ≤ 3 calendar days after Q3 where ongoing harm is material | ≤ 14 calendar days | ≤ 30 calendar days after published integration plan |
-| **Integrated resolution outer bound** | ≤ 30 calendar days | ≤ 90 calendar days | ≤ 365 calendar days |
+| **Pipeline stage** | **Tier A** (≤ 1 week) | **Tier B** (≤ 3 weeks) | **Tier C** (≤ 2 months) | **Tier L** (≤ 4 months) | **Tier P** (≤ 6 months) |
+| --- | --- | --- | --- | --- | --- |
+| Forum access and intake acknowledgment | ≤ 24 hours | ≤ 3 calendar days | ≤ 7 calendar days | ≤ 10 calendar days | ≤ 14 calendar days |
+| Evidence preservation initiated | concurrent with intake | ≤ 3 calendar days from intake | ≤ 7 calendar days from intake | ≤ 10 calendar days from intake | ≤ 14 calendar days from intake |
+| **Question 1** — verified finding → **standing record** opened ([Chapter Eight §2](../core_08-08_standing_assessment.md#2-standing-records)) | ≤ 3 calendar days | ≤ 7 calendar days | ≤ 21 calendar days | ≤ 45 calendar days | ≤ 60 calendar days |
+| **Question 2** — measurement ([Chapter Eight §4](../core_08-08_standing_assessment.md#4-standing-measurement-evaluation-dimensions)) | ≤ 1 calendar day after verified inputs complete | ≤ 5 calendar days | ≤ 14 calendar days | ≤ 30 calendar days | ≤ 45 calendar days |
+| **Question 3** — integration ([Chapter Nine](../core_09-09_standing_integration.md#chapter-nine-standing-effects-and-integration)) | ≤ 2 calendar days after Q2 | ≤ 7 calendar days | ≤ 21 calendar days | ≤ 30 calendar days | ≤ 45 calendar days |
+| Remedy or safeguard commencement | ≤ 1 calendar day after Q3 where ongoing harm is material | ≤ 5 calendar days | ≤ 14 calendar days after published integration plan | ≤ 21 calendar days | ≤ 30 calendar days |
+| **Integrated resolution outer bound** | ≤ **7 calendar days** | ≤ **21 calendar days** | ≤ **60 calendar days** | ≤ **120 calendar days** | ≤ **180 calendar days** |
 
-**Tier C continuation.** Extension beyond the integrated-resolution outer bound requires reauthorization under **Article XXIII-D** (*Continuation discipline*) with documented necessity, proportionality, and absence of less-restrictive feasible alternatives.
+**Outer-bound rule.** Stage windows above must fit inside the tier’s integrated-resolution outer bound. Those outer bounds implement [Chapter Eleven §6](../core_11-11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (one week / three weeks / two months / four months / six months). Going past any outer bound requires documented extension under **Article XXIII-D** (*Continuation discipline*) with continuing necessity, proportionality, and absence of less-restrictive feasible alternatives.
 
 **Interim relief.** Tier A matters must not wait for full merits before lawful interim protection, evidence preservation, or pathway-scoped safeguards where delay would compound dependency-vulnerable harm.
 

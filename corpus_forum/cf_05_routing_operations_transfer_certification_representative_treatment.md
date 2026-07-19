@@ -42,7 +42,7 @@ This section turns [Chapter Eleven](../core_11-11_forum.md#chapter-eleven-forums
 
 This section implements the primary-stakes rule in `core_11-11_forum.md` **Chapter Eleven**. It does not change that rule.
 
-**Chapter Eleven linkage.** Each forum family must have an intake triage body — the family's first-touch desk — as required by **Chapter Eleven**, **section 2**, which also states mixed-stakes safeguards, asymmetry rules, standing-record contests, and the merits-panel boundary. That requirement works alongside **transfer**, **consolidation**, **certification**, and **backup** discipline in **sections 3 and 7**, and **forensic and analytical support** in **section 6**. An intake triage body helps route matters at the start; it is **not** a separate forum family and cannot replace a lawfully constituted **merits** panel. **CF-5.1** (*Published intake classes*) and **CF-5.2** (*Intake triage body*) state the operational rules for that boundary.
+**Chapter Eleven linkage.** Each forum family must have an intake triage body — the family's first-touch desk — as required by **Chapter Eleven**, **section 2**, which also states mixed-stakes safeguards, asymmetry rules, standing-record contests, and the merits-panel boundary. That requirement works alongside **transfer**, **consolidation**, **certification**, and **backup** discipline in **sections 3 and 5**, and **forum support** before, during, and after review in **section 7**. An intake triage body helps route matters at the start; it is **not** a separate forum family and cannot replace a lawfully constituted **merits** panel. **CF-5.1** (*Published intake classes*) and **CF-5.2** (*Intake triage body*) state the operational rules for that boundary.
 
 ### CF-5.1 Published intake classes
 <details>

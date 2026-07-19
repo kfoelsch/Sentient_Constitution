@@ -208,7 +208,7 @@ Integrity forums must not issue final merits determinations reserved to another 
 <br>
 
 
-Where an alignment ruling materially stabilizes outcomes beyond the named parties, adopting instruments should identify the applicable **CF-6.1** (*Disposition-effect categories and record labels*) category or categories. The record should also identify the corresponding class label or labels. The ordinary floor is at least **CF-6.1.2** when pattern or shared-practice stakes are material. Adopting instruments must not silently treat alignment rulings as **CF-6.1.3** general panel-rule doctrine when constitutional certification under `core_11-11_forum.md` **Chapter Eleven**, **section 7** is required.
+Where an alignment ruling materially stabilizes outcomes beyond the named parties, adopting instruments should identify the applicable **CF-6.1** (*Disposition-effect categories and record labels*) category or categories. The record should also identify the corresponding class label or labels. The ordinary floor is at least **CF-6.1.2** when pattern or shared-practice stakes are material. Adopting instruments must not silently treat alignment rulings as **CF-6.1.3** general panel-rule doctrine when constitutional certification under `core_11-11_forum.md` **Chapter Eleven**, **section 5** is required.
 
 ### CF-7.2 Constitutional alignment recognition and review
 <details>
@@ -236,7 +236,7 @@ Where an alignment ruling materially stabilizes outcomes beyond the named partie
 <br>
 
 
-**Purpose.** Provide official, contestable forum mechanics for recognizing new materially impactful systems as constitutionally aligned within a stated scope. The same mechanics also check whether existing systems remain aligned over time. This subsection implements `core_11-11_forum.md` **Chapter Eleven**, **sections 3, 7, and 8**, and works with `corpus_systems.md` **Protocol A** and **CS-4 — System classification and handling** classification and revalidation duties.
+**Purpose.** Provide official, contestable forum mechanics for recognizing new materially impactful systems as constitutionally aligned within a stated scope. The same mechanics also check whether existing systems remain aligned over time. This subsection implements `core_11-11_forum.md` **Chapter Eleven**, **sections 3, 5, and 8**, and works with `corpus_systems.md` **Protocol A** and **CS-4 — System classification and handling** classification and revalidation duties.
 
 #### CF-7.2.1 Technical-Specification and Environmental-Component Separation
 <details>

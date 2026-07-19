@@ -64,7 +64,7 @@ These measures ask whether reward structures, market power, and answerability ke
 | [Timely Resolution](core_05a_accountability_definitions.md#timely-resolution-constitutional) | Are disputes resolved while remedy still matters? | Prevents delay from hollowing rights |
 | Anti-delay and resolution-pathway discipline | Do incentives and structures avoid designed backlog, capture, and hollow deadlines? | Detects delay regimes and [Capture of Resolution Pathways](core_05a_accountability_definitions.md#capture-of-resolution-pathways) |
 
-These measures ask whether process clocks, resolution pathways, and repair velocity keep the **timeliness** leg of the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) real in practice — not merely present on paper. Operative measurement tiers live on Chapter Five definition homes — see [Timely Resolution](core_05a_accountability_definitions.md#timely-resolution-constitutional), [Capture of Resolution Pathways](core_05a_accountability_definitions.md#capture-of-resolution-pathways), and [Timeliness](core_05a_accountability_definitions.md#timeliness-constitutional) (link-only leg-head rollup). Progress tracker: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md). **Timeliness** also runs through the other three Tetrad legs; participation, oversight, and accountability must happen in time to be useful. Read with [Chapter Eleven §10](core_11-11_forum.md#10-timely-resolution-materiality-tiers-and-anti-delay-discipline).
+These measures ask whether process clocks, resolution pathways, and repair velocity keep the **timeliness** leg of the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) real in practice — not merely present on paper. Operative measurement tiers live on Chapter Five definition homes — see [Timely Resolution](core_05a_accountability_definitions.md#timely-resolution-constitutional), [Capture of Resolution Pathways](core_05a_accountability_definitions.md#capture-of-resolution-pathways), and [Timeliness](core_05a_accountability_definitions.md#timeliness-constitutional) (link-only leg-head rollup). Progress tracker: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md). **Timeliness** also runs through the other three Tetrad legs; participation, oversight, and accountability must happen in time to be useful. Read with [Chapter Eleven §6](core_11-11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline).
 
 ---
 
@@ -622,7 +622,7 @@ These measures ask whether process clocks, resolution pathways, and repair veloc
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [Timeliness](core_05a_accountability_definitions.md#timeliness-constitutional) (*implements timeliness leg for resolution pathways*).
-- Downstream: Timeliness measurement family (*Timely Resolution as constitutional measurement*); **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*) ([core_06-06_rights_part_d.md](core_06-06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor)); [Chapter Eleven §10](core_11-11_forum.md#10-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*materiality tiers and pipeline milestones*); **Article XII-B** (*Right to Challenge, Review, and Redress*); [Chapter Nine §9.2](core_09-09_standing_integration.md#82-remedy-system-durability) (*remedy-organ durability*); [Chapter Eleven](core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) (*forum intake and routing*).
+- Downstream: Timeliness measurement family (*Timely Resolution as constitutional measurement*); **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*) ([core_06-06_rights_part_d.md](core_06-06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor)); [Chapter Eleven §6](core_11-11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*materiality tiers and pipeline milestones*); **Article XII-B** (*Right to Challenge, Review, and Redress*); [Chapter Nine §9.2](core_09-09_standing_integration.md#82-remedy-system-durability) (*remedy-organ durability*); [Chapter Eleven](core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) (*forum intake and routing*).
 - Cluster component: [the dependent cluster *Accountability, Contestability, Adjudication and Dispute Resolution, Collective Accountability Failure, and Force Majeure*](core_05i_integrative_definitions.md#accountability-contestability-and-collective-accountability-failure-cluster).
 - Read with: [Adjudication and Dispute Resolution](core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional), [Constitutional Efficiency](core_05c_continuity_definitions.md#constitutional-efficiency), [Avoidable Burden](core_05c_continuity_definitions.md#avoidable-burden), [Capture of Resolution Pathways](core_05a_accountability_definitions.md#capture-of-resolution-pathways), [Procedural Fairness](core_05p_participation_definitions.md#procedural-fairness-constitutional), [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination), and [README — Standing pipeline and forums](README.md#standing-pipeline-and-forums).
 
@@ -637,7 +637,7 @@ These measures ask whether process clocks, resolution pathways, and repair veloc
 - **How to measure and assess**
   - **Primary measure:** Timeliness measurement family — primary owner for resolution velocity within the timeliness measurement family.
 
-    **Primary assessment:** Apply [Chapter Eleven §10](core_11-11_forum.md#10-timely-resolution-materiality-tiers-and-anti-delay-discipline) materiality tiers and pipeline-stage milestones under **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*). Distinguish timely access and verification from raw throughput.
+    **Primary assessment:** Apply [Chapter Eleven §6](core_11-11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) materiality tiers and pipeline-stage milestones under **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*). Distinguish timely access and verification from raw throughput.
   - **Secondary measure:** [Timeliness](core_05a_accountability_definitions.md#timeliness-constitutional), [Adjudication and Dispute Resolution](core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional), [Capture of Resolution Pathways](core_05a_accountability_definitions.md#capture-of-resolution-pathways), and [Contestability](core_05a_accountability_definitions.md#contestability) — co-measures that can defeat timely resolution even when pipeline metrics appear on track.
 
     **Secondary assessment:** When evaluating the primary trace, read with [Adjudication and Dispute Resolution](core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional), [Capture of Resolution Pathways](core_05a_accountability_definitions.md#capture-of-resolution-pathways), [Constitutional Efficiency](core_05c_continuity_definitions.md#constitutional-efficiency), [Avoidable Burden](core_05c_continuity_definitions.md#avoidable-burden), and [Procedural Fairness](core_05p_participation_definitions.md#procedural-fairness-constitutional). Moving quickly is not an excuse to skip checked facts under [Chapters Two through Four](core_02-03_definition_mechanics.md), **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*) joint requirements, or core challenge and appeal rights.
@@ -1270,7 +1270,7 @@ This cluster is the joint-invocation home for the six constitutional forum famil
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Owner: [Chapter Eleven §2](core_11-11_forum.md#2-default-venue-and-primary-stakes); read with [Chapter Eleven §2.2](core_11-11_forum.md#22-mixed-stakes-and-routing-asymmetry), [Chapter Eleven §3](core_11-11_forum.md#3-transfer-consolidation-and-coordination), and [Chapter Eleven §7](core_11-11_forum.md#7-escalation-and-certification).
+- Owner: [Chapter Eleven §2](core_11-11_forum.md#2-default-venue-and-primary-stakes); read with [Chapter Eleven §2.2](core_11-11_forum.md#22-mixed-stakes-and-routing-asymmetry), [Chapter Eleven §3](core_11-11_forum.md#3-transfer-consolidation-and-coordination), and [Chapter Eleven §5](core_11-11_forum.md#5-escalation-and-certification).
 
 </details>
 
@@ -1414,7 +1414,7 @@ This cluster is the joint-invocation home for the six constitutional forum famil
 - **How to measure and assess**
   - **Primary measure:** Accountability measurement family and Timeliness measurement family — supporting measure where multiple measurement families co-apply.
 
-    **Primary assessment:** Integrate Chapter Eight and Chapter Eleven enforcement hooks with Chapter Eleven primary-stakes tests; preserve certification to **Constitutional** forums where validity or structural remedy merges per Chapter Eleven §7.
+    **Primary assessment:** Integrate Chapter Eight and Chapter Eleven enforcement hooks with Chapter Eleven primary-stakes tests; preserve certification to **Constitutional** forums where validity or structural remedy merges per Chapter Eleven §5.
 <a id="forum-family-environment-c"></a>
 - **What must hold**
   - treating ecological merits as purely private disputes when the primary stake is environmental under Chapter Eleven §2; segmenting restoration and preconditions analysis to defeat joint ecological merits evaluation.
@@ -1427,7 +1427,7 @@ This cluster is the joint-invocation home for the six constitutional forum famil
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Owner: [Chapter Eleven §4.5](core_11-11_forum.md#45-integrity-forums); read with Chapter Ten designation due-process cross-references in Chapter Eleven §7.
+- Owner: [Chapter Eleven §4.5](core_11-11_forum.md#45-integrity-forums); read with Chapter Ten designation due-process cross-references in Chapter Eleven §5.
 
 </details>
 
@@ -1469,7 +1469,7 @@ This cluster is the joint-invocation home for the six constitutional forum famil
     **Primary assessment:** Preserve **Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*)-class review safeguards and Chapter Ten due-process hooks when certification or escalation arrives from lower families; distinguish certified constitutional questions from implementation operational-law provisional rulings under Chapter Eleven §4.7 and §8.
 <a id="forum-family-constitutional-c"></a>
 - **What must hold**
-  - treating non-certifiable operational detail as final constitutional disposition; collapsing certification discipline so families bypass Chapter Eleven §7 when constitutional validity, meaning, or structural remedy is materially at stake.
+  - treating non-certifiable operational detail as final constitutional disposition; collapsing certification discipline so families bypass Chapter Eleven §5 when constitutional validity, meaning, or structural remedy is materially at stake.
 
 ---
 

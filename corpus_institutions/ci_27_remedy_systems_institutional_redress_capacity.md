@@ -53,7 +53,7 @@ Each remedy system must publish, on a fixed schedule compatible with **CF-11**:
 
 - current intake and acknowledgment windows;
 - backlog size and age distribution for open matters;
-- milestone compliance against [Chapter Eleven §10](../core_11-11_forum.md#10-timely-resolution-materiality-tiers-and-anti-delay-discipline) tier defaults; and
+- milestone compliance against [Chapter Eleven §6](../core_11-11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) tier defaults; and
 - any designed backlog, single-office dependency, or chronic underfunding risk that could foreseeably nullify challenge or remedy.
 
 Designed backlog, inaccessible intake, chronic underfunding, dependence on a single fragile office, or chronic milestone failure violates [Chapter Nine §9.2](../core_09-09_standing_integration.md#82-remedy-system-durability) where it foreseeably nullifies challenge or remedy.

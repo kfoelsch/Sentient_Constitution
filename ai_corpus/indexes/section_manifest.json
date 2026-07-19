@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-07-19T17:10:07+00:00",
+  "generated_at": "2026-07-19T18:06:06+00:00",
   "files": {
     "core_00_preamble.md": {
       "total_lines": 249,
@@ -4181,197 +4181,190 @@
           "header": "1. Purpose and role — participation architecture",
           "level": 3,
           "line_start": 56,
-          "line_end": 115,
+          "line_end": 119,
           "anchor": "#1-purpose-and-role"
         },
         {
           "header": "2. Default venue and primary stakes",
           "level": 3,
-          "line_start": 116,
-          "line_end": 225,
+          "line_start": 120,
+          "line_end": 229,
           "anchor": "#2-default-venue-and-primary-stakes"
         },
         {
           "header": "2.1 Lead-default limits",
           "level": 4,
-          "line_start": 182,
-          "line_end": 192,
+          "line_start": 186,
+          "line_end": 196,
           "anchor": "#21-lead-default-limits"
         },
         {
           "header": "2.2 Mixed stakes and routing asymmetry",
           "level": 4,
-          "line_start": 193,
-          "line_end": 203,
+          "line_start": 197,
+          "line_end": 207,
           "anchor": "#22-mixed-stakes-and-routing-asymmetry"
         },
         {
           "header": "2.3 Forum case records, standing records, and contests",
           "level": 4,
-          "line_start": 204,
-          "line_end": 225,
+          "line_start": 208,
+          "line_end": 229,
           "anchor": "#23-forum-records-standing-records-and-contests"
         },
         {
           "header": "3. Transfer, consolidation, and coordination — continuity and anti-capture",
           "level": 3,
-          "line_start": 226,
-          "line_end": 273,
+          "line_start": 230,
+          "line_end": 277,
           "anchor": "#3-transfer-consolidation-and-coordination"
         },
         {
           "header": "4. Forum family definitions — accountability through adjudication",
           "level": 3,
-          "line_start": 274,
-          "line_end": 501,
+          "line_start": 278,
+          "line_end": 505,
           "anchor": "#4-forum-family-definitions"
         },
         {
           "header": "4.1 Sentient forums",
           "level": 4,
-          "line_start": 299,
-          "line_end": 324,
+          "line_start": 303,
+          "line_end": 328,
           "anchor": "#41-sentient-forums"
         },
         {
           "header": "4.2 Technical Forum Domains",
           "level": 4,
-          "line_start": 325,
-          "line_end": 360,
+          "line_start": 329,
+          "line_end": 364,
           "anchor": "#42-technical-forum-domains"
         },
         {
           "header": "4.3 Institutional forums",
           "level": 4,
-          "line_start": 361,
-          "line_end": 391,
+          "line_start": 365,
+          "line_end": 395,
           "anchor": "#43-institutional-forums"
         },
         {
           "header": "4.4 Environment forums",
           "level": 4,
-          "line_start": 392,
-          "line_end": 420,
+          "line_start": 396,
+          "line_end": 424,
           "anchor": "#44-environment-forums"
         },
         {
           "header": "4.5 Integrity forums",
           "level": 4,
-          "line_start": 421,
-          "line_end": 467,
+          "line_start": 425,
+          "line_end": 471,
           "anchor": "#45-integrity-forums"
         },
         {
           "header": "4.6 Constitutional forums",
           "level": 4,
-          "line_start": 468,
-          "line_end": 485,
+          "line_start": 472,
+          "line_end": 489,
           "anchor": "#46-constitutional-forums"
         },
         {
           "header": "4.7 Provisional implementation operational law",
           "level": 4,
-          "line_start": 486,
-          "line_end": 501,
+          "line_start": 490,
+          "line_end": 505,
           "anchor": "#47-provisional-implementation-operational-law"
         },
         {
-          "header": "6. Forensic and analytical support — oversight architecture",
+          "header": "5. Escalation and certification",
           "level": 3,
-          "line_start": 502,
-          "line_end": 519,
-          "anchor": "#6-forensic-and-analytical-support"
-        },
-        {
-          "header": "7. Escalation and certification",
-          "level": 3,
-          "line_start": 520,
-          "line_end": 605,
-          "anchor": "#7-escalation-and-certification"
+          "line_start": 506,
+          "line_end": 593,
+          "anchor": "#5-escalation-and-certification"
         },
         {
           "header": "Family-to-family escalation",
           "level": 4,
-          "line_start": 534,
+          "line_start": 522,
+          "line_end": 545,
+          "anchor": "#7-escalation-and-certification"
+        },
+        {
+          "header": "Existential risk and uncertainty on the record",
+          "level": 4,
+          "line_start": 546,
+          "line_end": 550,
+          "anchor": null
+        },
+        {
+          "header": "Certification to **Constitutional** forums",
+          "level": 4,
+          "line_start": 551,
           "line_end": 557,
           "anchor": null
         },
         {
-          "header": "Existential risk and uncertainty on the record",
+          "header": "Technical support and preserved **Integrity** escalation",
           "level": 4,
           "line_start": 558,
           "line_end": 562,
           "anchor": null
         },
         {
-          "header": "Certification to **Constitutional** forums",
-          "level": 4,
-          "line_start": 563,
-          "line_end": 569,
-          "anchor": null
-        },
-        {
-          "header": "Technical support and preserved **Integrity** escalation",
-          "level": 4,
-          "line_start": 570,
-          "line_end": 574,
-          "anchor": null
-        },
-        {
           "header": "Interim protection",
           "level": 4,
-          "line_start": 575,
-          "line_end": 578,
+          "line_start": 563,
+          "line_end": 566,
           "anchor": null
         },
         {
           "header": "Backup routing under the anti-self-judging rule",
           "level": 4,
-          "line_start": 579,
-          "line_end": 583,
+          "line_start": 567,
+          "line_end": 571,
           "anchor": null
         },
         {
           "header": "Sentience-status adjudication (**Article V-E** (*Sentience-Status Adjudication Floor*) implementation hook)",
           "level": 4,
-          "line_start": 584,
-          "line_end": 592,
+          "line_start": 572,
+          "line_end": 580,
           "anchor": null
         },
         {
           "header": "Referral distinguished from expansion",
           "level": 4,
-          "line_start": 593,
-          "line_end": 598,
+          "line_start": 581,
+          "line_end": 586,
           "anchor": null
         },
         {
           "header": "Chapter Ten designation and independent review",
           "level": 4,
-          "line_start": 599,
-          "line_end": 605,
+          "line_start": 587,
+          "line_end": 593,
           "anchor": null
+        },
+        {
+          "header": "6. Timely resolution, materiality tiers, and anti-delay discipline",
+          "level": 3,
+          "line_start": 594,
+          "line_end": 650,
+          "anchor": "#6-timely-resolution-materiality-tiers-and-anti-delay-discipline"
+        },
+        {
+          "header": "7. Forum support before, during, and after review — oversight architecture",
+          "level": 3,
+          "line_start": 651,
+          "line_end": 674,
+          "anchor": "#7-forum-support-before-during-and-after-review"
         },
         {
           "header": "8. Anti-gaming and interim relief",
           "level": 3,
-          "line_start": 606,
-          "line_end": 627,
-          "anchor": "#8-anti-gaming-and-interim-relief"
-        },
-        {
-          "header": "9. Relation to implementation files — implementation boundary",
-          "level": 3,
-          "line_start": 628,
-          "line_end": 645,
-          "anchor": "#9-relation-to-implementation-files"
-        },
-        {
-          "header": "10. Timely resolution, materiality tiers, and anti-delay discipline",
-          "level": 3,
-          "line_start": 646,
+          "line_start": 675,
           "line_end": 701,
-          "anchor": "#10-timely-resolution-materiality-tiers-and-anti-delay-discipline"
+          "anchor": "#8-anti-gaming-and-interim-relief"
         }
       ]
     },

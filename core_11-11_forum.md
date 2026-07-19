@@ -18,11 +18,11 @@
 > The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this chapter or in other chapters.
 >
 > Where this lives (navigation):
-> - **Constitutional owner:** **section 1** (*purpose* — **primary adjudicative application** of norms this chapter allocates, **as distinct from** routine **executive administration**; **accountability** requirements; **published**, **predictable** **threshold** placement); **default starting venue**, **primary-stakes** routing, **intake triage body** (**first-touch desk**), mixed stakes, asymmetry, standing-record contests, and **sentient-accessible** **threshold** **access** expectations (**section 2**, **read with** **section 8** and **`corpus_forum.md`**); **transfer**, **consolidation**, and **coordination** (**section 3**, read with **section 7** certification and backup); **forum family definitions**, **internal chambers**, **shared standards**, and **provisional operational law** (sentient, technical, institutional, environment, integrity, constitutional — **section** **4**, mirroring **section** **2**’s **table**); **forensic and analytical support** across families (**section 6**), implemented so triage **does not** substitute for **lawfully constituted merits panels**; **anti-self-judging** backup routing; and **escalation** hooks tied to **Chapter Eight**, **Chapter Ten**, and **Chapter Six** justice and challenge rights.
-> - **Pipeline navigation:** [README — Standing pipeline and forums](README.md#standing-pipeline-and-forums) — [§§1–4 and 6–10](#1-purpose-and-role) in this file.
+> - **Constitutional owner:** **section 1** (*purpose* — **primary adjudicative application** of norms this chapter allocates, **as distinct from** routine **executive administration**; **accountability** requirements; **published**, **predictable** **threshold** placement); **default starting venue**, **primary-stakes** routing, **intake triage body** (**first-touch desk**), mixed stakes, asymmetry, standing-record contests, and **sentient-accessible** **threshold** **access** expectations (**section 2**, **read with** **section 8** and **`corpus_forum.md`**); **transfer**, **consolidation**, and **coordination** (**section 3**, read with **section 5** certification and backup); **forum family definitions**, **internal chambers**, **shared standards**, and **provisional operational law** (sentient, technical, institutional, environment, integrity, constitutional — **section** **4**, mirroring **section** **2**’s **table**); **escalation** and **certification** (**section 5**); **timely resolution** and **anti-delay** discipline (**section 6**); **forum support** before, during, and after review (**section 7**), implemented so triage and support roles **do not** substitute for **lawfully constituted merits panels**; **anti-self-judging** backup routing; and escalation hooks tied to **Chapter Eight**, **Chapter Ten**, and **Chapter Six** justice and challenge rights.
+> - **Pipeline navigation:** [README — Standing pipeline and forums](README.md#standing-pipeline-and-forums) — [§§1–8](#1-purpose-and-role) in this file.
 > - **Chapters Eight–Nine three-question pipeline:** Chapter Eight **sections 2–3** answer Question 1 (*what happened?*) through verified, axis-pure records. [Chapter Eight §4](core_08-08_standing_assessment.md#4-standing-measurement-evaluation-dimensions) and the [§7 unified proportional LEQU scale](core_08-08_standing_assessment.md#7-unified-proportional-lequ-scale) answer Question 2 (*how good or bad was it?*) through evaluation dimensions, shared five-times LEQU bands, and the shared **s** = 1...9 grammar while preserving separate Contribution and Violation records. [Chapter Nine](core_09-09_standing_integration.md#chapter-nine-standing-effects-and-integration) answers Question 3 (*what happens because of it?*) through remedies, safeguards, competency gates, and standing locks. The Violation Axis slot is controlled only by verified impact; negligence, concealment, coercion, response, and comparable character descriptors do not move it. [Chapter Ten](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct) may add the corresponding anti-constitutional-misconduct designation to a Chapter Eight slot 7, 8, or 9 record but does not assign the numeric slot.
-> - **Forums (non-operative gloss):** **Forum families** under this chapter are the primary **forums** that apply [Chapter Eight](core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) classifications to concrete disputes — including matters where separately recorded **contribution state**, **Violation Axis impact slot**, and process / response character **co-present** and must be handled under **Chapter Eight** joint-assessment and non-substitution discipline. **Research funding**, **financing**, and **incentive** mechanisms outside adjudication remain in adopted implementation and **[corpus_systems.md](corpus_systems.md)** (see **Chapter Eight** reader guidance); they may support prevention and root-cause inquiry and **must not** substitute for **threshold** routing, **merits** determination, authoritative Chapter Eight numeric slot assignment, any corresponding **Chapter Ten** designation, or **Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*) constraints. **Sections 1, 2, 8, and 9** allocate **primary** responsibility for **incentive** structures **primarily** **within** each **family’s** **sphere** (granular detail in **corpus** and implementation); that **allocation** **does** **not** relocate **system-wide** **budget** or **governance-scale** choices reserved to [Chapter Twelve](core_12-12_governance.md#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship) and **[corpus_systems.md](corpus_systems.md)**.
-> - **Implementation owner:** published intake **classes**, day-to-day docket rules, staffing, budgets, granular procedure, operational escalation mechanics, and forensic-support operational requirements live in adopted implementation text and in **[corpus_forum.md](corpus_forum.md)** (**CF-5** (*Routing operations, transfer, certification, and representative treatment*), **CF-8** (*Forum forensic and analytical support*), and related sections); those layers **implement, not narrow**, this chapter.
+> - **Forums (non-operative gloss):** **Forum families** under this chapter are the primary **forums** that apply [Chapter Eight](core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) classifications to concrete disputes — including matters where separately recorded **contribution state**, **Violation Axis impact slot**, and process / response character **co-present** and must be handled under **Chapter Eight** joint-assessment and non-substitution discipline. **Research funding**, **financing**, and **incentive** mechanisms outside adjudication remain in adopted implementation and **[corpus_systems.md](corpus_systems.md)** (see **Chapter Eight** reader guidance); they may support prevention and root-cause inquiry and **must not** substitute for **threshold** routing, **merits** determination, authoritative Chapter Eight numeric slot assignment, any corresponding **Chapter Ten** designation, or **Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*) constraints. **Sections 1, 2, and 8** allocate **primary** responsibility for **incentive** structures **primarily** **within** each **family’s** **sphere** (granular detail in **corpus** and implementation); that **allocation** **does** **not** relocate **system-wide** **budget** or **governance-scale** choices reserved to [Chapter Twelve](core_12-12_governance.md#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship) and **[corpus_systems.md](corpus_systems.md)**.
+> - **Implementation owner:** published intake **classes**, day-to-day docket rules, staffing, budgets, granular procedure, operational escalation mechanics, and forum-support operational requirements live in adopted implementation text and in **[corpus_forum.md](corpus_forum.md)** (**CF-5** (*Routing operations, transfer, certification, and representative treatment*), **CF-8** (*Forum forensic and analytical support*), **CF-9** (*Independent investigative service and prosecution interface*), and related sections); those layers **implement, not narrow**, this chapter.
 > - **Anti-relocation rule:** adopting instruments must not satisfy this chapter through procedures that collapse distinct forum functions, strip **independence** or **real review**, or route integrity challenges back to the same captured forum this chapter forbids as the sole final merits home.
 >
 > **Architecture — *In plain terms* placement:** Each *In plain terms* line appears immediately after the Trace navigational block (and the `<br>` that follows it when present), and **before** the operative paragraphs and bullet lists for that section. Reader-facing gloss only; it does not add, remove, or narrow binding text.
@@ -39,7 +39,7 @@ Chapter Eleven is the constitutional owner of **forum families, default venue, j
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [Chapter Eight](core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) (*Question 1 records and Question 2 measurement that supply disputes this chapter routes*); [Chapter Eight §5.1](core_08-08_standing_assessment.md#6-slot-grammar-and-display-labels) (*standing-slot grammar*); [Chapter Eight §7 unified scale](core_08-08_standing_assessment.md#7-unified-proportional-lequ-scale) (*shared five-times LEQU bands and separate axis records*); [Chapter Eight §§4.3–4.4](core_08-08_standing_assessment.md#shared-descriptor-catalog-and-measurement-roles) (*cross-axis normalized descriptor catalog, including Contribution Axis and Violation Axis descriptors that do not move slots*); [Chapter Ten](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct) (*corresponding anti-constitutional-misconduct designation for qualifying Chapter Eight slots 7–9*); [Chapters Two through Four](core_02-03_definition_mechanics.md) (*record, verification, and tracing expectations*); [Chapter Five](core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) (*foundational definitions*); [Chapter One](core_01_c_stewardship_capacity_principles.md#chapter-01-principles-and-constraints) (*interpretive constraints*); [Chapter Six — Foundational Rights](core_06-06_rights_part_a.md#chapter-six-foundational-rights) through [Part D](core_06-06_rights_part_d.md) (*challenge, audit, and justice-article hooks*).
-- Subsections: [§1](#1-purpose-and-role); [§2](#2-default-venue-and-primary-stakes); [§3](#3-transfer-consolidation-and-coordination); [§4](#4-forum-family-definitions); [§6](#6-forensic-and-analytical-support); [§7](#7-escalation-and-certification); [§8](#8-anti-gaming-and-interim-relief); [§9](#9-relation-to-implementation-files); [§10](#10-timely-resolution-materiality-tiers-and-anti-delay-discipline).
+- Subsections: [§1](#1-purpose-and-role); [§2](#2-default-venue-and-primary-stakes); [§3](#3-transfer-consolidation-and-coordination); [§4](#4-forum-family-definitions); [§5](#5-escalation-and-certification); [§6](#6-timely-resolution-materiality-tiers-and-anti-delay-discipline); [§7](#7-forum-support-before-during-and-after-review); [§8](#8-anti-gaming-and-interim-relief).
 - Read with: [README — Standing pipeline and forums](README.md#standing-pipeline-and-forums).
 - Downstream: [corpus_forum.md](corpus_forum.md) (*operational forum doctrine*); [Chapter Twelve](core_12-12_governance.md#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship) where governance legitimacy interacts with adjudication role; [Chapter Sixteen](core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) (*incorporation discipline* for adopted procedure layers).
 - Read with: [Chapter Eight §5.1](core_08-08_standing_assessment.md#6-slot-grammar-and-display-labels) (*standing-slot grammar*); [Chapter Eight §§4.3–4.4](core_08-08_standing_assessment.md#shared-descriptor-catalog-and-measurement-roles) (*cross-axis normalized Contribution Axis and Violation Axis descriptors*).
@@ -49,7 +49,7 @@ Chapter Eleven is the constitutional owner of **forum families, default venue, j
 
 <br>
 
-*In plain terms: Under the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) and [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims), this chapter **supervises** how disputes move through the Chapters Eight–Ten standing pipeline — routing, independence, forensic support, remediation sequencing, and tier-default clocks under **section 10** and **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*). Forum families answer which track handles which dispute, where a case ordinarily starts, and how mixed-stakes matters coordinate. They supply **participation** (accessible challenge) and **oversight** (traceable merits review). When the facts are verified, they may **open, update, or correct** standing records — or **set a bad record aside on challenge**. They do **not** run a second, separate decision track beside the standing pipeline. Filing a case alone has no immediate impact on standing. Day-to-day trial rules, budgets, and staffing manuals live in implementation layers and must **implement, not narrow**, this chapter or **Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*).*
+*In plain terms: Under the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) and [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims), this chapter **supervises** how disputes move through the Chapters Eight–Ten standing pipeline — routing, independence, forensic support, remediation sequencing, and tier-default clocks under **section 6** and **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*). Forum families answer which track handles which dispute, where a case ordinarily starts, and how mixed-stakes matters coordinate. They supply **participation** (accessible challenge) and **oversight** (traceable merits review). When the facts are verified, they may **open, update, or correct** standing records — or **set a bad record aside on challenge**. They do **not** run a second, separate decision track beside the standing pipeline. Filing a case alone has no immediate impact on standing. Day-to-day trial rules, budgets, and staffing manuals live in implementation layers and must **implement, not narrow**, this chapter or **Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*).*
 
 <a id="1-purpose-and-role"></a>
 
@@ -58,9 +58,9 @@ Chapter Eleven is the constitutional owner of **forum families, default venue, j
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [Chapter Seven — System Alignment Certification](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification); [Chapter Eight](core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model); [Chapter Nine](core_09-09_standing_integration.md#chapter-nine-standing-effects-and-integration); [Chapter Ten](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct); [Chapter One](core_01_c_stewardship_capacity_principles.md#chapter-01-principles-and-constraints) (*principles and interpretive constraints*); [Chapters Two through Four](core_02-03_definition_mechanics.md) (*tracing and verification expectations*); [Chapter Five](core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) (*definitions read together with Chapters Two through Four in the Corpus placement widget*); [Chapter Six](core_06-06_rights_part_a.md#chapter-six-foundational-rights) (*Foundational Rights Floor this chapter applies together with*).
-- Downstream: [§2](#2-default-venue-and-primary-stakes) (*primary-stakes default venue, intake triage, mixed stakes, asymmetry, standing-record contests; prompt contestable threshold access*); [§3](#3-transfer-consolidation-and-coordination) (*transfer and anti-self-judging*); [§4](#4-forum-family-definitions) (*forum family definitions, chambers, shared standards, and provisional operational law*); [§6](#6-forensic-and-analytical-support) (*forensic and analytical capacity*); [§7](#7-escalation-and-certification) (*escalation and certification*); [§8](#8-anti-gaming-and-interim-relief) (*forum good faith and interim relief*); [§9](#9-relation-to-implementation-files) (*corpus_institutions.md interaction*); [§10](#10-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*materiality tiers, pipeline milestones, and anti-delay discipline*).
+- Downstream: [§2](#2-default-venue-and-primary-stakes) (*primary-stakes default venue, intake triage, mixed stakes, asymmetry, standing-record contests; prompt contestable threshold access*); [§3](#3-transfer-consolidation-and-coordination) (*transfer and anti-self-judging*); [§4](#4-forum-family-definitions) (*forum family definitions, chambers, shared standards, and provisional operational law*); [§5](#5-escalation-and-certification) (*escalation and certification*); [§6](#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*materiality tiers, pipeline milestones, and anti-delay discipline*); [§7](#7-forum-support-before-during-and-after-review) (*forum support before, during, and after review*); [§8](#8-anti-gaming-and-interim-relief) (*forum good faith and interim relief*).
 - Tetrad leg(s): **participation**, **oversight**, **accountability**, **timeliness** (verified findings may open, update, or correct standing records; **CF-11** implements tier clocks). Primary aim(s): **Flourishing** and **Continuity**. [material stake](core_00_preamble.md#material-stake) scaling applies to routing and access burden.
-- Read with: [corpus_forum.md](corpus_forum.md); [Article XII-B: Right to Challenge, Review, and Redress](core_06-06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress); [Article XXIII family](core_06-06_rights_part_d.md#article-xxiii-a-justice-objective-and-scope) (*justice constraints referenced in the Corpus placement widget*).
+- Read with: [corpus_forum.md](corpus_forum.md); [corpus_institutions.md](corpus_institutions.md) (*contest, secondary review, and integrity monitoring — does not replace assigned forum jurisdiction*); [Article XII-B: Right to Challenge, Review, and Redress](core_06-06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress); [Article XXIII family](core_06-06_rights_part_d.md#article-xxiii-a-justice-objective-and-scope) (*justice constraints referenced in the Corpus placement widget*).
 
 </details>
 
@@ -111,6 +111,10 @@ Each **forum family** bears primary responsibility for incentive structures prim
 - any matching **Chapter Ten** designation
 - the justice constraints in **Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*)
 
+<a id="9-relation-to-implementation-files"></a>
+
+Institutional contest, secondary review, and integrity monitoring in **`corpus_institutions.md`** (including **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*) through **CI-8** (*Cross-institution coordination and escalation*) and contest-integrity expectations) work alongside this chapter. They do not replace **Integrity**, **Environment**, or **Institutional** forum families for binding merits where this chapter assigns those families jurisdiction. Implementation incentive mechanisms in those volumes must coordinate with the forum family whose sphere is primarily implicated, without displacing primary-stakes routing or merits authority this chapter assigns.
+
 <a id="2-default-venue-and-primary-stakes"></a>
 
 ### 2. Default venue and primary stakes
@@ -118,7 +122,7 @@ Each **forum family** bears primary responsibility for incentive structures prim
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [§1](#1-purpose-and-role) (*purpose, primary application role, accountability requirements, published threshold routing, non-relocation of detail, independence and review expectations*).
-- Downstream: [§3](#3-transfer-consolidation-and-coordination) (*transfer, consolidation, anti-self-judging*); [§4](#4-forum-family-definitions) (*forum family definitions read with default table*); [§6](#6-forensic-and-analytical-support) (*forensic and analytical capacity*); [§7](#7-escalation-and-certification) (*escalation from default venue*); [§8](#8-anti-gaming-and-interim-relief) (*good-faith characterization of forum choice*).
+- Downstream: [§3](#3-transfer-consolidation-and-coordination) (*transfer, consolidation, anti-self-judging*); [§4](#4-forum-family-definitions) (*forum family definitions read with default table*); [§5](#5-escalation-and-certification) (*escalation from default venue*); [§6](#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*materiality tiers and anti-delay discipline*); [§7](#7-forum-support-before-during-and-after-review) (*forum support before, during, and after review*); [§8](#8-anti-gaming-and-interim-relief) (*good-faith characterization of forum choice*).
 - Within §2: [§2.1](#21-lead-default-limits) (*primary-stakes collision, constitutional certification, and anti-self-judging backup*); [§2.2](#22-mixed-stakes-and-routing-asymmetry) (*mixed stakes and asymmetry*); [§2.3](#23-forum-records-standing-records-and-contests) (*forum case records, standing records, and contests*).
 - Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation**, **oversight**, and **timeliness** legs; [material stake](core_00_preamble.md#material-stake) scaling for primary-stakes routing; [Chapter Eight §5.1](core_08-08_standing_assessment.md#6-slot-grammar-and-display-labels) (*standing-slot grammar*); [Chapter Eight §7 unified scale](core_08-08_standing_assessment.md#7-unified-proportional-lequ-scale) (*shared five-times LEQU bands and separate axis records*); [Chapter Eight §§4.3–4.4](core_08-08_standing_assessment.md#shared-descriptor-catalog-and-measurement-roles) (*cross-axis normalized descriptors informing primary stake without moving the impact slot*); [corpus_forum.md](corpus_forum.md) (**CF-5** and **CF-7.2**); [corpus_systems.md](corpus_systems.md) (*system classification, deployment, and revalidation duties*); [Chapter Ten §3](core_10_a_misconduct_designation.md#3-violation-axis-s-7-9-slot-assignment-incident-gravity) (*anti-constitutional-misconduct designation for qualifying Chapter Eight slots 7–9; legacy anchor preserved*); [Chapter Ten §4](core_10_a_misconduct_designation.md#4-due-process-safeguards-for-slot-assignment) (*due process for that designation read with this chapter and **Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*)*); [Article XXIII-A](core_06-06_rights_part_d.md#article-xxiii-a-justice-objective-and-scope) (*justice objective and scope*).
 
@@ -134,7 +138,7 @@ Each **forum family** bears primary responsibility for incentive structures prim
 - **applies** primary-stakes routing under this section;
 - **sorts** incoming matters for **published** intake treatment consistent with **primary stakes**;
 - **flags** preservation, **Rights-Floor**, **cross-family routing**, and **backup-forum** needs;
-- **administers** initial access so that transfer, consolidation, certification, and backup discipline under **sections 3 and 7** can take effect promptly;
+- **administers** initial access so that transfer, consolidation, certification, and backup discipline under **sections 3 and 5** can take effect promptly;
 - is **not** a separate constitutional forum family;
 - **must not** substitute for a lawfully constituted merits panel on **substantive outcomes** or **collapse** **family** boundaries;
 - **must not** employ funding, fee, administrative preference, or other incentive devices to defeat primary-stakes routing or enable opaque threshold sorting.
@@ -143,21 +147,21 @@ Operational requirements — including **published intake classes**, attributabl
 
 **Initial access** to each forum family must be prompt and contestable enough that:
 - primary-stakes routing under this section remains meaningful;
-- transfer, consolidation, certification, and backup discipline under **sections 3 and 7** are not nullified by delay or by opaque threshold sorting.
+- transfer, consolidation, certification, and backup discipline under **sections 3 and 5** are not nullified by delay or by opaque threshold sorting.
 
 Time expectations for forum access must:
 - be **sentient-accessible**;
-- be calibrated to harm urgency and matter complexity under **section 10** and **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*);
+- be calibrated to harm urgency and matter complexity under **section 6** and **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*);
 - favor real threshold access and lawful interim relief under **section 8** over administrative convenience.
 
-The **intake triage body** under this section, together with **`corpus_forum.md`** (**CF-5**), satisfies this obligation and must implement **section 10** tier-default windows within incorporation scope.
+The **intake triage body** under this section, together with **`corpus_forum.md`** (**CF-5**), satisfies this obligation and must implement **section 6** tier-default windows within incorporation scope.
 
 **Routing map from Chapter Eight §3.** Chapter Eight tells forums how to *measure* what happened. It does **not** by itself pick which forum hears the case. At filing, the family's **intake triage body** (first-touch desk) works through this sequence:
 
 1. **Check what is already verified.** Note any verified Chapter Eight **Contribution Axis** or **Violation Axis** material — including the impact slot, severity band, process / response character, and standing effect — when those already exist.
 2. **Do not treat accusations as settled facts.** Allegations and provisional labels guide routing and evidence preservation only, until findings exist under **Chapters Two through Four**.
 3. **Pick the lead forum by what the fight is really about.** Use the default venue table below: **Sentient**, **Technical Forum Domains**, **Institutional**, **Environment**, **Integrity**, or **Constitutional**. Apply these special routing rules where they fit:
-   - **Chapter Ten designation.** Where a **Chapter Ten** anti-constitutional-misconduct designation is the **primary** stake, **Integrity** is the default lead. Keep the Chapter Eight numeric impact slot, **Constitutional** certification where needed, institutional-party rules, and anti-self-judging backup under **sections 2, 3, and 7**.
+   - **Chapter Ten designation.** Where a **Chapter Ten** anti-constitutional-misconduct designation is the **primary** stake, **Integrity** is the default lead. Keep the Chapter Eight numeric impact slot, **Constitutional** certification where needed, institutional-party rules, and anti-self-judging backup under **sections 2, 3, and 5**.
    - **Forum-bias disputes.** If the fight is mainly about a panelist who should have stepped aside, biased panel participation, or a comparable forum-integrity breach — including on a **Constitutional** forum panel under **[Article XXII-B](core_06-06_rights_part_c.md#article-xxii-b-composition-rotation-and-conflict-controls) (*Composition, Rotation, and Conflict Controls*)** — route it to **Integrity** forums first. Under **section 3**, a forum cannot be the sole final judge of its own bias: a **Constitutional** forum cannot be the only final forum deciding whether its own panelist should have recused. Standing-lock discipline: **[Chapter Nine §5.5](core_09-09_standing_integration.md#55-special-locks)**. Named misconduct pattern: **[Chapter Ten §5.10](core_10_b_misconduct_pattern_applications.md#510-forum-recusal-failure-and-biased-panel-participation)**.
    - **Technical how-to questions.** Specifications, methods, measurement, testing, and expert-evidence questions go to **Technical Forum Domains** when those are the primary stake or certified component questions.
    - **System-alignment sign-off.**
@@ -181,11 +185,11 @@ At filing, **default** venue follows these rules unless **section 3** transfers 
 
 #### 2.1 Lead-default limits
 
-These rules limit how the table's default leads interact. They do not replace **sections 3 and 7**, or the mixed-stakes and asymmetry rules in **section 2.2**.
+These rules limit how the table's default leads interact. They do not replace **sections 3 and 5**, or the mixed-stakes and asymmetry rules in **section 2.2**.
 
 - **Primary-stakes collision.** If the main fight is about what an institution is allowed to do, what it is charged to do, or whether it followed the rules that govern it, the Chapter Ten **Integrity** lead default does not override the **Institutional** row. **Section 2.2** and **section 3** govern mixed stakes, necessary institutional parties, and lead forum selection.
-- **Constitutional certification.** **Integrity** lead for a Chapter Ten designation does not displace Chapter Eight numeric slot measurement or certification or escalation to **Constitutional** forums under **section 7** where constitutional meaning, validity, or class-wide structural remedy requires determination under the **Constitutional** row or through family-to-family escalation.
-- **Anti-self-judging backup.** Where material allegations warrant independent merits review of **Integrity** forum integrity in a Chapter Ten designation proceeding concerning a Chapter Eight slot 7–9 record, backup routing under **sections 3 and 7** applies without narrowing **Chapter Ten section 4** or **Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*).
+- **Constitutional certification.** **Integrity** lead for a Chapter Ten designation does not displace Chapter Eight numeric slot measurement or certification or escalation to **Constitutional** forums under **section 5** where constitutional meaning, validity, or class-wide structural remedy requires determination under the **Constitutional** row or through family-to-family escalation.
+- **Anti-self-judging backup.** Where material allegations warrant independent merits review of **Integrity** forum integrity in a Chapter Ten designation proceeding concerning a Chapter Eight slot 7–9 record, backup routing under **sections 3 and 5** applies without narrowing **Chapter Ten section 4** or **Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*).
 
 
 <a id="22-mixed-stakes-and-routing-asymmetry"></a>
@@ -228,7 +232,7 @@ These rules limit how the table's default leads interact. They do not replace **
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [§2](#2-default-venue-and-primary-stakes) (*default venue table, intake triage, mixed stakes, and asymmetry*); [Chapter Nine §2 — Integration record and decision order](core_09-09_standing_integration.md#2-integration-record-and-decision-order) (*highest applicable non-compliance category — mixed-stakes coordination*).
-- Downstream: [§7](#7-escalation-and-certification) (*certified constitutional questions and backup routing activation*); [§8](#8-anti-gaming-and-interim-relief) (*interim relief while coordination proceeds*).
+- Downstream: [§5](#5-escalation-and-certification) (*certified constitutional questions and backup routing activation*); [§8](#8-anti-gaming-and-interim-relief) (*interim relief while coordination proceeds*).
 - Read with: [Article XII-B](core_06-06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress) (*Right to Challenge, Review, and Redress*); [corpus_institutions.md](corpus_institutions.md) (*internal integrity process that may precede integrity forums where safeguards meet expectations*); [corpus_forum.md](corpus_forum.md) (**CF-7**, integrity-led alignment coordination).
 
 </details>
@@ -276,7 +280,7 @@ These rules limit how the table's default leads interact. They do not replace **
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [§1](#1-purpose-and-role) (*purpose, primary application role, accountability requirements, published threshold routing, non-relocation of detail, independence and review expectations*); [§2](#2-default-venue-and-primary-stakes) (*default venue table, primary-stakes test, intake triage, mixed stakes, and prompt contestable threshold access*); [§3](#3-transfer-consolidation-and-coordination) (*transfer, consolidation, and anti-self-judging*).
-- Downstream: [§6](#6-forensic-and-analytical-support) (*forensic and analytical capacity*); [§7](#7-escalation-and-certification) (*family-to-family escalation; certification when operational and constitutional stakes merge; alignment rulings and general doctrine*).
+- Downstream: [§5](#5-escalation-and-certification) (*family-to-family escalation; certification when operational and constitutional stakes merge; alignment rulings and general doctrine*); [§6](#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*materiality tiers and anti-delay discipline*); [§7](#7-forum-support-before-during-and-after-review) (*forum support before, during, and after review*).
 - Read with: [Chapter Zero §3.1](core_00_preamble.md#from-measurement-to-evidence-and-remedy) (*measurement standards custody and governance bridge*); [corpus_forum.md](corpus_forum.md) (**CF-3** (*Forum formation — family inventory, title flexibility, and non-collapse*); **CF-7** alignment rulings); [corpus_institutions.md](corpus_institutions.md) (*institution duties and supervised-scope language mirrored in the institutional family*); [Chapter Five — Corpus](core_05i_integrative_definitions.md#corpus) (*implementation-file designation and custody terms for incorporated institution rules*).
 - Within §4: [§4.1](#41-sentient-forums); [§4.2](#42-technical-forum-domains); [§4.3](#43-institutional-forums); [§4.4](#44-environment-forums); [§4.5](#45-integrity-forums); [§4.6](#46-constitutional-forums); [§4.7](#47-provisional-implementation-operational-law).
 
@@ -284,7 +288,7 @@ These rules limit how the table's default leads interact. They do not replace **
 
 <br>
 
-*In plain terms: adopters keep six genuinely different forum tracks — sentient, technical, institutional, environment, integrity, and constitutional — in the same order as the default-venue table in **section 2**. **Integrity** forums map interlocking process and system failure through **alignment** rulings and **coordinate** referred component issues on **one** lead record (with **section 3**). Each family's **first-touch desk** (**intake triage body**) and mixed-stakes safeguards are in **section 2** — those desks are **not** a separate top-level forum for final merits. Expert panels and other **internal chambers** sit **inside** these families — not as a dodge around primary-stakes routing. Shared standards, anti-displacement, and provisional operational-law issuance live in this section (**§§4.2 and 4.7**); Constitutional disposition is in **§4.6**; certification when stakes merge is in **section 7**.*
+*In plain terms: adopters keep six genuinely different forum tracks — sentient, technical, institutional, environment, integrity, and constitutional — in the same order as the default-venue table in **section 2**. **Integrity** forums map interlocking process and system failure through **alignment** rulings and **coordinate** referred component issues on **one** lead record (with **section 3**). Each family's **first-touch desk** (**intake triage body**) and mixed-stakes safeguards are in **section 2** — those desks are **not** a separate top-level forum for final merits. Expert panels and other **internal chambers** sit **inside** these families — not as a dodge around primary-stakes routing. Shared standards, anti-displacement, and provisional operational-law issuance live in this section (**§§4.2 and 4.7**); Constitutional disposition is in **§4.6**; certification when stakes merge is in **section 5**.*
 
 Operational family inventory, local title flexibility, and non-collapse mechanics live in **`corpus_forum.md`** (**CF-3** (*Forum formation, forum-structure mapping, and chamber structure*)) and must **implement, not narrow**, this chapter or **section 2**’s default venue table.
 
@@ -292,7 +296,7 @@ Operational family inventory, local title flexibility, and non-collapse mechanic
 
 Each family may use **internal chambers**, divisions, or designated panels; **family** boundaries still govern **appeal**, **certification**, and **primary-stakes** routing under **sections 2, 7, and 8**.
 
-The **subsections** **below** **follow** **section** **2**’s **default** **venue** **table** **order**. Local **titles** **may** **differ** under **`corpus_forum.md`** (**CF-3**); **function** must not. When the **primary** stake leaves a family's allocation, **sections 2, 3, and 7** govern routing, transfer, consolidation, certification, and backup — family definitions do not restate that matrix.
+The **subsections** **below** **follow** **section** **2**’s **default** **venue** **table** **order**. Local **titles** **may** **differ** under **`corpus_forum.md`** (**CF-3**); **function** must not. When the **primary** stake leaves a family's allocation, **sections 2, 3, and 5** govern routing, transfer, consolidation, certification, and backup — family definitions do not restate that matrix.
 
 <a id="41-sentient-forums"></a>
 
@@ -461,7 +465,7 @@ The **subsections** **below** **follow** **section** **2**’s **default** **ven
 - Such elements are binding only to the extent the ruling expressly states they are binding and they are consistent with assigned merits authority elsewhere.
 
 **Boundary with provisional operational law.** Alignment rulings do not substitute for provisional implementation operational law under **section 4.7** for **Institutional**, **Environment**, or **specialized technical** forums.
-- Where general normative effect beyond case-specific or pattern-specific integrity remediation is materially at stake, **section 7** governs certification, escalation, and constitutional disposition.
+- Where general normative effect beyond case-specific or pattern-specific integrity remediation is materially at stake, **section 5** governs certification, escalation, and constitutional disposition.
 
 <a id="46-constitutional-forums"></a>
 
@@ -476,10 +480,10 @@ The **subsections** **below** **follow** **section** **2**’s **default** **ven
 **Illustrative matters.** This family includes contests over:
 - constitutional validity or meaning binding all interpreters;
 - class-wide structural remedy required by constitutional text;
-- certified questions escalated from other forum families under **section 7**;
+- certified questions escalated from other forum families under **section 5**;
 - beyond-lawful-authority or supremacy determinations where constitutional text alone decides the issue.
 
-**Provisional-law disposition.** **Constitutional forums** dispose of provisional implementation-operational-law rulings issued under **section 4.7** by **accepting** them (giving **registered** or **precedential** effect as provided), **rejecting** them (withdrawing **general** effect except as **fairness** to **parties** may require), or **hearing** the question on **full** merits. Granular publication, docketing, and effect **pending** disposition remain in **[corpus_forum.md](corpus_forum.md)** and must **implement, not narrow**, this allocation. Where the operational question cannot be separated from constitutional validity, meaning, or structural remedy, **section 7** governs certification and escalation.
+**Provisional-law disposition.** **Constitutional forums** dispose of provisional implementation-operational-law rulings issued under **section 4.7** by **accepting** them (giving **registered** or **precedential** effect as provided), **rejecting** them (withdrawing **general** effect except as **fairness** to **parties** may require), or **hearing** the question on **full** merits. Granular publication, docketing, and effect **pending** disposition remain in **[corpus_forum.md](corpus_forum.md)** and must **implement, not narrow**, this allocation. Where the operational question cannot be separated from constitutional validity, meaning, or structural remedy, **section 5** governs certification and escalation.
 
 <a id="47-provisional-implementation-operational-law"></a>
 
@@ -495,34 +499,18 @@ Where **necessary** to resolve a matter within jurisdiction, the forum may issue
 - **Environment forums:** **environmental** operational rules in cognate layers governing **ecological integrity**, **environmental preconditions**, **restoration**, **remediation**, **attribution**, and comparable **environmental** **merits**.
 - **Specialized technical forums:** **scientific**, **technical**, **clinical**, **engineering**, **medical**, or **knowledge-governance** standards and procedures, **cross-family** technical administration, and related implementation instruments.
 
-**Constitutional disposition** of these rulings is owned by **Constitutional forums** under **section 4.6**. **Certification** when operational and constitutional stakes merge is governed by **section 7**.
+**Constitutional disposition** of these rulings is owned by **Constitutional forums** under **section 4.6**. **Certification** when operational and constitutional stakes merge is governed by **section 5**.
 
-<a id="6-forensic-and-analytical-support"></a>
+<a id="5-escalation-and-certification"></a>
 
-### 6. Forensic and analytical support — oversight architecture
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Upstream: [§1](#1-purpose-and-role) (*independence, contestability, and tracing expectations*); [§2](#2-default-venue-and-primary-stakes) (*primary-stakes routing, default venue table, intake triage, mixed stakes, and prompt contestable threshold access*); [§4](#4-forum-family-definitions) (*forum families, chambers, and shared standards that hold this capacity*).
-- Downstream: [§7](#7-escalation-and-certification) (*escalation and certification that may rely on contestable forensic support*); [§8](#8-anti-gaming-and-interim-relief) (*interim relief while forensic work proceeds*).
-- Read with: [corpus_forum.md](corpus_forum.md) (**CF-8**); [Article XII-B: Right to Challenge, Review, and Redress](core_06-06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress).
-
-</details>
-
-<br>
-
-*In plain terms: when the record is too opaque or technically tangled for a fair decision without help, each forum family must be able to call on independent forensic or analytical support that builds an explainable record without replacing the forum's merits authority.*
-
-Forum families must have access to **independent** **forensic** or **analytical** capacity where **material** **uncertainty**, **technical** **opacity**, **restricted** **evidence**, or **causal** **complexity** would otherwise prevent reliable adjudication. That capacity may gather, preserve, reconstruct, test, and explain evidence relevant to the dispute, consistent with **Chapters Two through Four**, **Article XII-B** (*Right to Challenge, Review, and Redress*), and **Article XV** (*Audit, Transparency, and Independent Verification*). Its work must remain **contestable**. It must **not** itself exercise **binding** **merits** authority.
-
+### 5. Escalation and certification
+<a id="6-escalation-and-certification"></a>
 <a id="7-escalation-and-certification"></a>
-
-### 7. Escalation and certification
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [§2](#2-default-venue-and-primary-stakes) and [§3](#3-transfer-consolidation-and-coordination) (*default venue, intake, transfer, mixed stakes, and anti-self-judging backups*); [§4.6](#46-constitutional-forums) and [§4.7](#47-provisional-implementation-operational-law) (*provisional-law disposition and issuance*); [Chapter Eight §7 unified scale](core_08-08_standing_assessment.md#7-unified-proportional-lequ-scale) (*numeric impact-slot assignment*); [Chapter Ten](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct) (*corresponding anti-constitutional-misconduct designation for qualifying slots 7–9*); [Chapter One](core_01_c_stewardship_capacity_principles.md#chapter-01-principles-and-constraints) (*Safety and Truth hooks in certified constitutional questions*).
-- Downstream: [§8](#8-anti-gaming-and-interim-relief) (*interim relief while certification completes*); [Chapter Sixteen](core_16-16_incorporation.md) (*implementation routing for **Article V-E** (*Sentience-Status Adjudication Floor*) implementation design*).
+- Downstream: [§6](#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*materiality tiers and anti-delay discipline*); [§7](#7-forum-support-before-during-and-after-review) (*contestable forum support for escalation and certification*); [§8](#8-anti-gaming-and-interim-relief) (*interim relief while certification completes*); [Chapter Sixteen](core_16-16_incorporation.md) (*implementation routing for **Article V-E** (*Sentience-Status Adjudication Floor*) implementation design*).
 - Read with: [Article V-E: Sentience-Status Adjudication Floor](core_06-06_rights_part_b.md#article-v-e-sentience-status-adjudication-floor); [Chapter Five — Sentience Status Adjudication](core_05p_participation_definitions.md#sentience-status-adjudication-constitutional); [Article XXIII-A](core_06-06_rights_part_d.md#article-xxiii-a-justice-objective-and-scope) (*Justice Objective and Scope*) through [Article XXIII-C](core_06-06_rights_part_d.md#article-xxiii-c-least-restrictive-and-time-bounded-rule) (*review safeguards referenced with Chapter Ten designations*); [Article XII-B](core_06-06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress) (*certification — alignment rulings and general doctrine*).
 
 </details>
@@ -569,7 +557,7 @@ A case may move from one forum family to another only when the receiving family 
 
 #### Technical support and preserved **Integrity** escalation
 
-- **Technical contestability.** Where existential-risk determination depends on disputed scientific, engineering, ecological, medical, computational, or comparable expert questions, the lead family must obtain contestable technical support. That support may run through a lawful specialist chamber, designated panel, certified findings process, or equivalent reviewable mechanism. Technical support must **not** silently displace merits authority.
+- **Technical contestability.** Where existential-risk determination depends on disputed scientific, engineering, ecological, medical, computational, or comparable expert questions, the lead family must obtain contestable technical support under **section 7** where forensic or analytical capacity is required. That support may run through a lawful specialist chamber, designated panel, certified findings process, or equivalent reviewable mechanism. Technical support must **not** silently displace merits authority.
 - **Integrity escalation preserved.** Where the claim includes concealment, suppression of tail-risk evidence, manipulation of safety records, strategic uncertainty laundering, or comparable integrity breach, **Integrity** routing and escalation remain available under this chapter.
 
 #### Interim protection
@@ -598,57 +586,21 @@ A case may move from one forum family to another only when the receiving family 
 
 #### Chapter Ten designation and independent review
 
-- Numeric Violation Axis slot assignments remain **anchored** in the **Chapter Eight §7 unified scale** and are controlled only by verified impact. **Chapter Ten** may add the corresponding anti-constitutional-misconduct designation to a final Chapter Eight slot 7, 8, or 9 record. **Forum** **families** **apply** **independent** **review** and **due-process** **requirements** stated there (especially **Chapter Ten**, **section 4**) and in **Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*).
-- **Default lead family** for a **Chapter Ten** designation as the **primary** stake is stated in **section 2**. **Sections 2, 3, and 7** govern **transfer**, **consolidation**, **certification**, **backup** **routing**, and **anti-self-judging** **activation** without authorizing Chapter Ten or a forum to assign or move the numeric slot.
+- The numeric **Violation Axis** slot still comes only from verified impact on the **Chapter Eight §7 unified scale**. **Chapter Ten** may attach the matching anti-constitutional-misconduct label to a final Chapter Eight slot **7**, **8**, or **9** record — it does **not** pick or change that number. Forum families must give independent review and due process under **Chapter Ten**, **section 4**, and **Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*).
+- When a **Chapter Ten** designation is the main fight, **section 2** names the default lead family. **Sections 2, 3, and 5** still control transfer, consolidation, certification, backup routing, and anti-self-judging activation. None of that lets Chapter Ten or a forum assign or move the numeric slot.
 
-<a id="8-anti-gaming-and-interim-relief"></a>
+<a id="6-timely-resolution-materiality-tiers-and-anti-delay-discipline"></a>
 
-### 8. Anti-gaming and interim relief
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Upstream: [§2](#2-default-venue-and-primary-stakes)–[§7](#7-escalation-and-certification) (*venue, coordination, interim protection cross-references*).
-- Downstream: Adopted implementation text and [corpus_forum.md](corpus_forum.md) (*costs, dismissal, referral mechanics as implementing detail*).
-- Read with: [Chapter Eight §7 unified scale](core_08-08_standing_assessment.md#7-unified-proportional-lequ-scale) (*verified-impact slot assignment*); [Chapter Ten §3](core_10_a_misconduct_designation.md#3-violation-axis-s-7-9-slot-assignment-incident-gravity) (*corresponding designation; legacy anchor preserved*); [Chapter Ten §4](core_10_a_misconduct_designation.md#4-due-process-safeguards-for-slot-assignment) (*due process*).
-
-</details>
-
-<br>
-
-*In plain terms: picking a forum to game the system can draw costs, referral, or a transfer; short-term orders are allowed when needed; and if several forums issue conflicting short-term orders at once, one coordinating rule must sort the clash.*
-
-**Forum characterization** must be **good-faith** and **warranted** by **primary** **stakes**. **Knowing** **mischaracterization** **may** **trigger** **costs**, **dismissal**, or **referral** under **adopting** **law**.
-
-Incentive devices must not be structured or applied to reward forum shopping, opaque threshold sorting, or routing inconsistent with primary-stakes discipline in **sections 2** and **3**.
-
-**Interim relief** **may** **issue** from **any** **competent** **family** to **preserve** **status** **quo** **pending** **merits**. Where **multiple** **forums** **share** **jurisdiction**, **one** **coordinating** **forum** or **rule** **must** **resolve** **conflicts** among **simultaneous** **interim** **orders**.
-
-<a id="9-relation-to-implementation-files"></a>
-
-### 9. Relation to implementation files — implementation boundary
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Upstream: [§1](#1-purpose-and-role)–[§8](#8-anti-gaming-and-interim-relief) (*forum-family allocation and procedure interaction*).
-- Downstream: [corpus_institutions.md](corpus_institutions.md) **CI-5** through **CI-8** and related contest-integrity expectations (*operational detail — does not replace assigned forum jurisdiction*).
-- Read with: [corpus_forum.md](corpus_forum.md); [corpus_institutions.md](corpus_institutions.md) (*contest, secondary review, integrity monitoring*).
-
-</details>
-
-<br>
-
-*In plain terms: the institutions implementation file describes monitors, contests, and reviews that run next to forums — useful pressure and transparency — but it does not replace binding forum jurisdiction where this chapter assigns a forum family to decide merits.*
-
-Institutional contest, secondary review, and integrity monitoring in **`corpus_institutions.md`** (including **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*) through **CI-8** (*Cross-institution coordination and escalation*) and contest-integrity expectations) work alongside this chapter. They do not replace **Integrity**, **Environment**, or **Institutional** forum families for binding merits where this chapter assigns those families jurisdiction. Implementation incentive mechanisms in those volumes must coordinate with the forum family whose sphere is primarily implicated, consistent with **section 1**, without displacing primary-stakes routing or merits authority this chapter assigns.
-
+### 6. Timely resolution, materiality tiers, and anti-delay discipline
+<a id="7-timely-resolution-materiality-tiers-and-anti-delay-discipline"></a>
+<a id="8-timely-resolution-materiality-tiers-and-anti-delay-discipline"></a>
+<a id="9-timely-resolution-materiality-tiers-and-anti-delay-discipline"></a>
 <a id="10-timely-resolution-materiality-tiers-and-anti-delay-discipline"></a>
-
-### 10. Timely resolution, materiality tiers, and anti-delay discipline
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Article XXIV-C](core_06-06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor) (*timely, efficient, and just floor*); [README — Standing pipeline and forums](README.md#standing-pipeline-and-forums); [Article XII-B](core_06-06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress) (*challenge and redress access*); [Article XXIII-D](core_06-06_rights_part_d.md#article-xxiii-d-emergency-measures-and-continuation-burden) (*continuation discipline*).
-- Downstream: [corpus_forum.md](corpus_forum.md) (**CF-11.3.1** (*target windows and timing floors*)); [corpus_institutions.md](corpus_institutions.md) (**CI-8** (*accessible pathways*)); [Chapters Eight–Eleven application vignettes](core_08-11_application_vignettes.md#chapters-eight-eleven-application-vignettes).
+- Upstream: [Article XXIV-C](core_06-06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor) (*timely, efficient, and just floor*); [README — Standing pipeline and forums](README.md#standing-pipeline-and-forums); [Article XII-B](core_06-06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress) (*challenge and redress access*); [Article XXIII-D](core_06-06_rights_part_d.md#article-xxiii-d-emergency-measures-and-continuation-burden) (*continuation discipline*); [§5](#5-escalation-and-certification) (*escalation and certification clocks interact with*).
+- Downstream: [§7](#7-forum-support-before-during-and-after-review) (*inspection, forensic, and follow-through support*); [§8](#8-anti-gaming-and-interim-relief) (*interim relief and anti-gaming*); [corpus_forum.md](corpus_forum.md) (**CF-11.3.1** (*target windows and timing floors*)); [corpus_institutions.md](corpus_institutions.md) (**CI-8** (*accessible pathways*)); [Chapters Eight–Eleven application vignettes](core_08-11_application_vignettes.md#chapters-eight-eleven-application-vignettes).
 - Tetrad leg(s): **timeliness** (cross-cutting enforcement); **participation** and **oversight** (accessible intake and published milestones). Primary aim(s): **Flourishing** and **Continuity**.
 - Read with: Timeliness measurement family (*Timely Resolution and anti-delay and resolution-pathway discipline*); [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination); [Timely Resolution](core_05a_accountability_definitions.md#timely-resolution-constitutional); [Capture of Resolution Pathways](core_05a_accountability_definitions.md#capture-of-resolution-pathways); [Constitutional Efficiency](core_05c_continuity_definitions.md#constitutional-efficiency).
 
@@ -666,16 +618,31 @@ Institutional contest, secondary review, and integrity monitoring in **`corpus_i
 
 <br>
 
-*In plain terms: forum families must keep material disputes moving on published clocks — not let them sit in a warehouse while harm compounds. Each dispute gets a urgency tier; each tier gets default windows for intake, fact-checking, standing measurement, integration, and remedy. Moving quickly is not an excuse to skip fact-checking, punish the wrong party, offer a fix that does not fit the harm, or cut off challenge and appeal.*
+*In plain terms: forum families must keep material disputes moving on published clocks that ordinary sentients can feel — roughly a week for the worst emergencies, a few weeks for ordinary material harm, and a few months at most for complex or bounded matters — not warehouse cases while harm compounds. Each dispute gets a urgency tier; each tier gets default windows for intake, fact-checking, standing measurement, integration, and remedy. Moving quickly is not an excuse to skip fact-checking, punish the wrong party, offer a fix that does not fit the harm, or cut off challenge and appeal.*
 
 This section implements **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*) for forum supervision of the **Chapters Eight through Eleven** standing pipeline. Adopted instruments must **implement, not narrow**, this section or **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*).
 
 - **Materiality tiers.** Adopters must classify each material dispute into one of five tiers (A/B/C/L/P) under [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination), mirroring the system classification alphabet in **CS-4**, and apply the default windows below unless a narrower window is required by **Rights-Floor** urgency or a documented extension is authorized under **Article XXIII-D** (*Continuation discipline*):
-  - **Tier A — imminent or dependency-vulnerable ongoing harm, or final high-impact review** (for example acute care-duty failure, ongoing violence, participation-barrier injury in dependency-asymmetric settings, a final Chapter Eight **Violation Axis s = 7, 8, or 9** impact-slot review, or the corresponding **Chapter Ten** designation where applicable): lawful **interim protection** must be available without waiting for full merits; intake, acknowledgment, and evidence preservation must begin **within days**, not weeks, unless [Force Majeure](core_05a_accountability_definitions.md#force-majeure-constitutional) or a documented safety constraint prevents it;
-  - **Tier B — material rights impact, non-imminent** (for example discrimination patterns, misaligned business harm, or remediable institutional misconduct): intake and primary-stakes routing **within days**; preliminary verified disposition, standing measurement, or equivalent merits milestone **within weeks**, not months, unless a documented tier-appropriate extension is authorized;
-  - **Tier C — complex multi-party or cross-border coordination** (for example multi-system dependency disputes, cross-border jurisdiction coordination, or multi-party standing matters requiring consolidated review): extension is permitted only under **Article XXIII-D** (*Emergency Measures and Continuation Burden*) continuation discipline; integrated remedy commencement, lawful supersession, or documented final disposition must not remain indefinitely pending;
-  - **Tier L — bounded constitutional significance** (for example disputes involving limited external dependency or impact, replaceable systems, or bounded contexts without systemic effect): standard forum handling applies with proportionately lighter procedural requirements and longer default resolution windows; Tier A/B urgency and Tier C complexity expectations do not apply, but anti-delay discipline remains operative;
-  - **Tier P — private/contained, minimal external constitutional impact** (for example disputes contained within a private unit or among voluntary participants with no meaningful external dependency): simplest procedural path; formal forum process may be minimal or waived where no external rights are at stake; anti-gaming and anti-delay rules apply only where external constitutional interests are implicated.
+  - **Tier A — imminent or dependency-vulnerable ongoing harm, or final high-impact review**
+    - Scope of harm: acute or ongoing injury where delay itself compounds damage; dependency-asymmetric settings where exit is not practical; or final high-impact standing / misconduct review whose outcome can lock severe consequences.
+    - Examples: acute care-duty failure; ongoing violence; participation-barrier injury in dependency-asymmetric settings; a final Chapter Eight **Violation Axis s = 7, 8, or 9** impact-slot review; or the corresponding **Chapter Ten** designation where applicable.
+    - Expectation: lawful **interim protection** must be available without waiting for full merits; intake, acknowledgment, and evidence preservation must begin **within days**, not weeks, unless [Force Majeure](core_05a_accountability_definitions.md#force-majeure-constitutional) or a documented safety constraint prevents it.
+  - **Tier B — material rights impact, non-imminent**
+    - Scope of harm: material rights, standing, or institutional injury that matters now, but is not yet acute ongoing harm of Tier A urgency.
+    - Examples: discrimination patterns; misaligned business harm; remediable institutional misconduct.
+    - Expectation: intake and primary-stakes routing **within days**; preliminary verified disposition, standing measurement, or equivalent merits milestone **within weeks**, not months, unless a documented tier-appropriate extension is authorized.
+  - **Tier C — complex multi-party or cross-border coordination**
+    - Scope of harm: harm whose remedy or fact-development necessarily spans multiple parties, systems, borders, or consolidated proceedings — complexity, not lesser stakes, drives the tier.
+    - Examples: multi-system dependency disputes; cross-border jurisdiction coordination; multi-party standing matters requiring consolidated review.
+    - Expectation: extension is permitted only under **Article XXIII-D** (*Emergency Measures and Continuation Burden*) continuation discipline; integrated remedy commencement, lawful supersession, or documented final disposition must not remain indefinitely pending.
+  - **Tier L — bounded constitutional significance**
+    - Scope of harm: limited external dependency or impact; replaceable systems; bounded contexts without systemic effect on the wider constitutional community.
+    - Examples: a replaceable local service dispute; a bounded association rule contest with no spillover; a low-dependency tooling disagreement among interchangeable providers.
+    - Expectation: standard forum handling with proportionately lighter procedural requirements and longer default resolution windows; Tier A/B urgency and Tier C complexity expectations do not apply, but anti-delay discipline remains operative.
+  - **Tier P — private/contained, minimal external constitutional impact**
+    - Scope of harm: contained within a private unit or among voluntary participants; no meaningful external constitutional dependency or Rights-Floor stake for outsiders.
+    - Examples: an intra-household or voluntary-club dispute with no outsider rights at stake; a Class P–contained disagreement that does not exit the private boundary.
+    - Expectation: simplest procedural path; formal forum process may be minimal or waived where no external rights are at stake; anti-gaming and anti-delay rules apply only where external constitutional interests are implicated.
 - **Pipeline-stage milestones.** For disputes routed through **Chapters Eight through Eleven**, adopters must publish sentient-accessible default windows for each stage, scaled to tier:
   1. forum access and intake;
   2. evidence preservation;
@@ -683,8 +650,14 @@ This section implements **Article XXIV-C** (*Timely Resolution and Anti-Delay Fl
   4. **Question 2** measurement under **Chapter Eight §4**;
   5. **Question 3** integration under **Chapter Nine**;
   6. remedy commencement under **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*) and applicable redress rules.
-- **Overrun review:** Overrun without documented tier-appropriate extension, escalation, or interim relief triggers review and is non-compliant where it foreseeably prolongs ongoing harm or nullifies redress.
-- **Outer bound:** Adopted instruments must publish tier outer bounds for integrated resolution. Those bounds must favor **days and weeks over months and years** for Tiers A and B. Tier C outer bounds must not exceed **one year** absent reauthorization under **Article XXIII-D** (*Emergency Measures and Continuation Burden*) showing continuing necessity, proportionality, and absence of less-restrictive feasible alternatives. Tier L and Tier P outer bounds must still be published and finite; longer default windows are permitted but indefinite deferral is non-compliant where constitutional interests remain unresolved.
+- **Overrun review:** If a matter blows past its tier window without a written, tier-appropriate extension, escalation, or interim relief, that overrun must be reviewed. It is non-compliant when the delay foreseeably lets ongoing harm continue or makes redress useless.
+- **Outer bound:** Adopted instruments must publish a hard outer clock for finishing integrated resolution in each tier. Those clocks must stay close to ordinary sentient time — not bureaucratic time. Unless a narrower Rights-Floor window applies, or a documented extension is authorized under **Article XXIII-D** (*Emergency Measures and Continuation Burden*), the outer bounds are:
+  - **Tier A:** at most **one week**;
+  - **Tier B:** at most **three weeks**;
+  - **Tier C:** at most **two months**;
+  - **Tier L:** at most **four months**;
+  - **Tier P:** at most **six months**.
+  Going past a tier’s outer bound without that documented extension is non-compliant. Indefinite deferral is non-compliant wherever constitutional interests remain unresolved.
 - **Anti-delay floor:** The following are non-compliant where they foreseeably nullify rights, remedies, or timely protection:
   - designed backlog, chronic underfunding, or inaccessible intake that defeats **Article XII-B** (*Right to Challenge, Review, and Redress*) practical access;
   - delay regimes designed to exhaust claimants;
@@ -692,7 +665,55 @@ This section implements **Article XXIV-C** (*Timely Resolution and Anti-Delay Fl
   - treating allegations as verified standing inputs to buy time ([Chapter Eight §3.1](core_08-08_standing_assessment.md#verified-inputs-for-standing));
   - [Capture of Resolution Pathways](core_05a_accountability_definitions.md#capture-of-resolution-pathways) through delay, opacity, or resolver bias;
   - efficiency claims that skip fact-checking, punish the wrong party, offer a fix that does not fit the harm, or cut off challenge and appeal contrary to Chapter One [§12.2](core_01_c_stewardship_capacity_principles.md#122-constitutional-efficiency).
-- **Implementation defaults:** Numeric tier-default windows and stage tables belong in adopted **`corpus_forum.md`** and **`corpus_institutions.md`** text within incorporation scope. Those defaults must implement this section and **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*) and must not narrow **Article XII-B** (*Right to Challenge, Review, and Redress*), **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*), or **Article XXIII-C** (*Least-Restrictive and Time-Bounded Rule*). Default floor tables: [CF-11.3.1](corpus_forum/cf_11_performance_backlog_publication_accessibility.md#cf-1131-target-windows-and-timing-floors).
+- **Implementation defaults:** Stage-by-stage numeric windows belong in adopted **`corpus_forum.md`** and **`corpus_institutions.md`** text within incorporation scope. Those stage windows must fit inside this section’s outer bounds and must implement **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*) without narrowing **Article XII-B** (*Right to Challenge, Review, and Redress*), **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*), or **Article XXIII-C** (*Least-Restrictive and Time-Bounded Rule*). Default floor tables: [CF-11.3.1](corpus_forum/cf_11_performance_backlog_publication_accessibility.md#cf-1131-target-windows-and-timing-floors).
+
+<a id="7-forum-support-before-during-and-after-review"></a>
+
+### 7. Forum support before, during, and after review — oversight architecture
+<a id="6-forensic-and-analytical-support"></a>
+<a id="7-forensic-and-analytical-support"></a>
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: [§1](#1-purpose-and-role) (*independence, contestability, and tracing expectations*); [§2](#2-default-venue-and-primary-stakes) (*primary-stakes routing and intake*); [§4](#4-forum-family-definitions) (*forum families that hold this capacity*); [§5](#5-escalation-and-certification) (*escalation and certification that rely on contestable support*); [§6](#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*tier clocks and anti-delay discipline*).
+- Downstream: [§8](#8-anti-gaming-and-interim-relief) (*interim relief while support work proceeds*).
+- Read with: [corpus_forum.md](corpus_forum.md) (**CF-8** (*Forum forensic and analytical support*); **CF-9** (*Independent investigative service and prosecution interface*)); [Article XII-B: Right to Challenge, Review, and Redress](core_06-06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress); [Article XV](core_06-06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*).
+
+</details>
+
+<br>
+
+*In plain terms: forums need help before a case exists, while deciding, and after — inspectors and forensics build an explainable record; they do not become a second merits forum.*
+
+Forum families must maintain or obtain access to **independent** support across the review lifecycle. Support roles may gather, preserve, reconstruct, test, and explain evidence. Their work must remain **contestable**. They must **not** themselves exercise **binding** **merits** authority, assign Chapter Eight standing slots, or substitute for a lawfully constituted merits panel. Operational detail lives in **`corpus_forum.md`** (**CF-8**, **CF-9**) and must **implement, not narrow**, this section.
+
+- **Before review.** Forum families must be able to obtain independent **inspection** or **inquiry** capacity for material risk, harm patterns, or precondition failure **without waiting for a filed case**. Example: monitoring ecosystem health near an industrial area when credible indicators warrant inquiry. That work may trigger evidence preservation, referral to intake under **section 2**, interim protection under **section 8**, or opening of a case. It does **not** itself decide merits or open, update, or correct standing records.
+- **During review.** Where **material** **uncertainty**, **technical** **opacity**, **restricted** **evidence**, or **causal** **complexity** would otherwise prevent reliable adjudication, forum families must have access to independent **forensic** or **analytical** capacity consistent with **Chapters Two through Four**, **Article XII-B** (*Right to Challenge, Review, and Redress*), and **Article XV** (*Audit, Transparency, and Independent Verification*).
+- **After review.** Where material, forum families must be able to obtain support for remedy verification, pattern follow-through, and reopening inputs. That support must **not** substitute for Chapter Eight standing measurement or Chapter Nine integration.
+
+<a id="8-anti-gaming-and-interim-relief"></a>
+
+### 8. Anti-gaming and interim relief
+<a id="7-anti-gaming-and-interim-relief"></a>
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: [§2](#2-default-venue-and-primary-stakes)–[§7](#7-forum-support-before-during-and-after-review) (*venue, coordination, escalation, clocks, forum support, and interim protection cross-references*).
+- Downstream: Adopted implementation text and [corpus_forum.md](corpus_forum.md) (*costs, dismissal, referral mechanics as implementing detail*).
+- Read with: [Chapter Eight §7 unified scale](core_08-08_standing_assessment.md#7-unified-proportional-lequ-scale) (*verified-impact slot assignment*); [Chapter Ten §3](core_10_a_misconduct_designation.md#3-violation-axis-s-7-9-slot-assignment-incident-gravity) (*corresponding designation; legacy anchor preserved*); [Chapter Ten §4](core_10_a_misconduct_designation.md#4-due-process-safeguards-for-slot-assignment) (*due process*).
+
+</details>
+
+<br>
+
+*In plain terms: picking a forum to game the system can draw costs, referral, or a transfer; short-term orders are allowed when needed; and if several forums issue conflicting short-term orders at once, one coordinating rule must sort the clash.*
+
+**Forum characterization** must be **good-faith** and **warranted** by **primary** **stakes**. **Knowing** **mischaracterization** **may** **trigger** **costs**, **dismissal**, or **referral** under **adopting** **law**.
+
+Incentive devices must not be structured or applied to reward forum shopping, opaque threshold sorting, or routing inconsistent with primary-stakes discipline in **sections 2** and **3**.
+
+**Interim relief** **may** **issue** from **any** **competent** **family** to **preserve** **status** **quo** **pending** **merits**. Where **multiple** **forums** **share** **jurisdiction**, **one** **coordinating** **forum** or **rule** **must** **resolve** **conflicts** among **simultaneous** **interim** **orders**.
+
 
 ---
 

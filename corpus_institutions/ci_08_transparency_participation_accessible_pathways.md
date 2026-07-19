@@ -36,7 +36,7 @@
 - **CI-8.2** — anti-concentration and participation-legitimacy safeguards: no single voice or bloc should dominate; institutions must publish how participation weighting works and where to escalate when concentration risk appears.
 - **CI-8.3** — digital self-service pathway integrity: sign up, manage, downgrade, renew, and cancel online must be at least as workable as signing up; read with **CI-10.2** where billing applies.
 - **CI-8.4** — governance disclosure schema: a standard periodic governance report covering scope, risks, incidents, conflicts, remediation, assurance, and sanctions.
-- **Read with** — **CI-12** when local pathways fail or stall; **CF-11.3.1**, [Chapter Eleven §10](../core_11-11_forum.md#10-timely-resolution-materiality-tiers-and-anti-delay-discipline), and **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*) for remedy-organ and intake timing floors; **CI-10** and **CI-10.2** where charges or recurring billing touch self-service pathways.
+- **Read with** — **CI-12** when local pathways fail or stall; **CF-11.3.1**, [Chapter Eleven §6](../core_11-11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline), and **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*) for remedy-organ and intake timing floors; **CI-10** and **CI-10.2** where charges or recurring billing touch self-service pathways.
 
 *In plain terms: dumping data is not transparency. If affected sentients cannot understand a decision, use the participation route, challenge a bad outcome, or exit an online commitment without dark patterns, the institution is not meeting its duties — no matter how many pages it published.*
 
