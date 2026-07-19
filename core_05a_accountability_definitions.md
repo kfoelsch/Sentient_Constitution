@@ -1270,7 +1270,7 @@ This cluster is the joint-invocation home for the six constitutional forum famil
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Owner: [Chapter Eleven §2](core_11-11_forum.md#2-default-venue-and-primary-stakes); read with [Chapter Eleven §2.2](core_11-11_forum.md#22-mixed-stakes-and-routing-asymmetry), [Chapter Eleven §5](core_11-11_forum.md#5-transfer-consolidation-and-coordination), and [Chapter Eleven §6](core_11-11_forum.md#6-escalation-and-certification).
+- Owner: [Chapter Eleven §2](core_11-11_forum.md#2-default-venue-and-primary-stakes); read with [Chapter Eleven §2.2](core_11-11_forum.md#22-mixed-stakes-and-routing-asymmetry), [Chapter Eleven §3](core_11-11_forum.md#3-transfer-consolidation-and-coordination), and [Chapter Eleven §6](core_11-11_forum.md#6-escalation-and-certification).
 
 </details>
 
@@ -1323,7 +1323,7 @@ This cluster is the joint-invocation home for the six constitutional forum famil
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Owner: [Chapter Eleven §4.2.1](core_11-11_forum.md#421-sentient-forums); read with [Chapter Eight §5.1](core_08-08_standing_assessment.md#7-slot-grammar-and-display-labels) primary-stakes routing.
+- Owner: [Chapter Eleven §5.2.1](core_11-11_forum.md#521-sentient-forums); read with [Chapter Eight §5.1](core_08-08_standing_assessment.md#7-slot-grammar-and-display-labels) primary-stakes routing.
 
 </details>
 
@@ -1349,7 +1349,7 @@ This cluster is the joint-invocation home for the six constitutional forum famil
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Owner: [Chapter Eleven §4.2.2](core_11-11_forum.md#422-technical-forum-domains).
+- Owner: [Chapter Eleven §5.2.2](core_11-11_forum.md#522-technical-forum-domains).
 
 </details>
 
@@ -1362,7 +1362,7 @@ This cluster is the joint-invocation home for the six constitutional forum famil
 - **How to measure and assess**
   - **Primary measure:** Accountability measurement family and Timeliness measurement family — supporting measure where multiple measurement families co-apply.
 
-    **Primary assessment:** Distinguish primary technical-administration stakes from rights-, mandate-, or ecological-merits stakes that require another family under Chapter Eleven §2; preserve cross-family certification rather than letting technical specialization displace ordinary routing (Chapter Eleven §4.5).
+    **Primary assessment:** Distinguish primary technical-administration stakes from rights-, mandate-, or ecological-merits stakes that require another family under Chapter Eleven §2; preserve cross-family certification rather than letting technical specialization displace ordinary routing (Chapter Eleven §5.5).
 <a id="forum-family-technical-c"></a>
 - **What must hold**
   - treating technical labels as automatic venue trump over primary-stakes routing; using technical panels to displace lawfully assigned merits authority for non-technical primary questions.
@@ -1375,7 +1375,7 @@ This cluster is the joint-invocation home for the six constitutional forum famil
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Owner: [Chapter Eleven §4.2.3](core_11-11_forum.md#423-institutional-forums); read with [corpus_institutions.md](corpus_institutions.md) supervised-scope language.
+- Owner: [Chapter Eleven §5.2.3](core_11-11_forum.md#523-institutional-forums); read with [corpus_institutions.md](corpus_institutions.md) supervised-scope language.
 
 </details>
 
@@ -1401,7 +1401,7 @@ This cluster is the joint-invocation home for the six constitutional forum famil
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Owner: [Chapter Eleven §4.2.4](core_11-11_forum.md#424-environment-forums); read with [Ecological Integrity](core_05c_continuity_definitions.md#ecological-integrity-constitutional) and [Environmental Preconditions](core_05c_continuity_definitions.md#environmental-preconditions-constitutional).
+- Owner: [Chapter Eleven §5.2.4](core_11-11_forum.md#524-environment-forums); read with [Ecological Integrity](core_05c_continuity_definitions.md#ecological-integrity-constitutional) and [Environmental Preconditions](core_05c_continuity_definitions.md#environmental-preconditions-constitutional).
 
 </details>
 
@@ -1427,7 +1427,7 @@ This cluster is the joint-invocation home for the six constitutional forum famil
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Owner: [Chapter Eleven §4.2.5](core_11-11_forum.md#425-integrity-forums); read with Chapter Ten designation due-process cross-references in Chapter Eleven §6.
+- Owner: [Chapter Eleven §5.2.5](core_11-11_forum.md#525-integrity-forums); read with Chapter Ten designation due-process cross-references in Chapter Eleven §6.
 
 </details>
 
@@ -1440,10 +1440,10 @@ This cluster is the joint-invocation home for the six constitutional forum famil
 - **How to measure and assess**
   - **Primary measure:** Accountability measurement family and Timeliness measurement family — supporting measure where multiple measurement families co-apply.
 
-    **Primary assessment:** Apply anti-self-judging backups from Chapter Eleven §5 where the forum’s own bias, capture, or concealment is the primary issue; separate alignment-led coordination from provisional operational-law doctrine governed by Chapter Eleven §4.3 for other families.
+    **Primary assessment:** Apply anti-self-judging backups from Chapter Eleven §3 where the forum’s own bias, capture, or concealment is the primary issue; separate alignment-led coordination from provisional operational-law doctrine governed by Chapter Eleven §5.3 for other families.
 <a id="forum-family-integrity-c"></a>
 - **What must hold**
-  - using **Integrity** lead to silently displace **Constitutional** certification where structural validity or class-wide remedy requires it; refusing backup routing where Chapter Eleven §5’s rule assigns an independent lead family.
+  - using **Integrity** lead to silently displace **Constitutional** certification where structural validity or class-wide remedy requires it; refusing backup routing where Chapter Eleven §3’s rule assigns an independent lead family.
 
 ---
 
@@ -1453,7 +1453,7 @@ This cluster is the joint-invocation home for the six constitutional forum famil
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Owner: [Chapter Eleven §4.2.6](core_11-11_forum.md#426-constitutional-forums); read with [Article XII-B](core_06-06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress) (*Right to Challenge, Review, and Redress*) certification hooks.
+- Owner: [Chapter Eleven §5.2.6](core_11-11_forum.md#526-constitutional-forums); read with [Article XII-B](core_06-06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress) (*Right to Challenge, Review, and Redress*) certification hooks.
 
 </details>
 
@@ -1466,7 +1466,7 @@ This cluster is the joint-invocation home for the six constitutional forum famil
 - **How to measure and assess**
   - **Primary measure:** Accountability measurement family and Timeliness measurement family — supporting measure where multiple measurement families co-apply.
 
-    **Primary assessment:** Preserve **Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*)-class review safeguards and Chapter Ten due-process hooks when certification or escalation arrives from lower families; distinguish certified constitutional questions from implementation operational-law provisional rulings under Chapter Eleven §4.3 and §7.
+    **Primary assessment:** Preserve **Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*)-class review safeguards and Chapter Ten due-process hooks when certification or escalation arrives from lower families; distinguish certified constitutional questions from implementation operational-law provisional rulings under Chapter Eleven §5.3 and §7.
 <a id="forum-family-constitutional-c"></a>
 - **What must hold**
   - treating non-certifiable operational detail as final constitutional disposition; collapsing certification discipline so families bypass Chapter Eleven §6 when constitutional validity, meaning, or structural remedy is materially at stake.

@@ -76,7 +76,7 @@ Distributed understanding and stewardship require that sentients have regular, p
 
 #### 3.1 Using Measurements in Governance
 
-When the Constitution requires concrete measurement rules, **Technical Forum Domains** under [Chapter Eleven](core_11-11_forum.md#422-technical-forum-domains) develop and maintain the shared standards — how to measure, how to test, and what counts as reliable evidence. The forum responsible for a given dispute then applies those standards when deciding that case under [Chapter Eleven §4.5](core_11-11_forum.md#45-shared-standards-and-anti-displacement).
+When the Constitution requires concrete measurement rules, **Technical Forum Domains** under [Chapter Eleven](core_11-11_forum.md#522-technical-forum-domains) develop and maintain the shared standards — how to measure, how to test, and what counts as reliable evidence. The forum responsible for a given dispute then applies those standards when deciding that case under [Chapter Eleven §5.5](core_11-11_forum.md#55-shared-standards-and-anti-displacement).
 
 Constitutional stewardship starts with naming the problem and the [**material stake**](#material-stake) — how much impact, dependence, and risk are involved. Next, choose the relevant [**measurement**](#2-the-measurements) category and subcategory from the [overview](#2-the-measurements) and apply the standards above to test real-world effects rather than convenience metrics. Require traceable evidence.
 

@@ -98,7 +98,7 @@ An alignment ruling must be attributable and reviewable. At minimum, the record 
 - each component matter referred, certified, or stayed, including the assigned lead family or forum;
 - the priority basis for sequencing where multiple components compete;
 - any stays, sequencing requirements, milestones, or coordination orders the Integrity forum keeps on the lead record; and
-- where applicable, the remediation options or menus, including which elements are binding and which are advisory, consistent with **Chapter Eleven**, **section 4**.
+- where applicable, the remediation options or menus, including which elements are binding and which are advisory, consistent with **Chapter Eleven**, **section 5**.
 
 #### CF-7.1.2 Component Referral and Priority Publication
 <details>
@@ -236,7 +236,7 @@ Where an alignment ruling materially stabilizes outcomes beyond the named partie
 <br>
 
 
-**Purpose.** Provide official, contestable forum mechanics for recognizing new materially impactful systems as constitutionally aligned within a stated scope. The same mechanics also check whether existing systems remain aligned over time. This subsection implements `core_11-11_forum.md` **Chapter Eleven**, **sections 5, 6, and 7**, and works with `corpus_systems.md` **Protocol A** and **CS-4 — System classification and handling** classification and revalidation duties.
+**Purpose.** Provide official, contestable forum mechanics for recognizing new materially impactful systems as constitutionally aligned within a stated scope. The same mechanics also check whether existing systems remain aligned over time. This subsection implements `core_11-11_forum.md` **Chapter Eleven**, **sections 3, 6, and 7**, and works with `corpus_systems.md` **Protocol A** and **CS-4 — System classification and handling** classification and revalidation duties.
 
 #### CF-7.2.1 Technical-Specification and Environmental-Component Separation
 <details>

@@ -218,7 +218,7 @@ This section applies [Transparency](core_05o_oversight_definitions.md#transparen
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§11](#11-certification-record) (*certification record contents*); [§12](#12-transparency-auditability-and-contestability) (*record integrity requirements*); [Chapter Eleven §4](core_11-11_forum.md#4-forum-families) (*forum families and alignment recognition*).
+- Upstream: [§11](#11-certification-record) (*certification record contents*); [§12](#12-transparency-auditability-and-contestability) (*record integrity requirements*); [Chapter Eleven §5](core_11-11_forum.md#5-forum-families) (*forum families and alignment recognition*).
 - Downstream: [§14](#14-supervisory-sequence-and-contestability-chain) (*supervisory sequence and contestability chain*); [§15](#15-relationship-to-standing) (*standing-record bridge*).
 - Read with: [corpus_forum.md](corpus_forum.md), **CF-7** (*Integrity safeguards and alignment coordination*) and **CF-10** (*Technical specialist forums and specialist chambers*).
 
@@ -277,7 +277,7 @@ This section assigns forum-family **component roles** within **system alignment 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§11](#11-certification-record) (*record contents*); [§12](#12-transparency-auditability-and-contestability) (*record integrity requirements*); [§13](#13-forum-supervision-and-component-roles) (*component role assignments*); Timeliness measurement family (*Timely Resolution and anti-delay discipline*); [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation**, **oversight**, **accountability**, and **timeliness**; [Chapter Eleven §4](core_11-11_forum.md#4-forum-families) (*Integrity-led alignment recognition, component referral, and validation*); [Chapter Eleven §5](core_11-11_forum.md#5-transfer-consolidation-and-coordination) (*Integrity-led alignment coordination and anti-self-judging*).
+- Upstream: [§11](#11-certification-record) (*record contents*); [§12](#12-transparency-auditability-and-contestability) (*record integrity requirements*); [§13](#13-forum-supervision-and-component-roles) (*component role assignments*); Timeliness measurement family (*Timely Resolution and anti-delay discipline*); [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation**, **oversight**, **accountability**, and **timeliness**; [Chapter Eleven §5](core_11-11_forum.md#5-forum-families) (*Integrity-led alignment recognition, component referral, and validation*); [Chapter Eleven §3](core_11-11_forum.md#3-transfer-consolidation-and-coordination) (*Integrity-led alignment coordination and anti-self-judging*).
 - Downstream: [§15](#15-relationship-to-standing) (*verified-input gate*); [§16](#16-reopening-drift-and-non-evasion) (*reopening triggers*); [Chapter Eleven §6](core_11-11_forum.md#6-escalation-and-certification) (*family-to-family escalation and constitutional certification*).
 - Read with: [corpus_forum.md](corpus_forum.md), **CF-5** and **CF-7**; [Article XII-B](core_06-06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress) (*Right to Challenge, Review, and Redress*).
 

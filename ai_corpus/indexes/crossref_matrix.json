@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-07-18T23:21:33+00:00",
+  "generated_at": "2026-07-19T05:27:55+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -604,9 +604,9 @@
             "file": "core_11-11_forum.md",
             "count": 6,
             "anchors": [
-              "#10-timely-resolution-materiality-tiers-and-anti-delay-discipline",
-              "#422-technical-forum-domains",
-              "#45-shared-standards-and-anti-displacement",
+              "#522-technical-forum-domains",
+              "#55-shared-standards-and-anti-displacement",
+              "#9-timely-resolution-materiality-tiers-and-anti-delay-discipline",
               "#chapter-eleven-forums-and-jurisdiction"
             ]
           },
@@ -978,8 +978,8 @@
             "file": "core_11-11_forum.md",
             "count": 3,
             "anchors": [
-              "#422-technical-forum-domains",
-              "#45-shared-standards-and-anti-displacement"
+              "#522-technical-forum-domains",
+              "#55-shared-standards-and-anti-displacement"
             ]
           },
           {
@@ -1018,8 +1018,9 @@
           },
           {
             "file": "core_01_c_stewardship_capacity_principles.md",
-            "count": 11,
+            "count": 12,
             "anchors": [
+              "#10-governance-as-authorized-structure",
               "#1113-stewardship-and-operator-application",
               "#122-constitutional-efficiency",
               "#15-integrated-application",
@@ -1042,9 +1043,11 @@
           },
           {
             "file": "core_05a_accountability_definitions.md",
-            "count": 120,
+            "count": 125,
             "anchors": [
               "#accountability",
+              "#accountability-a",
+              "#accountability-c",
               "#contestability",
               "#corpus-authority-stack-supremacy-and-enforceability-cluster",
               "#feasibility",
@@ -1135,7 +1138,7 @@
           },
           {
             "file": "core_05o_oversight_definitions.md",
-            "count": 67,
+            "count": 72,
             "anchors": [
               "#classification-scaled-governance",
               "#epistemic-integrity",
@@ -1152,6 +1155,9 @@
               "#materiality-determination-a",
               "#materiality-determination-c",
               "#materiality-semi-independent",
+              "#oversight-constitutional",
+              "#oversight-constitutional-a",
+              "#oversight-constitutional-c",
               "#proxy-divergence",
               "#proxy-divergence-a",
               "#proxy-divergence-c",
@@ -1254,7 +1260,7 @@
         "targets": [
           {
             "file": "core_00_preamble.md",
-            "count": 91,
+            "count": 93,
             "anchors": [
               "#chapter-00-preamble--foundational-requirements",
               "#constitutional-tetrad",
@@ -1280,9 +1286,10 @@
           },
           {
             "file": "core_01_b_interaction_interpretation.md",
-            "count": 31,
+            "count": 32,
             "anchors": [
               "#6-process-conflict-resolution",
+              "#611-proportionality",
               "#614-constitutional-floors-safety-and-process-character-constraints",
               "#62-epistemic-disclosure-constraints",
               "#63-minimization-of-avoidable-burden",
@@ -1308,7 +1315,7 @@
           },
           {
             "file": "core_05a_accountability_definitions.md",
-            "count": 167,
+            "count": 173,
             "anchors": [
               "#accountability",
               "#accountability-a",
@@ -1432,7 +1439,7 @@
           },
           {
             "file": "core_05o_oversight_definitions.md",
-            "count": 117,
+            "count": 119,
             "anchors": [
               "#auditability",
               "#auditability-a",
@@ -1513,7 +1520,7 @@
           },
           {
             "file": "core_06-06_rights_part_c.md",
-            "count": 24,
+            "count": 27,
             "anchors": [
               "#article-xii-d-incentive-alignment-constraint",
               "#article-xiv-info-sphere-integrity",
@@ -1577,10 +1584,11 @@
           },
           {
             "file": "core_11-11_forum.md",
-            "count": 4,
+            "count": 6,
             "anchors": [
               "#2-purpose-and-role",
-              "#4-forum-families"
+              "#5-forum-families",
+              "#chapter-eleven-forums-and-jurisdiction"
             ]
           },
           {
@@ -1900,7 +1908,7 @@
           },
           {
             "file": "core_05a_accountability_definitions.md",
-            "count": 88,
+            "count": 89,
             "anchors": [
               "#accountability",
               "#accountability-measurement-family",
@@ -1922,6 +1930,7 @@
               "#event-contract-market",
               "#feasibility",
               "#force-majeure-constitutional",
+              "#forum-case-record",
               "#forum-families-and-dispute-routing-cluster",
               "#forum-family-constitutional",
               "#forum-family-environment",
@@ -2910,7 +2919,7 @@
           },
           {
             "file": "core_01_b_interaction_interpretation.md",
-            "count": 15,
+            "count": 16,
             "anchors": [
               "#61-core-tradeoff-principles",
               "#611-necessity",
@@ -2922,8 +2931,9 @@
           },
           {
             "file": "core_01_c_stewardship_capacity_principles.md",
-            "count": 33,
+            "count": 35,
             "anchors": [
+              "#10-governance-as-authorized-structure",
               "#10-governance-under-stewardship-discipline",
               "#11-incentive-alignment-and-system-capture",
               "#1115-constitutional-outcome-claims-discipline",
@@ -2956,7 +2966,7 @@
           },
           {
             "file": "core_05a_accountability_definitions.md",
-            "count": 495,
+            "count": 507,
             "anchors": [
               "#accountability",
               "#accountability-contestability-semi-independent",
@@ -2977,6 +2987,7 @@
               "#due-process-constitutional",
               "#event-contract-market",
               "#force-majeure-constitutional",
+              "#forum-case-record",
               "#forum-family-constitutional",
               "#forum-family-environment",
               "#forum-family-institutional",
@@ -3074,7 +3085,7 @@
           },
           {
             "file": "core_05o_oversight_definitions.md",
-            "count": 126,
+            "count": 131,
             "anchors": [
               "#adversarial-scaled-and-exploited-conditions",
               "#auditability",
@@ -3175,13 +3186,14 @@
           },
           {
             "file": "core_08-08_standing_assessment.md",
-            "count": 38,
+            "count": 39,
             "anchors": [
               "#2-purpose-and-role",
               "#2-standing-records",
               "#21-standing-records-as-the-unit-of-application",
               "#3-standing-record-operational-requirements",
               "#31-minimum-record-contents",
+              "#36-forum-boundary",
               "#44-violation-route-descriptor-measurement-roles",
               "#7-slot-grammar-and-display-labels",
               "#7-unified-proportional-lequ-scale",
@@ -3226,19 +3238,21 @@
           },
           {
             "file": "core_11-11_forum.md",
-            "count": 21,
+            "count": 23,
             "anchors": [
-              "#10-timely-resolution-materiality-tiers-and-anti-delay-discipline",
               "#2-default-venue-and-primary-stakes",
-              "#421-sentient-forums",
+              "#22-mixed-stakes-and-routing-asymmetry",
+              "#23-forum-records-standing-records-and-contests",
+              "#3-transfer-consolidation-and-coordination",
               "#422-technical-forum-domains",
-              "#423-institutional-forums",
-              "#424-environment-forums",
-              "#425-integrity-forums",
-              "#426-constitutional-forums",
-              "#5-intake-triage-mixed-stakes-and-routing-asymmetry",
-              "#6-transfer-consolidation-and-coordination",
-              "#7-escalation-and-certification",
+              "#521-sentient-forums",
+              "#522-technical-forum-domains",
+              "#523-institutional-forums",
+              "#524-environment-forums",
+              "#525-integrity-forums",
+              "#526-constitutional-forums",
+              "#6-escalation-and-certification",
+              "#9-timely-resolution-materiality-tiers-and-anti-delay-discipline",
               "#chapter-eleven-forums-and-jurisdiction"
             ]
           },
@@ -4236,10 +4250,10 @@
             "file": "core_11-11_forum.md",
             "count": 12,
             "anchors": [
-              "#4-forum-families",
-              "#5-intake-triage-mixed-stakes-and-routing-asymmetry",
-              "#6-transfer-consolidation-and-coordination",
-              "#7-escalation-and-certification",
+              "#23-forum-records-standing-records-and-contests",
+              "#3-transfer-consolidation-and-coordination",
+              "#5-forum-families",
+              "#6-escalation-and-certification",
               "#chapter-eleven-forums-and-jurisdiction"
             ]
           },
@@ -4314,11 +4328,12 @@
           },
           {
             "file": "core_05a_accountability_definitions.md",
-            "count": 16,
+            "count": 17,
             "anchors": [
               "#accountability",
               "#contestability",
               "#contribution-state",
+              "#forum-case-record",
               "#harm",
               "#harm-a",
               "#harm-c",
@@ -4432,9 +4447,10 @@
           },
           {
             "file": "core_11-11_forum.md",
-            "count": 4,
+            "count": 5,
             "anchors": [
-              "#10-timely-resolution-materiality-tiers-and-anti-delay-discipline",
+              "#23-forum-records-standing-records-and-contests",
+              "#9-timely-resolution-materiality-tiers-and-anti-delay-discipline",
               "#chapter-eleven-forums-and-jurisdiction"
             ]
           },
@@ -4512,11 +4528,11 @@
             "file": "core_11-11_forum.md",
             "count": 11,
             "anchors": [
-              "#10-timely-resolution-materiality-tiers-and-anti-delay-discipline",
               "#2-default-venue-and-primary-stakes",
               "#422-technical-forum-domains",
               "#423-institutional-forums",
               "#425-integrity-forums",
+              "#9-timely-resolution-materiality-tiers-and-anti-delay-discipline",
               "#chapter-eleven-forums-and-jurisdiction"
             ]
           },
@@ -4639,7 +4655,7 @@
             "count": 7,
             "anchors": [
               "#2-default-venue-and-primary-stakes",
-              "#7-escalation-and-certification",
+              "#6-escalation-and-certification",
               "#chapter-eleven-forums-and-jurisdiction"
             ]
           },
@@ -4874,8 +4890,7 @@
             "count": 9,
             "anchors": [
               "#2-default-venue-and-primary-stakes",
-              "#5-intake-triage-mixed-stakes-and-routing-asymmetry",
-              "#6-transfer-consolidation-and-coordination",
+              "#3-transfer-consolidation-and-coordination",
               "#chapter-eleven-forums-and-jurisdiction"
             ]
           },
@@ -4926,7 +4941,7 @@
           },
           {
             "file": "core_01_c_stewardship_capacity_principles.md",
-            "count": 3,
+            "count": 4,
             "anchors": [
               "#122-constitutional-efficiency",
               "#chapter-01-principles-and-constraints"
@@ -4946,12 +4961,14 @@
           },
           {
             "file": "core_05a_accountability_definitions.md",
-            "count": 12,
+            "count": 14,
             "anchors": [
               "#capture-of-resolution-pathways",
               "#capture-of-resolution-pathways-a",
               "#capture-of-resolution-pathways-c",
               "#force-majeure-constitutional",
+              "#forum-case-record",
+              "#standing-record-chapter-six",
               "#timely-resolution-constitutional",
               "#timely-resolution-constitutional-a",
               "#timely-resolution-constitutional-c"
@@ -4968,14 +4985,14 @@
           },
           {
             "file": "core_05i_integrative_definitions.md",
-            "count": 1,
+            "count": 2,
             "anchors": [
               "#corpus"
             ]
           },
           {
             "file": "core_05o_oversight_definitions.md",
-            "count": 8,
+            "count": 7,
             "anchors": [
               "#evidence-preservation",
               "#materiality-determination",
@@ -5006,7 +5023,7 @@
           },
           {
             "file": "core_06-06_rights_part_c.md",
-            "count": 7,
+            "count": 6,
             "anchors": [
               "#article-xii-b-right-to-challenge-review-and-redress",
               "#article-xxii-b-composition-rotation-and-conflict-controls"
@@ -5014,7 +5031,7 @@
           },
           {
             "file": "core_06-06_rights_part_d.md",
-            "count": 8,
+            "count": 7,
             "anchors": [
               "#article-xxiii-a-justice-objective-and-scope",
               "#article-xxiii-c-least-restrictive-and-time-bounded-rule",
@@ -5023,8 +5040,24 @@
             ]
           },
           {
+            "file": "core_07_a_system_alignment_certification_evaluation.md",
+            "count": 2,
+            "anchors": [
+              "#chapter-seven-system-alignment-certification"
+            ]
+          },
+          {
+            "file": "core_07_b_system_alignment_certification_record_process.md",
+            "count": 3,
+            "anchors": [
+              "#13-forum-supervision-and-component-roles",
+              "#15-relationship-to-standing",
+              "#chapter-seven-part-b-certification-record-and-process"
+            ]
+          },
+          {
             "file": "core_08-08_standing_assessment.md",
-            "count": 25,
+            "count": 21,
             "anchors": [
               "#2-standing-records",
               "#3-standing-record-operational-requirements",
@@ -5046,7 +5079,7 @@
           },
           {
             "file": "core_09-09_standing_integration.md",
-            "count": 4,
+            "count": 5,
             "anchors": [
               "#2-integration-record-and-decision-order",
               "#3-descriptor-integration-and-attachment-normalization",
@@ -5056,7 +5089,7 @@
           },
           {
             "file": "core_10_a_misconduct_designation.md",
-            "count": 10,
+            "count": 8,
             "anchors": [
               "#3-violation-axis-s-7-9-slot-assignment-incident-gravity",
               "#4-due-process-safeguards-for-slot-assignment",
@@ -5086,7 +5119,7 @@
           },
           {
             "file": "corpus_forum.md",
-            "count": 12,
+            "count": 11,
             "anchors": []
           },
           {
@@ -5189,7 +5222,7 @@
             "file": "core_11-11_forum.md",
             "count": 7,
             "anchors": [
-              "#10-timely-resolution-materiality-tiers-and-anti-delay-discipline",
+              "#9-timely-resolution-materiality-tiers-and-anti-delay-discipline",
               "#chapter-eleven-forums-and-jurisdiction"
             ]
           },
@@ -6171,7 +6204,7 @@
             "count": 7,
             "anchors": [
               "#2-default-venue-and-primary-stakes",
-              "#6-transfer-consolidation-and-coordination",
+              "#3-transfer-consolidation-and-coordination",
               "#chapter-eleven-forums-and-jurisdiction"
             ]
           },
@@ -6402,7 +6435,7 @@
             "file": "core_11-11_forum.md",
             "count": 3,
             "anchors": [
-              "#10-timely-resolution-materiality-tiers-and-anti-delay-discipline"
+              "#9-timely-resolution-materiality-tiers-and-anti-delay-discipline"
             ]
           },
           {
@@ -10564,7 +10597,7 @@
             "file": "core_11-11_forum.md",
             "count": 1,
             "anchors": [
-              "#10-timely-resolution-materiality-tiers-and-anti-delay-discipline"
+              "#9-timely-resolution-materiality-tiers-and-anti-delay-discipline"
             ]
           },
           {
@@ -12576,11 +12609,11 @@
             "file": "core_11-11_forum.md",
             "count": 5,
             "anchors": [
-              "#10-timely-resolution-materiality-tiers-and-anti-delay-discipline",
               "#2-default-venue-and-primary-stakes",
               "#422-technical-forum-domains",
               "#423-institutional-forums",
-              "#425-integrity-forums"
+              "#425-integrity-forums",
+              "#9-timely-resolution-materiality-tiers-and-anti-delay-discipline"
             ]
           },
           {
@@ -13502,7 +13535,7 @@
           },
           {
             "file": "core_05a_accountability_definitions.md",
-            "count": 152,
+            "count": 153,
             "anchors": [
               "#accountability",
               "#accountability-a",
@@ -13513,6 +13546,7 @@
               "#contestability",
               "#contestability-a",
               "#contestability-c",
+              "#forum-case-record",
               "#forum-family-institutional",
               "#forum-family-institutional-a",
               "#forum-family-institutional-c",
@@ -13667,7 +13701,7 @@
           },
           {
             "file": "core_05a_accountability_definitions.md",
-            "count": 32,
+            "count": 33,
             "anchors": [
               "#adjudication-and-dispute-resolution-constitutional",
               "#adjudication-and-dispute-resolution-constitutional-a",
@@ -13675,6 +13709,7 @@
               "#contestability",
               "#contestability-a",
               "#contestability-c",
+              "#forum-case-record",
               "#forum-family-technical",
               "#forum-family-technical-a",
               "#forum-family-technical-c",
@@ -14245,7 +14280,7 @@
             "file": "core_11-11_forum.md",
             "count": 20,
             "anchors": [
-              "#10-timely-resolution-materiality-tiers-and-anti-delay-discipline",
+              "#9-timely-resolution-materiality-tiers-and-anti-delay-discipline",
               "#chapter-eleven-forums-and-jurisdiction"
             ]
           },
