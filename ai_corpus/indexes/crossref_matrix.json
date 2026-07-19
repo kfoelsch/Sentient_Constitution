@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-07-19T08:21:33+00:00",
+  "generated_at": "2026-07-19T17:10:08+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -976,10 +976,9 @@
           },
           {
             "file": "core_11-11_forum.md",
-            "count": 3,
+            "count": 2,
             "anchors": [
-              "#42-technical-forum-domains",
-              "#53-shared-standards-and-anti-displacement"
+              "#42-technical-forum-domains"
             ]
           },
           {
@@ -4929,7 +4928,7 @@
         "targets": [
           {
             "file": "core_00_preamble.md",
-            "count": 11,
+            "count": 9,
             "anchors": [
               "#constitutional-tetrad",
               "#from-measurement-to-evidence-and-remedy",
@@ -5047,7 +5046,7 @@
           },
           {
             "file": "core_07_b_system_alignment_certification_record_process.md",
-            "count": 3,
+            "count": 6,
             "anchors": [
               "#13-forum-supervision-and-component-roles",
               "#15-relationship-to-standing",
@@ -5118,7 +5117,7 @@
           },
           {
             "file": "corpus_forum.md",
-            "count": 12,
+            "count": 11,
             "anchors": []
           },
           {

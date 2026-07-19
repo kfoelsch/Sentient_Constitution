@@ -1362,7 +1362,7 @@ This cluster is the joint-invocation home for the six constitutional forum famil
 - **How to measure and assess**
   - **Primary measure:** Accountability measurement family and Timeliness measurement family — supporting measure where multiple measurement families co-apply.
 
-    **Primary assessment:** Distinguish primary technical-administration stakes from rights-, mandate-, or ecological-merits stakes that require another family under Chapter Eleven §2; preserve cross-family certification rather than letting technical specialization displace ordinary routing (Chapter Eleven §5.3).
+    **Primary assessment:** Distinguish primary technical-administration stakes from rights-, mandate-, or ecological-merits stakes that require another family under Chapter Eleven §2; preserve cross-family certification rather than letting technical specialization displace ordinary routing (Chapter Eleven §4.2).
 <a id="forum-family-technical-c"></a>
 - **What must hold**
   - treating technical labels as automatic venue trump over primary-stakes routing; using technical panels to displace lawfully assigned merits authority for non-technical primary questions.
@@ -1440,7 +1440,7 @@ This cluster is the joint-invocation home for the six constitutional forum famil
 - **How to measure and assess**
   - **Primary measure:** Accountability measurement family and Timeliness measurement family — supporting measure where multiple measurement families co-apply.
 
-    **Primary assessment:** Apply anti-self-judging backups from Chapter Eleven §3 where the forum’s own bias, capture, or concealment is the primary issue; separate alignment-led coordination from provisional operational-law doctrine governed by Chapter Eleven §5.1 for other families.
+    **Primary assessment:** Apply anti-self-judging backups from Chapter Eleven §3 where the forum’s own bias, capture, or concealment is the primary issue; separate alignment-led coordination from provisional operational-law doctrine governed by Chapter Eleven §4.7 for other families.
 <a id="forum-family-integrity-c"></a>
 - **What must hold**
   - using **Integrity** lead to silently displace **Constitutional** certification where structural validity or class-wide remedy requires it; refusing backup routing where Chapter Eleven §3’s rule assigns an independent lead family.
@@ -1466,7 +1466,7 @@ This cluster is the joint-invocation home for the six constitutional forum famil
 - **How to measure and assess**
   - **Primary measure:** Accountability measurement family and Timeliness measurement family — supporting measure where multiple measurement families co-apply.
 
-    **Primary assessment:** Preserve **Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*)-class review safeguards and Chapter Ten due-process hooks when certification or escalation arrives from lower families; distinguish certified constitutional questions from implementation operational-law provisional rulings under Chapter Eleven §5.1 and §8.
+    **Primary assessment:** Preserve **Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*)-class review safeguards and Chapter Ten due-process hooks when certification or escalation arrives from lower families; distinguish certified constitutional questions from implementation operational-law provisional rulings under Chapter Eleven §4.7 and §8.
 <a id="forum-family-constitutional-c"></a>
 - **What must hold**
   - treating non-certifiable operational detail as final constitutional disposition; collapsing certification discipline so families bypass Chapter Eleven §7 when constitutional validity, meaning, or structural remedy is materially at stake.
