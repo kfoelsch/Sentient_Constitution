@@ -156,18 +156,22 @@ Harm minimization selects among options that already clear those floors — it d
 - [Systemic Lock-In](core_05c_continuity_definitions.md#systemic-lock-in) · [O](core_05c_continuity_definitions.md#systemic-lock-in) · [A](core_05c_continuity_definitions.md#systemic-lock-in-a) · [C](core_05c_continuity_definitions.md#systemic-lock-in-c)
 - [Reversibility](core_05c_continuity_definitions.md#reversibility-constitutional) · [O](core_05c_continuity_definitions.md#reversibility-constitutional) · [A](core_05c_continuity_definitions.md#reversibility-constitutional-a) · [C](core_05c_continuity_definitions.md#reversibility-constitutional-c)
 - [Dependency](core_05c_continuity_definitions.md#dependency) · [O](core_05c_continuity_definitions.md#dependency) · [A](core_05c_continuity_definitions.md#dependency-a) · [C](core_05c_continuity_definitions.md#dependency-c)
+- [Accountability](core_05a_accountability_definitions.md#accountability) · [O](core_05a_accountability_definitions.md#accountability) · [A](core_05a_accountability_definitions.md#accountability-a) · [C](core_05a_accountability_definitions.md#accountability-c)
+- [Oversight](core_05o_oversight_definitions.md#oversight-constitutional) · [O](core_05o_oversight_definitions.md#oversight-constitutional) · [A](core_05o_oversight_definitions.md#oversight-constitutional-a) · [C](core_05o_oversight_definitions.md#oversight-constitutional-c)
 
 </details>
 
 <br>
 
-*In plain terms: proportionality verifies that the scale of a restriction fits the scale of the harm it addresses. A necessary, harm-minimizing option still fails if its scope, duration, or intensity is disproportionate to what's actually at stake. The more irreversible, systemic, or dependency-creating the risk, the stronger the justification and scrutiny must be.*
+*In plain terms: proportionality verifies that the scale of a restriction fits the scale of the harm it addresses. A necessary, harm-minimizing option still fails if its scope, duration, or intensity is disproportionate to what's actually at stake. The more irreversible, systemic, or dependency-creating the risk, the stronger the justification and scrutiny must be. The same under-governance rule applies to power: greater authorized power or consequential role must raise accountability and oversight, not lower them.*
 
 Limitations on constitutional **values** — including **Chapter Six** Rights-Floor protections and other principles and protections subject to tradeoff under [§5](#6-process-conflict-resolution) — must be proportionate to the magnitude and likelihood of the **harm** or **systemic impact** legitimately addressed, consistent with [Proportionality](core_05a_accountability_definitions.md#proportionality) in **Chapter Five**.
 
 Proportionality does not by itself authorize restriction. A restriction must first satisfy [§6.1.1 Necessity](#611-necessity) and [§6.1.2 Harm Minimization](#612-harm-minimization); proportionality then verifies that the selected option's scale fits the harm addressed. Any actual restriction must also satisfy [§6.1.4 Constitutional Floors](#614-constitutional-floors-safety-and-process-character-constraints), [§6.1.5 Least-Restrictive Constraint](#least-restrictive-time-bounded-and-reviewable-constraint-principle), and all applicable Rights-Floor protections.
 
 **Classification floor.** No system may be governed at a level lower than that required by its highest applicable classification. A lower administrative label cannot reduce the scrutiny required by the highest applicable risk, dependency, rights, or system-impact classification.
+
+**Authority-scaled answerability.** Proportionality also forbids under-governance of those who hold greater authorized power, consequential role, or institutional influence: [Accountability](core_05a_accountability_definitions.md#accountability) and [Oversight](core_05o_oversight_definitions.md#oversight-constitutional) intensity must rise with that authority, not fall. Read with [§10.1 Governance as Authorized Structure](core_01_c_stewardship_capacity_principles.md#10-governance-as-authorized-structure).
 
 **Heightened thresholds.** Where actions introduce risk of irreversible harm, systemic lock-in, Existential Risk, or irreversible loss of Ecological Recovery Capacity, systems must apply heightened thresholds for justification, scrutiny, and reversibility where feasible.
 

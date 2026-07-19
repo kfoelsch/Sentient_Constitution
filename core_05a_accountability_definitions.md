@@ -326,24 +326,25 @@ These measures ask whether process clocks, resolution pathways, and repair veloc
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Principles: [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency), [6. Process Conflict Resolution](#6-process-conflict-resolution), [10.2.1 Preservation of Epistemic Integrity](core_01_b_interaction_interpretation.md#621-preservation-of-epistemic-integrity), [§6.3.1 Rights-Collision Decision Test](#631-rights-collision-decision-test), and [8. Prohibition on Absolute Override](#7-prohibition-on-absolute-override).
+- Downstream: [Chapter One §6.1.3 Proportionality](core_01_b_interaction_interpretation.md#611-proportionality) (*authority-scaled answerability*); [Chapter One §10.1 Governance as Authorized Structure](core_01_c_stewardship_capacity_principles.md#10-governance-as-authorized-structure) (*authority-scaled answerability principle home*).
 - Cluster component: [Chapter Five Chapter One §8.27 *Proportionality, Necessity, Feasibility, Avoidable Burden, Burden-Reduction Duty, Constitutional Efficiency, Harm Minimization (Tradeoff Selection), and Productive Capacity*](core_05c_continuity_definitions.md#proportionality-necessity-feasibility-burden-and-efficiency-cluster)
-- Read with: Necessity, Harm, Risk, Irreversible Harm, and Classification-Scaled Governance.
+- Read with: Necessity, Harm, Risk, Irreversible Harm, Classification-Scaled Governance, [Accountability](core_05a_accountability_definitions.md#accountability), and [Oversight](core_05o_oversight_definitions.md#oversight-constitutional).
 
 </details>
 
 <br>
 
 - **What it is**
-  - **In scope:** A property of limitations on constitutional values. The limitation must be scaled to the magnitude and likelihood of [Harm](core_05a_accountability_definitions.md#harm) or systemic impact legitimately addressed. Governance intensity must not fall below that required by the system's highest applicable classification where material.
+  - **In scope:** A property of limitations on constitutional values. The limitation must be scaled to the magnitude and likelihood of [Harm](core_05a_accountability_definitions.md#harm) or systemic impact legitimately addressed. Governance intensity must not fall below that required by the system's highest applicable classification where material. Greater authorized power, consequential role, or institutional influence raises — and must not lower — required [Accountability](core_05a_accountability_definitions.md#accountability) and [Oversight](core_05o_oversight_definitions.md#oversight-constitutional) intensity under [Classification-Scaled Governance](core_05o_oversight_definitions.md#classification-scaled-governance) and Chapter One [§10.1](core_01_c_stewardship_capacity_principles.md#10-governance-as-authorized-structure).
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 <a id="proportionality-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Accountability measurement family and Timeliness measurement family — supporting measure where multiple measurement families co-apply.
 
-    **Primary assessment:** Compare constraints to harms and risks addressed. Apply heightened justification, scrutiny, and [Reversibility](core_05c_continuity_definitions.md#reversibility-constitutional) analysis where [Irreversible Harm](core_05a_accountability_definitions.md#irreversible-harm) or [Systemic Lock-In](core_05c_continuity_definitions.md#systemic-lock-in) is reasonably in play. Detect both over- and under-governance.
+    **Primary assessment:** Compare constraints to harms and risks addressed. Apply heightened justification, scrutiny, and [Reversibility](core_05c_continuity_definitions.md#reversibility-constitutional) analysis where [Irreversible Harm](core_05a_accountability_definitions.md#irreversible-harm) or [Systemic Lock-In](core_05c_continuity_definitions.md#systemic-lock-in) is reasonably in play. Detect both over- and under-governance, including under-governance of actors who hold greater authorized power or consequential institutional roles.
 <a id="proportionality-c"></a>
 - **What must hold**
-  - disproportionate limitations, or classification-undersized governance where externalized or systemic effects are material.
+  - disproportionate limitations, or classification-undersized governance where externalized or systemic effects are material; treating office, expertise scarcity, staffing need, or institutional self-protection as grounds to dilute constitutional [Accountability](core_05a_accountability_definitions.md#accountability) or [Oversight](core_05o_oversight_definitions.md#oversight-constitutional) relative to the authority exercised.
 
 ---
 
