@@ -64,7 +64,7 @@ These measures ask whether reward structures, market power, and answerability ke
 | [Timely Resolution](core_05a_accountability_definitions.md#timely-resolution-constitutional) | Are disputes resolved while remedy still matters? | Prevents delay from hollowing rights |
 | Anti-delay and resolution-pathway discipline | Do incentives and structures avoid designed backlog, capture, and hollow deadlines? | Detects delay regimes and [Capture of Resolution Pathways](core_05a_accountability_definitions.md#capture-of-resolution-pathways) |
 
-These measures ask whether process clocks, resolution pathways, and repair velocity keep the **timeliness** leg of the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) real in practice — not merely present on paper. Operative measurement tiers live on Chapter Five definition homes — see [Timely Resolution](core_05a_accountability_definitions.md#timely-resolution-constitutional), [Capture of Resolution Pathways](core_05a_accountability_definitions.md#capture-of-resolution-pathways), and [Timeliness](core_05a_accountability_definitions.md#timeliness-constitutional) (link-only leg-head rollup). Progress tracker: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md). **Timeliness** also runs through the other three Tetrad legs; participation, oversight, and accountability must happen in time to be useful. Read with [Chapter Eleven §10](core_11-11_forum.md#10-timely-resolution-materiality-tiers-and-anti-delay-discipline).
+These measures ask whether process clocks, resolution pathways, and repair velocity keep the **timeliness** leg of the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) real in practice — not merely present on paper. Operative measurement tiers live on Chapter Five definition homes — see [Timely Resolution](core_05a_accountability_definitions.md#timely-resolution-constitutional), [Capture of Resolution Pathways](core_05a_accountability_definitions.md#capture-of-resolution-pathways), and [Timeliness](core_05a_accountability_definitions.md#timeliness-constitutional) (link-only leg-head rollup). Progress tracker: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md). **Timeliness** also runs through the other three Tetrad legs; participation, oversight, and accountability must happen in time to be useful. Read with [Chapter Eleven §9](core_11-11_forum.md#9-timely-resolution-materiality-tiers-and-anti-delay-discipline).
 
 ---
 
@@ -622,7 +622,7 @@ These measures ask whether process clocks, resolution pathways, and repair veloc
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [Timeliness](core_05a_accountability_definitions.md#timeliness-constitutional) (*implements timeliness leg for resolution pathways*).
-- Downstream: Timeliness measurement family (*Timely Resolution as constitutional measurement*); **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*) ([core_06-06_rights_part_d.md](core_06-06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor)); [Chapter Eleven §10](core_11-11_forum.md#10-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*materiality tiers and pipeline milestones*); **Article XII-B** (*Right to Challenge, Review, and Redress*); [Chapter Nine §9.2](core_09-09_standing_integration.md#82-remedy-system-durability) (*remedy-organ durability*); [Chapter Eleven](core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) (*forum intake and routing*).
+- Downstream: Timeliness measurement family (*Timely Resolution as constitutional measurement*); **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*) ([core_06-06_rights_part_d.md](core_06-06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor)); [Chapter Eleven §9](core_11-11_forum.md#9-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*materiality tiers and pipeline milestones*); **Article XII-B** (*Right to Challenge, Review, and Redress*); [Chapter Nine §9.2](core_09-09_standing_integration.md#82-remedy-system-durability) (*remedy-organ durability*); [Chapter Eleven](core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) (*forum intake and routing*).
 - Cluster component: [the dependent cluster *Accountability, Contestability, Adjudication and Dispute Resolution, Collective Accountability Failure, and Force Majeure*](core_05i_integrative_definitions.md#accountability-contestability-and-collective-accountability-failure-cluster).
 - Read with: [Adjudication and Dispute Resolution](core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional), [Constitutional Efficiency](core_05c_continuity_definitions.md#constitutional-efficiency), [Avoidable Burden](core_05c_continuity_definitions.md#avoidable-burden), [Capture of Resolution Pathways](core_05a_accountability_definitions.md#capture-of-resolution-pathways), [Procedural Fairness](core_05p_participation_definitions.md#procedural-fairness-constitutional), [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination), and [README — Standing pipeline and forums](README.md#standing-pipeline-and-forums).
 
@@ -637,7 +637,7 @@ These measures ask whether process clocks, resolution pathways, and repair veloc
 - **How to measure and assess**
   - **Primary measure:** Timeliness measurement family — primary owner for resolution velocity within the timeliness measurement family.
 
-    **Primary assessment:** Apply [Chapter Eleven §10](core_11-11_forum.md#10-timely-resolution-materiality-tiers-and-anti-delay-discipline) materiality tiers and pipeline-stage milestones under **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*). Distinguish timely access and verification from raw throughput.
+    **Primary assessment:** Apply [Chapter Eleven §9](core_11-11_forum.md#9-timely-resolution-materiality-tiers-and-anti-delay-discipline) materiality tiers and pipeline-stage milestones under **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*). Distinguish timely access and verification from raw throughput.
   - **Secondary measure:** [Timeliness](core_05a_accountability_definitions.md#timeliness-constitutional), [Adjudication and Dispute Resolution](core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional), [Capture of Resolution Pathways](core_05a_accountability_definitions.md#capture-of-resolution-pathways), and [Contestability](core_05a_accountability_definitions.md#contestability) — co-measures that can defeat timely resolution even when pipeline metrics appear on track.
 
     **Secondary assessment:** When evaluating the primary trace, read with [Adjudication and Dispute Resolution](core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional), [Capture of Resolution Pathways](core_05a_accountability_definitions.md#capture-of-resolution-pathways), [Constitutional Efficiency](core_05c_continuity_definitions.md#constitutional-efficiency), [Avoidable Burden](core_05c_continuity_definitions.md#avoidable-burden), and [Procedural Fairness](core_05p_participation_definitions.md#procedural-fairness-constitutional). Moving quickly is not an excuse to skip checked facts under [Chapters Two through Four](core_02-03_definition_mechanics.md), **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*) joint requirements, or core challenge and appeal rights.
@@ -1257,7 +1257,8 @@ This cluster is the joint-invocation home for the six constitutional forum famil
 - [Forum Family, Environment](core_05a_accountability_definitions.md#forum-family-environment);
 - [Forum Family, Integrity](core_05a_accountability_definitions.md#forum-family-integrity);
 - [Forum Family, Constitutional](core_05a_accountability_definitions.md#forum-family-constitutional);
-- [Primary-Stakes Routing](core_05a_accountability_definitions.md#primary-stakes-routing).
+- [Primary-Stakes Routing](core_05a_accountability_definitions.md#primary-stakes-routing);
+- [Forum Case Record](core_05a_accountability_definitions.md#forum-case-record).
 
 **Joint invocation and anti-bypass.** Under §3.0.1, a matter within the admission scope must not be segmented into separate caption, intake label, or specialty-panel questions in a way that collapses distinct forum functions or defeats primary-stakes routing, certification, or anti-self-judging backup discipline.
 
@@ -1269,7 +1270,7 @@ This cluster is the joint-invocation home for the six constitutional forum famil
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Owner: [Chapter Eleven §2](core_11-11_forum.md#2-default-venue-and-primary-stakes); read with [Chapter Eleven §5](core_11-11_forum.md#5-intake-triage-mixed-stakes-and-routing-asymmetry), [Chapter Eleven §6](core_11-11_forum.md#6-transfer-consolidation-and-coordination), and [Chapter Eleven §8](core_11-11_forum.md#7-escalation-and-certification).
+- Owner: [Chapter Eleven §2](core_11-11_forum.md#2-default-venue-and-primary-stakes); read with [Chapter Eleven §2.2](core_11-11_forum.md#22-mixed-stakes-and-routing-asymmetry), [Chapter Eleven §5](core_11-11_forum.md#5-transfer-consolidation-and-coordination), and [Chapter Eleven §6](core_11-11_forum.md#6-escalation-and-certification).
 
 </details>
 
@@ -1289,20 +1290,47 @@ This cluster is the joint-invocation home for the six constitutional forum famil
 
 ---
 
-<a id="forum-family-sentient"></a>
-##### Forum Family, Sentient
+<a id="forum-case-record"></a>
+##### Forum Case Record
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Owner: [Chapter Eleven Chapter One §8.2.1](core_11-11_forum.md#421-sentient-forums); read with [Chapter Eight §5.1](core_08-08_standing_assessment.md#7-slot-grammar-and-display-labels) primary-stakes routing.
+- Owner: [Chapter Eleven §2.3](core_11-11_forum.md#23-forum-records-standing-records-and-contests); read with [Chapter Eleven §2](core_11-11_forum.md#2-default-venue-and-primary-stakes) (*intake triage and primary-stakes routing*) and [Chapter Eight §3.6](core_08-08_standing_assessment.md#36-forum-boundary) (*forum boundary*).
+- Read with: [Standing Record](core_05a_accountability_definitions.md#standing-record-chapter-six), [Adjudication and Dispute Resolution](core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional), [Contestability](core_05a_accountability_definitions.md#contestability), [Auditability](core_05o_oversight_definitions.md#auditability), [Primary-Stakes Routing](core_05a_accountability_definitions.md#primary-stakes-routing), and [Merits Determination](core_05a_accountability_definitions.md#merits-determination).
 
 </details>
 
 <br>
 
 - **What it is**
-  - **In scope:** The forum family whose primary stake is sentient-versus-sentient disputes centered on private or community obligations, civil harms, restoration, or local norms, without final resolution of constitutional validity or institutional mandate as the primary question.
+  - **In scope:** The adjudicative case file a forum keeps for a dispute before it — including claims, evidence, routing choices, temporary orders, certified questions, and final findings in that case. A forum case record is the dispute-phase record of forum supervision; it is **not** a [Standing Record](core_05a_accountability_definitions.md#standing-record-chapter-six). Filing a case, assigning it to a forum family, making intake notes, issuing a temporary order, recording an unresolved allegation, discussing settlement, or using a provisional routing label does not by itself open, update, or correct anyone's standing record, role eligibility, trust status, recognition, or final standing effect. A forum decision may become part of a Chapter Eight **contribution standing record** or **violation standing record** only when it produces a verified contribution record, verified violation finding, **system alignment certification record**, or other finding that is bounded, traceable, contestable, and verified under Chapters Two through Four and any required review safeguards. Chapter Five pointer; canonical mechanics: Chapter Eleven §2.3.
+  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter; Chapter Eight standing measurement; Chapter Nine standing-effect decisions; and operational form libraries, templates, or evidence-artifact catalogs owned by forum implementation layers (**CF-15**) except insofar as they instantiate this case file.
+<a id="forum-case-record-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** Accountability measurement family and Timeliness measurement family — supporting measure where multiple measurement families co-apply.
+
+    **Primary assessment:** Verify that the forum case record identifies the matter, parties or subjects, routing choices, preservation and Rights-Floor flags where applicable, orders, certified questions, findings, and contest paths with enough clarity that a mixed-stakes lead record can still keep Contribution Axis and Violation Axis measurements, any Chapter Ten designation, and Chapter Nine standing effects separately auditable. Distinguish dispute-phase material from verified inputs for standing under Chapter Eight.
+<a id="forum-case-record-c"></a>
+- **What must hold**
+  - treating a forum case record, intake label, provisional routing tag, temporary order, unresolved allegation, or settlement discussion as itself a standing record or standing effect; collapsing contribution and violation tracks into one undifferentiated case narrative that defeats axis-pure standing audit; or using the forum case record as a substitute for Chapter Eight standing measurement or Chapter Nine consequence decisions.
+
+---
+
+<a id="forum-family-sentient"></a>
+##### Forum Family, Sentient
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Owner: [Chapter Eleven §4.2.1](core_11-11_forum.md#421-sentient-forums); read with [Chapter Eight §5.1](core_08-08_standing_assessment.md#7-slot-grammar-and-display-labels) primary-stakes routing.
+
+</details>
+
+<br>
+
+- **What it is**
+  - **In scope:** The forum family whose primary stake is sentient-versus-sentient disputes centered on private or community obligations, civil harms, restoration, or local norms, without final resolution of constitutional validity or of what an institution may do / is charged to do as the primary question.
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 <a id="forum-family-sentient-a"></a>
 - **How to measure and assess**
@@ -1311,7 +1339,7 @@ This cluster is the joint-invocation home for the six constitutional forum famil
     **Primary assessment:** Apply Chapter Eleven default-venue and primary-stakes rules together with Chapter Eight measurement preservation; refuse caption-driven routing that contradicts the primary stake described in Chapter Eleven §2’s table row for **Sentient**.
 <a id="forum-family-sentient-c"></a>
 - **What must hold**
-  - collapsing **Sentient** routing into institutional or constitutional final merits where primary-stakes routing under Chapter Eleven requires another lead family; using **Sentient** forums as the sole mandatory path where asymmetry or dependency requires **Institutional** or **Integrity** availability per Chapter Eleven §5.
+  - collapsing **Sentient** routing into institutional or constitutional final merits where primary-stakes routing under Chapter Eleven requires another lead family; using **Sentient** forums as the sole mandatory path where asymmetry or dependency requires **Institutional** or **Integrity** availability per Chapter Eleven §2.2.
 
 ---
 
@@ -1321,7 +1349,7 @@ This cluster is the joint-invocation home for the six constitutional forum famil
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Owner: [Chapter Eleven Chapter One §8.2.2](core_11-11_forum.md#422-technical-forum-domains).
+- Owner: [Chapter Eleven §4.2.2](core_11-11_forum.md#422-technical-forum-domains).
 
 </details>
 
@@ -1347,20 +1375,20 @@ This cluster is the joint-invocation home for the six constitutional forum famil
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Owner: [Chapter Eleven Chapter One §8.2.3](core_11-11_forum.md#423-institutional-forums); read with [corpus_institutions.md](corpus_institutions.md) supervised-scope language.
+- Owner: [Chapter Eleven §4.2.3](core_11-11_forum.md#423-institutional-forums); read with [corpus_institutions.md](corpus_institutions.md) supervised-scope language.
 
 </details>
 
 <br>
 
 - **What it is**
-  - **In scope:** The forum family for disputes where an institution is a necessary party or the primary stake is institutional authority, mandate, supervised scope, classification under adopted instruments, or compliance with institutional duties.
+  - **In scope:** The forum family for disputes where an institution is a necessary party or the primary stake is what the institution is allowed to do, what it is charged to do, the scope it is supervised under, classification under adopted instruments, or whether it followed its institutional duties.
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 <a id="forum-family-institutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Accountability measurement family and Timeliness measurement family — supporting measure where multiple measurement families co-apply.
 
-    **Primary assessment:** Verify necessary-party and mandate predicates under Chapter Eleven §§2 and 5; coordinate with **Integrity** lead defaults for Chapter Ten classification only where Chapter Eleven’s collision rules permit.
+    **Primary assessment:** Verify necessary-party and mandate predicates under Chapter Eleven §2; coordinate with **Integrity** lead defaults for Chapter Ten classification only where Chapter Eleven’s collision rules permit.
 <a id="forum-family-institutional-c"></a>
 - **What must hold**
   - denying **Institutional** routing where the primary stake row in Chapter Eleven §2 requires it; using internal process labels to avoid independent merits review where capture or conflict allegations materially require **Integrity** or backup routing.
@@ -1373,7 +1401,7 @@ This cluster is the joint-invocation home for the six constitutional forum famil
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Owner: [Chapter Eleven Chapter One §8.2.4](core_11-11_forum.md#424-environment-forums); read with [Ecological Integrity](core_05c_continuity_definitions.md#ecological-integrity-constitutional) and [Environmental Preconditions](core_05c_continuity_definitions.md#environmental-preconditions-constitutional).
+- Owner: [Chapter Eleven §4.2.4](core_11-11_forum.md#424-environment-forums); read with [Ecological Integrity](core_05c_continuity_definitions.md#ecological-integrity-constitutional) and [Environmental Preconditions](core_05c_continuity_definitions.md#environmental-preconditions-constitutional).
 
 </details>
 
@@ -1386,7 +1414,7 @@ This cluster is the joint-invocation home for the six constitutional forum famil
 - **How to measure and assess**
   - **Primary measure:** Accountability measurement family and Timeliness measurement family — supporting measure where multiple measurement families co-apply.
 
-    **Primary assessment:** Integrate Chapter Eight and Chapter Eleven enforcement hooks with Chapter Eleven primary-stakes tests; preserve certification to **Constitutional** forums where validity or structural remedy merges per Chapter Eleven §8.
+    **Primary assessment:** Integrate Chapter Eight and Chapter Eleven enforcement hooks with Chapter Eleven primary-stakes tests; preserve certification to **Constitutional** forums where validity or structural remedy merges per Chapter Eleven §6.
 <a id="forum-family-environment-c"></a>
 - **What must hold**
   - treating ecological merits as purely private disputes when the primary stake is environmental under Chapter Eleven §2; segmenting restoration and preconditions analysis to defeat joint ecological merits evaluation.
@@ -1399,7 +1427,7 @@ This cluster is the joint-invocation home for the six constitutional forum famil
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Owner: [Chapter Eleven Chapter One §8.2.5](core_11-11_forum.md#425-integrity-forums); read with Chapter Ten designation due-process cross-references in Chapter Eleven §8.
+- Owner: [Chapter Eleven §4.2.5](core_11-11_forum.md#425-integrity-forums); read with Chapter Ten designation due-process cross-references in Chapter Eleven §6.
 
 </details>
 
@@ -1412,10 +1440,10 @@ This cluster is the joint-invocation home for the six constitutional forum famil
 - **How to measure and assess**
   - **Primary measure:** Accountability measurement family and Timeliness measurement family — supporting measure where multiple measurement families co-apply.
 
-    **Primary assessment:** Apply anti-self-judging backups from Chapter Eleven §6 where the forum’s own bias, capture, or concealment is the primary issue; separate alignment-led coordination from provisional operational-law doctrine governed by Chapter Eleven §3.3 for other families.
+    **Primary assessment:** Apply anti-self-judging backups from Chapter Eleven §5 where the forum’s own bias, capture, or concealment is the primary issue; separate alignment-led coordination from provisional operational-law doctrine governed by Chapter Eleven §4.3 for other families.
 <a id="forum-family-integrity-c"></a>
 - **What must hold**
-  - using **Integrity** lead to silently displace **Constitutional** certification where structural validity or class-wide remedy requires it; refusing backup routing where Chapter Eleven §6’s rule assigns an independent lead family.
+  - using **Integrity** lead to silently displace **Constitutional** certification where structural validity or class-wide remedy requires it; refusing backup routing where Chapter Eleven §5’s rule assigns an independent lead family.
 
 ---
 
@@ -1425,7 +1453,7 @@ This cluster is the joint-invocation home for the six constitutional forum famil
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Owner: [Chapter Twelve Chapter One §8.2.6](core_11-11_forum.md#426-constitutional-forums); read with [Article XII-B](core_06-06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress) (*Right to Challenge, Review, and Redress*) certification hooks.
+- Owner: [Chapter Eleven §4.2.6](core_11-11_forum.md#426-constitutional-forums); read with [Article XII-B](core_06-06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress) (*Right to Challenge, Review, and Redress*) certification hooks.
 
 </details>
 
@@ -1438,10 +1466,10 @@ This cluster is the joint-invocation home for the six constitutional forum famil
 - **How to measure and assess**
   - **Primary measure:** Accountability measurement family and Timeliness measurement family — supporting measure where multiple measurement families co-apply.
 
-    **Primary assessment:** Preserve **Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*)-class review safeguards and Chapter Ten due-process hooks when certification or escalation arrives from lower families; distinguish certified constitutional questions from implementation operational-law provisional rulings under Chapter Eleven §3.3 and §8.
+    **Primary assessment:** Preserve **Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*)-class review safeguards and Chapter Ten due-process hooks when certification or escalation arrives from lower families; distinguish certified constitutional questions from implementation operational-law provisional rulings under Chapter Eleven §4.3 and §7.
 <a id="forum-family-constitutional-c"></a>
 - **What must hold**
-  - treating non-certifiable operational detail as final constitutional disposition; collapsing certification discipline so families bypass Chapter Eleven §8 when constitutional validity, meaning, or structural remedy is materially at stake.
+  - treating non-certifiable operational detail as final constitutional disposition; collapsing certification discipline so families bypass Chapter Eleven §6 when constitutional validity, meaning, or structural remedy is materially at stake.
 
 ---
 
@@ -1677,7 +1705,7 @@ This cluster is the joint-invocation home for contribution state, standing recor
 
 - Downstream: Principles: [Chapter Seven §3 Whole-System Certification Evaluation](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [Chapter One §6.3.2 Proxy-Divergence Invalidation](core_01_b_interaction_interpretation.md#632-proxy-divergence-invalidation) (bounded standing records vs merged labels).
 - Canonical owner: [Chapter Eight — §2.1 Standing records as the unit of application](core_08-08_standing_assessment.md#21-standing-records-as-the-unit-of-application) and [Chapter Eight §3 Standing record operational requirements](core_08-08_standing_assessment.md#3-standing-record-operational-requirements); read with [Chapter Eight — §3.1 Verified-input gate](core_08-08_standing_assessment.md#verified-inputs-for-standing), [Chapter Eight — §5.1 Slot grammar and display labels](core_08-08_standing_assessment.md#7-slot-grammar-and-display-labels), [Chapter Eight — §4 LEQU baseline](core_08-08_standing_assessment.md#lequ-baseline-constitutional-outcome), the [Chapter Eight §7 unified scale](core_08-08_standing_assessment.md#7-unified-proportional-lequ-scale) (*shared five-times LEQU bands; separate axis records*), and [Chapter Nine — Integration](core_09-09_standing_integration.md#chapter-nine-standing-effects-and-integration).
-- Read with: the [Standing State, Contribution, and Violation cluster](core_05p_participation_definitions.md#standing-state-contribution-and-violation-cluster), [Standing Effect](core_05a_accountability_definitions.md#standing-effect-chapter-six), [Contribution State](core_05a_accountability_definitions.md#contribution-state), [Violation Nature](core_05a_accountability_definitions.md#violation-nature-chapter-six), [Verified Violation Findings](core_05a_accountability_definitions.md#verified-violation-findings), [Auditability](core_05o_oversight_definitions.md#auditability), [Contestability](core_05a_accountability_definitions.md#contestability), [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination), and [Participant Standing](core_05a_accountability_definitions.md#participant-standing-constitutional).
+- Read with: the [Standing State, Contribution, and Violation cluster](core_05p_participation_definitions.md#standing-state-contribution-and-violation-cluster), [Standing Effect](core_05a_accountability_definitions.md#standing-effect-chapter-six), [Contribution State](core_05a_accountability_definitions.md#contribution-state), [Violation Nature](core_05a_accountability_definitions.md#violation-nature-chapter-six), [Verified Violation Findings](core_05a_accountability_definitions.md#verified-violation-findings), [Forum Case Record](core_05a_accountability_definitions.md#forum-case-record), [Auditability](core_05o_oversight_definitions.md#auditability), [Contestability](core_05a_accountability_definitions.md#contestability), [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination), and [Participant Standing](core_05a_accountability_definitions.md#participant-standing-constitutional).
 
 </details>
 
@@ -1693,7 +1721,7 @@ This cluster is the joint-invocation home for contribution state, standing recor
     **Primary assessment:** Evaluate a standing record by whether it states its record type, the assessed subject, scope, time window, review status, behavior or record basis being measured, the applicable axis measurement, behavior-to-slot reasoning, verification basis, evidence provenance, materiality reasoning, related-record cross-references where required, versioning, and contestability pathway. The record must preserve axis purity, currentness, audit trail, and no-offset discipline under Chapter Eight. Collective and actor-specific standing records may coexist only where their allocation basis is demonstrable and does not assign adverse standing by group membership alone.
 <a id="standing-record-chapter-six-c"></a>
 - **What must hold**
-  - using an undifferentiated standing label without a bounded standing record; placing both Contribution Axis and Violation Axis measurements in one standing record; collapsing separate subjects, roles, time windows, review states, or decision contexts into one status; failing to cross-reference related contribution and violation standing records where required; applying standing effect without a reviewable source standing record; hiding axis inputs, evidence, calibration assumptions, version changes, or contestability; putting the Chapter Nine standing-effect decision inside the Chapter Eight standing record; using a collective standing record to impose actor-specific adverse standing without verified linkage; or treating a standing record as a substitute for inherent dignity, Rights-Floor minimums, stakeholder status, challenge access, remedy access, or Chapter Ten forum findings.
+  - using an undifferentiated standing label without a bounded standing record; placing both Contribution Axis and Violation Axis measurements in one standing record; collapsing separate subjects, roles, time windows, review states, or decision contexts into one status; failing to cross-reference related contribution and violation standing records where required; applying standing effect without a reviewable source standing record; hiding axis inputs, evidence, calibration assumptions, version changes, or contestability; putting the Chapter Nine standing-effect decision inside the Chapter Eight standing record; treating a [Forum Case Record](core_05a_accountability_definitions.md#forum-case-record), intake label, provisional routing tag, temporary order, or unresolved allegation as itself a standing record; using a collective standing record to impose actor-specific adverse standing without verified linkage; or treating a standing record as a substitute for inherent dignity, Rights-Floor minimums, stakeholder status, challenge access, remedy access, or Chapter Ten forum findings.
 
 ---
 

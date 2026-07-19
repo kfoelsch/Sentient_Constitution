@@ -8,7 +8,7 @@
 
 > The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other chapters.
 >
-> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **illustrative domain walkthroughs** for the [standing and forum supervision pipeline](README.md#standing-pipeline-and-forums): how standing measurement, integration, forum supervision, and [Chapter Eleven §10](core_11-11_forum.md#10-timely-resolution-materiality-tiers-and-anti-delay-discipline) tier clocks apply in concrete domains. Vignettes **illustrate** operative rules in Chapters Eight through Eleven and companion layers; they do **not** add, remove, or narrow binding obligations. Reading order, the binding/support split, and corpus edition metadata are maintained in [README.md](README.md).
+> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **illustrative domain walkthroughs** for the [standing and forum supervision pipeline](README.md#standing-pipeline-and-forums): how standing measurement, integration, forum supervision, and [Chapter Eleven §9](core_11-11_forum.md#9-timely-resolution-materiality-tiers-and-anti-delay-discipline) tier clocks apply in concrete domains. Vignettes **illustrate** operative rules in Chapters Eight through Eleven and companion layers; they do **not** add, remove, or narrow binding obligations. Reading order, the binding/support split, and corpus edition metadata are maintained in [README.md](README.md).
 
 </details>
 
@@ -24,7 +24,7 @@
 > 1. **Situation** — actors and stakes (illustrative facts only).
 > 2. **Legacy failure mode** — why conventional systems stall for years.
 > 3. **Pipeline pass** — numbered steps through Question 1 (*what happened?*) → Question 2 (*how good or bad?*) → Question 3 (*what happens because of it?*).
-> 4. **Milestone table** — [Chapter Eleven §10](core_11-11_forum.md#10-timely-resolution-materiality-tiers-and-anti-delay-discipline) tier windows from **CF-11.3.1** (adopter floor).
+> 4. **Milestone table** — [Chapter Eleven §9](core_11-11_forum.md#9-timely-resolution-materiality-tiers-and-anti-delay-discipline) tier windows from **CF-11.3.1** (adopter floor).
 > 5. **Must not happen** — anti-patterns the constitution rejects.
 >
 > **References:** [Chapter Eight §2](core_08-08_standing_assessment.md#2-standing-records) (Question 1); [Chapter Eight §4](core_08-08_standing_assessment.md#4-standing-measurement-evaluation-dimensions), [§4.6](core_08-08_standing_assessment.md#46-question-2-measurement-illustrations), and the [§7 unified proportional LEQU scale](core_08-08_standing_assessment.md#7-unified-proportional-lequ-scale) (Question 2: shared five-times LEQU bands, separate Contribution and Violation records, and Violation slots controlled only by verified impact); [Chapter Nine §6.2](core_09-09_standing_integration.md#62-competency-gates) and [§4.2](core_09-09_standing_integration.md#42-general-standing-locks) (Question 3); [Chapter Nine §10](core_09-09_standing_integration.md#10-pattern-applications-and-question-3-routing) (*in-chapter Question 3 pattern-routing index*); [Chapter Eleven](core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) (forum routing and supervision).
@@ -122,7 +122,7 @@ Multi-year EEO-style litigation, sealed settlements, reputation damage without v
 
 - Single merged “employer reputation score” replacing axis-pure records.
 - Confidentiality used to delay pattern disclosure past **CF-11.3.3** restricted-evidence limits.
-- Delay regimes to exhaust claimants ([Chapter Eleven §10](core_11-11_forum.md#10-timely-resolution-materiality-tiers-and-anti-delay-discipline) anti-delay floor).
+- Delay regimes to exhaust claimants ([Chapter Eleven §9](core_11-11_forum.md#9-timely-resolution-materiality-tiers-and-anti-delay-discipline) anti-delay floor).
 
 <br>
 
@@ -183,7 +183,7 @@ Arbitration clauses, shell subcontractors, years of “market efficiency” defe
 | Stewardship | [Chapter One §9.1](core_01_c_stewardship_capacity_principles.md#91-stewardship) — tetrad **timeliness** leg; [Stewardship Defect](core_05c_continuity_definitions.md#stewardship-defect-constitutional) when chronic delay after notice |
 | Q2 measurement | [Chapter Eight §7 unified scale](core_08-08_standing_assessment.md#7-unified-proportional-lequ-scale) — verified harm from the deferred repair determines any `s` = 4–5 impact slot; **Response timeliness / avoidable delay** is a character descriptor and does not move the slot |
 | Q3 integration | [Chapter Nine §9.5](core_09-09_standing_integration.md#85-timely-implementation-and-reassessment) — **Remedy commencement / pipeline delay** |
-| Pipeline clocks | [Chapter Eleven §10](core_11-11_forum.md#10-timely-resolution-materiality-tiers-and-anti-delay-discipline); [Article XXIV-C](core_06-06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*); **CF-11.3.1** Tier B windows |
+| Pipeline clocks | [Chapter Eleven §9](core_11-11_forum.md#9-timely-resolution-materiality-tiers-and-anti-delay-discipline); [Article XXIV-C](core_06-06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*); **CF-11.3.1** Tier B windows |
 
 **Must not happen:** Treating post-notice deferral as sufficient stewardship when correction was feasible; counting throughput metrics as **Contribution Axis** credit while delay compounds harm.
 
@@ -193,7 +193,7 @@ Arbitration clauses, shell subcontractors, years of “market efficiency” defe
 
 ### 5. Pipeline overrun and tetrad-hollow forums
 
-**Domain:** Forum family maintains formal intake and records but systematically exceeds [Chapter Eleven §10](core_11-11_forum.md#10-timely-resolution-materiality-tiers-and-anti-delay-discipline) tier milestones without documented extension.
+**Domain:** Forum family maintains formal intake and records but systematically exceeds [Chapter Eleven §9](core_11-11_forum.md#9-timely-resolution-materiality-tiers-and-anti-delay-discipline) tier milestones without documented extension.
 
 | Stage | Application |
 | --- | --- |

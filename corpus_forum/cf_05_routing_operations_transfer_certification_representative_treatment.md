@@ -42,7 +42,7 @@ This section turns [Chapter Eleven](../core_11-11_forum.md#chapter-eleven-forums
 
 This section implements the primary-stakes rule in `core_11-11_forum.md` **Chapter Eleven**. It does not change that rule.
 
-**Chapter Eleven linkage.** Each forum family must have an intake triage body, as required by **Chapter Eleven**, **section 5**. That requirement works alongside **default venue** in **section 2**, **forensic and analytical support** in **section 3**, and **transfer**, **consolidation**, **certification**, and **backup** discipline in **sections 6 and 7**. An intake triage body helps route matters at the start; it is **not** a separate forum family and cannot replace a lawfully constituted **merits** panel. **CF-5.1** (*Published intake classes*) and **CF-5.2** (*Intake triage body*) state the operational rules for that boundary.
+**Chapter Eleven linkage.** Each forum family must have an intake triage body — the family's first-touch desk — as required by **Chapter Eleven**, **section 2**, which also states mixed-stakes safeguards, asymmetry rules, standing-record contests, and the merits-panel boundary. That requirement works alongside **forensic and analytical support** in **section 3**, and **transfer**, **consolidation**, **certification**, and **backup** discipline in **sections 5 and 6**. An intake triage body helps route matters at the start; it is **not** a separate forum family and cannot replace a lawfully constituted **merits** panel. **CF-5.1** (*Published intake classes*) and **CF-5.2** (*Intake triage body*) state the operational rules for that boundary.
 
 ### CF-5.1 Published intake classes
 <details>
@@ -94,7 +94,7 @@ Each required forum family must publish an intake path. At minimum, that path mu
 
 <br>
 
-Each required forum family must publish an **intake triage body**, or a functionally equivalent arrangement. The body or arrangement must have the same duties, independence expectations, and contestability. At minimum, it must:
+Each required forum family must publish an **intake triage body**, or a functionally equivalent arrangement — the family's **first-touch desk** under **Chapter Eleven**, **section 2**. The body or arrangement must have the same duties, independence expectations, and contestability. At minimum, it must:
 - sort incoming matters into the published classes under **CF-5.1** (*Published intake classes*);
 - flag preservation, Rights-Floor, cross-family routing, and backup-forum needs;
 - maintain attributable intake records sufficient for review;

@@ -127,6 +127,7 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 - [Foreseeability Failure](core_05o_oversight_definitions.md#foreseeability-failure)
 - [Foreseeability Scaling](core_05o_oversight_definitions.md#foreseeability-scaling)
 - [Foreseeability Scope](core_05o_oversight_definitions.md#foreseeability-scope)
+- [Forum Case Record](core_05a_accountability_definitions.md#forum-case-record)
 - [Forum Family, Constitutional](core_05a_accountability_definitions.md#forum-family-constitutional)
 - [Forum Family, Environment](core_05a_accountability_definitions.md#forum-family-environment)
 - [Forum Family, Institutional](core_05a_accountability_definitions.md#forum-family-institutional)

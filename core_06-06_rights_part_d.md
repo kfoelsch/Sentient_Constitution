@@ -60,7 +60,7 @@ Adjudication and dispute resolution in the constitutional sense are defined in *
 
 *Article neighbors:*
 
-- **Timeliness floor:** Resolution velocity, anti-delay discipline, and materiality-tier milestones are governed by **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*), implemented through [Chapter Eleven §10](core_11-11_forum.md#10-timely-resolution-materiality-tiers-and-anti-delay-discipline).
+- **Timeliness floor:** Resolution velocity, anti-delay discipline, and materiality-tier milestones are governed by **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*), implemented through [Chapter Eleven §9](core_11-11_forum.md#9-timely-resolution-materiality-tiers-and-anti-delay-discipline).
 - **Timely redress:** Read with [**Article XII-B** (*Right to Challenge, Review, and Redress*)](core_06-06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress) (*timely redress access*).
 
 Adopted governance implementation provides escalation, proportionality of intervention, emergency boundaries, and tier-default timing windows. It must not narrow practical access, reviewability, restoration, timely resolution, or Rights-Floor constraints under this Article.
@@ -336,7 +336,7 @@ This Article applies the [Constitutional Tetrad](core_00_preamble.md#constitutio
 
 - Upstream: Timeliness measurement family (*Timely Resolution and anti-delay discipline as constitutional measurement*); [README — Standing pipeline and forums](README.md#standing-pipeline-and-forums) (*standing, integration, and forum coordination pipeline*).
 - Principles: Chapter One [§12.2 Constitutional Efficiency](core_01_c_stewardship_capacity_principles.md#122-constitutional-efficiency), [Chapter One §6.1.3 Minimization of Avoidable Burden](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden), and [Chapter One §6.3 Rights-Collision Procedure](core_01_b_interaction_interpretation.md#63-rights-collision-procedure).
-- Downstream: [Chapter Eleven §10](core_11-11_forum.md#10-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*materiality tiers, pipeline milestones, and anti-delay discipline*).
+- Downstream: [Chapter Eleven §9](core_11-11_forum.md#9-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*materiality tiers, pipeline milestones, and anti-delay discipline*).
 
 </details>
 
@@ -361,7 +361,7 @@ This Article applies the [Constitutional Tetrad](core_00_preamble.md#constitutio
   - **Timely** — bounded clocks scaled to [material stake](core_00_preamble.md#material-stake) and harm urgency;
   - **Efficient** — [Constitutional Efficiency](core_05c_continuity_definitions.md#constitutional-efficiency) in the sense of Chapter One [§12.2](core_01_c_stewardship_capacity_principles.md#122-constitutional-efficiency) — real constitutional outcome per sentient time and shared effort consumed, not raw throughput or docket-clearing;
   - **Just** — **Article XXIII-A** (*Justice Objective and Scope*), **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*), and **Article XXIII-C** (*Least-Restrictive and Time-Bounded Rule*) remain fully applicable; moving quickly is not an excuse to skip checked facts ([Chapter Eight §3.1](core_08-08_standing_assessment.md#verified-inputs-for-standing)), punish the wrong party, offer a fix that does not fit the harm, or cut off challenge and appeal.
-- **Forum and pipeline supervision:** Materiality-tier classification, pipeline-stage milestones, integrated-resolution outer bounds, overrun review, and anti-delay discipline for disputes routed through **Chapters Eight through Eleven** are governed by [Chapter Eleven §10](core_11-11_forum.md#10-timely-resolution-materiality-tiers-and-anti-delay-discipline), subject to this Article's timely, efficient, and just floor. Numeric tier-default windows and stage tables: [CF-11.3.1](../corpus_forum/cf_11_performance_backlog_publication_accessibility.md#cf-1131-target-windows-and-timing-floors). Domain walkthroughs: [Chapters Eight–Eleven application vignettes](../core_08-11_application_vignettes.md#chapters-eight-eleven-application-vignettes).
+- **Forum and pipeline supervision:** Materiality-tier classification, pipeline-stage milestones, integrated-resolution outer bounds, overrun review, and anti-delay discipline for disputes routed through **Chapters Eight through Eleven** are governed by [Chapter Eleven §9](core_11-11_forum.md#9-timely-resolution-materiality-tiers-and-anti-delay-discipline), subject to this Article's timely, efficient, and just floor. Numeric tier-default windows and stage tables: [CF-11.3.1](../corpus_forum/cf_11_performance_backlog_publication_accessibility.md#cf-1131-target-windows-and-timing-floors). Domain walkthroughs: [Chapters Eight–Eleven application vignettes](../core_08-11_application_vignettes.md#chapters-eight-eleven-application-vignettes).
 
 ### Article XXV: Constitutional Evolution and Non-Entrenchment
 

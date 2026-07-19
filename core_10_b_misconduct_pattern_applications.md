@@ -132,7 +132,7 @@ The following patterns are **anti-constitutional misconduct within this chapter�
 - Downstream: [§3](core_10_a_misconduct_designation.md#3-violation-axis-s-7-9-slot-assignment-incident-gravity) (*Violation Axis s = 7–9 designation*); [§1](core_10_a_misconduct_designation.md#5-cross-chapter-discipline) (*Chapters Thirteen through Fifteen boundary*).
 - Topic routing (mandatory read-with): [Chapter Nine §10.10](core_09-09_standing_integration.md#1010-contest-pathway-or-info-sphere-flooding) (*Question 3 pathway-lock routing for contest-pathway or info-sphere flooding — general locks only*).
 - Read with: [Contestability](core_05a_accountability_definitions.md#contestability) and [Transparency](core_05o_oversight_definitions.md#transparency) in **Chapter Five** where pathway usability and publication are material.
-- Forum operations: [Chapter Eleven §5](core_11-11_forum.md#5-intake-triage-mixed-stakes-and-routing-asymmetry) through [§5](core_11-11_forum.md#6-transfer-consolidation-and-coordination) for intake triage, consolidation, and representative treatment.
+- Forum operations: [Chapter Eleven §2](core_11-11_forum.md#2-default-venue-and-primary-stakes) through [§5](core_11-11_forum.md#5-transfer-consolidation-and-coordination) for intake triage, consolidation, and representative treatment.
 - Distinct pattern: [§5.4](#54-info-sphere-zone-flooding) covers info-sphere flooding.
 
 </details>
@@ -968,7 +968,7 @@ It routes evaluation of the named pattern into the existing designation criteria
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [Chapter Nine §5.5](core_09-09_standing_integration.md#55-special-locks) (*forum disclosure omission and recusal-process impact*); [Article XXII-B](core_06-06_rights_part_c.md#article-xxii-b-composition-rotation-and-conflict-controls) (*Constitutional forum recusal and enforcement routing*); [corpus_forum.md](corpus_forum.md) **CF-4** (*panel formation, disclosure, recusal, and lawful bench constitution*).
-- Forum routing: [Chapter Eleven §2](core_11-11_forum.md#2-default-venue-and-primary-stakes) (*Integrity default lead*); [Chapter Eleven §5](core_11-11_forum.md#6-transfer-consolidation-and-coordination) (*cross-forum anti-self-judging rule*).
+- Forum routing: [Chapter Eleven §2](core_11-11_forum.md#2-default-venue-and-primary-stakes) (*Integrity default lead*); [Chapter Eleven §5](core_11-11_forum.md#5-transfer-consolidation-and-coordination) (*cross-forum anti-self-judging rule*).
 - Read with: [Procedural Fairness](core_05p_participation_definitions.md#procedural-fairness-constitutional), [Contestability](core_05a_accountability_definitions.md#contestability), [System Capture](core_05c_continuity_definitions.md#system-capture), and [Forum Family, Constitutional](core_05a_accountability_definitions.md#forum-family-constitutional).
 
 </details>

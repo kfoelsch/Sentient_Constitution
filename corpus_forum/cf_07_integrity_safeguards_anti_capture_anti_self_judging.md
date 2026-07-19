@@ -236,7 +236,7 @@ Where an alignment ruling materially stabilizes outcomes beyond the named partie
 <br>
 
 
-**Purpose.** Provide official, contestable forum mechanics for recognizing new materially impactful systems as constitutionally aligned within a stated scope. The same mechanics also check whether existing systems remain aligned over time. This subsection implements `core_11-11_forum.md` **Chapter Eleven**, **sections 4, 6, and 7**, and works with `corpus_systems.md` **Protocol A** and **CS-4 — System classification and handling** classification and revalidation duties.
+**Purpose.** Provide official, contestable forum mechanics for recognizing new materially impactful systems as constitutionally aligned within a stated scope. The same mechanics also check whether existing systems remain aligned over time. This subsection implements `core_11-11_forum.md` **Chapter Eleven**, **sections 5, 6, and 7**, and works with `corpus_systems.md` **Protocol A** and **CS-4 — System classification and handling** classification and revalidation duties.
 
 #### CF-7.2.1 Technical-Specification and Environmental-Component Separation
 <details>
@@ -656,7 +656,7 @@ Institutional internal integrity process may precede Integrity forum adjudicatio
 - cross-institution deadlock or dependency makes local resolution unreliable;
 - a Chapter Ten designation, Rights-Floor, system-recognition, or public-trust consequence requires forum-level verification.
 
-Where internal process remains available, the forum record must state what issues are stayed, what issues proceed, what evidence must be preserved, and what deadline or trigger returns the matter to the forum if the internal process fails.
+Where internal process remains available, the [forum case record](../core_05a_accountability_definitions.md#forum-case-record) must state what issues are stayed, what issues proceed, what evidence must be preserved, and what deadline or trigger returns the matter to the forum if the internal process fails.
 
 #### CF-7.3.6 Contest-Integrity Interface
 <details>
