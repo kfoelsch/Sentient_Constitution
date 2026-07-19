@@ -262,7 +262,7 @@ Not every definition requires all three tiers. Independent building blocks may d
 
 ### Definition hierarchy (CH5-HIER-01)
 
-Chapter Five organizes **226+ canonical definitions** across principle layer, constitutional **aim heads**, Tetrad **band files**, taxonomy (independent / semi-independent / dependent), clusters, and leaf O/M/A/C entries. Partial maps already exist (compass, measurement crosswalk, alphabetical directory, full cluster map); this rule pins the **layer model** and the **generated hierarchy index** that unifies them.
+Chapter Five organizes **226+ canonical definitions** across principle layer, constitutional **aim heads**, Tetrad **band files**, taxonomy (independent / semi-independent / dependent), clusters, and leaf O/M/A/C entries. Partial maps already exist (compass, measurement crosswalk, alphabetical directory); this rule pins the **layer model** and the **generated hierarchy index** that unifies them.
 
 **Layer stack** (top → bottom)
 

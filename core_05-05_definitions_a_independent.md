@@ -22,15 +22,17 @@
 <br>
 
 ### Canonical home and non-duplication rule
-Each constitutional definition, definition description, and clustered traceability concept must have one canonical home in this corpus. That canonical home governs meaning, scope, and satisfaction conditions.
+*In plain terms: every defined term has one official home. That home decides what the term means. Other files may apply the term, but they may not quietly redefine it.*
 
-No incorporated or implementation text may create a parallel definition, competing gloss, or narrowing restatement of a term whose canonical home is assigned by this Constitution or by the corpus architecture map adopted under it.
+Each constitutional definition, definition description, and clustered traceability concept must have one **canonical home** in this corpus — one official place that controls what the term means, how far it reaches, and what counts as satisfying it.
 
-Incorporated implementation text may operationalize canonical terms only by pointer plus layer-specific criteria, procedures, classifications, controls, or implementation conditions within their assigned scope.
+No incorporated or implementation text may create a second definition, a competing explanation, or a narrower restatement of a term whose canonical home is already assigned by this Constitution or by the corpus architecture map adopted under it.
 
-Any subsection-local terminology in such text must be expressly identified as local and non-redefinitional unless and until adopted into a canonical definition owner.
+Incorporated implementation text may put a canonical term to work only by pointing back to that home and then stating layer-specific criteria, procedures, classifications, controls, or conditions inside its assigned scope.
 
-Where wording outside the canonical home appears to broaden, narrow, substitute for, or compete with the canonical definition, the canonical definition governs. Such wording must be read, if possible, as implementation detail only. If that reading is not possible, the competing wording is inoperative to the extent of the conflict.
+If such text uses a local label or shorthand, it must say so clearly. That local wording is not a new definition of the term. It becomes official definition language only if the term's canonical home later adopts it.
+
+If wording outside the canonical home seems to broaden, narrow, replace, or compete with the canonical definition, the canonical definition governs. Read that outside wording as implementation detail if you can. If you cannot, the competing wording does not apply to the extent of the conflict.
 
 ---
 
@@ -325,7 +327,7 @@ Use this compass before invoking any Chapter Five definition. Chapter Five suppl
 1. This compass and the constitutional bands below — or the [measurement crosswalk](#chapter-five-measurement-crosswalk) when arriving from [Chapter Zero §2](../core_00_preamble.md#measurements-overview).
 2. The [Flourishing aim file](core_05f_flourishing_aim.md#flourishing-aim-decomposition) or [Continuity aim file](core_05g_continuity_aim.md#continuity-aim-decomposition) when routing by constitutional aim; otherwise the band file for the relevant Tetrad leg or **Integrative** band.
 3. Individual definition O/M/A/C entries; dependent clusters per admission scope.
-4. Where a finding is **non-compliant**, optional [Non-Compliance Finding Profile](core_05a_accountability_definitions.md#non-compliance-finding-profile) metadata per cluster map.
+4. Where a finding is **non-compliant**, optional [Non-Compliance Finding Profile](core_05a_accountability_definitions.md#non-compliance-finding-profile) metadata.
 
 **Constitutional bands**
 
@@ -369,69 +371,19 @@ Use this compass before invoking any Chapter Five definition. Chapter Five suppl
 
 ---
 
-### Full cluster map (reader guidance)
-
-<details>
-<summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): full cluster map</span></strong></summary>
-
-> The following content is **reader guidance only**. Per-cluster constitutional framing lives in each cluster's Trace block.
-
-| § ID | Title | Tetrad leg / band | Primary aim | Chapter One § basis | Cross-leg note | Continuity disambiguation | Home file |
-|---|---|---|---|---|---|---|---|
-| **Chapter One §8.2** | Transparency, Auditability, and Verification | Oversight | Flourishing | Chapter One §8.2, §4, §12.1, §12.2 | — | — | [core_05o_oversight_definitions.md](core_05o_oversight_definitions.md) |
-| **§11.3** | Truth and Epistemic Integrity | Oversight | Flourishing | Chapter One §8.2, §3.3, §4, §12.1, §12.2 | integrative with **Accountability** where contest and correction are implicated | — | [core_05o_oversight_definitions.md](core_05o_oversight_definitions.md) |
-| **§3.5** | Animal Life, Sentient Life, and Sentience Status | Participation | Flourishing | Chapter One §8.1, §4, §10 | — | — | [core_05p_participation_definitions.md](core_05p_participation_definitions.md) |
-| **§3.6** | Binding Stakeholder Choice | Participation | Flourishing | Chapter One §8.1, §3.4, §11.4, §8, §10 | integrative with **Accountability** procedural integrity | — | [core_05p_participation_definitions.md](core_05p_participation_definitions.md) |
-| **§3.7** | Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity | Participation | Flourishing | §10, Chapter One §8.1, §4 | — | — | [core_05p_participation_definitions.md](core_05p_participation_definitions.md) |
-| **§3.8** | Collective Harm Boundary, Harm, and Harassment and Bullying | Accountability | Flourishing | Chapter One §8.1, §11.1, §12.1, §9 | — | — | [core_05a_accountability_definitions.md](core_05a_accountability_definitions.md) |
-| **§3.9** | Forum Families and Dispute Routing | Accountability | Flourishing | Chapter One §8.1, §3.4, §11.4, §8, §10 | — | — | [core_05a_accountability_definitions.md](core_05a_accountability_definitions.md) |
-| **Chapter One §8.10** | Standing State, Contribution, and Violation | Accountability | Flourishing | §11.1, §11.3, §11.4, §12.1, §8 | — | — | [core_05a_accountability_definitions.md](core_05a_accountability_definitions.md) |
-| **Chapter One §8.11** | Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm | Accountability | Continuity | Chapter One §8.1, §11.1, §12.1, §9 | integrative with **Continuity** where irreversible harm is implicated | Distinguish constitutional **Continuity** aim from operational force protocols. | [core_05a_accountability_definitions.md](core_05a_accountability_definitions.md) |
-| **Chapter One §8.12** | Labor and Economic Floor: Compensation, Organization, Safe Conditions, Leisure, and Creative Work | Continuity | Continuity | Chapter One §8.1, Chapter One §8.1, Chapter One §8.1, §12.1 | — | Constitutional **Continuity** aim — survival-floor and economic continuity. | [core_05c_continuity_definitions.md](core_05c_continuity_definitions.md) |
-| **Chapter One §8.13** | Stewardship, Governance Discipline, and Shared-System Capacity | Continuity | Continuity | Chapter One §8.1, §11.1, §12.1, §8 | integrative with **Accountability** where review and correction duties apply | Constitutional **Continuity** aim — durable governance discipline. | [core_05c_continuity_definitions.md](core_05c_continuity_definitions.md) |
-| **Chapter One §8.14** | Privacy (Informational) — peer-level cluster head | Continuity | Flourishing | Chapter One §8.2, §4, §12.1, §12.2 | integrative with **Participation** and **Oversight** | — | [core_05c_continuity_definitions.md](core_05c_continuity_definitions.md) |
-| **Chapter One §8.15** | Trust and Trustworthiness | Continuity | Flourishing | §5, §12.1, §8 | — | — | [core_05c_continuity_definitions.md](core_05c_continuity_definitions.md) |
-| **Chapter One §8.16** | Corpus, Authority Stack, Supremacy, and Enforceability | Integrative | Flourishing | Chapter One §8.1, §4, Chapter One §6.2, §12.2, §10 | **Oversight**, **Accountability**, and **Participation** — authority stack spans all Tetrad legs | — | [core_05i_integrative_definitions.md](core_05i_integrative_definitions.md) |
-| **§3.32** | Resilience, Safety, Reversibility, Self-Healing, Cascading Failure, Existential Risk, Environmental Preconditions, and Wellbeing | Continuity | cross-cutting | Chapter One §8.1, §3.2, §3.3 | integrative with **Flourishing** where wellbeing and safety constituents are implicated | Constitutional **Continuity** aim — not operational uptime. | [core_05c_continuity_definitions.md](core_05c_continuity_definitions.md) |
-| **semi-independent** | Materiality, impact, risk, and proxy integrity | Oversight | cross-cutting | Chapter One §8.2, §3.1, §12.1 | integrative with **Accountability** where incentive alignment is implicated | — | [core_05o_oversight_definitions.md](core_05o_oversight_definitions.md) |
-| **semi-independent** | Constitutional efficiency, productive capacity, avoidable burden, and burden-reduction duty | Continuity | cross-cutting | Chapter One §8.1, §12.1, §3.8 | integrative with **Participation** where productive capacity is implicated | — | [core_05c_continuity_definitions.md](core_05c_continuity_definitions.md) |
-| **semi-independent** | Ecological integrity, footprint, sustainability, and intergenerational responsibility | Continuity | Continuity | Chapter One §8.1, §3.3 | — | Constitutional **Continuity** aim — ecological wellbeing. | [core_05c_continuity_definitions.md](core_05c_continuity_definitions.md) |
-| **semi-independent** | Survival-floor access stack (bodily maintenance, tenure, environmental preconditions) | Continuity | Flourishing | Chapter One §8.1, **Article III** (*Survival and Equal Educational Access*) | integrative with **Flourishing** wellbeing measurement | — | [core_05c_continuity_definitions.md](core_05c_continuity_definitions.md) |
-| **semi-independent** | Accountability, contestability, adjudication, due process, and timeliness | Accountability | cross-cutting | Chapter One §8.1, §11.4, §3.7 | integrative with **Participation** and **Oversight** | — | [core_05a_accountability_definitions.md](core_05a_accountability_definitions.md) |
-| **semi-independent** | Governance architecture, decentralization, concentration, and market structure | Accountability | cross-cutting | Chapter One §13, §8.1 | integrative with **Oversight** where concentration triggers review | — | [core_05a_accountability_definitions.md](core_05a_accountability_definitions.md) |
-| **semi-independent** | Protected reporting and whistleblowing pathways | Accountability | Flourishing | Chapter One §8.2, §12.1 | integrative with **Oversight** verification | — | [core_05a_accountability_definitions.md](core_05a_accountability_definitions.md) |
-
-</details>
-
-<br>
-
-
----
-
 ### 3. Dependent clusters (Clustered Definitions)
-
-<details>
-<summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): Part C cluster discipline and reading order</span></strong></summary>
-
-> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this chapter or in other chapters.
->
-> Dependent clusters are joint-invocation homes: members must be satisfied together within each cluster's admission scope. **Part A** and **Part B** remain authoritative for independent and semi-independent terms. Clusters are ordered alphabetically by cluster title; meta rules **§3.0.1** and **§3.0.2** apply to every cluster.
-
-</details>
-
-<br>
 
 *In plain terms: Part C groups terms that must be read and satisfied together — cluster members are not standalone shortcuts around joint requirements.*
 
-Dependent clusters are joint-invocation homes for definitions that must be satisfied together within the admission scope stated in each cluster. Meta rules **§3.0.1** and **§3.0.2** apply to every cluster; individual clusters are ordered alphabetically by cluster title.
+A **dependent cluster** is a group of definitions that must be met together, inside the scope each cluster states. Rules **§3.0.1** and **§3.0.2** apply to every cluster. Clusters are listed alphabetically by title.
 
 <a id="joint-invocation-and-satisfaction"></a>
 #### 3.0.1 Joint invocation and satisfaction
-Where a definition or definition component is designated as part of a Dependent cluster, it must not be invoked, satisfied, or evaluated independently of the cluster. Dependent-cluster members must be jointly satisfied where they describe components of a single functional requirement; partial satisfaction is not compliance.
+If a definition — or any part of one — belongs to a dependent cluster, it may not be applied, satisfied, or judged on its own. When cluster members are pieces of one requirement, all of them must be met. Meeting only some of them is not compliance.
 
 <a id="standalone-definitions-interaction-and-full-context"></a>
 #### 3.0.2 Standalone definitions interaction and full context
-Classification as an Independent or Semi-independent definition does not override or bypass cluster membership. Dependent clusters must be satisfied jointly in full functional system context. No component may be isolated, reclassified, or applied independently in a manner that alters compliance determination
+Calling a definition Independent or Semi-independent does not let it skip cluster membership. Dependent clusters must still be met together in the full real-world system context. No piece may be peeled off, reclassified, or applied alone in a way that changes the compliance result.
 
 ---
 

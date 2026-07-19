@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-07-19T20:02:39+00:00",
+  "generated_at": "2026-07-19T23:13:41+00:00",
   "files": {
     "core_00_preamble.md": {
       "total_lines": 249,
@@ -957,83 +957,76 @@
       ]
     },
     "core_05-05_definitions_a_independent.md": {
-      "total_lines": 440,
+      "total_lines": 403,
       "sections": [
         {
           "header": "CHAPTER FIVE: FOUNDATIONAL DEFINITIONS",
           "level": 1,
           "line_start": 2,
-          "line_end": 440,
+          "line_end": 403,
           "anchor": "#chapter-five-foundational-definitions"
         },
         {
           "header": "Canonical home and non-duplication rule",
           "level": 3,
           "line_start": 24,
-          "line_end": 36,
+          "line_end": 38,
           "anchor": null
         },
         {
           "header": "Chapter Five alphabetical directory (non-operative)",
           "level": 3,
-          "line_start": 37,
-          "line_end": 306,
+          "line_start": 39,
+          "line_end": 308,
           "anchor": null
         },
         {
           "header": "Definitions A-Z",
           "level": 4,
-          "line_start": 52,
-          "line_end": 281,
+          "line_start": 54,
+          "line_end": 283,
           "anchor": "#definitions-a-z"
         },
         {
           "header": "Clusters A-Z",
           "level": 4,
-          "line_start": 282,
-          "line_end": 306,
+          "line_start": 284,
+          "line_end": 308,
           "anchor": "#clusters-a-z"
         },
         {
           "header": "Chapter Five compass and definition map",
           "level": 3,
-          "line_start": 307,
-          "line_end": 343,
+          "line_start": 309,
+          "line_end": 345,
           "anchor": "#1-interdependent-definitions"
         },
         {
           "header": "Measurement crosswalk (reader guidance)",
           "level": 3,
-          "line_start": 344,
-          "line_end": 371,
+          "line_start": 346,
+          "line_end": 373,
           "anchor": "#chapter-five-measurement-crosswalk"
-        },
-        {
-          "header": "Full cluster map (reader guidance)",
-          "level": 3,
-          "line_start": 372,
-          "line_end": 410,
-          "anchor": null
         },
         {
           "header": "3. Dependent clusters (Clustered Definitions)",
           "level": 3,
-          "line_start": 411,
-          "line_end": 440,
+          "line_start": 374,
+          "line_end": 403,
           "anchor": null
         },
         {
           "header": "3.0.1 Joint invocation and satisfaction",
           "level": 4,
-          "line_start": 429,
-          "line_end": 432,
+          "line_start": 392,
+          "line_end": 395,
           "anchor": "#joint-invocation-and-satisfaction"
         },
         {
           "header": "3.0.2 Standalone definitions interaction and full context",
           "level": 4,
-          "line_start": 433,
-          "line_end": 440,
+          "line_start": 396,
+          "line_end": 403,
           "anchor": "#standalone-definitions-interaction-and-full-context"
         }
       ]
@@ -3422,104 +3415,97 @@
       ]
     },
     "core_07_b_system_alignment_certification_record_process.md": {
-      "total_lines": 475,
+      "total_lines": 471,
       "sections": [
         {
           "header": "CHAPTER SEVEN, PART B: SYSTEM ALIGNMENT CERTIFICATION — RECORD AND PROCESS",
           "level": 1,
           "line_start": 2,
-          "line_end": 475,
+          "line_end": 471,
           "anchor": "#chapter-seven-part-b-certification-record-and-process"
-        },
-        {
-          "header": "1. Purpose and Role (record and process)",
-          "level": 3,
-          "line_start": 26,
-          "line_end": 47,
-          "anchor": null
         },
         {
           "header": "11. Certification Record",
           "level": 3,
-          "line_start": 48,
-          "line_end": 146,
+          "line_start": 44,
+          "line_end": 142,
           "anchor": "#2-certification-record"
         },
         {
           "header": "11.1 Minimum record contents",
           "level": 4,
-          "line_start": 68,
-          "line_end": 94,
+          "line_start": 64,
+          "line_end": 90,
           "anchor": "#31-minimum-record-contents"
         },
         {
           "header": "11.2 Cross-section record requirements",
           "level": 4,
-          "line_start": 95,
-          "line_end": 117,
+          "line_start": 91,
+          "line_end": 113,
           "anchor": "#32-cross-section-record-requirements"
         },
         {
           "header": "11.3 Rights-Floor record evaluation (non-substitution)",
           "level": 4,
-          "line_start": 118,
-          "line_end": 146,
+          "line_start": 114,
+          "line_end": 142,
           "anchor": "#33-rights-floor-record-evaluation-non-substitution"
         },
         {
           "header": "12. Transparency, Auditability, and Contestability",
           "level": 3,
-          "line_start": 147,
-          "line_end": 215,
+          "line_start": 143,
+          "line_end": 211,
           "anchor": "#6-transparency-auditability-and-contestability"
         },
         {
           "header": "13. Forum Supervision and Component Roles",
           "level": 3,
-          "line_start": 216,
-          "line_end": 274,
+          "line_start": 212,
+          "line_end": 270,
           "anchor": "#8-forum-supervision-and-component-roles"
         },
         {
           "header": "14. Supervisory Sequence and Contestability Chain",
           "level": 3,
-          "line_start": 275,
-          "line_end": 352,
+          "line_start": 271,
+          "line_end": 348,
           "anchor": "#7-supervisory-sequence-and-contestability-chain"
         },
         {
           "header": "14.1 Supervisory sequence",
           "level": 4,
-          "line_start": 306,
-          "line_end": 327,
+          "line_start": 302,
+          "line_end": 323,
           "anchor": "#81-supervisory-sequence"
         },
         {
           "header": "14.2 Contestability chain",
           "level": 4,
-          "line_start": 328,
-          "line_end": 342,
+          "line_start": 324,
+          "line_end": 338,
           "anchor": "#82-contestability-chain"
         },
         {
           "header": "14.3 Anti-bypass",
           "level": 4,
-          "line_start": 343,
-          "line_end": 352,
+          "line_start": 339,
+          "line_end": 348,
           "anchor": "#83-anti-bypass"
         },
         {
           "header": "15. Relationship to Standing",
           "level": 3,
-          "line_start": 353,
-          "line_end": 424,
+          "line_start": 349,
+          "line_end": 420,
           "anchor": "#9-relationship-to-standing"
         },
         {
           "header": "16. Reopening, Misalignment, and Non-Evasion",
           "level": 3,
-          "line_start": 425,
-          "line_end": 475,
+          "line_start": 421,
+          "line_end": 471,
           "anchor": "#10-reopening-drift-and-non-evasion"
         }
       ]

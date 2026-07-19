@@ -766,16 +766,6 @@ def build_band_file(
 
 
 def build_compass_section() -> str:
-    rows = []
-    for new_id in sorted(CLUSTER_META.keys(), key=lambda x: float(x.split(".")[1])):
-        m = CLUSTER_META[new_id]
-        bf = BAND_FILES[CLUSTER_BAND[new_id]]
-        cross = m.get("cross", "") or "ÿÿÿ"
-        cont = m.get("continuity_note", "") or "ÿÿÿ"
-        rows.append(
-            f"| **?{new_id}** | {m['title']} | {m['leg']} | {m['aim']} | {m.get('basis', 'ÿÿÿ')} | {cross} | {cont} | [{bf}]({bf}) |"
-        )
-
     band_rows = []
     ranges = {
         "o": "Chapter One ?8.2ÿÿÿ?3.3",
@@ -813,28 +803,13 @@ Use this compass before invoking any Chapter Five definition. Chapter Five suppl
 1. This compass and the constitutional bands below.
 2. The band file for the relevant Triad leg, **Continuity** band, or **Integrative** band.
 3. Individual definition O/E/C entries; dependent clusters per admission scope.
-4. Where a finding is **non-compliant**, optional [Non-Compliance Finding Profile](core_05a_accountability_definitions.md#non-compliance-finding-profile) metadata per cluster map.
+4. Where a finding is **non-compliant**, optional [Non-Compliance Finding Profile](core_05a_accountability_definitions.md#non-compliance-finding-profile) metadata.
 
 **Constitutional bands**
 
 | Band | File | ?3 cluster range |
 |---|---|---|
 {chr(10).join(band_rows)}
-
----
-
-### Full cluster map (reader guidance)
-
-<details>
-<summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): full cluster map</span></strong></summary>
-
-> The following content is **reader guidance only**. Per-cluster constitutional framing lives in each cluster's Trace block.
-
-| ? ID | Title | Triad leg / band | Primary aim | Chapter One ? basis | Cross-leg note | Continuity disambiguation | Home file |
-|---|---|---|---|---|---|---|---|
-{chr(10).join(rows)}
-
-</details>
 
 <br>
 """
