@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-07-19T05:27:55+00:00",
+  "generated_at": "2026-07-19T08:21:33+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -604,9 +604,9 @@
             "file": "core_11-11_forum.md",
             "count": 6,
             "anchors": [
-              "#522-technical-forum-domains",
-              "#55-shared-standards-and-anti-displacement",
-              "#9-timely-resolution-materiality-tiers-and-anti-delay-discipline",
+              "#10-timely-resolution-materiality-tiers-and-anti-delay-discipline",
+              "#42-technical-forum-domains",
+              "#53-shared-standards-and-anti-displacement",
               "#chapter-eleven-forums-and-jurisdiction"
             ]
           },
@@ -978,8 +978,8 @@
             "file": "core_11-11_forum.md",
             "count": 3,
             "anchors": [
-              "#522-technical-forum-domains",
-              "#55-shared-standards-and-anti-displacement"
+              "#42-technical-forum-domains",
+              "#53-shared-standards-and-anti-displacement"
             ]
           },
           {
@@ -1586,8 +1586,8 @@
             "file": "core_11-11_forum.md",
             "count": 6,
             "anchors": [
-              "#2-purpose-and-role",
-              "#5-forum-families",
+              "#1-purpose-and-role",
+              "#4-forum-family-definitions",
               "#chapter-eleven-forums-and-jurisdiction"
             ]
           },
@@ -3240,19 +3240,18 @@
             "file": "core_11-11_forum.md",
             "count": 23,
             "anchors": [
+              "#10-timely-resolution-materiality-tiers-and-anti-delay-discipline",
               "#2-default-venue-and-primary-stakes",
               "#22-mixed-stakes-and-routing-asymmetry",
               "#23-forum-records-standing-records-and-contests",
               "#3-transfer-consolidation-and-coordination",
-              "#422-technical-forum-domains",
-              "#521-sentient-forums",
-              "#522-technical-forum-domains",
-              "#523-institutional-forums",
-              "#524-environment-forums",
-              "#525-integrity-forums",
-              "#526-constitutional-forums",
-              "#6-escalation-and-certification",
-              "#9-timely-resolution-materiality-tiers-and-anti-delay-discipline",
+              "#41-sentient-forums",
+              "#42-technical-forum-domains",
+              "#43-institutional-forums",
+              "#44-environment-forums",
+              "#45-integrity-forums",
+              "#46-constitutional-forums",
+              "#7-escalation-and-certification",
               "#chapter-eleven-forums-and-jurisdiction"
             ]
           },
@@ -4252,8 +4251,8 @@
             "anchors": [
               "#23-forum-records-standing-records-and-contests",
               "#3-transfer-consolidation-and-coordination",
-              "#5-forum-families",
-              "#6-escalation-and-certification",
+              "#4-forum-family-definitions",
+              "#7-escalation-and-certification",
               "#chapter-eleven-forums-and-jurisdiction"
             ]
           },
@@ -4449,8 +4448,8 @@
             "file": "core_11-11_forum.md",
             "count": 5,
             "anchors": [
+              "#10-timely-resolution-materiality-tiers-and-anti-delay-discipline",
               "#23-forum-records-standing-records-and-contests",
-              "#9-timely-resolution-materiality-tiers-and-anti-delay-discipline",
               "#chapter-eleven-forums-and-jurisdiction"
             ]
           },
@@ -4528,11 +4527,11 @@
             "file": "core_11-11_forum.md",
             "count": 11,
             "anchors": [
+              "#10-timely-resolution-materiality-tiers-and-anti-delay-discipline",
               "#2-default-venue-and-primary-stakes",
-              "#422-technical-forum-domains",
-              "#423-institutional-forums",
-              "#425-integrity-forums",
-              "#9-timely-resolution-materiality-tiers-and-anti-delay-discipline",
+              "#42-technical-forum-domains",
+              "#43-institutional-forums",
+              "#45-integrity-forums",
               "#chapter-eleven-forums-and-jurisdiction"
             ]
           },
@@ -4655,7 +4654,7 @@
             "count": 7,
             "anchors": [
               "#2-default-venue-and-primary-stakes",
-              "#6-escalation-and-certification",
+              "#7-escalation-and-certification",
               "#chapter-eleven-forums-and-jurisdiction"
             ]
           },
@@ -4930,7 +4929,7 @@
         "targets": [
           {
             "file": "core_00_preamble.md",
-            "count": 10,
+            "count": 11,
             "anchors": [
               "#constitutional-tetrad",
               "#from-measurement-to-evidence-and-remedy",
@@ -5119,7 +5118,7 @@
           },
           {
             "file": "corpus_forum.md",
-            "count": 11,
+            "count": 12,
             "anchors": []
           },
           {
@@ -5222,7 +5221,7 @@
             "file": "core_11-11_forum.md",
             "count": 7,
             "anchors": [
-              "#9-timely-resolution-materiality-tiers-and-anti-delay-discipline",
+              "#10-timely-resolution-materiality-tiers-and-anti-delay-discipline",
               "#chapter-eleven-forums-and-jurisdiction"
             ]
           },
@@ -6435,7 +6434,7 @@
             "file": "core_11-11_forum.md",
             "count": 3,
             "anchors": [
-              "#9-timely-resolution-materiality-tiers-and-anti-delay-discipline"
+              "#10-timely-resolution-materiality-tiers-and-anti-delay-discipline"
             ]
           },
           {
@@ -10597,7 +10596,7 @@
             "file": "core_11-11_forum.md",
             "count": 1,
             "anchors": [
-              "#9-timely-resolution-materiality-tiers-and-anti-delay-discipline"
+              "#10-timely-resolution-materiality-tiers-and-anti-delay-discipline"
             ]
           },
           {
@@ -12609,11 +12608,11 @@
             "file": "core_11-11_forum.md",
             "count": 5,
             "anchors": [
+              "#10-timely-resolution-materiality-tiers-and-anti-delay-discipline",
               "#2-default-venue-and-primary-stakes",
-              "#422-technical-forum-domains",
-              "#423-institutional-forums",
-              "#425-integrity-forums",
-              "#9-timely-resolution-materiality-tiers-and-anti-delay-discipline"
+              "#42-technical-forum-domains",
+              "#43-institutional-forums",
+              "#45-integrity-forums"
             ]
           },
           {
@@ -14280,7 +14279,7 @@
             "file": "core_11-11_forum.md",
             "count": 20,
             "anchors": [
-              "#9-timely-resolution-materiality-tiers-and-anti-delay-discipline",
+              "#10-timely-resolution-materiality-tiers-and-anti-delay-discipline",
               "#chapter-eleven-forums-and-jurisdiction"
             ]
           },

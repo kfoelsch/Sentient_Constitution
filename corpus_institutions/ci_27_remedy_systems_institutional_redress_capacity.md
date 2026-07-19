@@ -53,7 +53,7 @@ Each remedy system must publish, on a fixed schedule compatible with **CF-11**:
 
 - current intake and acknowledgment windows;
 - backlog size and age distribution for open matters;
-- milestone compliance against [Chapter Eleven §9](../core_11-11_forum.md#9-timely-resolution-materiality-tiers-and-anti-delay-discipline) tier defaults; and
+- milestone compliance against [Chapter Eleven §10](../core_11-11_forum.md#10-timely-resolution-materiality-tiers-and-anti-delay-discipline) tier defaults; and
 - any designed backlog, single-office dependency, or chronic underfunding risk that could foreseeably nullify challenge or remedy.
 
 Designed backlog, inaccessible intake, chronic underfunding, dependence on a single fragile office, or chronic milestone failure violates [Chapter Nine §9.2](../core_09-09_standing_integration.md#82-remedy-system-durability) where it foreseeably nullifies challenge or remedy.
@@ -77,9 +77,9 @@ Domain-specific operational detail may live in other **CI** families (**CI-15** 
 
 ### CI-27.4: Standards interface and accountability routing
 
-Remedy systems must meet published capacity, measurement, and milestone standards under [Technical Forum Domains](../core_11-11_forum.md#422-technical-forum-domains). Technical forums set and maintain those standards; they are not the command hierarchy for remedy systems or institutions.
+Remedy systems must meet published capacity, measurement, and milestone standards under [Technical Forum Domains](../core_11-11_forum.md#42-technical-forum-domains). Technical forums set and maintain those standards; they are not the command hierarchy for remedy systems or institutions.
 
-Accountability for staffing, funding, backlog, succession, and performance remains with the [primary-stakes](../core_11-11_forum.md#2-default-venue-and-primary-stakes) forum family — ordinarily [Institutional](../core_11-11_forum.md#423-institutional-forums), or [Integrity](../core_11-11_forum.md#425-integrity-forums) where capture, process failure, or system-alignment collapse is primary. Cross-institution stall or handoff failure routes through **CI-12**. Chronic institutional failure routes through **CI-13**.
+Accountability for staffing, funding, backlog, succession, and performance remains with the [primary-stakes](../core_11-11_forum.md#2-default-venue-and-primary-stakes) forum family — ordinarily [Institutional](../core_11-11_forum.md#43-institutional-forums), or [Integrity](../core_11-11_forum.md#45-integrity-forums) where capture, process failure, or system-alignment collapse is primary. Cross-institution stall or handoff failure routes through **CI-12**. Chronic institutional failure routes through **CI-13**.
 
 ---
 

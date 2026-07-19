@@ -68,7 +68,16 @@ Every adopting entity must establish and maintain a published forum structure th
 - preserves independence, contestability, and traceability in actual forum design rather than by labels alone;
 - maintains enough qualified personnel and, as specified in **CF-16** (*Forum staffing, reserve capacity, shared administration, structural review, and structural records*), reserve and substitute capacity to keep the forum families functional in ordinary and stress conditions.
 
-**Practical flexibility:** Local forum names, internal organization, and administrative detail may differ from any model structure, as long as filers and review bodies can still see and use **each** forum family **Chapter Eleven** requires—separate intake, panels where applicable, and appeal or review paths that match that family's role. **What is not allowed:** satisfying the rule only on paper—by renaming adjudicative bodies, redrawing chamber lines, or similar cosmetic moves—if the real effect is to merge or erase boundaries between families that the constitution treats as distinct.
+**Minimum family inventory.** Adopting instruments must maintain **at least** the following **distinct** forum families, **in** **the** **same** **order** as `core_11-11_forum.md` **Chapter Eleven**, **section 2**’s **default** **venue** **table**. This inventory implements that table and the family definitions in **Chapter Eleven**, **section 4**; it does **not** create families beyond those Chapter Eleven authorizes.
+
+- **Sentient** forums.
+- **Technical** **Forum** **Domains** (including **specialized** **technical** **chambers** **or** **panels** **within** **other** **families**, as **Chapter Eleven**, **section 4.2** describes).
+- **Institutional** forums.
+- **Environment** forums.
+- **Integrity** forums.
+- **Constitutional** forums.
+
+**Practical flexibility:** Local forum names, internal organization, and administrative detail may differ from any model structure, as long as filers and review bodies can still see and use **each** forum family **Chapter Eleven** requires—separate intake, panels where applicable, and appeal or review paths that match that family's role. **What is not allowed:** satisfying the rule only on paper—by renaming adjudicative bodies, redrawing chamber lines, or similar cosmetic moves—if the real effect is to merge or erase boundaries between families that the constitution treats as distinct. **Function** must not collapse one family into another; **CF-3.3** (*Family distinction and non-collapse rule*) states the non-compliant patterns.
 
 ### CF-3.2 Family-to-forum-structure translation map
 <details>
@@ -131,7 +140,7 @@ The map must be current, publicly accessible, and cross-referenced to the primar
 
 <br>
 
-Adopting instruments must preserve the distinct constitutional functions of the **Constitutional**, **Institutional**, **Sentient**, **Integrity**, and **Environment** forum families even where:
+Adopting instruments must preserve the distinct constitutional functions of the **Sentient**, **Technical Forum Domains**, **Institutional**, **Environment**, **Integrity**, and **Constitutional** forum families even where:
 - personnel overlap;
 - facilities, clerks, or digital systems are shared;
 - a single chief administrator or budgeting authority serves multiple families;
