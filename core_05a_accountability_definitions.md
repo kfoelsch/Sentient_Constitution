@@ -1466,7 +1466,7 @@ This cluster is the joint-invocation home for the six constitutional forum famil
 - **How to measure and assess**
   - **Primary measure:** Accountability measurement family and Timeliness measurement family — supporting measure where multiple measurement families co-apply.
 
-    **Primary assessment:** Preserve **Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*)-class review safeguards and Chapter Ten due-process hooks when certification or escalation arrives from lower families; distinguish certified constitutional questions from implementation operational-law provisional rulings under Chapter Eleven §4.7 and §8.
+    **Primary assessment:** Preserve **Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*)-class review safeguards and Chapter Ten due-process hooks when certification or escalation arrives from lower families; distinguish certified constitutional questions from implementation operational-law provisional rulings under Chapter Eleven §4.6, §4.7, and §5.
 <a id="forum-family-constitutional-c"></a>
 - **What must hold**
   - treating non-certifiable operational detail as final constitutional disposition; collapsing certification discipline so families bypass Chapter Eleven §5 when constitutional validity, meaning, or structural remedy is materially at stake.
