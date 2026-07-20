@@ -12,19 +12,19 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Remedy System](../core_05a_accountability_definitions.md#remedy-system-constitutional) · [O](../core_05a_accountability_definitions.md#remedy-system-constitutional) · [A](../core_05a_accountability_definitions.md#remedy-system-constitutional-a) · [C](../core_05a_accountability_definitions.md#remedy-system-constitutional-c)
-- [Redress and Remediation](../core_05a_accountability_definitions.md#redress-and-remediation-constitutional) · [O](../core_05a_accountability_definitions.md#redress-and-remediation-constitutional) · [A](../core_05a_accountability_definitions.md#redress-and-remediation-constitutional-a) · [C](../core_05a_accountability_definitions.md#redress-and-remediation-constitutional-c)
-- [Contestability](../core_05a_accountability_definitions.md#contestability) · [O](../core_05a_accountability_definitions.md#contestability) · [A](../core_05a_accountability_definitions.md#contestability-a) · [C](../core_05a_accountability_definitions.md#contestability-c)
-- [Timely Resolution](../core_05a_accountability_definitions.md#timely-resolution-constitutional) · [O](../core_05a_accountability_definitions.md#timely-resolution-constitutional) · [A](../core_05a_accountability_definitions.md#timely-resolution-constitutional-a) · [C](../core_05a_accountability_definitions.md#timely-resolution-constitutional-c)
-- [Accountability](../core_05a_accountability_definitions.md#accountability) · [O](../core_05a_accountability_definitions.md#accountability) · [A](../core_05a_accountability_definitions.md#accountability-a) · [C](../core_05a_accountability_definitions.md#accountability-c)
-- [Auditability](../core_05o_oversight_definitions.md#auditability) · [O](../core_05o_oversight_definitions.md#auditability) · [A](../core_05o_oversight_definitions.md#auditability-a) · [C](../core_05o_oversight_definitions.md#auditability-c)
-- [Dependency](../core_05c_continuity_definitions.md#dependency) · [O](../core_05c_continuity_definitions.md#dependency) · [A](../core_05c_continuity_definitions.md#dependency-a) · [C](../core_05c_continuity_definitions.md#dependency-c)
+- [Remedy System](../core_05defs_accountability.md#remedy-system-constitutional) · [O](../core_05defs_accountability.md#remedy-system-constitutional) · [A](../core_05defs_accountability.md#remedy-system-constitutional-a) · [C](../core_05defs_accountability.md#remedy-system-constitutional-c)
+- [Redress and Remediation](../core_05defs_accountability.md#redress-and-remediation-constitutional) · [O](../core_05defs_accountability.md#redress-and-remediation-constitutional) · [A](../core_05defs_accountability.md#redress-and-remediation-constitutional-a) · [C](../core_05defs_accountability.md#redress-and-remediation-constitutional-c)
+- [Contestability](../core_05defs_accountability.md#contestability) · [O](../core_05defs_accountability.md#contestability) · [A](../core_05defs_accountability.md#contestability-a) · [C](../core_05defs_accountability.md#contestability-c)
+- [Timely Resolution](../core_05defs_accountability.md#timely-resolution-constitutional) · [O](../core_05defs_accountability.md#timely-resolution-constitutional) · [A](../core_05defs_accountability.md#timely-resolution-constitutional-a) · [C](../core_05defs_accountability.md#timely-resolution-constitutional-c)
+- [Accountability](../core_05apex_accountability_leg.md#accountability) · [O](../core_05apex_accountability_leg.md#accountability) · [A](../core_05apex_accountability_leg.md#accountability-a) · [C](../core_05apex_accountability_leg.md#accountability-c)
+- [Auditability](../core_05defs_oversight.md#auditability) · [O](../core_05defs_oversight.md#auditability) · [A](../core_05defs_oversight.md#auditability-a) · [C](../core_05defs_oversight.md#auditability-c)
+- [Dependency](../core_05defs_continuity.md#dependency) · [O](../core_05defs_continuity.md#dependency) · [A](../core_05defs_continuity.md#dependency-a) · [C](../core_05defs_continuity.md#dependency-c)
 
 </details>
 
 <br>
 
-*In plain terms: **CI-27** is the institutions layer's home for making challenge and repair real — staffing, funding, backlog, succession, and high-impact remedy domains. The constitutional floor lives in [Chapter Nine §9](../core_09-09_standing_integration.md#9-enforcement-realism) and [Remedy System](../core_05a_accountability_definitions.md#remedy-system-constitutional). Forum clocks live in **CF-11**. Technical forums publish measurement standards; they do not run these offices as bosses.*
+*In plain terms: **CI-27** is the institutions layer's home for making challenge and repair real — staffing, funding, backlog, succession, and high-impact remedy domains. The constitutional floor lives in [Chapter Nine §9](../core_09-09_standing_integration.md#9-enforcement-realism) and [Remedy System](../core_05defs_accountability.md#remedy-system-constitutional). Forum clocks live in **CF-11**. Technical forums publish measurement standards; they do not run these offices as bosses.*
 
 **Quick orientation**
 

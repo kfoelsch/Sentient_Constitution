@@ -40,20 +40,20 @@ This family operationalizes the **Oversight** leg of the [Constitutional Tetrad]
 - Read with: **CJS-5.12 — Burden of Justification and Constraint**
 - Read with: **CJS-5.22 — Constrained Secrecy and Protected Investigations**
 - Read with: **CJS-5.13 — Procedural Integrity and Adjudication**
-- Constitutional frame: **Oversight** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05o_oversight_definitions.md#materiality-determination).
+- Constitutional frame: **Oversight** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05defs_oversight.md#materiality-determination).
 - Chapter One basis: §2.2, §3, §4.2, §12.1, §12.2 (see [cluster map](#cjs-51-constitutional-compass-and-cluster-map)).
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Accountability](../core_05a_accountability_definitions.md#accountability) · [O](../core_05a_accountability_definitions.md#accountability) · [A](../core_05a_accountability_definitions.md#accountability-a) · [C](../core_05a_accountability_definitions.md#accountability-c)
-- [Contestability](../core_05a_accountability_definitions.md#contestability) · [O](../core_05a_accountability_definitions.md#contestability) · [A](../core_05a_accountability_definitions.md#contestability-a) · [C](../core_05a_accountability_definitions.md#contestability-c)
-- [Auditability](../core_05o_oversight_definitions.md#auditability) · [O](../core_05o_oversight_definitions.md#auditability) · [A](../core_05o_oversight_definitions.md#auditability-a) · [C](../core_05o_oversight_definitions.md#auditability-c)
-- [Transparency](../core_05o_oversight_definitions.md#transparency) · [O](../core_05o_oversight_definitions.md#transparency) · [A](../core_05o_oversight_definitions.md#transparency-a) · [C](../core_05o_oversight_definitions.md#transparency-c)
-- [Dependency](../core_05c_continuity_definitions.md#dependency) · [O](../core_05c_continuity_definitions.md#dependency) · [A](../core_05c_continuity_definitions.md#dependency-a) · [C](../core_05c_continuity_definitions.md#dependency-c)
-- [Governance](../core_05a_accountability_definitions.md#governance) · [O](../core_05a_accountability_definitions.md#governance) · [A](../core_05a_accountability_definitions.md#governance-a) · [C](../core_05a_accountability_definitions.md#governance-c)
-- [Oversight](../core_05o_oversight_definitions.md#oversight-constitutional) · [O](../core_05o_oversight_definitions.md#oversight-constitutional) · [A](../core_05o_oversight_definitions.md#oversight-constitutional-a) · [C](../core_05o_oversight_definitions.md#oversight-constitutional-c)
+- [Accountability](../core_05apex_accountability_leg.md#accountability) · [O](../core_05apex_accountability_leg.md#accountability) · [A](../core_05apex_accountability_leg.md#accountability-a) · [C](../core_05apex_accountability_leg.md#accountability-c)
+- [Contestability](../core_05defs_accountability.md#contestability) · [O](../core_05defs_accountability.md#contestability) · [A](../core_05defs_accountability.md#contestability-a) · [C](../core_05defs_accountability.md#contestability-c)
+- [Auditability](../core_05defs_oversight.md#auditability) · [O](../core_05defs_oversight.md#auditability) · [A](../core_05defs_oversight.md#auditability-a) · [C](../core_05defs_oversight.md#auditability-c)
+- [Transparency](../core_05defs_oversight.md#transparency) · [O](../core_05defs_oversight.md#transparency) · [A](../core_05defs_oversight.md#transparency-a) · [C](../core_05defs_oversight.md#transparency-c)
+- [Dependency](../core_05defs_continuity.md#dependency) · [O](../core_05defs_continuity.md#dependency) · [A](../core_05defs_continuity.md#dependency-a) · [C](../core_05defs_continuity.md#dependency-c)
+- [Governance](../core_05defs_accountability.md#governance) · [O](../core_05defs_accountability.md#governance) · [A](../core_05defs_accountability.md#governance-a) · [C](../core_05defs_accountability.md#governance-c)
+- [Oversight](../core_05apex_oversight_leg.md#oversight-constitutional) · [O](../core_05apex_oversight_leg.md#oversight-constitutional) · [A](../core_05apex_oversight_leg.md#oversight-constitutional-a) · [C](../core_05apex_oversight_leg.md#oversight-constitutional-c)
 - Chapter One basis: §2.2, §3, §4.2, §12.1, §12.2 (see [cluster map](#cjs-51-constitutional-compass-and-cluster-map)).
 </details>
 
@@ -129,20 +129,20 @@ Transparency, audit, and verification-integrity duties
 - Read with: **CJS-5.4 — Tiered Transparency and Audit Access**
 - Read with: **Article XV-A** (*Auditability and Observable Evidence*)
 - Read with: **Article VII-B** (*Internal-State Boundary and Type-N Protection*)
-- Constitutional frame: **Oversight** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05o_oversight_definitions.md#materiality-determination).
+- Constitutional frame: **Oversight** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05defs_oversight.md#materiality-determination).
 - Chapter One basis: §2.2, §3, §12.1, §12.2 (see [cluster map](#cjs-51-constitutional-compass-and-cluster-map)).
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Proportionality](../core_05a_accountability_definitions.md#proportionality) · [O](../core_05a_accountability_definitions.md#proportionality) · [A](../core_05a_accountability_definitions.md#proportionality-a) · [C](../core_05a_accountability_definitions.md#proportionality-c)
-- [Accountability](../core_05a_accountability_definitions.md#accountability) · [O](../core_05a_accountability_definitions.md#accountability) · [A](../core_05a_accountability_definitions.md#accountability-a) · [C](../core_05a_accountability_definitions.md#accountability-c)
-- [Auditability](../core_05o_oversight_definitions.md#auditability) · [O](../core_05o_oversight_definitions.md#auditability) · [A](../core_05o_oversight_definitions.md#auditability-a) · [C](../core_05o_oversight_definitions.md#auditability-c)
-- [Transparency](../core_05o_oversight_definitions.md#transparency) · [O](../core_05o_oversight_definitions.md#transparency) · [A](../core_05o_oversight_definitions.md#transparency-a) · [C](../core_05o_oversight_definitions.md#transparency-c)
-- [Dependency](../core_05c_continuity_definitions.md#dependency) · [O](../core_05c_continuity_definitions.md#dependency) · [A](../core_05c_continuity_definitions.md#dependency-a) · [C](../core_05c_continuity_definitions.md#dependency-c)
-- [Material](../core_05o_oversight_definitions.md#material) · [O](../core_05o_oversight_definitions.md#material) · [A](../core_05o_oversight_definitions.md#material-a) · [C](../core_05o_oversight_definitions.md#material-c)
-- [System](../core_05c_continuity_definitions.md#system-definition) · [O](../core_05c_continuity_definitions.md#system-definition) · [A](../core_05c_continuity_definitions.md#system-definition-a) · [C](../core_05c_continuity_definitions.md#system-definition-c)
+- [Proportionality](../core_05defs_accountability.md#proportionality) · [O](../core_05defs_accountability.md#proportionality) · [A](../core_05defs_accountability.md#proportionality-a) · [C](../core_05defs_accountability.md#proportionality-c)
+- [Accountability](../core_05apex_accountability_leg.md#accountability) · [O](../core_05apex_accountability_leg.md#accountability) · [A](../core_05apex_accountability_leg.md#accountability-a) · [C](../core_05apex_accountability_leg.md#accountability-c)
+- [Auditability](../core_05defs_oversight.md#auditability) · [O](../core_05defs_oversight.md#auditability) · [A](../core_05defs_oversight.md#auditability-a) · [C](../core_05defs_oversight.md#auditability-c)
+- [Transparency](../core_05defs_oversight.md#transparency) · [O](../core_05defs_oversight.md#transparency) · [A](../core_05defs_oversight.md#transparency-a) · [C](../core_05defs_oversight.md#transparency-c)
+- [Dependency](../core_05defs_continuity.md#dependency) · [O](../core_05defs_continuity.md#dependency) · [A](../core_05defs_continuity.md#dependency-a) · [C](../core_05defs_continuity.md#dependency-c)
+- [Material](../core_05defs_oversight.md#material) · [O](../core_05defs_oversight.md#material) · [A](../core_05defs_oversight.md#material-a) · [C](../core_05defs_oversight.md#material-c)
+- [System](../core_05defs_continuity.md#system-definition) · [O](../core_05defs_continuity.md#system-definition) · [A](../core_05defs_continuity.md#system-definition-a) · [C](../core_05defs_continuity.md#system-definition-c)
 
 </details>
 
@@ -191,20 +191,20 @@ Operational transparency and structured logging requirements
 - Read with: **`corpus_forum.md` CF-12 through CF-14 — Forum continuity, fallback operation, and emergency adjudication**
 - Read with: **Article XV-A** (*Auditability and Observable Evidence*)
 - Read with: **Article VII-B** (*Internal-State Boundary and Type-N Protection*)
-- Constitutional frame: **Oversight** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05o_oversight_definitions.md#materiality-determination).
+- Constitutional frame: **Oversight** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05defs_oversight.md#materiality-determination).
 - Chapter One basis: §2.2, §11.2, §11.4, §12.1, §13 (see [cluster map](#cjs-51-constitutional-compass-and-cluster-map)).
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Accountability](../core_05a_accountability_definitions.md#accountability) · [O](../core_05a_accountability_definitions.md#accountability) · [A](../core_05a_accountability_definitions.md#accountability-a) · [C](../core_05a_accountability_definitions.md#accountability-c)
-- [Accessibility](../core_05p_participation_definitions.md#accessibility-constitutional) · [O](../core_05p_participation_definitions.md#accessibility-constitutional) · [A](../core_05p_participation_definitions.md#accessibility-constitutional-a) · [C](../core_05p_participation_definitions.md#accessibility-constitutional-c)
-- [Reversibility](../core_05c_continuity_definitions.md#reversibility-constitutional) · [O](../core_05c_continuity_definitions.md#reversibility-constitutional) · [A](../core_05c_continuity_definitions.md#reversibility-constitutional-a) · [C](../core_05c_continuity_definitions.md#reversibility-constitutional-c)
-- [Auditability](../core_05o_oversight_definitions.md#auditability) · [O](../core_05o_oversight_definitions.md#auditability) · [A](../core_05o_oversight_definitions.md#auditability-a) · [C](../core_05o_oversight_definitions.md#auditability-c)
-- [Transparency](../core_05o_oversight_definitions.md#transparency) · [O](../core_05o_oversight_definitions.md#transparency) · [A](../core_05o_oversight_definitions.md#transparency-a) · [C](../core_05o_oversight_definitions.md#transparency-c)
-- [Stakeholder](../core_05p_participation_definitions.md#stakeholder) · [O](../core_05p_participation_definitions.md#stakeholder) · [A](../core_05p_participation_definitions.md#stakeholder-a) · [C](../core_05p_participation_definitions.md#stakeholder-c)
-- [Dependency](../core_05c_continuity_definitions.md#dependency) · [O](../core_05c_continuity_definitions.md#dependency) · [A](../core_05c_continuity_definitions.md#dependency-a) · [C](../core_05c_continuity_definitions.md#dependency-c)
+- [Accountability](../core_05apex_accountability_leg.md#accountability) · [O](../core_05apex_accountability_leg.md#accountability) · [A](../core_05apex_accountability_leg.md#accountability-a) · [C](../core_05apex_accountability_leg.md#accountability-c)
+- [Accessibility](../core_05defs_participation.md#accessibility-constitutional) · [O](../core_05defs_participation.md#accessibility-constitutional) · [A](../core_05defs_participation.md#accessibility-constitutional-a) · [C](../core_05defs_participation.md#accessibility-constitutional-c)
+- [Reversibility](../core_05defs_continuity.md#reversibility-constitutional) · [O](../core_05defs_continuity.md#reversibility-constitutional) · [A](../core_05defs_continuity.md#reversibility-constitutional-a) · [C](../core_05defs_continuity.md#reversibility-constitutional-c)
+- [Auditability](../core_05defs_oversight.md#auditability) · [O](../core_05defs_oversight.md#auditability) · [A](../core_05defs_oversight.md#auditability-a) · [C](../core_05defs_oversight.md#auditability-c)
+- [Transparency](../core_05defs_oversight.md#transparency) · [O](../core_05defs_oversight.md#transparency) · [A](../core_05defs_oversight.md#transparency-a) · [C](../core_05defs_oversight.md#transparency-c)
+- [Stakeholder](../core_05defs_participation.md#stakeholder) · [O](../core_05defs_participation.md#stakeholder) · [A](../core_05defs_participation.md#stakeholder-a) · [C](../core_05defs_participation.md#stakeholder-c)
+- [Dependency](../core_05defs_continuity.md#dependency) · [O](../core_05defs_continuity.md#dependency) · [A](../core_05defs_continuity.md#dependency-a) · [C](../core_05defs_continuity.md#dependency-c)
 
 </details>
 
@@ -264,20 +264,20 @@ Tier structure and baseline accessibility
 - Read with: **CJS-5.3 — Auditability**
 - Read with: **CJS-5.4 — Tiered Transparency and Audit Access**
 - Read with: Chapter Fifteen and rights-layer protections where material claims shape rights-relevant decisions.
-- Constitutional frame: **Oversight** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05o_oversight_definitions.md#materiality-determination).
+- Constitutional frame: **Oversight** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05defs_oversight.md#materiality-determination).
 - Chapter One basis: §2.2, §2.3, §3, §12.1, §12.2 (see [cluster map](#cjs-51-constitutional-compass-and-cluster-map)).
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Auditability](../core_05o_oversight_definitions.md#auditability) · [O](../core_05o_oversight_definitions.md#auditability) · [A](../core_05o_oversight_definitions.md#auditability-a) · [C](../core_05o_oversight_definitions.md#auditability-c)
-- [Transparency](../core_05o_oversight_definitions.md#transparency) · [O](../core_05o_oversight_definitions.md#transparency) · [A](../core_05o_oversight_definitions.md#transparency-a) · [C](../core_05o_oversight_definitions.md#transparency-c)
-- [Feasibility](../core_05a_accountability_definitions.md#feasibility) · [O](../core_05a_accountability_definitions.md#feasibility) · [A](../core_05a_accountability_definitions.md#feasibility-a) · [C](../core_05a_accountability_definitions.md#feasibility-c)
-- [Governance](../core_05a_accountability_definitions.md#governance) · [O](../core_05a_accountability_definitions.md#governance) · [A](../core_05a_accountability_definitions.md#governance-a) · [C](../core_05a_accountability_definitions.md#governance-c)
-- [Material](../core_05o_oversight_definitions.md#material) · [O](../core_05o_oversight_definitions.md#material) · [A](../core_05o_oversight_definitions.md#material-a) · [C](../core_05o_oversight_definitions.md#material-c)
-- [System](../core_05c_continuity_definitions.md#system-definition) · [O](../core_05c_continuity_definitions.md#system-definition) · [A](../core_05c_continuity_definitions.md#system-definition-a) · [C](../core_05c_continuity_definitions.md#system-definition-c)
-- [Trust](../core_05c_continuity_definitions.md#trust) · [O](../core_05c_continuity_definitions.md#trust) · [A](../core_05c_continuity_definitions.md#trust-a) · [C](../core_05c_continuity_definitions.md#trust-c)
+- [Auditability](../core_05defs_oversight.md#auditability) · [O](../core_05defs_oversight.md#auditability) · [A](../core_05defs_oversight.md#auditability-a) · [C](../core_05defs_oversight.md#auditability-c)
+- [Transparency](../core_05defs_oversight.md#transparency) · [O](../core_05defs_oversight.md#transparency) · [A](../core_05defs_oversight.md#transparency-a) · [C](../core_05defs_oversight.md#transparency-c)
+- [Feasibility](../core_05defs_accountability.md#feasibility) · [O](../core_05defs_accountability.md#feasibility) · [A](../core_05defs_accountability.md#feasibility-a) · [C](../core_05defs_accountability.md#feasibility-c)
+- [Governance](../core_05defs_accountability.md#governance) · [O](../core_05defs_accountability.md#governance) · [A](../core_05defs_accountability.md#governance-a) · [C](../core_05defs_accountability.md#governance-c)
+- [Material](../core_05defs_oversight.md#material) · [O](../core_05defs_oversight.md#material) · [A](../core_05defs_oversight.md#material-a) · [C](../core_05defs_oversight.md#material-c)
+- [System](../core_05defs_continuity.md#system-definition) · [O](../core_05defs_continuity.md#system-definition) · [A](../core_05defs_continuity.md#system-definition-a) · [C](../core_05defs_continuity.md#system-definition-c)
+- [Trust](../core_05defs_continuity.md#trust) · [O](../core_05defs_continuity.md#trust) · [A](../core_05defs_continuity.md#trust-a) · [C](../core_05defs_continuity.md#trust-c)
 
 </details>
 
@@ -334,7 +334,7 @@ Structured review and incentive-integrity floor
 - Read with: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router.
 - Topic routing (primary owner): **CJS-R19** (*integrity assurance and resilie…*) in **CJS-2.1** (*Topic router (stable IDs)*). Mandatory read-with: **CJS-5.3**, **CJS-5.15**, **CI-7.3**, **CI-8**, **CF-11**.
 - Read with: Core definitions for auditability, verifiability, reversibility, dependency, cascading failure, adversarial conditions, and trustworthiness.
-- Constitutional frame: **Oversight** leg; **Continuity** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05o_oversight_definitions.md#materiality-determination).
+- Constitutional frame: **Oversight** leg; **Continuity** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05defs_oversight.md#materiality-determination).
 - Cross-leg note: integrative with **Accountability** where contest, correction, and assurance routing are implicated.
 - Continuity disambiguation: Distinguish constitutional **Continuity** aim from operational resilience or protocol continuity.
 - Chapter One basis: §2.1, §2.2, §3.1, §12.1, §12.2 (see [cluster map](#cjs-51-constitutional-compass-and-cluster-map)).
@@ -343,13 +343,13 @@ Structured review and incentive-integrity floor
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Cascading Failure](../core_05c_continuity_definitions.md#cascading-failure) · [O](../core_05c_continuity_definitions.md#cascading-failure) · [A](../core_05c_continuity_definitions.md#cascading-failure-a) · [C](../core_05c_continuity_definitions.md#cascading-failure-c)
-- [Trustworthiness](../core_05c_continuity_definitions.md#trustworthiness) · [O](../core_05c_continuity_definitions.md#trustworthiness) · [A](../core_05c_continuity_definitions.md#trustworthiness-a) · [C](../core_05c_continuity_definitions.md#trustworthiness-c)
-- [Accountability](../core_05a_accountability_definitions.md#accountability) · [O](../core_05a_accountability_definitions.md#accountability) · [A](../core_05a_accountability_definitions.md#accountability-a) · [C](../core_05a_accountability_definitions.md#accountability-c)
-- [Material Risk](../core_05o_oversight_definitions.md#material-risk) · [O](../core_05o_oversight_definitions.md#material-risk) · [A](../core_05o_oversight_definitions.md#material-risk-a) · [C](../core_05o_oversight_definitions.md#material-risk-c)
-- [Reversibility](../core_05c_continuity_definitions.md#reversibility-constitutional) · [O](../core_05c_continuity_definitions.md#reversibility-constitutional) · [A](../core_05c_continuity_definitions.md#reversibility-constitutional-a) · [C](../core_05c_continuity_definitions.md#reversibility-constitutional-c)
-- [Verifiability](../core_05o_oversight_definitions.md#verifiability) · [O](../core_05o_oversight_definitions.md#verifiability) · [A](../core_05o_oversight_definitions.md#verifiability-a) · [C](../core_05o_oversight_definitions.md#verifiability-c)
-- [Auditability](../core_05o_oversight_definitions.md#auditability) · [O](../core_05o_oversight_definitions.md#auditability) · [A](../core_05o_oversight_definitions.md#auditability-a) · [C](../core_05o_oversight_definitions.md#auditability-c)
+- [Cascading Failure](../core_05defs_continuity.md#cascading-failure) · [O](../core_05defs_continuity.md#cascading-failure) · [A](../core_05defs_continuity.md#cascading-failure-a) · [C](../core_05defs_continuity.md#cascading-failure-c)
+- [Trustworthiness](../core_05defs_continuity.md#trustworthiness) · [O](../core_05defs_continuity.md#trustworthiness) · [A](../core_05defs_continuity.md#trustworthiness-a) · [C](../core_05defs_continuity.md#trustworthiness-c)
+- [Accountability](../core_05apex_accountability_leg.md#accountability) · [O](../core_05apex_accountability_leg.md#accountability) · [A](../core_05apex_accountability_leg.md#accountability-a) · [C](../core_05apex_accountability_leg.md#accountability-c)
+- [Material Risk](../core_05defs_oversight.md#material-risk) · [O](../core_05defs_oversight.md#material-risk) · [A](../core_05defs_oversight.md#material-risk-a) · [C](../core_05defs_oversight.md#material-risk-c)
+- [Reversibility](../core_05defs_continuity.md#reversibility-constitutional) · [O](../core_05defs_continuity.md#reversibility-constitutional) · [A](../core_05defs_continuity.md#reversibility-constitutional-a) · [C](../core_05defs_continuity.md#reversibility-constitutional-c)
+- [Verifiability](../core_05defs_oversight.md#verifiability) · [O](../core_05defs_oversight.md#verifiability) · [A](../core_05defs_oversight.md#verifiability-a) · [C](../core_05defs_oversight.md#verifiability-c)
+- [Auditability](../core_05defs_oversight.md#auditability) · [O](../core_05defs_oversight.md#auditability) · [A](../core_05defs_oversight.md#auditability-a) · [C](../core_05defs_oversight.md#auditability-c)
 
 </details>
 
@@ -435,7 +435,7 @@ Sortition and civic-lottery integrity controls
 
 Three-lines assurance model
 - OP-O: Where implementation duties require operational ownership, independent risk or compliance challenge, and independent assurance, those lines must remain distinguishable and must not collapse into a single self-certifying lane without a documented independence safeguard.
-- OP-E: Evaluation must verify that each line has a named owner, that role concentration across lines is limited and justified where unavoidable, and that records and evidence custody are sufficient for audit, contest, correction, and continuity transfer under [Evidence Preservation](../core_05o_oversight_definitions.md#evidence-preservation).
+- OP-E: Evaluation must verify that each line has a named owner, that role concentration across lines is limited and justified where unavoidable, and that records and evidence custody are sufficient for audit, contest, correction, and continuity transfer under [Evidence Preservation](../core_05defs_oversight.md#evidence-preservation).
 - OP-C: It is non-compliant to treat assurance as satisfied when the challenged operational owner also controls the only review or assurance path without an independence safeguard, or when record custody cannot support reconstruction across transfers.
 
 Default **NUL** bands (adopting instruments may tighten but must not weaken without lawful authority):

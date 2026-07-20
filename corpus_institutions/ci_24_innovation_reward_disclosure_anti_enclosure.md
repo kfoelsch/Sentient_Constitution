@@ -11,13 +11,13 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Innovation Reward and Anti-Enclosure](../core_05i_integrative_definitions.md#innovation-reward-and-anti-enclosure) · [O](../core_05i_integrative_definitions.md#innovation-reward-and-anti-enclosure) · [A](../core_05i_integrative_definitions.md#innovation-reward-and-anti-enclosure-a) · [C](../core_05i_integrative_definitions.md#innovation-reward-and-anti-enclosure-c)
-- [Proportionality](../core_05a_accountability_definitions.md#proportionality) · [O](../core_05a_accountability_definitions.md#proportionality) · [A](../core_05a_accountability_definitions.md#proportionality-a) · [C](../core_05a_accountability_definitions.md#proportionality-c)
-- [Contestability](../core_05a_accountability_definitions.md#contestability) · [O](../core_05a_accountability_definitions.md#contestability) · [A](../core_05a_accountability_definitions.md#contestability-a) · [C](../core_05a_accountability_definitions.md#contestability-c)
-- [Dependency](../core_05c_continuity_definitions.md#dependency) · [O](../core_05c_continuity_definitions.md#dependency) · [A](../core_05c_continuity_definitions.md#dependency-a) · [C](../core_05c_continuity_definitions.md#dependency-c)
-- [Necessity](../core_05a_accountability_definitions.md#necessity) · [O](../core_05a_accountability_definitions.md#necessity) · [A](../core_05a_accountability_definitions.md#necessity-a) · [C](../core_05a_accountability_definitions.md#necessity-c)
-- [Corpus](../core_05i_integrative_definitions.md#corpus) · [O](../core_05i_integrative_definitions.md#corpus) · [A](../core_05i_integrative_definitions.md#corpus-a) · [C](../core_05i_integrative_definitions.md#corpus-c)
-- [System](../core_05c_continuity_definitions.md#system-definition) · [O](../core_05c_continuity_definitions.md#system-definition) · [A](../core_05c_continuity_definitions.md#system-definition-a) · [C](../core_05c_continuity_definitions.md#system-definition-c)
+- [Innovation Reward and Anti-Enclosure](../core_05defs_integrative.md#innovation-reward-and-anti-enclosure) · [O](../core_05defs_integrative.md#innovation-reward-and-anti-enclosure) · [A](../core_05defs_integrative.md#innovation-reward-and-anti-enclosure-a) · [C](../core_05defs_integrative.md#innovation-reward-and-anti-enclosure-c)
+- [Proportionality](../core_05defs_accountability.md#proportionality) · [O](../core_05defs_accountability.md#proportionality) · [A](../core_05defs_accountability.md#proportionality-a) · [C](../core_05defs_accountability.md#proportionality-c)
+- [Contestability](../core_05defs_accountability.md#contestability) · [O](../core_05defs_accountability.md#contestability) · [A](../core_05defs_accountability.md#contestability-a) · [C](../core_05defs_accountability.md#contestability-c)
+- [Dependency](../core_05defs_continuity.md#dependency) · [O](../core_05defs_continuity.md#dependency) · [A](../core_05defs_continuity.md#dependency-a) · [C](../core_05defs_continuity.md#dependency-c)
+- [Necessity](../core_05defs_accountability.md#necessity) · [O](../core_05defs_accountability.md#necessity) · [A](../core_05defs_accountability.md#necessity-a) · [C](../core_05defs_accountability.md#necessity-c)
+- [Corpus](../core_05defs_integrative.md#corpus) · [O](../core_05defs_integrative.md#corpus) · [A](../core_05defs_integrative.md#corpus-a) · [C](../core_05defs_integrative.md#corpus-c)
+- [System](../core_05defs_continuity.md#system-definition) · [O](../core_05defs_continuity.md#system-definition) · [A](../core_05defs_continuity.md#system-definition-a) · [C](../core_05defs_continuity.md#system-definition-c)
 
 </details>
 

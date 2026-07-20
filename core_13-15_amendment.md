@@ -61,7 +61,7 @@ Permitted expansion of protection, supremacy sequencing, ratification, and proce
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Chapter Thirteen](#chapter-thirteen-non-regression-and-substantive-amendment-validity) opening floor list (Chapters One through Four, Ten, Eleven); integrated definitions — [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint), [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint), [Epistemic Integrity](core_05o_oversight_definitions.md#epistemic-integrity) (canonical O/M/A/C under [Truth and Epistemic Integrity](core_05c_continuity_definitions.md#truth-and-epistemic-integrity-cluster)), [Dignity and Equal Moral Standing](core_05p_participation_definitions.md#dignity-and-equal-moral-standing), [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency), and related floors named in operative text ([Chapter Five definitions](core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions)).
+- Upstream: [Chapter Thirteen](#chapter-thirteen-non-regression-and-substantive-amendment-validity) opening floor list (Chapters One through Four, Ten, Eleven); integrated definitions — [Safety (Constraint)](core_05defs_continuity.md#safety-constraint), [Truth (Constitutional Constraint)](core_05defs_oversight.md#truth-constitutional-constraint), [Epistemic Integrity](core_05defs_oversight.md#epistemic-integrity) (canonical O/M/A/C under [Truth and Epistemic Integrity](core_05defs_continuity.md#truth-and-epistemic-integrity-cluster)), [Dignity and Equal Moral Standing](core_05defs_participation.md#dignity-and-equal-moral-standing), [Meaningful Agency](core_05defs_participation.md#meaningful-agency), and related floors named in operative text ([Chapter Five definitions](core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions)).
 - Downstream: [§3](#2-test-1-substantive-non-regression-validity) Test 1 inventory; [§11](#3-anti-evasion-clause-and-constitutional-misconduct-referral) anti-evasion and referral triggers.
 - Read with: [Chapter Six](core_06-06_rights_part_a.md#chapter-six-foundational-rights) for Rights-Floor specifics; [Chapters Two through Four](core_02-03_definition_mechanics.md) for verification, standing gates, and observability as potential indirect narrowing vectors.
 
@@ -122,7 +122,7 @@ Where amendment or adoption conduct indicates serious misconduct, a mandatory re
 
 - Upstream: [§11](#3-anti-evasion-clause-and-constitutional-misconduct-referral) referral-only discipline; [Chapter Eight](core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) and [Chapter Ten](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct) canonical owners.
 - Downstream: [Chapter Fifteen §12](#12-layer-scope) mirrored procedural-layer discipline; implementation text for review execution mechanics.
-- Read with: [Constitutional Owner Layers](core_05i_integrative_definitions.md#constitutional-owner-layers); [archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md](archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md) on change-path and incorporation; [Chapter Fifteen](core_13-15_amendment.md#chapter-fifteen-amendment-ratification-and-procedural-validity) for validity tests that do not duplicate slot-classification taxonomy.
+- Read with: [Constitutional Owner Layers](core_05defs_integrative.md#constitutional-owner-layers); [archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md](archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md) on change-path and incorporation; [Chapter Fifteen](core_13-15_amendment.md#chapter-fifteen-amendment-ratification-and-procedural-validity) for validity tests that do not duplicate slot-classification taxonomy.
 
 </details>
 
@@ -130,25 +130,25 @@ Where amendment or adoption conduct indicates serious misconduct, a mandatory re
 
 *In plain terms: Chapter Thirteen can demand extra review, preserve evidence, or pause things when validity is in doubt — but it does not run parallel classification or invent new offense categories; numeric standing measurement belongs to the Chapter Eight §7 unified scale, and Chapter Ten only adds the corresponding anti-constitutional-misconduct designation to qualifying Violation Axis slots 7–9.*
 
-This chapter may impose immediate validity-protection controls. Those controls include heightened review, provisional suspension where materially necessary, [Evidence Preservation](core_05o_oversight_definitions.md#evidence-preservation), and remediation publication.
+This chapter may impose immediate validity-protection controls. Those controls include heightened review, provisional suspension where materially necessary, [Evidence Preservation](core_05defs_oversight.md#evidence-preservation), and remediation publication.
 
-Under [Constitutional Owner Layers](core_05i_integrative_definitions.md#constitutional-owner-layers), this chapter must not absorb, restate, or relocate obligations owned by another constitutional owner layer — including final offense classification, sanction taxonomy, standing measurement, adjudicative workflow, or procedural amendment validity owned by Chapters Eight, Ten, Eleven, and Fifteen respectively. Slot-flavored or classification-flavored language in this chapter or in **Chapter Fifteen** operates only as a **trigger or referral heuristic** for routing to canonical owners and is **non-canonical** for final offense classification.
+Under [Constitutional Owner Layers](core_05defs_integrative.md#constitutional-owner-layers), this chapter must not absorb, restate, or relocate obligations owned by another constitutional owner layer — including final offense classification, sanction taxonomy, standing measurement, adjudicative workflow, or procedural amendment validity owned by Chapters Eight, Ten, Eleven, and Fifteen respectively. Slot-flavored or classification-flavored language in this chapter or in **Chapter Fifteen** operates only as a **trigger or referral heuristic** for routing to canonical owners and is **non-canonical** for final offense classification.
 
 Cross-layer drift that imports adjudicative workflow, sanction mechanics, or classification substance from another owner layer into **Chapter Thirteen** or **Chapter Fifteen** — whether as direct text, as reader-guidance prose elevated to operative effect, or as inference from review-trigger language — is **non-compliant** under this section.
 
-Future additions that touch offense-flavored, sanction-flavored, or classification-flavored language must include an explicit non-relocation pointer to the canonical owner home in [Constitutional Owner Layers](core_05i_integrative_definitions.md#constitutional-owner-layers).
+Future additions that touch offense-flavored, sanction-flavored, or classification-flavored language must include an explicit non-relocation pointer to the canonical owner home in [Constitutional Owner Layers](core_05defs_integrative.md#constitutional-owner-layers).
 
 <details>
 <summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): Chapter Thirteen layer routing index</span></strong></summary>
 
 > The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this chapter or in other chapters.
 >
-> Canonical owner routing lives in [Constitutional Owner Layers](core_05i_integrative_definitions.md#constitutional-owner-layers). For editorial orientation, obligations outside the substantive change-validity owner layer include:
+> Canonical owner routing lives in [Constitutional Owner Layers](core_05defs_integrative.md#constitutional-owner-layers). For editorial orientation, obligations outside the substantive change-validity owner layer include:
 > - **general contribution and violation measurement** (Contribution Axis / Violation Axis) — **Chapter Eight** in [core_08-08_standing_assessment.md](core_08-08_standing_assessment.md); **standing effects and integration** — **Chapter Nine** in [core_09-09_standing_integration.md](core_09-09_standing_integration.md#chapter-nine-standing-effects-and-integration);
 > - **numeric Contribution and Violation Axis slots** — the **Chapter Eight §7 unified scale**, with separate records and Violation slots controlled only by verified impact; and the corresponding **anti-constitutional-misconduct designation** for a qualifying Violation Axis slot 7, 8, or 9 — **Chapter Ten** in [core_10_a_misconduct_designation.md](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct);
 > - **forum-operational workflow and adjudicative procedure** — **Chapter Eleven** and [corpus_forum.md](corpus_forum.md);
 > - **procedural and custody validity** for amendment, ratification, and adoption — **Chapter Fifteen** in this file; and
-> - **detailed institutional procedure, staffing mechanics, and cross-implementation joint structural integration** for review execution — designated implementation text and owner chapters named in [Constitutional Owner Layers](core_05i_integrative_definitions.md#constitutional-owner-layers).
+> - **detailed institutional procedure, staffing mechanics, and cross-implementation joint structural integration** for review execution — designated implementation text and owner chapters named in [Constitutional Owner Layers](core_05defs_integrative.md#constitutional-owner-layers).
 >
 > Owner layers must not be read as relocating constitutional validity standards out of **Chapters Thirteen and Fifteen**, Contribution Axis / Violation Axis measurement authority out of the **Chapter Eight §7 unified scale**, or anti-constitutional-misconduct designation authority out of **Chapter Ten**. Chapter Ten does not assign the numeric slot. For a non-operative architecture walkthrough, see [archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md](archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md).
 
@@ -180,10 +180,10 @@ Chapter Fourteen is the constitutional owner of **additive expansion of protecti
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Chapter Thirteen](core_13-15_amendment.md#chapter-thirteen-non-regression-and-substantive-amendment-validity) non-regression and Test 1; [Authority Stack and Internal Hierarchy](core_05i_integrative_definitions.md#authority-stack), [Supremacy and Enforceability](core_05i_integrative_definitions.md#supremacy-and-enforceability), and related [Corpus](core_05i_integrative_definitions.md#corpus) boundary concepts.
+- Upstream: [Chapter Thirteen](core_13-15_amendment.md#chapter-thirteen-non-regression-and-substantive-amendment-validity) non-regression and Test 1; [Authority Stack and Internal Hierarchy](core_05defs_integrative.md#authority-stack), [Supremacy and Enforceability](core_05defs_integrative.md#supremacy-and-enforceability), and related [Corpus](core_05defs_integrative.md#corpus) boundary concepts.
 - Subsections: [§1](#1-additive-expansion-permitted)–[§3](#2-continuity-of-supremacy-and-challenge-rights-during-amendment); [§11](#3-supremacy-relative-to-other-binding-norms)–[§2](#4-disputes-involving-external-legal-orders).
 - Downstream: [Chapter Fifteen](core_13-15_amendment.md#chapter-fifteen-amendment-ratification-and-procedural-validity) adoption and supremacy continuity during amendment; [Article XXIII-A](core_06-06_rights_part_d.md) (*Justice Objective and Scope*) review pathways preserved against external process gaps; [Chapter Ten, section 5.2 — *Rights-Floor waivers and unconstitutional contract terms*](core_10_b_misconduct_pattern_applications.md#52-rights-floor-waivers-and-unconstitutional-contract-terms) where external-order interfaces implicate waiver or pseudo-contract devices.
-- Read with: **[corpus_systems.md](corpus_systems.md)** and **Protocol C** references in operative text on cross-jurisdiction execution; [Chapter Nine §8 — *Enforcement realism*](core_09-09_standing_integration.md#9-enforcement-realism) where cited in §3.3; [Corpus, Authority Stack, Supremacy, and Enforceability](core_05a_accountability_definitions.md#corpus-authority-stack-supremacy-and-enforceability-cluster) (*Chapter Five Chapter One §8.16 cluster — read with [Corpus](core_05i_integrative_definitions.md#corpus) for custody and adoption*).
+- Read with: **[corpus_systems.md](corpus_systems.md)** and **Protocol C** references in operative text on cross-jurisdiction execution; [Chapter Nine §8 — *Enforcement realism*](core_09-09_standing_integration.md#9-enforcement-realism) where cited in §3.3; [Corpus, Authority Stack, Supremacy, and Enforceability](core_05defs_accountability.md#corpus-authority-stack-supremacy-and-enforceability-cluster) (*Chapter Five Chapter One §8.16 cluster — read with [Corpus](core_05defs_integrative.md#corpus) for custody and adoption*).
 
 </details>
 
@@ -196,7 +196,7 @@ Chapter Fourteen is the constitutional owner of **additive expansion of protecti
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [Chapter Fourteen](#chapter-fourteen-expansion-supremacy-and-external-legal-orders) chapter frame; [Chapter Thirteen](core_13-15_amendment.md#chapter-thirteen-non-regression-and-substantive-amendment-validity) non-regression (expansion must not violate Test 1).
-- Downstream: [§3](#2-continuity-of-supremacy-and-challenge-rights-during-amendment) continuity during change; [Authority Stack and Internal Hierarchy](core_05i_integrative_definitions.md#authority-stack) (*including Chapters One through Five consistency checks in operative text*).
+- Downstream: [§3](#2-continuity-of-supremacy-and-challenge-rights-during-amendment) continuity during change; [Authority Stack and Internal Hierarchy](core_05defs_integrative.md#authority-stack) (*including Chapters One through Five consistency checks in operative text*).
 - Read with: [Chapter Six](core_06-06_rights_part_a.md#chapter-six-foundational-rights) when additions implicate new rights or classes.
 
 </details>
@@ -227,10 +227,10 @@ No amendment process may suspend constitutional supremacy, auditability, challen
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§3](#2-continuity-of-supremacy-and-challenge-rights-during-amendment) continuity of supremacy during amendment; [Chapter Five *Authority Stack and Internal Hierarchy*](core_05i_integrative_definitions.md#authority-stack).
+- Upstream: [§3](#2-continuity-of-supremacy-and-challenge-rights-during-amendment) continuity of supremacy during amendment; [Chapter Five *Authority Stack and Internal Hierarchy*](core_05defs_integrative.md#authority-stack).
 - Subsections: [Chapter One §8.1](#31-internal-hierarchy-for-adopters)–[§11.3](#33-conflict-disclosure-and-mitigation).
 - Downstream: [§2](#4-disputes-involving-external-legal-orders) external tribunals and preserved pathways; [Chapter Thirteen](core_13-15_amendment.md#chapter-thirteen-non-regression-and-substantive-amendment-validity) non-regression on internal-hierarchy maneuvers.
-- Read with: [Chapter Five *Supremacy and Enforceability*](core_05i_integrative_definitions.md#supremacy-and-enforceability) as cross-linked from Chapter One §8.1 operative text.
+- Read with: [Chapter Five *Supremacy and Enforceability*](core_05defs_integrative.md#supremacy-and-enforceability) as cross-linked from Chapter One §8.1 operative text.
 
 </details>
 
@@ -244,7 +244,7 @@ No amendment process may suspend constitutional supremacy, auditability, challen
 
 - Upstream: [§11](#3-supremacy-relative-to-other-binding-norms) supremacy framing.
 - Downstream: [Chapter One §8.2](#32-stricter-external-protections) stricter-external overlay; [§11.3](#33-conflict-disclosure-and-mitigation) irreconcilable-conflict duties.
-- Read with: [Authority Stack and Internal Hierarchy](core_05i_integrative_definitions.md#authority-stack) for the boundary between source-layer authority and [Chapter One](core_01_c_stewardship_capacity_principles.md#chapter-01-principles-and-constraints) last-resort hierarchy.
+- Read with: [Authority Stack and Internal Hierarchy](core_05defs_integrative.md#authority-stack) for the boundary between source-layer authority and [Chapter One](core_01_c_stewardship_capacity_principles.md#chapter-01-principles-and-constraints) last-resort hierarchy.
 
 </details>
 
@@ -252,7 +252,7 @@ No amendment process may suspend constitutional supremacy, auditability, challen
 
 *In plain terms: the binding corpus and its definitions control how compliance is read for adopters, alongside adopted implementation in its lane — but nothing in that stack can be used to walk back Chapter Thirteen floors or Chapter Five supremacy rules.*
 
-For adopting entities, this Constitution and its integrated definitions govern interpretation and compliance. Adopted implementation text governs as well for systems, stewardship, designated institutional relationships, forum operations, and cross-implementation joint structure within the stated scope of adoption. That governance is subject to **Chapter Thirteen** non-regression requirements and to **Supremacy and Enforceability** in Chapter Five. The canonical statement integrating this adopter-facing precedence with source-layer authority and the **Chapter One** last-resort hierarchy across principles, articles, and definitions lives at [Authority Stack and Internal Hierarchy](core_05i_integrative_definitions.md#authority-stack) in Chapter Five.
+For adopting entities, this Constitution and its integrated definitions govern interpretation and compliance. Adopted implementation text governs as well for systems, stewardship, designated institutional relationships, forum operations, and cross-implementation joint structure within the stated scope of adoption. That governance is subject to **Chapter Thirteen** non-regression requirements and to **Supremacy and Enforceability** in Chapter Five. The canonical statement integrating this adopter-facing precedence with source-layer authority and the **Chapter One** last-resort hierarchy across principles, articles, and definitions lives at [Authority Stack and Internal Hierarchy](core_05defs_integrative.md#authority-stack) in Chapter Five.
 
 #### 3.16 Stricter External Protections
 <details>
@@ -313,7 +313,7 @@ Cross-jurisdiction coordination and anti-evasion execution follow **[corpus_syst
 
 - Upstream: [§2](#4-disputes-involving-external-legal-orders) external-dispute frame.
 - Downstream: [Chapter One §8.2](#42-preserved-internal-pathways) when external process is slow or inadequate.
-- Read with: Truth and auditability obligations in [Chapters Two through Four](core_02-03_definition_mechanics.md), [Evidence Preservation](core_05o_oversight_definitions.md#evidence-preservation), and [Chapter Six](core_06-06_rights_part_a.md#chapter-six-foundational-rights) as applicable to record preservation.
+- Read with: Truth and auditability obligations in [Chapters Two through Four](core_02-03_definition_mechanics.md), [Evidence Preservation](core_05defs_oversight.md#evidence-preservation), and [Chapter Six](core_06-06_rights_part_a.md#chapter-six-foundational-rights) as applicable to record preservation.
 
 </details>
 
@@ -367,7 +367,7 @@ Chapter Fifteen is the constitutional owner of **procedural and custody validity
 
 - Upstream: [Chapter Thirteen](core_13-15_amendment.md#chapter-thirteen-non-regression-and-substantive-amendment-validity) Test 1 and non-regression; [Chapter Fourteen](core_13-15_amendment.md#chapter-fourteen-expansion-supremacy-and-external-legal-orders) supremacy and external-order interface; [Chapter Twelve](core_12-12_governance.md#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship) legitimacy context for collective change.
 - Subsections: [§§ 1–12](#1-heightened-review-for-rights-affecting-changes) procedural and custody validity suite (Tests 2–4, ratification, procedure requirements, and layer scope).
-- Downstream: Adoption instruments and edition custody tie to [Chapter Five *Corpus*](core_05i_integrative_definitions.md#corpus), [Corpus, Authority Stack, Supremacy, and Enforceability](core_05a_accountability_definitions.md#corpus-authority-stack-supremacy-and-enforceability-cluster) (*Chapter Five Chapter One §8.16 cluster*), and [doc_architecture.md](doc_architecture.md); invalidity remediation interfaces with owner implementation layers.
+- Downstream: Adoption instruments and edition custody tie to [Chapter Five *Corpus*](core_05defs_integrative.md#corpus), [Corpus, Authority Stack, Supremacy, and Enforceability](core_05defs_accountability.md#corpus-authority-stack-supremacy-and-enforceability-cluster) (*Chapter Five Chapter One §8.16 cluster*), and [doc_architecture.md](doc_architecture.md); invalidity remediation interfaces with owner implementation layers.
 - Read with: [Chapters Two through Four](core_02-03_definition_mechanics.md) publication, burden, and tracing requirements invoked in Tests 2 and 11.
 
 </details>
@@ -447,8 +447,8 @@ A proposed amendment is invalid unless required publication elements are satisfi
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [§2](#4-test-2-procedural-validity-and-publication-integrity) Test 2 publication integrity.
-- Downstream: [§16](#10-ratification-and-adoption) instruments and custody expectations; [Chapter Five *Corpus*](core_05i_integrative_definitions.md#corpus) consistency requirements.
-- Read with: [Chapter Five *Corpus*](core_05i_integrative_definitions.md#corpus) and [README.md](README.md) (edition identifiers); [Corpus, Authority Stack, Supremacy, and Enforceability](core_05a_accountability_definitions.md#corpus-authority-stack-supremacy-and-enforceability-cluster) (*Chapter Five Chapter One §8.16 cluster*).
+- Downstream: [§16](#10-ratification-and-adoption) instruments and custody expectations; [Chapter Five *Corpus*](core_05defs_integrative.md#corpus) consistency requirements.
+- Read with: [Chapter Five *Corpus*](core_05defs_integrative.md#corpus) and [README.md](README.md) (edition identifiers); [Corpus, Authority Stack, Supremacy, and Enforceability](core_05defs_accountability.md#corpus-authority-stack-supremacy-and-enforceability-cluster) (*Chapter Five Chapter One §8.16 cluster*).
 
 </details>
 
@@ -532,7 +532,7 @@ Where a change is found invalid, it is treated as non-operative for constitution
 
 On invalidity determination, adopters must publish a time-bounded remediation plan that:
 - restores controlling prior protections or stricter lawful protections
-- preserves evidence under [Evidence Preservation](core_05o_oversight_definitions.md#evidence-preservation) and audit trails
+- preserves evidence under [Evidence Preservation](core_05defs_oversight.md#evidence-preservation) and audit trails
 - provides contestable remedy pathways proportionate to impact and dependency
 
 ### 10. Ratification and Adoption
@@ -542,7 +542,7 @@ On invalidity determination, adopters must publish a time-bounded remediation pl
 - Upstream: [§4](#9-test-3-authority-chain-and-custody-validity) custody validity; [Chapter Fourteen Chapter One §8.1](core_13-15_amendment.md#31-internal-hierarchy-for-adopters) internal hierarchy for adopters.
 - Subsections: [§11.1](#111-deliberate-adoption)–[§11.3](#113-joining-by-additional-parties).
 - Downstream: [§12](#11-amendment-procedure-requirements) notice and recorded effectiveness.
-- Read with: **[corpus_systems.md](corpus_systems.md)**, **CS-4 — System classification and handling** classification referenced in §11.1; [Chapter Five *Corpus*](core_05i_integrative_definitions.md#corpus).
+- Read with: **[corpus_systems.md](corpus_systems.md)**, **CS-4 — System classification and handling** classification referenced in §11.1; [Chapter Five *Corpus*](core_05defs_integrative.md#corpus).
 
 </details>
 
@@ -572,7 +572,7 @@ This Constitution binds a steward, organization, federation of bodies, or jurisd
 
 - Upstream: [§11.1](#111-deliberate-adoption) deliberate adoption requirement.
 - Downstream: [§4](#9-test-3-authority-chain-and-custody-validity) Test 3 chain checks against instrument contents.
-- Read with: [README.md](README.md) and [Chapter Five *Corpus*](core_05i_integrative_definitions.md#corpus) (authoritative corpus and edition identifier expectations).
+- Read with: [README.md](README.md) and [Chapter Five *Corpus*](core_05defs_integrative.md#corpus) (authoritative corpus and edition identifier expectations).
 
 </details>
 
@@ -583,8 +583,8 @@ This Constitution binds a steward, organization, federation of bodies, or jurisd
 Adopters must maintain an identifiable instrument of adoption. Examples include **joining** by additional parties (with recorded assent), treaty or compact ratification, corporate or intergovernmental resolution, federated registry entry, or equivalent. The instrument must state the adopting entity, scope of adoption, and effective date. It must:
 
 - identify the custodian of the authoritative edition of this Constitution and its integrated implementation files.
-- be consistent with document-control expectations in [README.md](README.md) and [Chapter Five *Corpus*](core_05i_integrative_definitions.md#corpus) (authoritative corpus, edition identifier, custody chain).
-- be consistent with **Corpus** in Chapter Five ([core_05-05_definitions_a_independent.md](core_05i_integrative_definitions.md#corpus)).
+- be consistent with document-control expectations in [README.md](README.md) and [Chapter Five *Corpus*](core_05defs_integrative.md#corpus) (authoritative corpus, edition identifier, custody chain).
+- be consistent with **Corpus** in Chapter Five ([core_05-05_definitions_a_independent.md](core_05defs_integrative.md#corpus)).
 
 #### 10.3 Joining by additional parties
 <details>
@@ -658,7 +658,7 @@ Amendments take effect only on a stated effective date or event recorded in the 
 
 - Upstream: [Chapter Thirteen §4](#4-layer-scope) substantive-chapter mirror; [§14](#7-review-triggers) and [§15](#9-invalid-change-handling-and-remediation-continuity) trigger language scoped here.
 - Downstream: [Chapter Eight](core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) and [Chapter Ten](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct) remain sole canonical homes for listed taxonomies.
-- Read with: [Chapter Six — Layer scope](core_06-06_rights_part_a.md#chapter-six--layer-scope) and [Constitutional Owner Layers](core_05i_integrative_definitions.md#constitutional-owner-layers) for the converse Rights-Floor discipline pattern.
+- Read with: [Chapter Six — Layer scope](core_06-06_rights_part_a.md#chapter-six--layer-scope) and [Constitutional Owner Layers](core_05defs_integrative.md#constitutional-owner-layers) for the converse Rights-Floor discipline pattern.
 
 </details>
 
@@ -666,21 +666,21 @@ Amendments take effect only on a stated effective date or event recorded in the 
 
 *In plain terms: Chapter Fifteen owns how amendments are published, chained, reviewed, and ratified — not numeric Contribution or Violation slots under the Chapter Eight §7 unified scale or Chapter Ten anti-constitutional-misconduct designations; escalation wording here is routing, not a second accountability-disposition code.*
 
-Under [Constitutional Owner Layers](core_05i_integrative_definitions.md#constitutional-owner-layers), this chapter must not absorb, restate, or relocate obligations owned by another constitutional owner layer. Any review-trigger, escalation-trigger, or referral-trigger language in this chapter — including mandatory escalation language in **section 7** (*Review Triggers*) and in **section 9** (*Invalid-Change Handling and Remediation Continuity*) — operates as a **trigger or referral heuristic** for routing to canonical owners and is **non-canonical** for final offense classification.
+Under [Constitutional Owner Layers](core_05defs_integrative.md#constitutional-owner-layers), this chapter must not absorb, restate, or relocate obligations owned by another constitutional owner layer. Any review-trigger, escalation-trigger, or referral-trigger language in this chapter — including mandatory escalation language in **section 7** (*Review Triggers*) and in **section 9** (*Invalid-Change Handling and Remediation Continuity*) — operates as a **trigger or referral heuristic** for routing to canonical owners and is **non-canonical** for final offense classification.
 
 Cross-layer drift that imports classification substance, sanction mechanics, or adjudicative workflow from another owner layer into **Chapter Fifteen** — whether as direct text, as reader-guidance prose elevated to operative effect, or as inference from review-trigger language — is **non-compliant** under this section.
 
-Future additions that touch offense-flavored or sanction-flavored language must include an explicit non-relocation pointer to the canonical owner home in [Constitutional Owner Layers](core_05i_integrative_definitions.md#constitutional-owner-layers).
+Future additions that touch offense-flavored or sanction-flavored language must include an explicit non-relocation pointer to the canonical owner home in [Constitutional Owner Layers](core_05defs_integrative.md#constitutional-owner-layers).
 
 <details>
 <summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): Chapter Fifteen layer routing index</span></strong></summary>
 
 > The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this chapter or in other chapters.
 >
-> Canonical owner routing lives in [Constitutional Owner Layers](core_05i_integrative_definitions.md#constitutional-owner-layers). For editorial orientation, obligations outside the procedural change-validity owner layer include:
+> Canonical owner routing lives in [Constitutional Owner Layers](core_05defs_integrative.md#constitutional-owner-layers). For editorial orientation, obligations outside the procedural change-validity owner layer include:
 > - **general contribution and violation measurement** (Contribution Axis / Violation Axis) — **Chapter Eight** in [core_08-08_standing_assessment.md](core_08-08_standing_assessment.md); **standing effects and integration** — **Chapter Nine** in [core_09-09_standing_integration.md](core_09-09_standing_integration.md#chapter-nine-standing-effects-and-integration);
 > - **numeric Contribution and Violation Axis slots** — the **Chapter Eight §7 unified scale**, with separate records and Violation slots controlled only by verified impact; and the corresponding **anti-constitutional-misconduct designation** for qualifying Violation Axis slots 7–9 — **Chapter Ten** in [core_10_a_misconduct_designation.md](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct); and
-> - **sanction taxonomy** and adjudicative workflow — owner layers identified in [Chapter Thirteen §4 Layer scope](#4-layer-scope) and [Constitutional Owner Layers](core_05i_integrative_definitions.md#constitutional-owner-layers).
+> - **sanction taxonomy** and adjudicative workflow — owner layers identified in [Chapter Thirteen §4 Layer scope](#4-layer-scope) and [Constitutional Owner Layers](core_05defs_integrative.md#constitutional-owner-layers).
 
 </details>
 

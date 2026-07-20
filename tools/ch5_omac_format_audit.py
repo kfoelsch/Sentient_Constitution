@@ -47,16 +47,10 @@ _TOOLS = Path(__file__).resolve().parent
 if str(_TOOLS) not in sys.path:
     sys.path.insert(0, str(_TOOLS))
 
-from ch5_paths import CH5_AIMS, CH5_BANDS  # noqa: E402
+from ch5_paths import CH5_AIMS, CH5_BANDS, CH5_LEGS  # noqa: E402
 
 # Files whose file-head O/M/A/C (before the first ####) must use letter form.
-LEG_HEAD_FILES = frozenset(
-    {
-        "core_05o_oversight_definitions.md",
-        "core_05p_participation_definitions.md",
-        "core_05a_accountability_definitions.md",
-    }
-)
+LEG_HEAD_FILES = frozenset(CH5_LEGS)
 
 HEADING_RE = re.compile(r"^(#{4,5})\s+(.+)$")
 LETTER_O_RE = re.compile(r"(?m)^- O:")
@@ -227,7 +221,7 @@ def audit_file(path: Path, rel: str) -> list[Finding]:
                 Finding(rel, "__FILE_HEAD__", "head", issues)
             )
 
-    if rel in CH5_AIMS:
+    if rel in CH5_AIMS or rel in LEG_HEAD_FILES:
         return findings
 
     for title, body in entries[1:]:
@@ -250,7 +244,7 @@ def audit_file(path: Path, rel: str) -> list[Finding]:
 def main() -> int:
     args = parse_args()
     root = Path(args.root)
-    targets = args.file or [*CH5_AIMS, *CH5_BANDS]
+    targets = args.file or [*CH5_AIMS, *CH5_LEGS, *CH5_BANDS]
     findings: list[Finding] = []
     for rel in targets:
         path = root / rel

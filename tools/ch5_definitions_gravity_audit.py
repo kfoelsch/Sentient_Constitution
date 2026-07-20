@@ -26,7 +26,7 @@ _TOOLS = pathlib.Path(__file__).resolve().parent
 if str(_TOOLS) not in sys.path:
     sys.path.insert(0, str(_TOOLS))
 
-from ch5_paths import CH5_ALL, CH5_INDEX, CH5_BANDS
+from ch5_paths import CH5_ALL, CH5_INDEX, CH5_DEFS
 
 
 CH5 = "## CHAPTER FIVE:"
@@ -336,10 +336,10 @@ def audit_blocks(full_text: str, rel_path: str) -> list[str]:
 def virtual_chapter_five_text(root: pathlib.Path) -> tuple[str, str]:
     """Reassemble Chapter Five body text from index + constitutional band files."""
     parts: list[str] = []
-    for name in (CH5_INDEX, *CH5_BANDS):
+    for name in (CH5_INDEX, *CH5_DEFS):
         parts.append(load_text(root / name))
     merged = "\n".join(parts)
-    rel = f"{CH5_INDEX} + {' + '.join(CH5_BANDS)}"
+    rel = f"{CH5_INDEX} + {' + '.join(CH5_DEFS)}"
     return merged, rel
 
 

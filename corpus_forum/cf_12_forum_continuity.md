@@ -12,12 +12,12 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Authority Stack and Internal Hierarchy](../core_05i_integrative_definitions.md#authority-stack) · [O](../core_05i_integrative_definitions.md#authority-stack) · [A](../core_05i_integrative_definitions.md#authority-stack-a) · [C](../core_05i_integrative_definitions.md#authority-stack-c)
-- [Adjudication and Dispute Resolution](../core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional) · [A](../core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional-a) · [C](../core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional-c)
-- [Emergency and Contingency](../core_05c_continuity_definitions.md#emergency-and-contingency-constitutional) · [O](../core_05c_continuity_definitions.md#emergency-and-contingency-constitutional) · [A](../core_05c_continuity_definitions.md#emergency-and-contingency-constitutional-a) · [C](../core_05c_continuity_definitions.md#emergency-and-contingency-constitutional-c)
-- [Evidence Preservation](../core_05o_oversight_definitions.md#evidence-preservation) · [O](../core_05o_oversight_definitions.md#evidence-preservation) · [A](../core_05o_oversight_definitions.md#evidence-preservation-a) · [C](../core_05o_oversight_definitions.md#evidence-preservation-c)
-- [Safety (Constraint)](../core_05c_continuity_definitions.md#safety-constraint) · [O](../core_05c_continuity_definitions.md#safety-constraint) · [A](../core_05c_continuity_definitions.md#safety-constraint-a) · [C](../core_05c_continuity_definitions.md#safety-constraint-c)
-- [Contestability](../core_05a_accountability_definitions.md#contestability) · [O](../core_05a_accountability_definitions.md#contestability) · [A](../core_05a_accountability_definitions.md#contestability-a) · [C](../core_05a_accountability_definitions.md#contestability-c)
+- [Authority Stack and Internal Hierarchy](../core_05defs_integrative.md#authority-stack) · [O](../core_05defs_integrative.md#authority-stack) · [A](../core_05defs_integrative.md#authority-stack-a) · [C](../core_05defs_integrative.md#authority-stack-c)
+- [Adjudication and Dispute Resolution](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [A](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [C](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-c)
+- [Emergency and Contingency](../core_05defs_continuity.md#emergency-and-contingency-constitutional) · [O](../core_05defs_continuity.md#emergency-and-contingency-constitutional) · [A](../core_05defs_continuity.md#emergency-and-contingency-constitutional-a) · [C](../core_05defs_continuity.md#emergency-and-contingency-constitutional-c)
+- [Evidence Preservation](../core_05defs_oversight.md#evidence-preservation) · [O](../core_05defs_oversight.md#evidence-preservation) · [A](../core_05defs_oversight.md#evidence-preservation-a) · [C](../core_05defs_oversight.md#evidence-preservation-c)
+- [Safety (Constraint)](../core_05defs_continuity.md#safety-constraint) · [O](../core_05defs_continuity.md#safety-constraint) · [A](../core_05defs_continuity.md#safety-constraint-a) · [C](../core_05defs_continuity.md#safety-constraint-c)
+- [Contestability](../core_05defs_accountability.md#contestability) · [O](../core_05defs_accountability.md#contestability) · [A](../core_05defs_accountability.md#contestability-a) · [C](../core_05defs_accountability.md#contestability-c)
 
 </details>
 
@@ -53,13 +53,13 @@ Where forum continuity materially depends on constitutional systems, this sectio
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Contestability](../core_05a_accountability_definitions.md#contestability) · [O](../core_05a_accountability_definitions.md#contestability) · [A](../core_05a_accountability_definitions.md#contestability-a) · [C](../core_05a_accountability_definitions.md#contestability-c)
-- [Auditability](../core_05o_oversight_definitions.md#auditability) · [O](../core_05o_oversight_definitions.md#auditability) · [A](../core_05o_oversight_definitions.md#auditability-a) · [C](../core_05o_oversight_definitions.md#auditability-c)
-- [Adjudication and Dispute Resolution](../core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional) · [A](../core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional-a) · [C](../core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional-c)
-- [Authority Stack and Internal Hierarchy](../core_05i_integrative_definitions.md#authority-stack) · [O](../core_05i_integrative_definitions.md#authority-stack) · [A](../core_05i_integrative_definitions.md#authority-stack-a) · [C](../core_05i_integrative_definitions.md#authority-stack-c)
-- [Emergency and Contingency](../core_05c_continuity_definitions.md#emergency-and-contingency-constitutional) · [O](../core_05c_continuity_definitions.md#emergency-and-contingency-constitutional) · [A](../core_05c_continuity_definitions.md#emergency-and-contingency-constitutional-a) · [C](../core_05c_continuity_definitions.md#emergency-and-contingency-constitutional-c)
-- [Evidence Preservation](../core_05o_oversight_definitions.md#evidence-preservation) · [O](../core_05o_oversight_definitions.md#evidence-preservation) · [A](../core_05o_oversight_definitions.md#evidence-preservation-a) · [C](../core_05o_oversight_definitions.md#evidence-preservation-c)
-- [Safety (Constraint)](../core_05c_continuity_definitions.md#safety-constraint) · [O](../core_05c_continuity_definitions.md#safety-constraint) · [A](../core_05c_continuity_definitions.md#safety-constraint-a) · [C](../core_05c_continuity_definitions.md#safety-constraint-c)
+- [Contestability](../core_05defs_accountability.md#contestability) · [O](../core_05defs_accountability.md#contestability) · [A](../core_05defs_accountability.md#contestability-a) · [C](../core_05defs_accountability.md#contestability-c)
+- [Auditability](../core_05defs_oversight.md#auditability) · [O](../core_05defs_oversight.md#auditability) · [A](../core_05defs_oversight.md#auditability-a) · [C](../core_05defs_oversight.md#auditability-c)
+- [Adjudication and Dispute Resolution](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [A](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [C](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-c)
+- [Authority Stack and Internal Hierarchy](../core_05defs_integrative.md#authority-stack) · [O](../core_05defs_integrative.md#authority-stack) · [A](../core_05defs_integrative.md#authority-stack-a) · [C](../core_05defs_integrative.md#authority-stack-c)
+- [Emergency and Contingency](../core_05defs_continuity.md#emergency-and-contingency-constitutional) · [O](../core_05defs_continuity.md#emergency-and-contingency-constitutional) · [A](../core_05defs_continuity.md#emergency-and-contingency-constitutional-a) · [C](../core_05defs_continuity.md#emergency-and-contingency-constitutional-c)
+- [Evidence Preservation](../core_05defs_oversight.md#evidence-preservation) · [O](../core_05defs_oversight.md#evidence-preservation) · [A](../core_05defs_oversight.md#evidence-preservation-a) · [C](../core_05defs_oversight.md#evidence-preservation-c)
+- [Safety (Constraint)](../core_05defs_continuity.md#safety-constraint) · [O](../core_05defs_continuity.md#safety-constraint) · [A](../core_05defs_continuity.md#safety-constraint-a) · [C](../core_05defs_continuity.md#safety-constraint-c)
 
 </details>
 
@@ -87,13 +87,13 @@ Emergency simplification must not become a pretext to extinguish contestability.
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [System](../core_05c_continuity_definitions.md#system-definition) · [O](../core_05c_continuity_definitions.md#system-definition) · [A](../core_05c_continuity_definitions.md#system-definition-a) · [C](../core_05c_continuity_definitions.md#system-definition-c)
-- [Adjudication and Dispute Resolution](../core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional) · [A](../core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional-a) · [C](../core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional-c)
-- [Authority Stack and Internal Hierarchy](../core_05i_integrative_definitions.md#authority-stack) · [O](../core_05i_integrative_definitions.md#authority-stack) · [A](../core_05i_integrative_definitions.md#authority-stack-a) · [C](../core_05i_integrative_definitions.md#authority-stack-c)
-- [Emergency and Contingency](../core_05c_continuity_definitions.md#emergency-and-contingency-constitutional) · [O](../core_05c_continuity_definitions.md#emergency-and-contingency-constitutional) · [A](../core_05c_continuity_definitions.md#emergency-and-contingency-constitutional-a) · [C](../core_05c_continuity_definitions.md#emergency-and-contingency-constitutional-c)
-- [Evidence Preservation](../core_05o_oversight_definitions.md#evidence-preservation) · [O](../core_05o_oversight_definitions.md#evidence-preservation) · [A](../core_05o_oversight_definitions.md#evidence-preservation-a) · [C](../core_05o_oversight_definitions.md#evidence-preservation-c)
-- [Safety (Constraint)](../core_05c_continuity_definitions.md#safety-constraint) · [O](../core_05c_continuity_definitions.md#safety-constraint) · [A](../core_05c_continuity_definitions.md#safety-constraint-a) · [C](../core_05c_continuity_definitions.md#safety-constraint-c)
-- [Auditability](../core_05o_oversight_definitions.md#auditability) · [O](../core_05o_oversight_definitions.md#auditability) · [A](../core_05o_oversight_definitions.md#auditability-a) · [C](../core_05o_oversight_definitions.md#auditability-c)
+- [System](../core_05defs_continuity.md#system-definition) · [O](../core_05defs_continuity.md#system-definition) · [A](../core_05defs_continuity.md#system-definition-a) · [C](../core_05defs_continuity.md#system-definition-c)
+- [Adjudication and Dispute Resolution](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [A](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [C](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-c)
+- [Authority Stack and Internal Hierarchy](../core_05defs_integrative.md#authority-stack) · [O](../core_05defs_integrative.md#authority-stack) · [A](../core_05defs_integrative.md#authority-stack-a) · [C](../core_05defs_integrative.md#authority-stack-c)
+- [Emergency and Contingency](../core_05defs_continuity.md#emergency-and-contingency-constitutional) · [O](../core_05defs_continuity.md#emergency-and-contingency-constitutional) · [A](../core_05defs_continuity.md#emergency-and-contingency-constitutional-a) · [C](../core_05defs_continuity.md#emergency-and-contingency-constitutional-c)
+- [Evidence Preservation](../core_05defs_oversight.md#evidence-preservation) · [O](../core_05defs_oversight.md#evidence-preservation) · [A](../core_05defs_oversight.md#evidence-preservation-a) · [C](../core_05defs_oversight.md#evidence-preservation-c)
+- [Safety (Constraint)](../core_05defs_continuity.md#safety-constraint) · [O](../core_05defs_continuity.md#safety-constraint) · [A](../core_05defs_continuity.md#safety-constraint-a) · [C](../core_05defs_continuity.md#safety-constraint-c)
+- [Auditability](../core_05defs_oversight.md#auditability) · [O](../core_05defs_oversight.md#auditability) · [A](../core_05defs_oversight.md#auditability-a) · [C](../core_05defs_oversight.md#auditability-c)
 
 </details>
 
@@ -122,13 +122,13 @@ Mode transitions must be trigger-defined, attributable, auditable, and reversibl
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Corpus](../core_05i_integrative_definitions.md#corpus) · [O](../core_05i_integrative_definitions.md#corpus) · [A](../core_05i_integrative_definitions.md#corpus-a) · [C](../core_05i_integrative_definitions.md#corpus-c)
-- [System](../core_05c_continuity_definitions.md#system-definition) · [O](../core_05c_continuity_definitions.md#system-definition) · [A](../core_05c_continuity_definitions.md#system-definition-a) · [C](../core_05c_continuity_definitions.md#system-definition-c)
-- [Adjudication and Dispute Resolution](../core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional) · [A](../core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional-a) · [C](../core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional-c)
-- [Authority Stack and Internal Hierarchy](../core_05i_integrative_definitions.md#authority-stack) · [O](../core_05i_integrative_definitions.md#authority-stack) · [A](../core_05i_integrative_definitions.md#authority-stack-a) · [C](../core_05i_integrative_definitions.md#authority-stack-c)
-- [Emergency and Contingency](../core_05c_continuity_definitions.md#emergency-and-contingency-constitutional) · [O](../core_05c_continuity_definitions.md#emergency-and-contingency-constitutional) · [A](../core_05c_continuity_definitions.md#emergency-and-contingency-constitutional-a) · [C](../core_05c_continuity_definitions.md#emergency-and-contingency-constitutional-c)
-- [Evidence Preservation](../core_05o_oversight_definitions.md#evidence-preservation) · [O](../core_05o_oversight_definitions.md#evidence-preservation) · [A](../core_05o_oversight_definitions.md#evidence-preservation-a) · [C](../core_05o_oversight_definitions.md#evidence-preservation-c)
-- [Safety (Constraint)](../core_05c_continuity_definitions.md#safety-constraint) · [O](../core_05c_continuity_definitions.md#safety-constraint) · [A](../core_05c_continuity_definitions.md#safety-constraint-a) · [C](../core_05c_continuity_definitions.md#safety-constraint-c)
+- [Corpus](../core_05defs_integrative.md#corpus) · [O](../core_05defs_integrative.md#corpus) · [A](../core_05defs_integrative.md#corpus-a) · [C](../core_05defs_integrative.md#corpus-c)
+- [System](../core_05defs_continuity.md#system-definition) · [O](../core_05defs_continuity.md#system-definition) · [A](../core_05defs_continuity.md#system-definition-a) · [C](../core_05defs_continuity.md#system-definition-c)
+- [Adjudication and Dispute Resolution](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [A](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [C](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-c)
+- [Authority Stack and Internal Hierarchy](../core_05defs_integrative.md#authority-stack) · [O](../core_05defs_integrative.md#authority-stack) · [A](../core_05defs_integrative.md#authority-stack-a) · [C](../core_05defs_integrative.md#authority-stack-c)
+- [Emergency and Contingency](../core_05defs_continuity.md#emergency-and-contingency-constitutional) · [O](../core_05defs_continuity.md#emergency-and-contingency-constitutional) · [A](../core_05defs_continuity.md#emergency-and-contingency-constitutional-a) · [C](../core_05defs_continuity.md#emergency-and-contingency-constitutional-c)
+- [Evidence Preservation](../core_05defs_oversight.md#evidence-preservation) · [O](../core_05defs_oversight.md#evidence-preservation) · [A](../core_05defs_oversight.md#evidence-preservation-a) · [C](../core_05defs_oversight.md#evidence-preservation-c)
+- [Safety (Constraint)](../core_05defs_continuity.md#safety-constraint) · [O](../core_05defs_continuity.md#safety-constraint) · [A](../core_05defs_continuity.md#safety-constraint-a) · [C](../core_05defs_continuity.md#safety-constraint-c)
 
 </details>
 
@@ -165,13 +165,13 @@ Shared expiry, reauthorization, restoration, and closure-evidence requirements f
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Evidence Preservation](../core_05o_oversight_definitions.md#evidence-preservation) · [O](../core_05o_oversight_definitions.md#evidence-preservation) · [A](../core_05o_oversight_definitions.md#evidence-preservation-a) · [C](../core_05o_oversight_definitions.md#evidence-preservation-c)
-- [System](../core_05c_continuity_definitions.md#system-definition) · [O](../core_05c_continuity_definitions.md#system-definition) · [A](../core_05c_continuity_definitions.md#system-definition-a) · [C](../core_05c_continuity_definitions.md#system-definition-c)
-- [Adjudication and Dispute Resolution](../core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional) · [A](../core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional-a) · [C](../core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional-c)
-- [Authority Stack and Internal Hierarchy](../core_05i_integrative_definitions.md#authority-stack) · [O](../core_05i_integrative_definitions.md#authority-stack) · [A](../core_05i_integrative_definitions.md#authority-stack-a) · [C](../core_05i_integrative_definitions.md#authority-stack-c)
-- [Emergency and Contingency](../core_05c_continuity_definitions.md#emergency-and-contingency-constitutional) · [O](../core_05c_continuity_definitions.md#emergency-and-contingency-constitutional) · [A](../core_05c_continuity_definitions.md#emergency-and-contingency-constitutional-a) · [C](../core_05c_continuity_definitions.md#emergency-and-contingency-constitutional-c)
-- [Safety (Constraint)](../core_05c_continuity_definitions.md#safety-constraint) · [O](../core_05c_continuity_definitions.md#safety-constraint) · [A](../core_05c_continuity_definitions.md#safety-constraint-a) · [C](../core_05c_continuity_definitions.md#safety-constraint-c)
-- [Accessibility](../core_05p_participation_definitions.md#accessibility-constitutional) · [O](../core_05p_participation_definitions.md#accessibility-constitutional) · [A](../core_05p_participation_definitions.md#accessibility-constitutional-a) · [C](../core_05p_participation_definitions.md#accessibility-constitutional-c)
+- [Evidence Preservation](../core_05defs_oversight.md#evidence-preservation) · [O](../core_05defs_oversight.md#evidence-preservation) · [A](../core_05defs_oversight.md#evidence-preservation-a) · [C](../core_05defs_oversight.md#evidence-preservation-c)
+- [System](../core_05defs_continuity.md#system-definition) · [O](../core_05defs_continuity.md#system-definition) · [A](../core_05defs_continuity.md#system-definition-a) · [C](../core_05defs_continuity.md#system-definition-c)
+- [Adjudication and Dispute Resolution](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [A](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [C](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-c)
+- [Authority Stack and Internal Hierarchy](../core_05defs_integrative.md#authority-stack) · [O](../core_05defs_integrative.md#authority-stack) · [A](../core_05defs_integrative.md#authority-stack-a) · [C](../core_05defs_integrative.md#authority-stack-c)
+- [Emergency and Contingency](../core_05defs_continuity.md#emergency-and-contingency-constitutional) · [O](../core_05defs_continuity.md#emergency-and-contingency-constitutional) · [A](../core_05defs_continuity.md#emergency-and-contingency-constitutional-a) · [C](../core_05defs_continuity.md#emergency-and-contingency-constitutional-c)
+- [Safety (Constraint)](../core_05defs_continuity.md#safety-constraint) · [O](../core_05defs_continuity.md#safety-constraint) · [A](../core_05defs_continuity.md#safety-constraint-a) · [C](../core_05defs_continuity.md#safety-constraint-c)
+- [Accessibility](../core_05defs_participation.md#accessibility-constitutional) · [O](../core_05defs_participation.md#accessibility-constitutional) · [A](../core_05defs_participation.md#accessibility-constitutional-a) · [C](../core_05defs_participation.md#accessibility-constitutional-c)
 
 </details>
 
@@ -180,8 +180,8 @@ Shared expiry, reauthorization, restoration, and closure-evidence requirements f
 In any degraded or emergency mode, the system must preserve at minimum:
 - intake for urgent matters;
 - emergency interim-relief authority;
-- routing or triage sufficient to identify Rights-Floor, [Evidence Preservation](../core_05o_oversight_definitions.md#evidence-preservation), and safety-critical cases;
-- record preservation and chain of custody under [Evidence Preservation](../core_05o_oversight_definitions.md#evidence-preservation);
+- routing or triage sufficient to identify Rights-Floor, [Evidence Preservation](../core_05defs_oversight.md#evidence-preservation), and safety-critical cases;
+- record preservation and chain of custody under [Evidence Preservation](../core_05defs_oversight.md#evidence-preservation);
 - a way to challenge emergency orders;
 - a path to restore ordinary forum review when feasible.
 
@@ -198,13 +198,13 @@ In any degraded or emergency mode, the system must preserve at minimum:
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Evidence Preservation](../core_05o_oversight_definitions.md#evidence-preservation) · [O](../core_05o_oversight_definitions.md#evidence-preservation) · [A](../core_05o_oversight_definitions.md#evidence-preservation-a) · [C](../core_05o_oversight_definitions.md#evidence-preservation-c)
-- [Corpus](../core_05i_integrative_definitions.md#corpus) · [O](../core_05i_integrative_definitions.md#corpus) · [A](../core_05i_integrative_definitions.md#corpus-a) · [C](../core_05i_integrative_definitions.md#corpus-c)
-- [Adjudication and Dispute Resolution](../core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional) · [A](../core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional-a) · [C](../core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional-c)
-- [Authority Stack and Internal Hierarchy](../core_05i_integrative_definitions.md#authority-stack) · [O](../core_05i_integrative_definitions.md#authority-stack) · [A](../core_05i_integrative_definitions.md#authority-stack-a) · [C](../core_05i_integrative_definitions.md#authority-stack-c)
-- [Emergency and Contingency](../core_05c_continuity_definitions.md#emergency-and-contingency-constitutional) · [O](../core_05c_continuity_definitions.md#emergency-and-contingency-constitutional) · [A](../core_05c_continuity_definitions.md#emergency-and-contingency-constitutional-a) · [C](../core_05c_continuity_definitions.md#emergency-and-contingency-constitutional-c)
-- [Safety (Constraint)](../core_05c_continuity_definitions.md#safety-constraint) · [O](../core_05c_continuity_definitions.md#safety-constraint) · [A](../core_05c_continuity_definitions.md#safety-constraint-a) · [C](../core_05c_continuity_definitions.md#safety-constraint-c)
-- [Auditability](../core_05o_oversight_definitions.md#auditability) · [O](../core_05o_oversight_definitions.md#auditability) · [A](../core_05o_oversight_definitions.md#auditability-a) · [C](../core_05o_oversight_definitions.md#auditability-c)
+- [Evidence Preservation](../core_05defs_oversight.md#evidence-preservation) · [O](../core_05defs_oversight.md#evidence-preservation) · [A](../core_05defs_oversight.md#evidence-preservation-a) · [C](../core_05defs_oversight.md#evidence-preservation-c)
+- [Corpus](../core_05defs_integrative.md#corpus) · [O](../core_05defs_integrative.md#corpus) · [A](../core_05defs_integrative.md#corpus-a) · [C](../core_05defs_integrative.md#corpus-c)
+- [Adjudication and Dispute Resolution](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [A](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [C](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-c)
+- [Authority Stack and Internal Hierarchy](../core_05defs_integrative.md#authority-stack) · [O](../core_05defs_integrative.md#authority-stack) · [A](../core_05defs_integrative.md#authority-stack-a) · [C](../core_05defs_integrative.md#authority-stack-c)
+- [Emergency and Contingency](../core_05defs_continuity.md#emergency-and-contingency-constitutional) · [O](../core_05defs_continuity.md#emergency-and-contingency-constitutional) · [A](../core_05defs_continuity.md#emergency-and-contingency-constitutional-a) · [C](../core_05defs_continuity.md#emergency-and-contingency-constitutional-c)
+- [Safety (Constraint)](../core_05defs_continuity.md#safety-constraint) · [O](../core_05defs_continuity.md#safety-constraint) · [A](../core_05defs_continuity.md#safety-constraint-a) · [C](../core_05defs_continuity.md#safety-constraint-c)
+- [Auditability](../core_05defs_oversight.md#auditability) · [O](../core_05defs_oversight.md#auditability) · [A](../core_05defs_oversight.md#auditability-a) · [C](../core_05defs_oversight.md#auditability-c)
 
 </details>
 
@@ -214,7 +214,7 @@ Forum emergency adjudication requires continuous preservation of:
 - docket identity;
 - filings and timestamps;
 - panel-formation and recusal records;
-- evidence custody records under [Evidence Preservation](../core_05o_oversight_definitions.md#evidence-preservation);
+- evidence custody records under [Evidence Preservation](../core_05defs_oversight.md#evidence-preservation);
 - emergency orders and reasons;
 - publication-delay records;
 - restoration and rollback decisions.
@@ -236,13 +236,13 @@ Long-term archival and retrieval systems that materially support record access, 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Corpus](../core_05i_integrative_definitions.md#corpus) · [O](../core_05i_integrative_definitions.md#corpus) · [A](../core_05i_integrative_definitions.md#corpus-a) · [C](../core_05i_integrative_definitions.md#corpus-c)
-- [Adjudication and Dispute Resolution](../core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional) · [A](../core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional-a) · [C](../core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional-c)
-- [Authority Stack and Internal Hierarchy](../core_05i_integrative_definitions.md#authority-stack) · [O](../core_05i_integrative_definitions.md#authority-stack) · [A](../core_05i_integrative_definitions.md#authority-stack-a) · [C](../core_05i_integrative_definitions.md#authority-stack-c)
-- [Emergency and Contingency](../core_05c_continuity_definitions.md#emergency-and-contingency-constitutional) · [O](../core_05c_continuity_definitions.md#emergency-and-contingency-constitutional) · [A](../core_05c_continuity_definitions.md#emergency-and-contingency-constitutional-a) · [C](../core_05c_continuity_definitions.md#emergency-and-contingency-constitutional-c)
-- [Evidence Preservation](../core_05o_oversight_definitions.md#evidence-preservation) · [O](../core_05o_oversight_definitions.md#evidence-preservation) · [A](../core_05o_oversight_definitions.md#evidence-preservation-a) · [C](../core_05o_oversight_definitions.md#evidence-preservation-c)
-- [Safety (Constraint)](../core_05c_continuity_definitions.md#safety-constraint) · [O](../core_05c_continuity_definitions.md#safety-constraint) · [A](../core_05c_continuity_definitions.md#safety-constraint-a) · [C](../core_05c_continuity_definitions.md#safety-constraint-c)
-- [Transparency](../core_05o_oversight_definitions.md#transparency) · [O](../core_05o_oversight_definitions.md#transparency) · [A](../core_05o_oversight_definitions.md#transparency-a) · [C](../core_05o_oversight_definitions.md#transparency-c)
+- [Corpus](../core_05defs_integrative.md#corpus) · [O](../core_05defs_integrative.md#corpus) · [A](../core_05defs_integrative.md#corpus-a) · [C](../core_05defs_integrative.md#corpus-c)
+- [Adjudication and Dispute Resolution](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [A](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [C](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-c)
+- [Authority Stack and Internal Hierarchy](../core_05defs_integrative.md#authority-stack) · [O](../core_05defs_integrative.md#authority-stack) · [A](../core_05defs_integrative.md#authority-stack-a) · [C](../core_05defs_integrative.md#authority-stack-c)
+- [Emergency and Contingency](../core_05defs_continuity.md#emergency-and-contingency-constitutional) · [O](../core_05defs_continuity.md#emergency-and-contingency-constitutional) · [A](../core_05defs_continuity.md#emergency-and-contingency-constitutional-a) · [C](../core_05defs_continuity.md#emergency-and-contingency-constitutional-c)
+- [Evidence Preservation](../core_05defs_oversight.md#evidence-preservation) · [O](../core_05defs_oversight.md#evidence-preservation) · [A](../core_05defs_oversight.md#evidence-preservation-a) · [C](../core_05defs_oversight.md#evidence-preservation-c)
+- [Safety (Constraint)](../core_05defs_continuity.md#safety-constraint) · [O](../core_05defs_continuity.md#safety-constraint) · [A](../core_05defs_continuity.md#safety-constraint-a) · [C](../core_05defs_continuity.md#safety-constraint-c)
+- [Transparency](../core_05defs_oversight.md#transparency) · [O](../core_05defs_oversight.md#transparency) · [A](../core_05defs_oversight.md#transparency-a) · [C](../core_05defs_oversight.md#transparency-c)
 
 </details>
 
@@ -269,13 +269,13 @@ During continuity-mode operation, forum-facing communications must apply `corpus
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Accountability](../core_05a_accountability_definitions.md#accountability) · [O](../core_05a_accountability_definitions.md#accountability) · [A](../core_05a_accountability_definitions.md#accountability-a) · [C](../core_05a_accountability_definitions.md#accountability-c)
-- [System](../core_05c_continuity_definitions.md#system-definition) · [O](../core_05c_continuity_definitions.md#system-definition) · [A](../core_05c_continuity_definitions.md#system-definition-a) · [C](../core_05c_continuity_definitions.md#system-definition-c)
-- [Adjudication and Dispute Resolution](../core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional) · [A](../core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional-a) · [C](../core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional-c)
-- [Authority Stack and Internal Hierarchy](../core_05i_integrative_definitions.md#authority-stack) · [O](../core_05i_integrative_definitions.md#authority-stack) · [A](../core_05i_integrative_definitions.md#authority-stack-a) · [C](../core_05i_integrative_definitions.md#authority-stack-c)
-- [Emergency and Contingency](../core_05c_continuity_definitions.md#emergency-and-contingency-constitutional) · [O](../core_05c_continuity_definitions.md#emergency-and-contingency-constitutional) · [A](../core_05c_continuity_definitions.md#emergency-and-contingency-constitutional-a) · [C](../core_05c_continuity_definitions.md#emergency-and-contingency-constitutional-c)
-- [Evidence Preservation](../core_05o_oversight_definitions.md#evidence-preservation) · [O](../core_05o_oversight_definitions.md#evidence-preservation) · [A](../core_05o_oversight_definitions.md#evidence-preservation-a) · [C](../core_05o_oversight_definitions.md#evidence-preservation-c)
-- [Safety (Constraint)](../core_05c_continuity_definitions.md#safety-constraint) · [O](../core_05c_continuity_definitions.md#safety-constraint) · [A](../core_05c_continuity_definitions.md#safety-constraint-a) · [C](../core_05c_continuity_definitions.md#safety-constraint-c)
+- [Accountability](../core_05apex_accountability_leg.md#accountability) · [O](../core_05apex_accountability_leg.md#accountability) · [A](../core_05apex_accountability_leg.md#accountability-a) · [C](../core_05apex_accountability_leg.md#accountability-c)
+- [System](../core_05defs_continuity.md#system-definition) · [O](../core_05defs_continuity.md#system-definition) · [A](../core_05defs_continuity.md#system-definition-a) · [C](../core_05defs_continuity.md#system-definition-c)
+- [Adjudication and Dispute Resolution](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [A](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [C](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-c)
+- [Authority Stack and Internal Hierarchy](../core_05defs_integrative.md#authority-stack) · [O](../core_05defs_integrative.md#authority-stack) · [A](../core_05defs_integrative.md#authority-stack-a) · [C](../core_05defs_integrative.md#authority-stack-c)
+- [Emergency and Contingency](../core_05defs_continuity.md#emergency-and-contingency-constitutional) · [O](../core_05defs_continuity.md#emergency-and-contingency-constitutional) · [A](../core_05defs_continuity.md#emergency-and-contingency-constitutional-a) · [C](../core_05defs_continuity.md#emergency-and-contingency-constitutional-c)
+- [Evidence Preservation](../core_05defs_oversight.md#evidence-preservation) · [O](../core_05defs_oversight.md#evidence-preservation) · [A](../core_05defs_oversight.md#evidence-preservation-a) · [C](../core_05defs_oversight.md#evidence-preservation-c)
+- [Safety (Constraint)](../core_05defs_continuity.md#safety-constraint) · [O](../core_05defs_continuity.md#safety-constraint) · [A](../core_05defs_continuity.md#safety-constraint-a) · [C](../core_05defs_continuity.md#safety-constraint-c)
 
 </details>
 
@@ -302,13 +302,13 @@ Where multiple institutions or forum families are affected, the continuity proto
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Corpus](../core_05i_integrative_definitions.md#corpus) · [O](../core_05i_integrative_definitions.md#corpus) · [A](../core_05i_integrative_definitions.md#corpus-a) · [C](../core_05i_integrative_definitions.md#corpus-c)
-- [System](../core_05c_continuity_definitions.md#system-definition) · [O](../core_05c_continuity_definitions.md#system-definition) · [A](../core_05c_continuity_definitions.md#system-definition-a) · [C](../core_05c_continuity_definitions.md#system-definition-c)
-- [Adjudication and Dispute Resolution](../core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional) · [A](../core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional-a) · [C](../core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional-c)
-- [Authority Stack and Internal Hierarchy](../core_05i_integrative_definitions.md#authority-stack) · [O](../core_05i_integrative_definitions.md#authority-stack) · [A](../core_05i_integrative_definitions.md#authority-stack-a) · [C](../core_05i_integrative_definitions.md#authority-stack-c)
-- [Emergency and Contingency](../core_05c_continuity_definitions.md#emergency-and-contingency-constitutional) · [O](../core_05c_continuity_definitions.md#emergency-and-contingency-constitutional) · [A](../core_05c_continuity_definitions.md#emergency-and-contingency-constitutional-a) · [C](../core_05c_continuity_definitions.md#emergency-and-contingency-constitutional-c)
-- [Evidence Preservation](../core_05o_oversight_definitions.md#evidence-preservation) · [O](../core_05o_oversight_definitions.md#evidence-preservation) · [A](../core_05o_oversight_definitions.md#evidence-preservation-a) · [C](../core_05o_oversight_definitions.md#evidence-preservation-c)
-- [Safety (Constraint)](../core_05c_continuity_definitions.md#safety-constraint) · [O](../core_05c_continuity_definitions.md#safety-constraint) · [A](../core_05c_continuity_definitions.md#safety-constraint-a) · [C](../core_05c_continuity_definitions.md#safety-constraint-c)
+- [Corpus](../core_05defs_integrative.md#corpus) · [O](../core_05defs_integrative.md#corpus) · [A](../core_05defs_integrative.md#corpus-a) · [C](../core_05defs_integrative.md#corpus-c)
+- [System](../core_05defs_continuity.md#system-definition) · [O](../core_05defs_continuity.md#system-definition) · [A](../core_05defs_continuity.md#system-definition-a) · [C](../core_05defs_continuity.md#system-definition-c)
+- [Adjudication and Dispute Resolution](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [A](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [C](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-c)
+- [Authority Stack and Internal Hierarchy](../core_05defs_integrative.md#authority-stack) · [O](../core_05defs_integrative.md#authority-stack) · [A](../core_05defs_integrative.md#authority-stack-a) · [C](../core_05defs_integrative.md#authority-stack-c)
+- [Emergency and Contingency](../core_05defs_continuity.md#emergency-and-contingency-constitutional) · [O](../core_05defs_continuity.md#emergency-and-contingency-constitutional) · [A](../core_05defs_continuity.md#emergency-and-contingency-constitutional-a) · [C](../core_05defs_continuity.md#emergency-and-contingency-constitutional-c)
+- [Evidence Preservation](../core_05defs_oversight.md#evidence-preservation) · [O](../core_05defs_oversight.md#evidence-preservation) · [A](../core_05defs_oversight.md#evidence-preservation-a) · [C](../core_05defs_oversight.md#evidence-preservation-c)
+- [Safety (Constraint)](../core_05defs_continuity.md#safety-constraint) · [O](../core_05defs_continuity.md#safety-constraint) · [A](../core_05defs_continuity.md#safety-constraint-a) · [C](../core_05defs_continuity.md#safety-constraint-c)
 
 </details>
 

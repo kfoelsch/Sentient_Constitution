@@ -572,7 +572,7 @@ Restoration is not automatic forgiveness, record erasure, or contribution offset
 
 *In plain terms: standing consequences and redress count only when real institutions can deliver them. This section is the constitutional floor for that machinery. Day-to-day staffing, funding, backlog, and succession rules live in the institutions layer.*
 
-Chapter Nine owns the constitutional floor that Question 3 consequences and related redress must be institutionally real. A [Remedy System](core_05a_accountability_definitions.md#remedy-system-constitutional) is the durable capacity that delivers challenge, intake, preservation, review, repair, monitoring, safeguard enforcement, and lock review — not a paper pathway. Implementation detail is owned by [CI-27](corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md) (*Remedy systems and institutional redress capacity*). Read with **Article XII-B** (*Right to Challenge, Review, and Redress*) and [Chapter Eleven](core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) for forum supervision.
+Chapter Nine owns the constitutional floor that Question 3 consequences and related redress must be institutionally real. A [Remedy System](core_05defs_accountability.md#remedy-system-constitutional) is the durable capacity that delivers challenge, intake, preservation, review, repair, monitoring, safeguard enforcement, and lock review — not a paper pathway. Implementation detail is owned by [CI-27](corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md) (*Remedy systems and institutional redress capacity*). Read with **Article XII-B** (*Right to Challenge, Review, and Redress*) and [Chapter Eleven](core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) for forum supervision.
 
 Standing integration fails if consequences exist only on paper. Adopters must maintain practical, timely capacity to implement correction, fund remedy, review restrictions, preserve records, enforce safeguards, and prevent escape through cost, delay, borders, restructuring, or formal identity changes.
 
@@ -645,7 +645,7 @@ Forums and implementation systems must be able to look through formal structure 
 <a id="85-timely-implementation-and-reassessment"></a>
 #### 9.5 Timely implementation
 
-Remedy commencement, correction milestones, lock review, and reassessment must satisfy [Timeliness](core_05a_accountability_definitions.md#timeliness-constitutional), [Chapter Eleven §6](core_11-11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline), and **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*). Delay that compounds harm, conceals non-performance, or defeats review is a new verified fact for Question 3 and may justify escalated safeguards without changing the original Chapter Eight slot.
+Remedy commencement, correction milestones, lock review, and reassessment must satisfy [Timeliness](core_05apex_accountability_leg.md#timeliness-constitutional), [Chapter Eleven §6](core_11-11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline), and **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*). Delay that compounds harm, conceals non-performance, or defeats review is a new verified fact for Question 3 and may justify escalated safeguards without changing the original Chapter Eight slot.
 
 Rights and standing consequences are real only when sentients can invoke them, verify them, fund practical repair, obtain timely review, and enforce obligations against the actors functionally responsible.
 

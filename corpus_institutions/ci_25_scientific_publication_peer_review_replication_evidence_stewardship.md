@@ -12,13 +12,13 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Primary-Stakes Routing](../core_05a_accountability_definitions.md#primary-stakes-routing) · [O](../core_05a_accountability_definitions.md#primary-stakes-routing) · [A](../core_05a_accountability_definitions.md#primary-stakes-routing-a) · [C](../core_05a_accountability_definitions.md#primary-stakes-routing-c)
-- [Epistemic Integrity](../core_05o_oversight_definitions.md#epistemic-integrity) · [O](../core_05o_oversight_definitions.md#epistemic-integrity) · [A](../core_05o_oversight_definitions.md#epistemic-integrity-a) · [C](../core_05o_oversight_definitions.md#epistemic-integrity-c)
-- [Proportionality](../core_05a_accountability_definitions.md#proportionality) · [O](../core_05a_accountability_definitions.md#proportionality) · [A](../core_05a_accountability_definitions.md#proportionality-a) · [C](../core_05a_accountability_definitions.md#proportionality-c)
-- [Contestability](../core_05a_accountability_definitions.md#contestability) · [O](../core_05a_accountability_definitions.md#contestability) · [A](../core_05a_accountability_definitions.md#contestability-a) · [C](../core_05a_accountability_definitions.md#contestability-c)
-- [Auditability](../core_05o_oversight_definitions.md#auditability) · [O](../core_05o_oversight_definitions.md#auditability) · [A](../core_05o_oversight_definitions.md#auditability-a) · [C](../core_05o_oversight_definitions.md#auditability-c)
-- [Transparency](../core_05o_oversight_definitions.md#transparency) · [O](../core_05o_oversight_definitions.md#transparency) · [A](../core_05o_oversight_definitions.md#transparency-a) · [C](../core_05o_oversight_definitions.md#transparency-c)
-- [Dependency](../core_05c_continuity_definitions.md#dependency) · [O](../core_05c_continuity_definitions.md#dependency) · [A](../core_05c_continuity_definitions.md#dependency-a) · [C](../core_05c_continuity_definitions.md#dependency-c)
+- [Primary-Stakes Routing](../core_05defs_accountability.md#primary-stakes-routing) · [O](../core_05defs_accountability.md#primary-stakes-routing) · [A](../core_05defs_accountability.md#primary-stakes-routing-a) · [C](../core_05defs_accountability.md#primary-stakes-routing-c)
+- [Epistemic Integrity](../core_05defs_oversight.md#epistemic-integrity) · [O](../core_05defs_oversight.md#epistemic-integrity) · [A](../core_05defs_oversight.md#epistemic-integrity-a) · [C](../core_05defs_oversight.md#epistemic-integrity-c)
+- [Proportionality](../core_05defs_accountability.md#proportionality) · [O](../core_05defs_accountability.md#proportionality) · [A](../core_05defs_accountability.md#proportionality-a) · [C](../core_05defs_accountability.md#proportionality-c)
+- [Contestability](../core_05defs_accountability.md#contestability) · [O](../core_05defs_accountability.md#contestability) · [A](../core_05defs_accountability.md#contestability-a) · [C](../core_05defs_accountability.md#contestability-c)
+- [Auditability](../core_05defs_oversight.md#auditability) · [O](../core_05defs_oversight.md#auditability) · [A](../core_05defs_oversight.md#auditability-a) · [C](../core_05defs_oversight.md#auditability-c)
+- [Transparency](../core_05defs_oversight.md#transparency) · [O](../core_05defs_oversight.md#transparency) · [A](../core_05defs_oversight.md#transparency-a) · [C](../core_05defs_oversight.md#transparency-c)
+- [Dependency](../core_05defs_continuity.md#dependency) · [O](../core_05defs_continuity.md#dependency) · [A](../core_05defs_continuity.md#dependency-a) · [C](../core_05defs_continuity.md#dependency-c)
 
 </details>
 

@@ -379,7 +379,7 @@ def constitutional_frame(new_id: str) -> list[str]:
     lines = [
         f"- Constitutional frame: **{meta['leg']}** leg; **{meta['aim']}** aim (primary); "
         "scales with [material stake](../core_00_preamble.md#material-stake) via "
-        "[Materiality Determination](../core_05o_oversight_definitions.md#materiality-determination)."
+        "[Materiality Determination](../core_05defs_oversight.md#materiality-determination)."
     ]
     if meta.get("cross"):
         lines.append(f"- Cross-leg note: {meta['cross']}.")

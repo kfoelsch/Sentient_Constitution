@@ -234,7 +234,7 @@ Limited redaction is permitted only to protect **Type N** data. **It** is permit
 ---
 
 **Type P: Public disclosure data.** **Default classification:** Public by Default (strong presumption for public-baseline release).  
-**Normative alignment:** [Transparency](core_05o_oversight_definitions.md#transparency); `corpus_joint_structure.md` **CJS-5.4** (*tiered transparency and audit-access terms*), **CJS-5.10** (*disclosure sufficiency and observability terms*), **CJS-5.3** (*auditability and reconstructability terms*), and **CJS-5.5** (*independent verification and claim-integrity terms*); **Article XV** (*Audit, Transparency, and Independent Verification*).
+**Normative alignment:** [Transparency](../core_05defs_oversight.md#transparency); `corpus_joint_structure.md` **CJS-5.4** (*tiered transparency and audit-access terms*), **CJS-5.10** (*disclosure sufficiency and observability terms*), **CJS-5.3** (*auditability and reconstructability terms*), and **CJS-5.5** (*independent verification and claim-integrity terms*); **Article XV** (*Audit, Transparency, and Independent Verification*).
 
 **Definition:** Data released or required to be released for **public-baseline** transparency, oversight, audit, and contestability — including lawful substitutes where source records remain in a more restricted type. Examples include:
 - **published certification, governance, and audit records** required for public baseline visibility

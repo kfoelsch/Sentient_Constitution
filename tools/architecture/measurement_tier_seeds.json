@@ -772,11 +772,6 @@
       "tier_depth": "primary_only",
       "status": "approved"
     },
-    "Protected Commercial Sexual Services Status and Article X-C Circumvention": {
-      "ch00_category": "3.4 Participation",
-      "tier_depth": "primary_only",
-      "status": "approved"
-    },
     "Protected Data and Internal-State Publication Constraint": {
       "ch00_category": "3.5 Oversight",
       "tier_depth": "primary_only",
@@ -1099,6 +1094,11 @@
     },
     "Weapons of Mass Harm": {
       "ch00_category": "3.2 Flourishing",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Protected Commercial Sexual Services Status and **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) Circumvention": {
+      "ch00_category": "3.4 Participation",
       "tier_depth": "primary_only",
       "status": "approved"
     }

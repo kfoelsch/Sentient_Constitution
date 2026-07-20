@@ -12,13 +12,13 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Evidence Preservation](../core_05o_oversight_definitions.md#evidence-preservation) · [O](../core_05o_oversight_definitions.md#evidence-preservation) · [A](../core_05o_oversight_definitions.md#evidence-preservation-a) · [C](../core_05o_oversight_definitions.md#evidence-preservation-c)
-- [Proportionality](../core_05a_accountability_definitions.md#proportionality) · [O](../core_05a_accountability_definitions.md#proportionality) · [A](../core_05a_accountability_definitions.md#proportionality-a) · [C](../core_05a_accountability_definitions.md#proportionality-c)
-- [Accountability](../core_05a_accountability_definitions.md#accountability) · [O](../core_05a_accountability_definitions.md#accountability) · [A](../core_05a_accountability_definitions.md#accountability-a) · [C](../core_05a_accountability_definitions.md#accountability-c)
-- [Transparency](../core_05o_oversight_definitions.md#transparency) · [O](../core_05o_oversight_definitions.md#transparency) · [A](../core_05o_oversight_definitions.md#transparency-a) · [C](../core_05o_oversight_definitions.md#transparency-c)
-- [Necessity](../core_05a_accountability_definitions.md#necessity) · [O](../core_05a_accountability_definitions.md#necessity) · [A](../core_05a_accountability_definitions.md#necessity-a) · [C](../core_05a_accountability_definitions.md#necessity-c)
-- [Oversight](../core_05o_oversight_definitions.md#oversight-constitutional) · [O](../core_05o_oversight_definitions.md#oversight-constitutional) · [A](../core_05o_oversight_definitions.md#oversight-constitutional-a) · [C](../core_05o_oversight_definitions.md#oversight-constitutional-c)
-- [Material](../core_05o_oversight_definitions.md#material) · [O](../core_05o_oversight_definitions.md#material) · [A](../core_05o_oversight_definitions.md#material-a) · [C](../core_05o_oversight_definitions.md#material-c)
+- [Evidence Preservation](../core_05defs_oversight.md#evidence-preservation) · [O](../core_05defs_oversight.md#evidence-preservation) · [A](../core_05defs_oversight.md#evidence-preservation-a) · [C](../core_05defs_oversight.md#evidence-preservation-c)
+- [Proportionality](../core_05defs_accountability.md#proportionality) · [O](../core_05defs_accountability.md#proportionality) · [A](../core_05defs_accountability.md#proportionality-a) · [C](../core_05defs_accountability.md#proportionality-c)
+- [Accountability](../core_05apex_accountability_leg.md#accountability) · [O](../core_05apex_accountability_leg.md#accountability) · [A](../core_05apex_accountability_leg.md#accountability-a) · [C](../core_05apex_accountability_leg.md#accountability-c)
+- [Transparency](../core_05defs_oversight.md#transparency) · [O](../core_05defs_oversight.md#transparency) · [A](../core_05defs_oversight.md#transparency-a) · [C](../core_05defs_oversight.md#transparency-c)
+- [Necessity](../core_05defs_accountability.md#necessity) · [O](../core_05defs_accountability.md#necessity) · [A](../core_05defs_accountability.md#necessity-a) · [C](../core_05defs_accountability.md#necessity-c)
+- [Oversight](../core_05apex_oversight_leg.md#oversight-constitutional) · [O](../core_05apex_oversight_leg.md#oversight-constitutional) · [A](../core_05apex_oversight_leg.md#oversight-constitutional-a) · [C](../core_05apex_oversight_leg.md#oversight-constitutional-c)
+- [Material](../core_05defs_oversight.md#material) · [O](../core_05defs_oversight.md#material) · [A](../core_05defs_oversight.md#material-a) · [C](../core_05defs_oversight.md#material-c)
 
 </details>
 
@@ -38,11 +38,11 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Material](../core_05o_oversight_definitions.md#material) · [O](../core_05o_oversight_definitions.md#material) · [A](../core_05o_oversight_definitions.md#material-a) · [C](../core_05o_oversight_definitions.md#material-c)
-- [Oversight](../core_05o_oversight_definitions.md#oversight-constitutional) · [O](../core_05o_oversight_definitions.md#oversight-constitutional) · [A](../core_05o_oversight_definitions.md#oversight-constitutional-a) · [C](../core_05o_oversight_definitions.md#oversight-constitutional-c)
-- [Evidence Preservation](../core_05o_oversight_definitions.md#evidence-preservation) · [O](../core_05o_oversight_definitions.md#evidence-preservation) · [A](../core_05o_oversight_definitions.md#evidence-preservation-a) · [C](../core_05o_oversight_definitions.md#evidence-preservation-c)
-- [Accountability](../core_05a_accountability_definitions.md#accountability) · [O](../core_05a_accountability_definitions.md#accountability) · [A](../core_05a_accountability_definitions.md#accountability-a) · [C](../core_05a_accountability_definitions.md#accountability-c)
-- [Unified Record](../core_05a_accountability_definitions.md#unified-record) · [O](../core_05a_accountability_definitions.md#unified-record) · [A](../core_05a_accountability_definitions.md#unified-record-a) · [C](../core_05a_accountability_definitions.md#unified-record-c)
+- [Material](../core_05defs_oversight.md#material) · [O](../core_05defs_oversight.md#material) · [A](../core_05defs_oversight.md#material-a) · [C](../core_05defs_oversight.md#material-c)
+- [Oversight](../core_05apex_oversight_leg.md#oversight-constitutional) · [O](../core_05apex_oversight_leg.md#oversight-constitutional) · [A](../core_05apex_oversight_leg.md#oversight-constitutional-a) · [C](../core_05apex_oversight_leg.md#oversight-constitutional-c)
+- [Evidence Preservation](../core_05defs_oversight.md#evidence-preservation) · [O](../core_05defs_oversight.md#evidence-preservation) · [A](../core_05defs_oversight.md#evidence-preservation-a) · [C](../core_05defs_oversight.md#evidence-preservation-c)
+- [Accountability](../core_05apex_accountability_leg.md#accountability) · [O](../core_05apex_accountability_leg.md#accountability) · [A](../core_05apex_accountability_leg.md#accountability-a) · [C](../core_05apex_accountability_leg.md#accountability-c)
+- [Unified Record](../core_05defs_accountability.md#unified-record) · [O](../core_05defs_accountability.md#unified-record) · [A](../core_05defs_accountability.md#unified-record-a) · [C](../core_05defs_accountability.md#unified-record-c)
 
 </details>
 
@@ -66,13 +66,13 @@ The investigators must have lawful authority to collect and preserve evidence, i
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Oversight](../core_05o_oversight_definitions.md#oversight-constitutional) · [O](../core_05o_oversight_definitions.md#oversight-constitutional) · [A](../core_05o_oversight_definitions.md#oversight-constitutional-a) · [C](../core_05o_oversight_definitions.md#oversight-constitutional-c)
-- [Evidence Preservation](../core_05o_oversight_definitions.md#evidence-preservation) · [O](../core_05o_oversight_definitions.md#evidence-preservation) · [A](../core_05o_oversight_definitions.md#evidence-preservation-a) · [C](../core_05o_oversight_definitions.md#evidence-preservation-c)
-- [Accountability](../core_05a_accountability_definitions.md#accountability) · [O](../core_05a_accountability_definitions.md#accountability) · [A](../core_05a_accountability_definitions.md#accountability-a) · [C](../core_05a_accountability_definitions.md#accountability-c)
-- [Auditability](../core_05o_oversight_definitions.md#auditability) · [O](../core_05o_oversight_definitions.md#auditability) · [A](../core_05o_oversight_definitions.md#auditability-a) · [C](../core_05o_oversight_definitions.md#auditability-c)
-- [Contestability](../core_05a_accountability_definitions.md#contestability) · [O](../core_05a_accountability_definitions.md#contestability) · [A](../core_05a_accountability_definitions.md#contestability-a) · [C](../core_05a_accountability_definitions.md#contestability-c)
-- [Adjudication and Dispute Resolution](../core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional) · [A](../core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional-a) · [C](../core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional-c)
-- [Procedural Fairness](../core_05p_participation_definitions.md#procedural-fairness-constitutional) · [O](../core_05p_participation_definitions.md#procedural-fairness-constitutional) · [A](../core_05p_participation_definitions.md#procedural-fairness-constitutional-a) · [C](../core_05p_participation_definitions.md#procedural-fairness-constitutional-c)
+- [Oversight](../core_05apex_oversight_leg.md#oversight-constitutional) · [O](../core_05apex_oversight_leg.md#oversight-constitutional) · [A](../core_05apex_oversight_leg.md#oversight-constitutional-a) · [C](../core_05apex_oversight_leg.md#oversight-constitutional-c)
+- [Evidence Preservation](../core_05defs_oversight.md#evidence-preservation) · [O](../core_05defs_oversight.md#evidence-preservation) · [A](../core_05defs_oversight.md#evidence-preservation-a) · [C](../core_05defs_oversight.md#evidence-preservation-c)
+- [Accountability](../core_05apex_accountability_leg.md#accountability) · [O](../core_05apex_accountability_leg.md#accountability) · [A](../core_05apex_accountability_leg.md#accountability-a) · [C](../core_05apex_accountability_leg.md#accountability-c)
+- [Auditability](../core_05defs_oversight.md#auditability) · [O](../core_05defs_oversight.md#auditability) · [A](../core_05defs_oversight.md#auditability-a) · [C](../core_05defs_oversight.md#auditability-c)
+- [Contestability](../core_05defs_accountability.md#contestability) · [O](../core_05defs_accountability.md#contestability) · [A](../core_05defs_accountability.md#contestability-a) · [C](../core_05defs_accountability.md#contestability-c)
+- [Adjudication and Dispute Resolution](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [A](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [C](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-c)
+- [Procedural Fairness](../core_05defs_participation.md#procedural-fairness-constitutional) · [O](../core_05defs_participation.md#procedural-fairness-constitutional) · [A](../core_05defs_participation.md#procedural-fairness-constitutional-a) · [C](../core_05defs_participation.md#procedural-fairness-constitutional-c)
 
 </details>
 
@@ -96,13 +96,13 @@ Investigation must be institutionally separate from ordinary **local enforcement
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Evidence Preservation](../core_05o_oversight_definitions.md#evidence-preservation) · [O](../core_05o_oversight_definitions.md#evidence-preservation) · [A](../core_05o_oversight_definitions.md#evidence-preservation-a) · [C](../core_05o_oversight_definitions.md#evidence-preservation-c)
-- [Dependency](../core_05c_continuity_definitions.md#dependency) · [O](../core_05c_continuity_definitions.md#dependency) · [A](../core_05c_continuity_definitions.md#dependency-a) · [C](../core_05c_continuity_definitions.md#dependency-c)
-- [Oversight](../core_05o_oversight_definitions.md#oversight-constitutional) · [O](../core_05o_oversight_definitions.md#oversight-constitutional) · [A](../core_05o_oversight_definitions.md#oversight-constitutional-a) · [C](../core_05o_oversight_definitions.md#oversight-constitutional-c)
-- [Material](../core_05o_oversight_definitions.md#material) · [O](../core_05o_oversight_definitions.md#material) · [A](../core_05o_oversight_definitions.md#material-a) · [C](../core_05o_oversight_definitions.md#material-c)
-- [Corpus](../core_05i_integrative_definitions.md#corpus) · [O](../core_05i_integrative_definitions.md#corpus) · [A](../core_05i_integrative_definitions.md#corpus-a) · [C](../core_05i_integrative_definitions.md#corpus-c)
-- [Accountability](../core_05a_accountability_definitions.md#accountability) · [O](../core_05a_accountability_definitions.md#accountability) · [A](../core_05a_accountability_definitions.md#accountability-a) · [C](../core_05a_accountability_definitions.md#accountability-c)
-- [System Capture](../core_05c_continuity_definitions.md#system-capture) · [O](../core_05c_continuity_definitions.md#system-capture) · [A](../core_05c_continuity_definitions.md#system-capture-a) · [C](../core_05c_continuity_definitions.md#system-capture-c)
+- [Evidence Preservation](../core_05defs_oversight.md#evidence-preservation) · [O](../core_05defs_oversight.md#evidence-preservation) · [A](../core_05defs_oversight.md#evidence-preservation-a) · [C](../core_05defs_oversight.md#evidence-preservation-c)
+- [Dependency](../core_05defs_continuity.md#dependency) · [O](../core_05defs_continuity.md#dependency) · [A](../core_05defs_continuity.md#dependency-a) · [C](../core_05defs_continuity.md#dependency-c)
+- [Oversight](../core_05apex_oversight_leg.md#oversight-constitutional) · [O](../core_05apex_oversight_leg.md#oversight-constitutional) · [A](../core_05apex_oversight_leg.md#oversight-constitutional-a) · [C](../core_05apex_oversight_leg.md#oversight-constitutional-c)
+- [Material](../core_05defs_oversight.md#material) · [O](../core_05defs_oversight.md#material) · [A](../core_05defs_oversight.md#material-a) · [C](../core_05defs_oversight.md#material-c)
+- [Corpus](../core_05defs_integrative.md#corpus) · [O](../core_05defs_integrative.md#corpus) · [A](../core_05defs_integrative.md#corpus-a) · [C](../core_05defs_integrative.md#corpus-c)
+- [Accountability](../core_05apex_accountability_leg.md#accountability) · [O](../core_05apex_accountability_leg.md#accountability) · [A](../core_05apex_accountability_leg.md#accountability-a) · [C](../core_05apex_accountability_leg.md#accountability-c)
+- [System Capture](../core_05defs_continuity.md#system-capture) · [O](../core_05defs_continuity.md#system-capture) · [A](../core_05defs_continuity.md#system-capture-a) · [C](../core_05defs_continuity.md#system-capture-c)
 
 </details>
 
@@ -130,13 +130,13 @@ Investigation must be institutionally separate from ordinary **local enforcement
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Material](../core_05o_oversight_definitions.md#material) · [O](../core_05o_oversight_definitions.md#material) · [A](../core_05o_oversight_definitions.md#material-a) · [C](../core_05o_oversight_definitions.md#material-c)
-- [Oversight](../core_05o_oversight_definitions.md#oversight-constitutional) · [O](../core_05o_oversight_definitions.md#oversight-constitutional) · [A](../core_05o_oversight_definitions.md#oversight-constitutional-a) · [C](../core_05o_oversight_definitions.md#oversight-constitutional-c)
-- [Evidence Preservation](../core_05o_oversight_definitions.md#evidence-preservation) · [O](../core_05o_oversight_definitions.md#evidence-preservation) · [A](../core_05o_oversight_definitions.md#evidence-preservation-a) · [C](../core_05o_oversight_definitions.md#evidence-preservation-c)
-- [Accountability](../core_05a_accountability_definitions.md#accountability) · [O](../core_05a_accountability_definitions.md#accountability) · [A](../core_05a_accountability_definitions.md#accountability-a) · [C](../core_05a_accountability_definitions.md#accountability-c)
-- [Transparency](../core_05o_oversight_definitions.md#transparency) · [O](../core_05o_oversight_definitions.md#transparency) · [A](../core_05o_oversight_definitions.md#transparency-a) · [C](../core_05o_oversight_definitions.md#transparency-c)
-- [Adjudication and Dispute Resolution](../core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional) · [A](../core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional-a) · [C](../core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional-c)
-- [Unified Record](../core_05a_accountability_definitions.md#unified-record) · [O](../core_05a_accountability_definitions.md#unified-record) · [A](../core_05a_accountability_definitions.md#unified-record-a) · [C](../core_05a_accountability_definitions.md#unified-record-c)
+- [Material](../core_05defs_oversight.md#material) · [O](../core_05defs_oversight.md#material) · [A](../core_05defs_oversight.md#material-a) · [C](../core_05defs_oversight.md#material-c)
+- [Oversight](../core_05apex_oversight_leg.md#oversight-constitutional) · [O](../core_05apex_oversight_leg.md#oversight-constitutional) · [A](../core_05apex_oversight_leg.md#oversight-constitutional-a) · [C](../core_05apex_oversight_leg.md#oversight-constitutional-c)
+- [Evidence Preservation](../core_05defs_oversight.md#evidence-preservation) · [O](../core_05defs_oversight.md#evidence-preservation) · [A](../core_05defs_oversight.md#evidence-preservation-a) · [C](../core_05defs_oversight.md#evidence-preservation-c)
+- [Accountability](../core_05apex_accountability_leg.md#accountability) · [O](../core_05apex_accountability_leg.md#accountability) · [A](../core_05apex_accountability_leg.md#accountability-a) · [C](../core_05apex_accountability_leg.md#accountability-c)
+- [Transparency](../core_05defs_oversight.md#transparency) · [O](../core_05defs_oversight.md#transparency) · [A](../core_05defs_oversight.md#transparency-a) · [C](../core_05defs_oversight.md#transparency-c)
+- [Adjudication and Dispute Resolution](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [A](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [C](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-c)
+- [Unified Record](../core_05defs_accountability.md#unified-record) · [O](../core_05defs_accountability.md#unified-record) · [A](../core_05defs_accountability.md#unified-record-a) · [C](../core_05defs_accountability.md#unified-record-c)
 
 </details>
 
@@ -172,13 +172,13 @@ Investigative or security-support providers must not:
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Oversight](../core_05o_oversight_definitions.md#oversight-constitutional) · [O](../core_05o_oversight_definitions.md#oversight-constitutional) · [A](../core_05o_oversight_definitions.md#oversight-constitutional-a) · [C](../core_05o_oversight_definitions.md#oversight-constitutional-c)
-- [Corpus](../core_05i_integrative_definitions.md#corpus) · [O](../core_05i_integrative_definitions.md#corpus) · [A](../core_05i_integrative_definitions.md#corpus-a) · [C](../core_05i_integrative_definitions.md#corpus-c)
-- [System](../core_05c_continuity_definitions.md#system-definition) · [O](../core_05c_continuity_definitions.md#system-definition) · [A](../core_05c_continuity_definitions.md#system-definition-a) · [C](../core_05c_continuity_definitions.md#system-definition-c)
-- [Forum Family, Constitutional](../core_05a_accountability_definitions.md#forum-family-constitutional) · [O](../core_05a_accountability_definitions.md#forum-family-constitutional) · [A](../core_05a_accountability_definitions.md#forum-family-constitutional-a) · [C](../core_05a_accountability_definitions.md#forum-family-constitutional-c)
-- [Forum Family, Institutional](../core_05a_accountability_definitions.md#forum-family-institutional) · [O](../core_05a_accountability_definitions.md#forum-family-institutional) · [A](../core_05a_accountability_definitions.md#forum-family-institutional-a) · [C](../core_05a_accountability_definitions.md#forum-family-institutional-c)
-- [Forum Family, Technical](../core_05a_accountability_definitions.md#forum-family-technical) · [O](../core_05a_accountability_definitions.md#forum-family-technical) · [A](../core_05a_accountability_definitions.md#forum-family-technical-a) · [C](../core_05a_accountability_definitions.md#forum-family-technical-c)
-- [Evidence Preservation](../core_05o_oversight_definitions.md#evidence-preservation) · [O](../core_05o_oversight_definitions.md#evidence-preservation) · [A](../core_05o_oversight_definitions.md#evidence-preservation-a) · [C](../core_05o_oversight_definitions.md#evidence-preservation-c)
+- [Oversight](../core_05apex_oversight_leg.md#oversight-constitutional) · [O](../core_05apex_oversight_leg.md#oversight-constitutional) · [A](../core_05apex_oversight_leg.md#oversight-constitutional-a) · [C](../core_05apex_oversight_leg.md#oversight-constitutional-c)
+- [Corpus](../core_05defs_integrative.md#corpus) · [O](../core_05defs_integrative.md#corpus) · [A](../core_05defs_integrative.md#corpus-a) · [C](../core_05defs_integrative.md#corpus-c)
+- [System](../core_05defs_continuity.md#system-definition) · [O](../core_05defs_continuity.md#system-definition) · [A](../core_05defs_continuity.md#system-definition-a) · [C](../core_05defs_continuity.md#system-definition-c)
+- [Forum Family, Constitutional](../core_05defs_accountability.md#forum-family-constitutional) · [O](../core_05defs_accountability.md#forum-family-constitutional) · [A](../core_05defs_accountability.md#forum-family-constitutional-a) · [C](../core_05defs_accountability.md#forum-family-constitutional-c)
+- [Forum Family, Institutional](../core_05defs_accountability.md#forum-family-institutional) · [O](../core_05defs_accountability.md#forum-family-institutional) · [A](../core_05defs_accountability.md#forum-family-institutional-a) · [C](../core_05defs_accountability.md#forum-family-institutional-c)
+- [Forum Family, Technical](../core_05defs_accountability.md#forum-family-technical) · [O](../core_05defs_accountability.md#forum-family-technical) · [A](../core_05defs_accountability.md#forum-family-technical-a) · [C](../core_05defs_accountability.md#forum-family-technical-c)
+- [Evidence Preservation](../core_05defs_oversight.md#evidence-preservation) · [O](../core_05defs_oversight.md#evidence-preservation) · [A](../core_05defs_oversight.md#evidence-preservation-a) · [C](../core_05defs_oversight.md#evidence-preservation-c)
 
 </details>
 
@@ -202,13 +202,13 @@ Where investigative, security-support, or enforcement-adjacent bodies exercise m
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Oversight](../core_05o_oversight_definitions.md#oversight-constitutional) · [O](../core_05o_oversight_definitions.md#oversight-constitutional) · [A](../core_05o_oversight_definitions.md#oversight-constitutional-a) · [C](../core_05o_oversight_definitions.md#oversight-constitutional-c)
-- [System](../core_05c_continuity_definitions.md#system-definition) · [O](../core_05c_continuity_definitions.md#system-definition) · [A](../core_05c_continuity_definitions.md#system-definition-a) · [C](../core_05c_continuity_definitions.md#system-definition-c)
-- [Evidence Preservation](../core_05o_oversight_definitions.md#evidence-preservation) · [O](../core_05o_oversight_definitions.md#evidence-preservation) · [A](../core_05o_oversight_definitions.md#evidence-preservation-a) · [C](../core_05o_oversight_definitions.md#evidence-preservation-c)
-- [Accountability](../core_05a_accountability_definitions.md#accountability) · [O](../core_05a_accountability_definitions.md#accountability) · [A](../core_05a_accountability_definitions.md#accountability-a) · [C](../core_05a_accountability_definitions.md#accountability-c)
-- [Incentive Alignment](../core_05i_integrative_definitions.md#incentive-alignment) · [O](../core_05i_integrative_definitions.md#incentive-alignment) · [A](../core_05i_integrative_definitions.md#incentive-alignment-a) · [C](../core_05i_integrative_definitions.md#incentive-alignment-c)
-- [Auditability](../core_05o_oversight_definitions.md#auditability) · [O](../core_05o_oversight_definitions.md#auditability) · [A](../core_05o_oversight_definitions.md#auditability-a) · [C](../core_05o_oversight_definitions.md#auditability-c)
-- [System Capture](../core_05c_continuity_definitions.md#system-capture) · [O](../core_05c_continuity_definitions.md#system-capture) · [A](../core_05c_continuity_definitions.md#system-capture-a) · [C](../core_05c_continuity_definitions.md#system-capture-c)
+- [Oversight](../core_05apex_oversight_leg.md#oversight-constitutional) · [O](../core_05apex_oversight_leg.md#oversight-constitutional) · [A](../core_05apex_oversight_leg.md#oversight-constitutional-a) · [C](../core_05apex_oversight_leg.md#oversight-constitutional-c)
+- [System](../core_05defs_continuity.md#system-definition) · [O](../core_05defs_continuity.md#system-definition) · [A](../core_05defs_continuity.md#system-definition-a) · [C](../core_05defs_continuity.md#system-definition-c)
+- [Evidence Preservation](../core_05defs_oversight.md#evidence-preservation) · [O](../core_05defs_oversight.md#evidence-preservation) · [A](../core_05defs_oversight.md#evidence-preservation-a) · [C](../core_05defs_oversight.md#evidence-preservation-c)
+- [Accountability](../core_05apex_accountability_leg.md#accountability) · [O](../core_05apex_accountability_leg.md#accountability) · [A](../core_05apex_accountability_leg.md#accountability-a) · [C](../core_05apex_accountability_leg.md#accountability-c)
+- [Incentive Alignment](../core_05defs_integrative.md#incentive-alignment) · [O](../core_05defs_integrative.md#incentive-alignment) · [A](../core_05defs_integrative.md#incentive-alignment-a) · [C](../core_05defs_integrative.md#incentive-alignment-c)
+- [Auditability](../core_05defs_oversight.md#auditability) · [O](../core_05defs_oversight.md#auditability) · [A](../core_05defs_oversight.md#auditability-a) · [C](../core_05defs_oversight.md#auditability-c)
+- [System Capture](../core_05defs_continuity.md#system-capture) · [O](../core_05defs_continuity.md#system-capture) · [A](../core_05defs_continuity.md#system-capture-a) · [C](../core_05defs_continuity.md#system-capture-c)
 
 </details>
 
@@ -235,13 +235,13 @@ Where investigative, security-support, or enforcement-adjacent bodies exercise m
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Primary-Stakes Routing](../core_05a_accountability_definitions.md#primary-stakes-routing) · [O](../core_05a_accountability_definitions.md#primary-stakes-routing) · [A](../core_05a_accountability_definitions.md#primary-stakes-routing-a) · [C](../core_05a_accountability_definitions.md#primary-stakes-routing-c)
-- [Oversight](../core_05o_oversight_definitions.md#oversight-constitutional) · [O](../core_05o_oversight_definitions.md#oversight-constitutional) · [A](../core_05o_oversight_definitions.md#oversight-constitutional-a) · [C](../core_05o_oversight_definitions.md#oversight-constitutional-c)
-- [Evidence Preservation](../core_05o_oversight_definitions.md#evidence-preservation) · [O](../core_05o_oversight_definitions.md#evidence-preservation) · [A](../core_05o_oversight_definitions.md#evidence-preservation-a) · [C](../core_05o_oversight_definitions.md#evidence-preservation-c)
-- [Accountability](../core_05a_accountability_definitions.md#accountability) · [O](../core_05a_accountability_definitions.md#accountability) · [A](../core_05a_accountability_definitions.md#accountability-a) · [C](../core_05a_accountability_definitions.md#accountability-c)
-- [System Capture](../core_05c_continuity_definitions.md#system-capture) · [O](../core_05c_continuity_definitions.md#system-capture) · [A](../core_05c_continuity_definitions.md#system-capture-a) · [C](../core_05c_continuity_definitions.md#system-capture-c)
-- [Forum Family, Technical](../core_05a_accountability_definitions.md#forum-family-technical) · [O](../core_05a_accountability_definitions.md#forum-family-technical) · [A](../core_05a_accountability_definitions.md#forum-family-technical-a) · [C](../core_05a_accountability_definitions.md#forum-family-technical-c)
-- [Transparency](../core_05o_oversight_definitions.md#transparency) · [O](../core_05o_oversight_definitions.md#transparency) · [A](../core_05o_oversight_definitions.md#transparency-a) · [C](../core_05o_oversight_definitions.md#transparency-c)
+- [Primary-Stakes Routing](../core_05defs_accountability.md#primary-stakes-routing) · [O](../core_05defs_accountability.md#primary-stakes-routing) · [A](../core_05defs_accountability.md#primary-stakes-routing-a) · [C](../core_05defs_accountability.md#primary-stakes-routing-c)
+- [Oversight](../core_05apex_oversight_leg.md#oversight-constitutional) · [O](../core_05apex_oversight_leg.md#oversight-constitutional) · [A](../core_05apex_oversight_leg.md#oversight-constitutional-a) · [C](../core_05apex_oversight_leg.md#oversight-constitutional-c)
+- [Evidence Preservation](../core_05defs_oversight.md#evidence-preservation) · [O](../core_05defs_oversight.md#evidence-preservation) · [A](../core_05defs_oversight.md#evidence-preservation-a) · [C](../core_05defs_oversight.md#evidence-preservation-c)
+- [Accountability](../core_05apex_accountability_leg.md#accountability) · [O](../core_05apex_accountability_leg.md#accountability) · [A](../core_05apex_accountability_leg.md#accountability-a) · [C](../core_05apex_accountability_leg.md#accountability-c)
+- [System Capture](../core_05defs_continuity.md#system-capture) · [O](../core_05defs_continuity.md#system-capture) · [A](../core_05defs_continuity.md#system-capture-a) · [C](../core_05defs_continuity.md#system-capture-c)
+- [Forum Family, Technical](../core_05defs_accountability.md#forum-family-technical) · [O](../core_05defs_accountability.md#forum-family-technical) · [A](../core_05defs_accountability.md#forum-family-technical-a) · [C](../core_05defs_accountability.md#forum-family-technical-c)
+- [Transparency](../core_05defs_oversight.md#transparency) · [O](../core_05defs_oversight.md#transparency) · [A](../core_05defs_oversight.md#transparency-a) · [C](../core_05defs_oversight.md#transparency-c)
 
 </details>
 
@@ -265,13 +265,13 @@ Where investigative, security-support, or enforcement-adjacent bodies exercise m
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Oversight](../core_05o_oversight_definitions.md#oversight-constitutional) · [O](../core_05o_oversight_definitions.md#oversight-constitutional) · [A](../core_05o_oversight_definitions.md#oversight-constitutional-a) · [C](../core_05o_oversight_definitions.md#oversight-constitutional-c)
-- [Evidence Preservation](../core_05o_oversight_definitions.md#evidence-preservation) · [O](../core_05o_oversight_definitions.md#evidence-preservation) · [A](../core_05o_oversight_definitions.md#evidence-preservation-a) · [C](../core_05o_oversight_definitions.md#evidence-preservation-c)
-- [Accountability](../core_05a_accountability_definitions.md#accountability) · [O](../core_05a_accountability_definitions.md#accountability) · [A](../core_05a_accountability_definitions.md#accountability-a) · [C](../core_05a_accountability_definitions.md#accountability-c)
-- [Incentive Alignment](../core_05i_integrative_definitions.md#incentive-alignment) · [O](../core_05i_integrative_definitions.md#incentive-alignment) · [A](../core_05i_integrative_definitions.md#incentive-alignment-a) · [C](../core_05i_integrative_definitions.md#incentive-alignment-c)
-- [System Capture](../core_05c_continuity_definitions.md#system-capture) · [O](../core_05c_continuity_definitions.md#system-capture) · [A](../core_05c_continuity_definitions.md#system-capture-a) · [C](../core_05c_continuity_definitions.md#system-capture-c)
-- [Adjudication and Dispute Resolution](../core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional) · [A](../core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional-a) · [C](../core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional-c)
-- [Procedural Fairness](../core_05p_participation_definitions.md#procedural-fairness-constitutional) · [O](../core_05p_participation_definitions.md#procedural-fairness-constitutional) · [A](../core_05p_participation_definitions.md#procedural-fairness-constitutional-a) · [C](../core_05p_participation_definitions.md#procedural-fairness-constitutional-c)
+- [Oversight](../core_05apex_oversight_leg.md#oversight-constitutional) · [O](../core_05apex_oversight_leg.md#oversight-constitutional) · [A](../core_05apex_oversight_leg.md#oversight-constitutional-a) · [C](../core_05apex_oversight_leg.md#oversight-constitutional-c)
+- [Evidence Preservation](../core_05defs_oversight.md#evidence-preservation) · [O](../core_05defs_oversight.md#evidence-preservation) · [A](../core_05defs_oversight.md#evidence-preservation-a) · [C](../core_05defs_oversight.md#evidence-preservation-c)
+- [Accountability](../core_05apex_accountability_leg.md#accountability) · [O](../core_05apex_accountability_leg.md#accountability) · [A](../core_05apex_accountability_leg.md#accountability-a) · [C](../core_05apex_accountability_leg.md#accountability-c)
+- [Incentive Alignment](../core_05defs_integrative.md#incentive-alignment) · [O](../core_05defs_integrative.md#incentive-alignment) · [A](../core_05defs_integrative.md#incentive-alignment-a) · [C](../core_05defs_integrative.md#incentive-alignment-c)
+- [System Capture](../core_05defs_continuity.md#system-capture) · [O](../core_05defs_continuity.md#system-capture) · [A](../core_05defs_continuity.md#system-capture-a) · [C](../core_05defs_continuity.md#system-capture-c)
+- [Adjudication and Dispute Resolution](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [A](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [C](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-c)
+- [Procedural Fairness](../core_05defs_participation.md#procedural-fairness-constitutional) · [O](../core_05defs_participation.md#procedural-fairness-constitutional) · [A](../core_05defs_participation.md#procedural-fairness-constitutional-a) · [C](../core_05defs_participation.md#procedural-fairness-constitutional-c)
 
 </details>
 
@@ -295,20 +295,20 @@ If the allegations materially involve **local enforcement**, **constitutional en
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Evidence Preservation](../core_05o_oversight_definitions.md#evidence-preservation) · [O](../core_05o_oversight_definitions.md#evidence-preservation) · [A](../core_05o_oversight_definitions.md#evidence-preservation-a) · [C](../core_05o_oversight_definitions.md#evidence-preservation-c)
-- [Proportionality](../core_05a_accountability_definitions.md#proportionality) · [O](../core_05a_accountability_definitions.md#proportionality) · [A](../core_05a_accountability_definitions.md#proportionality-a) · [C](../core_05a_accountability_definitions.md#proportionality-c)
-- [Accountability](../core_05a_accountability_definitions.md#accountability) · [O](../core_05a_accountability_definitions.md#accountability) · [A](../core_05a_accountability_definitions.md#accountability-a) · [C](../core_05a_accountability_definitions.md#accountability-c)
-- [Transparency](../core_05o_oversight_definitions.md#transparency) · [O](../core_05o_oversight_definitions.md#transparency) · [A](../core_05o_oversight_definitions.md#transparency-a) · [C](../core_05o_oversight_definitions.md#transparency-c)
-- [Necessity](../core_05a_accountability_definitions.md#necessity) · [O](../core_05a_accountability_definitions.md#necessity) · [A](../core_05a_accountability_definitions.md#necessity-a) · [C](../core_05a_accountability_definitions.md#necessity-c)
-- [Oversight](../core_05o_oversight_definitions.md#oversight-constitutional) · [O](../core_05o_oversight_definitions.md#oversight-constitutional) · [A](../core_05o_oversight_definitions.md#oversight-constitutional-a) · [C](../core_05o_oversight_definitions.md#oversight-constitutional-c)
-- [Material](../core_05o_oversight_definitions.md#material) · [O](../core_05o_oversight_definitions.md#material) · [A](../core_05o_oversight_definitions.md#material-a) · [C](../core_05o_oversight_definitions.md#material-c)
+- [Evidence Preservation](../core_05defs_oversight.md#evidence-preservation) · [O](../core_05defs_oversight.md#evidence-preservation) · [A](../core_05defs_oversight.md#evidence-preservation-a) · [C](../core_05defs_oversight.md#evidence-preservation-c)
+- [Proportionality](../core_05defs_accountability.md#proportionality) · [O](../core_05defs_accountability.md#proportionality) · [A](../core_05defs_accountability.md#proportionality-a) · [C](../core_05defs_accountability.md#proportionality-c)
+- [Accountability](../core_05apex_accountability_leg.md#accountability) · [O](../core_05apex_accountability_leg.md#accountability) · [A](../core_05apex_accountability_leg.md#accountability-a) · [C](../core_05apex_accountability_leg.md#accountability-c)
+- [Transparency](../core_05defs_oversight.md#transparency) · [O](../core_05defs_oversight.md#transparency) · [A](../core_05defs_oversight.md#transparency-a) · [C](../core_05defs_oversight.md#transparency-c)
+- [Necessity](../core_05defs_accountability.md#necessity) · [O](../core_05defs_accountability.md#necessity) · [A](../core_05defs_accountability.md#necessity-a) · [C](../core_05defs_accountability.md#necessity-c)
+- [Oversight](../core_05apex_oversight_leg.md#oversight-constitutional) · [O](../core_05apex_oversight_leg.md#oversight-constitutional) · [A](../core_05apex_oversight_leg.md#oversight-constitutional-a) · [C](../core_05apex_oversight_leg.md#oversight-constitutional-c)
+- [Material](../core_05defs_oversight.md#material) · [O](../core_05defs_oversight.md#material) · [A](../core_05defs_oversight.md#material-a) · [C](../core_05defs_oversight.md#material-c)
 
 </details>
 
 <br>
 
 
-Investigations sometimes need restrictions, delayed notice, sealed steps, compartmentalization, or special handling of protected activity. Those measures remain governed by `core_06-06_rights_part_c.md` **Article XIII-A** (*Security, Intelligence, and Covert-Power Limits*), **Chapter Five** (*Necessity*, *Proportionality*, *Oversight*, *Accountability*, *Transparency*), [Evidence Preservation](../core_05o_oversight_definitions.md#evidence-preservation), and any applicable secrecy-implementation rules.
+Investigations sometimes need restrictions, delayed notice, sealed steps, compartmentalization, or special handling of protected activity. Those measures remain governed by `core_06-06_rights_part_c.md` **Article XIII-A** (*Security, Intelligence, and Covert-Power Limits*), **Chapter Five** (*Necessity*, *Proportionality*, *Oversight*, *Accountability*, *Transparency*), [Evidence Preservation](../core_05defs_oversight.md#evidence-preservation), and any applicable secrecy-implementation rules.
 
 CF-9 adds a forum-interface record rule. When a secrecy-constrained or intrusive measure is requested, authorized, reviewed, renewed, narrowed, or found defective, the record must explain:
 - the lawful objective;
@@ -331,13 +331,13 @@ CF-9 adds a forum-interface record rule. When a secrecy-constrained or intrusive
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Oversight](../core_05o_oversight_definitions.md#oversight-constitutional) · [O](../core_05o_oversight_definitions.md#oversight-constitutional) · [A](../core_05o_oversight_definitions.md#oversight-constitutional-a) · [C](../core_05o_oversight_definitions.md#oversight-constitutional-c)
-- [Material](../core_05o_oversight_definitions.md#material) · [O](../core_05o_oversight_definitions.md#material) · [A](../core_05o_oversight_definitions.md#material-a) · [C](../core_05o_oversight_definitions.md#material-c)
-- [Sentient](../core_05p_participation_definitions.md#sentient-composite) · [O](../core_05p_participation_definitions.md#sentient-composite) · [A](../core_05p_participation_definitions.md#sentient-composite-a) · [C](../core_05i_integrative_definitions.md#sentient-composite-c)
-- [Systemic](../core_05a_accountability_definitions.md#systemic) · [O](../core_05a_accountability_definitions.md#systemic) · [A](../core_05c_continuity_definitions.md#systemic-a) · [C](../core_05c_continuity_definitions.md#systemic-c)
-- [Corpus](../core_05i_integrative_definitions.md#corpus) · [O](../core_05i_integrative_definitions.md#corpus) · [A](../core_05i_integrative_definitions.md#corpus-a) · [C](../core_05i_integrative_definitions.md#corpus-c)
-- [Evidence Preservation](../core_05o_oversight_definitions.md#evidence-preservation) · [O](../core_05o_oversight_definitions.md#evidence-preservation) · [A](../core_05o_oversight_definitions.md#evidence-preservation-a) · [C](../core_05o_oversight_definitions.md#evidence-preservation-c)
-- [Accountability](../core_05a_accountability_definitions.md#accountability) · [O](../core_05a_accountability_definitions.md#accountability) · [A](../core_05a_accountability_definitions.md#accountability-a) · [C](../core_05a_accountability_definitions.md#accountability-c)
+- [Oversight](../core_05apex_oversight_leg.md#oversight-constitutional) · [O](../core_05apex_oversight_leg.md#oversight-constitutional) · [A](../core_05apex_oversight_leg.md#oversight-constitutional-a) · [C](../core_05apex_oversight_leg.md#oversight-constitutional-c)
+- [Material](../core_05defs_oversight.md#material) · [O](../core_05defs_oversight.md#material) · [A](../core_05defs_oversight.md#material-a) · [C](../core_05defs_oversight.md#material-c)
+- [Sentient](../core_05defs_participation.md#sentient-composite) · [O](../core_05defs_participation.md#sentient-composite) · [A](../core_05defs_participation.md#sentient-composite-a) · [C](../core_05defs_integrative.md#sentient-composite-c)
+- [Systemic](../core_05defs_accountability.md#systemic) · [O](../core_05defs_accountability.md#systemic) · [A](../core_05defs_continuity.md#systemic-a) · [C](../core_05defs_continuity.md#systemic-c)
+- [Corpus](../core_05defs_integrative.md#corpus) · [O](../core_05defs_integrative.md#corpus) · [A](../core_05defs_integrative.md#corpus-a) · [C](../core_05defs_integrative.md#corpus-c)
+- [Evidence Preservation](../core_05defs_oversight.md#evidence-preservation) · [O](../core_05defs_oversight.md#evidence-preservation) · [A](../core_05defs_oversight.md#evidence-preservation-a) · [C](../core_05defs_oversight.md#evidence-preservation-c)
+- [Accountability](../core_05apex_accountability_leg.md#accountability) · [O](../core_05apex_accountability_leg.md#accountability) · [A](../core_05apex_accountability_leg.md#accountability-a) · [C](../core_05apex_accountability_leg.md#accountability-c)
 
 </details>
 

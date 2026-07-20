@@ -12,13 +12,13 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Contestability](../core_05a_accountability_definitions.md#contestability) · [O](../core_05a_accountability_definitions.md#contestability) · [A](../core_05a_accountability_definitions.md#contestability-a) · [C](../core_05a_accountability_definitions.md#contestability-c)
-- [Reversibility](../core_05c_continuity_definitions.md#reversibility-constitutional) · [O](../core_05c_continuity_definitions.md#reversibility-constitutional) · [A](../core_05c_continuity_definitions.md#reversibility-constitutional-a) · [C](../core_05c_continuity_definitions.md#reversibility-constitutional-c)
-- [Governance](../core_05a_accountability_definitions.md#governance) · [O](../core_05a_accountability_definitions.md#governance) · [A](../core_05a_accountability_definitions.md#governance-a) · [C](../core_05a_accountability_definitions.md#governance-c)
-- [Oversight](../core_05o_oversight_definitions.md#oversight-constitutional) · [O](../core_05o_oversight_definitions.md#oversight-constitutional) · [A](../core_05o_oversight_definitions.md#oversight-constitutional-a) · [C](../core_05o_oversight_definitions.md#oversight-constitutional-c)
-- [Material](../core_05o_oversight_definitions.md#material) · [O](../core_05o_oversight_definitions.md#material) · [A](../core_05o_oversight_definitions.md#material-a) · [C](../core_05o_oversight_definitions.md#material-c)
-- [Sentient](../core_05p_participation_definitions.md#sentient-composite) · [O](../core_05p_participation_definitions.md#sentient-composite) · [A](../core_05p_participation_definitions.md#sentient-composite-a) · [C](../core_05i_integrative_definitions.md#sentient-composite-c)
-- [Corpus](../core_05i_integrative_definitions.md#corpus) · [O](../core_05i_integrative_definitions.md#corpus) · [A](../core_05i_integrative_definitions.md#corpus-a) · [C](../core_05i_integrative_definitions.md#corpus-c)
+- [Contestability](../core_05defs_accountability.md#contestability) · [O](../core_05defs_accountability.md#contestability) · [A](../core_05defs_accountability.md#contestability-a) · [C](../core_05defs_accountability.md#contestability-c)
+- [Reversibility](../core_05defs_continuity.md#reversibility-constitutional) · [O](../core_05defs_continuity.md#reversibility-constitutional) · [A](../core_05defs_continuity.md#reversibility-constitutional-a) · [C](../core_05defs_continuity.md#reversibility-constitutional-c)
+- [Governance](../core_05defs_accountability.md#governance) · [O](../core_05defs_accountability.md#governance) · [A](../core_05defs_accountability.md#governance-a) · [C](../core_05defs_accountability.md#governance-c)
+- [Oversight](../core_05apex_oversight_leg.md#oversight-constitutional) · [O](../core_05apex_oversight_leg.md#oversight-constitutional) · [A](../core_05apex_oversight_leg.md#oversight-constitutional-a) · [C](../core_05apex_oversight_leg.md#oversight-constitutional-c)
+- [Material](../core_05defs_oversight.md#material) · [O](../core_05defs_oversight.md#material) · [A](../core_05defs_oversight.md#material-a) · [C](../core_05defs_oversight.md#material-c)
+- [Sentient](../core_05defs_participation.md#sentient-composite) · [O](../core_05defs_participation.md#sentient-composite) · [A](../core_05defs_participation.md#sentient-composite-a) · [C](../core_05defs_integrative.md#sentient-composite-c)
+- [Corpus](../core_05defs_integrative.md#corpus) · [O](../core_05defs_integrative.md#corpus) · [A](../core_05defs_integrative.md#corpus-a) · [C](../core_05defs_integrative.md#corpus-c)
 
 </details>
 
@@ -74,13 +74,13 @@ Each institution in scope must name and maintain locally:
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Contestability](../core_05a_accountability_definitions.md#contestability) · [O](../core_05a_accountability_definitions.md#contestability) · [A](../core_05a_accountability_definitions.md#contestability-a) · [C](../core_05a_accountability_definitions.md#contestability-c)
-- [Governance](../core_05a_accountability_definitions.md#governance) · [O](../core_05a_accountability_definitions.md#governance) · [A](../core_05a_accountability_definitions.md#governance-a) · [C](../core_05a_accountability_definitions.md#governance-c)
-- [Material](../core_05o_oversight_definitions.md#material) · [O](../core_05o_oversight_definitions.md#material) · [A](../core_05o_oversight_definitions.md#material-a) · [C](../core_05o_oversight_definitions.md#material-c)
-- [Sentient](../core_05p_participation_definitions.md#sentient-composite) · [O](../core_05p_participation_definitions.md#sentient-composite) · [A](../core_05p_participation_definitions.md#sentient-composite-a) · [C](../core_05i_integrative_definitions.md#sentient-composite-c)
-- [Corpus](../core_05i_integrative_definitions.md#corpus) · [O](../core_05i_integrative_definitions.md#corpus) · [A](../core_05i_integrative_definitions.md#corpus-a) · [C](../core_05i_integrative_definitions.md#corpus-c)
-- [System](../core_05c_continuity_definitions.md#system-definition) · [O](../core_05c_continuity_definitions.md#system-definition) · [A](../core_05c_continuity_definitions.md#system-definition-a) · [C](../core_05c_continuity_definitions.md#system-definition-c)
-- [Reversibility](../core_05c_continuity_definitions.md#reversibility-constitutional) · [O](../core_05c_continuity_definitions.md#reversibility-constitutional) · [A](../core_05c_continuity_definitions.md#reversibility-constitutional-a) · [C](../core_05c_continuity_definitions.md#reversibility-constitutional-c)
+- [Contestability](../core_05defs_accountability.md#contestability) · [O](../core_05defs_accountability.md#contestability) · [A](../core_05defs_accountability.md#contestability-a) · [C](../core_05defs_accountability.md#contestability-c)
+- [Governance](../core_05defs_accountability.md#governance) · [O](../core_05defs_accountability.md#governance) · [A](../core_05defs_accountability.md#governance-a) · [C](../core_05defs_accountability.md#governance-c)
+- [Material](../core_05defs_oversight.md#material) · [O](../core_05defs_oversight.md#material) · [A](../core_05defs_oversight.md#material-a) · [C](../core_05defs_oversight.md#material-c)
+- [Sentient](../core_05defs_participation.md#sentient-composite) · [O](../core_05defs_participation.md#sentient-composite) · [A](../core_05defs_participation.md#sentient-composite-a) · [C](../core_05defs_integrative.md#sentient-composite-c)
+- [Corpus](../core_05defs_integrative.md#corpus) · [O](../core_05defs_integrative.md#corpus) · [A](../core_05defs_integrative.md#corpus-a) · [C](../core_05defs_integrative.md#corpus-c)
+- [System](../core_05defs_continuity.md#system-definition) · [O](../core_05defs_continuity.md#system-definition) · [A](../core_05defs_continuity.md#system-definition-a) · [C](../core_05defs_continuity.md#system-definition-c)
+- [Reversibility](../core_05defs_continuity.md#reversibility-constitutional) · [O](../core_05defs_continuity.md#reversibility-constitutional) · [A](../core_05defs_continuity.md#reversibility-constitutional-a) · [C](../core_05defs_continuity.md#reversibility-constitutional-c)
 
 </details>
 
@@ -118,13 +118,13 @@ For **Class A**, **Class B**, and **Critical System Steward** scope, connect to 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Evidence Preservation](../core_05o_oversight_definitions.md#evidence-preservation) · [O](../core_05o_oversight_definitions.md#evidence-preservation) · [A](../core_05o_oversight_definitions.md#evidence-preservation-a) · [C](../core_05o_oversight_definitions.md#evidence-preservation-c)
-- [Accountability](../core_05a_accountability_definitions.md#accountability) · [O](../core_05a_accountability_definitions.md#accountability) · [A](../core_05a_accountability_definitions.md#accountability-a) · [C](../core_05a_accountability_definitions.md#accountability-c)
-- [Stakeholder](../core_05p_participation_definitions.md#stakeholder) · [O](../core_05p_participation_definitions.md#stakeholder) · [A](../core_05p_participation_definitions.md#stakeholder-a) · [C](../core_05p_participation_definitions.md#stakeholder-c)
-- [Oversight](../core_05o_oversight_definitions.md#oversight-constitutional) · [O](../core_05o_oversight_definitions.md#oversight-constitutional) · [A](../core_05o_oversight_definitions.md#oversight-constitutional-a) · [C](../core_05o_oversight_definitions.md#oversight-constitutional-c)
-- [Reversibility](../core_05c_continuity_definitions.md#reversibility-constitutional) · [O](../core_05c_continuity_definitions.md#reversibility-constitutional) · [A](../core_05c_continuity_definitions.md#reversibility-constitutional-a) · [C](../core_05c_continuity_definitions.md#reversibility-constitutional-c)
-- [Emergency and Contingency](../core_05c_continuity_definitions.md#emergency-and-contingency-constitutional) · [O](../core_05c_continuity_definitions.md#emergency-and-contingency-constitutional) · [A](../core_05c_continuity_definitions.md#emergency-and-contingency-constitutional-a) · [C](../core_05c_continuity_definitions.md#emergency-and-contingency-constitutional-c)
-- [Constitutional Constraint Violation](../core_05i_integrative_definitions.md#constitutional-constraint-violation) · [O](../core_05i_integrative_definitions.md#constitutional-constraint-violation) · [A](../core_05i_integrative_definitions.md#constitutional-constraint-violation-a) · [C](../core_05i_integrative_definitions.md#constitutional-constraint-violation-c)
+- [Evidence Preservation](../core_05defs_oversight.md#evidence-preservation) · [O](../core_05defs_oversight.md#evidence-preservation) · [A](../core_05defs_oversight.md#evidence-preservation-a) · [C](../core_05defs_oversight.md#evidence-preservation-c)
+- [Accountability](../core_05apex_accountability_leg.md#accountability) · [O](../core_05apex_accountability_leg.md#accountability) · [A](../core_05apex_accountability_leg.md#accountability-a) · [C](../core_05apex_accountability_leg.md#accountability-c)
+- [Stakeholder](../core_05defs_participation.md#stakeholder) · [O](../core_05defs_participation.md#stakeholder) · [A](../core_05defs_participation.md#stakeholder-a) · [C](../core_05defs_participation.md#stakeholder-c)
+- [Oversight](../core_05apex_oversight_leg.md#oversight-constitutional) · [O](../core_05apex_oversight_leg.md#oversight-constitutional) · [A](../core_05apex_oversight_leg.md#oversight-constitutional-a) · [C](../core_05apex_oversight_leg.md#oversight-constitutional-c)
+- [Reversibility](../core_05defs_continuity.md#reversibility-constitutional) · [O](../core_05defs_continuity.md#reversibility-constitutional) · [A](../core_05defs_continuity.md#reversibility-constitutional-a) · [C](../core_05defs_continuity.md#reversibility-constitutional-c)
+- [Emergency and Contingency](../core_05defs_continuity.md#emergency-and-contingency-constitutional) · [O](../core_05defs_continuity.md#emergency-and-contingency-constitutional) · [A](../core_05defs_continuity.md#emergency-and-contingency-constitutional-a) · [C](../core_05defs_continuity.md#emergency-and-contingency-constitutional-c)
+- [Constitutional Constraint Violation](../core_05defs_integrative.md#constitutional-constraint-violation) · [O](../core_05defs_integrative.md#constitutional-constraint-violation) · [A](../core_05defs_integrative.md#constitutional-constraint-violation-a) · [C](../core_05defs_integrative.md#constitutional-constraint-violation-c)
 
 </details>
 
@@ -139,7 +139,7 @@ For **Class A**, **Class B**, and **Critical System Steward** scope, connect to 
 Institutions must publish which of the following apply in scope, with local procedure links:
 
 - **Compliance-linked deprivation** — seizure, impoundment, quarantine, or disposition tied to a **Chapter Eight**-consistent or equivalent binding finding of non-compliance with applicable rules, with notice and contest paths as **Article XXVI-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) requires.
-- **Remedial containment** — proportionate holding or restriction to stop ongoing harm, preserve evidence under [Evidence Preservation](../core_05o_oversight_definitions.md#evidence-preservation), or prevent flight of assets, distinguished from retaliatory economic stripping.
+- **Remedial containment** — proportionate holding or restriction to stop ongoing harm, preserve evidence under [Evidence Preservation](../core_05defs_oversight.md#evidence-preservation), or prevent flight of assets, distinguished from retaliatory economic stripping.
 - **Voluntary turnover incentive** — time-bounded, published incentive for good-faith voluntary transfer or verified reporting that enables lawful remediation, with **Article XXVI-B** (*Transitional Authority Limits and Reauthorization*) reauthorization rules.
 
 **Non-compliant examples (illustrative)** — institutions must treat the following as out of scope or requiring immediate remediation design:
@@ -179,10 +179,10 @@ Institutions must publish or provide stakeholder-facing summaries on a fixed cad
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Evidence Preservation](../core_05o_oversight_definitions.md#evidence-preservation) · [O](../core_05o_oversight_definitions.md#evidence-preservation) · [A](../core_05o_oversight_definitions.md#evidence-preservation-a) · [C](../core_05o_oversight_definitions.md#evidence-preservation-c)
-- [Necessity](../core_05a_accountability_definitions.md#necessity) · [O](../core_05a_accountability_definitions.md#necessity) · [A](../core_05a_accountability_definitions.md#necessity-a) · [C](../core_05a_accountability_definitions.md#necessity-c)
-- [Proportionality](../core_05a_accountability_definitions.md#proportionality) · [O](../core_05a_accountability_definitions.md#proportionality) · [A](../core_05a_accountability_definitions.md#proportionality-a) · [C](../core_05a_accountability_definitions.md#proportionality-c)
-- [Substantive Fairness](../core_05p_participation_definitions.md#substantive-fairness-constitutional) · [O](../core_05p_participation_definitions.md#substantive-fairness-constitutional) · [A](../core_05p_participation_definitions.md#substantive-fairness-constitutional-a) · [C](../core_05p_participation_definitions.md#substantive-fairness-constitutional-c)
+- [Evidence Preservation](../core_05defs_oversight.md#evidence-preservation) · [O](../core_05defs_oversight.md#evidence-preservation) · [A](../core_05defs_oversight.md#evidence-preservation-a) · [C](../core_05defs_oversight.md#evidence-preservation-c)
+- [Necessity](../core_05defs_accountability.md#necessity) · [O](../core_05defs_accountability.md#necessity) · [A](../core_05defs_accountability.md#necessity-a) · [C](../core_05defs_accountability.md#necessity-c)
+- [Proportionality](../core_05defs_accountability.md#proportionality) · [O](../core_05defs_accountability.md#proportionality) · [A](../core_05defs_accountability.md#proportionality-a) · [C](../core_05defs_accountability.md#proportionality-c)
+- [Substantive Fairness](../core_05defs_participation.md#substantive-fairness-constitutional) · [O](../core_05defs_participation.md#substantive-fairness-constitutional) · [A](../core_05defs_participation.md#substantive-fairness-constitutional-a) · [C](../core_05defs_participation.md#substantive-fairness-constitutional-c)
 
 </details>
 
@@ -210,9 +210,9 @@ A **documented transition plan** under **Article XXVI-A** (*Phased Adoption and 
 
 **Notice and contest:** Prompt notice, stated reasons, and a practicable contest path must be provided as soon as feasible consistent with harm prevention and evidence integrity.
 
-**Remedial vs. restrictive standards:** **Remedial containment** to stop harm, restore shared integrity, or preserve evidence under [Evidence Preservation](../core_05o_oversight_definitions.md#evidence-preservation) is judged under remedial standards. A deprivation or restriction whose primary effect exceeds remediation, restitution, preservation, or forward protection triggers **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*) and **Article XXIII-C** (*Least-Restrictive and Time-Bounded Rule*) as stated in **Article XXVI-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*).
+**Remedial vs. restrictive standards:** **Remedial containment** to stop harm, restore shared integrity, or preserve evidence under [Evidence Preservation](../core_05defs_oversight.md#evidence-preservation) is judged under remedial standards. A deprivation or restriction whose primary effect exceeds remediation, restitution, preservation, or forward protection triggers **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*) and **Article XXIII-C** (*Least-Restrictive and Time-Bounded Rule*) as stated in **Article XXVI-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*).
 
-**Anti-pretext safeguards:** Institutions must maintain safeguards against **discriminatory**, **pretextual**, or **selective** enforcement under **Articles V-B** and **IV-B** and [Substantive Fairness](../core_05p_participation_definitions.md#substantive-fairness-constitutional).
+**Anti-pretext safeguards:** Institutions must maintain safeguards against **discriminatory**, **pretextual**, or **selective** enforcement under **Articles V-B** and **IV-B** and [Substantive Fairness](../core_05defs_participation.md#substantive-fairness-constitutional).
 
 **Heightened threshold for destructive disposition:** **Permanent forfeiture**, **destructive disposition**, or **broad economic stripping** requires:
 

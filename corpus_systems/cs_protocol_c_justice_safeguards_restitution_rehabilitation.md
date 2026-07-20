@@ -2,7 +2,7 @@
 
 Constitutional tracing: This protocol implements Sentient Constitution Chapter Six, **Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*). **It** also implements **Sentient Constitution Chapter Eight** (compliance, violation, and standing model) and `corpus_joint_structure.md` **CJS-5.13** (implementation and cross-implementation procedural integrity and adjudication terms), read with **corpus_joint_structure.md CJS-5.13** (*procedural integrity and adjudication terms*). **It** operationalizes the justice objective that interventions remain safety-protective, restitution-oriented, rehabilitation-capable where feasible, and accountability-grounded.
 
-**It does** **not** create substitute rights or narrow [Constitutional Constraints](../core_05i_integrative_definitions.md#constitutional-constraint).
+**It does** **not** create substitute rights or narrow [Constitutional Constraints](../core_05defs_integrative.md#constitutional-constraint).
 
 ### 1. Scope and trigger
 This protocol applies when systems, institutions, or adjudicative bodies impose or maintain non-trivial restrictions.

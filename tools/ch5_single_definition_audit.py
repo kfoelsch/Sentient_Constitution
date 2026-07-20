@@ -25,7 +25,7 @@ _TOOLS = Path(__file__).resolve().parent
 if str(_TOOLS) not in sys.path:
     sys.path.insert(0, str(_TOOLS))
 
-from ch5_paths import CH5_ALL, CH5_INDEX as CH5_PART_A, CH5_BANDS
+from ch5_paths import CH5_ALL, CH5_INDEX as CH5_PART_A, CH5_BANDS, CH5_APEX
 
 HEADING_RE = re.compile(r"^(#{4,5})\s+(.+)$")
 ANCHOR_RE = re.compile(r'<a id="([^"]+)"></a>')
@@ -373,6 +373,12 @@ def audit(root: Path) -> list[str]:
             for row in directory_rows
             if row.list_name == "Definitions A-Z"
         }
+        apex_prefix = tuple(f"{name}#" for name in CH5_APEX)
+        actual_defs_leaves = {
+            (label, href)
+            for label, href in actual_defs
+            if not href.startswith(apex_prefix)
+        }
         expected_clusters = {(cluster.label, cluster.href) for cluster in clusters}
         actual_clusters = {
             (row.label, row.href)
@@ -381,7 +387,7 @@ def audit(root: Path) -> list[str]:
         }
         for label, href in sorted(expected_defs - actual_defs):
             violations.append(f"{CH5_PART_A}: missing definition directory row [{label}]({href})")
-        for label, href in sorted(actual_defs - expected_defs):
+        for label, href in sorted(actual_defs_leaves - expected_defs):
             violations.append(f"{CH5_PART_A}: extra definition directory row [{label}]({href})")
         for label, href in sorted(expected_clusters - actual_clusters):
             violations.append(f"{CH5_PART_A}: missing cluster directory row [{label}]({href})")

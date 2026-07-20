@@ -174,7 +174,7 @@ Adopted implementation may publish `C*` thresholds, `V(s)` weights, and keyed su
 
 - Upstream: [§3](#2-standing-records) (*standing records, verified-input gate, and no-offset bridge*); [§11](#31-slot-grammar-and-display-labels) (*slot grammar and display labels*); [Chapter One §8.2](#42-lequ-violation-calibration) (*violation LEQU calibration*); [Chapter One §8.1](#51-contribution-axis-bands-and-table-2) (*Contribution Axis rules and **Table 2***); [Chapter Nine §3.9](core_09-09_standing_integration.md#73-stackable-harm-and-conduct-descriptors-violation-nature-supplement) (*Violation Axis supplements*).
 - Downstream: [Chapter Nine §3](core_09-09_standing_integration.md#6-extended-axis-ii-legal-hybrid-duty-and-harm-descriptors) (*process / response character, hybrid, and duty material*); [Chapter Nine §4](core_09-09_standing_integration.md#8-cross-axis-coupling-and-escalation-constraints) (*standing integration and no-netting mechanics*); [Chapter Ten](core_10-10_misconduct.md#chapter-ten-anti-constitutional-misconduct) (*final Violation Axis **s = 7, 8, or 9** anti-constitutional misconduct assignment*).
-- Read with: [Supremacy and Enforceability](core_05i_integrative_definitions.md#supremacy-and-enforceability), [Constitutional Constraint Violation](core_05i_integrative_definitions.md#constitutional-constraint-violation), [Harm](core_05a_accountability_definitions.md#harm), and [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination).
+- Read with: [Supremacy and Enforceability](core_05defs_integrative.md#supremacy-and-enforceability), [Constitutional Constraint Violation](core_05defs_integrative.md#constitutional-constraint-violation), [Harm](core_05defs_accountability.md#harm), and [Materiality Determination](core_05defs_oversight.md#materiality-determination).
 - Triad leg(s): **accountability**. Primary aim(s): **Flourishing** and **Continuity**. [material stake](core_00_preamble.md#material-stake) scaling applies to severity and verification burden.
 
 </details>
@@ -182,11 +182,11 @@ Adopted implementation may publish `C*` thresholds, `V(s)` weights, and keyed su
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Harm](core_05a_accountability_definitions.md#harm) · [O](core_05a_accountability_definitions.md#harm) · [E](core_05a_accountability_definitions.md#harm-e) · [C](core_05a_accountability_definitions.md#harm-c)
-- [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination) · [O](core_05o_oversight_definitions.md#materiality-determination) · [E](core_05o_oversight_definitions.md#materiality-determination-e) · [C](core_05o_oversight_definitions.md#materiality-determination-c)
-- [Constitutional Constraint Violation](core_05i_integrative_definitions.md#constitutional-constraint-violation) · [O](core_05i_integrative_definitions.md#constitutional-constraint-violation) · [E](core_05i_integrative_definitions.md#constitutional-constraint-violation-e) · [C](core_05i_integrative_definitions.md#constitutional-constraint-violation-c)
-- [Coercion and Manipulation](core_05p_participation_definitions.md#coercion-and-manipulation-constitutional) · [O](core_05p_participation_definitions.md#coercion-and-manipulation-constitutional) · [E](core_05p_participation_definitions.md#coercion-and-manipulation-constitutional-e) · [C](core_05p_participation_definitions.md#coercion-and-manipulation-constitutional-c)
-- [Foreseeability Diligence](core_05o_oversight_definitions.md#foreseeability-diligence) · [O](core_05o_oversight_definitions.md#foreseeability-diligence) · [E](core_05o_oversight_definitions.md#foreseeability-diligence-e) · [C](core_05o_oversight_definitions.md#foreseeability-diligence-c)
+- [Harm](core_05defs_accountability.md#harm) · [O](core_05defs_accountability.md#harm) · [E](core_05defs_accountability.md#harm-e) · [C](core_05defs_accountability.md#harm-c)
+- [Materiality Determination](core_05defs_oversight.md#materiality-determination) · [O](core_05defs_oversight.md#materiality-determination) · [E](core_05defs_oversight.md#materiality-determination-e) · [C](core_05defs_oversight.md#materiality-determination-c)
+- [Constitutional Constraint Violation](core_05defs_integrative.md#constitutional-constraint-violation) · [O](core_05defs_integrative.md#constitutional-constraint-violation) · [E](core_05defs_integrative.md#constitutional-constraint-violation-e) · [C](core_05defs_integrative.md#constitutional-constraint-violation-c)
+- [Coercion and Manipulation](core_05defs_participation.md#coercion-and-manipulation-constitutional) · [O](core_05defs_participation.md#coercion-and-manipulation-constitutional) · [E](core_05defs_participation.md#coercion-and-manipulation-constitutional-e) · [C](core_05defs_participation.md#coercion-and-manipulation-constitutional-c)
+- [Foreseeability Diligence](core_05defs_oversight.md#foreseeability-diligence) · [O](core_05defs_oversight.md#foreseeability-diligence) · [E](core_05defs_oversight.md#foreseeability-diligence-e) · [C](core_05defs_oversight.md#foreseeability-diligence-c)
 
 </details>
 

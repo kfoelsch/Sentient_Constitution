@@ -11,13 +11,13 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Sustained High-Gravity Pattern](../core_05a_accountability_definitions.md#sustained-high-gravity-pattern) · [O](../core_05a_accountability_definitions.md#sustained-high-gravity-pattern) · [A](../core_05a_accountability_definitions.md#sustained-high-gravity-pattern-a) · [C](../core_05a_accountability_definitions.md#sustained-high-gravity-pattern-c)
-- [Accountability](../core_05a_accountability_definitions.md#accountability) · [O](../core_05a_accountability_definitions.md#accountability) · [A](../core_05a_accountability_definitions.md#accountability-a) · [C](../core_05a_accountability_definitions.md#accountability-c)
-- [Transparency](../core_05o_oversight_definitions.md#transparency) · [O](../core_05o_oversight_definitions.md#transparency) · [A](../core_05o_oversight_definitions.md#transparency-a) · [C](../core_05o_oversight_definitions.md#transparency-c)
-- [Dependency](../core_05c_continuity_definitions.md#dependency) · [O](../core_05c_continuity_definitions.md#dependency) · [A](../core_05c_continuity_definitions.md#dependency-a) · [C](../core_05c_continuity_definitions.md#dependency-c)
-- [Governance](../core_05a_accountability_definitions.md#governance) · [O](../core_05a_accountability_definitions.md#governance) · [A](../core_05a_accountability_definitions.md#governance-a) · [C](../core_05a_accountability_definitions.md#governance-c)
-- [Material](../core_05o_oversight_definitions.md#material) · [O](../core_05o_oversight_definitions.md#material) · [A](../core_05o_oversight_definitions.md#material-a) · [C](../core_05o_oversight_definitions.md#material-c)
-- [Corpus](../core_05i_integrative_definitions.md#corpus) · [O](../core_05i_integrative_definitions.md#corpus) · [A](../core_05i_integrative_definitions.md#corpus-a) · [C](../core_05i_integrative_definitions.md#corpus-c)
+- [Sustained High-Gravity Pattern](../core_05defs_accountability.md#sustained-high-gravity-pattern) · [O](../core_05defs_accountability.md#sustained-high-gravity-pattern) · [A](../core_05defs_accountability.md#sustained-high-gravity-pattern-a) · [C](../core_05defs_accountability.md#sustained-high-gravity-pattern-c)
+- [Accountability](../core_05apex_accountability_leg.md#accountability) · [O](../core_05apex_accountability_leg.md#accountability) · [A](../core_05apex_accountability_leg.md#accountability-a) · [C](../core_05apex_accountability_leg.md#accountability-c)
+- [Transparency](../core_05defs_oversight.md#transparency) · [O](../core_05defs_oversight.md#transparency) · [A](../core_05defs_oversight.md#transparency-a) · [C](../core_05defs_oversight.md#transparency-c)
+- [Dependency](../core_05defs_continuity.md#dependency) · [O](../core_05defs_continuity.md#dependency) · [A](../core_05defs_continuity.md#dependency-a) · [C](../core_05defs_continuity.md#dependency-c)
+- [Governance](../core_05defs_accountability.md#governance) · [O](../core_05defs_accountability.md#governance) · [A](../core_05defs_accountability.md#governance-a) · [C](../core_05defs_accountability.md#governance-c)
+- [Material](../core_05defs_oversight.md#material) · [O](../core_05defs_oversight.md#material) · [A](../core_05defs_oversight.md#material-a) · [C](../core_05defs_oversight.md#material-c)
+- [Corpus](../core_05defs_integrative.md#corpus) · [O](../core_05defs_integrative.md#corpus) · [A](../core_05defs_integrative.md#corpus-a) · [C](../core_05defs_integrative.md#corpus-c)
 
 </details>
 
@@ -28,7 +28,7 @@
 **Quick orientation**
 
 - **When dissolution review is mandatory** — institutions with repeated, verified anti-constitutional misconduct must enter mandatory dissolution review.
-- **When alignment-supervision review is mandatory** — institutions that operate, supervise, hold a [Charter](../core_05c_continuity_definitions.md#charter) over, license, or materially control a chronically misaligned system enter review when an Integrity forum issues a final alignment ruling, withdraws recognition, imposes remediation conditions, or identifies sustained material misalignment under **Chapter Eleven**.
+- **When alignment-supervision review is mandatory** — institutions that operate, supervise, hold a [Charter](../core_05defs_continuity.md#charter) over, license, or materially control a chronically misaligned system enter review when an Integrity forum issues a final alignment ruling, withdraws recognition, imposes remediation conditions, or identifies sustained material misalignment under **Chapter Eleven**.
 - **Who keeps the official record** — the authoritative consequence record is an **Integrity forum lead record** under **CF-7**, not an institution-only file controlled by the subject institution.
 - **What the institution still must do** — name a consequence liaison, submit required materials on deadline, mirror the forum-held record without rewrite, propose continuity transfer for forum approval, and publish the personal-accountability boundary.
 - **What dissolution is not** — not a substitute for anti-constitutional-misconduct designation under **Chapter Ten** or ordinary personal accountability under constitutional law.

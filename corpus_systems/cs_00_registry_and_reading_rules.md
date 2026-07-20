@@ -10,10 +10,10 @@
 > **Edition and alignment**
 > - **Corpus edition:** `SC-Corpus-2026.04.33` · **Effective date:** 2026-04-24
 > - These labels track the same edition metadata as the numbered `core_*.md` files (see [README.md](../README.md)), [corpus_institutions.md](../corpus_institutions.md), [corpus_forum.md](../corpus_forum.md), and [corpus_joint_structure.md](../corpus_joint_structure.md).
-> - Edition and custody: [README.md](../README.md) and [Chapter Five *Corpus*](../core_05i_integrative_definitions.md#corpus).
+> - Edition and custody: [README.md](../README.md) and [Chapter Five *Corpus*](../core_05defs_integrative.md#corpus).
 >
 > **Status**
-> - This is **not** a core constitutional file. It is binding incorporated implementation text where [Chapter Five](../core_05i_integrative_definitions.md#corpus) and [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) designate it.
+> - This is **not** a core constitutional file. It is binding incorporated implementation text where [Chapter Five](../core_05defs_integrative.md#corpus) and [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) designate it.
 > - Prefer the filename **`corpus_systems.md`** in cross-references; the bare phrase *Constitutional Systems* is not used in corpus body text (see [tools/architecture/lexical_guardrails.json](../tools/architecture/lexical_guardrails.json)).
 > - The CS folder is written in plain language with low jargon to improve accessibility, audit readability, and practical adoption testing.
 >

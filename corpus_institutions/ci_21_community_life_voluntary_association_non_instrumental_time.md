@@ -11,13 +11,13 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Family and Care Relationships](../core_05p_participation_definitions.md#family-and-care-relationships-constitutional) · [O](../core_05p_participation_definitions.md#family-and-care-relationships-constitutional) · [A](../core_05p_participation_definitions.md#family-and-care-relationships-constitutional-a) · [C](../core_05p_participation_definitions.md#family-and-care-relationships-constitutional-c)
-- [Avoidable Burden](../core_05c_continuity_definitions.md#avoidable-burden) · [O](../core_05c_continuity_definitions.md#avoidable-burden) · [A](../core_05c_continuity_definitions.md#avoidable-burden-a) · [C](../core_05c_continuity_definitions.md#avoidable-burden-c)
-- [Contestability](../core_05a_accountability_definitions.md#contestability) · [O](../core_05a_accountability_definitions.md#contestability) · [A](../core_05a_accountability_definitions.md#contestability-a) · [C](../core_05a_accountability_definitions.md#contestability-c)
-- [Transparency](../core_05o_oversight_definitions.md#transparency) · [O](../core_05o_oversight_definitions.md#transparency) · [A](../core_05o_oversight_definitions.md#transparency-a) · [C](../core_05o_oversight_definitions.md#transparency-c)
-- [Expression](../core_05p_participation_definitions.md#expression-constitutional) · [O](../core_05p_participation_definitions.md#expression-constitutional) · [A](../core_05p_participation_definitions.md#expression-constitutional-a) · [C](../core_05p_participation_definitions.md#expression-constitutional-c)
-- [Governance](../core_05a_accountability_definitions.md#governance) · [O](../core_05a_accountability_definitions.md#governance) · [A](../core_05a_accountability_definitions.md#governance-a) · [C](../core_05a_accountability_definitions.md#governance-c)
-- [Necessity](../core_05a_accountability_definitions.md#necessity) · [O](../core_05a_accountability_definitions.md#necessity) · [A](../core_05a_accountability_definitions.md#necessity-a) · [C](../core_05a_accountability_definitions.md#necessity-c)
+- [Family and Care Relationships](../core_05defs_participation.md#family-and-care-relationships-constitutional) · [O](../core_05defs_participation.md#family-and-care-relationships-constitutional) · [A](../core_05defs_participation.md#family-and-care-relationships-constitutional-a) · [C](../core_05defs_participation.md#family-and-care-relationships-constitutional-c)
+- [Avoidable Burden](../core_05defs_continuity.md#avoidable-burden) · [O](../core_05defs_continuity.md#avoidable-burden) · [A](../core_05defs_continuity.md#avoidable-burden-a) · [C](../core_05defs_continuity.md#avoidable-burden-c)
+- [Contestability](../core_05defs_accountability.md#contestability) · [O](../core_05defs_accountability.md#contestability) · [A](../core_05defs_accountability.md#contestability-a) · [C](../core_05defs_accountability.md#contestability-c)
+- [Transparency](../core_05defs_oversight.md#transparency) · [O](../core_05defs_oversight.md#transparency) · [A](../core_05defs_oversight.md#transparency-a) · [C](../core_05defs_oversight.md#transparency-c)
+- [Expression](../core_05defs_participation.md#expression-constitutional) · [O](../core_05defs_participation.md#expression-constitutional) · [A](../core_05defs_participation.md#expression-constitutional-a) · [C](../core_05defs_participation.md#expression-constitutional-c)
+- [Governance](../core_05defs_accountability.md#governance) · [O](../core_05defs_accountability.md#governance) · [A](../core_05defs_accountability.md#governance-a) · [C](../core_05defs_accountability.md#governance-c)
+- [Necessity](../core_05defs_accountability.md#necessity) · [O](../core_05defs_accountability.md#necessity) · [A](../core_05defs_accountability.md#necessity-a) · [C](../core_05defs_accountability.md#necessity-c)
 
 </details>
 
@@ -41,7 +41,7 @@
 
 - **[CJS-5.7](../corpus_joint_structure.md)** (*quorum and participatory legitimacy terms*) — **Community and associational pathway integrity**: practical participation, freedom not to associate, freedom to leave coercive group settings, and protection against hostile-design exclusion in shared spaces, civic infrastructure, cultural gathering, peaceable assembly, recreation, and non-instrumental time.
 - **Article V-H** (*Expression, Assembly, and Press*) and **Article X-A** (*Non-Imposition and Consent in Association*) in **Chapter Six** — assembly, association, consent in cooperative ventures, harassment and bullying limits, and freedom of focus in relational settings.
-- **Chapter Five** — [Assembly](../core_05p_participation_definitions.md#assembly-constitutional), [Collective Organization](../core_05p_participation_definitions.md#collective-organization-constitutional), and [Non-Imposition (Cooperative Interaction)](../core_05p_participation_definitions.md#non-imposition-cooperative-interaction) where associational conduct is material.
+- **Chapter Five** — [Assembly](../core_05defs_participation.md#assembly-constitutional), [Collective Organization](../core_05defs_participation.md#collective-organization-constitutional), and [Non-Imposition (Cooperative Interaction)](../core_05defs_participation.md#non-imposition-cooperative-interaction) where associational conduct is material.
 - **CI-21 scope** — does not repeat those floors; states local stewardship, program, referral, and escalation owner duties.
 
 **Apply**

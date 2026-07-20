@@ -13,7 +13,22 @@ _TOOLS = Path(__file__).resolve().parent
 if str(_TOOLS) not in sys.path:
     sys.path.insert(0, str(_TOOLS))
 
-from ch5_paths import CH5_ALL  # noqa: E402
+from ch5_paths import CH5_ALL, CH5_APEX  # noqa: E402
+
+# Letter-form O/M/A/C heads (aims and Tetrad legs) live in apex files without #### titles.
+APEX_HEAD_LOCATORS: dict[str, tuple[str, str]] = {
+    "Flourishing": ("core_05apex_flourishing_aim.md", "flourishing-constitutional"),
+    "Continuity (Constitutional Aim)": (
+        "core_05apex_continuity_aim.md",
+        "continuity-aim-constitutional",
+    ),
+    "Oversight": ("core_05apex_oversight_leg.md", "oversight-constitutional"),
+    "Participation": ("core_05apex_participation_leg.md", "participation-constitutional"),
+    "Accountability": ("core_05apex_accountability_leg.md", "accountability"),
+    "Timeliness": ("core_05apex_accountability_leg.md", "timeliness-constitutional"),
+}
+
+LETTER_M_RE = re.compile(r"^- M:", re.MULTILINE)
 
 # Legacy interim marker (still valid for un-migrated terms).
 MEASUREMENTS_RE = re.compile(r"^\s*(?:-\s+)?\*Measurements:\*\s*$", re.MULTILINE)
@@ -97,6 +112,29 @@ def load_json(path: Path) -> dict:
     return json.loads(path.read_text(encoding="utf-8"))
 
 
+def extract_apex_omac_body(text: str, anchor: str) -> str | None:
+    """Extract letter O/M/A/C body following ``<a id="{anchor}">`` in an apex file."""
+    marker = f'<a id="{anchor}"></a>'
+    start = text.find(marker)
+    if start < 0:
+        return None
+    # Prefer the first letter O: block after the anchor.
+    o_match = re.search(r"^- O:", text[start:], re.MULTILINE)
+    if not o_match:
+        return None
+    body_start = start + o_match.start()
+    rest = text[body_start:]
+    # End at the first thematic break after the C: line.
+    c_match = re.search(r"^- C:.*$", rest, re.MULTILINE)
+    if not c_match:
+        return rest
+    after_c = rest[c_match.end() :]
+    hr = re.search(r"\n---\s*\n", after_c)
+    if hr:
+        return rest[: c_match.end() + hr.start()]
+    return rest[: c_match.end()]
+
+
 def extract_definition_body(text: str, term: str) -> str | None:
     lines = text.splitlines()
     for idx, raw in enumerate(lines):
@@ -112,10 +150,27 @@ def extract_definition_body(text: str, term: str) -> str | None:
                 break
             body.append(lines[j])
         return "\n".join(body)
+    # ## Timeliness (and similar apex co-leg heads)
+    for idx, raw in enumerate(lines):
+        if raw.strip() == f"## {term}":
+            body: list[str] = []
+            for j in range(idx + 1, len(lines)):
+                stripped = lines[j].strip()
+                if stripped.startswith("## ") or stripped.startswith("# "):
+                    break
+                body.append(lines[j])
+            return "\n".join(body)
     return None
 
 
 def find_term_body(root: Path, term: str, registry: dict) -> tuple[str, str] | None:
+    if term in APEX_HEAD_LOCATORS:
+        file_name, anchor = APEX_HEAD_LOCATORS[term]
+        path = root / file_name
+        if path.is_file():
+            body = extract_apex_omac_body(path.read_text(encoding="utf-8"), anchor)
+            if body:
+                return file_name, body
     for entry in registry.get("definitions", []):
         if entry.get("term") == term and entry.get("category") != "principle_layer":
             path = root / entry["source_file"]
@@ -134,6 +189,9 @@ def find_term_body(root: Path, term: str, registry: dict) -> tuple[str, str] | N
 
 def tier_checks(body: str, tier_depth: str) -> list[str]:
     errors: list[str] = []
+    # Apex aim/leg heads use letter-form ``- M:`` link-only rollups.
+    if LETTER_M_RE.search(body) and tier_depth == "primary_only":
+        return errors
     if not MEASUREMENTS_RE.search(body) and not PRIMARY_MEAS_RE.search(body):
         errors.append("missing measurement register (legacy *Measurements:* or M-Primary)")
         return errors

@@ -77,7 +77,7 @@ This chapter states which **forum families** **supervise** which primary questio
    - **Chapter Eight** Contribution and Violation records measured on the §7 unified proportional LEQU scale, character descriptors, and standing effect — verified findings may **open, update, or correct** standing records — or **set a bad record aside on challenge** — under [Chapter Eight §3](core_08-08_standing_assessment.md#3-standing-record-operational-requirements) when they satisfy the verified-input gate; a filed case is not standing by itself, and forum narrative must not substitute for Chapter Eight standing measurement ([Chapter Eight §3.6](core_08-08_standing_assessment.md#36-forum-boundary)).
    - **Chapter Nine** standing effects and integration where this chapter assigns forum supervision of remedy and sequencing.
    - **Chapter Ten** anti-constitutional-misconduct designation where that designation is at issue for a Chapter Eight slot 7–9 record.
-   - Application of **Chapters One through Six** and designated [corpus](core_05i_integrative_definitions.md#corpus) implementation layers as the norms those disputes apply.
+   - Application of **Chapters One through Six** and designated [corpus](core_05defs_integrative.md#corpus) implementation layers as the norms those disputes apply.
 
 2. **System Alignment Certification** ([Chapter Seven](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification))
    - Forum-supervised recognition, conditional recognition, validation, revalidation, withdrawal, and related certification-record outcomes under [Chapter Seven Part B](core_07_b_system_alignment_certification_record_process.md#chapter-seven-part-b-certification-record-and-process).
@@ -211,8 +211,8 @@ These rules limit how the table's default leads interact. They do not replace **
 #### 2.3 Forum case records, standing records, and contests
 
 **Forum case records and standing records.**
-- A forum keeps a [**forum case record**](core_05a_accountability_definitions.md#forum-case-record) for the dispute before it. That record tracks the claims, evidence, routing choices, temporary orders, certified questions, and final findings in that case.
-- It is **not** the same thing as the **standing records** required by [Chapter Eight](core_08-08_standing_assessment.md#2-standing-records) (see [Standing Record](core_05a_accountability_definitions.md#standing-record-chapter-six)).
+- A forum keeps a [**forum case record**](core_05defs_accountability.md#forum-case-record) for the dispute before it. That record tracks the claims, evidence, routing choices, temporary orders, certified questions, and final findings in that case.
+- It is **not** the same thing as the **standing records** required by [Chapter Eight](core_08-08_standing_assessment.md#2-standing-records) (see [Standing Record](core_05defs_accountability.md#standing-record-chapter-six)).
 - A forum decision may become part of a Chapter Eight **contribution standing record** or **violation standing record** only when it produces a verified contribution record, verified violation finding, **system alignment certification record**, or other finding that is bounded, traceable, contestable, and verified under Chapters Two through Four and any required review safeguards.
 - Filing a case, assigning it to a forum family, making intake notes, issuing a temporary order, recording an unresolved allegation, discussing settlement, or using a provisional routing label does **not** by itself change anyone's standing, role eligibility, trust status, recognition, or final standing effect.
 - When one lead forum handles a mixed-stakes case, it must keep the **forum case record** clear enough that separate Chapter Eight contribution and violation measurements, any Chapter Ten designation, and Chapter Nine standing effects can still be audited separately and recorded in axis-pure standing records.
@@ -284,7 +284,7 @@ These rules limit how the table's default leads interact. They do not replace **
 
 - Upstream: [§1](#1-purpose-and-role) (*purpose, primary application role, accountability requirements, published threshold routing, non-relocation of detail, independence and review expectations*); [§2](#2-default-venue-and-primary-stakes) (*default venue table, primary-stakes test, intake triage, mixed stakes, and prompt contestable threshold access*); [§3](#3-transfer-consolidation-and-coordination) (*transfer, consolidation, and anti-self-judging*).
 - Downstream: [§5](#5-escalation-and-certification) (*family-to-family escalation; certification when operational and constitutional stakes merge; alignment rulings and general doctrine*); [§6](#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*materiality tiers and anti-delay discipline*); [§7](#7-forum-support-before-during-and-after-review) (*forum support before, during, and after review*).
-- Read with: [Preamble §3.1](core_00_preamble.md#from-measurement-to-evidence-and-remedy) (*measurement standards custody and governance bridge*); [corpus_forum.md](corpus_forum.md) (**CF-3** (*Forum formation — family inventory, title flexibility, and non-collapse*); **CF-7** alignment rulings); [corpus_institutions.md](corpus_institutions.md) (*institution duties and supervised-scope language mirrored in the institutional family*); [Chapter Five — Corpus](core_05i_integrative_definitions.md#corpus) (*implementation-file designation and custody terms for incorporated institution rules*).
+- Read with: [Preamble §3.1](core_00_preamble.md#from-measurement-to-evidence-and-remedy) (*measurement standards custody and governance bridge*); [corpus_forum.md](corpus_forum.md) (**CF-3** (*Forum formation — family inventory, title flexibility, and non-collapse*); **CF-7** alignment rulings); [corpus_institutions.md](corpus_institutions.md) (*institution duties and supervised-scope language mirrored in the institutional family*); [Chapter Five — Corpus](core_05defs_integrative.md#corpus) (*implementation-file designation and custody terms for incorporated institution rules*).
 - Within §4: [§4.1](#41-sentient-forums); [§4.2](#42-technical-forum-domains); [§4.3](#43-institutional-forums); [§4.4](#44-environment-forums); [§4.5](#45-integrity-forums); [§4.6](#46-constitutional-forums); [§4.7](#47-provisional-implementation-operational-law).
 
 </details>
@@ -378,7 +378,7 @@ The **subsections** **below** **follow** **section** **2**’s **default** **ven
 **Illustrative matters.** This family includes contests over:
 - institutional mandate, permitted action, or charged function;
 - supervised-scope boundaries and classification under adopted instruments;
-- [Charter](core_05c_continuity_definitions.md#charter) scope, charter amendment authority, charter–behavior mismatch, or operation outside chartered scope;
+- [Charter](core_05defs_continuity.md#charter) scope, charter amendment authority, charter–behavior mismatch, or operation outside chartered scope;
 - institutional-duty compliance and performance under **`corpus_institutions.md`** and cognate layers;
 - local enforcement of shared cross-jurisdiction or cross-institution standards;
 - institutional-mandate and Rights-Floor component questions in system-alignment proceedings where an institution is a necessary party or institutional mandate is primary.
@@ -516,7 +516,7 @@ Where **necessary** to resolve a matter within jurisdiction, the forum may issue
 - Upstream: [§2](#2-default-venue-and-primary-stakes) and [§3](#3-transfer-consolidation-and-coordination) (*default venue, intake, transfer, mixed stakes, and anti-self-judging backups*); [§4.6](#46-constitutional-forums) and [§4.7](#47-provisional-implementation-operational-law) (*provisional-law disposition and issuance*); [Chapter Eight §7 unified scale](core_08-08_standing_assessment.md#7-unified-proportional-lequ-scale) (*numeric impact-slot assignment*); [Chapter Ten](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct) (*corresponding anti-constitutional-misconduct designation for qualifying slots 7–9*); [Chapter One](core_01_c_stewardship_capacity_principles.md#chapter-01-principles-and-constraints) (*Safety and Truth hooks in certified constitutional questions*).
 - Downstream: [§6](#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*materiality tiers and anti-delay discipline*); [§7](#7-forum-support-before-during-and-after-review) (*contestable forum support for escalation and certification*); [Chapter Sixteen](core_16-16_incorporation.md) (*implementation routing for **Article V-E** (*Sentience-Status Adjudication Floor*) implementation design*).
 - Within §5: [Interim protection](#interim-protection) (*status-quo pending merits and multi-forum interim-order conflict coordination*).
-- Read with: [Article V-E: Sentience-Status Adjudication Floor](core_06-06_rights_part_b.md#article-v-e-sentience-status-adjudication-floor); [Chapter Five — Sentience Status Adjudication](core_05p_participation_definitions.md#sentience-status-adjudication-constitutional); [Article XXIII-A](core_06-06_rights_part_d.md#article-xxiii-a-justice-objective-and-scope) (*Justice Objective and Scope*) through [Article XXIII-C](core_06-06_rights_part_d.md#article-xxiii-c-least-restrictive-and-time-bounded-rule) (*review safeguards referenced with Chapter Ten designations*); [Article XII-B](core_06-06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress) (*certification — alignment rulings and general doctrine*).
+- Read with: [Article V-E: Sentience-Status Adjudication Floor](core_06-06_rights_part_b.md#article-v-e-sentience-status-adjudication-floor); [Chapter Five — Sentience Status Adjudication](core_05defs_participation.md#sentience-status-adjudication-constitutional); [Article XXIII-A](core_06-06_rights_part_d.md#article-xxiii-a-justice-objective-and-scope) (*Justice Objective and Scope*) through [Article XXIII-C](core_06-06_rights_part_d.md#article-xxiii-c-least-restrictive-and-time-bounded-rule) (*review safeguards referenced with Chapter Ten designations*); [Article XII-B](core_06-06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress) (*certification — alignment rulings and general doctrine*).
 
 </details>
 
@@ -568,7 +568,7 @@ A case may move from one forum family to another only when the receiving family 
 <a id="interim-protection"></a>
 #### Interim protection
 
-- Any competent family may issue interim relief necessary to prevent imminent irreversible harm, preserve evidence under [Evidence Preservation](core_05o_oversight_definitions.md#evidence-preservation), maintain **Ecological Recovery Capacity**, stop material escalation while routing, certification, or technical review **is** completed, or preserve **status quo** pending **merits**. Such relief must be reasoned, proportionate, and subject to prompt review.
+- Any competent family may issue interim relief necessary to prevent imminent irreversible harm, preserve evidence under [Evidence Preservation](core_05defs_oversight.md#evidence-preservation), maintain **Ecological Recovery Capacity**, stop material escalation while routing, certification, or technical review **is** completed, or preserve **status quo** pending **merits**. Such relief must be reasoned, proportionate, and subject to prompt review.
 - Where **multiple** forums share jurisdiction, **one** coordinating forum or rule must resolve conflicts among simultaneous interim orders.
 
 #### Backup routing under the anti-self-judging rule
@@ -609,17 +609,17 @@ A case may move from one forum family to another only when the receiving family 
 - Upstream: [Article XXIV-C](core_06-06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor) (*timely, efficient, and just floor*); [README — Standing pipeline and forums](README.md#standing-pipeline-and-forums); [Article XII-B](core_06-06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress) (*challenge and redress access*); [Article XXIII-D](core_06-06_rights_part_d.md#article-xxiii-d-emergency-measures-and-continuation-burden) (*continuation discipline*); [§5](#5-escalation-and-certification) (*escalation and certification clocks interact with*).
 - Downstream: [§7](#7-forum-support-before-during-and-after-review) (*inspection, forensic, and follow-through support*); [§5](#interim-protection) (*Interim protection*); [corpus_forum.md](corpus_forum.md) (**CF-11.3.1** (*target windows and timing floors*)); [corpus_institutions.md](corpus_institutions.md) (**CI-8** (*accessible pathways*)); [Chapters Eight–Eleven application vignettes](core_08-11_application_vignettes.md#chapters-eight-eleven-application-vignettes).
 - Tetrad leg(s): **timeliness** (cross-cutting enforcement); **participation** and **oversight** (accessible intake and published milestones). Primary aim(s): **Flourishing** and **Continuity**.
-- Read with: Timeliness measurement family (*Timely Resolution and anti-delay and resolution-pathway discipline*); [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination); [Timely Resolution](core_05a_accountability_definitions.md#timely-resolution-constitutional); [Capture of Resolution Pathways](core_05a_accountability_definitions.md#capture-of-resolution-pathways); [Constitutional Efficiency](core_05c_continuity_definitions.md#constitutional-efficiency).
+- Read with: Timeliness measurement family (*Timely Resolution and anti-delay and resolution-pathway discipline*); [Materiality Determination](core_05defs_oversight.md#materiality-determination); [Timely Resolution](core_05defs_accountability.md#timely-resolution-constitutional); [Capture of Resolution Pathways](core_05defs_accountability.md#capture-of-resolution-pathways); [Constitutional Efficiency](core_05defs_continuity.md#constitutional-efficiency).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Timely Resolution](core_05a_accountability_definitions.md#timely-resolution-constitutional) · [O](core_05a_accountability_definitions.md#timely-resolution-constitutional) · [A](core_05a_accountability_definitions.md#timely-resolution-constitutional-a) · [C](core_05a_accountability_definitions.md#timely-resolution-constitutional-c)
-- [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination) · [O](core_05o_oversight_definitions.md#materiality-determination) · [A](core_05o_oversight_definitions.md#materiality-determination-a) · [C](core_05o_oversight_definitions.md#materiality-determination-c)
-- [Capture of Resolution Pathways](core_05a_accountability_definitions.md#capture-of-resolution-pathways) · [O](core_05a_accountability_definitions.md#capture-of-resolution-pathways) · [A](core_05a_accountability_definitions.md#capture-of-resolution-pathways-a) · [C](core_05a_accountability_definitions.md#capture-of-resolution-pathways-c)
-- [Constitutional Efficiency](core_05c_continuity_definitions.md#constitutional-efficiency) · [O](core_05c_continuity_definitions.md#constitutional-efficiency) · [A](core_05c_continuity_definitions.md#constitutional-efficiency-a) · [C](core_05c_continuity_definitions.md#constitutional-efficiency-c)
+- [Timely Resolution](core_05defs_accountability.md#timely-resolution-constitutional) · [O](core_05defs_accountability.md#timely-resolution-constitutional) · [A](core_05defs_accountability.md#timely-resolution-constitutional-a) · [C](core_05defs_accountability.md#timely-resolution-constitutional-c)
+- [Materiality Determination](core_05defs_oversight.md#materiality-determination) · [O](core_05defs_oversight.md#materiality-determination) · [A](core_05defs_oversight.md#materiality-determination-a) · [C](core_05defs_oversight.md#materiality-determination-c)
+- [Capture of Resolution Pathways](core_05defs_accountability.md#capture-of-resolution-pathways) · [O](core_05defs_accountability.md#capture-of-resolution-pathways) · [A](core_05defs_accountability.md#capture-of-resolution-pathways-a) · [C](core_05defs_accountability.md#capture-of-resolution-pathways-c)
+- [Constitutional Efficiency](core_05defs_continuity.md#constitutional-efficiency) · [O](core_05defs_continuity.md#constitutional-efficiency) · [A](core_05defs_continuity.md#constitutional-efficiency-a) · [C](core_05defs_continuity.md#constitutional-efficiency-c)
 
 </details>
 
@@ -629,11 +629,11 @@ A case may move from one forum family to another only when the receiving family 
 
 This section implements **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*) for forum supervision of the **Chapters Eight through Eleven** standing pipeline. Adopted instruments must **implement, not narrow**, this section or **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*).
 
-- **Materiality tiers.** Adopters must classify each material dispute into one of five tiers (A/B/C/L/P) under [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination), mirroring the system classification alphabet in **CS-4**, and apply the default windows below unless a narrower window is required by **Rights-Floor** urgency or a documented extension is authorized under **Article XXIII-D** (*Continuation discipline*):
+- **Materiality tiers.** Adopters must classify each material dispute into one of five tiers (A/B/C/L/P) under [Materiality Determination](core_05defs_oversight.md#materiality-determination), mirroring the system classification alphabet in **CS-4**, and apply the default windows below unless a narrower window is required by **Rights-Floor** urgency or a documented extension is authorized under **Article XXIII-D** (*Continuation discipline*):
   - **Tier A — imminent or dependency-vulnerable ongoing harm, or final high-impact review**
     - Scope of harm: acute or ongoing injury where delay itself compounds damage; dependency-asymmetric settings where exit is not practical; or final high-impact standing / misconduct review whose outcome can lock severe consequences.
     - Examples: acute care-duty failure; ongoing violence; participation-barrier injury in dependency-asymmetric settings; a final Chapter Eight **Violation Axis s = 7, 8, or 9** impact-slot review; or the corresponding **Chapter Ten** designation where applicable.
-    - Expectation: lawful **interim protection** must be available without waiting for full merits; intake, acknowledgment, and evidence preservation must begin **within days**, not weeks, unless [Force Majeure](core_05a_accountability_definitions.md#force-majeure-constitutional) or a documented safety constraint prevents it.
+    - Expectation: lawful **interim protection** must be available without waiting for full merits; intake, acknowledgment, and evidence preservation must begin **within days**, not weeks, unless [Force Majeure](core_05defs_accountability.md#force-majeure-constitutional) or a documented safety constraint prevents it.
   - **Tier B — material rights impact, non-imminent**
     - Scope of harm: material rights, standing, or institutional injury that matters now, but is not yet acute ongoing harm of Tier A urgency.
     - Examples: discrimination patterns; misaligned business harm; remediable institutional misconduct.
@@ -670,7 +670,7 @@ This section implements **Article XXIV-C** (*Timely Resolution and Anti-Delay Fl
   - delay regimes designed to exhaust claimants;
   - self-created delay, procedural layering, forum shopping, or record fragmentation used to prolong resolution without milestone justification;
   - treating allegations as verified standing inputs to buy time ([Chapter Eight §3.1](core_08-08_standing_assessment.md#verified-inputs-for-standing));
-  - [Capture of Resolution Pathways](core_05a_accountability_definitions.md#capture-of-resolution-pathways) through delay, opacity, or resolver bias;
+  - [Capture of Resolution Pathways](core_05defs_accountability.md#capture-of-resolution-pathways) through delay, opacity, or resolver bias;
   - efficiency claims that skip fact-checking, punish the wrong party, offer a fix that does not fit the harm, or cut off challenge and appeal contrary to Chapter One [§12.2](core_01_c_stewardship_capacity_principles.md#122-constitutional-efficiency).
 
 <a id="7-forum-support-before-during-and-after-review"></a>

@@ -19,11 +19,10 @@ from ch5_paths import CH5_BANDS, CH5_INDEX
 
 EXPECTED_TOPIC_GROUPS: dict[str, list[str]] = {
     "#### Accountability, contestability, and redress pathways": [
-        "Accountability",
+        # Accountability and Timeliness leg heads live in core_05apex_accountability_leg.md
         "Contestability",
         "Adjudication and Dispute Resolution",
         "Due Process",
-        "Timeliness",
         "Timely Resolution",
         "Merits Determination",
         "Stay",
@@ -128,6 +127,7 @@ EXPECTED_CLUSTERS: dict[str, list[str]] = {
         "Forum Family, Integrity",
         "Forum Family, Constitutional",
         "Primary-Stakes Routing",
+        "Forum Case Record",
     ],
     "#### 3.7 Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity": [
         "Self-Determination",

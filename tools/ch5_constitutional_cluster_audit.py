@@ -23,11 +23,11 @@ EXPECTED_CLUSTER_IDS = [
 ]
 
 BAND_CLUSTER_RANGES = {
-    "core_05o_oversight_definitions.md": {"3.2", "3.3"},
-    "core_05p_participation_definitions.md": {"3.5", "3.6", "3.7"},
-    "core_05a_accountability_definitions.md": {"3.8", "3.9", "3.10", "3.11"},
-    "core_05c_continuity_definitions.md": {"3.12", "3.13", "3.14", "3.15"},
-    "core_05i_integrative_definitions.md": {"3.16"},
+    "core_05defs_oversight.md": {"3.2", "3.3"},
+    "core_05defs_participation.md": {"3.5", "3.6", "3.7"},
+    "core_05defs_accountability.md": {"3.8", "3.9", "3.10", "3.11"},
+    "core_05defs_continuity.md": {"3.12", "3.13", "3.14", "3.15"},
+    "core_05defs_integrative.md": {"3.16"},
 }
 
 

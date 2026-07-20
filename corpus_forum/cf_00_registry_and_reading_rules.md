@@ -12,7 +12,7 @@
 > - These labels track the same edition metadata as the numbered `core_*.md` files (see [README.md](../README.md)), [corpus_joint_structure.md](../corpus_joint_structure.md), [corpus_systems.md](../corpus_systems.md), and [corpus_institutions.md](../corpus_institutions.md).
 >
 > **Status**
-> - This is **not** a core constitutional file. It is binding incorporated implementation text where [Chapter Five](../core_05i_integrative_definitions.md#corpus) and [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) designate it.
+> - This is **not** a core constitutional file. It is binding incorporated implementation text where [Chapter Five](../core_05defs_integrative.md#corpus) and [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) designate it.
 > - The CF folder is written in plain language with low jargon to improve accessibility, audit readability, and practical adoption testing.
 >
 > **Where this lives**
@@ -80,13 +80,13 @@ Unless another reference pattern is stated, **Article** labels with Roman numera
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Accessibility](../core_05p_participation_definitions.md#accessibility-constitutional) · [O](../core_05p_participation_definitions.md#accessibility-constitutional) · [A](../core_05p_participation_definitions.md#accessibility-constitutional-a) · [C](../core_05p_participation_definitions.md#accessibility-constitutional-c)
-- [Adjudication and Dispute Resolution](../core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional) · [A](../core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional-a) · [C](../core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional-c)
-- [Authority Stack and Internal Hierarchy](../core_05i_integrative_definitions.md#authority-stack) · [O](../core_05i_integrative_definitions.md#authority-stack) · [A](../core_05i_integrative_definitions.md#authority-stack-a) · [C](../core_05i_integrative_definitions.md#authority-stack-c)
-- [Forum Family, Constitutional](../core_05a_accountability_definitions.md#forum-family-constitutional) · [O](../core_05a_accountability_definitions.md#forum-family-constitutional) · [A](../core_05a_accountability_definitions.md#forum-family-constitutional-a) · [C](../core_05a_accountability_definitions.md#forum-family-constitutional-c)
-- [Forum Family, Institutional](../core_05a_accountability_definitions.md#forum-family-institutional) · [O](../core_05a_accountability_definitions.md#forum-family-institutional) · [A](../core_05a_accountability_definitions.md#forum-family-institutional-a) · [C](../core_05a_accountability_definitions.md#forum-family-institutional-c)
-- [Forum Family, Technical](../core_05a_accountability_definitions.md#forum-family-technical) · [O](../core_05a_accountability_definitions.md#forum-family-technical) · [A](../core_05a_accountability_definitions.md#forum-family-technical-a) · [C](../core_05a_accountability_definitions.md#forum-family-technical-c)
-- [Procedural Fairness](../core_05p_participation_definitions.md#procedural-fairness-constitutional) · [O](../core_05p_participation_definitions.md#procedural-fairness-constitutional) · [A](../core_05p_participation_definitions.md#procedural-fairness-constitutional-a) · [C](../core_05p_participation_definitions.md#procedural-fairness-constitutional-c)
+- [Accessibility](../core_05defs_participation.md#accessibility-constitutional) · [O](../core_05defs_participation.md#accessibility-constitutional) · [A](../core_05defs_participation.md#accessibility-constitutional-a) · [C](../core_05defs_participation.md#accessibility-constitutional-c)
+- [Adjudication and Dispute Resolution](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [A](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [C](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-c)
+- [Authority Stack and Internal Hierarchy](../core_05defs_integrative.md#authority-stack) · [O](../core_05defs_integrative.md#authority-stack) · [A](../core_05defs_integrative.md#authority-stack-a) · [C](../core_05defs_integrative.md#authority-stack-c)
+- [Forum Family, Constitutional](../core_05defs_accountability.md#forum-family-constitutional) · [O](../core_05defs_accountability.md#forum-family-constitutional) · [A](../core_05defs_accountability.md#forum-family-constitutional-a) · [C](../core_05defs_accountability.md#forum-family-constitutional-c)
+- [Forum Family, Institutional](../core_05defs_accountability.md#forum-family-institutional) · [O](../core_05defs_accountability.md#forum-family-institutional) · [A](../core_05defs_accountability.md#forum-family-institutional-a) · [C](../core_05defs_accountability.md#forum-family-institutional-c)
+- [Forum Family, Technical](../core_05defs_accountability.md#forum-family-technical) · [O](../core_05defs_accountability.md#forum-family-technical) · [A](../core_05defs_accountability.md#forum-family-technical-a) · [C](../core_05defs_accountability.md#forum-family-technical-c)
+- [Procedural Fairness](../core_05defs_participation.md#procedural-fairness-constitutional) · [O](../core_05defs_participation.md#procedural-fairness-constitutional) · [A](../core_05defs_participation.md#procedural-fairness-constitutional-a) · [C](../core_05defs_participation.md#procedural-fairness-constitutional-c)
 
 </details>
 

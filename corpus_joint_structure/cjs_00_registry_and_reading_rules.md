@@ -12,7 +12,7 @@
 > - These labels track the same edition metadata as the numbered `core_*.md` files (see [README.md](../README.md)), `corpus_systems.md`, `corpus_institutions.md`, and `corpus_forum.md`.
 >
 > **Status**
-> - This is **not** a core constitutional file. It is still part of the constitutional **Corpus** where [Chapter Five](../core_05i_integrative_definitions.md#corpus) and [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) say implementation text is binding when adopted.
+> - This is **not** a core constitutional file. It is still part of the constitutional **Corpus** where [Chapter Five](../core_05defs_integrative.md#corpus) and [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) say implementation text is binding when adopted.
 > - The CJS folder is written in plain language with low jargon to improve accessibility, audit readability, and practical adoption testing.
 >
 > **Where this lives**
@@ -153,9 +153,9 @@ Binding router table, overlap discipline, and definition-tier rules: [cjs_02_imp
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Corpus](../core_05i_integrative_definitions.md#corpus) · [O](../core_05i_integrative_definitions.md#corpus) · [A](../core_05i_integrative_definitions.md#corpus-a) · [C](../core_05i_integrative_definitions.md#corpus-c)
-- [Authority Stack and Internal Hierarchy](../core_05i_integrative_definitions.md#authority-stack) · [O](../core_05i_integrative_definitions.md#authority-stack) · [A](../core_05i_integrative_definitions.md#authority-stack-a) · [C](../core_05i_integrative_definitions.md#authority-stack-c)
-- [Supremacy and Enforceability](../core_05i_integrative_definitions.md#supremacy-and-enforceability) · [O](../core_05i_integrative_definitions.md#supremacy-and-enforceability) · [A](../core_05i_integrative_definitions.md#supremacy-and-enforceability-a) · [C](../core_05i_integrative_definitions.md#supremacy-and-enforceability-c)
+- [Corpus](../core_05defs_integrative.md#corpus) · [O](../core_05defs_integrative.md#corpus) · [A](../core_05defs_integrative.md#corpus-a) · [C](../core_05defs_integrative.md#corpus-c)
+- [Authority Stack and Internal Hierarchy](../core_05defs_integrative.md#authority-stack) · [O](../core_05defs_integrative.md#authority-stack) · [A](../core_05defs_integrative.md#authority-stack-a) · [C](../core_05defs_integrative.md#authority-stack-c)
+- [Supremacy and Enforceability](../core_05defs_integrative.md#supremacy-and-enforceability) · [O](../core_05defs_integrative.md#supremacy-and-enforceability) · [A](../core_05defs_integrative.md#supremacy-and-enforceability-a) · [C](../core_05defs_integrative.md#supremacy-and-enforceability-c)
 
 </details>
 
@@ -189,10 +189,10 @@ These are the stable section families for the CJS folder:
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Corpus](../core_05i_integrative_definitions.md#corpus) · [O](../core_05i_integrative_definitions.md#corpus) · [A](../core_05i_integrative_definitions.md#corpus-a) · [C](../core_05i_integrative_definitions.md#corpus-c)
-- [Incentive Alignment](../core_05i_integrative_definitions.md#incentive-alignment) · [O](../core_05i_integrative_definitions.md#incentive-alignment) · [A](../core_05i_integrative_definitions.md#incentive-alignment-a) · [C](../core_05i_integrative_definitions.md#incentive-alignment-c)
-- [Auditability](../core_05o_oversight_definitions.md#auditability) · [O](../core_05o_oversight_definitions.md#auditability) · [A](../core_05o_oversight_definitions.md#auditability-a) · [C](../core_05o_oversight_definitions.md#auditability-c)
-- [Risk](../core_05c_continuity_definitions.md#risk) · [O](../core_05c_continuity_definitions.md#risk) · [A](../core_05c_continuity_definitions.md#risk-a) · [C](../core_05c_continuity_definitions.md#risk-c)
+- [Corpus](../core_05defs_integrative.md#corpus) · [O](../core_05defs_integrative.md#corpus) · [A](../core_05defs_integrative.md#corpus-a) · [C](../core_05defs_integrative.md#corpus-c)
+- [Incentive Alignment](../core_05defs_integrative.md#incentive-alignment) · [O](../core_05defs_integrative.md#incentive-alignment) · [A](../core_05defs_integrative.md#incentive-alignment-a) · [C](../core_05defs_integrative.md#incentive-alignment-c)
+- [Auditability](../core_05defs_oversight.md#auditability) · [O](../core_05defs_oversight.md#auditability) · [A](../core_05defs_oversight.md#auditability-a) · [C](../core_05defs_oversight.md#auditability-c)
+- [Risk](../core_05defs_continuity.md#risk) · [O](../core_05defs_continuity.md#risk) · [A](../core_05defs_continuity.md#risk-a) · [C](../core_05defs_continuity.md#risk-c)
 
 </details>
 
@@ -235,11 +235,11 @@ These are the stable section families for the CJS folder:
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Corpus](../core_05i_integrative_definitions.md#corpus) · [O](../core_05i_integrative_definitions.md#corpus) · [A](../core_05i_integrative_definitions.md#corpus-a) · [C](../core_05i_integrative_definitions.md#corpus-c)
-- [Authority Stack and Internal Hierarchy](../core_05i_integrative_definitions.md#authority-stack) · [O](../core_05i_integrative_definitions.md#authority-stack) · [A](../core_05i_integrative_definitions.md#authority-stack-a) · [C](../core_05i_integrative_definitions.md#authority-stack-c)
-- [Emergency and Contingency](../core_05c_continuity_definitions.md#emergency-and-contingency-constitutional) · [O](../core_05c_continuity_definitions.md#emergency-and-contingency-constitutional) · [A](../core_05c_continuity_definitions.md#emergency-and-contingency-constitutional-a) · [C](../core_05c_continuity_definitions.md#emergency-and-contingency-constitutional-c)
-- [Adjudication and Dispute Resolution](../core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional) · [A](../core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional-a) · [C](../core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional-c)
-- [Epistemic Integrity](../core_05o_oversight_definitions.md#epistemic-integrity) · [O](../core_05o_oversight_definitions.md#epistemic-integrity) · [A](../core_05o_oversight_definitions.md#epistemic-integrity-a) · [C](../core_05o_oversight_definitions.md#epistemic-integrity-c)
+- [Corpus](../core_05defs_integrative.md#corpus) · [O](../core_05defs_integrative.md#corpus) · [A](../core_05defs_integrative.md#corpus-a) · [C](../core_05defs_integrative.md#corpus-c)
+- [Authority Stack and Internal Hierarchy](../core_05defs_integrative.md#authority-stack) · [O](../core_05defs_integrative.md#authority-stack) · [A](../core_05defs_integrative.md#authority-stack-a) · [C](../core_05defs_integrative.md#authority-stack-c)
+- [Emergency and Contingency](../core_05defs_continuity.md#emergency-and-contingency-constitutional) · [O](../core_05defs_continuity.md#emergency-and-contingency-constitutional) · [A](../core_05defs_continuity.md#emergency-and-contingency-constitutional-a) · [C](../core_05defs_continuity.md#emergency-and-contingency-constitutional-c)
+- [Adjudication and Dispute Resolution](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [A](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [C](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-c)
+- [Epistemic Integrity](../core_05defs_oversight.md#epistemic-integrity) · [O](../core_05defs_oversight.md#epistemic-integrity) · [A](../core_05defs_oversight.md#epistemic-integrity-a) · [C](../core_05defs_oversight.md#epistemic-integrity-c)
 
 </details>
 

@@ -11,13 +11,13 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Proportionality](../core_05a_accountability_definitions.md#proportionality) · [O](../core_05a_accountability_definitions.md#proportionality) · [A](../core_05a_accountability_definitions.md#proportionality-a) · [C](../core_05a_accountability_definitions.md#proportionality-c)
-- [Contestability](../core_05a_accountability_definitions.md#contestability) · [O](../core_05a_accountability_definitions.md#contestability) · [A](../core_05a_accountability_definitions.md#contestability-a) · [C](../core_05a_accountability_definitions.md#contestability-c)
-- [Transparency](../core_05o_oversight_definitions.md#transparency) · [O](../core_05o_oversight_definitions.md#transparency) · [A](../core_05o_oversight_definitions.md#transparency-a) · [C](../core_05o_oversight_definitions.md#transparency-c)
-- [Governance](../core_05a_accountability_definitions.md#governance) · [O](../core_05a_accountability_definitions.md#governance) · [A](../core_05a_accountability_definitions.md#governance-a) · [C](../core_05a_accountability_definitions.md#governance-c)
-- [Necessity](../core_05a_accountability_definitions.md#necessity) · [O](../core_05a_accountability_definitions.md#necessity) · [A](../core_05a_accountability_definitions.md#necessity-a) · [C](../core_05a_accountability_definitions.md#necessity-c)
-- [Collective Organization](../core_05p_participation_definitions.md#collective-organization-constitutional) · [O](../core_05p_participation_definitions.md#collective-organization-constitutional) · [A](../core_05p_participation_definitions.md#collective-organization-constitutional-a) · [C](../core_05p_participation_definitions.md#collective-organization-constitutional-c)
-- [Incentive Alignment](../core_05i_integrative_definitions.md#incentive-alignment) · [O](../core_05i_integrative_definitions.md#incentive-alignment) · [A](../core_05i_integrative_definitions.md#incentive-alignment-a) · [C](../core_05i_integrative_definitions.md#incentive-alignment-c)
+- [Proportionality](../core_05defs_accountability.md#proportionality) · [O](../core_05defs_accountability.md#proportionality) · [A](../core_05defs_accountability.md#proportionality-a) · [C](../core_05defs_accountability.md#proportionality-c)
+- [Contestability](../core_05defs_accountability.md#contestability) · [O](../core_05defs_accountability.md#contestability) · [A](../core_05defs_accountability.md#contestability-a) · [C](../core_05defs_accountability.md#contestability-c)
+- [Transparency](../core_05defs_oversight.md#transparency) · [O](../core_05defs_oversight.md#transparency) · [A](../core_05defs_oversight.md#transparency-a) · [C](../core_05defs_oversight.md#transparency-c)
+- [Governance](../core_05defs_accountability.md#governance) · [O](../core_05defs_accountability.md#governance) · [A](../core_05defs_accountability.md#governance-a) · [C](../core_05defs_accountability.md#governance-c)
+- [Necessity](../core_05defs_accountability.md#necessity) · [O](../core_05defs_accountability.md#necessity) · [A](../core_05defs_accountability.md#necessity-a) · [C](../core_05defs_accountability.md#necessity-c)
+- [Collective Organization](../core_05defs_participation.md#collective-organization-constitutional) · [O](../core_05defs_participation.md#collective-organization-constitutional) · [A](../core_05defs_participation.md#collective-organization-constitutional-a) · [C](../core_05defs_participation.md#collective-organization-constitutional-c)
+- [Incentive Alignment](../core_05defs_integrative.md#incentive-alignment) · [O](../core_05defs_integrative.md#incentive-alignment) · [A](../core_05defs_integrative.md#incentive-alignment-a) · [C](../core_05defs_integrative.md#incentive-alignment-c)
 
 </details>
 
@@ -43,7 +43,7 @@
 - **Article III-D** (*Labor and Economic Floor*) in **Chapter Six** — collective organization, fair compensation, safe conditions, and leisure and rest for cooperative and comparable productive activity.
 - **Article IX-B** (*Stakeholder Role and Participation Rights*) in **Chapter Six** — meaningful, proportionate, and challengeable participation in decisions that materially affect stakeholders.
 - **Article X-A** (*Non-Imposition and Consent in Association*) in **Chapter Six** — consent and non-imposition norms in cooperative ventures; freedom to leave coercive group settings remains protected.
-- **Chapter Five** [*Collective Organization*](../core_05p_participation_definitions.md#collective-organization-constitutional) — definitional home for unions, cooperatives, guilds, associations, and comparable substrate-agnostic forms.
+- **Chapter Five** [*Collective Organization*](../core_05defs_participation.md#collective-organization-constitutional) — definitional home for unions, cooperatives, guilds, associations, and comparable substrate-agnostic forms.
 - **Protocol S5** (*Resource Allocation and Funding Stewardship*) in `corpus_systems.md` — funding stewardship, dependent-systems mapping, and auditable allocation for cooperative and mutual-aid resource flows.
 - **CI-11** — resource stewardship and incentive integrity: fiscal allocation alignment and continuity triggers where commons infrastructure is materially dependent on institutional funding.
 - **CI-6** — procedure integrity, contestability, and secondary review.

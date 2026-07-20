@@ -12,13 +12,13 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Primary-Stakes Routing](../core_05a_accountability_definitions.md#primary-stakes-routing) · [O](../core_05a_accountability_definitions.md#primary-stakes-routing) · [A](../core_05a_accountability_definitions.md#primary-stakes-routing-a) · [C](../core_05a_accountability_definitions.md#primary-stakes-routing-c)
-- [Accessibility](../core_05p_participation_definitions.md#accessibility-constitutional) · [O](../core_05p_participation_definitions.md#accessibility-constitutional) · [A](../core_05p_participation_definitions.md#accessibility-constitutional-a) · [C](../core_05p_participation_definitions.md#accessibility-constitutional-c)
-- [Dependency](../core_05c_continuity_definitions.md#dependency) · [O](../core_05c_continuity_definitions.md#dependency) · [A](../core_05c_continuity_definitions.md#dependency-a) · [C](../core_05c_continuity_definitions.md#dependency-c)
-- [Governance](../core_05a_accountability_definitions.md#governance) · [O](../core_05a_accountability_definitions.md#governance) · [A](../core_05a_accountability_definitions.md#governance-a) · [C](../core_05a_accountability_definitions.md#governance-c)
-- [Material](../core_05o_oversight_definitions.md#material) · [O](../core_05o_oversight_definitions.md#material) · [A](../core_05o_oversight_definitions.md#material-a) · [C](../core_05o_oversight_definitions.md#material-c)
-- [Corpus](../core_05i_integrative_definitions.md#corpus) · [O](../core_05i_integrative_definitions.md#corpus) · [A](../core_05i_integrative_definitions.md#corpus-a) · [C](../core_05i_integrative_definitions.md#corpus-c)
-- [System](../core_05c_continuity_definitions.md#system-definition) · [O](../core_05c_continuity_definitions.md#system-definition) · [A](../core_05c_continuity_definitions.md#system-definition-a) · [C](../core_05c_continuity_definitions.md#system-definition-c)
+- [Primary-Stakes Routing](../core_05defs_accountability.md#primary-stakes-routing) · [O](../core_05defs_accountability.md#primary-stakes-routing) · [A](../core_05defs_accountability.md#primary-stakes-routing-a) · [C](../core_05defs_accountability.md#primary-stakes-routing-c)
+- [Accessibility](../core_05defs_participation.md#accessibility-constitutional) · [O](../core_05defs_participation.md#accessibility-constitutional) · [A](../core_05defs_participation.md#accessibility-constitutional-a) · [C](../core_05defs_participation.md#accessibility-constitutional-c)
+- [Dependency](../core_05defs_continuity.md#dependency) · [O](../core_05defs_continuity.md#dependency) · [A](../core_05defs_continuity.md#dependency-a) · [C](../core_05defs_continuity.md#dependency-c)
+- [Governance](../core_05defs_accountability.md#governance) · [O](../core_05defs_accountability.md#governance) · [A](../core_05defs_accountability.md#governance-a) · [C](../core_05defs_accountability.md#governance-c)
+- [Material](../core_05defs_oversight.md#material) · [O](../core_05defs_oversight.md#material) · [A](../core_05defs_oversight.md#material-a) · [C](../core_05defs_oversight.md#material-c)
+- [Corpus](../core_05defs_integrative.md#corpus) · [O](../core_05defs_integrative.md#corpus) · [A](../core_05defs_integrative.md#corpus-a) · [C](../core_05defs_integrative.md#corpus-c)
+- [System](../core_05defs_continuity.md#system-definition) · [O](../core_05defs_continuity.md#system-definition) · [A](../core_05defs_continuity.md#system-definition-a) · [C](../core_05defs_continuity.md#system-definition-c)
 
 </details>
 
@@ -38,12 +38,12 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Adjudication and Dispute Resolution](../core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional) · [A](../core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional-a) · [C](../core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional-c)
-- [Authority Stack and Internal Hierarchy](../core_05i_integrative_definitions.md#authority-stack) · [O](../core_05i_integrative_definitions.md#authority-stack) · [A](../core_05i_integrative_definitions.md#authority-stack-a) · [C](../core_05i_integrative_definitions.md#authority-stack-c)
-- [Forum Family, Technical](../core_05a_accountability_definitions.md#forum-family-technical) · [O](../core_05a_accountability_definitions.md#forum-family-technical) · [A](../core_05a_accountability_definitions.md#forum-family-technical-a) · [C](../core_05a_accountability_definitions.md#forum-family-technical-c)
-- [Epistemic Integrity](../core_05o_oversight_definitions.md#epistemic-integrity) · [O](../core_05o_oversight_definitions.md#epistemic-integrity) · [A](../core_05o_oversight_definitions.md#epistemic-integrity-a) · [C](../core_05o_oversight_definitions.md#epistemic-integrity-c)
-- [Verifiability](../core_05o_oversight_definitions.md#verifiability) · [O](../core_05o_oversight_definitions.md#verifiability) · [A](../core_05o_oversight_definitions.md#verifiability-a) · [C](../core_05o_oversight_definitions.md#verifiability-c)
-- [Procedural Fairness](../core_05p_participation_definitions.md#procedural-fairness-constitutional) · [O](../core_05p_participation_definitions.md#procedural-fairness-constitutional) · [A](../core_05p_participation_definitions.md#procedural-fairness-constitutional-a) · [C](../core_05p_participation_definitions.md#procedural-fairness-constitutional-c)
+- [Adjudication and Dispute Resolution](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [A](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [C](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-c)
+- [Authority Stack and Internal Hierarchy](../core_05defs_integrative.md#authority-stack) · [O](../core_05defs_integrative.md#authority-stack) · [A](../core_05defs_integrative.md#authority-stack-a) · [C](../core_05defs_integrative.md#authority-stack-c)
+- [Forum Family, Technical](../core_05defs_accountability.md#forum-family-technical) · [O](../core_05defs_accountability.md#forum-family-technical) · [A](../core_05defs_accountability.md#forum-family-technical-a) · [C](../core_05defs_accountability.md#forum-family-technical-c)
+- [Epistemic Integrity](../core_05defs_oversight.md#epistemic-integrity) · [O](../core_05defs_oversight.md#epistemic-integrity) · [A](../core_05defs_oversight.md#epistemic-integrity-a) · [C](../core_05defs_oversight.md#epistemic-integrity-c)
+- [Verifiability](../core_05defs_oversight.md#verifiability) · [O](../core_05defs_oversight.md#verifiability) · [A](../core_05defs_oversight.md#verifiability-a) · [C](../core_05defs_oversight.md#verifiability-c)
+- [Procedural Fairness](../core_05defs_participation.md#procedural-fairness-constitutional) · [O](../core_05defs_participation.md#procedural-fairness-constitutional) · [A](../core_05defs_participation.md#procedural-fairness-constitutional-a) · [C](../core_05defs_participation.md#procedural-fairness-constitutional-c)
 
 </details>
 
@@ -65,13 +65,13 @@ When adopting instruments create **science specialist forums**, **engineering sp
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Governance](../core_05a_accountability_definitions.md#governance) · [O](../core_05a_accountability_definitions.md#governance) · [A](../core_05a_accountability_definitions.md#governance-a) · [C](../core_05a_accountability_definitions.md#governance-c)
-- [System](../core_05c_continuity_definitions.md#system-definition) · [O](../core_05c_continuity_definitions.md#system-definition) · [A](../core_05c_continuity_definitions.md#system-definition-a) · [C](../core_05c_continuity_definitions.md#system-definition-c)
-- [Adjudication and Dispute Resolution](../core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional) · [A](../core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional-a) · [C](../core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional-c)
-- [Authority Stack and Internal Hierarchy](../core_05i_integrative_definitions.md#authority-stack) · [O](../core_05i_integrative_definitions.md#authority-stack) · [A](../core_05i_integrative_definitions.md#authority-stack-a) · [C](../core_05i_integrative_definitions.md#authority-stack-c)
-- [Forum Family, Technical](../core_05a_accountability_definitions.md#forum-family-technical) · [O](../core_05a_accountability_definitions.md#forum-family-technical) · [A](../core_05a_accountability_definitions.md#forum-family-technical-a) · [C](../core_05a_accountability_definitions.md#forum-family-technical-c)
-- [Epistemic Integrity](../core_05o_oversight_definitions.md#epistemic-integrity) · [O](../core_05o_oversight_definitions.md#epistemic-integrity) · [A](../core_05o_oversight_definitions.md#epistemic-integrity-a) · [C](../core_05o_oversight_definitions.md#epistemic-integrity-c)
-- [Verifiability](../core_05o_oversight_definitions.md#verifiability) · [O](../core_05o_oversight_definitions.md#verifiability) · [A](../core_05o_oversight_definitions.md#verifiability-a) · [C](../core_05o_oversight_definitions.md#verifiability-c)
+- [Governance](../core_05defs_accountability.md#governance) · [O](../core_05defs_accountability.md#governance) · [A](../core_05defs_accountability.md#governance-a) · [C](../core_05defs_accountability.md#governance-c)
+- [System](../core_05defs_continuity.md#system-definition) · [O](../core_05defs_continuity.md#system-definition) · [A](../core_05defs_continuity.md#system-definition-a) · [C](../core_05defs_continuity.md#system-definition-c)
+- [Adjudication and Dispute Resolution](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [A](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [C](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-c)
+- [Authority Stack and Internal Hierarchy](../core_05defs_integrative.md#authority-stack) · [O](../core_05defs_integrative.md#authority-stack) · [A](../core_05defs_integrative.md#authority-stack-a) · [C](../core_05defs_integrative.md#authority-stack-c)
+- [Forum Family, Technical](../core_05defs_accountability.md#forum-family-technical) · [O](../core_05defs_accountability.md#forum-family-technical) · [A](../core_05defs_accountability.md#forum-family-technical-a) · [C](../core_05defs_accountability.md#forum-family-technical-c)
+- [Epistemic Integrity](../core_05defs_oversight.md#epistemic-integrity) · [O](../core_05defs_oversight.md#epistemic-integrity) · [A](../core_05defs_oversight.md#epistemic-integrity-a) · [C](../core_05defs_oversight.md#epistemic-integrity-c)
+- [Verifiability](../core_05defs_oversight.md#verifiability) · [O](../core_05defs_oversight.md#verifiability) · [A](../core_05defs_oversight.md#verifiability-a) · [C](../core_05defs_oversight.md#verifiability-c)
 
 </details>
 
@@ -93,13 +93,13 @@ Technical specialist forums provide a reviewable forum for expert-evidence stand
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Governance](../core_05a_accountability_definitions.md#governance) · [O](../core_05a_accountability_definitions.md#governance) · [A](../core_05a_accountability_definitions.md#governance-a) · [C](../core_05a_accountability_definitions.md#governance-c)
-- [System](../core_05c_continuity_definitions.md#system-definition) · [O](../core_05c_continuity_definitions.md#system-definition) · [A](../core_05c_continuity_definitions.md#system-definition-a) · [C](../core_05c_continuity_definitions.md#system-definition-c)
-- [Adjudication and Dispute Resolution](../core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional) · [A](../core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional-a) · [C](../core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional-c)
-- [Authority Stack and Internal Hierarchy](../core_05i_integrative_definitions.md#authority-stack) · [O](../core_05i_integrative_definitions.md#authority-stack) · [A](../core_05i_integrative_definitions.md#authority-stack-a) · [C](../core_05i_integrative_definitions.md#authority-stack-c)
-- [Forum Family, Technical](../core_05a_accountability_definitions.md#forum-family-technical) · [O](../core_05a_accountability_definitions.md#forum-family-technical) · [A](../core_05a_accountability_definitions.md#forum-family-technical-a) · [C](../core_05a_accountability_definitions.md#forum-family-technical-c)
-- [Epistemic Integrity](../core_05o_oversight_definitions.md#epistemic-integrity) · [O](../core_05o_oversight_definitions.md#epistemic-integrity) · [A](../core_05o_oversight_definitions.md#epistemic-integrity-a) · [C](../core_05o_oversight_definitions.md#epistemic-integrity-c)
-- [Verifiability](../core_05o_oversight_definitions.md#verifiability) · [O](../core_05o_oversight_definitions.md#verifiability) · [A](../core_05o_oversight_definitions.md#verifiability-a) · [C](../core_05o_oversight_definitions.md#verifiability-c)
+- [Governance](../core_05defs_accountability.md#governance) · [O](../core_05defs_accountability.md#governance) · [A](../core_05defs_accountability.md#governance-a) · [C](../core_05defs_accountability.md#governance-c)
+- [System](../core_05defs_continuity.md#system-definition) · [O](../core_05defs_continuity.md#system-definition) · [A](../core_05defs_continuity.md#system-definition-a) · [C](../core_05defs_continuity.md#system-definition-c)
+- [Adjudication and Dispute Resolution](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [A](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [C](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-c)
+- [Authority Stack and Internal Hierarchy](../core_05defs_integrative.md#authority-stack) · [O](../core_05defs_integrative.md#authority-stack) · [A](../core_05defs_integrative.md#authority-stack-a) · [C](../core_05defs_integrative.md#authority-stack-c)
+- [Forum Family, Technical](../core_05defs_accountability.md#forum-family-technical) · [O](../core_05defs_accountability.md#forum-family-technical) · [A](../core_05defs_accountability.md#forum-family-technical-a) · [C](../core_05defs_accountability.md#forum-family-technical-c)
+- [Epistemic Integrity](../core_05defs_oversight.md#epistemic-integrity) · [O](../core_05defs_oversight.md#epistemic-integrity) · [A](../core_05defs_oversight.md#epistemic-integrity-a) · [C](../core_05defs_oversight.md#epistemic-integrity-c)
+- [Verifiability](../core_05defs_oversight.md#verifiability) · [O](../core_05defs_oversight.md#verifiability) · [A](../core_05defs_oversight.md#verifiability-a) · [C](../core_05defs_oversight.md#verifiability-c)
 
 </details>
 
@@ -125,13 +125,13 @@ Technical specialist forums may:
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Governance](../core_05a_accountability_definitions.md#governance) · [O](../core_05a_accountability_definitions.md#governance) · [A](../core_05a_accountability_definitions.md#governance-a) · [C](../core_05a_accountability_definitions.md#governance-c)
-- [Adjudication and Dispute Resolution](../core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional) · [A](../core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional-a) · [C](../core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional-c)
-- [Authority Stack and Internal Hierarchy](../core_05i_integrative_definitions.md#authority-stack) · [O](../core_05i_integrative_definitions.md#authority-stack) · [A](../core_05i_integrative_definitions.md#authority-stack-a) · [C](../core_05i_integrative_definitions.md#authority-stack-c)
-- [Forum Family, Technical](../core_05a_accountability_definitions.md#forum-family-technical) · [O](../core_05a_accountability_definitions.md#forum-family-technical) · [A](../core_05a_accountability_definitions.md#forum-family-technical-a) · [C](../core_05a_accountability_definitions.md#forum-family-technical-c)
-- [Epistemic Integrity](../core_05o_oversight_definitions.md#epistemic-integrity) · [O](../core_05o_oversight_definitions.md#epistemic-integrity) · [A](../core_05o_oversight_definitions.md#epistemic-integrity-a) · [C](../core_05o_oversight_definitions.md#epistemic-integrity-c)
-- [Verifiability](../core_05o_oversight_definitions.md#verifiability) · [O](../core_05o_oversight_definitions.md#verifiability) · [A](../core_05o_oversight_definitions.md#verifiability-a) · [C](../core_05o_oversight_definitions.md#verifiability-c)
-- [Evidence Preservation](../core_05o_oversight_definitions.md#evidence-preservation) · [O](../core_05o_oversight_definitions.md#evidence-preservation) · [A](../core_05o_oversight_definitions.md#evidence-preservation-a) · [C](../core_05o_oversight_definitions.md#evidence-preservation-c)
+- [Governance](../core_05defs_accountability.md#governance) · [O](../core_05defs_accountability.md#governance) · [A](../core_05defs_accountability.md#governance-a) · [C](../core_05defs_accountability.md#governance-c)
+- [Adjudication and Dispute Resolution](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [A](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [C](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-c)
+- [Authority Stack and Internal Hierarchy](../core_05defs_integrative.md#authority-stack) · [O](../core_05defs_integrative.md#authority-stack) · [A](../core_05defs_integrative.md#authority-stack-a) · [C](../core_05defs_integrative.md#authority-stack-c)
+- [Forum Family, Technical](../core_05defs_accountability.md#forum-family-technical) · [O](../core_05defs_accountability.md#forum-family-technical) · [A](../core_05defs_accountability.md#forum-family-technical-a) · [C](../core_05defs_accountability.md#forum-family-technical-c)
+- [Epistemic Integrity](../core_05defs_oversight.md#epistemic-integrity) · [O](../core_05defs_oversight.md#epistemic-integrity) · [A](../core_05defs_oversight.md#epistemic-integrity-a) · [C](../core_05defs_oversight.md#epistemic-integrity-c)
+- [Verifiability](../core_05defs_oversight.md#verifiability) · [O](../core_05defs_oversight.md#verifiability) · [A](../core_05defs_oversight.md#verifiability-a) · [C](../core_05defs_oversight.md#verifiability-c)
+- [Evidence Preservation](../core_05defs_oversight.md#evidence-preservation) · [O](../core_05defs_oversight.md#evidence-preservation) · [A](../core_05defs_oversight.md#evidence-preservation-a) · [C](../core_05defs_oversight.md#evidence-preservation-c)
 
 </details>
 
@@ -156,13 +156,13 @@ Adopting instruments should specify at least:
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Governance](../core_05a_accountability_definitions.md#governance) · [O](../core_05a_accountability_definitions.md#governance) · [A](../core_05a_accountability_definitions.md#governance-a) · [C](../core_05a_accountability_definitions.md#governance-c)
-- [Adjudication and Dispute Resolution](../core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional) · [A](../core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional-a) · [C](../core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional-c)
-- [Authority Stack and Internal Hierarchy](../core_05i_integrative_definitions.md#authority-stack) · [O](../core_05i_integrative_definitions.md#authority-stack) · [A](../core_05i_integrative_definitions.md#authority-stack-a) · [C](../core_05i_integrative_definitions.md#authority-stack-c)
-- [Forum Family, Technical](../core_05a_accountability_definitions.md#forum-family-technical) · [O](../core_05a_accountability_definitions.md#forum-family-technical) · [A](../core_05a_accountability_definitions.md#forum-family-technical-a) · [C](../core_05a_accountability_definitions.md#forum-family-technical-c)
-- [Epistemic Integrity](../core_05o_oversight_definitions.md#epistemic-integrity) · [O](../core_05o_oversight_definitions.md#epistemic-integrity) · [A](../core_05o_oversight_definitions.md#epistemic-integrity-a) · [C](../core_05o_oversight_definitions.md#epistemic-integrity-c)
-- [Verifiability](../core_05o_oversight_definitions.md#verifiability) · [O](../core_05o_oversight_definitions.md#verifiability) · [A](../core_05o_oversight_definitions.md#verifiability-a) · [C](../core_05o_oversight_definitions.md#verifiability-c)
-- [Evidence Preservation](../core_05o_oversight_definitions.md#evidence-preservation) · [O](../core_05o_oversight_definitions.md#evidence-preservation) · [A](../core_05o_oversight_definitions.md#evidence-preservation-a) · [C](../core_05o_oversight_definitions.md#evidence-preservation-c)
+- [Governance](../core_05defs_accountability.md#governance) · [O](../core_05defs_accountability.md#governance) · [A](../core_05defs_accountability.md#governance-a) · [C](../core_05defs_accountability.md#governance-c)
+- [Adjudication and Dispute Resolution](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [A](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [C](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-c)
+- [Authority Stack and Internal Hierarchy](../core_05defs_integrative.md#authority-stack) · [O](../core_05defs_integrative.md#authority-stack) · [A](../core_05defs_integrative.md#authority-stack-a) · [C](../core_05defs_integrative.md#authority-stack-c)
+- [Forum Family, Technical](../core_05defs_accountability.md#forum-family-technical) · [O](../core_05defs_accountability.md#forum-family-technical) · [A](../core_05defs_accountability.md#forum-family-technical-a) · [C](../core_05defs_accountability.md#forum-family-technical-c)
+- [Epistemic Integrity](../core_05defs_oversight.md#epistemic-integrity) · [O](../core_05defs_oversight.md#epistemic-integrity) · [A](../core_05defs_oversight.md#epistemic-integrity-a) · [C](../core_05defs_oversight.md#epistemic-integrity-c)
+- [Verifiability](../core_05defs_oversight.md#verifiability) · [O](../core_05defs_oversight.md#verifiability) · [A](../core_05defs_oversight.md#verifiability-a) · [C](../core_05defs_oversight.md#verifiability-c)
+- [Evidence Preservation](../core_05defs_oversight.md#evidence-preservation) · [O](../core_05defs_oversight.md#evidence-preservation) · [A](../core_05defs_oversight.md#evidence-preservation-a) · [C](../core_05defs_oversight.md#evidence-preservation-c)
 
 </details>
 
@@ -184,13 +184,13 @@ Adopting instruments may also create technical specialist forums or chambers for
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Primary-Stakes Routing](../core_05a_accountability_definitions.md#primary-stakes-routing) · [O](../core_05a_accountability_definitions.md#primary-stakes-routing) · [A](../core_05a_accountability_definitions.md#primary-stakes-routing-a) · [C](../core_05a_accountability_definitions.md#primary-stakes-routing-c)
-- [Governance](../core_05a_accountability_definitions.md#governance) · [O](../core_05a_accountability_definitions.md#governance) · [A](../core_05a_accountability_definitions.md#governance-a) · [C](../core_05a_accountability_definitions.md#governance-c)
-- [System](../core_05c_continuity_definitions.md#system-definition) · [O](../core_05c_continuity_definitions.md#system-definition) · [A](../core_05c_continuity_definitions.md#system-definition-a) · [C](../core_05c_continuity_definitions.md#system-definition-c)
-- [Adjudication and Dispute Resolution](../core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional) · [A](../core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional-a) · [C](../core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional-c)
-- [Authority Stack and Internal Hierarchy](../core_05i_integrative_definitions.md#authority-stack) · [O](../core_05i_integrative_definitions.md#authority-stack) · [A](../core_05i_integrative_definitions.md#authority-stack-a) · [C](../core_05i_integrative_definitions.md#authority-stack-c)
-- [Forum Family, Technical](../core_05a_accountability_definitions.md#forum-family-technical) · [O](../core_05a_accountability_definitions.md#forum-family-technical) · [A](../core_05a_accountability_definitions.md#forum-family-technical-a) · [C](../core_05a_accountability_definitions.md#forum-family-technical-c)
-- [Epistemic Integrity](../core_05o_oversight_definitions.md#epistemic-integrity) · [O](../core_05o_oversight_definitions.md#epistemic-integrity) · [A](../core_05o_oversight_definitions.md#epistemic-integrity-a) · [C](../core_05o_oversight_definitions.md#epistemic-integrity-c)
+- [Primary-Stakes Routing](../core_05defs_accountability.md#primary-stakes-routing) · [O](../core_05defs_accountability.md#primary-stakes-routing) · [A](../core_05defs_accountability.md#primary-stakes-routing-a) · [C](../core_05defs_accountability.md#primary-stakes-routing-c)
+- [Governance](../core_05defs_accountability.md#governance) · [O](../core_05defs_accountability.md#governance) · [A](../core_05defs_accountability.md#governance-a) · [C](../core_05defs_accountability.md#governance-c)
+- [System](../core_05defs_continuity.md#system-definition) · [O](../core_05defs_continuity.md#system-definition) · [A](../core_05defs_continuity.md#system-definition-a) · [C](../core_05defs_continuity.md#system-definition-c)
+- [Adjudication and Dispute Resolution](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [A](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [C](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-c)
+- [Authority Stack and Internal Hierarchy](../core_05defs_integrative.md#authority-stack) · [O](../core_05defs_integrative.md#authority-stack) · [A](../core_05defs_integrative.md#authority-stack-a) · [C](../core_05defs_integrative.md#authority-stack-c)
+- [Forum Family, Technical](../core_05defs_accountability.md#forum-family-technical) · [O](../core_05defs_accountability.md#forum-family-technical) · [A](../core_05defs_accountability.md#forum-family-technical-a) · [C](../core_05defs_accountability.md#forum-family-technical-c)
+- [Epistemic Integrity](../core_05defs_oversight.md#epistemic-integrity) · [O](../core_05defs_oversight.md#epistemic-integrity) · [A](../core_05defs_oversight.md#epistemic-integrity-a) · [C](../core_05defs_oversight.md#epistemic-integrity-c)
 
 </details>
 
@@ -214,13 +214,13 @@ They must not become the default merits forum for ordinary civil injury, crimina
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Adjudication and Dispute Resolution](../core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional) · [A](../core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional-a) · [C](../core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional-c)
-- [Authority Stack and Internal Hierarchy](../core_05i_integrative_definitions.md#authority-stack) · [O](../core_05i_integrative_definitions.md#authority-stack) · [A](../core_05i_integrative_definitions.md#authority-stack-a) · [C](../core_05i_integrative_definitions.md#authority-stack-c)
-- [Forum Family, Technical](../core_05a_accountability_definitions.md#forum-family-technical) · [O](../core_05a_accountability_definitions.md#forum-family-technical) · [A](../core_05a_accountability_definitions.md#forum-family-technical-a) · [C](../core_05a_accountability_definitions.md#forum-family-technical-c)
-- [Epistemic Integrity](../core_05o_oversight_definitions.md#epistemic-integrity) · [O](../core_05o_oversight_definitions.md#epistemic-integrity) · [A](../core_05o_oversight_definitions.md#epistemic-integrity-a) · [C](../core_05o_oversight_definitions.md#epistemic-integrity-c)
-- [Verifiability](../core_05o_oversight_definitions.md#verifiability) · [O](../core_05o_oversight_definitions.md#verifiability) · [A](../core_05o_oversight_definitions.md#verifiability-a) · [C](../core_05o_oversight_definitions.md#verifiability-c)
-- [Auditability](../core_05o_oversight_definitions.md#auditability) · [O](../core_05o_oversight_definitions.md#auditability) · [A](../core_05o_oversight_definitions.md#auditability-a) · [C](../core_05o_oversight_definitions.md#auditability-c)
-- [Contestability](../core_05a_accountability_definitions.md#contestability) · [O](../core_05a_accountability_definitions.md#contestability) · [A](../core_05a_accountability_definitions.md#contestability-a) · [C](../core_05a_accountability_definitions.md#contestability-c)
+- [Adjudication and Dispute Resolution](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [A](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [C](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-c)
+- [Authority Stack and Internal Hierarchy](../core_05defs_integrative.md#authority-stack) · [O](../core_05defs_integrative.md#authority-stack) · [A](../core_05defs_integrative.md#authority-stack-a) · [C](../core_05defs_integrative.md#authority-stack-c)
+- [Forum Family, Technical](../core_05defs_accountability.md#forum-family-technical) · [O](../core_05defs_accountability.md#forum-family-technical) · [A](../core_05defs_accountability.md#forum-family-technical-a) · [C](../core_05defs_accountability.md#forum-family-technical-c)
+- [Epistemic Integrity](../core_05defs_oversight.md#epistemic-integrity) · [O](../core_05defs_oversight.md#epistemic-integrity) · [A](../core_05defs_oversight.md#epistemic-integrity-a) · [C](../core_05defs_oversight.md#epistemic-integrity-c)
+- [Verifiability](../core_05defs_oversight.md#verifiability) · [O](../core_05defs_oversight.md#verifiability) · [A](../core_05defs_oversight.md#verifiability-a) · [C](../core_05defs_oversight.md#verifiability-c)
+- [Auditability](../core_05defs_oversight.md#auditability) · [O](../core_05defs_oversight.md#auditability) · [A](../core_05defs_oversight.md#auditability-a) · [C](../core_05defs_oversight.md#auditability-c)
+- [Contestability](../core_05defs_accountability.md#contestability) · [O](../core_05defs_accountability.md#contestability) · [A](../core_05defs_accountability.md#contestability-a) · [C](../core_05defs_accountability.md#contestability-c)
 
 </details>
 
@@ -244,11 +244,11 @@ Standards must leave room for minority or emerging views that meet good-faith me
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Adjudication and Dispute Resolution](../core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional) · [A](../core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional-a) · [C](../core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional-c)
-- [Authority Stack and Internal Hierarchy](../core_05i_integrative_definitions.md#authority-stack) · [O](../core_05i_integrative_definitions.md#authority-stack) · [A](../core_05i_integrative_definitions.md#authority-stack-a) · [C](../core_05i_integrative_definitions.md#authority-stack-c)
-- [Forum Family, Technical](../core_05a_accountability_definitions.md#forum-family-technical) · [O](../core_05a_accountability_definitions.md#forum-family-technical) · [A](../core_05a_accountability_definitions.md#forum-family-technical-a) · [C](../core_05a_accountability_definitions.md#forum-family-technical-c)
-- [Epistemic Integrity](../core_05o_oversight_definitions.md#epistemic-integrity) · [O](../core_05o_oversight_definitions.md#epistemic-integrity) · [A](../core_05o_oversight_definitions.md#epistemic-integrity-a) · [C](../core_05o_oversight_definitions.md#epistemic-integrity-c)
-- [Verifiability](../core_05o_oversight_definitions.md#verifiability) · [O](../core_05o_oversight_definitions.md#verifiability) · [A](../core_05o_oversight_definitions.md#verifiability-a) · [C](../core_05o_oversight_definitions.md#verifiability-c)
+- [Adjudication and Dispute Resolution](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [A](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [C](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-c)
+- [Authority Stack and Internal Hierarchy](../core_05defs_integrative.md#authority-stack) · [O](../core_05defs_integrative.md#authority-stack) · [A](../core_05defs_integrative.md#authority-stack-a) · [C](../core_05defs_integrative.md#authority-stack-c)
+- [Forum Family, Technical](../core_05defs_accountability.md#forum-family-technical) · [O](../core_05defs_accountability.md#forum-family-technical) · [A](../core_05defs_accountability.md#forum-family-technical-a) · [C](../core_05defs_accountability.md#forum-family-technical-c)
+- [Epistemic Integrity](../core_05defs_oversight.md#epistemic-integrity) · [O](../core_05defs_oversight.md#epistemic-integrity) · [A](../core_05defs_oversight.md#epistemic-integrity-a) · [C](../core_05defs_oversight.md#epistemic-integrity-c)
+- [Verifiability](../core_05defs_oversight.md#verifiability) · [O](../core_05defs_oversight.md#verifiability) · [A](../core_05defs_oversight.md#verifiability-a) · [C](../core_05defs_oversight.md#verifiability-c)
 
 </details>
 
@@ -272,12 +272,12 @@ Ordinary enforcement should remain decentralized. The constitutionally designate
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Governance](../core_05a_accountability_definitions.md#governance) · [O](../core_05a_accountability_definitions.md#governance) · [A](../core_05a_accountability_definitions.md#governance-a) · [C](../core_05a_accountability_definitions.md#governance-c)
-- [Adjudication and Dispute Resolution](../core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional) · [A](../core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional-a) · [C](../core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional-c)
-- [Authority Stack and Internal Hierarchy](../core_05i_integrative_definitions.md#authority-stack) · [O](../core_05i_integrative_definitions.md#authority-stack) · [A](../core_05i_integrative_definitions.md#authority-stack-a) · [C](../core_05i_integrative_definitions.md#authority-stack-c)
-- [Forum Family, Technical](../core_05a_accountability_definitions.md#forum-family-technical) · [O](../core_05a_accountability_definitions.md#forum-family-technical) · [A](../core_05a_accountability_definitions.md#forum-family-technical-a) · [C](../core_05a_accountability_definitions.md#forum-family-technical-c)
-- [Epistemic Integrity](../core_05o_oversight_definitions.md#epistemic-integrity) · [O](../core_05o_oversight_definitions.md#epistemic-integrity) · [A](../core_05o_oversight_definitions.md#epistemic-integrity-a) · [C](../core_05o_oversight_definitions.md#epistemic-integrity-c)
-- [Verifiability](../core_05o_oversight_definitions.md#verifiability) · [O](../core_05o_oversight_definitions.md#verifiability) · [A](../core_05o_oversight_definitions.md#verifiability-a) · [C](../core_05o_oversight_definitions.md#verifiability-c)
+- [Governance](../core_05defs_accountability.md#governance) · [O](../core_05defs_accountability.md#governance) · [A](../core_05defs_accountability.md#governance-a) · [C](../core_05defs_accountability.md#governance-c)
+- [Adjudication and Dispute Resolution](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [A](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [C](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-c)
+- [Authority Stack and Internal Hierarchy](../core_05defs_integrative.md#authority-stack) · [O](../core_05defs_integrative.md#authority-stack) · [A](../core_05defs_integrative.md#authority-stack-a) · [C](../core_05defs_integrative.md#authority-stack-c)
+- [Forum Family, Technical](../core_05defs_accountability.md#forum-family-technical) · [O](../core_05defs_accountability.md#forum-family-technical) · [A](../core_05defs_accountability.md#forum-family-technical-a) · [C](../core_05defs_accountability.md#forum-family-technical-c)
+- [Epistemic Integrity](../core_05defs_oversight.md#epistemic-integrity) · [O](../core_05defs_oversight.md#epistemic-integrity) · [A](../core_05defs_oversight.md#epistemic-integrity-a) · [C](../core_05defs_oversight.md#epistemic-integrity-c)
+- [Verifiability](../core_05defs_oversight.md#verifiability) · [O](../core_05defs_oversight.md#verifiability) · [A](../core_05defs_oversight.md#verifiability-a) · [C](../core_05defs_oversight.md#verifiability-c)
 
 </details>
 
@@ -301,13 +301,13 @@ Technical specialist forums may hear certified questions, validity challenges to
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Adjudication and Dispute Resolution](../core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional) · [A](../core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional-a) · [C](../core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional-c)
-- [Authority Stack and Internal Hierarchy](../core_05i_integrative_definitions.md#authority-stack) · [O](../core_05i_integrative_definitions.md#authority-stack) · [A](../core_05i_integrative_definitions.md#authority-stack-a) · [C](../core_05i_integrative_definitions.md#authority-stack-c)
-- [Forum Family, Technical](../core_05a_accountability_definitions.md#forum-family-technical) · [O](../core_05a_accountability_definitions.md#forum-family-technical) · [A](../core_05a_accountability_definitions.md#forum-family-technical-a) · [C](../core_05a_accountability_definitions.md#forum-family-technical-c)
-- [Epistemic Integrity](../core_05o_oversight_definitions.md#epistemic-integrity) · [O](../core_05o_oversight_definitions.md#epistemic-integrity) · [A](../core_05o_oversight_definitions.md#epistemic-integrity-a) · [C](../core_05o_oversight_definitions.md#epistemic-integrity-c)
-- [Verifiability](../core_05o_oversight_definitions.md#verifiability) · [O](../core_05o_oversight_definitions.md#verifiability) · [A](../core_05o_oversight_definitions.md#verifiability-a) · [C](../core_05o_oversight_definitions.md#verifiability-c)
-- [Procedural Fairness](../core_05p_participation_definitions.md#procedural-fairness-constitutional) · [O](../core_05p_participation_definitions.md#procedural-fairness-constitutional) · [A](../core_05p_participation_definitions.md#procedural-fairness-constitutional-a) · [C](../core_05p_participation_definitions.md#procedural-fairness-constitutional-c)
-- [Accountability](../core_05a_accountability_definitions.md#accountability) · [O](../core_05a_accountability_definitions.md#accountability) · [A](../core_05a_accountability_definitions.md#accountability-a) · [C](../core_05a_accountability_definitions.md#accountability-c)
+- [Adjudication and Dispute Resolution](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [A](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [C](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-c)
+- [Authority Stack and Internal Hierarchy](../core_05defs_integrative.md#authority-stack) · [O](../core_05defs_integrative.md#authority-stack) · [A](../core_05defs_integrative.md#authority-stack-a) · [C](../core_05defs_integrative.md#authority-stack-c)
+- [Forum Family, Technical](../core_05defs_accountability.md#forum-family-technical) · [O](../core_05defs_accountability.md#forum-family-technical) · [A](../core_05defs_accountability.md#forum-family-technical-a) · [C](../core_05defs_accountability.md#forum-family-technical-c)
+- [Epistemic Integrity](../core_05defs_oversight.md#epistemic-integrity) · [O](../core_05defs_oversight.md#epistemic-integrity) · [A](../core_05defs_oversight.md#epistemic-integrity-a) · [C](../core_05defs_oversight.md#epistemic-integrity-c)
+- [Verifiability](../core_05defs_oversight.md#verifiability) · [O](../core_05defs_oversight.md#verifiability) · [A](../core_05defs_oversight.md#verifiability-a) · [C](../core_05defs_oversight.md#verifiability-c)
+- [Procedural Fairness](../core_05defs_participation.md#procedural-fairness-constitutional) · [O](../core_05defs_participation.md#procedural-fairness-constitutional) · [A](../core_05defs_participation.md#procedural-fairness-constitutional-a) · [C](../core_05defs_participation.md#procedural-fairness-constitutional-c)
+- [Accountability](../core_05apex_accountability_leg.md#accountability) · [O](../core_05apex_accountability_leg.md#accountability) · [A](../core_05apex_accountability_leg.md#accountability-a) · [C](../core_05apex_accountability_leg.md#accountability-c)
 
 </details>
 
@@ -337,13 +337,13 @@ Local variation must not be used as a pretext for regression, forum shopping, hi
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Dependency](../core_05c_continuity_definitions.md#dependency) · [O](../core_05c_continuity_definitions.md#dependency) · [A](../core_05c_continuity_definitions.md#dependency-a) · [C](../core_05c_continuity_definitions.md#dependency-c)
-- [Material](../core_05o_oversight_definitions.md#material) · [O](../core_05o_oversight_definitions.md#material) · [A](../core_05o_oversight_definitions.md#material-a) · [C](../core_05o_oversight_definitions.md#material-c)
-- [Corpus](../core_05i_integrative_definitions.md#corpus) · [O](../core_05i_integrative_definitions.md#corpus) · [A](../core_05i_integrative_definitions.md#corpus-a) · [C](../core_05i_integrative_definitions.md#corpus-c)
-- [Adjudication and Dispute Resolution](../core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional) · [A](../core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional-a) · [C](../core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional-c)
-- [Authority Stack and Internal Hierarchy](../core_05i_integrative_definitions.md#authority-stack) · [O](../core_05i_integrative_definitions.md#authority-stack) · [A](../core_05i_integrative_definitions.md#authority-stack-a) · [C](../core_05i_integrative_definitions.md#authority-stack-c)
-- [Forum Family, Technical](../core_05a_accountability_definitions.md#forum-family-technical) · [O](../core_05a_accountability_definitions.md#forum-family-technical) · [A](../core_05a_accountability_definitions.md#forum-family-technical-a) · [C](../core_05a_accountability_definitions.md#forum-family-technical-c)
-- [Epistemic Integrity](../core_05o_oversight_definitions.md#epistemic-integrity) · [O](../core_05o_oversight_definitions.md#epistemic-integrity) · [A](../core_05o_oversight_definitions.md#epistemic-integrity-a) · [C](../core_05o_oversight_definitions.md#epistemic-integrity-c)
+- [Dependency](../core_05defs_continuity.md#dependency) · [O](../core_05defs_continuity.md#dependency) · [A](../core_05defs_continuity.md#dependency-a) · [C](../core_05defs_continuity.md#dependency-c)
+- [Material](../core_05defs_oversight.md#material) · [O](../core_05defs_oversight.md#material) · [A](../core_05defs_oversight.md#material-a) · [C](../core_05defs_oversight.md#material-c)
+- [Corpus](../core_05defs_integrative.md#corpus) · [O](../core_05defs_integrative.md#corpus) · [A](../core_05defs_integrative.md#corpus-a) · [C](../core_05defs_integrative.md#corpus-c)
+- [Adjudication and Dispute Resolution](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [A](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [C](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-c)
+- [Authority Stack and Internal Hierarchy](../core_05defs_integrative.md#authority-stack) · [O](../core_05defs_integrative.md#authority-stack) · [A](../core_05defs_integrative.md#authority-stack-a) · [C](../core_05defs_integrative.md#authority-stack-c)
+- [Forum Family, Technical](../core_05defs_accountability.md#forum-family-technical) · [O](../core_05defs_accountability.md#forum-family-technical) · [A](../core_05defs_accountability.md#forum-family-technical-a) · [C](../core_05defs_accountability.md#forum-family-technical-c)
+- [Epistemic Integrity](../core_05defs_oversight.md#epistemic-integrity) · [O](../core_05defs_oversight.md#epistemic-integrity) · [A](../core_05defs_oversight.md#epistemic-integrity-a) · [C](../core_05defs_oversight.md#epistemic-integrity-c)
 
 </details>
 
@@ -373,12 +373,12 @@ A repeated, unexplained refusal to recognize materially applicable shared standa
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Adjudication and Dispute Resolution](../core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional) · [A](../core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional-a) · [C](../core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional-c)
-- [Authority Stack and Internal Hierarchy](../core_05i_integrative_definitions.md#authority-stack) · [O](../core_05i_integrative_definitions.md#authority-stack) · [A](../core_05i_integrative_definitions.md#authority-stack-a) · [C](../core_05i_integrative_definitions.md#authority-stack-c)
-- [Forum Family, Technical](../core_05a_accountability_definitions.md#forum-family-technical) · [O](../core_05a_accountability_definitions.md#forum-family-technical) · [A](../core_05a_accountability_definitions.md#forum-family-technical-a) · [C](../core_05a_accountability_definitions.md#forum-family-technical-c)
-- [Epistemic Integrity](../core_05o_oversight_definitions.md#epistemic-integrity) · [O](../core_05o_oversight_definitions.md#epistemic-integrity) · [A](../core_05o_oversight_definitions.md#epistemic-integrity-a) · [C](../core_05o_oversight_definitions.md#epistemic-integrity-c)
-- [Verifiability](../core_05o_oversight_definitions.md#verifiability) · [O](../core_05o_oversight_definitions.md#verifiability) · [A](../core_05o_oversight_definitions.md#verifiability-a) · [C](../core_05o_oversight_definitions.md#verifiability-c)
-- [Evidence Preservation](../core_05o_oversight_definitions.md#evidence-preservation) · [O](../core_05o_oversight_definitions.md#evidence-preservation) · [A](../core_05o_oversight_definitions.md#evidence-preservation-a) · [C](../core_05o_oversight_definitions.md#evidence-preservation-c)
+- [Adjudication and Dispute Resolution](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [A](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [C](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-c)
+- [Authority Stack and Internal Hierarchy](../core_05defs_integrative.md#authority-stack) · [O](../core_05defs_integrative.md#authority-stack) · [A](../core_05defs_integrative.md#authority-stack-a) · [C](../core_05defs_integrative.md#authority-stack-c)
+- [Forum Family, Technical](../core_05defs_accountability.md#forum-family-technical) · [O](../core_05defs_accountability.md#forum-family-technical) · [A](../core_05defs_accountability.md#forum-family-technical-a) · [C](../core_05defs_accountability.md#forum-family-technical-c)
+- [Epistemic Integrity](../core_05defs_oversight.md#epistemic-integrity) · [O](../core_05defs_oversight.md#epistemic-integrity) · [A](../core_05defs_oversight.md#epistemic-integrity-a) · [C](../core_05defs_oversight.md#epistemic-integrity-c)
+- [Verifiability](../core_05defs_oversight.md#verifiability) · [O](../core_05defs_oversight.md#verifiability) · [A](../core_05defs_oversight.md#verifiability-a) · [C](../core_05defs_oversight.md#verifiability-c)
+- [Evidence Preservation](../core_05defs_oversight.md#evidence-preservation) · [O](../core_05defs_oversight.md#evidence-preservation) · [A](../core_05defs_oversight.md#evidence-preservation-a) · [C](../core_05defs_oversight.md#evidence-preservation-c)
 
 </details>
 
@@ -402,13 +402,13 @@ These forums must not act as general ideological censors or displace the constit
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Adjudication and Dispute Resolution](../core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional) · [A](../core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional-a) · [C](../core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional-c)
-- [Authority Stack and Internal Hierarchy](../core_05i_integrative_definitions.md#authority-stack) · [O](../core_05i_integrative_definitions.md#authority-stack) · [A](../core_05i_integrative_definitions.md#authority-stack-a) · [C](../core_05i_integrative_definitions.md#authority-stack-c)
-- [Forum Family, Technical](../core_05a_accountability_definitions.md#forum-family-technical) · [O](../core_05a_accountability_definitions.md#forum-family-technical) · [A](../core_05a_accountability_definitions.md#forum-family-technical-a) · [C](../core_05a_accountability_definitions.md#forum-family-technical-c)
-- [Epistemic Integrity](../core_05o_oversight_definitions.md#epistemic-integrity) · [O](../core_05o_oversight_definitions.md#epistemic-integrity) · [A](../core_05o_oversight_definitions.md#epistemic-integrity-a) · [C](../core_05o_oversight_definitions.md#epistemic-integrity-c)
-- [Verifiability](../core_05o_oversight_definitions.md#verifiability) · [O](../core_05o_oversight_definitions.md#verifiability) · [A](../core_05o_oversight_definitions.md#verifiability-a) · [C](../core_05o_oversight_definitions.md#verifiability-c)
-- [System Capture](../core_05c_continuity_definitions.md#system-capture) · [O](../core_05c_continuity_definitions.md#system-capture) · [A](../core_05c_continuity_definitions.md#system-capture-a) · [C](../core_05c_continuity_definitions.md#system-capture-c)
-- [Procedural Fairness](../core_05p_participation_definitions.md#procedural-fairness-constitutional) · [O](../core_05p_participation_definitions.md#procedural-fairness-constitutional) · [A](../core_05p_participation_definitions.md#procedural-fairness-constitutional-a) · [C](../core_05p_participation_definitions.md#procedural-fairness-constitutional-c)
+- [Adjudication and Dispute Resolution](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [A](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [C](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-c)
+- [Authority Stack and Internal Hierarchy](../core_05defs_integrative.md#authority-stack) · [O](../core_05defs_integrative.md#authority-stack) · [A](../core_05defs_integrative.md#authority-stack-a) · [C](../core_05defs_integrative.md#authority-stack-c)
+- [Forum Family, Technical](../core_05defs_accountability.md#forum-family-technical) · [O](../core_05defs_accountability.md#forum-family-technical) · [A](../core_05defs_accountability.md#forum-family-technical-a) · [C](../core_05defs_accountability.md#forum-family-technical-c)
+- [Epistemic Integrity](../core_05defs_oversight.md#epistemic-integrity) · [O](../core_05defs_oversight.md#epistemic-integrity) · [A](../core_05defs_oversight.md#epistemic-integrity-a) · [C](../core_05defs_oversight.md#epistemic-integrity-c)
+- [Verifiability](../core_05defs_oversight.md#verifiability) · [O](../core_05defs_oversight.md#verifiability) · [A](../core_05defs_oversight.md#verifiability-a) · [C](../core_05defs_oversight.md#verifiability-c)
+- [System Capture](../core_05defs_continuity.md#system-capture) · [O](../core_05defs_continuity.md#system-capture) · [A](../core_05defs_continuity.md#system-capture-a) · [C](../core_05defs_continuity.md#system-capture-c)
+- [Procedural Fairness](../core_05defs_participation.md#procedural-fairness-constitutional) · [O](../core_05defs_participation.md#procedural-fairness-constitutional) · [A](../core_05defs_participation.md#procedural-fairness-constitutional-a) · [C](../core_05defs_participation.md#procedural-fairness-constitutional-c)
 
 </details>
 
@@ -432,13 +432,13 @@ Service terms, compensation, and promotion structures must reduce dependence on 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Adjudication and Dispute Resolution](../core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional) · [A](../core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional-a) · [C](../core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional-c)
-- [Authority Stack and Internal Hierarchy](../core_05i_integrative_definitions.md#authority-stack) · [O](../core_05i_integrative_definitions.md#authority-stack) · [A](../core_05i_integrative_definitions.md#authority-stack-a) · [C](../core_05i_integrative_definitions.md#authority-stack-c)
-- [Forum Family, Technical](../core_05a_accountability_definitions.md#forum-family-technical) · [O](../core_05a_accountability_definitions.md#forum-family-technical) · [A](../core_05a_accountability_definitions.md#forum-family-technical-a) · [C](../core_05a_accountability_definitions.md#forum-family-technical-c)
-- [Epistemic Integrity](../core_05o_oversight_definitions.md#epistemic-integrity) · [O](../core_05o_oversight_definitions.md#epistemic-integrity) · [A](../core_05o_oversight_definitions.md#epistemic-integrity-a) · [C](../core_05o_oversight_definitions.md#epistemic-integrity-c)
-- [Verifiability](../core_05o_oversight_definitions.md#verifiability) · [O](../core_05o_oversight_definitions.md#verifiability) · [A](../core_05o_oversight_definitions.md#verifiability-a) · [C](../core_05o_oversight_definitions.md#verifiability-c)
-- [Incentive Alignment](../core_05i_integrative_definitions.md#incentive-alignment) · [O](../core_05i_integrative_definitions.md#incentive-alignment) · [A](../core_05i_integrative_definitions.md#incentive-alignment-a) · [C](../core_05i_integrative_definitions.md#incentive-alignment-c)
-- [Evidence Preservation](../core_05o_oversight_definitions.md#evidence-preservation) · [O](../core_05o_oversight_definitions.md#evidence-preservation) · [A](../core_05o_oversight_definitions.md#evidence-preservation-a) · [C](../core_05o_oversight_definitions.md#evidence-preservation-c)
+- [Adjudication and Dispute Resolution](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [A](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [C](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-c)
+- [Authority Stack and Internal Hierarchy](../core_05defs_integrative.md#authority-stack) · [O](../core_05defs_integrative.md#authority-stack) · [A](../core_05defs_integrative.md#authority-stack-a) · [C](../core_05defs_integrative.md#authority-stack-c)
+- [Forum Family, Technical](../core_05defs_accountability.md#forum-family-technical) · [O](../core_05defs_accountability.md#forum-family-technical) · [A](../core_05defs_accountability.md#forum-family-technical-a) · [C](../core_05defs_accountability.md#forum-family-technical-c)
+- [Epistemic Integrity](../core_05defs_oversight.md#epistemic-integrity) · [O](../core_05defs_oversight.md#epistemic-integrity) · [A](../core_05defs_oversight.md#epistemic-integrity-a) · [C](../core_05defs_oversight.md#epistemic-integrity-c)
+- [Verifiability](../core_05defs_oversight.md#verifiability) · [O](../core_05defs_oversight.md#verifiability) · [A](../core_05defs_oversight.md#verifiability-a) · [C](../core_05defs_oversight.md#verifiability-c)
+- [Incentive Alignment](../core_05defs_integrative.md#incentive-alignment) · [O](../core_05defs_integrative.md#incentive-alignment) · [A](../core_05defs_integrative.md#incentive-alignment-a) · [C](../core_05defs_integrative.md#incentive-alignment-c)
+- [Evidence Preservation](../core_05defs_oversight.md#evidence-preservation) · [O](../core_05defs_oversight.md#evidence-preservation) · [A](../core_05defs_oversight.md#evidence-preservation-a) · [C](../core_05defs_oversight.md#evidence-preservation-c)
 
 </details>
 
@@ -464,13 +464,13 @@ This authority must not be used to reward ideological alignment, burden dissent,
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Accessibility](../core_05p_participation_definitions.md#accessibility-constitutional) · [O](../core_05p_participation_definitions.md#accessibility-constitutional) · [A](../core_05p_participation_definitions.md#accessibility-constitutional-a) · [C](../core_05p_participation_definitions.md#accessibility-constitutional-c)
-- [Governance](../core_05a_accountability_definitions.md#governance) · [O](../core_05a_accountability_definitions.md#governance) · [A](../core_05a_accountability_definitions.md#governance-a) · [C](../core_05a_accountability_definitions.md#governance-c)
-- [Corpus](../core_05i_integrative_definitions.md#corpus) · [O](../core_05i_integrative_definitions.md#corpus) · [A](../core_05i_integrative_definitions.md#corpus-a) · [C](../core_05i_integrative_definitions.md#corpus-c)
-- [Adjudication and Dispute Resolution](../core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional) · [A](../core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional-a) · [C](../core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional-c)
-- [Authority Stack and Internal Hierarchy](../core_05i_integrative_definitions.md#authority-stack) · [O](../core_05i_integrative_definitions.md#authority-stack) · [A](../core_05i_integrative_definitions.md#authority-stack-a) · [C](../core_05i_integrative_definitions.md#authority-stack-c)
-- [Forum Family, Technical](../core_05a_accountability_definitions.md#forum-family-technical) · [O](../core_05a_accountability_definitions.md#forum-family-technical) · [A](../core_05a_accountability_definitions.md#forum-family-technical-a) · [C](../core_05a_accountability_definitions.md#forum-family-technical-c)
-- [Epistemic Integrity](../core_05o_oversight_definitions.md#epistemic-integrity) · [O](../core_05o_oversight_definitions.md#epistemic-integrity) · [A](../core_05o_oversight_definitions.md#epistemic-integrity-a) · [C](../core_05o_oversight_definitions.md#epistemic-integrity-c)
+- [Accessibility](../core_05defs_participation.md#accessibility-constitutional) · [O](../core_05defs_participation.md#accessibility-constitutional) · [A](../core_05defs_participation.md#accessibility-constitutional-a) · [C](../core_05defs_participation.md#accessibility-constitutional-c)
+- [Governance](../core_05defs_accountability.md#governance) · [O](../core_05defs_accountability.md#governance) · [A](../core_05defs_accountability.md#governance-a) · [C](../core_05defs_accountability.md#governance-c)
+- [Corpus](../core_05defs_integrative.md#corpus) · [O](../core_05defs_integrative.md#corpus) · [A](../core_05defs_integrative.md#corpus-a) · [C](../core_05defs_integrative.md#corpus-c)
+- [Adjudication and Dispute Resolution](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [A](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [C](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-c)
+- [Authority Stack and Internal Hierarchy](../core_05defs_integrative.md#authority-stack) · [O](../core_05defs_integrative.md#authority-stack) · [A](../core_05defs_integrative.md#authority-stack-a) · [C](../core_05defs_integrative.md#authority-stack-c)
+- [Forum Family, Technical](../core_05defs_accountability.md#forum-family-technical) · [O](../core_05defs_accountability.md#forum-family-technical) · [A](../core_05defs_accountability.md#forum-family-technical-a) · [C](../core_05defs_accountability.md#forum-family-technical-c)
+- [Epistemic Integrity](../core_05defs_oversight.md#epistemic-integrity) · [O](../core_05defs_oversight.md#epistemic-integrity) · [A](../core_05defs_oversight.md#epistemic-integrity-a) · [C](../core_05defs_oversight.md#epistemic-integrity-c)
 
 </details>
 

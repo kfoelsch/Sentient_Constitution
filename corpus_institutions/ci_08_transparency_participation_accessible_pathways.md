@@ -15,13 +15,13 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Trust Degradation and Misleading Reliance](../core_05c_continuity_definitions.md#trust-degradation-and-misleading-reliance) · [O](../core_05c_continuity_definitions.md#trust-degradation-and-misleading-reliance) · [A](../core_05c_continuity_definitions.md#trust-degradation-and-misleading-reliance-a) · [C](../core_05c_continuity_definitions.md#trust-degradation-and-misleading-reliance-c)
-- [Stakeholder Participation Weight](../core_05p_participation_definitions.md#stakeholder-participation-weight) · [O](../core_05p_participation_definitions.md#stakeholder-participation-weight) · [A](../core_05p_participation_definitions.md#stakeholder-participation-weight-a) · [C](../core_05p_participation_definitions.md#stakeholder-participation-weight-c)
-- [Coercion and Manipulation](../core_05p_participation_definitions.md#coercion-and-manipulation-constitutional) · [O](../core_05p_participation_definitions.md#coercion-and-manipulation-constitutional) · [A](../core_05p_participation_definitions.md#coercion-and-manipulation-constitutional-a) · [C](../core_05p_participation_definitions.md#coercion-and-manipulation-constitutional-c)
-- [Contestability](../core_05a_accountability_definitions.md#contestability) · [O](../core_05a_accountability_definitions.md#contestability) · [A](../core_05a_accountability_definitions.md#contestability-a) · [C](../core_05a_accountability_definitions.md#contestability-c)
-- [Accessibility](../core_05p_participation_definitions.md#accessibility-constitutional) · [O](../core_05p_participation_definitions.md#accessibility-constitutional) · [A](../core_05p_participation_definitions.md#accessibility-constitutional-a) · [C](../core_05p_participation_definitions.md#accessibility-constitutional-c)
-- [Auditability](../core_05o_oversight_definitions.md#auditability) · [O](../core_05o_oversight_definitions.md#auditability) · [A](../core_05o_oversight_definitions.md#auditability-a) · [C](../core_05o_oversight_definitions.md#auditability-c)
-- [Transparency](../core_05o_oversight_definitions.md#transparency) · [O](../core_05o_oversight_definitions.md#transparency) · [A](../core_05o_oversight_definitions.md#transparency-a) · [C](../core_05o_oversight_definitions.md#transparency-c)
+- [Trust Degradation and Misleading Reliance](../core_05defs_continuity.md#trust-degradation-and-misleading-reliance) · [O](../core_05defs_continuity.md#trust-degradation-and-misleading-reliance) · [A](../core_05defs_continuity.md#trust-degradation-and-misleading-reliance-a) · [C](../core_05defs_continuity.md#trust-degradation-and-misleading-reliance-c)
+- [Stakeholder Participation Weight](../core_05defs_participation.md#stakeholder-participation-weight) · [O](../core_05defs_participation.md#stakeholder-participation-weight) · [A](../core_05defs_participation.md#stakeholder-participation-weight-a) · [C](../core_05defs_participation.md#stakeholder-participation-weight-c)
+- [Coercion and Manipulation](../core_05defs_participation.md#coercion-and-manipulation-constitutional) · [O](../core_05defs_participation.md#coercion-and-manipulation-constitutional) · [A](../core_05defs_participation.md#coercion-and-manipulation-constitutional-a) · [C](../core_05defs_participation.md#coercion-and-manipulation-constitutional-c)
+- [Contestability](../core_05defs_accountability.md#contestability) · [O](../core_05defs_accountability.md#contestability) · [A](../core_05defs_accountability.md#contestability-a) · [C](../core_05defs_accountability.md#contestability-c)
+- [Accessibility](../core_05defs_participation.md#accessibility-constitutional) · [O](../core_05defs_participation.md#accessibility-constitutional) · [A](../core_05defs_participation.md#accessibility-constitutional-a) · [C](../core_05defs_participation.md#accessibility-constitutional-c)
+- [Auditability](../core_05defs_oversight.md#auditability) · [O](../core_05defs_oversight.md#auditability) · [A](../core_05defs_oversight.md#auditability-a) · [C](../core_05defs_oversight.md#auditability-c)
+- [Transparency](../core_05defs_oversight.md#transparency) · [O](../core_05defs_oversight.md#transparency) · [A](../core_05defs_oversight.md#transparency-a) · [C](../core_05defs_oversight.md#transparency-c)
 
 </details>
 
@@ -31,7 +31,7 @@
 
 **Quick orientation**
 
-- **The basic idea** — apply [Transparency](../core_05o_oversight_definitions.md#transparency) and [Participation](../core_05p_participation_definitions.md#participation) so information is usable, not a wall of documents; participation routes are practical, not symbolic; and challenge and escalation routes work without retaliation.
+- **The basic idea** — apply [Transparency](../core_05defs_oversight.md#transparency) and [Participation](../core_05defs_participation.md#participation) so information is usable, not a wall of documents; participation routes are practical, not symbolic; and challenge and escalation routes work without retaliation.
 - **CI-8.1** — stakeholder notice and binding-governance pathways: when a decision will really affect you, you get timely notice, a real window to weigh in, a published decision path, and a record of what happens next.
 - **CI-8.2** — anti-concentration and participation-legitimacy safeguards: no single voice or bloc should dominate; institutions must publish how participation weighting works and where to escalate when concentration risk appears.
 - **CI-8.3** — digital self-service pathway integrity: sign up, manage, downgrade, renew, and cancel online must be at least as workable as signing up; read with **CI-10.2** where billing applies.
@@ -57,13 +57,13 @@ Apply **CJS-5.8** **Institutional participation and pathway accessibility floor*
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Contestability](../core_05a_accountability_definitions.md#contestability) · [O](../core_05a_accountability_definitions.md#contestability) · [A](../core_05a_accountability_definitions.md#contestability-a) · [C](../core_05a_accountability_definitions.md#contestability-c)
-- [Stakeholder](../core_05p_participation_definitions.md#stakeholder) · [O](../core_05p_participation_definitions.md#stakeholder) · [A](../core_05p_participation_definitions.md#stakeholder-a) · [C](../core_05p_participation_definitions.md#stakeholder-c)
-- [Dependency](../core_05c_continuity_definitions.md#dependency) · [O](../core_05c_continuity_definitions.md#dependency) · [A](../core_05c_continuity_definitions.md#dependency-a) · [C](../core_05c_continuity_definitions.md#dependency-c)
-- [Governance](../core_05a_accountability_definitions.md#governance) · [O](../core_05a_accountability_definitions.md#governance) · [A](../core_05a_accountability_definitions.md#governance-a) · [C](../core_05a_accountability_definitions.md#governance-c)
-- [Oversight](../core_05o_oversight_definitions.md#oversight-constitutional) · [O](../core_05o_oversight_definitions.md#oversight-constitutional) · [A](../core_05o_oversight_definitions.md#oversight-constitutional-a) · [C](../core_05o_oversight_definitions.md#oversight-constitutional-c)
-- [Material](../core_05o_oversight_definitions.md#material) · [O](../core_05o_oversight_definitions.md#material) · [A](../core_05o_oversight_definitions.md#material-a) · [C](../core_05o_oversight_definitions.md#material-c)
-- [Transparency](../core_05o_oversight_definitions.md#transparency) · [O](../core_05o_oversight_definitions.md#transparency) · [A](../core_05o_oversight_definitions.md#transparency-a) · [C](../core_05o_oversight_definitions.md#transparency-c)
+- [Contestability](../core_05defs_accountability.md#contestability) · [O](../core_05defs_accountability.md#contestability) · [A](../core_05defs_accountability.md#contestability-a) · [C](../core_05defs_accountability.md#contestability-c)
+- [Stakeholder](../core_05defs_participation.md#stakeholder) · [O](../core_05defs_participation.md#stakeholder) · [A](../core_05defs_participation.md#stakeholder-a) · [C](../core_05defs_participation.md#stakeholder-c)
+- [Dependency](../core_05defs_continuity.md#dependency) · [O](../core_05defs_continuity.md#dependency) · [A](../core_05defs_continuity.md#dependency-a) · [C](../core_05defs_continuity.md#dependency-c)
+- [Governance](../core_05defs_accountability.md#governance) · [O](../core_05defs_accountability.md#governance) · [A](../core_05defs_accountability.md#governance-a) · [C](../core_05defs_accountability.md#governance-c)
+- [Oversight](../core_05apex_oversight_leg.md#oversight-constitutional) · [O](../core_05apex_oversight_leg.md#oversight-constitutional) · [A](../core_05apex_oversight_leg.md#oversight-constitutional-a) · [C](../core_05apex_oversight_leg.md#oversight-constitutional-c)
+- [Material](../core_05defs_oversight.md#material) · [O](../core_05defs_oversight.md#material) · [A](../core_05defs_oversight.md#material-a) · [C](../core_05defs_oversight.md#material-c)
+- [Transparency](../core_05defs_oversight.md#transparency) · [O](../core_05defs_oversight.md#transparency) · [A](../core_05defs_oversight.md#transparency-a) · [C](../core_05defs_oversight.md#transparency-c)
 
 </details>
 
@@ -101,13 +101,13 @@ Apply **CJS-5.7** **Stakeholder oversight and binding-governance pathway integri
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Dependency](../core_05c_continuity_definitions.md#dependency) · [O](../core_05c_continuity_definitions.md#dependency) · [A](../core_05c_continuity_definitions.md#dependency-a) · [C](../core_05c_continuity_definitions.md#dependency-c)
-- [Governance](../core_05a_accountability_definitions.md#governance) · [O](../core_05a_accountability_definitions.md#governance) · [A](../core_05a_accountability_definitions.md#governance-a) · [C](../core_05a_accountability_definitions.md#governance-c)
-- [Transparency](../core_05o_oversight_definitions.md#transparency) · [O](../core_05o_oversight_definitions.md#transparency) · [A](../core_05o_oversight_definitions.md#transparency-a) · [C](../core_05o_oversight_definitions.md#transparency-c)
-- [Accessibility](../core_05p_participation_definitions.md#accessibility-constitutional) · [O](../core_05p_participation_definitions.md#accessibility-constitutional) · [A](../core_05p_participation_definitions.md#accessibility-constitutional-a) · [C](../core_05p_participation_definitions.md#accessibility-constitutional-c)
-- [Stakeholder Participation Weight](../core_05p_participation_definitions.md#stakeholder-participation-weight) · [O](../core_05p_participation_definitions.md#stakeholder-participation-weight) · [A](../core_05p_participation_definitions.md#stakeholder-participation-weight-a) · [C](../core_05p_participation_definitions.md#stakeholder-participation-weight-c)
-- [Oversight](../core_05o_oversight_definitions.md#oversight-constitutional) · [O](../core_05o_oversight_definitions.md#oversight-constitutional) · [A](../core_05o_oversight_definitions.md#oversight-constitutional-a) · [C](../core_05o_oversight_definitions.md#oversight-constitutional-c)
-- [Auditability](../core_05o_oversight_definitions.md#auditability) · [O](../core_05o_oversight_definitions.md#auditability) · [A](../core_05o_oversight_definitions.md#auditability-a) · [C](../core_05o_oversight_definitions.md#auditability-c)
+- [Dependency](../core_05defs_continuity.md#dependency) · [O](../core_05defs_continuity.md#dependency) · [A](../core_05defs_continuity.md#dependency-a) · [C](../core_05defs_continuity.md#dependency-c)
+- [Governance](../core_05defs_accountability.md#governance) · [O](../core_05defs_accountability.md#governance) · [A](../core_05defs_accountability.md#governance-a) · [C](../core_05defs_accountability.md#governance-c)
+- [Transparency](../core_05defs_oversight.md#transparency) · [O](../core_05defs_oversight.md#transparency) · [A](../core_05defs_oversight.md#transparency-a) · [C](../core_05defs_oversight.md#transparency-c)
+- [Accessibility](../core_05defs_participation.md#accessibility-constitutional) · [O](../core_05defs_participation.md#accessibility-constitutional) · [A](../core_05defs_participation.md#accessibility-constitutional-a) · [C](../core_05defs_participation.md#accessibility-constitutional-c)
+- [Stakeholder Participation Weight](../core_05defs_participation.md#stakeholder-participation-weight) · [O](../core_05defs_participation.md#stakeholder-participation-weight) · [A](../core_05defs_participation.md#stakeholder-participation-weight-a) · [C](../core_05defs_participation.md#stakeholder-participation-weight-c)
+- [Oversight](../core_05apex_oversight_leg.md#oversight-constitutional) · [O](../core_05apex_oversight_leg.md#oversight-constitutional) · [A](../core_05apex_oversight_leg.md#oversight-constitutional-a) · [C](../core_05apex_oversight_leg.md#oversight-constitutional-c)
+- [Auditability](../core_05defs_oversight.md#auditability) · [O](../core_05defs_oversight.md#auditability) · [A](../core_05defs_oversight.md#auditability-a) · [C](../core_05defs_oversight.md#auditability-c)
 
 </details>
 
@@ -144,13 +144,13 @@ Apply **CJS-5.11** **Anti-concentration guardrails and trigger mitigation** and 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Trust Degradation and Misleading Reliance](../core_05c_continuity_definitions.md#trust-degradation-and-misleading-reliance) · [O](../core_05c_continuity_definitions.md#trust-degradation-and-misleading-reliance) · [A](../core_05c_continuity_definitions.md#trust-degradation-and-misleading-reliance-a) · [C](../core_05c_continuity_definitions.md#trust-degradation-and-misleading-reliance-c)
-- [Coercion and Manipulation](../core_05p_participation_definitions.md#coercion-and-manipulation-constitutional) · [O](../core_05p_participation_definitions.md#coercion-and-manipulation-constitutional) · [A](../core_05p_participation_definitions.md#coercion-and-manipulation-constitutional-a) · [C](../core_05p_participation_definitions.md#coercion-and-manipulation-constitutional-c)
-- [Accessibility](../core_05p_participation_definitions.md#accessibility-constitutional) · [O](../core_05p_participation_definitions.md#accessibility-constitutional) · [A](../core_05p_participation_definitions.md#accessibility-constitutional-a) · [C](../core_05p_participation_definitions.md#accessibility-constitutional-c)
-- [Material](../core_05o_oversight_definitions.md#material) · [O](../core_05o_oversight_definitions.md#material) · [A](../core_05o_oversight_definitions.md#material-a) · [C](../core_05o_oversight_definitions.md#material-c)
-- [Consent](../core_05p_participation_definitions.md#consent-constitutional) · [O](../core_05p_participation_definitions.md#consent-constitutional) · [A](../core_05p_participation_definitions.md#consent-constitutional-a) · [C](../core_05p_participation_definitions.md#consent-constitutional-c)
-- [Corpus](../core_05i_integrative_definitions.md#corpus) · [O](../core_05i_integrative_definitions.md#corpus) · [A](../core_05i_integrative_definitions.md#corpus-a) · [C](../core_05i_integrative_definitions.md#corpus-c)
-- [Trust](../core_05c_continuity_definitions.md#trust) · [O](../core_05c_continuity_definitions.md#trust) · [A](../core_05c_continuity_definitions.md#trust-a) · [C](../core_05c_continuity_definitions.md#trust-c)
+- [Trust Degradation and Misleading Reliance](../core_05defs_continuity.md#trust-degradation-and-misleading-reliance) · [O](../core_05defs_continuity.md#trust-degradation-and-misleading-reliance) · [A](../core_05defs_continuity.md#trust-degradation-and-misleading-reliance-a) · [C](../core_05defs_continuity.md#trust-degradation-and-misleading-reliance-c)
+- [Coercion and Manipulation](../core_05defs_participation.md#coercion-and-manipulation-constitutional) · [O](../core_05defs_participation.md#coercion-and-manipulation-constitutional) · [A](../core_05defs_participation.md#coercion-and-manipulation-constitutional-a) · [C](../core_05defs_participation.md#coercion-and-manipulation-constitutional-c)
+- [Accessibility](../core_05defs_participation.md#accessibility-constitutional) · [O](../core_05defs_participation.md#accessibility-constitutional) · [A](../core_05defs_participation.md#accessibility-constitutional-a) · [C](../core_05defs_participation.md#accessibility-constitutional-c)
+- [Material](../core_05defs_oversight.md#material) · [O](../core_05defs_oversight.md#material) · [A](../core_05defs_oversight.md#material-a) · [C](../core_05defs_oversight.md#material-c)
+- [Consent](../core_05defs_participation.md#consent-constitutional) · [O](../core_05defs_participation.md#consent-constitutional) · [A](../core_05defs_participation.md#consent-constitutional-a) · [C](../core_05defs_participation.md#consent-constitutional-c)
+- [Corpus](../core_05defs_integrative.md#corpus) · [O](../core_05defs_integrative.md#corpus) · [A](../core_05defs_integrative.md#corpus-a) · [C](../core_05defs_integrative.md#corpus-c)
+- [Trust](../core_05defs_continuity.md#trust) · [O](../core_05defs_continuity.md#trust) · [A](../core_05defs_continuity.md#trust-a) · [C](../core_05defs_continuity.md#trust-c)
 
 </details>
 
@@ -189,13 +189,13 @@ Each supervised self-service pathway class must appear in the local operator-art
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Accountability](../core_05a_accountability_definitions.md#accountability) · [O](../core_05a_accountability_definitions.md#accountability) · [A](../core_05a_accountability_definitions.md#accountability-a) · [C](../core_05a_accountability_definitions.md#accountability-c)
-- [Governance](../core_05a_accountability_definitions.md#governance) · [O](../core_05a_accountability_definitions.md#governance) · [A](../core_05a_accountability_definitions.md#governance-a) · [C](../core_05a_accountability_definitions.md#governance-c)
-- [Material](../core_05o_oversight_definitions.md#material) · [O](../core_05o_oversight_definitions.md#material) · [A](../core_05o_oversight_definitions.md#material-a) · [C](../core_05o_oversight_definitions.md#material-c)
-- [Transparency](../core_05o_oversight_definitions.md#transparency) · [O](../core_05o_oversight_definitions.md#transparency) · [A](../core_05o_oversight_definitions.md#transparency-a) · [C](../core_05o_oversight_definitions.md#transparency-c)
-- [Accessibility](../core_05p_participation_definitions.md#accessibility-constitutional) · [O](../core_05p_participation_definitions.md#accessibility-constitutional) · [A](../core_05p_participation_definitions.md#accessibility-constitutional-a) · [C](../core_05p_participation_definitions.md#accessibility-constitutional-c)
-- [Stakeholder Participation Weight](../core_05p_participation_definitions.md#stakeholder-participation-weight) · [O](../core_05p_participation_definitions.md#stakeholder-participation-weight) · [A](../core_05p_participation_definitions.md#stakeholder-participation-weight-a) · [C](../core_05p_participation_definitions.md#stakeholder-participation-weight-c)
-- [Oversight](../core_05o_oversight_definitions.md#oversight-constitutional) · [O](../core_05o_oversight_definitions.md#oversight-constitutional) · [A](../core_05o_oversight_definitions.md#oversight-constitutional-a) · [C](../core_05o_oversight_definitions.md#oversight-constitutional-c)
+- [Accountability](../core_05apex_accountability_leg.md#accountability) · [O](../core_05apex_accountability_leg.md#accountability) · [A](../core_05apex_accountability_leg.md#accountability-a) · [C](../core_05apex_accountability_leg.md#accountability-c)
+- [Governance](../core_05defs_accountability.md#governance) · [O](../core_05defs_accountability.md#governance) · [A](../core_05defs_accountability.md#governance-a) · [C](../core_05defs_accountability.md#governance-c)
+- [Material](../core_05defs_oversight.md#material) · [O](../core_05defs_oversight.md#material) · [A](../core_05defs_oversight.md#material-a) · [C](../core_05defs_oversight.md#material-c)
+- [Transparency](../core_05defs_oversight.md#transparency) · [O](../core_05defs_oversight.md#transparency) · [A](../core_05defs_oversight.md#transparency-a) · [C](../core_05defs_oversight.md#transparency-c)
+- [Accessibility](../core_05defs_participation.md#accessibility-constitutional) · [O](../core_05defs_participation.md#accessibility-constitutional) · [A](../core_05defs_participation.md#accessibility-constitutional-a) · [C](../core_05defs_participation.md#accessibility-constitutional-c)
+- [Stakeholder Participation Weight](../core_05defs_participation.md#stakeholder-participation-weight) · [O](../core_05defs_participation.md#stakeholder-participation-weight) · [A](../core_05defs_participation.md#stakeholder-participation-weight-a) · [C](../core_05defs_participation.md#stakeholder-participation-weight-c)
+- [Oversight](../core_05apex_oversight_leg.md#oversight-constitutional) · [O](../core_05apex_oversight_leg.md#oversight-constitutional) · [A](../core_05apex_oversight_leg.md#oversight-constitutional-a) · [C](../core_05apex_oversight_leg.md#oversight-constitutional-c)
 
 </details>
 

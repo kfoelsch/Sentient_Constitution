@@ -48,9 +48,9 @@ Many small decisions that each look fine may still combine into an outcome this 
 
 *Scope.* [§6.1 Core Tradeoff Principles](#61-core-tradeoff-principles) — definitions for necessity, harm minimization, and harm in the tradeoff stack.
 
-- [Necessity](core_05a_accountability_definitions.md#necessity) · [O](core_05a_accountability_definitions.md#necessity) · [A](core_05a_accountability_definitions.md#necessity-a) · [C](core_05a_accountability_definitions.md#necessity-c)
-- [Harm Minimization (Tradeoff Selection)](core_05a_accountability_definitions.md#harm-minimization-tradeoff-selection) · [O](core_05a_accountability_definitions.md#harm-minimization-tradeoff-selection) · [A](core_05a_accountability_definitions.md#harm-minimization-tradeoff-selection-a) · [C](core_05a_accountability_definitions.md#harm-minimization-tradeoff-selection-c)
-- [Harm](core_05a_accountability_definitions.md#harm) · [O](core_05a_accountability_definitions.md#harm) · [A](core_05a_accountability_definitions.md#harm-a) · [C](core_05a_accountability_definitions.md#harm-c)
+- [Necessity](core_05defs_accountability.md#necessity) · [O](core_05defs_accountability.md#necessity) · [A](core_05defs_accountability.md#necessity-a) · [C](core_05defs_accountability.md#necessity-c)
+- [Harm Minimization (Tradeoff Selection)](core_05defs_accountability.md#harm-minimization-tradeoff-selection) · [O](core_05defs_accountability.md#harm-minimization-tradeoff-selection) · [A](core_05defs_accountability.md#harm-minimization-tradeoff-selection-a) · [C](core_05defs_accountability.md#harm-minimization-tradeoff-selection-c)
+- [Harm](core_05defs_accountability.md#harm) · [O](core_05defs_accountability.md#harm) · [A](core_05defs_accountability.md#harm-a) · [C](core_05defs_accountability.md#harm-c)
 
 </details>
 
@@ -75,9 +75,9 @@ Once the tradeoff stack is satisfied, **[§6.3 Minimization of Avoidable Burden]
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Necessity](core_05a_accountability_definitions.md#necessity) · [O](core_05a_accountability_definitions.md#necessity) · [A](core_05a_accountability_definitions.md#necessity-a) · [C](core_05a_accountability_definitions.md#necessity-c)
-- [Feasibility](core_05a_accountability_definitions.md#feasibility) · [O](core_05a_accountability_definitions.md#feasibility) · [A](core_05a_accountability_definitions.md#feasibility-a) · [C](core_05a_accountability_definitions.md#feasibility-c)
-- [Freedom (Bounded Agency)](core_05p_participation_definitions.md#freedom-bounded-agency) · [O](core_05p_participation_definitions.md#freedom-bounded-agency) · [A](core_05p_participation_definitions.md#freedom-bounded-agency-a) · [C](core_05p_participation_definitions.md#freedom-bounded-agency-c)
+- [Necessity](core_05defs_accountability.md#necessity) · [O](core_05defs_accountability.md#necessity) · [A](core_05defs_accountability.md#necessity-a) · [C](core_05defs_accountability.md#necessity-c)
+- [Feasibility](core_05defs_accountability.md#feasibility) · [O](core_05defs_accountability.md#feasibility) · [A](core_05defs_accountability.md#feasibility-a) · [C](core_05defs_accountability.md#feasibility-c)
+- [Freedom (Bounded Agency)](core_05defs_participation.md#freedom-bounded-agency) · [O](core_05defs_participation.md#freedom-bounded-agency) · [A](core_05defs_participation.md#freedom-bounded-agency-a) · [C](core_05defs_participation.md#freedom-bounded-agency-c)
 
 </details>
 
@@ -100,7 +100,7 @@ Assertion that no alternative exists, without documented analysis, does not sati
 - cost savings alone where rights are materially affected;
 - the fact that the restriction already exists.
 
-**Scope.** This subsection applies to any constitutional restriction — not only rights-collision contexts under [§6.3](#63-rights-collision-procedure). Where a restriction materially burdens [Freedom (Bounded Agency)](core_05p_participation_definitions.md#freedom-bounded-agency), [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency), or [Consent](core_05p_participation_definitions.md#consent-constitutional), the necessity showing must be correspondingly rigorous.
+**Scope.** This subsection applies to any constitutional restriction — not only rights-collision contexts under [§6.3](#63-rights-collision-procedure). Where a restriction materially burdens [Freedom (Bounded Agency)](core_05defs_participation.md#freedom-bounded-agency), [Meaningful Agency](core_05defs_participation.md#meaningful-agency), or [Consent](core_05defs_participation.md#consent-constitutional), the necessity showing must be correspondingly rigorous.
 
 <a id="612-harm-minimization"></a>
 ##### 6.1.2 Harm Minimization
@@ -108,10 +108,10 @@ Assertion that no alternative exists, without documented analysis, does not sati
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Harm Minimization (Tradeoff Selection)](core_05a_accountability_definitions.md#harm-minimization-tradeoff-selection) · [O](core_05a_accountability_definitions.md#harm-minimization-tradeoff-selection) · [A](core_05a_accountability_definitions.md#harm-minimization-tradeoff-selection-a) · [C](core_05a_accountability_definitions.md#harm-minimization-tradeoff-selection-c)
-- [Harm](core_05a_accountability_definitions.md#harm) · [O](core_05a_accountability_definitions.md#harm) · [A](core_05a_accountability_definitions.md#harm-a) · [C](core_05a_accountability_definitions.md#harm-c)
-- [Risk](core_05c_continuity_definitions.md#risk) · [O](core_05c_continuity_definitions.md#risk) · [A](core_05c_continuity_definitions.md#risk-a) · [C](core_05c_continuity_definitions.md#risk-c)
-- [Irreversible Harm](core_05a_accountability_definitions.md#irreversible-harm) · [O](core_05a_accountability_definitions.md#irreversible-harm) · [A](core_05a_accountability_definitions.md#irreversible-harm-a) · [C](core_05a_accountability_definitions.md#irreversible-harm-c)
+- [Harm Minimization (Tradeoff Selection)](core_05defs_accountability.md#harm-minimization-tradeoff-selection) · [O](core_05defs_accountability.md#harm-minimization-tradeoff-selection) · [A](core_05defs_accountability.md#harm-minimization-tradeoff-selection-a) · [C](core_05defs_accountability.md#harm-minimization-tradeoff-selection-c)
+- [Harm](core_05defs_accountability.md#harm) · [O](core_05defs_accountability.md#harm) · [A](core_05defs_accountability.md#harm-a) · [C](core_05defs_accountability.md#harm-c)
+- [Risk](core_05defs_continuity.md#risk) · [O](core_05defs_continuity.md#risk) · [A](core_05defs_continuity.md#risk-a) · [C](core_05defs_continuity.md#risk-c)
+- [Irreversible Harm](core_05defs_accountability.md#irreversible-harm) · [O](core_05defs_accountability.md#irreversible-harm) · [A](core_05defs_accountability.md#irreversible-harm-a) · [C](core_05defs_accountability.md#irreversible-harm-c)
 
 </details>
 
@@ -119,7 +119,7 @@ Assertion that no alternative exists, without documented analysis, does not sati
 
 *In plain terms: where multiple necessary options remain after [§6.1.1](#611-necessity) is satisfied, pick the one that causes the least total harm — counting everyone affected, all systems touched, and all time horizons that matter. Optimizing locally while creating systemic damage, or optimizing short-term while creating long-term harm, fails this test. Harm minimization never authorizes pushing below the constitutional floors in [§6.1.4](#614-constitutional-floors-safety-and-process-character-constraints).*
 
-**Scope of comparison.** Where multiple constitutionally adequate options satisfy [Safety (§3.1)](core_01_a_values_principles.md#31-safety-harm-constraint), [Truth (§3.2)](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), and [§6.1.1 Necessity](#611-necessity), selection must favor the option that minimizes total [Harm](core_05a_accountability_definitions.md#harm) across:
+**Scope of comparison.** Where multiple constitutionally adequate options satisfy [Safety (§3.1)](core_01_a_values_principles.md#31-safety-harm-constraint), [Truth (§3.2)](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), and [§6.1.1 Necessity](#611-necessity), selection must favor the option that minimizes total [Harm](core_05defs_accountability.md#harm) across:
 - sentients directly and indirectly affected;
 - systems that carry, mediate, or depend on the outcome;
 - relevant time horizons, including delayed and cumulative effects.
@@ -148,16 +148,16 @@ Harm minimization selects among options that already clear those floors — it d
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Proportionality](core_05a_accountability_definitions.md#proportionality) · [O](core_05a_accountability_definitions.md#proportionality) · [A](core_05a_accountability_definitions.md#proportionality-a) · [C](core_05a_accountability_definitions.md#proportionality-c)
-- [Risk](core_05c_continuity_definitions.md#risk) · [O](core_05c_continuity_definitions.md#risk) · [A](core_05c_continuity_definitions.md#risk-a) · [C](core_05c_continuity_definitions.md#risk-c)
-- [Irreversible Harm](core_05a_accountability_definitions.md#irreversible-harm) · [O](core_05a_accountability_definitions.md#irreversible-harm) · [A](core_05a_accountability_definitions.md#irreversible-harm-a) · [C](core_05a_accountability_definitions.md#irreversible-harm-c)
-- [Existential Risk](core_05c_continuity_definitions.md#existential-risk) · [O](core_05c_continuity_definitions.md#existential-risk) · [A](core_05c_continuity_definitions.md#existential-risk-a) · [C](core_05c_continuity_definitions.md#existential-risk-c)
-- [Ecological Recovery Capacity](core_05c_continuity_definitions.md#ecological-recovery-capacity-constitutional) · [O](core_05c_continuity_definitions.md#ecological-recovery-capacity-constitutional) · [A](core_05c_continuity_definitions.md#ecological-recovery-capacity-constitutional-a) · [C](core_05c_continuity_definitions.md#ecological-recovery-capacity-constitutional-c)
-- [Systemic Lock-In](core_05c_continuity_definitions.md#systemic-lock-in) · [O](core_05c_continuity_definitions.md#systemic-lock-in) · [A](core_05c_continuity_definitions.md#systemic-lock-in-a) · [C](core_05c_continuity_definitions.md#systemic-lock-in-c)
-- [Reversibility](core_05c_continuity_definitions.md#reversibility-constitutional) · [O](core_05c_continuity_definitions.md#reversibility-constitutional) · [A](core_05c_continuity_definitions.md#reversibility-constitutional-a) · [C](core_05c_continuity_definitions.md#reversibility-constitutional-c)
-- [Dependency](core_05c_continuity_definitions.md#dependency) · [O](core_05c_continuity_definitions.md#dependency) · [A](core_05c_continuity_definitions.md#dependency-a) · [C](core_05c_continuity_definitions.md#dependency-c)
-- [Accountability](core_05a_accountability_definitions.md#accountability) · [O](core_05a_accountability_definitions.md#accountability) · [A](core_05a_accountability_definitions.md#accountability-a) · [C](core_05a_accountability_definitions.md#accountability-c)
-- [Oversight](core_05o_oversight_definitions.md#oversight-constitutional) · [O](core_05o_oversight_definitions.md#oversight-constitutional) · [A](core_05o_oversight_definitions.md#oversight-constitutional-a) · [C](core_05o_oversight_definitions.md#oversight-constitutional-c)
+- [Proportionality](core_05defs_accountability.md#proportionality) · [O](core_05defs_accountability.md#proportionality) · [A](core_05defs_accountability.md#proportionality-a) · [C](core_05defs_accountability.md#proportionality-c)
+- [Risk](core_05defs_continuity.md#risk) · [O](core_05defs_continuity.md#risk) · [A](core_05defs_continuity.md#risk-a) · [C](core_05defs_continuity.md#risk-c)
+- [Irreversible Harm](core_05defs_accountability.md#irreversible-harm) · [O](core_05defs_accountability.md#irreversible-harm) · [A](core_05defs_accountability.md#irreversible-harm-a) · [C](core_05defs_accountability.md#irreversible-harm-c)
+- [Existential Risk](core_05defs_continuity.md#existential-risk) · [O](core_05defs_continuity.md#existential-risk) · [A](core_05defs_continuity.md#existential-risk-a) · [C](core_05defs_continuity.md#existential-risk-c)
+- [Ecological Recovery Capacity](core_05defs_continuity.md#ecological-recovery-capacity-constitutional) · [O](core_05defs_continuity.md#ecological-recovery-capacity-constitutional) · [A](core_05defs_continuity.md#ecological-recovery-capacity-constitutional-a) · [C](core_05defs_continuity.md#ecological-recovery-capacity-constitutional-c)
+- [Systemic Lock-In](core_05defs_continuity.md#systemic-lock-in) · [O](core_05defs_continuity.md#systemic-lock-in) · [A](core_05defs_continuity.md#systemic-lock-in-a) · [C](core_05defs_continuity.md#systemic-lock-in-c)
+- [Reversibility](core_05defs_continuity.md#reversibility-constitutional) · [O](core_05defs_continuity.md#reversibility-constitutional) · [A](core_05defs_continuity.md#reversibility-constitutional-a) · [C](core_05defs_continuity.md#reversibility-constitutional-c)
+- [Dependency](core_05defs_continuity.md#dependency) · [O](core_05defs_continuity.md#dependency) · [A](core_05defs_continuity.md#dependency-a) · [C](core_05defs_continuity.md#dependency-c)
+- [Accountability](core_05apex_accountability_leg.md#accountability) · [O](core_05apex_accountability_leg.md#accountability) · [A](core_05apex_accountability_leg.md#accountability-a) · [C](core_05apex_accountability_leg.md#accountability-c)
+- [Oversight](core_05apex_oversight_leg.md#oversight-constitutional) · [O](core_05apex_oversight_leg.md#oversight-constitutional) · [A](core_05apex_oversight_leg.md#oversight-constitutional-a) · [C](core_05apex_oversight_leg.md#oversight-constitutional-c)
 
 </details>
 
@@ -165,13 +165,13 @@ Harm minimization selects among options that already clear those floors — it d
 
 *In plain terms: proportionality verifies that the scale of a restriction fits the scale of the harm it addresses. A necessary, harm-minimizing option still fails if its scope, duration, or intensity is disproportionate to what's actually at stake. The more irreversible, systemic, or dependency-creating the risk, the stronger the justification and scrutiny must be. The same under-governance rule applies to power: greater authorized power or consequential role must raise accountability and oversight, not lower them.*
 
-Limitations on constitutional **values** — including **Chapter Six** Rights-Floor protections and other principles and protections subject to tradeoff under [§5](#6-process-conflict-resolution) — must be proportionate to the magnitude and likelihood of the **harm** or **systemic impact** legitimately addressed, consistent with [Proportionality](core_05a_accountability_definitions.md#proportionality) in **Chapter Five**.
+Limitations on constitutional **values** — including **Chapter Six** Rights-Floor protections and other principles and protections subject to tradeoff under [§5](#6-process-conflict-resolution) — must be proportionate to the magnitude and likelihood of the **harm** or **systemic impact** legitimately addressed, consistent with [Proportionality](core_05defs_accountability.md#proportionality) in **Chapter Five**.
 
 Proportionality does not by itself authorize restriction. A restriction must first satisfy [§6.1.1 Necessity](#611-necessity) and [§6.1.2 Harm Minimization](#612-harm-minimization); proportionality then verifies that the selected option's scale fits the harm addressed. Any actual restriction must also satisfy [§6.1.4 Constitutional Floors](#614-constitutional-floors-safety-and-process-character-constraints), [§6.1.5 Least-Restrictive Constraint](#least-restrictive-time-bounded-and-reviewable-constraint-principle), and all applicable Rights-Floor protections.
 
 **Classification floor.** No system may be governed at a level lower than that required by its highest applicable classification. A lower administrative label cannot reduce the scrutiny required by the highest applicable risk, dependency, rights, or system-impact classification.
 
-**Authority-scaled answerability.** Proportionality also forbids under-governance of those who hold greater authorized power, consequential role, or institutional influence: [Accountability](core_05a_accountability_definitions.md#accountability) and [Oversight](core_05o_oversight_definitions.md#oversight-constitutional) intensity must rise with that authority, not fall. Read with [§10.1 Governance as Authorized Structure](core_01_c_stewardship_capacity_principles.md#10-governance-as-authorized-structure).
+**Authority-scaled answerability.** Proportionality also forbids under-governance of those who hold greater authorized power, consequential role, or institutional influence: [Accountability](core_05apex_accountability_leg.md#accountability) and [Oversight](core_05apex_oversight_leg.md#oversight-constitutional) intensity must rise with that authority, not fall. Read with [§10.1 Governance as Authorized Structure](core_01_c_stewardship_capacity_principles.md#10-governance-as-authorized-structure).
 
 **Heightened thresholds.** Where actions introduce risk of irreversible harm, systemic lock-in, Existential Risk, or irreversible loss of Ecological Recovery Capacity, systems must apply heightened thresholds for justification, scrutiny, and reversibility where feasible.
 
@@ -189,12 +189,12 @@ Proportionality does not by itself authorize restriction. A restriction must fir
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint) · [O](core_05c_continuity_definitions.md#safety-constraint) · [A](core_05c_continuity_definitions.md#safety-constraint-a) · [C](core_05c_continuity_definitions.md#safety-constraint-c)
-- [Dignity and Equal Moral Standing](core_05p_participation_definitions.md#dignity-and-equal-moral-standing) · [O](core_05p_participation_definitions.md#dignity-and-equal-moral-standing) · [A](core_05p_participation_definitions.md#dignity-and-equal-moral-standing-a) · [C](core_05p_participation_definitions.md#dignity-and-equal-moral-standing-c)
-- [Harm](core_05a_accountability_definitions.md#harm) · [O](core_05a_accountability_definitions.md#harm) · [A](core_05a_accountability_definitions.md#harm-a) · [C](core_05a_accountability_definitions.md#harm-c)
-- [Irreversible Harm](core_05a_accountability_definitions.md#irreversible-harm) · [O](core_05a_accountability_definitions.md#irreversible-harm) · [A](core_05a_accountability_definitions.md#irreversible-harm-a) · [C](core_05a_accountability_definitions.md#irreversible-harm-c)
-- [Necessity](core_05a_accountability_definitions.md#necessity) · [O](core_05a_accountability_definitions.md#necessity) · [A](core_05a_accountability_definitions.md#necessity-a) · [C](core_05a_accountability_definitions.md#necessity-c)
-- [Proportionality](core_05a_accountability_definitions.md#proportionality) · [O](core_05a_accountability_definitions.md#proportionality) · [A](core_05a_accountability_definitions.md#proportionality-a) · [C](core_05a_accountability_definitions.md#proportionality-c)
+- [Safety (Constraint)](core_05defs_continuity.md#safety-constraint) · [O](core_05defs_continuity.md#safety-constraint) · [A](core_05defs_continuity.md#safety-constraint-a) · [C](core_05defs_continuity.md#safety-constraint-c)
+- [Dignity and Equal Moral Standing](core_05defs_participation.md#dignity-and-equal-moral-standing) · [O](core_05defs_participation.md#dignity-and-equal-moral-standing) · [A](core_05defs_participation.md#dignity-and-equal-moral-standing-a) · [C](core_05defs_participation.md#dignity-and-equal-moral-standing-c)
+- [Harm](core_05defs_accountability.md#harm) · [O](core_05defs_accountability.md#harm) · [A](core_05defs_accountability.md#harm-a) · [C](core_05defs_accountability.md#harm-c)
+- [Irreversible Harm](core_05defs_accountability.md#irreversible-harm) · [O](core_05defs_accountability.md#irreversible-harm) · [A](core_05defs_accountability.md#irreversible-harm-a) · [C](core_05defs_accountability.md#irreversible-harm-c)
+- [Necessity](core_05defs_accountability.md#necessity) · [O](core_05defs_accountability.md#necessity) · [A](core_05defs_accountability.md#necessity-a) · [C](core_05defs_accountability.md#necessity-c)
+- [Proportionality](core_05defs_accountability.md#proportionality) · [O](core_05defs_accountability.md#proportionality) · [A](core_05defs_accountability.md#proportionality-a) · [C](core_05defs_accountability.md#proportionality-c)
 
 </details>
 
@@ -259,13 +259,13 @@ Once the tradeoff stack is satisfied, [§6.3 Minimization of Avoidable Burden](#
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Epistemic Integrity](core_05o_oversight_definitions.md#epistemic-integrity) · [O](core_05o_oversight_definitions.md#epistemic-integrity-o) · [A](core_05o_oversight_definitions.md#epistemic-integrity-a) · [C](core_05o_oversight_definitions.md#epistemic-integrity-c)
-- [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint) · [O](core_05o_oversight_definitions.md#truth-constitutional-constraint-o) · [A](core_05o_oversight_definitions.md#truth-constitutional-constraint-a) · [C](core_05o_oversight_definitions.md#truth-constitutional-constraint-c)
-- [Trust](core_05c_continuity_definitions.md#trust) · [O](core_05c_continuity_definitions.md#trust) · [A](core_05c_continuity_definitions.md#trust-a) · [C](core_05c_continuity_definitions.md#trust-c)
-- [Materiality](core_05o_oversight_definitions.md#materiality-determination) · [O](core_05o_oversight_definitions.md#materiality-determination) · [A](core_05o_oversight_definitions.md#materiality-determination-a) · [C](core_05o_oversight_definitions.md#materiality-determination-c)
-- [Foreseeability](core_05o_oversight_definitions.md#foreseeability-diligence) · [O](core_05o_oversight_definitions.md#foreseeability-diligence) · [A](core_05o_oversight_definitions.md#foreseeability-diligence-a) · [C](core_05o_oversight_definitions.md#foreseeability-diligence-c)
-- [Necessity](core_05a_accountability_definitions.md#necessity) · [O](core_05a_accountability_definitions.md#necessity) · [A](core_05a_accountability_definitions.md#necessity-a) · [C](core_05a_accountability_definitions.md#necessity-c)
-- [Proportionality](core_05a_accountability_definitions.md#proportionality) · [O](core_05a_accountability_definitions.md#proportionality) · [A](core_05a_accountability_definitions.md#proportionality-a) · [C](core_05a_accountability_definitions.md#proportionality-c)
+- [Epistemic Integrity](core_05defs_oversight.md#epistemic-integrity) · [O](core_05defs_oversight.md#epistemic-integrity-o) · [A](core_05defs_oversight.md#epistemic-integrity-a) · [C](core_05defs_oversight.md#epistemic-integrity-c)
+- [Truth (Constitutional Constraint)](core_05defs_oversight.md#truth-constitutional-constraint) · [O](core_05defs_oversight.md#truth-constitutional-constraint-o) · [A](core_05defs_oversight.md#truth-constitutional-constraint-a) · [C](core_05defs_oversight.md#truth-constitutional-constraint-c)
+- [Trust](core_05defs_continuity.md#trust) · [O](core_05defs_continuity.md#trust) · [A](core_05defs_continuity.md#trust-a) · [C](core_05defs_continuity.md#trust-c)
+- [Materiality](core_05defs_oversight.md#materiality-determination) · [O](core_05defs_oversight.md#materiality-determination) · [A](core_05defs_oversight.md#materiality-determination-a) · [C](core_05defs_oversight.md#materiality-determination-c)
+- [Foreseeability](core_05defs_oversight.md#foreseeability-diligence) · [O](core_05defs_oversight.md#foreseeability-diligence) · [A](core_05defs_oversight.md#foreseeability-diligence-a) · [C](core_05defs_oversight.md#foreseeability-diligence-c)
+- [Necessity](core_05defs_accountability.md#necessity) · [O](core_05defs_accountability.md#necessity) · [A](core_05defs_accountability.md#necessity-a) · [C](core_05defs_accountability.md#necessity-c)
+- [Proportionality](core_05defs_accountability.md#proportionality) · [O](core_05defs_accountability.md#proportionality) · [A](core_05defs_accountability.md#proportionality-a) · [C](core_05defs_accountability.md#proportionality-c)
 
 </details>
 
@@ -277,9 +277,9 @@ Once the tradeoff stack is satisfied, [§6.3 Minimization of Avoidable Burden](#
 
 This section distinguishes three patterns:
 - **Distortion or suppression of truth** for stability, convenience, trust-preservation, or institutional advantage — **not permitted**.
-- **Delayed disclosure** and **limited disclosure** — permitted only where [§7.3](#621-preservation-of-epistemic-integrity) conditions are met, under [Necessity](core_05a_accountability_definitions.md#necessity) and [Proportionality](core_05a_accountability_definitions.md#proportionality), and with maximum feasible [Epistemic Integrity](core_05o_oversight_definitions.md#epistemic-integrity).
+- **Delayed disclosure** and **limited disclosure** — permitted only where [§7.3](#621-preservation-of-epistemic-integrity) conditions are met, under [Necessity](core_05defs_accountability.md#necessity) and [Proportionality](core_05defs_accountability.md#proportionality), and with maximum feasible [Epistemic Integrity](core_05defs_oversight.md#epistemic-integrity).
 
-Any justified limit must preserve the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) **oversight** leg through protected records, independent review, secure access, redaction, delayed release, or comparable safeguards. It must **not** defeat informed [contestability](core_05a_accountability_definitions.md#contestability) or applicable **Chapter Six** transparency, audit, or review duties except as [§7.3](#621-preservation-of-epistemic-integrity) expressly permits.
+Any justified limit must preserve the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) **oversight** leg through protected records, independent review, secure access, redaction, delayed release, or comparable safeguards. It must **not** defeat informed [contestability](core_05defs_accountability.md#contestability) or applicable **Chapter Six** transparency, audit, or review duties except as [§7.3](#621-preservation-of-epistemic-integrity) expressly permits.
 
 Safety-sensitive limits on publication, data access, method disclosure, or replication materials are governed here and under [§4.3 Science-Informed Inquiry and Decision Support](#43-science-informed-inquiry-and-decision-support). Such limits must **not** become a means to suppress unfavorable evidence, hide safety defects, or manufacture apparent consensus.
 
@@ -299,12 +299,12 @@ Safety-sensitive limits on publication, data access, method disclosure, or repli
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Epistemic Integrity](core_05o_oversight_definitions.md#epistemic-integrity) · [O](core_05o_oversight_definitions.md#epistemic-integrity-o) · [A](core_05o_oversight_definitions.md#epistemic-integrity-a) · [C](core_05o_oversight_definitions.md#epistemic-integrity-c)
-- [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint) · [O](core_05o_oversight_definitions.md#truth-constitutional-constraint-o) · [A](core_05o_oversight_definitions.md#truth-constitutional-constraint-a) · [C](core_05o_oversight_definitions.md#truth-constitutional-constraint-c)
-- [Materiality](core_05o_oversight_definitions.md#materiality-determination) · [O](core_05o_oversight_definitions.md#materiality-determination) · [A](core_05o_oversight_definitions.md#materiality-determination-a) · [C](core_05o_oversight_definitions.md#materiality-determination-c)
-- [Foreseeability](core_05o_oversight_definitions.md#foreseeability-diligence) · [O](core_05o_oversight_definitions.md#foreseeability-diligence) · [A](core_05o_oversight_definitions.md#foreseeability-diligence-a) · [C](core_05o_oversight_definitions.md#foreseeability-diligence-c)
-- [Necessity](core_05a_accountability_definitions.md#necessity) · [O](core_05a_accountability_definitions.md#necessity) · [A](core_05a_accountability_definitions.md#necessity-a) · [C](core_05a_accountability_definitions.md#necessity-c)
-- [Proportionality](core_05a_accountability_definitions.md#proportionality) · [O](core_05a_accountability_definitions.md#proportionality) · [A](core_05a_accountability_definitions.md#proportionality-a) · [C](core_05a_accountability_definitions.md#proportionality-c)
+- [Epistemic Integrity](core_05defs_oversight.md#epistemic-integrity) · [O](core_05defs_oversight.md#epistemic-integrity-o) · [A](core_05defs_oversight.md#epistemic-integrity-a) · [C](core_05defs_oversight.md#epistemic-integrity-c)
+- [Truth (Constitutional Constraint)](core_05defs_oversight.md#truth-constitutional-constraint) · [O](core_05defs_oversight.md#truth-constitutional-constraint-o) · [A](core_05defs_oversight.md#truth-constitutional-constraint-a) · [C](core_05defs_oversight.md#truth-constitutional-constraint-c)
+- [Materiality](core_05defs_oversight.md#materiality-determination) · [O](core_05defs_oversight.md#materiality-determination) · [A](core_05defs_oversight.md#materiality-determination-a) · [C](core_05defs_oversight.md#materiality-determination-c)
+- [Foreseeability](core_05defs_oversight.md#foreseeability-diligence) · [O](core_05defs_oversight.md#foreseeability-diligence) · [A](core_05defs_oversight.md#foreseeability-diligence-a) · [C](core_05defs_oversight.md#foreseeability-diligence-c)
+- [Necessity](core_05defs_accountability.md#necessity) · [O](core_05defs_accountability.md#necessity) · [A](core_05defs_accountability.md#necessity-a) · [C](core_05defs_accountability.md#necessity-c)
+- [Proportionality](core_05defs_accountability.md#proportionality) · [O](core_05defs_accountability.md#proportionality) · [A](core_05defs_accountability.md#proportionality-a) · [C](core_05defs_accountability.md#proportionality-c)
 
 </details>
 
@@ -334,9 +334,9 @@ All restrictions on disclosure must include provisions for **retrospective audit
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Trust](core_05c_continuity_definitions.md#trust) · [O](core_05c_continuity_definitions.md#trust) · [A](core_05c_continuity_definitions.md#trust-a) · [C](core_05c_continuity_definitions.md#trust-c)
-- [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint) · [O](core_05o_oversight_definitions.md#truth-constitutional-constraint-o) · [A](core_05o_oversight_definitions.md#truth-constitutional-constraint-a) · [C](core_05o_oversight_definitions.md#truth-constitutional-constraint-c)
-- [Epistemic Integrity](core_05o_oversight_definitions.md#epistemic-integrity) · [O](core_05o_oversight_definitions.md#epistemic-integrity-o) · [A](core_05o_oversight_definitions.md#epistemic-integrity-a) · [C](core_05o_oversight_definitions.md#epistemic-integrity-c)
+- [Trust](core_05defs_continuity.md#trust) · [O](core_05defs_continuity.md#trust) · [A](core_05defs_continuity.md#trust-a) · [C](core_05defs_continuity.md#trust-c)
+- [Truth (Constitutional Constraint)](core_05defs_oversight.md#truth-constitutional-constraint) · [O](core_05defs_oversight.md#truth-constitutional-constraint-o) · [A](core_05defs_oversight.md#truth-constitutional-constraint-a) · [C](core_05defs_oversight.md#truth-constitutional-constraint-c)
+- [Epistemic Integrity](core_05defs_oversight.md#epistemic-integrity) · [O](core_05defs_oversight.md#epistemic-integrity-o) · [A](core_05defs_oversight.md#epistemic-integrity-a) · [C](core_05defs_oversight.md#epistemic-integrity-c)
 
 </details>
 
@@ -353,7 +353,7 @@ Trust must not be preserved through deception or suppression of truth. Where ten
 
 - Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation** leg (privacy underpins free expression and association); **oversight** leg (privacy intrusions must themselves be auditable); [material stake](core_00_preamble.md#material-stake) scaling.
 - Upstream: Principles: [5. Freedom (Bounded Agency)](core_01_a_values_principles.md#5-freedom-bounded-agency), [3.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [3.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), and [§6.2 Epistemic Disclosure Constraints](#62-epistemic-disclosure-constraints).
-- Downstream: [Chapter Five §3.14 Privacy (Informational) — peer-level cluster head](core_05c_continuity_definitions.md#privacy-informational-cluster), including [Privacy (Informational)](core_05c_continuity_definitions.md#privacy-informational), [Protected Internal-State Boundary](core_05c_continuity_definitions.md#protected-internal-state-boundary-constitutional), and [Surveillance Boundary](core_05c_continuity_definitions.md#surveillance-boundary).
+- Downstream: [Chapter Five §3.14 Privacy (Informational) — peer-level cluster head](core_05defs_continuity.md#privacy-informational-cluster), including [Privacy (Informational)](core_05defs_continuity.md#privacy-informational), [Protected Internal-State Boundary](core_05defs_continuity.md#protected-internal-state-boundary-constitutional), and [Surveillance Boundary](core_05defs_continuity.md#surveillance-boundary).
 - Downstream: [Article VII-A](core_06-06_rights_part_b.md#article-vii-a-self-ownership-of-body-and-mind) (*Self-Ownership of Body and Mind*); [Article VII-B](core_06-06_rights_part_b.md#article-vii-b-internal-state-boundary-and-type-n-protection) (*Internal-State Boundary and Type-N Protection*); [Article VIII](core_06-06_rights_part_b.md#article-viii-likeness-experiential-data-and-publication-rights) (*Likeness, Experiential Data, and Publication Rights*); [Article IX-A](core_06-06_rights_part_b.md#article-ix-a-agency-and-freedom-from-manipulation) (*Agency and Freedom from Manipulation*); [Article XIII-A](core_06-06_rights_part_c.md#article-xiii-a-security-intelligence-and-covert-power-limits) (*Security, Intelligence, and Covert-Power Limits*).
 - Read with: [§6.1.5 Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle](#least-restrictive-time-bounded-and-reviewable-constraint-principle); [§6.1 decision-record discipline](#631-rights-collision-decision-test) where privacy collides with transparency, audit, safety, or other constitutional interests.
 
@@ -362,12 +362,12 @@ Trust must not be preserved through deception or suppression of truth. Where ten
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Privacy (Informational)](core_05c_continuity_definitions.md#privacy-informational) · [O](core_05c_continuity_definitions.md#privacy-informational) · [A](core_05c_continuity_definitions.md#privacy-informational-a) · [C](core_05c_continuity_definitions.md#privacy-informational-c)
-- [Protected Internal-State Boundary](core_05c_continuity_definitions.md#protected-internal-state-boundary-constitutional) · [O](core_05c_continuity_definitions.md#protected-internal-state-boundary-constitutional) · [A](core_05c_continuity_definitions.md#protected-internal-state-boundary-constitutional-a) · [C](core_05c_continuity_definitions.md#protected-internal-state-boundary-constitutional-c)
-- [Surveillance Boundary](core_05c_continuity_definitions.md#surveillance-boundary) · [O](core_05c_continuity_definitions.md#surveillance-boundary) · [A](core_05c_continuity_definitions.md#surveillance-boundary-a) · [C](core_05c_continuity_definitions.md#surveillance-boundary-c)
-- [Consent](core_05p_participation_definitions.md#consent-constitutional) · [O](core_05p_participation_definitions.md#consent-constitutional) · [A](core_05p_participation_definitions.md#consent-constitutional-a) · [C](core_05p_participation_definitions.md#consent-constitutional-c)
-- [Necessity](core_05a_accountability_definitions.md#necessity) · [O](core_05a_accountability_definitions.md#necessity) · [A](core_05a_accountability_definitions.md#necessity-a) · [C](core_05a_accountability_definitions.md#necessity-c)
-- [Proportionality](core_05a_accountability_definitions.md#proportionality) · [O](core_05a_accountability_definitions.md#proportionality) · [A](core_05a_accountability_definitions.md#proportionality-a) · [C](core_05a_accountability_definitions.md#proportionality-c)
+- [Privacy (Informational)](core_05defs_continuity.md#privacy-informational) · [O](core_05defs_continuity.md#privacy-informational) · [A](core_05defs_continuity.md#privacy-informational-a) · [C](core_05defs_continuity.md#privacy-informational-c)
+- [Protected Internal-State Boundary](core_05defs_continuity.md#protected-internal-state-boundary-constitutional) · [O](core_05defs_continuity.md#protected-internal-state-boundary-constitutional) · [A](core_05defs_continuity.md#protected-internal-state-boundary-constitutional-a) · [C](core_05defs_continuity.md#protected-internal-state-boundary-constitutional-c)
+- [Surveillance Boundary](core_05defs_continuity.md#surveillance-boundary) · [O](core_05defs_continuity.md#surveillance-boundary) · [A](core_05defs_continuity.md#surveillance-boundary-a) · [C](core_05defs_continuity.md#surveillance-boundary-c)
+- [Consent](core_05defs_participation.md#consent-constitutional) · [O](core_05defs_participation.md#consent-constitutional) · [A](core_05defs_participation.md#consent-constitutional-a) · [C](core_05defs_participation.md#consent-constitutional-c)
+- [Necessity](core_05defs_accountability.md#necessity) · [O](core_05defs_accountability.md#necessity) · [A](core_05defs_accountability.md#necessity-a) · [C](core_05defs_accountability.md#necessity-c)
+- [Proportionality](core_05defs_accountability.md#proportionality) · [O](core_05defs_accountability.md#proportionality) · [A](core_05defs_accountability.md#proportionality-a) · [C](core_05defs_accountability.md#proportionality-c)
 
 </details>
 
@@ -399,8 +399,8 @@ Availability, observability, prior publication, platform possession, or technica
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Proxy Divergence](core_05o_oversight_definitions.md#proxy-divergence) · [O](core_05o_oversight_definitions.md#proxy-divergence) · [A](core_05o_oversight_definitions.md#proxy-divergence-a) · [C](core_05o_oversight_definitions.md#proxy-divergence-c)
-- [Materiality](core_05o_oversight_definitions.md#materiality-determination) · [O](core_05o_oversight_definitions.md#materiality-determination) · [A](core_05o_oversight_definitions.md#materiality-determination-a) · [C](core_05o_oversight_definitions.md#materiality-determination-c)
+- [Proxy Divergence](core_05defs_oversight.md#proxy-divergence) · [O](core_05defs_oversight.md#proxy-divergence) · [A](core_05defs_oversight.md#proxy-divergence-a) · [C](core_05defs_oversight.md#proxy-divergence-c)
+- [Materiality](core_05defs_oversight.md#materiality-determination) · [O](core_05defs_oversight.md#materiality-determination) · [A](core_05defs_oversight.md#materiality-determination-a) · [C](core_05defs_oversight.md#materiality-determination-c)
 
 </details>
 
@@ -419,7 +419,7 @@ Correction must follow **Chapter Four** tracing and **Chapter Five** proxy-relat
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [§6.1 Core Tradeoff Principles](#61-core-tradeoff-principles) (applies after the tradeoff stack is satisfied); [§9.1 Stewardship](core_01_c_stewardship_capacity_principles.md#91-stewardship); [§12.2 Constitutional Efficiency](core_01_c_stewardship_capacity_principles.md#122-constitutional-efficiency).
-- Read with: Constitutional Performance measurement family (*Avoidable Burden as constitutional measurement*); [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation** leg (burden that is not constitutionally required narrows [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency)); **timeliness** leg (avoidable delay is avoidable burden).
+- Read with: Constitutional Performance measurement family (*Avoidable Burden as constitutional measurement*); [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation** leg (burden that is not constitutionally required narrows [Meaningful Agency](core_05defs_participation.md#meaningful-agency)); **timeliness** leg (avoidable delay is avoidable burden).
 - Downstream: [§11.1.3 Stewardship and Operator Application](core_01_c_stewardship_capacity_principles.md#1113-stewardship-and-operator-application) (incentives must not reward unnecessary burden creation); [Article XX: Comprehensibility and Complexity Stewardship](core_06-06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship).
 
 </details>
@@ -427,11 +427,11 @@ Correction must follow **Chapter Four** tracing and **Chapter Five** proxy-relat
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Avoidable Burden](core_05c_continuity_definitions.md#avoidable-burden) · [O](core_05c_continuity_definitions.md#avoidable-burden) · [A](core_05c_continuity_definitions.md#avoidable-burden-a) · [C](core_05c_continuity_definitions.md#avoidable-burden-c)
-- [Proportionality](core_05a_accountability_definitions.md#proportionality) · [O](core_05a_accountability_definitions.md#proportionality) · [A](core_05a_accountability_definitions.md#proportionality-a) · [C](core_05a_accountability_definitions.md#proportionality-c)
-- [Necessity](core_05a_accountability_definitions.md#necessity) · [O](core_05a_accountability_definitions.md#necessity) · [A](core_05a_accountability_definitions.md#necessity-a) · [C](core_05a_accountability_definitions.md#necessity-c)
-- [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint) · [O](core_05c_continuity_definitions.md#safety-constraint) · [A](core_05c_continuity_definitions.md#safety-constraint-a) · [C](core_05c_continuity_definitions.md#safety-constraint-c)
-- [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint) · [O](core_05o_oversight_definitions.md#truth-constitutional-constraint-o) · [A](core_05o_oversight_definitions.md#truth-constitutional-constraint-a) · [C](core_05o_oversight_definitions.md#truth-constitutional-constraint-c)
+- [Avoidable Burden](core_05defs_continuity.md#avoidable-burden) · [O](core_05defs_continuity.md#avoidable-burden) · [A](core_05defs_continuity.md#avoidable-burden-a) · [C](core_05defs_continuity.md#avoidable-burden-c)
+- [Proportionality](core_05defs_accountability.md#proportionality) · [O](core_05defs_accountability.md#proportionality) · [A](core_05defs_accountability.md#proportionality-a) · [C](core_05defs_accountability.md#proportionality-c)
+- [Necessity](core_05defs_accountability.md#necessity) · [O](core_05defs_accountability.md#necessity) · [A](core_05defs_accountability.md#necessity-a) · [C](core_05defs_accountability.md#necessity-c)
+- [Safety (Constraint)](core_05defs_continuity.md#safety-constraint) · [O](core_05defs_continuity.md#safety-constraint) · [A](core_05defs_continuity.md#safety-constraint-a) · [C](core_05defs_continuity.md#safety-constraint-c)
+- [Truth (Constitutional Constraint)](core_05defs_oversight.md#truth-constitutional-constraint) · [O](core_05defs_oversight.md#truth-constitutional-constraint-o) · [A](core_05defs_oversight.md#truth-constitutional-constraint-a) · [C](core_05defs_oversight.md#truth-constitutional-constraint-c)
 
 </details>
 
@@ -439,7 +439,7 @@ Correction must follow **Chapter Four** tracing and **Chapter Five** proxy-relat
 
 *In plain terms: once an option satisfies Safety, Truth, rights, and the tradeoff rules in §6.1, pick the one that wastes the least sentient time, attention, and effort. Simplify or remove steps that do not do constitutional work. Rights-protective process is not waste — but unjustified red tape is, and convenience or inertia cannot sustain it.*
 
-Where multiple options satisfy Safety, Truth, the Rights Floor in **Chapter Six**, [§6.1 Core Tradeoff Principles](#61-core-tradeoff-principles), [§6.2 Epistemic Disclosure Constraints](#62-epistemic-disclosure-constraints), [§6.3 Rights-Collision Procedure](#63-rights-collision-procedure), **and the other applicable** [Constitutional Constraints](core_05i_integrative_definitions.md#constitutional-constraint), systems must prefer the option that imposes the **least avoidable burden** on sentient time, attention, effort, and shared resources.
+Where multiple options satisfy Safety, Truth, the Rights Floor in **Chapter Six**, [§6.1 Core Tradeoff Principles](#61-core-tradeoff-principles), [§6.2 Epistemic Disclosure Constraints](#62-epistemic-disclosure-constraints), [§6.3 Rights-Collision Procedure](#63-rights-collision-procedure), **and the other applicable** [Constitutional Constraints](core_05defs_integrative.md#constitutional-constraint), systems must prefer the option that imposes the **least avoidable burden** on sentient time, attention, effort, and shared resources.
 
 Where an avoidable burden can be corrected by simplifying, consolidating, automating, clarifying, or removing unnecessary steps, that correction is the preferred remedy unless it would materially weaken Safety, Truth, Rights-Floor protection, auditability, contestability, due process, or retrospective review.
 
@@ -472,11 +472,11 @@ Where incentive structures act on stewards or operators, this section reinforces
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Necessity](core_05a_accountability_definitions.md#necessity) · [O](core_05a_accountability_definitions.md#necessity) · [A](core_05a_accountability_definitions.md#necessity-a) · [C](core_05a_accountability_definitions.md#necessity-c)
-- [Proportionality](core_05a_accountability_definitions.md#proportionality) · [O](core_05a_accountability_definitions.md#proportionality) · [A](core_05a_accountability_definitions.md#proportionality-a) · [C](core_05a_accountability_definitions.md#proportionality-c)
-- [Materiality](core_05o_oversight_definitions.md#materiality-determination) · [O](core_05o_oversight_definitions.md#materiality-determination) · [A](core_05o_oversight_definitions.md#materiality-determination-a) · [C](core_05o_oversight_definitions.md#materiality-determination-c)
-- [Harm Minimization (Tradeoff Selection)](core_05a_accountability_definitions.md#harm-minimization-tradeoff-selection) · [O](core_05a_accountability_definitions.md#harm-minimization-tradeoff-selection) · [A](core_05a_accountability_definitions.md#harm-minimization-tradeoff-selection-a) · [C](core_05a_accountability_definitions.md#harm-minimization-tradeoff-selection-c)
-- [Proxy Divergence](core_05o_oversight_definitions.md#proxy-divergence) · [O](core_05o_oversight_definitions.md#proxy-divergence) · [A](core_05o_oversight_definitions.md#proxy-divergence-a) · [C](core_05o_oversight_definitions.md#proxy-divergence-c)
+- [Necessity](core_05defs_accountability.md#necessity) · [O](core_05defs_accountability.md#necessity) · [A](core_05defs_accountability.md#necessity-a) · [C](core_05defs_accountability.md#necessity-c)
+- [Proportionality](core_05defs_accountability.md#proportionality) · [O](core_05defs_accountability.md#proportionality) · [A](core_05defs_accountability.md#proportionality-a) · [C](core_05defs_accountability.md#proportionality-c)
+- [Materiality](core_05defs_oversight.md#materiality-determination) · [O](core_05defs_oversight.md#materiality-determination) · [A](core_05defs_oversight.md#materiality-determination-a) · [C](core_05defs_oversight.md#materiality-determination-c)
+- [Harm Minimization (Tradeoff Selection)](core_05defs_accountability.md#harm-minimization-tradeoff-selection) · [O](core_05defs_accountability.md#harm-minimization-tradeoff-selection) · [A](core_05defs_accountability.md#harm-minimization-tradeoff-selection-a) · [C](core_05defs_accountability.md#harm-minimization-tradeoff-selection-c)
+- [Proxy Divergence](core_05defs_oversight.md#proxy-divergence) · [O](core_05defs_oversight.md#proxy-divergence) · [A](core_05defs_oversight.md#proxy-divergence-a) · [C](core_05defs_oversight.md#proxy-divergence-c)
 
 </details>
 
@@ -506,11 +506,11 @@ No value defined in this chapter may be used as a universal or unbounded justifi
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Corpus](core_05i_integrative_definitions.md#corpus) · [O](core_05i_integrative_definitions.md#corpus) · [A](core_05i_integrative_definitions.md#corpus-a) · [C](core_05i_integrative_definitions.md#corpus-c)
-- [Authority Stack and Internal Hierarchy](core_05i_integrative_definitions.md#authority-stack) · [O](core_05i_integrative_definitions.md#authority-stack) · [A](core_05i_integrative_definitions.md#authority-stack-a) · [C](core_05i_integrative_definitions.md#authority-stack-c)
-- [Supremacy and Enforceability](core_05i_integrative_definitions.md#supremacy-and-enforceability) · [O](core_05i_integrative_definitions.md#supremacy-and-enforceability) · [A](core_05i_integrative_definitions.md#supremacy-and-enforceability-a) · [C](core_05i_integrative_definitions.md#supremacy-and-enforceability-c)
-- [Proportionality](core_05a_accountability_definitions.md#proportionality) · [O](core_05a_accountability_definitions.md#proportionality) · [A](core_05a_accountability_definitions.md#proportionality-a) · [C](core_05a_accountability_definitions.md#proportionality-c)
-- [Necessity](core_05a_accountability_definitions.md#necessity) · [O](core_05a_accountability_definitions.md#necessity) · [A](core_05a_accountability_definitions.md#necessity-a) · [C](core_05a_accountability_definitions.md#necessity-c)
+- [Corpus](core_05defs_integrative.md#corpus) · [O](core_05defs_integrative.md#corpus) · [A](core_05defs_integrative.md#corpus-a) · [C](core_05defs_integrative.md#corpus-c)
+- [Authority Stack and Internal Hierarchy](core_05defs_integrative.md#authority-stack) · [O](core_05defs_integrative.md#authority-stack) · [A](core_05defs_integrative.md#authority-stack-a) · [C](core_05defs_integrative.md#authority-stack-c)
+- [Supremacy and Enforceability](core_05defs_integrative.md#supremacy-and-enforceability) · [O](core_05defs_integrative.md#supremacy-and-enforceability) · [A](core_05defs_integrative.md#supremacy-and-enforceability-a) · [C](core_05defs_integrative.md#supremacy-and-enforceability-c)
+- [Proportionality](core_05defs_accountability.md#proportionality) · [O](core_05defs_accountability.md#proportionality) · [A](core_05defs_accountability.md#proportionality-a) · [C](core_05defs_accountability.md#proportionality-c)
+- [Necessity](core_05defs_accountability.md#necessity) · [O](core_05defs_accountability.md#necessity) · [A](core_05defs_accountability.md#necessity-a) · [C](core_05defs_accountability.md#necessity-c)
 
 </details>
 
@@ -561,7 +561,7 @@ Apply **[§8.2 Definitional layer and required disciplines](#81-definitional-lay
 <a id="832-last-resort-internal-hierarchy"></a>
 ##### 8.4.2 Last-resort internal hierarchy
 
-Within the binding constitutional source, **Chapter One principles** govern high-level constitutional direction. **Article-level obligations and Rights Floors** govern specific operative requirements. The canonical statement of this rule — including its boundary with source-layer authority and its application to adopters under **Chapter Thirteen §3.1** — lives in the [Authority Stack and Internal Hierarchy](core_05i_integrative_definitions.md#authority-stack) cluster in Chapter Five.
+Within the binding constitutional source, **Chapter One principles** govern high-level constitutional direction. **Article-level obligations and Rights Floors** govern specific operative requirements. The canonical statement of this rule — including its boundary with source-layer authority and its application to adopters under **Chapter Thirteen §3.1** — lives in the [Authority Stack and Internal Hierarchy](core_05defs_integrative.md#authority-stack) cluster in Chapter Five.
 
 If a genuine incompatibility remains after integrated reading under **§8.4.1**:
 - principles control over articles
@@ -592,20 +592,20 @@ Where **[Chapter Sixteen](core_16-16_incorporation.md#2-authority-stack-and-invo
 
 - [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation**, **oversight**, **accountability**, and **timeliness**, scaled to [material stake](core_00_preamble.md#material-stake)
 - [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — [Flourishing](core_00_preamble.md#flourishing) and [Continuity](core_00_preamble.md#continuity) (constitutional **Continuity aim**, distinct from operational or protocol continuity elsewhere in the corpus)
-- [material stake](core_00_preamble.md#material-stake) — impact, dependency, and risk scaling for tetrad duties; read with Integrative Materiality ([Materiality Determination](core_05o_oversight_definitions.md#materiality-determination)) and Chapter Five entries below
+- [material stake](core_00_preamble.md#material-stake) — impact, dependency, and risk scaling for tetrad duties; read with Integrative Materiality ([Materiality Determination](core_05defs_oversight.md#materiality-determination)) and Chapter Five entries below
 
 **Chapter Five proxy definitions** (O/M/A/C satisfaction — trace under Chapters Two through Four when materially relevant):
 
-- [Wellbeing](core_05c_continuity_definitions.md#wellbeing) (Flourishing aim)
-- [Oversight](core_05a_accountability_definitions.md#oversight), [Accountability](core_05a_accountability_definitions.md#accountability), [Contestability](core_05a_accountability_definitions.md#contestability), [Governance](core_05a_accountability_definitions.md#governance), [Classification-Scaled Governance](core_05o_oversight_definitions.md#classification-scaled-governance)
-- [Material](core_05o_oversight_definitions.md#material), [Material Impact](core_05o_oversight_definitions.md#material-impact), [Material Risk](core_05o_oversight_definitions.md#material-risk), [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination) (widgets label this **Materiality**), [Systemic Materiality](core_05a_accountability_definitions.md#systemic-materiality) — cluster: [Materiality, impact, risk, and proxy integrity](core_05o_oversight_definitions.md#materiality-semi-independent)
+- [Wellbeing](core_05defs_continuity.md#wellbeing) (Flourishing aim)
+- [Oversight](core_05defs_accountability.md#oversight), [Accountability](core_05apex_accountability_leg.md#accountability), [Contestability](core_05defs_accountability.md#contestability), [Governance](core_05defs_accountability.md#governance), [Classification-Scaled Governance](core_05defs_oversight.md#classification-scaled-governance)
+- [Material](core_05defs_oversight.md#material), [Material Impact](core_05defs_oversight.md#material-impact), [Material Risk](core_05defs_oversight.md#material-risk), [Materiality Determination](core_05defs_oversight.md#materiality-determination) (widgets label this **Materiality**), [Systemic Materiality](core_05defs_accountability.md#systemic-materiality) — cluster: [Materiality, impact, risk, and proxy integrity](core_05defs_oversight.md#materiality-semi-independent)
 
 **Major Chapter Five §3 dependent clusters** (joint-invocation groups — read with Chapters Two through Four when materially relevant):
 
-- [Stakeholder Status, Emergency, and Participation Weight](core_05p_participation_definitions.md#stakeholder-status-emergency-and-participation-weight-cluster) (Stakeholder System Participation layer)
-- [Constitutional Contract Layer](core_05i_integrative_definitions.md#constitutional-contract-layer) and [Governance Architecture, Oversight, Dependency, Decentralization, Concentration, Market Structure, and Exit-Path Integrity](core_05a_accountability_definitions.md#governance-architecture-oversight-decentralization-and-concentration-cluster)
-- [Corpus, Authority Stack, Supremacy, and Enforceability](core_05a_accountability_definitions.md#corpus-authority-stack-supremacy-and-enforceability-cluster)
-- [Accountability, Contestability, and Collective Accountability Failure](core_05i_integrative_definitions.md#accountability-contestability-and-collective-accountability-failure-cluster)
+- [Stakeholder Status, Emergency, and Participation Weight](core_05defs_participation.md#stakeholder-status-emergency-and-participation-weight-cluster) (Stakeholder System Participation layer)
+- [Constitutional Contract Layer](core_05defs_integrative.md#constitutional-contract-layer) and [Governance Architecture, Oversight, Dependency, Decentralization, Concentration, Market Structure, and Exit-Path Integrity](core_05defs_accountability.md#governance-architecture-oversight-decentralization-and-concentration-cluster)
+- [Corpus, Authority Stack, Supremacy, and Enforceability](core_05defs_accountability.md#corpus-authority-stack-supremacy-and-enforceability-cluster)
+- [Accountability, Contestability, and Collective Accountability Failure](core_05defs_integrative.md#accountability-contestability-and-collective-accountability-failure-cluster)
 
 **CJS-5** (*Implementation and cross-implementation operational cluster library*) operational cluster compass (cross-implementation joint operational terms — read with this chapter's Tetrad, Aims, and material-stake scaling):
 

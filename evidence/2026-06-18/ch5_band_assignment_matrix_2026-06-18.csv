@@ -1,76 +1,76 @@
 kind,name,band,file,section
-independent,Accessibility,p,core_05p_participation_definitions.md,
-independent,"Adversarial, Scaled, and Exploited Conditions",o,core_05o_oversight_definitions.md,
-independent,Capability Requirement,o,core_05o_oversight_definitions.md,
-independent,Cascading Failure,c,core_05c_continuity_definitions.md,
-independent,Classification-Scaled Governance,o,core_05o_oversight_definitions.md,
-independent,Constitutional Community,p,core_05p_participation_definitions.md,
-independent,Constitutional Contract Layer,i,core_05i_integrative_definitions.md,
-independent,Contingent Claim,a,core_05a_accountability_definitions.md,
-independent,Dependency,c,core_05c_continuity_definitions.md,
-independent,Dignity and Equal Moral Standing,p,core_05p_participation_definitions.md,
-independent,Essential-Environment Non-Commodification,c,core_05c_continuity_definitions.md,
-independent,Event-Contract Market,a,core_05a_accountability_definitions.md,
-independent,Existential Risk,c,core_05c_continuity_definitions.md,
-independent,Feasibility,a,core_05a_accountability_definitions.md,
-independent,Foundational Constitutional Choice,i,core_05i_integrative_definitions.md,
-independent,Freedom (Bounded Agency),p,core_05p_participation_definitions.md,
-independent,Game of Chance,a,core_05a_accountability_definitions.md,
-independent,Good Faith,a,core_05a_accountability_definitions.md,
-independent,Harm Minimization (Tradeoff Selection),a,core_05a_accountability_definitions.md,
-independent,Incentive Alignment,i,core_05i_integrative_definitions.md,
-independent,Info-Sphere,p,core_05p_participation_definitions.md,
-independent,Innovation Reward and Anti-Enclosure,i,core_05i_integrative_definitions.md,
-independent,Lifespan Equivalent Unit (LEQU),p,core_05p_participation_definitions.md,
-independent,Natural Systems Standing,p,core_05p_participation_definitions.md,
-independent,Necessity,a,core_05a_accountability_definitions.md,
-independent,Negligence,a,core_05a_accountability_definitions.md,
-independent,Non-Imposition (Cooperative Interaction),p,core_05p_participation_definitions.md,
-independent,Oversight,o,core_05o_oversight_definitions.md,
-independent,Press and Journalistic Activity,o,core_05o_oversight_definitions.md,
-independent,Proportionality,a,core_05a_accountability_definitions.md,
-independent,Redress and Remediation,a,core_05a_accountability_definitions.md,
-independent,Residual Risk / Misalignment,c,core_05c_continuity_definitions.md,
-independent,Restorative Justice,a,core_05a_accountability_definitions.md,
-independent,Reversibility,c,core_05c_continuity_definitions.md,
-independent,Risk,c,core_05c_continuity_definitions.md,
-independent,Risk Evaluation and Disclosure,o,core_05o_oversight_definitions.md,
-independent,Safety (Constraint),c,core_05c_continuity_definitions.md,
-independent,Self-Healing,c,core_05c_continuity_definitions.md,
-independent,System Capture,c,core_05c_continuity_definitions.md,
-independent,Systemic,c,core_05c_continuity_definitions.md,
-independent,Systemic Materiality,c,core_05c_continuity_definitions.md,
-independent,Voluntary Discontinuation,c,core_05c_continuity_definitions.md,
-independent,Wellbeing,c,core_05c_continuity_definitions.md,
-topic_group,"Accountability, contestability, and redress pathways",a,core_05a_accountability_definitions.md,
-topic_group,Protected reporting and anti-retaliation,a,core_05a_accountability_definitions.md,
-topic_group,"Assembly, collective organization, and institutional formation",p,core_05p_participation_definitions.md,
-topic_group,"Constitutional efficiency, productive capacity, avoidable burden, and burden-reduction duty",c,core_05c_continuity_definitions.md,
-topic_group,"Agency, consent, and anti-coercion",p,core_05p_participation_definitions.md,
-topic_group,"Fairness, protected characteristics, and nondiscrimination",p,core_05p_participation_definitions.md,
-topic_group,"Family, care, reproductive autonomy, and instantiation",p,core_05p_participation_definitions.md,
-topic_group,"Ecological integrity, footprint, and sustainability",c,core_05c_continuity_definitions.md,
-topic_group,Emergency and contingency,c,core_05c_continuity_definitions.md,
-topic_group,"Governance architecture, decentralization, and concentration",a,core_05a_accountability_definitions.md,
-topic_group,"System boundaries, integrity, and exit",c,core_05c_continuity_definitions.md,
-topic_group,"Stewardship, governance discipline, review, and correction",a,core_05a_accountability_definitions.md,
-topic_group,Stakeholder status and participation weight,p,core_05p_participation_definitions.md,
-topic_group,"Survival-floor continuity: bodily maintenance, tenure, and environment",c,core_05c_continuity_definitions.md,
-topic_group,"Community-anchored continuity: indigenous, language, culture, and heritage",c,core_05c_continuity_definitions.md,
-topic_group,"Materiality, impact, risk, and proxy integrity",o,core_05o_oversight_definitions.md,
-topic_group,"Movement, refuge, and non-statelessness",p,core_05p_participation_definitions.md,
-cluster,"Transparency, Auditability, and Verification",o,core_05o_oversight_definitions.md,3.12->3.2
-cluster,Truth and Epistemic Integrity,o,core_05o_oversight_definitions.md,3.14->3.3
-cluster,Strategic Stewardship and Stewardship Defect,o,core_05o_oversight_definitions.md,3.11->3.4
-cluster,"Animal Life, Sentient Life, and Sentience Status",p,core_05p_participation_definitions.md,3.1->3.5
-cluster,Binding Stakeholder Choice,p,core_05p_participation_definitions.md,3.2->3.6
-cluster,"Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity",p,core_05p_participation_definitions.md,3.8->3.7
-cluster,"Collective Harm Boundary, Harm, and Harassment and Bullying",a,core_05a_accountability_definitions.md,3.3->3.8
-cluster,Forum Families and Dispute Routing,a,core_05a_accountability_definitions.md,3.6->3.9
-cluster,"Standing State, Contribution, and Violation",a,core_05a_accountability_definitions.md,3.9->3.10
-cluster,"Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm",a,core_05a_accountability_definitions.md,3.15->3.11
-cluster,"Labor and Economic Floor: Compensation, Organization, Safe Conditions, Leisure, and Creative Work",c,core_05c_continuity_definitions.md,3.5->3.12
-cluster,"Stewardship, Governance Discipline, and Shared-System Capacity",c,core_05c_continuity_definitions.md,3.10->3.13
-cluster,Privacy (Informational) — peer-level cluster head,c,core_05c_continuity_definitions.md,3.7->3.14
-cluster,Trust and Trustworthiness,c,core_05c_continuity_definitions.md,3.13->3.15
-cluster,"Corpus, Authority Stack, Supremacy, and Enforceability",i,core_05i_integrative_definitions.md,3.4->3.16
+independent,Accessibility,p,core_05defs_participation.md,
+independent,"Adversarial, Scaled, and Exploited Conditions",o,core_05defs_oversight.md,
+independent,Capability Requirement,o,core_05defs_oversight.md,
+independent,Cascading Failure,c,core_05defs_continuity.md,
+independent,Classification-Scaled Governance,o,core_05defs_oversight.md,
+independent,Constitutional Community,p,core_05defs_participation.md,
+independent,Constitutional Contract Layer,i,core_05defs_integrative.md,
+independent,Contingent Claim,a,core_05defs_accountability.md,
+independent,Dependency,c,core_05defs_continuity.md,
+independent,Dignity and Equal Moral Standing,p,core_05defs_participation.md,
+independent,Essential-Environment Non-Commodification,c,core_05defs_continuity.md,
+independent,Event-Contract Market,a,core_05defs_accountability.md,
+independent,Existential Risk,c,core_05defs_continuity.md,
+independent,Feasibility,a,core_05defs_accountability.md,
+independent,Foundational Constitutional Choice,i,core_05defs_integrative.md,
+independent,Freedom (Bounded Agency),p,core_05defs_participation.md,
+independent,Game of Chance,a,core_05defs_accountability.md,
+independent,Good Faith,a,core_05defs_accountability.md,
+independent,Harm Minimization (Tradeoff Selection),a,core_05defs_accountability.md,
+independent,Incentive Alignment,i,core_05defs_integrative.md,
+independent,Info-Sphere,p,core_05defs_participation.md,
+independent,Innovation Reward and Anti-Enclosure,i,core_05defs_integrative.md,
+independent,Lifespan Equivalent Unit (LEQU),p,core_05defs_participation.md,
+independent,Natural Systems Standing,p,core_05defs_participation.md,
+independent,Necessity,a,core_05defs_accountability.md,
+independent,Negligence,a,core_05defs_accountability.md,
+independent,Non-Imposition (Cooperative Interaction),p,core_05defs_participation.md,
+independent,Oversight,o,core_05defs_oversight.md,
+independent,Press and Journalistic Activity,o,core_05defs_oversight.md,
+independent,Proportionality,a,core_05defs_accountability.md,
+independent,Redress and Remediation,a,core_05defs_accountability.md,
+independent,Residual Risk / Misalignment,c,core_05defs_continuity.md,
+independent,Restorative Justice,a,core_05defs_accountability.md,
+independent,Reversibility,c,core_05defs_continuity.md,
+independent,Risk,c,core_05defs_continuity.md,
+independent,Risk Evaluation and Disclosure,o,core_05defs_oversight.md,
+independent,Safety (Constraint),c,core_05defs_continuity.md,
+independent,Self-Healing,c,core_05defs_continuity.md,
+independent,System Capture,c,core_05defs_continuity.md,
+independent,Systemic,c,core_05defs_continuity.md,
+independent,Systemic Materiality,c,core_05defs_continuity.md,
+independent,Voluntary Discontinuation,c,core_05defs_continuity.md,
+independent,Wellbeing,c,core_05defs_continuity.md,
+topic_group,"Accountability, contestability, and redress pathways",a,core_05defs_accountability.md,
+topic_group,Protected reporting and anti-retaliation,a,core_05defs_accountability.md,
+topic_group,"Assembly, collective organization, and institutional formation",p,core_05defs_participation.md,
+topic_group,"Constitutional efficiency, productive capacity, avoidable burden, and burden-reduction duty",c,core_05defs_continuity.md,
+topic_group,"Agency, consent, and anti-coercion",p,core_05defs_participation.md,
+topic_group,"Fairness, protected characteristics, and nondiscrimination",p,core_05defs_participation.md,
+topic_group,"Family, care, reproductive autonomy, and instantiation",p,core_05defs_participation.md,
+topic_group,"Ecological integrity, footprint, and sustainability",c,core_05defs_continuity.md,
+topic_group,Emergency and contingency,c,core_05defs_continuity.md,
+topic_group,"Governance architecture, decentralization, and concentration",a,core_05defs_accountability.md,
+topic_group,"System boundaries, integrity, and exit",c,core_05defs_continuity.md,
+topic_group,"Stewardship, governance discipline, review, and correction",a,core_05defs_accountability.md,
+topic_group,Stakeholder status and participation weight,p,core_05defs_participation.md,
+topic_group,"Survival-floor continuity: bodily maintenance, tenure, and environment",c,core_05defs_continuity.md,
+topic_group,"Community-anchored continuity: indigenous, language, culture, and heritage",c,core_05defs_continuity.md,
+topic_group,"Materiality, impact, risk, and proxy integrity",o,core_05defs_oversight.md,
+topic_group,"Movement, refuge, and non-statelessness",p,core_05defs_participation.md,
+cluster,"Transparency, Auditability, and Verification",o,core_05defs_oversight.md,3.12->3.2
+cluster,Truth and Epistemic Integrity,o,core_05defs_oversight.md,3.14->3.3
+cluster,Strategic Stewardship and Stewardship Defect,o,core_05defs_oversight.md,3.11->3.4
+cluster,"Animal Life, Sentient Life, and Sentience Status",p,core_05defs_participation.md,3.1->3.5
+cluster,Binding Stakeholder Choice,p,core_05defs_participation.md,3.2->3.6
+cluster,"Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity",p,core_05defs_participation.md,3.8->3.7
+cluster,"Collective Harm Boundary, Harm, and Harassment and Bullying",a,core_05defs_accountability.md,3.3->3.8
+cluster,Forum Families and Dispute Routing,a,core_05defs_accountability.md,3.6->3.9
+cluster,"Standing State, Contribution, and Violation",a,core_05defs_accountability.md,3.9->3.10
+cluster,"Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm",a,core_05defs_accountability.md,3.15->3.11
+cluster,"Labor and Economic Floor: Compensation, Organization, Safe Conditions, Leisure, and Creative Work",c,core_05defs_continuity.md,3.5->3.12
+cluster,"Stewardship, Governance Discipline, and Shared-System Capacity",c,core_05defs_continuity.md,3.10->3.13
+cluster,Privacy (Informational) — peer-level cluster head,c,core_05defs_continuity.md,3.7->3.14
+cluster,Trust and Trustworthiness,c,core_05defs_continuity.md,3.13->3.15
+cluster,"Corpus, Authority Stack, Supremacy, and Enforceability",i,core_05defs_integrative.md,3.4->3.16

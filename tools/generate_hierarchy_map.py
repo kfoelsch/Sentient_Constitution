@@ -22,6 +22,9 @@ from ch5_paths import (  # noqa: E402
     CH5_BAND_I,
     CH5_BAND_O,
     CH5_BAND_P,
+    CH5_LEG_A,
+    CH5_LEG_O,
+    CH5_LEG_P,
 )
 
 FILE_TETRAD_LEG: dict[str, str] = {
@@ -30,6 +33,9 @@ FILE_TETRAD_LEG: dict[str, str] = {
     CH5_BAND_A: "Accountability",
     CH5_BAND_C: "Continuity",
     CH5_BAND_I: "Integrative",
+    CH5_LEG_O: "Oversight",
+    CH5_LEG_P: "Participation",
+    CH5_LEG_A: "Accountability",
     CH5_AIM_F: "cross-leg",
     CH5_AIM_G: "cross-leg",
 }
@@ -40,6 +46,9 @@ DEFAULT_CH00_BY_FILE: dict[str, list[str]] = {
     CH5_BAND_A: ["3.6 Accountability", "3.7 Timeliness"],
     CH5_BAND_C: ["3.3 Continuity"],
     CH5_BAND_I: ["3.6 Accountability"],
+    CH5_LEG_O: ["3.5 Oversight"],
+    CH5_LEG_P: ["3.4 Participation"],
+    CH5_LEG_A: ["3.6 Accountability", "3.7 Timeliness"],
     CH5_AIM_F: ["3.2 Flourishing"],
     CH5_AIM_G: ["3.3 Continuity"],
 }
@@ -191,6 +200,44 @@ def main() -> int:
         d for d in registry["definitions"] if d["category"] != "principle_layer"
     ]
     entries = [build_entry(defn, overrides) for defn in ch5_entries]
+    present = {row["term"] for row in entries}
+    # Aim / Tetrad-leg apex heads are letter O/M/A/C file heads, not #### leaves —
+    # inject them from hierarchy overrides when absent from the registry.
+    for term, meta in overrides.get("terms", {}).items():
+        if term in present:
+            continue
+        if meta.get("aim_role") not in {"aim_head", "tetrad_leg_head"}:
+            continue
+        canonical = meta.get("canonical_file")
+        if not canonical:
+            continue
+        anchor = {
+            "Flourishing": "flourishing-constitutional",
+            "Continuity (Constitutional Aim)": "continuity-aim-constitutional",
+            "Oversight": "oversight-constitutional",
+            "Participation": "participation-constitutional",
+            "Accountability": "accountability",
+            "Timeliness": "timeliness-constitutional",
+        }.get(term, "")
+        entries.append(
+            {
+                "term": term,
+                "canonical_file": canonical,
+                "anchor": anchor,
+                "line_start": 1,
+                "definition_class": "apex_head",
+                "tetrad_leg": meta.get("tetrad_leg", "cross-leg"),
+                "primary_aim": meta.get("primary_aim", "cross-cutting"),
+                "aim_role": meta["aim_role"],
+                "ch00_measurement": (
+                    [meta["ch00_measurement"]]
+                    if isinstance(meta.get("ch00_measurement"), str)
+                    else list(meta.get("ch00_measurement") or [])
+                ),
+                "cluster_id": None,
+                "notes": meta.get("notes", ""),
+            }
+        )
     entries.sort(key=lambda row: row["term"].casefold())
 
     payload = {

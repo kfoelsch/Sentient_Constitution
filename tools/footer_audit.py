@@ -18,14 +18,17 @@ CORE_CHAIN = (
     "core_02-03_definition_mechanics.md",
     "core_04-04_burden_traceability_verification.md",
     "core_05-05_definitions_a_independent.md",
-    "core_05f_flourishing_aim.md",
-    "core_05g_continuity_aim.md",
-    "core_05o_oversight_definitions.md",
-    "core_05p_participation_definitions.md",
-    "core_05a_accountability_definitions.md",
-    "core_05c_continuity_definitions.md",
-    "core_05i_integrative_definitions.md",
-    "core_05m_performance_definitions.md",
+    "core_05apex_accountability_leg.md",
+    "core_05apex_continuity_aim.md",
+    "core_05apex_flourishing_aim.md",
+    "core_05apex_oversight_leg.md",
+    "core_05apex_participation_leg.md",
+    "core_05defs_accountability.md",
+    "core_05defs_continuity.md",
+    "core_05defs_integrative.md",
+    "core_05defs_oversight.md",
+    "core_05defs_participation.md",
+    "core_05defs_performance.md",
     "core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation",
     "core_08-08_standing_assessment.md",
     "core_09-09_standing_integration.md",
@@ -106,6 +109,7 @@ CI_CHAIN = tuple(
         "ci_24_innovation_reward_disclosure_anti_enclosure.md",
         "ci_25_scientific_publication_peer_review_replication_evidence_stewardship.md",
         "ci_26_compliance_mapping_stable_registry.md",
+        "ci_27_remedy_systems_institutional_redress_capacity.md",
     )
 )
 
@@ -277,7 +281,7 @@ def build_footer(
             [
                 "*Corpus alignment:* edition `SC-Corpus-2026.04.33`, effective **2026-04-24**; "
                 "edition and custody in [README.md](../README.md) and "
-                "[Chapter Five *Corpus*](../core_05i_integrative_definitions.md#corpus).",
+                "[Chapter Five *Corpus*](../core_05defs_integrative.md#corpus).",
                 "",
                 "---",
                 "",
@@ -361,9 +365,13 @@ def audit_file(
     nxt: str,
     errors: list[str],
 ) -> None:
-    path = root / rel
+    path = root / rel.split("#", 1)[0]
     if not path.exists():
         errors.append(f"{rel}: missing file in reading chain")
+        return
+    # Fragment-addressed chain nodes (section deep-links) are validated via
+    # neighbor Previous/Next hrefs; the host file need not carry end footers.
+    if "#" in rel:
         return
     text = path.read_text(encoding="utf-8")
     info = parse_footer(text)

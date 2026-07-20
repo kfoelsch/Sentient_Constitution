@@ -20,7 +20,9 @@ from ch5_single_definition_audit import (
     sorted_violations,
 )
 
-CH5_FILE_PATTERN = re.compile(r"^core_05(?:-05_definitions_a_independent|o_oversight_definitions|p_participation_definitions|a_accountability_definitions|c_continuity_definitions|i_integrative_definitions)\.md$")
+CH5_FILE_PATTERN = re.compile(
+    r"^core_05(?:-05_definitions_a_independent|apex_[a-z_]+|defs_[a-z]+)\.md$"
+)
 SECTION1_HEADING = "### 1. Independent Definitions"
 HEADING_RE = re.compile(r"^####\s+(.+)$")
 
@@ -144,13 +146,21 @@ def audit_directory(root: pathlib.Path) -> list[str]:
     actual_defs = {
         (row.label, row.href) for row in rows if row.list_name == "Definitions A-Z"
     }
+    from ch5_paths import CH5_APEX
+
+    apex_prefix = tuple(f"{name}#" for name in CH5_APEX)
+    actual_defs_leaves = {
+        (label, href)
+        for label, href in actual_defs
+        if not href.startswith(apex_prefix)
+    }
     expected_clusters = {(cluster.label, cluster.href) for cluster in clusters}
     actual_clusters = {
         (row.label, row.href) for row in rows if row.list_name == "Clusters A-Z"
     }
     for label, href in sorted(expected_defs - actual_defs):
         violations.append(f"{root / CH5_PART_A}: missing definition directory row [{label}]({href})")
-    for label, href in sorted(actual_defs - expected_defs):
+    for label, href in sorted(actual_defs_leaves - expected_defs):
         violations.append(f"{root / CH5_PART_A}: extra definition directory row [{label}]({href})")
     for label, href in sorted(expected_clusters - actual_clusters):
         violations.append(f"{root / CH5_PART_A}: missing cluster directory row [{label}]({href})")

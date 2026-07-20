@@ -11,13 +11,13 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Proportionality](../core_05a_accountability_definitions.md#proportionality) · [O](../core_05a_accountability_definitions.md#proportionality) · [A](../core_05a_accountability_definitions.md#proportionality-a) · [C](../core_05a_accountability_definitions.md#proportionality-c)
-- [Accessibility](../core_05p_participation_definitions.md#accessibility-constitutional) · [O](../core_05p_participation_definitions.md#accessibility-constitutional) · [A](../core_05p_participation_definitions.md#accessibility-constitutional-a) · [C](../core_05p_participation_definitions.md#accessibility-constitutional-c)
-- [Dependency](../core_05c_continuity_definitions.md#dependency) · [O](../core_05c_continuity_definitions.md#dependency) · [A](../core_05c_continuity_definitions.md#dependency-a) · [C](../core_05c_continuity_definitions.md#dependency-c)
-- [Governance](../core_05a_accountability_definitions.md#governance) · [O](../core_05a_accountability_definitions.md#governance) · [A](../core_05a_accountability_definitions.md#governance-a) · [C](../core_05a_accountability_definitions.md#governance-c)
-- [Necessity](../core_05a_accountability_definitions.md#necessity) · [O](../core_05a_accountability_definitions.md#necessity) · [A](../core_05a_accountability_definitions.md#necessity-a) · [C](../core_05a_accountability_definitions.md#necessity-c)
-- [Material](../core_05o_oversight_definitions.md#material) · [O](../core_05o_oversight_definitions.md#material) · [A](../core_05o_oversight_definitions.md#material-a) · [C](../core_05o_oversight_definitions.md#material-c)
-- [Family and Care Relationships](../core_05p_participation_definitions.md#family-and-care-relationships-constitutional) · [O](../core_05p_participation_definitions.md#family-and-care-relationships-constitutional) · [A](../core_05p_participation_definitions.md#family-and-care-relationships-constitutional-a) · [C](../core_05p_participation_definitions.md#family-and-care-relationships-constitutional-c)
+- [Proportionality](../core_05defs_accountability.md#proportionality) · [O](../core_05defs_accountability.md#proportionality) · [A](../core_05defs_accountability.md#proportionality-a) · [C](../core_05defs_accountability.md#proportionality-c)
+- [Accessibility](../core_05defs_participation.md#accessibility-constitutional) · [O](../core_05defs_participation.md#accessibility-constitutional) · [A](../core_05defs_participation.md#accessibility-constitutional-a) · [C](../core_05defs_participation.md#accessibility-constitutional-c)
+- [Dependency](../core_05defs_continuity.md#dependency) · [O](../core_05defs_continuity.md#dependency) · [A](../core_05defs_continuity.md#dependency-a) · [C](../core_05defs_continuity.md#dependency-c)
+- [Governance](../core_05defs_accountability.md#governance) · [O](../core_05defs_accountability.md#governance) · [A](../core_05defs_accountability.md#governance-a) · [C](../core_05defs_accountability.md#governance-c)
+- [Necessity](../core_05defs_accountability.md#necessity) · [O](../core_05defs_accountability.md#necessity) · [A](../core_05defs_accountability.md#necessity-a) · [C](../core_05defs_accountability.md#necessity-c)
+- [Material](../core_05defs_oversight.md#material) · [O](../core_05defs_oversight.md#material) · [A](../core_05defs_oversight.md#material-a) · [C](../core_05defs_oversight.md#material-c)
+- [Family and Care Relationships](../core_05defs_participation.md#family-and-care-relationships-constitutional) · [O](../core_05defs_participation.md#family-and-care-relationships-constitutional) · [A](../core_05defs_participation.md#family-and-care-relationships-constitutional-a) · [C](../core_05defs_participation.md#family-and-care-relationships-constitutional-c)
 
 </details>
 
@@ -43,7 +43,7 @@
 - **Article VII-D** (*Family, Care Relationships, Reproductive Autonomy, and Non-Separation*) in **Chapter Six** — family and care relationships, reproductive autonomy, and non-separation floors.
 - **Article III-D** (*Labor and Economic Floor*) in **Chapter Six** — fair compensation, collective organization, safe conditions, and leisure and rest for productive activity, including care work where material.
 - **Article III-C** (*Bodily-Maintenance and Healthcare Access*) in **Chapter Six** — bodily-maintenance and healthcare access for dependents without proxy denial.
-- **Chapter Five** [*Family and Care Relationships*](../core_05p_participation_definitions.md#family-and-care-relationships-constitutional) — definitional home for care-relationship duties alongside **Article VII-D** (*Family, Care Relationships, Reproductive Autonomy, and Non-Separation*).
+- **Chapter Five** [*Family and Care Relationships*](../core_05defs_participation.md#family-and-care-relationships-constitutional) — definitional home for care-relationship duties alongside **Article VII-D** (*Family, Care Relationships, Reproductive Autonomy, and Non-Separation*).
 - **CI-9.4** — survival floors, voluntary exchange, and markets (**Article III-A** (*Survival*) interface): essential access cannot depend on unpaid care labor or premium purchasing.
 - **CI-10** — public revenue, fees, recurring charges, and billing integrity: charge design must not defeat care or respite access in practice.
 - **Protocol S5** (*Resource Allocation and Funding Stewardship*) in `corpus_systems.md` — funding stewardship, dependent-systems mapping, and auditable allocation for care-adjacent resource flows.

@@ -11,13 +11,13 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Authority Stack and Internal Hierarchy](../core_05i_integrative_definitions.md#authority-stack) · [O](../core_05i_integrative_definitions.md#authority-stack) · [A](../core_05i_integrative_definitions.md#authority-stack-a) · [C](../core_05i_integrative_definitions.md#authority-stack-c)
-- [Adjudication and Dispute Resolution](../core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional) · [A](../core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional-a) · [C](../core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional-c)
-- [Constitutional Constraint Violation](../core_05i_integrative_definitions.md#constitutional-constraint-violation) · [O](../core_05i_integrative_definitions.md#constitutional-constraint-violation) · [A](../core_05i_integrative_definitions.md#constitutional-constraint-violation-a) · [C](../core_05i_integrative_definitions.md#constitutional-constraint-violation-c)
-- [Classification-Scaled Governance](../core_05o_oversight_definitions.md#classification-scaled-governance) · [O](../core_05o_oversight_definitions.md#classification-scaled-governance) · [A](../core_05o_oversight_definitions.md#classification-scaled-governance-a) · [C](../core_05o_oversight_definitions.md#classification-scaled-governance-c)
-- [Supremacy and Enforceability](../core_05i_integrative_definitions.md#supremacy-and-enforceability) · [O](../core_05i_integrative_definitions.md#supremacy-and-enforceability) · [A](../core_05i_integrative_definitions.md#supremacy-and-enforceability-a) · [C](../core_05i_integrative_definitions.md#supremacy-and-enforceability-c)
-- [Emergency and Contingency](../core_05c_continuity_definitions.md#emergency-and-contingency-constitutional) · [O](../core_05c_continuity_definitions.md#emergency-and-contingency-constitutional) · [A](../core_05c_continuity_definitions.md#emergency-and-contingency-constitutional-a) · [C](../core_05c_continuity_definitions.md#emergency-and-contingency-constitutional-c)
-- [Materiality Determination](../core_05o_oversight_definitions.md#materiality-determination) · [O](../core_05o_oversight_definitions.md#materiality-determination) · [A](../core_05o_oversight_definitions.md#materiality-determination-a) · [C](../core_05o_oversight_definitions.md#materiality-determination-c)
+- [Authority Stack and Internal Hierarchy](../core_05defs_integrative.md#authority-stack) · [O](../core_05defs_integrative.md#authority-stack) · [A](../core_05defs_integrative.md#authority-stack-a) · [C](../core_05defs_integrative.md#authority-stack-c)
+- [Adjudication and Dispute Resolution](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [A](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [C](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-c)
+- [Constitutional Constraint Violation](../core_05defs_integrative.md#constitutional-constraint-violation) · [O](../core_05defs_integrative.md#constitutional-constraint-violation) · [A](../core_05defs_integrative.md#constitutional-constraint-violation-a) · [C](../core_05defs_integrative.md#constitutional-constraint-violation-c)
+- [Classification-Scaled Governance](../core_05defs_oversight.md#classification-scaled-governance) · [O](../core_05defs_oversight.md#classification-scaled-governance) · [A](../core_05defs_oversight.md#classification-scaled-governance-a) · [C](../core_05defs_oversight.md#classification-scaled-governance-c)
+- [Supremacy and Enforceability](../core_05defs_integrative.md#supremacy-and-enforceability) · [O](../core_05defs_integrative.md#supremacy-and-enforceability) · [A](../core_05defs_integrative.md#supremacy-and-enforceability-a) · [C](../core_05defs_integrative.md#supremacy-and-enforceability-c)
+- [Emergency and Contingency](../core_05defs_continuity.md#emergency-and-contingency-constitutional) · [O](../core_05defs_continuity.md#emergency-and-contingency-constitutional) · [A](../core_05defs_continuity.md#emergency-and-contingency-constitutional-a) · [C](../core_05defs_continuity.md#emergency-and-contingency-constitutional-c)
+- [Materiality Determination](../core_05defs_oversight.md#materiality-determination) · [O](../core_05defs_oversight.md#materiality-determination) · [A](../core_05defs_oversight.md#materiality-determination-a) · [C](../core_05defs_oversight.md#materiality-determination-c)
 
 </details>
 
@@ -60,9 +60,9 @@ The implementation corpus is split across **CJS**, **CS**, **CI**, and **CF**. A
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Corpus](../core_05i_integrative_definitions.md#corpus) · [O](../core_05i_integrative_definitions.md#corpus) · [A](../core_05i_integrative_definitions.md#corpus-a) · [C](../core_05i_integrative_definitions.md#corpus-c)
-- [Authority Stack and Internal Hierarchy](../core_05i_integrative_definitions.md#authority-stack) · [O](../core_05i_integrative_definitions.md#authority-stack) · [A](../core_05i_integrative_definitions.md#authority-stack-a) · [C](../core_05i_integrative_definitions.md#authority-stack-c)
-- [Supremacy and Enforceability](../core_05i_integrative_definitions.md#supremacy-and-enforceability) · [O](../core_05i_integrative_definitions.md#supremacy-and-enforceability) · [A](../core_05i_integrative_definitions.md#supremacy-and-enforceability-a) · [C](../core_05i_integrative_definitions.md#supremacy-and-enforceability-c)
+- [Corpus](../core_05defs_integrative.md#corpus) · [O](../core_05defs_integrative.md#corpus) · [A](../core_05defs_integrative.md#corpus-a) · [C](../core_05defs_integrative.md#corpus-c)
+- [Authority Stack and Internal Hierarchy](../core_05defs_integrative.md#authority-stack) · [O](../core_05defs_integrative.md#authority-stack) · [A](../core_05defs_integrative.md#authority-stack-a) · [C](../core_05defs_integrative.md#authority-stack-c)
+- [Supremacy and Enforceability](../core_05defs_integrative.md#supremacy-and-enforceability) · [O](../core_05defs_integrative.md#supremacy-and-enforceability) · [A](../core_05defs_integrative.md#supremacy-and-enforceability-a) · [C](../core_05defs_integrative.md#supremacy-and-enforceability-c)
 
 </details>
 
@@ -83,11 +83,11 @@ Joint obligations apply when **CJS-2.1** (*Topic router (stable IDs)*) says that
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Material](../core_05o_oversight_definitions.md#material) · [O](../core_05o_oversight_definitions.md#material) · [A](../core_05o_oversight_definitions.md#material-a) · [C](../core_05o_oversight_definitions.md#material-c)
-- [Sentient](../core_05p_participation_definitions.md#sentient-composite) · [O](../core_05p_participation_definitions.md#sentient-composite) · [A](../core_05p_participation_definitions.md#sentient-composite-a) · [C](../core_05i_integrative_definitions.md#sentient-composite-c)
-- [Constitutional Constraint Violation](../core_05i_integrative_definitions.md#constitutional-constraint-violation) · [O](../core_05i_integrative_definitions.md#constitutional-constraint-violation) · [A](../core_05i_integrative_definitions.md#constitutional-constraint-violation-a) · [C](../core_05i_integrative_definitions.md#constitutional-constraint-violation-c)
-- [Emergency and Contingency](../core_05c_continuity_definitions.md#emergency-and-contingency-constitutional) · [O](../core_05c_continuity_definitions.md#emergency-and-contingency-constitutional) · [A](../core_05c_continuity_definitions.md#emergency-and-contingency-constitutional-a) · [C](../core_05c_continuity_definitions.md#emergency-and-contingency-constitutional-c)
-- [Materiality Determination](../core_05o_oversight_definitions.md#materiality-determination) · [O](../core_05o_oversight_definitions.md#materiality-determination) · [A](../core_05o_oversight_definitions.md#materiality-determination-a) · [C](../core_05o_oversight_definitions.md#materiality-determination-c)
+- [Material](../core_05defs_oversight.md#material) · [O](../core_05defs_oversight.md#material) · [A](../core_05defs_oversight.md#material-a) · [C](../core_05defs_oversight.md#material-c)
+- [Sentient](../core_05defs_participation.md#sentient-composite) · [O](../core_05defs_participation.md#sentient-composite) · [A](../core_05defs_participation.md#sentient-composite-a) · [C](../core_05defs_integrative.md#sentient-composite-c)
+- [Constitutional Constraint Violation](../core_05defs_integrative.md#constitutional-constraint-violation) · [O](../core_05defs_integrative.md#constitutional-constraint-violation) · [A](../core_05defs_integrative.md#constitutional-constraint-violation-a) · [C](../core_05defs_integrative.md#constitutional-constraint-violation-c)
+- [Emergency and Contingency](../core_05defs_continuity.md#emergency-and-contingency-constitutional) · [O](../core_05defs_continuity.md#emergency-and-contingency-constitutional) · [A](../core_05defs_continuity.md#emergency-and-contingency-constitutional-a) · [C](../core_05defs_continuity.md#emergency-and-contingency-constitutional-c)
+- [Materiality Determination](../core_05defs_oversight.md#materiality-determination) · [O](../core_05defs_oversight.md#materiality-determination) · [A](../core_05defs_oversight.md#materiality-determination-a) · [C](../core_05defs_oversight.md#materiality-determination-c)
 
 </details>
 
@@ -103,24 +103,24 @@ Emergency or temporary narrowing is allowed only when it is published, clearly b
 
 - Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: this section's local operational requirements for **CJS-3.3 Boundary Between Support Roles and Merits Decisions**.
-- Read with: **CJS-3.3**; **CJS-5.13** (*Accountability: procedural integrity and adjudication terms*); [Merits Determination](../core_05a_accountability_definitions.md#merits-determination).
+- Read with: **CJS-3.3**; **CJS-5.13** (*Accountability: procedural integrity and adjudication terms*); [Merits Determination](../core_05defs_accountability.md#merits-determination).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Merits Determination](../core_05a_accountability_definitions.md#merits-determination) · [O](../core_05a_accountability_definitions.md#merits-determination) · [A](../core_05a_accountability_definitions.md#merits-determination-a) · [C](../core_05a_accountability_definitions.md#merits-determination-c)
-- [Oversight](../core_05o_oversight_definitions.md#oversight-constitutional) · [O](../core_05o_oversight_definitions.md#oversight-constitutional) · [A](../core_05o_oversight_definitions.md#oversight-constitutional-a) · [C](../core_05o_oversight_definitions.md#oversight-constitutional-c)
-- [Procedural Fairness](../core_05p_participation_definitions.md#procedural-fairness-constitutional) · [O](../core_05p_participation_definitions.md#procedural-fairness-constitutional) · [A](../core_05p_participation_definitions.md#procedural-fairness-constitutional-a) · [C](../core_05p_participation_definitions.md#procedural-fairness-constitutional-c)
-- [Adjudication and Dispute Resolution](../core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional) · [A](../core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional-a) · [C](../core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional-c)
-- [Authority Stack and Internal Hierarchy](../core_05i_integrative_definitions.md#authority-stack) · [O](../core_05i_integrative_definitions.md#authority-stack) · [A](../core_05i_integrative_definitions.md#authority-stack-a) · [C](../core_05i_integrative_definitions.md#authority-stack-c)
+- [Merits Determination](../core_05defs_accountability.md#merits-determination) · [O](../core_05defs_accountability.md#merits-determination) · [A](../core_05defs_accountability.md#merits-determination-a) · [C](../core_05defs_accountability.md#merits-determination-c)
+- [Oversight](../core_05apex_oversight_leg.md#oversight-constitutional) · [O](../core_05apex_oversight_leg.md#oversight-constitutional) · [A](../core_05apex_oversight_leg.md#oversight-constitutional-a) · [C](../core_05apex_oversight_leg.md#oversight-constitutional-c)
+- [Procedural Fairness](../core_05defs_participation.md#procedural-fairness-constitutional) · [O](../core_05defs_participation.md#procedural-fairness-constitutional) · [A](../core_05defs_participation.md#procedural-fairness-constitutional-a) · [C](../core_05defs_participation.md#procedural-fairness-constitutional-c)
+- [Adjudication and Dispute Resolution](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [A](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [C](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-c)
+- [Authority Stack and Internal Hierarchy](../core_05defs_integrative.md#authority-stack) · [O](../core_05defs_integrative.md#authority-stack) · [A](../core_05defs_integrative.md#authority-stack-a) · [C](../core_05defs_integrative.md#authority-stack-c)
 
 </details>
 
 <br>
 
-Roles that monitor, review pathway performance, provide forensic help, or support investigations must not make binding merits determinations within the meaning of [Merits Determination](../core_05a_accountability_definitions.md#merits-determination) under [Chapter Eleven](../core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) and **Adjudication and Dispute Resolution**. The only exception is when a separate lawful instrument clearly gives a named role limited authority to decide merits issues.
+Roles that monitor, review pathway performance, provide forensic help, or support investigations must not make binding merits determinations within the meaning of [Merits Determination](../core_05defs_accountability.md#merits-determination) under [Chapter Eleven](../core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) and **Adjudication and Dispute Resolution**. The only exception is when a separate lawful instrument clearly gives a named role limited authority to decide merits issues.
 
 Institutions must publish what each role is allowed to do and what it is not allowed to decide. They must also state who the role reports to, how often it reports, and how it connects to assurance lanes. Oversight and support roles must not quietly take over merits decision-making assigned to a lawfully constituted forum family under **Chapter Eleven**.
 
@@ -139,8 +139,8 @@ See **CI-7.3** (*Contest-integrity monitoring (Class A and Class B)*), **CF-8** 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Contestability](../core_05a_accountability_definitions.md#contestability) · [O](../core_05a_accountability_definitions.md#contestability) · [A](../core_05a_accountability_definitions.md#contestability-a) · [C](../core_05a_accountability_definitions.md#contestability-c)
-- [Adjudication and Dispute Resolution](../core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional) · [A](../core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional-a) · [C](../core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional-c)
+- [Contestability](../core_05defs_accountability.md#contestability) · [O](../core_05defs_accountability.md#contestability) · [A](../core_05defs_accountability.md#contestability-a) · [C](../core_05defs_accountability.md#contestability-c)
+- [Adjudication and Dispute Resolution](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [A](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [C](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-c)
 
 </details>
 
@@ -163,11 +163,11 @@ That includes budget, staffing, records, security, procurement, clerking, digita
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Material](../core_05o_oversight_definitions.md#material) · [O](../core_05o_oversight_definitions.md#material) · [A](../core_05o_oversight_definitions.md#material-a) · [C](../core_05o_oversight_definitions.md#material-c)
-- [Corpus](../core_05i_integrative_definitions.md#corpus) · [O](../core_05i_integrative_definitions.md#corpus) · [A](../core_05i_integrative_definitions.md#corpus-a) · [C](../core_05i_integrative_definitions.md#corpus-c)
-- [Incentive Alignment](../core_05i_integrative_definitions.md#incentive-alignment) · [O](../core_05i_integrative_definitions.md#incentive-alignment) · [A](../core_05i_integrative_definitions.md#incentive-alignment-a) · [C](../core_05i_integrative_definitions.md#incentive-alignment-c)
-- [Classification-Scaled Governance](../core_05o_oversight_definitions.md#classification-scaled-governance) · [O](../core_05o_oversight_definitions.md#classification-scaled-governance) · [A](../core_05o_oversight_definitions.md#classification-scaled-governance-a) · [C](../core_05o_oversight_definitions.md#classification-scaled-governance-c)
-- [Materiality Determination](../core_05o_oversight_definitions.md#materiality-determination) · [O](../core_05o_oversight_definitions.md#materiality-determination) · [A](../core_05o_oversight_definitions.md#materiality-determination-a) · [C](../core_05o_oversight_definitions.md#materiality-determination-c)
+- [Material](../core_05defs_oversight.md#material) · [O](../core_05defs_oversight.md#material) · [A](../core_05defs_oversight.md#material-a) · [C](../core_05defs_oversight.md#material-c)
+- [Corpus](../core_05defs_integrative.md#corpus) · [O](../core_05defs_integrative.md#corpus) · [A](../core_05defs_integrative.md#corpus-a) · [C](../core_05defs_integrative.md#corpus-c)
+- [Incentive Alignment](../core_05defs_integrative.md#incentive-alignment) · [O](../core_05defs_integrative.md#incentive-alignment) · [A](../core_05defs_integrative.md#incentive-alignment-a) · [C](../core_05defs_integrative.md#incentive-alignment-c)
+- [Classification-Scaled Governance](../core_05defs_oversight.md#classification-scaled-governance) · [O](../core_05defs_oversight.md#classification-scaled-governance) · [A](../core_05defs_oversight.md#classification-scaled-governance-a) · [C](../core_05defs_oversight.md#classification-scaled-governance-c)
+- [Materiality Determination](../core_05defs_oversight.md#materiality-determination) · [O](../core_05defs_oversight.md#materiality-determination) · [A](../core_05defs_oversight.md#materiality-determination-a) · [C](../core_05defs_oversight.md#materiality-determination-c)
 
 </details>
 
@@ -189,7 +189,7 @@ Do not give a system one risk or classification label in institutional supervisi
 
 </details>
 
-<strong><span style="color: #2563eb;">Definition:</span></strong> [Sentient](../core_05p_participation_definitions.md#sentient-composite) · [O](../core_05p_participation_definitions.md#sentient-composite) · [A](../core_05p_participation_definitions.md#sentient-composite-a) · [C](../core_05i_integrative_definitions.md#sentient-composite-c)
+<strong><span style="color: #2563eb;">Definition:</span></strong> [Sentient](../core_05defs_participation.md#sentient-composite) · [O](../core_05defs_participation.md#sentient-composite) · [A](../core_05defs_participation.md#sentient-composite-a) · [C](../core_05defs_integrative.md#sentient-composite-c)
 
 When **CS**, **CI**, or **CF** cite **CJS-5** (*Implementation and cross-implementation operational cluster library*) operational clusters, adopters must keep those references traceable and must not use implementation text to weaken them.
 

@@ -33,7 +33,7 @@ audits. It enforces two invariants:
    the four Chapter Eleven parts), every line inside a D/A/C widget that appears
    to be a widget row must match the canonical shape:
 
-       - [Name](core_05a_accountability_definitions.md#slug) · [O](...) · [E](...) · [C](...)
+       - [Name](core_05defs_accountability.md#slug) · [O](...) · [E](...) · [C](...)
 
    and every anchor in that row must resolve to a live Chapter Five anchor.
    The single-concept inline form is also recognized:
@@ -159,7 +159,7 @@ DETAILS_CLOSE_RE = re.compile(r"^\s*</details>\s*$")
 # middle-dot with single spaces. Each href must point into Chapter Five.
 #
 # Example:
-#   - [Wellbeing](core_05c_continuity_definitions.md#wellbeing) · [O](core_05c_continuity_definitions.md#wellbeing) · [E](core_05c_continuity_definitions.md#wellbeing-e) · [C](core_05c_continuity_definitions.md#wellbeing-c)
+#   - [Wellbeing](core_05defs_continuity.md#wellbeing) · [O](core_05defs_continuity.md#wellbeing) · [E](core_05defs_continuity.md#wellbeing-e) · [C](core_05defs_continuity.md#wellbeing-c)
 ROW_RE = re.compile(
     r"^\s*-\s+"
     r"\[(?P<name>[^\]]+)\]\((?P<link>[^)]+)\)"

@@ -8,7 +8,7 @@ import json
 import sys
 from pathlib import Path
 
-SKIP_AIM_ROLES = frozenset({"aim_head"})
+SKIP_AIM_ROLES = frozenset({"aim_head", "tetrad_leg_head"})
 
 
 def parse_args() -> argparse.Namespace:

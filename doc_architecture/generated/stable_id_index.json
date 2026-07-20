@@ -36,42 +36,42 @@
       "status": "present"
     },
     {
-      "file": "core_05f_flourishing_aim.md",
+      "file": "core_05apex_flourishing_aim.md",
       "label": "core",
       "status": "present"
     },
     {
-      "file": "core_05g_continuity_aim.md",
+      "file": "core_05apex_continuity_aim.md",
       "label": "core",
       "status": "present"
     },
     {
-      "file": "core_05o_oversight_definitions.md",
+      "file": "core_05defs_oversight.md",
       "label": "core",
       "status": "present"
     },
     {
-      "file": "core_05p_participation_definitions.md",
+      "file": "core_05defs_participation.md",
       "label": "core",
       "status": "present"
     },
     {
-      "file": "core_05a_accountability_definitions.md",
+      "file": "core_05defs_accountability.md",
       "label": "core",
       "status": "present"
     },
     {
-      "file": "core_05c_continuity_definitions.md",
+      "file": "core_05defs_continuity.md",
       "label": "core",
       "status": "present"
     },
     {
-      "file": "core_05i_integrative_definitions.md",
+      "file": "core_05defs_integrative.md",
       "label": "core",
       "status": "present"
     },
     {
-      "file": "core_05m_performance_definitions.md",
+      "file": "core_05defs_performance.md",
       "label": "core",
       "status": "present"
     },

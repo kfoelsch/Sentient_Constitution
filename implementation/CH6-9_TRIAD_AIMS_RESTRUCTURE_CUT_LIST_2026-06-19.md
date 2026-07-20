@@ -77,7 +77,7 @@
 - `core_10_a_misconduct_designation.md`
 - `core_11-11_forum.md`
 - `core_00_preamble.md`
-- `core_05a_accountability_definitions.md` (Chapter One §8.10 trace)
+- `core_05defs_accountability.md` (Chapter One §8.10 trace)
 - `README.md`
 - `doc_architecture.md`
 - `corpus_forum/cf_00_registry_and_reading_rules.md`

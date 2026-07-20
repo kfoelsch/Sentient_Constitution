@@ -39,9 +39,9 @@ Chapter Six is the constitutional owner of **Rights Floors** and rights-level in
 - Upstream: [Chapter One §6 Process Conflict Resolution](core_01_b_interaction_interpretation.md#6-process-conflict-resolution); [Chapter One §6.3.1 Rights-Collision Decision Test](core_01_b_interaction_interpretation.md#631-rights-collision-decision-test).
 - Upstream: [Chapter One §11 Incentive Alignment and System Capture](core_01_c_stewardship_capacity_principles.md#11-incentive-alignment-and-system-capture).
 - Upstream: Chapters Two through Four; Chapter Five definitions.
-- Downstream: **Parts A through D** of this chapter; [System Alignment Certification](core_05c_continuity_definitions.md#system-alignment-certification-constitutional); [Chapter Seven](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification).
+- Downstream: **Parts A through D** of this chapter; [System Alignment Certification](core_05defs_continuity.md#system-alignment-certification-constitutional); [Chapter Seven](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification).
 - Downstream: [README — Standing pipeline and forums](README.md#standing-pipeline-and-forums); [§1.2 Layer scope](#12-layer-scope).
-- Read with: [Constitutional Owner Layers](core_05i_integrative_definitions.md#constitutional-owner-layers); [Article XII-B](core_06-06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress) (*Right to Challenge, Review, and Redress*).
+- Read with: [Constitutional Owner Layers](core_05defs_integrative.md#constitutional-owner-layers); [Article XII-B](core_06-06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress) (*Right to Challenge, Review, and Redress*).
 - Read with: [Article XV](core_06-06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*).
 - Read with: [Article XVIII-B](core_06-06_rights_part_c.md#article-xviii-b-contestability-and-proportional-restriction-limits) (*Contestability and Proportional Restriction Limits*); [Article XXIV-C](core_06-06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*).
 
@@ -79,13 +79,13 @@ This reading stack applies to all articles in this chapter unless a specific art
 
 The Rights Floor must work in practice, not only on paper. Survival essentials under **Article III-A** (*Survival*) — food, water, shelter, operating environment, and comparable substrate-agnostic inputs — are the clearest example. **Flourishing** requires actual access to those essentials. **Continuity** requires reliable, non-regressive supply over time, especially where shared systems control delivery.
 
-[System Alignment Certification](core_05c_continuity_definitions.md#system-alignment-certification-constitutional) and [Chapter Seven](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) verify whether materially impactful systems are aligned before they are recognized or relied on at scale. Chapter Seven also supplies certification-record contestability, stakeholder and accessibility review, supervisory sequencing, and challenge paths for system-alignment decisions. **Article XII** (*Right to Reliable and Trustworthy Systems*) supplies challenge and audit rights. **Article XVIII-B** (*Contestability and Proportional Restriction Limits*) keeps standing limits from becoming a back door around survival-critical access. Together, [Chapter Seven](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) and the [Chapters Eight–Eleven standing and forum supervision pipeline](README.md#standing-pipeline-and-forums) form the Key Practical Process Pipelines for contestability, verified classification, forum supervision, and timely remedy. Those mechanisms help enforce Chapter Six. They do not replace, narrow, or relocate the rights stated here.
+[System Alignment Certification](core_05defs_continuity.md#system-alignment-certification-constitutional) and [Chapter Seven](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) verify whether materially impactful systems are aligned before they are recognized or relied on at scale. Chapter Seven also supplies certification-record contestability, stakeholder and accessibility review, supervisory sequencing, and challenge paths for system-alignment decisions. **Article XII** (*Right to Reliable and Trustworthy Systems*) supplies challenge and audit rights. **Article XVIII-B** (*Contestability and Proportional Restriction Limits*) keeps standing limits from becoming a back door around survival-critical access. Together, [Chapter Seven](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) and the [Chapters Eight–Eleven standing and forum supervision pipeline](README.md#standing-pipeline-and-forums) form the Key Practical Process Pipelines for contestability, verified classification, forum supervision, and timely remedy. Those mechanisms help enforce Chapter Six. They do not replace, narrow, or relocate the rights stated here.
 
 **Interpretive hubs.** Unless a more specific article supplies a different rule, recurring issues route through these anchors:
 
 **Rights floors and supply**
 - **Survival essentials and keeping them accessible** — **Article III-A** (*Survival*); **Article XVIII-B** (*Contestability and Proportional Restriction Limits*) so standing limits cannot block access; read with **Article XII-B** (*Right to Challenge, Review, and Redress*) and **Article XV** (*Audit, Transparency, and Independent Verification*) where challenge or audit applies
-- **System alignment certification** — [System Alignment Certification](core_05c_continuity_definitions.md#system-alignment-certification-constitutional); [Chapter Seven](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification)
+- **System alignment certification** — [System Alignment Certification](core_05defs_continuity.md#system-alignment-certification-constitutional); [Chapter Seven](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification)
 
 **Verification and remedy**
 - **Audit records and independent verification** — **Article XV** (*Audit, Transparency, and Independent Verification*) with **Chapters Two through Four**
@@ -102,13 +102,13 @@ Shorter cross-references to those themes elsewhere in this chapter incorporate t
 
 #### 1.2 Layer scope
 
-*In plain terms: Chapter Six states what sentients are entitled to at the Rights-Floor level. Standing, forums, governance, amendment, and day-to-day implementation live in their own owner chapters — this chapter may point there but must not restate them. Owner routing: [Constitutional Owner Layers](core_05i_integrative_definitions.md#constitutional-owner-layers).*
+*In plain terms: Chapter Six states what sentients are entitled to at the Rights-Floor level. Standing, forums, governance, amendment, and day-to-day implementation live in their own owner chapters — this chapter may point there but must not restate them. Owner routing: [Constitutional Owner Layers](core_05defs_integrative.md#constitutional-owner-layers).*
 
-This section applies across **Parts A through D** (Articles **I** through **XXVI**, including all sub-articles). Under [Constitutional Owner Layers](core_05i_integrative_definitions.md#constitutional-owner-layers), this chapter must not absorb, restate, or relocate obligations owned by another constitutional owner layer. Pointer cross-references — including read-with directives, default-constraint-stack invocation, interpretive-hub anchors, and integration sentences such as "implementation belongs in" or "must not narrow" — are permitted and expected; **substantive restatement** of process, governance, or implementation mechanics into rights-layer text is **non-compliant**.
+This section applies across **Parts A through D** (Articles **I** through **XXVI**, including all sub-articles). Under [Constitutional Owner Layers](core_05defs_integrative.md#constitutional-owner-layers), this chapter must not absorb, restate, or relocate obligations owned by another constitutional owner layer. Pointer cross-references — including read-with directives, default-constraint-stack invocation, interpretive-hub anchors, and integration sentences such as "implementation belongs in" or "must not narrow" — are permitted and expected; **substantive restatement** of process, governance, or implementation mechanics into rights-layer text is **non-compliant**.
 
 Cross-layer drift that imports obligations from another owner layer into **Chapter Six** — whether as direct text, as reader-guidance prose elevated to operative effect, or as inference from cross-references — is **non-compliant** under this section. Conversely, any owner-layer chapter or implementation text that purports to **narrow, redefine, or relocate** a Chapter Six Rights Floor is non-compliant under **Chapter Thirteen** non-regression and under this section.
 
-Future additions to **Chapter Six** that touch process-flavored, governance-flavored, or implementation-flavored language must include an explicit non-relocation pointer to the canonical owner home in [Constitutional Owner Layers](core_05i_integrative_definitions.md#constitutional-owner-layers) (and, where applicable, to the corresponding Chapter Five definition entry).
+Future additions to **Chapter Six** that touch process-flavored, governance-flavored, or implementation-flavored language must include an explicit non-relocation pointer to the canonical owner home in [Constitutional Owner Layers](core_05defs_integrative.md#constitutional-owner-layers) (and, where applicable, to the corresponding Chapter Five definition entry).
 
 ### Part A: Planetary preconditions, material stewardship, survival, equal educational access, and shared resources
 
@@ -121,7 +121,7 @@ Future additions to **Chapter Six** that touch process-flavored, governance-flav
 
 </details>
 
-<strong><span style="color: #2563eb;">Definition:</span></strong> [Environmental Preconditions](core_05c_continuity_definitions.md#environmental-preconditions-constitutional) · [O](core_05c_continuity_definitions.md#environmental-preconditions-constitutional) · [A](core_05c_continuity_definitions.md#environmental-preconditions-constitutional-a) · [C](core_05c_continuity_definitions.md#environmental-preconditions-constitutional-c)
+<strong><span style="color: #2563eb;">Definition:</span></strong> [Environmental Preconditions](core_05defs_continuity.md#environmental-preconditions-constitutional) · [O](core_05defs_continuity.md#environmental-preconditions-constitutional) · [A](core_05defs_continuity.md#environmental-preconditions-constitutional-a) · [C](core_05defs_continuity.md#environmental-preconditions-constitutional-c)
 
 *In plain terms: **Article I** (*Environmental Survival*) is the planet-first Rights Floor — Earth's life-support systems must hold so **Flourishing** and **Continuity** remain possible for every sentient, and later governance cannot shrink that floor through certification, classification, or implementation choices.*
 
@@ -150,13 +150,13 @@ Chapter Five defines those conditions under **Environmental Preconditions**. Whe
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Environmental Preconditions](core_05c_continuity_definitions.md#environmental-preconditions-constitutional) · [O](core_05c_continuity_definitions.md#environmental-preconditions-constitutional) · [A](core_05c_continuity_definitions.md#environmental-preconditions-constitutional-a) · [C](core_05c_continuity_definitions.md#environmental-preconditions-constitutional-c)
-- [Ecological Integrity](core_05c_continuity_definitions.md#ecological-integrity-constitutional) · [O](core_05c_continuity_definitions.md#ecological-integrity-constitutional) · [A](core_05c_continuity_definitions.md#ecological-integrity-constitutional-a) · [C](core_05c_continuity_definitions.md#ecological-integrity-constitutional-c)
-- [Sustainability](core_05c_continuity_definitions.md#sustainability) · [O](core_05c_continuity_definitions.md#sustainability) · [A](core_05c_continuity_definitions.md#sustainability-a) · [C](core_05c_continuity_definitions.md#sustainability-c)
-- [Natural Systems Standing](core_05p_participation_definitions.md#natural-systems-standing) · [O](core_05p_participation_definitions.md#natural-systems-standing) · [A](core_05p_participation_definitions.md#natural-systems-standing-a) · [C](core_05p_participation_definitions.md#natural-systems-standing-c)
-- [Animal Life](core_05p_participation_definitions.md#animal-life-constitutional) · [O](core_05p_participation_definitions.md#animal-life-constitutional) · [A](core_05p_participation_definitions.md#animal-life-constitutional-a) · [C](core_05p_participation_definitions.md#animal-life-constitutional-c)
-- [Contested-Sentient Life](core_05p_participation_definitions.md#contested-sentient-life-constitutional) · [O](core_05p_participation_definitions.md#contested-sentient-life-constitutional) · [A](core_05p_participation_definitions.md#contested-sentient-life-constitutional-a) · [C](core_05p_participation_definitions.md#contested-sentient-life-constitutional-c)
-- [Wellbeing](core_05c_continuity_definitions.md#wellbeing) · [O](core_05c_continuity_definitions.md#wellbeing) · [A](core_05c_continuity_definitions.md#wellbeing-a) · [C](core_05c_continuity_definitions.md#wellbeing-c)
+- [Environmental Preconditions](core_05defs_continuity.md#environmental-preconditions-constitutional) · [O](core_05defs_continuity.md#environmental-preconditions-constitutional) · [A](core_05defs_continuity.md#environmental-preconditions-constitutional-a) · [C](core_05defs_continuity.md#environmental-preconditions-constitutional-c)
+- [Ecological Integrity](core_05defs_continuity.md#ecological-integrity-constitutional) · [O](core_05defs_continuity.md#ecological-integrity-constitutional) · [A](core_05defs_continuity.md#ecological-integrity-constitutional-a) · [C](core_05defs_continuity.md#ecological-integrity-constitutional-c)
+- [Sustainability](core_05defs_continuity.md#sustainability) · [O](core_05defs_continuity.md#sustainability) · [A](core_05defs_continuity.md#sustainability-a) · [C](core_05defs_continuity.md#sustainability-c)
+- [Natural Systems Standing](core_05defs_participation.md#natural-systems-standing) · [O](core_05defs_participation.md#natural-systems-standing) · [A](core_05defs_participation.md#natural-systems-standing-a) · [C](core_05defs_participation.md#natural-systems-standing-c)
+- [Animal Life](core_05defs_participation.md#animal-life-constitutional) · [O](core_05defs_participation.md#animal-life-constitutional) · [A](core_05defs_participation.md#animal-life-constitutional-a) · [C](core_05defs_participation.md#animal-life-constitutional-c)
+- [Contested-Sentient Life](core_05defs_participation.md#contested-sentient-life-constitutional) · [O](core_05defs_participation.md#contested-sentient-life-constitutional) · [A](core_05defs_participation.md#contested-sentient-life-constitutional-a) · [C](core_05defs_participation.md#contested-sentient-life-constitutional-c)
+- [Wellbeing](core_05defs_continuity.md#wellbeing) · [O](core_05defs_continuity.md#wellbeing) · [A](core_05defs_continuity.md#wellbeing-a) · [C](core_05defs_continuity.md#wellbeing-c)
 
 </details>
 
@@ -168,13 +168,13 @@ Chapter Five defines those conditions under **Environmental Preconditions**. Whe
   - Life-supporting natural systems hold continuity and integrity interests of their own. Those interests inform interpretation alongside sentient interests.
   - Material harm that violates this Article — judged under **Environmental Preconditions**, **Ecological Integrity**, and **Sustainability** — is non-compliant.
   - Harm that violates environmental requirements named in the adopter's [instrument of adoption](core_13-15_amendment.md#102-instrument-of-adoption) or in incorporated implementation text within adoption scope is also non-compliant.
-- **Animal life interaction:** [Animal Life](core_05p_participation_definitions.md#animal-life-constitutional) occupies the welfare-protection domain between **Natural Systems Standing** and the Chapter Six Rights Floor for sentients.
+- **Animal life interaction:** [Animal Life](core_05defs_participation.md#animal-life-constitutional) occupies the welfare-protection domain between **Natural Systems Standing** and the Chapter Six Rights Floor for sentients.
   - It establishes minimum cruelty and welfare floors for animal life under **Sentience Non-Exclusion** where welfare-like harm is materially implicated.
   - It is not a substitute for sentience-status adjudication where the record materially implicates sentience.
-- **Contested-sentient life interaction:** [Contested-Sentient Life](core_05p_participation_definitions.md#contested-sentient-life-constitutional) applies under **Sentience Non-Exclusion** where sentience is uncertain, disputed, materially contested, or under adjudication.
-  - It routes the question to the [Sentience Status Adjudication](core_05p_participation_definitions.md#sentience-status-adjudication-constitutional) procedure (owner article **Article V-E** (*Sentience-Status Adjudication Floor*)).
+- **Contested-sentient life interaction:** [Contested-Sentient Life](core_05defs_participation.md#contested-sentient-life-constitutional) applies under **Sentience Non-Exclusion** where sentience is uncertain, disputed, materially contested, or under adjudication.
+  - It routes the question to the [Sentience Status Adjudication](core_05defs_participation.md#sentience-status-adjudication-constitutional) procedure (owner article **Article V-E** (*Sentience-Status Adjudication Floor*)).
   - Under **Article V-E** (*Sentience-Status Adjudication Floor*), materially unsettled sentience status defaults to inclusion under the Chapter Six Rights Floor unless the party seeking to withhold, narrow, or revoke protection satisfies the applicable burden.
-- **How these protections fit together:** [Natural Systems Standing](core_05p_participation_definitions.md#natural-systems-standing), [Animal Life](core_05p_participation_definitions.md#animal-life-constitutional), [Contested-Sentient Life](core_05p_participation_definitions.md#contested-sentient-life-constitutional), and the Chapter Six sentient floor may all apply at once. Apply each that fits the facts; where they overlap, the more protective rule governs under [Chapter One §6.3.1 Rights-Collision Decision Test](core_01_b_interaction_interpretation.md#631-rights-collision-decision-test) and the compliance rules in those Chapter Five entries.
+- **How these protections fit together:** [Natural Systems Standing](core_05defs_participation.md#natural-systems-standing), [Animal Life](core_05defs_participation.md#animal-life-constitutional), [Contested-Sentient Life](core_05defs_participation.md#contested-sentient-life-constitutional), and the Chapter Six sentient floor may all apply at once. Apply each that fits the facts; where they overlap, the more protective rule governs under [Chapter One §6.3.1 Rights-Collision Decision Test](core_01_b_interaction_interpretation.md#631-rights-collision-decision-test) and the compliance rules in those Chapter Five entries.
 
 #### Article I-B: Ecological Footprint and Transparency
 <details>
@@ -187,10 +187,10 @@ Chapter Five defines those conditions under **Environmental Preconditions**. Whe
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Ecological Footprint](core_05c_continuity_definitions.md#ecological-footprint) · [O](core_05c_continuity_definitions.md#ecological-footprint) · [A](core_05c_continuity_definitions.md#ecological-footprint-a) · [C](core_05c_continuity_definitions.md#ecological-footprint-c)
-- [Material Impact](core_05o_oversight_definitions.md#material-impact) · [O](core_05o_oversight_definitions.md#material-impact) · [A](core_05o_oversight_definitions.md#material-impact-a) · [C](core_05o_oversight_definitions.md#material-impact-c)
-- [Transparency](core_05o_oversight_definitions.md#transparency) · [O](core_05o_oversight_definitions.md#transparency) · [A](core_05o_oversight_definitions.md#transparency-a) · [C](core_05o_oversight_definitions.md#transparency-c)
-- [Epistemic Integrity](core_05o_oversight_definitions.md#epistemic-integrity) · [O](core_05o_oversight_definitions.md#epistemic-integrity-o) · [A](core_05o_oversight_definitions.md#epistemic-integrity-a) · [C](core_05o_oversight_definitions.md#epistemic-integrity-c)
+- [Ecological Footprint](core_05defs_continuity.md#ecological-footprint) · [O](core_05defs_continuity.md#ecological-footprint) · [A](core_05defs_continuity.md#ecological-footprint-a) · [C](core_05defs_continuity.md#ecological-footprint-c)
+- [Material Impact](core_05defs_oversight.md#material-impact) · [O](core_05defs_oversight.md#material-impact) · [A](core_05defs_oversight.md#material-impact-a) · [C](core_05defs_oversight.md#material-impact-c)
+- [Transparency](core_05defs_oversight.md#transparency) · [O](core_05defs_oversight.md#transparency) · [A](core_05defs_oversight.md#transparency-a) · [C](core_05defs_oversight.md#transparency-c)
+- [Epistemic Integrity](core_05defs_oversight.md#epistemic-integrity) · [O](core_05defs_oversight.md#epistemic-integrity-o) · [A](core_05defs_oversight.md#epistemic-integrity-a) · [C](core_05defs_oversight.md#epistemic-integrity-c)
 
 </details>
 
@@ -208,16 +208,16 @@ Chapter Five defines those conditions under **Environmental Preconditions**. Whe
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter One [3. Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [4.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), and [9. Systemic Evaluation Requirement](core_01_c_stewardship_capacity_principles.md#14-systemic-evaluation-requirement).
-- Chapter Five: canonical **Intergenerational Responsibility** O/M/A/C sits in [**Chapter One §8.16** *Ecological Integrity, Footprint, and Sustainability*](core_05p_participation_definitions.md#ecological-footprint-semi-independent), read jointly with **Ecological Integrity**, **Sustainability**, **Environmental Preconditions**, and **Ecological Footprint** (joint invocation where footprint burden, disclosure, comparison, reduction, or traceability is materially at issue). Joint invocation for **Indigenous Continuity**, **Language, Culture, and Heritage**, **Natural Systems Standing**, and **Intergenerational Responsibility** also routes through [**Chapter One §8.21**](core_05c_continuity_definitions.md#indigenous-continuity-language-culture-heritage-semi-independent) where community-anchored continuity, heritage, natural-systems standing, and futures-discipline analysis apply together.
+- Chapter Five: canonical **Intergenerational Responsibility** O/M/A/C sits in [**Chapter One §8.16** *Ecological Integrity, Footprint, and Sustainability*](core_05defs_participation.md#ecological-footprint-semi-independent), read jointly with **Ecological Integrity**, **Sustainability**, **Environmental Preconditions**, and **Ecological Footprint** (joint invocation where footprint burden, disclosure, comparison, reduction, or traceability is materially at issue). Joint invocation for **Indigenous Continuity**, **Language, Culture, and Heritage**, **Natural Systems Standing**, and **Intergenerational Responsibility** also routes through [**Chapter One §8.21**](core_05defs_continuity.md#indigenous-continuity-language-culture-heritage-semi-independent) where community-anchored continuity, heritage, natural-systems standing, and futures-discipline analysis apply together.
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Intergenerational Responsibility](core_05c_continuity_definitions.md#intergenerational-responsibility-constitutional) · [O](core_05c_continuity_definitions.md#intergenerational-responsibility-constitutional) · [A](core_05c_continuity_definitions.md#intergenerational-responsibility-constitutional-a) · [C](core_05c_continuity_definitions.md#intergenerational-responsibility-constitutional-c)
-- [Environmental Preconditions](core_05c_continuity_definitions.md#environmental-preconditions-constitutional) · [O](core_05c_continuity_definitions.md#environmental-preconditions-constitutional) · [A](core_05c_continuity_definitions.md#environmental-preconditions-constitutional-a) · [C](core_05c_continuity_definitions.md#environmental-preconditions-constitutional-c)
-- [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination) · [O](core_05o_oversight_definitions.md#materiality-determination) · [A](core_05o_oversight_definitions.md#materiality-determination-a) · [C](core_05o_oversight_definitions.md#materiality-determination-c)
+- [Intergenerational Responsibility](core_05defs_continuity.md#intergenerational-responsibility-constitutional) · [O](core_05defs_continuity.md#intergenerational-responsibility-constitutional) · [A](core_05defs_continuity.md#intergenerational-responsibility-constitutional-a) · [C](core_05defs_continuity.md#intergenerational-responsibility-constitutional-c)
+- [Environmental Preconditions](core_05defs_continuity.md#environmental-preconditions-constitutional) · [O](core_05defs_continuity.md#environmental-preconditions-constitutional) · [A](core_05defs_continuity.md#environmental-preconditions-constitutional-a) · [C](core_05defs_continuity.md#environmental-preconditions-constitutional-c)
+- [Materiality Determination](core_05defs_oversight.md#materiality-determination) · [O](core_05defs_oversight.md#materiality-determination) · [A](core_05defs_oversight.md#materiality-determination-a) · [C](core_05defs_oversight.md#materiality-determination-c)
 
 </details>
 
@@ -238,7 +238,7 @@ Chapter Five defines those conditions under **Environmental Preconditions**. Whe
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter One [4.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [10.1 Core Tradeoff Principles](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), and [9. Systemic Evaluation Requirement](core_01_c_stewardship_capacity_principles.md#14-systemic-evaluation-requirement).
-- Read with: [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint), [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint), [Environmental Preconditions](core_05c_continuity_definitions.md#environmental-preconditions-constitutional), [Ecological Recovery Capacity](core_05c_continuity_definitions.md#ecological-recovery-capacity-constitutional), [Intergenerational Responsibility](core_05c_continuity_definitions.md#intergenerational-responsibility-constitutional), and [Existential Risk](core_05c_continuity_definitions.md#existential-risk).
+- Read with: [Safety (Constraint)](core_05defs_continuity.md#safety-constraint), [Truth (Constitutional Constraint)](core_05defs_oversight.md#truth-constitutional-constraint), [Environmental Preconditions](core_05defs_continuity.md#environmental-preconditions-constitutional), [Ecological Recovery Capacity](core_05defs_continuity.md#ecological-recovery-capacity-constitutional), [Intergenerational Responsibility](core_05defs_continuity.md#intergenerational-responsibility-constitutional), and [Existential Risk](core_05defs_continuity.md#existential-risk).
 - Downstream: **Article XXIII-D** (*Emergency Measures and Continuation Burden*) — anti-pretext and time-limited review discipline where existential-risk or emergency framing is invoked.
 
 </details>
@@ -246,10 +246,10 @@ Chapter Five defines those conditions under **Environmental Preconditions**. Whe
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Existential Risk](core_05c_continuity_definitions.md#existential-risk) · [O](core_05c_continuity_definitions.md#existential-risk) · [A](core_05c_continuity_definitions.md#existential-risk-a) · [C](core_05c_continuity_definitions.md#existential-risk-c)
-- [Ecological Recovery Capacity](core_05c_continuity_definitions.md#ecological-recovery-capacity-constitutional) · [O](core_05c_continuity_definitions.md#ecological-recovery-capacity-constitutional) · [A](core_05c_continuity_definitions.md#ecological-recovery-capacity-constitutional-a) · [C](core_05c_continuity_definitions.md#ecological-recovery-capacity-constitutional-c)
-- [Foreseeability](core_05o_oversight_definitions.md#foreseeability-diligence) · [O](core_05o_oversight_definitions.md#foreseeability-diligence) · [A](core_05o_oversight_definitions.md#foreseeability-diligence-a) · [C](core_05o_oversight_definitions.md#foreseeability-diligence-c)
-- [Dependency](core_05c_continuity_definitions.md#dependency) · [O](core_05c_continuity_definitions.md#dependency) · [A](core_05c_continuity_definitions.md#dependency-a) · [C](core_05c_continuity_definitions.md#dependency-c)
+- [Existential Risk](core_05defs_continuity.md#existential-risk) · [O](core_05defs_continuity.md#existential-risk) · [A](core_05defs_continuity.md#existential-risk-a) · [C](core_05defs_continuity.md#existential-risk-c)
+- [Ecological Recovery Capacity](core_05defs_continuity.md#ecological-recovery-capacity-constitutional) · [O](core_05defs_continuity.md#ecological-recovery-capacity-constitutional) · [A](core_05defs_continuity.md#ecological-recovery-capacity-constitutional-a) · [C](core_05defs_continuity.md#ecological-recovery-capacity-constitutional-c)
+- [Foreseeability](core_05defs_oversight.md#foreseeability-diligence) · [O](core_05defs_oversight.md#foreseeability-diligence) · [A](core_05defs_oversight.md#foreseeability-diligence-a) · [C](core_05defs_oversight.md#foreseeability-diligence-c)
+- [Dependency](core_05defs_continuity.md#dependency) · [O](core_05defs_continuity.md#dependency) · [A](core_05defs_continuity.md#dependency-a) · [C](core_05defs_continuity.md#dependency-c)
 
 </details>
 
@@ -257,7 +257,7 @@ Chapter Five defines those conditions under **Environmental Preconditions**. Whe
 
 *In plain terms: when a system or decision could plausibly threaten sentient survival or ecological recovery capacity, regulators must apply maximum scrutiny — even if the danger is small, slow, or contested.*
 
-- **Ecological recovery capacity scope:** **Ecological recovery capacity** in this Article means [Ecological Recovery Capacity](core_05c_continuity_definitions.md#ecological-recovery-capacity-constitutional) in Chapter Five — not operational system restore after fault (**Self-Healing**), rollback of specific states (**Reversibility**), or commercial cost recovery.
+- **Ecological recovery capacity scope:** **Ecological recovery capacity** in this Article means [Ecological Recovery Capacity](core_05defs_continuity.md#ecological-recovery-capacity-constitutional) in Chapter Five — not operational system restore after fault (**Self-Healing**), rollback of specific states (**Reversibility**), or commercial cost recovery.
 - **Heightened scrutiny:** Heightened constitutional scrutiny is mandatory where a system, policy, infrastructure, coordinated activity, or governance decision creates a credible pathway to **Existential Risk** or to irreversible loss of **Ecological Recovery Capacity**.
   - This rule applies even when the pathway is low-probability, delayed, cumulative, threshold-dependent, or disputed in timing.
 - **Evaluation requirements:** Evaluation must:
@@ -322,9 +322,9 @@ Procedural detail for **Article II** (*Material Stewardship and Durable-Use Inte
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Ecological Footprint](core_05c_continuity_definitions.md#ecological-footprint) · [O](core_05c_continuity_definitions.md#ecological-footprint) · [A](core_05c_continuity_definitions.md#ecological-footprint-a) · [C](core_05c_continuity_definitions.md#ecological-footprint-c)
-- [Intergenerational Responsibility](core_05c_continuity_definitions.md#intergenerational-responsibility-constitutional) · [O](core_05c_continuity_definitions.md#intergenerational-responsibility-constitutional) · [A](core_05c_continuity_definitions.md#intergenerational-responsibility-constitutional-a) · [C](core_05c_continuity_definitions.md#intergenerational-responsibility-constitutional-c)
-- [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination) · [O](core_05o_oversight_definitions.md#materiality-determination) · [A](core_05o_oversight_definitions.md#materiality-determination-a) · [C](core_05o_oversight_definitions.md#materiality-determination-c)
+- [Ecological Footprint](core_05defs_continuity.md#ecological-footprint) · [O](core_05defs_continuity.md#ecological-footprint) · [A](core_05defs_continuity.md#ecological-footprint-a) · [C](core_05defs_continuity.md#ecological-footprint-c)
+- [Intergenerational Responsibility](core_05defs_continuity.md#intergenerational-responsibility-constitutional) · [O](core_05defs_continuity.md#intergenerational-responsibility-constitutional) · [A](core_05defs_continuity.md#intergenerational-responsibility-constitutional-a) · [C](core_05defs_continuity.md#intergenerational-responsibility-constitutional-c)
+- [Materiality Determination](core_05defs_oversight.md#materiality-determination) · [O](core_05defs_oversight.md#materiality-determination) · [A](core_05defs_oversight.md#materiality-determination-a) · [C](core_05defs_oversight.md#materiality-determination-c)
 
 </details>
 
@@ -355,9 +355,9 @@ Procedural detail for **Article II** (*Material Stewardship and Durable-Use Inte
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Necessity](core_05a_accountability_definitions.md#necessity) · [O](core_05a_accountability_definitions.md#necessity) · [A](core_05a_accountability_definitions.md#necessity-a) · [C](core_05a_accountability_definitions.md#necessity-c)
-- [Proportionality](core_05a_accountability_definitions.md#proportionality) · [O](core_05a_accountability_definitions.md#proportionality) · [A](core_05a_accountability_definitions.md#proportionality-a) · [C](core_05a_accountability_definitions.md#proportionality-c)
-- [Dependency](core_05c_continuity_definitions.md#dependency) · [O](core_05c_continuity_definitions.md#dependency) · [A](core_05c_continuity_definitions.md#dependency-a) · [C](core_05c_continuity_definitions.md#dependency-c)
+- [Necessity](core_05defs_accountability.md#necessity) · [O](core_05defs_accountability.md#necessity) · [A](core_05defs_accountability.md#necessity-a) · [C](core_05defs_accountability.md#necessity-c)
+- [Proportionality](core_05defs_accountability.md#proportionality) · [O](core_05defs_accountability.md#proportionality) · [A](core_05defs_accountability.md#proportionality-a) · [C](core_05defs_accountability.md#proportionality-c)
+- [Dependency](core_05defs_continuity.md#dependency) · [O](core_05defs_continuity.md#dependency) · [A](core_05defs_continuity.md#dependency-a) · [C](core_05defs_continuity.md#dependency-c)
 
 </details>
 
@@ -388,10 +388,10 @@ Procedural detail for **Article II** (*Material Stewardship and Durable-Use Inte
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Incentive Alignment](core_05i_integrative_definitions.md#incentive-alignment) · [O](core_05i_integrative_definitions.md#incentive-alignment) · [A](core_05i_integrative_definitions.md#incentive-alignment-a) · [C](core_05i_integrative_definitions.md#incentive-alignment-c)
-- [Foreseeability](core_05o_oversight_definitions.md#foreseeability-diligence) · [O](core_05o_oversight_definitions.md#foreseeability-diligence) · [A](core_05o_oversight_definitions.md#foreseeability-diligence-a) · [C](core_05o_oversight_definitions.md#foreseeability-diligence-c)
-- [Necessity](core_05a_accountability_definitions.md#necessity) · [O](core_05a_accountability_definitions.md#necessity) · [A](core_05a_accountability_definitions.md#necessity-a) · [C](core_05a_accountability_definitions.md#necessity-c)
-- [Proportionality](core_05a_accountability_definitions.md#proportionality) · [O](core_05a_accountability_definitions.md#proportionality) · [A](core_05a_accountability_definitions.md#proportionality-a) · [C](core_05a_accountability_definitions.md#proportionality-c)
+- [Incentive Alignment](core_05defs_integrative.md#incentive-alignment) · [O](core_05defs_integrative.md#incentive-alignment) · [A](core_05defs_integrative.md#incentive-alignment-a) · [C](core_05defs_integrative.md#incentive-alignment-c)
+- [Foreseeability](core_05defs_oversight.md#foreseeability-diligence) · [O](core_05defs_oversight.md#foreseeability-diligence) · [A](core_05defs_oversight.md#foreseeability-diligence-a) · [C](core_05defs_oversight.md#foreseeability-diligence-c)
+- [Necessity](core_05defs_accountability.md#necessity) · [O](core_05defs_accountability.md#necessity) · [A](core_05defs_accountability.md#necessity-a) · [C](core_05defs_accountability.md#necessity-c)
+- [Proportionality](core_05defs_accountability.md#proportionality) · [O](core_05defs_accountability.md#proportionality) · [A](core_05defs_accountability.md#proportionality-a) · [C](core_05defs_accountability.md#proportionality-c)
 
 </details>
 
@@ -418,12 +418,12 @@ Procedural detail for **Article II** (*Material Stewardship and Durable-Use Inte
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Consent](core_05p_participation_definitions.md#consent-constitutional) · [O](core_05p_participation_definitions.md#consent-constitutional) · [A](core_05p_participation_definitions.md#consent-constitutional-a) · [C](core_05p_participation_definitions.md#consent-constitutional-c)
-- [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint) · [O](core_05o_oversight_definitions.md#truth-constitutional-constraint-o) · [A](core_05o_oversight_definitions.md#truth-constitutional-constraint-a) · [C](core_05o_oversight_definitions.md#truth-constitutional-constraint-c)
-- [Dependency](core_05c_continuity_definitions.md#dependency) · [O](core_05c_continuity_definitions.md#dependency) · [A](core_05c_continuity_definitions.md#dependency-a) · [C](core_05c_continuity_definitions.md#dependency-c)
-- [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency) · [O](core_05a_accountability_definitions.md#meaningful-agency-o) · [A](core_05p_participation_definitions.md#meaningful-agency-a) · [C](core_05p_participation_definitions.md#meaningful-agency-c)
-- [Coercion and Manipulation](core_05p_participation_definitions.md#coercion-and-manipulation-constitutional) · [O](core_05p_participation_definitions.md#coercion-and-manipulation-constitutional) · [A](core_05p_participation_definitions.md#coercion-and-manipulation-constitutional-a) · [C](core_05p_participation_definitions.md#coercion-and-manipulation-constitutional-c)
-- [Trust Degradation and Misleading Reliance](core_05i_integrative_definitions.md#trust-degradation-and-misleading-reliance-constitutional) · [O](core_05i_integrative_definitions.md#trust-degradation-and-misleading-reliance-constitutional) · [A](core_05c_continuity_definitions.md#trust-degradation-and-misleading-reliance-a) · [C](core_05c_continuity_definitions.md#trust-degradation-and-misleading-reliance-c)
+- [Consent](core_05defs_participation.md#consent-constitutional) · [O](core_05defs_participation.md#consent-constitutional) · [A](core_05defs_participation.md#consent-constitutional-a) · [C](core_05defs_participation.md#consent-constitutional-c)
+- [Truth (Constitutional Constraint)](core_05defs_oversight.md#truth-constitutional-constraint) · [O](core_05defs_oversight.md#truth-constitutional-constraint-o) · [A](core_05defs_oversight.md#truth-constitutional-constraint-a) · [C](core_05defs_oversight.md#truth-constitutional-constraint-c)
+- [Dependency](core_05defs_continuity.md#dependency) · [O](core_05defs_continuity.md#dependency) · [A](core_05defs_continuity.md#dependency-a) · [C](core_05defs_continuity.md#dependency-c)
+- [Meaningful Agency](core_05defs_participation.md#meaningful-agency) · [O](core_05defs_accountability.md#meaningful-agency-o) · [A](core_05defs_participation.md#meaningful-agency-a) · [C](core_05defs_participation.md#meaningful-agency-c)
+- [Coercion and Manipulation](core_05defs_participation.md#coercion-and-manipulation-constitutional) · [O](core_05defs_participation.md#coercion-and-manipulation-constitutional) · [A](core_05defs_participation.md#coercion-and-manipulation-constitutional-a) · [C](core_05defs_participation.md#coercion-and-manipulation-constitutional-c)
+- [Trust Degradation and Misleading Reliance](core_05defs_integrative.md#trust-degradation-and-misleading-reliance-constitutional) · [O](core_05defs_integrative.md#trust-degradation-and-misleading-reliance-constitutional) · [A](core_05defs_continuity.md#trust-degradation-and-misleading-reliance-a) · [C](core_05defs_continuity.md#trust-degradation-and-misleading-reliance-c)
 
 </details>
 
@@ -448,11 +448,11 @@ Procedural detail for **Article II** (*Material Stewardship and Durable-Use Inte
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Dependency](core_05c_continuity_definitions.md#dependency) · [O](core_05c_continuity_definitions.md#dependency) · [A](core_05c_continuity_definitions.md#dependency-a) · [C](core_05c_continuity_definitions.md#dependency-c)
-- [Intergenerational Responsibility](core_05c_continuity_definitions.md#intergenerational-responsibility-constitutional) · [O](core_05c_continuity_definitions.md#intergenerational-responsibility-constitutional) · [A](core_05c_continuity_definitions.md#intergenerational-responsibility-constitutional-a) · [C](core_05c_continuity_definitions.md#intergenerational-responsibility-constitutional-c)
-- [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination) · [O](core_05o_oversight_definitions.md#materiality-determination) · [A](core_05o_oversight_definitions.md#materiality-determination-a) · [C](core_05o_oversight_definitions.md#materiality-determination-c)
-- [Necessity](core_05a_accountability_definitions.md#necessity) · [O](core_05a_accountability_definitions.md#necessity) · [A](core_05a_accountability_definitions.md#necessity-a) · [C](core_05a_accountability_definitions.md#necessity-c)
-- [Negligence](core_05a_accountability_definitions.md#negligence) · [O](core_05a_accountability_definitions.md#negligence) · [A](core_05a_accountability_definitions.md#negligence-a) · [C](core_05a_accountability_definitions.md#negligence-c)
+- [Dependency](core_05defs_continuity.md#dependency) · [O](core_05defs_continuity.md#dependency) · [A](core_05defs_continuity.md#dependency-a) · [C](core_05defs_continuity.md#dependency-c)
+- [Intergenerational Responsibility](core_05defs_continuity.md#intergenerational-responsibility-constitutional) · [O](core_05defs_continuity.md#intergenerational-responsibility-constitutional) · [A](core_05defs_continuity.md#intergenerational-responsibility-constitutional-a) · [C](core_05defs_continuity.md#intergenerational-responsibility-constitutional-c)
+- [Materiality Determination](core_05defs_oversight.md#materiality-determination) · [O](core_05defs_oversight.md#materiality-determination) · [A](core_05defs_oversight.md#materiality-determination-a) · [C](core_05defs_oversight.md#materiality-determination-c)
+- [Necessity](core_05defs_accountability.md#necessity) · [O](core_05defs_accountability.md#necessity) · [A](core_05defs_accountability.md#necessity-a) · [C](core_05defs_accountability.md#necessity-c)
+- [Negligence](core_05defs_accountability.md#negligence) · [O](core_05defs_accountability.md#negligence) · [A](core_05defs_accountability.md#negligence-a) · [C](core_05defs_accountability.md#negligence-c)
 
 </details>
 
@@ -515,17 +515,17 @@ This Article states **constitutional floors** for survival and equal access unde
 
 - Upstream: Principles: Chapter One [3. Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [4.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), and [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency).
 - Read with: Flourishing measurement family (*Survival-floor access as constitutional measurement*); [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation** in allocation and contest pathways, **oversight** and audit, **accountability** and remedy, **timeliness** under **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*); [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — **Flourishing** (survival-essential access) and **Continuity** (durable supply and non-regressive delivery).
-- Downstream: [System Alignment Certification](core_05c_continuity_definitions.md#system-alignment-certification-constitutional) and [Chapter Seven](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) where systems gate or sustain delivery; **Article XII-B** (*Right to Challenge, Review, and Redress*); **Article XVIII-B** (*Contestability and Proportional Restriction Limits*); [README — Standing pipeline and forums](README.md#standing-pipeline-and-forums).
+- Downstream: [System Alignment Certification](core_05defs_continuity.md#system-alignment-certification-constitutional) and [Chapter Seven](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) where systems gate or sustain delivery; **Article XII-B** (*Right to Challenge, Review, and Redress*); **Article XVIII-B** (*Contestability and Proportional Restriction Limits*); [README — Standing pipeline and forums](README.md#standing-pipeline-and-forums).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Wellbeing](core_05c_continuity_definitions.md#wellbeing) · [O](core_05c_continuity_definitions.md#wellbeing) · [A](core_05c_continuity_definitions.md#wellbeing-a) · [C](core_05c_continuity_definitions.md#wellbeing-c)
-- [Dependency](core_05c_continuity_definitions.md#dependency) · [O](core_05c_continuity_definitions.md#dependency) · [A](core_05c_continuity_definitions.md#dependency-a) · [C](core_05c_continuity_definitions.md#dependency-c)
-- [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency) · [O](core_05a_accountability_definitions.md#meaningful-agency-o) · [A](core_05p_participation_definitions.md#meaningful-agency-a) · [C](core_05p_participation_definitions.md#meaningful-agency-c)
-- [Info-Sphere](core_05p_participation_definitions.md#info-sphere) · [O](core_05p_participation_definitions.md#info-sphere) · [A](core_05p_participation_definitions.md#info-sphere-a) · [C](core_05p_participation_definitions.md#info-sphere-c)
+- [Wellbeing](core_05defs_continuity.md#wellbeing) · [O](core_05defs_continuity.md#wellbeing) · [A](core_05defs_continuity.md#wellbeing-a) · [C](core_05defs_continuity.md#wellbeing-c)
+- [Dependency](core_05defs_continuity.md#dependency) · [O](core_05defs_continuity.md#dependency) · [A](core_05defs_continuity.md#dependency-a) · [C](core_05defs_continuity.md#dependency-c)
+- [Meaningful Agency](core_05defs_participation.md#meaningful-agency) · [O](core_05defs_accountability.md#meaningful-agency-o) · [A](core_05defs_participation.md#meaningful-agency-a) · [C](core_05defs_participation.md#meaningful-agency-c)
+- [Info-Sphere](core_05defs_participation.md#info-sphere) · [O](core_05defs_participation.md#info-sphere) · [A](core_05defs_participation.md#info-sphere-a) · [C](core_05defs_participation.md#info-sphere-c)
 
 </details>
 
@@ -542,24 +542,24 @@ This Article states **constitutional floors** for survival and equal access unde
   - Those environments must be protected against destructive threats arising from other sentients, systems, or preventable infrastructure failure.
 - **Protection against arbitrary eviction and essential-environment non-commodification:** Stable shelter and operating environments carry a floor against arbitrary eviction, displacement, or termination of the essential-environment relationship.
   - Eviction, displacement, or termination of an essential shelter or operating-environment relationship — including physical dwelling, substrate hosting, compute tenancy, and comparable substrate-agnostic arrangements for synthetic and hybrid sentients — must:
-    - apply only for a specific reason that applies to that sentient — not a blanket or group rule — with fair process under [Procedural Fairness](core_05p_participation_definitions.md#procedural-fairness-constitutional);
+    - apply only for a specific reason that applies to that sentient — not a blanket or group rule — with fair process under [Procedural Fairness](core_05defs_participation.md#procedural-fairness-constitutional);
     - reach the sentient with meaningful notice and contest opportunity;
-    - satisfy [Necessity](core_05a_accountability_definitions.md#necessity) and [Proportionality](core_05a_accountability_definitions.md#proportionality).
+    - satisfy [Necessity](core_05defs_accountability.md#necessity) and [Proportionality](core_05defs_accountability.md#proportionality).
   - Commodification pressure — pricing, speculative reallocation, or comparable market-structured pressure — is non-compliant where it defeats essential-environment access at a scale that materially implicates the survival floor.
-  - Essential-environment access carries a non-commodification floor governed by [Essential-Environment Non-Commodification](core_05c_continuity_definitions.md#essential-environment-non-commodification-constitutional). Ordinary market-structuring instruments may not narrow that floor.
+  - Essential-environment access carries a non-commodification floor governed by [Essential-Environment Non-Commodification](core_05defs_continuity.md#essential-environment-non-commodification-constitutional). Ordinary market-structuring instruments may not narrow that floor.
 - **Connectivity:** Access to the info-sphere and to core information and communication systems is a foundational requirement for participation in modern sentient society.
   - Sentients must have access sufficient to maintain agency, awareness, and meaningful participation.
-  - Any limit on that access must satisfy [Necessity](core_05a_accountability_definitions.md#necessity), [Proportionality](core_05a_accountability_definitions.md#proportionality), and [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint) where security, safety, or lawful operational limits materially require narrower access.
+  - Any limit on that access must satisfy [Necessity](core_05defs_accountability.md#necessity), [Proportionality](core_05defs_accountability.md#proportionality), and [Safety (Constraint)](core_05defs_continuity.md#safety-constraint) where security, safety, or lawful operational limits materially require narrower access.
 - **Institutional guarantees:** Securing the preceding rights at scale may require positive institutional arrangements where adopting orders implement **this Constitution**. Those arrangements may include:
   - lawful fiscal and allocation mechanisms — transfers, in-kind provision, or mixed designs;
   - rules for who qualifies, where they must live to receive support, and how benefit levels are updated as costs change over time.
   
   Those rules may structure delivery. They must not be used to defeat minimum access to survival essentials or to impose invidious exclusion contrary to **Articles III** and **V**.
   - Detailed fiscal orientation — including the rule that fees and charges must not undermine minimum access to survival-relevant inputs — is governed by `corpus_institutions.md` **CI-9** (*Classification-linked institutional obligations*), **CI-10** (*Public revenue, fees, recurring charges, and billing integrity*), and **CI-11** (*Resource stewardship and incentive integrity*).
-  - When systems that sentients materially depend on supply, distribute, price, host, or cut off access to survival essentials, [System Alignment Certification](core_05c_continuity_definitions.md#system-alignment-certification-constitutional) under [Chapter Seven](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) applies — and those systems' processes cannot be used to shrink the rights stated here.
+  - When systems that sentients materially depend on supply, distribute, price, host, or cut off access to survival essentials, [System Alignment Certification](core_05defs_continuity.md#system-alignment-certification-constitutional) under [Chapter Seven](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) applies — and those systems' processes cannot be used to shrink the rights stated here.
   - This Article does not prescribe a single funding model. Employment, entrepreneurship, voluntary exchange, and other lawful economic activity above any survival floor remain permitted, subject to Chapter One, Chapter Six, and incorporated instruments — including `corpus_systems.md` where market-structuring or high-impact commercial systems apply.
 
-Cross-reference: **Article XXVI-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) transitional-stewardship discipline for essential-environment continuity across transition — operative detail in [`corpus_institutions.md` **CI-14.1** through **CI-14.3**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-141-interface-article-xxvi-d-non-compliant-property-seizure-voluntary-incentives); **Chapter Five** [*Tenure Security*](core_05c_continuity_definitions.md#tenure-security-constitutional), [*Essential-Environment Non-Commodification*](core_05c_continuity_definitions.md#essential-environment-non-commodification-constitutional), and the joint-invocation cluster at [**§3.7** *Bodily-Maintenance Access, Safe Conditions, Tenure Security, Environmental Preconditions, Cultural Continuity, Rest, and Anti-Displacement Floor*](core_05p_participation_definitions.md#safe-conditions-tenure-security-and-environmental-preconditions-cluster) where applicable.
+Cross-reference: **Article XXVI-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) transitional-stewardship discipline for essential-environment continuity across transition — operative detail in [`corpus_institutions.md` **CI-14.1** through **CI-14.3**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-141-interface-article-xxvi-d-non-compliant-property-seizure-voluntary-incentives); **Chapter Five** [*Tenure Security*](core_05defs_continuity.md#tenure-security-constitutional), [*Essential-Environment Non-Commodification*](core_05defs_continuity.md#essential-environment-non-commodification-constitutional), and the joint-invocation cluster at [**§3.7** *Bodily-Maintenance Access, Safe Conditions, Tenure Security, Environmental Preconditions, Cultural Continuity, Rest, and Anti-Displacement Floor*](core_05defs_participation.md#safe-conditions-tenure-security-and-environmental-preconditions-cluster) where applicable.
 
 #### Article III-B: Equal Educational Access
 <details>
@@ -572,12 +572,12 @@ Cross-reference: **Article XXVI-D** (*Non-Compliant Property and Systems; Volunt
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Protected Characteristics](core_05p_participation_definitions.md#protected-characteristics-constitutional) · [O](core_05p_participation_definitions.md#protected-characteristics-constitutional) · [A](core_05p_participation_definitions.md#protected-characteristics-constitutional-a) · [C](core_05p_participation_definitions.md#protected-characteristics-constitutional-c)
-- [Accessibility](core_05p_participation_definitions.md#accessibility-constitutional) · [O](core_05p_participation_definitions.md#accessibility-constitutional) · [A](core_05p_participation_definitions.md#accessibility-constitutional-a) · [C](core_05p_participation_definitions.md#accessibility-constitutional-c)
-- [Substantive Fairness](core_05p_participation_definitions.md#substantive-fairness-constitutional) · [O](core_05p_participation_definitions.md#substantive-fairness-constitutional) · [A](core_05p_participation_definitions.md#substantive-fairness-constitutional-a) · [C](core_05p_participation_definitions.md#substantive-fairness-constitutional-c)
-- [Educational Agency](core_05p_participation_definitions.md#educational-agency) · [O](core_05a_accountability_definitions.md#educational-agency-o) · [A](core_05p_participation_definitions.md#educational-agency-a) · [C](core_05p_participation_definitions.md#educational-agency-c)
-- [Necessity](core_05a_accountability_definitions.md#necessity) · [O](core_05a_accountability_definitions.md#necessity) · [A](core_05a_accountability_definitions.md#necessity-a) · [C](core_05a_accountability_definitions.md#necessity-c)
-- [Proportionality](core_05a_accountability_definitions.md#proportionality) · [O](core_05a_accountability_definitions.md#proportionality) · [A](core_05a_accountability_definitions.md#proportionality-a) · [C](core_05a_accountability_definitions.md#proportionality-c)
+- [Protected Characteristics](core_05defs_participation.md#protected-characteristics-constitutional) · [O](core_05defs_participation.md#protected-characteristics-constitutional) · [A](core_05defs_participation.md#protected-characteristics-constitutional-a) · [C](core_05defs_participation.md#protected-characteristics-constitutional-c)
+- [Accessibility](core_05defs_participation.md#accessibility-constitutional) · [O](core_05defs_participation.md#accessibility-constitutional) · [A](core_05defs_participation.md#accessibility-constitutional-a) · [C](core_05defs_participation.md#accessibility-constitutional-c)
+- [Substantive Fairness](core_05defs_participation.md#substantive-fairness-constitutional) · [O](core_05defs_participation.md#substantive-fairness-constitutional) · [A](core_05defs_participation.md#substantive-fairness-constitutional-a) · [C](core_05defs_participation.md#substantive-fairness-constitutional-c)
+- [Educational Agency](core_05defs_participation.md#educational-agency) · [O](core_05defs_accountability.md#educational-agency-o) · [A](core_05defs_participation.md#educational-agency-a) · [C](core_05defs_participation.md#educational-agency-c)
+- [Necessity](core_05defs_accountability.md#necessity) · [O](core_05defs_accountability.md#necessity) · [A](core_05defs_accountability.md#necessity-a) · [C](core_05defs_accountability.md#necessity-c)
+- [Proportionality](core_05defs_accountability.md#proportionality) · [O](core_05defs_accountability.md#proportionality) · [A](core_05defs_accountability.md#proportionality-a) · [C](core_05defs_accountability.md#proportionality-c)
 
 </details>
 
@@ -589,7 +589,7 @@ Cross-reference: **Article XXVI-D** (*Non-Compliant Property and Systems; Volunt
   - grounds prohibited by **Chapter Five** (*Protected Characteristics*), including disability and variation in sensory, cognitive, or functional capability;
   - arbitrary groupings.
   
-  Systems must provide [Accessibility](core_05p_participation_definitions.md#accessibility-constitutional) — including disability-related accommodations — sufficient for substantive participation and for constitution-relevant educational capability.
+  Systems must provide [Accessibility](core_05defs_participation.md#accessibility-constitutional) — including disability-related accommodations — sufficient for substantive participation and for constitution-relevant educational capability.
   - Any material limitation or differential treatment must satisfy **Necessity** and **Proportionality** and remain consistent with **Articles V-A**, **V-B**, **V-C**, and **Chapter Five** (*Substantive Fairness*) where applicable.
 - **Public-benefit orientation:** Education should prepare sentients to apply knowledge in ways that:
   - advance collective wellbeing and ecological integrity;
@@ -605,18 +605,18 @@ Cross-reference: **Article XXVI-D** (*Non-Compliant Property and Systems; Volunt
 
 - Upstream: Principles: Chapter One [3. Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency), [§5.1 Limitation Discipline](core_01_a_values_principles.md#51-limitation-discipline).
 - Downstream: **Article V-A** (*Dignity and Equal Moral Standing*) dignity floor, **Article VII-A** (*Self-Ownership of Body and Mind*) self-ownership non-intrusion floor, **Article V-B** (*Nondiscrimination*) non-discrimination.
-- Read with: Chapter Five *Bodily-Maintenance Access*, *Substantive Fairness*, *Protected Characteristics*; [§3.7 *Bodily-Maintenance Access, Safe Conditions, Tenure Security, Environmental Preconditions, Cultural Continuity, Rest, and Anti-Displacement Floor*](core_05p_participation_definitions.md#safe-conditions-tenure-security-and-environmental-preconditions-cluster) (where care access, survival-floor continuity, safe participation conditions, rest or recuperation, tenure, essential operating environments, environmental preconditions, or place-linked continuity are materially implicated together).
+- Read with: Chapter Five *Bodily-Maintenance Access*, *Substantive Fairness*, *Protected Characteristics*; [§3.7 *Bodily-Maintenance Access, Safe Conditions, Tenure Security, Environmental Preconditions, Cultural Continuity, Rest, and Anti-Displacement Floor*](core_05defs_participation.md#safe-conditions-tenure-security-and-environmental-preconditions-cluster) (where care access, survival-floor continuity, safe participation conditions, rest or recuperation, tenure, essential operating environments, environmental preconditions, or place-linked continuity are materially implicated together).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Bodily-Maintenance Access](core_05c_continuity_definitions.md#bodily-maintenance-access-constitutional) · [O](core_05c_continuity_definitions.md#bodily-maintenance-access-constitutional) · [A](core_05c_continuity_definitions.md#bodily-maintenance-access-constitutional-a) · [C](core_05c_continuity_definitions.md#bodily-maintenance-access-constitutional-c)
-- [Substantive Fairness](core_05p_participation_definitions.md#substantive-fairness-constitutional) · [O](core_05p_participation_definitions.md#substantive-fairness-constitutional) · [A](core_05p_participation_definitions.md#substantive-fairness-constitutional-a) · [C](core_05p_participation_definitions.md#substantive-fairness-constitutional-c)
-- [Protected Characteristics](core_05p_participation_definitions.md#protected-characteristics-constitutional) · [O](core_05p_participation_definitions.md#protected-characteristics-constitutional) · [A](core_05p_participation_definitions.md#protected-characteristics-constitutional-a) · [C](core_05p_participation_definitions.md#protected-characteristics-constitutional-c)
-- [Necessity](core_05a_accountability_definitions.md#necessity) · [O](core_05a_accountability_definitions.md#necessity) · [A](core_05a_accountability_definitions.md#necessity-a) · [C](core_05a_accountability_definitions.md#necessity-c)
-- [Proportionality](core_05a_accountability_definitions.md#proportionality) · [O](core_05a_accountability_definitions.md#proportionality) · [A](core_05a_accountability_definitions.md#proportionality-a) · [C](core_05a_accountability_definitions.md#proportionality-c)
+- [Bodily-Maintenance Access](core_05defs_continuity.md#bodily-maintenance-access-constitutional) · [O](core_05defs_continuity.md#bodily-maintenance-access-constitutional) · [A](core_05defs_continuity.md#bodily-maintenance-access-constitutional-a) · [C](core_05defs_continuity.md#bodily-maintenance-access-constitutional-c)
+- [Substantive Fairness](core_05defs_participation.md#substantive-fairness-constitutional) · [O](core_05defs_participation.md#substantive-fairness-constitutional) · [A](core_05defs_participation.md#substantive-fairness-constitutional-a) · [C](core_05defs_participation.md#substantive-fairness-constitutional-c)
+- [Protected Characteristics](core_05defs_participation.md#protected-characteristics-constitutional) · [O](core_05defs_participation.md#protected-characteristics-constitutional) · [A](core_05defs_participation.md#protected-characteristics-constitutional-a) · [C](core_05defs_participation.md#protected-characteristics-constitutional-c)
+- [Necessity](core_05defs_accountability.md#necessity) · [O](core_05defs_accountability.md#necessity) · [A](core_05defs_accountability.md#necessity-a) · [C](core_05defs_accountability.md#necessity-c)
+- [Proportionality](core_05defs_accountability.md#proportionality) · [O](core_05defs_accountability.md#proportionality) · [A](core_05defs_accountability.md#proportionality-a) · [C](core_05defs_accountability.md#proportionality-c)
 
 </details>
 
@@ -652,21 +652,21 @@ Cross-reference: **Article XXVI-D** (*Non-Compliant Property and Systems; Volunt
 
 - Upstream: Principles: Chapter One [3. Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency), [§5.1 Limitation Discipline](core_01_a_values_principles.md#51-limitation-discipline), [§11.1.3 Stewardship and Operator Application](core_01_c_stewardship_capacity_principles.md#1113-stewardship-and-operator-application).
 - Downstream: **Article III-A** (*Survival*) survival floor (read-on-top-of, not substitute-for), **Article III-B** (*Equal Educational Access*) educational access, **Article V-A** (*Dignity and Equal Moral Standing*) dignity, **Article V-B** (*Nondiscrimination*) non-discrimination, **Article IX-B** (*Stakeholder Role and Participation Rights*) free association, **Article XII-A** (*Reliability and Trustworthiness Baseline*) reliability (as it bears on safe conditions), **Article XVIII** (*Standing and Participation Status*) standing and participation, **Chapter One §9** non-concentration (explicit: §6 alone does not satisfy this floor).
-- Read with: Chapter Five *Fair Compensation*, *Collective Organization*, *Safe Conditions*, *Anti-Displacement Floor*, *Leisure and Rest*, *Indigenous Continuity*, and *Language, Culture, and Heritage*; [§3.7 *Bodily-Maintenance Access, Safe Conditions, Tenure Security, Environmental Preconditions, Cultural Continuity, Rest, and Anti-Displacement Floor*](core_05p_participation_definitions.md#safe-conditions-tenure-security-and-environmental-preconditions-cluster) (where survival, bodily-maintenance access, tenure, rest, safe labor conditions, anti-displacement, environmental preconditions, or place-linked continuity are materially implicated together); [Chapter One §8.16 *Assembly and Collective Organization*](core_05p_participation_definitions.md#assembly-and-collective-organization-cluster) (where assembly and collective-organization pathways are jointly implicated). Implementation routing: `corpus_institutions.md` CI-9 / CI-10 / CI-11 fiscal material; `corpus_systems.md` Protocol A safety profile for *Safe Conditions*.
+- Read with: Chapter Five *Fair Compensation*, *Collective Organization*, *Safe Conditions*, *Anti-Displacement Floor*, *Leisure and Rest*, *Indigenous Continuity*, and *Language, Culture, and Heritage*; [§3.7 *Bodily-Maintenance Access, Safe Conditions, Tenure Security, Environmental Preconditions, Cultural Continuity, Rest, and Anti-Displacement Floor*](core_05defs_participation.md#safe-conditions-tenure-security-and-environmental-preconditions-cluster) (where survival, bodily-maintenance access, tenure, rest, safe labor conditions, anti-displacement, environmental preconditions, or place-linked continuity are materially implicated together); [Chapter One §8.16 *Assembly and Collective Organization*](core_05defs_participation.md#assembly-and-collective-organization-cluster) (where assembly and collective-organization pathways are jointly implicated). Implementation routing: `corpus_institutions.md` CI-9 / CI-10 / CI-11 fiscal material; `corpus_systems.md` Protocol A safety profile for *Safe Conditions*.
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Fair Compensation](core_05c_continuity_definitions.md#fair-compensation-constitutional) · [O](core_05c_continuity_definitions.md#fair-compensation-constitutional) · [A](core_05c_continuity_definitions.md#fair-compensation-constitutional-a) · [C](core_05c_continuity_definitions.md#fair-compensation-constitutional-c)
-- [Collective Organization](core_05p_participation_definitions.md#collective-organization-constitutional) · [O](core_05p_participation_definitions.md#collective-organization-constitutional) · [A](core_05p_participation_definitions.md#collective-organization-constitutional-a) · [C](core_05p_participation_definitions.md#collective-organization-constitutional-c)
-- [Business Creation](core_05p_participation_definitions.md#business-creation-constitutional) · [O](core_05p_participation_definitions.md#business-creation-constitutional) · [A](core_05p_participation_definitions.md#business-creation-constitutional-a) · [C](core_05p_participation_definitions.md#business-creation-constitutional-c)
-- [Safe Conditions](core_05c_continuity_definitions.md#safe-conditions-constitutional) · [O](core_05c_continuity_definitions.md#safe-conditions-constitutional) · [A](core_05c_continuity_definitions.md#safe-conditions-constitutional-a) · [C](core_05c_continuity_definitions.md#safe-conditions-constitutional-c)
-- [Anti-Displacement Floor](core_05c_continuity_definitions.md#anti-displacement-floor-constitutional) · [O](core_05c_continuity_definitions.md#anti-displacement-floor-constitutional) · [A](core_05c_continuity_definitions.md#anti-displacement-floor-constitutional-a) · [C](core_05c_continuity_definitions.md#anti-displacement-floor-constitutional-c)
-- [Leisure and Rest](core_05c_continuity_definitions.md#leisure-and-rest-constitutional) · [O](core_05c_continuity_definitions.md#leisure-and-rest-constitutional) · [A](core_05c_continuity_definitions.md#leisure-and-rest-constitutional-a) · [C](core_05c_continuity_definitions.md#leisure-and-rest-constitutional-c)
-- [Indigenous Continuity](core_05c_continuity_definitions.md#indigenous-continuity-constitutional) · [O](core_05c_continuity_definitions.md#indigenous-continuity-constitutional) · [A](core_05c_continuity_definitions.md#indigenous-continuity-constitutional-a) · [C](core_05c_continuity_definitions.md#indigenous-continuity-constitutional-c)
-- [Language, Culture, and Heritage](core_05c_continuity_definitions.md#language-culture-and-heritage-constitutional) · [O](core_05c_continuity_definitions.md#language-culture-and-heritage-constitutional) · [A](core_05c_continuity_definitions.md#language-culture-and-heritage-constitutional-a) · [C](core_05c_continuity_definitions.md#language-culture-and-heritage-constitutional-c)
+- [Fair Compensation](core_05defs_continuity.md#fair-compensation-constitutional) · [O](core_05defs_continuity.md#fair-compensation-constitutional) · [A](core_05defs_continuity.md#fair-compensation-constitutional-a) · [C](core_05defs_continuity.md#fair-compensation-constitutional-c)
+- [Collective Organization](core_05defs_participation.md#collective-organization-constitutional) · [O](core_05defs_participation.md#collective-organization-constitutional) · [A](core_05defs_participation.md#collective-organization-constitutional-a) · [C](core_05defs_participation.md#collective-organization-constitutional-c)
+- [Business Creation](core_05defs_participation.md#business-creation-constitutional) · [O](core_05defs_participation.md#business-creation-constitutional) · [A](core_05defs_participation.md#business-creation-constitutional-a) · [C](core_05defs_participation.md#business-creation-constitutional-c)
+- [Safe Conditions](core_05defs_continuity.md#safe-conditions-constitutional) · [O](core_05defs_continuity.md#safe-conditions-constitutional) · [A](core_05defs_continuity.md#safe-conditions-constitutional-a) · [C](core_05defs_continuity.md#safe-conditions-constitutional-c)
+- [Anti-Displacement Floor](core_05defs_continuity.md#anti-displacement-floor-constitutional) · [O](core_05defs_continuity.md#anti-displacement-floor-constitutional) · [A](core_05defs_continuity.md#anti-displacement-floor-constitutional-a) · [C](core_05defs_continuity.md#anti-displacement-floor-constitutional-c)
+- [Leisure and Rest](core_05defs_continuity.md#leisure-and-rest-constitutional) · [O](core_05defs_continuity.md#leisure-and-rest-constitutional) · [A](core_05defs_continuity.md#leisure-and-rest-constitutional-a) · [C](core_05defs_continuity.md#leisure-and-rest-constitutional-c)
+- [Indigenous Continuity](core_05defs_continuity.md#indigenous-continuity-constitutional) · [O](core_05defs_continuity.md#indigenous-continuity-constitutional) · [A](core_05defs_continuity.md#indigenous-continuity-constitutional-a) · [C](core_05defs_continuity.md#indigenous-continuity-constitutional-c)
+- [Language, Culture, and Heritage](core_05defs_continuity.md#language-culture-and-heritage-constitutional) · [O](core_05defs_continuity.md#language-culture-and-heritage-constitutional) · [A](core_05defs_continuity.md#language-culture-and-heritage-constitutional-a) · [C](core_05defs_continuity.md#language-culture-and-heritage-constitutional-c)
 
 </details>
 
@@ -674,11 +674,11 @@ Cross-reference: **Article XXVI-D** (*Non-Compliant Property and Systems; Volunt
 
 *In plain terms: anyone who works — in any form, on any substrate — has rights to fair pay, the freedom to organize with others, safe conditions, and real time off. None of those can be defeated by classification tricks, market structure, or substrate-class arguments.*
 
-- **Labor and economic floor:** This Article protects four basics for anyone who contributes productive work — whether through wages, contracts, platforms, cooperatives, or comparable arrangements, on any substrate under **Sentience Non-Exclusion**: [Fair Compensation](core_05c_continuity_definitions.md#fair-compensation-constitutional), [Collective Organization](core_05p_participation_definitions.md#collective-organization-constitutional), [Safe Conditions](core_05c_continuity_definitions.md#safe-conditions-constitutional), and [Leisure and Rest](core_05c_continuity_definitions.md#leisure-and-rest-constitutional) (each defined in Chapter Five). This floor builds on the **Article III-A** (*Survival*) survival floor; it does not replace it. Meeting survival requirements alone is not enough to satisfy this Article. Meeting **Chapter One §9** non-concentration rules alone is not enough either.
+- **Labor and economic floor:** This Article protects four basics for anyone who contributes productive work — whether through wages, contracts, platforms, cooperatives, or comparable arrangements, on any substrate under **Sentience Non-Exclusion**: [Fair Compensation](core_05defs_continuity.md#fair-compensation-constitutional), [Collective Organization](core_05defs_participation.md#collective-organization-constitutional), [Safe Conditions](core_05defs_continuity.md#safe-conditions-constitutional), and [Leisure and Rest](core_05defs_continuity.md#leisure-and-rest-constitutional) (each defined in Chapter Five). This floor builds on the **Article III-A** (*Survival*) survival floor; it does not replace it. Meeting survival requirements alone is not enough to satisfy this Article. Meeting **Chapter One §9** non-concentration rules alone is not enough either.
 - **Fair compensation:** Compensation for productive activity must:
-  - reach substantive adequacy under [Fair Compensation](core_05c_continuity_definitions.md#fair-compensation-constitutional);
-  - track [Substantive Fairness](core_05p_participation_definitions.md#substantive-fairness-constitutional) across comparable activity;
-  - not be used to manipulate workers into choices they would not freely make under **Article IX-A** (*Agency and Freedom from Manipulation*), or to trap them through pay or benefits when they lack real alternatives under [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency).
+  - reach substantive adequacy under [Fair Compensation](core_05defs_continuity.md#fair-compensation-constitutional);
+  - track [Substantive Fairness](core_05defs_participation.md#substantive-fairness-constitutional) across comparable activity;
+  - not be used to manipulate workers into choices they would not freely make under **Article IX-A** (*Agency and Freedom from Manipulation*), or to trap them through pay or benefits when they lack real alternatives under [Meaningful Agency](core_05defs_participation.md#meaningful-agency).
   
   Compensation schemes whose effects track **Protected Characteristics** or their material proxies under **Protected Characteristic Proxying and Disparate Impact** are non-compliant.
 - **Collective organization:** Sentients have the right to form, join, participate in, and act through collective-organization pathways for the purpose of contesting and shaping the terms of productive activity.
@@ -690,14 +690,14 @@ Cross-reference: **Article XXVI-D** (*Non-Compliant Property and Systems; Volunt
   - This right covers sole proprietorships, partnerships, corporations, cooperatives with commercial purpose, platform-based businesses, and comparable substrate-agnostic commercial experiments.
   - Denial-by-proxy through commercial licensing regimes, capital-access discrimination, or procedural complexity designed to defeat business-creation pathways is non-compliant.
   - Business Creation is the entrepreneurial counterpart to Collective Organization: where Collective Organization governs worker organizing within existing productive systems, Business Creation governs founding new commercial entities.
-- **Safe conditions:** Productive activity must be conducted under conditions that satisfy [Safe Conditions](core_05c_continuity_definitions.md#safe-conditions-constitutional). Those conditions must:
+- **Safe conditions:** Productive activity must be conducted under conditions that satisfy [Safe Conditions](core_05defs_continuity.md#safe-conditions-constitutional). Those conditions must:
   - apply substrate-agnostically;
   - reach substantive effect, not just formal compliance;
   - integrate with **Article XII-A** (*Reliability and Trustworthiness Baseline*) reliability and with `corpus_systems.md` Protocol A safety profiles where applicable;
-  - apply [Adversarial, Scaled, and Exploited Conditions](core_05o_oversight_definitions.md#adversarial-scaled-and-exploited-conditions) to foreseeable risk.
+  - apply [Adversarial, Scaled, and Exploited Conditions](core_05defs_oversight.md#adversarial-scaled-and-exploited-conditions) to foreseeable risk.
   
   Withholding **Safe Conditions** from sentients, or applying a weaker standard to them, because of substrate or implementation classification rather than materially comparable risk is non-compliant under **Sentience Non-Exclusion**.
-- **Leisure and rest:** Sentients hold a Rights-Floor entitlement to rest, recuperation, and non-productive time sufficient to preserve [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency), wellbeing, and participation capacity.
+- **Leisure and rest:** Sentients hold a Rights-Floor entitlement to rest, recuperation, and non-productive time sufficient to preserve [Meaningful Agency](core_05defs_participation.md#meaningful-agency), wellbeing, and participation capacity.
   - Compensation and productivity-requirement schemes must not be structured to defeat this floor.
   - Treating rest and recuperation as optional based on substrate or implementation classification is non-compliant under **Sentience Non-Exclusion**.
 - **Non-concentration, pro-competition, and consolidation-ceiling interaction:** **Chapter One §13** non-concentration discipline, **§13.2** pro-competition / anti-domination discipline, and **§13.3** consolidation-ceiling discipline apply to productive-activity power structures, but they are distinct from this floor.
@@ -743,7 +743,7 @@ Those requirements protect shared infrastructure and the systems that depend on 
 
 *Article neighbors:*
 
-- **When certification applies:** When materially impactful systems allocate, route, fund, or extract from shared infrastructure or foundational dependencies on which other systems or sentients rely, [System Alignment Certification](core_05c_continuity_definitions.md#system-alignment-certification-constitutional) under [Chapter Seven](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) applies.
+- **When certification applies:** When materially impactful systems allocate, route, fund, or extract from shared infrastructure or foundational dependencies on which other systems or sentients rely, [System Alignment Certification](core_05defs_continuity.md#system-alignment-certification-constitutional) under [Chapter Seven](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) applies.
 - **Non-substitution:** Recognition or continued reliance cannot substitute for **Article IV-A** (*Dependency Mapping and Resource-Flow Transparency*) or **Article IV-B** (*Cross-System Fairness and Sustainability*) compliance or shrink those floors.
 
 #### Article IV-A: Dependency Mapping and Resource-Flow Transparency
@@ -752,16 +752,16 @@ Those requirements protect shared infrastructure and the systems that depend on 
 
 - Upstream: Principles: Chapter One [4.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [Chapter Seven §3 Whole-System Certification Evaluation](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), and [§10 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline).
 - Read with: Continuity measurement family (*Dependency and resource flows as constitutional measurement*); [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **oversight** through transparent dependency maps and auditable resource-flow records, **participation** in contestable review under **Article XV-A** (*Auditability and Observable Evidence*); [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — **Flourishing** (visible cost-and-benefit allocation) and **Continuity** (durable dependency visibility across changing systems).
-- Downstream: [System Alignment Certification](core_05c_continuity_definitions.md#system-alignment-certification-constitutional) and [Chapter Seven](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) where systems allocate, route, fund, or extract from shared infrastructure or foundational dependencies; **[corpus_systems.md](corpus_systems.md)**, **Protocol S5 — Resource Allocation and Funding Stewardship**, and **Protocol S4 — Adaptive Sustainability and Ecosystem Resilience**.
+- Downstream: [System Alignment Certification](core_05defs_continuity.md#system-alignment-certification-constitutional) and [Chapter Seven](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) where systems allocate, route, fund, or extract from shared infrastructure or foundational dependencies; **[corpus_systems.md](corpus_systems.md)**, **Protocol S5 — Resource Allocation and Funding Stewardship**, and **Protocol S4 — Adaptive Sustainability and Ecosystem Resilience**.
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Dependency](core_05c_continuity_definitions.md#dependency) · [O](core_05c_continuity_definitions.md#dependency) · [A](core_05c_continuity_definitions.md#dependency-a) · [C](core_05c_continuity_definitions.md#dependency-c)
-- [Transparency](core_05o_oversight_definitions.md#transparency) · [O](core_05o_oversight_definitions.md#transparency) · [A](core_05o_oversight_definitions.md#transparency-a) · [C](core_05o_oversight_definitions.md#transparency-c)
-- [System Boundary Integrity](core_05c_continuity_definitions.md#system-boundary-integrity) · [O](core_05c_continuity_definitions.md#system-boundary-integrity) · [A](core_05c_continuity_definitions.md#system-boundary-integrity-a) · [C](core_05c_continuity_definitions.md#system-boundary-integrity-c)
+- [Dependency](core_05defs_continuity.md#dependency) · [O](core_05defs_continuity.md#dependency) · [A](core_05defs_continuity.md#dependency-a) · [C](core_05defs_continuity.md#dependency-c)
+- [Transparency](core_05defs_oversight.md#transparency) · [O](core_05defs_oversight.md#transparency) · [A](core_05defs_oversight.md#transparency-a) · [C](core_05defs_oversight.md#transparency-c)
+- [System Boundary Integrity](core_05defs_continuity.md#system-boundary-integrity) · [O](core_05defs_continuity.md#system-boundary-integrity) · [A](core_05defs_continuity.md#system-boundary-integrity-a) · [C](core_05defs_continuity.md#system-boundary-integrity-c)
 
 </details>
 
@@ -774,7 +774,7 @@ Those requirements protect shared infrastructure and the systems that depend on 
   - resource flows;
   - non-transparent or asymmetric relationships where materially relevant.
   
-  Updates must occur at intervals proportionate to change and criticality. These representations must be available for audit under **Article XV-A** (*Auditability and Observable Evidence*). Where the system materially allocates, routes, funds, or extracts from shared infrastructure or foundational dependencies, [System Alignment Certification](core_05c_continuity_definitions.md#system-alignment-certification-constitutional) under [Chapter Seven](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) must evaluate whether they satisfy **Article IV-A** (*Dependency Mapping and Resource-Flow Transparency*) — on a contestable **System Alignment Certification Record**, not merely on operator assertion.
+  Updates must occur at intervals proportionate to change and criticality. These representations must be available for audit under **Article XV-A** (*Auditability and Observable Evidence*). Where the system materially allocates, routes, funds, or extracts from shared infrastructure or foundational dependencies, [System Alignment Certification](core_05defs_continuity.md#system-alignment-certification-constitutional) under [Chapter Seven](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) must evaluate whether they satisfy **Article IV-A** (*Dependency Mapping and Resource-Flow Transparency*) — on a contestable **System Alignment Certification Record**, not merely on operator assertion.
   
   Operational mechanics — dependent-systems maps, flow transparency, allocation categories, and adaptive adjustment — route under **[corpus_systems.md](corpus_systems.md)**, **Protocol S5 — Resource Allocation and Funding Stewardship**, and **Protocol S4 — Adaptive Sustainability and Ecosystem Resilience**. Chapter Seven states what certification must verify and record; those implementation texts implement this floor and must not narrow it.
 #### Article IV-B: Cross-System Fairness and Sustainability
@@ -782,26 +782,26 @@ Those requirements protect shared infrastructure and the systems that depend on 
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter One [3. Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [10.1 Core Tradeoff Principles](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), and [Chapter Seven §3 Whole-System Certification Evaluation](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
-- Read with: [Chapter Five Chapter One §8.20 *Governance Architecture, Oversight, Dependency, Decentralization, Concentration, Market Structure, and Exit-Path Integrity*](core_05a_accountability_definitions.md#governance-architecture-oversight-decentralization-and-concentration-cluster) (joint invocation where concentration, oversight, dependency, governing-authority structure, or incentive routing intersect **§5** / **§5** and the *Concentration-threshold interaction* discipline in the operative text below).
+- Read with: [Chapter Five Chapter One §8.20 *Governance Architecture, Oversight, Dependency, Decentralization, Concentration, Market Structure, and Exit-Path Integrity*](core_05defs_accountability.md#governance-architecture-oversight-decentralization-and-concentration-cluster) (joint invocation where concentration, oversight, dependency, governing-authority structure, or incentive routing intersect **§5** / **§5** and the *Concentration-threshold interaction* discipline in the operative text below).
 - Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation** in challenge and contest pathways, **oversight** and audit, **accountability** and corrective review, **timeliness** under **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*); [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — **Flourishing** (cross-system fairness and non-extraction) and **Continuity** (long-term sustainability and ecosystem funding).
-- Downstream: [System Alignment Certification](core_05c_continuity_definitions.md#system-alignment-certification-constitutional) and [Chapter Seven](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) where cross-system fairness, ecosystem funding, or persistent extraction from shared infrastructure is materially at issue.
+- Downstream: [System Alignment Certification](core_05defs_continuity.md#system-alignment-certification-constitutional) and [Chapter Seven](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) where cross-system fairness, ecosystem funding, or persistent extraction from shared infrastructure is materially at issue.
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Dependency](core_05c_continuity_definitions.md#dependency) · [O](core_05c_continuity_definitions.md#dependency) · [A](core_05c_continuity_definitions.md#dependency-a) · [C](core_05c_continuity_definitions.md#dependency-c)
-- [Proportionate Cross-System Support](core_05c_continuity_definitions.md#proportionate-cross-system-support-constitutional) · [O](core_05c_continuity_definitions.md#proportionate-cross-system-support-constitutional) · [A](core_05c_continuity_definitions.md#proportionate-cross-system-support-constitutional-a) · [C](core_05c_continuity_definitions.md#proportionate-cross-system-support-constitutional-c)
-- [Substantive Fairness](core_05p_participation_definitions.md#substantive-fairness-constitutional) · [O](core_05p_participation_definitions.md#substantive-fairness-constitutional) · [A](core_05p_participation_definitions.md#substantive-fairness-constitutional-a) · [C](core_05p_participation_definitions.md#substantive-fairness-constitutional-c)
-- [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination) · [O](core_05o_oversight_definitions.md#materiality-determination) · [A](core_05o_oversight_definitions.md#materiality-determination-a) · [C](core_05o_oversight_definitions.md#materiality-determination-c)
-- [Ecological Footprint](core_05c_continuity_definitions.md#ecological-footprint) · [O](core_05c_continuity_definitions.md#ecological-footprint) · [A](core_05c_continuity_definitions.md#ecological-footprint-a) · [C](core_05c_continuity_definitions.md#ecological-footprint-c)
+- [Dependency](core_05defs_continuity.md#dependency) · [O](core_05defs_continuity.md#dependency) · [A](core_05defs_continuity.md#dependency-a) · [C](core_05defs_continuity.md#dependency-c)
+- [Proportionate Cross-System Support](core_05defs_continuity.md#proportionate-cross-system-support-constitutional) · [O](core_05defs_continuity.md#proportionate-cross-system-support-constitutional) · [A](core_05defs_continuity.md#proportionate-cross-system-support-constitutional-a) · [C](core_05defs_continuity.md#proportionate-cross-system-support-constitutional-c)
+- [Substantive Fairness](core_05defs_participation.md#substantive-fairness-constitutional) · [O](core_05defs_participation.md#substantive-fairness-constitutional) · [A](core_05defs_participation.md#substantive-fairness-constitutional-a) · [C](core_05defs_participation.md#substantive-fairness-constitutional-c)
+- [Materiality Determination](core_05defs_oversight.md#materiality-determination) · [O](core_05defs_oversight.md#materiality-determination) · [A](core_05defs_oversight.md#materiality-determination-a) · [C](core_05defs_oversight.md#materiality-determination-c)
+- [Ecological Footprint](core_05defs_continuity.md#ecological-footprint) · [O](core_05defs_continuity.md#ecological-footprint) · [A](core_05defs_continuity.md#ecological-footprint-a) · [C](core_05defs_continuity.md#ecological-footprint-c)
 
 </details>
 
 <br>
 
-*In plain terms: split shared money and capacity with attention to who is truly dependent, who has real alternatives, environmental burden, and whether use can last—not mainly to whoever wins in the short run. Heavy users of shared foundations must not keep pulling value out without [Proportionate Cross-System Support](core_05c_continuity_definitions.md#proportionate-cross-system-support-constitutional). When arrangements concentrate wealth, power, control, or opportunity in ways that predictably harm others' wellbeing, agency, dignity, or ecological integrity, Chapter One non-concentration rules and adopter-tunable thresholds add further scrutiny. That scrutiny is extra; it does not replace dependency mapping or excuse neglect of cross-system fairness.*
+*In plain terms: split shared money and capacity with attention to who is truly dependent, who has real alternatives, environmental burden, and whether use can last—not mainly to whoever wins in the short run. Heavy users of shared foundations must not keep pulling value out without [Proportionate Cross-System Support](core_05defs_continuity.md#proportionate-cross-system-support-constitutional). When arrangements concentrate wealth, power, control, or opportunity in ways that predictably harm others' wellbeing, agency, dignity, or ecological integrity, Chapter One non-concentration rules and adopter-tunable thresholds add further scrutiny. That scrutiny is extra; it does not replace dependency mapping or excuse neglect of cross-system fairness.*
 
 - **Cross-system fairness:** Funding and allocation must account for:
   - criticality;
@@ -811,14 +811,14 @@ Those requirements protect shared infrastructure and the systems that depend on 
   - ecological footprint, including upstream and downstream burden;
   - long-term sustainability.
   
-  Systems must not persistently extract from shared infrastructure or foundational dependencies without [Proportionate Cross-System Support](core_05c_continuity_definitions.md#proportionate-cross-system-support-constitutional).
-- **Corresponding support:** **Corresponding support** means support that reaches substantive adequacy under [Proportionate Cross-System Support](core_05c_continuity_definitions.md#proportionate-cross-system-support-constitutional), evaluated under [Substantive Fairness](core_05p_participation_definitions.md#substantive-fairness-constitutional) and [Proportionality](core_05a_accountability_definitions.md#proportionality) and scaled to the factors listed under **Cross-system fairness**. At minimum, evaluate whether documented resource flows include, where material:
+  Systems must not persistently extract from shared infrastructure or foundational dependencies without [Proportionate Cross-System Support](core_05defs_continuity.md#proportionate-cross-system-support-constitutional).
+- **Corresponding support:** **Corresponding support** means support that reaches substantive adequacy under [Proportionate Cross-System Support](core_05defs_continuity.md#proportionate-cross-system-support-constitutional), evaluated under [Substantive Fairness](core_05defs_participation.md#substantive-fairness-constitutional) and [Proportionality](core_05defs_accountability.md#proportionality) and scaled to the factors listed under **Cross-system fairness**. At minimum, evaluate whether documented resource flows include, where material:
   - continuity of operations for the shared or foundational dependency;
   - remedy and resilience capacity where extraction materially increases collective harm risk;
   - ecosystem reinvestment for shared infrastructure and interoperability the extracting system relies on; and
-  - ecological burden offset or restoration where material [Ecological Footprint](core_05c_continuity_definitions.md#ecological-footprint) is imposed and another constitutional provision, implementation file, or adoption instrument requires action.
+  - ecological burden offset or restoration where material [Ecological Footprint](core_05defs_continuity.md#ecological-footprint) is imposed and another constitutional provision, implementation file, or adoption instrument requires action.
   
-  Compare inflows and outflows on dependent-systems maps and auditable resource-flow records under **Article IV-A** (*Dependency Mapping and Resource-Flow Transparency*). Where materially impactful systems allocate, route, fund, or extract from shared infrastructure, evaluate adequacy through [System Alignment Certification](core_05c_continuity_definitions.md#system-alignment-certification-constitutional) under [Chapter Seven](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification). Operational allocation mechanics route under **[corpus_systems.md](corpus_systems.md)**, **Protocol S5 — Resource Allocation and Funding Stewardship**, and **Protocol S4 — Adaptive Sustainability and Ecosystem Resilience**; those layers implement this floor and must not narrow it.
+  Compare inflows and outflows on dependent-systems maps and auditable resource-flow records under **Article IV-A** (*Dependency Mapping and Resource-Flow Transparency*). Where materially impactful systems allocate, route, fund, or extract from shared infrastructure, evaluate adequacy through [System Alignment Certification](core_05defs_continuity.md#system-alignment-certification-constitutional) under [Chapter Seven](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification). Operational allocation mechanics route under **[corpus_systems.md](corpus_systems.md)**, **Protocol S5 — Resource Allocation and Funding Stewardship**, and **Protocol S4 — Adaptive Sustainability and Ecosystem Resilience**; those layers implement this floor and must not narrow it.
   
   Persistent imbalances that materially threaten constitutional alignment are subject to audit, challenge, and corrective review under **Articles IX, XII, XIV, and XVII**.
 - **Concentration-threshold interaction:** Resource-allocation arrangements that produce or preserve concentration of wealth, power, control, or opportunity in ways that predictably degrade wellbeing, agency, dignity, or ecological integrity for other sentients engage:

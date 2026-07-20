@@ -33,35 +33,35 @@
         "type": "core"
       },
       {
-        "id": "core_05f_flourishing_aim.md",
+        "id": "core_05apex_flourishing_aim.md",
         "type": "core"
       },
       {
-        "id": "core_05g_continuity_aim.md",
+        "id": "core_05apex_continuity_aim.md",
         "type": "core"
       },
       {
-        "id": "core_05o_oversight_definitions.md",
+        "id": "core_05defs_oversight.md",
         "type": "core"
       },
       {
-        "id": "core_05p_participation_definitions.md",
+        "id": "core_05defs_participation.md",
         "type": "core"
       },
       {
-        "id": "core_05a_accountability_definitions.md",
+        "id": "core_05defs_accountability.md",
         "type": "core"
       },
       {
-        "id": "core_05c_continuity_definitions.md",
+        "id": "core_05defs_continuity.md",
         "type": "core"
       },
       {
-        "id": "core_05i_integrative_definitions.md",
+        "id": "core_05defs_integrative.md",
         "type": "core"
       },
       {
-        "id": "core_05m_performance_definitions.md",
+        "id": "core_05defs_performance.md",
         "type": "core"
       },
       {
@@ -469,7 +469,7 @@
             ]
           },
           {
-            "file": "core_05a_accountability_definitions.md",
+            "file": "core_05defs_accountability.md",
             "count": 9,
             "anchors": [
               "#accountability",
@@ -483,7 +483,7 @@
             ]
           },
           {
-            "file": "core_05c_continuity_definitions.md",
+            "file": "core_05defs_continuity.md",
             "count": 14,
             "anchors": [
               "#avoidable-burden",
@@ -501,7 +501,7 @@
             ]
           },
           {
-            "file": "core_05f_flourishing_aim.md",
+            "file": "core_05apex_flourishing_aim.md",
             "count": 2,
             "anchors": [
               "#flourishing-constitutional",
@@ -509,7 +509,7 @@
             ]
           },
           {
-            "file": "core_05g_continuity_aim.md",
+            "file": "core_05apex_continuity_aim.md",
             "count": 2,
             "anchors": [
               "#continuity-aim-constitutional",
@@ -517,7 +517,7 @@
             ]
           },
           {
-            "file": "core_05i_integrative_definitions.md",
+            "file": "core_05defs_integrative.md",
             "count": 4,
             "anchors": [
               "#constitutional-contract-layer",
@@ -526,14 +526,14 @@
             ]
           },
           {
-            "file": "core_05m_performance_definitions.md",
+            "file": "core_05defs_performance.md",
             "count": 1,
             "anchors": [
               "#performance-measurement-family"
             ]
           },
           {
-            "file": "core_05o_oversight_definitions.md",
+            "file": "core_05defs_oversight.md",
             "count": 4,
             "anchors": [
               "#oversight-constitutional",
@@ -543,7 +543,7 @@
             ]
           },
           {
-            "file": "core_05p_participation_definitions.md",
+            "file": "core_05defs_participation.md",
             "count": 6,
             "anchors": [
               "#participation-constitutional",
@@ -716,7 +716,7 @@
             ]
           },
           {
-            "file": "core_05a_accountability_definitions.md",
+            "file": "core_05defs_accountability.md",
             "count": 69,
             "anchors": [
               "#contestability",
@@ -745,7 +745,7 @@
             ]
           },
           {
-            "file": "core_05c_continuity_definitions.md",
+            "file": "core_05defs_continuity.md",
             "count": 105,
             "anchors": [
               "#avoidable-burden",
@@ -787,7 +787,7 @@
             ]
           },
           {
-            "file": "core_05i_integrative_definitions.md",
+            "file": "core_05defs_integrative.md",
             "count": 13,
             "anchors": [
               "#incentive-alignment",
@@ -797,7 +797,7 @@
             ]
           },
           {
-            "file": "core_05o_oversight_definitions.md",
+            "file": "core_05defs_oversight.md",
             "count": 91,
             "anchors": [
               "#auditability",
@@ -832,7 +832,7 @@
             ]
           },
           {
-            "file": "core_05p_participation_definitions.md",
+            "file": "core_05defs_participation.md",
             "count": 156,
             "anchors": [
               "#accessibility-constitutional",
@@ -1043,7 +1043,7 @@
             ]
           },
           {
-            "file": "core_05a_accountability_definitions.md",
+            "file": "core_05defs_accountability.md",
             "count": 125,
             "anchors": [
               "#accountability",
@@ -1076,7 +1076,7 @@
             ]
           },
           {
-            "file": "core_05c_continuity_definitions.md",
+            "file": "core_05defs_continuity.md",
             "count": 65,
             "anchors": [
               "#avoidable-burden",
@@ -1120,7 +1120,7 @@
             ]
           },
           {
-            "file": "core_05i_integrative_definitions.md",
+            "file": "core_05defs_integrative.md",
             "count": 16,
             "anchors": [
               "#accountability-contestability-and-collective-accountability-failure-cluster",
@@ -1138,7 +1138,7 @@
             ]
           },
           {
-            "file": "core_05o_oversight_definitions.md",
+            "file": "core_05defs_oversight.md",
             "count": 73,
             "anchors": [
               "#classification-scaled-governance",
@@ -1169,7 +1169,7 @@
             ]
           },
           {
-            "file": "core_05p_participation_definitions.md",
+            "file": "core_05defs_participation.md",
             "count": 17,
             "anchors": [
               "#consent-constitutional",
@@ -1315,7 +1315,7 @@
             "anchors": []
           },
           {
-            "file": "core_05a_accountability_definitions.md",
+            "file": "core_05defs_accountability.md",
             "count": 173,
             "anchors": [
               "#accountability",
@@ -1369,7 +1369,7 @@
             ]
           },
           {
-            "file": "core_05c_continuity_definitions.md",
+            "file": "core_05defs_continuity.md",
             "count": 166,
             "anchors": [
               "#avoidable-burden",
@@ -1423,7 +1423,7 @@
             ]
           },
           {
-            "file": "core_05i_integrative_definitions.md",
+            "file": "core_05defs_integrative.md",
             "count": 26,
             "anchors": [
               "#authority-stack",
@@ -1439,7 +1439,7 @@
             ]
           },
           {
-            "file": "core_05o_oversight_definitions.md",
+            "file": "core_05defs_oversight.md",
             "count": 119,
             "anchors": [
               "#auditability",
@@ -1474,7 +1474,7 @@
             ]
           },
           {
-            "file": "core_05p_participation_definitions.md",
+            "file": "core_05defs_participation.md",
             "count": 75,
             "anchors": [
               "#accessibility-constitutional",
@@ -1690,24 +1690,24 @@
             ]
           },
           {
-            "file": "core_05a_accountability_definitions.md",
+            "file": "core_05defs_accountability.md",
             "count": 3,
             "anchors": [
               "#non-compliance-finding-profile"
             ]
           },
           {
-            "file": "core_05c_continuity_definitions.md",
+            "file": "core_05defs_continuity.md",
             "count": 1,
             "anchors": []
           },
           {
-            "file": "core_05f_flourishing_aim.md",
+            "file": "core_05apex_flourishing_aim.md",
             "count": 1,
             "anchors": []
           },
           {
-            "file": "core_05i_integrative_definitions.md",
+            "file": "core_05defs_integrative.md",
             "count": 6,
             "anchors": [
               "#authority-stack",
@@ -1717,7 +1717,7 @@
             ]
           },
           {
-            "file": "core_05o_oversight_definitions.md",
+            "file": "core_05defs_oversight.md",
             "count": 9,
             "anchors": [
               "#foreseeability-diligence",
@@ -1728,7 +1728,7 @@
             ]
           },
           {
-            "file": "core_05p_participation_definitions.md",
+            "file": "core_05defs_participation.md",
             "count": 1,
             "anchors": []
           },
@@ -1832,21 +1832,21 @@
             "anchors": []
           },
           {
-            "file": "core_05a_accountability_definitions.md",
+            "file": "core_05defs_accountability.md",
             "count": 1,
             "anchors": [
               "#contestability"
             ]
           },
           {
-            "file": "core_05c_continuity_definitions.md",
+            "file": "core_05defs_continuity.md",
             "count": 2,
             "anchors": [
               "#safety-constraint"
             ]
           },
           {
-            "file": "core_05o_oversight_definitions.md",
+            "file": "core_05defs_oversight.md",
             "count": 14,
             "anchors": [
               "#epistemic-integrity",
@@ -1908,7 +1908,7 @@
             ]
           },
           {
-            "file": "core_05a_accountability_definitions.md",
+            "file": "core_05defs_accountability.md",
             "count": 79,
             "anchors": [
               "#accountability",
@@ -1984,7 +1984,7 @@
             ]
           },
           {
-            "file": "core_05c_continuity_definitions.md",
+            "file": "core_05defs_continuity.md",
             "count": 82,
             "anchors": [
               "#anti-displacement-floor-constitutional",
@@ -2053,7 +2053,7 @@
             ]
           },
           {
-            "file": "core_05f_flourishing_aim.md",
+            "file": "core_05apex_flourishing_aim.md",
             "count": 6,
             "anchors": [
               "#flourishing-aim-decomposition",
@@ -2062,7 +2062,7 @@
             ]
           },
           {
-            "file": "core_05g_continuity_aim.md",
+            "file": "core_05apex_continuity_aim.md",
             "count": 5,
             "anchors": [
               "#continuity-aim-constitutional",
@@ -2071,7 +2071,7 @@
             ]
           },
           {
-            "file": "core_05i_integrative_definitions.md",
+            "file": "core_05defs_integrative.md",
             "count": 17,
             "anchors": [
               "#authority-stack",
@@ -2091,14 +2091,14 @@
             ]
           },
           {
-            "file": "core_05m_performance_definitions.md",
+            "file": "core_05defs_performance.md",
             "count": 1,
             "anchors": [
               "#performance-measurement-family"
             ]
           },
           {
-            "file": "core_05o_oversight_definitions.md",
+            "file": "core_05defs_oversight.md",
             "count": 46,
             "anchors": [
               "#adversarial-scaled-and-exploited-conditions",
@@ -2146,7 +2146,7 @@
             ]
           },
           {
-            "file": "core_05p_participation_definitions.md",
+            "file": "core_05defs_participation.md",
             "count": 56,
             "anchors": [
               "#35-animal-life-sentient-life-and-sentience-status",
@@ -2207,7 +2207,7 @@
         ]
       },
       {
-        "source": "core_05f_flourishing_aim.md",
+        "source": "core_05apex_flourishing_aim.md",
         "targets": [
           {
             "file": "core_00_preamble.md",
@@ -2248,7 +2248,7 @@
             ]
           },
           {
-            "file": "core_05a_accountability_definitions.md",
+            "file": "core_05defs_accountability.md",
             "count": 4,
             "anchors": [
               "#collective-harm-boundary-and-harm-cluster",
@@ -2258,7 +2258,7 @@
             ]
           },
           {
-            "file": "core_05c_continuity_definitions.md",
+            "file": "core_05defs_continuity.md",
             "count": 17,
             "anchors": [
               "#bodily-maintenance-access-constitutional",
@@ -2274,21 +2274,21 @@
             ]
           },
           {
-            "file": "core_05g_continuity_aim.md",
+            "file": "core_05apex_continuity_aim.md",
             "count": 4,
             "anchors": [
               "#continuity-aim-constitutional"
             ]
           },
           {
-            "file": "core_05i_integrative_definitions.md",
+            "file": "core_05defs_integrative.md",
             "count": 1,
             "anchors": [
               "#corpus-authority-stack-supremacy-and-enforceability-cluster"
             ]
           },
           {
-            "file": "core_05o_oversight_definitions.md",
+            "file": "core_05defs_oversight.md",
             "count": 7,
             "anchors": [
               "#materiality-determination",
@@ -2299,7 +2299,7 @@
             ]
           },
           {
-            "file": "core_05p_participation_definitions.md",
+            "file": "core_05defs_participation.md",
             "count": 6,
             "anchors": [
               "#animal-life-sentient-life-and-sentience-status-cluster",
@@ -2318,7 +2318,7 @@
         ]
       },
       {
-        "source": "core_05g_continuity_aim.md",
+        "source": "core_05apex_continuity_aim.md",
         "targets": [
           {
             "file": "core_00_preamble.md",
@@ -2358,7 +2358,7 @@
             ]
           },
           {
-            "file": "core_05a_accountability_definitions.md",
+            "file": "core_05defs_accountability.md",
             "count": 3,
             "anchors": [
               "#contestability",
@@ -2367,7 +2367,7 @@
             ]
           },
           {
-            "file": "core_05c_continuity_definitions.md",
+            "file": "core_05defs_continuity.md",
             "count": 39,
             "anchors": [
               "#cascading-failure",
@@ -2392,14 +2392,14 @@
             ]
           },
           {
-            "file": "core_05f_flourishing_aim.md",
+            "file": "core_05apex_flourishing_aim.md",
             "count": 4,
             "anchors": [
               "#flourishing-constitutional"
             ]
           },
           {
-            "file": "core_05o_oversight_definitions.md",
+            "file": "core_05defs_oversight.md",
             "count": 3,
             "anchors": [
               "#materiality-determination",
@@ -2407,7 +2407,7 @@
             ]
           },
           {
-            "file": "core_05p_participation_definitions.md",
+            "file": "core_05defs_participation.md",
             "count": 1,
             "anchors": [
               "#ecological-footprint-semi-independent"
@@ -2421,7 +2421,7 @@
         ]
       },
       {
-        "source": "core_05o_oversight_definitions.md",
+        "source": "core_05defs_oversight.md",
         "targets": [
           {
             "file": "core_00_preamble.md",
@@ -2476,7 +2476,7 @@
             ]
           },
           {
-            "file": "core_05a_accountability_definitions.md",
+            "file": "core_05defs_accountability.md",
             "count": 76,
             "anchors": [
               "#accountability",
@@ -2496,7 +2496,7 @@
             ]
           },
           {
-            "file": "core_05c_continuity_definitions.md",
+            "file": "core_05defs_continuity.md",
             "count": 99,
             "anchors": [
               "#cascading-failure",
@@ -2513,19 +2513,19 @@
             ]
           },
           {
-            "file": "core_05g_continuity_aim.md",
+            "file": "core_05apex_continuity_aim.md",
             "count": 1,
             "anchors": []
           },
           {
-            "file": "core_05i_integrative_definitions.md",
+            "file": "core_05defs_integrative.md",
             "count": 2,
             "anchors": [
               "#incentive-alignment"
             ]
           },
           {
-            "file": "core_05o_oversight_definitions.md",
+            "file": "core_05defs_oversight.md",
             "count": 262,
             "anchors": [
               "#adversarial-scaled-and-exploited-conditions",
@@ -2562,7 +2562,7 @@
             ]
           },
           {
-            "file": "core_05p_participation_definitions.md",
+            "file": "core_05defs_participation.md",
             "count": 17,
             "anchors": [
               "#assembly-constitutional",
@@ -2597,7 +2597,7 @@
         ]
       },
       {
-        "source": "core_05p_participation_definitions.md",
+        "source": "core_05defs_participation.md",
         "targets": [
           {
             "file": "core_00_preamble.md",
@@ -2660,7 +2660,7 @@
             ]
           },
           {
-            "file": "core_05a_accountability_definitions.md",
+            "file": "core_05defs_accountability.md",
             "count": 125,
             "anchors": [
               "#accountability",
@@ -2683,7 +2683,7 @@
             ]
           },
           {
-            "file": "core_05c_continuity_definitions.md",
+            "file": "core_05defs_continuity.md",
             "count": 73,
             "anchors": [
               "#agency-consent-and-anti-coercion-semi-independent",
@@ -2711,7 +2711,7 @@
             ]
           },
           {
-            "file": "core_05f_flourishing_aim.md",
+            "file": "core_05apex_flourishing_aim.md",
             "count": 2,
             "anchors": [
               "#flourishing-aim-decomposition",
@@ -2719,7 +2719,7 @@
             ]
           },
           {
-            "file": "core_05i_integrative_definitions.md",
+            "file": "core_05defs_integrative.md",
             "count": 13,
             "anchors": [
               "#animal-life-sentient-life-and-sentience-status-cluster",
@@ -2730,7 +2730,7 @@
             ]
           },
           {
-            "file": "core_05o_oversight_definitions.md",
+            "file": "core_05defs_oversight.md",
             "count": 57,
             "anchors": [
               "#adversarial-scaled-and-exploited-conditions",
@@ -2748,7 +2748,7 @@
             ]
           },
           {
-            "file": "core_05p_participation_definitions.md",
+            "file": "core_05defs_participation.md",
             "count": 466,
             "anchors": [
               "#accessibility-constitutional",
@@ -2906,7 +2906,7 @@
         ]
       },
       {
-        "source": "core_05a_accountability_definitions.md",
+        "source": "core_05defs_accountability.md",
         "targets": [
           {
             "file": "core_00_preamble.md",
@@ -2977,7 +2977,7 @@
             ]
           },
           {
-            "file": "core_05a_accountability_definitions.md",
+            "file": "core_05defs_accountability.md",
             "count": 513,
             "anchors": [
               "#accountability",
@@ -3046,7 +3046,7 @@
             ]
           },
           {
-            "file": "core_05c_continuity_definitions.md",
+            "file": "core_05defs_continuity.md",
             "count": 147,
             "anchors": [
               "#avoidable-burden",
@@ -3084,7 +3084,7 @@
             ]
           },
           {
-            "file": "core_05i_integrative_definitions.md",
+            "file": "core_05defs_integrative.md",
             "count": 23,
             "anchors": [
               "#accountability-contestability-and-collective-accountability-failure-cluster",
@@ -3096,7 +3096,7 @@
             ]
           },
           {
-            "file": "core_05o_oversight_definitions.md",
+            "file": "core_05defs_oversight.md",
             "count": 134,
             "anchors": [
               "#adversarial-scaled-and-exploited-conditions",
@@ -3117,7 +3117,7 @@
             ]
           },
           {
-            "file": "core_05p_participation_definitions.md",
+            "file": "core_05defs_participation.md",
             "count": 100,
             "anchors": [
               "#coercion-and-manipulation-constitutional",
@@ -3297,7 +3297,7 @@
         ]
       },
       {
-        "source": "core_05c_continuity_definitions.md",
+        "source": "core_05defs_continuity.md",
         "targets": [
           {
             "file": "core_00_preamble.md",
@@ -3365,7 +3365,7 @@
             ]
           },
           {
-            "file": "core_05a_accountability_definitions.md",
+            "file": "core_05defs_accountability.md",
             "count": 170,
             "anchors": [
               "#accountability",
@@ -3394,7 +3394,7 @@
             ]
           },
           {
-            "file": "core_05c_continuity_definitions.md",
+            "file": "core_05defs_continuity.md",
             "count": 486,
             "anchors": [
               "#anti-displacement-floor-constitutional",
@@ -3459,14 +3459,14 @@
             ]
           },
           {
-            "file": "core_05f_flourishing_aim.md",
+            "file": "core_05apex_flourishing_aim.md",
             "count": 1,
             "anchors": [
               "#flourishing-aim-decomposition"
             ]
           },
           {
-            "file": "core_05g_continuity_aim.md",
+            "file": "core_05apex_continuity_aim.md",
             "count": 3,
             "anchors": [
               "#continuity-aim-constitutional",
@@ -3474,7 +3474,7 @@
             ]
           },
           {
-            "file": "core_05i_integrative_definitions.md",
+            "file": "core_05defs_integrative.md",
             "count": 33,
             "anchors": [
               "#authority-stack",
@@ -3487,7 +3487,7 @@
             ]
           },
           {
-            "file": "core_05o_oversight_definitions.md",
+            "file": "core_05defs_oversight.md",
             "count": 157,
             "anchors": [
               "#adversarial-scaled-and-exploited-conditions",
@@ -3509,7 +3509,7 @@
             ]
           },
           {
-            "file": "core_05p_participation_definitions.md",
+            "file": "core_05defs_participation.md",
             "count": 164,
             "anchors": [
               "#accessibility-constitutional",
@@ -3651,7 +3651,7 @@
         ]
       },
       {
-        "source": "core_05i_integrative_definitions.md",
+        "source": "core_05defs_integrative.md",
         "targets": [
           {
             "file": "core_00_preamble.md",
@@ -3721,7 +3721,7 @@
             ]
           },
           {
-            "file": "core_05a_accountability_definitions.md",
+            "file": "core_05defs_accountability.md",
             "count": 34,
             "anchors": [
               "#capture-of-resolution-pathways",
@@ -3741,7 +3741,7 @@
             ]
           },
           {
-            "file": "core_05c_continuity_definitions.md",
+            "file": "core_05defs_continuity.md",
             "count": 28,
             "anchors": [
               "#dependency",
@@ -3757,7 +3757,7 @@
             ]
           },
           {
-            "file": "core_05i_integrative_definitions.md",
+            "file": "core_05defs_integrative.md",
             "count": 51,
             "anchors": [
               "#authority-stack",
@@ -3771,12 +3771,12 @@
             ]
           },
           {
-            "file": "core_05m_performance_definitions.md",
+            "file": "core_05defs_performance.md",
             "count": 1,
             "anchors": []
           },
           {
-            "file": "core_05o_oversight_definitions.md",
+            "file": "core_05defs_oversight.md",
             "count": 26,
             "anchors": [
               "#adversarial-scaled-and-exploited-conditions",
@@ -3790,7 +3790,7 @@
             ]
           },
           {
-            "file": "core_05p_participation_definitions.md",
+            "file": "core_05defs_participation.md",
             "count": 20,
             "anchors": [
               "#binding-stakeholder-choice-cluster",
@@ -3881,7 +3881,7 @@
         ]
       },
       {
-        "source": "core_05m_performance_definitions.md",
+        "source": "core_05defs_performance.md",
         "targets": [
           {
             "file": "core_00_preamble.md",
@@ -3903,7 +3903,7 @@
             ]
           },
           {
-            "file": "core_05c_continuity_definitions.md",
+            "file": "core_05defs_continuity.md",
             "count": 15,
             "anchors": [
               "#avoidable-burden",
@@ -3913,12 +3913,12 @@
             ]
           },
           {
-            "file": "core_05i_integrative_definitions.md",
+            "file": "core_05defs_integrative.md",
             "count": 1,
             "anchors": []
           },
           {
-            "file": "core_05o_oversight_definitions.md",
+            "file": "core_05defs_oversight.md",
             "count": 1,
             "anchors": [
               "#materiality-determination"
@@ -3984,7 +3984,7 @@
             ]
           },
           {
-            "file": "core_05a_accountability_definitions.md",
+            "file": "core_05defs_accountability.md",
             "count": 22,
             "anchors": [
               "#contestability",
@@ -3996,7 +3996,7 @@
             ]
           },
           {
-            "file": "core_05c_continuity_definitions.md",
+            "file": "core_05defs_continuity.md",
             "count": 58,
             "anchors": [
               "#charter",
@@ -4021,7 +4021,7 @@
             ]
           },
           {
-            "file": "core_05i_integrative_definitions.md",
+            "file": "core_05defs_integrative.md",
             "count": 3,
             "anchors": [
               "#authority-stack",
@@ -4030,7 +4030,7 @@
             ]
           },
           {
-            "file": "core_05o_oversight_definitions.md",
+            "file": "core_05defs_oversight.md",
             "count": 19,
             "anchors": [
               "#auditability",
@@ -4041,7 +4041,7 @@
             ]
           },
           {
-            "file": "core_05p_participation_definitions.md",
+            "file": "core_05defs_participation.md",
             "count": 34,
             "anchors": [
               "#accessibility-constitutional",
@@ -4177,7 +4177,7 @@
             ]
           },
           {
-            "file": "core_05a_accountability_definitions.md",
+            "file": "core_05defs_accountability.md",
             "count": 12,
             "anchors": [
               "#contestability",
@@ -4188,7 +4188,7 @@
             ]
           },
           {
-            "file": "core_05c_continuity_definitions.md",
+            "file": "core_05defs_continuity.md",
             "count": 10,
             "anchors": [
               "#charter",
@@ -4198,7 +4198,7 @@
             ]
           },
           {
-            "file": "core_05i_integrative_definitions.md",
+            "file": "core_05defs_integrative.md",
             "count": 4,
             "anchors": [
               "#authority-stack",
@@ -4206,12 +4206,12 @@
             ]
           },
           {
-            "file": "core_05m_performance_definitions.md",
+            "file": "core_05defs_performance.md",
             "count": 1,
             "anchors": []
           },
           {
-            "file": "core_05o_oversight_definitions.md",
+            "file": "core_05defs_oversight.md",
             "count": 15,
             "anchors": [
               "#auditability",
@@ -4226,7 +4226,7 @@
             ]
           },
           {
-            "file": "core_05p_participation_definitions.md",
+            "file": "core_05defs_participation.md",
             "count": 1,
             "anchors": [
               "#sentience-status-adjudication-constitutional"
@@ -4311,7 +4311,7 @@
         "source": "core_07-07_system_alignment_certification.md",
         "targets": [
           {
-            "file": "core_05c_continuity_definitions.md",
+            "file": "core_05defs_continuity.md",
             "count": 1,
             "anchors": [
               "#charter"
@@ -4391,7 +4391,7 @@
             ]
           },
           {
-            "file": "core_05a_accountability_definitions.md",
+            "file": "core_05defs_accountability.md",
             "count": 17,
             "anchors": [
               "#accountability",
@@ -4410,7 +4410,7 @@
             ]
           },
           {
-            "file": "core_05i_integrative_definitions.md",
+            "file": "core_05defs_integrative.md",
             "count": 2,
             "anchors": [
               "#constitutional-constraint-violation",
@@ -4418,7 +4418,7 @@
             ]
           },
           {
-            "file": "core_05o_oversight_definitions.md",
+            "file": "core_05defs_oversight.md",
             "count": 8,
             "anchors": [
               "#auditability",
@@ -4428,7 +4428,7 @@
             ]
           },
           {
-            "file": "core_05p_participation_definitions.md",
+            "file": "core_05defs_participation.md",
             "count": 1,
             "anchors": [
               "#lifespan-equivalent-unit-lequ"
@@ -4537,7 +4537,7 @@
             ]
           },
           {
-            "file": "core_05a_accountability_definitions.md",
+            "file": "core_05defs_accountability.md",
             "count": 2,
             "anchors": [
               "#remedy-system-constitutional",
@@ -4633,7 +4633,7 @@
             "anchors": []
           },
           {
-            "file": "core_05a_accountability_definitions.md",
+            "file": "core_05defs_accountability.md",
             "count": 20,
             "anchors": [
               "#accountability",
@@ -4654,7 +4654,7 @@
             ]
           },
           {
-            "file": "core_05o_oversight_definitions.md",
+            "file": "core_05defs_oversight.md",
             "count": 1,
             "anchors": [
               "#evidence-preservation"
@@ -4776,7 +4776,7 @@
             ]
           },
           {
-            "file": "core_05a_accountability_definitions.md",
+            "file": "core_05defs_accountability.md",
             "count": 100,
             "anchors": [
               "#accountability",
@@ -4810,7 +4810,7 @@
             ]
           },
           {
-            "file": "core_05c_continuity_definitions.md",
+            "file": "core_05defs_continuity.md",
             "count": 45,
             "anchors": [
               "#cascading-failure",
@@ -4831,7 +4831,7 @@
             ]
           },
           {
-            "file": "core_05i_integrative_definitions.md",
+            "file": "core_05defs_integrative.md",
             "count": 11,
             "anchors": [
               "#constitutional-constraint",
@@ -4841,7 +4841,7 @@
             ]
           },
           {
-            "file": "core_05o_oversight_definitions.md",
+            "file": "core_05defs_oversight.md",
             "count": 64,
             "anchors": [
               "#auditability",
@@ -4868,7 +4868,7 @@
             ]
           },
           {
-            "file": "core_05p_participation_definitions.md",
+            "file": "core_05defs_participation.md",
             "count": 42,
             "anchors": [
               "#coercion-and-manipulation-constitutional",
@@ -5024,7 +5024,7 @@
             ]
           },
           {
-            "file": "core_05a_accountability_definitions.md",
+            "file": "core_05defs_accountability.md",
             "count": 14,
             "anchors": [
               "#capture-of-resolution-pathways",
@@ -5039,7 +5039,7 @@
             ]
           },
           {
-            "file": "core_05c_continuity_definitions.md",
+            "file": "core_05defs_continuity.md",
             "count": 6,
             "anchors": [
               "#charter",
@@ -5049,14 +5049,14 @@
             ]
           },
           {
-            "file": "core_05i_integrative_definitions.md",
+            "file": "core_05defs_integrative.md",
             "count": 2,
             "anchors": [
               "#corpus"
             ]
           },
           {
-            "file": "core_05o_oversight_definitions.md",
+            "file": "core_05defs_oversight.md",
             "count": 7,
             "anchors": [
               "#evidence-preservation",
@@ -5066,7 +5066,7 @@
             ]
           },
           {
-            "file": "core_05p_participation_definitions.md",
+            "file": "core_05defs_participation.md",
             "count": 1,
             "anchors": [
               "#sentience-status-adjudication-constitutional"
@@ -5225,7 +5225,7 @@
             ]
           },
           {
-            "file": "core_05a_accountability_definitions.md",
+            "file": "core_05defs_accountability.md",
             "count": 3,
             "anchors": [
               "#capture-of-resolution-pathways",
@@ -5233,7 +5233,7 @@
             ]
           },
           {
-            "file": "core_05c_continuity_definitions.md",
+            "file": "core_05defs_continuity.md",
             "count": 1,
             "anchors": [
               "#stewardship-defect-constitutional"
@@ -5351,7 +5351,7 @@
             ]
           },
           {
-            "file": "core_05a_accountability_definitions.md",
+            "file": "core_05defs_accountability.md",
             "count": 49,
             "anchors": [
               "#educational-agency-o",
@@ -5369,7 +5369,7 @@
             ]
           },
           {
-            "file": "core_05c_continuity_definitions.md",
+            "file": "core_05defs_continuity.md",
             "count": 156,
             "anchors": [
               "#anti-displacement-floor-constitutional",
@@ -5436,7 +5436,7 @@
             ]
           },
           {
-            "file": "core_05i_integrative_definitions.md",
+            "file": "core_05defs_integrative.md",
             "count": 10,
             "anchors": [
               "#constitutional-owner-layers",
@@ -5447,7 +5447,7 @@
             ]
           },
           {
-            "file": "core_05o_oversight_definitions.md",
+            "file": "core_05defs_oversight.md",
             "count": 46,
             "anchors": [
               "#adversarial-scaled-and-exploited-conditions",
@@ -5474,7 +5474,7 @@
             ]
           },
           {
-            "file": "core_05p_participation_definitions.md",
+            "file": "core_05defs_participation.md",
             "count": 83,
             "anchors": [
               "#accessibility-constitutional",
@@ -5643,7 +5643,7 @@
             ]
           },
           {
-            "file": "core_05a_accountability_definitions.md",
+            "file": "core_05defs_accountability.md",
             "count": 164,
             "anchors": [
               "#accountability",
@@ -5694,7 +5694,7 @@
             ]
           },
           {
-            "file": "core_05c_continuity_definitions.md",
+            "file": "core_05defs_continuity.md",
             "count": 117,
             "anchors": [
               "#anti-displacement-floor-constitutional",
@@ -5754,7 +5754,7 @@
             ]
           },
           {
-            "file": "core_05i_integrative_definitions.md",
+            "file": "core_05defs_integrative.md",
             "count": 17,
             "anchors": [
               "#animal-life-sentient-life-and-sentience-status-cluster",
@@ -5770,7 +5770,7 @@
             ]
           },
           {
-            "file": "core_05o_oversight_definitions.md",
+            "file": "core_05defs_oversight.md",
             "count": 40,
             "anchors": [
               "#auditability",
@@ -5799,7 +5799,7 @@
             ]
           },
           {
-            "file": "core_05p_participation_definitions.md",
+            "file": "core_05defs_participation.md",
             "count": 337,
             "anchors": [
               "#accessibility-constitutional",
@@ -5979,7 +5979,7 @@
             ]
           },
           {
-            "file": "core_05a_accountability_definitions.md",
+            "file": "core_05defs_accountability.md",
             "count": 268,
             "anchors": [
               "#accountability",
@@ -6053,7 +6053,7 @@
             ]
           },
           {
-            "file": "core_05c_continuity_definitions.md",
+            "file": "core_05defs_continuity.md",
             "count": 234,
             "anchors": [
               "#avoidable-burden",
@@ -6114,7 +6114,7 @@
             ]
           },
           {
-            "file": "core_05i_integrative_definitions.md",
+            "file": "core_05defs_integrative.md",
             "count": 17,
             "anchors": [
               "#authority-stack",
@@ -6129,7 +6129,7 @@
             ]
           },
           {
-            "file": "core_05o_oversight_definitions.md",
+            "file": "core_05defs_oversight.md",
             "count": 191,
             "anchors": [
               "#auditability",
@@ -6166,7 +6166,7 @@
             ]
           },
           {
-            "file": "core_05p_participation_definitions.md",
+            "file": "core_05defs_participation.md",
             "count": 81,
             "anchors": [
               "#coercion-and-manipulation-constitutional",
@@ -6340,7 +6340,7 @@
             ]
           },
           {
-            "file": "core_05a_accountability_definitions.md",
+            "file": "core_05defs_accountability.md",
             "count": 141,
             "anchors": [
               "#accountability",
@@ -6381,7 +6381,7 @@
             ]
           },
           {
-            "file": "core_05c_continuity_definitions.md",
+            "file": "core_05defs_continuity.md",
             "count": 39,
             "anchors": [
               "#avoidable-burden",
@@ -6412,14 +6412,14 @@
             ]
           },
           {
-            "file": "core_05i_integrative_definitions.md",
+            "file": "core_05defs_integrative.md",
             "count": 1,
             "anchors": [
               "#accountability-contestability-and-collective-accountability-failure-cluster"
             ]
           },
           {
-            "file": "core_05o_oversight_definitions.md",
+            "file": "core_05defs_oversight.md",
             "count": 32,
             "anchors": [
               "#auditability",
@@ -6438,7 +6438,7 @@
             ]
           },
           {
-            "file": "core_05p_participation_definitions.md",
+            "file": "core_05defs_participation.md",
             "count": 13,
             "anchors": [
               "#procedural-fairness-constitutional",
@@ -6567,7 +6567,7 @@
             ]
           },
           {
-            "file": "core_05a_accountability_definitions.md",
+            "file": "core_05defs_accountability.md",
             "count": 11,
             "anchors": [
               "#governance-architecture-oversight-decentralization-and-concentration-cluster",
@@ -6577,7 +6577,7 @@
             ]
           },
           {
-            "file": "core_05c_continuity_definitions.md",
+            "file": "core_05defs_continuity.md",
             "count": 25,
             "anchors": [
               "#avoidable-burden",
@@ -6596,14 +6596,14 @@
             ]
           },
           {
-            "file": "core_05i_integrative_definitions.md",
+            "file": "core_05defs_integrative.md",
             "count": 2,
             "anchors": [
               "#foundational-constitutional-choice"
             ]
           },
           {
-            "file": "core_05o_oversight_definitions.md",
+            "file": "core_05defs_oversight.md",
             "count": 5,
             "anchors": [
               "#epistemic-integrity",
@@ -6613,7 +6613,7 @@
             ]
           },
           {
-            "file": "core_05p_participation_definitions.md",
+            "file": "core_05defs_participation.md",
             "count": 15,
             "anchors": [
               "#binding-collective-choice-decision-resolution-process",
@@ -6737,14 +6737,14 @@
             ]
           },
           {
-            "file": "core_05a_accountability_definitions.md",
+            "file": "core_05defs_accountability.md",
             "count": 3,
             "anchors": [
               "#corpus-authority-stack-supremacy-and-enforceability-cluster"
             ]
           },
           {
-            "file": "core_05c_continuity_definitions.md",
+            "file": "core_05defs_continuity.md",
             "count": 2,
             "anchors": [
               "#safety-constraint",
@@ -6752,7 +6752,7 @@
             ]
           },
           {
-            "file": "core_05i_integrative_definitions.md",
+            "file": "core_05defs_integrative.md",
             "count": 26,
             "anchors": [
               "#authority-stack",
@@ -6762,7 +6762,7 @@
             ]
           },
           {
-            "file": "core_05o_oversight_definitions.md",
+            "file": "core_05defs_oversight.md",
             "count": 5,
             "anchors": [
               "#epistemic-integrity",
@@ -6771,7 +6771,7 @@
             ]
           },
           {
-            "file": "core_05p_participation_definitions.md",
+            "file": "core_05defs_participation.md",
             "count": 2,
             "anchors": [
               "#dignity-and-equal-moral-standing",
@@ -6926,14 +6926,14 @@
             ]
           },
           {
-            "file": "core_05a_accountability_definitions.md",
+            "file": "core_05defs_accountability.md",
             "count": 2,
             "anchors": [
               "#corpus-authority-stack-supremacy-and-enforceability-cluster"
             ]
           },
           {
-            "file": "core_05c_continuity_definitions.md",
+            "file": "core_05defs_continuity.md",
             "count": 8,
             "anchors": [
               "#dependency",
@@ -6943,7 +6943,7 @@
             ]
           },
           {
-            "file": "core_05i_integrative_definitions.md",
+            "file": "core_05defs_integrative.md",
             "count": 13,
             "anchors": [
               "#authority-stack",
@@ -6952,7 +6952,7 @@
             ]
           },
           {
-            "file": "core_05o_oversight_definitions.md",
+            "file": "core_05defs_oversight.md",
             "count": 8,
             "anchors": [
               "#classification-scaled-governance",
@@ -6962,7 +6962,7 @@
             ]
           },
           {
-            "file": "core_05p_participation_definitions.md",
+            "file": "core_05defs_participation.md",
             "count": 1,
             "anchors": [
               "#stakeholder"
@@ -7448,7 +7448,7 @@
             ]
           },
           {
-            "file": "core_05a_accountability_definitions.md",
+            "file": "core_05defs_accountability.md",
             "count": 4,
             "anchors": [
               "#adjudication-and-dispute-resolution-constitutional",
@@ -7457,7 +7457,7 @@
             ]
           },
           {
-            "file": "core_05c_continuity_definitions.md",
+            "file": "core_05defs_continuity.md",
             "count": 8,
             "anchors": [
               "#emergency-and-contingency-constitutional",
@@ -7469,7 +7469,7 @@
             ]
           },
           {
-            "file": "core_05i_integrative_definitions.md",
+            "file": "core_05defs_integrative.md",
             "count": 29,
             "anchors": [
               "#authority-stack",
@@ -7487,7 +7487,7 @@
             ]
           },
           {
-            "file": "core_05o_oversight_definitions.md",
+            "file": "core_05defs_oversight.md",
             "count": 8,
             "anchors": [
               "#auditability",
@@ -7586,7 +7586,7 @@
             ]
           },
           {
-            "file": "core_05a_accountability_definitions.md",
+            "file": "core_05defs_accountability.md",
             "count": 16,
             "anchors": [
               "#adjudication-and-dispute-resolution-constitutional",
@@ -7598,7 +7598,7 @@
             ]
           },
           {
-            "file": "core_05c_continuity_definitions.md",
+            "file": "core_05defs_continuity.md",
             "count": 16,
             "anchors": [
               "#dependency",
@@ -7610,7 +7610,7 @@
             ]
           },
           {
-            "file": "core_05i_integrative_definitions.md",
+            "file": "core_05defs_integrative.md",
             "count": 37,
             "anchors": [
               "#authority-stack",
@@ -7626,7 +7626,7 @@
             ]
           },
           {
-            "file": "core_05o_oversight_definitions.md",
+            "file": "core_05defs_oversight.md",
             "count": 24,
             "anchors": [
               "#epistemic-integrity",
@@ -7644,7 +7644,7 @@
             ]
           },
           {
-            "file": "core_05p_participation_definitions.md",
+            "file": "core_05defs_participation.md",
             "count": 15,
             "anchors": [
               "#sentient-composite",
@@ -7697,7 +7697,7 @@
             ]
           },
           {
-            "file": "core_05o_oversight_definitions.md",
+            "file": "core_05defs_oversight.md",
             "count": 1,
             "anchors": [
               "#trust-and-trustworthiness-cluster"
@@ -7750,7 +7750,7 @@
             ]
           },
           {
-            "file": "core_05a_accountability_definitions.md",
+            "file": "core_05defs_accountability.md",
             "count": 22,
             "anchors": [
               "#adjudication-and-dispute-resolution-constitutional",
@@ -7765,7 +7765,7 @@
             ]
           },
           {
-            "file": "core_05c_continuity_definitions.md",
+            "file": "core_05defs_continuity.md",
             "count": 8,
             "anchors": [
               "#emergency-and-contingency-constitutional",
@@ -7774,7 +7774,7 @@
             ]
           },
           {
-            "file": "core_05i_integrative_definitions.md",
+            "file": "core_05defs_integrative.md",
             "count": 42,
             "anchors": [
               "#authority-stack",
@@ -7796,7 +7796,7 @@
             ]
           },
           {
-            "file": "core_05o_oversight_definitions.md",
+            "file": "core_05defs_oversight.md",
             "count": 32,
             "anchors": [
               "#classification-scaled-governance",
@@ -7814,7 +7814,7 @@
             ]
           },
           {
-            "file": "core_05p_participation_definitions.md",
+            "file": "core_05defs_participation.md",
             "count": 10,
             "anchors": [
               "#procedural-fairness-constitutional",
@@ -7870,7 +7870,7 @@
             ]
           },
           {
-            "file": "core_05a_accountability_definitions.md",
+            "file": "core_05defs_accountability.md",
             "count": 28,
             "anchors": [
               "#adjudication-and-dispute-resolution-constitutional",
@@ -7888,7 +7888,7 @@
             ]
           },
           {
-            "file": "core_05c_continuity_definitions.md",
+            "file": "core_05defs_continuity.md",
             "count": 52,
             "anchors": [
               "#dependency",
@@ -7915,7 +7915,7 @@
             ]
           },
           {
-            "file": "core_05i_integrative_definitions.md",
+            "file": "core_05defs_integrative.md",
             "count": 50,
             "anchors": [
               "#authority-stack",
@@ -7934,7 +7934,7 @@
             ]
           },
           {
-            "file": "core_05o_oversight_definitions.md",
+            "file": "core_05defs_oversight.md",
             "count": 24,
             "anchors": [
               "#auditability",
@@ -7949,7 +7949,7 @@
             ]
           },
           {
-            "file": "core_05p_participation_definitions.md",
+            "file": "core_05defs_participation.md",
             "count": 6,
             "anchors": [
               "#sentient-composite",
@@ -8039,7 +8039,7 @@
             ]
           },
           {
-            "file": "core_05a_accountability_definitions.md",
+            "file": "core_05defs_accountability.md",
             "count": 19,
             "anchors": [
               "#accountability",
@@ -8059,7 +8059,7 @@
             ]
           },
           {
-            "file": "core_05c_continuity_definitions.md",
+            "file": "core_05defs_continuity.md",
             "count": 8,
             "anchors": [
               "#dependency",
@@ -8071,7 +8071,7 @@
             ]
           },
           {
-            "file": "core_05i_integrative_definitions.md",
+            "file": "core_05defs_integrative.md",
             "count": 12,
             "anchors": [
               "#authority-stack",
@@ -8086,7 +8086,7 @@
             ]
           },
           {
-            "file": "core_05o_oversight_definitions.md",
+            "file": "core_05defs_oversight.md",
             "count": 5,
             "anchors": [
               "#auditability",
@@ -8218,7 +8218,7 @@
             ]
           },
           {
-            "file": "core_05a_accountability_definitions.md",
+            "file": "core_05defs_accountability.md",
             "count": 64,
             "anchors": [
               "#accountability",
@@ -8244,7 +8244,7 @@
             ]
           },
           {
-            "file": "core_05c_continuity_definitions.md",
+            "file": "core_05defs_continuity.md",
             "count": 30,
             "anchors": [
               "#charter",
@@ -8257,7 +8257,7 @@
             ]
           },
           {
-            "file": "core_05o_oversight_definitions.md",
+            "file": "core_05defs_oversight.md",
             "count": 62,
             "anchors": [
               "#auditability",
@@ -8277,7 +8277,7 @@
             ]
           },
           {
-            "file": "core_05p_participation_definitions.md",
+            "file": "core_05defs_participation.md",
             "count": 12,
             "anchors": [
               "#accessibility-constitutional",
@@ -8381,7 +8381,7 @@
             ]
           },
           {
-            "file": "core_05a_accountability_definitions.md",
+            "file": "core_05defs_accountability.md",
             "count": 44,
             "anchors": [
               "#accountability",
@@ -8408,7 +8408,7 @@
             ]
           },
           {
-            "file": "core_05c_continuity_definitions.md",
+            "file": "core_05defs_continuity.md",
             "count": 48,
             "anchors": [
               "#dependency",
@@ -8423,7 +8423,7 @@
             ]
           },
           {
-            "file": "core_05i_integrative_definitions.md",
+            "file": "core_05defs_integrative.md",
             "count": 5,
             "anchors": [
               "#constitutional-constraint",
@@ -8433,7 +8433,7 @@
             ]
           },
           {
-            "file": "core_05o_oversight_definitions.md",
+            "file": "core_05defs_oversight.md",
             "count": 74,
             "anchors": [
               "#auditability",
@@ -8455,7 +8455,7 @@
             ]
           },
           {
-            "file": "core_05p_participation_definitions.md",
+            "file": "core_05defs_participation.md",
             "count": 4,
             "anchors": [
               "#stakeholder",
@@ -8521,7 +8521,7 @@
             ]
           },
           {
-            "file": "core_05a_accountability_definitions.md",
+            "file": "core_05defs_accountability.md",
             "count": 12,
             "anchors": [
               "#accountability",
@@ -8533,7 +8533,7 @@
             ]
           },
           {
-            "file": "core_05c_continuity_definitions.md",
+            "file": "core_05defs_continuity.md",
             "count": 16,
             "anchors": [
               "#cascading-failure",
@@ -8551,14 +8551,14 @@
             ]
           },
           {
-            "file": "core_05i_integrative_definitions.md",
+            "file": "core_05defs_integrative.md",
             "count": 1,
             "anchors": [
               "#corpus"
             ]
           },
           {
-            "file": "core_05o_oversight_definitions.md",
+            "file": "core_05defs_oversight.md",
             "count": 26,
             "anchors": [
               "#auditability",
@@ -8577,7 +8577,7 @@
             ]
           },
           {
-            "file": "core_05p_participation_definitions.md",
+            "file": "core_05defs_participation.md",
             "count": 4,
             "anchors": [
               "#info-sphere",
@@ -8644,7 +8644,7 @@
             ]
           },
           {
-            "file": "core_05a_accountability_definitions.md",
+            "file": "core_05defs_accountability.md",
             "count": 36,
             "anchors": [
               "#accountability",
@@ -8665,7 +8665,7 @@
             ]
           },
           {
-            "file": "core_05c_continuity_definitions.md",
+            "file": "core_05defs_continuity.md",
             "count": 40,
             "anchors": [
               "#cascading-failure",
@@ -8689,7 +8689,7 @@
             ]
           },
           {
-            "file": "core_05o_oversight_definitions.md",
+            "file": "core_05defs_oversight.md",
             "count": 62,
             "anchors": [
               "#auditability",
@@ -8715,7 +8715,7 @@
             ]
           },
           {
-            "file": "core_05p_participation_definitions.md",
+            "file": "core_05defs_participation.md",
             "count": 8,
             "anchors": [
               "#accessibility-constitutional",
@@ -8781,7 +8781,7 @@
             ]
           },
           {
-            "file": "core_05a_accountability_definitions.md",
+            "file": "core_05defs_accountability.md",
             "count": 12,
             "anchors": [
               "#accountability",
@@ -8793,7 +8793,7 @@
             ]
           },
           {
-            "file": "core_05c_continuity_definitions.md",
+            "file": "core_05defs_continuity.md",
             "count": 20,
             "anchors": [
               "#dependency",
@@ -8811,7 +8811,7 @@
             ]
           },
           {
-            "file": "core_05i_integrative_definitions.md",
+            "file": "core_05defs_integrative.md",
             "count": 9,
             "anchors": [
               "#constitutional-contract-layer",
@@ -8824,7 +8824,7 @@
             ]
           },
           {
-            "file": "core_05o_oversight_definitions.md",
+            "file": "core_05defs_oversight.md",
             "count": 52,
             "anchors": [
               "#auditability",
@@ -8849,7 +8849,7 @@
             ]
           },
           {
-            "file": "core_05p_participation_definitions.md",
+            "file": "core_05defs_participation.md",
             "count": 23,
             "anchors": [
               "#accessibility-constitutional",
@@ -8935,7 +8935,7 @@
             ]
           },
           {
-            "file": "core_05i_integrative_definitions.md",
+            "file": "core_05defs_integrative.md",
             "count": 2,
             "anchors": [
               "#corpus"
@@ -9076,7 +9076,7 @@
             ]
           },
           {
-            "file": "core_05a_accountability_definitions.md",
+            "file": "core_05defs_accountability.md",
             "count": 4,
             "anchors": [
               "#capture-of-resolution-pathways",
@@ -9193,14 +9193,14 @@
             ]
           },
           {
-            "file": "core_05a_accountability_definitions.md",
+            "file": "core_05defs_accountability.md",
             "count": 1,
             "anchors": [
               "#contestability"
             ]
           },
           {
-            "file": "core_05c_continuity_definitions.md",
+            "file": "core_05defs_continuity.md",
             "count": 1,
             "anchors": [
               "#self-healing-constitutional"
@@ -9263,7 +9263,7 @@
             ]
           },
           {
-            "file": "core_05i_integrative_definitions.md",
+            "file": "core_05defs_integrative.md",
             "count": 1,
             "anchors": [
               "#constitutional-constraint"
@@ -9300,14 +9300,14 @@
             ]
           },
           {
-            "file": "core_05a_accountability_definitions.md",
+            "file": "core_05defs_accountability.md",
             "count": 1,
             "anchors": [
               "#governance-architecture-oversight-decentralization-and-concentration-cluster"
             ]
           },
           {
-            "file": "core_05c_continuity_definitions.md",
+            "file": "core_05defs_continuity.md",
             "count": 3,
             "anchors": [
               "#cascading-failure",
@@ -9316,7 +9316,7 @@
             ]
           },
           {
-            "file": "core_05i_integrative_definitions.md",
+            "file": "core_05defs_integrative.md",
             "count": 2,
             "anchors": [
               "#accountability-contestability-and-collective-accountability-failure-cluster",
@@ -9324,7 +9324,7 @@
             ]
           },
           {
-            "file": "core_05o_oversight_definitions.md",
+            "file": "core_05defs_oversight.md",
             "count": 2,
             "anchors": [
               "#auditability",
@@ -9332,7 +9332,7 @@
             ]
           },
           {
-            "file": "core_05p_participation_definitions.md",
+            "file": "core_05defs_participation.md",
             "count": 1,
             "anchors": [
               "#collective-harm-boundary-and-harm-cluster"
@@ -9369,14 +9369,14 @@
         "source": "corpus_systems/cs_protocol_s4_adaptive_sustainability_ecosystem_resilience.md",
         "targets": [
           {
-            "file": "core_05c_continuity_definitions.md",
+            "file": "core_05defs_continuity.md",
             "count": 1,
             "anchors": [
               "#self-healing-constitutional"
             ]
           },
           {
-            "file": "core_05i_integrative_definitions.md",
+            "file": "core_05defs_integrative.md",
             "count": 2,
             "anchors": [
               "#constitutional-constraint",
@@ -9384,7 +9384,7 @@
             ]
           },
           {
-            "file": "core_05o_oversight_definitions.md",
+            "file": "core_05defs_oversight.md",
             "count": 2,
             "anchors": [
               "#auditability",
@@ -9407,14 +9407,14 @@
         "source": "corpus_systems/cs_protocol_s5_resource_allocation_funding_stewardship.md",
         "targets": [
           {
-            "file": "core_05c_continuity_definitions.md",
+            "file": "core_05defs_continuity.md",
             "count": 2,
             "anchors": [
               "#proportionate-cross-system-support-constitutional"
             ]
           },
           {
-            "file": "core_05i_integrative_definitions.md",
+            "file": "core_05defs_integrative.md",
             "count": 4,
             "anchors": [
               "#constitutional-constraint"
@@ -9486,21 +9486,21 @@
             ]
           },
           {
-            "file": "core_05c_continuity_definitions.md",
+            "file": "core_05defs_continuity.md",
             "count": 1,
             "anchors": [
               "#cascading-failure"
             ]
           },
           {
-            "file": "core_05i_integrative_definitions.md",
+            "file": "core_05defs_integrative.md",
             "count": 1,
             "anchors": [
               "#constitutional-constraint"
             ]
           },
           {
-            "file": "core_05o_oversight_definitions.md",
+            "file": "core_05defs_oversight.md",
             "count": 1,
             "anchors": [
               "#materiality-determination"
@@ -9572,7 +9572,7 @@
             ]
           },
           {
-            "file": "core_05i_integrative_definitions.md",
+            "file": "core_05defs_integrative.md",
             "count": 1,
             "anchors": [
               "#corpus"
@@ -9768,7 +9768,7 @@
             ]
           },
           {
-            "file": "core_05a_accountability_definitions.md",
+            "file": "core_05defs_accountability.md",
             "count": 20,
             "anchors": [
               "#accountability",
@@ -9789,7 +9789,7 @@
             ]
           },
           {
-            "file": "core_05c_continuity_definitions.md",
+            "file": "core_05defs_continuity.md",
             "count": 20,
             "anchors": [
               "#dependency",
@@ -9804,7 +9804,7 @@
             ]
           },
           {
-            "file": "core_05i_integrative_definitions.md",
+            "file": "core_05defs_integrative.md",
             "count": 56,
             "anchors": [
               "#authority-stack",
@@ -9823,7 +9823,7 @@
             ]
           },
           {
-            "file": "core_05o_oversight_definitions.md",
+            "file": "core_05defs_oversight.md",
             "count": 28,
             "anchors": [
               "#classification-scaled-governance",
@@ -9844,7 +9844,7 @@
             ]
           },
           {
-            "file": "core_05p_participation_definitions.md",
+            "file": "core_05defs_participation.md",
             "count": 12,
             "anchors": [
               "#sentient-composite",
@@ -9996,7 +9996,7 @@
             ]
           },
           {
-            "file": "core_05a_accountability_definitions.md",
+            "file": "core_05defs_accountability.md",
             "count": 61,
             "anchors": [
               "#accountability",
@@ -10020,7 +10020,7 @@
             ]
           },
           {
-            "file": "core_05c_continuity_definitions.md",
+            "file": "core_05defs_continuity.md",
             "count": 77,
             "anchors": [
               "#charter",
@@ -10045,7 +10045,7 @@
             ]
           },
           {
-            "file": "core_05i_integrative_definitions.md",
+            "file": "core_05defs_integrative.md",
             "count": 29,
             "anchors": [
               "#authority-stack",
@@ -10058,7 +10058,7 @@
             ]
           },
           {
-            "file": "core_05o_oversight_definitions.md",
+            "file": "core_05defs_oversight.md",
             "count": 41,
             "anchors": [
               "#auditability",
@@ -10082,7 +10082,7 @@
             ]
           },
           {
-            "file": "core_05p_participation_definitions.md",
+            "file": "core_05defs_participation.md",
             "count": 12,
             "anchors": [
               "#business-creation-constitutional",
@@ -10172,7 +10172,7 @@
             ]
           },
           {
-            "file": "core_05a_accountability_definitions.md",
+            "file": "core_05defs_accountability.md",
             "count": 36,
             "anchors": [
               "#accountability",
@@ -10190,7 +10190,7 @@
             ]
           },
           {
-            "file": "core_05c_continuity_definitions.md",
+            "file": "core_05defs_continuity.md",
             "count": 28,
             "anchors": [
               "#dependency",
@@ -10208,7 +10208,7 @@
             ]
           },
           {
-            "file": "core_05i_integrative_definitions.md",
+            "file": "core_05defs_integrative.md",
             "count": 10,
             "anchors": [
               "#authority-stack",
@@ -10221,7 +10221,7 @@
             ]
           },
           {
-            "file": "core_05o_oversight_definitions.md",
+            "file": "core_05defs_oversight.md",
             "count": 20,
             "anchors": [
               "#classification-scaled-governance",
@@ -10233,7 +10233,7 @@
             ]
           },
           {
-            "file": "core_05p_participation_definitions.md",
+            "file": "core_05defs_participation.md",
             "count": 18,
             "anchors": [
               "#sentient-composite",
@@ -10308,7 +10308,7 @@
             ]
           },
           {
-            "file": "core_05a_accountability_definitions.md",
+            "file": "core_05defs_accountability.md",
             "count": 52,
             "anchors": [
               "#accountability",
@@ -10329,7 +10329,7 @@
             ]
           },
           {
-            "file": "core_05c_continuity_definitions.md",
+            "file": "core_05defs_continuity.md",
             "count": 8,
             "anchors": [
               "#system-capture",
@@ -10338,7 +10338,7 @@
             ]
           },
           {
-            "file": "core_05i_integrative_definitions.md",
+            "file": "core_05defs_integrative.md",
             "count": 16,
             "anchors": [
               "#corpus",
@@ -10350,7 +10350,7 @@
             ]
           },
           {
-            "file": "core_05o_oversight_definitions.md",
+            "file": "core_05defs_oversight.md",
             "count": 16,
             "anchors": [
               "#evidence-preservation",
@@ -10420,7 +10420,7 @@
             ]
           },
           {
-            "file": "core_05a_accountability_definitions.md",
+            "file": "core_05defs_accountability.md",
             "count": 12,
             "anchors": [
               "#accountability",
@@ -10435,7 +10435,7 @@
             ]
           },
           {
-            "file": "core_05c_continuity_definitions.md",
+            "file": "core_05defs_continuity.md",
             "count": 4,
             "anchors": [
               "#dependency",
@@ -10444,7 +10444,7 @@
             ]
           },
           {
-            "file": "core_05o_oversight_definitions.md",
+            "file": "core_05defs_oversight.md",
             "count": 8,
             "anchors": [
               "#material",
@@ -10456,7 +10456,7 @@
             ]
           },
           {
-            "file": "core_05p_participation_definitions.md",
+            "file": "core_05defs_participation.md",
             "count": 4,
             "anchors": [
               "#procedural-fairness-constitutional",
@@ -10520,7 +10520,7 @@
             ]
           },
           {
-            "file": "core_05a_accountability_definitions.md",
+            "file": "core_05defs_accountability.md",
             "count": 24,
             "anchors": [
               "#contestability",
@@ -10533,7 +10533,7 @@
             ]
           },
           {
-            "file": "core_05c_continuity_definitions.md",
+            "file": "core_05defs_continuity.md",
             "count": 20,
             "anchors": [
               "#dependency",
@@ -10547,7 +10547,7 @@
             ]
           },
           {
-            "file": "core_05o_oversight_definitions.md",
+            "file": "core_05defs_oversight.md",
             "count": 61,
             "anchors": [
               "#auditability",
@@ -10571,7 +10571,7 @@
             ]
           },
           {
-            "file": "core_05p_participation_definitions.md",
+            "file": "core_05defs_participation.md",
             "count": 8,
             "anchors": [
               "#accessibility-constitutional",
@@ -10638,7 +10638,7 @@
             ]
           },
           {
-            "file": "core_05a_accountability_definitions.md",
+            "file": "core_05defs_accountability.md",
             "count": 24,
             "anchors": [
               "#accountability",
@@ -10653,7 +10653,7 @@
             ]
           },
           {
-            "file": "core_05c_continuity_definitions.md",
+            "file": "core_05defs_continuity.md",
             "count": 20,
             "anchors": [
               "#dependency",
@@ -10668,7 +10668,7 @@
             ]
           },
           {
-            "file": "core_05i_integrative_definitions.md",
+            "file": "core_05defs_integrative.md",
             "count": 4,
             "anchors": [
               "#corpus",
@@ -10677,7 +10677,7 @@
             ]
           },
           {
-            "file": "core_05o_oversight_definitions.md",
+            "file": "core_05defs_oversight.md",
             "count": 49,
             "anchors": [
               "#auditability",
@@ -10695,7 +10695,7 @@
             ]
           },
           {
-            "file": "core_05p_participation_definitions.md",
+            "file": "core_05defs_participation.md",
             "count": 45,
             "anchors": [
               "#accessibility-constitutional",
@@ -10779,7 +10779,7 @@
             ]
           },
           {
-            "file": "core_05a_accountability_definitions.md",
+            "file": "core_05defs_accountability.md",
             "count": 48,
             "anchors": [
               "#contestability",
@@ -10797,7 +10797,7 @@
             ]
           },
           {
-            "file": "core_05c_continuity_definitions.md",
+            "file": "core_05defs_continuity.md",
             "count": 56,
             "anchors": [
               "#dependency",
@@ -10821,7 +10821,7 @@
             ]
           },
           {
-            "file": "core_05i_integrative_definitions.md",
+            "file": "core_05defs_integrative.md",
             "count": 52,
             "anchors": [
               "#authority-stack",
@@ -10836,7 +10836,7 @@
             ]
           },
           {
-            "file": "core_05o_oversight_definitions.md",
+            "file": "core_05defs_oversight.md",
             "count": 80,
             "anchors": [
               "#auditability",
@@ -10863,7 +10863,7 @@
             ]
           },
           {
-            "file": "core_05p_participation_definitions.md",
+            "file": "core_05defs_participation.md",
             "count": 19,
             "anchors": [
               "#assembly-collective-organization-institutional-formation-cluster",
@@ -10937,7 +10937,7 @@
             ]
           },
           {
-            "file": "core_05a_accountability_definitions.md",
+            "file": "core_05defs_accountability.md",
             "count": 16,
             "anchors": [
               "#contestability",
@@ -10949,7 +10949,7 @@
             ]
           },
           {
-            "file": "core_05c_continuity_definitions.md",
+            "file": "core_05defs_continuity.md",
             "count": 20,
             "anchors": [
               "#avoidable-burden",
@@ -10964,7 +10964,7 @@
             ]
           },
           {
-            "file": "core_05i_integrative_definitions.md",
+            "file": "core_05defs_integrative.md",
             "count": 8,
             "anchors": [
               "#corpus",
@@ -10973,7 +10973,7 @@
             ]
           },
           {
-            "file": "core_05o_oversight_definitions.md",
+            "file": "core_05defs_oversight.md",
             "count": 28,
             "anchors": [
               "#auditability",
@@ -10991,7 +10991,7 @@
             ]
           },
           {
-            "file": "core_05p_participation_definitions.md",
+            "file": "core_05defs_participation.md",
             "count": 12,
             "anchors": [
               "#accessibility-constitutional",
@@ -11061,7 +11061,7 @@
             ]
           },
           {
-            "file": "core_05a_accountability_definitions.md",
+            "file": "core_05defs_accountability.md",
             "count": 8,
             "anchors": [
               "#governance",
@@ -11073,7 +11073,7 @@
             ]
           },
           {
-            "file": "core_05c_continuity_definitions.md",
+            "file": "core_05defs_continuity.md",
             "count": 8,
             "anchors": [
               "#strategic-stewardship-obligation-constitutional",
@@ -11085,7 +11085,7 @@
             ]
           },
           {
-            "file": "core_05i_integrative_definitions.md",
+            "file": "core_05defs_integrative.md",
             "count": 4,
             "anchors": [
               "#corpus",
@@ -11094,7 +11094,7 @@
             ]
           },
           {
-            "file": "core_05o_oversight_definitions.md",
+            "file": "core_05defs_oversight.md",
             "count": 8,
             "anchors": [
               "#material",
@@ -11161,7 +11161,7 @@
             ]
           },
           {
-            "file": "core_05a_accountability_definitions.md",
+            "file": "core_05defs_accountability.md",
             "count": 10,
             "anchors": [
               "#accountability",
@@ -11174,7 +11174,7 @@
             ]
           },
           {
-            "file": "core_05c_continuity_definitions.md",
+            "file": "core_05defs_continuity.md",
             "count": 6,
             "anchors": [
               "#emergency-and-contingency-constitutional",
@@ -11185,7 +11185,7 @@
             ]
           },
           {
-            "file": "core_05i_integrative_definitions.md",
+            "file": "core_05defs_integrative.md",
             "count": 4,
             "anchors": [
               "#corpus",
@@ -11194,7 +11194,7 @@
             ]
           },
           {
-            "file": "core_05o_oversight_definitions.md",
+            "file": "core_05defs_oversight.md",
             "count": 8,
             "anchors": [
               "#material",
@@ -11261,7 +11261,7 @@
             ]
           },
           {
-            "file": "core_05a_accountability_definitions.md",
+            "file": "core_05defs_accountability.md",
             "count": 12,
             "anchors": [
               "#accountability",
@@ -11276,7 +11276,7 @@
             ]
           },
           {
-            "file": "core_05c_continuity_definitions.md",
+            "file": "core_05defs_continuity.md",
             "count": 5,
             "anchors": [
               "#charter",
@@ -11286,7 +11286,7 @@
             ]
           },
           {
-            "file": "core_05i_integrative_definitions.md",
+            "file": "core_05defs_integrative.md",
             "count": 4,
             "anchors": [
               "#corpus",
@@ -11295,7 +11295,7 @@
             ]
           },
           {
-            "file": "core_05o_oversight_definitions.md",
+            "file": "core_05defs_oversight.md",
             "count": 8,
             "anchors": [
               "#material",
@@ -11369,7 +11369,7 @@
             ]
           },
           {
-            "file": "core_05a_accountability_definitions.md",
+            "file": "core_05defs_accountability.md",
             "count": 28,
             "anchors": [
               "#accountability",
@@ -11390,7 +11390,7 @@
             ]
           },
           {
-            "file": "core_05c_continuity_definitions.md",
+            "file": "core_05defs_continuity.md",
             "count": 20,
             "anchors": [
               "#emergency-and-contingency-constitutional",
@@ -11405,7 +11405,7 @@
             ]
           },
           {
-            "file": "core_05i_integrative_definitions.md",
+            "file": "core_05defs_integrative.md",
             "count": 14,
             "anchors": [
               "#constitutional-constraint-violation",
@@ -11418,7 +11418,7 @@
             ]
           },
           {
-            "file": "core_05o_oversight_definitions.md",
+            "file": "core_05defs_oversight.md",
             "count": 26,
             "anchors": [
               "#evidence-preservation",
@@ -11433,7 +11433,7 @@
             ]
           },
           {
-            "file": "core_05p_participation_definitions.md",
+            "file": "core_05defs_participation.md",
             "count": 15,
             "anchors": [
               "#sentient-composite",
@@ -11502,7 +11502,7 @@
             ]
           },
           {
-            "file": "core_05a_accountability_definitions.md",
+            "file": "core_05defs_accountability.md",
             "count": 12,
             "anchors": [
               "#contestability",
@@ -11517,7 +11517,7 @@
             ]
           },
           {
-            "file": "core_05c_continuity_definitions.md",
+            "file": "core_05defs_continuity.md",
             "count": 4,
             "anchors": [
               "#stakeholder-emergency-and-contingency",
@@ -11526,7 +11526,7 @@
             ]
           },
           {
-            "file": "core_05p_participation_definitions.md",
+            "file": "core_05defs_participation.md",
             "count": 15,
             "anchors": [
               "#accessibility-constitutional",
@@ -11596,7 +11596,7 @@
             ]
           },
           {
-            "file": "core_05a_accountability_definitions.md",
+            "file": "core_05defs_accountability.md",
             "count": 12,
             "anchors": [
               "#governance",
@@ -11611,7 +11611,7 @@
             ]
           },
           {
-            "file": "core_05c_continuity_definitions.md",
+            "file": "core_05defs_continuity.md",
             "count": 4,
             "anchors": [
               "#dependency",
@@ -11620,7 +11620,7 @@
             ]
           },
           {
-            "file": "core_05o_oversight_definitions.md",
+            "file": "core_05defs_oversight.md",
             "count": 4,
             "anchors": [
               "#material",
@@ -11629,7 +11629,7 @@
             ]
           },
           {
-            "file": "core_05p_participation_definitions.md",
+            "file": "core_05defs_participation.md",
             "count": 9,
             "anchors": [
               "#accessibility-constitutional",
@@ -11696,7 +11696,7 @@
             ]
           },
           {
-            "file": "core_05a_accountability_definitions.md",
+            "file": "core_05defs_accountability.md",
             "count": 4,
             "anchors": [
               "#irreversible-deprivation-measure-constitutional",
@@ -11705,7 +11705,7 @@
             ]
           },
           {
-            "file": "core_05c_continuity_definitions.md",
+            "file": "core_05defs_continuity.md",
             "count": 4,
             "anchors": [
               "#voluntary-discontinuation-constitutional",
@@ -11714,7 +11714,7 @@
             ]
           },
           {
-            "file": "core_05o_oversight_definitions.md",
+            "file": "core_05defs_oversight.md",
             "count": 8,
             "anchors": [
               "#material",
@@ -11726,7 +11726,7 @@
             ]
           },
           {
-            "file": "core_05p_participation_definitions.md",
+            "file": "core_05defs_participation.md",
             "count": 12,
             "anchors": [
               "#accessibility-constitutional",
@@ -11796,7 +11796,7 @@
             ]
           },
           {
-            "file": "core_05a_accountability_definitions.md",
+            "file": "core_05defs_accountability.md",
             "count": 12,
             "anchors": [
               "#governance",
@@ -11811,7 +11811,7 @@
             ]
           },
           {
-            "file": "core_05c_continuity_definitions.md",
+            "file": "core_05defs_continuity.md",
             "count": 5,
             "anchors": [
               "#emergency-and-contingency-constitutional",
@@ -11820,7 +11820,7 @@
             ]
           },
           {
-            "file": "core_05i_integrative_definitions.md",
+            "file": "core_05defs_integrative.md",
             "count": 4,
             "anchors": [
               "#corpus",
@@ -11829,7 +11829,7 @@
             ]
           },
           {
-            "file": "core_05o_oversight_definitions.md",
+            "file": "core_05defs_oversight.md",
             "count": 8,
             "anchors": [
               "#material",
@@ -11896,7 +11896,7 @@
             ]
           },
           {
-            "file": "core_05a_accountability_definitions.md",
+            "file": "core_05defs_accountability.md",
             "count": 8,
             "anchors": [
               "#contestability",
@@ -11908,7 +11908,7 @@
             ]
           },
           {
-            "file": "core_05o_oversight_definitions.md",
+            "file": "core_05defs_oversight.md",
             "count": 12,
             "anchors": [
               "#classification-scaled-governance",
@@ -11923,7 +11923,7 @@
             ]
           },
           {
-            "file": "core_05p_participation_definitions.md",
+            "file": "core_05defs_participation.md",
             "count": 8,
             "anchors": [
               "#coercion-and-manipulation-constitutional",
@@ -11990,7 +11990,7 @@
             ]
           },
           {
-            "file": "core_05a_accountability_definitions.md",
+            "file": "core_05defs_accountability.md",
             "count": 8,
             "anchors": [
               "#contestability",
@@ -12002,7 +12002,7 @@
             ]
           },
           {
-            "file": "core_05c_continuity_definitions.md",
+            "file": "core_05defs_continuity.md",
             "count": 4,
             "anchors": [
               "#dependency",
@@ -12011,7 +12011,7 @@
             ]
           },
           {
-            "file": "core_05i_integrative_definitions.md",
+            "file": "core_05defs_integrative.md",
             "count": 4,
             "anchors": [
               "#corpus",
@@ -12020,7 +12020,7 @@
             ]
           },
           {
-            "file": "core_05o_oversight_definitions.md",
+            "file": "core_05defs_oversight.md",
             "count": 4,
             "anchors": [
               "#transparency",
@@ -12029,7 +12029,7 @@
             ]
           },
           {
-            "file": "core_05p_participation_definitions.md",
+            "file": "core_05defs_participation.md",
             "count": 10,
             "anchors": [
               "#coercion-and-manipulation-constitutional",
@@ -12096,7 +12096,7 @@
             ]
           },
           {
-            "file": "core_05a_accountability_definitions.md",
+            "file": "core_05defs_accountability.md",
             "count": 12,
             "anchors": [
               "#contestability",
@@ -12111,7 +12111,7 @@
             ]
           },
           {
-            "file": "core_05c_continuity_definitions.md",
+            "file": "core_05defs_continuity.md",
             "count": 4,
             "anchors": [
               "#avoidable-burden",
@@ -12120,7 +12120,7 @@
             ]
           },
           {
-            "file": "core_05o_oversight_definitions.md",
+            "file": "core_05defs_oversight.md",
             "count": 4,
             "anchors": [
               "#transparency",
@@ -12129,7 +12129,7 @@
             ]
           },
           {
-            "file": "core_05p_participation_definitions.md",
+            "file": "core_05defs_participation.md",
             "count": 11,
             "anchors": [
               "#assembly-constitutional",
@@ -12199,7 +12199,7 @@
             ]
           },
           {
-            "file": "core_05a_accountability_definitions.md",
+            "file": "core_05defs_accountability.md",
             "count": 16,
             "anchors": [
               "#contestability",
@@ -12217,7 +12217,7 @@
             ]
           },
           {
-            "file": "core_05i_integrative_definitions.md",
+            "file": "core_05defs_integrative.md",
             "count": 4,
             "anchors": [
               "#incentive-alignment",
@@ -12226,7 +12226,7 @@
             ]
           },
           {
-            "file": "core_05o_oversight_definitions.md",
+            "file": "core_05defs_oversight.md",
             "count": 4,
             "anchors": [
               "#transparency",
@@ -12235,7 +12235,7 @@
             ]
           },
           {
-            "file": "core_05p_participation_definitions.md",
+            "file": "core_05defs_participation.md",
             "count": 5,
             "anchors": [
               "#collective-organization-constitutional",
@@ -12299,7 +12299,7 @@
             ]
           },
           {
-            "file": "core_05a_accountability_definitions.md",
+            "file": "core_05defs_accountability.md",
             "count": 4,
             "anchors": [
               "#governance",
@@ -12308,7 +12308,7 @@
             ]
           },
           {
-            "file": "core_05c_continuity_definitions.md",
+            "file": "core_05defs_continuity.md",
             "count": 5,
             "anchors": [
               "#indigenous-continuity-constitutional",
@@ -12317,7 +12317,7 @@
             ]
           },
           {
-            "file": "core_05o_oversight_definitions.md",
+            "file": "core_05defs_oversight.md",
             "count": 4,
             "anchors": [
               "#oversight-constitutional",
@@ -12326,7 +12326,7 @@
             ]
           },
           {
-            "file": "core_05p_participation_definitions.md",
+            "file": "core_05defs_participation.md",
             "count": 17,
             "anchors": [
               "#collective-organization-constitutional",
@@ -12399,7 +12399,7 @@
             ]
           },
           {
-            "file": "core_05a_accountability_definitions.md",
+            "file": "core_05defs_accountability.md",
             "count": 12,
             "anchors": [
               "#contestability",
@@ -12414,7 +12414,7 @@
             ]
           },
           {
-            "file": "core_05c_continuity_definitions.md",
+            "file": "core_05defs_continuity.md",
             "count": 8,
             "anchors": [
               "#dependency",
@@ -12426,7 +12426,7 @@
             ]
           },
           {
-            "file": "core_05i_integrative_definitions.md",
+            "file": "core_05defs_integrative.md",
             "count": 8,
             "anchors": [
               "#corpus",
@@ -12493,7 +12493,7 @@
             ]
           },
           {
-            "file": "core_05a_accountability_definitions.md",
+            "file": "core_05defs_accountability.md",
             "count": 12,
             "anchors": [
               "#contestability",
@@ -12508,7 +12508,7 @@
             ]
           },
           {
-            "file": "core_05c_continuity_definitions.md",
+            "file": "core_05defs_continuity.md",
             "count": 4,
             "anchors": [
               "#dependency",
@@ -12517,7 +12517,7 @@
             ]
           },
           {
-            "file": "core_05o_oversight_definitions.md",
+            "file": "core_05defs_oversight.md",
             "count": 12,
             "anchors": [
               "#auditability",
@@ -12587,7 +12587,7 @@
             ]
           },
           {
-            "file": "core_05a_accountability_definitions.md",
+            "file": "core_05defs_accountability.md",
             "count": 12,
             "anchors": [
               "#accountability",
@@ -12602,7 +12602,7 @@
             ]
           },
           {
-            "file": "core_05c_continuity_definitions.md",
+            "file": "core_05defs_continuity.md",
             "count": 4,
             "anchors": [
               "#indigenous-continuity-constitutional",
@@ -12611,7 +12611,7 @@
             ]
           },
           {
-            "file": "core_05i_integrative_definitions.md",
+            "file": "core_05defs_integrative.md",
             "count": 5,
             "anchors": [
               "#corpus",
@@ -12620,7 +12620,7 @@
             ]
           },
           {
-            "file": "core_05o_oversight_definitions.md",
+            "file": "core_05defs_oversight.md",
             "count": 8,
             "anchors": [
               "#auditability",
@@ -12682,7 +12682,7 @@
             ]
           },
           {
-            "file": "core_05a_accountability_definitions.md",
+            "file": "core_05defs_accountability.md",
             "count": 21,
             "anchors": [
               "#accountability",
@@ -12703,7 +12703,7 @@
             ]
           },
           {
-            "file": "core_05c_continuity_definitions.md",
+            "file": "core_05defs_continuity.md",
             "count": 4,
             "anchors": [
               "#dependency",
@@ -12712,7 +12712,7 @@
             ]
           },
           {
-            "file": "core_05o_oversight_definitions.md",
+            "file": "core_05defs_oversight.md",
             "count": 4,
             "anchors": [
               "#auditability",
@@ -12806,7 +12806,7 @@
             ]
           },
           {
-            "file": "core_05a_accountability_definitions.md",
+            "file": "core_05defs_accountability.md",
             "count": 16,
             "anchors": [
               "#adjudication-and-dispute-resolution-constitutional",
@@ -12824,7 +12824,7 @@
             ]
           },
           {
-            "file": "core_05i_integrative_definitions.md",
+            "file": "core_05defs_integrative.md",
             "count": 5,
             "anchors": [
               "#authority-stack",
@@ -12834,7 +12834,7 @@
             ]
           },
           {
-            "file": "core_05p_participation_definitions.md",
+            "file": "core_05defs_participation.md",
             "count": 8,
             "anchors": [
               "#accessibility-constitutional",
@@ -12987,7 +12987,7 @@
             ]
           },
           {
-            "file": "core_05a_accountability_definitions.md",
+            "file": "core_05defs_accountability.md",
             "count": 12,
             "anchors": [
               "#adjudication-and-dispute-resolution-constitutional",
@@ -13002,7 +13002,7 @@
             ]
           },
           {
-            "file": "core_05i_integrative_definitions.md",
+            "file": "core_05defs_integrative.md",
             "count": 8,
             "anchors": [
               "#authority-stack",
@@ -13131,7 +13131,7 @@
             ]
           },
           {
-            "file": "core_05a_accountability_definitions.md",
+            "file": "core_05defs_accountability.md",
             "count": 168,
             "anchors": [
               "#accountability",
@@ -13158,7 +13158,7 @@
             ]
           },
           {
-            "file": "core_05c_continuity_definitions.md",
+            "file": "core_05defs_continuity.md",
             "count": 20,
             "anchors": [
               "#emergency-and-contingency-constitutional",
@@ -13173,7 +13173,7 @@
             ]
           },
           {
-            "file": "core_05i_integrative_definitions.md",
+            "file": "core_05defs_integrative.md",
             "count": 21,
             "anchors": [
               "#authority-stack",
@@ -13186,7 +13186,7 @@
             ]
           },
           {
-            "file": "core_05o_oversight_definitions.md",
+            "file": "core_05defs_oversight.md",
             "count": 12,
             "anchors": [
               "#epistemic-integrity",
@@ -13201,7 +13201,7 @@
             ]
           },
           {
-            "file": "core_05p_participation_definitions.md",
+            "file": "core_05defs_participation.md",
             "count": 23,
             "anchors": [
               "#accessibility-constitutional",
@@ -13265,7 +13265,7 @@
             ]
           },
           {
-            "file": "core_05a_accountability_definitions.md",
+            "file": "core_05defs_accountability.md",
             "count": 168,
             "anchors": [
               "#accountability",
@@ -13295,7 +13295,7 @@
             ]
           },
           {
-            "file": "core_05c_continuity_definitions.md",
+            "file": "core_05defs_continuity.md",
             "count": 68,
             "anchors": [
               "#dependency",
@@ -13310,7 +13310,7 @@
             ]
           },
           {
-            "file": "core_05i_integrative_definitions.md",
+            "file": "core_05defs_integrative.md",
             "count": 25,
             "anchors": [
               "#corpus",
@@ -13323,7 +13323,7 @@
             ]
           },
           {
-            "file": "core_05o_oversight_definitions.md",
+            "file": "core_05defs_oversight.md",
             "count": 56,
             "anchors": [
               "#evidence-preservation",
@@ -13341,7 +13341,7 @@
             ]
           },
           {
-            "file": "core_05p_participation_definitions.md",
+            "file": "core_05defs_participation.md",
             "count": 59,
             "anchors": [
               "#procedural-fairness-constitutional",
@@ -13426,7 +13426,7 @@
             ]
           },
           {
-            "file": "core_05a_accountability_definitions.md",
+            "file": "core_05defs_accountability.md",
             "count": 28,
             "anchors": [
               "#adjudication-and-dispute-resolution-constitutional",
@@ -13441,7 +13441,7 @@
             ]
           },
           {
-            "file": "core_05c_continuity_definitions.md",
+            "file": "core_05defs_continuity.md",
             "count": 4,
             "anchors": [
               "#system-capture",
@@ -13450,7 +13450,7 @@
             ]
           },
           {
-            "file": "core_05i_integrative_definitions.md",
+            "file": "core_05defs_integrative.md",
             "count": 8,
             "anchors": [
               "#corpus",
@@ -13462,7 +13462,7 @@
             ]
           },
           {
-            "file": "core_05p_participation_definitions.md",
+            "file": "core_05defs_participation.md",
             "count": 24,
             "anchors": [
               "#accessibility-constitutional",
@@ -13531,7 +13531,7 @@
             ]
           },
           {
-            "file": "core_05a_accountability_definitions.md",
+            "file": "core_05defs_accountability.md",
             "count": 148,
             "anchors": [
               "#accountability",
@@ -13558,7 +13558,7 @@
             ]
           },
           {
-            "file": "core_05c_continuity_definitions.md",
+            "file": "core_05defs_continuity.md",
             "count": 72,
             "anchors": [
               "#dependency",
@@ -13576,7 +13576,7 @@
             ]
           },
           {
-            "file": "core_05i_integrative_definitions.md",
+            "file": "core_05defs_integrative.md",
             "count": 12,
             "anchors": [
               "#authority-stack",
@@ -13588,7 +13588,7 @@
             ]
           },
           {
-            "file": "core_05o_oversight_definitions.md",
+            "file": "core_05defs_oversight.md",
             "count": 56,
             "anchors": [
               "#epistemic-integrity",
@@ -13606,7 +13606,7 @@
             ]
           },
           {
-            "file": "core_05p_participation_definitions.md",
+            "file": "core_05defs_participation.md",
             "count": 52,
             "anchors": [
               "#procedural-fairness-constitutional",
@@ -13665,7 +13665,7 @@
             ]
           },
           {
-            "file": "core_05a_accountability_definitions.md",
+            "file": "core_05defs_accountability.md",
             "count": 153,
             "anchors": [
               "#accountability",
@@ -13696,7 +13696,7 @@
             ]
           },
           {
-            "file": "core_05c_continuity_definitions.md",
+            "file": "core_05defs_continuity.md",
             "count": 180,
             "anchors": [
               "#dependency",
@@ -13717,7 +13717,7 @@
             ]
           },
           {
-            "file": "core_05i_integrative_definitions.md",
+            "file": "core_05defs_integrative.md",
             "count": 105,
             "anchors": [
               "#authority-stack",
@@ -13733,7 +13733,7 @@
             ]
           },
           {
-            "file": "core_05o_oversight_definitions.md",
+            "file": "core_05defs_oversight.md",
             "count": 160,
             "anchors": [
               "#evidence-preservation",
@@ -13754,7 +13754,7 @@
             ]
           },
           {
-            "file": "core_05p_participation_definitions.md",
+            "file": "core_05defs_participation.md",
             "count": 67,
             "anchors": [
               "#accessibility-constitutional",
@@ -13831,7 +13831,7 @@
             ]
           },
           {
-            "file": "core_05a_accountability_definitions.md",
+            "file": "core_05defs_accountability.md",
             "count": 33,
             "anchors": [
               "#adjudication-and-dispute-resolution-constitutional",
@@ -13850,7 +13850,7 @@
             ]
           },
           {
-            "file": "core_05c_continuity_definitions.md",
+            "file": "core_05defs_continuity.md",
             "count": 12,
             "anchors": [
               "#system-capture",
@@ -13862,7 +13862,7 @@
             ]
           },
           {
-            "file": "core_05i_integrative_definitions.md",
+            "file": "core_05defs_integrative.md",
             "count": 15,
             "anchors": [
               "#corpus",
@@ -13873,7 +13873,7 @@
             ]
           },
           {
-            "file": "core_05o_oversight_definitions.md",
+            "file": "core_05defs_oversight.md",
             "count": 117,
             "anchors": [
               "#auditability",
@@ -13899,7 +13899,7 @@
             ]
           },
           {
-            "file": "core_05p_participation_definitions.md",
+            "file": "core_05defs_participation.md",
             "count": 25,
             "anchors": [
               "#accessibility-constitutional",
@@ -13974,7 +13974,7 @@
             ]
           },
           {
-            "file": "core_05a_accountability_definitions.md",
+            "file": "core_05defs_accountability.md",
             "count": 102,
             "anchors": [
               "#accountability",
@@ -14011,7 +14011,7 @@
             ]
           },
           {
-            "file": "core_05c_continuity_definitions.md",
+            "file": "core_05defs_continuity.md",
             "count": 30,
             "anchors": [
               "#dependency",
@@ -14028,7 +14028,7 @@
             ]
           },
           {
-            "file": "core_05i_integrative_definitions.md",
+            "file": "core_05defs_integrative.md",
             "count": 21,
             "anchors": [
               "#corpus",
@@ -14041,7 +14041,7 @@
             ]
           },
           {
-            "file": "core_05o_oversight_definitions.md",
+            "file": "core_05defs_oversight.md",
             "count": 137,
             "anchors": [
               "#auditability",
@@ -14062,7 +14062,7 @@
             ]
           },
           {
-            "file": "core_05p_participation_definitions.md",
+            "file": "core_05defs_participation.md",
             "count": 11,
             "anchors": [
               "#procedural-fairness-constitutional",
@@ -14124,7 +14124,7 @@
             ]
           },
           {
-            "file": "core_05a_accountability_definitions.md",
+            "file": "core_05defs_accountability.md",
             "count": 168,
             "anchors": [
               "#accountability",
@@ -14148,7 +14148,7 @@
             ]
           },
           {
-            "file": "core_05c_continuity_definitions.md",
+            "file": "core_05defs_continuity.md",
             "count": 28,
             "anchors": [
               "#dependency",
@@ -14163,7 +14163,7 @@
             ]
           },
           {
-            "file": "core_05i_integrative_definitions.md",
+            "file": "core_05defs_integrative.md",
             "count": 76,
             "anchors": [
               "#authority-stack",
@@ -14178,7 +14178,7 @@
             ]
           },
           {
-            "file": "core_05o_oversight_definitions.md",
+            "file": "core_05defs_oversight.md",
             "count": 136,
             "anchors": [
               "#auditability",
@@ -14199,7 +14199,7 @@
             ]
           },
           {
-            "file": "core_05p_participation_definitions.md",
+            "file": "core_05defs_participation.md",
             "count": 20,
             "anchors": [
               "#accessibility-constitutional",
@@ -14268,7 +14268,7 @@
             ]
           },
           {
-            "file": "core_05a_accountability_definitions.md",
+            "file": "core_05defs_accountability.md",
             "count": 220,
             "anchors": [
               "#accountability",
@@ -14305,7 +14305,7 @@
             ]
           },
           {
-            "file": "core_05c_continuity_definitions.md",
+            "file": "core_05defs_continuity.md",
             "count": 44,
             "anchors": [
               "#dependency",
@@ -14328,7 +14328,7 @@
             ]
           },
           {
-            "file": "core_05i_integrative_definitions.md",
+            "file": "core_05defs_integrative.md",
             "count": 88,
             "anchors": [
               "#authority-stack",
@@ -14340,7 +14340,7 @@
             ]
           },
           {
-            "file": "core_05o_oversight_definitions.md",
+            "file": "core_05defs_oversight.md",
             "count": 68,
             "anchors": [
               "#evidence-preservation",
@@ -14358,7 +14358,7 @@
             ]
           },
           {
-            "file": "core_05p_participation_definitions.md",
+            "file": "core_05defs_participation.md",
             "count": 136,
             "anchors": [
               "#accessibility-constitutional",
@@ -14461,7 +14461,7 @@
             ]
           },
           {
-            "file": "core_05a_accountability_definitions.md",
+            "file": "core_05defs_accountability.md",
             "count": 48,
             "anchors": [
               "#accountability",
@@ -14476,7 +14476,7 @@
             ]
           },
           {
-            "file": "core_05c_continuity_definitions.md",
+            "file": "core_05defs_continuity.md",
             "count": 92,
             "anchors": [
               "#emergency-and-contingency-constitutional",
@@ -14491,7 +14491,7 @@
             ]
           },
           {
-            "file": "core_05i_integrative_definitions.md",
+            "file": "core_05defs_integrative.md",
             "count": 52,
             "anchors": [
               "#authority-stack",
@@ -14503,7 +14503,7 @@
             ]
           },
           {
-            "file": "core_05o_oversight_definitions.md",
+            "file": "core_05defs_oversight.md",
             "count": 55,
             "anchors": [
               "#auditability",
@@ -14518,7 +14518,7 @@
             ]
           },
           {
-            "file": "core_05p_participation_definitions.md",
+            "file": "core_05defs_participation.md",
             "count": 4,
             "anchors": [
               "#accessibility-constitutional",
@@ -14577,7 +14577,7 @@
             ]
           },
           {
-            "file": "core_05a_accountability_definitions.md",
+            "file": "core_05defs_accountability.md",
             "count": 44,
             "anchors": [
               "#adjudication-and-dispute-resolution-constitutional",
@@ -14595,7 +14595,7 @@
             ]
           },
           {
-            "file": "core_05c_continuity_definitions.md",
+            "file": "core_05defs_continuity.md",
             "count": 44,
             "anchors": [
               "#emergency-and-contingency-constitutional",
@@ -14610,7 +14610,7 @@
             ]
           },
           {
-            "file": "core_05i_integrative_definitions.md",
+            "file": "core_05defs_integrative.md",
             "count": 24,
             "anchors": [
               "#authority-stack",
@@ -14622,7 +14622,7 @@
             ]
           },
           {
-            "file": "core_05o_oversight_definitions.md",
+            "file": "core_05defs_oversight.md",
             "count": 20,
             "anchors": [
               "#evidence-preservation",
@@ -14634,7 +14634,7 @@
             ]
           },
           {
-            "file": "core_05p_participation_definitions.md",
+            "file": "core_05defs_participation.md",
             "count": 4,
             "anchors": [
               "#procedural-fairness-constitutional",
@@ -14693,7 +14693,7 @@
             ]
           },
           {
-            "file": "core_05a_accountability_definitions.md",
+            "file": "core_05defs_accountability.md",
             "count": 44,
             "anchors": [
               "#adjudication-and-dispute-resolution-constitutional",
@@ -14711,7 +14711,7 @@
             ]
           },
           {
-            "file": "core_05c_continuity_definitions.md",
+            "file": "core_05defs_continuity.md",
             "count": 52,
             "anchors": [
               "#emergency-and-contingency-constitutional",
@@ -14726,7 +14726,7 @@
             ]
           },
           {
-            "file": "core_05i_integrative_definitions.md",
+            "file": "core_05defs_integrative.md",
             "count": 28,
             "anchors": [
               "#authority-stack",
@@ -14738,7 +14738,7 @@
             ]
           },
           {
-            "file": "core_05o_oversight_definitions.md",
+            "file": "core_05defs_oversight.md",
             "count": 34,
             "anchors": [
               "#evidence-preservation",
@@ -14750,7 +14750,7 @@
             ]
           },
           {
-            "file": "core_05p_participation_definitions.md",
+            "file": "core_05defs_participation.md",
             "count": 8,
             "anchors": [
               "#procedural-fairness-constitutional",
@@ -14809,7 +14809,7 @@
             ]
           },
           {
-            "file": "core_05a_accountability_definitions.md",
+            "file": "core_05defs_accountability.md",
             "count": 72,
             "anchors": [
               "#accountability",
@@ -14833,7 +14833,7 @@
             ]
           },
           {
-            "file": "core_05c_continuity_definitions.md",
+            "file": "core_05defs_continuity.md",
             "count": 16,
             "anchors": [
               "#emergency-and-contingency-constitutional",
@@ -14848,7 +14848,7 @@
             ]
           },
           {
-            "file": "core_05i_integrative_definitions.md",
+            "file": "core_05defs_integrative.md",
             "count": 32,
             "anchors": [
               "#authority-stack",
@@ -14860,7 +14860,7 @@
             ]
           },
           {
-            "file": "core_05o_oversight_definitions.md",
+            "file": "core_05defs_oversight.md",
             "count": 57,
             "anchors": [
               "#auditability",
@@ -14878,7 +14878,7 @@
             ]
           },
           {
-            "file": "core_05p_participation_definitions.md",
+            "file": "core_05defs_participation.md",
             "count": 20,
             "anchors": [
               "#accessibility-constitutional",
@@ -14940,7 +14940,7 @@
             ]
           },
           {
-            "file": "core_05a_accountability_definitions.md",
+            "file": "core_05defs_accountability.md",
             "count": 108,
             "anchors": [
               "#accountability",
@@ -14970,7 +14970,7 @@
             ]
           },
           {
-            "file": "core_05c_continuity_definitions.md",
+            "file": "core_05defs_continuity.md",
             "count": 44,
             "anchors": [
               "#dependency",
@@ -14988,7 +14988,7 @@
             ]
           },
           {
-            "file": "core_05i_integrative_definitions.md",
+            "file": "core_05defs_integrative.md",
             "count": 45,
             "anchors": [
               "#authority-stack",
@@ -15004,7 +15004,7 @@
             ]
           },
           {
-            "file": "core_05o_oversight_definitions.md",
+            "file": "core_05defs_oversight.md",
             "count": 16,
             "anchors": [
               "#auditability",
@@ -15019,7 +15019,7 @@
             ]
           },
           {
-            "file": "core_05p_participation_definitions.md",
+            "file": "core_05defs_participation.md",
             "count": 31,
             "anchors": [
               "#procedural-fairness-constitutional",

@@ -10,7 +10,7 @@ Operative constitutional text for the **Sentient Constitution** lives in the num
 | **Effective date** | 2026-06-18 |
 | **Status** | Substantive binding text through **Chapter Sixteen** is **stable for assurance review** under this edition. **SC-Corpus-2026.06.18** reorganizes Chapter Five into constitutional **band files** (Oversight, Participation, Accountability, Continuity, Integrative), renumbers §3 dependent clusters **§3.2–§3.16**, and adds the Chapter Five compass in Part A. |
 
-Custody and binding scope: [Chapter Five *Corpus*](core_05i_integrative_definitions.md#corpus) and [Chapter Sixteen](core_16-16_incorporation.md). Bump the edition label only on a deliberate corpus publication cut.
+Custody and binding scope: [Chapter Five *Corpus*](core_05defs_integrative.md#corpus) and [Chapter Sixteen](core_16-16_incorporation.md). Bump the edition label only on a deliberate corpus publication cut.
 
 ## How to read
 
@@ -37,14 +37,17 @@ The corpus is written in plain language with low jargon to improve accessibility
 - **Chapter Four** (burden, traceability, verification) — [`core_04-04_burden_traceability_verification.md`](core_04-04_burden_traceability_verification.md)
 - **Chapter Five** (foundational definitions)
   - Part A — compass, reader guidance, directory, dependent-cluster meta rules — [`core_05-05_definitions_a_independent.md`](core_05-05_definitions_a_independent.md)
-  - Flourishing aim — canonical aim home and hierarchy map — [`core_05f_flourishing_aim.md`](core_05f_flourishing_aim.md)
-  - Continuity aim — canonical aim home and hierarchy map — [`core_05g_continuity_aim.md`](core_05g_continuity_aim.md)
-  - Oversight band — §1/§2/§3 **§3.2–§3.3** — [`core_05o_oversight_definitions.md`](core_05o_oversight_definitions.md)
-  - Participation band — §1/§2/§3 **§3.5–§3.7** — [`core_05p_participation_definitions.md`](core_05p_participation_definitions.md)
-  - Accountability band — §1/§2/§3 **§3.8–§3.11** — [`core_05a_accountability_definitions.md`](core_05a_accountability_definitions.md)
-  - Continuity band — §1/§2/§3 **§3.12–§3.15** — [`core_05c_continuity_definitions.md`](core_05c_continuity_definitions.md)
-  - Integrative band — §1/§2/§3 **§3.16** — [`core_05i_integrative_definitions.md`](core_05i_integrative_definitions.md)
-  - Constitutional Performance band — Preamble measurement-family home (leaf definitions currently in the Continuity band) — [`core_05m_performance_definitions.md`](core_05m_performance_definitions.md)
+  - Accountability leg — canonical O/M/A/C home (Timeliness co-leg) — [`core_05apex_accountability_leg.md`](core_05apex_accountability_leg.md)
+  - Continuity aim — canonical aim home and hierarchy map — [`core_05apex_continuity_aim.md`](core_05apex_continuity_aim.md)
+  - Flourishing aim — canonical aim home and hierarchy map — [`core_05apex_flourishing_aim.md`](core_05apex_flourishing_aim.md)
+  - Oversight leg — canonical O/M/A/C home and hierarchy map — [`core_05apex_oversight_leg.md`](core_05apex_oversight_leg.md)
+  - Participation leg — canonical O/M/A/C home and hierarchy map — [`core_05apex_participation_leg.md`](core_05apex_participation_leg.md)
+  - Accountability band — §1/§2/§3 **§3.8–§3.11** — [`core_05defs_accountability.md`](core_05defs_accountability.md)
+  - Continuity band — §1/§2/§3 **§3.12–§3.15** — [`core_05defs_continuity.md`](core_05defs_continuity.md)
+  - Integrative band — §1/§2/§3 **§3.16** — [`core_05defs_integrative.md`](core_05defs_integrative.md)
+  - Oversight band — §1/§2/§3 **§3.2–§3.3** — [`core_05defs_oversight.md`](core_05defs_oversight.md)
+  - Participation band — §1/§2/§3 **§3.5–§3.7** — [`core_05defs_participation.md`](core_05defs_participation.md)
+  - Constitutional Performance band — Preamble measurement-family home (leaf definitions currently in the Continuity band) — [`core_05defs_performance.md`](core_05defs_performance.md)
 
 ### Standing pipeline and forums
 
@@ -111,7 +114,7 @@ Designated obligations in these wrappers and their subfile directories are **bin
 | **Binding incorporated implementation** | Designated obligations in the companion wrappers and linked subfiles above, within valid adoption scope |
 | **Process / map support** | [doc_architecture.md](doc_architecture.md), `TODO.md`, regression and evidence artifacts, and implementation notes unless explicitly adopted |
 
-**Conflict order:** Sentient Constitution meaning controls. Use the **Authority Stack and Internal Hierarchy**, **Constitutional Owner Layers**, and [**Constitutional Constraint**](core_05i_integrative_definitions.md#constitutional-constraint) entries in Chapter Five to distinguish source-layer status, substantive owner routing, constraint kind, and last-resort interpretive hierarchy. Incorporated and process layers must satisfy, not narrow, Sentient Constitution [Constitutional Constraints](core_05i_integrative_definitions.md#constitutional-constraint).
+**Conflict order:** Sentient Constitution meaning controls. Use the **Authority Stack and Internal Hierarchy**, **Constitutional Owner Layers**, and [**Constitutional Constraint**](core_05defs_integrative.md#constitutional-constraint) entries in Chapter Five to distinguish source-layer status, substantive owner routing, constraint kind, and last-resort interpretive hierarchy. Incorporated and process layers must satisfy, not narrow, Sentient Constitution [Constitutional Constraints](core_05defs_integrative.md#constitutional-constraint).
 
 The structure map ([doc_architecture.md](doc_architecture.md)) and corpus cross-references are maintained in lockstep with the numbered core files. Former `doc_architecture.md` sections **14–19** (worklist, adoption appendix, document control) live in [archive/ARCHITECTURE_ADOPTION_APPENDIX_ARCHIVED_2026-05-08.md](archive/ARCHITECTURE_ADOPTION_APPENDIX_ARCHIVED_2026-05-08.md) and [archive/ARCHITECTURE_WORKLIST_ARCHIVED_2026-05-08.md](archive/ARCHITECTURE_WORKLIST_ARCHIVED_2026-05-08.md).
 

@@ -18,10 +18,10 @@
     "3.4": "3.16"
   },
   "band_files": {
-    "o": "core_05o_oversight_definitions.md",
-    "p": "core_05p_participation_definitions.md",
-    "a": "core_05a_accountability_definitions.md",
-    "c": "core_05c_continuity_definitions.md",
-    "i": "core_05i_integrative_definitions.md"
+    "o": "core_05defs_oversight.md",
+    "p": "core_05defs_participation.md",
+    "a": "core_05defs_accountability.md",
+    "c": "core_05defs_continuity.md",
+    "i": "core_05defs_integrative.md"
   }
 }

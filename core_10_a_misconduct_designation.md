@@ -154,7 +154,7 @@ Only **this chapter** may issue a final **anti-constitutional misconduct** desig
 
 </details>
 
-<strong><span style="color: #2563eb;">Definition:</span></strong> [Necessity](core_05a_accountability_definitions.md#necessity) · [O](core_05a_accountability_definitions.md#necessity) · [A](core_05a_accountability_definitions.md#necessity-a) · [C](core_05a_accountability_definitions.md#necessity-c)
+<strong><span style="color: #2563eb;">Definition:</span></strong> [Necessity](core_05defs_accountability.md#necessity) · [O](core_05defs_accountability.md#necessity) · [A](core_05defs_accountability.md#necessity-a) · [C](core_05defs_accountability.md#necessity-c)
 
 *In plain terms: evaluators first accept the Chapter Eight impact slot, then build one coherent picture of what happened: one episode, one sustained campaign, or another unified incident. They use six checks—intent, records, rollback, real-world blockage, forcible takeover, and practical nullification of remedies—to decide whether the anti-constitutional designation applies. A genuine drafting mistake that is fixed promptly may defeat designation in some change or record cases, but it does not excuse a real coup path. They may not split one scheme to game the designation.*
 
@@ -248,7 +248,7 @@ Once it attaches:
 A final designation requires:
 
 - heightened review;
-- [Evidence Preservation](core_05o_oversight_definitions.md#evidence-preservation);
+- [Evidence Preservation](core_05defs_oversight.md#evidence-preservation);
 - published remediation controls;
 - proportional sanctions or repair where confirmed; and
 - the matching Chapter Nine standing consequences.
@@ -302,10 +302,10 @@ After final designation under **section 3** with these safeguards met, apply [§
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Redress and Remediation](core_05a_accountability_definitions.md#redress-and-remediation-constitutional) · [O](core_05a_accountability_definitions.md#redress-and-remediation-constitutional) · [A](core_05a_accountability_definitions.md#redress-and-remediation-constitutional-a) · [C](core_05a_accountability_definitions.md#redress-and-remediation-constitutional-c)
-- [Restorative Justice](core_05a_accountability_definitions.md#restorative-justice) · [O](core_05a_accountability_definitions.md#restorative-justice) · [A](core_05a_accountability_definitions.md#restorative-justice-a) · [C](core_05a_accountability_definitions.md#restorative-justice-c)
-- [Accountability](core_05a_accountability_definitions.md#accountability) · [O](core_05a_accountability_definitions.md#accountability) · [A](core_05a_accountability_definitions.md#accountability-a) · [C](core_05a_accountability_definitions.md#accountability-c)
-- [Proportionality](core_05a_accountability_definitions.md#proportionality) · [O](core_05a_accountability_definitions.md#proportionality) · [A](core_05a_accountability_definitions.md#proportionality-a) · [C](core_05a_accountability_definitions.md#proportionality-c)
+- [Redress and Remediation](core_05defs_accountability.md#redress-and-remediation-constitutional) · [O](core_05defs_accountability.md#redress-and-remediation-constitutional) · [A](core_05defs_accountability.md#redress-and-remediation-constitutional-a) · [C](core_05defs_accountability.md#redress-and-remediation-constitutional-c)
+- [Restorative Justice](core_05defs_accountability.md#restorative-justice) · [O](core_05defs_accountability.md#restorative-justice) · [A](core_05defs_accountability.md#restorative-justice-a) · [C](core_05defs_accountability.md#restorative-justice-c)
+- [Accountability](core_05apex_accountability_leg.md#accountability) · [O](core_05apex_accountability_leg.md#accountability) · [A](core_05apex_accountability_leg.md#accountability-a) · [C](core_05apex_accountability_leg.md#accountability-c)
+- [Proportionality](core_05defs_accountability.md#proportionality) · [O](core_05defs_accountability.md#proportionality) · [A](core_05defs_accountability.md#proportionality-a) · [C](core_05defs_accountability.md#proportionality-c)
 
 </details>
 

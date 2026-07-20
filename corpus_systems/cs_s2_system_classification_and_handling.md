@@ -3,7 +3,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: Integrative Materiality ([Materiality Determination](../core_05o_oversight_definitions.md#materiality-determination)) (*Materiality gate for class scaling*); [Chapter Seven §2 System Class Evaluation](../core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation); [Protocol A — System Design, Testing, Verification, and Deployment](cs_protocol_a_system_design_testing_verification_deployment.md) (*recertification and regression testing*).
+- Read with: Integrative Materiality ([Materiality Determination](../core_05defs_oversight.md#materiality-determination)) (*Materiality gate for class scaling*); [Chapter Seven §2 System Class Evaluation](../core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation); [Protocol A — System Design, Testing, Verification, and Deployment](cs_protocol_a_system_design_testing_verification_deployment.md) (*recertification and regression testing*).
 
 </details>
 
@@ -234,7 +234,7 @@ Operators have minimal discretion, limited strictly to preserving survival, safe
 
 **Class B: Critical, high-dependency, systemically significant systems.**
 
-For classification purposes, **"systemic"** denotes capacity for cross-domain [Cascading Failure](../core_05c_continuity_definitions.md#cascading-failure) across dependents, not merely large-scale or widespread impact.
+For classification purposes, **"systemic"** denotes capacity for cross-domain [Cascading Failure](../core_05defs_continuity.md#cascading-failure) across dependents, not merely large-scale or widespread impact.
 
 This quoted meaning of **"systemic"** is **CS-local** classification language for **CS-4 — System classification and handling** and is not a standalone **CJS Tier 1** abstraction.
 
@@ -599,7 +599,7 @@ Ownership stays **traceable** through governance changes, delegation, and subcon
 
 **First line** — operating owners and builders managing risk in design, deployment, and day-to-day operation.
 
-**Second line** — oversight, standards, or challenge functions monitoring aggregate risk, aligning treatment with classification and [Constitutional Constraints](../core_05i_integrative_definitions.md#constitutional-constraint), and escalating material gaps.
+**Second line** — oversight, standards, or challenge functions monitoring aggregate risk, aligning treatment with classification and [Constitutional Constraints](../core_05defs_integrative.md#constitutional-constraint), and escalating material gaps.
 
 **Second line** functions must be **sufficiently independent** of first-line incentives for **credible challenge** where A/B stakes require it.
 
