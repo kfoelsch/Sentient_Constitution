@@ -1093,7 +1093,7 @@ This cluster is the joint-invocation home for harm, the boundary at which one se
 - [Irreversible Harm](core_05a_accountability_definitions.md#irreversible-harm);
 - [Harassment and Bullying](core_05a_accountability_definitions.md#harassment-and-bullying).
 
-**Joint invocation and anti-bypass.** Under §3.0.1, a matter within the admission scope must not be segmented into separate individual-harm, collective-harm, harassment-and-bullying, non-imposition, materiality, freedom-limitation, or remediation questions in a way that recognizes a harm pathway while avoiding the boundary rule, or invokes the boundary rule while understating harm, or isolates generic [Harm](core_05a_accountability_definitions.md#harm) or the boundary rule from [Harassment and Bullying](core_05a_accountability_definitions.md#harassment-and-bullying) where patterned unwanted conduct is materially in play. Offense, preference, discomfort, or disagreement alone is not sufficient without a material harm pathway. Conversely, a formally private, local, expressive, commercial, technical, or collective practice is not outside this cluster where direct, indirect, delayed, cumulative, cross-system, info-sphere, ecological, wellbeing, or agency effects materially degrade protected interests or shared constitutional conditions.
+**Joint invocation and anti-bypass.** Under [Joint invocation and satisfaction](core_05-05_definitions_a_independent.md#joint-invocation-and-satisfaction), a matter within the admission scope must not be segmented into separate individual-harm, collective-harm, harassment-and-bullying, non-imposition, materiality, freedom-limitation, or remediation questions in a way that recognizes a harm pathway while avoiding the boundary rule, or invokes the boundary rule while understating harm, or isolates generic [Harm](core_05a_accountability_definitions.md#harm) or the boundary rule from [Harassment and Bullying](core_05a_accountability_definitions.md#harassment-and-bullying) where patterned unwanted conduct is materially in play. Offense, preference, discomfort, or disagreement alone is not sufficient without a material harm pathway. Conversely, a formally private, local, expressive, commercial, technical, or collective practice is not outside this cluster where direct, indirect, delayed, cumulative, cross-system, info-sphere, ecological, wellbeing, or agency effects materially degrade protected interests or shared constitutional conditions.
 
 ---
 
@@ -1260,7 +1260,7 @@ This cluster is the joint-invocation home for the six constitutional forum famil
 - [Primary-Stakes Routing](core_05a_accountability_definitions.md#primary-stakes-routing);
 - [Forum Case Record](core_05a_accountability_definitions.md#forum-case-record).
 
-**Joint invocation and anti-bypass.** Under §3.0.1, a matter within the admission scope must not be segmented into separate caption, intake label, or specialty-panel questions in a way that collapses distinct forum functions or defeats primary-stakes routing, certification, or anti-self-judging backup discipline.
+**Joint invocation and anti-bypass.** Under [Joint invocation and satisfaction](core_05-05_definitions_a_independent.md#joint-invocation-and-satisfaction), a matter within the admission scope must not be segmented into separate caption, intake label, or specialty-panel questions in a way that collapses distinct forum functions or defeats primary-stakes routing, certification, or anti-self-judging backup discipline.
 
 ---
 
@@ -1544,7 +1544,7 @@ This cluster is the joint-invocation home for contribution state, standing recor
 - [Single Catastrophic Incident](core_05a_accountability_definitions.md#single-catastrophic-incident);
 - [Sustained High-Gravity Pattern](core_05a_accountability_definitions.md#sustained-high-gravity-pattern).
 
-**Joint invocation and anti-bypass.** Under §3.0.1, a matter within the admission scope must not be segmented into separate narrative, procedural, evidentiary, standing-effect, or incident-gravity compartments in a way that defeats joint assessment, verified-input gates, standing-lock discipline, Chapter Ten designation review, or non-substitution discipline required by Chapters Eight through Ten.
+**Joint invocation and anti-bypass.** Under [Joint invocation and satisfaction](core_05-05_definitions_a_independent.md#joint-invocation-and-satisfaction), a matter within the admission scope must not be segmented into separate narrative, procedural, evidentiary, standing-effect, or incident-gravity compartments in a way that defeats joint assessment, verified-input gates, standing-lock discipline, Chapter Ten designation review, or non-substitution discipline required by Chapters Eight through Ten.
 
 ---
 
@@ -1981,7 +1981,7 @@ This cluster is the joint-invocation home for overt use of force, weapons of mas
 - [Irreversible Deprivation Measure](core_05a_accountability_definitions.md#irreversible-deprivation-measure-constitutional), for non-conflation discipline with **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*);
 - [Autonomous Coercion Tool](core_05a_accountability_definitions.md#autonomous-coercion-tool-constitutional).
 
-**Joint invocation and anti-bypass.** Under §3.0.1, a matter within the admission scope must not be segmented into separate authorization, targeting, weapons-class, autonomy, coercion, or review questions in a way that satisfies one component while defeating materially interdependent force, discrimination, autonomy-control, or non-conflation duties.
+**Joint invocation and anti-bypass.** Under [Joint invocation and satisfaction](core_05-05_definitions_a_independent.md#joint-invocation-and-satisfaction), a matter within the admission scope must not be segmented into separate authorization, targeting, weapons-class, autonomy, coercion, or review questions in a way that satisfies one component while defeating materially interdependent force, discrimination, autonomy-control, or non-conflation duties.
 
 ---
 

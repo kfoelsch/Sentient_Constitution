@@ -1463,7 +1463,7 @@ Outside that admission scope, component definitions may operate as supporting In
 - [Training-Data Use](core_05c_continuity_definitions.md#training-data-use-constitutional);
 - [Anti-Displacement Floor](core_05c_continuity_definitions.md#anti-displacement-floor-constitutional).
 
-**Joint invocation and anti-bypass.** Under §3.0.1, a matter within the admission scope must not be segmented into separate compensation, organization, safety, rest, privacy, consent, attribution, displacement, or innovation-reward issues in a way that satisfies one component while defeating materially interdependent duties under **Article III-D** (*Labor and Economic Floor*) and **Article VIII-D** (*Creative Work, Training-Data Use, and Anti-Displacement*).
+**Joint invocation and anti-bypass.** Under [Joint invocation and satisfaction](core_05-05_definitions_a_independent.md#joint-invocation-and-satisfaction), a matter within the admission scope must not be segmented into separate compensation, organization, safety, rest, privacy, consent, attribution, displacement, or innovation-reward issues in a way that satisfies one component while defeating materially interdependent duties under **Article III-D** (*Labor and Economic Floor*) and **Article VIII-D** (*Creative Work, Training-Data Use, and Anti-Displacement*).
 
 ---
 
@@ -1703,7 +1703,7 @@ This cluster is the joint-invocation home for principle-layer stewardship orient
 - [Stewardship Defect](core_05c_continuity_definitions.md#stewardship-defect-constitutional);
 - [Review and Correction Duty](core_05c_continuity_definitions.md#review-and-correction-duty-constitutional).
 
-**Joint invocation and anti-bypass.** Under §3.0.1, a matter within the admission scope must not be segmented into separate governance-form, capacity-metric, disclosure-summary, CSR-narrative, compliance-artifact, or short-horizon efficiency or incentive questions in a way that satisfies nominal procedure, masks stewardship defects, or defeats stewardship discipline, distributed understanding, or durable constitutional alignment.
+**Joint invocation and anti-bypass.** Under [Joint invocation and satisfaction](core_05-05_definitions_a_independent.md#joint-invocation-and-satisfaction), a matter within the admission scope must not be segmented into separate governance-form, capacity-metric, disclosure-summary, CSR-narrative, compliance-artifact, or short-horizon efficiency or incentive questions in a way that satisfies nominal procedure, masks stewardship defects, or defeats stewardship discipline, distributed understanding, or durable constitutional alignment.
 
 <a id="stewardship-constitutional"></a>
 
@@ -1902,7 +1902,7 @@ This cluster is the joint-invocation home for principle-layer stewardship orient
 
 <br>
 
-This cluster is the canonical O/M/A/C home for **Privacy (Informational)**, **Protected Internal-State Boundary**, and **Surveillance Boundary**, and the peer-level joint-invocation home for distributed privacy coverage across Chapter Six articles, stated in Chapter Five **section 2** reader navigation and carried here as a dependent cluster for §3.0.1 discipline.
+This cluster is the canonical O/M/A/C home for **Privacy (Informational)**, **Protected Internal-State Boundary**, and **Surveillance Boundary**, and the peer-level joint-invocation home for distributed privacy coverage across Chapter Six articles, carried here as a dependent cluster under [Joint invocation and satisfaction](core_05-05_definitions_a_independent.md#joint-invocation-and-satisfaction).
 
 Operational handling of data under this cluster must align with **[corpus_systems.md](corpus_systems.md), CS-3 — Information types and handling**, including Type N protections for internal-state data and proportional safeguards for all classified data types.
 
@@ -1919,7 +1919,7 @@ Operational handling of data under this cluster must align with **[corpus_system
 - [Article IX-A](core_06-06_rights_part_b.md#article-ix-a-agency-and-freedom-from-manipulation) (*Agency and Freedom from Manipulation*);
 - [Article XIII-A](core_06-06_rights_part_c.md#article-xiii-a-security-intelligence-and-covert-power-limits) (*Security, Intelligence, and Covert-Power Limits*).
 
-**Joint invocation and anti-bypass.** Under §3.0.1, privacy matters within admission scope must not be segmented across articles or definitions in a way that satisfies one article's standard while evading another's materially implicated discipline, or that isolates privacy analysis from internal-state-boundary or surveillance-boundary assessment where those protections materially intersect. Anti-read-across for standard-setting remains as stated in Chapter Five Chapter One §8.3.
+**Joint invocation and anti-bypass.** Under [Joint invocation and satisfaction](core_05-05_definitions_a_independent.md#joint-invocation-and-satisfaction), privacy matters within admission scope must not be segmented across articles or definitions in a way that satisfies one article's standard while evading another's materially implicated discipline, or that isolates privacy analysis from internal-state-boundary or surveillance-boundary assessment where those protections materially intersect. Anti-read-across for standard-setting remains as stated in Chapter Five Chapter One §8.3.
 
 *Measurements (family routing):* Participation measurement family — operative tiers on leaf primaries below; progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md).
 
@@ -2015,7 +2015,7 @@ This cluster is the canonical O/M/A/C home for **Trust**, **Trustworthiness**, a
 - [Trustworthiness](core_05c_continuity_definitions.md#trustworthiness);
 - [Trust Degradation and Misleading Reliance](core_05c_continuity_definitions.md#trust-degradation-and-misleading-reliance).
 
-**Joint invocation and anti-bypass.** Under §3.0.1, a matter within the admission scope must not be segmented into separate trust-only or trustworthiness-only frames in a way that treats reliance as justified without the joint observable-and-verifiable evidence discipline both entries require, or that satisfies one assessment subcomponent of [Trustworthiness](core_05c_continuity_definitions.md#trustworthiness) while bypassing another where materially relevant (Chapter Five §3 and Chapter Three §§1–2).
+**Joint invocation and anti-bypass.** Under [Joint invocation and satisfaction](core_05-05_definitions_a_independent.md#joint-invocation-and-satisfaction), a matter within the admission scope must not be segmented into separate trust-only or trustworthiness-only frames in a way that treats reliance as justified without the joint observable-and-verifiable evidence discipline both entries require, or that satisfies one assessment subcomponent of [Trustworthiness](core_05c_continuity_definitions.md#trustworthiness) while bypassing another where materially relevant (Chapter Five [Joint invocation and satisfaction](core_05-05_definitions_a_independent.md#joint-invocation-and-satisfaction) and Chapter Three §§1–2).
 
 ---
 
@@ -2127,7 +2127,7 @@ This cluster is the canonical O/M/A/C home for **Trust**, **Trustworthiness**, a
 
 <a id="trust-degradation-and-misleading-reliance-c"></a>
 - **C:** Non-compliant:
-  - Cherry-picking one member definition to bypass another within admission scope (Chapter Five §3 — Dependent clusters; Chapter Three §§1–2);
+  - Cherry-picking one member definition to bypass another within admission scope ([Chapter Five joint invocation and satisfaction](core_05-05_definitions_a_independent.md#joint-invocation-and-satisfaction); Chapter Three §§1–2);
   - Isolated formal compliance with disclosure or audit artifacts that defeats substantively informed understanding, independent verification, or effective challenge;
   - Cross-implementation signals appearing conforming while material obligations that jointly sustain a trust claim remain unmet for the same structural outcome (read `corpus_joint_structure.md` CJS-3.2 (*No false partial compliance across implementation files*) and CJS-4.3 (*Cross-implementation trust integrity (joint operation model)*));
   - Treating trust-erosion patterns as non-material where Materiality-family definitions require treating them as material, or splitting evaluation so no member definition captures the full functional wrong.

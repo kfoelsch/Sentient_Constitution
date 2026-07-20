@@ -93,7 +93,7 @@ FIXUPS = [
     ("[§4](#5-system", "[§2](#4-system"),
     # README / Ch5 cluster renumber damage
     ("§9 dependent clusters **§14.2–§14.16**", "§3 dependent clusters **§9.2–§9.16**"),
-    ("§9.0 meta rules", "§3.0 meta rules"),
+    ("§9.0 meta rules", "dependent-cluster meta rules"),
     ("§1/§9/§9 **§14.2–§14.3**", "§9.2–§3.3"),
     ("§1/§9/§9 **§9.5–§9.7**", "§3.5–§3.7"),
     ("§1/§9/§9 **§9.8–§14.11**", "§3.8–§9.11"),

@@ -33,7 +33,7 @@ CH5 = "## CHAPTER FIVE:"
 CH6 = "## CHAPTER EIGHT:"
 SEC1 = "### 1. Independent Definitions"
 SEC2 = "### 2. Semi-independent Definitions"
-SEC3 = "### 3. Dependent clusters (Clustered Definitions)"
+SEC3 = "### Dependent-cluster meta rules"
 
 ENTRY_START = re.compile(r"(?m)^(?P<title>[A-Za-z*][^\n]*)\n- O:", re.MULTILINE)
 

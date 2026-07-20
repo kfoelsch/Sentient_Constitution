@@ -36,7 +36,7 @@ The corpus is written in plain language with low jargon to improve accessibility
 - **Chapters Two and Three** (structure and integrity) — [`core_02-03_definition_mechanics.md`](core_02-03_definition_mechanics.md)
 - **Chapter Four** (burden, traceability, verification) — [`core_04-04_burden_traceability_verification.md`](core_04-04_burden_traceability_verification.md)
 - **Chapter Five** (foundational definitions)
-  - Part A — compass, reader guidance, directory, §3.0 meta rules — [`core_05-05_definitions_a_independent.md`](core_05-05_definitions_a_independent.md)
+  - Part A — compass, reader guidance, directory, dependent-cluster meta rules — [`core_05-05_definitions_a_independent.md`](core_05-05_definitions_a_independent.md)
   - Flourishing aim — canonical aim home and hierarchy map — [`core_05f_flourishing_aim.md`](core_05f_flourishing_aim.md)
   - Continuity aim — canonical aim home and hierarchy map — [`core_05g_continuity_aim.md`](core_05g_continuity_aim.md)
   - Oversight band — §1/§2/§3 **§3.2–§3.3** — [`core_05o_oversight_definitions.md`](core_05o_oversight_definitions.md)

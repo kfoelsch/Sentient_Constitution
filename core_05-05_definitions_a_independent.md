@@ -6,7 +6,7 @@
 
 > The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other chapters.
 >
-> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter Five, Part A** — reader guidance, alphabetical directory, §3.0 meta rules, and the constitutional compass.
+> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter Five, Part A** — reader guidance, dependent-cluster meta rules, alphabetical directory, and the constitutional compass.
 
 </details>
 
@@ -36,6 +36,23 @@ If wording outside the canonical home seems to broaden, narrow, replace, or comp
 
 ---
 
+<a id="dependent-cluster-meta-rules"></a>
+### Dependent-cluster meta rules
+
+*In plain terms: cluster members must be read and satisfied together — no member is a standalone shortcut around joint requirements.*
+
+A **dependent cluster** is a group of definitions that must be met together, inside the scope each cluster states. [Joint invocation and satisfaction](#joint-invocation-and-satisfaction) and [Standalone definitions interaction and full context](#standalone-definitions-interaction-and-full-context) apply to every cluster. Numbered clusters **§3.2–§3.16** live in the constitutional band files — see [Clusters A-Z](#clusters-a-z) and the [compass](#chapter-five-compass-and-definition-map).
+
+<a id="joint-invocation-and-satisfaction"></a>
+#### Joint invocation and satisfaction
+If a definition — or any part of one — belongs to a dependent cluster, it may not be applied, satisfied, or judged on its own. When cluster members are pieces of one requirement, all of them must be met. Meeting only some of them is not compliance.
+
+<a id="standalone-definitions-interaction-and-full-context"></a>
+#### Standalone definitions interaction and full context
+Calling a definition Independent or Semi-independent does not let it skip cluster membership. Dependent clusters must still be met together in the full real-world system context. No piece may be peeled off, reclassified, or applied alone in a way that changes the compliance result.
+
+---
+
 ### Chapter Five alphabetical directory (non-operative)
 
 <details>
@@ -43,7 +60,7 @@ If wording outside the canonical home seems to broaden, narrow, replace, or comp
 
 > This directory is **reader guidance only**. It does not add, remove, reorder, or narrow binding obligations in this chapter. Operative meaning remains in the definition entries below.
 
-This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each visible Chapter Five definition label appears once, and each numbered cluster heading appears once. Links use stable anchors only for navigation; they do not create routing rules, pointer entries, alternate homes, or stub definitions. Joint-satisfaction rules for dependent clusters are stated in **section 3**.
+This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each visible Chapter Five definition label appears once, and each numbered cluster heading appears once. Links use stable anchors only for navigation; they do not create routing rules, pointer entries, alternate homes, or stub definitions. Joint-satisfaction rules for dependent clusters are stated under [Dependent-cluster meta rules](#dependent-cluster-meta-rules) above.
 
 <a id="independent-definitions-a-z"></a>
 <a id="semi-independent-definitions-a-z"></a>
@@ -314,20 +331,13 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 
 - Upstream: [Constitutional Tetrad](../core_00_preamble.md#constitutional-tetrad); [Two Constitutional Aims](../core_00_preamble.md#two-constitutional-aims); [material stake](../core_00_preamble.md#material-stake); [Chapter Zero §2 Measurements Overview](../core_00_preamble.md#measurements-overview).
 - Downstream: constitutional orientation for all Chapter Five band definitions and §3 dependent clusters.
-- Read with: [§3.0.1 Joint invocation](core_05-05_definitions_a_independent.md#joint-invocation-and-satisfaction) and [§3.0.2 Standalone interaction](core_05-05_definitions_a_independent.md#standalone-definitions-interaction-and-full-context) meta rules before applying any dependent cluster.
+- Read with: [Joint invocation and satisfaction](core_05-05_definitions_a_independent.md#joint-invocation-and-satisfaction) and [Standalone definitions interaction and full context](core_05-05_definitions_a_independent.md#standalone-definitions-interaction-and-full-context) meta rules before applying any dependent cluster.
 
 </details>
 
 <br>
 
-Use this compass before invoking any Chapter Five definition. Chapter Five supplies canonical O/M/A/C homes for Tetrad legs ([Participation](core_05p_participation_definitions.md#participation-constitutional), [Oversight](core_05o_oversight_definitions.md#oversight-constitutional), [Accountability](core_05a_accountability_definitions.md#accountability), [Timeliness](core_05a_accountability_definitions.md#timeliness-constitutional)) and constitutional aims ([Flourishing](core_05f_flourishing_aim.md#flourishing-constitutional), [Continuity (Constitutional Aim)](core_05g_continuity_aim.md#continuity-aim-constitutional)); it does not replace the [Constitutional Tetrad](../core_00_preamble.md#constitutional-tetrad), [Two Constitutional Aims](../core_00_preamble.md#two-constitutional-aims), or [material stake](../core_00_preamble.md#material-stake) principle-layer glosses in [Chapter 00 §1](../core_00_preamble.md#the-model).
-
-**Reading order**
-
-1. This compass and the constitutional bands below — or the [measurement crosswalk](#chapter-five-measurement-crosswalk) when arriving from [Chapter Zero §2](../core_00_preamble.md#measurements-overview).
-2. The [Flourishing aim file](core_05f_flourishing_aim.md#flourishing-aim-decomposition) or [Continuity aim file](core_05g_continuity_aim.md#continuity-aim-decomposition) when routing by constitutional aim; otherwise the band file for the relevant Tetrad leg or **Integrative** band.
-3. Individual definition O/M/A/C entries; dependent clusters per admission scope.
-4. Where a finding is **non-compliant**, optional [Non-Compliance Finding Profile](core_05a_accountability_definitions.md#non-compliance-finding-profile) metadata.
+Chapter Five definitions are sorted by the [Two Constitutional Aims](../core_00_preamble.md#two-constitutional-aims) and the [Constitutional Tetrad](../core_00_preamble.md#constitutional-tetrad):
 
 **Constitutional bands**
 
@@ -338,8 +348,8 @@ Use this compass before invoking any Chapter Five definition. Chapter Five suppl
 | **Oversight leg** | [core_05o_oversight_definitions.md](core_05o_oversight_definitions.md) | **Chapter One §8.2–§3.3** |
 | **Participation leg** | [core_05p_participation_definitions.md](core_05p_participation_definitions.md) | **§3.5–§3.7** |
 | **Accountability leg** | [core_05a_accountability_definitions.md](core_05a_accountability_definitions.md) | **§3.8–Chapter One §8.11** |
-| **Continuity leg** | [core_05c_continuity_definitions.md](core_05c_continuity_definitions.md) | **Chapter One §8.12–Chapter One §8.15** |
-| **Integrative leg** | [core_05i_integrative_definitions.md](core_05i_integrative_definitions.md) | **Chapter One §8.16** |
+| **Continuity band** | [core_05c_continuity_definitions.md](core_05c_continuity_definitions.md) | **Chapter One §8.12–Chapter One §8.15** |
+| **Integrative cross-leg** | [core_05i_integrative_definitions.md](core_05i_integrative_definitions.md) | **Chapter One §8.16** |
 
 ---
 
@@ -368,22 +378,6 @@ Use this compass before invoking any Chapter Five definition. Chapter Five suppl
 </details>
 
 <br>
-
----
-
-### 3. Dependent clusters (Clustered Definitions)
-
-*In plain terms: Part C groups terms that must be read and satisfied together — cluster members are not standalone shortcuts around joint requirements.*
-
-A **dependent cluster** is a group of definitions that must be met together, inside the scope each cluster states. Rules **§3.0.1** and **§3.0.2** apply to every cluster. Clusters are listed alphabetically by title.
-
-<a id="joint-invocation-and-satisfaction"></a>
-#### 3.0.1 Joint invocation and satisfaction
-If a definition — or any part of one — belongs to a dependent cluster, it may not be applied, satisfied, or judged on its own. When cluster members are pieces of one requirement, all of them must be met. Meeting only some of them is not compliance.
-
-<a id="standalone-definitions-interaction-and-full-context"></a>
-#### 3.0.2 Standalone definitions interaction and full context
-Calling a definition Independent or Semi-independent does not let it skip cluster membership. Dependent clusters must still be met together in the full real-world system context. No piece may be peeled off, reclassified, or applied alone in a way that changes the compliance result.
 
 ---
 

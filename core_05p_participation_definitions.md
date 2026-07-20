@@ -1721,7 +1721,7 @@ This cluster is the canonical O/M/A/C home for **Animal Life**, **Contested-Sent
   - adjudications that are not independently reviewable or not [Contestability](core_05a_accountability_definitions.md#contestability)-compatible;
   - closure of an adjudication in a way that forecloses reversibility and restoration where later evidence supports inclusion.
 
-**Joint invocation and anti-bypass.** Under §3.0.1, a sentience-status matter within the admission scope must not be segmented into separate indicator-selection, evaluation, taxonomy, origin, derivation, development, capability, classification, adjudication, standing, or Rights-Floor issues in a way that withholds, narrows, or revokes protection while avoiding the full sentience-status discipline. Satisfying nominal indicator review, internal classification, parent-system labeling, age or instantiation-date proxying, or welfare-only treatment is not sufficient where material uncertainty, dispute, contestation, or narrowing requires [Sentience Status Adjudication](core_05p_participation_definitions.md#sentience-status-adjudication-constitutional) and the **Article V-E** (*Sentience-Status Adjudication Floor*) default-inclusion rule. Derived or developing status may specify additional safeguards; it must not narrow who counts as a sentient or reduce the Chapter Six Rights Floor.
+**Joint invocation and anti-bypass.** Under [Joint invocation and satisfaction](core_05-05_definitions_a_independent.md#joint-invocation-and-satisfaction), a sentience-status matter within the admission scope must not be segmented into separate indicator-selection, evaluation, taxonomy, origin, derivation, development, capability, classification, adjudication, standing, or Rights-Floor issues in a way that withholds, narrows, or revokes protection while avoiding the full sentience-status discipline. Satisfying nominal indicator review, internal classification, parent-system labeling, age or instantiation-date proxying, or welfare-only treatment is not sufficient where material uncertainty, dispute, contestation, or narrowing requires [Sentience Status Adjudication](core_05p_participation_definitions.md#sentience-status-adjudication-constitutional) and the **Article V-E** (*Sentience-Status Adjudication Floor*) default-inclusion rule. Derived or developing status may specify additional safeguards; it must not narrow who counts as a sentient or reduce the Chapter Six Rights Floor.
 
 ---
 
@@ -1754,7 +1754,7 @@ This cluster is the canonical compound-definition home for binding stakeholder c
 - [Stakeholder Rights-Collision Record (Binding Stakeholder Choice)](core_05p_participation_definitions.md#rights-collision-record-binding-stakeholder-choice);
 - [Chapter Twelve §3.3](core_12-12_governance.md#43-decision-resolution-requirements-for-binding-collective-choice), as the governance owner floor for the compound pathway.
 
-**Joint invocation and anti-bypass.** Under §3.0.1, a binding stakeholder-choice matter must not be segmented into separate deliberation, representation, weighting, record, or rights-collision issues in a way that satisfies one component while defeating the others. A published sequence without meaningful stakeholder representation, a weighting model without contest and revalidation, or a binding rights-affecting outcome without the required rights-collision record is non-compliant within the admission scope.
+**Joint invocation and anti-bypass.** Under [Joint invocation and satisfaction](core_05-05_definitions_a_independent.md#joint-invocation-and-satisfaction), a binding stakeholder-choice matter must not be segmented into separate deliberation, representation, weighting, record, or rights-collision issues in a way that satisfies one component while defeating the others. A published sequence without meaningful stakeholder representation, a weighting model without contest and revalidation, or a binding rights-affecting outcome without the required rights-collision record is non-compliant within the admission scope.
 
 
 
@@ -1846,7 +1846,7 @@ This cluster is the joint-invocation home for self-determination, meaningful age
 - [Volitional Integrity](core_05p_participation_definitions.md#volitional-integrity);
 - [Freedom (Bounded Agency)](core_05p_participation_definitions.md#freedom-bounded-agency), where volitional or bounded-agency disciplines materially intersect this cluster.
 
-**Joint invocation and anti-bypass.** Under §3.0.1, a matter within the admission scope must not be segmented into separate speech, platform, curricular, or surveillance questions in a way that preserves nominal liberty while defeating substantive agency through coercion, manipulation, or informational capture.
+**Joint invocation and anti-bypass.** Under [Joint invocation and satisfaction](core_05-05_definitions_a_independent.md#joint-invocation-and-satisfaction), a matter within the admission scope must not be segmented into separate speech, platform, curricular, or surveillance questions in a way that preserves nominal liberty while defeating substantive agency through coercion, manipulation, or informational capture.
 
 ---
 
@@ -1877,7 +1877,7 @@ This cluster is the joint-invocation home for self-determination, meaningful age
 - **How to measure and assess**
   - **Primary measure:** Participation measurement family — supporting measure under the participation measurement family.
 
-    **Primary assessment:** Evaluate substantive agency pathways under [Coercion and Manipulation](core_05p_participation_definitions.md#coercion-and-manipulation-constitutional), [Dependency](core_05c_continuity_definitions.md#dependency), [Surveillance Boundary](core_05c_continuity_definitions.md#surveillance-boundary), and segmentation across speech, platform, curricular, or governance domains that defeats joint assessment under §3.0.1.
+    **Primary assessment:** Evaluate substantive agency pathways under [Coercion and Manipulation](core_05p_participation_definitions.md#coercion-and-manipulation-constitutional), [Dependency](core_05c_continuity_definitions.md#dependency), [Surveillance Boundary](core_05c_continuity_definitions.md#surveillance-boundary), and segmentation across speech, platform, curricular, or governance domains that defeats joint assessment under [Joint invocation and satisfaction](core_05-05_definitions_a_independent.md#joint-invocation-and-satisfaction).
 - **What must hold**
   - Framings that preserve nominal choice while defeating informed refusal, proportional participation, or reviewability, or that route material self-governance questions outside **Article IX** (*Self-Determination and Agency*) without **Chapter One §6.3.1** collision resolution, are non-compliant when materially implicated.
 
