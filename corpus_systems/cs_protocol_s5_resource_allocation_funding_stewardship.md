@@ -6,6 +6,8 @@ Constitutional tracing: This protocol specifies implementation-file-level fundin
 
 **Article IV-A** (*Dependency Mapping and Resource-Flow Transparency*) and **Article IV-B** (*Cross-System Fairness and Sustainability*), together with **Articles I–III and V**, state the core obligations for transparent, ecosystem-aware resource flows, cross-system fairness, and substrate wellbeing.
 
+**What Articles I-B, IV-A, and IV-B require here — and what they do not.** Those articles require honest disclosure and comparison of footprints, dependencies, and resource flows. They do not, on their own, force footprint cuts, lock in a funding formula, or require equal splits, fixed percentages, or one funding model. Under **Article IV-B**, what a system puts back must be traceable — and it covers both keeping shared systems running (**cross-system system support**) and repairing ecological harm (**ecological support**). Both are judged under Chapter Five [*Proportionate Cross-System Support*](../core_05c_continuity_definitions.md#proportionate-cross-system-support-constitutional). This protocol supplies allocation categories, reauthorization, and funding-stewardship mechanics that implement that floor; it must not narrow it.
+
 **Protocol S4** governs how allocation adapts when conditions change. This Protocol specifies **funding stewardship mechanics**—dependent systems maps, flow transparency, allocation categories, reauthorization, and triggers. **It** is **not** a second copy of Chapter Five.
 
 Funding processes should reward contribution, sustain systems, and fund long-term resilience without permanent extraction or unaccountable concentration, consistent with **Articles IV, XI, XII, XV-A, XVIII, XXI, and XXIII** where applicable.
