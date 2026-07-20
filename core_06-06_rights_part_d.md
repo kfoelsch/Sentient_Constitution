@@ -249,7 +249,7 @@ Adopted governance implementation provides escalation, proportionality of interv
 
 <br>
 
-*In plain terms: **Article XXIV** (*Timely Retrospective Review and Restorative Alignment*) is the review-and-resolution companion to **Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*). After emergencies or serious rights conflicts, systems must look back honestly, disclose what can be disclosed, resolve rights collisions on the record, and keep restoration tied to real protection — on clocks that match what's at stake. [Timeliness](core_05apex_accountability_leg.md#timeliness-constitutional) binds each step: without it, the other duties hollow out while harm sits unresolved.*
+*In plain terms: **Article XXIV** (*Timely Retrospective Review and Restorative Alignment*) is the review-and-resolution companion to **Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*). After emergencies or serious rights conflicts, systems must look back honestly, disclose what can be disclosed, resolve rights collisions on the record, and keep restoration tied to real protection — on clocks that match what's at stake. [Timeliness](core_05apex_timeliness_leg.md#timeliness-constitutional) binds each step: without it, the other duties hollow out while harm sits unresolved.*
 
 This Article applies the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) to the resolution lifecycle after or alongside the intervention rules in **Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*), under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — **Flourishing** and **Continuity** — scaled to [material stake](core_00_preamble.md#material-stake):
 
@@ -257,7 +257,7 @@ This Article applies the [Constitutional Tetrad](core_00_preamble.md#constitutio
 - **participation** through usable rights-collision and restorative-alignment pathways (**Article XXIV-B** (*Rights-Collision Procedure and Restorative Alignment*));
 - **accountability** through reasoned records, proportionate remediation, and non-substitution of symbolic repair (**Article XXIV-B** (*Rights-Collision Procedure and Restorative Alignment*)).
 
-[Timeliness](core_05apex_accountability_leg.md#timeliness-constitutional) cross-cuts and enforces the legs above: material problems must move within materiality-scaled windows under **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*). Formal participation, oversight, or accountability structures do not satisfy this Article if review, collision resolution, or remedy stalls without lawful justification ([Timeliness](core_05apex_accountability_leg.md#timeliness-constitutional-a), Chapter Five).
+[Timeliness](core_05apex_timeliness_leg.md#timeliness-constitutional) cross-cuts and enforces the legs above: material problems must move within materiality-scaled windows under **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*). Formal participation, oversight, or accountability structures do not satisfy this Article if review, collision resolution, or remedy stalls without lawful justification ([Timeliness](core_05apex_timeliness_leg.md#timeliness-constitutional-a), Chapter Five).
 
 #### Article XXIV-A: Retrospective Review and Disclosure
 <details>

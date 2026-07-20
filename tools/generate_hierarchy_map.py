@@ -25,6 +25,7 @@ from ch5_paths import (  # noqa: E402
     CH5_LEG_A,
     CH5_LEG_O,
     CH5_LEG_P,
+    CH5_LEG_T,
 )
 
 FILE_TETRAD_LEG: dict[str, str] = {
@@ -36,6 +37,7 @@ FILE_TETRAD_LEG: dict[str, str] = {
     CH5_LEG_O: "Oversight",
     CH5_LEG_P: "Participation",
     CH5_LEG_A: "Accountability",
+    CH5_LEG_T: "Timeliness",
     CH5_AIM_F: "cross-leg",
     CH5_AIM_G: "cross-leg",
 }
@@ -48,7 +50,8 @@ DEFAULT_CH00_BY_FILE: dict[str, list[str]] = {
     CH5_BAND_I: ["3.6 Accountability"],
     CH5_LEG_O: ["3.5 Oversight"],
     CH5_LEG_P: ["3.4 Participation"],
-    CH5_LEG_A: ["3.6 Accountability", "3.7 Timeliness"],
+    CH5_LEG_A: ["3.6 Accountability"],
+    CH5_LEG_T: ["3.7 Timeliness"],
     CH5_AIM_F: ["3.2 Flourishing"],
     CH5_AIM_G: ["3.3 Continuity"],
 }

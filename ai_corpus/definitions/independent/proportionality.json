@@ -2,7 +2,7 @@
   "$schema": "../schemas/definition.schema.json",
   "term": "Proportionality",
   "source": {
-    "file": "core_05-05_definitions_a_independent.md",
+    "file": "core_05_definitions_home.md",
     "line_start": 1100,
     "line_end": 1119,
     "anchor": "#proportionality"

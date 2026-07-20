@@ -2,7 +2,7 @@
 
 from __future__ import annotations
 
-CH5_INDEX = "core_05-05_definitions_a_independent.md"
+CH5_INDEX = "core_05_definitions_home.md"
 CH5_PART_A = CH5_INDEX  # alias for legacy imports
 
 CH5_BAND_O = "core_05defs_oversight.md"
@@ -18,6 +18,7 @@ CH5_AIM_G = "core_05apex_continuity_aim.md"
 CH5_LEG_A = "core_05apex_accountability_leg.md"
 CH5_LEG_O = "core_05apex_oversight_leg.md"
 CH5_LEG_P = "core_05apex_participation_leg.md"
+CH5_LEG_T = "core_05apex_timeliness_leg.md"
 
 CH5_BANDS: tuple[str, ...] = (
     CH5_BAND_A,
@@ -41,6 +42,7 @@ CH5_LEGS: tuple[str, ...] = (
     CH5_LEG_A,
     CH5_LEG_O,
     CH5_LEG_P,
+    CH5_LEG_T,
 )
 
 # Apex = constitutional aim heads + Tetrad leg heads (O/M/A/C + decomposition + family rollups)

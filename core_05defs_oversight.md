@@ -5,7 +5,7 @@
 
 > The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other chapters.
 >
-> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter Five, Oversight band** — Independent, Semi-independent, and Dependent cluster definitions assigned to the **Oversight** constitutional band (Chapter One §8.2–§3.3). Reading order and the compass live in [core_05-05_definitions_a_independent.md](core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions).
+> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter Five, Oversight band** — Independent, Semi-independent, and Dependent cluster definitions assigned to the **Oversight** constitutional band (Chapter One §8.2–§3.3). Reading order and the compass live in [core_05_definitions_home.md](core_05_definitions_home.md#chapter-five-foundational-definitions).
 
 </details>
 
@@ -485,7 +485,7 @@
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Constitutional frame: **Oversight** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](core_05defs_oversight.md#materiality-determination).
-- Chapter One basis: Chapter One §8.2, §4, §12.1, §12.2 (see [Chapter Five compass](../core_05-05_definitions_a_independent.md#chapter-five-compass-and-definition-map) map).
+- Chapter One basis: Chapter One §8.2, §4, §12.1, §12.2 (see [Chapter Five compass](../core_05_definitions_home.md#chapter-five-compass-and-definition-map) map).
 - Read with: Apply [Accountability](core_05apex_accountability_leg.md#accountability), [Contestability](core_05defs_accountability.md#contestability), [Procedural Fairness](core_05defs_participation.md#procedural-fairness-constitutional), [Protected Reporting (Whistleblowing)](core_05defs_accountability.md#protected-reporting-whistleblowing), [Materiality Determination](core_05defs_oversight.md#materiality-determination), [Risk](core_05defs_continuity.md#risk), [Safety (Constraint)](core_05defs_continuity.md#safety-constraint), [Truth (Constitutional Constraint)](core_05defs_oversight.md#truth-constitutional-constraint), [Epistemic Integrity](core_05defs_oversight.md#epistemic-integrity), and Chapters Two through Four mechanics where materially implicated.
 
 </details>
@@ -521,7 +521,7 @@ independent verification rigor, and audit scope sufficiency than lower-class sys
 - [Verification Proportionality](core_05apex_oversight_leg.md#verification-proportionality);
 - [Verification Robustness](core_05apex_oversight_leg.md#verification-robustness).
 
-**Joint invocation and anti-bypass.** Under [Joint invocation and satisfaction](core_05-05_definitions_a_independent.md#joint-invocation-and-satisfaction), a matter within the admission scope must not be segmented into separate
+**Joint invocation and anti-bypass.** Under [Joint invocation and satisfaction](core_05_definitions_home.md#joint-invocation-and-satisfaction), a matter within the admission scope must not be segmented into separate
 disclosure, preservation, logging, metrics, audit sampling, verification UX, or independence questions in a way that satisfies a nominal channel
 while defeating practical reconstructability, contestability, or proportionate assurance depth.
 
@@ -775,7 +775,7 @@ while defeating practical reconstructability, contestability, or proportionate a
 - Constitutional frame: **Oversight** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](core_05defs_oversight.md#materiality-determination).
 - Downstream: Oversight measurement family (*Truth and epistemic integrity as constitutional measurement*).
 - Cross-leg note: integrative with **Accountability** where contest and correction are implicated.
-- Chapter One basis: Chapter One §8.2, §3.3, §4, §12.1, §12.2 (see [Chapter Five compass](../core_05-05_definitions_a_independent.md#chapter-five-compass-and-definition-map) map).
+- Chapter One basis: Chapter One §8.2, §3.3, §4, §12.1, §12.2 (see [Chapter Five compass](../core_05_definitions_home.md#chapter-five-compass-and-definition-map) map).
 - Read with: Apply [Good Faith](core_05defs_accountability.md#good-faith), [Materiality Determination](core_05defs_oversight.md#materiality-determination), [Dependency](core_05defs_continuity.md#dependency), [Transparency](core_05defs_oversight.md#transparency), [Auditability](core_05defs_oversight.md#auditability), [Observability](core_05defs_oversight.md#observability), [Verifiability](core_05defs_oversight.md#verifiability), [Contestability](core_05defs_accountability.md#contestability), [Safety (Constraint)](core_05defs_continuity.md#safety-constraint), [Risk](core_05defs_continuity.md#risk), and Chapters Two through Four mechanics where materially implicated.
 
 </details>
@@ -794,7 +794,7 @@ This cluster is the canonical O/M/A/C home for **Truth (Constitutional Constrain
 - [Foreseeability Diligence and Reasonably Foreseeable](core_05defs_oversight.md#foreseeability-diligence-and-reasonably-foreseeable) (nested sub-block — **Foreseeability Diligence**, **Reasonably Foreseeable**, and supporting foreseeability mechanics read together with **Truth** and **Epistemic Integrity**; not separate §3 cluster heads);
 - [Publication and High-Impact Communication](core_05defs_oversight.md#publication-and-high-impact-communication) (nested sub-block — publication-conduct floors and interfaces read together with **Truth**, **Epistemic Integrity**, and **Foreseeability**; not separate §3 cluster heads).
 
-**Joint invocation and anti-bypass.** Under [Joint invocation and satisfaction](core_05-05_definitions_a_independent.md#joint-invocation-and-satisfaction), a matter within the admission scope must not be segmented into separate disclosure, publication, empirical-method, uncertainty, integrity, verification, or foreseeability questions in a way that satisfies one component while defeating another. Nominal compliance with a disclosure or publication rule is not sufficient where foreseeable-condition analysis, methodological integrity, or honesty about limits and uncertainty remains materially deficient.
+**Joint invocation and anti-bypass.** Under [Joint invocation and satisfaction](core_05_definitions_home.md#joint-invocation-and-satisfaction), a matter within the admission scope must not be segmented into separate disclosure, publication, empirical-method, uncertainty, integrity, verification, or foreseeability questions in a way that satisfies one component while defeating another. Nominal compliance with a disclosure or publication rule is not sufficient where foreseeable-condition analysis, methodological integrity, or honesty about limits and uncertainty remains materially deficient.
 
 *Measurements (family routing):* Oversight measurement family — operative tiers on [Truth (Constitutional Constraint)](core_05defs_oversight.md#truth-constitutional-constraint) and [Epistemic Integrity](core_05defs_oversight.md#epistemic-integrity) below; progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md).
 
@@ -936,7 +936,7 @@ This nested sub-block is the joint-invocation home for **Foreseeability Diligenc
 - [Foreseeability Scope](core_05defs_oversight.md#foreseeability-scope);
 - [Reasonably Foreseeable](core_05defs_oversight.md#reasonably-foreseeable).
 
-**Joint invocation within §3.3.** Under [Joint invocation and satisfaction](core_05-05_definitions_a_independent.md#joint-invocation-and-satisfaction), foreseeability analysis must not be segmented into isolated burden, scope, scaling, diligence, failure, or reasonably-foreseeable questions in a way that satisfies one component while defeating another. Claiming unforeseeability without audit-compatible justification, or evaluating only best-case operation where adversarial, scaled, repeated, or misuse contexts are material, is non-compliant within the admission scope.
+**Joint invocation within §3.3.** Under [Joint invocation and satisfaction](core_05_definitions_home.md#joint-invocation-and-satisfaction), foreseeability analysis must not be segmented into isolated burden, scope, scaling, diligence, failure, or reasonably-foreseeable questions in a way that satisfies one component while defeating another. Claiming unforeseeability without audit-compatible justification, or evaluating only best-case operation where adversarial, scaled, repeated, or misuse contexts are material, is non-compliant within the admission scope.
 
 ##### Foreseeability Burden
 

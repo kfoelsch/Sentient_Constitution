@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Migrate Chapter Five definitions to constitutional Triad / Aims band organization.
 
-Renumbers Chapter One ?8.1ÿÿÿChapter One ?8.15 dependent clusters into band-aligned ranges, distributes ?1
+Renumbers Chapter One ?8.1ï¿½ï¿½ï¿½Chapter One ?8.15 dependent clusters into band-aligned ranges, distributes ?1
 Independent and ?2 Semi-independent content across five band files, writes the
 Chapter Five compass in Part A, and updates corpus-wide references.
 
@@ -20,7 +20,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 
-PART_A = "core_05-05_definitions_a_independent.md"
+PART_A = "core_05_definitions_home.md"
 OLD_PART_B = "core_05-05_definitions_b_semi_independent.md"
 OLD_PART_C = "core_05-05_definitions_c_dependent_clusters.md"
 
@@ -70,7 +70,7 @@ CLUSTER_TITLES: dict[str, str] = {
     "3.4": "Corpus, Authority Stack, Supremacy, and Enforceability",
     "3.5": "Labor and Economic Floor: Compensation, Organization, Safe Conditions, Leisure, and Creative Work",
     "3.6": "Forum Families and Dispute Routing",
-    "3.7": "Privacy (Informational) ÿÿÿ peer-level cluster head",
+    "3.7": "Privacy (Informational) ï¿½ï¿½ï¿½ peer-level cluster head",
     "3.8": "Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity",
     "3.9": "Standing State, Contribution, and Violation",
     "3.10": "Stewardship, Governance Discipline, and Shared-System Capacity",
@@ -160,7 +160,7 @@ CLUSTER_META: dict[str, dict[str, str]] = {
         "leg": "Continuity",
         "aim": "Continuity",
         "cross": "",
-        "continuity_note": "Constitutional **Continuity** aim ÿÿÿ survival-floor and economic continuity.",
+        "continuity_note": "Constitutional **Continuity** aim ï¿½ï¿½ï¿½ survival-floor and economic continuity.",
         "basis": "Chapter One ?8.1, Chapter One ?8.1, Chapter One ?8.1, ?12.1",
     },
     "3.13": {
@@ -168,11 +168,11 @@ CLUSTER_META: dict[str, dict[str, str]] = {
         "leg": "Continuity",
         "aim": "Continuity",
         "cross": "integrative with **Accountability** where review and correction duties apply",
-        "continuity_note": "Constitutional **Continuity** aim ÿÿÿ durable governance discipline.",
+        "continuity_note": "Constitutional **Continuity** aim ï¿½ï¿½ï¿½ durable governance discipline.",
         "basis": "Chapter One ?8.1, ?11.1, ?12.1, ?8",
     },
     "3.14": {
-        "title": "Privacy (Informational) ÿÿÿ peer-level cluster head",
+        "title": "Privacy (Informational) ï¿½ï¿½ï¿½ peer-level cluster head",
         "leg": "Continuity",
         "aim": "Flourishing",
         "cross": "integrative with **Participation** and **Oversight**",
@@ -191,7 +191,7 @@ CLUSTER_META: dict[str, dict[str, str]] = {
         "title": "Corpus, Authority Stack, Supremacy, and Enforceability",
         "leg": "Integrative",
         "aim": "Flourishing",
-        "cross": "**Oversight**, **Accountability**, and **Participation** ÿÿÿ authority stack spans all Triad legs",
+        "cross": "**Oversight**, **Accountability**, and **Participation** ï¿½ï¿½ï¿½ authority stack spans all Triad legs",
         "continuity_note": "",
         "basis": "Chapter One ?8.1, ?4, Chapter One ?6.2, ?12.3, ?10",
     },
@@ -298,7 +298,7 @@ BAND_PREAMBLES: dict[str, str] = {
     ),
     "i": (
         "This band holds **Integrative** cross-leg definitions that require simultaneous satisfaction "
-        "across Triad legs and cannot be owned cleanly by one leg alone ÿÿÿ notably the corpus authority "
+        "across Triad legs and cannot be owned cleanly by one leg alone ï¿½ï¿½ï¿½ notably the corpus authority "
         "stack, constitutional contract layer, and foundational authorization terms."
     ),
 }
@@ -306,22 +306,22 @@ BAND_PREAMBLES: dict[str, str] = {
 NEW_FILES_SPEC: dict[str, dict] = {
     "core_05defs_oversight.md": {
         "band": "o",
-        "family_title": "Oversight leg definitions (Chapter One ?8.2ÿÿÿ?3.3 clusters)",
+        "family_title": "Oversight leg definitions (Chapter One ?8.2ï¿½ï¿½ï¿½?3.3 clusters)",
         "clusters": ["3.2", "3.3"],
     },
     "core_05defs_participation.md": {
         "band": "p",
-        "family_title": "Participation leg definitions (?3.5ÿÿÿ?3.7 clusters)",
+        "family_title": "Participation leg definitions (?3.5ï¿½ï¿½ï¿½?3.7 clusters)",
         "clusters": ["3.5", "3.6", "3.7"],
     },
     "core_05defs_accountability.md": {
         "band": "a",
-        "family_title": "Accountability leg definitions (?3.8ÿÿÿChapter One ?8.11 clusters)",
+        "family_title": "Accountability leg definitions (?3.8ï¿½ï¿½ï¿½Chapter One ?8.11 clusters)",
         "clusters": ["3.8", "3.9", "3.10", "3.11"],
     },
     "core_05defs_continuity.md": {
         "band": "c",
-        "family_title": "Continuity aim definitions (Chapter One ?8.12ÿÿÿChapter One ?8.15 clusters)",
+        "family_title": "Continuity aim definitions (Chapter One ?8.12ï¿½ï¿½ï¿½Chapter One ?8.15 clusters)",
         "clusters": ["3.12", "3.13", "3.14", "3.15"],
     },
     "core_05defs_integrative.md": {
@@ -532,7 +532,7 @@ def constitutional_frame_lines(new_id: str) -> list[str]:
     if meta.get("basis"):
         lines.append(
             f"- Chapter One basis: {meta['basis']} (see "
-            "[Chapter Five compass](../core_05-05_definitions_a_independent.md#chapter-five-compass-and-definition-map) map)."
+            "[Chapter Five compass](../core_05_definitions_home.md#chapter-five-compass-and-definition-map) map)."
         )
     return lines
 
@@ -604,7 +604,7 @@ BAND_CHAIN = (
 
 def band_footer(filename: str) -> str:
     idx = BAND_CHAIN.index(filename)
-    prev_file = BAND_CHAIN[idx - 1] if idx > 0 else "core_05-05_definitions_a_independent.md"
+    prev_file = BAND_CHAIN[idx - 1] if idx > 0 else "core_05_definitions_home.md"
     next_file = "core_08-08_standing_assessment.md" if idx == len(BAND_CHAIN) - 1 else BAND_CHAIN[idx + 1]
     return (
         f"\n\n---\n\n"
@@ -698,7 +698,7 @@ def build_band_file(
         "",
         "This file is **part of the Sentient Constitution** and is **binding only together** "
         "with the other numbered `core_*` files read as one instrument. It contains "
-        f"**Chapter Five, {leg} band** ÿÿÿ Independent, Semi-independent, and Dependent cluster "
+        f"**Chapter Five, {leg} band** ï¿½ï¿½ï¿½ Independent, Semi-independent, and Dependent cluster "
         f"definitions assigned to the **{leg}** constitutional band. "
         f"Reading order and the compass live in [{PART_A}]({PART_A}#chapter-five-foundational-definitions).",
         "",
@@ -768,10 +768,10 @@ def build_band_file(
 def build_compass_section() -> str:
     band_rows = []
     ranges = {
-        "o": "Chapter One ?8.2ÿÿÿ?3.3",
-        "p": "?3.5ÿÿÿ?3.7",
-        "a": "?3.8ÿÿÿChapter One ?8.11",
-        "c": "Chapter One ?8.12ÿÿÿChapter One ?8.15",
+        "o": "Chapter One ?8.2ï¿½ï¿½ï¿½?3.3",
+        "p": "?3.5ï¿½ï¿½ï¿½?3.7",
+        "a": "?3.8ï¿½ï¿½ï¿½Chapter One ?8.11",
+        "c": "Chapter One ?8.12ï¿½ï¿½ï¿½Chapter One ?8.15",
         "i": "Chapter One ?8.16",
     }
     for band in BAND_ORDER:
@@ -910,7 +910,7 @@ def build_part_a(pre: str, meta: str, footer: str, anchor_home: dict[str, str], 
             pre_lines[i] = (
                 "This file is **part of the Sentient Constitution** and is **binding only together** "
                 "with the other numbered `core_*` files read as one instrument. It contains "
-                "**Chapter Five, Part A** ÿÿÿ reader guidance, alphabetical directory, ?3.0 meta rules, "
+                "**Chapter Five, Part A** ï¿½ï¿½ï¿½ reader guidance, alphabetical directory, ?3.0 meta rules, "
                 "and the constitutional compass."
             )
             break
@@ -934,7 +934,7 @@ def build_part_a(pre: str, meta: str, footer: str, anchor_home: dict[str, str], 
 
 
 def build_redirect_stub(old_file: str, new_file: str, note: str) -> str:
-    return f"""# Redirect ÿÿÿ retired Chapter Five file
+    return f"""# Redirect ï¿½ï¿½ï¿½ retired Chapter Five file
 
 This file is **retired** after the Chapter Five constitutional band reorganization. {note}
 

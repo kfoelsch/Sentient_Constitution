@@ -31,7 +31,7 @@ class AlignmentAuditor:
             repo_root / "core_01_c_stewardship_capacity_principles.md",
         ]
         self.ch5_files = [repo_root / name for name in (
-            "core_05-05_definitions_a_independent.md",
+            "core_05_definitions_home.md",
             "core_05defs_oversight.md",
             "core_05defs_participation.md",
             "core_05defs_accountability.md",

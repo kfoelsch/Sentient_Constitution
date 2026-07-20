@@ -19,8 +19,8 @@ if str(_TOOLS) not in sys.path:
 from corpus_paths import binding_corpus_scope  # noqa: E402
 
 CH5_OWNERS = {
-    "core_05-05_definitions_a_independent.md",
-    "core_05-05_definitions_a_independent.md",
+    "core_05_definitions_home.md",
+    "core_05_definitions_home.md",
     "core_05defs_oversight.md",
     "core_05defs_participation.md",
     "core_05defs_accountability.md",

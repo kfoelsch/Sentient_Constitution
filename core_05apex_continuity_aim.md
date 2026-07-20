@@ -7,7 +7,7 @@
 
 > The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other chapters.
 >
-> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It is the **Chapter Five** canonical O/M/A/C home and hierarchy map for the **Continuity** constitutional aim. Read the **O/M/A/C** definition first; leaf definitions for measurement families and primary-aim clusters live in the Tetrad **band files** linked from [Constitutional Aim decomposition](#continuity-aim-decomposition). Reading order and the compass live in [core_05-05_definitions_a_independent.md](core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions).
+> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It is the **Chapter Five** canonical O/M/A/C home and hierarchy map for the **Continuity** constitutional aim. Read the **O/M/A/C** definition first; leaf definitions for measurement families and primary-aim clusters live in the Tetrad **band files** linked from [Constitutional Aim decomposition](#continuity-aim-decomposition). Reading order and the compass live in [core_05_definitions_home.md](core_05_definitions_home.md#chapter-five-foundational-definitions).
 
 </details>
 
@@ -18,7 +18,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Chapter Five compass](core_05-05_definitions_a_independent.md#chapter-five-compass-and-definition-map); [Two Constitutional Aims](../core_00_preamble.md#two-constitutional-aims); principle-layer gloss at [Preamble §1](../core_00_preamble.md#continuity).
+- Upstream: [Chapter Five compass](core_05_definitions_home.md#chapter-five-compass-and-definition-map); [Two Constitutional Aims](../core_00_preamble.md#two-constitutional-aims); principle-layer gloss at [Preamble §1](../core_00_preamble.md#continuity).
 - Downstream: Principles: [Chapter One §8.1 Resilience and Self-Healing Design](core_01_a_values_principles.md#41-resilience-and-self-healing-design); [§12 Shared-System Capacity](core_01_c_stewardship_capacity_principles.md#12-shared-system-capacity); [§11.1.5 Constitutional Outcome Claims Discipline](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline); [Constitutional Aim decomposition](#continuity-aim-decomposition); Continuity band clusters **Chapter One §8.12–Chapter One §8.15** and related semi-independent topic groups in [core_05defs_continuity.md](core_05defs_continuity.md).
 - Read with: [Stewardship](core_05defs_continuity.md#stewardship-constitutional), [Ecological Integrity](core_05defs_continuity.md#ecological-integrity-constitutional), [Dependency](core_05defs_continuity.md#dependency), [Flourishing](core_05apex_flourishing_aim.md#flourishing-constitutional) (paired aim — neither may be pursued at the expense of the other), [Constitutional Tetrad](../core_00_preamble.md#constitutional-tetrad) scaled to [material stake](../core_00_preamble.md#material-stake) (legitimacy frame for this aim — not a fifth constituent), Continuity measurement family, [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md), and [definition hierarchy](doc_architecture/generated/definition_hierarchy.md).
 
@@ -31,7 +31,7 @@
   - **Depends on:** [Stewardship](core_05defs_continuity.md#stewardship-constitutional), [Self-Healing](core_05defs_continuity.md#self-healing-constitutional), [Sustainability](core_05defs_continuity.md#sustainability), [Ecological Integrity](core_05defs_continuity.md#ecological-integrity-constitutional), [Environmental Preconditions](core_05defs_continuity.md#environmental-preconditions-constitutional), [Intergenerational Responsibility](core_05defs_continuity.md#intergenerational-responsibility-constitutional), [Dependency](core_05defs_continuity.md#dependency), and [Proportionate Cross-System Support](core_05defs_continuity.md#proportionate-cross-system-support-constitutional) — the themes named in [Preamble §1](../core_00_preamble.md#continuity). Each term's detailed scope and how-to-measure rules live on its own definition; start from [Constitutional Aim decomposition](#continuity-aim-decomposition).
   - Out of scope: [Indigenous Continuity](core_05defs_continuity.md#indigenous-continuity-constitutional) unless the text expressly brings it in; the leaf-definition details, measurement tiers, and implementation mechanics owned by band files and CJS.
 <a id="continuity-aim-constitutional-m"></a>
-- M: Continuity measurement family — a link-only overview for this aim. The detailed measurement rules live on each leaf definition. Map: [Constitutional Aim decomposition](#continuity-aim-decomposition).
+- M: How to tell whether lasting capacity to repair, adapt, and stay within ecological limits is real. This line only points to the measures; the how-to-measure rules sit on each linked definition. Topic map: [Constitutional Aim decomposition](#continuity-aim-decomposition).
 <a id="continuity-aim-constitutional-a"></a>
 - A: Judge under the [Constitutional Tetrad](../core_00_preamble.md#constitutional-tetrad), scaled to [material stake](../core_00_preamble.md#material-stake). Ask whether systems keep lasting capacity to repair, adapt, face risk honestly, and stay within ecological limits — not whether today's numbers look calm. Tie claimed continuity results to the [constituent](#continuity-aim-decomposition) conditions, under Chapter Four and [Chapter One §11.1.5](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline). Read with [Stewardship Defect](core_05defs_continuity.md#stewardship-defect-constitutional), [Proxy Divergence](core_05defs_oversight.md#proxy-divergence), [Existential Risk](core_05defs_continuity.md#existential-risk), and [Cascading Failure](core_05defs_continuity.md#cascading-failure). Always read with [Flourishing](core_05apex_flourishing_aim.md#flourishing-constitutional): chasing short-term gains that hollow **participation**, **oversight**, **accountability**, or **timeliness** below what [material stake](../core_00_preamble.md#material-stake) requires fails **Continuity**, even if near-term outputs go up.
 <a id="continuity-aim-constitutional-c"></a>
@@ -43,7 +43,7 @@
 
 ### Constitutional Aim decomposition
 
-Leaf definitions under this aim inherit its scope unless they expressly narrow or widen it. Full topic map: [Chapter Five compass](core_05-05_definitions_a_independent.md#chapter-five-compass-and-definition-map).
+Leaf definitions under this aim inherit its scope unless they expressly narrow or widen it. Full topic map: [Chapter Five compass](core_05_definitions_home.md#chapter-five-compass-and-definition-map).
 
 **Thematic constituents** (named in [Preamble §1](../core_00_preamble.md#continuity) — long-horizon stability, sustainability, resilience, and ecological wellbeing) — definition home and joint-invocation cluster:
 

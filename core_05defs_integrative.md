@@ -5,7 +5,7 @@
 
 > The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other chapters.
 >
-> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter Five, Integrative band** — Independent, Semi-independent, and Dependent cluster definitions assigned to the **Integrative** constitutional band. Reading order and the compass live in [core_05-05_definitions_a_independent.md](core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions).
+> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter Five, Integrative band** — Independent, Semi-independent, and Dependent cluster definitions assigned to the **Integrative** constitutional band. Reading order and the compass live in [core_05_definitions_home.md](core_05_definitions_home.md#chapter-five-foundational-definitions).
 
 </details>
 
@@ -18,7 +18,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Chapter Five compass](core_05-05_definitions_a_independent.md#chapter-five-compass-and-definition-map); [Constitutional Tetrad](../core_00_preamble.md#constitutional-tetrad); [Two Constitutional Aims](../core_00_preamble.md#two-constitutional-aims).
+- Upstream: [Chapter Five compass](core_05_definitions_home.md#chapter-five-compass-and-definition-map); [Constitutional Tetrad](../core_00_preamble.md#constitutional-tetrad); [Two Constitutional Aims](../core_00_preamble.md#two-constitutional-aims).
 - Downstream: Integrative-band canonical definition homes for Chapter Five.
 - Read with: **Integrative** band definitions; mandatory cluster read-with where admission scope applies.
 
@@ -298,7 +298,7 @@ This band holds **Integrative** cross-leg definitions that require simultaneous 
 
 - Constitutional frame: **Integrative** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](core_05defs_oversight.md#materiality-determination).
 - Cross-leg note: **Oversight**, **Accountability**, and **Participation** — authority stack spans all Tetrad legs.
-- Chapter One basis: Chapter One §8.1, §4, Chapter One §6.2, §12.2, §10 (see [Chapter Five compass](../core_05-05_definitions_a_independent.md#chapter-five-compass-and-definition-map) map).
+- Chapter One basis: Chapter One §8.1, §4, Chapter One §6.2, §12.2, §10 (see [Chapter Five compass](../core_05_definitions_home.md#chapter-five-compass-and-definition-map) map).
 - Read with: Apply [Auditability](core_05defs_oversight.md#auditability), [Contestability](core_05defs_accountability.md#contestability), [Truth (Constitutional Constraint)](core_05defs_oversight.md#truth-constitutional-constraint), [Materiality Determination](core_05defs_oversight.md#materiality-determination), and Chapter Thirteen / Chapter Fifteen mechanics where materially implicated.
 
 </details>
@@ -317,7 +317,7 @@ This cluster is the joint-invocation home for operative corpus identity, authori
 - [Supremacy and Enforceability](core_05defs_integrative.md#supremacy-and-enforceability);
 - [Constitutional Constraint Violation](core_05defs_integrative.md#constitutional-constraint-violation), where materially implicated in supremacy or custody disputes.
 
-**Joint invocation and anti-bypass.** Under [Joint invocation and satisfaction](core_05-05_definitions_a_independent.md#joint-invocation-and-satisfaction), a matter within the admission scope must not be segmented into separate labeling, process-artifact, edition-display, or interpretive-gloss questions in a way that treats non-binding material as operative corpus or inverts supremacy ordering without a valid adoption path.
+**Joint invocation and anti-bypass.** Under [Joint invocation and satisfaction](core_05_definitions_home.md#joint-invocation-and-satisfaction), a matter within the admission scope must not be segmented into separate labeling, process-artifact, edition-display, or interpretive-gloss questions in a way that treats non-binding material as operative corpus or inverts supremacy ordering without a valid adoption path.
 
 ---
 

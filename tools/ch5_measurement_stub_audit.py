@@ -42,7 +42,7 @@ STUB = re.compile(
 )
 GUIDEPOST = re.compile(r"^- \*\*How to measure and assess\*\*", re.MULTILINE)
 
-SCAN_FILES = tuple(f for f in CH5_ALL if f != "core_05-05_definitions_a_independent.md")
+SCAN_FILES = tuple(f for f in CH5_ALL if f != "core_05_definitions_home.md")
 
 
 def parse_args() -> argparse.Namespace:

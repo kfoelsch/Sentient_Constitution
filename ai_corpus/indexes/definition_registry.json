@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/definition_registry.schema.json",
-  "generated_at": "2026-07-20T15:18:34+00:00",
+  "generated_at": "2026-07-20T16:47:31+00:00",
   "source": "authoritative Chapter Five core files and Chapter One principle-layer anchors (preamble + Part A)",
   "definition_count": 225,
   "definitions": [
@@ -110,7 +110,7 @@
       "source_file": "core_05defs_accountability.md",
       "anchor": "#autonomous-coercion-tool-constitutional",
       "line_start": 2078,
-      "line_end": 2118,
+      "line_end": 2119,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "3.11 Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm",
@@ -545,7 +545,7 @@
       "source_file": "core_05defs_accountability.md",
       "anchor": "#due-process-constitutional",
       "line_start": 492,
-      "line_end": 520,
+      "line_end": 528,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -1544,7 +1544,7 @@
       "source_file": "core_05defs_oversight.md",
       "anchor": "#reasonably-foreseeable",
       "line_start": 1009,
-      "line_end": 1026,
+      "line_end": 1027,
       "category": "dependent_cluster",
       "cluster_membership": null
     },
@@ -2326,7 +2326,7 @@
       "source_file": "core_05defs_participation.md",
       "anchor": "#volitional-integrity",
       "line_start": 1893,
-      "line_end": 1921,
+      "line_end": 1922,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "3.7 Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity",

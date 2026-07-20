@@ -212,4 +212,4 @@ Readers must not treat:
 
 **Previous file:** [core_02-03_definition_mechanics.md](core_02-03_definition_mechanics.md)
 
-**Next file:** [core_05-05_definitions_a_independent.md](core_05-05_definitions_a_independent.md)
+**Next file:** [core_05_definitions_home.md](core_05_definitions_home.md)

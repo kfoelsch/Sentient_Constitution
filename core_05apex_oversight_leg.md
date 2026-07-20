@@ -7,7 +7,7 @@
 
 > The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other chapters.
 >
-> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It is the **Chapter Five** canonical O/M/A/C home and hierarchy map for the **Oversight** Tetrad leg. Read the **O/M/A/C** definition first; leaf definitions for measurement families and Oversight-band clusters live in [core_05defs_oversight.md](core_05defs_oversight.md). Reading order and the compass live in [core_05-05_definitions_a_independent.md](core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions).
+> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It is the **Chapter Five** canonical O/M/A/C home and hierarchy map for the **Oversight** Tetrad leg. Read the **O/M/A/C** definition first; leaf definitions for measurement families and Oversight-band clusters live in [core_05defs_oversight.md](core_05defs_oversight.md). Reading order and the compass live in [core_05_definitions_home.md](core_05_definitions_home.md#chapter-five-foundational-definitions).
 
 </details>
 
@@ -18,7 +18,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Chapter Five compass](core_05-05_definitions_a_independent.md#chapter-five-compass-and-definition-map); [Constitutional Tetrad](../core_00_preamble.md#constitutional-tetrad) (oversight leg; [material stake](../core_00_preamble.md#material-stake) scaling); [Two Constitutional Aims](../core_00_preamble.md#two-constitutional-aims); primary aim [Flourishing](../core_00_preamble.md#flourishing).
+- Upstream: [Chapter Five compass](core_05_definitions_home.md#chapter-five-compass-and-definition-map); [Constitutional Tetrad](../core_00_preamble.md#constitutional-tetrad) (oversight leg; [material stake](../core_00_preamble.md#material-stake) scaling); [Two Constitutional Aims](../core_00_preamble.md#two-constitutional-aims); primary aim [Flourishing](../core_00_preamble.md#flourishing).
 - Downstream: Principles: [§10 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline); [Tetrad Leg decomposition](#oversight-tetrad-leg-decomposition); Oversight-band leaf definitions in [core_05defs_oversight.md](core_05defs_oversight.md).
 - Cluster component: [Governance Architecture, Oversight, Dependency, Decentralization, Concentration, Market Structure, and Exit-Path Integrity](core_05defs_accountability.md#governance-architecture-oversight-decentralization-and-concentration-cluster).
 - Read with: [Chapter Five Chapter One §8.23 *Material Impact, Materiality Determination, Classification-Scaled Governance, Oversight, and Capability Requirement*](core_05defs_oversight.md#materiality-semi-independent), [Accountability](core_05apex_accountability_leg.md#accountability), [Contestability](core_05defs_accountability.md#contestability), [Transparency](core_05defs_oversight.md#transparency), [Auditability](core_05defs_oversight.md#auditability), [System Capture](core_05defs_continuity.md#system-capture), and Oversight measurement family.
@@ -32,7 +32,7 @@
   - **Depends on:** [Material Impact](core_05defs_oversight.md#material-impact), [Dependency](core_05defs_continuity.md#dependency), [Risk](core_05defs_continuity.md#risk), [Transparency](core_05defs_oversight.md#transparency), and [Auditability](core_05defs_oversight.md#auditability) — the conditions and channels this leg needs in order to work. Each term's detailed scope and how-to-measure rules live on its own definition; start from [Tetrad Leg decomposition](#oversight-tetrad-leg-decomposition).
   - Out of scope: labels or ceremonies that do not actually change the governed behavior; the leaf-definition details, measurement tiers, and implementation mechanics owned by leaf entries and CJS.
 <a id="oversight-constitutional-m"></a>
-- M: Oversight measurement family — a link-only overview for this Tetrad leg. The detailed measurement rules live on each leaf definition. Map: [Tetrad Leg decomposition](#oversight-tetrad-leg-decomposition). Progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md).
+- M: How to tell whether systems can be watched, checked, and kept within bounds. This line only points to the measures; the how-to-measure rules sit on each linked definition. Topic map: [Tetrad Leg decomposition](#oversight-tetrad-leg-decomposition). Rollout status: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md).
 <a id="oversight-constitutional-a"></a>
 - A: Judge under the [Constitutional Tetrad](../core_00_preamble.md#constitutional-tetrad), scaled to [material stake](../core_00_preamble.md#material-stake). Ask whether oversight is real — able to see problems and change outcomes — not just ceremony. Read with [Auditability](core_05defs_oversight.md#auditability), [Contestability](core_05defs_accountability.md#contestability), [Transparency](core_05defs_oversight.md#transparency), and [Classification-Scaled Governance](core_05defs_oversight.md#classification-scaled-governance).
 <a id="oversight-constitutional-c"></a>
@@ -45,7 +45,7 @@
 
 ### Tetrad Leg decomposition
 
-Leaf definitions under this leg inherit its scope unless they expressly narrow or widen it. Full topic map: [Chapter Five compass](core_05-05_definitions_a_independent.md#chapter-five-compass-and-definition-map).
+Leaf definitions under this leg inherit its scope unless they expressly narrow or widen it. Full topic map: [Chapter Five compass](core_05_definitions_home.md#chapter-five-compass-and-definition-map).
 
 **Dependent clusters** (Chapter One §8.2–§3.3) — joint-invocation homes:
 

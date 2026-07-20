@@ -41,7 +41,7 @@ The older per-definition JSON files under `ai_corpus/definitions/` are retained 
 | `core_00_preamble.md`, `core_01_a_values_principles.md`, and `core_01_b_stewardship_capacity_principles.md` | ~1,400 | Core | Preamble, Chapter 1 (values, constraints) |
 | `core_02-03_definition_mechanics.md` | ~310 | Core | Chapters 2-3 (O/M/A/C structure, integrity) |
 | `core_04-04_burden_traceability_verification.md` | ~340 | Core | Chapter 4 (burden, traceability, verification) |
-| `core_05-05_definitions_a_independent.md` | ~1,300 | Core | Chapter 5 §1 (independent definitions A-Z) |
+| `core_05_definitions_home.md` | ~1,300 | Core | Chapter 5 §1 (independent definitions A-Z) |
 | `core_05-05_definitions_b_semi_independent.md` | ~1,900 | Core | Chapter 5 §2 (semi-independent definitions) |
 | `core_05-05_definitions_c_dependent_clusters.md` | ~1,800 | Core | Chapter 5 §3 (dependent clusters) |
 | `core_08-08_standing_assessment.md` | ~880 | Core | Chapter 6 Part A (two-axis model) |
@@ -160,7 +160,7 @@ Directed graph of file-to-file Markdown references:
 {
   "source": "core_06-06_rights_part_c.md",
   "targets": [
-    {"file": "core_05-05_definitions_a_independent.md", "count": 15, "anchors": [...]},
+    {"file": "core_05_definitions_home.md", "count": 15, "anchors": [...]},
     {"file": "corpus_systems.md", "count": 8, "anchors": [...]}
   ]
 }
@@ -188,7 +188,7 @@ Mermaid diagram showing:
 Scenario: Update "Proportionality" definition
 
 Current (expensive):
-1. Read entire core_05-05_definitions_a_independent.md (~1,300 lines)
+1. Read entire core_05_definitions_home.md (~1,300 lines)
 2. Edit definition
 3. Search all files for references to update
 
@@ -318,7 +318,7 @@ Optimized pattern:
 
 **Current approach (~1,400 tokens):**
 ```
-Read core_05-05_definitions_a_independent.md (full file)
+Read core_05_definitions_home.md (full file)
 Search for "Proportionality" references across all files
 Read each referencing file section
 ```
@@ -326,7 +326,7 @@ Read each referencing file section
 **Optimized approach (~150 tokens):**
 ```
 Query: `ai_corpus/indexes/definition_registry.json` for "Proportionality"
-Result: {file: "core_05-05_definitions_a_independent.md", lines: [1100-1150]}
+Result: {file: "core_05_definitions_home.md", lines: [1100-1150]}
 Read lines 1100-1150 only (~50 lines)
 Query: `ai_corpus/indexes/crossref_matrix.json` references to "Proportionality"
 Result: [3 files, 5 sections]

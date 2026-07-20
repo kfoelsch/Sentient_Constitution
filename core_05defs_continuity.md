@@ -5,7 +5,7 @@
 
 > The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other chapters.
 >
-> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter Five, Continuity band** — Independent, Semi-independent, and Dependent cluster definitions assigned to the **Continuity** constitutional band. Reading order and the compass live in [core_05-05_definitions_a_independent.md](core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions).
+> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter Five, Continuity band** — Independent, Semi-independent, and Dependent cluster definitions assigned to the **Continuity** constitutional band. Reading order and the compass live in [core_05_definitions_home.md](core_05_definitions_home.md#chapter-five-foundational-definitions).
 
 </details>
 
@@ -18,7 +18,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Chapter Five compass](core_05-05_definitions_a_independent.md#chapter-five-compass-and-definition-map); [Constitutional Tetrad](../core_00_preamble.md#constitutional-tetrad); [Two Constitutional Aims](../core_00_preamble.md#two-constitutional-aims).
+- Upstream: [Chapter Five compass](core_05_definitions_home.md#chapter-five-compass-and-definition-map); [Constitutional Tetrad](../core_00_preamble.md#constitutional-tetrad); [Two Constitutional Aims](../core_00_preamble.md#two-constitutional-aims).
 - Downstream: Continuity-band canonical definition homes for Chapter Five.
 - Read with: **Continuity** band definitions; mandatory cluster read-with where admission scope applies.
 
@@ -1432,7 +1432,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 - Constitutional frame: **Continuity** leg; **Continuity** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](core_05defs_oversight.md#materiality-determination).
 - Continuity disambiguation: Constitutional **Continuity** aim — survival-floor and economic continuity.
 - Flourishing measurement: serves Flourishing measurement family **survival-floor access** family under the [Constitutional Aim decomposition](core_05apex_flourishing_aim.md#flourishing-aim-decomposition); **Continuity** aim remains primary for long-horizon economic and survival-floor continuity.
-- Chapter One basis: Chapter One §8.1, Chapter One §8.1, Chapter One §8.1, §12.1 (see [Chapter Five compass](../core_05-05_definitions_a_independent.md#chapter-five-compass-and-definition-map) map).
+- Chapter One basis: Chapter One §8.1, Chapter One §8.1, Chapter One §8.1, §12.1 (see [Chapter Five compass](../core_05_definitions_home.md#chapter-five-compass-and-definition-map) map).
 - Read with: Apply [Collective Organization](core_05defs_participation.md#collective-organization-constitutional), [Productive Capacity](core_05defs_continuity.md#productive-capacity-constitutional), [Privacy (Informational) — peer-level cluster head](core_05defs_accountability.md#privacy-informational-cluster), [Consent](core_05defs_participation.md#consent-constitutional), [Truth (Constitutional Constraint)](core_05defs_oversight.md#truth-constitutional-constraint), [Good Faith](core_05defs_accountability.md#good-faith), [Meaningful Agency](core_05defs_participation.md#meaningful-agency), [Innovation Reward and Anti-Enclosure](core_05defs_integrative.md#innovation-reward-and-anti-enclosure), and [Sentience Non-Exclusion](core_05defs_participation.md#sentience-non-exclusion) where materially implicated.
 
 </details>
@@ -1463,7 +1463,7 @@ Outside that admission scope, component definitions may operate as supporting In
 - [Training-Data Use](core_05defs_continuity.md#training-data-use-constitutional);
 - [Anti-Displacement Floor](core_05defs_continuity.md#anti-displacement-floor-constitutional).
 
-**Joint invocation and anti-bypass.** Under [Joint invocation and satisfaction](core_05-05_definitions_a_independent.md#joint-invocation-and-satisfaction), a matter within the admission scope must not be segmented into separate compensation, organization, safety, rest, privacy, consent, attribution, displacement, or innovation-reward issues in a way that satisfies one component while defeating materially interdependent duties under **Article III-D** (*Labor and Economic Floor*) and **Article VIII-D** (*Creative Work, Training-Data Use, and Anti-Displacement*).
+**Joint invocation and anti-bypass.** Under [Joint invocation and satisfaction](core_05_definitions_home.md#joint-invocation-and-satisfaction), a matter within the admission scope must not be segmented into separate compensation, organization, safety, rest, privacy, consent, attribution, displacement, or innovation-reward issues in a way that satisfies one component while defeating materially interdependent duties under **Article III-D** (*Labor and Economic Floor*) and **Article VIII-D** (*Creative Work, Training-Data Use, and Anti-Displacement*).
 
 ---
 
@@ -1682,7 +1682,7 @@ Outside that admission scope, component definitions may operate as supporting In
 - Constitutional frame: **Continuity** leg; **Continuity** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](core_05defs_oversight.md#materiality-determination).
 - Cross-leg note: integrative with **Accountability** where review and correction duties apply.
 - Continuity disambiguation: Constitutional **Continuity** aim — durable governance discipline.
-- Chapter One basis: Chapter One §8.1, §11.1, §12.1, §8 (see [Chapter Five compass](../core_05-05_definitions_a_independent.md#chapter-five-compass-and-definition-map) map).
+- Chapter One basis: Chapter One §8.1, §11.1, §12.1, §8 (see [Chapter Five compass](../core_05_definitions_home.md#chapter-five-compass-and-definition-map) map).
 - Read with: Apply [Governance](core_05defs_accountability.md#governance), [Shared-System Capacity](core_05defs_continuity.md#shared-system-capacity-constitutional), [Productive Capacity](core_05defs_continuity.md#productive-capacity-constitutional), [Constitutional Efficiency](core_05defs_continuity.md#constitutional-efficiency), [Proxy Divergence](core_05defs_oversight.md#proxy-divergence), [System Capture](core_05defs_continuity.md#system-capture), [Incentive Alignment](core_05defs_integrative.md#incentive-alignment), [Existential Risk](core_05defs_continuity.md#existential-risk), [Safety (Constraint)](core_05defs_continuity.md#safety-constraint), [Risk](core_05defs_continuity.md#risk), [Foreseeability Diligence](core_05defs_oversight.md#foreseeability-diligence), [Materiality Determination](core_05defs_oversight.md#materiality-determination), [Accountability](core_05apex_accountability_leg.md#accountability), [Concentration Threshold](core_05defs_accountability.md#concentration-threshold-constitutional), and [Proportionality, Necessity, Feasibility, Avoidable Burden, Burden-Reduction Duty, Constitutional Efficiency, Harm Minimization (Tradeoff Selection), and Productive Capacity](core_05defs_continuity.md#proportionality-necessity-feasibility-burden-and-efficiency-cluster) where materially implicated.
 
 </details>
@@ -1703,7 +1703,7 @@ This cluster is the joint-invocation home for principle-layer stewardship orient
 - [Stewardship Defect](core_05defs_continuity.md#stewardship-defect-constitutional);
 - [Review and Correction Duty](core_05defs_continuity.md#review-and-correction-duty-constitutional).
 
-**Joint invocation and anti-bypass.** Under [Joint invocation and satisfaction](core_05-05_definitions_a_independent.md#joint-invocation-and-satisfaction), a matter within the admission scope must not be segmented into separate governance-form, capacity-metric, disclosure-summary, CSR-narrative, compliance-artifact, or short-horizon efficiency or incentive questions in a way that satisfies nominal procedure, masks stewardship defects, or defeats stewardship discipline, distributed understanding, or durable constitutional alignment.
+**Joint invocation and anti-bypass.** Under [Joint invocation and satisfaction](core_05_definitions_home.md#joint-invocation-and-satisfaction), a matter within the admission scope must not be segmented into separate governance-form, capacity-metric, disclosure-summary, CSR-narrative, compliance-artifact, or short-horizon efficiency or incentive questions in a way that satisfies nominal procedure, masks stewardship defects, or defeats stewardship discipline, distributed understanding, or durable constitutional alignment.
 
 <a id="stewardship-constitutional"></a>
 
@@ -1716,7 +1716,7 @@ This cluster is the joint-invocation home for principle-layer stewardship orient
 - Downstream: Principles: [§9 Stewardship and Distributed Understanding](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding); [§10 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline).
 - Cluster component: [Stewardship, Governance Discipline, and Shared-System Capacity](core_05defs_continuity.md#stewardship-governance-discipline-and-shared-system-capacity-cluster).
 - Read with: [Chapter One Part C](core_01_c_stewardship_capacity_principles.md#chapter-01-part-c-stewardship-and-governance) §§9–15; [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — **Continuity** aim (*cluster read-with principles*).
-- Read with: [Governance](core_05defs_accountability.md#governance), [Shared-System Capacity](core_05defs_continuity.md#shared-system-capacity-constitutional), [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — **Continuity** aim, [Ecological Integrity](core_05defs_continuity.md#ecological-integrity-constitutional), and [Timeliness](core_05apex_accountability_leg.md#timeliness-constitutional).
+- Read with: [Governance](core_05defs_accountability.md#governance), [Shared-System Capacity](core_05defs_continuity.md#shared-system-capacity-constitutional), [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — **Continuity** aim, [Ecological Integrity](core_05defs_continuity.md#ecological-integrity-constitutional), and [Timeliness](core_05apex_timeliness_leg.md#timeliness-constitutional).
 
 </details>
 
@@ -1729,7 +1729,7 @@ This cluster is the joint-invocation home for principle-layer stewardship orient
 - **How to measure and assess**
   - **Primary measure:** Continuity measurement family and Constitutional Performance measurement family — supporting measure where multiple measurement families co-apply.
 
-    **Primary assessment:** Distinguish from governance form, documentation, consultation theater, or single-metric optimization. Assess foresight, correction, participation pathways, incentive design, and repair velocity across delayed, cumulative, systemic, and intergenerational effects. Read with [Strategic Stewardship Obligation](core_05defs_continuity.md#strategic-stewardship-obligation-constitutional) and [Timeliness](core_05apex_accountability_leg.md#timeliness-constitutional) for operative duty on stewards and operators with material influence.
+    **Primary assessment:** Distinguish from governance form, documentation, consultation theater, or single-metric optimization. Assess foresight, correction, participation pathways, incentive design, and repair velocity across delayed, cumulative, systemic, and intergenerational effects. Read with [Strategic Stewardship Obligation](core_05defs_continuity.md#strategic-stewardship-obligation-constitutional) and [Timeliness](core_05apex_timeliness_leg.md#timeliness-constitutional) for operative duty on stewards and operators with material influence.
 <a id="stewardship-constitutional-c"></a>
 - **What must hold**
   - long-horizon duties treated as optional; subordinated to short-horizon convenience or metric gaming without [Necessity](core_05defs_accountability.md#necessity) and [Proportionality](core_05defs_accountability.md#proportionality); deferred repair after misalignment is reasonably foreseeable; or masked by non-functional stewardship posture after misalignment is reasonably foreseeable.
@@ -1862,7 +1862,7 @@ This cluster is the joint-invocation home for principle-layer stewardship orient
 - Downstream: Principles: [§11.1.3 Stewardship and Operator Application](core_01_c_stewardship_capacity_principles.md#1113-stewardship-and-operator-application); [Chapter Seven §3 Whole-System Certification Evaluation](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (periodic revalidation / misalignment detection).
 - Owner floor: [Chapter Twelve §3](core_12-12_governance.md#3-strategy-stewardship-direction-and-ecosystem-value-non-corporate).
 - Cluster component: [Stewardship, Governance Discipline, and Shared-System Capacity](core_05defs_continuity.md#stewardship-governance-discipline-and-shared-system-capacity-cluster); [the dependent cluster *Adjudication and Dispute Resolution, Redress and Remediation, Restorative Justice, Review and Correction Duty, and Refuge from Non-Compliance*](core_05defs_accountability.md#accountability-contestability-semi-independent).
-- Read with: [Material Impact](core_05defs_oversight.md#material-impact), [Proxy Divergence](core_05defs_oversight.md#proxy-divergence), [System Capture](core_05defs_continuity.md#system-capture), [Auditability](core_05defs_oversight.md#auditability), [Timeliness](core_05apex_accountability_leg.md#timeliness-constitutional), and Chapters Two through Four (tracing, observability, verification) as referenced in [Chapter Twelve §3](core_12-12_governance.md#3-strategy-stewardship-direction-and-ecosystem-value-non-corporate).
+- Read with: [Material Impact](core_05defs_oversight.md#material-impact), [Proxy Divergence](core_05defs_oversight.md#proxy-divergence), [System Capture](core_05defs_continuity.md#system-capture), [Auditability](core_05defs_oversight.md#auditability), [Timeliness](core_05apex_timeliness_leg.md#timeliness-constitutional), and Chapters Two through Four (tracing, observability, verification) as referenced in [Chapter Twelve §3](core_12-12_governance.md#3-strategy-stewardship-direction-and-ecosystem-value-non-corporate).
 
 </details>
 
@@ -1875,7 +1875,7 @@ This cluster is the joint-invocation home for principle-layer stewardship orient
 - **How to measure and assess**
   - **Primary measure:** Continuity measurement family and Constitutional Performance measurement family — supporting measure where multiple measurement families co-apply.
 
-    **Primary assessment:** Apply [Materiality Determination](core_05defs_oversight.md#materiality-determination) and evidence-of-misalignment tests consistent with [Contestability](core_05defs_accountability.md#contestability), [Timeliness](core_05apex_accountability_leg.md#timeliness-constitutional), and Chapter Eight **contribution** **inputs** where stewardship claims are material to classification or standing.
+    **Primary assessment:** Apply [Materiality Determination](core_05defs_oversight.md#materiality-determination) and evidence-of-misalignment tests consistent with [Contestability](core_05defs_accountability.md#contestability), [Timeliness](core_05apex_timeliness_leg.md#timeliness-constitutional), and Chapter Eight **contribution** **inputs** where stewardship claims are material to classification or standing.
 <a id="review-and-correction-duty-constitutional-c"></a>
 - **What must hold**
   - maintaining published strategy or stewardship claims without periodic revalidation where observability is practicable; refusing revision when outcomes materially contradict stated constitutional alignment; or deferring correction beyond tier-appropriate windows without documented necessity.
@@ -1897,12 +1897,12 @@ This cluster is the joint-invocation home for principle-layer stewardship orient
 
 - Constitutional frame: **Continuity** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](core_05defs_oversight.md#materiality-determination).
 - Cross-leg note: integrative with **Participation** and **Oversight**.
-- Chapter One basis: Chapter One §8.2, §4, §12.1, §12.2 (see [Chapter Five compass](../core_05-05_definitions_a_independent.md#chapter-five-compass-and-definition-map) map).
+- Chapter One basis: Chapter One §8.2, §4, §12.1, §12.2 (see [Chapter Five compass](../core_05_definitions_home.md#chapter-five-compass-and-definition-map) map).
 </details>
 
 <br>
 
-This cluster is the canonical O/M/A/C home for **Privacy (Informational)**, **Protected Internal-State Boundary**, and **Surveillance Boundary**, and the peer-level joint-invocation home for distributed privacy coverage across Chapter Six articles, carried here as a dependent cluster under [Joint invocation and satisfaction](core_05-05_definitions_a_independent.md#joint-invocation-and-satisfaction).
+This cluster is the canonical O/M/A/C home for **Privacy (Informational)**, **Protected Internal-State Boundary**, and **Surveillance Boundary**, and the peer-level joint-invocation home for distributed privacy coverage across Chapter Six articles, carried here as a dependent cluster under [Joint invocation and satisfaction](core_05_definitions_home.md#joint-invocation-and-satisfaction).
 
 Operational handling of data under this cluster must align with **[corpus_systems.md](corpus_systems.md), CS-3 — Information types and handling**, including Type N protections for internal-state data and proportional safeguards for all classified data types.
 
@@ -1919,7 +1919,7 @@ Operational handling of data under this cluster must align with **[corpus_system
 - [Article IX-A](core_06-06_rights_part_b.md#article-ix-a-agency-and-freedom-from-manipulation) (*Agency and Freedom from Manipulation*);
 - [Article XIII-A](core_06-06_rights_part_c.md#article-xiii-a-security-intelligence-and-covert-power-limits) (*Security, Intelligence, and Covert-Power Limits*).
 
-**Joint invocation and anti-bypass.** Under [Joint invocation and satisfaction](core_05-05_definitions_a_independent.md#joint-invocation-and-satisfaction), privacy matters within admission scope must not be segmented across articles or definitions in a way that satisfies one article's standard while evading another's materially implicated discipline, or that isolates privacy analysis from internal-state-boundary or surveillance-boundary assessment where those protections materially intersect. Anti-read-across for standard-setting remains as stated in Chapter Five Chapter One §8.3.
+**Joint invocation and anti-bypass.** Under [Joint invocation and satisfaction](core_05_definitions_home.md#joint-invocation-and-satisfaction), privacy matters within admission scope must not be segmented across articles or definitions in a way that satisfies one article's standard while evading another's materially implicated discipline, or that isolates privacy analysis from internal-state-boundary or surveillance-boundary assessment where those protections materially intersect. Anti-read-across for standard-setting remains as stated in Chapter Five Chapter One §8.3.
 
 *Measurements (family routing):* Participation measurement family — operative tiers on leaf primaries below; progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md).
 
@@ -1997,7 +1997,7 @@ Operational handling of data under this cluster must align with **[corpus_system
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Constitutional frame: **Continuity** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](core_05defs_oversight.md#materiality-determination).
-- Chapter One basis: §5, §12.1, §8 (see [Chapter Five compass](../core_05-05_definitions_a_independent.md#chapter-five-compass-and-definition-map) map).
+- Chapter One basis: §5, §12.1, §8 (see [Chapter Five compass](../core_05_definitions_home.md#chapter-five-compass-and-definition-map) map).
 - Read with: Apply [Transparency](core_05defs_oversight.md#transparency), [Auditability](core_05defs_oversight.md#auditability), [Accountability](core_05apex_accountability_leg.md#accountability), [Epistemic Integrity](core_05defs_oversight.md#epistemic-integrity), [Incentive Alignment](core_05defs_integrative.md#incentive-alignment), [Dependency](core_05defs_continuity.md#dependency), [Verification Accessibility](#verification-accessibility), and [Psychological Harm](core_05defs_accountability.md#psychological-harm) where materially implicated.
 
 </details>
@@ -2015,7 +2015,7 @@ This cluster is the canonical O/M/A/C home for **Trust**, **Trustworthiness**, a
 - [Trustworthiness](core_05defs_continuity.md#trustworthiness);
 - [Trust Degradation and Misleading Reliance](core_05defs_continuity.md#trust-degradation-and-misleading-reliance).
 
-**Joint invocation and anti-bypass.** Under [Joint invocation and satisfaction](core_05-05_definitions_a_independent.md#joint-invocation-and-satisfaction), a matter within the admission scope must not be segmented into separate trust-only or trustworthiness-only frames in a way that treats reliance as justified without the joint observable-and-verifiable evidence discipline both entries require, or that satisfies one assessment subcomponent of [Trustworthiness](core_05defs_continuity.md#trustworthiness) while bypassing another where materially relevant (Chapter Five [Joint invocation and satisfaction](core_05-05_definitions_a_independent.md#joint-invocation-and-satisfaction) and Chapter Three §§1–2).
+**Joint invocation and anti-bypass.** Under [Joint invocation and satisfaction](core_05_definitions_home.md#joint-invocation-and-satisfaction), a matter within the admission scope must not be segmented into separate trust-only or trustworthiness-only frames in a way that treats reliance as justified without the joint observable-and-verifiable evidence discipline both entries require, or that satisfies one assessment subcomponent of [Trustworthiness](core_05defs_continuity.md#trustworthiness) while bypassing another where materially relevant (Chapter Five [Joint invocation and satisfaction](core_05_definitions_home.md#joint-invocation-and-satisfaction) and Chapter Three §§1–2).
 
 ---
 
@@ -2127,7 +2127,7 @@ This cluster is the canonical O/M/A/C home for **Trust**, **Trustworthiness**, a
 
 <a id="trust-degradation-and-misleading-reliance-c"></a>
 - **C:** Non-compliant:
-  - Cherry-picking one member definition to bypass another within admission scope ([Chapter Five joint invocation and satisfaction](core_05-05_definitions_a_independent.md#joint-invocation-and-satisfaction); Chapter Three §§1–2);
+  - Cherry-picking one member definition to bypass another within admission scope ([Chapter Five joint invocation and satisfaction](core_05_definitions_home.md#joint-invocation-and-satisfaction); Chapter Three §§1–2);
   - Isolated formal compliance with disclosure or audit artifacts that defeats substantively informed understanding, independent verification, or effective challenge;
   - Cross-implementation signals appearing conforming while material obligations that jointly sustain a trust claim remain unmet for the same structural outcome (read `corpus_joint_structure.md` CJS-3.2 (*No false partial compliance across implementation files*) and CJS-4.3 (*Cross-implementation trust integrity (joint operation model)*));
   - Treating trust-erosion patterns as non-material where Materiality-family definitions require treating them as material, or splitting evaluation so no member definition captures the full functional wrong.

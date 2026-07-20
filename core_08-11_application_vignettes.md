@@ -198,7 +198,7 @@ Arbitration clauses, shell subcontractors, years of “market efficiency” defe
 | Stage | Application |
 | --- | --- |
 | Tetrad hollow | **Timeliness** leg hollowed independently — participation and oversight structures exist but material matters do not move |
-| Definitions | [Timeliness](core_05apex_accountability_leg.md#timeliness-constitutional); [Capture of Resolution Pathways](core_05defs_accountability.md#capture-of-resolution-pathways) |
+| Definitions | [Timeliness](core_05apex_timeliness_leg.md#timeliness-constitutional); [Capture of Resolution Pathways](core_05defs_accountability.md#capture-of-resolution-pathways) |
 | High-impact designation guard | If verified impact reaches Chapter Eight slot 7, 8, or 9 and conduct scales to institutional capture, [Chapter Ten](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct) **tetrad capture** designation review; Chapter Ten does not assign the numeric slot |
 
 **Must not happen:** Using allegations as verified standing inputs to buy time; backlog treated as neutral operations metric.
@@ -213,7 +213,7 @@ Arbitration clauses, shell subcontractors, years of “market efficiency” defe
 | No offset across axes | [Chapter Eight §2.2](core_08-08_standing_assessment.md#22-linked-records-and-no-offset-bridge) |
 | One scale, separate records | [Chapter Eight §7 unified scale](core_08-08_standing_assessment.md#7-unified-proportional-lequ-scale) — shared five-times LEQU bands; Violation slots controlled only by verified impact |
 | Forums may open, update, or correct records — filed case ≠ standing | [Chapter Eight §3.6](core_08-08_standing_assessment.md#36-forum-boundary) |
-| Tetrad timeliness leg | [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad); [Timeliness](core_05apex_accountability_leg.md#timeliness-constitutional) |
+| Tetrad timeliness leg | [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad); [Timeliness](core_05apex_timeliness_leg.md#timeliness-constitutional) |
 | Timely + efficient + just together | [Article XXIV-C](core_06-06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*) |
 | Numeric tier floors | [CF-11.3.1](corpus_forum/cf_11_performance_backlog_publication_accessibility.md#cf-1131-target-windows-and-timing-floors) |
 

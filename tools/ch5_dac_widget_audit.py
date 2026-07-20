@@ -8,7 +8,7 @@ running as a blocking regression gate alongside the other ``make regression``
 audits. It enforces two invariants:
 
 1. **Chapter Five anchor presence.** Every ``####`` and ``#####`` definition
-   entry in ``core_05-05_definitions_a_independent.md`` that owns ``- O:`` /
+   entry in ``core_05_definitions_home.md`` that owns ``- O:`` /
    ``- E:`` / ``- C:`` bullets carries the canonical anchor trio:
 
    - the entry-level slug (either from an explicit ``<a id="SLUG"></a>`` tag

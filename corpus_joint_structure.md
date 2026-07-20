@@ -1,6 +1,6 @@
 # Constitutional joint structure
 
-*(Edition alignment: same labels as the Sentient Constitution numbered `core_*.md` files (see [README.md](README.md)), `core_05-05_definitions_a_independent.md`, `corpus_systems.md`, `corpus_institutions.md`, and `corpus_forum.md`.)*
+*(Edition alignment: same labels as the Sentient Constitution numbered `core_*.md` files (see [README.md](README.md)), `core_05_definitions_home.md`, `corpus_systems.md`, `corpus_institutions.md`, and `corpus_forum.md`.)*
 
 **Compatibility entrypoint:** this root file is the stable navigation wrapper for the joint-structure implementation file. Substantive CJS text now lives in the `corpus_joint_structure/` subfiles listed below. Broad references to `corpus_joint_structure.md` continue to mean the joint-structure implementation file as a whole.
 

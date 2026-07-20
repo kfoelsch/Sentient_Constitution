@@ -43,7 +43,7 @@ When you modify any `core_*.md` or `corpus_*.md` file in the root directory:
 
 ```bash
 # Step 1: Edit the authoritative source file
-# (e.g., edit core_05-05_definitions_a_independent.md)
+# (e.g., edit core_05_definitions_home.md)
 
 # Step 2: Regenerate all AI corpus indexes
 make ai-corpus-sync
@@ -52,7 +52,7 @@ make ai-corpus-sync
 git diff ai_corpus/
 
 # Step 4: Commit both source and derived files together
-git add core_05-05_definitions_a_independent.md ai_corpus/
+git add core_05_definitions_home.md ai_corpus/
 git commit -m "Update Proportionality definition + regenerate AI indexes"
 ```
 

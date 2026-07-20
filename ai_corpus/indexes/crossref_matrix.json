@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-07-20T08:38:52+00:00",
+  "generated_at": "2026-07-20T16:48:11+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -29,11 +29,11 @@
         "type": "core"
       },
       {
-        "id": "core_05-05_definitions_a_independent.md",
+        "id": "core_05_definitions_home.md",
         "type": "core"
       },
       {
-        "id": "core_05apex_flourishing_aim.md",
+        "id": "core_05apex_accountability_leg.md",
         "type": "core"
       },
       {
@@ -41,11 +41,19 @@
         "type": "core"
       },
       {
-        "id": "core_05defs_oversight.md",
+        "id": "core_05apex_flourishing_aim.md",
         "type": "core"
       },
       {
-        "id": "core_05defs_participation.md",
+        "id": "core_05apex_oversight_leg.md",
+        "type": "core"
+      },
+      {
+        "id": "core_05apex_participation_leg.md",
+        "type": "core"
+      },
+      {
+        "id": "core_05apex_timeliness_leg.md",
         "type": "core"
       },
       {
@@ -58,6 +66,14 @@
       },
       {
         "id": "core_05defs_integrative.md",
+        "type": "core"
+      },
+      {
+        "id": "core_05defs_oversight.md",
+        "type": "core"
+      },
+      {
+        "id": "core_05defs_participation.md",
         "type": "core"
       },
       {
@@ -461,7 +477,7 @@
             "anchors": []
           },
           {
-            "file": "core_05-05_definitions_a_independent.md",
+            "file": "core_05_definitions_home.md",
             "count": 2,
             "anchors": [
               "#chapter-five-foundational-definitions",
@@ -469,16 +485,60 @@
             ]
           },
           {
-            "file": "core_05defs_accountability.md",
-            "count": 9,
+            "file": "core_05apex_accountability_leg.md",
+            "count": 2,
             "anchors": [
               "#accountability",
-              "#accountability-measurement-family",
+              "#accountability-measurement-family"
+            ]
+          },
+          {
+            "file": "core_05apex_continuity_aim.md",
+            "count": 2,
+            "anchors": [
+              "#continuity-aim-constitutional",
+              "#continuity-measurement-family"
+            ]
+          },
+          {
+            "file": "core_05apex_flourishing_aim.md",
+            "count": 2,
+            "anchors": [
+              "#flourishing-constitutional",
+              "#flourishing-measurement-family"
+            ]
+          },
+          {
+            "file": "core_05apex_oversight_leg.md",
+            "count": 2,
+            "anchors": [
+              "#oversight-constitutional",
+              "#oversight-measurement-family"
+            ]
+          },
+          {
+            "file": "core_05apex_participation_leg.md",
+            "count": 2,
+            "anchors": [
+              "#participation-constitutional",
+              "#participation-measurement-family"
+            ]
+          },
+          {
+            "file": "core_05apex_timeliness_leg.md",
+            "count": 2,
+            "anchors": [
+              "#timeliness-constitutional",
+              "#timeliness-measurement-family"
+            ]
+          },
+          {
+            "file": "core_05defs_accountability.md",
+            "count": 5,
+            "anchors": [
               "#capture-of-resolution-pathways",
               "#due-process-constitutional",
               "#market-structure-constitutional",
-              "#timeliness-constitutional",
-              "#timeliness-measurement-family",
               "#timely-resolution-constitutional"
             ]
           },
@@ -501,22 +561,6 @@
             ]
           },
           {
-            "file": "core_05apex_flourishing_aim.md",
-            "count": 2,
-            "anchors": [
-              "#flourishing-constitutional",
-              "#flourishing-measurement-family"
-            ]
-          },
-          {
-            "file": "core_05apex_continuity_aim.md",
-            "count": 2,
-            "anchors": [
-              "#continuity-aim-constitutional",
-              "#continuity-measurement-family"
-            ]
-          },
-          {
             "file": "core_05defs_integrative.md",
             "count": 4,
             "anchors": [
@@ -526,30 +570,26 @@
             ]
           },
           {
-            "file": "core_05defs_performance.md",
-            "count": 1,
-            "anchors": [
-              "#performance-measurement-family"
-            ]
-          },
-          {
             "file": "core_05defs_oversight.md",
-            "count": 4,
+            "count": 2,
             "anchors": [
-              "#oversight-constitutional",
-              "#oversight-measurement-family",
               "#proxy-divergence",
               "#truth-constitutional-constraint"
             ]
           },
           {
             "file": "core_05defs_participation.md",
-            "count": 6,
+            "count": 4,
             "anchors": [
-              "#participation-constitutional",
-              "#participation-measurement-family",
               "#stakeholder-status-emergency-and-participation-weight-cluster",
               "#substantive-fairness-constitutional"
+            ]
+          },
+          {
+            "file": "core_05defs_performance.md",
+            "count": 1,
+            "anchors": [
+              "#performance-measurement-family"
             ]
           },
           {
@@ -709,10 +749,28 @@
             "anchors": []
           },
           {
-            "file": "core_05-05_definitions_a_independent.md",
+            "file": "core_05_definitions_home.md",
             "count": 1,
             "anchors": [
               "#chapter-five-foundational-definitions"
+            ]
+          },
+          {
+            "file": "core_05apex_oversight_leg.md",
+            "count": 5,
+            "anchors": [
+              "#oversight-constitutional",
+              "#oversight-constitutional-a",
+              "#oversight-constitutional-c"
+            ]
+          },
+          {
+            "file": "core_05apex_participation_leg.md",
+            "count": 21,
+            "anchors": [
+              "#participation-constitutional",
+              "#participation-constitutional-a",
+              "#participation-constitutional-c"
             ]
           },
           {
@@ -798,7 +856,7 @@
           },
           {
             "file": "core_05defs_oversight.md",
-            "count": 91,
+            "count": 86,
             "anchors": [
               "#auditability",
               "#auditability-a",
@@ -816,9 +874,6 @@
               "#materiality-determination",
               "#materiality-determination-a",
               "#materiality-determination-c",
-              "#oversight-constitutional",
-              "#oversight-constitutional-a",
-              "#oversight-constitutional-c",
               "#proxy-divergence",
               "#proxy-divergence-a",
               "#proxy-divergence-c",
@@ -833,7 +888,7 @@
           },
           {
             "file": "core_05defs_participation.md",
-            "count": 156,
+            "count": 135,
             "anchors": [
               "#accessibility-constitutional",
               "#accessibility-constitutional-a",
@@ -864,9 +919,6 @@
               "#meaningful-agency",
               "#meaningful-agency-a",
               "#meaningful-agency-c",
-              "#participation-constitutional",
-              "#participation-constitutional-a",
-              "#participation-constitutional-c",
               "#procedural-fairness-constitutional",
               "#procedural-fairness-constitutional-a",
               "#procedural-fairness-constitutional-c",
@@ -1036,19 +1088,34 @@
             "anchors": []
           },
           {
-            "file": "core_05-05_definitions_a_independent.md",
+            "file": "core_05_definitions_home.md",
             "count": 1,
             "anchors": [
               "#chapter-five-foundational-definitions"
             ]
           },
           {
-            "file": "core_05defs_accountability.md",
-            "count": 125,
+            "file": "core_05apex_accountability_leg.md",
+            "count": 6,
             "anchors": [
               "#accountability",
               "#accountability-a",
-              "#accountability-c",
+              "#accountability-c"
+            ]
+          },
+          {
+            "file": "core_05apex_oversight_leg.md",
+            "count": 5,
+            "anchors": [
+              "#oversight-constitutional",
+              "#oversight-constitutional-a",
+              "#oversight-constitutional-c"
+            ]
+          },
+          {
+            "file": "core_05defs_accountability.md",
+            "count": 119,
+            "anchors": [
               "#contestability",
               "#corpus-authority-stack-supremacy-and-enforceability-cluster",
               "#feasibility",
@@ -1139,7 +1206,7 @@
           },
           {
             "file": "core_05defs_oversight.md",
-            "count": 73,
+            "count": 68,
             "anchors": [
               "#classification-scaled-governance",
               "#epistemic-integrity",
@@ -1156,9 +1223,6 @@
               "#materiality-determination-a",
               "#materiality-determination-c",
               "#materiality-semi-independent",
-              "#oversight-constitutional",
-              "#oversight-constitutional-a",
-              "#oversight-constitutional-c",
               "#proxy-divergence",
               "#proxy-divergence-a",
               "#proxy-divergence-c",
@@ -1315,12 +1379,43 @@
             "anchors": []
           },
           {
-            "file": "core_05defs_accountability.md",
-            "count": 173,
+            "file": "core_05apex_accountability_leg.md",
+            "count": 12,
             "anchors": [
               "#accountability",
               "#accountability-a",
-              "#accountability-c",
+              "#accountability-c"
+            ]
+          },
+          {
+            "file": "core_05apex_oversight_leg.md",
+            "count": 14,
+            "anchors": [
+              "#oversight-constitutional",
+              "#oversight-constitutional-a",
+              "#oversight-constitutional-c"
+            ]
+          },
+          {
+            "file": "core_05apex_participation_leg.md",
+            "count": 10,
+            "anchors": [
+              "#participation-constitutional",
+              "#participation-constitutional-a",
+              "#participation-constitutional-c"
+            ]
+          },
+          {
+            "file": "core_05apex_timeliness_leg.md",
+            "count": 2,
+            "anchors": [
+              "#timeliness-constitutional"
+            ]
+          },
+          {
+            "file": "core_05defs_accountability.md",
+            "count": 159,
+            "anchors": [
               "#capture-of-resolution-pathways",
               "#capture-of-resolution-pathways-a",
               "#capture-of-resolution-pathways-c",
@@ -1364,8 +1459,7 @@
               "#necessity-c",
               "#proportionality",
               "#proportionality-a",
-              "#proportionality-c",
-              "#timeliness-constitutional"
+              "#proportionality-c"
             ]
           },
           {
@@ -1440,7 +1534,7 @@
           },
           {
             "file": "core_05defs_oversight.md",
-            "count": 119,
+            "count": 105,
             "anchors": [
               "#auditability",
               "#auditability-a",
@@ -1458,9 +1552,6 @@
               "#observability",
               "#observability-a",
               "#observability-c",
-              "#oversight-constitutional",
-              "#oversight-constitutional-a",
-              "#oversight-constitutional-c",
               "#proxy-divergence",
               "#proxy-divergence-a",
               "#proxy-divergence-c",
@@ -1475,7 +1566,7 @@
           },
           {
             "file": "core_05defs_participation.md",
-            "count": 75,
+            "count": 65,
             "anchors": [
               "#accessibility-constitutional",
               "#accessibility-constitutional-a",
@@ -1492,9 +1583,6 @@
               "#meaningful-agency",
               "#meaningful-agency-a",
               "#meaningful-agency-c",
-              "#participation-constitutional",
-              "#participation-constitutional-a",
-              "#participation-constitutional-c",
               "#stakeholder-status-emergency-and-participation-weight-cluster"
             ]
           },
@@ -1682,12 +1770,17 @@
             ]
           },
           {
-            "file": "core_05-05_definitions_a_independent.md",
+            "file": "core_05_definitions_home.md",
             "count": 3,
             "anchors": [
               "#1-interdependent-definitions",
               "#chapter-five-compass-and-definition-map"
             ]
+          },
+          {
+            "file": "core_05apex_flourishing_aim.md",
+            "count": 1,
+            "anchors": []
           },
           {
             "file": "core_05defs_accountability.md",
@@ -1698,11 +1791,6 @@
           },
           {
             "file": "core_05defs_continuity.md",
-            "count": 1,
-            "anchors": []
-          },
-          {
-            "file": "core_05apex_flourishing_aim.md",
             "count": 1,
             "anchors": []
           },
@@ -1827,7 +1915,7 @@
             ]
           },
           {
-            "file": "core_05-05_definitions_a_independent.md",
+            "file": "core_05_definitions_home.md",
             "count": 1,
             "anchors": []
           },
@@ -1892,7 +1980,7 @@
         ]
       },
       {
-        "source": "core_05-05_definitions_a_independent.md",
+        "source": "core_05_definitions_home.md",
         "targets": [
           {
             "file": "core_04-04_burden_traceability_verification.md",
@@ -1900,7 +1988,7 @@
             "anchors": []
           },
           {
-            "file": "core_05-05_definitions_a_independent.md",
+            "file": "core_05_definitions_home.md",
             "count": 2,
             "anchors": [
               "#joint-invocation-and-satisfaction",
@@ -1908,11 +1996,59 @@
             ]
           },
           {
-            "file": "core_05defs_accountability.md",
-            "count": 79,
+            "file": "core_05apex_accountability_leg.md",
+            "count": 4,
             "anchors": [
               "#accountability",
-              "#accountability-measurement-family",
+              "#accountability-measurement-family"
+            ]
+          },
+          {
+            "file": "core_05apex_continuity_aim.md",
+            "count": 5,
+            "anchors": [
+              "#continuity-aim-constitutional",
+              "#continuity-aim-decomposition",
+              "#continuity-measurement-family"
+            ]
+          },
+          {
+            "file": "core_05apex_flourishing_aim.md",
+            "count": 5,
+            "anchors": [
+              "#flourishing-aim-decomposition",
+              "#flourishing-constitutional",
+              "#flourishing-measurement-family"
+            ]
+          },
+          {
+            "file": "core_05apex_oversight_leg.md",
+            "count": 3,
+            "anchors": [
+              "#oversight-constitutional",
+              "#oversight-measurement-family"
+            ]
+          },
+          {
+            "file": "core_05apex_participation_leg.md",
+            "count": 2,
+            "anchors": [
+              "#participation-constitutional",
+              "#participation-measurement-family"
+            ]
+          },
+          {
+            "file": "core_05apex_timeliness_leg.md",
+            "count": 3,
+            "anchors": [
+              "#timeliness-constitutional",
+              "#timeliness-measurement-family"
+            ]
+          },
+          {
+            "file": "core_05defs_accountability.md",
+            "count": 73,
+            "anchors": [
               "#adjudication-and-dispute-resolution-constitutional",
               "#autonomous-coercion-tool-constitutional",
               "#autonomous-lethal-system-constitutional",
@@ -1969,8 +2105,6 @@
               "#standing-state-contribution-and-violation-cluster",
               "#stay",
               "#sustained-high-gravity-pattern",
-              "#timeliness-constitutional",
-              "#timeliness-measurement-family",
               "#timely-resolution-constitutional",
               "#top-slot-review",
               "#unified-incident",
@@ -2053,24 +2187,6 @@
             ]
           },
           {
-            "file": "core_05apex_flourishing_aim.md",
-            "count": 6,
-            "anchors": [
-              "#flourishing-aim-decomposition",
-              "#flourishing-constitutional",
-              "#flourishing-measurement-family"
-            ]
-          },
-          {
-            "file": "core_05apex_continuity_aim.md",
-            "count": 5,
-            "anchors": [
-              "#continuity-aim-constitutional",
-              "#continuity-aim-decomposition",
-              "#continuity-measurement-family"
-            ]
-          },
-          {
             "file": "core_05defs_integrative.md",
             "count": 17,
             "anchors": [
@@ -2091,15 +2207,8 @@
             ]
           },
           {
-            "file": "core_05defs_performance.md",
-            "count": 1,
-            "anchors": [
-              "#performance-measurement-family"
-            ]
-          },
-          {
             "file": "core_05defs_oversight.md",
-            "count": 46,
+            "count": 43,
             "anchors": [
               "#adversarial-scaled-and-exploited-conditions",
               "#audit-scope-sufficiency",
@@ -2123,8 +2232,6 @@
               "#materiality-integrity-constraint",
               "#materiality-under-uncertainty",
               "#observability",
-              "#oversight-constitutional",
-              "#oversight-measurement-family",
               "#press-and-journalistic-activity-constitutional",
               "#protected-data-and-internal-state-publication-constraint",
               "#proxy-divergence",
@@ -2147,15 +2254,14 @@
           },
           {
             "file": "core_05defs_participation.md",
-            "count": 56,
+            "count": 54,
             "anchors": [
               "#35-animal-life-sentient-life-and-sentience-status",
-              "#36-binding-stakeholder-choice",
-              "#37-self-determination-meaningful-agency-expression-educational-agency-and-volitional-integrity",
               "#accessibility-constitutional",
               "#animal-life-constitutional",
               "#assembly-constitutional",
               "#best-interest-standard-constitutional",
+              "#binding-stakeholder-choice-cluster",
               "#binding-stakeholder-choice-decision-resolution-requirements",
               "#business-creation-constitutional",
               "#coercion-and-manipulation-constitutional",
@@ -2182,8 +2288,6 @@
               "#non-separation-constitutional",
               "#non-statelessness-constitutional",
               "#parent-system-relationship-constitutional",
-              "#participation-constitutional",
-              "#participation-measurement-family",
               "#procedural-fairness-constitutional",
               "#protected-characteristic-proxying-and-disparate-impact",
               "#protected-characteristics-constitutional",
@@ -2191,6 +2295,7 @@
               "#protected-intimate-signal-gating",
               "#refuge-from-non-compliance-constitutional",
               "#reproductive-autonomy-constitutional",
+              "#self-determination-and-meaningful-agency-cluster",
               "#self-determination-constitutional",
               "#sentience-non-exclusion",
               "#sentience-status-adjudication-constitutional",
@@ -2203,6 +2308,220 @@
               "#system-creation-constitutional",
               "#volitional-integrity"
             ]
+          },
+          {
+            "file": "core_05defs_performance.md",
+            "count": 1,
+            "anchors": [
+              "#performance-measurement-family"
+            ]
+          }
+        ]
+      },
+      {
+        "source": "core_05apex_accountability_leg.md",
+        "targets": [
+          {
+            "file": "core_00_preamble.md",
+            "count": 2,
+            "anchors": [
+              "#constitutional-tetrad",
+              "#material-stake"
+            ]
+          },
+          {
+            "file": "core_01_c_stewardship_capacity_principles.md",
+            "count": 5,
+            "anchors": [
+              "#10-governance-under-stewardship-discipline",
+              "#11-incentive-alignment-and-system-capture",
+              "#116-successor-responsibility-and-formal-structure-non-escape",
+              "#13-market-structure"
+            ]
+          },
+          {
+            "file": "core_02-03_definition_mechanics.md",
+            "count": 1,
+            "anchors": [
+              "#formal-label-gaming-discipline"
+            ]
+          },
+          {
+            "file": "core_05_definitions_home.md",
+            "count": 4,
+            "anchors": [
+              "#chapter-five-compass-and-definition-map",
+              "#chapter-five-foundational-definitions"
+            ]
+          },
+          {
+            "file": "core_05apex_continuity_aim.md",
+            "count": 1,
+            "anchors": []
+          },
+          {
+            "file": "core_05apex_timeliness_leg.md",
+            "count": 2,
+            "anchors": [
+              "#timeliness-constitutional"
+            ]
+          },
+          {
+            "file": "core_05defs_accountability.md",
+            "count": 18,
+            "anchors": [
+              "#accountability-independent-terms",
+              "#accountability-semi-independent-terms",
+              "#collective-harm-boundary-and-harm-cluster",
+              "#concentration-threshold-constitutional",
+              "#contestability",
+              "#forum-families-and-dispute-routing-cluster",
+              "#market-structure-constitutional",
+              "#protected-reporting-whistleblowing",
+              "#redress-and-remediation-constitutional",
+              "#standing-state-contribution-and-violation-cluster",
+              "#use-of-force-autonomous-coercion-and-mass-harm-cluster"
+            ]
+          },
+          {
+            "file": "core_05defs_integrative.md",
+            "count": 2,
+            "anchors": [
+              "#accountability-contestability-and-collective-accountability-failure-cluster",
+              "#incentive-alignment"
+            ]
+          },
+          {
+            "file": "core_05defs_oversight.md",
+            "count": 6,
+            "anchors": [
+              "#auditability",
+              "#materiality-determination",
+              "#proxy-divergence"
+            ]
+          },
+          {
+            "file": "core_07_a_system_alignment_certification_evaluation.md",
+            "count": 1,
+            "anchors": [
+              "#37-governance-incentive-and-contestability-discipline"
+            ]
+          },
+          {
+            "file": "core_09-09_standing_integration.md",
+            "count": 4,
+            "anchors": [
+              "#81-remediation-capacity-and-funding",
+              "#84-anti-evasion-and-look-through-authority"
+            ]
+          }
+        ]
+      },
+      {
+        "source": "core_05apex_continuity_aim.md",
+        "targets": [
+          {
+            "file": "core_00_preamble.md",
+            "count": 1,
+            "anchors": [
+              "#material-stake"
+            ]
+          },
+          {
+            "file": "core_01_a_values_principles.md",
+            "count": 1,
+            "anchors": [
+              "#41-resilience-and-self-healing-design"
+            ]
+          },
+          {
+            "file": "core_01_b_interaction_interpretation.md",
+            "count": 1,
+            "anchors": [
+              "#6-process-conflict-resolution"
+            ]
+          },
+          {
+            "file": "core_01_c_stewardship_capacity_principles.md",
+            "count": 3,
+            "anchors": [
+              "#1115-constitutional-outcome-claims-discipline",
+              "#12-shared-system-capacity"
+            ]
+          },
+          {
+            "file": "core_05_definitions_home.md",
+            "count": 3,
+            "anchors": [
+              "#chapter-five-compass-and-definition-map",
+              "#chapter-five-foundational-definitions"
+            ]
+          },
+          {
+            "file": "core_05apex_accountability_leg.md",
+            "count": 1,
+            "anchors": []
+          },
+          {
+            "file": "core_05apex_flourishing_aim.md",
+            "count": 4,
+            "anchors": [
+              "#flourishing-constitutional"
+            ]
+          },
+          {
+            "file": "core_05defs_accountability.md",
+            "count": 3,
+            "anchors": [
+              "#contestability",
+              "#timely-resolution-constitutional",
+              "#use-of-force-autonomous-coercion-and-mass-harm-cluster"
+            ]
+          },
+          {
+            "file": "core_05defs_continuity.md",
+            "count": 39,
+            "anchors": [
+              "#cascading-failure",
+              "#dependency",
+              "#ecological-footprint",
+              "#ecological-integrity-constitutional",
+              "#environmental-preconditions-constitutional",
+              "#existential-risk",
+              "#indigenous-continuity-constitutional",
+              "#intergenerational-responsibility-constitutional",
+              "#labor-and-economic-floor-cluster",
+              "#privacy-informational-cluster",
+              "#proportionate-cross-system-support-constitutional",
+              "#resilience-safety-reversibility-self-healing-and-systemic-harm-cluster",
+              "#reversibility-constitutional",
+              "#self-healing-constitutional",
+              "#stewardship-constitutional",
+              "#stewardship-defect-constitutional",
+              "#stewardship-governance-discipline-and-shared-system-capacity-cluster",
+              "#sustainability",
+              "#trust-and-trustworthiness-cluster"
+            ]
+          },
+          {
+            "file": "core_05defs_oversight.md",
+            "count": 2,
+            "anchors": [
+              "#materiality-determination",
+              "#proxy-divergence"
+            ]
+          },
+          {
+            "file": "core_05defs_participation.md",
+            "count": 1,
+            "anchors": [
+              "#ecological-footprint-semi-independent"
+            ]
+          },
+          {
+            "file": "corpus_systems/cs_protocol_s5_resource_allocation_funding_stewardship.md",
+            "count": 1,
+            "anchors": []
           }
         ]
       },
@@ -2240,12 +2559,24 @@
             ]
           },
           {
-            "file": "core_05-05_definitions_a_independent.md",
-            "count": 5,
+            "file": "core_05_definitions_home.md",
+            "count": 4,
             "anchors": [
               "#chapter-five-compass-and-definition-map",
               "#chapter-five-foundational-definitions"
             ]
+          },
+          {
+            "file": "core_05apex_continuity_aim.md",
+            "count": 4,
+            "anchors": [
+              "#continuity-aim-constitutional"
+            ]
+          },
+          {
+            "file": "core_05apex_oversight_leg.md",
+            "count": 1,
+            "anchors": []
           },
           {
             "file": "core_05defs_accountability.md",
@@ -2271,13 +2602,6 @@
               "#trust-and-trustworthiness-cluster",
               "#trustworthiness",
               "#wellbeing"
-            ]
-          },
-          {
-            "file": "core_05apex_continuity_aim.md",
-            "count": 4,
-            "anchors": [
-              "#continuity-aim-constitutional"
             ]
           },
           {
@@ -2318,39 +2642,25 @@
         ]
       },
       {
-        "source": "core_05apex_continuity_aim.md",
+        "source": "core_05apex_oversight_leg.md",
         "targets": [
           {
             "file": "core_00_preamble.md",
-            "count": 1,
+            "count": 2,
             "anchors": [
-              "#material-stake"
-            ]
-          },
-          {
-            "file": "core_01_a_values_principles.md",
-            "count": 1,
-            "anchors": [
-              "#41-resilience-and-self-healing-design"
-            ]
-          },
-          {
-            "file": "core_01_b_interaction_interpretation.md",
-            "count": 1,
-            "anchors": [
-              "#6-process-conflict-resolution"
+              "#constitutional-tetrad",
+              "#flourishing"
             ]
           },
           {
             "file": "core_01_c_stewardship_capacity_principles.md",
-            "count": 3,
+            "count": 1,
             "anchors": [
-              "#1115-constitutional-outcome-claims-discipline",
-              "#12-shared-system-capacity"
+              "#10-governance-under-stewardship-discipline"
             ]
           },
           {
-            "file": "core_05-05_definitions_a_independent.md",
+            "file": "core_05_definitions_home.md",
             "count": 3,
             "anchors": [
               "#chapter-five-compass-and-definition-map",
@@ -2358,550 +2668,238 @@
             ]
           },
           {
-            "file": "core_05defs_accountability.md",
-            "count": 3,
+            "file": "core_05apex_accountability_leg.md",
+            "count": 1,
             "anchors": [
-              "#contestability",
-              "#timely-resolution-constitutional",
-              "#use-of-force-autonomous-coercion-and-mass-harm-cluster"
-            ]
-          },
-          {
-            "file": "core_05defs_continuity.md",
-            "count": 39,
-            "anchors": [
-              "#cascading-failure",
-              "#dependency",
-              "#ecological-footprint",
-              "#ecological-integrity-constitutional",
-              "#environmental-preconditions-constitutional",
-              "#existential-risk",
-              "#indigenous-continuity-constitutional",
-              "#intergenerational-responsibility-constitutional",
-              "#labor-and-economic-floor-cluster",
-              "#privacy-informational-cluster",
-              "#proportionate-cross-system-support-constitutional",
-              "#resilience-safety-reversibility-self-healing-and-systemic-harm-cluster",
-              "#reversibility-constitutional",
-              "#self-healing-constitutional",
-              "#stewardship-constitutional",
-              "#stewardship-defect-constitutional",
-              "#stewardship-governance-discipline-and-shared-system-capacity-cluster",
-              "#sustainability",
-              "#trust-and-trustworthiness-cluster"
+              "#accountability"
             ]
           },
           {
             "file": "core_05apex_flourishing_aim.md",
-            "count": 4,
-            "anchors": [
-              "#flourishing-constitutional"
-            ]
-          },
-          {
-            "file": "core_05defs_oversight.md",
-            "count": 3,
-            "anchors": [
-              "#materiality-determination",
-              "#proxy-divergence"
-            ]
-          },
-          {
-            "file": "core_05defs_participation.md",
-            "count": 1,
-            "anchors": [
-              "#ecological-footprint-semi-independent"
-            ]
-          },
-          {
-            "file": "corpus_systems/cs_protocol_s5_resource_allocation_funding_stewardship.md",
             "count": 1,
             "anchors": []
-          }
-        ]
-      },
-      {
-        "source": "core_05defs_oversight.md",
-        "targets": [
-          {
-            "file": "core_00_preamble.md",
-            "count": 9,
-            "anchors": [
-              "#constitutional-tetrad",
-              "#flourishing",
-              "#material-stake"
-            ]
           },
           {
-            "file": "core_01_a_values_principles.md",
-            "count": 3,
-            "anchors": [
-              "#3-non-negotiable-constraints-safety-and-truth"
-            ]
-          },
-          {
-            "file": "core_01_b_interaction_interpretation.md",
-            "count": 9,
-            "anchors": [
-              "#61-core-tradeoff-principles",
-              "#611-proportionality",
-              "#621-preservation-of-epistemic-integrity",
-              "#632-proxy-divergence-invalidation"
-            ]
-          },
-          {
-            "file": "core_01_c_stewardship_capacity_principles.md",
-            "count": 6,
-            "anchors": [
-              "#10-governance-under-stewardship-discipline",
-              "#9-stewardship-and-distributed-understanding",
-              "#92-distributed-understanding",
-              "#93-institutional-development"
-            ]
-          },
-          {
-            "file": "core_02-03_definition_mechanics.md",
-            "count": 2,
-            "anchors": [
-              "#3-consistency-across-the-definition-stack"
-            ]
-          },
-          {
-            "file": "core_05-05_definitions_a_independent.md",
-            "count": 6,
-            "anchors": [
-              "#chapter-five-compass-and-definition-map",
-              "#chapter-five-foundational-definitions",
-              "#joint-invocation-and-satisfaction"
-            ]
+            "file": "core_05apex_participation_leg.md",
+            "count": 1,
+            "anchors": []
           },
           {
             "file": "core_05defs_accountability.md",
-            "count": 76,
+            "count": 4,
             "anchors": [
-              "#accountability",
               "#contestability",
-              "#feasibility",
-              "#good-faith",
               "#governance",
-              "#governance-architecture-oversight-decentralization-and-concentration-cluster",
-              "#harm",
-              "#irreversible-harm",
-              "#necessity",
-              "#proportionality",
-              "#protected-reporting-whistleblowing",
-              "#redress-and-remediation-constitutional",
-              "#system",
-              "#systemic-materiality"
+              "#governance-architecture-oversight-decentralization-and-concentration-cluster"
             ]
           },
           {
             "file": "core_05defs_continuity.md",
-            "count": 99,
+            "count": 6,
             "anchors": [
-              "#cascading-failure",
               "#dependency",
-              "#privacy-informational",
-              "#protected-internal-state-boundary-constitutional",
               "#risk",
-              "#safety-constraint",
-              "#system-boundaries",
-              "#system-boundary-integrity",
               "#system-capture",
-              "#trustworthiness",
-              "#wellbeing"
-            ]
-          },
-          {
-            "file": "core_05apex_continuity_aim.md",
-            "count": 1,
-            "anchors": []
-          },
-          {
-            "file": "core_05defs_integrative.md",
-            "count": 2,
-            "anchors": [
-              "#incentive-alignment"
+              "#trustworthiness"
             ]
           },
           {
             "file": "core_05defs_oversight.md",
-            "count": 262,
+            "count": 23,
             "anchors": [
-              "#adversarial-scaled-and-exploited-conditions",
-              "#audit-scope-sufficiency",
               "#auditability",
               "#classification-scaled-governance",
               "#epistemic-integrity",
-              "#evaluation-completeness-constraint",
-              "#evidence-preservation",
-              "#foreseeability-burden",
-              "#foreseeability-diligence",
-              "#foreseeability-diligence-and-reasonably-foreseeable",
-              "#foreseeability-failure",
-              "#foreseeability-scaling",
-              "#foreseeability-scope",
-              "#material",
-              "#material-degradation",
               "#material-impact",
-              "#material-risk",
               "#materiality-determination",
-              "#materiality-integrity-constraint",
               "#materiality-semi-independent",
-              "#materiality-under-uncertainty",
-              "#observability",
-              "#oversight-constitutional",
+              "#oversight-independent-terms",
               "#proxy-divergence",
-              "#proxy-metric-gaming-and-indicator-reality-gaps",
-              "#publication-and-high-impact-communication",
-              "#reasonably-foreseeable",
               "#transparency",
               "#transparency-auditability-and-verification-cluster",
+              "#truth-and-epistemic-integrity-cluster",
               "#truth-constitutional-constraint",
               "#verifiability"
             ]
           },
           {
             "file": "core_05defs_participation.md",
-            "count": 17,
+            "count": 1,
             "anchors": [
-              "#assembly-constitutional",
-              "#coercion-and-manipulation-constitutional",
-              "#expression-constitutional",
-              "#info-sphere",
-              "#meaningful-agency",
-              "#procedural-fairness-constitutional",
               "#stakeholder"
             ]
           },
           {
-            "file": "core_06-06_rights_part_b.md",
+            "file": "core_07_a_system_alignment_certification_evaluation.md",
             "count": 1,
             "anchors": [
-              "#article-v-h-expression-assembly-and-press"
-            ]
-          },
-          {
-            "file": "core_07_a_system_alignment_certification_evaluation.md",
-            "count": 11,
-            "anchors": [
-              "#3-whole-system-certification-evaluation",
               "#chapter-seven-system-alignment-certification"
             ]
-          },
-          {
-            "file": "corpus_systems.md",
-            "count": 6,
-            "anchors": []
           }
         ]
       },
       {
-        "source": "core_05defs_participation.md",
+        "source": "core_05apex_participation_leg.md",
         "targets": [
           {
             "file": "core_00_preamble.md",
-            "count": 14,
+            "count": 3,
             "anchors": [
-              "#chapter-00-preamble--foundational-requirements",
               "#constitutional-tetrad",
-              "#governance-layer-discipline",
-              "#material-stake",
-              "#two-constitutional-aims"
+              "#material-stake"
             ]
           },
           {
             "file": "core_01_a_values_principles.md",
-            "count": 39,
+            "count": 1,
             "anchors": [
-              "#2-foundational-objective-wellbeing",
-              "#21-fairness",
-              "#3-non-negotiable-constraints-safety-and-truth",
-              "#311-access-and-opportunity",
-              "#312-fair-treatment",
-              "#313-benefits-and-burdens",
-              "#5-freedom-bounded-agency",
-              "#51-limitation-discipline"
-            ]
-          },
-          {
-            "file": "core_01_b_interaction_interpretation.md",
-            "count": 5,
-            "anchors": [
-              "#61-core-tradeoff-principles",
-              "#63-rights-collision-procedure",
-              "#631-rights-collision-decision-test"
+              "#5-freedom-bounded-agency"
             ]
           },
           {
             "file": "core_01_c_stewardship_capacity_principles.md",
-            "count": 8,
+            "count": 3,
             "anchors": [
-              "#10-governance-under-stewardship-discipline",
               "#1115-constitutional-outcome-claims-discipline",
-              "#13-market-structure",
               "#9-stewardship-and-distributed-understanding"
             ]
           },
           {
-            "file": "core_02-03_definition_mechanics.md",
-            "count": 2,
-            "anchors": [
-              "#formal-label-gaming-discipline"
-            ]
-          },
-          {
-            "file": "core_05-05_definitions_a_independent.md",
-            "count": 7,
+            "file": "core_05_definitions_home.md",
+            "count": 3,
             "anchors": [
               "#chapter-five-compass-and-definition-map",
-              "#chapter-five-foundational-definitions",
-              "#joint-invocation-and-satisfaction"
+              "#chapter-five-foundational-definitions"
             ]
           },
           {
-            "file": "core_05defs_accountability.md",
-            "count": 125,
+            "file": "core_05apex_oversight_leg.md",
+            "count": 1,
+            "anchors": []
+          },
+          {
+            "file": "core_05apex_timeliness_leg.md",
+            "count": 2,
             "anchors": [
-              "#accountability",
-              "#accountability-contestability-semi-independent",
-              "#adjudication-and-dispute-resolution-constitutional",
-              "#contestability",
-              "#due-process-constitutional",
-              "#feasibility",
-              "#governance",
-              "#harassment-and-bullying",
-              "#harm",
-              "#irreversible-harm",
-              "#necessity",
-              "#privacy-informational-cluster",
-              "#proportionality",
-              "#protected-reporting-retaliation-and-access-interference",
-              "#protected-reporting-whistleblowing",
-              "#redress-and-remediation-constitutional",
               "#timeliness-constitutional"
             ]
           },
           {
+            "file": "core_05defs_accountability.md",
+            "count": 5,
+            "anchors": [
+              "#contestability",
+              "#necessity",
+              "#proportionality"
+            ]
+          },
+          {
             "file": "core_05defs_continuity.md",
-            "count": 73,
+            "count": 3,
             "anchors": [
-              "#agency-consent-and-anti-coercion-semi-independent",
-              "#charter",
-              "#dependency",
-              "#derived-developing-sentients-instantiation-and-care-authority-cluster",
-              "#ecological-integrity-constitutional",
-              "#emergency-pre-deliberation-action-binding-collective-choice",
-              "#environmental-preconditions-constitutional",
-              "#fair-compensation-constitutional",
-              "#intergenerational-responsibility-constitutional",
-              "#leisure-and-rest-constitutional",
-              "#privacy-informational",
               "#privacy-informational-cluster",
-              "#protected-internal-state-boundary-constitutional",
-              "#reversibility-constitutional",
-              "#risk",
-              "#safe-conditions-constitutional",
-              "#safety-constraint",
-              "#surveillance-boundary",
-              "#system-boundaries",
-              "#system-capture",
-              "#systemic-lock-in",
-              "#trust"
-            ]
-          },
-          {
-            "file": "core_05apex_flourishing_aim.md",
-            "count": 2,
-            "anchors": [
-              "#flourishing-aim-decomposition",
-              "#flourishing-constitutional"
-            ]
-          },
-          {
-            "file": "core_05defs_integrative.md",
-            "count": 13,
-            "anchors": [
-              "#animal-life-sentient-life-and-sentience-status-cluster",
-              "#authority-stack",
-              "#constitutional-constraint",
-              "#constitutional-contract-layer",
-              "#foundational-constitutional-choice"
+              "#system-capture"
             ]
           },
           {
             "file": "core_05defs_oversight.md",
-            "count": 57,
+            "count": 2,
             "anchors": [
-              "#adversarial-scaled-and-exploited-conditions",
-              "#auditability",
               "#classification-scaled-governance",
-              "#epistemic-integrity",
-              "#material",
-              "#material-impact",
-              "#materiality-determination",
-              "#movement-refuge-semi-independent",
-              "#observability",
-              "#proxy-divergence",
-              "#transparency",
-              "#truth-constitutional-constraint"
+              "#materiality-determination"
             ]
           },
           {
             "file": "core_05defs_participation.md",
-            "count": 466,
+            "count": 26,
             "anchors": [
               "#accessibility-constitutional",
-              "#animal-life-constitutional",
-              "#assembly-collective-organization-institutional-formation-cluster",
-              "#assembly-constitutional",
-              "#best-interest-standard-constitutional",
-              "#binding-collective-choice-decision-resolution-process",
+              "#animal-life-sentient-life-and-sentience-status-cluster",
               "#binding-stakeholder-choice-cluster",
-              "#business-creation-constitutional",
               "#coercion-and-manipulation-constitutional",
-              "#collective-organization-constitutional",
-              "#consent-constitutional",
-              "#consent-sexual",
-              "#constitutional-community",
-              "#contested-sentient-life-constitutional",
-              "#derived-sentient-constitutional",
-              "#developing-sentient-constitutional",
-              "#dignity-and-equal-moral-standing",
               "#educational-agency",
-              "#expression-constitutional",
-              "#fairness-and-protected-status-semi-independent",
-              "#family-and-care-relationships-constitutional",
-              "#family-care-reproductive-autonomy-derivation-and-instantiation-semi-independent",
-              "#freedom-bounded-agency",
-              "#graduated-capability-constitutional",
-              "#info-sphere",
-              "#instantiation-consent-constitutional",
               "#meaningful-agency",
-              "#movement-and-relocation-constitutional",
-              "#natural-systems-standing",
-              "#non-imposition-cooperative-interaction",
-              "#non-separation-constitutional",
-              "#non-statelessness-constitutional",
-              "#parent-system-relationship-constitutional",
-              "#participation-constitutional",
-              "#procedural-fairness-constitutional",
+              "#participation-independent-terms",
               "#protected-characteristic-proxying-and-disparate-impact",
-              "#protected-characteristics-constitutional",
-              "#protected-commercial-sexual-services-status-and-article-x-c-circumvention",
-              "#protected-intimate-signal-gating",
-              "#refuge-from-non-compliance-constitutional",
-              "#reproductive-autonomy-constitutional",
-              "#rights-collision-record-binding-stakeholder-choice",
               "#self-determination-and-meaningful-agency-cluster",
-              "#self-determination-constitutional",
-              "#sentience-evaluation-e",
-              "#sentience-non-exclusion",
-              "#sentience-status-adjudication-constitutional",
-              "#sentient",
               "#stakeholder",
               "#stakeholder-participation-weight",
-              "#stakeholder-representation-and-participation-weight-limits-binding-collective-choice",
               "#stakeholder-status-emergency-and-participation-weight-cluster",
-              "#substantive-fairness-constitutional",
-              "#system-creation-constitutional",
-              "#volitional-integrity"
-            ]
-          },
-          {
-            "file": "core_06-06_rights_part_a.md",
-            "count": 10,
-            "anchors": [
-              "#article-i-a-environmental-preconditions-and-ecological-integrity",
-              "#article-ii-e-info-sphere-dependency-continuity-and-operator-non-viability",
-              "#article-iii-b-equal-educational-access",
-              "#article-iii-d-labor-and-economic-floor"
-            ]
-          },
-          {
-            "file": "core_06-06_rights_part_b.md",
-            "count": 49,
-            "anchors": [
-              "#article-ix-a-agency-and-freedom-from-manipulation",
-              "#article-ix-b-stakeholder-role-and-participation-rights",
-              "#article-ix-self-determination-and-agency",
-              "#article-v-a-dignity-and-equal-moral-standing",
-              "#article-v-b-nondiscrimination",
-              "#article-v-e-sentience-status-adjudication-floor",
-              "#article-v-f-developing-sentients-best-interest-and-graduated-capability",
-              "#article-v-g-accessibility",
-              "#article-v-h-expression-assembly-and-press",
-              "#article-vi-right-to-sentient-centered-education",
-              "#article-vii-a-bodily-autonomy-and-non-intrusion",
-              "#article-vii-a-self-ownership-of-body-and-mind",
-              "#article-vii-d-family-care-relationships-reproductive-autonomy-and-non-separation",
-              "#article-vii-d1-derivation-instantiation-and-the-parent-system-relationship",
-              "#article-x-a-cooperative-interaction",
-              "#article-x-c-adult-consensual-commercial-sexual-services-and-sexual-exploitation",
-              "#article-xi-stakeholder-system-participation-representation-and-due-process"
-            ]
-          },
-          {
-            "file": "core_06-06_rights_part_c.md",
-            "count": 11,
-            "anchors": [
-              "#article-xiii-a-security-intelligence-and-covert-power-limits",
-              "#article-xix-d-movement-migration-refuge-and-non-statelessness",
-              "#article-xv-auditability-and-observable-evidence"
-            ]
-          },
-          {
-            "file": "core_06-06_rights_part_d.md",
-            "count": 1,
-            "anchors": [
-              "#article-xxiv-b-rights-collision-procedure-and-restorative-alignment"
+              "#substantive-fairness-constitutional"
             ]
           },
           {
             "file": "core_07_a_system_alignment_certification_evaluation.md",
-            "count": 12,
+            "count": 1,
             "anchors": [
-              "#3-whole-system-certification-evaluation",
-              "#32-accessibility-under-sentience-non-exclusion",
-              "#8-accessibility-evaluation",
               "#chapter-seven-system-alignment-certification"
+            ]
+          }
+        ]
+      },
+      {
+        "source": "core_05apex_timeliness_leg.md",
+        "targets": [
+          {
+            "file": "core_00_preamble.md",
+            "count": 2,
+            "anchors": [
+              "#constitutional-tetrad",
+              "#material-stake"
             ]
           },
           {
-            "file": "core_08-08_standing_assessment.md",
+            "file": "core_05_definitions_home.md",
             "count": 3,
             "anchors": [
-              "#7-unified-proportional-lequ-scale",
-              "#lequ-baseline-constitutional-outcome"
+              "#chapter-five-compass-and-definition-map",
+              "#chapter-five-foundational-definitions"
+            ]
+          },
+          {
+            "file": "core_05apex_accountability_leg.md",
+            "count": 1,
+            "anchors": [
+              "#accountability"
+            ]
+          },
+          {
+            "file": "core_05apex_participation_leg.md",
+            "count": 1,
+            "anchors": []
+          },
+          {
+            "file": "core_05defs_accountability.md",
+            "count": 16,
+            "anchors": [
+              "#capture-of-resolution-pathways",
+              "#timely-resolution-constitutional"
+            ]
+          },
+          {
+            "file": "core_05defs_continuity.md",
+            "count": 11,
+            "anchors": [
+              "#avoidable-burden",
+              "#constitutional-efficiency",
+              "#review-and-correction-duty-constitutional",
+              "#stewardship-constitutional",
+              "#stewardship-defect-constitutional"
+            ]
+          },
+          {
+            "file": "core_05defs_oversight.md",
+            "count": 1,
+            "anchors": [
+              "#materiality-determination"
             ]
           },
           {
             "file": "core_11-11_forum.md",
-            "count": 3,
-            "anchors": []
-          },
-          {
-            "file": "core_12-12_governance.md",
-            "count": 6,
+            "count": 1,
             "anchors": [
-              "#41-entitlement-and-eligibility",
-              "#43-decision-resolution-requirements-for-binding-collective-choice"
+              "#6-timely-resolution-materiality-tiers-and-anti-delay-discipline"
             ]
-          },
-          {
-            "file": "core_16-16_incorporation.md",
-            "count": 3,
-            "anchors": []
-          },
-          {
-            "file": "corpus_institutions.md",
-            "count": 1,
-            "anchors": []
-          },
-          {
-            "file": "corpus_systems.md",
-            "count": 1,
-            "anchors": []
           }
         ]
       },
@@ -2910,7 +2908,7 @@
         "targets": [
           {
             "file": "core_00_preamble.md",
-            "count": 15,
+            "count": 11,
             "anchors": [
               "#constitutional-tetrad",
               "#governance-layer-discipline",
@@ -2942,14 +2940,12 @@
           },
           {
             "file": "core_01_c_stewardship_capacity_principles.md",
-            "count": 35,
+            "count": 30,
             "anchors": [
               "#10-governance-as-authorized-structure",
               "#10-governance-under-stewardship-discipline",
-              "#11-incentive-alignment-and-system-capture",
               "#1115-constitutional-outcome-claims-discipline",
               "#115-contingent-claims-games-of-chance-and-event-contract-markets",
-              "#116-successor-responsibility-and-formal-structure-non-escape",
               "#121-productive-capacity-instrumental-good",
               "#13-market-structure",
               "#131-concentration-threshold-mechanism-adopter-tunable",
@@ -2960,7 +2956,7 @@
           },
           {
             "file": "core_02-03_definition_mechanics.md",
-            "count": 7,
+            "count": 6,
             "anchors": [
               "#3-non-compliance-finding-profiles",
               "#chapter-three-definition-integrity-evasion-and-non-compliance",
@@ -2968,19 +2964,44 @@
             ]
           },
           {
-            "file": "core_05-05_definitions_a_independent.md",
-            "count": 7,
+            "file": "core_05_definitions_home.md",
+            "count": 5,
             "anchors": [
-              "#chapter-five-compass-and-definition-map",
               "#chapter-five-foundational-definitions",
               "#joint-invocation-and-satisfaction"
             ]
           },
           {
-            "file": "core_05defs_accountability.md",
-            "count": 513,
+            "file": "core_05apex_accountability_leg.md",
+            "count": 61,
             "anchors": [
+              "#6-process-conflict-resolution",
+              "#631-rights-collision-decision-test",
+              "#7-prohibition-on-absolute-override",
               "#accountability",
+              "#accountability-tetrad-leg-decomposition",
+              "#collective-harm-boundary-harm-and-harassment-and-bullying-cluster"
+            ]
+          },
+          {
+            "file": "core_05apex_oversight_leg.md",
+            "count": 15,
+            "anchors": [
+              "#oversight-constitutional"
+            ]
+          },
+          {
+            "file": "core_05apex_timeliness_leg.md",
+            "count": 8,
+            "anchors": [
+              "#timeliness-constitutional",
+              "#timeliness-tetrad-leg-decomposition"
+            ]
+          },
+          {
+            "file": "core_05defs_accountability.md",
+            "count": 451,
+            "anchors": [
               "#accountability-contestability-semi-independent",
               "#adjudication-and-dispute-resolution-constitutional",
               "#autonomous-coercion-tool-constitutional",
@@ -3032,7 +3053,6 @@
               "#standing-record-chapter-six",
               "#stay",
               "#sustained-high-gravity-pattern",
-              "#timeliness-constitutional",
               "#timely-resolution-constitutional",
               "#top-slot-review",
               "#unified-incident",
@@ -3047,7 +3067,7 @@
           },
           {
             "file": "core_05defs_continuity.md",
-            "count": 147,
+            "count": 136,
             "anchors": [
               "#avoidable-burden",
               "#cascading-failure",
@@ -3085,7 +3105,7 @@
           },
           {
             "file": "core_05defs_integrative.md",
-            "count": 23,
+            "count": 21,
             "anchors": [
               "#accountability-contestability-and-collective-accountability-failure-cluster",
               "#constitutional-constraint-violation",
@@ -3097,7 +3117,7 @@
           },
           {
             "file": "core_05defs_oversight.md",
-            "count": 134,
+            "count": 116,
             "anchors": [
               "#adversarial-scaled-and-exploited-conditions",
               "#auditability",
@@ -3108,7 +3128,6 @@
               "#material-impact",
               "#material-risk",
               "#materiality-determination",
-              "#oversight-constitutional",
               "#proxy-divergence",
               "#proxy-metric-gaming-and-indicator-reality-gaps",
               "#transparency",
@@ -3118,7 +3137,7 @@
           },
           {
             "file": "core_05defs_participation.md",
-            "count": 100,
+            "count": 99,
             "anchors": [
               "#coercion-and-manipulation-constitutional",
               "#consent-constitutional",
@@ -3183,10 +3202,9 @@
           },
           {
             "file": "core_07_a_system_alignment_certification_evaluation.md",
-            "count": 8,
+            "count": 7,
             "anchors": [
-              "#3-whole-system-certification-evaluation",
-              "#37-governance-incentive-and-contestability-discipline"
+              "#3-whole-system-certification-evaluation"
             ]
           },
           {
@@ -3216,16 +3234,14 @@
           },
           {
             "file": "core_09-09_standing_integration.md",
-            "count": 18,
+            "count": 14,
             "anchors": [
               "#1-immutable-chapter-eight-inputs",
               "#3-descriptor-integration-and-attachment-normalization",
               "#42-general-standing-locks",
               "#5-lock-design-and-enforcement",
               "#62-competency-gates",
-              "#81-remediation-capacity-and-funding",
               "#82-remedy-system-durability",
-              "#84-anti-evasion-and-look-through-authority",
               "#9-enforcement-realism",
               "#chapter-nine-standing-effects-and-integration"
             ]
@@ -3250,7 +3266,7 @@
           },
           {
             "file": "core_11-11_forum.md",
-            "count": 23,
+            "count": 22,
             "anchors": [
               "#2-default-venue-and-primary-stakes",
               "#22-mixed-stakes-and-routing-asymmetry",
@@ -3356,7 +3372,7 @@
             ]
           },
           {
-            "file": "core_05-05_definitions_a_independent.md",
+            "file": "core_05_definitions_home.md",
             "count": 9,
             "anchors": [
               "#chapter-five-compass-and-definition-map",
@@ -3365,10 +3381,45 @@
             ]
           },
           {
-            "file": "core_05defs_accountability.md",
-            "count": 170,
+            "file": "core_05apex_accountability_leg.md",
+            "count": 9,
             "anchors": [
-              "#accountability",
+              "#accountability"
+            ]
+          },
+          {
+            "file": "core_05apex_continuity_aim.md",
+            "count": 3,
+            "anchors": [
+              "#continuity-aim-constitutional",
+              "#continuity-aim-decomposition"
+            ]
+          },
+          {
+            "file": "core_05apex_flourishing_aim.md",
+            "count": 1,
+            "anchors": [
+              "#flourishing-aim-decomposition"
+            ]
+          },
+          {
+            "file": "core_05apex_oversight_leg.md",
+            "count": 10,
+            "anchors": [
+              "#oversight-constitutional"
+            ]
+          },
+          {
+            "file": "core_05apex_timeliness_leg.md",
+            "count": 4,
+            "anchors": [
+              "#timeliness-constitutional"
+            ]
+          },
+          {
+            "file": "core_05defs_accountability.md",
+            "count": 157,
+            "anchors": [
               "#accountability-contestability-semi-independent",
               "#capture-of-resolution-pathways",
               "#concentration-threshold-constitutional",
@@ -3388,7 +3439,6 @@
               "#psychological-harm",
               "#redress-and-remediation-constitutional",
               "#standing-record-chapter-six",
-              "#timeliness-constitutional",
               "#timely-resolution-constitutional",
               "#verified-inputs-for-standing"
             ]
@@ -3459,21 +3509,6 @@
             ]
           },
           {
-            "file": "core_05apex_flourishing_aim.md",
-            "count": 1,
-            "anchors": [
-              "#flourishing-aim-decomposition"
-            ]
-          },
-          {
-            "file": "core_05apex_continuity_aim.md",
-            "count": 3,
-            "anchors": [
-              "#continuity-aim-constitutional",
-              "#continuity-aim-decomposition"
-            ]
-          },
-          {
             "file": "core_05defs_integrative.md",
             "count": 33,
             "anchors": [
@@ -3488,7 +3523,7 @@
           },
           {
             "file": "core_05defs_oversight.md",
-            "count": 157,
+            "count": 151,
             "anchors": [
               "#adversarial-scaled-and-exploited-conditions",
               "#auditability",
@@ -3500,7 +3535,6 @@
               "#materiality-determination",
               "#materiality-under-uncertainty",
               "#observability",
-              "#oversight-constitutional",
               "#proxy-divergence",
               "#proxy-metric-gaming-and-indicator-reality-gaps",
               "#transparency",
@@ -3712,7 +3746,7 @@
             ]
           },
           {
-            "file": "core_05-05_definitions_a_independent.md",
+            "file": "core_05_definitions_home.md",
             "count": 3,
             "anchors": [
               "#chapter-five-compass-and-definition-map",
@@ -3771,13 +3805,8 @@
             ]
           },
           {
-            "file": "core_05defs_performance.md",
-            "count": 1,
-            "anchors": []
-          },
-          {
             "file": "core_05defs_oversight.md",
-            "count": 26,
+            "count": 28,
             "anchors": [
               "#adversarial-scaled-and-exploited-conditions",
               "#auditability",
@@ -3881,6 +3910,514 @@
         ]
       },
       {
+        "source": "core_05defs_oversight.md",
+        "targets": [
+          {
+            "file": "core_00_preamble.md",
+            "count": 7,
+            "anchors": [
+              "#constitutional-tetrad",
+              "#material-stake"
+            ]
+          },
+          {
+            "file": "core_01_a_values_principles.md",
+            "count": 3,
+            "anchors": [
+              "#3-non-negotiable-constraints-safety-and-truth"
+            ]
+          },
+          {
+            "file": "core_01_b_interaction_interpretation.md",
+            "count": 9,
+            "anchors": [
+              "#61-core-tradeoff-principles",
+              "#611-proportionality",
+              "#621-preservation-of-epistemic-integrity",
+              "#632-proxy-divergence-invalidation"
+            ]
+          },
+          {
+            "file": "core_01_c_stewardship_capacity_principles.md",
+            "count": 5,
+            "anchors": [
+              "#10-governance-under-stewardship-discipline",
+              "#9-stewardship-and-distributed-understanding",
+              "#92-distributed-understanding",
+              "#93-institutional-development"
+            ]
+          },
+          {
+            "file": "core_02-03_definition_mechanics.md",
+            "count": 2,
+            "anchors": [
+              "#3-consistency-across-the-definition-stack"
+            ]
+          },
+          {
+            "file": "core_05_definitions_home.md",
+            "count": 4,
+            "anchors": [
+              "#chapter-five-foundational-definitions",
+              "#joint-invocation-and-satisfaction"
+            ]
+          },
+          {
+            "file": "core_05apex_accountability_leg.md",
+            "count": 4,
+            "anchors": [
+              "#accountability"
+            ]
+          },
+          {
+            "file": "core_05apex_oversight_leg.md",
+            "count": 24,
+            "anchors": [
+              "#6-process-conflict-resolution",
+              "#oversight-constitutional",
+              "#oversight-tetrad-leg-decomposition",
+              "#verification-accessibility",
+              "#verification-feasibility",
+              "#verification-independence",
+              "#verification-proportionality",
+              "#verification-robustness"
+            ]
+          },
+          {
+            "file": "core_05defs_accountability.md",
+            "count": 67,
+            "anchors": [
+              "#contestability",
+              "#feasibility",
+              "#good-faith",
+              "#harm",
+              "#irreversible-harm",
+              "#necessity",
+              "#proportionality",
+              "#protected-reporting-whistleblowing",
+              "#redress-and-remediation-constitutional",
+              "#system",
+              "#systemic-materiality"
+            ]
+          },
+          {
+            "file": "core_05defs_continuity.md",
+            "count": 93,
+            "anchors": [
+              "#cascading-failure",
+              "#dependency",
+              "#privacy-informational",
+              "#protected-internal-state-boundary-constitutional",
+              "#risk",
+              "#safety-constraint",
+              "#system-boundaries",
+              "#system-boundary-integrity",
+              "#system-capture",
+              "#wellbeing"
+            ]
+          },
+          {
+            "file": "core_05defs_integrative.md",
+            "count": 3,
+            "anchors": [
+              "#incentive-alignment"
+            ]
+          },
+          {
+            "file": "core_05defs_oversight.md",
+            "count": 256,
+            "anchors": [
+              "#adversarial-scaled-and-exploited-conditions",
+              "#audit-scope-sufficiency",
+              "#auditability",
+              "#classification-scaled-governance",
+              "#epistemic-integrity",
+              "#evaluation-completeness-constraint",
+              "#evidence-preservation",
+              "#foreseeability-burden",
+              "#foreseeability-diligence",
+              "#foreseeability-diligence-and-reasonably-foreseeable",
+              "#foreseeability-failure",
+              "#foreseeability-scaling",
+              "#foreseeability-scope",
+              "#material",
+              "#material-degradation",
+              "#material-impact",
+              "#material-risk",
+              "#materiality-determination",
+              "#materiality-integrity-constraint",
+              "#materiality-semi-independent",
+              "#materiality-under-uncertainty",
+              "#observability",
+              "#proxy-divergence",
+              "#proxy-metric-gaming-and-indicator-reality-gaps",
+              "#publication-and-high-impact-communication",
+              "#reasonably-foreseeable",
+              "#transparency",
+              "#transparency-auditability-and-verification-cluster",
+              "#truth-constitutional-constraint",
+              "#verifiability"
+            ]
+          },
+          {
+            "file": "core_05defs_participation.md",
+            "count": 16,
+            "anchors": [
+              "#assembly-constitutional",
+              "#coercion-and-manipulation-constitutional",
+              "#expression-constitutional",
+              "#info-sphere",
+              "#meaningful-agency",
+              "#procedural-fairness-constitutional",
+              "#stakeholder"
+            ]
+          },
+          {
+            "file": "core_06-06_rights_part_b.md",
+            "count": 1,
+            "anchors": [
+              "#article-v-h-expression-assembly-and-press"
+            ]
+          },
+          {
+            "file": "core_07_a_system_alignment_certification_evaluation.md",
+            "count": 10,
+            "anchors": [
+              "#3-whole-system-certification-evaluation"
+            ]
+          },
+          {
+            "file": "corpus_systems.md",
+            "count": 6,
+            "anchors": []
+          }
+        ]
+      },
+      {
+        "source": "core_05defs_participation.md",
+        "targets": [
+          {
+            "file": "core_00_preamble.md",
+            "count": 11,
+            "anchors": [
+              "#chapter-00-preamble--foundational-requirements",
+              "#constitutional-tetrad",
+              "#governance-layer-discipline",
+              "#two-constitutional-aims"
+            ]
+          },
+          {
+            "file": "core_01_a_values_principles.md",
+            "count": 38,
+            "anchors": [
+              "#2-foundational-objective-wellbeing",
+              "#21-fairness",
+              "#3-non-negotiable-constraints-safety-and-truth",
+              "#311-access-and-opportunity",
+              "#312-fair-treatment",
+              "#313-benefits-and-burdens",
+              "#5-freedom-bounded-agency",
+              "#51-limitation-discipline"
+            ]
+          },
+          {
+            "file": "core_01_b_interaction_interpretation.md",
+            "count": 5,
+            "anchors": [
+              "#61-core-tradeoff-principles",
+              "#63-rights-collision-procedure",
+              "#631-rights-collision-decision-test"
+            ]
+          },
+          {
+            "file": "core_01_c_stewardship_capacity_principles.md",
+            "count": 5,
+            "anchors": [
+              "#10-governance-under-stewardship-discipline",
+              "#13-market-structure",
+              "#9-stewardship-and-distributed-understanding"
+            ]
+          },
+          {
+            "file": "core_02-03_definition_mechanics.md",
+            "count": 2,
+            "anchors": [
+              "#formal-label-gaming-discipline"
+            ]
+          },
+          {
+            "file": "core_05_definitions_home.md",
+            "count": 5,
+            "anchors": [
+              "#chapter-five-foundational-definitions",
+              "#joint-invocation-and-satisfaction"
+            ]
+          },
+          {
+            "file": "core_05apex_accountability_leg.md",
+            "count": 2,
+            "anchors": [
+              "#accountability"
+            ]
+          },
+          {
+            "file": "core_05apex_flourishing_aim.md",
+            "count": 2,
+            "anchors": [
+              "#flourishing-aim-decomposition",
+              "#flourishing-constitutional"
+            ]
+          },
+          {
+            "file": "core_05apex_participation_leg.md",
+            "count": 13,
+            "anchors": [
+              "#6-process-conflict-resolution",
+              "#631-rights-collision-decision-test",
+              "#info-sphere-expression-press-journalistic-activity-and-good-faith-cluster",
+              "#participation-constitutional",
+              "#participation-tetrad-leg-decomposition"
+            ]
+          },
+          {
+            "file": "core_05defs_accountability.md",
+            "count": 116,
+            "anchors": [
+              "#accountability-contestability-semi-independent",
+              "#adjudication-and-dispute-resolution-constitutional",
+              "#contestability",
+              "#due-process-constitutional",
+              "#feasibility",
+              "#governance",
+              "#harassment-and-bullying",
+              "#harm",
+              "#irreversible-harm",
+              "#necessity",
+              "#privacy-informational-cluster",
+              "#proportionality",
+              "#protected-reporting-retaliation-and-access-interference",
+              "#protected-reporting-whistleblowing",
+              "#redress-and-remediation-constitutional"
+            ]
+          },
+          {
+            "file": "core_05defs_continuity.md",
+            "count": 71,
+            "anchors": [
+              "#agency-consent-and-anti-coercion-semi-independent",
+              "#charter",
+              "#dependency",
+              "#derived-developing-sentients-instantiation-and-care-authority-cluster",
+              "#ecological-integrity-constitutional",
+              "#emergency-pre-deliberation-action-binding-collective-choice",
+              "#environmental-preconditions-constitutional",
+              "#fair-compensation-constitutional",
+              "#intergenerational-responsibility-constitutional",
+              "#leisure-and-rest-constitutional",
+              "#privacy-informational",
+              "#protected-internal-state-boundary-constitutional",
+              "#reversibility-constitutional",
+              "#risk",
+              "#safe-conditions-constitutional",
+              "#safety-constraint",
+              "#surveillance-boundary",
+              "#system-boundaries",
+              "#system-capture",
+              "#systemic-lock-in",
+              "#trust"
+            ]
+          },
+          {
+            "file": "core_05defs_integrative.md",
+            "count": 13,
+            "anchors": [
+              "#animal-life-sentient-life-and-sentience-status-cluster",
+              "#authority-stack",
+              "#constitutional-constraint",
+              "#constitutional-contract-layer",
+              "#foundational-constitutional-choice"
+            ]
+          },
+          {
+            "file": "core_05defs_oversight.md",
+            "count": 58,
+            "anchors": [
+              "#adversarial-scaled-and-exploited-conditions",
+              "#auditability",
+              "#classification-scaled-governance",
+              "#epistemic-integrity",
+              "#material",
+              "#material-impact",
+              "#materiality-determination",
+              "#movement-refuge-semi-independent",
+              "#observability",
+              "#proxy-divergence",
+              "#transparency",
+              "#truth-constitutional-constraint"
+            ]
+          },
+          {
+            "file": "core_05defs_participation.md",
+            "count": 444,
+            "anchors": [
+              "#accessibility-constitutional",
+              "#animal-life-constitutional",
+              "#assembly-collective-organization-institutional-formation-cluster",
+              "#assembly-constitutional",
+              "#best-interest-standard-constitutional",
+              "#binding-collective-choice-decision-resolution-process",
+              "#binding-stakeholder-choice-cluster",
+              "#business-creation-constitutional",
+              "#coercion-and-manipulation-constitutional",
+              "#collective-organization-constitutional",
+              "#consent-constitutional",
+              "#consent-sexual",
+              "#constitutional-community",
+              "#contested-sentient-life-constitutional",
+              "#derived-sentient-constitutional",
+              "#developing-sentient-constitutional",
+              "#dignity-and-equal-moral-standing",
+              "#educational-agency",
+              "#expression-constitutional",
+              "#fairness-and-protected-status-semi-independent",
+              "#family-and-care-relationships-constitutional",
+              "#family-care-reproductive-autonomy-derivation-and-instantiation-semi-independent",
+              "#freedom-bounded-agency",
+              "#graduated-capability-constitutional",
+              "#info-sphere",
+              "#instantiation-consent-constitutional",
+              "#meaningful-agency",
+              "#movement-and-relocation-constitutional",
+              "#natural-systems-standing",
+              "#non-imposition-cooperative-interaction",
+              "#non-separation-constitutional",
+              "#non-statelessness-constitutional",
+              "#parent-system-relationship-constitutional",
+              "#procedural-fairness-constitutional",
+              "#protected-characteristic-proxying-and-disparate-impact",
+              "#protected-characteristics-constitutional",
+              "#protected-commercial-sexual-services-status-and-article-x-c-circumvention",
+              "#protected-intimate-signal-gating",
+              "#refuge-from-non-compliance-constitutional",
+              "#reproductive-autonomy-constitutional",
+              "#rights-collision-record-binding-stakeholder-choice",
+              "#self-determination-and-meaningful-agency-cluster",
+              "#self-determination-constitutional",
+              "#sentience-evaluation-e",
+              "#sentience-non-exclusion",
+              "#sentience-status-adjudication-constitutional",
+              "#sentient",
+              "#stakeholder",
+              "#stakeholder-participation-weight",
+              "#stakeholder-representation-and-participation-weight-limits-binding-collective-choice",
+              "#stakeholder-status-emergency-and-participation-weight-cluster",
+              "#substantive-fairness-constitutional",
+              "#system-creation-constitutional",
+              "#volitional-integrity"
+            ]
+          },
+          {
+            "file": "core_05defs_performance.md",
+            "count": 1,
+            "anchors": []
+          },
+          {
+            "file": "core_06-06_rights_part_a.md",
+            "count": 10,
+            "anchors": [
+              "#article-i-a-environmental-preconditions-and-ecological-integrity",
+              "#article-ii-e-info-sphere-dependency-continuity-and-operator-non-viability",
+              "#article-iii-b-equal-educational-access",
+              "#article-iii-d-labor-and-economic-floor"
+            ]
+          },
+          {
+            "file": "core_06-06_rights_part_b.md",
+            "count": 49,
+            "anchors": [
+              "#article-ix-a-agency-and-freedom-from-manipulation",
+              "#article-ix-b-stakeholder-role-and-participation-rights",
+              "#article-ix-self-determination-and-agency",
+              "#article-v-a-dignity-and-equal-moral-standing",
+              "#article-v-b-nondiscrimination",
+              "#article-v-e-sentience-status-adjudication-floor",
+              "#article-v-f-developing-sentients-best-interest-and-graduated-capability",
+              "#article-v-g-accessibility",
+              "#article-v-h-expression-assembly-and-press",
+              "#article-vi-right-to-sentient-centered-education",
+              "#article-vii-a-bodily-autonomy-and-non-intrusion",
+              "#article-vii-a-self-ownership-of-body-and-mind",
+              "#article-vii-d-family-care-relationships-reproductive-autonomy-and-non-separation",
+              "#article-vii-d1-derivation-instantiation-and-the-parent-system-relationship",
+              "#article-x-a-cooperative-interaction",
+              "#article-x-c-adult-consensual-commercial-sexual-services-and-sexual-exploitation",
+              "#article-xi-stakeholder-system-participation-representation-and-due-process"
+            ]
+          },
+          {
+            "file": "core_06-06_rights_part_c.md",
+            "count": 11,
+            "anchors": [
+              "#article-xiii-a-security-intelligence-and-covert-power-limits",
+              "#article-xix-d-movement-migration-refuge-and-non-statelessness",
+              "#article-xv-auditability-and-observable-evidence"
+            ]
+          },
+          {
+            "file": "core_06-06_rights_part_d.md",
+            "count": 1,
+            "anchors": [
+              "#article-xxiv-b-rights-collision-procedure-and-restorative-alignment"
+            ]
+          },
+          {
+            "file": "core_07_a_system_alignment_certification_evaluation.md",
+            "count": 11,
+            "anchors": [
+              "#3-whole-system-certification-evaluation",
+              "#32-accessibility-under-sentience-non-exclusion",
+              "#8-accessibility-evaluation"
+            ]
+          },
+          {
+            "file": "core_08-08_standing_assessment.md",
+            "count": 3,
+            "anchors": [
+              "#7-unified-proportional-lequ-scale",
+              "#lequ-baseline-constitutional-outcome"
+            ]
+          },
+          {
+            "file": "core_11-11_forum.md",
+            "count": 3,
+            "anchors": []
+          },
+          {
+            "file": "core_12-12_governance.md",
+            "count": 6,
+            "anchors": [
+              "#41-entitlement-and-eligibility",
+              "#43-decision-resolution-requirements-for-binding-collective-choice"
+            ]
+          },
+          {
+            "file": "core_16-16_incorporation.md",
+            "count": 3,
+            "anchors": []
+          },
+          {
+            "file": "corpus_institutions.md",
+            "count": 1,
+            "anchors": []
+          },
+          {
+            "file": "corpus_systems.md",
+            "count": 1,
+            "anchors": []
+          }
+        ]
+      },
+      {
         "source": "core_05defs_performance.md",
         "targets": [
           {
@@ -3895,7 +4432,7 @@
             ]
           },
           {
-            "file": "core_05-05_definitions_a_independent.md",
+            "file": "core_05_definitions_home.md",
             "count": 2,
             "anchors": [
               "#chapter-five-compass-and-definition-map",
@@ -3913,16 +4450,16 @@
             ]
           },
           {
-            "file": "core_05defs_integrative.md",
-            "count": 1,
-            "anchors": []
-          },
-          {
             "file": "core_05defs_oversight.md",
             "count": 1,
             "anchors": [
               "#materiality-determination"
             ]
+          },
+          {
+            "file": "core_05defs_participation.md",
+            "count": 1,
+            "anchors": []
           },
           {
             "file": "core_07_a_system_alignment_certification_evaluation.md",
@@ -3977,10 +4514,17 @@
             ]
           },
           {
-            "file": "core_05-05_definitions_a_independent.md",
+            "file": "core_05_definitions_home.md",
             "count": 1,
             "anchors": [
               "#chapter-five-foundational-definitions"
+            ]
+          },
+          {
+            "file": "core_05apex_participation_leg.md",
+            "count": 1,
+            "anchors": [
+              "#participation-constitutional"
             ]
           },
           {
@@ -4042,14 +4586,13 @@
           },
           {
             "file": "core_05defs_participation.md",
-            "count": 34,
+            "count": 33,
             "anchors": [
               "#accessibility-constitutional",
               "#coercion-and-manipulation-constitutional",
               "#educational-agency",
               "#fairness-and-protected-status-semi-independent",
               "#meaningful-agency",
-              "#participation-constitutional",
               "#protected-characteristic-proxying-and-disparate-impact",
               "#protected-characteristics-constitutional",
               "#substantive-fairness-constitutional"
@@ -4206,11 +4749,6 @@
             ]
           },
           {
-            "file": "core_05defs_performance.md",
-            "count": 1,
-            "anchors": []
-          },
-          {
             "file": "core_05defs_oversight.md",
             "count": 15,
             "anchors": [
@@ -4231,6 +4769,11 @@
             "anchors": [
               "#sentience-status-adjudication-constitutional"
             ]
+          },
+          {
+            "file": "core_05defs_performance.md",
+            "count": 1,
+            "anchors": []
           },
           {
             "file": "core_06-06_rights_part_c.md",
@@ -4384,17 +4927,23 @@
             "anchors": []
           },
           {
-            "file": "core_05-05_definitions_a_independent.md",
+            "file": "core_05_definitions_home.md",
             "count": 2,
             "anchors": [
               "#chapter-five-foundational-definitions"
             ]
           },
           {
-            "file": "core_05defs_accountability.md",
-            "count": 17,
+            "file": "core_05apex_accountability_leg.md",
+            "count": 1,
             "anchors": [
-              "#accountability",
+              "#accountability"
+            ]
+          },
+          {
+            "file": "core_05defs_accountability.md",
+            "count": 16,
+            "anchors": [
               "#contestability",
               "#contribution-state",
               "#forum-case-record",
@@ -4537,11 +5086,17 @@
             ]
           },
           {
-            "file": "core_05defs_accountability.md",
-            "count": 2,
+            "file": "core_05apex_timeliness_leg.md",
+            "count": 1,
             "anchors": [
-              "#remedy-system-constitutional",
               "#timeliness-constitutional"
+            ]
+          },
+          {
+            "file": "core_05defs_accountability.md",
+            "count": 1,
+            "anchors": [
+              "#remedy-system-constitutional"
             ]
           },
           {
@@ -4633,12 +5188,18 @@
             "anchors": []
           },
           {
-            "file": "core_05defs_accountability.md",
-            "count": 20,
+            "file": "core_05apex_accountability_leg.md",
+            "count": 4,
             "anchors": [
               "#accountability",
               "#accountability-a",
-              "#accountability-c",
+              "#accountability-c"
+            ]
+          },
+          {
+            "file": "core_05defs_accountability.md",
+            "count": 16,
+            "anchors": [
               "#necessity",
               "#necessity-a",
               "#necessity-c",
@@ -4769,19 +5330,34 @@
             ]
           },
           {
-            "file": "core_05-05_definitions_a_independent.md",
+            "file": "core_05_definitions_home.md",
             "count": 1,
             "anchors": [
               "#chapter-five-foundational-definitions"
             ]
           },
           {
-            "file": "core_05defs_accountability.md",
-            "count": 100,
+            "file": "core_05apex_accountability_leg.md",
+            "count": 24,
             "anchors": [
               "#accountability",
               "#accountability-a",
-              "#accountability-c",
+              "#accountability-c"
+            ]
+          },
+          {
+            "file": "core_05apex_oversight_leg.md",
+            "count": 10,
+            "anchors": [
+              "#oversight-constitutional",
+              "#oversight-constitutional-a",
+              "#oversight-constitutional-c"
+            ]
+          },
+          {
+            "file": "core_05defs_accountability.md",
+            "count": 76,
+            "anchors": [
               "#collective-accountability-failure",
               "#collective-accountability-failure-a",
               "#collective-accountability-failure-c",
@@ -4842,7 +5418,7 @@
           },
           {
             "file": "core_05defs_oversight.md",
-            "count": 64,
+            "count": 54,
             "anchors": [
               "#auditability",
               "#auditability-a",
@@ -4855,9 +5431,6 @@
               "#evidence-preservation-a",
               "#evidence-preservation-c",
               "#materiality-determination",
-              "#oversight-constitutional",
-              "#oversight-constitutional-a",
-              "#oversight-constitutional-c",
               "#transparency",
               "#transparency-a",
               "#transparency-c",
@@ -5017,7 +5590,7 @@
             "anchors": []
           },
           {
-            "file": "core_05-05_definitions_a_independent.md",
+            "file": "core_05_definitions_home.md",
             "count": 3,
             "anchors": [
               "#chapter-five-foundational-definitions"
@@ -5225,11 +5798,17 @@
             ]
           },
           {
-            "file": "core_05defs_accountability.md",
-            "count": 3,
+            "file": "core_05apex_timeliness_leg.md",
+            "count": 2,
             "anchors": [
-              "#capture-of-resolution-pathways",
               "#timeliness-constitutional"
+            ]
+          },
+          {
+            "file": "core_05defs_accountability.md",
+            "count": 1,
+            "anchors": [
+              "#capture-of-resolution-pathways"
             ]
           },
           {
@@ -5643,12 +6222,18 @@
             ]
           },
           {
-            "file": "core_05defs_accountability.md",
-            "count": 164,
+            "file": "core_05apex_accountability_leg.md",
+            "count": 12,
             "anchors": [
               "#accountability",
               "#accountability-a",
-              "#accountability-c",
+              "#accountability-c"
+            ]
+          },
+          {
+            "file": "core_05defs_accountability.md",
+            "count": 152,
+            "anchors": [
               "#collective-harm-boundary",
               "#collective-harm-boundary-a",
               "#collective-harm-boundary-c",
@@ -5979,12 +6564,27 @@
             ]
           },
           {
-            "file": "core_05defs_accountability.md",
-            "count": 268,
+            "file": "core_05apex_accountability_leg.md",
+            "count": 28,
             "anchors": [
               "#accountability",
               "#accountability-a",
-              "#accountability-c",
+              "#accountability-c"
+            ]
+          },
+          {
+            "file": "core_05apex_oversight_leg.md",
+            "count": 4,
+            "anchors": [
+              "#oversight-constitutional",
+              "#oversight-constitutional-a",
+              "#oversight-constitutional-c"
+            ]
+          },
+          {
+            "file": "core_05defs_accountability.md",
+            "count": 240,
+            "anchors": [
               "#autonomous-coercion-tool-constitutional",
               "#autonomous-coercion-tool-constitutional-a",
               "#autonomous-coercion-tool-constitutional-c",
@@ -6130,7 +6730,7 @@
           },
           {
             "file": "core_05defs_oversight.md",
-            "count": 191,
+            "count": 187,
             "anchors": [
               "#auditability",
               "#auditability-a",
@@ -6153,9 +6753,6 @@
               "#materiality-determination-a",
               "#materiality-determination-c",
               "#movement-refuge-semi-independent",
-              "#oversight-constitutional",
-              "#oversight-constitutional-a",
-              "#oversight-constitutional-c",
               "#transparency",
               "#transparency-a",
               "#transparency-c",
@@ -6340,12 +6937,26 @@
             ]
           },
           {
-            "file": "core_05defs_accountability.md",
-            "count": 141,
+            "file": "core_05apex_accountability_leg.md",
+            "count": 32,
             "anchors": [
               "#accountability",
               "#accountability-a",
-              "#accountability-c",
+              "#accountability-c"
+            ]
+          },
+          {
+            "file": "core_05apex_timeliness_leg.md",
+            "count": 3,
+            "anchors": [
+              "#timeliness-constitutional",
+              "#timeliness-constitutional-a"
+            ]
+          },
+          {
+            "file": "core_05defs_accountability.md",
+            "count": 106,
+            "anchors": [
               "#adjudication-and-dispute-resolution-constitutional",
               "#adjudication-and-dispute-resolution-constitutional-a",
               "#adjudication-and-dispute-resolution-constitutional-c",
@@ -6373,8 +6984,6 @@
               "#restorative-justice",
               "#restorative-justice-a",
               "#restorative-justice-c",
-              "#timeliness-constitutional",
-              "#timeliness-constitutional-a",
               "#timely-resolution-constitutional",
               "#timely-resolution-constitutional-a",
               "#timely-resolution-constitutional-c"
@@ -6560,7 +7169,7 @@
             "anchors": []
           },
           {
-            "file": "core_05-05_definitions_a_independent.md",
+            "file": "core_05_definitions_home.md",
             "count": 5,
             "anchors": [
               "#chapter-five-foundational-definitions"
@@ -6730,7 +7339,7 @@
             "anchors": []
           },
           {
-            "file": "core_05-05_definitions_a_independent.md",
+            "file": "core_05_definitions_home.md",
             "count": 1,
             "anchors": [
               "#chapter-five-foundational-definitions"
@@ -6919,7 +7528,7 @@
             "anchors": []
           },
           {
-            "file": "core_05-05_definitions_a_independent.md",
+            "file": "core_05_definitions_home.md",
             "count": 7,
             "anchors": [
               "#chapter-five-foundational-definitions"
@@ -7441,7 +8050,7 @@
             ]
           },
           {
-            "file": "core_05-05_definitions_a_independent.md",
+            "file": "core_05_definitions_home.md",
             "count": 5,
             "anchors": [
               "#chapter-five-foundational-definitions"
@@ -7579,10 +8188,19 @@
             ]
           },
           {
-            "file": "core_05-05_definitions_a_independent.md",
+            "file": "core_05_definitions_home.md",
             "count": 6,
             "anchors": [
               "#chapter-five-foundational-definitions"
+            ]
+          },
+          {
+            "file": "core_05apex_oversight_leg.md",
+            "count": 8,
+            "anchors": [
+              "#oversight-constitutional",
+              "#oversight-constitutional-a",
+              "#oversight-constitutional-c"
             ]
           },
           {
@@ -7627,7 +8245,7 @@
           },
           {
             "file": "core_05defs_oversight.md",
-            "count": 24,
+            "count": 16,
             "anchors": [
               "#epistemic-integrity",
               "#epistemic-integrity-a",
@@ -7637,10 +8255,7 @@
               "#evidence-preservation-c",
               "#materiality-determination",
               "#materiality-determination-a",
-              "#materiality-determination-c",
-              "#oversight-constitutional",
-              "#oversight-constitutional-a",
-              "#oversight-constitutional-c"
+              "#materiality-determination-c"
             ]
           },
           {
@@ -7690,7 +8305,7 @@
         "source": "corpus_joint_structure/cjs_02_implementation_integration_map.md",
         "targets": [
           {
-            "file": "core_05-05_definitions_a_independent.md",
+            "file": "core_05_definitions_home.md",
             "count": 4,
             "anchors": [
               "#chapter-five-foundational-definitions"
@@ -7743,10 +8358,19 @@
         "source": "corpus_joint_structure/cjs_03_joint_structural_obligations.md",
         "targets": [
           {
-            "file": "core_05-05_definitions_a_independent.md",
+            "file": "core_05_definitions_home.md",
             "count": 7,
             "anchors": [
               "#chapter-five-foundational-definitions"
+            ]
+          },
+          {
+            "file": "core_05apex_oversight_leg.md",
+            "count": 4,
+            "anchors": [
+              "#oversight-constitutional",
+              "#oversight-constitutional-a",
+              "#oversight-constitutional-c"
             ]
           },
           {
@@ -7797,7 +8421,7 @@
           },
           {
             "file": "core_05defs_oversight.md",
-            "count": 32,
+            "count": 28,
             "anchors": [
               "#classification-scaled-governance",
               "#classification-scaled-governance-a",
@@ -7807,10 +8431,7 @@
               "#material-c",
               "#materiality-determination",
               "#materiality-determination-a",
-              "#materiality-determination-c",
-              "#oversight-constitutional",
-              "#oversight-constitutional-a",
-              "#oversight-constitutional-c"
+              "#materiality-determination-c"
             ]
           },
           {
@@ -7863,7 +8484,7 @@
         "source": "corpus_joint_structure/cjs_04_specific_joint_interlocks.md",
         "targets": [
           {
-            "file": "core_05-05_definitions_a_independent.md",
+            "file": "core_05_definitions_home.md",
             "count": 8,
             "anchors": [
               "#chapter-five-foundational-definitions"
@@ -8032,19 +8653,25 @@
             ]
           },
           {
-            "file": "core_05-05_definitions_a_independent.md",
+            "file": "core_05_definitions_home.md",
             "count": 2,
             "anchors": [
               "#chapter-five-foundational-definitions"
             ]
           },
           {
-            "file": "core_05defs_accountability.md",
-            "count": 19,
+            "file": "core_05apex_accountability_leg.md",
+            "count": 4,
             "anchors": [
               "#accountability",
               "#accountability-a",
-              "#accountability-c",
+              "#accountability-c"
+            ]
+          },
+          {
+            "file": "core_05defs_accountability.md",
+            "count": 15,
+            "anchors": [
               "#competency-gate",
               "#competency-gate-a",
               "#competency-gate-c",
@@ -8211,19 +8838,34 @@
             ]
           },
           {
-            "file": "core_05-05_definitions_a_independent.md",
+            "file": "core_05_definitions_home.md",
             "count": 6,
             "anchors": [
               "#chapter-five-foundational-definitions"
             ]
           },
           {
-            "file": "core_05defs_accountability.md",
-            "count": 64,
+            "file": "core_05apex_accountability_leg.md",
+            "count": 12,
             "anchors": [
               "#accountability",
               "#accountability-a",
-              "#accountability-c",
+              "#accountability-c"
+            ]
+          },
+          {
+            "file": "core_05apex_oversight_leg.md",
+            "count": 8,
+            "anchors": [
+              "#oversight-constitutional",
+              "#oversight-constitutional-a",
+              "#oversight-constitutional-c"
+            ]
+          },
+          {
+            "file": "core_05defs_accountability.md",
+            "count": 52,
+            "anchors": [
               "#concentration-threshold-constitutional",
               "#contestability",
               "#contestability-a",
@@ -8258,7 +8900,7 @@
           },
           {
             "file": "core_05defs_oversight.md",
-            "count": 62,
+            "count": 54,
             "anchors": [
               "#auditability",
               "#auditability-a",
@@ -8267,9 +8909,6 @@
               "#material-a",
               "#material-c",
               "#materiality-determination",
-              "#oversight-constitutional",
-              "#oversight-constitutional-a",
-              "#oversight-constitutional-c",
               "#proxy-divergence",
               "#transparency",
               "#transparency-a",
@@ -8374,19 +9013,34 @@
             ]
           },
           {
-            "file": "core_05-05_definitions_a_independent.md",
+            "file": "core_05_definitions_home.md",
             "count": 7,
             "anchors": [
               "#chapter-five-foundational-definitions"
             ]
           },
           {
-            "file": "core_05defs_accountability.md",
-            "count": 44,
+            "file": "core_05apex_accountability_leg.md",
+            "count": 8,
             "anchors": [
               "#accountability",
               "#accountability-a",
-              "#accountability-c",
+              "#accountability-c"
+            ]
+          },
+          {
+            "file": "core_05apex_oversight_leg.md",
+            "count": 8,
+            "anchors": [
+              "#oversight-constitutional",
+              "#oversight-constitutional-a",
+              "#oversight-constitutional-c"
+            ]
+          },
+          {
+            "file": "core_05defs_accountability.md",
+            "count": 36,
+            "anchors": [
               "#feasibility",
               "#feasibility-a",
               "#feasibility-c",
@@ -8434,7 +9088,7 @@
           },
           {
             "file": "core_05defs_oversight.md",
-            "count": 74,
+            "count": 66,
             "anchors": [
               "#auditability",
               "#auditability-a",
@@ -8446,9 +9100,6 @@
               "#material-risk-a",
               "#material-risk-c",
               "#materiality-determination",
-              "#oversight-constitutional",
-              "#oversight-constitutional-a",
-              "#oversight-constitutional-c",
               "#transparency",
               "#transparency-a",
               "#transparency-c"
@@ -8514,19 +9165,34 @@
             ]
           },
           {
-            "file": "core_05-05_definitions_a_independent.md",
+            "file": "core_05_definitions_home.md",
             "count": 3,
             "anchors": [
               "#chapter-five-foundational-definitions"
             ]
           },
           {
-            "file": "core_05defs_accountability.md",
-            "count": 12,
+            "file": "core_05apex_accountability_leg.md",
+            "count": 8,
             "anchors": [
               "#accountability",
               "#accountability-a",
-              "#accountability-c",
+              "#accountability-c"
+            ]
+          },
+          {
+            "file": "core_05apex_oversight_leg.md",
+            "count": 4,
+            "anchors": [
+              "#oversight-constitutional",
+              "#oversight-constitutional-a",
+              "#oversight-constitutional-c"
+            ]
+          },
+          {
+            "file": "core_05defs_accountability.md",
+            "count": 4,
+            "anchors": [
               "#governance",
               "#governance-a",
               "#governance-c"
@@ -8559,7 +9225,7 @@
           },
           {
             "file": "core_05defs_oversight.md",
-            "count": 26,
+            "count": 22,
             "anchors": [
               "#auditability",
               "#auditability-a",
@@ -8568,9 +9234,6 @@
               "#material-a",
               "#material-c",
               "#materiality-determination",
-              "#oversight-constitutional",
-              "#oversight-constitutional-a",
-              "#oversight-constitutional-c",
               "#transparency",
               "#transparency-a",
               "#transparency-c"
@@ -8637,19 +9300,34 @@
             ]
           },
           {
-            "file": "core_05-05_definitions_a_independent.md",
+            "file": "core_05_definitions_home.md",
             "count": 6,
             "anchors": [
               "#chapter-five-foundational-definitions"
             ]
           },
           {
-            "file": "core_05defs_accountability.md",
-            "count": 36,
+            "file": "core_05apex_accountability_leg.md",
+            "count": 16,
             "anchors": [
               "#accountability",
               "#accountability-a",
-              "#accountability-c",
+              "#accountability-c"
+            ]
+          },
+          {
+            "file": "core_05apex_oversight_leg.md",
+            "count": 4,
+            "anchors": [
+              "#oversight-constitutional",
+              "#oversight-constitutional-a",
+              "#oversight-constitutional-c"
+            ]
+          },
+          {
+            "file": "core_05defs_accountability.md",
+            "count": 20,
+            "anchors": [
               "#contestability",
               "#contestability-a",
               "#contestability-c",
@@ -8690,7 +9368,7 @@
           },
           {
             "file": "core_05defs_oversight.md",
-            "count": 62,
+            "count": 58,
             "anchors": [
               "#auditability",
               "#auditability-a",
@@ -8703,9 +9381,6 @@
               "#material-risk-a",
               "#material-risk-c",
               "#materiality-determination",
-              "#oversight-constitutional",
-              "#oversight-constitutional-a",
-              "#oversight-constitutional-c",
               "#transparency",
               "#transparency-a",
               "#transparency-c",
@@ -8774,19 +9449,34 @@
             ]
           },
           {
-            "file": "core_05-05_definitions_a_independent.md",
+            "file": "core_05_definitions_home.md",
             "count": 5,
             "anchors": [
               "#chapter-five-foundational-definitions"
             ]
           },
           {
-            "file": "core_05defs_accountability.md",
-            "count": 12,
+            "file": "core_05apex_accountability_leg.md",
+            "count": 8,
             "anchors": [
               "#accountability",
               "#accountability-a",
-              "#accountability-c",
+              "#accountability-c"
+            ]
+          },
+          {
+            "file": "core_05apex_oversight_leg.md",
+            "count": 12,
+            "anchors": [
+              "#oversight-constitutional",
+              "#oversight-constitutional-a",
+              "#oversight-constitutional-c"
+            ]
+          },
+          {
+            "file": "core_05defs_accountability.md",
+            "count": 4,
+            "anchors": [
               "#contestability",
               "#contestability-a",
               "#contestability-c"
@@ -8825,7 +9515,7 @@
           },
           {
             "file": "core_05defs_oversight.md",
-            "count": 52,
+            "count": 40,
             "anchors": [
               "#auditability",
               "#auditability-a",
@@ -8840,9 +9530,6 @@
               "#observability",
               "#observability-a",
               "#observability-c",
-              "#oversight-constitutional",
-              "#oversight-constitutional-a",
-              "#oversight-constitutional-c",
               "#transparency",
               "#transparency-a",
               "#transparency-c"
@@ -8928,7 +9615,7 @@
             ]
           },
           {
-            "file": "core_05-05_definitions_a_independent.md",
+            "file": "core_05_definitions_home.md",
             "count": 2,
             "anchors": [
               "#chapter-five-foundational-definitions"
@@ -9069,7 +9756,7 @@
         "source": "corpus_systems/cs_01_scope_purpose_identifier_rules.md",
         "targets": [
           {
-            "file": "core_05-05_definitions_a_independent.md",
+            "file": "core_05_definitions_home.md",
             "count": 1,
             "anchors": [
               "#chapter-five-foundational-definitions"
@@ -9127,7 +9814,7 @@
         "source": "corpus_systems/cs_02_implementation_integration_map.md",
         "targets": [
           {
-            "file": "core_05-05_definitions_a_independent.md",
+            "file": "core_05_definitions_home.md",
             "count": 4,
             "anchors": [
               "#chapter-five-foundational-definitions"
@@ -9463,6 +10150,13 @@
         "source": "corpus_systems/cs_s1_information_types_and_handling.md",
         "targets": [
           {
+            "file": "core_05defs_oversight.md",
+            "count": 1,
+            "anchors": [
+              "#transparency"
+            ]
+          },
+          {
             "file": "corpus_systems/cs_protocol_c_justice_safeguards_restitution_rehabilitation.md",
             "count": 1,
             "anchors": []
@@ -9565,7 +10259,7 @@
             ]
           },
           {
-            "file": "core_05-05_definitions_a_independent.md",
+            "file": "core_05_definitions_home.md",
             "count": 2,
             "anchors": [
               "#chapter-five-foundational-definitions"
@@ -9761,19 +10455,34 @@
         "source": "corpus_institutions/ci_01_scope_purpose_legitimacy_interface.md",
         "targets": [
           {
-            "file": "core_05-05_definitions_a_independent.md",
+            "file": "core_05_definitions_home.md",
             "count": 5,
             "anchors": [
               "#chapter-five-foundational-definitions"
             ]
           },
           {
-            "file": "core_05defs_accountability.md",
-            "count": 20,
+            "file": "core_05apex_accountability_leg.md",
+            "count": 4,
             "anchors": [
               "#accountability",
               "#accountability-a",
-              "#accountability-c",
+              "#accountability-c"
+            ]
+          },
+          {
+            "file": "core_05apex_oversight_leg.md",
+            "count": 4,
+            "anchors": [
+              "#oversight-constitutional",
+              "#oversight-constitutional-a",
+              "#oversight-constitutional-c"
+            ]
+          },
+          {
+            "file": "core_05defs_accountability.md",
+            "count": 16,
+            "anchors": [
               "#governance",
               "#governance-a",
               "#governance-c",
@@ -9824,7 +10533,7 @@
           },
           {
             "file": "core_05defs_oversight.md",
-            "count": 28,
+            "count": 24,
             "anchors": [
               "#classification-scaled-governance",
               "#classification-scaled-governance-a",
@@ -9835,9 +10544,6 @@
               "#material-impact",
               "#material-impact-a",
               "#material-impact-c",
-              "#oversight-constitutional",
-              "#oversight-constitutional-a",
-              "#oversight-constitutional-c",
               "#transparency",
               "#transparency-a",
               "#transparency-c"
@@ -9912,7 +10618,7 @@
         "source": "corpus_institutions/ci_02_implementation_integration_map.md",
         "targets": [
           {
-            "file": "core_05-05_definitions_a_independent.md",
+            "file": "core_05_definitions_home.md",
             "count": 3,
             "anchors": [
               "#chapter-five-foundational-definitions"
@@ -9989,19 +10695,34 @@
             ]
           },
           {
-            "file": "core_05-05_definitions_a_independent.md",
+            "file": "core_05_definitions_home.md",
             "count": 7,
             "anchors": [
               "#chapter-five-foundational-definitions"
             ]
           },
           {
-            "file": "core_05defs_accountability.md",
-            "count": 61,
+            "file": "core_05apex_accountability_leg.md",
+            "count": 8,
             "anchors": [
               "#accountability",
               "#accountability-a",
-              "#accountability-c",
+              "#accountability-c"
+            ]
+          },
+          {
+            "file": "core_05apex_oversight_leg.md",
+            "count": 4,
+            "anchors": [
+              "#oversight-constitutional",
+              "#oversight-constitutional-a",
+              "#oversight-constitutional-c"
+            ]
+          },
+          {
+            "file": "core_05defs_accountability.md",
+            "count": 53,
+            "anchors": [
               "#concentration-threshold-constitutional",
               "#concentration-threshold-constitutional-a",
               "#concentration-threshold-constitutional-c",
@@ -10059,7 +10780,7 @@
           },
           {
             "file": "core_05defs_oversight.md",
-            "count": 41,
+            "count": 37,
             "anchors": [
               "#auditability",
               "#auditability-a",
@@ -10075,10 +10796,7 @@
               "#material-impact-c",
               "#material-risk",
               "#material-risk-a",
-              "#material-risk-c",
-              "#oversight-constitutional",
-              "#oversight-constitutional-a",
-              "#oversight-constitutional-c"
+              "#material-risk-c"
             ]
           },
           {
@@ -10165,19 +10883,25 @@
         "source": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
         "targets": [
           {
-            "file": "core_05-05_definitions_a_independent.md",
+            "file": "core_05_definitions_home.md",
             "count": 6,
             "anchors": [
               "#chapter-five-foundational-definitions"
             ]
           },
           {
-            "file": "core_05defs_accountability.md",
-            "count": 36,
+            "file": "core_05apex_accountability_leg.md",
+            "count": 12,
             "anchors": [
               "#accountability",
               "#accountability-a",
-              "#accountability-c",
+              "#accountability-c"
+            ]
+          },
+          {
+            "file": "core_05defs_accountability.md",
+            "count": 24,
+            "anchors": [
               "#competency-gate",
               "#competency-gate-a",
               "#competency-gate-c",
@@ -10301,19 +11025,34 @@
         "source": "corpus_institutions/ci_05_conflict_integrity_anti_capture_anti_corruption.md",
         "targets": [
           {
-            "file": "core_05-05_definitions_a_independent.md",
+            "file": "core_05_definitions_home.md",
             "count": 4,
             "anchors": [
               "#chapter-five-foundational-definitions"
             ]
           },
           {
-            "file": "core_05defs_accountability.md",
-            "count": 52,
+            "file": "core_05apex_accountability_leg.md",
+            "count": 12,
             "anchors": [
               "#accountability",
               "#accountability-a",
-              "#accountability-c",
+              "#accountability-c"
+            ]
+          },
+          {
+            "file": "core_05apex_oversight_leg.md",
+            "count": 4,
+            "anchors": [
+              "#oversight-constitutional",
+              "#oversight-constitutional-a",
+              "#oversight-constitutional-c"
+            ]
+          },
+          {
+            "file": "core_05defs_accountability.md",
+            "count": 40,
+            "anchors": [
               "#capture-of-resolution-pathways",
               "#capture-of-resolution-pathways-a",
               "#capture-of-resolution-pathways-c",
@@ -10351,17 +11090,14 @@
           },
           {
             "file": "core_05defs_oversight.md",
-            "count": 16,
+            "count": 12,
             "anchors": [
               "#evidence-preservation",
               "#evidence-preservation-a",
               "#evidence-preservation-c",
               "#material",
               "#material-a",
-              "#material-c",
-              "#oversight-constitutional",
-              "#oversight-constitutional-a",
-              "#oversight-constitutional-c"
+              "#material-c"
             ]
           },
           {
@@ -10413,19 +11149,34 @@
         "source": "corpus_institutions/ci_06_procedure_integrity_contestability_secondary_review.md",
         "targets": [
           {
-            "file": "core_05-05_definitions_a_independent.md",
+            "file": "core_05_definitions_home.md",
             "count": 1,
             "anchors": [
               "#chapter-five-foundational-definitions"
             ]
           },
           {
-            "file": "core_05defs_accountability.md",
-            "count": 12,
+            "file": "core_05apex_accountability_leg.md",
+            "count": 4,
             "anchors": [
               "#accountability",
               "#accountability-a",
-              "#accountability-c",
+              "#accountability-c"
+            ]
+          },
+          {
+            "file": "core_05apex_oversight_leg.md",
+            "count": 4,
+            "anchors": [
+              "#oversight-constitutional",
+              "#oversight-constitutional-a",
+              "#oversight-constitutional-c"
+            ]
+          },
+          {
+            "file": "core_05defs_accountability.md",
+            "count": 8,
+            "anchors": [
               "#contestability",
               "#contestability-a",
               "#contestability-c",
@@ -10445,14 +11196,11 @@
           },
           {
             "file": "core_05defs_oversight.md",
-            "count": 8,
+            "count": 4,
             "anchors": [
               "#material",
               "#material-a",
-              "#material-c",
-              "#oversight-constitutional",
-              "#oversight-constitutional-a",
-              "#oversight-constitutional-c"
+              "#material-c"
             ]
           },
           {
@@ -10513,10 +11261,19 @@
         "source": "corpus_institutions/ci_07_oversight_assurance_controls_evidence.md",
         "targets": [
           {
-            "file": "core_05-05_definitions_a_independent.md",
+            "file": "core_05_definitions_home.md",
             "count": 4,
             "anchors": [
               "#chapter-five-foundational-definitions"
+            ]
+          },
+          {
+            "file": "core_05apex_oversight_leg.md",
+            "count": 12,
+            "anchors": [
+              "#oversight-constitutional",
+              "#oversight-constitutional-a",
+              "#oversight-constitutional-c"
             ]
           },
           {
@@ -10548,7 +11305,7 @@
           },
           {
             "file": "core_05defs_oversight.md",
-            "count": 61,
+            "count": 49,
             "anchors": [
               "#auditability",
               "#auditability-a",
@@ -10562,9 +11319,6 @@
               "#observability",
               "#observability-a",
               "#observability-c",
-              "#oversight-constitutional",
-              "#oversight-constitutional-a",
-              "#oversight-constitutional-c",
               "#transparency",
               "#transparency-a",
               "#transparency-c"
@@ -10631,19 +11385,34 @@
         "source": "corpus_institutions/ci_08_transparency_participation_accessible_pathways.md",
         "targets": [
           {
-            "file": "core_05-05_definitions_a_independent.md",
+            "file": "core_05_definitions_home.md",
             "count": 5,
             "anchors": [
               "#chapter-five-foundational-definitions"
             ]
           },
           {
-            "file": "core_05defs_accountability.md",
-            "count": 24,
+            "file": "core_05apex_accountability_leg.md",
+            "count": 4,
             "anchors": [
               "#accountability",
               "#accountability-a",
-              "#accountability-c",
+              "#accountability-c"
+            ]
+          },
+          {
+            "file": "core_05apex_oversight_leg.md",
+            "count": 12,
+            "anchors": [
+              "#oversight-constitutional",
+              "#oversight-constitutional-a",
+              "#oversight-constitutional-c"
+            ]
+          },
+          {
+            "file": "core_05defs_accountability.md",
+            "count": 20,
+            "anchors": [
               "#contestability",
               "#contestability-a",
               "#contestability-c",
@@ -10678,7 +11447,7 @@
           },
           {
             "file": "core_05defs_oversight.md",
-            "count": 49,
+            "count": 37,
             "anchors": [
               "#auditability",
               "#auditability-a",
@@ -10686,9 +11455,6 @@
               "#material",
               "#material-a",
               "#material-c",
-              "#oversight-constitutional",
-              "#oversight-constitutional-a",
-              "#oversight-constitutional-c",
               "#transparency",
               "#transparency-a",
               "#transparency-c"
@@ -10772,10 +11538,19 @@
         "source": "corpus_institutions/ci_09_classification_linked_institutional_obligations.md",
         "targets": [
           {
-            "file": "core_05-05_definitions_a_independent.md",
+            "file": "core_05_definitions_home.md",
             "count": 9,
             "anchors": [
               "#chapter-five-foundational-definitions"
+            ]
+          },
+          {
+            "file": "core_05apex_oversight_leg.md",
+            "count": 16,
+            "anchors": [
+              "#oversight-constitutional",
+              "#oversight-constitutional-a",
+              "#oversight-constitutional-c"
             ]
           },
           {
@@ -10837,7 +11612,7 @@
           },
           {
             "file": "core_05defs_oversight.md",
-            "count": 80,
+            "count": 64,
             "anchors": [
               "#auditability",
               "#auditability-a",
@@ -10854,9 +11629,6 @@
               "#material-impact",
               "#material-impact-a",
               "#material-impact-c",
-              "#oversight-constitutional",
-              "#oversight-constitutional-a",
-              "#oversight-constitutional-c",
               "#transparency",
               "#transparency-a",
               "#transparency-c"
@@ -10930,7 +11702,7 @@
         "source": "corpus_institutions/ci_10_public_revenue_fees_recurring_charges_billing_integrity.md",
         "targets": [
           {
-            "file": "core_05-05_definitions_a_independent.md",
+            "file": "core_05_definitions_home.md",
             "count": 3,
             "anchors": [
               "#chapter-five-foundational-definitions"
@@ -11054,7 +11826,7 @@
         "source": "corpus_institutions/ci_11_resource_stewardship_incentive_integrity.md",
         "targets": [
           {
-            "file": "core_05-05_definitions_a_independent.md",
+            "file": "core_05_definitions_home.md",
             "count": 1,
             "anchors": [
               "#chapter-five-foundational-definitions"
@@ -11154,19 +11926,34 @@
         "source": "corpus_institutions/ci_12_cross_institution_coordination_escalation.md",
         "targets": [
           {
-            "file": "core_05-05_definitions_a_independent.md",
+            "file": "core_05_definitions_home.md",
             "count": 1,
             "anchors": [
               "#chapter-five-foundational-definitions"
             ]
           },
           {
-            "file": "core_05defs_accountability.md",
-            "count": 10,
+            "file": "core_05apex_accountability_leg.md",
+            "count": 4,
             "anchors": [
               "#accountability",
               "#accountability-a",
-              "#accountability-c",
+              "#accountability-c"
+            ]
+          },
+          {
+            "file": "core_05apex_oversight_leg.md",
+            "count": 4,
+            "anchors": [
+              "#oversight-constitutional",
+              "#oversight-constitutional-a",
+              "#oversight-constitutional-c"
+            ]
+          },
+          {
+            "file": "core_05defs_accountability.md",
+            "count": 6,
+            "anchors": [
               "#governance",
               "#governance-a",
               "#governance-c",
@@ -11195,14 +11982,11 @@
           },
           {
             "file": "core_05defs_oversight.md",
-            "count": 8,
+            "count": 4,
             "anchors": [
               "#material",
               "#material-a",
-              "#material-c",
-              "#oversight-constitutional",
-              "#oversight-constitutional-a",
-              "#oversight-constitutional-c"
+              "#material-c"
             ]
           },
           {
@@ -11254,19 +12038,25 @@
         "source": "corpus_institutions/ci_13_institutional_failure_sanctions_dissolution_accountability.md",
         "targets": [
           {
-            "file": "core_05-05_definitions_a_independent.md",
+            "file": "core_05_definitions_home.md",
             "count": 1,
             "anchors": [
               "#chapter-five-foundational-definitions"
             ]
           },
           {
-            "file": "core_05defs_accountability.md",
-            "count": 12,
+            "file": "core_05apex_accountability_leg.md",
+            "count": 4,
             "anchors": [
               "#accountability",
               "#accountability-a",
-              "#accountability-c",
+              "#accountability-c"
+            ]
+          },
+          {
+            "file": "core_05defs_accountability.md",
+            "count": 8,
+            "anchors": [
               "#governance",
               "#governance-a",
               "#governance-c",
@@ -11362,19 +12152,34 @@
             ]
           },
           {
-            "file": "core_05-05_definitions_a_independent.md",
+            "file": "core_05_definitions_home.md",
             "count": 4,
             "anchors": [
               "#chapter-five-foundational-definitions"
             ]
           },
           {
-            "file": "core_05defs_accountability.md",
-            "count": 28,
+            "file": "core_05apex_accountability_leg.md",
+            "count": 4,
             "anchors": [
               "#accountability",
               "#accountability-a",
-              "#accountability-c",
+              "#accountability-c"
+            ]
+          },
+          {
+            "file": "core_05apex_oversight_leg.md",
+            "count": 8,
+            "anchors": [
+              "#oversight-constitutional",
+              "#oversight-constitutional-a",
+              "#oversight-constitutional-c"
+            ]
+          },
+          {
+            "file": "core_05defs_accountability.md",
+            "count": 24,
+            "anchors": [
               "#contestability",
               "#contestability-a",
               "#contestability-c",
@@ -11419,17 +12224,14 @@
           },
           {
             "file": "core_05defs_oversight.md",
-            "count": 26,
+            "count": 18,
             "anchors": [
               "#evidence-preservation",
               "#evidence-preservation-a",
               "#evidence-preservation-c",
               "#material",
               "#material-a",
-              "#material-c",
-              "#oversight-constitutional",
-              "#oversight-constitutional-a",
-              "#oversight-constitutional-c"
+              "#material-c"
             ]
           },
           {
@@ -11495,7 +12297,7 @@
         "source": "corpus_institutions/ci_15_neurodiversity_disability_justice_trauma_informed_participation.md",
         "targets": [
           {
-            "file": "core_05-05_definitions_a_independent.md",
+            "file": "core_05_definitions_home.md",
             "count": 1,
             "anchors": [
               "#chapter-five-foundational-definitions"
@@ -11589,7 +12391,7 @@
         "source": "corpus_institutions/ci_16_care_labor_dependent_support_respite_care_economy_fairness.md",
         "targets": [
           {
-            "file": "core_05-05_definitions_a_independent.md",
+            "file": "core_05_definitions_home.md",
             "count": 1,
             "anchors": [
               "#chapter-five-foundational-definitions"
@@ -11689,7 +12491,7 @@
         "source": "corpus_institutions/ci_17_end_of_life_continuity_memorial_dignity_posthumous_data.md",
         "targets": [
           {
-            "file": "core_05-05_definitions_a_independent.md",
+            "file": "core_05_definitions_home.md",
             "count": 1,
             "anchors": [
               "#chapter-five-foundational-definitions"
@@ -11789,10 +12591,19 @@
         "source": "corpus_institutions/ci_18_collective_public_health_epidemic_response_addiction_informed_care.md",
         "targets": [
           {
-            "file": "core_05-05_definitions_a_independent.md",
+            "file": "core_05_definitions_home.md",
             "count": 1,
             "anchors": [
               "#chapter-five-foundational-definitions"
+            ]
+          },
+          {
+            "file": "core_05apex_oversight_leg.md",
+            "count": 4,
+            "anchors": [
+              "#oversight-constitutional",
+              "#oversight-constitutional-a",
+              "#oversight-constitutional-c"
             ]
           },
           {
@@ -11830,14 +12641,11 @@
           },
           {
             "file": "core_05defs_oversight.md",
-            "count": 8,
+            "count": 4,
             "anchors": [
               "#material",
               "#material-a",
-              "#material-c",
-              "#oversight-constitutional",
-              "#oversight-constitutional-a",
-              "#oversight-constitutional-c"
+              "#material-c"
             ]
           },
           {
@@ -11889,7 +12697,7 @@
         "source": "corpus_institutions/ci_19_vulnerable_personal_services_markets_article_xc_interface.md",
         "targets": [
           {
-            "file": "core_05-05_definitions_a_independent.md",
+            "file": "core_05_definitions_home.md",
             "count": 1,
             "anchors": [
               "#chapter-five-foundational-definitions"
@@ -11983,7 +12791,7 @@
         "source": "corpus_institutions/ci_20_relational_coercive_control_intimate_power_anti_domination.md",
         "targets": [
           {
-            "file": "core_05-05_definitions_a_independent.md",
+            "file": "core_05_definitions_home.md",
             "count": 1,
             "anchors": [
               "#chapter-five-foundational-definitions"
@@ -12089,7 +12897,7 @@
         "source": "corpus_institutions/ci_21_community_life_voluntary_association_non_instrumental_time.md",
         "targets": [
           {
-            "file": "core_05-05_definitions_a_independent.md",
+            "file": "core_05_definitions_home.md",
             "count": 4,
             "anchors": [
               "#chapter-five-foundational-definitions"
@@ -12192,7 +13000,7 @@
         "source": "corpus_institutions/ci_22_commons_cooperatives_mutual_aid_non_market_governance.md",
         "targets": [
           {
-            "file": "core_05-05_definitions_a_independent.md",
+            "file": "core_05_definitions_home.md",
             "count": 1,
             "anchors": [
               "#chapter-five-foundational-definitions"
@@ -12292,10 +13100,19 @@
         "source": "corpus_institutions/ci_23_place_based_stewardship_indigenous_continuity_consultation.md",
         "targets": [
           {
-            "file": "core_05-05_definitions_a_independent.md",
+            "file": "core_05_definitions_home.md",
             "count": 1,
             "anchors": [
               "#chapter-five-foundational-definitions"
+            ]
+          },
+          {
+            "file": "core_05apex_oversight_leg.md",
+            "count": 4,
+            "anchors": [
+              "#oversight-constitutional",
+              "#oversight-constitutional-a",
+              "#oversight-constitutional-c"
             ]
           },
           {
@@ -12314,15 +13131,6 @@
               "#indigenous-continuity-constitutional",
               "#indigenous-continuity-constitutional-a",
               "#indigenous-continuity-constitutional-c"
-            ]
-          },
-          {
-            "file": "core_05defs_oversight.md",
-            "count": 4,
-            "anchors": [
-              "#oversight-constitutional",
-              "#oversight-constitutional-a",
-              "#oversight-constitutional-c"
             ]
           },
           {
@@ -12392,7 +13200,7 @@
         "source": "corpus_institutions/ci_24_innovation_reward_disclosure_anti_enclosure.md",
         "targets": [
           {
-            "file": "core_05-05_definitions_a_independent.md",
+            "file": "core_05_definitions_home.md",
             "count": 1,
             "anchors": [
               "#chapter-five-foundational-definitions"
@@ -12486,7 +13294,7 @@
         "source": "corpus_institutions/ci_25_scientific_publication_peer_review_replication_evidence_stewardship.md",
         "targets": [
           {
-            "file": "core_05-05_definitions_a_independent.md",
+            "file": "core_05_definitions_home.md",
             "count": 6,
             "anchors": [
               "#chapter-five-foundational-definitions"
@@ -12580,19 +13388,34 @@
         "source": "corpus_institutions/ci_26_compliance_mapping_stable_registry.md",
         "targets": [
           {
-            "file": "core_05-05_definitions_a_independent.md",
+            "file": "core_05_definitions_home.md",
             "count": 1,
             "anchors": [
               "#chapter-five-foundational-definitions"
             ]
           },
           {
-            "file": "core_05defs_accountability.md",
-            "count": 12,
+            "file": "core_05apex_accountability_leg.md",
+            "count": 4,
             "anchors": [
               "#accountability",
               "#accountability-a",
-              "#accountability-c",
+              "#accountability-c"
+            ]
+          },
+          {
+            "file": "core_05apex_oversight_leg.md",
+            "count": 4,
+            "anchors": [
+              "#oversight-constitutional",
+              "#oversight-constitutional-a",
+              "#oversight-constitutional-c"
+            ]
+          },
+          {
+            "file": "core_05defs_accountability.md",
+            "count": 8,
+            "anchors": [
               "#governance",
               "#governance-a",
               "#governance-c",
@@ -12621,14 +13444,11 @@
           },
           {
             "file": "core_05defs_oversight.md",
-            "count": 8,
+            "count": 4,
             "anchors": [
               "#auditability",
               "#auditability-a",
-              "#auditability-c",
-              "#oversight-constitutional",
-              "#oversight-constitutional-a",
-              "#oversight-constitutional-c"
+              "#auditability-c"
             ]
           },
           {
@@ -12675,19 +13495,25 @@
         "source": "corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md",
         "targets": [
           {
-            "file": "core_05-05_definitions_a_independent.md",
+            "file": "core_05_definitions_home.md",
             "count": 1,
             "anchors": [
               "#chapter-five-foundational-definitions"
             ]
           },
           {
-            "file": "core_05defs_accountability.md",
-            "count": 21,
+            "file": "core_05apex_accountability_leg.md",
+            "count": 4,
             "anchors": [
               "#accountability",
               "#accountability-a",
-              "#accountability-c",
+              "#accountability-c"
+            ]
+          },
+          {
+            "file": "core_05defs_accountability.md",
+            "count": 17,
+            "anchors": [
               "#contestability",
               "#contestability-a",
               "#contestability-c",
@@ -12799,7 +13625,7 @@
             ]
           },
           {
-            "file": "core_05-05_definitions_a_independent.md",
+            "file": "core_05_definitions_home.md",
             "count": 2,
             "anchors": [
               "#chapter-five-foundational-definitions"
@@ -12980,7 +13806,7 @@
         "source": "corpus_forum/cf_01_scope_authority_boundary_rules.md",
         "targets": [
           {
-            "file": "core_05-05_definitions_a_independent.md",
+            "file": "core_05_definitions_home.md",
             "count": 1,
             "anchors": [
               "#chapter-five-foundational-definitions"
@@ -13057,7 +13883,7 @@
         "source": "corpus_forum/cf_02_implementation_integration_map.md",
         "targets": [
           {
-            "file": "core_05-05_definitions_a_independent.md",
+            "file": "core_05_definitions_home.md",
             "count": 4,
             "anchors": [
               "#chapter-five-foundational-definitions"
@@ -13124,19 +13950,25 @@
         "source": "corpus_forum/cf_03_forum_formation_tribunal_mapping_chamber_structure.md",
         "targets": [
           {
-            "file": "core_05-05_definitions_a_independent.md",
+            "file": "core_05_definitions_home.md",
             "count": 9,
             "anchors": [
               "#chapter-five-foundational-definitions"
             ]
           },
           {
-            "file": "core_05defs_accountability.md",
-            "count": 168,
+            "file": "core_05apex_accountability_leg.md",
+            "count": 4,
             "anchors": [
               "#accountability",
               "#accountability-a",
-              "#accountability-c",
+              "#accountability-c"
+            ]
+          },
+          {
+            "file": "core_05defs_accountability.md",
+            "count": 164,
+            "anchors": [
               "#adjudication-and-dispute-resolution-constitutional",
               "#adjudication-and-dispute-resolution-constitutional-a",
               "#adjudication-and-dispute-resolution-constitutional-c",
@@ -13258,19 +14090,34 @@
         "source": "corpus_forum/cf_04_panel_formation_disclosure_recusal_bench_constitution.md",
         "targets": [
           {
-            "file": "core_05-05_definitions_a_independent.md",
+            "file": "core_05_definitions_home.md",
             "count": 14,
             "anchors": [
               "#chapter-five-foundational-definitions"
             ]
           },
           {
-            "file": "core_05defs_accountability.md",
-            "count": 168,
+            "file": "core_05apex_accountability_leg.md",
+            "count": 56,
             "anchors": [
               "#accountability",
               "#accountability-a",
-              "#accountability-c",
+              "#accountability-c"
+            ]
+          },
+          {
+            "file": "core_05apex_oversight_leg.md",
+            "count": 4,
+            "anchors": [
+              "#oversight-constitutional",
+              "#oversight-constitutional-a",
+              "#oversight-constitutional-c"
+            ]
+          },
+          {
+            "file": "core_05defs_accountability.md",
+            "count": 112,
+            "anchors": [
               "#adjudication-and-dispute-resolution-constitutional",
               "#adjudication-and-dispute-resolution-constitutional-a",
               "#adjudication-and-dispute-resolution-constitutional-c",
@@ -13324,7 +14171,7 @@
           },
           {
             "file": "core_05defs_oversight.md",
-            "count": 56,
+            "count": 52,
             "anchors": [
               "#evidence-preservation",
               "#evidence-preservation-a",
@@ -13332,9 +14179,6 @@
               "#material",
               "#material-a",
               "#material-c",
-              "#oversight-constitutional",
-              "#oversight-constitutional-a",
-              "#oversight-constitutional-c",
               "#transparency",
               "#transparency-a",
               "#transparency-c"
@@ -13419,7 +14263,7 @@
         "source": "corpus_forum/cf_05_routing_operations_transfer_certification_representative_treatment.md",
         "targets": [
           {
-            "file": "core_05-05_definitions_a_independent.md",
+            "file": "core_05_definitions_home.md",
             "count": 3,
             "anchors": [
               "#chapter-five-foundational-definitions"
@@ -13524,19 +14368,25 @@
             ]
           },
           {
-            "file": "core_05-05_definitions_a_independent.md",
+            "file": "core_05_definitions_home.md",
             "count": 13,
             "anchors": [
               "#chapter-five-foundational-definitions"
             ]
           },
           {
-            "file": "core_05defs_accountability.md",
-            "count": 148,
+            "file": "core_05apex_accountability_leg.md",
+            "count": 12,
             "anchors": [
               "#accountability",
               "#accountability-a",
-              "#accountability-c",
+              "#accountability-c"
+            ]
+          },
+          {
+            "file": "core_05defs_accountability.md",
+            "count": 136,
+            "anchors": [
               "#adjudication-and-dispute-resolution-constitutional",
               "#adjudication-and-dispute-resolution-constitutional-a",
               "#adjudication-and-dispute-resolution-constitutional-c",
@@ -13658,19 +14508,34 @@
         "source": "corpus_forum/cf_07_integrity_safeguards_anti_capture_anti_self_judging.md",
         "targets": [
           {
-            "file": "core_05-05_definitions_a_independent.md",
+            "file": "core_05_definitions_home.md",
             "count": 24,
             "anchors": [
               "#chapter-five-foundational-definitions"
             ]
           },
           {
-            "file": "core_05defs_accountability.md",
-            "count": 153,
+            "file": "core_05apex_accountability_leg.md",
+            "count": 28,
             "anchors": [
               "#accountability",
               "#accountability-a",
-              "#accountability-c",
+              "#accountability-c"
+            ]
+          },
+          {
+            "file": "core_05apex_oversight_leg.md",
+            "count": 72,
+            "anchors": [
+              "#oversight-constitutional",
+              "#oversight-constitutional-a",
+              "#oversight-constitutional-c"
+            ]
+          },
+          {
+            "file": "core_05defs_accountability.md",
+            "count": 125,
+            "anchors": [
               "#adjudication-and-dispute-resolution-constitutional",
               "#adjudication-and-dispute-resolution-constitutional-a",
               "#adjudication-and-dispute-resolution-constitutional-c",
@@ -13734,7 +14599,7 @@
           },
           {
             "file": "core_05defs_oversight.md",
-            "count": 160,
+            "count": 88,
             "anchors": [
               "#evidence-preservation",
               "#evidence-preservation-a",
@@ -13742,9 +14607,6 @@
               "#material",
               "#material-a",
               "#material-c",
-              "#oversight-constitutional",
-              "#oversight-constitutional-a",
-              "#oversight-constitutional-c",
               "#reasonably-foreseeable",
               "#reasonably-foreseeable-a",
               "#reasonably-foreseeable-c",
@@ -13824,7 +14686,7 @@
             ]
           },
           {
-            "file": "core_05-05_definitions_a_independent.md",
+            "file": "core_05_definitions_home.md",
             "count": 7,
             "anchors": [
               "#chapter-five-foundational-definitions"
@@ -13967,19 +14829,34 @@
         "source": "corpus_forum/cf_09_independent_investigative_service_prosecution_interface.md",
         "targets": [
           {
-            "file": "core_05-05_definitions_a_independent.md",
+            "file": "core_05_definitions_home.md",
             "count": 11,
             "anchors": [
               "#chapter-five-foundational-definitions"
             ]
           },
           {
-            "file": "core_05defs_accountability.md",
-            "count": 102,
+            "file": "core_05apex_accountability_leg.md",
+            "count": 40,
             "anchors": [
               "#accountability",
               "#accountability-a",
-              "#accountability-c",
+              "#accountability-c"
+            ]
+          },
+          {
+            "file": "core_05apex_oversight_leg.md",
+            "count": 44,
+            "anchors": [
+              "#oversight-constitutional",
+              "#oversight-constitutional-a",
+              "#oversight-constitutional-c"
+            ]
+          },
+          {
+            "file": "core_05defs_accountability.md",
+            "count": 62,
+            "anchors": [
               "#adjudication-and-dispute-resolution-constitutional",
               "#adjudication-and-dispute-resolution-constitutional-a",
               "#adjudication-and-dispute-resolution-constitutional-c",
@@ -14042,7 +14919,7 @@
           },
           {
             "file": "core_05defs_oversight.md",
-            "count": 137,
+            "count": 93,
             "anchors": [
               "#auditability",
               "#auditability-a",
@@ -14053,9 +14930,6 @@
               "#material",
               "#material-a",
               "#material-c",
-              "#oversight-constitutional",
-              "#oversight-constitutional-a",
-              "#oversight-constitutional-c",
               "#transparency",
               "#transparency-a",
               "#transparency-c"
@@ -14117,19 +14991,25 @@
         "source": "corpus_forum/cf_10_technical_specialist_forums_specialist_chambers.md",
         "targets": [
           {
-            "file": "core_05-05_definitions_a_independent.md",
+            "file": "core_05_definitions_home.md",
             "count": 16,
             "anchors": [
               "#chapter-five-foundational-definitions"
             ]
           },
           {
-            "file": "core_05defs_accountability.md",
-            "count": 168,
+            "file": "core_05apex_accountability_leg.md",
+            "count": 4,
             "anchors": [
               "#accountability",
               "#accountability-a",
-              "#accountability-c",
+              "#accountability-c"
+            ]
+          },
+          {
+            "file": "core_05defs_accountability.md",
+            "count": 164,
+            "anchors": [
               "#adjudication-and-dispute-resolution-constitutional",
               "#adjudication-and-dispute-resolution-constitutional-a",
               "#adjudication-and-dispute-resolution-constitutional-c",
@@ -14261,19 +15141,25 @@
             ]
           },
           {
-            "file": "core_05-05_definitions_a_independent.md",
+            "file": "core_05_definitions_home.md",
             "count": 19,
             "anchors": [
               "#chapter-five-foundational-definitions"
             ]
           },
           {
-            "file": "core_05defs_accountability.md",
-            "count": 220,
+            "file": "core_05apex_accountability_leg.md",
+            "count": 56,
             "anchors": [
               "#accountability",
               "#accountability-a",
-              "#accountability-c",
+              "#accountability-c"
+            ]
+          },
+          {
+            "file": "core_05defs_accountability.md",
+            "count": 164,
+            "anchors": [
               "#adjudication-and-dispute-resolution-constitutional",
               "#adjudication-and-dispute-resolution-constitutional-a",
               "#adjudication-and-dispute-resolution-constitutional-c",
@@ -14454,19 +15340,25 @@
         "source": "corpus_forum/cf_12_forum_continuity.md",
         "targets": [
           {
-            "file": "core_05-05_definitions_a_independent.md",
+            "file": "core_05_definitions_home.md",
             "count": 9,
             "anchors": [
               "#chapter-five-foundational-definitions"
             ]
           },
           {
-            "file": "core_05defs_accountability.md",
-            "count": 48,
+            "file": "core_05apex_accountability_leg.md",
+            "count": 4,
             "anchors": [
               "#accountability",
               "#accountability-a",
-              "#accountability-c",
+              "#accountability-c"
+            ]
+          },
+          {
+            "file": "core_05defs_accountability.md",
+            "count": 44,
+            "anchors": [
               "#adjudication-and-dispute-resolution-constitutional",
               "#adjudication-and-dispute-resolution-constitutional-a",
               "#adjudication-and-dispute-resolution-constitutional-c",
@@ -14570,10 +15462,19 @@
         "source": "corpus_forum/cf_13_fallback_operation.md",
         "targets": [
           {
-            "file": "core_05-05_definitions_a_independent.md",
+            "file": "core_05_definitions_home.md",
             "count": 5,
             "anchors": [
               "#chapter-five-foundational-definitions"
+            ]
+          },
+          {
+            "file": "core_05apex_oversight_leg.md",
+            "count": 4,
+            "anchors": [
+              "#oversight-constitutional",
+              "#oversight-constitutional-a",
+              "#oversight-constitutional-c"
             ]
           },
           {
@@ -14623,14 +15524,11 @@
           },
           {
             "file": "core_05defs_oversight.md",
-            "count": 20,
+            "count": 16,
             "anchors": [
               "#evidence-preservation",
               "#evidence-preservation-a",
-              "#evidence-preservation-c",
-              "#oversight-constitutional",
-              "#oversight-constitutional-a",
-              "#oversight-constitutional-c"
+              "#evidence-preservation-c"
             ]
           },
           {
@@ -14686,7 +15584,7 @@
         "source": "corpus_forum/cf_14_emergency_adjudication.md",
         "targets": [
           {
-            "file": "core_05-05_definitions_a_independent.md",
+            "file": "core_05_definitions_home.md",
             "count": 6,
             "anchors": [
               "#chapter-five-foundational-definitions"
@@ -14802,19 +15700,25 @@
         "source": "corpus_forum/cf_15_standard_records_forms_evidence_artifacts.md",
         "targets": [
           {
-            "file": "core_05-05_definitions_a_independent.md",
+            "file": "core_05_definitions_home.md",
             "count": 7,
             "anchors": [
               "#chapter-five-foundational-definitions"
             ]
           },
           {
-            "file": "core_05defs_accountability.md",
-            "count": 72,
+            "file": "core_05apex_accountability_leg.md",
+            "count": 4,
             "anchors": [
               "#accountability",
               "#accountability-a",
-              "#accountability-c",
+              "#accountability-c"
+            ]
+          },
+          {
+            "file": "core_05defs_accountability.md",
+            "count": 68,
+            "anchors": [
               "#adjudication-and-dispute-resolution-constitutional",
               "#adjudication-and-dispute-resolution-constitutional-a",
               "#adjudication-and-dispute-resolution-constitutional-c",
@@ -14933,19 +15837,25 @@
         "source": "corpus_forum/cf_16_staffing_reserve_capacity_structural_records.md",
         "targets": [
           {
-            "file": "core_05-05_definitions_a_independent.md",
+            "file": "core_05_definitions_home.md",
             "count": 9,
             "anchors": [
               "#chapter-five-foundational-definitions"
             ]
           },
           {
-            "file": "core_05defs_accountability.md",
-            "count": 108,
+            "file": "core_05apex_accountability_leg.md",
+            "count": 24,
             "anchors": [
               "#accountability",
               "#accountability-a",
-              "#accountability-c",
+              "#accountability-c"
+            ]
+          },
+          {
+            "file": "core_05defs_accountability.md",
+            "count": 84,
+            "anchors": [
               "#adjudication-and-dispute-resolution-constitutional",
               "#adjudication-and-dispute-resolution-constitutional-a",
               "#adjudication-and-dispute-resolution-constitutional-c",

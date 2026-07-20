@@ -61,7 +61,7 @@ Permitted expansion of protection, supremacy sequencing, ratification, and proce
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Chapter Thirteen](#chapter-thirteen-non-regression-and-substantive-amendment-validity) opening floor list (Chapters One through Four, Ten, Eleven); integrated definitions — [Safety (Constraint)](core_05defs_continuity.md#safety-constraint), [Truth (Constitutional Constraint)](core_05defs_oversight.md#truth-constitutional-constraint), [Epistemic Integrity](core_05defs_oversight.md#epistemic-integrity) (canonical O/M/A/C under [Truth and Epistemic Integrity](core_05defs_continuity.md#truth-and-epistemic-integrity-cluster)), [Dignity and Equal Moral Standing](core_05defs_participation.md#dignity-and-equal-moral-standing), [Meaningful Agency](core_05defs_participation.md#meaningful-agency), and related floors named in operative text ([Chapter Five definitions](core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions)).
+- Upstream: [Chapter Thirteen](#chapter-thirteen-non-regression-and-substantive-amendment-validity) opening floor list (Chapters One through Four, Ten, Eleven); integrated definitions — [Safety (Constraint)](core_05defs_continuity.md#safety-constraint), [Truth (Constitutional Constraint)](core_05defs_oversight.md#truth-constitutional-constraint), [Epistemic Integrity](core_05defs_oversight.md#epistemic-integrity) (canonical O/M/A/C under [Truth and Epistemic Integrity](core_05defs_continuity.md#truth-and-epistemic-integrity-cluster)), [Dignity and Equal Moral Standing](core_05defs_participation.md#dignity-and-equal-moral-standing), [Meaningful Agency](core_05defs_participation.md#meaningful-agency), and related floors named in operative text ([Chapter Five definitions](core_05_definitions_home.md#chapter-five-foundational-definitions)).
 - Downstream: [§3](#2-test-1-substantive-non-regression-validity) Test 1 inventory; [§11](#3-anti-evasion-clause-and-constitutional-misconduct-referral) anti-evasion and referral triggers.
 - Read with: [Chapter Six](core_06-06_rights_part_a.md#chapter-six-foundational-rights) for Rights-Floor specifics; [Chapters Two through Four](core_02-03_definition_mechanics.md) for verification, standing gates, and observability as potential indirect narrowing vectors.
 
@@ -584,7 +584,7 @@ Adopters must maintain an identifiable instrument of adoption. Examples include 
 
 - identify the custodian of the authoritative edition of this Constitution and its integrated implementation files.
 - be consistent with document-control expectations in [README.md](README.md) and [Chapter Five *Corpus*](core_05defs_integrative.md#corpus) (authoritative corpus, edition identifier, custody chain).
-- be consistent with **Corpus** in Chapter Five ([core_05-05_definitions_a_independent.md](core_05defs_integrative.md#corpus)).
+- be consistent with **Corpus** in Chapter Five ([core_05_definitions_home.md](core_05defs_integrative.md#corpus)).
 
 #### 10.3 Joining by additional parties
 <details>

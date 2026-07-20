@@ -5,7 +5,7 @@
 
 > The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other chapters.
 >
-> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter Five, Accountability band** — Independent, Semi-independent, and Dependent cluster definitions assigned to the **Accountability** constitutional band (§3.8–Chapter One §8.11). Reading order and the compass live in [core_05-05_definitions_a_independent.md](core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions).
+> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter Five, Accountability band** — Independent, Semi-independent, and Dependent cluster definitions assigned to the **Accountability** constitutional band (§3.8–Chapter One §8.11). Reading order and the compass live in [core_05_definitions_home.md](core_05_definitions_home.md#chapter-five-foundational-definitions).
 
 </details>
 
@@ -396,14 +396,14 @@
 
 #### Accountability, contestability, and redress pathways
 
-**Cluster context:** This semi-independent topic group establishes the foundational mechanisms for holding actors responsible and seeking correction of constitutional violations. It covers the attribution of responsibility ([Accountability](core_05apex_accountability_leg.md#accountability)), the ability to challenge and seek remedy ([Contestability](core_05defs_accountability.md#contestability)), formal pathways for resolving disputes ([Adjudication and Dispute Resolution](core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional)), fair and reviewable process for materially rights-affecting decisions and outcomes ([Due Process](core_05defs_accountability.md#due-process-constitutional)), principle-layer responsiveness across the coordination lifecycle ([Timeliness](core_05apex_accountability_leg.md#timeliness-constitutional)), resolution within materiality-scaled windows ([Timely Resolution](core_05defs_accountability.md#timely-resolution-constitutional)), binding substantive dispositions in those pathways ([Merits Determination](core_05defs_accountability.md#merits-determination)), temporary pause or reliance-limit orders pending further review ([Stay](core_05defs_accountability.md#stay)), systemic failures where responsibility is diffused ([Collective Accountability Failure](core_05defs_accountability.md#collective-accountability-failure)), exceptional external disruptions ([Force Majeure](core_05defs_accountability.md#force-majeure-constitutional)), and protection against capture of outcome-determination mechanisms ([Capture of Resolution Pathways](core_05defs_accountability.md#capture-of-resolution-pathways)). These definitions operate together where review, redress, or resolution of constitutional claims is material.
+**Cluster context:** This semi-independent topic group establishes the foundational mechanisms for holding actors responsible and seeking correction of constitutional violations. It covers the attribution of responsibility ([Accountability](core_05apex_accountability_leg.md#accountability)), the ability to challenge and seek remedy ([Contestability](core_05defs_accountability.md#contestability)), formal pathways for resolving disputes ([Adjudication and Dispute Resolution](core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional)), fair and reviewable process for materially rights-affecting decisions and outcomes ([Due Process](core_05defs_accountability.md#due-process-constitutional)), principle-layer responsiveness across the coordination lifecycle ([Timeliness](core_05apex_timeliness_leg.md#timeliness-constitutional)), resolution within materiality-scaled windows ([Timely Resolution](core_05defs_accountability.md#timely-resolution-constitutional)), binding substantive dispositions in those pathways ([Merits Determination](core_05defs_accountability.md#merits-determination)), temporary pause or reliance-limit orders pending further review ([Stay](core_05defs_accountability.md#stay)), systemic failures where responsibility is diffused ([Collective Accountability Failure](core_05defs_accountability.md#collective-accountability-failure)), exceptional external disruptions ([Force Majeure](core_05defs_accountability.md#force-majeure-constitutional)), and protection against capture of outcome-determination mechanisms ([Capture of Resolution Pathways](core_05defs_accountability.md#capture-of-resolution-pathways)). These definitions operate together where review, redress, or resolution of constitutional claims is material.
 
 **Topic group members.** This group comprises:
 - [Accountability](core_05apex_accountability_leg.md#accountability);
 - [Contestability](core_05defs_accountability.md#contestability);
 - [Adjudication and Dispute Resolution](core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional);
 - [Due Process](core_05defs_accountability.md#due-process-constitutional);
-- [Timeliness](core_05apex_accountability_leg.md#timeliness-constitutional);
+- [Timeliness](core_05apex_timeliness_leg.md#timeliness-constitutional);
 - [Timely Resolution](core_05defs_accountability.md#timely-resolution-constitutional);
 - [Merits Determination](core_05defs_accountability.md#merits-determination);
 - [Stay](core_05defs_accountability.md#stay);
@@ -411,7 +411,7 @@
 - [Force Majeure](core_05defs_accountability.md#force-majeure-constitutional);
 - [Capture of Resolution Pathways](core_05defs_accountability.md#capture-of-resolution-pathways).
 
-*Measurements (family routing):* Accountability measurement family and Timeliness measurement family — operative tiers on [Accountability](core_05apex_accountability_leg.md#accountability), [Contestability](core_05defs_accountability.md#contestability), [Timeliness](core_05apex_accountability_leg.md#timeliness-constitutional), [Timely Resolution](core_05defs_accountability.md#timely-resolution-constitutional), and [Capture of Resolution Pathways](core_05defs_accountability.md#capture-of-resolution-pathways) below; progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md).
+*Measurements (family routing):* Accountability measurement family and Timeliness measurement family — operative tiers on [Accountability](core_05apex_accountability_leg.md#accountability), [Contestability](core_05defs_accountability.md#contestability), [Timeliness](core_05apex_timeliness_leg.md#timeliness-constitutional), [Timely Resolution](core_05defs_accountability.md#timely-resolution-constitutional), and [Capture of Resolution Pathways](core_05defs_accountability.md#capture-of-resolution-pathways) below; progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md).
 
 ---
 
@@ -520,7 +520,7 @@
 
 <a id="timeliness-relocated"></a>
 
-**Timeliness.** Canonical home relocated. Binding O/M/A/C and [Tetrad Leg decomposition](core_05apex_accountability_leg.md#timeliness-tetrad-leg-decomposition) live in [core_05apex_accountability_leg.md](core_05apex_accountability_leg.md#timeliness-constitutional). This band file owns leaf definitions under the Timeliness co-leg — do not duplicate leg-head O/M/A/C here.
+**Timeliness.** Canonical home relocated. Binding O/M/A/C and [Tetrad Leg decomposition](core_05apex_timeliness_leg.md#timeliness-tetrad-leg-decomposition) live in [core_05apex_timeliness_leg.md](core_05apex_timeliness_leg.md#timeliness-constitutional). This band file owns Timeliness-implementing leaf definitions — do not duplicate leg-head O/M/A/C here.
 
 ---
 <a id="timely-resolution-constitutional"></a>
@@ -531,7 +531,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Timeliness](core_05apex_accountability_leg.md#timeliness-constitutional) (*implements timeliness leg for resolution pathways*).
+- Upstream: [Timeliness](core_05apex_timeliness_leg.md#timeliness-constitutional) (*implements timeliness leg for resolution pathways*).
 - Downstream: Timeliness measurement family (*Timely Resolution as constitutional measurement*); **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*) ([core_06-06_rights_part_d.md](core_06-06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor)); [Chapter Eleven §6](core_11-11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*materiality tiers and pipeline milestones*); **Article XII-B** (*Right to Challenge, Review, and Redress*); [Chapter Nine §9.2](core_09-09_standing_integration.md#82-remedy-system-durability) (*remedy-organ durability*); [Chapter Eleven](core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) (*forum intake and routing*).
 - Cluster component: [the dependent cluster *Accountability, Contestability, Adjudication and Dispute Resolution, Collective Accountability Failure, and Force Majeure*](core_05defs_integrative.md#accountability-contestability-and-collective-accountability-failure-cluster).
 - Read with: [Adjudication and Dispute Resolution](core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional), [Constitutional Efficiency](core_05defs_continuity.md#constitutional-efficiency), [Avoidable Burden](core_05defs_continuity.md#avoidable-burden), [Capture of Resolution Pathways](core_05defs_accountability.md#capture-of-resolution-pathways), [Procedural Fairness](core_05defs_participation.md#procedural-fairness-constitutional), [Materiality Determination](core_05defs_oversight.md#materiality-determination), and [README — Standing pipeline and forums](README.md#standing-pipeline-and-forums).
@@ -548,7 +548,7 @@
   - **Primary measure:** Timeliness measurement family — primary owner for resolution velocity within the timeliness measurement family.
 
     **Primary assessment:** Apply [Chapter Eleven §6](core_11-11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) materiality tiers and pipeline-stage milestones under **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*). Distinguish timely access and verification from raw throughput.
-  - **Secondary measure:** [Timeliness](core_05apex_accountability_leg.md#timeliness-constitutional), [Adjudication and Dispute Resolution](core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional), [Capture of Resolution Pathways](core_05defs_accountability.md#capture-of-resolution-pathways), and [Contestability](core_05defs_accountability.md#contestability) — co-measures that can defeat timely resolution even when pipeline metrics appear on track.
+  - **Secondary measure:** [Timeliness](core_05apex_timeliness_leg.md#timeliness-constitutional), [Adjudication and Dispute Resolution](core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional), [Capture of Resolution Pathways](core_05defs_accountability.md#capture-of-resolution-pathways), and [Contestability](core_05defs_accountability.md#contestability) — co-measures that can defeat timely resolution even when pipeline metrics appear on track.
 
     **Secondary assessment:** When evaluating the primary trace, read with [Adjudication and Dispute Resolution](core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional), [Capture of Resolution Pathways](core_05defs_accountability.md#capture-of-resolution-pathways), [Constitutional Efficiency](core_05defs_continuity.md#constitutional-efficiency), [Avoidable Burden](core_05defs_continuity.md#avoidable-burden), and [Procedural Fairness](core_05defs_participation.md#procedural-fairness-constitutional). Moving quickly is not an excuse to skip checked facts under [Chapters Two through Four](core_02-03_definition_mechanics.md), **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*) joint requirements, or core challenge and appeal rights.
   - **Tertiary measure:** [Proxy Divergence](core_05defs_oversight.md#proxy-divergence) — where throughput, milestone, or deadline metrics substitute for remedy while harm persists.
@@ -986,7 +986,7 @@
 - Read with: [Materiality Determination](core_05defs_oversight.md#materiality-determination), [Material Impact](core_05defs_oversight.md#material-impact), [Risk](core_05defs_continuity.md#risk), [Non-Imposition (Cooperative Interaction)](core_05defs_participation.md#non-imposition-cooperative-interaction), [Safety (Constraint)](core_05defs_continuity.md#safety-constraint), [Redress and Remediation](core_05defs_accountability.md#redress-and-remediation-constitutional), and [Harm Minimization (Tradeoff Selection)](core_05defs_accountability.md#harm-minimization-tradeoff-selection), where materially implicated. Those definitions support this cluster but are not themselves cluster members unless another cluster or owner provision independently requires their joint invocation.
 
 - Constitutional frame: **Accountability** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](core_05defs_oversight.md#materiality-determination).
-- Chapter One basis: Chapter One §8.1, §11.1, §12.1, §9 (see [Chapter Five compass](../core_05-05_definitions_a_independent.md#chapter-five-compass-and-definition-map) map).
+- Chapter One basis: Chapter One §8.1, §11.1, §12.1, §9 (see [Chapter Five compass](../core_05_definitions_home.md#chapter-five-compass-and-definition-map) map).
 </details>
 
 <br>
@@ -1003,7 +1003,7 @@ This cluster is the joint-invocation home for harm, the boundary at which one se
 - [Irreversible Harm](core_05defs_accountability.md#irreversible-harm);
 - [Harassment and Bullying](core_05defs_accountability.md#harassment-and-bullying).
 
-**Joint invocation and anti-bypass.** Under [Joint invocation and satisfaction](core_05-05_definitions_a_independent.md#joint-invocation-and-satisfaction), a matter within the admission scope must not be segmented into separate individual-harm, collective-harm, harassment-and-bullying, non-imposition, materiality, freedom-limitation, or remediation questions in a way that recognizes a harm pathway while avoiding the boundary rule, or invokes the boundary rule while understating harm, or isolates generic [Harm](core_05defs_accountability.md#harm) or the boundary rule from [Harassment and Bullying](core_05defs_accountability.md#harassment-and-bullying) where patterned unwanted conduct is materially in play. Offense, preference, discomfort, or disagreement alone is not sufficient without a material harm pathway. Conversely, a formally private, local, expressive, commercial, technical, or collective practice is not outside this cluster where direct, indirect, delayed, cumulative, cross-system, info-sphere, ecological, wellbeing, or agency effects materially degrade protected interests or shared constitutional conditions.
+**Joint invocation and anti-bypass.** Under [Joint invocation and satisfaction](core_05_definitions_home.md#joint-invocation-and-satisfaction), a matter within the admission scope must not be segmented into separate individual-harm, collective-harm, harassment-and-bullying, non-imposition, materiality, freedom-limitation, or remediation questions in a way that recognizes a harm pathway while avoiding the boundary rule, or invokes the boundary rule while understating harm, or isolates generic [Harm](core_05defs_accountability.md#harm) or the boundary rule from [Harassment and Bullying](core_05defs_accountability.md#harassment-and-bullying) where patterned unwanted conduct is materially in play. Offense, preference, discomfort, or disagreement alone is not sufficient without a material harm pathway. Conversely, a formally private, local, expressive, commercial, technical, or collective practice is not outside this cluster where direct, indirect, delayed, cumulative, cross-system, info-sphere, ecological, wellbeing, or agency effects materially degrade protected interests or shared constitutional conditions.
 
 ---
 
@@ -1147,7 +1147,7 @@ This cluster is the joint-invocation home for harm, the boundary at which one se
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Constitutional frame: **Accountability** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](core_05defs_oversight.md#materiality-determination).
-- Chapter One basis: Chapter One §8.1, §3.4, §11.4, §8, §10 (see [Chapter Five compass](../core_05-05_definitions_a_independent.md#chapter-five-compass-and-definition-map) map).
+- Chapter One basis: Chapter One §8.1, §3.4, §11.4, §8, §10 (see [Chapter Five compass](../core_05_definitions_home.md#chapter-five-compass-and-definition-map) map).
 - Read with: Apply [Adjudication and Dispute Resolution](core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional), [Contestability](core_05defs_accountability.md#contestability), [Procedural Fairness](core_05defs_participation.md#procedural-fairness-constitutional), [Auditability](core_05defs_oversight.md#auditability), [Materiality Determination](core_05defs_oversight.md#materiality-determination), [System Capture](core_05defs_continuity.md#system-capture), and Chapter Ten mechanics where materially implicated.
 
 </details>
@@ -1170,7 +1170,7 @@ This cluster is the joint-invocation home for the six constitutional forum famil
 - [Primary-Stakes Routing](core_05defs_accountability.md#primary-stakes-routing);
 - [Forum Case Record](core_05defs_accountability.md#forum-case-record).
 
-**Joint invocation and anti-bypass.** Under [Joint invocation and satisfaction](core_05-05_definitions_a_independent.md#joint-invocation-and-satisfaction), a matter within the admission scope must not be segmented into separate caption, intake label, or specialty-panel questions in a way that collapses distinct forum functions or defeats primary-stakes routing, certification, or anti-self-judging backup discipline.
+**Joint invocation and anti-bypass.** Under [Joint invocation and satisfaction](core_05_definitions_home.md#joint-invocation-and-satisfaction), a matter within the admission scope must not be segmented into separate caption, intake label, or specialty-panel questions in a way that collapses distinct forum functions or defeats primary-stakes routing, certification, or anti-self-judging backup discipline.
 
 ---
 
@@ -1424,7 +1424,7 @@ This cluster is the joint-invocation home for the six constitutional forum famil
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Constitutional frame: **Accountability** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](core_05defs_oversight.md#materiality-determination).
-- Chapter One basis: §11.1, §11.3, §11.4, §12.1, §8 (see [Chapter Five compass](../core_05-05_definitions_a_independent.md#chapter-five-compass-and-definition-map) map).
+- Chapter One basis: §11.1, §11.3, §11.4, §12.1, §8 (see [Chapter Five compass](../core_05_definitions_home.md#chapter-five-compass-and-definition-map) map).
 - Read with: Apply [Auditability](core_05defs_oversight.md#auditability), [Contestability](core_05defs_accountability.md#contestability), [Materiality Determination](core_05defs_oversight.md#materiality-determination), [Adjudication and Dispute Resolution](core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional), [Chapter Eight §5.1](core_08-08_standing_assessment.md#7-slot-grammar-and-display-labels), [Chapter Nine §4.2](core_09-09_standing_integration.md#42-general-standing-locks), and [Chapter Ten](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct) where materially implicated.
 - Downstream: [README — Standing pipeline and forums](README.md#standing-pipeline-and-forums) (*reader map for the Chapters Eight through Eleven pipeline*).
 
@@ -1454,7 +1454,7 @@ This cluster is the joint-invocation home for contribution state, standing recor
 - [Single Catastrophic Incident](core_05defs_accountability.md#single-catastrophic-incident);
 - [Sustained High-Gravity Pattern](core_05defs_accountability.md#sustained-high-gravity-pattern).
 
-**Joint invocation and anti-bypass.** Under [Joint invocation and satisfaction](core_05-05_definitions_a_independent.md#joint-invocation-and-satisfaction), a matter within the admission scope must not be segmented into separate narrative, procedural, evidentiary, standing-effect, or incident-gravity compartments in a way that defeats joint assessment, verified-input gates, standing-lock discipline, Chapter Ten designation review, or non-substitution discipline required by Chapters Eight through Ten.
+**Joint invocation and anti-bypass.** Under [Joint invocation and satisfaction](core_05_definitions_home.md#joint-invocation-and-satisfaction), a matter within the admission scope must not be segmented into separate narrative, procedural, evidentiary, standing-effect, or incident-gravity compartments in a way that defeats joint assessment, verified-input gates, standing-lock discipline, Chapter Ten designation review, or non-substitution discipline required by Chapters Eight through Ten.
 
 ---
 
@@ -1870,7 +1870,7 @@ This cluster is the joint-invocation home for contribution state, standing recor
 - Constitutional frame: **Accountability** leg; **Continuity** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](core_05defs_oversight.md#materiality-determination).
 - Cross-leg note: integrative with **Continuity** where irreversible harm is implicated.
 - Continuity disambiguation: Distinguish constitutional **Continuity** aim from operational force protocols.
-- Chapter One basis: Chapter One §8.1, §11.1, §12.1, §9 (see [Chapter Five compass](../core_05-05_definitions_a_independent.md#chapter-five-compass-and-definition-map) map).
+- Chapter One basis: Chapter One §8.1, §11.1, §12.1, §9 (see [Chapter Five compass](../core_05_definitions_home.md#chapter-five-compass-and-definition-map) map).
 - Read with: Apply [Coercion and Manipulation](core_05defs_participation.md#coercion-and-manipulation-constitutional), [Necessity](core_05defs_accountability.md#necessity), [Proportionality](core_05defs_accountability.md#proportionality), [Reversibility](core_05defs_continuity.md#reversibility-constitutional), [Redress and Remediation](core_05defs_accountability.md#redress-and-remediation-constitutional), [Existential Risk](core_05defs_continuity.md#existential-risk), [Safety (Constraint)](core_05defs_continuity.md#safety-constraint), [Adversarial, Scaled, and Exploited Conditions](core_05defs_oversight.md#adversarial-scaled-and-exploited-conditions), and [Sentience Non-Exclusion](core_05defs_participation.md#sentience-non-exclusion) where materially implicated.
 
 </details>
@@ -1891,7 +1891,7 @@ This cluster is the joint-invocation home for overt use of force, weapons of mas
 - [Irreversible Deprivation Measure](core_05defs_accountability.md#irreversible-deprivation-measure-constitutional), for non-conflation discipline with **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*);
 - [Autonomous Coercion Tool](core_05defs_accountability.md#autonomous-coercion-tool-constitutional).
 
-**Joint invocation and anti-bypass.** Under [Joint invocation and satisfaction](core_05-05_definitions_a_independent.md#joint-invocation-and-satisfaction), a matter within the admission scope must not be segmented into separate authorization, targeting, weapons-class, autonomy, coercion, or review questions in a way that satisfies one component while defeating materially interdependent force, discrimination, autonomy-control, or non-conflation duties.
+**Joint invocation and anti-bypass.** Under [Joint invocation and satisfaction](core_05_definitions_home.md#joint-invocation-and-satisfaction), a matter within the admission scope must not be segmented into separate authorization, targeting, weapons-class, autonomy, coercion, or review questions in a way that satisfies one component while defeating materially interdependent force, discrimination, autonomy-control, or non-conflation duties.
 
 ---
 
@@ -2114,6 +2114,6 @@ This cluster is the joint-invocation home for overt use of force, weapons of mas
 
 ---
 
-**Previous file:** [core_05apex_participation_leg.md](core_05apex_participation_leg.md)
+**Previous file:** [core_05apex_timeliness_leg.md](core_05apex_timeliness_leg.md)
 
 **Next file:** [core_05defs_continuity.md](core_05defs_continuity.md)

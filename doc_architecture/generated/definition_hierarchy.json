@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T15:20:40+00:00",
+  "generated_at": "2026-07-20T16:47:31+00:00",
   "source": "ai_corpus/indexes/definition_registry.json",
   "overrides": "tools/architecture/hierarchy_overrides.json",
   "entry_count": 226,
@@ -3096,7 +3096,7 @@
     },
     {
       "term": "Timeliness",
-      "canonical_file": "core_05apex_accountability_leg.md",
+      "canonical_file": "core_05apex_timeliness_leg.md",
       "anchor": "timeliness-constitutional",
       "line_start": 1,
       "definition_class": "apex_head",

@@ -25,7 +25,7 @@ APEX_HEAD_LOCATORS: dict[str, tuple[str, str]] = {
     "Oversight": ("core_05apex_oversight_leg.md", "oversight-constitutional"),
     "Participation": ("core_05apex_participation_leg.md", "participation-constitutional"),
     "Accountability": ("core_05apex_accountability_leg.md", "accountability"),
-    "Timeliness": ("core_05apex_accountability_leg.md", "timeliness-constitutional"),
+    "Timeliness": ("core_05apex_timeliness_leg.md", "timeliness-constitutional"),
 }
 
 LETTER_M_RE = re.compile(r"^- M:", re.MULTILINE)
@@ -150,7 +150,7 @@ def extract_definition_body(text: str, term: str) -> str | None:
                 break
             body.append(lines[j])
         return "\n".join(body)
-    # ## Timeliness (and similar apex co-leg heads)
+    # ## Timeliness (and similar apex leg heads)
     for idx, raw in enumerate(lines):
         if raw.strip() == f"## {term}":
             body: list[str] = []

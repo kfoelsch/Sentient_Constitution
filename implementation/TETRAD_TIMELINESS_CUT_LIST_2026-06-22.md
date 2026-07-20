@@ -25,7 +25,7 @@
 
 - `core_00_preamble.md`
 - `core_05defs_accountability.md` — Timeliness; Timely Resolution upstream link
-- `core_05-05_definitions_a_independent.md` — compass entry
+- `core_05_definitions_home.md` — compass entry
 - `core_05defs_continuity.md` — stewardship cluster timeliness hooks
 - `core_01_b_stewardship_capacity_principles.md` — §6 stewardship timeliness
 - `core_08-08_standing_assessment.md` — compass, dual-use delay dimension
