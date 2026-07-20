@@ -35,7 +35,7 @@ CUT END:   L45 (blank line before ---)
 ```markdown
 # Sentient Constitution — Preamble
 
-This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter 00** (preamble / foundational requirements). Reading order and edition metadata: [README.md](README.md).
+This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains the **Preamble** (foundational requirements). Reading order and edition metadata: [README.md](README.md).
 
 **Next:** [core_01_a_values_principles.md](core_01_a_values_principles.md) (Chapter One, Part A — Values Principles).
 ```
@@ -368,7 +368,7 @@ Keep existing pre-elevation ids from L632–L657 **plus** all superseded primary
 
 *In plain terms: governance tells you who may decide and how — but only counts when it stays under stewardship discipline and does not eat the future for today's metrics.*
 
-**Governance** at principle layer means the structures, rules, allocation of authority, and processes by which already-authorized systems and institutions are directed and held accountable — as defined in Chapter Five and operationalized under **Chapter Twelve** for the **Constitutional Contract Layer** and stakeholder participation layers stated in [Chapter 00](core_00_preamble.md#chapter-00-preamble--foundational-requirements).
+**Governance** at principle layer means the structures, rules, allocation of authority, and processes by which already-authorized systems and institutions are directed and held accountable — as defined in Chapter Five and operationalized under **Chapter Twelve** for the **Constitutional Contract Layer** and stakeholder participation layers stated in [Preamble](core_00_preamble.md#chapter-00-preamble--foundational-requirements).
 
 Governance is **necessary** but **not sufficient**. It must remain subordinate to **Stewardship** where procedural regularity, short-horizon optimization, or institutional self-protection would otherwise defeat durable alignment, **Continuity**, or Rights-Floor integrity.
 ```

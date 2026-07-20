@@ -175,7 +175,7 @@ MEASUREMENT_FAMILIES = {
     ],
 }
 
-# Parent map: Chapter Zero §2 eight categories → §3 measurement-family subcategories.
+# Parent map: Preamble §2 eight categories → §3 measurement-family subcategories.
 MEASUREMENT_CATEGORIES: dict[str, list[str]] = {
     "3.1 Threshold and scaling": ["Materiality"],
     "3.2 Flourishing": [
@@ -212,7 +212,7 @@ MEASUREMENT_CATEGORIES: dict[str, list[str]] = {
 }
 
 CH00_SECTION3_ANCHOR_RE = re.compile(
-    r"(?:core_00_preamble\.md#measuring-|Chapter Zero §3\.?\d?)",
+    r"(?:core_00_preamble\.md#measuring-|Preamble §3\.?\d?)",
     re.IGNORECASE,
 )
 
@@ -452,7 +452,7 @@ def measurement_families_for(text: str) -> list[str]:
 
 
 def ch00_section3_signals_for(text: str) -> list[str]:
-    """Explicit Chapter Zero §3 read-with links or canonical #measuring-* anchors."""
+    """Explicit Preamble §3 read-with links or canonical #measuring-* anchors."""
     signals: list[str] = []
     if CH00_SECTION3_ANCHOR_RE.search(text):
         signals.append("explicit_ch00_section3_trace")
@@ -738,7 +738,7 @@ class Ch1Ch6AlignmentAuditor:
             f"- Chapter 6 article/subarticle inventory was discovered across all four rights files: `{total}` items.",
             f"- Direct Chapter 1 trace exists for `{direct}/{total}` Chapter 6 items.",
             f"- Chapter 0 measurement frame signals are structurally visible on `{ch0_framed}/{total}` items.",
-            f"- Explicit Chapter Zero §3 category traces or anchors appear on `{ch0_section3_traced}/{total}` items.",
+            f"- Explicit Preamble §3 category traces or anchors appear on `{ch0_section3_traced}/{total}` items.",
             "",
             "### What Needs Review",
             "",
@@ -786,7 +786,7 @@ class Ch1Ch6AlignmentAuditor:
             f"| Chapter 6 articles/subarticles discovered | {total} | PASS |",
             f"| Items with direct Chapter 1 basis | {direct}/{total} | {'PASS' if direct == total else 'REVIEW'} |",
             f"| Items with Chapter 0 Tetrad/Aims/material-stake framing | {ch0_framed}/{total} | {'PASS' if ch0_framed == total else 'REVIEW'} |",
-            f"| Items with explicit Chapter Zero §3 trace or anchor signal | {ch0_section3_traced}/{total} | {'PASS' if ch0_section3_traced else 'REVIEW'} |",
+            f"| Items with explicit Preamble §3 trace or anchor signal | {ch0_section3_traced}/{total} | {'PASS' if ch0_section3_traced else 'REVIEW'} |",
             f"| Items with clear measurement routing or no measurement dependency | {measurement_routed}/{total} | {'PASS' if measurement_routed == total else 'REVIEW'} |",
             f"| Broken or ambiguous Chapter 0/1/6 links | {finding_counts.get('broken_link', 0)} | {'PASS' if finding_counts.get('broken_link', 0) == 0 else 'FAIL'} |",
             f"| Owner-boundary risks | {finding_counts.get('owner_drift', 0)} | {'PASS' if finding_counts.get('owner_drift', 0) == 0 else 'FAIL'} |",

@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Audit Chapter Zero measurement anchor hygiene across the operative corpus."""
+"""Audit Preamble measurement anchor hygiene across the operative corpus."""
 
 from __future__ import annotations
 
@@ -14,10 +14,10 @@ from corpus_paths import source_markdown_files
 
 CH00_FILE = "core_00_preamble.md"
 
-# Chapter Zero §3 (Major Measurement Aspects) and its per-category anchors were
+# Preamble §3 (Major Measurement Aspects) and its per-category anchors were
 # removed in 2026-07. The §2 overview now links straight to the Chapter Five
 # measurement-family homes, and no file should link back to these deleted
-# Chapter Zero category anchors. This audit guards against their reappearance.
+# Preamble category anchors. This audit guards against their reappearance.
 REMOVED_MEASUREMENT_ANCHORS: frozenset[str] = frozenset(
     {
         "major-measurement-aspects",
@@ -83,8 +83,8 @@ def scan_file(path: Path, root: Path) -> list[Finding]:
             anchor_id = anchor.lstrip("#")
             if anchor_id not in REMOVED_MEASUREMENT_ANCHORS:
                 continue
-            # Only flag links that resolve into Chapter Zero (or same-file
-            # anchors inside Chapter Zero itself).
+            # Only flag links that resolve into Preamble (or same-file
+            # anchors inside Preamble itself).
             if "core_00_preamble" not in file_target and rel != CH00_FILE:
                 continue
             findings.append(
@@ -93,7 +93,7 @@ def scan_file(path: Path, root: Path) -> list[Finding]:
                     line=line_no,
                     kind="removed_measurement_anchor",
                     detail=(
-                        f"Link targets removed Chapter Zero category anchor #{anchor_id}; "
+                        f"Link targets removed Preamble category anchor #{anchor_id}; "
                         "link the Chapter Five measurement-family home instead"
                     ),
                 )
@@ -112,12 +112,12 @@ def write_evidence(root: Path, date: str, findings: list[Finding]) -> Path:
         f"**Date:** {date}",
         f"**Status:** {status}",
         "",
-        "Removed Chapter Zero category anchors (must not be linked): "
+        "Removed Preamble category anchors (must not be linked): "
         + ", ".join(f"`#{a}`" for a in sorted(REMOVED_MEASUREMENT_ANCHORS)),
         "",
     ]
     if not findings:
-        lines.append("No links to removed Chapter Zero measurement category anchors found.")
+        lines.append("No links to removed Preamble measurement category anchors found.")
     else:
         lines.append("| File | Line | Detail |")
         lines.append("|---|---:|---|")

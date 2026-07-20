@@ -15,7 +15,7 @@ from corpus_paths import source_markdown_files
 HEADING_RE = re.compile(r"^(#{1,6})\s+(.+)$")
 ANCHOR_RE = re.compile(r'<a id="([^"]+)"></a>')
 
-# Prefer canonical Chapter Zero measurement anchors over legacy aliases when
+# Prefer canonical Preamble measurement anchors over legacy aliases when
 # multiple <a id> tags precede the same heading.
 CH00_CANONICAL_ANCHORS: frozenset[str] = frozenset(
     {

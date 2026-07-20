@@ -284,7 +284,7 @@ These rules limit how the table's default leads interact. They do not replace **
 
 - Upstream: [§1](#1-purpose-and-role) (*purpose, primary application role, accountability requirements, published threshold routing, non-relocation of detail, independence and review expectations*); [§2](#2-default-venue-and-primary-stakes) (*default venue table, primary-stakes test, intake triage, mixed stakes, and prompt contestable threshold access*); [§3](#3-transfer-consolidation-and-coordination) (*transfer, consolidation, and anti-self-judging*).
 - Downstream: [§5](#5-escalation-and-certification) (*family-to-family escalation; certification when operational and constitutional stakes merge; alignment rulings and general doctrine*); [§6](#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*materiality tiers and anti-delay discipline*); [§7](#7-forum-support-before-during-and-after-review) (*forum support before, during, and after review*).
-- Read with: [Chapter Zero §3.1](core_00_preamble.md#from-measurement-to-evidence-and-remedy) (*measurement standards custody and governance bridge*); [corpus_forum.md](corpus_forum.md) (**CF-3** (*Forum formation — family inventory, title flexibility, and non-collapse*); **CF-7** alignment rulings); [corpus_institutions.md](corpus_institutions.md) (*institution duties and supervised-scope language mirrored in the institutional family*); [Chapter Five — Corpus](core_05i_integrative_definitions.md#corpus) (*implementation-file designation and custody terms for incorporated institution rules*).
+- Read with: [Preamble §3.1](core_00_preamble.md#from-measurement-to-evidence-and-remedy) (*measurement standards custody and governance bridge*); [corpus_forum.md](corpus_forum.md) (**CF-3** (*Forum formation — family inventory, title flexibility, and non-collapse*); **CF-7** alignment rulings); [corpus_institutions.md](corpus_institutions.md) (*institution duties and supervised-scope language mirrored in the institutional family*); [Chapter Five — Corpus](core_05i_integrative_definitions.md#corpus) (*implementation-file designation and custody terms for incorporated institution rules*).
 - Within §4: [§4.1](#41-sentient-forums); [§4.2](#42-technical-forum-domains); [§4.3](#43-institutional-forums); [§4.4](#44-environment-forums); [§4.5](#45-integrity-forums); [§4.6](#46-constitutional-forums); [§4.7](#47-provisional-implementation-operational-law).
 
 </details>
@@ -342,7 +342,7 @@ The **subsections** **below** **follow** **section** **2**’s **default** **ven
 - standards governance;
 - bounded uncertainty-reduction relevant to adjudication or regulation.
 
-**Standards custody.** **Technical Forum Domains** maintain reviewable standards used to operationalize [Chapter Zero §2](core_00_preamble.md#measurements-overview) measurement categories and [Chapter Five](core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) definition homes — including standards used to assess system alignment — within lawful scope:
+**Standards custody.** **Technical Forum Domains** maintain reviewable standards used to operationalize [Preamble §2](core_00_preamble.md#measurements-overview) measurement categories and [Chapter Five](core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) definition homes — including standards used to assess system alignment — within lawful scope:
 - measurement methods;
 - test protocols;
 - expert-evidence standards;

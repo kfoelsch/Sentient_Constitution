@@ -1,11 +1,13 @@
-# Constitutional definitions (Continuity aim)
+<a id="continuity-aim-constitutional"></a>
+
+# CHAPTER FIVE DEFINITIONS: CONTINUITY (CONSTITUTIONAL AIM)
 
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
 > The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other chapters.
 >
-> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter Five, Continuity aim** — the canonical O/M/A/C home and hierarchy map for the **Continuity** constitutional aim. Read the **O/M/A/C** definition first; leaf definitions for measurement families and primary-aim clusters live in the Tetrad **band files** linked from [aim decomposition](#continuity-aim-decomposition). Reading order and the compass live in [core_05-05_definitions_a_independent.md](core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions).
+> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It is the **Chapter Five** canonical O/M/A/C home and hierarchy map for the **Continuity** constitutional aim. Read the **O/M/A/C** definition first; leaf definitions for measurement families and primary-aim clusters live in the Tetrad **band files** linked from [Constitutional Aim decomposition](#continuity-aim-decomposition). Reading order and the compass live in [core_05-05_definitions_a_independent.md](core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions).
 
 </details>
 
@@ -13,29 +15,23 @@
 
 ---
 
-<a id="continuity-aim-constitutional"></a>
-
-#### Continuity (Constitutional Aim)
-
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Chapter Five compass](core_05-05_definitions_a_independent.md#chapter-five-compass-and-definition-map); [Two Constitutional Aims](../core_00_preamble.md#two-constitutional-aims); principle-layer gloss at [Chapter 00 §1](../core_00_preamble.md#continuity).
-- Downstream: Principles: [Chapter One §8.1 Resilience and Self-Healing Design](core_01_a_values_principles.md#41-resilience-and-self-healing-design); [§12 Shared-System Capacity](core_01_c_stewardship_capacity_principles.md#12-shared-system-capacity); [§11.1.5 Constitutional Outcome Claims Discipline](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline); [aim decomposition](#continuity-aim-decomposition); Continuity band clusters **Chapter One §8.12–Chapter One §8.15** and related semi-independent topic groups in [core_05c_continuity_definitions.md](core_05c_continuity_definitions.md).
+- Upstream: [Chapter Five compass](core_05-05_definitions_a_independent.md#chapter-five-compass-and-definition-map); [Two Constitutional Aims](../core_00_preamble.md#two-constitutional-aims); principle-layer gloss at [Preamble §1](../core_00_preamble.md#continuity).
+- Downstream: Principles: [Chapter One §8.1 Resilience and Self-Healing Design](core_01_a_values_principles.md#41-resilience-and-self-healing-design); [§12 Shared-System Capacity](core_01_c_stewardship_capacity_principles.md#12-shared-system-capacity); [§11.1.5 Constitutional Outcome Claims Discipline](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline); [Constitutional Aim decomposition](#continuity-aim-decomposition); Continuity band clusters **Chapter One §8.12–Chapter One §8.15** and related semi-independent topic groups in [core_05c_continuity_definitions.md](core_05c_continuity_definitions.md).
 - Read with: [Stewardship](core_05c_continuity_definitions.md#stewardship-constitutional), [Ecological Integrity](core_05c_continuity_definitions.md#ecological-integrity-constitutional), [Dependency](core_05c_continuity_definitions.md#dependency), [Flourishing](core_05f_flourishing_aim.md#flourishing-constitutional) (paired aim — neither may be pursued at the expense of the other), [Constitutional Tetrad](../core_00_preamble.md#constitutional-tetrad) scaled to [material stake](../core_00_preamble.md#material-stake) (legitimacy frame for this aim — not a fifth constituent), Continuity measurement family, [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md), and [definition hierarchy](doc_architecture/generated/definition_hierarchy.md).
 
 </details>
 
 <br>
 
-This entry is the Chapter Five home for the **Continuity** constitutional aim.
-
 - O: Keep sentients and the life-supporting systems they depend on stable, sustainable, resilient, and ecologically well over the long haul — not only in the short term.
-  - **In scope:** judging systems against this aim using the Continuity building blocks and measurement families listed in [aim decomposition](#continuity-aim-decomposition).
-  - **Depends on:** [Stewardship](core_05c_continuity_definitions.md#stewardship-constitutional), [Self-Healing](core_05c_continuity_definitions.md#self-healing-constitutional), [Sustainability](core_05c_continuity_definitions.md#sustainability), [Ecological Integrity](core_05c_continuity_definitions.md#ecological-integrity-constitutional), [Environmental Preconditions](core_05c_continuity_definitions.md#environmental-preconditions-constitutional), [Intergenerational Responsibility](core_05c_continuity_definitions.md#intergenerational-responsibility-constitutional), [Dependency](core_05c_continuity_definitions.md#dependency), and [Proportionate Cross-System Support](core_05c_continuity_definitions.md#proportionate-cross-system-support-constitutional) — the themes named in [Chapter 00 §1](../core_00_preamble.md#continuity). Each term's detailed scope and how-to-measure rules live on its own definition; start from [aim decomposition](#continuity-aim-decomposition).
+  - **In scope:** judging systems against this aim using the Continuity building blocks and measurement families listed in [Constitutional Aim decomposition](#continuity-aim-decomposition).
+  - **Depends on:** [Stewardship](core_05c_continuity_definitions.md#stewardship-constitutional), [Self-Healing](core_05c_continuity_definitions.md#self-healing-constitutional), [Sustainability](core_05c_continuity_definitions.md#sustainability), [Ecological Integrity](core_05c_continuity_definitions.md#ecological-integrity-constitutional), [Environmental Preconditions](core_05c_continuity_definitions.md#environmental-preconditions-constitutional), [Intergenerational Responsibility](core_05c_continuity_definitions.md#intergenerational-responsibility-constitutional), [Dependency](core_05c_continuity_definitions.md#dependency), and [Proportionate Cross-System Support](core_05c_continuity_definitions.md#proportionate-cross-system-support-constitutional) — the themes named in [Preamble §1](../core_00_preamble.md#continuity). Each term's detailed scope and how-to-measure rules live on its own definition; start from [Constitutional Aim decomposition](#continuity-aim-decomposition).
   - Out of scope: [Indigenous Continuity](core_05c_continuity_definitions.md#indigenous-continuity-constitutional) unless the text expressly brings it in; the leaf-definition details, measurement tiers, and implementation mechanics owned by band files and CJS.
 <a id="continuity-aim-constitutional-m"></a>
-- M: Continuity measurement family — a link-only overview for this aim. The detailed measurement rules live on each leaf definition. Map: [aim decomposition](#continuity-aim-decomposition).
+- M: Continuity measurement family — a link-only overview for this aim. The detailed measurement rules live on each leaf definition. Map: [Constitutional Aim decomposition](#continuity-aim-decomposition).
 <a id="continuity-aim-constitutional-a"></a>
 - A: Judge under the [Constitutional Tetrad](../core_00_preamble.md#constitutional-tetrad), scaled to [material stake](../core_00_preamble.md#material-stake). Ask whether systems keep lasting capacity to repair, adapt, face risk honestly, and stay within ecological limits — not whether today's numbers look calm. Tie claimed continuity results to the [constituent](#continuity-aim-decomposition) conditions, under Chapter Four and [Chapter One §11.1.5](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline). Read with [Stewardship Defect](core_05c_continuity_definitions.md#stewardship-defect-constitutional), [Proxy Divergence](core_05o_oversight_definitions.md#proxy-divergence), [Existential Risk](core_05c_continuity_definitions.md#existential-risk), and [Cascading Failure](core_05c_continuity_definitions.md#cascading-failure). Always read with [Flourishing](core_05f_flourishing_aim.md#flourishing-constitutional): chasing short-term gains that hollow **participation**, **oversight**, **accountability**, or **timeliness** below what [material stake](../core_00_preamble.md#material-stake) requires fails **Continuity**, even if near-term outputs go up.
 <a id="continuity-aim-constitutional-c"></a>
@@ -45,11 +41,11 @@ This entry is the Chapter Five home for the **Continuity** constitutional aim.
 
 <a id="continuity-aim-decomposition"></a>
 
-### Aim decomposition
+### Constitutional Aim decomposition
 
 Leaf definitions under this aim inherit its scope unless they expressly narrow or widen it. Full topic map: [Chapter Five compass](core_05-05_definitions_a_independent.md#chapter-five-compass-and-definition-map).
 
-**Thematic constituents** (named in [Chapter 00 §1](../core_00_preamble.md#continuity) — long-horizon stability, sustainability, resilience, and ecological wellbeing) — definition home and joint-invocation cluster:
+**Thematic constituents** (named in [Preamble §1](../core_00_preamble.md#continuity) — long-horizon stability, sustainability, resilience, and ecological wellbeing) — definition home and joint-invocation cluster:
 
 - **Stability and resilience** — [Stewardship](core_05c_continuity_definitions.md#stewardship-constitutional), [Self-Healing](core_05c_continuity_definitions.md#self-healing-constitutional); [§3.32 *Resilience, Safety, Reversibility, Self-Healing, Cascading Failure, Existential Risk, Environmental Preconditions, and Wellbeing*](core_05c_continuity_definitions.md#resilience-safety-reversibility-self-healing-and-systemic-harm-cluster); [Chapter One §8.13 *Stewardship, Governance Discipline, and Shared-System Capacity*](core_05c_continuity_definitions.md#stewardship-governance-discipline-and-shared-system-capacity-cluster)
 - **Sustainability** — [Sustainability](core_05c_continuity_definitions.md#sustainability), [Ecological Footprint](core_05c_continuity_definitions.md#ecological-footprint); [*Ecological Integrity, Footprint, and Sustainability*](core_05p_participation_definitions.md#ecological-footprint-semi-independent)
@@ -68,7 +64,7 @@ Leaf definitions under this aim inherit its scope unless they expressly narrow o
 
 <a id="continuity-measurement-family"></a>
 
-### Measuring Continuity (Chapter Zero measurement family)
+### Measuring Continuity (Preamble measurement family)
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -80,7 +76,9 @@ Leaf definitions under this aim inherit its scope unless they expressly narrow o
 
 <br>
 
-*Chapter Five home for the Continuity measurement family. Chapter Zero §2 keeps the plain-language category question; the family table and definition routing live here.*
+*Chapter Five home for the Continuity measurement family. Preamble §2 keeps the plain-language category question; the family table and definition routing live here.*
+
+*Materiality* ([Materiality Determination](core_05o_oversight_definitions.md#materiality-determination)) is Integrative — not a separate measurement category; it scales how strongly this family applies under [material stake](core_00_preamble.md#material-stake).
 
 | Subfamily | Plain question | Main constitutional use |
 |---|---|---|

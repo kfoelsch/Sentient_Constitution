@@ -74,7 +74,7 @@ def render(root: Path, seeds: dict, registry: dict, hierarchy: dict) -> str:
         "",
         f"Generated: {datetime.now(timezone.utc).replace(microsecond=0).isoformat()}",
         "",
-        "Grouped by Chapter Zero measurement category. **Approved** terms must carry "
+        "Grouped by Preamble measurement category. **Approved** terms must carry "
         "`*Measurements:*` and tier-aligned **E**/**C** per [doc_architecture.md](../doc_architecture.md) MEAS-DEF-01.",
         "",
     ]

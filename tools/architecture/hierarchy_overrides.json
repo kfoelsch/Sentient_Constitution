@@ -77,8 +77,8 @@
     },
     "Materiality, impact, risk, and proxy integrity": {
       "primary_aim": "cross-cutting",
-      "tetrad_leg": "Oversight",
-      "ch00_measurement": ["3.1 Threshold and scaling", "3.5 Oversight", "3.6 Accountability"]
+      "tetrad_leg": "Integrative",
+      "ch00_measurement": ["3.5 Oversight", "3.6 Accountability"]
     }
   },
   "terms": {
@@ -157,7 +157,8 @@
     "Materiality Determination": {
       "aim_role": "measurement_family_member",
       "primary_aim": "cross-cutting",
-      "ch00_measurement": ["3.1 Threshold and scaling"]
+      "tetrad_leg": "Integrative",
+      "ch00_measurement": []
     },
     "Proxy Divergence": {
       "aim_role": "measurement_family_member",
@@ -180,22 +181,28 @@
       "ch00_measurement": ["3.8 Constitutional performance"]
     },
     "Material": {
-      "ch00_measurement": ["3.1 Threshold and scaling", "3.5 Oversight"]
+      "tetrad_leg": "Integrative",
+      "ch00_measurement": ["3.5 Oversight"]
     },
     "Material Impact": {
-      "ch00_measurement": ["3.1 Threshold and scaling", "3.5 Oversight"]
+      "tetrad_leg": "Integrative",
+      "ch00_measurement": ["3.5 Oversight"]
     },
     "Material Risk": {
-      "ch00_measurement": ["3.1 Threshold and scaling", "3.5 Oversight"]
+      "tetrad_leg": "Integrative",
+      "ch00_measurement": ["3.5 Oversight"]
     },
     "Material Degradation": {
-      "ch00_measurement": ["3.1 Threshold and scaling", "3.5 Oversight"]
+      "tetrad_leg": "Integrative",
+      "ch00_measurement": ["3.5 Oversight"]
     },
     "Materiality Integrity Constraint": {
-      "ch00_measurement": ["3.1 Threshold and scaling", "3.5 Oversight"]
+      "tetrad_leg": "Integrative",
+      "ch00_measurement": ["3.5 Oversight"]
     },
     "Materiality Under Uncertainty": {
-      "ch00_measurement": ["3.1 Threshold and scaling", "3.5 Oversight"]
+      "tetrad_leg": "Integrative",
+      "ch00_measurement": ["3.5 Oversight"]
     },
     "Avoidable Burden": {
       "ch00_measurement": ["3.3 Continuity", "3.8 Constitutional performance"]

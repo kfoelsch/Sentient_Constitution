@@ -97,10 +97,31 @@ def next_nonempty(lines: list[str], start: int) -> int | None:
 
 
 def title_for_details(lines: list[str], details_idx: int) -> tuple[int, str] | None:
-    title_idx = prev_significant(lines, details_idx - 1)
-    if title_idx is None:
-        return None
-    return title_idx, lines[title_idx].rstrip()
+    """Find the heading that owns a Trace ``<details>`` block.
+
+    Walks back past spacers, horizontal rules, and closed non-entry widgets
+    (corpus placement / reader guidance) so aim- and leg-head files that place
+    Trace after those widgets still resolve to the ``#`` / ``####`` title.
+    """
+    nonentry_open, nonentry_close = nonentry_widget_detail_lines(lines)
+    idx = details_idx - 1
+    while idx >= 0:
+        stripped = lines[idx].strip()
+        if not stripped or stripped in {"---", "<br>"} or stripped.startswith("<a id="):
+            idx -= 1
+            continue
+        if idx in nonentry_close:
+            # Jump to the matching non-entry ``<details>`` open, then keep walking.
+            open_idx = next((o for o in sorted(nonentry_open) if o < idx), None)
+            if open_idx is None:
+                return None
+            idx = open_idx - 1
+            continue
+        if stripped.startswith("#"):
+            return idx, lines[idx].rstrip()
+        # Plain-text titles are legacy; still accept when immediately above Trace.
+        return idx, lines[idx].rstrip()
+    return None
 
 
 # File-top orientation widgets are not Trace / definition entries; the

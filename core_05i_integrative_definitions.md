@@ -27,7 +27,7 @@
 <br>
 
 
-This band holds **Integrative** cross-leg definitions that require simultaneous satisfaction across Tetrad legs and cannot be owned cleanly by one leg alone — notably the corpus authority stack, constitutional contract layer, and foundational authorization terms. Canonical **governance-layer discipline** ([Constitutional Contract Layer](core_05i_integrative_definitions.md#constitutional-contract-layer) vs **Stakeholder System Participation**): [Chapter 00 §4](../core_00_preamble.md#governance-layer-discipline).
+This band holds **Integrative** cross-leg definitions that require simultaneous satisfaction across Tetrad legs and cannot be owned cleanly by one leg alone — notably the corpus authority stack, constitutional contract layer, and foundational authorization terms. **Materiality** / [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination) is Integrative (cross-cutting threshold gate); leaf homes currently remain in the Oversight band file pending any later relocation. Canonical **governance-layer discipline** ([Constitutional Contract Layer](core_05i_integrative_definitions.md#constitutional-contract-layer) vs **Stakeholder System Participation**): [Preamble §4](../core_00_preamble.md#governance-layer-discipline).
 
 | Cluster | Section |
 |---|---|
@@ -59,7 +59,7 @@ This band holds **Integrative** cross-leg definitions that require simultaneous 
   - **Out of scope:** **constitutional misalignment** at the stewardship and incentive layer (Chapter One §11); [Residual Risk / Misalignment](core_05c_continuity_definitions.md#residual-risk--misalignment) as a bounded risk state after mitigation; system alignment certification status under Chapter Seven; Chapter Eight violation-axis slot labels (those classify verified findings and do not redefine whether a definition is met).
 <a id="non-compliance-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Threshold and Scaling measurement family — primary owner for whether a definition is met or not met in a given scope.
+  - **Primary measure:** Integrative Materiality — [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination) scales duty intensity under [material stake](../core_00_preamble.md#material-stake); not a separate measurement category.
 
     **Primary assessment:** Judge by observable behavior, outcomes, and the measures that track them under full functional system conditions. Apply all O, M, A, and C parts jointly. Names, paperwork structure, declared intent, or formal categories do not decide. Apply [Chapter Three §1](core_02-03_definition_mechanics.md#1-definition-integrity-and-anti-evasion-constraints) and [§3](core_02-03_definition_mechanics.md#2-non-compliance-from-observable-system-behavior) when deciding whether behavior or evasion counts as non-compliance.
 <a id="non-compliance-c"></a>
@@ -76,7 +76,7 @@ This band holds **Integrative** cross-leg definitions that require simultaneous 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [Chapter 00 §4 governance-layer discipline](core_00_preamble.md#governance-layer-discipline); [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency).
+- Downstream: Principles: [Preamble §4 governance-layer discipline](core_00_preamble.md#governance-layer-discipline); [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency).
 - Owner floor: [Chapter Twelve: Constitutional Contract, Legitimacy, Authorization, and Stewardship](core_12-12_governance.md#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship); [Article IX-C: Governance Participation and Voting Entitlement](core_06-06_rights_part_b.md#article-ix-c-governance-participation-and-voting-entitlement).
 - Cluster component: [Chapter Five Chapter One §8.12 *Constitutional Contract Layer and Foundational Constitutional Choice*](core_05i_integrative_definitions.md#constitutional-contract-layer)
 - Read with: [Foundational Constitutional Choice](core_05i_integrative_definitions.md#foundational-constitutional-choice), [Binding Stakeholder Choice](core_05p_participation_definitions.md#binding-stakeholder-choice-cluster), [Stakeholder Status, Emergency, and Participation Weight](core_05p_participation_definitions.md#stakeholder-status-emergency-and-participation-weight-cluster), [Governance](core_05a_accountability_definitions.md#governance).
@@ -92,7 +92,7 @@ This band holds **Integrative** cross-leg definitions that require simultaneous 
 - **How to measure and assess**
   - **Primary measure:** Accountability measurement family — supporting measure under the accountability measurement family.
 
-    **Primary assessment:** Identify this layer by function, not scale. Read [Chapter 00 §4 governance-layer discipline](core_00_preamble.md#governance-layer-discipline). Reject framings that treat silence, usage alone, market presence, or branding as authorization.
+    **Primary assessment:** Identify this layer by function, not scale. Read [Preamble §4 governance-layer discipline](core_00_preamble.md#governance-layer-discipline). Reject framings that treat silence, usage alone, market presence, or branding as authorization.
 <a id="constitutional-contract-layer-c"></a>
 - **What must hold**
   - treating stakeholder consultation, operational participation, or system use as a substitute for documented constitutional authorization; using impact-weighted stakeholder voting to constitute or durably restructure governing authority where [Foundational Constitutional Choice](core_05i_integrative_definitions.md#foundational-constitutional-choice) requires the political-equality floor.
@@ -125,7 +125,7 @@ This band holds **Integrative** cross-leg definitions that require simultaneous 
 - **How to measure and assess**
   - **Primary measure:** Accountability measurement family — supporting measure under the accountability measurement family.
 
-    **Primary assessment:** Identify foundational constitutional choice by scope — the question's character as authorization or durable structuring of governing authority — not by marginal per-decision impact. Read [Chapter 00 §4 governance-layer discipline](core_00_preamble.md#governance-layer-discipline). Foundational questions are not re-routable as high-impact weighted choices under [Stakeholder Representation and Participation-Weight Limits (Binding Stakeholder Choice)](core_05p_participation_definitions.md#stakeholder-representation-and-participation-weight-limits-binding-collective-choice). Apply [Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion). Reject substrate-class, calendar-age, or lineage participation-weight factors. Apply [Procedural Fairness](core_05p_participation_definitions.md#procedural-fairness-constitutional) to any disqualification invoked against participation.
+    **Primary assessment:** Identify foundational constitutional choice by scope — the question's character as authorization or durable structuring of governing authority — not by marginal per-decision impact. Read [Preamble §4 governance-layer discipline](core_00_preamble.md#governance-layer-discipline). Foundational questions are not re-routable as high-impact weighted choices under [Stakeholder Representation and Participation-Weight Limits (Binding Stakeholder Choice)](core_05p_participation_definitions.md#stakeholder-representation-and-participation-weight-limits-binding-collective-choice). Apply [Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion). Reject substrate-class, calendar-age, or lineage participation-weight factors. Apply [Procedural Fairness](core_05p_participation_definitions.md#procedural-fairness-constitutional) to any disqualification invoked against participation.
 <a id="foundational-constitutional-choice-c"></a>
 <a id="foundational-collective-choice-constitutional-c"></a>
 - **What must hold**
@@ -426,8 +426,8 @@ This cluster is the joint-invocation home for operative corpus identity, authori
 
 ##### Supremacy and Enforceability
 
-- O: The requirement that binding corpus obligations prevail within their valid source, adoption, and governance-layer scope, and remain enforceable through observable, traceable, and [Contestability](core_05a_accountability_definitions.md#contestability) compliance assessment. Supremacy is determined under the [Authority Stack and Internal Hierarchy](core_05i_integrative_definitions.md#authority-stack), operative [Corpus](core_05i_integrative_definitions.md#corpus), and applicable adoption or incorporation instrument. Read [Chapter 00 §4 governance-layer discipline](core_00_preamble.md#governance-layer-discipline) for Constitutional Contract vs Stakeholder System Participation routing.
-  - In scope: The requirement that binding corpus obligations prevail within their valid source, adoption, and governance-layer scope, and remain enforceable through observable, traceable, and [Contestability](core_05a_accountability_definitions.md#contestability) compliance assessment. Supremacy is determined under the [Authority Stack and Internal Hierarchy](core_05i_integrative_definitions.md#authority-stack), operative [Corpus](core_05i_integrative_definitions.md#corpus), and applicable adoption or incorporation instrument. Read [Chapter 00 §4 governance-layer discipline](core_00_preamble.md#governance-layer-discipline) for Constitutional Contract vs Stakeholder System Participation routing.
+- O: The requirement that binding corpus obligations prevail within their valid source, adoption, and governance-layer scope, and remain enforceable through observable, traceable, and [Contestability](core_05a_accountability_definitions.md#contestability) compliance assessment. Supremacy is determined under the [Authority Stack and Internal Hierarchy](core_05i_integrative_definitions.md#authority-stack), operative [Corpus](core_05i_integrative_definitions.md#corpus), and applicable adoption or incorporation instrument. Read [Preamble §4 governance-layer discipline](core_00_preamble.md#governance-layer-discipline) for Constitutional Contract vs Stakeholder System Participation routing.
+  - In scope: The requirement that binding corpus obligations prevail within their valid source, adoption, and governance-layer scope, and remain enforceable through observable, traceable, and [Contestability](core_05a_accountability_definitions.md#contestability) compliance assessment. Supremacy is determined under the [Authority Stack and Internal Hierarchy](core_05i_integrative_definitions.md#authority-stack), operative [Corpus](core_05i_integrative_definitions.md#corpus), and applicable adoption or incorporation instrument. Read [Preamble §4 governance-layer discipline](core_00_preamble.md#governance-layer-discipline) for Constitutional Contract vs Stakeholder System Participation routing.
   - Out of scope: formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 *Measurements:*
 

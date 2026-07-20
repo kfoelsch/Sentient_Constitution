@@ -1,71 +1,82 @@
-# Constitutional definitions (Oversight band)
+<a id="oversight-constitutional"></a>
+
+# CHAPTER FIVE DEFINITIONS: OVERSIGHT
 
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
 > The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other chapters.
 >
-> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter Five, Oversight band** — Independent, Semi-independent, and Dependent cluster definitions assigned to the **Oversight** constitutional band. Reading order and the compass live in [core_05-05_definitions_a_independent.md](core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions).
+> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It is the **Chapter Five** canonical O/M/A/C home and hierarchy map for the **Oversight** Tetrad leg, plus Independent, Semi-independent, and Dependent cluster definitions assigned to this band (Chapter One §8.2–§3.3 clusters). Read the **O/M/A/C** definition first; leaf definitions follow under Independent, Semi-independent, and Dependent sections below. Reading order and the compass live in [core_05-05_definitions_a_independent.md](core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions).
 
 </details>
 
 <br>
 
 ---
-
-## Oversight leg definitions (Chapter One §8.2–§3.3 clusters)
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Chapter Five compass](core_05-05_definitions_a_independent.md#chapter-five-compass-and-definition-map); [Constitutional Tetrad](../core_00_preamble.md#constitutional-tetrad); [Two Constitutional Aims](../core_00_preamble.md#two-constitutional-aims).
-- Downstream: Oversight-band canonical definition homes for Chapter Five.
-- Read with: **Oversight** band definitions; mandatory cluster read-with where admission scope applies.
+- Upstream: [Chapter Five compass](core_05-05_definitions_a_independent.md#chapter-five-compass-and-definition-map); [Constitutional Tetrad](../core_00_preamble.md#constitutional-tetrad) (oversight leg; [material stake](../core_00_preamble.md#material-stake) scaling); [Two Constitutional Aims](../core_00_preamble.md#two-constitutional-aims); primary aim [Flourishing](../core_00_preamble.md#flourishing).
+- Downstream: Principles: [§10 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline); [Tetrad Leg decomposition](#oversight-tetrad-leg-decomposition); Oversight-band leaf definitions in this file.
+- Cluster component: [Governance Architecture, Oversight, Dependency, Decentralization, Concentration, Market Structure, and Exit-Path Integrity](core_05a_accountability_definitions.md#governance-architecture-oversight-decentralization-and-concentration-cluster).
+- Read with: [Chapter Five Chapter One §8.23 *Material Impact, Materiality Determination, Classification-Scaled Governance, Oversight, and Capability Requirement*](#materiality-semi-independent), [Accountability](core_05a_accountability_definitions.md#accountability), [Contestability](core_05a_accountability_definitions.md#contestability), [Transparency](#transparency), [Auditability](#auditability), [System Capture](core_05c_continuity_definitions.md#system-capture), and Oversight measurement family.
 
 </details>
 
 <br>
 
+- O: Watch systems, check them, and keep them within bounds — the Tetrad leg this entry names.
+  - **In scope:** watching, checking, verifying, and constraining how systems behave, done by [Stakeholders](core_05p_participation_definitions.md#stakeholder), independent actors, or institutions, and spread out where that is workable. How much oversight is required scales with [Material Impact](#material-impact), [Dependency](core_05c_continuity_definitions.md#dependency), and [Risk](core_05c_continuity_definitions.md#risk). Purpose: catch and fix non-compliance, and support informed [Governance](core_05a_accountability_definitions.md#governance).
+  - **Depends on:** [Material Impact](#material-impact), [Dependency](core_05c_continuity_definitions.md#dependency), [Risk](core_05c_continuity_definitions.md#risk), [Transparency](#transparency), and [Auditability](#auditability) — the conditions and channels this leg needs in order to work. Each term's detailed scope and how-to-measure rules live on its own definition; start from [Tetrad Leg decomposition](#oversight-tetrad-leg-decomposition).
+  - Out of scope: labels or ceremonies that do not actually change the governed behavior; the leaf-definition details, measurement tiers, and implementation mechanics owned by leaf entries and CJS.
+<a id="oversight-constitutional-m"></a>
+- M: Oversight measurement family — a link-only overview for this Tetrad leg. The detailed measurement rules live on each leaf definition. Map: [Tetrad Leg decomposition](#oversight-tetrad-leg-decomposition). Progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md).
+<a id="oversight-constitutional-a"></a>
+- A: Judge under the [Constitutional Tetrad](../core_00_preamble.md#constitutional-tetrad), scaled to [material stake](../core_00_preamble.md#material-stake). Ask whether oversight is real — able to see problems and change outcomes — not just ceremony. Read with [Auditability](#auditability), [Contestability](core_05a_accountability_definitions.md#contestability), [Transparency](#transparency), and [Classification-Scaled Governance](#classification-scaled-governance).
+<a id="oversight-constitutional-c"></a>
+- C: Non-compliant when: there is no real oversight path where one is materially required; oversight cannot actually change outcomes; or the supervised system alone controls the oversight.
 
-This band holds **Oversight**-leg definitions from the [Constitutional Tetrad](../core_00_preamble.md#constitutional-tetrad): transparency, auditability, truth, materiality classification, and strategic stewardship oversight. Primary constitutional aim: [Flourishing](../core_00_preamble.md#flourishing), with Continuity-scaled clusters where noted in the compass.
+---
 
-| Cluster | Section |
-|---|---|
-| **Chapter One §8.2** | Transparency, Auditability, and Verification |
-| **§11.3** | Truth and Epistemic Integrity |
+<a id="oversight-tetrad-leg-decomposition"></a>
+<a id="oversight-leg-decomposition"></a>
+
+### Tetrad Leg decomposition
+
+Leaf definitions under this leg inherit its scope unless they expressly narrow or widen it. Full topic map: [Chapter Five compass](core_05-05_definitions_a_independent.md#chapter-five-compass-and-definition-map).
+
+**Dependent clusters** (Chapter One §8.2–§3.3) — joint-invocation homes:
+
+- **Transparency, auditability, and verification** — [§3.2 *Transparency, Auditability, and Verification*](#transparency-auditability-and-verification-cluster)
+- **Truth and epistemic integrity** — [§3.3 *Truth and Epistemic Integrity*](#truth-and-epistemic-integrity-cluster)
+
+**Semi-independent topic groups** (invoke per admission scope):
+
+- [Materiality, impact, risk, and proxy integrity](#materiality-semi-independent)
+
+**Independent terms** live under [Oversight: Independent terms](#oversight-independent-terms) below.
 
 ---
 
 <a id="threshold-scaling-measurement-family"></a>
-
-### Measuring Threshold and Scaling (Chapter Zero measurement family)
-
-*Chapter Five home for the Threshold and Scaling measurement family. Chapter Zero §2 keeps the plain-language category question in the overview table; the family table, constitutional use, and definition routing live here.*
-
-| Measurement family | Plain question | Main constitutional use |
-|---|---|---|
-| **Materiality** | Is the effect serious enough to trigger stronger duties? | Scales Tetrad legs and duty intensity to constitutional significance |
-
-This measure asks whether effects are constitutionally serious enough to trigger stronger duties — the threshold gate that scales every [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) leg to [**material stake**](core_00_preamble.md#material-stake). Operative measurement tiers live on Chapter Five definition homes in [Materiality, impact, risk, and proxy integrity](core_05o_oversight_definitions.md#materiality-semi-independent); primary owner: [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination). Progress tracker: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md).
-
-*Materially* in body text may invoke this family; capitalized **Material** terms are governed by the Chapter Five definitions.
-
----
-
 <a id="oversight-measurement-family"></a>
 
-### Measuring Oversight (Chapter Zero measurement family)
+### Measuring Oversight (Preamble measurement family)
 
-*Chapter Five home for the Oversight measurement family. Chapter Zero §2 keeps the plain-language category question in the overview table; the family table, constitutional use, and definition routing live here.*
+*Chapter Five home for the Oversight measurement family. Preamble §2 keeps the plain-language category question; the family table and definition routing live here. ([Materiality Determination](#materiality-determination) is Integrative — not a separate measurement category; it scales how strongly this family applies under [material stake](../core_00_preamble.md#material-stake).)*
 
 | Measurement family | Plain question | Main constitutional use |
 |---|---|---|
 | Truth and epistemic integrity | Are claims, records, and disclosures honest enough for safe decisions? | Protects informed participation, remedy, and correction |
 | Trustworthiness | Is reliance justified, or is trust being degraded? | Protects sentients from false confidence and misleading reliance |
 
-These measures ask whether sentients can see, verify, and rely on what materially impactful systems represent — the **oversight** leg of the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), read together with **truth** and **trustworthiness** under the [**Flourishing**](core_00_preamble.md#flourishing) aim. Operative measurement tiers live on Chapter Five definition homes — see [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint), [Epistemic Integrity](core_05o_oversight_definitions.md#epistemic-integrity), [Transparency](core_05o_oversight_definitions.md#transparency), [Auditability](core_05o_oversight_definitions.md#auditability), [Verifiability](core_05o_oversight_definitions.md#verifiability), [Proxy Divergence](core_05o_oversight_definitions.md#proxy-divergence), [Trustworthiness](core_05c_continuity_definitions.md#trustworthiness), and [Oversight](core_05o_oversight_definitions.md#oversight-constitutional) (link-only leg-head rollup). Progress tracker: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md). Binding reliability, audit, or review requirements arise when Chapter Six, [Chapter Seven](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification), or incorporated instruments expressly require them.
+These measures ask whether sentients can see, verify, and rely on what materially impactful systems represent — the **oversight** leg of the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), read together with **truth** and **trustworthiness** under the [**Flourishing**](core_00_preamble.md#flourishing) aim. Operative measurement tiers live on leaf definitions — see [Truth (Constitutional Constraint)](#truth-constitutional-constraint), [Epistemic Integrity](#epistemic-integrity), [Transparency](#transparency), [Auditability](#auditability), [Verifiability](#verifiability), [Proxy Divergence](#proxy-divergence), [Trustworthiness](core_05c_continuity_definitions.md#trustworthiness), and [Oversight](#oversight-constitutional) (link-only leg-head rollup). Progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md). Binding reliability, audit, or review requirements arise when Chapter Six, [Chapter Seven](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification), or incorporated instruments expressly require them.
 
 ---
+
+<a id="oversight-independent-terms"></a>
 
 ### Oversight: Independent terms
 
@@ -156,32 +167,7 @@ These measures ask whether sentients can see, verify, and rely on what materiall
 
 ---
 
-<a id="oversight-constitutional"></a>
-
-#### Oversight
-
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Downstream: Principles: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) (oversight leg; [material stake](core_00_preamble.md#material-stake) scaling); [§10 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline).
-- Cluster component: [Governance Architecture, Oversight, Dependency, Decentralization, Concentration, Market Structure, and Exit-Path Integrity](core_05a_accountability_definitions.md#governance-architecture-oversight-decentralization-and-concentration-cluster).
-- Read with: [Chapter Five Chapter One §8.23 *Material Impact, Materiality Determination, Classification-Scaled Governance, Oversight, and Capability Requirement*](core_05o_oversight_definitions.md#materiality-semi-independent), [Accountability](core_05a_accountability_definitions.md#accountability), [Contestability](core_05a_accountability_definitions.md#contestability), [Transparency](core_05o_oversight_definitions.md#transparency), [Auditability](core_05o_oversight_definitions.md#auditability), and [System Capture](core_05c_continuity_definitions.md#system-capture).
-
-</details>
-
-<br>
-
-- **What it is**
-  - **In scope:** Monitoring, review, verification, and constraint of system behavior by [Stakeholders](core_05p_participation_definitions.md#stakeholder), independent actors, or institutions, distributed where feasible. Proportionate to [Material Impact](core_05o_oversight_definitions.md#material-impact), [Dependency](core_05c_continuity_definitions.md#dependency), and [Risk](core_05c_continuity_definitions.md#risk). Purpose: detect and correct non-compliance and support informed [Governance](core_05a_accountability_definitions.md#governance).
-  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-<a id="oversight-constitutional-a"></a>
-- **How to measure and assess**
-  - **Primary measure:** Oversight measurement family — link-only rollup for the **oversight** Tetrad leg; operative tiers on leaf primaries below. Progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md).
-
-    **Primary assessment:** Distinguish substantive oversight from performative ceremony. Align with [Auditability](core_05o_oversight_definitions.md#auditability), [Contestability](core_05a_accountability_definitions.md#contestability), [Transparency](core_05o_oversight_definitions.md#transparency), and [Classification-Scaled Governance](core_05o_oversight_definitions.md#classification-scaled-governance).
-<a id="oversight-constitutional-c"></a>
-- **What must hold**
-  - absence of oversight pathways where materially required; oversight that cannot meaningfully influence outcomes; oversight captured by the supervised system alone.
+**Oversight.** Binding O/M/A/C and [Tetrad Leg decomposition](#oversight-tetrad-leg-decomposition) live at the head of this file. Do not duplicate leg-head O/M/A/C here.
 
 ---
 
@@ -259,7 +245,7 @@ These measures ask whether sentients can see, verify, and rely on what materiall
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Threshold and Scaling measurement family (*Materiality as constitutional measurement*); Principles: [Chapter Seven §3 Whole-System Certification Evaluation](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (**Materiality** DEC stack; evaluation completeness); [10.1 Core Tradeoff Principles](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles) (proportionality stack read with material effects).
+- Downstream: Integrative Materiality ([Materiality Determination](core_05o_oversight_definitions.md#materiality-determination)) (*Materiality as constitutional measurement*); Principles: [Chapter Seven §3 Whole-System Certification Evaluation](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (**Materiality** DEC stack; evaluation completeness); [10.1 Core Tradeoff Principles](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles) (proportionality stack read with material effects).
 - Read with: [Material Impact](core_05o_oversight_definitions.md#material-impact), [Material Risk](core_05o_oversight_definitions.md#material-risk), [Systemic Materiality](core_05a_accountability_definitions.md#systemic-materiality), and [Classification-Scaled Governance](core_05o_oversight_definitions.md#classification-scaled-governance).
 
 </details>
@@ -271,7 +257,7 @@ These measures ask whether sentients can see, verify, and rely on what materiall
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 <a id="material-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Threshold and Scaling measurement family — threshold input for [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination).
+  - **Primary measure:** Integrative Materiality ([Materiality Determination](core_05o_oversight_definitions.md#materiality-determination)) — threshold input for [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination).
 
     **Primary assessment:** Identify whether conditions are capable of producing meaningful [Material Impact](core_05o_oversight_definitions.md#material-impact) or [Material Risk](core_05o_oversight_definitions.md#material-risk) under full functional system scope.
   - **Secondary measure:** [Material Impact](core_05o_oversight_definitions.md#material-impact), [Material Risk](core_05o_oversight_definitions.md#material-risk), and [Systemic Materiality](core_05a_accountability_definitions.md#systemic-materiality) — co-measures that can defeat material classification when effects are fragmented or understated.
@@ -290,7 +276,7 @@ These measures ask whether sentients can see, verify, and rely on what materiall
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Threshold and Scaling measurement family (*Materiality as constitutional measurement*); Principles: [material stake](core_00_preamble.md#material-stake) scaling proxy; Chapter One surfaces this definition across **Safety** (**Chapter One §8.1**), **Truth** (**Chapter One §8.2**), **Trust** (**§12**), **§12** stewardship and openness passages, **§13.1**, **§13.2**, and **Chapter One §6.3.2** where **Materiality** appears in D/A/C widgets — see [Chapter Seven §3 Whole-System Certification Evaluation](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) as the principal systems-evaluation home.
+- Downstream: Integrative Materiality ([Materiality Determination](core_05o_oversight_definitions.md#materiality-determination)) (*Materiality as constitutional measurement*); Principles: [material stake](core_00_preamble.md#material-stake) scaling proxy; Chapter One surfaces this definition across **Safety** (**Chapter One §8.1**), **Truth** (**Chapter One §8.2**), **Trust** (**§12**), **§12** stewardship and openness passages, **§13.1**, **§13.2**, and **Chapter One §6.3.2** where **Materiality** appears in D/A/C widgets — see [Chapter Seven §3 Whole-System Certification Evaluation](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) as the principal systems-evaluation home.
 - Cluster component: [the dependent cluster *Material Impact, Materiality Determination, Classification-Scaled Governance, Oversight, and Capability Requirement*](core_05o_oversight_definitions.md#materiality-semi-independent).
 - Read with: [Material Impact](core_05o_oversight_definitions.md#material-impact), [Material Risk](core_05o_oversight_definitions.md#material-risk), [Systemic Materiality](core_05a_accountability_definitions.md#systemic-materiality), and [Auditability](core_05o_oversight_definitions.md#auditability).
 
@@ -303,7 +289,7 @@ These measures ask whether sentients can see, verify, and rely on what materiall
   - Out of scope: immaterial or formal-only classification without functional effect on governance, oversight, or capability requirements.
 *Measurements:*
 
-- **Primary:** Threshold and Scaling measurement family — threshold-and-scaling measure for this term.
+- **Primary:** Integrative Materiality ([Materiality Determination](core_05o_oversight_definitions.md#materiality-determination)) — threshold-and-scaling measure for this term.
 - **Secondary:** [Material Impact](core_05o_oversight_definitions.md#material-impact), [Material Risk](core_05o_oversight_definitions.md#material-risk), [Systemic Materiality](core_05a_accountability_definitions.md#systemic-materiality), and [Dependency](core_05c_continuity_definitions.md#dependency) — co-measures that can defeat materiality classification when isolated or fragmented analysis understates effects.
 - **Tertiary:** [Proxy Divergence](core_05o_oversight_definitions.md#proxy-divergence) and [Materiality Integrity Constraint](core_05o_oversight_definitions.md#materiality-integrity-constraint) — where boundary manipulation, aggregation avoidance, or proxy metrics defeat honest materiality analysis.
 
@@ -339,7 +325,7 @@ These measures ask whether sentients can see, verify, and rely on what materiall
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 <a id="materiality-integrity-constraint-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Threshold and Scaling measurement family — integrity constraint on honest materiality analysis.
+  - **Primary measure:** Integrative Materiality ([Materiality Determination](core_05o_oversight_definitions.md#materiality-determination)) — integrity constraint on honest materiality analysis.
 
     **Primary assessment:** Detect fragmentation, aggregation avoidance, and boundary manipulation that would defeat honest [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination).
   - **Secondary measure:** [Systemic Materiality](core_05a_accountability_definitions.md#systemic-materiality), [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination), [Auditability](core_05o_oversight_definitions.md#auditability), and [Proxy Divergence](core_05o_oversight_definitions.md#proxy-divergence) — co-measures that defeat manipulation or proxy gaming of materiality.
@@ -358,7 +344,7 @@ These measures ask whether sentients can see, verify, and rely on what materiall
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Threshold and Scaling measurement family (*Materiality as constitutional measurement*); Principles: [material stake](core_00_preamble.md#material-stake) scaling proxy; [Chapter Seven §3 Whole-System Certification Evaluation](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [§9 Stewardship and Distributed Understanding — §9.2 Distributed Understanding](core_01_c_stewardship_capacity_principles.md#92-distributed-understanding) (understanding scales with **Materiality**); [8.1.1 Proportionality](core_01_b_interaction_interpretation.md#611-proportionality) (material impact in the tradeoff index).
+- Downstream: Integrative Materiality ([Materiality Determination](core_05o_oversight_definitions.md#materiality-determination)) (*Materiality as constitutional measurement*); Principles: [material stake](core_00_preamble.md#material-stake) scaling proxy; [Chapter Seven §3 Whole-System Certification Evaluation](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [§9 Stewardship and Distributed Understanding — §9.2 Distributed Understanding](core_01_c_stewardship_capacity_principles.md#92-distributed-understanding) (understanding scales with **Materiality**); [8.1.1 Proportionality](core_01_b_interaction_interpretation.md#611-proportionality) (material impact in the tradeoff index).
 - Cluster component: [the dependent cluster *Material Impact, Materiality Determination, Classification-Scaled Governance, Oversight, and Capability Requirement*](core_05o_oversight_definitions.md#materiality-semi-independent).
 - Read with: [Harm](core_05a_accountability_definitions.md#harm), [Risk](core_05c_continuity_definitions.md#risk), [Systemic Materiality](core_05a_accountability_definitions.md#systemic-materiality), [Dependency](core_05c_continuity_definitions.md#dependency), [Classification-Scaled Governance](core_05o_oversight_definitions.md#classification-scaled-governance), [Oversight](core_05o_oversight_definitions.md#oversight-constitutional), and [Transparency](core_05o_oversight_definitions.md#transparency).
 
@@ -371,7 +357,7 @@ These measures ask whether sentients can see, verify, and rely on what materiall
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 <a id="material-impact-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Threshold and Scaling measurement family — scope-and-severity input for materiality classification.
+  - **Primary measure:** Integrative Materiality ([Materiality Determination](core_05o_oversight_definitions.md#materiality-determination)) — scope-and-severity input for materiality classification.
 
     **Primary assessment:** Trace scope, scale, and severity of effects under full functional system scope — including direct, indirect, delayed, cumulative, and cross-system consequences.
   - **Secondary measure:** [Harm](core_05a_accountability_definitions.md#harm), [Risk](core_05c_continuity_definitions.md#risk), [Systemic Materiality](core_05a_accountability_definitions.md#systemic-materiality), and [Dependency](core_05c_continuity_definitions.md#dependency) — co-measures that can defeat impact assessment when isolated analysis understates effects.
@@ -390,7 +376,7 @@ These measures ask whether sentients can see, verify, and rely on what materiall
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Threshold and Scaling measurement family (*Materiality as constitutional measurement*); Principles: [Chapter Seven §3 Whole-System Certification Evaluation](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (tail risks, existential risk posture); [8.1.1 Proportionality](core_01_b_interaction_interpretation.md#611-proportionality) (**Risk**, **Irreversible Harm**, **Existential Risk** index).
+- Downstream: Integrative Materiality ([Materiality Determination](core_05o_oversight_definitions.md#materiality-determination)) (*Materiality as constitutional measurement*); Principles: [Chapter Seven §3 Whole-System Certification Evaluation](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (tail risks, existential risk posture); [8.1.1 Proportionality](core_01_b_interaction_interpretation.md#611-proportionality) (**Risk**, **Irreversible Harm**, **Existential Risk** index).
 - Read with: [Harm](core_05a_accountability_definitions.md#harm), [Irreversible Harm](core_05a_accountability_definitions.md#irreversible-harm), [Risk](core_05c_continuity_definitions.md#risk), [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint), and [Classification-Scaled Governance](core_05o_oversight_definitions.md#classification-scaled-governance).
 
 </details>
@@ -402,7 +388,7 @@ These measures ask whether sentients can see, verify, and rely on what materiall
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 <a id="material-risk-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Threshold and Scaling measurement family — likelihood-and-irreversibility input for material risk classification.
+  - **Primary measure:** Integrative Materiality ([Materiality Determination](core_05o_oversight_definitions.md#materiality-determination)) — likelihood-and-irreversibility input for material risk classification.
 
     **Primary assessment:** Include expected and tail outcomes together with speed and irreversibility of [Harm](core_05a_accountability_definitions.md#harm) under full functional system scope.
   - **Secondary measure:** [Harm](core_05a_accountability_definitions.md#harm), [Irreversible Harm](core_05a_accountability_definitions.md#irreversible-harm), [Risk](core_05c_continuity_definitions.md#risk), and [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint) — co-measures that can defeat risk classification when tail or systemic pathways are ignored.
@@ -433,7 +419,7 @@ These measures ask whether sentients can see, verify, and rely on what materiall
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 <a id="materiality-under-uncertainty-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Threshold and Scaling measurement family — precautionary default when materiality cannot be excluded.
+  - **Primary measure:** Integrative Materiality ([Materiality Determination](core_05o_oversight_definitions.md#materiality-determination)) — precautionary default when materiality cannot be excluded.
 
     **Primary assessment:** Apply precaution where materiality cannot be excluded — including where [Irreversible Harm](core_05a_accountability_definitions.md#irreversible-harm) remains plausible under uncertainty.
   - **Secondary measure:** [Material Impact](core_05o_oversight_definitions.md#material-impact), [Material Risk](core_05o_oversight_definitions.md#material-risk), [Irreversible Harm](core_05a_accountability_definitions.md#irreversible-harm), and [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint) — co-measures that require conservative classification under uncertainty.
@@ -531,7 +517,7 @@ These measures ask whether sentients can see, verify, and rely on what materiall
   - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
 <a id="material-degradation-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Threshold and Scaling measurement family — degradation signal for materiality classification.
+  - **Primary measure:** Integrative Materiality ([Materiality Determination](core_05o_oversight_definitions.md#materiality-determination)) — degradation signal for materiality classification.
 
     **Primary assessment:** Include scaling and systemic effects under [Systemic Materiality](core_05a_accountability_definitions.md#systemic-materiality) and [Risk](core_05c_continuity_definitions.md#risk) when evaluating non-trivial reduction in protected conditions.
   - **Secondary measure:** [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination), [Systemic Materiality](core_05a_accountability_definitions.md#systemic-materiality), [Risk](core_05c_continuity_definitions.md#risk), and [Proxy Divergence](core_05o_oversight_definitions.md#proxy-divergence) — co-measures that can defeat degradation assessment when proxies mask decline.

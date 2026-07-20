@@ -494,7 +494,7 @@ No value defined in this chapter may be used as a universal or unbounded justifi
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Chapter 00 — Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad); [material stake](core_00_preamble.md#material-stake) scaling applies chapter-wide through section traces.
+- Upstream: [Preamble — Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad); [material stake](core_00_preamble.md#material-stake) scaling applies chapter-wide through section traces.
 - Downstream: [§8.1 Constitutional No-Bypass Principle](#constitutional-no-bypass-principle), [§8.2 Definitional layer and required disciplines](#81-definitional-layer-and-required-disciplines), [§8.3 Ambiguity resolution](#82-ambiguity-resolution), [§8.4 Constitutional Meaning Conflict Resolution](#84-constitutional-meaning-conflict-resolution) ([§8.4.1](#831-integrated-reading) · [§8.4.2](#832-last-resort-internal-hierarchy) · [§8.4.3](#833-incorporation-layer)); [2. Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing) through [15. Integrated Application](core_01_c_stewardship_capacity_principles.md#15-integrated-application); [6. Process Conflict Resolution](#6-process-conflict-resolution) for value-collision procedure; [Chapter Six: Foundational Rights](core_06-06_rights_part_a.md#chapter-six-foundational-rights) non-contraction default.
 - Read with: [Chapters Two through Four](core_02-03_definition_mechanics.md) and [Chapter Five](core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) — interpretive and evidentiary layer for every term in this chapter.
 - Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) and [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — interpretive backdrop for the integrated-value framework; [material stake](core_00_preamble.md#material-stake) scaling where materially relevant.
@@ -573,7 +573,7 @@ This hierarchy is an interpretive rule of last resort and does not license:
 - rights contraction outside expressly permitted interaction rules
 - substitution of one layer for another under ordinary operation
 
-Each principle in this chapter applies together with the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) and [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) established in [Chapter 00 §1 The Model](core_00_preamble.md#the-model). Section traces identify which tetrad leg or legs are materially implicated, which aim or aims are materially implicated, and whether duties scale with [material stake](core_00_preamble.md#material-stake).
+Each principle in this chapter applies together with the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) and [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) established in [Preamble §1 The Model](core_00_preamble.md#the-model). Section traces identify which tetrad leg or legs are materially implicated, which aim or aims are materially implicated, and whether duties scale with [material stake](core_00_preamble.md#material-stake).
 
 <a id="833-incorporation-layer"></a>
 ##### 8.4.3 Incorporation layer
@@ -592,7 +592,7 @@ Where **[Chapter Sixteen](core_16-16_incorporation.md#2-authority-stack-and-invo
 
 - [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation**, **oversight**, **accountability**, and **timeliness**, scaled to [material stake](core_00_preamble.md#material-stake)
 - [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — [Flourishing](core_00_preamble.md#flourishing) and [Continuity](core_00_preamble.md#continuity) (constitutional **Continuity aim**, distinct from operational or protocol continuity elsewhere in the corpus)
-- [material stake](core_00_preamble.md#material-stake) — impact, dependency, and risk scaling for tetrad duties; read with the Threshold and Scaling measurement family (Chapter Zero Measurements Overview) and Chapter Five entries below
+- [material stake](core_00_preamble.md#material-stake) — impact, dependency, and risk scaling for tetrad duties; read with Integrative Materiality ([Materiality Determination](core_05o_oversight_definitions.md#materiality-determination)) and Chapter Five entries below
 
 **Chapter Five proxy definitions** (O/M/A/C satisfaction — trace under Chapters Two through Four when materially relevant):
 

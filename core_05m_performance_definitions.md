@@ -30,9 +30,11 @@ This band holds the cross-cutting **Constitutional Performance** measurement fam
 
 <a id="performance-measurement-family"></a>
 
-### Measuring Constitutional Performance (Chapter Zero measurement family)
+### Measuring Constitutional Performance (Preamble measurement family)
 
-*Chapter Five home for the Constitutional Performance measurement family. Chapter Zero §2 keeps the plain-language category question in the overview table; the family table, constitutional use, and definition routing live here.*
+*Chapter Five home for the Constitutional Performance measurement family. Preamble §2 keeps the plain-language category question in the overview table; the family table, constitutional use, and definition routing live here.*
+
+*Materiality* ([Materiality Determination](core_05o_oversight_definitions.md#materiality-determination)) is Integrative — not a separate measurement category; it scales how strongly this family applies under [material stake](core_00_preamble.md#material-stake).
 
 | Measurement family | Plain question | Main constitutional use |
 |---|---|---|

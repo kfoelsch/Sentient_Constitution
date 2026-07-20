@@ -2,23 +2,11 @@
 
 Auto-generated. Do not edit by hand.
 
-Generated: 2026-07-18T11:43:26+00:00
+Generated: 2026-07-20T08:34:10+00:00
 
-Grouped by Chapter Zero measurement category. **Approved** terms must carry `*Measurements:*` and tier-aligned **E**/**C** per [doc_architecture.md](../doc_architecture.md) MEAS-DEF-01.
-Approved progress: **219/220** terms pass tier audit.
+Grouped by Preamble measurement category. **Approved** terms must carry `*Measurements:*` and tier-aligned **E**/**C** per [doc_architecture.md](../doc_architecture.md) MEAS-DEF-01.
+Approved progress: **208/213** terms pass tier audit.
 
-
-## 3.1 Threshold and scaling
-
-| Term | Status | Tier depth | Aim role | File | Has measurements | Audit |
-| --- | --- | --- | --- | --- | --- | --- |
-| Material | approved | primary_secondary | cluster_member | `core_05o_oversight_definitions.md` | yes | pass |
-| Material Degradation | approved | primary_secondary | cluster_member | `core_05o_oversight_definitions.md` | yes | pass |
-| Material Impact | approved | primary_secondary | cluster_member | `core_05o_oversight_definitions.md` | yes | pass |
-| Material Risk | approved | primary_secondary | cluster_member | `core_05o_oversight_definitions.md` | yes | pass |
-| Materiality Determination | approved | full | measurement_family_member | `core_05o_oversight_definitions.md` | yes | pass |
-| Materiality Integrity Constraint | approved | primary_secondary | cluster_member | `core_05o_oversight_definitions.md` | yes | pass |
-| Materiality Under Uncertainty | approved | primary_secondary | cluster_member | `core_05o_oversight_definitions.md` | yes | pass |
 
 ## 3.2 Flourishing
 
@@ -123,7 +111,7 @@ Approved progress: **219/220** terms pass tier audit.
 | Non-Separation | approved | primary_only | cluster_member | `core_05p_participation_definitions.md` | yes | pass |
 | Non-Statelessness | approved | primary_only | cluster_member | `core_05p_participation_definitions.md` | yes | pass |
 | Parent-System Relationship | approved | primary_only | cluster_member | `core_05p_participation_definitions.md` | yes | pass |
-| Participation | approved | primary_only | tetrad_leg_head | `core_05p_participation_definitions.md` | yes | pass |
+| Participation | approved | primary_only | — | `—` | — | — |
 | Privacy (Informational) | approved | full | cluster_member | `core_05c_continuity_definitions.md` | yes | pass |
 | Procedural Fairness | approved | primary_secondary | cluster_member | `core_05p_participation_definitions.md` | yes | pass |
 | Protected Characteristic Proxying and Disparate Impact | approved | full | cluster_member | `core_05p_participation_definitions.md` | yes | pass |
@@ -168,7 +156,7 @@ Approved progress: **219/220** terms pass tier audit.
 | Foreseeability Scope | approved | primary_only | cluster_member | `core_05o_oversight_definitions.md` | yes | pass |
 | High-Impact and Systemic Harm Publication Constraint | approved | primary_only | cluster_member | `core_05o_oversight_definitions.md` | yes | pass |
 | Observability | approved | primary_only | cluster_member | `core_05o_oversight_definitions.md` | yes | pass |
-| Oversight | approved | primary_only | tetrad_leg_head | `core_05o_oversight_definitions.md` | yes | pass |
+| Oversight | approved | primary_only | — | `—` | — | — |
 | Press and Journalistic Activity | approved | primary_only | cluster_member | `core_05o_oversight_definitions.md` | yes | pass |
 | Protected Data and Internal-State Publication Constraint | approved | primary_only | cluster_member | `core_05o_oversight_definitions.md` | yes | pass |
 | Proxy Divergence | approved | full | measurement_family_member | `core_05o_oversight_definitions.md` | yes | pass |
@@ -194,7 +182,7 @@ Approved progress: **219/220** terms pass tier audit.
 
 | Term | Status | Tier depth | Aim role | File | Has measurements | Audit |
 | --- | --- | --- | --- | --- | --- | --- |
-| Accountability | approved | primary_only | tetrad_leg_head | `core_05a_accountability_definitions.md` | yes | pass |
+| Accountability | approved | primary_only | — | `core_05a_accountability_definitions.md` | no | fail |
 | Adjudication and Dispute Resolution | approved | primary_only | cluster_member | `core_05a_accountability_definitions.md` | yes | pass |
 | Collective Accountability Failure | approved | primary_only | cluster_member | `core_05a_accountability_definitions.md` | yes | pass |
 | Competency Gate | approved | primary_only | cluster_member | `core_05a_accountability_definitions.md` | yes | pass |
@@ -256,7 +244,7 @@ Approved progress: **219/220** terms pass tier audit.
 | Term | Status | Tier depth | Aim role | File | Has measurements | Audit |
 | --- | --- | --- | --- | --- | --- | --- |
 | Capture of Resolution Pathways | approved | full | cluster_member | `core_05a_accountability_definitions.md` | yes | pass |
-| Timeliness | approved | primary_only | tetrad_leg_head | `core_05a_accountability_definitions.md` | yes | pass |
+| Timeliness | approved | primary_only | — | `core_05a_accountability_definitions.md` | no | fail |
 | Timely Resolution | approved | full | cluster_member | `core_05a_accountability_definitions.md` | yes | pass |
 
 ## 3.8 Constitutional performance
@@ -267,3 +255,15 @@ Approved progress: **219/220** terms pass tier audit.
 | Burden-Reduction Duty | approved | primary_secondary | cluster_member | `core_05c_continuity_definitions.md` | yes | pass |
 | Constitutional Efficiency | approved | full | measurement_family_member | `core_05c_continuity_definitions.md` | yes | pass |
 | Productive Capacity | approved | full | cluster_member | `core_05c_continuity_definitions.md` | yes | pass |
+
+## uncategorized
+
+| Term | Status | Tier depth | Aim role | File | Has measurements | Audit |
+| --- | --- | --- | --- | --- | --- | --- |
+| Material | implicit_gate | primary_secondary | cluster_member | `core_05o_oversight_definitions.md` | yes | — |
+| Material Degradation | implicit_gate | primary_secondary | cluster_member | `core_05o_oversight_definitions.md` | yes | — |
+| Material Impact | implicit_gate | primary_secondary | cluster_member | `core_05o_oversight_definitions.md` | yes | — |
+| Material Risk | implicit_gate | primary_secondary | cluster_member | `core_05o_oversight_definitions.md` | yes | — |
+| Materiality Determination | implicit_gate | full | measurement_family_member | `core_05o_oversight_definitions.md` | yes | — |
+| Materiality Integrity Constraint | implicit_gate | primary_secondary | cluster_member | `core_05o_oversight_definitions.md` | yes | — |
+| Materiality Under Uncertainty | implicit_gate | primary_secondary | cluster_member | `core_05o_oversight_definitions.md` | yes | — |

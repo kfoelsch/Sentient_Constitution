@@ -1,12 +1,12 @@
 <a id="chapter-00-preamble--foundational-requirements"></a>
-# CHAPTER 00: PREAMBLE / FOUNDATIONAL REQUIREMENTS
+# PREAMBLE / FOUNDATIONAL REQUIREMENTS
 
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
 > The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other chapters.
 >
-> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter 00** (preamble / foundational requirements). Reading order and edition metadata are maintained in [README.md](README.md).
+> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains the **Preamble** (foundational requirements). Reading order and edition metadata are maintained in [README.md](README.md).
 >
 > **Next:** [core_01_a_values_principles.md](core_01_a_values_principles.md) (Chapter One, Part A — Values Principles).
 
@@ -51,11 +51,10 @@ Measurement in this Constitution asks a practical question: are systems actually
 
 Measurements must remain traceable to those aims and to the rights protections established in this Constitution. Raw throughput, utilization, headcount, revenue, latency, or other convenient proxies cannot substitute for constitutional performance where [Proxy Divergence](core_05o_oversight_definitions.md#proxy-divergence) is foreseeable.
 
-The overview below lists measurement **categories** mapped to the [Two Constitutional Aims](#two-constitutional-aims) and the [Constitutional Tetrad](#constitutional-tetrad). Each category has one plain-language question and named **subcategories**. Each category links to its **Chapter Five measurement-family home** — where the family table, constitutional use, and definition routing live — and each subcategory links to its canonical Chapter Five definition. **Materiality** is the threshold gate; **Constitutional performance** is cross-cutting — instrumental to both aims. Use the [Chapter Five measurement crosswalk](core_05-05_definitions_a_independent.md#chapter-five-measurement-crosswalk) to trace canonical homes from each category below.
+The overview below lists measurement **categories** mapped to the [Two Constitutional Aims](#two-constitutional-aims) and the [Constitutional Tetrad](#constitutional-tetrad). Each category has one plain-language question and named **subcategories**. Each category links to its **Chapter Five measurement-family home** — where the family table, constitutional use, and definition routing live — and each subcategory links to its canonical Chapter Five definition. **Materiality** is not a separate measurement category — it is the Integrative threshold gate that scales how strongly every category below applies under [**material stake**](#material-stake). **Constitutional performance** is cross-cutting — instrumental to both aims. Use the [Chapter Five measurement crosswalk](core_05-05_definitions_a_independent.md#chapter-five-measurement-crosswalk) to trace canonical homes from each category below.
 
 | Category | Plain question | Subcategories |
 |---|---|---|
-| **[Threshold and scaling](core_05o_oversight_definitions.md#threshold-scaling-measurement-family)** | Is the effect serious enough to trigger stronger duties? | [Materiality](core_05o_oversight_definitions.md#materiality-determination) |
 | **[Flourishing](core_05f_flourishing_aim.md#flourishing-measurement-family)** | Are sentients actually sustained in life, safety, and access to essentials? | [Wellbeing](core_05c_continuity_definitions.md#wellbeing) · [Safety, harm, and risk](core_05c_continuity_definitions.md#safety-constraint) · [Survival-floor access](core_05c_continuity_definitions.md#bodily-maintenance-access-constitutional) |
 | **[Continuity](core_05g_continuity_aim.md#continuity-measurement-family)** | Can sentients and systems endure — ecologically, dependably, and across failure? | [Ecological footprint and environmental preconditions](core_05c_continuity_definitions.md#ecological-footprint) · [Resilience, reversibility, and systemic risk](core_05c_continuity_definitions.md#reversibility-constitutional) · [Dependency and resource flows](core_05c_continuity_definitions.md#dependency) · [Cross-system support](core_05c_continuity_definitions.md#proportionate-cross-system-support-constitutional) |
 | **[Participation](core_05p_participation_definitions.md#participation-measurement-family)** | Can affected sentients take part fairly — voice, access, learning, and privacy? | [Fairness, access, and agency](core_05p_participation_definitions.md#substantive-fairness-constitutional) · [Privacy and data stewardship](core_05c_continuity_definitions.md#privacy-informational-cluster) |

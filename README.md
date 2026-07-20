@@ -26,7 +26,7 @@ The corpus is written in plain language with low jargon to improve accessibility
 
 ### Values and principles
 
-- **Chapter 00** (Preamble) — [`core_00_preamble.md`](core_00_preamble.md)
+- **Preamble** — [`core_00_preamble.md`](core_00_preamble.md)
 - **Chapter One, Part A** (Values Principles, §§1–5) — [`core_01_a_values_principles.md`](core_01_a_values_principles.md)
 - **Chapter One, Part B** (Interaction and Interpretation, §§6–8) — [`core_01_b_interaction_interpretation.md`](core_01_b_interaction_interpretation.md)
 - **Chapter One, Part C** (Stewardship and Governance, §§9–14; §14 integrated application capstone) — [`core_01_c_stewardship_capacity_principles.md`](core_01_c_stewardship_capacity_principles.md)
@@ -44,7 +44,7 @@ The corpus is written in plain language with low jargon to improve accessibility
   - Accountability band — §1/§2/§3 **§3.8–§3.11** — [`core_05a_accountability_definitions.md`](core_05a_accountability_definitions.md)
   - Continuity band — §1/§2/§3 **§3.12–§3.15** — [`core_05c_continuity_definitions.md`](core_05c_continuity_definitions.md)
   - Integrative band — §1/§2/§3 **§3.16** — [`core_05i_integrative_definitions.md`](core_05i_integrative_definitions.md)
-  - Constitutional Performance band — Chapter Zero measurement-family home (leaf definitions currently in the Continuity band) — [`core_05m_performance_definitions.md`](core_05m_performance_definitions.md)
+  - Constitutional Performance band — Preamble measurement-family home (leaf definitions currently in the Continuity band) — [`core_05m_performance_definitions.md`](core_05m_performance_definitions.md)
 
 ### Standing pipeline and forums
 
@@ -84,7 +84,7 @@ The corpus is written in plain language with low jargon to improve accessibility
 Cross-topic entry points not spelled out in the headings above:
 
 - Burden of proof, traceability, verification → **Chapter Four** ([`core_04-04_burden_traceability_verification.md`](core_04-04_burden_traceability_verification.md))
-- Constitutional Tetrad, Two Constitutional Aims, material stake → **Chapter 00 §1 The Model** ([`#constitutional-tetrad`](core_00_preamble.md#constitutional-tetrad), [`#two-constitutional-aims`](core_00_preamble.md#two-constitutional-aims), [`#material-stake`](core_00_preamble.md#material-stake)); Chapter One develops the aims into operative principles
+- Constitutional Tetrad, Two Constitutional Aims, material stake → **Preamble §1 The Model** ([`#constitutional-tetrad`](core_00_preamble.md#constitutional-tetrad), [`#two-constitutional-aims`](core_00_preamble.md#two-constitutional-aims), [`#material-stake`](core_00_preamble.md#material-stake)); Chapter One develops the aims into operative principles
 - System alignment certification records → **Chapter Seven**
 - Contribution / violation records and measurement (Contribution Axis and Violation Axis; Questions 1 and 2) → **Chapter Eight**
 - Standing integration and effects (Question 3; violation, correction, and prevention, lock design and enforcement, then contribution gates) → **Chapter Nine**

@@ -141,6 +141,14 @@
     {
       "avoid": "bare charter (Corpus/Constitution sense)",
       "prefer": "distinguish: (1) Chapter Five Charter — scope instrument for a system/institution/business (core_05c_continuity_definitions.md#charter); (2) Chapter Twelve treaty/compact/charter authorization-mechanism family; (3) verb hold a charter over / supervise, charter, or … — do not use bare charter for this Constitution or the Corpus"
+    },
+    {
+      "avoid": "Chapter Zero",
+      "prefer": "Preamble (core_00_preamble.md); e.g. Preamble §2, Preamble measurement family"
+    },
+    {
+      "avoid": "Chapter 00",
+      "prefer": "Preamble (core_00_preamble.md); retain filename core_00_preamble.md, ch00_* keys, and #chapter-00-* anchors"
     }
   ],
   "co_gloss_registry": [

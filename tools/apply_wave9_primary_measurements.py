@@ -109,7 +109,7 @@ def category_links(categories: list[str]) -> list[str]:
     links: list[str] = []
     for cat in sort_categories(categories):
         label, anchor, _ = CAT_META[cat]
-        links.append(f"[Chapter Zero {label}](../core_00_preamble.md{anchor})")
+        links.append(f"[Preamble {label}](../core_00_preamble.md{anchor})")
     return links
 
 
@@ -120,7 +120,7 @@ def build_measurements_block(term: str, categories: list[str], aim_role: str) ->
         cat = sort_categories(categories)[0]
         label, anchor, _ = CAT_META[cat]
         primary = (
-            f"- **Primary:** [Chapter Zero {label}](../core_00_preamble.md{anchor}) "
+            f"- **Primary:** [Preamble {label}](../core_00_preamble.md{anchor}) "
             f"— link-only rollup for the **{leg}** Tetrad leg; operative tiers on leaf primaries below. "
             "Progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md)."
         )

@@ -27,7 +27,7 @@
 <br>
 
 
-This band holds definitions under the constitutional [Continuity aim](../core_00_preamble.md#continuity): dependency, risk, survival-floor continuity, labor floors, stewardship discipline, privacy lifecycle, and trust. **Continuity disambiguation:** constitutional **Continuity aim** ([Chapter 00 §1](../core_00_preamble.md#continuity); binding O/M/A/C: [Continuity (Constitutional Aim)](core_05g_continuity_aim.md#continuity-aim-constitutional)) is distinct from operational or protocol continuity elsewhere in the corpus.
+This band holds definitions under the constitutional [Continuity aim](../core_00_preamble.md#continuity): dependency, risk, survival-floor continuity, labor floors, stewardship discipline, privacy lifecycle, and trust. **Continuity disambiguation:** constitutional **Continuity aim** ([Preamble §1](../core_00_preamble.md#continuity); binding O/M/A/C: [Continuity (Constitutional Aim)](core_05g_continuity_aim.md#continuity-aim-constitutional)) is distinct from operational or protocol continuity elsewhere in the corpus.
 
 | Cluster | Section |
 |---|---|
@@ -127,7 +127,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Owner floor: [Article IV-B](core_06-06_rights_part_a.md#article-iv-b-cross-system-fairness-and-sustainability) (*Cross-System Fairness and Sustainability*). Implementation routing: **[corpus_systems.md](corpus_systems.md)**, **Protocol S5 — Resource Allocation and Funding Stewardship**; [Chapter Seven — System Alignment Certification](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) [§6](core_07_a_system_alignment_certification_evaluation.md#6-proportionate-cross-system-support-evaluation) where shared-infrastructure reliance is materially at issue.
-- Downstream: [Article IV-A](core_06-06_rights_part_a.md#article-iv-a-dependency-mapping-and-resource-flow-transparency) (*dependent-systems maps and resource-flow records used to evaluate adequacy*); [Chapter Zero §2 *Measurements Overview*](core_00_preamble.md#measurements-overview) (*constitutional measurement orientation*); Continuity measurement family (*dependency and resource-flow measurement*).
+- Downstream: [Article IV-A](core_06-06_rights_part_a.md#article-iv-a-dependency-mapping-and-resource-flow-transparency) (*dependent-systems maps and resource-flow records used to evaluate adequacy*); [Preamble §2 *Measurements Overview*](core_00_preamble.md#measurements-overview) (*constitutional measurement orientation*); Continuity measurement family (*dependency and resource-flow measurement*).
 - Read with: [Dependency](core_05c_continuity_definitions.md#dependency), [Substantive Fairness](core_05p_participation_definitions.md#substantive-fairness-constitutional), [Proportionality](core_05a_accountability_definitions.md#proportionality), [Ecological Footprint](core_05c_continuity_definitions.md#ecological-footprint), [Sustainability](core_05c_continuity_definitions.md#sustainability), [Shared-System Capacity](core_05c_continuity_definitions.md#shared-system-capacity-constitutional), [System Alignment Certification](core_05c_continuity_definitions.md#system-alignment-certification-constitutional), and [Concentration Threshold](core_05a_accountability_definitions.md#concentration-threshold-constitutional).
 
 </details>
@@ -575,7 +575,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 
 ---
 
-**Continuity (Constitutional Aim).** Canonical home relocated. Binding O/M/A/C and [aim decomposition](core_05g_continuity_aim.md#continuity-aim-decomposition) live in [core_05g_continuity_aim.md](core_05g_continuity_aim.md#continuity-aim-constitutional). This band file owns leaf definitions under the Continuity aim — do not duplicate aim-head O/M/A/C here.
+**Continuity (Constitutional Aim).** Canonical home relocated. Binding O/M/A/C and [Constitutional Aim decomposition](core_05g_continuity_aim.md#continuity-aim-decomposition) live in [core_05g_continuity_aim.md](core_05g_continuity_aim.md#continuity-aim-constitutional). This band file owns leaf definitions under the Continuity aim — do not duplicate aim-head O/M/A/C here.
 
 ---
 
@@ -992,7 +992,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [6. Process Conflict Resolution](#6-process-conflict-resolution) (authorization / emergency discipline); [Chapter 00 — CCL vs stakeholder-layer split](core_00_preamble.md#chapter-00-preamble--foundational-requirements) (where constitutional continuity is at stake).
+- Downstream: Principles: [6. Process Conflict Resolution](#6-process-conflict-resolution) (authorization / emergency discipline); [Preamble — CCL vs stakeholder-layer split](core_00_preamble.md#chapter-00-preamble--foundational-requirements) (where constitutional continuity is at stake).
 - Cluster component: [Emergency and Contingency cluster](core_05c_continuity_definitions.md#emergency-and-contingency-semi-independent).
 - Read with: [Emergency and Contingency](core_05c_continuity_definitions.md#emergency-and-contingency-constitutional), [Constitutional Contract Layer](core_05i_integrative_definitions.md#constitutional-contract-layer), [Foundational Constitutional Choice](core_05i_integrative_definitions.md#foundational-constitutional-choice), [Governance](core_05a_accountability_definitions.md#governance), [System Capture](core_05c_continuity_definitions.md#system-capture), [Oversight](core_05o_oversight_definitions.md#oversight-constitutional), [Contestability](core_05a_accountability_definitions.md#contestability), and [Reversibility](core_05c_continuity_definitions.md#reversibility-constitutional). Owner floor: [Article XXIII-D: Emergency Measures and Continuation Burden](core_06-06_rights_part_d.md#article-xxiii-d-emergency-measures-and-continuation-burden).
 
@@ -1021,7 +1021,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [6. Process Conflict Resolution](#6-process-conflict-resolution) ([Article XXIII](core_06-06_rights_part_d.md#article-xxiii-conflict-resolution-escalation-and-emergency-proportionality) (*Conflict Resolution, Escalation, and Emergency Proportionality*)); [CHAPTER 00 — Preamble: Stakeholder System Participation](core_00_preamble.md#chapter-00-preamble--foundational-requirements) (emergency within SSP layer).
+- Downstream: Principles: [6. Process Conflict Resolution](#6-process-conflict-resolution) ([Article XXIII](core_06-06_rights_part_d.md#article-xxiii-conflict-resolution-escalation-and-emergency-proportionality) (*Conflict Resolution, Escalation, and Emergency Proportionality*)); [Preamble — Stakeholder System Participation](core_00_preamble.md#chapter-00-preamble--foundational-requirements) (emergency within SSP layer).
 - Cluster component: [Emergency and Contingency cluster](core_05c_continuity_definitions.md#emergency-and-contingency-semi-independent).
 - Read with: [Emergency and Contingency](core_05c_continuity_definitions.md#emergency-and-contingency-constitutional), [Stakeholder](core_05p_participation_definitions.md#stakeholder), [Stakeholder Participation Weight](core_05p_participation_definitions.md#stakeholder-participation-weight), [Stakeholder Status, Emergency, and Participation Weight](core_05p_participation_definitions.md#stakeholder-status-emergency-and-participation-weight-cluster), [Binding Stakeholder Choice](core_05p_participation_definitions.md#binding-stakeholder-choice-cluster), [Emergency Pre-Deliberation Action (Binding Collective Choice)](core_05c_continuity_definitions.md#emergency-pre-deliberation-action-binding-collective-choice), [Governance](core_05a_accountability_definitions.md#governance), [Contestability](core_05a_accountability_definitions.md#contestability), and [Reversibility](core_05c_continuity_definitions.md#reversibility-constitutional). Owner floor: [Article XXIII-D: Emergency Measures and Continuation Burden](core_06-06_rights_part_d.md#article-xxiii-d-emergency-measures-and-continuation-burden).
 
@@ -1431,7 +1431,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 
 - Constitutional frame: **Continuity** leg; **Continuity** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05o_oversight_definitions.md#materiality-determination).
 - Continuity disambiguation: Constitutional **Continuity** aim — survival-floor and economic continuity.
-- Flourishing measurement: serves Flourishing measurement family **survival-floor access** family under the [Flourishing aim decomposition](core_05f_flourishing_aim.md#flourishing-aim-decomposition); **Continuity** aim remains primary for long-horizon economic and survival-floor continuity.
+- Flourishing measurement: serves Flourishing measurement family **survival-floor access** family under the [Constitutional Aim decomposition](core_05f_flourishing_aim.md#flourishing-aim-decomposition); **Continuity** aim remains primary for long-horizon economic and survival-floor continuity.
 - Chapter One basis: Chapter One §8.1, Chapter One §8.1, Chapter One §8.1, §12.1 (see [Chapter Five compass](../core_05-05_definitions_a_independent.md#chapter-five-compass-and-definition-map) map).
 - Read with: Apply [Collective Organization](core_05p_participation_definitions.md#collective-organization-constitutional), [Productive Capacity](core_05c_continuity_definitions.md#productive-capacity-constitutional), [Privacy (Informational) — peer-level cluster head](core_05a_accountability_definitions.md#privacy-informational-cluster), [Consent](core_05p_participation_definitions.md#consent-constitutional), [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint), [Good Faith](core_05a_accountability_definitions.md#good-faith), [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency), [Innovation Reward and Anti-Enclosure](core_05i_integrative_definitions.md#innovation-reward-and-anti-enclosure), and [Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion) where materially implicated.
 

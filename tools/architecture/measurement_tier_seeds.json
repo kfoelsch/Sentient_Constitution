@@ -1,6 +1,5 @@
 {
   "ch00_categories": {
-    "3.1 Threshold and scaling": "#measuring-threshold-and-scaling",
     "3.2 Flourishing": "#measuring-flourishing",
     "3.3 Continuity": "#measuring-continuity",
     "3.4 Participation": "#measuring-participation",
@@ -26,39 +25,32 @@
       "status": "approved"
     },
     "Materiality Determination": {
-      "ch00_category": "3.1 Threshold and scaling",
       "tier_depth": "full",
-      "status": "approved"
+      "status": "implicit_gate"
     },
     "Material": {
-      "ch00_category": "3.1 Threshold and scaling",
       "tier_depth": "primary_secondary",
-      "status": "approved"
+      "status": "implicit_gate"
     },
     "Material Impact": {
-      "ch00_category": "3.1 Threshold and scaling",
       "tier_depth": "primary_secondary",
-      "status": "approved"
+      "status": "implicit_gate"
     },
     "Material Risk": {
-      "ch00_category": "3.1 Threshold and scaling",
       "tier_depth": "primary_secondary",
-      "status": "approved"
+      "status": "implicit_gate"
     },
     "Material Degradation": {
-      "ch00_category": "3.1 Threshold and scaling",
       "tier_depth": "primary_secondary",
-      "status": "approved"
+      "status": "implicit_gate"
     },
     "Materiality Integrity Constraint": {
-      "ch00_category": "3.1 Threshold and scaling",
       "tier_depth": "primary_secondary",
-      "status": "approved"
+      "status": "implicit_gate"
     },
     "Materiality Under Uncertainty": {
-      "ch00_category": "3.1 Threshold and scaling",
       "tier_depth": "primary_secondary",
-      "status": "approved"
+      "status": "implicit_gate"
     },
     "Truth (Constitutional Constraint)": {
       "ch00_category": "3.5 Oversight",
