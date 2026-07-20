@@ -1,4 +1,4 @@
-# Constitutional definitions (Accountability band)
+# Accountability Constitutional Definitions
 
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
@@ -13,7 +13,26 @@
 
 ---
 
-**Accountability (Tetrad leg).** Canonical home relocated. Binding O/M/A/C and [Tetrad Leg decomposition](core_05apex_accountability_leg.md#accountability-tetrad-leg-decomposition) live in [core_05apex_accountability_leg.md](core_05apex_accountability_leg.md#accountability). This band file owns leaf definitions under the Accountability leg — do not duplicate leg-head O/M/A/C here.
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: [Chapter Five compass](core_05_definitions_home.md#chapter-five-compass-and-definition-map); [Constitutional Tetrad](../core_00_preamble.md#constitutional-tetrad); [Two Constitutional Aims](../core_00_preamble.md#two-constitutional-aims).
+- Downstream: Accountability-band canonical definition homes for Chapter Five.
+- Read with: **Accountability** band definitions; mandatory cluster read-with where admission scope applies.
+
+</details>
+
+<br>
+
+
+This band holds definitions under the **Accountability** Tetrad leg — harm, forums, standing, force, contestability, redress, market structure, and related answerability terms. Binding O/M/A/C and [Tetrad Leg decomposition](core_05apex_accountability_leg.md#accountability-tetrad-leg-decomposition) live in [core_05apex_accountability_leg.md](core_05apex_accountability_leg.md#accountability). This band file owns leaf definitions under the Accountability leg — do not duplicate leg-head O/M/A/C here. Timeliness-leg implementing leaves currently live in this band; the Timeliness leg-head is [core_05apex_timeliness_leg.md](core_05apex_timeliness_leg.md#timeliness-constitutional).
+
+| Cluster | Section |
+|---|---|
+| **Chapter One §8.8** | Collective Harm Boundary, Harm, and Harassment and Bullying |
+| **Chapter One §8.9** | Forum Families and Dispute Routing |
+| **Chapter One §8.10** | Standing State, Contribution, and Violation |
+| **Chapter One §8.11** | Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm |
 
 ---
 

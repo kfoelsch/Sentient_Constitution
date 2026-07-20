@@ -1,4 +1,4 @@
-# Constitutional definitions (Oversight band)
+# Oversight Constitutional Definitions
 
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
@@ -13,7 +13,24 @@
 
 ---
 
-**Oversight (Tetrad leg).** Canonical home relocated. Binding O/M/A/C and [Tetrad Leg decomposition](core_05apex_oversight_leg.md#oversight-tetrad-leg-decomposition) live in [core_05apex_oversight_leg.md](core_05apex_oversight_leg.md#oversight-constitutional). This band file owns leaf definitions under the Oversight leg — do not duplicate leg-head O/M/A/C here.
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: [Chapter Five compass](core_05_definitions_home.md#chapter-five-compass-and-definition-map); [Constitutional Tetrad](../core_00_preamble.md#constitutional-tetrad); [Two Constitutional Aims](../core_00_preamble.md#two-constitutional-aims).
+- Downstream: Oversight-band canonical definition homes for Chapter Five.
+- Read with: **Oversight** band definitions; mandatory cluster read-with where admission scope applies.
+
+</details>
+
+<br>
+
+
+This band holds definitions under the **Oversight** Tetrad leg — transparency, auditability, verification, truth, epistemic integrity, materiality, and related disclosure and assurance terms. Binding O/M/A/C and [Tetrad Leg decomposition](core_05apex_oversight_leg.md#oversight-tetrad-leg-decomposition) live in [core_05apex_oversight_leg.md](core_05apex_oversight_leg.md#oversight-constitutional). This band file owns leaf definitions under the Oversight leg — do not duplicate leg-head O/M/A/C here.
+
+| Cluster | Section |
+|---|---|
+| **Chapter One §8.2** | Transparency, Auditability, and Verification |
+| **Chapter One §8.3** | Truth and Epistemic Integrity |
 
 ---
 

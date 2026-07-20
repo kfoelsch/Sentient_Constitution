@@ -1,4 +1,4 @@
-# Constitutional definitions (Constitutional Performance band)
+# Constitutional Performance Definitions
 
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
@@ -12,8 +12,6 @@
 <br>
 
 ---
-
-## Constitutional Performance band (cross-cutting measurement family)
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>

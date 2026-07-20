@@ -1,4 +1,4 @@
-# Constitutional definitions (Integrative band)
+# Integrative Constitutional Definitions
 
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
@@ -12,8 +12,6 @@
 <br>
 
 ---
-
-## Integrative cross-leg definitions (Chapter One §8.16 cluster)
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>

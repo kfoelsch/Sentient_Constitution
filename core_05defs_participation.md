@@ -1,4 +1,4 @@
-# Constitutional definitions (Participation band)
+# Participation Constitutional Definitions
 
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
@@ -13,7 +13,25 @@
 
 ---
 
-**Participation (Tetrad leg).** Canonical home relocated. Binding O/M/A/C and [Tetrad Leg decomposition](core_05apex_participation_leg.md#participation-tetrad-leg-decomposition) live in [core_05apex_participation_leg.md](core_05apex_participation_leg.md#participation-constitutional). This band file owns leaf definitions under the Participation leg — do not duplicate leg-head O/M/A/C here.
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: [Chapter Five compass](core_05_definitions_home.md#chapter-five-compass-and-definition-map); [Constitutional Tetrad](../core_00_preamble.md#constitutional-tetrad); [Two Constitutional Aims](../core_00_preamble.md#two-constitutional-aims).
+- Downstream: Participation-band canonical definition homes for Chapter Five.
+- Read with: **Participation** band definitions; mandatory cluster read-with where admission scope applies.
+
+</details>
+
+<br>
+
+
+This band holds definitions under the **Participation** Tetrad leg — sentience status, stakeholder choice, self-determination, agency, fairness, accessibility, and related voice and standing terms. Binding O/M/A/C and [Tetrad Leg decomposition](core_05apex_participation_leg.md#participation-tetrad-leg-decomposition) live in [core_05apex_participation_leg.md](core_05apex_participation_leg.md#participation-constitutional). This band file owns leaf definitions under the Participation leg — do not duplicate leg-head O/M/A/C here.
+
+| Cluster | Section |
+|---|---|
+| **Chapter One §8.5** | Animal Life, Sentient Life, and Sentience Status |
+| **Chapter One §8.6** | Binding Stakeholder Choice |
+| **Chapter One §8.7** | Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity |
 
 ---
 

@@ -1,4 +1,4 @@
-# Constitutional definitions (Continuity band)
+# Continuity Constitutional Definitions
 
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
@@ -12,8 +12,6 @@
 <br>
 
 ---
-
-## Continuity aim definitions (Chapter One §8.12–Chapter One §8.15 clusters)
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
