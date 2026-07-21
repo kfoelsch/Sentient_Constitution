@@ -39,23 +39,9 @@ This band holds definitions under the **Participation** Tetrad leg — sentience
 
 ### Participation: Independent terms
 
-### 1. Independent Definitions
-
-Independent Definitions are reusable semantic building blocks that can be invoked across multiple definitions. They define shared ontological, assessment, and compliance constructs. Apply them wherever they are materially relevant to system behavior, outcomes, evaluation scope, or compliance determination.
-
-Failing to invoke or correctly apply any materially required Independent Definition invalidates the associated compliance determination. All Independent Definitions invoked in system evaluation must appear explicitly in Definition Traceability mappings (Chapter Four, section 2 — Definition Traceability Requirement). Those mappings must include their Ontological (O), Assessment (A), and Compliance (C) components. Traceability must show how each invoked Independent Definition contributes to observable system behavior and to compliance outcomes under full functional system conditions.
-
-When an Independent Definition is invoked, it must be satisfied in full across its O, E, and C components. That satisfaction must be consistent with the Requirements for Definition Structure (Chapter Two, §1 — Purpose and Role). Partial satisfaction or selective application is non-compliant.
-
-Independent and Semi-independent definitions do not require joint satisfaction with other definitions unless a Dependent-cluster definition explicitly requires it (**section 3** of this chapter). They must still be applied consistently with all applicable definitions under shared functional system scope, evaluation conditions, and temporal context. Chapter Three, sections 1 and 2 — Definition Integrity and Anti-Evasion Constraints; Non-Compliance from Observable System Behavior — require that consistency.
-
-Selective invocation, omission of materially relevant definitions, and application that alters, weakens, or bypasses compliance determination are evasion. Chapter Three, sections 1 and 2 — Definition Integrity and Anti-Evasion Constraints; Non-Compliance from Observable System Behavior — govern that conduct.
-
-Independent Definitions must not fragment, isolate, or redistribute compliance in a way that blocks full-system evaluation under required assessment conditions.
+Independent Definitions meta rules live in [core_05_definitions_home.md](core_05_definitions_home.md#1-independent-definitions). This section lists Participation-band Independent terms.
 
 ---
-
-
 
 <a id="accessibility-constitutional"></a>
 

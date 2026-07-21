@@ -6,7 +6,7 @@
 
 > The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other chapters.
 >
-> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter Five, Part A** — reader guidance, dependent-cluster meta rules, alphabetical directory, and the constitutional compass.
+> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter Five, Part A** — reader guidance, Independent Definitions meta rules, dependent-cluster meta rules, alphabetical directory, and the constitutional compass.
 
 </details>
 
@@ -36,8 +36,26 @@ If wording outside the canonical home seems to broaden, narrow, replace, or comp
 
 ---
 
+<a id="1-interdependent-definitions"></a>
+<a id="1-independent-definitions"></a>
+### 1. Independent Definitions
+
+Independent Definitions are reusable semantic building blocks that can be invoked across multiple definitions. They define shared ontological, measurement, assessment, and compliance constructs. Apply them wherever they are materially relevant to system behavior, outcomes, evaluation scope, or compliance determination.
+
+Failing to invoke or correctly apply any materially required Independent Definition invalidates the associated compliance determination. All Independent Definitions invoked in system evaluation must appear explicitly in Definition Traceability mappings (Chapter Four, section 2 — Definition Traceability Requirement). Those mappings must include their Ontological (O), Measurement (M), Assessment (A), and Compliance (C) components. Traceability must show how each invoked Independent Definition contributes to observable system behavior and to compliance outcomes under full functional system conditions.
+
+When an Independent Definition is invoked, it must be satisfied in full across its O, M, A, and C components. That satisfaction must be consistent with the Requirements for Definition Structure (Chapter Two, §1 — Purpose and Role). Partial satisfaction or selective application is non-compliant.
+
+Independent and Semi-independent definitions do not require joint satisfaction with other definitions unless a Dependent-cluster definition explicitly requires it ([section 2 — Dependent-cluster meta rules](#dependent-cluster-meta-rules)). They must still be applied consistently with all applicable definitions under shared functional system scope, evaluation conditions, and temporal context. Chapter Three, sections 1 and 2 — Definition Integrity and Anti-Evasion Constraints; Non-Compliance from Observable System Behavior — require that consistency.
+
+Selective invocation, omission of materially relevant definitions, and application that alters, weakens, or bypasses compliance determination are evasion. Chapter Three, sections 1 and 2 — Definition Integrity and Anti-Evasion Constraints; Non-Compliance from Observable System Behavior — govern that conduct.
+
+Independent Definitions must not fragment, isolate, or redistribute compliance in a way that blocks full-system evaluation under required assessment conditions.
+
+---
+
 <a id="dependent-cluster-meta-rules"></a>
-### Dependent-cluster meta rules
+### 2. Dependent-cluster meta rules
 
 *In plain terms: cluster members must be read and satisfied together — no member is a standalone shortcut around joint requirements.*
 
@@ -60,7 +78,7 @@ Calling a definition Independent or Semi-independent does not let it skip cluste
 
 > This directory is **reader guidance only**. It does not add, remove, reorder, or narrow binding obligations in this chapter. Operative meaning remains in the definition entries below.
 
-This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each visible Chapter Five definition label appears once, and each numbered cluster heading appears once. Links use stable anchors only for navigation; they do not create routing rules, pointer entries, alternate homes, or stub definitions. Joint-satisfaction rules for dependent clusters are stated under [Dependent-cluster meta rules](#dependent-cluster-meta-rules) above.
+This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each visible Chapter Five definition label appears once, and each numbered cluster heading appears once. Links use stable anchors only for navigation; they do not create routing rules, pointer entries, alternate homes, or stub definitions. Joint-satisfaction rules for dependent clusters are stated under [section 2 — Dependent-cluster meta rules](#dependent-cluster-meta-rules) above.
 
 <a id="independent-definitions-a-z"></a>
 <a id="semi-independent-definitions-a-z"></a>
@@ -319,8 +337,6 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 
 <br>
 
-<a id="1-interdependent-definitions"></a>
-
 ---
 
 ### Chapter Five compass and definition map
@@ -331,7 +347,7 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 
 - Upstream: [Constitutional Tetrad](../core_00_preamble.md#constitutional-tetrad); [Two Constitutional Aims](../core_00_preamble.md#two-constitutional-aims); [material stake](../core_00_preamble.md#material-stake); [Preamble §2 Measurements Overview](../core_00_preamble.md#measurements-overview).
 - Downstream: constitutional orientation for all Chapter Five band definitions and §3 dependent clusters.
-- Read with: [Joint invocation and satisfaction](core_05_definitions_home.md#joint-invocation-and-satisfaction) and [Standalone definitions interaction and full context](core_05_definitions_home.md#standalone-definitions-interaction-and-full-context) meta rules before applying any dependent cluster.
+- Read with: [Independent Definitions](core_05_definitions_home.md#1-independent-definitions), [Joint invocation and satisfaction](core_05_definitions_home.md#joint-invocation-and-satisfaction), and [Standalone definitions interaction and full context](core_05_definitions_home.md#standalone-definitions-interaction-and-full-context) meta rules before applying any dependent cluster.
 
 </details>
 

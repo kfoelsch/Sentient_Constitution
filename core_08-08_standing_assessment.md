@@ -808,6 +808,6 @@ Adopted implementation may publish LEQU estimates and keyed display labels. Thos
 
 ---
 
-**Previous file:** [core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation)
+**Previous file:** [core_07_b_system_alignment_certification_record_process.md](core_07_b_system_alignment_certification_record_process.md)
 
 **Next file:** [core_09-09_standing_integration.md](core_09-09_standing_integration.md)
