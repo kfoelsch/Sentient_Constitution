@@ -117,10 +117,6 @@ def _is_cluster_shell(title: str, body: str) -> bool:
         return True
     if title.startswith("### ") or "Independent terms" in title or "Semi-independent" in title:
         return True
-    if "Binding O/M/A/C" in body[:400] and "live at the head" in body[:400]:
-        return True
-    if "Canonical home relocated" in body[:400]:
-        return True
     return False
 
 

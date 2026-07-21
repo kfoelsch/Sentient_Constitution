@@ -291,19 +291,6 @@ Independent Definitions meta rules live in [core_05_definitions_home.md](core_05
 
 
 ---
-
-**Participation.** Binding O/M/A/C and [Tetrad Leg decomposition](core_05apex_participation_leg.md#participation-tetrad-leg-decomposition) live at the head of this file. Do not duplicate leg-head O/M/A/C here.
-
----
-
-
-
----
-
-**Flourishing (constitutional aim).** Canonical home relocated. Binding O/M/A/C, measurement rollup, and [Constitutional Aim decomposition](core_05apex_flourishing_aim.md#flourishing-aim-decomposition) live in [core_05apex_flourishing_aim.md](core_05apex_flourishing_aim.md#flourishing-constitutional). Do not duplicate aim-head content in band files.
-
----
-
 #### Assembly, collective organization, and institutional formation
 
 **Cluster context:** This semi-independent topic group establishes the Rights-Floor foundations for collective action and institutional creation. [Assembly](core_05defs_participation.md#assembly-constitutional) covers gathering and association for expressive, political, and community purposes. [Collective Organization](core_05defs_participation.md#collective-organization-constitutional) protects worker organizing and collective bargaining within productive activity. [System Creation](core_05defs_participation.md#system-creation-constitutional) secures the right to establish non-commercial institutions (educational, cultural, scientific, mutual aid). [Business Creation](core_05defs_participation.md#business-creation-constitutional) protects entrepreneurial and commercial enterprise formation. Together these definitions implement [Freedom (Bounded Agency)](core_05defs_participation.md#freedom-bounded-agency) through substrate-agnostic collective and institutional capacity.

@@ -567,14 +567,6 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 
 ### Continuity: Semi-independent terms
 
-<a id="continuity-aim-constitutional"></a>
-<a id="continuity-aim-constitutional-a"></a>
-<a id="continuity-aim-constitutional-c"></a>
-
----
-
-**Continuity (Constitutional Aim).** Canonical home relocated. Binding O/M/A/C and [Constitutional Aim decomposition](core_05apex_continuity_aim.md#continuity-aim-decomposition) live in [core_05apex_continuity_aim.md](core_05apex_continuity_aim.md#continuity-aim-constitutional). This band file owns leaf definitions under the Continuity aim — do not duplicate aim-head O/M/A/C here.
-
 ---
 
 #### Constitutional efficiency, productive capacity, avoidable burden, and burden-reduction duty

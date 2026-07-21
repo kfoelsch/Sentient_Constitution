@@ -125,10 +125,6 @@ This band holds definitions under the **Oversight** Tetrad leg — transparency,
 
 ---
 
-**Oversight.** Binding O/M/A/C and [Tetrad Leg decomposition](core_05apex_oversight_leg.md#oversight-tetrad-leg-decomposition) live at the head of this file. Do not duplicate leg-head O/M/A/C here.
-
----
-
 <a id="press-and-journalistic-activity-constitutional"></a>
 
 ---
