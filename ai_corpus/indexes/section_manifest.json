@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-07-20T16:48:11+00:00",
+  "generated_at": "2026-07-21T09:59:40+00:00",
   "files": {
     "core_00_preamble.md": {
       "total_lines": 248,
@@ -85,13 +85,13 @@
       ]
     },
     "core_01_a_values_principles.md": {
-      "total_lines": 708,
+      "total_lines": 710,
       "sections": [
         {
           "header": "CHAPTER 01, PART A: VALUES PRINCIPLES",
           "level": 1,
           "line_start": 1,
-          "line_end": 708,
+          "line_end": 710,
           "anchor": null
         },
         {
@@ -287,7 +287,7 @@
           "header": "5. Freedom (Bounded Agency)",
           "level": 3,
           "line_start": 562,
-          "line_end": 708,
+          "line_end": 710,
           "anchor": "#5-freedom-bounded-agency"
         },
         {
@@ -308,7 +308,7 @@
           "header": "5.3 Assembly, Collective Organization, and Institutional Formation",
           "level": 4,
           "line_start": 670,
-          "line_end": 708,
+          "line_end": 710,
           "anchor": "#52-voluntary-discontinuation-and-exit-rights"
         }
       ]
@@ -480,20 +480,20 @@
       ]
     },
     "core_01_c_stewardship_capacity_principles.md": {
-      "total_lines": 963,
+      "total_lines": 1001,
       "sections": [
         {
           "header": "CHAPTER 01, PART C: STEWARDSHIP AND GOVERNANCE",
           "level": 1,
           "line_start": 4,
-          "line_end": 963,
+          "line_end": 1001,
           "anchor": "#chapter-01-part-c-stewardship-and-governance"
         },
         {
           "header": "9. Stewardship and Distributed Understanding",
           "level": 3,
           "line_start": 39,
-          "line_end": 282,
+          "line_end": 320,
           "anchor": "#9-stewardship-and-distributed-understanding"
         },
         {
@@ -521,210 +521,217 @@
           "header": "9.4 Openness Aspiration",
           "level": 4,
           "line_start": 189,
-          "line_end": 221,
+          "line_end": 220,
           "anchor": "#94-openness-aspiration"
         },
         {
-          "header": "9.5 Process-Character Discipline (Anti-Degrading-Process Principle)",
+          "header": "9.5 Aligned Self-Organization",
           "level": 4,
-          "line_start": 222,
-          "line_end": 282,
+          "line_start": 221,
+          "line_end": 259,
+          "anchor": "#95-aligned-self-organization"
+        },
+        {
+          "header": "9.6 Process-Character Discipline (Anti-Degrading-Process Principle)",
+          "level": 4,
+          "line_start": 260,
+          "line_end": 320,
           "anchor": "#anti-degrading-process-principle"
         },
         {
           "header": "10. Governance Under Stewardship Discipline",
           "level": 3,
-          "line_start": 283,
-          "line_end": 371,
+          "line_start": 321,
+          "line_end": 409,
           "anchor": "#10-governance-under-stewardship-discipline"
         },
         {
           "header": "10.1 Governance as Authorized Structure",
           "level": 4,
-          "line_start": 316,
-          "line_end": 371,
+          "line_start": 354,
+          "line_end": 409,
           "anchor": "#10-governance-as-authorized-structure"
         },
         {
           "header": "11. Incentive Alignment and System Capture",
           "level": 3,
-          "line_start": 372,
-          "line_end": 609,
+          "line_start": 410,
+          "line_end": 647,
           "anchor": "#11-incentive-alignment-and-system-capture"
         },
         {
           "header": "11.1 Alignment Requirement",
           "level": 4,
-          "line_start": 420,
-          "line_end": 486,
+          "line_start": 458,
+          "line_end": 524,
           "anchor": "#111-alignment-requirement"
         },
         {
           "header": "11.1.1 What Incentives Must Do",
           "level": 5,
-          "line_start": 425,
-          "line_end": 436,
+          "line_start": 463,
+          "line_end": 474,
           "anchor": "#1111-what-incentives-must-do"
         },
         {
           "header": "11.1.2 What Incentives Must Not Do",
           "level": 5,
-          "line_start": 437,
-          "line_end": 459,
+          "line_start": 475,
+          "line_end": 497,
           "anchor": "#1112-what-incentives-must-not-do"
         },
         {
           "header": "11.1.3 Stewardship and Operator Application",
           "level": 5,
-          "line_start": 460,
-          "line_end": 464,
+          "line_start": 498,
+          "line_end": 502,
           "anchor": "#117-stewardship-and-operator-incentive-alignment"
         },
         {
           "header": "11.1.4 Role-Depth and Material-Responsibility Pathways",
           "level": 5,
-          "line_start": 465,
-          "line_end": 473,
+          "line_start": 503,
+          "line_end": 511,
           "anchor": "#1114-role-depth-and-material-responsibility-pathways"
         },
         {
           "header": "11.1.5 Constitutional Outcome Claims Discipline",
           "level": 5,
-          "line_start": 474,
-          "line_end": 486,
+          "line_start": 512,
+          "line_end": 524,
           "anchor": "#1115-constitutional-outcome-claims-discipline"
         },
         {
           "header": "11.2 Convenient Proxies and Proxy Divergence",
           "level": 4,
-          "line_start": 487,
-          "line_end": 501,
+          "line_start": 525,
+          "line_end": 539,
           "anchor": "#112-convenient-proxies-and-proxy-divergence"
         },
         {
           "header": "11.3 Misalignment Detection",
           "level": 4,
-          "line_start": 502,
-          "line_end": 521,
+          "line_start": 540,
+          "line_end": 559,
           "anchor": "#113-misalignment-detection"
         },
         {
           "header": "11.4 Misalignment Correction and Capture Response",
           "level": 4,
-          "line_start": 522,
-          "line_end": 532,
+          "line_start": 560,
+          "line_end": 570,
           "anchor": "#114-misalignment-correction-and-capture-response"
         },
         {
           "header": "11.5 Contingent Claims, Games of Chance, and Event-Contract Markets",
           "level": 4,
-          "line_start": 533,
-          "line_end": 591,
+          "line_start": 571,
+          "line_end": 629,
           "anchor": "#115-contingent-claims-games-of-chance-and-event-contract-markets"
         },
         {
           "header": "11.6 Successor Responsibility and Formal-Structure Non-Escape",
           "level": 4,
-          "line_start": 592,
-          "line_end": 609,
+          "line_start": 630,
+          "line_end": 647,
           "anchor": "#116-successor-responsibility-and-formal-structure-non-escape"
         },
         {
           "header": "12. Shared-System Capacity",
           "level": 3,
-          "line_start": 610,
-          "line_end": 699,
+          "line_start": 648,
+          "line_end": 737,
           "anchor": "#12-shared-system-capacity"
         },
         {
           "header": "12.1 Productive Capacity (Instrumental Good)",
           "level": 4,
-          "line_start": 658,
-          "line_end": 681,
+          "line_start": 696,
+          "line_end": 719,
           "anchor": "#121-productive-capacity-instrumental-good"
         },
         {
           "header": "12.2 Constitutional Efficiency",
           "level": 4,
-          "line_start": 682,
-          "line_end": 699,
+          "line_start": 720,
+          "line_end": 737,
           "anchor": "#122-constitutional-efficiency"
         },
         {
           "header": "13. Market Structure",
           "level": 3,
-          "line_start": 700,
-          "line_end": 889,
+          "line_start": 738,
+          "line_end": 927,
           "anchor": "#13-market-structure"
         },
         {
-          "header": "13.1 Concentration Threshold Mechanism (Adopter-Tunable)",
+          "header": "13.1 Market Concentration Threshold Mechanism (Adopter-Tunable)",
           "level": 4,
-          "line_start": 746,
-          "line_end": 780,
-          "anchor": "#131-concentration-threshold-mechanism-adopter-tunable"
+          "line_start": 784,
+          "line_end": 818,
+          "anchor": "#131-market-concentration-threshold-mechanism-adopter-tunable"
         },
         {
           "header": "13.2 Pro-Competition and Anti-Domination",
           "level": 4,
-          "line_start": 781,
-          "line_end": 832,
+          "line_start": 819,
+          "line_end": 870,
           "anchor": "#132-pro-competition-and-anti-domination"
         },
         {
           "header": "13.2.1 Pro-Competition Duties (Dos)",
           "level": 5,
-          "line_start": 800,
-          "line_end": 816,
+          "line_start": 838,
+          "line_end": 854,
           "anchor": "#1321-pro-competition-duties-dos"
         },
         {
           "header": "13.2.2 Anti-Domination Prohibitions (Don'ts)",
           "level": 5,
-          "line_start": 817,
-          "line_end": 823,
+          "line_start": 855,
+          "line_end": 861,
           "anchor": "#1322-anti-domination-prohibitions-donts"
         },
         {
           "header": "13.2.3 Remedies",
           "level": 5,
-          "line_start": 824,
-          "line_end": 832,
+          "line_start": 862,
+          "line_end": 870,
           "anchor": "#1323-remedies"
         },
         {
           "header": "13.3 Consolidation Ceiling",
           "level": 4,
-          "line_start": 833,
-          "line_end": 889,
+          "line_start": 871,
+          "line_end": 927,
           "anchor": "#133-consolidation-ceiling"
         },
         {
           "header": "13.3.1 Consolidation Risk (Pre-Lock-In Impairment)",
           "level": 5,
-          "line_start": 854,
-          "line_end": 868,
+          "line_start": 892,
+          "line_end": 906,
           "anchor": "#1331-consolidation-risk-pre-lock-in-impairment"
         },
         {
           "header": "13.3.2 Consolidation Ceiling Mechanism (Adopter-Tunable)",
           "level": 5,
-          "line_start": 869,
-          "line_end": 889,
+          "line_start": 907,
+          "line_end": 927,
           "anchor": "#1332-ceiling-discipline-adopter-requirements"
         },
         {
           "header": "14. Systemic Evaluation Requirement",
           "level": 3,
-          "line_start": 890,
-          "line_end": 921,
+          "line_start": 928,
+          "line_end": 959,
           "anchor": "#14-systemic-evaluation-requirement"
         },
         {
           "header": "15. Integrated Application",
           "level": 3,
-          "line_start": 922,
-          "line_end": 963,
+          "line_start": 960,
+          "line_end": 1001,
           "anchor": "#15-integrated-application"
         }
       ]
@@ -957,76 +964,83 @@
       ]
     },
     "core_05_definitions_home.md": {
-      "total_lines": 387,
+      "total_lines": 403,
       "sections": [
         {
           "header": "CHAPTER FIVE: FOUNDATIONAL DEFINITIONS",
           "level": 1,
           "line_start": 2,
-          "line_end": 387,
+          "line_end": 403,
           "anchor": "#chapter-five-foundational-definitions"
         },
         {
           "header": "Canonical home and non-duplication rule",
           "level": 3,
           "line_start": 24,
-          "line_end": 39,
+          "line_end": 40,
           "anchor": null
         },
         {
-          "header": "Dependent-cluster meta rules",
+          "header": "1. Independent Definitions",
           "level": 3,
-          "line_start": 40,
-          "line_end": 55,
+          "line_start": 41,
+          "line_end": 57,
+          "anchor": "#1-independent-definitions"
+        },
+        {
+          "header": "2. Dependent-cluster meta rules",
+          "level": 3,
+          "line_start": 58,
+          "line_end": 73,
           "anchor": "#dependent-cluster-meta-rules"
         },
         {
           "header": "Joint invocation and satisfaction",
           "level": 4,
-          "line_start": 47,
-          "line_end": 50,
+          "line_start": 65,
+          "line_end": 68,
           "anchor": "#joint-invocation-and-satisfaction"
         },
         {
           "header": "Standalone definitions interaction and full context",
           "level": 4,
-          "line_start": 51,
-          "line_end": 55,
+          "line_start": 69,
+          "line_end": 73,
           "anchor": "#standalone-definitions-interaction-and-full-context"
         },
         {
           "header": "Chapter Five alphabetical directory (non-operative)",
           "level": 3,
-          "line_start": 56,
-          "line_end": 325,
+          "line_start": 74,
+          "line_end": 341,
           "anchor": null
         },
         {
           "header": "Definitions A-Z",
           "level": 4,
-          "line_start": 71,
-          "line_end": 300,
+          "line_start": 89,
+          "line_end": 318,
           "anchor": "#definitions-a-z"
         },
         {
           "header": "Clusters A-Z",
           "level": 4,
-          "line_start": 301,
-          "line_end": 325,
+          "line_start": 319,
+          "line_end": 341,
           "anchor": "#clusters-a-z"
         },
         {
           "header": "Chapter Five compass and definition map",
           "level": 3,
-          "line_start": 326,
-          "line_end": 355,
-          "anchor": "#1-interdependent-definitions"
+          "line_start": 342,
+          "line_end": 371,
+          "anchor": "#chapter-five-compass-and-definition-map"
         },
         {
           "header": "Measurement crosswalk (reader guidance)",
           "level": 3,
-          "line_start": 356,
-          "line_end": 387,
+          "line_start": 372,
+          "line_end": 403,
           "anchor": "#chapter-five-measurement-crosswalk"
         }
       ]
@@ -1188,2005 +1202,1977 @@
       ]
     },
     "core_05defs_accountability.md": {
-      "total_lines": 2119,
+      "total_lines": 2265,
       "sections": [
         {
-          "header": "Constitutional definitions (Accountability band)",
+          "header": "Accountability Constitutional Definitions",
           "level": 1,
           "line_start": 1,
-          "line_end": 2119,
+          "line_end": 2265,
           "anchor": null
         },
         {
           "header": "Accountability: Independent terms",
           "level": 3,
-          "line_start": 20,
-          "line_end": 392,
+          "line_start": 39,
+          "line_end": 437,
           "anchor": "#accountability-independent-terms"
         },
         {
           "header": "Contingent Claim",
           "level": 4,
-          "line_start": 26,
-          "line_end": 54,
+          "line_start": 45,
+          "line_end": 75,
           "anchor": "#contingent-claim"
         },
         {
           "header": "Event-Contract Market",
           "level": 4,
-          "line_start": 55,
-          "line_end": 83,
+          "line_start": 76,
+          "line_end": 106,
           "anchor": "#event-contract-market"
         },
         {
           "header": "Feasibility",
           "level": 4,
-          "line_start": 84,
-          "line_end": 112,
+          "line_start": 107,
+          "line_end": 137,
           "anchor": "#feasibility"
         },
         {
           "header": "Game of Chance",
           "level": 4,
-          "line_start": 113,
-          "line_end": 141,
+          "line_start": 138,
+          "line_end": 168,
           "anchor": "#game-of-chance"
         },
         {
           "header": "Insider Advantage",
           "level": 4,
-          "line_start": 142,
-          "line_end": 170,
+          "line_start": 169,
+          "line_end": 199,
           "anchor": "#insider-advantage"
         },
         {
           "header": "Good Faith",
           "level": 4,
-          "line_start": 171,
-          "line_end": 197,
+          "line_start": 200,
+          "line_end": 228,
           "anchor": "#good-faith"
         },
         {
           "header": "Harm Minimization (Tradeoff Selection)",
           "level": 4,
-          "line_start": 198,
-          "line_end": 226,
+          "line_start": 229,
+          "line_end": 259,
           "anchor": "#harm-minimization-tradeoff-selection"
         },
         {
           "header": "Necessity",
           "level": 4,
-          "line_start": 227,
-          "line_end": 255,
+          "line_start": 260,
+          "line_end": 290,
           "anchor": "#necessity"
         },
         {
           "header": "Negligence",
           "level": 4,
-          "line_start": 256,
-          "line_end": 273,
+          "line_start": 291,
+          "line_end": 310,
           "anchor": "#negligence"
         },
         {
           "header": "Proportionality",
           "level": 4,
-          "line_start": 274,
-          "line_end": 303,
+          "line_start": 311,
+          "line_end": 342,
           "anchor": "#proportionality"
         },
         {
           "header": "Redress and Remediation",
           "level": 4,
-          "line_start": 304,
-          "line_end": 332,
+          "line_start": 343,
+          "line_end": 373,
           "anchor": "#redress-and-remediation-constitutional"
         },
         {
           "header": "Remedy System",
           "level": 4,
-          "line_start": 333,
-          "line_end": 366,
+          "line_start": 374,
+          "line_end": 409,
           "anchor": "#remedy-system-constitutional"
         },
         {
           "header": "Restorative Justice",
           "level": 4,
-          "line_start": 367,
-          "line_end": 392,
+          "line_start": 410,
+          "line_end": 437,
           "anchor": "#restorative-justice"
         },
         {
           "header": "Accountability: Semi-independent terms",
           "level": 3,
-          "line_start": 393,
-          "line_end": 975,
+          "line_start": 438,
+          "line_end": 1055,
           "anchor": "#restorative-justice-c"
         },
         {
           "header": "Accountability, contestability, and redress pathways",
           "level": 4,
-          "line_start": 397,
-          "line_end": 425,
+          "line_start": 442,
+          "line_end": 464,
           "anchor": null
         },
         {
           "header": "Contestability",
           "level": 4,
-          "line_start": 426,
-          "line_end": 461,
+          "line_start": 465,
+          "line_end": 502,
           "anchor": "#contestability"
         },
         {
           "header": "Adjudication and Dispute Resolution",
           "level": 4,
-          "line_start": 462,
-          "line_end": 491,
+          "line_start": 503,
+          "line_end": 537,
           "anchor": "#adjudication-and-dispute-resolution-constitutional"
         },
         {
           "header": "Due Process",
           "level": 4,
-          "line_start": 492,
-          "line_end": 528,
+          "line_start": 538,
+          "line_end": 570,
           "anchor": "#due-process-constitutional"
         },
         {
           "header": "Timely Resolution",
           "level": 4,
-          "line_start": 529,
-          "line_end": 566,
+          "line_start": 571,
+          "line_end": 610,
           "anchor": "#timely-resolution-constitutional"
         },
         {
           "header": "Merits Determination",
           "level": 4,
-          "line_start": 567,
-          "line_end": 613,
+          "line_start": 611,
+          "line_end": 659,
           "anchor": "#merits-determination"
         },
         {
           "header": "Stay",
           "level": 4,
-          "line_start": 614,
-          "line_end": 641,
+          "line_start": 660,
+          "line_end": 689,
           "anchor": "#stay"
         },
         {
           "header": "Collective Accountability Failure",
           "level": 4,
-          "line_start": 642,
-          "line_end": 670,
+          "line_start": 690,
+          "line_end": 720,
           "anchor": "#collective-accountability-failure"
         },
         {
           "header": "Force Majeure",
           "level": 4,
-          "line_start": 671,
-          "line_end": 698,
+          "line_start": 721,
+          "line_end": 750,
           "anchor": "#force-majeure-constitutional"
         },
         {
           "header": "Capture of Resolution Pathways",
           "level": 4,
-          "line_start": 699,
-          "line_end": 736,
+          "line_start": 751,
+          "line_end": 790,
           "anchor": "#capture-of-resolution-pathways"
         },
         {
           "header": "Protected reporting and anti-retaliation",
           "level": 4,
-          "line_start": 737,
-          "line_end": 749,
+          "line_start": 791,
+          "line_end": 801,
           "anchor": "#protected-reporting-semi-independent"
         },
         {
           "header": "Protected Reporting (Whistleblowing)",
           "level": 4,
-          "line_start": 750,
-          "line_end": 782,
+          "line_start": 802,
+          "line_end": 836,
           "anchor": "#protected-reporting-whistleblowing"
         },
         {
           "header": "Protected Reporting Retaliation and Access Interference",
           "level": 4,
-          "line_start": 783,
-          "line_end": 819,
+          "line_start": 837,
+          "line_end": 875,
           "anchor": "#protected-reporting-retaliation-and-access-interference"
         },
         {
           "header": "Governance architecture, decentralization, and concentration",
           "level": 4,
-          "line_start": 820,
-          "line_end": 834,
+          "line_start": 876,
+          "line_end": 892,
           "anchor": "#governance-architecture-oversight-decentralization-and-concentration-cluster"
-        },
-        {
-          "header": "Market Structure",
-          "level": 4,
-          "line_start": 835,
-          "line_end": 870,
-          "anchor": "#market-structure-constitutional"
         },
         {
           "header": "Governance",
           "level": 4,
-          "line_start": 871,
-          "line_end": 899,
+          "line_start": 893,
+          "line_end": 924,
           "anchor": "#governance"
         },
         {
           "header": "Decentralization",
           "level": 4,
-          "line_start": 900,
-          "line_end": 930,
+          "line_start": 925,
+          "line_end": 957,
           "anchor": "#decentralization"
         },
         {
-          "header": "Concentration Threshold",
+          "header": "Market Structure",
           "level": 4,
-          "line_start": 931,
-          "line_end": 975,
-          "anchor": "#concentration-threshold-constitutional"
+          "line_start": 958,
+          "line_end": 995,
+          "anchor": "#market-structure-constitutional"
+        },
+        {
+          "header": "Market Concentration Threshold",
+          "level": 4,
+          "line_start": 996,
+          "line_end": 1055,
+          "anchor": "#market-concentration-threshold-constitutional"
         },
         {
           "header": "Accountability: Dependent clusters",
           "level": 3,
-          "line_start": 976,
-          "line_end": 2119,
+          "line_start": 1056,
+          "line_end": 2265,
           "anchor": "#stakeholder-identification-participation-semi-independent"
         },
         {
           "header": "3.8 Collective Harm Boundary, Harm, and Harassment and Bullying",
           "level": 4,
-          "line_start": 980,
-          "line_end": 1143,
+          "line_start": 1060,
+          "line_end": 1233,
           "anchor": null
         },
         {
           "header": "Harm",
           "level": 5,
-          "line_start": 1011,
-          "line_end": 1041,
+          "line_start": 1091,
+          "line_end": 1123,
           "anchor": "#harm"
         },
         {
           "header": "Collective Harm Boundary",
           "level": 5,
-          "line_start": 1042,
-          "line_end": 1066,
+          "line_start": 1124,
+          "line_end": 1150,
           "anchor": "#collective-harm-boundary"
         },
         {
           "header": "Psychological Harm",
           "level": 5,
-          "line_start": 1067,
-          "line_end": 1083,
+          "line_start": 1151,
+          "line_end": 1169,
           "anchor": "#psychological-harm"
         },
         {
           "header": "Irreversible Harm",
           "level": 5,
-          "line_start": 1084,
-          "line_end": 1115,
+          "line_start": 1170,
+          "line_end": 1203,
           "anchor": "#irreversible-harm"
         },
         {
           "header": "Harassment and Bullying",
           "level": 5,
-          "line_start": 1116,
-          "line_end": 1143,
+          "line_start": 1204,
+          "line_end": 1233,
           "anchor": "#harassment-and-bullying"
         },
         {
           "header": "3.9 Forum Families and Dispute Routing",
           "level": 4,
-          "line_start": 1144,
-          "line_end": 1387,
+          "line_start": 1234,
+          "line_end": 1493,
           "anchor": "#forum-families-and-dispute-routing-cluster"
         },
         {
           "header": "Primary-Stakes Routing",
           "level": 5,
-          "line_start": 1178,
-          "line_end": 1203,
+          "line_start": 1268,
+          "line_end": 1295,
           "anchor": "#primary-stakes-routing"
         },
         {
           "header": "Forum Case Record",
           "level": 5,
-          "line_start": 1204,
-          "line_end": 1230,
+          "line_start": 1296,
+          "line_end": 1324,
           "anchor": "#forum-case-record"
         },
         {
           "header": "Forum Family, Sentient",
           "level": 5,
-          "line_start": 1231,
-          "line_end": 1256,
+          "line_start": 1325,
+          "line_end": 1352,
           "anchor": "#forum-family-sentient"
         },
         {
           "header": "Forum Family, Technical",
           "level": 5,
-          "line_start": 1257,
-          "line_end": 1282,
+          "line_start": 1353,
+          "line_end": 1380,
           "anchor": "#forum-family-technical"
         },
         {
           "header": "Forum Family, Institutional",
           "level": 5,
-          "line_start": 1283,
-          "line_end": 1308,
+          "line_start": 1381,
+          "line_end": 1408,
           "anchor": "#forum-family-institutional"
         },
         {
           "header": "Forum Family, Environment",
           "level": 5,
-          "line_start": 1309,
-          "line_end": 1334,
+          "line_start": 1409,
+          "line_end": 1436,
           "anchor": "#forum-family-environment"
         },
         {
           "header": "Forum Family, Integrity",
           "level": 5,
-          "line_start": 1335,
-          "line_end": 1360,
+          "line_start": 1437,
+          "line_end": 1464,
           "anchor": "#forum-family-integrity"
         },
         {
           "header": "Forum Family, Constitutional",
           "level": 5,
-          "line_start": 1361,
-          "line_end": 1387,
+          "line_start": 1465,
+          "line_end": 1493,
           "anchor": "#forum-family-constitutional"
         },
         {
           "header": "Non-Compliance Finding Profile",
           "level": 4,
-          "line_start": 1388,
-          "line_end": 1420,
+          "line_start": 1494,
+          "line_end": 1526,
           "anchor": "#non-compliance-finding-profile"
         },
         {
           "header": "3.10 Standing State, Contribution, and Violation",
           "level": 4,
-          "line_start": 1421,
-          "line_end": 1864,
+          "line_start": 1527,
+          "line_end": 1998,
           "anchor": "#standing-state-contribution-and-violation-cluster"
         },
         {
           "header": "Participant Standing",
           "level": 5,
-          "line_start": 1463,
-          "line_end": 1494,
+          "line_start": 1569,
+          "line_end": 1602,
           "anchor": "#participant-standing-constitutional"
         },
         {
           "header": "Contribution State",
           "level": 5,
-          "line_start": 1495,
-          "line_end": 1525,
+          "line_start": 1603,
+          "line_end": 1635,
           "anchor": "#contribution-state"
         },
         {
           "header": "Verified Inputs for Standing",
           "level": 5,
-          "line_start": 1526,
-          "line_end": 1553,
+          "line_start": 1636,
+          "line_end": 1665,
           "anchor": "#verified-inputs-for-standing"
         },
         {
           "header": "Verified Violation Findings",
           "level": 5,
-          "line_start": 1554,
-          "line_end": 1582,
+          "line_start": 1666,
+          "line_end": 1696,
           "anchor": "#verified-violation-findings"
         },
         {
           "header": "Standing Effect",
           "level": 5,
-          "line_start": 1583,
-          "line_end": 1610,
+          "line_start": 1697,
+          "line_end": 1726,
           "anchor": "#standing-effect-chapter-six"
         },
         {
           "header": "Standing Record",
           "level": 5,
-          "line_start": 1611,
-          "line_end": 1639,
+          "line_start": 1727,
+          "line_end": 1757,
           "anchor": "#standing-record-chapter-six"
         },
         {
           "header": "Competency Gate",
           "level": 5,
-          "line_start": 1640,
-          "line_end": 1667,
+          "line_start": 1758,
+          "line_end": 1787,
           "anchor": "#competency-gate"
         },
         {
           "header": "Standing Lock",
           "level": 5,
-          "line_start": 1668,
-          "line_end": 1695,
+          "line_start": 1788,
+          "line_end": 1817,
           "anchor": "#standing-lock"
         },
         {
           "header": "Violation Nature",
           "level": 5,
-          "line_start": 1696,
-          "line_end": 1724,
+          "line_start": 1818,
+          "line_end": 1848,
           "anchor": "#violation-nature-chapter-six"
         },
         {
           "header": "Top-Slot Review",
           "level": 5,
-          "line_start": 1725,
-          "line_end": 1752,
+          "line_start": 1849,
+          "line_end": 1878,
           "anchor": "#top-slot-review"
         },
         {
           "header": "Unified Incident",
           "level": 5,
-          "line_start": 1753,
-          "line_end": 1780,
+          "line_start": 1879,
+          "line_end": 1908,
           "anchor": "#unified-incident"
         },
         {
           "header": "Unified Record",
           "level": 5,
-          "line_start": 1781,
-          "line_end": 1808,
+          "line_start": 1909,
+          "line_end": 1938,
           "anchor": "#unified-record"
         },
         {
           "header": "Single Catastrophic Incident",
           "level": 5,
-          "line_start": 1809,
-          "line_end": 1836,
+          "line_start": 1939,
+          "line_end": 1968,
           "anchor": "#single-catastrophic-incident"
         },
         {
           "header": "Sustained High-Gravity Pattern",
           "level": 5,
-          "line_start": 1837,
-          "line_end": 1864,
+          "line_start": 1969,
+          "line_end": 1998,
           "anchor": "#sustained-high-gravity-pattern"
         },
         {
           "header": "3.11 Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm",
           "level": 4,
-          "line_start": 1865,
-          "line_end": 2119,
+          "line_start": 1999,
+          "line_end": 2265,
           "anchor": "#use-of-force-autonomous-coercion-and-mass-harm-cluster"
         },
         {
           "header": "Use of Force",
           "level": 5,
-          "line_start": 1899,
-          "line_end": 1931,
+          "line_start": 2033,
+          "line_end": 2067,
           "anchor": "#use-of-force-constitutional"
         },
         {
           "header": "Autonomous Lethal System",
           "level": 5,
-          "line_start": 1932,
-          "line_end": 1970,
+          "line_start": 2068,
+          "line_end": 2108,
           "anchor": "#autonomous-lethal-system-constitutional"
         },
         {
           "header": "Weapons of Mass Harm",
           "level": 5,
-          "line_start": 1971,
-          "line_end": 2001,
+          "line_start": 2109,
+          "line_end": 2141,
           "anchor": "#weapons-of-mass-harm-constitutional"
         },
         {
           "header": "Combatant / Non-Combatant Distinction",
           "level": 5,
-          "line_start": 2002,
-          "line_end": 2036,
+          "line_start": 2142,
+          "line_end": 2178,
           "anchor": "#combatant-non-combatant-distinction-constitutional"
         },
         {
           "header": "Irreversible Deprivation Measure",
           "level": 5,
-          "line_start": 2037,
-          "line_end": 2077,
+          "line_start": 2179,
+          "line_end": 2221,
           "anchor": "#irreversible-deprivation-measure-constitutional"
         },
         {
           "header": "Autonomous Coercion Tool",
           "level": 5,
-          "line_start": 2078,
-          "line_end": 2119,
+          "line_start": 2222,
+          "line_end": 2265,
           "anchor": "#autonomous-coercion-tool-constitutional"
         }
       ]
     },
     "core_05defs_continuity.md": {
-      "total_lines": 2143,
+      "total_lines": 2129,
       "sections": [
         {
-          "header": "Constitutional definitions (Continuity band)",
+          "header": "Continuity Constitutional Definitions",
           "level": 1,
           "line_start": 1,
-          "line_end": 2143,
-          "anchor": null
-        },
-        {
-          "header": "Continuity aim definitions (Chapter One §8.12–Chapter One §8.15 clusters)",
-          "level": 2,
-          "line_start": 16,
-          "line_end": 2143,
+          "line_end": 2129,
           "anchor": null
         },
         {
           "header": "Resilience, Safety, Reversibility, Self-Healing, Cascading Failure, Existential Risk, Environmental Preconditions, and Wellbeing",
           "level": 4,
-          "line_start": 43,
-          "line_end": 52,
+          "line_start": 41,
+          "line_end": 48,
           "anchor": "#resilience-safety-reversibility-self-healing-and-systemic-harm-cluster"
         },
         {
           "header": "Continuity: Independent terms",
           "level": 3,
-          "line_start": 53,
-          "line_end": 569,
+          "line_start": 49,
+          "line_end": 565,
           "anchor": "#cascading-failure"
         },
         {
           "header": "Cascading Failure",
           "level": 4,
-          "line_start": 57,
-          "line_end": 90,
+          "line_start": 53,
+          "line_end": 86,
           "anchor": null
         },
         {
           "header": "Dependency",
           "level": 4,
-          "line_start": 91,
-          "line_end": 123,
+          "line_start": 87,
+          "line_end": 119,
           "anchor": "#dependency"
         },
         {
           "header": "Proportionate Cross-System Support",
           "level": 4,
-          "line_start": 124,
-          "line_end": 159,
+          "line_start": 120,
+          "line_end": 155,
           "anchor": "#proportionate-cross-system-support-constitutional"
         },
         {
           "header": "Essential-Environment Non-Commodification",
           "level": 4,
-          "line_start": 160,
-          "line_end": 192,
+          "line_start": 156,
+          "line_end": 188,
           "anchor": "#essential-environment-non-commodification-constitutional"
         },
         {
           "header": "Existential Risk",
           "level": 4,
-          "line_start": 193,
-          "line_end": 221,
+          "line_start": 189,
+          "line_end": 217,
           "anchor": "#existential-risk"
         },
         {
           "header": "Residual Risk / Misalignment",
           "level": 4,
-          "line_start": 222,
-          "line_end": 239,
+          "line_start": 218,
+          "line_end": 235,
           "anchor": "#residual-risk--misalignment"
         },
         {
           "header": "Reversibility",
           "level": 4,
-          "line_start": 240,
-          "line_end": 272,
+          "line_start": 236,
+          "line_end": 268,
           "anchor": "#reversibility-constitutional"
         },
         {
           "header": "Risk",
           "level": 4,
-          "line_start": 273,
-          "line_end": 304,
+          "line_start": 269,
+          "line_end": 300,
           "anchor": "#risk"
         },
         {
           "header": "Safety (Constraint)",
           "level": 4,
-          "line_start": 305,
-          "line_end": 343,
+          "line_start": 301,
+          "line_end": 339,
           "anchor": "#safety-constraint"
         },
         {
           "header": "Self-Healing",
           "level": 4,
-          "line_start": 344,
-          "line_end": 378,
+          "line_start": 340,
+          "line_end": 374,
           "anchor": "#self-healing-constitutional"
         },
         {
           "header": "System Alignment Certification",
           "level": 4,
-          "line_start": 379,
-          "line_end": 421,
+          "line_start": 375,
+          "line_end": 417,
           "anchor": "#system-alignment-certification-constitutional"
         },
         {
           "header": "System Capture",
           "level": 4,
-          "line_start": 422,
-          "line_end": 447,
+          "line_start": 418,
+          "line_end": 443,
           "anchor": "#system-capture"
         },
         {
           "header": "Systemic",
           "level": 4,
-          "line_start": 448,
-          "line_end": 463,
+          "line_start": 444,
+          "line_end": 459,
           "anchor": "#system-capture-c"
         },
         {
           "header": "Systemic Materiality",
           "level": 4,
-          "line_start": 464,
-          "line_end": 491,
+          "line_start": 460,
+          "line_end": 487,
           "anchor": "#systemic-c"
         },
         {
           "header": "Voluntary Discontinuation",
           "level": 4,
-          "line_start": 492,
-          "line_end": 523,
+          "line_start": 488,
+          "line_end": 519,
           "anchor": "#voluntary-discontinuation-constitutional"
         },
         {
           "header": "Wellbeing",
           "level": 4,
-          "line_start": 524,
-          "line_end": 569,
+          "line_start": 520,
+          "line_end": 565,
           "anchor": "#wellbeing"
         },
         {
           "header": "Continuity: Semi-independent terms",
           "level": 3,
-          "line_start": 570,
-          "line_end": 1422,
+          "line_start": 566,
+          "line_end": 1410,
           "anchor": "#wellbeing-c"
         },
         {
           "header": "Constitutional efficiency, productive capacity, avoidable burden, and burden-reduction duty",
           "level": 4,
-          "line_start": 582,
-          "line_end": 599,
-          "anchor": "#continuity-aim-constitutional-c"
+          "line_start": 570,
+          "line_end": 587,
+          "anchor": null
         },
         {
           "header": "Shared-System Capacity",
           "level": 4,
-          "line_start": 600,
-          "line_end": 627,
+          "line_start": 588,
+          "line_end": 615,
           "anchor": "#shared-system-capacity-constitutional"
         },
         {
           "header": "Constitutional Efficiency",
           "level": 4,
-          "line_start": 628,
-          "line_end": 664,
+          "line_start": 616,
+          "line_end": 652,
           "anchor": "#constitutional-efficiency"
         },
         {
           "header": "Productive Capacity",
           "level": 4,
-          "line_start": 665,
-          "line_end": 699,
+          "line_start": 653,
+          "line_end": 687,
           "anchor": "#productive-capacity-constitutional"
         },
         {
           "header": "Avoidable Burden",
           "level": 4,
-          "line_start": 700,
-          "line_end": 736,
+          "line_start": 688,
+          "line_end": 724,
           "anchor": "#avoidable-burden"
         },
         {
           "header": "Burden-Reduction Duty",
           "level": 4,
-          "line_start": 737,
-          "line_end": 772,
+          "line_start": 725,
+          "line_end": 760,
           "anchor": "#burden-reduction-duty-constitutional"
         },
         {
           "header": "Ecological integrity, footprint, and sustainability",
           "level": 4,
-          "line_start": 773,
-          "line_end": 786,
+          "line_start": 761,
+          "line_end": 774,
           "anchor": "#agency-consent-and-anti-coercion-semi-independent"
         },
         {
           "header": "Ecological Integrity",
           "level": 4,
-          "line_start": 787,
-          "line_end": 816,
+          "line_start": 775,
+          "line_end": 804,
           "anchor": "#ecological-integrity-constitutional"
         },
         {
           "header": "Ecological Recovery Capacity",
           "level": 4,
-          "line_start": 817,
-          "line_end": 846,
+          "line_start": 805,
+          "line_end": 834,
           "anchor": "#ecological-recovery-capacity-constitutional"
         },
         {
           "header": "Ecological Footprint",
           "level": 4,
-          "line_start": 847,
-          "line_end": 879,
+          "line_start": 835,
+          "line_end": 867,
           "anchor": "#ecological-footprint"
         },
         {
           "header": "Sustainability",
           "level": 4,
-          "line_start": 880,
-          "line_end": 912,
+          "line_start": 868,
+          "line_end": 900,
           "anchor": "#sustainability"
         },
         {
           "header": "Intergenerational Responsibility",
           "level": 4,
-          "line_start": 913,
-          "line_end": 943,
+          "line_start": 901,
+          "line_end": 931,
           "anchor": "#intergenerational-responsibility-constitutional"
         },
         {
           "header": "Emergency and contingency",
           "level": 4,
-          "line_start": 944,
-          "line_end": 956,
+          "line_start": 932,
+          "line_end": 944,
           "anchor": "#emergency-and-contingency-semi-independent"
         },
         {
           "header": "Emergency and Contingency",
           "level": 4,
-          "line_start": 957,
-          "line_end": 989,
+          "line_start": 945,
+          "line_end": 977,
           "anchor": "#emergency-and-contingency-constitutional"
         },
         {
           "header": "Constitutional Emergency and Contingency",
           "level": 4,
-          "line_start": 990,
-          "line_end": 1018,
+          "line_start": 978,
+          "line_end": 1006,
           "anchor": "#constitutional-emergency-and-contingency"
         },
         {
           "header": "Stakeholder Emergency and Contingency",
           "level": 4,
-          "line_start": 1019,
-          "line_end": 1047,
+          "line_start": 1007,
+          "line_end": 1035,
           "anchor": "#stakeholder-emergency-and-contingency"
         },
         {
           "header": "Emergency Pre-Deliberation Action (Binding Collective Choice)",
           "level": 4,
-          "line_start": 1048,
-          "line_end": 1082,
+          "line_start": 1036,
+          "line_end": 1070,
           "anchor": "#emergency-pre-deliberation-action-binding-collective-choice"
         },
         {
           "header": "System boundaries, integrity, and exit",
           "level": 4,
-          "line_start": 1083,
-          "line_end": 1096,
+          "line_start": 1071,
+          "line_end": 1084,
           "anchor": "#system-boundaries-integrity-and-exit"
         },
         {
           "header": "System",
           "level": 4,
-          "line_start": 1097,
-          "line_end": 1117,
+          "line_start": 1085,
+          "line_end": 1105,
           "anchor": "#system-definition"
         },
         {
           "header": "System Boundaries",
           "level": 4,
-          "line_start": 1118,
-          "line_end": 1134,
+          "line_start": 1106,
+          "line_end": 1122,
           "anchor": "#system-boundaries"
         },
         {
           "header": "System Boundary Integrity",
           "level": 4,
-          "line_start": 1135,
-          "line_end": 1151,
+          "line_start": 1123,
+          "line_end": 1139,
           "anchor": "#system-boundary-integrity"
         },
         {
           "header": "Charter",
           "level": 4,
-          "line_start": 1152,
-          "line_end": 1191,
+          "line_start": 1140,
+          "line_end": 1179,
           "anchor": "#charter"
         },
         {
           "header": "Systemic Lock-In",
           "level": 4,
-          "line_start": 1192,
-          "line_end": 1224,
+          "line_start": 1180,
+          "line_end": 1212,
           "anchor": "#systemic-lock-in"
         },
         {
           "header": "Survival-floor continuity: bodily maintenance, tenure, and environment",
           "level": 4,
-          "line_start": 1225,
-          "line_end": 1236,
+          "line_start": 1213,
+          "line_end": 1224,
           "anchor": "#stewardship-review-correction-semi-independent"
         },
         {
           "header": "Bodily-Maintenance Access",
           "level": 4,
-          "line_start": 1237,
-          "line_end": 1269,
+          "line_start": 1225,
+          "line_end": 1257,
           "anchor": "#bodily-maintenance-access-constitutional"
         },
         {
           "header": "Tenure Security",
           "level": 4,
-          "line_start": 1270,
-          "line_end": 1303,
+          "line_start": 1258,
+          "line_end": 1291,
           "anchor": "#tenure-security-constitutional"
         },
         {
           "header": "Environmental Preconditions",
           "level": 4,
-          "line_start": 1304,
-          "line_end": 1338,
+          "line_start": 1292,
+          "line_end": 1326,
           "anchor": "#environmental-preconditions-constitutional"
         },
         {
           "header": "Community-anchored continuity: indigenous, language, culture, and heritage",
           "level": 4,
-          "line_start": 1339,
-          "line_end": 1351,
+          "line_start": 1327,
+          "line_end": 1339,
           "anchor": "#indigenous-continuity-language-culture-heritage-semi-independent"
         },
         {
           "header": "Indigenous Continuity",
           "level": 4,
-          "line_start": 1352,
-          "line_end": 1389,
+          "line_start": 1340,
+          "line_end": 1377,
           "anchor": "#indigenous-continuity-constitutional"
         },
         {
           "header": "Language, Culture, and Heritage",
           "level": 4,
-          "line_start": 1390,
-          "line_end": 1422,
+          "line_start": 1378,
+          "line_end": 1410,
           "anchor": "#language-culture-and-heritage-constitutional"
         },
         {
           "header": "Continuity: Dependent clusters",
           "level": 3,
-          "line_start": 1423,
-          "line_end": 2143,
+          "line_start": 1411,
+          "line_end": 2129,
           "anchor": "#language-culture-and-heritage-constitutional-c"
         },
         {
           "header": "3.12 Labor and Economic Floor: Compensation, Organization, Safe Conditions, Leisure, and Creative Work",
           "level": 4,
-          "line_start": 1427,
-          "line_end": 1676,
+          "line_start": 1415,
+          "line_end": 1664,
           "anchor": null
         },
         {
           "header": "Fair Compensation",
           "level": 5,
-          "line_start": 1472,
-          "line_end": 1501,
+          "line_start": 1460,
+          "line_end": 1489,
           "anchor": "#fair-compensation-constitutional"
         },
         {
           "header": "Safe Conditions",
           "level": 5,
-          "line_start": 1502,
-          "line_end": 1536,
+          "line_start": 1490,
+          "line_end": 1524,
           "anchor": "#safe-conditions-constitutional"
         },
         {
           "header": "Leisure and Rest",
           "level": 5,
-          "line_start": 1537,
-          "line_end": 1570,
+          "line_start": 1525,
+          "line_end": 1558,
           "anchor": "#leisure-and-rest-constitutional"
         },
         {
           "header": "Likeness and Documentary Depiction Interface",
           "level": 5,
-          "line_start": 1571,
-          "line_end": 1588,
+          "line_start": 1559,
+          "line_end": 1576,
           "anchor": "#likeness-and-documentary-depiction-interface-constitutional"
         },
         {
           "header": "Creative Work Attribution",
           "level": 5,
-          "line_start": 1589,
-          "line_end": 1621,
+          "line_start": 1577,
+          "line_end": 1609,
           "anchor": "#creative-work-attribution-constitutional"
         },
         {
           "header": "Training-Data Use",
           "level": 5,
-          "line_start": 1622,
-          "line_end": 1639,
+          "line_start": 1610,
+          "line_end": 1627,
           "anchor": "#training-data-use-constitutional"
         },
         {
           "header": "Anti-Displacement Floor",
           "level": 5,
-          "line_start": 1640,
-          "line_end": 1676,
+          "line_start": 1628,
+          "line_end": 1664,
           "anchor": "#anti-displacement-floor-constitutional"
         },
         {
           "header": "3.13 Stewardship, Governance Discipline, and Shared-System Capacity",
           "level": 4,
-          "line_start": 1677,
-          "line_end": 1888,
+          "line_start": 1665,
+          "line_end": 1876,
           "anchor": "#stewardship-governance-discipline-and-shared-system-capacity-cluster"
         },
         {
           "header": "Stewardship",
           "level": 5,
-          "line_start": 1711,
-          "line_end": 1740,
+          "line_start": 1699,
+          "line_end": 1728,
           "anchor": "#stewardship-constitutional"
         },
         {
           "header": "Distributed Understanding",
           "level": 5,
-          "line_start": 1741,
-          "line_end": 1769,
+          "line_start": 1729,
+          "line_end": 1757,
           "anchor": "#distributed-understanding-constitutional"
         },
         {
           "header": "Strategic Stewardship Obligation",
           "level": 5,
-          "line_start": 1770,
-          "line_end": 1798,
+          "line_start": 1758,
+          "line_end": 1786,
           "anchor": "#strategic-stewardship-obligation-constitutional"
         },
         {
           "header": "Short-Horizon Governance Defect",
           "level": 5,
-          "line_start": 1799,
-          "line_end": 1827,
+          "line_start": 1787,
+          "line_end": 1815,
           "anchor": "#short-horizon-governance-defect-constitutional"
         },
         {
           "header": "Stewardship Defect",
           "level": 5,
-          "line_start": 1828,
-          "line_end": 1856,
+          "line_start": 1816,
+          "line_end": 1844,
           "anchor": "#stewardship-defect-constitutional"
         },
         {
           "header": "Review and Correction Duty",
           "level": 5,
-          "line_start": 1857,
-          "line_end": 1888,
+          "line_start": 1845,
+          "line_end": 1876,
           "anchor": "#review-and-correction-duty-constitutional"
         },
         {
           "header": "3.14 Privacy (Informational) — peer-level cluster head",
           "level": 4,
-          "line_start": 1889,
-          "line_end": 1993,
+          "line_start": 1877,
+          "line_end": 1979,
           "anchor": "#privacy-informational-cluster"
         },
         {
           "header": "Privacy (Informational)",
           "level": 5,
-          "line_start": 1928,
-          "line_end": 1951,
+          "line_start": 1914,
+          "line_end": 1937,
           "anchor": "#privacy-informational"
         },
         {
           "header": "Protected Internal-State Boundary",
           "level": 5,
-          "line_start": 1952,
-          "line_end": 1971,
+          "line_start": 1938,
+          "line_end": 1957,
           "anchor": "#protected-internal-state-boundary-constitutional"
         },
         {
           "header": "Surveillance Boundary",
           "level": 5,
-          "line_start": 1972,
-          "line_end": 1993,
+          "line_start": 1958,
+          "line_end": 1979,
           "anchor": "#surveillance-boundary"
         },
         {
           "header": "3.15 Trust and Trustworthiness",
           "level": 4,
-          "line_start": 1994,
-          "line_end": 2143,
+          "line_start": 1980,
+          "line_end": 2129,
           "anchor": "#trust-and-trustworthiness-cluster"
         },
         {
           "header": "Trust",
           "level": 5,
-          "line_start": 2023,
-          "line_end": 2049,
+          "line_start": 2009,
+          "line_end": 2035,
           "anchor": "#trust"
         },
         {
           "header": "Trustworthiness",
           "level": 5,
-          "line_start": 2050,
-          "line_end": 2094,
+          "line_start": 2036,
+          "line_end": 2080,
           "anchor": "#trustworthiness"
         },
         {
           "header": "Trust Degradation and Misleading Reliance",
           "level": 5,
-          "line_start": 2095,
-          "line_end": 2143,
+          "line_start": 2081,
+          "line_end": 2129,
           "anchor": "#trust-degradation-and-misleading-reliance"
         }
       ]
     },
     "core_05defs_integrative.md": {
-      "total_lines": 516,
+      "total_lines": 514,
       "sections": [
         {
-          "header": "Constitutional definitions (Integrative band)",
+          "header": "Integrative Constitutional Definitions",
           "level": 1,
           "line_start": 1,
-          "line_end": 516,
-          "anchor": null
-        },
-        {
-          "header": "Integrative cross-leg definitions (Chapter One §8.16 cluster)",
-          "level": 2,
-          "line_start": 16,
-          "line_end": 516,
+          "line_end": 514,
           "anchor": null
         },
         {
           "header": "Integrative: Independent terms",
           "level": 3,
-          "line_start": 38,
-          "line_end": 287,
+          "line_start": 36,
+          "line_end": 285,
           "anchor": "#non-compliance"
         },
         {
           "header": "Non-Compliance",
           "level": 4,
-          "line_start": 42,
-          "line_end": 73,
+          "line_start": 40,
+          "line_end": 71,
           "anchor": null
         },
         {
           "header": "Constitutional Contract Layer",
           "level": 4,
-          "line_start": 74,
-          "line_end": 105,
+          "line_start": 72,
+          "line_end": 103,
           "anchor": "#constitutional-contract-layer"
         },
         {
           "header": "Foundational Constitutional Choice",
           "level": 4,
-          "line_start": 106,
-          "line_end": 140,
+          "line_start": 104,
+          "line_end": 138,
           "anchor": "#foundational-constitutional-choice"
         },
         {
           "header": "Incentive Alignment",
           "level": 4,
-          "line_start": 141,
-          "line_end": 245,
+          "line_start": 139,
+          "line_end": 243,
           "anchor": "#incentive-alignment"
         },
         {
           "header": "Incentive Alignment — baseline constitutional alignment",
           "level": 5,
-          "line_start": 180,
-          "line_end": 192,
+          "line_start": 178,
+          "line_end": 190,
           "anchor": "#incentive-alignment-baseline-constitutional-alignment"
         },
         {
           "header": "Incentive Alignment — strategic, scaled, and adversarial evaluation",
           "level": 5,
-          "line_start": 193,
-          "line_end": 201,
+          "line_start": 191,
+          "line_end": 199,
           "anchor": "#incentive-alignment-strategic-scaled-and-adversarial-evaluation"
         },
         {
           "header": "Incentive Alignment — contingent claims, games of chance, and event-contract markets",
           "level": 5,
-          "line_start": 202,
-          "line_end": 223,
+          "line_start": 200,
+          "line_end": 221,
           "anchor": "#incentive-alignment-contingent-claims-games-of-chance-and-event-contract-markets"
         },
         {
           "header": "Incentive Alignment — proxy divergence tracing",
           "level": 5,
-          "line_start": 224,
-          "line_end": 232,
+          "line_start": 222,
+          "line_end": 230,
           "anchor": "#incentive-alignment-proxy-divergence-tracing"
         },
         {
           "header": "Incentive Alignment — implementation routing and operational hooks",
           "level": 5,
-          "line_start": 233,
-          "line_end": 245,
+          "line_start": 231,
+          "line_end": 243,
           "anchor": "#incentive-alignment-implementation-routing-and-operational-hooks"
         },
         {
           "header": "Innovation Reward and Anti-Enclosure",
           "level": 4,
-          "line_start": 246,
-          "line_end": 287,
+          "line_start": 244,
+          "line_end": 285,
           "anchor": "#innovation-reward-and-anti-enclosure"
         },
         {
           "header": "Integrative: Semi-independent terms",
           "level": 3,
-          "line_start": 288,
-          "line_end": 289,
+          "line_start": 286,
+          "line_end": 287,
           "anchor": "#innovation-reward-and-anti-enclosure-anti-enclosure-non-compliance-c"
         },
         {
           "header": "Integrative: Dependent clusters",
           "level": 3,
-          "line_start": 290,
-          "line_end": 516,
+          "line_start": 288,
+          "line_end": 514,
           "anchor": "#corpus-authority-stack-supremacy-and-enforceability-cluster"
         },
         {
           "header": "3.16 Corpus, Authority Stack, Supremacy, and Enforceability",
           "level": 4,
-          "line_start": 294,
-          "line_end": 516,
+          "line_start": 292,
+          "line_end": 514,
           "anchor": null
         },
         {
           "header": "Corpus",
           "level": 5,
-          "line_start": 326,
-          "line_end": 357,
+          "line_start": 324,
+          "line_end": 355,
           "anchor": "#corpus"
         },
         {
           "header": "Authority Stack and Internal Hierarchy",
           "level": 5,
-          "line_start": 358,
-          "line_end": 393,
+          "line_start": 356,
+          "line_end": 391,
           "anchor": "#authority-stack"
         },
         {
           "header": "Constitutional Owner Layers",
           "level": 5,
-          "line_start": 394,
-          "line_end": 426,
+          "line_start": 392,
+          "line_end": 424,
           "anchor": "#constitutional-owner-layers"
         },
         {
           "header": "Supremacy and Enforceability",
           "level": 5,
-          "line_start": 427,
-          "line_end": 447,
+          "line_start": 425,
+          "line_end": 445,
           "anchor": "#supremacy-and-enforceability"
         },
         {
           "header": "Constitutional Constraint",
           "level": 5,
-          "line_start": 448,
-          "line_end": 486,
+          "line_start": 446,
+          "line_end": 484,
           "anchor": "#constitutional-constraint"
         },
         {
           "header": "Constitutional Constraint Violation",
           "level": 5,
-          "line_start": 487,
-          "line_end": 516,
+          "line_start": 485,
+          "line_end": 514,
           "anchor": "#constitutional-constraint-violation"
         }
       ]
     },
     "core_05defs_oversight.md": {
-      "total_lines": 1027,
+      "total_lines": 1040,
       "sections": [
         {
-          "header": "Constitutional definitions (Oversight band)",
+          "header": "Oversight Constitutional Definitions",
           "level": 1,
           "line_start": 1,
-          "line_end": 1027,
+          "line_end": 1040,
           "anchor": null
         },
         {
           "header": "Oversight: Independent terms",
           "level": 3,
-          "line_start": 22,
-          "line_end": 161,
+          "line_start": 39,
+          "line_end": 174,
           "anchor": "#oversight-independent-terms"
         },
         {
           "header": "Adversarial, Scaled, and Exploited Conditions",
           "level": 4,
-          "line_start": 26,
-          "line_end": 54,
+          "line_start": 43,
+          "line_end": 71,
           "anchor": null
         },
         {
           "header": "Capability Requirement",
           "level": 4,
-          "line_start": 55,
-          "line_end": 82,
+          "line_start": 72,
+          "line_end": 99,
           "anchor": "#capability-requirement"
         },
         {
           "header": "Classification-Scaled Governance",
           "level": 4,
-          "line_start": 83,
-          "line_end": 118,
+          "line_start": 100,
+          "line_end": 131,
           "anchor": "#classification-scaled-governance"
         },
         {
           "header": "Press and Journalistic Activity",
           "level": 4,
-          "line_start": 119,
-          "line_end": 145,
+          "line_start": 132,
+          "line_end": 158,
           "anchor": "#press-and-journalistic-activity-constitutional"
         },
         {
           "header": "Risk Evaluation and Disclosure",
           "level": 4,
-          "line_start": 146,
-          "line_end": 161,
+          "line_start": 159,
+          "line_end": 174,
           "anchor": "#press-and-journalistic-activity-constitutional-c"
         },
         {
           "header": "Oversight: Semi-independent terms",
           "level": 3,
-          "line_start": 162,
-          "line_end": 477,
+          "line_start": 175,
+          "line_end": 490,
           "anchor": "#risk-evaluation-and-disclosure-c"
         },
         {
           "header": "Materiality, impact, risk, and proxy integrity",
           "level": 4,
-          "line_start": 166,
-          "line_end": 183,
+          "line_start": 179,
+          "line_end": 196,
           "anchor": null
         },
         {
           "header": "Material",
           "level": 4,
-          "line_start": 184,
-          "line_end": 214,
+          "line_start": 197,
+          "line_end": 227,
           "anchor": "#material"
         },
         {
           "header": "Materiality Determination",
           "level": 4,
-          "line_start": 215,
-          "line_end": 251,
+          "line_start": 228,
+          "line_end": 264,
           "anchor": "#materiality-determination"
         },
         {
           "header": "Materiality Integrity Constraint",
           "level": 4,
-          "line_start": 252,
-          "line_end": 282,
+          "line_start": 265,
+          "line_end": 295,
           "anchor": "#materiality-integrity-constraint"
         },
         {
           "header": "Material Impact",
           "level": 4,
-          "line_start": 283,
-          "line_end": 314,
+          "line_start": 296,
+          "line_end": 327,
           "anchor": "#material-impact"
         },
         {
           "header": "Material Risk",
           "level": 4,
-          "line_start": 315,
-          "line_end": 345,
+          "line_start": 328,
+          "line_end": 358,
           "anchor": "#material-risk"
         },
         {
           "header": "Materiality Under Uncertainty",
           "level": 4,
-          "line_start": 346,
-          "line_end": 377,
+          "line_start": 359,
+          "line_end": 390,
           "anchor": "#materiality-under-uncertainty"
         },
         {
           "header": "Proxy Divergence",
           "level": 4,
-          "line_start": 378,
-          "line_end": 415,
+          "line_start": 391,
+          "line_end": 428,
           "anchor": "#proxy-divergence"
         },
         {
           "header": "Proxy Metric Gaming and Indicator-Reality Gaps",
           "level": 4,
-          "line_start": 416,
-          "line_end": 443,
+          "line_start": 429,
+          "line_end": 456,
           "anchor": "#proxy-metric-gaming-and-indicator-reality-gaps"
         },
         {
           "header": "Material Degradation",
           "level": 4,
-          "line_start": 444,
-          "line_end": 477,
+          "line_start": 457,
+          "line_end": 490,
           "anchor": "#material-degradation"
         },
         {
           "header": "Oversight: Dependent clusters",
           "level": 3,
-          "line_start": 478,
-          "line_end": 1027,
+          "line_start": 491,
+          "line_end": 1040,
           "anchor": "#movement-refuge-semi-independent"
         },
         {
           "header": "3.2 Transparency, Auditability, and Verification",
           "level": 4,
-          "line_start": 482,
-          "line_end": 769,
+          "line_start": 495,
+          "line_end": 782,
           "anchor": null
         },
         {
           "header": "Transparency",
           "level": 5,
-          "line_start": 533,
-          "line_end": 573,
+          "line_start": 546,
+          "line_end": 586,
           "anchor": "#transparency"
         },
         {
           "header": "Audit Scope Sufficiency",
           "level": 5,
-          "line_start": 574,
-          "line_end": 590,
+          "line_start": 587,
+          "line_end": 603,
           "anchor": "#audit-scope-sufficiency"
         },
         {
           "header": "Auditability",
           "level": 5,
-          "line_start": 591,
-          "line_end": 625,
+          "line_start": 604,
+          "line_end": 638,
           "anchor": "#auditability"
         },
         {
           "header": "Evidence Preservation",
           "level": 5,
-          "line_start": 626,
-          "line_end": 651,
+          "line_start": 639,
+          "line_end": 664,
           "anchor": "#evidence-preservation"
         },
         {
           "header": "Evaluation Completeness Constraint",
           "level": 5,
-          "line_start": 652,
-          "line_end": 667,
+          "line_start": 665,
+          "line_end": 680,
           "anchor": "#evaluation-completeness-constraint"
         },
         {
           "header": "Observability",
           "level": 5,
-          "line_start": 668,
-          "line_end": 682,
+          "line_start": 681,
+          "line_end": 695,
           "anchor": "#evaluation-completeness-constraint-c"
         },
         {
           "header": "Verifiability",
           "level": 5,
-          "line_start": 683,
-          "line_end": 699,
+          "line_start": 696,
+          "line_end": 712,
           "anchor": "#verifiability"
         },
         {
           "header": "Verification Accessibility",
           "level": 5,
-          "line_start": 700,
-          "line_end": 712,
+          "line_start": 713,
+          "line_end": 725,
           "anchor": "#verifiability-c"
         },
         {
           "header": "Verification Feasibility",
           "level": 5,
-          "line_start": 713,
-          "line_end": 725,
+          "line_start": 726,
+          "line_end": 738,
           "anchor": "#verification-accessibility-c"
         },
         {
           "header": "Verification Independence",
           "level": 5,
-          "line_start": 726,
-          "line_end": 738,
+          "line_start": 739,
+          "line_end": 751,
           "anchor": "#verification-feasibility-c"
         },
         {
           "header": "Verification Proportionality",
           "level": 5,
-          "line_start": 739,
-          "line_end": 751,
+          "line_start": 752,
+          "line_end": 764,
           "anchor": "#verification-independence-c"
         },
         {
           "header": "Verification Robustness",
           "level": 5,
-          "line_start": 752,
-          "line_end": 769,
+          "line_start": 765,
+          "line_end": 782,
           "anchor": "#verification-proportionality-c"
         },
         {
           "header": "3.3 Truth and Epistemic Integrity",
           "level": 4,
-          "line_start": 770,
-          "line_end": 1027,
+          "line_start": 783,
+          "line_end": 1040,
           "anchor": "#truth-and-epistemic-integrity-cluster"
         },
         {
           "header": "Publication and High-Impact Communication",
           "level": 5,
-          "line_start": 803,
-          "line_end": 804,
+          "line_start": 816,
+          "line_end": 817,
           "anchor": "#publication-and-high-impact-communication"
         },
         {
           "header": "Publication Truthfulness and Recklessness Floor",
           "level": 5,
-          "line_start": 805,
-          "line_end": 818,
+          "line_start": 818,
+          "line_end": 831,
           "anchor": null
         },
         {
           "header": "Protected Data and Internal-State Publication Constraint",
           "level": 5,
-          "line_start": 819,
-          "line_end": 832,
+          "line_start": 832,
+          "line_end": 845,
           "anchor": "#publication-truthfulness-and-recklessness-floor-c"
         },
         {
           "header": "High-Impact and Systemic Harm Publication Constraint",
           "level": 5,
-          "line_start": 833,
-          "line_end": 846,
+          "line_start": 846,
+          "line_end": 859,
           "anchor": "#protected-data-and-internal-state-publication-constraint-c"
         },
         {
           "header": "Security-Sensitive Disclosure Balance",
           "level": 5,
-          "line_start": 847,
-          "line_end": 861,
+          "line_start": 860,
+          "line_end": 874,
           "anchor": "#high-impact-and-systemic-harm-publication-constraint-c"
         },
         {
           "header": "Truth (Constitutional Constraint)",
           "level": 5,
-          "line_start": 862,
-          "line_end": 886,
+          "line_start": 875,
+          "line_end": 899,
           "anchor": "#truth-constitutional-constraint"
         },
         {
           "header": "Epistemic Integrity",
           "level": 5,
-          "line_start": 887,
-          "line_end": 913,
+          "line_start": 900,
+          "line_end": 926,
           "anchor": "#epistemic-integrity"
         },
         {
           "header": "Foreseeability Diligence and Reasonably Foreseeable",
           "level": 5,
-          "line_start": 914,
-          "line_end": 940,
+          "line_start": 927,
+          "line_end": 953,
           "anchor": "#foreseeability-diligence-and-reasonably-foreseeable"
         },
         {
           "header": "Foreseeability Burden",
           "level": 5,
-          "line_start": 941,
-          "line_end": 954,
+          "line_start": 954,
+          "line_end": 967,
           "anchor": null
         },
         {
           "header": "Foreseeability Diligence",
           "level": 5,
-          "line_start": 955,
-          "line_end": 967,
+          "line_start": 968,
+          "line_end": 980,
           "anchor": "#foreseeability-diligence"
         },
         {
           "header": "Foreseeability Failure",
           "level": 5,
-          "line_start": 968,
-          "line_end": 980,
+          "line_start": 981,
+          "line_end": 993,
           "anchor": "#foreseeability-diligence-c"
         },
         {
           "header": "Foreseeability Scaling",
           "level": 5,
-          "line_start": 981,
-          "line_end": 993,
+          "line_start": 994,
+          "line_end": 1006,
           "anchor": "#foreseeability-failure-c"
         },
         {
           "header": "Foreseeability Scope",
           "level": 5,
-          "line_start": 994,
-          "line_end": 1008,
+          "line_start": 1007,
+          "line_end": 1021,
           "anchor": "#foreseeability-scaling-c"
         },
         {
           "header": "Reasonably Foreseeable",
           "level": 5,
-          "line_start": 1009,
-          "line_end": 1027,
+          "line_start": 1022,
+          "line_end": 1040,
           "anchor": "#reasonably-foreseeable"
         }
       ]
     },
     "core_05defs_participation.md": {
-      "total_lines": 1922,
+      "total_lines": 1913,
       "sections": [
         {
-          "header": "Constitutional definitions (Participation band)",
+          "header": "Participation Constitutional Definitions",
           "level": 1,
           "line_start": 1,
-          "line_end": 1922,
+          "line_end": 1913,
           "anchor": null
         },
         {
           "header": "Participation: Independent terms",
           "level": 3,
-          "line_start": 22,
-          "line_end": 23,
+          "line_start": 40,
+          "line_end": 288,
           "anchor": "#participation-independent-terms"
-        },
-        {
-          "header": "1. Independent Definitions",
-          "level": 3,
-          "line_start": 24,
-          "line_end": 284,
-          "anchor": null
         },
         {
           "header": "Accessibility",
           "level": 4,
-          "line_start": 44,
-          "line_end": 85,
+          "line_start": 48,
+          "line_end": 89,
           "anchor": "#accessibility-constitutional"
         },
         {
           "header": "Constitutional Community",
           "level": 4,
-          "line_start": 86,
-          "line_end": 117,
+          "line_start": 90,
+          "line_end": 121,
           "anchor": "#constitutional-community"
         },
         {
           "header": "Dignity and Equal Moral Standing",
           "level": 4,
-          "line_start": 118,
-          "line_end": 151,
+          "line_start": 122,
+          "line_end": 155,
           "anchor": "#dignity-and-equal-moral-standing"
         },
         {
           "header": "Freedom (Bounded Agency)",
           "level": 4,
-          "line_start": 152,
-          "line_end": 184,
+          "line_start": 156,
+          "line_end": 188,
           "anchor": "#freedom-bounded-agency"
         },
         {
           "header": "Info-Sphere",
           "level": 4,
-          "line_start": 185,
-          "line_end": 216,
+          "line_start": 189,
+          "line_end": 220,
           "anchor": "#info-sphere"
         },
         {
           "header": "Lifespan Equivalent Unit (LEQU)",
           "level": 4,
-          "line_start": 217,
-          "line_end": 248,
+          "line_start": 221,
+          "line_end": 252,
           "anchor": "#lifespan-equivalent-unit-lequ"
         },
         {
           "header": "Natural Systems Standing",
           "level": 4,
-          "line_start": 249,
-          "line_end": 268,
+          "line_start": 253,
+          "line_end": 272,
           "anchor": "#natural-systems-standing"
         },
         {
           "header": "Non-Imposition (Cooperative Interaction)",
           "level": 4,
-          "line_start": 269,
-          "line_end": 284,
+          "line_start": 273,
+          "line_end": 288,
           "anchor": "#non-imposition-cooperative-interaction"
         },
         {
           "header": "Participation: Semi-independent terms",
           "level": 3,
-          "line_start": 285,
-          "line_end": 1455,
+          "line_start": 289,
+          "line_end": 1446,
           "anchor": "#non-imposition-cooperative-interaction-c"
         },
         {
           "header": "Assembly, collective organization, and institutional formation",
           "level": 4,
-          "line_start": 303,
-          "line_end": 323,
+          "line_start": 294,
+          "line_end": 314,
           "anchor": null
         },
         {
           "header": "Assembly",
           "level": 4,
-          "line_start": 324,
-          "line_end": 367,
+          "line_start": 315,
+          "line_end": 358,
           "anchor": "#assembly-constitutional"
         },
         {
           "header": "Collective Organization",
           "level": 4,
-          "line_start": 368,
-          "line_end": 405,
+          "line_start": 359,
+          "line_end": 396,
           "anchor": "#collective-organization-constitutional"
         },
         {
           "header": "System Creation",
           "level": 4,
-          "line_start": 406,
-          "line_end": 451,
+          "line_start": 397,
+          "line_end": 442,
           "anchor": "#system-creation-constitutional"
         },
         {
           "header": "Business Creation",
           "level": 4,
-          "line_start": 452,
-          "line_end": 497,
+          "line_start": 443,
+          "line_end": 488,
           "anchor": "#business-creation-constitutional"
         },
         {
           "header": "Agency, consent, and anti-coercion",
           "level": 4,
-          "line_start": 498,
-          "line_end": 514,
+          "line_start": 489,
+          "line_end": 505,
           "anchor": "#business-creation-constitutional-c"
         },
         {
           "header": "Meaningful Agency",
           "level": 4,
-          "line_start": 515,
-          "line_end": 556,
+          "line_start": 506,
+          "line_end": 547,
           "anchor": "#meaningful-agency"
         },
         {
           "header": "Consent",
           "level": 4,
-          "line_start": 557,
-          "line_end": 590,
+          "line_start": 548,
+          "line_end": 581,
           "anchor": "#consent-constitutional"
         },
         {
           "header": "Consent, Sexual",
           "level": 4,
-          "line_start": 591,
-          "line_end": 625,
+          "line_start": 582,
+          "line_end": 616,
           "anchor": "#consent-sexual"
         },
         {
           "header": "Coercion and Manipulation",
           "level": 4,
-          "line_start": 626,
-          "line_end": 660,
+          "line_start": 617,
+          "line_end": 651,
           "anchor": "#coercion-and-manipulation-constitutional"
         },
         {
           "header": "Fairness, protected characteristics, and nondiscrimination",
           "level": 4,
-          "line_start": 661,
-          "line_end": 679,
+          "line_start": 652,
+          "line_end": 670,
           "anchor": "#coercion-and-manipulation-constitutional-c"
         },
         {
           "header": "Substantive Fairness",
           "level": 4,
-          "line_start": 680,
-          "line_end": 722,
+          "line_start": 671,
+          "line_end": 713,
           "anchor": "#substantive-fairness-constitutional"
         },
         {
           "header": "Procedural Fairness",
           "level": 4,
-          "line_start": 723,
-          "line_end": 761,
+          "line_start": 714,
+          "line_end": 752,
           "anchor": "#procedural-fairness-constitutional"
         },
         {
           "header": "Protected Characteristic Proxying and Disparate Impact",
           "level": 4,
-          "line_start": 762,
-          "line_end": 804,
+          "line_start": 753,
+          "line_end": 795,
           "anchor": "#protected-characteristic-proxying-and-disparate-impact"
         },
         {
           "header": "Protected Characteristics",
           "level": 4,
-          "line_start": 805,
-          "line_end": 857,
+          "line_start": 796,
+          "line_end": 848,
           "anchor": "#protected-characteristics-constitutional"
         },
         {
           "header": "Protected Commercial Sexual Services Status and **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) Circumvention",
           "level": 4,
-          "line_start": 858,
-          "line_end": 892,
+          "line_start": 849,
+          "line_end": 883,
           "anchor": "#protected-commercial-sexual-services-status-and-article-x-c-circumvention"
         },
         {
           "header": "Protected Intimate-Signal Gating",
           "level": 4,
-          "line_start": 893,
-          "line_end": 927,
+          "line_start": 884,
+          "line_end": 918,
           "anchor": "#protected-intimate-signal-gating"
         },
         {
           "header": "Family, care, reproductive autonomy, and instantiation",
           "level": 4,
-          "line_start": 928,
-          "line_end": 949,
+          "line_start": 919,
+          "line_end": 940,
           "anchor": "#protected-intimate-signal-gating-c"
         },
         {
           "header": "Family and Care Relationships",
           "level": 4,
-          "line_start": 950,
-          "line_end": 982,
+          "line_start": 941,
+          "line_end": 973,
           "anchor": "#family-and-care-relationships-constitutional"
         },
         {
           "header": "Parent-System Relationship",
           "level": 4,
-          "line_start": 983,
-          "line_end": 1017,
+          "line_start": 974,
+          "line_end": 1008,
           "anchor": "#parent-system-relationship-constitutional"
         },
         {
           "header": "Reproductive Autonomy",
           "level": 4,
-          "line_start": 1018,
-          "line_end": 1051,
+          "line_start": 1009,
+          "line_end": 1042,
           "anchor": "#reproductive-autonomy-constitutional"
         },
         {
           "header": "Non-Separation",
           "level": 4,
-          "line_start": 1052,
-          "line_end": 1085,
+          "line_start": 1043,
+          "line_end": 1076,
           "anchor": "#non-separation-constitutional"
         },
         {
           "header": "Derived Sentient",
           "level": 4,
-          "line_start": 1086,
-          "line_end": 1119,
+          "line_start": 1077,
+          "line_end": 1110,
           "anchor": "#derived-sentient-constitutional"
         },
         {
           "header": "Developing Sentient",
           "level": 4,
-          "line_start": 1120,
-          "line_end": 1153,
+          "line_start": 1111,
+          "line_end": 1144,
           "anchor": "#developing-sentient-constitutional"
         },
         {
           "header": "Best-Interest Standard",
           "level": 4,
-          "line_start": 1154,
-          "line_end": 1184,
+          "line_start": 1145,
+          "line_end": 1175,
           "anchor": "#best-interest-standard-constitutional"
         },
         {
           "header": "Instantiation Consent",
           "level": 4,
-          "line_start": 1185,
-          "line_end": 1218,
+          "line_start": 1176,
+          "line_end": 1209,
           "anchor": "#instantiation-consent-constitutional"
         },
         {
           "header": "Graduated Capability",
           "level": 4,
-          "line_start": 1219,
-          "line_end": 1248,
+          "line_start": 1210,
+          "line_end": 1239,
           "anchor": "#graduated-capability-constitutional"
         },
         {
           "header": "Stakeholder status and participation weight",
           "level": 4,
-          "line_start": 1249,
-          "line_end": 1263,
+          "line_start": 1240,
+          "line_end": 1254,
           "anchor": "#graduated-capability-constitutional-c"
         },
         {
           "header": "Stakeholder",
           "level": 4,
-          "line_start": 1264,
-          "line_end": 1296,
+          "line_start": 1255,
+          "line_end": 1287,
           "anchor": "#stakeholder"
         },
         {
           "header": "Stakeholder Participation Weight",
           "level": 4,
-          "line_start": 1297,
-          "line_end": 1329,
+          "line_start": 1288,
+          "line_end": 1320,
           "anchor": "#stakeholder-participation-weight"
         },
         {
           "header": "Movement, refuge, and non-statelessness",
           "level": 4,
-          "line_start": 1330,
-          "line_end": 1349,
+          "line_start": 1321,
+          "line_end": 1340,
           "anchor": "#stakeholder-participation-weight-c"
         },
         {
           "header": "Movement and Relocation",
           "level": 4,
-          "line_start": 1350,
-          "line_end": 1385,
+          "line_start": 1341,
+          "line_end": 1376,
           "anchor": "#movement-and-relocation-constitutional"
         },
         {
           "header": "Refuge from Non-Compliance",
           "level": 4,
-          "line_start": 1386,
-          "line_end": 1424,
+          "line_start": 1377,
+          "line_end": 1415,
           "anchor": "#refuge-from-non-compliance-constitutional"
         },
         {
           "header": "Non-Statelessness",
           "level": 4,
-          "line_start": 1425,
-          "line_end": 1455,
+          "line_start": 1416,
+          "line_end": 1446,
           "anchor": "#non-statelessness-constitutional"
         },
         {
           "header": "Participation: Dependent clusters",
           "level": 3,
-          "line_start": 1456,
-          "line_end": 1922,
+          "line_start": 1447,
+          "line_end": 1913,
           "anchor": "#non-statelessness-constitutional-c"
         },
         {
           "header": "3.5 Animal Life, Sentient Life, and Sentience Status",
           "level": 4,
-          "line_start": 1463,
-          "line_end": 1663,
+          "line_start": 1454,
+          "line_end": 1654,
           "anchor": "#35-animal-life-sentient-life-and-sentience-status"
         },
         {
           "header": "Sentient",
           "level": 5,
-          "line_start": 1499,
-          "line_end": 1548,
+          "line_start": 1490,
+          "line_end": 1539,
           "anchor": "#sentient-composite"
         },
         {
           "header": "Sentience Non-Exclusion",
           "level": 5,
-          "line_start": 1549,
-          "line_end": 1564,
+          "line_start": 1540,
+          "line_end": 1555,
           "anchor": "#sentience-non-exclusion"
         },
         {
           "header": "Animal Life",
           "level": 5,
-          "line_start": 1565,
-          "line_end": 1588,
+          "line_start": 1556,
+          "line_end": 1579,
           "anchor": "#animal-life-constitutional"
         },
         {
           "header": "Contested-Sentient Life",
           "level": 5,
-          "line_start": 1589,
-          "line_end": 1618,
+          "line_start": 1580,
+          "line_end": 1609,
           "anchor": "#contested-sentient-life-constitutional"
         },
         {
           "header": "Sentience Status Adjudication",
           "level": 5,
-          "line_start": 1619,
-          "line_end": 1663,
+          "line_start": 1610,
+          "line_end": 1654,
           "anchor": "#sentience-status-adjudication-constitutional"
         },
         {
           "header": "3.6 Binding Stakeholder Choice",
           "level": 4,
-          "line_start": 1664,
-          "line_end": 1755,
+          "line_start": 1655,
+          "line_end": 1746,
           "anchor": "#binding-stakeholder-choice-cluster"
         },
         {
           "header": "Binding Stakeholder Choice — Decision-Resolution Requirements",
           "level": 5,
-          "line_start": 1697,
-          "line_end": 1718,
+          "line_start": 1688,
+          "line_end": 1709,
           "anchor": "#binding-stakeholder-choice-decision-resolution-requirements"
         },
         {
           "header": "Stakeholder Representation and Participation-Weight Limits (Binding Stakeholder Choice)",
           "level": 5,
-          "line_start": 1719,
-          "line_end": 1735,
+          "line_start": 1710,
+          "line_end": 1726,
           "anchor": "#stakeholder-representation-and-participation-weight-limits-binding-stakeholder-choice"
         },
         {
           "header": "Stakeholder Rights-Collision Record (Binding Stakeholder Choice)",
           "level": 5,
-          "line_start": 1736,
-          "line_end": 1755,
+          "line_start": 1727,
+          "line_end": 1746,
           "anchor": "#stakeholder-rights-collision-record-binding-stakeholder-choice"
         },
         {
           "header": "3.7 Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity",
           "level": 4,
-          "line_start": 1756,
-          "line_end": 1922,
+          "line_start": 1747,
+          "line_end": 1913,
           "anchor": "#self-determination-and-meaningful-agency-cluster"
         },
         {
           "header": "Self-Determination",
           "level": 5,
-          "line_start": 1793,
-          "line_end": 1825,
+          "line_start": 1784,
+          "line_end": 1816,
           "anchor": "#self-determination-constitutional"
         },
         {
           "header": "Expression",
           "level": 5,
-          "line_start": 1826,
-          "line_end": 1856,
+          "line_start": 1817,
+          "line_end": 1847,
           "anchor": "#expression-constitutional"
         },
         {
           "header": "Educational Agency",
           "level": 5,
-          "line_start": 1857,
-          "line_end": 1892,
+          "line_start": 1848,
+          "line_end": 1883,
           "anchor": "#educational-agency"
         },
         {
           "header": "Volitional Integrity",
           "level": 5,
-          "line_start": 1893,
-          "line_end": 1922,
+          "line_start": 1884,
+          "line_end": 1913,
           "anchor": "#volitional-integrity"
         }
       ]
     },
     "core_05defs_performance.md": {
-      "total_lines": 51,
+      "total_lines": 49,
       "sections": [
         {
-          "header": "Constitutional definitions (Constitutional Performance band)",
+          "header": "Constitutional Performance Definitions",
           "level": 1,
           "line_start": 1,
-          "line_end": 51,
-          "anchor": null
-        },
-        {
-          "header": "Constitutional Performance band (cross-cutting measurement family)",
-          "level": 2,
-          "line_start": 16,
-          "line_end": 51,
+          "line_end": 49,
           "anchor": null
         },
         {
           "header": "Measuring Constitutional Performance (Preamble measurement family)",
           "level": 3,
-          "line_start": 33,
-          "line_end": 51,
+          "line_start": 31,
+          "line_end": 49,
           "anchor": "#performance-measurement-family"
         }
       ]
@@ -6230,11 +6216,11 @@
           "anchor": null
         },
         {
-          "header": "CJS-5.11.1 Concentration threshold-setting discipline (adopter-tunable)",
+          "header": "CJS-5.11.1 Market concentration threshold-setting discipline (adopter-tunable)",
           "level": 3,
           "line_start": 76,
           "line_end": 108,
-          "anchor": "#cjs-5111-concentration-threshold-setting-discipline-adopter-tunable"
+          "anchor": "#cjs-5111-market-concentration-threshold-setting-discipline-adopter-tunable"
         },
         {
           "header": "CJS-5.11.2 Anti-domination conduct and remediation catalog",

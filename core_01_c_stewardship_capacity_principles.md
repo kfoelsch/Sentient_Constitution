@@ -51,7 +51,7 @@
 - Downstream: Shapes the rights surface for education, stakeholder governance, transparency, comprehensibility, audit and verification, and pathways into material responsibility.
   - Especially [Article III: Survival and Equal Educational Access](core_06-06_rights_part_a.md#article-iii-survival-and-equal-educational-access), [Article VI: Right to Sentient-Centered Education](core_06-06_rights_part_b.md#article-vi-right-to-sentient-centered-education), [Article IX: Self-Determination and Agency](core_06-06_rights_part_b.md#article-ix-self-determination-and-agency), [Article XI: Stakeholder System Participation, Representation, and Due Process](core_06-06_rights_part_b.md#article-xi-stakeholder-system-participation-representation-and-due-process), [Article XV: Audit, Transparency, and Independent Verification](core_06-06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification), [Article XVIII: Standing and Participation Status](core_06-06_rights_part_c.md#article-xviii-standing-and-participation-status), [Article XIX: Interoperability, Portability, Movement, Refuge, and Exit Integrity](core_06-06_rights_part_c.md#article-xix-interoperability-portability-and-exit-integrity), [Article XX: Comprehensibility and Complexity Stewardship](core_06-06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship), and [Article XXII: Constitutional Interpretation, Review, and Anti-Capture Safeguards](core_06-06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards).
   - Read with: [Chapter Twelve §5 — Authorized Roles, Competency Development, and Contribution](core_12-12_governance.md#5-authorized-roles-competency-development-and-contribution) and **[corpus_systems.md](corpus_systems.md), CS-5 — Critical system stewardship** for operative role and competency pathways.
-- Subsections (reading order): [§9.1 Consequential stewardship](#91-stewardship) · [§9.2 Distributed understanding](#92-distributed-understanding) (community facet of competence at scale) · [§9.3 Institutional development](#93-institutional-development) (organizational facet) · [§9.4 Openness aspiration](#94-openness-aspiration).
+- Subsections (reading order): [§9.1 Consequential stewardship](#91-stewardship) · [§9.2 Distributed understanding](#92-distributed-understanding) (community facet of competence at scale) · [§9.3 Institutional development](#93-institutional-development) (organizational facet) · [§9.4 Openness aspiration](#94-openness-aspiration) · [§9.5 Aligned Self-Organization](#95-aligned-self-organization) · [§9.6 Process-Character Discipline](#96-process-character-discipline).
 
 </details>
 
@@ -80,7 +80,7 @@
 
 <br>
 
-*In plain terms: two ideas hold this section together. First, material systems that affect sentients' lives need sentient organization to run them well — not a sealed-off priesthood of specialists. Second, that organization must build **competence at scale**: real paths for individuals into consequential work, enough community understanding to notice problems and push back, and institutions that keep learning instead of freezing in place. **§9.1–§9.4** carry that discipline, plus an openness aspiration when safety allows; **§15** continues governance under the same stewardship frame — with clear limits so this section does not override safety, truth, justified secrecy, or the specific rights guaranteed in Chapter Six.*
+*In plain terms: two ideas hold this section together. First, material systems that affect sentients' lives need sentient organization to run them well — not a sealed-off priesthood of specialists. Second, that organization must build **competence at scale**: real paths for individuals into consequential work, enough community understanding to notice problems and push back, and institutions that keep learning instead of freezing in place. **§9.1–§9.6** carry that discipline, including openness when safety allows, self-organized constitutional work, and limits on degrading process; **§15** continues governance under the same stewardship frame — with clear limits so this section does not override safety, truth, justified secrecy, or the specific rights guaranteed in Chapter Six.*
 
 - **Pillar 1 — Consequential stewardship ([§9.1](#91-stewardship)).** Shared systems that materially affect sentients require sentient hands-on operation, maintenance, oversight, and improvement — [**Strategic Stewardship Obligation**](core_05defs_continuity.md#strategic-stewardship-obligation-constitutional), [**Meaningful Agency**](core_05defs_participation.md#meaningful-agency) — with records and pathways others can verify and challenge — [**Auditability**](core_05defs_oversight.md#auditability), [**Contestability**](core_05defs_accountability.md#contestability).
 - **Pillar 2 — Competence at scale ([§9.2](#92-distributed-understanding) · [§9.3](#93-institutional-development)).** Stewardship must make understanding and challenge workable for affected communities — [**Educational Agency**](core_05defs_participation.md#educational-agency), [**Transparency**](core_05defs_oversight.md#transparency) — and keep organizations learning through feedback, correction, and retained competence, including structured monitoring of variation over time where measurement supports it (patterns such as **statistical process control** are well-known implementations, not universal requirements).
@@ -217,9 +217,47 @@ Where **Chapter Five** and **Chapter Six** assign duties, materially relevant be
 
 This does **not** elevate openness above **Safety**, **Truth**, justified confidentiality, or security constraints. It also does **not** substitute for proportionate understanding keyed to [Materiality](core_05defs_oversight.md#materiality-determination) and [Dependency](core_05defs_continuity.md#dependency).
 
-<a id="95-process-character-discipline"></a>
+<a id="95-aligned-self-organization"></a>
+#### 9.5 Aligned Self-Organization
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: [§9.1 Consequential Stewardship](#91-stewardship); [§5 Freedom (Bounded Agency)](core_01_a_values_principles.md#5-freedom-bounded-agency), especially [§5.3 Assembly, Collective Organization, and Institutional Formation](core_01_a_values_principles.md#53-assembly-collective-organization-and-institutional-formation).
+- Read with: [Assembly](core_05defs_participation.md#assembly-constitutional); [System Creation](core_05defs_participation.md#system-creation-constitutional); [Protected Reporting (Whistleblowing)](core_05defs_accountability.md#protected-reporting-whistleblowing); [Protected Reporting Retaliation and Access Interference](core_05defs_accountability.md#protected-reporting-retaliation-and-access-interference); [Evidence Preservation](core_05defs_oversight.md#evidence-preservation); [Article XV — Audit, Transparency, and Independent Verification](core_06-06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification).
+- Authority boundary: [Chapter Four — Burden of Proof, Traceability, and Verification](core_04-04_burden_traceability_verification.md#chapter-four-burden-of-proof-traceability-and-verification); [Governance](core_05defs_accountability.md#governance); [Merits Determination](core_05defs_accountability.md#merits-determination); [Procedural Fairness](core_05defs_participation.md#procedural-fairness-constitutional).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+
+- [System Creation](core_05defs_participation.md#system-creation-constitutional) · [O](core_05defs_participation.md#system-creation-constitutional) · [A](core_05defs_participation.md#system-creation-constitutional-a) · [C](core_05defs_participation.md#system-creation-constitutional-c)
+- [Protected Reporting (Whistleblowing)](core_05defs_accountability.md#protected-reporting-whistleblowing) · [O](core_05defs_accountability.md#protected-reporting-whistleblowing) · [A](core_05defs_accountability.md#protected-reporting-whistleblowing-a) · [C](core_05defs_accountability.md#protected-reporting-whistleblowing-c)
+- [Evidence Preservation](core_05defs_oversight.md#evidence-preservation) · [O](core_05defs_oversight.md#evidence-preservation) · [A](core_05defs_oversight.md#evidence-preservation-a) · [C](core_05defs_oversight.md#evidence-preservation-c)
+- [Foreseeability](core_05defs_oversight.md#foreseeability-diligence-and-reasonably-foreseeable) · [O](core_05defs_oversight.md#foreseeability-diligence-and-reasonably-foreseeable) · [A](core_05defs_oversight.md#foreseeability-diligence-a) · [C](core_05defs_oversight.md#foreseeability-diligence-c)
+- [Necessity](core_05defs_accountability.md#necessity) · [O](core_05defs_accountability.md#necessity) · [A](core_05defs_accountability.md#necessity-a) · [C](core_05defs_accountability.md#necessity-c)
+- [Proportionality](core_05defs_accountability.md#proportionality) · [O](core_05defs_accountability.md#proportionality) · [A](core_05defs_accountability.md#proportionality-a) · [C](core_05defs_accountability.md#proportionality-c)
+- [Merits Determination](core_05defs_accountability.md#merits-determination) · [O](core_05defs_accountability.md#merits-determination) · [A](core_05defs_accountability.md#merits-determination-a) · [C](core_05defs_accountability.md#merits-determination-c)
+
+</details>
+
+<br>
+
+*In plain terms: no incumbent owns the right to begin useful constitutional work. A sentient or community may notice a problem, gather others, investigate, test, preserve evidence, build a response, or create a public-serving system. When that work makes a credible, materially relevant showing, the responsible institutions must not ignore it because its authors lack status, sponsorship, or conventional credentials. They must give it a real procedural path. This does not give the community authority over others or the power to make the final decision.*
+
+**Aligned Self-Organization** protects sentient-initiated and community-initiated stewardship directed toward constitutionally legitimate ends. It includes inquiry; community science, including work commonly called citizen science; independent or community investigation; evidence preservation and protected reporting; mutual aid and repair; and the creation, operation, or improvement of public-serving systems and institutions. An incumbent sponsor, formal leadership designation, or conventional credential is not required to begin low-risk work or to submit its results. Competence and method remain assessable in proportion to the work's material stakes.
+
+**Procedural constitutional effect.** A submission that makes a credible and materially relevant threshold showing under the applicable intake, reporting, or preservation standard must receive a traceable path to timely receipt, preservation where warranted, routing, a reasoned response, and review by someone independent of those whose actions are being examined. It may trigger inquiry, evidence preservation, interim protection, referral, certification challenge, or reopening under the applicable owner layer. Status, affiliation, institutional origin, or lack of conventional credentials must not be used as a substitute for evaluating method, evidence, provenance, uncertainty, and constitutional relevance.
+
+**Evidence and claims discipline.** The threshold needed to initiate intake or preservation is not a final burden on the merits, and protected reporting does not require perfect legal characterization. A sentient or group that claims its own work or result is constitutionally aligned nevertheless bears the burden for that claim under [Chapter Four](core_04-04_burden_traceability_verification.md#chapter-four-burden-of-proof-traceability-and-verification). Empirical, predictive, or causal conclusions must remain traceable, independently checkable where reasonably achievable, explicit about uncertainty and limitations, open to adversarial testing, and revisable on material new evidence.
+
+**No self-appointment or self-certification.** Initiating, conducting, funding, publishing, or submitting self-organized work does not by itself confer governing, enforcement, or coercive authority; bind non-consenting parties to a substantive outcome; establish standing, liability, entitlement, validity, mandate, remedy, classification, or a rights restriction; or constitute a [Merits Determination](core_05defs_accountability.md#merits-determination). Any such effect requires the separate lawful authority, legitimacy, evidence, due-process, review, and remedy pathway assigned by this Constitution. Procedural effect must not be treated as approval of the submission's substantive conclusions.
+
+**Safety limits.** When an activity could reasonably be expected to lead to violence, serious harm, tampered-with or lost evidence, exploitation, or serious harm to a whole system, safeguards must match the risk. Depending on the danger, they may require relevant skills, step-by-step or reversible methods, limited access, coordination to protect affected sentients, or work through an already-authorized role. Any restriction must satisfy Safety, Truth, Necessity, Proportionality, narrow tailoring, and independent review. Risk may constrain how dangerous work proceeds; it must not become a pretext for blanket exclusion, retaliation, suppression of credible evidence, or exclusive incumbent control of review.
+
+<a id="96-process-character-discipline"></a>
 <a id="anti-degrading-process-principle"></a>
-#### 9.5 Process-Character Discipline (Anti-Degrading-Process Principle)
+#### 9.6 Process-Character Discipline (Anti-Degrading-Process Principle)
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -516,7 +554,7 @@ Systems must detect, disclose, and mitigate materially relevant [System Capture]
 - **Chapter Four** — the party asserting absence of capture bears the burden of proof; compliance requires traced, independently verifiable evidence scaled to [material stake](core_00_preamble.md#material-stake), not assertion, reputation, or formal structure alone.
 - **Chapter Five** — satisfy [System Capture](core_05defs_continuity.md#system-capture) detection, disclosure, and mitigation duties, read with [Incentive Alignment](core_05defs_integrative.md#incentive-alignment), and restore contestable oversight and accountability to the level [material stake](core_00_preamble.md#material-stake) requires.
 
-Where in-system mitigation is infeasible or capture persists after proportionate correction, escalation must also route through [Review and Correction Duty](core_05defs_continuity.md#review-and-correction-duty-constitutional), heightened review under [§13.1 Concentration Threshold Mechanism](#131-concentration-threshold-mechanism-adopter-tunable) and [§13.2 Pro-Competition and Anti-Domination](#132-pro-competition-and-anti-domination) where concentration or domination is material, [Chapter Eight](core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) standing and violation mechanics where verified findings are at stake, and [Chapter Ten](core_10_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction) where concentration or process capture constitutes anti-constitutional misconduct.
+Where in-system mitigation is infeasible or capture persists after proportionate correction, escalation must also route through [Review and Correction Duty](core_05defs_continuity.md#review-and-correction-duty-constitutional), heightened review under [§13.1 Market Concentration Threshold Mechanism](#131-market-concentration-threshold-mechanism-adopter-tunable) and [§13.2 Pro-Competition and Anti-Domination](#132-pro-competition-and-anti-domination) where concentration or domination is material, [Chapter Eight](core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) standing and violation mechanics where verified findings are at stake, and [Chapter Ten](core_10_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction) where concentration or process capture constitutes anti-constitutional misconduct.
 
 <a id="114-misalignment-correction-and-capture-response"></a>
 #### 11.4 Misalignment Correction and Capture Response
@@ -705,7 +743,7 @@ An efficiency claim counts only when it traces to real constitutional outcomes a
 - Read with: [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — **Continuity** aim (contestable, durable productive conditions); **Flourishing** aim (fair access to livelihood, agency, and innovation pathways).
 - Upstream: Principles: [§12 Shared-System Capacity](#12-shared-system-capacity) — productive-capacity and efficiency claims fail where concentration or domination hollows them; [10. Governance Under Stewardship Discipline](#10-governance-under-stewardship-discipline).
 - Downstream: [Chapter Ten §5](core_10_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction) (concentration-based subversion); [6. Process Conflict Resolution](core_01_b_interaction_interpretation.md#6-process-conflict-resolution) ([§6.2.4 Proxy-Divergence Invalidation](core_01_b_interaction_interpretation.md#632-proxy-divergence-invalidation)).
-- Downstream: [corpus_joint_structure.md](corpus_joint_structure.md) **CJS-5.11.1 — Concentration threshold-setting discipline (adopter-tunable)** ([§13.1](#131-concentration-threshold-mechanism-adopter-tunable) operative rules); **CJS-5.11.2 — Anti-domination conduct and remediation catalog** ([§13.2](#132-pro-competition-and-anti-domination) operative conduct patterns and remedies); **CJS-5.11.3 — Consolidation ceiling-setting discipline (adopter-tunable)** ([§13.3.2](#1332-ceiling-discipline-adopter-requirements) operative ceiling-setting rules).
+- Downstream: [corpus_joint_structure.md](corpus_joint_structure.md) **CJS-5.11.1 — Market concentration threshold-setting discipline (adopter-tunable)** ([§13.1](#131-market-concentration-threshold-mechanism-adopter-tunable) operative rules); **CJS-5.11.2 — Anti-domination conduct and remediation catalog** ([§13.2](#132-pro-competition-and-anti-domination) operative conduct patterns and remedies); **CJS-5.11.3 — Consolidation ceiling-setting discipline (adopter-tunable)** ([§13.3.2](#1332-ceiling-discipline-adopter-requirements) operative ceiling-setting rules).
 - Downstream: Shapes the rights surface for resource allocation, fair compensation, collective organization, interoperability, exit, and anti-capture review; especially [Article III-D: Labor and Economic Floor](core_06-06_rights_part_a.md#article-iii-d-labor-and-economic-floor), [Article IV: Resource Allocation, Dependencies, and Ecosystem Funding](core_06-06_rights_part_a.md#article-iv-resource-allocation-dependencies-and-ecosystem-funding), and [Article XIX: Interoperability, Portability, Movement, Refuge, and Exit Integrity](core_06-06_rights_part_c.md#article-xix-interoperability-portability-and-exit-integrity).
 
 </details>
@@ -714,7 +752,7 @@ An efficiency claim counts only when it traces to real constitutional outcomes a
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
 - [Market Structure](core_05defs_accountability.md#market-structure-constitutional) · [O](core_05defs_accountability.md#market-structure-constitutional) · [A](core_05defs_accountability.md#market-structure-constitutional-a) · [C](core_05defs_accountability.md#market-structure-constitutional-c)
-- [Concentration Threshold](core_05defs_accountability.md#concentration-threshold-constitutional) · [O](core_05defs_accountability.md#concentration-threshold-constitutional) · [A](core_05defs_accountability.md#concentration-threshold-constitutional-a) · [C](core_05defs_accountability.md#concentration-threshold-constitutional-c)
+- [Market Concentration Threshold](core_05defs_accountability.md#market-concentration-threshold-constitutional) · [O](core_05defs_accountability.md#market-concentration-threshold-constitutional) · [A](core_05defs_accountability.md#market-concentration-threshold-constitutional-a) · [C](core_05defs_accountability.md#market-concentration-threshold-constitutional-c)
 - [Contestability](core_05defs_accountability.md#contestability) · [O](core_05defs_accountability.md#contestability) · [A](core_05defs_accountability.md#contestability-a) · [C](core_05defs_accountability.md#contestability-c)
 - [Proxy Divergence](core_05defs_oversight.md#proxy-divergence) · [O](core_05defs_oversight.md#proxy-divergence) · [A](core_05defs_oversight.md#proxy-divergence-a) · [C](core_05defs_oversight.md#proxy-divergence-c)
 - [Dependency](core_05defs_continuity.md#dependency) · [O](core_05defs_continuity.md#dependency) · [A](core_05defs_continuity.md#dependency-a) · [C](core_05defs_continuity.md#dependency-c)
@@ -724,7 +762,7 @@ An efficiency claim counts only when it traces to real constitutional outcomes a
 
 <br>
 
-*In plain terms: sentients should be able to work, build, switch providers, and push back without running into a wall because one company or institution owns the only door. **Market Structure** is that anti-monopoly discipline — for markets, platforms, job systems, infrastructure, data, computing power, credentials, and other dependencies that matter to daily life. Getting big and inventing new things is fine; cornering the market is not. **[§13.1–§13.3](#131-concentration-threshold-mechanism-adopter-tunable)** set when concentration has gone too far, how domination gets stopped, and how much consolidation is allowed before sentients are locked in.*
+*In plain terms: sentients should be able to work, build, switch providers, and push back without running into a wall because one company or institution owns the only door. **Market Structure** is that anti-monopoly discipline — for markets, platforms, job systems, infrastructure, data, computing power, credentials, and other dependencies that matter to daily life. Getting big and inventing new things is fine; cornering the market is not. **[§13.1–§13.3](#131-market-concentration-threshold-mechanism-adopter-tunable)** set when concentration has gone too far, how domination gets stopped, and how much consolidation is allowed before sentients are locked in.*
 
 **[Market Structure](core_05defs_accountability.md#market-structure-constitutional)** governs whether sentients and shared systems can take part in productive life in ways that stay open to choice, competition, and pushback. Where [material stake](core_00_preamble.md#material-stake) requires, that includes:
 - commercial exchange;
@@ -742,14 +780,14 @@ An efficiency claim counts only when it traces to real constitutional outcomes a
 - [Ecological Integrity](core_05defs_continuity.md#ecological-integrity-constitutional); or
 - constitutional review.
 
-<a id="131-concentration-threshold-mechanism-adopter-tunable"></a>
-#### 13.1 Concentration Threshold Mechanism (Adopter-Tunable)
+<a id="131-market-concentration-threshold-mechanism-adopter-tunable"></a>
+#### 13.1 Market Concentration Threshold Mechanism (Adopter-Tunable)
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§13 Market Structure](#13-market-structure); [Concentration Threshold](core_05defs_accountability.md#concentration-threshold-constitutional).
-- Downstream: [corpus_joint_structure.md](corpus_joint_structure.md) **CJS-5.11.1 — Concentration threshold-setting discipline (adopter-tunable)** (operative threshold-setting rules); [§13.2 Pro-Competition and Anti-Domination](#132-pro-competition-and-anti-domination); [§13.3 Consolidation Ceiling](#133-consolidation-ceiling); [CJS-5.11.3 — Consolidation ceiling-setting discipline (adopter-tunable)](corpus_joint_structure/cjs_05a_accountability_operations.md#cjs-5113-consolidation-ceiling-setting-discipline-adopter-tunable) ([§13.3.2](#1332-ceiling-discipline-adopter-requirements) operative ceiling-setting rules); [Chapter Ten §5](core_10_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction).
+- Upstream: [§13 Market Structure](#13-market-structure); [Market Concentration Threshold](core_05defs_accountability.md#market-concentration-threshold-constitutional).
+- Downstream: [corpus_joint_structure.md](corpus_joint_structure.md) **CJS-5.11.1 — Market concentration threshold-setting discipline (adopter-tunable)** (operative threshold-setting rules); [§13.2 Pro-Competition and Anti-Domination](#132-pro-competition-and-anti-domination); [§13.3 Consolidation Ceiling](#133-consolidation-ceiling); [CJS-5.11.3 — Consolidation ceiling-setting discipline (adopter-tunable)](corpus_joint_structure/cjs_05a_accountability_operations.md#cjs-5113-consolidation-ceiling-setting-discipline-adopter-tunable) ([§13.3.2](#1332-ceiling-discipline-adopter-requirements) operative ceiling-setting rules); [Chapter Ten §5](core_10_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction).
 
 </details>
 
@@ -767,7 +805,7 @@ Adopters may set different thresholds by:
 - dependency density;
 - other context-appropriate factors.
 
-This provision does not impose one global number. Different constitutional federations may set different thresholds without non-compliance by itself, provided the floor holds. See [Concentration Threshold](core_05defs_accountability.md#concentration-threshold-constitutional) for the definitional anchor.
+This provision does not impose one global number. Different constitutional federations may set different thresholds without non-compliance by itself, provided the floor holds. See [Market Concentration Threshold](core_05defs_accountability.md#market-concentration-threshold-constitutional) for the definitional anchor.
 
 Operative threshold-setting discipline — floor preservation, substance-over-form review, anti-nullification, and heightened-scrutiny triggers — lives in **[corpus_joint_structure.md](corpus_joint_structure.md), CJS-5.11.1 — Concentration threshold-setting discipline (adopter-tunable)**.
 

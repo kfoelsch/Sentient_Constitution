@@ -92,7 +92,7 @@ Additional non-delegable duties must be listed.
 - [System Capture](../core_05defs_continuity.md#system-capture) · [O](../core_05defs_continuity.md#system-capture) · [A](../core_05defs_continuity.md#system-capture-a) · [C](../core_05defs_continuity.md#system-capture-c)
 - [Oversight](../core_05apex_oversight_leg.md#oversight-constitutional) · [O](../core_05apex_oversight_leg.md#oversight-constitutional) · [A](../core_05apex_oversight_leg.md#oversight-constitutional-a) · [C](../core_05apex_oversight_leg.md#oversight-constitutional-c)
 - [Auditability](../core_05defs_oversight.md#auditability) · [O](../core_05defs_oversight.md#auditability) · [A](../core_05defs_oversight.md#auditability-a) · [C](../core_05defs_oversight.md#auditability-c)
-- [Concentration Threshold](../core_05defs_accountability.md#concentration-threshold-constitutional) · [O](../core_05defs_accountability.md#concentration-threshold-constitutional) · [A](../core_05defs_accountability.md#concentration-threshold-constitutional-a) · [C](../core_05defs_accountability.md#concentration-threshold-constitutional-c)
+- [Market Concentration Threshold](../core_05defs_accountability.md#market-concentration-threshold-constitutional) · [O](../core_05defs_accountability.md#market-concentration-threshold-constitutional) · [A](../core_05defs_accountability.md#market-concentration-threshold-constitutional-a) · [C](../core_05defs_accountability.md#market-concentration-threshold-constitutional-c)
 - [Contestability](../core_05defs_accountability.md#contestability) · [O](../core_05defs_accountability.md#contestability) · [A](../core_05defs_accountability.md#contestability-a) · [C](../core_05defs_accountability.md#contestability-c)
 
 </details>

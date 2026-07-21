@@ -875,53 +875,17 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
 
 #### Governance architecture, decentralization, and concentration
 
-**Cluster context:** This semi-independent topic group establishes the structural framework for how authority is organized and constrained. [Governance](core_05defs_accountability.md#governance) defines the structures, rules, and processes by which systems are directed and held accountable. [Decentralization](core_05defs_accountability.md#decentralization) requires placement of authority at the least centralized scale that can satisfy binding requirements. [Market Structure](core_05defs_accountability.md#market-structure-constitutional) states the principle-layer discipline for contestable productive conditions. [Concentration Threshold](core_05defs_accountability.md#concentration-threshold-constitutional) provides the operational trigger for heightened review when material concentration reaches problematic levels. These definitions implement [Chapter One §13 Market Structure](core_01_c_stewardship_capacity_principles.md#13-market-structure) and constrain [System Capture](core_05defs_continuity.md#system-capture) through distributed, accountable authority structures.
+**Cluster context:** This semi-independent topic group establishes the structural framework for how authority is organized and constrained. [Governance](core_05defs_accountability.md#governance) defines the structures, rules, and processes by which systems are directed and held accountable. [Decentralization](core_05defs_accountability.md#decentralization) requires placement of authority at the least centralized scale that can satisfy binding requirements. [Market Structure](core_05defs_accountability.md#market-structure-constitutional) states the principle-layer discipline for contestable productive conditions. [Market Concentration Threshold](core_05defs_accountability.md#market-concentration-threshold-constitutional) provides the operational trigger for heightened review when material concentration reaches problematic levels. These definitions implement [Chapter One §13 Market Structure](core_01_c_stewardship_capacity_principles.md#13-market-structure) and constrain [System Capture](core_05defs_continuity.md#system-capture) through distributed, accountable authority structures.
+
+**Principle-layer interface.** Read this cluster with [Chapter One §9.5 Aligned Self-Organization](core_01_c_stewardship_capacity_principles.md#95-aligned-self-organization). That principle explains how sentient-initiated and community-initiated constitutional work receives a real procedural path without allowing incumbents to monopolize initiative or review. It is not a grant of governing, enforcement, coercive, or merits authority and is not an additional definition in this cluster.
 
 **Topic group members.** This group comprises:
 - [Governance](core_05defs_accountability.md#governance);
 - [Decentralization](core_05defs_accountability.md#decentralization);
 - [Market Structure](core_05defs_accountability.md#market-structure-constitutional);
-- [Concentration Threshold](core_05defs_accountability.md#concentration-threshold-constitutional).
+- [Market Concentration Threshold](core_05defs_accountability.md#market-concentration-threshold-constitutional).
 
-*Measurements (family routing):* Accountability measurement family — operative tiers on [Market Structure](core_05defs_accountability.md#market-structure-constitutional) and [Concentration Threshold](core_05defs_accountability.md#concentration-threshold-constitutional) below; progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md).
-
-<a id="market-structure-constitutional"></a>
-
----
-#### Market Structure
-
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Downstream: Accountability measurement family (*Market structure and contestability as constitutional measurement*); Principles: [§13 Market Structure](core_01_c_stewardship_capacity_principles.md#13-market-structure); [§13.1 Concentration Threshold Mechanism (Adopter-Tunable)](core_01_c_stewardship_capacity_principles.md#131-concentration-threshold-mechanism-adopter-tunable); [§13.2 Pro-Competition and Anti-Domination](core_01_c_stewardship_capacity_principles.md#132-pro-competition-and-anti-domination); [§13.3 Consolidation Ceiling](core_01_c_stewardship_capacity_principles.md#133-consolidation-ceiling); [corpus_joint_structure.md](../corpus_joint_structure.md) **CJS-5.11.2 — Anti-domination conduct and remediation catalog** (operative conduct patterns and remedies); **CJS-5.11.3 — Consolidation ceiling-setting discipline (adopter-tunable)** (operative ceiling-setting discipline).
-- Cluster component: [Governance Architecture, Oversight, Dependency, Decentralization, Concentration, Market Structure, and Exit-Path Integrity](core_05defs_accountability.md#governance-architecture-oversight-decentralization-and-concentration-cluster); [Stewardship, Governance Discipline, and Shared-System Capacity](core_05defs_continuity.md#stewardship-governance-discipline-and-shared-system-capacity-cluster).
-- Read with: [Contestability](core_05defs_accountability.md#contestability), [Concentration Threshold](core_05defs_accountability.md#concentration-threshold-constitutional), [Productive Capacity](core_05defs_continuity.md#productive-capacity-constitutional), [Constitutional Efficiency](core_05defs_continuity.md#constitutional-efficiency), [Proxy Divergence](core_05defs_oversight.md#proxy-divergence), [Dependency](core_05defs_continuity.md#dependency), [Meaningful Agency](core_05defs_participation.md#meaningful-agency), [System Capture](core_05defs_continuity.md#system-capture), and [Chapter One §11.1.5 Constitutional Outcome Claims Discipline](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline).
-
-</details>
-
-<br>
-
-*In plain terms: markets and market-like systems must leave participants real choices — fair entry, workable exit, substitutes, bargaining without coercion, and reviewable access to essential infrastructure. Size or innovation alone is not a violation, but domination and dependency still require scrutiny.*
-
-- **What it is**
-  - **In scope:** The constitutional rules for how markets, platforms, labor arrangements, resource flows, access to data and compute, credentialing, access to capital, information-sphere gatekeeping, and similar **market-structuring arrangements** must preserve contestable participation. This includes meaningful substitutes, workable exit, fair entry and re-entry, bargaining without coercion, and reviewable access to essential or high-dependency infrastructure. Lawful scale, integration, or a temporary advantage from genuine innovation is not prohibited by itself.
-  - **Out of scope:** A market-structure label or formal arrangement that has no real effect in the situation being evaluated.
-<a id="market-structure-constitutional-a"></a>
-- **How to measure and assess**
-  - **Primary measure:** Accountability measurement family — primary owner for market-structure measurement within the accountability family.
-
-    **Primary assessment:** Assess real concentration, domination, and consolidation risk, not just the formal number of entities or whether a market appears open on paper.
-  - **Secondary measure:** [Concentration Threshold](core_05defs_accountability.md#concentration-threshold-constitutional), [Contestability](core_05defs_accountability.md#contestability), [Meaningful Agency](core_05defs_participation.md#meaningful-agency), and [Dependency](core_05defs_continuity.md#dependency) — co-measures that can defeat contestability even when formal market openness exists.
-
-    **Secondary assessment:** When evaluating the primary trace, apply [Concentration Threshold](core_05defs_accountability.md#concentration-threshold-constitutional), the anti-domination rules in [Chapter One §13.2](core_01_c_stewardship_capacity_principles.md#132-pro-competition-and-anti-domination), [Contestability](core_05defs_accountability.md#contestability), and [Dependency](core_05defs_continuity.md#dependency). Do so whenever livelihood, agency, wellbeing, ecological integrity, interoperability, exit, or constitutional review depends on the arrangement.
-  - **Tertiary measure:** [Proxy Divergence](core_05defs_oversight.md#proxy-divergence) — where entity count, competitiveness indices, or efficiency claims substitute for substantive contestability.
-
-    **Tertiary assessment:** When operators rely on measures of competitiveness or efficiency, apply [Proxy Divergence](core_05defs_oversight.md#proxy-divergence). Separate lasting Contestability from market openness that exists only on paper.
-<a id="market-structure-constitutional-c"></a>
-- **What must hold**
-  - **Primary failure:** A market-structuring arrangement foreseeably degrades wellbeing, meaningful agency, dignity, ecological integrity, Contestability, or constitutional review.
-  - **Secondary failure:** Concentration or domination is defended only by claims about efficiency, competitiveness, emergency, security, or productive capacity without traceable constitutional outcomes; or a threshold or ceiling regime nullifies the [Chapter One §13](core_01_c_stewardship_capacity_principles.md#13-market-structure) floor.
-  - **Tertiary failure:** An arrangement passes non-concentration tests on paper but fails applicable Rights-Floor protections, or proxy satisfaction is treated as decisive when [Proxy Divergence](core_05defs_oversight.md#proxy-divergence) is reasonably observable.
+*Measurements (family routing):* Accountability measurement family — operative tiers on [Market Structure](core_05defs_accountability.md#market-structure-constitutional) and [Market Concentration Threshold](core_05defs_accountability.md#market-concentration-threshold-constitutional) below; progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md).
 
 <a id="governance"></a>
 
@@ -933,7 +897,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
 
 - Downstream: Principles: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) ([material stake](core_00_preamble.md#material-stake) scaling); [Preamble §4 governance-layer discipline](core_00_preamble.md#governance-layer-discipline); [§10 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline) (governance capture discipline).
 - Cluster component: [Governance Architecture, Oversight, Dependency, Decentralization, Concentration, Market Structure, and Exit-Path Integrity](core_05defs_accountability.md#governance-architecture-oversight-decentralization-and-concentration-cluster); [Stewardship, Governance Discipline, and Shared-System Capacity](core_05defs_continuity.md#stewardship-governance-discipline-and-shared-system-capacity-cluster).
-- Read with: [Stewardship](core_05defs_continuity.md#stewardship-constitutional), [Short-Horizon Governance Defect](core_05defs_continuity.md#short-horizon-governance-defect-constitutional), [Classification-Scaled Governance](core_05defs_oversight.md#classification-scaled-governance), [Oversight](core_05apex_oversight_leg.md#oversight-constitutional), [Accountability](core_05apex_accountability_leg.md#accountability), [Contestability](core_05defs_accountability.md#contestability), [Proportionality](core_05defs_accountability.md#proportionality), [Necessity](core_05defs_accountability.md#necessity), and [System Capture](core_05defs_continuity.md#system-capture).
+- Read with: [Stewardship](core_05defs_continuity.md#stewardship-constitutional), [Chapter One §9.5 Aligned Self-Organization](core_01_c_stewardship_capacity_principles.md#95-aligned-self-organization), [Short-Horizon Governance Defect](core_05defs_continuity.md#short-horizon-governance-defect-constitutional), [Classification-Scaled Governance](core_05defs_oversight.md#classification-scaled-governance), [Oversight](core_05apex_oversight_leg.md#oversight-constitutional), [Accountability](core_05apex_accountability_leg.md#accountability), [Contestability](core_05defs_accountability.md#contestability), [Proportionality](core_05defs_accountability.md#proportionality), [Necessity](core_05defs_accountability.md#necessity), and [System Capture](core_05defs_continuity.md#system-capture).
 
 </details>
 
@@ -952,6 +916,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
 <a id="governance-c"></a>
 - **What must hold**
   - It is non-compliant for Governance arrangements to materially negate required [Oversight](core_05apex_oversight_leg.md#oversight-constitutional), [Contestability](core_05defs_accountability.md#contestability), or [Accountability](core_05apex_accountability_leg.md#accountability); produce or entrench [System Capture](core_05defs_continuity.md#system-capture) without mitigation when such capture is materially prohibited; normalize permanent emergency; suppress correction; or entrench capture while preserving procedure only in name.
+  - A claimed Governance arrangement remains in scope for evaluation when it seeks to seize, displace, bypass, or materially obstruct authority assigned through a valid constitutional authorization pathway. Such attempted subversion is non-compliant even when it does not succeed. This rule does not prohibit challenge, review, amendment, replacement, or emergency action carried out through constitutionally authorized pathways.
 
 
 <a id="decentralization"></a>
@@ -964,7 +929,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
 
 - Downstream: Principles: [§12.1 Productive Capacity (Instrumental Good)](core_01_c_stewardship_capacity_principles.md#121-productive-capacity-instrumental-good) (non-concentration / subsidiarity read-with); [8.1.1 Proportionality](core_01_b_interaction_interpretation.md#611-proportionality) (centralization justification).
 - Cluster component: [Governance Architecture, Oversight, Dependency, Decentralization, Concentration, Market Structure, and Exit-Path Integrity](core_05defs_accountability.md#governance-architecture-oversight-decentralization-and-concentration-cluster).
-- Read with: [Governance](core_05defs_accountability.md#governance), [Oversight](core_05apex_oversight_leg.md#oversight-constitutional), [Classification-Scaled Governance](core_05defs_oversight.md#classification-scaled-governance), [Concentration Threshold](core_05defs_accountability.md#concentration-threshold-constitutional), [Accountability](core_05apex_accountability_leg.md#accountability), [Necessity](core_05defs_accountability.md#necessity), and [Proportionality](core_05defs_accountability.md#proportionality).
+- Read with: [Governance](core_05defs_accountability.md#governance), [Chapter One §9.5 Aligned Self-Organization](core_01_c_stewardship_capacity_principles.md#95-aligned-self-organization), [Oversight](core_05apex_oversight_leg.md#oversight-constitutional), [Classification-Scaled Governance](core_05defs_oversight.md#classification-scaled-governance), [Market Concentration Threshold](core_05defs_accountability.md#market-concentration-threshold-constitutional), [Accountability](core_05apex_accountability_leg.md#accountability), [Necessity](core_05defs_accountability.md#necessity), and [Proportionality](core_05defs_accountability.md#proportionality).
 
 </details>
 
@@ -980,22 +945,60 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
 - **How to measure and assess**
   - **Primary measure:** Accountability and Timeliness measurement families — used alongside any other relevant measures to assess responsibility and whether action happens without harmful delay.
 
-    **Primary assessment:** Increase oversight, standardization, or central control when local capacity is not enough or effects on others are material. Do not use Decentralization to break apart [System Boundary Integrity](core_05defs_continuity.md#system-boundary-integrity) or evade [Accountability](core_05apex_accountability_leg.md#accountability).
+    **Primary assessment:** Increase oversight, standardization, or central control when local capacity is not enough or effects on others are material. Do not use Decentralization to break apart [System Boundary Integrity](core_05defs_continuity.md#system-boundary-integrity) or evade [Accountability](core_05apex_accountability_leg.md#accountability). Check who can actually decide, fund, approve, veto, reverse, appoint, or remove. Sending work or consultation downward does not decentralize authority when those powers stay above without [Necessity](core_05defs_accountability.md#necessity).
 <a id="decentralization-c"></a>
 <a id="subsidiarity-c"></a>
 - **What must hold**
   - It is non-compliant to centralize authority without [Necessity](core_05defs_accountability.md#necessity), or to decentralize in ways that prevent required [Oversight](core_05apex_oversight_leg.md#oversight-constitutional), defeat [Accountability](core_05apex_accountability_leg.md#accountability), or produce unaddressed system-wide [Harm](core_05defs_accountability.md#harm).
+  - Claimed decentralization is non-compliant when it shifts duties or blame downward while keeping meaningful authority, resources, information, or review access centralized without [Necessity](core_05defs_accountability.md#necessity).
 
-
-<a id="concentration-threshold-constitutional"></a>
+<a id="market-structure-constitutional"></a>
 
 ---
-#### Concentration Threshold
+#### Market Structure
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [§12.1 Productive Capacity (Instrumental Good)](core_01_c_stewardship_capacity_principles.md#121-productive-capacity-instrumental-good); [§13.1 Concentration Threshold Mechanism (Adopter-Tunable)](core_01_c_stewardship_capacity_principles.md#131-concentration-threshold-mechanism-adopter-tunable) (principle-layer direction); [corpus_joint_structure.md](../corpus_joint_structure.md) **CJS-5.11.1 — Concentration threshold-setting discipline (adopter-tunable)** (operative threshold-setting discipline); [§13.2 Pro-Competition and Anti-Domination](core_01_c_stewardship_capacity_principles.md#132-pro-competition-and-anti-domination); [§13.3 Consolidation Ceiling](core_01_c_stewardship_capacity_principles.md#133-consolidation-ceiling).
+- Downstream: Accountability measurement family (*Market structure and contestability as constitutional measurement*); Principles: [§13 Market Structure](core_01_c_stewardship_capacity_principles.md#13-market-structure); [§13.1 Market Concentration Threshold Mechanism (Adopter-Tunable)](core_01_c_stewardship_capacity_principles.md#131-market-concentration-threshold-mechanism-adopter-tunable); [§13.2 Pro-Competition and Anti-Domination](core_01_c_stewardship_capacity_principles.md#132-pro-competition-and-anti-domination); [§13.3 Consolidation Ceiling](core_01_c_stewardship_capacity_principles.md#133-consolidation-ceiling); [corpus_joint_structure.md](../corpus_joint_structure.md) **CJS-5.11.2 — Anti-domination conduct and remediation catalog** (operative conduct patterns and remedies); **CJS-5.11.3 — Consolidation ceiling-setting discipline (adopter-tunable)** (operative ceiling-setting discipline).
+- Cluster component: [Governance Architecture, Oversight, Dependency, Decentralization, Concentration, Market Structure, and Exit-Path Integrity](core_05defs_accountability.md#governance-architecture-oversight-decentralization-and-concentration-cluster); [Stewardship, Governance Discipline, and Shared-System Capacity](core_05defs_continuity.md#stewardship-governance-discipline-and-shared-system-capacity-cluster).
+- Read with: [Contestability](core_05defs_accountability.md#contestability), [Market Concentration Threshold](core_05defs_accountability.md#market-concentration-threshold-constitutional), [Productive Capacity](core_05defs_continuity.md#productive-capacity-constitutional), [Constitutional Efficiency](core_05defs_continuity.md#constitutional-efficiency), [Proxy Divergence](core_05defs_oversight.md#proxy-divergence), [Dependency](core_05defs_continuity.md#dependency), [Meaningful Agency](core_05defs_participation.md#meaningful-agency), [System Capture](core_05defs_continuity.md#system-capture), and [Chapter One §11.1.5 Constitutional Outcome Claims Discipline](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline).
+
+</details>
+
+<br>
+
+*In plain terms: markets and market-like systems must leave participants real choices — fair entry, workable exit, substitutes, bargaining without coercion, and reviewable access to essential infrastructure. Size or innovation alone is not a violation, but domination and dependency still require scrutiny.*
+
+- **What it is**
+  - **In scope:** The constitutional rules for how markets, platforms, labor arrangements, resource flows, access to data and compute, credentialing, access to capital, information-sphere gatekeeping, and similar **market-structuring arrangements** must preserve contestable participation. This includes meaningful substitutes, workable exit, fair entry and re-entry, bargaining without coercion, and reviewable access to essential or high-dependency infrastructure. Lawful scale, integration, or a temporary advantage from genuine innovation is not prohibited by itself.
+  - **Out of scope:** A market-structure label or formal arrangement that has no real effect in the situation being evaluated.
+<a id="market-structure-constitutional-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** Accountability measurement family — primary owner for market-structure measurement within the accountability family.
+
+    **Primary assessment:** Assess real concentration, domination, and consolidation risk, not just the formal number of entities or whether a market appears open on paper.
+  - **Secondary measure:** [Market Concentration Threshold](core_05defs_accountability.md#market-concentration-threshold-constitutional), [Contestability](core_05defs_accountability.md#contestability), [Meaningful Agency](core_05defs_participation.md#meaningful-agency), and [Dependency](core_05defs_continuity.md#dependency) — co-measures that can defeat contestability even when formal market openness exists.
+
+    **Secondary assessment:** When evaluating the primary trace, apply [Market Concentration Threshold](core_05defs_accountability.md#market-concentration-threshold-constitutional), the anti-domination rules in [Chapter One §13.2](core_01_c_stewardship_capacity_principles.md#132-pro-competition-and-anti-domination), [Contestability](core_05defs_accountability.md#contestability), and [Dependency](core_05defs_continuity.md#dependency). Do so whenever livelihood, agency, wellbeing, ecological integrity, interoperability, exit, or constitutional review depends on the arrangement.
+  - **Tertiary measure:** [Proxy Divergence](core_05defs_oversight.md#proxy-divergence) — where entity count, competitiveness indices, or efficiency claims substitute for substantive contestability.
+
+    **Tertiary assessment:** When operators rely on measures of competitiveness or efficiency, apply [Proxy Divergence](core_05defs_oversight.md#proxy-divergence). Separate lasting Contestability from market openness that exists only on paper.
+<a id="market-structure-constitutional-c"></a>
+- **What must hold**
+  - **Primary failure:** A market-structuring arrangement foreseeably degrades wellbeing, meaningful agency, dignity, ecological integrity, Contestability, or constitutional review.
+  - **Secondary failure:** Concentration or domination is defended only by claims about efficiency, competitiveness, emergency, security, or productive capacity without traceable constitutional outcomes; or a threshold or ceiling regime nullifies the [Chapter One §13](core_01_c_stewardship_capacity_principles.md#13-market-structure) floor.
+  - **Tertiary failure:** An arrangement passes non-concentration tests on paper but fails applicable Rights-Floor protections, or proxy satisfaction is treated as decisive when [Proxy Divergence](core_05defs_oversight.md#proxy-divergence) is reasonably observable.
+
+<a id="market-concentration-threshold-constitutional"></a>
+
+---
+#### Market Concentration Threshold
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Downstream: Principles: [§12.1 Productive Capacity (Instrumental Good)](core_01_c_stewardship_capacity_principles.md#121-productive-capacity-instrumental-good); [§13.1 Market Concentration Threshold Mechanism (Adopter-Tunable)](core_01_c_stewardship_capacity_principles.md#131-market-concentration-threshold-mechanism-adopter-tunable) (principle-layer direction); [corpus_joint_structure.md](../corpus_joint_structure.md) **CJS-5.11.1 — Market concentration threshold-setting discipline (adopter-tunable)** (operative threshold-setting discipline); [§13.2 Pro-Competition and Anti-Domination](core_01_c_stewardship_capacity_principles.md#132-pro-competition-and-anti-domination); [§13.3 Consolidation Ceiling](core_01_c_stewardship_capacity_principles.md#133-consolidation-ceiling).
 - Cluster component: [Governance Architecture, Oversight, Dependency, Decentralization, Concentration, Market Structure, and Exit-Path Integrity](core_05defs_accountability.md#governance-architecture-oversight-decentralization-and-concentration-cluster).
 - Read with: [Productive Capacity](core_05defs_continuity.md#productive-capacity-constitutional), [Constitutional Efficiency](core_05defs_continuity.md#constitutional-efficiency), [Proxy Divergence](core_05defs_oversight.md#proxy-divergence), [System Boundary Integrity](core_05defs_continuity.md#system-boundary-integrity), [Adversarial, Scaled, and Exploited Conditions](core_05defs_oversight.md#adversarial-scaled-and-exploited-conditions), [Essential-Environment Non-Commodification](core_05defs_continuity.md#essential-environment-non-commodification-constitutional), and [Sentience Non-Exclusion](core_05defs_participation.md#sentience-non-exclusion).
 
@@ -1003,33 +1006,53 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
 
 <br>
 
-<p><em>In plain terms: adopters set the point at which too much control over a market, platform, infrastructure, labor, data, compute, capital, resources, or information triggers stronger review or remedy. They may tune that point to context, but may not set it so high that the Chapter One §13 protection never works.</em></p>
+*In plain terms: adopters set the point at which too much control over a market, platform, infrastructure, labor, data, compute, capital, resources, or information triggers stronger review or remedy. They may tune that point to context, but may not set it so high that the Chapter One §13 protection never works.*
 
-- O: The operational trigger for when concentration in a material, jurisdictional, capability, market, platform, infrastructure, labor, supplier, data, compute, credentialing, capital-access, resource-control, or information-sphere domain requires heightened review, intervention, or structural remedy. Adopters may tune the threshold. It remains subject to the [Chapter One §13](core_01_c_stewardship_capacity_principles.md#13-market-structure) non-concentration rule, the [Chapter One §13.2](core_01_c_stewardship_capacity_principles.md#132-pro-competition-and-anti-domination) pro-competition and anti-domination discipline, and the [Chapter One §13.3](core_01_c_stewardship_capacity_principles.md#133-consolidation-ceiling) consolidation-ceiling trigger. Owner: [Chapter One §13.1](core_01_c_stewardship_capacity_principles.md#131-concentration-threshold-mechanism-adopter-tunable) (principle-layer direction). Operative threshold-setting discipline: [corpus_joint_structure.md](../corpus_joint_structure.md) **CJS-5.11.1 — Concentration threshold-setting discipline (adopter-tunable)**. Rights-layer pointer: [Article IV](core_06-06_rights_part_a.md#article-iv-resource-allocation-dependencies-and-ecosystem-funding) (*Resource Allocation, Dependencies, and Ecosystem Funding*). Adopter-tunable thresholds and ceilings cannot nullify the Chapter One §13 floor against concentration that predictably degrades wellbeing, agency, dignity, or ecological integrity. This definition applies across substrates and jurisdictions.
-  - In scope: Material, jurisdictional, capability, market, platform, infrastructure, labor, supplier, data, compute, credentialing, capital-access, resource-control, and information-sphere domains are each in scope.
-  - Out of scope: formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
-*Measurements:*
+- **What it is**
+  - **In scope:** The operational trigger for when material concentration in a covered domain requires heightened review, intervention, or structural remedy.
+    - **Covered domains:** jurisdictional authority, capability, markets, platforms, infrastructure, labor, suppliers, data, compute, credentialing, access to capital, control of resources, and the information sphere.
+    - **Adopter tuning:** Adopters may tune the threshold to context.
+    - **Principle-layer owner:** [Chapter One §13.1](core_01_c_stewardship_capacity_principles.md#131-market-concentration-threshold-mechanism-adopter-tunable).
+    - **Controlling principles:** The threshold remains subject to the [Chapter One §13](core_01_c_stewardship_capacity_principles.md#13-market-structure) non-concentration rule, the [Chapter One §13.2](core_01_c_stewardship_capacity_principles.md#132-pro-competition-and-anti-domination) pro-competition and anti-domination discipline, and the [Chapter One §13.3](core_01_c_stewardship_capacity_principles.md#133-consolidation-ceiling) consolidation-ceiling trigger.
+    - **Operational discipline:** [corpus_joint_structure.md](../corpus_joint_structure.md) **CJS-5.11.1 — Market concentration threshold-setting discipline (adopter-tunable)**.
+    - **Rights-layer pointer:** [Article IV](core_06-06_rights_part_a.md#article-iv-resource-allocation-dependencies-and-ecosystem-funding) (*Resource Allocation, Dependencies, and Ecosystem Funding*).
+    - **Anti-nullification:** Adopter-tunable thresholds and ceilings cannot nullify the Chapter One §13 floor against concentration that predictably degrades wellbeing, agency, dignity, or ecological integrity.
+    - **Application:** This definition applies across substrates and jurisdictions.
+  - **Out of scope:** Formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
+<a id="market-concentration-threshold-constitutional-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** Accountability measurement family — operational trigger within the market-structure subfamily.
 
-- **Primary:** Accountability measurement family — operational trigger within the market-structure subfamily.
-- **Secondary:** [Market Structure](core_05defs_accountability.md#market-structure-constitutional), [Proxy Divergence](core_05defs_oversight.md#proxy-divergence), [Contestability](core_05defs_accountability.md#contestability), and [System Boundary Integrity](core_05defs_continuity.md#system-boundary-integrity) — co-measures that can defeat threshold discipline even when nominal tests appear satisfied.
+    **Primary assessment:** Measure real concentration, consolidation, and lasting domination risk, not just the formal number of entities. Include indirect arrangements that produce concentrated power:
+    - **Entity indirection:** federated structures and shell entities.
+    - **Control and governance:** interlocking directorates and common control.
+    - **Consolidation:** repeated acquisitions and cross-platform integration.
+    - **Infrastructure and dependency:** control of essential infrastructure, labor markets dominated by one or a few employers, and control through supplier dependency.
+    - **Gatekeeping:** capture of data or interfaces, compute chokepoints, capital-access gatekeeping, and information-sphere control.
+  - **Secondary measure:** Use these co-measures:
+    - [Market Structure](core_05defs_accountability.md#market-structure-constitutional);
+    - [Proxy Divergence](core_05defs_oversight.md#proxy-divergence);
+    - [Contestability](core_05defs_accountability.md#contestability); and
+    - [System Boundary Integrity](core_05defs_continuity.md#system-boundary-integrity).
 
-<a id="concentration-threshold-constitutional-a"></a>
-- A:
-  - **Primary assessment.** Measure real concentration, consolidation, and lasting domination risk, not just the formal number of entities. Include federated structures, shell entities, interlocking directorates, common control, repeated acquisitions, cross-platform integration, control of essential infrastructure, labor-market monopsony, control through supplier dependency, capture of data or interfaces, compute chokepoints, capital-access gatekeeping, information-sphere control, and similar indirect arrangements that produce concentrated power.
-  - **Secondary co-assessment.** Apply [Proxy Divergence](core_05defs_oversight.md#proxy-divergence) and [Proxy Metric Gaming and Indicator-Reality Gaps](core_05defs_oversight.md#proxy-metric-gaming-and-indicator-reality-gaps) when a regime uses measures that foreseeably understate concentration. Consider [Adversarial, Scaled, and Exploited Conditions](core_05defs_oversight.md#adversarial-scaled-and-exploited-conditions). When concentration materially implicates [Article I-D](core_06-06_rights_part_a.md#article-i-d-existential-risk-and-recovery-capacity) (*Existential Risk and Ecological Recovery Capacity*), [Article XII-A](core_06-06_rights_part_c.md#article-xii-a-reliability-and-trustworthiness-baseline) (*Reliability and Trustworthiness Baseline*), or [Article XIII-A](core_06-06_rights_part_c.md#article-xiii-a-security-intelligence-and-covert-power-limits) (*Security, Intelligence, and Covert-Power Limits*), those articles' heightened standards apply regardless of the ordinary threshold.
-<a id="concentration-threshold-constitutional-c"></a>
-- C:
-  - **Primary failure.** Under the anti-nullification rule in [CJS-5.11.1](../corpus_joint_structure/cjs_05a_accountability_operations.md#cjs-5111-concentration-threshold-setting-discipline-adopter-tunable), it is non-compliant to set thresholds so high that they foreseeably never apply, pair threshold rules with enforcement tools that are never used, or design a threshold regime that produces no real review or intervention.
-  - **Secondary failure.** It is non-compliant to use aggregation through federated structures or substitution across domains to evade a threshold while still producing real concentration. It is also non-compliant for threshold designs to ignore lasting domination, coercive dependency, or gatekeeper self-preferencing when those conditions materially degrade Contestability; or for ceiling regimes to fail to trigger heightened review before consolidation predictably harms Contestability ([CJS-5.11.3](../corpus_joint_structure/cjs_05a_accountability_operations.md#cjs-5113-consolidation-ceiling-setting-discipline-adopter-tunable)).
+    These co-measures can defeat threshold discipline even when nominal tests appear satisfied.
 
+    **Secondary assessment:**
+    - **Understated concentration:** Apply [Proxy Divergence](core_05defs_oversight.md#proxy-divergence) and [Proxy Metric Gaming and Indicator-Reality Gaps](core_05defs_oversight.md#proxy-metric-gaming-and-indicator-reality-gaps) when a regime uses measures that foreseeably understate concentration.
+    - **Stress conditions:** Consider [Adversarial, Scaled, and Exploited Conditions](core_05defs_oversight.md#adversarial-scaled-and-exploited-conditions).
+    - **Heightened standards:** Apply the relevant article's higher standards regardless of the ordinary threshold when concentration materially implicates:
+      - [Article I-D](core_06-06_rights_part_a.md#article-i-d-existential-risk-and-recovery-capacity) (*Existential Risk and Ecological Recovery Capacity*);
+      - [Article XII-A](core_06-06_rights_part_c.md#article-xii-a-reliability-and-trustworthiness-baseline) (*Reliability and Trustworthiness Baseline*); or
+      - [Article XIII-A](core_06-06_rights_part_c.md#article-xiii-a-security-intelligence-and-covert-power-limits) (*Security, Intelligence, and Covert-Power Limits*).
+<a id="market-concentration-threshold-constitutional-c"></a>
+- **What must hold**
+  - **Primary failure:** Under the anti-nullification rule in [CJS-5.11.1 — Market concentration threshold-setting discipline (adopter-tunable)](../corpus_joint_structure/cjs_05a_accountability_operations.md#cjs-5111-market-concentration-threshold-setting-discipline-adopter-tunable), it is non-compliant to set thresholds so high that they foreseeably never apply, pair threshold rules with enforcement tools that are never used, or design a threshold regime that produces no real review or intervention.
+  - **Secondary failures:** It is non-compliant to:
+    - **Evade through structure:** aggregate control through federated structures while still producing real concentration;
+    - **Evade across domains:** substitute control in one domain for control in another to avoid a threshold;
+    - **Ignore durable power:** design thresholds that disregard lasting domination, coercive dependency, or gatekeeper self-preferencing when those conditions materially degrade Contestability; or
+    - **Delay heightened review:** design ceiling regimes that fail to trigger heightened review before consolidation predictably harms Contestability ([CJS-5.11.3](../corpus_joint_structure/cjs_05a_accountability_operations.md#cjs-5113-consolidation-ceiling-setting-discipline-adopter-tunable)).
 
----
-
-<a id="system-boundaries-exit-integrity-semi-independent"></a>
-
----
-
-**Stewardship, governance discipline, review, and correction (Chapter One §8.13 redirect).** Canonical O/M/A/C entries for this stack live under [Chapter Five Chapter One §8.13 *Stewardship, Governance Discipline, and Shared-System Capacity*](core_05defs_continuity.md#stewardship-governance-discipline-and-shared-system-capacity-cluster): [Stewardship](core_05defs_continuity.md#stewardship-constitutional), [Distributed Understanding](core_05defs_continuity.md#distributed-understanding-constitutional), [Strategic Stewardship Obligation](core_05defs_continuity.md#strategic-stewardship-obligation-constitutional), [Short-Horizon Governance Defect](core_05defs_continuity.md#short-horizon-governance-defect-constitutional), [Stewardship Defect](core_05defs_continuity.md#stewardship-defect-constitutional), and [Review and Correction Duty](core_05defs_continuity.md#review-and-correction-duty-constitutional).
 
 ---
 

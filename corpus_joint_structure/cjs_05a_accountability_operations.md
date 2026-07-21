@@ -41,7 +41,7 @@ This family operationalizes the **Accountability** leg of the [Constitutional Te
 - Read with: `corpus_systems.md` **CS-5 — Critical system stewardship**
 - Constitutional frame: **Accountability** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05defs_oversight.md#materiality-determination).
 - Finding profile (default): `A·F·SSP` — [Non-Compliance Finding Profile](../core_05defs_accountability.md#non-compliance-finding-profile); use **CCL** layer and **structural** or **stewardship** **failure character** when undocumented authority, capture, or concentration is material; add **severity tier** **T1**–**T4** per finding ([Chapter Three, section 3](../core_02-03_definition_mechanics.md#3-non-compliance-finding-profiles)).
-- Chapter One basis: Chapter One §7.1, §3, §4.2, §12.2, §6, [§13.1](../core_01_c_stewardship_capacity_principles.md#131-concentration-threshold-mechanism-adopter-tunable), [§13.2](../core_01_c_stewardship_capacity_principles.md#132-pro-competition-and-anti-domination) (see [cluster map](#cjs-51-constitutional-compass-and-cluster-map)).
+- Chapter One basis: Chapter One §7.1, §3, §4.2, §12.2, §6, [§13.1](../core_01_c_stewardship_capacity_principles.md#131-market-concentration-threshold-mechanism-adopter-tunable), [§13.2](../core_01_c_stewardship_capacity_principles.md#132-pro-competition-and-anti-domination) (see [cluster map](#cjs-51-constitutional-compass-and-cluster-map)).
 </details>
 
 <details>
@@ -55,7 +55,7 @@ This family operationalizes the **Accountability** leg of the [Constitutional Te
 - [Governance](../core_05defs_accountability.md#governance) · [O](../core_05defs_accountability.md#governance) · [A](../core_05defs_accountability.md#governance-a) · [C](../core_05defs_accountability.md#governance-c)
 - [Oversight](../core_05apex_oversight_leg.md#oversight-constitutional) · [O](../core_05apex_oversight_leg.md#oversight-constitutional) · [A](../core_05apex_oversight_leg.md#oversight-constitutional-a) · [C](../core_05apex_oversight_leg.md#oversight-constitutional-c)
 - [Material](../core_05defs_oversight.md#material) · [O](../core_05defs_oversight.md#material) · [A](../core_05defs_oversight.md#material-a) · [C](../core_05defs_oversight.md#material-c)
-- Chapter One basis: Chapter One §7.1, §3, §4.2, §12.2, §6, [§13.1](../core_01_c_stewardship_capacity_principles.md#131-concentration-threshold-mechanism-adopter-tunable), [§13.2](../core_01_c_stewardship_capacity_principles.md#132-pro-competition-and-anti-domination) (see [cluster map](#cjs-51-constitutional-compass-and-cluster-map)).
+- Chapter One basis: Chapter One §7.1, §3, §4.2, §12.2, §6, [§13.1](../core_01_c_stewardship_capacity_principles.md#131-market-concentration-threshold-mechanism-adopter-tunable), [§13.2](../core_01_c_stewardship_capacity_principles.md#132-pro-competition-and-anti-domination) (see [cluster map](#cjs-51-constitutional-compass-and-cluster-map)).
 </details>
 
 <br>
@@ -72,13 +72,13 @@ distributed and proportional authority terms
 
 The sub-rules below apply that cluster floor to specific anti-concentration, distribution, accountability, classification, lane, systemic, formation, oversight, participation, and stewardship dimensions. Read them together with the cluster floor and the CJS read-with chain.
 
-<a id="cjs-5111-concentration-threshold-setting-discipline-adopter-tunable"></a>
-### CJS-5.11.1 Concentration threshold-setting discipline (adopter-tunable)
+<a id="cjs-5111-market-concentration-threshold-setting-discipline-adopter-tunable"></a>
+### CJS-5.11.1 Market concentration threshold-setting discipline (adopter-tunable)
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Chapter One §13.1 Concentration Threshold Mechanism (Adopter-Tunable)](../core_01_c_stewardship_capacity_principles.md#131-concentration-threshold-mechanism-adopter-tunable); [Concentration Threshold](../core_05defs_accountability.md#concentration-threshold-constitutional).
+- Upstream: [Chapter One §13.1 Market Concentration Threshold Mechanism (Adopter-Tunable)](../core_01_c_stewardship_capacity_principles.md#131-market-concentration-threshold-mechanism-adopter-tunable); [Market Concentration Threshold](../core_05defs_accountability.md#market-concentration-threshold-constitutional).
 - Downstream: [Chapter Ten §5](../core_10_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction) where concentration-based subversion is at issue; [CJS-5.11.2](cjs_05a_accountability_operations.md#cjs-5112-anti-domination-conduct-and-remediation-catalog) (operative anti-domination conduct and remedies); [CJS-5.11.3](cjs_05a_accountability_operations.md#cjs-5113-consolidation-ceiling-setting-discipline-adopter-tunable) (operative consolidation-ceiling setting); [§13.2 Pro-Competition and Anti-Domination](../core_01_c_stewardship_capacity_principles.md#132-pro-competition-and-anti-domination); [§13.3 Consolidation Ceiling](../core_01_c_stewardship_capacity_principles.md#133-consolidation-ceiling).
 - Read with: [§6.2.4 Proxy-Divergence Invalidation](../core_01_b_interaction_interpretation.md#632-proxy-divergence-invalidation); [Article I-D](../core_06-06_rights_part_a.md#article-i-d-existential-risk-and-recovery-capacity) (*Existential Risk and Ecological Recovery Capacity*); [Article XII-A](../core_06-06_rights_part_c.md#article-xii-a-reliability-and-trustworthiness-baseline) (*Reliability and Trustworthiness Baseline*); [Article XIII-A](../core_06-06_rights_part_c.md#article-xiii-a-security-intelligence-and-covert-power-limits) (*Security, Intelligence, and Covert-Power Limits*).
 
@@ -88,7 +88,7 @@ The sub-rules below apply that cluster floor to specific anti-concentration, dis
 
 *In plain terms: adopters may choose their own numbers and triggers, but not so high that concentration never matters, not so narrow that shell companies dodge the rule, and not so weak that review never happens.*
 
-Adopters must define [Concentration Threshold](../core_05defs_accountability.md#concentration-threshold-constitutional) indicators and activate mitigation when thresholds are crossed or credibly approached. Threshold-setting must follow this discipline:
+Adopters must define [Market Concentration Threshold](../core_05defs_accountability.md#market-concentration-threshold-constitutional) indicators and activate mitigation when thresholds are crossed or credibly approached. Threshold-setting must follow this discipline:
 
 - **Floor preservation.** No adopter-set threshold may sit above a level at which material concentration would predictably degrade wellbeing, agency, dignity, or ecological integrity for other sentients. Setting thresholds above that level is non-compliant — whatever the justification, including efficiency, competitiveness, productive-capacity, scale-economies, or emergency framing.
 - **Substance over form.** Thresholds judge substantive concentration, not headcount of legal entities. In scope where they produce concentrated material effect without formal concentration: federated structures, shell entities, interlocking directorates, cross-platform integration, information-sphere control, **Article XII-E** (*High-Autonomy Systems and Tool-Mediated Process Integrity*) autonomy-stewardship capture, and comparable indirection. Aggregation through federated structures to evade the threshold is non-compliant.
@@ -113,7 +113,7 @@ Adopters must define [Concentration Threshold](../core_05defs_accountability.md#
 
 - Upstream: [Chapter One §13.2 Pro-Competition and Anti-Domination](../core_01_c_stewardship_capacity_principles.md#132-pro-competition-and-anti-domination) ([§13.2.2 Anti-Domination Prohibitions (Don'ts)](../core_01_c_stewardship_capacity_principles.md#1322-anti-domination-prohibitions-donts) principle-layer prohibitions; [§13.2.3 Remedies](../core_01_c_stewardship_capacity_principles.md#1323-remedies) principle-layer remedy direction); [Market Structure](../core_05defs_accountability.md#market-structure-constitutional).
 - Downstream: [Chapter Ten §5](../core_10_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction) where concentration-based subversion is at issue; [Chapter Ten §5.2](../core_10_b_misconduct_pattern_applications.md#52-rights-floor-waivers-and-unconstitutional-contract-terms) where mobility-restriction or waiver conduct is at issue; [Chapter One §13.3 Consolidation Ceiling](../core_01_c_stewardship_capacity_principles.md#133-consolidation-ceiling).
-- Read with: [CJS-5.11.1](cjs_05a_accountability_operations.md#cjs-5111-concentration-threshold-setting-discipline-adopter-tunable); **CJS-5.17** (*interoperability, portability, and exit-integrity terms*); [Article III-D](../core_06-06_rights_part_a.md#article-iii-d-labor-and-economic-floor) (*Labor and Economic Floor*) (labor mobility Rights Floor); [Article XIX](../core_06-06_rights_part_c.md#article-xix-interoperability-portability-and-exit-integrity) (*Interoperability, Portability, Movement, Refuge, and Exit Integrity*); [§6.2.4 Proxy-Divergence Invalidation](../core_01_b_interaction_interpretation.md#632-proxy-divergence-invalidation).
+- Read with: [CJS-5.11.1](cjs_05a_accountability_operations.md#cjs-5111-market-concentration-threshold-setting-discipline-adopter-tunable); **CJS-5.17** (*interoperability, portability, and exit-integrity terms*); [Article III-D](../core_06-06_rights_part_a.md#article-iii-d-labor-and-economic-floor) (*Labor and Economic Floor*) (labor mobility Rights Floor); [Article XIX](../core_06-06_rights_part_c.md#article-xix-interoperability-portability-and-exit-integrity) (*Interoperability, Portability, Movement, Refuge, and Exit Integrity*); [§6.2.4 Proxy-Divergence Invalidation](../core_01_b_interaction_interpretation.md#632-proxy-divergence-invalidation).
 
 </details>
 
@@ -149,7 +149,7 @@ Remedies must be proportionate to the concentration, dependency, conduct, and co
 
 - Upstream: [Chapter One §13.3.2 Consolidation Ceiling Mechanism (Adopter-Tunable)](../core_01_c_stewardship_capacity_principles.md#1332-ceiling-discipline-adopter-requirements); [Chapter One §13.3.1 Consolidation Risk (Pre-Lock-In Impairment)](../core_01_c_stewardship_capacity_principles.md#1331-consolidation-risk-pre-lock-in-impairment); [Market Structure](../core_05defs_accountability.md#market-structure-constitutional).
 - Downstream: [Chapter Ten §5](../core_10_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction) where concentration-based subversion is at issue; [CJS-5.11.2](cjs_05a_accountability_operations.md#cjs-5112-anti-domination-conduct-and-remediation-catalog) (remedy catalog on ceiling breach).
-- Read with: [CJS-5.11.1](cjs_05a_accountability_operations.md#cjs-5111-concentration-threshold-setting-discipline-adopter-tunable); [§6.2.4 Proxy-Divergence Invalidation](../core_01_b_interaction_interpretation.md#632-proxy-divergence-invalidation); [Article III-D](../core_06-06_rights_part_a.md#article-iii-d-labor-and-economic-floor) (*Labor and Economic Floor*).
+- Read with: [CJS-5.11.1](cjs_05a_accountability_operations.md#cjs-5111-market-concentration-threshold-setting-discipline-adopter-tunable); [§6.2.4 Proxy-Divergence Invalidation](../core_01_b_interaction_interpretation.md#632-proxy-divergence-invalidation); [Article III-D](../core_06-06_rights_part_a.md#article-iii-d-labor-and-economic-floor) (*Labor and Economic Floor*).
 
 </details>
 

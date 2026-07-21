@@ -2,10 +2,10 @@
 
 Auto-generated. Do not edit by hand.
 
-Generated: 2026-07-20T08:34:10+00:00
+Generated: 2026-07-21T09:46:03+00:00
 
 Grouped by Preamble measurement category. **Approved** terms must carry `*Measurements:*` and tier-aligned **E**/**C** per [doc_architecture.md](../doc_architecture.md) MEAS-DEF-01.
-Approved progress: **208/213** terms pass tier audit.
+Approved progress: **213/213** terms pass tier audit.
 
 
 ## 3.2 Flourishing
@@ -111,12 +111,12 @@ Approved progress: **208/213** terms pass tier audit.
 | Non-Separation | approved | primary_only | cluster_member | `core_05defs_participation.md` | yes | pass |
 | Non-Statelessness | approved | primary_only | cluster_member | `core_05defs_participation.md` | yes | pass |
 | Parent-System Relationship | approved | primary_only | cluster_member | `core_05defs_participation.md` | yes | pass |
-| Participation | approved | primary_only | — | `—` | — | — |
+| Participation | approved | primary_only | tetrad_leg_head | `core_05apex_participation_leg.md` | no | pass |
 | Privacy (Informational) | approved | full | cluster_member | `core_05defs_continuity.md` | yes | pass |
 | Procedural Fairness | approved | primary_secondary | cluster_member | `core_05defs_participation.md` | yes | pass |
 | Protected Characteristic Proxying and Disparate Impact | approved | full | cluster_member | `core_05defs_participation.md` | yes | pass |
 | Protected Characteristics | approved | primary_only | cluster_member | `core_05defs_participation.md` | yes | pass |
-| Protected Commercial Sexual Services Status and Article X-C Circumvention | approved | primary_only | — | `—` | — | — |
+| Protected Commercial Sexual Services Status and **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) Circumvention | approved | primary_only | cluster_member | `core_05defs_participation.md` | yes | pass |
 | Protected Internal-State Boundary | approved | primary_secondary | cluster_member | `core_05defs_continuity.md` | yes | pass |
 | Protected Intimate-Signal Gating | approved | primary_only | cluster_member | `core_05defs_participation.md` | yes | pass |
 | Refuge from Non-Compliance | approved | primary_only | cluster_member | `core_05defs_participation.md` | yes | pass |
@@ -156,7 +156,7 @@ Approved progress: **208/213** terms pass tier audit.
 | Foreseeability Scope | approved | primary_only | cluster_member | `core_05defs_oversight.md` | yes | pass |
 | High-Impact and Systemic Harm Publication Constraint | approved | primary_only | cluster_member | `core_05defs_oversight.md` | yes | pass |
 | Observability | approved | primary_only | cluster_member | `core_05defs_oversight.md` | yes | pass |
-| Oversight | approved | primary_only | — | `—` | — | — |
+| Oversight | approved | primary_only | tetrad_leg_head | `core_05apex_oversight_leg.md` | no | pass |
 | Press and Journalistic Activity | approved | primary_only | cluster_member | `core_05defs_oversight.md` | yes | pass |
 | Protected Data and Internal-State Publication Constraint | approved | primary_only | cluster_member | `core_05defs_oversight.md` | yes | pass |
 | Proxy Divergence | approved | full | measurement_family_member | `core_05defs_oversight.md` | yes | pass |
@@ -182,11 +182,10 @@ Approved progress: **208/213** terms pass tier audit.
 
 | Term | Status | Tier depth | Aim role | File | Has measurements | Audit |
 | --- | --- | --- | --- | --- | --- | --- |
-| Accountability | approved | primary_only | — | `core_05defs_accountability.md` | no | fail |
+| Accountability | approved | primary_only | tetrad_leg_head | `core_05apex_accountability_leg.md` | no | pass |
 | Adjudication and Dispute Resolution | approved | primary_only | cluster_member | `core_05defs_accountability.md` | yes | pass |
 | Collective Accountability Failure | approved | primary_only | cluster_member | `core_05defs_accountability.md` | yes | pass |
 | Competency Gate | approved | primary_only | cluster_member | `core_05defs_accountability.md` | yes | pass |
-| Concentration Threshold | approved | primary_secondary | cluster_member | `core_05defs_accountability.md` | yes | pass |
 | Constitutional Constraint | approved | primary_only | cluster_member | `core_05defs_integrative.md` | yes | pass |
 | Constitutional Contract Layer | approved | primary_only | independent | `core_05defs_integrative.md` | yes | pass |
 | Constitutional Owner Layers | approved | primary_only | cluster_member | `core_05defs_integrative.md` | yes | pass |
@@ -214,6 +213,7 @@ Approved progress: **208/213** terms pass tier audit.
 | Incentive Alignment — contingent claims, games of chance, and event-contract markets | approved | primary_only | cluster_member | `core_05defs_integrative.md` | yes | pass |
 | Innovation Reward and Anti-Enclosure | approved | primary_only | cluster_member | `core_05defs_integrative.md` | yes | pass |
 | Insider Advantage | approved | primary_only | cluster_member | `core_05defs_accountability.md` | yes | pass |
+| Market Concentration Threshold | approved | primary_secondary | cluster_member | `core_05defs_accountability.md` | yes | pass |
 | Market Structure | approved | full | cluster_member | `core_05defs_accountability.md` | yes | pass |
 | Merits Determination | approved | primary_only | cluster_member | `core_05defs_accountability.md` | yes | pass |
 | Necessity | approved | primary_only | cluster_member | `core_05defs_accountability.md` | yes | pass |
@@ -244,7 +244,7 @@ Approved progress: **208/213** terms pass tier audit.
 | Term | Status | Tier depth | Aim role | File | Has measurements | Audit |
 | --- | --- | --- | --- | --- | --- | --- |
 | Capture of Resolution Pathways | approved | full | cluster_member | `core_05defs_accountability.md` | yes | pass |
-| Timeliness | approved | primary_only | — | `core_05defs_accountability.md` | no | fail |
+| Timeliness | approved | primary_only | tetrad_leg_head | `core_05apex_timeliness_leg.md` | no | pass |
 | Timely Resolution | approved | full | cluster_member | `core_05defs_accountability.md` | yes | pass |
 
 ## 3.8 Constitutional performance

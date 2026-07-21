@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-07-20T16:48:11+00:00",
+  "generated_at": "2026-07-21T09:59:41+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -728,7 +728,7 @@
           },
           {
             "file": "core_01_c_stewardship_capacity_principles.md",
-            "count": 19,
+            "count": 21,
             "anchors": [
               "#10-governance-under-stewardship-discipline",
               "#11-incentive-alignment-and-system-capture",
@@ -740,7 +740,8 @@
               "#14-systemic-evaluation-requirement",
               "#15-integrated-application",
               "#9-stewardship-and-distributed-understanding",
-              "#91-stewardship"
+              "#91-stewardship",
+              "#95-aligned-self-organization"
             ]
           },
           {
@@ -1079,7 +1080,7 @@
               "#15-integrated-application",
               "#9-stewardship-and-distributed-understanding",
               "#91-stewardship",
-              "#95-process-character-discipline"
+              "#96-process-character-discipline"
             ]
           },
           {
@@ -1338,7 +1339,7 @@
           },
           {
             "file": "core_01_a_values_principles.md",
-            "count": 20,
+            "count": 22,
             "anchors": [
               "#1-purpose-and-role",
               "#2-foundational-objective-wellbeing",
@@ -1346,7 +1347,8 @@
               "#31-safety-harm-constraint",
               "#32-truth-epistemic-integrity-constraint",
               "#4-system-stability-enabler-trust-coordination-integrity",
-              "#5-freedom-bounded-agency"
+              "#5-freedom-bounded-agency",
+              "#53-assembly-collective-organization-and-institutional-formation"
             ]
           },
           {
@@ -1377,6 +1379,13 @@
             "file": "core_02-03_definition_mechanics.md",
             "count": 2,
             "anchors": []
+          },
+          {
+            "file": "core_04-04_burden_traceability_verification.md",
+            "count": 2,
+            "anchors": [
+              "#chapter-four-burden-of-proof-traceability-and-verification"
+            ]
           },
           {
             "file": "core_05apex_accountability_leg.md",
@@ -1414,14 +1423,11 @@
           },
           {
             "file": "core_05defs_accountability.md",
-            "count": 159,
+            "count": 180,
             "anchors": [
               "#capture-of-resolution-pathways",
               "#capture-of-resolution-pathways-a",
               "#capture-of-resolution-pathways-c",
-              "#concentration-threshold-constitutional",
-              "#concentration-threshold-constitutional-a",
-              "#concentration-threshold-constitutional-c",
               "#contestability",
               "#contestability-a",
               "#contestability-c",
@@ -1450,16 +1456,26 @@
               "#irreversible-harm",
               "#irreversible-harm-a",
               "#irreversible-harm-c",
+              "#market-concentration-threshold-constitutional",
+              "#market-concentration-threshold-constitutional-a",
+              "#market-concentration-threshold-constitutional-c",
               "#market-structure-constitutional",
               "#market-structure-constitutional-a",
               "#market-structure-constitutional-c",
               "#meaningful-agency-o",
+              "#merits-determination",
+              "#merits-determination-a",
+              "#merits-determination-c",
               "#necessity",
               "#necessity-a",
               "#necessity-c",
               "#proportionality",
               "#proportionality-a",
-              "#proportionality-c"
+              "#proportionality-c",
+              "#protected-reporting-retaliation-and-access-interference",
+              "#protected-reporting-whistleblowing",
+              "#protected-reporting-whistleblowing-a",
+              "#protected-reporting-whistleblowing-c"
             ]
           },
           {
@@ -1534,7 +1550,7 @@
           },
           {
             "file": "core_05defs_oversight.md",
-            "count": 105,
+            "count": 114,
             "anchors": [
               "#auditability",
               "#auditability-a",
@@ -1546,6 +1562,12 @@
               "#epistemic-integrity-a",
               "#epistemic-integrity-c",
               "#epistemic-integrity-o",
+              "#evidence-preservation",
+              "#evidence-preservation-a",
+              "#evidence-preservation-c",
+              "#foreseeability-diligence-a",
+              "#foreseeability-diligence-and-reasonably-foreseeable",
+              "#foreseeability-diligence-c",
               "#materiality-determination",
               "#materiality-determination-a",
               "#materiality-determination-c",
@@ -1566,11 +1588,12 @@
           },
           {
             "file": "core_05defs_participation.md",
-            "count": 65,
+            "count": 72,
             "anchors": [
               "#accessibility-constitutional",
               "#accessibility-constitutional-a",
               "#accessibility-constitutional-c",
+              "#assembly-constitutional",
               "#coercion-and-manipulation-constitutional",
               "#coercion-and-manipulation-constitutional-a",
               "#coercion-and-manipulation-constitutional-c",
@@ -1583,7 +1606,11 @@
               "#meaningful-agency",
               "#meaningful-agency-a",
               "#meaningful-agency-c",
-              "#stakeholder-status-emergency-and-participation-weight-cluster"
+              "#procedural-fairness-constitutional",
+              "#stakeholder-status-emergency-and-participation-weight-cluster",
+              "#system-creation-constitutional",
+              "#system-creation-constitutional-a",
+              "#system-creation-constitutional-c"
             ]
           },
           {
@@ -1609,7 +1636,7 @@
           },
           {
             "file": "core_06-06_rights_part_c.md",
-            "count": 27,
+            "count": 28,
             "anchors": [
               "#article-xii-d-incentive-alignment-constraint",
               "#article-xiv-info-sphere-integrity",
@@ -1989,8 +2016,9 @@
           },
           {
             "file": "core_05_definitions_home.md",
-            "count": 2,
+            "count": 3,
             "anchors": [
+              "#1-independent-definitions",
               "#joint-invocation-and-satisfaction",
               "#standalone-definitions-interaction-and-full-context"
             ]
@@ -2058,7 +2086,6 @@
               "#collective-harm-boundary-and-harm-cluster",
               "#combatant-non-combatant-distinction-constitutional",
               "#competency-gate",
-              "#concentration-threshold-constitutional",
               "#contestability",
               "#contingent-claim",
               "#contribution-state",
@@ -2084,6 +2111,7 @@
               "#insider-advantage",
               "#irreversible-deprivation-measure-constitutional",
               "#irreversible-harm",
+              "#market-concentration-threshold-constitutional",
               "#market-structure-constitutional",
               "#merits-determination",
               "#necessity",
@@ -2373,9 +2401,9 @@
               "#accountability-independent-terms",
               "#accountability-semi-independent-terms",
               "#collective-harm-boundary-and-harm-cluster",
-              "#concentration-threshold-constitutional",
               "#contestability",
               "#forum-families-and-dispute-routing-cluster",
+              "#market-concentration-threshold-constitutional",
               "#market-structure-constitutional",
               "#protected-reporting-whistleblowing",
               "#redress-and-remediation-constitutional",
@@ -2940,7 +2968,7 @@
           },
           {
             "file": "core_01_c_stewardship_capacity_principles.md",
-            "count": 30,
+            "count": 35,
             "anchors": [
               "#10-governance-as-authorized-structure",
               "#10-governance-under-stewardship-discipline",
@@ -2948,10 +2976,11 @@
               "#115-contingent-claims-games-of-chance-and-event-contract-markets",
               "#121-productive-capacity-instrumental-good",
               "#13-market-structure",
-              "#131-concentration-threshold-mechanism-adopter-tunable",
+              "#131-market-concentration-threshold-mechanism-adopter-tunable",
               "#132-pro-competition-and-anti-domination",
               "#133-consolidation-ceiling",
-              "#15-integrated-application"
+              "#15-integrated-application",
+              "#95-aligned-self-organization"
             ]
           },
           {
@@ -2965,15 +2994,16 @@
           },
           {
             "file": "core_05_definitions_home.md",
-            "count": 5,
+            "count": 6,
             "anchors": [
+              "#chapter-five-compass-and-definition-map",
               "#chapter-five-foundational-definitions",
               "#joint-invocation-and-satisfaction"
             ]
           },
           {
             "file": "core_05apex_accountability_leg.md",
-            "count": 61,
+            "count": 59,
             "anchors": [
               "#6-process-conflict-resolution",
               "#631-rights-collision-decision-test",
@@ -2992,15 +3022,14 @@
           },
           {
             "file": "core_05apex_timeliness_leg.md",
-            "count": 8,
+            "count": 7,
             "anchors": [
-              "#timeliness-constitutional",
-              "#timeliness-tetrad-leg-decomposition"
+              "#timeliness-constitutional"
             ]
           },
           {
             "file": "core_05defs_accountability.md",
-            "count": 451,
+            "count": 452,
             "anchors": [
               "#accountability-contestability-semi-independent",
               "#adjudication-and-dispute-resolution-constitutional",
@@ -3012,7 +3041,6 @@
               "#collective-harm-boundary-and-harm-cluster",
               "#combatant-non-combatant-distinction-constitutional",
               "#competency-gate",
-              "#concentration-threshold-constitutional",
               "#contestability",
               "#contingent-claim",
               "#contribution-state",
@@ -3036,6 +3064,7 @@
               "#insider-advantage",
               "#irreversible-deprivation-measure-constitutional",
               "#irreversible-harm",
+              "#market-concentration-threshold-constitutional",
               "#market-structure-constitutional",
               "#merits-determination",
               "#necessity",
@@ -3067,13 +3096,12 @@
           },
           {
             "file": "core_05defs_continuity.md",
-            "count": 136,
+            "count": 129,
             "anchors": [
               "#avoidable-burden",
               "#cascading-failure",
               "#constitutional-efficiency",
               "#dependency",
-              "#distributed-understanding-constitutional",
               "#ecological-integrity-constitutional",
               "#emergency-and-contingency-constitutional",
               "#environmental-preconditions-constitutional",
@@ -3089,9 +3117,7 @@
               "#self-healing-constitutional",
               "#short-horizon-governance-defect-constitutional",
               "#stewardship-constitutional",
-              "#stewardship-defect-constitutional",
               "#stewardship-governance-discipline-and-shared-system-capacity-cluster",
-              "#strategic-stewardship-obligation-constitutional",
               "#system-boundaries",
               "#system-boundary-integrity",
               "#system-capture",
@@ -3216,7 +3242,7 @@
           },
           {
             "file": "core_08-08_standing_assessment.md",
-            "count": 39,
+            "count": 37,
             "anchors": [
               "#2-purpose-and-role",
               "#2-standing-records",
@@ -3234,7 +3260,7 @@
           },
           {
             "file": "core_09-09_standing_integration.md",
-            "count": 14,
+            "count": 13,
             "anchors": [
               "#1-immutable-chapter-eight-inputs",
               "#3-descriptor-integration-and-attachment-normalization",
@@ -3363,7 +3389,7 @@
               "#121-productive-capacity-instrumental-good",
               "#122-constitutional-efficiency",
               "#13-market-structure",
-              "#131-concentration-threshold-mechanism-adopter-tunable",
+              "#131-market-concentration-threshold-mechanism-adopter-tunable",
               "#133-consolidation-ceiling",
               "#9-stewardship-and-distributed-understanding",
               "#92-distributed-understanding",
@@ -3389,10 +3415,9 @@
           },
           {
             "file": "core_05apex_continuity_aim.md",
-            "count": 3,
+            "count": 1,
             "anchors": [
-              "#continuity-aim-constitutional",
-              "#continuity-aim-decomposition"
+              "#continuity-aim-constitutional"
             ]
           },
           {
@@ -3422,7 +3447,6 @@
             "anchors": [
               "#accountability-contestability-semi-independent",
               "#capture-of-resolution-pathways",
-              "#concentration-threshold-constitutional",
               "#contestability",
               "#feasibility",
               "#force-majeure-constitutional",
@@ -3433,6 +3457,7 @@
               "#harm-minimization-tradeoff-selection",
               "#irreversible-deprivation-measure-constitutional",
               "#irreversible-harm",
+              "#market-concentration-threshold-constitutional",
               "#necessity",
               "#privacy-informational-cluster",
               "#proportionality",
@@ -3956,8 +3981,9 @@
           },
           {
             "file": "core_05_definitions_home.md",
-            "count": 4,
+            "count": 5,
             "anchors": [
+              "#chapter-five-compass-and-definition-map",
               "#chapter-five-foundational-definitions",
               "#joint-invocation-and-satisfaction"
             ]
@@ -3971,7 +3997,7 @@
           },
           {
             "file": "core_05apex_oversight_leg.md",
-            "count": 24,
+            "count": 23,
             "anchors": [
               "#6-process-conflict-resolution",
               "#oversight-constitutional",
@@ -4147,8 +4173,10 @@
           },
           {
             "file": "core_05_definitions_home.md",
-            "count": 5,
+            "count": 7,
             "anchors": [
+              "#1-independent-definitions",
+              "#chapter-five-compass-and-definition-map",
               "#chapter-five-foundational-definitions",
               "#joint-invocation-and-satisfaction"
             ]
@@ -4161,16 +4189,8 @@
             ]
           },
           {
-            "file": "core_05apex_flourishing_aim.md",
-            "count": 2,
-            "anchors": [
-              "#flourishing-aim-decomposition",
-              "#flourishing-constitutional"
-            ]
-          },
-          {
             "file": "core_05apex_participation_leg.md",
-            "count": 13,
+            "count": 12,
             "anchors": [
               "#6-process-conflict-resolution",
               "#631-rights-collision-decision-test",
@@ -4465,8 +4485,7 @@
             "file": "core_07_a_system_alignment_certification_evaluation.md",
             "count": 2,
             "anchors": [
-              "#3-whole-system-certification-evaluation",
-              "#chapter-seven-part-a-certification-evaluation"
+              "#3-whole-system-certification-evaluation"
             ]
           }
         ]
@@ -5013,15 +5032,14 @@
           },
           {
             "file": "core_07_a_system_alignment_certification_evaluation.md",
-            "count": 2,
+            "count": 1,
             "anchors": [
-              "#chapter-seven-part-a-certification-evaluation",
               "#chapter-seven-system-alignment-certification"
             ]
           },
           {
             "file": "core_07_b_system_alignment_certification_record_process.md",
-            "count": 1,
+            "count": 2,
             "anchors": [
               "#15-relationship-to-standing"
             ]
@@ -5324,7 +5342,7 @@
             "anchors": [
               "#11-incentive-alignment-and-system-capture",
               "#121-productive-capacity-instrumental-good",
-              "#131-concentration-threshold-mechanism-adopter-tunable",
+              "#131-market-concentration-threshold-mechanism-adopter-tunable",
               "#132-pro-competition-and-anti-domination",
               "#133-consolidation-ceiling"
             ]
@@ -5361,7 +5379,6 @@
               "#collective-accountability-failure",
               "#collective-accountability-failure-a",
               "#collective-accountability-failure-c",
-              "#concentration-threshold-constitutional",
               "#contestability",
               "#contestability-a",
               "#contestability-c",
@@ -5371,6 +5388,7 @@
               "#harm",
               "#harm-a",
               "#harm-c",
+              "#market-concentration-threshold-constitutional",
               "#necessity",
               "#necessity-a",
               "#necessity-c",
@@ -5923,7 +5941,7 @@
               "#1113-stewardship-and-operator-application",
               "#116-successor-responsibility-and-formal-structure-non-escape",
               "#12-shared-system-capacity",
-              "#131-concentration-threshold-mechanism-adopter-tunable",
+              "#131-market-concentration-threshold-mechanism-adopter-tunable",
               "#14-systemic-evaluation-requirement",
               "#9-stewardship-and-distributed-understanding",
               "#92-distributed-understanding"
@@ -6217,7 +6235,7 @@
               "#11-incentive-alignment-and-system-capture",
               "#121-productive-capacity-instrumental-good",
               "#13-market-structure",
-              "#131-concentration-threshold-mechanism-adopter-tunable",
+              "#131-market-concentration-threshold-mechanism-adopter-tunable",
               "#15-integrated-application"
             ]
           },
@@ -6933,7 +6951,7 @@
               "#10-governance-under-stewardship-discipline",
               "#122-constitutional-efficiency",
               "#15-integrated-application",
-              "#95-process-character-discipline"
+              "#96-process-character-discipline"
             ]
           },
           {
@@ -8821,7 +8839,7 @@
             "count": 17,
             "anchors": [
               "#13-market-structure",
-              "#131-concentration-threshold-mechanism-adopter-tunable",
+              "#131-market-concentration-threshold-mechanism-adopter-tunable",
               "#132-pro-competition-and-anti-domination",
               "#1322-anti-domination-prohibitions-donts",
               "#1323-remedies",
@@ -8866,13 +8884,13 @@
             "file": "core_05defs_accountability.md",
             "count": 52,
             "anchors": [
-              "#concentration-threshold-constitutional",
               "#contestability",
               "#contestability-a",
               "#contestability-c",
               "#governance",
               "#governance-a",
               "#governance-c",
+              "#market-concentration-threshold-constitutional",
               "#market-structure-constitutional",
               "#necessity",
               "#necessity-a",
@@ -8984,7 +9002,7 @@
             "file": "corpus_joint_structure/cjs_05a_accountability_operations.md",
             "count": 5,
             "anchors": [
-              "#cjs-5111-concentration-threshold-setting-discipline-adopter-tunable",
+              "#cjs-5111-market-concentration-threshold-setting-discipline-adopter-tunable",
               "#cjs-5112-anti-domination-conduct-and-remediation-catalog",
               "#cjs-5113-consolidation-ceiling-setting-discipline-adopter-tunable"
             ]
@@ -10723,15 +10741,15 @@
             "file": "core_05defs_accountability.md",
             "count": 53,
             "anchors": [
-              "#concentration-threshold-constitutional",
-              "#concentration-threshold-constitutional-a",
-              "#concentration-threshold-constitutional-c",
               "#contestability",
               "#contestability-a",
               "#contestability-c",
               "#governance",
               "#governance-a",
               "#governance-c",
+              "#market-concentration-threshold-constitutional",
+              "#market-concentration-threshold-constitutional-a",
+              "#market-concentration-threshold-constitutional-c",
               "#necessity",
               "#necessity-a",
               "#necessity-c",

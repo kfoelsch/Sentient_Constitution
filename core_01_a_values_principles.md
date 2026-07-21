@@ -672,7 +672,7 @@ Whole-system evaluations must test these conditions under [Chapter Seven §16.4 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-*Definition home.* Chapter Five [§3.5 Assembly, Collective Organization, and Institutional Formation](core_05defs_participation.md#assembly-collective-organization-institutional-formation-cluster) is the cluster-head home. Read with **Article V-H** (*Expression, Assembly, and Press*) (assembly) and **Article III-D** (*Labor and Economic Floor*) (collective organization within the labor and economic floor).
+*Definition home.* Chapter Five [§3.5 Assembly, Collective Organization, and Institutional Formation](core_05defs_participation.md#assembly-collective-organization-institutional-formation-cluster) is the cluster-head home. Read with **Article V-H** (*Expression, Assembly, and Press*) (assembly), **Article III-D** (*Labor and Economic Floor*) (collective organization within the labor and economic floor), and [§9.5 Aligned Self-Organization](core_01_c_stewardship_capacity_principles.md#95-aligned-self-organization) (the procedural path for sentient-initiated and community-initiated constitutional stewardship).
 
 - [Assembly](core_05defs_participation.md#assembly-constitutional) · [O](core_05defs_participation.md#assembly-constitutional) · [A](core_05defs_participation.md#assembly-constitutional-a) · [C](core_05defs_participation.md#assembly-constitutional-c)
 - [Collective Organization](core_05defs_participation.md#collective-organization-constitutional) · [O](core_05defs_participation.md#collective-organization-constitutional) · [A](core_05defs_participation.md#collective-organization-constitutional-a) · [C](core_05defs_participation.md#collective-organization-constitutional-c)
@@ -690,6 +690,8 @@ Whole-system evaluations must test these conditions under [Chapter Seven §16.4 
 A matter within the [Assembly, Collective Organization, and Institutional Formation cluster](core_05defs_participation.md#assembly-collective-organization-institutional-formation-cluster) admission scope must not be segmented into separate civic-association, labor-organization, platform-access, or authorization framings in a way that preserves formal access while defeating assembly or collective-organization protection.
 
 **Where the full rules live.** The detailed definitions for this topic are in Chapter Five [§3.5 Assembly, Collective Organization, and Institutional Formation](core_05defs_participation.md#assembly-collective-organization-institutional-formation-cluster).
+
+**From formation to consequential stewardship.** Freedom to assemble or create a system includes a real path to initiate constitutionally legitimate work without incumbent sponsorship. [Aligned Self-Organization](core_01_c_stewardship_capacity_principles.md#95-aligned-self-organization) governs when credible, materially relevant work receives procedural constitutional effect and preserves the separate authorization boundary for governing or merits authority.
 
 **Which rights articles still control.** **Article V-H** (*Expression, Assembly, and Press*) (assembly) and **Article III-D** (*Labor and Economic Floor*) (collective organization in labor and economic contexts) remain the controlling Rights-Floor provisions within their scopes.
 

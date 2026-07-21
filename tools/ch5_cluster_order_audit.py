@@ -61,10 +61,10 @@ EXPECTED_TOPIC_GROUPS: dict[str, list[str]] = {
         "Non-Statelessness",
     ],
     "#### Governance architecture, decentralization, and concentration": [
-        "Market Structure",
         "Governance",
         "Decentralization",
-        "Concentration Threshold",
+        "Market Structure",
+        "Market Concentration Threshold",
     ],
 }
 
