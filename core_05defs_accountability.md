@@ -1078,9 +1078,24 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
 
 <br>
 
-This cluster is the joint-invocation home for harm, the boundary at which one sentient's, collective's, or system's freedom of action must yield to verifiable harm affecting another sentient's protected interests or constitutionally protected shared conditions, and [Harassment and Bullying](core_05defs_accountability.md#harassment-and-bullying) as the patterned-conduct construct for unwanted conduct that materially degrades protected conditions in associational, institutional, dependency, and comparable cooperative settings. It keeps [Harm](core_05defs_accountability.md#harm) as the general degradation concept and [Collective Harm Boundary](core_05defs_accountability.md#collective-harm-boundary) as the interaction-boundary rule, while preventing harm analysis from being separated from the boundary question — or from harassment and bullying assessment where materially implicated — where conduct affects others through direct, indirect, delayed, cumulative, cross-system, or collective pathways.
+This cluster is the joint-invocation home for:
 
-**Admission scope.** This cluster applies where a matter materially concerns harmful effects, claimed harmlessness, collective or distributed harm, competing freedom or non-imposition claims, shared-resource or info-sphere harms, systemic harm pathways, harassment or bullying or hostile-environment degradation, or the point at which protected action must be limited, contained, remediated, or redirected because it materially affects another sentient's protected interests or constitutionally protected shared conditions. Outside that admission scope, component definitions may still operate as supporting Independent Definitions without importing the whole cluster.
+- [Harm](core_05defs_accountability.md#harm), as the general degradation concept;
+- [Collective Harm Boundary](core_05defs_accountability.md#collective-harm-boundary), as the defined limit on freedom of action: the point where one sentient's, collective's, or system's freedom of action must yield to verifiable harm affecting another sentient's protected interests or constitutionally protected shared conditions; and
+- [Harassment and Bullying](core_05defs_accountability.md#harassment-and-bullying), as the patterned-conduct construct for unwanted conduct that materially degrades protected conditions in associational, institutional, dependency, and comparable cooperative settings.
+
+These definitions do different jobs, but they must be considered together when needed. When conduct harms others — whether directly, indirectly, over time, through accumulated effects, across systems, or at a collective level — the harm analysis must also ask whether the conduct crosses the [Collective Harm Boundary](core_05defs_accountability.md#collective-harm-boundary) and, where relevant, whether it amounts to harassment or bullying.
+
+**Admission scope.** This cluster applies where a matter materially concerns:
+
+- harmful effects or claimed harmlessness;
+- collective or distributed harm;
+- competing freedom or non-imposition claims;
+- shared-resource, info-sphere, or systemic harm pathways;
+- harassment, bullying, or hostile-environment degradation; or
+- the point at which protected action must be limited, contained, remediated, or redirected because it materially affects another sentient's protected interests or constitutionally protected shared conditions.
+
+Outside that admission scope, component definitions may still operate as supporting Independent Definitions without importing the whole cluster.
 
 **Cluster members.** This cluster comprises:
 
@@ -1090,7 +1105,16 @@ This cluster is the joint-invocation home for harm, the boundary at which one se
 - [Irreversible Harm](core_05defs_accountability.md#irreversible-harm);
 - [Harassment and Bullying](core_05defs_accountability.md#harassment-and-bullying).
 
-**Joint invocation and anti-bypass.** Under [Joint invocation and satisfaction](core_05_definitions_home.md#joint-invocation-and-satisfaction), a matter within the admission scope must not be segmented into separate individual-harm, collective-harm, harassment-and-bullying, non-imposition, materiality, freedom-limitation, or remediation questions in a way that recognizes a harm pathway while avoiding the boundary rule, or invokes the boundary rule while understating harm, or isolates generic [Harm](core_05defs_accountability.md#harm) or the boundary rule from [Harassment and Bullying](core_05defs_accountability.md#harassment-and-bullying) where patterned unwanted conduct is materially in play. Offense, preference, discomfort, or disagreement alone is not sufficient without a material harm pathway. Conversely, a formally private, local, expressive, commercial, technical, or collective practice is not outside this cluster where direct, indirect, delayed, cumulative, cross-system, info-sphere, ecological, wellbeing, or agency effects materially degrade protected interests or shared constitutional conditions.
+**Joint invocation and anti-bypass.** Under [Joint invocation and satisfaction](core_05_definitions_home.md#joint-invocation-and-satisfaction), a matter within the admission scope must not be split into separate individual-harm, collective-harm, harassment-and-bullying, non-imposition, materiality, freedom-limitation, or remediation questions in a way that:
+
+- recognizes a harm pathway while avoiding the [Collective Harm Boundary](core_05defs_accountability.md#collective-harm-boundary);
+- invokes the [Collective Harm Boundary](core_05defs_accountability.md#collective-harm-boundary) while understating the harm; or
+- separates generic [Harm](core_05defs_accountability.md#harm) or the [Collective Harm Boundary](core_05defs_accountability.md#collective-harm-boundary) from [Harassment and Bullying](core_05defs_accountability.md#harassment-and-bullying) when patterned unwanted conduct is materially involved.
+
+The following limits also apply:
+
+- Offense, preference, discomfort, or disagreement alone is not sufficient without a material harm pathway.
+- A practice can still fall under this cluster even if it is described as private, local, expressive, commercial, technical, or collective. What matters is its real effect. The cluster applies when the practice causes material harm to protected interests or shared constitutional conditions — whether the harm is direct or indirect, appears later or builds over time, crosses systems, or affects the info-sphere, environment, wellbeing, or agency.
 
 ---
 
@@ -1122,8 +1146,8 @@ This cluster is the joint-invocation home for harm, the boundary at which one se
     **Secondary assessment:** When evaluating the primary trace, apply [Materiality Determination](core_05defs_oversight.md#materiality-determination), [Safety (Constraint)](core_05defs_continuity.md#safety-constraint), and [Risk](core_05defs_continuity.md#risk) to aggregation and distribution effects.
 <a id="harm-c"></a>
 - **What must hold**
-  - **Primary failure:** excluding harm because it is spread across sentients or effects, when [Materiality Determination](core_05defs_oversight.md#materiality-determination) would treat the combined effect as material.
-  - **Secondary failure:** treating harm to individuals as immaterial when collective, cumulative, or systemic analysis would make the pathway material under [Safety (Constraint)](core_05defs_continuity.md#safety-constraint) or [Risk](core_05defs_continuity.md#risk).
+  - **Primary failure:** dismissing harm because it is spread across many sentients or effects, even though [Materiality Determination](core_05defs_oversight.md#materiality-determination) would find the combined harm serious enough to count.
+  - **Secondary failure:** dismissing harm to individuals without considering whether its collective, accumulated, or system-wide effects create a material harm pathway under [Safety (Constraint)](core_05defs_continuity.md#safety-constraint) or [Risk](core_05defs_continuity.md#risk).
 
 ---
 
@@ -1160,7 +1184,7 @@ This cluster is the joint-invocation home for harm, the boundary at which one se
 *In plain terms: psychological harm is a material injury to how a sentient thinks, feels, relates, or exercises agency. Ordinary discomfort is not enough.*
 
 - **What it is**
-  - **In scope:** Material injury, destabilization, or worsening of a sentient's cognitive, emotional, or relational integrity caused by system behavior. Causes include institutional process, coercion, manipulation, intimidation, neglect, and prolonged harmful conditions. Trauma and cumulative stress are included.
+  - **In scope:** Material injury, destabilization, or worsening of a sentient's cognitive, emotional, or relational integrity caused by sentient or system behavior. Causes include institutional process, coercion, manipulation, intimidation, neglect, and prolonged harmful conditions. Trauma and cumulative stress are included.
   - **Out of scope:** A label or nominal treatment with no functional effect, and ordinary discomfort that does not materially affect protected conditions.
 <a id="psychological-harm-a"></a>
 - **How to measure and assess**
@@ -1201,8 +1225,8 @@ This cluster is the joint-invocation home for harm, the boundary at which one se
     **Secondary assessment:** When evaluating the primary trace, include [Harm](core_05defs_accountability.md#harm), [Risk](core_05defs_continuity.md#risk), and [Existential Risk](core_05defs_continuity.md#existential-risk) pathways that trigger highest constraint thresholds.
 <a id="irreversible-harm-c"></a>
 - **What must hold**
-  - **Primary failure:** proceeding without the highest constraint thresholds when irreversibility within relevant timescales is reasonably possible.
-  - **Secondary failure:** calling harm irreversible when recovery at scale is feasible without justification, or calling irreversible harm recoverable based on proxy or delayed-remediation claims.
+  - **Primary failure:** moving forward without the strictest safeguards when there is a reasonable chance that the harm cannot be reversed in time.
+  - **Secondary failure:** calling harm irreversible when large-scale recovery is realistically possible, without explaining why; or treating truly irreversible harm as recoverable based only on substitutes or promises of later repair.
 
 ---
 
@@ -1223,16 +1247,43 @@ This cluster is the joint-invocation home for harm, the boundary at which one se
 *In plain terms: harassment and bullying are unwanted acts or conditions that, through repetition, coordination, power, or severity, materially make a setting unsafe, degrading, or hard to participate in.*
 
 - **What it is**
-  - **In scope:** Unwanted conduct that targets a sentient or shapes an environment and forms a material pattern. It must degrade dignity, safety, equal standing or participation, wellbeing, rest, education, or [Meaningful Agency](core_05defs_participation.md#meaningful-agency) in associational, institutional, dependency, productive-activity, care, household, digital, or similar cooperative settings. A pattern may come from repeated acts, coordinated conduct, misuse of a role, captive channels, designed conditions, or cumulative hostile-environment effects.
+  - **In scope:** Unwanted conduct that:
+    - targets a sentient or shapes an environment;
+    - forms a material pattern; and
+    - degrades dignity, safety, equal standing or participation, wellbeing, rest, education, or [Meaningful Agency](core_05defs_participation.md#meaningful-agency) in an associational, institutional, dependency, productive-activity, care, household, digital, or similar cooperative setting.
+
+    A pattern may come from repeated acts, coordinated conduct, misuse of a role, captive channels, designed conditions, or cumulative hostile-environment effects.
   - **Out of scope:** A label or nominal treatment with no functional effect.
 <a id="harassment-and-bullying-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Flourishing measurement family and Accountability measurement family — supporting measure where multiple measurement families co-apply.
 
-    **Primary assessment:** Weigh how long and how intensely the conduct continues; humiliation or intimidation; credible threats; targeting by protected characteristic or proxy; audience and amplification; unequal power; role or dependency; practical exit cost; channel control; foreseeable retaliation; and whether avoidance or response is feasible. One act may be material when severity, threat, exposure, or unequal power makes the harm pathway clear. Otherwise assess cumulative and hostile-environment effects under [Collective Harm Boundary](core_05defs_accountability.md#collective-harm-boundary).
+    **Primary assessment:** Consider:
+
+    - how long and how intensely the conduct continues;
+    - humiliation or intimidation;
+    - credible threats;
+    - targeting by protected characteristic or proxy;
+    - audience and amplification;
+    - unequal power;
+    - role or dependency;
+    - practical exit cost;
+    - channel control;
+    - foreseeable retaliation; and
+    - whether avoiding or responding to the conduct is feasible.
+
+    One act may be material when its severity, threat, exposure, or unequal power makes the harm pathway clear. Otherwise, assess its cumulative and hostile-environment effects under [Collective Harm Boundary](core_05defs_accountability.md#collective-harm-boundary).
 <a id="harassment-and-bullying-c"></a>
 - **What must hold**
-  - It is non-compliant to defeat a finding by pointing to formal rule compliance, "just jokes," an available public channel, a nominal opt-out, or the lack of one decisive act when the pattern materially degrades protected conditions. It is also non-compliant to split up a course of conduct to avoid cumulative assessment, or to use speech, association, discipline, moderation, caregiving, or operational authority as a pretext for materially degrading unwanted conduct.
+  - A pattern that materially degrades protected conditions cannot be excused by pointing to:
+    - formal rule compliance;
+    - "just jokes";
+    - an available public channel;
+    - a nominal opt-out; or
+    - the lack of one decisive act.
+  - It is also non-compliant to:
+    - split up a course of conduct to avoid cumulative assessment; or
+    - use speech, association, discipline, moderation, caregiving, or operational authority as a pretext for materially degrading unwanted conduct.
 
 ---
 
@@ -1252,9 +1303,17 @@ This cluster is the joint-invocation home for harm, the boundary at which one se
 <br>
 
 
-This cluster is the joint-invocation home for the six constitutional forum families and primary-stakes routing discipline stated in Chapter Eleven, read together with adjudication and dispute-resolution hooks where venue, certification, or cross-family coordination is materially implicated.
+This cluster brings together the six constitutional forum families and the Chapter Eleven rules for deciding where a case should go based on what is mainly at stake. It must also be read with the adjudication and dispute-resolution rules when deciding venue, formally referring a question, or coordinating across forum families.
 
-**Admission scope.** This cluster applies where a matter materially concerns default venue, primary-stakes characterization, family-to-family transfer or certification, anti-self-judging backup routing, or which forum family’s intake and merits rules govern. Outside that admission scope, individual forum-family entries may still be cited as supporting Independent Definitions without importing the whole cluster.
+**Admission scope.** This cluster applies when a matter raises important questions about:
+
+- the default venue;
+- what is mainly at stake;
+- transfer or formal referral between forum families;
+- backup routing that prevents a forum from judging its own matter; or
+- which forum family’s intake rules and rules for deciding the substance of the case apply.
+
+Outside that scope, an individual forum-family entry may still be used as a supporting Independent Definition without applying the entire cluster.
 
 **Cluster members.** This cluster comprises:
 
@@ -1267,7 +1326,12 @@ This cluster is the joint-invocation home for the six constitutional forum famil
 - [Primary-Stakes Routing](core_05defs_accountability.md#primary-stakes-routing);
 - [Forum Case Record](core_05defs_accountability.md#forum-case-record).
 
-**Joint invocation and anti-bypass.** Under [Joint invocation and satisfaction](core_05_definitions_home.md#joint-invocation-and-satisfaction), a matter within the admission scope must not be segmented into separate caption, intake label, or specialty-panel questions in a way that collapses distinct forum functions or defeats primary-stakes routing, certification, or anti-self-judging backup discipline.
+**Joint invocation and anti-bypass.** Under [Joint invocation and satisfaction](core_05_definitions_home.md#joint-invocation-and-satisfaction), a matter within this scope must be considered as a whole. It must not be split into separate questions about its case title, intake category, or specialist panel if doing so would:
+
+- blur the different roles of the forum families;
+- bypass routing based on what is mainly at stake;
+- avoid formal referral requirements; or
+- defeat backup routing that prevents a forum from judging its own matter.
 
 ---
 
