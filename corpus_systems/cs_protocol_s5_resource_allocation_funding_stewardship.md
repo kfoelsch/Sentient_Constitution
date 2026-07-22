@@ -144,7 +144,7 @@ and local coordination environments) may adopt more flexible funding models. **T
 
 **Trigger definitions.** Systems must define measurable indicators and thresholds that reflect system health, resource flows, and ecosystem impact. These indicators form the basis for adaptive allocation processes defined in **Protocol S4** (see Sentient Constitution **Article IV-A** (*Dependency Mapping and Resource-Flow Transparency*)).
 
-**Triggering review and challenge.** Funding structures and allocation outcomes may be challenged by any sentient or group in good standing under **Article XVIII-A** (*Standing Distinction*).
+**Triggering review and challenge.** Funding structures and allocation outcomes may be challenged by any sentient or group under **Article XVIII-A** (*Standing Distinction*). Standing locks do not by themselves cut off challenge or audit pathways.
 
 No minimum participation threshold is required to initiate review, though outcomes remain subject to [Constitutional Constraint](../core_05defs_integrative.md#constitutional-constraint) discipline and collective deliberation.
 

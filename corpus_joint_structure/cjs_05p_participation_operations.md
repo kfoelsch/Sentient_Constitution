@@ -70,8 +70,8 @@ Community and associational pathway integrity
 - OP-C: It is non-compliant to claim participatory legitimacy where productivity-only allocation, private chokepoints, inaccessible pathway design, coerced belonging, exclusionary local hierarchy, retaliation risk, or informal coercion blocks practical community access without a lawful necessity record and usable contest route.
 
 Foundational constitutional choice equality floor
-- OP-O: Where the decision is **Foundational Constitutional Choice**, eligible sentients participate under the political-equality floor: each eligible sentient has equal participation weight, subject only to lawful good-standing and restitution-linked limits recognized by the Constitution.
-- OP-E: Evaluation must verify equal-weight treatment, substrate-agnostic and age-neutral eligibility, good-standing or restitution predicates where invoked, contestability, opposition protection, peaceful-succession or reauthorization pathways, and compliance with Chapter Twelve section 4.1 and **Article IX-C** (*Governance Participation and Voting Entitlement*).
+- OP-O: Where the decision is **Foundational Constitutional Choice**, eligible sentients participate under the political-equality floor: each eligible sentient has equal participation weight, subject only to lawful standing-lock and restitution-linked limits recognized by the Constitution.
+- OP-E: Evaluation must verify equal-weight treatment, substrate-agnostic and age-neutral eligibility, standing-lock or restitution predicates where invoked, contestability, opposition protection, peaceful-succession or reauthorization pathways, and compliance with Chapter Twelve section 4.1 and **Article IX-C** (*Governance Participation and Voting Entitlement*).
 - OP-C: Impact, dependency, stakeholder status, lineage, substrate class, calendar age, or ordinary stakeholder-participation weighting may not dilute foundational constitutional choice.
 
 Impact coverage

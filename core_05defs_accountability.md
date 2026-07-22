@@ -1490,8 +1490,21 @@ Outside that scope, an individual forum-family entry may still be used as a supp
 *In plain terms: Integrity forums handle disputes mainly about honest office, fair process, disclosure, conflicts, anti-capture duties, and system-wide integrity failures.*
 
 - **What it is**
-  - **In scope:** The forum family for disputes whose main stake is integrity of office or process, contest pathways, disclosure, conflict rules, anti-capture duties, or a pattern of system-wide integrity failure across institutions. It applies where Chapter Eight impact measurement, a corresponding Chapter Ten anti-constitutional-misconduct designation, or Rights-Floor enforcement depends on that decision. It includes the alignment rulings and coordinated records described in Chapter Eleven Chapter One §8.2.5.
-  - **Out of scope:** Integrity branding, anti-capture paperwork, or process titles that silently displace required Constitutional certification for structural validity or class-wide remedy, or that refuse backup routing when Chapter Eleven §3 assigns an independent lead family.
+  - **In scope:** The forum family for disputes whose main stake is:
+    - integrity of office or process;
+    - contest pathways;
+    - disclosure;
+    - conflict rules;
+    - anti-capture duties; or
+    - a pattern of system-wide integrity failure across institutions.
+  - It applies where any of the following depends on that decision:
+    - Chapter Eight impact measurement;
+    - a corresponding Chapter Ten anti-constitutional-misconduct designation; or
+    - Rights-Floor enforcement.
+  - It includes the alignment rulings and coordinated records described in Chapter Eleven §4.5.
+  - **Out of scope:** Using an Integrity label, anti-capture paperwork, or a process title to:
+    - quietly skip the Constitutional certification this Constitution requires when the question is whether a structure is valid, or when a remedy must apply to a whole class of actors or systems; or
+    - keep the case inside Integrity when Chapter Eleven §3 requires a different independent family to lead — because the main accusation is that this same family is biased, captured, conflicted, or hiding the ball — including by refusing the written backup path that section assigns.
 <a id="forum-family-integrity-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Accountability measurement family and Timeliness measurement family — supporting measure where multiple measurement families co-apply.
@@ -1499,7 +1512,7 @@ Outside that scope, an individual forum-family entry may still be used as a supp
     **Primary assessment:** Use Chapter Eleven §3's anti-self-judging backups when a forum's own bias, capture, or concealment is the main issue. Keep alignment-led coordination separate from the provisional operational-law doctrine that Chapter Eleven §4.7 governs for other families.
 <a id="forum-family-integrity-c"></a>
 - **What must hold**
-  - It is non-compliant to use an **Integrity** lead to silently displace required **Constitutional** certification for structural validity or a class-wide remedy, or to refuse backup routing when Chapter Eleven §3 assigns an independent lead family.
+  - It is non-compliant to use an **Integrity** lead to quietly skip required **Constitutional** certification for structural validity or a class-wide remedy. It is also non-compliant to keep the case inside **Integrity** when Chapter Eleven §3 requires a different independent family to lead — because the main accusation is that this same family is biased, captured, conflicted, or hiding the ball — including by refusing the written backup path that section assigns.
 
 ---
 
@@ -1519,15 +1532,20 @@ Outside that scope, an individual forum-family entry may still be used as a supp
 
 - **What it is**
   - **In scope:** The forum family that decides constitutional validity and meaning; structural remedies that change governance for classes of actors or systems; certified questions from other families; and supremacy disputes where constitutional text alone can resolve the certified issue.
-  - **Out of scope:** Provisional operational-law rulings, implementation detail, or non-certified questions treated as final constitutional validity, meaning, or structural-remedy dispositions, or used to bypass Chapter Eleven §5 certification when those stakes are materially present.
+  - **Out of scope:** Treating temporary how-to-implement rulings, day-to-day implementation detail, or questions that were never certified as:
+    - a final answer about what the Constitution means or whether it is valid;
+    - a final structural remedy that changes governance for a class of actors or systems; or
+    - a way to skip Chapter Eleven §5 certification when those constitutional stakes are really present.
 <a id="forum-family-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Accountability measurement family and Timeliness measurement family — supporting measure where multiple measurement families co-apply.
 
-    **Primary assessment:** Preserve **Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*)-class review safeguards and Chapter Ten due-process hooks when a lower family certifies or escalates a matter. Distinguish certified constitutional questions from provisional implementation rulings on operational law under Chapter Eleven §4.6, §4.7, and §5.
+    **Primary assessment:**
+    - Preserve **Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*)-class review safeguards and Chapter Ten due-process hooks when a lower family certifies or escalates a matter.
+    - Distinguish certified constitutional questions from provisional implementation rulings on operational law under Chapter Eleven §4.6, §4.7, and §5.
 <a id="forum-family-constitutional-c"></a>
 - **What must hold**
-  - It is non-compliant to treat non-certifiable operational detail as a final constitutional disposition, or to weaken certification discipline so a family bypasses Chapter Eleven §5 when constitutional validity, meaning, or structural remedy is materially at stake.
+  - It is non-compliant to treat temporary how-to-implement rulings or day-to-day operational detail as a final answer about constitutional meaning, validity, or a class-wide structural remedy. It is also non-compliant to weaken Chapter Eleven §5 certification so a family can skip it when those constitutional stakes are really present.
 
 ---
 
@@ -1547,7 +1565,28 @@ Outside that scope, an individual forum-family entry may still be used as a supp
 *In plain terms: a Forum Case Record is the case file for a dispute. It is not a Standing Record, and it does not itself create a Standing Effect.*
 
 - **What it is**
-  - **In scope:** The case file a forum keeps for a dispute. It includes claims, evidence, routing choices, temporary orders, certified questions, and final findings in that case. It records forum supervision during the dispute; it is **not** a [Standing Record](core_05defs_accountability.md#standing-record-chapter-six). Filing a case, choosing a forum family, making intake notes, issuing a temporary order, recording an unresolved allegation, discussing settlement, or applying a provisional routing label does not by itself open, update, or correct a standing record, role eligibility, trust status, recognition, or final standing effect. A forum decision may enter a Chapter Eight **contribution standing record** or **violation standing record** only if it produces a verified contribution record, verified violation finding, **system alignment certification record**, or another finding that is bounded, traceable, contestable, and verified under Chapters Two through Four and all required review safeguards. Chapter Five pointer; canonical mechanics: Chapter Eleven §2.3.
+  - **In scope:** The case file a forum keeps for a dispute. It includes:
+    - claims;
+    - evidence;
+    - routing choices;
+    - temporary orders;
+    - certified questions; and
+    - final findings in that case.
+  - It records forum supervision during the dispute; it is **not** a [Standing Record](core_05defs_accountability.md#standing-record-chapter-six).
+  - None of the following by itself opens, updates, or corrects a standing record, role eligibility, trust status, recognition, or final standing effect:
+    - filing a case;
+    - choosing a forum family;
+    - making intake notes;
+    - issuing a temporary order;
+    - recording an unresolved allegation;
+    - discussing settlement; or
+    - applying a provisional routing label.
+  - A forum decision may enter a Chapter Eight **contribution standing record** or **violation standing record** only if it produces a verified contribution record, verified violation finding, **system alignment certification record**, or another finding that is:
+    - bounded;
+    - traceable;
+    - contestable; and
+    - verified under Chapters Two through Four and all required review safeguards.
+  - Chapter Five pointer; canonical mechanics: Chapter Eleven §2.3.
   - **Out of scope:** Treating a filed case, intake label, temporary order, unresolved allegation, or settlement discussion as a Standing Record or Standing Effect; Chapter Eight standing measurement; Chapter Nine standing-effect decisions; and operational form libraries, templates, or evidence-artifact catalogs owned by forum implementation layers (**CF-15**) except insofar as they instantiate this case file.
 <a id="forum-case-record-a"></a>
 - **How to measure and assess**
@@ -1610,9 +1649,26 @@ Outside that scope, an individual forum-family entry may still be used as a supp
 <br>
 
 
-This cluster is the joint-invocation home for contribution state, standing records and effects, verified inputs for standing, verified violation findings, violation-nature typing, standing locks, and Chapter Ten designation-review vocabulary — the definitional interface Chapter Five supplies for the Chapter Eight through Chapter Ten standing pipeline.
+This cluster is the shared home for the Chapter Five definitions that feed the Chapters Eight through Ten standing pipeline. It covers:
 
-**Admission scope.** This cluster applies where a matter materially concerns standing measurement inputs, verified violations, standing consequences, standing-lock effects, anti-constitutional-misconduct designation review for a Chapter Eight slot 7–9 record, or how violation nature and process/response character interact with forum routing and remedies. Outside that admission scope, individual Chapter Eight through Chapter Ten hooks may be cited without importing the full cluster.
+- contribution state;
+- standing records and standing effects;
+- verified inputs for standing;
+- verified violation findings;
+- how a violation is typed by nature;
+- standing locks; and
+- Chapter Ten designation-review vocabulary.
+
+**Admission scope.** This cluster applies when a matter raises important questions about:
+
+- inputs used to measure standing;
+- verified violations;
+- standing consequences;
+- standing-lock effects;
+- anti-constitutional-misconduct designation review for a Chapter Eight slot 7–9 record; or
+- how the nature of a violation, and how process and response are characterized, interact with forum routing and remedies.
+
+Outside that scope, an individual Chapter Eight through Chapter Ten hook may still be cited without applying the entire cluster.
 
 **Cluster members.** This cluster comprises:
 
@@ -1643,29 +1699,40 @@ This cluster is the joint-invocation home for contribution state, standing recor
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Principles: [Chapter Seven §3 Whole-System Certification Evaluation](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [§10 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline) (standing signals and capture).
-- Read with: the [Standing State, Contribution, and Violation cluster](core_05defs_participation.md#standing-state-contribution-and-violation-cluster), [Contribution State](core_05defs_accountability.md#contribution-state), [Standing Record](core_05defs_accountability.md#standing-record-chapter-six), [Standing Effect](core_05defs_accountability.md#standing-effect-chapter-six), [Competency Gate](core_05defs_accountability.md#competency-gate), [Verified Violation Findings](core_05defs_accountability.md#verified-violation-findings), [Violation Nature](core_05defs_accountability.md#violation-nature-chapter-six), [Contestability](core_05defs_accountability.md#contestability), [Auditability](core_05defs_oversight.md#auditability), [Transparency](core_05defs_oversight.md#transparency), and [Redress and Remediation](core_05defs_accountability.md#redress-and-remediation-constitutional).
+- Read with: the [Standing State, Contribution, and Violation cluster](core_05defs_participation.md#standing-state-contribution-and-violation-cluster), [Contribution State](core_05defs_accountability.md#contribution-state), [Standing Record](core_05defs_accountability.md#standing-record-chapter-six), [Standing Effect](core_05defs_accountability.md#standing-effect-chapter-six), [Competency Gate](core_05defs_accountability.md#competency-gate), [Standing Lock](core_05defs_accountability.md#standing-lock), [Verified Violation Findings](core_05defs_accountability.md#verified-violation-findings), [Violation Nature](core_05defs_accountability.md#violation-nature-chapter-six), [Contestability](core_05defs_accountability.md#contestability), [Auditability](core_05defs_oversight.md#auditability), [Transparency](core_05defs_oversight.md#transparency), and [Redress and Remediation](core_05defs_accountability.md#redress-and-remediation-constitutional).
 
 </details>
 
 <br>
 
-- O: A participation-status or role-eligibility status recognized from constitutionally valid standing records, standing effects, good-standing criteria, or role-specific qualification criteria. It is not [Dignity and Equal Moral Standing](core_05defs_participation.md#dignity-and-equal-moral-standing), which every sentient has. It is also not reputation, social esteem, or proof of material impact for [Stakeholder](core_05defs_participation.md#stakeholder) identification. *Good standing* means current eligibility for ordinary participation, trust-sensitive roles, or qualified participation under constitutionally valid, contestable criteria. When lawful, restrictive access consequences belong to [Standing Effect](core_05defs_accountability.md#standing-effect-chapter-six), [Standing Lock](core_05defs_accountability.md#standing-lock), **Article XVIII** (*Standing and Participation Status*), and applicable Chapter Six limits. Chapter Five pointer for **Article XVIII** (*Standing and Participation Status*) participation status; axis mechanics: [Contribution State](core_05defs_accountability.md#contribution-state) and [Chapter Eight](core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model). Final **Violation Axis s = 7, s = 8, and s = 9** anti-constitutional misconduct slot assignment remains governed by [Chapter Ten](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct).
-*In plain terms: Participant Standing says whether a sentient currently qualifies to participate or hold a role under valid, contestable rules. It is not dignity, reputation, popularity, or proof that a sentient is a stakeholder.*
+*In plain terms: Participant Standing says whether a sentient currently qualifies to participate or hold a role under valid, contestable rules. It is not dignity, reputation, popularity, or proof that a sentient is a stakeholder. Closing a privilege requires a standing lock on that pathway — not a vague status label.*
 
-  - In scope: Participation status or role eligibility recognized from constitutionally valid standing records, standing effects, good-standing criteria, or role-specific qualification criteria. It is distinct from [Dignity and Equal Moral Standing](core_05defs_participation.md#dignity-and-equal-moral-standing), which every sentient has; reputation or social esteem; and proof of material impact for [Stakeholder](core_05defs_participation.md#stakeholder) identification. *Good standing* means current eligibility for ordinary participation, trust-sensitive roles, or qualified participation under constitutionally valid, contestable criteria. When lawful, restrictive access consequences belong to [Standing Effect](core_05defs_accountability.md#standing-effect-chapter-six), [Standing Lock](core_05defs_accountability.md#standing-lock), **Article XVIII** (*Standing and Participation Status*), and applicable Chapter Six limits. Chapter Five pointer for **Article XVIII** (*Standing and Participation Status*) participation status; axis mechanics: [Contribution State](core_05defs_accountability.md#contribution-state) and [Chapter Eight](core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model). Final **Violation Axis s = 7, s = 8, and s = 9** anti-constitutional misconduct slot assignment remains governed by [Chapter Ten](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct).
-  - Out of scope: Reputation, popularity, prestige, brand, or social esteem treated as participation or role eligibility; dignity; or proof that someone is a Stakeholder.
-*Measurements:*
-
-- **Primary:** Accountability measurement family and Timeliness measurement family — supporting measure where multiple measurement families co-apply.
+- **What it is**
+  - **In scope:** A participation-status or role-eligibility status recognized from:
+    - constitutionally valid standing records;
+    - standing effects; or
+    - role-specific qualification criteria.
+  - It is not:
+    - [Dignity and Equal Moral Standing](core_05defs_participation.md#dignity-and-equal-moral-standing), which every sentient has;
+    - reputation or social esteem; or
+    - proof of material impact for [Stakeholder](core_05defs_participation.md#stakeholder) identification.
+  - Restrictive access consequences, when lawful, belong to [Standing Effect](core_05defs_accountability.md#standing-effect-chapter-six), [Standing Lock](core_05defs_accountability.md#standing-lock), **Article XVIII** (*Standing and Participation Status*), and applicable Chapter Six limits — not to the Participant Standing label alone. Named lock pathways include trust, role, authority, credit, oversight, recognition, **governance-voting**, and comparable binding-collective-choice participation.
+  - Chapter Five pointer for **Article XVIII** (*Standing and Participation Status*) participation status; axis mechanics: [Contribution State](core_05defs_accountability.md#contribution-state) and [Chapter Eight](core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model).
+  - Final **Violation Axis s = 7, s = 8, and s = 9** anti-constitutional misconduct slot assignment remains governed by [Chapter Ten](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct).
+  - **Out of scope:** Reputation, popularity, prestige, brand, or social esteem treated as participation or role eligibility; dignity; or proof that someone is a Stakeholder.
 <a id="participant-standing-constitutional-a"></a>
-- A: Provide [Contestability](core_05defs_accountability.md#contestability), [Auditability](core_05defs_oversight.md#auditability), and [Transparency](core_05defs_oversight.md#transparency) in proportion to impact. Check for arbitrary, opaque, monopolistic, or reputation-based control of participant-standing signals. Apply [Epistemic Integrity](core_05defs_oversight.md#epistemic-integrity) when communicating standing claims. When Chapter Eight inputs are used, apply its standing-effect mechanics directly. Route any final top-end anti-constitutional misconduct assignment to Chapter Ten, not to participant-standing criteria.
+- **How to measure and assess**
+  - **Primary measure:** Accountability measurement family and Timeliness measurement family — supporting measure where multiple measurement families co-apply.
+
+    **Primary assessment:** Provide [Contestability](core_05defs_accountability.md#contestability), [Auditability](core_05defs_oversight.md#auditability), and [Transparency](core_05defs_oversight.md#transparency) in proportion to impact. Check for arbitrary, opaque, monopolistic, or reputation-based control of participant-standing signals. Apply [Epistemic Integrity](core_05defs_oversight.md#epistemic-integrity) when communicating standing claims. When Chapter Eight inputs are used, apply its standing-effect mechanics directly. Route any final top-end anti-constitutional misconduct assignment to Chapter Ten, not to participant-standing criteria.
 <a id="participant-standing-constitutional-c"></a>
-- C: The following are non-compliant:
-  - treating reputation, popularity, prestige, institutional brand, or social esteem as participant standing;
-  - using participant standing as a substitute for Chapter Nine standing effects or standing locks when imposing restrictive consequences;
-  - using participant standing or competency-gate labels as opaque credentialism, arbitrary gatekeeping, or insider-control devices;
-  - using participant standing to permanently exclude sentients from survival-critical systems solely on standing;
-  - using participant standing, including good-standing determinations, to deny audit or challenge eligibility without justification under [Proportionality](core_05defs_accountability.md#proportionality) and [Necessity](core_05defs_accountability.md#necessity) where applicable instruments require access.
+- **What must hold**
+  - It is non-compliant to:
+    - treat reputation, popularity, prestige, institutional brand, or social esteem as participant standing;
+    - use participant standing as a substitute for Chapter Nine standing effects or standing locks when imposing restrictive consequences;
+    - use participant standing or competency-gate labels as opaque credentialism, arbitrary gatekeeping, or insider-control devices;
+    - use participant standing to permanently exclude sentients from survival-critical systems solely on standing; or
+    - use participant-standing determinations to deny audit or challenge eligibility without justification under [Proportionality](core_05defs_accountability.md#proportionality) and [Necessity](core_05defs_accountability.md#necessity) where applicable instruments require access.
 
 ---
 
@@ -1684,21 +1751,22 @@ This cluster is the joint-invocation home for contribution state, standing recor
 
 <br>
 
-- O: **Axis I** measures **positive-only** constitutional outcomes: meeting the **baseline** and making **demonstrable** improvements beyond it under the applicable functional system conditions. It does not classify **adverse violation findings** or non-compliance. Those belong under **violation nature** on **Axis II**. Chapter Five pointer; canonical mechanics: [Chapter Eight](core_08-08_standing_assessment.md) [**section 7**](core_08-08_standing_assessment.md#7-unified-proportional-lequ-scale), read with [**sections 1–2**](core_08-08_standing_assessment.md#2-purpose-and-role). It is distinct from [Participant Standing](core_05defs_accountability.md#participant-standing-constitutional), which concerns **Article XVIII** participation status and role eligibility.
 *In plain terms: Contribution State records only positive constitutional outcomes on Axis I. Adverse findings belong on Violation Axis II and cannot be averaged, netted, or offset against contributions.*
 
-  - In scope: **Axis I** measures **positive-only** constitutional outcomes: **baseline** satisfaction and **demonstrable** improvement beyond baseline, under applicable functional system conditions. It **does not** classify **adverse** **violation** **findings** or non-compliance; those are measured under **violation nature** on **Axis II**. Chapter Five pointer; canonical mechanics: [Chapter Eight](core_08-08_standing_assessment.md) [**section 7**](core_08-08_standing_assessment.md#7-unified-proportional-lequ-scale), read with [**sections 1–2**](core_08-08_standing_assessment.md#2-purpose-and-role). Distinct from [Participant Standing](core_05defs_accountability.md#participant-standing-constitutional) (**Article XVIII** (*Standing and Participation Status*) participation-status and role-eligibility treatment).
-  - Out of scope: Adverse findings, Violation Axis scores, averages, nets, or offsets against Axis I; or popularity and allegation without verified positive constitutional outcome.
-*Measurements:*
-
-- **Primary:** Accountability measurement family and Timeliness measurement family — supporting measure where multiple measurement families co-apply.
+- **What it is**
+  - **In scope:** **Axis I** measures **positive-only** constitutional outcomes: meeting the **baseline** and making **demonstrable** improvements beyond it under the applicable functional system conditions. It does not classify **adverse violation findings** or non-compliance. Those belong under **violation nature** on **Axis II**. Chapter Five pointer; canonical mechanics: [Chapter Eight](core_08-08_standing_assessment.md) [**section 7**](core_08-08_standing_assessment.md#7-unified-proportional-lequ-scale), read with [**sections 1–2**](core_08-08_standing_assessment.md#2-purpose-and-role). It is distinct from [Participant Standing](core_05defs_accountability.md#participant-standing-constitutional), which concerns **Article XVIII** participation status and role eligibility.
+  - **Out of scope:** Adverse findings, Violation Axis scores, averages, nets, or offsets against Axis I; or popularity and allegation without verified positive constitutional outcome.
 <a id="contribution-state-a"></a>
-- A: Measure **contribution state** only from **demonstrable facts** under [Auditability](core_05defs_oversight.md#auditability) and [Contestability](core_05defs_accountability.md#contestability). Use [Materiality Determination](core_05defs_oversight.md#materiality-determination) for material disputes about thresholds, scope, or records. Keep every **standing effect** traceable to **contribution state** and **violation nature** under Chapter Eight **§§11.1–6.2** and the integration rules. Never treat **alleged** misconduct as a [**verified violation finding**](core_05defs_accountability.md#verified-violation-findings). Keep [Participant Standing](core_05defs_accountability.md#participant-standing-constitutional) and Chapter Eight labels consistent where both apply. Formal-channel pedigree cannot replace demonstrable contribution under Chapter Eight **section 7**.
+- **How to measure and assess**
+  - **Primary measure:** Accountability measurement family and Timeliness measurement family — supporting measure where multiple measurement families co-apply.
+
+    **Primary assessment:** Measure **contribution state** only from **demonstrable facts** under [Auditability](core_05defs_oversight.md#auditability) and [Contestability](core_05defs_accountability.md#contestability). Use [Materiality Determination](core_05defs_oversight.md#materiality-determination) for material disputes about thresholds, scope, or records. Keep every **standing effect** traceable to **contribution state** and **violation nature** under Chapter Eight **§§11.1–6.2** and the integration rules. Never treat **alleged** misconduct as a [**verified violation finding**](core_05defs_accountability.md#verified-violation-findings). Keep [Participant Standing](core_05defs_accountability.md#participant-standing-constitutional) and Chapter Eight labels consistent where both apply. Formal-channel pedigree cannot replace demonstrable contribution under Chapter Eight **section 7**.
 <a id="contribution-state-c"></a>
-- C: The following are non-compliant:
-  - calling an **adverse violation** finding a **negative contribution** on **Axis I**;
-  - using **contribution state** to **net away**, **average**, or replace [**verified violation findings**](core_05defs_accountability.md#verified-violation-findings) required by Chapter Eight **§3.2** and **§5**;
-  - using **opaque**, **non-auditable**, or **undisclosed** criteria for **contribution state** or **standing effect** that cannot be traced to Chapter Eight **section 7**.
+- **What must hold**
+  - It is non-compliant to:
+    - call an **adverse violation** finding a **negative contribution** on **Axis I**;
+    - use **contribution state** to **net away**, **average**, or replace [**verified violation findings**](core_05defs_accountability.md#verified-violation-findings) required by Chapter Eight **§3.2** and **§5**; or
+    - use **opaque**, **non-auditable**, or **undisclosed** criteria for **contribution state** or **standing effect** that cannot be traced to Chapter Eight **section 7**.
 
 ---
 
@@ -1778,18 +1846,19 @@ This cluster is the joint-invocation home for contribution state, standing recor
 
 <br>
 
-- O: The **consequence layer** that uses verified [**contribution state**](core_05defs_accountability.md#contribution-state) and [**verified violation findings**](core_05defs_accountability.md#verified-violation-findings) from linked **contribution standing records** and **violation standing records**. It may affect trust eligibility, roles, delegated authority, recognition, restriction, restoration, remediation, safeguards, and review. It includes positive paths such as [**competency gates**](core_05defs_accountability.md#competency-gate) and restrictive paths such as [**standing locks**](core_05defs_accountability.md#standing-lock). It is a decision consequence, not a dignity rank, Rights-Floor measure, merged merit score, or part of the standing record itself. Chapter Five pointer; canonical mechanics: Chapter Eight **section 2** and Chapter Nine **sections 1**, **4**, and **5**. The Contribution Axis and Violation Axis must stay separately traceable and may not be netted, averaged, offset, or substituted for each other. Read with [Article XXIII-B: Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints](core_06-06_rights_part_d.md#article-xxiii-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints) and [Article XXIII-C: Least-Restrictive and Time-Bounded Rule](core_06-06_rights_part_d.md#article-xxiii-c-least-restrictive-and-time-bounded-rule) when coercive or restrictive standing-linked measures are involved.
 *In plain terms: Standing Effect is the consequence applied from verified, linked Standing Records. It is separate from those records and cannot merge, average, net, or offset the Contribution and Violation axes.*
 
-  - In scope: The **consequence layer** that applies verified [**contribution state**](core_05defs_accountability.md#contribution-state) and [**verified violation findings**](core_05defs_accountability.md#verified-violation-findings) from linked **contribution standing records** and **violation standing records** to trust eligibility, roles, delegated authority, recognition, restriction, restoration, remediation, safeguards, and review. It includes positive pathways such as [**competency gates**](core_05defs_accountability.md#competency-gate) and restrictive pathways such as [**standing locks**](core_05defs_accountability.md#standing-lock). It is a decision consequence, not a dignity rank, Rights-Floor measure, merged merit score, or component of the standing record itself. Chapter Five pointer; canonical mechanics: Chapter Eight **section 2** and Chapter Nine **sections 1**, **4**, and **5**. It must keep the Contribution Axis and Violation Axis separately traceable and must not net, average, offset, or substitute one axis for the other. Read with [Article XXIII-B: Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints](core_06-06_rights_part_d.md#article-xxiii-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints) and [Article XXIII-C: Least-Restrictive and Time-Bounded Rule](core_06-06_rights_part_d.md#article-xxiii-c-least-restrictive-and-time-bounded-rule) where coercive or restrictive **standing**-linked measures are in play.
-  - Out of scope: A Standing Record itself, an allegation, a Forum Case Record, or any merged, averaged, netted, or offset blend of contribution and violation inputs treated as the consequence.
-*Measurements:*
-
-- **Primary:** Accountability measurement family and Timeliness measurement family — supporting measure where multiple measurement families co-apply.
+- **What it is**
+  - **In scope:** The **consequence layer** that uses verified [**contribution state**](core_05defs_accountability.md#contribution-state) and [**verified violation findings**](core_05defs_accountability.md#verified-violation-findings) from linked **contribution standing records** and **violation standing records**. It may affect trust eligibility, roles, delegated authority, recognition, restriction, restoration, remediation, safeguards, and review. It includes positive paths such as [**competency gates**](core_05defs_accountability.md#competency-gate) and restrictive paths such as [**standing locks**](core_05defs_accountability.md#standing-lock). It is a decision consequence, not a dignity rank, Rights-Floor measure, merged merit score, or part of the standing record itself. Chapter Five pointer; canonical mechanics: Chapter Eight **section 2** and Chapter Nine **sections 1**, **4**, and **5**. The Contribution Axis and Violation Axis must stay separately traceable and may not be netted, averaged, offset, or substituted for each other. Read with [Article XXIII-B: Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints](core_06-06_rights_part_d.md#article-xxiii-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints) and [Article XXIII-C: Least-Restrictive and Time-Bounded Rule](core_06-06_rights_part_d.md#article-xxiii-c-least-restrictive-and-time-bounded-rule) when coercive or restrictive standing-linked measures are involved.
+  - **Out of scope:** A Standing Record itself, an allegation, a Forum Case Record, or any merged, averaged, netted, or offset blend of contribution and violation inputs treated as the consequence.
 <a id="standing-effect-chapter-six-a"></a>
-- A: Keep every **standing effect** traceable to [Chapter Eight](core_08-08_standing_assessment.md) **§§2–3** and [Chapter Nine](core_09-09_standing_integration.md) **§§1–10**. Evaluate it under [Auditability](core_05defs_oversight.md#auditability) and [Contestability](core_05defs_accountability.md#contestability). Identify the source contribution and violation standing records, subject, scope, time window, review status, separate axis inputs, required cross-references, verification basis, and actual consequence. When standing integration uses **contribution-linked** credit, follow Chapter Nine **§6.1** recency and disclosure rules. While unresolved, **violation-linked** constraints may not be time-discounted, weighted away for age, or softened by contribution upside. Never treat **alleged** misconduct, intake labels, or forum-phase material as [**verified violation findings**](core_05defs_accountability.md#verified-violation-findings) for standing ([**verified inputs for standing**](core_08-08_standing_assessment.md#verified-inputs-for-standing)).
+- **How to measure and assess**
+  - **Primary measure:** Accountability measurement family and Timeliness measurement family — supporting measure where multiple measurement families co-apply.
+
+    **Primary assessment:** Keep every **standing effect** traceable to [Chapter Eight](core_08-08_standing_assessment.md) **§§2–3** and [Chapter Nine](core_09-09_standing_integration.md) **§§1–10**. Evaluate it under [Auditability](core_05defs_oversight.md#auditability) and [Contestability](core_05defs_accountability.md#contestability). Identify the source contribution and violation standing records, subject, scope, time window, review status, separate axis inputs, required cross-references, verification basis, and actual consequence. When standing integration uses **contribution-linked** credit, follow Chapter Nine **§6.1** recency and disclosure rules. While unresolved, **violation-linked** constraints may not be time-discounted, weighted away for age, or softened by contribution upside. Never treat **alleged** misconduct, intake labels, or forum-phase material as [**verified violation findings**](core_05defs_accountability.md#verified-violation-findings) for standing ([**verified inputs for standing**](core_08-08_standing_assessment.md#verified-inputs-for-standing)).
 <a id="standing-effect-chapter-six-c"></a>
-- C: The following are non-compliant: **opaque** or **undisclosed standing** criteria; unverified allegations, provisional labels, or forum-phase material used as adverse standing inputs; records that merge distinct subjects, scopes, time windows, or review statuses; both axes placed in one record; **netting**, **averaging**, offsetting, or substitution that displaces **Chapter Nine §§2, 4–7** or verified-input rules; positive recognition used to erase unresolved violations; a restrictive **standing effect** broader, less reviewable, or less time-bounded than Article **XXIII** allows; or a standing effect that suspends, waives, extinguishes, or reduces Rights-Floor minimums—including inherent dignity, equal moral standing, minimum subsistence access, or access to **challenge** and **remedy**—where Chapter Eight and Article **XXIII** forbid it.
+- **What must hold**
+  - It is non-compliant to use **opaque** or **undisclosed standing** criteria; unverified allegations, provisional labels, or forum-phase material as adverse standing inputs; records that merge distinct subjects, scopes, time windows, or review statuses; both axes in one record; **netting**, **averaging**, offsetting, or substitution that displaces **Chapter Nine §§2, 4–7** or verified-input rules; positive recognition to erase unresolved violations; a restrictive **standing effect** broader, less reviewable, or less time-bounded than Article **XXIII** allows; or a standing effect that suspends, waives, extinguishes, or reduces Rights-Floor minimums—including inherent dignity, equal moral standing, minimum subsistence access, or access to **challenge** and **remedy**—where Chapter Eight and Article **XXIII** forbid it.
 
 ---
 
@@ -1841,7 +1910,7 @@ This cluster is the joint-invocation home for contribution state, standing recor
 *In plain terms: a Competency Gate opens access to a trust-sensitive role or authority when current, verified qualifications meet published and proportionate rules. It is not prestige, insider sponsorship, or permanent entitlement.*
 
 - **What it is**
-  - **In scope:** A positive standing-effect path that opens trust-sensitive roles, delegated authority, oversight eligibility, enhanced recognition, or increasingly consequential stewardship responsibility. It opens only when verified competence, experience, contribution records, and current good-standing criteria meet published requirements proportionate to the role. A competency gate is the opening-oriented counterpart to a [Standing Lock](core_05defs_accountability.md#standing-lock), but it is not reputation, social prestige, insider sponsorship, credential monopoly, dignity rank, Rights-Floor measure, or permanent entitlement.
+  - **In scope:** A positive standing-effect path that opens trust-sensitive roles, delegated authority, oversight eligibility, enhanced recognition, or increasingly consequential stewardship responsibility. It opens only when verified competence, experience, and contribution records meet published requirements proportionate to the role, and no applicable [Standing Lock](core_05defs_accountability.md#standing-lock) blocks the pathway. A competency gate is the opening-oriented counterpart to a standing lock, but it is not reputation, social prestige, insider sponsorship, credential monopoly, dignity rank, Rights-Floor measure, or permanent entitlement.
   - **Out of scope:** Prestige screening, insider sponsorship, opaque credential monopoly, permanent entitlement after one pass, or using a gate to erase unresolved violations or bypass standing locks.
 <a id="competency-gate-a"></a>
 - **How to measure and assess**
@@ -1868,10 +1937,10 @@ This cluster is the joint-invocation home for contribution state, standing recor
 
 <br>
 
-*In plain terms: a Standing Lock temporarily limits trust, roles, credit, recognition, or authority because of a verified, unresolved violation. It cannot reduce dignity or Rights-Floor protections.*
+*In plain terms: a Standing Lock temporarily limits a named privilege pathway — trust, roles, credit, recognition, authority, governance voting, or comparable binding collective choice — because of a verified, unresolved violation. It cannot reduce dignity or Rights-Floor protections.*
 
 - **What it is**
-  - **In scope:** A standing-effect constraint based on a verified Violation Axis assessment. While the verified finding remains unresolved or materially unremediated, it limits consequences tied to trust, roles, credit, recognition, or authority. A standing lock is not a dignity rank, Rights-Floor reduction, automatic retaliation, or merged merit score.
+  - **In scope:** A standing-effect constraint based on a verified Violation Axis assessment. While the verified finding remains unresolved or materially unremediated, it limits consequences tied to a named pathway, including trust, roles, credit, recognition, authority, oversight, **governance-voting**, or comparable binding-collective-choice participation. A standing lock is not a dignity rank, Rights-Floor reduction, automatic retaliation, or merged merit score.
   - **Out of scope:** A lock from unverified allegations, a permanent lock without review or remediation path, a dignity or Rights-Floor cut, or automatic retaliation framed as a standing lock.
 <a id="standing-lock-a"></a>
 - **How to measure and assess**

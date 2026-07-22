@@ -157,7 +157,7 @@ Forums supervise lawful implementation, challenge, interim relief, and timely mo
 
 *In plain terms: this is the **prevention** part of the durable fix. A standing lock reduces risk by closing or limiting pathways that would let the same harm continue or happen again while the violation is still unresolved or unrepaired. It is not punishment for its own sake, and it is not a popularity or reputation score.*
 
-A **standing lock** is a prevention and risk-reduction measure. It blocks or limits a named trust-, role-, authority-, credit-, oversight-, or recognition-linked pathway while a verified violation remains unresolved or materially unremedied. It must identify the blocked pathway, the risk it is meant to reduce, protected subjects or interests, corrective conditions, review route, and reassessment point.
+A **standing lock** is a prevention and risk-reduction measure. It blocks or limits a named pathway while a verified violation remains unresolved or materially unremedied. Named pathways include trust-, role-, authority-, credit-, oversight-, recognition-, **governance-voting**, and comparable **binding-collective-choice** participation pathways. It must identify the blocked pathway, the risk it is meant to reduce, protected subjects or interests, corrective conditions, review route, and reassessment point.
 
 The purpose of a lock is to reduce risk by removing a sentient from the environment, roles, or pathways — and, where needed, from contact with the sentients — where the violation occurred. That separation serves three purposes:
 
@@ -236,7 +236,7 @@ Two attachment qualifiers apply whenever the lock's purpose includes risk reduct
 - survival-critical access; or
 - the right to receive regular wages for work that is not part of the verified violation pathway.
 
-A lock may still close trust, role, authority, credit, oversight, recognition, or influence pathways tied to the verified risk. It may not use those pathway limits as a back door to extinguish the protections above.
+A lock may still close trust, role, authority, credit, oversight, recognition, influence, **governance-voting**, or comparable **binding-collective-choice** pathways tied to the verified risk. It may not use those pathway limits as a back door to extinguish the protections above.
 
 Special violation rules and special locks later in this section do not replace this subsection. Each must fill the same attachment fields, apply the same verified-finding gate, apply the same qualifiers where risk reduction is the purpose, and respect what a lock does not itself restrict.
 

@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-07-21T09:59:41+00:00",
+  "generated_at": "2026-07-22T10:38:01+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -628,9 +628,10 @@
           },
           {
             "file": "core_09-09_standing_integration.md",
-            "count": 6,
+            "count": 7,
             "anchors": [
               "#41-remedy-and-correction",
+              "#42-general-standing-locks",
               "#62-competency-gates",
               "#chapter-nine-standing-effects-and-integration"
             ]
@@ -3029,7 +3030,7 @@
           },
           {
             "file": "core_05defs_accountability.md",
-            "count": 452,
+            "count": 449,
             "anchors": [
               "#accountability-contestability-semi-independent",
               "#adjudication-and-dispute-resolution-constitutional",
@@ -3163,7 +3164,7 @@
           },
           {
             "file": "core_05defs_participation.md",
-            "count": 99,
+            "count": 97,
             "anchors": [
               "#coercion-and-manipulation-constitutional",
               "#consent-constitutional",
@@ -3215,7 +3216,7 @@
           },
           {
             "file": "core_06-06_rights_part_d.md",
-            "count": 12,
+            "count": 10,
             "anchors": [
               "#article-xxiii-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints",
               "#article-xxiii-c-least-restrictive-and-time-bounded-rule",
@@ -3242,7 +3243,7 @@
           },
           {
             "file": "core_08-08_standing_assessment.md",
-            "count": 37,
+            "count": 33,
             "anchors": [
               "#2-purpose-and-role",
               "#2-standing-records",
@@ -3274,7 +3275,7 @@
           },
           {
             "file": "core_10_a_misconduct_designation.md",
-            "count": 16,
+            "count": 15,
             "anchors": [
               "#1-decision-framework-scope-and-authority",
               "#2-criteria-set-for-slot-assignment",
@@ -3443,7 +3444,7 @@
           },
           {
             "file": "core_05defs_accountability.md",
-            "count": 157,
+            "count": 156,
             "anchors": [
               "#accountability-contestability-semi-independent",
               "#capture-of-resolution-pathways",
@@ -3470,7 +3471,7 @@
           },
           {
             "file": "core_05defs_continuity.md",
-            "count": 486,
+            "count": 485,
             "anchors": [
               "#anti-displacement-floor-constitutional",
               "#avoidable-burden",
@@ -3535,7 +3536,7 @@
           },
           {
             "file": "core_05defs_integrative.md",
-            "count": 33,
+            "count": 31,
             "anchors": [
               "#authority-stack",
               "#constitutional-contract-layer",
@@ -6250,7 +6251,7 @@
           },
           {
             "file": "core_05defs_accountability.md",
-            "count": 152,
+            "count": 154,
             "anchors": [
               "#collective-harm-boundary",
               "#collective-harm-boundary-a",
@@ -6293,7 +6294,8 @@
               "#restorative-justice",
               "#restorative-justice-a",
               "#restorative-justice-c",
-              "#self-determination-constitutional-o"
+              "#self-determination-constitutional-o",
+              "#standing-lock"
             ]
           },
           {
@@ -6601,7 +6603,7 @@
           },
           {
             "file": "core_05defs_accountability.md",
-            "count": 240,
+            "count": 257,
             "anchors": [
               "#autonomous-coercion-tool-constitutional",
               "#autonomous-coercion-tool-constitutional-a",
@@ -6652,6 +6654,7 @@
               "#remedy-system-constitutional-a",
               "#remedy-system-constitutional-c",
               "#self-determination-constitutional-o",
+              "#standing-effect-chapter-six",
               "#standing-lock",
               "#standing-lock-a",
               "#standing-lock-c",
@@ -6862,7 +6865,7 @@
           },
           {
             "file": "core_09-09_standing_integration.md",
-            "count": 22,
+            "count": 23,
             "anchors": [
               "#42-general-standing-locks",
               "#54-special-violation-rules",
@@ -7291,6 +7294,14 @@
             "count": 3,
             "anchors": [
               "#chapter-eight-compliance-violation-and-standing-model"
+            ]
+          },
+          {
+            "file": "core_09-09_standing_integration.md",
+            "count": 2,
+            "anchors": [
+              "#42-general-standing-locks",
+              "#51-definition-and-attachment"
             ]
           },
           {

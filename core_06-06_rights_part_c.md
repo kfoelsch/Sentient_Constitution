@@ -467,7 +467,7 @@ Those floors apply to **exceptional institutional power** in three linked domain
 
   Durable restriction or deployment surviving review requires independently demonstrated **Necessity** and **Proportionality**, recorded.
 - **Accountability and remedy:** Wrongful use of force gives rise to **Redress and Remediation** under **Chapter Five**.
-  - **Article XV** (*Audit, Transparency, and Independent Verification*) independent-verification and **Article XVIII-C** (*Good Standing, Responsibility, and Continuous Audit*) continuous-audit **practice** apply.
+  - **Article XV** (*Audit, Transparency, and Independent Verification*) independent-verification and **Article XVIII-C** (*Pathway Eligibility, Responsibility, and Continuous Audit*) continuous-audit **practice** apply.
   - Information used to authorize or conduct force is subject to **Article XIII-A** (*Security, Intelligence, and Covert-Power Limits*) taint and remedy discipline where relevant.
   - Sole control by operational-force bodies over authorization, review, and legality assessment for their own conduct is prohibited on the same terms as **Article XIII-A** (*Security, Intelligence, and Covert-Power Limits*).
 
@@ -1188,17 +1188,17 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
 
 This Article states **constitutional floors** for standing and participation status under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims):
 
-- **Flourishing:** sentients can hold and contest role eligibility through valid, plural, auditable pathways — without standing labels substituting for dignity, Rights-Floor minimums, or stakeholder status when [Material Impact](core_05defs_oversight.md#material-impact) is present; good standing rests on present, observable, contestable evidence rather than brand, scale, or past esteem alone.
+- **Flourishing:** sentients can hold and contest role eligibility through valid, plural, auditable pathways — without standing labels substituting for dignity, Rights-Floor minimums, or stakeholder status when [Material Impact](core_05defs_oversight.md#material-impact) is present; pathway eligibility rests on present, observable, contestable evidence rather than brand, scale, or past esteem alone.
 - **Continuity:** standing discipline stays revisable across time — restrictions remain proportionate, restorable where corrected, and must not harden into permanent exclusion from foundational constitutional voice except where **Chapter Ten** **anti-constitutional misconduct** classification and **Chapter Twelve Chapter One §8.1** expressly withhold durable political voice pending **full restitution**.
 
 Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), scaled to [material stake](core_00_preamble.md#material-stake):
 
 - **Participation:** in pluralistic standing evaluation, challenge to opaque or monopolized standing determinations, and restoration or requalification where material restrictions are corrected.
-- **Oversight:** through auditable standing records, continuous review of good-standing claims, and independent verification proportionate to the roles and restrictions at stake.
+- **Oversight:** through auditable standing records, continuous review of eligibility and lock claims, and independent verification proportionate to the roles and restrictions at stake.
 - **Accountability:** those who assign or restrict standing must answer for lowering it without individualized reasons, proportionality, narrow tailoring, or real paths to restoration — including patterns that track protected characteristics or their proxies.
 - **Timeliness:** in standing review, challenge, and remedy before delay would foreclose survival-critical access, audit paths, or constitutionally required redress under **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*).
 
-[Participant Standing](core_05defs_accountability.md#participant-standing-constitutional) is participation-status or role-eligibility status recognized from constitutionally valid standing records, standing effects, good-standing criteria, or role-specific qualification criteria. It is not reputation or social esteem, and it does not itself impose access restrictions.
+[Participant Standing](core_05defs_accountability.md#participant-standing-constitutional) is participation-status or role-eligibility status recognized from constitutionally valid standing records, standing effects, or role-specific qualification criteria. It is not reputation or social esteem, and it does not itself impose access restrictions. Restrictive consequences attach only through [Standing Effect](core_05defs_accountability.md#standing-effect-chapter-six) and [Standing Lock](core_05defs_accountability.md#standing-lock) pathways.
 
 Standing discipline under this Article implements the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) and [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) together with [System Alignment Certification](core_05defs_continuity.md#system-alignment-certification-constitutional) and the [Chapters Eight–Eleven standing and forum supervision pipeline](README.md#standing-pipeline-and-forums). Those owner-layer processes measure verified contribution and violation and supervise remedy; they must not be used to defeat **Article III-A** (*Survival*) survival essentials or other Rights Floors stated in this chapter.
 
@@ -1229,8 +1229,8 @@ It must remain distinct from:
 - [Stakeholder Participation Weight](core_05defs_participation.md#stakeholder-participation-weight) · [O](core_05defs_participation.md#stakeholder-participation-weight) · [A](core_05defs_participation.md#stakeholder-participation-weight-a) · [C](core_05defs_participation.md#stakeholder-participation-weight-c)
 - [Participant Standing](core_05defs_accountability.md#participant-standing-constitutional) · [O](core_05defs_accountability.md#participant-standing-constitutional) · [A](core_05defs_accountability.md#participant-standing-constitutional-a) · [C](core_05defs_accountability.md#participant-standing-constitutional-c)
 - [Competency Gate](core_05defs_accountability.md#competency-gate) · [O](core_05defs_accountability.md#competency-gate) · [A](core_05defs_accountability.md#competency-gate-a) · [C](core_05defs_accountability.md#competency-gate-c)
-- [Verified Violation Findings](core_05defs_accountability.md#verified-violation-findings) · [O](core_05defs_accountability.md#verified-violation-findings) · [A](core_05defs_accountability.md#verified-violation-findings-a) · [C](core_05defs_accountability.md#verified-violation-findings-c)
 - [Standing Lock](core_05defs_accountability.md#standing-lock) · [O](core_05defs_accountability.md#standing-lock) · [A](core_05defs_accountability.md#standing-lock-a) · [C](core_05defs_accountability.md#standing-lock-c)
+- [Verified Violation Findings](core_05defs_accountability.md#verified-violation-findings) · [O](core_05defs_accountability.md#verified-violation-findings) · [A](core_05defs_accountability.md#verified-violation-findings-a) · [C](core_05defs_accountability.md#verified-violation-findings-c)
 
 </details>
 
@@ -1241,11 +1241,11 @@ It must remain distinct from:
 - **Standing is different from:**
   - inherent dignity and equal moral standing (**Article V-A** (*Dignity and Equal Moral Standing*));
   - demonstration of material stake for stakeholder identification (**Chapter Five** — *Stakeholder*; *Stakeholder Participation Weight*).
-- **Competency gates:** A [Competency Gate](core_05defs_accountability.md#competency-gate) is a published, auditable, contestable readiness threshold. When verified competence, experience, contribution records, and current good-standing criteria satisfy role-proportionate requirements, it may open access to trust-sensitive roles, delegated authority, oversight eligibility, or progressively consequential stewardship under [Chapter Nine §6.2](core_09-09_standing_integration.md#62-competency-gates).
+- **Competency gates:** A [Competency Gate](core_05defs_accountability.md#competency-gate) is a published, auditable, contestable readiness threshold. When verified competence, experience, and contribution records satisfy role-proportionate requirements, and no applicable [Standing Lock](core_05defs_accountability.md#standing-lock) blocks the pathway, it may open access to trust-sensitive roles, delegated authority, oversight eligibility, or progressively consequential stewardship under [Chapter Nine §6.2](core_09-09_standing_integration.md#62-competency-gates).
   - A competency gate is not reputation, social prestige, insider sponsorship, credential monopoly, dignity rank, or permanent entitlement.
   - Informal, peer-organized, mutual-aid, maintenance, repair, teaching, or community stewardship experience must be recognized where it satisfies the same demonstrability standards as formal institutional experience.
 - **Verified violation findings and standing locks:** [Verified Violation Findings](core_05defs_accountability.md#verified-violation-findings) may affect standing effect only when they rest on auditable, contestable findings satisfying **Chapters Two through Four** and [Chapter Eight](core_08-08_standing_assessment.md#verified-inputs-for-standing) — not allegations, intake labels, provisional routing, or forum-phase narratives alone.
-  - A [Standing Lock](core_05defs_accountability.md#standing-lock) is the restrictive counterpart to a competency gate. While a verified violation finding remains unresolved or materially unremediated, it may prevent or limit trust-, role-, authority-, credit-, or recognition-linked pathways under [Chapter Nine §4.2](core_09-09_standing_integration.md#42-general-standing-locks).
+  - A [Standing Lock](core_05defs_accountability.md#standing-lock) is the restrictive counterpart to a competency gate. While a verified violation finding remains unresolved or materially unremediated, it may prevent or limit trust-, role-, authority-, credit-, oversight-, recognition-, **governance-voting**, or comparable binding-collective-choice pathways under [Chapter Nine §4.2](core_09-09_standing_integration.md#42-general-standing-locks).
   - A standing lock is not a dignity rank, Rights-Floor reduction, automatic retaliation, or merged merit score.
   - Each standing lock must identify the effect blocked or limited, the protected subjects or interests, the corrective condition, the review path, and the reassessment point — and remain necessary, proportionate, auditable, and contestable.
   - A verified failure to recuse from a forum role where recusal was required and impartiality was materially compromised creates the **forum-service standing lock** stated in [Chapter Nine §5.5](core_09-09_standing_integration.md#55-special-locks). Reinstatement to forum service requires strict independent restoration; ordinary apology, prior contribution, reputation, expertise scarcity, or staffing need cannot satisfy that path by itself.
@@ -1304,7 +1304,9 @@ It must remain distinct from:
 - **Reinstatement and non-entrenchment:** Where standing is reduced due to violation findings, systems must provide clear conditions for review, remediation-based restoration, and periodic re-evaluation under [Chapter Nine §8](core_09-09_standing_integration.md#8-restoration-and-reassessment).
   - Permanent exclusion based solely on historical status, without current and auditable justification, is non-compliant.
   - Completion of correction, restitution, monitoring, safeguard implementation, or other demonstrated reduction of recurrence risk must create a real reassessment pathway where lawful; failure to complete those obligations keeps the unresolved finding live for standing purposes.
-#### Article XVIII-C: Good Standing, Responsibility, and Continuous Audit
+#### Article XVIII-C: Pathway Eligibility, Responsibility, and Continuous Audit
+<a id="article-xviii-c-good-standing-responsibility-and-continuous-audit"></a>
+<a id="article-xviii-c-pathway-eligibility-responsibility-and-continuous-audit"></a>
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
@@ -1316,6 +1318,9 @@ It must remain distinct from:
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
 - [Accountability](core_05apex_accountability_leg.md#accountability) · [O](core_05apex_accountability_leg.md#accountability) · [A](core_05apex_accountability_leg.md#accountability-a) · [C](core_05apex_accountability_leg.md#accountability-c)
+- [Standing Lock](core_05defs_accountability.md#standing-lock) · [O](core_05defs_accountability.md#standing-lock) · [A](core_05defs_accountability.md#standing-lock-a) · [C](core_05defs_accountability.md#standing-lock-c)
+- [Competency Gate](core_05defs_accountability.md#competency-gate) · [O](core_05defs_accountability.md#competency-gate) · [A](core_05defs_accountability.md#competency-gate-a) · [C](core_05defs_accountability.md#competency-gate-c)
+- [Participant Standing](core_05defs_accountability.md#participant-standing-constitutional) · [O](core_05defs_accountability.md#participant-standing-constitutional) · [A](core_05defs_accountability.md#participant-standing-constitutional-a) · [C](core_05defs_accountability.md#participant-standing-constitutional-c)
 - [Collective Accountability Failure](core_05defs_accountability.md#collective-accountability-failure) · [O](core_05defs_accountability.md#collective-accountability-failure) · [A](core_05defs_accountability.md#collective-accountability-failure-a) · [C](core_05defs_accountability.md#collective-accountability-failure-c)
 - [Trust](core_05defs_continuity.md#trust) · [O](core_05defs_continuity.md#trust) · [A](core_05defs_continuity.md#trust-a) · [C](core_05defs_continuity.md#trust-c)
 
@@ -1323,27 +1328,26 @@ It must remain distinct from:
 
 <br>
 
-*In plain terms: good standing must rest on present, observable, contestable evidence — not brand, scale, or past reputation — and cannot be used to permanently strip anyone of the vote in foundational constitutional choice, except that a **final** **Chapter Ten** classification of **anti-constitutional misconduct** withholds that voice until **full restitution** as stated in **Chapter Twelve Chapter One §8.1**.*
+*In plain terms: ordinary participation pathways stay open under published, contestable eligibility rules based on present evidence — not brand, scale, or past reputation. Closing a privilege requires a standing lock on that pathway. Standing locks cannot permanently strip foundational voice, except that a **final** **Chapter Ten** classification of **anti-constitutional misconduct** withholds that voice until **full restitution** as stated in **Chapter Twelve Chapter One §8.1**.*
 
-- **Good standing and responsibility:** Good standing earned through consistent alignment with foundational requirements may inform trust and eligibility for oversight roles.
-  - Recognition remains subject to continuous audit and to current, observable, contestable evidence — not reputation, scale, or historical standing alone.
-  - Good standing must:
-    - remain subject to the safeguards in this Article and in designated implementation text;
+- **Pathway eligibility and responsibility:** Published eligibility criteria for ordinary participation, trust-sensitive roles, oversight eligibility, **governance-voting**, and comparable binding-collective-choice pathways must rest on present, observable, contestable evidence — not reputation, scale, or historical standing alone. Consistent alignment with foundational requirements may support [Competency Gate](core_05defs_accountability.md#competency-gate) readiness and trust-sensitive role eligibility, but restrictive consequences attach only through [Standing Lock](core_05defs_accountability.md#standing-lock) pathways under [Chapter Nine §4.2](core_09-09_standing_integration.md#42-general-standing-locks).
+  - Eligibility and lock claims remain subject to continuous audit and to the safeguards in this Article and in designated implementation text.
+  - Eligibility and locks must:
     - remain subject to **Chapter Eight** (*Contribution, Violation, and Standing Model*);
-    - remain revisable when current evidence changes, and — where material restrictions or degradations are corrected — allow restoration or requalification pathways that are real rather than merely formal;
+    - remain revisable when current evidence changes, and — where material restrictions are corrected — allow restoration or requalification pathways that are real rather than merely formal;
     - account for acquiescent participation and failure to resist unlawful or unconstitutional directives where material duty and capacity were present, consistent with **Chapter Five** (*Collective Accountability Failure*);
     - not operate as a durable-political-voice disqualification vector in **Foundational Constitutional Choice** (**Chapter Five**), except where **Chapter Twelve Chapter One §8.1** withholds **durable political voice** for **final** **Chapter Ten** **anti-constitutional misconduct** pending **full restitution**.
-- **Political-voice discipline:** Where loss of standing is invoked to restrict participation in authorization of governing authority, the restriction must satisfy:
+- **Political-voice discipline:** Where a standing lock is invoked to restrict participation in authorization of governing authority, the restriction must satisfy:
   - individualized predicate under **Procedural Fairness**;
   - **Necessity** and **Proportionality** under **Chapter One**;
   - narrow tailoring to the specific misconduct category;
   - real rather than merely formal restoration pathways.
 
-  **Anti-constitutional misconduct** designated under **Chapter Ten** on a final Chapter Eight **Violation Axis s = 7**, **s = 8**, or **s = 9** impact slot is outside this standing-based discipline for **durable political voice**: participation remains withheld until **full restitution** as stated in **Chapter Twelve Chapter One §8.1**. Chapter Ten adds the designation; it does not assign the numeric slot.
+  **Anti-constitutional misconduct** designated under **Chapter Ten** on a final Chapter Eight **Violation Axis s = 7**, **s = 8**, or **s = 9** impact slot is outside this standing-lock discipline for **durable political voice**: participation remains withheld until **full restitution** as stated in **Chapter Twelve Chapter One §8.1**. Chapter Ten adds the designation; it does not assign the numeric slot.
 
   The following are non-compliant:
   - broad-misconduct categories swept into disqualification scope;
-  - standing-loss patterns that track **Protected Characteristics** or their material proxies.
+  - lock patterns that track **Protected Characteristics** or their material proxies.
 
   Operational implementation lives in **Chapter Twelve Chapter One §8.1** (*Durable political-voice floor*).
 
@@ -1363,7 +1367,7 @@ It must remain distinct from:
 
 *In plain terms: standing status is not a border, exile, or statelessness tool — you cannot lose movement, refuge, or exit rights just because your role standing dropped or a standing lock blocked trust-sensitive pathways. Verified violence, coercion, or anti-constitutional misconduct can still lead to lawful detention, custody, or other liberty restrictions under **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*) and full process protections; those are separate justice measures, not a standing-label workaround. If a case involves movement, migration, refuge, portability, recognition, or exit, **Article XIX** (*Interoperability, Portability, Movement, Refuge, and Exit Integrity*) supplies the governing floor.*
 
-Standing status, competency gates, good-standing determinations, and standing locks do not **by themselves** limit movement, migration, refuge, portability, exit, or non-statelessness rights. Standing locks natively limit trust-, role-, authority-, credit-, or recognition-linked pathways under [Chapter Nine §4.2](core_09-09_standing_integration.md#42-general-standing-locks); they are not a substitute for individualized justice process and must not function as exile, statelessness, refuge denial, or systemic lock-in by standing label alone.
+Standing status, competency gates, and standing locks do not **by themselves** limit movement, migration, refuge, portability, exit, or non-statelessness rights. Standing locks natively limit trust-, role-, authority-, credit-, oversight-, recognition-, **governance-voting**, and comparable binding-collective-choice pathways under [Chapter Nine §4.2](core_09-09_standing_integration.md#42-general-standing-locks); they are not a substitute for individualized justice process and must not function as exile, statelessness, refuge denial, or systemic lock-in by standing label alone.
 
 Lawful liberty-restricting measures — including detention, custody, supervised operation, or comparable movement restrictions — may still apply where verified violence, coercion, anti-constitutional misconduct, or comparable social danger requires them, but only through measures that satisfy **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*), **Article XXIII-C** (*Least-Restrictive and Time-Bounded Rule*), applicable criminal-process or equivalent protections under [Chapter Nine §5.4](core_09-09_standing_integration.md#54-special-violation-rules), and **Non-Statelessness** obligations in **Article XIX-D** (*Movement, Migration, Refuge, and Non-Statelessness*). Such measures must not render a sentient without a regime that recognizes baseline Rights-Floor protection, adjudicates standing, or provides redress pathways.
 
