@@ -1,6 +1,6 @@
 # Chapter Eight — specification (retired)
 
-This file is **retired**. It previously held implementation-facing expansion for **Chapter Eight** (contribution state, violation nature, standing effect). Its content **must not** be used as a normative source.
+This file is **retired**. It previously held implementation-facing expansion for **Chapter Eight** (contribution nature, violation nature, standing effect). Its content **must not** be used as a normative source.
 
 **Use instead**
 

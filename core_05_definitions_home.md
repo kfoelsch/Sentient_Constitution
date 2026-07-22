@@ -131,7 +131,7 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 - [Contested-Sentient Life](core_05defs_participation.md#contested-sentient-life-constitutional)
 - [Contingent Claim](core_05defs_accountability.md#contingent-claim)
 - [Continuity (Constitutional Aim)](core_05apex_continuity_aim.md#continuity-aim-constitutional)
-- [Contribution State](core_05defs_accountability.md#contribution-state)
+- [Contribution Nature](core_05defs_accountability.md#contribution-nature)
 - [Corpus](core_05defs_integrative.md#corpus)
 - [Creative Work Attribution](core_05defs_continuity.md#creative-work-attribution-constitutional)
 - [Decentralization](core_05defs_accountability.md#decentralization)

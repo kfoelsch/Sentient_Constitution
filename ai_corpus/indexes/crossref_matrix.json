@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-07-22T12:37:28+00:00",
+  "generated_at": "2026-07-22T13:33:31+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -2090,7 +2090,7 @@
               "#competency-clearance",
               "#contestability",
               "#contingent-claim",
-              "#contribution-state",
+              "#contribution-nature",
               "#decentralization",
               "#due-process-constitutional",
               "#event-contract-market",
@@ -3046,7 +3046,7 @@
               "#competency-clearance",
               "#contestability",
               "#contingent-claim",
-              "#contribution-state",
+              "#contribution-nature",
               "#decentralization",
               "#due-process-constitutional",
               "#event-contract-market",
@@ -3263,12 +3263,13 @@
           },
           {
             "file": "core_09-09_standing_integration.md",
-            "count": 15,
+            "count": 16,
             "anchors": [
               "#1-immutable-chapter-eight-inputs",
               "#3-descriptor-integration-and-attachment-normalization",
               "#42-general-standing-locks",
               "#5-lock-design-and-enforcement",
+              "#55-special-locks",
               "#62-competency-bars-and-clearances",
               "#82-remedy-system-durability",
               "#9-enforcement-realism",
@@ -4974,7 +4975,7 @@
             "count": 16,
             "anchors": [
               "#contestability",
-              "#contribution-state",
+              "#contribution-nature",
               "#forum-case-record",
               "#harm",
               "#harm-a",

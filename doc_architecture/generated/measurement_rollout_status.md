@@ -2,7 +2,7 @@
 
 Auto-generated. Do not edit by hand.
 
-Generated: 2026-07-22T11:52:42+00:00
+Generated: 2026-07-22T13:33:43+00:00
 
 Grouped by Preamble measurement category. **Approved** terms must carry `*Measurements:*` and tier-aligned **E**/**C** per [doc_architecture.md](../doc_architecture.md) MEAS-DEF-01.
 Approved progress: **213/214** terms pass tier audit.
@@ -192,7 +192,7 @@ Approved progress: **213/214** terms pass tier audit.
 | Constitutional Owner Layers | approved | primary_only | cluster_member | `core_05defs_integrative.md` | yes | pass |
 | Contestability | approved | full | cluster_member | `core_05defs_accountability.md` | yes | pass |
 | Contingent Claim | approved | primary_only | independent | `core_05defs_accountability.md` | yes | pass |
-| Contribution State | approved | primary_only | cluster_member | `core_05defs_accountability.md` | yes | pass |
+| Contribution Nature | approved | primary_only | cluster_member | `core_05defs_accountability.md` | yes | pass |
 | Decentralization | approved | primary_only | cluster_member | `core_05defs_accountability.md` | yes | pass |
 | Due Process | approved | primary_only | cluster_member | `core_05defs_accountability.md` | yes | pass |
 | Event-Contract Market | approved | primary_only | independent | `core_05defs_accountability.md` | yes | pass |

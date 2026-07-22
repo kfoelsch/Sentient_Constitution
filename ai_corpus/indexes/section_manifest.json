@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-07-22T12:37:27+00:00",
+  "generated_at": "2026-07-22T13:33:30+00:00",
   "files": {
     "core_00_preamble.md": {
       "total_lines": 248,
@@ -1202,13 +1202,13 @@
       ]
     },
     "core_05defs_accountability.md": {
-      "total_lines": 2450,
+      "total_lines": 2457,
       "sections": [
         {
           "header": "Accountability Constitutional Definitions",
           "level": 1,
           "line_start": 1,
-          "line_end": 2450,
+          "line_end": 2457,
           "anchor": null
         },
         {
@@ -1446,7 +1446,7 @@
           "header": "Accountability: Dependent clusters",
           "level": 3,
           "line_start": 1063,
-          "line_end": 2450,
+          "line_end": 2457,
           "anchor": "#stakeholder-identification-participation-semi-independent"
         },
         {
@@ -1565,161 +1565,161 @@
           "header": "3.10 Standing State, Contribution, and Violation",
           "level": 4,
           "line_start": 1637,
-          "line_end": 2183,
+          "line_end": 2190,
           "anchor": "#standing-state-contribution-and-violation-cluster"
         },
         {
           "header": "Participant Standing",
           "level": 5,
-          "line_start": 1697,
-          "line_end": 1752,
+          "line_start": 1696,
+          "line_end": 1757,
           "anchor": "#participant-standing-constitutional"
         },
         {
-          "header": "Contribution State",
+          "header": "Contribution Nature",
           "level": 5,
-          "line_start": 1753,
-          "line_end": 1786,
-          "anchor": "#contribution-state"
+          "line_start": 1758,
+          "line_end": 1793,
+          "anchor": "#contribution-nature"
+        },
+        {
+          "header": "Violation Nature",
+          "level": 5,
+          "line_start": 1794,
+          "line_end": 1824,
+          "anchor": "#violation-nature-chapter-six"
         },
         {
           "header": "Verified Inputs for Standing",
           "level": 5,
-          "line_start": 1787,
-          "line_end": 1816,
+          "line_start": 1825,
+          "line_end": 1854,
           "anchor": "#verified-inputs-for-standing"
         },
         {
           "header": "Verified Violation Findings",
           "level": 5,
-          "line_start": 1817,
-          "line_end": 1847,
+          "line_start": 1855,
+          "line_end": 1885,
           "anchor": "#verified-violation-findings"
         },
         {
           "header": "Standing Effect",
           "level": 5,
-          "line_start": 1848,
-          "line_end": 1878,
+          "line_start": 1886,
+          "line_end": 1916,
           "anchor": "#standing-effect-chapter-six"
         },
         {
           "header": "Standing Record",
           "level": 5,
-          "line_start": 1879,
-          "line_end": 1909,
+          "line_start": 1917,
+          "line_end": 1947,
           "anchor": "#standing-record-chapter-six"
         },
         {
           "header": "Competency Bar",
           "level": 5,
-          "line_start": 1910,
-          "line_end": 1940,
+          "line_start": 1948,
+          "line_end": 1978,
           "anchor": "#competency-bar"
         },
         {
           "header": "Competency Clearance",
           "level": 5,
-          "line_start": 1941,
-          "line_end": 1972,
+          "line_start": 1979,
+          "line_end": 2010,
           "anchor": "#competency-clearance"
         },
         {
           "header": "Standing Lock",
           "level": 5,
-          "line_start": 1973,
-          "line_end": 2002,
+          "line_start": 2011,
+          "line_end": 2040,
           "anchor": "#standing-lock"
-        },
-        {
-          "header": "Violation Nature",
-          "level": 5,
-          "line_start": 2003,
-          "line_end": 2033,
-          "anchor": "#violation-nature-chapter-six"
         },
         {
           "header": "Top-Slot Review",
           "level": 5,
-          "line_start": 2034,
-          "line_end": 2063,
+          "line_start": 2041,
+          "line_end": 2070,
           "anchor": "#top-slot-review"
         },
         {
           "header": "Unified Incident",
           "level": 5,
-          "line_start": 2064,
-          "line_end": 2093,
+          "line_start": 2071,
+          "line_end": 2100,
           "anchor": "#unified-incident"
         },
         {
           "header": "Unified Record",
           "level": 5,
-          "line_start": 2094,
-          "line_end": 2123,
+          "line_start": 2101,
+          "line_end": 2130,
           "anchor": "#unified-record"
         },
         {
           "header": "Single Catastrophic Incident",
           "level": 5,
-          "line_start": 2124,
-          "line_end": 2153,
+          "line_start": 2131,
+          "line_end": 2160,
           "anchor": "#single-catastrophic-incident"
         },
         {
           "header": "Sustained High-Gravity Pattern",
           "level": 5,
-          "line_start": 2154,
-          "line_end": 2183,
+          "line_start": 2161,
+          "line_end": 2190,
           "anchor": "#sustained-high-gravity-pattern"
         },
         {
           "header": "3.11 Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm",
           "level": 4,
-          "line_start": 2184,
-          "line_end": 2450,
+          "line_start": 2191,
+          "line_end": 2457,
           "anchor": "#use-of-force-autonomous-coercion-and-mass-harm-cluster"
         },
         {
           "header": "Use of Force",
           "level": 5,
-          "line_start": 2218,
-          "line_end": 2252,
+          "line_start": 2225,
+          "line_end": 2259,
           "anchor": "#use-of-force-constitutional"
         },
         {
           "header": "Autonomous Lethal System",
           "level": 5,
-          "line_start": 2253,
-          "line_end": 2293,
+          "line_start": 2260,
+          "line_end": 2300,
           "anchor": "#autonomous-lethal-system-constitutional"
         },
         {
           "header": "Weapons of Mass Harm",
           "level": 5,
-          "line_start": 2294,
-          "line_end": 2326,
+          "line_start": 2301,
+          "line_end": 2333,
           "anchor": "#weapons-of-mass-harm-constitutional"
         },
         {
           "header": "Combatant / Non-Combatant Distinction",
           "level": 5,
-          "line_start": 2327,
-          "line_end": 2363,
+          "line_start": 2334,
+          "line_end": 2370,
           "anchor": "#combatant-non-combatant-distinction-constitutional"
         },
         {
           "header": "Irreversible Deprivation Measure",
           "level": 5,
-          "line_start": 2364,
-          "line_end": 2406,
+          "line_start": 2371,
+          "line_end": 2413,
           "anchor": "#irreversible-deprivation-measure-constitutional"
         },
         {
           "header": "Autonomous Coercion Tool",
           "level": 5,
-          "line_start": 2407,
-          "line_end": 2450,
+          "line_start": 2414,
+          "line_end": 2457,
           "anchor": "#autonomous-coercion-tool-constitutional"
         }
       ]

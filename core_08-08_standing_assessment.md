@@ -262,7 +262,7 @@ Every standing record must include, at minimum:
 
 <a id="verified-inputs-for-standing"></a>
 
-**Verified-input gate.** Any decision that affects standing, trust, role, recognition, or eligibility for recognition may use only verified inputs from the relevant **contribution standing records** or **violation standing records**. Allegations, unadjudicated claims, provisional routing tags, intake-only narratives, and other dispute-phase material do not supply contribution state or violation nature for standing by themselves.
+**Verified-input gate.** Any decision that affects standing, trust, role, recognition, or eligibility for recognition may use only verified inputs from the relevant **contribution standing records** or **violation standing records**. Allegations, unadjudicated claims, provisional routing tags, intake-only narratives, and other dispute-phase material do not supply contribution nature or violation nature for standing by themselves.
 
 **Contribution standing records** must also state:
 
@@ -632,7 +632,7 @@ Some facts are related but answer different questions. Record them separately:
 
 The slot grammar uses a slot number, `s`, from **1** through **9**. Each axis has its own slot position:
 
-- the **Contribution Axis** records positive contribution state; and
+- the **Contribution Axis** records positive contribution nature; and
 - the **Violation Axis** records verified violation findings.
 
 The same slot number can appear on both axes, but the axes remain separate. A contribution slot is not a violation slot, and a violation slot is not a contribution slot.
@@ -713,11 +713,11 @@ The routing tables below are non-exhaustive. Every additional definition, princi
 
 | Canonical source | Contribution Axis role | Violation Axis role |
 | --- | --- | --- |
-| [Standing State, Contribution, and Violation](core_05defs_accountability.md#standing-state-contribution-and-violation-cluster) | Supplies the joint definition interface for contribution state, verified inputs, and axis-pure standing records. | Supplies the joint definition interface for verified violation findings, violation nature, standing records, and top-slot routing. |
+| [Standing State, Contribution, and Violation](core_05defs_accountability.md#standing-state-contribution-and-violation-cluster) | Supplies the joint definition interface for contribution nature, verified inputs, and axis-pure standing records. | Supplies the joint definition interface for verified violation findings, violation nature, standing records, and top-slot routing. |
 | [Accountability](core_05apex_accountability_leg.md#accountability) | Tests whether claimed stewardship or repair preserves attribution, answerability, review, redress, and correction proportional to impact. | Identifies attribution and answerability failures, including whether responsibility remains functional through organizational or formal-structure changes. |
 | [Harm](core_05defs_accountability.md#harm) | Externalized or concealed harm may cap or disqualify claimed benefit; verified repair of harm may support benefit when independently demonstrated. | Defines the direct, indirect, delayed, cumulative, cross-system, and psychologically mediated adverse effects that enter loss and severity measurement. |
 | [Materiality Determination](core_05defs_oversight.md#materiality-determination) and [Lifespan Equivalent Unit (LEQU)](core_05defs_participation.md#lifespan-equivalent-unit-lequ) | Scale verified benefit, scope, vulnerability, duration, and the applicable LEQU calibration. | Scale verified loss, danger, scope, vulnerability, duration, irreversibility, and the applicable LEQU calibration. |
-| [Contribution State](core_05defs_accountability.md#contribution-state) | Governs positive-only baseline satisfaction and demonstrable constitutional improvement. | Does not classify adverse findings or reduce violation severity. |
+| [Contribution Nature](core_05defs_accountability.md#contribution-nature) | Governs positive-only baseline satisfaction and demonstrable constitutional improvement. | Does not classify adverse findings or reduce violation severity. |
 | [Verified Violation Findings](core_05defs_accountability.md#verified-violation-findings) and [Violation Nature](core_05defs_accountability.md#violation-nature-chapter-six) | Do not become negative contribution and do not erase unrelated verified benefit. | Supply the compound verified basis and adverse classification required for a Violation Axis assignment. |
 | [Constitutional Constraint Violation](core_05defs_integrative.md#constitutional-constraint-violation) and [Supremacy and Enforceability](core_05defs_integrative.md#supremacy-and-enforceability) | Prevent claimed benefit from resting on constitutional defeat, evasion, or a narrowed Rights Floor. | Identify material constraint, supremacy, anti-evasion, or enforceability defeat relevant to substantive severity. |
 | [Auditability](core_05defs_oversight.md#auditability) and [Contestability](core_05defs_accountability.md#contestability) | Require demonstrable, reviewable benefit and a functional challenge path. | Require auditable, contestable findings and prevent allegations or opaque labels from supplying severity. |

@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/definition_registry.schema.json",
-  "generated_at": "2026-07-22T12:37:27+00:00",
+  "generated_at": "2026-07-22T13:33:43+00:00",
   "source": "authoritative Chapter Five core files and Chapter One principle-layer anchors (preamble + Part A)",
   "definition_count": 226,
   "definitions": [
@@ -109,26 +109,26 @@
       "term": "Autonomous Coercion Tool",
       "source_file": "core_05defs_accountability.md",
       "anchor": "#autonomous-coercion-tool-constitutional",
-      "line_start": 2407,
-      "line_end": 2450,
+      "line_start": 2414,
+      "line_end": 2457,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "3.11 Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm",
         "cluster_file": "core_05defs_accountability.md",
-        "line": 2211
+        "line": 2218
       }
     },
     {
       "term": "Autonomous Lethal System",
       "source_file": "core_05defs_accountability.md",
       "anchor": "#autonomous-lethal-system-constitutional",
-      "line_start": 2253,
-      "line_end": 2293,
+      "line_start": 2260,
+      "line_end": 2300,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "3.11 Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm",
         "cluster_file": "core_05defs_accountability.md",
-        "line": 2207
+        "line": 2214
       }
     },
     {
@@ -278,21 +278,21 @@
       "term": "Combatant / Non-Combatant Distinction",
       "source_file": "core_05defs_accountability.md",
       "anchor": "#combatant-non-combatant-distinction-constitutional",
-      "line_start": 2327,
-      "line_end": 2363,
+      "line_start": 2334,
+      "line_end": 2370,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "3.11 Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm",
         "cluster_file": "core_05defs_accountability.md",
-        "line": 2209
+        "line": 2216
       }
     },
     {
       "term": "Competency Bar",
       "source_file": "core_05defs_accountability.md",
       "anchor": "#competency-bar",
-      "line_start": 1910,
-      "line_end": 1940,
+      "line_start": 1948,
+      "line_end": 1978,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "3.10 Standing State, Contribution, and Violation",
@@ -304,8 +304,8 @@
       "term": "Competency Clearance",
       "source_file": "core_05defs_accountability.md",
       "anchor": "#competency-clearance",
-      "line_start": 1941,
-      "line_end": 1972,
+      "line_start": 1979,
+      "line_end": 2010,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "3.10 Standing State, Contribution, and Violation",
@@ -448,16 +448,16 @@
       "cluster_membership": null
     },
     {
-      "term": "Contribution State",
+      "term": "Contribution Nature",
       "source_file": "core_05defs_accountability.md",
-      "anchor": "#contribution-state",
-      "line_start": 1753,
-      "line_end": 1786,
+      "anchor": "#contribution-nature",
+      "line_start": 1758,
+      "line_end": 1793,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "3.10 Standing State, Contribution, and Violation",
         "cluster_file": "core_05defs_accountability.md",
-        "line": 1676
+        "line": 1675
       }
     },
     {
@@ -1071,13 +1071,13 @@
       "term": "Irreversible Deprivation Measure",
       "source_file": "core_05defs_accountability.md",
       "anchor": "#irreversible-deprivation-measure-constitutional",
-      "line_start": 2364,
-      "line_end": 2406,
+      "line_start": 2371,
+      "line_end": 2413,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "3.11 Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm",
         "cluster_file": "core_05defs_accountability.md",
-        "line": 2210
+        "line": 2217
       }
     },
     {
@@ -1356,13 +1356,13 @@
       "term": "Participant Standing",
       "source_file": "core_05defs_accountability.md",
       "anchor": "#participant-standing-constitutional",
-      "line_start": 1697,
-      "line_end": 1752,
+      "line_start": 1696,
+      "line_end": 1757,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "3.10 Standing State, Contribution, and Violation",
         "cluster_file": "core_05defs_accountability.md",
-        "line": 1675
+        "line": 1674
       }
     },
     {
@@ -1773,13 +1773,13 @@
       "term": "Single Catastrophic Incident",
       "source_file": "core_05defs_accountability.md",
       "anchor": "#single-catastrophic-incident",
-      "line_start": 2124,
-      "line_end": 2153,
+      "line_start": 2131,
+      "line_end": 2160,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "3.10 Standing State, Contribution, and Violation",
         "cluster_file": "core_05defs_accountability.md",
-        "line": 1688
+        "line": 1687
       }
     },
     {
@@ -1839,8 +1839,8 @@
       "term": "Standing Effect",
       "source_file": "core_05defs_accountability.md",
       "anchor": "#standing-effect-chapter-six",
-      "line_start": 1848,
-      "line_end": 1878,
+      "line_start": 1886,
+      "line_end": 1916,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "3.10 Standing State, Contribution, and Violation",
@@ -1852,8 +1852,8 @@
       "term": "Standing Lock",
       "source_file": "core_05defs_accountability.md",
       "anchor": "#standing-lock",
-      "line_start": 1973,
-      "line_end": 2002,
+      "line_start": 2011,
+      "line_end": 2040,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "3.10 Standing State, Contribution, and Violation",
@@ -1865,8 +1865,8 @@
       "term": "Standing Record",
       "source_file": "core_05defs_accountability.md",
       "anchor": "#standing-record-chapter-six",
-      "line_start": 1879,
-      "line_end": 1909,
+      "line_start": 1917,
+      "line_end": 1947,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "3.10 Standing State, Contribution, and Violation",
@@ -1970,13 +1970,13 @@
       "term": "Sustained High-Gravity Pattern",
       "source_file": "core_05defs_accountability.md",
       "anchor": "#sustained-high-gravity-pattern",
-      "line_start": 2154,
-      "line_end": 2183,
+      "line_start": 2161,
+      "line_end": 2190,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "3.10 Standing State, Contribution, and Violation",
         "cluster_file": "core_05defs_accountability.md",
-        "line": 1689
+        "line": 1688
       }
     },
     {
@@ -2082,13 +2082,13 @@
       "term": "Top-Slot Review",
       "source_file": "core_05defs_accountability.md",
       "anchor": "#top-slot-review",
-      "line_start": 2034,
-      "line_end": 2063,
+      "line_start": 2041,
+      "line_end": 2070,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "3.10 Standing State, Contribution, and Violation",
         "cluster_file": "core_05defs_accountability.md",
-        "line": 1685
+        "line": 1684
       }
     },
     {
@@ -2182,8 +2182,21 @@
       "term": "Unified Incident",
       "source_file": "core_05defs_accountability.md",
       "anchor": "#unified-incident",
-      "line_start": 2064,
-      "line_end": 2093,
+      "line_start": 2071,
+      "line_end": 2100,
+      "category": "dependent_cluster",
+      "cluster_membership": {
+        "cluster": "3.10 Standing State, Contribution, and Violation",
+        "cluster_file": "core_05defs_accountability.md",
+        "line": 1685
+      }
+    },
+    {
+      "term": "Unified Record",
+      "source_file": "core_05defs_accountability.md",
+      "anchor": "#unified-record",
+      "line_start": 2101,
+      "line_end": 2130,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "3.10 Standing State, Contribution, and Violation",
@@ -2192,29 +2205,16 @@
       }
     },
     {
-      "term": "Unified Record",
-      "source_file": "core_05defs_accountability.md",
-      "anchor": "#unified-record",
-      "line_start": 2094,
-      "line_end": 2123,
-      "category": "dependent_cluster",
-      "cluster_membership": {
-        "cluster": "3.10 Standing State, Contribution, and Violation",
-        "cluster_file": "core_05defs_accountability.md",
-        "line": 1687
-      }
-    },
-    {
       "term": "Use of Force",
       "source_file": "core_05defs_accountability.md",
       "anchor": "#use-of-force-constitutional",
-      "line_start": 2218,
-      "line_end": 2252,
+      "line_start": 2225,
+      "line_end": 2259,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "3.11 Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm",
         "cluster_file": "core_05defs_accountability.md",
-        "line": 2206
+        "line": 2213
       }
     },
     {
@@ -2299,8 +2299,8 @@
       "term": "Verified Inputs for Standing",
       "source_file": "core_05defs_accountability.md",
       "anchor": "#verified-inputs-for-standing",
-      "line_start": 1787,
-      "line_end": 1816,
+      "line_start": 1825,
+      "line_end": 1854,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "3.10 Standing State, Contribution, and Violation",
@@ -2312,8 +2312,8 @@
       "term": "Verified Violation Findings",
       "source_file": "core_05defs_accountability.md",
       "anchor": "#verified-violation-findings",
-      "line_start": 1817,
-      "line_end": 1847,
+      "line_start": 1855,
+      "line_end": 1885,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "3.10 Standing State, Contribution, and Violation",
@@ -2325,13 +2325,13 @@
       "term": "Violation Nature",
       "source_file": "core_05defs_accountability.md",
       "anchor": "#violation-nature-chapter-six",
-      "line_start": 2003,
-      "line_end": 2033,
+      "line_start": 1794,
+      "line_end": 1824,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "3.10 Standing State, Contribution, and Violation",
         "cluster_file": "core_05defs_accountability.md",
-        "line": 1684
+        "line": 1676
       }
     },
     {
@@ -2360,13 +2360,13 @@
       "term": "Weapons of Mass Harm",
       "source_file": "core_05defs_accountability.md",
       "anchor": "#weapons-of-mass-harm-constitutional",
-      "line_start": 2294,
-      "line_end": 2326,
+      "line_start": 2301,
+      "line_end": 2333,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "3.11 Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm",
         "cluster_file": "core_05defs_accountability.md",
-        "line": 2208
+        "line": 2215
       }
     },
     {
