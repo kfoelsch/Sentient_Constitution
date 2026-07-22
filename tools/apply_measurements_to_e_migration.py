@@ -290,8 +290,9 @@ def transform_section(section: list[str], term: str) -> tuple[list[str] | None, 
                 scope_lines.insert(0, f"  - **In scope:** {o_concept}")
         if not any(OUT_SCOPE_RE.match(raw) or "**Out of scope:**" in raw for raw in o_block[1:]):
             scope_lines.append(
-                "  - **Out of scope:** formal-label-only or nominal treatment without "
-                "functional effect on the constitutionally governed subject matter."
+                "  - **Out of scope:** TODO: name the term-specific near-miss excluded "
+                "from this definition (sibling boundary or hollow adjacent case — not a "
+                "generic formal-label clause)."
             )
         new_o = ["- **What it is**", *scope_lines]
 

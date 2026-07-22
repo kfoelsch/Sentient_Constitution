@@ -29,7 +29,7 @@
 - O: Move problems through detection, challenge, resolution, and repair in time — the Tetrad leg this entry names.
   - **In scope:** Principle-layer responsiveness duty scaling with [material stake](../core_00_preamble.md#material-stake) across detection, contestability, resolution, remediation, and stewardship correction in the constitutional coordination lifecycle.
   - **Depends on:** [Timely Resolution](core_05defs_accountability.md#timely-resolution-constitutional), [Capture of Resolution Pathways](core_05defs_accountability.md#capture-of-resolution-pathways), [Constitutional Efficiency](core_05defs_continuity.md#constitutional-efficiency), and [Avoidable Burden](core_05defs_continuity.md#avoidable-burden) — the conditions and channels this leg needs in order to work. Each term's detailed scope and how-to-measure rules live on its own definition; start from [Tetrad Leg decomposition](#timeliness-tetrad-leg-decomposition).
-  - Out of scope: formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
+  - **Out of scope:** Ceremony, published SLAs, or throughput metrics that leave detection, challenge, resolution, or repair materially stalled.
 <a id="timeliness-constitutional-m"></a>
 - M: How to tell whether problems are actually moving in time. This line only points to the measures; the how-to-measure rules sit on each linked definition. Topic map: [Tetrad Leg decomposition](#timeliness-tetrad-leg-decomposition). Rollout status: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md).
 <a id="timeliness-constitutional-a"></a>

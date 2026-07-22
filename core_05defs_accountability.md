@@ -1018,7 +1018,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
     - **Rights-layer pointer:** [Article IV](core_06-06_rights_part_a.md#article-iv-resource-allocation-dependencies-and-ecosystem-funding) (*Resource Allocation, Dependencies, and Ecosystem Funding*).
     - **Anti-nullification:** Adopter-tunable thresholds and ceilings cannot nullify the Chapter One §13 floor against concentration that predictably degrades wellbeing, agency, dignity, or ecological integrity.
     - **Application:** This definition applies across substrates and jurisdictions.
-  - **Out of scope:** Formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
+  - **Out of scope:** A threshold set so high it foreseeably never triggers, an entity-count cosmetic, federated or shell packaging, or a cross-domain control swap that leaves real concentration unreviewed.
 <a id="market-concentration-threshold-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Accountability measurement family — operational trigger within the market-structure subfamily.
@@ -1135,7 +1135,7 @@ The following limits also apply:
 
 - **What it is**
   - **In scope:** Any effect that materially worsens survival, [Wellbeing](core_05defs_continuity.md#wellbeing), [Meaningful Agency](core_05defs_participation.md#meaningful-agency), functional integrity, or [Psychological Harm](core_05defs_accountability.md#psychological-harm). This includes acute trauma, long-term psychological destabilization, and materially harmful neglect.
-  - **Out of scope:** A label or nominal treatment that has no functional effect on the constitutionally governed subject matter. Offense, discomfort, or disagreement alone is also insufficient without a material harm pathway.
+  - **Out of scope:** Offense, discomfort, or disagreement alone, without a material pathway to worsened survival, wellbeing, agency, functioning, or psychological health.
 <a id="harm-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Flourishing measurement family — primary owner for harm classification in this subfamily.
@@ -1168,7 +1168,7 @@ The following limits also apply:
 
 - **What it is**
   - **In scope:** The point at which a sentient's or collective's freedom of action must yield because it causes verifiable harm to another sentient's protected interests. Protected interests include wellbeing-related resources under **Article III-A** (*Survival*), ecological conditions under **Article I-A** (*Environmental Preconditions and Ecological Integrity*), and the [Info-Sphere](core_05defs_participation.md#info-sphere) under **Article XIV** (*Info-Sphere Integrity*). **Article X-B** (*Collective Harm Boundary and Enforcement Interface*) states this limit.
-  - **Out of scope:** A label or nominal treatment with no functional effect. Offense or preference alone, without a [Material Impact](core_05defs_oversight.md#material-impact) pathway, is not collective harm.
+  - **Out of scope:** Offense or preference alone, without a [Material Impact](core_05defs_oversight.md#material-impact) pathway, is not collective harm.
 <a id="collective-harm-boundary-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Flourishing measurement family and Accountability measurement family — supporting measure where multiple measurement families co-apply.
@@ -1185,7 +1185,7 @@ The following limits also apply:
 
 - **What it is**
   - **In scope:** Material injury, destabilization, or worsening of a sentient's cognitive, emotional, or relational integrity caused by sentient or system behavior. Causes include institutional process, coercion, manipulation, intimidation, neglect, and prolonged harmful conditions. Trauma and cumulative stress are included.
-  - **Out of scope:** A label or nominal treatment with no functional effect, and ordinary discomfort that does not materially affect protected conditions.
+  - **Out of scope:** Ordinary discomfort that does not materially affect protected conditions.
 <a id="psychological-harm-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Flourishing measurement family and Accountability measurement family — supporting measure where multiple measurement families co-apply.
@@ -1214,7 +1214,7 @@ The following limits also apply:
 
 - **What it is**
   - **In scope:** Damage that cannot be meaningfully undone within the relevant timescale. This includes damage to [Wellbeing](core_05defs_continuity.md#wellbeing), [Environmental Preconditions](core_05defs_continuity.md#environmental-preconditions-constitutional), or conditions that support a system, and therefore implicates [Reversibility](core_05defs_continuity.md#reversibility-constitutional).
-  - **Out of scope:** A label or nominal treatment with no functional effect.
+  - **Out of scope:** Calling realistically recoverable harm irreversible without explanation, or treating truly irreversible harm as recoverable based only on substitutes or promises of later repair.
 <a id="irreversible-harm-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Flourishing measurement family — irreversibility escalator within the harm subfamily.
@@ -1253,7 +1253,7 @@ The following limits also apply:
     - degrades dignity, safety, equal standing or participation, wellbeing, rest, education, or [Meaningful Agency](core_05defs_participation.md#meaningful-agency) in an associational, institutional, dependency, productive-activity, care, household, digital, or similar cooperative setting.
 
     A pattern may come from repeated acts, coordinated conduct, misuse of a role, captive channels, designed conditions, or cumulative hostile-environment effects.
-  - **Out of scope:** A label or nominal treatment with no functional effect.
+  - **Out of scope:** One-off rudeness, "just jokes," formal-rule compliance, an available public channel, or a nominal opt-out treated as disproving a material hostile-environment pattern.
 <a id="harassment-and-bullying-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Flourishing measurement family and Accountability measurement family — supporting measure where multiple measurement families co-apply.
@@ -1317,13 +1317,13 @@ Outside that scope, an individual forum-family entry may still be used as a supp
 
 **Cluster members.** This cluster comprises:
 
+- [Primary-Stakes Routing](core_05defs_accountability.md#primary-stakes-routing);
 - [Forum Family, Sentient](core_05defs_accountability.md#forum-family-sentient);
 - [Forum Family, Technical](core_05defs_accountability.md#forum-family-technical);
 - [Forum Family, Institutional](core_05defs_accountability.md#forum-family-institutional);
 - [Forum Family, Environment](core_05defs_accountability.md#forum-family-environment);
 - [Forum Family, Integrity](core_05defs_accountability.md#forum-family-integrity);
 - [Forum Family, Constitutional](core_05defs_accountability.md#forum-family-constitutional);
-- [Primary-Stakes Routing](core_05defs_accountability.md#primary-stakes-routing);
 - [Forum Case Record](core_05defs_accountability.md#forum-case-record).
 
 **Joint invocation and anti-bypass.** Under [Joint invocation and satisfaction](core_05_definitions_home.md#joint-invocation-and-satisfaction), a matter within this scope must be considered as a whole. It must not be split into separate questions about its case title, intake category, or specialist panel if doing so would:
@@ -1351,7 +1351,7 @@ Outside that scope, an individual forum-family entry may still be used as a supp
 
 - **What it is**
   - **In scope:** The rule that sends a matter to the forum family responsible for its main legal, remedial, safeguard, constitutional, or practical stake. The case caption, party preference, administrative convenience, and tactical framing do not control.
-  - **Out of scope:** A label or nominal treatment with no functional effect.
+  - **Out of scope:** Routing by case caption, party preference, funding incentive, specialty-panel title, or administrative convenience when those diverge from the matter's primary stake under Chapter Eleven.
 <a id="primary-stakes-routing-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Accountability measurement family and Timeliness measurement family — supporting measure where multiple measurement families co-apply.
@@ -1359,36 +1359,7 @@ Outside that scope, an individual forum-family entry may still be used as a supp
     **Primary assessment:** Read the claim or defense as a whole to identify its primary stake. Include the requested relief, necessary parties, coercive safeguards, constitutional floor, practical effect, and any component question that Chapter Eleven requires to be referred, certified, stayed, or coordinated.
 <a id="primary-stakes-routing-c"></a>
 - **What must hold**
-  - It is non-compliant to let captions, intake labels, specialty-panel labels, funding incentives, or administrative convenience control when they conflict with the forum family assigned by Chapter Eleven's primary-stakes table, transfer rules, certification rules, or anti-self-judging backup discipline.
-
----
-
-<a id="forum-case-record"></a>
-##### Forum Case Record
-
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Owner: [Chapter Eleven §2.3](core_11-11_forum.md#23-forum-records-standing-records-and-contests); read with [Chapter Eleven §2](core_11-11_forum.md#2-default-venue-and-primary-stakes) (*intake triage and primary-stakes routing*) and [Chapter Eight §3.6](core_08-08_standing_assessment.md#36-forum-boundary) (*forum boundary*).
-- Read with: [Standing Record](core_05defs_accountability.md#standing-record-chapter-six), [Adjudication and Dispute Resolution](core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional), [Contestability](core_05defs_accountability.md#contestability), [Auditability](core_05defs_oversight.md#auditability), [Primary-Stakes Routing](core_05defs_accountability.md#primary-stakes-routing), and [Merits Determination](core_05defs_accountability.md#merits-determination).
-
-</details>
-
-<br>
-
-*In plain terms: a Forum Case Record is the case file for a dispute. It is not a Standing Record, and it does not itself create a Standing Effect.*
-
-- **What it is**
-  - **In scope:** The case file a forum keeps for a dispute. It includes claims, evidence, routing choices, temporary orders, certified questions, and final findings in that case. It records forum supervision during the dispute; it is **not** a [Standing Record](core_05defs_accountability.md#standing-record-chapter-six). Filing a case, choosing a forum family, making intake notes, issuing a temporary order, recording an unresolved allegation, discussing settlement, or applying a provisional routing label does not by itself open, update, or correct a standing record, role eligibility, trust status, recognition, or final standing effect. A forum decision may enter a Chapter Eight **contribution standing record** or **violation standing record** only if it produces a verified contribution record, verified violation finding, **system alignment certification record**, or another finding that is bounded, traceable, contestable, and verified under Chapters Two through Four and all required review safeguards. Chapter Five pointer; canonical mechanics: Chapter Eleven §2.3.
-  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter; Chapter Eight standing measurement; Chapter Nine standing-effect decisions; and operational form libraries, templates, or evidence-artifact catalogs owned by forum implementation layers (**CF-15**) except insofar as they instantiate this case file.
-<a id="forum-case-record-a"></a>
-- **How to measure and assess**
-  - **Primary measure:** Accountability measurement family and Timeliness measurement family — supporting measure where multiple measurement families co-apply.
-
-    **Primary assessment:** Check that the record clearly identifies the matter, parties or subjects, routing choices, applicable preservation and Rights-Floor flags, orders, certified questions, findings, and contest paths. Even in a mixed-stakes lead record, Contribution Axis and Violation Axis measurements, any Chapter Ten designation, and Chapter Nine standing effects must remain separately auditable. Keep dispute-phase material separate from Chapter Eight verified inputs for standing.
-<a id="forum-case-record-c"></a>
-- **What must hold**
-  - It is non-compliant to treat a forum case record, intake label, provisional routing tag, temporary order, unresolved allegation, or settlement discussion as a standing record or standing effect. It is also non-compliant to merge contribution and violation tracks into a case narrative that defeats axis-pure audit, or to substitute the case record for Chapter Eight measurement or Chapter Nine consequence decisions.
+  - A case must go to the forum family that Chapter Eleven assigns based on what is mainly at stake. Its caption, intake or specialty-panel label, funding incentives, or administrative convenience cannot send it elsewhere. Chapter Eleven's rules for primary stakes, transfers, certifications, and independent backup review when a forum would otherwise judge its own authority still apply.
 
 ---
 
@@ -1408,12 +1379,12 @@ Outside that scope, an individual forum-family entry may still be used as a supp
 
 - **What it is**
   - **In scope:** The forum family for sentient-versus-sentient disputes whose main stake concerns private or community obligations, civil harms, restoration, or local norms. It does not finally decide constitutional validity or, as the primary question, what an institution may or is charged to do.
-  - **Out of scope:** A label or nominal treatment with no functional effect.
+  - **Out of scope:** Sentient-versus-sentient captions, private-dispute framing, or local-norm packaging that would finally decide institutional mandate or constitutional validity, or that would be the sole path when Chapter Eleven §2.2 requires Institutional or Integrity availability.
 <a id="forum-family-sentient-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Accountability measurement family and Timeliness measurement family — supporting measure where multiple measurement families co-apply.
 
-    **Primary assessment:** Apply Chapter Eleven's default-venue and primary-stakes rules while preserving Chapter Eight measurements. Reject routing based on a case caption when it conflicts with the primary stake in Chapter Eleven §2's **Sentient** row.
+    **Primary assessment:** Apply Chapter Eleven (*Forums and Jurisdiction*) default-venue and primary-stakes rules while preserving Chapter Eight (*Contribution, Violation, and Standing Model*) measurements. Reject routing based on a case caption when it conflicts with the primary stake in Chapter Eleven §2's **Sentient** row.
 <a id="forum-family-sentient-c"></a>
 - **What must hold**
   - It is non-compliant to make a **Sentient** forum decide final institutional or constitutional merits when Chapter Eleven requires another lead family. It is also non-compliant to make **Sentient** forums the only path when asymmetry or dependency requires **Institutional** or **Integrity** availability under Chapter Eleven §2.2.
@@ -1436,7 +1407,7 @@ Outside that scope, an individual forum-family entry may still be used as a supp
 
 - **What it is**
   - **In scope:** The forum family, including specialized chambers or panels within other families, for matters whose main stake is technical-governance procedure, expert-evidence standards, knowledge governance, standards stewardship, or reducing bounded uncertainty that matters to adjudication or regulation.
-  - **Out of scope:** A label or nominal treatment with no functional effect.
+  - **Out of scope:** A technical specialty title, expert-panel assignment, or standards-body branding that automatically overrides primary-stakes routing or displaces the lawfully assigned merits authority for a non-technical primary question.
 <a id="forum-family-technical-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Accountability measurement family and Timeliness measurement family — supporting measure where multiple measurement families co-apply.
@@ -1464,7 +1435,7 @@ Outside that scope, an individual forum-family entry may still be used as a supp
 
 - **What it is**
   - **In scope:** The forum family for disputes where an institution is a necessary party or the main stake is what the institution may do, what it must do, how it is supervised, how adopted instruments classify it, or whether it met its institutional duties.
-  - **Out of scope:** A label or nominal treatment with no functional effect.
+  - **Out of scope:** Internal process labels, private-party captions, or supervised-scope branding used to deny Institutional routing when Chapter Eleven §2 requires it, or to avoid independent Integrity or backup review of material capture or conflict allegations.
 <a id="forum-family-institutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Accountability measurement family and Timeliness measurement family — supporting measure where multiple measurement families co-apply.
@@ -1492,7 +1463,7 @@ Outside that scope, an individual forum-family entry may still be used as a supp
 
 - **What it is**
   - **In scope:** The forum family for matters whose main stake is ecological integrity, environmental preconditions, lifecycle or system-wide ecological harm, restoration or remediation of shared systems, attributable environmental burdens, or a pattern of ecological failure material to classification or Rights-Floor enforcement.
-  - **Out of scope:** A label or nominal treatment with no functional effect.
+  - **Out of scope:** Private-dispute or ordinary-property framing of ecological merits when Chapter Eleven §2 makes the primary stake environmental, and splitting restoration from preconditions analysis to defeat joint ecological-merits review.
 <a id="forum-family-environment-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Accountability measurement family and Timeliness measurement family — supporting measure where multiple measurement families co-apply.
@@ -1520,7 +1491,7 @@ Outside that scope, an individual forum-family entry may still be used as a supp
 
 - **What it is**
   - **In scope:** The forum family for disputes whose main stake is integrity of office or process, contest pathways, disclosure, conflict rules, anti-capture duties, or a pattern of system-wide integrity failure across institutions. It applies where Chapter Eight impact measurement, a corresponding Chapter Ten anti-constitutional-misconduct designation, or Rights-Floor enforcement depends on that decision. It includes the alignment rulings and coordinated records described in Chapter Eleven Chapter One §8.2.5.
-  - **Out of scope:** A label or nominal treatment with no functional effect.
+  - **Out of scope:** Integrity branding, anti-capture paperwork, or process titles that silently displace required Constitutional certification for structural validity or class-wide remedy, or that refuse backup routing when Chapter Eleven §3 assigns an independent lead family.
 <a id="forum-family-integrity-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Accountability measurement family and Timeliness measurement family — supporting measure where multiple measurement families co-apply.
@@ -1548,7 +1519,7 @@ Outside that scope, an individual forum-family entry may still be used as a supp
 
 - **What it is**
   - **In scope:** The forum family that decides constitutional validity and meaning; structural remedies that change governance for classes of actors or systems; certified questions from other families; and supremacy disputes where constitutional text alone can resolve the certified issue.
-  - **Out of scope:** A label or nominal treatment with no functional effect.
+  - **Out of scope:** Provisional operational-law rulings, implementation detail, or non-certified questions treated as final constitutional validity, meaning, or structural-remedy dispositions, or used to bypass Chapter Eleven §5 certification when those stakes are materially present.
 <a id="forum-family-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Accountability measurement family and Timeliness measurement family — supporting measure where multiple measurement families co-apply.
@@ -1557,6 +1528,35 @@ Outside that scope, an individual forum-family entry may still be used as a supp
 <a id="forum-family-constitutional-c"></a>
 - **What must hold**
   - It is non-compliant to treat non-certifiable operational detail as a final constitutional disposition, or to weaken certification discipline so a family bypasses Chapter Eleven §5 when constitutional validity, meaning, or structural remedy is materially at stake.
+
+---
+
+<a id="forum-case-record"></a>
+##### Forum Case Record
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Owner: [Chapter Eleven §2.3](core_11-11_forum.md#23-forum-records-standing-records-and-contests); read with [Chapter Eleven §2](core_11-11_forum.md#2-default-venue-and-primary-stakes) (*intake triage and primary-stakes routing*) and [Chapter Eight §3.6](core_08-08_standing_assessment.md#36-forum-boundary) (*forum boundary*).
+- Read with: [Standing Record](core_05defs_accountability.md#standing-record-chapter-six), [Adjudication and Dispute Resolution](core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional), [Contestability](core_05defs_accountability.md#contestability), [Auditability](core_05defs_oversight.md#auditability), [Primary-Stakes Routing](core_05defs_accountability.md#primary-stakes-routing), and [Merits Determination](core_05defs_accountability.md#merits-determination).
+
+</details>
+
+<br>
+
+*In plain terms: a Forum Case Record is the case file for a dispute. It is not a Standing Record, and it does not itself create a Standing Effect.*
+
+- **What it is**
+  - **In scope:** The case file a forum keeps for a dispute. It includes claims, evidence, routing choices, temporary orders, certified questions, and final findings in that case. It records forum supervision during the dispute; it is **not** a [Standing Record](core_05defs_accountability.md#standing-record-chapter-six). Filing a case, choosing a forum family, making intake notes, issuing a temporary order, recording an unresolved allegation, discussing settlement, or applying a provisional routing label does not by itself open, update, or correct a standing record, role eligibility, trust status, recognition, or final standing effect. A forum decision may enter a Chapter Eight **contribution standing record** or **violation standing record** only if it produces a verified contribution record, verified violation finding, **system alignment certification record**, or another finding that is bounded, traceable, contestable, and verified under Chapters Two through Four and all required review safeguards. Chapter Five pointer; canonical mechanics: Chapter Eleven §2.3.
+  - **Out of scope:** Treating a filed case, intake label, temporary order, unresolved allegation, or settlement discussion as a Standing Record or Standing Effect; Chapter Eight standing measurement; Chapter Nine standing-effect decisions; and operational form libraries, templates, or evidence-artifact catalogs owned by forum implementation layers (**CF-15**) except insofar as they instantiate this case file.
+<a id="forum-case-record-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** Accountability measurement family and Timeliness measurement family — supporting measure where multiple measurement families co-apply.
+
+    **Primary assessment:** Check that the record clearly identifies the matter, parties or subjects, routing choices, applicable preservation and Rights-Floor flags, orders, certified questions, findings, and contest paths. Even in a mixed-stakes lead record, Contribution Axis and Violation Axis measurements, any Chapter Ten designation, and Chapter Nine standing effects must remain separately auditable. Keep dispute-phase material separate from Chapter Eight verified inputs for standing.
+<a id="forum-case-record-c"></a>
+- **What must hold**
+  - It is non-compliant to treat a forum case record, intake label, provisional routing tag, temporary order, unresolved allegation, or settlement discussion as a standing record or standing effect. It is also non-compliant to merge contribution and violation tracks into a case narrative that defeats axis-pure audit, or to substitute the case record for Chapter Eight measurement or Chapter Nine consequence decisions.
 
 ---
 
@@ -1653,7 +1653,7 @@ This cluster is the joint-invocation home for contribution state, standing recor
 *In plain terms: Participant Standing says whether a sentient currently qualifies to participate or hold a role under valid, contestable rules. It is not dignity, reputation, popularity, or proof that a sentient is a stakeholder.*
 
   - In scope: Participation status or role eligibility recognized from constitutionally valid standing records, standing effects, good-standing criteria, or role-specific qualification criteria. It is distinct from [Dignity and Equal Moral Standing](core_05defs_participation.md#dignity-and-equal-moral-standing), which every sentient has; reputation or social esteem; and proof of material impact for [Stakeholder](core_05defs_participation.md#stakeholder) identification. *Good standing* means current eligibility for ordinary participation, trust-sensitive roles, or qualified participation under constitutionally valid, contestable criteria. When lawful, restrictive access consequences belong to [Standing Effect](core_05defs_accountability.md#standing-effect-chapter-six), [Standing Lock](core_05defs_accountability.md#standing-lock), **Article XVIII** (*Standing and Participation Status*), and applicable Chapter Six limits. Chapter Five pointer for **Article XVIII** (*Standing and Participation Status*) participation status; axis mechanics: [Contribution State](core_05defs_accountability.md#contribution-state) and [Chapter Eight](core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model). Final **Violation Axis s = 7, s = 8, and s = 9** anti-constitutional misconduct slot assignment remains governed by [Chapter Ten](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct).
-  - Out of scope: formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
+  - Out of scope: Reputation, popularity, prestige, brand, or social esteem treated as participation or role eligibility; dignity; or proof that someone is a Stakeholder.
 *Measurements:*
 
 - **Primary:** Accountability measurement family and Timeliness measurement family — supporting measure where multiple measurement families co-apply.
@@ -1688,7 +1688,7 @@ This cluster is the joint-invocation home for contribution state, standing recor
 *In plain terms: Contribution State records only positive constitutional outcomes on Axis I. Adverse findings belong on Violation Axis II and cannot be averaged, netted, or offset against contributions.*
 
   - In scope: **Axis I** measures **positive-only** constitutional outcomes: **baseline** satisfaction and **demonstrable** improvement beyond baseline, under applicable functional system conditions. It **does not** classify **adverse** **violation** **findings** or non-compliance; those are measured under **violation nature** on **Axis II**. Chapter Five pointer; canonical mechanics: [Chapter Eight](core_08-08_standing_assessment.md) [**section 7**](core_08-08_standing_assessment.md#7-unified-proportional-lequ-scale), read with [**sections 1–2**](core_08-08_standing_assessment.md#2-purpose-and-role). Distinct from [Participant Standing](core_05defs_accountability.md#participant-standing-constitutional) (**Article XVIII** (*Standing and Participation Status*) participation-status and role-eligibility treatment).
-  - Out of scope: formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
+  - Out of scope: Adverse findings, Violation Axis scores, averages, nets, or offsets against Axis I; or popularity and allegation without verified positive constitutional outcome.
 *Measurements:*
 
 - **Primary:** Accountability measurement family and Timeliness measurement family — supporting measure where multiple measurement families co-apply.
@@ -1720,7 +1720,7 @@ This cluster is the joint-invocation home for contribution state, standing recor
 
 - **What it is**
   - **In scope:** The admissible facts and records used to apply contribution-linked or violation-linked standing consequences. For the Contribution Axis, these are demonstrable contribution records. For the Violation Axis, they are verified violation findings. Chapter Eight §2.1 requires each to appear in an axis-pure **contribution standing record** or **violation standing record** and meet Chapter Eight's requirements for records, evidence, auditability, contestability, and review status. Allegations, complaints, intake labels, routing decisions, reputation, disfavored status, moral dislike, and provisional forum-phase material are not verified inputs by themselves.
-  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
+  - **Out of scope:** Allegations, complaints, intake labels, routing choices, reputation scores, or provisional forum-phase material used by themselves as inputs for standing consequences.
 <a id="verified-inputs-for-standing-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Accountability measurement family and Timeliness measurement family — supporting measure where multiple measurement families co-apply.
@@ -1751,7 +1751,7 @@ This cluster is the joint-invocation home for contribution state, standing recor
 
 - **What it is**
   - **In scope:** **Violation Axis** inputs that may affect **standing effect** because they rest on auditable, contestable findings that satisfy Chapters **Two through Four** and Chapter Eight **§3.2**. Chapter Five pointer; canonical mechanics: Chapter Eight **§3.2** and [Chapter Nine](core_09-09_standing_integration.md#chapter-nine-standing-effects-and-integration). This entry works together with [Violation Nature](core_05defs_accountability.md#violation-nature-chapter-six): verified findings supply the admissible basis, and violation nature supplies the adverse-outcome classification that the finding supports. Allegations, intake labels, provisional routing, and forum-phase narratives are not verified violation findings by themselves.
-  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
+  - **Out of scope:** Allegations, intake labels, provisional routing tags, or unresolved forum-phase narratives treated as verified adverse findings for standing.
 <a id="verified-violation-findings-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Accountability measurement family and Timeliness measurement family — supporting measure where multiple measurement families co-apply.
@@ -1782,7 +1782,7 @@ This cluster is the joint-invocation home for contribution state, standing recor
 *In plain terms: Standing Effect is the consequence applied from verified, linked Standing Records. It is separate from those records and cannot merge, average, net, or offset the Contribution and Violation axes.*
 
   - In scope: The **consequence layer** that applies verified [**contribution state**](core_05defs_accountability.md#contribution-state) and [**verified violation findings**](core_05defs_accountability.md#verified-violation-findings) from linked **contribution standing records** and **violation standing records** to trust eligibility, roles, delegated authority, recognition, restriction, restoration, remediation, safeguards, and review. It includes positive pathways such as [**competency gates**](core_05defs_accountability.md#competency-gate) and restrictive pathways such as [**standing locks**](core_05defs_accountability.md#standing-lock). It is a decision consequence, not a dignity rank, Rights-Floor measure, merged merit score, or component of the standing record itself. Chapter Five pointer; canonical mechanics: Chapter Eight **section 2** and Chapter Nine **sections 1**, **4**, and **5**. It must keep the Contribution Axis and Violation Axis separately traceable and must not net, average, offset, or substitute one axis for the other. Read with [Article XXIII-B: Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints](core_06-06_rights_part_d.md#article-xxiii-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints) and [Article XXIII-C: Least-Restrictive and Time-Bounded Rule](core_06-06_rights_part_d.md#article-xxiii-c-least-restrictive-and-time-bounded-rule) where coercive or restrictive **standing**-linked measures are in play.
-  - Out of scope: formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
+  - Out of scope: A Standing Record itself, an allegation, a Forum Case Record, or any merged, averaged, netted, or offset blend of contribution and violation inputs treated as the consequence.
 *Measurements:*
 
 - **Primary:** Accountability measurement family and Timeliness measurement family — supporting measure where multiple measurement families co-apply.
@@ -1812,7 +1812,7 @@ This cluster is the joint-invocation home for contribution state, standing recor
 
 - **What it is**
   - **In scope:** A bounded, **axis-pure** record that applies Chapter Eight measurements to a defined subject, functional scope, time window, review status, and decision context. Each record measures verified behavior or findings on the Contribution Axis or the Violation Axis, never both. A **contribution standing record** measures verified contribution state; a **violation standing record** measures verified violation nature. Chapter Eight §4.2 requires related records to cross-reference each other when they share a subject, overlapping time window, bounded event, pattern, or decision context. Chapter Five pointer; canonical concept: Chapter Eight §2.1; operational requirements: Chapter Eight §3. The subject may be a sentient, institution, system, assessment, event, role, collective, actor-specific record, or another constitutionally relevant unit, but distinct units and contexts must remain separately traceable. The record supplies source material for later [Standing Effect](core_05defs_accountability.md#standing-effect-chapter-six) analysis; Chapter Nine applies that separate consequence layer from the linked record set. A standing record is not a general worth label, dignity rank, Rights-Floor measure, merged merit score, or effect decision.
-  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
+  - **Out of scope:** A Forum Case Record, intake label, temporary order, unresolved allegation, merged merit score, dignity rank, or Chapter Nine effect decision treated as the Chapter Eight measurement record.
 <a id="standing-record-chapter-six-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Accountability measurement family and Timeliness measurement family — supporting measure where multiple measurement families co-apply.
@@ -1842,7 +1842,7 @@ This cluster is the joint-invocation home for contribution state, standing recor
 
 - **What it is**
   - **In scope:** A positive standing-effect path that opens trust-sensitive roles, delegated authority, oversight eligibility, enhanced recognition, or increasingly consequential stewardship responsibility. It opens only when verified competence, experience, contribution records, and current good-standing criteria meet published requirements proportionate to the role. A competency gate is the opening-oriented counterpart to a [Standing Lock](core_05defs_accountability.md#standing-lock), but it is not reputation, social prestige, insider sponsorship, credential monopoly, dignity rank, Rights-Floor measure, or permanent entitlement.
-  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
+  - **Out of scope:** Prestige screening, insider sponsorship, opaque credential monopoly, permanent entitlement after one pass, or using a gate to erase unresolved violations or bypass standing locks.
 <a id="competency-gate-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Accountability measurement family and Timeliness measurement family — supporting measure where multiple measurement families co-apply.
@@ -1872,7 +1872,7 @@ This cluster is the joint-invocation home for contribution state, standing recor
 
 - **What it is**
   - **In scope:** A standing-effect constraint based on a verified Violation Axis assessment. While the verified finding remains unresolved or materially unremediated, it limits consequences tied to trust, roles, credit, recognition, or authority. A standing lock is not a dignity rank, Rights-Floor reduction, automatic retaliation, or merged merit score.
-  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
+  - **Out of scope:** A lock from unverified allegations, a permanent lock without review or remediation path, a dignity or Rights-Floor cut, or automatic retaliation framed as a standing lock.
 <a id="standing-lock-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Accountability measurement family and Timeliness measurement family — supporting measure where multiple measurement families co-apply.
@@ -1903,7 +1903,7 @@ This cluster is the joint-invocation home for contribution state, standing recor
 
 - **What it is**
   - **In scope:** The **Axis II** classification of **adverse** constitutional outcomes from [**verified violation findings**](core_05defs_accountability.md#verified-violation-findings). Chapter Eight **§7** assigns a verified-impact slot on its unified scale. Process / response and harm / conduct descriptors attach to that slot but do not move it. Chapter Five pointer; canonical mechanics: Chapter Eight **§7** and Chapter Nine descriptor sections. This entry works together with [Verified Violation Findings](core_05defs_accountability.md#verified-violation-findings): violation nature supplies the classification, and verified findings supply the admissible record basis. It is distinct from [**contribution state**](core_05defs_accountability.md#contribution-state), the positive-only **Axis I**, which uses the same bands in a separate record.
-  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
+  - **Out of scope:** Intent, coercion, concealment, or response descriptors that move the Chapter Eight impact slot, or contribution state used as adverse violation nature.
 <a id="violation-nature-chapter-six-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Accountability measurement family and Timeliness measurement family — supporting measure where multiple measurement families co-apply.
@@ -1933,7 +1933,7 @@ This cluster is the joint-invocation home for contribution state, standing recor
 
 - **What it is**
   - **In scope:** The Chapter Ten process that decides whether a final Chapter Eight Violation Axis `s = 7`, `s = 8`, or `s = 9` impact slot receives the matching anti-constitutional-misconduct designation. The process identifies the unified incident, applies the criteria, tests the designation conditions, and confirms due-process safeguards. It does not assign or move the numeric slot.
-  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
+  - **Out of scope:** Chapter Ten criteria, legacy tier labels, character descriptors, or standing locks used to assign or move the numeric Violation Axis slot.
 <a id="top-slot-review-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Accountability measurement family and Timeliness measurement family — supporting measure where multiple measurement families co-apply.
@@ -1963,7 +1963,7 @@ This cluster is the joint-invocation home for contribution state, standing recor
 
 - **What it is**
   - **In scope:** A whole episode, sustained campaign, or connected pattern assessed together for Chapter Ten designation review. The conduct must share material actors, objectives, continuity over time, causal links, or a unified design. Treating it as one incident prevents artificial splitting that would understate satisfied criteria, verified impact, or accountability.
-  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
+  - **Out of scope:** Splitting one materially connected scheme into separate incidents to understate impact or avoid review, or merging unrelated events solely to intensify classification.
 <a id="unified-incident-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Accountability measurement family and Timeliness measurement family — supporting measure where multiple measurement families co-apply.
@@ -1993,7 +1993,7 @@ This cluster is the joint-invocation home for contribution state, standing recor
 
 - **What it is**
   - **In scope:** The combined evidence and reasoning used to assess a unified incident under Chapter Ten's designation criteria and due-process safeguards after Chapter Eight assigns the impact slot. It keeps overlapping facts, actors, effects, criteria, and review status together while preserving separate proof for each criterion or pattern.
-  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
+  - **Out of scope:** Fragmented files that hide pattern gravity, merged files that erase distinct subjects' review rights, double-counted facts, or character used to move the Chapter Eight impact slot.
 <a id="unified-record-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Accountability measurement family and Timeliness measurement family — supporting measure where multiple measurement families co-apply.
@@ -2023,7 +2023,7 @@ This cluster is the joint-invocation home for contribution state, standing recor
 
 - **What it is**
   - **In scope:** A unified incident that, taken as a whole, causes or imminently threatens catastrophic constitutional harm of the kind Chapter Ten recognizes for grave or pernicious anti-constitutional misconduct. This includes loss or suspension of operative constitutional authority; material, population-scale loss of contestability or Rights-Floor continuity; or comparable harm relevant to survival or system continuity.
-  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
+  - **Out of scope:** Serious but non-catastrophic violations labeled catastrophic, or one catastrophic episode split into smaller procedural units to avoid the label.
 <a id="single-catastrophic-incident-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Accountability measurement family and Timeliness measurement family — supporting measure where multiple measurement families co-apply.
@@ -2053,7 +2053,7 @@ This cluster is the joint-invocation home for contribution state, standing recor
 
 - **What it is**
   - **In scope:** A unified incident made up of continuing, repeated, or systematically reinforced conduct whose combined verified impact reaches Chapter Eight slot 7, 8, or 9. It may then undergo Chapter Ten designation review. Material rollback, blocked or chilled challenge rights, Rights-Floor degradation, correction delayed beyond practical remedy, an equivalent structural workaround, institutional scale, capture, and durability may describe the pattern and support designation analysis, but they do not move the numeric slot.
-  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
+  - **Out of scope:** Repeated high-gravity conduct treated as isolated minor events, or ordinary repeated defects escalated to Chapter Ten gravity without proof of combined constitutional harm.
 <a id="sustained-high-gravity-pattern-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Accountability measurement family and Timeliness measurement family — supporting measure where multiple measurement families co-apply.
@@ -2120,7 +2120,7 @@ This cluster is the joint-invocation home for overt use of force, weapons of mas
 
   - **In scope:** overt application of physical, coercive, or kinetic force under the governance, security, conflict, and military-power registers that [Article XIII-B](core_06-06_rights_part_c.md#article-xiii-b-use-of-force-armed-conflict-and-military-power-limits) (*Use of Force, Armed Conflict, and Military-Power Limits*) covers, applied to both force-users and force-affected sentients.
   - **Depends on:** [Sentience Non-Exclusion](core_05defs_participation.md#sentience-non-exclusion), [Necessity](core_05defs_accountability.md#necessity), and [Proportionality](core_05defs_accountability.md#proportionality) — validity bounds; force is valid only under lawful and published authority, for a constitutionally legitimate and materially serious objective, where less harmful means are not reasonably sufficient, and where the use remains necessity-compatible, proportionality-compatible, narrowly tailored, time-bounded, and independently reviewable.
-  - Out of scope: ordinary non-coercive conduct; force used outside the registers **Article XIII-B** (*Use of Force, Armed Conflict, and Military-Power Limits*) covers; formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
+  - Out of scope: ordinary non-coercive conduct; force used outside the registers **Article XIII-B** (*Use of Force, Armed Conflict, and Military-Power Limits*) covers.
 *Measurements:*
 
 - **Primary:** Flourishing measurement family and Continuity measurement family — supporting measure where multiple measurement families co-apply.
@@ -2196,7 +2196,7 @@ This cluster is the joint-invocation home for overt use of force, weapons of mas
 
   - In scope: weapons, weapon systems, or deliberately weaponized capabilities whose foreseeable use causes casualty, ecological, informational, or infrastructural harm at a scale that materially implicates environmental-preconditions discipline under **Article I-A** (*Environmental Preconditions and Ecological Integrity*) or existential-risk scrutiny under **Article I-D** (*Existential Risk and Ecological Recovery Capacity*), or both.
   - **Depends on:** [Use of Force](core_05defs_accountability.md#use-of-force-constitutional), [Existential Risk](core_05defs_continuity.md#existential-risk), and [Ecological Integrity](core_05defs_continuity.md#ecological-integrity-constitutional) — constitutive bounds; possession, transfer, deployment, or use must satisfy Use of Force discipline and the harm-scale thresholds these entries supply.
-  - Out of scope: formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter; framing by weapon-class taxonomy alone where foreseeable harm scale implicates **Article I-D** (*Existential Risk and Ecological Recovery Capacity*) thresholds.
+  - **Out of scope:** Framing by weapon-class taxonomy alone where foreseeable harm scale implicates Article I-D (*Existential Risk and Ecological Recovery Capacity*) thresholds; or a catalog label that ignores the foreseeable scale of casualty, ecological, informational, or infrastructure harm.
 *Measurements:*
 
 - **Primary:** Flourishing measurement family and Continuity measurement family — supporting measure where multiple measurement families co-apply.
@@ -2229,7 +2229,7 @@ This cluster is the joint-invocation home for overt use of force, weapons of mas
 
   - In scope: individual-level distinction for each use-of-force decision. Formal combatant-class assignment is relevant evidence but cannot establish combatant status where it conflicts with substantive conduct, and substantive non-combatant conduct is not defeated by adverse formal classification. Does not authorize population-level reclassification by demographic, protected-characteristic, or proxy features.
   - **Depends on:** [Sentience Non-Exclusion](core_05defs_participation.md#sentience-non-exclusion) and [Use of Force](core_05defs_accountability.md#use-of-force-constitutional) — constitutive bounds; the distinction applies to all sentients without substrate-class narrowing and operates only within applicable Use of Force decisions.
-  - Out of scope: formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
+  - **Out of scope:** Demographic-group, protected-characteristic, or formal class assignment treated as combatant status without individual conduct at the time of the force decision.
 *Measurements:*
 
 - **Primary:** Flourishing measurement family and Continuity measurement family — supporting measure where multiple measurement families co-apply.
@@ -2268,7 +2268,7 @@ This cluster is the joint-invocation home for overt use of force, weapons of mas
   - durable but reversible containment ([Article XXIII-C](core_06-06_rights_part_d.md#article-xxiii-c-least-restrictive-and-time-bounded-rule) (*Least-Restrictive and Time-Bounded Rule*), subject to its duration-limit, review-cadence, and restoration discipline);
   - [Voluntary Discontinuation](core_05defs_continuity.md#voluntary-discontinuation-constitutional) (the sentient's own freely-formed decision under [Article VII-E](core_06-06_rights_part_b.md#article-vii-e-voluntary-discontinuation-of-ones-own-existence) (*Voluntary Discontinuation of One's Own Existence*));
   - overt [Use of Force](core_05defs_accountability.md#use-of-force-constitutional), [Weapons of Mass Harm](core_05defs_accountability.md#weapons-of-mass-harm-constitutional), and [Autonomous Lethal System](core_05defs_accountability.md#autonomous-lethal-system-constitutional) / [Autonomous Coercion Tool](core_05defs_accountability.md#autonomous-coercion-tool-constitutional) operation (governed by Articles XIII-B / XIII-C under their own owner-floor discipline even where effects are irreversible, without read-across authorizing a deprivation measure).
-  - Out of scope: formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
+  - Out of scope: Durable but reversible containment, Voluntary Discontinuation, or ordinary Use of Force that does not permanently deprive a sentient of life or equivalent irreversible status.
 *Measurements:*
 
 - **Primary:** Flourishing measurement family and Continuity measurement family — supporting measure where multiple measurement families co-apply.

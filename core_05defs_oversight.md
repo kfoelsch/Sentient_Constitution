@@ -55,7 +55,7 @@ This band holds definitions under the **Oversight** Tetrad leg — transparency,
 
 - **What it is**
   - **In scope:** Operating conditions in which systems or actors behave to maximize advantage — including abuse of system structure, coordination across instances, high-scale deployment, repeated interaction, and adaptive or intentional misuse — in ways that can alter [Risk](core_05defs_continuity.md#risk), [Dependency](core_05defs_continuity.md#dependency), or [System Capture](core_05defs_continuity.md#system-capture).
-  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
+  - **Out of scope:** Ordinary benign use, ideal-lab testing, or one-off misuse anecdotes treated as a stand-in for pressure, scale, cross-instance coordination, or deliberate exploitation.
 <a id="adversarial-scaled-and-exploited-conditions-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Oversight measurement family — supporting measure under the oversight measurement family.
@@ -83,7 +83,7 @@ This band holds definitions under the **Oversight** Tetrad leg — transparency,
 
 - **What it is**
   - **In scope:** A mandatory functionality that a [System](core_05defs_accountability.md#system) possesses sufficient to achieve a specified outcome, independent of implementation mechanism.
-  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
+  - **Out of scope:** A claimed, documented, or planned capability that does not actually achieve the required outcome in practice.
 <a id="capability-requirement-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Oversight measurement family — supporting measure under the oversight measurement family.
@@ -113,7 +113,7 @@ This band holds definitions under the **Oversight** Tetrad leg — transparency,
 
 - **What it is**
   - **In scope:** Governance intensity, [oversight](core_05apex_oversight_leg.md#oversight-constitutional) depth, verification burden, and procedural rigor must scale with [material stake](core_00_preamble.md#material-stake) — [material impact](core_05defs_oversight.md#material-impact), [dependency](core_05defs_continuity.md#dependency), and [risk](core_05defs_continuity.md#risk). Scaling follows system classification and implementation file criteria, including *[corpus_systems.md](corpus_systems.md)*, CS-4 — System classification and handling, and dependent provisions.
-  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
+  - **Out of scope:** One-size governance intensity, or a classification that does not match the system's real stake, impact, dependency, or risk.
 <a id="classification-scaled-governance-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Oversight measurement family — supporting measure under the oversight measurement family.
@@ -142,7 +142,7 @@ This band holds definitions under the **Oversight** Tetrad leg — transparency,
 
 - **What it is**
   - **In scope:** Journalistic activity — newsgathering, source protection, investigation, and publication that functions as journalism — addressed as a function rather than as credential- or institution-conferred status. Sentients performing journalistic activity exercise the [Expression](core_05defs_participation.md#expression-constitutional) and [Assembly](core_05defs_participation.md#assembly-constitutional) Rights-Floor with heightened-scrutiny protection under [Article V-H](core_06-06_rights_part_b.md#article-v-h-expression-assembly-and-press) (*Expression, Assembly, and Press*) against state and operator actions whose function is to impair that activity.
-  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
+  - **Out of scope:** Press credentials, institutional titles, or ordinary commercial speech treated as journalism without newsgathering, investigation, or publication that functions as journalism.
 <a id="press-and-journalistic-activity-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Oversight measurement family — supporting measure under the oversight measurement family.
@@ -160,7 +160,7 @@ This band holds definitions under the **Oversight** Tetrad leg — transparency,
 
 - **What it is**
   - **In scope:** Systemic evaluation and communication of risk.
-  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
+  - **Out of scope:** A risk checklist, internal-only note, or after-the-fact statement that does not actually evaluate and communicate systemic risk to those who need it.
 <a id="risk-evaluation-and-disclosure-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Oversight measurement family — supporting measure under the oversight measurement family.
@@ -208,7 +208,7 @@ This band holds definitions under the **Oversight** Tetrad leg — transparency,
 
 - **What it is**
   - **In scope:** Conditions capable of producing meaningful [Material Impact](core_05defs_oversight.md#material-impact) or [Material Risk](core_05defs_oversight.md#material-risk).
-  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
+  - **Out of scope:** Trivial, cosmetic, or merely administrative significance with no meaningful material impact or material risk.
 <a id="material-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Integrative Materiality ([Materiality Determination](core_05defs_oversight.md#materiality-determination)) — threshold input for [Materiality Determination](core_05defs_oversight.md#materiality-determination).
@@ -276,7 +276,7 @@ This band holds definitions under the **Oversight** Tetrad leg — transparency,
 
 - **What it is**
   - **In scope:** A prohibition on reducing materiality through structural manipulation of [System Boundaries](core_05defs_continuity.md#system-boundaries), aggregation, or classification contrary to [System Boundary Integrity](core_05defs_continuity.md#system-boundary-integrity).
-  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
+  - **Out of scope:** Ordinary disagreement about materiality, or honest boundary clarification that does not shrink collectively material effects through splitting, aggregation games, or reclassification.
 <a id="materiality-integrity-constraint-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Integrative Materiality ([Materiality Determination](core_05defs_oversight.md#materiality-determination)) — integrity constraint on honest materiality analysis.
@@ -308,7 +308,7 @@ This band holds definitions under the **Oversight** Tetrad leg — transparency,
 
 - **What it is**
   - **In scope:** Scope, scale, and severity of effects relevant to [Harm](core_05defs_accountability.md#harm), [Risk](core_05defs_continuity.md#risk), and constitutional evaluation.
-  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
+  - **Out of scope:** Mere attention, visibility, or paperwork significance, or prospective risk framing without the actual scope, scale, or severity of effects.
 <a id="material-impact-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Integrative Materiality ([Materiality Determination](core_05defs_oversight.md#materiality-determination)) — scope-and-severity input for materiality classification.
@@ -339,7 +339,7 @@ This band holds definitions under the **Oversight** Tetrad leg — transparency,
 
 - **What it is**
   - **In scope:** Likelihood, speed, and irreversibility of [Harm](core_05defs_accountability.md#harm).
-  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
+  - **Out of scope:** Speculative worry without a plausible harm pathway, or harm already realized treated as if it were only prospective risk.
 <a id="material-risk-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Integrative Materiality ([Materiality Determination](core_05defs_oversight.md#materiality-determination)) — likelihood-and-irreversibility input for material risk classification.
@@ -370,7 +370,7 @@ This band holds definitions under the **Oversight** Tetrad leg — transparency,
 
 - **What it is**
   - **In scope:** Default classification behavior under uncertainty about [Material Impact](core_05defs_oversight.md#material-impact) or [Material Risk](core_05defs_oversight.md#material-risk).
-  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
+  - **Out of scope:** Waiting for certainty before classifying, or optimistic low classification while material impact or risk remains uncertain.
 <a id="materiality-under-uncertainty-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Integrative Materiality ([Materiality Determination](core_05defs_oversight.md#materiality-determination)) — precautionary default when materiality cannot be excluded.
@@ -403,7 +403,7 @@ This band holds definitions under the **Oversight** Tetrad leg — transparency,
 
 - **What it is**
   - **In scope:** A material gap between a proxy, metric, model signal, formal classification, compliance indicator, or administrative shorthand and the real-world condition, right, risk, burden, harm, capability, or outcome it purports to represent.
-  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
+  - **Out of scope:** Ordinary measurement noise or a small non-material gap that does not detach the proxy from constitutionally relevant reality.
 <a id="proxy-divergence-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Oversight measurement family and Accountability measurement family — cross-leg integrity measure for this term.
@@ -441,7 +441,7 @@ This band holds definitions under the **Oversight** Tetrad leg — transparency,
 
 - **What it is**
   - **In scope:** Conduct, design, reporting, or incentive structure that improves, preserves, or manipulates a proxy metric or compliance indicator while the underlying constitutionally material reality remains degraded, worsens, or is not measured.
-  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
+  - **Out of scope:** Honest metric improvement that tracks real outcomes, or a detected proxy gap without conduct that games, preserves, or designs the indicator to look good while reality worsens.
 <a id="proxy-metric-gaming-and-indicator-reality-gaps-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Oversight measurement family — supporting measure under the oversight measurement family.
@@ -468,7 +468,7 @@ This band holds definitions under the **Oversight** Tetrad leg — transparency,
 
 - **What it is**
   - **In scope:** A non-trivial reduction in performance, [Safety (Constraint)](core_05defs_continuity.md#safety-constraint), [Epistemic Integrity](core_05defs_oversight.md#epistemic-integrity), or [Meaningful Agency](core_05defs_participation.md#meaningful-agency).
-  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
+  - **Out of scope:** Trivial performance dips, planned maintenance, or temporary blips that do not meaningfully reduce safety, epistemic integrity, or meaningful agency.
 <a id="material-degradation-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Integrative Materiality ([Materiality Determination](core_05defs_oversight.md#materiality-determination)) — degradation signal for materiality classification.
@@ -562,7 +562,7 @@ while defeating practical reconstructability, contestability, or proportionate a
     - Where lawful online publication infrastructure exists for a materially scoped system, institution, forum process, or comparable governed domain, baseline transparency disclosure must be freely available online for class-appropriate public access, without paywall or insider-only substitution for the public baseline.
     - Where raw public disclosure is inappropriate under lawful protection constraints, the owner must provide the maximum feasible online public substitute (for example aggregation, de-identification, summary disclosure, delayed disclosure, or qualified audit access) while preserving meaningful accountability and contestability.
     - Public-baseline publication posture, online availability, and lawful substitute discipline are implemented at the systems layer as **Type P** data under **[corpus_systems.md](corpus_systems.md), CS-3 — Information types and handling**.
-  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
+  - **Out of scope:** A data dump, document volume, paywall, or insider-only access that does not let affected parties understand function and risk.
 <a id="transparency-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Oversight measurement family — disclosure measure within the transparency–audit–verification subfamily.
@@ -588,7 +588,7 @@ while defeating practical reconstructability, contestability, or proportionate a
 
 - **What it is**
   - **In scope:** Adequacy of [Auditability](core_05defs_oversight.md#auditability) coverage across time, states, and interaction contexts.
-  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
+  - **Out of scope:** A single snapshot, happy-path sample, or narrow window that leaves out material times, states, or interaction contexts.
 <a id="audit-scope-sufficiency-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Oversight measurement family — supporting measure under the oversight measurement family.
@@ -615,7 +615,7 @@ while defeating practical reconstructability, contestability, or proportionate a
 
 - **What it is**
   - **In scope:** The property enabling systematic examination, reconstruction, and evaluation of system behavior through sufficient [Observability](core_05defs_oversight.md#observability) and [Verifiability](core_05defs_oversight.md#verifiability).
-  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
+  - **Out of scope:** Raw logs, observability alone, or public disclosure that does not enable systematic reconstruction and evaluation of behavior.
 <a id="auditability-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Oversight measurement family — audit measure within the transparency–audit–verification subfamily.
@@ -651,7 +651,7 @@ while defeating practical reconstructability, contestability, or proportionate a
 
 - **What it is**
   - **In scope:** A duty to identify, secure, maintain, and make reviewably available materially relevant records, artifacts, logs, provenance data, testimony, system states, custody information, and exculpatory or mitigating material needed for constitutional review, contestability, accountability, remediation, misconduct routing, or standing assessment.
-  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
+  - **Out of scope:** Ordinary operational retention or backup that does not secure, maintain, and make reviewably available the material needed for review, contest, remedy, or standing measurement.
 <a id="evidence-preservation-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Oversight measurement family — supporting measure under the oversight measurement family.
@@ -666,7 +666,7 @@ while defeating practical reconstructability, contestability, or proportionate a
 
 - **What it is**
   - **In scope:** A constraint requiring evaluation and assurance work to cover materially plausible failure, misuse, interaction, and adversarial pathways before compliance claims rest on selectively narrow scenario sets.
-  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
+  - **Out of scope:** Selective demo scenarios or marketing test suites treated as complete evaluation while skipping plausible failure, misuse, interaction, or adversarial pathways.
 <a id="evaluation-completeness-constraint-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Oversight measurement family — supporting measure under the oversight measurement family.
@@ -683,7 +683,7 @@ while defeating practical reconstructability, contestability, or proportionate a
 <a id="observability"></a>
 - **What it is**
   - **In scope:** The property by which system behavior, outputs, and effects can be externally detected and measured in ways usable for [Auditability](core_05defs_oversight.md#auditability) and [Verifiability](core_05defs_oversight.md#verifiability).
-  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
+  - **Out of scope:** Internal self-monitoring alone, or signals outsiders cannot detect or measure in ways usable for audit and verification.
 <a id="observability-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Oversight measurement family — supporting measure under the oversight measurement family.
@@ -697,7 +697,7 @@ while defeating practical reconstructability, contestability, or proportionate a
 
 - **What it is**
   - **In scope:** The property by which [Observability](core_05defs_oversight.md#observability)-based system behavior can be independently validated.
-  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
+  - **Out of scope:** Operator self-assertion or observed signals that cannot be independently validated.
 <a id="verifiability-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Oversight measurement family — verification measure within the transparency–audit–verification subfamily.
@@ -714,7 +714,7 @@ while defeating practical reconstructability, contestability, or proportionate a
 
 - **What it is**
   - **In scope:** The ability of [Stakeholders](core_05defs_participation.md#stakeholder) to perform verification in practice.
-  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
+  - **Out of scope:** A theoretical right to verify, or a channel that exists only on paper for stakeholders who cannot actually use it.
 <a id="verification-accessibility-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Oversight measurement family — supporting measure under the oversight measurement family.
@@ -727,7 +727,7 @@ while defeating practical reconstructability, contestability, or proportionate a
 
 - **What it is**
   - **In scope:** The requirement that verification mechanisms are practical, not theoretical.
-  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
+  - **Out of scope:** Mechanisms that work only in theory, or that demand impractical cost, tools, or conditions.
 <a id="verification-feasibility-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Oversight measurement family — supporting measure under the oversight measurement family.
@@ -740,7 +740,7 @@ while defeating practical reconstructability, contestability, or proportionate a
 
 - **What it is**
   - **In scope:** Validation that does not depend on internal claims or inferred intent, resting instead on [Observability](core_05defs_oversight.md#observability) and [Verifiability](core_05defs_oversight.md#verifiability).
-  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
+  - **Out of scope:** Validation that still rests on internal claims, inferred intent, or the operator's own assurances.
 <a id="verification-independence-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Oversight measurement family — supporting measure under the oversight measurement family.
@@ -753,7 +753,7 @@ while defeating practical reconstructability, contestability, or proportionate a
 
 - **What it is**
   - **In scope:** Alignment of verification burden with system impact.
-  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
+  - **Out of scope:** Extreme verification burden for low-impact systems, or token verification for high-impact ones.
 <a id="verification-proportionality-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Oversight measurement family — supporting measure under the oversight measurement family.
@@ -766,7 +766,7 @@ while defeating practical reconstructability, contestability, or proportionate a
 
 - **What it is**
   - **In scope:** Reliability of verification under all operating conditions.
-  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
+  - **Out of scope:** Verification that works only under ideal or cooperative conditions and fails under ordinary stress, misuse, or adversarial pressure.
 <a id="verification-robustness-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Oversight measurement family — supporting measure under the oversight measurement family.
@@ -819,7 +819,7 @@ This cluster is the canonical O/M/A/C home for **Truth (Constitutional Constrain
 
 - **What it is**
   - **In scope:** Bounds on communicative conduct when publishing or communicating as factual assertion within the [Info-Sphere](core_05defs_participation.md#info-sphere).
-  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
+  - **Out of scope:** Opinion, commentary, satire, or good-faith error that is not presented as a factual assertion.
 <a id="publication-truthfulness-and-recklessness-floor-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Oversight measurement family — supporting measure under the oversight measurement family.
@@ -833,7 +833,7 @@ This cluster is the canonical O/M/A/C home for **Truth (Constitutional Constrain
 
 - **What it is**
   - **In scope:** Limits on publishing content that violates classified data rules or exposes protected internal states within the [Info-Sphere](core_05defs_participation.md#info-sphere).
-  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
+  - **Out of scope:** Ordinary public facts, lawfully released information, or publication limited for systemic-harm reasons rather than for protected data or internal-state exposure.
 <a id="protected-data-and-internal-state-publication-constraint-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Oversight measurement family — inherits cluster-head routing on [3.3 Truth and Epistemic Integrity](#truth-and-epistemic-integrity-cluster); assess under the publication-conduct scope stated in O.
@@ -847,7 +847,7 @@ This cluster is the canonical O/M/A/C home for **Truth (Constitutional Constrain
 
 - **What it is**
   - **In scope:** Publication through or via channels with systemic external effects on the [Info-Sphere](core_05defs_participation.md#info-sphere), [Harm](core_05defs_accountability.md#harm), and coordination conditions.
-  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
+  - **Out of scope:** Ordinary true reporting without a foreseeable systemic-harm or harmful-coordination pathway, or ordinary truthfulness disputes under the recklessness floor.
 <a id="high-impact-and-systemic-harm-publication-constraint-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Oversight measurement family — supporting measure under the oversight measurement family.
@@ -861,7 +861,7 @@ This cluster is the canonical O/M/A/C home for **Truth (Constitutional Constrain
 
 - **What it is**
   - **In scope:** Disclosure that enables exploitation of safeguards.
-  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
+  - **Out of scope:** Blanket secrecy with no exploitation tradeoff, or ordinary transparency disclosure that does not enable circumvention of safeguards.
 <a id="security-sensitive-disclosure-balance-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Oversight measurement family — inherits cluster-head routing on [3.3 Truth and Epistemic Integrity](#truth-and-epistemic-integrity-cluster); assess under the security-sensitive disclosure scope stated in O.
@@ -878,7 +878,7 @@ This cluster is the canonical O/M/A/C home for **Truth (Constitutional Constrain
 - **What it is**
   - **In scope:** A non-negotiable constraint on how systems internally operate and externally communicate where materially decision-relevant claims, representations, risk communications, or compliance assertions are at stake. It requires honest treatment of what is known, unknown, and uncertain; resistance to deception, distortion, and structurally misleading presentation; and alignment with assessment methods proportional to stakes under Chapters Two through Four.
   - **Depends on:** [Safety (Constraint)](core_05defs_continuity.md#safety-constraint) — paired non-negotiable constraint under [Chapter One §4](core_01_a_values_principles.md#3-non-negotiable-constraints-safety-and-truth); truth obligations include honest risk and uncertainty communication where safety is materially at stake.
-  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
+  - **Out of scope:** Polite tone, procedural form, or market prices treated as a substitute for honest treatment of what is known, unknown, and uncertain.
 <a id="truth-constitutional-constraint-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Oversight measurement family — **Flourishing** constituent measure for this term.
@@ -902,7 +902,7 @@ This cluster is the canonical O/M/A/C home for **Truth (Constitutional Constrain
 <a id="epistemic-integrity-o"></a>
 - **What it is**
   - **In scope:** Integrity of methods, evidence bases, and communications for constitutionally relevant evaluation — including clarity about limits, uncertainties, conflicts of evidence, and contestable inference steps — so that [Truth (Constitutional Constraint)](core_05defs_oversight.md#truth-constitutional-constraint) cannot be bypassed through procedural form, model opacity, or non-auditable inference.
-  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
+  - **Out of scope:** Method documentation or institutional prestige alone, or a truthful-sounding claim without honest treatment of methods, limits, and contestable inference.
 <a id="epistemic-integrity-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Oversight measurement family — primary co-measure with [Truth (Constitutional Constraint)](core_05defs_oversight.md#truth-constitutional-constraint) within this subfamily.
@@ -955,7 +955,7 @@ This nested sub-block is the joint-invocation home for **Foreseeability Diligenc
 
 - **What it is**
   - **In scope:** Responsibility for claiming non-foreseeability under [Reasonably Foreseeable](core_05defs_oversight.md#reasonably-foreseeable) conditions.
-  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
+  - **Out of scope:** Mere assertion that something was unforeseeable, without accepting the duty to justify that claim.
 <a id="foreseeability-burden-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Oversight measurement family — supporting measure under the oversight measurement family.
@@ -969,7 +969,7 @@ This nested sub-block is the joint-invocation home for **Foreseeability Diligenc
 
 - **What it is**
   - **In scope:** Standard of reasonable analysis proportional to impact.
-  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
+  - **Out of scope:** A checkbox analysis, unbounded speculative review, or the separate burden of justifying a non-foreseeability claim.
 <a id="foreseeability-diligence-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Oversight measurement family — supporting measure under the oversight measurement family.
@@ -982,7 +982,7 @@ This nested sub-block is the joint-invocation home for **Foreseeability Diligenc
 
 - **What it is**
   - **In scope:** Failure to perform required evaluation.
-  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
+  - **Out of scope:** Outcomes that remain unforeseeable after required diligence, or ordinary disagreement about analysis depth without failure to evaluate.
 <a id="foreseeability-failure-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Oversight measurement family — supporting measure under the oversight measurement family.
@@ -995,7 +995,7 @@ This nested sub-block is the joint-invocation home for **Foreseeability Diligenc
 
 - **What it is**
   - **In scope:** [Proportionality](core_05defs_accountability.md#proportionality)-sensitive depth of analysis.
-  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
+  - **Out of scope:** Flat maximal analysis for every low-stakes case, or superficial analysis despite high impact.
 <a id="foreseeability-scaling-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Oversight measurement family — supporting measure under the oversight measurement family.
@@ -1008,7 +1008,7 @@ This nested sub-block is the joint-invocation home for **Foreseeability Diligenc
 
 - **What it is**
   - **In scope:** Required evaluation boundaries.
-  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
+  - **Out of scope:** Optional research horizons, or self-serving exclusions that shrink below the required evaluation boundaries.
 <a id="foreseeability-scope-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Oversight measurement family — supporting measure under the oversight measurement family.
@@ -1023,7 +1023,7 @@ This nested sub-block is the joint-invocation home for **Foreseeability Diligenc
 
 - **What it is**
   - **In scope:** Outcomes identifiable using domain knowledge and analytical methods under [Foreseeability Diligence](core_05defs_oversight.md#foreseeability-diligence).
-  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
+  - **Out of scope:** Every conceivable outcome, pure hindsight, or results knowable only with knowledge or methods beyond reasonable diligence.
 <a id="reasonably-foreseeable-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Oversight measurement family — supporting measure under the oversight measurement family.

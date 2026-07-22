@@ -92,9 +92,11 @@ def extract_scope_from_prose(concept: str) -> tuple[str, list[str], list[str]]:
 
 
 def default_out_of_scope() -> str:
+    # Do not reintroduce the old generic formal-label paste. New migrations must
+    # name a term-specific near-miss; this placeholder fails closed for reviewers.
     return (
-        "formal-label-only or nominal treatment without functional effect "
-        "on the constitutionally governed subject matter."
+        "TODO: name the term-specific near-miss excluded from this definition "
+        "(sibling boundary or hollow adjacent case — not a generic formal-label clause)."
     )
 
 

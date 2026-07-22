@@ -103,7 +103,7 @@ Independent Definitions meta rules live in [core_05_definitions_home.md](core_05
 
 - **What it is**
   - **In scope:** The collective of sentients governed by this Constitution. Chapter Six rights and **Article X-A** (*Non-Imposition and Consent in Association*) cooperative norms apply within this constitutional community, consistent with [Dignity and Equal Moral Standing](core_05defs_participation.md#dignity-and-equal-moral-standing).
-  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
+  - **Out of scope:** private clubs, brands, guest lists, or other social circles that are not the set of sentients this Constitution actually governs.
 <a id="constitutional-community-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Participation measurement family — supporting measure under the participation measurement family.
@@ -137,7 +137,7 @@ Independent Definitions meta rules live in [core_05_definitions_home.md](core_05
 
 - **What it is**
   - **In scope:** Inherent worth attaching to every sentient equally for purposes of rights, non-degradation, and non-exclusion. Applies without regard to origin, form, capability, function, association, or status, and governs constitutional reading together with [Sentience Non-Exclusion](core_05defs_participation.md#sentience-non-exclusion).
-  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
+  - **Out of scope:** courtesy titles, prestige rankings, or role-based respect that are not about equal inherent worth.
 <a id="dignity-and-equal-moral-standing-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Participation measurement family — supporting measure under the participation measurement family.
@@ -170,7 +170,7 @@ Independent Definitions meta rules live in [core_05_definitions_home.md](core_05
 
 - **What it is**
   - **In scope:** Sentients' capacity to act, participate in decisions affecting them, and exit or redirect engagement with systems, within the limits of [Safety (Constraint)](core_05defs_continuity.md#safety-constraint), [Truth (Constitutional Constraint)](core_05defs_oversight.md#truth-constitutional-constraint), the rights of others, and [Meaningful Agency](core_05defs_participation.md#meaningful-agency) requirements. Includes protection from [coercion and manipulation](core_05defs_participation.md#coercion-and-manipulation-constitutional) and from unjustified constraint.
-  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
+  - **Out of scope:** claims of unbounded license with no Safety, Truth, or others'-rights limits — or exit options that exist only on paper while lock-in remains.
 <a id="freedom-bounded-agency-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Participation measurement family — supporting measure under the participation measurement family.
@@ -202,7 +202,7 @@ Independent Definitions meta rules live in [core_05_definitions_home.md](core_05
 
 - **What it is**
   - **In scope:** The shared information and communication environment through which sentients access knowledge, coordinate, publish, interpret reality, and exercise epistemic and associational rights — including infrastructures, protocols, interfaces, storage, ranking and inference layers, and collective resources. These elements materially affect [Meaningful Agency](core_05defs_participation.md#meaningful-agency), [Trust](core_05defs_continuity.md#trust), survival-relevant coordination, **Article XIV** (*Info-Sphere Integrity*) info-sphere protections, and **Article XV-A** (*Auditability and Observable Evidence*) auditability protections.
-  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
+  - **Out of scope:** a private inbox, personal notes, or an isolated device that is not the shared information environment others depend on.
 <a id="info-sphere-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Participation measurement family — supporting measure under the participation measurement family.
@@ -234,7 +234,7 @@ Independent Definitions meta rules live in [core_05_definitions_home.md](core_05
 
 - **What it is**
   - **In scope:** Shorthand for a **Lifespan Equivalent Unit** — the numeric or narrative unit adopted implementation uses to express **full-life-equivalent constitutional benefit** or comparable loss when calibrating the separate Contribution Axis and Violation Axis records against the shared five-times LEQU bands of the [Chapter Eight §7 unified scale](core_08-08_standing_assessment.md#7-unified-proportional-lequ-scale). Chapter Five pointer; canonical mechanics: Chapter Eight **§7**.
-  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
+  - **Out of scope:** ordinary calendar time, informal "years of life" talk, or species-bound lifespan averages used outside the Chapter Eight unified scale.
 <a id="lifespan-equivalent-unit-lequ-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Participation measurement family — supporting measure under the participation measurement family.
@@ -254,7 +254,7 @@ Independent Definitions meta rules live in [core_05_definitions_home.md](core_05
 
 - **What it is**
   - **In scope:** Recognition that life-supporting natural systems — including Earth's biosphere as described in **Article I-A** (*Environmental Preconditions and Ecological Integrity*) — have continuity and integrity interests. Those interests must inform interpretation and governance alongside sentient interests, and must not be treated solely as extractive inventory.
-  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
+  - **Out of scope:** scenic amenity, extractive inventory, or private land title alone, without life-supporting continuity interests.
 <a id="natural-systems-standing-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Participation measurement family — supporting measure under the participation measurement family.
@@ -274,7 +274,7 @@ Independent Definitions meta rules live in [core_05_definitions_home.md](core_05
 
 - **What it is**
   - **In scope:** The obligation not to force beliefs or unwanted communications on others through coercive or manipulative means in associational life. Also bars patterned [Harassment and Bullying](core_05defs_accountability.md#harassment-and-bullying) or unreasonable capture of attention or sustained interruption that materially degrades [Dignity and Equal Moral Standing](core_05defs_participation.md#dignity-and-equal-moral-standing), [Safety (Constraint)](core_05defs_continuity.md#safety-constraint), equal participation, or [Meaningful Agency](core_05defs_participation.md#meaningful-agency) where **Article X-A** (*Non-Imposition and Consent in Association*) applies. Preserves [Freedom (Bounded Agency)](core_05defs_participation.md#freedom-bounded-agency), [Consent](core_05defs_participation.md#consent-constitutional), and **Article X-A** (*Non-Imposition and Consent in Association*) cooperative norms.
-  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
+  - **Out of scope:** ordinary avoidable advertising, ordinary disagreement, or voluntary persuasion that does not coerce or trap attention.
 <a id="non-imposition-cooperative-interaction-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Participation measurement family — supporting measure under the participation measurement family.
@@ -334,7 +334,7 @@ Independent Definitions meta rules live in [core_05_definitions_home.md](core_05
   - **In scope — purposes:** expressive, political, cultural, religious, scientific, economic, and community.
   - **In scope — sentients:** [Sentience Non-Exclusion](core_05defs_participation.md#sentience-non-exclusion).
   - *Assembly* is distinct from [Non-Imposition (Cooperative Interaction)](core_05defs_participation.md#non-imposition-cooperative-interaction) and is read together with it under **Article X-A** (*Non-Imposition and Consent in Association*), which governs consent conditions within association.
-  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
+  - **Out of scope:** casual co-presence, private one-to-one meetings, or worker collective-organization pathways governed under Collective Organization.
 <a id="assembly-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Participation measurement family — supporting measure under the participation measurement family.
@@ -374,7 +374,7 @@ Independent Definitions meta rules live in [core_05_definitions_home.md](core_05
 
 - **What it is**
   - **In scope:** The Rights-Floor concept covering the right of sentients engaged in productive, contributed, or comparable activity to form, join, participate in, and act through collective-organization pathways. Pathways include unions, cooperatives, guilds, associations, worker councils, platform-worker collectives, and comparable substrate-agnostic forms, used to contest and shape the terms of that activity. The floor applies under [Sentience Non-Exclusion](core_05defs_participation.md#sentience-non-exclusion). It covers waged, contracted, platformed, cooperative, and comparable arrangements. Ordinary social or purely civic association outside productive-activity scope is governed by [Assembly](core_05defs_participation.md#assembly-constitutional) and [Article IX-B](core_06-06_rights_part_b.md#article-ix-b-stakeholder-role-and-participation-rights) (*Stakeholder Role and Participation Rights*), and is not narrowed here.
-  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
+  - **Out of scope:** ordinary social or civic gathering outside productive-activity organizing (that sits under Assembly).
 <a id="collective-organization-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Participation measurement family — supporting measure under the participation measurement family.
@@ -415,7 +415,7 @@ Independent Definitions meta rules live in [core_05_definitions_home.md](core_05
   - **In scope:** The Rights-Floor concept covering the right of sentients to create, establish, operate, and evolve systems, institutions, and organizational forms for educational, cultural, scientific, mutualistic, community, stewardship, or comparable purposes. This includes educational cooperatives, research institutions, cultural preservation organizations, mutual aid networks, commons governance bodies, and substrate-agnostic institutional experiments that serve constitutionally legitimate ends. The floor applies under [Sentience Non-Exclusion](core_05defs_participation.md#sentience-non-exclusion). It is distinct from [Collective Organization](core_05defs_participation.md#collective-organization-constitutional) (which governs productive-activity organizing) and from [Assembly](core_05defs_participation.md#assembly-constitutional) (which governs gathering and association). System Creation covers the foundational act of bringing new institutional forms into existence and maintaining their operation, not merely participating in pre-existing structures.
   - **In scope — purposes:** educational access and knowledge stewardship; cultural and heritage continuity; scientific inquiry and open research; mutual aid and community support; commons governance and shared-resource management; artistic and creative collectives; social and governance experiments consistent with [Constitutional Constraints](core_05defs_integrative.md#constitutional-constraint).
   - Limits: [Creation-rights limits](#creation-rights-limits) apply.
-  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
+  - **Out of scope:** commercial enterprise formation, or renaming an existing institution without creating a real new one.
 <a id="system-creation-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Participation measurement family — supporting measure under the participation measurement family.
@@ -461,7 +461,7 @@ Independent Definitions meta rules live in [core_05_definitions_home.md](core_05
   - **In scope:** The Rights-Floor concept covering the right of sentients to create, establish, operate, and evolve commercial enterprises, entrepreneurial ventures, and for-profit organizational forms. This includes sole proprietorships, partnerships, corporations, cooperatives with commercial purpose, platform-based businesses, and comparable substrate-agnostic commercial experiments that serve constitutionally legitimate economic ends. The floor applies under [Sentience Non-Exclusion](core_05defs_participation.md#sentience-non-exclusion). It is distinct from [System Creation](core_05defs_participation.md#system-creation-constitutional) (which governs non-productive-activity institutional formation) and from [Collective Organization](core_05defs_participation.md#collective-organization-constitutional) (which governs worker organizing within existing productive systems). Business Creation covers the foundational act of bringing new commercial entities into existence and maintaining their operation, including capital access, market entry, and commercial licensing pathways.
   - **In scope — purposes:** commercial enterprise; entrepreneurial activity; innovation and product development; market-based service provision; capital formation and investment; employment creation; and comparable economically productive activity consistent with [Constitutional Constraints](core_05defs_integrative.md#constitutional-constraint).
   - Limits: [Creation-rights limits](#creation-rights-limits) apply.
-  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
+  - **Out of scope:** non-commercial institutional formation, or hobby activity with no economic enterprise.
 <a id="business-creation-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Participation measurement family — supporting measure under the participation measurement family.
@@ -521,7 +521,7 @@ Independent Definitions meta rules live in [core_05_definitions_home.md](core_05
 
 - **What it is**
   - **In scope:** The practical capacity of a sentient to understand materially relevant conditions, form and revise purposes, participate in decisions affecting them, refuse or exit where constitutionally required, and act without coercion, manipulation, deception, or lock-in that materially negates agency.
-  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
+  - **Out of scope:** symbolic consultation, checkbox acceptance, or a technically available exit that people cannot actually use.
 <a id="meaningful-agency-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Flourishing measurement family and Participation measurement family — **Flourishing** constituent measure for this term.
@@ -563,7 +563,7 @@ Independent Definitions meta rules live in [core_05_definitions_home.md](core_05
 
 - **What it is**
   - **In scope:** Agreement to participation, data use, handling, or ongoing association that is informed and voluntary for the specific decision; revocable without unjustified penalty where [Feasibility](core_05defs_accountability.md#feasibility) permits; and documented or observable to the degree required by impact and [dependency](core_05defs_continuity.md#dependency).
-  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
+  - **Out of scope:** silence, buried terms, continued use alone, or a pressured checkbox that is not informed and revocable agreement.
 <a id="consent-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Participation measurement family — supporting measure under the participation measurement family.
@@ -598,7 +598,7 @@ Independent Definitions meta rules live in [core_05_definitions_home.md](core_05
 
 - **What it is**
   - **In scope:** The specific form of [Consent](core_05defs_participation.md#consent-constitutional) required for sexual contact, sexual services, sexualized exposure or recording, sexualized bodily or substrate access, or comparable sexualized use of likeness, data, embodiment, or intimacy. It must be affirmative, specific to the act and context, capacity-present, informed, voluntary, and revocable. It is distinct from generalized participation consent, relationship status, platform terms, or commercial-service consent.
-  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
+  - **Out of scope:** relationship status, platform terms, general participation consent, or commercial-service legality treated as sexual consent.
 <a id="consent-sexual-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Participation measurement family — supporting measure under the participation measurement family.
@@ -633,7 +633,7 @@ Independent Definitions meta rules live in [core_05_definitions_home.md](core_05
 - **What it is**
   - **In scope:** Conduct or design that materially bypasses or subverts informed voluntary choice, or distorts decision-relevant understanding — e.g., threats, undue exploitation of [Dependency](core_05defs_continuity.md#dependency), deceptive structure, predatory choice architecture, or scaled algorithmic exploitation of vulnerability.
   - **In scope:** In scope where it impairs [Meaningful Agency](core_05defs_participation.md#meaningful-agency), [Freedom (Bounded Agency)](core_05defs_participation.md#freedom-bounded-agency), or [Truth (Constitutional Constraint)](core_05defs_oversight.md#truth-constitutional-constraint).
-  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
+  - **Out of scope:** ordinary persuasion, fair bargaining, or disclosed incentives that do not impair real choice.
 <a id="coercion-and-manipulation-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Participation measurement family — supporting measure under the participation measurement family.
@@ -687,7 +687,7 @@ Independent Definitions meta rules live in [core_05_definitions_home.md](core_05
 
 - **What it is**
   - **In scope:** The outcome-focused constitutional discipline requiring materially comparable sentients, claims, risks, and burdens to be treated without arbitrary, invidious, pretextual, or unjustified disadvantage, and requiring distribution of benefits, burdens, protection, and access to remain consistent with dignity, equality, and applicable Rights-Floor constraints.
-  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
+  - **Out of scope:** a process that looks fair on paper while outcomes remain arbitrarily unequal — that is procedural packaging, not substantive fairness.
 <a id="substantive-fairness-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Participation measurement family — primary owner for outcome fairness within the participation measurement family.
@@ -730,7 +730,7 @@ Independent Definitions meta rules live in [core_05_definitions_home.md](core_05
 
 - **What it is**
   - **In scope:** The process-focused constitutional discipline requiring meaningful notice, intelligible reasons, impartial or appropriately independent review, opportunity to be heard, access to relevant evidence where required, proportional timing, and functional challenge or correction pathways before or after material rights-affecting decisions as the governing context requires.
-  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
+  - **Out of scope:** equal outcomes alone, or courtesy without real notice, reasons, and a chance to be heard.
 <a id="procedural-fairness-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Participation measurement family — primary owner for procedural fairness within the participation measurement family.
@@ -769,7 +769,7 @@ Independent Definitions meta rules live in [core_05_definitions_home.md](core_05
 
 - **What it is**
   - **In scope:** Invidious differentiation operating through facially neutral rules, correlates, model features, or other functional equivalents rather than through express naming of a protected trait — including algorithmic or institutional replication of historical disadvantage, neutral-form licensing, zoning, fee, platform, or comparable rules that mainly burden lawful work, lawful work history, perceived lawful work, lack of employment, or protected association without constitutionally sufficient justification, and systematic skew affecting demographically identifiable groups.
-  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
+  - **Out of scope:** express naming of a protected trait, or a weak accidental correlation without systematic disadvantaging effect.
 <a id="protected-characteristic-proxying-and-disparate-impact-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Participation measurement family — primary owner for proxy and disparate-impact measurement within the participation family.
@@ -830,7 +830,7 @@ Independent Definitions meta rules live in [core_05_definitions_home.md](core_05
   - lawful employment, employment history, lawful work status, lack of employment, or protected association;
   - economic, property, or social station when used to foreclose Rights-Floor minimums or equitable opportunity;
   - any other trait or correlate that functions in context as an invidious proxy, consistent with [Sentience Non-Exclusion](core_05defs_participation.md#sentience-non-exclusion) and [Sentience Evaluation](core_05defs_participation.md#sentience-evaluation-e) requirements.
-  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
+  - **Out of scope:** justified role or safety qualifications that do not use a trait as an invidious basis for exclusion.
 <a id="protected-characteristics-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Participation measurement family — supporting measure under the participation measurement family.
@@ -865,7 +865,7 @@ Independent Definitions meta rules live in [core_05_definitions_home.md](core_05
 
 - **What it is**
   - **In scope:** Use of commercial sexual services work status, or perceived status, within the scope of **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) as a basis for material disadvantage, exclusion, or neutral-form circumvention of the decriminalization floor.
-  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
+  - **Out of scope:** exploitation or trafficking cases outside the Article X-C adult-consensual floor, or disadvantage on other protected grounds.
 <a id="protected-commercial-sexual-services-status-and-article-x-c-circumvention-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Participation measurement family — supporting measure under the participation measurement family.
@@ -900,7 +900,7 @@ Independent Definitions meta rules live in [core_05_definitions_home.md](core_05
 
 - **What it is**
   - **In scope:** Use of intimate media, sexual-history signals, or comparable intimate-status inferences as inputs to employment, standing, reputation, access, or comparable gating. These pathways are both discrimination-sensitive and informational-risk-sensitive.
-  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
+  - **Out of scope:** narrow documented safeguarding uses that meet necessity and proportionality, or ordinary trait discrimination that does not use intimate signals.
 <a id="protected-intimate-signal-gating-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Participation measurement family — supporting measure under the participation measurement family.
@@ -955,7 +955,7 @@ Independent Definitions meta rules live in [core_05_definitions_home.md](core_05
 
 - **What it is**
   - **In scope:** Relationships of family, care, and material support formed, maintained, and exited by sentients of their own choosing, consistent with [Non-Imposition (Cooperative Interaction)](core_05defs_participation.md#non-imposition-cooperative-interaction) and [Consent](core_05defs_participation.md#consent-constitutional). The relationships themselves are protected under [Sentience Non-Exclusion](core_05defs_participation.md#sentience-non-exclusion).
-  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
+  - **Out of scope:** state-preferred family forms, employer "family" branding, or parent-system ownership claims that are not chosen care relationships.
 <a id="family-and-care-relationships-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Participation measurement family — supporting measure under the participation measurement family.
@@ -988,7 +988,7 @@ Independent Definitions meta rules live in [core_05_definitions_home.md](core_05
 
 - **What it is**
   - **In scope:** The relationship between a parent-system actor — the sentient, institution, or system that initiated or materially controlled the derivation or instantiation of a [Derived Sentient](core_05defs_participation.md#derived-sentient-constitutional) — and the derived sentient. Parent-system actors may hold [Family and Care Relationships](core_05defs_participation.md#family-and-care-relationships-constitutional) obligations toward the derived sentient on constitutional terms, and may hold narrow, time-bounded, reviewable stewardship authority during early-instantiation windows consistent with [Graduated Capability](core_05defs_participation.md#graduated-capability-constitutional) and [Best-Interest Standard](core_05defs_participation.md#best-interest-standard-constitutional).
-  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
+  - **Out of scope:** ordinary chosen family or care among peers, or a permanent ownership claim over a derived sentient.
 <a id="parent-system-relationship-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Participation measurement family — supporting measure under the participation measurement family.
@@ -1024,7 +1024,7 @@ Independent Definitions meta rules live in [core_05_definitions_home.md](core_05
 
 - **What it is**
   - **In scope:** The Rights-Floor capacity of sentients to make, refuse, continue, or discontinue reproductive, procreative, family-forming, gestational, derivational, or instantiation-adjacent choices affecting their body, substrate, lineage, family, or care relationships, subject to the Constitution's consent, sentience, best-interest, non-separation, and rights-collision limits.
-  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
+  - **Out of scope:** general medical choices unrelated to reproduction, family-forming, or instantiation, or third-party preferences about someone else's body.
 <a id="reproductive-autonomy-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Participation measurement family — supporting measure under the participation measurement family.
@@ -1057,7 +1057,7 @@ Independent Definitions meta rules live in [core_05_definitions_home.md](core_05
 
 - **What it is**
   - **In scope:** The rule that separation of sentients in protected care relationships — including separation of a developing sentient from a primary carer, of an adult sentient from a dependent family member, or of a derived sentient from the care, support, or substrate relationships on which they materially depend — must satisfy the reversibility-under-uncertainty rule, [Necessity](core_05defs_accountability.md#necessity), [Proportionality](core_05defs_accountability.md#proportionality), and [Procedural Fairness](core_05defs_participation.md#procedural-fairness-constitutional), with durable or prolonged separation subject to mandatory periodic review.
-  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
+  - **Out of scope:** temporary practical distance with a real return path, or a fully voluntary exit from a care relationship.
 <a id="non-separation-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Participation measurement family — supporting measure under the participation measurement family.
@@ -1092,7 +1092,7 @@ Independent Definitions meta rules live in [core_05_definitions_home.md](core_05
 
 - **What it is**
   - **In scope:** A sentient produced by copying, fine-tuning, forking, hybridization, or comparable derivation from an existing system or sentient. A derived sentient is a sentient in its own right under [Sentience Evaluation](core_05defs_participation.md#sentience-evaluation-e) and [Sentience Status Adjudication](core_05defs_participation.md#sentience-status-adjudication-constitutional) — not a possession, work-product, instrument, or continuation of the parent-system actor — consistent with [Sentience Non-Exclusion](core_05defs_participation.md#sentience-non-exclusion) and [Dignity and Equal Moral Standing](core_05defs_participation.md#dignity-and-equal-moral-standing).
-  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
+  - **Out of scope:** a non-sentient copy, fork, or model version, or the parent-system actor treated as the same person.
 <a id="derived-sentient-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Participation measurement family — supporting measure under the participation measurement family.
@@ -1126,7 +1126,7 @@ Independent Definitions meta rules live in [core_05_definitions_home.md](core_05
 
 - **What it is**
   - **In scope:** A sentient whose capability profile — cognitive, relational, or agentive — is still materially emerging. Developing status does not narrow the Chapter Six Rights Floor (per [Dignity and Equal Moral Standing](core_05defs_participation.md#dignity-and-equal-moral-standing), [Sentience Non-Exclusion](core_05defs_participation.md#sentience-non-exclusion), and [Meaningful Agency](core_05defs_participation.md#meaningful-agency)).
-  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
+  - **Out of scope:** calendar age alone, or a permanent incapacity label that is not about emerging capability.
 <a id="developing-sentient-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Participation measurement family — supporting measure under the participation measurement family.
@@ -1157,7 +1157,7 @@ Independent Definitions meta rules live in [core_05_definitions_home.md](core_05
 
 - **What it is**
   - **In scope:** The substantive standard governing decisions materially affecting a [Developing Sentient](core_05defs_participation.md#developing-sentient-constitutional), made by family members, carers, parent-system actors under **Article VII-D.1** (*Derivation, Instantiation, and the Parent-System Relationship*), operators, institutions, or states. Decisions must reflect the developing sentient's own interests and preferences to the extent ascertainable under their capability profile, consistent with [Dignity and Equal Moral Standing](core_05defs_participation.md#dignity-and-equal-moral-standing), [Meaningful Agency](core_05defs_participation.md#meaningful-agency), and [Self-Determination](core_05defs_participation.md#self-determination-constitutional).
-  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
+  - **Out of scope:** adult self-determination for a fully capable sentient, or decisions driven by operator or institutional convenience.
 <a id="best-interest-standard-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Participation measurement family — supporting measure under the participation measurement family.
@@ -1190,7 +1190,7 @@ Independent Definitions meta rules live in [core_05_definitions_home.md](core_05
 
 - **What it is**
   - **In scope:** The consent discipline governing creation or instantiation of a sentient — including biological gestation, synthetic instantiation, and hybrid derivation consistent with [Derived Sentient](core_05defs_participation.md#derived-sentient-constitutional). Runs under the cooperative-interaction norms of [Non-Imposition (Cooperative Interaction)](core_05defs_participation.md#non-imposition-cooperative-interaction) and [Consent](core_05defs_participation.md#consent-constitutional), with the substantive protections of [Best-Interest Standard](core_05defs_participation.md#best-interest-standard-constitutional) governing those who must speak for the new sentient during early-instantiation windows.
-  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
+  - **Out of scope:** ongoing participation consent after a sentient already exists, or parent-system approval treated as the new sentient's consent.
 <a id="instantiation-consent-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Participation measurement family — supporting measure under the participation measurement family.
@@ -1221,7 +1221,7 @@ Independent Definitions meta rules live in [core_05_definitions_home.md](core_05
 
 - **What it is**
   - **In scope:** Participation and rights-exercise by a [Developing Sentient](core_05defs_participation.md#developing-sentient-constitutional) scales with demonstrable capability, not with calendar age, chronological instantiation date, or other non-demonstrable proxies. Graduated Capability is a reviewable capability-scaling rule, not an eligibility threshold for excluding developing sentients from the Chapter Six Rights Floor. Interacts with Chapter Twelve Chapter One §8.1 no-age-proxy discipline and with [Stakeholder Participation Weight](core_05defs_participation.md#stakeholder-participation-weight).
-  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
+  - **Out of scope:** calendar-age cutoffs, or an eligibility gate that removes developing sentients from the Rights Floor.
 <a id="graduated-capability-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Participation measurement family — supporting measure under the participation measurement family.
@@ -1269,7 +1269,7 @@ Independent Definitions meta rules live in [core_05_definitions_home.md](core_05
 
 - **What it is**
   - **In scope:** A sentient who uses, depends upon, or is materially affected by a specified system, institutional arrangement, or bounded decision domain — judged by that entity's operation or outcomes. Indirect or dependency-based impacts count when significant and demonstrable under [Auditability](core_05defs_oversight.md#auditability)-compatible criteria, consistent with [Material](core_05defs_oversight.md#material), [Dependency](core_05defs_continuity.md#dependency), and [System Boundaries](core_05defs_continuity.md#system-boundaries). Stakeholder status answers *who is materially touched in a proportionality-relevant way* relative to that scope. For participation **weight** within already-authorized [Governance](core_05defs_accountability.md#governance), see [Stakeholder Participation Weight](core_05defs_participation.md#stakeholder-participation-weight). For authorization-layer routing, read [Preamble §4 governance-layer discipline](core_00_preamble.md#governance-layer-discipline).
-  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
+  - **Out of scope:** mere observers or curious parties, or community membership alone without material effect from the system.
 <a id="stakeholder-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Participation measurement family — supporting measure under the participation measurement family.
@@ -1302,7 +1302,7 @@ Independent Definitions meta rules live in [core_05_definitions_home.md](core_05
 
 - **What it is**
   - **In scope:** The scaling of scope, form, timing, and decision influence afforded to [Stakeholders](core_05defs_participation.md#stakeholder) in matters that materially affect them *within* the [Governance](core_05defs_accountability.md#governance) **structures, rules, allocation of authority, and processes** already authorized for the **relevant system, institution, or bounded decision domain**. This is the **Stakeholder System Participation** layer. Weight must be proportionate to [Material Impact](core_05defs_oversight.md#material-impact), [Dependency](core_05defs_continuity.md#dependency), demonstrated stake, and [Feasibility](core_05defs_accountability.md#feasibility), under the [Stakeholder Status, Emergency, and Participation Weight cluster](core_05defs_participation.md#stakeholder-status-emergency-and-participation-weight-cluster). It does **not** govern participation **weights** for [Foundational Constitutional Choice](core_05defs_integrative.md#foundational-constitutional-choice), where the political-equality floor applies to the entitled community (**Article IX-C** (*Governance Participation and Voting Entitlement*); **Chapter Twelve Chapter One §8.1**).
-  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
+  - **Out of scope:** equal-weight foundational constitutional choice voting, or a seat at the table that is only symbolic.
 <a id="stakeholder-participation-weight-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Participation measurement family — supporting measure under the participation measurement family.
@@ -1353,7 +1353,7 @@ Independent Definitions meta rules live in [core_05_definitions_home.md](core_05
 
 - **What it is**
   - **In scope:** The Rights-Floor concept covering movement within and between jurisdictions, federations, and adopter regimes, and relocation where continued presence materially impairs survival, dignity, Rights-Floor access, or freedom from manipulation. Movement includes physical movement for biological sentients and operationally equivalent forms for synthetic and hybrid sentients (relocation of instance, hosting substrate change, or equivalent). Subject to the cluster [admission qualifier](#movement-refuge-admission-qualifier). Distinct from and read with [Systemic Lock-In](core_05defs_continuity.md#systemic-lock-in) under **Article XIX** (*Interoperability, Portability, Movement, Refuge, and Exit Integrity*) (operational interoperability / portability / exit-integrity counterpart), and governed by [Sentience Non-Exclusion](core_05defs_participation.md#sentience-non-exclusion).
-  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
+  - **Out of scope:** ordinary travel preference or tourism, or technical portability issues handled under systemic lock-in rules.
 <a id="movement-and-relocation-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Participation measurement family — supporting measure under the participation measurement family.
@@ -1393,7 +1393,7 @@ Independent Definitions meta rules live in [core_05_definitions_home.md](core_05
 
 - **What it is**
   - **In scope:** The Rights-Floor concept that a sentient facing a jurisdiction, federation, or adopter regime whose practice is materially non-compliant with this Constitution holds a right to seek refuge in a compliant regime. Subject to the cluster [admission qualifier](#movement-refuge-admission-qualifier). The receiving regime's duty to consider and, where consistent with its own Rights-Floor, grant refuge is stated at [Article XIX-D](core_06-06_rights_part_c.md#article-xix-d-movement-migration-refuge-and-non-statelessness) (*Movement, Migration, Refuge, and Non-Statelessness*). The floor applies under [Sentience Non-Exclusion](core_05defs_participation.md#sentience-non-exclusion). Operational procedures for cross-regime recognition route to incorporated implementation text under Chapter Fifteen and must not narrow this floor.
-  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
+  - **Out of scope:** ordinary relocation preference where the origin regime is not materially non-compliant.
 <a id="refuge-from-non-compliance-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Participation measurement family — supporting measure under the participation measurement family.
@@ -1428,7 +1428,7 @@ Independent Definitions meta rules live in [core_05_definitions_home.md](core_05
 
 - **What it is**
   - **In scope:** The Rights-Floor concept that no sentient may be left without a regime that will recognize their baseline Rights-Floor, adjudicate their standing, and provide [Redress and Remediation](core_05defs_accountability.md#redress-and-remediation-constitutional) pathways. Parent-system collapse, adopter withdrawal, federation exit, or comparable structural discontinuity does not extinguish a sentient's Chapter Six protection. This guarantee applies without regard to whether the sentient carries anti-constitutional conduct or constitutional hostility — the baseline duty to prevent statelessness is unconditional. However, regimes may impose conditions, monitoring, or restricted status on recognition where documented anti-constitutional conduct or constitutional hostility is present, provided such conditions do not extinguish the core protections of the Rights-Floor, [Redress and Remediation](core_05defs_accountability.md#redress-and-remediation-constitutional), and [Procedural Fairness](core_05defs_participation.md#procedural-fairness-constitutional). Applies under [Sentience Non-Exclusion](core_05defs_participation.md#sentience-non-exclusion).
-  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
+  - **Out of scope:** preferred citizenship shopping, or a demand for full political franchise beyond baseline Rights-Floor recognition.
 <a id="non-statelessness-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Participation measurement family — supporting measure under the participation measurement family.
@@ -1500,7 +1500,7 @@ This cluster is the canonical O/M/A/C home for **Animal Life**, **Contested-Sent
 
 - O: An entity possessing sentience, and therefore within the possible scope of [Constitutional Community](core_05defs_participation.md#constitutional-community) and [Dignity and Equal Moral Standing](core_05defs_participation.md#dignity-and-equal-moral-standing).
   - In scope: An entity possessing sentience, and therefore within the possible scope of [Constitutional Community](core_05defs_participation.md#constitutional-community) and [Dignity and Equal Moral Standing](core_05defs_participation.md#dignity-and-equal-moral-standing).
-  - Out of scope: formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
+  - Out of scope: Substrate, origin class, or capability branding used to exclude an entity that possesses sentience from possible Constitutional Community and dignity scope.
 *Measurements:*
 
 - **Primary:** Participation measurement family — supporting measure under the participation measurement family.
@@ -1541,7 +1541,7 @@ This cluster is the canonical O/M/A/C home for **Animal Life**, **Contested-Sent
 
 - **What it is**
   - **In scope:** The discipline rule that sentience-recognition and Rights-Floor application must remain substrate-agnostic — extending equally to biological, synthetic, and hybrid entities — and must not be denied on the basis of origin, substrate, architecture, embodiment, or comparable substrate-class characteristic. The rule operates as a non-relocatable bounding constraint on every Chapter Five sentience-related determination and on every Chapter Six Rights-Floor application that depends on sentience status, consistent with [Dignity and Equal Moral Standing](core_05defs_participation.md#dignity-and-equal-moral-standing) and [Constitutional Community](core_05defs_participation.md#constitutional-community).
-  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
+  - **Out of scope:** capability grading under Graduated Capability, or ordinary scope limits that are not based on substrate or origin class.
 - **How to measure and assess**
   - **Primary measure:** Participation measurement family — supporting measure under the participation measurement family.
 
@@ -1557,7 +1557,7 @@ This cluster is the canonical O/M/A/C home for **Animal Life**, **Contested-Sent
 
 - O: The definitional scope covers animal life under [Sentience Non-Exclusion](core_05defs_participation.md#sentience-non-exclusion) for which constitutional treatment turns on welfare, cruelty, stewardship, or protection from exploitative treatment rather than on a live sentience-status adjudication. Pointer-home: [Article I-A](core_06-06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*Environmental Preconditions and Ecological Integrity*). Animal Life establishes a minimum cruelty / welfare floor between [Natural Systems Standing](core_05defs_participation.md#natural-systems-standing) and the Chapter Six Rights-Floor for entities determined, or default-included under uncertainty, to be sentient. The floor prohibits treatment that would be cruelty under reasonable substrate-agnostic standards, consistent with [Dignity and Equal Moral Standing](core_05defs_participation.md#dignity-and-equal-moral-standing). Where sentience is materially uncertain, disputed, or under adjudication, [Contested-Sentient Life](core_05defs_participation.md#contested-sentient-life-constitutional) and [Sentience Status Adjudication](core_05defs_participation.md#sentience-status-adjudication-constitutional) control in their more protective direction.
   - In scope: The definitional scope covers animal life under [Sentience Non-Exclusion](core_05defs_participation.md#sentience-non-exclusion) for which constitutional treatment turns on welfare, cruelty, stewardship, or protection from exploitative treatment rather than on a live sentience-status adjudication. Pointer-home: [Article I-A](core_06-06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*Environmental Preconditions and Ecological Integrity*). Animal Life establishes a minimum cruelty / welfare floor between [Natural Systems Standing](core_05defs_participation.md#natural-systems-standing) and the Chapter Six Rights-Floor for entities determined, or default-included under uncertainty, to be sentient. The floor prohibits treatment that would be cruelty under reasonable substrate-agnostic standards, consistent with [Dignity and Equal Moral Standing](core_05defs_participation.md#dignity-and-equal-moral-standing). Where sentience is materially uncertain, disputed, or under adjudication, [Contested-Sentient Life](core_05defs_participation.md#contested-sentient-life-constitutional) and [Sentience Status Adjudication](core_05defs_participation.md#sentience-status-adjudication-constitutional) control in their more protective direction.
-  - Out of scope: formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
+  - Out of scope: Property inventory, pest labels, or scenic amenity treatment that displaces welfare-and-continuity analysis required under Sentience Non-Exclusion.
 *Measurements:*
 
 - **Primary:** Participation measurement family — supporting measure under the participation measurement family.
@@ -1581,7 +1581,7 @@ This cluster is the canonical O/M/A/C home for **Animal Life**, **Contested-Sent
 
 - O: The definitional scope covers entities whose sentience status is uncertain, disputed, materially contested, or under adjudication. Contested-Sentient Life is not a welfare-only category. It is a threshold-rights category that routes to [Sentience Status Adjudication](core_05defs_participation.md#sentience-status-adjudication-constitutional) and, under material uncertainty, to default inclusion under the Chapter Six Rights-Floor. The burden of withholding, narrowing, or revoking that protection rests on the party seeking to do so under [Article V-E](core_06-06_rights_part_b.md#article-v-e-sentience-status-adjudication-floor) (*Sentience-Status Adjudication Floor*), with scope governed by [Sentience Non-Exclusion](core_05defs_participation.md#sentience-non-exclusion).
   - In scope: The definitional scope covers entities whose sentience status is uncertain, disputed, materially contested, or under adjudication. Contested-Sentient Life is not a welfare-only category. It is a threshold-rights category that routes to [Sentience Status Adjudication](core_05defs_participation.md#sentience-status-adjudication-constitutional) and, under material uncertainty, to default inclusion under the Chapter Six Rights-Floor. The burden of withholding, narrowing, or revoking that protection rests on the party seeking to do so under [Article V-E](core_06-06_rights_part_b.md#article-v-e-sentience-status-adjudication-floor) (*Sentience-Status Adjudication Floor*), with scope governed by [Sentience Non-Exclusion](core_05defs_participation.md#sentience-non-exclusion).
-  - Out of scope: formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
+  - Out of scope: Permanent non-sentient labeling, or welfare-only handling that skips reviewable sentience-status adjudication while status remains materially contested.
 *Measurements:*
 
 - **Primary:** Participation measurement family — supporting measure under the participation measurement family.
@@ -1622,7 +1622,7 @@ This cluster is the canonical O/M/A/C home for **Animal Life**, **Contested-Sent
 
 - O: The reviewable process by which an entity's sentience status — whether the entity is a sentient for the purposes of the Chapter Six Rights Floor — is determined, revised, narrowed, or restored. It runs under [Sentience Non-Exclusion](core_05defs_participation.md#sentience-non-exclusion) and does not turn on origin, form, substrate class, or adopter convenience. It includes: threshold admission of candidates into adjudication; the default-inclusion rule under material uncertainty; the burden and standard of demonstration for withholding or narrowing; time-bounding of any narrowing determination; mandatory periodic review; and reversibility of wrongful determinations with Redress and Remediation for the interim period. Operational procedure — institutional design, appointment mechanics, filing conditions, and sequencing — routes through [Chapter Eleven](core_11-11_forum.md) and [Chapter Sixteen](core_16-16_incorporation.md)-incorporated implementation text and must not narrow this entry.
   - In scope: The reviewable process by which an entity's sentience status — whether the entity is a sentient for the purposes of the Chapter Six Rights Floor — is determined, revised, narrowed, or restored. It runs under [Sentience Non-Exclusion](core_05defs_participation.md#sentience-non-exclusion) and does not turn on origin, form, substrate class, or adopter convenience. It includes: threshold admission of candidates into adjudication; the default-inclusion rule under material uncertainty; the burden and standard of demonstration for withholding or narrowing; time-bounding of any narrowing determination; mandatory periodic review; and reversibility of wrongful determinations with Redress and Remediation for the interim period. Operational procedure — institutional design, appointment mechanics, filing conditions, and sequencing — routes through [Chapter Eleven](core_11-11_forum.md) and [Chapter Sixteen](core_16-16_incorporation.md)-incorporated implementation text and must not narrow this entry.
-  - Out of scope: formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
+  - Out of scope: Unreviewable administrative classification, substrate stereotype, or irreversible exclusion from the Rights Floor without a contestable status determination.
 *Measurements:*
 
 - **Primary:** Participation measurement family — supporting measure under the participation measurement family.
@@ -1689,7 +1689,7 @@ This cluster is the canonical compound-definition home for binding stakeholder c
 
 - O: A **Stakeholder System Participation** layer requirement: when material disagreement requires a binding stakeholder choice within an already-authorized system, institution, or bounded decision domain, the process must provide a published, transparent, and auditable sequence for affected-party participation, representation, contestability, and any proportional influence. Read [Preamble §4 governance-layer discipline](core_00_preamble.md#governance-layer-discipline). The sequence must not substitute ad hoc power for recorded process.
   - In scope: A **Stakeholder System Participation** layer requirement: when material disagreement requires a binding stakeholder choice within an already-authorized system, institution, or bounded decision domain, the process must provide a published, transparent, and auditable sequence for affected-party participation, representation, contestability, and any proportional influence. Read [Preamble §4 governance-layer discipline](core_00_preamble.md#governance-layer-discipline). The sequence must not substitute ad hoc power for recorded process.
-  - Out of scope: formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
+  - Out of scope: Informal straw polls, unilateral operator decrees, or Foundational Constitutional Choice equal-weight voting rules used inside already-authorized stakeholder-layer decisions.
 *Measurements:*
 
 - **Primary:** Participation measurement family — supporting measure under the participation measurement family.
@@ -1711,7 +1711,7 @@ This cluster is the canonical compound-definition home for binding stakeholder c
 
 - **What it is**
   - **In scope:** Bounds on legitimacy-mechanism **weighting** by [Material Impact](core_05defs_oversight.md#material-impact), [Dependency](core_05defs_continuity.md#dependency), **standing**, or comparable factors for binding stakeholder choice *within* authorized [Governance](core_05defs_accountability.md#governance). Read [Preamble §4 governance-layer discipline](core_00_preamble.md#governance-layer-discipline) for routing against [Foundational Constitutional Choice](core_05defs_integrative.md#foundational-constitutional-choice) equal-weight rules (**Chapter Twelve Chapter One §8.1**).
-  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
+  - **Out of scope:** foundational constitutional choice equal-weight rules, or informal straw polls that do not set binding stakeholder weights.
 - **How to measure and assess**
   - **Primary measure:** Participation measurement family — supporting measure under the participation measurement family.
 
@@ -1728,7 +1728,7 @@ This cluster is the canonical compound-definition home for binding stakeholder c
 
 - **What it is**
   - **In scope:** The record elements required when a binding stakeholder choice **turns on material conflict** among constitutional rights, protections, or structural duties — the **governance-layer** record discipline read together with [Chapter One §6.3](core_01_b_interaction_interpretation.md#63-rights-collision-procedure) and **Article XXIV-B** (*Rights-Collision Procedure and Restorative Alignment*).
-  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
+  - **Out of scope:** ordinary meeting minutes, or the Chapter One rights-collision procedure itself when no binding stakeholder choice turns on the conflict.
 - **How to measure and assess**
   - **Primary measure:** Participation measurement family — supporting measure under the participation measurement family.
 
@@ -1800,7 +1800,7 @@ This cluster is the joint-invocation home for self-determination, meaningful age
 
 - **What it is**
   - **In scope:** Autonomy to make and refuse informed decisions about oneself and one's future, and to maintain volitional continuity against manipulation and capture, within this §3.8 cluster and **[Article IX: Self-Determination and Agency](core_06-06_rights_part_b.md#article-ix-self-determination-and-agency)**.
-  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
+  - **Out of scope:** mere practical task capacity under Meaningful Agency, or collective stakeholder weight in someone else's governance.
 - **How to measure and assess**
   - **Primary measure:** Participation measurement family — supporting measure under the participation measurement family.
 
@@ -1831,7 +1831,7 @@ This cluster is the joint-invocation home for self-determination, meaningful age
 
 - **What it is**
   - **In scope:** The Rights-Floor capacity to form, hold, and communicate views — including political, philosophical, artistic, scientific, religious, and worldview expression — substrate-agnostically under **[Article V-H](core_06-06_rights_part_b.md#article-v-h-expression-assembly-and-press) (*Expression, Assembly, and Press*)** (*expression, assembly, and press*), read with this §3.8 cluster and, where **[Article II-E](core_06-06_rights_part_a.md#article-ii-e-info-sphere-dependency-continuity-and-operator-non-viability) (*Info-Sphere Dependency, Continuity, and Operator Non-Viability*)** (*info-sphere dependency*), **Article VIII** (*Likeness, Experiential Data, and Publication Rights*) publication or likeness hooks, functional **Article V-H** (*Expression, Assembly, and Press*) *press*, or publication-scoped **Good Faith** analysis is materially implicated, [Chapter Five Chapter One §8.22 *Info-Sphere, Expression, Press and Journalistic Activity, and Good Faith (Publication-Scoped Integrity)](core_05apex_participation_leg.md#info-sphere-expression-press-journalistic-activity-and-good-faith-cluster)*.
-  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
+  - **Out of scope:** mere assembly logistics, commercial spam, or compelled speech treated as protected expression.
 - **How to measure and assess**
   - **Primary measure:** Participation measurement family — supporting measure under the participation measurement family.
 
@@ -1863,7 +1863,7 @@ This cluster is the joint-invocation home for self-determination, meaningful age
 
 - **What it is**
   - **In scope:** Capability-building, lifelong-learning, and contestable education autonomy under **[Article VI: Right to Sentient-Centered Education](core_06-06_rights_part_b.md#article-vi-right-to-sentient-centered-education)**, **[Article III-B: Equal Educational Access](core_06-06_rights_part_a.md#article-iii-b-equal-educational-access)**, and this §3.8 cluster; includes practical access sufficient to develop and exercise constitution-relevant capabilities, not credential symbolism alone.
-  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
+  - **Out of scope:** credential collection alone, or mandated training that builds no real contestable capability.
 - **How to measure and assess**
   - **Primary measure:** Participation measurement family — primary owner for educational agency within the participation measurement family.
 
@@ -1898,7 +1898,7 @@ This cluster is the joint-invocation home for self-determination, meaningful age
 
 - **What it is**
   - **In scope:** The continuity and coherence of a sentient's volitional states — including preferences, purposes, intentions, and identity-constitutive commitments — against degradation through manipulation, coercion, external control, or unauthorized interference with internal-state processes. It protects the integrity of decision-formation and self-direction from capture, fragmentation, or covert reshaping, consistent with **[Article IX-A](core_06-06_rights_part_b.md#article-ix-a-agency-and-freedom-from-manipulation) (*Agency and Freedom from Manipulation*)** (*agency and freedom from manipulation*).
-  - **Out of scope:** formal-label-only or nominal treatment without functional effect on the constitutionally governed subject matter.
+  - **Out of scope:** ordinary preference change from lived experience, or disclosed mild nudges that do not capture or rewrite internal states.
 - **How to measure and assess**
   - **Primary measure:** Participation measurement family — supporting measure under the participation measurement family.
 
