@@ -24,12 +24,14 @@ This file is the navigation index for implementation and cross-implementation op
 
 Use these clusters as shared operational terms within standalone implementation scopes and as joint interface terms for combined satisfaction across **CJS**, **CS**, **CI**, and **CF**. They supplement the implementation-group label text and owner-file rules; they do not replace either.
 
-## CJS-5.0 Cross-band: Role-definition preface and standing competency gate interface
+<a id="cjs-50-role-definition-preface-and-standing-competency-bar-and-clearance-interface"></a>
+<a id="cjs-50-role-definition-preface-and-standing-competency-gate-interface"></a>
+## CJS-5.0 Cross-band: Role-definition preface and standing competency bar and clearance interface
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05_definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **CJS-5.0 Cross-band: Role-definition preface and standing competency gate interface**.
+- Downstream: this section's local operational requirements for **CJS-5.0 Cross-band: Role-definition preface and standing competency bar and clearance interface**.
 - Read with: **CJS-5.0**.
 - Chapter One basis: Chapter One §2.1, §3.4, §5.2, §7.1, §7.2, §10 (see [cluster map](#cjs-51-constitutional-compass-and-cluster-map)).
 
@@ -38,7 +40,8 @@ Use these clusters as shared operational terms within standalone implementation 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Competency Gate](../core_05defs_accountability.md#competency-gate) · [O](../core_05defs_accountability.md#competency-gate) · [A](../core_05defs_accountability.md#competency-gate-a) · [C](../core_05defs_accountability.md#competency-gate-c)
+- [Competency Bar](../core_05defs_accountability.md#competency-bar) · [O](../core_05defs_accountability.md#competency-bar) · [A](../core_05defs_accountability.md#competency-bar-a) · [C](../core_05defs_accountability.md#competency-bar-c)
+- [Competency Clearance](../core_05defs_accountability.md#competency-clearance) · [O](../core_05defs_accountability.md#competency-clearance) · [A](../core_05defs_accountability.md#competency-clearance-a) · [C](../core_05defs_accountability.md#competency-clearance-c)
 - [Accountability](../core_05apex_accountability_leg.md#accountability) · [O](../core_05apex_accountability_leg.md#accountability) · [A](../core_05apex_accountability_leg.md#accountability-a) · [C](../core_05apex_accountability_leg.md#accountability-c)
 - [Contestability](../core_05defs_accountability.md#contestability) · [O](../core_05defs_accountability.md#contestability) · [A](../core_05defs_accountability.md#contestability-a) · [C](../core_05defs_accountability.md#contestability-c)
 - [Reversibility](../core_05defs_continuity.md#reversibility-constitutional) · [O](../core_05defs_continuity.md#reversibility-constitutional) · [A](../core_05defs_continuity.md#reversibility-constitutional-a) · [C](../core_05defs_continuity.md#reversibility-constitutional-c)
@@ -50,21 +53,21 @@ Use these clusters as shared operational terms within standalone implementation 
 
 <br>
 
-Use this preface first whenever a later CJS cluster depends on who may hold authority, support review, staff a lane, operate a material function, or make a binding decision. It gives shared role vocabulary for CJS only. It does not replace the role rules in `core_12-12_governance.md` **Chapter Twelve**, section **5**; **Article XI-D** (*Internal Roles, Accountability, and Due-Process Requirements*); [Chapter Nine §4.2](../core_09-09_standing_integration.md#42-general-standing-locks) (*General standing locks*), [§5.5](../core_09-09_standing_integration.md#55-special-locks) (*Special locks*), and [§6.2](../core_09-09_standing_integration.md#62-competency-gates) (*Competency gates*); `corpus_institutions.md` **CI-4** (*Appointment, competency, rotation, and removal*); `corpus_systems.md` **CS-5 — Critical system stewardship**; or `corpus_forum.md` forum-formation rules.
+Use this preface first whenever a later CJS cluster depends on who may hold authority, support review, staff a lane, operate a material function, or make a binding decision. It gives shared role vocabulary for CJS only. It does not replace the role rules in `core_12-12_governance.md` **Chapter Twelve**, section **5**; **Article XI-D** (*Internal Roles, Accountability, and Due-Process Requirements*); [Chapter Nine §4.2](../core_09-09_standing_integration.md#42-general-standing-locks) (*General standing locks*), [§5.5](../core_09-09_standing_integration.md#55-special-locks) (*Special locks*), and [§6.2](../core_09-09_standing_integration.md#62-competency-bars-and-clearances) (*Competency bars and clearances*); `corpus_institutions.md` **CI-4** (*Appointment, competency, rotation, and removal*); `corpus_systems.md` **CS-5 — Critical system stewardship**; or `corpus_forum.md` forum-formation rules.
 
-Two preface terms are pinned at the top of this section in functional reading order rather than alphabetical order. They state how competency gates and standing locks interface with trust-sensitive roles, and what facts must be verified before any role label in CJS is treated as valid. Read them in listed order before applying any later **CJS-5** cluster that depends on role authority.
+Two preface terms are pinned at the top of this section in functional reading order rather than alphabetical order. They state how competency bars, clearances, and standing locks interface with trust-sensitive roles, and what facts must be verified before any role label in CJS is treated as valid. Read them in listed order before applying any later **CJS-5** cluster that depends on role authority.
 
-Competency gate and standing interface
-- OP-O: Access to trust-sensitive roles, delegated authority, oversight eligibility, enhanced recognition, or more consequential stewardship must satisfy any applicable [Chapter Nine §6.2](../core_09-09_standing_integration.md#62-competency-gates) competency gate, subject first to any controlling [§4.2](../core_09-09_standing_integration.md#42-general-standing-locks) or [§5.5](../core_09-09_standing_integration.md#55-special-locks) standing lock.
+Competency bar, clearance, and standing interface
+- OP-O: Access to trust-sensitive roles, delegated authority, oversight eligibility, enhanced recognition, or more consequential stewardship must hold any applicable [Chapter Nine §6.2](../core_09-09_standing_integration.md#62-competency-bars-and-clearances) competency clearance against the published competency bar, subject first to any controlling [§4.2](../core_09-09_standing_integration.md#42-general-standing-locks) or [§5.5](../core_09-09_standing_integration.md#55-special-locks) standing lock.
 - OP-E: Reviewers must verify demonstrated competence, relevant experience, contribution records, training or qualification criteria, standing locks, disqualification grounds, contestability, and restoration limits. The depth of review scales with role impact, dependency, risk, and reversibility.
-- OP-C: A competency gate is non-compliant if it becomes insider sponsorship, prestige screening, inaccessible specialization, reputation substitution, or a way to ignore unresolved violation findings, standing locks, Rights Floors, remediation, safeguards, or lawful review.
+- OP-C: A competency clearance is non-compliant if it becomes insider sponsorship, prestige screening, inaccessible specialization, reputation substitution, or a way to ignore unresolved violation findings, standing locks, Rights Floors, remediation, safeguards, or lawful review.
 
 Role-definition reading rule
 - OP-O: A role term is valid only when the materially relevant facts are published and auditable: authority, limits, decision rights, review path, competency basis, standing status, succession coverage, and accountability owner.
 - OP-E: Before applying a CJS term that assumes authority, independence, quorum, support, review, intervention, secrecy, or adjudicative capacity, reviewers must verify the role's real scope.
 - OP-C: A role label is non-compliant if it is only a title, hides credentialing, enables arbitrary gatekeeping, bypasses standing rules, or is used instead of the appointment, competency, removal, recusal, or due-process rules in the owner file.
 
-The role terms below define shared CJS role labels. They assume the preface gates above are satisfied and are ordered alphabetically by title for lookup and maintenance.
+The role terms below define shared CJS role labels. They assume the preface requirements above are satisfied and are ordered alphabetically by title for lookup and maintenance.
 
 Accountable role
 - OP-O: An accountable role is the role assigned responsibility for a decision, control, duty, record, lane, remedy, or escalation path.
@@ -73,7 +76,7 @@ Accountable role
 
 Authorized role
 - OP-O: An authorized role is a published position or function with defined authority.
-- OP-E: Reviewers must verify source of authority, scope, limits, decision rights, accountability owner, review route, competency gate, and current standing status.
+- OP-E: Reviewers must verify source of authority, scope, limits, decision rights, accountability owner, review route, competency bar, clearance, and current standing status.
 - OP-C: Authority is non-compliant where material consequences depend on a role that is undocumented, implied, title-only, or unclear in scope.
 
 Constitutional enforcement role
@@ -89,7 +92,7 @@ Constitutional lane
 Delegated body and forum-role pointer
 - OP-O: Delegated binding bodies, lawful independent forums, backup activation, and representative treatment use the procedural definitions and compliance tests in **CJS-5.13** (*Accountability: procedural integrity and adjudication terms*) after this role preface is satisfied.
 - OP-E: Reviewers must verify formation authority, role composition, competence, quorum, independence, records, and contest routes under both this preface and the applicable procedural term.
-- OP-C: A procedural role term is non-compliant if the underlying role authority, competency gate, standing status, or owner-file formation rule is missing or bypassed.
+- OP-C: A procedural role term is non-compliant if the underlying role authority, competency clearance, standing status, or owner-file formation rule is missing or bypassed.
 
 Deposition facilitator or record-preserving testimony role
 - OP-O: A deposition facilitator, recorder, notary-equivalent, interpreter, community record steward, or similar testimony-support role may preserve testimony without holding merits, sanction, compulsion, or forum-decision authority unless separately authorized. The competency bar may be lower than for a forum member when the role is limited to notice, neutral session administration, identity and consent checks, recording integrity, accessibility support, objection logging, exhibit handling, and preservation of the record.
@@ -137,7 +140,7 @@ Stewardship role
 
 - Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [Chapter One](../core_01_c_stewardship_capacity_principles.md#chapter-01-principles-and-constraints) principles — [Constitutional Tetrad](../core_00_preamble.md#constitutional-tetrad), [Two Constitutional Aims](../core_00_preamble.md#two-constitutional-aims), and [material stake](../core_00_preamble.md#material-stake).
 - Downstream: constitutional orientation for all **CJS-5.2–CJS-5.23** operational clusters.
-- Read with: [CJS-5.0](cjs_05_cross_implementation_operational_terms.md#cjs-50-role-definition-preface-and-standing-competency-gate-interface) role preface when role authority is in play; **CJS-2.1** topic router when a cross-layer topic is triggered.
+- Read with: [CJS-5.0](cjs_05_cross_implementation_operational_terms.md#cjs-50-role-definition-preface-and-standing-competency-bar-and-clearance-interface) role preface when role authority is in play; **CJS-2.1** topic router when a cross-layer topic is triggered.
 
 </details>
 

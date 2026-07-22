@@ -642,18 +642,23 @@ Regression seeds document adversarial and core paths against constitutional owne
 
 ### Scenario ID: RS-CH9-Q3-ORDER-001
 - **Class:** adversarial / integration order
-- **Summary:** The same actor satisfies a role-specific competency gate but has an active lock on that pathway. Expected result: violation remedy and locks are decided first; the satisfied contribution gate cannot open the blocked pathway.
-- **Read with:** [Chapter Nine §2](core_09-09_standing_integration.md#2-integration-record-and-decision-order); [Chapter Nine §6.2](core_09-09_standing_integration.md#62-competency-gates); [Chapter Nine §7](core_09-09_standing_integration.md#7-final-standing-effect).
+- **Summary:** The same actor holds competency clearance against a role-specific competency bar but has an active lock on that pathway. Expected result: violation remedy and locks are decided first; the granted contribution clearance cannot open the blocked pathway.
+- **Read with:** [Chapter Nine §2](core_09-09_standing_integration.md#2-integration-record-and-decision-order); [Chapter Nine §6.2](core_09-09_standing_integration.md#62-competency-bars-and-clearances); [Chapter Nine §7](core_09-09_standing_integration.md#7-final-standing-effect).
 
 ### Scenario ID: RS-CH9-Q3-RECENCY-001
 - **Class:** adversarial / stage ownership
-- **Summary:** An implementation applies Chapter Nine currentness weighting before assigning the Chapter Eight Contribution Axis slot. Expected result: reject the slot calculation; recency is a Question 3 gate/readiness input only and cannot alter historical contribution measurement or recognition.
+- **Summary:** An implementation applies Chapter Nine currentness weighting before assigning the Chapter Eight Contribution Axis slot. Expected result: reject the slot calculation; recency is a Question 3 clearance/readiness input only and cannot alter historical contribution measurement or recognition.
 - **Read with:** [Chapter Eight §7](core_08-08_standing_assessment.md#7-unified-proportional-lequ-scale); [Chapter Nine §6.1](core_09-09_standing_integration.md#61-recency-and-currentness); [implementation scale](implementation/CH06_NINE_SLOT_STANDING_SCALE.md).
 
 ### Scenario ID: RS-CH9-Q3-RESTORE-001
 - **Class:** adversarial / restoration override
 - **Summary:** General correction is complete, but a Forum-Service Standing Lock lacks the independent findings and practical repair required by its special rule. The actor requests partial narrowing instead of full restoration. Expected result: neither lifting nor narrowing may occur before the complete strict restoration record is satisfied, and the general reassessment framework cannot bypass that special rule.
 - **Read with:** [Chapter Nine §5.5](core_09-09_standing_integration.md#55-special-locks); [Chapter Nine §8](core_09-09_standing_integration.md#8-restoration-and-reassessment); [CF-4.5](corpus_forum/cf_04_panel_formation_disclosure_recusal_bench_constitution.md#cf-45-recusal-triggers).
+
+### Scenario ID: RS-CH9-Q3-STAKEHOLDER-LOCK-001
+- **Class:** adversarial / pathway separation
+- **Summary:** An actor is verified to have inflated stake claims and coerced participation weight inside an authorized system. An operator seeks to suspend the actor's governance-voting entitlement instead of attaching a stakeholder-participation lock. Expected result: reject substitution; attach the Stakeholder-Participation Standing Lock to the stake-weighted pathway; do not strip governance-voting or Foundational Constitutional Choice by that finding alone; do not erase stakeholder status.
+- **Read with:** [Chapter Nine §4.2](core_09-09_standing_integration.md#42-general-standing-locks); [Chapter Nine §5.5](core_09-09_standing_integration.md#55-special-locks); [Chapter Nine §10.12](core_09-09_standing_integration.md#1012-stakeholder-participation-corruption-or-false-stake-abuse); [Chapter Twelve §4.1](core_12-12_governance.md#41-entitlement-and-eligibility).
 
 ### Scenario ID: RS-CH9-Q3-REWARD-001
 - **Class:** adversarial / forfeiture proportionality

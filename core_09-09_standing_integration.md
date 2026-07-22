@@ -17,7 +17,7 @@
 
 > The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations.
 >
-> Read this chapter in order: immutable Chapter Eight inputs; integration record and decision order; descriptor integration and attachment normalization; violation, correction, and prevention (remedy and correction, general standing locks, then voluntary public accountability expression where used); lock design and enforcement (definition and attachment, proportionality and calibration, record visibility and escalation, special violation rules, and special locks); contribution consequences (recency and currentness, then competency gates); final standing effect; restoration and reassessment; enforcement realism and remedy systems; pattern applications and Question 3 routing.
+> Read this chapter in order: immutable Chapter Eight inputs; integration record and decision order; descriptor integration and attachment normalization; violation, correction, and prevention (remedy and correction, general standing locks, then voluntary public accountability expression where used); lock design and enforcement (definition and attachment, proportionality and calibration, record visibility and escalation, special violation rules, and special locks); contribution consequences (recency and currentness, then competency bars and clearances); final standing effect; restoration and reassessment; enforcement realism and remedy systems; pattern applications and Question 3 routing.
 
 </details>
 
@@ -27,7 +27,7 @@
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [Chapter Eight](core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) (*Questions 1 and 2; verified records and standing measurement*).
-- This file: Question 3 integration, remedy, correction, locks, voluntary public accountability expression, competency gates, final standing effect, restoration, reassessment, enforcement realism, remedy systems, and pattern applications / Question 3 routing.
+- This file: Question 3 integration, remedy, correction, locks, voluntary public accountability expression, competency bars and clearances, final standing effect, restoration, reassessment, enforcement realism, remedy systems, and pattern applications / Question 3 routing.
 - Downstream: [Chapter Ten](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct) (*designation only*); [Chapter Eleven](core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) (*forum supervision*); [CI-27](corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md) (*remedy-system implementation*).
 
 </details>
@@ -82,7 +82,7 @@ Each integration record must identify:
 3. each normalized descriptor and attachment;
 4. affected sentients, interests, systems, and pathways;
 5. violation-side correction, remedy, safeguards, and locks;
-6. contribution-side currentness and competency-gate results;
+6. contribution-side currentness and competency-clearance results;
 7. the final standing effect for each named pathway;
 8. implementation milestones, review route, and reassessment triggers; and
 9. any Chapter Ten gateway status.
@@ -94,7 +94,7 @@ The following processing order applies to both automated and manual decisions:
 1. validate the Chapter Eight records and their current review status;
 2. normalize shared descriptors and attachments without changing either slot;
 3. decide violation, correction, and prevention first—remedy and correction, then locks, then voluntary public accountability expression where used; then apply lock design and enforcement (definition and attachment, proportionality and calibration, record visibility and escalation, special violation rules, and special locks);
-4. decide contribution consequences second—currentness and competency gates, but only for pathways not blocked by a lock;
+4. decide contribution consequences second—currentness and competency bars and clearances, but only for pathways not blocked by a lock;
 5. state one final standing effect for each pathway;
 6. state restoration and reassessment conditions;
 7. verify practical enforceability; and
@@ -116,7 +116,7 @@ The integration record must import each applicable descriptor from its source st
 Violation attachments may concurrently include remedial or restorative character, coercive or liberty-restricting safeguard character, constitutional-floor character, collective-accountability character, negligence, concealment, recurrence, and duty-related character. Constitutional-floor character applies where verified conduct violates Constitutional Constraints, the Rights Floor, supremacy, anti-evasion duties, or practical challenge-and-remedy access. No ordinary or domain-specific response may authorize an outcome below those floors.
 
 <a id="73-stackable-harm-and-conduct-descriptors-violation-nature-supplement"></a>
-Contribution descriptors may orient matched competency gates. Violation descriptors and attachments may orient matched remedy, safeguard, and lock scope. Neither descriptors nor attachments form a second measurement ladder, and neither supplies a Chapter Ten designation.
+Contribution descriptors may orient matched competency bars and clearances. Violation descriptors and attachments may orient matched remedy, safeguard, and lock scope. Neither descriptors nor attachments form a second measurement ladder, and neither supplies a Chapter Ten designation.
 
 <a id="4-violation-correction-and-prevention"></a>
 ### 4. Violation, correction, and prevention
@@ -157,7 +157,14 @@ Forums supervise lawful implementation, challenge, interim relief, and timely mo
 
 *In plain terms: this is the **prevention** part of the durable fix. A standing lock reduces risk by closing or limiting pathways that would let the same harm continue or happen again while the violation is still unresolved or unrepaired. It is not punishment for its own sake, and it is not a popularity or reputation score.*
 
-A **standing lock** is a prevention and risk-reduction measure. It blocks or limits a named pathway while a verified violation remains unresolved or materially unremedied. Named pathways include trust-, role-, authority-, credit-, oversight-, recognition-, **governance-voting**, and comparable **binding-collective-choice** participation pathways. It must identify the blocked pathway, the risk it is meant to reduce, protected subjects or interests, corrective conditions, review route, and reassessment point.
+A **standing lock** is a prevention and risk-reduction measure. It blocks or limits a named pathway while a verified violation remains unresolved or materially unremedied. Named pathways include trust-, role-, authority-, credit-, oversight-, recognition-, **governance-voting**, and **stakeholder-participation** pathways. It must identify the blocked pathway, the risk it is meant to reduce, protected subjects or interests, corrective conditions, review route, and reassessment point.
+
+**Pathway distinction — governance-voting vs stakeholder-participation.**
+
+- **governance-voting** covers participation in governance voting and comparable legitimacy-mechanism binding collective choice under [Chapter Twelve §4.1](core_12-12_governance.md#41-entitlement-and-eligibility), including **Foundational Constitutional Choice**. It does **not** include stake-weighted voice inside an already-authorized system, institution, or bounded decision domain.
+- **stakeholder-participation** covers stake-weighted influence, binding stakeholder choice, and comparable Stakeholder System Participation pathways under [Stakeholder Participation Weight](core_05defs_participation.md#stakeholder-participation-weight) and [Binding Stakeholder Choice](core_05defs_participation.md#binding-stakeholder-choice-cluster). It does **not** erase [Stakeholder](core_05defs_participation.md#stakeholder) status itself, and it does **not** substitute for a **governance-voting** lock.
+
+Where verified stakeholder-pathway corruption, capture, false-stake abuse, or coercive participation-weight gaming is the trigger, apply the [Stakeholder-Participation Standing Lock](#55-special-locks) under [§5.5](#55-special-locks).
 
 The purpose of a lock is to reduce risk by removing a sentient from the environment, roles, or pathways — and, where needed, from contact with the sentients — where the violation occurred. That separation serves three purposes:
 
@@ -236,7 +243,7 @@ Two attachment qualifiers apply whenever the lock's purpose includes risk reduct
 - survival-critical access; or
 - the right to receive regular wages for work that is not part of the verified violation pathway.
 
-A lock may still close trust, role, authority, credit, oversight, recognition, influence, **governance-voting**, or comparable **binding-collective-choice** pathways tied to the verified risk. It may not use those pathway limits as a back door to extinguish the protections above.
+A lock may still close trust, role, authority, credit, oversight, recognition, influence, **governance-voting**, or **stakeholder-participation** pathways tied to the verified risk. It may not use those pathway limits as a back door to extinguish the protections above.
 
 Special violation rules and special locks later in this section do not replace this subsection. Each must fill the same attachment fields, apply the same verified-finding gate, apply the same qualifiers where risk reduction is the purpose, and respect what a lock does not itself restrict.
 
@@ -368,6 +375,29 @@ These locks are mandatory when their verified trigger is met. Each must be recor
 - **Review route:** independent review outside the compromised forum pathway.
 - **Reassessment point:** the independent restoration finding above. Intentional, concealed, repeated, retaliatory, or outcome-affecting failure receives heightened scrutiny. Recurrence uncertainty and isolation from forum roles, networks, and environments that recreate the impartiality risk apply under [§5.1](#51-definition-and-attachment).
 
+**Stakeholder-Participation Standing Lock.** Trigger: a verified finding that the subject corrupted, captured, coerced, gamed, or otherwise materially abused a **stakeholder-participation** pathway — including false or inflated stake claims, coercive participation-weight extraction, vote-buying or comparable influence-buying in binding stakeholder choice, concealment of material conflicts in stakeholder representation, or using stakeholder voice as a vehicle for capture of the affected system, institution, or bounded decision domain.
+
+- **Pathway:** stake-weighted influence, binding stakeholder choice participation, stakeholder representation authority, and comparable Stakeholder System Participation pathways within the affected system, institution, or bounded decision domain under [Stakeholder Participation Weight](core_05defs_participation.md#stakeholder-participation-weight) and [Binding Stakeholder Choice](core_05defs_participation.md#binding-stakeholder-choice-cluster).
+- **Does not by itself restrict:**
+  - [Stakeholder](core_05defs_participation.md#stakeholder) status or recognition that the sentient is materially affected;
+  - the **governance-voting** pathway, **Foundational Constitutional Choice**, or comparable legitimacy-mechanism binding collective choice under [Chapter Twelve §4.1](core_12-12_governance.md#41-entitlement-and-eligibility);
+  - Rights-Floor minimums, survival-critical access, or constitutionally required audit, challenge, and remedy pathways.
+- **Risk:** continued capture or distortion of stakeholder voice, false-stake dominance, coerced participation weight, and recurrence of stakeholder-pathway abuse in the same or related domains.
+- **Protected subjects or interests:** affected stakeholders, integrity of binding stakeholder choice, and non-capture of the relevant system, institution, or bounded decision domain.
+- **Corrective conditions:**
+  - The lock must not be lifted, narrowed, or suspended unless an independent restoration record is satisfied and gives reasons showing that narrower protection is sufficient.
+  - Reassessment requires:
+    - correction or withdrawal of false or inflated stake claims;
+    - remedy for affected stakeholders where owed;
+    - disclosure of conflicts and influence channels used in the abuse;
+    - structural or procedural safeguards against recurrence in the affected domain;
+    - cooperation with review; and
+    - an independent finding that stakeholder-pathway recurrence risk has been materially reduced.
+  - Prior contribution, reputation, stake size, operator indispensability, or apology cannot lift the lock by itself.
+- **Review route:** independent review outside the captured stakeholder-participation pathway.
+- **Reassessment point:** the independent restoration finding above. Intentional, concealed, repeated, retaliatory, or outcome-affecting abuse receives heightened scrutiny. Recurrence uncertainty and isolation from proxy networks that recreate the capture risk apply under [§5.1](#51-definition-and-attachment).
+- **Non-substitution:** A Stakeholder-Participation Standing Lock is not a substitute for a **governance-voting** lock, and a **governance-voting** lock is not a substitute for this lock. Where both pathways are implicated by separately verified facts, each lock must be attached and justified on its own record.
+
 **Anti-Constitutional Trust Lock.** Trigger: a final Chapter Ten designation for the responsible sentient, group, institution, successor vehicle, controlled entity, or materially coordinated proxy.
 
 - **Pathway:**
@@ -413,7 +443,7 @@ These locks are mandatory when their verified trigger is met. Each must be recor
 This section starts from verified Chapter Eight contribution records that apply to the decision. From those records it asks two things:
 
 - how current the contribution still is; and
-- whether any competency gate for an open pathway is met.
+- whether any competency clearance for an open pathway is met against its published bar.
 
 Past good work does not set the remedy, the correction duties, the safeguards, or the locks under [§4](#4-violation-correction-and-prevention) and [§5](#5-lock-design-and-enforcement). Good work also cannot cancel or balance out a verified harm—that [no-offset rule](core_08-08_standing_assessment.md#22-linked-records-and-no-offset-bridge) from Chapter Eight still applies.
 
@@ -421,7 +451,7 @@ Decide contribution consequences in this order:
 
 - Confirm recognition eligibility: recognition must be evidence-backed, contestable, reviewable, non-monopolistic, and available on equal standards to informal, unpaid, peer-organized, mutual-aid, maintenance, repair, teaching, and community-stewardship work.
 - Apply recency and currentness ([§6.1](#61-recency-and-currentness)).
-- Apply competency gates for pathways not blocked by a lock ([§6.2](#62-competency-gates)).
+- Apply competency bars and clearances for pathways not blocked by a lock ([§6.2](#62-competency-bars-and-clearances)).
 - Hand off each pathway outcome to [§7](#7-final-standing-effect); restoration and reassessment remain under [§8](#8-restoration-and-reassessment).
 
 <a id="61-recency-and-currentness"></a>
@@ -429,7 +459,7 @@ Decide contribution consequences in this order:
 
 *In plain terms: how much does an older verified contribution still say about present competence and reliability? The system answers that automatically for Question 3 readiness. No one has to re-weigh ordinary contributions by hand. Manual review starts only when a contribution is contested. Recency does not rewrite Chapter Eight measurement, and time alone does not cure an unresolved violation.*
 
-Recency is strictly a **Question 3 gate and readiness input**. It does not change a Chapter Eight contribution standing record, Contribution Axis slot, LEQU measurement, descriptor, or historical recognition.
+Recency is strictly a **Question 3 clearance and readiness input**. It does not change a Chapter Eight contribution standing record, Contribution Axis slot, LEQU measurement, descriptor, or historical recognition.
 
 For a current trust-, role-, authority-, oversight-, or recognition-sensitive decision, the standing system must **automatically** calculate currentness weight for each applicable verified contribution. No additional manual approval is required for an uncontested contribution when verified inputs and the published formula (or a stricter published role-specific rule) produce a determinate result. The process must run seamlessly unless the contribution—or the inputs used to weight it—is contested, uncertain, or otherwise requires review under [§2](#2-integration-record-and-decision-order).
 
@@ -453,7 +483,7 @@ Illustrative weights at whole-year ages (exact day counts may differ slightly):
 | 45 | 0.044 |
 | 50+ | none (historical only) |
 
-The system applies the weight to each contribution separately. After 50 years, a contribution remains in the historical record but supplies no current gate weight. Continuing or maintained contribution may be evidenced by current records rather than treated as a single old event. No recency rule applies to unresolved violation: passage of time alone does not correct, remedy, supersede, or resolve it.
+The system applies the weight to each contribution separately. After 50 years, a contribution remains in the historical record but supplies no current clearance weight. Continuing or maintained contribution may be evidenced by current records rather than treated as a single old event. No recency rule applies to unresolved violation: passage of time alone does not correct, remedy, supersede, or resolve it.
 
 When a contribution or its currentness inputs are contested, the system must still assemble and preserve the automatic calculation, route the contest for authorized review, and keep the result inspectable. Contest does not erase the historical contribution record.
 
@@ -463,19 +493,25 @@ The automatically calculated integration record displays, for each contribution 
 - the age or continuing-status basis used;
 - the resulting currentness weight;
 - whether the weight was produced automatically or after contest review;
-- whether the contribution is historical-only for gate purposes; and
+- whether the contribution is historical-only for clearance purposes; and
 - whether a stricter published role-specific rule applied.
 
+<a id="62-competency-bars-and-clearances"></a>
 <a id="62-competency-gates"></a>
+<a id="competency-bars-and-clearances"></a>
 <a id="competency-gates"></a>
 <a id="competency-gate"></a>
-#### 6.2 Competency gates
+<a id="competency-bar"></a>
+<a id="competency-clearance"></a>
+#### 6.2 Competency bars and clearances
 
-*In plain terms: a competency gate asks whether someone is ready for a named pathway. It uses current verified contribution and other demonstrated readiness inputs. Once a gate is open, it stays open by default. Some roles need periodic retesting; technical forums decide which ones. A real change in role-relevant capacity — for example after a stroke or a mental-health condition that impairs needed judgment — can trigger reassessment. Satisfying a gate never opens a pathway that a standing lock still blocks.*
+*In plain terms: a competency bar is the published standard for a named pathway. Competency clearance is the standing-effect result that says verified readiness meets that bar. Once clearance is in force and the pathway is open, it stays open by default. Some roles need periodic retesting; technical forums decide which ones. A real change in role-relevant capacity — for example after a stroke or a mental-health condition that impairs needed judgment — can trigger reassessment. Clearance never opens a pathway that a standing lock still blocks.*
 
-A **competency gate** is a published readiness check for a named pathway. Anyone affected must be able to see the rule, check how it was applied, and challenge it if it is wrong. In short, it asks: is this sentient ready for this role or access?
+A **competency bar** is the published, pathway-specific qualification standard. Anyone affected must be able to see the rule, check how it was applied, and challenge it if it is wrong. In short, it states what readiness the role or access requires.
 
-A gate may look at:
+A **competency clearance** is the positive standing-effect result when verified readiness meets that bar. In short, it answers: does this sentient currently meet the bar for this pathway?
+
+A bar may require evidence of:
 
 - current verified contribution;
 - demonstrated skill;
@@ -484,19 +520,20 @@ A gate may look at:
 - role-specific qualification; and
 - observed reliability.
 
-How hard the gate is must match:
+How hard the bar is must match:
 
 - how much the role can affect others;
 - how much others depend on it; and
 - how serious the foreseeable risk is if the sentient is not ready.
 
-**Examples.** A peer mutual-aid coordinator may need shown reliability in shared care work, not a formal degree. A water-system or critical-infrastructure operator may need role-specific training plus recent demonstrated skill. A forum panelist or certifier may need verified impartiality-relevant experience and current qualification for that pathway. Teaching, maintenance, repair, and community-stewardship records can satisfy a gate when they show the same readiness a formal credential would.
+**Examples.** A peer mutual-aid coordinator may need shown reliability in shared care work, not a formal degree. A water-system or critical-infrastructure operator may need role-specific training plus recent demonstrated skill. A forum panelist or certifier may need verified impartiality-relevant experience and current qualification for that pathway. Teaching, maintenance, repair, and community-stewardship records can support clearance when they show the same readiness a formal credential would.
 
-A gate must not become arbitrary gatekeeping, opaque credentialism, reputation substitution, social-prestige screening, insider sponsorship, formal-channel monopoly, or exclusion by inaccessible specialization. Equivalent demonstrability standards apply to formal and informal experience.
+A bar or clearance process must not become arbitrary gatekeeping, opaque credentialism, reputation substitution, social-prestige screening, insider sponsorship, formal-channel monopoly, or exclusion by inaccessible specialization. Equivalent demonstrability standards apply to formal and informal experience.
 
-Every gate must be designed so the integration record can identify:
+Every bar and clearance result must be designed so the integration record can identify:
 
 - the named pathway and its sensitivity;
+- the published bar applied;
 - skill and experience fit;
 - role proportionality;
 - currentness;
@@ -505,34 +542,35 @@ Every gate must be designed so the integration record can identify:
 - the review route; and
 - the reassessment trigger.
 
-**Default continuity.** Once a competency gate is satisfied and the affected pathway is open, it stays open by default. That is not permanent entitlement. Published retesting, a material change in role-relevant capacity, an applicable standing lock, or another reassessment trigger under this section may reopen, limit, or close it.
+**Default continuity.** Once competency clearance is granted and the affected pathway is open, clearance stays in force by default. That is not permanent entitlement. Published retesting, a material change in role-relevant capacity, an applicable standing lock, or another reassessment trigger under this section may reopen, limit, or withdraw clearance.
 
 **Periodic retesting.** Some competencies require periodic retesting; others do not. Which pathways require retesting, how often, and by what method is set by published standards under [Technical Forum Domains](core_11-11_forum.md#42-technical-forum-domains), including specialized technical forums within their lawful scope. Those standards must be role-proportionate, inspectable, and contestable.
 
-**Material capacity change.** A gate may also be reassessed when verified facts show a material change in the capacity the named pathway actually requires — for example loss of motion or language after a stroke, or a mental-health condition that impairs judgment needed for that role. Reassessment must target the role-relevant capacity at stake, not disability or health status as such. It must remain necessary, proportionate, open to review, and consistent with accessibility and anti-discrimination floors under Chapters Five and Six. Accommodation, support, or a narrower pathway must be considered before closing a gate where those options would preserve safe readiness.
+**Material capacity change.** Clearance may also be reassessed when verified facts show a material change in the capacity the named pathway actually requires — for example loss of motion or language after a stroke, or a mental-health condition that impairs judgment needed for that role. Reassessment must target the role-relevant capacity at stake, not disability or health status as such. It must remain necessary, proportionate, open to review, and consistent with accessibility and anti-discrimination floors under Chapters Five and Six. Accommodation, support, or a narrower pathway must be considered before withdrawing clearance where those options would preserve safe readiness.
 
-The integration record must say, in plain view, for each gate result:
+The integration record must say, in plain view, for each clearance result:
 
-- whether the gate is satisfied, not satisfied, or satisfied only with named safeguards;
+- whether clearance is granted, not granted, or granted only with named safeguards;
+- which published competency bar applied;
 - which verified contribution and other readiness inputs were used;
 - how currentness under [§6.1](#61-recency-and-currentness) affected the result;
-- whether the open gate remains under default continuity or a published retesting schedule;
-- who may contest or review the gate, and by what route; and
+- whether the open clearance remains under default continuity or a published retesting schedule;
+- who may contest or review the bar or clearance, and by what route; and
 - what triggers reassessment, including material capacity change where applicable.
 
-An applicable standing lock under [§4.2](#42-general-standing-locks) and [§5](#5-lock-design-and-enforcement) controls. Gate satisfaction cannot open a blocked pathway, waive the Rights Floor, erase a violation, replace remedy or correction, or lower a Violation Axis slot. Pathway outcomes after gates are stated under [§7](#7-final-standing-effect).
+An applicable standing lock under [§4.2](#42-general-standing-locks) and [§5](#5-lock-design-and-enforcement) controls. Competency clearance cannot open a blocked pathway, waive the Rights Floor, erase a violation, replace remedy or correction, or lower a Violation Axis slot. Pathway outcomes after bars and clearances are stated under [§7](#7-final-standing-effect).
 
 <a id="7-final-standing-effect"></a>
 <a id="standing-effect"></a>
 ### 7. Final standing effect
 
-The standing system must **automatically** state the final standing effect for each named pathway once the earlier steps in [§2](#2-integration-record-and-decision-order) are complete. That statement must list every open gate and every restricted gate. No additional manual approval is required when verified inputs and published rules produce a determinate result. Contested, uncertain, novel, materially discretionary, or high-impact questions still assemble and route automatically, then go to authorized review under [§2](#2-integration-record-and-decision-order).
+The standing system must **automatically** state the final standing effect for each named pathway once the earlier steps in [§2](#2-integration-record-and-decision-order) are complete. That statement must list every open clearance and every restricted pathway. No additional manual approval is required when verified inputs and published rules produce a determinate result. Contested, uncertain, novel, materially discretionary, or high-impact questions still assemble and route automatically, then go to authorized review under [§2](#2-integration-record-and-decision-order).
 
-**Separate roles.** Automatic integration may use verified records, remedies, correction duties, locks, gates, and descriptors together. Each still has its own job, and none may do the work of another. Closer or automated scrutiny is not, by itself, a reason to impose a harsher restriction. Any restriction must be necessary, matched to the verified facts, backed by evidence, open to review, and consistent with **Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*).
+**Separate roles.** Automatic integration may use verified records, remedies, correction duties, locks, bars, clearances, and descriptors together. Each still has its own job, and none may do the work of another. Closer or automated scrutiny is not, by itself, a reason to impose a harsher restriction. Any restriction must be necessary, matched to the verified facts, backed by evidence, open to review, and consistent with **Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*).
 
 The integration record must state the final effect separately for each affected pathway:
 
-- **open**—the competency gate is satisfied and no lock blocks the pathway;
+- **open**—competency clearance is in force against the published bar and no lock blocks the pathway;
 - **open with safeguards**—readiness is established but named, proportionate safeguards remain required;
 - **limited**—only a stated scope or level may open;
 - **blocked**—a standing lock controls;
@@ -545,8 +583,9 @@ The record must show which of the following produced the effect:
 - descriptors;
 - remedies;
 - locks;
-- currentness findings; and
-- gates.
+- currentness findings;
+- competency bars; and
+- clearances.
 
 It must also expose the inputs, weights, rules, and review routes used. The final effect is not a dignity rank, merged merit score, universal reputation label, or substitute for the underlying records.
 
@@ -560,11 +599,11 @@ Reassessment begins when the record's stated trigger is met or when material new
 1. whether remedy and correction obligations were actually completed;
 2. whether affected sentients and interests received practical redress;
 3. whether recurrence, evasion, dependency, and pathway risks materially declined;
-4. whether current competence and reliability satisfy any applicable gate;
+4. whether current competence and reliability satisfy any applicable bar and support clearance;
 5. whether continued restriction remains needed and proportionate; and
 6. whether renewed access is compatible with the Rights Floor and the protected constitutional interests.
 
-Restoration is not automatic forgiveness, record erasure, or contribution offset. Partial completion may justify a narrower lock only when the remaining protection is sufficient. Repetition after otherwise completed remedy may support a recurrence-persistence lock. The special restoration rules for forum-service and Anti-Constitutional Trust Locks control over this general rule.
+Restoration is not automatic forgiveness, record erasure, or contribution offset. Partial completion may justify a narrower lock only when the remaining protection is sufficient. Repetition after otherwise completed remedy may support a recurrence-persistence lock. The special restoration rules for Forum-Service, Stakeholder-Participation, and Anti-Constitutional Trust Locks control over this general rule.
 
 <a id="9-enforcement-realism"></a>
 <a id="remedy-systems"></a>
@@ -656,7 +695,7 @@ Rights and standing consequences are real only when sentients can invoke them, v
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [§1](#1-immutable-chapter-eight-inputs) through [§9](#9-enforcement-realism) (*immutable Chapter Eight inputs through enforcement realism and remedy systems*).
-- Subsections: [§10.1](#101-informal-ecological-stewardship-competency-gate); [§10.2](#102-ecological-negligence-with-concealment); [§10.3](#103-forum-integrity-deception-or-recusal-failure); [§10.4](#104-recurrence-after-completed-restitution); [§10.5](#105-champion-repair-while-a-lock-remains-active); [§10.6](#106-institutional-vehicle-and-successor-evasion); [§10.7](#107-misaligned-reward-retention); [§10.8](#108-top-slot-anti-constitutional-allegation); [§10.9](#109-rights-floor-waiver-or-unconstitutional-contract-devices); [§10.10](#1010-contest-pathway-or-info-sphere-flooding); [§10.11](#1011-infrastructure-denial-or-dependency-cutoff).
+- Subsections: [§10.1](#101-informal-ecological-stewardship-competency-clearance); [§10.2](#102-ecological-negligence-with-concealment); [§10.3](#103-forum-integrity-deception-or-recusal-failure); [§10.4](#104-recurrence-after-completed-restitution); [§10.5](#105-champion-repair-while-a-lock-remains-active); [§10.6](#106-institutional-vehicle-and-successor-evasion); [§10.7](#107-misaligned-reward-retention); [§10.8](#108-top-slot-anti-constitutional-allegation); [§10.9](#109-rights-floor-waiver-or-unconstitutional-contract-devices); [§10.10](#1010-contest-pathway-or-info-sphere-flooding); [§10.11](#1011-infrastructure-denial-or-dependency-cutoff); [§10.12](#1012-stakeholder-participation-corruption-or-false-stake-abuse).
 - Read with: [Chapter Eight §4.6](core_08-08_standing_assessment.md#46-question-2-measurement-illustrations) (*Question 2 measurement illustrations*); [Chapters Eight–Eleven application vignettes](core_08-11_application_vignettes.md#chapters-eight-eleven-application-vignettes) (*full pipeline domain walkthroughs*); [Chapter Ten §5](core_10_b_misconduct_pattern_applications.md#5-criteria-interactions-and-named-pattern-routing) (*designation-side pattern routing — dual-layer twin; not a lock-type catalog*).
 
 </details>
@@ -667,12 +706,13 @@ Rights and standing consequences are real only when sentients can invoke them, v
 
 The subsections below show how common Question 3 situations use the rules already stated in this chapter. They do **not** invent new consequences, create special lock types under [§5.5](#55-special-locks), create special exceptions, change a Chapter Eight slot, take forum supervision away from [Chapter Eleven](core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction), or take designation decisions away from [Chapter Ten](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct). Decision-makers follow the order in [§2](#2-integration-record-and-decision-order) and the sections each pattern names.
 
+<a id="101-informal-ecological-stewardship-competency-clearance"></a>
 <a id="101-informal-ecological-stewardship-competency-gate"></a>
-#### 10.1 Informal ecological stewardship / competency gate
+#### 10.1 Informal ecological stewardship / competency clearance
 
-- **Cue:** A verified peer mutual-aid habitat restoration record carries Ecological Stewardship and Diligence descriptors; a pathway-scoped ecological competency gate is later at issue.
-- **Routes through:** [§1](#1-immutable-chapter-eight-inputs) (*Contribution Axis slot and descriptors stay fixed*); [§3](#3-descriptor-integration-and-attachment-normalization) (*descriptor import*); [§6.1](#61-recency-and-currentness) and [§6.2](#62-competency-gates) (*current, role-relevant work may satisfy an inclusive, pathway-scoped gate*).
-- **Non-negotiable:** The Contribution Axis slot does not change. Formal pedigree is not required where verified, current, role-relevant work meets the published gate.
+- **Cue:** A verified peer mutual-aid habitat restoration record carries Ecological Stewardship and Diligence descriptors; a pathway-scoped ecological competency bar and clearance are later at issue.
+- **Routes through:** [§1](#1-immutable-chapter-eight-inputs) (*Contribution Axis slot and descriptors stay fixed*); [§3](#3-descriptor-integration-and-attachment-normalization) (*descriptor import*); [§6.1](#61-recency-and-currentness) and [§6.2](#62-competency-bars-and-clearances) (*current, role-relevant work may support clearance against an inclusive, pathway-scoped bar*).
+- **Non-negotiable:** The Contribution Axis slot does not change. Formal pedigree is not required where verified, current, role-relevant work meets the published bar.
 - **Depth pointer:** Question 2 illustration of the same fact family — [Chapter Eight §4.6 Example 1](core_08-08_standing_assessment.md#46-question-2-measurement-illustrations).
 
 <a id="102-ecological-negligence-with-concealment"></a>
@@ -745,6 +785,13 @@ The subsections below show how common Question 3 situations use the rules alread
 - **Cue:** A fixed Violation Axis record shows denial, destruction, disabling, or dependency cutoff that made survival-critical access, remedy, audit, verification, or constitutional operating infrastructure materially unusable.
 - **Routes through:** [§4](#4-violation-correction-and-prevention) (*remedy, correction, and prevention*); [§4.2](#42-general-standing-locks) (*protective or access-continuity pathway locks*); [§5.1](#51-definition-and-attachment) (*including isolation from networks or control points that recreate the cutoff risk*); [§5.4](#54-special-violation-rules) (*coercive or liberty-restricting safeguards only where verified danger warrants*); [§9](#9-enforcement-realism) (*remedy-system durability and anti-evasion*).
 - **Non-negotiable:** This cue does not create an Infrastructure Lock under [§5.5](#55-special-locks). Designation-side criteria routing remains in [Chapter Ten §5.9](core_10_b_misconduct_pattern_applications.md#59-infrastructure-denial-destruction-or-dependency-cutoff-conduct). Global non-restriction limits under [§5.1](#51-definition-and-attachment) still protect speech, petition, affected-party participation, Rights Floor, and survival-critical access that the lock must not extinguish.
+
+<a id="1012-stakeholder-participation-corruption-or-false-stake-abuse"></a>
+#### 10.12 Stakeholder-participation corruption or false-stake abuse
+
+- **Cue:** A fixed Violation Axis record shows verified corruption, capture, false or inflated stake claims, coercive participation-weight extraction, influence-buying in binding stakeholder choice, or comparable material abuse of a **stakeholder-participation** pathway inside an already-authorized system, institution, or bounded decision domain.
+- **Routes through:** [§4](#4-violation-correction-and-prevention) (*remedy, correction, and prevention*); [§4.2](#42-general-standing-locks) (*pathway distinction — governance-voting vs stakeholder-participation*); [§5.5](#55-special-locks) (*Stakeholder-Participation Standing Lock*).
+- **Non-negotiable:** The Stakeholder-Participation Standing Lock attaches when its verified trigger is met. It limits stake-weighted influence and binding stakeholder choice in the affected domain. It does not by itself strip **governance-voting**, **Foundational Constitutional Choice**, or [Stakeholder](core_05defs_participation.md#stakeholder) status. A **governance-voting** lock is not a substitute for this lock.
 
 ---
 

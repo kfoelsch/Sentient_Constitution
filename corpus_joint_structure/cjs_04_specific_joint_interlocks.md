@@ -226,7 +226,8 @@ Trust claims must remain consistent with **CJS-3.2** (*No false partial complian
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Competency Gate](../core_05defs_accountability.md#competency-gate) · [O](../core_05defs_accountability.md#competency-gate) · [A](../core_05defs_accountability.md#competency-gate-a) · [C](../core_05defs_accountability.md#competency-gate-c)
+- [Competency Bar](../core_05defs_accountability.md#competency-bar) · [O](../core_05defs_accountability.md#competency-bar) · [A](../core_05defs_accountability.md#competency-bar-a) · [C](../core_05defs_accountability.md#competency-bar-c)
+- [Competency Clearance](../core_05defs_accountability.md#competency-clearance) · [O](../core_05defs_accountability.md#competency-clearance) · [A](../core_05defs_accountability.md#competency-clearance-a) · [C](../core_05defs_accountability.md#competency-clearance-c)
 - [Governance](../core_05defs_accountability.md#governance) · [O](../core_05defs_accountability.md#governance) · [A](../core_05defs_accountability.md#governance-a) · [C](../core_05defs_accountability.md#governance-c)
 - [Sentient](../core_05defs_participation.md#sentient-composite) · [O](../core_05defs_participation.md#sentient-composite) · [A](../core_05defs_participation.md#sentient-composite-a) · [C](../core_05defs_integrative.md#sentient-composite-c)
 - [Corpus](../core_05defs_integrative.md#corpus) · [O](../core_05defs_integrative.md#corpus) · [A](../core_05defs_integrative.md#corpus-a) · [C](../core_05defs_integrative.md#corpus-c)
@@ -242,7 +243,7 @@ Trust claims must remain consistent with **CJS-3.2** (*No false partial complian
 
 Use this rule for **CJS-R18** (*Class-scaled lane staffing and competency redundancy for materially binding stewardship*), class-scaled lane staffing and competency redundancy for materially binding stewardship. It covers roles with materially binding effect under **Chapter Six**, section **5**, where `corpus_systems.md` **CS-4 — System classification and handling** or **CS-5 — Critical system stewardship** scales the burden.
 
-Before applying role, role-holder, stewardship, operator, accountable-role, or lane terms in this subsection, apply **CJS-5.0** (*Cross-band: Role-definition preface and standing competency gate interface*), [Chapter Nine §6.2](../core_09-09_standing_integration.md#62-competency-gates) (*Competency gates*), and any controlling standing lock under [Chapter Nine §4.2](../core_09-09_standing_integration.md#42-general-standing-locks) or [§5.5](../core_09-09_standing_integration.md#55-special-locks).
+Before applying role, role-holder, stewardship, operator, accountable-role, or lane terms in this subsection, apply **CJS-5.0** (*Cross-band: Role-definition preface and standing competency bar and clearance interface*), [Chapter Nine §6.2](../core_09-09_standing_integration.md#62-competency-bars-and-clearances) (*Competency bars and clearances*), and any controlling standing lock under [Chapter Nine §4.2](../core_09-09_standing_integration.md#42-general-standing-locks) or [§5.5](../core_09-09_standing_integration.md#55-special-locks).
 
 For **constitutional lane** and functional-separation meaning, apply **CJS-5.11** (*Constitutional lane and functional separation*) with **CI-3** (*Institutional design and separation of powers*).
 
@@ -274,7 +275,8 @@ The constitutional floor remains in `core_12-12_governance.md` **Chapter Twelve*
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Competency Gate](../core_05defs_accountability.md#competency-gate) · [O](../core_05defs_accountability.md#competency-gate) · [A](../core_05defs_accountability.md#competency-gate-a) · [C](../core_05defs_accountability.md#competency-gate-c)
+- [Competency Bar](../core_05defs_accountability.md#competency-bar) · [O](../core_05defs_accountability.md#competency-bar) · [A](../core_05defs_accountability.md#competency-bar-a) · [C](../core_05defs_accountability.md#competency-bar-c)
+- [Competency Clearance](../core_05defs_accountability.md#competency-clearance) · [O](../core_05defs_accountability.md#competency-clearance) · [A](../core_05defs_accountability.md#competency-clearance-a) · [C](../core_05defs_accountability.md#competency-clearance-c)
 - [Contestability](../core_05defs_accountability.md#contestability) · [O](../core_05defs_accountability.md#contestability) · [A](../core_05defs_accountability.md#contestability-a) · [C](../core_05defs_accountability.md#contestability-c)
 - [Material](../core_05defs_oversight.md#material) · [O](../core_05defs_oversight.md#material) · [A](../core_05defs_oversight.md#material-a) · [C](../core_05defs_oversight.md#material-c)
 - [Sentient](../core_05defs_participation.md#sentient-composite) · [O](../core_05defs_participation.md#sentient-composite) · [A](../core_05defs_participation.md#sentient-composite-a) · [C](../core_05defs_integrative.md#sentient-composite-c)
@@ -297,7 +299,7 @@ This subsection gives shared **CJS** terms for the following **primary owner** p
 
 Apply the operational evaluation terms in **CJS-5.13** (*Accountability: procedural integrity and adjudication terms*). This subsection does not replace **CI** or **CF** detail.
 
-Before applying these procedural role terms, apply the role-definition preface in **CJS-5.0** (*Cross-band: Role-definition preface and standing competency gate interface*), including the competency gate and standing interface.
+Before applying these procedural role terms, apply the role-definition preface in **CJS-5.0** (*Cross-band: Role-definition preface and standing competency bar and clearance interface*), including the competency bar, clearance, and standing interface.
 
 - **Delegated binding body:** a standing or recurring body below a parent institution that exercises materially binding delegated authority within a published scope.
 - **Lawful independent forum:** an adjudicative or equivalent merits forum formed under published authority, with required competence, quorum, and conflict-screened independence.

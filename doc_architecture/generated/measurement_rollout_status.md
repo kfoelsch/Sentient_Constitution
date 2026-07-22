@@ -2,10 +2,10 @@
 
 Auto-generated. Do not edit by hand.
 
-Generated: 2026-07-21T09:46:03+00:00
+Generated: 2026-07-22T11:52:42+00:00
 
 Grouped by Preamble measurement category. **Approved** terms must carry `*Measurements:*` and tier-aligned **E**/**C** per [doc_architecture.md](../doc_architecture.md) MEAS-DEF-01.
-Approved progress: **213/213** terms pass tier audit.
+Approved progress: **213/214** terms pass tier audit.
 
 
 ## 3.2 Flourishing
@@ -185,7 +185,8 @@ Approved progress: **213/213** terms pass tier audit.
 | Accountability | approved | primary_only | tetrad_leg_head | `core_05apex_accountability_leg.md` | no | pass |
 | Adjudication and Dispute Resolution | approved | primary_only | cluster_member | `core_05defs_accountability.md` | yes | pass |
 | Collective Accountability Failure | approved | primary_only | cluster_member | `core_05defs_accountability.md` | yes | pass |
-| Competency Gate | approved | primary_only | cluster_member | `core_05defs_accountability.md` | yes | pass |
+| Competency Bar | approved | primary_only | cluster_member | `core_05defs_accountability.md` | yes | pass |
+| Competency Clearance | approved | primary_only | cluster_member | `core_05defs_accountability.md` | yes | pass |
 | Constitutional Constraint | approved | primary_only | cluster_member | `core_05defs_integrative.md` | yes | pass |
 | Constitutional Contract Layer | approved | primary_only | independent | `core_05defs_integrative.md` | yes | pass |
 | Constitutional Owner Layers | approved | primary_only | cluster_member | `core_05defs_integrative.md` | yes | pass |
@@ -213,7 +214,7 @@ Approved progress: **213/213** terms pass tier audit.
 | Incentive Alignment — contingent claims, games of chance, and event-contract markets | approved | primary_only | cluster_member | `core_05defs_integrative.md` | yes | pass |
 | Innovation Reward and Anti-Enclosure | approved | primary_only | cluster_member | `core_05defs_integrative.md` | yes | pass |
 | Insider Advantage | approved | primary_only | cluster_member | `core_05defs_accountability.md` | yes | pass |
-| Market Concentration Threshold | approved | primary_secondary | cluster_member | `core_05defs_accountability.md` | yes | pass |
+| Market Concentration Threshold | approved | primary_secondary | cluster_member | `core_05defs_accountability.md` | yes | fail |
 | Market Structure | approved | full | cluster_member | `core_05defs_accountability.md` | yes | pass |
 | Merits Determination | approved | primary_only | cluster_member | `core_05defs_accountability.md` | yes | pass |
 | Necessity | approved | primary_only | cluster_member | `core_05defs_accountability.md` | yes | pass |

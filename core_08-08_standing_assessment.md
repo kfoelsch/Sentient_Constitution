@@ -148,7 +148,7 @@ Any later standing effect belongs to Chapter Nine and must be traceable back to 
 
 - Upstream: [§2.1](#21-standing-records-as-the-unit-of-application) (*separate contribution and violation records*).
 - Downstream: [§3.1](#31-minimum-record-contents) (*verified-input gate*); [§3.2](#32-related-record-cross-references) (*cross-references*); [§3.6](#36-forum-boundary) (*forum boundary*); [§4](#4-standing-measurement-evaluation-dimensions) (*Question 2 measurement*); [§5](#5-slot-grammar-and-lequ-calibration) (*slot grammar and shared scaling*); [§6](#6-constitutional-inputs-to-axis-assignment) (*constitutional-source routing*); [§7](#7-unified-proportional-lequ-scale) (*unified proportional LEQU scale for both axes*); [Chapter Nine](core_09-09_standing_integration.md#chapter-nine-standing-effects-and-integration) (*Question 3*).
-- Read with: [Chapter Nine — Standing integration](core_09-09_standing_integration.md#2-integration-record-and-decision-order) (*non-waiver and linked-record integration*); [Chapter Nine §6.2 — Competency gates](core_09-09_standing_integration.md#62-competency-gates); [Chapter Nine §4.2 — Standing locks](core_09-09_standing_integration.md#42-general-standing-locks).
+- Read with: [Chapter Nine — Standing integration](core_09-09_standing_integration.md#2-integration-record-and-decision-order) (*non-waiver and linked-record integration*); [Chapter Nine §6.2 — Competency bars and clearances](core_09-09_standing_integration.md#62-competency-bars-and-clearances); [Chapter Nine §4.2 — Standing locks](core_09-09_standing_integration.md#42-general-standing-locks).
 
 </details>
 
@@ -162,8 +162,8 @@ Any later standing effect belongs to Chapter Nine and must be traceable back to 
   - Standing locks must not wipe away verified positive contribution recorded in contribution standing records.
   - Unresolved verified violations are not time-discounted by mere passage of time.
   - Verified violations must not rewrite unrelated contribution standing records into a false negative reputation file.
-- **Contribution standing records and competency gates:**
-  - Verified contribution may satisfy applicable **competency gates** and support trust-, role-, or recognition-linked eligibility where current and role-relevant.
+- **Contribution standing records and competency clearances:**
+  - Verified contribution may support applicable **competency clearances** against published **competency bars** and support trust-, role-, or recognition-linked eligibility where current and role-relevant.
   - Verified contribution must not offset, average down, excuse, or relabel a verified violation finding.
   - Gate satisfaction does not waive any applicable standing lock.
 
@@ -351,7 +351,7 @@ This boundary does **not** reduce challenge, remedy, interim relief, or procedur
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [§2](#2-standing-records) (*Question 1 — standing records and verified facts*); [§3](#3-standing-record-operational-requirements) (*verified-input gate and record requirements*); [§1](#11-three-question-evaluation-discipline) (*three-question frame*).
-- Downstream: [§5](#5-slot-grammar-and-lequ-calibration) (*slot grammar and shared scaling*); [§6](#6-constitutional-inputs-to-axis-assignment) (*constitutional-source routing*); [§7](#7-unified-proportional-lequ-scale) (*Contribution and Violation Axis assignment*); [Chapter Nine §6.2](core_09-09_standing_integration.md#62-competency-gates) (*contribution Question 3 — safe delegation*); [Chapter Nine §4.2](core_09-09_standing_integration.md#42-general-standing-locks) (*prevention locks*); [Chapter Nine §5](core_09-09_standing_integration.md#5-lock-design-and-enforcement) (*lock design and enforcement*).
+- Downstream: [§5](#5-slot-grammar-and-lequ-calibration) (*slot grammar and shared scaling*); [§6](#6-constitutional-inputs-to-axis-assignment) (*constitutional-source routing*); [§7](#7-unified-proportional-lequ-scale) (*Contribution and Violation Axis assignment*); [Chapter Nine §6.2](core_09-09_standing_integration.md#62-competency-bars-and-clearances) (*contribution Question 3 — safe delegation*); [Chapter Nine §4.2](core_09-09_standing_integration.md#42-general-standing-locks) (*prevention locks*); [Chapter Nine §5](core_09-09_standing_integration.md#5-lock-design-and-enforcement) (*lock design and enforcement*).
 - Read with: [§3.1](#31-minimum-record-contents) (*verified record fields; no standing effects in Chapter Eight*).
 
 </details>
@@ -377,7 +377,7 @@ A **full-life-equivalent constitutional benefit** means verified benefit compara
 - **Not an accusation metric.** Allegations, intake tags, routing decisions, reputation, disfavored status, or moral dislike do not supply Contribution Axis benefit or Violation Axis severity without verified inputs under **section 3.1** and calibration under **section 7**.
 - **Not a license to trade rights.** Claims framed as efficiency, productive capacity, innovation, burden reduction, security, retaliation, emergency response, or institutional necessity must be discounted or rejected where they depend on coercion, discriminatory burden shifting, ecological depletion, hidden unpaid work, avoidable opacity, Rights-Floor narrowing, capture, misleading proxies, loss of contestability, or unreviewable aggregation.
 
-**Question 2 only.** Use these dimensions to measure the verified facts established under **section 2** and recorded under **section 3**. The **benefit-route** catalog in **section 4.3** and **harm-route** catalog in **section 4.4** supply the normalized names for kinds of help or harm and state how each name counts toward *how good* or *how bad*. Question 3 integration and attachment rules appear in [Chapter Nine §3](core_09-09_standing_integration.md#3-descriptor-integration-and-attachment-normalization), with consequence rules on the [benefit side](core_09-09_standing_integration.md#62-competency-gates) and [harm side](core_09-09_standing_integration.md#42-general-standing-locks).
+**Question 2 only.** Use these dimensions to measure the verified facts established under **section 2** and recorded under **section 3**. The **benefit-route** catalog in **section 4.3** and **harm-route** catalog in **section 4.4** supply the normalized names for kinds of help or harm and state how each name counts toward *how good* or *how bad*. Question 3 integration and attachment rules appear in [Chapter Nine §3](core_09-09_standing_integration.md#3-descriptor-integration-and-attachment-normalization), with consequence rules on the [benefit side](core_09-09_standing_integration.md#62-competency-bars-and-clearances) and [harm side](core_09-09_standing_integration.md#42-general-standing-locks).
 
 <a id="41-magnitude-input-dimensions"></a>
 <a id="41-contribution-magnitude-input-dimensions"></a>
@@ -466,7 +466,7 @@ Do **not** split violation-side LEQU into parallel ecological-harm, system-harm,
 
 **Canonical descriptor rule.** Sections **4.3–4.4** own the normalized descriptor catalog for both axes. Descriptors answer **how** verified benefit or harm occurred. They are stackable, non-exclusive, and subordinate to the applicable slot; one record may carry several where the verified facts warrant. The catalog is a foundation, not a closed list. Implementations may use stable identifiers mapped to it but must not create a conflicting exclusive taxonomy. Alleged descriptors may support lawful preservation, triage, or temporary safeguards; only verified descriptors may be recorded as Question 2 outputs or affect standing.
 
-**Benefit-route descriptors — Question 2 measurement role.** Question 3 safe-delegation role: [Chapter Nine §6.2](core_09-09_standing_integration.md#62-competency-gates).
+**Benefit-route descriptors — Question 2 measurement role.** Question 3 safe-delegation role: [Chapter Nine §6.2](core_09-09_standing_integration.md#62-competency-bars-and-clearances).
 
 | **Benefit-route descriptor** | **Normalized domain** | **Q2 (how good?)** |
 | --- | --- | --- |
@@ -484,7 +484,7 @@ Do **not** split violation-side LEQU into parallel ecological-harm, system-harm,
 | **Ecological Stewardship** | Ecology and diligence | Habitat, biodiversity, and climate-responsible benefit |
 | **Diligence** | Ecology and diligence | Foreseeable-risk prevention and competent supervision |
 
-**Catalog completeness.** A combined display row or implementation label must map back to every applicable normalized descriptor. This catalog governs descriptor names and their Question 2 measurement roles only. Question 3 attachment, remedy, lock, gate, and other standing-effect rules remain exclusively in Chapter Nine.
+**Catalog completeness.** A combined display row or implementation label must map back to every applicable normalized descriptor. This catalog governs descriptor names and their Question 2 measurement roles only. Question 3 attachment, remedy, lock, clearance, and other standing-effect rules remain exclusively in Chapter Nine.
 
 <a id="harm-route-descriptors-q1-measurement-role"></a>
 <a id="harm-route-descriptors-q1-classification-role"></a>
@@ -532,18 +532,18 @@ Do **not** split violation-side LEQU into parallel ecological-harm, system-harm,
 
 | **Verified feature** | **Question 2 owner in this chapter** | **Question 3 integration owner** |
 | --- | --- | --- |
-| **Externalized harm / concealed burden** | Contribution conduct-quality application in **§4.1** | [Chapter Nine §6.2](core_09-09_standing_integration.md#62-competency-gates) — may block or narrow a gate until remedied |
+| **Externalized harm / concealed burden** | Contribution conduct-quality application in **§4.1** | [Chapter Nine §6.2](core_09-09_standing_integration.md#62-competency-bars-and-clearances) — may block or narrow clearance until remedied |
 | **Deception / concealment / evasion** | Violation conduct-character application in **§4.2** | [Chapter Nine §4.2](core_09-09_standing_integration.md#42-general-standing-locks) — concealment / evasion escalated lock |
 | **Violence / coercion / liberty danger** | Violation conduct-character application in **§4.2** and **Violent Misconduct** in **§4.4** | [Chapter Nine §4.2](core_09-09_standing_integration.md#42-general-standing-locks) — protective and safeguard locks |
 | **Persistence / pattern / recurrence after notice** | Violation conduct-character application in **§4.2** | [Chapter Nine §4.2](core_09-09_standing_integration.md#42-general-standing-locks) — recurrence-persistence lock |
 | **Forum-integrity injury** | Violation conduct-character application in **§4.2** | [Chapter Nine §5.5](core_09-09_standing_integration.md#55-special-locks) — forum-integrity standing-lock effects |
 | **Diffusion of responsibility or control** | Violation conduct-character application in **§4.2**; actor-specific linkage under **§§3.1 and 3.3** | [Chapter Nine §4.2](core_09-09_standing_integration.md#42-general-standing-locks) — broader pathway scope or institutional-vehicle consideration |
-| **System / structural enablement** | Contribution conduct-quality application in **§4.1**; violation conduct character in **§4.2** and **System Misconduct** in **§4.4** | [Chapter Nine §6.2](core_09-09_standing_integration.md#62-competency-gates) and [Chapter Nine §4.2](core_09-09_standing_integration.md#42-general-standing-locks) — delegation safeguards or institutional-vehicle locks |
+| **System / structural enablement** | Contribution conduct-quality application in **§4.1**; violation conduct character in **§4.2** and **System Misconduct** in **§4.4** | [Chapter Nine §6.2](core_09-09_standing_integration.md#62-competency-bars-and-clearances) and [Chapter Nine §4.2](core_09-09_standing_integration.md#42-general-standing-locks) — delegation safeguards or institutional-vehicle locks |
 | **Acquiescent participation / failure to resist** | Violation conduct-character application in **§4.2** | [Chapter Nine §4.2](core_09-09_standing_integration.md#42-general-standing-locks) — pathway-scope and recurrence-persistence effects |
-| **Accessibility / participation-barrier repair** | **Access and Inclusion** in **§4.3** | [Chapter Nine §6.2](core_09-09_standing_integration.md#62-competency-gates) — inclusive-experience or pathway-scoped gate |
+| **Accessibility / participation-barrier repair** | **Access and Inclusion** in **§4.3** | [Chapter Nine §6.2](core_09-09_standing_integration.md#62-competency-bars-and-clearances) — inclusive-experience or pathway-scoped bar |
 | **Accessibility defeat / participation-barrier injury** | **Accessibility and Participation-Barrier Misconduct** in **§4.4** | [Chapter Nine §4.2](core_09-09_standing_integration.md#42-general-standing-locks) — participation and accessibility pathway blocks |
 | **Privacy / self-ownership injury** | **Privacy and Self-Ownership Misconduct** in **§4.4** | [Chapter Nine §4.2](core_09-09_standing_integration.md#42-general-standing-locks) — data-, likeness-, publication-, or internal-state pathway blocks |
-| **Exit / lock-in risk or foreclosure** | Contribution conduct-quality application in **§4.1**; **Exit and Lock-In Misconduct** in **§4.4** | [Chapter Nine §6.2](core_09-09_standing_integration.md#62-competency-gates) and [Chapter Nine §4.2](core_09-09_standing_integration.md#42-general-standing-locks) — delegation safeguards or exit-path blocks |
+| **Exit / lock-in risk or foreclosure** | Contribution conduct-quality application in **§4.1**; **Exit and Lock-In Misconduct** in **§4.4** | [Chapter Nine §6.2](core_09-09_standing_integration.md#62-competency-bars-and-clearances) and [Chapter Nine §4.2](core_09-09_standing_integration.md#42-general-standing-locks) — delegation safeguards or exit-path blocks |
 | **Lifecycle / irreversibility concealment** | **Lifecycle and Irreversibility Misconduct** in **§4.4** | [Chapter Nine §4.2](core_09-09_standing_integration.md#42-general-standing-locks) — deployment and lifecycle-authority blocks |
 
 <a id="451-similar-looking-facts-that-must-stay-separate"></a>
@@ -569,7 +569,7 @@ Some facts are related but answer different questions. Record them separately:
 
 #### 4.6 Measurement illustrations
 
-*In plain terms: these illustrations begin with Question 1's verified facts, then show how **section 4** measures them. They record Question 2 outputs — not standing effects. Slot assignment follows **sections 5–7**; Question 3 is answered in [Chapter Nine](core_09-09_standing_integration.md#chapter-nine-standing-effects-and-integration). For the Question 3 continuation of Examples 1 and 2 below, see [Chapter Nine §10.1](core_09-09_standing_integration.md#101-informal-ecological-stewardship-competency-gate) and [§10.2](core_09-09_standing_integration.md#102-ecological-negligence-with-concealment).*
+*In plain terms: these illustrations begin with Question 1's verified facts, then show how **section 4** measures them. They record Question 2 outputs — not standing effects. Slot assignment follows **sections 5–7**; Question 3 is answered in [Chapter Nine](core_09-09_standing_integration.md#chapter-nine-standing-effects-and-integration). For the Question 3 continuation of Examples 1 and 2 below, see [Chapter Nine §10.1](core_09-09_standing_integration.md#101-informal-ecological-stewardship-competency-clearance) and [§10.2](core_09-09_standing_integration.md#102-ecological-negligence-with-concealment).*
 
 **Example 1 — Riparian cooperative restoration (contribution).**
 

@@ -12,7 +12,7 @@
 - **Constitutional-outcome baseline controls.** Both axes use the unified Chapter Eight thresholds. Numeric estimates must not count raw efficiency, output, prestige, wealth, utilization, burden shifting, allegations, or disfavored status as impact.
 - **Recency and currentness** apply only at **Question 3** as gate/readiness inputs under [Chapter Nine §6.1](../core_09-09_standing_integration.md#61-recency-and-currentness). They must not alter a Chapter Eight contribution standing record, Contribution Axis slot, LEQU measurement, descriptor, or historical recognition. Any stored recency-weighted `C*` value is legacy interoperability data only and must not derive a slot.
 - **Unresolved** violation findings are **not** time-discounted for standing integration.
-- **Do not** net contribution against violation; **do not** **average** or **substitute** axes. Decide violation remedy, correction, and locks before contribution currentness and competency gates, per [Chapter Nine §2](../core_09-09_standing_integration.md#2-integration-record-and-decision-order). An applicable lock controls.
+- **Do not** net contribution against violation; **do not** **average** or **substitute** axes. Decide violation remedy, correction, and locks before contribution currentness and competency bars and clearances, per [Chapter Nine §2](../core_09-09_standing_integration.md#2-integration-record-and-decision-order). An applicable lock controls.
 
 **References:** [corpus_systems.md](../corpus_systems.md) (standing composites), [schemas/ch06_assessment.schema.json](schemas/ch06_assessment.schema.json) (optional `nine_slot` fields), [ch06_nine_slot_constants.json](ch06_nine_slot_constants.json) (precomputed table).
 
@@ -115,7 +115,7 @@ A **record** that **only** has **primary** **band** **typing** may set **`nine_s
 
 ## 4. No single net score
 
-Implementations may publish pairs `(C_measure, L*)`, where `L*` is verified violation loss in LEQU. They must not define standing as `C_measure - L*` or reconcile the axes into one gating number. In Question 3 processing, violation consequences are recorded first; contribution currentness and competency gates are evaluated only for pathways not blocked by a lock.
+Implementations may publish pairs `(C_measure, L*)`, where `L*` is verified violation loss in LEQU. They must not define standing as `C_measure - L*` or reconcile the axes into one gating number. In Question 3 processing, violation consequences are recorded first; contribution currentness and competency bars and clearances are evaluated only for pathways not blocked by a lock.
 
 ---
 

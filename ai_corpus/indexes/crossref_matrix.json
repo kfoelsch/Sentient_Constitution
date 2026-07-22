@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-07-22T10:38:01+00:00",
+  "generated_at": "2026-07-22T12:37:28+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -632,7 +632,7 @@
             "anchors": [
               "#41-remedy-and-correction",
               "#42-general-standing-locks",
-              "#62-competency-gates",
+              "#62-competency-bars-and-clearances",
               "#chapter-nine-standing-effects-and-integration"
             ]
           },
@@ -2076,7 +2076,7 @@
           },
           {
             "file": "core_05defs_accountability.md",
-            "count": 73,
+            "count": 74,
             "anchors": [
               "#adjudication-and-dispute-resolution-constitutional",
               "#autonomous-coercion-tool-constitutional",
@@ -2086,7 +2086,8 @@
               "#collective-harm-boundary",
               "#collective-harm-boundary-and-harm-cluster",
               "#combatant-non-combatant-distinction-constitutional",
-              "#competency-gate",
+              "#competency-bar",
+              "#competency-clearance",
               "#contestability",
               "#contingent-claim",
               "#contribution-state",
@@ -3030,7 +3031,7 @@
           },
           {
             "file": "core_05defs_accountability.md",
-            "count": 449,
+            "count": 468,
             "anchors": [
               "#accountability-contestability-semi-independent",
               "#adjudication-and-dispute-resolution-constitutional",
@@ -3041,7 +3042,8 @@
               "#collective-harm-boundary",
               "#collective-harm-boundary-and-harm-cluster",
               "#combatant-non-combatant-distinction-constitutional",
-              "#competency-gate",
+              "#competency-bar",
+              "#competency-clearance",
               "#contestability",
               "#contingent-claim",
               "#contribution-state",
@@ -3144,7 +3146,7 @@
           },
           {
             "file": "core_05defs_oversight.md",
-            "count": 116,
+            "count": 119,
             "anchors": [
               "#adversarial-scaled-and-exploited-conditions",
               "#auditability",
@@ -3164,7 +3166,7 @@
           },
           {
             "file": "core_05defs_participation.md",
-            "count": 97,
+            "count": 99,
             "anchors": [
               "#coercion-and-manipulation-constitutional",
               "#consent-constitutional",
@@ -3261,13 +3263,13 @@
           },
           {
             "file": "core_09-09_standing_integration.md",
-            "count": 13,
+            "count": 15,
             "anchors": [
               "#1-immutable-chapter-eight-inputs",
               "#3-descriptor-integration-and-attachment-normalization",
               "#42-general-standing-locks",
               "#5-lock-design-and-enforcement",
-              "#62-competency-gates",
+              "#62-competency-bars-and-clearances",
               "#82-remedy-system-durability",
               "#9-enforcement-realism",
               "#chapter-nine-standing-effects-and-integration"
@@ -4409,6 +4411,13 @@
             ]
           },
           {
+            "file": "core_09-09_standing_integration.md",
+            "count": 1,
+            "anchors": [
+              "#55-special-locks"
+            ]
+          },
+          {
             "file": "core_11-11_forum.md",
             "count": 3,
             "anchors": []
@@ -5056,7 +5065,7 @@
             "file": "core_09-09_standing_integration.md",
             "count": 47,
             "anchors": [
-              "#101-informal-ecological-stewardship-competency-gate",
+              "#101-informal-ecological-stewardship-competency-clearance",
               "#102-ecological-negligence-with-concealment",
               "#2-integration-record-and-decision-order",
               "#3-descriptor-integration-and-attachment-normalization",
@@ -5065,7 +5074,7 @@
               "#54-special-violation-rules",
               "#55-special-locks",
               "#6-contribution-consequences-second",
-              "#62-competency-gates",
+              "#62-competency-bars-and-clearances",
               "#85-timely-implementation-and-reassessment",
               "#chapter-nine-standing-effects-and-integration"
             ]
@@ -5116,6 +5125,15 @@
             "count": 1,
             "anchors": [
               "#remedy-system-constitutional"
+            ]
+          },
+          {
+            "file": "core_05defs_participation.md",
+            "count": 7,
+            "anchors": [
+              "#binding-stakeholder-choice-cluster",
+              "#stakeholder",
+              "#stakeholder-participation-weight"
             ]
           },
           {
@@ -5172,6 +5190,13 @@
               "#45-integrity-forums",
               "#6-timely-resolution-materiality-tiers-and-anti-delay-discipline",
               "#chapter-eleven-forums-and-jurisdiction"
+            ]
+          },
+          {
+            "file": "core_12-12_governance.md",
+            "count": 2,
+            "anchors": [
+              "#41-entitlement-and-eligibility"
             ]
           },
           {
@@ -5870,7 +5895,7 @@
             "anchors": [
               "#10-pattern-applications-and-question-3-routing",
               "#42-general-standing-locks",
-              "#62-competency-gates",
+              "#62-competency-bars-and-clearances",
               "#84-anti-evasion-and-look-through-authority",
               "#85-timely-implementation-and-reassessment"
             ]
@@ -6251,11 +6276,12 @@
           },
           {
             "file": "core_05defs_accountability.md",
-            "count": 154,
+            "count": 155,
             "anchors": [
               "#collective-harm-boundary",
               "#collective-harm-boundary-a",
               "#collective-harm-boundary-c",
+              "#competency-bar",
               "#contestability",
               "#contestability-a",
               "#contestability-c",
@@ -6405,7 +6431,7 @@
           },
           {
             "file": "core_05defs_participation.md",
-            "count": 337,
+            "count": 338,
             "anchors": [
               "#accessibility-constitutional",
               "#accessibility-constitutional-a",
@@ -6523,6 +6549,13 @@
             ]
           },
           {
+            "file": "core_09-09_standing_integration.md",
+            "count": 1,
+            "anchors": [
+              "#55-special-locks"
+            ]
+          },
+          {
             "file": "corpus_systems.md",
             "count": 14,
             "anchors": []
@@ -6603,7 +6636,7 @@
           },
           {
             "file": "core_05defs_accountability.md",
-            "count": 257,
+            "count": 273,
             "anchors": [
               "#autonomous-coercion-tool-constitutional",
               "#autonomous-coercion-tool-constitutional-a",
@@ -6617,9 +6650,12 @@
               "#combatant-non-combatant-distinction-constitutional",
               "#combatant-non-combatant-distinction-constitutional-a",
               "#combatant-non-combatant-distinction-constitutional-c",
-              "#competency-gate",
-              "#competency-gate-a",
-              "#competency-gate-c",
+              "#competency-bar",
+              "#competency-bar-a",
+              "#competency-bar-c",
+              "#competency-clearance",
+              "#competency-clearance-a",
+              "#competency-clearance-c",
               "#contestability",
               "#contestability-a",
               "#contestability-c",
@@ -6785,7 +6821,7 @@
           },
           {
             "file": "core_05defs_participation.md",
-            "count": 81,
+            "count": 82,
             "anchors": [
               "#coercion-and-manipulation-constitutional",
               "#coercion-and-manipulation-constitutional-a",
@@ -6865,12 +6901,12 @@
           },
           {
             "file": "core_09-09_standing_integration.md",
-            "count": 23,
+            "count": 24,
             "anchors": [
               "#42-general-standing-locks",
               "#54-special-violation-rules",
               "#55-special-locks",
-              "#62-competency-gates",
+              "#62-competency-bars-and-clearances",
               "#8-restoration-and-reassessment",
               "#9-enforcement-realism",
               "#chapter-nine-standing-effects-and-integration"
@@ -7298,10 +7334,11 @@
           },
           {
             "file": "core_09-09_standing_integration.md",
-            "count": 2,
+            "count": 5,
             "anchors": [
               "#42-general-standing-locks",
-              "#51-definition-and-attachment"
+              "#51-definition-and-attachment",
+              "#55-special-locks"
             ]
           },
           {
@@ -8521,14 +8558,17 @@
           },
           {
             "file": "core_05defs_accountability.md",
-            "count": 28,
+            "count": 36,
             "anchors": [
               "#adjudication-and-dispute-resolution-constitutional",
               "#adjudication-and-dispute-resolution-constitutional-a",
               "#adjudication-and-dispute-resolution-constitutional-c",
-              "#competency-gate",
-              "#competency-gate-a",
-              "#competency-gate-c",
+              "#competency-bar",
+              "#competency-bar-a",
+              "#competency-bar-c",
+              "#competency-clearance",
+              "#competency-clearance-a",
+              "#competency-clearance-c",
               "#contestability",
               "#contestability-a",
               "#contestability-c",
@@ -8612,7 +8652,7 @@
             "anchors": [
               "#42-general-standing-locks",
               "#55-special-locks",
-              "#62-competency-gates"
+              "#62-competency-bars-and-clearances"
             ]
           },
           {
@@ -8699,11 +8739,14 @@
           },
           {
             "file": "core_05defs_accountability.md",
-            "count": 15,
+            "count": 19,
             "anchors": [
-              "#competency-gate",
-              "#competency-gate-a",
-              "#competency-gate-c",
+              "#competency-bar",
+              "#competency-bar-a",
+              "#competency-bar-c",
+              "#competency-clearance",
+              "#competency-clearance-a",
+              "#competency-clearance-c",
               "#contestability",
               "#contestability-a",
               "#contestability-c",
@@ -8764,7 +8807,7 @@
             "anchors": [
               "#42-general-standing-locks",
               "#55-special-locks",
-              "#62-competency-gates"
+              "#62-competency-bars-and-clearances"
             ]
           },
           {
@@ -8797,7 +8840,7 @@
             "file": "corpus_joint_structure/cjs_05_cross_implementation_operational_terms.md",
             "count": 1,
             "anchors": [
-              "#cjs-50-role-definition-preface-and-standing-competency-gate-interface"
+              "#cjs-50-role-definition-preface-and-standing-competency-bar-and-clearance-interface"
             ]
           },
           {
@@ -10929,11 +10972,14 @@
           },
           {
             "file": "core_05defs_accountability.md",
-            "count": 24,
+            "count": 32,
             "anchors": [
-              "#competency-gate",
-              "#competency-gate-a",
-              "#competency-gate-c",
+              "#competency-bar",
+              "#competency-bar-a",
+              "#competency-bar-c",
+              "#competency-clearance",
+              "#competency-clearance-a",
+              "#competency-clearance-c",
               "#contestability",
               "#contestability-a",
               "#contestability-c",
@@ -11009,7 +11055,7 @@
             "anchors": [
               "#42-general-standing-locks",
               "#55-special-locks",
-              "#62-competency-gates"
+              "#62-competency-bars-and-clearances"
             ]
           },
           {
@@ -14237,7 +14283,7 @@
             "count": 11,
             "anchors": [
               "#55-special-locks",
-              "#62-competency-gates",
+              "#62-competency-bars-and-clearances",
               "#8-restoration-and-reassessment"
             ]
           },

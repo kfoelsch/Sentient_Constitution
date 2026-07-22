@@ -7,7 +7,7 @@
 - Read with: **CF-4**; **CF-4.1**; **CF-4.2**; **CF-4.3**; **CF-4.4**; **CF-4.5**; [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract.
 - Topic routing (mandatory read-with): **CJS-R11A** (*Fallback operation*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CF-13**.
 - Topic routing (mandatory read-with): **CJS-R15** (*Contest-integrity monitoring (pathway integrity, not merits)*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CI-7.3**.
-- Topic routing (primary owner): **CJS-R03** (*Lawful panel formation, disclosure, recusal, substitution, inability-to…*) in **CJS-2.1** (*Topic router (stable IDs)*). Mandatory read-with: **CJS-4.5**, **CJS-5.13** (*procedural integrity and adjudication terms*), **CI-4**, **CI-5**, [Chapter Nine §5.5](../core_09-09_standing_integration.md#55-special-locks), [§6.2](../core_09-09_standing_integration.md#62-competency-gates), [§8](../core_09-09_standing_integration.md#8-restoration-and-reassessment), and **Chapter Eleven**.
+- Topic routing (primary owner): **CJS-R03** (*Lawful panel formation, disclosure, recusal, substitution, inability-to…*) in **CJS-2.1** (*Topic router (stable IDs)*). Mandatory read-with: **CJS-4.5**, **CJS-5.13** (*procedural integrity and adjudication terms*), **CI-4**, **CI-5**, [Chapter Nine §5.5](../core_09-09_standing_integration.md#55-special-locks), [§6.2](../core_09-09_standing_integration.md#62-competency-bars-and-clearances), [§8](../core_09-09_standing_integration.md#8-restoration-and-reassessment), and **Chapter Eleven**.
 
 </details>
 
