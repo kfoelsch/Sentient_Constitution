@@ -40,68 +40,6 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
 
 <a id="accountability-independent-terms"></a>
 
-<a id="contingent-claim"></a>
-
-#### Contingent Claim
-
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Downstream: Principles: [§11.5 Contingent claims, games of chance, and event-contract markets](core_01_c_stewardship_capacity_principles.md#115-contingent-claims-games-of-chance-and-event-contract-markets).
-- Cluster component: [Chapter Five Chapter One §8.13 *Contingent Claim, Event-Contract Market, and Game of Chance*](core_05defs_accountability.md#contingent-claim)
-- Read with: [Game of Chance](core_05defs_accountability.md#game-of-chance), [Event-Contract Market](core_05defs_accountability.md#event-contract-market), [Capture of Resolution Pathways](core_05defs_accountability.md#capture-of-resolution-pathways), [Insider Advantage](core_05defs_accountability.md#insider-advantage), [Incentive Alignment](core_05defs_integrative.md#incentive-alignment), [Risk](core_05defs_continuity.md#risk), [Dependency](core_05defs_continuity.md#dependency), and [Coercion and Manipulation](core_05defs_participation.md#coercion-and-manipulation-constitutional).
-
-</details>
-
-<br>
-
-*In plain terms: a payout that depends on whether some uncertain future event happens, does not happen, or resolves to a measured result — like a bet, a prediction stake, or an insurance-style payment. The event has to be outside the claim itself.*
-
-- **What it is**
-  - **In scope:** A right to a payout that depends on an uncertain future event outside the claim itself — whether the event happens, does not happen, or resolves to a measured result. This covers speculative bets and insurance-like structures. [Game of Chance](core_05defs_accountability.md#game-of-chance) and [Event-Contract Market](core_05defs_accountability.md#event-contract-market) are kinds of Contingent Claim.
-  - **Out of scope:** Labels or paperwork that call something a contingent claim when it does not actually work that way for the matter this Constitution governs.
-<a id="contingent-claim-a"></a>
-- **How to measure and assess**
-  - **Primary measure:** Accountability and Timeliness measurement families — used alongside any other relevant measures to assess responsibility and whether action happens without harmful delay.
-
-    **Primary assessment:** Identify the event that settles the payout, who or what decides that outcome (the outcome-resolution source under [Chapter One §11.5](core_01_c_stewardship_capacity_principles.md#115-contingent-claims-games-of-chance-and-event-contract-markets)), and how much [Dependency](core_05defs_continuity.md#dependency) and concentration the structure creates. Where many such claims together could sway fiduciary, public, or rights-relevant decisions, also apply [Incentive Alignment](core_05defs_integrative.md#incentive-alignment), [Coercion and Manipulation](core_05defs_participation.md#coercion-and-manipulation-constitutional), [Capture of Resolution Pathways](core_05defs_accountability.md#capture-of-resolution-pathways), [Insider Advantage](core_05defs_accountability.md#insider-advantage), and [System Capture](core_05defs_continuity.md#system-capture).
-<a id="contingent-claim-c"></a>
-- **What must hold**
-  - Structures that reliably pay for unlawful [Harm](core_05defs_accountability.md#harm), for twisting rights-relevant decisions, or for [Capture of Resolution Pathways](core_05defs_accountability.md#capture-of-resolution-pathways) — without proportionate safeguards — are non-compliant.
-
----
-
-<a id="event-contract-market"></a>
-
-#### Event-Contract Market
-
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Downstream: Principles: [§11.5 Contingent claims, games of chance, and event-contract markets](core_01_c_stewardship_capacity_principles.md#115-contingent-claims-games-of-chance-and-event-contract-markets).
-- Cluster component: [Chapter Five Chapter One §8.13 *Contingent Claim, Event-Contract Market, and Game of Chance*](core_05defs_accountability.md#contingent-claim)
-- Read with: [Contingent Claim](core_05defs_accountability.md#contingent-claim), [Capture of Resolution Pathways](core_05defs_accountability.md#capture-of-resolution-pathways), [Insider Advantage](core_05defs_accountability.md#insider-advantage), [Truth (Constitutional Constraint)](core_05defs_oversight.md#truth-constitutional-constraint), [Incentive Alignment](core_05defs_integrative.md#incentive-alignment), and [Epistemic Integrity](core_05defs_oversight.md#epistemic-integrity).
-
-</details>
-
-<br>
-
-*In plain terms: a market or pool where sentients bet, trade, or get paid based on how an external future event turns out — prediction markets, event-settlement systems, insurance pools, and similar setups.*
-
-- **What it is**
-  - **In scope:** A [Contingent Claim](core_05defs_accountability.md#contingent-claim) venue that matches counterparties, sets prices, or pays out based on how an external event resolves. Includes prediction-style event markets, event-settlement systems, insurance pools, health plans, and other structures where payment depends on a future event the parties do not control.
-  - **Out of scope:** Labels or paperwork that call something an event-contract market when it does not actually work that way for the matter this Constitution governs.
-<a id="event-contract-market-a"></a>
-- **How to measure and assess**
-  - **Primary measure:** Accountability and Timeliness measurement families — used alongside any other relevant measures to assess responsibility and whether action happens without harmful delay.
-
-    **Primary assessment:** Check that whoever decides the outcome (the outcome-resolution source) is independent, and that more than one source is used where feasible. Check for privileged-information pathways, [Insider Advantage](core_05defs_accountability.md#insider-advantage), and coordination risk. Do not treat settlement prices or odds as authoritative [Truth (Constitutional Constraint)](core_05defs_oversight.md#truth-constitutional-constraint) — under [Chapter One §11.5](core_01_c_stewardship_capacity_principles.md#115-contingent-claims-games-of-chance-and-event-contract-markets), prices or odds alone are not enough evidence for rights, safety, or governance decisions. Also check for [Capture of Resolution Pathways](core_05defs_accountability.md#capture-of-resolution-pathways) under [Adversarial, Scaled, and Exploited Conditions](core_05defs_oversight.md#adversarial-scaled-and-exploited-conditions).
-<a id="event-contract-market-c"></a>
-- **What must hold**
-  - Markets built to twist fiduciary, public, or rights-relevant decisions — or that allow [Insider Advantage](core_05defs_accountability.md#insider-advantage) without proportionate safeguards — are non-compliant.
-
----
-
 <a id="feasibility"></a>
 
 #### Feasibility
@@ -130,68 +68,6 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
 <a id="feasibility-c"></a>
 - **What must hold**
   - Claims that something is infeasible without adequate justification — or analyses that skip materially relevant alternatives — invalidate related compliance findings under [Necessity](core_05defs_accountability.md#necessity) and [Proportionality](core_05defs_accountability.md#proportionality) where those tests apply.
-
----
-
-<a id="game-of-chance"></a>
-
-#### Game of Chance
-
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Downstream: Principles: [§12.2.3 Contingent claims, games of chance, and event-contract markets](core_01_c_stewardship_capacity_principles.md#115-contingent-claims-games-of-chance-and-event-contract-markets).
-- Cluster component: [Chapter Five Chapter One §8.13 *Contingent Claim, Event-Contract Market, and Game of Chance*](core_05defs_accountability.md#contingent-claim)
-- Read with: [Contingent Claim](core_05defs_accountability.md#contingent-claim), [Coercion and Manipulation](core_05defs_participation.md#coercion-and-manipulation-constitutional), [Incentive Alignment](core_05defs_integrative.md#incentive-alignment), [Dependency](core_05defs_continuity.md#dependency), [Capture of Resolution Pathways](core_05defs_accountability.md#capture-of-resolution-pathways), and [Insider Advantage](core_05defs_accountability.md#insider-advantage).
-
-</details>
-
-<br>
-
-*In plain terms: a bet or payout decided mainly by random chance — such as a draw or other random process — rather than by how an outside real-world event turns out.*
-
-- **What it is**
-  - **In scope:** A [Contingent Claim](core_05defs_accountability.md#contingent-claim) decided mainly by randomization, mechanical draws, or another chance-based process. Unlike an event contract, it is not tied to an outside real-world event whose result has its own importance for knowledge or rights.
-  - **Out of scope:** A label or paperwork calling something a game of chance when it does not actually work that way for the matter this Constitution governs.
-<a id="game-of-chance-a"></a>
-- **How to measure and assess**
-  - **Primary measure:** Accountability and Timeliness measurement families — used alongside any other relevant measures to assess responsibility and whether action happens without harmful delay.
-
-    **Primary assessment:** Check whether the random process is honest, whether the source that decides the outcome is independent, whether stakes are concentrated, whether the design exploits vulnerability, and whether it creates [Dependency](core_05defs_continuity.md#dependency). Addictive designs or designs that target vulnerable sentients trigger [Coercion and Manipulation](core_05defs_participation.md#coercion-and-manipulation-constitutional) review under [Adversarial, Scaled, and Exploited Conditions](core_05defs_oversight.md#adversarial-scaled-and-exploited-conditions).
-<a id="game-of-chance-c"></a>
-- **What must hold**
-  - A design is non-compliant if it exploits vulnerability, falsifies randomness, or produces [Capture of Resolution Pathways](core_05defs_accountability.md#capture-of-resolution-pathways).
-
----
-
-<a id="insider-advantage"></a>
-
-#### Insider Advantage
-
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Downstream: Principles: [§12.2.3 Contingent claims, games of chance, and event-contract markets](core_01_c_stewardship_capacity_principles.md#115-contingent-claims-games-of-chance-and-event-contract-markets).
-- Cluster component: [Chapter Five Chapter One §8.13 *Contingent Claim, Event-Contract Market, and Game of Chance*](core_05defs_accountability.md#contingent-claim)
-- Read with: [Contingent Claim](core_05defs_accountability.md#contingent-claim), [Event-Contract Market](core_05defs_accountability.md#event-contract-market), [Game of Chance](core_05defs_accountability.md#game-of-chance), [Capture of Resolution Pathways](core_05defs_accountability.md#capture-of-resolution-pathways), [Incentive Alignment](core_05defs_integrative.md#incentive-alignment), [Truth (Constitutional Constraint)](core_05defs_oversight.md#truth-constitutional-constraint), [Epistemic Integrity](core_05defs_oversight.md#epistemic-integrity), [Contestability](core_05defs_accountability.md#contestability), [Coercion and Manipulation](core_05defs_participation.md#coercion-and-manipulation-constitutional), and [Oversight](core_05apex_oversight_leg.md#oversight-constitutional).
-
-</details>
-
-<br>
-
-*In plain terms: an unfair edge in betting, trading, settlement, or another rights-relevant outcome that comes from secret information, an official role, privileged access, or similar power that others do not have on fair terms.*
-
-- **What it is**
-  - **In scope:** A meaningful advantage in staking, trading, settling, or influencing a [Contingent Claim](core_05defs_accountability.md#contingent-claim) or a similar rights-relevant outcome. The advantage comes from non-public information, an official or fiduciary role, privileged access to whoever decides the outcome, or similar power not available to the other parties on proportionate terms. It includes advantages hidden through intermediaries or disguised contracts.
-  - **Out of scope:** A label or paperwork claiming insider advantage when no such advantage actually affects the matter this Constitution governs.
-<a id="insider-advantage-a"></a>
-- **How to measure and assess**
-  - **Primary measure:** Accountability and Timeliness measurement families — used alongside any other relevant measures to assess responsibility and whether action happens without harmful delay.
-
-    **Primary assessment:** Identify unequal access to information, conflicts between roles, timing leverage such as timed pressure or selective disclosure, and closeness to the source that decides the outcome. Check whether disclosure, cooling-off periods, trading restrictions, blind procedures, or resolution by multiple sources reduce the advantage. Separate lawful skill and public information from an edge based on non-public power. Read with [Capture of Resolution Pathways](core_05defs_accountability.md#capture-of-resolution-pathways), [Event-Contract Market](core_05defs_accountability.md#event-contract-market) evaluation discipline, [Coercion and Manipulation](core_05defs_participation.md#coercion-and-manipulation-constitutional), [Truth (Constitutional Constraint)](core_05defs_oversight.md#truth-constitutional-constraint), [Epistemic Integrity](core_05defs_oversight.md#epistemic-integrity), and [Contestability](core_05defs_accountability.md#contestability) under [Adversarial, Scaled, and Exploited Conditions](core_05defs_oversight.md#adversarial-scaled-and-exploited-conditions).
-<a id="insider-advantage-c"></a>
-- **What must hold**
-  - A structure is non-compliant if it allows [Insider Advantage](core_05defs_accountability.md#insider-advantage) based on non-public power without proportionate safeguards.
 
 ---
 
@@ -322,11 +198,151 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
 
 <a id="accountability-semi-independent-terms"></a>
 
+<a id="contingent-claims-games-of-chance-and-event-contract-markets-semi-independent"></a>
+
+#### Contingent Claim, Event-Contract Market, Game of Chance, and Insider Advantage
+
+**Cluster context:** This semi-independent topic group names contingent settlement forms and the integrity overlay that governs unfair edges in those structures. [Contingent Claim](core_05defs_accountability.md#contingent-claim) is the genus: a right to a payout that depends on an uncertain future event outside the claim itself. [Event-Contract Market](core_05defs_accountability.md#event-contract-market) and [Game of Chance](core_05defs_accountability.md#game-of-chance) are kinds of Contingent Claim — external-event settlement venues and chance-based payouts, respectively. [Insider Advantage](core_05defs_accountability.md#insider-advantage) is the integrity overlay for non-public or role-based edges in staking, trading, settlement, or influence over those structures. These definitions operate together where contingent claims, games of chance, or event-contract markets are material, consistent with [Chapter One §11.5](core_01_c_stewardship_capacity_principles.md#115-contingent-claims-games-of-chance-and-event-contract-markets).
+
+**Topic group members.** This group comprises:
+- [Contingent Claim](core_05defs_accountability.md#contingent-claim);
+- [Event-Contract Market](core_05defs_accountability.md#event-contract-market);
+- [Game of Chance](core_05defs_accountability.md#game-of-chance);
+- [Insider Advantage](core_05defs_accountability.md#insider-advantage).
+
+*Measurements (family routing):* Accountability measurement family and Timeliness measurement family — operative tiers on [Contingent Claim](core_05defs_accountability.md#contingent-claim), [Event-Contract Market](core_05defs_accountability.md#event-contract-market), [Game of Chance](core_05defs_accountability.md#game-of-chance), and [Insider Advantage](core_05defs_accountability.md#insider-advantage) below; progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md).
+
+---
+
+<a id="contingent-claim"></a>
+
+#### Contingent Claim
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Downstream: Principles: [§11.5 Contingent claims, games of chance, and event-contract markets](core_01_c_stewardship_capacity_principles.md#115-contingent-claims-games-of-chance-and-event-contract-markets).
+- Cluster component: [Contingent Claim, Event-Contract Market, Game of Chance, and Insider Advantage](core_05defs_accountability.md#contingent-claims-games-of-chance-and-event-contract-markets-semi-independent)
+- Read with: [Game of Chance](core_05defs_accountability.md#game-of-chance), [Event-Contract Market](core_05defs_accountability.md#event-contract-market), [Capture of Resolution Pathways](core_05defs_accountability.md#capture-of-resolution-pathways), [Insider Advantage](core_05defs_accountability.md#insider-advantage), [Incentive Alignment](core_05defs_integrative.md#incentive-alignment), [Risk](core_05defs_continuity.md#risk), [Dependency](core_05defs_continuity.md#dependency), and [Coercion and Manipulation](core_05defs_participation.md#coercion-and-manipulation-constitutional).
+
+</details>
+
+<br>
+
+*In plain terms: a payout that depends on whether some uncertain future event happens, does not happen, or resolves to a measured result — like a bet, a prediction stake, or an insurance-style payment. The event has to be outside the claim itself.*
+
+- **What it is**
+  - **In scope:** A right to a payout that depends on an uncertain future event outside the claim itself — whether the event happens, does not happen, or resolves to a measured result. This covers speculative bets and insurance-like structures. [Game of Chance](core_05defs_accountability.md#game-of-chance) and [Event-Contract Market](core_05defs_accountability.md#event-contract-market) are kinds of Contingent Claim.
+  - **Out of scope:** Labels or paperwork that call something a contingent claim when it does not actually work that way for the matter this Constitution governs.
+<a id="contingent-claim-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** Accountability and Timeliness measurement families — used alongside any other relevant measures to assess responsibility and whether action happens without harmful delay.
+
+    **Primary assessment:** Identify the event that settles the payout, who or what decides that outcome (the outcome-resolution source under [Chapter One §11.5](core_01_c_stewardship_capacity_principles.md#115-contingent-claims-games-of-chance-and-event-contract-markets)), and how much [Dependency](core_05defs_continuity.md#dependency) and concentration the structure creates. Where many such claims together could sway fiduciary, public, or rights-relevant decisions, also apply [Incentive Alignment](core_05defs_integrative.md#incentive-alignment), [Coercion and Manipulation](core_05defs_participation.md#coercion-and-manipulation-constitutional), [Capture of Resolution Pathways](core_05defs_accountability.md#capture-of-resolution-pathways), [Insider Advantage](core_05defs_accountability.md#insider-advantage), and [System Capture](core_05defs_continuity.md#system-capture).
+<a id="contingent-claim-c"></a>
+- **What must hold**
+  - Structures that reliably pay for unlawful [Harm](core_05defs_accountability.md#harm), for twisting rights-relevant decisions, or for [Capture of Resolution Pathways](core_05defs_accountability.md#capture-of-resolution-pathways) — without proportionate safeguards — are non-compliant.
+
+---
+
+<a id="event-contract-market"></a>
+
+#### Event-Contract Market
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Downstream: Principles: [§11.5 Contingent claims, games of chance, and event-contract markets](core_01_c_stewardship_capacity_principles.md#115-contingent-claims-games-of-chance-and-event-contract-markets).
+- Cluster component: [Contingent Claim, Event-Contract Market, Game of Chance, and Insider Advantage](core_05defs_accountability.md#contingent-claims-games-of-chance-and-event-contract-markets-semi-independent)
+- Read with: [Contingent Claim](core_05defs_accountability.md#contingent-claim), [Capture of Resolution Pathways](core_05defs_accountability.md#capture-of-resolution-pathways), [Insider Advantage](core_05defs_accountability.md#insider-advantage), [Truth (Constitutional Constraint)](core_05defs_oversight.md#truth-constitutional-constraint), [Incentive Alignment](core_05defs_integrative.md#incentive-alignment), and [Epistemic Integrity](core_05defs_oversight.md#epistemic-integrity).
+
+</details>
+
+<br>
+
+*In plain terms: a market or pool where sentients bet, trade, or get paid based on how an external future event turns out — prediction markets, event-settlement systems, insurance pools, and similar setups.*
+
+- **What it is**
+  - **In scope:** A [Contingent Claim](core_05defs_accountability.md#contingent-claim) venue that matches counterparties, sets prices, or pays out based on how an external event resolves. Includes prediction-style event markets, event-settlement systems, insurance pools, health plans, and other structures where payment depends on a future event the parties do not control.
+  - **Out of scope:** Labels or paperwork that call something an event-contract market when it does not actually work that way for the matter this Constitution governs.
+<a id="event-contract-market-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** Accountability and Timeliness measurement families — used alongside any other relevant measures to assess responsibility and whether action happens without harmful delay.
+
+    **Primary assessment:** Check that whoever decides the outcome (the outcome-resolution source) is independent, and that more than one source is used where feasible. Check for privileged-information pathways, [Insider Advantage](core_05defs_accountability.md#insider-advantage), and coordination risk. Do not treat settlement prices or odds as authoritative [Truth (Constitutional Constraint)](core_05defs_oversight.md#truth-constitutional-constraint) — under [Chapter One §11.5](core_01_c_stewardship_capacity_principles.md#115-contingent-claims-games-of-chance-and-event-contract-markets), prices or odds alone are not enough evidence for rights, safety, or governance decisions. Also check for [Capture of Resolution Pathways](core_05defs_accountability.md#capture-of-resolution-pathways) under [Adversarial, Scaled, and Exploited Conditions](core_05defs_oversight.md#adversarial-scaled-and-exploited-conditions).
+<a id="event-contract-market-c"></a>
+- **What must hold**
+  - Markets built to twist fiduciary, public, or rights-relevant decisions — or that allow [Insider Advantage](core_05defs_accountability.md#insider-advantage) without proportionate safeguards — are non-compliant.
+
+---
+
+<a id="game-of-chance"></a>
+
+#### Game of Chance
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Downstream: Principles: [§11.5 Contingent claims, games of chance, and event-contract markets](core_01_c_stewardship_capacity_principles.md#115-contingent-claims-games-of-chance-and-event-contract-markets).
+- Cluster component: [Contingent Claim, Event-Contract Market, Game of Chance, and Insider Advantage](core_05defs_accountability.md#contingent-claims-games-of-chance-and-event-contract-markets-semi-independent)
+- Read with: [Contingent Claim](core_05defs_accountability.md#contingent-claim), [Coercion and Manipulation](core_05defs_participation.md#coercion-and-manipulation-constitutional), [Incentive Alignment](core_05defs_integrative.md#incentive-alignment), [Dependency](core_05defs_continuity.md#dependency), [Capture of Resolution Pathways](core_05defs_accountability.md#capture-of-resolution-pathways), and [Insider Advantage](core_05defs_accountability.md#insider-advantage).
+
+</details>
+
+<br>
+
+*In plain terms: a bet or payout decided mainly by random chance — such as a draw or other random process — rather than by how an outside real-world event turns out.*
+
+- **What it is**
+  - **In scope:** A [Contingent Claim](core_05defs_accountability.md#contingent-claim) decided mainly by randomization, mechanical draws, or another chance-based process. Unlike an event contract, it is not tied to an outside real-world event whose result has its own importance for knowledge or rights.
+  - **Out of scope:** A label or paperwork calling something a game of chance when it does not actually work that way for the matter this Constitution governs.
+<a id="game-of-chance-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** Accountability and Timeliness measurement families — used alongside any other relevant measures to assess responsibility and whether action happens without harmful delay.
+
+    **Primary assessment:** Check whether the random process is honest, whether the source that decides the outcome is independent, whether stakes are concentrated, whether the design exploits vulnerability, and whether it creates [Dependency](core_05defs_continuity.md#dependency). Addictive designs or designs that target vulnerable sentients trigger [Coercion and Manipulation](core_05defs_participation.md#coercion-and-manipulation-constitutional) review under [Adversarial, Scaled, and Exploited Conditions](core_05defs_oversight.md#adversarial-scaled-and-exploited-conditions).
+<a id="game-of-chance-c"></a>
+- **What must hold**
+  - A design is non-compliant if it exploits vulnerability, falsifies randomness, or produces [Capture of Resolution Pathways](core_05defs_accountability.md#capture-of-resolution-pathways).
+
+---
+
+<a id="insider-advantage"></a>
+
+#### Insider Advantage
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Downstream: Principles: [§11.5 Contingent claims, games of chance, and event-contract markets](core_01_c_stewardship_capacity_principles.md#115-contingent-claims-games-of-chance-and-event-contract-markets).
+- Cluster component: [Contingent Claim, Event-Contract Market, Game of Chance, and Insider Advantage](core_05defs_accountability.md#contingent-claims-games-of-chance-and-event-contract-markets-semi-independent)
+- Read with: [Contingent Claim](core_05defs_accountability.md#contingent-claim), [Event-Contract Market](core_05defs_accountability.md#event-contract-market), [Game of Chance](core_05defs_accountability.md#game-of-chance), [Capture of Resolution Pathways](core_05defs_accountability.md#capture-of-resolution-pathways), [Incentive Alignment](core_05defs_integrative.md#incentive-alignment), [Truth (Constitutional Constraint)](core_05defs_oversight.md#truth-constitutional-constraint), [Epistemic Integrity](core_05defs_oversight.md#epistemic-integrity), [Contestability](core_05defs_accountability.md#contestability), [Coercion and Manipulation](core_05defs_participation.md#coercion-and-manipulation-constitutional), and [Oversight](core_05apex_oversight_leg.md#oversight-constitutional).
+
+</details>
+
+<br>
+
+*In plain terms: an unfair edge in betting, trading, settlement, or another rights-relevant outcome that comes from secret information, an official role, privileged access, or similar power that others do not have on fair terms.*
+
+- **What it is**
+  - **In scope:** A meaningful advantage in staking, trading, settling, or influencing a [Contingent Claim](core_05defs_accountability.md#contingent-claim) or a similar rights-relevant outcome. The advantage comes from non-public information, an official or fiduciary role, privileged access to whoever decides the outcome, or similar power not available to the other parties on proportionate terms. It includes advantages hidden through intermediaries or disguised contracts.
+  - **Out of scope:** A label or paperwork claiming insider advantage when no such advantage actually affects the matter this Constitution governs.
+<a id="insider-advantage-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** Accountability and Timeliness measurement families — used alongside any other relevant measures to assess responsibility and whether action happens without harmful delay.
+
+    **Primary assessment:** Identify unequal access to information, conflicts between roles, timing leverage such as timed pressure or selective disclosure, and closeness to the source that decides the outcome. Check whether disclosure, cooling-off periods, trading restrictions, blind procedures, or resolution by multiple sources reduce the advantage. Separate lawful skill and public information from an edge based on non-public power. Read with [Capture of Resolution Pathways](core_05defs_accountability.md#capture-of-resolution-pathways), [Event-Contract Market](core_05defs_accountability.md#event-contract-market) evaluation discipline, [Coercion and Manipulation](core_05defs_participation.md#coercion-and-manipulation-constitutional), [Truth (Constitutional Constraint)](core_05defs_oversight.md#truth-constitutional-constraint), [Epistemic Integrity](core_05defs_oversight.md#epistemic-integrity), and [Contestability](core_05defs_accountability.md#contestability) under [Adversarial, Scaled, and Exploited Conditions](core_05defs_oversight.md#adversarial-scaled-and-exploited-conditions).
+<a id="insider-advantage-c"></a>
+- **What must hold**
+  - A structure is non-compliant if it allows [Insider Advantage](core_05defs_accountability.md#insider-advantage) based on non-public power without proportionate safeguards.
+
+---
+
 <a id="accountability-contestability-semi-independent"></a>
 
 #### Accountability, contestability, and redress pathways
 
-**Cluster context:** This semi-independent topic group establishes the foundational mechanisms for holding actors responsible and seeking correction of constitutional violations. It covers the attribution of responsibility ([Accountability](core_05apex_accountability_leg.md#accountability)), the ability to challenge and seek remedy ([Contestability](core_05defs_accountability.md#contestability)), fair and reviewable process for materially rights-affecting decisions and outcomes ([Due Process](core_05defs_accountability.md#due-process-constitutional)), formal pathways for resolving disputes ([Adjudication and Dispute Resolution](core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional)), binding substantive dispositions in those pathways ([Merits Determination](core_05defs_accountability.md#merits-determination)), temporary pause or reliance-limit orders pending further review ([Stay](core_05defs_accountability.md#stay)), principle-layer responsiveness across the coordination lifecycle ([Timeliness](core_05apex_timeliness_leg.md#timeliness-constitutional)), resolution within materiality-scaled windows ([Timely Resolution](core_05defs_accountability.md#timely-resolution-constitutional)), reasonably avoidable failures of care that produce material harm ([Negligence](core_05defs_accountability.md#negligence)), acknowledgment and proportionate correction ([Redress and Remediation](core_05defs_accountability.md#redress-and-remediation-constitutional)), the lasting capacity that makes those pathways work ([Remedy System](core_05defs_accountability.md#remedy-system-constitutional)), restorative priority where required ([Restorative Justice](core_05defs_accountability.md#restorative-justice)), systemic failures where responsibility is diffused ([Collective Accountability Failure](core_05defs_accountability.md#collective-accountability-failure)), exceptional external disruptions ([Force Majeure](core_05defs_accountability.md#force-majeure-constitutional)), and protection against capture of outcome-determination mechanisms ([Capture of Resolution Pathways](core_05defs_accountability.md#capture-of-resolution-pathways)). These definitions operate together where review, redress, or resolution of constitutional claims is material.
+**Cluster context:** This semi-independent topic group establishes the foundational mechanisms for holding actors responsible and seeking correction of constitutional violations. It covers the attribution of responsibility ([Accountability](core_05apex_accountability_leg.md#accountability)), the ability to challenge and seek remedy ([Contestability](core_05defs_accountability.md#contestability)), fair and reviewable process for materially rights-affecting decisions and outcomes ([Due Process](core_05defs_accountability.md#due-process-constitutional)), formal pathways for resolving disputes ([Adjudication and Dispute Resolution](core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional)), binding substantive dispositions in those pathways ([Merits Determination](core_05defs_accountability.md#merits-determination)), temporary pause or reliance-limit orders pending further review ([Stay](core_05defs_accountability.md#stay)), principle-layer responsiveness across the coordination lifecycle ([Timeliness](core_05apex_timeliness_leg.md#timeliness-constitutional)), resolution within materiality-scaled windows ([Timely Resolution](core_05defs_accountability.md#timely-resolution-constitutional)), reasonably avoidable failures of care that produce material harm ([Negligence](core_05defs_accountability.md#negligence)), care failures under diffused or collective responsibility ([Collective Accountability Failure](core_05defs_accountability.md#collective-accountability-failure)), acknowledgment and proportionate correction ([Redress and Remediation](core_05defs_accountability.md#redress-and-remediation-constitutional)), the lasting capacity that makes those pathways work ([Remedy System](core_05defs_accountability.md#remedy-system-constitutional)), restorative priority where required ([Restorative Justice](core_05defs_accountability.md#restorative-justice)), exceptional external disruptions ([Force Majeure](core_05defs_accountability.md#force-majeure-constitutional)), and protection against capture of outcome-determination mechanisms ([Capture of Resolution Pathways](core_05defs_accountability.md#capture-of-resolution-pathways)). These definitions operate together where review, redress, or resolution of constitutional claims is material.
 
 **Topic group members.** This group comprises:
 - [Accountability](core_05apex_accountability_leg.md#accountability);
@@ -338,10 +354,10 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
 - [Timeliness](core_05apex_timeliness_leg.md#timeliness-constitutional);
 - [Timely Resolution](core_05defs_accountability.md#timely-resolution-constitutional);
 - [Negligence](core_05defs_accountability.md#negligence);
+- [Collective Accountability Failure](core_05defs_accountability.md#collective-accountability-failure);
 - [Redress and Remediation](core_05defs_accountability.md#redress-and-remediation-constitutional);
 - [Remedy System](core_05defs_accountability.md#remedy-system-constitutional);
 - [Restorative Justice](core_05defs_accountability.md#restorative-justice);
-- [Collective Accountability Failure](core_05defs_accountability.md#collective-accountability-failure);
 - [Force Majeure](core_05defs_accountability.md#force-majeure-constitutional);
 - [Capture of Resolution Pathways](core_05defs_accountability.md#capture-of-resolution-pathways).
 
@@ -386,7 +402,6 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
   - **Tertiary failure:** The system treats a challenge process as sufficient merely because it exists on paper, even when it is reasonably clear that the process does not work in practice ([Proxy Divergence](core_05defs_oversight.md#proxy-divergence)).
 
 
-
 <a id="due-process-constitutional"></a>
 
 ---
@@ -417,7 +432,6 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
 <a id="due-process-constitutional-c"></a>
 - **What must hold**
   - It is non-compliant to decide a materially impactful outcome without timely notice, a meaningful chance to be heard, understandable reasons, impartial or appropriately independent structures where adjudication applies, a way to contest or seek secondary review, or traceability under Chapters Two through Four. Emergency, automation, delegation, private ordering, or technical complexity cannot be used to defeat required process.
-
 
 
 <a id="adjudication-and-dispute-resolution-constitutional"></a>
@@ -453,7 +467,6 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
 <a id="adjudication-and-dispute-resolution-constitutional-c"></a>
 - **What must hold**
   - It is non-compliant to deny access when Chapter Six or binding instruments require it; capture forum decision power to prevent meaningful review; materially exceed **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*) tier windows without a lawful extension; or use delay instead of deciding the merits.
-
 
 
 <a id="merits-determination"></a>
@@ -505,7 +518,6 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
   - It is non-compliant for support, oversight, forensic, investigative, or monitoring roles to issue binding merits outcomes without separate lawful authority. Those roles cannot pre-decide substantive issues assigned to a lawfully constituted merits forum, and routing, intake, or contest-integrity findings cannot be treated as final merits decisions.
 
 
-
 <a id="stay"></a>
 
 ---
@@ -534,7 +546,6 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
 <a id="stay-c"></a>
 - **What must hold**
   - It is non-compliant to use informal delay or silence instead of a documented Stay when one is required; keep a Stay indefinite without a documented review trigger or prompt tier-appropriate review; block [Contestability](core_05defs_accountability.md#contestability) or required component review; treat a Stay as final approval or a merits decision; label a [Merits Determination](core_05defs_accountability.md#merits-determination) as a Stay; include merits outcomes without a separate merits ruling; or refuse to lift or narrow a Stay after review is complete or its stated grounds no longer hold.
-
 
 
 ---
@@ -625,6 +636,37 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
   - Persistent or systemic Negligence is non-compliant, including passively accepting known harmful conditions in ways that:
     - materially devalue [Dignity and Equal Moral Standing](core_05defs_participation.md#dignity-and-equal-moral-standing); or
     - prevent action against foreseeable harm.
+
+
+<a id="collective-accountability-failure"></a>
+
+---
+#### Collective Accountability Failure
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Downstream: Principles: [§10 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline) (diffuse responsibility and capture); [Chapter Seven §3 Whole-System Certification Evaluation](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (systemic and cumulative evaluation).
+- Read with: the [Accountability, Contestability, Adjudication and Dispute Resolution, Collective Accountability Failure, and Force Majeure cluster](core_05defs_integrative.md#accountability-contestability-and-collective-accountability-failure-cluster), [Accountability](core_05apex_accountability_leg.md#accountability), [Contestability](core_05defs_accountability.md#contestability), [Adjudication and Dispute Resolution](core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional), and [Redress and Remediation](core_05defs_accountability.md#redress-and-remediation-constitutional).
+
+</details>
+
+<br>
+
+*In plain terms: a group or distributed system can be responsible for a constitutional violation even when responsibility is split so widely that no single actor's action explains the whole harm.*
+
+- **What it is**
+  - **In scope:** A group, institution, or distributed decision structure causes, enables, or continues a constitutional violation through coordinated action, split responsibility, or knowing acceptance. This includes cases where no single actor's contribution, viewed alone, fully explains the harm or defeats [Accountability](core_05apex_accountability_leg.md#accountability).
+  - **Out of scope:** A collective-failure label with no real effect in the situation being evaluated.
+<a id="collective-accountability-failure-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** Accountability and Timeliness measurement families — used alongside any other relevant measures to assess responsibility and whether action happens without harmful delay.
+
+    **Primary assessment:** For each role, assess duty, knowledge, ability to resist or escalate, command and dependency structure, and documented response pathways. Check whether actors reasonably used [Contestability](core_05defs_accountability.md#contestability), protected reporting, challenge rights, and [Adjudication and Dispute Resolution](core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) when they faced unlawful or unconstitutional directives.
+<a id="collective-accountability-failure-c"></a>
+- **What must hold**
+  - **Primary failure:** Using hierarchy, collective process, or divided responsibility to excuse materially enabling or failing to resist a constitutional violation.
+  - **Secondary failure:** Actors with meaningful capacity fail to proportionately resist, contest, document, or escalate unlawful directives when [Accountability](core_05apex_accountability_leg.md#accountability) and [Redress and Remediation](core_05defs_accountability.md#redress-and-remediation-constitutional) are materially implicated.
 
 
 ---
@@ -807,39 +849,6 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
     ([Redress and Remediation](core_05defs_accountability.md#redress-and-remediation-constitutional); [Procedural Fairness](core_05defs_participation.md#procedural-fairness-constitutional)).
 
 
-
-<a id="collective-accountability-failure"></a>
-
----
-#### Collective Accountability Failure
-
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Downstream: Principles: [§10 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline) (diffuse responsibility and capture); [Chapter Seven §3 Whole-System Certification Evaluation](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (systemic and cumulative evaluation).
-- Read with: the [Accountability, Contestability, Adjudication and Dispute Resolution, Collective Accountability Failure, and Force Majeure cluster](core_05defs_integrative.md#accountability-contestability-and-collective-accountability-failure-cluster), [Accountability](core_05apex_accountability_leg.md#accountability), [Contestability](core_05defs_accountability.md#contestability), [Adjudication and Dispute Resolution](core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional), and [Redress and Remediation](core_05defs_accountability.md#redress-and-remediation-constitutional).
-
-</details>
-
-<br>
-
-*In plain terms: a group or distributed system can be responsible for a constitutional violation even when responsibility is split so widely that no single actor's action explains the whole harm.*
-
-- **What it is**
-  - **In scope:** A group, institution, or distributed decision structure causes, enables, or continues a constitutional violation through coordinated action, split responsibility, or knowing acceptance. This includes cases where no single actor's contribution, viewed alone, fully explains the harm or defeats [Accountability](core_05apex_accountability_leg.md#accountability).
-  - **Out of scope:** A collective-failure label with no real effect in the situation being evaluated.
-<a id="collective-accountability-failure-a"></a>
-- **How to measure and assess**
-  - **Primary measure:** Accountability and Timeliness measurement families — used alongside any other relevant measures to assess responsibility and whether action happens without harmful delay.
-
-    **Primary assessment:** For each role, assess duty, knowledge, ability to resist or escalate, command and dependency structure, and documented response pathways. Check whether actors reasonably used [Contestability](core_05defs_accountability.md#contestability), protected reporting, challenge rights, and [Adjudication and Dispute Resolution](core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) when they faced unlawful or unconstitutional directives.
-<a id="collective-accountability-failure-c"></a>
-- **What must hold**
-  - **Primary failure:** Using hierarchy, collective process, or divided responsibility to excuse materially enabling or failing to resist a constitutional violation.
-  - **Secondary failure:** Actors with meaningful capacity fail to proportionately resist, contest, document, or escalate unlawful directives when [Accountability](core_05apex_accountability_leg.md#accountability) and [Redress and Remediation](core_05defs_accountability.md#redress-and-remediation-constitutional) are materially implicated.
-
-
-
 <a id="force-majeure-constitutional"></a>
 
 ---
@@ -868,7 +877,6 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
 <a id="force-majeure-constitutional-c"></a>
 - **What must hold**
   - It is non-compliant to treat Force Majeure as a permanent waiver of [Safety (Constraint)](core_05defs_continuity.md#safety-constraint), [Truth (Constitutional Constraint)](core_05defs_oversight.md#truth-constitutional-constraint), [Contestability](core_05defs_accountability.md#contestability), or audit. It is also non-compliant to call foreseeable risks unforeseeable without [Foreseeability Diligence](core_05defs_oversight.md#foreseeability-diligence).
-
 
 
 <a id="capture-of-resolution-pathways"></a>

@@ -2,7 +2,7 @@
 
 Auto-generated. Do not edit by hand.
 
-Generated: 2026-07-23T13:17:46+00:00
+Generated: 2026-07-23T17:42:16+00:00
 
 Grouped by Preamble measurement category. **Approved** terms must carry `*Measurements:*` and tier-aligned **E**/**C** per [doc_architecture.md](../doc_architecture.md) MEAS-DEF-01.
 Approved progress: **212/213** terms pass tier audit.
@@ -192,12 +192,12 @@ Approved progress: **212/213** terms pass tier audit.
 | Constitutional Contract Layer | approved | primary_only | independent | `core_05defs_integrative.md` | yes | pass |
 | Constitutional Owner Layers | approved | primary_only | cluster_member | `core_05defs_integrative.md` | yes | pass |
 | Contestability | approved | full | cluster_member | `core_05defs_accountability.md` | yes | pass |
-| Contingent Claim | approved | primary_only | independent | `core_05defs_accountability.md` | yes | pass |
+| Contingent Claim | approved | primary_only | cluster_member | `core_05defs_accountability.md` | yes | pass |
 | Contribution Nature | approved | primary_only | cluster_member | `core_05defs_accountability.md` | yes | pass |
 | Decentralization | approved | primary_only | cluster_member | `core_05defs_accountability.md` | yes | pass |
 | Due Process | approved | primary_only | cluster_member | `core_05defs_accountability.md` | yes | pass |
-| Event-Contract Market | approved | primary_only | independent | `core_05defs_accountability.md` | yes | pass |
-| Feasibility | approved | primary_only | cluster_member | `core_05defs_accountability.md` | yes | pass |
+| Event-Contract Market | approved | primary_only | cluster_member | `core_05defs_accountability.md` | yes | pass |
+| Feasibility | approved | primary_only | independent | `core_05defs_accountability.md` | yes | pass |
 | Force Majeure | approved | primary_only | cluster_member | `core_05defs_accountability.md` | yes | pass |
 | Forum Family, Constitutional | approved | primary_only | cluster_member | `core_05defs_accountability.md` | yes | pass |
 | Forum Family, Environment | approved | primary_only | cluster_member | `core_05defs_accountability.md` | yes | pass |
@@ -207,7 +207,7 @@ Approved progress: **212/213** terms pass tier audit.
 | Forum Family, Technical | approved | primary_only | cluster_member | `core_05defs_accountability.md` | yes | pass |
 | Foundational Constitutional Choice | approved | primary_only | cluster_member | `core_05defs_integrative.md` | yes | pass |
 | Game of Chance | approved | primary_only | cluster_member | `core_05defs_accountability.md` | yes | pass |
-| Good Faith | approved | primary_only | cluster_member | `core_05defs_accountability.md` | yes | pass |
+| Good Faith | approved | primary_only | independent | `core_05defs_accountability.md` | yes | pass |
 | Governance | approved | primary_only | cluster_member | `core_05defs_accountability.md` | yes | pass |
 | Harm Minimization (Tradeoff Selection) | approved | primary_only | cluster_member | `core_05defs_accountability.md` | yes | pass |
 | Incentive Alignment | approved | full | cluster_member | `core_05defs_integrative.md` | yes | pass |
