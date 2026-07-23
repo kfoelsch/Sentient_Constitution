@@ -153,12 +153,12 @@ The following patterns are **anti-constitutional misconduct within this chapter�
 - contest, routing, or intake;
 - adjudication, panel formation, or recusal or backup resolution;
 - review, publication, or forensic processing; or
-- comparable pathway capacity.
+- comparable contest-pathway capacity.
 
 The conduct is in scope only where it has one of the following material effects:
 
-- Defeating a pathway.
-- Delaying a pathway beyond practical remedy.
+- Defeating a contest pathway.
+- Delaying a contest pathway beyond practical remedy.
 - Opaque-sorting matters at the threshold.
 - Selectively deprioritizing Rights-Floor or emergency matters.
 - Materially degrading independent review or constitutionally required contestability.
@@ -1076,7 +1076,7 @@ Named patterns elsewhere in this section are **modes** of obstruction, not compe
 - [§5.9](#59-infrastructure-denial-destruction-or-dependency-cutoff-conduct) — infrastructure denial that cuts audit, remedy, or verification pathways;
 - [§5.10](#510-forum-recusal-failure-and-biased-panel-participation) — forum-integrity capture of contestability.
 
-The absence of a matching named-mode subsection does **not** defeat designation where the verified obstruction facts independently satisfy the **section 2** criteria. Chapter Eight alone measures the Violation Axis slot; obstruction character never raises it. Chapter Nine alone attaches ordinary pathway locks and, after final designation, the Anti-Constitutional Trust Lock.
+The absence of a matching named-mode subsection does **not** defeat designation where the verified obstruction facts independently satisfy the **section 2** criteria. Chapter Eight alone measures the Violation Axis slot; obstruction character never raises it. Chapter Nine alone attaches ordinary named pathway locks and, after final designation, the Anti-Constitutional Trust Lock.
 
 This subsection does **not**:
 - add an additional designation criterion beyond the **section 2** set;

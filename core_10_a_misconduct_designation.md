@@ -362,7 +362,7 @@ Fixing the cause does not cancel the duty to repair those harmed. Repairing thos
 
 <br>
 
-*In plain terms: after final designation, Chapter Nine's Trust Lock closes capture pathways, and imprisonment applies when liberty restriction is necessary to stop further constitutional harm — especially for insurgency-like actors who refuse rehabilitation or keep repeating the conduct. This section does not rewrite the Trust Lock; it requires the Chapter Nine lock format and states the ACM imprisonment specialization.*
+*In plain terms: after final designation, Chapter Nine's Trust Lock closes capture-linked named pathways, and imprisonment applies when liberty restriction is necessary to stop further constitutional harm — especially for insurgency-like actors who refuse rehabilitation or keep repeating the conduct. This section does not rewrite the Trust Lock; it requires the Chapter Nine lock format and states the ACM imprisonment specialization.*
 
 After final designation under **section 3** with **section 4** safeguards met:
 

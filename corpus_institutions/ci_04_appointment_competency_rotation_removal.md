@@ -142,7 +142,7 @@ Governing bodies must run periodic performance and capability review, including 
 *In plain terms: bodies that interpret the constitution face extra rules. Terms must be fixed and public, members must rotate, no single appointing bloc may control back-to-back cycles, conflicts must be disclosed, and members who hide bias, abuse recusal, or carry capture risk can be challenged and removed.*
 
 Interpretive-body composition controls (**Article XXII** (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*) — constitutional interpretation and review — interface):
-- Membership terms, appointment pathways, and renewal limits must be fixed, transparent, and rotation-based.
+- Membership terms, role pathways, and renewal limits must be fixed, transparent, and rotation-based.
 - No single appointing authority, institution, or stakeholder bloc may control appointment outcomes across consecutive cycles.
 - Members must disclose material conflicts and recuse where impartiality is reasonably contested.
 - Members remain subject to challenge for non-disclosure, bias, capture risk, or dependency-linked influence.
@@ -181,7 +181,7 @@ Under **Chapter Six**, section 5 (*Authorized Roles, Competency Development, and
 - succession readiness, and
 - capability-refresh duties.
 
-Role maps must record applicable Chapter Nine competency-clearance results and standing-lock status. Granted [Chapter Nine §6.2](../core_09-09_standing_integration.md#62-competency-bars-and-clearances) clearance cannot open a pathway blocked by [§4.2](../core_09-09_standing_integration.md#42-general-standing-locks) or [§5.5](../core_09-09_standing_integration.md#55-special-locks), and CI appointment procedure cannot attach, lift, narrow, or restore a Chapter Nine lock outside the canonical integration and reassessment process.
+Role maps must record applicable Chapter Nine competency-clearance results and standing-lock status. Granted [Chapter Nine §6.2](../core_09-09_standing_integration.md#62-competency-bars-and-clearances) clearance cannot open a named pathway blocked by [§4.2](../core_09-09_standing_integration.md#42-general-standing-locks) or [§5.5](../core_09-09_standing_integration.md#55-special-locks), and CI appointment procedure cannot attach, lift, narrow, or restore a Chapter Nine lock outside the canonical integration and reassessment process.
 
 The following shared rules govern class-scaling — local role maps must apply them, not replace them:
 - **CJS-4.4** (*Class-scaled lane staffing and competency redundancy*) — minimum qualified role holders, backup coverage, and succession depth scaled to binding impact.

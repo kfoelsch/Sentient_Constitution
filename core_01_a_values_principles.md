@@ -179,7 +179,7 @@ These four parts also support [4. Trust](#4-system-stability-enabler-trust-coord
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation** leg where recognition, acclaim, or aspiration pathways materially affect voice, status, or access to consequential roles; **accountability** leg (anti-reward for betrayal, concealment, and accountability avoidance); **oversight** leg (traceable, non-misleading acclaim).
+- Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation** leg where named recognition, acclaim, or aspiration pathways materially affect voice, status, or access to consequential roles; **accountability** leg (anti-reward for betrayal, concealment, and accountability avoidance); **oversight** leg (traceable, non-misleading acclaim).
 - Upstream: Principles: [3. Foundational Objective: Wellbeing](#2-foundational-objective-wellbeing) — including wellbeing as foundational for [Participation](core_05apex_participation_leg.md#participation-constitutional); [3.1 Fairness](#21-fairness).
 - Downstream: [4. Trust](#4-system-stability-enabler-trust-coordination-integrity); [§9 Stewardship and Distributed Understanding](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding); [§10 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline); [§5 Freedom](#5-freedom-bounded-agency).
 - Read with: [Chapter Eight §§4.3–4.4 — Normalized descriptor catalog](core_08-08_standing_assessment.md#shared-descriptor-catalog-and-measurement-roles) where **domain-aligned** recognition or comparative **Contribution Axis / Violation Axis** descriptor narratives are material.
@@ -247,7 +247,7 @@ Recognition should feel **meaningful** to those honored and to the communities t
 <a id="225-aligned-recognition-pathways"></a>
 ##### 2.2.5 Aligned Recognition Pathways
 
-Recognition pathways, acclaim, prizes, certification, standing, reputation effects, or comparable incentives that **allocate status**, **resources**, or **material access** must remain consistent with Truth, Safety, contestable procedure where **Chapter Six** assigns it, [Participation](core_05apex_participation_leg.md#participation-constitutional), and [Incentive Alignment](core_05defs_integrative.md#incentive-alignment).
+Named recognition pathways, acclaim, prizes, certification, standing, reputation effects, or comparable incentives that **allocate status**, **resources**, or **material access** must remain consistent with Truth, Safety, contestable procedure where **Chapter Six** assigns it, [Participation](core_05apex_participation_leg.md#participation-constitutional), and [Incentive Alignment](core_05defs_integrative.md#incentive-alignment).
 
 They **must not** systematically reward harm, deception, avoidance of scrutiny, extraction, or erosion of meaningful agency.
 

@@ -173,7 +173,7 @@ Require post-action review, documentation, and **Article XV-A** (*Auditability a
 **Interpretive authority continuity and anti-capture checks:** For **Class A** and **Class B**, continuity plans must preserve **bounded and contestable** constitutional interpretation during crisis operation.
 
 Plans must include:
-- **(a)** temporary appointment pathways that a single authority cannot monopolize across consecutive cycles
+- **(a)** temporary role pathways that a single authority cannot monopolize across consecutive cycles
 - **(b)** conflict disclosure and recusal controls for emergency decision-makers
 - **(c)** mandatory publication of constitutional reasoning for emergency interpretive determinations once immediate safety constraints permit
 - **(d)** independent secondary review after stabilization

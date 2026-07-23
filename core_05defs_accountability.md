@@ -518,7 +518,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
 
 - **What it is**
   - **In scope:** Impartial, accessible pathways for reviewing and resolving claims that systems or actors violated rights or constitutional requirements. These pathways must produce timely, reasoned outcomes consistent with [Due Process](core_05defs_accountability.md#due-process-constitutional) and [Procedural Fairness](core_05defs_participation.md#procedural-fairness-constitutional). Remedies must be proportionate to the findings under [Redress and Remediation](core_05defs_accountability.md#redress-and-remediation-constitutional). <a id="adjudicator"></a> An `adjudicator` is a sentient, panel member, judicial officer, or equivalent authorized decision-maker with lawful authority to decide contested claims, issue [Merits Determinations](core_05defs_accountability.md#merits-determination), grant or deny relief, or make binding procedural decisions in an adjudicative matter. Clerical, investigative, analytical, forensic, technical, scheduling, intake, and coordination roles are not adjudicators unless a governing instrument separately gives them lawful decision-making authority for the matter at issue.
-  - **Out of scope:** A pathway that exists only as a label or paperwork and has no real effect in the situation being evaluated.
+  - **Out of scope:** A dispute-resolution pathway that exists only as a label or paperwork and has no real effect in the situation being evaluated.
 <a id="adjudication-and-dispute-resolution-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Accountability and Timeliness measurement families — used together to assess whether dispute-resolution pathways are answerable and timely.
@@ -623,7 +623,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
 *In plain terms: a binding decision on the actual substance of a dispute — such as liability, rights, validity, or remedy. Routing, scheduling, monitoring, evidence preservation, and a Stay are procedural steps, not decisions on the merits.*
 
 - **What it is**
-  - **In scope:** A binding decision that resolves a substantive issue in an adjudicative or equivalent dispute. It is different from an order about pathways, sequencing, or procedural housekeeping.
+  - **In scope:** A binding decision that resolves a substantive issue in an adjudicative or equivalent dispute. It is different from an order about dispute-resolution pathways, sequencing, or procedural housekeeping.
   - A merits determination may finally resolve, for example:
     - liability;
     - entitlement;
@@ -634,7 +634,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
     - rights restriction; or
     - another comparable rights-affecting disposition.
   - It does not include decisions that govern only:
-    - pathway integrity;
+    - dispute-resolution pathway integrity;
     - panel formation;
     - routing;
     - monitoring;
@@ -642,7 +642,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
     - coordination;
     - sequencing; or
     - other procedural housekeeping — including [Stays](core_05defs_accountability.md#stay).
-  - The final numeric Violation Axis slot is a Chapter Eight §7 unified-scale measurement based on verified impact. [Chapter Ten](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct) governs only the matching anti-constitutional-misconduct designation when a Chapter Eight slot 7, 8, or 9 record qualifies. Neither outcome replaces ordinary forum authority to decide the merits or becomes a pathway decision.
+  - The final numeric Violation Axis slot is a Chapter Eight §7 unified-scale measurement based on verified impact. [Chapter Ten](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct) governs only the matching anti-constitutional-misconduct designation when a Chapter Eight slot 7, 8, or 9 record qualifies. Neither outcome replaces ordinary forum authority to decide the merits or becomes a dispute-resolution pathway decision.
   - **Out of scope:** A merits label that does not actually resolve a substantive issue in the matter this Constitution governs.
 <a id="merits-determination-a"></a>
 - **How to measure and assess**
@@ -1703,7 +1703,7 @@ Outside that scope, an individual Chapter Eight through Chapter Ten hook may sti
 
 <br>
 
-*In plain terms: Participant Standing says whether a sentient currently qualifies to participate or hold a role under valid, contestable rules. It is not dignity, reputation, popularity, or proof that a sentient is a stakeholder. Opening a trust-sensitive pathway requires meeting its competency bar and holding competency clearance; closing a privilege requires a standing lock on that pathway — not a vague status label.*
+*In plain terms: Participant Standing says whether a sentient currently qualifies to participate or hold a role under valid, contestable rules. It is not dignity, reputation, popularity, or proof that a sentient is a stakeholder. Opening a trust-sensitive named pathway requires meeting its competency bar and holding competency clearance; closing a privilege requires a standing lock on that named pathway — not a vague status label.*
 
 - **What it is**
   - **In scope:** A participation-status or role-eligibility status recognized from:
@@ -1711,7 +1711,7 @@ Outside that scope, an individual Chapter Eight through Chapter Ten hook may sti
     - standing effects; or
     - [Competency Bar](core_05defs_accountability.md#competency-bar) criteria for the named pathway.
   - Positive trust-, role-, authority-, oversight-, or recognition-linked opening, when lawful, belongs to [Standing Effect](core_05defs_accountability.md#standing-effect-chapter-six) through [Competency Clearance](core_05defs_accountability.md#competency-clearance) against the applicable [Competency Bar](core_05defs_accountability.md#competency-bar).
-  - Restrictive access consequences, when lawful, belong to [Standing Effect](core_05defs_accountability.md#standing-effect-chapter-six), [Standing Lock](core_05defs_accountability.md#standing-lock), **Article XVIII** (*Standing and Participation Status*), and applicable Chapter Six limits — not to the Participant Standing label alone. Named lock pathways include:
+  - Restrictive access consequences, when lawful, belong to [Standing Effect](core_05defs_accountability.md#standing-effect-chapter-six), [Standing Lock](core_05defs_accountability.md#standing-lock), **Article XVIII** (*Standing and Participation Status*), and applicable Chapter Six limits — not to the Participant Standing label alone. Standing locks on named privilege pathways include:
     - trust;
     - role;
     - authority;
@@ -1926,16 +1926,44 @@ Outside that scope, an individual Chapter Eight through Chapter Ten hook may sti
 *In plain terms: Standing Effect is the consequence applied from verified, linked Standing Records. It is separate from those records and cannot merge, average, net, or offset the Contribution and Violation axes.*
 
 - **What it is**
-  - **In scope:** The **consequence layer** that uses [**contribution nature**](core_05defs_accountability.md#contribution-nature) and [**violation nature**](core_05defs_accountability.md#violation-nature-chapter-six) from linked **contribution standing records** and **violation standing records**. It may affect trust eligibility, roles, delegated authority, recognition, restriction, restoration, remediation, safeguards, and review. It includes positive paths such as [**competency clearances**](core_05defs_accountability.md#competency-clearance) against published [**competency bars**](core_05defs_accountability.md#competency-bar), and restrictive paths such as [**standing locks**](core_05defs_accountability.md#standing-lock). It is a decision consequence, not a dignity rank, Rights-Floor measure, merged merit score, or part of the standing record itself. Chapter Five pointer; canonical mechanics: Chapter Eight **section 2** and Chapter Nine **sections 1**, **4**, and **5**. The Contribution Axis and Violation Axis must stay separately traceable and may not be netted, averaged, offset, or substituted for each other. Read with [Article XXIII-B: Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints](core_06-06_rights_part_d.md#article-xxiii-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints) and [Article XXIII-C: Least-Restrictive and Time-Bounded Rule](core_06-06_rights_part_d.md#article-xxiii-c-least-restrictive-and-time-bounded-rule) when coercive or restrictive standing-linked measures are involved.
-  - **Out of scope:** A Standing Record itself, an allegation, a Forum Case Record, or any merged, averaged, netted, or offset blend of contribution and violation inputs treated as the consequence.
+  - **In scope:**
+    - The **consequence layer** that uses [**contribution nature**](core_05defs_accountability.md#contribution-nature) and [**violation nature**](core_05defs_accountability.md#violation-nature-chapter-six) from linked **contribution standing records** and **violation standing records**.
+    - It may affect trust eligibility, roles, delegated authority, recognition, restriction, restoration, remediation, safeguards, and review for named pathways.
+    - Positive paths include [**competency clearances**](core_05defs_accountability.md#competency-clearance) against published [**competency bars**](core_05defs_accountability.md#competency-bar).
+    - Restrictive paths include [**standing locks**](core_05defs_accountability.md#standing-lock), remedy and correction duties, and named safeguards.
+    - Named-pathway outcomes under Chapter Nine **§7** include open, open with safeguards, limited, blocked, restoration-only, and no effect — stated separately for each named pathway.
+    - It is a decision consequence, not a dignity rank, Rights-Floor measure, merged merit score, universal reputation label, or part of the standing record itself.
+    - Chapter Five pointer; canonical mechanics: Chapter Eight **section 2** and Chapter Nine **sections 1**, **4**, **5**, **6**, and **7**.
+    - The Contribution Axis and Violation Axis must stay separately traceable and may not be netted, averaged, offset, or substituted for each other.
+    - Read with [Article XXIII-B: Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints](core_06-06_rights_part_d.md#article-xxiii-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints) and [Article XXIII-C: Least-Restrictive and Time-Bounded Rule](core_06-06_rights_part_d.md#article-xxiii-c-least-restrictive-and-time-bounded-rule) when coercive or restrictive standing-linked measures are involved.
+  - **Out of scope:**
+    - Treating a [Standing Record](core_05defs_accountability.md#standing-record-chapter-six), a bare accusation, a [Forum Case Record](core_05defs_accountability.md#forum-case-record) (the case file), a filing tag, a temporary order, or an unfinished case story as if any of those were a standing consequence.
+    - Treating any merged, averaged, netted, or offset blend of contribution and violation inputs as if it were a standing consequence.
+    - A dignity rank, Rights-Floor measure, merged merit score, or universal reputation label.
+    - Contribution-linked credit that erases, softens, or substitutes for unresolved violation-linked constraints.
 <a id="standing-effect-chapter-six-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Accountability measurement family and Timeliness measurement family — supporting measure where multiple measurement families co-apply.
 
-    **Primary assessment:** Keep every **standing effect** traceable to [Chapter Eight](core_08-08_standing_assessment.md) **§§2–3** and [Chapter Nine](core_09-09_standing_integration.md) **§§1–10**. Evaluate it under [Auditability](core_05defs_oversight.md#auditability) and [Contestability](core_05defs_accountability.md#contestability). Identify the source contribution and violation standing records, subject, scope, time window, review status, separate axis inputs, required cross-references, verification basis, and actual consequence. When standing integration uses **contribution-linked** credit, follow Chapter Nine **§6.1** recency and disclosure rules. While unresolved, **violation-linked** constraints may not be time-discounted, weighted away for age, or softened by contribution upside. Never treat **alleged** misconduct, intake labels, or forum-phase material as [**violation nature**](core_05defs_accountability.md#violation-nature-chapter-six) / verified violation findings for standing ([**verified inputs for standing**](core_08-08_standing_assessment.md#verified-inputs-for-standing)).
+    **Primary assessment:**
+    - Keep every **standing effect** traceable to [Chapter Eight](core_08-08_standing_assessment.md) **§§2–3** and [Chapter Nine](core_09-09_standing_integration.md) **§§1–10**.
+    - Evaluate it under [Auditability](core_05defs_oversight.md#auditability) and [Contestability](core_05defs_accountability.md#contestability).
+    - Identify the source contribution and violation standing records, subject, scope, time window, review status, separate axis inputs, required cross-references, verification basis, and actual consequence for each named pathway.
+    - Follow Chapter Nine **§2** decision order: validate records; normalize descriptors; decide violation, correction, and prevention first; decide contribution consequences second and only for named pathways not blocked by a lock; then state one final standing effect per named pathway.
+    - When standing integration uses **contribution-linked** credit, follow Chapter Nine **§6.1** recency and disclosure rules.
+    - While unresolved, **violation-linked** constraints may not be time-discounted, weighted away for age, or softened by contribution upside.
+    - Never treat **alleged** misconduct, intake labels, or forum-phase material as [**violation nature**](core_05defs_accountability.md#violation-nature-chapter-six) / verified violation findings for standing ([**verified inputs for standing**](core_08-08_standing_assessment.md#verified-inputs-for-standing)).
+    - Expose which inputs produced the effect — immutable records, descriptors, remedies, locks, currentness findings, competency bars, and clearances — together with weights, rules, and review routes.
 <a id="standing-effect-chapter-six-c"></a>
 - **What must hold**
-  - It is non-compliant to use **opaque** or **undisclosed standing** criteria; unverified allegations, provisional labels, or forum-phase material as adverse standing inputs; records that merge distinct subjects, scopes, time windows, or review statuses; both axes in one record; **netting**, **averaging**, offsetting, or substitution that displaces **Chapter Nine §§2, 4–7** or verified-input rules; positive recognition to erase unresolved violations; a restrictive **standing effect** broader, less reviewable, or less time-bounded than Article **XXIII** allows; or a standing effect that suspends, waives, extinguishes, or reduces Rights-Floor minimums—including inherent dignity, equal moral standing, minimum subsistence access, or access to **challenge** and **remedy**—where Chapter Eight and Article **XXIII** forbid it.
+  - It is non-compliant to:
+    - use **opaque** or **undisclosed standing** criteria;
+    - use unverified allegations, provisional labels, or forum-phase material as adverse standing inputs;
+    - use records that merge distinct subjects, scopes, time windows, or review statuses, or that place both axes in one record;
+    - use **netting**, **averaging**, offsetting, or substitution that displaces **Chapter Nine §§2, 4–7** or verified-input rules;
+    - use positive recognition or contribution credit to erase unresolved violations;
+    - impose a restrictive **standing effect** broader, less reviewable, or less time-bounded than Article **XXIII** allows; or
+    - apply a standing effect that suspends, waives, extinguishes, or reduces Rights-Floor minimums — including inherent dignity, equal moral standing, minimum subsistence access, or access to **challenge** and **remedy** — where Chapter Eight and Article **XXIII** forbid it.
 
 ---
 
@@ -1957,16 +1985,39 @@ Outside that scope, an individual Chapter Eight through Chapter Ten hook may sti
 *In plain terms: a Standing Record is a bounded, reviewable measurement record for one subject, scope, time window, status, context, and axis. It is not a Forum Case Record or a Standing Effect.*
 
 - **What it is**
-  - **In scope:** A bounded, **axis-pure** record that applies Chapter Eight measurements to a defined subject, functional scope, time window, review status, and decision context. Each record measures verified behavior or findings on the Contribution Axis or the Violation Axis, never both. A **contribution standing record** measures verified contribution nature; a **violation standing record** measures verified violation nature. Chapter Eight §4.2 requires related records to cross-reference each other when they share a subject, overlapping time window, bounded event, pattern, or decision context. Chapter Five pointer; canonical concept: Chapter Eight §2.1; operational requirements: Chapter Eight §3. The subject may be a sentient, institution, system, assessment, event, role, collective, actor-specific record, or another constitutionally relevant unit, but distinct units and contexts must remain separately traceable. The record supplies source material for later [Standing Effect](core_05defs_accountability.md#standing-effect-chapter-six) analysis; Chapter Nine applies that separate consequence layer from the linked record set. A standing record is not a general worth label, dignity rank, Rights-Floor measure, merged merit score, or effect decision.
-  - **Out of scope:** A Forum Case Record, intake label, temporary order, unresolved allegation, merged merit score, dignity rank, or Chapter Nine effect decision treated as the Chapter Eight measurement record.
+  - **In scope:**
+    - A bounded, **axis-pure** record that applies Chapter Eight measurements to a defined subject, functional scope, time window, review status, and decision context.
+    - Each record measures verified behavior or findings on the Contribution Axis or the Violation Axis, never both.
+    - A **contribution standing record** measures verified [contribution nature](core_05defs_accountability.md#contribution-nature); a **violation standing record** measures verified [violation nature](core_05defs_accountability.md#violation-nature-chapter-six).
+    - Chapter Eight §4.2 requires related records to cross-reference each other when they share a subject, overlapping time window, bounded event, pattern, or decision context.
+    - The subject may be a sentient, institution, system, assessment, event, role, collective, actor-specific record, or another constitutionally relevant unit — but distinct units and contexts must remain separately traceable.
+    - The record supplies source material for later [Standing Effect](core_05defs_accountability.md#standing-effect-chapter-six) analysis; Chapter Nine applies that separate consequence layer from the linked record set.
+    - Chapter Five pointer; canonical concept: Chapter Eight §2.1; operational requirements: Chapter Eight §3.
+    - A standing record is not a general worth label, dignity rank, Rights-Floor measure, merged merit score, or effect decision.
+  - **Out of scope:**
+    - Treating a [Forum Case Record](core_05defs_accountability.md#forum-case-record) (the case file), a filing tag, a temporary order, or an unfinished accusation as if it were a standing record.
+    - Treating a merged merit score, dignity rank, or Chapter Nine effect decision as if it were the Chapter Eight measurement record.
 <a id="standing-record-chapter-six-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Accountability measurement family and Timeliness measurement family — supporting measure where multiple measurement families co-apply.
 
-    **Primary assessment:** Check that the record states its type; subject; scope; time window; review status; measured behavior or record basis; axis measurement; behavior-to-slot reasoning; verification basis; evidence source; materiality reasoning; required related-record links; version; and contest path. It must preserve axis purity, currentness, audit trail, and Chapter Eight's no-offset rule. Collective and actor-specific records may coexist only when the allocation basis is demonstrable and does not assign adverse standing from group membership alone.
+    **Primary assessment:**
+    - Check that the record states its type; subject; scope; time window; review status; measured behavior or record basis; axis measurement; behavior-to-slot reasoning; verification basis; evidence source; materiality reasoning; required related-record links; version; and contest path.
+    - Preserve axis purity, currentness, audit trail, and Chapter Eight's no-offset rule.
+    - Collective and actor-specific records may coexist only when the allocation basis is demonstrable and does not assign adverse standing from group membership alone.
 <a id="standing-record-chapter-six-c"></a>
 - **What must hold**
-  - It is non-compliant to use an undifferentiated label without a bounded standing record; put both axes in one record; merge separate subjects, roles, time windows, review states, or decision contexts; omit required links between related axis records; apply an effect without a reviewable source record; hide inputs, evidence, calibration assumptions, versions, or contest paths; put a Chapter Nine effect decision inside a Chapter Eight record; treat a [Forum Case Record](core_05defs_accountability.md#forum-case-record), intake label, provisional routing tag, temporary order, or unresolved allegation as a standing record; impose actor-specific adverse standing from a collective record without verified linkage; or substitute a standing record for inherent dignity, Rights-Floor minimums, stakeholder status, challenge access, remedy access, or Chapter Ten forum findings.
+  - It is non-compliant to:
+    - use an undifferentiated label without a bounded standing record;
+    - put both axes in one record;
+    - merge separate subjects, roles, time windows, review states, or decision contexts;
+    - omit required links between related axis records;
+    - apply an effect without a reviewable source record;
+    - hide inputs, evidence, calibration assumptions, versions, or contest paths;
+    - put a Chapter Nine effect decision inside a Chapter Eight record;
+    - treat a [Forum Case Record](core_05defs_accountability.md#forum-case-record), filing tag, temporary order, or unfinished accusation as a standing record;
+    - impose actor-specific adverse standing from a collective record without verified linkage; or
+    - substitute a standing record for inherent dignity, Rights-Floor minimums, stakeholder status, challenge access, remedy access, or Chapter Ten forum findings.
 
 ---
 
@@ -1987,16 +2038,29 @@ Outside that scope, an individual Chapter Eight through Chapter Ten hook may sti
 *In plain terms: a Competency Bar is the published, role-specific standard for a named pathway — the skill, experience, training, and reliability the role actually needs. It is not prestige, insider sponsorship, or a standing effect by itself.*
 
 - **What it is**
-  - **In scope:** The published, auditable, contestable qualification standard for a named trust-, role-, authority-, oversight-, recognition-, or stewardship pathway. It states what verified competence, experience, skill, training, contribution, and reliability the pathway requires, proportionate to impact, dependency, and foreseeable risk. Meeting a competency bar is assessed through [Competency Clearance](core_05defs_accountability.md#competency-clearance); the bar itself is not a standing effect, dignity rank, Rights-Floor measure, reputation score, or permanent entitlement.
-  - **Out of scope:** Prestige screening, insider sponsorship, opaque credential monopoly, or treating the published bar as itself granting pathway access without clearance and lock checks.
+  - **In scope:**
+    - The published, auditable, contestable qualification standard for a named trust-, role-, authority-, oversight-, recognition-, or stewardship pathway.
+    - It states what verified competence, experience, skill, training, contribution, and reliability the named pathway requires, proportionate to impact, dependency, and foreseeable risk.
+    - Meeting a competency bar is assessed through [Competency Clearance](core_05defs_accountability.md#competency-clearance).
+    - The bar itself is not a standing effect, dignity rank, Rights-Floor measure, reputation score, or permanent entitlement.
+  - **Out of scope:**
+    - Prestige screening, insider sponsorship, or opaque credential monopoly.
+    - Treating the published bar as if it alone granted access to the named pathway without clearance and lock checks.
 <a id="competency-bar-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Accountability measurement family and Timeliness measurement family — supporting measure where multiple measurement families co-apply.
 
-    **Primary assessment:** Check that the bar is published, pathway-specific, proportionate to role impact, auditable, contestable, and stated in demonstrable terms — verified contribution, experience, skill, training, reliability, or equivalent readiness inputs. Recognize informal, unpaid, peer-organized, mutual-aid, maintenance, repair, teaching, and community stewardship experience when it meets the same proof standards as formal institutional experience.
+    **Primary assessment:**
+    - Check that the bar is published, named-pathway-specific, proportionate to role impact, auditable, and contestable.
+    - State the bar in demonstrable terms — verified contribution, experience, skill, training, reliability, or equivalent readiness inputs.
+    - Recognize informal, unpaid, peer-organized, mutual-aid, maintenance, repair, teaching, and community stewardship experience when it meets the same proof standards as formal institutional experience.
 <a id="competency-bar-c"></a>
 - **What must hold**
-  - It is non-compliant to publish or apply a competency bar as arbitrary gatekeeping, opaque credentialism, reputation substitution, prestige screening, insider control, inaccessible specialization, or formal-channel monopoly; deny credit to demonstrable informal or community stewardship for lacking official pedigree; use unverified or undisclosed criteria; or treat the bar alone as pathway access, a waiver of Rights Floors, or a substitute for standing-lock, remedy, correction, safeguard, or review discipline.
+  - It is non-compliant to:
+    - publish or apply a competency bar as arbitrary gatekeeping, opaque credentialism, reputation substitution, prestige screening, insider control, inaccessible specialization, or formal-channel monopoly;
+    - deny credit to demonstrable informal or community stewardship for lacking official pedigree;
+    - use unverified or undisclosed criteria; or
+    - treat the bar alone as access to the named pathway, a waiver of Rights Floors, or a substitute for standing-lock, remedy, correction, safeguard, or review discipline.
 
 ---
 
@@ -2015,17 +2079,17 @@ Outside that scope, an individual Chapter Eight through Chapter Ten hook may sti
 
 <br>
 
-*In plain terms: Competency Clearance is the standing-effect result that says verified readiness meets the published competency bar for a named pathway. It may support opening that pathway only when no standing lock blocks it. It is not prestige, insider sponsorship, or permanent entitlement.*
+*In plain terms: Competency Clearance is the standing-effect result that says verified readiness meets the published competency bar for a named pathway. It may support opening that named pathway only when no standing lock blocks it. It is not prestige, insider sponsorship, or permanent entitlement.*
 
 - **What it is**
-  - **In scope:** A positive standing-effect result that records verified readiness against the applicable [Competency Bar](core_05defs_accountability.md#competency-bar) for trust-sensitive roles, delegated authority, oversight eligibility, enhanced recognition, or increasingly consequential stewardship responsibility. Clearance may support opening the pathway only when no applicable [Standing Lock](core_05defs_accountability.md#standing-lock) blocks it. Competency clearance is the opening-oriented counterpart to a standing lock, but it is not reputation, social prestige, insider sponsorship, credential monopoly, dignity rank, Rights-Floor measure, or permanent entitlement.
+  - **In scope:** A positive standing-effect result that records verified readiness against the applicable [Competency Bar](core_05defs_accountability.md#competency-bar) for trust-sensitive roles, delegated authority, oversight eligibility, enhanced recognition, or increasingly consequential stewardship responsibility. Clearance may support opening the named pathway only when no applicable [Standing Lock](core_05defs_accountability.md#standing-lock) blocks it. Competency clearance is the opening-oriented counterpart to a standing lock, but it is not reputation, social prestige, insider sponsorship, credential monopoly, dignity rank, Rights-Floor measure, or permanent entitlement.
   - **Out of scope:** Prestige screening, insider sponsorship, opaque credential monopoly, permanent entitlement after one clearance, or using clearance to erase unresolved violations or bypass standing locks.
 <a id="competency-gate-a"></a>
 <a id="competency-clearance-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Accountability measurement family and Timeliness measurement family — supporting measure where multiple measurement families co-apply.
 
-    **Primary assessment:** Check that clearance rests on published [Competency Bar](core_05defs_accountability.md#competency-bar) criteria that are pathway-specific, proportionate, auditable, contestable, current enough, and traceable to verified contribution, experience, skill, training, reliability, or equivalent readiness inputs. Recognize informal, unpaid, peer-organized, mutual-aid, maintenance, repair, teaching, and community stewardship experience when it meets the same proof standards as formal institutional experience. Any applicable standing lock still controls whether the trust-, role-, authority-, oversight-, or recognition-linked effect may open.
+    **Primary assessment:** Check that clearance rests on published [Competency Bar](core_05defs_accountability.md#competency-bar) criteria that are named-pathway-specific, proportionate, auditable, contestable, current enough, and traceable to verified contribution, experience, skill, training, reliability, or equivalent readiness inputs. Recognize informal, unpaid, peer-organized, mutual-aid, maintenance, repair, teaching, and community stewardship experience when it meets the same proof standards as formal institutional experience. Any applicable standing lock still controls whether the trust-, role-, authority-, oversight-, or recognition-linked effect may open.
 <a id="competency-gate-c"></a>
 <a id="competency-clearance-c"></a>
 - **What must hold**
@@ -2050,7 +2114,7 @@ Outside that scope, an individual Chapter Eight through Chapter Ten hook may sti
 *In plain terms: a Standing Lock temporarily limits a named privilege pathway — trust, roles, credit, recognition, authority, governance voting, stakeholder participation, or a comparable recorded privilege pathway — because of a verified, unresolved violation. It cannot reduce dignity or Rights-Floor protections.*
 
 - **What it is**
-  - **In scope:** A standing-effect constraint based on a verified Violation Axis assessment. While the verified finding remains unresolved or materially unremediated, it limits consequences tied to a named pathway, including trust, roles, credit, recognition, authority, oversight, **governance-voting**, or **stakeholder-participation**. **governance-voting** is the legitimacy-mechanism / foundational governance-vote pathway; **stakeholder-participation** is stake-weighted influence and binding stakeholder choice within an already-authorized domain. A standing lock is not a dignity rank, Rights-Floor reduction, automatic retaliation, merged merit score, erasure of [Stakeholder](core_05defs_participation.md#stakeholder) status, or a substitute for the other pathway.
+  - **In scope:** A standing-effect constraint based on a verified Violation Axis assessment. While the verified finding remains unresolved or materially unremediated, it limits consequences tied to a named pathway, including trust, roles, credit, recognition, authority, oversight, **governance-voting**, or **stakeholder-participation**. **governance-voting** is the legitimacy-mechanism / foundational governance-vote pathway; **stakeholder-participation** is stake-weighted influence and binding stakeholder choice within an already-authorized domain. A standing lock is not a dignity rank, Rights-Floor reduction, automatic retaliation, merged merit score, erasure of [Stakeholder](core_05defs_participation.md#stakeholder) status, or a substitute for the other named pathway.
   - **Out of scope:** A lock from unverified allegations, a permanent lock without review or remediation path, a dignity or Rights-Floor cut, or automatic retaliation framed as a standing lock.
 <a id="standing-lock-a"></a>
 - **How to measure and assess**

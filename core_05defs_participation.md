@@ -899,7 +899,7 @@ Independent Definitions meta rules live in [core_05_definitions_home.md](core_05
 
 
 - **What it is**
-  - **In scope:** Use of intimate media, sexual-history signals, or comparable intimate-status inferences as inputs to employment, standing, reputation, access, or comparable gating. These pathways are both discrimination-sensitive and informational-risk-sensitive.
+  - **In scope:** Use of intimate media, sexual-history signals, or comparable intimate-status inferences as inputs to employment, standing, reputation, access, or comparable gating. These access-gating pathways are both discrimination-sensitive and informational-risk-sensitive.
   - **Out of scope:** narrow documented safeguarding uses that meet necessity and proportionality, or ordinary trait discrimination that does not use intimate signals.
 <a id="protected-intimate-signal-gating-a"></a>
 - **How to measure and assess**

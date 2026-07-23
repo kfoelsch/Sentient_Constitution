@@ -48,9 +48,9 @@
 - Downstream: [§5 Freedom (Bounded Agency)](core_01_a_values_principles.md#5-freedom-bounded-agency), which depends on consequential stewardship, distributed understanding, meaningful participation, and repair capacity remaining real under material dependency.
 - Downstream: [Chapter Seven — System Alignment Certification](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) (*forum-supervised system alignment records before standing*); [Chapter Eight — Contribution, Violation, and Standing Model](core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) (*standing effect — trust-, role-, and recognition-eligibility — implements this subsection as its principle-layer foundation*).
 - Downstream: [Chapter Eleven §1 — Purpose and role](core_11-11_forum.md#1-purpose-and-role) and [§4 — Forum family definitions](core_11-11_forum.md#4-forum-family-definitions) (*forum families carry the participation and oversight architecture for contestable challenge, remediation sequencing, root-cause learning, and proactive governance aligned with this section*); [corpus_forum.md](corpus_forum.md) for adopted forum operations.
-- Downstream: Shapes the rights surface for education, stakeholder governance, transparency, comprehensibility, audit and verification, and pathways into material responsibility.
+- Downstream: Shapes the rights surface for education, stakeholder governance, transparency, comprehensibility, audit and verification, and role-depth pathways into material responsibility.
   - Especially [Article III: Survival and Equal Educational Access](core_06-06_rights_part_a.md#article-iii-survival-and-equal-educational-access), [Article VI: Right to Sentient-Centered Education](core_06-06_rights_part_b.md#article-vi-right-to-sentient-centered-education), [Article IX: Self-Determination and Agency](core_06-06_rights_part_b.md#article-ix-self-determination-and-agency), [Article XI: Stakeholder System Participation, Representation, and Due Process](core_06-06_rights_part_b.md#article-xi-stakeholder-system-participation-representation-and-due-process), [Article XV: Audit, Transparency, and Independent Verification](core_06-06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification), [Article XVIII: Standing and Participation Status](core_06-06_rights_part_c.md#article-xviii-standing-and-participation-status), [Article XIX: Interoperability, Portability, Movement, Refuge, and Exit Integrity](core_06-06_rights_part_c.md#article-xix-interoperability-portability-and-exit-integrity), [Article XX: Comprehensibility and Complexity Stewardship](core_06-06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship), and [Article XXII: Constitutional Interpretation, Review, and Anti-Capture Safeguards](core_06-06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards).
-  - Read with: [Chapter Twelve §5 — Authorized Roles, Competency Development, and Contribution](core_12-12_governance.md#5-authorized-roles-competency-development-and-contribution) and **[corpus_systems.md](corpus_systems.md), CS-5 — Critical system stewardship** for operative role and competency pathways.
+  - Read with: [Chapter Twelve §5 — Authorized Roles, Competency Development, and Contribution](core_12-12_governance.md#5-authorized-roles-competency-development-and-contribution) and **[corpus_systems.md](corpus_systems.md), CS-5 — Critical system stewardship** for operative role pathways and stewardship-development pathways.
 - Subsections (reading order): [§9.1 Consequential stewardship](#91-stewardship) · [§9.2 Distributed understanding](#92-distributed-understanding) (community facet of competence at scale) · [§9.3 Institutional development](#93-institutional-development) (organizational facet) · [§9.4 Openness aspiration](#94-openness-aspiration) · [§9.5 Aligned Self-Organization](#95-aligned-self-organization) · [§9.6 Process-Character Discipline](#96-process-character-discipline).
 
 </details>
@@ -119,7 +119,7 @@
 
 **Stewardship**, in **§13**, is **Pillar 1**: consequential participation in operation, maintenance, oversight, and improvement — the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) **participation**, **oversight**, and **timeliness** legs made operational. It means hands-on engagement with the problems material systems actually face, not ceremony or nominal consultation alone. Good material systems require good sentient organization to run, maintain, and improve them.
 
-Pathways may separate **learning-dominant** and **operations-dominant** roles. The constitutional requirement is that **movement between those modes remains feasible over time** where impact, safety, and consent constraints permit, so judgment and institutional memory do not concentrate beyond reach of affected communities.
+Role pathways may separate **learning-dominant** and **operations-dominant** roles. The constitutional requirement is that **movement between those modes remains feasible over time** where impact, safety, and consent constraints permit, so judgment and institutional memory do not concentrate beyond reach of affected communities.
 
 Stewardship favors proactive governance, system design, and constitutional alignment over reactive symptom-fixing after harm or misalignment has already appeared. Stewards must detect foreseeable misalignment early, escalate within tier-appropriate windows under [Timeliness](core_05apex_timeliness_leg.md#timeliness-constitutional), and start fixing problems without unnecessary delay. Review, correction, and remediation remain mandatory where evidence warrants them, but they are not substitutes for designing incentives, controls, role pathways, observability, and repair capacity to prevent foreseeable constitutional misalignment in the first place.
 
@@ -452,7 +452,7 @@ Systems must detect, disclose, and correct **short-horizon governance defects** 
 - ensure those structures do not systematically undermine those values and constraints; and
 - ensure those structures do not capture, hollow, or misalign the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) below what [material stake](core_00_preamble.md#material-stake) requires.
 
-[§11.5](#115-contingent-claims-games-of-chance-and-event-contract-markets) states a **special application** for contingent claims, games of chance, and event-contract markets. [§11.1.3](#1113-stewardship-and-operator-application) states stewardship and operator vocabulary and pathway rules under the same general standard; neither creates a weaker incentive rule than [§11.1](#111-alignment-requirement).
+[§11.5](#115-contingent-claims-games-of-chance-and-event-contract-markets) states a **special application** for contingent claims, games of chance, and event-contract markets. [§11.1.3](#1113-stewardship-and-operator-application) states stewardship and operator vocabulary and role pathway rules under the same general standard; neither creates a weaker incentive rule than [§11.1](#111-alignment-requirement).
 
 <a id="111-alignment-requirement"></a>
 #### 11.1 Alignment Requirement
@@ -504,7 +504,7 @@ For stewards and operators under the [Two Constitutional Aims](core_00_preamble.
 
 Authorized roles, competency development, and paths into material responsibility for stewards and operators appear in **Chapter Twelve, section 5 — Authorized Roles, Competency Development, and Contribution** and in **[corpus_systems.md](corpus_systems.md), CS-5 — Critical system stewardship**. Principle-layer framing for distributed understanding and consequential stewardship appears at [§9 Stewardship and Distributed Understanding](#9-stewardship-and-distributed-understanding).
 
-Those pathways must support [**Meaningful Agency**](core_05defs_participation.md#meaningful-agency) and advance the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) through the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) **participation** and **accountability** legs, scaled to [material stake](core_00_preamble.md#material-stake).
+Those role-depth and material-responsibility pathways must support [**Meaningful Agency**](core_05defs_participation.md#meaningful-agency) and advance the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) through the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) **participation** and **accountability** legs, scaled to [material stake](core_00_preamble.md#material-stake).
 
 They **must not** treat **symbolic** participation as a **substitute** for **consequential** duty where impact requires the latter. Read [§11.1.5 Constitutional Outcome Claims Discipline](#1115-constitutional-outcome-claims-discipline).
 
@@ -769,7 +769,7 @@ An efficiency claim counts only when it traces to real constitutional outcomes a
 - platforms;
 - labor-demand markets;
 - supplier and resource-control systems;
-- credentialing pathways;
+- credentialing role pathways;
 - capital-access channels; and
 - information-sphere gatekeeping.
 
@@ -920,7 +920,7 @@ Ceiling evaluation judges substantive control, not formal entity count. Federate
 
 **Consolidation ceilings** are adopter-tunable early-warning triggers for heightened review, intervention, or structural remedy when consolidation reaches a level at which the impairments in **§13.3.1** are predictably imminent. They sit under the **§13** non-concentration discipline and **§13.2** anti-domination rules; they are not a ban on scale.
 
-Adopters must define consolidation ceilings for markets, platforms, infrastructure layers, labor-demand markets, supplier or resource-control systems, data or compute dependencies, credentialing pathways, capital-access channels, and comparable domains where consolidation can materially affect sentient opportunity, livelihood, agency, wellbeing, ecological integrity, or constitutional accountability.
+Adopters must define consolidation ceilings for markets, platforms, infrastructure layers, labor-demand markets, supplier or resource-control systems, data or compute dependencies, credentialing role pathways, capital-access channels, and comparable domains where consolidation can materially affect sentient opportunity, livelihood, agency, wellbeing, ecological integrity, or constitutional accountability.
 
 Operative ceiling-setting discipline — horizontal and vertical trigger design, crossing presumption, rebuttal, anti-nullification, and remedy routing — lives in **[corpus_joint_structure.md](corpus_joint_structure.md), CJS-5.11.3 — Consolidation ceiling-setting discipline (adopter-tunable)**.
 

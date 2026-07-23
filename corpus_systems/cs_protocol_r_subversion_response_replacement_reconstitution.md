@@ -5,7 +5,7 @@ Constitutional tracing: This protocol operationalizes coordinated response when 
 **1. Landscape compromise declaration and activation.** Landscape-scale response may be activated when one or more of the following conditions is met:
 - **credible evidence** of coordinated compromise across multiple Class A/B/C systems or their critical dependencies
 - **concurrent compromise** of governance pathways that materially impairs contestability, oversight, or adjudication integrity
-- **synthetic influence saturation** (including bot farms or adversarial AI farms) that materially distorts legitimacy, standing, or binding decision pathways
+- **synthetic influence saturation** (including bot farms or adversarial AI farms) that materially distorts legitimacy, standing measurement, or named governance-voting and stakeholder-participation pathways
 - **supply-chain compromise patterns** that create cross-system integrity failure risk beyond local containment
 
 **Activation requirements** include:
@@ -89,7 +89,7 @@ Disinformation resilience controls must include integrity checks for high-impact
 **Escalation triggers include, at minimum:**
 - conflicting high-impact inputs from distinct sources without resolved reconciliation
 - material provenance gaps for decisive claims
-- synthetic-consensus indicators (coordinated bot/adversarial-AI amplification) affecting legitimacy or standing pathways
+- synthetic-consensus indicators (coordinated bot/adversarial-AI amplification) affecting legitimacy or named pathways
 - post-decision evidence invalidation that could materially alter outcome
 
 **Required records for this subsection:**
@@ -99,7 +99,7 @@ Disinformation resilience controls must include integrity checks for high-impact
 
 **7. Exit, restoration, and post-incident revalidation.** Landscape response must close when continuation burden is no longer met or termination criteria are satisfied. At closure:
 - **emergency and continuity authorities expire** unless independently reauthorized
-- **deferred rights, standing, and participation pathways are restored** on auditable timelines
+- **deferred rights and named pathways are restored** on auditable timelines
 - **residual risks, owners, and monitoring cadence are disclosed**
 - **post-incident retrospective review is required**, including what failed, what was contained, what was replaced, and what constitutional controls must be strengthened
 

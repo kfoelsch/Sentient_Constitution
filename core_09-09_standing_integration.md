@@ -80,7 +80,7 @@ Each integration record must identify:
 1. each source record and current version;
 2. each applicable fixed Contribution Axis or Violation Axis measurement;
 3. each normalized descriptor and attachment;
-4. affected sentients, interests, systems, and pathways;
+4. affected sentients, interests, systems, and named pathways;
 5. violation-side correction, remedy, safeguards, and locks;
 6. contribution-side currentness and competency-clearance results;
 7. the final standing effect for each named pathway;
@@ -94,8 +94,8 @@ The following processing order applies to both automated and manual decisions:
 1. validate the Chapter Eight records and their current review status;
 2. normalize shared descriptors and attachments without changing either slot;
 3. decide violation, correction, and prevention first—remedy and correction, then locks, then voluntary public accountability expression where used; then apply lock design and enforcement (definition and attachment, proportionality and calibration, record visibility and escalation, special violation rules, and special locks);
-4. decide contribution consequences second—currentness and competency bars and clearances, but only for pathways not blocked by a lock;
-5. state one final standing effect for each pathway;
+4. decide contribution consequences second—currentness and competency bars and clearances, but only for named pathways not blocked by a lock;
+5. state one final standing effect for each named pathway;
 6. state restoration and reassessment conditions;
 7. verify practical enforceability; and
 8. route a qualifying top-slot violation to [Chapter Ten](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct) where designation is at issue.
@@ -121,7 +121,7 @@ Contribution descriptors may orient matched competency bars and clearances. Viol
 <a id="4-violation-correction-and-prevention"></a>
 ### 4. Violation, correction, and prevention
 
-*In plain terms: Something bad happened. How do we create a durable fix? This section answers in order — **remedy and correction**, then **prevention** locks, then **voluntary public accountability expression** where a restorative pathway uses it. Once Chapter Eight has verified a violation, remedy and correction come from that record alone — fix what was broken, and change what caused it — then prevention locks hold sensitive pathways closed until those conditions are met. Public acknowledgment or apology, if used, is supplementary and never substitutes for repair or locks. Past contribution does not soften the duty, cancel a lock, or substitute for verified repair. Forums supervise implementation and challenge; they do not invent a different consequence from the verified record.*
+*In plain terms: Something bad happened. How do we create a durable fix? This section answers in order — **remedy and correction**, then **prevention** locks, then **voluntary public accountability expression** where a restorative pathway uses it. Once Chapter Eight has verified a violation, remedy and correction come from that record alone — fix what was broken, and change what caused it — then prevention locks hold sensitive named pathways closed until those conditions are met. Public acknowledgment or apology, if used, is supplementary and never substitutes for repair or locks. Past contribution does not soften the duty, cancel a lock, or substitute for verified repair. Forums supervise implementation and challenge; they do not invent a different consequence from the verified record.*
 
 Violation, correction, and prevention are determined from the violation standing record alone. Contribution is not an input to remedy, correction, safeguard, lock assignment, or voluntary public accountability expression. It may later show capacity to perform an obligation, but it cannot change the obligation or the unresolved status that supports it.
 
@@ -129,7 +129,7 @@ Violation, correction, and prevention are determined from the violation standing
 <a id="61-remedial-restorative-and-civil-correction-character"></a>
 #### 4.1 Remedy and correction
 
-*In plain terms: after a verified **violation**, this subsection assigns the **remedy** and **correction** parts of the durable fix. **Remedy** repairs what was broken for those harmed. **Correction** changes what caused it. **Prevention** — standing locks and related pathway limits — begins in [§4.2](#42-general-standing-locks), with design and enforcement in [§5](#5-lock-design-and-enforcement), and must not be waived while recurrence risk remains live. Where restorative pathways include public acknowledgment or apology, [§4.3](#43-voluntary-public-accountability-expression) applies.*
+*In plain terms: after a verified **violation**, this subsection assigns the **remedy** and **correction** parts of the durable fix. **Remedy** repairs what was broken for those harmed. **Correction** changes what caused it. **Prevention** — standing locks and related named pathway limits — begins in [§4.2](#42-general-standing-locks), with design and enforcement in [§5](#5-lock-design-and-enforcement), and must not be waived while recurrence risk remains live. Where restorative pathways include public acknowledgment or apology, [§4.3](#43-voluntary-public-accountability-expression) applies.*
 
 Every verified violation must be tested for two parallel correction outputs:
 
@@ -155,9 +155,9 @@ Forums supervise lawful implementation, challenge, interim relief, and timely mo
 <a id="42-general-standing-locks"></a>
 #### 4.2 Prevention — general standing locks
 
-*In plain terms: this is the **prevention** part of the durable fix. A standing lock reduces risk by closing or limiting pathways that would let the same harm continue or happen again while the violation is still unresolved or unrepaired. It is not punishment for its own sake, and it is not a popularity or reputation score.*
+*In plain terms: this is the **prevention** part of the durable fix. A standing lock reduces risk by closing or limiting named pathways that would let the same harm continue or happen again while the violation is still unresolved or unrepaired. It is not punishment for its own sake, and it is not a popularity or reputation score.*
 
-A **standing lock** is a prevention and risk-reduction measure. It blocks or limits a named pathway while a verified violation remains unresolved or materially unremedied. Named pathways include trust-, role-, authority-, credit-, oversight-, recognition-, **governance-voting**, and **stakeholder-participation** pathways. It must identify the blocked pathway, the risk it is meant to reduce, protected subjects or interests, corrective conditions, review route, and reassessment point.
+A **standing lock** is a prevention and risk-reduction measure. It blocks or limits a named pathway while a verified violation remains unresolved or materially unremedied. Named pathways include trust-, role-, authority-, credit-, oversight-, recognition-, **governance-voting**, and **stakeholder-participation** pathways. It must identify the blocked named pathway, the risk it is meant to reduce, protected subjects or interests, corrective conditions, review route, and reassessment point.
 
 **Pathway distinction — governance-voting vs stakeholder-participation.**
 
@@ -166,9 +166,9 @@ A **standing lock** is a prevention and risk-reduction measure. It blocks or lim
 
 Where verified stakeholder-pathway corruption, capture, false-stake abuse, or coercive participation-weight gaming is the trigger, apply the [Stakeholder-Participation Standing Lock](#55-special-locks) under [§5.5](#55-special-locks).
 
-The purpose of a lock is to reduce risk by removing a sentient from the environment, roles, or pathways — and, where needed, from contact with the sentients — where the violation occurred. That separation serves three purposes:
+The purpose of a lock is to reduce risk by removing a sentient from the environment, roles, or named pathways — and, where needed, from contact with the sentients — where the violation occurred. That separation serves three purposes:
 
-1. **Containment** — stop the same harm from continuing through the same setting or pathways;
+1. **Containment** — stop the same harm from continuing through the same setting or named pathways;
 2. **Safety for affected parties** — keep those already harmed from further exposure; and
 3. **Risk reduction** — lower the chance the same pattern recurs while remedy and correction remain incomplete.
 
@@ -212,7 +212,7 @@ Design a lock in this order:
 - Put the terms in plain view and keep a review path ([§5.3](#53-record-visibility-and-escalation)).
 - Apply any special violation rules that shape that attachment ([§5.4](#54-special-violation-rules)).
 - Apply any mandatory special locks, using the same attachment fields ([§5.5](#55-special-locks)).
-- Past good work does not cancel a verified harm, skip repair, or open a locked pathway—that no-offset rule lives in [Chapter Eight §2.2](core_08-08_standing_assessment.md#22-linked-records-and-no-offset-bridge) and applies here.
+- Past good work does not cancel a verified harm, skip repair, or open a locked named pathway—that no-offset rule lives in [Chapter Eight §2.2](core_08-08_standing_assessment.md#22-linked-records-and-no-offset-bridge) and applies here.
 - [§4](#4-violation-correction-and-prevention) already says contribution does not decide locks.
 - What contribution can do later is covered in [§6](#6-contribution-consequences-second) and [§8](#8-restoration-and-reassessment).
 
@@ -221,7 +221,7 @@ Design a lock in this order:
 
 Every lock must be designed so the integration record can identify, in operative form:
 
-- the blocked or limited pathway;
+- the blocked or limited named pathway;
 - the risk the lock is meant to reduce;
 - the protected subjects or interests;
 - the corrective conditions that must be met before narrowing or lifting;
@@ -232,7 +232,7 @@ A lock attaches only to a verified finding—not identity, status, accusation, g
 
 Two attachment qualifiers apply whenever the lock's purpose includes risk reduction:
 
-1. **Recurrence uncertainty.** Where whether the same harm will recur remains uncertain, that uncertainty is itself a risk input. Lock design must integrate incomplete, contested, or time-limited evidence about recurrence into the risk assessment rather than treating uncertainty as a reason to leave a sensitive pathway open.
+1. **Recurrence uncertainty.** Where whether the same harm will recur remains uncertain, that uncertainty is itself a risk input. Lock design must integrate incomplete, contested, or time-limited evidence about recurrence into the risk assessment rather than treating uncertainty as a reason to leave a sensitive named pathway open.
 2. **Isolation from risk factors.** Where needed for containment or safety, the lock must isolate the responsible sentient from risk factors that would recreate exposure—including networks, associations, settings, and environments of other violators—and from contact with protected subjects or interests where that contact would renew the risk.
 
 **What a lock does not itself restrict.** A standing lock does not by itself cut off:
@@ -241,16 +241,16 @@ Two attachment qualifiers apply whenever the lock's purpose includes risk reduct
 - participation as an affected party;
 - the [Rights Floor](core_06-06_rights_part_a.md#chapter-six-foundational-rights);
 - survival-critical access; or
-- the right to receive regular wages for work that is not part of the verified violation pathway.
+- the right to receive regular wages for work that is not part of the verified violation named pathway.
 
-A lock may still close trust, role, authority, credit, oversight, recognition, influence, **governance-voting**, or **stakeholder-participation** pathways tied to the verified risk. It may not use those pathway limits as a back door to extinguish the protections above.
+A lock may still close trust, role, authority, credit, oversight, recognition, influence, **governance-voting**, or **stakeholder-participation** pathways tied to the verified risk. It may not use those named pathway limits as a back door to extinguish the protections above.
 
 Special violation rules and special locks later in this section do not replace this subsection. Each must fill the same attachment fields, apply the same verified-finding gate, apply the same qualifiers where risk reduction is the purpose, and respect what a lock does not itself restrict.
 
 <a id="52-proportionality-and-calibration"></a>
 #### 5.2 Proportionality and calibration
 
-Lock design must weigh the risks being reduced and the conditions that raise them, including pathway sensitivity, unresolved remedy and safeguard gaps, recurrence after notice or remediation, ongoing safety risk, role asymmetry, concealment or evasion, diffusion of control, institutional enablement, forum-integrity injury, cross-jurisdiction continuity, reviewability, and practical time to correction.
+Lock design must weigh the risks being reduced and the conditions that raise them, including named pathway sensitivity, unresolved remedy and safeguard gaps, recurrence after notice or remediation, ongoing safety risk, role asymmetry, concealment or evasion, diffusion of control, institutional enablement, forum-integrity injury, cross-jurisdiction continuity, reviewability, and practical time to correction.
 
 The resulting lock must be needed for risk reduction, proportionate, no broader than required, and time-bounded where the protected purpose permits. Calibration may tighten or narrow scope as those conditions change, but may not convert the lock into punishment, reputation scoring, or a substitute for remedy and correction owed under [§4.1](#41-remedy-and-correction). Special locks under [§5.5](#55-special-locks) still must meet their own corrective conditions; calibration may not waive a mandatory special lock.
 
@@ -259,7 +259,7 @@ The resulting lock must be needed for risk reduction, proportionate, no broader 
 
 The integration record must say, in plain view, for each lock—including each special lock under [§5.5](#55-special-locks):
 
-- which pathway or pathways are blocked or limited;
+- which named pathway or named pathways are blocked or limited;
 - what risk and protected interests justify the lock;
 - the lock's scope and duration, including any time bound;
 - what corrective conditions apply and how they relate to remedy and correction status under [§4.1](#41-remedy-and-correction);
@@ -274,29 +274,29 @@ Locks must remain auditable and contestable while active. Escalation on delay, e
 <a id="62-coercive-or-liberty-restricting-safeguard-character"></a>
 #### 5.4 Special violation rules
 
-These rules shape how a lock or safeguard is attached under [§5.1](#51-definition-and-attachment). They do not move the Violation Axis slot. Where a rule leads to a pathway limit or liberty restriction, the integration record must still name pathway, risk, protected interests, corrective conditions, review route, and reassessment point.
+These rules shape how a lock or safeguard is attached under [§5.1](#51-definition-and-attachment). They do not move the Violation Axis slot. Where a rule leads to a named pathway limit or liberty restriction, the integration record must still name the named pathway, risk, protected interests, corrective conditions, review route, and reassessment point.
 
 <a id="412-negligence-and-neglect-as-violation-nature"></a>
 **Negligence and neglect.**
 
-- **Pathway / finding:**
+- **Named pathway / finding:**
   - Independently recordable where a duty existed.
   - Independently recordable where what could reasonably be expected was clear.
   - Independently recordable where the person had feasible capacity to prevent, mitigate, or escalate material harm.
-- **Risk:** recurrence through the same duty failure, neglect pattern, or unmonitored pathway.
+- **Risk:** recurrence through the same duty failure, neglect pattern, or unmonitored named pathway.
 - **Protected subjects or interests:** those exposed to the neglected harm.
 - **Corrective conditions:** when the harm is material, negligence or neglect must be treated as real duty failure—not brushed off as a paperwork mistake. Naming the conduct as negligence or neglect does not change the Violation Axis slot; the slot stays as Chapter Eight measured it.
-- **Review route and reassessment:** if it is still unclear whether the same neglect will happen again, that uncertainty itself counts as risk under [§5.1](#51-definition-and-attachment). Incomplete recurrence evidence is not a reason to leave a sensitive pathway open.
+- **Review route and reassessment:** if it is still unclear whether the same neglect will happen again, that uncertainty itself counts as risk under [§5.1](#51-definition-and-attachment). Incomplete recurrence evidence is not a reason to leave a sensitive named pathway open.
 
 **Misaligned rewards.**
 
-- **Pathway / finding:**
+- **Named pathway / finding:**
   - Using a constitutionally misaligned, anti-constitutional, or badly broken system to extract a material reward—pay, bonus, status, credit, ranking, access, or influence.
-  - Any related pathway that would let the person keep cashing in on that abuse.
+  - Any related named pathway that would let the person keep cashing in on that abuse.
 - **Risk:** the same person, or others watching, keep gaming the broken incentives; the misaligned system stays profitable; harm continues while the reward pathway stays open.
 - **Protected subjects or interests:** people hurt by the abused process; dependents and systems that would be damaged if the exploiter keeps the benefit or the access used to get it.
 - **Corrective conditions:**
-  - Close or lock the reward, credit, and influence pathways the person used to extract the benefit until the abuse is stopped and the incentive structure is corrected.
+  - Close or lock the reward, credit, and influence named pathways the person used to extract the benefit until the abuse is stopped and the incentive structure is corrected.
   - Material rewards obtained by abusing the misaligned system are forfeit for constitutional purposes, unless taking them back would cause greater constitutional harm and temporary retention is therefore required.
   - A person who knowingly keeps gaming the system after notice, or who conceals the benefit, is not treated as an honest recipient. Timely protected reporting, good-faith dispute, record preservation during review, and cooperation with remediation remain available and are not themselves the violation.
   - Ordinary pay for ordinary work when the person did not know the system was misaligned, money paid to repair harm to affected parties, and fair settlements reached through a contestable process are not treated as abuse-forfeiture targets by themselves.
@@ -306,31 +306,31 @@ These rules shape how a lock or safeguard is attached under [§5.1](#51-definiti
   - The record must show what benefit was taken.
   - The record must show any concealment.
   - The record must show who else was hurt or relied on the arrangement.
-  - The record must show why pathways were locked, rewards taken back, or temporary retention allowed.
+  - The record must show why named pathways were locked, rewards taken back, or temporary retention allowed.
   - Systems must preserve evidence.
   - Systems must freeze or separate disputed rewards where proportionate.
   - Systems must fix the broken incentives.
   - Systems must send qualifying top-slot findings to Chapter Ten.
-  - Any related lock must satisfy [§5.1](#51-definition-and-attachment), including isolation from networks or environments that recreate the same exploitable pathway.
+  - Any related lock must satisfy [§5.1](#51-definition-and-attachment), including isolation from networks or environments that recreate the same exploitable named pathway.
 
 <a id="411-duty-to-resist-unlawful-or-unconstitutional-instructions"></a>
 **Duty to resist.**
 
-- **Pathway / finding:**
+- **Named pathway / finding:**
   - No instruction, order, policy, or contract requiring unlawful or unconstitutional conduct creates a valid compliance defense.
   - Issuing, transmitting, ratifying, or materially enforcing such an instruction is independently measurable violation conduct.
 - **Risk:** continuation of unlawful or unconstitutional harm through obedience, chain-of-command, or contractual cover.
-- **Protected subjects or interests:** those who would be harmed by compliance, and the integrity of lawful pathways.
+- **Protected subjects or interests:** those who would be harmed by compliance, and the integrity of lawful named pathways.
 - **Corrective conditions:** sentients with material capacity to refuse, contest, document, or escalate must do so proportionately and in good faith and must use protected-reporting and forum pathways where applicable.
 - **Review route and reassessment:** resistance, reporting, and escalation records feed lock and remedy design under [§5.1](#51-definition-and-attachment); contribution cannot excuse the underlying instruction conduct.
 
 <a id="410-collective-accountability-and-acquiescent-participation"></a>
 **Collective accountability.**
 
-- **Pathway / finding:**
+- **Named pathway / finding:**
   - Diffusion across teams, committees, chains of command, contracts, or distributed systems does not erase responsibility.
   - Responsibility remains where contribution, knowing acquiescence, control, benefit, concealment, feasible prevention, or failure to escalate materially enabled the violation.
-- **Risk:** shared or fragmented control that would leave enabling pathways open.
+- **Risk:** shared or fragmented control that would leave enabling named pathways open.
 - **Protected subjects or interests:** those harmed by the collective or fragmented pattern.
 - **Corrective conditions:**
   - Prove what each responsible person actually did or failed to do—do not punish by group membership alone.
@@ -340,7 +340,7 @@ These rules shape how a lock or safeguard is attached under [§5.1](#51-definiti
 
 **Coercive or liberty-restricting safeguards.**
 
-- **Pathway:**
+- **Named pathway:**
   - Detention.
   - Another liberty restriction.
 - **Risk:** verified conduct, culpability, coercion, violence, credible threat, or comparable danger that makes liberty restriction necessary for containment or safety.
@@ -357,7 +357,7 @@ These locks are mandatory when their verified trigger is met. Each must be recor
 
 **Forum-Service Standing Lock.** Trigger: a verified failure to recuse where recusal was required and impartiality was materially compromised.
 
-- **Pathway:** merits, appellate, review, emergency, certifier, contested panel-coordination, reserve, substitute, and materially supporting forum roles across forum families.
+- **Named pathway:** merits, appellate, review, emergency, certifier, contested panel-coordination, reserve, substitute, and materially supporting forum roles across forum families.
 - **Risk:** biased adjudication, forum-integrity injury, and recurrence of non-recusal in the same or related forum settings.
 - **Protected subjects or interests:** parties to affected matters and public trust in forum impartiality.
 - **Corrective conditions:**
@@ -377,7 +377,7 @@ These locks are mandatory when their verified trigger is met. Each must be recor
 
 **Stakeholder-Participation Standing Lock.** Trigger: a verified finding that the subject corrupted, captured, coerced, gamed, or otherwise materially abused a **stakeholder-participation** pathway — including false or inflated stake claims, coercive participation-weight extraction, vote-buying or comparable influence-buying in binding stakeholder choice, concealment of material conflicts in stakeholder representation, or using stakeholder voice as a vehicle for capture of the affected system, institution, or bounded decision domain.
 
-- **Pathway:** stake-weighted influence, binding stakeholder choice participation, stakeholder representation authority, and comparable Stakeholder System Participation pathways within the affected system, institution, or bounded decision domain under [Stakeholder Participation Weight](core_05defs_participation.md#stakeholder-participation-weight) and [Binding Stakeholder Choice](core_05defs_participation.md#binding-stakeholder-choice-cluster).
+- **Named pathway:** stake-weighted influence, binding stakeholder choice participation, stakeholder representation authority, and comparable Stakeholder System Participation pathways within the affected system, institution, or bounded decision domain under [Stakeholder Participation Weight](core_05defs_participation.md#stakeholder-participation-weight) and [Binding Stakeholder Choice](core_05defs_participation.md#binding-stakeholder-choice-cluster).
 - **Does not by itself restrict:**
   - [Stakeholder](core_05defs_participation.md#stakeholder) status or recognition that the sentient is materially affected;
   - the **governance-voting** pathway, **Foundational Constitutional Choice**, or comparable legitimacy-mechanism binding collective choice under [Chapter Twelve §4.1](core_12-12_governance.md#41-entitlement-and-eligibility);
@@ -396,11 +396,11 @@ These locks are mandatory when their verified trigger is met. Each must be recor
   - Prior contribution, reputation, stake size, operator indispensability, or apology cannot lift the lock by itself.
 - **Review route:** independent review outside the captured stakeholder-participation pathway.
 - **Reassessment point:** the independent restoration finding above. Intentional, concealed, repeated, retaliatory, or outcome-affecting abuse receives heightened scrutiny. Recurrence uncertainty and isolation from proxy networks that recreate the capture risk apply under [§5.1](#51-definition-and-attachment).
-- **Non-substitution:** A Stakeholder-Participation Standing Lock is not a substitute for a **governance-voting** lock, and a **governance-voting** lock is not a substitute for this lock. Where both pathways are implicated by separately verified facts, each lock must be attached and justified on its own record.
+- **Non-substitution:** A Stakeholder-Participation Standing Lock is not a substitute for a **governance-voting** lock, and a **governance-voting** lock is not a substitute for this lock. Where both named pathways are implicated by separately verified facts, each lock must be attached and justified on its own record.
 
 **Anti-Constitutional Trust Lock.** Trigger: a final Chapter Ten designation for the responsible sentient, group, institution, successor vehicle, controlled entity, or materially coordinated proxy.
 
-- **Pathway:**
+- **Named pathway:**
   - Direct or indirect influence over Class A/B/C systems.
   - Constitutional forums.
   - Alignment recognition.
@@ -438,12 +438,12 @@ These locks are mandatory when their verified trigger is met. Each must be recor
 <a id="6-contribution-consequences-second"></a>
 ### 6. Contribution consequences second
 
-*In plain terms: after violation, correction, and prevention are assigned under [§4](#4-violation-correction-and-prevention) and [§5](#5-lock-design-and-enforcement), this section asks what verified contribution may still do. It may support recognition and readiness for pathways that are not locked. It never offsets a verified harm, cancels a lock, or opens a blocked pathway.*
+*In plain terms: after violation, correction, and prevention are assigned under [§4](#4-violation-correction-and-prevention) and [§5](#5-lock-design-and-enforcement), this section asks what verified contribution may still do. It may support recognition and readiness for named pathways that are not locked. It never offsets a verified harm, cancels a lock, or opens a blocked named pathway.*
 
 This section starts from verified Chapter Eight contribution records that apply to the decision. From those records it asks two things:
 
 - how current the contribution still is; and
-- whether any competency clearance for an open pathway is met against its published bar.
+- whether any competency clearance for an open named pathway is met against its published bar.
 
 Past good work does not set the remedy, the correction duties, the safeguards, or the locks under [§4](#4-violation-correction-and-prevention) and [§5](#5-lock-design-and-enforcement). Good work also cannot cancel or balance out a verified harm—that [no-offset rule](core_08-08_standing_assessment.md#22-linked-records-and-no-offset-bridge) from Chapter Eight still applies.
 
@@ -451,8 +451,8 @@ Decide contribution consequences in this order:
 
 - Confirm recognition eligibility: recognition must be evidence-backed, contestable, reviewable, non-monopolistic, and available on equal standards to informal, unpaid, peer-organized, mutual-aid, maintenance, repair, teaching, and community-stewardship work.
 - Apply recency and currentness ([§6.1](#61-recency-and-currentness)).
-- Apply competency bars and clearances for pathways not blocked by a lock ([§6.2](#62-competency-bars-and-clearances)).
-- Hand off each pathway outcome to [§7](#7-final-standing-effect); restoration and reassessment remain under [§8](#8-restoration-and-reassessment).
+- Apply competency bars and clearances for named pathways not blocked by a lock ([§6.2](#62-competency-bars-and-clearances)).
+- Hand off each named pathway outcome to [§7](#7-final-standing-effect); restoration and reassessment remain under [§8](#8-restoration-and-reassessment).
 
 <a id="61-recency-and-currentness"></a>
 #### 6.1 Recency and currentness
@@ -505,11 +505,11 @@ The automatically calculated integration record displays, for each contribution 
 <a id="competency-clearance"></a>
 #### 6.2 Competency bars and clearances
 
-*In plain terms: a competency bar is the published standard for a named pathway. Competency clearance is the standing-effect result that says verified readiness meets that bar. Once clearance is in force and the pathway is open, it stays open by default. Some roles need periodic retesting; technical forums decide which ones. A real change in role-relevant capacity — for example after a stroke or a mental-health condition that impairs needed judgment — can trigger reassessment. Clearance never opens a pathway that a standing lock still blocks.*
+*In plain terms: a competency bar is the published standard for a named pathway. Competency clearance is the standing-effect result that says verified readiness meets that bar. Once clearance is in force and the pathway is open, it stays open by default. Some roles need periodic retesting; technical forums decide which ones. A real change in role-relevant capacity — for example after a stroke or a mental-health condition that impairs needed judgment — can trigger reassessment. Clearance never opens a named pathway that a standing lock still blocks.*
 
-A **competency bar** is the published, pathway-specific qualification standard. Anyone affected must be able to see the rule, check how it was applied, and challenge it if it is wrong. In short, it states what readiness the role or access requires.
+A **competency bar** is the published, named-pathway-specific qualification standard. Anyone affected must be able to see the rule, check how it was applied, and challenge it if it is wrong. In short, it states what readiness the role or access requires.
 
-A **competency clearance** is the positive standing-effect result when verified readiness meets that bar. In short, it answers: does this sentient currently meet the bar for this pathway?
+A **competency clearance** is the positive standing-effect result when verified readiness meets that bar. In short, it answers: does this sentient currently meet the bar for this named pathway?
 
 A bar may require evidence of:
 
@@ -526,7 +526,7 @@ How hard the bar is must match:
 - how much others depend on it; and
 - how serious the foreseeable risk is if the sentient is not ready.
 
-**Examples.** A peer mutual-aid coordinator may need shown reliability in shared care work, not a formal degree. A water-system or critical-infrastructure operator may need role-specific training plus recent demonstrated skill. A forum panelist or certifier may need verified impartiality-relevant experience and current qualification for that pathway. Teaching, maintenance, repair, and community-stewardship records can support clearance when they show the same readiness a formal credential would.
+**Examples.** A peer mutual-aid coordinator may need shown reliability in shared care work, not a formal degree. A water-system or critical-infrastructure operator may need role-specific training plus recent demonstrated skill. A forum panelist or certifier may need verified impartiality-relevant experience and current qualification for that named pathway. Teaching, maintenance, repair, and community-stewardship records can support clearance when they show the same readiness a formal credential would.
 
 A bar or clearance process must not become arbitrary gatekeeping, opaque credentialism, reputation substitution, social-prestige screening, insider sponsorship, formal-channel monopoly, or exclusion by inaccessible specialization. Equivalent demonstrability standards apply to formal and informal experience.
 
@@ -542,11 +542,11 @@ Every bar and clearance result must be designed so the integration record can id
 - the review route; and
 - the reassessment trigger.
 
-**Default continuity.** Once competency clearance is granted and the affected pathway is open, clearance stays in force by default. That is not permanent entitlement. Published retesting, a material change in role-relevant capacity, an applicable standing lock, or another reassessment trigger under this section may reopen, limit, or withdraw clearance.
+**Default continuity.** Once competency clearance is granted and the affected named pathway is open, clearance stays in force by default. That is not permanent entitlement. Published retesting, a material change in role-relevant capacity, an applicable standing lock, or another reassessment trigger under this section may reopen, limit, or withdraw clearance.
 
-**Periodic retesting.** Some competencies require periodic retesting; others do not. Which pathways require retesting, how often, and by what method is set by published standards under [Technical Forum Domains](core_11-11_forum.md#42-technical-forum-domains), including specialized technical forums within their lawful scope. Those standards must be role-proportionate, inspectable, and contestable.
+**Periodic retesting.** Some competencies require periodic retesting; others do not. Which named pathways require retesting, how often, and by what method is set by published standards under [Technical Forum Domains](core_11-11_forum.md#42-technical-forum-domains), including specialized technical forums within their lawful scope. Those standards must be role-proportionate, inspectable, and contestable.
 
-**Material capacity change.** Clearance may also be reassessed when verified facts show a material change in the capacity the named pathway actually requires — for example loss of motion or language after a stroke, or a mental-health condition that impairs judgment needed for that role. Reassessment must target the role-relevant capacity at stake, not disability or health status as such. It must remain necessary, proportionate, open to review, and consistent with accessibility and anti-discrimination floors under Chapters Five and Six. Accommodation, support, or a narrower pathway must be considered before withdrawing clearance where those options would preserve safe readiness.
+**Material capacity change.** Clearance may also be reassessed when verified facts show a material change in the capacity the named pathway actually requires — for example loss of motion or language after a stroke, or a mental-health condition that impairs judgment needed for that role. Reassessment must target the role-relevant capacity at stake, not disability or health status as such. It must remain necessary, proportionate, open to review, and consistent with accessibility and anti-discrimination floors under Chapters Five and Six. Accommodation, support, or a narrower named pathway must be considered before withdrawing clearance where those options would preserve safe readiness.
 
 The integration record must say, in plain view, for each clearance result:
 
@@ -558,23 +558,23 @@ The integration record must say, in plain view, for each clearance result:
 - who may contest or review the bar or clearance, and by what route; and
 - what triggers reassessment, including material capacity change where applicable.
 
-An applicable standing lock under [§4.2](#42-general-standing-locks) and [§5](#5-lock-design-and-enforcement) controls. Competency clearance cannot open a blocked pathway, waive the Rights Floor, erase a violation, replace remedy or correction, or lower a Violation Axis slot. Pathway outcomes after bars and clearances are stated under [§7](#7-final-standing-effect).
+An applicable standing lock under [§4.2](#42-general-standing-locks) and [§5](#5-lock-design-and-enforcement) controls. Competency clearance cannot open a blocked named pathway, waive the Rights Floor, erase a violation, replace remedy or correction, or lower a Violation Axis slot. Named pathway outcomes after bars and clearances are stated under [§7](#7-final-standing-effect).
 
 <a id="7-final-standing-effect"></a>
 <a id="standing-effect"></a>
 ### 7. Final standing effect
 
-The standing system must **automatically** state the final standing effect for each named pathway once the earlier steps in [§2](#2-integration-record-and-decision-order) are complete. That statement must list every open clearance and every restricted pathway. No additional manual approval is required when verified inputs and published rules produce a determinate result. Contested, uncertain, novel, materially discretionary, or high-impact questions still assemble and route automatically, then go to authorized review under [§2](#2-integration-record-and-decision-order).
+The standing system must **automatically** state the final standing effect for each named pathway once the earlier steps in [§2](#2-integration-record-and-decision-order) are complete. That statement must list every open clearance and every restricted named pathway. No additional manual approval is required when verified inputs and published rules produce a determinate result. Contested, uncertain, novel, materially discretionary, or high-impact questions still assemble and route automatically, then go to authorized review under [§2](#2-integration-record-and-decision-order).
 
 **Separate roles.** Automatic integration may use verified records, remedies, correction duties, locks, bars, clearances, and descriptors together. Each still has its own job, and none may do the work of another. Closer or automated scrutiny is not, by itself, a reason to impose a harsher restriction. Any restriction must be necessary, matched to the verified facts, backed by evidence, open to review, and consistent with **Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*).
 
-The integration record must state the final effect separately for each affected pathway:
+The integration record must state the final effect separately for each affected named pathway:
 
-- **open**—competency clearance is in force against the published bar and no lock blocks the pathway;
+- **open**—competency clearance is in force against the published bar and no lock blocks the named pathway;
 - **open with safeguards**—readiness is established but named, proportionate safeguards remain required;
 - **limited**—only a stated scope or level may open;
 - **blocked**—a standing lock controls;
-- **restoration-only**—contribution may support repair credibility or supervised lower-risk service but not ordinary pathway access; or
+- **restoration-only**—contribution may support repair credibility or supervised lower-risk service but not ordinary named pathway access; or
 - **no effect**—the verified records do not justify a change.
 
 The record must show which of the following produced the effect:
@@ -598,7 +598,7 @@ Reassessment begins when the record's stated trigger is met or when material new
 
 1. whether remedy and correction obligations were actually completed;
 2. whether affected sentients and interests received practical redress;
-3. whether recurrence, evasion, dependency, and pathway risks materially declined;
+3. whether recurrence, evasion, dependency, and named pathway risks materially declined;
 4. whether current competence and reliability satisfy any applicable bar and support clearance;
 5. whether continued restriction remains needed and proportionate; and
 6. whether renewed access is compatible with the Rights Floor and the protected constitutional interests.
@@ -702,7 +702,7 @@ Rights and standing consequences are real only when sentients can invoke them, v
 
 <br>
 
-*In plain terms: these patterns show how recurring Question 3 edge shapes route through the rules already stated above — they do not invent new consequences or new special lock types. Where a cue mirrors a Chapter Ten §5 attack family, this section answers pathway prevention from the verified record; Chapter Ten separately answers designation criteria routing.*
+*In plain terms: these patterns show how recurring Question 3 edge shapes route through the rules already stated above — they do not invent new consequences or new special lock types. Where a cue mirrors a Chapter Ten §5 attack family, this section answers named pathway prevention from the verified record; Chapter Ten separately answers designation criteria routing.*
 
 The subsections below show how common Question 3 situations use the rules already stated in this chapter. They do **not** invent new consequences, create special lock types under [§5.5](#55-special-locks), create special exceptions, change a Chapter Eight slot, take forum supervision away from [Chapter Eleven](core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction), or take designation decisions away from [Chapter Ten](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct). Decision-makers follow the order in [§2](#2-integration-record-and-decision-order) and the sections each pattern names.
 
@@ -710,8 +710,8 @@ The subsections below show how common Question 3 situations use the rules alread
 <a id="101-informal-ecological-stewardship-competency-gate"></a>
 #### 10.1 Informal ecological stewardship / competency clearance
 
-- **Cue:** A verified peer mutual-aid habitat restoration record carries Ecological Stewardship and Diligence descriptors; a pathway-scoped ecological competency bar and clearance are later at issue.
-- **Routes through:** [§1](#1-immutable-chapter-eight-inputs) (*Contribution Axis slot and descriptors stay fixed*); [§3](#3-descriptor-integration-and-attachment-normalization) (*descriptor import*); [§6.1](#61-recency-and-currentness) and [§6.2](#62-competency-bars-and-clearances) (*current, role-relevant work may support clearance against an inclusive, pathway-scoped bar*).
+- **Cue:** A verified peer mutual-aid habitat restoration record carries Ecological Stewardship and Diligence descriptors; a named-pathway-scoped ecological competency bar and clearance are later at issue.
+- **Routes through:** [§1](#1-immutable-chapter-eight-inputs) (*Contribution Axis slot and descriptors stay fixed*); [§3](#3-descriptor-integration-and-attachment-normalization) (*descriptor import*); [§6.1](#61-recency-and-currentness) and [§6.2](#62-competency-bars-and-clearances) (*current, role-relevant work may support clearance against an inclusive, named-pathway-scoped bar*).
 - **Non-negotiable:** The Contribution Axis slot does not change. Formal pedigree is not required where verified, current, role-relevant work meets the published bar.
 - **Depth pointer:** Question 2 illustration of the same fact family — [Chapter Eight §4.6 Example 1](core_08-08_standing_assessment.md#46-question-2-measurement-illustrations).
 
@@ -740,22 +740,22 @@ The subsections below show how common Question 3 situations use the rules alread
 <a id="105-champion-repair-while-a-lock-remains-active"></a>
 #### 10.5 Champion repair while a lock remains active
 
-- **Cue:** Distinguished repair or high contribution is visible on a linked contribution record while a standing lock still blocks a pathway.
-- **Routes through:** [§6](#6-contribution-consequences-second) (*contribution second, and only for pathways not blocked by a lock*); [§8](#8-restoration-and-reassessment); [Chapter Eight §2.2](core_08-08_standing_assessment.md#22-linked-records-and-no-offset-bridge) (*no-offset bridge*).
-- **Non-negotiable:** Distinguished repair may support restoration credibility. It does not open a pathway still blocked by a standing lock or buy out remedy owed to affected sentients.
+- **Cue:** Distinguished repair or high contribution is visible on a linked contribution record while a standing lock still blocks a named pathway.
+- **Routes through:** [§6](#6-contribution-consequences-second) (*contribution second, and only for named pathways not blocked by a lock*); [§8](#8-restoration-and-reassessment); [Chapter Eight §2.2](core_08-08_standing_assessment.md#22-linked-records-and-no-offset-bridge) (*no-offset bridge*).
+- **Non-negotiable:** Distinguished repair may support restoration credibility. It does not open a named pathway still blocked by a standing lock or buy out remedy owed to affected sentients.
 
 <a id="106-institutional-vehicle-and-successor-evasion"></a>
 #### 10.6 Institutional vehicle and successor evasion
 
 - **Cue:** An institution carries repeated harm, capture, or evasion, including through shells, relabeling, or successor vehicles.
-- **Routes through:** [§5](#5-lock-design-and-enforcement) (*pathway locks and institutional restrictions*); [§9.1](#81-remediation-capacity-and-funding) (*successor and funding continuity*); [§9.4](#84-anti-evasion-and-look-through-authority).
+- **Routes through:** [§5](#5-lock-design-and-enforcement) (*named pathway locks and institutional restrictions*); [§9.1](#81-remediation-capacity-and-funding) (*successor and funding continuity*); [§9.4](#84-anti-evasion-and-look-through-authority).
 - **Non-negotiable:** Actor-specific proof remains required. Relabeling, shell substitution, and formal identity changes do not defeat a verified duty. Consequences may include suspension, receivership, structural separation, dissolution, and successor-control restrictions where the verified facts warrant.
 
 <a id="107-misaligned-reward-retention"></a>
 #### 10.7 Misaligned reward retention
 
 - **Cue:** After sufficient notice that a reward pathway is constitutionally misaligned or abused, the actor knowingly retains the benefit without timely protected reporting.
-- **Routes through:** [§5.4](#54-special-violation-rules) (*Misaligned rewards* — forfeiture, retention, pathway locks, and dependent-party / third-party reliance accounting).
+- **Routes through:** [§5.4](#54-special-violation-rules) (*Misaligned rewards* — forfeiture, retention, named pathway locks, and dependent-party / third-party reliance accounting).
 - **Non-negotiable:** Knowing retention after notice may create a violation consequence. Good-faith dispute and protected reporting remain protected.
 
 <a id="108-top-slot-anti-constitutional-allegation"></a>
@@ -770,20 +770,20 @@ The subsections below show how common Question 3 situations use the rules alread
 
 - **Cue:** A fixed Violation Axis record shows conditioning access, employment, platform participation, or comparable association on purported Rights-Floor waiver, gag, override, or unconstitutional contract terms — including void NDA or mobility-restriction devices that chill standing, audit, or contestability.
 - **Routes through:** [§4](#4-violation-correction-and-prevention) (*remedy, correction, and prevention*); [§4.2](#42-general-standing-locks) (*general standing locks scoped to the abused trust, role, credit, or influence pathways*); [§5.1](#51-definition-and-attachment) (*attachment fields*); [§5.4](#54-special-violation-rules) (*Duty to Resist* where the instrument required unlawful or unconstitutional compliance).
-- **Non-negotiable:** This cue does not create a special lock under [§5.5](#55-special-locks). Term nullity and designation criteria remain in [Chapter Ten §5.2](core_10_b_misconduct_pattern_applications.md#52-rights-floor-waivers-and-unconstitutional-contract-terms). Chapter Nine attaches ordinary pathway locks from the verified record; only a final designation triggers the Anti-Constitutional Trust Lock under [§10.8](#108-top-slot-anti-constitutional-allegation).
+- **Non-negotiable:** This cue does not create a special lock under [§5.5](#55-special-locks). Term nullity and designation criteria remain in [Chapter Ten §5.2](core_10_b_misconduct_pattern_applications.md#52-rights-floor-waivers-and-unconstitutional-contract-terms). Chapter Nine attaches ordinary named pathway locks from the verified record; only a final designation triggers the Anti-Constitutional Trust Lock under [§10.8](#108-top-slot-anti-constitutional-allegation).
 
 <a id="1010-contest-pathway-or-info-sphere-flooding"></a>
 #### 10.10 Contest-pathway or info-sphere flooding
 
 - **Cue:** A fixed Violation Axis record shows deliberate, reckless, or foreseeably indifferent volume, redundancy, automation, or synthetic traffic that defeated, delayed beyond practical remedy, or materially degraded contest, intake, adjudication, publication, or info-sphere verification pathways.
-- **Routes through:** [§4](#4-violation-correction-and-prevention) (*remedy, correction, and prevention*); [§4.2](#42-general-standing-locks) (*protective pathway locks on the abused routing, filing, ranking, access, or influence pathways*); [§5.1](#51-definition-and-attachment) and [§5.2](#52-proportionality-and-calibration) (*needed, proportionate, reviewable scope*); [Chapter Eleven](core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) (*operational intake triage and anti-gaming — supervision without inventing standing effects*).
+- **Routes through:** [§4](#4-violation-correction-and-prevention) (*remedy, correction, and prevention*); [§4.2](#42-general-standing-locks) (*protective named pathway locks on the abused routing, filing, ranking, access, or influence pathways*); [§5.1](#51-definition-and-attachment) and [§5.2](#52-proportionality-and-calibration) (*needed, proportionate, reviewable scope*); [Chapter Eleven](core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) (*operational intake triage and anti-gaming — supervision without inventing standing effects*).
 - **Non-negotiable:** This cue does not create a Flooding Lock or other [§5.5](#55-special-locks) type. Designation-side criteria routing remains in [Chapter Ten §5.3](core_10_b_misconduct_pattern_applications.md#53-flooding-the-zone-and-contest-pathway-denial) and [§5.4](core_10_b_misconduct_pattern_applications.md#54-info-sphere-zone-flooding). Ordinary protective locks proceed from the fixed record whether or not designation later attaches.
 
 <a id="1011-infrastructure-denial-or-dependency-cutoff"></a>
 #### 10.11 Infrastructure denial or dependency cutoff
 
 - **Cue:** A fixed Violation Axis record shows denial, destruction, disabling, or dependency cutoff that made survival-critical access, remedy, audit, verification, or constitutional operating infrastructure materially unusable.
-- **Routes through:** [§4](#4-violation-correction-and-prevention) (*remedy, correction, and prevention*); [§4.2](#42-general-standing-locks) (*protective or access-continuity pathway locks*); [§5.1](#51-definition-and-attachment) (*including isolation from networks or control points that recreate the cutoff risk*); [§5.4](#54-special-violation-rules) (*coercive or liberty-restricting safeguards only where verified danger warrants*); [§9](#9-enforcement-realism) (*remedy-system durability and anti-evasion*).
+- **Routes through:** [§4](#4-violation-correction-and-prevention) (*remedy, correction, and prevention*); [§4.2](#42-general-standing-locks) (*protective or access-continuity named pathway locks*); [§5.1](#51-definition-and-attachment) (*including isolation from networks or control points that recreate the cutoff risk*); [§5.4](#54-special-violation-rules) (*coercive or liberty-restricting safeguards only where verified danger warrants*); [§9](#9-enforcement-realism) (*remedy-system durability and anti-evasion*).
 - **Non-negotiable:** This cue does not create an Infrastructure Lock under [§5.5](#55-special-locks). Designation-side criteria routing remains in [Chapter Ten §5.9](core_10_b_misconduct_pattern_applications.md#59-infrastructure-denial-destruction-or-dependency-cutoff-conduct). Global non-restriction limits under [§5.1](#51-definition-and-attachment) still protect speech, petition, affected-party participation, Rights Floor, and survival-critical access that the lock must not extinguish.
 
 <a id="1012-stakeholder-participation-corruption-or-false-stake-abuse"></a>
@@ -797,8 +797,8 @@ The subsections below show how common Question 3 situations use the rules alread
 #### 10.13 Obstruction of accountability
 
 - **Cue:** A fixed Violation Axis record shows verified **obstruction of accountability** — interference with answerability machinery such as evidence integrity, verification, forum process, standing records, remedy clocks, or contest and redress paths — including where Chapter Eight records **Accountability Obstruction Misconduct** or stacks obstruction as conduct character.
-- **Routes through:** [§4](#4-violation-correction-and-prevention) (*remedy, correction, and prevention*); [§4.2](#42-general-standing-locks) (*pathway-scoped locks on the abused answerability, contest, evidence, standing, or remedy pathways*); [§5.4](#54-special-violation-rules) (*concealment, evasion, deception, and duty-related shaping*); [§5.5](#55-special-locks) (*Forum-Service Standing Lock only when the forum-integrity / required-recusal trigger is met under [§10.3](#103-forum-integrity-deception-or-recusal-failure)*); [§10.8](#108-top-slot-anti-constitutional-allegation) (*Chapter Ten gateway when `s` = 7–9 and anti-constitutional misconduct is materially alleged*).
-- **Non-negotiable:** This cue does not create an Obstruction Lock or other [§5.5](#55-special-locks) type. Obstruction character never moves the Violation Axis slot. Ordinary pathway locks proceed from the fixed record at any slot. Designation-side criteria routing remains in [Chapter Ten §5.11](core_10_b_misconduct_pattern_applications.md#511-obstruction-of-accountability-criteria-interaction); only a final designation triggers the Anti-Constitutional Trust Lock under [§10.8](#108-top-slot-anti-constitutional-allegation). Distinguish verified obstruction *conduct* from [Capture of Resolution Pathways](core_05defs_accountability.md#capture-of-resolution-pathways) as a structural condition.
+- **Routes through:** [§4](#4-violation-correction-and-prevention) (*remedy, correction, and prevention*); [§4.2](#42-general-standing-locks) (*named-pathway-scoped locks on the abused answerability, contest, evidence, standing, or remedy pathways*); [§5.4](#54-special-violation-rules) (*concealment, evasion, deception, and duty-related shaping*); [§5.5](#55-special-locks) (*Forum-Service Standing Lock only when the forum-integrity / required-recusal trigger is met under [§10.3](#103-forum-integrity-deception-or-recusal-failure)*); [§10.8](#108-top-slot-anti-constitutional-allegation) (*Chapter Ten gateway when `s` = 7–9 and anti-constitutional misconduct is materially alleged*).
+- **Non-negotiable:** This cue does not create an Obstruction Lock or other [§5.5](#55-special-locks) type. Obstruction character never moves the Violation Axis slot. Ordinary named pathway locks proceed from the fixed record at any slot. Designation-side criteria routing remains in [Chapter Ten §5.11](core_10_b_misconduct_pattern_applications.md#511-obstruction-of-accountability-criteria-interaction); only a final designation triggers the Anti-Constitutional Trust Lock under [§10.8](#108-top-slot-anti-constitutional-allegation). Distinguish verified obstruction *conduct* from [Capture of Resolution Pathways](core_05defs_accountability.md#capture-of-resolution-pathways) as a structural condition.
 
 ---
 
