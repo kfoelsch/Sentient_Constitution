@@ -2,10 +2,10 @@
 
 Auto-generated. Do not edit by hand.
 
-Generated: 2026-07-22T13:33:43+00:00
+Generated: 2026-07-23T06:59:39+00:00
 
 Grouped by Preamble measurement category. **Approved** terms must carry `*Measurements:*` and tier-aligned **E**/**C** per [doc_architecture.md](../doc_architecture.md) MEAS-DEF-01.
-Approved progress: **213/214** terms pass tier audit.
+Approved progress: **212/213** terms pass tier audit.
 
 
 ## 3.2 Flourishing
@@ -237,7 +237,6 @@ Approved progress: **213/214** terms pass tier audit.
 | Unified Incident | approved | primary_only | cluster_member | `core_05defs_accountability.md` | yes | pass |
 | Unified Record | approved | primary_only | cluster_member | `core_05defs_accountability.md` | yes | pass |
 | Verified Inputs for Standing | approved | primary_only | cluster_member | `core_05defs_accountability.md` | yes | pass |
-| Verified Violation Findings | approved | primary_only | cluster_member | `core_05defs_accountability.md` | yes | pass |
 | Violation Nature | approved | primary_only | cluster_member | `core_05defs_accountability.md` | yes | pass |
 
 ## 3.7 Timeliness

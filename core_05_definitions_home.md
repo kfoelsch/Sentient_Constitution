@@ -309,7 +309,6 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 - [Verification Proportionality](core_05defs_oversight.md#verification-proportionality)
 - [Verification Robustness](core_05defs_oversight.md#verification-robustness)
 - [Verified Inputs for Standing](core_05defs_accountability.md#verified-inputs-for-standing)
-- [Verified Violation Findings](core_05defs_accountability.md#verified-violation-findings)
 - [Violation Nature](core_05defs_accountability.md#violation-nature-chapter-six)
 - [Volitional Integrity](core_05defs_participation.md#volitional-integrity)
 - [Voluntary Discontinuation](core_05defs_continuity.md#voluntary-discontinuation-constitutional)

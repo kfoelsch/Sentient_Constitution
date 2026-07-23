@@ -1581,7 +1581,7 @@ Outside that scope, an individual forum-family entry may still be used as a supp
     - recording an unresolved allegation;
     - discussing settlement; or
     - applying a provisional routing label.
-  - A forum decision may enter a Chapter Eight **contribution standing record** or **violation standing record** only if it produces a verified contribution record, verified violation finding, **system alignment certification record**, or another finding that is:
+  - A forum decision may enter a Chapter Eight **contribution standing record** or **violation standing record** only if it produces a verified contribution record under [Contribution Nature](core_05defs_accountability.md#contribution-nature), a verified violation finding under [Violation Nature](core_05defs_accountability.md#violation-nature-chapter-six), **system alignment certification record**, or another finding that is:
     - bounded;
     - traceable;
     - contestable; and
@@ -1651,10 +1651,9 @@ Outside that scope, an individual forum-family entry may still be used as a supp
 
 This cluster is the shared home for the Chapter Five definitions that feed the Chapters Eight through Ten standing pipeline. It covers:
 
+- verified inputs for standing;
 - contribution nature and violation nature;
 - standing records and standing effects;
-- verified inputs for standing;
-- verified violation findings;
 - standing locks; and
 - Chapter Ten designation-review vocabulary.
 
@@ -1672,10 +1671,9 @@ Outside that scope, an individual Chapter Eight through Chapter Ten hook may sti
 **Cluster members.** This cluster comprises:
 
 - [Participant Standing](core_05defs_accountability.md#participant-standing-constitutional), where **Article XVIII** (*Standing and Participation Status*) participation status intersects Chapter Eight standing records, standing effects, or role-eligibility criteria;
+- [Verified Inputs for Standing](core_05defs_accountability.md#verified-inputs-for-standing);
 - [Contribution Nature](core_05defs_accountability.md#contribution-nature);
 - [Violation Nature](core_05defs_accountability.md#violation-nature-chapter-six);
-- [Verified Inputs for Standing](core_05defs_accountability.md#verified-inputs-for-standing);
-- [Verified Violation Findings](core_05defs_accountability.md#verified-violation-findings);
 - [Standing Effect](core_05defs_accountability.md#standing-effect-chapter-six);
 - [Standing Record](core_05defs_accountability.md#standing-record-chapter-six);
 - [Competency Bar](core_05defs_accountability.md#competency-bar);
@@ -1699,7 +1697,7 @@ Outside that scope, an individual Chapter Eight through Chapter Ten hook may sti
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Principles: [Chapter Seven §3 Whole-System Certification Evaluation](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [§10 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline) (standing signals and capture).
-- Read with: the [Standing State, Contribution, and Violation cluster](core_05defs_participation.md#standing-state-contribution-and-violation-cluster), [Contribution Nature](core_05defs_accountability.md#contribution-nature), [Standing Record](core_05defs_accountability.md#standing-record-chapter-six), [Standing Effect](core_05defs_accountability.md#standing-effect-chapter-six), [Competency Bar](core_05defs_accountability.md#competency-bar), [Competency Clearance](core_05defs_accountability.md#competency-clearance), [Standing Lock](core_05defs_accountability.md#standing-lock), [Verified Violation Findings](core_05defs_accountability.md#verified-violation-findings), [Violation Nature](core_05defs_accountability.md#violation-nature-chapter-six), [Contestability](core_05defs_accountability.md#contestability), [Auditability](core_05defs_oversight.md#auditability), [Transparency](core_05defs_oversight.md#transparency), and [Redress and Remediation](core_05defs_accountability.md#redress-and-remediation-constitutional).
+- Read with: the [Standing State, Contribution, and Violation cluster](core_05defs_participation.md#standing-state-contribution-and-violation-cluster), [Contribution Nature](core_05defs_accountability.md#contribution-nature), [Standing Record](core_05defs_accountability.md#standing-record-chapter-six), [Standing Effect](core_05defs_accountability.md#standing-effect-chapter-six), [Competency Bar](core_05defs_accountability.md#competency-bar), [Competency Clearance](core_05defs_accountability.md#competency-clearance), [Standing Lock](core_05defs_accountability.md#standing-lock), [Violation Nature](core_05defs_accountability.md#violation-nature-chapter-six), [Contestability](core_05defs_accountability.md#contestability), [Auditability](core_05defs_oversight.md#auditability), [Transparency](core_05defs_oversight.md#transparency), and [Redress and Remediation](core_05defs_accountability.md#redress-and-remediation-constitutional).
 
 </details>
 
@@ -1752,6 +1750,58 @@ Outside that scope, an individual Chapter Eight through Chapter Ten hook may sti
 
 ---
 
+<a id="verified-inputs-for-standing"></a>
+
+##### Verified Inputs for Standing
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Canonical owner: [Chapter Eight §3.1](core_08-08_standing_assessment.md#31-minimum-record-contents) (*Verified-input gate*).
+- Read with: the [Standing State, Contribution, and Violation cluster](core_05defs_accountability.md#standing-state-contribution-and-violation-cluster), [Contribution Nature](core_05defs_accountability.md#contribution-nature), [Violation Nature](core_05defs_accountability.md#violation-nature-chapter-six), [Standing Record](core_05defs_accountability.md#standing-record-chapter-six), [Standing Effect](core_05defs_accountability.md#standing-effect-chapter-six), [Auditability](core_05defs_oversight.md#auditability), and [Contestability](core_05defs_accountability.md#contestability).
+
+</details>
+
+<br>
+
+*In plain terms: only verified, reviewable contribution records and violation findings may affect standing. Allegations, complaints, intake labels, routing choices, reputation, and provisional case material are not verified inputs by themselves.*
+
+- **What it is**
+  - **In scope:**
+    - The admissible facts and records used to apply contribution-linked or violation-linked standing consequences.
+    - For the Contribution Axis, these are the verified contribution records governed by [Contribution Nature](core_05defs_accountability.md#contribution-nature).
+    - For the Violation Axis, they are the verified violation findings governed by [Violation Nature](core_05defs_accountability.md#violation-nature-chapter-six).
+    - Chapter Eight §2.1 requires each to appear in an axis-pure **contribution standing record** or **violation standing record** and meet Chapter Eight's requirements for records, evidence, auditability, contestability, and review status.
+  - **Out of scope:**
+    - Allegations, complaints, intake labels, routing decisions, reputation, disfavored status, moral dislike, or provisional forum-phase material used by themselves as verified inputs or as inputs for standing consequences.
+<a id="verified-inputs-for-standing-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** Accountability measurement family and Timeliness measurement family — supporting measure where multiple measurement families co-apply.
+
+    **Primary assessment:**
+    - Before applying any [Standing Effect](core_05defs_accountability.md#standing-effect-chapter-six), identify:
+      - the source record;
+      - finding authority or contribution basis;
+      - subject;
+      - scope;
+      - time window;
+      - review status;
+      - evidence source;
+      - required related-record cross-references; and
+      - contest path.
+    - Keep contribution and violation inputs separately traceable in axis-pure standing records.
+    - Apply Chapter Eight's no-offset rule.
+<a id="verified-inputs-for-standing-c"></a>
+- **What must hold**
+  - It is non-compliant to apply role, trust, credit, recognition, restriction, or restoration consequences from:
+    - unverified allegations;
+    - provisional labels;
+    - unreviewable records;
+    - merged reputation scores; or
+    - undisclosed inputs.
+
+---
+
 <a id="contribution-state"></a>
 <a id="contribution-nature"></a>
 
@@ -1762,30 +1812,47 @@ Outside that scope, an individual Chapter Eight through Chapter Ten hook may sti
 
 - Downstream: Principles: [Chapter Seven §3 Whole-System Certification Evaluation](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (materiality / verification in standing inputs); [Chapter One §6.3.2 Proxy-Divergence Invalidation](core_01_b_interaction_interpretation.md#632-proxy-divergence-invalidation) (standing metrics vs demonstrable facts).
 - Canonical owner: [Chapter Eight — §7 unified scale](core_08-08_standing_assessment.md#7-unified-proportional-lequ-scale) (*shared five-times LEQU bands for separately recorded Contribution and Violation axes*); read with [Chapter Eight — section 1](core_08-08_standing_assessment.md#2-purpose-and-role) (*three-question frame*) and [Chapter Eight §3.1 — Verified-input gate](core_08-08_standing_assessment.md#31-minimum-record-contents).
-- Read with: the [Standing State, Contribution, and Violation cluster](core_05defs_participation.md#standing-state-contribution-and-violation-cluster), [Participant Standing](core_05defs_accountability.md#participant-standing-constitutional) (*distinct — **Article XVIII** (*Standing and Participation Status*) participation status versus Axis I typing*); [Standing Record](core_05defs_accountability.md#standing-record-chapter-six); [Standing Effect](core_05defs_accountability.md#standing-effect-chapter-six); [Violation Nature](core_05defs_accountability.md#violation-nature-chapter-six); [Verified Violation Findings](core_05defs_accountability.md#verified-violation-findings); [Lifespan Equivalent Unit (LEQU)](core_05defs_participation.md#lifespan-equivalent-unit-lequ) (*shorthand for full-life-equivalent calibration*); [Auditability](core_05defs_oversight.md#auditability); [Contestability](core_05defs_accountability.md#contestability); [Materiality Determination](core_05defs_oversight.md#materiality-determination).
+- Read with: the [Standing State, Contribution, and Violation cluster](core_05defs_accountability.md#standing-state-contribution-and-violation-cluster), [Participant Standing](core_05defs_accountability.md#participant-standing-constitutional) (*distinct — **Article XVIII** (*Standing and Participation Status*) participation status versus Axis I typing*); [Verified Inputs for Standing](core_05defs_accountability.md#verified-inputs-for-standing); [Standing Record](core_05defs_accountability.md#standing-record-chapter-six); [Standing Effect](core_05defs_accountability.md#standing-effect-chapter-six); [Violation Nature](core_05defs_accountability.md#violation-nature-chapter-six); [Lifespan Equivalent Unit (LEQU)](core_05defs_participation.md#lifespan-equivalent-unit-lequ) (*shorthand for full-life-equivalent calibration*); [Auditability](core_05defs_oversight.md#auditability); [Contestability](core_05defs_accountability.md#contestability); [Materiality Determination](core_05defs_oversight.md#materiality-determination).
 
 </details>
 
 <br>
 
-*In plain terms: Contribution Nature records only positive constitutional outcomes on Axis I. Adverse findings belong on Violation Axis II and cannot be averaged, netted, or offset against contributions.*
+*In plain terms: Contribution Nature is the positive-only Axis I classification, applied only from auditable, contestable verified contribution records. Adverse findings belong on Violation Axis II and cannot be averaged, netted, or offset against contributions. Reputation, pedigree, or an unverified claim of good work is not enough.*
 
 - **What it is**
-  - **In scope:** **Axis I** measures **positive-only** constitutional outcomes: meeting the **baseline** and making **demonstrable** improvements beyond it under the applicable functional system conditions. It does not classify **adverse violation findings** or non-compliance. Those belong under **violation nature** on **Axis II**. Chapter Five pointer; canonical mechanics: [Chapter Eight](core_08-08_standing_assessment.md) [**section 7**](core_08-08_standing_assessment.md#7-unified-proportional-lequ-scale), read with [**sections 1–2**](core_08-08_standing_assessment.md#2-purpose-and-role). It is distinct from [Participant Standing](core_05defs_accountability.md#participant-standing-constitutional), which concerns **Article XVIII** participation status and role eligibility.
-  - **Out of scope:** Adverse findings, Violation Axis scores, averages, nets, or offsets against Axis I; or popularity and allegation without verified positive constitutional outcome.
+  - **In scope:**
+    - **Axis I** measures **positive-only** constitutional outcomes: meeting the **baseline** and making **demonstrable** improvements beyond it under the applicable functional system conditions.
+    - Those outcomes may affect **standing effect** only when they rest on auditable, contestable, demonstrable verified contribution records that satisfy Chapters **Two through Four** and Chapter Eight **§3.1**.
+    - Chapter Five pointer; canonical mechanics: [Chapter Eight](core_08-08_standing_assessment.md) [**section 7**](core_08-08_standing_assessment.md#7-unified-proportional-lequ-scale), read with [**sections 1–2**](core_08-08_standing_assessment.md#2-purpose-and-role) and **§3.1**; [Chapter Nine](core_09-09_standing_integration.md#chapter-nine-standing-effects-and-integration) for contribution-linked effects.
+  - **Out of scope:**
+    - **Adverse violation findings** or non-compliance. Those belong under [**violation nature**](core_05defs_accountability.md#violation-nature-chapter-six) on **Axis II**.
+    - [Participant Standing](core_05defs_accountability.md#participant-standing-constitutional), which concerns **Article XVIII** participation status and role eligibility.
+    - Violation Axis scores, averages, nets, or offsets against Axis I.
+    - Reputation, popularity, formal-channel pedigree, unverified self-reports, provisional labels, or allegation without a verified positive constitutional outcome.
+    - Standing-effect traceability under Chapter Eight **§§11.1–6.2** and the integration rules (owned by standing-effect / integration mechanics, not this Axis I typing alone).
 <a id="contribution-state-a"></a>
 <a id="contribution-nature-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Accountability measurement family and Timeliness measurement family — supporting measure where multiple measurement families co-apply.
 
-    **Primary assessment:** Measure **contribution nature** only from **demonstrable facts** under [Auditability](core_05defs_oversight.md#auditability) and [Contestability](core_05defs_accountability.md#contestability). Use [Materiality Determination](core_05defs_oversight.md#materiality-determination) for material disputes about thresholds, scope, or records. Keep every **standing effect** traceable to **contribution nature** and **violation nature** under Chapter Eight **§§11.1–6.2** and the integration rules. Never treat **alleged** misconduct as a [**verified violation finding**](core_05defs_accountability.md#verified-violation-findings). Keep [Participant Standing](core_05defs_accountability.md#participant-standing-constitutional) and Chapter Eight labels consistent where both apply. Formal-channel pedigree cannot replace demonstrable contribution under Chapter Eight **section 7**.
+    **Primary assessment:**
+    - Measure **contribution nature** only from verified contribution records under [Auditability](core_05defs_oversight.md#auditability) and [Contestability](core_05defs_accountability.md#contestability).
+    - Identify the record basis, affected subject and scope, applicable contribution-nature classification, evidence, contest path, and whether the record is current, under review, superseded, or withdrawn for standing.
+    - Use [Materiality Determination](core_05defs_oversight.md#materiality-determination) for material disputes about thresholds, scope, or records.
+    - Apply Chapter Eight's no-offset rule and keep Contribution Axis inputs separate from [Violation Nature](core_05defs_accountability.md#violation-nature-chapter-six).
+    - For contribution-linked standing effect, a record without an applicable contribution-nature classification is incomplete, and so is a contribution-nature label without a verified contribution record.
+    - Keep [Participant Standing](core_05defs_accountability.md#participant-standing-constitutional) and Chapter Eight labels consistent where both apply.
+    - Formal-channel pedigree cannot replace demonstrable contribution under Chapter Eight **section 7**.
 <a id="contribution-state-c"></a>
 <a id="contribution-nature-c"></a>
 - **What must hold**
   - It is non-compliant to:
     - call an **adverse violation** finding a **negative contribution** on **Axis I**;
-    - use **contribution nature** to **net away**, **average**, or replace [**verified violation findings**](core_05defs_accountability.md#verified-violation-findings) required by Chapter Eight **§3.2** and **§5**; or
-    - use **opaque**, **non-auditable**, or **undisclosed** criteria for **contribution nature** or **standing effect** that cannot be traced to Chapter Eight **section 7**.
+    - treat reputation, popularity, pedigree, or unverified claims as verified contribution records;
+    - assign **contribution nature** for contribution-linked **standing effect** without a verified contribution record;
+    - use **contribution nature** or verified contribution records to **net away**, **average**, erase, or replace [**violation nature**](core_05defs_accountability.md#violation-nature-chapter-six) / verified violation findings required by Chapter Eight **§3.2** and **§5**; or
+    - use **opaque**, **non-auditable**, or **undisclosed** criteria for **contribution nature** or **standing effect** that cannot be traced to Chapter Eight **section 7** / **§3.1**.
 
 ---
 
@@ -1796,88 +1863,48 @@ Outside that scope, an individual Chapter Eight through Chapter Ten hook may sti
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [Chapter Seven §3 Whole-System Certification Evaluation](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [Chapter One §6.3.2 Proxy-Divergence Invalidation](core_01_b_interaction_interpretation.md#632-proxy-divergence-invalidation) (Axis II classification integrity).
-- Canonical owner: the [Chapter Eight §7 unified proportional LEQU scale](core_08-08_standing_assessment.md#7-unified-proportional-lequ-scale) (*Violation Axis impact-slot calibration on the shared five-times LEQU bands*); [Chapter Eight §4.4](core_08-08_standing_assessment.md#44-violation-route-descriptor-measurement-roles) (*stackable harm and conduct descriptors*); [Chapter Nine §3](core_09-09_standing_integration.md#3-descriptor-integration-and-attachment-normalization) (*Question 3 process / response character attachments and descriptor integration*). Read with the [Standing State, Contribution, and Violation cluster](core_05defs_participation.md#standing-state-contribution-and-violation-cluster) and [Verified Violation Findings](core_05defs_accountability.md#verified-violation-findings). For a Chapter Eight Violation Axis slot 7, 8, or 9, [Chapter Ten](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct) may add the corresponding anti-constitutional-misconduct designation but does not assign the numeric slot.
-- Read with: [Verified Violation Findings](core_05defs_accountability.md#verified-violation-findings). The two are compound for standing use: violation nature classifies adverse constitutional outcome only from verified violation findings, and verified violation findings must state the violation nature actually applied where they affect standing.
+- Downstream: Principles: [Chapter Seven §3 Whole-System Certification Evaluation](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [Chapter One §6.3.2 Proxy-Divergence Invalidation](core_01_b_interaction_interpretation.md#632-proxy-divergence-invalidation) (Axis II classification integrity); [4. Non-Negotiable Constraints: Safety and Truth](core_01_a_values_principles.md#3-non-negotiable-constraints-safety-and-truth); [6. Process Conflict Resolution](core_05apex_accountability_leg.md#6-process-conflict-resolution) (verified facts for adverse standing).
+- Canonical owner: the [Chapter Eight §7 unified proportional LEQU scale](core_08-08_standing_assessment.md#7-unified-proportional-lequ-scale) (*Violation Axis impact-slot calibration on the shared five-times LEQU bands*); [Chapter Eight §3.1 Verified-input gate](core_08-08_standing_assessment.md#verified-inputs-for-standing); [Chapter Eight §4.4](core_08-08_standing_assessment.md#44-violation-route-descriptor-measurement-roles) (*stackable harm and conduct descriptors*); [Chapter Nine §3](core_09-09_standing_integration.md#3-descriptor-integration-and-attachment-normalization) (*Question 3 process / response character attachments and descriptor integration*). Read with the [Standing State, Contribution, and Violation cluster](core_05defs_accountability.md#standing-state-contribution-and-violation-cluster), [Verified Inputs for Standing](core_05defs_accountability.md#verified-inputs-for-standing), [Standing Record](core_05defs_accountability.md#standing-record-chapter-six), [Standing Effect](core_05defs_accountability.md#standing-effect-chapter-six), [Auditability](core_05defs_oversight.md#auditability), [Contestability](core_05defs_accountability.md#contestability), and [Adjudication and Dispute Resolution](core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional). For a Chapter Eight Violation Axis slot 7, 8, or 9, [Chapter Ten](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct) may add the corresponding anti-constitutional-misconduct designation but does not assign the numeric slot.
 
 </details>
 
 <br>
 
-*In plain terms: Violation Nature classifies a verified adverse outcome on Axis II. Chapter Eight assigns the numeric slot from verified impact; descriptors such as intent, coercion, concealment, or response do not move that slot.*
+*In plain terms: Violation Nature is the Axis II classification of a verified adverse outcome, applied only from auditable, contestable verified violation findings. Chapter Eight assigns the numeric slot from verified impact; descriptors such as intent, coercion, concealment, or response do not move that slot. An allegation, intake label, routing choice, or provisional case narrative is not enough.*
 
 - **What it is**
-  - **In scope:** The **Axis II** classification of **adverse** constitutional outcomes from [**verified violation findings**](core_05defs_accountability.md#verified-violation-findings). Chapter Eight **§7** assigns a verified-impact slot on its unified scale. Process / response and harm / conduct descriptors attach to that slot but do not move it. Chapter Five pointer; canonical mechanics: Chapter Eight **§7** and Chapter Nine descriptor sections. This entry works together with [Verified Violation Findings](core_05defs_accountability.md#verified-violation-findings): violation nature supplies the classification, and verified findings supply the admissible record basis. It is distinct from [**contribution nature**](core_05defs_accountability.md#contribution-nature), the positive-only **Axis I**, which uses the same bands in a separate record.
-  - **Out of scope:** Intent, coercion, concealment, or response descriptors that move the Chapter Eight impact slot, or contribution nature used as adverse violation nature.
+  - **In scope:**
+    - The **Axis II** classification of **adverse** constitutional outcomes from verified violation findings that satisfy Chapters **Two through Four** and Chapter Eight **§3.2**.
+    - Those findings may affect **standing effect** only when they rest on that auditable, contestable verified basis.
+    - Chapter Eight **§7** assigns a verified-impact slot on its unified scale. Process / response and harm / conduct descriptors attach to that slot but do not move it.
+    - Chapter Five pointer; canonical mechanics: Chapter Eight **§7**, **§3.2**, Chapter Nine descriptor sections, and [Chapter Nine](core_09-09_standing_integration.md#chapter-nine-standing-effects-and-integration) for adverse standing effects.
+    - It is distinct from [**contribution nature**](core_05defs_accountability.md#contribution-nature), the positive-only **Axis I**, which uses the same bands in a separate record.
+  - **Out of scope:**
+    - Allegations, intake labels, provisional routing tags, or unresolved forum-phase narratives treated as verified adverse findings or as **violation nature** for standing.
+    - Intent, coercion, concealment, or response descriptors that move the Chapter Eight impact slot.
+    - [**Contribution nature**](core_05defs_accountability.md#contribution-nature) or verified contribution records used as adverse violation nature or relabeled as violation findings.
 <a id="violation-nature-chapter-six-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Accountability measurement family and Timeliness measurement family — supporting measure where multiple measurement families co-apply.
 
-    **Primary assessment:** Classify **standing** only from findings that satisfy Chapters **Two through Four** and the [**verified inputs for standing**](core_08-08_standing_assessment.md#verified-inputs-for-standing) rule. Record the verified finding basis and violation-nature classification together. Include verified impact and resulting slot, applicable character descriptors or supplements, scope, review status, and any Chapter Ten designation. Negligence, concealment, coercion, intent, response, and similar descriptors do not move the numeric slot. Where material, read with [Harm](core_05defs_accountability.md#harm), [Materiality Determination](core_05defs_oversight.md#materiality-determination), [Constitutional Constraint Violation](core_05defs_integrative.md#constitutional-constraint-violation), and [Supremacy and Enforceability](core_05defs_integrative.md#supremacy-and-enforceability).
+    **Primary assessment:**
+    - Classify **standing** only from findings that satisfy Chapters **Two through Four** and the [**verified inputs for standing**](core_08-08_standing_assessment.md#verified-inputs-for-standing) rule.
+    - Identify the finding authority or record basis, affected subject and scope, applicable violation-nature classification, evidence, contest path, and whether the finding is final, under review, superseded, resolved, or remediated for standing.
+    - Record the verified finding basis and violation-nature classification together.
+    - Include verified impact and resulting slot, applicable character descriptors or supplements, scope, review status, and any Chapter Ten designation.
+    - Negligence, concealment, coercion, intent, response, and similar descriptors do not move the numeric slot.
+    - Apply Chapter Eight's no-offset rule and keep Violation Axis inputs separate from [Contribution Nature](core_05defs_accountability.md#contribution-nature).
+    - For adverse standing effect, a finding without an applicable violation-nature classification is incomplete, and so is a violation-nature label without verified findings.
+    - Where material, read with [Harm](core_05defs_accountability.md#harm), [Materiality Determination](core_05defs_oversight.md#materiality-determination), [Constitutional Constraint Violation](core_05defs_integrative.md#constitutional-constraint-violation), and [Supremacy and Enforceability](core_05defs_integrative.md#supremacy-and-enforceability).
 <a id="violation-nature-chapter-six-c"></a>
 - **What must hold**
-  - It is non-compliant to use **allegations**, **provisional** labels, or **forum-phase** material alone as **violation nature** for standing; record adverse standing findings without the applicable violation nature; call an **adverse violation finding** a **negative contribution** on **Axis I**; or use [**contribution nature**](core_05defs_accountability.md#contribution-nature) to **net away** or replace [**verified violation findings**](core_05defs_accountability.md#verified-violation-findings) required by Chapter Eight.
-
----
-
-<a id="verified-inputs-for-standing"></a>
-
-##### Verified Inputs for Standing
-
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Canonical owner: [Chapter Eight §3.1](core_08-08_standing_assessment.md#31-minimum-record-contents) (*Verified-input gate*).
-- Read with: the [Standing State, Contribution, and Violation cluster](core_05defs_participation.md#standing-state-contribution-and-violation-cluster), [Contribution Nature](core_05defs_accountability.md#contribution-nature), [Verified Violation Findings](core_05defs_accountability.md#verified-violation-findings), [Standing Record](core_05defs_accountability.md#standing-record-chapter-six), [Standing Effect](core_05defs_accountability.md#standing-effect-chapter-six), [Violation Nature](core_05defs_accountability.md#violation-nature-chapter-six), [Auditability](core_05defs_oversight.md#auditability), and [Contestability](core_05defs_accountability.md#contestability).
-
-</details>
-
-<br>
-
-*In plain terms: only verified, reviewable contribution records and violation findings may affect standing. Allegations, complaints, intake labels, routing choices, reputation, and provisional case material are not verified inputs by themselves.*
-
-- **What it is**
-  - **In scope:** The admissible facts and records used to apply contribution-linked or violation-linked standing consequences. For the Contribution Axis, these are demonstrable contribution records. For the Violation Axis, they are verified violation findings. Chapter Eight §2.1 requires each to appear in an axis-pure **contribution standing record** or **violation standing record** and meet Chapter Eight's requirements for records, evidence, auditability, contestability, and review status. Allegations, complaints, intake labels, routing decisions, reputation, disfavored status, moral dislike, and provisional forum-phase material are not verified inputs by themselves.
-  - **Out of scope:** Allegations, complaints, intake labels, routing choices, reputation scores, or provisional forum-phase material used by themselves as inputs for standing consequences.
-<a id="verified-inputs-for-standing-a"></a>
-- **How to measure and assess**
-  - **Primary measure:** Accountability measurement family and Timeliness measurement family — supporting measure where multiple measurement families co-apply.
-
-    **Primary assessment:** Before applying any [Standing Effect](core_05defs_accountability.md#standing-effect-chapter-six), identify the source record; finding authority or contribution basis; subject; scope; time window; review status; evidence source; required related-record cross-references; and contest path. Keep contribution and violation inputs separately traceable in axis-pure standing records. Apply Chapter Eight's no-offset rule.
-<a id="verified-inputs-for-standing-c"></a>
-- **What must hold**
-  - It is non-compliant to apply role, trust, credit, recognition, restriction, or restoration consequences from unverified allegations, provisional labels, unreviewable records, merged reputation scores, or undisclosed inputs.
-
----
-
-<a id="verified-violation-findings"></a>
-
-##### Verified Violation Findings
-
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Downstream: Principles: [4. Non-Negotiable Constraints: Safety and Truth](core_01_a_values_principles.md#3-non-negotiable-constraints-safety-and-truth); [6. Process Conflict Resolution](core_05apex_accountability_leg.md#6-process-conflict-resolution) (verified facts for adverse standing).
-- Canonical owner: [Chapter Eight — §3.1 Verified-input gate](core_08-08_standing_assessment.md#verified-inputs-for-standing) and the [Chapter Eight §7 unified scale](core_08-08_standing_assessment.md#7-unified-proportional-lequ-scale) for the Violation Axis; read with the [Standing State, Contribution, and Violation cluster](core_05defs_participation.md#standing-state-contribution-and-violation-cluster), [Violation Nature](core_05defs_accountability.md#violation-nature-chapter-six), [Standing Record](core_05defs_accountability.md#standing-record-chapter-six), [Standing Effect](core_05defs_accountability.md#standing-effect-chapter-six), [Auditability](core_05defs_oversight.md#auditability), [Contestability](core_05defs_accountability.md#contestability), and [Adjudication and Dispute Resolution](core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional).
-- Read with: [Violation Nature](core_05defs_accountability.md#violation-nature-chapter-six). The two are compound for standing use: verified violation findings supply the admissible finding basis, and violation nature supplies the adverse classification applied from that basis.
-
-</details>
-
-<br>
-
-*In plain terms: a Verified Violation Finding is an auditable, contestable adverse finding that has passed the required process. An allegation, intake label, routing choice, or provisional case narrative is not enough.*
-
-- **What it is**
-  - **In scope:** **Violation Axis** inputs that may affect **standing effect** because they rest on auditable, contestable findings that satisfy Chapters **Two through Four** and Chapter Eight **§3.2**. Chapter Five pointer; canonical mechanics: Chapter Eight **§3.2** and [Chapter Nine](core_09-09_standing_integration.md#chapter-nine-standing-effects-and-integration). This entry works together with [Violation Nature](core_05defs_accountability.md#violation-nature-chapter-six): verified findings supply the admissible basis, and violation nature supplies the adverse-outcome classification that the finding supports. Allegations, intake labels, provisional routing, and forum-phase narratives are not verified violation findings by themselves.
-  - **Out of scope:** Allegations, intake labels, provisional routing tags, or unresolved forum-phase narratives treated as verified adverse findings for standing.
-<a id="verified-violation-findings-a"></a>
-- **How to measure and assess**
-  - **Primary measure:** Accountability measurement family and Timeliness measurement family — supporting measure where multiple measurement families co-apply.
-
-    **Primary assessment:** Identify the finding authority or record basis, affected subject and scope, applicable violation nature, evidence, contest path, and whether the finding is final, under review, superseded, resolved, or remediated for standing. Apply Chapter Eight's no-offset rule and keep these findings separate from [Contribution Nature](core_05defs_accountability.md#contribution-nature). For adverse standing effect, a finding without an applicable violation-nature classification is incomplete, and so is a violation-nature label without verified findings.
-<a id="verified-violation-findings-c"></a>
-- **What must hold**
-  - It is non-compliant to treat allegations, provisional labels, intake tags, or unresolved forum-phase material as verified violation findings; assign **violation nature** for adverse **standing effect** without verified findings; use **contribution nature** to erase, average down, or relabel verified violation findings; or apply adverse standing consequences without the record basis and contestability required by Chapter Eight **§3.2**.
+  - It is non-compliant to:
+    - use **allegations**, **provisional** labels, intake tags, or **forum-phase** material alone as **violation nature** or as verified violation findings for standing;
+    - record adverse standing findings without the applicable violation nature;
+    - assign **violation nature** for adverse **standing effect** without verified findings;
+    - call an **adverse violation finding** a **negative contribution** on **Axis I**;
+    - use [**contribution nature**](core_05defs_accountability.md#contribution-nature) or verified contribution records to **net away**, erase, average down, or replace verified violation findings required by Chapter Eight; or
+    - apply adverse standing consequences without the record basis and contestability required by Chapter Eight **§3.2**.
 
 ---
 
@@ -1899,13 +1926,13 @@ Outside that scope, an individual Chapter Eight through Chapter Ten hook may sti
 *In plain terms: Standing Effect is the consequence applied from verified, linked Standing Records. It is separate from those records and cannot merge, average, net, or offset the Contribution and Violation axes.*
 
 - **What it is**
-  - **In scope:** The **consequence layer** that uses verified [**contribution nature**](core_05defs_accountability.md#contribution-nature) and [**verified violation findings**](core_05defs_accountability.md#verified-violation-findings) from linked **contribution standing records** and **violation standing records**. It may affect trust eligibility, roles, delegated authority, recognition, restriction, restoration, remediation, safeguards, and review. It includes positive paths such as [**competency clearances**](core_05defs_accountability.md#competency-clearance) against published [**competency bars**](core_05defs_accountability.md#competency-bar), and restrictive paths such as [**standing locks**](core_05defs_accountability.md#standing-lock). It is a decision consequence, not a dignity rank, Rights-Floor measure, merged merit score, or part of the standing record itself. Chapter Five pointer; canonical mechanics: Chapter Eight **section 2** and Chapter Nine **sections 1**, **4**, and **5**. The Contribution Axis and Violation Axis must stay separately traceable and may not be netted, averaged, offset, or substituted for each other. Read with [Article XXIII-B: Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints](core_06-06_rights_part_d.md#article-xxiii-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints) and [Article XXIII-C: Least-Restrictive and Time-Bounded Rule](core_06-06_rights_part_d.md#article-xxiii-c-least-restrictive-and-time-bounded-rule) when coercive or restrictive standing-linked measures are involved.
+  - **In scope:** The **consequence layer** that uses [**contribution nature**](core_05defs_accountability.md#contribution-nature) and [**violation nature**](core_05defs_accountability.md#violation-nature-chapter-six) from linked **contribution standing records** and **violation standing records**. It may affect trust eligibility, roles, delegated authority, recognition, restriction, restoration, remediation, safeguards, and review. It includes positive paths such as [**competency clearances**](core_05defs_accountability.md#competency-clearance) against published [**competency bars**](core_05defs_accountability.md#competency-bar), and restrictive paths such as [**standing locks**](core_05defs_accountability.md#standing-lock). It is a decision consequence, not a dignity rank, Rights-Floor measure, merged merit score, or part of the standing record itself. Chapter Five pointer; canonical mechanics: Chapter Eight **section 2** and Chapter Nine **sections 1**, **4**, and **5**. The Contribution Axis and Violation Axis must stay separately traceable and may not be netted, averaged, offset, or substituted for each other. Read with [Article XXIII-B: Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints](core_06-06_rights_part_d.md#article-xxiii-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints) and [Article XXIII-C: Least-Restrictive and Time-Bounded Rule](core_06-06_rights_part_d.md#article-xxiii-c-least-restrictive-and-time-bounded-rule) when coercive or restrictive standing-linked measures are involved.
   - **Out of scope:** A Standing Record itself, an allegation, a Forum Case Record, or any merged, averaged, netted, or offset blend of contribution and violation inputs treated as the consequence.
 <a id="standing-effect-chapter-six-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Accountability measurement family and Timeliness measurement family — supporting measure where multiple measurement families co-apply.
 
-    **Primary assessment:** Keep every **standing effect** traceable to [Chapter Eight](core_08-08_standing_assessment.md) **§§2–3** and [Chapter Nine](core_09-09_standing_integration.md) **§§1–10**. Evaluate it under [Auditability](core_05defs_oversight.md#auditability) and [Contestability](core_05defs_accountability.md#contestability). Identify the source contribution and violation standing records, subject, scope, time window, review status, separate axis inputs, required cross-references, verification basis, and actual consequence. When standing integration uses **contribution-linked** credit, follow Chapter Nine **§6.1** recency and disclosure rules. While unresolved, **violation-linked** constraints may not be time-discounted, weighted away for age, or softened by contribution upside. Never treat **alleged** misconduct, intake labels, or forum-phase material as [**verified violation findings**](core_05defs_accountability.md#verified-violation-findings) for standing ([**verified inputs for standing**](core_08-08_standing_assessment.md#verified-inputs-for-standing)).
+    **Primary assessment:** Keep every **standing effect** traceable to [Chapter Eight](core_08-08_standing_assessment.md) **§§2–3** and [Chapter Nine](core_09-09_standing_integration.md) **§§1–10**. Evaluate it under [Auditability](core_05defs_oversight.md#auditability) and [Contestability](core_05defs_accountability.md#contestability). Identify the source contribution and violation standing records, subject, scope, time window, review status, separate axis inputs, required cross-references, verification basis, and actual consequence. When standing integration uses **contribution-linked** credit, follow Chapter Nine **§6.1** recency and disclosure rules. While unresolved, **violation-linked** constraints may not be time-discounted, weighted away for age, or softened by contribution upside. Never treat **alleged** misconduct, intake labels, or forum-phase material as [**violation nature**](core_05defs_accountability.md#violation-nature-chapter-six) / verified violation findings for standing ([**verified inputs for standing**](core_08-08_standing_assessment.md#verified-inputs-for-standing)).
 <a id="standing-effect-chapter-six-c"></a>
 - **What must hold**
   - It is non-compliant to use **opaque** or **undisclosed standing** criteria; unverified allegations, provisional labels, or forum-phase material as adverse standing inputs; records that merge distinct subjects, scopes, time windows, or review statuses; both axes in one record; **netting**, **averaging**, offsetting, or substitution that displaces **Chapter Nine §§2, 4–7** or verified-input rules; positive recognition to erase unresolved violations; a restrictive **standing effect** broader, less reviewable, or less time-bounded than Article **XXIII** allows; or a standing effect that suspends, waives, extinguishes, or reduces Rights-Floor minimums—including inherent dignity, equal moral standing, minimum subsistence access, or access to **challenge** and **remedy**—where Chapter Eight and Article **XXIII** forbid it.
@@ -1921,7 +1948,7 @@ Outside that scope, an individual Chapter Eight through Chapter Ten hook may sti
 
 - Downstream: Principles: [Chapter Seven §3 Whole-System Certification Evaluation](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [Chapter One §6.3.2 Proxy-Divergence Invalidation](core_01_b_interaction_interpretation.md#632-proxy-divergence-invalidation) (bounded standing records vs merged labels).
 - Canonical owner: [Chapter Eight — §2.1 Standing records as the unit of application](core_08-08_standing_assessment.md#21-standing-records-as-the-unit-of-application) and [Chapter Eight §3 Standing record operational requirements](core_08-08_standing_assessment.md#3-standing-record-operational-requirements); read with [Chapter Eight — §3.1 Verified-input gate](core_08-08_standing_assessment.md#verified-inputs-for-standing), [Chapter Eight — §5.1 Slot grammar and display labels](core_08-08_standing_assessment.md#7-slot-grammar-and-display-labels), [Chapter Eight — §4 LEQU baseline](core_08-08_standing_assessment.md#lequ-baseline-constitutional-outcome), the [Chapter Eight §7 unified scale](core_08-08_standing_assessment.md#7-unified-proportional-lequ-scale) (*shared five-times LEQU bands; separate axis records*), and [Chapter Nine — Integration](core_09-09_standing_integration.md#chapter-nine-standing-effects-and-integration).
-- Read with: the [Standing State, Contribution, and Violation cluster](core_05defs_participation.md#standing-state-contribution-and-violation-cluster), [Standing Effect](core_05defs_accountability.md#standing-effect-chapter-six), [Contribution Nature](core_05defs_accountability.md#contribution-nature), [Violation Nature](core_05defs_accountability.md#violation-nature-chapter-six), [Verified Violation Findings](core_05defs_accountability.md#verified-violation-findings), [Forum Case Record](core_05defs_accountability.md#forum-case-record), [Auditability](core_05defs_oversight.md#auditability), [Contestability](core_05defs_accountability.md#contestability), [Materiality Determination](core_05defs_oversight.md#materiality-determination), and [Participant Standing](core_05defs_accountability.md#participant-standing-constitutional).
+- Read with: the [Standing State, Contribution, and Violation cluster](core_05defs_participation.md#standing-state-contribution-and-violation-cluster), [Standing Effect](core_05defs_accountability.md#standing-effect-chapter-six), [Contribution Nature](core_05defs_accountability.md#contribution-nature), [Violation Nature](core_05defs_accountability.md#violation-nature-chapter-six), [Forum Case Record](core_05defs_accountability.md#forum-case-record), [Auditability](core_05defs_oversight.md#auditability), [Contestability](core_05defs_accountability.md#contestability), [Materiality Determination](core_05defs_oversight.md#materiality-determination), and [Participant Standing](core_05defs_accountability.md#participant-standing-constitutional).
 
 </details>
 
@@ -2014,7 +2041,7 @@ Outside that scope, an individual Chapter Eight through Chapter Ten hook may sti
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Canonical owner: [Chapter Nine §4.2](core_09-09_standing_integration.md#42-general-standing-locks) (*standing locks*).
-- Read with: [Chapter Nine §4.2](core_09-09_standing_integration.md#42-general-standing-locks) (*general standing locks*); [Chapter Nine §5](core_09-09_standing_integration.md#5-lock-design-and-enforcement) (*lock design and enforcement*); the [Standing State, Contribution, and Violation cluster](core_05defs_participation.md#standing-state-contribution-and-violation-cluster), [Standing Effect](core_05defs_accountability.md#standing-effect-chapter-six), [Standing Record](core_05defs_accountability.md#standing-record-chapter-six), [Competency Bar](core_05defs_accountability.md#competency-bar), [Competency Clearance](core_05defs_accountability.md#competency-clearance), [Verified Violation Findings](core_05defs_accountability.md#verified-violation-findings), [Violation Nature](core_05defs_accountability.md#violation-nature-chapter-six), [Procedural Fairness](core_05defs_participation.md#procedural-fairness-constitutional), and [Redress and Remediation](core_05defs_accountability.md#redress-and-remediation-constitutional).
+- Read with: [Chapter Nine §4.2](core_09-09_standing_integration.md#42-general-standing-locks) (*general standing locks*); [Chapter Nine §5](core_09-09_standing_integration.md#5-lock-design-and-enforcement) (*lock design and enforcement*); the [Standing State, Contribution, and Violation cluster](core_05defs_participation.md#standing-state-contribution-and-violation-cluster), [Standing Effect](core_05defs_accountability.md#standing-effect-chapter-six), [Standing Record](core_05defs_accountability.md#standing-record-chapter-six), [Competency Bar](core_05defs_accountability.md#competency-bar), [Competency Clearance](core_05defs_accountability.md#competency-clearance), [Violation Nature](core_05defs_accountability.md#violation-nature-chapter-six), [Procedural Fairness](core_05defs_participation.md#procedural-fairness-constitutional), and [Redress and Remediation](core_05defs_accountability.md#redress-and-remediation-constitutional).
 
 </details>
 

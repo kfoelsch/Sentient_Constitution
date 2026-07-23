@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-07-22T13:33:31+00:00",
+  "generated_at": "2026-07-23T06:59:07+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -2076,7 +2076,7 @@
           },
           {
             "file": "core_05defs_accountability.md",
-            "count": 74,
+            "count": 73,
             "anchors": [
               "#adjudication-and-dispute-resolution-constitutional",
               "#autonomous-coercion-tool-constitutional",
@@ -2142,7 +2142,6 @@
               "#use-of-force-autonomous-coercion-and-mass-harm-cluster",
               "#use-of-force-constitutional",
               "#verified-inputs-for-standing",
-              "#verified-violation-findings",
               "#violation-nature-chapter-six",
               "#weapons-of-mass-harm-constitutional"
             ]
@@ -3031,7 +3030,7 @@
           },
           {
             "file": "core_05defs_accountability.md",
-            "count": 468,
+            "count": 465,
             "anchors": [
               "#accountability-contestability-semi-independent",
               "#adjudication-and-dispute-resolution-constitutional",
@@ -3083,6 +3082,7 @@
               "#standing-effect-chapter-six",
               "#standing-lock",
               "#standing-record-chapter-six",
+              "#standing-state-contribution-and-violation-cluster",
               "#stay",
               "#sustained-high-gravity-pattern",
               "#timely-resolution-constitutional",
@@ -3092,7 +3092,6 @@
               "#use-of-force-autonomous-coercion-and-mass-harm-cluster",
               "#use-of-force-constitutional",
               "#verified-inputs-for-standing",
-              "#verified-violation-findings",
               "#violation-nature-chapter-six",
               "#weapons-of-mass-harm-constitutional"
             ]
@@ -3166,7 +3165,7 @@
           },
           {
             "file": "core_05defs_participation.md",
-            "count": 99,
+            "count": 95,
             "anchors": [
               "#coercion-and-manipulation-constitutional",
               "#consent-constitutional",
@@ -3245,7 +3244,7 @@
           },
           {
             "file": "core_08-08_standing_assessment.md",
-            "count": 33,
+            "count": 32,
             "anchors": [
               "#2-purpose-and-role",
               "#2-standing-records",
@@ -3263,7 +3262,7 @@
           },
           {
             "file": "core_09-09_standing_integration.md",
-            "count": 16,
+            "count": 17,
             "anchors": [
               "#1-immutable-chapter-eight-inputs",
               "#3-descriptor-integration-and-attachment-normalization",
@@ -4972,7 +4971,7 @@
           },
           {
             "file": "core_05defs_accountability.md",
-            "count": 16,
+            "count": 15,
             "anchors": [
               "#contestability",
               "#contribution-nature",
@@ -4984,7 +4983,6 @@
               "#proportionality-a",
               "#proportionality-c",
               "#standing-state-contribution-and-violation-cluster",
-              "#verified-violation-findings",
               "#violation-nature-chapter-six"
             ]
           },
@@ -6702,9 +6700,9 @@
               "#use-of-force-constitutional",
               "#use-of-force-constitutional-a",
               "#use-of-force-constitutional-c",
-              "#verified-violation-findings",
-              "#verified-violation-findings-a",
-              "#verified-violation-findings-c",
+              "#violation-nature-chapter-six",
+              "#violation-nature-chapter-six-a",
+              "#violation-nature-chapter-six-c",
               "#weapons-of-mass-harm-constitutional",
               "#weapons-of-mass-harm-constitutional-a",
               "#weapons-of-mass-harm-constitutional-c"
@@ -14212,9 +14210,9 @@
               "#unified-record",
               "#unified-record-a",
               "#unified-record-c",
-              "#verified-violation-findings",
-              "#verified-violation-findings-a",
-              "#verified-violation-findings-c"
+              "#violation-nature-chapter-six",
+              "#violation-nature-chapter-six-a",
+              "#violation-nature-chapter-six-c"
             ]
           },
           {

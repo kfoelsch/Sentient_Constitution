@@ -162,7 +162,7 @@ Where public pre-disclosure of a proposed panel would foreseeably create a mater
 - [Accountability](../core_05apex_accountability_leg.md#accountability) · [O](../core_05apex_accountability_leg.md#accountability) · [A](../core_05apex_accountability_leg.md#accountability-a) · [C](../core_05apex_accountability_leg.md#accountability-c)
 - [Incentive Alignment](../core_05defs_integrative.md#incentive-alignment) · [O](../core_05defs_integrative.md#incentive-alignment) · [A](../core_05defs_integrative.md#incentive-alignment-a) · [C](../core_05defs_integrative.md#incentive-alignment-c)
 - [Transparency](../core_05defs_oversight.md#transparency) · [O](../core_05defs_oversight.md#transparency) · [A](../core_05defs_oversight.md#transparency-a) · [C](../core_05defs_oversight.md#transparency-c)
-- [Verified Violation Findings](../core_05defs_accountability.md#verified-violation-findings) · [O](../core_05defs_accountability.md#verified-violation-findings) · [A](../core_05defs_accountability.md#verified-violation-findings-a) · [C](../core_05defs_accountability.md#verified-violation-findings-c)
+- [Violation Nature](../core_05defs_accountability.md#violation-nature-chapter-six) · [O](../core_05defs_accountability.md#violation-nature-chapter-six) · [A](../core_05defs_accountability.md#violation-nature-chapter-six-a) · [C](../core_05defs_accountability.md#violation-nature-chapter-six-c)
 
 </details>
 
