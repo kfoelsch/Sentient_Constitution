@@ -219,6 +219,7 @@ Each row in the table below names a common route of verified loss, danger, or du
 | Ecological or infrastructure damage | Conditions needed for constitutional wellbeing were damaged | **Accountability**, **Oversight** | **Continuity**, **Flourishing** |
 | Destroyed productive capacity | Tools, capabilities, relationships, or resources needed for independent thriving were foreclosed | **Accountability** | **Flourishing** |
 | Degraded Safety, Truth, or auditability | Concealment, misinformation, broken records, inaccessible challenge paths, or unreviewable aggregation occurred | **Oversight**, **Accountability** | **Flourishing**, **Continuity** |
+| Obstruction of accountability | Verified interference with answerability machinery — evidence integrity, verification, forum process, standing records, remedy clocks, or contest and redress paths — occurred; where the obstruction is a meta-attack on a distinct underlying harm, open a linked separate violation standing record | **Accountability**, **Oversight**, **Timeliness** | **Flourishing**, **Continuity** |
 | System capture or dependency abuse | Structural enablement, dependency-asymmetry abuse, anti-evasion design, or capture of accountability pathways occurred | **Accountability**, **Participation** | **Continuity**, **Flourishing** |
 
 <a id="3-standing-record-operational-requirements"></a>
@@ -429,12 +430,13 @@ Do **not** split LEQU into parallel ecological, system, or resource benefit scor
 | **Temporal scope (duration, irreversibility)** | Modulates LEQU assessment | Persistent trauma, irreversible loss, and durable agency impairment increase the integrated loss estimate |
 | **Spatial / institutional scope** | Modulates LEQU assessment | Cross-community, cross-institutional, or civilizational reach may increase the integrated loss estimate |
 | **Harm-route stack** | Names routes of verified harm; stackable | [**Harm-route descriptor catalog**](#44-violation-route-descriptor-measurement-roles) |
-| **Conduct-character stack** | How harm was caused; separately recorded from impact | Duty, negligence, deception, concealment, coercion, violence, intent, and structural enablement inform attribution, safeguards, and response but do not move the LEQU slot |
+| **Conduct-character stack** | How harm was caused; separately recorded from impact | Duty, negligence, deception, concealment, obstruction of accountability, coercion, violence, intent, and structural enablement inform attribution, safeguards, and response but do not move the LEQU slot |
 
 **Violation conduct-character application.** Apply the conduct-character stack separately from outcome magnitude:
 
 - avoidable response or escalation delay is recorded where a duty and feasible capacity to act existed; any compounded loss enters the LEQU estimate once, while the delay remains a separate character fact;
 - independently verified forum-integrity injury enters the proportional LEQU estimate exactly once; dishonest omission, intentional recusal-process failure, coercion, liberty danger, and other conduct-character facts remain separate descriptors and do not move the impact slot;
+- **obstruction of accountability** — verified interference with answerability machinery such as evidence integrity, verification, forum process, standing records, remedy clocks, or contest and redress paths — remains a separately recorded conduct-character fact; any compounded pathway loss enters the LEQU estimate once, while the obstruction label itself does not move the impact slot;
 - deception, concealment, evasion, repetition after notice, reckless disregard, structural enablement, or material dependency-asymmetry abuse remain separately recorded conduct-character facts;
 - violence, coercion, manipulation, or liberty danger remain separately recorded and may require heightened safeguards regardless of slot;
 - diffusion concerns distributed causal role, authority, control, foreseeability, benefit, concealment, or feasible prevention capacity; it is not part of **sentient scope** and does not permit blame by group membership;
@@ -508,6 +510,7 @@ Do **not** split violation-side LEQU into parallel ecological-harm, system-harm,
 | **Educational Misconduct** | Knowledge, education, records, and discovery | Records education- or capability-pathway harm separately from the impact slot |
 | **Research and Discovery Misconduct** | Knowledge, education, records, and discovery | Records research- or discovery-pathway harm separately from the impact slot |
 | **System Misconduct** | Systems and constitutional operation | Diffusion and structural enablement remain separately recorded; slot follows integrated LEQU loss |
+| **Accountability Obstruction Misconduct** | Systems and constitutional operation | Records obstruction of accountability as a pathway-harm route; character facts stay separate; slot follows integrated LEQU loss; when `s` = 7–9, may co-stack with **Anti-Constitutional Misconduct** for Chapter Ten routing without substituting for designation |
 | **Exit and Lock-In Misconduct** | Systems and constitutional operation | System Misconduct features; diffusion or capture when structural |
 | **Lifecycle and Irreversibility Misconduct** | Systems and constitutional operation | Irreversibility affects LEQU magnitude; concealment or negligence remains separately recorded character |
 | **Anti-Constitutional Misconduct** (descriptor) | Systems and constitutional operation | Routes an `s` = 7–9 violation to Chapter Ten designation review without changing its impact slot |
@@ -534,6 +537,7 @@ Do **not** split violation-side LEQU into parallel ecological-harm, system-harm,
 | --- | --- | --- |
 | **Externalized harm / concealed burden** | Contribution conduct-quality application in **§4.1** | [Chapter Nine §6.2](core_09-09_standing_integration.md#62-competency-bars-and-clearances) — may block or narrow clearance until remedied |
 | **Deception / concealment / evasion** | Violation conduct-character application in **§4.2** | [Chapter Nine §4.2](core_09-09_standing_integration.md#42-general-standing-locks) — concealment / evasion escalated lock |
+| **Obstruction of accountability** | Violation conduct-character application in **§4.2** and **Accountability Obstruction Misconduct** in **§4.4** | [Chapter Nine §4.2](core_09-09_standing_integration.md#42-general-standing-locks) and [§5.4](core_09-09_standing_integration.md#54-special-violation-rules) — pathway-scoped locks; [Chapter Nine §10.13](core_09-09_standing_integration.md#1013-obstruction-of-accountability) (*Question 3 pattern*); Chapter Ten designation only via top-slot gateway under [Chapter Nine §10.8](core_09-09_standing_integration.md#108-top-slot-anti-constitutional-allegation) |
 | **Violence / coercion / liberty danger** | Violation conduct-character application in **§4.2** and **Violent Misconduct** in **§4.4** | [Chapter Nine §4.2](core_09-09_standing_integration.md#42-general-standing-locks) — protective and safeguard locks |
 | **Persistence / pattern / recurrence after notice** | Violation conduct-character application in **§4.2** | [Chapter Nine §4.2](core_09-09_standing_integration.md#42-general-standing-locks) — recurrence-persistence lock |
 | **Forum-integrity injury** | Violation conduct-character application in **§4.2** | [Chapter Nine §5.5](core_09-09_standing_integration.md#55-special-locks) — forum-integrity standing-lock effects |
