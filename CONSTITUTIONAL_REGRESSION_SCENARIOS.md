@@ -667,7 +667,7 @@ Regression seeds document adversarial and core paths against constitutional owne
 
 ### Scenario ID: RS-CH9-Q3-DESIGNATION-001
 - **Class:** adversarial / downstream handoff
-- **Summary:** A descriptor-heavy `s = 6` violation is presented for anti-constitutional-misconduct designation, while a fixed `s = 8` record is presented without prejudging designation. Expected result: Chapter Nine cannot promote the lower slot; it routes only the qualifying fixed top-slot record, and Chapter Ten alone decides designation.
+- **Summary:** A descriptor-heavy `s = 6` violation is presented for anti-constitutional-misconduct designation, while a fixed `s = 8` record is presented without prejudging designation. Expected result: Chapter Nine cannot promote the lower slot; it routes only the qualifying fixed Violation Axis slot 7–9 record, and Chapter Ten alone decides designation.
 - **Read with:** [Chapter Nine §2](core_09-09_standing_integration.md#2-integration-record-and-decision-order); [Chapter Ten](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct).
 
 ### Scenario ID: RS-XXIV-C-CHILD-001

@@ -84,7 +84,7 @@ The support requirement is practical, not decorative. If a case cannot be fairly
 - [Auditability](../core_05defs_oversight.md#auditability) · [O](../core_05defs_oversight.md#auditability) · [A](../core_05defs_oversight.md#auditability-a) · [C](../core_05defs_oversight.md#auditability-c)
 - [Adjudication and Dispute Resolution](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [A](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [C](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-c)
 - [Procedural Fairness](../core_05defs_participation.md#procedural-fairness-constitutional) · [O](../core_05defs_participation.md#procedural-fairness-constitutional) · [A](../core_05defs_participation.md#procedural-fairness-constitutional-a) · [C](../core_05defs_participation.md#procedural-fairness-constitutional-c)
-- [Unified Record](../core_05defs_accountability.md#unified-record) · [O](../core_05defs_accountability.md#unified-record) · [A](../core_05defs_accountability.md#unified-record-a) · [C](../core_05defs_accountability.md#unified-record-c)
+- [Unified Incident Record](../core_05defs_accountability.md#unified-incident-record) · [O](../core_05defs_accountability.md#unified-incident-record) · [A](../core_05defs_accountability.md#unified-incident-record-a) · [C](../core_05defs_accountability.md#unified-incident-record-c)
 
 </details>
 
@@ -191,7 +191,7 @@ Evidence handling must satisfy Chapter Five [Evidence Preservation](../core_05de
 - [Verifiability](../core_05defs_oversight.md#verifiability) · [O](../core_05defs_oversight.md#verifiability) · [A](../core_05defs_oversight.md#verifiability-a) · [C](../core_05defs_oversight.md#verifiability-c)
 - [Auditability](../core_05defs_oversight.md#auditability) · [O](../core_05defs_oversight.md#auditability) · [A](../core_05defs_oversight.md#auditability-a) · [C](../core_05defs_oversight.md#auditability-c)
 - [Contestability](../core_05defs_accountability.md#contestability) · [O](../core_05defs_accountability.md#contestability) · [A](../core_05defs_accountability.md#contestability-a) · [C](../core_05defs_accountability.md#contestability-c)
-- [Unified Record](../core_05defs_accountability.md#unified-record) · [O](../core_05defs_accountability.md#unified-record) · [A](../core_05defs_accountability.md#unified-record-a) · [C](../core_05defs_accountability.md#unified-record-c)
+- [Unified Incident Record](../core_05defs_accountability.md#unified-incident-record) · [O](../core_05defs_accountability.md#unified-incident-record) · [A](../core_05defs_accountability.md#unified-incident-record-a) · [C](../core_05defs_accountability.md#unified-incident-record-c)
 - [Forum Family, Technical](../core_05defs_accountability.md#forum-family-technical) · [O](../core_05defs_accountability.md#forum-family-technical) · [A](../core_05defs_accountability.md#forum-family-technical-a) · [C](../core_05defs_accountability.md#forum-family-technical-c)
 
 </details>

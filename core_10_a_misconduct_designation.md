@@ -66,7 +66,7 @@
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [Chapter Eight](core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) (*Questions 1 and 2; verified records and standing measurement*).
-- Upstream pointer: [Chapter Nine §2](core_09-09_standing_integration.md#2-integration-record-and-decision-order) routes qualifying top-slot findings here for designation only.
+- Upstream pointer: [Chapter Nine §2](core_09-09_standing_integration.md#2-integration-record-and-decision-order) routes qualifying Violation Axis slot 7–9 findings here for designation only.
 - This file: final anti-constitutional-misconduct designation for Violation Axis `s` = 7–9; designation criteria; due-process safeguards; Chapters Thirteen through Fifteen boundary. Named-pattern routing continues in [Part B](core_10_b_misconduct_pattern_applications.md#chapter-ten-part-b-anti-constitutional-misconduct-pattern-applications).
 - Downstream: [Chapter Nine](core_09-09_standing_integration.md#chapter-nine-standing-effects-and-integration) (*Trust Lock and standing-effect integration after final designation*); [Chapter Eleven](core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) (*forum routing and certification*); [Chapter Twelve](core_12-12_governance.md#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship) (*governance legitimacy consequences*).
 - Read with: [README — Standing pipeline and forums](README.md#standing-pipeline-and-forums); [Chapters Thirteen through Fifteen](core_13-15_amendment.md#chapter-thirteen-non-regression-and-substantive-amendment-validity) (*change-path conduct may implicate criteria 1–4*).
@@ -92,7 +92,7 @@ This chapter is used only when a verified violation already occupies Violation A
 
 - Upstream: [Chapter Eight](core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) (*the Contribution and Violation axes*).
 - Upstream map: [Chapter Eight §5.1](core_08-08_standing_assessment.md#7-slot-grammar-and-display-labels) (*standing-slot grammar*).
-- Upstream pointer: [Chapter Nine §2](core_09-09_standing_integration.md#2-integration-record-and-decision-order) routes qualifying top-slot findings here for designation only.
+- Upstream pointer: [Chapter Nine §2](core_09-09_standing_integration.md#2-integration-record-and-decision-order) routes qualifying Violation Axis slot 7–9 findings here for designation only.
 - Downstream: [§2](#2-criteria-set-for-slot-assignment) (*Designation criteria set*); [§3](#3-violation-axis-s-7-9-slot-assignment-incident-gravity) (*Violation Axis s = 7–9 designation*).
 - Safeguards and discipline: [§4](#4-due-process-safeguards-for-slot-assignment) (*Due-process safeguards, remedy, and prevention*); [§4.1](#4-1-remedy-and-correction-anti-constitutional) (*Remedy and correction (anti-constitutional)*); [§4.2](#4-2-prevention-anti-constitutional-locks) (*Prevention — anti-constitutional locks*); [§4.3](#4-3-voluntary-public-accountability-expression-anti-constitutional) (*Voluntary public accountability expression (anti-constitutional)*).
 - Pattern applications: [§5](core_10_b_misconduct_pattern_applications.md#5-pattern-applications-and-criteria-routing) (*named patterns route into the same designation criteria*).
@@ -169,7 +169,7 @@ Only **this chapter** may issue a final **anti-constitutional misconduct** desig
 Evaluators must also apply the following:
 
 - Artificial fragmentation of one pattern to manipulate anti-constitutional misconduct outcomes is prohibited.
-- Where **section 5.3** (*Flooding the zone*) and **section 5.4** (*Info-sphere zone flooding*) overlap, assess on a **unified record** under the unified-incident rule in this section.
+- Where **section 5.3** (*Flooding the zone*) and **section 5.4** (*Info-sphere zone flooding*) overlap, assess on a **unified incident record** under the unified-incident rule in this section.
 
 **Single catastrophic incident** means a **unified incident** that, viewed as a whole, causes or imminently threatens one of the following:
 
@@ -190,7 +190,7 @@ The pattern qualifies when either:
 - it continues after a fair chance to fix the problem in good faith, where a fix was possible; or
 - it reaches the same level of seriousness through institutional scale, capture, or staying power — even without one catastrophic moment.
 
-**Criteria 1–4** usually show up in cases about changing the Constitution, handling official records, or attacking validity rules. **Criteria 5** and **6** cover forcible takeover of constitutional authority and making constitutional process or remedies unusable in practice. Assess every criterion the facts actually support together on the same **unified incident** record:
+**Criteria 1–4** usually show up in cases about changing the Constitution, handling official records, or attacking validity rules. **Criteria 5** and **6** cover forcible takeover of constitutional authority and making constitutional process or remedies unusable in practice. Assess every criterion the facts actually support together on the same **unified incident record**:
 
 1. **Willful deceptive intent:** intent to deceive, conceal, or bypass constitutional validity safeguards.
 2. **Knowing falsification or suppression:** knowing falsification, material omission, or evidence/custody manipulation in proposal, review, adoption, publication, **or other material constitutional custody or verification** records.

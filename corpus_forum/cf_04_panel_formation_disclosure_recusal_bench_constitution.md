@@ -88,7 +88,7 @@ For cross-implementation interoperability, read these local definitions with `co
 - [System Capture](../core_05defs_continuity.md#system-capture) · [O](../core_05defs_continuity.md#system-capture) · [A](../core_05defs_continuity.md#system-capture-a) · [C](../core_05defs_continuity.md#system-capture-c)
 - [Accountability](../core_05apex_accountability_leg.md#accountability) · [O](../core_05apex_accountability_leg.md#accountability) · [A](../core_05apex_accountability_leg.md#accountability-a) · [C](../core_05apex_accountability_leg.md#accountability-c)
 - [Adjudication and Dispute Resolution](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [A](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [C](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-c)
-- [Unified Record](../core_05defs_accountability.md#unified-record) · [O](../core_05defs_accountability.md#unified-record) · [A](../core_05defs_accountability.md#unified-record-a) · [C](../core_05defs_accountability.md#unified-record-c)
+- [Unified Incident Record](../core_05defs_accountability.md#unified-incident-record) · [O](../core_05defs_accountability.md#unified-incident-record) · [A](../core_05defs_accountability.md#unified-incident-record-a) · [C](../core_05defs_accountability.md#unified-incident-record-c)
 
 </details>
 
@@ -237,7 +237,7 @@ Where a competent forum or adopting process verifies intentional recusal-process
 - [Accountability](../core_05apex_accountability_leg.md#accountability) · [O](../core_05apex_accountability_leg.md#accountability) · [A](../core_05apex_accountability_leg.md#accountability-a) · [C](../core_05apex_accountability_leg.md#accountability-c)
 - [Transparency](../core_05defs_oversight.md#transparency) · [O](../core_05defs_oversight.md#transparency) · [A](../core_05defs_oversight.md#transparency-a) · [C](../core_05defs_oversight.md#transparency-c)
 - [Evidence Preservation](../core_05defs_oversight.md#evidence-preservation) · [O](../core_05defs_oversight.md#evidence-preservation) · [A](../core_05defs_oversight.md#evidence-preservation-a) · [C](../core_05defs_oversight.md#evidence-preservation-c)
-- [Unified Record](../core_05defs_accountability.md#unified-record) · [O](../core_05defs_accountability.md#unified-record) · [A](../core_05defs_accountability.md#unified-record-a) · [C](../core_05defs_accountability.md#unified-record-c)
+- [Unified Incident Record](../core_05defs_accountability.md#unified-incident-record) · [O](../core_05defs_accountability.md#unified-incident-record) · [A](../core_05defs_accountability.md#unified-incident-record-a) · [C](../core_05defs_accountability.md#unified-incident-record-c)
 - [Contestability](../core_05defs_accountability.md#contestability) · [O](../core_05defs_accountability.md#contestability) · [A](../core_05defs_accountability.md#contestability-a) · [C](../core_05defs_accountability.md#contestability-c)
 
 </details>
@@ -279,7 +279,7 @@ Where urgency requires temporary action before the challenge is finally resolved
 - [System Capture](../core_05defs_continuity.md#system-capture) · [O](../core_05defs_continuity.md#system-capture) · [A](../core_05defs_continuity.md#system-capture-a) · [C](../core_05defs_continuity.md#system-capture-c)
 - [Accountability](../core_05apex_accountability_leg.md#accountability) · [O](../core_05apex_accountability_leg.md#accountability) · [A](../core_05apex_accountability_leg.md#accountability-a) · [C](../core_05apex_accountability_leg.md#accountability-c)
 - [Adjudication and Dispute Resolution](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [A](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [C](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-c)
-- [Unified Record](../core_05defs_accountability.md#unified-record) · [O](../core_05defs_accountability.md#unified-record) · [A](../core_05defs_accountability.md#unified-record-a) · [C](../core_05defs_accountability.md#unified-record-c)
+- [Unified Incident Record](../core_05defs_accountability.md#unified-incident-record) · [O](../core_05defs_accountability.md#unified-incident-record) · [A](../core_05defs_accountability.md#unified-incident-record-a) · [C](../core_05defs_accountability.md#unified-incident-record-c)
 
 </details>
 
@@ -345,7 +345,7 @@ If no substitute satisfies these requirements within the designated lead family,
 - [Procedural Fairness](../core_05defs_participation.md#procedural-fairness-constitutional) · [O](../core_05defs_participation.md#procedural-fairness-constitutional) · [A](../core_05defs_participation.md#procedural-fairness-constitutional-a) · [C](../core_05defs_participation.md#procedural-fairness-constitutional-c)
 - [System Capture](../core_05defs_continuity.md#system-capture) · [O](../core_05defs_continuity.md#system-capture) · [A](../core_05defs_continuity.md#system-capture-a) · [C](../core_05defs_continuity.md#system-capture-c)
 - [Accountability](../core_05apex_accountability_leg.md#accountability) · [O](../core_05apex_accountability_leg.md#accountability) · [A](../core_05apex_accountability_leg.md#accountability-a) · [C](../core_05apex_accountability_leg.md#accountability-c)
-- [Unified Record](../core_05defs_accountability.md#unified-record) · [O](../core_05defs_accountability.md#unified-record) · [A](../core_05defs_accountability.md#unified-record-a) · [C](../core_05defs_accountability.md#unified-record-c)
+- [Unified Incident Record](../core_05defs_accountability.md#unified-incident-record) · [O](../core_05defs_accountability.md#unified-incident-record) · [A](../core_05defs_accountability.md#unified-incident-record-a) · [C](../core_05defs_accountability.md#unified-incident-record-c)
 - [Adjudication and Dispute Resolution](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [A](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [C](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-c)
 
 </details>
@@ -421,7 +421,7 @@ For cross-forum anti-self-judging cases, the certifier should, where feasible, i
 - [Accountability](../core_05apex_accountability_leg.md#accountability) · [O](../core_05apex_accountability_leg.md#accountability) · [A](../core_05apex_accountability_leg.md#accountability-a) · [C](../core_05apex_accountability_leg.md#accountability-c)
 - [Adjudication and Dispute Resolution](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [A](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [C](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-c)
 - [Contestability](../core_05defs_accountability.md#contestability) · [O](../core_05defs_accountability.md#contestability) · [A](../core_05defs_accountability.md#contestability-a) · [C](../core_05defs_accountability.md#contestability-c)
-- [Unified Record](../core_05defs_accountability.md#unified-record) · [O](../core_05defs_accountability.md#unified-record) · [A](../core_05defs_accountability.md#unified-record-a) · [C](../core_05defs_accountability.md#unified-record-c)
+- [Unified Incident Record](../core_05defs_accountability.md#unified-incident-record) · [O](../core_05defs_accountability.md#unified-incident-record) · [A](../core_05defs_accountability.md#unified-incident-record-a) · [C](../core_05defs_accountability.md#unified-incident-record-c)
 
 </details>
 
@@ -496,7 +496,7 @@ Any such interim authority must:
 - [Contestability](../core_05defs_accountability.md#contestability) · [O](../core_05defs_accountability.md#contestability) · [A](../core_05defs_accountability.md#contestability-a) · [C](../core_05defs_accountability.md#contestability-c)
 - [Transparency](../core_05defs_oversight.md#transparency) · [O](../core_05defs_oversight.md#transparency) · [A](../core_05defs_oversight.md#transparency-a) · [C](../core_05defs_oversight.md#transparency-c)
 - [Adjudication and Dispute Resolution](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [A](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [C](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-c)
-- [Unified Record](../core_05defs_accountability.md#unified-record) · [O](../core_05defs_accountability.md#unified-record) · [A](../core_05defs_accountability.md#unified-record-a) · [C](../core_05defs_accountability.md#unified-record-c)
+- [Unified Incident Record](../core_05defs_accountability.md#unified-incident-record) · [O](../core_05defs_accountability.md#unified-incident-record) · [A](../core_05defs_accountability.md#unified-incident-record-a) · [C](../core_05defs_accountability.md#unified-incident-record-c)
 
 </details>
 

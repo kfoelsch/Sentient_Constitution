@@ -82,7 +82,7 @@ TERM_HINTS = {
     "performance": "Accountability",
     "publication": "Transparency",
     "recusal": "Procedural Fairness",
-    "record": "Unified Record",
+    "record": "Unified Incident Record",
     "redress": "Redress and Remediation",
     "remediation": "Redress and Remediation",
     "review": "Contestability",
@@ -108,7 +108,7 @@ LABEL_HINTS = {
     "CF-12": ["Emergency and Contingency", "Evidence Preservation", "Safety (Constraint)"],
     "CF-13": ["Primary-Stakes Routing", "System Capture", "Contestability"],
     "CF-14": ["Emergency and Contingency", "Irreversible Harm", "Contestability"],
-    "CF-15": ["Unified Record", "Evidence Preservation", "Transparency"],
+    "CF-15": ["Unified Incident Record", "Evidence Preservation", "Transparency"],
     "CF-16": ["Governance", "Accountability", "Procedural Fairness"],
 }
 

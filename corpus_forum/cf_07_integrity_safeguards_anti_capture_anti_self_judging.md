@@ -85,7 +85,7 @@
 - [Incentive Alignment](../core_05defs_integrative.md#incentive-alignment) · [O](../core_05defs_integrative.md#incentive-alignment) · [A](../core_05defs_integrative.md#incentive-alignment-a) · [C](../core_05defs_integrative.md#incentive-alignment-c)
 - [Oversight](../core_05apex_oversight_leg.md#oversight-constitutional) · [O](../core_05apex_oversight_leg.md#oversight-constitutional) · [A](../core_05apex_oversight_leg.md#oversight-constitutional-a) · [C](../core_05apex_oversight_leg.md#oversight-constitutional-c)
 - [Adjudication and Dispute Resolution](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [A](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [C](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-c)
-- [Unified Record](../core_05defs_accountability.md#unified-record) · [O](../core_05defs_accountability.md#unified-record) · [A](../core_05defs_accountability.md#unified-record-a) · [C](../core_05defs_accountability.md#unified-record-c)
+- [Unified Incident Record](../core_05defs_accountability.md#unified-incident-record) · [O](../core_05defs_accountability.md#unified-incident-record) · [A](../core_05defs_accountability.md#unified-incident-record-a) · [C](../core_05defs_accountability.md#unified-incident-record-c)
 
 </details>
 
@@ -172,7 +172,7 @@ Supervisory coordination applies the `corpus_joint_structure.md` **CJS-3.3** (*B
 - [Oversight](../core_05apex_oversight_leg.md#oversight-constitutional) · [O](../core_05apex_oversight_leg.md#oversight-constitutional) · [A](../core_05apex_oversight_leg.md#oversight-constitutional-a) · [C](../core_05apex_oversight_leg.md#oversight-constitutional-c)
 - [Accountability](../core_05apex_accountability_leg.md#accountability) · [O](../core_05apex_accountability_leg.md#accountability) · [A](../core_05apex_accountability_leg.md#accountability-a) · [C](../core_05apex_accountability_leg.md#accountability-c)
 - [Adjudication and Dispute Resolution](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [A](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [C](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-c)
-- [Unified Record](../core_05defs_accountability.md#unified-record) · [O](../core_05defs_accountability.md#unified-record) · [A](../core_05defs_accountability.md#unified-record-a) · [C](../core_05defs_accountability.md#unified-record-c)
+- [Unified Incident Record](../core_05defs_accountability.md#unified-incident-record) · [O](../core_05defs_accountability.md#unified-incident-record) · [A](../core_05defs_accountability.md#unified-incident-record-a) · [C](../core_05defs_accountability.md#unified-incident-record-c)
 - [Contestability](../core_05defs_accountability.md#contestability) · [O](../core_05defs_accountability.md#contestability) · [A](../core_05defs_accountability.md#contestability-a) · [C](../core_05defs_accountability.md#contestability-c)
 
 </details>
@@ -390,7 +390,7 @@ An Integrity forum may issue any of the following within lawful scope:
 - [Incentive Alignment](../core_05defs_integrative.md#incentive-alignment) · [O](../core_05defs_integrative.md#incentive-alignment) · [A](../core_05defs_integrative.md#incentive-alignment-a) · [C](../core_05defs_integrative.md#incentive-alignment-c)
 - [Oversight](../core_05apex_oversight_leg.md#oversight-constitutional) · [O](../core_05apex_oversight_leg.md#oversight-constitutional) · [A](../core_05apex_oversight_leg.md#oversight-constitutional-a) · [C](../core_05apex_oversight_leg.md#oversight-constitutional-c)
 - [Adjudication and Dispute Resolution](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [A](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [C](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-c)
-- [Unified Record](../core_05defs_accountability.md#unified-record) · [O](../core_05defs_accountability.md#unified-record) · [A](../core_05defs_accountability.md#unified-record-a) · [C](../core_05defs_accountability.md#unified-record-c)
+- [Unified Incident Record](../core_05defs_accountability.md#unified-incident-record) · [O](../core_05defs_accountability.md#unified-incident-record) · [A](../core_05defs_accountability.md#unified-incident-record-a) · [C](../core_05defs_accountability.md#unified-incident-record-c)
 - [Redress and Remediation](../core_05defs_accountability.md#redress-and-remediation-constitutional) · [O](../core_05defs_accountability.md#redress-and-remediation-constitutional) · [A](../core_05defs_accountability.md#redress-and-remediation-constitutional-a) · [C](../core_05defs_accountability.md#redress-and-remediation-constitutional-c)
 
 </details>

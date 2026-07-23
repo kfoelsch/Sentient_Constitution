@@ -2,7 +2,7 @@
 
 Auto-generated. Do not edit by hand.
 
-Generated: 2026-07-23T06:59:39+00:00
+Generated: 2026-07-23T13:17:46+00:00
 
 Grouped by Preamble measurement category. **Approved** terms must carry `*Measurements:*` and tier-aligned **E**/**C** per [doc_architecture.md](../doc_architecture.md) MEAS-DEF-01.
 Approved progress: **212/213** terms pass tier audit.
@@ -184,6 +184,7 @@ Approved progress: **212/213** terms pass tier audit.
 | --- | --- | --- | --- | --- | --- | --- |
 | Accountability | approved | primary_only | tetrad_leg_head | `core_05apex_accountability_leg.md` | no | pass |
 | Adjudication and Dispute Resolution | approved | primary_only | cluster_member | `core_05defs_accountability.md` | yes | pass |
+| Anti-Constitutional Misconduct Review | approved | primary_only | cluster_member | `core_05defs_accountability.md` | yes | pass |
 | Collective Accountability Failure | approved | primary_only | cluster_member | `core_05defs_accountability.md` | yes | pass |
 | Competency Bar | approved | primary_only | cluster_member | `core_05defs_accountability.md` | yes | pass |
 | Competency Clearance | approved | primary_only | cluster_member | `core_05defs_accountability.md` | yes | pass |
@@ -233,9 +234,8 @@ Approved progress: **212/213** terms pass tier audit.
 | Standing Record | approved | primary_only | cluster_member | `core_05defs_accountability.md` | yes | pass |
 | Stay | approved | primary_only | cluster_member | `core_05defs_accountability.md` | yes | pass |
 | Sustained High-Gravity Pattern | approved | primary_only | cluster_member | `core_05defs_accountability.md` | yes | pass |
-| Top-Slot Review | approved | primary_only | cluster_member | `core_05defs_accountability.md` | yes | pass |
 | Unified Incident | approved | primary_only | cluster_member | `core_05defs_accountability.md` | yes | pass |
-| Unified Record | approved | primary_only | cluster_member | `core_05defs_accountability.md` | yes | pass |
+| Unified Incident Record | approved | primary_only | cluster_member | `core_05defs_accountability.md` | yes | pass |
 | Verified Inputs for Standing | approved | primary_only | cluster_member | `core_05defs_accountability.md` | yes | pass |
 | Violation Nature | approved | primary_only | cluster_member | `core_05defs_accountability.md` | yes | pass |
 

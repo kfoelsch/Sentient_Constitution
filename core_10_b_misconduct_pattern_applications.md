@@ -43,7 +43,7 @@ Chapter Ten, **Part B**, is the constitutional owner of **named pattern applicat
 
 *In plain terms: the rest of the chapter applies the same decision model to recurring anti-constitutional patterns. “Participation and pathway integrity” names the **attack targets** — contest, standing, audit, forum, and related pathways — not a catalog of new Chapter Nine lock types. These examples do not create new criteria or new special locks; they show how named conduct routes through the criteria, process safeguards, and chapter boundaries already stated above. Locks stay in Chapter Nine.*
 
-The following subsections state criteria interactions and named pattern applications. They do **not** add independent impact criteria, relocate operational rules from other chapters, bypass **section 4** safeguards, or create Chapter Nine lock types. Pathway language in this section names **attack targets**. Standing locks, special-violation shaping, and special locks remain owned by [Chapter Nine](core_09-09_standing_integration.md#chapter-nine-standing-effects-and-integration): general locks and [§5.4](core_09-09_standing_integration.md#54-special-violation-rules) shaping for ordinary verified pathway harm; the **Forum-Service Standing Lock** for required-recusal failure under [§5.10](#510-forum-recusal-failure-and-biased-panel-participation); and the **Anti-Constitutional Trust Lock** after final designation under [§4.2](core_10_a_misconduct_designation.md#4-2-prevention-anti-constitutional-locks). Evaluators assess each materially implicated pattern on the **unified incident** record under **section 2**, decide designation under **section 3**, preserve required process under **section 4**, and keep the Chapters Thirteen through Fifteen boundary stated in **section 1**.
+The following subsections state criteria interactions and named pattern applications. They do **not** add independent impact criteria, relocate operational rules from other chapters, bypass **section 4** safeguards, or create Chapter Nine lock types. Pathway language in this section names **attack targets**. Standing locks, special-violation shaping, and special locks remain owned by [Chapter Nine](core_09-09_standing_integration.md#chapter-nine-standing-effects-and-integration): general locks and [§5.4](core_09-09_standing_integration.md#54-special-violation-rules) shaping for ordinary verified pathway harm; the **Forum-Service Standing Lock** for required-recusal failure under [§5.10](#510-forum-recusal-failure-and-biased-panel-participation); and the **Anti-Constitutional Trust Lock** after final designation under [§4.2](core_10_a_misconduct_designation.md#4-2-prevention-anti-constitutional-locks). Evaluators assess each materially implicated pattern on the **unified incident record** under **section 2**, decide designation under **section 3**, preserve required process under **section 4**, and keep the Chapters Thirteen through Fifteen boundary stated in **section 1**.
 
 <a id="51-concentration-based-subversion-criteria-interaction"></a>
 <a id="61-concentration-based-subversion-criteria-interaction"></a>
@@ -256,7 +256,7 @@ The following are non-exhaustive examples of in-scope means:
 - Ordinary virality or high attention without the imputed purpose or material effect stated here.
 - Volume alone, without culpable purpose or foreseeable indifference tied to those effects.
 
-**Relation to section 5.3.** The same campaign may implicate both **contest-pathway flooding** and **info-sphere flooding**. Evaluators must assess them together on a **unified record** where facts overlap. They must not double-count the same conduct element toward criteria satisfaction twice without independent substantiation for each pattern.
+**Relation to section 5.3.** The same campaign may implicate both **contest-pathway flooding** and **info-sphere flooding**. Evaluators must assess them together on a **unified incident record** where facts overlap. They must not double-count the same conduct element toward criteria satisfaction twice without independent substantiation for each pattern.
 
 **Operational response** remains governed by those instruments and adopted owner layers, including:
 - Rights-Floor implementation under **Chapter Six**;
@@ -1023,7 +1023,7 @@ A **Constitutional** forum must not be the sole final merits forum for its own *
 
 This subsection does **not**:
 - add an additional designation criterion beyond the **section 2** set;
-- convert every recusal dispute into a top-slot matter; or
+- convert every recusal dispute into an Anti-Constitutional Misconduct Review matter; or
 - relocate panel-formation mechanics from **CF-4**, **Chapter Eleven**, or **Article XXII-B** (*Composition, Rotation, and Conflict Controls*).
 
 It routes evaluation of the named pattern into the existing designation criteria, due-process safeguards, and **Integrity**-first routing of this chapter and **Chapter Eleven**.
@@ -1037,7 +1037,7 @@ It routes evaluation of the named pattern into the existing designation criteria
 
 - Upstream: [§2](core_10_a_misconduct_designation.md#2-criteria-set-for-slot-assignment) (*Criteria set*); [§3](core_10_a_misconduct_designation.md#3-violation-axis-s-7-9-slot-assignment-incident-gravity) (*Violation Axis s = 7–9 designation*); [Chapter Eight §2.3.2](core_08-08_standing_assessment.md#232-violation-event-types) (*Obstruction of accountability event type*); [Chapter Eight §4.2](core_08-08_standing_assessment.md#42-violation-severity-input-dimensions) and [§4.4](core_08-08_standing_assessment.md#44-violation-route-descriptor-measurement-roles) (*conduct character and Accountability Obstruction Misconduct*); [Chapter One §11.1.2](core_01_c_stewardship_capacity_principles.md#1112-what-incentives-must-not-do) (*obstruction of accountability among non-rewardable patterns*).
 - Related patterns (modes, not competing criteria): [§5.3](#53-flooding-the-zone-and-contest-pathway-denial); [§5.4](#54-info-sphere-zone-flooding); [§5.7](#57-reward-protection-or-normalization-of-anti-constitutional-conduct); [§5.8](#58-enforcement-refusal-suppression-or-non-prosecution-conduct); [§5.9](#59-infrastructure-denial-destruction-or-dependency-cutoff-conduct); [§5.10](#510-forum-recusal-failure-and-biased-panel-participation).
-- Topic routing (mandatory read-with): [Chapter Nine §10.13](core_09-09_standing_integration.md#1013-obstruction-of-accountability) (*Question 3 pathway-lock routing for the same fact family — general locks; Forum-Service only on forum-integrity trigger*); [Chapter Nine §10.8](core_09-09_standing_integration.md#108-top-slot-anti-constitutional-allegation) (*top-slot designation gateway*).
+- Topic routing (mandatory read-with): [Chapter Nine §10.13](core_09-09_standing_integration.md#1013-obstruction-of-accountability) (*Question 3 pathway-lock routing for the same fact family — general locks; Forum-Service only on forum-integrity trigger*); [Chapter Nine §10.8](core_09-09_standing_integration.md#108-anti-constitutional-misconduct-allegation) (*Anti-Constitutional Misconduct Review gateway*).
 - Read with: [Accountability](core_05apex_accountability_leg.md#accountability), [Contestability](core_05defs_accountability.md#contestability), [Capture of Resolution Pathways](core_05defs_accountability.md#capture-of-resolution-pathways), [Auditability](core_05defs_oversight.md#auditability), [Evidence Preservation](core_05defs_oversight.md#evidence-preservation), and [Timely Resolution](core_05defs_accountability.md#timely-resolution-constitutional).
 
 </details>
@@ -1080,7 +1080,7 @@ The absence of a matching named-mode subsection does **not** defeat designation 
 
 This subsection does **not**:
 - add an additional designation criterion beyond the **section 2** set;
-- convert every obstruction finding into a top-slot matter;
+- convert every obstruction finding into an Anti-Constitutional Misconduct Review matter;
 - equate obstruction of accountability with anti-constitutional-misconduct designation; or
 - relocate standing measurement, ordinary locks, or forum supervision from Chapters Eight, Nine, or Eleven.
 

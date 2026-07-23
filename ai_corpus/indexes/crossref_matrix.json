@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-07-23T06:59:07+00:00",
+  "generated_at": "2026-07-23T13:17:47+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -1677,8 +1677,9 @@
           },
           {
             "file": "core_08-08_standing_assessment.md",
-            "count": 4,
+            "count": 5,
             "anchors": [
+              "#232-violation-event-types",
               "#4-standing-measurement-evaluation-dimensions",
               "#chapter-eight-compliance-violation-and-standing-model"
             ]
@@ -1694,9 +1695,10 @@
           },
           {
             "file": "core_10_b_misconduct_pattern_applications.md",
-            "count": 6,
+            "count": 7,
             "anchors": [
-              "#51-concentration-based-subversion-criteria-interaction"
+              "#51-concentration-based-subversion-criteria-interaction",
+              "#511-obstruction-of-accountability-criteria-interaction"
             ]
           },
           {
@@ -2079,6 +2081,7 @@
             "count": 73,
             "anchors": [
               "#adjudication-and-dispute-resolution-constitutional",
+              "#anti-constitutional-misconduct-review",
               "#autonomous-coercion-tool-constitutional",
               "#autonomous-lethal-system-constitutional",
               "#capture-of-resolution-pathways",
@@ -2136,9 +2139,8 @@
               "#stay",
               "#sustained-high-gravity-pattern",
               "#timely-resolution-constitutional",
-              "#top-slot-review",
               "#unified-incident",
-              "#unified-record",
+              "#unified-incident-record",
               "#use-of-force-autonomous-coercion-and-mass-harm-cluster",
               "#use-of-force-constitutional",
               "#verified-inputs-for-standing",
@@ -3030,10 +3032,11 @@
           },
           {
             "file": "core_05defs_accountability.md",
-            "count": 465,
+            "count": 470,
             "anchors": [
               "#accountability-contestability-semi-independent",
               "#adjudication-and-dispute-resolution-constitutional",
+              "#anti-constitutional-misconduct-review",
               "#autonomous-coercion-tool-constitutional",
               "#autonomous-lethal-system-constitutional",
               "#capture-of-resolution-pathways",
@@ -3086,9 +3089,8 @@
               "#stay",
               "#sustained-high-gravity-pattern",
               "#timely-resolution-constitutional",
-              "#top-slot-review",
               "#unified-incident",
-              "#unified-record",
+              "#unified-incident-record",
               "#use-of-force-autonomous-coercion-and-mass-harm-cluster",
               "#use-of-force-constitutional",
               "#verified-inputs-for-standing",
@@ -5062,10 +5064,12 @@
           },
           {
             "file": "core_09-09_standing_integration.md",
-            "count": 47,
+            "count": 51,
             "anchors": [
               "#101-informal-ecological-stewardship-competency-clearance",
+              "#1013-obstruction-of-accountability",
               "#102-ecological-negligence-with-concealment",
+              "#108-anti-constitutional-misconduct-allegation",
               "#2-integration-record-and-decision-order",
               "#3-descriptor-integration-and-attachment-normalization",
               "#42-general-standing-locks",
@@ -5121,8 +5125,9 @@
           },
           {
             "file": "core_05defs_accountability.md",
-            "count": 1,
+            "count": 2,
             "anchors": [
+              "#capture-of-resolution-pathways",
               "#remedy-system-constitutional"
             ]
           },
@@ -5170,9 +5175,10 @@
           },
           {
             "file": "core_10_b_misconduct_pattern_applications.md",
-            "count": 5,
+            "count": 6,
             "anchors": [
               "#5-criteria-interactions-and-named-pattern-routing",
+              "#511-obstruction-of-accountability-criteria-interaction",
               "#52-rights-floor-waivers-and-unconstitutional-contract-terms",
               "#53-flooding-the-zone-and-contest-pathway-denial",
               "#54-info-sphere-zone-flooding",
@@ -5302,11 +5308,12 @@
           },
           {
             "file": "core_10_b_misconduct_pattern_applications.md",
-            "count": 36,
+            "count": 39,
             "anchors": [
               "#5-pattern-applications-and-criteria-routing",
               "#51-concentration-based-subversion-criteria-interaction",
               "#510-forum-recusal-failure-and-biased-panel-participation",
+              "#511-obstruction-of-accountability-criteria-interaction",
               "#52-rights-floor-waivers-and-unconstitutional-contract-terms",
               "#53-flooding-the-zone-and-contest-pathway-denial",
               "#54-info-sphere-zone-flooding",
@@ -5363,9 +5370,10 @@
           },
           {
             "file": "core_01_c_stewardship_capacity_principles.md",
-            "count": 5,
+            "count": 6,
             "anchors": [
               "#11-incentive-alignment-and-system-capture",
+              "#1112-what-incentives-must-not-do",
               "#121-productive-capacity-instrumental-good",
               "#131-market-concentration-threshold-mechanism-adopter-tunable",
               "#132-pro-competition-and-anti-domination",
@@ -5381,7 +5389,7 @@
           },
           {
             "file": "core_05apex_accountability_leg.md",
-            "count": 24,
+            "count": 29,
             "anchors": [
               "#accountability",
               "#accountability-a",
@@ -5399,8 +5407,11 @@
           },
           {
             "file": "core_05defs_accountability.md",
-            "count": 76,
+            "count": 92,
             "anchors": [
+              "#capture-of-resolution-pathways",
+              "#capture-of-resolution-pathways-a",
+              "#capture-of-resolution-pathways-c",
               "#collective-accountability-failure",
               "#collective-accountability-failure-a",
               "#collective-accountability-failure-c",
@@ -5425,7 +5436,10 @@
               "#protected-reporting-retaliation-and-access-interference-c",
               "#protected-reporting-whistleblowing",
               "#protected-reporting-whistleblowing-a",
-              "#protected-reporting-whistleblowing-c"
+              "#protected-reporting-whistleblowing-c",
+              "#timely-resolution-constitutional",
+              "#timely-resolution-constitutional-a",
+              "#timely-resolution-constitutional-c"
             ]
           },
           {
@@ -5461,7 +5475,7 @@
           },
           {
             "file": "core_05defs_oversight.md",
-            "count": 54,
+            "count": 64,
             "anchors": [
               "#auditability",
               "#auditability-a",
@@ -5533,18 +5547,23 @@
           },
           {
             "file": "core_08-08_standing_assessment.md",
-            "count": 1,
+            "count": 4,
             "anchors": [
+              "#232-violation-event-types",
+              "#42-violation-severity-input-dimensions",
+              "#44-violation-route-descriptor-measurement-roles",
               "#7-unified-proportional-lequ-scale"
             ]
           },
           {
             "file": "core_09-09_standing_integration.md",
-            "count": 19,
+            "count": 21,
             "anchors": [
               "#10-pattern-applications-and-question-3-routing",
               "#1010-contest-pathway-or-info-sphere-flooding",
               "#1011-infrastructure-denial-or-dependency-cutoff",
+              "#1013-obstruction-of-accountability",
+              "#108-anti-constitutional-misconduct-allegation",
               "#109-rights-floor-waiver-or-unconstitutional-contract-devices",
               "#2-integration-record-and-decision-order",
               "#42-general-standing-locks",
@@ -5555,7 +5574,7 @@
           },
           {
             "file": "core_10_a_misconduct_designation.md",
-            "count": 34,
+            "count": 36,
             "anchors": [
               "#2-criteria-set-for-slot-assignment",
               "#3-violation-axis-s-7-9-slot-assignment-incident-gravity",
@@ -14207,9 +14226,9 @@
               "#primary-stakes-routing",
               "#primary-stakes-routing-a",
               "#primary-stakes-routing-c",
-              "#unified-record",
-              "#unified-record-a",
-              "#unified-record-c",
+              "#unified-incident-record",
+              "#unified-incident-record-a",
+              "#unified-incident-record-c",
               "#violation-nature-chapter-six",
               "#violation-nature-chapter-six-a",
               "#violation-nature-chapter-six-c"
@@ -14353,9 +14372,9 @@
               "#contestability",
               "#contestability-a",
               "#contestability-c",
-              "#unified-record",
-              "#unified-record-a",
-              "#unified-record-c"
+              "#unified-incident-record",
+              "#unified-incident-record-a",
+              "#unified-incident-record-c"
             ]
           },
           {
@@ -14476,9 +14495,9 @@
               "#redress-and-remediation-constitutional",
               "#redress-and-remediation-constitutional-a",
               "#redress-and-remediation-constitutional-c",
-              "#unified-record",
-              "#unified-record-a",
-              "#unified-record-c"
+              "#unified-incident-record",
+              "#unified-incident-record-a",
+              "#unified-incident-record-c"
             ]
           },
           {
@@ -14629,9 +14648,9 @@
               "#standing-effect-chapter-six",
               "#standing-effect-chapter-six-a",
               "#standing-effect-chapter-six-c",
-              "#unified-record",
-              "#unified-record-a",
-              "#unified-record-c"
+              "#unified-incident-record",
+              "#unified-incident-record-a",
+              "#unified-incident-record-c"
             ]
           },
           {
@@ -14780,9 +14799,9 @@
               "#forum-family-technical",
               "#forum-family-technical-a",
               "#forum-family-technical-c",
-              "#unified-record",
-              "#unified-record-a",
-              "#unified-record-c"
+              "#unified-incident-record",
+              "#unified-incident-record-a",
+              "#unified-incident-record-c"
             ]
           },
           {
@@ -14956,9 +14975,9 @@
               "#proportionality-a",
               "#proportionality-c",
               "#systemic",
-              "#unified-record",
-              "#unified-record-a",
-              "#unified-record-c"
+              "#unified-incident-record",
+              "#unified-incident-record-a",
+              "#unified-incident-record-c"
             ]
           },
           {
@@ -15259,9 +15278,9 @@
               "#timely-resolution-constitutional",
               "#timely-resolution-constitutional-a",
               "#timely-resolution-constitutional-c",
-              "#unified-record",
-              "#unified-record-a",
-              "#unified-record-c"
+              "#unified-incident-record",
+              "#unified-incident-record-a",
+              "#unified-incident-record-c"
             ]
           },
           {
@@ -15564,9 +15583,9 @@
               "#primary-stakes-routing",
               "#primary-stakes-routing-a",
               "#primary-stakes-routing-c",
-              "#unified-record",
-              "#unified-record-a",
-              "#unified-record-c"
+              "#unified-incident-record",
+              "#unified-incident-record-a",
+              "#unified-incident-record-c"
             ]
           },
           {
@@ -15805,9 +15824,9 @@
               "#redress-and-remediation-constitutional",
               "#redress-and-remediation-constitutional-a",
               "#redress-and-remediation-constitutional-c",
-              "#unified-record",
-              "#unified-record-a",
-              "#unified-record-c"
+              "#unified-incident-record",
+              "#unified-incident-record-a",
+              "#unified-incident-record-c"
             ]
           },
           {

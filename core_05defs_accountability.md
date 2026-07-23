@@ -1679,9 +1679,9 @@ Outside that scope, an individual Chapter Eight through Chapter Ten hook may sti
 - [Competency Bar](core_05defs_accountability.md#competency-bar);
 - [Competency Clearance](core_05defs_accountability.md#competency-clearance);
 - [Standing Lock](core_05defs_accountability.md#standing-lock);
-- [Top-Slot Review](core_05defs_accountability.md#top-slot-review);
+- [Anti-Constitutional Misconduct Review](core_05defs_accountability.md#anti-constitutional-misconduct-review);
 - [Unified Incident](core_05defs_accountability.md#unified-incident);
-- [Unified Record](core_05defs_accountability.md#unified-record);
+- [Unified Incident Record](core_05defs_accountability.md#unified-incident-record);
 - [Single Catastrophic Incident](core_05defs_accountability.md#single-catastrophic-incident);
 - [Sustained High-Gravity Pattern](core_05defs_accountability.md#sustained-high-gravity-pattern).
 
@@ -2053,7 +2053,7 @@ Outside that scope, an individual Chapter Eight through Chapter Ten hook may sti
     **Primary assessment:**
     - Check that the bar is published, named-pathway-specific, proportionate to role impact, auditable, and contestable.
     - State the bar in demonstrable terms — verified contribution, experience, skill, training, reliability, or equivalent readiness inputs.
-    - Recognize informal, unpaid, peer-organized, mutual-aid, maintenance, repair, teaching, and community stewardship experience when it meets the same proof standards as formal institutional experience.
+    - Recognize informal or non-institutional experience — such as unpaid, peer-organized, mutual-aid, maintenance, repair, teaching, and community stewardship experience — when it meets the same proof standards as formal institutional experience.
 <a id="competency-bar-c"></a>
 - **What must hold**
   - It is non-compliant to:
@@ -2082,18 +2082,29 @@ Outside that scope, an individual Chapter Eight through Chapter Ten hook may sti
 *In plain terms: Competency Clearance is the standing-effect result that says verified readiness meets the published competency bar for a named pathway. It may support opening that named pathway only when no standing lock blocks it. It is not prestige, insider sponsorship, or permanent entitlement.*
 
 - **What it is**
-  - **In scope:** A positive standing-effect result that records verified readiness against the applicable [Competency Bar](core_05defs_accountability.md#competency-bar) for trust-sensitive roles, delegated authority, oversight eligibility, enhanced recognition, or increasingly consequential stewardship responsibility. Clearance may support opening the named pathway only when no applicable [Standing Lock](core_05defs_accountability.md#standing-lock) blocks it. Competency clearance is the opening-oriented counterpart to a standing lock, but it is not reputation, social prestige, insider sponsorship, credential monopoly, dignity rank, Rights-Floor measure, or permanent entitlement.
+  - **In scope:**
+    - A positive standing-effect result that records verified readiness against the applicable [Competency Bar](core_05defs_accountability.md#competency-bar) for trust-sensitive roles, delegated authority, oversight eligibility, enhanced recognition, or increasingly consequential stewardship responsibility.
+    - Clearance may support opening the named pathway only when no applicable [Standing Lock](core_05defs_accountability.md#standing-lock) blocks it.
+    - Competency clearance is the opening-oriented counterpart to a standing lock, but it is not reputation, social prestige, insider sponsorship, credential monopoly, dignity rank, Rights-Floor measure, or permanent entitlement.
   - **Out of scope:** Prestige screening, insider sponsorship, opaque credential monopoly, permanent entitlement after one clearance, or using clearance to erase unresolved violations or bypass standing locks.
 <a id="competency-gate-a"></a>
 <a id="competency-clearance-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Accountability measurement family and Timeliness measurement family — supporting measure where multiple measurement families co-apply.
 
-    **Primary assessment:** Check that clearance rests on published [Competency Bar](core_05defs_accountability.md#competency-bar) criteria that are named-pathway-specific, proportionate, auditable, contestable, current enough, and traceable to verified contribution, experience, skill, training, reliability, or equivalent readiness inputs. Recognize informal, unpaid, peer-organized, mutual-aid, maintenance, repair, teaching, and community stewardship experience when it meets the same proof standards as formal institutional experience. Any applicable standing lock still controls whether the trust-, role-, authority-, oversight-, or recognition-linked effect may open.
+    **Primary assessment:**
+    - Check that clearance rests on published [Competency Bar](core_05defs_accountability.md#competency-bar) criteria that are named-pathway-specific, proportionate, auditable, contestable, current enough, and traceable to verified contribution, experience, skill, training, reliability, or equivalent readiness inputs.
+    - Recognize informal or non-institutional experience — such as unpaid, peer-organized, mutual-aid, maintenance, repair, teaching, and community stewardship experience — when it meets the same proof standards as formal institutional experience.
+    - Any applicable standing lock still controls whether the trust-, role-, authority-, oversight-, or recognition-linked effect may open.
 <a id="competency-gate-c"></a>
 <a id="competency-clearance-c"></a>
 - **What must hold**
-  - It is non-compliant to grant or withhold competency clearance for arbitrary gatekeeping, opaque credentialism, reputation substitution, prestige screening, insider control, inaccessible specialization, or formal-channel monopoly; deny credit to demonstrable informal or community stewardship for lacking official pedigree; use unverified or undisclosed inputs; treat clearance as permanent entitlement; or use clearance to waive Rights Floors, erase unresolved violation findings, lower Violation Axis measurements, bypass standing locks, or displace correction, remediation, safeguards, review, or lawful supersession.
+  - It is non-compliant to:
+    - grant or withhold competency clearance for arbitrary gatekeeping, opaque credentialism, reputation substitution, prestige screening, insider control, inaccessible specialization, or formal-channel monopoly;
+    - deny credit to demonstrable informal or community stewardship for lacking official pedigree;
+    - use unverified or undisclosed inputs;
+    - treat clearance as permanent entitlement; or
+    - use clearance to waive Rights Floors, erase unresolved violation findings, lower Violation Axis measurements, bypass standing locks, or displace correction, remediation, safeguards, review, or lawful supersession.
 
 ---
 
@@ -2114,46 +2125,72 @@ Outside that scope, an individual Chapter Eight through Chapter Ten hook may sti
 *In plain terms: a Standing Lock temporarily limits a named privilege pathway — trust, roles, credit, recognition, authority, governance voting, stakeholder participation, or a comparable recorded privilege pathway — because of a verified, unresolved violation. It cannot reduce dignity or Rights-Floor protections.*
 
 - **What it is**
-  - **In scope:** A standing-effect constraint based on a verified Violation Axis assessment. While the verified finding remains unresolved or materially unremediated, it limits consequences tied to a named pathway, including trust, roles, credit, recognition, authority, oversight, **governance-voting**, or **stakeholder-participation**. **governance-voting** is the legitimacy-mechanism / foundational governance-vote pathway; **stakeholder-participation** is stake-weighted influence and binding stakeholder choice within an already-authorized domain. A standing lock is not a dignity rank, Rights-Floor reduction, automatic retaliation, merged merit score, erasure of [Stakeholder](core_05defs_participation.md#stakeholder) status, or a substitute for the other named pathway.
-  - **Out of scope:** A lock from unverified allegations, a permanent lock without review or remediation path, a dignity or Rights-Floor cut, or automatic retaliation framed as a standing lock.
+  - **In scope:**
+    - A standing-effect constraint based on a verified Violation Axis assessment.
+    - While the verified finding remains unresolved or materially unremediated, it limits consequences tied to a named pathway, including trust, roles, credit, recognition, authority, oversight, **governance-voting**, or **stakeholder-participation**.
+    - A standing lock is not a dignity rank, Rights-Floor reduction, automatic retaliation, merged merit score, erasure of [Stakeholder](core_05defs_participation.md#stakeholder) status, or a substitute for the other named pathway.
+  - **Out of scope:**
+    - A lock from unverified allegations.
+    - A permanent lock without review or remediation path.
+    - A dignity or Rights-Floor cut.
+    - Automatic retaliation framed as a standing lock.
 <a id="standing-lock-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Accountability measurement family and Timeliness measurement family — supporting measure where multiple measurement families co-apply.
 
-    **Primary assessment:** Apply a lock only from a bounded **violation standing record** and verified violation basis. State its scope, duration, review status, remediation path, and proportionate consequence. Restrictive effects must remain auditable and contestable, use the least-restrictive option when coercion or liberty is involved, and be time-bounded when Chapter Six requires it.
+    **Primary assessment:**
+    - Apply a lock only from a bounded **violation standing record** and verified violation basis.
+    - State its scope, duration, review status, remediation path, and proportionate consequence.
+    - Restrictive effects must remain auditable and contestable, use the least-restrictive option when coercion or liberty is involved, and be time-bounded when Chapter Six requires it.
 <a id="standing-lock-c"></a>
 - **What must hold**
-  - It is non-compliant to impose a lock from unverified allegations; make it permanent without review or a remediation path; extend it beyond the verified scope; or use it to extinguish dignity, equal moral standing, challenge access, remedy access, or baseline Rights-Floor protection.
+  - It is non-compliant to:
+    - impose a lock from unverified allegations;
+    - make it permanent without review or a remediation path;
+    - extend it beyond the verified scope; or
+    - use it to extinguish dignity, equal moral standing, challenge access, remedy access, or baseline Rights-Floor protection.
 
 ---
 
 <a id="top-slot-review"></a>
+<a id="anti-constitutional-misconduct-review"></a>
 
-##### Top-Slot Review
+##### Anti-Constitutional Misconduct Review
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Canonical owner: numeric slot assignment remains with the [Chapter Eight §7 unified scale](core_08-08_standing_assessment.md#7-unified-proportional-lequ-scale), controlled only by verified impact. [Chapter Ten](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct), especially its [§1](core_10_a_misconduct_designation.md#1-decision-framework-scope-and-authority), [criteria set](core_10_a_misconduct_designation.md#2-criteria-set-for-slot-assignment), [designation analysis](core_10_a_misconduct_designation.md#3-violation-axis-s-7-9-slot-assignment-incident-gravity), and [due-process safeguards](core_10_a_misconduct_designation.md#4-due-process-safeguards-for-slot-assignment), governs only whether a Chapter Eight slot 7, 8, or 9 record receives the corresponding anti-constitutional-misconduct designation. Legacy anchors remain unchanged.
-- Read with: the [Standing State, Contribution, and Violation cluster](core_05defs_participation.md#standing-state-contribution-and-violation-cluster), [Violation Nature](core_05defs_accountability.md#violation-nature-chapter-six), [Unified Incident](core_05defs_accountability.md#unified-incident), [Unified Record](core_05defs_accountability.md#unified-record), [Single Catastrophic Incident](core_05defs_accountability.md#single-catastrophic-incident), [Sustained High-Gravity Pattern](core_05defs_accountability.md#sustained-high-gravity-pattern), [Procedural Fairness](core_05defs_participation.md#procedural-fairness-constitutional), [Auditability](core_05defs_oversight.md#auditability), and [Contestability](core_05defs_accountability.md#contestability).
+- Read with: the [Standing State, Contribution, and Violation cluster](core_05defs_participation.md#standing-state-contribution-and-violation-cluster), [Violation Nature](core_05defs_accountability.md#violation-nature-chapter-six), [Unified Incident](core_05defs_accountability.md#unified-incident), [Unified Incident Record](core_05defs_accountability.md#unified-incident-record), [Single Catastrophic Incident](core_05defs_accountability.md#single-catastrophic-incident), [Sustained High-Gravity Pattern](core_05defs_accountability.md#sustained-high-gravity-pattern), [Procedural Fairness](core_05defs_participation.md#procedural-fairness-constitutional), [Auditability](core_05defs_oversight.md#auditability), and [Contestability](core_05defs_accountability.md#contestability).
 
 </details>
 
 <br>
 
-*In plain terms: Top-Slot Review asks whether a final Chapter Eight Violation Axis slot 7, 8, or 9 receives the matching Chapter Ten anti-constitutional-misconduct designation. Chapter Ten does not assign or move the numeric slot.*
+*In plain terms: Anti-Constitutional Misconduct Review asks whether a final Chapter Eight Violation Axis slot 7, 8, or 9 receives the matching Chapter Ten anti-constitutional-misconduct designation. Chapter Ten does not assign or move the numeric slot.*
 
 - **What it is**
-  - **In scope:** The Chapter Ten process that decides whether a final Chapter Eight Violation Axis `s = 7`, `s = 8`, or `s = 9` impact slot receives the matching anti-constitutional-misconduct designation. The process identifies the unified incident, applies the criteria, tests the designation conditions, and confirms due-process safeguards. It does not assign or move the numeric slot.
-  - **Out of scope:** Chapter Ten criteria, legacy tier labels, character descriptors, or standing locks used to assign or move the numeric Violation Axis slot.
+  - **In scope:**
+    - The Chapter Ten process that decides whether a final Chapter Eight Violation Axis `s = 7`, `s = 8`, or `s = 9` impact slot receives the matching anti-constitutional-misconduct designation.
+    - The process identifies the unified incident, applies the criteria, tests the designation conditions, and confirms due-process safeguards.
+    - It does not assign or move the numeric slot.
+  - **Out of scope:**
+    - Using Chapter Ten criteria to assign or move the numeric Violation Axis slot.
+    - Using legacy tier labels, character descriptors, or standing locks to assign or move the numeric Violation Axis slot.
 <a id="top-slot-review-a"></a>
+<a id="anti-constitutional-misconduct-review-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Accountability measurement family and Timeliness measurement family — supporting measure where multiple measurement families co-apply.
 
-    **Primary assessment:** Before adding the designation, require a bounded standing record with a Chapter Eight impact slot, verified input basis, unified-incident analysis, Chapter Ten criteria assessment, independent review, contestable notice, and reasoned publication. Keep change-path validity, forum operations, rights remedies, and governance consequences in their own chapters.
+    **Primary assessment:**
+    - Before adding the designation, require a bounded standing record with a Chapter Eight impact slot, verified input basis, unified-incident analysis, Chapter Ten criteria assessment, independent review, contestable notice, and reasoned publication.
+    - Keep change-path validity, forum operations, rights remedies, and governance consequences in their own chapters.
 <a id="top-slot-review-c"></a>
+<a id="anti-constitutional-misconduct-review-c"></a>
 - **What must hold**
-  - It is non-compliant to use Chapter Ten criteria, an adopting instrument, process note, subsidiary body, forum shortcut, legacy tier label, character descriptor, or Chapter Eight / Chapter Nine standing lock to assign or move the numeric Violation Axis slot. It is also non-compliant to add the designation without Chapter Ten criteria and safeguards.
+  - It is non-compliant to:
+    - use Chapter Ten criteria, an adopting instrument, process note, subsidiary body, forum shortcut, legacy tier label, character descriptor, or Chapter Eight / Chapter Nine standing lock to assign or move the numeric Violation Axis slot; or
+    - add the designation without Chapter Ten criteria and safeguards.
 
 ---
 
@@ -2165,7 +2202,7 @@ Outside that scope, an individual Chapter Eight through Chapter Ten hook may sti
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Canonical owner: [Chapter Ten §2](core_10_a_misconduct_designation.md#2-criteria-set-for-slot-assignment).
-- Read with: the [Standing State, Contribution, and Violation cluster](core_05defs_participation.md#standing-state-contribution-and-violation-cluster), [Top-Slot Review](core_05defs_accountability.md#top-slot-review), [Unified Record](core_05defs_accountability.md#unified-record), [Materiality Determination](core_05defs_oversight.md#materiality-determination), [System Boundaries](core_05defs_continuity.md#system-boundaries), [System Boundary Integrity](core_05defs_continuity.md#system-boundary-integrity), and [Accountability](core_05apex_accountability_leg.md#accountability).
+- Read with: the [Standing State, Contribution, and Violation cluster](core_05defs_participation.md#standing-state-contribution-and-violation-cluster), [Anti-Constitutional Misconduct Review](core_05defs_accountability.md#anti-constitutional-misconduct-review), [Unified Incident Record](core_05defs_accountability.md#unified-incident-record), [Materiality Determination](core_05defs_oversight.md#materiality-determination), [System Boundaries](core_05defs_continuity.md#system-boundaries), [System Boundary Integrity](core_05defs_continuity.md#system-boundary-integrity), and [Accountability](core_05apex_accountability_leg.md#accountability).
 
 </details>
 
@@ -2174,46 +2211,71 @@ Outside that scope, an individual Chapter Eight through Chapter Ten hook may sti
 *In plain terms: a Unified Incident treats one materially connected episode, campaign, or pattern as a whole so it cannot be split into smaller pieces to hide its impact or avoid review.*
 
 - **What it is**
-  - **In scope:** A whole episode, sustained campaign, or connected pattern assessed together for Chapter Ten designation review. The conduct must share material actors, objectives, continuity over time, causal links, or a unified design. Treating it as one incident prevents artificial splitting that would understate satisfied criteria, verified impact, or accountability.
-  - **Out of scope:** Splitting one materially connected scheme into separate incidents to understate impact or avoid review, or merging unrelated events solely to intensify classification.
+  - **In scope:**
+    - A whole episode, sustained campaign, or connected pattern assessed together for Chapter Ten designation review.
+    - The conduct must share material actors, objectives, continuity over time, causal links, or a unified design.
+    - Treating it as one incident prevents artificial splitting that would understate satisfied criteria, verified impact, or accountability.
+  - **Out of scope:**
+    - Splitting one materially connected scheme into separate incidents to understate impact or avoid review.
+    - Merging unrelated events solely to intensify classification.
 <a id="unified-incident-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Accountability measurement family and Timeliness measurement family — supporting measure where multiple measurement families co-apply.
 
-    **Primary assessment:** Draw the conduct boundary from real connections, not a caption, forum docket, entity boundary, transaction label, or implementation artifact. When contest-pathway flooding and info-sphere flooding overlap, assess the shared facts in one unified record without counting the same conduct twice.
+    **Primary assessment:**
+    - Draw the conduct boundary from real connections, not a caption, forum docket, entity boundary, transaction label, or implementation artifact.
+    - When contest-pathway flooding and info-sphere flooding overlap, assess the shared facts in one unified incident record without counting the same conduct twice.
 <a id="unified-incident-c"></a>
 - **What must hold**
-  - It is non-compliant to split one materially connected scheme into separate incidents to avoid Chapter Ten criteria, gravity, review, publication, or remedy consequences. It is also non-compliant to merge unrelated events solely to intensify classification without a material connection.
+  - It is non-compliant to:
+    - split one materially connected scheme into separate incidents to avoid Chapter Ten criteria, gravity, review, publication, or remedy consequences; or
+    - merge unrelated events solely to intensify classification without a material connection.
 
 ---
 
 <a id="unified-record"></a>
+<a id="unified-incident-record"></a>
 
-##### Unified Record
+##### Unified Incident Record
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Canonical owner: [Chapter Ten §2](core_10_a_misconduct_designation.md#2-criteria-set-for-slot-assignment), [§3](core_10_a_misconduct_designation.md#3-violation-axis-s-7-9-slot-assignment-incident-gravity), and [§5.4](core_10_b_misconduct_pattern_applications.md#54-info-sphere-zone-flooding).
-- Read with: the [Standing State, Contribution, and Violation cluster](core_05defs_participation.md#standing-state-contribution-and-violation-cluster), [Unified Incident](core_05defs_accountability.md#unified-incident), [Top-Slot Review](core_05defs_accountability.md#top-slot-review), [Auditability](core_05defs_oversight.md#auditability), [Transparency](core_05defs_oversight.md#transparency), [Verifiability](core_05defs_oversight.md#verifiability), and [Standing Record](core_05defs_accountability.md#standing-record-chapter-six).
+- Read with: the [Standing State, Contribution, and Violation cluster](core_05defs_participation.md#standing-state-contribution-and-violation-cluster), [Unified Incident](core_05defs_accountability.md#unified-incident), [Anti-Constitutional Misconduct Review](core_05defs_accountability.md#anti-constitutional-misconduct-review), [Auditability](core_05defs_oversight.md#auditability), [Transparency](core_05defs_oversight.md#transparency), [Verifiability](core_05defs_oversight.md#verifiability), and [Standing Record](core_05defs_accountability.md#standing-record-chapter-six).
 
 </details>
 
 <br>
 
-*In plain terms: a Unified Record keeps the evidence and reasoning for one Unified Incident together while separately proving each criterion or pattern and protecting each subject's review rights.*
+*In plain terms: a Unified Incident Record keeps the evidence and reasoning for one Unified Incident together while separately proving each criterion or pattern and protecting each subject's review rights.*
 
 - **What it is**
-  - **In scope:** The combined evidence and reasoning used to assess a unified incident under Chapter Ten's designation criteria and due-process safeguards after Chapter Eight assigns the impact slot. It keeps overlapping facts, actors, effects, criteria, and review status together while preserving separate proof for each criterion or pattern.
-  - **Out of scope:** Fragmented files that hide pattern gravity, merged files that erase distinct subjects' review rights, double-counted facts, or character used to move the Chapter Eight impact slot.
+  - **In scope:**
+    - The combined evidence and reasoning used to assess a unified incident under Chapter Ten's designation criteria and due-process safeguards after Chapter Eight assigns the impact slot.
+    - It keeps overlapping facts, actors, effects, criteria, and review status together while preserving separate proof for each criterion or pattern.
+  - **Out of scope:**
+    - Fragmented files that hide pattern gravity.
+    - Merged files that erase distinct subjects' review rights.
+    - Counting one undifferentiated course of conduct toward several Chapter Ten criteria or named patterns when the record does not show separate actions taken toward differing objectives.
+    - Character descriptors — including intent, duty, negligence, deception, concealment, obstruction, coercion, or process/response character — used to assign or move the Chapter Eight impact slot.
 <a id="unified-record-a"></a>
+<a id="unified-incident-record-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Accountability measurement family and Timeliness measurement family — supporting measure where multiple measurement families co-apply.
 
-    **Primary assessment:** State the incident boundary, material facts, evidence source, implicated criteria, independently proven elements, review status, contest path, and overlap among named patterns. Do not count one conduct element toward several criteria or patterns without independent proof.
+    **Primary assessment:**
+    - State the incident boundary, material facts, evidence source, implicated criteria, independently proven elements, review status, contest path, and overlap among named patterns.
+    - Count a conduct element toward more than one Chapter Ten criterion or named pattern only when the record shows separate actions taken toward differing objectives — not when one undifferentiated course of conduct is given several labels.
 <a id="unified-record-c"></a>
+<a id="unified-incident-record-c"></a>
 - **What must hold**
-  - It is non-compliant to fragment records to hide pattern gravity; merge records in a way that obscures distinct subjects or review rights; count facts twice; use character to move the Chapter Eight impact slot; or issue a final Chapter Ten designation without a reasoned, auditable unified record.
+  - It is non-compliant to:
+    - fragment records to hide pattern gravity;
+    - merge records in a way that obscures distinct subjects or review rights;
+    - count one undifferentiated course of conduct toward several Chapter Ten criteria or named patterns without separate actions taken toward differing objectives;
+    - use character descriptors — including intent, duty, negligence, deception, concealment, obstruction, coercion, or process/response character — to assign or move the Chapter Eight impact slot; or
+    - issue a final Chapter Ten designation without a reasoned, auditable unified incident record.
 
 ---
 
@@ -2225,7 +2287,7 @@ Outside that scope, an individual Chapter Eight through Chapter Ten hook may sti
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Canonical owner: [Chapter Ten §2](core_10_a_misconduct_designation.md#2-criteria-set-for-slot-assignment) (*incident shapes for designation*).
-- Read with: the [Standing State, Contribution, and Violation cluster](core_05defs_participation.md#standing-state-contribution-and-violation-cluster), [Top-Slot Review](core_05defs_accountability.md#top-slot-review), [Unified Incident](core_05defs_accountability.md#unified-incident), [Violation Nature](core_05defs_accountability.md#violation-nature-chapter-six), [Irreversible Harm](core_05defs_accountability.md#irreversible-harm), the Chapter Six Rights Floor, and [Constitutional Constraint Violation](core_05defs_integrative.md#constitutional-constraint-violation).
+- Read with: the [Standing State, Contribution, and Violation cluster](core_05defs_participation.md#standing-state-contribution-and-violation-cluster), [Anti-Constitutional Misconduct Review](core_05defs_accountability.md#anti-constitutional-misconduct-review), [Unified Incident](core_05defs_accountability.md#unified-incident), [Violation Nature](core_05defs_accountability.md#violation-nature-chapter-six), [Irreversible Harm](core_05defs_accountability.md#irreversible-harm), the Chapter Six Rights Floor, and [Constitutional Constraint Violation](core_05defs_integrative.md#constitutional-constraint-violation).
 
 </details>
 
@@ -2234,16 +2296,25 @@ Outside that scope, an individual Chapter Eight through Chapter Ten hook may sti
 *In plain terms: a Single Catastrophic Incident is one connected event whose verified impact causes or imminently threatens catastrophic constitutional harm.*
 
 - **What it is**
-  - **In scope:** A unified incident that, taken as a whole, causes or imminently threatens catastrophic constitutional harm of the kind Chapter Ten recognizes for grave or pernicious anti-constitutional misconduct. This includes loss or suspension of operative constitutional authority; material, population-scale loss of contestability or Rights-Floor continuity; or comparable harm relevant to survival or system continuity.
-  - **Out of scope:** Serious but non-catastrophic violations labeled catastrophic, or one catastrophic episode split into smaller procedural units to avoid the label.
+  - **In scope:**
+    - A unified incident that, taken as a whole, causes or imminently threatens catastrophic constitutional harm of the kind Chapter Ten recognizes for grave or pernicious anti-constitutional misconduct.
+    - This includes loss or suspension of operative constitutional authority; material, population-scale loss of contestability or Rights-Floor continuity; or comparable harm relevant to survival or system continuity.
+  - **Out of scope:**
+    - Serious but non-catastrophic violations labeled catastrophic.
+    - One catastrophic episode split into smaller procedural units to avoid the label.
 <a id="single-catastrophic-incident-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Accountability measurement family and Timeliness measurement family — supporting measure where multiple measurement families co-apply.
 
-    **Primary assessment:** Measure the verified impact as a whole under Chapter Eight §7. If the resulting slot is 7, 8, or 9, then apply Chapter Ten's designation criteria and due-process safeguards. Verified impact—not intent, another character descriptor, or the number of isolated acts—sets the numeric slot.
+    **Primary assessment:**
+    - Measure the verified impact as a whole under Chapter Eight §7.
+    - If the resulting slot is 7, 8, or 9, then apply Chapter Ten's designation criteria and due-process safeguards.
+    - Verified impact — not intent, another character descriptor, or the number of isolated acts — sets the numeric slot.
 <a id="single-catastrophic-incident-c"></a>
 - **What must hold**
-  - It is non-compliant to use this label for serious violations that do not reach Chapter Ten gravity, or to avoid the label by splitting one catastrophic unified incident into smaller procedural units.
+  - It is non-compliant to:
+    - use this label for serious violations that do not reach Chapter Ten gravity; or
+    - avoid the label by splitting one catastrophic unified incident into smaller procedural units.
 
 ---
 
@@ -2255,7 +2326,7 @@ Outside that scope, an individual Chapter Eight through Chapter Ten hook may sti
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Canonical owner: [Chapter Ten §2](core_10_a_misconduct_designation.md#2-criteria-set-for-slot-assignment) (*incident shapes for designation*).
-- Read with: the [Standing State, Contribution, and Violation cluster](core_05defs_participation.md#standing-state-contribution-and-violation-cluster), [Top-Slot Review](core_05defs_accountability.md#top-slot-review), [Unified Incident](core_05defs_accountability.md#unified-incident), [Unified Record](core_05defs_accountability.md#unified-record), Chapter Ten criterion 3 (*Material rollback effect*), [System Capture](core_05defs_continuity.md#system-capture), [Review and Correction Duty](core_05defs_continuity.md#review-and-correction-duty-constitutional), and [Accountability](core_05apex_accountability_leg.md#accountability).
+- Read with: the [Standing State, Contribution, and Violation cluster](core_05defs_participation.md#standing-state-contribution-and-violation-cluster), [Anti-Constitutional Misconduct Review](core_05defs_accountability.md#anti-constitutional-misconduct-review), [Unified Incident](core_05defs_accountability.md#unified-incident), [Unified Incident Record](core_05defs_accountability.md#unified-incident-record), Chapter Ten criterion 3 (*Material rollback effect*), [System Capture](core_05defs_continuity.md#system-capture), [Review and Correction Duty](core_05defs_continuity.md#review-and-correction-duty-constitutional), and [Accountability](core_05apex_accountability_leg.md#accountability).
 
 </details>
 
@@ -2264,16 +2335,25 @@ Outside that scope, an individual Chapter Eight through Chapter Ten hook may sti
 *In plain terms: a Sustained High-Gravity Pattern is connected, continuing or repeated conduct whose combined verified impact reaches Chapter Eight slot 7, 8, or 9, even without one catastrophic moment.*
 
 - **What it is**
-  - **In scope:** A unified incident made up of continuing, repeated, or systematically reinforced conduct whose combined verified impact reaches Chapter Eight slot 7, 8, or 9. It may then undergo Chapter Ten designation review. Material rollback, blocked or chilled challenge rights, Rights-Floor degradation, correction delayed beyond practical remedy, an equivalent structural workaround, institutional scale, capture, and durability may describe the pattern and support designation analysis, but they do not move the numeric slot.
-  - **Out of scope:** Repeated high-gravity conduct treated as isolated minor events, or ordinary repeated defects escalated to Chapter Ten gravity without proof of combined constitutional harm.
+  - **In scope:**
+    - A unified incident made up of continuing, repeated, or systematically reinforced conduct whose combined verified impact reaches Chapter Eight slot 7, 8, or 9.
+    - It may then undergo Chapter Ten designation review.
+    - Material rollback, blocked or chilled challenge rights, Rights-Floor degradation, correction delayed beyond practical remedy, an equivalent structural workaround, institutional scale, capture, and durability may describe the pattern and support designation analysis, but they do not move the numeric slot.
+  - **Out of scope:**
+    - Repeated high-gravity conduct treated as isolated minor events.
+    - Ordinary repeated defects escalated to Chapter Ten gravity without proof of combined constitutional harm.
 <a id="sustained-high-gravity-pattern-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Accountability measurement family and Timeliness measurement family — supporting measure where multiple measurement families co-apply.
 
-    **Primary assessment:** Evaluate the combined constitutional gravity; continuation after a reasonable chance for good-faith cure when cure is feasible; institutional scale; capture; durability; and practical limits on remediation. A pattern may reach Chapter Ten gravity without a single catastrophic moment.
+    **Primary assessment:**
+    - Evaluate the combined constitutional gravity; continuation after a reasonable chance for good-faith cure when cure is feasible; institutional scale; capture; durability; and practical limits on remediation.
+    - A pattern may reach Chapter Ten gravity without a single catastrophic moment.
 <a id="sustained-high-gravity-pattern-c"></a>
 - **What must hold**
-  - It is non-compliant to treat repeated high-gravity conduct as isolated minor events to avoid review, or to escalate ordinary repeated defects to Chapter Ten gravity without proof of combined constitutional harm.
+  - It is non-compliant to:
+    - treat repeated high-gravity conduct as isolated minor events to avoid review; or
+    - escalate ordinary repeated defects to Chapter Ten gravity without proof of combined constitutional harm.
 
 ---
 

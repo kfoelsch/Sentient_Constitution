@@ -277,6 +277,11 @@
       "tier_depth": "primary_only",
       "status": "approved"
     },
+    "Anti-Constitutional Misconduct Review": {
+      "ch00_category": "3.6 Accountability",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
     "Anti-Displacement Floor": {
       "ch00_category": "3.2 Flourishing",
       "tier_depth": "primary_only",
@@ -1012,11 +1017,6 @@
       "tier_depth": "primary_only",
       "status": "approved"
     },
-    "Top-Slot Review": {
-      "ch00_category": "3.6 Accountability",
-      "tier_depth": "primary_only",
-      "status": "approved"
-    },
     "Training-Data Use": {
       "ch00_category": "3.2 Flourishing",
       "tier_depth": "primary_only",
@@ -1037,7 +1037,7 @@
       "tier_depth": "primary_only",
       "status": "approved"
     },
-    "Unified Record": {
+    "Unified Incident Record": {
       "ch00_category": "3.6 Accountability",
       "tier_depth": "primary_only",
       "status": "approved"
