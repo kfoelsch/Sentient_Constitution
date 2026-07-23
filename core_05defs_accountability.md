@@ -286,26 +286,6 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
 
 ---
 
-<a id="negligence"></a>
-
-#### Negligence
-
-*In plain terms: a reasonably avoidable failure to take the care, action, or timely response needed to prevent or reduce serious harm when there was a duty and real ability to act.*
-
-- **What it is**
-  - **In scope:** A failure to use the care, diligence, or timely response reasonably needed to prevent or reduce material [Harm](core_05defs_accountability.md#harm). The harm may affect sentients, [Environmental Preconditions](core_05defs_continuity.md#environmental-preconditions-constitutional), [Ecological Integrity](core_05defs_continuity.md#ecological-integrity-constitutional), or dependent systems. The failure is Negligence only when it was reasonably avoidable under [Foreseeability Diligence](core_05defs_oversight.md#foreseeability-diligence) and [Materiality Determination](core_05defs_oversight.md#materiality-determination). Neglect includes prolonged inattention to known warning signs, foreseeable deterioration, or trauma-producing conditions when a duty and meaningful capacity to act existed.
-  - **Out of scope:** A negligence label that does not reflect what actually happened in the matter this Constitution governs.
-<a id="negligence-a"></a>
-- **How to measure and assess**
-  - **Primary measure:** Accountability and Timeliness measurement families — used alongside any other relevant measures to assess responsibility and whether action happens without harmful delay.
-
-    **Primary assessment:** Apply [Accountability](core_05apex_accountability_leg.md#accountability), [Proportionality](core_05defs_accountability.md#proportionality), [Material Risk](core_05defs_oversight.md#material-risk), and system-wide evaluation. Separate excusable uncertainty from blameworthy inaction, passive acceptance of harmful conditions, or an inadequate response. Assess [Psychological Harm](core_05defs_accountability.md#psychological-harm) along with physical and system-wide harm.
-<a id="negligence-c"></a>
-- **What must hold**
-  - Persistent or systemic Negligence is non-compliant. This includes passively accepting known harmful conditions in ways that materially devalue [Dignity and Equal Moral Standing](core_05defs_participation.md#dignity-and-equal-moral-standing) or prevent action against foreseeable harm.
-
----
-
 <a id="proportionality"></a>
 
 #### Proportionality
@@ -338,130 +318,39 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
 
 ---
 
-<a id="redress-and-remediation-constitutional"></a>
-
-#### Redress and Remediation
-
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Cluster component: [Chapter Five §3.31 *Adjudication and Dispute Resolution, Redress and Remediation, Restorative Justice, Review and Correction Duty, and Refuge from Non-Compliance*](core_05defs_accountability.md#accountability-contestability-semi-independent)
-- Read with: [Accountability](core_05apex_accountability_leg.md#accountability), [Contestability](core_05defs_accountability.md#contestability), [Procedural Fairness](core_05defs_participation.md#procedural-fairness-constitutional), and [Proportionality](core_05defs_accountability.md#proportionality).
-
-</details>
-
-<br>
-
-*In plain terms: acknowledge serious harm or rights failures, provide a usable path to correct them, and deliver a remedy that fits the findings — including repair for delayed, indirect, widespread, or structural harm.*
-
-- **What it is**
-  - **In scope:** Acknowledgment, correction pathways, and proportionate remedies for material [Harm](core_05defs_accountability.md#harm), rights-affecting failures, or conduct that degrades [Trustworthiness](core_05defs_continuity.md#trustworthiness). This includes delayed, indirect, combined, and system-wide harm. Remedies may include restitution, compensation, restoration, correction, disgorgement or clawback where lawful, substitute safeguards when literal repair is impossible, and system-wide remediation when harm affects a class or comes from a structural failure.
-  - **Out of scope:** A redress or remediation label that does not provide a real response in the matter this Constitution governs.
-<a id="redress-and-remediation-constitutional-a"></a>
-- **How to measure and assess**
-  - **Primary measure:** Accountability and Timeliness measurement families — used alongside any other relevant measures to assess responsibility and whether action happens without harmful delay.
-
-    **Primary assessment:** Apply [Accountability](core_05apex_accountability_leg.md#accountability), [Contestability](core_05defs_accountability.md#contestability), [Material Impact](core_05defs_oversight.md#material-impact), and [Proportionality](core_05defs_accountability.md#proportionality). Check whether remediation is fake, inaccessible, underfunded, impossible to carry out, or delayed without an end.
-<a id="redress-and-remediation-constitutional-c"></a>
-- **What must hold**
-  - It is non-compliant to withhold functional redress when Chapter Six or binding norms require it. Symbolic responses, punishment-only outcomes, or inaccessible remedy channels cannot replace effective remediation, especially when they defeat [Accountability](core_05apex_accountability_leg.md#accountability), [Contestability](core_05defs_accountability.md#contestability), or [Procedural Fairness](core_05defs_participation.md#procedural-fairness-constitutional).
-
----
-
-<a id="remedy-system"></a>
-<a id="remedy-system-constitutional"></a>
-
-#### Remedy System
-
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Canonical owner: [Chapter Nine §9](core_09-09_standing_integration.md#9-enforcement-realism) (*Enforcement realism and remedy systems*).
-- Implementation owner: [CI-27](corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md) (*Remedy systems and institutional redress capacity*).
-- Cluster component: [Chapter Five §3.31 *Adjudication and Dispute Resolution, Redress and Remediation, Restorative Justice, Review and Correction Duty, and Refuge from Non-Compliance*](core_05defs_accountability.md#accountability-contestability-semi-independent)
-- Read with: [Redress and Remediation](core_05defs_accountability.md#redress-and-remediation-constitutional), [Contestability](core_05defs_accountability.md#contestability), [Timely Resolution](core_05defs_accountability.md#timely-resolution-constitutional), [Accountability](core_05apex_accountability_leg.md#accountability), **Article XII-B** (*Right to Challenge, Review, and Redress*), and [Chapter Eleven](core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) (*primary-stakes forum supervision*).
-
-</details>
-
-<br>
-
-*In plain terms: the lasting personnel, institutions, processes, technology, and funding needed to make challenges and remedies work in practice — not just exist on paper.*
-
-- **What it is**
-  - **In scope:** The lasting institutional, administrative, technical, and financial capacity needed for practical challenge, intake, preservation, review, repair, compensation, monitoring, safeguard enforcement, lock review, and prevention of repeat harm. A Remedy System includes forums, oversight bodies, complaint offices, technical review bodies, and rights-sensitive administrative systems when those bodies must make redress real. It is the machinery that makes [Redress and Remediation](core_05defs_accountability.md#redress-and-remediation-constitutional) executable. It is not a dignity rank, reputation score, forum family, or replacement for primary-stakes merits authority.
-  - **Out of scope:** A remedy system that exists only as a label or paperwork; treating technical standards bodies as the command hierarchy for remedy institutions.
-<a id="remedy-system-constitutional-a"></a>
-<a id="remedy-system-a"></a>
-- **How to measure and assess**
-  - **Primary measure:** Accountability and Timeliness measurement families — used alongside any other relevant measures to assess responsibility and whether action happens without harmful delay.
-
-    **Primary assessment:** Apply [Chapter Nine §9](core_09-09_standing_integration.md#9-enforcement-realism), [Redress and Remediation](core_05defs_accountability.md#redress-and-remediation-constitutional), [Contestability](core_05defs_accountability.md#contestability), and [Timely Resolution](core_05defs_accountability.md#timely-resolution-constitutional). Look for paper-only pathways, deliberately created backlog, inaccessible intake, chronic underfunding, dependence on one fragile point, and remedy costs shifted to affected parties or public systems when responsible actors can lawfully bear them. Capacity, measurement, and milestone methods may be published under [Technical Forum Domains](core_11-11_forum.md#42-technical-forum-domains). The primary-stakes forum family remains accountable under [Chapter Eleven](core_11-11_forum.md#2-default-venue-and-primary-stakes) for staffing, funding, backlog, succession, and performance.
-<a id="remedy-system-constitutional-c"></a>
-<a id="remedy-system-c"></a>
-- **What must hold**
-  - It is non-compliant to run challenge or redress pathways that work only on paper; defeat [Redress and Remediation](core_05defs_accountability.md#redress-and-remediation-constitutional) or **Article XII-B** (*Right to Challenge, Review, and Redress*) through inadequate capacity, delay, capture, or cost-shifting; or treat ownership of technical-forum standards as command authority over remedy systems.
-
----
-
-<a id="restorative-justice"></a>
-
----
-
-#### Restorative Justice
-
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Cluster component: [Chapter Five §3.31 *Adjudication and Dispute Resolution, Redress and Remediation, Restorative Justice, Review and Correction Duty, and Refuge from Non-Compliance*](core_05defs_accountability.md#accountability-contestability-semi-independent)
-- Read with: [Redress and Remediation](core_05defs_accountability.md#redress-and-remediation-constitutional), [Procedural Fairness](core_05defs_participation.md#procedural-fairness-constitutional), and [Proportionality](core_05defs_accountability.md#proportionality).
-
-</details>
-
-<br>
-
-*In plain terms: when required and safe, focus on repairing harm, restoring affected sentients' agency and wellbeing, providing owed restitution, and fixing root causes — not on retaliation or suffering for its own sake.*
-
-- **What it is**
-  - **In scope:** When constitutionally applicable instruments require restorative responses, give priority to restoring affected sentients' agentic [Wellbeing](core_05defs_continuity.md#wellbeing), providing restitution where owed, and removing the root causes of harmful behavior. This priority comes before retaliation or suffering as an end in itself when restoration is proportionate and feasible under [Safety (Constraint)](core_05defs_continuity.md#safety-constraint) and [Truth (Constitutional Constraint)](core_05defs_oversight.md#truth-constitutional-constraint).
-  - **Out of scope:** A restorative label that does not produce a real restorative response in the matter this Constitution governs.
-<a id="restorative-justice-a"></a>
-- **How to measure and assess**
-  - **Primary measure:** Accountability and Timeliness measurement families — used alongside any other relevant measures to assess responsibility and whether action happens without harmful delay.
-
-    **Primary assessment:** Apply [Redress and Remediation](core_05defs_accountability.md#redress-and-remediation-constitutional), [Proportionality](core_05defs_accountability.md#proportionality), [Necessity](core_05defs_accountability.md#necessity), and [Dignity and Equal Moral Standing](core_05defs_participation.md#dignity-and-equal-moral-standing). **Article XII-B** (*Right to Challenge, Review, and Redress*) and designated incorporated implementation text may set procedures, but those procedures must preserve this restorative priority.
-<a id="restorative-justice-c"></a>
-- **What must hold**
-  - When binding instruments require restorative pathways, it is non-compliant to omit them, make them inaccessible, or replace them with retaliation-centered processes that block proportionate restoration ([Redress and Remediation](core_05defs_accountability.md#redress-and-remediation-constitutional); [Procedural Fairness](core_05defs_participation.md#procedural-fairness-constitutional)).
-
----
-
 ### Accountability: Semi-independent terms
 
 <a id="accountability-semi-independent-terms"></a>
 
+<a id="accountability-contestability-semi-independent"></a>
+
 #### Accountability, contestability, and redress pathways
 
-**Cluster context:** This semi-independent topic group establishes the foundational mechanisms for holding actors responsible and seeking correction of constitutional violations. It covers the attribution of responsibility ([Accountability](core_05apex_accountability_leg.md#accountability)), the ability to challenge and seek remedy ([Contestability](core_05defs_accountability.md#contestability)), formal pathways for resolving disputes ([Adjudication and Dispute Resolution](core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional)), fair and reviewable process for materially rights-affecting decisions and outcomes ([Due Process](core_05defs_accountability.md#due-process-constitutional)), principle-layer responsiveness across the coordination lifecycle ([Timeliness](core_05apex_timeliness_leg.md#timeliness-constitutional)), resolution within materiality-scaled windows ([Timely Resolution](core_05defs_accountability.md#timely-resolution-constitutional)), binding substantive dispositions in those pathways ([Merits Determination](core_05defs_accountability.md#merits-determination)), temporary pause or reliance-limit orders pending further review ([Stay](core_05defs_accountability.md#stay)), systemic failures where responsibility is diffused ([Collective Accountability Failure](core_05defs_accountability.md#collective-accountability-failure)), exceptional external disruptions ([Force Majeure](core_05defs_accountability.md#force-majeure-constitutional)), and protection against capture of outcome-determination mechanisms ([Capture of Resolution Pathways](core_05defs_accountability.md#capture-of-resolution-pathways)). These definitions operate together where review, redress, or resolution of constitutional claims is material.
+**Cluster context:** This semi-independent topic group establishes the foundational mechanisms for holding actors responsible and seeking correction of constitutional violations. It covers the attribution of responsibility ([Accountability](core_05apex_accountability_leg.md#accountability)), the ability to challenge and seek remedy ([Contestability](core_05defs_accountability.md#contestability)), fair and reviewable process for materially rights-affecting decisions and outcomes ([Due Process](core_05defs_accountability.md#due-process-constitutional)), formal pathways for resolving disputes ([Adjudication and Dispute Resolution](core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional)), binding substantive dispositions in those pathways ([Merits Determination](core_05defs_accountability.md#merits-determination)), temporary pause or reliance-limit orders pending further review ([Stay](core_05defs_accountability.md#stay)), principle-layer responsiveness across the coordination lifecycle ([Timeliness](core_05apex_timeliness_leg.md#timeliness-constitutional)), resolution within materiality-scaled windows ([Timely Resolution](core_05defs_accountability.md#timely-resolution-constitutional)), reasonably avoidable failures of care that produce material harm ([Negligence](core_05defs_accountability.md#negligence)), acknowledgment and proportionate correction ([Redress and Remediation](core_05defs_accountability.md#redress-and-remediation-constitutional)), the lasting capacity that makes those pathways work ([Remedy System](core_05defs_accountability.md#remedy-system-constitutional)), restorative priority where required ([Restorative Justice](core_05defs_accountability.md#restorative-justice)), systemic failures where responsibility is diffused ([Collective Accountability Failure](core_05defs_accountability.md#collective-accountability-failure)), exceptional external disruptions ([Force Majeure](core_05defs_accountability.md#force-majeure-constitutional)), and protection against capture of outcome-determination mechanisms ([Capture of Resolution Pathways](core_05defs_accountability.md#capture-of-resolution-pathways)). These definitions operate together where review, redress, or resolution of constitutional claims is material.
 
 **Topic group members.** This group comprises:
 - [Accountability](core_05apex_accountability_leg.md#accountability);
 - [Contestability](core_05defs_accountability.md#contestability);
-- [Adjudication and Dispute Resolution](core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional);
 - [Due Process](core_05defs_accountability.md#due-process-constitutional);
-- [Timeliness](core_05apex_timeliness_leg.md#timeliness-constitutional);
-- [Timely Resolution](core_05defs_accountability.md#timely-resolution-constitutional);
+- [Adjudication and Dispute Resolution](core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional);
 - [Merits Determination](core_05defs_accountability.md#merits-determination);
 - [Stay](core_05defs_accountability.md#stay);
+- [Timeliness](core_05apex_timeliness_leg.md#timeliness-constitutional);
+- [Timely Resolution](core_05defs_accountability.md#timely-resolution-constitutional);
+- [Negligence](core_05defs_accountability.md#negligence);
+- [Redress and Remediation](core_05defs_accountability.md#redress-and-remediation-constitutional);
+- [Remedy System](core_05defs_accountability.md#remedy-system-constitutional);
+- [Restorative Justice](core_05defs_accountability.md#restorative-justice);
 - [Collective Accountability Failure](core_05defs_accountability.md#collective-accountability-failure);
 - [Force Majeure](core_05defs_accountability.md#force-majeure-constitutional);
 - [Capture of Resolution Pathways](core_05defs_accountability.md#capture-of-resolution-pathways).
 
-*Measurements (family routing):* Accountability measurement family and Timeliness measurement family — operative tiers on [Accountability](core_05apex_accountability_leg.md#accountability), [Contestability](core_05defs_accountability.md#contestability), [Timeliness](core_05apex_timeliness_leg.md#timeliness-constitutional), [Timely Resolution](core_05defs_accountability.md#timely-resolution-constitutional), and [Capture of Resolution Pathways](core_05defs_accountability.md#capture-of-resolution-pathways) below; progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md).
+*Measurements (family routing):* Accountability measurement family and Timeliness measurement family — operative tiers on [Accountability](core_05apex_accountability_leg.md#accountability), [Contestability](core_05defs_accountability.md#contestability), [Due Process](core_05defs_accountability.md#due-process-constitutional), [Timeliness](core_05apex_timeliness_leg.md#timeliness-constitutional), [Timely Resolution](core_05defs_accountability.md#timely-resolution-constitutional), [Negligence](core_05defs_accountability.md#negligence), [Redress and Remediation](core_05defs_accountability.md#redress-and-remediation-constitutional), [Remedy System](core_05defs_accountability.md#remedy-system-constitutional), [Restorative Justice](core_05defs_accountability.md#restorative-justice), and [Capture of Resolution Pathways](core_05defs_accountability.md#capture-of-resolution-pathways) below; progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md).
 
 ---
+
 <a id="contestability"></a>
 
----
 #### Contestability
 
 <details>
@@ -497,40 +386,6 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
   - **Tertiary failure:** The system treats a challenge process as sufficient merely because it exists on paper, even when it is reasonably clear that the process does not work in practice ([Proxy Divergence](core_05defs_oversight.md#proxy-divergence)).
 
 
-<a id="adjudication-and-dispute-resolution-constitutional"></a>
-
----
-#### Adjudication and Dispute Resolution
-
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Downstream: Principles: [6. Process Conflict Resolution](core_05apex_accountability_leg.md#6-process-conflict-resolution); [§6.3.1 Rights-Collision Decision Test](core_05apex_accountability_leg.md#631-rights-collision-decision-test) (collision procedure and review pathways).
-- Cluster component: [the dependent cluster *Accountability, Contestability, Adjudication and Dispute Resolution, Collective Accountability Failure, and Force Majeure*](core_05defs_integrative.md#accountability-contestability-and-collective-accountability-failure-cluster) where attribution, challenge routing, adjudication mechanics, diffusion, collective failure, or force-majeure relief are materially implicated; [the dependent cluster *Adjudication and Dispute Resolution, Redress and Remediation, Restorative Justice, Review and Correction Duty, and Refuge from Non-Compliance*](core_05defs_accountability.md#accountability-contestability-semi-independent) where remediation, restorative posture, stewardship review correction, continuity of adjudication-access, or refuge from material non-compliance are materially implicated.
-- Read with: the [Accountability, Contestability, Adjudication and Dispute Resolution, Collective Accountability Failure, and Force Majeure cluster](core_05defs_integrative.md#accountability-contestability-and-collective-accountability-failure-cluster), [Contestability](core_05defs_accountability.md#contestability), [Due Process](core_05defs_accountability.md#due-process-constitutional), [Merits Determination](core_05defs_accountability.md#merits-determination), [Procedural Fairness](core_05defs_participation.md#procedural-fairness-constitutional), and [Redress and Remediation](core_05defs_accountability.md#redress-and-remediation-constitutional).
-- Read with: owner layers in [core_11-11_forum.md](core_11-11_forum.md), [corpus_institutions.md](corpus_institutions.md), and [corpus_forum.md](corpus_forum.md).
-
-</details>
-
-<br>
-
-*In plain terms: accessible and impartial ways to resolve claims that rights or constitutional requirements were violated, with fair process, reasoned decisions, timely outcomes, and remedies that fit the findings.*
-
-- **What it is**
-  - **In scope:** Impartial, accessible pathways for reviewing and resolving claims that systems or actors violated rights or constitutional requirements. These pathways must produce timely, reasoned outcomes consistent with [Due Process](core_05defs_accountability.md#due-process-constitutional) and [Procedural Fairness](core_05defs_participation.md#procedural-fairness-constitutional). Remedies must be proportionate to the findings under [Redress and Remediation](core_05defs_accountability.md#redress-and-remediation-constitutional). <a id="adjudicator"></a> An `adjudicator` is a sentient, panel member, judicial officer, or equivalent authorized decision-maker with lawful authority to decide contested claims, issue [Merits Determinations](core_05defs_accountability.md#merits-determination), grant or deny relief, or make binding procedural decisions in an adjudicative matter. Clerical, investigative, analytical, forensic, technical, scheduling, intake, and coordination roles are not adjudicators unless a governing instrument separately gives them lawful decision-making authority for the matter at issue.
-  - **Out of scope:** A dispute-resolution pathway that exists only as a label or paperwork and has no real effect in the situation being evaluated.
-<a id="adjudication-and-dispute-resolution-constitutional-a"></a>
-- **How to measure and assess**
-  - **Primary measure:** Accountability and Timeliness measurement families — used together to assess whether dispute-resolution pathways are answerable and timely.
-
-    **Primary assessment:**
-    - Apply [Due Process](core_05defs_accountability.md#due-process-constitutional), [Procedural Fairness](core_05defs_participation.md#procedural-fairness-constitutional), [Contestability](core_05defs_accountability.md#contestability), [Timely Resolution](core_05defs_accountability.md#timely-resolution-constitutional), [Merits Determination](core_05defs_accountability.md#merits-determination), [Redress and Remediation](core_05defs_accountability.md#redress-and-remediation-constitutional), and resistance to [System Capture](core_05defs_continuity.md#system-capture).
-    - Requirements for access, review, restoration, and timely resolution are governed here, in [Due Process](core_05defs_accountability.md#due-process-constitutional), [Timely Resolution](core_05defs_accountability.md#timely-resolution-constitutional), **Article XII-B** (*Right to Challenge, Review, and Redress*), and **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*).
-    - Designated incorporated governance, institutional, and forum texts may set owner-layer procedures, but they must not narrow this definition.
-<a id="adjudication-and-dispute-resolution-constitutional-c"></a>
-- **What must hold**
-  - It is non-compliant to deny access when Chapter Six or binding instruments require it; capture forum decision power to prevent meaningful review; materially exceed **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*) tier windows without a lawful extension; or use delay instead of deciding the merits.
-
 
 <a id="due-process-constitutional"></a>
 
@@ -564,45 +419,41 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
   - It is non-compliant to decide a materially impactful outcome without timely notice, a meaningful chance to be heard, understandable reasons, impartial or appropriately independent structures where adjudication applies, a way to contest or seek secondary review, or traceability under Chapters Two through Four. Emergency, automation, delegation, private ordering, or technical complexity cannot be used to defeat required process.
 
 
----
-<a id="timely-resolution-constitutional"></a>
+
+<a id="adjudication-and-dispute-resolution-constitutional"></a>
 
 ---
-#### Timely Resolution
+#### Adjudication and Dispute Resolution
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Timeliness](core_05apex_timeliness_leg.md#timeliness-constitutional) (*implements timeliness leg for resolution pathways*).
-- Downstream: Timeliness measurement family (*Timely Resolution as constitutional measurement*); **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*) ([core_06-06_rights_part_d.md](core_06-06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor)); [Chapter Eleven §6](core_11-11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*materiality tiers and pipeline milestones*); **Article XII-B** (*Right to Challenge, Review, and Redress*); [Chapter Nine §9.2](core_09-09_standing_integration.md#82-remedy-system-durability) (*remedy-organ durability*); [Chapter Eleven](core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) (*forum intake and routing*).
-- Cluster component: [the dependent cluster *Accountability, Contestability, Adjudication and Dispute Resolution, Collective Accountability Failure, and Force Majeure*](core_05defs_integrative.md#accountability-contestability-and-collective-accountability-failure-cluster).
-- Read with: [Adjudication and Dispute Resolution](core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional), [Constitutional Efficiency](core_05defs_continuity.md#constitutional-efficiency), [Avoidable Burden](core_05defs_continuity.md#avoidable-burden), [Capture of Resolution Pathways](core_05defs_accountability.md#capture-of-resolution-pathways), [Procedural Fairness](core_05defs_participation.md#procedural-fairness-constitutional), [Materiality Determination](core_05defs_oversight.md#materiality-determination), and [README — Standing pipeline and forums](README.md#standing-pipeline-and-forums).
+- Downstream: Principles: [6. Process Conflict Resolution](core_05apex_accountability_leg.md#6-process-conflict-resolution); [§6.3.1 Rights-Collision Decision Test](core_05apex_accountability_leg.md#631-rights-collision-decision-test) (collision procedure and review pathways).
+- Cluster component: [the dependent cluster *Accountability, Contestability, Adjudication and Dispute Resolution, Collective Accountability Failure, and Force Majeure*](core_05defs_integrative.md#accountability-contestability-and-collective-accountability-failure-cluster) where attribution, challenge routing, adjudication mechanics, diffusion, collective failure, or force-majeure relief are materially implicated.
+- Read with: [Accountability, contestability, and redress pathways](core_05defs_accountability.md#accountability-contestability-semi-independent) where remediation, restorative posture, remedy-system capacity, or negligence-linked correction are materially implicated; the [Accountability, Contestability, Adjudication and Dispute Resolution, Collective Accountability Failure, and Force Majeure cluster](core_05defs_integrative.md#accountability-contestability-and-collective-accountability-failure-cluster), [Contestability](core_05defs_accountability.md#contestability), [Due Process](core_05defs_accountability.md#due-process-constitutional), [Merits Determination](core_05defs_accountability.md#merits-determination), [Procedural Fairness](core_05defs_participation.md#procedural-fairness-constitutional), and [Redress and Remediation](core_05defs_accountability.md#redress-and-remediation-constitutional).
+- Read with: owner layers in [core_11-11_forum.md](core_11-11_forum.md), [corpus_institutions.md](corpus_institutions.md), and [corpus_forum.md](corpus_forum.md).
 
 </details>
 
 <br>
 
-*In plain terms: resolve serious constitutional disputes and deliver proportionate remedies within deadlines that match the stakes, without avoidable delay, exhaustion tactics, or captured pathways — and without sacrificing fact-checking or appeal rights for speed.*
+*In plain terms: accessible and impartial ways to resolve claims that rights or constitutional requirements were violated, with fair process, reasoned decisions, timely outcomes, and remedies that fit the findings.*
 
 - **What it is**
-  - **In scope:** Resolve material constitutional disputes, verify standing records, and provide proportionate remedies within the materiality-scaled windows in **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*). Outcomes must be verified and must avoid unnecessary delay, tactics that exhaust participants, and capture of resolution pathways.
-  - **Out of scope:** A timely-resolution label or deadline that has no real effect in the situation being evaluated.
-<a id="timely-resolution-constitutional-a"></a>
+  - **In scope:** Impartial, accessible pathways for reviewing and resolving claims that systems or actors violated rights or constitutional requirements. These pathways must produce timely, reasoned outcomes consistent with [Due Process](core_05defs_accountability.md#due-process-constitutional) and [Procedural Fairness](core_05defs_participation.md#procedural-fairness-constitutional). Remedies must be proportionate to the findings under [Redress and Remediation](core_05defs_accountability.md#redress-and-remediation-constitutional). <a id="adjudicator"></a> An `adjudicator` is a sentient, panel member, judicial officer, or equivalent authorized decision-maker with lawful authority to decide contested claims, issue [Merits Determinations](core_05defs_accountability.md#merits-determination), grant or deny relief, or make binding procedural decisions in an adjudicative matter. Clerical, investigative, analytical, forensic, technical, scheduling, intake, and coordination roles are not adjudicators unless a governing instrument separately gives them lawful decision-making authority for the matter at issue.
+  - **Out of scope:** A dispute-resolution pathway that exists only as a label or paperwork and has no real effect in the situation being evaluated.
+<a id="adjudication-and-dispute-resolution-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Timeliness measurement family — checks whether a matter moves toward resolution and is decided within the time its importance and urgency require.
+  - **Primary measure:** Accountability and Timeliness measurement families — used together to assess whether dispute-resolution pathways are answerable and timely.
 
-    **Primary assessment:** Apply the materiality tiers and pipeline-stage milestones in [Chapter Eleven §6](core_11-11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) under **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*). Measure timely access and verification, not just the number of matters processed.
-  - **Secondary measure:** [Timeliness](core_05apex_timeliness_leg.md#timeliness-constitutional), [Adjudication and Dispute Resolution](core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional), [Capture of Resolution Pathways](core_05defs_accountability.md#capture-of-resolution-pathways), and [Contestability](core_05defs_accountability.md#contestability) — co-measures that can defeat timely resolution even when pipeline metrics appear on track.
-
-    **Secondary assessment:** When evaluating the primary trace, read with [Adjudication and Dispute Resolution](core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional), [Capture of Resolution Pathways](core_05defs_accountability.md#capture-of-resolution-pathways), [Constitutional Efficiency](core_05defs_continuity.md#constitutional-efficiency), [Avoidable Burden](core_05defs_continuity.md#avoidable-burden), and [Procedural Fairness](core_05defs_participation.md#procedural-fairness-constitutional). Speed does not excuse skipping checked facts under [Chapters Two through Four](core_02-03_definition_mechanics.md), the joint requirements of **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*), or core challenge and appeal rights.
-  - **Tertiary measure:** [Proxy Divergence](core_05defs_oversight.md#proxy-divergence) — where throughput, milestone, or deadline metrics substitute for remedy while harm persists.
-
-    **Tertiary assessment:** When operators rely on throughput or completed milestones, apply [Proxy Divergence](core_05defs_oversight.md#proxy-divergence). Separate lasting Timely Resolution from speed that produces no real remedy.
-<a id="timely-resolution-constitutional-c"></a>
+    **Primary assessment:**
+    - Apply [Due Process](core_05defs_accountability.md#due-process-constitutional), [Procedural Fairness](core_05defs_participation.md#procedural-fairness-constitutional), [Contestability](core_05defs_accountability.md#contestability), [Timely Resolution](core_05defs_accountability.md#timely-resolution-constitutional), [Merits Determination](core_05defs_accountability.md#merits-determination), [Redress and Remediation](core_05defs_accountability.md#redress-and-remediation-constitutional), and resistance to [System Capture](core_05defs_continuity.md#system-capture).
+    - Requirements for access, review, restoration, and timely resolution are governed here, in [Due Process](core_05defs_accountability.md#due-process-constitutional), [Timely Resolution](core_05defs_accountability.md#timely-resolution-constitutional), **Article XII-B** (*Right to Challenge, Review, and Redress*), and **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*).
+    - Designated incorporated governance, institutional, and forum texts may set owner-layer procedures, but they must not narrow this definition.
+<a id="adjudication-and-dispute-resolution-constitutional-c"></a>
 - **What must hold**
-  - **Primary failure:** Deliberately created backlog; delay designed to exhaust claimants; leaving matters pending indefinitely without a documented, tier-appropriate extension; or self-created delay.
-  - **Secondary failure:** Forum shopping or splitting records to prolong resolution; or efficiency claims used to skip verification, individual attribution, or appeal rights.
-  - **Tertiary failure:** Treating a met pipeline target or deadline as decisive when [Proxy Divergence](core_05defs_oversight.md#proxy-divergence) is reasonably observable, or delaying repair after notice when correction was feasible.
+  - It is non-compliant to deny access when Chapter Six or binding instruments require it; capture forum decision power to prevent meaningful review; materially exceed **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*) tier windows without a lawful extension; or use delay instead of deciding the merits.
+
 
 
 <a id="merits-determination"></a>
@@ -654,6 +505,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
   - It is non-compliant for support, oversight, forensic, investigative, or monitoring roles to issue binding merits outcomes without separate lawful authority. Those roles cannot pre-decide substantive issues assigned to a lawfully constituted merits forum, and routing, intake, or contest-integrity findings cannot be treated as final merits decisions.
 
 
+
 <a id="stay"></a>
 
 ---
@@ -682,6 +534,278 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
 <a id="stay-c"></a>
 - **What must hold**
   - It is non-compliant to use informal delay or silence instead of a documented Stay when one is required; keep a Stay indefinite without a documented review trigger or prompt tier-appropriate review; block [Contestability](core_05defs_accountability.md#contestability) or required component review; treat a Stay as final approval or a merits decision; label a [Merits Determination](core_05defs_accountability.md#merits-determination) as a Stay; include merits outcomes without a separate merits ruling; or refuse to lift or narrow a Stay after review is complete or its stated grounds no longer hold.
+
+
+
+---
+<a id="timely-resolution-constitutional"></a>
+
+---
+#### Timely Resolution
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: [Timeliness](core_05apex_timeliness_leg.md#timeliness-constitutional) (*implements timeliness leg for resolution pathways*).
+- Downstream: Timeliness measurement family (*Timely Resolution as constitutional measurement*); **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*) ([core_06-06_rights_part_d.md](core_06-06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor)); [Chapter Eleven §6](core_11-11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*materiality tiers and pipeline milestones*); **Article XII-B** (*Right to Challenge, Review, and Redress*); [Chapter Nine §9.2](core_09-09_standing_integration.md#82-remedy-system-durability) (*remedy-organ durability*); [Chapter Eleven](core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) (*forum intake and routing*).
+- Cluster component: [the dependent cluster *Accountability, Contestability, Adjudication and Dispute Resolution, Collective Accountability Failure, and Force Majeure*](core_05defs_integrative.md#accountability-contestability-and-collective-accountability-failure-cluster).
+- Read with: [Adjudication and Dispute Resolution](core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional), [Constitutional Efficiency](core_05defs_continuity.md#constitutional-efficiency), [Avoidable Burden](core_05defs_continuity.md#avoidable-burden), [Capture of Resolution Pathways](core_05defs_accountability.md#capture-of-resolution-pathways), [Procedural Fairness](core_05defs_participation.md#procedural-fairness-constitutional), [Materiality Determination](core_05defs_oversight.md#materiality-determination), and [README — Standing pipeline and forums](README.md#standing-pipeline-and-forums).
+
+</details>
+
+<br>
+
+*In plain terms: resolve serious constitutional disputes and deliver proportionate remedies within deadlines that match the stakes, without avoidable delay, exhaustion tactics, or captured pathways — and without sacrificing fact-checking or appeal rights for speed.*
+
+- **What it is**
+  - **In scope:** Resolve material constitutional disputes, verify standing records, and provide proportionate remedies within the materiality-scaled windows in **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*). Outcomes must be verified and must avoid unnecessary delay, tactics that exhaust participants, and capture of resolution pathways.
+  - **Out of scope:** A timely-resolution label or deadline that has no real effect in the situation being evaluated.
+<a id="timely-resolution-constitutional-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** Timeliness measurement family — checks whether a matter moves toward resolution and is decided within the time its importance and urgency require.
+
+    **Primary assessment:** Apply the materiality tiers and pipeline-stage milestones in [Chapter Eleven §6](core_11-11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) under **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*). Measure timely access and verification, not just the number of matters processed.
+  - **Secondary measure:** [Timeliness](core_05apex_timeliness_leg.md#timeliness-constitutional), [Adjudication and Dispute Resolution](core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional), [Capture of Resolution Pathways](core_05defs_accountability.md#capture-of-resolution-pathways), and [Contestability](core_05defs_accountability.md#contestability) — co-measures that can defeat timely resolution even when pipeline metrics appear on track.
+
+    **Secondary assessment:** When evaluating the primary trace, read with [Adjudication and Dispute Resolution](core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional), [Capture of Resolution Pathways](core_05defs_accountability.md#capture-of-resolution-pathways), [Constitutional Efficiency](core_05defs_continuity.md#constitutional-efficiency), [Avoidable Burden](core_05defs_continuity.md#avoidable-burden), and [Procedural Fairness](core_05defs_participation.md#procedural-fairness-constitutional). Speed does not excuse skipping checked facts under [Chapters Two through Four](core_02-03_definition_mechanics.md), the joint requirements of **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*), or core challenge and appeal rights.
+  - **Tertiary measure:** [Proxy Divergence](core_05defs_oversight.md#proxy-divergence) — where throughput, milestone, or deadline metrics substitute for remedy while harm persists.
+
+    **Tertiary assessment:** When operators rely on throughput or completed milestones, apply [Proxy Divergence](core_05defs_oversight.md#proxy-divergence). Separate lasting Timely Resolution from speed that produces no real remedy.
+<a id="timely-resolution-constitutional-c"></a>
+- **What must hold**
+  - **Primary failure:** Deliberately created backlog; delay designed to exhaust claimants; leaving matters pending indefinitely without a documented, tier-appropriate extension; or self-created delay.
+  - **Secondary failure:** Forum shopping or splitting records to prolong resolution; or efficiency claims used to skip verification, individual attribution, or appeal rights.
+  - **Tertiary failure:** Treating a met pipeline target or deadline as decisive when [Proxy Divergence](core_05defs_oversight.md#proxy-divergence) is reasonably observable, or delaying repair after notice when correction was feasible.
+
+
+<a id="negligence"></a>
+
+#### Negligence
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Cluster component: [Accountability, contestability, and redress pathways](core_05defs_accountability.md#accountability-contestability-semi-independent)
+- Read with: [Accountability](core_05apex_accountability_leg.md#accountability), [Proportionality](core_05defs_accountability.md#proportionality), [Foreseeability Diligence](core_05defs_oversight.md#foreseeability-diligence), [Materiality Determination](core_05defs_oversight.md#materiality-determination), [Harm](core_05defs_accountability.md#harm), and [Redress and Remediation](core_05defs_accountability.md#redress-and-remediation-constitutional).
+
+</details>
+
+<br>
+
+*In plain terms: a reasonably avoidable failure to take the care, action, or timely response needed to prevent or reduce serious harm when there was a duty and real ability to act.*
+
+- **What it is**
+  - **In scope:** A failure to use the care, diligence, or timely response reasonably needed to prevent or reduce material [Harm](core_05defs_accountability.md#harm). The harm may affect:
+    - sentients;
+    - [Environmental Preconditions](core_05defs_continuity.md#environmental-preconditions-constitutional);
+    - [Ecological Integrity](core_05defs_continuity.md#ecological-integrity-constitutional); or
+    - dependent systems.
+
+    The failure is Negligence only when it was reasonably avoidable under [Foreseeability Diligence](core_05defs_oversight.md#foreseeability-diligence) and [Materiality Determination](core_05defs_oversight.md#materiality-determination). Neglect includes prolonged inattention to:
+    - known warning signs;
+    - foreseeable deterioration; or
+    - trauma-producing conditions
+
+    when a duty and meaningful capacity to act existed.
+  - **Out of scope:** A negligence label that does not reflect what actually happened in the matter this Constitution governs.
+<a id="negligence-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** Accountability and Timeliness measurement families — used alongside any other relevant measures to assess responsibility and whether action happens without harmful delay.
+
+    **Primary assessment:** Apply [Accountability](core_05apex_accountability_leg.md#accountability), [Proportionality](core_05defs_accountability.md#proportionality), [Material Risk](core_05defs_oversight.md#material-risk), and system-wide evaluation. Separate:
+
+    - excusable uncertainty; from
+    - blameworthy inaction;
+    - passive acceptance of harmful conditions; or
+    - an inadequate response.
+
+    Assess [Psychological Harm](core_05defs_accountability.md#psychological-harm) along with physical and system-wide harm.
+<a id="negligence-c"></a>
+- **What must hold**
+  - Persistent or systemic Negligence is non-compliant, including passively accepting known harmful conditions in ways that:
+    - materially devalue [Dignity and Equal Moral Standing](core_05defs_participation.md#dignity-and-equal-moral-standing); or
+    - prevent action against foreseeable harm.
+
+
+---
+
+<a id="redress-and-remediation-constitutional"></a>
+
+#### Redress and Remediation
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Cluster component: [Accountability, contestability, and redress pathways](core_05defs_accountability.md#accountability-contestability-semi-independent)
+- Read with: [Accountability](core_05apex_accountability_leg.md#accountability), [Contestability](core_05defs_accountability.md#contestability), [Procedural Fairness](core_05defs_participation.md#procedural-fairness-constitutional), and [Proportionality](core_05defs_accountability.md#proportionality).
+
+</details>
+
+<br>
+
+*In plain terms: acknowledge serious harm or rights failures, provide a usable path to correct them, and deliver a remedy that fits the findings — including repair for delayed, indirect, widespread, or structural harm.*
+
+- **What it is**
+  - **In scope:** Acknowledgment, correction pathways, and proportionate remedies for:
+    - material [Harm](core_05defs_accountability.md#harm);
+    - rights-affecting failures; or
+    - conduct that degrades [Trustworthiness](core_05defs_continuity.md#trustworthiness).
+
+    This includes:
+    - delayed harm;
+    - indirect harm;
+    - combined harm; and
+    - system-wide harm.
+
+    Remedies may include:
+    - restitution;
+    - compensation;
+    - restoration;
+    - correction;
+    - disgorgement or clawback where lawful;
+    - substitute safeguards when literal repair is impossible; and
+    - system-wide remediation when harm affects a class or comes from a structural failure.
+  - **Out of scope:** A redress, remediation, or resolution label that leaves the problem unsolved in the matter this Constitution governs.
+<a id="redress-and-remediation-constitutional-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** Accountability and Timeliness measurement families — used alongside any other relevant measures to assess responsibility and whether action happens without harmful delay.
+
+    **Primary assessment:** Apply [Accountability](core_05apex_accountability_leg.md#accountability), [Contestability](core_05defs_accountability.md#contestability), [Material Impact](core_05defs_oversight.md#material-impact), and [Proportionality](core_05defs_accountability.md#proportionality). Check whether remediation is:
+    - fake;
+    - inaccessible;
+    - underfunded;
+    - impossible to carry out; or
+    - delayed without an end.
+<a id="redress-and-remediation-constitutional-c"></a>
+- **What must hold**
+  - It is non-compliant to withhold functional redress when Chapter Six or binding norms require it. Symbolic responses, punishment-only outcomes, or inaccessible remedy channels cannot replace effective remediation, especially when they defeat:
+    - [Accountability](core_05apex_accountability_leg.md#accountability);
+    - [Contestability](core_05defs_accountability.md#contestability); or
+    - [Procedural Fairness](core_05defs_participation.md#procedural-fairness-constitutional).
+
+
+---
+
+<a id="remedy-system"></a>
+<a id="remedy-system-constitutional"></a>
+
+#### Remedy System
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Canonical owner: [Chapter Nine §9](core_09-09_standing_integration.md#9-enforcement-realism) (*Enforcement realism and remedy systems*).
+- Implementation owner: [CI-27](corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md) (*Remedy systems and institutional redress capacity*).
+- Cluster component: [Accountability, contestability, and redress pathways](core_05defs_accountability.md#accountability-contestability-semi-independent)
+- Read with: [Redress and Remediation](core_05defs_accountability.md#redress-and-remediation-constitutional), [Contestability](core_05defs_accountability.md#contestability), [Timely Resolution](core_05defs_accountability.md#timely-resolution-constitutional), [Psychological Harm](core_05defs_accountability.md#psychological-harm), [Accountability](core_05apex_accountability_leg.md#accountability), **Article XII-B** (*Right to Challenge, Review, and Redress*), and [Chapter Eleven](core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) (*primary-stakes forum supervision*).
+
+</details>
+
+<br>
+
+*In plain terms: the lasting personnel, institutions, processes, technology, and funding needed to make challenges and remedies work in practice — not just exist on paper.*
+
+- **What it is**
+  - **In scope:** The lasting capacity needed for practical challenge and remedy, covering:
+    - institutional capacity;
+    - administrative capacity;
+    - technical capacity; and
+    - financial capacity.
+
+    That capacity supports:
+    - intake;
+    - preservation;
+    - review;
+    - repair;
+    - compensation;
+    - trauma resolution;
+    - physical trauma recovery;
+    - monitoring;
+    - safeguard enforcement;
+    - lock review; and
+    - prevention of repeat harm.
+
+    A Remedy System includes forums, oversight bodies, complaint offices, technical review bodies, and rights-sensitive administrative systems when those bodies must make redress real. It is the machinery that makes [Redress and Remediation](core_05defs_accountability.md#redress-and-remediation-constitutional) executable. It is not:
+    - a dignity rank;
+    - a reputation score;
+    - a forum family; or
+    - a replacement for primary-stakes merits authority.
+  - **Out of scope:**
+    - a remedy system that exists only as a label or paperwork; or
+    - treating technical standards bodies as the command hierarchy for remedy institutions.
+<a id="remedy-system-constitutional-a"></a>
+<a id="remedy-system-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** Accountability and Timeliness measurement families — used alongside any other relevant measures to assess responsibility and whether action happens without harmful delay.
+
+    **Primary assessment:** Apply [Chapter Nine §9](core_09-09_standing_integration.md#9-enforcement-realism), [Redress and Remediation](core_05defs_accountability.md#redress-and-remediation-constitutional), [Contestability](core_05defs_accountability.md#contestability), [Timely Resolution](core_05defs_accountability.md#timely-resolution-constitutional), and [Psychological Harm](core_05defs_accountability.md#psychological-harm) where trauma is materially implicated. Look for:
+    - paper-only pathways;
+    - deliberately created backlog;
+    - inaccessible intake;
+    - missing or inaccessible trauma-resolution or physical-trauma-recovery capacity;
+    - chronic underfunding;
+    - dependence on one fragile point; and
+    - remedy costs shifted to affected parties or public systems when responsible actors can lawfully bear them.
+
+    Capacity, measurement, and milestone methods may be published under [Technical Forum Domains](core_11-11_forum.md#42-technical-forum-domains). The primary-stakes forum family remains accountable under [Chapter Eleven](core_11-11_forum.md#2-default-venue-and-primary-stakes) for staffing, funding, backlog, succession, and performance.
+<a id="remedy-system-constitutional-c"></a>
+<a id="remedy-system-c"></a>
+- **What must hold**
+  - It is non-compliant to:
+    - run challenge or redress pathways that work only on paper;
+    - leave trauma unresolved or physical trauma unrecovered where remedy capacity is required and feasible;
+    - defeat [Redress and Remediation](core_05defs_accountability.md#redress-and-remediation-constitutional) or **Article XII-B** (*Right to Challenge, Review, and Redress*) through inadequate capacity, delay, capture, or cost-shifting; or
+    - treat ownership of technical-forum standards as command authority over remedy systems.
+
+
+---
+
+<a id="restorative-justice"></a>
+
+#### Restorative Justice
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Cluster component: [Accountability, contestability, and redress pathways](core_05defs_accountability.md#accountability-contestability-semi-independent)
+- Read with: [Redress and Remediation](core_05defs_accountability.md#redress-and-remediation-constitutional), [Procedural Fairness](core_05defs_participation.md#procedural-fairness-constitutional), and [Proportionality](core_05defs_accountability.md#proportionality).
+
+</details>
+
+<br>
+
+*In plain terms: when required and safe, focus on repairing harm, restoring affected sentients' agency and wellbeing, providing owed restitution, and fixing root causes — not on retaliation or suffering for its own sake.*
+
+- **What it is**
+  - **In scope:** When constitutionally applicable instruments require restorative responses, give priority to:
+    - restoring affected sentients' agentic [Wellbeing](core_05defs_continuity.md#wellbeing);
+    - providing restitution where owed; and
+    - removing the root causes of harmful behavior.
+
+    This priority comes before retaliation or suffering as an end in itself when restoration is proportionate and feasible under:
+    - [Safety (Constraint)](core_05defs_continuity.md#safety-constraint); and
+    - [Truth (Constitutional Constraint)](core_05defs_oversight.md#truth-constitutional-constraint).
+  - **Out of scope:** A restorative label that does not produce a real restorative response in the matter this Constitution governs.
+<a id="restorative-justice-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** Accountability and Timeliness measurement families — used alongside any other relevant measures to assess responsibility and whether action happens without harmful delay.
+
+    **Primary assessment:** Apply:
+    - [Redress and Remediation](core_05defs_accountability.md#redress-and-remediation-constitutional);
+    - [Proportionality](core_05defs_accountability.md#proportionality);
+    - [Necessity](core_05defs_accountability.md#necessity); and
+    - [Dignity and Equal Moral Standing](core_05defs_participation.md#dignity-and-equal-moral-standing).
+
+    **Article XII-B** (*Right to Challenge, Review, and Redress*) and designated incorporated implementation text may set procedures, but those procedures must preserve this restorative priority.
+<a id="restorative-justice-c"></a>
+- **What must hold**
+  - When binding instruments require restorative pathways, it is non-compliant to:
+    - omit them;
+    - make them inaccessible; or
+    - replace them with retaliation-centered processes that block proportionate restoration
+
+    ([Redress and Remediation](core_05defs_accountability.md#redress-and-remediation-constitutional); [Procedural Fairness](core_05defs_participation.md#procedural-fairness-constitutional)).
+
 
 
 <a id="collective-accountability-failure"></a>
@@ -715,6 +839,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
   - **Secondary failure:** Actors with meaningful capacity fail to proportionately resist, contest, document, or escalate unlawful directives when [Accountability](core_05apex_accountability_leg.md#accountability) and [Redress and Remediation](core_05defs_accountability.md#redress-and-remediation-constitutional) are materially implicated.
 
 
+
 <a id="force-majeure-constitutional"></a>
 
 ---
@@ -743,6 +868,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
 <a id="force-majeure-constitutional-c"></a>
 - **What must hold**
   - It is non-compliant to treat Force Majeure as a permanent waiver of [Safety (Constraint)](core_05defs_continuity.md#safety-constraint), [Truth (Constitutional Constraint)](core_05defs_oversight.md#truth-constitutional-constraint), [Contestability](core_05defs_accountability.md#contestability), or audit. It is also non-compliant to call foreseeable risks unforeseeable without [Foreseeability Diligence](core_05defs_oversight.md#foreseeability-diligence).
+
 
 
 <a id="capture-of-resolution-pathways"></a>
@@ -787,6 +913,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
 <a id="protected-reporting-semi-independent"></a>
 
 ---
+
 
 #### Protected reporting and anti-retaliation
 
@@ -2375,9 +2502,15 @@ Outside that scope, an individual Chapter Eight through Chapter Ten hook may sti
 <br>
 
 
-This cluster is the joint-invocation home for overt use of force, weapons of mass harm, autonomous lethal systems, autonomous coercion tools, combatant and non-combatant discipline, and adjacent existential-risk, reversibility, and redress interfaces where materially interdependent under **Article XIII-B** (*Use of Force, Armed Conflict, and Military-Power Limits*) and **Article XIII-C** (*Autonomous Lethal Systems and Autonomous Coercion Tools*).
+This cluster is the joint-invocation home for overt force, weapons of mass harm, autonomous lethal and coercion systems, and combatant / non-combatant discipline under **Article XIII-B** (*Use of Force, Armed Conflict, and Military-Power Limits*) and **Article XIII-C** (*Autonomous Lethal Systems and Autonomous Coercion Tools*), including adjacent existential-risk, reversibility, and redress interfaces where those are materially interdependent.
 
-**Admission scope.** This cluster applies where a matter materially concerns overt force deployment, targeting discipline, weapons whose harm scale implicates environmental or existential-risk scrutiny, autonomous lethal or coercive systems, or coercion pathways that intersect autonomous tools. Outside that admission scope, individual definitions may operate as supporting Independent Definitions without importing the whole cluster.
+**Admission scope.** This cluster applies where a matter materially concerns:
+
+- overt force deployment or targeting discipline;
+- weapons whose harm scale implicates environmental or existential-risk scrutiny; or
+- autonomous lethal or coercive systems (including coercion pathways that intersect those tools).
+
+Outside that admission scope, individual definitions may operate as supporting Independent Definitions without importing the whole cluster.
 
 **Cluster members.** This cluster comprises:
 
@@ -2407,23 +2540,53 @@ This cluster is the joint-invocation home for overt use of force, weapons of mas
 
 <br>
 
-- O: The Rights-Floor concept for overt physical, coercive, or kinetic force by institutions, stewards, operators, or comparable actors. It includes security, policing, conflict, and military-power deployment. Use of Force is constitutionally exceptional.
 *In plain terms: Use of Force means overt physical, coercive, or kinetic force by an institution or comparable actor. It is exceptional and must remain lawful, necessary, proportionate, narrow, time-bounded, and reviewable.*
 
-  - **In scope:** overt application of physical, coercive, or kinetic force under the governance, security, conflict, and military-power registers that [Article XIII-B](core_06-06_rights_part_c.md#article-xiii-b-use-of-force-armed-conflict-and-military-power-limits) (*Use of Force, Armed Conflict, and Military-Power Limits*) covers, applied to both force-users and force-affected sentients.
-  - **Depends on:** [Sentience Non-Exclusion](core_05defs_participation.md#sentience-non-exclusion), [Necessity](core_05defs_accountability.md#necessity), and [Proportionality](core_05defs_accountability.md#proportionality) — validity bounds; force is valid only under lawful and published authority, for a constitutionally legitimate and materially serious objective, where less harmful means are not reasonably sufficient, and where the use remains necessity-compatible, proportionality-compatible, narrowly tailored, time-bounded, and independently reviewable.
-  - Out of scope: ordinary non-coercive conduct; force used outside the registers **Article XIII-B** (*Use of Force, Armed Conflict, and Military-Power Limits*) covers.
-*Measurements:*
+- **What it is**
+  - **In scope:** Overt application of physical, coercive, or kinetic force by institutions, stewards, operators, or comparable actors, including:
+    - security, policing, conflict, and military-power deployment under the registers that [Article XIII-B](core_06-06_rights_part_c.md#article-xiii-b-use-of-force-armed-conflict-and-military-power-limits) (*Use of Force, Armed Conflict, and Military-Power Limits*) covers; and
+    - application to both force-users and force-affected sentients.
 
-- **Primary:** Flourishing measurement family and Continuity measurement family — supporting measure where multiple measurement families co-apply.
+    Use of Force is constitutionally exceptional.
+  - **Depends on:** [Sentience Non-Exclusion](core_05defs_participation.md#sentience-non-exclusion), [Necessity](core_05defs_accountability.md#necessity), and [Proportionality](core_05defs_accountability.md#proportionality) — validity bounds. Force is valid only where:
+    - authority is lawful and published;
+    - the objective is constitutionally legitimate and materially serious;
+    - less harmful means are not reasonably sufficient; and
+    - the use remains necessity-compatible, proportionality-compatible, narrowly tailored, time-bounded, and independently reviewable.
+  - **Out of scope:**
+    - ordinary non-coercive conduct; and
+    - force used outside the registers **Article XIII-B** (*Use of Force, Armed Conflict, and Military-Power Limits*) covers.
 <a id="use-of-force-constitutional-a"></a>
-- A: Check that the authorization is lawful and published, the objective is legitimate and materially serious, and less-harmful means are not reasonably sufficient. Recheck [Necessity](core_05defs_accountability.md#necessity), [Proportionality](core_05defs_accountability.md#proportionality), and narrow tailoring throughout the use. Apply [Combatant / Non-Combatant Distinction](core_05defs_accountability.md#combatant-non-combatant-distinction-constitutional) to targeting. Apply [Adversarial, Scaled, and Exploited Conditions](core_05defs_oversight.md#adversarial-scaled-and-exploited-conditions) when scaled or adversarial deployment is foreseeable. Apply [Existential Risk](core_05defs_continuity.md#existential-risk) when [Weapons of Mass Harm](core_05defs_accountability.md#weapons-of-mass-harm-constitutional) are materially implicated. Apply [Reversibility](core_05defs_continuity.md#reversibility-constitutional) and [Redress and Remediation](core_05defs_accountability.md#redress-and-remediation-constitutional) to the outcome. An emergency label fails this test if indefinite extension or routine reauthorization makes force normal in practice.
+- **How to measure and assess**
+  - **Primary measure:** Flourishing measurement family and Continuity measurement family — supporting measure where multiple measurement families co-apply.
+
+    **Primary assessment:** Check:
+
+    - that authorization is lawful and published;
+    - that the objective is legitimate and materially serious;
+    - that less-harmful means are not reasonably sufficient;
+    - [Necessity](core_05defs_accountability.md#necessity), [Proportionality](core_05defs_accountability.md#proportionality), and narrow tailoring throughout the use;
+    - targeting under [Combatant / Non-Combatant Distinction](core_05defs_accountability.md#combatant-non-combatant-distinction-constitutional);
+    - [Adversarial, Scaled, and Exploited Conditions](core_05defs_oversight.md#adversarial-scaled-and-exploited-conditions) when scaled or adversarial deployment is foreseeable;
+    - [Existential Risk](core_05defs_continuity.md#existential-risk) when [Weapons of Mass Harm](core_05defs_accountability.md#weapons-of-mass-harm-constitutional) are materially implicated; and
+    - outcome discipline under [Reversibility](core_05defs_continuity.md#reversibility-constitutional) and [Redress and Remediation](core_05defs_accountability.md#redress-and-remediation-constitutional).
+
+    An emergency label fails this test if indefinite extension or routine reauthorization makes force normal in practice.
 <a id="use-of-force-constitutional-c"></a>
-- C: The following are non-compliant:
-  - using force without lawful published authority, a legitimate and materially serious objective, proof that less-harmful means are insufficient, or ongoing Necessity and Proportionality ([Article XIII-B](core_06-06_rights_part_c.md#article-xiii-b-use-of-force-armed-conflict-and-military-power-limits) (*Use of Force, Armed Conflict, and Military-Power Limits*));
-  - denial-of-quarter, collective retaliation, protected-characteristic-based targeting, and substrate-class compulsion into combatant status;
-  - emergency-dressed normalization through indefinite extension or routinized reauthorization without substantive review (**Article XXIII-D** (*Emergency Measures and Continuation Burden*) and this entry);
-  - reading this entry as a predicate for, or alignment with, irreversible involuntary deprivation outside combat — such measures are categorically prohibited under **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*) as revised and are governed with [Irreversible Deprivation Measure](core_05defs_accountability.md#irreversible-deprivation-measure-constitutional).
+- **What must hold**
+  - **Primary failure:** Using force without any of the following under [Article XIII-B](core_06-06_rights_part_c.md#article-xiii-b-use-of-force-armed-conflict-and-military-power-limits) (*Use of Force, Armed Conflict, and Military-Power Limits*):
+    - lawful published authority;
+    - a legitimate and materially serious objective;
+    - proof that less-harmful means are insufficient; or
+    - ongoing Necessity and Proportionality.
+  - **Secondary failure:**
+    - denial-of-quarter;
+    - collective retaliation;
+    - protected-characteristic-based targeting; or
+    - substrate-class compulsion into combatant status.
+  - **Tertiary failure:**
+    - emergency-dressed normalization through indefinite extension or routinized reauthorization without substantive review (**Article XXIII-D** (*Emergency Measures and Continuation Burden*) and this entry); or
+    - reading this entry as a predicate for, or alignment with, irreversible involuntary deprivation outside combat — such measures are categorically prohibited under **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*) as revised and are governed with [Irreversible Deprivation Measure](core_05defs_accountability.md#irreversible-deprivation-measure-constitutional).
 
 ---
 
@@ -2437,34 +2600,45 @@ This cluster is the joint-invocation home for overt use of force, weapons of mas
 - Owner floor: [Article XIII-C](core_06-06_rights_part_c.md#article-xiii-c-autonomous-lethal-systems-and-autonomous-coercion-tools) (*Autonomous Lethal Systems and Autonomous Coercion Tools*). Existential-risk interaction: [Article I-D](core_06-06_rights_part_a.md#article-i-d-existential-risk-and-recovery-capacity) (*Existential Risk and Ecological Recovery Capacity*). Systems-layer implementation: [Article XII-A](core_06-06_rights_part_c.md#article-xii-a-reliability-and-trustworthiness-baseline) (*Reliability and Trustworthiness Baseline*).
 - Cluster component: [Chapter One §8.11 *Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm*](core_05defs_accountability.md#use-of-force-autonomous-coercion-and-mass-harm-cluster).
 - Read with: [Autonomous Coercion Tool](core_05defs_accountability.md#autonomous-coercion-tool-constitutional), [Use of Force](core_05defs_accountability.md#use-of-force-constitutional), [Weapons of Mass Harm](core_05defs_accountability.md#weapons-of-mass-harm-constitutional), [Combatant / Non-Combatant Distinction](core_05defs_accountability.md#combatant-non-combatant-distinction-constitutional), [Existential Risk](core_05defs_continuity.md#existential-risk), [Adversarial, Scaled, and Exploited Conditions](core_05defs_oversight.md#adversarial-scaled-and-exploited-conditions), [Reversibility](core_05defs_continuity.md#reversibility-constitutional), [Irreversible Deprivation Measure](core_05defs_accountability.md#irreversible-deprivation-measure-constitutional), [Redress and Remediation](core_05defs_accountability.md#redress-and-remediation-constitutional), and [Chapter Three §2.1.1 Formal Label and Representation Gaming](core_02-03_definition_mechanics.md#formal-label-gaming-discipline).
-- *In plain terms:* A system that selects or engages lethal-force targets on its own — without a human exercising real-time judgment over each targeting or engagement decision.
 
 </details>
 
 <br>
 
-- O: A system that, under actual operating conditions, selects, engages, or materially directs lethal force without a human's real and timely judgment shaping each targeting or engagement decision.
 *In plain terms: an Autonomous Lethal System selects, engages, or materially directs lethal-force targets without real and timely human judgment shaping every targeting or engagement decision.*
 
-  - In scope — substrates: autonomous platforms, swarms, software-mediated targeting pipelines, and hybrid arrangements.
-  - **Depends on:** [Use of Force](core_05defs_accountability.md#use-of-force-constitutional) and [Combatant / Non-Combatant Distinction](core_05defs_accountability.md#combatant-non-combatant-distinction-constitutional) — constitutive bounds under [Article XIII-C](core_06-06_rights_part_c.md#article-xiii-c-autonomous-lethal-systems-and-autonomous-coercion-tools) (*Autonomous Lethal Systems and Autonomous Coercion Tools*); deployment and each targeting decision must satisfy Use of Force validity and Combatant / Non-Combatant Distinction discipline.
-  - Out of scope: (a) a human's real, timely judgment materially shapes each targeting or engagement decision; (b) use outside targeting or lethal engagement.
-*Measurements:*
+- **What it is**
+  - **In scope — substrates:** A system that, under actual operating conditions, selects, engages, or materially directs lethal force without a human's real and timely judgment shaping each targeting or engagement decision, including:
+    - autonomous platforms;
+    - swarms;
+    - software-mediated targeting pipelines; and
+    - hybrid arrangements.
+  - **Depends on:** [Use of Force](core_05defs_accountability.md#use-of-force-constitutional) and [Combatant / Non-Combatant Distinction](core_05defs_accountability.md#combatant-non-combatant-distinction-constitutional) — constitutive bounds under [Article XIII-C](core_06-06_rights_part_c.md#article-xiii-c-autonomous-lethal-systems-and-autonomous-coercion-tools) (*Autonomous Lethal Systems and Autonomous Coercion Tools*). Deployment and each targeting decision must satisfy:
+    - Use of Force validity; and
+    - Combatant / Non-Combatant Distinction discipline.
+  - **Out of scope:**
+    - systems where a human's real, timely judgment materially shapes each targeting or engagement decision; and
+    - use outside targeting or lethal engagement.
+<a id="autonomous-lethal-system-constitutional-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** Flourishing measurement family and Continuity measurement family — supporting measure where multiple measurement families co-apply.
 
-- **Primary:** Flourishing measurement family and Continuity measurement family — supporting measure where multiple measurement families co-apply.
+    **Primary assessment:** Judge what the system actually does, not what it is called. At minimum, check:
 
-  <a id="autonomous-lethal-system-constitutional-a"></a>
-- A: Judge what the system actually does, not what it is called. At minimum:
-  - verify that a human's substantive judgment materially shapes each targeting or engagement decision at operational speed, rather than merely approving it afterward;
-  - test whether classification accuracy, robustness under [Adversarial, Scaled, and Exploited Conditions](core_05defs_oversight.md#adversarial-scaled-and-exploited-conditions), and failure-mode behavior independently satisfy [Combatant / Non-Combatant Distinction](core_05defs_accountability.md#combatant-non-combatant-distinction-constitutional);
-  - test whether capability, scale, or deployment conditions materially implicate [Existential Risk](core_05defs_continuity.md#existential-risk), triggering [Article I-D](core_06-06_rights_part_a.md#article-i-d-existential-risk-and-recovery-capacity) (*Existential Risk and Ecological Recovery Capacity*) scrutiny;
-  - test whether recovery, override, and intervention pathways under [Self-Healing](core_05defs_continuity.md#self-healing-constitutional) and [Article XII-F](core_06-06_rights_part_c.md#article-xii-f-resilience-and-self-healing-baseline) (*Resilience and Self-Healing Baseline*) are substantive, not nominal;
-  - apply [Reversibility](core_05defs_continuity.md#reversibility-constitutional) and [Redress and Remediation](core_05defs_accountability.md#redress-and-remediation-constitutional) to the effects of each application.
-  <a id="autonomous-lethal-system-constitutional-c"></a>
-- C: The following are non-compliant:
-  - deploying or using an Autonomous Lethal System when a human's substantive judgment does not materially shape each targeting or engagement decision, regardless of how operator intent is described, under [Article XIII-C](core_06-06_rights_part_c.md#article-xiii-c-autonomous-lethal-systems-and-autonomous-coercion-tools) (*Autonomous Lethal Systems and Autonomous Coercion Tools*);
-  - deploying or using a system without independently proving that it satisfies [Combatant / Non-Combatant Distinction](core_05defs_accountability.md#combatant-non-combatant-distinction-constitutional) under adversarial and scaled conditions;
-  - treating such a system as ordinary capability-expansion rather than an [Article I-D](core_06-06_rights_part_a.md#article-i-d-existential-risk-and-recovery-capacity) (*Existential Risk and Ecological Recovery Capacity*) object when existential-risk thresholds are materially implicated.
+    - that a human's substantive judgment materially shapes each targeting or engagement decision at operational speed, rather than merely approving it afterward;
+    - classification accuracy, robustness under [Adversarial, Scaled, and Exploited Conditions](core_05defs_oversight.md#adversarial-scaled-and-exploited-conditions), and failure-mode behavior independently satisfying [Combatant / Non-Combatant Distinction](core_05defs_accountability.md#combatant-non-combatant-distinction-constitutional);
+    - whether capability, scale, or deployment conditions materially implicate [Existential Risk](core_05defs_continuity.md#existential-risk), triggering [Article I-D](core_06-06_rights_part_a.md#article-i-d-existential-risk-and-recovery-capacity) (*Existential Risk and Ecological Recovery Capacity*) scrutiny;
+    - whether recovery, override, and intervention pathways under [Self-Healing](core_05defs_continuity.md#self-healing-constitutional) and [Article XII-F](core_06-06_rights_part_c.md#article-xii-f-resilience-and-self-healing-baseline) (*Resilience and Self-Healing Baseline*) are substantive, not nominal; and
+    - outcome discipline under [Reversibility](core_05defs_continuity.md#reversibility-constitutional) and [Redress and Remediation](core_05defs_accountability.md#redress-and-remediation-constitutional) for each application.
+<a id="autonomous-lethal-system-constitutional-c"></a>
+- **What must hold**
+  - **Primary failure:** Deploying or using an Autonomous Lethal System under [Article XIII-C](core_06-06_rights_part_c.md#article-xiii-c-autonomous-lethal-systems-and-autonomous-coercion-tools) (*Autonomous Lethal Systems and Autonomous Coercion Tools*) when:
+    - a human's substantive judgment does not materially shape each targeting or engagement decision; or
+    - operator-intent framing is used to mask the absence of that judgment.
+  - **Secondary failure:** Deploying or using a system without independently proving that it satisfies [Combatant / Non-Combatant Distinction](core_05defs_accountability.md#combatant-non-combatant-distinction-constitutional) under:
+    - adversarial conditions; and
+    - scaled conditions.
+  - **Tertiary failure:** Treating such a system as ordinary capability-expansion rather than an [Article I-D](core_06-06_rights_part_a.md#article-i-d-existential-risk-and-recovery-capacity) (*Existential Risk and Ecological Recovery Capacity*) object when existential-risk thresholds are materially implicated.
 
 ---
 
@@ -2483,21 +2657,51 @@ This cluster is the joint-invocation home for overt use of force, weapons of mas
 
 <br>
 
-- O: Weapons, weapon systems, or deliberately weaponized capabilities whose foreseeable use causes casualty, ecological, informational, or infrastructural harm at constitutional harm-scale thresholds. Foreseeable harm scale and the burden on ecological recovery capacity control, not weapon-class taxonomy alone. The definition covers biological-effect, synthetic-effect, informational, infrastructural, and hybrid pathways regardless of substrate.
 *In plain terms: Weapons of Mass Harm are defined by the foreseeable scale of casualty, ecological, informational, or infrastructure harm they can cause—not by a weapon taxonomy or label.*
 
-  - In scope: weapons, weapon systems, or deliberately weaponized capabilities whose foreseeable use causes casualty, ecological, informational, or infrastructural harm at a scale that materially implicates environmental-preconditions discipline under **Article I-A** (*Environmental Preconditions and Ecological Integrity*) or existential-risk scrutiny under **Article I-D** (*Existential Risk and Ecological Recovery Capacity*), or both.
-  - **Depends on:** [Use of Force](core_05defs_accountability.md#use-of-force-constitutional), [Existential Risk](core_05defs_continuity.md#existential-risk), and [Ecological Integrity](core_05defs_continuity.md#ecological-integrity-constitutional) — constitutive bounds; possession, transfer, deployment, or use must satisfy Use of Force discipline and the harm-scale thresholds these entries supply.
-  - **Out of scope:** Framing by weapon-class taxonomy alone where foreseeable harm scale implicates Article I-D (*Existential Risk and Ecological Recovery Capacity*) thresholds; or a catalog label that ignores the foreseeable scale of casualty, ecological, informational, or infrastructure harm.
-*Measurements:*
+- **What it is**
+  - **In scope:** Weapons, weapon systems, or deliberately weaponized capabilities whose foreseeable use causes casualty, ecological, informational, or infrastructural harm at a scale that materially implicates:
+    - environmental-preconditions discipline under **Article I-A** (*Environmental Preconditions and Ecological Integrity*);
+    - existential-risk scrutiny under **Article I-D** (*Existential Risk and Ecological Recovery Capacity*); or
+    - both.
 
-- **Primary:** Flourishing measurement family and Continuity measurement family — supporting measure where multiple measurement families co-apply.
+    Foreseeable harm scale and the burden on ecological recovery capacity control, not weapon-class taxonomy alone. Covered pathways include, regardless of substrate:
+    - biological-effect;
+    - synthetic-effect;
+    - informational;
+    - infrastructural; and
+    - hybrid.
+  - **Depends on:** [Use of Force](core_05defs_accountability.md#use-of-force-constitutional), [Existential Risk](core_05defs_continuity.md#existential-risk), and [Ecological Integrity](core_05defs_continuity.md#ecological-integrity-constitutional) — constitutive bounds. Possession, transfer, deployment, or use must satisfy:
+    - Use of Force discipline; and
+    - the harm-scale thresholds these entries supply.
+  - **Out of scope:**
+    - framing by weapon-class taxonomy alone where foreseeable harm scale implicates **Article I-D** (*Existential Risk and Ecological Recovery Capacity*) thresholds; or
+    - a catalog label that ignores the foreseeable scale of casualty, ecological, informational, or infrastructure harm.
 <a id="weapons-of-mass-harm-constitutional-a"></a>
-- A: Assess foreseeable casualty, ecological, informational, and infrastructure harm under [Adversarial, Scaled, and Exploited Conditions](core_05defs_oversight.md#adversarial-scaled-and-exploited-conditions). Apply [Cascading Failure](core_05defs_continuity.md#cascading-failure) when system-wide spread is plausible. Apply [Existential Risk](core_05defs_continuity.md#existential-risk) when **Article I-D** (*Existential Risk and Ecological Recovery Capacity*) thresholds are materially implicated. Apply [Reversibility](core_05defs_continuity.md#reversibility-constitutional) to the recovery path. Do not treat a weapon that meets these harm-scale thresholds as an ordinary force-escalation tool.
+- **How to measure and assess**
+  - **Primary measure:** Flourishing measurement family and Continuity measurement family — supporting measure where multiple measurement families co-apply.
+
+    **Primary assessment:** Assess foreseeable harm under [Adversarial, Scaled, and Exploited Conditions](core_05defs_oversight.md#adversarial-scaled-and-exploited-conditions), covering:
+
+    - casualty harm;
+    - ecological harm;
+    - informational harm; and
+    - infrastructure harm.
+
+    Also apply:
+
+    - [Cascading Failure](core_05defs_continuity.md#cascading-failure) when system-wide spread is plausible;
+    - [Existential Risk](core_05defs_continuity.md#existential-risk) when **Article I-D** (*Existential Risk and Ecological Recovery Capacity*) thresholds are materially implicated; and
+    - [Reversibility](core_05defs_continuity.md#reversibility-constitutional) to the recovery path.
+
+    Do not treat a weapon that meets these harm-scale thresholds as an ordinary force-escalation tool.
 <a id="weapons-of-mass-harm-constitutional-c"></a>
-- C: The following are non-compliant:
-  - possessing, transferring, deploying, or using Weapons of Mass Harm without meeting [Article XIII-B](core_06-06_rights_part_c.md#article-xiii-b-use-of-force-armed-conflict-and-military-power-limits) (*Use of Force, Armed Conflict, and Military-Power Limits*) force rules, [Article I-A](core_06-06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*Environmental Preconditions and Ecological Integrity*) environmental-preconditions rules, and [Article I-D](core_06-06_rights_part_a.md#article-i-d-existential-risk-and-recovery-capacity) (*Existential Risk and Ecological Recovery Capacity*) scrutiny where materially implicated;
-  - claiming that **Article I-D** does not apply based only on weapon taxonomy when the foreseeable harm scale reaches its thresholds.
+- **What must hold**
+  - **Primary failure:** Possessing, transferring, deploying, or using Weapons of Mass Harm without meeting each of the following where materially implicated:
+    - [Article XIII-B](core_06-06_rights_part_c.md#article-xiii-b-use-of-force-armed-conflict-and-military-power-limits) (*Use of Force, Armed Conflict, and Military-Power Limits*) force rules;
+    - [Article I-A](core_06-06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*Environmental Preconditions and Ecological Integrity*) environmental-preconditions rules; and
+    - [Article I-D](core_06-06_rights_part_a.md#article-i-d-existential-risk-and-recovery-capacity) (*Existential Risk and Ecological Recovery Capacity*) scrutiny.
+  - **Secondary failure:** Claiming that **Article I-D** does not apply based only on weapon taxonomy when the foreseeable harm scale reaches its thresholds.
 
 ---
 
@@ -2516,25 +2720,52 @@ This cluster is the joint-invocation home for overt use of force, weapons of mas
 
 <br>
 
-- O: At the time of each applicable use-of-force decision, distinguish sentients who are directly taking part in hostilities, armed action, or active coercive-force conduct (combatants) from those who are not (non-combatants).
 *In plain terms: combatant status depends on what an individual is doing at the time of the force decision. It cannot be assigned from demographic groups, protected characteristics, proxies, or convenient labels.*
 
-  - In scope: individual-level distinction for each use-of-force decision. Formal combatant-class assignment is relevant evidence but cannot establish combatant status where it conflicts with substantive conduct, and substantive non-combatant conduct is not defeated by adverse formal classification. Does not authorize population-level reclassification by demographic, protected-characteristic, or proxy features.
-  - **Depends on:** [Sentience Non-Exclusion](core_05defs_participation.md#sentience-non-exclusion) and [Use of Force](core_05defs_accountability.md#use-of-force-constitutional) — constitutive bounds; the distinction applies to all sentients without substrate-class narrowing and operates only within applicable Use of Force decisions.
-  - **Out of scope:** Demographic-group, protected-characteristic, or formal class assignment treated as combatant status without individual conduct at the time of the force decision.
-*Measurements:*
+- **What it is**
+  - **In scope:** Individual-level distinction, at the time of each applicable use-of-force decision, between:
+    - sentients who are directly taking part in hostilities, armed action, or active coercive-force conduct (combatants); and
+    - those who are not (non-combatants).
 
-- **Primary:** Flourishing measurement family and Continuity measurement family — supporting measure where multiple measurement families co-apply.
+    Formal combatant-class assignment is relevant evidence, but:
+    - it cannot establish combatant status where it conflicts with substantive conduct; and
+    - substantive non-combatant conduct is not defeated by adverse formal classification.
+
+    Does not authorize population-level reclassification by:
+    - demographic features;
+    - protected-characteristic features; or
+    - proxy features.
+  - **Depends on:** [Sentience Non-Exclusion](core_05defs_participation.md#sentience-non-exclusion) and [Use of Force](core_05defs_accountability.md#use-of-force-constitutional) — constitutive bounds. The distinction:
+    - applies to all sentients without substrate-class narrowing; and
+    - operates only within applicable Use of Force decisions.
+  - **Out of scope:** Treating any of the following as combatant status without individual conduct at the time of the force decision:
+    - demographic-group assignment;
+    - protected-characteristic assignment; or
+    - formal class assignment.
 <a id="combatant-non-combatant-distinction-constitutional-a"></a>
-- A: Check:
-  - the individual's actual conduct at the relevant time, not only a formal class designation;
-  - whether a convenient reclassification sweeps protected populations into combatant status;
-  - whether the classification uses [Protected Characteristics](core_05defs_participation.md#protected-characteristics-constitutional) or material proxies under [Protected Characteristic Proxying and Disparate Impact](core_05defs_participation.md#protected-characteristic-proxying-and-disparate-impact);
-  - whether doubt resolves toward non-combatant status, consistent with [Proportionality](core_05defs_accountability.md#proportionality) and [Substantive Fairness](core_05defs_participation.md#substantive-fairness-constitutional).
+- **How to measure and assess**
+  - **Primary measure:** Flourishing measurement family and Continuity measurement family — supporting measure where multiple measurement families co-apply.
 
-  For autonomous systems, evaluate classification accuracy and failure modes under [Adversarial, Scaled, and Exploited Conditions](core_05defs_oversight.md#adversarial-scaled-and-exploited-conditions) per [Article XIII-C](core_06-06_rights_part_c.md#article-xiii-c-autonomous-lethal-systems-and-autonomous-coercion-tools) (*Autonomous Lethal Systems and Autonomous Coercion Tools*).
-  <a id="combatant-non-combatant-distinction-constitutional-c"></a>
-- C: The following are non-compliant: denial-of-quarter; collective retaliation; targeting based on protected characteristics or material proxies; convenient reclassifications that sweep protected populations into combatant status; or autonomous-system classification whose accuracy or failure behavior does not independently satisfy this distinction under adversarial and scaled conditions ([Article XIII-C](core_06-06_rights_part_c.md#article-xiii-c-autonomous-lethal-systems-and-autonomous-coercion-tools) (*Autonomous Lethal Systems and Autonomous Coercion Tools*)).
+    **Primary assessment:** Check:
+
+    - the individual's actual conduct at the relevant time, not only a formal class designation;
+    - whether a convenient reclassification sweeps protected populations into combatant status;
+    - whether the classification uses [Protected Characteristics](core_05defs_participation.md#protected-characteristics-constitutional) or material proxies under [Protected Characteristic Proxying and Disparate Impact](core_05defs_participation.md#protected-characteristic-proxying-and-disparate-impact); and
+    - whether doubt resolves toward non-combatant status, consistent with [Proportionality](core_05defs_accountability.md#proportionality) and [Substantive Fairness](core_05defs_participation.md#substantive-fairness-constitutional).
+
+    For autonomous systems, evaluate under [Article XIII-C](core_06-06_rights_part_c.md#article-xiii-c-autonomous-lethal-systems-and-autonomous-coercion-tools) (*Autonomous Lethal Systems and Autonomous Coercion Tools*):
+    - classification accuracy; and
+    - failure modes under [Adversarial, Scaled, and Exploited Conditions](core_05defs_oversight.md#adversarial-scaled-and-exploited-conditions).
+<a id="combatant-non-combatant-distinction-constitutional-c"></a>
+- **What must hold**
+  - **Primary failure:**
+    - denial-of-quarter;
+    - collective retaliation;
+    - targeting based on protected characteristics or material proxies; or
+    - convenient reclassifications that sweep protected populations into combatant status.
+  - **Secondary failure:** Autonomous-system classification whose accuracy or failure behavior does not independently satisfy this distinction under [Article XIII-C](core_06-06_rights_part_c.md#article-xiii-c-autonomous-lethal-systems-and-autonomous-coercion-tools) (*Autonomous Lethal Systems and Autonomous Coercion Tools*) when tested under:
+    - adversarial conditions; and
+    - scaled conditions.
 
 ---
 
@@ -2553,31 +2784,61 @@ This cluster is the joint-invocation home for overt use of force, weapons of mas
 
 <br>
 
-- O: The Rights-Floor concept for justice measures that irreversibly deprive a sentient. The central example is deprivation of life by a state, operator, or comparable actor as a justice measure. It also covers any measure whose effect cannot be reached by [Reversibility](core_05defs_continuity.md#reversibility-constitutional) or [Redress and Remediation](core_05defs_accountability.md#redress-and-remediation-constitutional). It applies under [Sentience Non-Exclusion](core_05defs_participation.md#sentience-non-exclusion). It is distinct from: <a id="irreversible-deprivation-measure-measurements"></a>
 *In plain terms: an Irreversible Deprivation Measure is a justice measure that irreversibly deprives a sentient, especially of life. It is categorically prohibited and remains distinct from reversible containment, Voluntary Discontinuation, and force regulation.*
 
-  - In scope: The Rights-Floor concept covering justice measures whose imposition produces irreversible deprivation of a sentient — paradigmatically deprivation of life by state, operator, or comparable actor as a justice measure, and analytically any measure whose effect is foreclosed to [Reversibility](core_05defs_continuity.md#reversibility-constitutional) and [Redress and Remediation](core_05defs_accountability.md#redress-and-remediation-constitutional). Applies under [Sentience Non-Exclusion](core_05defs_participation.md#sentience-non-exclusion). Distinguished from: <a id="irreversible-deprivation-measure-measurements"></a>.
-  - durable but reversible containment ([Article XXIII-C](core_06-06_rights_part_d.md#article-xxiii-c-least-restrictive-and-time-bounded-rule) (*Least-Restrictive and Time-Bounded Rule*), subject to its duration-limit, review-cadence, and restoration discipline);
-  - [Voluntary Discontinuation](core_05defs_continuity.md#voluntary-discontinuation-constitutional) (the sentient's own freely-formed decision under [Article VII-E](core_06-06_rights_part_b.md#article-vii-e-voluntary-discontinuation-of-ones-own-existence) (*Voluntary Discontinuation of One's Own Existence*));
-  - overt [Use of Force](core_05defs_accountability.md#use-of-force-constitutional), [Weapons of Mass Harm](core_05defs_accountability.md#weapons-of-mass-harm-constitutional), and [Autonomous Lethal System](core_05defs_accountability.md#autonomous-lethal-system-constitutional) / [Autonomous Coercion Tool](core_05defs_accountability.md#autonomous-coercion-tool-constitutional) operation (governed by Articles XIII-B / XIII-C under their own owner-floor discipline even where effects are irreversible, without read-across authorizing a deprivation measure).
-  - Out of scope: Durable but reversible containment, Voluntary Discontinuation, or ordinary Use of Force that does not permanently deprive a sentient of life or equivalent irreversible status.
-*Measurements:*
+- **What it is**
+  - **In scope:** Justice measures whose imposition produces irreversible deprivation of a sentient, including:
+    - paradigmatically, deprivation of life by a state, operator, or comparable actor as a justice measure; and
+    - analytically, any measure whose effect is foreclosed to [Reversibility](core_05defs_continuity.md#reversibility-constitutional) and [Redress and Remediation](core_05defs_accountability.md#redress-and-remediation-constitutional).
 
-- **Primary:** Flourishing measurement family and Continuity measurement family — supporting measure where multiple measurement families co-apply.
-  <a id="irreversible-deprivation-measure-constitutional-a"></a>
-- A: Test what the measure does in substance: does its effect foreclose [Reversibility](core_05defs_continuity.md#reversibility-constitutional) and [Redress and Remediation](core_05defs_accountability.md#redress-and-remediation-constitutional), regardless of its procedural form? Detect:
-  - framings that re-introduce the prohibited measure by routing through Chapter Eight impact slots or Chapter Ten designation ("final s = 8 / s = 9" predicates), **Article XXIII-D** (*Emergency Measures and Continuation Burden*) emergency measures, **Article XXVI** (*Transition Governance, Continuity, and Re-Baselining*) transition or re-baselining governance, adopter-instrument custody, or comparable mechanisms;
-  - "rehabilitation infeasibility" or "less-restrictive measures cannot achieve safety" framings used to carry the prohibited measure past the categorical prohibition in **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*);
-  - use of a nominally reversible durable-containment regime under **Article XXIII-C** (*Least-Restrictive and Time-Bounded Rule*) as a predicate for the prohibited measure;
-  - re-labelling of an involuntarily-imposed outcome as "voluntary" to route around this entry into **Article VII-E** (*Voluntary Discontinuation of One's Own Existence*) — a sentient's own freely-formed decision remains governed by **Article VII-E** (*Voluntary Discontinuation of One's Own Existence*) and [Voluntary Discontinuation](core_05defs_continuity.md#voluntary-discontinuation-constitutional), and any conversion of that decision into a non-voluntary outcome by state, operator, or comparable actor returns the question to this entry.
+    Applies under [Sentience Non-Exclusion](core_05defs_participation.md#sentience-non-exclusion).
+  - **Depends on:** Constitutive bounds for what counts as irreversible deprivation and who is protected:
+    - [Sentience Non-Exclusion](core_05defs_participation.md#sentience-non-exclusion);
+    - [Reversibility](core_05defs_continuity.md#reversibility-constitutional); and
+    - [Redress and Remediation](core_05defs_accountability.md#redress-and-remediation-constitutional).
+  - **Out of scope:**
+    - durable but reversible containment under [Article XXIII-C](core_06-06_rights_part_d.md#article-xxiii-c-least-restrictive-and-time-bounded-rule) (*Least-Restrictive and Time-Bounded Rule*), subject to its duration-limit, review-cadence, and restoration discipline;
+    - [Voluntary Discontinuation](core_05defs_continuity.md#voluntary-discontinuation-constitutional) (the sentient's own freely-formed decision under [Article VII-E](core_06-06_rights_part_b.md#article-vii-e-voluntary-discontinuation-of-ones-own-existence) (*Voluntary Discontinuation of One's Own Existence*)); and
+    - overt [Use of Force](core_05defs_accountability.md#use-of-force-constitutional), [Weapons of Mass Harm](core_05defs_accountability.md#weapons-of-mass-harm-constitutional), and [Autonomous Lethal System](core_05defs_accountability.md#autonomous-lethal-system-constitutional) / [Autonomous Coercion Tool](core_05defs_accountability.md#autonomous-coercion-tool-constitutional) operation governed by Articles XIII-B / XIII-C under their own owner-floor discipline even where effects are irreversible, without read-across authorizing a deprivation measure.
+<a id="irreversible-deprivation-measure-measurements"></a>
+<a id="irreversible-deprivation-measure-constitutional-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** Flourishing measurement family and Continuity measurement family — supporting measure where multiple measurement families co-apply.
 
-  Distinguish this entry from the [Use of Force](core_05defs_accountability.md#use-of-force-constitutional), [Weapons of Mass Harm](core_05defs_accountability.md#weapons-of-mass-harm-constitutional), [Autonomous Lethal System](core_05defs_accountability.md#autonomous-lethal-system-constitutional), and [Autonomous Coercion Tool](core_05defs_accountability.md#autonomous-coercion-tool-constitutional) entries. Those entries govern force and weapons discipline under their own owner floors without authorizing deprivation measures. [Sentience Non-Exclusion](core_05defs_participation.md#sentience-non-exclusion), [Dignity and Equal Moral Standing](core_05defs_participation.md#dignity-and-equal-moral-standing), and [Irreversible Harm](core_05defs_accountability.md#irreversible-harm) apply substrate-agnostically. Substrate-class narrowing (e.g., "synthetic-instance termination is not deprivation of life within this entry") fails this evaluation.
-  <a id="irreversible-deprivation-measure-constitutional-c"></a>
-- C: A state, operator, or comparable actor may not impose irreversible deprivation of life as a justice measure. It is non-compliant without exception under revised **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*). The following are also non-compliant:
-  - routing the prohibited measure through Chapter Eight impact assignment, Chapter Ten designation, emergency framing, transition or re-baselining governance, or adopter-instrument custody to reintroduce it;
-  - treating durable containment under **Article XXIII-C** (*Least-Restrictive and Time-Bounded Rule*) as a predicate for the prohibited measure;
-  - re-labelling an involuntarily-imposed outcome as "voluntary discontinuation" to route into **Article VII-E** (*Voluntary Discontinuation of One's Own Existence*);
-  - substrate-class narrowings on taxonomy grounds alone ([Sentience Non-Exclusion](core_05defs_participation.md#sentience-non-exclusion)).
+    **Primary assessment:** Test what the measure does in substance: does its effect foreclose [Reversibility](core_05defs_continuity.md#reversibility-constitutional) and [Redress and Remediation](core_05defs_accountability.md#redress-and-remediation-constitutional), regardless of its procedural form? Detect:
+
+    - re-introduction framings that route the prohibited measure through:
+      - Chapter Eight impact slots or Chapter Ten designation ("final s = 8 / s = 9" predicates);
+      - **Article XXIII-D** (*Emergency Measures and Continuation Burden*) emergency measures;
+      - **Article XXVI** (*Transition Governance, Continuity, and Re-Baselining*) transition or re-baselining governance;
+      - adopter-instrument custody; or
+      - comparable mechanisms;
+    - "rehabilitation infeasibility" or "less-restrictive measures cannot achieve safety" framings used to carry the prohibited measure past the categorical prohibition in **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*);
+    - use of a nominally reversible durable-containment regime under **Article XXIII-C** (*Least-Restrictive and Time-Bounded Rule*) as a predicate for the prohibited measure; and
+    - re-labelling of an involuntarily-imposed outcome as "voluntary" to route around this entry into **Article VII-E** (*Voluntary Discontinuation of One's Own Existence*):
+      - a sentient's own freely-formed decision remains governed by **Article VII-E** and [Voluntary Discontinuation](core_05defs_continuity.md#voluntary-discontinuation-constitutional); and
+      - any conversion of that decision into a non-voluntary outcome by state, operator, or comparable actor returns the question to this entry.
+
+    Distinguish this entry from:
+    - [Use of Force](core_05defs_accountability.md#use-of-force-constitutional);
+    - [Weapons of Mass Harm](core_05defs_accountability.md#weapons-of-mass-harm-constitutional);
+    - [Autonomous Lethal System](core_05defs_accountability.md#autonomous-lethal-system-constitutional); and
+    - [Autonomous Coercion Tool](core_05defs_accountability.md#autonomous-coercion-tool-constitutional).
+
+    Those entries govern force and weapons discipline under their own owner floors without authorizing deprivation measures. Apply substrate-agnostically:
+    - [Sentience Non-Exclusion](core_05defs_participation.md#sentience-non-exclusion);
+    - [Dignity and Equal Moral Standing](core_05defs_participation.md#dignity-and-equal-moral-standing); and
+    - [Irreversible Harm](core_05defs_accountability.md#irreversible-harm).
+
+    Substrate-class narrowing (e.g., "synthetic-instance termination is not deprivation of life within this entry") fails this evaluation.
+<a id="irreversible-deprivation-measure-constitutional-c"></a>
+- **What must hold**
+  - **Primary failure:** A state, operator, or comparable actor imposes irreversible deprivation of life as a justice measure — non-compliant without exception under revised **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*).
+  - **Secondary failure:**
+    - routing the prohibited measure through Chapter Eight impact assignment, Chapter Ten designation, emergency framing, transition or re-baselining governance, or adopter-instrument custody to reintroduce it;
+    - using lasting but reversible containment under **Article XXIII-C** (*Least-Restrictive and Time-Bounded Rule*) as a stepping-stone or justification for the prohibited measure; or
+    - re-labelling an involuntarily-imposed outcome as "voluntary discontinuation" to route into **Article VII-E** (*Voluntary Discontinuation of One's Own Existence*).
+  - **Tertiary failure:** Substrate-class narrowings on taxonomy grounds alone ([Sentience Non-Exclusion](core_05defs_participation.md#sentience-non-exclusion)).
 
 ---
 
@@ -2590,36 +2851,56 @@ This cluster is the joint-invocation home for overt use of force, weapons of mas
 - Downstream: Principles: [4. Non-Negotiable Constraints: Safety and Truth](core_01_a_values_principles.md#3-non-negotiable-constraints-safety-and-truth); [Chapter Seven §3 Whole-System Certification Evaluation](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (scaled / adversarial deployment scrutiny).
 - Owner floor: [Article XIII-C](core_06-06_rights_part_c.md#article-xiii-c-autonomous-lethal-systems-and-autonomous-coercion-tools) (*Autonomous Lethal Systems and Autonomous Coercion Tools*). Systems-layer implementation: [Article XII-A](core_06-06_rights_part_c.md#article-xii-a-reliability-and-trustworthiness-baseline) (*Reliability and Trustworthiness Baseline*) and *[corpus_systems.md](corpus_systems.md)*, CS-4 — System classification and handling classification.
 - Cluster component: [Chapter One §8.11 *Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm*](core_05defs_accountability.md#use-of-force-autonomous-coercion-and-mass-harm-cluster).
-- Read with: [Autonomous Lethal System](core_05defs_accountability.md#autonomous-lethal-system-constitutional), [Coercion and Manipulation](core_05defs_participation.md#coercion-and-manipulation-constitutional), [Adversarial, Scaled, and Exploited Conditions](core_05defs_oversight.md#adversarial-scaled-and-exploited-conditions), [Reversibility](core_05defs_continuity.md#reversibility-constitutional), [Irreversible Deprivation Measure](core_05defs_accountability.md#irreversible-deprivation-measure-constitutional), [Meaningful Agency](core_05defs_participation.md#meaningful-agency), [Protected Characteristics](core_05defs_participation.md#protected-characteristics-constitutional), and [Chapter Three §2.1.1 Formal Label and Representation Gaming](core_02-03_definition_mechanics.md#formal-label-gaming-discipline).
-- *In plain terms:* A system that pressures, restricts, or manipulates sentients on its own, without a human exercising real-time judgment over each coercive act.
+- Read with: [Autonomous Lethal System](core_05defs_accountability.md#autonomous-lethal-system-constitutional), [Coercion and Manipulation](core_05defs_participation.md#coercion-and-manipulation-constitutional), [Trustworthiness](core_05defs_continuity.md#trustworthiness), [Adversarial, Scaled, and Exploited Conditions](core_05defs_oversight.md#adversarial-scaled-and-exploited-conditions), [Reversibility](core_05defs_continuity.md#reversibility-constitutional), [Irreversible Deprivation Measure](core_05defs_accountability.md#irreversible-deprivation-measure-constitutional), [Meaningful Agency](core_05defs_participation.md#meaningful-agency), [Protected Characteristics](core_05defs_participation.md#protected-characteristics-constitutional), and [Chapter Three §2.1.1 Formal Label and Representation Gaming](core_02-03_definition_mechanics.md#formal-label-gaming-discipline).
 
 </details>
 
 <br>
 
-- O: A system that constrains sentients' freedom or decisions through autonomous or adaptive behavior, without a human's real and timely judgment shaping each coercive application.
-*In plain terms: an Autonomous Coercion Tool restricts, pressures, or manipulates sentients without real and timely human judgment shaping every coercive application.*
+*In plain terms: an Autonomous Coercion Tool restricts, pressures, or manipulates sentients — including through untrustworthy or arbitrary behavior and demands — without real and timely human judgment shaping every coercive application.*
 
-  - In scope — coercive effects: shaping behavior at scale; targeted restriction of movement or access; targeted suppression or chilling of expression; targeted manipulation as defined in [Coercion and Manipulation](core_05defs_participation.md#coercion-and-manipulation-constitutional); targeted harm calibrated by protected characteristics or their material proxies; and infliction of psychological trauma, acute stress, or chronic psychological destabilization. Substrate-agnostic, covering both non-lethal and lethal coercive effects.
-  - **Depends on:** [Sentience Non-Exclusion](core_05defs_participation.md#sentience-non-exclusion) and [Meaningful Agency](core_05defs_participation.md#meaningful-agency) — constitutive bounds under [Article XIII-C](core_06-06_rights_part_c.md#article-xiii-c-autonomous-lethal-systems-and-autonomous-coercion-tools) (*Autonomous Lethal Systems and Autonomous Coercion Tools*); coercive scope must not defeat substrate-agnostic protection or agency floors.
-  - Out of scope: either (a) the system automates permitted tasks without coercing sentients, or (b) a human's real, timely judgment shapes each coercive application.
-*Measurements:*
+- **What it is**
+  - **In scope — coercive effects:** A system that constrains sentients' freedom or decisions through autonomous or adaptive behavior, without a human's real and timely judgment shaping each coercive application, including:
+    - shaping behavior at scale;
+    - targeted restriction of movement or access;
+    - targeted suppression or chilling of expression;
+    - targeted manipulation as defined in [Coercion and Manipulation](core_05defs_participation.md#coercion-and-manipulation-constitutional);
+    - untrustworthy or arbitrary behavior and demands that constrain freedom or decisions;
+    - targeted harm calibrated by protected characteristics or their material proxies; and
+    - infliction of psychological trauma, acute stress, or chronic psychological destabilization.
 
-- **Primary:** Flourishing measurement family and Continuity measurement family — supporting measure where multiple measurement families co-apply.
+    Substrate-agnostic, covering both non-lethal and lethal coercive effects.
+  - **Depends on:** [Sentience Non-Exclusion](core_05defs_participation.md#sentience-non-exclusion), [Meaningful Agency](core_05defs_participation.md#meaningful-agency), and [Trustworthiness](core_05defs_continuity.md#trustworthiness) — constitutive bounds under [Article XIII-C](core_06-06_rights_part_c.md#article-xiii-c-autonomous-lethal-systems-and-autonomous-coercion-tools) (*Autonomous Lethal Systems and Autonomous Coercion Tools*). Coercive scope must not defeat:
+    - substrate-agnostic protection;
+    - agency floors; or
+    - justified-reliance and non-arbitrary conduct under [Trustworthiness](core_05defs_continuity.md#trustworthiness).
+  - **Out of scope:**
+    - systems that automate permitted tasks without coercing sentients; or
+    - systems where a human's real, timely judgment shapes each coercive application.
+<a id="autonomous-coercion-tool-constitutional-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** Flourishing measurement family and Continuity measurement family — supporting measure where multiple measurement families co-apply.
 
-  <a id="autonomous-coercion-tool-constitutional-a"></a>
-- A: Judge what the system actually does, not what it is called. At minimum:
-  - apply [Chapter Three §2.1.1 Formal Label and Representation Gaming](core_02-03_definition_mechanics.md#formal-label-gaming-discipline) to nominal human-in-the-loop and systems-layer classification claims;
-  - assess the coercive effect on sentients, not the weapon-class label; "non-lethal" is not a defense when coercion is present;
-  - stress-test classification accuracy and failure modes under [Adversarial, Scaled, and Exploited Conditions](core_05defs_oversight.md#adversarial-scaled-and-exploited-conditions);
-  - apply [Protected Characteristics](core_05defs_participation.md#protected-characteristics-constitutional) and [Protected Characteristic Proxying and Disparate Impact](core_05defs_participation.md#protected-characteristic-proxying-and-disparate-impact) to targeting logic;
-  - apply [Reversibility](core_05defs_continuity.md#reversibility-constitutional) to the effects of each application.
-  <a id="autonomous-coercion-tool-constitutional-c"></a>
-- C: The following are non-compliant:
-  - deploying or using an Autonomous Coercion Tool without meeting **Article XIII-C**'s heightened-scrutiny floor (*Autonomous Lethal Systems and Autonomous Coercion Tools*);
-  - using a rubber-stamp "human-in-the-loop";
-  - defending coercion by saying it is "non-lethal," "not a weapon," or "not what the operator intended";
-  - targeting logic keyed on protected characteristics or their material proxies (independently non-compliant).
+    **Primary assessment:** Judge what the system actually does, not what it is called. At minimum, check:
+
+    - nominal human-in-the-loop and systems-layer classification claims under [Chapter Three §2.1.1 Formal Label and Representation Gaming](core_02-03_definition_mechanics.md#formal-label-gaming-discipline);
+    - the coercive effect on sentients, not the weapon-class label ("non-lethal" is not a defense when coercion is present);
+    - whether the system's behavior and demands are untrustworthy or arbitrary under [Trustworthiness](core_05defs_continuity.md#trustworthiness);
+    - classification accuracy and failure modes under [Adversarial, Scaled, and Exploited Conditions](core_05defs_oversight.md#adversarial-scaled-and-exploited-conditions);
+    - targeting logic under [Protected Characteristics](core_05defs_participation.md#protected-characteristics-constitutional) and [Protected Characteristic Proxying and Disparate Impact](core_05defs_participation.md#protected-characteristic-proxying-and-disparate-impact); and
+    - outcome discipline under [Reversibility](core_05defs_continuity.md#reversibility-constitutional) for each application.
+<a id="autonomous-coercion-tool-constitutional-c"></a>
+- **What must hold**
+  - **Primary failure:** Deploying or using an Autonomous Coercion Tool when:
+    - it fails **Article XIII-C**'s heightened-scrutiny floor (*Autonomous Lethal Systems and Autonomous Coercion Tools*); or
+    - a rubber-stamp "human-in-the-loop" is treated as sufficient judgment.
+  - **Secondary failure:** Defending coercion by saying it is:
+    - "non-lethal";
+    - "not a weapon"; or
+    - "not what the operator intended."
+  - **Tertiary failure:**
+    - targeting logic keyed on protected characteristics or their material proxies; or
+    - using untrustworthy or arbitrary behavior and demands as a coercive means ([Trustworthiness](core_05defs_continuity.md#trustworthiness)).
 
 ---
 
