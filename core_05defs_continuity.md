@@ -522,20 +522,45 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 *In plain terms: the living-system conditions sentients need to survive and stay well — climate, ecosystems, clean air and water, soil, habitat, and Earth's ability to regenerate.*
 
 - **What it is**
-  - **In scope:** The biophysical and living-system conditions on which sentient survival and [Wellbeing](core_05defs_continuity.md#wellbeing) depend — stable climate, functioning ecosystems, clean air and water, healthy soil, biodiversity-supporting habitats, and the Earth's regenerative capacity. Protected under **Article I-A** (*Environmental Preconditions and Ecological Integrity*) and evaluated systemically with [Harm](core_05defs_accountability.md#harm), [Risk](core_05defs_continuity.md#risk), [Existential Risk](core_05defs_continuity.md#existential-risk), and [Dependency](core_05defs_continuity.md#dependency).
-  - **Out of scope:** local amenity preferences unrelated to biophysical survival conditions; ecological branding that does not protect climate, ecosystems, air, water, soil, or regenerative capacity.
+  - **In scope:** The biophysical and living-system conditions on which sentient survival and [Wellbeing](core_05defs_continuity.md#wellbeing) depend, including:
+    - stable climate;
+    - functioning ecosystems;
+    - clean air and water;
+    - healthy soil;
+    - biodiversity-supporting habitats; and
+    - the Earth's regenerative capacity.
+  - Protected under **Article I-A** (*Environmental Preconditions and Ecological Integrity*) and evaluated systemically with:
+    - [Harm](core_05defs_accountability.md#harm);
+    - [Risk](core_05defs_continuity.md#risk);
+    - [Existential Risk](core_05defs_continuity.md#existential-risk); and
+    - [Dependency](core_05defs_continuity.md#dependency).
+  - **Out of scope:**
+    - local amenity preferences unrelated to biophysical survival conditions; and
+    - ecological branding that does not protect climate, ecosystems, air, water, soil, or regenerative capacity.
 <a id="environmental-preconditions-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Flourishing measurement family and Continuity measurement family — split-placement primary owner for environmental preconditions.
 
-    **Primary assessment:** Include direct, indirect, delayed, cumulative, and cross-system ecological effects.
-  - **Secondary measure:** [Ecological Integrity](core_05defs_continuity.md#ecological-integrity-constitutional), [Harm](core_05defs_accountability.md#harm), [Risk](core_05defs_continuity.md#risk), and [Materiality Determination](core_05defs_oversight.md#materiality-determination) — co-measures that can defeat preconditions even when local compliance appears satisfied.
+    **Primary assessment:** Include ecological effects that are:
+    - direct;
+    - indirect;
+    - delayed;
+    - cumulative; or
+    - cross-system.
+  - **Secondary measure:** co-measures that can defeat preconditions even when local compliance appears satisfied:
+    - [Ecological Integrity](core_05defs_continuity.md#ecological-integrity-constitutional);
+    - [Harm](core_05defs_accountability.md#harm);
+    - [Risk](core_05defs_continuity.md#risk); and
+    - [Materiality Determination](core_05defs_oversight.md#materiality-determination).
 
-    **Secondary assessment:** When evaluating the primary trace, apply [Materiality Determination](core_05defs_oversight.md#materiality-determination) and [Ecological Integrity](core_05defs_continuity.md#ecological-integrity-constitutional) — local or nominal compliance is not sufficient where externalized, aggregated, or long-horizon environmental harm is material.
+    **Secondary assessment:** When evaluating the primary trace, apply [Materiality Determination](core_05defs_oversight.md#materiality-determination) and [Ecological Integrity](core_05defs_continuity.md#ecological-integrity-constitutional). Local or nominal compliance is not sufficient where environmental harm is material as:
+    - externalized harm;
+    - aggregated harm; or
+    - long-horizon harm.
 <a id="environmental-preconditions-constitutional-c"></a>
 - **What must hold**
-  - **Primary failure:** degrading **Environmental Preconditions** in violation of **Article I-A** (*Environmental Preconditions and Ecological Integrity*) when evaluated under this definition's Ontological and Evaluation components.
-  - **Secondary failure:** material ecological degradation contrary to [Ecological Integrity](core_05defs_continuity.md#ecological-integrity-constitutional) where systemic analysis would classify pathways as material.
+  - **Primary failure:** degrading the living-system conditions this entry protects — climate, ecosystems, clean air and water, soil, habitat, or Earth's ability to regenerate — in violation of **Article I-A** (*Environmental Preconditions and Ecological Integrity*).
+  - **Secondary failure:** treating local or paper compliance as enough while ecosystems are actually getting worse under [Ecological Integrity](core_05defs_continuity.md#ecological-integrity-constitutional), where whole-system analysis would treat the harm as material.
 
 ---
 
@@ -558,20 +583,43 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 *In plain terms: whether a decision or change can still be rolled back, contained, or restored in time when things go wrong.*
 
 - **What it is**
-  - **In scope:** The capacity to roll back, bound, contain, or restore states and commitments within feasible limits, proportionate to [Irreversible Harm](core_05defs_accountability.md#irreversible-harm) risk, [Dependency](core_05defs_continuity.md#dependency), and [Material Impact](core_05defs_oversight.md#material-impact), across technical, organizational, social, and ecological dimensions where relevant and consistent with [Safety (Constraint)](core_05defs_continuity.md#safety-constraint).
-  - **Out of scope:** rollback or containment claims that cannot actually restore, bound, or contain the affected state within feasible limits.
+  - **In scope:** The capacity to roll back, bound, contain, or restore states and commitments within feasible limits. How much reversibility is required scales with:
+    - the risk of [Irreversible Harm](core_05defs_accountability.md#irreversible-harm);
+    - the depth of [Dependency](core_05defs_continuity.md#dependency) relationships; and
+    - [Material Impact](core_05defs_oversight.md#material-impact).
+  - Applies across dimensions where relevant and consistent with [Safety (Constraint)](core_05defs_continuity.md#safety-constraint), including:
+    - technical;
+    - organizational;
+    - social; and
+    - ecological.
+  - **Out of scope:** rollback, bounding, or containment claims that cannot actually restore, bound, or contain the affected state within feasible limits.
 <a id="reversibility-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Continuity measurement family — primary owner for reversibility measurement within the continuity family.
 
-    **Primary assessment:** Assess recovery and containment under normal, degraded, and adversarial conditions, including implications for [Risk](core_05defs_continuity.md#risk), [Irreversible Harm](core_05defs_accountability.md#irreversible-harm), and [Cascading Failure](core_05defs_continuity.md#cascading-failure).
-  - **Secondary measure:** [Irreversible Harm](core_05defs_accountability.md#irreversible-harm), [Cascading Failure](core_05defs_continuity.md#cascading-failure), [Risk](core_05defs_continuity.md#risk), and [Safety (Constraint)](core_05defs_continuity.md#safety-constraint) — co-measures that set containment thresholds.
+    **Primary assessment:** Assess recovery and containment under:
+    - normal conditions;
+    - degraded conditions; and
+    - adversarial conditions.
+    Include implications for:
+    - [Risk](core_05defs_continuity.md#risk);
+    - [Irreversible Harm](core_05defs_accountability.md#irreversible-harm); and
+    - [Cascading Failure](core_05defs_continuity.md#cascading-failure).
+  - **Secondary measure:** co-measures that set containment thresholds:
+    - [Irreversible Harm](core_05defs_accountability.md#irreversible-harm);
+    - [Cascading Failure](core_05defs_continuity.md#cascading-failure);
+    - [Risk](core_05defs_continuity.md#risk); and
+    - [Safety (Constraint)](core_05defs_continuity.md#safety-constraint).
 
     **Secondary assessment:** When evaluating the primary trace, apply [Classification-Scaled Governance](core_05defs_oversight.md#classification-scaled-governance) and incorporated implementation requirements without narrowing this constitutional requirement.
 <a id="reversibility-constitutional-c"></a>
 - **What must hold**
-  - **Primary failure:** proceeding without feasible reversibility or containment where Chapter One, applicable rights, or [Classification-Scaled Governance](core_05defs_oversight.md#classification-scaled-governance) obligations require it — particularly where [Irreversible Harm](core_05defs_accountability.md#irreversible-harm) or [Cascading Failure](core_05defs_continuity.md#cascading-failure) is reasonably in play.
-  - **Secondary failure:** treating rollback or containment claims as satisfied by implementation assertions without observable recovery capacity under stress.
+  - **Primary failure:** proceeding without feasible reversibility or containment where required by:
+    - Chapter One;
+    - applicable rights; or
+    - [Classification-Scaled Governance](core_05defs_oversight.md#classification-scaled-governance) —
+    especially where [Irreversible Harm](core_05defs_accountability.md#irreversible-harm) or [Cascading Failure](core_05defs_continuity.md#cascading-failure) is reasonably in play.
+  - **Secondary failure:** treating rollback or containment as done because someone said the system can do it, without showing that it can actually recover under stress.
 
 ---
 
@@ -595,19 +643,66 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 *In plain terms: a system's ability to detect trouble, limit the damage, and restore normal constitutional operation after a fault — without hiding evidence, expanding its own authority, or quietly narrowing rights.*
 
 - **What it is**
-  - **In scope:** A system's capacity to detect, contain, and restore constitutional operation after disturbance, fault, degradation, or constraint violation. Includes early detection of fault or degradation, bounded containment of blast radius, intended and disclosed degradation paths, safe-failure preference under uncertainty, and proportionate restoration that preserves the Chapter Six Rights Floor. A property of constitutional compliance under disturbance — not a license for a system to reconfigure its own authority, audit channels, or constitutional obligations.
-  - **Depends on:** [Safety (Constraint)](core_05defs_continuity.md#safety-constraint), [Truth (Constitutional Constraint)](core_05defs_oversight.md#truth-constitutional-constraint), [Trust](core_05defs_continuity.md#trust), and [Reversibility](core_05defs_continuity.md#reversibility-constitutional) — constitutive bounds; recovery outside these bounds is not Self-Healing within the meaning of this Constitution.
-  - **Out of scope:** automatic recovery that masks root cause, suppresses evidence, silently narrows the Chapter Six Rights Floor, expands authority beyond the pre-fault envelope, or bypasses audit or contestability channels.
+  - **In scope:** A system's capacity to detect, contain, and restore constitutional operation after:
+    - disturbance;
+    - fault;
+    - degradation; or
+    - constraint violation.
+    A property of constitutional compliance under disturbance.
+  - Includes:
+    - early detection of fault or degradation;
+    - bounded containment of blast radius;
+    - intended and disclosed degradation paths;
+    - safe-failure preference under uncertainty; and
+    - proportionate restoration that preserves the Chapter Six Rights Floor.
+  - **Depends on** these constitutive bounds — recovery outside them is not Self-Healing within the meaning of this Constitution:
+    - [Safety (Constraint)](core_05defs_continuity.md#safety-constraint);
+    - [Truth (Constitutional Constraint)](core_05defs_oversight.md#truth-constitutional-constraint);
+    - [Trust](core_05defs_continuity.md#trust); and
+    - [Reversibility](core_05defs_continuity.md#reversibility-constitutional).
+  - **Out of scope:** automatic recovery that:
+    - masks root cause;
+    - suppresses evidence;
+    - silently narrows the Chapter Six Rights Floor;
+    - expands authority beyond the pre-fault envelope;
+    - reconfigures its own authority, audit channels, or constitutional obligations; or
+    - bypasses audit or contestability channels.
 <a id="self-healing-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Continuity measurement family — supporting measure under the continuity measurement family.
+  - **Primary measure:** Continuity measurement family — supporting measure for Self-Healing.
 
-    **Primary assessment:** Distinguish genuine recovery from masking. Recovery that suppresses, overwrites, delays, or obscures evidence needed for root-cause analysis under **Article XXI** (*Root Cause Analysis and Adaptive Response*), or that silently narrows Rights-Floor guarantees, is not Self-Healing within the meaning of this Constitution. It is epistemic degradation under [Truth (Constitutional Constraint)](core_05defs_oversight.md#truth-constitutional-constraint) and an incentive-alignment defect under [Incentive Alignment](core_05defs_integrative.md#incentive-alignment). Evaluation covers: detection latency; containment scope; graceful-degradation paths; safe-failure preference; [Reversibility](core_05defs_continuity.md#reversibility-constitutional) of recovery actions; observability of recovery attempts (including suppressed attempts); [Dependency](core_05defs_continuity.md#dependency) and [Cascading Failure](core_05defs_continuity.md#cascading-failure) propagation; [Accountability](core_05apex_accountability_leg.md#accountability) for recovery decisions; and autonomy-scaling consistent with [Meaningful Agency](core_05defs_participation.md#meaningful-agency) and [Contestability](core_05defs_accountability.md#contestability). Detailed recovery architecture requirements appear in incorporated implementation text, including [corpus_systems.md](corpus_systems.md) Protocol A, Protocol S4, and Protocol D, and must not narrow this constitutional requirement.
+    **Primary assessment:** Distinguish genuine recovery from masking. Recovery is not Self-Healing within the meaning of this Constitution when it:
+    - suppresses, overwrites, delays, or obscures evidence needed for root-cause analysis under **Article XXI** (*Root Cause Analysis and Adaptive Response*); or
+    - silently narrows Rights-Floor guarantees.
+    That kind of recovery is:
+    - epistemic degradation under [Truth (Constitutional Constraint)](core_05defs_oversight.md#truth-constitutional-constraint); and
+    - an incentive-alignment defect under [Incentive Alignment](core_05defs_integrative.md#incentive-alignment).
+  - **Evaluation covers:**
+    - detection latency;
+    - containment scope;
+    - graceful-degradation paths;
+    - safe-failure preference;
+    - [Reversibility](core_05defs_continuity.md#reversibility-constitutional) of recovery actions;
+    - observability of recovery attempts (including suppressed attempts);
+    - [Dependency](core_05defs_continuity.md#dependency) and [Cascading Failure](core_05defs_continuity.md#cascading-failure) propagation;
+    - [Accountability](core_05apex_accountability_leg.md#accountability) for recovery decisions; and
+    - autonomy-scaling of the recovering system under **Article XII-E** (*High-Autonomy Systems and Tool-Mediated Process Integrity*), consistent with [Meaningful Agency](core_05defs_participation.md#meaningful-agency) and [Contestability](core_05defs_accountability.md#contestability).
+  - Detailed recovery architecture requirements appear in incorporated implementation text, including [corpus_systems.md](corpus_systems.md) Protocol A, Protocol S4, and Protocol D, and must not narrow this constitutional requirement.
 <a id="self-healing-constitutional-c"></a>
 - **What must hold**
-  - **Primary failure:** automatic recovery that masks root cause, suppresses evidence, silently narrows the Chapter Six Rights Floor, expands authority beyond the pre-fault envelope, bypasses [Contestability](core_05defs_accountability.md#contestability) or audit channels, or operationally closes a defective condition without an open root-cause obligation under **Article XXI** (*Root Cause Analysis and Adaptive Response*);
-  - **Secondary failure:** treating Self-Healing as a substitute for governance, or as justification to reduce [Auditability](core_05defs_oversight.md#auditability), [Transparency](core_05defs_oversight.md#transparency), or stewardship obligations under [Incentive Alignment](core_05defs_integrative.md#incentive-alignment);
-  - **Tertiary failure:** recovery authority exceeding what is necessary and proportionate to the fault, or exercised by high-autonomy systems outside the scope of **Article XII-E** (*High-Autonomy Systems and Tool-Mediated Process Integrity*).
+  - **Primary failure:** automatic recovery that:
+    - masks root cause;
+    - suppresses evidence;
+    - silently narrows the Chapter Six Rights Floor;
+    - expands authority beyond the pre-fault envelope;
+    - bypasses [Contestability](core_05defs_accountability.md#contestability) or audit channels; or
+    - operationally closes a defective condition without an open root-cause obligation under **Article XXI** (*Root Cause Analysis and Adaptive Response*).
+  - **Secondary failure:** treating Self-Healing as:
+    - a substitute for governance; or
+    - justification to reduce [Auditability](core_05defs_oversight.md#auditability), [Transparency](core_05defs_oversight.md#transparency), or stewardship obligations under [Incentive Alignment](core_05defs_integrative.md#incentive-alignment).
+  - **Tertiary failure:** recovery authority that:
+    - exceeds what is necessary and proportionate to the fault; or
+    - is exercised by high-autonomy systems outside the scope of **Article XII-E** (*High-Autonomy Systems and Tool-Mediated Process Integrity*).
 
 ---
 
