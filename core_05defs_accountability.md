@@ -202,13 +202,11 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
 
 #### Contingent Claim, Event-Contract Market, Game of Chance, and Insider Advantage
 
-**Cluster context:** This semi-independent topic group names contingent settlement forms and the integrity overlay that governs unfair edges in those structures. [Contingent Claim](core_05defs_accountability.md#contingent-claim) is the genus: a right to a payout that depends on an uncertain future event outside the claim itself. [Event-Contract Market](core_05defs_accountability.md#event-contract-market) and [Game of Chance](core_05defs_accountability.md#game-of-chance) are kinds of Contingent Claim — external-event settlement venues and chance-based payouts, respectively. [Insider Advantage](core_05defs_accountability.md#insider-advantage) is the integrity overlay for non-public or role-based edges in staking, trading, settlement, or influence over those structures. These definitions operate together where contingent claims, games of chance, or event-contract markets are material, consistent with [Chapter One §11.5](core_01_c_stewardship_capacity_principles.md#115-contingent-claims-games-of-chance-and-event-contract-markets).
-
-**Topic group members.** This group comprises:
-- [Contingent Claim](core_05defs_accountability.md#contingent-claim);
-- [Event-Contract Market](core_05defs_accountability.md#event-contract-market);
-- [Game of Chance](core_05defs_accountability.md#game-of-chance);
-- [Insider Advantage](core_05defs_accountability.md#insider-advantage).
+**Cluster context:** This semi-independent topic group names contingent settlement forms and the integrity overlay that governs unfair edges in those structures. These definitions operate together where contingent claims, games of chance, or event-contract markets are material, consistent with [Chapter One §11.5](core_01_c_stewardship_capacity_principles.md#115-contingent-claims-games-of-chance-and-event-contract-markets).
+- [Contingent Claim](core_05defs_accountability.md#contingent-claim) — the genus: a right to a payout that depends on an uncertain future event outside the claim itself.
+- [Event-Contract Market](core_05defs_accountability.md#event-contract-market) — a kind of Contingent Claim: external-event settlement venues.
+- [Game of Chance](core_05defs_accountability.md#game-of-chance) — a kind of Contingent Claim: chance-based payouts.
+- [Insider Advantage](core_05defs_accountability.md#insider-advantage) — the integrity overlay for non-public or role-based edges in staking, trading, settlement, or influence over those structures.
 
 *Measurements (family routing):* Accountability measurement family and Timeliness measurement family — operative tiers on [Contingent Claim](core_05defs_accountability.md#contingent-claim), [Event-Contract Market](core_05defs_accountability.md#event-contract-market), [Game of Chance](core_05defs_accountability.md#game-of-chance), and [Insider Advantage](core_05defs_accountability.md#insider-advantage) below; progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md).
 
@@ -342,24 +340,22 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
 
 #### Accountability, contestability, and redress pathways
 
-**Cluster context:** This semi-independent topic group establishes the foundational mechanisms for holding actors responsible and seeking correction of constitutional violations. It covers the attribution of responsibility ([Accountability](core_05apex_accountability_leg.md#accountability)), the ability to challenge and seek remedy ([Contestability](core_05defs_accountability.md#contestability)), fair and reviewable process for materially rights-affecting decisions and outcomes ([Due Process](core_05defs_accountability.md#due-process-constitutional)), formal pathways for resolving disputes ([Adjudication and Dispute Resolution](core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional)), binding substantive dispositions in those pathways ([Merits Determination](core_05defs_accountability.md#merits-determination)), temporary pause or reliance-limit orders pending further review ([Stay](core_05defs_accountability.md#stay)), principle-layer responsiveness across the coordination lifecycle ([Timeliness](core_05apex_timeliness_leg.md#timeliness-constitutional)), resolution within materiality-scaled windows ([Timely Resolution](core_05defs_accountability.md#timely-resolution-constitutional)), reasonably avoidable failures of care that produce material harm ([Negligence](core_05defs_accountability.md#negligence)), care failures under diffused or collective responsibility ([Collective Accountability Failure](core_05defs_accountability.md#collective-accountability-failure)), acknowledgment and proportionate correction ([Redress and Remediation](core_05defs_accountability.md#redress-and-remediation-constitutional)), the lasting capacity that makes those pathways work ([Remedy System](core_05defs_accountability.md#remedy-system-constitutional)), restorative priority where required ([Restorative Justice](core_05defs_accountability.md#restorative-justice)), exceptional external disruptions ([Force Majeure](core_05defs_accountability.md#force-majeure-constitutional)), and protection against capture of outcome-determination mechanisms ([Capture of Resolution Pathways](core_05defs_accountability.md#capture-of-resolution-pathways)). These definitions operate together where review, redress, or resolution of constitutional claims is material.
-
-**Topic group members.** This group comprises:
-- [Accountability](core_05apex_accountability_leg.md#accountability);
-- [Contestability](core_05defs_accountability.md#contestability);
-- [Due Process](core_05defs_accountability.md#due-process-constitutional);
-- [Adjudication and Dispute Resolution](core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional);
-- [Merits Determination](core_05defs_accountability.md#merits-determination);
-- [Stay](core_05defs_accountability.md#stay);
-- [Timeliness](core_05apex_timeliness_leg.md#timeliness-constitutional);
-- [Timely Resolution](core_05defs_accountability.md#timely-resolution-constitutional);
-- [Negligence](core_05defs_accountability.md#negligence);
-- [Collective Accountability Failure](core_05defs_accountability.md#collective-accountability-failure);
-- [Redress and Remediation](core_05defs_accountability.md#redress-and-remediation-constitutional);
-- [Remedy System](core_05defs_accountability.md#remedy-system-constitutional);
-- [Restorative Justice](core_05defs_accountability.md#restorative-justice);
-- [Force Majeure](core_05defs_accountability.md#force-majeure-constitutional);
-- [Capture of Resolution Pathways](core_05defs_accountability.md#capture-of-resolution-pathways).
+**Cluster context:** This semi-independent topic group establishes the foundational mechanisms for holding actors responsible and seeking correction of constitutional violations. These definitions operate together where review, redress, or resolution of constitutional claims is material.
+- [Accountability](core_05apex_accountability_leg.md#accountability) — attribution of responsibility.
+- [Contestability](core_05defs_accountability.md#contestability) — ability to challenge and seek remedy.
+- [Due Process](core_05defs_accountability.md#due-process-constitutional) — fair and reviewable process for materially rights-affecting decisions and outcomes.
+- [Adjudication and Dispute Resolution](core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) — formal pathways for resolving disputes.
+- [Merits Determination](core_05defs_accountability.md#merits-determination) — binding substantive dispositions in those pathways.
+- [Stay](core_05defs_accountability.md#stay) — temporary pause or reliance-limit orders pending further review.
+- [Timeliness](core_05apex_timeliness_leg.md#timeliness-constitutional) — principle-layer responsiveness across the coordination lifecycle.
+- [Timely Resolution](core_05defs_accountability.md#timely-resolution-constitutional) — resolution within materiality-scaled windows.
+- [Negligence](core_05defs_accountability.md#negligence) — reasonably avoidable failures of care that produce material harm.
+- [Collective Accountability Failure](core_05defs_accountability.md#collective-accountability-failure) — care failures under diffused or collective responsibility.
+- [Redress and Remediation](core_05defs_accountability.md#redress-and-remediation-constitutional) — acknowledgment and proportionate correction.
+- [Remedy System](core_05defs_accountability.md#remedy-system-constitutional) — the lasting capacity that makes those pathways work.
+- [Restorative Justice](core_05defs_accountability.md#restorative-justice) — restorative priority where required.
+- [Force Majeure](core_05defs_accountability.md#force-majeure-constitutional) — exceptional external disruptions.
+- [Capture of Resolution Pathways](core_05defs_accountability.md#capture-of-resolution-pathways) — protection against capture of outcome-determination mechanisms.
 
 *Measurements (family routing):* Accountability measurement family and Timeliness measurement family — operative tiers on [Accountability](core_05apex_accountability_leg.md#accountability), [Contestability](core_05defs_accountability.md#contestability), [Due Process](core_05defs_accountability.md#due-process-constitutional), [Timeliness](core_05apex_timeliness_leg.md#timeliness-constitutional), [Timely Resolution](core_05defs_accountability.md#timely-resolution-constitutional), [Negligence](core_05defs_accountability.md#negligence), [Redress and Remediation](core_05defs_accountability.md#redress-and-remediation-constitutional), [Remedy System](core_05defs_accountability.md#remedy-system-constitutional), [Restorative Justice](core_05defs_accountability.md#restorative-justice), and [Capture of Resolution Pathways](core_05defs_accountability.md#capture-of-resolution-pathways) below; progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md).
 
@@ -1010,15 +1006,13 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
 
 #### Governance architecture, decentralization, and concentration
 
-**Cluster context:** This semi-independent topic group establishes the structural framework for how authority is organized and constrained. [Governance](core_05defs_accountability.md#governance) defines the structures, rules, and processes by which systems are directed and held accountable. [Decentralization](core_05defs_accountability.md#decentralization) requires placement of authority at the least centralized scale that can satisfy binding requirements. [Market Structure](core_05defs_accountability.md#market-structure-constitutional) states the principle-layer discipline for contestable productive conditions. [Market Concentration Threshold](core_05defs_accountability.md#market-concentration-threshold-constitutional) provides the operational trigger for heightened review when material concentration reaches problematic levels. These definitions implement [Chapter One §13 Market Structure](core_01_c_stewardship_capacity_principles.md#13-market-structure) and constrain [System Capture](core_05defs_continuity.md#system-capture) through distributed, accountable authority structures.
+**Cluster context:** This semi-independent topic group establishes the structural framework for how authority is organized and constrained. These definitions implement [Chapter One §13 Market Structure](core_01_c_stewardship_capacity_principles.md#13-market-structure) and constrain [System Capture](core_05defs_continuity.md#system-capture) through distributed, accountable authority structures.
+- [Governance](core_05defs_accountability.md#governance) — structures, rules, and processes by which systems are directed and held accountable.
+- [Decentralization](core_05defs_accountability.md#decentralization) — placement of authority at the least centralized scale that can satisfy binding requirements.
+- [Market Structure](core_05defs_accountability.md#market-structure-constitutional) — principle-layer discipline for contestable productive conditions.
+- [Market Concentration Threshold](core_05defs_accountability.md#market-concentration-threshold-constitutional) — operational trigger for heightened review when material concentration reaches problematic levels.
 
 **Principle-layer interface.** Read this cluster with [Chapter One §9.5 Aligned Self-Organization](core_01_c_stewardship_capacity_principles.md#95-aligned-self-organization). That principle explains how sentient-initiated and community-initiated constitutional work receives a real procedural path without allowing incumbents to monopolize initiative or review. It is not a grant of governing, enforcement, coercive, or merits authority and is not an additional definition in this cluster.
-
-**Topic group members.** This group comprises:
-- [Governance](core_05defs_accountability.md#governance);
-- [Decentralization](core_05defs_accountability.md#decentralization);
-- [Market Structure](core_05defs_accountability.md#market-structure-constitutional);
-- [Market Concentration Threshold](core_05defs_accountability.md#market-concentration-threshold-constitutional).
 
 *Measurements (family routing):* Accountability measurement family — operative tiers on [Market Structure](core_05defs_accountability.md#market-structure-constitutional) and [Market Concentration Threshold](core_05defs_accountability.md#market-concentration-threshold-constitutional) below; progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md).
 
