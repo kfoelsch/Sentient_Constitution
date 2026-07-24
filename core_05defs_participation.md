@@ -306,6 +306,8 @@ Independent Definitions meta rules live in [core_05_definitions_home.md](core_05
 - [System Creation](core_05defs_participation.md#system-creation-constitutional);
 - [Business Creation](core_05defs_participation.md#business-creation-constitutional).
 
+*Measurements (family routing):* Participation measurement family — operative tiers on the member definitions below; progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md).
+
 
 
 ---
@@ -497,6 +499,8 @@ Independent Definitions meta rules live in [core_05_definitions_home.md](core_05
 - [Consent, Sexual](core_05defs_participation.md#consent-sexual);
 - [Coercion and Manipulation](core_05defs_participation.md#coercion-and-manipulation-constitutional).
 
+*Measurements (family routing):* Participation measurement family — operative tiers on the member definitions below; progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md).
+
 
 
 ---
@@ -661,6 +665,8 @@ Independent Definitions meta rules live in [core_05_definitions_home.md](core_05
 - [Protected Characteristic Proxying and Disparate Impact](core_05defs_participation.md#protected-characteristic-proxying-and-disparate-impact);
 - [Protected Intimate-Signal Gating](core_05defs_participation.md#protected-intimate-signal-gating);
 - [Protected Commercial Sexual Services Status and **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) Circumvention](core_05defs_participation.md#protected-commercial-sexual-services-status-and-article-x-c-circumvention).
+
+*Measurements (family routing):* Participation measurement family — operative tiers on the member definitions below; progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md).
 
 
 
@@ -931,6 +937,8 @@ Independent Definitions meta rules live in [core_05_definitions_home.md](core_05
 - [Best-Interest Standard](core_05defs_participation.md#best-interest-standard-constitutional);
 - [Instantiation Consent](core_05defs_participation.md#instantiation-consent-constitutional);
 - [Graduated Capability](core_05defs_participation.md#graduated-capability-constitutional).
+
+*Measurements (family routing):* Participation measurement family — operative tiers on the member definitions below; progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md).
 
 
 
@@ -1246,6 +1254,8 @@ Independent Definitions meta rules live in [core_05_definitions_home.md](core_05
 - [Stakeholder](core_05defs_participation.md#stakeholder);
 - [Stakeholder Participation Weight](core_05defs_participation.md#stakeholder-participation-weight).
 
+*Measurements (family routing):* Participation measurement family — operative tiers on the member definitions below; progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md).
+
 
 
 ---
@@ -1331,6 +1341,8 @@ Independent Definitions meta rules live in [core_05_definitions_home.md](core_05
 - [Movement and Relocation](core_05defs_participation.md#movement-and-relocation-constitutional);
 - [Refuge from Non-Compliance](core_05defs_participation.md#refuge-from-non-compliance-constitutional);
 - [Non-Statelessness](core_05defs_participation.md#non-statelessness-constitutional).
+
+*Measurements (family routing):* Participation measurement family — operative tiers on the member definitions below; progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md).
 
 
 
@@ -1479,6 +1491,8 @@ This cluster is the canonical O/M/A/C home for **Animal Life**, **Contested-Sent
 - [Sentience Status Adjudication](core_05defs_participation.md#sentience-status-adjudication-constitutional);
 - [Sentience Evaluation](core_05defs_participation.md#sentience-evaluation-e);
 - [Article V-E](core_06-06_rights_part_b.md#article-v-e-sentience-status-adjudication-floor) (*Sentience-Status Adjudication Floor*), as the Rights-Floor owner where sentience status is materially uncertain, disputed, contested, narrowed, revoked, or restored.
+
+*Measurements (family routing):* Participation measurement family — operative tiers on the member definitions below; progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md).
 
 
 
@@ -1681,6 +1695,8 @@ This cluster is the canonical compound-definition home for binding stakeholder c
 
 **Joint invocation and anti-bypass.** Under [Joint invocation and satisfaction](core_05_definitions_home.md#joint-invocation-and-satisfaction), a binding stakeholder-choice matter must not be segmented into separate deliberation, representation, weighting, record, or rights-collision issues in a way that satisfies one component while defeating the others. A published sequence without meaningful stakeholder representation, a weighting model without contest and revalidation, or a binding rights-affecting outcome without the required rights-collision record is non-compliant within the admission scope.
 
+*Measurements (family routing):* Participation measurement family — operative tiers on the member definitions below; progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md).
+
 
 
 <a id="binding-stakeholder-choice-decision-resolution-requirements"></a>
@@ -1774,6 +1790,8 @@ This cluster is the joint-invocation home for self-determination, meaningful age
 - [Freedom (Bounded Agency)](core_05defs_participation.md#freedom-bounded-agency), where volitional or bounded-agency disciplines materially intersect this cluster.
 
 **Joint invocation and anti-bypass.** Under [Joint invocation and satisfaction](core_05_definitions_home.md#joint-invocation-and-satisfaction), a matter within the admission scope must not be segmented into separate speech, platform, curricular, or surveillance questions in a way that preserves nominal liberty while defeating substantive agency through coercion, manipulation, or informational capture.
+
+*Measurements (family routing):* Participation measurement family — operative tiers on the member definitions below; progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md).
 
 ---
 

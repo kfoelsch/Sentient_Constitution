@@ -242,7 +242,7 @@ Not every definition requires all three tiers. Independent building blocks may d
 **Family vs definition**
 
 - Where a Ch00 family maps 1:1 to a term ([Wellbeing](core_05defs_continuity.md#wellbeing), [Materiality Determination](core_05defs_oversight.md#materiality-determination)), tiers attach on that definition entry.
-- Where a family is a cluster label ("Safety, harm, and risk," "Survival-floor access"), the **cluster head** carries family routing; leaves inherit or override explicitly.
+- Where a family is a cluster label ("Safety, harm, and risk," "Survival-floor access"), the **cluster head** carries family routing on the header's final `*Measurements (family routing):*` line (see **Cluster-header order** under Definition hierarchy); leaves inherit or override explicitly.
 
 **Distinct from standing measurement.** [Chapter Eight](core_08-08_standing_assessment.md) Contribution Axis / Violation Axis measurement is a *process* concept. Constitutional measurement categories (Preamble §2) supply the evidentiary frame for what gets verified before records enter the standing pipeline — see **section 4** measurement frame bullet.
 
@@ -270,7 +270,10 @@ Chapter Five organizes **226+ canonical definitions** across principle layer, co
 2. **Aim and leg apex files** — dedicated files hold canonical O/M/A/C plus decomposition routing only: [Flourishing aim](core_05apex_flourishing_aim.md), [Continuity aim](core_05apex_continuity_aim.md), [Oversight leg](core_05apex_oversight_leg.md), [Participation leg](core_05apex_participation_leg.md), [Accountability leg](core_05apex_accountability_leg.md), [Timeliness leg](core_05apex_timeliness_leg.md). Filename prefix `core_05apex_` sorts before band files.
 3. **Tetrad band / defs files** — substantive owner files (`core_05defs_*`): [Oversight](core_05defs_oversight.md), [Participation](core_05defs_participation.md), [Accountability](core_05defs_accountability.md), [Continuity band](core_05defs_continuity.md), [Integrative](core_05defs_integrative.md), [Performance](core_05defs_performance.md).
 4. **Taxonomy** — within each band: Independent → Semi-independent → Dependent clusters (Chapter Five §1–§3).
-5. **Clusters** — numbered §3.x / Chapter One §8.x dependent clusters and semi-independent topic groups (`**Cluster context:**` heads).
+5. **Clusters** — numbered §3.x / Chapter One §8.x dependent clusters and semi-independent topic groups (`**Cluster context:**` heads). **Cluster-header order** (top → bottom):
+   1. Cluster framing — `**Cluster context:**` for semi-independent topic groups, or the dependent-cluster joint-invocation / `**Admission scope.**` block (plus any cluster-specific framing such as system-class or principle-layer interface notes).
+   2. Member list — `**Topic group members.**` or `**Cluster members.**` (and any non-measurement header notes that must accompany the member list, such as `**Evaluation measure.**` or `**Joint invocation and anti-bypass.**`).
+   3. **Measurements last** — `*Measurements (family routing):* {family} — operative tiers on the member definitions below; progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md).` Optional cluster-specific read-withs (for example Protocol S5) may trail on the same Measurements line. Do not place Measurements above the member list, and do not place Topic group / Cluster members after Measurements.
 6. **Leaf definitions** — canonical `####` O/M/A/C entries (one visible label per term).
 
 **Orthogonal tags** (per term in [generated hierarchy index](doc_architecture/generated/definition_hierarchy.md))

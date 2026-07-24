@@ -927,6 +927,8 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
 - [Protected Reporting (Whistleblowing)](core_05defs_accountability.md#protected-reporting-whistleblowing);
 - [Protected Reporting Retaliation and Access Interference](core_05defs_accountability.md#protected-reporting-retaliation-and-access-interference).
 
+*Measurements (family routing):* Accountability measurement family — operative tiers on the member definitions below; progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md).
+
 <a id="protected-reporting-whistleblowing"></a>
 
 ---
@@ -1245,6 +1247,8 @@ The following limits also apply:
 - Offense, preference, discomfort, or disagreement alone is not sufficient without a material harm pathway.
 - A practice can still fall under this cluster even if it is described as private, local, expressive, commercial, technical, or collective. What matters is its real effect. The cluster applies when the practice causes material harm to protected interests or shared constitutional conditions — whether the harm is direct or indirect, appears later or builds over time, crosses systems, or affects the info-sphere, environment, wellbeing, or agency.
 
+*Measurements (family routing):* Accountability measurement family — operative tiers on the member definitions below; progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md).
+
 ---
 
 <a id="harm"></a>
@@ -1461,6 +1465,8 @@ Outside that scope, an individual forum-family entry may still be used as a supp
 - bypass routing based on what is mainly at stake;
 - avoid formal referral requirements; or
 - defeat backup routing that prevents a forum from judging its own matter.
+
+*Measurements (family routing):* Accountability measurement family and Timeliness measurement family — operative tiers on the member definitions below; progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md).
 
 ---
 
@@ -1815,6 +1821,8 @@ Outside that scope, an individual Chapter Eight through Chapter Ten hook may sti
 - [Sustained High-Gravity Pattern](core_05defs_accountability.md#sustained-high-gravity-pattern).
 
 **Joint invocation and anti-bypass.** Under [Joint invocation and satisfaction](core_05_definitions_home.md#joint-invocation-and-satisfaction), a matter within the admission scope must not be segmented into separate narrative, procedural, evidentiary, standing-effect, or incident-gravity compartments in a way that defeats joint assessment, verified-input gates, standing-lock discipline, Chapter Ten designation review, or non-substitution discipline required by Chapters Eight through Ten.
+
+*Measurements (family routing):* Accountability measurement family and Timeliness measurement family — operative tiers on the member definitions below; progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md).
 
 ---
 
@@ -2524,6 +2532,8 @@ Outside that admission scope, individual definitions may operate as supporting I
 - [Autonomous Coercion Tool](core_05defs_accountability.md#autonomous-coercion-tool-constitutional).
 
 **Joint invocation and anti-bypass.** Under [Joint invocation and satisfaction](core_05_definitions_home.md#joint-invocation-and-satisfaction), a matter within the admission scope must not be segmented into separate authorization, targeting, weapons-class, autonomy, coercion, or review questions in a way that satisfies one component while defeating materially interdependent force, discrimination, autonomy-control, or non-conflation duties.
+
+*Measurements (family routing):* Accountability measurement family — operative tiers on the member definitions below; progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md).
 
 ---
 

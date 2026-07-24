@@ -191,6 +191,8 @@ This band holds definitions under the **Oversight** Tetrad leg — transparency,
 - [Proxy Metric Gaming and Indicator-Reality Gaps](core_05defs_oversight.md#proxy-metric-gaming-and-indicator-reality-gaps);
 - [Material Degradation](core_05defs_oversight.md#material-degradation).
 
+*Measurements (family routing):* Oversight measurement family — operative tiers on the member definitions below; progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md).
+
 <a id="material"></a>
 
 ---

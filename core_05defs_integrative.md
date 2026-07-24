@@ -317,6 +317,8 @@ This cluster is the joint-invocation home for operative corpus identity, authori
 
 **Joint invocation and anti-bypass.** Under [Joint invocation and satisfaction](core_05_definitions_home.md#joint-invocation-and-satisfaction), a matter within the admission scope must not be segmented into separate labeling, process-artifact, edition-display, or interpretive-gloss questions in a way that treats non-binding material as operative corpus or inverts supremacy ordering without a valid adoption path.
 
+*Measurements (family routing):* Oversight measurement family and Accountability measurement family — operative tiers on the member definitions below; progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md).
+
 ---
 
 <a id="corpus"></a>
