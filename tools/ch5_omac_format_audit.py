@@ -3,15 +3,16 @@
 
 Two accepted shapes (see ``doc_architecture.md`` Measurement-informed O/M/A/C):
 
-1. **Aim / leg heads** (Flourishing, Continuity aim, Oversight file head) —
-   letter markers with an explicit Measurement register:
+1. **Aim / leg heads** (Flourishing, Continuity aim, Tetrad leg heads) —
+   either precise letter markers or the reader-facing guidepost form:
 
-       - O: …
-         - **In scope:** …
-         - Out of scope: …
-       - M: …
-       - A: …
-       - C: …
+       - O: … / - M: … / - A: … / - C: …
+         (with **In scope:** / Out of scope under O)
+
+       or
+
+       - **What it is** / **How to measure and assess** / **What must hold**
+         (same sublabels as leaf definitions)
 
 2. **Leaf definitions** (band ``####`` / ``#####`` entries) — guidepost form:
 
@@ -209,9 +210,14 @@ def audit_file(path: Path, rel: str) -> list[Finding]:
 
     if rel in CH5_AIMS or rel in LEG_HEAD_FILES:
         head_body = _file_head_body(entries[0][1])
-        issues = _check_letter_omac(head_body)
         if GUIDE_O_RE.search(head_body):
-            issues.append("aim/leg head must use letter O/M/A/C, not guidepost headers")
+            issues = _check_guidepost_omac(head_body)
+            # Aim/leg heads are not leaves; drop the leaf-migration residual.
+            issues = [
+                i for i in issues if i != "legacy letter-marker leaf (migrate to guidepost)"
+            ]
+        else:
+            issues = _check_letter_omac(head_body)
         if issues:
             findings.append(
                 Finding(rel, "__FILE_HEAD__", "head", issues)
@@ -253,7 +259,7 @@ def main() -> int:
     leaf_findings = [f for f in findings if f.kind == "leaf"]
 
     if head_findings:
-        print("FAIL — aim/leg heads (must use precise letter O/M/A/C):\n")
+        print("FAIL — aim/leg heads (letter O/M/A/C or guidepost form):\n")
         for f in head_findings:
             print(f"  {f.path} [{f.title}]")
             for issue in f.issues:

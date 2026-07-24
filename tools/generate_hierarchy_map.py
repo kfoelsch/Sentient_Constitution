@@ -204,8 +204,9 @@ def main() -> int:
     ]
     entries = [build_entry(defn, overrides) for defn in ch5_entries]
     present = {row["term"] for row in entries}
-    # Aim / Tetrad-leg apex heads are letter O/M/A/C file heads, not #### leaves —
-    # inject them from hierarchy overrides when absent from the registry.
+    # Aim / Tetrad-leg apex heads are file heads (letter or guidepost O/M/A/C),
+    # not #### leaves — inject them from hierarchy overrides when absent from
+    # the registry.
     for term, meta in overrides.get("terms", {}).items():
         if term in present:
             continue

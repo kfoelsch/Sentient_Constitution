@@ -113,27 +113,45 @@ def load_json(path: Path) -> dict:
 
 
 def extract_apex_omac_body(text: str, anchor: str) -> str | None:
-    """Extract letter O/M/A/C body following ``<a id="{anchor}">`` in an apex file."""
+    """Extract O/M/A/C body following ``<a id="{anchor}">`` in an apex file.
+
+    Accepts letter markers (``- O:`` / ``- M:`` / ``- A:`` / ``- C:``) or
+    reader-facing guidepost headers (``What it is`` / ``How to measure and
+    assess`` / ``What must hold``).
+    """
     marker = f'<a id="{anchor}"></a>'
     start = text.find(marker)
     if start < 0:
         return None
-    # Prefer the first letter O: block after the anchor.
-    o_match = re.search(r"^- O:", text[start:], re.MULTILINE)
+    # Prefer the first letter O: or guidepost O header after the anchor.
+    o_match = re.search(
+        r"^- O:|^- \*\*What it is\*\*\s*$",
+        text[start:],
+        re.MULTILINE,
+    )
     if not o_match:
         return None
     body_start = start + o_match.start()
     rest = text[body_start:]
-    # End at the first thematic break after the C: line.
-    c_match = re.search(r"^- C:.*$", rest, re.MULTILINE)
+    # End at the thematic break after the C component.
+    c_match = re.search(
+        r"^- C:.*$|^- \*\*What must hold\*\*\s*$",
+        rest,
+        re.MULTILINE,
+    )
     if not c_match:
         return rest
-    after_c = rest[c_match.end() :]
-    hr = re.search(r"\n---\s*\n", after_c)
-    if hr:
-        return rest[: c_match.end() + hr.start()]
-    return rest[: c_match.end()]
-
+    # Include the C block contents through the next --- (or end of C section).
+    after_c_header = rest[c_match.end() :]
+    # For guidepost form, C is a header followed by failure bullets; consume
+    # until the next horizontal rule or ### heading.
+    end_rel = re.search(r"\n---\s*\n|\n### ", after_c_header)
+    if end_rel:
+        return rest[: c_match.end() + end_rel.start()]
+    # Letter form: C is a single line.
+    if rest[c_match.start() :].startswith("- C:"):
+        return rest[: c_match.end()]
+    return rest
 
 def extract_definition_body(text: str, term: str) -> str | None:
     lines = text.splitlines()
@@ -189,8 +207,16 @@ def find_term_body(root: Path, term: str, registry: dict) -> tuple[str, str] | N
 
 def tier_checks(body: str, tier_depth: str) -> list[str]:
     errors: list[str] = []
-    # Apex aim/leg heads use letter-form ``- M:`` link-only rollups.
+    # Apex aim/leg heads may use letter-form ``- M:`` or guidepost
+    # ``**Primary measure:**`` link-only rollups.
     if LETTER_M_RE.search(body) and tier_depth == "primary_only":
+        return errors
+    if (
+        PRIMARY_MEAS_RE.search(body)
+        and tier_depth == "primary_only"
+        and not MEASUREMENTS_RE.search(body)
+    ):
+        # Guidepost aim/leg head with primary-only rollup — satisfied.
         return errors
     if not MEASUREMENTS_RE.search(body) and not PRIMARY_MEAS_RE.search(body):
         errors.append("missing measurement register (legacy *Measurements:* or M-Primary)")
