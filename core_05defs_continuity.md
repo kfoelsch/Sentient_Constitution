@@ -867,7 +867,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - [Constitutional Efficiency](core_05defs_continuity.md#constitutional-efficiency);
     - [Market Concentration Threshold](core_05defs_accountability.md#market-concentration-threshold-constitutional);
     - [Proxy Divergence](core_05defs_oversight.md#proxy-divergence); and
-    - Chapter Four traceability discipline.
+    - Chapter Four traceability of definitions to results.
   - Capacity claims fail regardless of nominal scale where they rest on:
     - domination;
     - proxy divergence;
@@ -984,7 +984,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 - **How to measure and assess**
   - **Primary measure:** Constitutional Performance measurement family — primary owner for untraced process and coordination cost in this family.
 
-    **Primary assessment:** Distinguish avoidable burden from constitutionally required burden using Chapter Four traceability discipline (a checkable path from each definition to what the system actually does). Detect burden that persists without traceable outcome, burden sustained by institutional inertia, tradition, or preference alone, and burden functioning as a pretextual barrier to [Meaningful Agency](core_05defs_participation.md#meaningful-agency), [Contestability](core_05defs_accountability.md#contestability), or participation.
+    **Primary assessment:** Distinguish avoidable burden from constitutionally required burden using Chapter Four traceability of definitions to results. Detect burden that persists without traceable outcome, burden sustained by institutional inertia, tradition, or preference alone, and burden functioning as a pretextual barrier to [Meaningful Agency](core_05defs_participation.md#meaningful-agency), [Contestability](core_05defs_accountability.md#contestability), or participation.
   - **Secondary measure:** [Proportionality](core_05defs_accountability.md#proportionality), [Necessity](core_05defs_accountability.md#necessity), [Feasibility](core_05defs_accountability.md#feasibility), [Burden-Reduction Duty](core_05defs_continuity.md#burden-reduction-duty-constitutional), [Productive Capacity](core_05defs_continuity.md#productive-capacity-constitutional), and [Constitutional Efficiency](core_05defs_continuity.md#constitutional-efficiency) — co-measures that distinguish required from avoidable cost.
 
     **Secondary assessment:** When evaluating the primary trace, test whether simplification, consolidation, automation, clarification, or removal of unnecessary steps would preserve the same constitutional outcomes with less burden. Reducing avoidable burden is not a ground for narrowing Rights-Floor protections, audit, or due-process obligations.

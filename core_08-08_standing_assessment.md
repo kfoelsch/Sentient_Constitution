@@ -105,7 +105,7 @@ Chapter Eight measurement does **not**, by itself, authorize force, detention, o
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§1](#2-purpose-and-role) (*three-question frame*); [Chapters Two through Four](core_02-03_definition_mechanics.md) (*record, verification, and tracing discipline*).
+- Upstream: [§1](#2-purpose-and-role) (*three-question frame*); [Chapters Two through Four](core_02-03_definition_mechanics.md) (*record, verification, and traceability of definitions to results*).
 - Tetrad leg(s): **participation**; **oversight** (contestability and challenge paths). Primary aim(s): **Flourishing** and **Continuity** (traceable records that preserve separate contribution and violation findings for later measurement).
 - Downstream: [§2.2](#22-linked-records-and-no-offset-bridge) (*linked-record no-offset bridge*); [§2.3](#23-question-1-event-type-guide) (*event-type guide*); [§3](#3-standing-record-operational-requirements) (*verified-input gate and forum boundary*); [§4](#4-standing-measurement-evaluation-dimensions) (*Question 2 measurement*); [§5](#5-slot-grammar-and-lequ-calibration) (*slot grammar and shared scaling*); [§6](#6-constitutional-inputs-to-axis-assignment) (*constitutional-source routing*); [§7](#7-unified-proportional-lequ-scale) (*unified proportional LEQU scale for both axes*); [Chapter Nine](core_09-09_standing_integration.md#chapter-nine-standing-effects-and-integration) (*Question 3*).
 
@@ -232,7 +232,7 @@ Each row in the table below names a common route of verified loss, danger, or du
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§2](#2-standing-records) (*Question 1 records and event-type guide*); [Chapters Two through Four](core_02-03_definition_mechanics.md) (*record, verification, and tracing discipline*).
+- Upstream: [§2](#2-standing-records) (*Question 1 records and event-type guide*); [Chapters Two through Four](core_02-03_definition_mechanics.md) (*record, verification, and traceability of definitions to results*).
 - Downstream: [§3.1](#31-minimum-record-contents) (*minimum contents and verified-input gate*); [§3.2](#32-related-record-cross-references) (*cross-references*); [§3.6](#36-forum-boundary) (*forum boundary*); [§4](#4-standing-measurement-evaluation-dimensions) (*Question 2*).
 
 </details>

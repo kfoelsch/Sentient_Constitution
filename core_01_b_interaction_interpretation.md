@@ -450,7 +450,7 @@ For this section:
 This section:
 - operates **only within** the set of options that already satisfy Safety, Truth, the Rights Floor, and the tradeoff principles in §6.1. It does **not** authorize reducing burden by weakening those protections.
 - pairs with **Least-Restrictive Effective Selection** in the [§6.1 decision-record discipline](#631-rights-collision-decision-test). Where this section applies, the selected action should be both the least-restrictive and the least-burdensome effective option.
-- treats over-process, over-restriction, and over-burden with no checkable link to a constitutional benefit as constitutional defects. Such defects are reviewable under **Chapter Eight** and correctable under **Chapter Four** traceability discipline (a checkable path from each definition to what the system actually does).
+- treats over-process, over-restriction, and over-burden with no checkable link to a constitutional benefit as constitutional defects. Such defects are reviewable under **Chapter Eight** and correctable under **Chapter Four** traceability of definitions to results.
 
 Claims that a given burden is constitutionally required must satisfy **Chapter Four** evidentiary and traceability requirements. Convenience, institutional inertia, tradition, or preference alone are not sufficient to sustain a burden that lacks a checkable link to a constitutional outcome, consistent with the [§6.1 decision-record discipline](#631-rights-collision-decision-test).
 

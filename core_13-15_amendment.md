@@ -399,7 +399,7 @@ Any proposed amendment that materially affects Chapter Six rights, adjudication 
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [§1](#1-heightened-review-for-rights-affecting-changes) heightened review gate.
-- Downstream: [§2](#4-test-2-procedural-validity-and-publication-integrity) Test 2 publication elements; [Chapter Four](core_02-03_definition_mechanics.md) tracing discipline referenced in operative text.
+- Downstream: [§2](#4-test-2-procedural-validity-and-publication-integrity) Test 2 publication elements; [Chapter Four](core_02-03_definition_mechanics.md) traceability of definitions to results referenced in operative text.
 - Read with: [Chapter Thirteen](core_13-15_amendment.md#chapter-thirteen-non-regression-and-substantive-amendment-validity) non-regression compatibility as required justification content.
 
 </details>
@@ -440,7 +440,7 @@ This chapter states minimum constitutional **procedural and custody** validity c
 
 *In plain terms: Test 2 is the "did you actually publish a real proposal with enough detail and time for **affected** **parties** to respond" test — shadow drafts and last-second rewrites that nobody can review do not pass.*
 
-A proposed amendment is invalid unless required publication elements are satisfied. Those elements include proposal text, scope, affected provisions, expected impacts, and contest pathways. They must be published with sufficient specificity and lead time for materially affected review. That publication must satisfy **Chapter Four** burden and traceability requirements (a checkable path from each definition to what the system actually does).
+A proposed amendment is invalid unless required publication elements are satisfied. Those elements include proposal text, scope, affected provisions, expected impacts, and contest pathways. They must be published with sufficient specificity and lead time for materially affected review. That publication must satisfy **Chapter Four** burden and traceability of definitions to results.
 
 ### 5. Test 3 — Authority-Chain and Custody Validity
 <details>

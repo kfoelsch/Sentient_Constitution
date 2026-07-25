@@ -15,7 +15,7 @@
 > - **Implementation owner:** system-class handling, Protocol A, and forum-process detail in designated implementation files must remain consistent with Chapter Seven and may be stricter where the corpus already provides stricter-rule logic.
 > - **Anti-relocation rule:** Part A does not restate Chapter Five canonical definitions, Chapter Three anti-evasion discipline (see [Part B §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion)), Chapter Eight contribution or standing measurement, or Chapter Nine standing effects. **[Part B §15](core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing)** states the standing bridge boundary explicitly.
 >
-> **Upstream:** Chapter Five definitions and Chapters Two through Four record, verification, burden, and tracing discipline.
+> **Upstream:** Chapter Five definitions and Chapters Two through Four record, verification, burden, and traceability of definitions to results.
 > **Downstream:** [Part B](core_07_b_system_alignment_certification_record_process.md#chapter-seven-part-b-certification-record-and-process) (*record, forum process, and standing bridge*); Chapter Eight standing records and verified inputs; Chapter Nine standing effects; Chapter Eleven forum supervision and system alignment certification pathways.
 
 </details>

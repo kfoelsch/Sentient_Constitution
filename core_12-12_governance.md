@@ -149,7 +149,7 @@ Mechanism families, publication, auditability, and pluralism are addressed in **
 
 - Upstream: [§1](#1-authorization-and-legitimacy-of-governing-authority) authorization premise; [Chapter Five](core_05_definitions_home.md#chapter-five-foundational-definitions) definitional lenses for [Epistemic Integrity](core_05defs_oversight.md#epistemic-integrity), [Materiality](core_05defs_oversight.md#materiality-determination), and related clustered definitions in federated contexts.
 - Downstream: Legitimacy sufficiency ties to [§11](#3-strategy-stewardship-direction-and-ecosystem-value-non-corporate); observable integrity feeds **Axis I / II** evaluation under [Chapter Eight](core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) where applicable.
-- Read with: [Chapters Two through Four](core_02-03_definition_mechanics.md) traceability, observability, and verification requirements (a checkable path from each definition to what the system actually does) referenced above.
+- Read with: [Chapters Two through Four](core_02-03_definition_mechanics.md) traceability of definitions to results, observability, and verification requirements referenced above.
 
 </details>
 
