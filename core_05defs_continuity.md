@@ -643,12 +643,11 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 *In plain terms: a system's ability to detect trouble, limit the damage, and restore normal constitutional operation after a fault — without hiding evidence, expanding its own authority, or quietly narrowing rights.*
 
 - **What it is**
-  - **In scope:** A system's capacity to detect, contain, and restore constitutional operation after:
+  - **In scope:** A property of constitutional compliance under disturbance — a system's capacity to detect, contain, and restore constitutional operation after:
     - disturbance;
     - fault;
     - degradation; or
     - constraint violation.
-    A property of constitutional compliance under disturbance.
   - Includes:
     - early detection of fault or degradation;
     - bounded containment of blast radius;
@@ -724,19 +723,36 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 *In plain terms: a breakdown in one system that spreads through the systems it is connected to, ending up bigger than where it started.*
 
 - **What it is**
-  - **In scope:** A failure that propagates across [Dependency](core_05defs_continuity.md#dependency)-linked systems, components, or institutions, amplifying impact beyond the originating system.
-  - **Out of scope:** an isolated fault contained to one system with no dependency-linked spread or amplification beyond where it started.
+  - **In scope:** A failure that amplifies impact beyond the originating system by propagating across [Dependency](core_05defs_continuity.md#dependency)-linked:
+    - systems;
+    - components; or
+    - institutions.
+  - **Out of scope:** an isolated fault that is:
+    - contained to one system;
+    - without dependency-linked spread; and
+    - without amplification beyond where it started.
 <a id="cascading-failure-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Continuity measurement family — propagation risk within the continuity measurement family.
+  - **Primary measure:** Continuity measurement family — propagation-risk measure.
 
-    **Primary assessment:** Evaluate propagation pathways across [Dependency](core_05defs_continuity.md#dependency) relationships where reasonably foreseeable and where resulting [Risk](core_05defs_continuity.md#risk) may spread across connected systems or institutions.
-  - **Secondary measure:** [Dependency](core_05defs_continuity.md#dependency), [Risk](core_05defs_continuity.md#risk), [System Boundary Integrity](core_05defs_continuity.md#system-boundary-integrity), and [Reversibility](core_05defs_continuity.md#reversibility-constitutional) — co-measures that can defeat containment even when the originating fault appears localized.
+    **Primary assessment:** Evaluate propagation pathways across [Dependency](core_05defs_continuity.md#dependency) relationships where:
+    - spread is reasonably foreseeable; and
+    - resulting [Risk](core_05defs_continuity.md#risk) may spread across connected systems or institutions.
+  - **Secondary measure:** co-measures that can defeat containment even when the originating fault appears localized:
+    - [Dependency](core_05defs_continuity.md#dependency);
+    - [Risk](core_05defs_continuity.md#risk);
+    - [System Boundary Integrity](core_05defs_continuity.md#system-boundary-integrity); and
+    - [Reversibility](core_05defs_continuity.md#reversibility-constitutional).
 
-    **Secondary assessment:** When evaluating the primary trace, include dependency mapping, boundary integrity, and reversibility limits that would allow amplification beyond the originating system.
+    **Secondary assessment:** When evaluating the primary trace, include factors that would allow amplification beyond the originating system:
+    - dependency mapping;
+    - boundary integrity; and
+    - reversibility limits.
 <a id="cascading-failure-c"></a>
 - **What must hold**
-  - **Primary failure:** systems fail to identify, prevent, or mitigate cascading pathways where [System Boundary Integrity](core_05defs_continuity.md#system-boundary-integrity) or dependency mapping should have revealed them.
+  - **Primary failure:** systems fail to identify, prevent, or mitigate cascading pathways that should have been revealed by:
+    - [System Boundary Integrity](core_05defs_continuity.md#system-boundary-integrity); or
+    - dependency mapping.
   - **Secondary failure:** treating localized fault containment as sufficient where dependency-linked propagation remains reasonably foreseeable.
 
 ---
@@ -760,32 +776,62 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 *In plain terms: risk so large it could destroy civilization-scale or survival-critical layers — not ordinary local accidents.*
 
 - **What it is**
-  - **In scope:** Risk of large-scale, civilization-relevant, or survival-critical harm — including irreversible loss of [Ecological Recovery Capacity](core_05defs_continuity.md#ecological-recovery-capacity-constitutional), collapse of critical layers supporting sentient life, failures of coordination around [Environmental Preconditions](core_05defs_continuity.md#environmental-preconditions-constitutional), and low-probability high-impact pathways.
-  - **Out of scope:** ordinary localized harm, reversible operational incidents, or routine safety issues that do not threaten civilization-scale or survival-critical layers.
+  - **In scope:** Risk of large-scale, civilization-relevant, or survival-critical harm, including:
+    - irreversible loss of [Ecological Recovery Capacity](core_05defs_continuity.md#ecological-recovery-capacity-constitutional);
+    - collapse of critical layers supporting sentient life;
+    - failures of coordination around [Environmental Preconditions](core_05defs_continuity.md#environmental-preconditions-constitutional); and
+    - rare paths that are unlikely to occur, but would cause catastrophic harm if they did.
+  - **Out of scope:** harm that does not threaten civilization-scale or survival-critical layers, including:
+    - ordinary localized harm;
+    - reversible operational incidents; and
+    - routine safety issues.
 <a id="existential-risk-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Continuity measurement family — supporting measure under the continuity measurement family.
+  - **Primary measure:** Continuity measurement family — supporting measure for Existential Risk.
 
-    **Primary assessment:** Do not exclude credible existential pathways under adversarial, scaled, aggregated, or threshold-dependent conditions. Incorporate [Dependency](core_05defs_continuity.md#dependency) and systemic feedback.
+    **Primary assessment:** Do not exclude credible existential pathways under conditions that are:
+    - adversarial;
+    - scaled;
+    - aggregated; or
+    - threshold-dependent.
+  - **Evaluation also incorporates:**
+    - [Dependency](core_05defs_continuity.md#dependency); and
+    - systemic feedback.
 <a id="existential-risk-c"></a>
 - **What must hold**
-  - **Primary failure:** Ignoring or materially understating credible existential pathways in [Classification-Scaled Governance](core_05defs_oversight.md#classification-scaled-governance), [Governance](core_05defs_accountability.md#governance), [Transparency](core_05defs_oversight.md#transparency), or safety analysis.
+  - **Primary failure:** Ignoring or materially understating credible existential pathways in:
+    - [Classification-Scaled Governance](core_05defs_oversight.md#classification-scaled-governance);
+    - [Governance](core_05defs_accountability.md#governance);
+    - [Transparency](core_05defs_oversight.md#transparency); or
+    - safety analysis.
 
 
 ---
 
 #### Constitutional efficiency, productive capacity, avoidable burden, and burden-reduction duty
 
-**Cluster context:** This semi-independent topic group governs the relationship between resource investment and constitutional outcomes. [Constitutional Efficiency](core_05defs_continuity.md#constitutional-efficiency) measures outcome-per-resource-consumed for constitutionally aligned results. [Productive Capacity](core_05defs_continuity.md#productive-capacity-constitutional) defines the system-level ability for meaningful participation without exploitation. [Avoidable Burden](core_05defs_continuity.md#avoidable-burden) identifies costs not traceable to constitutional outcomes. [Burden-Reduction Duty](core_05defs_continuity.md#burden-reduction-duty-constitutional) imposes an affirmative stewardship obligation to minimize such friction, including through simplification, consolidation, clarification, automation, or removal of unnecessary steps where constitutionally safe. Where these concepts intersect with proportionality, necessity, and feasibility constraints, [the dependent cluster](core_05defs_continuity.md#proportionality-necessity-feasibility-burden-and-efficiency-cluster) governs joint satisfaction. This cluster does not authorize efficiency gains or burden reduction achieved by weakening [Safety (Constraint)](core_05defs_continuity.md#safety-constraint), [Truth (Constitutional Constraint)](core_05defs_oversight.md#truth-constitutional-constraint), the Chapter Six Rights Floor, audit, [Contestability](core_05defs_accountability.md#contestability), or retrospective-review obligations.
+**Cluster context:**
+
+- **Scope:** relationship between resource investment and constitutional outcomes.
+- **Joint invocation:** where efficiency, productive capacity, avoidable burden, or burden-reduction routing is material.
+- **Independent use:** component definitions may still operate outside joint-invocation scope.
+- **Dependent cluster:** where proportionality, necessity, and feasibility constraints intersect, [the dependent cluster](core_05defs_continuity.md#proportionality-necessity-feasibility-burden-and-efficiency-cluster) governs joint satisfaction.
+- **Floor protection:** does not authorize efficiency gains or burden reduction achieved by weakening:
+  - [Safety (Constraint)](core_05defs_continuity.md#safety-constraint);
+  - [Truth (Constitutional Constraint)](core_05defs_oversight.md#truth-constitutional-constraint);
+  - the Chapter Six Rights Floor;
+  - audit;
+  - [Contestability](core_05defs_accountability.md#contestability); or
+  - retrospective-review obligations.
 
 **Evaluation measure.** Where magnitude assessment is material, [Lifespan Equivalent Unit (LEQU)](core_05defs_participation.md#lifespan-equivalent-unit-lequ) may serve as one potential calibration measure for evaluating the scale of productive capacity contribution, burden reduction achievement, or efficiency gains in constitutional-outcome terms.
 
 **Topic group members.** This group comprises:
-- [Shared-System Capacity](core_05defs_continuity.md#shared-system-capacity-constitutional);
-- [Constitutional Efficiency](core_05defs_continuity.md#constitutional-efficiency);
-- [Productive Capacity](core_05defs_continuity.md#productive-capacity-constitutional);
-- [Avoidable Burden](core_05defs_continuity.md#avoidable-burden);
-- [Burden-Reduction Duty](core_05defs_continuity.md#burden-reduction-duty-constitutional).
+- [Shared-System Capacity](core_05defs_continuity.md#shared-system-capacity-constitutional) — an instrumental Stewardship and Governance outcome: durable, contestable ability to achieve constitutionally aligned outcomes;
+- [Constitutional Efficiency](core_05defs_continuity.md#constitutional-efficiency) — outcome-per-resource-consumed for constitutionally aligned results;
+- [Productive Capacity](core_05defs_continuity.md#productive-capacity-constitutional) — the system-level ability for meaningful participation without exploitation;
+- [Avoidable Burden](core_05defs_continuity.md#avoidable-burden) — costs not traceable to constitutional outcomes;
+- [Burden-Reduction Duty](core_05defs_continuity.md#burden-reduction-duty-constitutional) — the affirmative stewardship obligation to minimize such friction where constitutionally safe.
 
 *Measurements (family routing):* Constitutional Performance measurement family — operative tiers on [Constitutional Efficiency](core_05defs_continuity.md#constitutional-efficiency), [Avoidable Burden](core_05defs_continuity.md#avoidable-burden), [Productive Capacity](core_05defs_continuity.md#productive-capacity-constitutional), and [Burden-Reduction Duty](core_05defs_continuity.md#burden-reduction-duty-constitutional) below; progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md).
 
@@ -806,16 +852,41 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 <br>
 
 - **What it is**
-  - **In scope:** The durable, contestable ability of sentients and shared systems to achieve constitutionally aligned outcomes over time — including [Productive Capacity](core_05defs_continuity.md#productive-capacity-constitutional), [Constitutional Efficiency](core_05defs_continuity.md#constitutional-efficiency), anti-concentration discipline, and the participation, exit, contestability, and ecological preconditions that keep capacity real rather than hollow. An **instrumental outcome** produced and preserved through [Stewardship](core_05defs_continuity.md#stewardship-constitutional) and [Governance](core_05defs_accountability.md#governance) operating under Values Principles (Chapter One, Part A); not a freestanding trump value.
+  - **In scope:** An **instrumental outcome** produced and preserved through [Stewardship](core_05defs_continuity.md#stewardship-constitutional) and [Governance](core_05defs_accountability.md#governance) operating under Values Principles (Chapter One, Part A); not a freestanding trump value. It results in the durable, contestable ability of sentients and shared systems to achieve constitutionally aligned outcomes over time, including:
+    - [Productive Capacity](core_05defs_continuity.md#productive-capacity-constitutional);
+    - [Constitutional Efficiency](core_05defs_continuity.md#constitutional-efficiency);
+    - anti-concentration discipline; and
+    - the participation, exit, contestability, and ecological preconditions that keep capacity real rather than hollow.
   - **Out of scope:** throughput, scale, or funding claims that do not preserve durable, contestable ability to achieve constitutionally aligned outcomes.
 <a id="shared-system-capacity-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Continuity measurement family — supporting measure under the continuity measurement family.
+  - **Primary measure:** Continuity measurement family — supporting measure for Shared-System Capacity.
 
-    **Primary assessment:** Treat as downstream of stewardship and governance discipline, not as a license for scale, throughput, or concentration. Apply [Productive Capacity](core_05defs_continuity.md#productive-capacity-constitutional), [Constitutional Efficiency](core_05defs_continuity.md#constitutional-efficiency), [Market Concentration Threshold](core_05defs_accountability.md#market-concentration-threshold-constitutional), [Proxy Divergence](core_05defs_oversight.md#proxy-divergence), and Chapter Four tracing discipline for component tests. Capacity claims resting on domination, proxy divergence, irreversible lock-in, or governance that defeats the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) fail regardless of nominal scale.
+    **Primary assessment:** Treat as downstream of stewardship and governance discipline, not as a license for scale, throughput, or concentration. Apply the following for component tests:
+    - [Productive Capacity](core_05defs_continuity.md#productive-capacity-constitutional);
+    - [Constitutional Efficiency](core_05defs_continuity.md#constitutional-efficiency);
+    - [Market Concentration Threshold](core_05defs_accountability.md#market-concentration-threshold-constitutional);
+    - [Proxy Divergence](core_05defs_oversight.md#proxy-divergence); and
+    - Chapter Four tracing discipline.
+  - Capacity claims fail regardless of nominal scale where they rest on:
+    - domination;
+    - proxy divergence;
+    - irreversible lock-in; or
+    - governance that defeats the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad).
 <a id="shared-system-capacity-constitutional-c"></a>
 - **What must hold**
-  - claimed capacity improvements that materially degrade wellbeing, meaningful agency, dignity, ecological integrity, contestability, or constitutional review; capacity asserted without traceable constitutional outcomes under Chapters Two through Four; or capacity used to justify concentration, Rights-Floor narrowing, or short-horizon governance that defeats durable alignment.
+  - **Primary failure:** claimed capacity improvements that materially degrade:
+    - wellbeing;
+    - meaningful agency;
+    - dignity;
+    - ecological integrity;
+    - contestability; or
+    - constitutional review.
+  - **Secondary failure:** capacity asserted without traceable constitutional outcomes under Chapters Two through Four.
+  - **Tertiary failure:** capacity used to justify:
+    - concentration;
+    - Rights-Floor narrowing; or
+    - short-horizon governance that defeats durable alignment.
 
 <a id="constitutional-efficiency"></a>
 
