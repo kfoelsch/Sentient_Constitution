@@ -906,24 +906,63 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 <br>
 
 - **What it is**
-  - **In scope:** The ratio of constitutionally aligned outcomes achieved to the sentient time, attention, effort, coordination, and shared resources consumed to achieve them, evaluated under full functional scope. Read [Chapter One §11.1.5](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline) for instrumental-claims discipline.
-  - **Out of scope:** cost-cutting or speed metrics that diverge from constitutional outcomes, or that narrow Rights-Floor, audit, or contestability protections.
+  - **In scope:** The ratio of constitutionally aligned outcomes achieved to the resources consumed to achieve them, evaluated under full functional scope and under [Chapter One §11.1.5](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline) instrumental-claims discipline. Resources in the denominator include:
+    - sentient time;
+    - attention;
+    - effort;
+    - coordination;
+    - materials;
+    - infrastructure; and
+    - energy (electricity, fuel, and cognate inputs).
+  - **Out of scope:** cost-cutting or speed metrics that diverge from constitutional outcomes, including:
+    - raw speed;
+    - administrative convenience;
+    - utilization targets;
+    - revenue growth;
+    - market share;
+    - headcount cuts;
+    - cost-cutting for its own sake; and
+    - metrics that narrow Rights-Floor protections, audit, or contestability.
 <a id="constitutional-efficiency-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Constitutional Performance measurement family — primary owner for outcome-per-resource measurement in this family.
 
-    **Primary assessment:** Trace claimed efficiency to underlying constitutional outcomes under Chapter Four. Distinguish constitutional efficiency from reductions in [Avoidable Burden](core_05defs_continuity.md#avoidable-burden). Constitutional efficiency is outcome-per-resource. Reductions in [Avoidable Burden](core_05defs_continuity.md#avoidable-burden) are cost untraced to any constitutional outcome.
-  - **Secondary measure:** [Productive Capacity](core_05defs_continuity.md#productive-capacity-constitutional), [Avoidable Burden](core_05defs_continuity.md#avoidable-burden), [Burden-Reduction Duty](core_05defs_continuity.md#burden-reduction-duty-constitutional), [Harm Minimization (Tradeoff Selection)](core_05defs_accountability.md#harm-minimization-tradeoff-selection), and [Proxy Metric Gaming and Indicator-Reality Gaps](core_05defs_oversight.md#proxy-metric-gaming-and-indicator-reality-gaps) — co-measures that can defeat efficiency even when throughput or utilization metrics improve.
+    **Primary assessment:** Trace claimed efficiency to underlying constitutional outcomes under Chapter Four. Distinguish constitutional efficiency from avoidable-burden reduction:
+    - constitutional efficiency is outcome-per-resource;
+    - cutting [Avoidable Burden](core_05defs_continuity.md#avoidable-burden) removes resource costs that serve no constitutional purpose.
+  - **Secondary measure:** co-measures that can defeat efficiency even when throughput or utilization metrics improve:
+    - [Productive Capacity](core_05defs_continuity.md#productive-capacity-constitutional);
+    - [Avoidable Burden](core_05defs_continuity.md#avoidable-burden);
+    - [Burden-Reduction Duty](core_05defs_continuity.md#burden-reduction-duty-constitutional);
+    - [Harm Minimization (Tradeoff Selection)](core_05defs_accountability.md#harm-minimization-tradeoff-selection); and
+    - [Proxy Metric Gaming and Indicator-Reality Gaps](core_05defs_oversight.md#proxy-metric-gaming-and-indicator-reality-gaps).
 
-    **Secondary assessment:** When evaluating the primary trace, read with [Productive Capacity](core_05defs_continuity.md#productive-capacity-constitutional), [Proportionality](core_05defs_accountability.md#proportionality), [Necessity](core_05defs_accountability.md#necessity), and [Harm Minimization (Tradeoff Selection)](core_05defs_accountability.md#harm-minimization-tradeoff-selection). Short-horizon gains do not satisfy compliance when they foreseeably produce medium- or long-horizon violations under [Chapter Seven §16.6](core_07_a_system_alignment_certification_evaluation.md#36-time-consistency-constraint).
-  - **Tertiary measure:** [Proxy Divergence](core_05defs_oversight.md#proxy-divergence) — where raw throughput, utilization, headcount, revenue, latency, or comparable proxies substitute for constitutional outcomes.
+    **Secondary assessment:** When evaluating the primary trace, read with:
+    - [Productive Capacity](core_05defs_continuity.md#productive-capacity-constitutional);
+    - [Proportionality](core_05defs_accountability.md#proportionality);
+    - [Necessity](core_05defs_accountability.md#necessity); and
+    - [Harm Minimization (Tradeoff Selection)](core_05defs_accountability.md#harm-minimization-tradeoff-selection).
+  - Short-horizon gains do not satisfy compliance when they foreseeably produce medium- or long-horizon violations under [Chapter Seven §16.6](core_07_a_system_alignment_certification_evaluation.md#36-time-consistency-constraint).
+  - **Tertiary measure:** [Proxy Divergence](core_05defs_oversight.md#proxy-divergence) — where proxies substitute for constitutional outcomes, including:
+    - raw throughput;
+    - utilization;
+    - headcount;
+    - revenue;
+    - latency; or
+    - comparable proxies.
 
-    **Tertiary assessment:** Apply [Proxy Divergence](core_05defs_oversight.md#proxy-divergence) and [Proxy Metric Gaming and Indicator-Reality Gaps](core_05defs_oversight.md#proxy-metric-gaming-and-indicator-reality-gaps) when raw throughput, utilization, headcount, revenue, latency, or comparable proxies substitute for outcomes.
+    **Tertiary assessment:** Apply [Proxy Divergence](core_05defs_oversight.md#proxy-divergence) and [Proxy Metric Gaming and Indicator-Reality Gaps](core_05defs_oversight.md#proxy-metric-gaming-and-indicator-reality-gaps) when those proxies substitute for outcomes.
 <a id="constitutional-efficiency-c"></a>
 - **What must hold**
   - **Primary failure:** efficiency claims relying on proxies materially divergent from constitutional outcomes remain invalid until corrected under [§6.2.4 Proxy-Divergence Invalidation](core_01_b_interaction_interpretation.md#632-proxy-divergence-invalidation) and Chapter Four.
-  - **Secondary failure:** using efficiency to narrow Rights-Floor protections, bypass the [§6.1 decision-record discipline](core_01_b_interaction_interpretation.md#631-rights-collision-decision-test), or weaken audit, contestability, or retrospective-review obligations.
-  - **Tertiary failure:** treating throughput, utilization, or comparable proxy satisfaction as dispositive where [Proxy Divergence](core_05defs_oversight.md#proxy-divergence) is reasonably observable.
+  - **Secondary failure:** using efficiency to:
+    - narrow Rights-Floor protections;
+    - bypass the [§6.1 decision-record discipline](core_01_b_interaction_interpretation.md#631-rights-collision-decision-test); or
+    - weaken audit, contestability, or retrospective-review obligations.
+  - **Tertiary failure:** treating as dispositive where [Proxy Divergence](core_05defs_oversight.md#proxy-divergence) is reasonably observable:
+    - throughput;
+    - utilization; or
+    - comparable proxy satisfaction.
 
 <a id="productive-capacity-constitutional"></a>
 
@@ -941,24 +980,63 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 <br>
 
 - **What it is**
-  - **In scope:** The system-level ability of sentients and institutions to support meaningful productive participation, contribution, and capability development under conditions that preserve [Wellbeing](core_05defs_continuity.md#wellbeing), [Meaningful Agency](core_05defs_participation.md#meaningful-agency), and non-coercive choice. Productive Capacity covers access to essential resources, safe environments, training, interoperability, and fiscal or social supports needed for participation in socially valuable activity without turning contribution into exploitation, dependency, or abuse.
-  - **Out of scope:** nominal output or access metrics while meaningful agency, safety, or non-coercive choice is degraded; raw production totals without real participation conditions.
+  - **In scope:** The system-level ability of sentients and institutions to support:
+    - meaningful productive participation;
+    - contribution;
+    - capability development; and
+    - access needed for participation in socially valuable activity, including:
+      - essential resources;
+      - safe environments;
+      - training;
+      - interoperability; and
+      - fiscal or social supports.
+  - It must preserve:
+    - [Wellbeing](core_05defs_continuity.md#wellbeing);
+    - [Meaningful Agency](core_05defs_participation.md#meaningful-agency); and
+    - non-coercive choice.
+  - **Out of scope:**
+    - turning contribution into exploitation, dependency, or abuse;
+    - nominal output or access metrics while meaningful agency, safety, or non-coercive choice is degraded;
+    - raw production totals without real participation conditions; and
+    - throughput, utilization, headcount, revenue, asset growth, market share, or comparable proxies that no longer track real participation and contribution capacity.
 <a id="productive-capacity-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Constitutional Performance measurement family — primary owner for durable participation and contribution capability in this family.
 
-    **Primary assessment:** Assess whether governing structures enable substantive participation and contribution, not only output metrics.
-  - **Secondary measure:** [Avoidable Burden](core_05defs_continuity.md#avoidable-burden), [Constitutional Efficiency](core_05defs_continuity.md#constitutional-efficiency), [Fair Compensation](core_05defs_continuity.md#fair-compensation-constitutional), [Environmental Preconditions](core_05defs_continuity.md#environmental-preconditions-constitutional), and [Safety (Constraint)](core_05defs_continuity.md#safety-constraint) — co-measures that can defeat capacity even when output metrics appear stable.
+    **Primary assessment:** Assess whether governing structures enable substantive participation and contribution — not only output metrics.
+  - **Secondary measure:** other measures that can show capacity is failing even when output numbers look steady:
+    - [Avoidable Burden](core_05defs_continuity.md#avoidable-burden);
+    - [Constitutional Efficiency](core_05defs_continuity.md#constitutional-efficiency);
+    - [Fair Compensation](core_05defs_continuity.md#fair-compensation-constitutional);
+    - [Environmental Preconditions](core_05defs_continuity.md#environmental-preconditions-constitutional); and
+    - [Safety (Constraint)](core_05defs_continuity.md#safety-constraint).
 
-    **Secondary assessment:** When evaluating the primary trace, align with [Avoidable Burden](core_05defs_continuity.md#avoidable-burden), [Constitutional Efficiency](core_05defs_continuity.md#constitutional-efficiency), [Fair Compensation](core_05defs_continuity.md#fair-compensation-constitutional), [Environmental Preconditions](core_05defs_continuity.md#environmental-preconditions-constitutional), and [Safety (Constraint)](core_05defs_continuity.md#safety-constraint). Detect proxy-driven schemes, conditional access, or coercive incentives that degrade actual capacity.
-  - **Tertiary measure:** [Proxy Divergence](core_05defs_oversight.md#proxy-divergence) — where proxy-driven schemes, conditional access, or coercive incentives substitute for substantive participation.
+    **Secondary assessment:** When evaluating the primary trace, align with each secondary co-measure. Detect schemes that degrade actual capacity, including:
+    - proxy-driven schemes;
+    - conditional access; or
+    - coercive incentives.
+  - **Tertiary measure:** [Proxy Divergence](core_05defs_oversight.md#proxy-divergence) — where the following substitute for substantive participation:
+    - proxy-driven schemes;
+    - conditional access; or
+    - coercive incentives.
 
-    **Tertiary assessment:** Where operators rely on output metrics or conditional-access schemes, apply [Proxy Divergence](core_05defs_oversight.md#proxy-divergence) — distinguish durable productive capacity from proxy throughput or coercive dependency.
+    **Tertiary assessment:** Where operators rely on output metrics or conditional-access schemes, apply [Proxy Divergence](core_05defs_oversight.md#proxy-divergence). Distinguish durable productive capacity from:
+    - proxy throughput; or
+    - coercive dependency.
 <a id="productive-capacity-constitutional-c"></a>
 - **What must hold**
-  - **Primary failure:** systems or policies that deny, distort, or capture productive capacity by imposing exploitative dependency, artificial scarcity, coercion, or under-investment.
-  - **Secondary failure:** preserving nominal output or access metrics while materially degrading [Meaningful Agency](core_05defs_participation.md#meaningful-agency), [Environmental Preconditions](core_05defs_continuity.md#environmental-preconditions-constitutional), or [Safety (Constraint)](core_05defs_continuity.md#safety-constraint).
-  - **Tertiary failure:** treating proxy-driven measurement regimes as dispositive where [Proxy Divergence](core_05defs_oversight.md#proxy-divergence) is reasonably observable, or ignoring whether sentients can meaningfully participate in and derive wellbeing from productive activity.
+  - **Primary failure:** systems or policies that deny, distort, or capture productive capacity by imposing:
+    - exploitative dependency;
+    - artificial scarcity;
+    - coercion; or
+    - under-investment.
+  - **Secondary failure:** preserving nominal output or access metrics while materially degrading:
+    - [Meaningful Agency](core_05defs_participation.md#meaningful-agency);
+    - [Environmental Preconditions](core_05defs_continuity.md#environmental-preconditions-constitutional); or
+    - [Safety (Constraint)](core_05defs_continuity.md#safety-constraint).
+  - **Tertiary failure:** treating proxy-driven measurement regimes as dispositive where [Proxy Divergence](core_05defs_oversight.md#proxy-divergence) is reasonably observable, or ignoring whether sentients can:
+    - meaningfully participate in productive activity; and
+    - derive wellbeing from it.
 
 <a id="avoidable-burden"></a>
 
@@ -978,24 +1056,63 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 <br>
 
 - **What it is**
-  - **In scope:** Process, compliance, coordination, or implementation cost imposed on sentients, stewards, operators, or shared systems that is not traceable to a constitutional outcome under [Proportionality](core_05defs_accountability.md#proportionality) and [Necessity](core_05defs_accountability.md#necessity), and not required by the Chapter Six Rights Floor, [Safety (Constraint)](core_05defs_continuity.md#safety-constraint), or [Truth (Constitutional Constraint)](core_05defs_oversight.md#truth-constitutional-constraint). Ordinary transaction costs, costs required by proportionate audit or contestability, and costs required by rights-protective process are not avoidable burden.
-  - **Out of scope:** ordinary transaction costs and costs required by proportionate audit, contestability, or rights-protective process.
+  - **In scope:** Cost that meets all of the following:
+    - it is process, compliance, coordination, or implementation cost;
+    - it is imposed on sentients, stewards, operators, or shared systems;
+    - it is not traceable to a constitutional outcome under [Proportionality](core_05defs_accountability.md#proportionality) and [Necessity](core_05defs_accountability.md#necessity); and
+    - it is not required by:
+      - the Chapter Six Rights Floor;
+      - [Safety (Constraint)](core_05defs_continuity.md#safety-constraint); or
+      - [Truth (Constitutional Constraint)](core_05defs_oversight.md#truth-constitutional-constraint).
+  - **Out of scope:**
+    - ordinary transaction costs;
+    - costs required by proportionate audit;
+    - costs required by contestability; and
+    - costs required by rights-protective process.
 <a id="avoidable-burden-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Constitutional Performance measurement family — primary owner for untraced process and coordination cost in this family.
 
-    **Primary assessment:** Distinguish avoidable burden from constitutionally required burden using Chapter Four traceability of definitions to results. Detect burden that persists without traceable outcome, burden sustained by institutional inertia, tradition, or preference alone, and burden functioning as a pretextual barrier to [Meaningful Agency](core_05defs_participation.md#meaningful-agency), [Contestability](core_05defs_accountability.md#contestability), or participation.
-  - **Secondary measure:** [Proportionality](core_05defs_accountability.md#proportionality), [Necessity](core_05defs_accountability.md#necessity), [Feasibility](core_05defs_accountability.md#feasibility), [Burden-Reduction Duty](core_05defs_continuity.md#burden-reduction-duty-constitutional), [Productive Capacity](core_05defs_continuity.md#productive-capacity-constitutional), and [Constitutional Efficiency](core_05defs_continuity.md#constitutional-efficiency) — co-measures that distinguish required from avoidable cost.
+    **Primary assessment:** Distinguish avoidable burden from constitutionally required burden using Chapter Four traceability of definitions to results. Detect:
+    - burden that persists without a traceable outcome;
+    - burden sustained by institutional inertia, tradition, or preference alone; and
+    - burden functioning as a pretextual barrier to:
+      - [Meaningful Agency](core_05defs_participation.md#meaningful-agency);
+      - [Contestability](core_05defs_accountability.md#contestability); or
+      - participation.
+  - **Secondary measure:** other measures that distinguish required cost from avoidable cost:
+    - [Proportionality](core_05defs_accountability.md#proportionality);
+    - [Necessity](core_05defs_accountability.md#necessity);
+    - [Feasibility](core_05defs_accountability.md#feasibility);
+    - [Burden-Reduction Duty](core_05defs_continuity.md#burden-reduction-duty-constitutional);
+    - [Productive Capacity](core_05defs_continuity.md#productive-capacity-constitutional); and
+    - [Constitutional Efficiency](core_05defs_continuity.md#constitutional-efficiency).
 
-    **Secondary assessment:** When evaluating the primary trace, test whether simplification, consolidation, automation, clarification, or removal of unnecessary steps would preserve the same constitutional outcomes with less burden. Reducing avoidable burden is not a ground for narrowing Rights-Floor protections, audit, or due-process obligations.
-  - **Tertiary measure:** [Proxy Divergence](core_05defs_oversight.md#proxy-divergence) — where claimed necessity rests on proxies diverging from underlying constitutional outcomes.
+    **Secondary assessment:** When evaluating the primary trace, test whether any of the following would preserve the same constitutional outcomes with less burden:
+    - simplification;
+    - consolidation;
+    - automation;
+    - clarification; or
+    - removal of unnecessary steps.
+  - Reducing avoidable burden is not a ground for narrowing:
+    - Rights-Floor protections;
+    - audit; or
+    - due-process obligations.
+  - **Tertiary measure:** [Proxy Divergence](core_05defs_oversight.md#proxy-divergence) — where claimed necessity rests on proxies that diverge from underlying constitutional outcomes.
 
-    **Tertiary assessment:** Apply [Proxy Divergence](core_05defs_oversight.md#proxy-divergence) where claimed necessity rests on proxies diverging from underlying constitutional outcomes.
+    **Tertiary assessment:** Apply [Proxy Divergence](core_05defs_oversight.md#proxy-divergence) where claimed necessity rests on such proxies.
 <a id="avoidable-burden-c"></a>
 - **What must hold**
-  - **Primary failure:** imposing or maintaining avoidable burden where a less-burdensome option, including simplification or removal of unnecessary steps, satisfies the same constitutional outcomes under Chapter One §6.3.
-  - **Secondary failure:** burden functioning as a pretextual barrier to [Meaningful Agency](core_05defs_participation.md#meaningful-agency), [Contestability](core_05defs_accountability.md#contestability), or participation where a less-burdensome option would preserve the same outcomes.
-  - **Tertiary failure:** incentives that reward burden creation or maintenance contrary to [Incentive Alignment](core_05defs_integrative.md#incentive-alignment) and Chapter One §11.1, or treating proxy necessity claims as dispositive where [Proxy Divergence](core_05defs_oversight.md#proxy-divergence) is reasonably observable.
+  - **Primary failure:** imposing or maintaining avoidable burden where a less-burdensome option satisfies the same constitutional outcomes under Chapter One §6.3, including:
+    - simplification; or
+    - removal of unnecessary steps.
+  - **Secondary failure:** burden functioning as a pretextual barrier — where a less-burdensome option would preserve the same outcomes — to:
+    - [Meaningful Agency](core_05defs_participation.md#meaningful-agency);
+    - [Contestability](core_05defs_accountability.md#contestability); or
+    - participation.
+  - **Tertiary failure:**
+    - incentives that reward burden creation or maintenance contrary to [Incentive Alignment](core_05defs_integrative.md#incentive-alignment) and Chapter One §11.1; or
+    - treating proxy necessity claims as dispositive where [Proxy Divergence](core_05defs_oversight.md#proxy-divergence) is reasonably observable.
 
 <a id="burden-reduction-duty-constitutional"></a>
 
@@ -1015,20 +1132,56 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 <br>
 
 - **What it is**
-  - **In scope:** The stewardship duty — **co-equal with harm prevention** — to actively find and reduce [Avoidable Burden](core_05defs_continuity.md#avoidable-burden) and unproductive friction in governed systems, including by simplifying, consolidating, automating, clarifying, or removing unnecessary steps, consistent with Chapter One §6.3 and with [Avoidable Burden](core_05defs_continuity.md#avoidable-burden), [Productive Capacity](core_05defs_continuity.md#productive-capacity-constitutional), and [Constitutional Efficiency](core_05defs_continuity.md#constitutional-efficiency). The duty applies **only** among options that already satisfy [Safety (Constraint)](core_05defs_continuity.md#safety-constraint), [Truth (Constitutional Constraint)](core_05defs_oversight.md#truth-constitutional-constraint), the Chapter Six Rights Floor, and the other tradeoff principles in Chapter One §6.1. It does **not** authorize lowering burden by weakening those protections. It does **not** authorize weakening audit, [Contestability](core_05defs_accountability.md#contestability), or retrospective-review obligations to lower burden.
-  - **Out of scope:** lowering burden by weakening Safety, Truth, the Chapter Six Rights Floor, audit, or contestability.
+  - **In scope:** The stewardship duty — **co-equal with harm prevention** — to actively find and reduce [Avoidable Burden](core_05defs_continuity.md#avoidable-burden) and unproductive friction in governed systems, consistent with Chapter One §6.3 and with [Avoidable Burden](core_05defs_continuity.md#avoidable-burden), [Productive Capacity](core_05defs_continuity.md#productive-capacity-constitutional), and [Constitutional Efficiency](core_05defs_continuity.md#constitutional-efficiency). Methods include:
+    - simplifying;
+    - consolidating;
+    - automating;
+    - clarifying; or
+    - removing unnecessary steps.
+  - The duty applies **only** among options that already satisfy:
+    - [Safety (Constraint)](core_05defs_continuity.md#safety-constraint);
+    - [Truth (Constitutional Constraint)](core_05defs_oversight.md#truth-constitutional-constraint);
+    - the Chapter Six Rights Floor; and
+    - the other tradeoff principles in Chapter One §6.1.
+  - **Out of scope:** lowering burden by weakening:
+    - Safety;
+    - Truth;
+    - the Chapter Six Rights Floor;
+    - the other tradeoff principles in Chapter One §6.1;
+    - audit;
+    - [Contestability](core_05defs_accountability.md#contestability); or
+    - retrospective-review obligations.
 <a id="burden-reduction-duty-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Constitutional Performance measurement family — primary owner for affirmative burden-minimization obligation in this family.
 
-    **Primary assessment:** Read with Chapter One §6.3 and Chapter One §6.1 tradeoff stack. Test simplification as a first-line remedy where unnecessary complexity, duplicated process, unclear routing, or obsolete steps create burden without traceable constitutional outcome.
-  - **Secondary measure:** [Avoidable Burden](core_05defs_continuity.md#avoidable-burden), [Productive Capacity](core_05defs_continuity.md#productive-capacity-constitutional), [Constitutional Efficiency](core_05defs_continuity.md#constitutional-efficiency), [Harm Minimization (Tradeoff Selection)](core_05defs_accountability.md#harm-minimization-tradeoff-selection), and [Contestability](core_05defs_accountability.md#contestability) — co-measures that bound how burden reduction may be pursued.
+    **Primary assessment:** Read with Chapter One §6.3 and Chapter One §6.1 tradeoff stack. Test simplification as a first-line remedy where burden without traceable constitutional outcome comes from:
+    - unnecessary complexity;
+    - duplicated process;
+    - unclear routing; or
+    - obsolete steps.
+  - **Secondary measure:** other measures that bound how burden reduction may be pursued:
+    - [Avoidable Burden](core_05defs_continuity.md#avoidable-burden);
+    - [Productive Capacity](core_05defs_continuity.md#productive-capacity-constitutional);
+    - [Constitutional Efficiency](core_05defs_continuity.md#constitutional-efficiency);
+    - [Harm Minimization (Tradeoff Selection)](core_05defs_accountability.md#harm-minimization-tradeoff-selection); and
+    - [Contestability](core_05defs_accountability.md#contestability).
 
-    **Secondary assessment:** When evaluating the primary trace, distinguish burden reduction from Rights-Floor erosion, from reductions in proportionate audit or [Contestability](core_05defs_accountability.md#contestability), and from [Proxy Divergence](core_05defs_oversight.md#proxy-divergence) framed as efficiency.
+    **Secondary assessment:** When evaluating the primary trace, distinguish burden reduction from:
+    - Rights-Floor erosion;
+    - reductions in proportionate audit or [Contestability](core_05defs_accountability.md#contestability); and
+    - [Proxy Divergence](core_05defs_oversight.md#proxy-divergence) framed as efficiency.
 <a id="burden-reduction-duty-constitutional-c"></a>
 - **What must hold**
-  - **Primary failure:** pursuing or defending lower burden by narrowing Safety, Truth, Chapter Six floor protections, or Chapter One §9 tradeoff compliance.
-  - **Secondary failure:** weakening audit, [Contestability](core_05defs_accountability.md#contestability), or retrospective-review obligations to lower burden; labeling such narrowing as burden reduction.
+  - **Primary failure:** pursuing or defending lower burden by narrowing:
+    - Safety;
+    - Truth;
+    - Chapter Six floor protections; or
+    - Chapter One §9 tradeoff compliance.
+  - **Secondary failure:** weakening the following to lower burden, or labeling such narrowing as burden reduction:
+    - audit;
+    - [Contestability](core_05defs_accountability.md#contestability); or
+    - retrospective-review obligations.
 
 ---
 

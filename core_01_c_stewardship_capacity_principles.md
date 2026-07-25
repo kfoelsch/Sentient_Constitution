@@ -686,7 +686,7 @@ Successors, estates, receivers, and comparable transferees inherit proportionate
 
 That capacity has several aspects working together:
 - **[Productive Capacity](core_05defs_continuity.md#productive-capacity-constitutional)** — can sentients participate, contribute, and get real results? ([§12.1](#121-productive-capacity-instrumental-good))
-- **[Constitutional Efficiency](core_05defs_continuity.md#constitutional-efficiency)** — are those results achieved without wasting sentient time, attention, and shared resources? ([§12.2](#122-constitutional-efficiency))
+- **[Constitutional Efficiency](core_05defs_continuity.md#constitutional-efficiency)** — are those results achieved without wasting sentient time, attention, materials, infrastructure, and energy? ([§12.2](#122-constitutional-efficiency))
 - **Anti-concentration discipline** — can sentients still challenge, compete, and leave? ([§13](#13-market-structure))
 - **Fair stakeholder representation, exit, contestability, and ecological preconditions** — are affected stakeholders represented fairly, and do the background conditions keep capacity real instead of hollow?
 
@@ -699,7 +699,7 @@ That capacity has several aspects working together:
 
 **[Productive Capacity](core_05defs_continuity.md#productive-capacity-constitutional)** is one aspect of **[Shared-System Capacity](core_05defs_continuity.md#shared-system-capacity-constitutional)**. It names the lasting ability of sentients and shared systems to:
 - support real participation, contribution, and skill-building; and
-- turn time, attention, effort, coordination, and resources into outcomes this Constitution actually requires.
+- turn time, attention, effort, coordination, materials, infrastructure, and energy into outcomes this Constitution actually requires.
 
 It is an **instrumental good** — a means, not a trump value. Its job is to raise, sustain, and spread quality of life under the **Flourishing** aim, consistent with [Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [Dignity and Equal Moral Standing](core_05defs_participation.md#dignity-and-equal-moral-standing), the Chapter Six Rights Floor, and the ecological and intergenerational limits of the **Continuity** aim under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims).
 
@@ -721,7 +721,7 @@ Where productive-capacity claims rest on metrics that no longer prove real outco
 
 *In plain terms: constitutional efficiency is the "are we getting our money's worth in human terms?" aspect of shared-system capacity. More real benefit for each hour of sentient time, attention, and shared effort — not cutting corners on rights, truth, safety, or ecology just to look fast, lean, or cheap.*
 
-**[Constitutional Efficiency](core_05defs_continuity.md#constitutional-efficiency)** is the other main aspect of **[Shared-System Capacity](core_05defs_continuity.md#shared-system-capacity-constitutional)**. It asks whether systems produce more constitutionally required benefit per unit of sentient time, attention, effort, coordination, and shared resources consumed.
+**[Constitutional Efficiency](core_05defs_continuity.md#constitutional-efficiency)** is the other main aspect of **[Shared-System Capacity](core_05defs_continuity.md#shared-system-capacity-constitutional)**. It asks whether systems produce more constitutionally required benefit per unit of sentient time, attention, effort, coordination, materials, infrastructure, and energy consumed.
 
 Efficiency can drive broadly shared improvement, but only inside constitutional bounds. By itself, it is **not**:
 - raw speed;
