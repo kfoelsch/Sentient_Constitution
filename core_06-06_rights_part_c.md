@@ -732,7 +732,7 @@ They operate consistently with **Chapters Two through Four**, including exclusiv
 
 *In plain terms: systems must keep enough honest evidence of what they do for an outside party to reconstruct and challenge their behavior — within lawful security limits.*
 
-- **Observable and contestable evidence:** Systems must maintain records, disclosures, tracing, and reconstruction pathways sufficient for independent and contestable evaluation of constitutional alignment.
+- **Observable and contestable evidence:** Systems must maintain records, disclosures, traceability, and reconstruction pathways sufficient for independent and contestable evaluation of constitutional alignment.
   - That obligation is subject to security-constrained observability (**Chapter Four §5** — *Security-Constrained Observability and Verification Rule*) and proportional access.
 #### Article XV-B: Distributed Oversight and Anti-Monopoly Review
 <details>

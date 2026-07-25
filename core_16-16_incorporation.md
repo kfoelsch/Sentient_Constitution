@@ -109,7 +109,7 @@ References across these constitutional volumes to **Chapter Sixteen** or incorpo
 
 - Upstream: [§3](#2-authority-stack-and-invocation) (*binding vs incorporated sources; conflict order; stricter-baseline rule*); [Chapter Fifteen](core_13-15_amendment.md#chapter-fifteen-amendment-ratification-and-procedural-validity) (*recorded adoption chain*); [**Corpus**](core_05defs_integrative.md#corpus) (*implementation text enumeration and operative corpus identity*) in [Chapter Five](core_05_definitions_home.md#chapter-five-foundational-definitions); [Chapter Thirteen §3](core_13-15_amendment.md#3-anti-evasion-clause-and-constitutional-misconduct-referral) (*anti-evasion interaction named in the anti-drift bullets*).
 - Downstream: [§2](#4-adoption-framing-and-scope-of-authority) (*operative effect and adoption framing*); designated **implementation text** files as pinned editions; [evidence/](evidence/) hooks named in the process-layer bullet.
-- Read with: [Chapters Two through Four](core_02-03_definition_mechanics.md) (*tracing and verification expectations that support custody discipline*); [doc_architecture.md](doc_architecture.md) (*non-binding mapping and edition metadata unless adopted*).
+- Read with: [Chapters Two through Four](core_02-03_definition_mechanics.md) (*traceability and verification expectations that support custody discipline*); [doc_architecture.md](doc_architecture.md) (*non-binding mapping and edition metadata unless adopted*).
 
 </details>
 

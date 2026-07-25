@@ -34,7 +34,7 @@
 >
 > - **Chapter Eight:** supplies the standing record, verified-input gate, Contribution and Violation axes, unified proportional LEQU scale, and every numeric impact slot.
 > - **Chapter Nine:** supplies process / response attachments, descriptors, standing integration, standing locks, voluntary public accountability expression, final standing effect rules, and the pointer here; it does not itself issue a final anti-constitutional-misconduct designation.
-> - **Chapters Two through Four:** supply record, custody, tracing, and verification discipline for the evidence used here.
+> - **Chapters Two through Four:** supply record, custody, traceability, and verification discipline for the evidence used here.
 > - **Chapter One:** supplies principles relevant to emergency authority, necessity, concentration, and system capture.
 > - **Chapter Eleven:** supplies forum routing, Integrity-family default routing, transfer, and certification discipline.
 > - **Chapter Six:** supplies the Rights Floor, **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*) joint requirements and **Imprisonment for violence**, **Article XXIII-C** (*Least-Restrictive and Time-Bounded Rule*) review discipline, **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*) remedy-timing discipline, and **Article XXIII-A** (*Justice Objective and Scope*) review and publication safeguards; **section 4.1** here specializes Chapter Nine remedy and correction for verified anti-constitutional misconduct, **section 4.2** specializes prevention locks (including imprisonment where required), and **section 4.3** specializes voluntary public accountability expression.

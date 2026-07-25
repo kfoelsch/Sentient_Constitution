@@ -867,7 +867,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - [Constitutional Efficiency](core_05defs_continuity.md#constitutional-efficiency);
     - [Market Concentration Threshold](core_05defs_accountability.md#market-concentration-threshold-constitutional);
     - [Proxy Divergence](core_05defs_oversight.md#proxy-divergence); and
-    - Chapter Four tracing discipline.
+    - Chapter Four traceability discipline.
   - Capacity claims fail regardless of nominal scale where they rest on:
     - domination;
     - proxy divergence;
@@ -882,7 +882,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - ecological integrity;
     - contestability; or
     - constitutional review.
-  - **Secondary failure:** capacity asserted without traceable constitutional outcomes under Chapters Two through Four.
+  - **Secondary failure:** capacity asserted with no checkable link to a constitutional outcome under Chapters Two through Four.
   - **Tertiary failure:** capacity used to justify:
     - concentration;
     - Rights-Floor narrowing; or
@@ -984,7 +984,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 - **How to measure and assess**
   - **Primary measure:** Constitutional Performance measurement family — primary owner for untraced process and coordination cost in this family.
 
-    **Primary assessment:** Distinguish avoidable burden from constitutionally required burden using Chapter Four tracing discipline. Detect burden that persists without traceable outcome, burden sustained by institutional inertia, tradition, or preference alone, and burden functioning as a pretextual barrier to [Meaningful Agency](core_05defs_participation.md#meaningful-agency), [Contestability](core_05defs_accountability.md#contestability), or participation.
+    **Primary assessment:** Distinguish avoidable burden from constitutionally required burden using Chapter Four traceability discipline (a checkable path from each definition to what the system actually does). Detect burden that persists without traceable outcome, burden sustained by institutional inertia, tradition, or preference alone, and burden functioning as a pretextual barrier to [Meaningful Agency](core_05defs_participation.md#meaningful-agency), [Contestability](core_05defs_accountability.md#contestability), or participation.
   - **Secondary measure:** [Proportionality](core_05defs_accountability.md#proportionality), [Necessity](core_05defs_accountability.md#necessity), [Feasibility](core_05defs_accountability.md#feasibility), [Burden-Reduction Duty](core_05defs_continuity.md#burden-reduction-duty-constitutional), [Productive Capacity](core_05defs_continuity.md#productive-capacity-constitutional), and [Constitutional Efficiency](core_05defs_continuity.md#constitutional-efficiency) — co-measures that distinguish required from avoidable cost.
 
     **Secondary assessment:** When evaluating the primary trace, test whether simplification, consolidation, automation, clarification, or removal of unnecessary steps would preserve the same constitutional outcomes with less burden. Reducing avoidable burden is not a ground for narrowing Rights-Floor protections, audit, or due-process obligations.
@@ -2301,7 +2301,7 @@ This cluster is the joint-invocation home for principle-layer stewardship orient
 - Downstream: Principles: [§11.1.3 Stewardship and Operator Application](core_01_c_stewardship_capacity_principles.md#1113-stewardship-and-operator-application); [Chapter Seven §3 Whole-System Certification Evaluation](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (periodic revalidation / misalignment detection).
 - Owner floor: [Chapter Twelve §3](core_12-12_governance.md#3-strategy-stewardship-direction-and-ecosystem-value-non-corporate).
 - Cluster component: [Stewardship, Governance Discipline, and Shared-System Capacity](core_05defs_continuity.md#stewardship-governance-discipline-and-shared-system-capacity-cluster).
-- Read with: [Accountability, contestability, and redress pathways](core_05defs_accountability.md#accountability-contestability-semi-independent); [Material Impact](core_05defs_oversight.md#material-impact), [Proxy Divergence](core_05defs_oversight.md#proxy-divergence), [System Capture](core_05defs_continuity.md#system-capture), [Auditability](core_05defs_oversight.md#auditability), [Timeliness](core_05apex_timeliness_leg.md#timeliness-constitutional), and Chapters Two through Four (tracing, observability, verification) as referenced in [Chapter Twelve §3](core_12-12_governance.md#3-strategy-stewardship-direction-and-ecosystem-value-non-corporate).
+- Read with: [Accountability, contestability, and redress pathways](core_05defs_accountability.md#accountability-contestability-semi-independent); [Material Impact](core_05defs_oversight.md#material-impact), [Proxy Divergence](core_05defs_oversight.md#proxy-divergence), [System Capture](core_05defs_continuity.md#system-capture), [Auditability](core_05defs_oversight.md#auditability), [Timeliness](core_05apex_timeliness_leg.md#timeliness-constitutional), and Chapters Two through Four (traceability, observability, verification) as referenced in [Chapter Twelve §3](core_12-12_governance.md#3-strategy-stewardship-direction-and-ecosystem-value-non-corporate).
 
 </details>
 

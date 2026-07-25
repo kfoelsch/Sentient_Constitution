@@ -410,7 +410,7 @@ Availability, observability, prior publication, platform possession, or technica
 
 Where materially relevant evidence indicates **proxy divergence** from constitutional objectives, compliance claims relying on such proxies are **invalid** unless corrected.
 
-Correction must follow **Chapter Four** tracing and **Chapter Five** proxy-related definitions. It must include **documented escalation and review**.
+Correction must follow **Chapter Four** traceability and **Chapter Five** proxy-related definitions. It must include **documented escalation and review**.
 
 <a id="63-minimization-of-avoidable-burden"></a>
 #### 6.3 Minimization of Avoidable Burden
@@ -450,9 +450,9 @@ For this section:
 This section:
 - operates **only within** the set of options that already satisfy Safety, Truth, the Rights Floor, and the tradeoff principles in §6.1. It does **not** authorize reducing burden by weakening those protections.
 - pairs with **Least-Restrictive Effective Selection** in the [§6.1 decision-record discipline](#631-rights-collision-decision-test). Where this section applies, the selected action should be both the least-restrictive and the least-burdensome effective option.
-- treats over-process, over-restriction, and over-burden without traceable constitutional benefit as constitutional defects. Such defects are reviewable under **Chapter Eight** and correctable under **Chapter Four** tracing discipline.
+- treats over-process, over-restriction, and over-burden with no checkable link to a constitutional benefit as constitutional defects. Such defects are reviewable under **Chapter Eight** and correctable under **Chapter Four** traceability discipline (a checkable path from each definition to what the system actually does).
 
-Claims that a given burden is constitutionally required must satisfy **Chapter Four** evidentiary and traceability requirements. Convenience, institutional inertia, tradition, or preference alone are not sufficient to sustain a burden that lacks traceable constitutional outcome, consistent with the [§6.1 decision-record discipline](#631-rights-collision-decision-test).
+Claims that a given burden is constitutionally required must satisfy **Chapter Four** evidentiary and traceability requirements. Convenience, institutional inertia, tradition, or preference alone are not sufficient to sustain a burden that lacks a checkable link to a constitutional outcome, consistent with the [§6.1 decision-record discipline](#631-rights-collision-decision-test).
 
 Where incentive structures act on stewards or operators, this section reinforces [§11.1.3 Stewardship and Operator Application](core_01_c_stewardship_capacity_principles.md#1113-stewardship-and-operator-application). Stewardship incentives must not reward unnecessary burden creation any more than they may reward raw throughput.
 

@@ -149,7 +149,7 @@ Mechanism families, publication, auditability, and pluralism are addressed in **
 
 - Upstream: [§1](#1-authorization-and-legitimacy-of-governing-authority) authorization premise; [Chapter Five](core_05_definitions_home.md#chapter-five-foundational-definitions) definitional lenses for [Epistemic Integrity](core_05defs_oversight.md#epistemic-integrity), [Materiality](core_05defs_oversight.md#materiality-determination), and related clustered definitions in federated contexts.
 - Downstream: Legitimacy sufficiency ties to [§11](#3-strategy-stewardship-direction-and-ecosystem-value-non-corporate); observable integrity feeds **Axis I / II** evaluation under [Chapter Eight](core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) where applicable.
-- Read with: [Chapters Two through Four](core_02-03_definition_mechanics.md) tracing, observability, and verification requirements referenced above.
+- Read with: [Chapters Two through Four](core_02-03_definition_mechanics.md) traceability, observability, and verification requirements (a checkable path from each definition to what the system actually does) referenced above.
 
 </details>
 
@@ -157,7 +157,7 @@ Mechanism families, publication, auditability, and pluralism are addressed in **
 
 *In plain terms: governance cannot run on a culture of corner-cutting — for decisions that hit **affected** **parties** hard, missing integrity means missing legitimacy, whatever the org chart says.*
 
-**Integrity culture** supports **authorization** in practice. Federated and multi-organization contexts must be evaluated through **Chapter Five** definitions and designated implementation text. Operational mechanics, indicators, and procedures for federated integrity, accountability pathways, and organization-level behavior belong in designated implementation layers as applicable. They must be applied under **Chapters Two through Four** tracing, observability, and verification requirements.
+**Integrity culture** supports **authorization** in practice. Federated and multi-organization contexts must be evaluated through **Chapter Five** definitions and designated implementation text. Operational mechanics, indicators, and procedures for federated integrity, accountability pathways, and organization-level behavior belong in designated implementation layers as applicable. They must be applied under **Chapters Two through Four** traceability, observability, and verification requirements.
 
 Where observable integrity conditions are absent, **legitimacy claims** under section 1 of this chapter are **presumptively deficient** for **materially high-impact** public decisions.
 
@@ -202,7 +202,7 @@ Stewardship requirements for this section are stated in **Chapter Five** under t
 
 *In plain terms: the point is good outcomes for sentients — not protecting an institution's comfort, inertia, or brand.*
 
-Direction must remain outcome-oriented rather than institution-preserving for its own sake. It must demonstrate constitutional tracing under **Chapters Two through Four** and remain contestable under Chapter Six and Chapter Eight.
+Direction must remain outcome-oriented rather than institution-preserving for its own sake. It must demonstrate constitutional traceability under **Chapters Two through Four** and remain contestable under Chapter Six and Chapter Eight.
 
 #### 3.16 Ecosystem Value Orientation
 <details>

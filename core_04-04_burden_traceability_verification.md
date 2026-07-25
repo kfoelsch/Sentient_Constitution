@@ -140,7 +140,7 @@ Section 3 requires observability. **Security, misuse-prevention, and adversarial
 
 **Systems must not:**
 - invoke security, confidentiality, or misuse risk to avoid creating, maintaining, or independently validating materially relevant compliance evidence
-- be designed or structured to predictably block observability, tracing, verifiability, or auditability under reasonably foreseeable conditions
+- be designed or structured to predictably block observability, traceability, verifiability, or auditability under reasonably foreseeable conditions
 
 Where a limit blocks meaningful independent validation, the associated compliance claims are **non-compliant** unless all of the following are true:
 - no safer validation pathway is reasonably achievable

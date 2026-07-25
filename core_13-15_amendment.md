@@ -368,7 +368,7 @@ Chapter Fifteen is the constitutional owner of **procedural and custody validity
 - Upstream: [Chapter Thirteen](core_13-15_amendment.md#chapter-thirteen-non-regression-and-substantive-amendment-validity) Test 1 and non-regression; [Chapter Fourteen](core_13-15_amendment.md#chapter-fourteen-expansion-supremacy-and-external-legal-orders) supremacy and external-order interface; [Chapter Twelve](core_12-12_governance.md#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship) legitimacy context for collective change.
 - Subsections: [§§ 1–12](#1-heightened-review-for-rights-affecting-changes) procedural and custody validity suite (Tests 2–4, ratification, procedure requirements, and layer scope).
 - Downstream: Adoption instruments and edition custody tie to [Chapter Five *Corpus*](core_05defs_integrative.md#corpus), [Corpus, Authority Stack, Supremacy, and Enforceability](core_05defs_accountability.md#corpus-authority-stack-supremacy-and-enforceability-cluster) (*Chapter Five Chapter One §8.16 cluster*), and [doc_architecture.md](doc_architecture.md); invalidity remediation interfaces with owner implementation layers.
-- Read with: [Chapters Two through Four](core_02-03_definition_mechanics.md) publication, burden, and tracing requirements invoked in Tests 2 and 11.
+- Read with: [Chapters Two through Four](core_02-03_definition_mechanics.md) publication, burden, and traceability requirements invoked in Tests 2 and 11.
 
 </details>
 
@@ -432,7 +432,7 @@ This chapter states minimum constitutional **procedural and custody** validity c
 
 - Upstream: [§11](#3-validity-floor-rule) validity-floor rule; [§3](#2-burden-of-justification-and-public-traceability) justification content.
 - Downstream: [§4](#9-test-3-authority-chain-and-custody-validity) Test 3 custody; [§12.1](#121-notice-and-contest) notice and contest requirements.
-- Read with: [Chapter Four](core_02-03_definition_mechanics.md) burden and tracing requirements cited in operative text.
+- Read with: [Chapter Four](core_02-03_definition_mechanics.md) burden and traceability requirements cited in operative text.
 
 </details>
 
@@ -440,7 +440,7 @@ This chapter states minimum constitutional **procedural and custody** validity c
 
 *In plain terms: Test 2 is the "did you actually publish a real proposal with enough detail and time for **affected** **parties** to respond" test — shadow drafts and last-second rewrites that nobody can review do not pass.*
 
-A proposed amendment is invalid unless required publication elements are satisfied. Those elements include proposal text, scope, affected provisions, expected impacts, and contest pathways. They must be published with sufficient specificity and lead time for materially affected review. That publication must satisfy **Chapter Four** burden and tracing requirements.
+A proposed amendment is invalid unless required publication elements are satisfied. Those elements include proposal text, scope, affected provisions, expected impacts, and contest pathways. They must be published with sufficient specificity and lead time for materially affected review. That publication must satisfy **Chapter Four** burden and traceability requirements (a checkable path from each definition to what the system actually does).
 
 ### 5. Test 3 — Authority-Chain and Custody Validity
 <details>
@@ -623,7 +623,7 @@ Additional parties may **join** as adopters under rules published by existing ad
 
 - Upstream: [§12](#11-amendment-procedure-requirements) procedure requirements header.
 - Downstream: [§2](#4-test-2-procedural-validity-and-publication-integrity) overlaps with publication integrity; [§1](#1-heightened-review-for-rights-affecting-changes) heightened review for rights-affecting packages.
-- Read with: [Chapter Four](core_02-03_definition_mechanics.md) burden and tracing; [Article X-C](core_06-06_rights_part_b.md) (*Adult consensual commercial sexual services and sexual exploitation*) for materially high-impact changes.
+- Read with: [Chapter Four](core_02-03_definition_mechanics.md) burden and traceability; [Article X-C](core_06-06_rights_part_b.md) (*Adult consensual commercial sexual services and sexual exploitation*) for materially high-impact changes.
 
 </details>
 
@@ -631,7 +631,7 @@ Additional parties may **join** as adopters under rules published by existing ad
 
 *In plain terms: put amendments out early and clearly enough that **affected** **stakeholders** can actually respond, keep a durable record of participation and objections, and keep review independent where this chapter says so.*
 
-Amendments must be proposed with sufficient specificity and advance publication for informed review and contest under **Chapter Four** burden and tracing requirements. Procedures must record participation, objections, and review independence consistent with **section 1** of this chapter and with **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) for materially high-impact changes.
+Amendments must be proposed with sufficient specificity and advance publication for informed review and contest under **Chapter Four** burden and traceability requirements. Procedures must record participation, objections, and review independence consistent with **section 1** of this chapter and with **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) for materially high-impact changes.
 
 #### 11.2 Recorded Effectiveness
 <details>
