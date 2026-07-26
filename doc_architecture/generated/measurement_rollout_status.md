@@ -2,10 +2,10 @@
 
 Auto-generated. Do not edit by hand.
 
-Generated: 2026-07-23T17:42:16+00:00
+Generated: 2026-07-26T14:18:30+00:00
 
 Grouped by Preamble measurement category. **Approved** terms must carry `*Measurements:*` and tier-aligned **E**/**C** per [doc_architecture.md](../doc_architecture.md) MEAS-DEF-01.
-Approved progress: **212/213** terms pass tier audit.
+Approved progress: **225/225** terms pass tier audit.
 
 
 ## 3.2 Flourishing
@@ -42,7 +42,8 @@ Approved progress: **212/213** terms pass tier audit.
 
 | Term | Status | Tier depth | Aim role | File | Has measurements | Audit |
 | --- | --- | --- | --- | --- | --- | --- |
-| Cascading Failure | approved | primary_secondary | independent | `core_05defs_continuity.md` | yes | pass |
+| Cascading Failure | approved | primary_secondary | cluster_member | `core_05defs_continuity.md` | yes | pass |
+| Charter | approved | primary_only | cluster_member | `core_05defs_continuity.md` | yes | pass |
 | Constitutional Emergency and Contingency | approved | primary_only | cluster_member | `core_05defs_continuity.md` | yes | pass |
 | Dependency | approved | primary_secondary | measurement_family_member | `core_05defs_continuity.md` | yes | pass |
 | Distributed Understanding | approved | primary_only | cluster_member | `core_05defs_continuity.md` | yes | pass |
@@ -51,12 +52,12 @@ Approved progress: **212/213** terms pass tier audit.
 | Ecological Recovery Capacity | approved | primary_only | cluster_member | `core_05defs_continuity.md` | yes | pass |
 | Emergency and Contingency | approved | primary_only | cluster_member | `core_05defs_continuity.md` | yes | pass |
 | Emergency Pre-Deliberation Action (Binding Collective Choice) | approved | primary_only | cluster_member | `core_05defs_continuity.md` | yes | pass |
-| Essential-Environment Non-Commodification | approved | primary_only | cluster_member | `core_05defs_continuity.md` | yes | pass |
+| Essential-Environment Non-Commodification | approved | primary_only | independent | `core_05defs_continuity.md` | yes | pass |
 | Existential Risk | approved | primary_only | cluster_member | `core_05defs_continuity.md` | yes | pass |
 | Indigenous Continuity | approved | primary_only | cluster_member | `core_05defs_continuity.md` | yes | pass |
 | Intergenerational Responsibility | approved | primary_only | cluster_member | `core_05defs_continuity.md` | yes | pass |
 | Language, Culture, and Heritage | approved | primary_only | cluster_member | `core_05defs_continuity.md` | yes | pass |
-| Proportionate Cross-System Support | approved | primary_secondary | cluster_member | `core_05defs_continuity.md` | yes | pass |
+| Proportionate Cross-System Contribution | approved | primary_secondary | cluster_member | `core_05defs_continuity.md` | yes | pass |
 | Residual Risk / Misalignment | approved | primary_only | cluster_member | `core_05defs_continuity.md` | yes | pass |
 | Reversibility | approved | primary_secondary | cluster_member | `core_05defs_continuity.md` | yes | pass |
 | Review and Correction Duty | approved | primary_only | cluster_member | `core_05defs_continuity.md` | yes | pass |
@@ -70,6 +71,7 @@ Approved progress: **212/213** terms pass tier audit.
 | Sustainability | approved | primary_secondary | cluster_member | `core_05defs_continuity.md` | yes | pass |
 | System | approved | primary_only | cluster_member | `core_05defs_continuity.md` | yes | pass |
 | System Alignment Certification | approved | primary_only | cluster_member | `core_05defs_continuity.md` | yes | pass |
+| System Alignment Certification Record | approved | primary_only | cluster_member | `core_05defs_continuity.md` | yes | pass |
 | System Boundaries | approved | primary_only | cluster_member | `core_05defs_continuity.md` | yes | pass |
 | System Boundary Integrity | approved | primary_only | cluster_member | `core_05defs_continuity.md` | yes | pass |
 | System Capture | approved | primary_only | cluster_member | `core_05defs_continuity.md` | yes | pass |
@@ -155,6 +157,12 @@ Approved progress: **212/213** terms pass tier audit.
 | Foreseeability Scaling | approved | primary_only | cluster_member | `core_05defs_oversight.md` | yes | pass |
 | Foreseeability Scope | approved | primary_only | cluster_member | `core_05defs_oversight.md` | yes | pass |
 | High-Impact and Systemic Harm Publication Constraint | approved | primary_only | cluster_member | `core_05defs_oversight.md` | yes | pass |
+| Material | approved | primary_secondary | cluster_member | `core_05defs_oversight.md` | yes | pass |
+| Material Degradation | approved | primary_secondary | cluster_member | `core_05defs_oversight.md` | yes | pass |
+| Material Impact | approved | primary_secondary | cluster_member | `core_05defs_oversight.md` | yes | pass |
+| Material Risk | approved | primary_secondary | cluster_member | `core_05defs_oversight.md` | yes | pass |
+| Materiality Integrity Constraint | approved | primary_secondary | cluster_member | `core_05defs_oversight.md` | yes | pass |
+| Materiality Under Uncertainty | approved | primary_secondary | cluster_member | `core_05defs_oversight.md` | yes | pass |
 | Observability | approved | primary_only | cluster_member | `core_05defs_oversight.md` | yes | pass |
 | Oversight | approved | primary_only | tetrad_leg_head | `core_05apex_oversight_leg.md` | no | pass |
 | Press and Journalistic Activity | approved | primary_only | cluster_member | `core_05defs_oversight.md` | yes | pass |
@@ -199,6 +207,7 @@ Approved progress: **212/213** terms pass tier audit.
 | Event-Contract Market | approved | primary_only | cluster_member | `core_05defs_accountability.md` | yes | pass |
 | Feasibility | approved | primary_only | independent | `core_05defs_accountability.md` | yes | pass |
 | Force Majeure | approved | primary_only | cluster_member | `core_05defs_accountability.md` | yes | pass |
+| Forum Case Record | approved | primary_only | cluster_member | `core_05defs_accountability.md` | yes | pass |
 | Forum Family, Constitutional | approved | primary_only | cluster_member | `core_05defs_accountability.md` | yes | pass |
 | Forum Family, Environment | approved | primary_only | cluster_member | `core_05defs_accountability.md` | yes | pass |
 | Forum Family, Institutional | approved | primary_only | cluster_member | `core_05defs_accountability.md` | yes | pass |
@@ -215,11 +224,13 @@ Approved progress: **212/213** terms pass tier audit.
 | Incentive Alignment — contingent claims, games of chance, and event-contract markets | approved | primary_only | cluster_member | `core_05defs_integrative.md` | yes | pass |
 | Innovation Reward and Anti-Enclosure | approved | primary_only | cluster_member | `core_05defs_integrative.md` | yes | pass |
 | Insider Advantage | approved | primary_only | cluster_member | `core_05defs_accountability.md` | yes | pass |
-| Market Concentration Threshold | approved | primary_secondary | cluster_member | `core_05defs_accountability.md` | yes | fail |
+| Market Concentration Threshold | approved | primary_secondary | cluster_member | `core_05defs_accountability.md` | yes | pass |
 | Market Structure | approved | full | cluster_member | `core_05defs_accountability.md` | yes | pass |
 | Merits Determination | approved | primary_only | cluster_member | `core_05defs_accountability.md` | yes | pass |
 | Necessity | approved | primary_only | cluster_member | `core_05defs_accountability.md` | yes | pass |
 | Negligence | approved | primary_only | cluster_member | `core_05defs_accountability.md` | yes | pass |
+| Non-Compliance | approved | primary_only | independent | `core_05defs_integrative.md` | yes | pass |
+| Non-Compliance Finding Profile | approved | primary_only | cluster_member | `core_05defs_accountability.md` | yes | pass |
 | Participant Standing | approved | primary_only | cluster_member | `core_05defs_accountability.md` | yes | pass |
 | Primary-Stakes Routing | approved | primary_only | cluster_member | `core_05defs_accountability.md` | yes | pass |
 | Proportionality | approved | primary_only | cluster_member | `core_05defs_accountability.md` | yes | pass |
@@ -260,10 +271,4 @@ Approved progress: **212/213** terms pass tier audit.
 
 | Term | Status | Tier depth | Aim role | File | Has measurements | Audit |
 | --- | --- | --- | --- | --- | --- | --- |
-| Material | implicit_gate | primary_secondary | cluster_member | `core_05defs_oversight.md` | yes | — |
-| Material Degradation | implicit_gate | primary_secondary | cluster_member | `core_05defs_oversight.md` | yes | — |
-| Material Impact | implicit_gate | primary_secondary | cluster_member | `core_05defs_oversight.md` | yes | — |
-| Material Risk | implicit_gate | primary_secondary | cluster_member | `core_05defs_oversight.md` | yes | — |
-| Materiality Determination | implicit_gate | full | measurement_family_member | `core_05defs_oversight.md` | yes | — |
-| Materiality Integrity Constraint | implicit_gate | primary_secondary | cluster_member | `core_05defs_oversight.md` | yes | — |
-| Materiality Under Uncertainty | implicit_gate | primary_secondary | cluster_member | `core_05defs_oversight.md` | yes | — |
+| Materiality Determination | approved | full | measurement_family_member | `core_05defs_oversight.md` | yes | pass |

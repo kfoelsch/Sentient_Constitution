@@ -150,7 +150,7 @@ Each step below states what the process does and what it produces.
 
 - **What it does:** Ensures systems with material impact stay constitutionally aligned.
   - Before a system that materially affects sentients can be recognized or relied on at scale, evidence is gathered and reviewed under forum supervision
-  - Review scope includes whether the system respects survival essentials; **Article IV** (*Resource Allocation, Dependencies, and Ecosystem Funding*) resource allocation and dependency stewardship — including [Proportionate Cross-System Support](core_05defs_continuity.md#proportionate-cross-system-support-constitutional) where shared-infrastructure reliance is materially at issue; safety; participation; and other constitutional floors
+  - Review scope includes whether the system respects survival essentials; **Article IV** (*Resource Allocation, Dependencies, and Ecosystem Funding*) resource allocation and dependency stewardship — including [Proportionate Cross-System Contribution](core_05defs_continuity.md#proportionate-cross-system-support-constitutional) where shared-infrastructure reliance is materially at issue; safety; participation; and other constitutional floors
   - Sentients with standing can challenge the result
   - High-risk systems must be recertified on a regular schedule; certification is never permanent
 - **What it produces:** A **system alignment certification record** — a bounded, contestable answer to whether that system is aligned enough to recognize, continue relying on, deploy, or release from conditions *right now*, within a stated scope and time window.

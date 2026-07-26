@@ -123,7 +123,7 @@
       "tier_depth": "primary_secondary",
       "status": "approved"
     },
-    "Proportionate Cross-System Support": {
+    "Proportionate Cross-System Contribution": {
       "ch00_category": "3.3 Continuity",
       "tier_depth": "primary_secondary",
       "status": "approved"
@@ -984,6 +984,11 @@
       "status": "approved"
     },
     "System Alignment Certification": {
+      "ch00_category": "3.3 Continuity",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "System Alignment Certification Record": {
       "ch00_category": "3.3 Continuity",
       "tier_depth": "primary_only",
       "status": "approved"

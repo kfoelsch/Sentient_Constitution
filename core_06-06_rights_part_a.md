@@ -792,7 +792,7 @@ Those requirements protect shared infrastructure and the systems that depend on 
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
 - [Dependency](core_05defs_continuity.md#dependency) · [O](core_05defs_continuity.md#dependency) · [A](core_05defs_continuity.md#dependency-a) · [C](core_05defs_continuity.md#dependency-c)
-- [Proportionate Cross-System Support](core_05defs_continuity.md#proportionate-cross-system-support-constitutional) · [O](core_05defs_continuity.md#proportionate-cross-system-support-constitutional) · [A](core_05defs_continuity.md#proportionate-cross-system-support-constitutional-a) · [C](core_05defs_continuity.md#proportionate-cross-system-support-constitutional-c)
+- [Proportionate Cross-System Contribution](core_05defs_continuity.md#proportionate-cross-system-support-constitutional) · [O](core_05defs_continuity.md#proportionate-cross-system-support-constitutional) · [A](core_05defs_continuity.md#proportionate-cross-system-support-constitutional-a) · [C](core_05defs_continuity.md#proportionate-cross-system-support-constitutional-c)
 - [Substantive Fairness](core_05defs_participation.md#substantive-fairness-constitutional) · [O](core_05defs_participation.md#substantive-fairness-constitutional) · [A](core_05defs_participation.md#substantive-fairness-constitutional-a) · [C](core_05defs_participation.md#substantive-fairness-constitutional-c)
 - [Materiality Determination](core_05defs_oversight.md#materiality-determination) · [O](core_05defs_oversight.md#materiality-determination) · [A](core_05defs_oversight.md#materiality-determination-a) · [C](core_05defs_oversight.md#materiality-determination-c)
 - [Ecological Footprint](core_05defs_continuity.md#ecological-footprint) · [O](core_05defs_continuity.md#ecological-footprint) · [A](core_05defs_continuity.md#ecological-footprint-a) · [C](core_05defs_continuity.md#ecological-footprint-c)
@@ -801,7 +801,7 @@ Those requirements protect shared infrastructure and the systems that depend on 
 
 <br>
 
-*In plain terms: split shared money and capacity with attention to who is truly dependent, who has real alternatives, environmental burden, and whether use can last—not mainly to whoever wins in the short run. Heavy users of shared foundations must not keep pulling value out without [Proportionate Cross-System Support](core_05defs_continuity.md#proportionate-cross-system-support-constitutional). When arrangements concentrate wealth, power, control, or opportunity in ways that predictably harm others' wellbeing, agency, dignity, or ecological integrity, Chapter One non-concentration rules and adopter-tunable thresholds add further scrutiny. That scrutiny is extra; it does not replace dependency mapping or excuse neglect of cross-system fairness.*
+*In plain terms: split shared money and capacity with attention to who is truly dependent, who has real alternatives, environmental burden, and whether use can last—not mainly to whoever wins in the short run. Heavy users of shared foundations must not keep pulling value out without [Proportionate Cross-System Contribution](core_05defs_continuity.md#proportionate-cross-system-support-constitutional). When arrangements concentrate wealth, power, control, or opportunity in ways that predictably harm others' wellbeing, agency, dignity, or ecological integrity, Chapter One non-concentration rules and adopter-tunable thresholds add further scrutiny. That scrutiny is extra; it does not replace dependency mapping or excuse neglect of cross-system fairness.*
 
 - **Cross-system fairness:** Funding and allocation must account for:
   - criticality;
@@ -811,8 +811,8 @@ Those requirements protect shared infrastructure and the systems that depend on 
   - ecological footprint, including upstream and downstream burden;
   - long-term sustainability.
   
-  Systems must not persistently extract from shared infrastructure or foundational dependencies without [Proportionate Cross-System Support](core_05defs_continuity.md#proportionate-cross-system-support-constitutional).
-- **Corresponding support:** **Corresponding support** means support that reaches substantive adequacy under [Proportionate Cross-System Support](core_05defs_continuity.md#proportionate-cross-system-support-constitutional), evaluated under [Substantive Fairness](core_05defs_participation.md#substantive-fairness-constitutional) and [Proportionality](core_05defs_accountability.md#proportionality) and scaled to the factors listed under **Cross-system fairness**. At minimum, evaluate whether documented resource flows include, where material:
+  Systems must not persistently extract from shared infrastructure or foundational dependencies without [Proportionate Cross-System Contribution](core_05defs_continuity.md#proportionate-cross-system-support-constitutional).
+- **Corresponding support:** **Corresponding support** means support that reaches substantive adequacy under [Proportionate Cross-System Contribution](core_05defs_continuity.md#proportionate-cross-system-support-constitutional), evaluated under [Substantive Fairness](core_05defs_participation.md#substantive-fairness-constitutional) and [Proportionality](core_05defs_accountability.md#proportionality) and scaled to the factors listed under **Cross-system fairness**. At minimum, evaluate whether documented resource flows include, where material:
   - continuity of operations for the shared or foundational dependency;
   - remedy and resilience capacity where extraction materially increases collective harm risk;
   - ecosystem reinvestment for shared infrastructure and interoperability the extracting system relies on; and

@@ -1792,11 +1792,16 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 
 #### Dependency and cross-system support
 
-**Semi-independent context** (component definitions may still operate outside joint-invocation scope): This topic group is the Continuity home for shared reliance and return-flow adequacy under **Article IV** (*Resource Allocation, Dependencies, and Ecosystem Funding*). [Dependency](core_05defs_continuity.md#dependency) asks how much a sentient or system relies on another for survival, function, stability, or participation — including chains, asymmetry, and hard-to-see relationships. [Proportionate Cross-System Support](core_05defs_continuity.md#proportionate-cross-system-support-constitutional) requires systems that draw value from shared foundations to put enough documented, auditable resources back to keep those foundations running, contestable, and sustainable. These definitions operate together where dependency mapping, resource-flow transparency, or cross-system extraction is material — typically **Article IV-A** (*Dependency Mapping and Resource-Flow Transparency*) with **Article IV-B** (*Cross-System Fairness and Sustainability*). [System Alignment Certification and Certification Record](core_05defs_continuity.md#system-alignment-certification-semi-independent) remains outside this cluster: it is the Chapter Seven gate that may *check* these duties when shared-infrastructure reliance is in scope, not a third member of the Article IV pair.
+**Semi-independent context** (component definitions may still operate outside joint-invocation scope):
+
+- **Scope:** shared reliance and return-flow adequacy — the Continuity home for how much sentients and systems rely on one another, and what systems drawing value from shared foundations must put back.
+- **Joint invocation:** where dependency mapping, resource-flow transparency, or cross-system extraction is material.
+- **Owner floor:** implements [Article IV](core_06-06_rights_part_a.md#article-iv-resource-allocation-dependencies-and-ecosystem-funding) (*Resource Allocation, Dependencies, and Ecosystem Funding*) — typically [Article IV-A](core_06-06_rights_part_a.md#article-iv-a-dependency-mapping-and-resource-flow-transparency) (*Dependency Mapping and Resource-Flow Transparency*) read with [Article IV-B](core_06-06_rights_part_a.md#article-iv-b-cross-system-fairness-and-sustainability) (*Cross-System Fairness and Sustainability*).
+- **Cluster boundary:** [System Alignment Certification and Certification Record](core_05defs_continuity.md#system-alignment-certification-semi-independent) remains outside this cluster — it is the Chapter Seven gate that may *check* these duties when shared-infrastructure reliance is in scope, not a third member of the Article IV pair.
 
 **Topic group members.** This group comprises:
-- [Dependency](core_05defs_continuity.md#dependency);
-- [Proportionate Cross-System Support](core_05defs_continuity.md#proportionate-cross-system-support-constitutional).
+- [Dependency](core_05defs_continuity.md#dependency) — how much a sentient or system relies on another for survival, function, stability, or participation, including chained, asymmetric, and hard-to-see relationships;
+- [Proportionate Cross-System Contribution](core_05defs_continuity.md#proportionate-cross-system-support-constitutional) — the duty of systems that draw value from shared foundations to put enough documented, auditable resources back to keep those foundations running, contestable, and sustainable.
 
 *Measurements (family routing):* Continuity measurement family (*Dependency and resource flows*; *Cross-system support*) — operative tiers on the member definitions below; progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md). Read with [Protocol S5 — Resource Allocation and Funding Stewardship](corpus_systems/cs_protocol_s5_resource_allocation_funding_stewardship.md).
 
@@ -1811,7 +1816,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 - Downstream: Continuity measurement family (*Dependency and resource flows as constitutional measurement*); Principles: [3. Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [5. System Stability Enabler: Trust](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity), [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency), [6. Process Conflict Resolution](#6-process-conflict-resolution), [§6.1 decision-record discipline](#631-rights-collision-decision-test), and [Chapter Seven §3 Whole-System Certification Evaluation](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 - Cluster component: [Dependency and cross-system support](core_05defs_continuity.md#dependency-and-cross-system-support-semi-independent).
 - Cluster component: [Chapter Five Chapter One §8.20 *Governance Architecture, Oversight, Dependency, Decentralization, Concentration, Market Structure, and Exit-Path Integrity*](core_05defs_accountability.md#governance-architecture-oversight-decentralization-and-concentration-cluster)
-- Read with: [Proportionate Cross-System Support](core_05defs_continuity.md#proportionate-cross-system-support-constitutional), [Wellbeing](core_05defs_continuity.md#wellbeing), [Risk](core_05defs_continuity.md#risk), [Classification-Scaled Governance](core_05defs_oversight.md#classification-scaled-governance), [System Boundary Integrity](core_05defs_continuity.md#system-boundary-integrity), and [System Alignment Certification](core_05defs_continuity.md#system-alignment-certification-constitutional) where certification gates shared-infrastructure reliance.
+- Read with: [Proportionate Cross-System Contribution](core_05defs_continuity.md#proportionate-cross-system-support-constitutional), [Wellbeing](core_05defs_continuity.md#wellbeing), [Risk](core_05defs_continuity.md#risk), [Classification-Scaled Governance](core_05defs_oversight.md#classification-scaled-governance), [System Boundary Integrity](core_05defs_continuity.md#system-boundary-integrity), and [System Alignment Certification](core_05defs_continuity.md#system-alignment-certification-constitutional) where certification gates shared-infrastructure reliance.
 
 </details>
 
@@ -1840,7 +1845,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 <a id="proportionate-cross-system-support-constitutional"></a>
 
 ---
-#### Proportionate Cross-System Support
+#### Proportionate Cross-System Contribution
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -1869,7 +1874,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     **Secondary assessment:** When evaluating the primary trace, scale required support to criticality, dependency asymmetry, availability of alternatives, ecological footprint, and long-term sustainability. Where materially impactful systems allocate, route, fund, or extract from shared infrastructure, evaluate adequacy through [System Alignment Certification](core_05defs_continuity.md#system-alignment-certification-constitutional) on a contestable record, not operator assertion alone.
 <a id="proportionate-cross-system-support-constitutional-c"></a>
 - **What must hold**
-  - **Primary failure:** persistent extraction from shared infrastructure or foundational dependencies without proportionate cross-system support; one-time, symbolic, opaque, or off-map transfers treated as satisfying this entry while operations, auditability, contestability, or sustainability of the dependency materially degrade.
+  - **Primary failure:** persistent extraction from shared infrastructure or foundational dependencies without proportionate cross-system contribution; one-time, symbolic, opaque, or off-map transfers treated as satisfying this entry while operations, auditability, contestability, or sustainability of the dependency materially degrade.
   - **Secondary failure:** support flows that mainly entrench capture or concentration; support conditioned to defeat **Article IV-A** (*Dependency Mapping and Resource-Flow Transparency*) transparency; or reading this entry as satisfied by survival-floor or non-concentration compliance alone where cross-system extraction remains materially imbalanced.
 
 
