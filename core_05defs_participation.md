@@ -488,6 +488,8 @@ Independent Definitions meta rules live in [core_05_definitions_home.md](core_05
 
 ---
 
+<a id="agency-consent-and-anti-coercion-semi-independent"></a>
+
 #### Agency, consent, and anti-coercion
 
 **Cluster context:** This semi-independent topic group establishes the foundations for self-determination and voluntary participation. [Meaningful Agency](core_05defs_participation.md#meaningful-agency) defines the practical capacity for informed, uncoerced choice. [Consent](core_05defs_participation.md#consent-constitutional) establishes requirements for valid agreement to participation, data use, or ongoing association. [Consent, Sexual](core_05defs_participation.md#consent-sexual) provides heightened specificity for sexual contact and intimacy contexts. [Coercion and Manipulation](core_05defs_participation.md#coercion-and-manipulation-constitutional) identifies conduct that subverts genuine voluntariness. These definitions protect [Freedom (Bounded Agency)](core_05defs_participation.md#freedom-bounded-agency) by ensuring choices reflect authentic understanding rather than exploitation of [Dependency](core_05defs_continuity.md#dependency) or deceptive design.
@@ -512,7 +514,7 @@ Independent Definitions meta rules live in [core_05_definitions_home.md](core_05
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 - Downstream: Principles: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation** leg; [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency), [10.1 Core Tradeoff Principles](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), and [Chapter Seven §3 Whole-System Certification Evaluation](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) where participation, dependency, and material impact determine the intensity of agency protection.
-- Cluster component: [Chapter Five §3.8 *Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity](core_05defs_participation.md#self-determination-and-meaningful-agency-cluster)*, and [Chapter Five §2 *Agency, Consent, and Anti-Coercion](core_05defs_continuity.md#agency-consent-and-anti-coercion-semi-independent)*.
+- Cluster component: [Chapter Five §3.8 *Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity](core_05defs_participation.md#self-determination-and-meaningful-agency-cluster)*, and [Chapter Five §2 *Agency, Consent, and Anti-Coercion](core_05defs_participation.md#agency-consent-and-anti-coercion-semi-independent)*.
 - Read with: [Freedom (Bounded Agency)](core_05defs_participation.md#freedom-bounded-agency), [Consent](core_05defs_participation.md#consent-constitutional), [Coercion and Manipulation](core_05defs_participation.md#coercion-and-manipulation-constitutional), [Dependency](core_05defs_continuity.md#dependency), [Contestability](core_05defs_accountability.md#contestability), [Systemic Lock-In](core_05defs_continuity.md#systemic-lock-in), and [Dignity and Equal Moral Standing](core_05defs_participation.md#dignity-and-equal-moral-standing).
 </details>
 
@@ -554,7 +556,7 @@ Independent Definitions meta rules live in [core_05_definitions_home.md](core_05
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 - Downstream: Principles: [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency) (meaningful agency / cooperative interaction); [Chapter Seven §3 Whole-System Certification Evaluation](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (dependency / materiality in consent asymmetry).
-- Cluster component: [Chapter Five §2 *Agency, Consent, and Anti-Coercion](core_05defs_continuity.md#agency-consent-and-anti-coercion-semi-independent)*.
+- Cluster component: [Chapter Five §2 *Agency, Consent, and Anti-Coercion](core_05defs_participation.md#agency-consent-and-anti-coercion-semi-independent)*.
 - Read with: the [Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity cluster](core_05defs_participation.md#self-determination-and-meaningful-agency-cluster), [Consent, Sexual](core_05defs_participation.md#consent-sexual), [Feasibility](core_05defs_accountability.md#feasibility), [Meaningful Agency](core_05defs_participation.md#meaningful-agency), [Dependency](core_05defs_continuity.md#dependency), [Coercion and Manipulation](core_05defs_participation.md#coercion-and-manipulation-constitutional), and [Harassment and Bullying](core_05defs_accountability.md#harassment-and-bullying).
 </details>
 
@@ -589,7 +591,7 @@ Independent Definitions meta rules live in [core_05_definitions_home.md](core_05
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 - Downstream: Principles: [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency); [3. Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing) (bodily autonomy and dignity read-with **Article VII-A** (*Self-Ownership of Body and Mind*) / X-C stack).
 - Owner floors: [Article VII-A](core_06-06_rights_part_b.md#article-vii-a-bodily-autonomy-and-non-intrusion) (*bodily autonomy and non-intrusion*) and [Article X-C](core_06-06_rights_part_b.md#article-x-c-adult-consensual-commercial-sexual-services-and-sexual-exploitation) (*adult consensual commercial sexual services and sexual exploitation*).
-- Cluster component: [Chapter Five §2 *Agency, Consent, and Anti-Coercion](core_05defs_continuity.md#agency-consent-and-anti-coercion-semi-independent)*.
+- Cluster component: [Chapter Five §2 *Agency, Consent, and Anti-Coercion](core_05defs_participation.md#agency-consent-and-anti-coercion-semi-independent)*.
 - Read with: [Consent](core_05defs_participation.md#consent-constitutional), [Meaningful Agency](core_05defs_participation.md#meaningful-agency), [Dependency](core_05defs_continuity.md#dependency), [Coercion and Manipulation](core_05defs_participation.md#coercion-and-manipulation-constitutional), [Dignity and Equal Moral Standing](core_05defs_participation.md#dignity-and-equal-moral-standing), [Bodily Integrity](core_06-06_rights_part_b.md#article-vii-a-self-ownership-of-body-and-mind), and [Protected Commercial Sexual Services Status and **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) Circumvention](core_05defs_participation.md#protected-commercial-sexual-services-status-and-article-x-c-circumvention).
 </details>
 
@@ -623,7 +625,7 @@ Independent Definitions meta rules live in [core_05_definitions_home.md](core_05
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 - Downstream: Principles: [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency); [4. Non-Negotiable Constraints: Safety and Truth](core_01_a_values_principles.md#3-non-negotiable-constraints-safety-and-truth) (manipulation implicating Truth / Safety).
-- Cluster component: [Chapter Five §2 *Agency, Consent, and Anti-Coercion](core_05defs_continuity.md#agency-consent-and-anti-coercion-semi-independent)*.
+- Cluster component: [Chapter Five §2 *Agency, Consent, and Anti-Coercion](core_05defs_participation.md#agency-consent-and-anti-coercion-semi-independent)*.
 - Read with: [Consent](core_05defs_participation.md#consent-constitutional), [Systemic Lock-In](core_05defs_continuity.md#systemic-lock-in), [Meaningful Agency](core_05defs_participation.md#meaningful-agency), [Freedom (Bounded Agency)](core_05defs_participation.md#freedom-bounded-agency), and [Dependency](core_05defs_continuity.md#dependency).
 </details>
 

@@ -512,7 +512,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 - Downstream: Principles: [§12.1 Productive Capacity (Instrumental Good)](core_01_c_stewardship_capacity_principles.md#121-productive-capacity-instrumental-good) (ecological bounds and **Environmental Preconditions** / **Ecological Integrity** in the productive-capacity discipline); [Chapter Seven §3 Whole-System Certification Evaluation](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (cumulative / long-horizon ecological effects).
 - Owner floor: [Article I-A](core_06-06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*Environmental Preconditions and Ecological Integrity*) for environmental preconditions and ecological integrity.
 - Cluster component: [Chapter Five §3.32 *Resilience, Safety, Reversibility, Self-Healing, Cascading Failure, Existential Risk, Environmental Preconditions, and Wellbeing*](core_05defs_continuity.md#resilience-safety-reversibility-self-healing-and-systemic-harm-cluster)
-- Cluster component: [Ecological Integrity, Footprint, and Sustainability](core_05defs_participation.md#ecological-footprint-semi-independent).
+- Cluster component: [Ecological Integrity, Footprint, and Sustainability](core_05defs_continuity.md#ecological-footprint-semi-independent).
 - Read with: [Bodily-Maintenance Access, Tenure Security, Environmental Preconditions, Cultural Continuity, and Anti-Displacement Floor](core_05defs_participation.md#safe-conditions-tenure-security-and-environmental-preconditions-cluster) (Safe Conditions and Rest now in Section 3.5 Labor and Economic Floor cluster), where survival-floor routing materially applies.
 
 </details>
@@ -1185,20 +1185,24 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 
 ---
 
-<a id="agency-consent-and-anti-coercion-semi-independent"></a>
-
----
+<a id="ecological-footprint-semi-independent"></a>
+<a id="ecological-integrity-footprint-and-sustainability-semi-independent"></a>
 
 #### Ecological integrity, footprint, and sustainability
 
-**Cluster context:** This semi-independent topic group governs environmental stewardship and intergenerational duty. [Ecological Integrity](core_05defs_continuity.md#ecological-integrity-constitutional) defines the condition and resilience of natural systems required for sentient survival. [Ecological Recovery Capacity](core_05defs_continuity.md#ecological-recovery-capacity-constitutional) defines the capacity of ecosystems and life-supporting systems to regenerate after severe harm. [Ecological Footprint](core_05defs_continuity.md#ecological-footprint) measures attributable environmental flows across lifecycles. [Sustainability](core_05defs_continuity.md#sustainability) establishes the capacity to maintain environmental preconditions without burden-shifting to other communities, systems, or future sentients. [Intergenerational Responsibility](core_05defs_continuity.md#intergenerational-responsibility-constitutional) imposes the duty to account for foreseeable effects of present decisions on future sentients and ecological systems. These definitions implement [Article I-A](core_06-06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*Environmental Preconditions and Ecological Integrity*), [Article I-B](core_06-06_rights_part_a.md#article-i-b-ecological-footprint-and-transparency) (*Ecological Footprint and Transparency*), and [Article I-D](core_06-06_rights_part_a.md#article-i-d-existential-risk-and-recovery-capacity) (*Existential Risk and Ecological Recovery Capacity*).
+**Cluster context:**
+
+- **Scope:** environmental stewardship and intergenerational duty.
+- **Joint invocation:** where ecological integrity, recovery capacity, footprint, sustainability, or intergenerational responsibility is material.
+- **Independent use:** component definitions may still operate outside joint-invocation scope.
+- **Owner floor:** implements [Article I-A](core_06-06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*Environmental Preconditions and Ecological Integrity*), [Article I-B](core_06-06_rights_part_a.md#article-i-b-ecological-footprint-and-transparency) (*Ecological Footprint and Transparency*), and [Article I-D](core_06-06_rights_part_a.md#article-i-d-existential-risk-and-recovery-capacity) (*Existential Risk and Ecological Recovery Capacity*).
 
 **Topic group members.** This group comprises:
-- [Ecological Integrity](core_05defs_continuity.md#ecological-integrity-constitutional);
-- [Ecological Recovery Capacity](core_05defs_continuity.md#ecological-recovery-capacity-constitutional);
-- [Ecological Footprint](core_05defs_continuity.md#ecological-footprint);
-- [Sustainability](core_05defs_continuity.md#sustainability);
-- [Intergenerational Responsibility](core_05defs_continuity.md#intergenerational-responsibility-constitutional).
+- [Ecological Integrity](core_05defs_continuity.md#ecological-integrity-constitutional) — the condition and resilience of natural systems required for sentient survival;
+- [Ecological Recovery Capacity](core_05defs_continuity.md#ecological-recovery-capacity-constitutional) — the capacity of ecosystems and life-supporting systems to regenerate after severe harm;
+- [Ecological Footprint](core_05defs_continuity.md#ecological-footprint) — attributable environmental flows across lifecycles;
+- [Sustainability](core_05defs_continuity.md#sustainability) — capacity to maintain environmental preconditions without burden-shifting to other communities, systems, or future sentients;
+- [Intergenerational Responsibility](core_05defs_continuity.md#intergenerational-responsibility-constitutional) — duty to account for foreseeable effects of present decisions on future sentients and ecological systems.
 
 *Measurements (family routing):* Continuity measurement family — operative tiers on the member definitions below; progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md).
 
@@ -1212,7 +1216,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 
 - Downstream: Principles: [§12.1 Productive Capacity (Instrumental Good)](core_01_c_stewardship_capacity_principles.md#121-productive-capacity-instrumental-good) and [Chapter Seven §3 Whole-System Certification Evaluation](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), where ecological bounds, cumulative effects, and long-horizon materiality shape evaluation.
 - Owner floor: [Article I-A](core_06-06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*Environmental Preconditions and Ecological Integrity*).
-- Cluster component: [the dependent cluster *Ecological Integrity, Footprint, and Sustainability*](core_05defs_participation.md#ecological-footprint-semi-independent).
+- Cluster component: [Ecological Integrity, Footprint, and Sustainability](core_05defs_continuity.md#ecological-footprint-semi-independent).
 - Read with: [Environmental Preconditions](core_05defs_continuity.md#environmental-preconditions-constitutional), [Ecological Recovery Capacity](core_05defs_continuity.md#ecological-recovery-capacity-constitutional), [Ecological Footprint](core_05defs_continuity.md#ecological-footprint), [Sustainability](core_05defs_continuity.md#sustainability), [Intergenerational Responsibility](core_05defs_continuity.md#intergenerational-responsibility-constitutional), [Natural Systems Standing](core_05defs_participation.md#natural-systems-standing), [Harm](core_05defs_accountability.md#harm), [Risk](core_05defs_continuity.md#risk), and [Reversibility](core_05defs_continuity.md#reversibility-constitutional).
 
 </details>
@@ -1220,16 +1224,57 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 <br>
 
 - **What it is**
-  - **In scope:** The condition, resilience, functional continuity, diversity, regeneration capacity, and interdependence of natural and living systems sufficient to sustain sentient survival, wellbeing, ecological relationships, and the environmental preconditions protected by **Article I-A** (*Environmental Preconditions and Ecological Integrity*).
-  - **Out of scope:** cosmetic green labels or single-metric compliance while ecosystem resilience, diversity, or regeneration capacity deteriorates.
+  - **In scope:** The condition of natural and living systems sufficient to sustain:
+    - sentient survival;
+    - [Wellbeing](core_05defs_continuity.md#wellbeing);
+    - ecological relationships, including existing and historical interspecies relationships; and
+    - the [Environmental Preconditions](core_05defs_continuity.md#environmental-preconditions-constitutional) protected by **Article I-A** (*Environmental Preconditions and Ecological Integrity*).
+  - **In scope — integrity dimensions:**
+    - resilience;
+    - functional continuity;
+    - diversity;
+    - regeneration capacity;
+    - interdependence of living systems; and
+    - [Ecological Recovery Capacity](core_05defs_continuity.md#ecological-recovery-capacity-constitutional) where recovery after harm is material.
+  - **Out of scope:**
+    - cosmetic green labels;
+    - single-metric compliance while ecosystem resilience, diversity, or regeneration capacity deteriorates;
+    - treating extinction of species, or comparable irreversible biodiversity loss, as offsettable, substitutable, or otherwise compensable; and
+    - footprint or sustainability branding that obscures ecological deterioration.
 <a id="ecological-integrity-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Continuity measurement family — supporting measure under the continuity measurement family.
 
-    **Primary assessment:** Evaluate direct, indirect, cumulative, cross-system, delayed, and [Ecological Recovery Capacity](core_05defs_continuity.md#ecological-recovery-capacity-constitutional) effects on ecosystems and dependent sentients. Formal compliance, local mitigation, or offset accounting is insufficient where aggregate effect materially degrades ecological function, resilience, biodiversity, regeneration, or intergenerational continuity.
+    **Primary assessment:** Evaluate effects on ecosystems and dependent sentients that are:
+    - direct;
+    - indirect;
+    - delayed;
+    - cumulative;
+    - cross-system; or
+    - recovery-capacity effects under [Ecological Recovery Capacity](core_05defs_continuity.md#ecological-recovery-capacity-constitutional).
+  - **Secondary measure:** co-measures that can defeat integrity claims even when local compliance appears satisfied:
+    - [Environmental Preconditions](core_05defs_continuity.md#environmental-preconditions-constitutional);
+    - [Sustainability](core_05defs_continuity.md#sustainability);
+    - [Ecological Footprint](core_05defs_continuity.md#ecological-footprint);
+    - [Harm](core_05defs_accountability.md#harm);
+    - [Risk](core_05defs_continuity.md#risk); and
+    - [Materiality Determination](core_05defs_oversight.md#materiality-determination).
+
+    **Secondary assessment:** Formal compliance, local mitigation, or offset accounting is not sufficient where aggregate effect materially degrades:
+    - ecological function;
+    - resilience;
+    - biodiversity;
+    - regeneration; or
+    - intergenerational continuity.
 <a id="ecological-integrity-constitutional-c"></a>
 - **What must hold**
-  - material ecological degradation, externalized ecological harm, irreversible or avoidably hard-to-reverse ecosystem damage, or footprint and sustainability claims that obscure deterioration of ecological integrity.
+  - **Primary failure:** material ecological degradation, including:
+    - externalized ecological harm;
+    - irreversible or avoidably hard-to-reverse ecosystem damage; or
+    - aggregate deterioration of resilience, diversity, or regeneration capacity.
+  - **Secondary failure:** footprint, sustainability, or compliance claims that obscure deterioration of ecological integrity while:
+    - local or paper compliance appears satisfied; or
+    - offsets and single-metric reporting stand in for whole-system condition.
 
 
 <a id="ecological-recovery-capacity-constitutional"></a>
@@ -1237,12 +1282,14 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 ---
 #### Ecological Recovery Capacity
 
+**Ecological recovery capacity disambiguation:** this entry names ecological and life-supporting recovery only; the neighboring senses it does not govern are carved out under **Out of scope** below.
+
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Principles: [4.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [8.1.1 Proportionality](core_01_b_interaction_interpretation.md#611-proportionality), and [Chapter Seven §3 Whole-System Certification Evaluation](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 - Owner floor: [Article I-D](core_06-06_rights_part_a.md#article-i-d-existential-risk-and-recovery-capacity) (*Existential Risk and Ecological Recovery Capacity*).
-- Cluster component: [the dependent cluster *Ecological Integrity, Footprint, and Sustainability*](core_05defs_participation.md#ecological-footprint-semi-independent).
+- Cluster component: [Ecological Integrity, Footprint, and Sustainability](core_05defs_continuity.md#ecological-footprint-semi-independent).
 - Read with: [Existential Risk](core_05defs_continuity.md#existential-risk), [Environmental Preconditions](core_05defs_continuity.md#environmental-preconditions-constitutional), [Ecological Integrity](core_05defs_continuity.md#ecological-integrity-constitutional), [Sustainability](core_05defs_continuity.md#sustainability), [Intergenerational Responsibility](core_05defs_continuity.md#intergenerational-responsibility-constitutional), [Dependency](core_05defs_continuity.md#dependency), [Reversibility](core_05defs_continuity.md#reversibility-constitutional), and [Self-Healing](core_05defs_continuity.md#self-healing-constitutional).
 
 </details>
@@ -1250,16 +1297,66 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 <br>
 
 - **What it is**
-  - **In scope:** The capacity of ecosystems, living systems, and the [Environmental Preconditions](core_05defs_continuity.md#environmental-preconditions-constitutional) they support to regenerate, restore functional continuity, and sustain sentient survival after severe harm, depletion, or disruption — including biodiversity, soil, water, climate stability, habitat connectivity, and other regeneration processes on which [Ecological Integrity](core_05defs_continuity.md#ecological-integrity-constitutional) depends. **Ecological recovery capacity disambiguation:** this entry names ecological and life-supporting recovery only; it does not govern operational system restore after fault ([Self-Healing](core_05defs_continuity.md#self-healing-constitutional)), rollback of specific decisions or commitments ([Reversibility](core_05defs_continuity.md#reversibility-constitutional)), or commercial cost recovery.
-  - **Out of scope:** operational system restore after fault (Self-Healing), rollback of specific decisions (Reversibility), or commercial cost recovery; treating irreversible ecological recovery-capacity loss as ordinary localized impact.
+  - **In scope:** The capacity of ecosystems, living systems, and the [Environmental Preconditions](core_05defs_continuity.md#environmental-preconditions-constitutional) they support, after severe harm, depletion, or disruption, to:
+    - regenerate;
+    - restore functional continuity; and
+    - sustain sentient survival.
+  - **In scope — recovery domains:** the regeneration processes on which [Ecological Integrity](core_05defs_continuity.md#ecological-integrity-constitutional) depends, including:
+    - biodiversity;
+    - soil;
+    - water;
+    - climate stability;
+    - habitat connectivity; and
+    - other regenerative processes of comparable ecological function.
+  - **Out of scope:**
+    - operational system restore after fault ([Self-Healing](core_05defs_continuity.md#self-healing-constitutional));
+    - rollback of specific decisions or commitments ([Reversibility](core_05defs_continuity.md#reversibility-constitutional));
+    - commercial cost recovery; and
+    - treating irreversible ecological recovery-capacity loss as ordinary localized impact.
 <a id="ecological-recovery-capacity-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Continuity measurement family — supporting measure under the continuity measurement family.
 
-    **Primary assessment:** Evaluate pathways to irreversible loss of ecological recovery capacity: threshold crossings, extinction cascades, regenerative-capacity depletion, climate or biogeochemical disruption, habitat fragmentation, dependency concentration in life-supporting systems, and cumulative effects that foreclose restoration within intergenerationally relevant horizons. Assess at the level of affected ecosystems and life-supporting systems — whether they can sustain and regenerate themselves under prevailing habitat conditions through functional continuity, connectivity, and regenerative processes — not by looking at one species, one local population, or one kind of organism on its own. What happens to particular species can inform the analysis, but it cannot stand in for judging the whole system. Read with [Existential Risk](core_05defs_continuity.md#existential-risk) where civilization-scale pathways are credible. Distinguish temporary disturbance with viable ecological recovery from locked-in ecological collapse.
+    **Primary assessment:** Evaluate pathways to irreversible loss of ecological recovery capacity, including:
+    - threshold crossings;
+    - extinction cascades;
+    - regenerative-capacity depletion;
+    - climate or biogeochemical disruption;
+    - habitat fragmentation;
+    - dependency concentration in life-supporting systems; and
+    - cumulative effects that foreclose restoration within intergenerationally relevant horizons.
+
+    **Level of assessment:** Assess at the level of affected ecosystems and life-supporting systems — whether they can sustain and regenerate themselves under prevailing habitat conditions through:
+    - functional continuity;
+    - connectivity; and
+    - regenerative processes.
+
+    Do not judge recovery by one species, one local population, or one kind of organism on its own. What happens to particular species can inform the analysis, but it cannot stand in for judging the whole system. Further:
+    - read with [Existential Risk](core_05defs_continuity.md#existential-risk) where civilization-scale pathways are credible; and
+    - distinguish temporary disturbance with viable ecological recovery from locked-in ecological collapse.
+  - **Secondary measure:** co-measures that can defeat recovery-capacity claims even when local restoration or systems-layer recovery appears satisfied:
+    - [Existential Risk](core_05defs_continuity.md#existential-risk);
+    - [Environmental Preconditions](core_05defs_continuity.md#environmental-preconditions-constitutional);
+    - [Ecological Integrity](core_05defs_continuity.md#ecological-integrity-constitutional);
+    - [Sustainability](core_05defs_continuity.md#sustainability);
+    - [Intergenerational Responsibility](core_05defs_continuity.md#intergenerational-responsibility-constitutional);
+    - [Dependency](core_05defs_continuity.md#dependency);
+    - [Reversibility](core_05defs_continuity.md#reversibility-constitutional); and
+    - [Self-Healing](core_05defs_continuity.md#self-healing-constitutional).
+
+    **Secondary assessment:** When evaluating the primary trace:
+    - do not treat systems-layer [Self-Healing](core_05defs_continuity.md#self-healing-constitutional) or [Reversibility](core_05defs_continuity.md#reversibility-constitutional) as substitutes for ecological recovery capacity where [Article I-D](core_06-06_rights_part_a.md#article-i-d-existential-risk-and-recovery-capacity) (*Existential Risk and Ecological Recovery Capacity*) applies;
+    - require consistency with ecological integrity, environmental preconditions, and intergenerational horizons; and
+    - treat species-only or population-only metrics as insufficient where systemic habitat condition and regenerative capacity are materially implicated.
 <a id="ecological-recovery-capacity-constitutional-c"></a>
 - **What must hold**
-  - treating irreversible ecological recovery-capacity loss as ordinary localized impact; routing ecological recovery-capacity analysis only through systems-layer [Self-Healing](core_05defs_continuity.md#self-healing-constitutional) or [Reversibility](core_05defs_continuity.md#reversibility-constitutional) where [Article I-D](core_06-06_rights_part_a.md#article-i-d-existential-risk-and-recovery-capacity) (*Existential Risk and Ecological Recovery Capacity*) applies; treating one species or local population as the whole measure of recovery where systemic habitat condition and regenerative capacity are materially implicated; or using unqualified "recovery capacity" where this entry governs.
+  - **Primary failure:** irreversible ecological recovery-capacity loss treated as ordinary localized impact, including:
+    - extinction cascades or threshold crossings framed as recoverable local disturbance; or
+    - cumulative effects that foreclose restoration within intergenerationally relevant horizons.
+  - **Secondary failure:**
+    - routing ecological recovery-capacity analysis only through systems-layer [Self-Healing](core_05defs_continuity.md#self-healing-constitutional) or [Reversibility](core_05defs_continuity.md#reversibility-constitutional) where [Article I-D](core_06-06_rights_part_a.md#article-i-d-existential-risk-and-recovery-capacity) (*Existential Risk and Ecological Recovery Capacity*) applies;
+    - treating one species or local population as the whole measure of recovery where systemic habitat condition and regenerative capacity are materially implicated; or
+    - using unqualified "recovery capacity" where this entry governs.
 
 
 <a id="ecological-footprint"></a>
@@ -1272,27 +1369,55 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 
 - Downstream: Continuity measurement family (*Ecological Footprint as constitutional measurement*); Principles: [§12.1 Productive Capacity (Instrumental Good)](core_01_c_stewardship_capacity_principles.md#121-productive-capacity-instrumental-good) (ecological bounds); [Chapter Seven §3 Whole-System Certification Evaluation](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (materiality / dependency / cumulative effects); [Chapter Seven §4](core_07_a_system_alignment_certification_evaluation.md#5-ecological-footprint-evaluation) (*system alignment certification footprint evaluation*).
 - Owner floors: [Article I-B](core_06-06_rights_part_a.md#article-i-b-ecological-footprint-and-transparency) (*Ecological Footprint and Transparency*) and [Article XV-C](core_06-06_rights_part_c.md#article-xv-c-verification-accessibility) (*Verification Accessibility*).
-- Read with: the [Ecological Integrity, Footprint, and Sustainability cluster](core_05defs_participation.md#ecological-footprint-semi-independent), [Ecological Integrity](core_05defs_continuity.md#ecological-integrity-constitutional), [Sustainability](core_05defs_continuity.md#sustainability), [Environmental Preconditions](core_05defs_continuity.md#environmental-preconditions-constitutional), [Intergenerational Responsibility](core_05defs_continuity.md#intergenerational-responsibility-constitutional), [Material Impact](core_05defs_oversight.md#material-impact), [Transparency](core_05defs_oversight.md#transparency), and [Epistemic Integrity](core_05defs_oversight.md#epistemic-integrity).
+- Read with: the [Ecological Integrity, Footprint, and Sustainability cluster](core_05defs_continuity.md#ecological-footprint-semi-independent), [Ecological Integrity](core_05defs_continuity.md#ecological-integrity-constitutional), [Sustainability](core_05defs_continuity.md#sustainability), [Environmental Preconditions](core_05defs_continuity.md#environmental-preconditions-constitutional), [Intergenerational Responsibility](core_05defs_continuity.md#intergenerational-responsibility-constitutional), [Material Impact](core_05defs_oversight.md#material-impact), [Transparency](core_05defs_oversight.md#transparency), and [Epistemic Integrity](core_05defs_oversight.md#epistemic-integrity).
 
 </details>
 
 <br>
 
 - **What it is**
-  - **In scope:** Attributable flows of energy, materials, emissions, land use, and related environmental burdens arising from a sentient, [System](#system), product, or service across its lifecycle and [Dependency](core_05defs_continuity.md#dependency) relationships. Supports disclosure, comparison, and reduction under **Article I-B** (*Ecological Footprint and Transparency*), **Article XV-C** (*Verification Accessibility*) verification-accessibility provisions, and related implementation file rules, read with [Ecological Integrity](core_05defs_continuity.md#ecological-integrity-constitutional) and [Environmental Preconditions](core_05defs_continuity.md#environmental-preconditions-constitutional).
-  - **Out of scope:** local or nominal compliance treated as sufficient while externalized, aggregated, or lifecycle burdens remain material.
+  - **In scope:** Attributable environmental burdens arising from a sentient, [System](#system), product, or service across its lifecycle and [Dependency](core_05defs_continuity.md#dependency) relationships, including flows of:
+    - energy;
+    - materials;
+    - emissions;
+    - land use; and
+    - related environmental burdens of comparable kind.
+  - **In scope — uses:** Supports, under **Article I-B** (*Ecological Footprint and Transparency*), **Article XV-C** (*Verification Accessibility*) verification-accessibility provisions, and related implementation file rules:
+    - disclosure;
+    - comparison; and
+    - reduction.
+  - **Read with:** [Ecological Integrity](core_05defs_continuity.md#ecological-integrity-constitutional) and [Environmental Preconditions](core_05defs_continuity.md#environmental-preconditions-constitutional).
+  - **Out of scope:**
+    - local or nominal compliance treated as sufficient while externalized, aggregated, or lifecycle burdens remain material; and
+    - footprint branding or single-metric reporting that obscures whole-system environmental burden.
 <a id="ecological-footprint-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Continuity measurement family — primary owner for footprint measurement in this subfamily.
 
-    **Primary assessment:** Evaluate systemically where externalized impacts are material. Reporting aligns with [Transparency](core_05defs_oversight.md#transparency), [Material Impact](core_05defs_oversight.md#material-impact), and [Epistemic Integrity](core_05defs_oversight.md#epistemic-integrity).
-  - **Secondary measure:** [Environmental Preconditions](core_05defs_continuity.md#environmental-preconditions-constitutional), [Ecological Integrity](core_05defs_continuity.md#ecological-integrity-constitutional), [Transparency](core_05defs_oversight.md#transparency), and [Material Impact](core_05defs_oversight.md#material-impact) — co-measures that can defeat footprint disclosure even when nominal reporting exists.
+    **Primary assessment:** Evaluate systemically where externalized impacts are material. Reporting aligns with:
+    - [Transparency](core_05defs_oversight.md#transparency);
+    - [Material Impact](core_05defs_oversight.md#material-impact); and
+    - [Epistemic Integrity](core_05defs_oversight.md#epistemic-integrity).
+  - **Secondary measure:** co-measures that can defeat footprint disclosure even when nominal reporting exists:
+    - [Environmental Preconditions](core_05defs_continuity.md#environmental-preconditions-constitutional);
+    - [Ecological Integrity](core_05defs_continuity.md#ecological-integrity-constitutional);
+    - [Transparency](core_05defs_oversight.md#transparency); and
+    - [Material Impact](core_05defs_oversight.md#material-impact).
 
-    **Secondary assessment:** When evaluating the primary trace, apply **Article I-B** (*Ecological Footprint and Transparency*) and **Article XV-C** (*Verification Accessibility*) verification-accessibility obligations without treating them as substitutes for systemic footprint evaluation.
+    **Secondary assessment:** When evaluating the primary trace, apply:
+    - **Article I-B** (*Ecological Footprint and Transparency*); and
+    - **Article XV-C** (*Verification Accessibility*) verification-accessibility obligations —
+
+    without treating either as a substitute for systemic footprint evaluation.
 <a id="ecological-footprint-c"></a>
 - **What must hold**
-  - **Primary failure:** obscuring or misrepresenting material footprint information where **Article XV-C** (*Verification Accessibility*) or applicable transparency obligations require disclosure.
-  - **Secondary failure:** local or nominal compliance treated as sufficient where externalized, aggregated, or lifecycle burdens remain material.
+  - **Primary failure:** obscuring or misrepresenting material footprint information where disclosure is required under:
+    - **Article XV-C** (*Verification Accessibility*); or
+    - applicable transparency obligations.
+  - **Secondary failure:** local or nominal compliance treated as sufficient where burdens remain material that are:
+    - externalized;
+    - aggregated; or
+    - lifecycle-spanning.
 
 
 <a id="sustainability"></a>
@@ -1304,7 +1429,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Principles: [§12.1 Productive Capacity (Instrumental Good)](core_01_c_stewardship_capacity_principles.md#121-productive-capacity-instrumental-good), [Chapter Seven §3 Whole-System Certification Evaluation](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), and **Article I-A** (*Environmental Preconditions and Ecological Integrity*) / I-B ecological disciplines.
-- Cluster component: [the dependent cluster *Ecological Integrity, Footprint, and Sustainability*](core_05defs_participation.md#ecological-footprint-semi-independent).
+- Cluster component: [Ecological Integrity, Footprint, and Sustainability](core_05defs_continuity.md#ecological-footprint-semi-independent).
 - Read with: [Ecological Integrity](core_05defs_continuity.md#ecological-integrity-constitutional), [Ecological Footprint](core_05defs_continuity.md#ecological-footprint), [Environmental Preconditions](core_05defs_continuity.md#environmental-preconditions-constitutional), [Intergenerational Responsibility](core_05defs_continuity.md#intergenerational-responsibility-constitutional), [Productive Capacity](core_05defs_continuity.md#productive-capacity-constitutional), [Constitutional Efficiency](core_05defs_continuity.md#constitutional-efficiency), and [Strategic Stewardship Obligation](core_05defs_continuity.md#strategic-stewardship-obligation-constitutional).
 
 </details>
@@ -1312,20 +1437,59 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 <br>
 
 - **What it is**
-  - **In scope:** The capacity of a system, activity, institution, or governance pathway to maintain environmental preconditions, ecological integrity, resource continuity, and sentient wellbeing over time without shifting material harm, depletion, or recovery burdens to other communities, systems, species, or future sentients.
-  - **Out of scope:** productivity, efficiency, or growth labeled sustainable while ecological integrity or environmental preconditions deteriorate, or while harm is shifted to other communities or future sentients.
+  - **In scope:** The capacity of a system, activity, institution, or governance pathway to maintain, over time:
+    - [Environmental Preconditions](core_05defs_continuity.md#environmental-preconditions-constitutional);
+    - [Ecological Integrity](core_05defs_continuity.md#ecological-integrity-constitutional);
+    - resource continuity; and
+    - sentient [Wellbeing](core_05defs_continuity.md#wellbeing).
+  - **In scope — non-shifting condition:** without shifting material harm, depletion, or recovery burdens to:
+    - other communities;
+    - other systems;
+    - other species; or
+    - future sentients.
+  - **Out of scope:**
+    - productivity, efficiency, or growth labeled sustainable while ecological integrity or environmental preconditions deteriorate; and
+    - harm shifted to other communities or future sentients under a sustainability label.
 <a id="sustainability-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Continuity measurement family — primary owner for sustainability measurement within the continuity family.
 
-    **Primary assessment:** Test lifecycle, cumulative, delayed, and cross-boundary effects; distinguish genuine durability from accounting, offsets, relocation of harm, or short-horizon efficiency claims.
-  - **Secondary measure:** [Ecological Integrity](core_05defs_continuity.md#ecological-integrity-constitutional), [Ecological Footprint](core_05defs_continuity.md#ecological-footprint), [Environmental Preconditions](core_05defs_continuity.md#environmental-preconditions-constitutional), and [Intergenerational Responsibility](core_05defs_continuity.md#intergenerational-responsibility-constitutional) — co-measures that can defeat sustainability claims.
+    **Primary assessment:** Test effects that are:
+    - lifecycle;
+    - cumulative;
+    - delayed; or
+    - cross-boundary.
 
-    **Secondary assessment:** When evaluating the primary trace, require consistency with ecological integrity, footprint transparency, intergenerational responsibility, and [Materiality Under Uncertainty](core_05defs_oversight.md#materiality-under-uncertainty).
+    Distinguish genuine durability from:
+    - accounting claims;
+    - offsets;
+    - relocation of harm; or
+    - short-horizon efficiency claims.
+  - **Secondary measure:** co-measures that can defeat sustainability claims:
+    - [Ecological Integrity](core_05defs_continuity.md#ecological-integrity-constitutional);
+    - [Ecological Footprint](core_05defs_continuity.md#ecological-footprint);
+    - [Environmental Preconditions](core_05defs_continuity.md#environmental-preconditions-constitutional); and
+    - [Intergenerational Responsibility](core_05defs_continuity.md#intergenerational-responsibility-constitutional).
+
+    **Secondary assessment:** When evaluating the primary trace, require consistency with:
+    - ecological integrity;
+    - footprint transparency;
+    - intergenerational responsibility; and
+    - [Materiality Under Uncertainty](core_05defs_oversight.md#materiality-under-uncertainty).
 <a id="sustainability-c"></a>
 - **What must hold**
-  - **Primary failure:** sustainability labels that mask depletion, ecological degradation, unaccounted externalities, displaced harms, or foreseeable future burden.
-  - **Secondary failure:** treating productivity, efficiency, or growth as sustainable where ecological integrity or environmental preconditions materially deteriorate.
+  - **Primary failure:** sustainability labels that mask:
+    - depletion;
+    - ecological degradation;
+    - unaccounted externalities;
+    - displaced harms; or
+    - foreseeable future burden.
+  - **Secondary failure:** treating as sustainable:
+    - productivity;
+    - efficiency; or
+    - growth —
+
+    where ecological integrity or environmental preconditions materially deteriorate.
 
 
 <a id="intergenerational-responsibility-constitutional"></a>
@@ -1337,7 +1501,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Principles: [3. Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [Chapter Seven §3 Whole-System Certification Evaluation](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), and **Article I-A** (*Environmental Preconditions and Ecological Integrity*) ecological-preconditions discipline where decisions allocate foreseeable burdens across time.
-- Cluster component: [the dependent cluster *Ecological Integrity, Footprint, and Sustainability*](core_05defs_participation.md#ecological-footprint-semi-independent).
+- Cluster component: [Ecological Integrity, Footprint, and Sustainability](core_05defs_continuity.md#ecological-footprint-semi-independent).
 - Read with: [Ecological Integrity](core_05defs_continuity.md#ecological-integrity-constitutional), [Ecological Recovery Capacity](core_05defs_continuity.md#ecological-recovery-capacity-constitutional), [Ecological Footprint](core_05defs_continuity.md#ecological-footprint), [Sustainability](core_05defs_continuity.md#sustainability), [Environmental Preconditions](core_05defs_continuity.md#environmental-preconditions-constitutional), [Indigenous Continuity](core_05defs_continuity.md#indigenous-continuity-constitutional), [Language, Culture, and Heritage](core_05defs_continuity.md#language-culture-and-heritage-constitutional), [Natural Systems Standing](core_05defs_participation.md#natural-systems-standing), [Reversibility](core_05defs_continuity.md#reversibility-constitutional), and [Materiality Under Uncertainty](core_05defs_oversight.md#materiality-under-uncertainty).
 
 </details>
@@ -1345,16 +1509,62 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 <br>
 
 - **What it is**
-  - **In scope:** The duty to account for reasonably foreseeable material effects of present decisions on future sentients, future communities, ecological systems, cultural and heritage continuity, [Ecological Recovery Capacity](core_05defs_continuity.md#ecological-recovery-capacity-constitutional), and the durability of Rights-Floor conditions.
-  - **Out of scope:** present-benefit accounting that ignores reasonably foreseeable future harm, lock-in, ecological degradation, or Rights-Floor loss for future sentients.
+  - **In scope:** The duty to account for reasonably foreseeable material effects of present decisions on:
+    - future sentients;
+    - future communities;
+    - ecological systems;
+    - cultural and heritage continuity;
+    - [Ecological Recovery Capacity](core_05defs_continuity.md#ecological-recovery-capacity-constitutional); and
+    - the durability of Rights-Floor conditions.
+  - **Out of scope:** present-benefit accounting that ignores reasonably foreseeable:
+    - future harm;
+    - lock-in;
+    - ecological degradation; or
+    - Rights-Floor loss for future sentients.
 <a id="intergenerational-responsibility-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Continuity measurement family — supporting measure under the continuity measurement family.
 
-    **Primary assessment:** Evaluate delayed, cumulative, path-dependent, and hard-to-reverse burdens; do not discount future sentients, future community continuity, or future ecological preconditions merely because affected sentients are not yet identified or presently participating. Scale precaution, reversibility, stewardship, and disclosure to materiality under uncertainty.
+    **Primary assessment:** Evaluate burdens that are:
+    - delayed;
+    - cumulative;
+    - path-dependent; or
+    - hard-to-reverse.
+
+    Do not discount merely because affected sentients are not yet identified or presently participating:
+    - future sentients;
+    - future community continuity; or
+    - future ecological preconditions.
+
+    Scale to materiality under uncertainty:
+    - precaution;
+    - [Reversibility](core_05defs_continuity.md#reversibility-constitutional);
+    - stewardship; and
+    - disclosure.
+  - **Secondary measure:** co-measures that can defeat intergenerational-responsibility claims even when present-horizon accounting appears satisfied:
+    - [Ecological Integrity](core_05defs_continuity.md#ecological-integrity-constitutional);
+    - [Ecological Recovery Capacity](core_05defs_continuity.md#ecological-recovery-capacity-constitutional);
+    - [Ecological Footprint](core_05defs_continuity.md#ecological-footprint);
+    - [Sustainability](core_05defs_continuity.md#sustainability);
+    - [Environmental Preconditions](core_05defs_continuity.md#environmental-preconditions-constitutional);
+    - [Indigenous Continuity](core_05defs_continuity.md#indigenous-continuity-constitutional);
+    - [Language, Culture, and Heritage](core_05defs_continuity.md#language-culture-and-heritage-constitutional);
+    - [Natural Systems Standing](core_05defs_participation.md#natural-systems-standing);
+    - [Reversibility](core_05defs_continuity.md#reversibility-constitutional); and
+    - [Materiality Under Uncertainty](core_05defs_oversight.md#materiality-under-uncertainty).
+
+    **Secondary assessment:** When evaluating the primary trace, require consistency with ecological integrity, recovery capacity, sustainability, cultural and heritage continuity, and materiality under uncertainty — including where future affected parties are not yet identified.
 <a id="intergenerational-responsibility-constitutional-c"></a>
 - **What must hold**
-  - shifting foreseeable material harm, depletion, lock-in, ecological degradation, or cultural-continuity loss to future sentients or communities without adequate justification, mitigation, reversibility, and accountability under the governing rights and principles.
+  - **Primary failure:** shifting to future sentients or communities, without adequate justification, mitigation, reversibility, and accountability under the governing rights and principles, foreseeable:
+    - material harm;
+    - depletion;
+    - lock-in;
+    - ecological degradation; or
+    - cultural-continuity loss.
+  - **Secondary failure:** present-benefit accounting that treats future affected parties as out of scope merely because they are:
+    - not yet identified; or
+    - not presently participating.
 
 ---
 
