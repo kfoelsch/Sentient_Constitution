@@ -1825,19 +1825,52 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 *In plain terms: how much a sentient or system relies on another for survival, function, stability, or participation — including chains and one-way dependencies that are hard to see or hard to leave.*
 
 - **What it is**
-  - **In scope:** The extent to which a sentient or system relies on another system for survival, function, stability, or participation. A core input to [Wellbeing](core_05defs_continuity.md#wellbeing), [Meaningful Agency](core_05defs_participation.md#meaningful-agency), and [Classification-Scaled Governance](core_05defs_oversight.md#classification-scaled-governance).
-  - **Out of scope:** mere coexistence, optional convenience, or one-time contact without reliance for survival, function, stability, or participation.
+  - **In scope:** The extent to which a sentient or system relies on another system for:
+    - survival;
+    - function;
+    - stability; or
+    - participation.
+
+    A core input to [Wellbeing](core_05defs_continuity.md#wellbeing), [Meaningful Agency](core_05defs_participation.md#meaningful-agency), and [Classification-Scaled Governance](core_05defs_oversight.md#classification-scaled-governance). Includes relationships that are:
+    - direct or indirect;
+    - chained across multiple systems;
+    - asymmetric, where one side relies far more than the other;
+    - non-transparent or hard to see; and
+    - hard to leave, such as lock-in or the absence of a viable exit path.
+  - **Out of scope:**
+    - mere coexistence;
+    - optional convenience; or
+    - one-time contact without reliance for survival, function, stability, or participation.
 <a id="dependency-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Continuity measurement family — primary owner for dependency measurement in this subfamily.
 
-    **Primary assessment:** Include availability; substitutability; recovery time; direct, indirect, chained, asymmetric, and non-transparent relationships that materially bear on [Risk](core_05defs_continuity.md#risk), [Material Impact](core_05defs_oversight.md#material-impact), and [System Boundary Integrity](core_05defs_continuity.md#system-boundary-integrity).
-  - **Secondary measure:** [Risk](core_05defs_continuity.md#risk), [Material Impact](core_05defs_oversight.md#material-impact), [System Boundary Integrity](core_05defs_continuity.md#system-boundary-integrity), and [Classification-Scaled Governance](core_05defs_oversight.md#classification-scaled-governance) — co-measures that scale dependency obligations.
+    **Primary assessment:** Measure the depth and durability of reliance across:
+    - availability — whether the relied-on function is present when needed, and how often it is not;
+    - substitutability — whether a viable alternative exists, and at what cost, delay, and loss of function;
+    - recovery time — how long the relying sentient or system can hold out without the function, and how long restoration takes; and
+    - exit cost — what leaving the relationship requires, including lock-in and switching burdens.
 
-    **Secondary assessment:** When evaluating the primary trace, apply [Classification-Scaled Governance](core_05defs_oversight.md#classification-scaled-governance), [Materiality Determination](core_05defs_oversight.md#materiality-determination), and [Oversight](core_05apex_oversight_leg.md#oversight-constitutional) scaling to dependency relationships.
+    Apply that measurement to relationships that are direct, indirect, chained, asymmetric, or non-transparent, wherever they materially bear on:
+    - [Risk](core_05defs_continuity.md#risk);
+    - [Material Impact](core_05defs_oversight.md#material-impact); and
+    - [System Boundary Integrity](core_05defs_continuity.md#system-boundary-integrity).
+  - **Secondary measure:** co-measures that scale dependency obligations:
+    - [Risk](core_05defs_continuity.md#risk);
+    - [Material Impact](core_05defs_oversight.md#material-impact);
+    - [System Boundary Integrity](core_05defs_continuity.md#system-boundary-integrity); and
+    - [Classification-Scaled Governance](core_05defs_oversight.md#classification-scaled-governance).
+
+    **Secondary assessment:** When evaluating the primary trace, scale obligations to the measured reliance by applying:
+    - [Classification-Scaled Governance](core_05defs_oversight.md#classification-scaled-governance) — heavier governance where reliance is deeper, less substitutable, or harder to leave;
+    - [Materiality Determination](core_05defs_oversight.md#materiality-determination) — whether a given relationship crosses into material and must be carried into evaluation; and
+    - [Oversight](core_05apex_oversight_leg.md#oversight-constitutional) — supervision proportionate to the depth and asymmetry of the relationship.
 <a id="dependency-c"></a>
 - **What must hold**
-  - **Primary failure:** dependencies omitted from system evaluation where materially implicated.
+  - **Primary failure:** dependencies omitted from system evaluation where materially implicated, including:
+    - chained or indirect relationships left unmapped;
+    - asymmetric reliance recorded as if it were mutual; and
+    - non-transparent or hard-to-leave relationships that evade disclosure.
   - **Secondary failure:** dependency relationships treated as immaterial where [Materiality Determination](core_05defs_oversight.md#materiality-determination) or [Classification-Scaled Governance](core_05defs_oversight.md#classification-scaled-governance) would require incorporation.
 
 ---
@@ -1862,20 +1895,63 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 *In plain terms: when a system keeps drawing value from shared foundations other sentients or systems depend on, it must put enough back — in real, traceable resources — to keep those foundations running, auditable, and repairable. A one-time grant or a press release is not support.*
 
 - **What it is**
-  - **In scope:** Systems that materially benefit from shared infrastructure or foundational dependencies and must return documented, auditable resource flows adequate to sustain those dependencies' continued function, integrity, auditability, contestability, and long-term sustainability — evaluated under [Substantive Fairness](core_05defs_participation.md#substantive-fairness-constitutional) and [Proportionality](core_05defs_accountability.md#proportionality), scaled to criticality, [Dependency](core_05defs_continuity.md#dependency) asymmetry, substitutability, [Ecological Footprint](core_05defs_continuity.md#ecological-footprint) where material, and long-term [Sustainability](core_05defs_continuity.md#sustainability). **Corresponding support** under **Article IV-B** (*Cross-System Fairness and Sustainability*) means support that reaches substantive adequacy under this entry. This entry does not prescribe equal splits, fixed percentages, or a single funding model.
-  - **Out of scope:** ordinary commercial exchange above the survival floor and outside shared-infrastructure or foundational-dependency scope.
+  - **In scope:** Systems that materially benefit from shared infrastructure or foundational dependencies and must return documented, auditable resource flows adequate to sustain those dependencies':
+    - continued function;
+    - integrity;
+    - auditability;
+    - contestability; and
+    - long-term sustainability.
+
+    Adequacy is evaluated under [Substantive Fairness](core_05defs_participation.md#substantive-fairness-constitutional) and [Proportionality](core_05defs_accountability.md#proportionality), and scaled to:
+    - criticality of the shared or foundational dependency;
+    - [Dependency](core_05defs_continuity.md#dependency) asymmetry between extracting and supporting systems;
+    - substitutability of the relied-on function;
+    - [Ecological Footprint](core_05defs_continuity.md#ecological-footprint) where material; and
+    - long-term [Sustainability](core_05defs_continuity.md#sustainability).
+
+    **Corresponding support** under **Article IV-B** (*Cross-System Fairness and Sustainability*) means support that reaches substantive adequacy under this entry. This entry does not prescribe:
+    - equal splits;
+    - fixed percentages; or
+    - a single funding model.
+  - **Out of scope:**
+    - ordinary commercial exchange above the survival floor; and
+    - exchange outside shared-infrastructure or foundational-dependency scope.
 <a id="proportionate-cross-system-support-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Continuity measurement family — primary owner for cross-system support measurement.
 
-    **Primary assessment:** Reach substantive adequacy, not formal labeling or one-off transfers. Compare documented inflows and outflows on dependent-systems maps and auditable resource-flow records under **Article IV-A** (*Dependency Mapping and Resource-Flow Transparency*) against the burden imposed on the shared or foundational dependency. At minimum, evaluate whether support includes, where material: continuity of operations; remedy and resilience capacity; ecosystem reinvestment; and ecological burden offset where material [Ecological Footprint](core_05defs_continuity.md#ecological-footprint) is imposed.
-  - **Secondary measure:** [Dependency](core_05defs_continuity.md#dependency), [Ecological Footprint](core_05defs_continuity.md#ecological-footprint), [Sustainability](core_05defs_continuity.md#sustainability), and [Substantive Fairness](core_05defs_participation.md#substantive-fairness-constitutional) — co-measures that can defeat adequacy even when transfers are formally documented.
+    **Primary assessment:** Reach substantive adequacy, not formal labeling or one-off transfers. Compare documented inflows and outflows on dependent-systems maps and auditable resource-flow records under **Article IV-A** (*Dependency Mapping and Resource-Flow Transparency*) against the burden imposed on the shared or foundational dependency. At minimum, evaluate whether support includes, where material:
+    - continuity of operations — keeping the shared or foundational dependency running under ordinary load;
+    - remedy and resilience capacity — capacity to repair, restore, and absorb shock when the dependency fails or degrades;
+    - ecosystem reinvestment — resources returned to the shared layer that other systems rely on; and
+    - ecological burden offset — where material [Ecological Footprint](core_05defs_continuity.md#ecological-footprint) is imposed, documented offset adequate to the burden.
+  - **Secondary measure:** co-measures that can defeat adequacy even when transfers are formally documented:
+    - [Dependency](core_05defs_continuity.md#dependency);
+    - [Ecological Footprint](core_05defs_continuity.md#ecological-footprint);
+    - [Sustainability](core_05defs_continuity.md#sustainability); and
+    - [Substantive Fairness](core_05defs_participation.md#substantive-fairness-constitutional).
 
-    **Secondary assessment:** When evaluating the primary trace, scale required support to criticality, dependency asymmetry, availability of alternatives, ecological footprint, and long-term sustainability. Where materially impactful systems allocate, route, fund, or extract from shared infrastructure, evaluate adequacy through [System Alignment Certification](core_05defs_continuity.md#system-alignment-certification-constitutional) on a contestable record, not operator assertion alone.
+    **Secondary assessment:** When evaluating the primary trace, scale required support to:
+    - criticality of the shared or foundational dependency;
+    - dependency asymmetry between extracting and supporting systems;
+    - substitutability of the relied-on function — whether relying systems have a viable alternative, and at what cost, delay, and loss of function;
+    - ecological footprint where material; and
+    - long-term sustainability.
+
+    Where materially impactful systems allocate, route, fund, or extract from shared infrastructure, evaluate adequacy through [System Alignment Certification](core_05defs_continuity.md#system-alignment-certification-constitutional) on a contestable record, not operator assertion alone.
 <a id="proportionate-cross-system-support-constitutional-c"></a>
 - **What must hold**
-  - **Primary failure:** persistent extraction from shared infrastructure or foundational dependencies without proportionate cross-system contribution; one-time, symbolic, opaque, or off-map transfers treated as satisfying this entry while operations, auditability, contestability, or sustainability of the dependency materially degrade.
-  - **Secondary failure:** support flows that mainly entrench capture or concentration; support conditioned to defeat **Article IV-A** (*Dependency Mapping and Resource-Flow Transparency*) transparency; or reading this entry as satisfied by survival-floor or non-concentration compliance alone where cross-system extraction remains materially imbalanced.
+  - **Primary failure:** persistent extraction from shared infrastructure or foundational dependencies without proportionate cross-system contribution, including treating as satisfying this entry:
+    - one-time transfers;
+    - symbolic or press-release support;
+    - opaque transfers that cannot be audited; or
+    - off-map transfers omitted from dependent-systems maps —
+
+    while operations, auditability, contestability, or sustainability of the dependency materially degrade.
+  - **Secondary failure:**
+    - support flows that mainly entrench capture or concentration;
+    - support conditioned to defeat **Article IV-A** (*Dependency Mapping and Resource-Flow Transparency*) transparency; or
+    - reading this entry as satisfied by survival-floor or non-concentration compliance alone where cross-system extraction remains materially imbalanced.
 
 
 ---
