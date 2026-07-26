@@ -141,7 +141,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 
 #### System Alignment Certification and Certification Record
 
-**Cluster context:** This semi-independent topic group is the Continuity home for the Chapter Seven gate that checks whether a [System](core_05defs_continuity.md#system-definition) is constitutionally aligned before sentients rely on it at scale. [System Alignment Certification](core_05defs_continuity.md#system-alignment-certification-constitutional) is the forum-supervised process. [System Alignment Certification Record](core_05defs_continuity.md#system-alignment-certification-record-constitutional) is the bounded file that process produces. These definitions operate together wherever recognition, conditional recognition, validation, revalidation, continued reliance, deployment, or material release from conditions is at issue. Component definitions below may still operate independently outside joint-invocation scope. Canonical process, record contents, supervisory sequence, contestability chain, and standing-record bridge are stated in [Chapter Seven](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification); these entries are the Chapter Five meanings only.
+**Semi-independent context** (component definitions may still operate outside joint-invocation scope): This topic group is the Continuity home for the Chapter Seven gate that checks whether a [System](core_05defs_continuity.md#system-definition) is constitutionally aligned before sentients rely on it at scale. [System Alignment Certification](core_05defs_continuity.md#system-alignment-certification-constitutional) is the forum-supervised process. [System Alignment Certification Record](core_05defs_continuity.md#system-alignment-certification-record-constitutional) is the bounded file that process produces. These definitions operate together wherever recognition, conditional recognition, validation, revalidation, continued reliance, deployment, or material release from conditions is at issue. Canonical process, record contents, supervisory sequence, contestability chain, and standing-record bridge are stated in [Chapter Seven](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification); these entries are the Chapter Five meanings only.
 
 **Topic group members.** This group comprises:
 - [System Alignment Certification](core_05defs_continuity.md#system-alignment-certification-constitutional);
@@ -288,8 +288,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 
 #### Resilience, Safety, Reversibility, Self-Healing, Cascading Failure, Existential Risk, Environmental Preconditions, and Wellbeing
 
-**Cluster context:** This semi-independent topic group is the joint read-with home for how systems stay safe, manage risk, recover after failure, and keep the environmental and wellbeing conditions sentients need — under the **Continuity** and **Flourishing** aims. These definitions operate together where resilience, safety, systemic harm, environmental preconditions, or wellbeing routing is material. Component definitions below may still operate independently outside joint-invocation scope.
-
+**Semi-independent context** (component definitions may still operate outside joint-invocation scope): This topic group is the joint read-with home for how systems stay safe, manage risk, recover after failure, and keep the environmental and wellbeing conditions sentients need — under the **Continuity** and **Flourishing** aims. These definitions operate together where resilience, safety, systemic harm, environmental preconditions, or wellbeing routing is material.
 **Topic group members.** This group comprises:
 - [Safety (Constraint)](core_05defs_continuity.md#safety-constraint) — the non-negotiable duty to prevent, limit, and contain harm;
 - [Risk](core_05defs_continuity.md#risk) — how likely, fast, and severe that harm may be;
@@ -810,11 +809,10 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 
 #### Constitutional efficiency, productive capacity, avoidable burden, and burden-reduction duty
 
-**Cluster context:**
+**Semi-independent context** (component definitions may still operate outside joint-invocation scope):
 
 - **Scope:** relationship between resource investment and constitutional outcomes.
 - **Joint invocation:** where efficiency, productive capacity, avoidable burden, or burden-reduction routing is material.
-- **Independent use:** component definitions may still operate outside joint-invocation scope.
 - **Dependent cluster:** where proportionality, necessity, and feasibility constraints intersect, [the dependent cluster](core_05defs_continuity.md#proportionality-necessity-feasibility-burden-and-efficiency-cluster) governs joint satisfaction.
 - **Floor protection:** does not authorize efficiency gains or burden reduction achieved by weakening:
   - [Safety (Constraint)](core_05defs_continuity.md#safety-constraint);
@@ -1190,11 +1188,10 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 
 #### Ecological integrity, footprint, and sustainability
 
-**Cluster context:**
+**Semi-independent context** (component definitions may still operate outside joint-invocation scope):
 
 - **Scope:** environmental stewardship and intergenerational duty.
 - **Joint invocation:** where ecological integrity, recovery capacity, footprint, sustainability, or intergenerational responsibility is material.
-- **Independent use:** component definitions may still operate outside joint-invocation scope.
 - **Owner floor:** implements [Article I-A](core_06-06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*Environmental Preconditions and Ecological Integrity*), [Article I-B](core_06-06_rights_part_a.md#article-i-b-ecological-footprint-and-transparency) (*Ecological Footprint and Transparency*), and [Article I-D](core_06-06_rights_part_a.md#article-i-d-existential-risk-and-recovery-capacity) (*Existential Risk and Ecological Recovery Capacity*).
 
 **Topic group members.** This group comprises:
@@ -1570,17 +1567,35 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 
 <a id="emergency-and-contingency-semi-independent"></a>
 
----
-
 #### Emergency and contingency
 
-**Cluster context:** This semi-independent topic group establishes protocols for temporary deviation from ordinary rules during exigent conditions. [Emergency and Contingency](core_05defs_continuity.md#emergency-and-contingency-constitutional) is the cluster head governing all emergency frameworks. [Constitutional Emergency and Contingency](core_05defs_continuity.md#constitutional-emergency-and-contingency) addresses emergencies affecting the authorization of governing authority itself — the [Constitutional Contract Layer](core_05defs_integrative.md#constitutional-contract-layer). [Stakeholder Emergency and Contingency](core_05defs_continuity.md#stakeholder-emergency-and-contingency) governs emergencies within already-authorized systems — the Stakeholder System Participation layer. [Emergency Pre-Deliberation Action (Binding Collective Choice)](core_05defs_continuity.md#emergency-pre-deliberation-action-binding-collective-choice) provides narrow exceptions for binding action before full deliberation where delay would cause imminent harm. These definitions implement [Article XXIII-D](core_06-06_rights_part_d.md#article-xxiii-d-emergency-measures-and-continuation-burden) (*Emergency Measures and Continuation Burden*) and preserve [Safety (Constraint)](core_05defs_continuity.md#safety-constraint), [Truth (Constitutional Constraint)](core_05defs_oversight.md#truth-constitutional-constraint), and [Contestability](core_05defs_accountability.md#contestability) during crises.
+**Semi-independent context** (component definitions may still operate outside joint-invocation scope):
+
+- **Scope:** temporary deviation from ordinary rules during exigent conditions.
+- **Triggers:** invocation requires:
+  - imminent or manifest grave harm;
+  - systemic failure;
+  - comparable exigent conditions; or
+  - external events qualifying under [Force Majeure](core_05defs_accountability.md#force-majeure-constitutional).
+- **Joint invocation:** where emergency frameworks, constitutional or stakeholder emergency routing, or pre-deliberation binding action is material.
+- **Invocation discipline:** every emergency measure must be:
+  - time-limited;
+  - documented;
+  - subject to [Oversight](core_05apex_oversight_leg.md#oversight-constitutional) and independent review; and
+  - reversible or restorable where feasible under [Reversibility](core_05defs_continuity.md#reversibility-constitutional).
+- **Owner floor:** implements [Article XXIII-D](core_06-06_rights_part_d.md#article-xxiii-d-emergency-measures-and-continuation-burden) (*Emergency Measures and Continuation Burden*); procedural cadence, continuation burdens, and restoration sequencing are owned by Chapter Six, and binding stakeholder-choice resolution by [Chapter Twelve §3.3](core_12-12_governance.md#43-decision-resolution-requirements-for-binding-collective-choice).
+- **Floor protection:** does not authorize pretextual, sustained, or indefinite invocation that bypasses:
+  - [Safety (Constraint)](core_05defs_continuity.md#safety-constraint);
+  - [Truth (Constitutional Constraint)](core_05defs_oversight.md#truth-constitutional-constraint);
+  - [Contestability](core_05defs_accountability.md#contestability) and audit;
+  - [Foundational Constitutional Choice](core_05defs_integrative.md#foundational-constitutional-choice); or
+  - the [Constitutional Contract Layer](core_05defs_integrative.md#constitutional-contract-layer).
 
 **Topic group members.** This group comprises:
-- [Emergency and Contingency](core_05defs_continuity.md#emergency-and-contingency-constitutional);
-- [Constitutional Emergency and Contingency](core_05defs_continuity.md#constitutional-emergency-and-contingency);
-- [Stakeholder Emergency and Contingency](core_05defs_continuity.md#stakeholder-emergency-and-contingency);
-- [Emergency Pre-Deliberation Action (Binding Collective Choice)](core_05defs_continuity.md#emergency-pre-deliberation-action-binding-collective-choice).
+- [Emergency and Contingency](core_05defs_continuity.md#emergency-and-contingency-constitutional) — the cluster head governing all emergency frameworks;
+- [Constitutional Emergency and Contingency](core_05defs_continuity.md#constitutional-emergency-and-contingency) — emergencies affecting the authorization of governing authority itself under the [Constitutional Contract Layer](core_05defs_integrative.md#constitutional-contract-layer);
+- [Stakeholder Emergency and Contingency](core_05defs_continuity.md#stakeholder-emergency-and-contingency) — emergencies within already-authorized systems under the Stakeholder System Participation layer;
+- [Emergency Pre-Deliberation Action (Binding Collective Choice)](core_05defs_continuity.md#emergency-pre-deliberation-action-binding-collective-choice) — narrow exceptions for binding action before full deliberation where delay would cause imminent harm.
 
 *Measurements (family routing):* Continuity measurement family — operative tiers on the member definitions below; progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md).
 
@@ -1601,17 +1616,25 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 <br>
 
 - **What it is**
-  - **In scope:** Cluster head for temporary deviation from ordinary operating or governance rules in response to grave exigent conditions.
-  - **In scope — triggers:** imminent or manifest grave harm, systemic failure, comparable exigent conditions, or external events qualifying under [Force Majeure](core_05defs_accountability.md#force-majeure-constitutional).
-  - **In scope — layers:** use [Constitutional Emergency and Contingency](core_05defs_continuity.md#constitutional-emergency-and-contingency) where the emergency affects authorization of governing authority itself, and [Stakeholder Emergency and Contingency](core_05defs_continuity.md#stakeholder-emergency-and-contingency) where the emergency affects materially rights-affecting procedure within an already-authorized system, institution, or bounded decision domain.
-  - **In scope — discipline:** time-limited; documented; subject to [Oversight](core_05apex_oversight_leg.md#oversight-constitutional); reversible where feasible under [Reversibility](core_05defs_continuity.md#reversibility-constitutional).
-  - **Depends on:** [Safety (Constraint)](core_05defs_continuity.md#safety-constraint), [Truth (Constitutional Constraint)](core_05defs_oversight.md#truth-constitutional-constraint), [Necessity](core_05defs_accountability.md#necessity), and [Proportionality](core_05defs_accountability.md#proportionality) — constitutive bounds under **Article XXIII-D** (*Emergency Measures and Continuation Burden*); emergency deviation is permitted only where necessary under Safety and Truth and must satisfy ongoing necessity and proportionality discipline.
+  - **In scope:** Cluster head for temporary deviation from ordinary operating or governance rules in response to grave exigent conditions, covering:
+    - triggers — imminent or manifest grave harm, systemic failure, comparable exigent conditions, or external events qualifying under [Force Majeure](core_05defs_accountability.md#force-majeure-constitutional);
+    - layers — use [Constitutional Emergency and Contingency](core_05defs_continuity.md#constitutional-emergency-and-contingency) where the emergency affects authorization of governing authority itself, and [Stakeholder Emergency and Contingency](core_05defs_continuity.md#stakeholder-emergency-and-contingency) where the emergency affects materially rights-affecting procedure within an already-authorized system, institution, or bounded decision domain; and
+    - discipline — time-limited; documented; subject to [Oversight](core_05apex_oversight_leg.md#oversight-constitutional); reversible where feasible under [Reversibility](core_05defs_continuity.md#reversibility-constitutional).
+  - **Depends on:** [Safety (Constraint)](core_05defs_continuity.md#safety-constraint), [Truth (Constitutional Constraint)](core_05defs_oversight.md#truth-constitutional-constraint), [Necessity](core_05defs_accountability.md#necessity), and [Proportionality](core_05defs_accountability.md#proportionality) — constitutive bounds under **Article XXIII-D** (*Emergency Measures and Continuation Burden*). Emergency deviation must:
+    - be necessary under Safety and Truth; and
+    - satisfy ongoing necessity and proportionality discipline.
   - **Out of scope:** pretextual or indefinite invocation to bypass Safety, Truth, Contestability, Foundational Constitutional Choice, or the Constitutional Contract Layer.
 <a id="emergency-and-contingency-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Continuity measurement family — supporting measure under the continuity measurement family.
 
-    **Primary assessment:** Apply [Proportionality](core_05defs_accountability.md#proportionality) and [Necessity](core_05defs_accountability.md#necessity); preserve [Contestability](core_05defs_accountability.md#contestability) and retrospective [Auditability](core_05defs_oversight.md#auditability); treat force-majeure claims under [Force Majeure](core_05defs_accountability.md#force-majeure-constitutional). Procedural cadence, continuation burdens, and restoration/rollback sequencing are owned by Chapter Six, [Article XXIII-D](core_06-06_rights_part_d.md#article-xxiii-d-emergency-measures-and-continuation-burden) (*Emergency Measures and Continuation Burden*). Where emergency facts affect binding collective choice, apply [Stakeholder Emergency and Contingency](core_05defs_continuity.md#stakeholder-emergency-and-contingency), [Emergency Pre-Deliberation Action (Binding Collective Choice)](core_05defs_continuity.md#emergency-pre-deliberation-action-binding-collective-choice), and Chapter Twelve owner requirements. Owner-layer governance implementation appears in designated implementation text and must not narrow [Safety (Constraint)](core_05defs_continuity.md#safety-constraint) or [Truth (Constitutional Constraint)](core_05defs_oversight.md#truth-constitutional-constraint).
+    **Primary assessment:** Evaluate each emergency invocation as follows:
+    - apply [Proportionality](core_05defs_accountability.md#proportionality) and [Necessity](core_05defs_accountability.md#necessity);
+    - preserve [Contestability](core_05defs_accountability.md#contestability) and retrospective [Auditability](core_05defs_oversight.md#auditability);
+    - treat force-majeure claims under [Force Majeure](core_05defs_accountability.md#force-majeure-constitutional);
+    - procedural cadence, continuation burdens, and restoration / rollback sequencing are owned by Chapter Six, [Article XXIII-D](core_06-06_rights_part_d.md#article-xxiii-d-emergency-measures-and-continuation-burden) (*Emergency Measures and Continuation Burden*);
+    - where emergency facts affect binding collective choice, apply [Stakeholder Emergency and Contingency](core_05defs_continuity.md#stakeholder-emergency-and-contingency), [Emergency Pre-Deliberation Action (Binding Collective Choice)](core_05defs_continuity.md#emergency-pre-deliberation-action-binding-collective-choice), and Chapter Twelve owner requirements; and
+    - owner-layer governance implementation appears in designated implementation text and must not narrow [Safety (Constraint)](core_05defs_continuity.md#safety-constraint) or [Truth (Constitutional Constraint)](core_05defs_oversight.md#truth-constitutional-constraint).
 <a id="emergency-and-contingency-constitutional-c"></a>
 - **What must hold**
   - Invoking emergency or contingency to bypass [Safety (Constraint)](core_05defs_continuity.md#safety-constraint), [Truth (Constitutional Constraint)](core_05defs_oversight.md#truth-constitutional-constraint), required [Contestability](core_05defs_accountability.md#contestability), audit, [Foundational Constitutional Choice](core_05defs_integrative.md#foundational-constitutional-choice), or the [Constitutional Contract Layer](core_05defs_integrative.md#constitutional-contract-layer) — pretextually or indefinitely — is non-compliant.
@@ -1634,16 +1657,34 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 <br>
 
 - **What it is**
-  - **In scope:** Emergency or contingency affecting the [Constitutional Contract Layer](core_05defs_integrative.md#constitutional-contract-layer): continuity, preservation, restoration, or temporary protection of the lawful conditions under which governing authority is authorized, reauthorized, challenged, or kept from capture. It may preserve the possibility of lawful [Foundational Constitutional Choice](core_05defs_integrative.md#foundational-constitutional-choice), but it must not itself create, substitute for, amend, or durably restructure constitutional authority.
-  - **Out of scope:** using emergency continuity or crisis delegation to entrench new governing authority, bypass Foundational Constitutional Choice, or normalize emergency power after the predicate fails; ordinary stakeholder-process expedience.
+  - **In scope:** Emergency or contingency affecting the [Constitutional Contract Layer](core_05defs_integrative.md#constitutional-contract-layer), including:
+    - continuity, preservation, restoration, or temporary protection of the lawful conditions under which governing authority is authorized, reauthorized, challenged, or kept from capture; and
+    - preservation of the possibility of lawful [Foundational Constitutional Choice](core_05defs_integrative.md#foundational-constitutional-choice).
+  - **Out of scope:**
+    - creating, substituting for, amending, or durably restructuring constitutional authority;
+    - using emergency continuity or crisis delegation to entrench new governing authority;
+    - bypassing Foundational Constitutional Choice;
+    - normalizing emergency power after the predicate fails; or
+    - ordinary stakeholder-process expedience.
 <a id="constitutional-emergency-and-contingency-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Continuity measurement family — supporting measure under the continuity measurement family.
 
-    **Primary assessment:** Verify that any constitutional-emergency measure is limited to preservation, continuity, anti-capture, restoration, or preparation for lawful authorization pathways. It must be time-limited, documented, independently reviewable, contestable as soon as feasible, and reversible or restorable where feasible under [Emergency and Contingency](core_05defs_continuity.md#emergency-and-contingency-constitutional) and **Article XXIII-D** (*Emergency Measures and Continuation Burden*). Permanent or durable changes require the ordinary constitutional authorization, adoption, amendment, or reauthorization pathway.
+    **Primary assessment:** Verify that any constitutional-emergency measure:
+    - is limited to preservation, continuity, anti-capture, restoration, or preparation for lawful authorization pathways;
+    - is time-limited;
+    - is documented;
+    - is independently reviewable;
+    - is contestable as soon as feasible;
+    - is reversible or restorable where feasible under [Emergency and Contingency](core_05defs_continuity.md#emergency-and-contingency-constitutional) and **Article XXIII-D** (*Emergency Measures and Continuation Burden*); and
+    - routes permanent or durable changes through the ordinary constitutional authorization, adoption, amendment, or reauthorization pathway.
 <a id="constitutional-emergency-and-contingency-c"></a>
 - **What must hold**
-  - using emergency continuity, temporary stewardship, compromised-channel exclusion, crisis delegation, or subversion response to entrench a new governing authority, bypass [Foundational Constitutional Choice](core_05defs_integrative.md#foundational-constitutional-choice), evade Chapter Fourteen validity procedures, or normalize emergency constitutional power after the emergency predicate fails.
+  - The following are non-compliant:
+    - using emergency continuity, temporary stewardship, compromised-channel exclusion, crisis delegation, or subversion response to entrench a new governing authority;
+    - bypassing [Foundational Constitutional Choice](core_05defs_integrative.md#foundational-constitutional-choice);
+    - evading Chapter Fourteen validity procedures; or
+    - normalizing emergency constitutional power after the emergency predicate fails.
 
 
 <a id="stakeholder-emergency-and-contingency"></a>
@@ -1663,16 +1704,32 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 <br>
 
 - **What it is**
-  - **In scope:** Emergency or contingency within the **Stakeholder System Participation** layer: temporary deviation from ordinary participation, representation, deliberation, notice, access, review, service-continuity, or decision-resolution procedure inside an already-authorized system, institution, or bounded decision domain. It may expedite or temporarily modify stakeholder-system procedure to prevent imminent material harm, but it must preserve affected-party notice, challenge, restoration, and proportionate participation as soon as feasible.
-  - **Out of scope:** symbolic consultation treated as enough; converting emergency weighting into a standing model; substituting stakeholder emergency for Constitutional Emergency where governing authority is implicated.
+  - **In scope:** Emergency or contingency within the **Stakeholder System Participation** layer, including:
+    - temporary deviation from ordinary participation, representation, deliberation, notice, access, review, service-continuity, or decision-resolution procedure inside an already-authorized system, institution, or bounded decision domain;
+    - expedited or temporarily modified stakeholder-system procedure to prevent imminent material harm; and
+    - preservation of affected-party notice, challenge, restoration, and proportionate participation as soon as feasible.
+  - **Out of scope:**
+    - symbolic consultation treated as enough;
+    - converting emergency weighting into a standing model; or
+    - substituting stakeholder emergency for Constitutional Emergency where governing authority is implicated.
 <a id="stakeholder-emergency-and-contingency-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Continuity measurement family — supporting measure under the continuity measurement family.
 
-    **Primary assessment:** Verify that the measure stays within an already-authorized governance structure, identifies affected stakeholders where feasible, records deferred participation or access, and restores or reopens stakeholder-participation pathways when emergency conditions permit. Where material disagreement requires binding decision before ordinary deliberation can occur, apply [Emergency Pre-Deliberation Action (Binding Collective Choice)](core_05defs_continuity.md#emergency-pre-deliberation-action-binding-collective-choice) together with [Binding Stakeholder Choice](core_05defs_participation.md#binding-stakeholder-choice-cluster) and Chapter Twelve §3.3.
+    **Primary assessment:** Verify that the measure:
+    - stays within an already-authorized governance structure;
+    - identifies affected stakeholders where feasible;
+    - records deferred participation or access;
+    - restores or reopens stakeholder-participation pathways when emergency conditions permit; and
+    - where material disagreement requires binding decision before ordinary deliberation can occur, applies [Emergency Pre-Deliberation Action (Binding Collective Choice)](core_05defs_continuity.md#emergency-pre-deliberation-action-binding-collective-choice) together with [Binding Stakeholder Choice](core_05defs_participation.md#binding-stakeholder-choice-cluster) and Chapter Twelve §3.3.
 <a id="stakeholder-emergency-and-contingency-c"></a>
 - **What must hold**
-  - using stakeholder emergency framing to treat symbolic consultation as sufficient, suppress challenge after stabilization, defer participation indefinitely, convert emergency weighting or representation into a standing model, or substitute stakeholder-system process for [Constitutional Emergency and Contingency](core_05defs_continuity.md#constitutional-emergency-and-contingency) where authorization of governing authority is implicated.
+  - The following are non-compliant:
+    - treating symbolic consultation as sufficient;
+    - suppressing challenge after stabilization;
+    - deferring participation indefinitely;
+    - converting emergency weighting or representation into a standing model; or
+    - substituting stakeholder-system process for [Constitutional Emergency and Contingency](core_05defs_continuity.md#constitutional-emergency-and-contingency) where authorization of governing authority is implicated.
 
 
 <a id="emergency-pre-deliberation-action-binding-collective-choice"></a>
@@ -1694,16 +1751,33 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 <br>
 
 - **What it is**
-  - **In scope:** Specialized [Stakeholder Emergency and Contingency](core_05defs_continuity.md#stakeholder-emergency-and-contingency) pathway for **temporary** action that may precede full deliberation in a binding stakeholder-choice pathway only where delay would cause **imminent material harm**. It is a narrow timing exception within an already-authorized system, institution, or bounded decision domain; it is not a general governance bypass.
-  - **Out of scope:** ordinary expedience or convenience labeled as emergency; sustained pre-deliberation power treated as final stakeholder authorization.
+  - **In scope:** Specialized [Stakeholder Emergency and Contingency](core_05defs_continuity.md#stakeholder-emergency-and-contingency) pathway for **temporary** action that may precede full deliberation in a binding stakeholder-choice pathway, limited to:
+    - cases where delay would cause **imminent material harm**;
+    - a narrow timing exception within an already-authorized system, institution, or bounded decision domain; and
+    - action that is not a general governance bypass.
+  - **Out of scope:**
+    - ordinary expedience or convenience labeled as emergency; or
+    - sustained pre-deliberation power treated as final stakeholder authorization.
 <a id="emergency-pre-deliberation-action-binding-collective-choice-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Continuity measurement family — supporting measure under the continuity measurement family.
 
-    **Primary assessment:** Must be minimal, time-limited, documented, independently reviewable, and reversible or restorable where feasible. It must preserve the later deliberation, notice, challenge, participation-restoration, and record duties required by [Stakeholder Emergency and Contingency](core_05defs_continuity.md#stakeholder-emergency-and-contingency), [Binding Stakeholder Choice](core_05defs_participation.md#binding-stakeholder-choice-cluster), **Article XXIII-D** (*Emergency Measures and Continuation Burden*), and Chapter Twelve §3.3. Where the same facts touch the [Constitutional Contract Layer](core_05defs_integrative.md#constitutional-contract-layer), [Constitutional Emergency and Contingency](core_05defs_continuity.md#constitutional-emergency-and-contingency) also applies.
+    **Primary assessment:** Verify that the action:
+    - is minimal;
+    - is time-limited;
+    - is documented;
+    - is independently reviewable;
+    - is reversible or restorable where feasible;
+    - preserves the later deliberation, notice, challenge, participation-restoration, and record duties required by [Stakeholder Emergency and Contingency](core_05defs_continuity.md#stakeholder-emergency-and-contingency), [Binding Stakeholder Choice](core_05defs_participation.md#binding-stakeholder-choice-cluster), **Article XXIII-D** (*Emergency Measures and Continuation Burden*), and Chapter Twelve §3.3; and
+    - where the same facts touch the [Constitutional Contract Layer](core_05defs_integrative.md#constitutional-contract-layer), also applies [Constitutional Emergency and Contingency](core_05defs_continuity.md#constitutional-emergency-and-contingency).
 <a id="emergency-pre-deliberation-action-binding-collective-choice-c"></a>
 - **What must hold**
-  - labeling ordinary expedience or convenience as emergency; sustained or inadequately reviewed pre-deliberation power; using emergency action to bypass [Foundational Constitutional Choice](core_05defs_integrative.md#foundational-constitutional-choice) or the [Constitutional Contract Layer](core_05defs_integrative.md#constitutional-contract-layer); or treating pre-deliberation action as final stakeholder authorization without the required restoration, review, and reopening pathway. Owner floor: [Chapter Twelve §3.3](core_12-12_governance.md#43-decision-resolution-requirements-for-binding-collective-choice).
+  - The following are non-compliant:
+    - labeling ordinary expedience or convenience as emergency;
+    - sustained or inadequately reviewed pre-deliberation power;
+    - using emergency action to bypass [Foundational Constitutional Choice](core_05defs_integrative.md#foundational-constitutional-choice) or the [Constitutional Contract Layer](core_05defs_integrative.md#constitutional-contract-layer); or
+    - treating pre-deliberation action as final stakeholder authorization without the required restoration, review, and reopening pathway.
+  - Owner floor: [Chapter Twelve §3.3](core_12-12_governance.md#43-decision-resolution-requirements-for-binding-collective-choice).
 
 ---
 
@@ -1715,7 +1789,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 
 #### Dependency and cross-system support
 
-**Cluster context:** This semi-independent topic group is the Continuity home for shared reliance and return-flow adequacy under **Article IV** (*Resource Allocation, Dependencies, and Ecosystem Funding*). [Dependency](core_05defs_continuity.md#dependency) asks how much a sentient or system relies on another for survival, function, stability, or participation — including chains, asymmetry, and hard-to-see relationships. [Proportionate Cross-System Support](core_05defs_continuity.md#proportionate-cross-system-support-constitutional) requires systems that draw value from shared foundations to put enough documented, auditable resources back to keep those foundations running, contestable, and sustainable. These definitions operate together where dependency mapping, resource-flow transparency, or cross-system extraction is material — typically **Article IV-A** (*Dependency Mapping and Resource-Flow Transparency*) with **Article IV-B** (*Cross-System Fairness and Sustainability*). Component definitions below may still operate independently outside joint-invocation scope. [System Alignment Certification and Certification Record](core_05defs_continuity.md#system-alignment-certification-semi-independent) remains outside this cluster: it is the Chapter Seven gate that may *check* these duties when shared-infrastructure reliance is in scope, not a third member of the Article IV pair.
+**Semi-independent context** (component definitions may still operate outside joint-invocation scope): This topic group is the Continuity home for shared reliance and return-flow adequacy under **Article IV** (*Resource Allocation, Dependencies, and Ecosystem Funding*). [Dependency](core_05defs_continuity.md#dependency) asks how much a sentient or system relies on another for survival, function, stability, or participation — including chains, asymmetry, and hard-to-see relationships. [Proportionate Cross-System Support](core_05defs_continuity.md#proportionate-cross-system-support-constitutional) requires systems that draw value from shared foundations to put enough documented, auditable resources back to keep those foundations running, contestable, and sustainable. These definitions operate together where dependency mapping, resource-flow transparency, or cross-system extraction is material — typically **Article IV-A** (*Dependency Mapping and Resource-Flow Transparency*) with **Article IV-B** (*Cross-System Fairness and Sustainability*). [System Alignment Certification and Certification Record](core_05defs_continuity.md#system-alignment-certification-semi-independent) remains outside this cluster: it is the Chapter Seven gate that may *check* these duties when shared-infrastructure reliance is in scope, not a third member of the Article IV pair.
 
 **Topic group members.** This group comprises:
 - [Dependency](core_05defs_continuity.md#dependency);
@@ -1802,7 +1876,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 
 #### Systemic effects and capture
 
-**Cluster context:** This semi-independent topic group covers how systems interact, when those interactions raise the stake, and when concentrated power twists the rules. [Systemic](core_05defs_continuity.md#systemic) names effects that arise from interaction and [Dependency](core_05defs_continuity.md#dependency) — not from one component alone. [Systemic Materiality](core_05defs_continuity.md#systemic-materiality) is the threshold where interaction makes total [Material Impact](core_05defs_oversight.md#material-impact) exceed the sum of separable parts. [System Capture](core_05defs_continuity.md#system-capture) is the integrity overlay: concentrated incentives or power that distort [Governance](core_05defs_accountability.md#governance), [Oversight](core_05apex_oversight_leg.md#oversight-constitutional), or [Contestability](core_05defs_accountability.md#contestability). These definitions operate together where interaction effects, amplified materiality, or capture risk are material. Component definitions below may still operate independently outside joint-invocation scope. Read with [System boundaries, integrity, and exit](core_05defs_continuity.md#system-boundaries-integrity-and-exit) for scoping and exit, and with [Chapter One §11 Incentive Alignment and System Capture](core_01_c_stewardship_capacity_principles.md#11-incentive-alignment-and-system-capture) where incentive design is in play.
+**Semi-independent context** (component definitions may still operate outside joint-invocation scope): This topic group covers how systems interact, when those interactions raise the stake, and when concentrated power twists the rules. [Systemic](core_05defs_continuity.md#systemic) names effects that arise from interaction and [Dependency](core_05defs_continuity.md#dependency) — not from one component alone. [Systemic Materiality](core_05defs_continuity.md#systemic-materiality) is the threshold where interaction makes total [Material Impact](core_05defs_oversight.md#material-impact) exceed the sum of separable parts. [System Capture](core_05defs_continuity.md#system-capture) is the integrity overlay: concentrated incentives or power that distort [Governance](core_05defs_accountability.md#governance), [Oversight](core_05apex_oversight_leg.md#oversight-constitutional), or [Contestability](core_05defs_accountability.md#contestability). These definitions operate together where interaction effects, amplified materiality, or capture risk are material. Read with [System boundaries, integrity, and exit](core_05defs_continuity.md#system-boundaries-integrity-and-exit) for scoping and exit, and with [Chapter One §11 Incentive Alignment and System Capture](core_01_c_stewardship_capacity_principles.md#11-incentive-alignment-and-system-capture) where incentive design is in play.
 
 **Topic group members.** This group comprises:
 - [Systemic](core_05defs_continuity.md#systemic);
@@ -1909,7 +1983,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 
 #### System boundaries, integrity, and exit
 
-**Cluster context:** This semi-independent topic group establishes how constitutional evaluation scopes and constrains system behavior. [System](core_05defs_continuity.md#system-definition) provides the foundational definition of structured components producing effects on sentients. [System Boundaries](core_05defs_continuity.md#system-boundaries) defines functional scope based on material impact and dependency rather than formal or jurisdictional limits. [System Boundary Integrity](core_05defs_continuity.md#system-boundary-integrity) requires accuracy and stability in boundary definition to prevent manipulation. [Charter](core_05defs_continuity.md#charter) is the published scope instrument stating what a system, institution, or business claims authority to do — amendable over time, but subject to periodic alignment review. [Systemic Lock-In](core_05defs_continuity.md#systemic-lock-in) identifies conditions where exit or corrective action is foreclosed, negating [Meaningful Agency](core_05defs_participation.md#meaningful-agency) and [Contestability](core_05defs_accountability.md#contestability). These definitions ensure systems are evaluated in full functional scope with meaningful pathways for change and exit.
+**Semi-independent context** (component definitions may still operate outside joint-invocation scope): This topic group establishes how constitutional evaluation scopes and constrains system behavior. [System](core_05defs_continuity.md#system-definition) provides the foundational definition of structured components producing effects on sentients. [System Boundaries](core_05defs_continuity.md#system-boundaries) defines functional scope based on material impact and dependency rather than formal or jurisdictional limits. [System Boundary Integrity](core_05defs_continuity.md#system-boundary-integrity) requires accuracy and stability in boundary definition to prevent manipulation. [Charter](core_05defs_continuity.md#charter) is the published scope instrument stating what a system, institution, or business claims authority to do — amendable over time, but subject to periodic alignment review. [Systemic Lock-In](core_05defs_continuity.md#systemic-lock-in) identifies conditions where exit or corrective action is foreclosed, negating [Meaningful Agency](core_05defs_participation.md#meaningful-agency) and [Contestability](core_05defs_accountability.md#contestability). These definitions ensure systems are evaluated in full functional scope with meaningful pathways for change and exit.
 
 **Topic group members.** This group comprises:
 - [System](core_05defs_continuity.md#system-definition);
@@ -2053,7 +2127,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 
 #### Survival-floor continuity: bodily maintenance, tenure, and environment
 
-**Cluster context:** This semi-independent topic group establishes the foundational conditions that preserve sentient life, function, and capacity for agency. [Bodily-Maintenance Access](core_05defs_continuity.md#bodily-maintenance-access-constitutional) secures healthcare and maintenance services necessary for life preservation across all substrates. [Tenure Security](core_05defs_continuity.md#tenure-security-constitutional) protects procedural and substantive stability of essential shelter and operating-environment relationships. [Environmental Preconditions](core_05defs_continuity.md#environmental-preconditions-constitutional) establishes the biophysical conditions — stable climate, functioning ecosystems, clean air and water — on which sentient survival depends. These definitions operate as a survival-floor stack implementing [Article III](core_06-06_rights_part_a.md#article-iii-survival) (*Survival and Equal Educational Access*) (Survival Floor) and [Article I-A](core_06-06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*Environmental Preconditions and Ecological Integrity*). **Note:** [Safe Conditions](core_05defs_continuity.md#safe-conditions-constitutional) and [Leisure and Rest](core_05defs_continuity.md#leisure-and-rest-constitutional) have been migrated to the [Labor and Economic Floor cluster](core_05defs_integrative.md#labor-and-economic-floor-cluster) in Section 3.5, where they participate in the joint-invocation home for **Article III-D** (*Labor and Economic Floor*) labor and economic floor rights together with Fair Compensation and Collective Organization.
+**Semi-independent context** (component definitions may still operate outside joint-invocation scope): This topic group establishes the foundational conditions that preserve sentient life, function, and capacity for agency. [Bodily-Maintenance Access](core_05defs_continuity.md#bodily-maintenance-access-constitutional) secures healthcare and maintenance services necessary for life preservation across all substrates. [Tenure Security](core_05defs_continuity.md#tenure-security-constitutional) protects procedural and substantive stability of essential shelter and operating-environment relationships. [Environmental Preconditions](core_05defs_continuity.md#environmental-preconditions-constitutional) establishes the biophysical conditions — stable climate, functioning ecosystems, clean air and water — on which sentient survival depends. These definitions operate as a survival-floor stack implementing [Article III](core_06-06_rights_part_a.md#article-iii-survival) (*Survival and Equal Educational Access*) (Survival Floor) and [Article I-A](core_06-06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*Environmental Preconditions and Ecological Integrity*). **Note:** [Safe Conditions](core_05defs_continuity.md#safe-conditions-constitutional) and [Leisure and Rest](core_05defs_continuity.md#leisure-and-rest-constitutional) have been migrated to the [Labor and Economic Floor cluster](core_05defs_integrative.md#labor-and-economic-floor-cluster) in Section 3.5, where they participate in the joint-invocation home for **Article III-D** (*Labor and Economic Floor*) labor and economic floor rights together with Fair Compensation and Collective Organization.
 
 **Topic group members.** This group comprises:
 - [Bodily-Maintenance Access](core_05defs_continuity.md#bodily-maintenance-access-constitutional);
@@ -2135,7 +2209,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 
 #### Community-anchored continuity: indigenous, language, culture, and heritage
 
-**Cluster context:** This semi-independent topic group protects community and cultural continuity. [Indigenous Continuity](core_05defs_continuity.md#indigenous-continuity-constitutional) secures language, cultural practice, governance practice, and knowledge-transmission for communities with durable territorial or ecosystem connection — a community-anchored, capability-functional floor. [Language, Culture, and Heritage](core_05defs_continuity.md#language-culture-and-heritage-constitutional) provides protected-characteristic-based protections for individual and collective cultural identity, covering language use, cultural practice, heritage transmission, and communication modalities. Both definitions are substrate-agnostic under [Sentience Non-Exclusion](core_05defs_participation.md#sentience-non-exclusion). Together these definitions implement [Article V-B](core_06-06_rights_part_b.md#article-v-b-nondiscrimination) (*Nondiscrimination*) and [Article I-A](core_06-06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*Environmental Preconditions and Ecological Integrity*) community-continuity protections.
+**Semi-independent context** (component definitions may still operate outside joint-invocation scope): This topic group protects community and cultural continuity. [Indigenous Continuity](core_05defs_continuity.md#indigenous-continuity-constitutional) secures language, cultural practice, governance practice, and knowledge-transmission for communities with durable territorial or ecosystem connection — a community-anchored, capability-functional floor. [Language, Culture, and Heritage](core_05defs_continuity.md#language-culture-and-heritage-constitutional) provides protected-characteristic-based protections for individual and collective cultural identity, covering language use, cultural practice, heritage transmission, and communication modalities. Both definitions are substrate-agnostic under [Sentience Non-Exclusion](core_05defs_participation.md#sentience-non-exclusion). Together these definitions implement [Article V-B](core_06-06_rights_part_b.md#article-v-b-nondiscrimination) (*Nondiscrimination*) and [Article I-A](core_06-06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*Environmental Preconditions and Ecological Integrity*) community-continuity protections.
 
 **Topic group members.** This group comprises:
 - [Indigenous Continuity](core_05defs_continuity.md#indigenous-continuity-constitutional);

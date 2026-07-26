@@ -112,9 +112,9 @@ def _is_cluster_shell(title: str, body: str) -> bool:
     if re.match(r"^#{4}\s+3\.\d+", title):
         return True
     head = body[:800]
-    if "**Cluster context:**" in head and not GUIDE_O_RE.search(head) and not LETTER_O_RE.search(
-        head
-    ):
+    if (
+        "**Cluster context:**" in head or "**Semi-independent context**" in head
+    ) and not GUIDE_O_RE.search(head) and not LETTER_O_RE.search(head):
         return True
     if title.startswith("### ") or "Independent terms" in title or "Semi-independent" in title:
         return True

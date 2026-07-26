@@ -202,7 +202,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
 
 #### Contingent Claim, Event-Contract Market, Game of Chance, and Insider Advantage
 
-**Cluster context:** This semi-independent topic group names contingent settlement forms and the integrity overlay that governs unfair edges in those structures. These definitions operate together where contingent claims, games of chance, or event-contract markets are material, consistent with [Chapter One §11.5](core_01_c_stewardship_capacity_principles.md#115-contingent-claims-games-of-chance-and-event-contract-markets).
+**Semi-independent context** (component definitions may still operate outside joint-invocation scope): This topic group names contingent settlement forms and the integrity overlay that governs unfair edges in those structures. These definitions operate together where contingent claims, games of chance, or event-contract markets are material, consistent with [Chapter One §11.5](core_01_c_stewardship_capacity_principles.md#115-contingent-claims-games-of-chance-and-event-contract-markets).
 - [Contingent Claim](core_05defs_accountability.md#contingent-claim) — the genus: a right to a payout that depends on an uncertain future event outside the claim itself.
 - [Event-Contract Market](core_05defs_accountability.md#event-contract-market) — a kind of Contingent Claim: external-event settlement venues.
 - [Game of Chance](core_05defs_accountability.md#game-of-chance) — a kind of Contingent Claim: chance-based payouts.
@@ -340,7 +340,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
 
 #### Accountability, contestability, and redress pathways
 
-**Cluster context:** This semi-independent topic group establishes the foundational mechanisms for holding actors responsible and seeking correction of constitutional violations. These definitions operate together where review, redress, or resolution of constitutional claims is material.
+**Semi-independent context** (component definitions may still operate outside joint-invocation scope): This topic group establishes the foundational mechanisms for holding actors responsible and seeking correction of constitutional violations. These definitions operate together where review, redress, or resolution of constitutional claims is material.
 - [Accountability](core_05apex_accountability_leg.md#accountability) — attribution of responsibility.
 - [Contestability](core_05defs_accountability.md#contestability) — ability to challenge and seek remedy.
 - [Due Process](core_05defs_accountability.md#due-process-constitutional) — fair and reviewable process for materially rights-affecting decisions and outcomes.
@@ -921,7 +921,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
 
 #### Protected reporting and anti-retaliation
 
-**Cluster context:** This semi-independent topic group secures the channels through which constitutional violations, safety failures, and systemic harms are brought to light. [Protected Reporting (Whistleblowing)](core_05defs_accountability.md#protected-reporting-whistleblowing) establishes the scope of disclosures shielded from reprisal, while [Protected Reporting Retaliation and Access Interference](core_05defs_accountability.md#protected-reporting-retaliation-and-access-interference) defines prohibited responses and access-blocking tactics that would chill legitimate reporting. These definitions protect the information pathways essential to [Accountability](core_05apex_accountability_leg.md#accountability), [Contestability](core_05defs_accountability.md#contestability), and [Auditability](core_05defs_oversight.md#auditability).
+**Semi-independent context** (component definitions may still operate outside joint-invocation scope): This topic group secures the channels through which constitutional violations, safety failures, and systemic harms are brought to light. [Protected Reporting (Whistleblowing)](core_05defs_accountability.md#protected-reporting-whistleblowing) establishes the scope of disclosures shielded from reprisal, while [Protected Reporting Retaliation and Access Interference](core_05defs_accountability.md#protected-reporting-retaliation-and-access-interference) defines prohibited responses and access-blocking tactics that would chill legitimate reporting. These definitions protect the information pathways essential to [Accountability](core_05apex_accountability_leg.md#accountability), [Contestability](core_05defs_accountability.md#contestability), and [Auditability](core_05defs_oversight.md#auditability).
 
 **Topic group members.** This group comprises:
 - [Protected Reporting (Whistleblowing)](core_05defs_accountability.md#protected-reporting-whistleblowing);
@@ -1008,7 +1008,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
 
 #### Governance architecture, decentralization, and concentration
 
-**Cluster context:** This semi-independent topic group establishes the structural framework for how authority is organized and constrained. These definitions implement [Chapter One §13 Market Structure](core_01_c_stewardship_capacity_principles.md#13-market-structure) and constrain [System Capture](core_05defs_continuity.md#system-capture) through distributed, accountable authority structures.
+**Semi-independent context** (component definitions may still operate outside joint-invocation scope): This topic group establishes the structural framework for how authority is organized and constrained. These definitions implement [Chapter One §13 Market Structure](core_01_c_stewardship_capacity_principles.md#13-market-structure) and constrain [System Capture](core_05defs_continuity.md#system-capture) through distributed, accountable authority structures.
 - [Governance](core_05defs_accountability.md#governance) — structures, rules, and processes by which systems are directed and held accountable.
 - [Decentralization](core_05defs_accountability.md#decentralization) — placement of authority at the least centralized scale that can satisfy binding requirements.
 - [Market Structure](core_05defs_accountability.md#market-structure-constitutional) — principle-layer discipline for contestable productive conditions.
