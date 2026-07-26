@@ -81,11 +81,13 @@ def collect_section1_headings(lines: list[str]) -> list[tuple[int, str]]:
         line = lines[i].strip()
         if not line:
             continue
+        # Stop at the next H3 (section 2+); do not scan the alphabetical directory.
+        if line.startswith("### ") and not line.startswith("#### "):
+            break
         match = HEADING_RE.match(line)
         if match:
             headings.append((i + 1, match.group(1).strip()))
-    if not headings:
-        raise ValueError("Unable to parse any section 1 headings after the section heading.")
+    # Section 1 may be meta-only (no #### children); directory order is audited separately.
     return headings
 
 

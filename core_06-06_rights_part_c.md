@@ -1308,9 +1308,10 @@ It must remain distinct from:
 - **Reinstatement and non-entrenchment:** Where standing is reduced due to violation findings, systems must provide clear conditions for review, remediation-based restoration, and periodic re-evaluation under [Chapter Nine §8](core_09-09_standing_integration.md#8-restoration-and-reassessment).
   - Permanent exclusion based solely on historical status, without current and auditable justification, is non-compliant.
   - Completion of correction, restitution, monitoring, safeguard implementation, or other demonstrated reduction of recurrence risk must create a real reassessment named pathway where lawful; failure to complete those obligations keeps the unresolved finding live for standing purposes.
-#### Article XVIII-C: Pathway Eligibility, Responsibility, and Continuous Audit
+
 <a id="article-xviii-c-good-standing-responsibility-and-continuous-audit"></a>
 <a id="article-xviii-c-pathway-eligibility-responsibility-and-continuous-audit"></a>
+#### Article XVIII-C: Pathway Eligibility, Responsibility, and Continuous Audit
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 

@@ -162,7 +162,7 @@ When the materiality triggers below apply to a **materially impactful system**, 
 
 <br>
 
-*In plain terms: a certification record only works if people can read it, verify it, and push back when it is wrong. This section puts those three requirements — transparency, auditability, and contestability — directly on the record itself, not as abstract ideals.*
+*In plain terms: a certification record only works if sentients can read it, verify it, and push back when it is wrong. This section puts those three requirements — transparency, auditability, and contestability — directly on the record itself, not as abstract ideals.*
 
 This section applies [Transparency](core_05defs_oversight.md#transparency), [Auditability](core_05defs_oversight.md#auditability), and [Contestability](core_05defs_accountability.md#contestability) to system alignment certification records. Canonical term homes and owner boundaries are under [Constitutional Owner Layers](core_05defs_integrative.md#constitutional-owner-layers). Under the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad):
 
@@ -170,7 +170,7 @@ This section applies [Transparency](core_05defs_oversight.md#transparency), [Aud
 - **Contestability** implements **accountability** and preserves **participation** in challenge paths;
 - Record clarity and contest clocks under **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*) implement **timeliness** scaled to system class and [material stake](core_00_preamble.md#material-stake).
 
-**Transparency** — people must be able to see what matters:
+**Transparency** — sentients must be able to see what matters:
 
 - A certification record must disclose decision-relevant facts at a level proportionate to system class and material impact under **[corpus_systems.md](corpus_systems.md), CS-4 — System classification and handling**, including what [§11](#11-certification-record) requires:
   - Scope, assumptions, evidence basis, uncertainty, conditions, outcomes, and limits on reliance;
@@ -178,7 +178,7 @@ This section applies [Transparency](core_05defs_oversight.md#transparency), [Aud
 - Volume, formatting, or technical obscurity must not substitute for decision-relevant clarity;
 - Online-publication baseline, paywall prohibition for public-baseline disclosure, and maximum-feasible public-substitute discipline are governed by [Transparency](core_05defs_oversight.md#transparency) and implemented as **Type P** data under **[corpus_systems.md](corpus_systems.md), CS-3 — Information types and handling**, read with **CJS-5.4** (*tiered transparency and audit-access terms*).
 
-**Auditability** — people must be able to reconstruct and check the record:
+**Auditability** — sentients must be able to reconstruct and check the record:
 
 - A certification record must be attributable, reconstructable, and independently reviewable under Chapters Two through Four and [Evidence Preservation](core_05defs_oversight.md#evidence-preservation);
 - It must identify:
@@ -466,6 +466,6 @@ A **System Alignment Certification Record** is **scope-bound** and **time-bound*
 
 ---
 
-**Previous file:** [core_05defs_performance.md](core_05defs_performance.md)
+**Previous file:** [core_07_a_system_alignment_certification_evaluation.md](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation)
 
 **Next file:** [core_08-08_standing_assessment.md](core_08-08_standing_assessment.md)

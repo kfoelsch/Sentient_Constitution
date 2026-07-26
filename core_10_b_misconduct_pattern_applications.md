@@ -548,7 +548,7 @@ This subsection does **not** add an additional designation criterion beyond the 
 
 - Upstream: [§2](core_10_a_misconduct_designation.md#2-criteria-set-for-slot-assignment) (*Criteria set*); [§3](core_10_a_misconduct_designation.md#3-violation-axis-s-7-9-slot-assignment-incident-gravity) (*Violation Axis s = 7–9 designation*); [§4](core_10_a_misconduct_designation.md#4-due-process-safeguards-for-slot-assignment) (*Due-process safeguards, remedy, and prevention*); [Chapter One §2.2](core_01_a_values_principles.md#22-recognition-reinforcement-and-aspiration) (*Recognition, Reinforcement, and Aspiration*); [Chapter One §11](core_01_c_stewardship_capacity_principles.md#11-incentive-alignment-and-system-capture) (*Incentive Alignment and System Capture*); [Chapter Nine §5.4](core_09-09_standing_integration.md#54-special-violation-rules) (*misaligned-reward reporting, forfeiture, correction, and records*); [Chapter Nine §2](core_09-09_standing_integration.md#2-integration-record-and-decision-order) (*Standing integration*).
 - Related patterns: [§5.5](#55-bribery-and-improper-benefit-exchange) where benefit exchange or corrupt linkage is material; [§5.6](#56-unlawful-or-unconstitutional-command-conduct) where the reward pathway follows unlawful or unconstitutional command conduct; [§5.8](#58-enforcement-refusal-suppression-or-non-prosecution-conduct) where enforcement refusal or non-prosecution itself is the accountability-obstruction pathway; [§5.11](#511-obstruction-of-accountability-criteria-interaction) for the umbrella **obstruction of accountability** criteria interaction.
-- Read with: [Accountability](core_05apex_accountability_leg.md#accountability), [Auditability](core_05defs_oversight.md#auditability), [Incentive Alignment](core_05defs_integrative.md#incentive-alignment), [Protected Reporting Retaliation and Access Interference](core_05defs_accountability.md#protected-reporting-retaliation-and-access-interference), [System Capture](core_05defs_continuity.md#system-capture), and [Truth (Constitutional Constraint)](core_05defs_oversight.md#truth-constitutional-constraint).
+- Read with: [Accountability](core_05apex_accountability_leg.md#accountability), [Auditability](core_05defs_oversight.md#auditability), [Incentive Alignment](core_05defs_integrative.md#incentive-alignment), [Protected Reporting Retaliation and Access Interference](core_05defs_accountability.md#protected-reporting-retaliation-and-access-interference), [System Capture](core_05defs_continuity.md#system-capture), and [Truth (Constitutional Constraint)](core_05defs_oversight.md#truth-constitutional-constraint); [Chapter Nine §5.4](core_09-09_standing_integration.md#54-special-violation-rules), subject to [Article XXVI-A](core_06-06_rights_part_d.md#incentive-alignment-transition-carve-out) (*Phased Adoption and Rights-Floor Continuity*) incentive-alignment transition carve-out during constitutional transition.
 
 </details>
 
@@ -638,8 +638,6 @@ Where proportionate and lawful, disputed rewards must be subject to any of the f
 - clawback;
 - correction; or
 - independent review.
-
-Read with [Chapter Nine §5.4](core_09-09_standing_integration.md#54-special-violation-rules), subject to [Article XXVI-A](core_06-06_rights_part_d.md#incentive-alignment-transition-carve-out) (*Phased Adoption and Rights-Floor Continuity*) incentive-alignment transition carve-out during constitutional transition.
 
 **Exclusions.** This subsection does **not** prohibit the following:
 - lawful compensation for ordinary work;
@@ -772,7 +770,7 @@ The refusal, delay, suppression, narrowing, abandonment, or non-prosecution must
 - remedy; or
 - accountable attribution.
 
-If the people who refused to act cannot fairly investigate themselves because the alleged refusal materially involves any of the following, then transfer, co-assignment, outside participation, or anti-self-judging backup must still be available under Chapter Eleven, **CF-9** (*Independent investigative service and prosecution interface*), and adopted implementation:
+If the sentients who refused to act cannot fairly investigate themselves because the alleged refusal materially involves any of the following, then transfer, co-assignment, outside participation, or anti-self-judging backup must still be available under Chapter Eleven, **CF-9** (*Independent investigative service and prosecution interface*), and adopted implementation:
 - prosecutors;
 - investigators;
 - police;

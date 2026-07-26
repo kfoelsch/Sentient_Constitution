@@ -26,7 +26,11 @@ EXPECTED_TOPIC_GROUPS: dict[str, list[str]] = {
         "Timely Resolution",
         "Merits Determination",
         "Stay",
+        "Negligence",
         "Collective Accountability Failure",
+        "Redress and Remediation",
+        "Remedy System",
+        "Restorative Justice",
         "Force Majeure",
         "Capture of Resolution Pathways",
     ],
@@ -78,6 +82,8 @@ TOPIC_GROUP_HEADINGS: set[str] = set(EXPECTED_TOPIC_GROUPS) | {
     "#### Survival-floor continuity: bodily maintenance, tenure, and environment",
     "#### Community-anchored continuity: indigenous, language, culture, and heritage",
     "#### Materiality, impact, risk, and proxy integrity",
+    "#### Dependency and cross-system support",
+    "#### Systemic effects and capture",
 }
 
 

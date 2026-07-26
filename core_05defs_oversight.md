@@ -63,7 +63,7 @@ This band holds definitions under the **Oversight** Tetrad leg — transparency,
     **Primary assessment:** Include plausible strategies of misuse, coordination, scaling, and adaptive response that could reasonably emerge given system incentives, access, and capabilities, read together with [Risk](core_05defs_continuity.md#risk) and [Dependency](core_05defs_continuity.md#dependency).
 <a id="adversarial-scaled-and-exploited-conditions-c"></a>
 - **What must hold**
-  - Failure to evaluate these conditions where relevant is non-compliant, especially where it understates [Risk](core_05defs_continuity.md#risk) or masks [System Capture](core_05defs_continuity.md#system-capture).
+  - **Primary failure:** Failure to evaluate these conditions where relevant is non-compliant, especially where it understates [Risk](core_05defs_continuity.md#risk) or masks [System Capture](core_05defs_continuity.md#system-capture).
 
 ---
 
@@ -92,6 +92,7 @@ This band holds definitions under the **Oversight** Tetrad leg — transparency,
 <a id="capability-requirement-c"></a>
 - **What must hold**
   - The system must demonstrably achieve the specified outcome in practice within auditable [System Boundaries](core_05defs_continuity.md#system-boundaries).
+  - **Primary failure:** claiming or relying on capability without demonstrating the specified outcome under the conditions in which the system is represented, authorized, or used.
 
 ---
 
@@ -121,7 +122,7 @@ This band holds definitions under the **Oversight** Tetrad leg — transparency,
     **Primary assessment:** Apply the operative classification under implementation file rules together with [Materiality Determination](core_05defs_oversight.md#materiality-determination) and [System Boundary Integrity](core_05defs_continuity.md#system-boundary-integrity). Self-assigned or informal low classification is not sufficient where full functional effects warrant higher [Oversight](core_05apex_oversight_leg.md#oversight-constitutional) or governance. Whole-system evaluation under [Chapter Seven §3 Whole-System Certification Evaluation](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) scales by class: mandatory at full depth for **Class A**, **Class B**, and **Class C**; mandatory but proportionate for **Class L**; encouraged for **Class P** while validly **Class P**.
 <a id="classification-scaled-governance-c"></a>
 - **What must hold**
-  - operating or classifying a system below the level warranted by its full functional effects; applying class-gated obligations inconsistently with assigned classification where [Material Impact](core_05defs_oversight.md#material-impact), [Dependency](core_05defs_continuity.md#dependency), or [Risk](core_05defs_continuity.md#risk) require stronger governance.
+  - **Primary failure:** operating or classifying a system below the level warranted by its full functional effects; applying class-gated obligations inconsistently with assigned classification where [Material Impact](core_05defs_oversight.md#material-impact), [Dependency](core_05defs_continuity.md#dependency), or [Risk](core_05defs_continuity.md#risk) require stronger governance.
 
 ---
 
@@ -168,7 +169,7 @@ This band holds definitions under the **Oversight** Tetrad leg — transparency,
     **Primary assessment:** Include [Dependency](core_05defs_continuity.md#dependency), time horizons, and [Adversarial, Scaled, and Exploited Conditions](core_05defs_oversight.md#adversarial-scaled-and-exploited-conditions).
 <a id="risk-evaluation-and-disclosure-c"></a>
 - **What must hold**
-  - failure to disclose or constrain risk under [Transparency](core_05defs_oversight.md#transparency) or [Safety (Constraint)](core_05defs_continuity.md#safety-constraint).
+  - **Primary failure:** failure to disclose or constrain risk under [Transparency](core_05defs_oversight.md#transparency) or [Safety (Constraint)](core_05defs_continuity.md#safety-constraint).
 
 ---
 
@@ -451,7 +452,7 @@ This band holds definitions under the **Oversight** Tetrad leg — transparency,
     **Primary assessment:** Look for dashboard optimization, threshold gaming, selective sampling, denominator manipulation, excluded populations, automated score improvement, model reward hacking, compliance theater, and narrative substitution. A metric is not reliable where it cannot be traced to observed material outcomes or where incentives predictably sever it from those outcomes.
 <a id="proxy-metric-gaming-and-indicator-reality-gaps-c"></a>
 - **What must hold**
-  - claiming compliance from improved metrics while material outcomes remain deficient; designing indicators that can be satisfied without satisfying the underlying duty; or suppressing evidence that indicators have become detached from reality.
+  - **Primary failure:** claiming compliance from improved metrics while material outcomes remain deficient; designing indicators that can be satisfied without satisfying the underlying duty; or suppressing evidence that indicators have become detached from reality.
 
 <a id="material-degradation"></a>
 
@@ -599,6 +600,7 @@ while defeating practical reconstructability, contestability, or proportionate a
 <a id="audit-scope-sufficiency-c"></a>
 - **What must hold**
   - Audit scope must cover all evaluation criteria and be available for independent [Verification](core_05defs_oversight.md#verifiability) and [Oversight](core_05apex_oversight_leg.md#oversight-constitutional).
+  - **Primary failure:** excluding a materially relevant evaluation criterion, system component, dependency, actor, condition, or effect from audit scope.
 
 ---
 
@@ -661,7 +663,7 @@ while defeating practical reconstructability, contestability, or proportionate a
     **Primary assessment:** Preservation must be prompt, proportionate to materiality and risk, custody-traceable, tamper-evident where feasible, and protective of privacy, safety, security, and protected reporting. It includes preventing deletion, alteration, selective retention, access obstruction, or loss of reconstructability once a material constitutional issue is reasonably known or should be known.
 <a id="evidence-preservation-c"></a>
 - **What must hold**
-  - destroying, altering, withholding, selectively preserving, rendering inaccessible, or failing to secure materially relevant evidence in a way that defeats auditability, contestability, accountability, remedy access, protected reporting, due-process review, or standing measurement.
+  - **Primary failure:** destroying, altering, withholding, selectively preserving, rendering inaccessible, or failing to secure materially relevant evidence in a way that defeats auditability, contestability, accountability, remedy access, protected reporting, due-process review, or standing measurement.
 
 <a id="evaluation-completeness-constraint"></a>
 ##### Evaluation Completeness Constraint
@@ -676,7 +678,7 @@ while defeating practical reconstructability, contestability, or proportionate a
     **Primary assessment:** Demonstrate sufficient coverage of plausible failure, misuse, and interaction pathways, proportional to system impact, [Dependency](core_05defs_continuity.md#dependency), and [Risk](core_05defs_continuity.md#risk), including [Adversarial, Scaled, and Exploited Conditions](core_05defs_oversight.md#adversarial-scaled-and-exploited-conditions) where material.
 <a id="evaluation-completeness-constraint-c"></a>
 - **What must hold**
-  - incomplete or selectively scoped evaluation that defeats [Materiality Determination](core_05defs_oversight.md#materiality-determination), [Auditability](core_05defs_oversight.md#auditability), or [System Boundary Integrity](core_05defs_continuity.md#system-boundary-integrity).
+  - **Primary failure:** incomplete or selectively scoped evaluation that defeats [Materiality Determination](core_05defs_oversight.md#materiality-determination), [Auditability](core_05defs_oversight.md#auditability), or [System Boundary Integrity](core_05defs_continuity.md#system-boundary-integrity).
 
 ---
 
@@ -693,7 +695,7 @@ while defeating practical reconstructability, contestability, or proportionate a
     **Primary assessment:** Include normal, degraded, and adversarial conditions consistent with [Auditability](core_05defs_oversight.md#auditability) and [Reasonably Foreseeable](core_05defs_oversight.md#reasonably-foreseeable) operating contexts.
 <a id="observability-c"></a>
 - **What must hold**
-  - insufficient observability that defeats [Auditability](core_05defs_oversight.md#auditability), [Verifiability](core_05defs_oversight.md#verifiability), or [Contestability](core_05defs_accountability.md#contestability).
+  - **Primary failure:** insufficient observability that defeats [Auditability](core_05defs_oversight.md#auditability), [Verifiability](core_05defs_oversight.md#verifiability), or [Contestability](core_05defs_accountability.md#contestability).
 <a id="verifiability"></a>
 ##### Verifiability
 
@@ -725,6 +727,7 @@ while defeating practical reconstructability, contestability, or proportionate a
 <a id="verification-accessibility-c"></a>
 - **What must hold**
   - Verification must be practically achievable under [Feasibility](core_05defs_accountability.md#feasibility), not merely nominally available.
+  - **Primary failure:** using a verification process that affected parties or authorized reviewers cannot practically access or complete.
 ##### Verification Feasibility
 
 - **What it is**
@@ -737,7 +740,7 @@ while defeating practical reconstructability, contestability, or proportionate a
     **Primary assessment:** Reject inaccessible or impractical verification, including where [Verification Accessibility](core_05apex_oversight_leg.md#verification-accessibility) is absent in practice.
 <a id="verification-feasibility-c"></a>
 - **What must hold**
-  - theoretical-only verification where [Verification Accessibility](core_05apex_oversight_leg.md#verification-accessibility), [Feasibility](core_05defs_accountability.md#feasibility), or [Contestability](core_05defs_accountability.md#contestability) is absent in practice.
+  - **Primary failure:** theoretical-only verification where [Verification Accessibility](core_05apex_oversight_leg.md#verification-accessibility), [Feasibility](core_05defs_accountability.md#feasibility), or [Contestability](core_05defs_accountability.md#contestability) is absent in practice.
 ##### Verification Independence
 
 - **What it is**
@@ -751,6 +754,7 @@ while defeating practical reconstructability, contestability, or proportionate a
 <a id="verification-independence-c"></a>
 - **What must hold**
   - Verification must be independently reproducible under [Verifiability](core_05defs_oversight.md#verifiability), not dependent on internal assertion or insulated from [Contestability](core_05defs_accountability.md#contestability).
+  - **Primary failure:** using verification that cannot be reproduced by an independent qualified reviewer with the required evidence and access.
 ##### Verification Proportionality
 
 - **What it is**
@@ -764,6 +768,7 @@ while defeating practical reconstructability, contestability, or proportionate a
 <a id="verification-proportionality-c"></a>
 - **What must hold**
   - Verification must not require excessive cost or access.
+  - **Primary failure:** requiring verification cost, access, or burden that is excessive relative to the matter being verified.
 ##### Verification Robustness
 
 - **What it is**
@@ -777,6 +782,7 @@ while defeating practical reconstructability, contestability, or proportionate a
 <a id="verification-robustness-c"></a>
 - **What must hold**
   - Verification must remain reliable across [Reasonably Foreseeable](core_05defs_oversight.md#reasonably-foreseeable) conditions.
+  - **Primary failure:** using verification that becomes unreliable under [Reasonably Foreseeable](core_05defs_oversight.md#reasonably-foreseeable) operating, degraded, scaled, or adversarial conditions.
 
 ---
 
@@ -829,7 +835,8 @@ This cluster is the canonical O/M/A/C home for **Truth (Constitutional Constrain
     **Primary assessment:** Distinguish knowing falsity, or reckless disregard for accuracy, uncertainty, context, or material interpretive limits, from good-faith observation and bounded interpretation, under [Truth (Constitutional Constraint)](core_05defs_oversight.md#truth-constitutional-constraint) and [Good Faith](core_05defs_accountability.md#good-faith).
 <a id="publication-truthfulness-and-recklessness-floor-c"></a>
 - **What must hold**
-  - knowingly false or reckless publication. Good-faith publication of observations, evidence, and bounded interpretations is governed by Chapter Eleven **Articles VIII**, **XII**, and **XIII** as applicable and must satisfy this cluster jointly under [Truth (Constitutional Constraint)](core_05defs_oversight.md#truth-constitutional-constraint), [Good Faith](core_05defs_accountability.md#good-faith), and [Epistemic Integrity](core_05defs_oversight.md#epistemic-integrity).
+  - Good-faith publication of observations, evidence, and bounded interpretations is governed by Chapter Eleven **Articles VIII**, **XII**, and **XIII** as applicable and must satisfy this cluster jointly under [Truth (Constitutional Constraint)](core_05defs_oversight.md#truth-constitutional-constraint), [Good Faith](core_05defs_accountability.md#good-faith), and [Epistemic Integrity](core_05defs_oversight.md#epistemic-integrity).
+  - **Primary failure:** knowingly false publication or publication made with reckless disregard for accuracy, uncertainty, context, or material interpretive limits.
 
 ##### Protected Data and Internal-State Publication Constraint
 
@@ -858,6 +865,7 @@ This cluster is the canonical O/M/A/C home for **Truth (Constitutional Constrain
 <a id="high-impact-and-systemic-harm-publication-constraint-c"></a>
 - **What must hold**
   - Even factually accurate publication is constrained where its primary or [Reasonably Foreseeable](core_05defs_oversight.md#reasonably-foreseeable) effect is to enable targeted [Harm](core_05defs_accountability.md#harm), [Coercion and Manipulation](core_05defs_participation.md#coercion-and-manipulation-constitutional), large-scale harmful coordination, [Cascading Failure](core_05defs_continuity.md#cascading-failure), or patterns that materially degrade [Epistemic Integrity](core_05defs_oversight.md#epistemic-integrity). **Class A** and **Class B** systems under **[corpus_systems.md](corpus_systems.md), CS-4 — System classification and handling**, trigger heightened proportional constraints on distribution mechanics and safeguards.
+  - **Primary failure:** publishing without the proportional distribution constraints and safeguards required for these primary or reasonably foreseeable effects, including the heightened constraints applicable to **Class A** and **Class B** systems.
 
 ##### Security-Sensitive Disclosure Balance
 
@@ -965,7 +973,7 @@ This nested sub-block is the joint-invocation home for **Foreseeability Diligenc
     **Primary assessment:** Include [Auditability](core_05defs_oversight.md#auditability)-compatible analysis.
 <a id="foreseeability-burden-c"></a>
 - **What must hold**
-  - insufficient justification.
+  - **Primary failure:** insufficient justification.
 <a id="foreseeability-diligence"></a>
 ##### Foreseeability Diligence
 
@@ -979,7 +987,7 @@ This nested sub-block is the joint-invocation home for **Foreseeability Diligenc
     **Primary assessment:** Include known methods and patterns for what is [Reasonably Foreseeable](core_05defs_oversight.md#reasonably-foreseeable), scaled to [Material Impact](core_05defs_oversight.md#material-impact), [Risk](core_05defs_continuity.md#risk), and [Dependency](core_05defs_continuity.md#dependency).
 <a id="foreseeability-diligence-c"></a>
 - **What must hold**
-  - failure to meet this standard.
+  - **Primary failure:** failure to meet this standard.
 ##### Foreseeability Failure
 
 - **What it is**
@@ -992,7 +1000,7 @@ This nested sub-block is the joint-invocation home for **Foreseeability Diligenc
     **Primary assessment:** Detect incompleteness.
 <a id="foreseeability-failure-c"></a>
 - **What must hold**
-  - Non-compliant where it defeats [Foreseeability Diligence](core_05defs_oversight.md#foreseeability-diligence), [Risk](core_05defs_continuity.md#risk) evaluation, or [Safety (Constraint)](core_05defs_continuity.md#safety-constraint).
+  - **Primary failure:** Non-compliant where it defeats [Foreseeability Diligence](core_05defs_oversight.md#foreseeability-diligence), [Risk](core_05defs_continuity.md#risk) evaluation, or [Safety (Constraint)](core_05defs_continuity.md#safety-constraint).
 ##### Foreseeability Scaling
 
 - **What it is**
@@ -1005,7 +1013,7 @@ This nested sub-block is the joint-invocation home for **Foreseeability Diligenc
     **Primary assessment:** Scale with [Material Impact](core_05defs_oversight.md#material-impact) and [Risk](core_05defs_continuity.md#risk).
 <a id="foreseeability-scaling-c"></a>
 - **What must hold**
-  - superficial analysis.
+  - **Primary failure:** superficial analysis.
 ##### Foreseeability Scope
 
 - **What it is**
@@ -1018,7 +1026,7 @@ This nested sub-block is the joint-invocation home for **Foreseeability Diligenc
     **Primary assessment:** Include interactions, [Dependency](core_05defs_continuity.md#dependency), adversarial use, and relevant [System Boundaries](core_05defs_continuity.md#system-boundaries).
 <a id="foreseeability-scope-c"></a>
 - **What must hold**
-  - scope limitation.
+  - **Primary failure:** scope limitation.
 
 <a id="reasonably-foreseeable"></a>
 ##### Reasonably Foreseeable
@@ -1033,7 +1041,7 @@ This nested sub-block is the joint-invocation home for **Foreseeability Diligenc
     **Primary assessment:** Include adversarial and scaled conditions, including [Adversarial, Scaled, and Exploited Conditions](core_05defs_oversight.md#adversarial-scaled-and-exploited-conditions).
 <a id="reasonably-foreseeable-c"></a>
 - **What must hold**
-  - exclusion of such outcomes.
+  - **Primary failure:** exclusion of such outcomes.
 
 ---
 

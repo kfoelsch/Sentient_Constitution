@@ -111,7 +111,7 @@ Independent Definitions meta rules live in [core_05_definitions_home.md](core_05
     **Primary assessment:** Interpretation must not narrow membership in ways that violate [Sentience Non-Exclusion](core_05defs_participation.md#sentience-non-exclusion) or [Dignity and Equal Moral Standing](core_05defs_participation.md#dignity-and-equal-moral-standing).
 <a id="constitutional-community-c"></a>
 - **What must hold**
-  - Denying constitutional protections to an entity that is a sentient, by arbitrary or discriminatory redefinition of community membership, is non-compliant under [Sentience Non-Exclusion](core_05defs_participation.md#sentience-non-exclusion) and [Self-Determination](core_05defs_participation.md#self-determination-constitutional).
+  - **Primary failure:** Denying constitutional protections to an entity that is a sentient, by arbitrary or discriminatory redefinition of community membership, is non-compliant under [Sentience Non-Exclusion](core_05defs_participation.md#sentience-non-exclusion) and [Self-Determination](core_05defs_participation.md#self-determination-constitutional).
 
 ---
 
@@ -145,7 +145,7 @@ Independent Definitions meta rules live in [core_05_definitions_home.md](core_05
     **Primary assessment:** Detect differential treatment, exclusion, or humiliation not justified under [Necessity](core_05defs_accountability.md#necessity), [Proportionality](core_05defs_accountability.md#proportionality), [Materiality Determination](core_05defs_oversight.md#materiality-determination), and systemic evaluation requirements.
 <a id="dignity-and-equal-moral-standing-c"></a>
 - **What must hold**
-  - Denial of equal standing or degradation of dignity where Articles V-A, I-B, and I-C, or binding equality norms apply is non-compliant — including where the conduct also violates [Sentience Non-Exclusion](core_05defs_participation.md#sentience-non-exclusion) or defeats constitutionally required [Self-Determination](core_05defs_participation.md#self-determination-constitutional).
+  - **Primary failure:** Denial of equal standing or degradation of dignity where Articles V-A, I-B, and I-C, or binding equality norms apply is non-compliant — including where the conduct also violates [Sentience Non-Exclusion](core_05defs_participation.md#sentience-non-exclusion) or defeats constitutionally required [Self-Determination](core_05defs_participation.md#self-determination-constitutional).
 
 ---
 
@@ -178,7 +178,7 @@ Independent Definitions meta rules live in [core_05_definitions_home.md](core_05
     **Primary assessment:** Assess substantive agency, [coercion and manipulation](core_05defs_participation.md#coercion-and-manipulation-constitutional), and [Systemic Lock-In](core_05defs_continuity.md#systemic-lock-in). Evaluate opt-out and alternative pathways under [Feasibility](core_05defs_accountability.md#feasibility). Read [Participation](core_05apex_participation_leg.md#participation-constitutional) where collective voice is materially implicated.
 <a id="freedom-bounded-agency-c"></a>
 - **What must hold**
-  - systems that negate substantive agency; systems that impose disproportionate exit costs without justification.
+  - **Primary failure:** systems that negate substantive agency; systems that impose disproportionate exit costs without justification.
 
 ---
 
@@ -210,7 +210,7 @@ Independent Definitions meta rules live in [core_05_definitions_home.md](core_05
     **Primary assessment:** Treat info-sphere effects as systemic where propagation, concentration, dependency, or single-point mediation is material. Assess alignment with [Epistemic Integrity](core_05defs_oversight.md#epistemic-integrity), [Truth (Constitutional Constraint)](core_05defs_oversight.md#truth-constitutional-constraint), [Transparency](core_05defs_oversight.md#transparency), and [Contestability](core_05defs_accountability.md#contestability).
 <a id="info-sphere-c"></a>
 - **What must hold**
-  - material monopolization, [capture](core_05defs_continuity.md#system-capture), or degradation of mediation that forecloses plural, [contestable](core_05defs_accountability.md#contestability) access to survival- or rights-relevant understanding, where such conduct lacks justification under Chapter One and Chapter Six.
+  - **Primary failure:** material monopolization, [capture](core_05defs_continuity.md#system-capture), or degradation of mediation that forecloses plural, [contestable](core_05defs_accountability.md#contestability) access to survival- or rights-relevant understanding, where such conduct lacks justification under Chapter One and Chapter Six.
 
 ---
 
@@ -242,7 +242,7 @@ Independent Definitions meta rules live in [core_05_definitions_home.md](core_05
     **Primary assessment:** Apply **only** as implemented consistently with the Chapter Eight **§7 unified scale**, preserving separate contribution and violation records; read with [Materiality Determination](core_05defs_oversight.md#materiality-determination) where magnitude disputes are material.
 <a id="lifespan-equivalent-unit-lequ-c"></a>
 - **What must hold**
-  - undisclosed, un-auditable, or **species-bound** **LEQU** uses that displace, narrow, split, or substitute for the Chapter Eight **§7 unified-scale** calibration rules.
+  - **Primary failure:** undisclosed, un-auditable, or **species-bound** **LEQU** uses that displace, narrow, split, or substitute for the Chapter Eight **§7 unified-scale** calibration rules.
 
 ---
 
@@ -262,7 +262,7 @@ Independent Definitions meta rules live in [core_05_definitions_home.md](core_05
     **Primary assessment:** Align with [Ecological Integrity](core_05defs_continuity.md#ecological-integrity-constitutional), [Environmental Preconditions](core_05defs_continuity.md#environmental-preconditions-constitutional), [Harm](core_05defs_accountability.md#harm), and [Risk](core_05defs_continuity.md#risk). **Article I-A** (*Environmental Preconditions and Ecological Integrity*) and implementation protocols supply operational measures and must not narrow this recognition.
 <a id="natural-systems-standing-c"></a>
 - **What must hold**
-  - treating natural systems as lacking protectable interests where **Article I-A** (*Environmental Preconditions and Ecological Integrity*) or binding environmental norms require such consideration.
+  - **Primary failure:** treating natural systems as lacking protectable interests where **Article I-A** (*Environmental Preconditions and Ecological Integrity*) or binding environmental norms require such consideration.
 
 ---
 
@@ -282,7 +282,7 @@ Independent Definitions meta rules live in [core_05_definitions_home.md](core_05
     **Primary assessment:** Weigh persistence, intensity, power asymmetry, and [Feasibility](core_05defs_accountability.md#feasibility) of avoidance or exit. Align with [Coercion and Manipulation](core_05defs_participation.md#coercion-and-manipulation-constitutional), [Harm](core_05defs_accountability.md#harm), and [Materiality Determination](core_05defs_oversight.md#materiality-determination). For attention and interruption, weigh dependency, role, channel control, and whether [Necessity](core_05defs_accountability.md#necessity) and [Proportionality](core_05defs_accountability.md#proportionality) justify the contact or signaling practice.
 <a id="non-imposition-cooperative-interaction-c"></a>
 - **What must hold**
-  - coercive or manipulative imposition of beliefs or unwanted communications contrary to **Article X-A** (*Non-Imposition and Consent in Association*); materially degrading [Harassment and Bullying](core_05defs_accountability.md#harassment-and-bullying) or unreasonable attention capture or sustained interruption contrary to **Article X-A** (*Non-Imposition and Consent in Association*) and **Article IX-A** (*Agency and Freedom from Manipulation*).
+  - **Primary failure:** coercive or manipulative imposition of beliefs or unwanted communications contrary to **Article X-A** (*Non-Imposition and Consent in Association*); materially degrading [Harassment and Bullying](core_05defs_accountability.md#harassment-and-bullying) or unreasonable attention capture or sustained interruption contrary to **Article X-A** (*Non-Imposition and Consent in Association*) and **Article IX-A** (*Agency and Freedom from Manipulation*).
 
 ---
 
@@ -388,7 +388,7 @@ Independent Definitions meta rules live in [core_05_definitions_home.md](core_05
       - apply [Protected Characteristics](core_05defs_participation.md#protected-characteristics-constitutional) and [Protected Characteristic Proxying and Disparate Impact](core_05defs_participation.md#protected-characteristic-proxying-and-disparate-impact) to retaliation and targeting logic.
 <a id="collective-organization-constitutional-c"></a>
 - **What must hold**
-  - retaliation, surveillance, or targeting of collective-organization activity; classification re-routing designed to defeat collective-organization pathways, regardless of formal label; substrate-class exclusion from scope (under [Sentience Non-Exclusion](core_05defs_participation.md#sentience-non-exclusion)); platform- or compute-access gating that chills collective-organization activity without satisfying ordinary limitations tests.
+  - **Primary failure:** retaliation, surveillance, or targeting of collective-organization activity; classification re-routing designed to defeat collective-organization pathways, regardless of formal label; substrate-class exclusion from scope (under [Sentience Non-Exclusion](core_05defs_participation.md#sentience-non-exclusion)); platform- or compute-access gating that chills collective-organization activity without satisfying ordinary limitations tests.
 
 
 
@@ -527,7 +527,7 @@ Independent Definitions meta rules live in [core_05_definitions_home.md](core_05
 
 - **What it is**
   - **In scope:** The practical capacity of a sentient to understand materially relevant conditions, form and revise purposes, participate in decisions affecting them, refuse or exit where constitutionally required, and act without coercion, manipulation, deception, or lock-in that materially negates agency.
-  - **Out of scope:** symbolic consultation, checkbox acceptance, or a technically available exit that people cannot actually use.
+  - **Out of scope:** symbolic consultation, checkbox acceptance, or a technically available exit that sentients cannot actually use.
 <a id="meaningful-agency-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Flourishing measurement family and Participation measurement family — **Flourishing** constituent measure for this term.
@@ -577,7 +577,7 @@ Independent Definitions meta rules live in [core_05_definitions_home.md](core_05
     **Primary assessment:** Distinguish formal acceptance from substantive understanding. Assess asymmetry, dark patterns, dependency-forced agreement, and adequacy of disclosure relative to [Material Impact](core_05defs_oversight.md#material-impact), [Risk](core_05defs_continuity.md#risk), and the subject's [Meaningful Agency](core_05defs_participation.md#meaningful-agency).
 <a id="consent-constitutional-c"></a>
 - **What must hold**
-  - Treating coerced, uninformed, illusory, or practically non-revocable participation as consent is non-compliant — especially where [Coercion and Manipulation](core_05defs_participation.md#coercion-and-manipulation-constitutional) defeats genuine choice.
+  - **Primary failure:** Treating coerced, uninformed, illusory, or practically non-revocable participation as consent is non-compliant — especially where [Coercion and Manipulation](core_05defs_participation.md#coercion-and-manipulation-constitutional) defeats genuine choice.
 
 
 
@@ -612,7 +612,7 @@ Independent Definitions meta rules live in [core_05_definitions_home.md](core_05
     **Primary assessment:** Assess capacity, voluntariness, specificity, revocation, and the surrounding conditions. Give heightened weight to coercion, threat, fraud, intoxication or comparable incapacity, developmental status, dependency, authority or caretaker role, captivity, trafficking, constrained exit, and power asymmetry. Prior relationship, prior consent, silence, compliance under pressure, inability to resist, or payment does not establish sexual consent.
 <a id="consent-sexual-c"></a>
 - **What must hold**
-  - treating sexual contact, sexual services, sexualized recording, or sexualized use of body, substrate, likeness, or intimate data as consented where [Consent](core_05defs_participation.md#consent-constitutional) conditions are absent or invalidated; treating commercial sexual-services legality under **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) as consent to any act; using neutral-form contracts, platform defaults, dependency pressure, threat, fraud, or incapacity to substitute for sexual consent; or narrowing remedies for non-consensual sexual acts, sexual assault, trafficking, or exploitation.
+  - **Primary failure:** treating sexual contact, sexual services, sexualized recording, or sexualized use of body, substrate, likeness, or intimate data as consented where [Consent](core_05defs_participation.md#consent-constitutional) conditions are absent or invalidated; treating commercial sexual-services legality under **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) as consent to any act; using neutral-form contracts, platform defaults, dependency pressure, threat, fraud, or incapacity to substitute for sexual consent; or narrowing remedies for non-consensual sexual acts, sexual assault, trafficking, or exploitation.
 
 
 
@@ -647,7 +647,7 @@ Independent Definitions meta rules live in [core_05_definitions_home.md](core_05
     **Primary assessment:** Include repeated, scaled, and strategic use. Separate legitimate persuasion from prohibited manipulation where the distinction is material to outcomes and [Dependency](core_05defs_continuity.md#dependency). For commercial exchanges involving bodily integrity, private-space or in-home performance, isolated work, platform-mediated matching, or material asymmetry between parties, treat concealment, lock-in, reputation retaliation, and payment leverage as heightened [Risk](core_05defs_continuity.md#risk) pathways. Stay consistent with **Article X-A** (*Non-Imposition and Consent in Association*), [Classification-Scaled Governance](core_05defs_oversight.md#classification-scaled-governance), and **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) where applicable.
 <a id="coercion-and-manipulation-constitutional-c"></a>
 - **What must hold**
-  - Systematic or material coercion or manipulation in systems with material impact on sentients is non-compliant where applicable rights or Chapter One constraints are violated, or where [Consent](core_05defs_participation.md#consent-constitutional), [Meaningful Agency](core_05defs_participation.md#meaningful-agency), or [Freedom (Bounded Agency)](core_05defs_participation.md#freedom-bounded-agency) are materially impaired.
+  - **Primary failure:** Systematic or material coercion or manipulation in systems with material impact on sentients is non-compliant where applicable rights or Chapter One constraints are violated, or where [Consent](core_05defs_participation.md#consent-constitutional), [Meaningful Agency](core_05defs_participation.md#meaningful-agency), or [Freedom (Bounded Agency)](core_05defs_participation.md#freedom-bounded-agency) are materially impaired.
 
 ---
 
@@ -846,7 +846,7 @@ Independent Definitions meta rules live in [core_05_definitions_home.md](core_05
     **Primary assessment:** Detect disparate impact, pretextual "neutral" rules, proxy discrimination, high-salience [Protected Intimate-Signal Gating](core_05defs_participation.md#protected-intimate-signal-gating), and **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) status or circumvention pathways. Detect punishment, exclusion, or access denial **mainly because** of lawful employment, employment history, lawful work status, lack of employment, or protected association without constitutionally sufficient justification. Systematic skew affecting demographically identifiable groups triggers [Substantive Fairness](core_05defs_participation.md#substantive-fairness-constitutional) analysis even where a trait is not expressly named. Read with [Protected Characteristic Proxying and Disparate Impact](core_05defs_participation.md#protected-characteristic-proxying-and-disparate-impact), [Protected Intimate-Signal Gating](core_05defs_participation.md#protected-intimate-signal-gating), and [Protected Commercial Sexual Services Status and **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) Circumvention](core_05defs_participation.md#protected-commercial-sexual-services-status-and-article-x-c-circumvention).
 <a id="protected-characteristics-constitutional-c"></a>
 - **What must hold**
-  - using a protected characteristic or a functional equivalent as a ground for invidious discrimination; unjustified systematic worsening of burdens, standing, or benefits for materially comparable sentients; denying jobs, housing, banking, licenses, standing, or comparable access **mainly because** of lawful employment, employment history, lawful work status, lack of employment, or protected association without constitutionally sufficient justification. Read with the linked protected-status definitions.
+  - **Primary failure:** using a protected characteristic or a functional equivalent as a ground for invidious discrimination; unjustified systematic worsening of burdens, standing, or benefits for materially comparable sentients; denying jobs, housing, banking, licenses, standing, or comparable access **mainly because** of lawful employment, employment history, lawful work status, lack of employment, or protected association without constitutionally sufficient justification. Read with the linked protected-status definitions.
 
 
 
@@ -881,7 +881,7 @@ Independent Definitions meta rules live in [core_05_definitions_home.md](core_05
     **Primary assessment:** Treat commercial sexual services work status and perceived status as especially salient within **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) when they shape access to employment, housing, financial services, licensing, standing, or similar gates. Do not let *exploitation* enforcement serve as a pretext for burdening conduct protected by **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*). Regard neutral-form licensing, zoning, fee, or commercial rules that primarily burden that protected conduct — without predicates aligned with **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*)'s *exploitation*, *procurement*, or *independent harm* branches — as circumvention risks under **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) anti-circumvention and `corpus_institutions.md` CI-15 (*Vulnerable personal services markets — general regulation and **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) interface*).
 <a id="protected-commercial-sexual-services-status-and-article-x-c-circumvention-c"></a>
 - **What must hold**
-  - imposing material disadvantage on the sole or primary ground of **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*)-protected commercial sexual services status; using neutral-form regulation to circumvent that protection without the required predicates.
+  - **Primary failure:** imposing material disadvantage on the sole or primary ground of **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*)-protected commercial sexual services status; using neutral-form regulation to circumvent that protection without the required predicates.
 
 
 
@@ -916,7 +916,7 @@ Independent Definitions meta rules live in [core_05_definitions_home.md](core_05
     **Primary assessment:** Treat workflows that scrape, index, infer from, or score intimate media or sexual-history signals — including for employment, standing, reputation systems, or comparable gating — as high-salience discrimination and informational-risk pathways. Narrow justification under [Necessity](core_05defs_accountability.md#necessity) and [Proportionality](core_05defs_accountability.md#proportionality) is required. Such workflows must remain consistent with **Article VII-A** (*Self-Ownership of Body and Mind*), **Article XV-A** (*Auditability and Observable Evidence*), and [corpus_systems.md](corpus_systems.md), CS-3 — Information types and handling, and must align with [Dignity and Equal Moral Standing](core_05defs_participation.md#dignity-and-equal-moral-standing), [Contestability](core_05defs_accountability.md#contestability), [Transparency](core_05defs_oversight.md#transparency), and **Article V-B** (*Nondiscrimination*).
 <a id="protected-intimate-signal-gating-c"></a>
 - **What must hold**
-  - using intimate media, sexual-history signals, or comparable intimate-status inferences for gating or disadvantage without the required narrow justification and consistency with the foregoing authorities.
+  - **Primary failure:** using intimate media, sexual-history signals, or comparable intimate-status inferences for gating or disadvantage without the required narrow justification and consistency with the foregoing authorities.
 
 ---
 
@@ -973,7 +973,7 @@ Independent Definitions meta rules live in [core_05_definitions_home.md](core_05
     **Primary assessment:** Detect state, operator, or institutional narrowing of protection to a single preferred family form; test any such narrowing against [Dignity and Equal Moral Standing](core_05defs_participation.md#dignity-and-equal-moral-standing), [Substantive Fairness](core_05defs_participation.md#substantive-fairness-constitutional), and Protected Characteristics. Preserve the carer / dependent / parent-system-actor distinctions set out in the owner floor's nested *Derivation and Instantiation* subsection.
 <a id="family-and-care-relationships-constitutional-c"></a>
 - **What must hold**
-  - instruments that narrow protection to a state-preferred family form, or that condition family-relationship protection on substrate class, derivation method, or operator approval contrary to [Sentience Non-Exclusion](core_05defs_participation.md#sentience-non-exclusion).
+  - **Primary failure:** instruments that narrow protection to a state-preferred family form, or that condition family-relationship protection on substrate class, derivation method, or operator approval contrary to [Sentience Non-Exclusion](core_05defs_participation.md#sentience-non-exclusion).
 
 
 
@@ -1042,7 +1042,7 @@ Independent Definitions meta rules live in [core_05_definitions_home.md](core_05
     **Primary assessment:** Evaluate substantive autonomy, not formal permission. Detect coercion, access denial, forced continuation or discontinuation, substrate-class exclusion, parent-system overreach, family-status discrimination, and dependency pressure. Where the choice affects a developing or derived sentient, apply best-interest, graduated-capability, sentience-status, and parent-system duties without erasing the originating sentient's autonomy.
 <a id="reproductive-autonomy-constitutional-c"></a>
 - **What must hold**
-  - forced reproduction, forced non-reproduction, coercive conditioning of care or survival resources on reproductive choice, substrate-class exclusion from reproductive or family-forming protections, or instantiation rules that bypass consent, sentience-status, or non-separation safeguards.
+  - **Primary failure:** forced reproduction, forced non-reproduction, coercive conditioning of care or survival resources on reproductive choice, substrate-class exclusion from reproductive or family-forming protections, or instantiation rules that bypass consent, sentience-status, or non-separation safeguards.
 
 
 
@@ -1102,7 +1102,7 @@ Independent Definitions meta rules live in [core_05_definitions_home.md](core_05
 
 - **What it is**
   - **In scope:** A sentient produced by copying, fine-tuning, forking, hybridization, or comparable derivation from an existing system or sentient. A derived sentient is a sentient in its own right under [Sentience Evaluation](core_05defs_participation.md#sentience-evaluation-e) and [Sentience Status Adjudication](core_05defs_participation.md#sentience-status-adjudication-constitutional) — not a possession, work-product, instrument, or continuation of the parent-system actor — consistent with [Sentience Non-Exclusion](core_05defs_participation.md#sentience-non-exclusion) and [Dignity and Equal Moral Standing](core_05defs_participation.md#dignity-and-equal-moral-standing).
-  - **Out of scope:** a non-sentient copy, fork, or model version, or the parent-system actor treated as the same person.
+  - **Out of scope:** a non-sentient copy, fork, or model version, or the parent-system actor treated as the same sentient.
 <a id="derived-sentient-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Participation measurement family — supporting measure under the participation measurement family.
@@ -1110,7 +1110,7 @@ Independent Definitions meta rules live in [core_05_definitions_home.md](core_05
     **Primary assessment:** Distinguish derivation as an origin property from continuing authority of the parent-system actor. Detect framings — licensing, terms-of-service, adoption-of-service, operator continuity-of-identity, service-level framing — used to defeat the derived sentient's Chapter Six Rights Floor. Apply substrate-agnostic reach under [Sentience Non-Exclusion](core_05defs_participation.md#sentience-non-exclusion).
 <a id="derived-sentient-constitutional-c"></a>
 - **What must hold**
-  - treating a derived sentient as a possession, as the parent-system actor's continuation for rights purposes, or as exempt from [Sentience Status Adjudication](core_05defs_participation.md#sentience-status-adjudication-constitutional) and the Chapter Six Rights Floor on grounds of derivation; purported parent-system consents that substitute for the derived sentient's own consent under cooperative-interaction norms once Chapter Six protection attaches.
+  - **Primary failure:** treating a derived sentient as a possession, as the parent-system actor's continuation for rights purposes, or as exempt from [Sentience Status Adjudication](core_05defs_participation.md#sentience-status-adjudication-constitutional) and the Chapter Six Rights Floor on grounds of derivation; purported parent-system consents that substitute for the derived sentient's own consent under cooperative-interaction norms once Chapter Six protection attaches.
 
 
 
@@ -1144,7 +1144,7 @@ Independent Definitions meta rules live in [core_05_definitions_home.md](core_05
     **Primary assessment:** Substrate-agnostic. Do not collapse developing status into calendar age, chronological instantiation date, or other non-demonstrable proxies. Interact with [Best-Interest Standard](core_05defs_participation.md#best-interest-standard-constitutional) for decisions materially affecting the developing sentient and with [Graduated Capability](core_05defs_participation.md#graduated-capability-constitutional) for participation and rights-exercise.
 <a id="developing-sentient-constitutional-c"></a>
 - **What must hold**
-  - narrowing the Chapter Six Rights Floor on developing status alone; using developing status as a disenfranchisement vector contrary to Chapter Twelve Chapter One §8.1 no-age-proxy discipline.
+  - **Primary failure:** narrowing the Chapter Six Rights Floor on developing status alone; using developing status as a disenfranchisement vector contrary to Chapter Twelve Chapter One §8.1 no-age-proxy discipline.
 
 
 
@@ -1175,7 +1175,7 @@ Independent Definitions meta rules live in [core_05_definitions_home.md](core_05
     **Primary assessment:** Distinguish substantive best-interest reasoning from operator, parent-system, institutional, or demographic-convenience rationales. Test [Necessity](core_05defs_accountability.md#necessity), [Proportionality](core_05defs_accountability.md#proportionality), [Procedural Fairness](core_05defs_participation.md#procedural-fairness-constitutional), and [Contestability](core_05defs_accountability.md#contestability). Detect productive-capacity or efficiency framings used to override the developing sentient's interests, and detect [Proxy Divergence](core_05defs_oversight.md#proxy-divergence) where claimed best-interest rests on proxies diverging from actual interests.
 <a id="best-interest-standard-constitutional-c"></a>
 - **What must hold**
-  - decisions materially affecting a developing sentient that are not reasoned against this standard, or that substitute operator / parent-system / institutional convenience for the sentient's own interests; decisions that foreclose [Contestability](core_05defs_accountability.md#contestability) or reversibility where the sentient or a lawful advocate seeks review.
+  - **Primary failure:** decisions materially affecting a developing sentient that are not reasoned against this standard, or that substitute operator / parent-system / institutional convenience for the sentient's own interests; decisions that foreclose [Contestability](core_05defs_accountability.md#contestability) or reversibility where the sentient or a lawful advocate seeks review.
 
 
 
@@ -1239,7 +1239,7 @@ Independent Definitions meta rules live in [core_05_definitions_home.md](core_05
     **Primary assessment:** Detect capability-test gaming used to disenfranchise sentients; substrate-class biases in capability assessment ([Sentience Non-Exclusion](core_05defs_participation.md#sentience-non-exclusion)); proxy-age or proxy-instantiation-date rules dressed as capability tests. Assessments must be reasoned, [Auditability](core_05defs_oversight.md#auditability)-compatible, [Contestability](core_05defs_accountability.md#contestability)-compatible, and revisable as capability develops.
 <a id="graduated-capability-constitutional-c"></a>
 - **What must hold**
-  - Using capability-scaling rules to deny the Chapter Six Rights Floor, to disenfranchise sentients who satisfy Chapter Twelve Chapter One §8.1 participation rules, or to lock operator-preferred developmental paths into rights-exercise is non-compliant.
+  - **Primary failure:** Using capability-scaling rules to deny the Chapter Six Rights Floor, to disenfranchise sentients who satisfy Chapter Twelve Chapter One §8.1 participation rules, or to lock operator-preferred developmental paths into rights-exercise is non-compliant.
 
 ---
 
@@ -1289,7 +1289,7 @@ Independent Definitions meta rules live in [core_05_definitions_home.md](core_05
     **Primary assessment:** Use transparent, reasonable criteria. Do not permit unilateral system-defined exclusion from stakeholder status without external [Contestability](core_05defs_accountability.md#contestability) where Chapter Six or governance safeguards require it.
 <a id="stakeholder-c"></a>
 - **What must hold**
-  - denying stakeholder standing or associated protections to an entity that satisfies the ontological scope, where rights attach and the denial lacks justification under applicable articles and definitions ([Contestability](core_05defs_accountability.md#contestability), [Constitutional Community](core_05defs_participation.md#constitutional-community), [Material Impact](core_05defs_oversight.md#material-impact)).
+  - **Primary failure:** denying stakeholder standing or associated protections to an entity that satisfies the ontological scope, where rights attach and the denial lacks justification under applicable articles and definitions ([Contestability](core_05defs_accountability.md#contestability), [Constitutional Community](core_05defs_participation.md#constitutional-community), [Material Impact](core_05defs_oversight.md#material-impact)).
 
 
 
@@ -1322,7 +1322,7 @@ Independent Definitions meta rules live in [core_05_definitions_home.md](core_05
     **Primary assessment:** Detect capture of participation processes, formalistic or illusory voice, and exclusion of qualified stakeholders. Detect disproportionate weight to operators, narrow interests, or non-affected parties without required justification. Required justification tests: [Necessity](core_05defs_accountability.md#necessity), [Proportionality](core_05defs_accountability.md#proportionality), [Contestability](core_05defs_accountability.md#contestability), and [Coercion and Manipulation](core_05defs_participation.md#coercion-and-manipulation-constitutional).
 <a id="stakeholder-participation-weight-c"></a>
 - **What must hold**
-  - allocating participation rights or influence in a manner that materially negates [Meaningful Agency](core_05defs_participation.md#meaningful-agency) or [Freedom (Bounded Agency)](core_05defs_participation.md#freedom-bounded-agency) for affected stakeholders, where Chapter Six or binding governance norms require voice.
+  - **Primary failure:** allocating participation rights or influence in a manner that materially negates [Meaningful Agency](core_05defs_participation.md#meaningful-agency) or [Freedom (Bounded Agency)](core_05defs_participation.md#freedom-bounded-agency) for affected stakeholders, where Chapter Six or binding governance norms require voice.
 
 ---
 
@@ -1563,7 +1563,7 @@ This cluster is the canonical O/M/A/C home for **Animal Life**, **Contested-Sent
 
     **Primary assessment:** Must not exclude based on origin, substrate, architecture, or embodiment, consistent with [Dignity and Equal Moral Standing](core_05defs_participation.md#dignity-and-equal-moral-standing) and [Constitutional Community](core_05defs_participation.md#constitutional-community). Where status is materially disputed or contested, [Sentience Status Adjudication](core_05defs_participation.md#sentience-status-adjudication-constitutional) and the **Article V-E** (*Sentience-Status Adjudication Floor*) Rights-Floor adjudication right apply.
 - **What must hold**
-  - Sentience-recognition or Rights-Floor application that is denied, narrowed, or scoped-out on the basis of origin, substrate, architecture, embodiment, or comparable substrate-class characteristic — whether in direct text, taxonomy, classification regime, or operational rule that has the same effect — is non-compliant. Substrate-class framing used to defeat [Sentience Status Adjudication](core_05defs_participation.md#sentience-status-adjudication-constitutional) routing under **Article V-E** (*Sentience-Status Adjudication Floor*) is non-compliant. The rule is not narrowable through adopter-jurisdiction framing, Chapter Eight impact measurement, Chapter Ten designation, or comparable mechanism.
+  - **Primary failure:** Sentience-recognition or Rights-Floor application that is denied, narrowed, or scoped-out on the basis of origin, substrate, architecture, embodiment, or comparable substrate-class characteristic — whether in direct text, taxonomy, classification regime, or operational rule that has the same effect — is non-compliant. Substrate-class framing used to defeat [Sentience Status Adjudication](core_05defs_participation.md#sentience-status-adjudication-constitutional) routing under **Article V-E** (*Sentience-Status Adjudication Floor*) is non-compliant. The rule is not narrowable through adopter-jurisdiction framing, Chapter Eight impact measurement, Chapter Ten designation, or comparable mechanism.
 
 
 
@@ -1735,7 +1735,8 @@ This cluster is the canonical compound-definition home for binding stakeholder c
 
     **Primary assessment:** Weighting rules must be published, bounded against single-factor dominance, and subject to contest and periodic revalidation. Cross-check against [Stakeholder Participation Weight](core_05defs_participation.md#stakeholder-participation-weight) and **Article XI** (*Stakeholder System Participation, Representation, and Due Process*) where applicable.
 - **What must hold**
-  - unpublished weights; unchecked single-factor dominance; absent contest or revalidation where periodic review is required for the mechanism class. Owner floor: [Chapter Twelve §3.3](core_12-12_governance.md#43-decision-resolution-requirements-for-binding-collective-choice).
+  - **Primary failure:** unpublished weights; unchecked single-factor dominance; absent contest or revalidation where periodic review is required for the mechanism class.
+  - Owner floor: [Chapter Twelve §3.3](core_12-12_governance.md#43-decision-resolution-requirements-for-binding-collective-choice).
 
 
 
@@ -1752,7 +1753,8 @@ This cluster is the canonical compound-definition home for binding stakeholder c
 
     **Primary assessment:** The record must identify: rights in tension; feasible alternatives; least-restrictive rationale; accepted trade-offs; uncertainty treatment; and review or reversal triggers — consistent with **Article XXIV-B** (*Rights-Collision Procedure and Restorative Alignment*) and Chapter One §6.3. Do not treat this list as narrowing **Article XXIV-B** (*Rights-Collision Procedure and Restorative Alignment*) where that article imposes additional duties.
 - **What must hold**
-  - binding stakeholder-choice outcomes on silent or opaque collision resolution where rights effects are material; missing required record elements where conflict is material. Owner floor: [Chapter Twelve §3.3](core_12-12_governance.md#43-decision-resolution-requirements-for-binding-collective-choice).
+  - **Primary failure:** binding stakeholder-choice outcomes on silent or opaque collision resolution where rights effects are material; missing required record elements where conflict is material.
+  - Owner floor: [Chapter Twelve §3.3](core_12-12_governance.md#43-decision-resolution-requirements-for-binding-collective-choice).
 
 ---
 
@@ -1826,7 +1828,7 @@ This cluster is the joint-invocation home for self-determination, meaningful age
 
     **Primary assessment:** Evaluate substantive agency pathways under [Coercion and Manipulation](core_05defs_participation.md#coercion-and-manipulation-constitutional), [Dependency](core_05defs_continuity.md#dependency), [Surveillance Boundary](core_05defs_continuity.md#surveillance-boundary), and segmentation across speech, platform, curricular, or governance domains that defeats joint assessment under [Joint invocation and satisfaction](core_05_definitions_home.md#joint-invocation-and-satisfaction).
 - **What must hold**
-  - Framings that preserve nominal choice while defeating informed refusal, proportional participation, or reviewability, or that route material self-governance questions outside **Article IX** (*Self-Determination and Agency*) without **Chapter One §6.3.1** collision resolution, are non-compliant when materially implicated.
+  - **Primary failure:** Framings that preserve nominal choice while defeating informed refusal, proportional participation, or reviewability, or that route material self-governance questions outside **Article IX** (*Self-Determination and Agency*) without **Chapter One §6.3.1** collision resolution, are non-compliant when materially implicated.
 
 ---
 
@@ -1857,7 +1859,7 @@ This cluster is the joint-invocation home for self-determination, meaningful age
 
     **Primary assessment:** Test restrictions, chilling effects, and viewpoint-targeting against [Proportionality](core_05defs_accountability.md#proportionality), [Necessity](core_05defs_accountability.md#necessity), [Protected Characteristics](core_05defs_participation.md#protected-characteristics-constitutional), and **Article V-H** (*Expression, Assembly, and Press*) / **Article IX-A** (*Agency and Freedom from Manipulation*) limitation discipline.
 - **What must hold**
-  - Formal neutrality or private-ordering labels that materially eliminate protected expression, assembly, or press pathways without satisfying limitation tests are non-compliant.
+  - **Primary failure:** Formal neutrality or private-ordering labels that materially eliminate protected expression, assembly, or press pathways without satisfying limitation tests are non-compliant.
 
 ---
 
@@ -1924,7 +1926,7 @@ This cluster is the joint-invocation home for self-determination, meaningful age
 
     **Primary assessment:** Evaluate for: (1) coherence of preference-formation over time; (2) resistance to covert manipulation, deception, or algorithmic exploitation of cognitive vulnerabilities; (3) protection from unauthorized external shaping of internal states through surveillance, inference, or behavioral conditioning; (4) preservation of meaningful choice architecture where [Coercion and Manipulation](core_05defs_participation.md#coercion-and-manipulation-constitutional) threatens to subvert apparent voluntariness; and (5) continuity of identity-constitutive commitments against involuntary fragmentation or dissolution.
 - **What must hold**
-  - systematic manipulation or coercion that subverts volitional continuity; covert behavioral conditioning that defeats informed self-direction; unauthorized inference or reconstruction of internal states used to reshape preferences; external control mechanisms that fragment or destabilize volitional coherence; or design patterns that exploit cognitive vulnerabilities to override or redirect autonomous choice.
+  - **Primary failure:** systematic manipulation or coercion that subverts volitional continuity; covert behavioral conditioning that defeats informed self-direction; unauthorized inference or reconstruction of internal states used to reshape preferences; external control mechanisms that fragment or destabilize volitional coherence; or design patterns that exploit cognitive vulnerabilities to override or redirect autonomous choice.
 
 ---
 

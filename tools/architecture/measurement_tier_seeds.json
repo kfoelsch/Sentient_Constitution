@@ -26,31 +26,37 @@
     },
     "Materiality Determination": {
       "tier_depth": "full",
-      "status": "implicit_gate"
+      "status": "approved"
     },
     "Material": {
       "tier_depth": "primary_secondary",
-      "status": "implicit_gate"
+      "status": "approved",
+      "ch00_category": "3.5 Oversight"
     },
     "Material Impact": {
       "tier_depth": "primary_secondary",
-      "status": "implicit_gate"
+      "status": "approved",
+      "ch00_category": "3.5 Oversight"
     },
     "Material Risk": {
       "tier_depth": "primary_secondary",
-      "status": "implicit_gate"
+      "status": "approved",
+      "ch00_category": "3.5 Oversight"
     },
     "Material Degradation": {
       "tier_depth": "primary_secondary",
-      "status": "implicit_gate"
+      "status": "approved",
+      "ch00_category": "3.5 Oversight"
     },
     "Materiality Integrity Constraint": {
       "tier_depth": "primary_secondary",
-      "status": "implicit_gate"
+      "status": "approved",
+      "ch00_category": "3.5 Oversight"
     },
     "Materiality Under Uncertainty": {
       "tier_depth": "primary_secondary",
-      "status": "implicit_gate"
+      "status": "approved",
+      "ch00_category": "3.5 Oversight"
     },
     "Truth (Constitutional Constraint)": {
       "ch00_category": "3.5 Oversight",
@@ -317,7 +323,7 @@
       "tier_depth": "primary_only",
       "status": "approved"
     },
-    "Binding Stakeholder Choice — Decision-Resolution Requirements": {
+    "Binding Stakeholder Choice \u2014 Decision-Resolution Requirements": {
       "ch00_category": "3.4 Participation",
       "tier_depth": "primary_only",
       "status": "approved"
@@ -637,12 +643,12 @@
       "tier_depth": "primary_only",
       "status": "approved"
     },
-    "Incentive Alignment — baseline constitutional alignment": {
+    "Incentive Alignment \u2014 baseline constitutional alignment": {
       "ch00_category": "3.6 Accountability",
       "tier_depth": "primary_only",
       "status": "approved"
     },
-    "Incentive Alignment — contingent claims, games of chance, and event-contract markets": {
+    "Incentive Alignment \u2014 contingent claims, games of chance, and event-contract markets": {
       "ch00_category": "3.6 Accountability",
       "tier_depth": "primary_only",
       "status": "approved"
@@ -1099,6 +1105,26 @@
     },
     "Protected Commercial Sexual Services Status and **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) Circumvention": {
       "ch00_category": "3.4 Participation",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Charter": {
+      "ch00_category": "3.3 Continuity",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Forum Case Record": {
+      "ch00_category": "3.6 Accountability",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Non-Compliance": {
+      "ch00_category": "3.6 Accountability",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Non-Compliance Finding Profile": {
+      "ch00_category": "3.6 Accountability",
       "tier_depth": "primary_only",
       "status": "approved"
     }

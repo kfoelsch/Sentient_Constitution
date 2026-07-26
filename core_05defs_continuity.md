@@ -72,9 +72,10 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - substrate-class commodification schemes targeting synthetic-hosting tenancy are evaluated on the same terms.
 <a id="essential-environment-non-commodification-constitutional-c"></a>
 - **What must hold**
-  - commodification pressure whose effect defeats essential-environment access at materially implicated scale, regardless of market-structuring framing;
-  - substrate-class schemes that defeat synthetic-hosting or compute-tenancy access ([Sentience Non-Exclusion](core_05defs_participation.md#sentience-non-exclusion));
-  - reading this entry to displace [Tenure Security](core_05defs_continuity.md#tenure-security-constitutional) procedural discipline or to license intrusion contrary to **Article VII-A** (*Self-Ownership of Body and Mind*) or VII-B.
+  - **Primary failure:**
+    - commodification pressure whose effect defeats essential-environment access at materially implicated scale, regardless of market-structuring framing;
+    - substrate-class schemes that defeat synthetic-hosting or compute-tenancy access ([Sentience Non-Exclusion](core_05defs_participation.md#sentience-non-exclusion));
+    - reading this entry to displace [Tenure Security](core_05defs_continuity.md#tenure-security-constitutional) procedural discipline or to license intrusion contrary to **Article VII-A** (*Self-Ownership of Body and Mind*) or VII-B.
 
 ---
 
@@ -96,6 +97,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 <a id="residual-risk--misalignment-c"></a>
 - **What must hold**
   - Residual risk must not create scalable [Harm](core_05defs_accountability.md#harm) pathways, [Cascading Failure](core_05defs_continuity.md#cascading-failure), or unmanaged [Material Risk](core_05defs_oversight.md#material-risk).
+  - **Primary failure:** accepting residual risk that creates scalable [Harm](core_05defs_accountability.md#harm) pathways, [Cascading Failure](core_05defs_continuity.md#cascading-failure), or unmanaged [Material Risk](core_05defs_oversight.md#material-risk).
 
 ---
 
@@ -128,10 +130,11 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - apply [Graduated Capability](core_05defs_participation.md#graduated-capability-constitutional) for [Developing Sentient](core_05defs_participation.md#developing-sentient-constitutional) cases under **Article V-F** (*Developing Sentients, Best-Interest, and Graduated Capability*).
 <a id="voluntary-discontinuation-constitutional-c"></a>
 - **What must hold**
-  - illusory or pressured consent framed as voluntary discontinuation;
-  - offering, routing, or operationalizing discontinuation as a substitute for required mental-health care, physical healthcare, disability support, housing, or other survival essentials under Articles III-A, III-C, and VII-C;
-  - conflating this entry with [Irreversible Deprivation Measure](core_05defs_accountability.md#irreversible-deprivation-measure-constitutional), third-party termination, or **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*) prohibited measures;
-  - relabelling an involuntary outcome as voluntary to route around **Article VII-E** (*Voluntary Discontinuation of One's Own Existence*).
+  - **Primary failure:**
+    - illusory or pressured consent framed as voluntary discontinuation;
+    - offering, routing, or operationalizing discontinuation as a substitute for required mental-health care, physical healthcare, disability support, housing, or other survival essentials under Articles III-A, III-C, and VII-C;
+    - conflating this entry with [Irreversible Deprivation Measure](core_05defs_accountability.md#irreversible-deprivation-measure-constitutional), third-party termination, or **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*) prohibited measures;
+    - relabelling an involuntary outcome as voluntary to route around **Article VII-E** (*Voluntary Discontinuation of One's Own Existence*).
 
 ---
 
@@ -1279,8 +1282,6 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 ---
 #### Ecological Recovery Capacity
 
-**Ecological recovery capacity disambiguation:** this entry names ecological and life-supporting recovery only; the neighboring senses it does not govern are carved out under **Out of scope** below.
-
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
@@ -1292,6 +1293,8 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 </details>
 
 <br>
+
+**Ecological recovery capacity disambiguation:** this entry names ecological and life-supporting recovery only; the neighboring senses it does not govern are carved out under **Out of scope** below.
 
 - **What it is**
   - **In scope:** The capacity of ecosystems, living systems, and the [Environmental Preconditions](core_05defs_continuity.md#environmental-preconditions-constitutional) they support, after severe harm, depletion, or disruption, to:
@@ -1637,7 +1640,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - owner-layer governance implementation appears in designated implementation text and must not narrow [Safety (Constraint)](core_05defs_continuity.md#safety-constraint) or [Truth (Constitutional Constraint)](core_05defs_oversight.md#truth-constitutional-constraint).
 <a id="emergency-and-contingency-constitutional-c"></a>
 - **What must hold**
-  - Invoking emergency or contingency to bypass [Safety (Constraint)](core_05defs_continuity.md#safety-constraint), [Truth (Constitutional Constraint)](core_05defs_oversight.md#truth-constitutional-constraint), required [Contestability](core_05defs_accountability.md#contestability), audit, [Foundational Constitutional Choice](core_05defs_integrative.md#foundational-constitutional-choice), or the [Constitutional Contract Layer](core_05defs_integrative.md#constitutional-contract-layer) — pretextually or indefinitely — is non-compliant.
+  - **Primary failure:** Invoking emergency or contingency to bypass [Safety (Constraint)](core_05defs_continuity.md#safety-constraint), [Truth (Constitutional Constraint)](core_05defs_oversight.md#truth-constitutional-constraint), required [Contestability](core_05defs_accountability.md#contestability), audit, [Foundational Constitutional Choice](core_05defs_integrative.md#foundational-constitutional-choice), or the [Constitutional Contract Layer](core_05defs_integrative.md#constitutional-contract-layer) — pretextually or indefinitely — is non-compliant.
 
 
 <a id="constitutional-emergency-and-contingency"></a>
@@ -1680,7 +1683,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - routes permanent or durable changes through the ordinary constitutional authorization, adoption, amendment, or reauthorization pathway.
 <a id="constitutional-emergency-and-contingency-c"></a>
 - **What must hold**
-  - The following are non-compliant:
+  - **Primary failure:** The following are non-compliant:
     - using emergency continuity, temporary stewardship, compromised-channel exclusion, crisis delegation, or subversion response to entrench a new governing authority;
     - bypassing [Foundational Constitutional Choice](core_05defs_integrative.md#foundational-constitutional-choice);
     - evading Chapter Fourteen validity procedures; or
@@ -1724,7 +1727,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - where material disagreement requires binding decision before ordinary deliberation can occur, applies [Emergency Pre-Deliberation Action (Binding Collective Choice)](core_05defs_continuity.md#emergency-pre-deliberation-action-binding-collective-choice) together with [Binding Stakeholder Choice](core_05defs_participation.md#binding-stakeholder-choice-cluster) and Chapter Twelve §3.3.
 <a id="stakeholder-emergency-and-contingency-c"></a>
 - **What must hold**
-  - The following are non-compliant:
+  - **Primary failure:** The following are non-compliant:
     - treating symbolic consultation as sufficient;
     - suppressing challenge after stabilization;
     - deferring participation indefinitely;
@@ -1772,7 +1775,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - where the same facts touch the [Constitutional Contract Layer](core_05defs_integrative.md#constitutional-contract-layer), also applies [Constitutional Emergency and Contingency](core_05defs_continuity.md#constitutional-emergency-and-contingency).
 <a id="emergency-pre-deliberation-action-binding-collective-choice-c"></a>
 - **What must hold**
-  - The following are non-compliant:
+  - **Primary failure:** The following are non-compliant:
     - labeling ordinary expedience or convenience as emergency;
     - sustained or inadequately reviewed pre-deliberation power;
     - using emergency action to bypass [Foundational Constitutional Choice](core_05defs_integrative.md#foundational-constitutional-choice) or the [Constitutional Contract Layer](core_05defs_integrative.md#constitutional-contract-layer); or
@@ -2014,6 +2017,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 <a id="system-definition-c"></a>
 - **What must hold**
   - Systems must be evaluated in full functional scope under [System Boundaries](core_05defs_continuity.md#system-boundaries) and [System Boundary Integrity](core_05defs_continuity.md#system-boundary-integrity).
+  - **Primary failure:** evaluating a system on less than its full functional scope, including by omitting materially connected actors, processes, dependencies, or effects identified under [System Boundaries](core_05defs_continuity.md#system-boundaries) and [System Boundary Integrity](core_05defs_continuity.md#system-boundary-integrity).
 
 <a id="system-boundaries"></a>
 
@@ -2030,7 +2034,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     **Primary assessment:** Do not rely on formal or jurisdictional boundaries where doing so would defeat [Materiality Determination](core_05defs_oversight.md#materiality-determination) or [Accountability](core_05apex_accountability_leg.md#accountability).
 <a id="system-boundaries-c"></a>
 - **What must hold**
-  - exclusion of material components, under [System Boundary Integrity](core_05defs_continuity.md#system-boundary-integrity), [Materiality Determination](core_05defs_oversight.md#materiality-determination), and [Accountability](core_05apex_accountability_leg.md#accountability).
+  - **Primary failure:** exclusion of material components, under [System Boundary Integrity](core_05defs_continuity.md#system-boundary-integrity), [Materiality Determination](core_05defs_oversight.md#materiality-determination), and [Accountability](core_05apex_accountability_leg.md#accountability).
 
 <a id="system-boundary-integrity"></a>
 
@@ -2048,6 +2052,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 <a id="system-boundary-integrity-c"></a>
 - **What must hold**
   - Boundaries must be auditable, stable, and contestable.
+  - **Primary failure:** using boundaries that are not auditable, stable, or contestable, or changing them to exclude materially relevant functions, dependencies, actors, or effects.
 
 <a id="charter"></a>
 
@@ -2115,7 +2120,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     **Primary assessment:** Compare exit costs and frictions to dependency, impact, and [Feasibility](core_05defs_accountability.md#feasibility). Distinguish structural barriers from ordinary transaction costs. Apply interoperability, portability, and exit-integrity requirements as specified in incorporated implementation text. Justified limitations under Burden of Justification and Constraint requirements apply.
 <a id="systemic-lock-in-c"></a>
 - **What must hold**
-  - creating or maintaining lock-in as defined above; failure to satisfy applicable incorporated interoperability, portability, or exit-integrity requirements without adequate justification under Burden of Justification and Constraint requirements.
+  - **Primary failure:** creating or maintaining lock-in as defined above; failure to satisfy applicable incorporated interoperability, portability, or exit-integrity requirements without adequate justification under Burden of Justification and Constraint requirements.
 
 
 ---
@@ -2367,7 +2372,7 @@ Outside that admission scope, component definitions may operate as supporting In
     **Primary assessment:** Reach substantive adequacy, not formal contractual satisfaction. Apply [Substantive Fairness](core_05defs_participation.md#substantive-fairness-constitutional) to comparable activity; apply [Protected Characteristics](core_05defs_participation.md#protected-characteristics-constitutional) and [Protected Characteristic Proxying and Disparate Impact](core_05defs_participation.md#protected-characteristic-proxying-and-disparate-impact) to distributional effects; apply [Coercion and Manipulation](core_05defs_participation.md#coercion-and-manipulation-constitutional) and [Meaningful Agency](core_05defs_participation.md#meaningful-agency) to dependency-pressure analysis. Survival-floor satisfaction alone, and [Chapter One §13](core_01_c_stewardship_capacity_principles.md#13-market-structure) non-concentration satisfaction alone, do not satisfy this entry.
 <a id="fair-compensation-constitutional-c"></a>
 - **What must hold**
-  - compensation schemes whose effects track [Protected Characteristics](core_05defs_participation.md#protected-characteristics-constitutional) or their material proxies; compensation used as coercion or dependency-pressure vector ([Coercion and Manipulation](core_05defs_participation.md#coercion-and-manipulation-constitutional)); reading this entry as satisfied purely by survival-floor or §14 non-concentration compliance; substrate-class exclusion ([Sentience Non-Exclusion](core_05defs_participation.md#sentience-non-exclusion)).
+  - **Primary failure:** compensation schemes whose effects track [Protected Characteristics](core_05defs_participation.md#protected-characteristics-constitutional) or their material proxies; compensation used as coercion or dependency-pressure vector ([Coercion and Manipulation](core_05defs_participation.md#coercion-and-manipulation-constitutional)); reading this entry as satisfied purely by survival-floor or §14 non-concentration compliance; substrate-class exclusion ([Sentience Non-Exclusion](core_05defs_participation.md#sentience-non-exclusion)).
 
 ---
 
@@ -2446,7 +2451,7 @@ Outside that admission scope, component definitions may operate as supporting In
 
 - **What it is**
   - **In scope:** Interaction between publication and recognizably identifiable likeness or voice.
-  - **Out of scope:** non-identifiable generic imagery or anonymized depiction that cannot reasonably identify a sentient; fictional characters not held out as a real person.
+  - **Out of scope:** non-identifiable generic imagery or anonymized depiction that cannot reasonably identify a sentient; fictional characters not held out as a real sentient.
 <a id="likeness-and-documentary-depiction-interface-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Flourishing measurement family and Continuity measurement family — supporting measure where multiple measurement families co-apply.
@@ -2455,6 +2460,7 @@ Outside that admission scope, component definitions may operate as supporting In
 <a id="likeness-and-documentary-depiction-interface-c"></a>
 - **What must hold**
   - Recognizably identifiable **likeness** (including synthetic depiction held out as authentic) remains subject to **Article VIII-A** (*Self-Ownership of Likeness and Reputation*) (including defaults and the **factual reporting** pathway) unless another constitutional provision applies.
+  - **Primary failure:** treating recognizably identifiable likeness or documentary depiction as outside **Article VIII-A** protections without another constitutional provision that controls the use.
 
 ---
 
@@ -2505,7 +2511,7 @@ Outside that admission scope, component definitions may operate as supporting In
     **Primary assessment:** Evaluate scope, purpose, duration, downstream reuse, revocation, aggregation risk, and re-identification under [Consent](core_05defs_participation.md#consent-constitutional), **[Article VIII-B](core_06-06_rights_part_b.md#article-viii-b-experiential-and-derived-data-rights) (*Experiential and Derived Data Rights*)**, [Privacy (Informational)](core_05defs_continuity.md#privacy-informational), and [Creative Work Attribution](core_05defs_continuity.md#creative-work-attribution-constitutional).
 <a id="training-data-use-constitutional-c"></a>
 - **What must hold**
-  - Training-data pipelines that strip consent, substantive attribution, or required informational discipline by segmentation across privacy, licensing, or aggregate-processing labels are non-compliant where **Article VIII-D** (*Creative Work, Training-Data Use, and Anti-Displacement*) joint invocation materially applies.
+  - **Primary failure:** Training-data pipelines that strip consent, substantive attribution, or required informational discipline by segmentation across privacy, licensing, or aggregate-processing labels are non-compliant where **Article VIII-D** (*Creative Work, Training-Data Use, and Anti-Displacement*) joint invocation materially applies.
 
 ---
 
@@ -2608,7 +2614,7 @@ This cluster is the joint-invocation home for principle-layer stewardship orient
     **Primary assessment:** Distinguish from governance form, documentation, consultation theater, or single-metric optimization. Assess foresight, correction, participation pathways, incentive design, and repair velocity across delayed, cumulative, systemic, and intergenerational effects. Read with [Strategic Stewardship Obligation](core_05defs_continuity.md#strategic-stewardship-obligation-constitutional) and [Timeliness](core_05apex_timeliness_leg.md#timeliness-constitutional) for operative duty on stewards and operators with material influence.
 <a id="stewardship-constitutional-c"></a>
 - **What must hold**
-  - long-horizon duties treated as optional; subordinated to short-horizon convenience or metric gaming without [Necessity](core_05defs_accountability.md#necessity) and [Proportionality](core_05defs_accountability.md#proportionality); deferred repair after misalignment is reasonably foreseeable; or masked by non-functional stewardship posture after misalignment is reasonably foreseeable.
+  - **Primary failure:** long-horizon duties treated as optional; subordinated to short-horizon convenience or metric gaming without [Necessity](core_05defs_accountability.md#necessity) and [Proportionality](core_05defs_accountability.md#proportionality); deferred repair after misalignment is reasonably foreseeable; or masked by non-functional stewardship posture after misalignment is reasonably foreseeable.
 
 
 <a id="distributed-understanding-constitutional"></a>
@@ -2637,7 +2643,7 @@ This cluster is the joint-invocation home for principle-layer stewardship orient
     **Primary assessment:** Distinguish from nominal disclosure, jargon barriers, or summaries that misstate operative effect. Read with [Educational Agency](core_05defs_participation.md#educational-agency), [Transparency](core_05defs_oversight.md#transparency), and [Accessibility](core_05defs_participation.md#accessibility-constitutional). Scale depth, format, and timing to material impact, dependency, and adversarial conditions without defeating practical comprehension.
 <a id="distributed-understanding-constitutional-c"></a>
 - **What must hold**
-  - understanding withheld, obscured, or made practically unusable without [Necessity](core_05defs_accountability.md#necessity), [Proportionality](core_05defs_accountability.md#proportionality), and applicable security limits.
+  - **Primary failure:** understanding withheld, obscured, or made practically unusable without [Necessity](core_05defs_accountability.md#necessity), [Proportionality](core_05defs_accountability.md#proportionality), and applicable security limits.
 
 
 <a id="strategic-stewardship-obligation-constitutional"></a>
@@ -2666,7 +2672,7 @@ This cluster is the joint-invocation home for principle-layer stewardship orient
     **Primary assessment:** Evaluate foresight, incentive design, revalidation, monitoring, correction, transparency, contingency planning, allocation of responsibility, and time-bounded correction plans when misalignment is observable. Stewardship must account for cumulative, delayed, systemic, ecological, and intergenerational effects, and must update when evidence shows misalignment, capture, proxy divergence, or material under-performance.
 <a id="strategic-stewardship-obligation-constitutional-c"></a>
 - **What must hold**
-  - strategic planning, governance, or operational control that predictably externalizes material harm, ignores observable misalignment, designs incentives against constitutional outcomes, or treats short-horizon value, convenience, or institutional self-protection as sufficient stewardship.
+  - **Primary failure:** strategic planning, governance, or operational control that predictably externalizes material harm, ignores observable misalignment, designs incentives against constitutional outcomes, or treats short-horizon value, convenience, or institutional self-protection as sufficient stewardship.
 
 
 <a id="short-horizon-governance-defect-constitutional"></a>
@@ -2695,7 +2701,7 @@ This cluster is the joint-invocation home for principle-layer stewardship orient
     **Primary assessment:** Include uncorrected [Proxy Divergence](core_05defs_oversight.md#proxy-divergence), permanent-emergency normalization, deferred safeguard maintenance, incentive structures rewarding throughput over outcomes, and governance that treats short-horizon value as sufficient without [Review and Correction Duty](core_05defs_continuity.md#review-and-correction-duty-constitutional) revalidation. Distinguish bounded, time-limited emergency measures that satisfy **Necessity**, **Proportionality**, and applicable Chapter Six safeguards from defects that persist without correction paths.
 <a id="short-horizon-governance-defect-constitutional-c"></a>
 - **What must hold**
-  - maintaining such a pattern after risks or misalignment are reasonably foreseeable and correction was practicable; using governance form, metrics, or reporting to mask non-functional stewardship or capacity claims.
+  - **Primary failure:** maintaining such a pattern after risks or misalignment are reasonably foreseeable and correction was practicable; using governance form, metrics, or reporting to mask non-functional stewardship or capacity claims.
 
 
 <a id="stewardship-defect-constitutional"></a>
@@ -2724,7 +2730,7 @@ This cluster is the joint-invocation home for principle-layer stewardship orient
     **Primary assessment:** Identify defects by substantive effect and reasonably available evidence, not by whether a policy exists on paper. Include known-risk neglect, incentive misalignment, uncorrected proxy divergence, inadequate monitoring, denial of observable misalignment, under-resourced safeguards, captured review, chronic delay, deferred safeguard maintenance, throughput-over-outcomes incentive structures, and short-horizon governance that defeats durable constitutional duties.
 <a id="stewardship-defect-constitutional-c"></a>
 - **What must hold**
-  - maintaining a stewardship posture that materially fails the strategic stewardship obligation after risks, misalignment, or harmful incentives are reasonably foreseeable; using documentation, branding, or committee form to mask non-functional stewardship.
+  - **Primary failure:** maintaining a stewardship posture that materially fails the strategic stewardship obligation after risks, misalignment, or harmful incentives are reasonably foreseeable; using documentation, branding, or committee form to mask non-functional stewardship.
 
 
 <a id="review-and-correction-duty-constitutional"></a>
@@ -2754,7 +2760,7 @@ This cluster is the joint-invocation home for principle-layer stewardship orient
     **Primary assessment:** Apply [Materiality Determination](core_05defs_oversight.md#materiality-determination) and evidence-of-misalignment tests consistent with [Contestability](core_05defs_accountability.md#contestability), [Timeliness](core_05apex_timeliness_leg.md#timeliness-constitutional), and Chapter Eight **contribution** **inputs** where stewardship claims are material to classification or standing.
 <a id="review-and-correction-duty-constitutional-c"></a>
 - **What must hold**
-  - maintaining published strategy or stewardship claims without periodic revalidation where observability is practicable; refusing revision when outcomes materially contradict stated constitutional alignment; or deferring correction beyond tier-appropriate windows without documented necessity.
+  - **Primary failure:** maintaining published strategy or stewardship claims without periodic revalidation where observability is practicable; refusing revision when outcomes materially contradict stated constitutional alignment; or deferring correction beyond tier-appropriate windows without documented necessity.
 
 
 ---
@@ -2919,7 +2925,7 @@ This cluster is the canonical O/M/A/C home for **Trust**, **Trustworthiness**, a
     **Primary assessment:** Evaluation of whether reliance is justified must apply the [Trustworthiness](core_05defs_continuity.md#trustworthiness) Assessment and Compliance components as a single joint test. It must not treat trust claims as severable from the observable and verifiable evidence those components require.
 <a id="trust-c"></a>
 - **What must hold**
-  - Isolating **trust** or **reliance** rationales from [Trustworthiness](core_05defs_continuity.md#trustworthiness) requirements, or treating reputation-, history-, scale-, or endorsement-based indicia as sufficient without satisfying [Trustworthiness](core_05defs_continuity.md#trustworthiness), is **non-compliant** where materially relevant.
+  - **Primary failure:** Isolating **trust** or **reliance** rationales from [Trustworthiness](core_05defs_continuity.md#trustworthiness) requirements, or treating reputation-, history-, scale-, or endorsement-based indicia as sufficient without satisfying [Trustworthiness](core_05defs_continuity.md#trustworthiness), is **non-compliant** where materially relevant.
 
 ---
 

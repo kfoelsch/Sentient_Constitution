@@ -33,7 +33,7 @@
   {
     "id": "ch2-4-crypto-truth-safety",
     "file": "core_04-04_burden_traceability_verification.md",
-    "heading_contains": "Cryptographic protection",
+    "heading_contains": "Security-Constrained Observability",
     "body_must_contain": [
       "truth-constitutional-constraint",
       "safety-constraint"

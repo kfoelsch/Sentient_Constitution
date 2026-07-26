@@ -256,7 +256,7 @@ A final designation requires:
 A Catastrophic designation also requires:
 
 - the strongest constitutional safeguards;
-- remedy priority for people harmed; and
+- remedy priority for sentients harmed; and
 - anti-capture oversight —
 
 because the underlying impact is already `s` = 9, not because character somehow raised the score.

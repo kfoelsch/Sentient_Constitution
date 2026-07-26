@@ -31,6 +31,7 @@ CORE_CHAIN = (
     "core_05defs_participation.md",
     "core_05defs_performance.md",
     "core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation",
+    "core_07_b_system_alignment_certification_record_process.md#chapter-seven-part-b-certification-record-and-process",
     "core_08-08_standing_assessment.md",
     "core_09-09_standing_integration.md",
     "core_10_a_misconduct_designation.md",

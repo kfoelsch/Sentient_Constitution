@@ -282,7 +282,7 @@ These rules shape how a lock or safeguard is attached under [§5.1](#51-definiti
 - **Named pathway / finding:**
   - Independently recordable where a duty existed.
   - Independently recordable where what could reasonably be expected was clear.
-  - Independently recordable where the person had feasible capacity to prevent, mitigate, or escalate material harm.
+  - Independently recordable where the sentient had feasible capacity to prevent, mitigate, or escalate material harm.
 - **Risk:** recurrence through the same duty failure, neglect pattern, or unmonitored named pathway.
 - **Protected subjects or interests:** those exposed to the neglected harm.
 - **Corrective conditions:** when the harm is material, negligence or neglect must be treated as real duty failure—not brushed off as a paperwork mistake. Naming the conduct as negligence or neglect does not change the Violation Axis slot; the slot stays as Chapter Eight measured it.
@@ -292,17 +292,17 @@ These rules shape how a lock or safeguard is attached under [§5.1](#51-definiti
 
 - **Named pathway / finding:**
   - Using a constitutionally misaligned, anti-constitutional, or badly broken system to extract a material reward—pay, bonus, status, credit, ranking, access, or influence.
-  - Any related named pathway that would let the person keep cashing in on that abuse.
-- **Risk:** the same person, or others watching, keep gaming the broken incentives; the misaligned system stays profitable; harm continues while the reward pathway stays open.
-- **Protected subjects or interests:** people hurt by the abused process; dependents and systems that would be damaged if the exploiter keeps the benefit or the access used to get it.
+  - Any related named pathway that would let the sentient keep cashing in on that abuse.
+- **Risk:** the same sentient, or others watching, keep gaming the broken incentives; the misaligned system stays profitable; harm continues while the reward pathway stays open.
+- **Protected subjects or interests:** sentients hurt by the abused process; dependents and systems that would be damaged if the exploiter keeps the benefit or the access used to get it.
 - **Corrective conditions:**
-  - Close or lock the reward, credit, and influence named pathways the person used to extract the benefit until the abuse is stopped and the incentive structure is corrected.
+  - Close or lock the reward, credit, and influence named pathways the sentient used to extract the benefit until the abuse is stopped and the incentive structure is corrected.
   - Material rewards obtained by abusing the misaligned system are forfeit for constitutional purposes, unless taking them back would cause greater constitutional harm and temporary retention is therefore required.
-  - A person who knowingly keeps gaming the system after notice, or who conceals the benefit, is not treated as an honest recipient. Timely protected reporting, good-faith dispute, record preservation during review, and cooperation with remediation remain available and are not themselves the violation.
-  - Ordinary pay for ordinary work when the person did not know the system was misaligned, money paid to repair harm to affected parties, and fair settlements reached through a contestable process are not treated as abuse-forfeiture targets by themselves.
+  - A sentient who knowingly keeps gaming the system after notice, or who conceals the benefit, is not treated as an honest recipient. Timely protected reporting, good-faith dispute, record preservation during review, and cooperation with remediation remain available and are not themselves the violation.
+  - Ordinary pay for ordinary work when the sentient did not know the system was misaligned, money paid to repair harm to affected parties, and fair settlements reached through a contestable process are not treated as abuse-forfeiture targets by themselves.
 - **Review route and reassessment:**
   - The record must show how the system was abused.
-  - The record must show what the person knew.
+  - The record must show what the sentient knew.
   - The record must show what benefit was taken.
   - The record must show any concealment.
   - The record must show who else was hurt or relied on the arrangement.
@@ -333,7 +333,7 @@ These rules shape how a lock or safeguard is attached under [§5.1](#51-definiti
 - **Risk:** shared or fragmented control that would leave enabling named pathways open.
 - **Protected subjects or interests:** those harmed by the collective or fragmented pattern.
 - **Corrective conditions:**
-  - Prove what each responsible person actually did or failed to do—do not punish by group membership alone.
+  - Prove what each responsible sentient actually did or failed to do—do not punish by group membership alone.
   - Look past shells, rebranded entities, paper transfers, and split-up roles that were used to hide who was responsible.
   - No guilt by association: sharing a team, company, or network is not enough by itself.
 - **Review route and reassessment:** each responsible actor's lock, if any, must still satisfy [§5.1](#51-definition-and-attachment), including isolation from networks or environments that recreate the enabling pattern.
@@ -432,7 +432,7 @@ These locks are mandatory when their verified trigger is met. Each must be recor
 - **Review route:** independent review with published findings.
 - **Reassessment point:**
   - The published restoration or reinstatement finding above is the checkpoint for any narrowing or lifting.
-  - Under [§5.1](#51-definition-and-attachment), keep the person isolated from proxy networks, successor entities, and settings shared with coordinated violators while the risk remains live.
+  - Under [§5.1](#51-definition-and-attachment), keep the sentient isolated from proxy networks, successor entities, and settings shared with coordinated violators while the risk remains live.
 - **Read with:** [Chapter Ten §4.2](core_10_a_misconduct_designation.md#4-2-prevention-anti-constitutional-locks) (*Prevention — anti-constitutional locks*) for ACM-specific liberty-restriction and imprisonment specialization after final designation; this subsection remains the operative Trust Lock text.
 
 <a id="6-contribution-consequences-second"></a>

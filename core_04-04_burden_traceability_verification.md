@@ -32,7 +32,7 @@ Chapter Four is the constitutional owner of **burden allocation, compliance evid
 
 <br>
 
-*In plain terms: if you say you're following the rules, you have to prove it—and show a clear, checkable path from what the constitution defines to what people can actually observe.*
+*In plain terms: if you say you're following the rules, you have to prove it—and show a clear, checkable path from what the constitution defines to what sentients can actually observe.*
 
 ### 1. Exclusive Enforcement and Burden Allocation
 
@@ -62,6 +62,8 @@ Read in order. Each step builds on the last; skip none.
 - Downstream: [Chapter Four, section 3 — Observability of Traceability Requirement](#3-observability-of-traceability-requirement); [Chapter Four, section 4 — Security-Constrained Observability and Verification Rule](#4-security-constrained-observability-and-verification-rule); [Chapter Four, section 5 — Compliance Evidence Standard](#5-compliance-evidence-standard).
 
 </details>
+
+<br>
 
 *In plain terms: show a checkable map from each definition's parts — O, M, A, and C — to what the system actually does, before **sections 3** through **5** judge whether anyone can verify it and whether the proof holds.*
 
@@ -147,7 +149,7 @@ Where a limit blocks meaningful independent validation, the associated complianc
 - that determination is independently justified and auditable
 - the remaining method preserves sufficient epistemic integrity for compliance determination
 
-Cryptography and information-type handling must align with the constitution and **[corpus_systems.md](corpus_systems.md), CS-3 — Information types and handling**; where materially relevant, they must still permit full compliance verification under this chapter.
+Cryptography and information-type handling must align with the constitution and **[corpus_systems.md](corpus_systems.md), CS-3 — Information types and handling**; where materially relevant, they must still permit full compliance verification under this chapter. Cryptographic and information-type handling must not replace [Truth (Constitutional Constraint)](core_05defs_oversight.md#truth-constitutional-constraint) or [Safety (Constraint)](core_05defs_continuity.md#safety-constraint), or the duties in **sections 2**, **3**, or **5**.
 
 ### 5. Compliance Evidence Standard
 <details>
@@ -158,6 +160,8 @@ Cryptography and information-type handling must align with the constitution and 
 - Read with: [Chapter Four, section 2 — Definition Traceability Requirement](#2-definition-traceability-requirement) — failure to invoke or correctly apply any materially required **Chapter Five** definition invalidates the associated evaluation, evidence, and compliance determination in full; [Chapter One, §6 — Process Conflict Resolution](core_01_b_interaction_interpretation.md#6-process-conflict-resolution); [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) where scaling affects tradeoffs between sentient wellbeing and long-horizon stability; [Chapter Five Safety (Constraint)](core_05defs_continuity.md#safety-constraint), [Chapter Five Truth (Constitutional Constraint)](core_05defs_oversight.md#truth-constitutional-constraint), and [Chapter Five Epistemic Integrity](core_05defs_oversight.md#epistemic-integrity) — science-informed evidence alignment for empirical, predictive, or causal claims.
 
 </details>
+
+<br>
 
 *In plain terms: proof has to be real — tied to the trace map, checked under actual conditions, independent where possible, complete, and sustained over time. Cherry-picked snapshots, proxy-only attestations, and self-serving proof do not count.*
 
@@ -189,6 +193,8 @@ Where uncertainty prevents definitive demonstration of compliance for materially
 - Read with: [Chapter Seven §16 — Reopening, Misalignment, and Non-Evasion](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) — verified non-compliance under Chapters Two through Four can reopen or defeat certification regardless of prior recognition.
 
 </details>
+
+<br>
 
 *In plain terms: Chapters Two through Four set the rules every compliance claim must meet — what definitions mean, when behavior fails them, and how proof must be shown. Chapter Seven is a separate forum-supervised certification process that uses those rules when a system needs formal alignment recognition. A current certification is not a free pass around Two through Four.*
 

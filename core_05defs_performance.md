@@ -46,4 +46,4 @@ These cross-cutting measures ask whether systems deliver constitutional outcomes
 
 **Previous file:** [core_05defs_participation.md](core_05defs_participation.md)
 
-**Next file:** [core_07_a_system_alignment_certification_evaluation.md](core_07_a_system_alignment_certification_evaluation.md)
+**Next file:** [core_07_a_system_alignment_certification_evaluation.md](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation)

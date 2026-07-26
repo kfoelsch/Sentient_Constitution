@@ -93,7 +93,7 @@ This band holds **Integrative** cross-leg definitions that require simultaneous 
     **Primary assessment:** Identify this layer by function, not scale. Read [Preamble §4 governance-layer discipline](core_00_preamble.md#governance-layer-discipline). Reject framings that treat silence, usage alone, market presence, or branding as authorization.
 <a id="constitutional-contract-layer-c"></a>
 - **What must hold**
-  - treating stakeholder consultation, operational participation, or system use as a substitute for documented constitutional authorization; using impact-weighted stakeholder voting to constitute or durably restructure governing authority where [Foundational Constitutional Choice](core_05defs_integrative.md#foundational-constitutional-choice) requires the political-equality floor.
+  - **Primary failure:** treating stakeholder consultation, operational participation, or system use as a substitute for documented constitutional authorization; using impact-weighted stakeholder voting to constitute or durably restructure governing authority where [Foundational Constitutional Choice](core_05defs_integrative.md#foundational-constitutional-choice) requires the political-equality floor.
 
 ---
 
@@ -349,7 +349,7 @@ This cluster is the joint-invocation home for operative corpus identity, authori
       - apply Chapter Thirteen supremacy and Chapter Fourteen adoption conditions.
 <a id="corpus-c"></a>
 - **What must hold**
-  - representing divergent, uncontrolled, or misidentified text as the Corpus; collapsing non-binding process artifacts into binding scope without valid incorporation contrary to the governing [Corpus, Authority Stack, Supremacy, and Enforceability cluster](core_05defs_accountability.md#corpus-authority-stack-supremacy-and-enforceability-cluster).
+  - **Primary failure:** representing divergent, uncontrolled, or misidentified text as the Corpus; collapsing non-binding process artifacts into binding scope without valid incorporation contrary to the governing [Corpus, Authority Stack, Supremacy, and Enforceability cluster](core_05defs_accountability.md#corpus-authority-stack-supremacy-and-enforceability-cluster).
 
 ---
 
@@ -503,7 +503,7 @@ This cluster is the joint-invocation home for operative corpus identity, authori
 
     **Primary assessment:** Include direct, indirect, delayed, and aggregated effects, consistent with [Harm](core_05defs_accountability.md#harm), [Safety (Constraint)](core_05defs_continuity.md#safety-constraint), and [Truth (Constitutional Constraint)](core_05defs_oversight.md#truth-constitutional-constraint).
 - **What must hold**
-  - Any such degradation is non-compliant.
+  - **Primary failure:** Any such degradation is non-compliant.
 
 ---
 

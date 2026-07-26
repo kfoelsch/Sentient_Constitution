@@ -86,7 +86,7 @@ This chapter states which **forum families** **supervise** which primary questio
      - **Integrity** — official alignment recognition and lead coordination
      - **Environment** — environmental-alignment component where material
      - other family component findings under this chapter’s routing
-   - People can challenge certification results, attach conditions, and reopen the file when needed — but a certification does **not** replace standing measurement.
+   - Sentients can challenge certification results, attach conditions, and reopen the file when needed — but a certification does **not** replace standing measurement.
    - Important findings from a certification can count as **verified inputs** when Chapter Eight measures standing. A certification does **not**, by itself, assign anyone a standing slot ([Part B §15](core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing)).
 
 **Forum families** are the primary institutions through which this instrument **supervises** those tracks. They:
@@ -244,7 +244,7 @@ These rules limit how the table's default leads interact. They do not replace **
 
 *In plain terms: when many **affected** **parties** share the same underlying harm pattern, forums may widen the case fairly; when **Integrity** forums issue **alignment** rulings they keep **one** lead record and refer **component** questions to the right **family** without stealing those forums' merits jobs; and no forum family gets to be the only final word when the accusation is essentially that this same family is rigged, conflicted, or hiding the ball — the rules send that to a different lead track with written backups.*
 
-**Scope expansion and representative treatment.** When one person files a case, the forum **may** widen the proceeding to cover an affected **class**, **subclass**, or other group in the same situation.
+**Scope expansion and representative treatment.** When one sentient files a case, the forum **may** widen the proceeding to cover an affected **class**, **subclass**, or other group in the same situation.
 - Expansion is available when the record shows any of the following: a shared injury that matters; the same unlawful practice; the same decision rule; shared dependence on the same conduct, system, or institutional choice; or a **systems-alignment** issue with material effects upstream or downstream.
 - The forum **should** expand when refusing to expand would predictably leave similarly situated **sentients** with no practical remedy.
 - It **should** also expand when refusing to expand would predictably produce conflicting rulings, or would block relief that has to work at a **structural** level.

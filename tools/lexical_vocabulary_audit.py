@@ -529,13 +529,21 @@ def scan_avoid_tribunal_family(rel_path: str, text: str) -> list[Finding]:
     return findings
 
 
+_HTML_ID_ATTR = re.compile(r'\bid\s*=\s*"[^"]*"', re.IGNORECASE)
+
+
 def _mask_inline_code_and_link_targets(line: str) -> str:
-    """Hide inline code and Markdown link destinations while preserving link text."""
-    chars = list(line)
+    """Hide inline code, Markdown link destinations, and HTML id attributes while preserving link text.
+
+    HTML ``id="…"`` values stay lowercase for stable inbound URLs and are not prose casing.
+    """
+    # Mask stable HTML anchors before character-walk masking so casing rules ignore them.
+    masked = _HTML_ID_ATTR.sub(lambda m: " " * len(m.group(0)), line)
+    chars = list(masked)
     idx = 0
     while idx < len(chars):
         if chars[idx] == "`":
-            end = line.find("`", idx + 1)
+            end = masked.find("`", idx + 1)
             if end == -1:
                 for mask_idx in range(idx, len(chars)):
                     chars[mask_idx] = " "
@@ -545,7 +553,7 @@ def _mask_inline_code_and_link_targets(line: str) -> str:
             idx = end + 1
             continue
         if chars[idx] == "]" and idx + 1 < len(chars) and chars[idx + 1] == "(":
-            end = line.find(")", idx + 2)
+            end = masked.find(")", idx + 2)
             if end == -1:
                 for mask_idx in range(idx + 1, len(chars)):
                     chars[mask_idx] = " "
@@ -559,7 +567,7 @@ def _mask_inline_code_and_link_targets(line: str) -> str:
 
 
 def scan_load_bearing_capitalization(rel_path: str, text: str) -> list[Finding]:
-    """Require load-bearing **Rights Floor** / **Foundational Rights** casing outside links and code."""
+    """Require load-bearing **Rights Floor** / **Foundational Rights** casing outside links, code, and HTML ids."""
     findings: list[Finding] = []
     lines = text.splitlines()
     in_fence = False
@@ -717,8 +725,8 @@ def report_markdown(run_date: str, scope: list[str], findings: list[Finding]) ->
         "- **`avoid-tribunal-family`:** reject internal Chapter Eleven / forum-governance **tribunal** / **tribunals** → prefer **forum** / **forums**, **forum family**, **panel**, **bench**, or **adjudicative body**. **Allowed:** external or historical tribunal wording where source fidelity or external legal-order references require it.",
         "- **`avoid-standing-calculus`:** reject **standing calculus** / **standing-calculus** (undefined jargon) → prefer **standing-record classification under Chapter Eight**, **classify standing records** on the Contribution and Violation axes, or other explicit Chapter Eight wording.",
         "- **`avoid-bare-drift`:** reject bare **drift** for stewardship, governance, incentive, or alignment divergence → prefer **misalignment** or **constitutional misalignment**. **Allowed:** **anti-drift**, **classification drift**, **version drift**, **editorial drift**, **cross-layer drift**, **Misclassification and misalignment**, and `reopening-drift` anchors.",
-        "- **`load-bearing-rights-floor-casing`:** reject lowercase **rights floor**, **rights floors**, and **rights-floor** outside Markdown link targets and inline code → use **Rights Floor**, **Rights Floors**, or **Rights-Floor** for the named Chapter Six layer.",
-        "- **`load-bearing-foundational-rights-casing`:** reject **Foundational rights** / **foundational rights** outside Markdown link targets and inline code → use **Foundational Rights** when naming the Chapter Six title or layer.",
+        "- **`load-bearing-rights-floor-casing`:** reject lowercase **rights floor**, **rights floors**, and **rights-floor** outside Markdown link targets, inline code, and HTML ``id`` attributes → use **Rights Floor**, **Rights Floors**, or **Rights-Floor** for the named Chapter Six layer.",
+        "- **`load-bearing-foundational-rights-casing`:** reject **Foundational rights** / **foundational rights** outside Markdown link targets, inline code, and HTML ``id`` attributes → use **Foundational Rights** when naming the Chapter Six title or layer.",
         "- **`avoid-should-not-prohibitions`:** reject **should not** in corpus prose → use **must not** for binding negative constraints.",
         "- **`avoid-definition-map-label`:** reject **Definition map.** → integrate term relationships in plain prose; use *In plain terms* for reader orientation.",
         "- **`avoid-router-read-label`:** reject **Router read:** in implementation-corpus body prose → use `- Topic routing (primary owner):` or `- Topic routing (mandatory read-with):` bullets inside the Trace `<details>` block.",

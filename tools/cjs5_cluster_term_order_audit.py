@@ -18,7 +18,7 @@ SECTION_SPLIT_RE = re.compile(r"(?=^## CJS-5)", re.MULTILINE)
 SECTION_ID_RE = re.compile(r"^## (CJS-5\S+)", re.MULTILINE)
 
 CJS50_PINNED = {
-    "Competency gate and standing interface",
+    "Competency bar, clearance, and standing interface",
     "Role-definition reading rule",
 }
 

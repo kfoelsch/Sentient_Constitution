@@ -154,7 +154,7 @@ Use this compass before applying any **CJS-5** (*Implementation and cross-implem
 2. The constitutional band file for the relevant Tetrad leg, **Continuity** band, or **Integrative** band.
 3. **CJS-2.1** (*Topic router*) mandatory read-with when a topic-router row applies.
 4. Individual cluster OP terms (pinned cluster floor first, then sub-rules).
-5. Where a finding is **non-compliant** against an operative cluster rule, optional [Non-Compliance Finding Profile](../core_05defs_accountability.md#non-compliance-finding-profile) metadata attaches **to that finding** (not to a person). Use the cluster map's **Default profile** for the operative cluster unless the facts of the case require a different orientation; document any change under the profile's Assessment part. Constitutional frame: [Chapter Three, section 3](../core_02-03_definition_mechanics.md#3-non-compliance-finding-profiles).
+5. Where a finding is **non-compliant** against an operative cluster rule, optional [Non-Compliance Finding Profile](../core_05defs_accountability.md#non-compliance-finding-profile) metadata attaches **to that finding** (not to a sentient). Use the cluster map's **Default profile** for the operative cluster unless the facts of the case require a different orientation; document any change under the profile's Assessment part. Constitutional frame: [Chapter Three, section 3](../core_02-03_definition_mechanics.md#3-non-compliance-finding-profiles).
 
 **Constitutional bands**
 
