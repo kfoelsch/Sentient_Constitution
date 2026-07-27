@@ -55,7 +55,7 @@ MEASUREMENT_FAMILIES = {
         "water",
         "shelter",
         "bodily-maintenance",
-        "tenure security",
+        "occupancy continuity",
         "operating environment",
     ],
     "Constitutional Efficiency": [

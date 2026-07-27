@@ -2,7 +2,7 @@
 
 Auto-generated. Do not edit by hand.
 
-Generated: 2026-07-26T14:18:30+00:00
+Generated: 2026-07-27T09:54:18+00:00
 
 Grouped by Preamble measurement category. **Approved** terms must carry `*Measurements:*` and tier-aligned **E**/**C** per [doc_architecture.md](../doc_architecture.md) MEAS-DEF-01.
 Approved progress: **225/225** terms pass tier audit.
@@ -28,11 +28,11 @@ Approved progress: **225/225** terms pass tier audit.
 | Leisure and Rest | approved | primary_only | cluster_member | `core_05defs_continuity.md` | yes | pass |
 | Likeness and Documentary Depiction Interface | approved | primary_only | cluster_member | `core_05defs_continuity.md` | yes | pass |
 | Meaningful Agency | approved | full | constituent | `core_05defs_participation.md` | yes | pass |
+| Occupancy Continuity | approved | primary_secondary | cluster_member | `core_05defs_continuity.md` | yes | pass |
 | Psychological Harm | approved | primary_only | cluster_member | `core_05defs_accountability.md` | yes | pass |
 | Risk | approved | primary_secondary | measurement_family_member | `core_05defs_continuity.md` | yes | pass |
 | Safe Conditions | approved | primary_only | cluster_member | `core_05defs_continuity.md` | yes | pass |
 | Safety (Constraint) | approved | full | constituent | `core_05defs_continuity.md` | yes | pass |
-| Tenure Security | approved | primary_secondary | cluster_member | `core_05defs_continuity.md` | yes | pass |
 | Training-Data Use | approved | primary_only | cluster_member | `core_05defs_continuity.md` | yes | pass |
 | Use of Force | approved | primary_only | cluster_member | `core_05defs_accountability.md` | yes | pass |
 | Weapons of Mass Harm | approved | primary_only | cluster_member | `core_05defs_accountability.md` | yes | pass |

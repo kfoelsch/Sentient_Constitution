@@ -1510,7 +1510,7 @@ Sentients and dependent systems have the right to meaningful, usable exit, migra
 
 - Upstream: Principles: Chapter One [4.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency), [8.1.1 Proportionality](core_01_b_interaction_interpretation.md#611-proportionality), [§5.1 Limitation Discipline](core_01_a_values_principles.md#51-limitation-discipline).
 - Downstream: **Article V-A** (*Dignity and Equal Moral Standing*) dignity floor, **Article V-B** (*Nondiscrimination*) non-discrimination, **Article XI** (*Stakeholder System Participation, Representation, and Due Process*) stakeholder participation, **Article XVIII** (*Standing and Participation Status*) standing and participation-status routing, **Article XXIII-D** (*Emergency Measures and Continuation Burden*) emergency-measure limits, **Article XXVI** (*Transition Governance, Continuity, and Re-Baselining*) transition governance.
-- Read with: Chapter Five [**Chapter One §8.24** *Movement, Refuge, Non-Statelessness, and Exit Integrity*](core_05defs_oversight.md#movement-refuge-semi-independent); *Movement and Relocation*, *Refuge from Non-Compliance*, *Non-Statelessness*, *Sentience Non-Exclusion*; *Systemic Lock-In* and *Tenure Security* where exit, hosting termination, eviction, or substantive relocation is materially implicated.
+- Read with: Chapter Five [**Chapter One §8.24** *Movement, Refuge, Non-Statelessness, and Exit Integrity*](core_05defs_oversight.md#movement-refuge-semi-independent); *Movement and Relocation*, *Refuge from Non-Compliance*, *Non-Statelessness*, *Sentience Non-Exclusion*; *Systemic Lock-In* and *Occupancy Continuity* where exit, hosting termination, eviction, or substantive relocation is materially implicated.
 
 </details>
 
@@ -1521,7 +1521,7 @@ Sentients and dependent systems have the right to meaningful, usable exit, migra
 - [Refuge from Non-Compliance](core_05defs_participation.md#refuge-from-non-compliance-constitutional) · [O](core_05defs_participation.md#refuge-from-non-compliance-constitutional) · [A](core_05defs_participation.md#refuge-from-non-compliance-constitutional-a) · [C](core_05defs_participation.md#refuge-from-non-compliance-constitutional-c)
 - [Non-Statelessness](core_05defs_participation.md#non-statelessness-constitutional) · [O](core_05defs_participation.md#non-statelessness-constitutional) · [A](core_05defs_participation.md#non-statelessness-constitutional-a) · [C](core_05defs_participation.md#non-statelessness-constitutional-c)
 - [Systemic Lock-In](core_05defs_continuity.md#systemic-lock-in) · [O](core_05defs_continuity.md#systemic-lock-in) · [A](core_05defs_continuity.md#systemic-lock-in-a) · [C](core_05defs_continuity.md#systemic-lock-in-c)
-- [Tenure Security](core_05defs_continuity.md#tenure-security-constitutional) · [O](core_05defs_continuity.md#tenure-security-constitutional) · [A](core_05defs_continuity.md#tenure-security-constitutional-a) · [C](core_05defs_continuity.md#tenure-security-constitutional-c)
+- [Occupancy Continuity](core_05defs_continuity.md#occupancy-continuity-constitutional) · [O](core_05defs_continuity.md#occupancy-continuity-constitutional) · [A](core_05defs_continuity.md#occupancy-continuity-constitutional-a) · [C](core_05defs_continuity.md#occupancy-continuity-constitutional-c)
 
 </details>
 

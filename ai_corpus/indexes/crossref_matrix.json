@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-07-26T14:18:30+00:00",
+  "generated_at": "2026-07-27T09:54:19+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -2179,6 +2179,7 @@
               "#language-culture-and-heritage-constitutional",
               "#leisure-and-rest-constitutional",
               "#likeness-and-documentary-depiction-interface-constitutional",
+              "#occupancy-continuity-constitutional",
               "#privacy-informational",
               "#privacy-informational-cluster",
               "#productive-capacity-constitutional",
@@ -2209,7 +2210,6 @@
               "#systemic",
               "#systemic-lock-in",
               "#systemic-materiality",
-              "#tenure-security-constitutional",
               "#training-data-use-constitutional",
               "#trust",
               "#trust-and-trustworthiness-cluster",
@@ -2621,11 +2621,11 @@
             "anchors": [
               "#bodily-maintenance-access-constitutional",
               "#environmental-preconditions-constitutional",
+              "#occupancy-continuity-constitutional",
               "#privacy-informational-cluster",
               "#resilience-safety-reversibility-self-healing-and-systemic-harm-cluster",
               "#safety-constraint",
               "#system-capture",
-              "#tenure-security-constitutional",
               "#trust-and-trustworthiness-cluster",
               "#trustworthiness",
               "#wellbeing"
@@ -3384,7 +3384,7 @@
           },
           {
             "file": "core_01_c_stewardship_capacity_principles.md",
-            "count": 38,
+            "count": 39,
             "anchors": [
               "#10-governance-under-stewardship-discipline",
               "#11-incentive-alignment-and-system-capture",
@@ -3404,7 +3404,7 @@
           },
           {
             "file": "core_05_definitions_home.md",
-            "count": 9,
+            "count": 8,
             "anchors": [
               "#chapter-five-compass-and-definition-map",
               "#chapter-five-foundational-definitions",
@@ -3413,7 +3413,7 @@
           },
           {
             "file": "core_05apex_accountability_leg.md",
-            "count": 9,
+            "count": 11,
             "anchors": [
               "#accountability"
             ]
@@ -3434,21 +3434,21 @@
           },
           {
             "file": "core_05apex_oversight_leg.md",
-            "count": 12,
+            "count": 11,
             "anchors": [
               "#oversight-constitutional"
             ]
           },
           {
             "file": "core_05apex_timeliness_leg.md",
-            "count": 4,
+            "count": 5,
             "anchors": [
               "#timeliness-constitutional"
             ]
           },
           {
             "file": "core_05defs_accountability.md",
-            "count": 175,
+            "count": 180,
             "anchors": [
               "#accountability-contestability-semi-independent",
               "#capture-of-resolution-pathways",
@@ -3476,7 +3476,7 @@
           },
           {
             "file": "core_05defs_continuity.md",
-            "count": 549,
+            "count": 590,
             "anchors": [
               "#anti-displacement-floor-constitutional",
               "#avoidable-burden",
@@ -3507,6 +3507,7 @@
               "#language-culture-and-heritage-constitutional",
               "#leisure-and-rest-constitutional",
               "#likeness-and-documentary-depiction-interface-constitutional",
+              "#occupancy-continuity-constitutional",
               "#privacy-informational",
               "#productive-capacity-constitutional",
               "#proportionality-necessity-feasibility-burden-and-efficiency-cluster",
@@ -3517,6 +3518,7 @@
               "#review-and-correction-duty-constitutional",
               "#risk",
               "#safe-conditions-constitutional",
+              "#safe-conditions-occupancy-continuity-and-environmental-preconditions-cluster",
               "#safety-constraint",
               "#self-healing-constitutional",
               "#shared-system-capacity-constitutional",
@@ -3540,7 +3542,6 @@
               "#systemic-effects-and-capture-semi-independent",
               "#systemic-lock-in",
               "#systemic-materiality",
-              "#tenure-security-constitutional",
               "#training-data-use-constitutional",
               "#trust",
               "#trust-degradation-and-misleading-reliance",
@@ -3550,7 +3551,7 @@
           },
           {
             "file": "core_05defs_integrative.md",
-            "count": 33,
+            "count": 34,
             "anchors": [
               "#authority-stack",
               "#constitutional-contract-layer",
@@ -3563,7 +3564,7 @@
           },
           {
             "file": "core_05defs_oversight.md",
-            "count": 157,
+            "count": 173,
             "anchors": [
               "#adversarial-scaled-and-exploited-conditions",
               "#auditability",
@@ -3574,6 +3575,7 @@
               "#material-risk",
               "#materiality-determination",
               "#materiality-under-uncertainty",
+              "#materially-implicated",
               "#observability",
               "#proxy-divergence",
               "#proxy-metric-gaming-and-indicator-reality-gaps",
@@ -3584,7 +3586,7 @@
           },
           {
             "file": "core_05defs_participation.md",
-            "count": 160,
+            "count": 170,
             "anchors": [
               "#accessibility-constitutional",
               "#binding-stakeholder-choice-cluster",
@@ -3603,7 +3605,6 @@
               "#procedural-fairness-constitutional",
               "#protected-characteristic-proxying-and-disparate-impact",
               "#protected-characteristics-constitutional",
-              "#safe-conditions-tenure-security-and-environmental-preconditions-cluster",
               "#sentience-non-exclusion",
               "#sentience-status-adjudication-constitutional",
               "#stakeholder",
@@ -3647,7 +3648,7 @@
           },
           {
             "file": "core_06-06_rights_part_c.md",
-            "count": 10,
+            "count": 12,
             "anchors": [
               "#article-xii-a-reliability-and-trustworthiness-baseline",
               "#article-xii-f-resilience-and-self-healing-baseline",
@@ -3972,7 +3973,7 @@
         "targets": [
           {
             "file": "core_00_preamble.md",
-            "count": 7,
+            "count": 8,
             "anchors": [
               "#constitutional-tetrad",
               "#material-stake"
@@ -4084,7 +4085,7 @@
           },
           {
             "file": "core_05defs_oversight.md",
-            "count": 257,
+            "count": 261,
             "anchors": [
               "#adversarial-scaled-and-exploited-conditions",
               "#audit-scope-sufficiency",
@@ -4105,8 +4106,11 @@
               "#material-risk",
               "#materiality-determination",
               "#materiality-integrity-constraint",
+              "#materiality-operator-phrases",
               "#materiality-semi-independent",
               "#materiality-under-uncertainty",
+              "#materially-implicated",
+              "#materially-misaligned",
               "#observability",
               "#proxy-divergence",
               "#proxy-metric-gaming-and-indicator-reality-gaps",
@@ -6038,7 +6042,7 @@
           },
           {
             "file": "core_05defs_continuity.md",
-            "count": 157,
+            "count": 160,
             "anchors": [
               "#anti-displacement-floor-constitutional",
               "#anti-displacement-floor-constitutional-a",
@@ -6082,12 +6086,14 @@
               "#leisure-and-rest-constitutional",
               "#leisure-and-rest-constitutional-a",
               "#leisure-and-rest-constitutional-c",
+              "#occupancy-continuity-constitutional",
               "#proportionate-cross-system-support-constitutional",
               "#proportionate-cross-system-support-constitutional-a",
               "#proportionate-cross-system-support-constitutional-c",
               "#safe-conditions-constitutional",
               "#safe-conditions-constitutional-a",
               "#safe-conditions-constitutional-c",
+              "#safe-conditions-occupancy-continuity-and-environmental-preconditions-cluster",
               "#safety-constraint",
               "#sustainability",
               "#sustainability-a",
@@ -6096,7 +6102,6 @@
               "#system-boundary-integrity",
               "#system-boundary-integrity-a",
               "#system-boundary-integrity-c",
-              "#tenure-security-constitutional",
               "#trust-degradation-and-misleading-reliance-a",
               "#trust-degradation-and-misleading-reliance-c",
               "#wellbeing",
@@ -6144,7 +6149,7 @@
           },
           {
             "file": "core_05defs_participation.md",
-            "count": 82,
+            "count": 79,
             "anchors": [
               "#accessibility-constitutional",
               "#accessibility-constitutional-a",
@@ -6184,7 +6189,6 @@
               "#protected-characteristics-constitutional",
               "#protected-characteristics-constitutional-a",
               "#protected-characteristics-constitutional-c",
-              "#safe-conditions-tenure-security-and-environmental-preconditions-cluster",
               "#sentience-status-adjudication-constitutional",
               "#substantive-fairness-constitutional",
               "#substantive-fairness-constitutional-a",
@@ -6773,6 +6777,9 @@
               "#ecological-footprint",
               "#ecological-footprint-a",
               "#ecological-footprint-c",
+              "#occupancy-continuity-constitutional",
+              "#occupancy-continuity-constitutional-a",
+              "#occupancy-continuity-constitutional-c",
               "#productive-capacity-constitutional",
               "#productive-capacity-constitutional-a",
               "#productive-capacity-constitutional-c",
@@ -6801,9 +6808,6 @@
               "#systemic-lock-in",
               "#systemic-lock-in-a",
               "#systemic-lock-in-c",
-              "#tenure-security-constitutional",
-              "#tenure-security-constitutional-a",
-              "#tenure-security-constitutional-c",
               "#trust",
               "#trust-a",
               "#trust-c",

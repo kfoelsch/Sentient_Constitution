@@ -46,7 +46,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Owner floor: [Article III-A](core_06-06_rights_part_a.md#article-iii-a-survival) (*Survival*) *Protection against arbitrary eviction and essential-environment non-commodification* sub-bullet. Cross-reference: [Article XXVI-D](core_06-06_rights_part_d.md#article-xxvi-d-non-compliant-property-and-systems-voluntary-turnover-incentives) (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) transitional-stewardship discipline.
-- Read with: [Tenure Security](core_05defs_continuity.md#tenure-security-constitutional), [Environmental Preconditions](core_05defs_continuity.md#environmental-preconditions-constitutional), [Substantive Fairness](core_05defs_participation.md#substantive-fairness-constitutional), [Protected Characteristics](core_05defs_participation.md#protected-characteristics-constitutional), [Protected Characteristic Proxying and Disparate Impact](core_05defs_participation.md#protected-characteristic-proxying-and-disparate-impact), [Necessity](core_05defs_accountability.md#necessity), and [Proportionality](core_05defs_accountability.md#proportionality).
+- Read with: [Occupancy Continuity](core_05defs_continuity.md#occupancy-continuity-constitutional), [Environmental Preconditions](core_05defs_continuity.md#environmental-preconditions-constitutional), [Substantive Fairness](core_05defs_participation.md#substantive-fairness-constitutional), [Protected Characteristics](core_05defs_participation.md#protected-characteristics-constitutional), [Protected Characteristic Proxying and Disparate Impact](core_05defs_participation.md#protected-characteristic-proxying-and-disparate-impact), [Necessity](core_05defs_accountability.md#necessity), and [Proportionality](core_05defs_accountability.md#proportionality).
 
 </details>
 
@@ -75,7 +75,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
   - **Primary failure:**
     - commodification pressure whose effect defeats essential-environment access at materially implicated scale, regardless of market-structuring framing;
     - substrate-class schemes that defeat synthetic-hosting or compute-tenancy access ([Sentience Non-Exclusion](core_05defs_participation.md#sentience-non-exclusion));
-    - reading this entry to displace [Tenure Security](core_05defs_continuity.md#tenure-security-constitutional) procedural discipline or to license intrusion contrary to **Article VII-A** (*Self-Ownership of Body and Mind*) or VII-B.
+    - reading this entry to displace [Occupancy Continuity](core_05defs_continuity.md#occupancy-continuity-constitutional) procedural discipline or to license intrusion contrary to **Article VII-A** (*Self-Ownership of Body and Mind*) or VII-B.
 
 ---
 
@@ -524,7 +524,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 - Owner floor: [Article I-A](core_06-06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*Environmental Preconditions and Ecological Integrity*) for environmental preconditions and ecological integrity.
 - Cluster component: [Chapter Five §3.32 *Resilience, Safety, Reversibility, Self-Healing, Cascading Failure, Existential Risk, Environmental Preconditions, and Wellbeing*](core_05defs_continuity.md#resilience-safety-reversibility-self-healing-and-systemic-harm-cluster)
 - Cluster component: [Ecological Integrity, Footprint, and Sustainability](core_05defs_continuity.md#ecological-footprint-semi-independent).
-- Read with: [Bodily-Maintenance Access, Tenure Security, Environmental Preconditions, Cultural Continuity, and Anti-Displacement Floor](core_05defs_participation.md#safe-conditions-tenure-security-and-environmental-preconditions-cluster) (Safe Conditions and Rest now in Section 3.5 Labor and Economic Floor cluster), where survival-floor routing materially applies.
+- Read with: [Bodily-Maintenance Access, Occupancy Continuity, Environmental Preconditions, Cultural Continuity, and Anti-Displacement Floor](core_05defs_continuity.md#safe-conditions-occupancy-continuity-and-environmental-preconditions-cluster) (Safe Conditions and Rest now in Section 3.5 Labor and Economic Floor cluster), where survival-floor routing materially applies.
 
 </details>
 
@@ -2362,18 +2362,21 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 
 ---
 
-#### Survival-floor continuity: bodily maintenance, tenure, and environment
+<a id="safe-conditions-tenure-security-and-environmental-preconditions-cluster"></a>
+<a id="safe-conditions-occupancy-continuity-and-environmental-preconditions-cluster"></a>
+
+#### Survival-floor continuity: bodily maintenance, occupancy, and environment
 
 **Semi-independent context** (component definitions may still operate outside joint-invocation scope):
 
 - **Scope:** the foundational conditions that preserve sentient life, function, and capacity for agency — the survival-floor stack.
-- **Joint invocation:** where bodily-maintenance access, tenure or essential-environment stability, and environmental preconditions are materially interdependent as survival-floor conditions.
+- **Joint invocation:** where bodily-maintenance access, occupancy continuity or essential-environment stability, and environmental preconditions are materially interdependent as survival-floor conditions.
 - **Owner floor:** implements [Article III](core_06-06_rights_part_a.md#article-iii-survival) (*Survival and Equal Educational Access*) (Survival Floor) and [Article I-A](core_06-06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*Environmental Preconditions and Ecological Integrity*).
 - **Cluster boundary:** [Safe Conditions](core_05defs_continuity.md#safe-conditions-constitutional) and [Leisure and Rest](core_05defs_continuity.md#leisure-and-rest-constitutional) live in the [Labor and Economic Floor cluster](core_05defs_integrative.md#labor-and-economic-floor-cluster) in Section 3.5, where they participate in the joint-invocation home for **Article III-D** (*Labor and Economic Floor*) rights together with Fair Compensation and Collective Organization.
 
 **Topic group members.** This group comprises:
 - [Bodily-Maintenance Access](core_05defs_continuity.md#bodily-maintenance-access-constitutional) — healthcare and maintenance access necessary to preserve life, function, and dignity across substrates;
-- [Tenure Security](core_05defs_continuity.md#tenure-security-constitutional) — procedural and substantive stability of essential shelter and operating-environment relationships;
+- [Occupancy Continuity](core_05defs_continuity.md#occupancy-continuity-constitutional) — procedural and substantive stability of essential shelter and operating-environment relationships;
 - [Environmental Preconditions](core_05defs_continuity.md#environmental-preconditions-constitutional) — the biophysical conditions, including stable climate, functioning ecosystems, and clean air and water, on which sentient survival depends.
 
 *Measurements (family routing):* Flourishing measurement family and Continuity measurement family — operative tiers on the member definitions below; progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md).
@@ -2388,7 +2391,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 
 - Downstream: Principles: [3. Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing); [4. Non-Negotiable Constraints: Safety and Truth](core_01_a_values_principles.md#3-non-negotiable-constraints-safety-and-truth) (**Safety** stack read with survival-floor access).
 - Owner floor: [Article III-C](core_06-06_rights_part_a.md#article-iii-c-bodily-maintenance-and-healthcare-access) (*Bodily-Maintenance and Healthcare Access*); read with **Article VII-A** (*Self-Ownership of Body and Mind*) non-intrusion and **Article VII-C** (*Mental-Health Crisis and Involuntary-Intervention Floor*) involuntary-intervention floor.
-- Cluster component: [Bodily-Maintenance Access, Tenure Security, Environmental Preconditions, Cultural Continuity, and Anti-Displacement Floor](core_05defs_participation.md#safe-conditions-tenure-security-and-environmental-preconditions-cluster) where care access is materially tied to survival-floor continuity, tenure, essential operating environments, or environmental preconditions. (Safe Conditions and Rest now in Section 3.5 Labor and Economic Floor cluster.)
+- Cluster component: [Bodily-Maintenance Access, Occupancy Continuity, Environmental Preconditions, Cultural Continuity, and Anti-Displacement Floor](core_05defs_continuity.md#safe-conditions-occupancy-continuity-and-environmental-preconditions-cluster) where care access is materially tied to survival-floor continuity, occupancy continuity, essential operating environments, or environmental preconditions. (Safe Conditions and Rest now in Section 3.5 Labor and Economic Floor cluster.)
 
 </details>
 
@@ -2437,16 +2440,17 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 
 
 <a id="tenure-security-constitutional"></a>
+<a id="occupancy-continuity-constitutional"></a>
 
 ---
-#### Tenure Security
+#### Occupancy Continuity
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Principles: [3. Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing) (survival / shelter continuity); [§6.3.1 Rights-Collision Decision Test](#631-rights-collision-decision-test) (**Article XIX** (*Interoperability, Portability, Movement, Refuge, and Exit Integrity*) read-together noted in **O** line); [Chapter Seven §3 Whole-System Certification Evaluation](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (**Dependency** scaling).
 - Owner floor: [Article III-A](core_06-06_rights_part_a.md#article-iii-a-survival) (*Survival*) *Protection against arbitrary eviction and essential-environment non-commodification* sub-bullet. Cross-references: [Article XIX](core_06-06_rights_part_c.md#article-xix-interoperability-portability-and-exit-integrity) (*Interoperability, Portability, Movement, Refuge, and Exit Integrity*) interoperability / portability / exit-integrity (distinct but read-together), [Article XXVI-D](core_06-06_rights_part_d.md#article-xxvi-d-non-compliant-property-and-systems-voluntary-turnover-incentives) (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) transitional-stewardship.
-- Cluster component: [Bodily-Maintenance Access, Tenure Security, Environmental Preconditions, Cultural Continuity, and Anti-Displacement Floor](core_05defs_participation.md#safe-conditions-tenure-security-and-environmental-preconditions-cluster) (now consolidated with Safe Conditions and Rest/Leisure and Rest in the Section 3.5 Labor and Economic Floor cluster).
+- Cluster component: [Bodily-Maintenance Access, Occupancy Continuity, Environmental Preconditions, Cultural Continuity, and Anti-Displacement Floor](core_05defs_continuity.md#safe-conditions-occupancy-continuity-and-environmental-preconditions-cluster) (now consolidated with Safe Conditions and Rest/Leisure and Rest in the Section 3.5 Labor and Economic Floor cluster).
 - Read with: [Essential-Environment Non-Commodification](core_05defs_continuity.md#essential-environment-non-commodification-constitutional), [Procedural Fairness](core_05defs_participation.md#procedural-fairness-constitutional), [Necessity](core_05defs_accountability.md#necessity), [Proportionality](core_05defs_accountability.md#proportionality), [Meaningful Agency](core_05defs_participation.md#meaningful-agency), [Dependency](core_05defs_continuity.md#dependency), and [Sentience Non-Exclusion](core_05defs_participation.md#sentience-non-exclusion).
 
 </details>
@@ -2461,22 +2465,23 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - comparable substrate-agnostic arrangements for synthetic and hybrid sentients.
 
     Eviction, displacement, or termination of a covered relationship must:
-    - rest on an individualized predicate under [Procedural Fairness](core_05defs_participation.md#procedural-fairness-constitutional);
+    - be based on a concrete, case-specific reason about that sentient under [Procedural Fairness](core_05defs_participation.md#procedural-fairness-constitutional);
     - reach the sentient with meaningful notice and contest opportunity; and
     - satisfy [Necessity](core_05defs_accountability.md#necessity) and [Proportionality](core_05defs_accountability.md#proportionality).
 
-    Tenure Security also encompasses environments that are safe, clean, and pleasant to the senses — free from hazards, contamination, and conditions that materially degrade sensory experience or bodily integrity.
+    Occupancy Continuity also encompasses environments that are safe, clean, and pleasant to the senses — free from hazards, contamination, and conditions that materially degrade sensory experience or bodily integrity.
   - **Out of scope:**
     - ordinary voluntary relocation initiated by the sentient; and
     - ordinary modifications within a continuing essential-environment relationship.
 <a id="tenure-security-constitutional-a"></a>
+<a id="occupancy-continuity-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Flourishing measurement family — primary owner for tenure security within the survival-floor stack.
+  - **Primary measure:** Flourishing measurement family — primary owner for occupancy continuity within the survival-floor stack.
 
-    **Primary assessment:** Reach substantive effect on continuity of essential-environment access, not only the form of the terminating instrument. Detect:
+    **Primary assessment:** Judge what actually happens to the sentient's continued access to essential shelter or operating environment — not only how the ending paperwork is labeled. Watch for:
     - termination routes dressed as ordinary contractual exit that in substance defeat the continuity interest;
     - notice that is formally issued but does not reach the sentient in time to contest;
-    - individualized predicate replaced by class-wide, automated, or capacity-management termination criteria; and
+    - a concrete, case-specific reason replaced by blanket, automated, or capacity-management termination rules; and
     - modifications presented as ordinary within a continuing relationship whose cumulative effect is displacement.
   - **Secondary measure:** co-measures that can defeat continuity even when formal contracts exist:
     - [Procedural Fairness](core_05defs_participation.md#procedural-fairness-constitutional);
@@ -2486,9 +2491,12 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 
     **Secondary assessment:** When evaluating the primary trace, apply [Protected Characteristic Proxying and Disparate Impact](core_05defs_participation.md#protected-characteristic-proxying-and-disparate-impact) and [Dependency](core_05defs_continuity.md#dependency) scaling where the sentient materially depends on the particular substrate or compute environment for continued participation.
 <a id="tenure-security-constitutional-c"></a>
+<a id="occupancy-continuity-constitutional-c"></a>
 - **What must hold**
-  - **Primary failure:** eviction, displacement, or termination of an essential-environment relationship without individualized predicate, meaningful notice, and contest opportunity.
-  - **Secondary failure:** substrate-class-specific termination framings that defeat continuity on substrate-class grounds alone ([Sentience Non-Exclusion](core_05defs_participation.md#sentience-non-exclusion)); reading this entry as displaced by [Article XIX](core_06-06_rights_part_c.md#article-xix-interoperability-portability-and-exit-integrity) (*Interoperability, Portability, Movement, Refuge, and Exit Integrity*) mechanics without collision resolution under [Chapter One §6.3.1](core_01_b_interaction_interpretation.md#631-rights-collision-decision-test).
+  - **Primary failure:** eviction, displacement, or ending of an essential shelter or operating-environment relationship without a concrete, case-specific reason, meaningful notice, and a real chance to contest.
+  - **Secondary failure:**
+    - ending occupancy just because of the sentient's substrate class ([Sentience Non-Exclusion](core_05defs_participation.md#sentience-non-exclusion)); or
+    - treating this entry as overridden by [Article XIX](core_06-06_rights_part_c.md#article-xix-interoperability-portability-and-exit-integrity) (*Interoperability, Portability, Movement, Refuge, and Exit Integrity*) mechanics without resolving the collision under [Chapter One §6.3.1](core_01_b_interaction_interpretation.md#631-rights-collision-decision-test).
 
 
 <a id="indigenous-continuity-language-culture-heritage-semi-independent"></a>
@@ -2521,7 +2529,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 
 - Downstream: Principles: [3. Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing); [Chapter Seven §3 Whole-System Certification Evaluation](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (community continuity / cumulative effects).
 - Owner floors: [Article V-B](core_06-06_rights_part_b.md#article-v-b-nondiscrimination) (*nondiscrimination and language / culture / heritage protection*) and [Article I-A](core_06-06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*territorial / ecosystem-integrity precondition*). Interaction pointers: [Article XIX-D](core_06-06_rights_part_c.md#article-xix-d-movement-migration-refuge-and-non-statelessness) (*refuge / non-statelessness*); [Chapter Sixteen](core_16-16_incorporation.md) (*adopter-jurisdiction discipline and Chapter Thirteen non-regression*).
-- Cluster component: [Bodily-Maintenance Access, Tenure Security, Environmental Preconditions, Cultural Continuity, and Anti-Displacement Floor](core_05defs_participation.md#safe-conditions-tenure-security-and-environmental-preconditions-cluster) where community continuity is materially tied to place, ecosystem, tenure, bodily-maintenance access, or participation capacity. (Safe Conditions and Rest now in Section 3.5 Labor and Economic Floor cluster.)
+- Cluster component: [Bodily-Maintenance Access, Occupancy Continuity, Environmental Preconditions, Cultural Continuity, and Anti-Displacement Floor](core_05defs_continuity.md#safe-conditions-occupancy-continuity-and-environmental-preconditions-cluster) where community continuity is materially tied to place, ecosystem, occupancy continuity, bodily-maintenance access, or participation capacity. (Safe Conditions and Rest now in Section 3.5 Labor and Economic Floor cluster.)
 - Cluster component: [the dependent cluster *Indigenous Continuity, Language Culture and Heritage, Natural Systems Standing, and Intergenerational Responsibility*](core_05defs_continuity.md#indigenous-continuity-language-culture-heritage-semi-independent) (*joint invocation across indigenous continuity, language / culture / heritage, natural-systems standing, and intergenerational responsibility*).
 - Read with: [Language, Culture, and Heritage](core_05defs_continuity.md#language-culture-and-heritage-constitutional), [Protected Characteristics](core_05defs_participation.md#protected-characteristics-constitutional), [Protected Characteristic Proxying and Disparate Impact](core_05defs_participation.md#protected-characteristic-proxying-and-disparate-impact), [Substantive Fairness](core_05defs_participation.md#substantive-fairness-constitutional), [Intergenerational Responsibility](core_05defs_continuity.md#intergenerational-responsibility-constitutional), [Natural Systems Standing](core_05defs_participation.md#natural-systems-standing), [Ecological Integrity](core_05defs_continuity.md#ecological-integrity-constitutional), [Environmental Preconditions](core_05defs_continuity.md#environmental-preconditions-constitutional), [Sentience Non-Exclusion](core_05defs_participation.md#sentience-non-exclusion), [Necessity](core_05defs_accountability.md#necessity), and [Proportionality](core_05defs_accountability.md#proportionality).
 
@@ -2582,7 +2590,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 
 - Downstream: Principles: [3. Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing); [§5.1 Limitation Discipline](core_01_a_values_principles.md#51-limitation-discipline) (nondiscrimination limitations tests).
 - Owner floor: [Article V-B](core_06-06_rights_part_b.md#article-v-b-nondiscrimination) (*Nondiscrimination*).
-- Cluster component: [Bodily-Maintenance Access, Tenure Security, Environmental Preconditions, Cultural Continuity, and Anti-Displacement Floor](core_05defs_participation.md#safe-conditions-tenure-security-and-environmental-preconditions-cluster) where language, culture, or heritage continuity is materially tied to place, ecosystem, tenure, bodily-maintenance access, or participation capacity. (Safe Conditions and Rest now in Section 3.5 Labor and Economic Floor cluster.)
+- Cluster component: [Bodily-Maintenance Access, Occupancy Continuity, Environmental Preconditions, Cultural Continuity, and Anti-Displacement Floor](core_05defs_continuity.md#safe-conditions-occupancy-continuity-and-environmental-preconditions-cluster) where language, culture, or heritage continuity is materially tied to place, ecosystem, occupancy continuity, bodily-maintenance access, or participation capacity. (Safe Conditions and Rest now in Section 3.5 Labor and Economic Floor cluster.)
 - Cluster component: [the dependent cluster *Indigenous Continuity, Language Culture and Heritage, Natural Systems Standing, and Intergenerational Responsibility*](core_05defs_continuity.md#indigenous-continuity-language-culture-heritage-semi-independent).
 - Read with: [Protected Characteristics](core_05defs_participation.md#protected-characteristics-constitutional), [Substantive Fairness](core_05defs_participation.md#substantive-fairness-constitutional), [Necessity](core_05defs_accountability.md#necessity), [Proportionality](core_05defs_accountability.md#proportionality), [Intergenerational Responsibility](core_05defs_continuity.md#intergenerational-responsibility-constitutional), [Indigenous Continuity](core_05defs_continuity.md#indigenous-continuity-constitutional), [Meaningful Agency](core_05defs_participation.md#meaningful-agency), and [Sentience Non-Exclusion](core_05defs_participation.md#sentience-non-exclusion).
 
