@@ -181,6 +181,15 @@ This band holds definitions under the **Oversight** Tetrad leg — transparency,
 
 **Semi-independent context** (component definitions may still operate outside joint-invocation scope): This topic group establishes the assessment framework for determining when effects rise to constitutional significance and ensuring metric-reality alignment. [Material](core_05defs_oversight.md#material), [Material Impact](core_05defs_oversight.md#material-impact), [Material Risk](core_05defs_oversight.md#material-risk), and [Material Degradation](core_05defs_oversight.md#material-degradation) define scope, scale, and severity thresholds. [Materiality Determination](core_05defs_oversight.md#materiality-determination) provides the classification methodology. [Materiality Integrity Constraint](core_05defs_oversight.md#materiality-integrity-constraint) prohibits structural manipulation of system boundaries to defeat materiality analysis. [Materiality Under Uncertainty](core_05defs_oversight.md#materiality-under-uncertainty) establishes precautionary default behavior. [Proxy Divergence](core_05defs_oversight.md#proxy-divergence) identifies gaps between metrics and reality, while [Proxy Metric Gaming and Indicator-Reality Gaps](core_05defs_oversight.md#proxy-metric-gaming-and-indicator-reality-gaps) captures conduct that manipulates indicators while underlying conditions degrade. These definitions ensure evaluation rests on substantive effects rather than manipulable proxies.
 
+<a id="materiality-operator-phrases"></a>
+
+**Operator phrases** (owned under [Materiality Determination](core_05defs_oversight.md#materiality-determination); used corpus-wide):
+
+- **[materially implicated](core_05defs_oversight.md#materially-implicated)** — this duty, measure, or topic is *on the table* for the case because the stake is material.
+- **[materially misaligned](core_05defs_oversight.md#materially-misaligned)** / **constitutional misalignment** — conduct or structure is *out of constitutional alignment* at a material scale.
+
+Implication can exist without misalignment. Misalignment always implies material implication.
+
 **Topic group members.** This group comprises:
 - [Material](core_05defs_oversight.md#material);
 - [Materiality Determination](core_05defs_oversight.md#materiality-determination);
@@ -240,6 +249,22 @@ This band holds definitions under the **Oversight** Tetrad leg — transparency,
 </details>
 
 <br>
+
+*In plain terms: the method for deciding whether an impact or risk is constitutionally material — big enough in stake to change governance, oversight, or capability requirements — looking at the whole system, not just isolated pieces.*
+
+<a id="materially-implicated"></a>
+<a id="materially-misaligned"></a>
+
+**Operator phrases** (corpus-wide reading aids owned here; see also [cluster note](core_05defs_oversight.md#materiality-operator-phrases)):
+
+- **materially implicated**
+  - **In scope:** A scope trigger — a duty, measure, definition, or topic is *on the table* for the case because [material stake](core_00_preamble.md#material-stake) makes it matter. Example sense: “apply Consent where Consent is materially implicated.”
+  - **Out of scope:** a finding that conduct already fails constitutional alignment; mere topical mention without material stake.
+- **materially misaligned** / **constitutional misalignment**
+  - **In scope:** An alignment finding — conduct or structure is *out of constitutional alignment* at a material scale under the governing duties and aims.
+  - **Out of scope:** ordinary disagreement, sub-threshold friction, or scope-trigger language that only identifies what is in play.
+
+Relationship: a matter can be materially implicated without being materially misaligned. Material misalignment always implies material implication.
 
 - O: Classification of [Material Impact](core_05defs_oversight.md#material-impact) or [Material Risk](core_05defs_oversight.md#material-risk) as material.
   - In scope: classification decisions determining whether [Material Impact](core_05defs_oversight.md#material-impact) or [Material Risk](core_05defs_oversight.md#material-risk) is constitutionally material under full functional system scope, including [Systemic Materiality](core_05defs_accountability.md#systemic-materiality).
