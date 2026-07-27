@@ -58,7 +58,7 @@ This band holds definitions under the **Oversight** Tetrad leg — transparency,
   - **Out of scope:** Ordinary benign use, ideal-lab testing, or one-off misuse anecdotes treated as a stand-in for pressure, scale, cross-instance coordination, or deliberate exploitation.
 <a id="adversarial-scaled-and-exploited-conditions-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Oversight measurement family — supporting measure under the oversight measurement family.
+  - **Primary measure:** Oversight measurement family — supporting measure.
 
     **Primary assessment:** Include plausible strategies of misuse, coordination, scaling, and adaptive response that could reasonably emerge given system incentives, access, and capabilities, read together with [Risk](core_05defs_continuity.md#risk) and [Dependency](core_05defs_continuity.md#dependency).
 <a id="adversarial-scaled-and-exploited-conditions-c"></a>
@@ -86,7 +86,7 @@ This band holds definitions under the **Oversight** Tetrad leg — transparency,
   - **Out of scope:** A claimed, documented, or planned capability that does not actually achieve the required outcome in practice.
 <a id="capability-requirement-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Oversight measurement family — supporting measure under the oversight measurement family.
+  - **Primary measure:** Oversight measurement family — supporting measure.
 
     **Primary assessment:** Assess capability by demonstrated functional properties, not declared design or intended behavior. The showing must support [Transparency](core_05defs_oversight.md#transparency) and external evaluation of [Material Impact](core_05defs_oversight.md#material-impact).
 <a id="capability-requirement-c"></a>
@@ -117,7 +117,7 @@ This band holds definitions under the **Oversight** Tetrad leg — transparency,
   - **Out of scope:** One-size governance intensity, or a classification that does not match the system's real stake, impact, dependency, or risk.
 <a id="classification-scaled-governance-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Oversight measurement family — supporting measure under the oversight measurement family.
+  - **Primary measure:** Oversight measurement family — supporting measure.
 
     **Primary assessment:** Apply the operative classification under implementation file rules together with [Materiality Determination](core_05defs_oversight.md#materiality-determination) and [System Boundary Integrity](core_05defs_continuity.md#system-boundary-integrity). Self-assigned or informal low classification is not sufficient where full functional effects warrant higher [Oversight](core_05apex_oversight_leg.md#oversight-constitutional) or governance. Whole-system evaluation under [Chapter Seven §3 Whole-System Certification Evaluation](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) scales by class: mandatory at full depth for **Class A**, **Class B**, and **Class C**; mandatory but proportionate for **Class L**; encouraged for **Class P** while validly **Class P**.
 <a id="classification-scaled-governance-c"></a>
@@ -146,7 +146,7 @@ This band holds definitions under the **Oversight** Tetrad leg — transparency,
   - **Out of scope:** Press credentials, institutional titles, or ordinary commercial speech treated as journalism without newsgathering, investigation, or publication that functions as journalism.
 <a id="press-and-journalistic-activity-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Oversight measurement family — supporting measure under the oversight measurement family.
+  - **Primary measure:** Oversight measurement family — supporting measure.
 
     **Primary assessment:** Identify journalistic activity by function — newsgathering, source protection, investigation, or publication serving the information environment — not by credential, title, organizational form, or institutional status. Detect press-directed actions via substantive effect, treating press-directed character as an aggravating factor under **Article XIII-A** (*Security, Intelligence, and Covert-Power Limits*) and **Article V-H** (*Expression, Assembly, and Press*). Apply heightened [Necessity](core_05defs_accountability.md#necessity) and [Proportionality](core_05defs_accountability.md#proportionality) scrutiny and narrow-tailoring discipline.
 <a id="press-and-journalistic-activity-constitutional-c"></a>
@@ -164,7 +164,7 @@ This band holds definitions under the **Oversight** Tetrad leg — transparency,
   - **Out of scope:** A risk checklist, internal-only note, or after-the-fact statement that does not actually evaluate and communicate systemic risk to those who need it.
 <a id="risk-evaluation-and-disclosure-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Oversight measurement family — supporting measure under the oversight measurement family.
+  - **Primary measure:** Oversight measurement family — supporting measure.
 
     **Primary assessment:** Include [Dependency](core_05defs_continuity.md#dependency), time horizons, and [Adversarial, Scaled, and Exploited Conditions](core_05defs_oversight.md#adversarial-scaled-and-exploited-conditions).
 <a id="risk-evaluation-and-disclosure-c"></a>
@@ -472,7 +472,7 @@ Relationship: a matter can be materially implicated without being materially mis
   - **Out of scope:** Honest metric improvement that tracks real outcomes, or a detected proxy gap without conduct that games, preserves, or designs the indicator to look good while reality worsens.
 <a id="proxy-metric-gaming-and-indicator-reality-gaps-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Oversight measurement family — supporting measure under the oversight measurement family.
+  - **Primary measure:** Oversight measurement family — supporting measure.
 
     **Primary assessment:** Look for dashboard optimization, threshold gaming, selective sampling, denominator manipulation, excluded populations, automated score improvement, model reward hacking, compliance theater, and narrative substitution. A metric is not reliable where it cannot be traced to observed material outcomes or where incentives predictably sever it from those outcomes.
 <a id="proxy-metric-gaming-and-indicator-reality-gaps-c"></a>
@@ -619,7 +619,7 @@ while defeating practical reconstructability, contestability, or proportionate a
   - **Out of scope:** A single snapshot, happy-path sample, or narrow window that leaves out material times, states, or interaction contexts.
 <a id="audit-scope-sufficiency-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Oversight measurement family — supporting measure under the oversight measurement family.
+  - **Primary measure:** Oversight measurement family — supporting measure.
 
     **Primary assessment:** Detect material failures, [Risk](core_05defs_continuity.md#risk), and constitutional misalignment across [System Boundaries](core_05defs_continuity.md#system-boundaries), operating states, and [Adversarial, Scaled, and Exploited Conditions](core_05defs_oversight.md#adversarial-scaled-and-exploited-conditions).
 <a id="audit-scope-sufficiency-c"></a>
@@ -683,7 +683,7 @@ while defeating practical reconstructability, contestability, or proportionate a
   - **Out of scope:** Ordinary operational retention or backup that does not secure, maintain, and make reviewably available the material needed for review, contest, remedy, or standing measurement.
 <a id="evidence-preservation-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Oversight measurement family — supporting measure under the oversight measurement family.
+  - **Primary measure:** Oversight measurement family — supporting measure.
 
     **Primary assessment:** Preservation must be prompt, proportionate to materiality and risk, custody-traceable, tamper-evident where feasible, and protective of privacy, safety, security, and protected reporting. It includes preventing deletion, alteration, selective retention, access obstruction, or loss of reconstructability once a material constitutional issue is reasonably known or should be known.
 <a id="evidence-preservation-c"></a>
@@ -698,7 +698,7 @@ while defeating practical reconstructability, contestability, or proportionate a
   - **Out of scope:** Selective demo scenarios or marketing test suites treated as complete evaluation while skipping plausible failure, misuse, interaction, or adversarial pathways.
 <a id="evaluation-completeness-constraint-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Oversight measurement family — supporting measure under the oversight measurement family.
+  - **Primary measure:** Oversight measurement family — supporting measure.
 
     **Primary assessment:** Demonstrate sufficient coverage of plausible failure, misuse, and interaction pathways, proportional to system impact, [Dependency](core_05defs_continuity.md#dependency), and [Risk](core_05defs_continuity.md#risk), including [Adversarial, Scaled, and Exploited Conditions](core_05defs_oversight.md#adversarial-scaled-and-exploited-conditions) where material.
 <a id="evaluation-completeness-constraint-c"></a>
@@ -715,7 +715,7 @@ while defeating practical reconstructability, contestability, or proportionate a
   - **Out of scope:** Internal self-monitoring alone, or signals outsiders cannot detect or measure in ways usable for audit and verification.
 <a id="observability-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Oversight measurement family — supporting measure under the oversight measurement family.
+  - **Primary measure:** Oversight measurement family — supporting measure.
 
     **Primary assessment:** Include normal, degraded, and adversarial conditions consistent with [Auditability](core_05defs_oversight.md#auditability) and [Reasonably Foreseeable](core_05defs_oversight.md#reasonably-foreseeable) operating contexts.
 <a id="observability-c"></a>
@@ -746,7 +746,7 @@ while defeating practical reconstructability, contestability, or proportionate a
   - **Out of scope:** A theoretical right to verify, or a channel that exists only on paper for stakeholders who cannot actually use it.
 <a id="verification-accessibility-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Oversight measurement family — supporting measure under the oversight measurement family.
+  - **Primary measure:** Oversight measurement family — supporting measure.
 
     **Primary assessment:** Consider proportional access and [Feasibility](core_05defs_accountability.md#feasibility).
 <a id="verification-accessibility-c"></a>
@@ -760,7 +760,7 @@ while defeating practical reconstructability, contestability, or proportionate a
   - **Out of scope:** Mechanisms that work only in theory, or that demand impractical cost, tools, or conditions.
 <a id="verification-feasibility-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Oversight measurement family — supporting measure under the oversight measurement family.
+  - **Primary measure:** Oversight measurement family — supporting measure.
 
     **Primary assessment:** Reject inaccessible or impractical verification, including where [Verification Accessibility](core_05apex_oversight_leg.md#verification-accessibility) is absent in practice.
 <a id="verification-feasibility-c"></a>
@@ -773,7 +773,7 @@ while defeating practical reconstructability, contestability, or proportionate a
   - **Out of scope:** Validation that still rests on internal claims, inferred intent, or the operator's own assurances.
 <a id="verification-independence-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Oversight measurement family — supporting measure under the oversight measurement family.
+  - **Primary measure:** Oversight measurement family — supporting measure.
 
     **Primary assessment:** Rely on externally observable evidence.
 <a id="verification-independence-c"></a>
@@ -787,7 +787,7 @@ while defeating practical reconstructability, contestability, or proportionate a
   - **Out of scope:** Extreme verification burden for low-impact systems, or token verification for high-impact ones.
 <a id="verification-proportionality-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Oversight measurement family — supporting measure under the oversight measurement family.
+  - **Primary measure:** Oversight measurement family — supporting measure.
 
     **Primary assessment:** Detect disproportionate requirements under [Proportionality](core_05defs_accountability.md#proportionality).
 <a id="verification-proportionality-c"></a>
@@ -801,7 +801,7 @@ while defeating practical reconstructability, contestability, or proportionate a
   - **Out of scope:** Verification that works only under ideal or cooperative conditions and fails under ordinary stress, misuse, or adversarial pressure.
 <a id="verification-robustness-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Oversight measurement family — supporting measure under the oversight measurement family.
+  - **Primary measure:** Oversight measurement family — supporting measure.
 
     **Primary assessment:** Include degraded and adversarial conditions, including [Reasonably Foreseeable](core_05defs_oversight.md#reasonably-foreseeable) stressors and [Adversarial, Scaled, and Exploited Conditions](core_05defs_oversight.md#adversarial-scaled-and-exploited-conditions).
 <a id="verification-robustness-c"></a>
@@ -855,7 +855,7 @@ This cluster is the canonical O/M/A/C home for **Truth (Constitutional Constrain
   - **Out of scope:** Opinion, commentary, satire, or good-faith error that is not presented as a factual assertion.
 <a id="publication-truthfulness-and-recklessness-floor-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Oversight measurement family — supporting measure under the oversight measurement family.
+  - **Primary measure:** Oversight measurement family — supporting measure.
 
     **Primary assessment:** Distinguish knowing falsity, or reckless disregard for accuracy, uncertainty, context, or material interpretive limits, from good-faith observation and bounded interpretation, under [Truth (Constitutional Constraint)](core_05defs_oversight.md#truth-constitutional-constraint) and [Good Faith](core_05defs_accountability.md#good-faith).
 <a id="publication-truthfulness-and-recklessness-floor-c"></a>
@@ -884,7 +884,7 @@ This cluster is the canonical O/M/A/C home for **Truth (Constitutional Constrain
   - **Out of scope:** Ordinary true reporting without a foreseeable systemic-harm or harmful-coordination pathway, or ordinary truthfulness disputes under the recklessness floor.
 <a id="high-impact-and-systemic-harm-publication-constraint-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Oversight measurement family — supporting measure under the oversight measurement family.
+  - **Primary measure:** Oversight measurement family — supporting measure.
 
     **Primary assessment:** Consider primary and [Reasonably Foreseeable](core_05defs_oversight.md#reasonably-foreseeable) effects on coordination, [Safety (Constraint)](core_05defs_continuity.md#safety-constraint), exploitation of vulnerabilities, and [Info-Sphere](core_05defs_participation.md#info-sphere) integrity.
 <a id="high-impact-and-systemic-harm-publication-constraint-c"></a>
@@ -993,7 +993,7 @@ This nested sub-block is the joint-invocation home for **Foreseeability Diligenc
   - **Out of scope:** Mere assertion that something was unforeseeable, without accepting the duty to justify that claim.
 <a id="foreseeability-burden-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Oversight measurement family — supporting measure under the oversight measurement family.
+  - **Primary measure:** Oversight measurement family — supporting measure.
 
     **Primary assessment:** Include [Auditability](core_05defs_oversight.md#auditability)-compatible analysis.
 <a id="foreseeability-burden-c"></a>
@@ -1007,7 +1007,7 @@ This nested sub-block is the joint-invocation home for **Foreseeability Diligenc
   - **Out of scope:** A checkbox analysis, unbounded speculative review, or the separate burden of justifying a non-foreseeability claim.
 <a id="foreseeability-diligence-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Oversight measurement family — supporting measure under the oversight measurement family.
+  - **Primary measure:** Oversight measurement family — supporting measure.
 
     **Primary assessment:** Include known methods and patterns for what is [Reasonably Foreseeable](core_05defs_oversight.md#reasonably-foreseeable), scaled to [Material Impact](core_05defs_oversight.md#material-impact), [Risk](core_05defs_continuity.md#risk), and [Dependency](core_05defs_continuity.md#dependency).
 <a id="foreseeability-diligence-c"></a>
@@ -1020,7 +1020,7 @@ This nested sub-block is the joint-invocation home for **Foreseeability Diligenc
   - **Out of scope:** Outcomes that remain unforeseeable after required diligence, or ordinary disagreement about analysis depth without failure to evaluate.
 <a id="foreseeability-failure-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Oversight measurement family — supporting measure under the oversight measurement family.
+  - **Primary measure:** Oversight measurement family — supporting measure.
 
     **Primary assessment:** Detect incompleteness.
 <a id="foreseeability-failure-c"></a>
@@ -1033,7 +1033,7 @@ This nested sub-block is the joint-invocation home for **Foreseeability Diligenc
   - **Out of scope:** Flat maximal analysis for every low-stakes case, or superficial analysis despite high impact.
 <a id="foreseeability-scaling-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Oversight measurement family — supporting measure under the oversight measurement family.
+  - **Primary measure:** Oversight measurement family — supporting measure.
 
     **Primary assessment:** Scale with [Material Impact](core_05defs_oversight.md#material-impact) and [Risk](core_05defs_continuity.md#risk).
 <a id="foreseeability-scaling-c"></a>
@@ -1046,7 +1046,7 @@ This nested sub-block is the joint-invocation home for **Foreseeability Diligenc
   - **Out of scope:** Optional research horizons, or self-serving exclusions that shrink below the required evaluation boundaries.
 <a id="foreseeability-scope-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Oversight measurement family — supporting measure under the oversight measurement family.
+  - **Primary measure:** Oversight measurement family — supporting measure.
 
     **Primary assessment:** Include interactions, [Dependency](core_05defs_continuity.md#dependency), adversarial use, and relevant [System Boundaries](core_05defs_continuity.md#system-boundaries).
 <a id="foreseeability-scope-c"></a>
@@ -1061,7 +1061,7 @@ This nested sub-block is the joint-invocation home for **Foreseeability Diligenc
   - **Out of scope:** Every conceivable outcome, pure hindsight, or results knowable only with knowledge or methods beyond reasonable diligence.
 <a id="reasonably-foreseeable-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Oversight measurement family — supporting measure under the oversight measurement family.
+  - **Primary measure:** Oversight measurement family — supporting measure.
 
     **Primary assessment:** Include adversarial and scaled conditions, including [Adversarial, Scaled, and Exploited Conditions](core_05defs_oversight.md#adversarial-scaled-and-exploited-conditions).
 <a id="reasonably-foreseeable-c"></a>

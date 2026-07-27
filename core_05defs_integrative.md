@@ -88,7 +88,7 @@ This band holds **Integrative** cross-leg definitions that require simultaneous 
   - **Out of scope:** Ordinary stakeholder consultation, operational participation, system use, branding, or market presence treated as authorization of governing authority; ordinary domain governance after structures and processes are already authorized.
 <a id="constitutional-contract-layer-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Accountability measurement family — supporting measure under the accountability measurement family.
+  - **Primary measure:** Accountability measurement family — supporting measure.
 
     **Primary assessment:** Identify this layer by function, not scale. Read [Preamble §4 governance-layer discipline](core_00_preamble.md#governance-layer-discipline). Reject framings that treat silence, usage alone, market presence, or branding as authorization.
 <a id="constitutional-contract-layer-c"></a>
@@ -121,7 +121,7 @@ This band holds **Integrative** cross-leg definitions that require simultaneous 
 <a id="foundational-constitutional-choice-a"></a>
 <a id="foundational-collective-choice-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Accountability measurement family — supporting measure under the accountability measurement family.
+  - **Primary measure:** Accountability measurement family — supporting measure.
 
     **Primary assessment:** Identify foundational constitutional choice by scope — the question's character as authorization or durable structuring of governing authority — not by marginal per-decision impact. Read [Preamble §4 governance-layer discipline](core_00_preamble.md#governance-layer-discipline). Foundational questions are not re-routable as high-impact weighted choices under [Stakeholder Representation and Participation-Weight Limits (Binding Stakeholder Choice)](core_05defs_participation.md#stakeholder-representation-and-participation-weight-limits-binding-collective-choice). Apply [Sentience Non-Exclusion](core_05defs_participation.md#sentience-non-exclusion). Reject substrate-class, calendar-age, or lineage participation-weight factors. Apply [Procedural Fairness](core_05defs_participation.md#procedural-fairness-constitutional) to any disqualification invoked against participation.
 <a id="foundational-constitutional-choice-c"></a>
@@ -158,7 +158,7 @@ This band holds **Integrative** cross-leg definitions that require simultaneous 
   - **Out of scope:** Mere proxy-score or compliance-indicator satisfaction when incentives still undermine constitutional outcomes; ordinary compensation or targets that do not predictably shape agent, operator, or component behavior.
 <a id="incentive-alignment-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Accountability measurement family — primary owner for incentive-alignment measurement within the accountability family.
+  - **Primary measure:** Accountability measurement family — primary owner for incentive-alignment measurement.
 
     **Primary assessment:** Assess alignment across delayed and aggregated effects, not only immediate or local outputs — including effects on [Risk](core_05defs_continuity.md#risk), [Harm](core_05defs_accountability.md#harm), and [Meaningful Agency](core_05defs_participation.md#meaningful-agency). Apply scope-specific routing on cluster children where materially implicated.
   - **Secondary measure:** [Wellbeing](core_05defs_continuity.md#wellbeing), [Safety (Constraint)](core_05defs_continuity.md#safety-constraint), [Epistemic Integrity](core_05defs_oversight.md#epistemic-integrity), and [Meaningful Agency](core_05defs_participation.md#meaningful-agency) — co-measures that can defeat alignment even when nominal targets appear satisfied.
@@ -263,7 +263,7 @@ This band holds **Integrative** cross-leg definitions that require simultaneous 
 <a id="innovation-reward-and-anti-enclosure-preference-for-non-monopoly-reward-tools-a"></a>
 <a id="innovation-reward-and-anti-enclosure-rebuttable-presumption-against-strong-exclusion-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Accountability measurement family — supporting measure under the accountability measurement family.
+  - **Primary measure:** Accountability measurement family — supporting measure.
 
     **Primary assessment:** Evaluate innovation-reward claims in this sequence:
     1. **Identify the actual contribution.** Assess development burden, disclosure sufficiency, and public benefit. Reward requires a real contribution and enough disclosure for independent understanding, audit, and later implementation—subject only to justified temporary limits.
@@ -409,7 +409,7 @@ This cluster is the joint-invocation home for operative corpus identity, authori
   - Out of scope: Shadow ownership, dual homes, or support-layer restatement that relocates a substantive domain away from its single Corpus owner home.
 *Measurements:*
 
-- **Primary:** Accountability measurement family — supporting measure under the accountability measurement family.
+- **Primary:** Accountability measurement family — supporting measure.
 
 <a id="constitutional-owner-layers-a"></a>
 - A: For any materially scoped obligation, first identify source status under the Authority Stack, then identify the owner row in this register. Apply substance only from the owner home; elsewhere use pointers only. Preserve the [Chapter Six](core_06-06_rights_part_a.md#chapter-six-foundational-rights) non-contraction default and [Chapter One — §2 Constitutional Interpretation](core_01_b_interaction_interpretation.md#8-constitutional-interpretation) integrated reading before invoking Internal Hierarchy. For implementation topics routed across CS, CI, CF, and CJS, apply **CJS-2.1** (Topic router) after owner identification. Apply Chapter Four burden, traceability, and verification requirements to any claim that owner boundaries were crossed.
@@ -463,7 +463,7 @@ This cluster is the joint-invocation home for operative corpus identity, authori
   - **Out of scope:** Optional guidance, aspirational norms, or policy preferences that do not determine validity of a constitutional claim, system action, or governance act.
 *Measurements:*
 
-- **Primary:** Accountability measurement family — supporting measure under the accountability measurement family.
+- **Primary:** Accountability measurement family — supporting measure.
 <a id="constitutional-constraint-a"></a>
 - A: Identify the constraint kind before applying it:
   - **Non-negotiable principle constraints:** [Safety (Constraint)](core_05defs_continuity.md#safety-constraint) and [Truth (Constitutional Constraint)](core_05defs_oversight.md#truth-constitutional-constraint) as Chapter One's non-negotiable boundaries.

@@ -1123,7 +1123,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
   - **Out of scope:** A market-structure label or formal arrangement that has no real effect in the situation being evaluated.
 <a id="market-structure-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Accountability measurement family — primary owner for market-structure measurement within the accountability family.
+  - **Primary measure:** Accountability measurement family — primary owner for market-structure measurement.
 
     **Primary assessment:** Assess real concentration, domination, and consolidation risk, not just the formal number of entities or whether a market appears open on paper.
   - **Secondary measure:** [Market Concentration Threshold](core_05defs_accountability.md#market-concentration-threshold-constitutional), [Contestability](core_05defs_accountability.md#contestability), [Meaningful Agency](core_05defs_participation.md#meaningful-agency), and [Dependency](core_05defs_continuity.md#dependency) — co-measures that can defeat contestability even when formal market openness exists.

@@ -125,9 +125,8 @@ def build_measurements_block(term: str, categories: list[str], aim_role: str) ->
             "Progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md)."
         )
     elif len(links) == 1:
-        _, _, short = CAT_META[sort_categories(categories)[0]]
         primary = (
-            f"- **Primary:** {links[0]} — supporting measure under the {short} measurement family."
+            f"- **Primary:** {links[0]} — supporting measure."
         )
     else:
         primary = (

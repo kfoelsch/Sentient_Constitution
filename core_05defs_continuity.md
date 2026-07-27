@@ -63,7 +63,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
   - **Out of scope:** ordinary voluntary-exchange mechanics operating above the survival-floor and outside essential-environment-access scope.
 <a id="essential-environment-non-commodification-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Continuity measurement family — supporting measure under the continuity measurement family.
+  - **Primary measure:** Continuity measurement family — supporting measure.
 
     **Primary assessment:** Reach substantive effect:
     - detect pricing, speculative reallocation, or comparable market-structured pressure that defeats essential-environment access at scale implicating the survival-floor;
@@ -91,7 +91,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
   - **Out of scope:** unmitigated primary risk still awaiting controls; leftover risk treated as closed merely because some mitigation was applied while scalable harm pathways remain.
 <a id="residual-risk--misalignment-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Continuity measurement family — supporting measure under the continuity measurement family.
+  - **Primary measure:** Continuity measurement family — supporting measure.
 
     **Primary assessment:** Ensure boundedness and non-escalation under [Safety (Constraint)](core_05defs_continuity.md#safety-constraint) and [Reversibility](core_05defs_continuity.md#reversibility-constitutional) where applicable.
 <a id="residual-risk--misalignment-c"></a>
@@ -122,7 +122,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
   - **Out of scope:** pressured or uninformed exit; third-party termination or irreversible deprivation measures; offering discontinuation as a substitute for required care or survival support.
 <a id="voluntary-discontinuation-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Continuity measurement family — supporting measure under the continuity measurement family.
+  - **Primary measure:** Continuity measurement family — supporting measure.
 
     **Primary assessment:** Verify genuine voluntariness:
     - adequate information, time, reviewability, and reversibility up to irreversible execution consistent with the reversibility-under-uncertainty rule;
@@ -207,7 +207,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
   - Canonical process, record contents, supervisory sequence, contestability chain, and standing-record bridge are stated in [Chapter Seven](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification); this entry is the Chapter Five meaning only.
 <a id="system-alignment-certification-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Continuity measurement family — supporting measure under the continuity measurement family.
+  - **Primary measure:** Continuity measurement family — supporting measure.
 
     **Primary assessment:** Evaluate whether:
     1. materially impactful alignment review ran through forum-supervised process under [Chapter Seven](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) and applicable [Chapter Eleven](core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) routing;
@@ -265,7 +265,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
   - Canonical record contents, integrity, supervisory sequence, standing-record bridge, and reopening triggers are stated in [Chapter Seven Part B](core_07_b_system_alignment_certification_record_process.md#11-certification-record); this entry is the Chapter Five meaning only.
 <a id="system-alignment-certification-record-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Continuity measurement family — supporting measure under the continuity measurement family.
+  - **Primary measure:** Continuity measurement family — supporting measure.
 
     **Primary assessment:** Evaluate whether:
     1. the record is scope-bound, time-bound, and contestable under Chapter Seven Part B;
@@ -606,7 +606,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
   - **Out of scope:** rollback, bounding, or containment claims that cannot actually restore, bound, or contain the affected state within feasible limits.
 <a id="reversibility-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Continuity measurement family — primary owner for reversibility measurement within the continuity family.
+  - **Primary measure:** Continuity measurement family — primary owner for reversibility measurement.
 
     **Primary assessment:** Assess recovery and containment under:
     - normal conditions;
@@ -1252,7 +1252,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - footprint or sustainability branding that obscures ecological deterioration.
 <a id="ecological-integrity-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Continuity measurement family — supporting measure under the continuity measurement family.
+  - **Primary measure:** Continuity measurement family — supporting measure.
 
     **Primary assessment:** Evaluate effects on ecosystems and dependent sentients that are:
     - direct;
@@ -1324,7 +1324,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - treating irreversible ecological recovery-capacity loss as ordinary localized impact.
 <a id="ecological-recovery-capacity-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Continuity measurement family — supporting measure under the continuity measurement family.
+  - **Primary measure:** Continuity measurement family — supporting measure.
 
     **Primary assessment:** Evaluate pathways to irreversible loss of ecological recovery capacity, including:
     - threshold crossings;
@@ -1461,7 +1461,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - harm shifted to other communities or future sentients under a sustainability label.
 <a id="sustainability-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Continuity measurement family — primary owner for sustainability measurement within the continuity family.
+  - **Primary measure:** Continuity measurement family — primary owner for sustainability measurement.
 
     **Primary assessment:** Test effects that are:
     - lifecycle;
@@ -1532,7 +1532,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - Rights-Floor loss for future sentients.
 <a id="intergenerational-responsibility-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Continuity measurement family — supporting measure under the continuity measurement family.
+  - **Primary measure:** Continuity measurement family — supporting measure.
 
     **Primary assessment:** Evaluate burdens that are:
     - delayed;
@@ -1638,7 +1638,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
   - **Out of scope:** pretextual or indefinite invocation to bypass Safety, Truth, Contestability, Foundational Constitutional Choice, or the Constitutional Contract Layer.
 <a id="emergency-and-contingency-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Continuity measurement family — supporting measure under the continuity measurement family.
+  - **Primary measure:** Continuity measurement family — supporting measure.
 
     **Primary assessment:** Evaluate each emergency invocation as follows:
     - apply [Proportionality](core_05defs_accountability.md#proportionality) and [Necessity](core_05defs_accountability.md#necessity);
@@ -1680,7 +1680,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - ordinary stakeholder-process expedience.
 <a id="constitutional-emergency-and-contingency-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Continuity measurement family — supporting measure under the continuity measurement family.
+  - **Primary measure:** Continuity measurement family — supporting measure.
 
     **Primary assessment:** Verify that any constitutional-emergency measure:
     - is limited to preservation, continuity, anti-capture, restoration, or preparation for lawful authorization pathways;
@@ -1726,7 +1726,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - substituting stakeholder emergency for Constitutional Emergency where governing authority is implicated.
 <a id="stakeholder-emergency-and-contingency-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Continuity measurement family — supporting measure under the continuity measurement family.
+  - **Primary measure:** Continuity measurement family — supporting measure.
 
     **Primary assessment:** Verify that the measure:
     - stays within an already-authorized governance structure;
@@ -1772,7 +1772,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - sustained pre-deliberation power treated as final stakeholder authorization.
 <a id="emergency-pre-deliberation-action-binding-collective-choice-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Continuity measurement family — supporting measure under the continuity measurement family.
+  - **Primary measure:** Continuity measurement family — supporting measure.
 
     **Primary assessment:** Verify that the action:
     - is minimal;
@@ -2010,7 +2010,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - effects without dependency-linked propagation across systems.
 <a id="systemic-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Continuity measurement family — supporting measure under the continuity measurement family.
+  - **Primary measure:** Continuity measurement family — supporting measure.
 
     **Primary assessment:** Trace interaction effects across:
     - components;
@@ -2063,7 +2063,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
   - **Out of scope:** cases where adding up each separate impact is enough, because interaction does not make the total material effect larger than that sum.
 <a id="systemic-materiality-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Continuity measurement family — supporting measure under the continuity measurement family.
+  - **Primary measure:** Continuity measurement family — supporting measure.
 
     **Primary assessment:** Include propagation and feedback loops across:
     - [Dependency](core_05defs_continuity.md#dependency) pathways;
@@ -2114,7 +2114,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - disclosed legitimate authority that does not distort governance, oversight, or contestability.
 <a id="system-capture-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Continuity measurement family — supporting measure under the continuity measurement family.
+  - **Primary measure:** Continuity measurement family — supporting measure.
 
     **Primary assessment:** Detect influence and outcome distortion. Concentration indicators include:
     - lasting control of a large share of decisions, resources, or outcomes;
@@ -2145,9 +2145,9 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 
 **Semi-independent context** (component definitions may still operate outside joint-invocation scope):
 
-- **Scope:** how constitutional evaluation scopes and constrains system behavior — requiring evaluation of full functional scope and meaningful means for change and exit.
-- **Joint invocation:** where system identity, boundary definition, published scope instruments, or foreclosure of exit or corrective action is material.
-- **Floor protection:** boundary or [Charter](core_05defs_continuity.md#charter) framing must not narrow full-functional-scope evaluation or defeat [Meaningful Agency](core_05defs_participation.md#meaningful-agency) or [Contestability](core_05defs_accountability.md#contestability).
+- **Scope:** how the Constitution judges and limits systems — by looking at everything a system actually does (full functional scope), and whether people still have real ways to change it or leave it.
+- **Joint invocation:** where what counts as the system, where its edges are drawn, what published scope instruments claim authority for, or whether exit or corrective action has been cut off, is material.
+- **Floor protection:** drawing boundaries or framing a [Charter](core_05defs_continuity.md#charter) must not shrink that full-scope look, or defeat [Meaningful Agency](core_05defs_participation.md#meaningful-agency) or [Contestability](core_05defs_accountability.md#contestability).
 
 **Topic group members.** This group comprises:
 - [System](core_05defs_continuity.md#system-definition) — structured technical, organizational, and governance components producing effects on sentients, environments, or other systems;
@@ -2173,7 +2173,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - named entities without a structured set of components producing effects on sentients, environments, or other systems.
 <a id="system-definition-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Continuity measurement family — supporting measure under the continuity measurement family.
+  - **Primary measure:** Continuity measurement family — supporting measure.
 
     **Primary assessment:** Identify the system by what it actually does, including:
     - inputs, outputs, and processes;
@@ -2207,7 +2207,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - legal-entity borders that exclude material impacts and dependencies from functional scope.
 <a id="system-boundaries-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Continuity measurement family — supporting measure under the continuity measurement family.
+  - **Primary measure:** Continuity measurement family — supporting measure.
 
     **Primary assessment:** Draw scope from material impact and dependency rather than formal or jurisdictional lines. Do not rely on formal or jurisdictional boundaries where doing so would defeat:
     - [Materiality Determination](core_05defs_oversight.md#materiality-determination); or
@@ -2239,7 +2239,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - cannot be contested.
 <a id="system-boundary-integrity-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Continuity measurement family — supporting measure under the continuity measurement family.
+  - **Primary measure:** Continuity measurement family — supporting measure.
 
     **Primary assessment:** Detect manipulation or exclusion that would distort:
     - [Materiality Determination](core_05defs_oversight.md#materiality-determination);
@@ -2270,7 +2270,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 - Downstream: [Chapter Seven](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) (*certification record scope and reopening*); [Chapter Eleven §4.3](core_11-11_forum.md#43-institutional-forums) (*institutional mandate and supervised-scope disputes*); [corpus_institutions.md](corpus_institutions.md) **CI-3.6** (*Charter contents, review, and formation template*).
 - Cluster component: [System boundaries, integrity, and exit](#system-boundaries-integrity-and-exit).
 - Read with: [System Boundaries](core_05defs_continuity.md#system-boundaries), [System Boundary Integrity](core_05defs_continuity.md#system-boundary-integrity), [System Alignment Certification](core_05defs_continuity.md#system-alignment-certification-constitutional), [Governance](core_05defs_accountability.md#governance), [System Creation](core_05defs_participation.md#system-creation-constitutional), [Business Creation](core_05defs_participation.md#business-creation-constitutional), [Classification-Scaled Governance](core_05defs_oversight.md#classification-scaled-governance), and [Authority Stack and Internal Hierarchy](core_05defs_integrative.md#authority-stack).
-- Distinguish: Chapter Twelve **treaty, compact, or charter** legitimacy-mechanism family ([core_12-12_governance.md](core_12-12_governance.md)) is a polity-authorization pathway sense — not this scope-instrument definition.
+- Distinguish: Chapter Twelve **treaty, compact, or charter** legitimacy-mechanism family ([core_12-12_governance.md](core_12-12_governance.md)) is about authorizing a political community to govern — not this published scope instrument.
 
 </details>
 
@@ -2287,14 +2287,14 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - amendment authority; and
     - periodic-review cadence scaled to [material stake](core_00_preamble.md#material-stake) under [Proportionality](core_05defs_accountability.md#proportionality) and [Classification-Scaled Governance](core_05defs_oversight.md#classification-scaled-governance).
 
-    It supports [System Creation](core_05defs_participation.md#system-creation-constitutional) and [Business Creation](core_05defs_participation.md#business-creation-constitutional) by making operated scope reviewable without narrowing those floors. Adopt, amend, and supervise mechanics route to [corpus_institutions.md](corpus_institutions.md) under **Chapter Sixteen** incorporation discipline.
+    It supports institutional creation under [System Creation](core_05defs_participation.md#system-creation-constitutional) and [Business Creation](core_05defs_participation.md#business-creation-constitutional) by making operated scope reviewable without narrowing those floors. Adopt, amend, and supervise mechanics route to [corpus_institutions.md](corpus_institutions.md) under **Chapter Sixteen** incorporation discipline.
   - **Out of scope:**
     - treating Charter text as a substitute for System Boundaries;
     - treating Charter text as proof of classification under CS-4; and
-    - polity-founding treaty, compact, or charter authorization mechanisms under Chapter Twelve (different sense).
+    - treaties, compacts, or charters under Chapter Twelve that found or authorize a political community (different meaning of "charter").
 <a id="charter-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Continuity measurement family — supporting measure under the continuity measurement family.
+  - **Primary measure:** Continuity measurement family — supporting measure.
 
     **Primary assessment:** Evaluate whether:
     1. a governing Charter exists where the entity is materially impactful, or an equivalent published scope instrument is identified and reasoned;
@@ -2335,7 +2335,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - voluntary stickiness without foreclosure of exit, switching, or corrective action.
 <a id="systemic-lock-in-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Continuity measurement family — supporting measure under the continuity measurement family.
+  - **Primary measure:** Continuity measurement family — supporting measure.
 
     **Primary assessment:** Compare exit costs and frictions against:
     - [Dependency](core_05defs_continuity.md#dependency) depth;
@@ -2548,7 +2548,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - category-label recognition without material implication for community continuity.
 <a id="indigenous-continuity-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Continuity measurement family — supporting measure under the continuity measurement family.
+  - **Primary measure:** Continuity measurement family — supporting measure.
 
     **Primary assessment:** Test whether the decision or framing materially implicates community-level continuity of language, cultural practice, governance practice, or knowledge transmission under capability-functional criteria. Reject category-label framings as a substitute, in both directions:
     - inclusive — "not indigenous, so out of scope"; and
@@ -2609,7 +2609,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - ordinary content preference unrelated to protected-characteristic language, culture, or heritage burdens.
 <a id="language-culture-and-heritage-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Continuity measurement family — supporting measure under the continuity measurement family.
+  - **Primary measure:** Continuity measurement family — supporting measure.
 
     **Primary assessment:** Reach substantive effect, including protected-characteristic proxying — for example, restrictions on language use cast as operational, interoperability, or platform-consolidation rules that function as denial of language or cultural practice. Homogenization framing does not by itself satisfy the [Necessity](core_05defs_accountability.md#necessity) and [Proportionality](core_05defs_accountability.md#proportionality) tests that **Article V-B** (*Nondiscrimination*) requires, including framing resting on:
     - efficiency;
@@ -3440,7 +3440,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
   - **Out of scope:** technical telemetry or public facts that never enter personal, relational, experiential, likeness, metadata, or comparable informational domains in a way that impairs dignity, agency, safety, consent, or Rights-Floor access.
 <a id="privacy-informational-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Participation measurement family — primary owner for informational privacy within the participation measurement family (canonical home in Continuity band).
+  - **Primary measure:** Participation measurement family — primary owner for informational privacy (canonical home in Continuity band).
 
     **Primary assessment:** Evaluate the complete information lifecycle, including:
     - collection;
@@ -3616,7 +3616,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - endorsement.
 <a id="trust-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Oversight measurement family — supporting measure under the oversight measurement family.
+  - **Primary measure:** Oversight measurement family — supporting measure.
 
     **Primary assessment:** Evaluation of whether reliance is justified must apply the [Trustworthiness](core_05defs_continuity.md#trustworthiness) assessment and compliance components as a single joint test.
   - **Secondary measure:** co-measures that supply the evidence a trust claim rests on:
@@ -3734,7 +3734,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - fair marketing that does not misrepresent capability, risk, intent, limits, or dependency for material reliance.
 <a id="trust-degradation-and-misleading-reliance-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Oversight measurement family — supporting measure under the oversight measurement family.
+  - **Primary measure:** Oversight measurement family — supporting measure.
 
     **Primary assessment:** Confirm admission scope is materially present before applying joint-satisfaction discipline. Then evaluate through the following integrated requirements:
     - **Representation-behavior consistency:** integrate [Observability](core_05defs_oversight.md#observability)-grounded representation-behavior consistency;
