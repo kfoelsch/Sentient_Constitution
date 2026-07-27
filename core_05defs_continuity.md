@@ -3167,9 +3167,37 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 
 **Dependent cluster context** (joint invocation under admission scope):
 
-- **Scope:** the joint-invocation home for principle-layer stewardship orientation, distributed understanding, strategic stewardship obligation, short-horizon governance defects, stewardship defect, review and correction, and capacity claims where long- versus short-horizon tradeoffs, incentive structure, or capacity assertions are materially interdependent.
-- **Admission scope:** principle-layer ordering (stewardship → governance → capacity); institutional or systemic stewardship duties; defective incentive structures; capacity claims resting on governance or incentive structure; distributed-understanding obligations; failures of foresight or proportionality affecting ecological, safety, or Rights-Floor integrity; or long- versus short-horizon constitutional alignment. Outside that scope, [Governance](core_05defs_accountability.md#governance), [Shared-System Capacity](core_05defs_continuity.md#shared-system-capacity-constitutional), or [Strategic Stewardship Obligation](core_05defs_continuity.md#strategic-stewardship-obligation-constitutional) may operate alone.
-- **Joint invocation and anti-bypass:** under [Joint invocation and satisfaction](core_05_definitions_home.md#joint-invocation-and-satisfaction), a matter within admission scope must not be segmented into governance-form, capacity-metric, disclosure-summary, CSR-narrative, compliance-artifact, or short-horizon efficiency or incentive questions in a way that satisfies nominal procedure, masks stewardship defects, or defeats stewardship discipline, distributed understanding, or durable constitutional alignment.
+- **Scope:** the joint-invocation home for principle-layer stewardship and capacity discipline where any of the following are materially interdependent:
+  - stewardship orientation;
+  - [Distributed Understanding](core_05defs_continuity.md#distributed-understanding-constitutional);
+  - [Strategic Stewardship Obligation](core_05defs_continuity.md#strategic-stewardship-obligation-constitutional);
+  - [Short-Horizon Governance Defect](core_05defs_continuity.md#short-horizon-governance-defect-constitutional);
+  - [Stewardship Defect](core_05defs_continuity.md#stewardship-defect-constitutional);
+  - [Review and Correction Duty](core_05defs_continuity.md#review-and-correction-duty-constitutional); and
+  - capacity claims implicating:
+    - long- versus short-horizon tradeoffs;
+    - incentive structure; or
+    - capacity assertions.
+- **Admission scope:** matters that materially implicate any of:
+  - principle-layer ordering (stewardship → governance → capacity);
+  - institutional or systemic stewardship duties;
+  - defective incentive structures;
+  - capacity claims resting on governance or incentive structure;
+  - distributed-understanding obligations;
+  - failures of foresight or proportionality affecting:
+    - ecological integrity;
+    - safety; or
+    - Rights-Floor integrity; or
+  - long- versus short-horizon constitutional alignment.
+
+  Outside that scope, [Governance](core_05defs_accountability.md#governance), [Shared-System Capacity](core_05defs_continuity.md#shared-system-capacity-constitutional), or [Strategic Stewardship Obligation](core_05defs_continuity.md#strategic-stewardship-obligation-constitutional) may operate alone.
+- **Joint invocation and anti-bypass:** under [Joint invocation and satisfaction](core_05_definitions_home.md#joint-invocation-and-satisfaction), when a matter falls within admission scope, splitting it into any of the following does not count as compliance if that split only looks compliant on paper, hides stewardship failures, or undercuts stewardship discipline, distributed understanding, or lasting constitutional alignment:
+  - governance-form;
+  - capacity-metric;
+  - disclosure-summary;
+  - CSR-narrative;
+  - compliance-artifact; or
+  - short-horizon efficiency or incentive questions.
 
 **Cluster members.** This cluster comprises:
 - [Stewardship](core_05defs_continuity.md#stewardship-constitutional) — principle-layer orientation toward preserving constitutional alignment, repair capacity, distributed understanding, and long-horizon Continuity-aim effects;
@@ -3223,9 +3251,13 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - cumulative;
     - systemic; and
     - intergenerational.
-  - **Secondary measure:** [Strategic Stewardship Obligation](core_05defs_continuity.md#strategic-stewardship-obligation-constitutional), [Governance](core_05defs_accountability.md#governance), [Shared-System Capacity](core_05defs_continuity.md#shared-system-capacity-constitutional), and [Timeliness](core_05apex_timeliness_leg.md#timeliness-constitutional) — co-measures carrying the operative duty on stewards and operators with material influence.
+  - **Secondary measure:** other measures that spell out the duties of stewards and operators who have material influence:
+    - [Strategic Stewardship Obligation](core_05defs_continuity.md#strategic-stewardship-obligation-constitutional);
+    - [Governance](core_05defs_accountability.md#governance);
+    - [Shared-System Capacity](core_05defs_continuity.md#shared-system-capacity-constitutional); and
+    - [Timeliness](core_05apex_timeliness_leg.md#timeliness-constitutional).
 
-    **Secondary assessment:** When evaluating the primary trace, read with [Strategic Stewardship Obligation](core_05defs_continuity.md#strategic-stewardship-obligation-constitutional) and [Timeliness](core_05apex_timeliness_leg.md#timeliness-constitutional) for operative duty on stewards and operators with material influence.
+    **Secondary assessment:** When evaluating the primary trace, read with [Strategic Stewardship Obligation](core_05defs_continuity.md#strategic-stewardship-obligation-constitutional) and [Timeliness](core_05apex_timeliness_leg.md#timeliness-constitutional) for the duties of stewards and operators who have material influence.
 <a id="stewardship-constitutional-c"></a>
 - **What must hold**
   - **Primary failure:** long-horizon duties treated as optional, including where they are:
@@ -3306,7 +3338,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 <br>
 
 - **What it is**
-  - **In scope:** The duty of systems, institutions, operators, and stewards with material or durable influence to govern, in a way that preserves constitutional alignment over time:
+  - **In scope:** The duty of systems, institutions, operators, and stewards with material or durable influence to govern, in a way that preserves constitutional alignment over time, which includes:
     - strategy;
     - incentives;
     - resources;
@@ -3318,7 +3350,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
   - **Out of scope:** short-horizon value, convenience, or institutional self-protection treated as sufficient stewardship where material or durable influence exists.
 <a id="strategic-stewardship-obligation-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Continuity measurement family and Constitutional Performance measurement family — supporting measure where multiple measurement families co-apply.
+  - **Primary measure:** Continuity measurement family and Constitutional Performance measurement family — both apply as supporting measures when more than one measurement family is relevant.
 
     **Primary assessment:** Evaluate:
     - foresight;
