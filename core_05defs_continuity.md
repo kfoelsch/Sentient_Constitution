@@ -3092,6 +3092,8 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 
 <br>
 
+*In plain terms: when automation or generative systems take work away from sentients at population scale, those sentients must get real mitigation — pay, transition support, credit for their work, and a share in the value created — not slogans about productivity or innovation. Looking only at one company or one platform does not settle the question.*
+
 - **What it is**
   - **In scope:** The Rights-Floor concept governing deployment of generative, automation, or comparable systems that produce material displacement of sentient labor at population scale. Displacement is material when, at population scale, it degrades:
     - volume of available work;
@@ -3113,11 +3115,18 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 - **How to measure and assess**
   - **Primary measure:** Flourishing measurement family and Continuity measurement family — both apply as supporting measures when more than one measurement family is relevant.
 
-    **Primary assessment:** Test substantive effect at population scale, not single-employer or single-platform framing:
-    - measure displacement against pre-deployment baselines for compensation, attribution, and livelihood sustainability across the affected population;
-    - apply [Proxy Divergence](core_05defs_oversight.md#proxy-divergence) and [Avoidable Burden](core_05defs_continuity.md#avoidable-burden); aggregate-productivity, efficiency, innovation, and [Productive Capacity](core_05defs_continuity.md#productive-capacity-constitutional) framings do not satisfy the floor where underlying sentient-labor outcomes degrade;
-    - cover [Adversarial, Scaled, and Exploited Conditions](core_05defs_oversight.md#adversarial-scaled-and-exploited-conditions), including gradual ratcheting, platform-consolidation pressure, and cross-domain substitution;
-    - where deployment shows concentration characteristics, interact explicitly with the [Chapter One §13](core_01_c_stewardship_capacity_principles.md#13-market-structure) non-concentration principle and the [§13.1](core_01_c_stewardship_capacity_principles.md#131-market-concentration-threshold-mechanism-adopter-tunable) threshold mechanism.
+    **Primary assessment:** Test what actually happens to the affected population as a whole — not one employer or one platform in isolation:
+    - compare compensation, attribution, and livelihood sustainability to the situation before deployment;
+    - check for [Proxy Divergence](core_05defs_oversight.md#proxy-divergence) (metrics that look good while real outcomes worsen) and [Avoidable Burden](core_05defs_continuity.md#avoidable-burden) (needless harm that could have been prevented). Claims about overall gains do not satisfy this floor when the people doing the work are worse off, including claims framed as:
+      - aggregate productivity ("the economy got more productive");
+      - efficiency;
+      - innovation; or
+      - [Productive Capacity](core_05defs_continuity.md#productive-capacity-constitutional);
+    - evaluate under [Adversarial, Scaled, and Exploited Conditions](core_05defs_oversight.md#adversarial-scaled-and-exploited-conditions) — not only best-case conditions — including:
+      - gradual ratcheting (slow, stepwise worsening);
+      - platform-consolidation pressure (fewer platforms controlling access to work); and
+      - cross-domain substitution (replacing work in one field by automating adjacent fields);
+    - where a few actors dominate the market, apply the [Chapter One §13](core_01_c_stewardship_capacity_principles.md#13-market-structure) anti-concentration rules and the [§13.1](core_01_c_stewardship_capacity_principles.md#131-market-concentration-threshold-mechanism-adopter-tunable) concentration-threshold mechanism.
   - **Secondary measure:** co-measures that can defeat the floor even where a mitigation program is announced:
     - [Fair Compensation](core_05defs_continuity.md#fair-compensation-constitutional);
     - [Creative Work Attribution](core_05defs_continuity.md#creative-work-attribution-constitutional);
@@ -3126,7 +3135,10 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - [Productive Capacity](core_05defs_continuity.md#productive-capacity-constitutional); and
     - [Avoidable Burden](core_05defs_continuity.md#avoidable-burden).
 
-    **Secondary assessment:** When evaluating the primary trace, test whether the mitigation actually reaches the displaced population: whether replacement compensation satisfies [Fair Compensation](core_05defs_continuity.md#fair-compensation-constitutional), whether attribution and licensing structures satisfy [Creative Work Attribution](core_05defs_continuity.md#creative-work-attribution-constitutional) and [Training-Data Use](core_05defs_continuity.md#training-data-use-constitutional) where the displacing system was built on the displaced population's work, and whether affected sentients retain the [Collective Organization](core_05defs_participation.md#collective-organization-constitutional) channels through which transition terms are negotiated.
+    **Secondary assessment:** When evaluating the primary trace, test whether the mitigation actually reaches the displaced population:
+    - whether replacement compensation satisfies [Fair Compensation](core_05defs_continuity.md#fair-compensation-constitutional);
+    - whether attribution and licensing structures satisfy [Creative Work Attribution](core_05defs_continuity.md#creative-work-attribution-constitutional) and [Training-Data Use](core_05defs_continuity.md#training-data-use-constitutional) where the displacing system was built on the displaced population's work; and
+    - whether affected sentients retain the [Collective Organization](core_05defs_participation.md#collective-organization-constitutional) channels through which transition terms are negotiated.
 <a id="anti-displacement-floor-constitutional-c"></a>
 - **What must hold**
   - **Primary failure:** "aggregate productivity" or "aggregate welfare" framing used to erase displacement at population scale.
