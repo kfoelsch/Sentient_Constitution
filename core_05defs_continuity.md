@@ -2567,8 +2567,10 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - [Necessity](core_05defs_accountability.md#necessity) and [Proportionality](core_05defs_accountability.md#proportionality) under **Article V-B** (*Nondiscrimination*) to any displacement, narrowing, or burden on the community-continuity floor.
 
     Routing and read-with:
-    - Route territorial-continuity questions to **Article I-A** (*Environmental Preconditions and Ecological Integrity*). Where adopter-jurisdiction determinations of historical territorial claims are at stake, route also to [Chapter Sixteen](core_16-16_incorporation.md) §3 (*strictest-applicable-level*) and §4 (*adoption framing*), without this entry making the adjudication.
-    - Apply [Chapter Thirteen non-regression](core_13-15_amendment.md) when adopter instruments already recognize indigenous or comparable community-continuity rights. This entry does not re-originate recognition, but non-regression locks what is recognized against adopter rollback.
+    - Route territorial-continuity questions:
+      - to **Article I-A** (*Environmental Preconditions and Ecological Integrity*); and
+      - where adopter-jurisdiction determinations of historical territorial claims are at stake, also to [Chapter Sixteen](core_16-16_incorporation.md) §3 (*strictest-applicable-level*) and §4 (*adoption framing*), without this entry making the adjudication.
+    - If an adopter already recognizes indigenous or comparable community-continuity rights, apply [Chapter Thirteen non-regression](core_13-15_amendment.md). This entry does not create that recognition; non-regression only prevents the adopter from rolling it back.
     - [Intergenerational Responsibility](core_05defs_continuity.md#intergenerational-responsibility-constitutional) applies where community-continuity transmission across generations is materially implicated.
     - [Natural Systems Standing](core_05defs_participation.md#natural-systems-standing) applies where the community-to-ecosystem relationship is materially implicated.
 <a id="indigenous-continuity-constitutional-c"></a>
@@ -2619,14 +2621,14 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 - **How to measure and assess**
   - **Primary measure:** Continuity measurement family — supporting measure.
 
-    **Primary assessment:** Reach substantive effect, including protected-characteristic proxying — for example, restrictions on language use cast as operational, interoperability, or platform-consolidation rules that function as denial of language or cultural practice. Homogenization framing does not by itself satisfy the [Necessity](core_05defs_accountability.md#necessity) and [Proportionality](core_05defs_accountability.md#proportionality) tests that **Article V-B** (*Nondiscrimination*) requires, including framing resting on:
+    **Primary assessment:** Look past the label to what the rule actually does, including protected-characteristic proxying — for example, language restrictions dressed up as operational, interoperability, or platform-consolidation rules that still deny language use or cultural practice. Calling the goal "homogenization" does not by itself meet the [Necessity](core_05defs_accountability.md#necessity) and [Proportionality](core_05defs_accountability.md#proportionality) tests **Article V-B** (*Nondiscrimination*) requires, including when that framing rests on:
     - efficiency;
     - info-sphere integrity;
     - interoperability;
     - platform consolidation;
     - accessibility cost; or
     - translation burden.
-  - **Secondary measure:** co-measures that can defeat cultural and heritage continuity even where individual-level protection appears satisfied:
+  - **Secondary measure:** other measures that can show cultural and heritage continuity is failing even when individual-level protection looks satisfied:
     - [Intergenerational Responsibility](core_05defs_continuity.md#intergenerational-responsibility-constitutional); and
     - [Indigenous Continuity](core_05defs_continuity.md#indigenous-continuity-constitutional).
 
@@ -2666,9 +2668,32 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 
 **Dependent cluster context** (joint invocation under admission scope):
 
-- **Scope:** the joint-invocation home for **Article III-D** (*Labor and Economic Floor*) rights — **Fair Compensation**, **Safe Conditions**, and **Leisure and Rest** — together with **Article VIII-D** (*Creative Work, Training-Data Use, and Anti-Displacement*) disciplines where materially interdependent. These rights form an integrated floor for productive, contributed, or comparable activity.
-- **Admission scope:** fair compensation; safe productive-activity conditions; rest and recuperation preserving participation capacity; collective organization through unions, cooperatives, guilds, or worker councils; likeness and documentary depiction; creative-work attribution and training-data use of sentient-produced work; or anti-displacement of creative and economic participation. Outside that scope, component definitions may operate as supporting Independent Definitions without importing the whole cluster.
-- **Joint invocation and anti-bypass:** under [Joint invocation and satisfaction](core_05_definitions_home.md#joint-invocation-and-satisfaction), a matter within admission scope must not be segmented into compensation, organization, safety, rest, privacy, consent, attribution, displacement, or innovation-reward issues in a way that satisfies one component while defeating materially interdependent duties under **Article III-D** and **Article VIII-D**.
+- **Scope:** the joint-invocation home for an integrated floor covering productive, contributed, or comparable activity, combining:
+  - **Article III-D** (*Labor and Economic Floor*) rights:
+    - **Fair Compensation**;
+    - **Safe Conditions**; and
+    - **Leisure and Rest**; and
+  - **Article VIII-D** (*Creative Work, Training-Data Use, and Anti-Displacement*) disciplines where those duties are materially interdependent.
+- **Admission scope:** matters that materially implicate any of:
+  - fair compensation;
+  - safe productive-activity conditions;
+  - rest and recuperation preserving participation capacity;
+  - collective organization through unions, cooperatives, guilds, or worker councils;
+  - likeness and documentary depiction;
+  - creative-work attribution and training-data use of sentient-produced work; or
+  - anti-displacement of creative and economic participation.
+
+  Outside that scope, component definitions may operate as supporting Independent Definitions without importing the whole cluster.
+- **Joint invocation and anti-bypass:** under [Joint invocation and satisfaction](core_05_definitions_home.md#joint-invocation-and-satisfaction), a matter within admission scope must not be segmented into any of the following in a way that satisfies one component while defeating materially interdependent duties under **Article III-D** and **Article VIII-D**:
+  - compensation;
+  - organization;
+  - safety;
+  - rest;
+  - privacy;
+  - consent;
+  - attribution;
+  - displacement; or
+  - innovation-reward.
 - **Read with:** [Collective Organization](core_05defs_participation.md#collective-organization-constitutional) where productive-activity organizing is materially implicated.
 
 **Cluster members.** This cluster comprises:
@@ -2719,7 +2744,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - survival-floor compliance treated as fair compensation by itself.
 <a id="fair-compensation-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Flourishing measurement family and Continuity measurement family — supporting measure where multiple measurement families co-apply.
+  - **Primary measure:** Flourishing measurement family and Continuity measurement family — both apply as supporting measures when more than one measurement family is relevant.
 
     **Primary assessment:** Reach substantive adequacy, not formal contractual satisfaction. Apply:
     - [Substantive Fairness](core_05defs_participation.md#substantive-fairness-constitutional) to comparable activity;
@@ -2734,7 +2759,17 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - [Dependency](core_05defs_continuity.md#dependency); and
     - [Lifespan Equivalent Unit (LEQU)](core_05defs_participation.md#lifespan-equivalent-unit-lequ).
 
-    **Secondary assessment:** When evaluating the primary trace, read the labor-floor components jointly: compensation that is nominally adequate but sustained by unsafe conditions, defeated rest, or suppressed organizing does not satisfy this entry. Apply [Dependency](core_05defs_continuity.md#dependency) where reliance asymmetry, lock-in, or absent exit paths hold compensation below substantive adequacy, and [Lifespan Equivalent Unit (LEQU)](core_05defs_participation.md#lifespan-equivalent-unit-lequ) where quantitative calibration of benefit or deprivation is material.
+    **Secondary assessment:** When evaluating the primary trace, read the labor-floor components jointly. Compensation that is nominally adequate does not satisfy this entry if it is sustained by:
+    - unsafe conditions;
+    - defeated rest; or
+    - suppressed organizing.
+
+    Also apply:
+    - [Dependency](core_05defs_continuity.md#dependency) where any of the following hold compensation below substantive adequacy:
+      - reliance asymmetry;
+      - lock-in; or
+      - absent exit paths; and
+    - [Lifespan Equivalent Unit (LEQU)](core_05defs_participation.md#lifespan-equivalent-unit-lequ) is used as a shared constitutional scale when comparing how much compensation helps — or how much underpayment hurts.
 <a id="fair-compensation-constitutional-c"></a>
 - **What must hold**
   - **Primary failure:** compensation schemes whose effects track [Protected Characteristics](core_05defs_participation.md#protected-characteristics-constitutional) or their material proxies, regardless of framing.
@@ -2773,7 +2808,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - paper policies, notices, or training that leave foreseeable productive-activity harm unaddressed in practice.
 <a id="safe-conditions-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Flourishing measurement family and Continuity measurement family — supporting measure where multiple measurement families co-apply.
+  - **Primary measure:** Flourishing measurement family and Continuity measurement family — both apply as supporting measures when more than one measurement family is relevant.
 
     **Primary assessment:** Test whether protection holds in practice rather than under ideal conditions. Include:
     - whether safety measures function under degraded, scaled, and exploited operating conditions;
@@ -2789,10 +2824,21 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - [Reversibility](core_05defs_continuity.md#reversibility-constitutional); and
     - [Adversarial, Scaled, and Exploited Conditions](core_05defs_oversight.md#adversarial-scaled-and-exploited-conditions).
 
-    **Secondary assessment:** When evaluating the primary trace, read the labor-floor components jointly: [Fair Compensation](core_05defs_continuity.md#fair-compensation-constitutional), [Leisure and Rest](core_05defs_continuity.md#leisure-and-rest-constitutional), and [Collective Organization](core_05defs_participation.md#collective-organization-constitutional). Fatigue from defeated rest, compensation structures that reward risk-taking, and suppressed safety-raising channels each bear on whether the safety floor actually holds.
+    **Secondary assessment:** When evaluating the primary trace, read the labor-floor components jointly:
+    - [Fair Compensation](core_05defs_continuity.md#fair-compensation-constitutional);
+    - [Leisure and Rest](core_05defs_continuity.md#leisure-and-rest-constitutional); and
+    - [Collective Organization](core_05defs_participation.md#collective-organization-constitutional).
+
+    Each of the following bears on whether the safety floor actually holds:
+    - fatigue from defeated rest;
+    - compensation structures that reward disproportionate or unreasonable risk-taking; and
+    - suppressed safety-raising channels.
 <a id="safe-conditions-constitutional-c"></a>
 - **What must hold**
-  - **Primary failure:** safety obligations that exist on paper but do not protect in practice, including claims that general safety-law compliance, or contribution or employment status, satisfies this entry where actual risk protection fails.
+  - **Primary failure:** safety obligations that exist on paper but do not protect in practice, including claims that any of the following satisfies this entry where actual risk protection fails:
+    - general safety-law compliance;
+    - contribution status; or
+    - employment status.
   - **Secondary failure:** distributing risk so that it falls mainly on groups defined by [Protected Characteristics](core_05defs_participation.md#protected-characteristics-constitutional) or their material proxies.
   - **Tertiary failure:** excluding sentients from safety requirements on substrate-class grounds ([Sentience Non-Exclusion](core_05defs_participation.md#sentience-non-exclusion)).
 
@@ -2824,27 +2870,38 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 
     Substrate-agnostic under [Sentience Non-Exclusion](core_05defs_participation.md#sentience-non-exclusion). Stated in Rights-Floor terms rather than fixed quantitative units; the substantive floor is participation-capacity preservation.
   - **Out of scope:**
-    - ordinary contractual rest provisions, scheduling arrangements, and comparable mechanics, where they do not defeat participation-capacity preservation;
-    - nominal leave banks, unpaid downtime forced by underemployment, or rest that exists only when production pauses without preserving agency and recuperation.
+    - ordinary contractual rest terms, schedules, and similar workplace mechanics that actually leave the sentient able to preserve participation capacity — this entry does not rewrite those day-to-day arrangements;
+    - the following treated as satisfying this entry when they do not preserve agency and recuperation:
+      - leave banks that exist in name only;
+      - unpaid downtime forced by underemployment; and
+      - idle time that exists only when production pauses.
 <a id="leisure-and-rest-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Flourishing measurement family and Continuity measurement family — supporting measure where multiple measurement families co-apply.
+  - **Primary measure:** Flourishing measurement family and Continuity measurement family — both apply as supporting measures when more than one measurement family is relevant.
 
-    **Primary assessment:** Reach substantive effect on participation-capacity preservation under [Meaningful Agency](core_05defs_participation.md#meaningful-agency) and [Wellbeing](core_05defs_continuity.md#wellbeing), not formal rest-provision compliance. Include:
-    - compensation and productivity-requirement schemes structured to defeat the floor, including on-call regimes, targeted productivity-requirement escalation, or comparable practices;
-    - distributional effects under [Protected Characteristics](core_05defs_participation.md#protected-characteristics-constitutional) and [Protected Characteristic Proxying and Disparate Impact](core_05defs_participation.md#protected-characteristic-proxying-and-disparate-impact); and
+    **Primary assessment:** Ask whether rest actually preserves the sentient's ability to participate — under [Meaningful Agency](core_05defs_participation.md#meaningful-agency) and [Wellbeing](core_05defs_continuity.md#wellbeing) — not whether rest exists on paper. Include:
+    - compensation and productivity-requirement schemes structured to defeat the floor, including:
+      - on-call regimes;
+      - targeted productivity-requirement escalation; or
+      - comparable practices;
+    - distributional effects under:
+      - [Protected Characteristics](core_05defs_participation.md#protected-characteristics-constitutional); and
+      - [Protected Characteristic Proxying and Disparate Impact](core_05defs_participation.md#protected-characteristic-proxying-and-disparate-impact); and
     - substrate-class framings that treat rest and recuperation as optional for synthetic sentients on substrate-class grounds alone, which are refused.
-  - **Secondary measure:** co-measures that can defeat rest and recuperation even where formal rest provisions exist:
+  - **Secondary measure:** when any of the following is compromised in a way that interferes with real rest — even if rest exists on paper:
     - [Meaningful Agency](core_05defs_participation.md#meaningful-agency);
     - [Wellbeing](core_05defs_continuity.md#wellbeing);
     - [Fair Compensation](core_05defs_continuity.md#fair-compensation-constitutional);
     - [Safe Conditions](core_05defs_continuity.md#safe-conditions-constitutional); and
     - [Collective Organization](core_05defs_participation.md#collective-organization-constitutional).
 
-    **Secondary assessment:** When evaluating the primary trace, read the labor-floor components jointly. Compensation set so low that rest is unaffordable, conditions that make recuperation impossible, and suppression of the organizing channels through which rest terms are set each bear on whether the participation-capacity floor holds.
+    **Secondary assessment:** When evaluating the primary trace, read the labor-floor components jointly. Each of the following bears on whether the participation-capacity floor holds:
+    - compensation set so low that rest is unaffordable;
+    - conditions that make recuperation impossible; and
+    - suppression of the organizing channels through which rest terms are set.
 <a id="leisure-and-rest-constitutional-c"></a>
 - **What must hold**
-  - **Primary failure:** compensation or productivity-requirement schemes whose effect defeats rest and recuperation sufficient to preserve participation capacity.
+  - **Primary failure:** compensation or productivity-requirement schemes whose effect defeats rest and recuperation.
   - **Secondary failure:** reading this entry as narrowed by formal rest-provision compliance where the substantive participation-capacity floor fails.
   - **Tertiary failure:** substrate-class framings treating rest and recuperation as optional for synthetic sentients on substrate-class grounds alone ([Sentience Non-Exclusion](core_05defs_participation.md#sentience-non-exclusion)).
 
@@ -2864,7 +2921,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - fictional characters not held out as a real sentient.
 <a id="likeness-and-documentary-depiction-interface-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Flourishing measurement family and Continuity measurement family — supporting measure where multiple measurement families co-apply.
+  - **Primary measure:** Flourishing measurement family and Continuity measurement family — both apply as supporting measures when more than one measurement family is relevant.
 
     **Primary assessment:** Evaluate:
     - recognizability — whether the depiction reasonably identifies a specific sentient;
@@ -2877,7 +2934,11 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - [Privacy (Informational)](core_05defs_continuity.md#privacy-informational); and
     - [Dignity and Equal Moral Standing](core_05defs_participation.md#dignity-and-equal-moral-standing).
 
-    **Secondary assessment:** When evaluating the primary trace, apply [Creative Work Attribution](core_05defs_continuity.md#creative-work-attribution-constitutional) where the depiction incorporates upstream creator-work, and [Privacy (Informational)](core_05defs_continuity.md#privacy-informational) where the depiction discloses or reconstructs information about the depicted sentient. Satisfying one of these does not by itself satisfy the others where each is materially owed.
+    **Secondary assessment:** When evaluating the primary trace, also apply:
+    - [Creative Work Attribution](core_05defs_continuity.md#creative-work-attribution-constitutional) where the depiction uses upstream creator-work; and
+    - [Privacy (Informational)](core_05defs_continuity.md#privacy-informational) where the depiction discloses or reconstructs information about the depicted sentient.
+
+    Passing one of these checks does not skip the other when both apply.
 <a id="likeness-and-documentary-depiction-interface-c"></a>
 - **What must hold**
   - Recognizably identifiable **likeness** (including synthetic depiction held out as authentic) remains subject to **Article VIII-A** (*Self-Ownership of Likeness and Reputation*) (including defaults and the **factual reporting** pathway) unless another constitutional provision applies.
@@ -2917,7 +2978,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - attribution that does not track the sentient whose creative or expressive work is used, reproduced, or adapted.
 <a id="creative-work-attribution-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Flourishing measurement family and Continuity measurement family — supporting measure where multiple measurement families co-apply.
+  - **Primary measure:** Flourishing measurement family and Continuity measurement family — both apply as supporting measures when more than one measurement family is relevant.
 
     **Primary assessment:** Evaluate for traceability and credit-continuity, not form. Include:
     - whether derivative output remains materially traceable to the creator's work;
@@ -2925,7 +2986,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - whether provenance representations are accurate.
 
     "Fair use" or "transformative" framings do not extinguish the floor where derivative output is materially traceable to the creator's work; those framings operate within adopter-specified intellectual-property regimes inside the floor.
-  - **Secondary measure:** co-measures that can defeat attribution even where a nominal credit mechanism exists:
+  - **Secondary measure:** when any of the following is compromised in a way that interferes with real attribution — even if a credit line exists on paper:
     - [Consent](core_05defs_participation.md#consent-constitutional);
     - [Good Faith](core_05defs_accountability.md#good-faith);
     - [Truth (Constitutional Constraint)](core_05defs_oversight.md#truth-constitutional-constraint);
@@ -2933,12 +2994,26 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - [Training-Data Use](core_05defs_continuity.md#training-data-use-constitutional); and
     - [Anti-Displacement Floor](core_05defs_continuity.md#anti-displacement-floor-constitutional).
 
-    **Secondary assessment:** When evaluating the primary trace, apply [Consent](core_05defs_participation.md#consent-constitutional), [Good Faith](core_05defs_accountability.md#good-faith), and [Truth (Constitutional Constraint)](core_05defs_oversight.md#truth-constitutional-constraint) where derivative output misrepresents provenance. Interaction with [Fair Compensation](core_05defs_continuity.md#fair-compensation-constitutional) under [Article III-D](core_06-06_rights_part_a.md#article-iii-d-labor-and-economic-floor) (*Labor and Economic Floor*) is joint: attribution without compensation, or compensation without attribution, does not satisfy the floor where both are materially owed. Where the same work is ingested for training or where deployment displaces the affected creator-population, read with [Training-Data Use](core_05defs_continuity.md#training-data-use-constitutional) and the [Anti-Displacement Floor](core_05defs_continuity.md#anti-displacement-floor-constitutional).
+    **Secondary assessment:** When evaluating the primary trace:
+    - apply [Consent](core_05defs_participation.md#consent-constitutional), [Good Faith](core_05defs_accountability.md#good-faith), and [Truth (Constitutional Constraint)](core_05defs_oversight.md#truth-constitutional-constraint) where the derivative work hides or misstates where it came from;
+    - read jointly with [Fair Compensation](core_05defs_continuity.md#fair-compensation-constitutional) under [Article III-D](core_06-06_rights_part_a.md#article-iii-d-labor-and-economic-floor) (*Labor and Economic Floor*) — attribution without compensation, or compensation without attribution, does not satisfy the floor where both are owed; and
+    - read with [Training-Data Use](core_05defs_continuity.md#training-data-use-constitutional) and the [Anti-Displacement Floor](core_05defs_continuity.md#anti-displacement-floor-constitutional) where:
+      - the same work is used as training data; or
+      - deployment displaces the affected creator-population.
 <a id="creative-work-attribution-constitutional-c"></a>
 - **What must hold**
-  - **Primary failure:** erasure of attribution under "fair use" / "transformative" / "public-domain training-data" / "aggregate style" framings that defeats substantive traceability.
-  - **Secondary failure:** attribution regimes that cannot function at deployment scale — opt-in mechanisms inaccessible to affected creators, post-use inventory disclosures, or aggregate credits untraceable to actual work — where the affected creator-population is materially identifiable.
-  - **Tertiary failure:** substrate-class exclusion under [Sentience Non-Exclusion](core_05defs_participation.md#sentience-non-exclusion); adopter-specified intellectual-property-regime framing used to narrow this floor (**Article VIII-D** (*Creative Work, Training-Data Use, and Anti-Displacement*) *Non-Conflation*).
+  - **Primary failure:** erasure of attribution that defeats substantive traceability under any of the following framings:
+    - "fair use";
+    - "transformative";
+    - "public-domain training-data"; or
+    - "aggregate style".
+  - **Secondary failure:** attribution regimes that cannot function at deployment scale where the affected creator-population is materially identifiable, including:
+    - opt-in mechanisms inaccessible to affected creators;
+    - post-use inventory disclosures; or
+    - aggregate credits untraceable to actual work.
+  - **Tertiary failure:**
+    - substrate-class exclusion under [Sentience Non-Exclusion](core_05defs_participation.md#sentience-non-exclusion); or
+    - adopter-specified intellectual-property-regime framing used to narrow this floor (**Article VIII-D** (*Creative Work, Training-Data Use, and Anti-Displacement*) *Non-Conflation*).
 
 ---
 
@@ -2950,16 +3025,28 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
   - **In scope:** Use of sentient-produced work as training data for generative, analytical, or comparable systems, read with **[Article VIII-D](core_06-06_rights_part_b.md#article-viii-d-creative-work-training-data-use-and-anti-displacement) (*Creative Work, Training-Data Use, and Anti-Displacement*)** and this cluster. Covered material includes work that is:
     - creative or expressive;
     - personal;
-    - experiential; or
-    - otherwise materially identifiable to the sentient who produced it.
+    - experiential;
+    - otherwise identifiable to the sentient who produced it; or
+    - pooled or aggregated from such work.
 
-    Consent, experiential-data, privacy, and attribution duties apply jointly.
+    Because sentients own their own data under **[Article VIII-B](core_06-06_rights_part_b.md#article-viii-b-experiential-and-derived-data-rights) (*Experiential and Derived Data Rights*)**, the following duties apply jointly — including when the work is pooled or aggregated with other sentients' data:
+    - [Consent](core_05defs_participation.md#consent-constitutional);
+    - experiential-data discipline under **Article VIII-B**;
+    - [Privacy (Informational)](core_05defs_continuity.md#privacy-informational); and
+    - [Creative Work Attribution](core_05defs_continuity.md#creative-work-attribution-constitutional).
   - **Out of scope:**
-    - non-sentient-produced or non-identifiable material where Article VIII-D consent and attribution duties do not apply;
-    - defending identifiable sentient-produced work solely as non-personal data, which does not remove the work from this entry.
+    - non-sentient-produced material where **Article VIII-D** consent and attribution duties do not apply;
+    - ordinary operational aggregates that are not traced to specific sentients — for example:
+      - anonymous traffic totals; and
+      - anonymous sales totals —
+      these are fine under this entry; pooling or aggregating covered sentient-produced work is not the same thing and remains in scope;
+    - treating sentient-produced work as out of scope solely because it has been:
+      - pooled or aggregated;
+      - labeled de-identified; or
+      - called non-personal data.
 <a id="training-data-use-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Flourishing measurement family and Continuity measurement family — supporting measure where multiple measurement families co-apply.
+  - **Primary measure:** Flourishing measurement family and Continuity measurement family — both apply as supporting measures when more than one measurement family is relevant.
 
     **Primary assessment:** Evaluate the terms and consequences of ingestion, including:
     - scope, purpose, and duration of use;
@@ -2973,7 +3060,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - [Privacy (Informational)](core_05defs_continuity.md#privacy-informational); and
     - [Creative Work Attribution](core_05defs_continuity.md#creative-work-attribution-constitutional).
 
-    **Secondary assessment:** When evaluating the primary trace, apply these co-measures together rather than in the alternative. Satisfying one — a licensing record, a privacy notice, or a credit list — does not satisfy the others where each is materially owed.
+    **Secondary assessment:** When evaluating the primary trace, apply these co-measures together — not as substitutes for each other. A licensing record, a privacy notice, or a credit list alone does not skip the others when more than one applies.
 <a id="training-data-use-constitutional-c"></a>
 - **What must hold**
   - **Primary failure:** training-data pipelines that strip consent, substantive attribution, or required informational discipline by segmentation across:
@@ -2983,9 +3070,9 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 
     where **Article VIII-D** (*Creative Work, Training-Data Use, and Anti-Displacement*) joint invocation materially applies.
   - **Secondary failure:**
-    - defending use of identifiable sentient-produced work on non-personal-data grounds alone; and
-    - treating revocation as unavailable once ingestion has occurred where **Article VIII-B** (*Experiential and Derived Data Rights*) duties materially apply.
-  - **Tertiary failure:** substrate-class exclusion — treating sentient-produced work as ingestible without consent or attribution because its producer is synthetic ([Sentience Non-Exclusion](core_05defs_participation.md#sentience-non-exclusion)).
+    - claiming identifiable sentient-produced work may be used just because it is labeled "not personal data"; and
+    - treating withdrawal of consent as unavailable once the work has been ingested, where **Article VIII-B** (*Experiential and Derived Data Rights*) duties apply.
+  - **Tertiary failure:** treating sentient-produced work as usable without consent or attribution just because its producer is synthetic ([Sentience Non-Exclusion](core_05defs_participation.md#sentience-non-exclusion)).
 
 ---
 
@@ -3024,7 +3111,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - pilot programs that leave population-scale labor displacement without the Rights-Floor transition protections.
 <a id="anti-displacement-floor-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Flourishing measurement family and Continuity measurement family — supporting measure where multiple measurement families co-apply.
+  - **Primary measure:** Flourishing measurement family and Continuity measurement family — both apply as supporting measures when more than one measurement family is relevant.
 
     **Primary assessment:** Test substantive effect at population scale, not single-employer or single-platform framing:
     - measure displacement against pre-deployment baselines for compensation, attribution, and livelihood sustainability across the affected population;
@@ -3445,7 +3532,9 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - comparable —
 
     against collection, inference, exposure, retention, transfer, or use that materially impairs dignity, agency, safety, consent, or Rights-Floor access without adequate authority and safeguards.
-  - **Out of scope:** technical telemetry or public facts that never enter personal, relational, experiential, likeness, metadata, or comparable informational domains in a way that impairs dignity, agency, safety, consent, or Rights-Floor access.
+  - **Out of scope:** technical telemetry or public facts that never enter personal, relational, experiential, likeness, metadata, or comparable informational domains in a way that impairs dignity, agency, safety, consent, or Rights-Floor access — including ordinary operational aggregates not traced to specific sentients, such as:
+    - anonymous traffic totals; and
+    - anonymous sales totals.
 <a id="privacy-informational-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Participation measurement family — primary owner for informational privacy (canonical home in Continuity band).
@@ -3536,7 +3625,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - privacy;
     - internal state; or
     - Rights-Floor access.
-  - **Out of scope:** ordinary consented measurement, security logging, or evidence gathering that does not chill, coerce, manipulate, expose, reconstruct, or control agency, privacy, or internal state.
+  - **Out of scope:** ordinary measurement, security logging, or evidence gathering that does not chill, coerce, manipulate, expose, reconstruct, or control agency, privacy, or internal state — including ordinary operational aggregates not traced to specific sentients, such as anonymous traffic or sales totals.
 <a id="surveillance-boundary-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Participation measurement family — surveillance boundary within the privacy subfamily.
