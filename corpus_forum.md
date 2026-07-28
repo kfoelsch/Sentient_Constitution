@@ -1,16 +1,57 @@
-# Constitutional Forums
+# Forums
 
-*(Edition alignment: same labels as the integrated Sentient Constitution `core_*` files, `corpus_joint_structure.md`, `corpus_systems.md`, and `corpus_institutions.md`.)*
+*In plain terms: rules for how panels form, cases route, appeals work, and forum operations stay independent when the constitution requires a fair hearing.*
 
-**Compatibility entrypoint:** this root file is the stable navigation wrapper for the forum implementation file. Substantive CF text now lives in the `corpus_forum/` subfiles listed below. Broad references to `corpus_forum.md` continue to mean the forum implementation file as a whole.
+**Scope:**
+- How lawful forums are structured and how panels are formed, disclosed, and kept independent
+- How matters route, transfer, certify representation, appeal, and exhaust review pathways
+- How integrity, anti-capture, and anti-self-judging rules protect fair hearing while a matter is live
+- How forensic support, investigation interfaces, and specialist chambers assist without capturing the forum
+- How performance, accessibility, records, staffing, continuity, fallback, and emergency adjudication keep hearings usable under stress
+- Section families **CF-1–CF-16** carry the detail — expand **Forums index** below when you need a specific file
 
-**Authority note:** the linked subfiles are binding incorporated implementation text where `corpus_forum.md` is incorporated under Sentient Constitution Chapter Sixteen. The wrapper is an index and does not restate or narrow the subfile text.
+**Does not:**
+- Redefine constitutional terms, Rights Floors, or offense taxonomy
+- Create new forum families beyond those authorized in [Chapter Eleven](core_11-11_forum.md)
+- Replace institutional governance ([Institutions](corpus_institutions.md)) or system classification ([Systems and data](corpus_systems.md))
 
-## Forum Index
+**Implements from the core files:**
+- [Chapter Five](core_05_definitions_home.md) definitions by reference — this layer does not redefine them
+- [Chapter Six](core_06-06_rights_part_c.md) hearing-facing Rights Floor themes — especially [Article XII-B](core_06-06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress) (*Right to Challenge, Review, and Redress*), [Article XV-A](core_06-06_rights_part_c.md#article-xv-a-auditability-and-observable-evidence) (*Auditability and Observable Evidence*), [Article XXII](core_06-06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards) (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*), [Article XXIII](core_06-06_rights_part_d.md#article-xxiii-conflict-resolution-escalation-and-emergency-proportionality) (*Conflict Resolution, Escalation, and Emergency Proportionality*), and [Article XXVI](core_06-06_rights_part_d.md#article-xxvi-transition-governance-continuity-and-re-baselining) (*Transition Governance, Continuity, and Re-Baselining*) where forums support transition
+- [Chapter Eleven](core_11-11_forum.md) forum families, jurisdiction, and cross-forum anti-self-judging — the constitutional owner this layer operationalizes
+- [Standing pipeline](README.md#standing-pipeline-and-forums) supervision context under Chapters Seven through Ten — forums hear and route; they do not replace standing measurement owners
+
+**Siblings:**
+- Core [README](README.md) — standing pipeline and constitutional forum owner ([Chapter Eleven](core_11-11_forum.md)) before operational detail
+- [Institutions](corpus_institutions.md) — body formation, authorization, oversight, correction, and dissolution
+- [Systems and data](corpus_systems.md) — systems that support filing, records, routing, or forum continuity
+- [Joint structure](corpus_joint_structure.md) — when this layer and another both apply to the same facts, or when you need shared operational terms
+
+**Binding:** When an adopter incorporates this layer under [Chapter Sixteen](core_16-16_incorporation.md), these rules bind as implementation detail. They must satisfy the Sentient Constitution — they do not override or narrow it.
+
+**Already know your topic?** Expand **Forums index** below, or use the [forums registry](corpus_forum/cf_00_registry_and_reading_rules.md) for labels and the family map.
+
+<details>
+<summary><strong><span style="color: #2563eb;">Compatibility and authority (non-operative)</span></strong></summary>
+
+> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations in the linked subfiles.
+>
+> *(Edition alignment: same labels as the integrated Sentient Constitution `core_*` files, `corpus_joint_structure.md`, `corpus_systems.md`, and `corpus_institutions.md`.)*
+>
+> **Compatibility entrypoint:** this root file is the stable navigation wrapper for the forum implementation file. Substantive CF text lives in the `corpus_forum/` subfiles. Broad references to `corpus_forum.md` continue to mean the forum implementation file as a whole.
+>
+> **Authority note:** the linked subfiles are binding incorporated implementation text where `corpus_forum.md` is incorporated under Sentient Constitution Chapter Sixteen. This wrapper is an index and does not restate or narrow the subfile text.
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Forums index</span></strong></summary>
+
+## Forums Index
 
 | Stable family | Authoritative subfile |
 |---|---|
-| Opening title, status, scope, and registry | [cf_00_registry_and_reading_rules.md](corpus_forum/cf_00_registry_and_reading_rules.md) |
+| Registry and identifier rules | [cf_00_registry_and_reading_rules.md](corpus_forum/cf_00_registry_and_reading_rules.md) |
 | CF-1: Scope, authority, and boundary rules | [cf_01_scope_authority_boundary_rules.md](corpus_forum/cf_01_scope_authority_boundary_rules.md) |
 | CF-2: Implementation integration map | [cf_02_implementation_integration_map.md](corpus_forum/cf_02_implementation_integration_map.md) |
 | CF-3: Forum formation, forum-structure mapping, and chamber structure | [cf_03_forum_formation_tribunal_mapping_chamber_structure.md](corpus_forum/cf_03_forum_formation_tribunal_mapping_chamber_structure.md) |
@@ -28,6 +69,10 @@
 | CF-15: Standard records, forms, and evidence artifacts | [cf_15_standard_records_forms_evidence_artifacts.md](corpus_forum/cf_15_standard_records_forms_evidence_artifacts.md) |
 | CF-16: Forum staffing, reserve capacity, shared administration, structural review, and structural records | [cf_16_staffing_reserve_capacity_structural_records.md](corpus_forum/cf_16_staffing_reserve_capacity_structural_records.md) |
 
+</details>
+
+**What to do now:** Continue to the next file. It states this layer’s boundary: what it owns here, and what remains in the Constitution or in the other implementation folders.
+
 ---
 
-**Next file:** [cf_00_registry_and_reading_rules.md](corpus_forum/cf_00_registry_and_reading_rules.md)
+**Next file:** [cf_01_scope_authority_boundary_rules.md](corpus_forum/cf_01_scope_authority_boundary_rules.md)

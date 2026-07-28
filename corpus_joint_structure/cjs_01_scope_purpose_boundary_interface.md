@@ -284,6 +284,6 @@ Any read-with cross-reference stated in the head **OP-O** applies to the whole c
 
 ---
 
-**Previous file:** [cjs_00_registry_and_reading_rules.md](cjs_00_registry_and_reading_rules.md)
+**Previous file:** [corpus_joint_structure.md](../corpus_joint_structure.md)
 
 **Next file:** [cjs_02_implementation_integration_map.md](cjs_02_implementation_integration_map.md)

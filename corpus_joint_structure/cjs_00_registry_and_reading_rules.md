@@ -1,6 +1,6 @@
-# Constitutional joint structure
+# Joint-structure registry and reading rules
 
-*In plain terms: this file is the front door to the **joint-structure** rulebook — the shared glue that tells the systems, institutions, and forum implementation files how to work together when more than one of them applies to the same situation.*
+*In plain terms: this file is the joint-structure **registry annex** — cross-file routing detail, stable family map, and drafting notes. Start reading at [corpus_joint_structure.md](../corpus_joint_structure.md); continue in order at [cjs_01_scope_purpose_boundary_interface.md](cjs_01_scope_purpose_boundary_interface.md).*
 
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
@@ -16,8 +16,9 @@
 > - The CJS folder is written in plain language with low jargon to improve accessibility, audit readability, and practical adoption testing.
 >
 > **Where this lives**
-> - **Navigation wrapper:** [corpus_joint_structure.md](../corpus_joint_structure.md) indexes the joint-structure subfiles.
-> - **Shared contract:** **CJS-1.2** (*Shared implementation-corpus preamble contract*) in the next file states authority, readability, shorthand, and canonical-meaning rules for all CJS and implementation files.
+> - **Navigation wrapper / reader landing:** [corpus_joint_structure.md](../corpus_joint_structure.md) indexes the joint-structure subfiles.
+> - **Reader landing:** [corpus_joint_structure.md](../corpus_joint_structure.md) is the human start for this layer. This file is the registry and routing annex, not a second front door.
+> - **Shared contract:** **CJS-1.2** (*Shared implementation-corpus preamble contract*) in [cjs_01_scope_purpose_boundary_interface.md](cjs_01_scope_purpose_boundary_interface.md) states authority, readability, shorthand, and canonical-meaning rules for all CJS and implementation files.
 > - **Editorial map:** [doc_architecture.md](../doc_architecture.md) is the placement guide; the CJS folder holds binding joint-structural text within **Corpus** as designated in **Chapter Five** and incorporated through **Chapter Sixteen**.
 >
 > **How to read CJS**
@@ -62,7 +63,7 @@
 
 <br>
 
-*In plain terms: this file is the front door to the **joint-structure** folder — cross-file reading guidance, the section-family map, and where to start before **CJS-1**. For where most readers should begin, expand **Corpus placement** at the top of this file.*
+*In plain terms: this file is the joint-structure **registry annex** — cross-file routing detail, the section-family map, and maintainer notes. Start at [corpus_joint_structure.md](../corpus_joint_structure.md); continue in order at **CJS-1**.*
 
 **Quick orientation**
 
@@ -251,5 +252,7 @@ These are the stable section families for the CJS folder:
 Apply [cjs_01_scope_purpose_boundary_interface.md](cjs_01_scope_purpose_boundary_interface.md) **CJS-1.1** (*Joint structural boundary and owner discipline*) and **CJS-1.2** (*Shared implementation-corpus preamble contract*). For read-with routing, stricter-wins, joint obligations, integrity routing, and emergency layering, follow the **CJS-1.2** authority-stack and routing bullets and the **CJS-2.1**, **CJS-3**, **CJS-3.6**, **CJS-4.3**, and **CJS-5** sections they name.
 
 ---
+
+**Previous file:** [corpus_joint_structure.md](../corpus_joint_structure.md)
 
 **Next file:** [cjs_01_scope_purpose_boundary_interface.md](cjs_01_scope_purpose_boundary_interface.md)

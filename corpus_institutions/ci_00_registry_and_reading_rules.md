@@ -1,6 +1,6 @@
-# Constitutional Institutions
+# Institutions registry and identifier rules
 
-*In plain terms: this file is the front door to the **institutions** rulebook — how bodies are formed, authorized, overseen, corrected, and dissolved within constitutional boundaries.*
+*In plain terms: this file is the institutions **registry annex** — how CI section labels work, and the stable family map. Start reading at [corpus_institutions.md](../corpus_institutions.md); continue in order at [ci_01_scope_purpose_legitimacy_interface.md](ci_01_scope_purpose_legitimacy_interface.md).*
 
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
@@ -16,7 +16,8 @@
 > - The CI folder is written in plain language with low jargon to improve accessibility, audit readability, and practical adoption testing.
 >
 > **Where this lives**
-> - **Navigation wrapper:** [corpus_institutions.md](../corpus_institutions.md) indexes the `corpus_institutions/` subfiles.
+> - **Navigation wrapper / reader landing:** [corpus_institutions.md](../corpus_institutions.md) indexes the `corpus_institutions/` subfiles.
+> - **Reader landing:** [corpus_institutions.md](../corpus_institutions.md) is the human start for this layer. This file is the registry and identifier annex, not a second front door.
 > - **Shared contract:** [corpus_joint_structure.md](../corpus_joint_structure.md) **CJS-1.2** (*Shared implementation-corpus preamble contract*).
 >
 > **Implementation layer map**
@@ -109,5 +110,7 @@ Unless another reference pattern is stated, **Article** labels with Roman numera
 | **CI-27** | Remedy systems and institutional redress capacity | [ci_27_remedy_systems_institutional_redress_capacity.md](ci_27_remedy_systems_institutional_redress_capacity.md) |
 
 ---
+
+**Previous file:** [corpus_institutions.md](../corpus_institutions.md)
 
 **Next file:** [ci_01_scope_purpose_legitimacy_interface.md](ci_01_scope_purpose_legitimacy_interface.md)

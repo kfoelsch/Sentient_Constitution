@@ -1,16 +1,57 @@
-# Systems implementation
+# Systems and data
 
-*(Edition alignment: same labels as the Sentient Constitution numbered `core_*.md` files (see [README.md](README.md)), `corpus_joint_structure.md`, `corpus_institutions.md`, and `corpus_forum.md`.)*
+*In plain terms: rules for how systems and data are typed, classified, tested, stewarded, and operated — so they stay aligned with the Sentient Constitution without rewriting it.*
 
-**Compatibility entrypoint:** this root file is the stable navigation wrapper for the systems implementation file. Substantive CS text now lives in the `corpus_systems/` subfiles listed below. Broad references to `corpus_systems.md` continue to mean the systems implementation file as a whole.
+**Scope:**
+- How systems are classified by impact and stewardship duty, and what stronger classes must do
+- How systems and data are typed and handled when they affect sentients, dependencies, or the info-sphere
+- How design, testing, deployment, and ongoing operation stay auditable, challengeable, and aligned with the Constitution
+- How complexity and funding are stewarded in ordinary operation without rewriting Rights Floors
+- How transition, attack/subversion, and partition or continuity failures are governed when ordinary operation is not enough
+- Named protocols and **CS-3–CS-5** families carry the detail — expand **Systems index** below when you need a specific file
 
-**Authority note:** the linked subfiles are binding incorporated implementation text where `corpus_systems.md` is incorporated under Sentient Constitution Chapter Sixteen. The wrapper is an index and does not restate or narrow the subfile text.
+**Does not:**
+- Redefine constitutional terms, Rights Floors, or offense taxonomy
+- Create a second Constitution, or narrow core meaning
+- Own day-to-day institutional governance or forum hearing process (see siblings)
+
+**Implements from the core files:**
+- [Chapter One](core_01_a_values_principles.md) principles and [Chapter Five](core_05_definitions_home.md) definitions by reference — this layer does not redefine them
+- [Chapters Two through Four](core_02-03_definition_mechanics.md) where auditability, traceability, and verification must hold in systems
+- [Chapter Six](core_06-06_rights_part_a.md) Rights Floor themes in operation — especially [Article XII-B](core_06-06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress) (*Right to Challenge, Review, and Redress*), [Article XIV](core_06-06_rights_part_c.md) (*Info-Sphere Integrity*), [Article XV-A](core_06-06_rights_part_c.md#article-xv-a-auditability-and-observable-evidence) (*Auditability and Observable Evidence*), [Article XX-A / XX-B](core_06-06_rights_part_c.md) (comprehensibility), and related system-facing articles
+- [Chapter Seven](core_07-07_system_alignment_certification.md) system-alignment certification where material classification and stewardship apply
+
+**Siblings:**
+- Core [README](README.md) — Rights Floor, standing pipeline, and constitutional reading order before implementation detail
+- [Institutions](corpus_institutions.md) — body formation, authorization, oversight, correction, and dissolution
+- [Forums](corpus_forum.md) — panels, routing, appeals, and hearing independence
+- [Joint structure](corpus_joint_structure.md) — when this layer and another both apply to the same facts, or when you need shared operational terms
+
+**Binding:** When an adopter incorporates this layer under [Chapter Sixteen](core_16-16_incorporation.md), these rules bind as implementation detail. They must satisfy the Sentient Constitution — they do not override or narrow it.
+
+**Already know your topic?** Expand **Systems index** below, or use the [systems registry](corpus_systems/cs_00_registry_and_reading_rules.md) for labels and the family map.
+
+<details>
+<summary><strong><span style="color: #2563eb;">Compatibility and authority (non-operative)</span></strong></summary>
+
+> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations in the linked subfiles.
+>
+> *(Edition alignment: same labels as the Sentient Constitution numbered `core_*.md` files (see [README.md](README.md)), `corpus_joint_structure.md`, `corpus_institutions.md`, and `corpus_forum.md`.)*
+>
+> **Compatibility entrypoint:** this root file is the stable navigation wrapper for the systems implementation file. Substantive CS text lives in the `corpus_systems/` subfiles. Broad references to `corpus_systems.md` continue to mean the systems implementation file as a whole.
+>
+> **Authority note:** the linked subfiles are binding incorporated implementation text where `corpus_systems.md` is incorporated under Sentient Constitution Chapter Sixteen. This wrapper is an index and does not restate or narrow the subfile text.
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Systems index</span></strong></summary>
 
 ## Systems Index
 
 | Stable family | Authoritative subfile |
 |---|---|
-| Opening title, status, scope, and registry | [cs_00_registry_and_reading_rules.md](corpus_systems/cs_00_registry_and_reading_rules.md) |
+| Registry and identifier rules | [cs_00_registry_and_reading_rules.md](corpus_systems/cs_00_registry_and_reading_rules.md) |
 | CS-1: Scope, purpose, and boundary interface | [cs_01_scope_purpose_identifier_rules.md](corpus_systems/cs_01_scope_purpose_identifier_rules.md) |
 | CS-2: Implementation integration map | [cs_02_implementation_integration_map.md](corpus_systems/cs_02_implementation_integration_map.md) |
 | Protocol A: System Design, Testing, Verification, and Deployment | [cs_protocol_a_system_design_testing_verification_deployment.md](corpus_systems/cs_protocol_a_system_design_testing_verification_deployment.md) |
@@ -25,6 +66,10 @@
 | Protocol R — Subversion Response, Replacement, and Reconstitution | [cs_protocol_r_subversion_response_replacement_reconstitution.md](corpus_systems/cs_protocol_r_subversion_response_replacement_reconstitution.md) |
 | Protocol D — Decentralized Constitutional Continuity and Partition Resilience | [cs_protocol_d_decentralized_constitutional_continuity_partition_resilience.md](corpus_systems/cs_protocol_d_decentralized_constitutional_continuity_partition_resilience.md) |
 
+</details>
+
+**What to do now:** Continue to the next file. It states this layer’s boundary: what it owns here, and what remains in the Constitution or in the other implementation folders.
+
 ---
 
-**Next file:** [cs_00_registry_and_reading_rules.md](corpus_systems/cs_00_registry_and_reading_rules.md)
+**Next file:** [cs_01_scope_purpose_identifier_rules.md](corpus_systems/cs_01_scope_purpose_identifier_rules.md)

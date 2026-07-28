@@ -1,6 +1,6 @@
-# Constitutional Forums
+# Forums registry and identifier rules
 
-*In plain terms: this file is the front door to the **forum** rulebook — how panels form, cases route, appeals work, and forum operations stay independent when the constitution requires a fair hearing.*
+*In plain terms: this file is the forums **registry annex** — how CF section labels work, and the stable family map. Start reading at [corpus_forum.md](../corpus_forum.md); continue in order at [cf_01_scope_authority_boundary_rules.md](cf_01_scope_authority_boundary_rules.md).*
 
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
@@ -16,7 +16,8 @@
 > - The CF folder is written in plain language with low jargon to improve accessibility, audit readability, and practical adoption testing.
 >
 > **Where this lives**
-> - **Navigation wrapper:** [corpus_forum.md](../corpus_forum.md) indexes the `corpus_forum/` subfiles.
+> - **Navigation wrapper / reader landing:** [corpus_forum.md](../corpus_forum.md) indexes the `corpus_forum/` subfiles.
+> - **Reader landing:** [corpus_forum.md](../corpus_forum.md) is the human start for this layer. This file is the registry and identifier annex, not a second front door.
 > - **Constitutional owner:** [core_11-11_forum.md](../core_11-11_forum.md) **Chapter Eleven** owns forum-family routing and constitutional forum doctrine; this file operationalizes it and must not redefine it.
 > - **Shared contract:** [corpus_joint_structure.md](../corpus_joint_structure.md) **CJS-1.2** (*Shared implementation-corpus preamble contract*).
 >
@@ -114,5 +115,7 @@ Unless another reference pattern is stated, **Article** labels with Roman numera
 | **CF-16** | Forum staffing, reserve capacity, shared administration, structural review, and structural records | [cf_16_staffing_reserve_capacity_structural_records.md](cf_16_staffing_reserve_capacity_structural_records.md) |
 
 ---
+
+**Previous file:** [corpus_forum.md](../corpus_forum.md)
 
 **Next file:** [cf_01_scope_authority_boundary_rules.md](cf_01_scope_authority_boundary_rules.md)

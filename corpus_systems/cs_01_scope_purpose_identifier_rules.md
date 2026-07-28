@@ -10,7 +10,7 @@
 
 <br>
 
-*In plain terms: this file states what the systems layer owns and what stays in the Sentient Constitution, **CI**, **CF**, and **CJS**. For the layer map and section registry, read [cs_00_registry_and_reading_rules.md](cs_00_registry_and_reading_rules.md). Continue to **CS-2** (*Implementation integration map*) for routing.*
+*In plain terms: this file states what the systems layer owns and what stays in the Sentient Constitution, **CI**, **CF**, and **CJS**. Reader start: [corpus_systems.md](../corpus_systems.md). Label map and section registry: [cs_00_registry_and_reading_rules.md](cs_00_registry_and_reading_rules.md). Continue to **CS-2** (*Implementation integration map*) for routing.*
 
 Apply [corpus_joint_structure.md](../corpus_joint_structure.md) **CJS-1.1** (*Joint structural boundary and owner discipline*), **CJS-1.2** (*Shared implementation-corpus preamble contract*), **CJS-2.1** (*Topic router (stable IDs)*), and **CJS-3.6** (*Implementation-label traceability and stricter-wins discipline*) for shared implementation-corpus reading, routing, and owner discipline. **CS** is the canonical home for system and data typing, classification, stewardship, and protocol-level engineering rules.
 
@@ -22,6 +22,6 @@ Market infrastructure and intermediaries with material dependency, coordination,
 
 ---
 
-**Previous file:** [cs_00_registry_and_reading_rules.md](cs_00_registry_and_reading_rules.md)
+**Previous file:** [corpus_systems.md](../corpus_systems.md)
 
 **Next file:** [cs_02_implementation_integration_map.md](cs_02_implementation_integration_map.md)

@@ -42,6 +42,6 @@ This file must not:
 
 ---
 
-**Previous file:** [cf_00_registry_and_reading_rules.md](cf_00_registry_and_reading_rules.md)
+**Previous file:** [corpus_forum.md](../corpus_forum.md)
 
 **Next file:** [cf_02_implementation_integration_map.md](cf_02_implementation_integration_map.md)

@@ -95,6 +95,7 @@ Keep constitutional concept + O/M/A/C boundary only; cite owner homes for instit
 | NAV-DAC-12-SPACER | `<br>` after collapsible D/A/C only | `make nav-widget-spacer-audit` |
 | NAV-DAC-CH1-ORDER | Chapter One D/A/C row order | `make ch1-dac-order-audit` |
 | NAV-PLACEMENT-01 | File-top Corpus placement widget | `make file-top-placement-audit` |
+| NAV-IMPL-LANDING-01 | Implementation-corpus wrapper landing page | Manual (see **section 4**) |
 | OWNER-OPENING-01 | Binding constitutional-owner opening statement | Manual (see **section 4**) |
 | LINK-IN-PARA-14 | Load-bearing in-paragraph links | `make in-paragraph-link-audit` |
 | CH5-GRAVITY | Chapter Five admission / de-bundling | `make ch5-definitions-gravity-audit` |
@@ -341,17 +342,53 @@ One collapsed **Corpus placement** widget per audited file top. Summary label: *
 
 - `#` title. For single-chapter core files this is the chapter/part heading itself (e.g. `# PREAMBLE / FOUNDATIONAL REQUIREMENTS`, `# CHAPTER SIX: FOUNDATIONAL RIGHTS`); the former redundant short-label `#` title above it has been retired. Multi-chapter core files (`core_02-04`, `core_13-15`) use a `# CHAPTERS …–…:` umbrella title above their several `## CHAPTER …` headings, and Chapter Five band/aim files keep their descriptive `#` band title.
 - Optional `<a id="chapter-…"></a>` anchors immediately above the `#` title carry the chapter/part anchors; an optional `*Non-operative subtitle:*` line may sit directly beneath the title.
-- On implementation `*_00_registry_and_reading_rules.md` files only: one-line `*In plain terms:*` front-door gloss.
+- On implementation `*_00_registry_and_reading_rules.md` files only: one-line `*In plain terms:*` registry-annex gloss (not a second front door; see **NAV-IMPL-LANDING-01**).
 - The placement widget, then any file- or part-level reader-guidance widget, then the chapter-opening **Trace** widget when present, then the **binding constitutional-owner opening line** when the file is an owner-layer chapter (see **OWNER-OPENING-01**), then `<br>` before optional orientation, `*In plain terms:*`, or other operative prose. No `---` rule sits between the title and the widgets.
 
 **Inside the placement widget (non-operative):**
 
 - `core_*` — binding-together notice, which chapter/part/band the file holds, README reading-order pointer, and file-sequence navigation (**Next**, **Upstream**, **Previous**) when present. A non-operative `**Constitutional owner:**` navigation bullet may appear here or in reader guidance; the **binding** owner claim still appears as operative prose after the opening widgets and chapter-opening Trace when present (**OWNER-OPENING-01**).
-- `*_00_registry` — edition and effective date, core vs implementation status, four-layer map (**CJS** / **CS** / **CI** / **CF**), navigation wrapper link, **CJS-1.2** pointer, and routing-anchor indexes previously split across multiple reader-guidance widgets.
+- `*_00_registry` — edition and effective date, core vs implementation status, four-layer map (**CJS** / **CS** / **CI** / **CF**), navigation wrapper / reader-landing link, **CJS-1.2** pointer, and routing-anchor indexes previously split across multiple reader-guidance widgets.
 
 **Do not keep visible at file top:** **Application baseline**, upstream inheritance boilerplate, or pipeline routing that duplicates the Corpus placement widget, chapter reader-guidance widgets, or [README.md](README.md). Chapter-specific scope boundaries and anti-substitution notes belong in the Corpus placement widget (file-level) or in chapter reader-guidance widgets (chapter-level within multi-chapter files).
 
-**Single sources:** global edition and reading order in [README.md](README.md); implementation shared contract in **CJS-1.2**; section-family registries remain in `*_00` files below the file-top block.
+### Implementation-corpus landing pages (NAV-IMPL-LANDING-01)
+
+The four root wrappers are the **only** human landings for their layers:
+
+| Wrapper | Layer | Default next |
+|---|---|---|
+| [corpus_joint_structure.md](corpus_joint_structure.md) | **CJS** | `cjs_01_*` |
+| [corpus_systems.md](corpus_systems.md) | **CS** | `cs_01_*` |
+| [corpus_institutions.md](corpus_institutions.md) | **CI** | `ci_01_*` |
+| [corpus_forum.md](corpus_forum.md) | **CF** | `cf_01_*` |
+
+Each `*_00_registry_and_reading_rules.md` is a **registry annex** (identifier rules, stable-family map, optional routing detail) — not a second front door. Default sequential reading is **wrapper → `*-1` scope file**. Footer audit treats `*_00` as side-path annexes (`tools/footer_audit.py`).
+
+**Visible stack (in this order):**
+
+1. `#` plain-language title (not editor jargon alone).
+2. One-line `*In plain terms:*` gloss.
+3. **Scope:** conceptual lifecycle bullets (what this layer is for) — not a reprint of the section-family index. End with one meta bullet pointing to the collapsed index for file-level detail.
+4. **Does not:** boundary bullets (what this layer refuses to own or redefine).
+5. **Implements from the core files:** short linked list of core chapters/articles this layer operationalizes (prefer ascending chapter order).
+6. **Siblings:** Core [README](README.md) first, then peer domain wrappers, then joint structure (or, on the CJS landing, the three domain wrappers plus the topic-router reader index).
+7. **Binding:** one plain statement — when incorporated under [Chapter Sixteen](core_16-16_incorporation.md), these rules bind as implementation detail; they must satisfy the Sentient Constitution and must not override or narrow it.
+8. **Already know your topic?** pointer to the collapsed index and/or registry annex.
+
+**Collapsed (non-operative) widgets, after the visible stack:**
+
+- **Compatibility and authority** — edition alignment, compatibility entrypoint, authority note.
+- **Layer index** — stable family → authoritative subfile table (the machine-oriented TOC).
+
+**Closing (immediately before the navigation footer):**
+
+9. **What to do now:** continue to the next file for this layer’s boundary (what it owns here vs what remains in the Constitution or other implementation folders). **CJS** may add that most readers need later sections only when cited — not the folder front to back.
+10. `---` then **`Next file:`** to the layer’s `*-1` scope file.
+
+**Do not** leave compatibility notes, authority boilerplate, edition stamps, or the full family index visible above the orientation stack. **Do not** treat `*_00` as the default next hop from the wrapper.
+
+**Single sources:** global edition and reading order in [README.md](README.md); implementation shared contract in **CJS-1.2**; section-family registries remain in `*_00` annex files; human landings remain the four wrappers under this rule.
 
 ### Plain-language guardrails (summary)
 

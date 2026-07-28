@@ -1,6 +1,6 @@
-# Systems implementation
+# Systems registry and identifier rules
 
-*In plain terms: this file is the front door to the **systems-and-data** rulebook — how classified systems are typed, stewarded, tested, and operated without contradicting the Sentient Constitution.*
+*In plain terms: this file is the systems **registry annex** — how CS section labels work, and the stable family map. Start reading at [corpus_systems.md](../corpus_systems.md); continue in order at [cs_01_scope_purpose_identifier_rules.md](cs_01_scope_purpose_identifier_rules.md).*
 
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
@@ -16,9 +16,10 @@
 > - This is **not** a core constitutional file. It is binding incorporated implementation text where [Chapter Five](../core_05defs_integrative.md#corpus) and [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) designate it.
 > - Prefer the filename **`corpus_systems.md`** in cross-references; the bare phrase *Constitutional Systems* is not used in corpus body text (see [tools/architecture/lexical_guardrails.json](../tools/architecture/lexical_guardrails.json)).
 > - The CS folder is written in plain language with low jargon to improve accessibility, audit readability, and practical adoption testing.
+> - **Reader landing:** [corpus_systems.md](../corpus_systems.md) is the human start for this layer. This file is the registry and identifier annex, not a second front door.
 >
 > **Where this lives**
-> - **Navigation wrapper:** [corpus_systems.md](../corpus_systems.md) indexes the `corpus_systems/` subfiles.
+> - **Navigation wrapper / reader landing:** [corpus_systems.md](../corpus_systems.md) indexes the `corpus_systems/` subfiles.
 > - **Editorial map:** [doc_architecture.md](../doc_architecture.md) section 4 (definitions protocol) and section 2 (ownership map).
 > - **Shared contract:** [corpus_joint_structure.md](../corpus_joint_structure.md) **CJS-1.2** (*Shared implementation-corpus preamble contract*).
 >
@@ -55,8 +56,6 @@
 </details>
 
 <br>
-
----
 
 ## Systems identifier and article-reference rules
 <details>
@@ -107,5 +106,7 @@ Unless another reference pattern is stated, **Article** labels with Roman numera
 | **Protocol D** | Decentralized constitutional continuity and partition resilience | [cs_protocol_d_decentralized_constitutional_continuity_partition_resilience.md](cs_protocol_d_decentralized_constitutional_continuity_partition_resilience.md) |
 
 ---
+
+**Previous file:** [corpus_systems.md](../corpus_systems.md)
 
 **Next file:** [cs_01_scope_purpose_identifier_rules.md](cs_01_scope_purpose_identifier_rules.md)

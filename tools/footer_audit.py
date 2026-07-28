@@ -48,7 +48,6 @@ CORE_CHAIN = (
 )
 
 CJS_CHAIN = (
-    "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
     "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
     "corpus_joint_structure/cjs_02_implementation_integration_map.md",
     "corpus_joint_structure/cjs_03_joint_structural_obligations.md",
@@ -61,10 +60,12 @@ CJS_CHAIN = (
     "corpus_joint_structure/cjs_05i_integrative_operations.md",
 )
 
+# Side-path registry annexes: not in the default wrapper → *-1 reading order.
+CJS_REGISTRY_ANNEX = "corpus_joint_structure/cjs_00_registry_and_reading_rules.md"
+
 CS_CHAIN = tuple(
     f"corpus_systems/{name}"
     for name in (
-        "cs_00_registry_and_reading_rules.md",
         "cs_01_scope_purpose_identifier_rules.md",
         "cs_02_implementation_integration_map.md",
         "cs_protocol_a_system_design_testing_verification_deployment.md",
@@ -81,10 +82,11 @@ CS_CHAIN = tuple(
     )
 )
 
+CS_REGISTRY_ANNEX = "corpus_systems/cs_00_registry_and_reading_rules.md"
+
 CI_CHAIN = tuple(
     f"corpus_institutions/{name}"
     for name in (
-        "ci_00_registry_and_reading_rules.md",
         "ci_01_scope_purpose_legitimacy_interface.md",
         "ci_02_implementation_integration_map.md",
         "ci_03_institutional_design_separation_of_powers.md",
@@ -115,10 +117,11 @@ CI_CHAIN = tuple(
     )
 )
 
+CI_REGISTRY_ANNEX = "corpus_institutions/ci_00_registry_and_reading_rules.md"
+
 CF_CHAIN = tuple(
     f"corpus_forum/{name}"
     for name in (
-        "cf_00_registry_and_reading_rules.md",
         "cf_01_scope_authority_boundary_rules.md",
         "cf_02_implementation_integration_map.md",
         "cf_03_forum_formation_tribunal_mapping_chamber_structure.md",
@@ -136,6 +139,15 @@ CF_CHAIN = tuple(
         "cf_15_standard_records_forms_evidence_artifacts.md",
         "cf_16_staffing_reserve_capacity_structural_records.md",
     )
+)
+
+CF_REGISTRY_ANNEX = "corpus_forum/cf_00_registry_and_reading_rules.md"
+
+REGISTRY_ANNEXES: tuple[tuple[str, str, str], ...] = (
+    (CJS_REGISTRY_ANNEX, "corpus_joint_structure.md", CJS_CHAIN[0]),
+    (CS_REGISTRY_ANNEX, "corpus_systems.md", CS_CHAIN[0]),
+    (CI_REGISTRY_ANNEX, "corpus_institutions.md", CI_CHAIN[0]),
+    (CF_REGISTRY_ANNEX, "corpus_forum.md", CF_CHAIN[0]),
 )
 
 READING_CHAIN: tuple[str, ...] = (
@@ -159,10 +171,13 @@ NEXT_ONLY = {
     "corpus_systems.md",
     "corpus_institutions.md",
     "corpus_forum.md",
-    CJS_CHAIN[0],
-    CS_CHAIN[0],
-    CI_CHAIN[0],
-    CF_CHAIN[0],
+}
+
+WRAPPER_ROOTS = {
+    "corpus_joint_structure.md",
+    "corpus_systems.md",
+    "corpus_institutions.md",
+    "corpus_forum.md",
 }
 
 TERMINAL_ALIGNMENT_FILES = {
@@ -215,6 +230,8 @@ def expected_next_link(current: str, nxt: str) -> str:
 
 
 def expected_prev_link(current: str, prev: str) -> str:
+    if "/" in current and prev in WRAPPER_ROOTS:
+        return f"../{prev}"
     if "/" in current and "/" in prev:
         return basename(prev)
     if "/" not in current and "/" in prev:
@@ -487,6 +504,13 @@ def main() -> int:
                 repaired += 1
         audit_file(root, rel, prev, nxt, errors)
 
+    # Registry annexes: side path from wrapper → annex → *-1 (not default reading order).
+    for annex_rel, annex_prev, annex_nxt in REGISTRY_ANNEXES:
+        if args.repair:
+            if repair_file(root, annex_rel, annex_prev, annex_nxt):
+                repaired += 1
+        audit_file(root, annex_rel, annex_prev, annex_nxt, errors)
+
     if args.repair and repaired:
         print(f"Repaired {repaired} file(s). Re-auditing...")
         errors.clear()
@@ -494,6 +518,8 @@ def main() -> int:
             prev = chain[i - 1] if i > 0 else None
             nxt = chain[i + 1] if i + 1 < len(chain) else "README.md"
             audit_file(root, rel, prev, nxt, errors)
+        for annex_rel, annex_prev, annex_nxt in REGISTRY_ANNEXES:
+            audit_file(root, annex_rel, annex_prev, annex_nxt, errors)
 
     if errors:
         print("Footer audit failures:", file=sys.stderr)
@@ -501,7 +527,10 @@ def main() -> int:
             print(f"  - {err}", file=sys.stderr)
         return 1
 
-    print(f"Footer audit OK ({len(chain)} files in reading chain).")
+    print(
+        f"Footer audit OK ({len(chain)} files in reading chain"
+        f" + {len(REGISTRY_ANNEXES)} registry annexes)."
+    )
     return 0
 
 

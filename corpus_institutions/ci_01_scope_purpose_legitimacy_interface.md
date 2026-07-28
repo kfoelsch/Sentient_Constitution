@@ -176,6 +176,6 @@ Apply [corpus_joint_structure.md](../corpus_joint_structure.md) **CJS-5.11** (*d
 
 ---
 
-**Previous file:** [ci_00_registry_and_reading_rules.md](ci_00_registry_and_reading_rules.md)
+**Previous file:** [corpus_institutions.md](../corpus_institutions.md)
 
 **Next file:** [ci_02_implementation_integration_map.md](ci_02_implementation_integration_map.md)

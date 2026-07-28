@@ -1,16 +1,58 @@
-# Constitutional Institutions
+# Institutions
 
-*(Edition alignment: same labels as the Sentient Constitution numbered `core_*.md` files (see [README.md](README.md)), `corpus_joint_structure.md`, `corpus_systems.md`, and `corpus_forum.md`.)*
+*In plain terms: rules for how bodies are formed, authorized, overseen, corrected, and dissolved within constitutional boundaries.*
 
-**Compatibility entrypoint:** this root file is the stable navigation wrapper for the institutions implementation file. Substantive CI text now lives in the `corpus_institutions/` subfiles listed below. Broad references to `corpus_institutions.md` continue to mean the institutions implementation file as a whole.
+**Scope:**
+- How institutional bodies are formed, authorized, staffed, and kept within constitutional limits
+- How conflict, procedure, oversight, transparency, and participation duties scale with material impact once a body is operating
+- How revenue, resources, and incentives are stewarded without capture or silent exclusion
+- How institutional rules land in domain interfaces (care, health, markets, commons, place, science, and related)
+- How institutions coordinate, fail, correct, dissolve, or transition — and how remedy capacity is kept real
+- Section families **CI-1–CI-27** carry the detail — expand **Institutions index** below when you need a specific file
 
-**Authority note:** the linked subfiles are binding incorporated implementation text where `corpus_institutions.md` is incorporated under Sentient Constitution Chapter Sixteen. The wrapper is an index and does not restate or narrow the subfile text.
+**Does not:**
+- Redefine constitutional terms, Rights Floors, or offense taxonomy
+- Replace forum hearing process ([Forums](corpus_forum.md))
+- Replace system classification doctrine ([Systems and data](corpus_systems.md))
+
+**Implements from the core files:**
+- [Chapter One](core_01_a_values_principles.md) principles ([Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), aims, material stake) scaled into institutional duties
+- [Chapter Five](core_05_definitions_home.md) definitions by reference — this layer does not redefine them
+- [Chapter Six](core_06-06_rights_part_a.md) Rights Floor themes where institutions must deliver accessible pathways, remedy, care, health, and related floors
+- [Chapter Nine](core_09-09_standing_integration.md) remedy and enforcement realism where **CI-27** carries institutional redress capacity
+- [Chapter Twelve](core_12-12_governance.md) constitutional contract, legitimacy, authorization, and stewardship — institutional mechanics
+
+**Siblings:**
+- Core [README](README.md) — Rights Floor, standing pipeline, and constitutional reading order before implementation detail
+- [Systems and data](corpus_systems.md) — typing, classification, and stewardship of systems and data
+- [Forums](corpus_forum.md) — panels, routing, appeals, and hearing independence
+- [Joint structure](corpus_joint_structure.md) — when this layer and another both apply to the same facts, or when you need shared operational terms
+
+**Binding:** When an adopter incorporates this layer under [Chapter Sixteen](core_16-16_incorporation.md), these rules bind as implementation detail. They must satisfy the Sentient Constitution — they do not override or narrow it.
+
+**Already know your topic?** Expand **Institutions index** below, or use the [institutions registry](corpus_institutions/ci_00_registry_and_reading_rules.md) for labels and the family map.
+
+<details>
+<summary><strong><span style="color: #2563eb;">Compatibility and authority (non-operative)</span></strong></summary>
+
+> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations in the linked subfiles.
+>
+> *(Edition alignment: same labels as the Sentient Constitution numbered `core_*.md` files (see [README.md](README.md)), `corpus_joint_structure.md`, `corpus_systems.md`, and `corpus_forum.md`.)*
+>
+> **Compatibility entrypoint:** this root file is the stable navigation wrapper for the institutions implementation file. Substantive CI text lives in the `corpus_institutions/` subfiles. Broad references to `corpus_institutions.md` continue to mean the institutions implementation file as a whole.
+>
+> **Authority note:** the linked subfiles are binding incorporated implementation text where `corpus_institutions.md` is incorporated under Sentient Constitution Chapter Sixteen. This wrapper is an index and does not restate or narrow the subfile text.
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Institutions index</span></strong></summary>
 
 ## Institutions Index
 
 | Stable family | Authoritative subfile |
 |---|---|
-| Opening title, status, scope, and registry | [ci_00_registry_and_reading_rules.md](corpus_institutions/ci_00_registry_and_reading_rules.md) |
+| Registry and identifier rules | [ci_00_registry_and_reading_rules.md](corpus_institutions/ci_00_registry_and_reading_rules.md) |
 | CI-1: Scope, purpose, and legitimacy interface | [ci_01_scope_purpose_legitimacy_interface.md](corpus_institutions/ci_01_scope_purpose_legitimacy_interface.md) |
 | CI-2: Implementation integration map | [ci_02_implementation_integration_map.md](corpus_institutions/ci_02_implementation_integration_map.md) |
 | CI-3: Institutional design, separation of powers, and authority custody | [ci_03_institutional_design_separation_of_powers.md](corpus_institutions/ci_03_institutional_design_separation_of_powers.md) |
@@ -39,6 +81,10 @@
 | CI-26: Compliance mapping and stable registry | [ci_26_compliance_mapping_stable_registry.md](corpus_institutions/ci_26_compliance_mapping_stable_registry.md) |
 | CI-27: Remedy systems and institutional redress capacity | [ci_27_remedy_systems_institutional_redress_capacity.md](corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md) |
 
+</details>
+
+**What to do now:** Continue to the next file. It states this layer’s boundary: what it owns here, and what remains in the Constitution or in the other implementation folders.
+
 ---
 
-**Next file:** [ci_00_registry_and_reading_rules.md](corpus_institutions/ci_00_registry_and_reading_rules.md)
+**Next file:** [ci_01_scope_purpose_legitimacy_interface.md](corpus_institutions/ci_01_scope_purpose_legitimacy_interface.md)
