@@ -72,7 +72,7 @@ Machine-checkable rules: [tools/architecture/rule_registry.json](tools/architect
 - **Standing:** Chapter Eight owns Questions 1 and 2 (**verified** standing records and Contribution Axis / Violation Axis measurement). Chapter Nine accepts those inputs as immutable and owns Question 3 integration and effects. Chapter Ten owns designation only. Chapter Eleven forums may **open, update, or correct** standing records — or **set a bad record aside on challenge** — from verified findings. Boundary gloss: a **filed case** is not standing by itself. Prefer **case** (forum matter / dispute filing) over **claim** in that contrast; keep **claim** for dispute-phase inventory labels (*unadjudicated claims*) and other established senses.
 - **Rights:** Chapter Six; implementation files **cite** articles.
 - **Joint operational terms:** `corpus_joint_structure.md` only — route via **CJS-2.1**.
-- **Operational taxonomies:** **CS-3**, **CS-4**, **CS-5** and named protocols.
+- **Operational taxonomies:** **CS-2**, **CS-2**, **CS-2** and named protocols.
 
 ### CJS owner rule
 
@@ -419,7 +419,7 @@ Each layer’s first substantive file (`cjs_01_*`, `cs_01_*`, `ci_01_*`, `cf_01_
 | Constitutional vs joint operational definitions | **CJS-1.1** only (other layers may keep one short pointer bullet) |
 | Shared implementation-corpus contract | **CJS-1.2** only |
 | Identifier / label rules | **CJS-1.3** + each layer’s `*_00` registry annex |
-| Specialty classification examples | Owner taxonomy file (for example **CS-4**), not the `*-1` boundary page |
+| Specialty classification examples | Owner taxonomy file (for example **CS-3**), not the `*-1` boundary page |
 
 **Trace Upstream** for `*-1` boundary pages should cite the joint boundary home (**CJS-1.1**) or the relevant core chapter — not **CJS-1.2** unless the subsection is itself the shared-contract owner.
 
@@ -435,7 +435,7 @@ Capitalize **Constitutional Tetrad**, **Two Constitutional Aims**, **Flourishing
 
 Chapter Five editorial order: `make ch5-entry-format-audit`, `make ch5-alphabetical-directory-audit`, `make ch5-cluster-order-audit`, `make ch5-constitutional-cluster-audit`. For drift-prone concepts: one canonical paragraph (**section 2**; **CJS-2.1**); elsewhere pointers only.
 
-**Precedence:** (1) Sentient Constitution values/rights; (2) Ch 2–3 for term meaning; (3) CS-3/4/5 for Type/Class/steward assignment; (4) stricter applicable rule where declared.
+**Precedence:** (1) Sentient Constitution values/rights; (2) Ch 2–3 for term meaning; (3) CS-2/4/5 for Type/Class/steward assignment; (4) stricter applicable rule where declared.
 
 ---
 
@@ -515,7 +515,7 @@ Examples: `**Article XV-C** (*Verification Accessibility*)`; `**Article XXIV-C**
 ## 8. Dependency order for editing
 
 1. Ch 1 → Ch 2–4 → Ch 5 → Ch 6 → Ch 7 → Ch 8 → Ch 9 → Ch 10 → Ch 11 → Ch 12 → Ch 13–15 → Ch 16.
-2. Then **CJS-4.3** / **CJS-5**, then **CS-3 → CS-4 → CS-5**, then **Protocol A → B → S4 → S5**.
+2. Then **CJS-4.3** / **CJS-5**, then **CS-2 → CS-3 → CS-4**, then **Protocol A → B → S4 → S5**.
 
 Redundancy sweeps: center-out from Chapter Five definitions (**section 13**).
 
@@ -525,7 +525,7 @@ Redundancy sweeps: center-out from Chapter Five definitions (**section 13**).
 
 - Long operational checklists in the Sentient Constitution without a rights or **CJS-5** hook.
 - New rights defined only in implementation files.
-- Duplicate Type/Class definitions in Chapter Five (prefer CS-3/CS-4).
+- Duplicate Type/Class definitions in Chapter Five (prefer CS-2/CS-3).
 - Silent deletion of ambiguous article references.
 
 ---
@@ -538,7 +538,8 @@ Redundancy sweeps: center-out from Chapter Five definitions (**section 13**).
 
 ## 11. Known cleanup notes
 
-- Prefer **CS-3** over legacy “Chapter Two (Information Types…)” wording inside CS text.
+- Prefer **CS-2** over legacy “Chapter Two (Information Types…)” wording inside CS text.
+- **CS-2** is split: Part A (`cs_02_a_information_types_and_handling.md`, §1–§7 handling rules); Part B (`cs_02_b_data_classifications.md`, §8 type descriptions).
 - **CJS-4** and **CJS-5** are the live citation grammar for `corpus_joint_structure.md`.
 - Route cross-implementation choreography to CJS; local doctrine to CS / CI / CF per **section 4**.
 

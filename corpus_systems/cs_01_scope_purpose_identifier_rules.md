@@ -4,7 +4,7 @@
 
 - Upstream: [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-joint-structural-boundary-and-owner-discipline) joint structural boundary and owner discipline; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05_definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: this section's local operational requirements for **CS-1: Scope, purpose, and boundary interface**.
-- Read with: **CS-1**; [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-joint-structural-boundary-and-owner-discipline); [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids); **CS-3 — Information types and handling**; **CS-4 — System classification and handling**; **CS-5 — Critical system stewardship**.
+- Read with: **CS-1**; [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-joint-structural-boundary-and-owner-discipline); [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids); **CS-2 — Information types and handling**; **CS-3 — System classification and handling**; **CS-4 — Critical system stewardship**.
 
 </details>
 
@@ -28,9 +28,9 @@
 
 **What this layer owns**
 
-- information typing and handling (**CS-3 — Information types and handling**);
-- system classification and dependency typing (**CS-4 — System classification and handling**);
-- critical system stewardship tiers (**CS-5 — Critical system stewardship**);
+- information typing and handling (**CS-2 — Information types and handling**);
+- system classification and dependency typing (**CS-3 — System classification and handling**);
+- critical system stewardship tiers (**CS-4 — Critical system stewardship**);
 - named protocols for design and verification, comprehensibility, justice safeguards, sustainability, funding, transition, subversion response, and partition resilience (**Protocol A** through **Protocol T**, **Protocol R**, and **Protocol D**).
 
 **What this layer does not own**
@@ -51,4 +51,4 @@
 
 **Previous file:** [corpus_systems.md](../corpus_systems.md)
 
-**Next file:** [cs_protocol_a_system_design_testing_verification_deployment.md](cs_protocol_a_system_design_testing_verification_deployment.md)
+**Next file:** [cs_02_a_information_types_and_handling.md](cs_02_a_information_types_and_handling.md)

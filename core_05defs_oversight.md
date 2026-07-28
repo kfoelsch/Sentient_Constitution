@@ -113,7 +113,7 @@ This band holds definitions under the **Oversight** Tetrad leg — transparency,
 <br>
 
 - **What it is**
-  - **In scope:** Governance intensity, [oversight](core_05apex_oversight_leg.md#oversight-constitutional) depth, verification burden, and procedural rigor must scale with [material stake](core_00_preamble.md#material-stake) — [material impact](core_05defs_oversight.md#material-impact), [dependency](core_05defs_continuity.md#dependency), and [risk](core_05defs_continuity.md#risk). Scaling follows system classification and implementation file criteria, including *[corpus_systems.md](corpus_systems.md)*, CS-4 — System classification and handling, and dependent provisions.
+  - **In scope:** Governance intensity, [oversight](core_05apex_oversight_leg.md#oversight-constitutional) depth, verification burden, and procedural rigor must scale with [material stake](core_00_preamble.md#material-stake) — [material impact](core_05defs_oversight.md#material-impact), [dependency](core_05defs_continuity.md#dependency), and [risk](core_05defs_continuity.md#risk). Scaling follows system classification and implementation file criteria, including *[corpus_systems.md](corpus_systems.md)*, CS-3 — System classification and handling, and dependent provisions.
   - **Out of scope:** One-size governance intensity, or a classification that does not match the system's real stake, impact, dependency, or risk.
 <a id="classification-scaled-governance-a"></a>
 - **How to measure and assess**
@@ -543,7 +543,7 @@ indicators, independent verification, or verification accessibility and independ
 Outside that admission scope, individual entries may still operate as supporting Independent Definitions without importing the whole cluster.
 
 **System class and proportionality.** Transparency, auditability, and verification obligations scale with system class under
-**[corpus_systems.md](corpus_systems.md), CS-4 — System classification and handling**, and with material impact,
+**[corpus_systems.md](corpus_systems.md), CS-3 — System classification and handling**, and with material impact,
 dependency, and risk. Higher-class systems (Class A, B, C) require proportionately greater assurance depth, record granularity,
 independent verification rigor, and audit scope sufficiency than lower-class systems (Class L, P).
 
@@ -579,7 +579,7 @@ See [Joint invocation and satisfaction](core_05_definitions_home.md#joint-invoca
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Principles: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **oversight** leg; [§9 Stewardship and Distributed Understanding](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding), [10.2.1 Preservation of Epistemic Integrity](core_01_b_interaction_interpretation.md#621-preservation-of-epistemic-integrity).
-- Read with: [Epistemic Integrity](core_05defs_oversight.md#epistemic-integrity), [Truth (Constitutional Constraint)](core_05defs_oversight.md#truth-constitutional-constraint), [Contestability](core_05defs_accountability.md#contestability), [Auditability](core_05defs_oversight.md#auditability), and **[corpus_systems.md](corpus_systems.md), CS-3 — Information types and handling** (**Type P** — public disclosure data).
+- Read with: [Epistemic Integrity](core_05defs_oversight.md#epistemic-integrity), [Truth (Constitutional Constraint)](core_05defs_oversight.md#truth-constitutional-constraint), [Contestability](core_05defs_accountability.md#contestability), [Auditability](core_05defs_oversight.md#auditability), and **[corpus_systems.md](corpus_systems.md), CS-2 — Information types and handling** (**Type O** — open public-baseline disclosure data).
 
 </details>
 
@@ -591,7 +591,7 @@ See [Joint invocation and satisfaction](core_05_definitions_home.md#joint-invoca
   - **In scope:** Disclosure of externally relevant system behavior, limitations, uncertainties, and dependencies, reaching a level sufficient for affected parties to understand function and risk in context. Subject to safety- and security-justified limits consistent with [Epistemic Integrity](core_05defs_oversight.md#epistemic-integrity) and Chapter One §9.2 — Epistemic Disclosure Constraints.
     - Where lawful online publication infrastructure exists for a materially scoped system, institution, forum process, or comparable governed domain, baseline transparency disclosure must be freely available online for class-appropriate public access, without paywall or insider-only substitution for the public baseline.
     - Where raw public disclosure is inappropriate under lawful protection constraints, the owner must provide the maximum feasible online public substitute (for example aggregation, de-identification, summary disclosure, delayed disclosure, or qualified audit access) while preserving meaningful accountability and contestability.
-    - Public-baseline publication posture, online availability, and lawful substitute discipline are implemented at the systems layer as **Type P** data under **[corpus_systems.md](corpus_systems.md), CS-3 — Information types and handling**.
+    - Public-baseline publication posture, online availability, and lawful substitute discipline are implemented at the systems layer as **Type O** data under **[corpus_systems.md](corpus_systems.md), CS-2 — Information types and handling**.
   - **Out of scope:** A data dump, document volume, paywall, or insider-only access that does not let affected parties understand function and risk.
 <a id="transparency-a"></a>
 - **How to measure and assess**
@@ -876,10 +876,10 @@ See [Joint invocation and satisfaction](core_05_definitions_home.md#joint-invoca
 - **How to measure and assess**
   - **Primary measure:** [Oversight measurement family](core_05apex_oversight_leg.md#oversight-measurement-family) — *Can sentients see, verify, and rely on what systems represent?*
 
-    **Primary assessment:** Publication must not bypass **[corpus_systems.md](corpus_systems.md), CS-3 — Information types and handling**, [Privacy (Informational)](core_05defs_continuity.md#privacy-informational), [Protected Internal-State Boundary](core_05defs_continuity.md#protected-internal-state-boundary-constitutional), or **Type N** handling. Except where this Constitution explicitly permits, publication must not reconstruct, infer, or expose another sentient’s protected internal cognitive or emotional states.
+    **Primary assessment:** Publication must not bypass **[corpus_systems.md](corpus_systems.md), CS-2 — Information types and handling**, [Privacy (Informational)](core_05defs_continuity.md#privacy-informational), [Protected Internal-State Boundary](core_05defs_continuity.md#protected-internal-state-boundary-constitutional), or **Type N** handling. Except where this Constitution explicitly permits, publication must not reconstruct, infer, or expose another sentient’s protected internal cognitive or emotional states.
 <a id="protected-data-and-internal-state-publication-constraint-c"></a>
 - **What must hold**
-  - **Primary failure.** Publication that violates classified-data rules, bypasses CS-3 handling, or exposes protected internal states contrary to [Privacy (Informational)](core_05defs_continuity.md#privacy-informational) and [Protected Internal-State Boundary](core_05defs_continuity.md#protected-internal-state-boundary-constitutional).
+  - **Primary failure.** Publication that violates classified-data rules, bypasses CS-2 handling, or exposes protected internal states contrary to [Privacy (Informational)](core_05defs_continuity.md#privacy-informational) and [Protected Internal-State Boundary](core_05defs_continuity.md#protected-internal-state-boundary-constitutional).
 
 ##### High-Impact and Systemic Harm Publication Constraint
 
@@ -893,7 +893,7 @@ See [Joint invocation and satisfaction](core_05_definitions_home.md#joint-invoca
     **Primary assessment:** Consider primary and [Reasonably Foreseeable](core_05defs_oversight.md#reasonably-foreseeable) effects on coordination, [Safety (Constraint)](core_05defs_continuity.md#safety-constraint), exploitation of vulnerabilities, and [Info-Sphere](core_05defs_participation.md#info-sphere) integrity.
 <a id="high-impact-and-systemic-harm-publication-constraint-c"></a>
 - **What must hold**
-  - Even factually accurate publication is constrained where its primary or [Reasonably Foreseeable](core_05defs_oversight.md#reasonably-foreseeable) effect is to enable targeted [Harm](core_05defs_accountability.md#harm), [Coercion and Manipulation](core_05defs_participation.md#coercion-and-manipulation-constitutional), large-scale harmful coordination, [Cascading Failure](core_05defs_continuity.md#cascading-failure), or patterns that materially degrade [Epistemic Integrity](core_05defs_oversight.md#epistemic-integrity). **Class A** and **Class B** systems under **[corpus_systems.md](corpus_systems.md), CS-4 — System classification and handling**, trigger heightened proportional constraints on distribution mechanics and safeguards.
+  - Even factually accurate publication is constrained where its primary or [Reasonably Foreseeable](core_05defs_oversight.md#reasonably-foreseeable) effect is to enable targeted [Harm](core_05defs_accountability.md#harm), [Coercion and Manipulation](core_05defs_participation.md#coercion-and-manipulation-constitutional), large-scale harmful coordination, [Cascading Failure](core_05defs_continuity.md#cascading-failure), or patterns that materially degrade [Epistemic Integrity](core_05defs_oversight.md#epistemic-integrity). **Class A** and **Class B** systems under **[corpus_systems.md](corpus_systems.md), CS-3 — System classification and handling**, trigger heightened proportional constraints on distribution mechanics and safeguards.
   - **Primary failure:** publishing without the proportional distribution constraints and safeguards required for these primary or reasonably foreseeable effects, including the heightened constraints applicable to **Class A** and **Class B** systems.
 
 ##### Security-Sensitive Disclosure Balance

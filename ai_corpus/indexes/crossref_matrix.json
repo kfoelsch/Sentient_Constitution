@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-07-28T14:42:40+00:00",
+  "generated_at": "2026-07-28T16:36:32+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -213,6 +213,22 @@
         "type": "companion"
       },
       {
+        "id": "corpus_systems/cs_02_a_information_types_and_handling.md",
+        "type": "companion"
+      },
+      {
+        "id": "corpus_systems/cs_02_b_data_classifications.md",
+        "type": "companion"
+      },
+      {
+        "id": "corpus_systems/cs_03_system_classification_and_handling.md",
+        "type": "companion"
+      },
+      {
+        "id": "corpus_systems/cs_04_critical_system_stewardship.md",
+        "type": "companion"
+      },
+      {
         "id": "corpus_systems/cs_protocol_a_system_design_testing_verification_deployment.md",
         "type": "companion"
       },
@@ -242,18 +258,6 @@
       },
       {
         "id": "corpus_systems/cs_protocol_t_transition_constitution_migration_governance.md",
-        "type": "companion"
-      },
-      {
-        "id": "corpus_systems/cs_s1_information_types_and_handling.md",
-        "type": "companion"
-      },
-      {
-        "id": "corpus_systems/cs_s2_system_classification_and_handling.md",
-        "type": "companion"
-      },
-      {
-        "id": "corpus_systems/cs_s3_critical_system_stewardship.md",
         "type": "companion"
       },
       {
@@ -1304,7 +1308,7 @@
             ]
           },
           {
-            "file": "corpus_systems/cs_s1_information_types_and_handling.md",
+            "file": "corpus_systems/cs_02_a_information_types_and_handling.md",
             "count": 1,
             "anchors": []
           }
@@ -6316,6 +6320,13 @@
             "file": "corpus_systems.md",
             "count": 6,
             "anchors": []
+          },
+          {
+            "file": "corpus_systems/cs_02_a_information_types_and_handling.md",
+            "count": 1,
+            "anchors": [
+              "#7-data-separation-attribution-and-lifecycle-integrity"
+            ]
           }
         ]
       },
@@ -7887,6 +7898,26 @@
             "anchors": []
           },
           {
+            "file": "corpus_systems/cs_02_a_information_types_and_handling.md",
+            "count": 1,
+            "anchors": []
+          },
+          {
+            "file": "corpus_systems/cs_02_b_data_classifications.md",
+            "count": 1,
+            "anchors": []
+          },
+          {
+            "file": "corpus_systems/cs_03_system_classification_and_handling.md",
+            "count": 1,
+            "anchors": []
+          },
+          {
+            "file": "corpus_systems/cs_04_critical_system_stewardship.md",
+            "count": 1,
+            "anchors": []
+          },
+          {
             "file": "corpus_systems/cs_protocol_a_system_design_testing_verification_deployment.md",
             "count": 1,
             "anchors": []
@@ -7923,21 +7954,6 @@
           },
           {
             "file": "corpus_systems/cs_protocol_t_transition_constitution_migration_governance.md",
-            "count": 1,
-            "anchors": []
-          },
-          {
-            "file": "corpus_systems/cs_s1_information_types_and_handling.md",
-            "count": 1,
-            "anchors": []
-          },
-          {
-            "file": "corpus_systems/cs_s2_system_classification_and_handling.md",
-            "count": 1,
-            "anchors": []
-          },
-          {
-            "file": "corpus_systems/cs_s3_critical_system_stewardship.md",
             "count": 1,
             "anchors": []
           }
@@ -10081,6 +10097,26 @@
             "anchors": []
           },
           {
+            "file": "corpus_systems/cs_02_a_information_types_and_handling.md",
+            "count": 1,
+            "anchors": []
+          },
+          {
+            "file": "corpus_systems/cs_02_b_data_classifications.md",
+            "count": 1,
+            "anchors": []
+          },
+          {
+            "file": "corpus_systems/cs_03_system_classification_and_handling.md",
+            "count": 1,
+            "anchors": []
+          },
+          {
+            "file": "corpus_systems/cs_04_critical_system_stewardship.md",
+            "count": 1,
+            "anchors": []
+          },
+          {
             "file": "corpus_systems/cs_protocol_a_system_design_testing_verification_deployment.md",
             "count": 1,
             "anchors": []
@@ -10117,21 +10153,6 @@
           },
           {
             "file": "corpus_systems/cs_protocol_t_transition_constitution_migration_governance.md",
-            "count": 1,
-            "anchors": []
-          },
-          {
-            "file": "corpus_systems/cs_s1_information_types_and_handling.md",
-            "count": 1,
-            "anchors": []
-          },
-          {
-            "file": "corpus_systems/cs_s2_system_classification_and_handling.md",
-            "count": 1,
-            "anchors": []
-          },
-          {
-            "file": "corpus_systems/cs_s3_critical_system_stewardship.md",
             "count": 1,
             "anchors": []
           }
@@ -10233,6 +10254,140 @@
             "anchors": []
           },
           {
+            "file": "corpus_systems/cs_02_a_information_types_and_handling.md",
+            "count": 1,
+            "anchors": []
+          }
+        ]
+      },
+      {
+        "source": "corpus_systems/cs_02_a_information_types_and_handling.md",
+        "targets": [
+          {
+            "file": "corpus_systems/cs_01_scope_purpose_identifier_rules.md",
+            "count": 1,
+            "anchors": []
+          },
+          {
+            "file": "corpus_systems/cs_02_b_data_classifications.md",
+            "count": 4,
+            "anchors": [
+              "#cs-2-part-b-data-classifications"
+            ]
+          }
+        ]
+      },
+      {
+        "source": "corpus_systems/cs_02_b_data_classifications.md",
+        "targets": [
+          {
+            "file": "core_05defs_oversight.md",
+            "count": 1,
+            "anchors": [
+              "#transparency"
+            ]
+          },
+          {
+            "file": "corpus_systems/cs_02_a_information_types_and_handling.md",
+            "count": 4,
+            "anchors": [
+              "#2-type-o-public-baseline-for-class-abc--default-and-exceptions",
+              "#cs-2-part-a-information-types-and-handling"
+            ]
+          },
+          {
+            "file": "corpus_systems/cs_03_system_classification_and_handling.md",
+            "count": 1,
+            "anchors": []
+          }
+        ]
+      },
+      {
+        "source": "corpus_systems/cs_03_system_classification_and_handling.md",
+        "targets": [
+          {
+            "file": "core_01_c_stewardship_capacity_principles.md",
+            "count": 3,
+            "anchors": [
+              "#115-contingent-claims-games-of-chance-and-event-contract-markets",
+              "#121-productive-capacity-instrumental-good",
+              "#13-market-structure"
+            ]
+          },
+          {
+            "file": "core_05defs_continuity.md",
+            "count": 1,
+            "anchors": [
+              "#cascading-failure"
+            ]
+          },
+          {
+            "file": "core_05defs_integrative.md",
+            "count": 1,
+            "anchors": [
+              "#constitutional-constraint"
+            ]
+          },
+          {
+            "file": "core_05defs_oversight.md",
+            "count": 1,
+            "anchors": [
+              "#materiality-determination"
+            ]
+          },
+          {
+            "file": "core_06-06_rights_part_b.md",
+            "count": 1,
+            "anchors": [
+              "#article-x-c-adult-consensual-commercial-sexual-services-and-sexual-exploitation"
+            ]
+          },
+          {
+            "file": "core_06-06_rights_part_c.md",
+            "count": 2,
+            "anchors": [
+              "#article-xiv-info-sphere-integrity",
+              "#article-xv-a-auditability-and-observable-evidence"
+            ]
+          },
+          {
+            "file": "core_07_a_system_alignment_certification_evaluation.md",
+            "count": 2,
+            "anchors": [
+              "#2-system-class-evaluation"
+            ]
+          },
+          {
+            "file": "corpus_institutions/ci_19_vulnerable_personal_services_markets_article_xc_interface.md",
+            "count": 1,
+            "anchors": []
+          },
+          {
+            "file": "corpus_systems/cs_02_b_data_classifications.md",
+            "count": 1,
+            "anchors": []
+          },
+          {
+            "file": "corpus_systems/cs_04_critical_system_stewardship.md",
+            "count": 1,
+            "anchors": []
+          },
+          {
+            "file": "corpus_systems/cs_protocol_a_system_design_testing_verification_deployment.md",
+            "count": 2,
+            "anchors": []
+          }
+        ]
+      },
+      {
+        "source": "corpus_systems/cs_04_critical_system_stewardship.md",
+        "targets": [
+          {
+            "file": "corpus_systems/cs_03_system_classification_and_handling.md",
+            "count": 1,
+            "anchors": []
+          },
+          {
             "file": "corpus_systems/cs_protocol_a_system_design_testing_verification_deployment.md",
             "count": 1,
             "anchors": []
@@ -10243,18 +10398,16 @@
         "source": "corpus_systems/cs_protocol_a_system_design_testing_verification_deployment.md",
         "targets": [
           {
-            "file": "core_00_preamble.md",
-            "count": 1,
-            "anchors": [
-              "#two-constitutional-aims"
-            ]
-          },
-          {
             "file": "core_01_a_values_principles.md",
-            "count": 1,
+            "count": 2,
             "anchors": [
               "#41-resilience-and-self-healing-design"
             ]
+          },
+          {
+            "file": "core_04-04_burden_traceability_verification.md",
+            "count": 1,
+            "anchors": []
           },
           {
             "file": "core_05defs_accountability.md",
@@ -10265,9 +10418,33 @@
           },
           {
             "file": "core_05defs_continuity.md",
-            "count": 1,
+            "count": 3,
             "anchors": [
+              "#reversibility-constitutional",
               "#self-healing-constitutional"
+            ]
+          },
+          {
+            "file": "core_06-06_rights_part_c.md",
+            "count": 10,
+            "anchors": [
+              "#article-xii-f-resilience-and-self-healing-baseline",
+              "#article-xvi-a-lifecycle-governance-and-environment-separation",
+              "#article-xvi-b-progressive-deployment-and-reversibility",
+              "#article-xvi-c-misclassification-and-evasion-consequences",
+              "#article-xvi-system-lifecycle-environments-and-reversibility",
+              "#article-xvii-a-sandboxed-scope",
+              "#article-xvii-b-containment-disclosure-and-opt-in",
+              "#article-xvii-c-transition-to-higher-obligation-regimes",
+              "#article-xvii-sandboxed-innovation-experimentation-and-creative-freedom"
+            ]
+          },
+          {
+            "file": "core_06-06_rights_part_d.md",
+            "count": 2,
+            "anchors": [
+              "#article-xxiii-conflict-resolution-escalation-and-emergency-proportionality",
+              "#article-xxiii-d-emergency-measures-and-continuation-burden"
             ]
           },
           {
@@ -10290,7 +10467,7 @@
             "anchors": []
           },
           {
-            "file": "corpus_systems/cs_01_scope_purpose_identifier_rules.md",
+            "file": "corpus_systems/cs_04_critical_system_stewardship.md",
             "count": 1,
             "anchors": []
           },
@@ -10339,7 +10516,7 @@
             "anchors": []
           },
           {
-            "file": "corpus_systems/cs_s1_information_types_and_handling.md",
+            "file": "corpus_systems/cs_protocol_s4_adaptive_sustainability_ecosystem_resilience.md",
             "count": 1,
             "anchors": []
           }
@@ -10456,12 +10633,12 @@
             ]
           },
           {
-            "file": "corpus_systems/cs_protocol_s5_resource_allocation_funding_stewardship.md",
+            "file": "corpus_systems/cs_protocol_c_justice_safeguards_restitution_rehabilitation.md",
             "count": 1,
             "anchors": []
           },
           {
-            "file": "corpus_systems/cs_s3_critical_system_stewardship.md",
+            "file": "corpus_systems/cs_protocol_s5_resource_allocation_funding_stewardship.md",
             "count": 1,
             "anchors": []
           }
@@ -10518,120 +10695,6 @@
           },
           {
             "file": "corpus_systems/cs_protocol_s5_resource_allocation_funding_stewardship.md",
-            "count": 1,
-            "anchors": []
-          }
-        ]
-      },
-      {
-        "source": "corpus_systems/cs_s1_information_types_and_handling.md",
-        "targets": [
-          {
-            "file": "core_05defs_oversight.md",
-            "count": 1,
-            "anchors": [
-              "#transparency"
-            ]
-          },
-          {
-            "file": "corpus_systems/cs_protocol_c_justice_safeguards_restitution_rehabilitation.md",
-            "count": 1,
-            "anchors": []
-          },
-          {
-            "file": "corpus_systems/cs_s2_system_classification_and_handling.md",
-            "count": 1,
-            "anchors": []
-          }
-        ]
-      },
-      {
-        "source": "corpus_systems/cs_s2_system_classification_and_handling.md",
-        "targets": [
-          {
-            "file": "core_01_c_stewardship_capacity_principles.md",
-            "count": 3,
-            "anchors": [
-              "#115-contingent-claims-games-of-chance-and-event-contract-markets",
-              "#121-productive-capacity-instrumental-good",
-              "#13-market-structure"
-            ]
-          },
-          {
-            "file": "core_05defs_continuity.md",
-            "count": 1,
-            "anchors": [
-              "#cascading-failure"
-            ]
-          },
-          {
-            "file": "core_05defs_integrative.md",
-            "count": 1,
-            "anchors": [
-              "#constitutional-constraint"
-            ]
-          },
-          {
-            "file": "core_05defs_oversight.md",
-            "count": 1,
-            "anchors": [
-              "#materiality-determination"
-            ]
-          },
-          {
-            "file": "core_06-06_rights_part_b.md",
-            "count": 1,
-            "anchors": [
-              "#article-x-c-adult-consensual-commercial-sexual-services-and-sexual-exploitation"
-            ]
-          },
-          {
-            "file": "core_06-06_rights_part_c.md",
-            "count": 2,
-            "anchors": [
-              "#article-xiv-info-sphere-integrity",
-              "#article-xv-a-auditability-and-observable-evidence"
-            ]
-          },
-          {
-            "file": "core_07_a_system_alignment_certification_evaluation.md",
-            "count": 2,
-            "anchors": [
-              "#2-system-class-evaluation"
-            ]
-          },
-          {
-            "file": "corpus_institutions/ci_19_vulnerable_personal_services_markets_article_xc_interface.md",
-            "count": 1,
-            "anchors": []
-          },
-          {
-            "file": "corpus_systems/cs_protocol_a_system_design_testing_verification_deployment.md",
-            "count": 2,
-            "anchors": []
-          },
-          {
-            "file": "corpus_systems/cs_s1_information_types_and_handling.md",
-            "count": 1,
-            "anchors": []
-          },
-          {
-            "file": "corpus_systems/cs_s3_critical_system_stewardship.md",
-            "count": 1,
-            "anchors": []
-          }
-        ]
-      },
-      {
-        "source": "corpus_systems/cs_s3_critical_system_stewardship.md",
-        "targets": [
-          {
-            "file": "corpus_systems/cs_protocol_s4_adaptive_sustainability_ecosystem_resilience.md",
-            "count": 1,
-            "anchors": []
-          },
-          {
-            "file": "corpus_systems/cs_s2_system_classification_and_handling.md",
             "count": 1,
             "anchors": []
           }

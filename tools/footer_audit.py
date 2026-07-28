@@ -67,12 +67,13 @@ CS_CHAIN = tuple(
     f"corpus_systems/{name}"
     for name in (
         "cs_01_scope_purpose_identifier_rules.md",
+        "cs_02_a_information_types_and_handling.md",
+        "cs_02_b_data_classifications.md",
+        "cs_03_system_classification_and_handling.md",
+        "cs_04_critical_system_stewardship.md",
         "cs_protocol_a_system_design_testing_verification_deployment.md",
         "cs_protocol_b_system_comprehensibility_complexity_stewardship.md",
         "cs_protocol_c_justice_safeguards_restitution_rehabilitation.md",
-        "cs_s1_information_types_and_handling.md",
-        "cs_s2_system_classification_and_handling.md",
-        "cs_s3_critical_system_stewardship.md",
         "cs_protocol_s4_adaptive_sustainability_ecosystem_resilience.md",
         "cs_protocol_s5_resource_allocation_funding_stewardship.md",
         "cs_protocol_t_transition_constitution_migration_governance.md",

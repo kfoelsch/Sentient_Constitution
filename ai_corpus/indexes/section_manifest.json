@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-07-28T14:42:38+00:00",
+  "generated_at": "2026-07-28T16:36:31+00:00",
   "files": {
     "core_00_preamble.md": {
       "total_lines": 248,
@@ -3213,13 +3213,13 @@
       ]
     },
     "core_07_a_system_alignment_certification_evaluation.md": {
-      "total_lines": 691,
+      "total_lines": 690,
       "sections": [
         {
           "header": "CHAPTER SEVEN, PART A: SYSTEM ALIGNMENT CERTIFICATION — EVALUATION",
           "level": 1,
           "line_start": 4,
-          "line_end": 691,
+          "line_end": 690,
           "anchor": "#chapter-seven-part-a-certification-evaluation"
         },
         {
@@ -3401,14 +3401,14 @@
           "header": "10. Trustworthiness and System-Reliance Integrity Evaluation",
           "level": 3,
           "line_start": 633,
-          "line_end": 691,
+          "line_end": 690,
           "anchor": "#5e-trustworthiness-and-system-reliance-integrity-evaluation"
         },
         {
           "header": "10.1 Illustrative trustworthiness application by class (non-exhaustive)",
           "level": 4,
           "line_start": 665,
-          "line_end": 691,
+          "line_end": 690,
           "anchor": "#5e1-illustrative-trustworthiness-application-by-class"
         }
       ]
@@ -5918,20 +5918,20 @@
       ]
     },
     "corpus_systems.md": {
-      "total_lines": 74,
+      "total_lines": 75,
       "sections": [
         {
           "header": "Systems and data",
           "level": 1,
           "line_start": 1,
-          "line_end": 74,
+          "line_end": 75,
           "anchor": null
         },
         {
           "header": "Systems Index",
           "level": 2,
           "line_start": 50,
-          "line_end": 74,
+          "line_end": 75,
           "anchor": null
         }
       ]
@@ -6490,13 +6490,13 @@
       ]
     },
     "corpus_systems/cs_00_registry_and_reading_rules.md": {
-      "total_lines": 190,
+      "total_lines": 191,
       "sections": [
         {
           "header": "Systems registry and identifier rules",
           "level": 1,
           "line_start": 1,
-          "line_end": 190,
+          "line_end": 191,
           "anchor": null
         },
         {
@@ -6510,35 +6510,35 @@
           "header": "Systems registry (stable section families)",
           "level": 2,
           "line_start": 78,
-          "line_end": 106,
+          "line_end": 107,
           "anchor": null
         },
         {
           "header": "Systems domain routing (integrator annex)",
           "level": 2,
-          "line_start": 107,
-          "line_end": 190,
+          "line_start": 108,
+          "line_end": 191,
           "anchor": "#systems-domain-routing-integrator-annex"
         },
         {
           "header": "Domain topic owner map (CS-D)",
           "level": 3,
-          "line_start": 126,
-          "line_end": 147,
+          "line_start": 127,
+          "line_end": 148,
           "anchor": "#domain-topic-owner-map-cs-d"
         },
         {
           "header": "Systems overlap discipline",
           "level": 3,
-          "line_start": 148,
-          "line_end": 168,
+          "line_start": 149,
+          "line_end": 169,
           "anchor": "#systems-overlap-discipline"
         },
         {
           "header": "Systems read-with pointers",
           "level": 3,
-          "line_start": 169,
-          "line_end": 190,
+          "line_start": 170,
+          "line_end": 191,
           "anchor": "#systems-read-with-pointers"
         }
       ]
@@ -6547,14 +6547,118 @@
       "total_lines": 54,
       "sections": []
     },
+    "corpus_systems/cs_02_a_information_types_and_handling.md": {
+      "total_lines": 195,
+      "sections": [
+        {
+          "header": "CS-2, Part A: Information types and handling",
+          "level": 2,
+          "line_start": 2,
+          "line_end": 195,
+          "anchor": "#cs-2-part-a-information-types-and-handling"
+        },
+        {
+          "header": "1. Purpose and scope",
+          "level": 3,
+          "line_start": 23,
+          "line_end": 37,
+          "anchor": null
+        },
+        {
+          "header": "2. Type O public-baseline for Class A/B/C — default and exceptions",
+          "level": 3,
+          "line_start": 38,
+          "line_end": 46,
+          "anchor": null
+        },
+        {
+          "header": "3. Temporal, systemic, and dependency scope of rights",
+          "level": 3,
+          "line_start": 47,
+          "line_end": 51,
+          "anchor": null
+        },
+        {
+          "header": "4. Determination of classification",
+          "level": 3,
+          "line_start": 52,
+          "line_end": 66,
+          "anchor": null
+        },
+        {
+          "header": "5. Anti-circumvention and integrity of classification",
+          "level": 3,
+          "line_start": 67,
+          "line_end": 75,
+          "anchor": null
+        },
+        {
+          "header": "6. Cross-domain governance principles",
+          "level": 3,
+          "line_start": 76,
+          "line_end": 133,
+          "anchor": null
+        },
+        {
+          "header": "7. Data separation, attribution, and lifecycle integrity",
+          "level": 3,
+          "line_start": 134,
+          "line_end": 195,
+          "anchor": null
+        }
+      ]
+    },
+    "corpus_systems/cs_02_b_data_classifications.md": {
+      "total_lines": 286,
+      "sections": [
+        {
+          "header": "CS-2, Part B: Data classifications",
+          "level": 2,
+          "line_start": 2,
+          "line_end": 286,
+          "anchor": "#cs-2-part-b-data-classifications"
+        },
+        {
+          "header": "8. Data classifications",
+          "level": 3,
+          "line_start": 19,
+          "line_end": 286,
+          "anchor": null
+        }
+      ]
+    },
+    "corpus_systems/cs_03_system_classification_and_handling.md": {
+      "total_lines": 645,
+      "sections": [
+        {
+          "header": "CS-3: System classification and handling",
+          "level": 2,
+          "line_start": 1,
+          "line_end": 645,
+          "anchor": null
+        }
+      ]
+    },
+    "corpus_systems/cs_04_critical_system_stewardship.md": {
+      "total_lines": 261,
+      "sections": [
+        {
+          "header": "CS-4: Critical system stewardship",
+          "level": 2,
+          "line_start": 1,
+          "line_end": 261,
+          "anchor": null
+        }
+      ]
+    },
     "corpus_systems/cs_protocol_a_system_design_testing_verification_deployment.md": {
-      "total_lines": 275,
+      "total_lines": 212,
       "sections": [
         {
           "header": "Protocol A: System Design, Testing, Verification, and Deployment",
           "level": 2,
           "line_start": 1,
-          "line_end": 275,
+          "line_end": 212,
           "anchor": null
         }
       ]
@@ -6709,91 +6813,6 @@
           "level": 2,
           "line_start": 1,
           "line_end": 37,
-          "anchor": null
-        }
-      ]
-    },
-    "corpus_systems/cs_s1_information_types_and_handling.md": {
-      "total_lines": 431,
-      "sections": [
-        {
-          "header": "CS-3: Information types and handling",
-          "level": 2,
-          "line_start": 1,
-          "line_end": 431,
-          "anchor": null
-        },
-        {
-          "header": "I. Purpose and scope",
-          "level": 3,
-          "line_start": 7,
-          "line_end": 19,
-          "anchor": null
-        },
-        {
-          "header": "II. Temporal, systemic, and dependency scope of rights",
-          "level": 3,
-          "line_start": 20,
-          "line_end": 24,
-          "anchor": null
-        },
-        {
-          "header": "III. Determination of classification",
-          "level": 3,
-          "line_start": 25,
-          "line_end": 39,
-          "anchor": null
-        },
-        {
-          "header": "IV. Anti-circumvention and integrity of classification",
-          "level": 3,
-          "line_start": 40,
-          "line_end": 48,
-          "anchor": null
-        },
-        {
-          "header": "V. Cross-domain governance principles",
-          "level": 3,
-          "line_start": 49,
-          "line_end": 106,
-          "anchor": null
-        },
-        {
-          "header": "VI. Data separation, attribution, and lifecycle integrity",
-          "level": 3,
-          "line_start": 107,
-          "line_end": 164,
-          "anchor": null
-        },
-        {
-          "header": "VII. Data classifications",
-          "level": 3,
-          "line_start": 165,
-          "line_end": 431,
-          "anchor": null
-        }
-      ]
-    },
-    "corpus_systems/cs_s2_system_classification_and_handling.md": {
-      "total_lines": 645,
-      "sections": [
-        {
-          "header": "CS-4: System classification and handling",
-          "level": 2,
-          "line_start": 1,
-          "line_end": 645,
-          "anchor": null
-        }
-      ]
-    },
-    "corpus_systems/cs_s3_critical_system_stewardship.md": {
-      "total_lines": 261,
-      "sections": [
-        {
-          "header": "CS-5: Critical system stewardship",
-          "level": 2,
-          "line_start": 1,
-          "line_end": 261,
           "anchor": null
         }
       ]

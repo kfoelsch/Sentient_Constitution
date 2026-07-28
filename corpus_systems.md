@@ -8,7 +8,7 @@
 - How design, testing, deployment, and ongoing operation stay auditable, challengeable, and aligned with the Constitution
 - How complexity and funding are stewarded in ordinary operation without rewriting Rights Floors
 - How transition, attack/subversion, and partition or continuity failures are governed when ordinary operation is not enough
-- Named protocols and **CS-3–CS-5** families carry the detail — expand **Systems index** below when you need a specific file
+- Named protocols and **CS-2–CS-4** families carry the detail — expand **Systems index** below when you need a specific file
 
 **Does not:**
 - Redefine constitutional terms, Rights Floors, or offense taxonomy
@@ -53,12 +53,13 @@
 |---|---|
 | Registry and identifier rules | [cs_00_registry_and_reading_rules.md](corpus_systems/cs_00_registry_and_reading_rules.md) |
 | CS-1: Scope, purpose, and boundary interface | [cs_01_scope_purpose_identifier_rules.md](corpus_systems/cs_01_scope_purpose_identifier_rules.md) |
+| CS-2, Part A — Handling rules (§1–§7) | [cs_02_a_information_types_and_handling.md](corpus_systems/cs_02_a_information_types_and_handling.md) |
+| CS-2, Part B — Data classifications (§8) | [cs_02_b_data_classifications.md](corpus_systems/cs_02_b_data_classifications.md) |
+| CS-3 — System classification and handling | [cs_03_system_classification_and_handling.md](corpus_systems/cs_03_system_classification_and_handling.md) |
+| CS-4 — Critical system stewardship | [cs_04_critical_system_stewardship.md](corpus_systems/cs_04_critical_system_stewardship.md) |
 | Protocol A: System Design, Testing, Verification, and Deployment | [cs_protocol_a_system_design_testing_verification_deployment.md](corpus_systems/cs_protocol_a_system_design_testing_verification_deployment.md) |
 | Protocol B: System Comprehensibility and Complexity Stewardship | [cs_protocol_b_system_comprehensibility_complexity_stewardship.md](corpus_systems/cs_protocol_b_system_comprehensibility_complexity_stewardship.md) |
 | Protocol C: Justice Safeguards, Restitution, and Rehabilitation Implementation | [cs_protocol_c_justice_safeguards_restitution_rehabilitation.md](corpus_systems/cs_protocol_c_justice_safeguards_restitution_rehabilitation.md) |
-| CS-3 — Information types and handling | [cs_s1_information_types_and_handling.md](corpus_systems/cs_s1_information_types_and_handling.md) |
-| CS-4 — System classification and handling | [cs_s2_system_classification_and_handling.md](corpus_systems/cs_s2_system_classification_and_handling.md) |
-| CS-5 — Critical system stewardship | [cs_s3_critical_system_stewardship.md](corpus_systems/cs_s3_critical_system_stewardship.md) |
 | Protocol S4 — Adaptive Sustainability and Ecosystem Resilience | [cs_protocol_s4_adaptive_sustainability_ecosystem_resilience.md](corpus_systems/cs_protocol_s4_adaptive_sustainability_ecosystem_resilience.md) |
 | Protocol S5 — Resource Allocation and Funding Stewardship | [cs_protocol_s5_resource_allocation_funding_stewardship.md](corpus_systems/cs_protocol_s5_resource_allocation_funding_stewardship.md) |
 | Protocol T — Transition Constitution and Migration Governance | [cs_protocol_t_transition_constitution_migration_governance.md](corpus_systems/cs_protocol_t_transition_constitution_migration_governance.md) |

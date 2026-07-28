@@ -1,4 +1,4 @@
-## CS-4: System classification and handling
+## CS-3: System classification and handling
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -31,13 +31,13 @@ Where failure, interaction, or aggregation creates credible pathways to irrevers
 
 Systems contributing materially to such risk must be classified and governed at the **highest applicable** level regardless of isolated impact.
 
-**Classification under CS-4 — System classification and handling** is **mandatory** for all systems with **material impact**. **It** is **functionally determined** from observed and reasonably foreseeable effects rather than declared intent, structure, or self-description. **It** must be **transparent**, **auditable**, and **subject to challenge** under **Article XV-A** (*Auditability and Observable Evidence*), **Article XV** (*Audit, Transparency, and Independent Verification*)'s verification-access provisions, and **Article XII-B** (*Right to Challenge, Review, and Redress*). **It** must be **continuously revalidated** per `corpus_joint_structure.md` **CJS-5.18** (*data-retention and lifecycle-integrity terms*). **No** system may claim **reduced obligations**, **exemptions**, or **lower-impact** classification while exerting **material external** effects.
+**Classification under CS-3 — System classification and handling** is **mandatory** for all systems with **material impact**. **It** is **functionally determined** from observed and reasonably foreseeable effects rather than declared intent, structure, or self-description. **It** must be **transparent**, **auditable**, and **subject to challenge** under **Article XV-A** (*Auditability and Observable Evidence*), **Article XV** (*Audit, Transparency, and Independent Verification*)'s verification-access provisions, and **Article XII-B** (*Right to Challenge, Review, and Redress*). **It** must be **continuously revalidated** per `corpus_joint_structure.md` **CJS-5.18** (*data-retention and lifecycle-integrity terms*). **No** system may claim **reduced obligations**, **exemptions**, or **lower-impact** classification while exerting **material external** effects.
 
 Where classification, deployment, or continued operation depends on official constitutional alignment status, the classification record must support **Integrity** forum recognition or revalidation under `core_11-11_forum.md` **Chapter Eleven** and `corpus_forum.md` **CF-7.2** (*Constitutional alignment recognition and review*). Where material ecological exposure exists, it must also support **Environment** forum environmental-alignment component review before final recognition, validation, revalidation, or material release from environmental conditions. Forum review must be able to inspect the classification rationale, assumptions, evidence, uncertainty, dependency analysis, ecological exposure analysis where material, and monitoring triggers without relying on operator self-description alone.
 
 Where ambiguity exists, default to the level that protects **Foundational Rights** (**Chapter Six, Articles V through IX**), subject to **CJS-5.11** (*distributed and proportional authority terms*) and **CJS-5.7** (*quorum and participatory legitimacy terms*).
 
-**Operates in conjunction with:** **CS-3 — Information types and handling** (data). **It** also operates with **corpus_joint_structure.md**, **CJS-4.3** (*Cross-implementation trust integrity (joint operation model)*), and **CJS-5.11–CJS-5.13** (*Authority, constraint, secrecy, and procedure*) through **CJS-5.19–CJS-5.15** (*Failure, robustness, intervention, and correction*) operational clusters. It applies subject to the constitutional **Authority Stack and Internal Hierarchy** in **Chapter Five**, read with **Chapter Sixteen** incorporation discipline. **It** also operates with **Protocol A** (implementation and lifecycle). **It** also operates with **Sentient Constitution Chapters Two through Five** (definition requirements and Independent Definitions for materiality, reasonable foreseeability, dependency, system boundaries, risk, harm).
+**Operates in conjunction with:** **CS-2 — Information types and handling** (data). **It** also operates with **corpus_joint_structure.md**, **CJS-4.3** (*Cross-implementation trust integrity (joint operation model)*), and **CJS-5.11–CJS-5.13** (*Authority, constraint, secrecy, and procedure*) through **CJS-5.19–CJS-5.15** (*Failure, robustness, intervention, and correction*) operational clusters. It applies subject to the constitutional **Authority Stack and Internal Hierarchy** in **Chapter Five**, read with **Chapter Sixteen** incorporation discipline. **It** also operates with **Protocol A** (implementation and lifecycle). **It** also operates with **Sentient Constitution Chapters Two through Five** (definition requirements and Independent Definitions for materiality, reasonable foreseeability, dependency, system boundaries, risk, harm).
 
 **Together**, these ensure systems are judged by **what they do**.
 
@@ -51,11 +51,11 @@ Classify by **Impact** — scope, scale, and severity of effects on sentients, e
 
 Classify by **Dependency** — extent of reliance on the system evaluated, including availability and viability of alternatives.
 
-Classify by **Risk** — likelihood, speed, severity, and reversibility of harm from failure, misuse, or degradation, including immediate, delayed, cumulative, and irreversible effects. These labels operationalize **Chapter Five** Independent Definitions (*Material Impact*, *Dependency*, *Risk*, including irreversibility where applicable) for **CS-4 — System classification and handling**.
+Classify by **Risk** — likelihood, speed, severity, and reversibility of harm from failure, misuse, or degradation, including immediate, delayed, cumulative, and irreversible effects. These labels operationalize **Chapter Five** Independent Definitions (*Material Impact*, *Dependency*, *Risk*, including irreversibility where applicable) for **CS-3 — System classification and handling**.
 
 **Chapter Five** governs meaning corpus-wide.
 
-**CS-4 — System classification and handling** governs how classification applies those meanings.
+**CS-3 — System classification and handling** governs how classification applies those meanings.
 
 Evaluation must account for **aggregate** effects at scale (actual and foreseeable). **It** must account for **interaction** effects with emergent outcomes. **It** must account for **dependency chains** (upstream and downstream).
 
@@ -135,7 +135,7 @@ Loss of continuity yields immediate or near-immediate loss of survival condition
 
 **Class P — No meaningful external dependency:** Contained within a private unit or among voluntary participants; no reliance beyond that boundary.
 
-**Published domain taxonomy for regulatory mapping:** Adopting instruments and governed institutions should maintain a published crosswalk that locates major industries and regulatory domains against CS-4 — System classification and handling classification and CS-5 — Critical system stewardship stewardship duties. This taxonomy is for locating governed scope and comparable domains; it does **not** replace class, tier, or impact analysis. At minimum, the published map should include:
+**Published domain taxonomy for regulatory mapping:** Adopting instruments and governed institutions should maintain a published crosswalk that locates major industries and regulatory domains against CS-3 — System classification and handling classification and CS-4 — Critical system stewardship stewardship duties. This taxonomy is for locating governed scope and comparable domains; it does **not** replace class, tier, or impact analysis. At minimum, the published map should include:
 - **Agriculture and food systems** — cultivation, livestock, fisheries, food processing, seed systems, fertilizers, pesticides, irrigation, storage, and distribution;
 - **Mining and extractive industries** — mining, quarrying, drilling, tailings, waste handling, refining interfaces, and site restoration;
 - **Built environment** — architecture, construction, structural engineering, building operations, urban systems, building-code integrity, fire safety, and accessibility;
@@ -155,10 +155,10 @@ Additional domains may be published where local economies, ecosystems, or depend
 - **Market-mediated personal services**
   - Systems that match, dispatch, schedule, settle payment for, or reputation-score **in-person** personal services are presumptively material for dependency, safety, coercion risk, and fairness analysis when impact thresholds are approached — especially where intimacy, bodily contact, private-space or in-home access, or isolated work is involved.
   - They must not evade [**Article X-C**](../core_06-06_rights_part_b.md#article-x-c-adult-consensual-commercial-sexual-services-and-sexual-exploitation) (*Adult consensual commercial sexual services and sexual exploitation*) through technical exclusion, de-banking, or opaque ranking.
-  - Rights Floor: Chapter Six. Institutional interface: [**CI-19**](../corpus_institutions/ci_19_vulnerable_personal_services_markets_article_xc_interface.md). Stewardship scale: **CS-5 — Critical system stewardship**.
+  - Rights Floor: Chapter Six. Institutional interface: [**CI-19**](../corpus_institutions/ci_19_vulnerable_personal_services_markets_article_xc_interface.md). Stewardship scale: **CS-4 — Critical system stewardship**.
 - **Contingent claims and event markets**
   - Systems that match counterparties, pool stakes, or settle payments contingent on external events are presumptively material for incentive, capture, manipulation, and stability analysis.
-  - Constitutional direction: [Chapter One §11.5](../core_01_c_stewardship_capacity_principles.md#115-contingent-claims-games-of-chance-and-event-contract-markets). Stewardship scale: **CS-5 — Critical system stewardship**.
+  - Constitutional direction: [Chapter One §11.5](../core_01_c_stewardship_capacity_principles.md#115-contingent-claims-games-of-chance-and-event-contract-markets). Stewardship scale: **CS-4 — Critical system stewardship**.
   - Settlement prices or odds are not, by themselves, enough to decide epistemic questions under [**Article XIV**](../core_06-06_rights_part_c.md#article-xiv-info-sphere-integrity) (*Info-Sphere Integrity*) and [**Article XV-A**](../core_06-06_rights_part_c.md#article-xv-a-auditability-and-observable-evidence) (*Auditability and Observable Evidence*).
   - This layer does not set licensing, criminal, or tax rules for gambling.
 
@@ -168,7 +168,7 @@ Additional domains may be published where local economies, ecosystems, or depend
 
 As dependency strengthens and substitutability falls, escalate classification and governance. This rule applies **Chapter Five** (*System Boundaries*, *Dependency*, *Material Impact*) in the classification context. **It** must **not** substitute for those Independent Definitions elsewhere.
 
-**Sentient survival-relevant timeframes:** Under **CS-4 — System classification and handling**, define by an **external, standardized, auditable** framework. Systems must **explicitly reference** timeframe assumptions used in classification, including environmental, technological, or contextual dependencies.
+**Sentient survival-relevant timeframes:** Under **CS-3 — System classification and handling**, define by an **external, standardized, auditable** framework. Systems must **explicitly reference** timeframe assumptions used in classification, including environmental, technological, or contextual dependencies.
 
 **Resilience and continuity requirements:** Maintain **resilience proportional** to classification—continued operation, graceful degradation, or safe suspension under stress, disruption, partial failure, or adversarial pressure.
 
@@ -249,7 +249,7 @@ Operators have minimal discretion, limited strictly to preserving survival, safe
 
 For classification purposes, **"systemic"** denotes capacity for cross-domain [Cascading Failure](../core_05defs_continuity.md#cascading-failure) across dependents, not merely large-scale or widespread impact.
 
-This quoted meaning of **"systemic"** is **CS-local** classification language for **CS-4 — System classification and handling** and is not a standalone **CJS Tier 1** abstraction.
+This quoted meaning of **"systemic"** is **CS-local** classification language for **CS-3 — System classification and handling** and is not a standalone **CJS Tier 1** abstraction.
 
 **Eligibility:** A system is Class B if it is **operationally required** for **normal** functioning of dependent systems.
 
@@ -534,7 +534,7 @@ Examples include behavior that **creates measurable** off-unit harm risk. **They
 
 **Commercial-use surcharges and reinvestment interface.** Operators may charge commercial-scale API users, high-volume business interfaces, premium latency tiers, or automated bulk consumers for the incremental burden they place on shared capacity. Such charges must be disclosed, proportionate, contestable where material, and consistent with the fiscal orientation in `corpus_institutions.md` **CI-10** (*Public revenue, fees, recurring charges, and billing integrity*). Revenue from those charges should be traceably available for operations, security, resilience, compute expansion, remedy capacity, and ecosystem/public-good support under **Protocol S5**, rather than becoming a concealed mechanism for denying baseline participation or entrenching chokepoint control.
 
-**System classification governance, disclosure, and challenge.** All systems subject to this constitution must have a **clearly defined, documented, and reviewable** classification. **That** classification must stay consistent with **CS-4 — System classification and handling**.
+**System classification governance, disclosure, and challenge.** All systems subject to this constitution must have a **clearly defined, documented, and reviewable** classification. **That** classification must stay consistent with **CS-3 — System classification and handling**.
 
 Classification is a **governance function**: accountability, not self-description.
 
@@ -550,7 +550,7 @@ Classification must be **disclosed** to affected stakeholders at a level appropr
 
 **For Class A, B, and C:** Disclosure must include **classification rationale and key assumptions**. **It** must include **identified impact scope and dependency characteristics**. **It** must include **known limitations, uncertainties, and risk factors**.
 
-Class A, B, and C disclosure must also satisfy the **public-interest visibility default** in **CS-3 — Information types and handling**, including **Type P** public-baseline release and maximum feasible public substitutes where protected data classifications limit raw disclosure.
+Class A, B, and C disclosure must also satisfy the **Type O public-baseline default** in **CS-2 — Information types and handling**, including maximum feasible **Type O** public substitutes where non-**Type O** protected classifications limit raw disclosure.
 
 **3. Auditability and verification.** Classification must be **auditable** with sufficient documentation and evidence.
 
@@ -594,13 +594,13 @@ Affected stakeholders must be able to **challenge** classification, **present ev
 
 **Forum revalidation trigger:** Any requested reduction in classification level, release from recognition conditions, or claim that a materially impactful system no longer requires higher-tier safeguards must remain available for Integrity forum review where affected stakeholders, stewards, oversight bodies, or the record itself raise a credible alignment concern. Successful internal validation alone does **not** defeat a timely forum challenge.
 
-**8. Integrated risk governance (organizational scale; Class A and Class B systems).** For **Class A** and **Class B**, operators and **Critical System Stewards** (**CS-5 — Critical system stewardship**) must maintain integrated risk governance.
+**8. Integrated risk governance (organizational scale; Class A and Class B systems).** For **Class A** and **Class B**, operators and **Critical System Stewards** (**CS-4 — Critical system stewardship**) must maintain integrated risk governance.
 
-**That** governance spans systems and dependency chains they control or materially affect. This subsection is **implementation-file-level operational vocabulary** for enterprise-scale risk coordination. **It** does **not** redefine *Risk*, *Material*, *Dependency*, or related assessment standards. **Those** remain **Sentient Constitution Chapter Five** Independent Definitions and the **Impact**, **Dependency**, and **Risk** dimensions under **CS-4 — System classification and handling**.
+**That** governance spans systems and dependency chains they control or materially affect. This subsection is **implementation-file-level operational vocabulary** for enterprise-scale risk coordination. **It** does **not** redefine *Risk*, *Material*, *Dependency*, or related assessment standards. **Those** remain **Sentient Constitution Chapter Five** Independent Definitions and the **Impact**, **Dependency**, and **Risk** dimensions under **CS-3 — System classification and handling**.
 
 **Risk appetite and tolerance:** Document and maintain explicit, reviewable statements of **aggregate residual risk** (levels and types) accepted after prevention and mitigation. **Those** statements must be **bounded by** foundational requirements (**Sentient Constitution Chapter One**, **Chapter Six, Articles V through IX**, and **Chapter Five** Independent Definitions where materially relevant).
 
-Reconcile with **CS-4 — System classification and handling** classification.
+Reconcile with **CS-3 — System classification and handling** classification.
 
 **Reconciliation** **must not** justify classification evasion, misclassification, or conduct violating **CJS-5.11** (*distributed and proportional authority terms*) and **CJS-5.7** (*quorum and participatory legitimacy terms*) or **CJS-5.12** (*burden-of-justification and constraint terms*) in **corpus_joint_structure.md**.
 
@@ -616,12 +616,12 @@ Ownership stays **traceable** through governance changes, delegation, and subcon
 
 **Second line** functions must be **sufficiently independent** of first-line incentives for **credible challenge** where A/B stakes require it.
 
-**Third line** — **independent assurance** (audit and verification) consistent with **Article XV-A** (*Auditability and Observable Evidence*) and **CS-4 — System classification and handling** disclosure and auditability.
+**Third line** — **independent assurance** (audit and verification) consistent with **Article XV-A** (*Auditability and Observable Evidence*) and **CS-3 — System classification and handling** disclosure and auditability.
 
 **Third line** work impartially assesses whether appetite, tolerance, and treatments match **observed behavior and classification**. Where strict structural separation is **infeasible** (e.g. small organizations), **compensating transparency, rotation, independent review, or multi-steward checks** must yield **equivalent assurance** proportional to impact and dependency, read with `corpus_institutions.md` **CI-3** (*Institutional design, separation of powers, and authority custody*) for institutional lane separation and **CJS-5.11** (*distributed and proportional authority terms*) and **CJS-5.7** (*quorum and participatory legitimacy terms*) for shared proportional-authority scaling.
 
 **Cross-reference:** **corpus_joint_structure.md**.
-Failure integrity and resilience routing now operate through **CJS-5.19** (*graceful degradation and failure-mode integrity terms*), **CJS-5.23** (*intervention and override integrity terms*), **CJS-5.11** (*distributed and proportional authority terms*) and **CJS-5.7** (*quorum and participatory legitimacy terms*), **CJS-5.2** (*reflexive transparency and accountability terms*) and **CJS-5.6** (*integrity assurance and resilience operations*), **CJS-5.13** (*procedural integrity and adjudication terms*), and **CS-5 — Critical system stewardship** for steward scaling.
+Failure integrity and resilience routing now operate through **CJS-5.19** (*graceful degradation and failure-mode integrity terms*), **CJS-5.23** (*intervention and override integrity terms*), **CJS-5.11** (*distributed and proportional authority terms*) and **CJS-5.7** (*quorum and participatory legitimacy terms*), **CJS-5.2** (*reflexive transparency and accountability terms*) and **CJS-5.6** (*integrity assurance and resilience operations*), **CJS-5.13** (*procedural integrity and adjudication terms*), and **CS-4 — Critical system stewardship** for steward scaling.
 
 **Class C, L, and P** remain subject to **proportional** risk management. **They** are **not** required to maintain the full **three-lines-style** model unless scale, coupling.
 or dependency warrants **analogous** measures under general classification and stewardship rules.
@@ -640,6 +640,6 @@ Recertification regression depth, lifecycle evidence packages, and certification
 
 ---
 
-**Previous file:** [cs_s1_information_types_and_handling.md](cs_s1_information_types_and_handling.md)
+**Previous file:** [cs_02_b_data_classifications.md](cs_02_b_data_classifications.md)
 
-**Next file:** [cs_s3_critical_system_stewardship.md](cs_s3_critical_system_stewardship.md)
+**Next file:** [cs_04_critical_system_stewardship.md](cs_04_critical_system_stewardship.md)
