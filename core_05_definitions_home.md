@@ -65,6 +65,8 @@ A **dependent cluster** is a group of definitions that must be met together, ins
 #### Joint invocation and satisfaction
 If a definition — or any part of one — belongs to a dependent cluster, it may not be applied, satisfied, or judged on its own. When cluster members are pieces of one requirement, all of them must be met. Meeting only some of them is not compliance.
 
+Cluster-local applications of this rule appear under **Anti-bypass** (not a second "joint invocation" header). Those bullets state the cluster-specific anti-segmentation rule and may end with `See` this section — they should not reopen with `Under Joint invocation and satisfaction, …`.
+
 <a id="standalone-definitions-interaction-and-full-context"></a>
 #### Standalone definitions interaction and full context
 Calling a definition Independent or Semi-independent does not let it skip cluster membership. Dependent clusters must still be met together in the full real-world system context. No piece may be peeled off, reclassified, or applied alone in a way that changes the compliance result.

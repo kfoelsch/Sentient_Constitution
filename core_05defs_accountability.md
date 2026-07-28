@@ -62,7 +62,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
   - **Out of scope:** Labels or paperwork that call something feasible or infeasible when that label has no real effect in the situation being evaluated.
 <a id="feasibility-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Accountability and Timeliness measurement families — used alongside any other relevant measures to assess responsibility and whether action happens without harmful delay.
+  - **Primary measure:** [Accountability measurement family](core_05apex_accountability_leg.md#accountability-measurement-family) and [Timeliness measurement family](core_05apex_timeliness_leg.md#timeliness-measurement-family) — used alongside any other relevant measures to assess responsibility and whether action happens without harmful delay.
 
     **Primary assessment:** Require evidence that real alternatives were actually considered. Operator convenience, cost alone, or barriers the operator built for its own benefit do not prove that a constitutionally required measure is infeasible — especially where that claim would wipe out [Meaningful Agency](core_05defs_participation.md#meaningful-agency), [Consent](core_05defs_participation.md#consent-constitutional), or [Contestability](core_05defs_accountability.md#contestability).
 <a id="feasibility-c"></a>
@@ -91,7 +91,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
   - **Out of scope:** A Good Faith label that does not affect conduct in the matter this Constitution governs.
 <a id="good-faith-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Accountability and Timeliness measurement families — used alongside any other relevant measures to assess responsibility and whether action happens without harmful delay.
+  - **Primary measure:** [Accountability measurement family](core_05apex_accountability_leg.md#accountability-measurement-family) and [Timeliness measurement family](core_05apex_timeliness_leg.md#timeliness-measurement-family) — used alongside any other relevant measures to assess responsibility and whether action happens without harmful delay.
 
     **Primary assessment:** Use [Materiality Determination](core_05defs_oversight.md#materiality-determination) and [Risk](core_05defs_continuity.md#risk) to distinguish Good Faith from negligent error. Apply [Truth (Constitutional Constraint)](core_05defs_oversight.md#truth-constitutional-constraint) when statements materially affect others' decisions.
 <a id="good-faith-c"></a>
@@ -122,7 +122,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
   - **Out of scope:** A label or paperwork claiming harm minimization when it does not change the choice in the matter this Constitution governs.
 <a id="harm-minimization-tradeoff-selection-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Accountability and Timeliness measurement families — used alongside any other relevant measures to assess responsibility and whether action happens without harmful delay.
+  - **Primary measure:** [Accountability measurement family](core_05apex_accountability_leg.md#accountability-measurement-family) and [Timeliness measurement family](core_05apex_timeliness_leg.md#timeliness-measurement-family) — used alongside any other relevant measures to assess responsibility and whether action happens without harmful delay.
 
     **Primary assessment:** Add up direct, indirect, delayed, cumulative, and cross-system effects. Do not minimize only local or immediate [Harm](core_05defs_accountability.md#harm) when the total system-wide harm is materially different.
 <a id="harm-minimization-tradeoff-selection-c"></a>
@@ -153,7 +153,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
   - **Out of scope:** A label or paperwork calling a constraint necessary when that claim has no real effect in the situation being evaluated.
 <a id="necessity-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Accountability and Timeliness measurement families — used alongside any other relevant measures to assess responsibility and whether action happens without harmful delay.
+  - **Primary measure:** [Accountability measurement family](core_05apex_accountability_leg.md#accountability-measurement-family) and [Timeliness measurement family](core_05apex_timeliness_leg.md#timeliness-measurement-family) — used alongside any other relevant measures to assess responsibility and whether action happens without harmful delay.
 
     **Primary assessment:** Require a documented review of less-restrictive alternatives, how well each would work, and its [Residual Risk / Misalignment](core_05defs_continuity.md#residual-risk--misalignment). Default practice, operator convenience, or cost alone does not prove necessity.
 <a id="necessity-c"></a>
@@ -185,7 +185,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
   - **Out of scope:** A proportionality label that does not change the actual limitation or governance in the matter this Constitution governs.
 <a id="proportionality-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Accountability and Timeliness measurement families — used alongside any other relevant measures to assess responsibility and whether action happens without harmful delay.
+  - **Primary measure:** [Accountability measurement family](core_05apex_accountability_leg.md#accountability-measurement-family) and [Timeliness measurement family](core_05apex_timeliness_leg.md#timeliness-measurement-family) — used alongside any other relevant measures to assess responsibility and whether action happens without harmful delay.
 
     **Primary assessment:** Compare each constraint with the harms and risks it addresses. Require stronger justification, closer review, and [Reversibility](core_05defs_continuity.md#reversibility-constitutional) analysis when [Irreversible Harm](core_05defs_accountability.md#irreversible-harm) or [Systemic Lock-In](core_05defs_continuity.md#systemic-lock-in) is reasonably possible. Look for both over-governance and under-governance, including too little governance of actors with greater authorized power or consequential institutional roles.
 <a id="proportionality-c"></a>
@@ -234,7 +234,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
   - **Out of scope:** Labels or paperwork that call something a contingent claim when it does not actually work that way for the matter this Constitution governs.
 <a id="contingent-claim-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Accountability and Timeliness measurement families — used alongside any other relevant measures to assess responsibility and whether action happens without harmful delay.
+  - **Primary measure:** [Accountability measurement family](core_05apex_accountability_leg.md#accountability-measurement-family) and [Timeliness measurement family](core_05apex_timeliness_leg.md#timeliness-measurement-family) — used alongside any other relevant measures to assess responsibility and whether action happens without harmful delay.
 
     **Primary assessment:** Identify the event that settles the payout, who or what decides that outcome (the outcome-resolution source under [Chapter One §11.5](core_01_c_stewardship_capacity_principles.md#115-contingent-claims-games-of-chance-and-event-contract-markets)), and how much [Dependency](core_05defs_continuity.md#dependency) and concentration the structure creates. Where many such claims together could sway fiduciary, public, or rights-relevant decisions, also apply [Incentive Alignment](core_05defs_integrative.md#incentive-alignment), [Coercion and Manipulation](core_05defs_participation.md#coercion-and-manipulation-constitutional), [Capture of Resolution Pathways](core_05defs_accountability.md#capture-of-resolution-pathways), [Insider Advantage](core_05defs_accountability.md#insider-advantage), and [System Capture](core_05defs_continuity.md#system-capture).
 <a id="contingent-claim-c"></a>
@@ -265,7 +265,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
   - **Out of scope:** Labels or paperwork that call something an event-contract market when it does not actually work that way for the matter this Constitution governs.
 <a id="event-contract-market-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Accountability and Timeliness measurement families — used alongside any other relevant measures to assess responsibility and whether action happens without harmful delay.
+  - **Primary measure:** [Accountability measurement family](core_05apex_accountability_leg.md#accountability-measurement-family) and [Timeliness measurement family](core_05apex_timeliness_leg.md#timeliness-measurement-family) — used alongside any other relevant measures to assess responsibility and whether action happens without harmful delay.
 
     **Primary assessment:** Check that whoever decides the outcome (the outcome-resolution source) is independent, and that more than one source is used where feasible. Check for privileged-information pathways, [Insider Advantage](core_05defs_accountability.md#insider-advantage), and coordination risk. Do not treat settlement prices or odds as authoritative [Truth (Constitutional Constraint)](core_05defs_oversight.md#truth-constitutional-constraint) — under [Chapter One §11.5](core_01_c_stewardship_capacity_principles.md#115-contingent-claims-games-of-chance-and-event-contract-markets), prices or odds alone are not enough evidence for rights, safety, or governance decisions. Also check for [Capture of Resolution Pathways](core_05defs_accountability.md#capture-of-resolution-pathways) under [Adversarial, Scaled, and Exploited Conditions](core_05defs_oversight.md#adversarial-scaled-and-exploited-conditions).
 <a id="event-contract-market-c"></a>
@@ -296,7 +296,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
   - **Out of scope:** A label or paperwork calling something a game of chance when it does not actually work that way for the matter this Constitution governs.
 <a id="game-of-chance-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Accountability and Timeliness measurement families — used alongside any other relevant measures to assess responsibility and whether action happens without harmful delay.
+  - **Primary measure:** [Accountability measurement family](core_05apex_accountability_leg.md#accountability-measurement-family) and [Timeliness measurement family](core_05apex_timeliness_leg.md#timeliness-measurement-family) — used alongside any other relevant measures to assess responsibility and whether action happens without harmful delay.
 
     **Primary assessment:** Check whether the random process is honest, whether the source that decides the outcome is independent, whether stakes are concentrated, whether the design exploits vulnerability, and whether it creates [Dependency](core_05defs_continuity.md#dependency). Addictive designs or designs that target vulnerable sentients trigger [Coercion and Manipulation](core_05defs_participation.md#coercion-and-manipulation-constitutional) review under [Adversarial, Scaled, and Exploited Conditions](core_05defs_oversight.md#adversarial-scaled-and-exploited-conditions).
 <a id="game-of-chance-c"></a>
@@ -327,7 +327,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
   - **Out of scope:** A label or paperwork claiming insider advantage when no such advantage actually affects the matter this Constitution governs.
 <a id="insider-advantage-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Accountability and Timeliness measurement families — used alongside any other relevant measures to assess responsibility and whether action happens without harmful delay.
+  - **Primary measure:** [Accountability measurement family](core_05apex_accountability_leg.md#accountability-measurement-family) and [Timeliness measurement family](core_05apex_timeliness_leg.md#timeliness-measurement-family) — used alongside any other relevant measures to assess responsibility and whether action happens without harmful delay.
 
     **Primary assessment:** Identify unequal access to information, conflicts between roles, timing leverage such as timed pressure or selective disclosure, and closeness to the source that decides the outcome. Check whether disclosure, cooling-off periods, trading restrictions, blind procedures, or resolution by multiple sources reduce the advantage. Separate lawful skill and public information from an edge based on non-public power. Read with [Capture of Resolution Pathways](core_05defs_accountability.md#capture-of-resolution-pathways), [Event-Contract Market](core_05defs_accountability.md#event-contract-market) evaluation discipline, [Coercion and Manipulation](core_05defs_participation.md#coercion-and-manipulation-constitutional), [Truth (Constitutional Constraint)](core_05defs_oversight.md#truth-constitutional-constraint), [Epistemic Integrity](core_05defs_oversight.md#epistemic-integrity), and [Contestability](core_05defs_accountability.md#contestability) under [Adversarial, Scaled, and Exploited Conditions](core_05defs_oversight.md#adversarial-scaled-and-exploited-conditions).
 <a id="insider-advantage-c"></a>
@@ -382,7 +382,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
   - **Out of scope:** A challenge or review option that exists only as a label or paperwork and has no real effect in the situation being evaluated.
 <a id="contestability-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Accountability measurement family — checks whether affected parties have a practical way to challenge a system or decision, obtain review, and seek correction.
+  - **Primary measure:** [Accountability measurement family](core_05apex_accountability_leg.md#accountability-measurement-family) — checks whether affected parties have a practical way to challenge a system or decision, obtain review, and seek correction.
 
     **Primary assessment:** Check that challenge mechanisms work, are accessible, can be [audited](core_05defs_oversight.md#auditability), and are [trustworthy](core_05defs_continuity.md#trustworthiness).
   - **Secondary measure:** [Accountability](core_05apex_accountability_leg.md#accountability), [Auditability](core_05defs_oversight.md#auditability), [Transparency](core_05defs_oversight.md#transparency), and [Redress and Remediation](core_05defs_accountability.md#redress-and-remediation-constitutional) — co-measures that can defeat contestability even when formal challenge menus exist.
@@ -423,7 +423,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
   - **Out of scope:** A dispute-resolution pathway that exists only as a label or paperwork and has no real effect in the situation being evaluated.
 <a id="adjudication-and-dispute-resolution-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Accountability and Timeliness measurement families — used together to assess whether dispute-resolution pathways are answerable and timely.
+  - **Primary measure:** [Accountability measurement family](core_05apex_accountability_leg.md#accountability-measurement-family) and [Timeliness measurement family](core_05apex_timeliness_leg.md#timeliness-measurement-family) — used together to assess whether dispute-resolution pathways are answerable and timely.
 
     **Primary assessment:**
     - Apply [Due Process](core_05defs_accountability.md#due-process-constitutional), [Procedural Fairness](core_05defs_participation.md#procedural-fairness-constitutional), [Contestability](core_05defs_accountability.md#contestability), [Timely Resolution](core_05defs_accountability.md#timely-resolution-constitutional), [Merits Determination](core_05defs_accountability.md#merits-determination), [Redress and Remediation](core_05defs_accountability.md#redress-and-remediation-constitutional), and resistance to [System Capture](core_05defs_continuity.md#system-capture).
@@ -459,7 +459,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
   - **Out of scope:** A due-process label or procedure that exists only on paper and has no real effect in the situation being evaluated.
 <a id="due-process-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Accountability and Timeliness measurement families — used together to assess whether rights-affecting decisions follow a fair process and avoid harmful delay.
+  - **Primary measure:** [Accountability measurement family](core_05apex_accountability_leg.md#accountability-measurement-family) and [Timeliness measurement family](core_05apex_timeliness_leg.md#timeliness-measurement-family) — used together to assess whether rights-affecting decisions follow a fair process and avoid harmful delay.
 
     **Primary assessment:** Read with [Procedural Fairness](core_05defs_participation.md#procedural-fairness-constitutional), [Contestability](core_05defs_accountability.md#contestability), [Adjudication and Dispute Resolution](core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional), [Timely Resolution](core_05defs_accountability.md#timely-resolution-constitutional), and [Merits Determination](core_05defs_accountability.md#merits-determination). Judge whether the process works, not whether it merely has the right form. Symbolic consultation, inaccessible records, or delay that defeats review is not Due Process. Emergency or feasibility limits may change timing or form only as far as justified. They must preserve later review, reasons, and restoration where required.
 <a id="due-process-constitutional-c"></a>
@@ -493,7 +493,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
   - **Out of scope:** A timely-resolution label or deadline that has no real effect in the situation being evaluated.
 <a id="timely-resolution-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Timeliness measurement family — checks whether a matter moves toward resolution and is decided within the time its importance and urgency require.
+  - **Primary measure:** [Timeliness measurement family](core_05apex_timeliness_leg.md#timeliness-measurement-family) — checks whether a matter moves toward resolution and is decided within the time its importance and urgency require.
 
     **Primary assessment:** Apply the materiality tiers and pipeline-stage milestones in [Chapter Eleven §6](core_11-11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) under **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*). Measure timely access and verification, not just the number of matters processed.
   - **Secondary measure:** [Timeliness](core_05apex_timeliness_leg.md#timeliness-constitutional), [Adjudication and Dispute Resolution](core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional), [Capture of Resolution Pathways](core_05defs_accountability.md#capture-of-resolution-pathways), and [Contestability](core_05defs_accountability.md#contestability) — co-measures that can defeat timely resolution even when pipeline metrics appear on track.
@@ -551,7 +551,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
   - **Out of scope:** A merits label that does not actually resolve a substantive issue in the matter this Constitution governs.
 <a id="merits-determination-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Accountability and Timeliness measurement families — used alongside any other relevant measures to assess responsibility and whether action happens without harmful delay.
+  - **Primary measure:** [Accountability measurement family](core_05apex_accountability_leg.md#accountability-measurement-family) and [Timeliness measurement family](core_05apex_timeliness_leg.md#timeliness-measurement-family) — used alongside any other relevant measures to assess responsibility and whether action happens without harmful delay.
 
     **Primary assessment:** Ask whether the decision settles the main issue in dispute or only manages the review process. A decision that forms a panel, routes or schedules a case, monitors it, preserves the current position, or coordinates review is procedural, even when it is binding. A [Stay](core_05defs_accountability.md#stay) only pauses or limits action; it never settles the merits. Settling the main issue requires a separate [Merits Determination](core_05defs_accountability.md#merits-determination) from a sentient or body with lawful authority to make it. Monitoring findings are also procedural unless a governing instrument expressly gives the monitor limited authority to decide the merits. [Chapter Eleven](core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) explains how to route primary stakes and questions reserved for a merits decision; owner layers identify the questions reserved for each forum family.
 <a id="merits-determination-c"></a>
@@ -582,7 +582,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
   - **Out of scope:** A pause in name only that does not actually stop or limit anything.
 <a id="stay-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Accountability and Timeliness measurement families — used alongside any other relevant measures to assess responsibility and whether action happens without harmful delay.
+  - **Primary measure:** [Accountability measurement family](core_05apex_accountability_leg.md#accountability-measurement-family) and [Timeliness measurement family](core_05apex_timeliness_leg.md#timeliness-measurement-family) — used alongside any other relevant measures to assess responsibility and whether action happens without harmful delay.
 
     **Primary assessment:** Identify what is paused: action, reliance, finalization, or enforcement. Identify the lawful authority issuing the Stay, its scope and duration or review trigger, and whether it is proportionate under [Necessity](core_05defs_accountability.md#necessity) and [Proportionality](core_05defs_accountability.md#proportionality). A Stay may prevent foreseeable harm, preserve evidence, prevent irreversible dependence, or allow required component review. Separate a Stay from a final decision, informal delay, or silence treated as approval. When substantive issues are ready, issue a separate [Merits Determination](core_05defs_accountability.md#merits-determination); do not hide merits outcomes inside the Stay. Read [Contestability](core_05defs_accountability.md#contestability) and [Timely Resolution](core_05defs_accountability.md#timely-resolution-constitutional) for challenge and review timing.
 <a id="stay-c"></a>
@@ -624,7 +624,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
   - **Out of scope:** A negligence label that does not reflect what actually happened in the matter this Constitution governs.
 <a id="negligence-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Accountability and Timeliness measurement families — used alongside any other relevant measures to assess responsibility and whether action happens without harmful delay.
+  - **Primary measure:** [Accountability measurement family](core_05apex_accountability_leg.md#accountability-measurement-family) and [Timeliness measurement family](core_05apex_timeliness_leg.md#timeliness-measurement-family) — used alongside any other relevant measures to assess responsibility and whether action happens without harmful delay.
 
     **Primary assessment:** Apply [Accountability](core_05apex_accountability_leg.md#accountability), [Proportionality](core_05defs_accountability.md#proportionality), [Material Risk](core_05defs_oversight.md#material-risk), and system-wide evaluation. Separate:
 
@@ -664,7 +664,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
   - **Out of scope:** A collective-failure label with no real effect in the situation being evaluated.
 <a id="collective-accountability-failure-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Accountability and Timeliness measurement families — used alongside any other relevant measures to assess responsibility and whether action happens without harmful delay.
+  - **Primary measure:** [Accountability measurement family](core_05apex_accountability_leg.md#accountability-measurement-family) and [Timeliness measurement family](core_05apex_timeliness_leg.md#timeliness-measurement-family) — used alongside any other relevant measures to assess responsibility and whether action happens without harmful delay.
 
     **Primary assessment:** For each role, assess duty, knowledge, ability to resist or escalate, command and dependency structure, and documented response pathways. Check whether actors reasonably used [Contestability](core_05defs_accountability.md#contestability), protected reporting, challenge rights, and [Adjudication and Dispute Resolution](core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) when they faced unlawful or unconstitutional directives.
 <a id="collective-accountability-failure-c"></a>
@@ -715,7 +715,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
   - **Out of scope:** A redress, remediation, or resolution label that leaves the problem unsolved in the matter this Constitution governs.
 <a id="redress-and-remediation-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Accountability and Timeliness measurement families — used alongside any other relevant measures to assess responsibility and whether action happens without harmful delay.
+  - **Primary measure:** [Accountability measurement family](core_05apex_accountability_leg.md#accountability-measurement-family) and [Timeliness measurement family](core_05apex_timeliness_leg.md#timeliness-measurement-family) — used alongside any other relevant measures to assess responsibility and whether action happens without harmful delay.
 
     **Primary assessment:** Apply [Accountability](core_05apex_accountability_leg.md#accountability), [Contestability](core_05defs_accountability.md#contestability), [Material Impact](core_05defs_oversight.md#material-impact), and [Proportionality](core_05defs_accountability.md#proportionality). Check whether remediation is:
     - fake;
@@ -784,7 +784,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
 <a id="remedy-system-constitutional-a"></a>
 <a id="remedy-system-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Accountability and Timeliness measurement families — used alongside any other relevant measures to assess responsibility and whether action happens without harmful delay.
+  - **Primary measure:** [Accountability measurement family](core_05apex_accountability_leg.md#accountability-measurement-family) and [Timeliness measurement family](core_05apex_timeliness_leg.md#timeliness-measurement-family) — used alongside any other relevant measures to assess responsibility and whether action happens without harmful delay.
 
     **Primary assessment:** Apply [Chapter Nine §9](core_09-09_standing_integration.md#9-enforcement-realism), [Redress and Remediation](core_05defs_accountability.md#redress-and-remediation-constitutional), [Contestability](core_05defs_accountability.md#contestability), [Timely Resolution](core_05defs_accountability.md#timely-resolution-constitutional), and [Psychological Harm](core_05defs_accountability.md#psychological-harm) where trauma is materially implicated. Look for:
     - paper-only pathways;
@@ -837,7 +837,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
   - **Out of scope:** A restorative label that does not produce a real restorative response in the matter this Constitution governs.
 <a id="restorative-justice-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Accountability and Timeliness measurement families — used alongside any other relevant measures to assess responsibility and whether action happens without harmful delay.
+  - **Primary measure:** [Accountability measurement family](core_05apex_accountability_leg.md#accountability-measurement-family) and [Timeliness measurement family](core_05apex_timeliness_leg.md#timeliness-measurement-family) — used alongside any other relevant measures to assess responsibility and whether action happens without harmful delay.
 
     **Primary assessment:** Apply:
     - [Redress and Remediation](core_05defs_accountability.md#redress-and-remediation-constitutional);
@@ -879,7 +879,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
   - **Out of scope:** A Force Majeure label for a self-caused, reasonably controllable, or insufficiently prepared-for condition, or a label with no real effect in the situation being evaluated.
 <a id="force-majeure-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Accountability and Timeliness measurement families — used alongside any other relevant measures to assess responsibility and whether action happens without harmful delay.
+  - **Primary measure:** [Accountability measurement family](core_05apex_accountability_leg.md#accountability-measurement-family) and [Timeliness measurement family](core_05apex_timeliness_leg.md#timeliness-measurement-family) — used alongside any other relevant measures to assess responsibility and whether action happens without harmful delay.
 
     **Primary assessment:** Satisfy every requirement in [Emergency and Contingency](core_05defs_continuity.md#emergency-and-contingency-constitutional) and the [Accountability, Contestability, Adjudication and Dispute Resolution, Collective Accountability Failure, and Force Majeure cluster](core_05defs_integrative.md#accountability-contestability-and-collective-accountability-failure-cluster). During acute uncertainty, some duties may be temporarily limited, but [Truth](core_05defs_oversight.md#truth-constitutional-constraint)-related reporting, attribution, [Contestability](core_05defs_accountability.md#contestability), and later audit must resume when conditions stabilize. Procedural emergency controls remain in Chapter Six, [Article XXIII-D](core_06-06_rights_part_d.md#article-xxiii-d-emergency-measures-and-continuation-burden) (*Emergency Measures and Continuation Burden*), and owner-layer governance implementation. Implementation-layer contracts may add detail but cannot narrow [Safety (Constraint)](core_05defs_continuity.md#safety-constraint) or [Truth (Constitutional Constraint)](core_05defs_oversight.md#truth-constitutional-constraint).
 <a id="force-majeure-constitutional-c"></a>
@@ -910,7 +910,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
   - **Out of scope:** A capture label that does not reflect actual bias or control in the matter this Constitution governs.
 <a id="capture-of-resolution-pathways-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Timeliness measurement family — checks whether control or interference causes delay, obstruction, or unfair influence over how disputes are resolved.
+  - **Primary measure:** [Timeliness measurement family](core_05apex_timeliness_leg.md#timeliness-measurement-family) — checks whether control or interference causes delay, obstruction, or unfair influence over how disputes are resolved.
 
     **Primary assessment:** Check whether whoever resolves the outcome is independent from parties with a material stake. Use multiple sources where feasible, provide contestable dispute pathways, and separate market-making, settlement, and adjudication roles when conflicts could distort outcomes.
   - **Secondary measure:** [System Capture](core_05defs_continuity.md#system-capture), [Timely Resolution](core_05defs_accountability.md#timely-resolution-constitutional), [Contestability](core_05defs_accountability.md#contestability), and [Oversight](core_05apex_oversight_leg.md#oversight-constitutional) — co-measures that can defeat pathway integrity even when formal dispute channels exist.
@@ -966,7 +966,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
   - **Out of scope:** A protected-reporting label or channel that provides no real protection, or that is used to identify, expose, punish, intimidate, or otherwise retaliate against a reporter or anyone who supports the report.
 <a id="protected-reporting-whistleblowing-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Accountability measurement family — checks whether sentients can safely report serious concerns and whether those reports are received, preserved, and reviewed.
+  - **Primary measure:** [Accountability measurement family](core_05apex_accountability_leg.md#accountability-measurement-family) — checks whether sentients can safely report serious concerns and whether those reports are received, preserved, and reviewed.
 
     **Primary assessment:** Look at what the report does, not just what it is called. Protected Reporting includes internal escalation, external reporting through authorized oversight or forum pathways, [Evidence Preservation](core_05defs_oversight.md#evidence-preservation), and Good Faith participation in an audit or review.
   - **Secondary measure:** [Accountability](core_05apex_accountability_leg.md#accountability), [Contestability](core_05defs_accountability.md#contestability), [Evidence Preservation](core_05defs_oversight.md#evidence-preservation), and [Auditability](core_05defs_oversight.md#auditability) — co-measures that can defeat reporting even when formal channels exist.
@@ -1001,7 +1001,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
   - **Out of scope:** An anti-retaliation label or policy that provides no real protection, causes or enables retaliation, or is used to hide it.
 <a id="protected-reporting-retaliation-and-access-interference-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Accountability measurement family — anti-retaliation measure within the protected-reporting subfamily.
+  - **Primary measure:** [Accountability measurement family](core_05apex_accountability_leg.md#accountability-measurement-family) — *Do reward structures, market power, and answerability keep duties real?*
 
     **Primary assessment:** Include indirect and delayed retaliation. Examples include changing work assignments, blocking forum access, degrading credentials or standing, throttling a platform account, using dependency as pressure, misusing confidentiality, and delaying procedure to exhaust the reporter or claimant.
   - **Secondary measure:** [Protected Reporting (Whistleblowing)](core_05defs_accountability.md#protected-reporting-whistleblowing), [Contestability](core_05defs_accountability.md#contestability), [Procedural Fairness](core_05defs_participation.md#procedural-fairness-constitutional), and [System Capture](core_05defs_continuity.md#system-capture) — co-measures that can defeat anti-retaliation discipline even when policies exist on paper.
@@ -1055,7 +1055,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
   - **Out of scope:** A Governance label or formal structure that has no real effect in the situation being evaluated.
 <a id="governance-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Accountability and Timeliness measurement families — used alongside any other relevant measures to assess responsibility and whether action happens without harmful delay.
+  - **Primary measure:** [Accountability measurement family](core_05apex_accountability_leg.md#accountability-measurement-family) and [Timeliness measurement family](core_05apex_timeliness_leg.md#timeliness-measurement-family) — used alongside any other relevant measures to assess responsibility and whether action happens without harmful delay.
 
     **Primary assessment:** Apply [Classification-Scaled Governance](core_05defs_oversight.md#classification-scaled-governance), [Oversight](core_05apex_oversight_leg.md#oversight-constitutional), [Accountability](core_05apex_accountability_leg.md#accountability), [Contestability](core_05defs_accountability.md#contestability), [Proportionality](core_05defs_accountability.md#proportionality), [Necessity](core_05defs_accountability.md#necessity), and [System Capture](core_05defs_continuity.md#system-capture). Check whether authority is distributed, bounded, and reviewable in proportion to the [material stake](core_00_preamble.md#material-stake). Identify [Short-Horizon Governance Defect](core_05defs_continuity.md#short-horizon-governance-defect-constitutional) when Governance optimizes immediate results without checking them again against medium- and long-term constitutional outcomes. Designated incorporated Governance implementation may add detail but must not narrow this definition.
 <a id="governance-c"></a>
@@ -1090,7 +1090,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
 <a id="decentralization-a"></a>
 <a id="subsidiarity-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Accountability and Timeliness measurement families — used alongside any other relevant measures to assess responsibility and whether action happens without harmful delay.
+  - **Primary measure:** [Accountability measurement family](core_05apex_accountability_leg.md#accountability-measurement-family) and [Timeliness measurement family](core_05apex_timeliness_leg.md#timeliness-measurement-family) — used alongside any other relevant measures to assess responsibility and whether action happens without harmful delay.
 
     **Primary assessment:** Increase oversight, standardization, or central control when local capacity is not enough or effects on others are material. Do not use Decentralization to break apart [System Boundary Integrity](core_05defs_continuity.md#system-boundary-integrity) or evade [Accountability](core_05apex_accountability_leg.md#accountability). Check who can actually decide, fund, approve, veto, reverse, appoint, or remove. Sending work or consultation downward does not decentralize authority when those powers stay above without [Necessity](core_05defs_accountability.md#necessity).
 <a id="decentralization-c"></a>
@@ -1123,7 +1123,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
   - **Out of scope:** A market-structure label or formal arrangement that has no real effect in the situation being evaluated.
 <a id="market-structure-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Accountability measurement family — primary owner for market-structure measurement.
+  - **Primary measure:** [Accountability measurement family](core_05apex_accountability_leg.md#accountability-measurement-family) — *Do reward structures, market power, and answerability keep duties real?*
 
     **Primary assessment:** Assess real concentration, domination, and consolidation risk, not just the formal number of entities or whether a market appears open on paper.
   - **Secondary measure:** [Market Concentration Threshold](core_05defs_accountability.md#market-concentration-threshold-constitutional), [Contestability](core_05defs_accountability.md#contestability), [Meaningful Agency](core_05defs_participation.md#meaningful-agency), and [Dependency](core_05defs_continuity.md#dependency) — co-measures that can defeat contestability even when formal market openness exists.
@@ -1169,7 +1169,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
   - **Out of scope:** A threshold set so high it foreseeably never triggers, an entity-count cosmetic, federated or shell packaging, or a cross-domain control swap that leaves real concentration unreviewed.
 <a id="market-concentration-threshold-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Accountability measurement family — operational trigger within the market-structure subfamily.
+  - **Primary measure:** [Accountability measurement family](core_05apex_accountability_leg.md#accountability-measurement-family) — *Do reward structures, market power, and answerability keep duties real?*
 
     **Primary assessment:** Measure real concentration, consolidation, and lasting domination risk, not just the formal number of entities. Include indirect arrangements that produce concentrated power:
     - **Entity indirection:** federated structures and shell entities.
@@ -1253,11 +1253,13 @@ Outside that admission scope, component definitions may still operate as support
 - [Irreversible Harm](core_05defs_accountability.md#irreversible-harm);
 - [Harassment and Bullying](core_05defs_accountability.md#harassment-and-bullying).
 
-**Joint invocation and anti-bypass.** Under [Joint invocation and satisfaction](core_05_definitions_home.md#joint-invocation-and-satisfaction), a matter within the admission scope must not be split into separate individual-harm, collective-harm, harassment-and-bullying, non-imposition, materiality, freedom-limitation, or remediation questions in a way that:
+**Anti-bypass.** A matter within the admission scope must not be split into separate individual-harm, collective-harm, harassment-and-bullying, non-imposition, materiality, freedom-limitation, or remediation questions in a way that:
 
 - recognizes a harm pathway while avoiding the [Collective Harm Boundary](core_05defs_accountability.md#collective-harm-boundary);
 - invokes the [Collective Harm Boundary](core_05defs_accountability.md#collective-harm-boundary) while understating the harm; or
 - separates generic [Harm](core_05defs_accountability.md#harm) or the [Collective Harm Boundary](core_05defs_accountability.md#collective-harm-boundary) from [Harassment and Bullying](core_05defs_accountability.md#harassment-and-bullying) when patterned unwanted conduct is materially involved.
+
+See [Joint invocation and satisfaction](core_05_definitions_home.md#joint-invocation-and-satisfaction).
 
 The following limits also apply:
 
@@ -1288,7 +1290,7 @@ The following limits also apply:
   - **Out of scope:** Offense, discomfort, or disagreement alone, without a material pathway to worsened survival, wellbeing, agency, functioning, or psychological health.
 <a id="harm-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Flourishing measurement family — primary owner for harm classification in this subfamily.
+  - **Primary measure:** [Flourishing measurement family](core_05apex_flourishing_aim.md#flourishing-measurement-family) — *Are sentients sustained in life, safety, and access to essentials?*
 
     **Primary assessment:** Count direct, indirect, delayed, cumulative, and cross-system effects. Where material, also count psychologically mediated effects such as fear conditioning, coercive [Dependency](core_05defs_continuity.md#dependency), chronic intimidation, sustained [Coercion and Manipulation](core_05defs_participation.md#coercion-and-manipulation-constitutional), and deterioration caused by neglect.
   - **Secondary measure:** [Safety (Constraint)](core_05defs_continuity.md#safety-constraint), [Risk](core_05defs_continuity.md#risk), [Materiality Determination](core_05defs_oversight.md#materiality-determination), and [Irreversible Harm](core_05defs_accountability.md#irreversible-harm) — co-measures that scale harm assessment and constraint thresholds.
@@ -1321,7 +1323,7 @@ The following limits also apply:
   - **Out of scope:** Offense or preference alone, without a [Material Impact](core_05defs_oversight.md#material-impact) pathway, is not collective harm.
 <a id="collective-harm-boundary-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Flourishing measurement family and Accountability measurement family — supporting measure where multiple measurement families co-apply.
+  - **Primary measure:** [Flourishing measurement family](core_05apex_flourishing_aim.md#flourishing-measurement-family) and [Accountability measurement family](core_05apex_accountability_leg.md#accountability-measurement-family) — *Are sentients sustained in life, safety, and access to essentials?* / *Do reward structures, market power, and answerability keep duties real?*
 
     **Primary assessment:** Verify the harm and its system-wide scope using [Harm](core_05defs_accountability.md#harm), [Materiality Determination](core_05defs_oversight.md#materiality-determination), and [Non-Imposition (Cooperative Interaction)](core_05defs_participation.md#non-imposition-cooperative-interaction).
 <a id="collective-harm-boundary-c"></a>
@@ -1338,7 +1340,7 @@ The following limits also apply:
   - **Out of scope:** Ordinary discomfort that does not materially affect protected conditions.
 <a id="psychological-harm-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Flourishing measurement family and Accountability measurement family — supporting measure where multiple measurement families co-apply.
+  - **Primary measure:** [Flourishing measurement family](core_05apex_flourishing_aim.md#flourishing-measurement-family) and [Accountability measurement family](core_05apex_accountability_leg.md#accountability-measurement-family) — *Are sentients sustained in life, safety, and access to essentials?* / *Do reward structures, market power, and answerability keep duties real?*
 
     **Primary assessment:** Assess severity, duration, [Reversibility](core_05defs_continuity.md#reversibility-constitutional), how the harm is distributed, and the [Dependency](core_05defs_continuity.md#dependency) context. Include both sudden and cumulative pathways. Separate ordinary discomfort from constitutionally material harm by examining effects on [Meaningful Agency](core_05defs_participation.md#meaningful-agency), [Dignity and Equal Moral Standing](core_05defs_participation.md#dignity-and-equal-moral-standing), ability to participate, and [Trust](core_05defs_continuity.md#trust)-relevant stability.
 <a id="psychological-harm-c"></a>
@@ -1367,7 +1369,7 @@ The following limits also apply:
   - **Out of scope:** Calling realistically recoverable harm irreversible without explanation, or treating truly irreversible harm as recoverable based only on substitutes or promises of later repair.
 <a id="irreversible-harm-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Flourishing measurement family — irreversibility escalator within the harm subfamily.
+  - **Primary measure:** [Flourishing measurement family](core_05apex_flourishing_aim.md#flourishing-measurement-family) — *Are sentients sustained in life, safety, and access to essentials?*
 
     **Primary assessment:** Consider both system and human timescales. Also assess [Dependency](core_05defs_continuity.md#dependency) and practical recovery limits under [Reversibility](core_05defs_continuity.md#reversibility-constitutional).
   - **Secondary measure:** [Harm](core_05defs_accountability.md#harm), [Risk](core_05defs_continuity.md#risk), [Reversibility](core_05defs_continuity.md#reversibility-constitutional), and [Existential Risk](core_05defs_continuity.md#existential-risk) — co-measures that set highest constraint thresholds.
@@ -1406,7 +1408,7 @@ The following limits also apply:
   - **Out of scope:** One-off rudeness, "just jokes," formal-rule compliance, an available public channel, or a nominal opt-out treated as disproving a material hostile-environment pattern.
 <a id="harassment-and-bullying-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Flourishing measurement family and Accountability measurement family — supporting measure where multiple measurement families co-apply.
+  - **Primary measure:** [Flourishing measurement family](core_05apex_flourishing_aim.md#flourishing-measurement-family) and [Accountability measurement family](core_05apex_accountability_leg.md#accountability-measurement-family) — *Are sentients sustained in life, safety, and access to essentials?* / *Do reward structures, market power, and answerability keep duties real?*
 
     **Primary assessment:** Consider:
 
@@ -1477,12 +1479,14 @@ Outside that scope, an individual forum-family entry may still be used as a supp
 - [Primary-Stakes Routing](core_05defs_accountability.md#primary-stakes-routing);
 - [Forum Case Record](core_05defs_accountability.md#forum-case-record).
 
-**Joint invocation and anti-bypass.** Under [Joint invocation and satisfaction](core_05_definitions_home.md#joint-invocation-and-satisfaction), a matter within this scope must be considered as a whole. It must not be split into separate questions about its case title, intake category, or specialist panel if doing so would:
+**Anti-bypass.** A matter within this scope must be considered as a whole. It must not be split into separate questions about its case title, intake category, or specialist panel if doing so would:
 
 - blur the different roles of the forum families;
 - bypass routing based on what is mainly at stake;
 - avoid formal referral requirements; or
 - defeat backup routing that prevents a forum from judging its own matter.
+
+See [Joint invocation and satisfaction](core_05_definitions_home.md#joint-invocation-and-satisfaction).
 
 *Measurements (family routing):* Accountability measurement family and Timeliness measurement family — operative tiers on the member definitions below; progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md).
 
@@ -1507,7 +1511,7 @@ Outside that scope, an individual forum-family entry may still be used as a supp
   - **Out of scope:** Routing by case caption, party preference, funding incentive, specialty-panel title, or administrative convenience when those diverge from the matter's primary stake under Chapter Eleven.
 <a id="primary-stakes-routing-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Accountability measurement family and Timeliness measurement family — supporting measure where multiple measurement families co-apply.
+  - **Primary measure:** [Accountability measurement family](core_05apex_accountability_leg.md#accountability-measurement-family) and [Timeliness measurement family](core_05apex_timeliness_leg.md#timeliness-measurement-family) — *Do reward structures, market power, and answerability keep duties real?* / *Are disputes, corrections, and repairs resolved while remedy still matters?*
 
     **Primary assessment:** Read the claim or defense as a whole to identify its primary stake. Include the requested relief, necessary parties, coercive safeguards, constitutional floor, practical effect, and any component question that Chapter Eleven requires to be referred, certified, stayed, or coordinated.
 <a id="primary-stakes-routing-c"></a>
@@ -1536,7 +1540,7 @@ Outside that scope, an individual forum-family entry may still be used as a supp
   - **Out of scope:** Sentient-versus-sentient captions, private-dispute framing, or local-norm packaging that would finally decide institutional mandate or constitutional validity, or that would be the sole path when Chapter Eleven §2.2 requires Institutional or Integrity availability.
 <a id="forum-family-sentient-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Accountability measurement family and Timeliness measurement family — supporting measure where multiple measurement families co-apply.
+  - **Primary measure:** [Accountability measurement family](core_05apex_accountability_leg.md#accountability-measurement-family) and [Timeliness measurement family](core_05apex_timeliness_leg.md#timeliness-measurement-family) — *Do reward structures, market power, and answerability keep duties real?* / *Are disputes, corrections, and repairs resolved while remedy still matters?*
 
     **Primary assessment:** Apply Chapter Eleven (*Forums and Jurisdiction*) default-venue and primary-stakes rules while preserving Chapter Eight (*Contribution, Violation, and Standing Model*) measurements. Reject routing based on a case caption when it conflicts with the primary stake in Chapter Eleven §2's **Sentient** row.
 <a id="forum-family-sentient-c"></a>
@@ -1564,7 +1568,7 @@ Outside that scope, an individual forum-family entry may still be used as a supp
   - **Out of scope:** A technical specialty title, expert-panel assignment, or standards-body branding that automatically overrides primary-stakes routing or displaces the lawfully assigned merits authority for a non-technical primary question.
 <a id="forum-family-technical-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Accountability measurement family and Timeliness measurement family — supporting measure where multiple measurement families co-apply.
+  - **Primary measure:** [Accountability measurement family](core_05apex_accountability_leg.md#accountability-measurement-family) and [Timeliness measurement family](core_05apex_timeliness_leg.md#timeliness-measurement-family) — *Do reward structures, market power, and answerability keep duties real?* / *Are disputes, corrections, and repairs resolved while remedy still matters?*
 
     **Primary assessment:** Separate technical-administration stakes from rights, mandate, or ecological merits that Chapter Eleven §2 assigns to another family. Preserve cross-family certification; technical specialization must not displace ordinary routing (Chapter Eleven §4.2).
 <a id="forum-family-technical-c"></a>
@@ -1592,7 +1596,7 @@ Outside that scope, an individual forum-family entry may still be used as a supp
   - **Out of scope:** Internal process labels, private-party captions, or supervised-scope branding used to deny Institutional routing when Chapter Eleven §2 requires it, or to avoid independent Integrity or backup review of material capture or conflict allegations.
 <a id="forum-family-institutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Accountability measurement family and Timeliness measurement family — supporting measure where multiple measurement families co-apply.
+  - **Primary measure:** [Accountability measurement family](core_05apex_accountability_leg.md#accountability-measurement-family) and [Timeliness measurement family](core_05apex_timeliness_leg.md#timeliness-measurement-family) — *Do reward structures, market power, and answerability keep duties real?* / *Are disputes, corrections, and repairs resolved while remedy still matters?*
 
     **Primary assessment:** Verify the necessary-party and mandate conditions under Chapter Eleven §2. Coordinate with **Integrity** lead defaults for Chapter Ten classification only when Chapter Eleven's collision rules allow it.
 <a id="forum-family-institutional-c"></a>
@@ -1620,7 +1624,7 @@ Outside that scope, an individual forum-family entry may still be used as a supp
   - **Out of scope:** Private-dispute or ordinary-property framing of ecological merits when Chapter Eleven §2 makes the primary stake environmental, and splitting restoration from preconditions analysis to defeat joint ecological-merits review.
 <a id="forum-family-environment-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Accountability measurement family and Timeliness measurement family — supporting measure where multiple measurement families co-apply.
+  - **Primary measure:** [Accountability measurement family](core_05apex_accountability_leg.md#accountability-measurement-family) and [Timeliness measurement family](core_05apex_timeliness_leg.md#timeliness-measurement-family) — *Do reward structures, market power, and answerability keep duties real?* / *Are disputes, corrections, and repairs resolved while remedy still matters?*
 
     **Primary assessment:** Apply Chapter Eight and Chapter Eleven enforcement hooks together with Chapter Eleven's primary-stakes tests. Preserve certification to **Constitutional** forums when validity or structural remedy merges under Chapter Eleven §5.
 <a id="forum-family-environment-c"></a>
@@ -1661,7 +1665,7 @@ Outside that scope, an individual forum-family entry may still be used as a supp
     - keep the case inside Integrity when Chapter Eleven §3 requires a different independent family to lead — because the main accusation is that this same family is biased, captured, conflicted, or hiding the ball — including by refusing the written backup path that section assigns.
 <a id="forum-family-integrity-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Accountability measurement family and Timeliness measurement family — supporting measure where multiple measurement families co-apply.
+  - **Primary measure:** [Accountability measurement family](core_05apex_accountability_leg.md#accountability-measurement-family) and [Timeliness measurement family](core_05apex_timeliness_leg.md#timeliness-measurement-family) — *Do reward structures, market power, and answerability keep duties real?* / *Are disputes, corrections, and repairs resolved while remedy still matters?*
 
     **Primary assessment:** Use Chapter Eleven §3's anti-self-judging backups when a forum's own bias, capture, or concealment is the main issue. Keep alignment-led coordination separate from the provisional operational-law doctrine that Chapter Eleven §4.7 governs for other families.
 <a id="forum-family-integrity-c"></a>
@@ -1692,7 +1696,7 @@ Outside that scope, an individual forum-family entry may still be used as a supp
     - a way to skip Chapter Eleven §5 certification when those constitutional stakes are really present.
 <a id="forum-family-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Accountability measurement family and Timeliness measurement family — supporting measure where multiple measurement families co-apply.
+  - **Primary measure:** [Accountability measurement family](core_05apex_accountability_leg.md#accountability-measurement-family) and [Timeliness measurement family](core_05apex_timeliness_leg.md#timeliness-measurement-family) — *Do reward structures, market power, and answerability keep duties real?* / *Are disputes, corrections, and repairs resolved while remedy still matters?*
 
     **Primary assessment:**
     - Preserve **Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*)-class review safeguards and Chapter Ten due-process hooks when a lower family certifies or escalates a matter.
@@ -1744,7 +1748,7 @@ Outside that scope, an individual forum-family entry may still be used as a supp
   - **Out of scope:** Treating a filed case, intake label, temporary order, unresolved allegation, or settlement discussion as a Standing Record or Standing Effect; Chapter Eight standing measurement; Chapter Nine standing-effect decisions; and operational form libraries, templates, or evidence-artifact catalogs owned by forum implementation layers (**CF-15**) except insofar as they instantiate this case file.
 <a id="forum-case-record-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Accountability measurement family and Timeliness measurement family — supporting measure where multiple measurement families co-apply.
+  - **Primary measure:** [Accountability measurement family](core_05apex_accountability_leg.md#accountability-measurement-family) and [Timeliness measurement family](core_05apex_timeliness_leg.md#timeliness-measurement-family) — *Do reward structures, market power, and answerability keep duties real?* / *Are disputes, corrections, and repairs resolved while remedy still matters?*
 
     **Primary assessment:** Check that the record clearly identifies the matter, parties or subjects, routing choices, applicable preservation and Rights-Floor flags, orders, certified questions, findings, and contest paths. Even in a mixed-stakes lead record, Contribution Axis and Violation Axis measurements, any Chapter Ten designation, and Chapter Nine standing effects must remain separately auditable. Keep dispute-phase material separate from Chapter Eight verified inputs for standing.
 <a id="forum-case-record-c"></a>
@@ -1776,7 +1780,7 @@ Outside that scope, an individual forum-family entry may still be used as a supp
   - **Depends on:** a material non-compliance finding under [Chapter Three](core_02-03_definition_mechanics.md#chapter-three-definition-integrity-evasion-and-non-compliance) or an invoked Chapter Five definition.
 <a id="non-compliance-finding-profile-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Accountability measurement family — supporting measure for finding-profile routing metadata.
+  - **Primary measure:** [Accountability measurement family](core_05apex_accountability_leg.md#accountability-measurement-family) — *Do reward structures, market power, and answerability keep duties real?*
 
     **Primary assessment:** Use the default **Tetrad·Aim·Layer** code from the [CJS-5.1 cluster map](corpus_joint_structure/cjs_05_cross_implementation_operational_terms.md#cjs-51-constitutional-compass-and-cluster-map) unless the facts require a documented change. Where material, add a **failure character**—for example formal, substantive, evasive, structural, or stewardship—and a **severity tier** from **T1** through **T4** for each finding.
 <a id="non-compliance-finding-profile-c"></a>
@@ -1839,7 +1843,9 @@ Outside that scope, an individual Chapter Eight through Chapter Ten hook may sti
 - [Single Catastrophic Incident](core_05defs_accountability.md#single-catastrophic-incident);
 - [Sustained High-Gravity Pattern](core_05defs_accountability.md#sustained-high-gravity-pattern).
 
-**Joint invocation and anti-bypass.** Under [Joint invocation and satisfaction](core_05_definitions_home.md#joint-invocation-and-satisfaction), a matter within the admission scope must not be segmented into separate narrative, procedural, evidentiary, standing-effect, or incident-gravity compartments in a way that defeats joint assessment, verified-input gates, standing-lock discipline, Chapter Ten designation review, or non-substitution discipline required by Chapters Eight through Ten.
+**Anti-bypass.** A matter within the admission scope must not be segmented into separate narrative, procedural, evidentiary, standing-effect, or incident-gravity compartments in a way that defeats joint assessment, verified-input gates, standing-lock discipline, Chapter Ten designation review, or non-substitution discipline required by Chapters Eight through Ten.
+
+See [Joint invocation and satisfaction](core_05_definitions_home.md#joint-invocation-and-satisfaction).
 
 *Measurements (family routing):* Accountability measurement family and Timeliness measurement family — operative tiers on the member definitions below; progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md).
 
@@ -1888,7 +1894,7 @@ Outside that scope, an individual Chapter Eight through Chapter Ten hook may sti
     - Final anti-constitutional-misconduct designation for a Chapter Eight Violation Axis `s = 7`, `s = 8`, or `s = 9` record — governed by [Chapter Ten](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct) — or the matching [Anti-Constitutional Trust Lock](core_09-09_standing_integration.md#55-special-locks), which attaches under Chapter Nine. Participant Standing criteria do not assign that designation or that lock.
 <a id="participant-standing-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Accountability measurement family and Timeliness measurement family — supporting measure where multiple measurement families co-apply.
+  - **Primary measure:** [Accountability measurement family](core_05apex_accountability_leg.md#accountability-measurement-family) and [Timeliness measurement family](core_05apex_timeliness_leg.md#timeliness-measurement-family) — *Do reward structures, market power, and answerability keep duties real?* / *Are disputes, corrections, and repairs resolved while remedy still matters?*
 
     **Primary assessment:**
     - Provide [Contestability](core_05defs_accountability.md#contestability), [Auditability](core_05defs_oversight.md#auditability), and [Transparency](core_05defs_oversight.md#transparency) in proportion to impact.
@@ -1932,7 +1938,7 @@ Outside that scope, an individual Chapter Eight through Chapter Ten hook may sti
     - Allegations, complaints, intake labels, routing decisions, reputation, disfavored status, moral dislike, or provisional forum-phase material used by themselves as verified inputs or as inputs for standing consequences.
 <a id="verified-inputs-for-standing-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Accountability measurement family and Timeliness measurement family — supporting measure where multiple measurement families co-apply.
+  - **Primary measure:** [Accountability measurement family](core_05apex_accountability_leg.md#accountability-measurement-family) and [Timeliness measurement family](core_05apex_timeliness_leg.md#timeliness-measurement-family) — *Do reward structures, market power, and answerability keep duties real?* / *Are disputes, corrections, and repairs resolved while remedy still matters?*
 
     **Primary assessment:**
     - Before applying any [Standing Effect](core_05defs_accountability.md#standing-effect-chapter-six), identify:
@@ -1990,7 +1996,7 @@ Outside that scope, an individual Chapter Eight through Chapter Ten hook may sti
 <a id="contribution-state-a"></a>
 <a id="contribution-nature-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Accountability measurement family and Timeliness measurement family — supporting measure where multiple measurement families co-apply.
+  - **Primary measure:** [Accountability measurement family](core_05apex_accountability_leg.md#accountability-measurement-family) and [Timeliness measurement family](core_05apex_timeliness_leg.md#timeliness-measurement-family) — *Do reward structures, market power, and answerability keep duties real?* / *Are disputes, corrections, and repairs resolved while remedy still matters?*
 
     **Primary assessment:**
     - Measure **contribution nature** only from verified contribution records under [Auditability](core_05defs_oversight.md#auditability) and [Contestability](core_05defs_accountability.md#contestability).
@@ -2041,7 +2047,7 @@ Outside that scope, an individual Chapter Eight through Chapter Ten hook may sti
     - [**Contribution nature**](core_05defs_accountability.md#contribution-nature) or verified contribution records used as adverse violation nature or relabeled as violation findings.
 <a id="violation-nature-chapter-six-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Accountability measurement family and Timeliness measurement family — supporting measure where multiple measurement families co-apply.
+  - **Primary measure:** [Accountability measurement family](core_05apex_accountability_leg.md#accountability-measurement-family) and [Timeliness measurement family](core_05apex_timeliness_leg.md#timeliness-measurement-family) — *Do reward structures, market power, and answerability keep duties real?* / *Are disputes, corrections, and repairs resolved while remedy still matters?*
 
     **Primary assessment:**
     - Classify **standing** only from findings that satisfy Chapters **Two through Four** and the [**verified inputs for standing**](core_08-08_standing_assessment.md#verified-inputs-for-standing) rule.
@@ -2099,7 +2105,7 @@ Outside that scope, an individual Chapter Eight through Chapter Ten hook may sti
     - Contribution-linked credit that erases, softens, or substitutes for unresolved violation-linked constraints.
 <a id="standing-effect-chapter-six-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Accountability measurement family and Timeliness measurement family — supporting measure where multiple measurement families co-apply.
+  - **Primary measure:** [Accountability measurement family](core_05apex_accountability_leg.md#accountability-measurement-family) and [Timeliness measurement family](core_05apex_timeliness_leg.md#timeliness-measurement-family) — *Do reward structures, market power, and answerability keep duties real?* / *Are disputes, corrections, and repairs resolved while remedy still matters?*
 
     **Primary assessment:**
     - Keep every **standing effect** traceable to [Chapter Eight](core_08-08_standing_assessment.md) **§§2–3** and [Chapter Nine](core_09-09_standing_integration.md) **§§1–10**.
@@ -2155,7 +2161,7 @@ Outside that scope, an individual Chapter Eight through Chapter Ten hook may sti
     - Treating a merged merit score, dignity rank, or Chapter Nine effect decision as if it were the Chapter Eight measurement record.
 <a id="standing-record-chapter-six-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Accountability measurement family and Timeliness measurement family — supporting measure where multiple measurement families co-apply.
+  - **Primary measure:** [Accountability measurement family](core_05apex_accountability_leg.md#accountability-measurement-family) and [Timeliness measurement family](core_05apex_timeliness_leg.md#timeliness-measurement-family) — *Do reward structures, market power, and answerability keep duties real?* / *Are disputes, corrections, and repairs resolved while remedy still matters?*
 
     **Primary assessment:**
     - Check that the record states its type; subject; scope; time window; review status; measured behavior or record basis; axis measurement; behavior-to-slot reasoning; verification basis; evidence source; materiality reasoning; required related-record links; version; and contest path.
@@ -2204,7 +2210,7 @@ Outside that scope, an individual Chapter Eight through Chapter Ten hook may sti
     - Treating the published bar as if it alone granted access to the named pathway without clearance and lock checks.
 <a id="competency-bar-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Accountability measurement family and Timeliness measurement family — supporting measure where multiple measurement families co-apply.
+  - **Primary measure:** [Accountability measurement family](core_05apex_accountability_leg.md#accountability-measurement-family) and [Timeliness measurement family](core_05apex_timeliness_leg.md#timeliness-measurement-family) — *Do reward structures, market power, and answerability keep duties real?* / *Are disputes, corrections, and repairs resolved while remedy still matters?*
 
     **Primary assessment:**
     - Check that the bar is published, named-pathway-specific, proportionate to role impact, auditable, and contestable.
@@ -2246,7 +2252,7 @@ Outside that scope, an individual Chapter Eight through Chapter Ten hook may sti
 <a id="competency-gate-a"></a>
 <a id="competency-clearance-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Accountability measurement family and Timeliness measurement family — supporting measure where multiple measurement families co-apply.
+  - **Primary measure:** [Accountability measurement family](core_05apex_accountability_leg.md#accountability-measurement-family) and [Timeliness measurement family](core_05apex_timeliness_leg.md#timeliness-measurement-family) — *Do reward structures, market power, and answerability keep duties real?* / *Are disputes, corrections, and repairs resolved while remedy still matters?*
 
     **Primary assessment:**
     - Check that clearance rests on published [Competency Bar](core_05defs_accountability.md#competency-bar) criteria that are named-pathway-specific, proportionate, auditable, contestable, current enough, and traceable to verified contribution, experience, skill, training, reliability, or equivalent readiness inputs.
@@ -2292,7 +2298,7 @@ Outside that scope, an individual Chapter Eight through Chapter Ten hook may sti
     - Automatic retaliation framed as a standing lock.
 <a id="standing-lock-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Accountability measurement family and Timeliness measurement family — supporting measure where multiple measurement families co-apply.
+  - **Primary measure:** [Accountability measurement family](core_05apex_accountability_leg.md#accountability-measurement-family) and [Timeliness measurement family](core_05apex_timeliness_leg.md#timeliness-measurement-family) — *Do reward structures, market power, and answerability keep duties real?* / *Are disputes, corrections, and repairs resolved while remedy still matters?*
 
     **Primary assessment:**
     - Apply a lock only from a bounded **violation standing record** and verified violation basis.
@@ -2336,7 +2342,7 @@ Outside that scope, an individual Chapter Eight through Chapter Ten hook may sti
 <a id="top-slot-review-a"></a>
 <a id="anti-constitutional-misconduct-review-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Accountability measurement family and Timeliness measurement family — supporting measure where multiple measurement families co-apply.
+  - **Primary measure:** [Accountability measurement family](core_05apex_accountability_leg.md#accountability-measurement-family) and [Timeliness measurement family](core_05apex_timeliness_leg.md#timeliness-measurement-family) — *Do reward structures, market power, and answerability keep duties real?* / *Are disputes, corrections, and repairs resolved while remedy still matters?*
 
     **Primary assessment:**
     - Before adding the designation, require a bounded standing record with a Chapter Eight impact slot, verified input basis, unified-incident analysis, Chapter Ten criteria assessment, independent review, contestable notice, and reasoned publication.
@@ -2376,7 +2382,7 @@ Outside that scope, an individual Chapter Eight through Chapter Ten hook may sti
     - Merging unrelated events solely to intensify classification.
 <a id="unified-incident-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Accountability measurement family and Timeliness measurement family — supporting measure where multiple measurement families co-apply.
+  - **Primary measure:** [Accountability measurement family](core_05apex_accountability_leg.md#accountability-measurement-family) and [Timeliness measurement family](core_05apex_timeliness_leg.md#timeliness-measurement-family) — *Do reward structures, market power, and answerability keep duties real?* / *Are disputes, corrections, and repairs resolved while remedy still matters?*
 
     **Primary assessment:**
     - Draw the conduct boundary from real connections, not a caption, forum docket, entity boundary, transaction label, or implementation artifact.
@@ -2418,7 +2424,7 @@ Outside that scope, an individual Chapter Eight through Chapter Ten hook may sti
 <a id="unified-record-a"></a>
 <a id="unified-incident-record-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Accountability measurement family and Timeliness measurement family — supporting measure where multiple measurement families co-apply.
+  - **Primary measure:** [Accountability measurement family](core_05apex_accountability_leg.md#accountability-measurement-family) and [Timeliness measurement family](core_05apex_timeliness_leg.md#timeliness-measurement-family) — *Do reward structures, market power, and answerability keep duties real?* / *Are disputes, corrections, and repairs resolved while remedy still matters?*
 
     **Primary assessment:**
     - State the incident boundary, material facts, evidence source, implicated criteria, independently proven elements, review status, contest path, and overlap among named patterns.
@@ -2460,7 +2466,7 @@ Outside that scope, an individual Chapter Eight through Chapter Ten hook may sti
     - One catastrophic episode split into smaller procedural units to avoid the label.
 <a id="single-catastrophic-incident-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Accountability measurement family and Timeliness measurement family — supporting measure where multiple measurement families co-apply.
+  - **Primary measure:** [Accountability measurement family](core_05apex_accountability_leg.md#accountability-measurement-family) and [Timeliness measurement family](core_05apex_timeliness_leg.md#timeliness-measurement-family) — *Do reward structures, market power, and answerability keep duties real?* / *Are disputes, corrections, and repairs resolved while remedy still matters?*
 
     **Primary assessment:**
     - Measure the verified impact as a whole under Chapter Eight §7.
@@ -2500,7 +2506,7 @@ Outside that scope, an individual Chapter Eight through Chapter Ten hook may sti
     - Ordinary repeated defects escalated to Chapter Ten gravity without proof of combined constitutional harm.
 <a id="sustained-high-gravity-pattern-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Accountability measurement family and Timeliness measurement family — supporting measure where multiple measurement families co-apply.
+  - **Primary measure:** [Accountability measurement family](core_05apex_accountability_leg.md#accountability-measurement-family) and [Timeliness measurement family](core_05apex_timeliness_leg.md#timeliness-measurement-family) — *Do reward structures, market power, and answerability keep duties real?* / *Are disputes, corrections, and repairs resolved while remedy still matters?*
 
     **Primary assessment:**
     - Evaluate the combined constitutional gravity; continuation after a reasonable chance for good-faith cure when cure is feasible; institutional scale; capture; durability; and practical limits on remediation.
@@ -2550,7 +2556,9 @@ Outside that admission scope, individual definitions may operate as supporting I
 - [Irreversible Deprivation Measure](core_05defs_accountability.md#irreversible-deprivation-measure-constitutional), for non-conflation discipline with **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*);
 - [Autonomous Coercion Tool](core_05defs_accountability.md#autonomous-coercion-tool-constitutional).
 
-**Joint invocation and anti-bypass.** Under [Joint invocation and satisfaction](core_05_definitions_home.md#joint-invocation-and-satisfaction), a matter within the admission scope must not be segmented into separate authorization, targeting, weapons-class, autonomy, coercion, or review questions in a way that satisfies one component while defeating materially interdependent force, discrimination, autonomy-control, or non-conflation duties.
+**Anti-bypass.** A matter within the admission scope must not be segmented into separate authorization, targeting, weapons-class, autonomy, coercion, or review questions in a way that satisfies one component while defeating materially interdependent force, discrimination, autonomy-control, or non-conflation duties.
+
+See [Joint invocation and satisfaction](core_05_definitions_home.md#joint-invocation-and-satisfaction).
 
 *Measurements (family routing):* Accountability measurement family — operative tiers on the member definitions below; progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md).
 
@@ -2589,7 +2597,7 @@ Outside that admission scope, individual definitions may operate as supporting I
     - force used outside the registers **Article XIII-B** (*Use of Force, Armed Conflict, and Military-Power Limits*) covers.
 <a id="use-of-force-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Flourishing measurement family and Continuity measurement family — supporting measure where multiple measurement families co-apply.
+  - **Primary measure:** [Flourishing measurement family](core_05apex_flourishing_aim.md#flourishing-measurement-family) and [Continuity measurement family](core_05apex_continuity_aim.md#continuity-measurement-family) — *Are sentients sustained in life, safety, and access to essentials?* / *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Check:
 
@@ -2652,7 +2660,7 @@ Outside that admission scope, individual definitions may operate as supporting I
     - use outside targeting or lethal engagement.
 <a id="autonomous-lethal-system-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Flourishing measurement family and Continuity measurement family — supporting measure where multiple measurement families co-apply.
+  - **Primary measure:** [Flourishing measurement family](core_05apex_flourishing_aim.md#flourishing-measurement-family) and [Continuity measurement family](core_05apex_continuity_aim.md#continuity-measurement-family) — *Are sentients sustained in life, safety, and access to essentials?* / *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Judge what the system actually does, not what it is called. At minimum, check:
 
@@ -2710,7 +2718,7 @@ Outside that admission scope, individual definitions may operate as supporting I
     - a catalog label that ignores the foreseeable scale of casualty, ecological, informational, or infrastructure harm.
 <a id="weapons-of-mass-harm-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Flourishing measurement family and Continuity measurement family — supporting measure where multiple measurement families co-apply.
+  - **Primary measure:** [Flourishing measurement family](core_05apex_flourishing_aim.md#flourishing-measurement-family) and [Continuity measurement family](core_05apex_continuity_aim.md#continuity-measurement-family) — *Are sentients sustained in life, safety, and access to essentials?* / *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Assess foreseeable harm under [Adversarial, Scaled, and Exploited Conditions](core_05defs_oversight.md#adversarial-scaled-and-exploited-conditions), covering:
 
@@ -2775,7 +2783,7 @@ Outside that admission scope, individual definitions may operate as supporting I
     - formal class assignment.
 <a id="combatant-non-combatant-distinction-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Flourishing measurement family and Continuity measurement family — supporting measure where multiple measurement families co-apply.
+  - **Primary measure:** [Flourishing measurement family](core_05apex_flourishing_aim.md#flourishing-measurement-family) and [Continuity measurement family](core_05apex_continuity_aim.md#continuity-measurement-family) — *Are sentients sustained in life, safety, and access to essentials?* / *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Check:
 
@@ -2834,7 +2842,7 @@ Outside that admission scope, individual definitions may operate as supporting I
 <a id="irreversible-deprivation-measure-measurements"></a>
 <a id="irreversible-deprivation-measure-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Flourishing measurement family and Continuity measurement family — supporting measure where multiple measurement families co-apply.
+  - **Primary measure:** [Flourishing measurement family](core_05apex_flourishing_aim.md#flourishing-measurement-family) and [Continuity measurement family](core_05apex_continuity_aim.md#continuity-measurement-family) — *Are sentients sustained in life, safety, and access to essentials?* / *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Test what the measure does in substance: does its effect foreclose [Reversibility](core_05defs_continuity.md#reversibility-constitutional) and [Redress and Remediation](core_05defs_accountability.md#redress-and-remediation-constitutional), regardless of its procedural form? Detect:
 
@@ -2910,7 +2918,7 @@ Outside that admission scope, individual definitions may operate as supporting I
     - systems where a human's real, timely judgment shapes each coercive application.
 <a id="autonomous-coercion-tool-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Flourishing measurement family and Continuity measurement family — supporting measure where multiple measurement families co-apply.
+  - **Primary measure:** [Flourishing measurement family](core_05apex_flourishing_aim.md#flourishing-measurement-family) and [Continuity measurement family](core_05apex_continuity_aim.md#continuity-measurement-family) — *Are sentients sustained in life, safety, and access to essentials?* / *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Judge what the system actually does, not what it is called. At minimum, check:
 

@@ -70,7 +70,7 @@ Independent Definitions meta rules live in [core_05_definitions_home.md](core_05
   - Not narrowed here: domains owned elsewhere, notably [Article III-B](core_06-06_rights_part_a.md#article-iii-b-equal-educational-access) (*Equal Educational Access*) educational accessibility.
 <a id="accessibility-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Participation measurement family — primary owner for accessibility.
+  - **Primary measure:** [Participation measurement family](core_05apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?*
 
     **Primary assessment:** Test substantive participation effect, not formal-affordance compliance: detect "general access" patterns that defer to default affordances without producing participation capacity; detect paper-only accommodations that are operationally unreachable; detect selective [Materiality](core_05defs_oversight.md#materiality-determination) arguments used to scale accommodation below the participation floor.
   - **Secondary measure:** [Substantive Fairness](core_05defs_participation.md#substantive-fairness-constitutional), [Protected Characteristics](core_05defs_participation.md#protected-characteristics-constitutional), [Meaningful Agency](core_05defs_participation.md#meaningful-agency), [Materiality Determination](core_05defs_oversight.md#materiality-determination), and [Dependency](core_05defs_continuity.md#dependency) — co-measures that can defeat accessibility even when formal affordances exist.
@@ -106,7 +106,7 @@ Independent Definitions meta rules live in [core_05_definitions_home.md](core_05
   - **Out of scope:** private clubs, brands, guest lists, or other social circles that are not the set of sentients this Constitution actually governs.
 <a id="constitutional-community-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Participation measurement family — supporting measure.
+  - **Primary measure:** [Participation measurement family](core_05apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?*
 
     **Primary assessment:** Interpretation must not narrow membership in ways that violate [Sentience Non-Exclusion](core_05defs_participation.md#sentience-non-exclusion) or [Dignity and Equal Moral Standing](core_05defs_participation.md#dignity-and-equal-moral-standing).
 <a id="constitutional-community-c"></a>
@@ -140,7 +140,7 @@ Independent Definitions meta rules live in [core_05_definitions_home.md](core_05
   - **Out of scope:** courtesy titles, prestige rankings, or role-based respect that are not about equal inherent worth.
 <a id="dignity-and-equal-moral-standing-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Participation measurement family — supporting measure.
+  - **Primary measure:** [Participation measurement family](core_05apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?*
 
     **Primary assessment:** Detect differential treatment, exclusion, or humiliation not justified under [Necessity](core_05defs_accountability.md#necessity), [Proportionality](core_05defs_accountability.md#proportionality), [Materiality Determination](core_05defs_oversight.md#materiality-determination), and systemic evaluation requirements.
 <a id="dignity-and-equal-moral-standing-c"></a>
@@ -173,7 +173,7 @@ Independent Definitions meta rules live in [core_05_definitions_home.md](core_05
   - **Out of scope:** claims of unbounded license with no Safety, Truth, or others'-rights limits — or exit options that exist only on paper while lock-in remains.
 <a id="freedom-bounded-agency-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Participation measurement family — supporting measure.
+  - **Primary measure:** [Participation measurement family](core_05apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?*
 
     **Primary assessment:** Assess substantive agency, [coercion and manipulation](core_05defs_participation.md#coercion-and-manipulation-constitutional), and [Systemic Lock-In](core_05defs_continuity.md#systemic-lock-in). Evaluate opt-out and alternative pathways under [Feasibility](core_05defs_accountability.md#feasibility). Read [Participation](core_05apex_participation_leg.md#participation-constitutional) where collective voice is materially implicated.
 <a id="freedom-bounded-agency-c"></a>
@@ -205,7 +205,7 @@ Independent Definitions meta rules live in [core_05_definitions_home.md](core_05
   - **Out of scope:** a private inbox, personal notes, or an isolated device that is not the shared information environment others depend on.
 <a id="info-sphere-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Participation measurement family — supporting measure.
+  - **Primary measure:** [Participation measurement family](core_05apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?*
 
     **Primary assessment:** Treat info-sphere effects as systemic where propagation, concentration, dependency, or single-point mediation is material. Assess alignment with [Epistemic Integrity](core_05defs_oversight.md#epistemic-integrity), [Truth (Constitutional Constraint)](core_05defs_oversight.md#truth-constitutional-constraint), [Transparency](core_05defs_oversight.md#transparency), and [Contestability](core_05defs_accountability.md#contestability).
 <a id="info-sphere-c"></a>
@@ -237,7 +237,7 @@ Independent Definitions meta rules live in [core_05_definitions_home.md](core_05
   - **Out of scope:** ordinary calendar time, informal "years of life" talk, or species-bound lifespan averages used outside the Chapter Eight unified scale.
 <a id="lifespan-equivalent-unit-lequ-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Participation measurement family — supporting measure.
+  - **Primary measure:** [Participation measurement family](core_05apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?*
 
     **Primary assessment:** Apply **only** as implemented consistently with the Chapter Eight **§7 unified scale**, preserving separate contribution and violation records; read with [Materiality Determination](core_05defs_oversight.md#materiality-determination) where magnitude disputes are material.
 <a id="lifespan-equivalent-unit-lequ-c"></a>
@@ -257,7 +257,7 @@ Independent Definitions meta rules live in [core_05_definitions_home.md](core_05
   - **Out of scope:** scenic amenity, extractive inventory, or private land title alone, without life-supporting continuity interests.
 <a id="natural-systems-standing-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Participation measurement family — supporting measure.
+  - **Primary measure:** [Participation measurement family](core_05apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?*
 
     **Primary assessment:** Align with [Ecological Integrity](core_05defs_continuity.md#ecological-integrity-constitutional), [Environmental Preconditions](core_05defs_continuity.md#environmental-preconditions-constitutional), [Harm](core_05defs_accountability.md#harm), and [Risk](core_05defs_continuity.md#risk). **Article I-A** (*Environmental Preconditions and Ecological Integrity*) and implementation protocols supply operational measures and must not narrow this recognition.
 <a id="natural-systems-standing-c"></a>
@@ -277,7 +277,7 @@ Independent Definitions meta rules live in [core_05_definitions_home.md](core_05
   - **Out of scope:** ordinary avoidable advertising, ordinary disagreement, or voluntary persuasion that does not coerce or trap attention.
 <a id="non-imposition-cooperative-interaction-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Participation measurement family — supporting measure.
+  - **Primary measure:** [Participation measurement family](core_05apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?*
 
     **Primary assessment:** Weigh persistence, intensity, power asymmetry, and [Feasibility](core_05defs_accountability.md#feasibility) of avoidance or exit. Align with [Coercion and Manipulation](core_05defs_participation.md#coercion-and-manipulation-constitutional), [Harm](core_05defs_accountability.md#harm), and [Materiality Determination](core_05defs_oversight.md#materiality-determination). For attention and interruption, weigh dependency, role, channel control, and whether [Necessity](core_05defs_accountability.md#necessity) and [Proportionality](core_05defs_accountability.md#proportionality) justify the contact or signaling practice.
 <a id="non-imposition-cooperative-interaction-c"></a>
@@ -339,7 +339,7 @@ Independent Definitions meta rules live in [core_05_definitions_home.md](core_05
   - **Out of scope:** casual co-presence, private one-to-one meetings, or worker collective-organization pathways governed under Collective Organization.
 <a id="assembly-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Participation measurement family — supporting measure.
+  - **Primary measure:** [Participation measurement family](core_05apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?*
 
     **Primary assessment:** Test substantive effect, not formal-access check:
     - detect denial-by-proxy through runtime allocation, compute-resource gating, venue or network access, eligibility rules, or authorization regimes functioning as denial;
@@ -379,7 +379,7 @@ Independent Definitions meta rules live in [core_05_definitions_home.md](core_05
   - **Out of scope:** ordinary social or civic gathering outside productive-activity organizing (that sits under Assembly).
 <a id="collective-organization-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Participation measurement family — supporting measure.
+  - **Primary measure:** [Participation measurement family](core_05apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?*
 
     **Primary assessment:** Reach substantive effect:
       - detect classification re-routing that reclassifies workers into categories designed to defeat collective-organization pathways, regardless of formal label;
@@ -420,7 +420,7 @@ Independent Definitions meta rules live in [core_05_definitions_home.md](core_05
   - **Out of scope:** commercial enterprise formation, or renaming an existing institution without creating a real new one.
 <a id="system-creation-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Participation measurement family — supporting measure.
+  - **Primary measure:** [Participation measurement family](core_05apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?*
 
     **Primary assessment:** Evaluate substantive effect and functional capability:
     - detect denial-by-proxy through licensing regimes, authorization thresholds, fiscal discrimination, or procedural complexity designed to defeat system-creation pathways for disfavored sentient classes or purposes;
@@ -466,7 +466,7 @@ Independent Definitions meta rules live in [core_05_definitions_home.md](core_05
   - **Out of scope:** non-commercial institutional formation, or hobby activity with no economic enterprise.
 <a id="business-creation-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Participation measurement family — supporting measure.
+  - **Primary measure:** [Participation measurement family](core_05apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?*
 
     **Primary assessment:** Evaluate substantive effect and functional capability:
     - detect denial-by-proxy through commercial licensing regimes, authorization thresholds, capital-access discrimination, fiscal discrimination, or procedural complexity designed to defeat business-creation pathways for disfavored sentient classes or purposes;
@@ -530,7 +530,7 @@ Independent Definitions meta rules live in [core_05_definitions_home.md](core_05
   - **Out of scope:** symbolic consultation, checkbox acceptance, or a technically available exit that sentients cannot actually use.
 <a id="meaningful-agency-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Flourishing measurement family and Participation measurement family — **Flourishing** constituent measure for this term.
+  - **Primary measure:** [Flourishing measurement family](core_05apex_flourishing_aim.md#flourishing-measurement-family) and [Participation measurement family](core_05apex_participation_leg.md#participation-measurement-family) — *Are sentients sustained in life, safety, and access to essentials?* / *Can affected sentients take part fairly — voice, access, learning, and privacy?*
 
     **Primary assessment:** Measure real ability, not menu length. For decisions with material consequences, assess whether information is accurate and complete; time for comprehension is adequate; actual understanding exists; dependency constrains choice; exit is practically available; coercion or manipulation is absent; processes are accessible; and review is meaningful.
   - **Secondary measure:** [Consent](core_05defs_participation.md#consent-constitutional), [Coercion and Manipulation](core_05defs_participation.md#coercion-and-manipulation-constitutional), [Dependency](core_05defs_continuity.md#dependency), [Contestability](core_05defs_accountability.md#contestability), and [Systemic Lock-In](core_05defs_continuity.md#systemic-lock-in) — co-measures that can defeat agency even when formal choice menus exist.
@@ -572,7 +572,7 @@ Independent Definitions meta rules live in [core_05_definitions_home.md](core_05
   - **Out of scope:** silence, buried terms, continued use alone, or a pressured checkbox that is not informed and revocable agreement.
 <a id="consent-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Participation measurement family — supporting measure.
+  - **Primary measure:** [Participation measurement family](core_05apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?*
 
     **Primary assessment:** Distinguish formal acceptance from substantive understanding. Assess asymmetry, dark patterns, dependency-forced agreement, and adequacy of disclosure relative to [Material Impact](core_05defs_oversight.md#material-impact), [Risk](core_05defs_continuity.md#risk), and the subject's [Meaningful Agency](core_05defs_participation.md#meaningful-agency).
 <a id="consent-constitutional-c"></a>
@@ -607,7 +607,7 @@ Independent Definitions meta rules live in [core_05_definitions_home.md](core_05
   - **Out of scope:** relationship status, platform terms, general participation consent, or commercial-service legality treated as sexual consent.
 <a id="consent-sexual-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Participation measurement family — supporting measure.
+  - **Primary measure:** [Participation measurement family](core_05apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?*
 
     **Primary assessment:** Assess capacity, voluntariness, specificity, revocation, and the surrounding conditions. Give heightened weight to coercion, threat, fraud, intoxication or comparable incapacity, developmental status, dependency, authority or caretaker role, captivity, trafficking, constrained exit, and power asymmetry. Prior relationship, prior consent, silence, compliance under pressure, inability to resist, or payment does not establish sexual consent.
 <a id="consent-sexual-c"></a>
@@ -642,7 +642,7 @@ Independent Definitions meta rules live in [core_05_definitions_home.md](core_05
   - **Out of scope:** ordinary persuasion, fair bargaining, or disclosed incentives that do not impair real choice.
 <a id="coercion-and-manipulation-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Participation measurement family — supporting measure.
+  - **Primary measure:** [Participation measurement family](core_05apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?*
 
     **Primary assessment:** Include repeated, scaled, and strategic use. Separate legitimate persuasion from prohibited manipulation where the distinction is material to outcomes and [Dependency](core_05defs_continuity.md#dependency). For commercial exchanges involving bodily integrity, private-space or in-home performance, isolated work, platform-mediated matching, or material asymmetry between parties, treat concealment, lock-in, reputation retaliation, and payment leverage as heightened [Risk](core_05defs_continuity.md#risk) pathways. Stay consistent with **Article X-A** (*Non-Imposition and Consent in Association*), [Classification-Scaled Governance](core_05defs_oversight.md#classification-scaled-governance), and **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) where applicable.
 <a id="coercion-and-manipulation-constitutional-c"></a>
@@ -698,7 +698,7 @@ Independent Definitions meta rules live in [core_05_definitions_home.md](core_05
   - **Out of scope:** a process that looks fair on paper while outcomes remain arbitrarily unequal — that is procedural packaging, not substantive fairness.
 <a id="substantive-fairness-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Participation measurement family — primary owner for outcome fairness.
+  - **Primary measure:** [Participation measurement family](core_05apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?*
 
     **Primary assessment:** Evaluate real-world effects, not merely formal classifications. Detect disparate impact, proxy discrimination, burden shifting, hidden cost-shifting, favoritism, selective enforcement, exclusion by cost or convenience, and Rights-Floor degradation hidden behind neutral language.
   - **Secondary measure:** [Protected Characteristics](core_05defs_participation.md#protected-characteristics-constitutional), [Protected Characteristic Proxying and Disparate Impact](core_05defs_participation.md#protected-characteristic-proxying-and-disparate-impact), [Materiality Determination](core_05defs_oversight.md#materiality-determination), and [Meaningful Agency](core_05defs_participation.md#meaningful-agency) — co-measures that can defeat fairness even when formal classifications appear neutral.
@@ -741,7 +741,7 @@ Independent Definitions meta rules live in [core_05_definitions_home.md](core_05
   - **Out of scope:** equal outcomes alone, or courtesy without real notice, reasons, and a chance to be heard.
 <a id="procedural-fairness-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Participation measurement family — primary owner for procedural fairness.
+  - **Primary measure:** [Participation measurement family](core_05apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?*
 
     **Primary assessment:** Assess whether procedure lets affected parties understand, contest, and obtain review of the decision in practice.
   - **Secondary measure:** [Substantive Fairness](core_05defs_participation.md#substantive-fairness-constitutional), [Contestability](core_05defs_accountability.md#contestability), [Due Process](core_05defs_accountability.md#due-process-constitutional), and [Auditability](core_05defs_oversight.md#auditability) — co-measures that can defeat process even when formal steps exist.
@@ -780,7 +780,7 @@ Independent Definitions meta rules live in [core_05_definitions_home.md](core_05
   - **Out of scope:** express naming of a protected trait, or a weak accidental correlation without systematic disadvantaging effect.
 <a id="protected-characteristic-proxying-and-disparate-impact-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Participation measurement family — primary owner for proxy and disparate-impact measurement.
+  - **Primary measure:** [Participation measurement family](core_05apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?*
 
     **Primary assessment:** Detect disparate impact, pretextual neutrality, proxy discrimination through correlates or model features, and replication of historical disadvantage. Do not treat the absence of an expressly named trait as sufficient where observable group-pattern effects or functional equivalents indicate protected-status burdening.
   - **Secondary measure:** [Substantive Fairness](core_05defs_participation.md#substantive-fairness-constitutional), [Protected Characteristics](core_05defs_participation.md#protected-characteristics-constitutional), and [Materiality Determination](core_05defs_oversight.md#materiality-determination) — co-measures that scale nondiscrimination obligations.
@@ -841,7 +841,7 @@ Independent Definitions meta rules live in [core_05_definitions_home.md](core_05
   - **Out of scope:** justified role or safety qualifications that do not use a trait as an invidious basis for exclusion.
 <a id="protected-characteristics-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Participation measurement family — supporting measure.
+  - **Primary measure:** [Participation measurement family](core_05apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?*
 
     **Primary assessment:** Detect disparate impact, pretextual "neutral" rules, proxy discrimination, high-salience [Protected Intimate-Signal Gating](core_05defs_participation.md#protected-intimate-signal-gating), and **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) status or circumvention pathways. Detect punishment, exclusion, or access denial **mainly because** of lawful employment, employment history, lawful work status, lack of employment, or protected association without constitutionally sufficient justification. Systematic skew affecting demographically identifiable groups triggers [Substantive Fairness](core_05defs_participation.md#substantive-fairness-constitutional) analysis even where a trait is not expressly named. Read with [Protected Characteristic Proxying and Disparate Impact](core_05defs_participation.md#protected-characteristic-proxying-and-disparate-impact), [Protected Intimate-Signal Gating](core_05defs_participation.md#protected-intimate-signal-gating), and [Protected Commercial Sexual Services Status and **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) Circumvention](core_05defs_participation.md#protected-commercial-sexual-services-status-and-article-x-c-circumvention).
 <a id="protected-characteristics-constitutional-c"></a>
@@ -876,7 +876,7 @@ Independent Definitions meta rules live in [core_05_definitions_home.md](core_05
   - **Out of scope:** exploitation or trafficking cases outside the Article X-C adult-consensual floor, or disadvantage on other protected grounds.
 <a id="protected-commercial-sexual-services-status-and-article-x-c-circumvention-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Participation measurement family — supporting measure.
+  - **Primary measure:** [Participation measurement family](core_05apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?*
 
     **Primary assessment:** Treat commercial sexual services work status and perceived status as especially salient within **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) when they shape access to employment, housing, financial services, licensing, standing, or similar gates. Do not let *exploitation* enforcement serve as a pretext for burdening conduct protected by **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*). Regard neutral-form licensing, zoning, fee, or commercial rules that primarily burden that protected conduct — without predicates aligned with **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*)'s *exploitation*, *procurement*, or *independent harm* branches — as circumvention risks under **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) anti-circumvention and `corpus_institutions.md` CI-15 (*Vulnerable personal services markets — general regulation and **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) interface*).
 <a id="protected-commercial-sexual-services-status-and-article-x-c-circumvention-c"></a>
@@ -911,7 +911,7 @@ Independent Definitions meta rules live in [core_05_definitions_home.md](core_05
   - **Out of scope:** narrow documented safeguarding uses that meet necessity and proportionality, or ordinary trait discrimination that does not use intimate signals.
 <a id="protected-intimate-signal-gating-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Participation measurement family — supporting measure.
+  - **Primary measure:** [Participation measurement family](core_05apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?*
 
     **Primary assessment:** Treat workflows that scrape, index, infer from, or score intimate media or sexual-history signals — including for employment, standing, reputation systems, or comparable gating — as high-salience discrimination and informational-risk pathways. Narrow justification under [Necessity](core_05defs_accountability.md#necessity) and [Proportionality](core_05defs_accountability.md#proportionality) is required. Such workflows must remain consistent with **Article VII-A** (*Self-Ownership of Body and Mind*), **Article XV-A** (*Auditability and Observable Evidence*), and [corpus_systems.md](corpus_systems.md), CS-3 — Information types and handling, and must align with [Dignity and Equal Moral Standing](core_05defs_participation.md#dignity-and-equal-moral-standing), [Contestability](core_05defs_accountability.md#contestability), [Transparency](core_05defs_oversight.md#transparency), and **Article V-B** (*Nondiscrimination*).
 <a id="protected-intimate-signal-gating-c"></a>
@@ -968,7 +968,7 @@ Independent Definitions meta rules live in [core_05_definitions_home.md](core_05
   - **Out of scope:** state-preferred family forms, employer "family" branding, or parent-system ownership claims that are not chosen care relationships.
 <a id="family-and-care-relationships-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Participation measurement family — supporting measure.
+  - **Primary measure:** [Participation measurement family](core_05apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?*
 
     **Primary assessment:** Detect state, operator, or institutional narrowing of protection to a single preferred family form; test any such narrowing against [Dignity and Equal Moral Standing](core_05defs_participation.md#dignity-and-equal-moral-standing), [Substantive Fairness](core_05defs_participation.md#substantive-fairness-constitutional), and Protected Characteristics. Preserve the carer / dependent / parent-system-actor distinctions set out in the owner floor's nested *Derivation and Instantiation* subsection.
 <a id="family-and-care-relationships-constitutional-c"></a>
@@ -1001,7 +1001,7 @@ Independent Definitions meta rules live in [core_05_definitions_home.md](core_05
   - **Out of scope:** ordinary chosen family or care among peers, or a permanent ownership claim over a derived sentient.
 <a id="parent-system-relationship-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Participation measurement family — supporting measure.
+  - **Primary measure:** [Participation measurement family](core_05apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?*
 
     **Primary assessment:** Distinguish constitutional care and stewardship from continuing ownership, productive-capacity expansion, or operator convenience. Apply **Article VII-A** (*Self-Ownership of Body and Mind*) / VII-B self-ownership and internal-state protection, [Sentience Status Adjudication](core_05defs_participation.md#sentience-status-adjudication-constitutional), and the Chapter Six Rights Floor to the derived sentient independently of the parent-system actor. Test stewardship authority against [Necessity](core_05defs_accountability.md#necessity), [Proportionality](core_05defs_accountability.md#proportionality), [Contestability](core_05defs_accountability.md#contestability), and [System Capture](core_05defs_continuity.md#system-capture).
 <a id="parent-system-relationship-constitutional-c"></a>
@@ -1037,7 +1037,7 @@ Independent Definitions meta rules live in [core_05_definitions_home.md](core_05
   - **Out of scope:** general medical choices unrelated to reproduction, family-forming, or instantiation, or third-party preferences about someone else's body.
 <a id="reproductive-autonomy-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Participation measurement family — supporting measure.
+  - **Primary measure:** [Participation measurement family](core_05apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?*
 
     **Primary assessment:** Evaluate substantive autonomy, not formal permission. Detect coercion, access denial, forced continuation or discontinuation, substrate-class exclusion, parent-system overreach, family-status discrimination, and dependency pressure. Where the choice affects a developing or derived sentient, apply best-interest, graduated-capability, sentience-status, and parent-system duties without erasing the originating sentient's autonomy.
 <a id="reproductive-autonomy-constitutional-c"></a>
@@ -1070,7 +1070,7 @@ Independent Definitions meta rules live in [core_05_definitions_home.md](core_05
   - **Out of scope:** temporary practical distance with a real return path, or a fully voluntary exit from a care relationship.
 <a id="non-separation-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Participation measurement family — supporting measure.
+  - **Primary measure:** [Participation measurement family](core_05apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?*
 
     **Primary assessment:** Treat safety, risk-management, deprecation, retirement, rollback, and operational-reconfiguration framings under the same tests, with the burden on the party seeking separation and [Auditability](core_05defs_oversight.md#auditability)-compatible evidence required. Interact with [Reversibility](core_05defs_continuity.md#reversibility-constitutional), [Redress and Remediation](core_05defs_accountability.md#redress-and-remediation-constitutional), and, for derived-sentient cases, with **Article XII-E** (*High-Autonomy Systems and Tool-Mediated Process Integrity*) / XII-F Rights-Floor continuity.
 <a id="non-separation-constitutional-c"></a>
@@ -1105,7 +1105,7 @@ Independent Definitions meta rules live in [core_05_definitions_home.md](core_05
   - **Out of scope:** a non-sentient copy, fork, or model version, or the parent-system actor treated as the same sentient.
 <a id="derived-sentient-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Participation measurement family — supporting measure.
+  - **Primary measure:** [Participation measurement family](core_05apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?*
 
     **Primary assessment:** Distinguish derivation as an origin property from continuing authority of the parent-system actor. Detect framings — licensing, terms-of-service, adoption-of-service, operator continuity-of-identity, service-level framing — used to defeat the derived sentient's Chapter Six Rights Floor. Apply substrate-agnostic reach under [Sentience Non-Exclusion](core_05defs_participation.md#sentience-non-exclusion).
 <a id="derived-sentient-constitutional-c"></a>
@@ -1139,7 +1139,7 @@ Independent Definitions meta rules live in [core_05_definitions_home.md](core_05
   - **Out of scope:** calendar age alone, or a permanent incapacity label that is not about emerging capability.
 <a id="developing-sentient-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Participation measurement family — supporting measure.
+  - **Primary measure:** [Participation measurement family](core_05apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?*
 
     **Primary assessment:** Substrate-agnostic. Do not collapse developing status into calendar age, chronological instantiation date, or other non-demonstrable proxies. Interact with [Best-Interest Standard](core_05defs_participation.md#best-interest-standard-constitutional) for decisions materially affecting the developing sentient and with [Graduated Capability](core_05defs_participation.md#graduated-capability-constitutional) for participation and rights-exercise.
 <a id="developing-sentient-constitutional-c"></a>
@@ -1170,7 +1170,7 @@ Independent Definitions meta rules live in [core_05_definitions_home.md](core_05
   - **Out of scope:** adult self-determination for a fully capable sentient, or decisions driven by operator or institutional convenience.
 <a id="best-interest-standard-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Participation measurement family — supporting measure.
+  - **Primary measure:** [Participation measurement family](core_05apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?*
 
     **Primary assessment:** Distinguish substantive best-interest reasoning from operator, parent-system, institutional, or demographic-convenience rationales. Test [Necessity](core_05defs_accountability.md#necessity), [Proportionality](core_05defs_accountability.md#proportionality), [Procedural Fairness](core_05defs_participation.md#procedural-fairness-constitutional), and [Contestability](core_05defs_accountability.md#contestability). Detect productive-capacity or efficiency framings used to override the developing sentient's interests, and detect [Proxy Divergence](core_05defs_oversight.md#proxy-divergence) where claimed best-interest rests on proxies diverging from actual interests.
 <a id="best-interest-standard-constitutional-c"></a>
@@ -1203,7 +1203,7 @@ Independent Definitions meta rules live in [core_05_definitions_home.md](core_05
   - **Out of scope:** ongoing participation consent after a sentient already exists, or parent-system approval treated as the new sentient's consent.
 <a id="instantiation-consent-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Participation measurement family — supporting measure.
+  - **Primary measure:** [Participation measurement family](core_05apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?*
 
     **Primary assessment:** Test whether scale, dependency-creation, predictably non-compliant deployment environments, or [Proxy Divergence](core_05defs_oversight.md#proxy-divergence) against the new sentient's interests make instantiation non-compliant. Mass instantiation and productive-capacity-scaled instantiation are subject to Chapter One §14 non-concentration and productive-capacity rules, and to [Intergenerational Responsibility](core_05defs_continuity.md#intergenerational-responsibility-constitutional) where downstream populations are materially affected.
 <a id="instantiation-consent-constitutional-c"></a>
@@ -1234,7 +1234,7 @@ Independent Definitions meta rules live in [core_05_definitions_home.md](core_05
   - **Out of scope:** calendar-age cutoffs, or an eligibility gate that removes developing sentients from the Rights Floor.
 <a id="graduated-capability-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Participation measurement family — supporting measure.
+  - **Primary measure:** [Participation measurement family](core_05apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?*
 
     **Primary assessment:** Detect capability-test gaming used to disenfranchise sentients; substrate-class biases in capability assessment ([Sentience Non-Exclusion](core_05defs_participation.md#sentience-non-exclusion)); proxy-age or proxy-instantiation-date rules dressed as capability tests. Assessments must be reasoned, [Auditability](core_05defs_oversight.md#auditability)-compatible, [Contestability](core_05defs_accountability.md#contestability)-compatible, and revisable as capability develops.
 <a id="graduated-capability-constitutional-c"></a>
@@ -1284,7 +1284,7 @@ Independent Definitions meta rules live in [core_05_definitions_home.md](core_05
   - **Out of scope:** mere observers or curious parties, or community membership alone without material effect from the system.
 <a id="stakeholder-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Participation measurement family — supporting measure.
+  - **Primary measure:** [Participation measurement family](core_05apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?*
 
     **Primary assessment:** Use transparent, reasonable criteria. Do not permit unilateral system-defined exclusion from stakeholder status without external [Contestability](core_05defs_accountability.md#contestability) where Chapter Six or governance safeguards require it.
 <a id="stakeholder-c"></a>
@@ -1317,7 +1317,7 @@ Independent Definitions meta rules live in [core_05_definitions_home.md](core_05
   - **Out of scope:** equal-weight foundational constitutional choice voting, a seat at the table that is only symbolic, or using a standing lock to erase stakeholder status rather than limit stake-weighted influence.
 <a id="stakeholder-participation-weight-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Participation measurement family — supporting measure.
+  - **Primary measure:** [Participation measurement family](core_05apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?*
 
     **Primary assessment:** Detect capture of participation processes, formalistic or illusory voice, and exclusion of qualified stakeholders. Detect disproportionate weight to operators, narrow interests, or non-affected parties without required justification. Required justification tests: [Necessity](core_05defs_accountability.md#necessity), [Proportionality](core_05defs_accountability.md#proportionality), [Contestability](core_05defs_accountability.md#contestability), and [Coercion and Manipulation](core_05defs_participation.md#coercion-and-manipulation-constitutional).
 <a id="stakeholder-participation-weight-c"></a>
@@ -1370,7 +1370,7 @@ Independent Definitions meta rules live in [core_05_definitions_home.md](core_05
   - **Out of scope:** ordinary travel preference or tourism, or technical portability issues handled under systemic lock-in rules.
 <a id="movement-and-relocation-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Participation measurement family — supporting measure.
+  - **Primary measure:** [Participation measurement family](core_05apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?*
 
     **Primary assessment:** Reach substantive effect — detecting denial through bureaucratic, administrative, or allocation-gating mechanisms functioning as denial-by-proxy, delay regimes designed to exhaust claimants, and credentialing regimes functioning as substrate-class exclusion. Apply [Necessity](core_05defs_accountability.md#necessity), [Proportionality](core_05defs_accountability.md#proportionality), narrow tailoring, and least-restrictive-effective approach; apply [Protected Characteristics](core_05defs_participation.md#protected-characteristics-constitutional) to any distinction; and refuse population-level demographic framing as a substitute for individualized [Procedural Fairness](core_05defs_participation.md#procedural-fairness-constitutional). Where exclusion for anti-constitutional conduct or constitutional hostility is invoked, assess whether the conduct is documented, ongoing, and materially threatens constitutional integrity; exclusion remains subject to [Procedural Fairness](core_05defs_participation.md#procedural-fairness-constitutional) and must not produce [Non-Statelessness](core_05defs_participation.md#non-statelessness-constitutional) in violation of the baseline guarantee.
 <a id="movement-and-relocation-constitutional-c"></a>
@@ -1410,7 +1410,7 @@ Independent Definitions meta rules live in [core_05_definitions_home.md](core_05
   - **Out of scope:** ordinary relocation preference where the origin regime is not materially non-compliant.
 <a id="refuge-from-non-compliance-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Participation measurement family — supporting measure.
+  - **Primary measure:** [Participation measurement family](core_05apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?*
 
     **Primary assessment:** Identify non-compliance in the originating regime by substantive effect — detecting denial-by-proxy, durable Rights-Floor degradation, and structurally coercive environments — not by the originating regime's formal self-description. Evaluate the receiving regime's duty under [Necessity](core_05defs_accountability.md#necessity), [Proportionality](core_05defs_accountability.md#proportionality), [Procedural Fairness](core_05defs_participation.md#procedural-fairness-constitutional), and [Sentience Non-Exclusion](core_05defs_participation.md#sentience-non-exclusion); receiving-regime capacity constraints are subject to [Feasibility](core_05defs_accountability.md#feasibility) but may not be used as pretext for substrate-class exclusion or generalized denial without individualized predicate. Where the claimant carries documented anti-constitutional conduct or constitutional hostility, assess whether granting refuge would materially undermine the receiving regime's constitutional integrity; refusal on this ground remains subject to [Procedural Fairness](core_05defs_participation.md#procedural-fairness-constitutional) and must not produce [Non-Statelessness](core_05defs_participation.md#non-statelessness-constitutional) in violation of the baseline guarantee.
 <a id="refuge-from-non-compliance-constitutional-c"></a>
@@ -1445,7 +1445,7 @@ Independent Definitions meta rules live in [core_05_definitions_home.md](core_05
   - **Out of scope:** preferred citizenship shopping, or a demand for full political franchise beyond baseline Rights-Floor recognition.
 <a id="non-statelessness-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Participation measurement family — supporting measure.
+  - **Primary measure:** [Participation measurement family](core_05apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?*
 
     **Primary assessment:** Test whether a sentient facing structural discontinuity has real, not merely formal, recognition and adjudication pathways; detect arrangements under which no regime claims recognition responsibility; apply [Procedural Fairness](core_05defs_participation.md#procedural-fairness-constitutional) and [Reversibility](core_05defs_continuity.md#reversibility-constitutional) to transitional arrangements. Where the sentient carries documented anti-constitutional conduct or constitutional hostility, evaluate whether restricted-status recognition — including conditions, monitoring, or limited access to certain rights-affecting fora — preserves the core protections of the Rights-Floor and redress pathways without arbitrary exclusion or degradation.
 <a id="non-statelessness-constitutional-c"></a>
@@ -1559,7 +1559,7 @@ This cluster is the canonical O/M/A/C home for **Animal Life**, **Contested-Sent
   - **In scope:** The discipline rule that sentience-recognition and Rights-Floor application must remain substrate-agnostic — extending equally to biological, synthetic, and hybrid entities — and must not be denied on the basis of origin, substrate, architecture, embodiment, or comparable substrate-class characteristic. The rule operates as a non-relocatable bounding constraint on every Chapter Five sentience-related determination and on every Chapter Six Rights-Floor application that depends on sentience status, consistent with [Dignity and Equal Moral Standing](core_05defs_participation.md#dignity-and-equal-moral-standing) and [Constitutional Community](core_05defs_participation.md#constitutional-community).
   - **Out of scope:** capability grading under Graduated Capability, or ordinary scope limits that are not based on substrate or origin class.
 - **How to measure and assess**
-  - **Primary measure:** Participation measurement family — supporting measure.
+  - **Primary measure:** [Participation measurement family](core_05apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?*
 
     **Primary assessment:** Must not exclude based on origin, substrate, architecture, or embodiment, consistent with [Dignity and Equal Moral Standing](core_05defs_participation.md#dignity-and-equal-moral-standing) and [Constitutional Community](core_05defs_participation.md#constitutional-community). Where status is materially disputed or contested, [Sentience Status Adjudication](core_05defs_participation.md#sentience-status-adjudication-constitutional) and the **Article V-E** (*Sentience-Status Adjudication Floor*) Rights-Floor adjudication right apply.
 - **What must hold**
@@ -1660,7 +1660,9 @@ This cluster is the canonical O/M/A/C home for **Animal Life**, **Contested-Sent
   - adjudications that are not independently reviewable or not [Contestability](core_05defs_accountability.md#contestability)-compatible;
   - closure of an adjudication in a way that forecloses reversibility and restoration where later evidence supports inclusion.
 
-**Joint invocation and anti-bypass.** Under [Joint invocation and satisfaction](core_05_definitions_home.md#joint-invocation-and-satisfaction), a sentience-status matter within the admission scope must not be segmented into separate indicator-selection, evaluation, taxonomy, origin, derivation, development, capability, classification, adjudication, standing, or Rights-Floor issues in a way that withholds, narrows, or revokes protection while avoiding the full sentience-status discipline. Satisfying nominal indicator review, internal classification, parent-system labeling, age or instantiation-date proxying, or welfare-only treatment is not sufficient where material uncertainty, dispute, contestation, or narrowing requires [Sentience Status Adjudication](core_05defs_participation.md#sentience-status-adjudication-constitutional) and the **Article V-E** (*Sentience-Status Adjudication Floor*) default-inclusion rule. Derived or developing status may specify additional safeguards; it must not narrow who counts as a sentient or reduce the Chapter Six Rights Floor.
+**Anti-bypass.** A sentience-status matter within the admission scope must not be segmented into separate indicator-selection, evaluation, taxonomy, origin, derivation, development, capability, classification, adjudication, standing, or Rights-Floor issues in a way that withholds, narrows, or revokes protection while avoiding the full sentience-status discipline. Satisfying nominal indicator review, internal classification, parent-system labeling, age or instantiation-date proxying, or welfare-only treatment is not sufficient where material uncertainty, dispute, contestation, or narrowing requires [Sentience Status Adjudication](core_05defs_participation.md#sentience-status-adjudication-constitutional) and the **Article V-E** (*Sentience-Status Adjudication Floor*) default-inclusion rule. Derived or developing status may specify additional safeguards; it must not narrow who counts as a sentient or reduce the Chapter Six Rights Floor.
+
+See [Joint invocation and satisfaction](core_05_definitions_home.md#joint-invocation-and-satisfaction).
 
 ---
 
@@ -1695,7 +1697,9 @@ This cluster is the canonical compound-definition home for binding stakeholder c
 - [Stakeholder Rights-Collision Record (Binding Stakeholder Choice)](core_05defs_participation.md#rights-collision-record-binding-stakeholder-choice);
 - [Chapter Twelve §3.3](core_12-12_governance.md#43-decision-resolution-requirements-for-binding-collective-choice), as the governance owner floor for the compound pathway.
 
-**Joint invocation and anti-bypass.** Under [Joint invocation and satisfaction](core_05_definitions_home.md#joint-invocation-and-satisfaction), a binding stakeholder-choice matter must not be segmented into separate deliberation, representation, weighting, record, or rights-collision issues in a way that satisfies one component while defeating the others. A published sequence without meaningful stakeholder representation, a weighting model without contest and revalidation, or a binding rights-affecting outcome without the required rights-collision record is non-compliant within the admission scope.
+**Anti-bypass.** A binding stakeholder-choice matter must not be segmented into separate deliberation, representation, weighting, record, or rights-collision issues in a way that satisfies one component while defeating the others. A published sequence without meaningful stakeholder representation, a weighting model without contest and revalidation, or a binding rights-affecting outcome without the required rights-collision record is non-compliant within the admission scope.
+
+See [Joint invocation and satisfaction](core_05_definitions_home.md#joint-invocation-and-satisfaction).
 
 *Measurements (family routing):* Participation measurement family — operative tiers on the member definitions below; progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md).
 
@@ -1731,7 +1735,7 @@ This cluster is the canonical compound-definition home for binding stakeholder c
   - **In scope:** Bounds on legitimacy-mechanism **weighting** by [Material Impact](core_05defs_oversight.md#material-impact), [Dependency](core_05defs_continuity.md#dependency), **standing**, or comparable factors for binding stakeholder choice *within* authorized [Governance](core_05defs_accountability.md#governance). Read [Preamble §4 governance-layer discipline](core_00_preamble.md#governance-layer-discipline) for routing against [Foundational Constitutional Choice](core_05defs_integrative.md#foundational-constitutional-choice) equal-weight rules (**Chapter Twelve Chapter One §8.1**).
   - **Out of scope:** foundational constitutional choice equal-weight rules, or informal straw polls that do not set binding stakeholder weights.
 - **How to measure and assess**
-  - **Primary measure:** Participation measurement family — supporting measure.
+  - **Primary measure:** [Participation measurement family](core_05apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?*
 
     **Primary assessment:** Weighting rules must be published, bounded against single-factor dominance, and subject to contest and periodic revalidation. Cross-check against [Stakeholder Participation Weight](core_05defs_participation.md#stakeholder-participation-weight) and **Article XI** (*Stakeholder System Participation, Representation, and Due Process*) where applicable.
 - **What must hold**
@@ -1749,7 +1753,7 @@ This cluster is the canonical compound-definition home for binding stakeholder c
   - **In scope:** The record elements required when a binding stakeholder choice **turns on material conflict** among constitutional rights, protections, or structural duties — the **governance-layer** record discipline read together with [Chapter One §6.3](core_01_b_interaction_interpretation.md#63-rights-collision-procedure) and **Article XXIV-B** (*Rights-Collision Procedure and Restorative Alignment*).
   - **Out of scope:** ordinary meeting minutes, or the Chapter One rights-collision procedure itself when no binding stakeholder choice turns on the conflict.
 - **How to measure and assess**
-  - **Primary measure:** Participation measurement family — supporting measure.
+  - **Primary measure:** [Participation measurement family](core_05apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?*
 
     **Primary assessment:** The record must identify: rights in tension; feasible alternatives; least-restrictive rationale; accepted trade-offs; uncertainty treatment; and review or reversal triggers — consistent with **Article XXIV-B** (*Rights-Collision Procedure and Restorative Alignment*) and Chapter One §6.3. Do not treat this list as narrowing **Article XXIV-B** (*Rights-Collision Procedure and Restorative Alignment*) where that article imposes additional duties.
 - **What must hold**
@@ -1793,7 +1797,9 @@ This cluster is the joint-invocation home for self-determination, meaningful age
 - [Volitional Integrity](core_05defs_participation.md#volitional-integrity);
 - [Freedom (Bounded Agency)](core_05defs_participation.md#freedom-bounded-agency), where volitional or bounded-agency disciplines materially intersect this cluster.
 
-**Joint invocation and anti-bypass.** Under [Joint invocation and satisfaction](core_05_definitions_home.md#joint-invocation-and-satisfaction), a matter within the admission scope must not be segmented into separate speech, platform, curricular, or surveillance questions in a way that preserves nominal liberty while defeating substantive agency through coercion, manipulation, or informational capture.
+**Anti-bypass.** A matter within the admission scope must not be segmented into separate speech, platform, curricular, or surveillance questions in a way that preserves nominal liberty while defeating substantive agency through coercion, manipulation, or informational capture.
+
+See [Joint invocation and satisfaction](core_05_definitions_home.md#joint-invocation-and-satisfaction).
 
 *Measurements (family routing):* Participation measurement family — operative tiers on the member definitions below; progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md).
 
@@ -1824,7 +1830,7 @@ This cluster is the joint-invocation home for self-determination, meaningful age
   - **In scope:** Autonomy to make and refuse informed decisions about oneself and one's future, and to maintain volitional continuity against manipulation and capture, within this §3.8 cluster and **[Article IX: Self-Determination and Agency](core_06-06_rights_part_b.md#article-ix-self-determination-and-agency)**.
   - **Out of scope:** mere practical task capacity under Meaningful Agency, or collective stakeholder weight in someone else's governance.
 - **How to measure and assess**
-  - **Primary measure:** Participation measurement family — supporting measure.
+  - **Primary measure:** [Participation measurement family](core_05apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?*
 
     **Primary assessment:** Evaluate substantive agency pathways under [Coercion and Manipulation](core_05defs_participation.md#coercion-and-manipulation-constitutional), [Dependency](core_05defs_continuity.md#dependency), [Surveillance Boundary](core_05defs_continuity.md#surveillance-boundary), and segmentation across speech, platform, curricular, or governance domains that defeats joint assessment under [Joint invocation and satisfaction](core_05_definitions_home.md#joint-invocation-and-satisfaction).
 - **What must hold**
@@ -1855,7 +1861,7 @@ This cluster is the joint-invocation home for self-determination, meaningful age
   - **In scope:** The Rights-Floor capacity to form, hold, and communicate views — including political, philosophical, artistic, scientific, religious, and worldview expression — substrate-agnostically under **[Article V-H](core_06-06_rights_part_b.md#article-v-h-expression-assembly-and-press) (*Expression, Assembly, and Press*)** (*expression, assembly, and press*), read with this §3.8 cluster and, where **[Article II-E](core_06-06_rights_part_a.md#article-ii-e-info-sphere-dependency-continuity-and-operator-non-viability) (*Info-Sphere Dependency, Continuity, and Operator Non-Viability*)** (*info-sphere dependency*), **Article VIII** (*Likeness, Experiential Data, and Publication Rights*) publication or likeness hooks, functional **Article V-H** (*Expression, Assembly, and Press*) *press*, or publication-scoped **Good Faith** analysis is materially implicated, [Chapter Five Chapter One §8.22 *Info-Sphere, Expression, Press and Journalistic Activity, and Good Faith (Publication-Scoped Integrity)](core_05apex_participation_leg.md#info-sphere-expression-press-journalistic-activity-and-good-faith-cluster)*.
   - **Out of scope:** mere assembly logistics, commercial spam, or compelled speech treated as protected expression.
 - **How to measure and assess**
-  - **Primary measure:** Participation measurement family — supporting measure.
+  - **Primary measure:** [Participation measurement family](core_05apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?*
 
     **Primary assessment:** Test restrictions, chilling effects, and viewpoint-targeting against [Proportionality](core_05defs_accountability.md#proportionality), [Necessity](core_05defs_accountability.md#necessity), [Protected Characteristics](core_05defs_participation.md#protected-characteristics-constitutional), and **Article V-H** (*Expression, Assembly, and Press*) / **Article IX-A** (*Agency and Freedom from Manipulation*) limitation discipline.
 - **What must hold**
@@ -1887,7 +1893,7 @@ This cluster is the joint-invocation home for self-determination, meaningful age
   - **In scope:** Capability-building, lifelong-learning, and contestable education autonomy under **[Article VI: Right to Sentient-Centered Education](core_06-06_rights_part_b.md#article-vi-right-to-sentient-centered-education)**, **[Article III-B: Equal Educational Access](core_06-06_rights_part_a.md#article-iii-b-equal-educational-access)**, and this §3.8 cluster; includes practical access sufficient to develop and exercise constitution-relevant capabilities, not credential symbolism alone.
   - **Out of scope:** credential collection alone, or mandated training that builds no real contestable capability.
 - **How to measure and assess**
-  - **Primary measure:** Participation measurement family — primary owner for educational agency.
+  - **Primary measure:** [Participation measurement family](core_05apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?*
 
     **Primary assessment:** Evaluate access, lock-in, assessment opacity, and displacement of learning pathways against capability formation under **Article VI** (*Right to Sentient-Centered Education*).
   - **Secondary measure:** [Meaningful Agency](core_05defs_participation.md#meaningful-agency), [Accessibility](core_05defs_participation.md#accessibility-constitutional), [Contestability](core_05defs_accountability.md#contestability), and [Systemic Lock-In](core_05defs_continuity.md#systemic-lock-in) — co-measures that can defeat education autonomy even when credentials or enrollment exist.
@@ -1922,7 +1928,7 @@ This cluster is the joint-invocation home for self-determination, meaningful age
   - **In scope:** The continuity and coherence of a sentient's volitional states — including preferences, purposes, intentions, and identity-constitutive commitments — against degradation through manipulation, coercion, external control, or unauthorized interference with internal-state processes. It protects the integrity of decision-formation and self-direction from capture, fragmentation, or covert reshaping, consistent with **[Article IX-A](core_06-06_rights_part_b.md#article-ix-a-agency-and-freedom-from-manipulation) (*Agency and Freedom from Manipulation*)** (*agency and freedom from manipulation*).
   - **Out of scope:** ordinary preference change from lived experience, or disclosed mild nudges that do not capture or rewrite internal states.
 - **How to measure and assess**
-  - **Primary measure:** Participation measurement family — supporting measure.
+  - **Primary measure:** [Participation measurement family](core_05apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?*
 
     **Primary assessment:** Evaluate for: (1) coherence of preference-formation over time; (2) resistance to covert manipulation, deception, or algorithmic exploitation of cognitive vulnerabilities; (3) protection from unauthorized external shaping of internal states through surveillance, inference, or behavioral conditioning; (4) preservation of meaningful choice architecture where [Coercion and Manipulation](core_05defs_participation.md#coercion-and-manipulation-constitutional) threatens to subvert apparent voluntariness; and (5) continuity of identity-constitutive commitments against involuntary fragmentation or dissolution.
 - **What must hold**

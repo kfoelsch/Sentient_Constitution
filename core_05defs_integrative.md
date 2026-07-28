@@ -88,7 +88,7 @@ This band holds **Integrative** cross-leg definitions that require simultaneous 
   - **Out of scope:** Ordinary stakeholder consultation, operational participation, system use, branding, or market presence treated as authorization of governing authority; ordinary domain governance after structures and processes are already authorized.
 <a id="constitutional-contract-layer-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Accountability measurement family — supporting measure.
+  - **Primary measure:** [Accountability measurement family](core_05apex_accountability_leg.md#accountability-measurement-family) — *Do reward structures, market power, and answerability keep duties real?*
 
     **Primary assessment:** Identify this layer by function, not scale. Read [Preamble §4 governance-layer discipline](core_00_preamble.md#governance-layer-discipline). Reject framings that treat silence, usage alone, market presence, or branding as authorization.
 <a id="constitutional-contract-layer-c"></a>
@@ -121,7 +121,7 @@ This band holds **Integrative** cross-leg definitions that require simultaneous 
 <a id="foundational-constitutional-choice-a"></a>
 <a id="foundational-collective-choice-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Accountability measurement family — supporting measure.
+  - **Primary measure:** [Accountability measurement family](core_05apex_accountability_leg.md#accountability-measurement-family) — *Do reward structures, market power, and answerability keep duties real?*
 
     **Primary assessment:** Identify foundational constitutional choice by scope — the question's character as authorization or durable structuring of governing authority — not by marginal per-decision impact. Read [Preamble §4 governance-layer discipline](core_00_preamble.md#governance-layer-discipline). Foundational questions are not re-routable as high-impact weighted choices under [Stakeholder Representation and Participation-Weight Limits (Binding Stakeholder Choice)](core_05defs_participation.md#stakeholder-representation-and-participation-weight-limits-binding-collective-choice). Apply [Sentience Non-Exclusion](core_05defs_participation.md#sentience-non-exclusion). Reject substrate-class, calendar-age, or lineage participation-weight factors. Apply [Procedural Fairness](core_05defs_participation.md#procedural-fairness-constitutional) to any disqualification invoked against participation.
 <a id="foundational-constitutional-choice-c"></a>
@@ -158,7 +158,7 @@ This band holds **Integrative** cross-leg definitions that require simultaneous 
   - **Out of scope:** Mere proxy-score or compliance-indicator satisfaction when incentives still undermine constitutional outcomes; ordinary compensation or targets that do not predictably shape agent, operator, or component behavior.
 <a id="incentive-alignment-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Accountability measurement family — primary owner for incentive-alignment measurement.
+  - **Primary measure:** [Accountability measurement family](core_05apex_accountability_leg.md#accountability-measurement-family) — *Do reward structures, market power, and answerability keep duties real?*
 
     **Primary assessment:** Assess alignment across delayed and aggregated effects, not only immediate or local outputs — including effects on [Risk](core_05defs_continuity.md#risk), [Harm](core_05defs_accountability.md#harm), and [Meaningful Agency](core_05defs_participation.md#meaningful-agency). Apply scope-specific routing on cluster children where materially implicated.
   - **Secondary measure:** [Wellbeing](core_05defs_continuity.md#wellbeing), [Safety (Constraint)](core_05defs_continuity.md#safety-constraint), [Epistemic Integrity](core_05defs_oversight.md#epistemic-integrity), and [Meaningful Agency](core_05defs_participation.md#meaningful-agency) — co-measures that can defeat alignment even when nominal targets appear satisfied.
@@ -182,7 +182,7 @@ This band holds **Integrative** cross-leg definitions that require simultaneous 
   - **Depends on:** [Safety (Constraint)](core_05defs_continuity.md#safety-constraint), [Truth (Constitutional Constraint)](core_05defs_oversight.md#truth-constitutional-constraint), [Trust](core_05defs_continuity.md#trust), and [Meaningful Agency](core_05defs_participation.md#meaningful-agency) — constitutive alignment targets; incentive structures must align with these bounds and with systemic stability conducive to justified [Trust](core_05defs_continuity.md#trust).
   - **Out of scope:** Short-horizon local reward tuning that does not shape delayed or aggregated behavior against Safety, Truth, Trust, or Meaningful Agency bounds.
 - **How to measure and assess**
-  - **Primary measure:** Accountability measurement family — inherits [Incentive Alignment](#incentive-alignment) family routing; assess under this baseline constitutional-alignment scope.
+  - **Primary measure:** [Accountability measurement family](core_05apex_accountability_leg.md#accountability-measurement-family) — *Do reward structures, market power, and answerability keep duties real?*
 
     **Primary assessment:** Apply the cluster-head primary assessment across delayed and aggregated effects under the **Depends on** bounds stated above.
 
@@ -191,7 +191,7 @@ This band holds **Integrative** cross-leg definitions that require simultaneous 
 ##### Incentive Alignment — strategic, scaled, and adversarial evaluation
 
 - **How to measure and assess**
-  - **Primary measure:** Accountability measurement family — inherits [Incentive Alignment](#incentive-alignment) family routing.
+  - **Primary measure:** [Accountability measurement family](core_05apex_accountability_leg.md#accountability-measurement-family) — *Do reward structures, market power, and answerability keep duties real?*
 
     **Primary assessment:** Include [Adversarial, Scaled, and Exploited Conditions](core_05defs_oversight.md#adversarial-scaled-and-exploited-conditions).
 
@@ -204,7 +204,7 @@ This band holds **Integrative** cross-leg definitions that require simultaneous 
   - **Out of scope:** Ordinary fixed-obligation contracts or exchanges that are not contingent-claim, game-of-chance, or event-contract forms; treating settlement prices or odds alone as truth or compliance determinations.
 <a id="incentive-alignment-contingent-claims-games-of-chance-and-event-contract-markets-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Accountability measurement family — inherits [Incentive Alignment](#incentive-alignment) family routing; assess contingent-claim, game-of-chance, and event-contract-market forms under this child scope.
+  - **Primary measure:** [Accountability measurement family](core_05apex_accountability_leg.md#accountability-measurement-family) — *Do reward structures, market power, and answerability keep duties real?*
 
     **Primary assessment:** Such systems must satisfy Chapter One §11.5, including:
       - Application of [Necessity](core_05defs_accountability.md#necessity) and [Proportionality](core_05defs_accountability.md#proportionality) to underlying permitted events
@@ -222,7 +222,7 @@ This band holds **Integrative** cross-leg definitions that require simultaneous 
 ##### Incentive Alignment — proxy divergence tracing
 
 - **How to measure and assess**
-  - **Primary measure:** Accountability measurement family — inherits [Incentive Alignment](#incentive-alignment) family routing.
+  - **Primary measure:** [Accountability measurement family](core_05apex_accountability_leg.md#accountability-measurement-family) — *Do reward structures, market power, and answerability keep duties real?*
 
     **Primary assessment:** Apply the cluster-head tertiary integrity check on [Proxy Divergence](core_05defs_oversight.md#proxy-divergence) — including reward paths, targets, or governance signals that exploit proxy gaps even when other nominal scores stay favorable.
 
@@ -231,7 +231,7 @@ This band holds **Integrative** cross-leg definitions that require simultaneous 
 ##### Incentive Alignment — implementation routing and operational hooks
 
 - **How to measure and assess**
-  - **Primary measure:** Accountability measurement family — inherits [Incentive Alignment](#incentive-alignment) family routing.
+  - **Primary measure:** [Accountability measurement family](core_05apex_accountability_leg.md#accountability-measurement-family) — *Do reward structures, market power, and answerability keep duties real?*
 
     **Primary assessment:** Full system-level incentive analysis remains governed by adopted implementation requirements on incentive alignment and mechanism integrity, incorporated via Chapter Fifteen. This definition supplies tracing for constitutional compliance determinations that invoke incentives at the interdependent layer. Operational expectations for materially impactful venues appear in:
       - `corpus_systems.md` (CS-5 — Critical system stewardship, including incentive-scaled governance)
@@ -263,7 +263,7 @@ This band holds **Integrative** cross-leg definitions that require simultaneous 
 <a id="innovation-reward-and-anti-enclosure-preference-for-non-monopoly-reward-tools-a"></a>
 <a id="innovation-reward-and-anti-enclosure-rebuttable-presumption-against-strong-exclusion-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Accountability measurement family — supporting measure.
+  - **Primary measure:** [Accountability measurement family](core_05apex_accountability_leg.md#accountability-measurement-family) — *Do reward structures, market power, and answerability keep duties real?*
 
     **Primary assessment:** Evaluate innovation-reward claims in this sequence:
     1. **Identify the actual contribution.** Assess development burden, disclosure sufficiency, and public benefit. Reward requires a real contribution and enough disclosure for independent understanding, audit, and later implementation—subject only to justified temporary limits.
@@ -315,7 +315,9 @@ This cluster is the joint-invocation home for operative corpus identity, authori
 - [Supremacy and Enforceability](core_05defs_integrative.md#supremacy-and-enforceability);
 - [Constitutional Constraint Violation](core_05defs_integrative.md#constitutional-constraint-violation), where materially implicated in supremacy or custody disputes.
 
-**Joint invocation and anti-bypass.** Under [Joint invocation and satisfaction](core_05_definitions_home.md#joint-invocation-and-satisfaction), a matter within the admission scope must not be segmented into separate labeling, process-artifact, edition-display, or interpretive-gloss questions in a way that treats non-binding material as operative corpus or inverts supremacy ordering without a valid adoption path.
+**Anti-bypass.** A matter within the admission scope must not be segmented into separate labeling, process-artifact, edition-display, or interpretive-gloss questions in a way that treats non-binding material as operative corpus or inverts supremacy ordering without a valid adoption path.
+
+See [Joint invocation and satisfaction](core_05_definitions_home.md#joint-invocation-and-satisfaction).
 
 *Measurements (family routing):* Oversight measurement family and Accountability measurement family — operative tiers on the member definitions below; progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md).
 
@@ -342,7 +344,7 @@ This cluster is the joint-invocation home for operative corpus identity, authori
   - **Out of scope:** Explanatory notes, process artifacts, drafts, or navigational guides not validly incorporated as binding text; unofficial or unversioned copies presented as the operative edition.
 <a id="corpus-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Oversight measurement family and Accountability measurement family — supporting measure where multiple measurement families co-apply.
+  - **Primary measure:** [Oversight measurement family](core_05apex_oversight_leg.md#oversight-measurement-family) and [Accountability measurement family](core_05apex_accountability_leg.md#accountability-measurement-family) — *Can sentients see, verify, and rely on what systems represent?* / *Do reward structures, market power, and answerability keep duties real?*
 
     **Primary assessment:** For compliance and adoption claims, identify the operative corpus edition and custody chain under the applicable [Corpus, Authority Stack, Supremacy, and Enforceability cluster](core_05defs_accountability.md#corpus-authority-stack-supremacy-and-enforceability-cluster). Then:
       - distinguish incorporated binding text from explanatory/process artifacts;
@@ -499,7 +501,7 @@ This cluster is the joint-invocation home for operative corpus identity, authori
   - **In scope:** Any system behavior or outcome that materially degrades [Safety (Constraint)](core_05defs_continuity.md#safety-constraint), [Truth (Constitutional Constraint)](core_05defs_oversight.md#truth-constitutional-constraint), or other binding constitutional requirements.
   - **Out of scope:** A paperwork or policy breach that does not materially degrade Safety, Truth, or another binding constitutional requirement; bounded residual risk after mitigation that is not itself constraint degradation.
 - **How to measure and assess**
-  - **Primary measure:** Oversight measurement family and Accountability measurement family — supporting measure where multiple measurement families co-apply.
+  - **Primary measure:** [Oversight measurement family](core_05apex_oversight_leg.md#oversight-measurement-family) and [Accountability measurement family](core_05apex_accountability_leg.md#accountability-measurement-family) — *Can sentients see, verify, and rely on what systems represent?* / *Do reward structures, market power, and answerability keep duties real?*
 
     **Primary assessment:** Include direct, indirect, delayed, and aggregated effects, consistent with [Harm](core_05defs_accountability.md#harm), [Safety (Constraint)](core_05defs_continuity.md#safety-constraint), and [Truth (Constitutional Constraint)](core_05defs_oversight.md#truth-constitutional-constraint).
 - **What must hold**

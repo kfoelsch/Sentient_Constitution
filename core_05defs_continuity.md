@@ -63,7 +63,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
   - **Out of scope:** ordinary voluntary-exchange mechanics operating above the survival-floor and outside essential-environment-access scope.
 <a id="essential-environment-non-commodification-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Continuity measurement family — supporting measure.
+  - **Primary measure:** [Continuity measurement family](core_05apex_continuity_aim.md#continuity-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Reach substantive effect:
     - detect pricing, speculative reallocation, or comparable market-structured pressure that defeats essential-environment access at scale implicating the survival-floor;
@@ -91,7 +91,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
   - **Out of scope:** unmitigated primary risk still awaiting controls; leftover risk treated as closed merely because some mitigation was applied while scalable harm pathways remain.
 <a id="residual-risk--misalignment-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Continuity measurement family — supporting measure.
+  - **Primary measure:** [Continuity measurement family](core_05apex_continuity_aim.md#continuity-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Ensure boundedness and non-escalation under [Safety (Constraint)](core_05defs_continuity.md#safety-constraint) and [Reversibility](core_05defs_continuity.md#reversibility-constitutional) where applicable.
 <a id="residual-risk--misalignment-c"></a>
@@ -122,7 +122,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
   - **Out of scope:** pressured or uninformed exit; third-party termination or irreversible deprivation measures; offering discontinuation as a substitute for required care or survival support.
 <a id="voluntary-discontinuation-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Continuity measurement family — supporting measure.
+  - **Primary measure:** [Continuity measurement family](core_05apex_continuity_aim.md#continuity-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Verify genuine voluntariness:
     - adequate information, time, reviewability, and reversibility up to irreversible execution consistent with the reversibility-under-uncertainty rule;
@@ -207,7 +207,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
   - Canonical process, record contents, supervisory sequence, contestability chain, and standing-record bridge are stated in [Chapter Seven](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification); this entry is the Chapter Five meaning only.
 <a id="system-alignment-certification-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Continuity measurement family — supporting measure.
+  - **Primary measure:** [Continuity measurement family](core_05apex_continuity_aim.md#continuity-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Evaluate whether:
     1. materially impactful alignment review ran through forum-supervised process under [Chapter Seven](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) and applicable [Chapter Eleven](core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) routing;
@@ -265,7 +265,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
   - Canonical record contents, integrity, supervisory sequence, standing-record bridge, and reopening triggers are stated in [Chapter Seven Part B](core_07_b_system_alignment_certification_record_process.md#11-certification-record); this entry is the Chapter Five meaning only.
 <a id="system-alignment-certification-record-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Continuity measurement family — supporting measure.
+  - **Primary measure:** [Continuity measurement family](core_05apex_continuity_aim.md#continuity-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Evaluate whether:
     1. the record is scope-bound, time-bound, and contestable under Chapter Seven Part B;
@@ -346,7 +346,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - comfort or convenience framing that does not prevent, limit, or contain harm.
 <a id="safety-constraint-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Flourishing measurement family — **Flourishing** constituent measure for this term.
+  - **Primary measure:** [Flourishing measurement family](core_05apex_flourishing_aim.md#flourishing-measurement-family) — *Are sentients sustained in life, safety, and access to essentials?*
 
     **Primary assessment:** Trace protective obligations to sentient-experienced harm containment under full functional system scope. Evaluate:
     1. likelihood, speed, severity, and propagation of harm;
@@ -410,7 +410,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - harm already realized (assess under [Harm](core_05defs_accountability.md#harm), not as open risk).
 <a id="risk-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Flourishing measurement family — co-measure within the flourishing harm subfamily (primary owner: [Harm](core_05defs_accountability.md#harm)).
+  - **Primary measure:** [Flourishing measurement family](core_05apex_flourishing_aim.md#flourishing-measurement-family) — *Are sentients sustained in life, safety, and access to essentials?*
 
     **Primary assessment:** Include cumulative and time-based effects, including:
     - buildup over time;
@@ -469,7 +469,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 <a id="wellbeing-measurements"></a>
 <a id="wellbeing-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Flourishing measurement family — core **Flourishing** outcome measure for this term.
+  - **Primary measure:** [Flourishing measurement family](core_05apex_flourishing_aim.md#flourishing-measurement-family) — *Are sentients sustained in life, safety, and access to essentials?*
 
     **Primary assessment:** Trace claimed wellbeing effects to the Ontological conditions under full functional system scope. Include:
     - direct, indirect, delayed, cumulative, and cross-system effects on:
@@ -550,7 +550,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - ecological branding that does not protect climate, ecosystems, air, water, soil, or regenerative capacity.
 <a id="environmental-preconditions-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Flourishing measurement family and Continuity measurement family — split-placement primary owner for environmental preconditions.
+  - **Primary measure:** [Flourishing measurement family](core_05apex_flourishing_aim.md#flourishing-measurement-family) and [Continuity measurement family](core_05apex_continuity_aim.md#continuity-measurement-family) — *Are sentients sustained in life, safety, and access to essentials?* / *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Include ecological effects that are:
     - direct;
@@ -606,7 +606,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
   - **Out of scope:** rollback, bounding, or containment claims that cannot actually restore, bound, or contain the affected state within feasible limits.
 <a id="reversibility-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Continuity measurement family — primary owner for reversibility measurement.
+  - **Primary measure:** [Continuity measurement family](core_05apex_continuity_aim.md#continuity-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Assess recovery and containment under:
     - normal conditions;
@@ -679,7 +679,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - bypasses audit or contestability channels.
 <a id="self-healing-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Continuity measurement family — supporting measure for Self-Healing.
+  - **Primary measure:** [Continuity measurement family](core_05apex_continuity_aim.md#continuity-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Distinguish genuine recovery from masking. Recovery is not Self-Healing within the meaning of this Constitution when it:
     - suppresses, overwrites, delays, or obscures evidence needed for root-cause analysis under **Article XXI** (*Root Cause Analysis and Adaptive Response*); or
@@ -744,7 +744,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - without amplification beyond where it started.
 <a id="cascading-failure-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Continuity measurement family — propagation-risk measure.
+  - **Primary measure:** [Continuity measurement family](core_05apex_continuity_aim.md#continuity-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Evaluate propagation pathways across [Dependency](core_05defs_continuity.md#dependency) relationships where:
     - spread is reasonably foreseeable; and
@@ -798,7 +798,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - routine safety issues.
 <a id="existential-risk-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Continuity measurement family — supporting measure for Existential Risk.
+  - **Primary measure:** [Continuity measurement family](core_05apex_continuity_aim.md#continuity-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Do not exclude credible existential pathways under conditions that are:
     - adversarial;
@@ -870,7 +870,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
   - **Out of scope:** throughput, scale, or funding claims that do not preserve durable, contestable ability to achieve constitutionally aligned outcomes.
 <a id="shared-system-capacity-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Continuity measurement family — supporting measure for Shared-System Capacity.
+  - **Primary measure:** [Continuity measurement family](core_05apex_continuity_aim.md#continuity-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Treat as downstream of stewardship and governance discipline, not as a license for scale, throughput, or concentration. Apply the following for component tests:
     - [Productive Capacity](core_05defs_continuity.md#productive-capacity-constitutional);
@@ -935,7 +935,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - metrics that narrow Rights-Floor protections, audit, or contestability.
 <a id="constitutional-efficiency-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Constitutional Performance measurement family — primary owner for outcome-per-resource measurement in this family.
+  - **Primary measure:** [Constitutional Performance measurement family](core_05defs_performance.md#performance-measurement-family) — *Are constitutional outcomes delivered efficiently without pointless waste?*
 
     **Primary assessment:** Trace claimed efficiency to underlying constitutional outcomes under Chapter Four. Distinguish constitutional efficiency from avoidable-burden reduction:
     - constitutional efficiency is outcome-per-resource;
@@ -1011,7 +1011,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - throughput, utilization, headcount, revenue, asset growth, market share, or comparable proxies that no longer track real participation and contribution capacity.
 <a id="productive-capacity-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Constitutional Performance measurement family — primary owner for durable participation and contribution capability in this family.
+  - **Primary measure:** [Constitutional Performance measurement family](core_05defs_performance.md#performance-measurement-family) — *Are constitutional outcomes delivered efficiently without pointless waste?*
 
     **Primary assessment:** Assess whether governing structures enable substantive participation and contribution — not only output metrics.
   - **Secondary measure:** other measures that can show capacity is failing even when output numbers look steady:
@@ -1081,7 +1081,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - costs required by rights-protective process.
 <a id="avoidable-burden-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Constitutional Performance measurement family — primary owner for untraced process and coordination cost in this family.
+  - **Primary measure:** [Constitutional Performance measurement family](core_05defs_performance.md#performance-measurement-family) — *Are constitutional outcomes delivered efficiently without pointless waste?*
 
     **Primary assessment:** Distinguish avoidable burden from constitutionally required burden using Chapter Four traceability of definitions to results. Detect:
     - burden that persists without a traceable outcome;
@@ -1163,7 +1163,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - retrospective-review obligations.
 <a id="burden-reduction-duty-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Constitutional Performance measurement family — primary owner for affirmative burden-minimization obligation in this family.
+  - **Primary measure:** [Constitutional Performance measurement family](core_05defs_performance.md#performance-measurement-family) — *Are constitutional outcomes delivered efficiently without pointless waste?*
 
     **Primary assessment:** Read with Chapter One §6.3 and Chapter One §6.1 tradeoff stack. Test simplification as a first-line remedy where burden without traceable constitutional outcome comes from:
     - unnecessary complexity;
@@ -1252,7 +1252,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - footprint or sustainability branding that obscures ecological deterioration.
 <a id="ecological-integrity-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Continuity measurement family — supporting measure.
+  - **Primary measure:** [Continuity measurement family](core_05apex_continuity_aim.md#continuity-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Evaluate effects on ecosystems and dependent sentients that are:
     - direct;
@@ -1324,7 +1324,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - treating irreversible ecological recovery-capacity loss as ordinary localized impact.
 <a id="ecological-recovery-capacity-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Continuity measurement family — supporting measure.
+  - **Primary measure:** [Continuity measurement family](core_05apex_continuity_aim.md#continuity-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Evaluate pathways to irreversible loss of ecological recovery capacity, including:
     - threshold crossings;
@@ -1401,7 +1401,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - footprint branding or single-metric reporting that obscures whole-system environmental burden.
 <a id="ecological-footprint-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Continuity measurement family — primary owner for footprint measurement in this subfamily.
+  - **Primary measure:** [Continuity measurement family](core_05apex_continuity_aim.md#continuity-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Evaluate systemically where externalized impacts are material. Reporting aligns with:
     - [Transparency](core_05defs_oversight.md#transparency);
@@ -1461,7 +1461,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - harm shifted to other communities or future sentients under a sustainability label.
 <a id="sustainability-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Continuity measurement family — primary owner for sustainability measurement.
+  - **Primary measure:** [Continuity measurement family](core_05apex_continuity_aim.md#continuity-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Test effects that are:
     - lifecycle;
@@ -1532,7 +1532,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - Rights-Floor loss for future sentients.
 <a id="intergenerational-responsibility-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Continuity measurement family — supporting measure.
+  - **Primary measure:** [Continuity measurement family](core_05apex_continuity_aim.md#continuity-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Evaluate burdens that are:
     - delayed;
@@ -1638,7 +1638,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
   - **Out of scope:** pretextual or indefinite invocation to bypass Safety, Truth, Contestability, Foundational Constitutional Choice, or the Constitutional Contract Layer.
 <a id="emergency-and-contingency-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Continuity measurement family — supporting measure.
+  - **Primary measure:** [Continuity measurement family](core_05apex_continuity_aim.md#continuity-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Evaluate each emergency invocation as follows:
     - apply [Proportionality](core_05defs_accountability.md#proportionality) and [Necessity](core_05defs_accountability.md#necessity);
@@ -1680,7 +1680,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - ordinary stakeholder-process expedience.
 <a id="constitutional-emergency-and-contingency-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Continuity measurement family — supporting measure.
+  - **Primary measure:** [Continuity measurement family](core_05apex_continuity_aim.md#continuity-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Verify that any constitutional-emergency measure:
     - is limited to preservation, continuity, anti-capture, restoration, or preparation for lawful authorization pathways;
@@ -1726,7 +1726,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - substituting stakeholder emergency for Constitutional Emergency where governing authority is implicated.
 <a id="stakeholder-emergency-and-contingency-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Continuity measurement family — supporting measure.
+  - **Primary measure:** [Continuity measurement family](core_05apex_continuity_aim.md#continuity-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Verify that the measure:
     - stays within an already-authorized governance structure;
@@ -1772,7 +1772,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - sustained pre-deliberation power treated as final stakeholder authorization.
 <a id="emergency-pre-deliberation-action-binding-collective-choice-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Continuity measurement family — supporting measure.
+  - **Primary measure:** [Continuity measurement family](core_05apex_continuity_aim.md#continuity-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Verify that the action:
     - is minimal;
@@ -1852,7 +1852,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - one-time contact without reliance for survival, function, stability, or participation.
 <a id="dependency-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Continuity measurement family — primary owner for dependency measurement in this subfamily.
+  - **Primary measure:** [Continuity measurement family](core_05apex_continuity_aim.md#continuity-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Measure the depth and durability of reliance across:
     - availability — whether the relied-on function is present when needed, and how often it is not;
@@ -1927,7 +1927,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - exchange outside shared-infrastructure or foundational-dependency scope.
 <a id="proportionate-cross-system-support-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Continuity measurement family — primary owner for cross-system support measurement.
+  - **Primary measure:** [Continuity measurement family](core_05apex_continuity_aim.md#continuity-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Reach substantive adequacy, not formal labeling or one-off transfers. Compare documented inflows and outflows on dependent-systems maps and auditable resource-flow records under **Article IV-A** (*Dependency Mapping and Resource-Flow Transparency*) against the burden imposed on the shared or foundational dependency. At minimum, evaluate whether support includes, where material:
     - continuity of operations — keeping the shared or foundational dependency running under ordinary load;
@@ -2010,7 +2010,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - effects without dependency-linked propagation across systems.
 <a id="systemic-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Continuity measurement family — supporting measure.
+  - **Primary measure:** [Continuity measurement family](core_05apex_continuity_aim.md#continuity-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Trace interaction effects across:
     - components;
@@ -2063,7 +2063,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
   - **Out of scope:** cases where adding up each separate impact is enough, because interaction does not make the total material effect larger than that sum.
 <a id="systemic-materiality-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Continuity measurement family — supporting measure.
+  - **Primary measure:** [Continuity measurement family](core_05apex_continuity_aim.md#continuity-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Include propagation and feedback loops across:
     - [Dependency](core_05defs_continuity.md#dependency) pathways;
@@ -2114,7 +2114,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - disclosed legitimate authority that does not distort governance, oversight, or contestability.
 <a id="system-capture-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Continuity measurement family — supporting measure.
+  - **Primary measure:** [Continuity measurement family](core_05apex_continuity_aim.md#continuity-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Detect influence and outcome distortion. Concentration indicators include:
     - lasting control of a large share of decisions, resources, or outcomes;
@@ -2173,7 +2173,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - named entities without a structured set of components producing effects on sentients, environments, or other systems.
 <a id="system-definition-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Continuity measurement family — supporting measure.
+  - **Primary measure:** [Continuity measurement family](core_05apex_continuity_aim.md#continuity-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Identify the system by what it actually does, including:
     - inputs, outputs, and processes;
@@ -2207,7 +2207,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - legal-entity borders that exclude material impacts and dependencies from functional scope.
 <a id="system-boundaries-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Continuity measurement family — supporting measure.
+  - **Primary measure:** [Continuity measurement family](core_05apex_continuity_aim.md#continuity-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Draw scope from material impact and dependency rather than formal or jurisdictional lines. Do not rely on formal or jurisdictional boundaries where doing so would defeat:
     - [Materiality Determination](core_05defs_oversight.md#materiality-determination); or
@@ -2239,7 +2239,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - cannot be contested.
 <a id="system-boundary-integrity-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Continuity measurement family — supporting measure.
+  - **Primary measure:** [Continuity measurement family](core_05apex_continuity_aim.md#continuity-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Detect manipulation or exclusion that would distort:
     - [Materiality Determination](core_05defs_oversight.md#materiality-determination);
@@ -2294,7 +2294,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - treaties, compacts, or charters under Chapter Twelve that found or authorize a political community (different meaning of "charter").
 <a id="charter-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Continuity measurement family — supporting measure.
+  - **Primary measure:** [Continuity measurement family](core_05apex_continuity_aim.md#continuity-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Evaluate whether:
     1. a governing Charter exists where the entity is materially impactful, or an equivalent published scope instrument is identified and reasoned;
@@ -2335,7 +2335,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - voluntary stickiness without foreclosure of exit, switching, or corrective action.
 <a id="systemic-lock-in-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Continuity measurement family — supporting measure.
+  - **Primary measure:** [Continuity measurement family](core_05apex_continuity_aim.md#continuity-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Compare exit costs and frictions against:
     - [Dependency](core_05defs_continuity.md#dependency) depth;
@@ -2412,7 +2412,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - substrate-class exclusions framed as allocation or administrative convenience.
 <a id="bodily-maintenance-access-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Flourishing measurement family — primary owner for bodily-maintenance access within the survival-floor stack.
+  - **Primary measure:** [Flourishing measurement family](core_05apex_flourishing_aim.md#flourishing-measurement-family) — *Are sentients sustained in life, safety, and access to essentials?*
 
     **Primary assessment:** Reach substantive effect on the sentient's ability to obtain adequate care, not only the formal design of gating mechanisms. Detect denial-by-proxy through:
     - insurance, allocation, or eligibility gates;
@@ -2476,7 +2476,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 <a id="tenure-security-constitutional-a"></a>
 <a id="occupancy-continuity-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Flourishing measurement family — primary owner for occupancy continuity within the survival-floor stack.
+  - **Primary measure:** [Flourishing measurement family](core_05apex_flourishing_aim.md#flourishing-measurement-family) — *Are sentients sustained in life, safety, and access to essentials?*
 
     **Primary assessment:** Judge what actually happens to the sentient's continued access to essential shelter or operating environment — not only how the ending paperwork is labeled. Watch for:
     - termination routes dressed as ordinary contractual exit that in substance defeat the continuity interest;
@@ -2556,7 +2556,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - category-label recognition without material implication for community continuity.
 <a id="indigenous-continuity-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Continuity measurement family — supporting measure.
+  - **Primary measure:** [Continuity measurement family](core_05apex_continuity_aim.md#continuity-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Test whether the decision or framing materially implicates community-level continuity of language, cultural practice, governance practice, or knowledge transmission under capability-functional criteria. Reject category-label framings as a substitute, in both directions:
     - inclusive — "not indigenous, so out of scope"; and
@@ -2619,7 +2619,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - ordinary content preference unrelated to protected-characteristic language, culture, or heritage burdens.
 <a id="language-culture-and-heritage-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Continuity measurement family — supporting measure.
+  - **Primary measure:** [Continuity measurement family](core_05apex_continuity_aim.md#continuity-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Look past the label to what the rule actually does, including protected-characteristic proxying — for example, language restrictions dressed up as operational, interoperability, or platform-consolidation rules that still deny language use or cultural practice. Calling the goal "homogenization" does not by itself meet the [Necessity](core_05defs_accountability.md#necessity) and [Proportionality](core_05defs_accountability.md#proportionality) tests **Article V-B** (*Nondiscrimination*) requires, including when that framing rests on:
     - efficiency;
@@ -2684,7 +2684,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
   - anti-displacement of creative and economic participation.
 
   Outside that scope, component definitions may operate as supporting Independent Definitions without importing the whole cluster.
-- **Joint invocation and anti-bypass:** under [Joint invocation and satisfaction](core_05_definitions_home.md#joint-invocation-and-satisfaction), a matter within admission scope must not be segmented into any of the following in a way that satisfies one component while defeating materially interdependent duties under **Article III-D** and **Article VIII-D**:
+- **Anti-bypass:** a matter within admission scope must not be segmented into any of the following in a way that satisfies one component while defeating materially interdependent duties under **Article III-D** and **Article VIII-D**:
   - compensation;
   - organization;
   - safety;
@@ -2694,6 +2694,8 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
   - attribution;
   - displacement; or
   - innovation-reward.
+
+  See [Joint invocation and satisfaction](core_05_definitions_home.md#joint-invocation-and-satisfaction).
 - **Read with:** [Collective Organization](core_05defs_participation.md#collective-organization-constitutional) where productive-activity organizing is materially implicated.
 
 **Cluster members.** This cluster comprises:
@@ -2744,7 +2746,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - survival-floor compliance treated as fair compensation by itself.
 <a id="fair-compensation-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Flourishing measurement family and Continuity measurement family — both apply as supporting measures when more than one measurement family is relevant.
+  - **Primary measure:** [Flourishing measurement family](core_05apex_flourishing_aim.md#flourishing-measurement-family) and [Continuity measurement family](core_05apex_continuity_aim.md#continuity-measurement-family) — *Are sentients sustained in life, safety, and access to essentials?* / *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Reach substantive adequacy, not formal contractual satisfaction. Apply:
     - [Substantive Fairness](core_05defs_participation.md#substantive-fairness-constitutional) to comparable activity;
@@ -2808,7 +2810,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - paper policies, notices, or training that leave foreseeable productive-activity harm unaddressed in practice.
 <a id="safe-conditions-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Flourishing measurement family and Continuity measurement family — both apply as supporting measures when more than one measurement family is relevant.
+  - **Primary measure:** [Flourishing measurement family](core_05apex_flourishing_aim.md#flourishing-measurement-family) and [Continuity measurement family](core_05apex_continuity_aim.md#continuity-measurement-family) — *Are sentients sustained in life, safety, and access to essentials?* / *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Test whether protection holds in practice rather than under ideal conditions. Include:
     - whether safety measures function under degraded, scaled, and exploited operating conditions;
@@ -2877,7 +2879,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
       - idle time that exists only when production pauses.
 <a id="leisure-and-rest-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Flourishing measurement family and Continuity measurement family — both apply as supporting measures when more than one measurement family is relevant.
+  - **Primary measure:** [Flourishing measurement family](core_05apex_flourishing_aim.md#flourishing-measurement-family) and [Continuity measurement family](core_05apex_continuity_aim.md#continuity-measurement-family) — *Are sentients sustained in life, safety, and access to essentials?* / *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Ask whether rest actually preserves the sentient's ability to participate — under [Meaningful Agency](core_05defs_participation.md#meaningful-agency) and [Wellbeing](core_05defs_continuity.md#wellbeing) — not whether rest exists on paper. Include:
     - compensation and productivity-requirement schemes structured to defeat the floor, including:
@@ -2921,7 +2923,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - fictional characters not held out as a real sentient.
 <a id="likeness-and-documentary-depiction-interface-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Flourishing measurement family and Continuity measurement family — both apply as supporting measures when more than one measurement family is relevant.
+  - **Primary measure:** [Flourishing measurement family](core_05apex_flourishing_aim.md#flourishing-measurement-family) and [Continuity measurement family](core_05apex_continuity_aim.md#continuity-measurement-family) — *Are sentients sustained in life, safety, and access to essentials?* / *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Evaluate:
     - recognizability — whether the depiction reasonably identifies a specific sentient;
@@ -2978,7 +2980,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - attribution that does not track the sentient whose creative or expressive work is used, reproduced, or adapted.
 <a id="creative-work-attribution-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Flourishing measurement family and Continuity measurement family — both apply as supporting measures when more than one measurement family is relevant.
+  - **Primary measure:** [Flourishing measurement family](core_05apex_flourishing_aim.md#flourishing-measurement-family) and [Continuity measurement family](core_05apex_continuity_aim.md#continuity-measurement-family) — *Are sentients sustained in life, safety, and access to essentials?* / *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Evaluate for traceability and credit-continuity, not form. Include:
     - whether derivative output remains materially traceable to the creator's work;
@@ -3046,7 +3048,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
       - called non-personal data.
 <a id="training-data-use-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Flourishing measurement family and Continuity measurement family — both apply as supporting measures when more than one measurement family is relevant.
+  - **Primary measure:** [Flourishing measurement family](core_05apex_flourishing_aim.md#flourishing-measurement-family) and [Continuity measurement family](core_05apex_continuity_aim.md#continuity-measurement-family) — *Are sentients sustained in life, safety, and access to essentials?* / *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Evaluate the terms and consequences of ingestion, including:
     - scope, purpose, and duration of use;
@@ -3113,7 +3115,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - pilot programs that leave population-scale labor displacement without the Rights-Floor transition protections.
 <a id="anti-displacement-floor-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Flourishing measurement family and Continuity measurement family — both apply as supporting measures when more than one measurement family is relevant.
+  - **Primary measure:** [Flourishing measurement family](core_05apex_flourishing_aim.md#flourishing-measurement-family) and [Continuity measurement family](core_05apex_continuity_aim.md#continuity-measurement-family) — *Are sentients sustained in life, safety, and access to essentials?* / *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Test what actually happens to the affected population as a whole — not one employer or one platform in isolation:
     - compare compensation, attribution, and livelihood sustainability to the situation before deployment;
@@ -3191,13 +3193,15 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
   - long- versus short-horizon constitutional alignment.
 
   Outside that scope, [Governance](core_05defs_accountability.md#governance), [Shared-System Capacity](core_05defs_continuity.md#shared-system-capacity-constitutional), or [Strategic Stewardship Obligation](core_05defs_continuity.md#strategic-stewardship-obligation-constitutional) may operate alone.
-- **Joint invocation and anti-bypass:** under [Joint invocation and satisfaction](core_05_definitions_home.md#joint-invocation-and-satisfaction), when a matter falls within admission scope, splitting it into any of the following does not count as compliance if that split only looks compliant on paper, hides stewardship failures, or undercuts stewardship discipline, distributed understanding, or lasting constitutional alignment:
+- **Anti-bypass:** when a matter falls within admission scope, splitting it into any of the following does not count as compliance if that split only looks compliant on paper, hides stewardship failures, or undercuts stewardship discipline, distributed understanding, or lasting constitutional alignment:
   - governance-form;
   - capacity-metric;
   - disclosure-summary;
   - CSR-narrative;
   - compliance-artifact; or
   - short-horizon efficiency or incentive questions.
+
+See [Joint invocation and satisfaction](core_05_definitions_home.md#joint-invocation-and-satisfaction).
 
 **Cluster members.** This cluster comprises:
 - [Stewardship](core_05defs_continuity.md#stewardship-constitutional) — principle-layer orientation toward preserving constitutional alignment, repair capacity, distributed understanding, and long-horizon Continuity-aim effects;
@@ -3237,7 +3241,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - stewardship posture that does not preserve repair capacity when misalignment is reasonably foreseeable.
 <a id="stewardship-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Continuity measurement family and Constitutional Performance measurement family — supporting measure where multiple measurement families co-apply.
+  - **Primary measure:** [Continuity measurement family](core_05apex_continuity_aim.md#continuity-measurement-family) and [Constitutional Performance measurement family](core_05defs_performance.md#performance-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?* / *Are constitutional outcomes delivered efficiently without pointless waste?*
 
     **Primary assessment:** Distinguish stewardship from governance form, documentation, consultation theater, or single-metric optimization. Assess:
     - foresight;
@@ -3296,7 +3300,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - Transparency disclosures that do not create usable learning at the materiality scale that applies.
 <a id="distributed-understanding-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Continuity measurement family and Constitutional Performance measurement family — supporting measure where multiple measurement families co-apply.
+  - **Primary measure:** [Continuity measurement family](core_05apex_continuity_aim.md#continuity-measurement-family) and [Constitutional Performance measurement family](core_05defs_performance.md#performance-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?* / *Are constitutional outcomes delivered efficiently without pointless waste?*
 
     **Primary assessment:** Distinguish workable understanding from:
     - nominal disclosure;
@@ -3350,7 +3354,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
   - **Out of scope:** short-horizon value, convenience, or institutional self-protection treated as sufficient stewardship where material or durable influence exists.
 <a id="strategic-stewardship-obligation-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Continuity measurement family and Constitutional Performance measurement family — both apply as supporting measures when more than one measurement family is relevant.
+  - **Primary measure:** [Continuity measurement family](core_05apex_continuity_aim.md#continuity-measurement-family) and [Constitutional Performance measurement family](core_05defs_performance.md#performance-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?* / *Are constitutional outcomes delivered efficiently without pointless waste?*
 
     **Primary assessment:** Evaluate:
     - foresight;
@@ -3406,7 +3410,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - ordinary near-term operations that do not foreseeably sacrifice medium- or long-horizon constitutional alignment.
 <a id="short-horizon-governance-defect-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Continuity measurement family and Constitutional Performance measurement family — supporting measure where multiple measurement families co-apply.
+  - **Primary measure:** [Continuity measurement family](core_05apex_continuity_aim.md#continuity-measurement-family) and [Constitutional Performance measurement family](core_05defs_performance.md#performance-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?* / *Are constitutional outcomes delivered efficiently without pointless waste?*
 
     **Primary assessment:** Include:
     - uncorrected [Proxy Divergence](core_05defs_oversight.md#proxy-divergence);
@@ -3461,7 +3465,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - mere strategy disagreement without a foreseeable pathway to constitutional misalignment or Rights-Floor harm.
 <a id="stewardship-defect-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Continuity measurement family and Constitutional Performance measurement family — supporting measure where multiple measurement families co-apply.
+  - **Primary measure:** [Continuity measurement family](core_05apex_continuity_aim.md#continuity-measurement-family) and [Constitutional Performance measurement family](core_05defs_performance.md#performance-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?* / *Are constitutional outcomes delivered efficiently without pointless waste?*
 
     **Primary assessment:** Identify defects by substantive effect and reasonably available evidence, not by whether a policy exists on paper. Include:
     - known-risk neglect;
@@ -3508,7 +3512,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - published strategy or stewardship claims left unrevised after outcomes contradict stated alignment.
 <a id="review-and-correction-duty-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Continuity measurement family and Constitutional Performance measurement family — supporting measure where multiple measurement families co-apply.
+  - **Primary measure:** [Continuity measurement family](core_05apex_continuity_aim.md#continuity-measurement-family) and [Constitutional Performance measurement family](core_05defs_performance.md#performance-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?* / *Are constitutional outcomes delivered efficiently without pointless waste?*
 
     **Primary assessment:** Apply [Materiality Determination](core_05defs_oversight.md#materiality-determination) and evidence-of-misalignment tests consistent with:
     - [Contestability](core_05defs_accountability.md#contestability);
@@ -3546,7 +3550,9 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 - **Scope:** the canonical O/M/A/C home for **Privacy (Informational)**, **Protected Internal-State Boundary**, and **Surveillance Boundary**, and the peer-level joint-invocation home for distributed privacy coverage across Chapter Six articles under [Joint invocation and satisfaction](core_05_definitions_home.md#joint-invocation-and-satisfaction).
 - **Admission scope:** privacy matters that materially implicate more than one article-level locus in the members list, or where informational handling, internal-state protection, or surveillance-boundary analysis is materially interdependent. Outside that scope, individual definitions may operate alone.
 - **Operational alignment:** data handling must align with **[corpus_systems.md](corpus_systems.md), CS-3 — Information types and handling**, including Type N protections for internal-state data and proportional safeguards for all classified data types.
-- **Joint invocation and anti-bypass:** privacy matters within admission scope must not be segmented across articles or definitions to satisfy one article's standard while evading another's materially implicated discipline, or to isolate privacy analysis from internal-state-boundary or surveillance-boundary assessment where those protections materially intersect. Anti-read-across for standard-setting remains as stated in Chapter Five Chapter One §8.3.
+- **Anti-bypass:** privacy matters within admission scope must not be segmented across articles or definitions to satisfy one article's standard while evading another's materially implicated discipline, or to isolate privacy analysis from internal-state-boundary or surveillance-boundary assessment where those protections materially intersect. Anti-read-across for standard-setting remains as stated in Chapter Five Chapter One §8.3.
+
+See [Joint invocation and satisfaction](core_05_definitions_home.md#joint-invocation-and-satisfaction).
 
 **Cluster members.** This cluster comprises the Chapter Five Chapter One §8.3 enumeration:
 - [Privacy (Informational)](core_05defs_continuity.md#privacy-informational) — lifecycle protection of personal, relational, experiential, likeness, metadata, internal-state-adjacent, and comparable information;
@@ -3581,7 +3587,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - anonymous sales totals.
 <a id="privacy-informational-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Participation measurement family — primary owner for informational privacy (canonical home in Continuity band).
+  - **Primary measure:** [Participation measurement family](core_05apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?*
 
     **Primary assessment:** Evaluate the complete information lifecycle, including:
     - collection;
@@ -3635,18 +3641,20 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - voluntary self-expression without compelled extraction.
 <a id="protected-internal-state-boundary-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Participation measurement family — internal-state boundary within the privacy subfamily.
+  - **Primary measure:** [Participation measurement family](core_05apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?*
 
-    **Primary assessment:** Reach functional equivalents, including:
-    - behavioral inference;
-    - biometric or substrate telemetry;
-    - model-based reconstruction;
-    - intimate-signal scoring;
-    - compelled self-reporting; and
-    - security or productivity tools that expose internal states.
+    **Primary assessment:** Count anything that effectively reads or rebuilds protected inner states — even when it never records them directly — including:
+    - inferring thoughts, feelings, or motives from behavior;
+    - biometric or substrate sensor and telemetry data;
+    - reconstructing inner states with models or AI;
+    - scoring intimate signals (emotion, stress, arousal, and comparable scores);
+    - forcing people to report their own inner states; and
+    - security or productivity tools that expose those states.
   - **Secondary measure:** [Privacy (Informational)](core_05defs_continuity.md#privacy-informational), [Surveillance Boundary](core_05defs_continuity.md#surveillance-boundary), [Consent](core_05defs_participation.md#consent-constitutional), and [Coercion and Manipulation](core_05defs_participation.md#coercion-and-manipulation-constitutional) — co-measures that can defeat boundary protection even when direct recording is avoided.
 
-    **Secondary assessment:** When evaluating the primary trace, evaluate whether the pathway reconstructs or pressures protected states even if it avoids direct recording; apply **[corpus_systems.md](corpus_systems.md), CS-3 — Information types and handling** where Type N is implicated.
+    **Secondary assessment:** When evaluating the primary trace, evaluate whether:
+    - the practice reconstructs or pressures protected states even if it avoids direct recording; and
+    - Type N is implicated — if so, apply **[corpus_systems.md](corpus_systems.md), CS-3 — Information types and handling**.
 <a id="protected-internal-state-boundary-constitutional-c"></a>
 - **What must hold**
   - **Primary failure:** obtaining or exploiting protected internal states without the required narrow predicate, safeguards, and contestability, by means including:
@@ -3656,7 +3664,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - security framing;
     - employment or standing gates; or
     - publication workflows.
-  - **Secondary failure:** segmentation that satisfies one article's standard while evading materially implicated internal-state discipline under this cluster.
+  - **Secondary failure:** meeting one article's standard by splitting the issue across articles, while dodging the internal-state protections this cluster still requires.
 
 <a id="surveillance-boundary"></a>
 
@@ -3669,10 +3677,14 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - privacy;
     - internal state; or
     - Rights-Floor access.
-  - **Out of scope:** ordinary measurement, security logging, or evidence gathering that does not chill, coerce, manipulate, expose, reconstruct, or control agency, privacy, or internal state — including ordinary operational aggregates not traced to specific sentients, such as anonymous traffic or sales totals.
+  - **Out of scope:**
+    - ordinary measurement, security logging, or evidence gathering that does not chill, coerce, manipulate, expose, reconstruct, or control agency, privacy, or internal state; and
+    - ordinary operational aggregates not traced to specific sentients, such as:
+      - anonymous traffic totals; and
+      - anonymous sales totals.
 <a id="surveillance-boundary-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Participation measurement family — surveillance boundary within the privacy subfamily.
+  - **Primary measure:** [Participation measurement family](core_05apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?*
 
     **Primary assessment:** Consider:
     - scope;
@@ -3722,9 +3734,27 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 
 **Dependent cluster context** (joint invocation under admission scope):
 
-- **Scope:** the canonical O/M/A/C home for **Trust**, **Trustworthiness**, and **Trust Degradation and Misleading Reliance**, and the joint-invocation home for justified reliance and demonstrable system reliability where coordination, participation, or oversight materially rests on represented behavior, limits, uncertainty treatment, and means of verification.
-- **Admission scope:** whether reliance is justified; whether system behavior relative to stated properties supports that reliance; or whether trust and trustworthiness requirements must be evaluated together. Outside that scope, supporting definitions in other clusters may apply without importing this cluster's full joint-invocation discipline.
-- **Joint invocation and anti-bypass:** under [Joint invocation and satisfaction](core_05_definitions_home.md#joint-invocation-and-satisfaction), a matter within admission scope must not be segmented into trust-only or trustworthiness-only frames that treat reliance as justified without the joint observable-and-verifiable evidence discipline both entries require, or that satisfy one [Trustworthiness](core_05defs_continuity.md#trustworthiness) assessment subcomponent while bypassing another where materially relevant (Chapter Five [Joint invocation and satisfaction](core_05_definitions_home.md#joint-invocation-and-satisfaction) and Chapter Three §§1–2).
+- **Scope:** the canonical O/M/A/C home for:
+  - **Trust**;
+  - **Trustworthiness**; and
+  - **Trust Degradation and Misleading Reliance** —
+
+  and the joint-invocation home for justified reliance and demonstrable system reliability where coordination, participation, or oversight materially rests on:
+  - represented behavior;
+  - limits;
+  - uncertainty treatment; and
+  - means of verification.
+- **Admission scope:** matters that materially implicate any of:
+  - whether reliance is justified;
+  - whether system behavior relative to stated properties supports that reliance; or
+  - whether trust and trustworthiness requirements must be evaluated together.
+
+  Outside that scope, supporting definitions in other clusters may apply without importing this cluster's full joint-invocation discipline.
+- **Anti-bypass:** a matter within admission scope must not be segmented into trust-only or trustworthiness-only frames that:
+  - treat reliance as justified without the joint observable-and-verifiable evidence discipline both entries require; or
+  - satisfy one [Trustworthiness](core_05defs_continuity.md#trustworthiness) assessment subcomponent while bypassing another where materially relevant.
+
+  See [Joint invocation and satisfaction](core_05_definitions_home.md#joint-invocation-and-satisfaction) and Chapter Three §§1–2.
 
 **Cluster members.** This cluster comprises:
 - [Trust](core_05defs_continuity.md#trust) — reliance grounded exclusively in demonstrated trustworthiness;
@@ -3757,16 +3787,15 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - endorsement.
 <a id="trust-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Oversight measurement family — supporting measure.
+  - **Primary measure:** [Oversight measurement family](core_05apex_oversight_leg.md#oversight-measurement-family) — *Can sentients see, verify, and rely on what systems represent?*
 
-    **Primary assessment:** Evaluation of whether reliance is justified must apply the [Trustworthiness](core_05defs_continuity.md#trustworthiness) assessment and compliance components as a single joint test.
-  - **Secondary measure:** co-measures that supply the evidence a trust claim rests on:
-    - [Trustworthiness](core_05defs_continuity.md#trustworthiness);
+    **Primary assessment:** Ask whether reliance is justified by applying the [Trustworthiness](core_05defs_continuity.md#trustworthiness) assessment and compliance components as a single joint test.
+  - **Secondary measure:** co-measures that supply the evidence that joint test rests on:
     - [Transparency](core_05defs_oversight.md#transparency);
     - [Auditability](core_05defs_oversight.md#auditability); and
     - [Accountability](core_05apex_accountability_leg.md#accountability).
 
-    **Secondary assessment:** When evaluating the primary trace, do not treat trust claims as severable from the observable and verifiable evidence those components require.
+    **Secondary assessment:** When evaluating the primary trace, do not treat trust claims as severable from the observable and verifiable evidence those co-measures require.
 <a id="trust-c"></a>
 - **What must hold**
   - **Primary failure:** isolating **trust** or **reliance** rationales from [Trustworthiness](core_05defs_continuity.md#trustworthiness) requirements, where materially relevant.
@@ -3793,7 +3822,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - evidentiary basis grounded in observable behavior and attributable actions;
     - psychological safety conditions enabling [Meaningful Agency](core_05defs_participation.md#meaningful-agency);
     - transparent, auditable, and contestable methodology;
-    - class-scaled assessment for Class A/B/C systems;
+    - class-scaled assessment for non-**Class P** systems;
     - informed consent and non-coercive participation pathways;
     - defined scope boundaries for justified reliance;
     - continuous behavioral revalidation; and
@@ -3801,9 +3830,9 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
   - **Out of scope:** reputation, scale, endorsement, or history treated as demonstrated reliability without continuous behavioral revalidation in the claimed scope.
 <a id="trustworthiness-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Oversight measurement family — **Flourishing** constituent measure for this term.
+  - **Primary measure:** [Oversight measurement family](core_05apex_oversight_leg.md#oversight-measurement-family) — *Can sentients see, verify, and rely on what systems represent?*
 
-    **Primary assessment:** Assess trustworthiness through the joint evidentiary requirements below where material — current, observable, verifiable behavior, not assertion, reputation, or prior performance alone:
+    **Primary assessment:** Ask whether the system is trustworthy under the joint evidence requirements below where they matter. Judge by current behavior that can be observed and verified — not by claims, reputation, or past performance alone:
     - evidentiary basis and temporal consistency;
     - psychological safety and substantive agency;
     - modeling, methodology, and [Contestability](core_05defs_accountability.md#contestability);
@@ -3846,7 +3875,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Oversight measurement family (*Trustworthiness as constitutional measurement*); Principles: [§10 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline).
-- Read with: [Trust](core_05defs_continuity.md#trust), [Trustworthiness](core_05defs_continuity.md#trustworthiness), [Transparency](core_05defs_oversight.md#transparency), [Epistemic Integrity](core_05defs_oversight.md#epistemic-integrity), [Contestability](core_05defs_accountability.md#contestability), and [Redress and Remediation](core_05defs_accountability.md#redress-and-remediation-constitutional).
+- Read with: [Trust](core_05defs_continuity.md#trust), [Trustworthiness](core_05defs_continuity.md#trustworthiness), [Transparency](core_05defs_oversight.md#transparency), [Auditability](core_05defs_oversight.md#auditability), [Accountability](core_05apex_accountability_leg.md#accountability), [Epistemic Integrity](core_05defs_oversight.md#epistemic-integrity), [Contestability](core_05defs_accountability.md#contestability), and [Redress and Remediation](core_05defs_accountability.md#redress-and-remediation-constitutional).
 
 </details>
 
@@ -3860,9 +3889,16 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - intent;
     - limits;
     - [Dependency](core_05defs_continuity.md#dependency);
-    - **Axis I** contribution inputs (read with violation nature and standing where material); or
+    - [standing](core_05defs_accountability.md#participant-standing-constitutional); or
     - cross-implementation assurance.
-  - **In scope — included contexts:** subscription, billing, classification, compliance, named pathway, stewardship, and adjudication-support contexts where trust degradation is reasonably detectable, or where prevention of misleading reliance is required.
+  - **In scope — included contexts:** contexts where trust degradation is reasonably detectable, or where prevention of misleading reliance is required, including:
+    - subscription;
+    - billing;
+    - system, standing, or risk classification that others rely on;
+    - compliance claims, certifications, or attestations;
+    - named pathways that gate access, privilege, or eligibility;
+    - stewardship claims and published stewardship posture; and
+    - adjudication-support systems or records that shape reliance on outcomes.
   - **In scope — observable pattern families used to detect trust erosion:**
     - misrepresentation of capability, risk, or intent;
     - inconsistency between behavior and disclosed function;
@@ -3875,23 +3911,57 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - fair marketing that does not misrepresent capability, risk, intent, limits, or dependency for material reliance.
 <a id="trust-degradation-and-misleading-reliance-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Oversight measurement family — supporting measure.
+  - **Primary measure:** [Oversight measurement family](core_05apex_oversight_leg.md#oversight-measurement-family) — *Can sentients see, verify, and rely on what systems represent?*
 
-    **Primary assessment:** Confirm admission scope is materially present before applying joint-satisfaction discipline. Then evaluate through the following integrated requirements:
-    - **Representation-behavior consistency:** integrate [Observability](core_05defs_oversight.md#observability)-grounded representation-behavior consistency;
-    - **Omission and contextual completeness:** integrate material omission and contextual completeness for informed decisions;
-    - **Verification, challenge, dependency, and exit:** integrate practical [Verifiability](core_05defs_oversight.md#verifiability) and [Contestability](core_05defs_accountability.md#contestability) pathways together with [Dependency](core_05defs_continuity.md#dependency) and exit conditions under [Systemic Lock-In](core_05defs_continuity.md#systemic-lock-in);
-    - **Cumulative reliance-affecting harms and inaccuracies:** integrate cumulative or unresolved harms or inaccuracies that affect reliance;
-    - **Detection, attribution, and correction:** support detection of degradation, attribution of causes, and proportionate correction aligned with root causes and [Redress and Remediation](core_05defs_accountability.md#redress-and-remediation-constitutional) where systems are assessed under adopted implementation requirements on trust and reliability;
-    - **Observability, independent verification, and stressed-condition effectiveness:** supporting capabilities must be [Observability](core_05defs_oversight.md#observability)-grounded, independently [Verifiable](core_05defs_oversight.md#verifiability), and effective under normal, degraded, and adversarial conditions;
-    - **Proportional intensity scaling:** [Proportional](core_05defs_accountability.md#proportionality) intensity must scale with [Material Impact](core_05defs_oversight.md#material-impact), stakeholder [Dependency](core_05defs_continuity.md#dependency), [Irreversible Harm](core_05defs_accountability.md#irreversible-harm) risk from failure, and reliance on system outputs for decision-making; and
-    - **Trust-erosion pattern mapping:** map each materially present pattern through [Epistemic Integrity](core_05defs_oversight.md#epistemic-integrity), [Truth (Constitutional Constraint)](core_05defs_oversight.md#truth-constitutional-constraint), [Transparency](core_05defs_oversight.md#transparency), [Trustworthiness](core_05defs_continuity.md#trustworthiness), [Contestability](core_05defs_accountability.md#contestability), [Auditability](core_05defs_oversight.md#auditability), [Verifiability](core_05defs_oversight.md#verifiability), [Verification Accessibility](#verification-accessibility), [Dependency](core_05defs_continuity.md#dependency), [Systemic Lock-In](core_05defs_continuity.md#systemic-lock-in), [Coercion and Manipulation](core_05defs_participation.md#coercion-and-manipulation-constitutional), and applicable adopted implementation expectations on trust and verification.
+    **Primary assessment:** First confirm this entry actually applies — material reliance is at stake under the scope above. Then evaluate under these requirements together:
+    - **Representation-behavior consistency:** check that what the system says matches what it actually does, using [Observability](core_05defs_oversight.md#observability) evidence — not claims alone.
+    - **Omission and contextual completeness:** check whether people get what they need to decide wisely, including:
+      - material facts left out; and
+      - enough surrounding context to understand what is being relied on.
+    - **Verification, challenge, dependency, and exit:** integrate:
+      - practical [Verifiability](core_05defs_oversight.md#verifiability);
+      - practical [Contestability](core_05defs_accountability.md#contestability);
+      - [Dependency](core_05defs_continuity.md#dependency) conditions; and
+      - exit conditions under [Systemic Lock-In](core_05defs_continuity.md#systemic-lock-in).
+    - **Ongoing misalignment:** harms or inaccuracies that pile up or stay unresolved and change whether continued reliance is justified.
+    - **Attribution and correction:** support:
+      - attribution of causes along an [Accountability](core_05apex_accountability_leg.md#accountability) answerability chain; and
+      - proportionate correction aligned with root causes and [Redress and Remediation](core_05defs_accountability.md#redress-and-remediation-constitutional) where systems are assessed under adopted implementation requirements on trust and reliability.
+    - **Observability, independent verification, and stressed-condition effectiveness:** supporting capabilities must be:
+      - [Observability](core_05defs_oversight.md#observability)-grounded;
+      - independently [Verifiable](core_05defs_oversight.md#verifiability); and
+      - effective under normal, degraded, and adversarial conditions.
+    - **Proportional intensity scaling:** [Proportional](core_05defs_accountability.md#proportionality) intensity must scale with:
+      - [Material Impact](core_05defs_oversight.md#material-impact);
+      - stakeholder [Dependency](core_05defs_continuity.md#dependency);
+      - [Irreversible Harm](core_05defs_accountability.md#irreversible-harm) risk from failure; and
+      - reliance on system outputs for decision-making.
+    - **Trust-erosion pattern mapping:** map each materially present pattern through:
+      - [Epistemic Integrity](core_05defs_oversight.md#epistemic-integrity);
+      - [Truth (Constitutional Constraint)](core_05defs_oversight.md#truth-constitutional-constraint);
+      - [Transparency](core_05defs_oversight.md#transparency);
+      - [Trustworthiness](core_05defs_continuity.md#trustworthiness);
+      - [Contestability](core_05defs_accountability.md#contestability);
+      - [Auditability](core_05defs_oversight.md#auditability);
+      - [Verifiability](core_05defs_oversight.md#verifiability);
+      - [Verification Accessibility](#verification-accessibility);
+      - [Dependency](core_05defs_continuity.md#dependency);
+      - [Systemic Lock-In](core_05defs_continuity.md#systemic-lock-in);
+      - [Coercion and Manipulation](core_05defs_participation.md#coercion-and-manipulation-constitutional); and
+      - applicable adopted implementation expectations on trust and verification.
+  - **Secondary measure:** [Auditability](core_05defs_oversight.md#auditability) and [Accountability](core_05apex_accountability_leg.md#accountability) — co-measures for reconstructable records and an attributable answerability chain when trust degrades.
+
+    **Secondary assessment:** When evaluating the primary trace, ask whether degradation can be:
+    - reconstructed under [Auditability](core_05defs_oversight.md#auditability); and
+    - attributed to identifiable actors, roles, or system components under [Accountability](core_05apex_accountability_leg.md#accountability) —
+
+    not only detected as a pattern.
 <a id="trust-degradation-and-misleading-reliance-c"></a>
 - **What must hold**
   - **Primary failure:**
     - cherry-picking one member definition to bypass another within admission scope ([Chapter Five joint invocation and satisfaction](core_05_definitions_home.md#joint-invocation-and-satisfaction); Chapter Three §§1–2); and
     - isolated formal compliance with disclosure or audit artifacts that defeats substantively informed understanding, independent verification, or effective challenge.
-  - **Secondary failure:** cross-implementation signals appearing conforming while material obligations that jointly sustain a trust claim remain unmet for the same structural outcome (read `corpus_joint_structure.md` CJS-3.2 (*No false partial compliance across implementation files*) and CJS-4.3 (*Cross-implementation trust integrity (joint operation model)*)).
+  - **Secondary failure:** looking compliant in one implementation file while related duties that the same trust claim depends on remain unmet in another — see [CJS-3.2](corpus_joint_structure/cjs_03_joint_structural_obligations.md#cjs-32-no-false-partial-compliance-across-implementation-files) (*No false partial compliance across implementation files*) and [CJS-4.3](corpus_joint_structure/cjs_04_specific_joint_interlocks.md#cjs-43-cross-implementation-trust-integrity-joint-operation-model) (*Cross-implementation trust integrity*).
   - **Tertiary failure:**
     - treating trust-erosion patterns as non-material where Materiality-family definitions require treating them as material; and
     - splitting evaluation so no member definition captures the full functional wrong.
