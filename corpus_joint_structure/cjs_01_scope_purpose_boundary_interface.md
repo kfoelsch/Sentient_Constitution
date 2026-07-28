@@ -2,9 +2,9 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05_definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
+- Upstream: [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05_definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [CJS-2.1](cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router.
 - Downstream: [CJS-1.1: Joint structural boundary and owner discipline](#cjs-11-joint-structural-boundary-and-owner-discipline); [CJS-1.2: Shared implementation-corpus preamble contract](#cjs-12-shared-implementation-corpus-preamble-contract); [CJS-1.3: Section identifiers and article references](#cjs-13-section-identifiers-and-article-references).
-- Read with: **CJS-1**; **CJS-1.1**; [CJS-2.1](cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids); **CJS-2**; **CJS-3**.
+- Read with: **CJS-1**; **CJS-1.1**; **CJS-1.2**; [CJS-2.1](cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids); **CJS-2**; **CJS-3**.
 
 </details>
 
@@ -23,19 +23,36 @@
 
 <br>
 
-*In plain terms: this file states what the joint-structure layer owns, how it fits among **CS**, **CI**, and **CF**, and where to find the shared contract other implementation files cite. Start at **CJS-1.1**; continue to **CJS-2.1** for routing. For the layer map and section registry, read **CJS-0** in [cjs_00_registry_and_reading_rules.md](cjs_00_registry_and_reading_rules.md).*
+*In plain terms: **CJS** is the joint-structure rulebook — rules that apply when two or more of **CJS**, **CS**, **CI**, and **CF** must be satisfied together.*
 
-**Quick orientation**
+**What this layer owns**
 
-For the four implementation layers (**CJS**, **CS**, **CI**, **CF**) and cross-file routing entry points, read **CJS-0** in [cjs_00_registry_and_reading_rules.md](cjs_00_registry_and_reading_rules.md).
+- joint structural expectations and integration interfaces that apply when two or more implementation layers materially interact;
+- the shared implementation-corpus contract other layers cite (**CJS-1.2**);
+- section-identifier and parse-mechanics rules for this corpus (**CJS-1.3** through **CJS-1.5**);
+- reusable joint operational definitions (**CJS-5**);
+- cross-implementation topic routing and joint obligations (**CJS-2**, **CJS-3**, **CJS-4**).
 
-**CJS-1.1** states scope, boundary, owner discipline, and the distinction between constitutional definitions and joint operational definitions. **CJS-1.2** states the shared implementation-corpus contract cited across **CS**, **CI**, and **CF**. **CJS-1.3** through **CJS-1.5** supply identifier and parse-mechanics rules for editors, auditors, and **CJS-5** cluster readers.
+**What this layer does not own**
+
+- constitutional term meaning and O/M/A/C definition mechanics — those remain in the Sentient Constitution (Chapters Two through Five);
+- Rights Floors — those remain in Chapter Six;
+- system-class and steward taxonomies — those belong to **CS**;
+- institutional formation, authorization, oversight, correction, and dissolution — those belong to **CI**;
+- forum-family operational doctrine under Chapter Eleven — those belong to **CF**.
+
+**Read next**
+
+- Boundary detail and reading stack: **CJS-1.1** below.
+- Shared contract: **CJS-1.2** below.
+- Topic routing: [cjs_02_implementation_integration_map.md](cjs_02_implementation_integration_map.md) (**CJS-2.1**).
+- Layer map and section registry: [cjs_00_registry_and_reading_rules.md](cjs_00_registry_and_reading_rules.md).
 
 ### CJS-1.1: Joint structural boundary and owner discipline
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05_definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
+- Upstream: [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05_definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [CJS-2.1](cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router.
 - Downstream: this section's local operational requirements for **CJS-1.1: Joint structural boundary and owner discipline**.
 - Read with: **CJS-1.1**; [CJS-2.1](cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids); **CJS-3**; **CJS-5**; **CJS-1.2**.
 
@@ -54,24 +71,18 @@ For the four implementation layers (**CJS**, **CS**, **CI**, **CF**) and cross-f
 
 <br>
 
-The CJS folder is the **operative home** for **joint** structural expectations. These are rules and integration interfaces that apply when **two or more** of CJS, CS, CI, and CF must be satisfied **together**. The goal is for institutions, forums, and classified systems to read as **one coherent implementation stack** when they materially interact.
+*In plain terms: when several implementation layers touch the same facts, read them in a fixed order — and keep constitutional definitions distinct from joint operational ones.*
 
-When multiple implementation layers apply to the same facts, use this default reading stack: **CJS** joint rules first (**CJS-2.1** and **CJS-3**), then **CS** for system classification and stewardship scale, **CI** for institutional governance and assurance, and **CF** for **Chapter Eleven** forum-family doctrine. Within that stack, read only what **CJS-2.1** (*Topic router (stable IDs)*) routes for the topic.
+**Default reading stack.** When multiple implementation layers apply to the same facts, use this order: **CJS** joint rules first (**CJS-2.1** and **CJS-3**), then **CS** for system classification and stewardship scale, **CI** for institutional governance and assurance, and **CF** for Chapter Eleven forum-family doctrine. Within that stack, read only what **CJS-2.1** (*Topic router (stable IDs)*) routes for the topic.
 
-**Constitutional definitions** and **joint operational definitions** are distinct. **Constitutional definitions** are the canonical homes for constitutional term meaning, scope, and satisfaction conditions in **Chapter Five**, read with Chapters Two through Four for O/M/A/C mechanics. CJS must implement those terms and must not create parallel constitutional definitions, competing glosses, or weaker restatements.
+**Constitutional definitions vs joint operational definitions.**
 
-**Joint operational definitions** are cross-implementation terms that exist because two or more of CJS, CS, CI, and CF must be read together on the same facts. They govern routing, interlock, overlap handling, shared-fact evaluation, stricter-wins handling, or combined implementation satisfaction. CJS may own them here; they are operational and integrative, not constitutional definitions. Place reusable joint operational definitions in **CJS-5**; use **CJS-2.1** and **CJS-3** for read-with coordination and joint obligations without replacing routed owner sections or constitutional definitions. Non-redefinition discipline appears in **CJS-1.2**; OP-cluster parse rules appear in **CJS-1.4** and **CJS-1.5**. The full protocol is in `doc_architecture.md` section 4.
+- **Constitutional definitions** are the canonical homes for constitutional term meaning, scope, and satisfaction conditions in **Chapter Five**, read with Chapters Two through Four for O/M/A/C mechanics. CJS must implement those terms and must not create parallel constitutional definitions, competing glosses, or weaker restatements.
+- **Joint operational definitions** are cross-implementation terms that exist because two or more of **CJS**, **CS**, **CI**, and **CF** must be read together on the same facts. They govern routing, interlock, overlap handling, shared-fact evaluation, stricter-wins handling, or combined implementation satisfaction. They are operational and integrative, not constitutional definitions. Place reusable joint operational definitions in **CJS-5**; use **CJS-2.1** and **CJS-3** for read-with coordination and joint obligations without replacing routed owner sections or constitutional definitions. Non-redefinition discipline appears in **CJS-1.2**; OP-cluster parse rules appear in **CJS-1.4** and **CJS-1.5**. The full protocol is in `doc_architecture.md` section 4.
 
-The CJS folder is **not** the routed owner for:
-- system-class and steward taxonomies, which belong to **CS**,
-- general institutional lifecycle and fiscal architecture, which belong to **CI**,
-- forum-family operational doctrine, which belongs to **CF**.
+**CJS-5 citation effect.** When an owner file cites a **CJS-5** joint operational definition, that citation may also apply the term within a standalone system, institution, forum, or bounded decision domain inside the cited scope. That citation does not make CJS the routed owner for system, institutional, or forum doctrine; it applies the joint operational definition and stricter joint-interface treatment where more than one implementation layer materially applies.
 
-Reusable **joint operational definitions** live in **CJS-5** (*Implementation and cross-implementation operational cluster library*) cluster files under the **Cross-domain implementation layer**. **CJS-2.1** (*Topic router (stable IDs)*) and **CJS-3** (*Joint structural obligations (cross-domain requirements)*) state joint read-with routing and cross-domain obligations; they do not replace **CJS-5** joint operational definitions or operative rules in routed owner sections.
-
-When an owner file cites a **CJS-5** joint operational definition, that citation may also apply the term within a standalone system, institution, forum, or bounded decision domain inside the cited scope. That citation does not make CJS the routed owner for system, institutional, or forum doctrine; it applies the joint operational definition and stricter joint-interface treatment where more than one implementation layer materially applies.
-
-Under the authority-stack rules named in **CJS-1.2** (*Shared implementation-corpus preamble contract*), the CJS folder sits in the **binding incorporated implementation** band. It must **implement, not narrow**, Sentient Constitution meaning.
+**Authority band.** Under the authority-stack rules named in **CJS-1.2** (*Shared implementation-corpus preamble contract*), the CJS folder sits in the **binding incorporated implementation** band. It must **implement, not narrow**, Sentient Constitution meaning.
 
 ### CJS-1.2: Shared implementation-corpus preamble contract
 <details>

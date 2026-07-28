@@ -2,9 +2,9 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Eleven](../core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) forum-family routing; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05_definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
+- Upstream: [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-joint-structural-boundary-and-owner-discipline) joint structural boundary and owner discipline; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Eleven](../core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) forum-family routing; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05_definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: this section's local operational requirements for **CF-1: Scope, authority, and boundary rules**.
-- Read with: **CF-1**; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; **CJS-5**; **CJS-2**; **CJS-3**.
+- Read with: **CF-1**; **CF-2**; [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-joint-structural-boundary-and-owner-discipline); [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids); **CJS-5**.
 
 </details>
 
@@ -21,24 +21,38 @@
 
 <br>
 
+*In plain terms: **CF** is the forums operations rulebook — how panels form, cases route, appeals work, and hearings stay independent under stress.*
 
-**Constitutional index (abridged)**
-- Topic-level routing and cited authorities remain in subsection text and cross-references.
-- Canonical owner map: `corpus_joint_structure.md` **CJS-2.1** (*Topic router (stable IDs)*) and `doc_architecture.md` section 4.
+**What this layer owns**
 
-This file governs how constitutional forum families are constituted, supported, monitored, kept independent, and kept operable under stress.
+- forum formation, chamber structure, panel formation, disclosure, and recusal (**CF-3**, **CF-4**);
+- routing, transfer, certification, appeal, and exhaustion operations (**CF-5**, **CF-6**);
+- integrity, anti-capture, and anti-self-judging support (**CF-7**);
+- forensic support, investigative interfaces, and specialist chambers (**CF-8** through **CF-10**);
+- performance, continuity, fallback, emergency adjudication, records, and staffing (**CF-11** through **CF-16**).
 
-**Core / implementation boundary for forums:**
-- `core_11-11_forum.md` **Chapter Eleven** owns which forum family decides which primary question and why.
-- `corpus_forum.md` owns how forums are operationally constituted, reviewed, supported, measured, and kept independent in practice.
+**What this layer does not own**
 
-This file must not:
-- collapse distinct forum families into one another;
+- which forum family decides which primary question, and why — that remains in Chapter Eleven;
+- constitutional term meaning and O/M/A/C definition mechanics — those remain in the Sentient Constitution (Chapters Two through Five);
+- joint operational definitions, and joint cross-layer interfaces — those belong to **CJS** (reusable joint operational definitions in **CJS-5**);
+- Rights Floors — those remain in Chapter Six;
+- system-class and steward taxonomies — those belong to **CS**;
+- institutional formation, authorization, oversight, correction, and dissolution — those belong to **CI**.
+
+This layer must **not**:
+
+- create new forum families beyond those authorized in Chapter Eleven;
 - silently expand constitutional-forum jurisdiction beyond Chapter Eleven;
 - replace general constitutional due-process, traceability, or rights rules with weaker local procedure;
 - create a parallel offense taxonomy.
 
-**Joint implementation read:** for cross-implementation structural integration (institutions, systems, and CJS-5 (*Implementation and cross-implementation operational cluster library*) operational clusters that materially support or bound forums), **`corpus_joint_structure.md` CJS-2** (especially **CJS-2.1** (*Topic router (stable IDs)*)) and **CJS-3** (*Joint structural obligations (cross-domain requirements)*).
+**Read next**
+
+- Routing: [cf_02_implementation_integration_map.md](cf_02_implementation_integration_map.md) (**CF-2**).
+- Label map and section registry: [cf_00_registry_and_reading_rules.md](cf_00_registry_and_reading_rules.md).
+- Shared contract and joint reading order: **CJS-1.1** and **CJS-1.2** in [cjs_01_scope_purpose_boundary_interface.md](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md).
+- Constitutional forum owner: [core_11-11_forum.md](../core_11-11_forum.md) (**Chapter Eleven**).
 
 ---
 

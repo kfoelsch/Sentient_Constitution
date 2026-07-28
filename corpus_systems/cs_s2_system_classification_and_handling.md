@@ -144,10 +144,23 @@ Loss of continuity yields immediate or near-immediate loss of survival condition
 - **Manufacturing and industrial systems** — industrial production, fabrication, assembly, process safety, and industrial control environments;
 - **Medicine and public health** — clinical care, laboratories, trials, drugs, devices, epidemiology, and public-health administration;
 - **Information, computation, and communications** — software, AI, networks, platforms, telecom, info-sphere infrastructure, media-distribution, and coordination infrastructure;
-- **Finance and insurance** — banking, payments, clearing, credit, underwriting, risk transfer, and market infrastructure;
-- **Education and knowledge institutions** — schools, universities, credentialing, libraries, archives, textbooks, and research institutions.
+- **Finance and insurance** — banking, payments, clearing, credit, underwriting, risk transfer, market infrastructure, and contingent-claim / event-contract markets;
+- **Education and knowledge institutions** — schools, universities, credentialing, libraries, archives, textbooks, and research institutions;
+- **Personal-service platforms and intermediaries** — systems that match, dispatch, schedule, settle payment for, or reputation-score in-person personal services, including high-vulnerability and **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) contexts.
 
 Additional domains may be published where local economies, ecosystems, or dependency structure make them constitutionally material. Domain labels must not be used to under-classify a system whose actual impact, dependency, or risk is higher than the usual pattern for that domain.
+
+**Classification examples (ordinary application):** Markets, payment rails, matchers, ranking engines, and other intermediaries stay inside this section when people depend on them, when they coordinate others at scale, or when they shape what information people see and trust. Two recurring applications:
+
+- **Market-mediated personal services**
+  - Systems that match, dispatch, schedule, settle payment for, or reputation-score **in-person** personal services are presumptively material for dependency, safety, coercion risk, and fairness analysis when impact thresholds are approached — especially where intimacy, bodily contact, private-space or in-home access, or isolated work is involved.
+  - They must not evade [**Article X-C**](../core_06-06_rights_part_b.md#article-x-c-adult-consensual-commercial-sexual-services-and-sexual-exploitation) (*Adult consensual commercial sexual services and sexual exploitation*) through technical exclusion, de-banking, or opaque ranking.
+  - Rights Floor: Chapter Six. Institutional interface: [**CI-19**](../corpus_institutions/ci_19_vulnerable_personal_services_markets_article_xc_interface.md). Stewardship scale: **CS-5 — Critical system stewardship**.
+- **Contingent claims and event markets**
+  - Systems that match counterparties, pool stakes, or settle payments contingent on external events are presumptively material for incentive, capture, manipulation, and stability analysis.
+  - Constitutional direction: [Chapter One §11.5](../core_01_c_stewardship_capacity_principles.md#115-contingent-claims-games-of-chance-and-event-contract-markets). Stewardship scale: **CS-5 — Critical system stewardship**.
+  - Settlement prices or odds are not, by themselves, enough to decide epistemic questions under [**Article XIV**](../core_06-06_rights_part_c.md#article-xiv-info-sphere-integrity) (*Info-Sphere Integrity*) and [**Article XV-A**](../core_06-06_rights_part_c.md#article-xv-a-auditability-and-observable-evidence) (*Auditability and Observable Evidence*).
+  - This layer does not set licensing, criminal, or tax rules for gambling.
 
 **System boundaries:** Define from **actual impact and dependency**, not formal ownership, jurisdiction, or operational scope alone.
 

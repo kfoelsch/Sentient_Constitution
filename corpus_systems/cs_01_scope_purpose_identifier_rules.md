@@ -2,23 +2,50 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05_definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
+- Upstream: [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-joint-structural-boundary-and-owner-discipline) joint structural boundary and owner discipline; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05_definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: this section's local operational requirements for **CS-1: Scope, purpose, and boundary interface**.
-- Read with: **CS-1**; **CS-2**; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids); **CJS-5**; **CS-4 — System classification and handling**; **CS-5 — Critical system stewardship**.
+- Read with: **CS-1**; **CS-2**; [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-joint-structural-boundary-and-owner-discipline); [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids); **CS-3 — Information types and handling**; **CS-4 — System classification and handling**; **CS-5 — Critical system stewardship**.
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+
+- [Authority Stack and Internal Hierarchy](../core_05defs_integrative.md#authority-stack) · [O](../core_05defs_integrative.md#authority-stack) · [A](../core_05defs_integrative.md#authority-stack-a) · [C](../core_05defs_integrative.md#authority-stack-c)
+- [Classification-Scaled Governance](../core_05defs_oversight.md#classification-scaled-governance) · [O](../core_05defs_oversight.md#classification-scaled-governance) · [A](../core_05defs_oversight.md#classification-scaled-governance-a) · [C](../core_05defs_oversight.md#classification-scaled-governance-c)
+- [Corpus](../core_05defs_integrative.md#corpus) · [O](../core_05defs_integrative.md#corpus) · [A](../core_05defs_integrative.md#corpus-a) · [C](../core_05defs_integrative.md#corpus-c)
+- [Dependency](../core_05defs_continuity.md#dependency) · [O](../core_05defs_continuity.md#dependency) · [A](../core_05defs_continuity.md#dependency-a) · [C](../core_05defs_continuity.md#dependency-c)
+- [Governance](../core_05defs_accountability.md#governance) · [O](../core_05defs_accountability.md#governance) · [A](../core_05defs_accountability.md#governance-a) · [C](../core_05defs_accountability.md#governance-c)
+- [Materiality Determination](../core_05defs_oversight.md#materiality-determination) · [O](../core_05defs_oversight.md#materiality-determination) · [A](../core_05defs_oversight.md#materiality-determination-a) · [C](../core_05defs_oversight.md#materiality-determination-c)
+- [Sentient](../core_05defs_participation.md#sentient-composite) · [O](../core_05defs_participation.md#sentient-composite) · [A](../core_05defs_participation.md#sentient-composite-a) · [C](../core_05defs_integrative.md#sentient-composite-c)
+- [System](../core_05defs_continuity.md#system-definition) · [O](../core_05defs_continuity.md#system-definition) · [A](../core_05defs_continuity.md#system-definition-a) · [C](../core_05defs_continuity.md#system-definition-c)
 
 </details>
 
 <br>
 
-*In plain terms: this file states what the systems layer owns and what stays in the Sentient Constitution, **CI**, **CF**, and **CJS**. Reader start: [corpus_systems.md](../corpus_systems.md). Label map and section registry: [cs_00_registry_and_reading_rules.md](cs_00_registry_and_reading_rules.md). Continue to **CS-2** (*Implementation integration map*) for routing.*
+*In plain terms: **CS** is the systems-and-data rulebook — typing, classification, stewardship tiers, and the named engineering protocols.*
 
-Apply [corpus_joint_structure.md](../corpus_joint_structure.md) **CJS-1.1** (*Joint structural boundary and owner discipline*), **CJS-1.2** (*Shared implementation-corpus preamble contract*), **CJS-2.1** (*Topic router (stable IDs)*), and **CJS-3.6** (*Implementation-label traceability and stricter-wins discipline*) for shared implementation-corpus reading, routing, and owner discipline. **CS** is the canonical home for system and data typing, classification, stewardship, and protocol-level engineering rules.
+**What this layer owns**
 
-Market infrastructure and intermediaries with material dependency, coordination, or info-sphere effects remain in scope under **CS-4/CS-5**. They remain subject to applicable Chapter Five definitions, **CJS-5** (*Implementation and cross-implementation operational cluster library*) operational clusters, and protocol controls.
+- information typing and handling (**CS-3 — Information types and handling**);
+- system classification and dependency typing (**CS-4 — System classification and handling**);
+- critical system stewardship tiers (**CS-5 — Critical system stewardship**);
+- named protocols for design and verification, comprehensibility, justice safeguards, sustainability, funding, transition, subversion response, and partition resilience (**Protocol A** through **Protocol T**, **Protocol R**, and **Protocol D**).
 
-**Market-mediated personal services (**Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) implementation interface):** Systems that **match**, **dispatch**, **schedule**, **settle payment for**, or **reputation-score** **in-person** personal services are **presumptively material** for **dependency**, **safety**, **coercion risk**, and **fairness** analysis when impact thresholds are approached. This is especially true where **intimacy**, **bodily contact**, **private-space or in-home access**, or **isolated work** is involved. They must be evaluated under **CS-4 — System classification and handling** classification and **CS-5 — Critical system stewardship** stewardship together with **Chapter Five** (*Coercion and Manipulation* and *Consent*) and **Chapter Six**, **Article X-A** (*Non-Imposition and Consent in Association*). They must **not** be structured to evade **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*)'s **decriminalization** or **nondiscrimination** floors through **technical** exclusion, **de-banking**, or **opaque** ranking. Institutional expectations appear in **`corpus_institutions.md`** **CI-15** (*Vulnerable personal services markets — general regulation and **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) interface*).
+**What this layer does not own**
 
-**Contingent claims and event markets:** Systems that match counterparties, pool stakes, or settle payments contingent on external events (**Chapter Five** — [*Contingent Claim*](../core_05defs_accountability.md#contingent-claim), [*Event-Contract Market*](../core_05defs_accountability.md#event-contract-market); [*Game of Chance*](../core_05defs_accountability.md#game-of-chance) forms) are presumptively material for incentive, capture, manipulation, and stability analysis. They must be evaluated under **Sentient Constitution Chapter One**, section **§12.2.2** and scaled under **CS-4 — System classification and handling** classification and **CS-5 — Critical system stewardship** stewardship where impact thresholds are met. Operators must document resolution authority, dependencies on outcome-resolution sources, privileged-information pathways, conflict separation between market-making and resolution roles where relevant (**Chapter Five** — [*Capture of Resolution Pathways*](../core_05defs_accountability.md#capture-of-resolution-pathways)), and plausible misuse scenarios including coordination to affect outcomes. This implementation file does not specify licensing, criminal offenses, or tax rules for gambling; adopting law remains primary for those bases. **Article XIV** (*Info-Sphere Integrity*) and **Article XV-A** (*Auditability and Observable Evidence*) where auditability or observable evidence is implicated limit treating settlement prices or odds as authority enough by themselves to decide epistemic questions.
+- constitutional term meaning and O/M/A/C definition mechanics — those remain in the Sentient Constitution (Chapters Two through Five);
+- joint operational definitions, and joint cross-layer interfaces that apply when two or more of **CJS**, **CS**, **CI**, and **CF** must be satisfied together — those belong to **CJS** (reusable joint operational definitions in **CJS-5**);
+- Rights Floors — those remain in Chapter Six;
+- institutional formation, authorization, oversight, correction, and dissolution — those belong to **CI**;
+- forum-family operational doctrine under Chapter Eleven — those belong to **CF**.
+
+**Read next**
+
+- Routing: [cs_02_implementation_integration_map.md](cs_02_implementation_integration_map.md) (**CS-2**).
+- Label map and section registry: [cs_00_registry_and_reading_rules.md](cs_00_registry_and_reading_rules.md).
+- Shared contract and joint reading order: **CJS-1.1** and **CJS-1.2** in [cjs_01_scope_purpose_boundary_interface.md](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md).
 
 ---
 

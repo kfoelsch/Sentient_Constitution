@@ -51,7 +51,7 @@
 
 - Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-section-identifiers-and-article-references) section identifiers; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05_definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: [Institutions registry (stable section families)](#institutions-registry-stable-section-families).
-- Read with: **CI-1**; **CI-1.2**; **CJS-1.3**.
+- Read with: **CI-1**; **CJS-1.3**.
 
 </details>
 

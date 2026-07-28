@@ -96,6 +96,7 @@ Keep constitutional concept + O/M/A/C boundary only; cite owner homes for instit
 | NAV-DAC-CH1-ORDER | Chapter One D/A/C row order | `make ch1-dac-order-audit` |
 | NAV-PLACEMENT-01 | File-top Corpus placement widget | `make file-top-placement-audit` |
 | NAV-IMPL-LANDING-01 | Implementation-corpus wrapper landing page | Manual (see **section 4**) |
+| NAV-IMPL-SCOPE-01 | Implementation `*-1` scope/boundary page format | Manual (see **section 4**) |
 | OWNER-OPENING-01 | Binding constitutional-owner opening statement | Manual (see **section 4**) |
 | LINK-IN-PARA-14 | Load-bearing in-paragraph links | `make in-paragraph-link-audit` |
 | CH5-GRAVITY | Chapter Five admission / de-bundling | `make ch5-definitions-gravity-audit` |
@@ -389,6 +390,42 @@ Each `*_00_registry_and_reading_rules.md` is a **registry annex** (identifier ru
 **Do not** leave compatibility notes, authority boilerplate, edition stamps, or the full family index visible above the orientation stack. **Do not** treat `*_00` as the default next hop from the wrapper.
 
 **Single sources:** global edition and reading order in [README.md](README.md); implementation shared contract in **CJS-1.2**; section-family registries remain in `*_00` annex files; human landings remain the four wrappers under this rule.
+
+### Implementation scope/boundary pages (NAV-IMPL-SCOPE-01)
+
+Each layer’s first substantive file (`cjs_01_*`, `cs_01_*`, `ci_01_*`, `cf_01_*`) is the **scope and boundary** page: what that layer owns, what it does not, and where to continue. Default sequential reading is **wrapper → `*-1` → later family files**.
+
+**Visible stack (in this order):**
+
+1. `## XX-1: Scope, purpose, and boundary interface` (or the layer’s established `*-1` title).
+2. Collapsed **Trace**, then collapsed **Definitions · Assessment · Compliance**.
+3. One-line `*In plain terms:*` — what this layer is for.
+4. **What this layer owns** — bullets naming the layer’s operative homes.
+5. **What this layer does not own** — bullets naming the correct home after an em dash (core chapters, sibling layers, or **CJS** as applicable).
+6. **Read next** — short pointers to the next substantive file, the `*_00` registry annex if needed, and any CJS-owned shared contract / reading-order homes.
+
+**Subsections under `*-1`:**
+
+- Add `### XX-1.n` only for **layer-unique** elaboration that does not belong in the owns / does-not-own lists.
+- **CJS-only** substance that other layers must cite — shared contract (**CJS-1.2**), identifiers (**CJS-1.3**), parse mechanics (**CJS-1.4** / **CJS-1.5**), default reading stack, and the constitutional-vs-joint-operational-definition distinction — lives in **CJS-1** (and its subsections). **CS** / **CI** / **CF** point to those homes; they do not restate them.
+- Do **not** restate owns / does-not-own lists inside a `*-1.1` subsection when the file-level lists already state them.
+
+**Placement rules:**
+
+| Content | Home |
+|---|---|
+| What the layer owns / does not own | File-level lists on that layer’s `*-1` |
+| Default cross-layer reading stack | **CJS-1.1** only |
+| Constitutional vs joint operational definitions | **CJS-1.1** only (other layers may keep one short pointer bullet) |
+| Shared implementation-corpus contract | **CJS-1.2** only |
+| Identifier / label rules | **CJS-1.3** + each layer’s `*_00` registry annex |
+| Specialty classification examples | Owner taxonomy file (for example **CS-4**), not the `*-1` boundary page |
+
+**Trace Upstream** for `*-1` boundary pages should cite the joint boundary home (**CJS-1.1**) or the relevant core chapter — not **CJS-1.2** unless the subsection is itself the shared-contract owner.
+
+**Do not** keep a second **Quick orientation** that restates owns / does-not-own or reprints apply-CJS boilerplate already covered by **Read next** and **CJS-1.2**.
+
+**Reference shapes:** [CS-1](corpus_systems/cs_01_scope_purpose_identifier_rules.md); [CJS-1](corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md); [CI-1](corpus_institutions/ci_01_scope_purpose_legitimacy_interface.md); [CF-1](corpus_forum/cf_01_scope_authority_boundary_rules.md).
 
 ### Plain-language guardrails (summary)
 
