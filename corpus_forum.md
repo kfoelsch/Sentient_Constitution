@@ -53,7 +53,6 @@
 |---|---|
 | Registry and identifier rules | [cf_00_registry_and_reading_rules.md](corpus_forum/cf_00_registry_and_reading_rules.md) |
 | CF-1: Scope, authority, and boundary rules | [cf_01_scope_authority_boundary_rules.md](corpus_forum/cf_01_scope_authority_boundary_rules.md) |
-| CF-2: Implementation integration map | [cf_02_implementation_integration_map.md](corpus_forum/cf_02_implementation_integration_map.md) |
 | CF-3: Forum formation, forum-structure mapping, and chamber structure | [cf_03_forum_formation_tribunal_mapping_chamber_structure.md](corpus_forum/cf_03_forum_formation_tribunal_mapping_chamber_structure.md) |
 | CF-4: Panel formation, disclosure, recusal, and lawful bench constitution | [cf_04_panel_formation_disclosure_recusal_bench_constitution.md](corpus_forum/cf_04_panel_formation_disclosure_recusal_bench_constitution.md) |
 | CF-5: Routing operations, transfer, certification, and representative treatment | [cf_05_routing_operations_transfer_certification_representative_treatment.md](corpus_forum/cf_05_routing_operations_transfer_certification_representative_treatment.md) |

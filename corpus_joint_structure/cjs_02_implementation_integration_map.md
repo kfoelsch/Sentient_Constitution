@@ -11,7 +11,7 @@
 
 <br>
 
-*In plain terms: **CJS-2** names where to read when a topic crosses layers — topic routing, overlap discipline, and definition tiers. Default reading stack: **CJS-1.1**; for which section owns a cross-layer topic, use **[CJS-0.1](cjs_00_registry_and_reading_rules.md#cjs-01-cross-file-routing)** or **CJS-2.1**; **CI-2**, **CF-2**, and **CS-2** mirror this pattern at the domain layer without maintaining a competing router table.*
+*In plain terms: **CJS-2** names where to read when a topic crosses layers — topic routing, overlap discipline, and definition tiers. Default reading stack: **CJS-1.1**; for which section owns a cross-layer topic, use **[CJS-0.1](cjs_00_registry_and_reading_rules.md#cjs-01-cross-file-routing)** or **CJS-2.1**; domain-only routing for **CS**, **CI**, and **CF** lives in each layer’s registry annex (`cs_00`, `ci_00`, `cf_00`) without competing router tables.*
 
 **Quick orientation**
 
@@ -96,7 +96,7 @@ Some topics are **deliberately** split across implementation files — for examp
 - **CJS** text for the same topic adds **joint satisfaction conditions**, **read-with pointers**, and **interface requirements** only when **CJS** is not the **primary owner** for that row;
 - do **not** restate **CJS-5** (*Implementation and cross-implementation operational cluster library*) OP clusters, **CS-4/CS-5** tables, or **CF-** / **CI-** checklists except in brief **quote** or **summary pointer** form when needed for coherence.
 
-Domain-layer overlap discipline: apply **CI-2.2**, **CF-2.2**, and **CS-2.2** at the institutional, forum, and systems layers respectively. For cross-file reading guidance, use [CJS-0.1](cjs_00_registry_and_reading_rules.md#cjs-01-cross-file-routing) (*Cross-file routing*).
+Domain-layer overlap discipline: apply [Institutions overlap discipline](../corpus_institutions/ci_00_registry_and_reading_rules.md#institutions-overlap-discipline), [Forums overlap discipline](../corpus_forum/cf_00_registry_and_reading_rules.md#forums-overlap-discipline), and [Systems overlap discipline](../corpus_systems/cs_00_registry_and_reading_rules.md#systems-overlap-discipline) in the respective registry annexes. For cross-file reading guidance, use [CJS-0.1](cjs_00_registry_and_reading_rules.md#cjs-01-cross-file-routing) (*Cross-file routing*).
 
 ### CJS-2.3: Two-tier definition contract (binding abstraction + owner detail)
 <details>
@@ -145,7 +145,7 @@ When that boundary does not resolve the conflict, use this order:
 
 Do not use a broad reading of CJS to change, shrink, expand, or move a rule that belongs to a canonical owner. If the conflict is still unclear after applying this order, do not treat the broader CJS reading as controlling. Send the question to the canonical owner named in **CJS-2.1**, including the forum owner in **CF** where forum routing, forum authority, or Chapter Eleven procedure is affected, and update the CJS pointer once the owner clarifies it. For stricter-wins between two adopted implementation standards on the same risk, read **CJS-3.6** (*Implementation-label traceability and stricter-wins discipline*).
 
-Domain-layer read-with contracts: apply **CI-2.1**, **CF-2.3**, and **CS-2.3** where institutional, forum, or systems text intersects this contract.
+Domain-layer read-with contracts: apply [Institutions read-with pointers](../corpus_institutions/ci_00_registry_and_reading_rules.md#institutions-read-with-pointers), [Forums read-with pointers](../corpus_forum/cf_00_registry_and_reading_rules.md#forums-read-with-pointers), and [Systems read-with pointers](../corpus_systems/cs_00_registry_and_reading_rules.md#systems-read-with-pointers) in the respective registry annexes.
 
 ---
 

@@ -67,7 +67,6 @@ CS_CHAIN = tuple(
     f"corpus_systems/{name}"
     for name in (
         "cs_01_scope_purpose_identifier_rules.md",
-        "cs_02_implementation_integration_map.md",
         "cs_protocol_a_system_design_testing_verification_deployment.md",
         "cs_protocol_b_system_comprehensibility_complexity_stewardship.md",
         "cs_protocol_c_justice_safeguards_restitution_rehabilitation.md",
@@ -88,7 +87,6 @@ CI_CHAIN = tuple(
     f"corpus_institutions/{name}"
     for name in (
         "ci_01_scope_purpose_legitimacy_interface.md",
-        "ci_02_implementation_integration_map.md",
         "ci_03_institutional_design_separation_of_powers.md",
         "ci_04_appointment_competency_rotation_removal.md",
         "ci_05_conflict_integrity_anti_capture_anti_corruption.md",
@@ -123,7 +121,6 @@ CF_CHAIN = tuple(
     f"corpus_forum/{name}"
     for name in (
         "cf_01_scope_authority_boundary_rules.md",
-        "cf_02_implementation_integration_map.md",
         "cf_03_forum_formation_tribunal_mapping_chamber_structure.md",
         "cf_04_panel_formation_disclosure_recusal_bench_constitution.md",
         "cf_05_routing_operations_transfer_certification_representative_treatment.md",

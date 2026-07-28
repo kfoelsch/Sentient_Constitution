@@ -4,7 +4,7 @@
 
 - Upstream: [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-joint-structural-boundary-and-owner-discipline) joint structural boundary and owner discipline; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Eleven](../core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) forum-family routing; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05_definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: this section's local operational requirements for **CF-1: Scope, authority, and boundary rules**.
-- Read with: **CF-1**; **CF-2**; [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-joint-structural-boundary-and-owner-discipline); [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids); **CJS-5**.
+- Read with: **CF-1**; [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-joint-structural-boundary-and-owner-discipline); [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids); **CJS-5**.
 
 </details>
 
@@ -49,13 +49,13 @@ This layer must **not**:
 
 **Read next**
 
-- Routing: [cf_02_implementation_integration_map.md](cf_02_implementation_integration_map.md) (**CF-2**).
-- Label map and section registry: [cf_00_registry_and_reading_rules.md](cf_00_registry_and_reading_rules.md).
+- Label map, section registry, and forums-only domain routing: [cf_00_registry_and_reading_rules.md](cf_00_registry_and_reading_rules.md) (*Forums domain routing (integrator annex)*).
 - Shared contract and joint reading order: **CJS-1.1** and **CJS-1.2** in [cjs_01_scope_purpose_boundary_interface.md](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md).
+- Cross-layer topic router: [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids).
 - Constitutional forum owner: [core_11-11_forum.md](../core_11-11_forum.md) (**Chapter Eleven**).
 
 ---
 
 **Previous file:** [corpus_forum.md](../corpus_forum.md)
 
-**Next file:** [cf_02_implementation_integration_map.md](cf_02_implementation_integration_map.md)
+**Next file:** [cf_03_forum_formation_tribunal_mapping_chamber_structure.md](cf_03_forum_formation_tribunal_mapping_chamber_structure.md)

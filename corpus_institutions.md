@@ -54,7 +54,6 @@
 |---|---|
 | Registry and identifier rules | [ci_00_registry_and_reading_rules.md](corpus_institutions/ci_00_registry_and_reading_rules.md) |
 | CI-1: Scope, purpose, and legitimacy interface | [ci_01_scope_purpose_legitimacy_interface.md](corpus_institutions/ci_01_scope_purpose_legitimacy_interface.md) |
-| CI-2: Implementation integration map | [ci_02_implementation_integration_map.md](corpus_institutions/ci_02_implementation_integration_map.md) |
 | CI-3: Institutional design, separation of powers, and authority custody | [ci_03_institutional_design_separation_of_powers.md](corpus_institutions/ci_03_institutional_design_separation_of_powers.md) |
 | CI-4: Appointment, competency, rotation, and removal | [ci_04_appointment_competency_rotation_removal.md](corpus_institutions/ci_04_appointment_competency_rotation_removal.md) |
 | CI-5: Conflict integrity, anti-capture, and anti-corruption | [ci_05_conflict_integrity_anti_capture_anti_corruption.md](corpus_institutions/ci_05_conflict_integrity_anti_capture_anti_corruption.md) |

@@ -270,6 +270,6 @@ Missing regression testing, stale results, unfixed regressions, or material fixe
 
 ---
 
-**Previous file:** [cs_02_implementation_integration_map.md](cs_02_implementation_integration_map.md)
+**Previous file:** [cs_01_scope_purpose_identifier_rules.md](cs_01_scope_purpose_identifier_rules.md)
 
 **Next file:** [cs_protocol_b_system_comprehensibility_complexity_stewardship.md](cs_protocol_b_system_comprehensibility_complexity_stewardship.md)

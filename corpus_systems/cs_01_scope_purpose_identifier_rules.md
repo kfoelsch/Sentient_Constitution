@@ -4,7 +4,7 @@
 
 - Upstream: [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-joint-structural-boundary-and-owner-discipline) joint structural boundary and owner discipline; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05_definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: this section's local operational requirements for **CS-1: Scope, purpose, and boundary interface**.
-- Read with: **CS-1**; **CS-2**; [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-joint-structural-boundary-and-owner-discipline); [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids); **CS-3 — Information types and handling**; **CS-4 — System classification and handling**; **CS-5 — Critical system stewardship**.
+- Read with: **CS-1**; [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-joint-structural-boundary-and-owner-discipline); [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids); **CS-3 — Information types and handling**; **CS-4 — System classification and handling**; **CS-5 — Critical system stewardship**.
 
 </details>
 
@@ -43,12 +43,12 @@
 
 **Read next**
 
-- Routing: [cs_02_implementation_integration_map.md](cs_02_implementation_integration_map.md) (**CS-2**).
-- Label map and section registry: [cs_00_registry_and_reading_rules.md](cs_00_registry_and_reading_rules.md).
+- Label map, section registry, and systems-only domain routing: [cs_00_registry_and_reading_rules.md](cs_00_registry_and_reading_rules.md) (*Systems domain routing (integrator annex)*).
 - Shared contract and joint reading order: **CJS-1.1** and **CJS-1.2** in [cjs_01_scope_purpose_boundary_interface.md](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md).
+- Cross-layer topic router: [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids).
 
 ---
 
 **Previous file:** [corpus_systems.md](../corpus_systems.md)
 
-**Next file:** [cs_02_implementation_integration_map.md](cs_02_implementation_integration_map.md)
+**Next file:** [cs_protocol_a_system_design_testing_verification_deployment.md](cs_protocol_a_system_design_testing_verification_deployment.md)
