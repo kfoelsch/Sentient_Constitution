@@ -223,7 +223,7 @@ Access-control integrity and anti-concealment
 - OP-C: Access design is non-compliant if it hides systemic behavior or blocks meaningful challenge.
 
 Class A/B/C public-interest visibility
-- OP-O: For Class A, Class B, and Class C systems, public baseline access must cover the system purpose, classification, dependency structure, operational status, material risks, performance, failures, governance, audit outcomes, stakeholder effects, and constitutional compliance, subject to `corpus_systems.md` CS-2 — Information types and handling data handling.
+- OP-O: For Class A, Class B, and Class C systems, [Public Oversight Baseline Disclosure](../core_05defs_oversight.md#public-oversight-baseline-disclosure) must cover the system purpose, classification, dependency structure, operational status, material risks, performance, failures, governance, audit outcomes, stakeholder effects, and constitutional compliance, subject to `corpus_systems.md` CS-2 — Information types and handling data handling.
 - OP-E: Evaluation must verify that protected data limits are handled through the maximum feasible public substitute, such as aggregation, de-identification, summary disclosure, delayed disclosure, or qualified audit access.
 - OP-C: It is non-compliant to use privacy, security, confidentiality, proprietary interest, or investigation status to suppress public-interest visibility where a narrower substitute would preserve accountability.
 

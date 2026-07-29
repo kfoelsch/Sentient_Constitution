@@ -44,7 +44,7 @@ CS-2 implements:
 - **Cross-domain governance** — proportional access, reclassification and lifecycle, tiered transparency and audit, transformation traceability, attribution, and retention ([§5](#5-cross-domain-governance-principles)); typing integrity and anti-evasion remain in [§2](#2-determination-of-classification)–[§4](#4-anti-circumvention-and-integrity-of-classification)
 - **Separation and attribution** — keep higher-sensitivity domains from leaking through linkage or inference, and preserve attributable action ([§6](#6-data-separation-and-attribution))
 - **Class scaling** — higher-impact systems get stricter data rules. How strict depends on the system's class under **CS-3 — System classification and handling**
-- **Type O public-baseline (Class A/B/C)** — for high-impact systems, the **Type O** public baseline defined in **[Part B — Type O](cs_02_b_data_classifications.md#type-o-open-public-baseline-disclosure-data)** must be released by default, with substitute and holding-back limits in [§7](#7-type-o-baseline-for-class-abc-systems)
+- **Type O public-baseline (Class A/B/C)** — for high-impact systems, [Public Oversight Baseline Disclosure](../core_05defs_oversight.md#public-oversight-baseline-disclosure) must be released by default as **Type O** data defined in **[Part B — Type O](cs_02_b_data_classifications.md#type-o-open-public-baseline-disclosure-data)**, with substitute and holding-back limits in [§7](#7-type-o-baseline-for-class-abc-systems)
 
 <a id="11-identity-self-ownership-and-recoverability"></a>
 
@@ -141,6 +141,7 @@ Data classification under CS-2 — Information types and handling is binding acr
 - **rely** on intermediate systems, agents, or third parties to perform actions that would be prohibited if performed directly
 - **de-anonymize** anonymized data except under **CJS-5.12** (*burden-of-justification and constraint terms*), with such actions **fully documented and auditable**
 - **use** classification to **evade** constitutional requirements, **justify unnecessary** restriction of participation or access, **conceal** systemic risk or harm, or **create artificial barriers** to audit, verification, or accountability
+- **treat** restricted source data (including **Type H**, **Type I**, **Type N**, or **Type S**) as reclassified to **Type O** merely because a system is Class A/B/C or merely by copying that data, without meeting the substitute, reclassification, or release requirements in §7 and [Part B §8](cs_02_b_data_classifications.md#8-data-classifications)
 
 <a id="5-cross-domain-governance-principles"></a>
 ### 5. Cross-domain governance principles
@@ -162,15 +163,45 @@ Each type belongs to one **access-posture band**. Bands define shared default ac
 | Band | Types | Shared default posture |
 |---|---|---|
 | **Open / accessible by default** | **Type O**, **Type E** | Strong presumption of openness or accessibility; hold-backs are narrow |
-| **Audit-accessible, not public** | **Type G** | Fully auditable through structured or qualified audit access; not public by default; public face is **Type O** |
+| **Audit-accessible, not public** | **Type G** | Fully auditable through structured or qualified audit access; not public by default; public face is [Public Oversight Baseline Disclosure](../core_05defs_oversight.md#public-oversight-baseline-disclosure) (**Type O**) |
 | **Restricted by default** | **Type H**, **Type I**, **Type S** | Access only for defined legitimate purposes, consent, or justified override as the type requires; **Type S** is also time-bound and review-bound |
 | **Non-accessible by default** | **Type N** | Access only through explicit, informed, freely given consent or justified override under **CJS-5.12** (*burden-of-justification and constraint terms*) |
 
 **Band-level rules:**
 - **Open / accessible by default.** Presumptive accessibility or open release applies. Restrictions that withhold otherwise-accessible or disclosable material must satisfy [§5.3](#53-tiered-transparency-and-audit-access). For **Type E**, restriction is permitted only when disclosure would **itself** create material risk of enabling targeted or disproportionate harm, exploitation, or system compromise, unless a narrower type-specific rule applies.
-- **Audit-accessible, not public.** Non-public status must **not** function as unreviewable secrecy. Structured or qualified audit access must remain functionally effective under **CJS-5.3** (*auditability and reconstructability terms*) and **CJS-5.4** (*tiered transparency and audit-access terms*). Public-baseline publication is **Type O**, not a substitute satisfied by audit access alone.
-- **Restricted by default.** Collection, access, and use must stay limited to the justified purpose. Broader use requires consent or justified override as the applicable type states. **Type S** restrictions must remain time-bound and review-bound under [§5.3](#53-tiered-transparency-and-audit-access).
+- **Audit-accessible, not public.** Non-public status must **not** function as unreviewable secrecy. Structured or qualified audit access must remain functionally effective under **CJS-5.3** (*auditability and reconstructability terms*) and **CJS-5.4** (*tiered transparency and audit-access terms*). [Public Oversight Baseline Disclosure](../core_05defs_oversight.md#public-oversight-baseline-disclosure) is **Type O**, not a substitute satisfied by audit access alone.
+- **Restricted by default.** Collection, access, and use must stay limited to the justified purpose. Broader use requires consent or justified override as the applicable type states. **Type S** restrictions must remain time-bound and review-bound under [§5.3](#53-tiered-transparency-and-audit-access). Systems managing restricted-by-default data must **not**:
+  - **expose** that data beyond what is necessary for its justified purpose
+  - **create persistent tracking** across unrelated contexts **by default** — any cross-context aggregation or linkage requires explicit justification under **CJS-5.11** (*distributed and proportional authority terms*) and **CJS-5.7** (*quorum and participatory legitimacy terms*), including demonstration that it does **not** materially undermine autonomy or create **coercive power asymmetries**
 - **Non-accessible by default.** Maximum restriction. No access, inference, reconstruction, or exposure without consent or justified override under **CJS-5.12** (*burden-of-justification and constraint terms*).
+
+**Shared anti-abuse limits.** Across all types, systems must **not**:
+- use data handling to enable **coercion, surveillance, or manipulation** (**Article VII-A** (*Self-Ownership of Body and Mind*)), including consolidating power or control through data or identity dependency (**CJS-5.17** (*interoperability, portability, and exit-integrity terms*))
+- **restrict access** to participation, resources, or systems **without justified cause** (**CJS-5.12** (*burden-of-justification and constraint terms*))
+
+**Shared consent integrity.** Where access, use, or disclosure depends on consent, systems must treat consent as:
+- **explicit and informed**
+- freely given without coercion, manipulation, or deceptive framing (**Article VII-A** (*Self-Ownership of Body and Mind*))
+- specific to intended use and scope
+- revocable where technically feasible
+
+Systems must **not**:
+- **infer consent from behavior**
+- assume consent through participation in unrelated systems
+- transfer or repurpose consented data without **explicit reauthorization**
+
+**Shared security- and intelligence-use records.** Where typed data is used for security, intelligence, eligibility restriction, or covert-investigation purposes, systems must keep reviewable records of:
+- **model role**, where models are used
+- **authorization basis**
+- **protected-activity safeguards**
+- any **minimization, segregation, challenge, or deletion** controls required by **Article XIII-A** (*Security, Intelligence, and Covert-Power Limits*) or **CJS-5.12** (*burden-of-justification and constraint terms*)
+
+**Type H and Type I anti-capture limits.** In addition to the restricted-by-default band rules, systems managing **Type H** or **Type I** data must **not**:
+- **centralize** that data in a manner that creates systemic control or dependency
+- create, through security, intelligence, screening, or covert-investigation systems, any of the following absent a specifically justified and independently reviewable basis consistent with **Article XIII-A** (*Security, Intelligence, and Covert-Power Limits*) and the stricter applicable protections in this chapter:
+  - generalized **watchlisting**
+  - persistent **cross-context tracking**
+  - hidden **political, associational, or belief-linked profiling**
 
 Where more than one type applies, the **most-restrictive** applicable protections govern ([§2](#2-determination-of-classification)). Band membership does **not** displace **Type O** publication duties or **Type E** survival-coordination duties.
 
@@ -243,7 +274,7 @@ It must also balance protection of internal states and sensitive data (**Sentien
 - **forensic access** — full reconstruction in cases of harm, dispute, or credible risk, consistent with **CJS-5.11**, **CJS-5.7**, and **CJS-5.12** (*burden-of-justification and constraint terms*)
 - **access-control integrity** — access controls must **not** conceal systemic behavior, prevent accountability, or obstruct legitimate audit and verification
 
-For **Class A**, **Class B**, and **Class C** systems, the **Type O** public baseline defined in **[Part B — Type O](cs_02_b_data_classifications.md#type-o-open-public-baseline-disclosure-data)** is **public by default**, subject to the substitute and holding-back rules in [§7](#7-type-o-baseline-for-class-abc-systems).
+For **Class A**, **Class B**, and **Class C** systems, [Public Oversight Baseline Disclosure](../core_05defs_oversight.md#public-oversight-baseline-disclosure) defined in **[Part B — Type O](cs_02_b_data_classifications.md#type-o-open-public-baseline-disclosure-data)** is **public by default**, subject to the substitute and holding-back rules in [§7](#7-type-o-baseline-for-class-abc-systems).
 
 Any limit on who may see or use data must be:
 - **narrow in scope** — only as broad as needed for the stated lawful purpose
@@ -428,18 +459,18 @@ It is permitted **only if** all of the following are true:
 <a id="7-type-o-baseline-for-class-abc-systems"></a>
 ### 7. Type O baseline for Class A/B/C systems
 
-*In plain terms: high-impact systems must publish the Type O public baseline by default — scoped to what the Charter claims, what class the system is, and what the system actually does; checked each certification cycle. Where Type G, Type E, or other raw protected or non-baseline data cannot be released as the public package, publish the strongest feasible public substitute; and holding data back must be narrow and challengeable.*
+*In plain terms: high-impact systems must publish [Public Oversight Baseline Disclosure](../core_05defs_oversight.md#public-oversight-baseline-disclosure) as Type O by default — scoped to what the Charter claims, what class the system is, and what the system actually does; checked each certification cycle. Where Type G, Type E, or other raw protected or non-baseline data cannot be released as that disclosure, publish the strongest feasible public substitute; and holding data back must be narrow and challengeable.*
 
-For **Class A**, **Class B**, and **Class C** systems, the **Type O** public-baseline content defined in **[Part B — Type O](cs_02_b_data_classifications.md#type-o-open-public-baseline-disclosure-data)** is **public by default** and must be released as **Type O**, subject to the substitute and holding-back rules below.
+For **Class A**, **Class B**, and **Class C** systems, [Public Oversight Baseline Disclosure](../core_05defs_oversight.md#public-oversight-baseline-disclosure) — the **Type O** public-baseline content defined in **[Part B — Type O](cs_02_b_data_classifications.md#type-o-open-public-baseline-disclosure-data)** — is **public by default** and must be released as **Type O**, subject to the substitute and holding-back rules below.
 
-**Scope of the baseline.** What the public baseline must cover is **mapped from** the governing [Charter](../core_05defs_continuity.md#charter) (or equivalent published scope instrument), the assigned system class under **CS-3**, and observed [System Boundaries](../core_05defs_continuity.md#system-boundaries). Charter fields — purpose, in-scope and out-of-scope limits, affected communities and dependencies, and classification assumptions — are inputs to that coverage map; they are **not** the sole source of Type O content. Understated Charter text, paper-only scope, or a missing Charter where one is required must **not** shrink Type O publication duties. Sufficiency of the public package is verified on each materially impactful system alignment certification or revalidation cycle under **[Chapter Seven §4](../core_07_a_system_alignment_certification_evaluation.md#4-data-types-and-handling-evaluation)** (*Data Types and Handling Evaluation*) and recorded and disclosed under **[Chapter Seven Part B §11](../core_07_b_system_alignment_certification_record_process.md#11-certification-record)**.
+**Scope of the baseline.** What Public Oversight Baseline Disclosure must cover is **mapped from** the governing [Charter](../core_05defs_continuity.md#charter) (or equivalent published scope instrument), the assigned system class under **CS-3**, and observed [System Boundaries](../core_05defs_continuity.md#system-boundaries). Charter fields — purpose, in-scope and out-of-scope limits, affected communities and dependencies, and classification assumptions — are inputs to that coverage map; they are **not** the sole source of Type O content. Understated Charter text, paper-only scope, or a missing Charter where one is required must **not** shrink Type O publication duties. Sufficiency of Public Oversight Baseline Disclosure is verified on each materially impactful system alignment certification or revalidation cycle under **[Chapter Seven §4](../core_07_a_system_alignment_certification_evaluation.md#4-data-types-and-handling-evaluation)** (*Data Types and Handling Evaluation*) and recorded and disclosed under **[Chapter Seven Part B §11](../core_07_b_system_alignment_certification_record_process.md#11-certification-record)**.
 
-**Substitutes for non-public or restricted source data.** If raw disclosure of **Type G**, **Type E**, or other protected source would harm privacy, identity, internal-state protection, safety, security, or an active restricted investigation, or if full release would exceed the public-baseline package, publish the strongest feasible **Type O** substitute instead — for example:
+**Substitutes for non-public or restricted source data.** If raw disclosure of **Type G**, **Type E**, or other protected source would harm privacy, identity, internal-state protection, safety, security, or an active restricted investigation, or if full release would exceed Public Oversight Baseline Disclosure, publish the strongest feasible **Type O** substitute instead — for example:
 - aggregation
 - de-identification
 - summary or delayed disclosure
 
-Keep the underlying records under their original type unless lawfully reclassified. Where full public release is inappropriate, **structured or qualified audit access** to **Type G** or other non-public source must remain available in parallel under **CJS-5.3** (*auditability and reconstructability terms*) and **CJS-5.4** (*tiered transparency and audit-access terms*), and must **not** replace the **Type O** public baseline.
+Keep the underlying records under their original type unless lawfully reclassified. Where full public release is inappropriate, **structured or qualified audit access** to **Type G** or other non-public source must remain available in parallel under **CJS-5.3** (*auditability and reconstructability terms*) and **CJS-5.4** (*tiered transparency and audit-access terms*), and must **not** replace [Public Oversight Baseline Disclosure](../core_05defs_oversight.md#public-oversight-baseline-disclosure).
 
 **Holding back.** Any limit on **Type O** baseline release must be:
 - narrow

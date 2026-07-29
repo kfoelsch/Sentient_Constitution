@@ -244,6 +244,7 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 - [Proxy Divergence](core_05defs_oversight.md#proxy-divergence)
 - [Proxy Metric Gaming and Indicator-Reality Gaps](core_05defs_oversight.md#proxy-metric-gaming-and-indicator-reality-gaps)
 - [Psychological Harm](core_05defs_accountability.md#psychological-harm)
+- [Public Oversight Baseline Disclosure](core_05defs_oversight.md#public-oversight-baseline-disclosure)
 - [Publication Truthfulness and Recklessness Floor](core_05defs_oversight.md#publication-truthfulness-and-recklessness-floor)
 - [Reasonably Foreseeable](core_05defs_oversight.md#reasonably-foreseeable)
 - [Redress and Remediation](core_05defs_accountability.md#redress-and-remediation-constitutional)

@@ -550,7 +550,7 @@ Classification must be **disclosed** to affected stakeholders at a level appropr
 
 **For Class A, B, and C:** Disclosure must include **classification rationale and key assumptions**. **It** must include **identified impact scope and dependency characteristics**. **It** must include **known limitations, uncertainties, and risk factors**.
 
-Class A, B, and C disclosure must also satisfy the **Type O public-baseline default** in **CS-2 — Information types and handling**, including maximum feasible **Type O** public substitutes where non-**Type O** protected classifications limit raw disclosure.
+Class A, B, and C disclosure must also satisfy [Public Oversight Baseline Disclosure](../core_05defs_oversight.md#public-oversight-baseline-disclosure) under the **Type O** default in **CS-2 — Information types and handling**, including maximum feasible **Type O** public substitutes where non-**Type O** protected classifications limit raw disclosure.
 
 **3. Auditability and verification.** Classification must be **auditable** with sufficient documentation and evidence.
 

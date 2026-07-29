@@ -550,6 +550,7 @@ independent verification rigor, and audit scope sufficiency than lower-class sys
 **Cluster members.** This cluster comprises:
 
 - [Transparency](core_05defs_oversight.md#transparency);
+- [Public Oversight Baseline Disclosure](core_05defs_oversight.md#public-oversight-baseline-disclosure);
 - [Auditability](core_05defs_oversight.md#auditability);
 - [Evidence Preservation](core_05defs_oversight.md#evidence-preservation);
 - [Audit Scope Sufficiency](core_05defs_oversight.md#audit-scope-sufficiency);
@@ -579,7 +580,7 @@ See [Joint invocation and satisfaction](core_05_definitions_home.md#joint-invoca
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Principles: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **oversight** leg; [§9 Stewardship and Distributed Understanding](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding), [10.2.1 Preservation of Epistemic Integrity](core_01_b_interaction_interpretation.md#621-preservation-of-epistemic-integrity).
-- Read with: [Epistemic Integrity](core_05defs_oversight.md#epistemic-integrity), [Truth (Constitutional Constraint)](core_05defs_oversight.md#truth-constitutional-constraint), [Contestability](core_05defs_accountability.md#contestability), [Auditability](core_05defs_oversight.md#auditability), and **[corpus_systems.md](corpus_systems.md), CS-2 — Information types and handling** (**Type O** — open public-baseline disclosure data).
+- Read with: [Epistemic Integrity](core_05defs_oversight.md#epistemic-integrity), [Truth (Constitutional Constraint)](core_05defs_oversight.md#truth-constitutional-constraint), [Contestability](core_05defs_accountability.md#contestability), [Auditability](core_05defs_oversight.md#auditability), [Public Oversight Baseline Disclosure](core_05defs_oversight.md#public-oversight-baseline-disclosure), and **[corpus_systems.md](corpus_systems.md), CS-2 — Information types and handling** (**Type O** — open public oversight baseline disclosure data).
 
 </details>
 
@@ -589,9 +590,9 @@ See [Joint invocation and satisfaction](core_05_definitions_home.md#joint-invoca
 
 - **What it is**
   - **In scope:** Disclosure of externally relevant system behavior, limitations, uncertainties, and dependencies, reaching a level sufficient for affected parties to understand function and risk in context. Subject to safety- and security-justified limits consistent with [Epistemic Integrity](core_05defs_oversight.md#epistemic-integrity) and Chapter One §9.2 — Epistemic Disclosure Constraints.
-    - Where lawful online publication infrastructure exists for a materially scoped system, institution, forum process, or comparable governed domain, baseline transparency disclosure must be freely available online for class-appropriate public access, without paywall or insider-only substitution for the public baseline.
+    - Where lawful online publication infrastructure exists for a materially scoped system, institution, forum process, or comparable governed domain, baseline transparency disclosure must be freely available online for class-appropriate public access, without paywall or insider-only substitution for [Public Oversight Baseline Disclosure](core_05defs_oversight.md#public-oversight-baseline-disclosure) where that floor applies.
     - Where raw public disclosure is inappropriate under lawful protection constraints, the owner must provide the maximum feasible online public substitute (for example aggregation, de-identification, summary disclosure, delayed disclosure, or qualified audit access) while preserving meaningful accountability and contestability.
-    - Public-baseline publication posture, online availability, and lawful substitute discipline are implemented at the systems layer as **Type O** data under **[corpus_systems.md](corpus_systems.md), CS-2 — Information types and handling**.
+    - [Public Oversight Baseline Disclosure](core_05defs_oversight.md#public-oversight-baseline-disclosure) — including online availability and lawful substitute discipline — is implemented at the systems layer as **Type O** data under **[corpus_systems.md](corpus_systems.md), CS-2 — Information types and handling**.
   - **Out of scope:** A data dump, document volume, paywall, or insider-only access that does not let affected parties understand function and risk.
 <a id="transparency-a"></a>
 - **How to measure and assess**
@@ -609,6 +610,45 @@ See [Joint invocation and satisfaction](core_05_definitions_home.md#joint-invoca
   - **Primary failure:** material omissions or disclosures that foreseeably prevent informed participation or [Oversight](core_05apex_oversight_leg.md#oversight-constitutional) where required.
   - **Secondary failure:** safety- or security-framed limits that defeat materially required clarity without satisfying [Necessity](core_05defs_accountability.md#necessity) and [Proportionality](core_05defs_accountability.md#proportionality).
   - **Tertiary failure:** treating disclosure volume or formatting satisfaction as dispositive where [Proxy Divergence](core_05defs_oversight.md#proxy-divergence) is reasonably observable.
+
+---
+
+<a id="public-oversight-baseline-disclosure"></a>
+##### Public Oversight Baseline Disclosure
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Cluster component: [Chapter Five Chapter One §8.2 *Transparency, Auditability, and Verification*](core_05defs_oversight.md#transparency-auditability-and-verification-cluster).
+- Downstream: **[CS-2 Part A §7](corpus_systems/cs_02_a_information_types_and_handling.md#7-type-o-baseline-for-class-abc-systems)** (*Type O baseline for Class A/B/C systems*); [Chapter Seven §4](core_07_a_system_alignment_certification_evaluation.md#4-data-types-and-handling-evaluation) (*Data Types and Handling Evaluation*); [Chapter Seven Part B §11](core_07_b_system_alignment_certification_record_process.md#11-certification-record) (*Certification record*); [Chapter Seven Part B §12](core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*Transparency, auditability, and contestability*).
+- Read with: [Transparency](core_05defs_oversight.md#transparency), [Contestability](core_05defs_accountability.md#contestability), [Auditability](core_05defs_oversight.md#auditability), [Charter](core_05defs_continuity.md#charter), [System Boundaries](core_05defs_continuity.md#system-boundaries), [Classification-Scaled Governance](core_05defs_oversight.md#classification-scaled-governance), and **[corpus_systems.md](corpus_systems.md), CS-2 — Information types and handling** (**Type O**).
+
+</details>
+
+<br>
+
+*In plain terms: the minimum public disclosure high-impact systems must publish so people can understand, oversee, and challenge them — including a strong public substitute when raw private or non-baseline records cannot be released.*
+
+- **What it is**
+  - **In scope:** The required public disclosure floor for oversight and contestability of materially impactful systems — especially **Class A**, **Class B**, and **Class C** under **[corpus_systems.md](corpus_systems.md), CS-3 — System classification and handling**. Coverage is mapped from the governing [Charter](core_05defs_continuity.md#charter) (or equivalent published scope instrument), assigned class, and observed [System Boundaries](core_05defs_continuity.md#system-boundaries). It includes information people need to understand what the system does, how it is classified, what depends on it, how it is running, what can go wrong, and its degree of alignment with this Constitution. Lawful public substitutes — including aggregation, de-identification, summary or delayed disclosure, and comparable artifacts — remain in scope where **Type G**, **Type E**, or other source records stay non-public, non-baseline, or otherwise restricted. Systems-layer typing, substitute mechanics, and holding-back limits are owned by **[corpus_systems.md](corpus_systems.md), CS-2 — Information types and handling** as **Type O**.
+  - **Out of scope:**
+    - structured or qualified audit access treated as a substitute for the public floor;
+    - performative summaries that withhold decision-relevant baseline material;
+    - paywalled or insider-only distribution of the floor where lawful online publication infrastructure exists for class-appropriate public access; and
+    - raw **Type G**, **Type E**, or other restricted source itself merely because a public substitute was derived from it.
+<a id="public-oversight-baseline-disclosure-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** [Oversight measurement family](core_05apex_oversight_leg.md#oversight-measurement-family) — *Can sentients see, verify, and rely on what systems represent?*
+
+    **Primary assessment:** Compare published disclosure to certified scope mapped from [Charter](core_05defs_continuity.md#charter), assigned class, and [System Boundaries](core_05defs_continuity.md#system-boundaries). Verify that lawful substitutes preserve meaningful accountability and [Contestability](core_05defs_accountability.md#contestability), and that free online availability holds where lawful publication infrastructure exists.
+  - **Secondary measure:** [Transparency](core_05defs_oversight.md#transparency), [Contestability](core_05defs_accountability.md#contestability), [Epistemic Integrity](core_05defs_oversight.md#epistemic-integrity), and [Auditability](core_05defs_oversight.md#auditability) — co-measures that can defeat the floor even when some public artifacts exist.
+
+    **Secondary assessment:** When evaluating the primary trace, detect thin summaries, audit-only substitution, coverage gaps against certified scope, and hold-backs that hide systemic behavior, constitutional violations, material risk, dependency, failure, or externalized cost.
+<a id="public-oversight-baseline-disclosure-c"></a>
+- **What must hold**
+  - **Primary failure:** missing or inadequate Public Oversight Baseline Disclosure where the **Type O** baseline for **Class A**, **Class B**, or **Class C** applies under CS-2.
+  - **Secondary failure:** treating non-public **Type G** audit access, paywalls, or performative summaries as satisfying the floor.
+  - **Tertiary failure:** hold-backs that are not narrow, documented, proportionate, auditable, and challengeable under CS-2 and [Transparency](core_05defs_oversight.md#transparency).
 
 
 ---
