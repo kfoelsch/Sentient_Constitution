@@ -21,7 +21,7 @@
 > **Where this lives**
 > - **Navigation wrapper / reader landing:** [corpus_systems.md](../corpus_systems.md) indexes the `corpus_systems/` subfiles.
 > - **Editorial map:** [doc_architecture.md](../doc_architecture.md) section 4 (definitions protocol) and section 2 (ownership map).
-> - **Shared contract:** [corpus_joint_structure.md](../corpus_joint_structure.md) **CJS-1.2** (*Shared implementation-corpus preamble contract*).
+> - **Shared contract:** **CJS-1.2** (*Shared implementation-corpus preamble contract*).
 >
 > **Implementation layer map**
 >
@@ -36,7 +36,7 @@
 >
 > System and data obligations here align with [corpus_joint_structure.md — Cross-domain implementation layer](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cross-domain-implementation-layer), especially **CJS-4.3** (*Cross-implementation trust integrity (joint operation model)*) and the **CJS-5** (*Implementation and cross-implementation operational cluster library*) operational cluster library.
 >
-> Shared preamble contract: apply [corpus_joint_structure.md](../corpus_joint_structure.md) **CJS-1.2** (*Shared implementation-corpus preamble contract*).
+> Shared preamble contract: apply **CJS-1.2** (*Shared implementation-corpus preamble contract*).
 >
 > **Principle-layer routing:** Read with [Chapter One](../core_01_c_stewardship_capacity_principles.md#chapter-01-principles-and-constraints) — [Constitutional Tetrad](../core_00_preamble.md#constitutional-tetrad), [Two Constitutional Aims](../core_00_preamble.md#two-constitutional-aims), and [material stake](../core_00_preamble.md#material-stake) scaling. **CS-3** (*System classification and handling*) and **CS-3** (*Critical system stewardship*) map to material stake; **Protocol A** subsection **H** and **Protocol D** implement self-healing and partition resilience under the **Continuity aim** (operational continuity language is not a substitute for that aim).
 >
@@ -50,7 +50,7 @@
 > - **Intervention layering:** **CJS-5.23** (*intervention and override integrity terms*) and **CJS-5.14** (*intervention governance and override-authorization terms*) — jointly applicable where relevant.
 > - **Voting / crypto / roles:** Chapter Twelve section 4 (*Voting and Binding Collective Choice Protocols*); Chapter Four section 5.1.1 (*Cryptographic protection, credentials, and verification*); Chapter Twelve section 5.1 (*Authorized Roles, Competency Development, and Contribution*).
 > - **Capital-markets scope:** specialist corporate-securities law remains outside dedicated implementation file coverage.
-> - **Joint implementation read:** where **CS-2/CS-3** intersect institutional governance, forum operations, or **CJS-5** clusters, read **`corpus_joint_structure.md`** **CJS-2** (especially **CJS-2.1**) and **CJS-3**. Systems-only topic ownership and domain reading order live in this file under [Systems domain routing (integrator annex)](#systems-domain-routing-integrator-annex).
+> - **Joint implementation read:** where **CS-2/CS-3** intersect institutional governance, forum operations, or **CJS-5** clusters, read **CJS-2** (especially **CJS-2.1**) and **CJS-3**. Systems-only topic ownership and domain reading order live in this file under [Systems domain routing (integrator annex)](#systems-domain-routing-integrator-annex).
 > - **Standing pipeline:** Chapter Eight owns Questions 1 and 2: verified standing records and Contribution Axis / Violation Axis measurement. **Forum** allegations and unadjudicated claims are not standing measurement inputs (**Chapter Eleven**). Chapter Nine owns Question 3 consequences; recency and currentness are gate/readiness inputs under [Chapter Nine §6.1](../core_09-09_standing_integration.md#61-recency-and-currentness) and must not alter the Chapter Eight contribution slot or LEQU measurement. Violation locks are decided before contribution gates under [Chapter Nine §2](../core_09-09_standing_integration.md#2-integration-record-and-decision-order). Numeric interoperability defaults: [implementation/CH06_NINE_SLOT_STANDING_SCALE.md](../implementation/CH06_NINE_SLOT_STANDING_SCALE.md).
 
 </details>
@@ -71,7 +71,7 @@
 
 *In plain terms: labels like **CS-3 — System classification and handling** and **Protocol A** are systems-implementation section numbers — not Sentient Constitution article numbers.*
 
-Apply [corpus_joint_structure.md](../corpus_joint_structure.md) **CJS-1.3** (*Section identifiers and article references*) as the shared implementation-corpus identifier rule. In this folder specifically, **Protocol A**, **Protocol B**, **Protocol S4**, **Protocol S5**, **Protocol T**, **Protocol R**, **Protocol D**, and **CS-1** / **CS-2 — Information types and handling** through **CS-4 — Critical system stewardship** are systems implementation labels. They must not be read as Sentient Constitution **Article** or chapter numbers. The editor abbreviation **CS** may appear in owner tables, stable IDs, and short routing references, but citations should prefer `corpus_systems.md` plus the named protocol or CS section label where practical.
+Apply **CJS-1.3** (*Section identifiers and article references*) as the shared implementation-corpus identifier rule. In this folder specifically, **Protocol A**, **Protocol B**, **Protocol S4**, **Protocol S5**, **Protocol T**, **Protocol R**, **Protocol D**, and **CS-1** / **CS-2 — Information types and handling** through **CS-4 — Critical system stewardship** are systems implementation labels. They must not be read as Sentient Constitution **Article** or chapter numbers. The editor abbreviation **CS** may appear in owner tables, stable IDs, and short routing references, but citations should prefer `corpus_systems.md` plus the named protocol or CS section label where practical.
 
 Unless another reference pattern is stated, **Article** labels with Roman numerals in this folder point to Sentient Constitution Chapter Six in the `core_06-06_rights_part_*.md` files.
 
@@ -93,7 +93,7 @@ Unless another reference pattern is stated, **Article** labels with Roman numera
 |---|---|---|
 | **CS-1** | Scope, purpose, and boundary interface | [cs_01_scope_purpose_identifier_rules.md](cs_01_scope_purpose_identifier_rules.md) |
 | **CS-2, Part A** | Handling rules (§1–§7) | [cs_02_a_information_types_and_handling.md](cs_02_a_information_types_and_handling.md) |
-| **CS-2, Part B** | Data classifications (§8; Type C–S including Type O) | [cs_02_b_data_classifications.md](cs_02_b_data_classifications.md) |
+| **CS-2, Part B** | Data classifications (§8; Type E–S including Type O) | [cs_02_b_data_classifications.md](cs_02_b_data_classifications.md) |
 | **CS-3 — System classification and handling** | System classification and handling | [cs_03_system_classification_and_handling.md](cs_03_system_classification_and_handling.md) |
 | **CS-4 — Critical system stewardship** | Critical system stewardship | [cs_04_critical_system_stewardship.md](cs_04_critical_system_stewardship.md) |
 | **Protocol A** | System design, testing, verification, and deployment | [cs_protocol_a_system_design_testing_verification_deployment.md](cs_protocol_a_system_design_testing_verification_deployment.md) |

@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-07-29T12:12:34+00:00",
+  "generated_at": "2026-07-29T14:05:29+00:00",
   "files": {
     "core_00_preamble.md": {
       "total_lines": 248,
@@ -6610,40 +6610,89 @@
           "header": "5. Cross-domain governance principles",
           "level": 3,
           "line_start": 146,
-          "line_end": 283,
+          "line_end": 290,
           "anchor": "#5-cross-domain-governance-principles"
         },
         {
           "header": "6. Data separation and attribution",
           "level": 3,
-          "line_start": 284,
-          "line_end": 384,
+          "line_start": 291,
+          "line_end": 391,
           "anchor": "#6-data-separation-and-attribution"
         },
         {
           "header": "7. Type O baseline for Class A/B/C systems",
           "level": 3,
-          "line_start": 385,
+          "line_start": 392,
           "line_end": 426,
           "anchor": "#7-type-o-baseline-for-class-abc-systems"
         }
       ]
     },
     "corpus_systems/cs_02_b_data_classifications.md": {
-      "total_lines": 297,
+      "total_lines": 325,
       "sections": [
         {
           "header": "CS-2, Part B: Data classifications",
           "level": 2,
           "line_start": 2,
-          "line_end": 297,
+          "line_end": 325,
           "anchor": "#cs-2-part-b-data-classifications"
         },
         {
           "header": "8. Data classifications",
           "level": 3,
-          "line_start": 19,
-          "line_end": 297,
+          "line_start": 21,
+          "line_end": 325,
+          "anchor": null
+        },
+        {
+          "header": "8.1 Type E: Environmental, emergency, and survival-coordination data",
+          "level": 4,
+          "line_start": 35,
+          "line_end": 78,
+          "anchor": null
+        },
+        {
+          "header": "8.2 Type G: Governance and operational source data",
+          "level": 4,
+          "line_start": 79,
+          "line_end": 107,
+          "anchor": null
+        },
+        {
+          "header": "8.3 Type O: Open public-baseline disclosure data",
+          "level": 4,
+          "line_start": 108,
+          "line_end": 151,
+          "anchor": "#type-o-open-public-baseline-disclosure-data"
+        },
+        {
+          "header": "8.4 Type H: Historical, relational, transactional, and participation data",
+          "level": 4,
+          "line_start": 152,
+          "line_end": 203,
+          "anchor": null
+        },
+        {
+          "header": "8.5 Type I: Identity and attribution data",
+          "level": 4,
+          "line_start": 204,
+          "line_end": 237,
+          "anchor": null
+        },
+        {
+          "header": "8.6 Type N: Neurocognitive and internal data",
+          "level": 4,
+          "line_start": 238,
+          "line_end": 263,
+          "anchor": null
+        },
+        {
+          "header": "8.7 Type S: Safety, security, and restricted investigation data",
+          "level": 4,
+          "line_start": 264,
+          "line_end": 325,
           "anchor": null
         }
       ]

@@ -83,7 +83,7 @@ Dependency identification and disclosure content
 - OP-C: Leaving out an important dependency, or letting dependency information go stale, is non-compliant.
 
 Domain and sector classification mapping
-- OP-O: Where an implementation authority regulates, supervises, charters, funds, or materially relies on major domains or sectors, it must map those domains against applicable `corpus_systems.md` **CS-4 — System classification and handling** classes and **CS-5 — Critical system stewardship** stewardship tiers using the canonical domain taxonomy where one applies. The map must identify domains present in governed scope, split classifications or tiers, survival-relevant, operationally critical, or coordination-critical domains, and reclassification triggers when dependency criticality, cascade risk, or historical treatment changes.
+- OP-O: Where an implementation authority regulates, supervises, charters, funds, or materially relies on major domains or sectors, it must map those domains against applicable `corpus_systems.md` **CS-3 — System classification and handling** classes and **CS-4 — Critical system stewardship** stewardship tiers using the canonical domain taxonomy where one applies. The map must identify domains present in governed scope, split classifications or tiers, survival-relevant, operationally critical, or coordination-critical domains, and reclassification triggers when dependency criticality, cascade risk, or historical treatment changes.
 - OP-E: Reviewers must verify that domain maps cover material sectors such as food, extractive, built-environment, energy, transport, manufacturing, health, communications, finance, insurance, education, and knowledge infrastructure where present, and that the map supports proportional burden, audit, oversight, purchasing, participation, and exit planning rather than serving as a static label.
 - OP-C: Domain mapping is non-compliant if unlabeled, ad hoc, obsolete, or selectively applied sector categories hide dependency criticality, evade classification-scaled burdens, obscure review, or impose inconsistent treatment on comparable activities without a documented proportional basis.
 
@@ -124,9 +124,9 @@ Substitutability, exit constraints, and mitigation duties
 - Read with: **CJS-5.17 — Interoperability, Portability, and Exit Integrity**
 - Read with: **CJS-5.16 — Dependency Awareness, Disclosure, and Risk Integrity**
 - Read with: **CJS-5.10 — Transparency and Disclosure**
-- Read with: `corpus_systems.md` **CS-3 — Information types and handling**
-- Read with: `corpus_systems.md` **CS-4 — System classification and handling**
-- Read with: `corpus_systems.md` **CS-5 — Critical system stewardship**
+- Read with: `corpus_systems.md` **CS-2 — Information types and handling**
+- Read with: `corpus_systems.md` **CS-3 — System classification and handling**
+- Read with: `corpus_systems.md` **CS-4 — Critical system stewardship**
 - Read with: **Article XIX** (*Interoperability, Portability, Movement, Refuge, and Exit Integrity*)
 - Read with: **Article II-E** (*Info-Sphere Dependency, Continuity, and Operator Non-Viability*)
 - Read with: **Article XV-A** (*Auditability and Observable Evidence*)
@@ -252,7 +252,7 @@ Right-to-exit pathway integrity
 - Read with: **CJS-5.5 — Independent Verification and Integrity of Claims**
 - Read with: **CJS-5.20** (*Continuity: reversibility and containment terms*) and **CJS-5.18** (*Continuity: data-retention and lifecycle-integrity terms*) — Reversibility and Containment
 - Read with: **CJS-5.15** (*Accountability: structural review, correction urgency, and disclosure terms*) and **CJS-5.6** (*Oversight: integrity assurance and resilience operations*) — Evolution, Revalidation, and Non-Entrenchment
-- Read with: `corpus_systems.md` **CS-3 — Information types and handling**, including Types **C**, **G**, **H**, **I**, **N**, and **S**
+- Read with: `corpus_systems.md` **CS-2 — Information types and handling**, including Types **E**, **G**, **O**, **H**, **I**, **N**, and **S**
 - Read with: **CJS-3.5 — Classification alignment for supervised scope**
 - Constitutional frame: **Continuity band** leg; **Continuity** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05defs_oversight.md#materiality-determination).
 - Continuity disambiguation: Constitutional **Continuity** aim — lifecycle rules must not narrow the Continuity aim.
@@ -283,7 +283,7 @@ data-retention and lifecycle-integrity terms
 - OP-C: A retention-integrity claim is non-compliant if those lifecycle elements cannot be reviewed together, if an important element has not been fully evaluated or is unusable, or if one element defeats another.
 
 Accountability-preserving record floor
-- OP-O: Where required, retention must keep enough Type **C**, **G**, **H**, **I**, or **S** records to reconstruct material events, audit conduct, verify claims, support challenge and redress, preserve continuity, and recover from failure.
+- OP-O: Where required, retention must keep enough Type **E**, **G**, **O**, **H**, **I**, or **S** records to reconstruct material events, audit conduct, verify claims, support challenge and redress, preserve continuity, and recover from failure.
 - OP-E: Reviewers must verify that data minimization does not block investigations or hide responsibility.
 - OP-C: Invoking minimization to defeat accountability is non-compliant.
 
@@ -293,8 +293,8 @@ Anti-surveillance and anti-coercion accumulation limits
 - OP-C: A retention design that enables coercion, concealed surveillance, or meaningful barriers to exit or contestation is non-compliant.
 
 Classification and information-type alignment
-- OP-O: If accumulated, linked, or inferred data changes its **CS-3 — Information types and handling** data type or becomes more sensitive in practice, stricter protections apply.
-- OP-E: Reviewers must verify alignment with **CS-3 — Information types and handling** data-type duties and **CJS-3.5 — Classification alignment for supervised scope** where supervision and systems classification overlap.
+- OP-O: If accumulated, linked, or inferred data changes its **CS-2 — Information types and handling** data type or becomes more sensitive in practice, stricter protections apply.
+- OP-E: Reviewers must verify alignment with **CS-2 — Information types and handling** data-type duties and **CJS-3.5 — Classification alignment for supervised scope** where supervision and systems classification overlap.
 - OP-C: Continuing to use lower-type or lower-class handling after sensitivity has increased is non-compliant.
 
 Justification and bounded-retention floor

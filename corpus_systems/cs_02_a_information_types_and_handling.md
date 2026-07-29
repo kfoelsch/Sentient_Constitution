@@ -6,7 +6,7 @@
 
 > The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other CS-2 parts.
 >
-> This file contains **CS-2, Part A** — purpose and scope (including identity self-ownership and continuity-critical export), classification determination, anti-circumvention, cross-domain governance principles, and data separation / attribution (**§§1–7**). **Part B** — data classifications (**Type C** through **Type S**, including **Type O**) — is in [`cs_02_b_data_classifications.md`](cs_02_b_data_classifications.md).
+> This file contains **CS-2, Part A** — purpose and scope (including identity self-ownership and continuity-critical export), classification determination, anti-circumvention, cross-domain governance principles, and data separation / attribution (**§§1–7**). **Part B** — data classifications (**Type E** through **Type S**, including **Type O**) — is in [`cs_02_b_data_classifications.md`](cs_02_b_data_classifications.md).
 
 </details>
 
@@ -35,8 +35,8 @@ Requirements and limitations scale proportionally with system classification and
 
 CS-2 implements:
 
-- **Data typing** — every material dataset is assigned one or more types defined in **[Part B](cs_02_b_data_classifications.md#cs-2-part-b-data-classifications)** (**Type C**, **G**, **O**, **H**, **I**, **N**, and **S**)
-- **Default access posture** — each type carries a clear public, restricted, or non-accessible default, plus disclosure, consent, and handling rules
+- **Data typing** — every material dataset is assigned one or more types defined in **[Part B](cs_02_b_data_classifications.md#cs-2-part-b-data-classifications)** (**Type E**, **G**, **O**, **H**, **I**, **N**, and **S**)
+- **Default access posture** — each type belongs to one of four **access-posture bands** defined in **[Part B §8](cs_02_b_data_classifications.md#8-data-classifications)** (*open / accessible by default*; *audit-accessible, not public*; *restricted by default*; *non-accessible by default*), plus type-specific disclosure, consent, and handling rules. Bands group shared defaults; they are **not** a ranked sensitivity score
 - **Most-restrictive rule** — where more than one type applies, the strongest applicable protections govern ([§2](#2-determination-of-classification) *When it is unclear*), subject to proportionality (**CJS-5.11** (*distributed and proportional authority terms*) and **CJS-5.7** (*quorum and participatory legitimacy terms*))
 - **Classification integrity** — type follows the **functional nature of the data** and the **effects it enables**, not format, origin, or pipeline stage; systems may not evade typing by fragmentation, re-labeling, or indirection ([§2](#2-determination-of-classification)–[§4](#4-anti-circumvention-and-integrity-of-classification))
 - **Identity self-ownership** — identity and attribution data remain under sentient control through revocation, rotation, correction, and recoverability ([§1.1](#11-identity-self-ownership-and-recoverability); **Article VII** (*Self-Ownership*))
@@ -147,13 +147,38 @@ Data classification under CS-2 — Information types and handling is binding acr
 
 *In plain terms: these are the shared rules for how typed data is accessed, transformed, retyped, attributed, and retained across systems — stricter where impact is higher. Typing integrity and anti-evasion live in [§2](#2-determination-of-classification)–[§4](#4-anti-circumvention-and-integrity-of-classification).*
 
-All data, regardless of classification, must be handled in accordance with the following cross-domain principles. These principles govern how classifications are applied, enforced, and interacted with across systems, and ensure alignment with **Chapter Six, Articles V through IX** and **CJS-5** (*Implementation and cross-implementation operational cluster library*) operational clusters in **corpus_joint_structure.md**.
+All data, regardless of classification, must be handled in accordance with the following cross-domain principles. These principles govern how classifications are applied, enforced, and interacted with across systems, and ensure alignment with **Chapter Six, Articles I through IX** and **CJS-5** (*Implementation and cross-implementation operational cluster library*) operational clusters in **corpus_joint_structure.md**. Survival-, environment-, and substrate-critical data handling remains grounded in **Articles I–III and V**; participation, oversight, and protected-boundary duties run through **Articles V through IX**.
+
+Part B type sections state type-specific defaults, definitions, and handling rules. They do **not** restate this cross-domain alignment unless a type needs an additional, type-specific pointer.
+
+<a id="50-access-posture-bands"></a>
+
+**5.0. Access-posture bands.**
+
+*In plain terms: types share a default sharing style — open, audit-only, restricted, or off-limits — so common rules can attach to that style. The letter codes are still not a least-to-most sensitive ranking.*
+
+Each type belongs to one **access-posture band**. Bands define shared default access and restriction posture. They are **labels for shared defaults**, not a ranked list from “least sensitive” to “most sensitive.” Type-specific content and deltas are in **[Part B §8](cs_02_b_data_classifications.md#8-data-classifications)**.
+
+| Band | Types | Shared default posture |
+|---|---|---|
+| **Open / accessible by default** | **Type O**, **Type E** | Strong presumption of openness or accessibility; hold-backs are narrow |
+| **Audit-accessible, not public** | **Type G** | Fully auditable through structured or qualified audit access; not public by default; public face is **Type O** |
+| **Restricted by default** | **Type H**, **Type I**, **Type S** | Access only for defined legitimate purposes, consent, or justified override as the type requires; **Type S** is also time-bound and review-bound |
+| **Non-accessible by default** | **Type N** | Access only through explicit, informed, freely given consent or justified override under **CJS-5.12** (*burden-of-justification and constraint terms*) |
+
+**Band-level rules:**
+- **Open / accessible by default.** Presumptive accessibility or open release applies. Restrictions that withhold otherwise-accessible or disclosable material must satisfy [§5.3](#53-tiered-transparency-and-audit-access). For **Type E**, restriction is permitted only when disclosure would **itself** create material risk of enabling targeted or disproportionate harm, exploitation, or system compromise, unless a narrower type-specific rule applies.
+- **Audit-accessible, not public.** Non-public status must **not** function as unreviewable secrecy. Structured or qualified audit access must remain functionally effective under **CJS-5.3** (*auditability and reconstructability terms*) and **CJS-5.4** (*tiered transparency and audit-access terms*). Public-baseline publication is **Type O**, not a substitute satisfied by audit access alone.
+- **Restricted by default.** Collection, access, and use must stay limited to the justified purpose. Broader use requires consent or justified override as the applicable type states. **Type S** restrictions must remain time-bound and review-bound under [§5.3](#53-tiered-transparency-and-audit-access).
+- **Non-accessible by default.** Maximum restriction. No access, inference, reconstruction, or exposure without consent or justified override under **CJS-5.12** (*burden-of-justification and constraint terms*).
+
+Where more than one type applies, the **most-restrictive** applicable protections govern ([§2](#2-determination-of-classification)). Band membership does **not** displace **Type O** publication duties or **Type E** survival-coordination duties.
 
 <a id="51-proportional-access-and-handling"></a>
 
 **5.1. Proportional access and handling.**
 
-*In plain terms: bigger impact means stricter access, more transparency, deeper audit, and stronger justification — you cannot claim light rules while causing heavy outside effects.*
+*In plain terms: bigger impact means stricter access, more transparency, deeper audit, and stronger justification — you cannot claim light rules while causing heavy outside effects. When access is allowed or required, it must arrive in time to be useful.*
 
 Access and handling must scale with:
 - **impact on sentients, the environment, and the info-sphere**
@@ -163,7 +188,15 @@ Access and handling must scale with:
 Higher-impact systems and actions require:
 - **greater transparency** (**CJS-5.10** (*disclosure sufficiency and observability terms*))
 - **deeper auditability** (**CJS-5.3** (*auditability and reconstructability terms*))
+- **stronger independent verification and claim integrity** (**CJS-5.5** (*independent verification and claim-integrity terms*))
+- **more comprehensible presentation** where affected stakeholders must understand or act on the data (**CJS-5.8** (*comprehensibility and cognitive accessibility terms*))
 - **stronger justification** for restriction or access (**CJS-5.12** (*burden-of-justification and constraint terms*))
+
+Where access is **required or permitted** under the applicable type, it must be **timely enough for the lawful purpose**. That duty scales with impact under **CJS-5.11** (*distributed and proportional authority terms*) and **CJS-5.7** (*quorum and participatory legitimacy terms*). It does **not** create a duty of public availability for types that are restricted or non-accessible by default.
+
+Where a type requires accessibility, disclosure, or audit access, systems must also:
+- **preserve sufficient fidelity** for audit, lawful response, and long-term stewardship, proportionate to impact and dependency
+- **not** aggregate, downsample, or reduce resolution in ways that **materially obscure** trends, risks, or localized impacts that affected stakeholders are entitled to see under that type
 
 **No** system may claim reduced requirements while exerting **material external** effects under:
 - **CJS-5.11** (*distributed and proportional authority terms*)
@@ -200,9 +233,9 @@ Reclassification must:
 
 *In plain terms: people need enough visibility to understand risk; auditors need deeper access when needed; and hiding system behavior behind access controls is not allowed.*
 
-Data access must satisfy **CJS-5.4** (*tiered transparency and audit-access terms*) for balancing transparency, auditability, and protected-boundary constraints.
+Data access must satisfy **CJS-5.4** (*tiered transparency and audit-access terms*) for balancing transparency, auditability, and protected-boundary constraints. Public-baseline transparency duties also run through [Transparency](../core_05defs_oversight.md#transparency) and **Article XV** (*Audit, Transparency, and Independent Verification*).
 
-It must also balance protection of internal states and sensitive data (**Sentient Constitution Chapter Six, **Article VII-B** (*Internal-State Boundary and Type-N Protection*)**; Types **H**, **I**, **N**, and **S** in this chapter). Where applicable based on system impact (**CJS-5.11** (*distributed and proportional authority terms*) and **CJS-5.7** (*quorum and participatory legitimacy terms*)), systems must support:
+It must also balance protection of internal states and sensitive data (**Sentient Constitution Chapter Six, **Article VII-B** (*Internal-State Boundary and Type-N Protection*)**; Types **H**, **I**, **N**, and **S** in this chapter), including cross-implementation trust integrity under **CJS-4.3** (*Cross-implementation trust integrity (joint operation model)*) where incorporated via **Chapter Sixteen**. Where applicable based on system impact (**CJS-5.11** (*distributed and proportional authority terms*) and **CJS-5.7** (*quorum and participatory legitimacy terms*)), systems must support:
 
 - **Identity Data Protection.** [Identity Data Protection](core_05defs_continuity.md#identity-data-protection) governs the restricted-linkages ban (Type H/I → Type N) in this subsection. See [§6.1](#61-separation-of-data-domains) for the domain-separation mechanics.
 - **baseline accessibility** — sufficient visibility into behavior and effects for informed participation and risk evaluation
@@ -217,6 +250,16 @@ Any limit on who may see or use data must be:
 - **justified** — with reasons that can be checked
 - **auditable**
 - **open to challenge** (**CJS-5.13** (*procedural integrity and adjudication terms*))
+
+Where the limit withholds information that would otherwise be accessible or disclosable under the applicable type, it must also be:
+- **time-bound**
+- **documented**, and subject to **delayed disclosure and audit** where delayed release is used
+- shown to **reduce net harm** relative to fuller disclosure under **CJS-5.11** (*distributed and proportional authority terms*) and **CJS-5.7** (*quorum and participatory legitimacy terms*)
+- shaped to preserve **maximum feasible** visibility into the **existence and character** of the risk, where public or baseline visibility applies
+
+Where data mixes **Type E** coordination-relevant elements with **Type S** exploit-sensitive elements, systems must **disclose** the coordination-relevant components and **restrict only** exploit-enabling components unless separation is **not technically feasible**. If separation is not feasible, restriction must be **explicitly justified**, **minimized** in scope and duration, and **subject to post-release disclosure and audit**. Type-specific interaction rules are in **Part B — Type S** (*Interaction with Type E*).
+
+Where **Type S** restricts disclosure for safety, security, or protected investigation, the restriction must also satisfy **CJS-5.21** (*adversarial robustness and abuse-resistance terms*) and **CJS-5.22** (*constrained-secrecy and protected-investigation terms*), remain **time-bound** and **review-bound**, and stay open to challenge under **CJS-5.13** (*procedural integrity and adjudication terms*).
 
 <a id="54-integrity-of-data-handling-and-transformation"></a>
 
@@ -269,8 +312,9 @@ Systems must provide attribution capability **proportional to system impact** su
 That capability may include:
 - **short-lived** mechanisms — attribution that exists only long enough for the immediate purpose, then expires
 - **event-triggered or conditional** logging
-- **limited retention windows**
+- **limited retention windows** under **CJS-5.18** (*data-retention and lifecycle-integrity terms*)
 - **aggregated or anonymized** records where appropriate
+- retention and disposition scaled to **reversibility and containment** needs under **CJS-5.20** (*reversibility and containment terms*)
 
 **Low-impact** systems are **not** required to:
 - **retain full historical logs of all actions**
@@ -384,17 +428,16 @@ It is permitted **only if** all of the following are true:
 <a id="7-type-o-baseline-for-class-abc-systems"></a>
 ### 7. Type O baseline for Class A/B/C systems
 
-*In plain terms: high-impact systems must publish the Type O public baseline by default; where raw protected data cannot be released, publish the strongest feasible public substitute; and holding data back must be narrow and challengeable.*
+*In plain terms: high-impact systems must publish the Type O public baseline by default; where Type G, Type E, or other raw protected or non-baseline data cannot be released as the public package, publish the strongest feasible public substitute; and holding data back must be narrow and challengeable.*
 
 For **Class A**, **Class B**, and **Class C** systems, the **Type O** public-baseline content defined in **[Part B — Type O](cs_02_b_data_classifications.md#type-o-open-public-baseline-disclosure-data)** is **public by default** and must be released as **Type O**, subject to the substitute and holding-back rules below.
 
-**Substitutes for restricted source data.** If raw disclosure would harm privacy, identity, internal-state protection, safety, security, or an active restricted investigation, publish the strongest feasible **Type O** substitute instead — for example:
+**Substitutes for non-public or restricted source data.** If raw disclosure of **Type G**, **Type E**, or other protected source would harm privacy, identity, internal-state protection, safety, security, or an active restricted investigation, or if full release would exceed the public-baseline package, publish the strongest feasible **Type O** substitute instead — for example:
 - aggregation
 - de-identification
 - summary or delayed disclosure
-- qualified audit access
 
-Keep the underlying records under their original type unless lawfully reclassified.
+Keep the underlying records under their original type unless lawfully reclassified. Where full public release is inappropriate, **structured or qualified audit access** to **Type G** or other non-public source must remain available in parallel under **CJS-5.3** (*auditability and reconstructability terms*) and **CJS-5.4** (*tiered transparency and audit-access terms*), and must **not** replace the **Type O** public baseline.
 
 **Holding back.** Any limit on **Type O** baseline release must be:
 - narrow
