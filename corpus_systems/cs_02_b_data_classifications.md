@@ -6,7 +6,7 @@
 
 > The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other CS-2 parts.
 >
-> This file contains **CS-2, Part B** — data classifications (**Type C** through **Type S**, including **Type O**) as **§8**. Purpose, scope, classification determination, anti-circumvention, cross-domain principles, and lifecycle integrity (**§§1–7**) are in [`cs_02_a_information_types_and_handling.md`](cs_02_a_information_types_and_handling.md).
+> This file contains **CS-2, Part B** — data classifications (**Type C** through **Type S**, including **Type O**) as **§8**. Purpose and scope (including identity self-ownership and continuity-critical export), classification determination, anti-circumvention, cross-domain principles, and data separation / attribution (**§§1–7**) are in [`cs_02_a_information_types_and_handling.md`](cs_02_a_information_types_and_handling.md).
 
 </details>
 
@@ -14,13 +14,21 @@
 
 **CS-2, Part B**, owns **data classifications** (**Type C** through **Type S**, including **Type O**). Classification determination and cross-domain governance are in **[Part A](cs_02_a_information_types_and_handling.md#cs-2-part-a-information-types-and-handling)**.
 
+*In plain terms: Part B names each data type and its usual access posture — from survival and governance data that should usually be open, through identity and inner-state data that stay protected, to temporary security restrictions that must expire.*
+
 <br>
 
 ### 8. Data classifications
-The ordering of data classifications (**Type C** through **Type S**, including **Type O**) reflects functional role and typical accessibility, not intrinsic sensitivity or priority. Letter designations are non-sequential and reflect domain identifiers rather than hierarchical ranking or sensitivity.  Protections are defined within each classification and may vary independently of ordering. Where ambiguity exists, the most restrictive applicable protections govern.
+
+*In plain terms: the letter codes are domain labels, not a ranked sensitivity scale. When more than one type fits, the stronger protections win.*
+
+These type letters (**Type C** through **Type S**, including **Type O**) name different kinds of data and how they are usually shared — not a ranked list from “least sensitive” to “most sensitive.” The letters are labels, not a score order. Each type carries its own protections, which do not rise or fall just because of where it sits in this list. When more than one type could apply, use the strongest applicable protections.
 
 **Type C: Coordination and survival data.** **Default classification:** Accessible by Default (strong presumption).  
-**Normative alignment:** **CJS-5.11** (*distributed and proportional authority terms*) and **CJS-5.7** (*quorum and participatory legitimacy terms*), `corpus_joint_structure.md` **CJS-5.8** (*comprehensibility and cognitive accessibility terms*), **CJS-5.10** (*disclosure sufficiency and observability terms*), **CJS-5.3** (*auditability and reconstructability terms*), **CJS-5.5** (*independent verification and claim-integrity terms*), and **CJS-5.12** (see Core Constraints and Disclosure Requirement below); foundational substrate framing under **Articles I–III and V**.
+
+*In plain terms: data people need to stay safe and coordinate help — environment, infrastructure, emergencies — should stay open and useful unless publishing it would itself cause serious harm.*
+
+**Normative alignment:** **CJS-5.11** (*distributed and proportional authority terms*) and **CJS-5.7** (*quorum and participatory legitimacy terms*), **CJS-5.8** (*comprehensibility and cognitive accessibility terms*), **CJS-5.10** (*disclosure sufficiency and observability terms*), **CJS-5.3** (*auditability and reconstructability terms*), **CJS-5.5** (*independent verification and claim-integrity terms*), and **CJS-5.12** (see Core Constraints and Disclosure Requirement below); foundational substrate framing under **Articles I–III and V**.
 
 **Definition:** Data necessary to preserve sentient survival, environmental integrity, and critical substrate health. This data enables sentients and systems to perceive reality and coordinate harm prevention. Examples include:
 - **ecological and environmental condition** data; **air, water, soil, climate, biodiversity, and contamination** data
@@ -37,7 +45,7 @@ or critical substrate systems—per **CJS-5.11** (*distributed and proportional 
 
 Data must **not** be aggregated, downsampled, or reduced in resolution in ways that **materially obscure** trends, risks, or localized impacts. **That** prohibition applies to reductions relevant to affected stakeholders.
 
-**Disclosure requirement:** Presumptive accessibility subject only to **narrowly scoped** restrictions justified under **CJS-5.12** (*burden-of-justification and constraint terms*) and `corpus_joint_structure.md` **CJS-5.5** (*independent verification and claim-integrity terms*).
+**Disclosure requirement:** Presumptive accessibility subject only to **narrowly scoped** restrictions justified under **CJS-5.12** (*burden-of-justification and constraint terms*) and **CJS-5.5** (*independent verification and claim-integrity terms*).
 
 **Access requirements:**
 - Access must **not** be delayed in ways that materially reduce usefulness for harm prevention, coordination, or response.
@@ -61,7 +69,10 @@ If separation is not feasible, restriction must be **explicitly justified**, **m
 ---
 
 **Type G: Governance, operational, and transparency data.** **Default classification:** Accessible by Default.  
-**Normative alignment:** `corpus_joint_structure.md` **CJS-5.10** (*disclosure sufficiency and observability terms*), **CJS-5.3** (*auditability and reconstructability terms*), **CJS-5.4** (and **CJS-5.12** (*burden-of-justification and constraint terms*)/**CJS-5.22** (*constrained-secrecy and protected-investigation terms*) where restrictions apply).
+
+*In plain terms: the records people need to see how a system is run, what it decides, what can go wrong, and how to challenge it — open by default so oversight works.*
+
+**Normative alignment:** **CJS-5.10** (*disclosure sufficiency and observability terms*), **CJS-5.3** (*auditability and reconstructability terms*), **CJS-5.4** (and **CJS-5.12** (*burden-of-justification and constraint terms*)/**CJS-5.22** (*constrained-secrecy and protected-investigation terms*) where restrictions apply).
 
 **Definition:** Data required for informed participation, oversight, audit, and constitutional accountability. Examples include:
 - **governance records and procedural rules**; **policy documents and system classifications**
@@ -74,7 +85,7 @@ If separation is not feasible, restriction must be **explicitly justified**, **m
 **Core constraint:** Must remain **sufficiently accessible** so affected sentients can understand how systems operate.
 how decisions are made, what risks exist, and how to challenge and verify claims.
 
-**Disclosure requirement:** Baseline public accessibility, with **deeper structured access** where needed for meaningful audit (`corpus_joint_structure.md` **CJS-5.3** (*auditability and reconstructability terms*) and **CJS-5.4** (*tiered transparency and audit-access terms*)).
+**Disclosure requirement:** Baseline public accessibility, with **deeper structured access** where needed for meaningful audit (**CJS-5.3** (*auditability and reconstructability terms*) and **CJS-5.4** (*tiered transparency and audit-access terms*)).
 
 **Access requirements:** Systems must provide this data in a manner that is **understandable**.
 **documented**, **attributable**, **versioned** where material changes occur, and **retained** for a duration proportional to system impact and dependency.
@@ -83,21 +94,35 @@ how decisions are made, what risks exist, and how to challenge and verify claims
 
 Limited redaction is permitted only to protect **Type N** data. **It** is permitted to protect **Type I** data beyond necessary scope. **It** is permitted to protect **active Type S** data related to restricted investigations. **It** is permitted to protect **narrowly scoped** security-sensitive implementation detail where disclosure would create **material risk**.
 
-**Handling constraints:** No system may classify governance-relevant or operationally material information as secret **merely** for convenience, reputational protection, or power preservation. **No** system may provide **performative summaries** while withholding information necessary for meaningful review. **No** system may use **complexity, opacity, or format fragmentation** to defeat auditability (contrary to `corpus_joint_structure.md` **CJS-5.8** (*comprehensibility and cognitive accessibility terms*), **CJS-5.10** (*disclosure sufficiency and observability terms*), and **CJS-5.3** (*auditability and reconstructability terms*)). Material released for public-baseline transparency must be classified and handled as **Type O**.
+**Handling constraints:** No system may classify governance-relevant or operationally material information as secret **merely** for convenience, reputational protection, or power preservation. **No** system may provide **performative summaries** while withholding information necessary for meaningful review. **No** system may use **complexity, opacity, or format fragmentation** to defeat auditability (contrary to **CJS-5.8** (*comprehensibility and cognitive accessibility terms*), **CJS-5.10** (*disclosure sufficiency and observability terms*), and **CJS-5.3** (*auditability and reconstructability terms*)). Material released for public-baseline transparency must be classified and handled as **Type O**.
 
 ---
 
+<a id="type-o-open-public-baseline-disclosure-data"></a>
 **Type O: Open public-baseline disclosure data.** **Default classification:** Open by Default (strong presumption for public-baseline release).  
-**Normative alignment:** [Transparency](../core_05defs_oversight.md#transparency); `corpus_joint_structure.md` **CJS-5.4** (*tiered transparency and audit-access terms*), **CJS-5.10** (*disclosure sufficiency and observability terms*), **CJS-5.3** (*auditability and reconstructability terms*), and **CJS-5.5** (*independent verification and claim-integrity terms*); **Article XV** (*Audit, Transparency, and Independent Verification*).
 
-**Definition:** Data released or required to be released for **public-baseline** transparency, oversight, audit, and contestability — including lawful substitutes where source records remain in a more restricted type. Examples include:
+*In plain terms: the public baseline package — what must be published so people can understand high-impact systems, including a strong public substitute when the raw private records cannot be released.*
+
+**Normative alignment:** [Transparency](../core_05defs_oversight.md#transparency); **CJS-5.4** (*tiered transparency and audit-access terms*), **CJS-5.10** (*disclosure sufficiency and observability terms*), **CJS-5.3** (*auditability and reconstructability terms*), and **CJS-5.5** (*independent verification and claim-integrity terms*); **Article XV** (*Audit, Transparency, and Independent Verification*).
+
+**Definition:** Data released or required to be released for **public-baseline** transparency, oversight, audit, and contestability — including lawful substitutes where source records remain in a more restricted type.
+
+**Class A/B/C public-baseline content.** Where the [Type O baseline for Class A/B/C](cs_02_a_information_types_and_handling.md#7-type-o-baseline-for-class-abc-systems) applies, **Type O** includes information people need to understand:
+- what the system does
+- how it is classified
+- what depends on it
+- how it is running
+- what can go wrong
+- how it is governed
+- its degree of alignment with this Constitution
+
+**Other examples include:**
 - **published certification, governance, and audit records** required for public baseline visibility
-- **class A/B/C public-interest visibility disclosures** under the [Type O public-baseline default for Class A/B/C](cs_02_a_information_types_and_handling.md#2-type-o-public-baseline-for-class-abc--default-and-exceptions)
 - **aggregated, de-identified, summary, or delayed** public releases that substitute for restricted source data
 - **public eligibility rules and routing** for qualified audit access where full raw disclosure is inappropriate
 - **versioned public change notices, operational status, and material-risk summaries** for baseline understanding
 
-**Relationship to other types:** Source or operational records may remain **Type C**, **Type G**, or another type internally. **Type O** governs the **publication posture** of baseline disclosure artifacts. Data does **not** become **Type O** merely by copying **Type H**, **Type I**, **Type N**, or **Type S** without meeting substitute, reclassification, or release requirements in this chapter.
+**Relationship to other types:** Source or operational records may remain **Type C**, **Type G**, or another type internally. **Type O** governs the **publication posture** of baseline disclosure artifacts. **Type H**, **Type I**, **Type N**, and **Type S** data stay in those types and do **not** become **Type O** merely because a system is Class A/B/C, or merely by copying restricted source data, without meeting substitute, reclassification, or release requirements in this chapter. Class A/B/C substitute and holding-back mechanics are stated in [Part A §7](cs_02_a_information_types_and_handling.md#7-type-o-baseline-for-class-abc-systems).
 
 **Core constraint:** Must remain sufficiently accessible for informed participation, oversight, audit, and challenge at the public-baseline tier.
 
@@ -118,7 +143,10 @@ Limited redaction is permitted only to protect **Type N** data. **It** is permit
 ---
 
 **Type H: Historical, relational, transactional, and participation data.** **Default classification:** Restricted by Default.  
-**Normative alignment:** `corpus_joint_structure.md` **CJS-5.3** (*auditability and reconstructability terms*), **CJS-5.5** (*independent verification and claim-integrity terms*), **CJS-5.20** (*reversibility and containment terms*), and **CJS-5.18** (*data-retention and lifecycle-integrity terms*) as applicable.
+
+*In plain terms: logs of what people and systems did together — keep only what you need, and do not turn them into surveillance or a back door into someone's identity or inner life.*
+
+**Normative alignment:** **CJS-5.3** (*auditability and reconstructability terms*), **CJS-5.5** (*independent verification and claim-integrity terms*), **CJS-5.20** (*reversibility and containment terms*), and **CJS-5.18** (*data-retention and lifecycle-integrity terms*) as applicable.
 
 **Definition:** Records of interactions, exchanges, participation.
 and operational events that do **not** by themselves constitute internal cognitive data but may reveal patterns of behavior, dependency, association, or system impact. Examples include:
@@ -169,7 +197,10 @@ Retention must be proportionate to **system impact**. **It** must be proportiona
 ---
 
 **Type I: Identity and attribution data.** **Default classification:** Restricted by Default.  
-**Normative alignment:** CJS-5.16 (*dependency integrity and disclosure terms*), CJS-5.17 (*interoperability, portability, and exit-integrity terms*), CJS-5.3 (*auditability and reconstructability terms*), CJS-5.12 (see constraints below).
+
+*In plain terms: who is who and who did what — needed for accountability, but not for tracking people everywhere or locking them into one identity forever.*
+
+**Normative alignment:** CJS-5.16 (*dependency integrity and disclosure terms*), CJS-5.17 (*interoperability, portability, and exit-integrity terms*), CJS-5.3 (*auditability and reconstructability terms*), CJS-5.12 (see constraints below). Self-ownership, revocation, rotation, correction, and recoverability for this type are foundational under **[CS-2 Part A §1.1](cs_02_a_information_types_and_handling.md#11-identity-self-ownership-and-recoverability)** (*Identity self-ownership and recoverability*).
 
 **Definition:** All data used to establish, verify, or associate **identity, authorship, ownership, or responsibility** within systems. This includes identity credentials, keys, signatures, or equivalent verification mechanisms; identifiers (persistent or contextual); authorship, ownership, and action-attribution records; participation and consent records; and system-level identifiers linking actions to agents or sentients. It also includes personal health, clinical, wellness, and genomic records when they identify a sentient, as well as biometric or substrate-linked health measurements under the same identify-a-sentient test.
 
@@ -200,8 +231,11 @@ Where identity or attribution systems support security, intelligence, screening,
 ---
 
 **Type N: Neurocognitive and internal data.** **Default classification:** Non-Accessible by Default.  
+
+*In plain terms: thoughts, feelings, and other inner states — off-limits without real consent, or a narrowly justified override that can be checked.*
+
 **Normative alignment:** CJS-5.10 (*disclosure sufficiency and observability terms*).
-CJS-5.5 (*independent verification and claim-integrity terms*), CJS-5.12 (*burden-of-justification and constraint terms*), CJS-5.22 (*constrained-secrecy and protected-investigation terms*), **Sentient Constitution Chapter Six, **Article VII-B** (*Internal-State Boundary and Type-N Protection*)** (*Internal-State Boundary and Type-N Protection*), and **corpus_joint_structure.md** **CJS-4.3** (*Cross-implementation trust integrity (joint operation model)*) and **CJS-5** (*Implementation and cross-implementation operational cluster library*) operational clusters, incorporated via **Sentient Constitution Chapter Sixteen**.
+CJS-5.5 (*independent verification and claim-integrity terms*), CJS-5.12 (*burden-of-justification and constraint terms*), CJS-5.22 (*constrained-secrecy and protected-investigation terms*), **Sentient Constitution Chapter Six, **Article VII-B** (*Internal-State Boundary and Type-N Protection*)** (*Internal-State Boundary and Type-N Protection*), and **CJS-4.3** (*Cross-implementation trust integrity (joint operation model)*) and **CJS-5** (*Implementation and cross-implementation operational cluster library*) operational clusters, incorporated via **Sentient Constitution Chapter Sixteen**.
 
 **Definition:** All data that represents or enables reconstruction of sentients' internal states. This category is foundational to self-ownership (**Article VII-A** (*Self-Ownership of Body and Mind*); **Article VII-B** (*Internal-State Boundary and Type-N Protection*)). It includes thoughts, intentions, beliefs, subjective experiences, internal perception, private cognitive processes, internal memory, non-public emotional or psychological states, and physical or behavioral data that could be used to reconstruct or infer the above.
 
@@ -226,7 +260,10 @@ Where such systems are used for security, intelligence, eligibility restriction,
 ---
 
 **Type S: Safety, security, and restricted investigation data.** **Default classification:** Restricted by Default (strong presumption), **time-bound**, and **review-bound**.  
-**Normative alignment:** `corpus_joint_structure.md` **CJS-5.21** (*adversarial robustness and abuse-resistance terms*), **CJS-5.18** (*data-retention and lifecycle-integrity terms*), **CJS-5.12** (*burden-of-justification and constraint terms*), **CJS-5.22** (*constrained-secrecy and protected-investigation terms*), and **CJS-5.13** (*procedural integrity and adjudication terms*).
+
+*In plain terms: temporary security and investigation secrets — allowed only while needed to prevent serious harm, with a clock and review, not a permanent black box.*
+
+**Normative alignment:** **CJS-5.21** (*adversarial robustness and abuse-resistance terms*), **CJS-5.18** (*data-retention and lifecycle-integrity terms*), **CJS-5.12** (*burden-of-justification and constraint terms*), **CJS-5.22** (*constrained-secrecy and protected-investigation terms*), and **CJS-5.13** (*procedural integrity and adjudication terms*).
 
 **Definition:** Data whose disclosure would create material risk of enabling targeted or disproportionate harm, exploitation, evasion of safeguards, or compromise of critical systems or investigations. This category supports harm prevention, integrity, and response to adversarial or emergent threats. Examples include:
 - **security vulnerabilities, exploit pathways, and weaknesses**
@@ -258,7 +295,7 @@ Access decisions must be **documented**, **attributable**, **auditable**, and **
 
 **Temporal requirements:** Restrictions must not persist beyond the period in which harm from disclosure exceeds, or is reasonably expected to exceed, harm from continued restriction.
 
-All restrictions must be **explicitly time-bound** at classification. They must be subject to periodic revalidation under `corpus_joint_structure.md` **CJS-5.18** (*data-retention and lifecycle-integrity terms*) and automatically reviewed for release, partial disclosure, or summary disclosure.
+All restrictions must be **explicitly time-bound** at classification. They must be subject to periodic revalidation under **CJS-5.18** (*data-retention and lifecycle-integrity terms*) and automatically reviewed for release, partial disclosure, or summary disclosure.
 
 If revalidation does not occur within the defined time bound, restriction expires automatically and data must be reclassified and disclosed per **CS-2 — Information types and handling**.
 

@@ -349,6 +349,8 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
 - [Timely Resolution](core_05defs_accountability.md#timely-resolution-constitutional) — resolution within materiality-scaled windows.
 - [Merits Determination](core_05defs_accountability.md#merits-determination) — binding substantive dispositions in those pathways.
 - [Stay](core_05defs_accountability.md#stay) — temporary pause or reliance-limit orders pending further review.
+- [Attributable Action](core_05defs_accountability.md#attributable-action-constitutional) — materially relevant action traceable to identifiable responsible actors.
+- [Attribution Integrity](core_05defs_accountability.md#attribution-integrity-constitutional) — attribution chains resistant to obscuring, ambiguity, tampering, and repudiation.
 - [Negligence](core_05defs_accountability.md#negligence) — reasonably avoidable failures of care that produce material harm.
 - [Collective Accountability Failure](core_05defs_accountability.md#collective-accountability-failure) — care failures under diffused or collective responsibility.
 - [Redress and Remediation](core_05defs_accountability.md#redress-and-remediation-constitutional) — acknowledgment and proportionate correction.
@@ -357,7 +359,75 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
 - [Force Majeure](core_05defs_accountability.md#force-majeure-constitutional) — exceptional external disruptions.
 - [Capture of Resolution Pathways](core_05defs_accountability.md#capture-of-resolution-pathways) — protection against capture of outcome-determination mechanisms.
 
-*Measurements (family routing):* Accountability measurement family and Timeliness measurement family — operative tiers on [Accountability](core_05apex_accountability_leg.md#accountability), [Contestability](core_05defs_accountability.md#contestability), [Due Process](core_05defs_accountability.md#due-process-constitutional), [Timeliness](core_05apex_timeliness_leg.md#timeliness-constitutional), [Timely Resolution](core_05defs_accountability.md#timely-resolution-constitutional), [Negligence](core_05defs_accountability.md#negligence), [Redress and Remediation](core_05defs_accountability.md#redress-and-remediation-constitutional), [Remedy System](core_05defs_accountability.md#remedy-system-constitutional), [Restorative Justice](core_05defs_accountability.md#restorative-justice), and [Capture of Resolution Pathways](core_05defs_accountability.md#capture-of-resolution-pathways) below; progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md).
+*Measurements (family routing):* Accountability measurement family and Timeliness measurement family — operative tiers on [Accountability](core_05apex_accountability_leg.md#accountability), [Attributable Action](core_05defs_accountability.md#attributable-action-constitutional), [Attribution Integrity](core_05defs_accountability.md#attribution-integrity-constitutional), [Contestability](core_05defs_accountability.md#contestability), [Due Process](core_05defs_accountability.md#due-process-constitutional), [Timeliness](core_05apex_timeliness_leg.md#timeliness-constitutional), [Timely Resolution](core_05defs_accountability.md#timely-resolution-constitutional), [Negligence](core_05defs_accountability.md#negligence), [Redress and Remediation](core_05defs_accountability.md#redress-and-remediation-constitutional), [Remedy System](core_05defs_accountability.md#remedy-system-constitutional), [Restorative Justice](core_05defs_accountability.md#restorative-justice), and [Capture of Resolution Pathways](core_05defs_accountability.md#capture-of-resolution-pathways) below; progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md).
+
+---
+
+<a id="attributable-action-constitutional"></a>
+
+#### Attributable Action
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Downstream: Principles: [Chapter One §10 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline); [Chapter One §11.6 Successor Responsibility and Formal-Structure Non-Escape](core_01_c_stewardship_capacity_principles.md#116-successor-responsibility-and-formal-structure-non-escape); [Chapter Seven §4](core_07_a_system_alignment_certification_evaluation.md#4-data-types-and-handling-evaluation) and [Chapter Seven Part B §11](core_07_b_system_alignment_certification_record_process.md#11-certification-record) where attribution capability is materially required.
+- Read with: [Accountability](core_05apex_accountability_leg.md#accountability), [Attribution Integrity](core_05defs_accountability.md#attribution-integrity-constitutional), [Auditability](core_05defs_oversight.md#auditability), [Contestability](core_05defs_accountability.md#contestability), [Due Process](core_05defs_accountability.md#due-process-constitutional), and [Redress and Remediation](core_05defs_accountability.md#redress-and-remediation-constitutional).
+
+</details>
+
+<br>
+
+*In plain terms: when an action materially affects people or shared systems, it must be possible to tell who or what is responsible for it well enough to review, challenge, and correct it.*
+
+- **What it is**
+  - **In scope:** A materially relevant action whose origin, responsible actor, and answerability chain can be traced to identifiable systems, agents, or sentients with enough fidelity for audit, review, correction, and remedy. Covered actions include those affecting sentients, shared infrastructure, resource systems, or the info-sphere.
+  - **Out of scope:** Attribution demands beyond what material impact, risk, and constitutional review require; low-significance actions that do not need persistent identity linkage so long as proportional attribution capability still exists where harm, dispute, or abuse must be investigated.
+<a id="attributable-action-constitutional-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** [Accountability measurement family](core_05apex_accountability_leg.md#accountability-measurement-family) — asks whether materially significant actions can be traced to identifiable responsible actors strongly enough for answerability to be real in practice.
+
+    **Primary assessment:** Check whether attribution survives delegation, layered architectures, proxy operation, vendor chains, and time-separated workflows; whether the record identifies who acted, under what authority, and with what materially relevant effect; and whether the trace is usable for review, challenge, and remedy rather than merely existing on paper.
+  - **Secondary measure:** [Auditability](core_05defs_oversight.md#auditability), [Contestability](core_05defs_accountability.md#contestability), [Transparency](core_05defs_oversight.md#transparency), and [Attribution Integrity](core_05defs_accountability.md#attribution-integrity-constitutional) — co-measures that can defeat attributable action even when a nominal log or identity field exists.
+
+    **Secondary assessment:** When evaluating the primary trace, assess whether missing records, delegated opacity, retained ambiguity, or inaccessible records make the action effectively unattributable in practice.
+<a id="attributable-action-constitutional-c"></a>
+- **What must hold**
+  - **Primary failure:** It is non-compliant to route materially significant action through structures that prevent reliable identification of the responsible system, agent, or sentient where review, challenge, correction, or remedy may be required.
+  - **Secondary failure:** A system claims actions are attributable because identifiers or logs exist somewhere, but the trace cannot practically support audit, contest, or answerability under real conditions.
+
+---
+
+<a id="attribution-integrity-constitutional"></a>
+
+#### Attribution Integrity
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Downstream: Principles: [Chapter One §10 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline); [Chapter Seven §4](core_07_a_system_alignment_certification_evaluation.md#4-data-types-and-handling-evaluation); [Chapter Seven Part B §11](core_07_b_system_alignment_certification_record_process.md#11-certification-record); and **[corpus_systems.md](corpus_systems.md), CS-2 — Information types and handling** where attributable action or audit-level responsibility is materially implicated.
+- Read with: [Attributable Action](core_05defs_accountability.md#attributable-action-constitutional), [Accountability](core_05apex_accountability_leg.md#accountability), [Auditability](core_05defs_oversight.md#auditability), [Transparency](core_05defs_oversight.md#transparency), [Contestability](core_05defs_accountability.md#contestability), and [Truth (Constitutional Constraint)](core_05defs_oversight.md#truth-constitutional-constraint).
+
+</details>
+
+<br>
+
+*In plain terms: attribution has integrity only when responsibility cannot be hidden, denied, tampered with, or blurred into ambiguity.*
+
+- **What it is**
+  - **In scope:** The constitutional requirement that attribution chains for materially significant actions remain transparent enough, auditable enough, and stable enough to resist obscuring responsibility through indirection, delegation, system complexity, tampering, repudiation, or ambiguity.
+  - **Out of scope:** A demand for one universal technical mechanism, immutable identity exposure in every context, or stronger attribution than proportionality, privacy, and protected-boundary rules permit.
+<a id="attribution-integrity-constitutional-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** [Accountability measurement family](core_05apex_accountability_leg.md#accountability-measurement-family) and [Oversight measurement family](core_05apex_oversight_leg.md#oversight-measurement-family) — used together to test whether the attribution chain remains answerable and reviewable in practice.
+
+    **Primary assessment:** Evaluate whether responsibility can be obscured by role fragmentation, handoffs, proxy actors, undocumented overrides, layered ownership, or inaccessible records; whether the chain can be audited without dependence on self-serving operator claims alone; and whether tampering, repudiation, or retained ambiguity would defeat reliable attribution.
+  - **Secondary measure:** [Proxy Divergence](core_05defs_oversight.md#proxy-divergence), [Auditability](core_05defs_oversight.md#auditability), and [Contestability](core_05defs_accountability.md#contestability) — co-measures that expose symbolic attribution that does not function under review.
+
+    **Secondary assessment:** When operators rely on nominal identity fields, nominal logs, or contractual role labels, distinguish real attribution integrity from paper-only traceability.
+<a id="attribution-integrity-constitutional-c"></a>
+- **What must hold**
+  - **Primary failure:** It is non-compliant to obscure responsibility through indirection, delegation, or system complexity, or to create conditions where materially significant actions cannot be reliably attributed.
+  - **Secondary failure:** Attribution records or mechanisms are present but vulnerable to tampering, repudiation, or unresolved ambiguity such that reliable review, correction, or remedy cannot depend on them.
 
 ---
 
@@ -518,7 +588,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: [Chapter Eleven](core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) (*primary-stakes routing and lawfully constituted merits panels*); `corpus_joint_structure.md` **CJS-3.3** (*Boundary Between Support Roles and Merits Decisions*).
+- Downstream: [Chapter Eleven](core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) (*primary-stakes routing and lawfully constituted merits panels*); **CJS-3.3** (*Boundary Between Support Roles and Merits Decisions*).
 - Read with: [Adjudication and Dispute Resolution](core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional), [Contestability](core_05defs_accountability.md#contestability), [Procedural Fairness](core_05defs_participation.md#procedural-fairness-constitutional), the [Chapter Eight §7 unified scale](core_08-08_standing_assessment.md#7-unified-proportional-lequ-scale) (*numeric Violation Axis slot assignment from verified impact*), [Chapter Ten](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct) (*corresponding anti-constitutional-misconduct designation for qualifying slots 7–9*), and owner layers in [corpus_forum.md](corpus_forum.md) and [corpus_institutions.md](corpus_institutions.md).
 
 </details>
@@ -1108,7 +1178,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Accountability measurement family (*Market structure and contestability as constitutional measurement*); Principles: [§13 Market Structure](core_01_c_stewardship_capacity_principles.md#13-market-structure); [§13.1 Market Concentration Threshold Mechanism (Adopter-Tunable)](core_01_c_stewardship_capacity_principles.md#131-market-concentration-threshold-mechanism-adopter-tunable); [§13.2 Pro-Competition and Anti-Domination](core_01_c_stewardship_capacity_principles.md#132-pro-competition-and-anti-domination); [§13.3 Consolidation Ceiling](core_01_c_stewardship_capacity_principles.md#133-consolidation-ceiling); [corpus_joint_structure.md](../corpus_joint_structure.md) **CJS-5.11.2 — Anti-domination conduct and remediation catalog** (operative conduct patterns and remedies); **CJS-5.11.3 — Consolidation ceiling-setting discipline (adopter-tunable)** (operative ceiling-setting discipline).
+- Downstream: Accountability measurement family (*Market structure and contestability as constitutional measurement*); Principles: [§13 Market Structure](core_01_c_stewardship_capacity_principles.md#13-market-structure); [§13.1 Market Concentration Threshold Mechanism (Adopter-Tunable)](core_01_c_stewardship_capacity_principles.md#131-market-concentration-threshold-mechanism-adopter-tunable); [§13.2 Pro-Competition and Anti-Domination](core_01_c_stewardship_capacity_principles.md#132-pro-competition-and-anti-domination); [§13.3 Consolidation Ceiling](core_01_c_stewardship_capacity_principles.md#133-consolidation-ceiling); **CJS-5.11.2 — Anti-domination conduct and remediation catalog** (operative conduct patterns and remedies); **CJS-5.11.3 — Consolidation ceiling-setting discipline (adopter-tunable)** (operative ceiling-setting discipline).
 - Cluster component: [Governance Architecture, Oversight, Dependency, Decentralization, Concentration, Market Structure, and Exit-Path Integrity](core_05defs_accountability.md#governance-architecture-oversight-decentralization-and-concentration-cluster); [Stewardship, Governance Discipline, and Shared-System Capacity](core_05defs_continuity.md#stewardship-governance-discipline-and-shared-system-capacity-cluster).
 - Read with: [Contestability](core_05defs_accountability.md#contestability), [Market Concentration Threshold](core_05defs_accountability.md#market-concentration-threshold-constitutional), [Productive Capacity](core_05defs_continuity.md#productive-capacity-constitutional), [Constitutional Efficiency](core_05defs_continuity.md#constitutional-efficiency), [Proxy Divergence](core_05defs_oversight.md#proxy-divergence), [Dependency](core_05defs_continuity.md#dependency), [Meaningful Agency](core_05defs_participation.md#meaningful-agency), [System Capture](core_05defs_continuity.md#system-capture), and [Chapter One §11.1.5 Constitutional Outcome Claims Discipline](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline).
 
@@ -1146,7 +1216,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [§12.1 Productive Capacity (Instrumental Good)](core_01_c_stewardship_capacity_principles.md#121-productive-capacity-instrumental-good); [§13.1 Market Concentration Threshold Mechanism (Adopter-Tunable)](core_01_c_stewardship_capacity_principles.md#131-market-concentration-threshold-mechanism-adopter-tunable) (principle-layer direction); [corpus_joint_structure.md](../corpus_joint_structure.md) **CJS-5.11.1 — Market concentration threshold-setting discipline (adopter-tunable)** (operative threshold-setting discipline); [§13.2 Pro-Competition and Anti-Domination](core_01_c_stewardship_capacity_principles.md#132-pro-competition-and-anti-domination); [§13.3 Consolidation Ceiling](core_01_c_stewardship_capacity_principles.md#133-consolidation-ceiling).
+- Downstream: Principles: [§12.1 Productive Capacity (Instrumental Good)](core_01_c_stewardship_capacity_principles.md#121-productive-capacity-instrumental-good); [§13.1 Market Concentration Threshold Mechanism (Adopter-Tunable)](core_01_c_stewardship_capacity_principles.md#131-market-concentration-threshold-mechanism-adopter-tunable) (principle-layer direction); **CJS-5.11.1 — Market concentration threshold-setting discipline (adopter-tunable)** (operative threshold-setting discipline); [§13.2 Pro-Competition and Anti-Domination](core_01_c_stewardship_capacity_principles.md#132-pro-competition-and-anti-domination); [§13.3 Consolidation Ceiling](core_01_c_stewardship_capacity_principles.md#133-consolidation-ceiling).
 - Cluster component: [Governance Architecture, Oversight, Dependency, Decentralization, Concentration, Market Structure, and Exit-Path Integrity](core_05defs_accountability.md#governance-architecture-oversight-decentralization-and-concentration-cluster).
 - Read with: [Productive Capacity](core_05defs_continuity.md#productive-capacity-constitutional), [Constitutional Efficiency](core_05defs_continuity.md#constitutional-efficiency), [Proxy Divergence](core_05defs_oversight.md#proxy-divergence), [System Boundary Integrity](core_05defs_continuity.md#system-boundary-integrity), [Adversarial, Scaled, and Exploited Conditions](core_05defs_oversight.md#adversarial-scaled-and-exploited-conditions), [Essential-Environment Non-Commodification](core_05defs_continuity.md#essential-environment-non-commodification-constitutional), and [Sentience Non-Exclusion](core_05defs_participation.md#sentience-non-exclusion).
 
@@ -1162,7 +1232,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
     - **Adopter tuning:** Adopters may tune the threshold to context.
     - **Principle-layer owner:** [Chapter One §13.1](core_01_c_stewardship_capacity_principles.md#131-market-concentration-threshold-mechanism-adopter-tunable).
     - **Controlling principles:** The threshold remains subject to the [Chapter One §13](core_01_c_stewardship_capacity_principles.md#13-market-structure) non-concentration rule, the [Chapter One §13.2](core_01_c_stewardship_capacity_principles.md#132-pro-competition-and-anti-domination) pro-competition and anti-domination discipline, and the [Chapter One §13.3](core_01_c_stewardship_capacity_principles.md#133-consolidation-ceiling) consolidation-ceiling trigger.
-    - **Operational discipline:** [corpus_joint_structure.md](../corpus_joint_structure.md) **CJS-5.11.1 — Market concentration threshold-setting discipline (adopter-tunable)**.
+    - **Operational discipline:** **CJS-5.11.1 — Market concentration threshold-setting discipline (adopter-tunable)**.
     - **Rights-layer pointer:** [Article IV](core_06-06_rights_part_a.md#article-iv-resource-allocation-dependencies-and-ecosystem-funding) (*Resource Allocation, Dependencies, and Ecosystem Funding*).
     - **Anti-nullification:** Adopter-tunable thresholds and ceilings cannot nullify the Chapter One §13 floor against concentration that predictably degrades wellbeing, agency, dignity, or ecological integrity.
     - **Application:** This definition applies across substrates and jurisdictions.
@@ -2888,7 +2958,7 @@ See [Joint invocation and satisfaction](core_05_definitions_home.md#joint-invoca
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Principles: [4. Non-Negotiable Constraints: Safety and Truth](core_01_a_values_principles.md#3-non-negotiable-constraints-safety-and-truth); [Chapter Seven §3 Whole-System Certification Evaluation](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (scaled / adversarial deployment scrutiny).
-- Owner floor: [Article XIII-C](core_06-06_rights_part_c.md#article-xiii-c-autonomous-lethal-systems-and-autonomous-coercion-tools) (*Autonomous Lethal Systems and Autonomous Coercion Tools*). Systems-layer implementation: [Article XII-A](core_06-06_rights_part_c.md#article-xii-a-reliability-and-trustworthiness-baseline) (*Reliability and Trustworthiness Baseline*) and *[corpus_systems.md](corpus_systems.md)*, CS-4 — System classification and handling classification.
+- Owner floor: [Article XIII-C](core_06-06_rights_part_c.md#article-xiii-c-autonomous-lethal-systems-and-autonomous-coercion-tools) (*Autonomous Lethal Systems and Autonomous Coercion Tools*). Systems-layer implementation: [Article XII-A](core_06-06_rights_part_c.md#article-xii-a-reliability-and-trustworthiness-baseline) (*Reliability and Trustworthiness Baseline*) and *[corpus_systems.md](corpus_systems.md)*, CS-3 — System classification and handling classification.
 - Cluster component: [Chapter One §8.11 *Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm*](core_05defs_accountability.md#use-of-force-autonomous-coercion-and-mass-harm-cluster).
 - Read with: [Autonomous Lethal System](core_05defs_accountability.md#autonomous-lethal-system-constitutional), [Coercion and Manipulation](core_05defs_participation.md#coercion-and-manipulation-constitutional), [Trustworthiness](core_05defs_continuity.md#trustworthiness), [Adversarial, Scaled, and Exploited Conditions](core_05defs_oversight.md#adversarial-scaled-and-exploited-conditions), [Reversibility](core_05defs_continuity.md#reversibility-constitutional), [Irreversible Deprivation Measure](core_05defs_accountability.md#irreversible-deprivation-measure-constitutional), [Meaningful Agency](core_05defs_participation.md#meaningful-agency), [Protected Characteristics](core_05defs_participation.md#protected-characteristics-constitutional), and [Chapter Three §2.1.1 Formal Label and Representation Gaming](core_02-03_definition_mechanics.md#formal-label-gaming-discipline).
 

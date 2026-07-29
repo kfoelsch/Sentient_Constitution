@@ -169,7 +169,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 - Canonical owner: [Chapter Seven — System Alignment Certification](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) (*process, record contents, supervisory sequence, and standing-record bridge*); read with [Constitutional Owner Layers](core_05defs_integrative.md#constitutional-owner-layers).
 - Cluster component: [System Alignment Certification and Certification Record](core_05defs_continuity.md#system-alignment-certification-semi-independent).
 - Downstream: [Chapter Eight — Standing records and verified-input gate](core_08-08_standing_assessment.md#2-standing-records); [Chapter Eleven](core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) (*forum supervision*); [Article III-A](core_06-06_rights_part_a.md#article-iii-a-survival) (*survival-essential access floor where certification gates delivery or continued operation*); [Article IV-A](core_06-06_rights_part_a.md#article-iv-a-dependency-mapping-and-resource-flow-transparency) (*Dependency Mapping and Resource-Flow Transparency*) and [Article IV-B](core_06-06_rights_part_a.md#article-iv-b-cross-system-fairness-and-sustainability) (*resource allocation and dependency stewardship where certification gates shared-infrastructure reliance*).
-- Read with: [System Alignment Certification Record](core_05defs_continuity.md#system-alignment-certification-record-constitutional); [Dependency and cross-system support](core_05defs_continuity.md#dependency-and-cross-system-support-semi-independent) where shared-infrastructure reliance or Article IV resource stewardship is materially implicated; [Classification-Scaled Governance](core_05defs_oversight.md#classification-scaled-governance), [Auditability](core_05defs_oversight.md#auditability), [Contestability](core_05defs_accountability.md#contestability), [Timely Resolution](core_05defs_accountability.md#timely-resolution-constitutional), [Verified Inputs for Standing](core_05defs_accountability.md#verified-inputs-for-standing), [Standing Record](core_05defs_accountability.md#standing-record-chapter-six), [Trustworthiness](core_05defs_continuity.md#trustworthiness), [System Boundaries](core_05defs_continuity.md#system-boundaries), [Charter](core_05defs_continuity.md#charter), [System Capture](core_05defs_continuity.md#system-capture), and [corpus_systems.md](corpus_systems.md) **CS-4 — System classification and handling**.
+- Read with: [System Alignment Certification Record](core_05defs_continuity.md#system-alignment-certification-record-constitutional); [Dependency and cross-system support](core_05defs_continuity.md#dependency-and-cross-system-support-semi-independent) where shared-infrastructure reliance or Article IV resource stewardship is materially implicated; [Classification-Scaled Governance](core_05defs_oversight.md#classification-scaled-governance), [Auditability](core_05defs_oversight.md#auditability), [Contestability](core_05defs_accountability.md#contestability), [Timely Resolution](core_05defs_accountability.md#timely-resolution-constitutional), [Verified Inputs for Standing](core_05defs_accountability.md#verified-inputs-for-standing), [Standing Record](core_05defs_accountability.md#standing-record-chapter-six), [Trustworthiness](core_05defs_continuity.md#trustworthiness), [System Boundaries](core_05defs_continuity.md#system-boundaries), [Charter](core_05defs_continuity.md#charter), [System Capture](core_05defs_continuity.md#system-capture), and [corpus_systems.md](corpus_systems.md) **CS-3 — System classification and handling**.
 
 </details>
 
@@ -2290,7 +2290,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     It supports institutional creation under [System Creation](core_05defs_participation.md#system-creation-constitutional) and [Business Creation](core_05defs_participation.md#business-creation-constitutional) by making operated scope reviewable without narrowing those floors. Adopt, amend, and supervise mechanics route to [corpus_institutions.md](corpus_institutions.md) under **Chapter Sixteen** incorporation discipline.
   - **Out of scope:**
     - treating Charter text as a substitute for System Boundaries;
-    - treating Charter text as proof of classification under CS-4; and
+    - treating Charter text as proof of classification under CS-3; and
     - treaties, compacts, or charters under Chapter Twelve that found or authorize a political community (different meaning of "charter").
 <a id="charter-a"></a>
 - **How to measure and assess**
@@ -3536,7 +3536,7 @@ See [Joint invocation and satisfaction](core_05_definitions_home.md#joint-invoca
 
 - Downstream: Participation measurement family (*Privacy and data stewardship as constitutional measurement*); Principles: [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency), [4. Non-Negotiable Constraints: Safety and Truth](core_01_a_values_principles.md#3-non-negotiable-constraints-safety-and-truth), [§6.2.3 Privacy and Informational Self-Determination](core_01_b_interaction_interpretation.md#623-privacy-and-informational-self-determination), and Chapter Six privacy-distribution articles where informational handling affects agency, dignity, security, or truth.
 - Downstream: [Article VII-A](core_06-06_rights_part_b.md#article-vii-a-self-ownership-of-body-and-mind) (*self-ownership of body and mind*); [Article VII-B](core_06-06_rights_part_b.md#article-vii-b-internal-state-boundary-and-type-n-protection) (*internal-state boundary and Type N protection*); [Article VIII](core_06-06_rights_part_b.md#article-viii-likeness-experiential-data-and-publication-rights) (*likeness, experiential data, and publication rights*); [Article IX-A](core_06-06_rights_part_b.md#article-ix-a-agency-and-freedom-from-manipulation) (*agency and freedom from manipulation*); [Article XIII-A](core_06-06_rights_part_c.md#article-xiii-a-security-intelligence-and-covert-power-limits) (*security, intelligence, and covert-power limits*).
-- Read with: Apply [Consent](core_05defs_participation.md#consent-constitutional), [Truth (Constitutional Constraint)](core_05defs_oversight.md#truth-constitutional-constraint), [Dignity and Equal Moral Standing](core_05defs_participation.md#dignity-and-equal-moral-standing), [Coercion and Manipulation](core_05defs_participation.md#coercion-and-manipulation-constitutional), [Meaningful Agency](core_05defs_participation.md#meaningful-agency), [Necessity](core_05defs_accountability.md#necessity), [Proportionality](core_05defs_accountability.md#proportionality), [Protected Internal-State Boundary](core_05defs_continuity.md#protected-internal-state-boundary-constitutional), [Surveillance Boundary](core_05defs_continuity.md#surveillance-boundary), and **[corpus_systems.md](corpus_systems.md), CS-3 — Information types and handling** where Type N or comparable handling is implicated.
+- Read with: Apply [Consent](core_05defs_participation.md#consent-constitutional), [Truth (Constitutional Constraint)](core_05defs_oversight.md#truth-constitutional-constraint), [Dignity and Equal Moral Standing](core_05defs_participation.md#dignity-and-equal-moral-standing), [Coercion and Manipulation](core_05defs_participation.md#coercion-and-manipulation-constitutional), [Meaningful Agency](core_05defs_participation.md#meaningful-agency), [Necessity](core_05defs_accountability.md#necessity), [Proportionality](core_05defs_accountability.md#proportionality), [Protected Internal-State Boundary](core_05defs_continuity.md#protected-internal-state-boundary-constitutional), [Surveillance Boundary](core_05defs_continuity.md#surveillance-boundary), and **[corpus_systems.md](corpus_systems.md), CS-2 — Information types and handling** where Type N or comparable handling is implicated.
 
 - Constitutional frame: **Continuity** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](core_05defs_oversight.md#materiality-determination).
 - Cross-leg note: integrative with **Participation** and **Oversight**.
@@ -3549,7 +3549,7 @@ See [Joint invocation and satisfaction](core_05_definitions_home.md#joint-invoca
 
 - **Scope:** the canonical O/M/A/C home for **Privacy (Informational)**, **Protected Internal-State Boundary**, and **Surveillance Boundary**, and the peer-level joint-invocation home for distributed privacy coverage across Chapter Six articles under [Joint invocation and satisfaction](core_05_definitions_home.md#joint-invocation-and-satisfaction).
 - **Admission scope:** privacy matters that materially implicate more than one article-level locus in the members list, or where informational handling, internal-state protection, or surveillance-boundary analysis is materially interdependent. Outside that scope, individual definitions may operate alone.
-- **Operational alignment:** data handling must align with **[corpus_systems.md](corpus_systems.md), CS-3 — Information types and handling**, including Type N protections for internal-state data and proportional safeguards for all classified data types.
+- **Operational alignment:** data handling must align with **[corpus_systems.md](corpus_systems.md), CS-2 — Information types and handling**, including Type N protections for internal-state data and proportional safeguards for all classified data types.
 - **Anti-bypass:** privacy matters within admission scope must not be segmented across articles or definitions to satisfy one article's standard while evading another's materially implicated discipline, or to isolate privacy analysis from internal-state-boundary or surveillance-boundary assessment where those protections materially intersect. Anti-read-across for standard-setting remains as stated in Chapter Five Chapter One §8.3.
 
 See [Joint invocation and satisfaction](core_05_definitions_home.md#joint-invocation-and-satisfaction).
@@ -3624,6 +3624,14 @@ See [Joint invocation and satisfaction](core_05_definitions_home.md#joint-invoca
 
 ##### Protected Internal-State Boundary
 
+<a id="identity-data-protection"></a>
+
+##### Identity Data Protection
+
+- **What it is**
+  - **In scope:** identity and attribution data (Type H, I) may not be used to expose or reconstruct internal and cognitive data (Type N), including by inferring internal states from identity-linked signals.
+  - **Core constraint:** no system may use identity-linked data to infer internal states without **explicit consent** or **justified override** under **CJS-5.12** (*burden-of-justification and constraint terms*).
+
 - **What it is**
   - **In scope:** The boundary protecting a sentient's internal states that are:
     - cognitive;
@@ -3654,7 +3662,7 @@ See [Joint invocation and satisfaction](core_05_definitions_home.md#joint-invoca
 
     **Secondary assessment:** When evaluating the primary trace, evaluate whether:
     - the practice reconstructs or pressures protected states even if it avoids direct recording; and
-    - Type N is implicated — if so, apply **[corpus_systems.md](corpus_systems.md), CS-3 — Information types and handling**.
+    - Type N is implicated — if so, apply **[corpus_systems.md](corpus_systems.md), CS-2 — Information types and handling**.
 <a id="protected-internal-state-boundary-constitutional-c"></a>
 - **What must hold**
   - **Primary failure:** obtaining or exploiting protected internal states without the required narrow predicate, safeguards, and contestability, by means including:
@@ -3819,7 +3827,7 @@ See [Joint invocation and satisfaction](core_05_definitions_home.md#joint-invoca
 <a id="trustworthiness-o"></a>
 - **What it is**
   - **In scope:** Reliability of system behavior relative to stated properties — demonstrated through observable, verifiable conduct over time across normal, degraded, and stressed conditions — sufficient to justify [Trust](core_05defs_continuity.md#trust). Trustworthiness encompasses:
-    - evidentiary basis grounded in observable behavior and attributable actions;
+    - evidentiary basis grounded in observable behavior and [Attributable Action](core_05defs_accountability.md#attributable-action-constitutional);
     - psychological safety conditions enabling [Meaningful Agency](core_05defs_participation.md#meaningful-agency);
     - transparent, auditable, and contestable methodology;
     - class-scaled assessment for non-**Class P** systems;
@@ -3836,7 +3844,7 @@ See [Joint invocation and satisfaction](core_05_definitions_home.md#joint-invoca
     - evidentiary basis and temporal consistency;
     - psychological safety and substantive agency;
     - modeling, methodology, and [Contestability](core_05defs_accountability.md#contestability);
-    - class-scaled assessment under CS-4;
+    - class-scaled assessment under CS-3;
     - consent and non-coercive participation;
     - justified reliance scope boundaries;
     - continuous revalidation;
