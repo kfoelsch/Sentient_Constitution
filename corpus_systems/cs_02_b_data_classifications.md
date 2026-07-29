@@ -71,7 +71,7 @@ These type letters name different kinds of data and how they are usually shared 
 
 - Topic routing (mandatory read-with): [Part A §5.0](cs_02_a_information_types_and_handling.md#50-access-posture-bands) (*Access-posture bands* — open / accessible by default).
 - Topic routing (mandatory read-with): [Part A §5.3](cs_02_a_information_types_and_handling.md#53-tiered-transparency-and-audit-access) (*Tiered transparency and audit access* — narrow-scope, time-bound, documentation, net-harm, and Type E / Type S separation rules).
-- Read with: **Part B — Type S** (*Interaction with Type E*).
+- Read with: [Part B — Type S · Interaction with Type E](#type-s-interaction-with-type-e).
 
 </details>
 
@@ -382,16 +382,35 @@ Shared consent-integrity and security-/intelligence-use record duties are in [Pa
 *In plain terms: temporary security and investigation secrets — allowed only while needed to prevent serious harm, with a clock and review, not a permanent black box.*
 
 **Definition:** Data whose disclosure would create material risk of enabling targeted or disproportionate harm, exploitation, evasion of safeguards, or compromise of critical systems or investigations. This category supports harm prevention, integrity, and response to adversarial or emergent threats. Examples include:
+
+**Exploit and compromise surfaces** — disclosure would enable targeting, unauthorized access, or system compromise:
 - **security vulnerabilities, exploit pathways, and weaknesses**
 - **sensitive topology or configuration** enabling targeting or compromise
-- **abuse detection and prevention methods** where disclosure would enable evasion
 - **de-anonymization, identity recovery, or privileged access** mechanisms whose disclosure would create material risk
-- **active investigation** data on safety, fraud, integrity, or harm prevention
+- **operational secrets, containment credentials, intervention-control material, or cryptographic material** used for containment, privileged intervention, or integrity protection — where disclosure would enable unauthorized access or compromise
+- **temporary unpatched-exploit and emergent-threat** handling materials while disclosure would enable targeted or disproportionate harm
+
+**Safeguard-evasion surfaces** — disclosure would enable evasion or gaming of protections:
+- **abuse detection and prevention methods** where disclosure would enable evasion
+- **detection signatures, thresholds, scoring models, and monitoring rules** where disclosure would enable evasion or gaming of safeguards
+- **adversary tooling, technique, and targeting** records whose disclosure would enable replication, evasion, or compromise
+
+**Active incident and containment surfaces** — disclosure would reduce effectiveness during ongoing threats:
 - **incident response procedures** where disclosure would materially reduce effectiveness during active threats
 - **emergency containment and response coordination** during active incidents
+
+**Protected investigation surfaces** — disclosure would compromise justified investigations or expose at-risk parties:
+- **active investigation** data on safety, fraud, integrity, or harm prevention
+- **protected-party, witness, or at-risk location and contact** data during justified investigations where disclosure would create material targeting risk
 - **restricted evidence** from justified investigative processes
 
-**Disclosure posture:** **Restricted while justified**; **deferred disclosure** when justification ends, under the **restricted by default** band ([Part A §5.0](cs_02_a_information_types_and_handling.md#50-access-posture-bands)). Where restriction and disclosure are both possible, systems must **demonstrate** that restriction **reduces net harm** relative to disclosure (**CJS-5.11** (*distributed and proportional authority terms*) and **CJS-5.7** (*quorum and participatory legitimacy terms*)). Existence of restricted data must be disclosed wherever feasible if disclosure does not itself create material risk, including the general nature of risk or investigation, reason for restriction, scope, and affected systems or stakeholders.
+**Disclosure posture:** **Restricted while justified**; **deferred disclosure** when justification ends, under the **restricted by default** band ([Part A §5.0](cs_02_a_information_types_and_handling.md#50-access-posture-bands)).
+- Where restriction and disclosure are both possible, systems must **demonstrate** that restriction **reduces net harm** relative to disclosure (**CJS-5.11** (*distributed and proportional authority terms*) and **CJS-5.7** (*quorum and participatory legitimacy terms*)).
+- Existence of restricted data must be disclosed wherever feasible if disclosure does **not** itself create material risk, including:
+  - the **general nature** of the risk or investigation
+  - the **reason** for restriction
+  - the **scope** of restriction
+  - **affected systems or stakeholders**
 
 ##### 8.7.1 Type S access and handling duties
 
@@ -399,34 +418,37 @@ Shared consent-integrity and security-/intelligence-use record duties are in [Pa
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Topic routing (mandatory read-with): [Part A §5.0](cs_02_a_information_types_and_handling.md#50-access-posture-bands) (*Access-posture bands* — restricted by default; time-bound and review-bound for Type S).
-- Topic routing (mandatory read-with): [Part A §5.3](cs_02_a_information_types_and_handling.md#53-tiered-transparency-and-audit-access) (*Tiered transparency and audit access* — Type S and Type E / Type S separation).
-- Read with: **Part B — Type E** (*Interaction with Type E*); **CJS-5.21** (*adversarial robustness and abuse-resistance terms*); **CJS-5.22** (*constrained-secrecy and protected-investigation terms*); **CJS-5.18** (*data-retention and lifecycle-integrity terms*).
+- Topic routing (mandatory read-with): [Part A §5.3](cs_02_a_information_types_and_handling.md#53-tiered-transparency-and-audit-access) (*Tiered transparency and audit access* — Type S and Type E / Type S separation; net-harm and time-bound limits).
+- Read with: Disclosure posture above; [Interaction with Type E](#type-s-interaction-with-type-e); **Part B — Type E**; **CJS-5.21** (*adversarial robustness and abuse-resistance terms*); **CJS-5.22** (*constrained-secrecy and protected-investigation terms*); **CJS-5.18** (*data-retention and lifecycle-integrity terms*).
 
 </details>
 
 <br>
 
-*In plain terms: secrecy is allowed only while it prevents serious harm, with a clock and real oversight — and it must not bury Type E coordination data or block audit forever.*
+*In plain terms: while Type S restriction is in force, give access only to who needs it, keep a real audit trail and a clock, release or summarize when the clock runs out — and never use Type S to bury Type E coordination data.*
 
-**Core duty.** The party applying or maintaining the restriction bears the **burden of justification**. Restriction is permitted only where **necessary** to prevent harm with **non-trivial** impact on sentients, the environment, or critical substrate systems (**CJS-5.11** (*distributed and proportional authority terms*) and **CJS-5.7** (*quorum and participatory legitimacy terms*)). All restrictions must be **necessary**, **proportionate**, **minimized** in scope and duration, and **subject to continuous re-evaluation**.
+**Core duty.** Justification predicates — including burden of justification, necessity, net-harm, minimization, oversight under constraint, and anti-normalization of secrecy — are owned by **Disclosure posture**, [Part A §5.3](cs_02_a_information_types_and_handling.md#53-tiered-transparency-and-audit-access), and **CJS-5.22** (*constrained-secrecy and protected-investigation terms*). While restriction is justified, **Type S** data must remain under **constrained, attributable access** with enforceable release discipline — not unrestricted or unreviewable secrecy.
 
 **Access.** Systems must:
-- provide **no unrestricted secrecy** without **independent, functionally effective oversight** capable of meaningful review
 - limit access to **entities necessary** to prevent, mitigate, or respond to identified risk; to authorized investigators under defined, auditable processes; and to independent oversight bodies and auditors under appropriately constrained conditions
 - keep access decisions **documented**, **attributable**, **auditable**, and **subject to review**
-- make restrictions **explicitly time-bound** at classification; subject them to periodic revalidation under **CJS-5.18** (*data-retention and lifecycle-integrity terms*); and automatically review for release, partial disclosure, or summary disclosure — if revalidation does not occur within the defined time bound, restriction expires automatically and data must be reclassified and disclosed per CS-2
-- on expiration or invalidation of justification, reclassify to the appropriate non-restricted domain (including **Type O**, **Type E**, or **G** where applicable) and disclose the data, or a sufficiently informative summary classified as **Type O** where public-baseline release applies, including nature of restricted data, justification, duration, scope of impact, oversight or authorization pathway, and outcomes/findings/corrective actions where applicable
-- where data mixes exploit-sensitive and coordination-relevant elements, disclose coordination-relevant components under **Type E** and restrict only exploit-enabling components under **Type S**, unless separation is **not technically feasible** and restriction is **explicitly justified, minimized, and time-bound**
+- make restrictions **explicitly time-bound** at classification:
+  - subject them to periodic revalidation under **CJS-5.18** (*data-retention and lifecycle-integrity terms*)
+  - automatically review for **release**, **partial disclosure**, or **summary disclosure**
+  - if revalidation does **not** occur within the defined time bound, restriction **expires automatically** and data must be reclassified and disclosed per CS-2
+- on expiration or invalidation of justification, reclassify to the appropriate non-restricted domain (including **Type O**, **Type E**, or **G** where applicable) and disclose the data, or a sufficiently informative summary classified as **Type O** where public-baseline release applies, including:
+  - **nature** of the restricted data
+  - **justification** and **duration**
+  - **scope of impact**
+  - **oversight or authorization** pathway
+  - **outcomes, findings, or corrective actions** where applicable
+
+<a id="type-s-interaction-with-type-e"></a>
+**Interaction with Type E.** Mixed **Type E** / **Type S** separation rules are in [Part A §5.3](cs_02_a_information_types_and_handling.md#53-tiered-transparency-and-audit-access). In addition:
+- a **Type O** public notice or baseline summary does **not** satisfy **Type E** accessibility, timeliness, or anti-suppression duties for an underlying coordination stream that remains necessary for harm prevention, coordination, or response
 
 **Handling — prohibited.** Systems managing **Type S** data must **not:**
-- **conceal** constitutional violations, negligence, systemic harm, or externalized cost; avoid accountability, audit, or reputational consequence; or delay or prevent disclosure of **Type E** coordination-relevant data
-- treat a **Type O** public notice or baseline summary as satisfying **Type E** accessibility, timeliness, or anti-suppression duties for an underlying coordination stream that remains necessary for harm prevention, coordination, or response
-- maintain **indefinite or open-ended** secrecy without **renewed, documented** justification
-- use this classification to **prevent independent audit or oversight**
-- **expand** restriction scope beyond what is necessary to mitigate identified risk
 - **aggregate or retain** restricted data beyond justified purpose
-- **reclassify into this domain** for convenience, risk avoidance, or institutional protection
-- **fail to release or summarize** once restriction is no longer justified
 - **collect or generate** restricted data beyond what is necessary for justified risk mitigation, investigation, or response
 
 ---
