@@ -35,7 +35,7 @@
 
 *In plain terms: you cannot run a serious institution on vibes and vanity metrics. If continuity depends on a resource, name it, stress-test it, and do not let pay schemes reward the sentients who weaken it.*
 
-*Shared rules live elsewhere.* Resource and continuity dependency evaluation is in [corpus_joint_structure.md](../corpus_joint_structure.md) **CJS-5.16** (*dependency integrity and disclosure terms*), especially **Resource and continuity dependency adequacy**. Severe control failure, verified misconduct, evidence custody, and resilience claims are read with **CJS-5.6** (*integrity assurance and resilience operations*). **CI-11** does not repeat those floors; it keeps only institutional stewardship triggers, consequence interfaces, and fiscal-allocation alignment duties.
+*Shared rules live elsewhere.* Resource and continuity dependency evaluation is in **CJS-5.16** (*dependency integrity and disclosure terms*), especially **Resource and continuity dependency adequacy**. Severe control failure, verified misconduct, evidence custody, and resilience claims are read with **CJS-5.6** (*integrity assurance and resilience operations*). **CI-11** does not repeat those floors; it keeps only institutional stewardship triggers, consequence interfaces, and fiscal-allocation alignment duties.
 
 ### CI-11.1: Continuity planning and consequence interface
 

@@ -40,7 +40,7 @@
 
 - **[CJS-5.17](../corpus_joint_structure.md)** (*interoperability, portability, and exit-integrity terms*) — high-vulnerability personal-service pathway integrity: lawful access, practical exit, non-retaliatory reporting, proportionate due care, and anti-pretext separation between ordinary regulation and exploitation response.
 - **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) in **Chapter Six** — decriminalization floor, exploitation proscriptions, nondiscrimination, general-market integration, anti-circumvention, and transition relief. **Articles X-A**, **V-B**, **I-C**, **IV-A**, and **IV-C** and **Chapter Five** (*Protected Characteristics*, *Consent*, *Coercion and Manipulation*) remain the rights single home alongside **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*).
-- **`corpus_systems.md`** — **CS-4** classification examples for market-mediated personal-service platforms; **CS-5** stewardship scaling where platform, data, or system stewardship is material.
+- **`corpus_systems.md`** — **CS-3** classification examples for market-mediated personal-service platforms; **CS-4** stewardship scaling where platform, data, or system stewardship is material.
 - **CI-19 scope** — does not repeat those floors; states **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) application-file owner duties for authorization, enforcement separation, transition records, and remedy routing.
 
 **Apply**

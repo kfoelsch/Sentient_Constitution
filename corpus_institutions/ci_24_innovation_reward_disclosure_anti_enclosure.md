@@ -41,7 +41,7 @@
 - **[CJS-5.17](../corpus_joint_structure.md)** (*interoperability, portability, and exit-integrity terms*) — innovation reward boundary and anti-enclosure controls; access-preserving reward and anti-warehousing controls; innovation-reward duration and reclassification controls (including publication-based timing and dependency-critical tightening).
 - **Chapter Five** (*Innovation Reward and Anti-Enclosure*) and **Article XVII-D** (*Innovation Reward, Disclosure, and Anti-Enclosure*) in **Chapter Six** — constitutional reward structure, temporary exclusivity limits, disclosure condition, public-interest floor, domain carve-outs, and reclassification duties.
 - **[CJS-5.12](../corpus_joint_structure.md)** (*burden of justification and constraint terms*) — proportionality and burden scaling where reward claims affect material dependency or access burden.
-- **`corpus_systems.md`** **CS-4** — system classification and handling where innovation reward must scale with class, dependency, and coordination effects.
+- **`corpus_systems.md`** **CS-3** — system classification and handling where innovation reward must scale with class, dependency, and coordination effects.
 - **CI-24 scope** — does not repeat those floors; states institutional registry, claim-record, access-order, sunset, specialist-review, and appeal duties.
 
 **Apply**
@@ -63,7 +63,7 @@
 **2. Reward proportionality and class treatment**
 
 - **evidence-record owner** — who keeps the local file showing how reward scaling and class treatment were decided;
-- **claim-record format** — the standard record layout for proportionality analysis under **CJS-5.17** (*interoperability, portability, and exit-integrity terms*) and **CS-4** where system class is material; and
+- **claim-record format** — the standard record layout for proportionality analysis under **CJS-5.17** (*interoperability, portability, and exit-integrity terms*) and **CS-3** where system class is material; and
 - **class and dependency linkage** — how **Class A**, **Class B**, and **Class C** or dependency-critical status triggers tighter review or access-preserving reward tools.
 
 **3. Public-interest and corrective pathways**

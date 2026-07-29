@@ -542,7 +542,7 @@ On invalidity determination, adopters must publish a time-bounded remediation pl
 - Upstream: [§4](#9-test-3-authority-chain-and-custody-validity) custody validity; [Chapter Fourteen Chapter One §8.1](core_13-15_amendment.md#31-internal-hierarchy-for-adopters) internal hierarchy for adopters.
 - Subsections: [§11.1](#111-deliberate-adoption)–[§11.3](#113-joining-by-additional-parties).
 - Downstream: [§12](#11-amendment-procedure-requirements) notice and recorded effectiveness.
-- Read with: **[corpus_systems.md](corpus_systems.md)**, **CS-4 — System classification and handling** classification referenced in §11.1; [Chapter Five *Corpus*](core_05defs_integrative.md#corpus).
+- Read with: **[corpus_systems.md](corpus_systems.md)**, **CS-3 — System classification and handling** classification referenced in §11.1; [Chapter Five *Corpus*](core_05defs_integrative.md#corpus).
 
 </details>
 
@@ -564,7 +564,7 @@ On invalidity determination, adopters must publish a time-bounded remediation pl
 
 *In plain terms: binding adoption has to be explicit, recorded, and auditable to the scale of the system — quiet or partial "we kind of follow it" does not let an operator claim constitutional protection while dodging obligations.*
 
-This Constitution binds a steward, organization, federation of bodies, or jurisdiction only when adoption is deliberate, documented, and auditable. Auditability must meet a standard proportionate to system class, material impact, and dependency under **[corpus_systems.md](corpus_systems.md), CS-4 — System classification and handling**. Informal, partial, or undisclosed adoption is insufficient to claim constitutional protections as a shield while denying corresponding obligations.
+This Constitution binds a steward, organization, federation of bodies, or jurisdiction only when adoption is deliberate, documented, and auditable. Auditability must meet a standard proportionate to system class, material impact, and dependency under **[corpus_systems.md](corpus_systems.md), CS-3 — System classification and handling**. Informal, partial, or undisclosed adoption is insufficient to claim constitutional protections as a shield while denying corresponding obligations.
 
 #### 10.2 Instrument of Adoption
 <details>

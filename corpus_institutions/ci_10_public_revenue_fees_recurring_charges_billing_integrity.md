@@ -35,7 +35,7 @@
 
 *In plain terms: if money touches access, the charge design must match the system's real importance — and sentients must be able to see what they owe, challenge unfair fees, and leave recurring charges through a published path that actually works.*
 
-*Shared rules live elsewhere.* Class-aligned revenue and access-burden terms are in [corpus_joint_structure.md](../corpus_joint_structure.md) **CJS-5.12** (*burden of justification and constraint terms*). Commitment, renewal, and charge-exit terms are in **CJS-5.17** (*interoperability, portability, and exit-integrity terms*). **CI-10** does not repeat those floors; it keeps only institutional fiscal-map, supervision, and reporting duties.
+*Shared rules live elsewhere.* Class-aligned revenue and access-burden terms are in **CJS-5.12** (*burden of justification and constraint terms*). Commitment, renewal, and charge-exit terms are in **CJS-5.17** (*interoperability, portability, and exit-integrity terms*). **CI-10** does not repeat those floors; it keeps only institutional fiscal-map, supervision, and reporting duties.
 
 ### CI-10.1: Public revenue, user fees, and class-aligned burden
 <details>

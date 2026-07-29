@@ -223,7 +223,7 @@ Access-control integrity and anti-concealment
 - OP-C: Access design is non-compliant if it hides systemic behavior or blocks meaningful challenge.
 
 Class A/B/C public-interest visibility
-- OP-O: For Class A, Class B, and Class C systems, public baseline access must cover the system purpose, classification, dependency structure, operational status, material risks, performance, failures, governance, audit outcomes, stakeholder effects, and constitutional compliance, subject to `corpus_systems.md` CS-3 — Information types and handling data handling.
+- OP-O: For Class A, Class B, and Class C systems, public baseline access must cover the system purpose, classification, dependency structure, operational status, material risks, performance, failures, governance, audit outcomes, stakeholder effects, and constitutional compliance, subject to `corpus_systems.md` CS-2 — Information types and handling data handling.
 - OP-E: Evaluation must verify that protected data limits are handled through the maximum feasible public substitute, such as aggregation, de-identification, summary disclosure, delayed disclosure, or qualified audit access.
 - OP-C: It is non-compliant to use privacy, security, confidentiality, proprietary interest, or investigation status to suppress public-interest visibility where a narrower substitute would preserve accountability.
 
@@ -439,7 +439,7 @@ Three-lines assurance model
 - OP-C: It is non-compliant to treat assurance as satisfied when the challenged operational owner also controls the only review or assurance path without an independence safeguard, or when record custody cannot support reconstruction across transfers.
 
 Default **NUL** bands (adopting instruments may tighten but must not weaken without lawful authority):
-- **NUL-1 (immediate):** Active ongoing harm; unlawful **Type N** access, exposure, or reconstruction risk under `corpus_systems.md` **CS-3 — Information types and handling**; active corruption, fraud, or capture in progress; or control collapse affecting rights pathways — internal escalation and affected-party notice without unjustified delay; supervisory, assurance-line, and public declaration as soon as containment posture allows without destroying lawful investigation integrity where **Type S** or protected-investigation constraints apply.
+- **NUL-1 (immediate):** Active ongoing harm; unlawful **Type N** access, exposure, or reconstruction risk under `corpus_systems.md` **CS-2 — Information types and handling**; active corruption, fraud, or capture in progress; or control collapse affecting rights pathways — internal escalation and affected-party notice without unjustified delay; supervisory, assurance-line, and public declaration as soon as containment posture allows without destroying lawful investigation integrity where **Type S** or protected-investigation constraints apply.
 - **NUL-2 (expedited):** Confirmed breach, integrity failure, or verified **CI-5.3** corruption or fraud trigger with material but contained impact — notice to affected parties and the independent assurance line within a published expedited window materially shorter than routine reporting.
 - **NUL-3 (standard):** Material control weakness or integrity finding requiring cure but not active ongoing exposure — notice within a published standard incident window and inclusion in the next required control declaration if not cured.
 - **NUL-4 (routine):** Baseline controls attestation and non-urgent assurance reporting only — published annual or other routine cadence.

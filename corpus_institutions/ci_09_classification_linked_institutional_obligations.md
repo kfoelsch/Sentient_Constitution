@@ -27,7 +27,7 @@
 
 **Quick orientation**
 
-- **The basic idea** — when an institution's duties depend on system class under **CS-4** or stewardship tier under **CS-5**, apply the **strictest** burden that fits the affected scope. You cannot use a lower class label to dodge stronger duties.
+- **The basic idea** — when an institution's duties depend on system class under **CS-3** or stewardship tier under **CS-4**, apply the **strictest** burden that fits the affected scope. You cannot use a lower class label to dodge stronger duties.
 - **CI-9.1** — formation and authorization burdens that scale with impact: easy paths for low-risk (**Class P**) contexts, deeper diligence for high-dependency (**Class A** / **Class B**) contexts.
 - **CI-9.2** — a published map of which industries and domains the institution supervises, how they are classified, and when reclassification is required.
 - **CI-9.3** — rules for delegated subunits and hybrid decision bodies: who they are, what they may decide, how members are composed, and how long rotating or home-based terms run.
@@ -35,7 +35,7 @@
 
 *In plain terms: classification is not a decorative label. It is the dial that sets how hard institutions must work — and the dial must match reality, stay published, and tighten when dependency or risk grows.*
 
-*Shared rules live elsewhere.* Class- and tier-scaling terms are in [corpus_joint_structure.md](../corpus_joint_structure.md) **CJS-5.11** (*distributed and proportional authority terms*), especially **Classification-scaled governance burden**. **CI-9** does not repeat those floors; it keeps only the institutional application across formation, authorization, oversight, mapping, delegated-subunit, and related duties.
+*Shared rules live elsewhere.* Class- and tier-scaling terms are in **CJS-5.11** (*distributed and proportional authority terms*), especially **Classification-scaled governance burden**. **CI-9** does not repeat those floors; it keeps only the institutional application across formation, authorization, oversight, mapping, delegated-subunit, and related duties.
 
 Apply **CJS-5.11** **Classification-scaled governance burden** for the shared class- and tier-scaling rule.
 
@@ -144,7 +144,7 @@ Apply **CJS-5.16** **Domain and sector classification mapping** for the shared d
 
 *In plain terms: when an institution creates a subunit or hybrid decision body to share authority, the rules must be written down before sentients serve — who the parent is, what the subunit may decide, who sits on it, how long they serve, and what safeguards stop the subunit from becoming a shadow power structure.*
 
-Apply **CJS-4.1** (*Hybrid delegated authority (delegated binding bodies)*) and **CJS-4.5** (*Shared procedural abstractions for delegated bodies and forum routing*) for shared delegated-body abstractions. **CI-9.3** through **CI-9.3.4** state only institutional design-class, applicability, identification, authority-composition exception, rotating-attachment, and home-based term duties for delegated subunits at or above **Class C** under the highest published **CS-4 — System classification and handling** class.
+Apply **CJS-4.1** (*Hybrid delegated authority (delegated binding bodies)*) and **CJS-4.5** (*Shared procedural abstractions for delegated bodies and forum routing*) for shared delegated-body abstractions. **CI-9.3** through **CI-9.3.4** state only institutional design-class, applicability, identification, authority-composition exception, rotating-attachment, and home-based term duties for delegated subunits at or above **Class C** under the highest published **CS-3 — System classification and handling** class.
 
 ### CI-9.3.1: Identification and competence
 <details>

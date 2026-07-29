@@ -1206,4 +1206,3 @@ Seeded in draft until tabletop pass evidence is filed under `evidence/<YYYY-MM-D
 - Continuity / Recovery (0-10): `8.4`
 - Delta vs prior comparable run: `Reinstated 2026-04-23 after 2026-04-17 token-reduction suspension; snapshot reset to single baseline.`
 - Confidence: `medium`
-

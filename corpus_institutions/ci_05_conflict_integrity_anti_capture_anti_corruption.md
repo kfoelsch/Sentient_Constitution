@@ -59,7 +59,7 @@
 
 *In plain terms: cross-institution anti-capture rules live in **CJS-5.6** (*integrity assurance and resilience operations*) — including the shared control stack and sortition or civic-lottery integrity floors. **CI-5** does not repeat those rules; each institution applies them locally.*
 
-Apply [corpus_joint_structure.md](../corpus_joint_structure.md) **CJS-5.6** **Shared anti-capture control stack** and **Sortition and civic-lottery integrity controls** for the shared floors.
+Apply **CJS-5.6** **Shared anti-capture control stack** and **Sortition and civic-lottery integrity controls** for the shared floors.
 
 
 ### CI-5.2: Institutional owner files and named routes

@@ -38,7 +38,7 @@ This family operationalizes the **Accountability** leg of the [Constitutional Te
 - Read with: **CJS-5.3 — Auditability**
 - Read with: **CJS-5.15** (*Accountability: structural review, correction urgency, and disclosure terms*) and **CJS-5.6** (*Oversight: integrity assurance and resilience operations*) — Evolution, Revalidation, and Non-Entrenchment
 - Read with: **CJS-5.13 — Procedural Integrity and Adjudication**
-- Read with: `corpus_systems.md` **CS-5 — Critical system stewardship**
+- Read with: `corpus_systems.md` **CS-4 — Critical system stewardship**
 - Constitutional frame: **Accountability** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05defs_oversight.md#materiality-determination).
 - Finding profile (default): `A·F·SSP` — [Non-Compliance Finding Profile](../core_05defs_accountability.md#non-compliance-finding-profile); use **CCL** layer and **structural** or **stewardship** **failure character** when undocumented authority, capture, or concentration is material; add **severity tier** **T1**–**T4** per finding ([Chapter Three, section 3](../core_02-03_definition_mechanics.md#3-non-compliance-finding-profiles)).
 - Chapter One basis: Chapter One §7.1, §3, §4.2, §12.2, §6, [§13.1](../core_01_c_stewardship_capacity_principles.md#131-market-concentration-threshold-mechanism-adopter-tunable), [§13.2](../core_01_c_stewardship_capacity_principles.md#132-pro-competition-and-anti-domination) (see [cluster map](#cjs-51-constitutional-compass-and-cluster-map)).
@@ -193,13 +193,13 @@ Baseline governance accountability conditions
 - OP-C: Authority insulated from meaningful review is non-compliant.
 
 Classification-scaled governance burden
-- OP-O: Where an institution's duties depend on `corpus_systems.md` **CS-4 — System classification and handling** classes or **CS-5 — Critical system stewardship** stewardship tiers, governance burden must scale with the applicable class and tier profile.
+- OP-O: Where an institution's duties depend on `corpus_systems.md` **CS-3 — System classification and handling** classes or **CS-4 — Critical system stewardship** stewardship tiers, governance burden must scale with the applicable class and tier profile.
 - OP-E: Evaluation must verify that formation, authorization, oversight, assurance, mapping, delegated-subunit, and related institutional duties reflect the operative classification profile for affected scope.
 - OP-C: It is non-compliant to apply a lower institutional burden than the highest applicable class or tier for affected duties, or to treat multiple classes or tiers as if the lowest burden governs when a stricter burden applies.
 
 Constitutional lane and functional separation
 - OP-O: A constitutional lane is a published functional separation with constitutionally binding duties. Required lanes include direction and policy, execution, challenge and review, assurance and audit, and publication and evidence work. One institution may host more than one lane only when independence safeguards are documented, auditable, and contestable.
-- OP-E: Reviewers must verify each lane's published function, host institution, binding duties, independence safeguards, accountable roles, and relationship to any system-class or stewardship burden under `corpus_systems.md` **CS-4 — System classification and handling** or **CS-5 — Critical system stewardship**. Institution-specific authority custody, non-delegable duties, and local delegation controls remain with **CI-3** (*Institutional design, separation of powers, and authority custody*).
+- OP-E: Reviewers must verify each lane's published function, host institution, binding duties, independence safeguards, accountable roles, and relationship to any system-class or stewardship burden under `corpus_systems.md` **CS-3 — System classification and handling** or **CS-4 — Critical system stewardship**. Institution-specific authority custody, non-delegable duties, and local delegation controls remain with **CI-3** (*Institutional design, separation of powers, and authority custody*).
 - OP-C: A lane is non-compliant if it is undefined, merged, or staffed in a way that defeats required separation, auditability, challenge, succession, or binding role accountability.
 
 Contextual and systemic evaluation discipline
@@ -283,7 +283,7 @@ burden-of-justification and constraint terms
 The sub-rules below apply that cluster floor to specific revenue and access-burden, collective-health support, disclosure, incentive-alignment, anti-enclosure, mechanism-integrity, burden-assignment, rights-collision, least-restrictive, survival-access, and revalidation dimensions. Read them together with the cluster floor and the CJS read-with chain.
 
 Class-aligned revenue and access-burden floor
-- OP-O: Taxes, fees, subscriptions, user charges, commercial-use surcharges, priority fees, or similar revenue measures that materially affect access to a governed system, institution, forum pathway, or implementation interface must align with `corpus_systems.md` **CS-4 — System classification and handling** system class, dependency, and rights-pathway risk. General extraction must not make **Class A** survival access, **Class B** normal-operation-critical access, baseline rights pathways, or ordinary access to infrastructure-like **Class C** coordination practically unavailable.
+- OP-O: Taxes, fees, subscriptions, user charges, commercial-use surcharges, priority fees, or similar revenue measures that materially affect access to a governed system, institution, forum pathway, or implementation interface must align with `corpus_systems.md` **CS-3 — System classification and handling** system class, dependency, and rights-pathway risk. General extraction must not make **Class A** survival access, **Class B** normal-operation-critical access, baseline rights pathways, or ordinary access to infrastructure-like **Class C** coordination practically unavailable.
 - OP-E: Reviewers must evaluate classification, essentiality, dependency, fee basis, disclosure, contestability, priority rules, externalized costs, commercial-scale use, concentration or gatekeeper rents, and reclassification evidence together. Commercial API, compute, bandwidth, queue-priority, model-access, or high-volume interface charges should be assessed against whether they place costs on discretionary, commercial, bulk, premium, externality-generating, or revenue-generating use rather than on baseline participation or protected access. Where a **Class C** system becomes de facto necessary for **Class A** or **Class B** dependents, fiscal treatment must be reviewed with classification.
 - OP-C: A revenue or charge structure is non-compliant if it uses survival-relevant, normal-operation-critical, baseline rights-pathway, or infrastructure-like coordination access as the primary extraction point; makes essential-like access prohibitively costly or administratively exclusionary; hides or mislabels the burden; lacks a usable contest route; discriminates outside lawful and disclosed use categories; or fails to re-evaluate classification and charge treatment when dependence or essentiality materially changes.
 
@@ -329,7 +329,7 @@ Substantive showing and least-restrictive proof
 
 Survival-critical access and voluntary-market interface
 - OP-O: Sentients must be able to reach survival-level essentials—housing, connectivity, essential resources, and comparable baseline participation—without being forced into work, market participation, premium upgrades, or discretionary spending just to clear the floor. When a governed system, public program, market interface, or supervised commercial pathway delivers that access, it must protect the floor first. Buying, selling, entrepreneurship, cooperative production, and saving may operate above the floor only within constitutional and incorporated constraints.
-- OP-E: Reviewers must examine the whole access design in one review: who qualifies, what users pay, how the market or platform is built, fraud controls, whether the floor works across regions and local costs of living, and how the system is classified. Where pricing, securities, licensing, or platform infrastructure materially controls baseline access, the review must also apply `corpus_systems.md` **CS-4 — System classification and handling** and **CS-5 — Critical system stewardship**.
+- OP-E: Reviewers must examine the whole access design in one review: who qualifies, what users pay, how the market or platform is built, fraud controls, whether the floor works across regions and local costs of living, and how the system is classified. Where pricing, securities, licensing, or platform infrastructure materially controls baseline access, the review must also apply `corpus_systems.md` **CS-3 — System classification and handling** and **CS-4 — Critical system stewardship**.
 - OP-C: An arrangement is non-compliant if survival-level access effectively requires work or market participation; if published floor amounts ignore real place-based necessity without justification; if market infrastructure evades classification-scaled stewardship; or if revenue design shifts the primary cost onto indispensable access in violation of the class-aligned revenue floor.
 
 Temporal discipline and revalidation
@@ -361,7 +361,7 @@ Temporal discipline and revalidation
 - Read with: **CJS-5.3 — Auditability**
 - Read with: **CJS-5.4 — Tiered Transparency and Audit Access**
 - Read with: **CJS-5.14 — Intervention governance and override authorization**
-- Read with: `corpus_systems.md` **CS-3 — Information types and handling** and **CS-4 — System classification and handling**
+- Read with: `corpus_systems.md` **CS-2 — Information types and handling** and **CS-3 — System classification and handling**
 - Read with: `corpus_institutions.md`
 - Read with: `corpus_forum.md`
 - Constitutional frame: **Accountability** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05defs_oversight.md#materiality-determination).
@@ -562,7 +562,7 @@ Records, transparency, and challenge pathway duties
 - Read with: **CJS-5.20** (*Continuity: reversibility and containment terms*) and **CJS-5.18** (*Continuity: data-retention and lifecycle-integrity terms*) — Reversibility and Containment
 - Read with: **CJS-5.15** (*Accountability: structural review, correction urgency, and disclosure terms*) and **CJS-5.6** (*Oversight: integrity assurance and resilience operations*) — Evolution, Revalidation, and Non-Entrenchment
 - Read with: **CJS-5.2** (*Oversight: reflexive transparency and accountability terms*) and **CJS-5.6** (*Oversight: integrity assurance and resilience operations*) — Reflexive Transparency and Accountability
-- Read with: `corpus_systems.md` **CS-3 — Information types and handling** and **CS-4 — System classification and handling**
+- Read with: `corpus_systems.md` **CS-2 — Information types and handling** and **CS-3 — System classification and handling**
 - Read with: Owner-layer-specific monitoring or publication duties.
 - Constitutional frame: **Accountability** leg; **Continuity** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05defs_oversight.md#materiality-determination).
 - Cross-leg note: pairs with **CJS-5.6** for evolution, revalidation, and non-entrenchment.

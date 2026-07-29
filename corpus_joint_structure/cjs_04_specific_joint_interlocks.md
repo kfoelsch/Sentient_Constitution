@@ -57,7 +57,7 @@ A hybrid design that names home and rotating roles but omits **CJS-4.1.2** publi
 
 - Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05_definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: this section's local operational requirements for **CJS-4.1.1 Composition floor**; [CJS-4.1.2 Attachment publication](#cjs-412-attachment-publication).
-- Read with: **CJS-4.1.1**; **CJS-4.1.2**; **CJS-4.1**; **CI-9.3.1**; **CI-9.3.2**; **CF-3.5** through **CF-3.8**; **CS-4 — System classification and handling**; **CS-5 — Critical system stewardship**.
+- Read with: **CJS-4.1.1**; **CJS-4.1.2**; **CJS-4.1**; **CI-9.3.1**; **CI-9.3.2**; **CF-3.5** through **CF-3.8**; **CS-3 — System classification and handling**; **CS-4 — Critical system stewardship**.
 
 </details>
 
@@ -193,7 +193,7 @@ The meanings of **Trust**, **Trustworthiness**, and **Trust Degradation and Misl
 
 A trustworthiness claim is non-compliant if one implementation file gives reassuring signals while another implementation file in the same chain leaves unresolved problems that defeat observable, verifiable, or contestable reliance.
 
-For implementation routing, **Class A**, **Class B**, and **Class C** systems follow [corpus_systems.md](../corpus_systems.md) **CS-4 — System classification and handling** and **CS-5 — Critical system stewardship** for class-scaled trustworthiness assurance. **Class L** and **Class P** systems follow **CS-4** criteria and limits, apply **Chapter Seven §3** evaluation discipline at proportionate depth (**Class L**, mandatory) or as encouraged practice (**Class P**), and may not evade obligations where material external effects exist.
+For implementation routing, **Class A**, **Class B**, and **Class C** systems follow [corpus_systems.md](../corpus_systems.md) **CS-3 — System classification and handling** and **CS-4 — Critical system stewardship** for class-scaled trustworthiness assurance. **Class L** and **Class P** systems follow **CS-3** criteria and limits, apply **Chapter Seven §3** evaluation discipline at proportionate depth (**Class L**, mandatory) or as encouraged practice (**Class P**), and may not evade obligations where material external effects exist.
 
 Where trust depends on multiple systems, institutions, dependencies, or implementation layers, institutions must maintain a published and auditable map that identifies:
 - the implementation duties, classification conditions, dependencies, steward duties, and assurance burdens supporting the trust claim;
@@ -241,7 +241,7 @@ Trust claims must remain consistent with **CJS-3.2** (*No false partial complian
 
 *In plain terms: high-impact roles cannot depend on one sentient. For materially binding constitutional lanes — especially under higher-risk system classes — institutions need enough qualified sentients, documented backup and succession, and real spread of knowledge so the lane stays competent without becoming fragile or captured.*
 
-Use this rule for **CJS-R18** (*Class-scaled lane staffing and competency redundancy for materially binding stewardship*), class-scaled lane staffing and competency redundancy for materially binding stewardship. It covers roles with materially binding effect under **Chapter Six**, section **5**, where `corpus_systems.md` **CS-4 — System classification and handling** or **CS-5 — Critical system stewardship** scales the burden.
+Use this rule for **CJS-R18** (*Class-scaled lane staffing and competency redundancy for materially binding stewardship*), class-scaled lane staffing and competency redundancy for materially binding stewardship. It covers roles with materially binding effect under **Chapter Six**, section **5**, where `corpus_systems.md` **CS-3 — System classification and handling** or **CS-4 — Critical system stewardship** scales the burden.
 
 Before applying role, role-holder, stewardship, operator, accountable-role, or lane terms in this subsection, apply **CJS-5.0** (*Cross-band: Role-definition preface and standing competency bar and clearance interface*), [Chapter Nine §6.2](../core_09-09_standing_integration.md#62-competency-bars-and-clearances) (*Competency bars and clearances*), and any controlling standing lock under [Chapter Nine §4.2](../core_09-09_standing_integration.md#42-general-standing-locks) or [§5.5](../core_09-09_standing_integration.md#55-special-locks).
 
@@ -256,7 +256,7 @@ Role-boundary design must balance sustained engagement with community redundancy
 
 Staffing must be real, not just numerical. Responsibility cannot be spread so thin that nobody is competent, and knowledge cannot be concentrated so tightly that the lane becomes fragile, captured, or unable to replace itself.
 
-The constitutional floor remains in `core_12-12_governance.md` **Chapter Twelve**, section **5**. Domain detail remains in **CI-3** (*Institutional design and separation of powers*), **CI-4** (*Appointment, competency, rotation, and removal*), **CI-11** (*Resource stewardship and incentive integrity*), **CI-12** (*Transparency, participation, and accessible pathways*), and `corpus_systems.md` **CS-4 — System classification and handling** and **CS-5 — Critical system stewardship**.
+The constitutional floor remains in `core_12-12_governance.md` **Chapter Twelve**, section **5**. Domain detail remains in **CI-3** (*Institutional design and separation of powers*), **CI-4** (*Appointment, competency, rotation, and removal*), **CI-11** (*Resource stewardship and incentive integrity*), **CI-12** (*Transparency, participation, and accessible pathways*), and `corpus_systems.md` **CS-3 — System classification and handling** and **CS-4 — Critical system stewardship**.
 
 ### CJS-4.5 Shared procedural abstractions for delegated bodies and forum routing
 <details>

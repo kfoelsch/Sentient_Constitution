@@ -1,8 +1,8 @@
-## CS-5: Critical system stewardship
+## CS-4: Critical system stewardship
 
 **Constitutional index (abridged)**
 - Topic-level routing and cited authorities remain in subsection text and cross-references.
-- Canonical owner map: `corpus_joint_structure.md` **CJS-2.1** (*Topic router (stable IDs)*) and `doc_architecture.md` section 4.
+- Canonical owner map: **CJS-2.1** (*Topic router (stable IDs)*) and `doc_architecture.md` section 4.
 
 **Definition:** **Critical System Stewards** are organizations whose operation, governance.
 or continuity is a **non-substitutable dependency** for the **operation, recovery, or governance** of **Class A, B, or C** systems. **They** are organizational dependencies for functioning, maintenance, recovery, or oversight.
@@ -37,10 +37,10 @@ or continuity is a **non-substitutable dependency** for the **operation, recover
 
 **Also** scale with **availability** of fallback, redundancy, and recovery pathways. Where multiple stewardship roles span classes, the **highest applicable** stewardship classification governs. **No** reduced obligations from **partial scope**, **contractual limitation**, or **formal role** where **functional dependency** indicates **higher** criticality.
 
-**Comprehensibility and complexity stewardship** (**Protocol B** / **Article XX** (*Comprehensibility and Complexity Stewardship*), `corpus_joint_structure.md` **CJS-5.8** (*comprehensibility and cognitive accessibility terms*) through **CJS-5.10** (*disclosure sufficiency and observability terms*), **CJS-5.16** (*dependency integrity and disclosure terms*), **CJS-5.19** (*graceful degradation and failure-mode integrity terms*), and **CJS-5.21** (*adversarial robustness and abuse-resistance terms*)):
-Stewards must **not** use organizational, contractual, or procedural complexity to defeat audit, intervention, or substitution (see `corpus_joint_structure.md` **CJS-5.8** (*comprehensibility and cognitive accessibility terms*), **CJS-5.10** (*disclosure sufficiency and observability terms*), **CJS-5.17** (*interoperability, portability, and exit-integrity terms*), **CJS-5.23** (*intervention and override integrity terms*), and **CJS-5.3** (*auditability and reconstructability terms*)).
+**Comprehensibility and complexity stewardship** (**Protocol B** / **Article XX** (*Comprehensibility and Complexity Stewardship*), **CJS-5.8** (*comprehensibility and cognitive accessibility terms*) through **CJS-5.10** (*disclosure sufficiency and observability terms*), **CJS-5.16** (*dependency integrity and disclosure terms*), **CJS-5.19** (*graceful degradation and failure-mode integrity terms*), and **CJS-5.21** (*adversarial robustness and abuse-resistance terms*)):
+Stewards must **not** use organizational, contractual, or procedural complexity to defeat audit, intervention, or substitution (see **CJS-5.8** (*comprehensibility and cognitive accessibility terms*), **CJS-5.10** (*disclosure sufficiency and observability terms*), **CJS-5.17** (*interoperability, portability, and exit-integrity terms*), **CJS-5.23** (*intervention and override integrity terms*), and **CJS-5.3** (*auditability and reconstructability terms*)).
 
-**CS-4 — System classification and handling interaction:** For each **Class A, B.
+**CS-3 — System classification and handling interaction:** For each **Class A, B.
 or C** system the steward materially affects, the **Comprehensibility and Complexity Stewardship** line in that system’s **Implementation label Application Profile** applies. **It** applies to steward-controlled **interfaces, documentation, tooling, and disclosed behavior** relevant to that system.
 
 The following add **organization-specific** expectations (governance structure, incentives, subcontractor chains, handoffs).
@@ -53,7 +53,7 @@ Cadence must be **at least** as demanding as **Class A** audits under **Protocol
 
 Coupling, decision rights, and degraded-mode behavior must be **intelligible** to qualified overseers.
 
-**Apply** adversarial stress on steward–system boundary in documentation and exercises (`corpus_joint_structure.md` **CJS-5.21** (*adversarial robustness and abuse-resistance terms*)).
+**Apply** adversarial stress on steward–system boundary in documentation and exercises (**CJS-5.21** (*adversarial robustness and abuse-resistance terms*)).
 
 Knowledge and recovery **must not** be **locked** in irreplaceable individuals or opaque informal practice where **standardization** is feasible.
 
@@ -86,7 +86,7 @@ Handoff and substitutability documentation must be sufficient for **contest** an
 **Conduct, conflicts of interest.
 and independence:** *Good Faith*, *Protected Reporting (Whistleblowing)*, *Coercion and Manipulation*, *Adjudication and Dispute Resolution* (a component of the **Chapter Five** cluster *Accountability, Contestability, Adjudication and Dispute Resolution, Collective Accountability Failure, and Force Majeure*), and related **Chapter Five** Independent Definitions govern meaning.
 
-**corpus_joint_structure.md CJS-5.13** (*procedural integrity and adjudication terms*) governs procedural fairness, impartiality, contestability, and review. This block adds **operational** steward requirements only.
+**CJS-5.13** (*procedural integrity and adjudication terms*) governs procedural fairness, impartiality, contestability, and review. This block adds **operational** steward requirements only.
 
 **Conflicts of interest:** Maintain **current registers** of material financial, governance, competitive, and personal ties affecting **safety**, **classification**, **audit**, **intervention**, or **resource allocation** for dependents.
 
@@ -122,7 +122,7 @@ Faith* is **non-compliance** proportional to class and tier (see **Governance an
 
 **Escalate** to independent review when internal resolution risks **credible appearance of bias** (**Article XV-A** (*Auditability and Observable Evidence*), **CJS-5.13** (*procedural integrity and adjudication terms*)).
 
-**Cross-reference:** **Articles IX, XI, XII, XVI, XIX**, **CS-4** (classification challenge, integrated risk **second line** where applicable), **CJS-5.14** (*intervention governance and override-authorization terms*) and **CJS-5.23** (*intervention and override integrity terms*), **CJS-5.2** (*reflexive transparency and accountability terms*) and **CJS-5.6** (*integrity assurance and resilience operations*), **CJS-5.12** (*burden-of-justification and constraint terms*).
+**Cross-reference:** **Articles IX, XI, XII, XVI, XIX**, **CS-3** (classification challenge, integrated risk **second line** where applicable), **CJS-5.14** (*intervention governance and override-authorization terms*) and **CJS-5.23** (*intervention and override integrity terms*), **CJS-5.2** (*reflexive transparency and accountability terms*) and **CJS-5.6** (*integrity assurance and resilience operations*), **CJS-5.12** (*burden-of-justification and constraint terms*).
 
 **Continuity, transfer, and exit integrity:** Maintain **continuous operation**, **recoverability**, and **oversight** within required operational and recovery timeframes. **That** obligation applies under **normal, degraded, and adversarial** conditions.
 
@@ -146,7 +146,7 @@ Before necessary transfer, delegation, or exit: maintain **continuity of functio
 
 **Crisis governance, communications, and exercises:** Implement **governance continuity**, **crisis communications**, and **exercises** coordinated with **Protocol A** subsection **G**.
 
-**Scale** them by **CS-4 — System classification and handling** class and **CSS-A/B/C**.
+**Scale** them by **CS-3 — System classification and handling** class and **CSS-A/B/C**.
 
 Maintain **role clarity**, **backup authority**, and communications preserving **epistemic integrity** and **auditability** without displacing **Article XVIII-A** (*Standing Distinction*), Chapter Twelve decision-resolution requirements, or **CJS-5.14** (*intervention governance and override-authorization terms*) and **CJS-5.23** (*intervention and override integrity terms*).
 
@@ -172,7 +172,7 @@ Provide **documented**, **low-friction** paths for **qualified** contributors to
 
 **Succession:** Use **deputy, backup, cross-training**, **documented handoffs** so unavailability does not eliminate **constitutional operation**, **auditability**, or **intervention**. **That** aligns with continuity/transfer above and **Protocol A**, subsection **G**; stricter for **Class A** / **CSS-A**.
 
-**Periodic oversight effectiveness review:** On cadences **proportional to class and tier**, assess whether oversight/audit/challenge (**including CS-4 — System classification and handling** item **8. Integrated Risk Governance** second line where applicable) **actually detect**, **escalate**, and **remediate** misalignment—not only paper charters.
+**Periodic oversight effectiveness review:** On cadences **proportional to class and tier**, assess whether oversight/audit/challenge (**including CS-3 — System classification and handling** item **8. Integrated Risk Governance** second line where applicable) **actually detect**, **escalate**, and **remediate** misalignment—not only paper charters.
 
 Use **independent** or **functionally independent** evaluators where **Class A/B** or **CSS-A/B** stakes require.
 
@@ -192,7 +192,7 @@ Use **independent** or **functionally independent** evaluators where **Class A/B
 
 **CSS-C — Proportional:** reviews on **material org change**, **incidents**, **classification upgrades**, plus **periodic** lightweight checks when coordination depth or coupling grows.
 
-**Cross-reference:** **Articles IX, XI, XVI**, **CS-4 — System classification and handling**, **CJS-5.11** (*distributed and proportional authority terms*) and **CJS-5.7** (*quorum and participatory legitimacy terms*), **CJS-5.13** (*procedural integrity and adjudication terms*), **Conduct** above.
+**Cross-reference:** **Articles IX, XI, XVI**, **CS-3 — System classification and handling**, **CJS-5.11** (*distributed and proportional authority terms*) and **CJS-5.7** (*quorum and participatory legitimacy terms*), **CJS-5.13** (*procedural integrity and adjudication terms*), **Conduct** above.
 
 **Intervention trigger:** Where a steward is **unable or unwilling** to maintain continuity per obligations, activate **intervention and override**. **That** activation uses **CJS-5.14** (*intervention governance and override-authorization terms*), **CJS-5.23** (*intervention and override integrity terms*), related **corpus_joint_structure.md** operational clusters, and Chapter Six rights routing.
 
@@ -256,6 +256,6 @@ Dependent organizations **inherit responsibility proportional** to dependency.
 
 ---
 
-**Previous file:** [cs_s2_system_classification_and_handling.md](cs_s2_system_classification_and_handling.md)
+**Previous file:** [cs_03_system_classification_and_handling.md](cs_03_system_classification_and_handling.md)
 
-**Next file:** [cs_protocol_s4_adaptive_sustainability_ecosystem_resilience.md](cs_protocol_s4_adaptive_sustainability_ecosystem_resilience.md)
+**Next file:** [cs_protocol_a_system_design_testing_verification_deployment.md](cs_protocol_a_system_design_testing_verification_deployment.md)

@@ -55,7 +55,7 @@ The older per-definition JSON files under `ai_corpus/definitions/` are retained 
 | `core_12-12_governance.md` | ~330 | Core | Chapter 10 (constitutional contract) |
 | `core_13-15_amendment.md` | ~640 | Core | Chapters 11-13 (non-regression, amendment) |
 | `core_16-16_incorporation.md` | ~160 | Core | Chapter 14 (incorporation bridge) |
-| `corpus_systems.md` | ~2,170 | Companion | Systems companion (CS-3–CS-5, Protocols A, B, S4, S5) |
+| `corpus_systems.md` | ~2,170 | Companion | Systems companion (CS-2–CS-4, Protocols A, B, S4, S5) |
 | `corpus_institutions.md` | ~940 | Companion | Institutional governance (CI-1 to CI-26) |
 | `corpus_forum.md` | ~1,150 | Companion | Forum operations |
 | `corpus_joint_structure.md` | ~1,730 | Companion | Cross-domain implementation layer |

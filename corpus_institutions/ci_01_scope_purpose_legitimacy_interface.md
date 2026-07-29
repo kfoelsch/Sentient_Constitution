@@ -109,7 +109,7 @@ This layer does **not**:
 
 Institutional burden must scale with impact. This subsection states the CI layer's institution-specific baseline.
 
-Apply [corpus_joint_structure.md](../corpus_joint_structure.md) **CJS-5.11** (*distributed and proportional authority terms*), **CJS-5.12** (*burden-of-justification and constraint terms*), and **CJS-5.13** (*procedural integrity and adjudication terms*) for shared proportionality, burden, and procedural read-with terms where materially applicable.
+Apply **CJS-5.11** (*distributed and proportional authority terms*), **CJS-5.12** (*burden-of-justification and constraint terms*), and **CJS-5.13** (*procedural integrity and adjudication terms*) for shared proportionality, burden, and procedural read-with terms where materially applicable.
 
 - Low-impact institutional scopes should be simple, accessible, and inexpensive to establish and operate.
 - High-impact institutional scopes must satisfy stronger diligence, assurance, transparency, and accountability duties.

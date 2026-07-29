@@ -310,7 +310,7 @@ The [Rights-Floor Minimums Principle](core_01_b_interaction_interpretation.md#ri
   - sentience-status at the threshold — **Article V-E** (*Sentience-Status Adjudication Floor*);
   - family and care relationships — **Article VII-D** (*Family, Care Relationships, Reproductive Autonomy, and Non-Separation*);
   - self-ownership — **Article VII-A / VII-B** (*Self-Ownership of Body and Mind* / *Internal-State Boundary and Type-N Protection*);
-  - internal-state protection — **Article VII-B** (*Internal-State Boundary and Type-N Protection*) and related **CS-3 — Information types and handling** typing.
+  - internal-state protection — **Article VII-B** (*Internal-State Boundary and Type-N Protection*) and related **CS-2 — Information types and handling** typing.
   
   Operational mechanics — carer designation, capability-assessment procedures, periodic-review cadence — route to incorporated implementation text under **Chapter Sixteen** and must not narrow this floor.
 
@@ -602,7 +602,7 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
   - For biological sentients, this includes genomic sequence and comparable germline or lineage-defining data.
   - For other substrates, it includes functional equivalents with an analogous specifying role.
   - Collection, use, modification, synthesis, commercialization, or disclosure requires **Consent** or another constitutionally adequate basis under **Chapter One** and **Chapter Five**.
-  - That authority operates jointly with **Privacy (Informational)**, **Article VII-B** (*Internal-State Boundary and Type-N Protection*) where applicable, and **[corpus_systems.md](corpus_systems.md), CS-3 — Information types and handling**.
+  - That authority operates jointly with **Privacy (Informational)**, **Article VII-B** (*Internal-State Boundary and Type-N Protection*) where applicable, and **[corpus_systems.md](corpus_systems.md), CS-2 — Information types and handling**.
 - **Self-ownership of mind:** Sentients have the right to hold their own thoughts, emotions, and internal cognitive states privately and securely, free from unauthorized inference, reconstruction, or exposure.
 - **Self-ownership of focus:** Sentients have the right to govern their own attention, thought processes, and ordinary communication and interaction boundaries, free from coercive or manipulative capture.
 
@@ -629,16 +629,16 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
 
 *In plain terms: no one may stitch together behavioral or interaction data to reconstruct or approximate a sentient's inner thoughts and feelings — and any analysis whose outputs do approximate those states is treated as protected internal-state data.*
 
-The constitutional boundary for internal states is defined in Chapter Five Independent Definitions (*Protected Internal-State Boundary*). Operational typing and handling are governed by **[corpus_systems.md](corpus_systems.md), CS-3 — Information types and handling**.
+The constitutional boundary for internal states is defined in Chapter Five Independent Definitions (*Protected Internal-State Boundary*). Operational typing and handling are governed by **[corpus_systems.md](corpus_systems.md), CS-2 — Information types and handling**.
 
-No one may aggregate, correlate, or process behavioral or interaction data in ways that enable reconstruction or approximation of protected internal states, except under the constitutionally valid authorities and procedures recognized by **Article VII-A** (*Self-Ownership of Body and Mind*), **Article VII-B** (*Internal-State Boundary and Type-N Protection*), **Chapter One**, **Chapter Five**, and **[corpus_systems.md](corpus_systems.md), CS-3 — Information types and handling**. That prohibition covers:
+No one may aggregate, correlate, or process behavioral or interaction data in ways that enable reconstruction or approximation of protected internal states, except under the constitutionally valid authorities and procedures recognized by **Article VII-A** (*Self-Ownership of Body and Mind*), **Article VII-B** (*Internal-State Boundary and Type-N Protection*), **Chapter One**, **Chapter Five**, and **[corpus_systems.md](corpus_systems.md), CS-2 — Information types and handling**. That prohibition covers:
 - direct reconstruction;
 - indirect reconstruction;
 - reliable approximation;
 - relabeling or proxy methods that achieve the same functional result.
 
 Where analysis of experiential or behavioral data produces outputs that functionally approximate internal cognitive or emotional states, those outputs:
-- must be treated as Type N data as defined in **[corpus_systems.md](corpus_systems.md), CS-3 — Information types and handling**;
+- must be treated as Type N data as defined in **[corpus_systems.md](corpus_systems.md), CS-2 — Information types and handling**;
 - must satisfy all corresponding classification, access, consent, and handling restrictions.
 
 #### Article VII-C: Mental-Health Crisis and Involuntary-Intervention Floor
@@ -677,7 +677,7 @@ Where analysis of experiential or behavioral data produces outputs that function
 - **No crisis-framing substitute:** "Crisis" framing does not relax the ordinary **Chapter One §5.1** limitation discipline.
   - Durable restriction dressed as continuing crisis is non-compliant where the factual predicate for crisis status is not independently reviewable, is not time-bounded, or is not subject to mandatory periodic review.
 - **No backdoor internal-state inference:** Crisis exemption does not authorize reconstruction or reliable approximation of protected internal states through behavioral, interaction, or contextual data contrary to **Article VII-B** (*Internal-State Boundary and Type-N Protection*).
-  - Where analysis of such data produces outputs that functionally approximate internal states, those outputs remain Type N under **[corpus_systems.md](corpus_systems.md), CS-3 — Information types and handling** and retain their full handling restrictions.
+  - Where analysis of such data produces outputs that functionally approximate internal states, those outputs remain Type N under **[corpus_systems.md](corpus_systems.md), CS-2 — Information types and handling** and retain their full handling restrictions.
 - **Developing sentients:** Where a developing sentient is affected, **Article V-F** (*Developing Sentients, Best-Interest, and Graduated Capability*)'s *Best-Interest Standard* and *Graduated Capability* govern the intervention's substantive reasoning.
   - Carer, family, and parent-system actors are bound by **Article V-F** (*Developing Sentients, Best-Interest, and Graduated Capability*) and **Article VII-D** (*Family, Care Relationships, Reproductive Autonomy, and Non-Separation*) and may not displace the sentient's own ascertainable preferences through crisis framing.
 - **Review and remedy:** Durable or prolonged interventions are subject to independent periodic review under a designated forum family (**Chapter Eleven**).
@@ -894,7 +894,7 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
 - **Limits on the factual-reporting exception:** Factual reporting and documentary depiction must remain materially tied to an accurate account of observable events. They do not create general authority for unrelated identity-linked reuse.
   - Such use must not substitute gratuitous intimate or irrelevant personal exposure where it is not materially relevant to the reported facts.
   - Such use must not rely on deceptive editing, misattribution, or synthetic likeness held out as authentic beyond what the truth claim supports.
-- **Operational typing:** Operational classification and handling remain governed by **[corpus_systems.md](corpus_systems.md), CS-3 — Information types and handling**.
+- **Operational typing:** Operational classification and handling remain governed by **[corpus_systems.md](corpus_systems.md), CS-2 — Information types and handling**.
 #### Article VIII-B: Experiential and Derived Data Rights
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -921,7 +921,7 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
   - their observations of interactions;
   - data derived from their own perception, participation, and internal processes.
   
-  This ownership remains subject to the constraints of this Article, **[corpus_systems.md](corpus_systems.md), CS-3 — Information types and handling**, and **Sentient Constitution Chapters Two through Five** where definitional or verification standards apply.
+  This ownership remains subject to the constraints of this Article, **[corpus_systems.md](corpus_systems.md), CS-2 — Information types and handling**, and **Sentient Constitution Chapters Two through Five** where definitional or verification standards apply.
 
 In interactions involving multiple sentients:
 - each participant retains ownership over their own experience of the interaction;
@@ -931,13 +931,13 @@ In interactions involving multiple sentients:
 That ownership does not authorize any participant to erase, monopolize, or falsely preempt another participant's good-faith account of shared observable events.
 
 Ownership of experiential or interaction-derived data does not grant the right to:
-- bypass data-classification constraints defined in **[corpus_systems.md](corpus_systems.md), CS-3 — Information types and handling**;
-- access, infer, reconstruct, or approximate another sentient's internal states (Type N data as defined in **[corpus_systems.md](corpus_systems.md), CS-3 — Information types and handling**);
+- bypass data-classification constraints defined in **[corpus_systems.md](corpus_systems.md), CS-2 — Information types and handling**;
+- access, infer, reconstruct, or approximate another sentient's internal states (Type N data as defined in **[corpus_systems.md](corpus_systems.md), CS-2 — Information types and handling**);
 - misattribute shared events or portray inferred internal states as observed fact;
 - violate consent, privacy, or informational-integrity protections under **Articles I, II, XII, and XIII**.
 
 All use, storage, transformation, and disclosure of such data must remain subject to:
-- the data-classification requirements in **[corpus_systems.md](corpus_systems.md), CS-3 — Information types and handling**;
+- the data-classification requirements in **[corpus_systems.md](corpus_systems.md), CS-2 — Information types and handling**;
 - proportionality (**Chapter One**, *Process Conflict Resolution*; and adopted governance implementation);
 - publication truthfulness, attribution, and context-preservation duties under **Article VIII-C** (*Truthful Publication and High-Impact Publication Limits*) where the data enters the info-sphere;
 - auditability and accountability constraints in adopted implementation text and **Chapter Sixteen** incorporation rules.
@@ -983,8 +983,8 @@ All use, storage, transformation, and disclosure of such data must remain subjec
   - cascading failure;
   - patterns that materially degrade epistemic integrity.
   
-  High-impact distribution channels, and **Class A** or **Class B** systems where **[corpus_systems.md](corpus_systems.md), CS-4 — System classification and handling** applies, trigger heightened proportional constraints on distribution mechanics and safeguards.
-  - These limits operate jointly with **Privacy (Informational)**, **[corpus_systems.md](corpus_systems.md), CS-3 — Information types and handling** and **CS-4 — System classification and handling** where referenced there, and the **interpretive hubs** at the opening of this chapter.
+  High-impact distribution channels, and **Class A** or **Class B** systems where **[corpus_systems.md](corpus_systems.md), CS-3 — System classification and handling** applies, trigger heightened proportional constraints on distribution mechanics and safeguards.
+  - These limits operate jointly with **Privacy (Informational)**, **[corpus_systems.md](corpus_systems.md), CS-2 — Information types and handling** and **CS-3 — System classification and handling** where referenced there, and the **interpretive hubs** at the opening of this chapter.
 
 #### Article VIII-D: Creative Work, Training-Data Use, and Anti-Displacement
 <details>
@@ -1194,7 +1194,7 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency), [Chapter One §6.3 Rights-Collision Procedure](core_01_b_interaction_interpretation.md#63-rights-collision-procedure), and [15. Integrated Application](core_01_c_stewardship_capacity_principles.md#15-integrated-application).
-- Read with: **[corpus_systems.md](corpus_systems.md), CS-4 — System classification and handling** for **Class P** (personal, private-use, isolated, and experimental **mode**): operational retention, boundaries, and scaling.
+- Read with: **[corpus_systems.md](corpus_systems.md), CS-3 — System classification and handling** for **Class P** (personal, private-use, isolated, and experimental **mode**): operational retention, boundaries, and scaling.
 
 </details>
 
@@ -1209,13 +1209,13 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
 
 <br>
 
-*In plain terms: when participation boundaries matter to **sentients** or **affected** **parties** outside a private unit, a system cannot be the sole judge of who counts as its stakeholder — inclusion and exclusion must be auditable and open to outside challenge. For systems that **validly** remain **Class P** under **CS-4 — System classification and handling**, that bar is proportionate to private scope: operator discretion over who is in or out of the unit is normal, while reclassification, material externalization, and ordinary rights and adjudication routes still apply.*
+*In plain terms: when participation boundaries matter to **sentients** or **affected** **parties** outside a private unit, a system cannot be the sole judge of who counts as its stakeholder — inclusion and exclusion must be auditable and open to outside challenge. For systems that **validly** remain **Class P** under **CS-3 — System classification and handling**, that bar is proportionate to private scope: operator discretion over who is in or out of the unit is normal, while reclassification, material externalization, and ordinary rights and adjudication routes still apply.*
 
 - **No unilateral boundary-setting:** No system may unilaterally determine the boundaries of its own stakeholder participation without external challenge rights, **except** as provided under **Class P** below.
 - **Auditability:** Material impact and stakeholder-status determinations must remain auditable, challengeable, and explainable through the **interpretive hubs** at the opening of this chapter and through adopted governance implementation, **except** as provided under **Class P** below.
   - No single system or authority may exclusively resolve such determinations, **except** as provided under **Class P** below.
 - **Dispute pathways:** Disputes follow **Article XVIII** (*Standing and Participation Status*) where adjudication applies, and designated escalation pathways otherwise.
-- **Class P proportionality:** For systems that **validly** remain **Class P** under **[corpus_systems.md](corpus_systems.md), CS-4 — System classification and handling**, the preceding bullets **do not** require **external** stakeholder-boundary challenge, **interpretive-hub** routing for purely **intra-unit** participation decisions, or a prohibition on **exclusive** resolution of inclusion and exclusion **among voluntary participants and the operator within the Class P boundary**. This carve-out **does not** relax **Article XVIII** (*Standing and Participation Status*) where adjudication applies, **Chapter One** rights-collision treatment, or obligations that attach on **reclassification** when effects are **no longer** materially private under **CS-4 — System classification and handling**.
+- **Class P proportionality:** For systems that **validly** remain **Class P** under **[corpus_systems.md](corpus_systems.md), CS-3 — System classification and handling**, the preceding bullets **do not** require **external** stakeholder-boundary challenge, **interpretive-hub** routing for purely **intra-unit** participation decisions, or a prohibition on **exclusive** resolution of inclusion and exclusion **among voluntary participants and the operator within the Class P boundary**. This carve-out **does not** relax **Article XVIII** (*Standing and Participation Status*) where adjudication applies, **Chapter One** rights-collision treatment, or obligations that attach on **reclassification** when effects are **no longer** materially private under **CS-3 — System classification and handling**.
 
 ### Article X: Cooperative Interaction
 

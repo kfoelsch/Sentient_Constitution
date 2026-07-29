@@ -26,7 +26,7 @@
 
 **Constitutional index (abridged)**
 - Topic-level routing and cited authorities remain in subsection text and cross-references.
-- Canonical owner map: `corpus_joint_structure.md` **CJS-2.1** (*Topic router (stable IDs)*) and `doc_architecture.md` section 4.
+- Canonical owner map: **CJS-2.1** (*Topic router (stable IDs)*) and `doc_architecture.md` section 4.
 
 This chapter governs forum continuity when ordinary forum operation is materially impaired by:
 - emergency conditions;
@@ -221,7 +221,7 @@ Forum emergency adjudication requires continuous preservation of:
 
 Where digital systems are impaired, institutions must maintain a lawful fallback for record capture and later reconciliation. Generic crisis audit-trail, communication-log, and closure-evidence requirements remain in `corpus_systems.md` **Protocol A**, subsection **G**; this subsection identifies the forum records that cannot be lost or silently merged during emergency operation.
 
-Long-term archival and retrieval systems that materially support record access, restoration, precedent or publication continuity, audit, challenge, or lawful reconstruction must be treated as forum-continuity dependencies under **CF-15.5** (*Publication, retention, and reconciliation*) and classified under `corpus_systems.md` **CS-4 — System classification and handling** according to their continuity function.
+Long-term archival and retrieval systems that materially support record access, restoration, precedent or publication continuity, audit, challenge, or lawful reconstruction must be treated as forum-continuity dependencies under **CF-15.5** (*Publication, retention, and reconciliation*) and classified under `corpus_systems.md` **CS-3 — System classification and handling** according to their continuity function.
 
 ### CF-12.6 Communication duties
 <details>

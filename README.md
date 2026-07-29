@@ -101,7 +101,7 @@ Cross-topic entry points not spelled out in the headings above:
 Designated obligations in these wrappers and their subfile directories are **binding implementation text incorporated by reference** under valid adoption. They do **not** create a second constitutional source.
 
 - [**corpus_joint_structure.md**](corpus_joint_structure.md) — cross-implementation joint structure; substantive CJS text in `corpus_joint_structure/` (**CJS-4** interlocks, **CJS-5** operational cluster library, **CJS-2.1** topic router)
-- [**corpus_systems.md**](corpus_systems.md) — systems implementation; substantive CS text in `corpus_systems/` (**CS-3** information types, **CS-4** system classification, **CS-5** critical stewardship, named protocols)
+- [**corpus_systems.md**](corpus_systems.md) — systems implementation; substantive CS text in `corpus_systems/` (**CS-2** information types, **CS-3** system classification, **CS-4** critical stewardship, named protocols)
 - [**corpus_institutions.md**](corpus_institutions.md) — institutional governance, oversight, proportionality-scaled formation, sanctions and dissolution
 - [**corpus_forum.md**](corpus_forum.md) — forum operations; substantive CF text in `corpus_forum/` (panel formation, recusal, review lanes, continuity, emergency adjudication)
 

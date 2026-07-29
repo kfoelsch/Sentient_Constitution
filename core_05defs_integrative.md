@@ -234,7 +234,7 @@ This band holds **Integrative** cross-leg definitions that require simultaneous 
   - **Primary measure:** [Accountability measurement family](core_05apex_accountability_leg.md#accountability-measurement-family) — *Do reward structures, market power, and answerability keep duties real?*
 
     **Primary assessment:** Full system-level incentive analysis remains governed by adopted implementation requirements on incentive alignment and mechanism integrity, incorporated via Chapter Fifteen. This definition supplies tracing for constitutional compliance determinations that invoke incentives at the interdependent layer. Operational expectations for materially impactful venues appear in:
-      - `corpus_systems.md` (CS-5 — Critical system stewardship, including incentive-scaled governance)
+      - `corpus_systems.md` (CS-4 — Critical system stewardship, including incentive-scaled governance)
       - `corpus_institutions.md` (institutional stewardship and incentive alignment requirements)
 
 ---
@@ -277,7 +277,7 @@ This band holds **Integrative** cross-leg definitions that require simultaneous 
 <a id="innovation-reward-and-anti-enclosure-anti-enclosure-non-compliance-c"></a>
 - **What must hold**
   - **Primary failure:** Durable or open-ended exclusion; strategic non-use; trolling; artificial scarcity; or reward claims that materially block repair, security testing, interoperability, migration, education, research, truthful scrutiny, or public-interest implementation.
-  - **Secondary failure:** Continued exclusion of a [Dependency](core_05defs_continuity.md#dependency)-critical innovation without class-scaled tightening, conversion to access-preserving reward, or sunset under [corpus_systems.md](corpus_systems.md), CS-4 — System classification and handling.
+  - **Secondary failure:** Continued exclusion of a [Dependency](core_05defs_continuity.md#dependency)-critical innovation without class-scaled tightening, conversion to access-preserving reward, or sunset under [corpus_systems.md](corpus_systems.md), CS-3 — System classification and handling.
   - **Tertiary failure:** Exclusion that creates [Systemic Lock-In](core_05defs_continuity.md#systemic-lock-in), anti-competitive bottlenecks, material [Harm](core_05defs_accountability.md#harm), or avoidable dependence on a single claimant where less-restrictive reward tools would work as well or better.
   - **Tertiary failure:** Reward claims resting on concealment, inadequate disclosure, or pretextual restriction beyond what Chapter One and Chapter Six justify.
 
@@ -400,7 +400,7 @@ See [Joint invocation and satisfaction](core_05_definitions_home.md#joint-invoca
 
 - Upstream: [Authority Stack and Internal Hierarchy](core_05defs_integrative.md#authority-stack) (*source status, internal precedence, and owner routing read together*).
 - Downstream: [Chapter Six — Layer scope](core_06-06_rights_part_a.md#chapter-six--layer-scope); [Chapter Thirteen §4 Layer scope](core_13-15_amendment.md#4-layer-scope) and [Chapter Fifteen §12 Layer scope](core_13-15_amendment.md#12-layer-scope) (*validity-layer discipline*); chapter opening owner statements across the numbered `core_*` instrument.
-- Read with: [doc_architecture.md](doc_architecture.md) section 2 (*editorial mirror of this register*); [README.md](README.md) reading order; [corpus_joint_structure.md](corpus_joint_structure.md) **CJS-2.1** (*implementation topic router*).
+- Read with: [doc_architecture.md](doc_architecture.md) section 2 (*editorial mirror of this register*); [README.md](README.md) reading order; **CJS-2.1** (*implementation topic router*).
 
 </details>
 

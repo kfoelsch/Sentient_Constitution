@@ -25,7 +25,7 @@ This framework helps adopters map **2026 real-world conditions** (institutions, 
 |--------|-------------------------|
 | Transition principles | [core_06-06_rights_part_d.md](../core_06-06_rights_part_d.md) — **Article XXVI** (*Transition Governance, Continuity, and Re-Baselining*) |
 | Operational transition protocol | [corpus_systems.md](../corpus_systems.md) — **Protocol T** (*Transition Constitution and Migration Governance*) |
-| Transitional stewardship | [corpus_systems.md](../corpus_systems.md) — **Protocol T** (*Transition Constitution and Migration Governance*); dependency / exit / anti-lock-in operational clusters — [corpus_joint_structure.md](../corpus_joint_structure.md) **CJS-5.17** (*interoperability, portability, and exit-integrity terms*), **CJS-5.12** (*Cross-domain implementation layer*) |
+| Transitional stewardship | [corpus_systems.md](../corpus_systems.md) — **Protocol T** (*Transition Constitution and Migration Governance*); dependency / exit / anti-lock-in operational clusters — **CJS-5.17** (*interoperability, portability, and exit-integrity terms*), **CJS-5.12** (*Cross-domain implementation layer*) |
 | Legitimacy and authorization | [core_12-12_governance.md](../core_12-12_governance.md) — **Chapter Twelve** |
 | Adoption, supremacy, external law, amendments | [core_13-15_amendment.md](../core_13-15_amendment.md) — **Chapters Twelve and Thirteen**; [core_16-16_incorporation.md](../core_16-16_incorporation.md) — **Chapter Sixteen** |
 | Crisis / subversion / reconstitution (when transition intersects compromise) | [corpus_systems.md](../corpus_systems.md) — **Protocol R**; cross-jurisdiction / anti-evasion — **Protocol C**, subsection **8** |
@@ -55,7 +55,7 @@ Full editorial treatment: [archive/ARCHITECTURE_ADOPTION_APPENDIX_ARCHIVED_2026-
 
 **Geographic or network boundaries:** *(describe)*  
 
-**Populations and systems in scope:** By phase, list stakeholders, jurisdictions, and classified systems ([corpus_systems.md](../corpus_systems.md) CS-4 — *System Classification and Handling*) covered by transition obligations — implements **Protocol T** §1 (*scope of affected systems and stakeholders*).
+**Populations and systems in scope:** By phase, list stakeholders, jurisdictions, and classified systems ([corpus_systems.md](../corpus_systems.md) CS-3 — *System Classification and Handling*) covered by transition obligations — implements **Protocol T** §1 (*scope of affected systems and stakeholders*).
 
 ---
 
@@ -75,7 +75,7 @@ Use this section as a **factual** inventory to ground gate criteria and risk. It
 
 ## 5. Chosen legitimacy mechanism and high-impact gates
 
-Document the **documented legitimacy mechanism** required by [Chapter Twelve §1](../core_12-12_governance.md#1-authorization-and-legitimacy-of-governing-authority) (*Authorization and Legitimacy of Governing Authority*): e.g. representative elections, sortition, federated ratification, treaty or compact, or hybrid — with **scope**, **renewal or reauthorization cadence**, and **limits on delegated power**, auditable in proportion to [corpus_systems.md](../corpus_systems.md) CS-4 classification and material impact under Chapter Five definitions.
+Document the **documented legitimacy mechanism** required by [Chapter Twelve §1](../core_12-12_governance.md#1-authorization-and-legitimacy-of-governing-authority) (*Authorization and Legitimacy of Governing Authority*): e.g. representative elections, sortition, federated ratification, treaty or compact, or hybrid — with **scope**, **renewal or reauthorization cadence**, and **limits on delegated power**, auditable in proportion to [corpus_systems.md](../corpus_systems.md) CS-3 classification and material impact under Chapter Five definitions.
 
 Align **high-impact** decisions with [Article XI](../core_06-06_rights_part_b.md#article-xi-stakeholder-system-participation-representation-and-due-process) (*Stakeholder System Participation, Representation, and Due Process*; legitimacy gates under **XI-C**) and **Chapter Six**, section **4**, where binding collective choice and participation weight apply.
 
@@ -149,7 +149,7 @@ Where external requirements appear irreconcilable with rights floors, document c
 
 ## 10. Dependency minimization and exit integrity (Protocol T; Articles XVIII-D and XIX)
 
-Per **Protocol T** and [corpus_joint_structure.md](../corpus_joint_structure.md) **CJS-5.17** (*interoperability, portability, and exit-integrity terms*) / **CJS-5.12** (*Cross-domain implementation layer*), interaction with non-aligned or legacy external systems is **transitional**; reduce reliance when viable alternatives exist. Document material dependency, transition, and disclosure obligations per **Protocol T** §§1–2 and §5 (*Gate criteria*; *Transition audit, disclosure, and challenge*).
+Per **Protocol T** and **CJS-5.17** (*interoperability, portability, and exit-integrity terms*) / **CJS-5.12** (*Cross-domain implementation layer*), interaction with non-aligned or legacy external systems is **transitional**; reduce reliance when viable alternatives exist. Document material dependency, transition, and disclosure obligations per **Protocol T** §§1–2 and §5 (*Gate criteria*; *Transition audit, disclosure, and challenge*).
 
 For technical and organizational **exit, migration, and interoperability**, align with [core_06-06_rights_part_c.md](../core_06-06_rights_part_c.md) **Article XIX** (*Interoperability, Portability, Movement, Refuge, and Exit Integrity*); where **movement**, **refuge**, or **non-statelessness** is materially implicated, read jointly with **Article XIX-D** (*Movement, Migration, Refuge, and Non-Statelessness*) and [Chapter Five Chapter One §8.24 *Movement, Refuge, Non-Statelessness, and Exit Integrity*](../core_05defs_oversight.md#movement-refuge-semi-independent). Coordinate with **CJS-5.17** (*interoperability, portability, and exit-integrity terms*) / **CJS-5.12** (*burden-of-justification and constraint terms*) in [corpus_joint_structure.md](../corpus_joint_structure.md) so transition does not create **systemic lock-in** under [Chapter Five *Systemic Lock-In*](../core_05defs_continuity.md#systemic-lock-in).
 
@@ -201,7 +201,7 @@ Derived from **RS-T7-001** — *Required Evidence / Artifacts* in [CONSTITUTIONA
 
 #### Worksheet B — Rights-floor continuity by region / class
 
-| Region / cohort | CS-4 class (if applicable) | Survival / critical services | Dignity / agency | Contestability | Non-discrimination | Evidence pointer | Gaps |
+| Region / cohort | CS-2 class (if applicable) | Survival / critical services | Dignity / agency | Contestability | Non-discrimination | Evidence pointer | Gaps |
 |-----------------|----------------------------|------------------------------|------------------|----------------|--------------------|------------------|------|
 | | | | | | | | |
 | | | | | | | | |
@@ -226,7 +226,7 @@ Use when the target **viable constitutional state** claims **territorial** gover
 
 Use when adoption is by **stewards, organizations, federations, or network participants** without claiming full territorial sovereignty. Legitimacy may emphasize **federated ratification**, **compact**, or **charter** paths under Chapter Twelve §1. Baseline (section 4) emphasizes **contractual**, **platform**, and **cross-border** dependencies; **Protocol C** (especially subsection **8**) and **Article XVIII** / **CJS-5.17** (*interoperability, portability, and exit-integrity terms*) often figure prominently in dependency and exit planning.
 
-**Artifacts:** Same structural sections; scale **Protocol T** evidence and **CS-4** classification to organizational scope.
+**Artifacts:** Same structural sections; scale **Protocol T** evidence and **CS-3** classification to organizational scope.
 
 ---
 
@@ -241,7 +241,7 @@ Condensed from the 2026-Q2 completed-work archive (*Ticket 7: Transition constit
 **Normative closure (authoritative text remains in corpus):**
 
 - [core_06-06_rights_part_d.md](../core_06-06_rights_part_d.md) — **Article XXVI**
-- [corpus_joint_structure.md](../corpus_joint_structure.md) — **CJS-5.17** (*interoperability, portability, and exit-integrity terms*), **CJS-5.12** (*Cross-domain implementation layer*)
+- **CJS-5.17** (*interoperability, portability, and exit-integrity terms*), **CJS-5.12** (*Cross-domain implementation layer*)
 - [corpus_systems.md](../corpus_systems.md) — **Protocol T**
 
 **Dependencies noted in archive:** **Sentient Constitution Chapter Eleven** rights floors; **Chapter Four** compliance / enforcement realism (e.g. §8 anchors) where transition touches remedy capacity; emergency/contingency and reversibility definitions; **Protocol A** operational transition and environment controls.

@@ -18,7 +18,7 @@
 > **Where this lives**
 > - **Navigation wrapper / reader landing:** [corpus_institutions.md](../corpus_institutions.md) indexes the `corpus_institutions/` subfiles.
 > - **Reader landing:** [corpus_institutions.md](../corpus_institutions.md) is the human start for this layer. This file is the registry and identifier annex, not a second front door.
-> - **Shared contract:** [corpus_joint_structure.md](../corpus_joint_structure.md) **CJS-1.2** (*Shared implementation-corpus preamble contract*).
+> - **Shared contract:** **CJS-1.2** (*Shared implementation-corpus preamble contract*).
 >
 > **Implementation layer map**
 >
@@ -31,11 +31,11 @@
 >
 > **CI** defines institutional governance law. It does not redefine constitutional terms, Rights Floors, or offense taxonomy.
 >
-> Shared preamble contract: apply [corpus_joint_structure.md](../corpus_joint_structure.md) **CJS-1.2** (*Shared implementation-corpus preamble contract*).
+> Shared preamble contract: apply **CJS-1.2** (*Shared implementation-corpus preamble contract*).
 >
 > **Principle-layer routing:** Read with [Chapter One](../core_01_c_stewardship_capacity_principles.md#chapter-01-principles-and-constraints) — [Constitutional Tetrad](../core_00_preamble.md#constitutional-tetrad), [Two Constitutional Aims](../core_00_preamble.md#two-constitutional-aims), and [material stake](../core_00_preamble.md#material-stake). **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*), **CI-6** (*Procedure integrity, contestability, and secondary review*), **CI-7** (*Oversight, assurance, controls, and evidence*), and **CI-8** (*Transparency, participation, and accessible pathways*) implement tetrad legs at institutional layer. **CI** institutional rules scale burden and constraint under material stake where materially relevant.
 >
-> **Implementation cross-reference index (routing only):** Read with Chapter Five constitutional definitions and `corpus_joint_structure.md` **CJS-5** (*Implementation and cross-implementation operational cluster library*) operational clusters where materially applicable. This index does not redefine owner-layer meaning.
+> **Implementation cross-reference index (routing only):** Read with Chapter Five constitutional definitions and **CJS-5** (*Implementation and cross-implementation operational cluster library*) operational clusters where materially applicable. This index does not redefine owner-layer meaning.
 >
 > **Stable registry:** compliance cross-reference tables and section-family routing live in **CI-26** (*Compliance mapping and stable registry*). Institutions-only overlap and read-with pointers live in this file under [Institutions domain routing (integrator annex)](#institutions-domain-routing-integrator-annex). Cross-layer mandatory read-with stays in **CJS-2.1**.
 
@@ -59,7 +59,7 @@
 
 *In plain terms: labels like **CI-7.2** are institutional-implementation section numbers — not Sentient Constitution article numbers.*
 
-Apply [corpus_joint_structure.md](../corpus_joint_structure.md) **CJS-1.3** (*Section identifiers and article references*) as the shared implementation-corpus identifier rule. In this folder specifically, headings use **CI-1** (*Scope, purpose, and legitimacy interface*) and **CI-3** (*Institutional design, separation of powers, and authority custody*) through **CI-27** (*Remedy systems and institutional redress capacity*). Subsections use **CI-*n*.*m*** (for example **CI-7.2** (*External assurance triggers*)). They must not be read as Sentient Constitution **Article** numbers. The abbreviation **CI** matches [doc_architecture.md](../doc_architecture.md) (*corpus_institutions.md*). Domain routing formerly labeled **CI-2** now lives in this registry annex.
+Apply **CJS-1.3** (*Section identifiers and article references*) as the shared implementation-corpus identifier rule. In this folder specifically, headings use **CI-1** (*Scope, purpose, and legitimacy interface*) and **CI-3** (*Institutional design, separation of powers, and authority custody*) through **CI-27** (*Remedy systems and institutional redress capacity*). Subsections use **CI-*n*.*m*** (for example **CI-7.2** (*External assurance triggers*)). They must not be read as Sentient Constitution **Article** numbers. The abbreviation **CI** matches [doc_architecture.md](../doc_architecture.md) (*corpus_institutions.md*). Domain routing formerly labeled **CI-2** now lives in this registry annex.
 
 Unless another reference pattern is stated, **Article** labels with Roman numerals in this folder point to Sentient Constitution Chapter Six in the `core_06-06_rights_part_*.md` files.
 
@@ -137,7 +137,7 @@ Unless another reference pattern is stated, **Article** labels with Roman numera
 
 <br>
 
-Apply [corpus_joint_structure.md](../corpus_joint_structure.md) **CJS-2.2** (*Intentional overlap (non-duplication discipline)*) for the shared non-duplication floor.
+Apply **CJS-2.2** (*Intentional overlap (non-duplication discipline)*) for the shared non-duplication floor.
 
 This subsection states only **institutional-local** split discipline. Some institutional topics are **deliberately** split across **CI** sections — for example functional lanes (**CI-3**), appointment and removal (**CI-4**), procedure integrity (**CI-6**), and delegated subunits (**CI-9.3**).
 

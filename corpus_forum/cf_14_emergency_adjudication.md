@@ -26,7 +26,7 @@
 
 **Constitutional index (abridged)**
 - Topic-level routing and cited authorities remain in subsection text and cross-references.
-- Canonical owner map: `corpus_joint_structure.md` **CJS-2.1** (*Topic router (stable IDs)*) and `doc_architecture.md` section 4.
+- Canonical owner map: **CJS-2.1** (*Topic router (stable IDs)*) and `doc_architecture.md` section 4.
 
 This chapter governs emergency adjudicative priority, review, restoration, post-incident findings, and prohibited emergency patterns when ordinary forum operation is degraded or fallback operation is active.
 

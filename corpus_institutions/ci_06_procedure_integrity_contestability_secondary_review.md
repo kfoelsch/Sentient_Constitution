@@ -37,7 +37,7 @@
 
 *In plain terms: each institution must write down its fair-process playbook instead of leaving sentients to guess. The map is not decorative paperwork — it must be usable in practice, with real owners, real records, and real routes to challenge and secondary review.*
 
-*Shared rules live elsewhere.* Cross-institution procedural terms are in [corpus_joint_structure.md](../corpus_joint_structure.md) **CJS-4.5** (*Shared procedural abstractions for delegated bodies and forum routing*) and **CJS-5.13** (*procedural integrity and adjudication terms*). **CI-6** does not repeat those floors; it keeps only what each institution must name and maintain locally.
+*Shared rules live elsewhere.* Cross-institution procedural terms are in **CJS-4.5** (*Shared procedural abstractions for delegated bodies and forum routing*) and **CJS-5.13** (*procedural integrity and adjudication terms*). **CI-6** does not repeat those floors; it keeps only what each institution must name and maintain locally.
 
 **What each institution must publish**
 

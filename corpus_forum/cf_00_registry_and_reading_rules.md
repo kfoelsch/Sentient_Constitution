@@ -19,7 +19,7 @@
 > - **Navigation wrapper / reader landing:** [corpus_forum.md](../corpus_forum.md) indexes the `corpus_forum/` subfiles.
 > - **Reader landing:** [corpus_forum.md](../corpus_forum.md) is the human start for this layer. This file is the registry and identifier annex, not a second front door.
 > - **Constitutional owner:** [core_11-11_forum.md](../core_11-11_forum.md) **Chapter Eleven** owns forum-family routing and constitutional forum doctrine; this file operationalizes it and must not redefine it.
-> - **Shared contract:** [corpus_joint_structure.md](../corpus_joint_structure.md) **CJS-1.2** (*Shared implementation-corpus preamble contract*).
+> - **Shared contract:** **CJS-1.2** (*Shared implementation-corpus preamble contract*).
 >
 > **Implementation layer map**
 >
@@ -32,7 +32,7 @@
 >
 > **CF** does not create new forum families beyond those authorized in **Chapter Eleven**. It does not redefine constitutional terms, Rights Floors, or offense taxonomy.
 >
-> Shared preamble contract: apply [corpus_joint_structure.md](../corpus_joint_structure.md) **CJS-1.2** (*Shared implementation-corpus preamble contract*).
+> Shared preamble contract: apply **CJS-1.2** (*Shared implementation-corpus preamble contract*).
 >
 > **Principle-layer routing:** Read with [Chapter One](../core_01_c_stewardship_capacity_principles.md#chapter-01-principles-and-constraints), [README — Standing pipeline and forums](../README.md#standing-pipeline-and-forums), and [Chapter Eleven](../core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) — forums implement [Constitutional Tetrad](../core_00_preamble.md#constitutional-tetrad) **participation** and **oversight** legs, scaled to [material stake](../core_00_preamble.md#material-stake). Panel formation, recusal, and review lanes are primary operational homes in **CF-5** (*Routing operations, transfer, certification, and representative treatment*), **CF-7** (*Integrity safeguards and anti-self-judging*), and **CF-8** (*Forum forensic and analytical support*).
 >
@@ -42,7 +42,7 @@
 > - **Forum-family limit:** this file does **not** create new forum families beyond those authorized in **Chapter Eleven**.
 > - **Chapter Six structure:** operationalizes challenge and redress through **Article XII-B** (*Right to Challenge, Review, and Redress*); auditability through **Article XV-A** (*Auditability and Observable Evidence*) with **Chapters Two through Four**; interpretation safeguards through **Article XXII** (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*); justice and emergency boundaries through **Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*); transition-phase adjudication support as **Article XXVI** (*Transition Governance, Continuity, and Re-Baselining*) references into this file and **`corpus_institutions.md`** **CI-14** (*Transitional governance and institutional evolution*).
 >
-> **Implementation cross-reference index (routing only):** Read with Chapter Five constitutional definitions and `corpus_joint_structure.md` **CJS-5** (*Implementation and cross-implementation operational cluster library*) operational clusters where materially applicable. This index does not redefine owner-layer meaning. Forums-only overlap and read-with pointers live in this file under [Forums domain routing (integrator annex)](#forums-domain-routing-integrator-annex). Cross-layer mandatory read-with stays in **CJS-2.1**.
+> **Implementation cross-reference index (routing only):** Read with Chapter Five constitutional definitions and **CJS-5** (*Implementation and cross-implementation operational cluster library*) operational clusters where materially applicable. This index does not redefine owner-layer meaning. Forums-only overlap and read-with pointers live in this file under [Forums domain routing (integrator annex)](#forums-domain-routing-integrator-annex). Cross-layer mandatory read-with stays in **CJS-2.1**.
 
 </details>
 
@@ -64,7 +64,7 @@
 
 *In plain terms: labels like **CF-7.2** are forum-implementation section numbers — not Sentient Constitution article numbers.*
 
-Apply [corpus_joint_structure.md](../corpus_joint_structure.md) **CJS-1.3** (*Section identifiers and article references*) as the shared implementation-corpus identifier rule. In this file specifically, headings use **CF-1** (*Scope, authority, and boundary rules*) and **CF-3** (*Forum formation, forum-structure mapping, chambers, and minimum bench availability*) through **CF-16** (*Forum staffing, reserve capacity, shared administration, structural review, and structural records*). Subsections use **CF-*n*.*m*** (for example **CF-7.2** (*Constitutional alignment recognition and review*)). They must not be read as Sentient Constitution **Article** numbers. The abbreviation **CF** matches [doc_architecture.md](../doc_architecture.md) (*corpus_forum.md*). Domain routing formerly labeled **CF-2** now lives in this registry annex.
+Apply **CJS-1.3** (*Section identifiers and article references*) as the shared implementation-corpus identifier rule. In this file specifically, headings use **CF-1** (*Scope, authority, and boundary rules*) and **CF-3** (*Forum formation, forum-structure mapping, chambers, and minimum bench availability*) through **CF-16** (*Forum staffing, reserve capacity, shared administration, structural review, and structural records*). Subsections use **CF-*n*.*m*** (for example **CF-7.2** (*Constitutional alignment recognition and review*)). They must not be read as Sentient Constitution **Article** numbers. The abbreviation **CF** matches [doc_architecture.md](../doc_architecture.md) (*corpus_forum.md*). Domain routing formerly labeled **CF-2** now lives in this registry annex.
 
 Unless another reference pattern is stated, **Article** labels with Roman numerals in this file point to Sentient Constitution Chapter Six in the `core_06-06_rights_part_*.md` files.
 

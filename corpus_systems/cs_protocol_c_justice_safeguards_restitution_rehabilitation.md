@@ -1,6 +1,6 @@
 ## Protocol C: Justice Safeguards, Restitution, and Rehabilitation Implementation
 
-Constitutional tracing: This protocol implements Sentient Constitution Chapter Six, **Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*). **It** also implements **Sentient Constitution Chapter Eight** (compliance, violation, and standing model) and `corpus_joint_structure.md` **CJS-5.13** (implementation and cross-implementation procedural integrity and adjudication terms), read with **corpus_joint_structure.md CJS-5.13** (*procedural integrity and adjudication terms*). **It** operationalizes the justice objective that interventions remain safety-protective, restitution-oriented, rehabilitation-capable where feasible, and accountability-grounded.
+Constitutional tracing: This protocol implements Sentient Constitution Chapter Six, **Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*). **It** also implements **Sentient Constitution Chapter Eight** (compliance, violation, and standing model) and **CJS-5.13** (implementation and cross-implementation procedural integrity and adjudication terms), read with **CJS-5.13** (*procedural integrity and adjudication terms*). **It** operationalizes the justice objective that interventions remain safety-protective, restitution-oriented, rehabilitation-capable where feasible, and accountability-grounded.
 
 **It does** **not** create substitute rights or narrow [Constitutional Constraints](../core_05defs_integrative.md#constitutional-constraint).
 
@@ -21,13 +21,13 @@ That record must demonstrate all of the following jointly:
 If any required element is absent, the restriction is non-compliant and must **not** be imposed.
 
 ### 3. Class-scaled assurance requirements
-Validation and review rigor must scale with **CS-4 — System classification and handling** classification (and **CS-5 — Critical system stewardship** stewardship tier where applicable).
+Validation and review rigor must scale with **CS-3 — System classification and handling** classification (and **CS-4 — Critical system stewardship** stewardship tier where applicable).
 
 **Class A and Class B:** Where feasible, use independent secondary review before imposition, provide explicit alternatives analysis, use mandatory periodic review at short intervals, and provide restoration planning at the initial decision.
 
 **Class C:** Documented alternatives analysis and defined review cadence proportionate to impact and dependency.
 
-**Class L:** Simplified validation records are permitted where effects remain bounded and local under **CS-4** Class L. Whole-system evaluation under **Chapter Seven §3** remains mandatory but proportionate, including lower default periodic cadence unless material change requires earlier re-evaluation.
+**Class L:** Simplified validation records are permitted where effects remain bounded and local under **CS-3** Class L. Whole-system evaluation under **Chapter Seven §3** remains mandatory but proportionate, including lower default periodic cadence unless material change requires earlier re-evaluation.
 
 **Class P:** Simplified validation records and informal self-assessment are permitted while validly **Class P**. **Chapter Seven §3** evaluation is encouraged unless reclassification or a voluntary constitutional-compliance claim makes it mandatory.
 
@@ -94,7 +94,7 @@ Systems must implement class-scaled compliance templates that preserve core prot
 
 Templates are implementation profiles, not alternative standards. When multiple profiles could apply, the **stricter** governs.
 
-Implementation packets may be standardized through reusable templates so long as they do not narrow constitutional obligations. For **Class A**, **Class B**, and **Class C** systems, packet formats and interchange protocols must also preserve the open data-format and protocol presumption in `corpus_joint_structure.md` **CJS-5.17** (*interoperability, portability, and exit-integrity terms*) where portability, audit, repair, continuity, migration, or cross-implementation operation is material. See `implementation/SYSTEMS_IMPLEMENTATION_TEMPLATES_2026-04-13.md` for adopter-facing templates covering system cards, model cards, post-deployment monitoring cadence, incident reporting bundles, and material control-failure disclosure packets.
+Implementation packets may be standardized through reusable templates so long as they do not narrow constitutional obligations. For **Class A**, **Class B**, and **Class C** systems, packet formats and interchange protocols must also preserve the open data-format and protocol presumption in **CJS-5.17** (*interoperability, portability, and exit-integrity terms*) where portability, audit, repair, continuity, migration, or cross-implementation operation is material. See `implementation/SYSTEMS_IMPLEMENTATION_TEMPLATES_2026-04-13.md` for adopter-facing templates covering system cards, model cards, post-deployment monitoring cadence, incident reporting bundles, and material control-failure disclosure packets.
 
 **Invariant core controls (all classes):** Constitutional tracing, auditable decision records, incident logging, challenge/remediation pathways, and minimum verification accessibility must remain in force regardless of class.
 
@@ -142,4 +142,4 @@ This subsection implements **non-degrading lived conditions** and **continuity o
 
 **Previous file:** [cs_protocol_b_system_comprehensibility_complexity_stewardship.md](cs_protocol_b_system_comprehensibility_complexity_stewardship.md)
 
-**Next file:** [cs_s1_information_types_and_handling.md](cs_s1_information_types_and_handling.md)
+**Next file:** [cs_protocol_s4_adaptive_sustainability_ecosystem_resilience.md](cs_protocol_s4_adaptive_sustainability_ecosystem_resilience.md)

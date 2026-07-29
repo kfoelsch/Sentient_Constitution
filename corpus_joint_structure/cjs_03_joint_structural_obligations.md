@@ -175,7 +175,7 @@ That includes budget, staffing, records, security, procurement, clerking, digita
 
 Apply **CJS-5.11** (*Accountability: distributed and proportional authority terms*) **Classification-scaled governance burden** for the shared class- and tier-scaling rule.
 
-When an institution supervises systems governed by `corpus_systems.md` **CS-4 — System classification and handling** or **CS-5 — Critical system stewardship**, its published maps under **CI-9.2** (*Published industry and domain mapping*) and related **CI-9** (*Classification-linked institutional obligations*) material must match the operative systems classification profile, including reclassification triggers.
+When an institution supervises systems governed by `corpus_systems.md` **CS-3 — System classification and handling** or **CS-4 — Critical system stewardship**, its published maps under **CI-9.2** (*Published industry and domain mapping*) and related **CI-9** (*Classification-linked institutional obligations*) material must match the operative systems classification profile, including reclassification triggers.
 
 Do not give a system one risk or classification label in institutional supervision and a different one in how it is actually run in the systems implementation file when that label would change what duties apply.
 

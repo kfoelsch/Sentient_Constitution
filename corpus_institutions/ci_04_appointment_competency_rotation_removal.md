@@ -63,7 +63,7 @@
 
 *In plain terms: important jobs must never depend on a single sentient. Shared rules in **CJS-4.4** set the minimum for backup coverage, cross-training, succession planning, and lane staffing — scaled to how binding the institution's duties are.*
 
-Apply [corpus_joint_structure.md](../corpus_joint_structure.md) **CJS-4.4** (*Class-scaled lane staffing and competency redundancy*) for the shared role-boundary, competency-redundancy, succession, and lane-staffing floor.
+Apply **CJS-4.4** (*Class-scaled lane staffing and competency redundancy*) for the shared role-boundary, competency-redundancy, succession, and lane-staffing floor.
 
 ### CI-4.2: Role criteria, appointment standards, and removal pathways
 <details>
@@ -171,7 +171,7 @@ Interpretive-body composition controls (**Article XXII** (*Constitutional Interp
 
 <br>
 
-*In plain terms: under **Chapter Six**, section 5 and the **Article XI-D** (*Internal Roles, Accountability, and Due-Process Requirements*) interface, each institution writes its own map of who is authorized to do what — and who is accountable when things go wrong. That local map must spell out decision power, review power, escalation paths, hiring standards, backup coverage, and how skills stay current. Three shared rulebooks govern what gets stricter for higher-impact systems — apply them locally, do not reinvent them: **CJS-4.4** sets minimum staffing and backup by impact level; **CI-3** assigns each role to a functional lane; **CS-4** and **CS-5** define system class and when critical-stewardship duties apply.*
+*In plain terms: under **Chapter Six**, section 5 and the **Article XI-D** (*Internal Roles, Accountability, and Due-Process Requirements*) interface, each institution writes its own map of who is authorized to do what — and who is accountable when things go wrong. That local map must spell out decision power, review power, escalation paths, hiring standards, backup coverage, and how skills stay current. Three shared rulebooks govern what gets stricter for higher-impact systems — apply them locally, do not reinvent them: **CJS-4.4** sets minimum staffing and backup by impact level; **CI-3** assigns each role to a functional lane; **CS-3** and **CS-3** define system class and when critical-stewardship duties apply.*
 
 Under **Chapter Six**, section 5 (*Authorized Roles, Competency Development, and Contribution*) and the **Article XI-D** (*Internal Roles, Accountability, and Due-Process Requirements*) interface, each institution maintains its own authorized-role and accountability-chain map. That local map must assign:
 - scope and limits,
@@ -186,7 +186,7 @@ Role maps must record applicable Chapter Nine competency-clearance results and s
 The following shared rules govern class-scaling — local role maps must apply them, not replace them:
 - **CJS-4.4** (*Class-scaled lane staffing and competency redundancy*) — minimum qualified role holders, backup coverage, and succession depth scaled to binding impact.
 - **CI-3** (*Institutional design and separation of powers*) — lane ownership for each required functional lane.
-- `corpus_systems.md` **CS-4 — System classification and handling** and **CS-5 — Critical system stewardship** — classification and stewardship hooks that trigger when class-scaling applies.
+- `corpus_systems.md` **CS-3 — System classification and handling** and **CS-4 — Critical system stewardship** — classification and stewardship hooks that trigger when class-scaling applies.
 
 ---
 

@@ -79,7 +79,7 @@ Adaptive allocation behaviors must be **transparent, auditable, and historically
 
 **I. Self-healing and recovery-path integration (**Article XII-F** (*Resilience and Self-Healing Baseline*) implementation profile).** This subsection ties this Protocol's adaptive-allocation and root-cause architecture to **Sentient Constitution Chapter Six, **Article XII-F** (*Resilience and Self-Healing Baseline*)** (*Resilience and Self-Healing Baseline*), **Chapter One §4.1** (*Resilience and Self-Healing Design*), and **Chapter Five** [*Self-Healing*](../core_05defs_continuity.md#self-healing-constitutional). It is a Protocol S4-specific application of **Protocol A**, subsection **H** (*Self-healing and recovery-path integrity*), not a second self-healing profile.
 
-Adaptive allocation, cause-aligned mitigation, and ecosystem risk response under sections **B** through **G** must satisfy the Protocol A self-healing baseline for detection, containment, safe-failure preference, non-masking, Rights-Floor continuity, autonomy scaling, and root-cause closure. Protocol S4 adds only the ecosystem-specific cross-checks below.
+Adaptive allocation, cause-aligned mitigation, and ecosystem risk response under sections **B** through **G** must satisfy **Article XII-F** recovery floors and the Protocol A subsection **H** test, verify, and deploy profile for detection, containment, safe-failure preference, non-masking, Rights-Floor continuity, autonomy scaling, and root-cause closure. Protocol S4 adds only the ecosystem-specific cross-checks below.
 
 - Root-cause analysis under section **C.1** must not let adaptive reallocation suppress, overwrite, obscure, or repeatedly silence the fault signals that triggered it. Recurrence across cycles remains a single open root-cause obligation under section **C.1** and **Article XXI-A** (*Diagnostic Rigor and Causal Attribution*).
 - Where adaptive response narrows capacity that implements Chapter Six guarantees (for example, contestability capacity, audit fidelity, or participation access), narrowing must be explicit, time-bounded, and escalated under **Article XXVI** (*Transition Governance, Continuity, and Re-Baselining*) transition-governance when degraded modes persist beyond pre-declared thresholds.
@@ -94,6 +94,6 @@ Where this subsection is silent, Protocol A subsection **H**, Chapter One §4.1,
 
 ---
 
-**Previous file:** [cs_s3_critical_system_stewardship.md](cs_s3_critical_system_stewardship.md)
+**Previous file:** [cs_protocol_c_justice_safeguards_restitution_rehabilitation.md](cs_protocol_c_justice_safeguards_restitution_rehabilitation.md)
 
 **Next file:** [cs_protocol_s5_resource_allocation_funding_stewardship.md](cs_protocol_s5_resource_allocation_funding_stewardship.md)

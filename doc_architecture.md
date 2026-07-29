@@ -41,7 +41,7 @@ Filename renames require: reference audit, same-change link updates, dated evide
 | Anti-constitutional-misconduct designation | Ch 10 | `core_10_a_misconduct_designation.md` (Part A — designation criteria and safeguards); `core_10_b_misconduct_pattern_applications.md` (Part B — named pattern applications); designation only for qualifying fixed Ch 8 Violation Axis `s = 7–9` findings |
 | Forums (constitutional) | Ch 11 | `core_11-11_forum.md`; forum families, jurisdiction, supervision, and cross-forum anti-self-judging; [README navigation](README.md#standing-pipeline-and-forums) |
 | Governance / amendment / incorporation | Ch 12–16 | `core_12-12_governance.md`, `core_13-15_amendment.md`, `core_16-16_incorporation.md` |
-| Cross-implementation joint structure | CJS | [corpus_joint_structure.md](corpus_joint_structure.md) **CJS-2.1** (*Topic router*) |
+| Cross-implementation joint structure | CJS | **CJS-2.1** (*Topic router*) |
 | Systems, institutions, forum operations | CS / CI / CF | Companion wrappers + subfiles |
 
 **Footer policy:** `make footer-audit`. Optional `*Corpus alignment:*` cites [README.md](README.md) edition metadata and [Chapter Five *Corpus*](core_05defs_integrative.md#corpus).
@@ -445,7 +445,7 @@ Do not maintain hand-edited article or implementation maps here.
 
 - **Sentient Constitution chapters:** [README.md](README.md) inventory.
 - **Article titles / Roman numerals:** `make reference-audit` / Chapter Six part files.
-- **Cross-implementation routing:** [corpus_joint_structure.md](corpus_joint_structure.md) **CJS-2.1**; `make router-bidirectional-audit`.
+- **Cross-implementation routing:** **CJS-2.1**; `make router-bidirectional-audit`.
 - **Generated stable-ID index:** [doc_architecture/generated/stable_id_index.md](doc_architecture/generated/stable_id_index.md) via `make architecture-index`.
 - **Definition hierarchy index (generated):** [doc_architecture/generated/definition_hierarchy.md](doc_architecture/generated/definition_hierarchy.md) via `make hierarchy-map`; machine JSON alongside. CH5-HIER-01 tag vocabulary in **section 4**.
 - **Topic router reader index (generated, human view):** [doc_architecture/generated/topic_router_reader_index.md](doc_architecture/generated/topic_router_reader_index.md) — plain-language grouped index derived from **CJS-2.1**; reading guidance in **CJS-0.1** ([cjs_00_registry_and_reading_rules.md](corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-cross-file-routing)). Authoritative mandatory read-with lists remain in the integrator table.

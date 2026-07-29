@@ -365,7 +365,7 @@ Those floors apply to **exceptional institutional power** in three linked domain
   - less intrusive means are not reasonably sufficient;
   - the use remains necessary, proportionate, time-bounded, and independently reviewable.
 - **No generalized population surveillance:** Persistent or population-scale surveillance, tracking, pattern extraction, or cross-context identity linkage is prohibited absent a demonstrated and extraordinary justification.
-  - Any such justification must satisfy this chapter, **Chapter One**, **Chapter Five**, and **[corpus_systems.md](corpus_systems.md), CS-3 — Information types and handling** and **CS-4 — System classification and handling** where applicable.
+  - Any such justification must satisfy this chapter, **Chapter One**, **Chapter Five**, and **[corpus_systems.md](corpus_systems.md), CS-2 — Information types and handling** and **CS-3 — System classification and handling** where applicable.
 - **Protected-activity shield:** Heightened protection covers:
   - political participation;
   - lawful opposition;
@@ -478,7 +478,7 @@ Those floors apply to **exceptional institutional power** in three linked domain
 
 - Upstream: Principles: Chapter One [4.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [5. Trust](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity), [8.1.1 Proportionality](core_01_b_interaction_interpretation.md#611-proportionality), [8.1.2 Necessity](core_01_b_interaction_interpretation.md#611-necessity), [7.3.1 Alignment Requirement](core_01_c_stewardship_capacity_principles.md#111-alignment-requirement), [8. Prohibition on Absolute Override](#7-prohibition-on-absolute-override).
 - Downstream: **Article I-D** (*Existential Risk and Ecological Recovery Capacity*) existential-risk scrutiny, **Article IX-A** (*Agency and Freedom from Manipulation*) freedom from manipulation, **Article XIII-A** (*Security, Intelligence, and Covert-Power Limits*) covert-power limits, **Article XIII-B** (*Use of Force, Armed Conflict, and Military-Power Limits*) overt-force floor, **Article XII-A** (*Reliability and Trustworthiness Baseline*) reliability and trustworthiness baseline (systems-layer counterpart), **Article XII-E** (*High-Autonomy Systems and Tool-Mediated Process Integrity*) autonomy-stewardship and autonomy-scaling, **Article XII-F** (*Resilience and Self-Healing Baseline*) resilience and self-healing baseline. Cross-reference: **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*) and Chapter Five *[Irreversible Deprivation Measure](core_05defs_accountability.md#irreversible-deprivation-measure-constitutional)* — **Article XIII** (*Security, Intelligence, Force, and Autonomous Coercive Systems*) *Non-conflation* discipline applies.
-- Read with: [Chapter Five Chapter One §8.16 *Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm*](core_05defs_accountability.md#use-of-force-autonomous-coercion-and-mass-harm-cluster) (joint invocation where materially implicated); Chapter Five *Autonomous Lethal System*, *Autonomous Coercion Tool*, *[Irreversible Deprivation Measure](core_05defs_accountability.md#irreversible-deprivation-measure-constitutional)*, *Coercion and Manipulation*, *Reversibility*. Systems-layer implementation: **[corpus_systems.md](corpus_systems.md), CS-4 — System classification and handling** classification.
+- Read with: [Chapter Five Chapter One §8.16 *Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm*](core_05defs_accountability.md#use-of-force-autonomous-coercion-and-mass-harm-cluster) (joint invocation where materially implicated); Chapter Five *Autonomous Lethal System*, *Autonomous Coercion Tool*, *[Irreversible Deprivation Measure](core_05defs_accountability.md#irreversible-deprivation-measure-constitutional)*, *Coercion and Manipulation*, *Reversibility*. Systems-layer implementation: **[corpus_systems.md](corpus_systems.md), CS-3 — System classification and handling** classification.
 
 </details>
 
@@ -519,7 +519,7 @@ Those floors apply to **exceptional institutional power** in three linked domain
   - **Adversarial, Scaled, and Exploited Conditions** evaluation applies.
 - **Existential-risk interaction:** Autonomous lethal systems at scales, capability levels, or deployment conditions materially implicating **Article I-D** (*Existential Risk and Ecological Recovery Capacity*) existential-risk scrutiny are subject to that provision's heightened review.
   - Framings that treat such systems as ordinary capability-expansion rather than as **Article I-D** (*Existential Risk and Ecological Recovery Capacity*) objects are non-compliant.
-- **Systems-layer interaction:** Operational classification, reliability, and **CS-4 — System classification and handling** class-scaled governance route to the systems layer — **Article XII-A** (*Reliability and Trustworthiness Baseline*) baseline and **[corpus_systems.md](corpus_systems.md), CS-4 — System classification and handling**.
+- **Systems-layer interaction:** Operational classification, reliability, and **CS-3 — System classification and handling** class-scaled governance route to the systems layer — **Article XII-A** (*Reliability and Trustworthiness Baseline*) baseline and **[corpus_systems.md](corpus_systems.md), CS-3 — System classification and handling**.
   - The systems-layer routing does not narrow the Rights-Floor stated here.
   - Conflicts resolve under **Chapter One §6.3.1** without narrowing the Rights Floor.
 
@@ -558,7 +558,7 @@ Accurate, relevant, and contestable information is foundational to self-determin
 
 - **Read together:** **Article XII** (*Right to Reliable and Trustworthy Systems*) where system outputs shape reliance; **Article XV** (*Audit, Transparency, and Independent Verification*) for records and independent verification; **Article XVII-E** (*Scientific Publication, Review, and Replication Integrity*) where publication-scoped integrity is materially implicated.
 - **Truth constraint:** Chapter One [4.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint) and [Epistemic Disclosure Constraints](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints) bind every subsection here.
-- **Classification:** **[corpus_systems.md](corpus_systems.md), CS-4 — System classification and handling** scales detailed info-sphere obligations for **Class A**, **Class B**, and **Class C** systems; [Material Impact](core_05defs_oversight.md#material-impact) triggers classification where class is unsettled.
+- **Classification:** **[corpus_systems.md](corpus_systems.md), CS-3 — System classification and handling** scales detailed info-sphere obligations for **Class A**, **Class B**, and **Class C** systems; [Material Impact](core_05defs_oversight.md#material-impact) triggers classification where class is unsettled.
 
 #### Article XIV-A: Info-Sphere Plurality and Anti-Monopoly
 <details>
@@ -585,7 +585,7 @@ Accurate, relevant, and contestable information is foundational to self-determin
   - Survival- and ecology-related data must have robust, geographically distributed storage.
 - **Plurality, contestability, and audit:** The interpretation of reality must remain plural, transparent, and contestable.
   - **Article XV** (*Audit, Transparency, and Independent Verification*) and **Chapters Two through Four** govern records and independent verification for systems under this Constitution.
-  - For **Class A**, **Class B**, and **Class C** summarization, ranking, mediation, or interpretation systems, operational detail appears in **[corpus_systems.md](corpus_systems.md), CS-4 — System classification and handling** and related protocol layers. That detail covers:
+  - For **Class A**, **Class B**, and **Class C** summarization, ranking, mediation, or interpretation systems, operational detail appears in **[corpus_systems.md](corpus_systems.md), CS-3 — System classification and handling** and related protocol layers. That detail covers:
     - disclosure of reasoning approach;
     - provenance and uncertainty treatment;
     - contestability;
@@ -657,7 +657,7 @@ Accurate, relevant, and contestable information is foundational to self-determin
   Where disclosure is restricted under **Chapter One §11**, limits must remain narrowly scoped, time-limited, and reviewable.
 - **Footprint data:** Reporting under this subsection implements transparency for **Ecological Footprint** as defined in **Chapter Five**.
   - All sentients must have access to transparent, decision-usable reporting.
-  - **Class A**, **Class B**, and **Class C** systems, as defined in **[corpus_systems.md](corpus_systems.md), CS-4 — System classification and handling**, must provide the same access.
+  - **Class A**, **Class B**, and **Class C** systems, as defined in **[corpus_systems.md](corpus_systems.md), CS-3 — System classification and handling**, must provide the same access.
   - Reporting must cover energy and resource consumption and estimated impacts on the natural world in a manner sufficient for comparison, audit, and footprint-reduction activity.
 
 ### Article XV: Audit, Transparency, and Independent Verification
@@ -709,7 +709,7 @@ They operate consistently with **Chapters Two through Four**, including exclusiv
 
 - **Read together:** **Article XIV** (*Info-Sphere Integrity*) where epistemic records and contestability are materially implicated; **Article XII-B** (*Right to Challenge, Review, and Redress*) for challenge rights that audit supports but does not replace; [Chapter Seven](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) and [System Alignment Certification](core_05defs_continuity.md#system-alignment-certification-constitutional) where alignment evidence must remain independently verifiable.
 - **Verification machinery:** **Chapters Two through Four** supply definition integrity, burden allocation, observability, and verification accessibility that this Article implements at the Rights-Floor layer.
-- **Classification:** obligations scale with [Classification-Scaled Governance](core_05defs_oversight.md#classification-scaled-governance) and **[corpus_systems.md](corpus_systems.md), CS-4 — System classification and handling**; where class is uncertain, govern at the highest plausible class until resolved.
+- **Classification:** obligations scale with [Classification-Scaled Governance](core_05defs_oversight.md#classification-scaled-governance) and **[corpus_systems.md](corpus_systems.md), CS-3 — System classification and handling**; where class is uncertain, govern at the highest plausible class until resolved.
 
 #### Article XV-A: Auditability and Observable Evidence
 <details>
@@ -833,7 +833,7 @@ Sentients have the right to stewardship that preserves safety, epistemic integri
 *Article neighbors:*
 
 - **Read together:** **Article XVII** (*Sandboxed Innovation, Experimentation, and Creative Freedom*) where lighter rules apply only when external impact is absent or demonstrably contained; **Article XV** (*Audit, Transparency, and Independent Verification*) for reconstructable deployment and escalation evidence; **Article XII-F** (*Resilience and Self-Healing Baseline*) where recovery discipline intersects lifecycle change.
-- **Implementation layer:** **[corpus_systems.md](corpus_systems.md), CS-4 — System classification and handling** and **Protocol A — System Design, Testing, Verification, and Deployment** — without narrowing the floors stated here. **Class A**, **Class B**, and **Class C** systems carry the strongest lifecycle duties; valid **Class P** treatment remains under **Article XVII** (*Sandboxed Innovation, Experimentation, and Creative Freedom*) only while external impact stays absent or demonstrably contained.
+- **Implementation layer:** **[corpus_systems.md](corpus_systems.md), CS-3 — System classification and handling** and **Protocol A — System Design, Testing, Verification, and Deployment** — without narrowing the floors stated here. **Class A**, **Class B**, and **Class C** systems carry the strongest lifecycle duties; valid **Class P** treatment remains under **Article XVII** (*Sandboxed Innovation, Experimentation, and Creative Freedom*) only while external impact stays absent or demonstrably contained.
 
 #### Article XVI-A: Lifecycle Governance and Environment Separation
 <details>
@@ -856,7 +856,7 @@ Sentients have the right to stewardship that preserves safety, epistemic integri
 
 *In plain terms: systems that materially affect the outside world must keep development, testing, and production separate — and non-production behavior must not leak through to bypass production safeguards.*
 
-- **Environment integrity:** **Class A**, **Class B**, and **Class C** systems under **[corpus_systems.md](corpus_systems.md), CS-4 — System classification and handling**, and other non-**Class P** systems with material external impact, must use separable operational environments — for example:
+- **Environment integrity:** **Class A**, **Class B**, and **Class C** systems under **[corpus_systems.md](corpus_systems.md), CS-3 — System classification and handling**, and other non-**Class P** systems with material external impact, must use separable operational environments — for example:
   - development;
   - testing;
   - staging;
@@ -950,7 +950,7 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
 *Article neighbors:*
 
 - **Read together:** **Article XVI** (*System Lifecycle, Environments, and Reversibility*) when impact, dependency, or integration outgrows sandbox conditions; **Article XIV** (*Info-Sphere Integrity*) and **Article XVII-E** (*Scientific Publication, Review, and Replication Integrity*) where publication-scoped integrity is materially implicated; **Article XV** (*Audit, Transparency, and Independent Verification*) for disclosure and verification of containment and transition claims.
-- **Implementation layer:** **[corpus_systems.md](corpus_systems.md), Protocol A** and **CS-4 — System classification and handling** — without narrowing the floors stated here.
+- **Implementation layer:** **[corpus_systems.md](corpus_systems.md), Protocol A** and **CS-3 — System classification and handling** — without narrowing the floors stated here.
 
 #### Article XVII-A: Sandboxed Scope
 <details>
@@ -974,7 +974,7 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
 *In plain terms: experimentation and creative work can operate under lighter rules — but only when real external impact is either absent or demonstrably contained. The "sandbox" label alone is not enough.*
 
 - **Innovation and experimentation right:** Sentients have the right to innovate, experiment, and express themselves through systems that operate with reduced structural requirements when material external impact is absent or demonstrably contained.
-- **Sandbox eligibility:** Sandboxed treatment — including valid **Class P** classification under **[corpus_systems.md](corpus_systems.md), CS-4 — System classification and handling** where applicable — depends on:
+- **Sandbox eligibility:** Sandboxed treatment — including valid **Class P** classification under **[corpus_systems.md](corpus_systems.md), CS-3 — System classification and handling** where applicable — depends on:
   - actual containment;
   - reversibility;
   - limited integration with shared systems.
@@ -1090,7 +1090,7 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
     - educationally foundational;
     - safety-relevant;
     - primarily used as shared cultural or informational infrastructure.
-- **Classification-scaled innovation treatment:** Innovation reward must scale with system class, dependency, and coordination effects under **[corpus_systems.md](corpus_systems.md), CS-4 — System classification and handling**.
+- **Classification-scaled innovation treatment:** Innovation reward must scale with system class, dependency, and coordination effects under **[corpus_systems.md](corpus_systems.md), CS-3 — System classification and handling**.
   - For **Class A**, **Class B**, and **Class C** systems, access-preserving reward mechanisms are strongly preferred. Exclusion must remain especially narrow, rapidly reviewable, and easy to override where continuity, interoperability, repair, or public-interest implementation is materially implicated.
   - Lower-dependency innovation outside those classes may use somewhat broader temporary exclusion where disclosure is real, switching costs are low, and anti-lock-in safeguards remain effective.
 - **Disclosure condition and public-interest floor:** Reward claims require disclosure sufficient for independent understanding, audit, and later reproduction, subject only to justified temporary limits under **Chapter One** and **Article XVI-A** (*Lifecycle Governance and Environment Separation*).
@@ -1111,7 +1111,7 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
   - constitutional safety, audit, or compliance mechanisms.
 
   In those domains, institutions should prefer direct reward, pooled access, compulsory licensing, public buyout, or equivalent mechanisms that preserve implementation, repair, and broad diffusion.
-- **Reclassification and tightening:** Where an innovation initially treated as lower-dependency later becomes a dependency-critical coordination layer — for example, a platform, protocol, model, marketplace, or payment rail — institutions must reassess it under the applicable **CS-4 — System classification and handling** class.
+- **Reclassification and tightening:** Where an innovation initially treated as lower-dependency later becomes a dependency-critical coordination layer — for example, a platform, protocol, model, marketplace, or payment rail — institutions must reassess it under the applicable **CS-3 — System classification and handling** class.
   - Reassessment may narrow, convert, or terminate remaining exclusion where continued exclusivity would create:
     - coercive lock-in;
     - anti-competitive bottlenecks;

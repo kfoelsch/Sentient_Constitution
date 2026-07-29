@@ -28,7 +28,7 @@
 
 **Constitutional index (abridged)**
 - Detailed routing rules and source authorities are listed in the relevant subsections and cross-references below.
-- Canonical owner map: `corpus_joint_structure.md` **CJS-2.1** (*Topic router (stable IDs)*) and `doc_architecture.md` section 4.
+- Canonical owner map: **CJS-2.1** (*Topic router (stable IDs)*) and `doc_architecture.md` section 4.
 
 This section turns [Chapter Eleven](../core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) forum-access rules into day-to-day routing requirements. It explains how forum families must handle:
 - published intake classes and intake triage (**CF-5.1** (*Published intake classes*), **CF-5.2** (*Intake triage body*));

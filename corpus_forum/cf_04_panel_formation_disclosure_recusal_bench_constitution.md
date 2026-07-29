@@ -69,7 +69,7 @@ For this section:
 - `panel coordinator` means the published role responsible for recording panel formation, disclosures, recusals, substitutions, and inability-to-form findings. This role may be clerical, judicial-administrative, or equivalent, but must not unilaterally decide contested recusal merits where the coordinator is materially interested.
 - `backup activation` means transfer or co-routing to the constitutionally designated backup family under [Chapter Eleven](../core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) when the otherwise designated lead family cannot provide a lawful and independent merits forum.
 
-For cross-implementation interoperability, read these local definitions with `corpus_joint_structure.md` **CJS-4.5** (Tier 1 abstractions for delegated bodies, lawful independent forums, backup activation, and representative treatment).
+For cross-implementation interoperability, read these local definitions with **CJS-4.5** (Tier 1 abstractions for delegated bodies, lawful independent forums, backup activation, and representative treatment).
 
 ### CF-4.2 Minimum lawful-panel requirements
 <details>

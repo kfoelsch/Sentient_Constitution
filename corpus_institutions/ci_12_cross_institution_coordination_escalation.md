@@ -36,7 +36,7 @@
 
 *In plain terms: overlapping authority is not an excuse to improvise after a fight starts. Each affected institution must publish a usable coordination and escalation plan before conflict arises — with real owners, real deadlines, written transfer records, and backup routes that still work when independence is in doubt.*
 
-*Shared rules live elsewhere.* Cross-institution coordination terms are in [corpus_joint_structure.md](../corpus_joint_structure.md) **CJS-5.6** (*integrity assurance and resilience operations*), especially **Cross-institution coordination and escalation chain**. **CI-12** does not repeat those floors; it keeps only what each institution must name and maintain locally.
+*Shared rules live elsewhere.* Cross-institution coordination terms are in **CJS-5.6** (*integrity assurance and resilience operations*), especially **Cross-institution coordination and escalation chain**. **CI-12** does not repeat those floors; it keeps only what each institution must name and maintain locally.
 
 Apply **CJS-5.6** **Cross-institution coordination and escalation chain** for the shared floor.
 

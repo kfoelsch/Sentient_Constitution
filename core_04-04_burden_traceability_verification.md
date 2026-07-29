@@ -123,7 +123,7 @@ Where verification is technically possible but not practically achievable, treat
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: [Chapter Four, section 3 — Observability of Traceability Requirement](#3-observability-of-traceability-requirement); [Chapter One, section 8.2 — Epistemic Disclosure Constraints](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints).
-- Downstream: [Chapter Four, section 5 — Compliance Evidence Standard](#5-compliance-evidence-standard); [corpus_systems.md](corpus_systems.md), **CS-3 — Information types and handling**, and **Protocol A** — operational cryptography, credentials, and information-type handling.
+- Downstream: [Chapter Four, section 5 — Compliance Evidence Standard](#5-compliance-evidence-standard); [corpus_systems.md](corpus_systems.md), **CS-2 — Information types and handling**, and **Protocol A** — operational cryptography, credentials, and information-type handling.
 - Read with: [Chapter Five Clustered Definitions (Foreseeability Diligence)](core_05defs_oversight.md#foreseeability-diligence) — design choices that predictably prevent verification under reasonably foreseeable conditions are non-compliant regardless of stated security rationale; [Chapter Five Truth (Constitutional Constraint)](core_05defs_oversight.md#truth-constitutional-constraint) and [Chapter Five Safety (Constraint)](core_05defs_continuity.md#safety-constraint) — cryptographic and information-type handling must not replace **sections 2**, **3**, or **5**; **Articles VII-A**, **VII-B**, **XV-A**, and **XVI-A** where environment-separation constraints are material.
 
 </details>
@@ -149,7 +149,7 @@ Where a limit blocks meaningful independent validation, the associated complianc
 - that determination is independently justified and auditable
 - the remaining method preserves sufficient epistemic integrity for compliance determination
 
-Cryptography and information-type handling must align with the constitution and **[corpus_systems.md](corpus_systems.md), CS-3 — Information types and handling**; where materially relevant, they must still permit full compliance verification under this chapter. Cryptographic and information-type handling must not replace [Truth (Constitutional Constraint)](core_05defs_oversight.md#truth-constitutional-constraint) or [Safety (Constraint)](core_05defs_continuity.md#safety-constraint), or the duties in **sections 2**, **3**, or **5**.
+Cryptography and information-type handling must align with the constitution and **[corpus_systems.md](corpus_systems.md), CS-2 — Information types and handling**; where materially relevant, they must still permit full compliance verification under this chapter. Cryptographic and information-type handling must not replace [Truth (Constitutional Constraint)](core_05defs_oversight.md#truth-constitutional-constraint) or [Safety (Constraint)](core_05defs_continuity.md#safety-constraint), or the duties in **sections 2**, **3**, or **5**.
 
 ### 5. Compliance Evidence Standard
 <details>

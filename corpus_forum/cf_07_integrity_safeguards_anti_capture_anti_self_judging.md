@@ -30,7 +30,7 @@
 **Constitutional index (abridged)**
 - This section collects the forum-side safeguards for Integrity forum alignment work, capture-sensitive routing, anti-self-judging support, and family-level capture activation.
 - Detailed routing rules and cited authorities remain in the subsections and cross-references below.
-- The canonical owner map remains `corpus_joint_structure.md` **CJS-2.1** (*Topic router (stable IDs)*) and `doc_architecture.md` section 4.
+- The canonical owner map remains **CJS-2.1** (*Topic router (stable IDs)*) and `doc_architecture.md` section 4.
 
 **Chapter Eleven linkage.** This file implements the Chapter Eleven interfaces that Integrity forums need to run alignment work without becoming the general owner of constitutional routing:
 - **Section 4** authorizes Integrity forum alignment rulings and official constitutional alignment recognition or review for new and existing systems.
@@ -152,7 +152,7 @@ Adopting instruments must publish tie-break rules for ordering component referra
 <br>
 
 
-Supervisory coordination applies the `corpus_joint_structure.md` **CJS-3.3** (*Boundary Between Support Roles and Merits Decisions*) merits-boundary rule. The rule covers forum-managed stays, sequencing, status review, and milestone accountability. Supervisory coordination is not partisan advocacy for a party outcome. It is also not a substitute for prosecutorial, institutional, or investigative merits bodies where those roles are lawfully distinct under **CF-9** (*Independent investigative service and prosecution interface*) and `corpus_institutions.md`.
+Supervisory coordination applies the **CJS-3.3** (*Boundary Between Support Roles and Merits Decisions*) merits-boundary rule. The rule covers forum-managed stays, sequencing, status review, and milestone accountability. Supervisory coordination is not partisan advocacy for a party outcome. It is also not a substitute for prosecutorial, institutional, or investigative merits bodies where those roles are lawfully distinct under **CF-9** (*Independent investigative service and prosecution interface*) and `corpus_institutions.md`.
 
 #### CF-7.1.4 Merits Boundaries and Referred-Forum Authority
 <details>
@@ -236,7 +236,7 @@ Where an alignment ruling materially stabilizes outcomes beyond the named partie
 <br>
 
 
-**Purpose.** Provide official, contestable forum mechanics for recognizing new materially impactful systems as constitutionally aligned within a stated scope. The same mechanics also check whether existing systems remain aligned over time. This subsection implements `core_11-11_forum.md` **Chapter Eleven**, **sections 3, 5, and 8**, and works with `corpus_systems.md` **Protocol A** and **CS-4 — System classification and handling** classification and revalidation duties.
+**Purpose.** Provide official, contestable forum mechanics for recognizing new materially impactful systems as constitutionally aligned within a stated scope. The same mechanics also check whether existing systems remain aligned over time. This subsection implements `core_11-11_forum.md` **Chapter Eleven**, **sections 3, 5, and 8**, and works with `corpus_systems.md` **Protocol A** and **CS-3 — System classification and handling** classification and revalidation duties.
 
 #### CF-7.2.1 Technical-Specification and Environmental-Component Separation
 <details>
@@ -330,7 +330,7 @@ Alignment recognition or review must be available when any of the following mate
 
 A recognition, validation, or revalidation record must identify:
 - the system, operator or steward, claimed scope, deployment context, and affected stakeholder or dependency classes;
-- the CS-4 — System classification and handling classification, CS-5 — Critical system stewardship stewardship tier where applicable, and the evidence supporting those classifications;
+- the CS-3 — System classification and handling classification, CS-4 — Critical system stewardship stewardship tier where applicable, and the evidence supporting those classifications;
 - the constitutional provisions, Rights-Floor obligations, CJS-5 (*Implementation and cross-implementation operational cluster library*) operational clusters, and implementation requirements treated as material;
 - where ecological exposure is material, the Environment forum environmental-alignment component record, including approval, conditional approval, objection, remediation requirements, or release-from-condition findings;
 - the technical specifications, measurement methods, test protocols, expert-evidence standards, and testing evidence considered;

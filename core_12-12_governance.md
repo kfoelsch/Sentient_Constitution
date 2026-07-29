@@ -91,7 +91,7 @@ Mechanism families, publication, auditability, and pluralism are addressed in **
 
 **Auditability, publication, and non-usurpation**
 
-- **Publication and Proportionality:** The active mechanism must be auditable. Audit records must include scope, renewal or reauthorization cadence, and material limits on delegated power. Auditability must be proportionate to **[corpus_systems.md](corpus_systems.md)**, CS-4 — System classification and handling classification, and to **material impact** under Chapter Five ([*Material*](core_05defs_oversight.md#material), [*Dependency*](core_05defs_continuity.md#dependency), [*Stakeholder*](core_05defs_participation.md#stakeholder)).
+- **Publication and Proportionality:** The active mechanism must be auditable. Audit records must include scope, renewal or reauthorization cadence, and material limits on delegated power. Auditability must be proportionate to **[corpus_systems.md](corpus_systems.md)**, CS-3 — System classification and handling classification, and to **material impact** under Chapter Five ([*Material*](core_05defs_oversight.md#material), [*Dependency*](core_05defs_continuity.md#dependency), [*Stakeholder*](core_05defs_participation.md#stakeholder)).
 - **Non-Usurpation:** Governing bodies may not treat silence, usage alone, or **marketing alignment** as substitute authorization. Deliberate adoption remains governed by **Chapter Sixteen** (*Ratification and Adoption*).
 
 **Contestation, correction, and pluralism**
@@ -107,8 +107,8 @@ Mechanism families, publication, auditability, and pluralism are addressed in **
 
 - **Eligibility without age requirements:**
     - Roles that exercise **governing authority** under this chapter must not impose a **calendar age** or a **life-stage ceiling** as an eligibility condition.
-    - The same prohibition applies to roles under **Critical System Stewardship** as defined in **[corpus_systems.md](corpus_systems.md), CS-5 — Critical system stewardship**.
-    - **Competency**, **succession readiness**, and **fitness** standards remain governed by **Chapter Twelve**, section **5** (*Authorized Roles, Competency Development, and Contribution*), **[corpus_systems.md](corpus_systems.md), CS-5 — Critical system stewardship**, designated implementation text, and **corpus_institutions.md** (e.g. appointment and role-pathway mechanics under **CI-4** (*Appointment, competency, rotation, and removal*) and related sections) as applicable.
+    - The same prohibition applies to roles under **Critical System Stewardship** as defined in **[corpus_systems.md](corpus_systems.md), CS-4 — Critical system stewardship**.
+    - **Competency**, **succession readiness**, and **fitness** standards remain governed by **Chapter Twelve**, section **5** (*Authorized Roles, Competency Development, and Contribution*), **[corpus_systems.md](corpus_systems.md), CS-4 — Critical system stewardship**, designated implementation text, and **corpus_institutions.md** (e.g. appointment and role-pathway mechanics under **CI-4** (*Appointment, competency, rotation, and removal*) and related sections) as applicable.
     - Those standards must be **demonstrated** under **Chapters Two through Four**, subject to [**Substantive Fairness**](core_05defs_participation.md#substantive-fairness-constitutional), [**Proportionality**](core_05defs_accountability.md#proportionality), and [**Necessity**](core_05defs_accountability.md#necessity) in Chapter Five, and not used as **proxies** for age-based exclusion.
 
 **Contested selection, opposition protection, and peaceful succession**
@@ -334,7 +334,7 @@ Where material disagreement requires a **binding stakeholder choice** within an 
 
 - Upstream: [§1](#1-authorization-and-legitimacy-of-governing-authority)–[§2](#4-voting-and-binding-collective-choice-protocols) how authority is authorized, recorded, and exercised in collective choice.
 - Downstream: Role integrity and due-process requirements in [Article XI-D: Internal Roles, Accountability, and Due-Process Requirements](core_06-06_rights_part_b.md#article-xi-d-internal-roles-accountability-and-due-process-requirements); **corpus** design and lane hooks in [corpus_systems.md](corpus_systems.md), [corpus_institutions.md](corpus_institutions.md), and [corpus_joint_structure.md](corpus_joint_structure.md) as cited below.
-- Read with: **[corpus_systems.md](corpus_systems.md)** (**CS-5 — Critical system stewardship**, Protocol S5) and **CI-4** / **CI-11** / **CI-12** in the implementation corpus referenced in operative text.
+- Read with: **[corpus_systems.md](corpus_systems.md)** (**CS-4 — Critical system stewardship**, Protocol S5) and **CI-4** / **CI-11** / **CI-12** in the implementation corpus referenced in operative text.
 
 </details>
 
@@ -344,11 +344,11 @@ Where material disagreement requires a **binding stakeholder choice** within an 
 
 Material stewardship and operation require **sentients** who can **exercise** authority **competently**, not only **structures** that distribute it on paper.
 
-- **Authorized-role and competency floor:** Adopters must maintain documented, auditable, and challengeable role definitions and competency or succession capacity proportionate to impact and classification. Constitutional duties must not depend on single points of sentient-level failure. Class-scaled lane staffing and competency-redundancy interlocks that combine **`corpus_systems.md`** classification profile with **`corpus_institutions.md`** lane design are applied through **`corpus_joint_structure.md` CJS-4.4** (*Class-scaled lane staffing and competency redundancy*) and its routed owner hooks.
+- **Authorized-role and competency floor:** Adopters must maintain documented, auditable, and challengeable role definitions and competency or succession capacity proportionate to impact and classification. Constitutional duties must not depend on single points of sentient-level failure. Class-scaled lane staffing and competency-redundancy interlocks that combine **`corpus_systems.md`** classification profile with **`corpus_institutions.md`** lane design are applied through **CJS-4.4** (*Class-scaled lane staffing and competency redundancy*) and its routed owner hooks.
 - **Open stewardship-development pathways and incentive integrity floor:** Qualified sentients must have non-arbitrary stewardship-development pathways into progressively consequential stewardship responsibilities, and stewardship incentives must reward constitutional care without burdening good-faith safety or integrity escalation.
 - **Anti-symbolism rule:** Titles or advisory forums do not satisfy this section where real authority and competency are required for materially binding decisions. Detailed role taxonomy, qualification/succession controls, stewardship-development pathway access implementation, and incentive-governance mechanics are governed by `corpus_institutions.md` **CI-4** (*Appointment, competency, rotation, and removal*), **CI-11** (*Resource stewardship and incentive integrity*), and **CI-12** (*Transparency, participation, and accessible pathways*).
 
-**Cross-reference (section 5):** **Article XI-D** (*Internal Roles, Accountability, and Due-Process Requirements*); adopted governance implementation on role integrity; **[corpus_systems.md](corpus_systems.md), CS-5 — Critical system stewardship** and **Protocol S5**; and **corpus_institutions.md** (**CI-4** (*Appointment, competency, rotation, and removal*), **CI-11** (*Resource stewardship and incentive integrity*), **CI-12** (*Transparency, participation, and accessible pathways*), and related sections as applicable).
+**Cross-reference (section 5):** **Article XI-D** (*Internal Roles, Accountability, and Due-Process Requirements*); adopted governance implementation on role integrity; **[corpus_systems.md](corpus_systems.md), CS-4 — Critical system stewardship** and **Protocol S5**; and **corpus_institutions.md** (**CI-4** (*Appointment, competency, rotation, and removal*), **CI-11** (*Resource stewardship and incentive integrity*), **CI-12** (*Transparency, participation, and accessible pathways*), and related sections as applicable).
 
 ---
 

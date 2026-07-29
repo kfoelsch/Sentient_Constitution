@@ -101,7 +101,7 @@ Additional non-delegable duties must be listed.
 
 *In plain terms: power must be split into distinct jobs so no one office runs everything unchecked. Required lanes include setting direction and policy, carrying decisions out, challenging and reviewing them, auditing and assuring integrity, and publishing evidence. Each institution must publish who holds each lane, note when one body hosts more than one lane, and document safeguards that keep those lanes independent — so outsiders can audit the map, challenge it, and see that power has not quietly pooled in one place.*
 
-Apply [corpus_joint_structure.md](../corpus_joint_structure.md) **CJS-5.11** (*distributed and proportional authority terms*) **Constitutional lane and functional separation** for the shared lane categories and separation floor.
+Apply **CJS-5.11** (*distributed and proportional authority terms*) **Constitutional lane and functional separation** for the shared lane categories and separation floor.
 
 This subsection states institutional owner duties: each institution must publish which local office, body, role, or process hosts each required lane; identify any merged hosting arrangement; document independence safeguards where one institution hosts more than one lane; and keep the lane map auditable, contestable, and current enough to prevent capture, unchecked concentration, and silent failure.
 
@@ -241,7 +241,7 @@ Each institution must maintain a plain-language risk appetite and tolerance stat
 3. **In-scope activities** — functions, services, authorities, and geographic or network domains claimed.
 4. **Out-of-scope limits** — material activities, authorities, or domains the institution is **not** authorized to exercise.
 5. **Affected communities and dependencies** — who relies on the institution, and which systems or infrastructures it depends on or gates, where material.
-6. **Classification assumptions** — system class, stewardship tier, or equivalent burden assumptions relied on, with a pointer to **CS-4** / **CS-5** where applicable.
+6. **Classification assumptions** — system class, stewardship tier, or equivalent burden assumptions relied on, with a pointer to **CS-3** / **CS-4** where applicable.
 7. **Amendment authority** — who may amend, what counts as material amendment, notice and contest paths, and that material amendments are non-delegable under [CI-3.1](#ci-31-non-delegable-governing-duties).
 8. **Periodic-review cadence** — next review date or interval, scaled to [material stake](../core_00_preamble.md#material-stake), class, dependency, and risk under [Proportionality](../core_05defs_accountability.md#proportionality) and [Classification-Scaled Governance](../core_05defs_oversight.md#classification-scaled-governance).
 9. **Alignment and contest hooks** — how charter–behavior mismatch, overdue review, or operation outside chartered scope routes to internal correction, [Chapter Seven](../core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) reopening where certification applies, and [Chapter Eleven §4.3](../core_11-11_forum.md#43-institutional-forums) Institutional forums.

@@ -26,7 +26,7 @@
 
 **Constitutional index (abridged)**
 - Topic-level routing and cited authorities remain in subsection text and cross-references.
-- Canonical owner map: `corpus_joint_structure.md` **CJS-2.1** (*Topic router (stable IDs)*) and `doc_architecture.md` section 4.
+- Canonical owner map: **CJS-2.1** (*Topic router (stable IDs)*) and `doc_architecture.md` section 4.
 
 This chapter governs temporary forum substitution mechanics when ordinary operation is unavailable, compromised, or unable to form lawful authority. It covers temporary quorum, backup venues, capture-sensitive fallback, family-capture fallback, transfer records, and return-to-primary discipline.
 

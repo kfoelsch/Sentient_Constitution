@@ -33,7 +33,7 @@
 
 **Constitutional index (abridged)**
 - Topic-level routing and cited authorities remain in subsection text and cross-references.
-- Canonical owner map: `corpus_joint_structure.md` **CJS-2.1** (*Topic router (stable IDs)*) and `doc_architecture.md` section 4.
+- Canonical owner map: **CJS-2.1** (*Topic router (stable IDs)*) and `doc_architecture.md` section 4.
 
 This section applies to all forum families recognized in `core_11-11_forum.md` **Chapter Eleven**, including any specialist chamber or designated technical panel operating within those families.
 
@@ -134,7 +134,7 @@ Backlog is constitutionally relevant when it materially degrades challenge right
 <br>
 
 
-This subsection applies **Contestability** and `corpus_joint_structure.md` **CJS-5.13** (*procedural integrity and adjudication terms*) to forum timing, quality, damage, accessibility, publication, and remediation discipline. The point is practical usability: notice, record access, review, appeal, restorative follow-through, and closure must still work in real conditions.
+This subsection applies **Contestability** and **CJS-5.13** (*procedural integrity and adjudication terms*) to forum timing, quality, damage, accessibility, publication, and remediation discipline. The point is practical usability: notice, record access, review, appeal, restorative follow-through, and closure must still work in real conditions.
 
 It does **not** add **Chapter Six** rights text. Operational detail for non-forum institutions sits in **`corpus_institutions.md`** **CI-6** (*Procedure integrity, contestability, and secondary review*), **CI-12** (*Transparency, participation, and accessible pathways*), and **CI-13** (*Institutional failure, sanctions, dissolution, and accountability*).
 
