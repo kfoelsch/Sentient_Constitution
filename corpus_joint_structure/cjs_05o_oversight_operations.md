@@ -16,9 +16,9 @@ This family operationalizes the **Oversight** leg of the [Constitutional Tetrad]
 | Cluster | Section |
 |---|---|
 | **CJS-5.2** | Oversight: reflexive transparency and accountability terms |
-| **CJS-5.3** | Oversight: auditability and reconstructability terms |
-| **CJS-5.4** | Oversight: tiered transparency and audit-access terms |
-| **CJS-5.5** | Oversight: independent verification and claim-integrity terms |
+| **CJS-5.3** | Oversight: **audit process home** (what / why / how / when) — plus auditability and reconstructability terms |
+| **CJS-5.4** | Oversight: tiered transparency and audit-access terms (annex — including audit-process output disclosure) |
+| **CJS-5.5** | Oversight: independent verification and claim-integrity terms (annex) |
 | **CJS-5.6** | Oversight: integrity assurance and resilience operations |
 
 ---
@@ -32,7 +32,7 @@ This family operationalizes the **Oversight** leg of the [Constitutional Tetrad]
 - Read with: **CJS-5.10**; **CJS-5.3**; **CJS-5.4**; **CJS-5.5**; **CJS-5.15 and CJS-5.6**; **CJS-5.2 and CJS-5.6**.
 - Read with: **CJS-5.2** (*Oversight: reflexive transparency and accountability terms*) and **CJS-5.6** (*Oversight: integrity assurance and resilience operations*) — Reflexive Transparency and Accountability
 - Read with: **CJS-5.10 — Transparency and Disclosure**
-- Read with: **CJS-5.3 — Auditability**
+- Read with: **CJS-5.3** (*audit process home*)
 - Read with: **CJS-5.4 — Tiered Transparency and Audit Access**
 - Read with: **CJS-5.5 — Independent Verification and Integrity of Claims**
 - Read with: **CJS-5.15** (*Accountability: structural review, correction urgency, and disclosure terms*) and **CJS-5.6** (*Oversight: integrity assurance and resilience operations*) — Evolution, Revalidation, and Non-Entrenchment
@@ -115,21 +115,23 @@ Transparency, audit, and verification-integrity duties
 ---
 
 ---
-## CJS-5.3 Oversight: auditability and reconstructability terms
+<a id="cjs-53-audit-process-home"></a>
+## CJS-5.3 Oversight: audit process, auditability, and reconstructability
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05_definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **CJS-5.3 Oversight: auditability and reconstructability terms**.
-- Read with: **CJS-5.3**; **CJS-5.10**; **CJS-5.4**.
+- Downstream: this section's **audit process home** (what / why / how / when / sibling modes) and its local auditability and reconstructability OP terms.
+- Read with: **CJS-5.3**; **CJS-5.4**; **CJS-5.5**; **CJS-5.10**.
 - Topic routing (mandatory read-with): **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CJS-4.3**.
 - Topic routing (mandatory read-with): **CJS-R19** (*integrity assurance and resilie…*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CJS-5.6**.
-- Read with: **CJS-5.3 — Auditability**
+- Read with: **Article XV** (*Audit, Transparency, and Independent Verification*) and **Article XV-A** (*Auditability and Observable Evidence*) — Rights Floor; this section owns cross-implementation *how* / *when*
+- Read with: **CJS-5.4** (*tiered transparency and audit-access terms* — annex for access tiers and audit-output disclosure)
+- Read with: **CJS-5.5** (*independent verification and claim-integrity terms* — annex for claim checking)
 - Read with: **CJS-5.10 — Transparency and Disclosure**
-- Read with: **CJS-5.4 — Tiered Transparency and Audit Access**
-- Read with: **Article XV-A** (*Auditability and Observable Evidence*)
 - Read with: **Article VII-B** (*Internal-State Boundary and Type-N Protection*)
-- Read with: [Chapter Seven](../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) (*System Alignment Certification* — one especially large audit process under oversight; not the sole auditing home)
+- Read with: **`corpus_systems.md` CS-2 — Information types and handling** (**Type O**, **Type G**, access-posture bands)
+- Read with: [Chapter Seven](../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) (*System Alignment Certification* — one especially large sibling audit mode; not the sole auditing home)
 - Constitutional frame: **Oversight** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05defs_oversight.md#materiality-determination).
 - Chapter One basis: §2.2, §3, §12.1, §12.2 (see [cluster map](#cjs-51-constitutional-compass-and-cluster-map)).
 </details>
@@ -144,15 +146,108 @@ Transparency, audit, and verification-integrity duties
 - [Dependency](../core_05defs_continuity.md#dependency) · [O](../core_05defs_continuity.md#dependency) · [A](../core_05defs_continuity.md#dependency-a) · [C](../core_05defs_continuity.md#dependency-c)
 - [Material](../core_05defs_oversight.md#material) · [O](../core_05defs_oversight.md#material) · [A](../core_05defs_oversight.md#material-a) · [C](../core_05defs_oversight.md#material-c)
 - [System](../core_05defs_continuity.md#system-definition) · [O](../core_05defs_continuity.md#system-definition) · [A](../core_05defs_continuity.md#system-definition-a) · [C](../core_05defs_continuity.md#system-definition-c)
+- [Oversight](../core_05apex_oversight_leg.md#oversight-constitutional) · [O](../core_05apex_oversight_leg.md#oversight-constitutional) · [A](../core_05apex_oversight_leg.md#oversight-constitutional-a) · [C](../core_05apex_oversight_leg.md#oversight-constitutional-c)
 
 </details>
 
 <br>
 
+*In plain terms: this is the shared audit-process home for systems, institutions, and forums — what auditing is, why we do it, how we do it, and when. The Rights Floor stays in **Article XV**; the checklists below and in **CJS-5.4** / **CJS-5.5** are the machine-facing annex.*
 
-Use this rule when records, access pathways, or verification design depend on standalone system behavior or combined system, dependency, or implementation-layer behavior.
+Use this section whenever someone needs to understand or run auditing across **CS**, **CI**, and **CF** — or whenever records, access pathways, or verification design depend on standalone or combined system, institution, forum, dependency, or implementation-layer behavior.
 
-**Oversight frame.** Under the Constitutional Tetrad **oversight** leg, oversight requires auditing. System Alignment Certification (Chapter Seven) is one especially large, high-stakes audit process among others; these CJS-5.3 terms apply to SAC records and to sibling audit modes. Auditing floors are not relocated into Chapter Seven.
+**Oversight frame.** Under the Constitutional Tetrad **oversight** leg, oversight requires auditing. [System Alignment Certification](../core_05defs_continuity.md#system-alignment-certification-constitutional) (Chapter Seven) is one especially large, high-stakes audit process among others. This section is the cross-implementation process home; it does not relocate **Article XV** floors into Chapter Seven or into any single CS / CI / CF file.
+
+<a id="cjs-53-what-auditing-is"></a>
+### What auditing is
+
+*In plain terms: auditing is an independent check of real behavior and evidence against what a system, institution, or forum claims — not a stamp, a popularity score, or a private club.*
+
+**Auditing** is the practical process of checking whether constitutional and implementation claims match what actually happened: records, behavior, outputs, effects, and responsibilities. It answers: *Can an outsider reconstruct what mattered, test the claim, and push back if something is wrong?*
+
+Auditing **is**:
+- an independent or plural check against real evidence
+- scaled to impact, dependency, and risk
+- required under oversight — not optional window dressing
+- able to produce usable outputs people can see or review
+
+Auditing **is not**:
+- a rubber stamp, marketing packet, or forever pass
+- the same thing as [System Alignment Certification](../core_05defs_continuity.md#system-alignment-certification-constitutional) alone — SAC is one large sibling mode
+- a single auditor, operator, or gatekeeper monopolizing review (**Article XV-B**)
+- a substitute for challenge and remedy under **Article XII-B** (*Right to Challenge, Review, and Redress*)
+- satisfied by saying "audit happened" when outputs are missing, unreachable, or typed more restrictively than justified
+
+<a id="cjs-53-why-we-audit"></a>
+### Why we audit
+
+*In plain terms: we audit so misalignment, concealment, and capture get caught before harm hardens — and so people can challenge and fix what went wrong.*
+
+We audit to:
+- catch **misalignment**, understatement of class or risk, concealment, and false reliance
+- keep **oversight** real as systems, institutions, and forums grow more powerful or entangled
+- support **challenge**, correction, and remedy before delay or opacity make accountability theoretical
+- preserve **trust** that depends on checkable claims, not prestige or insider assurance
+
+Depth and frequency scale with [material stake](../core_00_preamble.md#material-stake), class, dependency, and risk. Higher stakes mean deeper checks, clearer outputs, and harder-to-capture review paths.
+
+<a id="cjs-53-how-we-audit"></a>
+### How we audit
+
+*In plain terms: keep honest evidence, pick the right access tier, get an independent check, publish usable results as openly as you can, and leave a path to challenge.*
+
+A working audit process follows this chain:
+
+1. **Preserve evidence.** Keep records sufficient to reconstruct material behavior, decisions, effects, and claims (see the OP annex below; **Article XV-A**).
+2. **Choose the access path.** Use the tier that fits the data and the question:
+   - **public baseline** where [Public Oversight Baseline Disclosure](../core_05defs_oversight.md#public-oversight-baseline-disclosure) or other public duties apply (**Type O** under **CS-2**)
+   - **qualified / structured audit access** to non-public source (**Type G** or other non-public typing) when raw public release is inappropriate
+   - **forensic depth** when harm, dispute, or credible risk requires full reconstruction
+   - Access-tier mechanics live in **[CJS-5.4](#cjs-54-audit-process-output-disclosure)**; typing lives in **CS-2**.
+3. **Run an independent check.** Someone who is not captured by the operator or the claim under review must be able to test the evidence (**CJS-5.5**; **Article XV-B** / **XV-C**).
+4. **Publish usable outputs.** Findings, reports, eligibility rules for deeper access, and related artifacts must exist and remain reachable. Disclose them at the **most open feasible** tier: **Type O** (including strongest feasible public substitute) where feasible; otherwise qualified **Type G** or other non-public source; forensic or more-restricted tiers only as justified — see **[CJS-5.4](#cjs-54-audit-process-output-disclosure)**.
+5. **Leave challenge and correction open.** Audit supports contest under **Article XII-B**; it does not replace it. Material findings must be correctable and reviewable.
+
+Privacy and internal-state protections (**Article VII-B**) limit what may be exposed. They do **not** excuse hiding what was done, why it mattered, who or what was responsible, or what external effects followed.
+
+<a id="cjs-53-when-we-audit"></a>
+### When we audit
+
+*In plain terms: audit when impact is material, when something important changes, on a schedule that matches risk, and whenever harm or dispute requires reconstruction — not only when certification is due.*
+
+Audit when any of the following applies (often more than one):
+
+- **Class, impact, or dependency requires it** — including **Class A**, **Class B**, and **Class C** systems, and institution or forum functions that materially affect sentients
+- **Material change** — capability, scope, behavior, dependency, risk, incentive structure, or governance changes enough that prior checks no longer describe reality
+- **Periodic cadence** — on a schedule scaled to class and how fast the subject changes
+- **Incident, dispute, or credible risk** — including escalation to forensic depth when reconstruction is needed
+- **Continuous or automated monitoring** — where impact or criticality requires ongoing detection (including systems-layer monitoring profiles such as Protocol A ACA), without treating monitoring alone as a complete audit
+- **Certification or revalidation cycles** — including System Alignment Certification, which is one trigger among others, not the only time auditing happens
+
+"Where feasible" does **not** make required independent audit paths soft-optional for high-impact subjects. Eligibility rules for qualified independent or third-party paths must stay public and non-exclusive (**CJS-5.4**).
+
+<a id="cjs-53-sibling-modes"></a>
+### Sibling audit modes (owner map)
+
+*In plain terms: auditing shows up in several places — this home coordinates them; it does not swallow their owner files.*
+
+| Mode | Owner (do not restate doctrine here) |
+|---|---|
+| Rights Floor — audit, transparency, independent verification | **Article XV** (XV-A / XV-B / XV-C) |
+| System Alignment Certification (large, forum-supervised, recognition-bearing) | **Chapter Seven** |
+| Classification Record audit | **CS-3** §7.3 |
+| Data typing and access-posture for audit outputs | **CS-2** (Type O / Type G / bands); output-tier preference in **CJS-5.4** |
+| Complexity / comprehensibility audits (systems profile) | **Protocol B**; **Article XX** |
+| Claim integrity and independent verification terms | **CJS-5.5** |
+| Institutional transparency and accessible pathways | **CI-8** (read with **CI-7.3** where monitoring or escalation applies) |
+| Forum performance, backlog, publication, accessibility | **CF-11** |
+| Cross-implementation trust when layers combine | **CJS-4.3** / **CJS-R17** |
+
+---
+
+### Machine-facing annex — auditability and reconstructability terms
+
+The OP-O / OP-E / OP-C rules below are the compliance checklist for this process home. They do not replace the what / why / how / when guide above. Tiered access and audit-output disclosure continue in **CJS-5.4**; independent claim verification continues in **CJS-5.5**.
 
 auditability and reconstructability terms
 - OP-O: Records must be verifiable, independently reviewable, and adequate for reconstructing harm or disputes.
@@ -162,7 +257,7 @@ auditability and reconstructability terms
 **Article VII-B** (*Internal-State Boundary and Type-N Protection*) boundary and anti-concealment rule
 - OP-O: **Article VII-B** (*Internal-State Boundary and Type-N Protection*) protects private internal states, but that protection does not excuse systems from showing what they did, why it mattered, who or what was responsible, and what external effects followed.
 - OP-E: Evaluation must verify that privacy limits protect internal states without preventing lawful audit of actions, outputs, decisions, effects, responsibilities, or control pathways.
-- OP-C: It is non-compliant to invoke internal-state protection in a way that conceals accountability-relevant system behavior or prevents lawful reconstruction of external facts.---
+- OP-C: It is non-compliant to invoke internal-state protection in a way that conceals accountability-relevant system behavior or prevents lawful reconstruction of external facts.
 
 Auditability floor and record sufficiency
 - OP-O: Systems must keep records sufficient to evaluate compliance, reconstruct material behavior, and verify material claims.
@@ -185,15 +280,17 @@ Operational transparency and structured logging requirements
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05_definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **CJS-5.4 Oversight: tiered transparency and audit-access terms**.
-- Read with: **CJS-5.4**; **CJS-5.3**; **CJS-5.20 and CJS-5.18**.
+- Downstream: this section's local operational requirements for **CJS-5.4 Oversight: tiered transparency and audit-access terms** (annex to the **[CJS-5.3 audit process home](#cjs-53-audit-process-home)**).
+- Read with: **CJS-5.4**; **CJS-5.3**; **CJS-5.5**; **CJS-5.20 and CJS-5.18**.
+- Read with: **CJS-5.3** (*audit process home* — what / why / how / when; this cluster is the access-tier and output-disclosure annex)
 - Read with: **CJS-5.4 — Tiered Transparency and Audit Access**
-- Read with: **CJS-5.3 — Auditability**
+- Read with: **CJS-5.5 — Independent Verification and Integrity of Claims**
 - Read with: **CJS-5.20** (*Continuity: reversibility and containment terms*) and **CJS-5.18** (*Continuity: data-retention and lifecycle-integrity terms*) — Reversibility and Containment
 - Read with: **Chapter One §6.3.1 — Rights-Collision Decision Test**
 - Read with: **`corpus_forum.md` CF-12 through CF-14 — Forum continuity, fallback operation, and emergency adjudication**
-- Read with: **Article XV-A** (*Auditability and Observable Evidence*)
+- Read with: **Article XV** (*Audit, Transparency, and Independent Verification*) and **Article XV-A** (*Auditability and Observable Evidence*)
 - Read with: **Article VII-B** (*Internal-State Boundary and Type-N Protection*)
+- Read with: **`corpus_systems.md` CS-2 — Information types and handling** (**Type O**, **Type G**, access-posture bands, and [Part A §5.3](../corpus_systems/cs_02_a_information_types_and_handling.md#53-tiered-transparency-and-audit-access) / [§7](../corpus_systems/cs_02_a_information_types_and_handling.md#7-type-o-baseline-for-class-abc-systems))
 - Constitutional frame: **Oversight** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05defs_oversight.md#materiality-determination).
 - Chapter One basis: §2.2, §11.2, §11.4, §12.1, §13 (see [cluster map](#cjs-51-constitutional-compass-and-cluster-map)).
 </details>
@@ -213,7 +310,9 @@ Operational transparency and structured logging requirements
 
 <br>
 
-Use this rule when public visibility, qualified review, or forensic reconstruction depends on a standalone system, institution, forum, or bounded decision domain, or on how multiple systems, dependencies, institutions, or implementation layers work together.
+*In plain terms: this cluster is the access-tier and audit-output annex to the **[CJS-5.3 audit process home](#cjs-53-audit-process-home)** — not the process home itself.*
+
+Use this rule when public visibility, qualified review, forensic reconstruction, or disclosure of **audit-process outputs** depends on a standalone system, institution, forum, or bounded decision domain, or on how multiple systems, dependencies, institutions, or implementation layers work together. For what auditing is, why / how / when to run it, start at **[CJS-5.3](#cjs-53-audit-process-home)**.
 
 tiered transparency and audit-access terms
 - OP-O: Access to information must be tiered so systems can be transparent, auditable, protective of lawful internal-state boundaries, and open to challenge.
@@ -250,6 +349,25 @@ Tier structure and baseline accessibility
 - OP-E: Evaluation must verify that baseline access works for ordinary use, not only in theory.
 - OP-C: Access tiers are non-compliant if the baseline is too thin for meaningful participation or risk review.
 
+<a id="cjs-54-audit-process-output-disclosure"></a>
+Audit process output disclosure preference
+- OP-O: Material audit, verification, and independent-review processes must produce usable outputs — including findings, reports, eligibility rules for deeper access, and related artifacts needed for oversight and contestability. Disclose those outputs at the **most open feasible** tier under **CS-2**:
+  1. publish as **Type O** — including the strongest feasible **Type O** public substitute — where [Public Oversight Baseline Disclosure](../core_05defs_oversight.md#public-oversight-baseline-disclosure) or another public-baseline duty applies, or where the output can lawfully be public;
+  2. otherwise provide **structured or qualified audit access** to **Type G** or other non-public source under this cluster and **CJS-5.3**;
+  3. escalate to **forensic** or more-restricted tiers (**Type H**, **Type I**, **Type S**, **Type N**, or justified hold-backs) only when required by the applicable type, necessity, and constraint rules — and only while preserving maximum feasible visibility into the existence and character of the audit and its material results.
+- OP-E: Evaluation must verify the disclosure tier chosen, the **Type O** / **Type G** (or other) typing, any public substitute used, that restricted tiers do not replace required public-baseline disclosure, and that outputs remain reconstructable and challengeable.
+- OP-C: It is non-compliant to treat "audit happened" as sufficient when material outputs are missing, unreachable, typed more restrictively than justified, or when non-public **Type G** (or other) audit access is used as a substitute for required **Type O** publication.
+
+Independent and third-party audit-path availability
+- OP-O: Where class, impact, or dependency requires independent checking — including **Class A**, **Class B**, and **Class C** — qualified independent or third-party audit paths must remain available under the disclosure preference above. Eligibility rules must be public (**Type O** where they govern access) and non-exclusive.
+- OP-E: Evaluation must verify that independent or third-party reviewers can realistically enter those paths, obtain outputs at the required tier, and that no single actor controls access unfairly.
+- OP-C: Qualification or availability rules are non-compliant if they hide exclusion, make independent audit unreachable in practice, or leave material audit paths soft-optional where class or impact requires them.
+
+Audit-output anti-concealment
+- OP-O: Audit-process outputs must remain sufficient, at the applicable tier, for reviewers to detect material misrepresentation of class, scope, behavior, compliance, dependency, or risk — including understatement, selective omission, and unreported material behavior change.
+- OP-E: Evaluation must verify that output scope, fidelity, and retention match the claims and systems under review.
+- OP-C: Outputs are non-compliant when they are too thin, delayed, redacted, or fragmented to catch material concealment that the audit path was required to surface.
+
 
 
 ---
@@ -264,7 +382,7 @@ Tier structure and baseline accessibility
 - Read with: **CJS-5.5**; **CJS-5.3**; **CJS-5.4**.
 - Topic routing (mandatory read-with): **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CJS-4.3**.
 - Read with: **CJS-5.5 — Independent Verification and Integrity of Claims**
-- Read with: **CJS-5.3 — Auditability**
+- Read with: **CJS-5.3** (*audit process home*)
 - Read with: **CJS-5.4 — Tiered Transparency and Audit Access**
 - Read with: Chapter Fifteen and rights-layer protections where material claims shape rights-relevant decisions.
 - Constitutional frame: **Oversight** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05defs_oversight.md#materiality-determination).
@@ -286,8 +404,9 @@ Tier structure and baseline accessibility
 
 <br>
 
+*In plain terms: this cluster is the claim-checking annex to the **[CJS-5.3 audit process home](#cjs-53-audit-process-home)** — how material claims stay independently testable.*
 
-Use this rule when evidence quality, verification routes, or trust claims depend on a standalone system, institution, forum, or bounded decision domain, or on how multiple systems, dependencies, or implementation layers work together.
+Use this rule when evidence quality, verification routes, or trust claims depend on a standalone system, institution, forum, or bounded decision domain, or on how multiple systems, dependencies, or implementation layers work together. For the shared audit process (what / why / how / when), start at **[CJS-5.3](#cjs-53-audit-process-home)**.
 
 independent verification and claim-integrity terms
 - OP-O: Material claims must be independently checkable where doing so is feasible.

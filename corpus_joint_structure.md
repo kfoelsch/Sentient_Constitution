@@ -7,7 +7,7 @@
 - How shared contracts set authority, readability, identifiers, and “who owns this topic”
 - How topic routing and mandatory read-with order work across implementation files
 - How joint obligations and interlocks must be satisfied together — not restated as domain doctrine
-- How shared operational terms (evidence, procedure, dependency, participation, failure handling, and related) live in the **CJS-5** library
+- How shared operational terms (evidence, procedure, dependency, participation, failure handling, and related) live in the **CJS-5** library — including the **[CJS-5.3 audit process home](corpus_joint_structure/cjs_05o_oversight_operations.md#cjs-53-audit-process-home)** (what / why / how / when auditing works across CS, CI, and CF)
 - Families **CJS-1–CJS-5** and the registry annex carry the detail — expand **Joint structure index** below, or use the [topic router reader index](doc_architecture/generated/topic_router_reader_index.md), when you need a specific file
 
 **Does not:**

@@ -276,6 +276,8 @@ It must also balance protection of internal states and sensitive data (**Sentien
 
 For **Class A**, **Class B**, and **Class C** systems, [Public Oversight Baseline Disclosure](../core_05defs_oversight.md#public-oversight-baseline-disclosure) defined in **[Part B — Type O](cs_02_b_data_classifications.md#type-o-open-public-baseline-disclosure-data)** is **public by default**, subject to the substitute and holding-back rules in [§7](#7-type-o-baseline-for-class-abc-systems).
 
+**Audit-process outputs.** Findings, reports, eligibility rules for deeper access, and related artifacts from material audit, verification, or independent review follow the **[CJS-5.3 audit process home](../corpus_joint_structure/cjs_05o_oversight_operations.md#cjs-53-audit-process-home)** and the disclosure preference in **[CJS-5.4](../corpus_joint_structure/cjs_05o_oversight_operations.md#cjs-54-audit-process-output-disclosure)** (*tiered transparency and audit-access terms*): **Type O** where feasible, then qualified **Type G** (or other non-public source) access, then forensic or more-restricted tiers only as justified. This subsection owns the CS-2 typing and access-tier mechanics those outputs use; it does not relocate audit-process ownership out of **CJS-5.3**–**CJS-5.5**.
+
 Any limit on who may see or use data must be:
 - **narrow in scope** — only as broad as needed for the stated lawful purpose
 - **justified** — with reasons that can be checked

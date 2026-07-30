@@ -418,7 +418,9 @@ Forum verification under Chapter Seven §2 does **not** transfer ownership of th
 
 Auditability of the Classification Record is required under [§1.3](#13-mandatory-functional-classification) (**Article XV-A**, **Article XV**). Verification must inspect real behavior, outputs, and effects — not only claims in the file — on a schedule that matches impact and how fast the system changes.
 
-**For Class A, B, and C:** where feasible, make independent or third-party audit of the Classification Record available. Audits must be able to catch misclassification, under-classification, and unreported behavior changes.
+Audit-process duties follow the **[CJS-5.3 audit process home](../corpus_joint_structure/cjs_05o_oversight_operations.md#cjs-53-audit-process-home)** (what / why / how / when), including independent or third-party audit-path availability and disclosure of audit outputs under **[CJS-5.4](../corpus_joint_structure/cjs_05o_oversight_operations.md#cjs-54-audit-process-output-disclosure)** (**Type O** where feasible, then qualified **Type G** or other non-public source, then forensic or more-restricted tiers only as justified), read with **CJS-5.5** and **CS-2 — Information types and handling**.
+
+**For Class A, B, and C:** Classification Record audits must be able to catch misclassification, under-classification, and unreported behavior changes.
 
 <a id="74-challenge-and-contestability"></a>
 **7.4. Challenge the Classification Record.**
