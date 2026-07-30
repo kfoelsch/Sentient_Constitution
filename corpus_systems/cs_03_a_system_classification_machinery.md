@@ -280,56 +280,63 @@ Standardized reliance categories:
 <a id="6-domain-taxonomy-examples-and-scarce-capacity-handling"></a>
 ### 6. Domain taxonomy, ordinary examples, and scarce-capacity handling
 
-*In plain terms: publish a domain map for finding governed scope, apply ordinary market/intermediary examples honestly, and prioritize scarce API/traffic capacity by class.*
+*In plain terms: publish a map of real-world domains so people can find what is governed, apply ordinary market and intermediary examples honestly, and when capacity is scarce put survival-critical traffic first.*
 
 <a id="61-published-domain-taxonomy-for-regulatory-mapping"></a>
-**6.1. Published domain taxonomy for regulatory mapping.**
+**6.1. Published domain map.**
 
-Adopting instruments and governed institutions should maintain a published crosswalk that locates major industries and regulatory domains against CS-3 — System classification and handling classification and CS-4 — Critical system stewardship stewardship duties. This taxonomy is for locating governed scope and comparable domains; it does **not** replace class, tier, or impact analysis. At minimum, the published map should include:
-- **Agriculture and food systems** — cultivation, livestock, fisheries, food processing, seed systems, fertilizers, pesticides, irrigation, storage, and distribution;
-- **Mining and extractive industries** — mining, quarrying, drilling, tailings, waste handling, refining interfaces, and site restoration;
-- **Built environment** — architecture, construction, structural engineering, building operations, urban systems, building-code integrity, fire safety, and accessibility;
-- **Energy and utilities** — electricity, fuels, heat, grids, water delivery, wastewater, and comparable utility infrastructure;
-- **Transportation and logistics** — roads, rail, shipping, aviation, ports, warehouses, dispatch, and freight coordination;
-- **Manufacturing and industrial systems** — industrial production, fabrication, assembly, process safety, and industrial control environments;
-- **Medicine and public health** — clinical care, laboratories, trials, drugs, devices, epidemiology, and public-health administration;
-- **Information, computation, and communications** — software, AI, networks, platforms, telecom, info-sphere infrastructure, media-distribution, and coordination infrastructure;
-- **Finance and insurance** — banking, payments, clearing, credit, underwriting, risk transfer, market infrastructure, and contingent-claim / event-contract markets;
-- **Education and knowledge institutions** — schools, universities, credentialing, libraries, archives, textbooks, and research institutions;
-- **Personal-service platforms and intermediaries** — systems that match, dispatch, schedule, settle payment for, or reputation-score in-person personal services, including high-vulnerability and **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) contexts.
+Adopters and governed institutions should keep a published crosswalk that places major industries and regulatory domains against **CS-3 — System classification and handling** and **CS-4 — Critical system stewardship**. The map helps people locate governed scope and compare similar domains — it does **not** replace class, tier, or impact analysis.
 
-Additional domains may be published where local economies, ecosystems, or dependency structure make them constitutionally material. Domain labels must not be used to under-classify a system whose actual impact, dependency, or risk is higher than the usual pattern for that domain.
+At minimum, publish entries for:
+- **Agriculture and food** — growing, livestock, fisheries, processing, seeds, fertilizers, pesticides, irrigation, storage, and distribution
+- **Mining and extraction** — mining, quarrying, drilling, tailings, waste handling, refining interfaces, and site restoration
+- **Built environment** — architecture, construction, structural engineering, building operations, urban systems, building-code integrity, fire safety, and accessibility
+- **Energy and utilities** — electricity, fuels, heat, grids, water delivery, wastewater, and comparable utilities
+- **Transportation and logistics** — roads, rail, shipping, aviation, ports, warehouses, dispatch, and freight coordination
+- **Manufacturing and industry** — production, fabrication, assembly, process safety, and industrial control
+- **Medicine and public health** — clinical care, laboratories, trials, drugs, devices, epidemiology, and public-health administration
+- **Information, computation, and communications** — software, AI, networks, platforms, telecom, info-sphere infrastructure, media distribution, and coordination infrastructure
+- **Finance and insurance** — banking, payments, clearing, credit, underwriting, risk transfer, market infrastructure, and contingent-claim / event-contract markets
+- **Education and knowledge** — schools, universities, credentialing, libraries, archives, textbooks, and research institutions
+- **Personal-service platforms and intermediaries** — systems that match, dispatch, schedule, settle payment for, or reputation-score in-person personal services, including high-vulnerability contexts
+
+Add more domains where local economies, ecosystems, or dependency make them constitutionally material. Do **not** use a domain label to under-classify a system whose real impact, dependency, or risk is higher than that domain’s usual pattern.
 
 <a id="62-classification-examples-ordinary-application"></a>
-**6.2. Classification examples (ordinary application).**
+**6.2. Ordinary application examples.**
 
-Markets, payment rails, matchers, ranking engines, and other intermediaries stay inside this section when people depend on them, when they coordinate others at scale, or when they shape what information people see and trust. Two recurring applications:
+Markets, payment rails, matchers, ranking engines, and other intermediaries stay in scope when people depend on them, when they coordinate others at scale, or when they shape what information people see and trust.
 
 - **Market-mediated personal services**
-  - Systems that match, dispatch, schedule, settle payment for, or reputation-score **in-person** personal services are presumptively material for dependency, safety, coercion risk, and fairness analysis when impact thresholds are approached — especially where intimacy, bodily contact, private-space or in-home access, or isolated work is involved.
-  - They must not evade [**Article X-C**](../core_06-06_rights_part_b.md#article-x-c-adult-consensual-commercial-sexual-services-and-sexual-exploitation) (*Adult consensual commercial sexual services and sexual exploitation*) through technical exclusion, de-banking, or opaque ranking.
-  - Rights Floor: Chapter Six. Institutional interface: [**CI-19**](../corpus_institutions/ci_19_vulnerable_personal_services_markets_article_xc_interface.md). Stewardship scale: **CS-4 — Critical system stewardship**.
+  - Systems that match, dispatch, schedule, settle payment for, or reputation-score **in-person** personal services are presumptively material for dependency, safety, coercion risk, and fairness analysis when impact thresholds are approached — especially where intimacy, bodily contact, private-space or in-home access, or isolated work is involved
+  - Rights Floor: Chapter Six. Institutional interface: [**CI-19**](../corpus_institutions/ci_19_vulnerable_personal_services_markets_article_xc_interface.md). Stewardship scale: **CS-4 — Critical system stewardship**
 - **Contingent claims and event markets**
-  - Systems that match counterparties, pool stakes, or settle payments contingent on external events are presumptively material for incentive, capture, manipulation, and stability analysis.
-  - Constitutional direction: [Chapter One §11.5](../core_01_c_stewardship_capacity_principles.md#115-contingent-claims-games-of-chance-and-event-contract-markets). Stewardship scale: **CS-4 — Critical system stewardship**.
-  - Settlement prices or odds are not, by themselves, enough to decide epistemic questions under [**Article XIV**](../core_06-06_rights_part_c.md#article-xiv-info-sphere-integrity) (*Info-Sphere Integrity*) and [**Article XV-A**](../core_06-06_rights_part_c.md#article-xv-a-auditability-and-observable-evidence) (*Auditability and Observable Evidence*).
-  - This layer does not set licensing, criminal, or tax rules for gambling.
+  - Systems that match counterparties, pool stakes, or settle payments based on outside events are presumptively material for incentive, capture, manipulation, and stability analysis
+  - Constitutional direction: [Chapter One §11.5](../core_01_c_stewardship_capacity_principles.md#115-contingent-claims-games-of-chance-and-event-contract-markets). Stewardship scale: **CS-4 — Critical system stewardship**
+  - Settlement prices or odds alone are **not** enough to settle truth questions under [**Article XIV**](../core_06-06_rights_part_c.md#article-xiv-info-sphere-integrity) (*Info-Sphere Integrity*) and [**Article XV-A**](../core_06-06_rights_part_c.md#article-xv-a-auditability-and-observable-evidence) (*Auditability and Observable Evidence*)
+  - This layer does **not** set licensing, criminal, or tax rules for gambling
 
 <a id="63-scarce-capacity-api-and-traffic-priority-handling"></a>
-**6.3. Scarce-capacity, API, and traffic-priority handling for Class A/B/C systems.**
+**6.3. Scarce capacity, APIs, and traffic priority (Class A/B/C).**
 
-Where a system exposes scarce operational capacity, network access, compute, model inference, API calls, queue position, bandwidth, or comparable throughput that may become constrained during peak demand, operators must define **published priority rules** scaled to classification and dependency.
+When a system offers scarce capacity — network access, compute, model inference, API calls, queue position, bandwidth, or similar throughput that can run short at peak demand — operators must publish **priority rules** scaled to classification and dependency.
 
-**Class A traffic and API use** must receive the highest continuity protection where the request or dependent workflow is survival-critical, Rights-Floor-sustaining, emergency-response, or recovery-critical. Throttling, queuing, paid tiering, or commercial prioritization must not displace the minimum safe capacity needed to preserve Class A continuity, unless a narrower emergency measure is justified under **Chapter Six, Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*) and remains time-bounded, auditable, and restoration-triggered.
-
-**Class B traffic and API use** must receive priority sufficient to preserve normal operation of dependent systems and to prevent cascading degradation into Class A or broader systemic harm. Class B uses may be queued, rate-limited, or degraded before Class A uses when capacity is genuinely constrained, but degradation must be disclosed, proportionate, and designed around viable fallback or recovery paths.
-
-**Class C traffic and API use** may use ordinary priority tiers, commercial queues, rate limits, or paid high-volume interfaces where they do not create hidden exclusion, capture, or de facto operational necessity. If recurring peak-period constraints make Class C access practically necessary for dependent Class A or Class B workflows, operators must re-evaluate both classification and priority rules under **CS-3 — System classification and handling**.
+- **Class A** traffic and API use gets the highest continuity protection when the request or dependent workflow is survival-critical, Rights-Floor-sustaining, emergency-response, or recovery-critical
+  - Throttling, queuing, paid tiers, or commercial prioritization must **not** crowd out the minimum safe capacity Class A continuity needs
+  - A narrower emergency cut is allowed only under **Chapter Six, Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*), and only if it stays time-bounded, auditable, and restoration-triggered
+- **Class B** traffic and API use gets enough priority to keep dependent systems running normally and to stop cascading degradation into Class A or broader systemic harm
+  - Class B may be queued, rate-limited, or degraded **before** Class A when capacity is genuinely short
+  - That degradation must be disclosed, proportionate, and designed around workable fallback or recovery paths
+- **Class C** traffic and API use may use ordinary priority tiers, commercial queues, rate limits, or paid high-volume interfaces where they do not create hidden exclusion, capture, or de facto operational necessity
+  - If recurring peak shortages make Class C access practically necessary for dependent Class A or Class B workflows, re-evaluate both classification and priority rules under **CS-3 — System classification and handling**
 
 <a id="64-commercial-use-surcharges-and-reinvestment-interface"></a>
-**6.4. Commercial-use surcharges and reinvestment interface.**
+**6.4. Commercial-use surcharges and reinvestment.**
 
-Operators may charge commercial-scale API users, high-volume business interfaces, premium latency tiers, or automated bulk consumers for the incremental burden they place on shared capacity. Such charges must be disclosed, proportionate, contestable where material, and consistent with the fiscal orientation in `corpus_institutions.md` **CI-10** (*Public revenue, fees, recurring charges, and billing integrity*). Revenue from those charges should be traceably available for operations, security, resilience, compute expansion, remedy capacity, and ecosystem/public-good support under **Protocol S5**, rather than becoming a concealed mechanism for denying baseline participation or entrenching chokepoint control.
+- Operators may charge commercial-scale API users, high-volume business interfaces, premium latency tiers, or automated bulk consumers for the extra burden they put on shared capacity
+- Those charges must be disclosed, proportionate, contestable where material, and consistent with `corpus_institutions.md` **CI-10** (*Public revenue, fees, recurring charges, and billing integrity*)
+- Revenue should be traceably available for operations, security, resilience, compute expansion, remedy capacity, and ecosystem/public-good support under **Protocol S5**
+- Charges must **not** become a hidden way to deny baseline participation or lock in chokepoint control
 
 <a id="7-classification-governance-disclosure-and-challenge"></a>
 ### 7. Classification governance, disclosure, and challenge
