@@ -146,7 +146,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 
 **Semi-independent context** (component definitions may still operate outside joint-invocation scope):
 
-- **Scope:** the Continuity home for the Chapter Seven gate that checks whether a [System](core_05defs_continuity.md#system-definition) is constitutionally aligned before sentients rely on it at scale, including the CS-3 [Classification Record](core_05defs_continuity.md#classification-record-constitutional) that certification must incorporate when SAC runs.
+- **Scope:** the Continuity home for the Chapter Seven gate that checks whether a [System](core_05defs_continuity.md#system-definition) is constitutionally aligned before sentients rely on it at scale, including the CS-3 [Classification Record](core_05defs_continuity.md#classification-record-constitutional) that certification must incorporate when SAC runs. Under the **oversight** Tetrad leg, SAC is one especially large, high-stakes audit process among others — not the sole auditing home (**Article XV** and [Auditability](core_05defs_oversight.md#auditability) remain).
 - **Joint invocation:** wherever recognition, conditional recognition, validation, revalidation, continued reliance, deployment, or material release from conditions is at issue; and wherever a material-impact [Classification Record](core_05defs_continuity.md#classification-record-constitutional) is required under CS-3.
 - **Canonical owner:** process, record contents, supervisory sequence, contestability chain, and the standing-record bridge are stated in [Chapter Seven](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification); Classification Record dual-axis contents, disclosure, challenge, and reclassification live in [corpus_systems.md](corpus_systems.md) **CS-3 — System classification and handling**; these entries provide the Chapter Five meanings only.
 - **Cluster boundary:** [Dependency and cross-system support](core_05defs_continuity.md#dependency-and-cross-system-support-semi-independent) remains outside this group — certification may check Article IV duties when shared-infrastructure reliance is in scope, but it is not a member of that Article IV pair.
@@ -176,7 +176,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 
 <br>
 
-*In plain terms: **system alignment certification** (non-operative shorthand: **SAC**) is the forum-supervised check that a system is actually aligned with constitutional outcomes before sentients rely on it at scale — including checks that critical Rights Floors such as food, water, and shelter are not quietly defeated by how the system is built, classified, or operated.*
+*In plain terms: **system alignment certification** (non-operative shorthand: **SAC**) is the forum-supervised check that a system is actually aligned with constitutional outcomes before sentients rely on it at scale — including checks that critical Rights Floors such as food, water, and shelter are not quietly defeated by how the system is built, classified, or operated. Under the **oversight** Tetrad leg, oversight requires auditing; SAC is one especially large, high-stakes audit process among others — forum-supervised, multi-domain, and recognition-bearing — not the sole home of auditing (**Article XV**, [Auditability](core_05defs_oversight.md#auditability), and sibling audit modes remain).*
 
 - **What it is**
   - **In scope:** The forum-supervised process — and the bounded [System Alignment Certification Record](core_05defs_continuity.md#system-alignment-certification-record-constitutional) it produces — by which a [System](core_05defs_continuity.md#system-definition), within stated scope, class, time window, and review cadence, demonstrates constitutional alignment sufficient for:
@@ -187,6 +187,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - continued reliance;
     - deployment; or
     - material release from conditions.
+  - As an oversight instrument, SAC is one especially large audit process under [Auditability](core_05defs_oversight.md#auditability) and **Article XV** (*Audit, Transparency, and Independent Verification*). It does not absorb or replace sibling audit modes (including Classification Record audits, complexity and stewardship audits, claim verification, and continuous-audit pathways).
   - The process must produce or verify a [Classification Record](core_05defs_continuity.md#classification-record-constitutional) and include it in the System Alignment Certification Record for every materially impactful certification.
   - It supports **Flourishing** by verifying that systems materially affecting sentients preserve wellbeing, agency, and [Chapter Six](core_06-06_rights_part_a.md#chapter-six-foundational-rights) Rights Floors, including:
     - survival-essential access under **Article III-A** (*Survival*) where deployment, operation, or continued reliance would supply, gate, or sustain food, water, shelter, operating-environment, or comparable substrate-agnostic essentials; and

@@ -8,9 +8,9 @@
 >
 > This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter Seven, Part B** — certification **record** contents, transparency and contestability, forum component roles, supervisory sequence, standing bridge, and reopening (**§11–§16**, continuing from Part A §1–§10). **Part A** — evaluation requirements — is in [`core_07_a_system_alignment_certification_evaluation.md`](core_07_a_system_alignment_certification_evaluation.md).
 >
-> - **Constitutional owner (joint with Part A):** forum-supervised **system alignment certification and related records**.
+> - **Constitutional owner (joint with Part A):** forum-supervised **system alignment certification and related records**. Under the **oversight** Tetrad leg, SAC is one especially large, high-stakes audit process among others; auditing floors remain at **Article XV** and Chapter Five [Auditability](core_05defs_oversight.md#auditability).
 > - **Evaluation inputs:** [Part A §2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) through [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) supply evaluation outputs reflected on the certification record.
-> - **Anti-relocation rule:** Part B does not restate Part A evaluation mechanics, Chapter Five canonical definitions, Chapter Eight standing measurement, or Chapter Nine standing effects. **§15** states the standing bridge boundary explicitly.
+> - **Anti-relocation rule:** Part B does not restate Part A evaluation mechanics, Chapter Five canonical definitions, Chapter Eight standing measurement, or Chapter Nine standing effects. **§15** states the standing bridge boundary explicitly. Part B also does not relocate auditing ownership from **Article XV** / Chapter Five §3.2 / **CJS-5.3**–**CJS-5.5**.
 >
 > **Upstream:** [Part A](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation); Chapter Eleven forum supervision; Chapters Two through Four verification discipline.
 > **Downstream:** Chapter Eight standing records and verified inputs; Chapter Nine standing effects.
@@ -162,7 +162,7 @@ When the materiality triggers below apply to a **materially impactful system**, 
 
 <br>
 
-*In plain terms: a certification record only works if sentients can read it, verify it, and push back when it is wrong. This section puts those three requirements — transparency, auditability, and contestability — directly on the record itself, not as abstract ideals.*
+*In plain terms: a certification record only works if sentients can read it, verify it, and push back when it is wrong. This section puts those three requirements — transparency, auditability, and contestability — directly on the record itself, not as abstract ideals. Under the **oversight** Tetrad leg, oversight requires auditing; system alignment certification is one especially large audit process that must satisfy those floors here — it does not own or replace **Article XV** or sibling audit modes.*
 
 This section applies [Transparency](core_05defs_oversight.md#transparency), [Auditability](core_05defs_oversight.md#auditability), and [Contestability](core_05defs_accountability.md#contestability) to system alignment certification records. Canonical term homes and owner boundaries are under [Constitutional Owner Layers](core_05defs_integrative.md#constitutional-owner-layers). Under the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad):
 

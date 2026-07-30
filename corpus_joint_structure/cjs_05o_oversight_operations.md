@@ -129,6 +129,7 @@ Transparency, audit, and verification-integrity duties
 - Read with: **CJS-5.4 — Tiered Transparency and Audit Access**
 - Read with: **Article XV-A** (*Auditability and Observable Evidence*)
 - Read with: **Article VII-B** (*Internal-State Boundary and Type-N Protection*)
+- Read with: [Chapter Seven](../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) (*System Alignment Certification* — one especially large audit process under oversight; not the sole auditing home)
 - Constitutional frame: **Oversight** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05defs_oversight.md#materiality-determination).
 - Chapter One basis: §2.2, §3, §12.1, §12.2 (see [cluster map](#cjs-51-constitutional-compass-and-cluster-map)).
 </details>
@@ -150,6 +151,8 @@ Transparency, audit, and verification-integrity duties
 
 
 Use this rule when records, access pathways, or verification design depend on standalone system behavior or combined system, dependency, or implementation-layer behavior.
+
+**Oversight frame.** Under the Constitutional Tetrad **oversight** leg, oversight requires auditing. System Alignment Certification (Chapter Seven) is one especially large, high-stakes audit process among others; these CJS-5.3 terms apply to SAC records and to sibling audit modes. Auditing floors are not relocated into Chapter Seven.
 
 auditability and reconstructability terms
 - OP-O: Records must be verifiable, independently reviewable, and adequate for reconstructing harm or disputes.

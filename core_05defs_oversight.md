@@ -537,6 +537,8 @@ Relationship: a matter can be materially implicated without being materially mis
 This cluster is the joint-invocation home for disclosure, evidence preservation, audit, observability, verification mechanics, and
 proportionate assurance depth where Chapters Two through Four require traceable, contestable evidence of system behavior and compliance claims.
 
+**Oversight frame.** Under the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) **oversight** leg, oversight requires auditing — the reconstructability, independent verification, and audit-access floors owned here and at **Article XV** (*Audit, Transparency, and Independent Verification*). [System Alignment Certification](core_05defs_continuity.md#system-alignment-certification-constitutional) is one especially large, high-stakes audit process among others (forum-supervised alignment review with recognition outcomes under [Chapter Seven](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification)); it does not absorb this cluster or replace sibling audit modes.
+
 **Admission scope.** This cluster applies where a matter materially concerns transparency of materially decision-relevant
 behavior, evidence preservation, auditability and reconstructor-grade records, evaluation completeness against plausible failure modes, observable
 indicators, independent verification, or verification accessibility and independence under scaled or adversarial conditions.
@@ -678,15 +680,17 @@ See [Joint invocation and satisfaction](core_05_definitions_home.md#joint-invoca
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **oversight** leg; [Accountability](core_05apex_accountability_leg.md#accountability), [Contestability](core_05defs_accountability.md#contestability), [Epistemic Integrity](core_05defs_oversight.md#epistemic-integrity), and [Transparency](core_05defs_oversight.md#transparency).
-- Read with: owner-layer mechanics in [core_02-03_definition_mechanics.md](core_02-03_definition_mechanics.md) Chapters Two through Four.
+- Read with: **Article XV** (*Audit, Transparency, and Independent Verification*); [System Alignment Certification](core_05defs_continuity.md#system-alignment-certification-constitutional) (*one especially large audit process under oversight — not the sole auditing home*); owner-layer mechanics in [core_02-03_definition_mechanics.md](core_02-03_definition_mechanics.md) Chapters Two through Four.
 
 </details>
 
 <br>
 
+*In plain terms: **auditability** is whether outsiders can actually reconstruct and check what a system did — the core property oversight needs. System alignment certification is one especially large way that property gets exercised for high-stakes systems; it is not the only auditing process.*
+
 - **What it is**
-  - **In scope:** The property enabling systematic examination, reconstruction, and evaluation of system behavior through sufficient [Observability](core_05defs_oversight.md#observability) and [Verifiability](core_05defs_oversight.md#verifiability).
-  - **Out of scope:** Raw logs, observability alone, or public disclosure that does not enable systematic reconstruction and evaluation of behavior.
+  - **In scope:** The property enabling systematic examination, reconstruction, and evaluation of system behavior through sufficient [Observability](core_05defs_oversight.md#observability) and [Verifiability](core_05defs_oversight.md#verifiability). Under the **oversight** Tetrad leg, oversight requires this property; [System Alignment Certification](core_05defs_continuity.md#system-alignment-certification-constitutional) is one especially large, high-stakes audit process that depends on it, among sibling audit modes.
+  - **Out of scope:** Raw logs, observability alone, or public disclosure that does not enable systematic reconstruction and evaluation of behavior; treating [System Alignment Certification](core_05defs_continuity.md#system-alignment-certification-constitutional) as the sole auditing process or as a substitute for this property.
 <a id="auditability-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Oversight measurement family](core_05apex_oversight_leg.md#oversight-measurement-family) — *Can sentients see, verify, and rely on what systems represent?*
