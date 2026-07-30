@@ -19,7 +19,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: Integrative Materiality ([Materiality Determination](../core_05defs_oversight.md#materiality-determination)) (*Materiality gate for class scaling*); [Chapter Seven §2 System Class Evaluation](../core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation); [Protocol A — System Design, Testing, Verification, and Deployment](cs_protocol_a_system_design_testing_verification_deployment.md) (*recertification and regression testing*).
+- Read with: Integrative Materiality ([Materiality Determination](../core_05defs_oversight.md#materiality-determination)) (*Materiality gate for class scaling*); [Classification Record](../core_05defs_continuity.md#classification-record-constitutional); [Chapter Seven §2 System Class Evaluation](../core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation); [Protocol A — System Design, Testing, Verification, and Deployment](cs_protocol_a_system_design_testing_verification_deployment.md) (*recertification and regression testing*); [CS-1 — Operates in conjunction with](cs_01_scope_purpose_identifier_rules.md#operates-in-conjunction-with).
 
 </details>
 
@@ -32,25 +32,26 @@
 <a id="1-purpose-and-scope"></a>
 ### 1. Purpose and scope
 
-*In plain terms: classify systems by what they actually do and what can go wrong — not by what operators say they are — and keep that classification challengeable and revalidated.*
+*In plain terms: classify systems by what they actually do and what can go wrong — not by what operators say they are — and keep that classification challengeable and revalidated in a Classification Record.*
 
-**CS-3 — System classification and handling** is the systems-layer rulebook for assigning and governing system class from real-world effects. Obligations **scale** with impact and dependency. Classification **cannot evade** constitutional requirements.
+**CS-3 — System classification and handling** is the systems-layer rulebook for assigning and governing system class from real-world effects. Obligations **scale** with impact and dependency. Classification **cannot evade** constitutional requirements. For every system with **material impact**, CS-3 requires a [Classification Record](../core_05defs_continuity.md#classification-record-constitutional) stating dual-axis findings (impact class and dependency type(s)), rationale, assumptions, uncertainty, and monitoring or revalidation triggers. When [System Alignment Certification](../core_05defs_continuity.md#system-alignment-certification-constitutional) runs, that record must be produced or verified and included in the [System Alignment Certification Record](../core_05defs_continuity.md#system-alignment-certification-record-constitutional).
 
 CS-3 implements:
 
 - **How class is determined**
   - **Holistic multi-dimension classification** — evaluate impact, dependency, and risk together under real and foreseeable conditions ([§1.1](#11-holistic-classification); [§2](#2-classification-dimensions-and-interpretive-requirement))
   - **Existential and worst-case accounting** — classify to the highest plausible level where credible failure modes or civilization-scale harm pathways exist ([§1.2](#12-classification-and-existential-risk))
-  - **Mandatory functional classification** — class follows observed and reasonably foreseeable effects, not intent or self-description; remains transparent, auditable, challengeable, and continuously revalidated ([§1.3](#13-mandatory-functional-classification))
+  - **Mandatory functional classification** — class follows observed and reasonably foreseeable effects, not intent or self-description; remains transparent, auditable, challengeable, and continuously revalidated in a Classification Record ([§1.3](#13-mandatory-functional-classification))
+  - **Alignment-status recognition and ambiguity default** — the Classification Record must support forum recognition or revalidation when official alignment status is required; ambiguity defaults to protecting Foundational Rights ([§1.4](#14-alignment-status-recognition-and-ambiguity-default))
   - **Criticality, concentration, temporal, and adversarial factors** — operational criticality, concentration triggers, delayed/threshold behavior, and adversarial dynamics ([§3](#3-criticality-concentration-temporal-and-adversarial-factors))
-- **What class records must state (dual axes)**
+- **What the Classification Record must state (dual axes)**
   - **Dependency typing** — applicable **dependency type(s)** (**Class A–P** reliance categories) as a distinct axis from impact class ([§4](#4-dependency-types-class-ap))
   - **Impact-class catalog** — **Class A** through **Class P** impact definitions and scaled duties in **[Part B §8](cs_03_b_system_impact_classifications.md#8-system-impact-classifications)**
   - **Boundaries, timeframes, and resilience** — effective boundaries, survival-relevant timeframes, and class-scaled continuity ([§5](#5-boundaries-timeframes-and-resilience))
 - **How class is applied and governed**
   - **Domain mapping and scarce-capacity handling** — published domain crosswalk, ordinary application examples, and API/traffic priority rules ([§6](#6-domain-taxonomy-examples-and-scarce-capacity-handling))
   - **Classification governance** — operator responsibility, disclosure, audit, challenge, reclassification, and class-scaled assurance ([§7](#7-classification-governance-disclosure-and-challenge))
-  - **Joint operation** — read with CS-2, CJS clusters, Protocol A, and Chapters Two through Five Independent Definitions ([§1.4](#14-operates-in-conjunction-with))
+  - **Joint reading** — CS families, CJS clusters, Protocol A, and Chapter Five meanings co-apply per **[CS-1 — Operates in conjunction with](cs_01_scope_purpose_identifier_rules.md#operates-in-conjunction-with)**
 
 <a id="11-holistic-classification"></a>
 **1.1. Holistic classification.**
@@ -80,37 +81,33 @@ Account for expected and credible worst-case conditions in the system's realisti
 <a id="13-mandatory-functional-classification"></a>
 **1.3. Mandatory, functional classification.**
 
-*In plain terms: every material-impact system must have an honest, challengeable class based on what it does — not what operators claim — and ambiguity defaults to protecting Foundational Rights.*
-
-**Classification under CS-3 — System classification and handling** is **mandatory** for all systems with **material impact**. Classification must be:
-
-- **functionally determined** from observed and reasonably foreseeable effects rather than declared intent, structure, or self-description
-- **transparent**, **auditable**, and **subject to challenge** under **Article XV-A** (*Auditability and Observable Evidence*), **Article XV** (*Audit, Transparency, and Independent Verification*)'s verification-access provisions, and **Article XII-B** (*Right to Challenge, Review, and Redress*)
-- **continuously revalidated** per **CJS-5.18** (*data-retention and lifecycle-integrity terms*)
+*In plain terms: every material-impact system must have an honest, challengeable Classification Record based on what it does — not what operators claim.*
 
 **No** system may claim **reduced obligations**, **exemptions**, or **lower-impact** classification while exerting **material external** effects.
 
+**Classification under CS-3 — System classification and handling** is **mandatory** for all systems with **material impact**. Operators must maintain a [Classification Record](../core_05defs_continuity.md#classification-record-constitutional). Classification must be:
+
+- **functionally determined** from observed and reasonably foreseeable effects rather than declared intent, structure, or self-description
+- **transparent**, **auditable**, and **subject to challenge** under:
+  - **Article XV-A** (*Auditability and Observable Evidence*)
+  - **Article XV** (*Audit, Transparency, and Independent Verification*)'s verification-access provisions
+  - **Article XII-B** (*Right to Challenge, Review, and Redress*)
+- **continuously revalidated** per **CJS-5.18** (*data-retention and lifecycle-integrity terms*)
+
+<a id="14-alignment-status-recognition-and-ambiguity-default"></a>
+**1.4. Alignment-status recognition and ambiguity default.**
+
+*In plain terms: when official alignment recognition depends on classification, the record must be forum-inspectable — and when class is ambiguous, protect Foundational Rights.*
+
 Where classification, deployment, or continued operation depends on official constitutional alignment status:
 
-- the classification record must support **Integrity** forum recognition or revalidation under `core_11-11_forum.md` **Chapter Eleven** and `corpus_forum.md` **CF-7.2** (*Constitutional alignment recognition and review*)
+- the [Classification Record](../core_05defs_continuity.md#classification-record-constitutional) must support **Integrity** forum recognition or revalidation under `core_11-11_forum.md` **Chapter Eleven** and `corpus_forum.md` **CF-7.2** (*Constitutional alignment recognition and review*)
 - where material ecological exposure exists, it must also support **Environment** forum environmental-alignment component review before final recognition, validation, revalidation, or material release from environmental conditions
 - forum review must be able to inspect the classification rationale, assumptions, evidence, uncertainty, dependency analysis, ecological exposure analysis where material, and monitoring triggers without relying on operator self-description alone
 
 Where ambiguity exists, default to the level that protects **Foundational Rights** (**Chapter Six, Articles V through IX**), subject to **CJS-5.11** (*distributed and proportional authority terms*) and **CJS-5.7** (*quorum and participatory legitimacy terms*).
 
-<a id="14-operates-in-conjunction-with"></a>
-**1.4. Operates in conjunction with.**
-
-*In plain terms: CS-3 does not stand alone — read it with data typing, joint operational clusters, Protocol A lifecycle rules, and Chapter Five meanings.*
-
-**Together**, these ensure systems are judged by **what they do**:
-
-- **CS-2 — Information types and handling** (data)
-- **CJS-4.3** (*Cross-implementation trust integrity (joint operation model)*)
-- **CJS-5.11–CJS-5.13** (*Authority, constraint, secrecy, and procedure*) through **CJS-5.19–CJS-5.15** (*Failure, robustness, intervention, and correction*) operational clusters
-- constitutional **Authority Stack and Internal Hierarchy** in **Chapter Five**, read with **Chapter Sixteen** incorporation discipline
-- **Protocol A** (implementation and lifecycle)
-- **Sentient Constitution Chapters Two through Five** (definition requirements and Independent Definitions for materiality, reasonable foreseeability, dependency, system boundaries, risk, harm)
+CS-3 does not stand alone. Joint reading with CS-2, CS-4, Protocol A, CJS clusters, and Chapter Five meanings is stated in **[CS-1 — Operates in conjunction with](cs_01_scope_purpose_identifier_rules.md#operates-in-conjunction-with)**.
 
 <a id="2-classification-dimensions-and-interpretive-requirement"></a>
 ### 2. Classification dimensions and interpretive requirement
@@ -204,7 +201,7 @@ Systems must undergo **continuous or regularly scheduled** evaluation sufficient
 
 *In plain terms: separately record how hard it is to replace the system — Absolute, Operational, Coordination, Limited, or none meaningful — using the same Class letters as impact classes, without treating matching letters as the same finding.*
 
-**Dual-axis rule:** **Class A–P** letters label **two distinct axes** under CS-3. This section owns **dependency types** (reliance categories). **[Part B §8](cs_03_b_system_impact_classifications.md#8-system-impact-classifications)** owns **impact classes** (Survival-critical through Personal/private). A classification record must state **both** the applicable **dependency type(s)** and the **impact class**. Matching letters **correlate often** but **do not** collapse the axes into one finding.
+**Dual-axis rule:** **Class A–P** letters label **two distinct axes** under CS-3. This section owns **dependency types** (reliance categories). **[Part B §8](cs_03_b_system_impact_classifications.md#8-system-impact-classifications)** owns **impact classes** (Survival-critical through Personal/private). A [Classification Record](../core_05defs_continuity.md#classification-record-constitutional) must state **both** the applicable **dependency type(s)** and the **impact class**. Matching letters **correlate often** but **do not** collapse the axes into one finding.
 
 **Dependency, interaction, and boundary classification overview:** System classification reflects combined impact, dependency, and risk. **Dependency classification** describes structure and strength of reliance.
 

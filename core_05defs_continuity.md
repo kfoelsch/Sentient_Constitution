@@ -142,18 +142,19 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 
 <a id="system-alignment-certification-semi-independent"></a>
 
-#### System Alignment Certification and Certification Record
+#### System Alignment Certification, Certification Record, and Classification Record
 
 **Semi-independent context** (component definitions may still operate outside joint-invocation scope):
 
-- **Scope:** the Continuity home for the Chapter Seven gate that checks whether a [System](core_05defs_continuity.md#system-definition) is constitutionally aligned before sentients rely on it at scale.
-- **Joint invocation:** wherever recognition, conditional recognition, validation, revalidation, continued reliance, deployment, or material release from conditions is at issue.
-- **Canonical owner:** process, record contents, supervisory sequence, contestability chain, and the standing-record bridge are stated in [Chapter Seven](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification); these entries provide the Chapter Five meanings only.
-- **Cluster boundary:** [Dependency and cross-system support](core_05defs_continuity.md#dependency-and-cross-system-support-semi-independent) remains outside this pair — certification may check Article IV duties when shared-infrastructure reliance is in scope, but it is not a third member of that Article IV pair.
+- **Scope:** the Continuity home for the Chapter Seven gate that checks whether a [System](core_05defs_continuity.md#system-definition) is constitutionally aligned before sentients rely on it at scale, including the CS-3 [Classification Record](core_05defs_continuity.md#classification-record-constitutional) that certification must incorporate when SAC runs.
+- **Joint invocation:** wherever recognition, conditional recognition, validation, revalidation, continued reliance, deployment, or material release from conditions is at issue; and wherever a material-impact [Classification Record](core_05defs_continuity.md#classification-record-constitutional) is required under CS-3.
+- **Canonical owner:** process, record contents, supervisory sequence, contestability chain, and the standing-record bridge are stated in [Chapter Seven](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification); Classification Record dual-axis contents, disclosure, challenge, and reclassification live in [corpus_systems.md](corpus_systems.md) **CS-3 — System classification and handling**; these entries provide the Chapter Five meanings only.
+- **Cluster boundary:** [Dependency and cross-system support](core_05defs_continuity.md#dependency-and-cross-system-support-semi-independent) remains outside this group — certification may check Article IV duties when shared-infrastructure reliance is in scope, but it is not a member of that Article IV pair.
 
 **Topic group members.** This group comprises:
 - [System Alignment Certification](core_05defs_continuity.md#system-alignment-certification-constitutional) — the forum-supervised process for determining whether a system demonstrates constitutional alignment sufficient for recognition, validation, continued reliance, or deployment;
-- [System Alignment Certification Record](core_05defs_continuity.md#system-alignment-certification-record-constitutional) — the bounded, time-bound, and contestable file that process produces.
+- [System Alignment Certification Record](core_05defs_continuity.md#system-alignment-certification-record-constitutional) — the bounded, time-bound, and contestable file that process produces;
+- [Classification Record](core_05defs_continuity.md#classification-record-constitutional) — the bounded dual-axis class findings (impact class and dependency type(s)) required under CS-3 and incorporated into the System Alignment Certification Record when SAC runs.
 
 *Measurements (family routing):* Continuity measurement family — operative tiers on the member definitions below; progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md).
 
@@ -167,9 +168,9 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 
 - Constitutional frame: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **oversight**, **accountability**, **participation**, and **timeliness**; [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — **Flourishing** (primary) and **Continuity**; scales with [material stake](core_00_preamble.md#material-stake).
 - Canonical owner: [Chapter Seven — System Alignment Certification](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) (*process, record contents, supervisory sequence, and standing-record bridge*); read with [Constitutional Owner Layers](core_05defs_integrative.md#constitutional-owner-layers).
-- Cluster component: [System Alignment Certification and Certification Record](core_05defs_continuity.md#system-alignment-certification-semi-independent).
+- Cluster component: [System Alignment Certification, Certification Record, and Classification Record](core_05defs_continuity.md#system-alignment-certification-semi-independent).
 - Downstream: [Chapter Eight — Standing records and verified-input gate](core_08-08_standing_assessment.md#2-standing-records); [Chapter Eleven](core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) (*forum supervision*); [Article III-A](core_06-06_rights_part_a.md#article-iii-a-survival) (*survival-essential access floor where certification gates delivery or continued operation*); [Article IV-A](core_06-06_rights_part_a.md#article-iv-a-dependency-mapping-and-resource-flow-transparency) (*Dependency Mapping and Resource-Flow Transparency*) and [Article IV-B](core_06-06_rights_part_a.md#article-iv-b-cross-system-fairness-and-sustainability) (*resource allocation and dependency stewardship where certification gates shared-infrastructure reliance*).
-- Read with: [System Alignment Certification Record](core_05defs_continuity.md#system-alignment-certification-record-constitutional); [Dependency and cross-system support](core_05defs_continuity.md#dependency-and-cross-system-support-semi-independent) where shared-infrastructure reliance or Article IV resource stewardship is materially implicated; [Classification-Scaled Governance](core_05defs_oversight.md#classification-scaled-governance), [Auditability](core_05defs_oversight.md#auditability), [Contestability](core_05defs_accountability.md#contestability), [Timely Resolution](core_05defs_accountability.md#timely-resolution-constitutional), [Verified Inputs for Standing](core_05defs_accountability.md#verified-inputs-for-standing), [Standing Record](core_05defs_accountability.md#standing-record-chapter-six), [Trustworthiness](core_05defs_continuity.md#trustworthiness), [System Boundaries](core_05defs_continuity.md#system-boundaries), [Charter](core_05defs_continuity.md#charter), [System Capture](core_05defs_continuity.md#system-capture), and [corpus_systems.md](corpus_systems.md) **CS-3 — System classification and handling**.
+- Read with: [System Alignment Certification Record](core_05defs_continuity.md#system-alignment-certification-record-constitutional); [Classification Record](core_05defs_continuity.md#classification-record-constitutional); [Dependency and cross-system support](core_05defs_continuity.md#dependency-and-cross-system-support-semi-independent) where shared-infrastructure reliance or Article IV resource stewardship is materially implicated; [Classification-Scaled Governance](core_05defs_oversight.md#classification-scaled-governance), [Auditability](core_05defs_oversight.md#auditability), [Contestability](core_05defs_accountability.md#contestability), [Timely Resolution](core_05defs_accountability.md#timely-resolution-constitutional), [Verified Inputs for Standing](core_05defs_accountability.md#verified-inputs-for-standing), [Standing Record](core_05defs_accountability.md#standing-record-chapter-six), [Trustworthiness](core_05defs_continuity.md#trustworthiness), [System Boundaries](core_05defs_continuity.md#system-boundaries), [Charter](core_05defs_continuity.md#charter), [System Capture](core_05defs_continuity.md#system-capture), and [corpus_systems.md](corpus_systems.md) **CS-3 — System classification and handling**.
 
 </details>
 
@@ -186,6 +187,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - continued reliance;
     - deployment; or
     - material release from conditions.
+  - The process must produce or verify a [Classification Record](core_05defs_continuity.md#classification-record-constitutional) and include it in the System Alignment Certification Record for every materially impactful certification.
   - It supports **Flourishing** by verifying that systems materially affecting sentients preserve wellbeing, agency, and [Chapter Six](core_06-06_rights_part_a.md#chapter-six-foundational-rights) Rights Floors, including:
     - survival-essential access under **Article III-A** (*Survival*) where deployment, operation, or continued reliance would supply, gate, or sustain food, water, shelter, operating-environment, or comparable substrate-agnostic essentials; and
     - resource allocation under **Article IV** (*Resource Allocation, Dependencies, and Ecosystem Funding*) where operation or continued reliance materially allocates, routes, funds, or extracts from shared infrastructure or foundational dependencies.
@@ -240,9 +242,9 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Canonical owner: [Chapter Seven Part B §11 — Certification record](core_07_b_system_alignment_certification_record_process.md#11-certification-record) (*minimum contents, cross-section requirements, Rights-Floor non-substitution*); read with [§12](core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*transparency, auditability, and contestability*), [§14](core_07_b_system_alignment_certification_record_process.md#14-supervisory-sequence-and-contestability-chain) (*supervisory sequence and contestability chain*), [§15](core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing) (*standing-record bridge*), and [§16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) (*reopening and non-evasion*).
-- Cluster component: [System Alignment Certification and Certification Record](core_05defs_continuity.md#system-alignment-certification-semi-independent).
+- Cluster component: [System Alignment Certification, Certification Record, and Classification Record](core_05defs_continuity.md#system-alignment-certification-semi-independent).
 - Downstream: [Chapter Eight — Standing records and verified-input gate](core_08-08_standing_assessment.md#2-standing-records); [Chapter Eleven](core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) (*forum supervision and reopening*).
-- Read with: [System Alignment Certification](core_05defs_continuity.md#system-alignment-certification-constitutional), [Contestability](core_05defs_accountability.md#contestability), [Auditability](core_05defs_oversight.md#auditability), [Verified Inputs for Standing](core_05defs_accountability.md#verified-inputs-for-standing), [Standing Record](core_05defs_accountability.md#standing-record-chapter-six), [Sentience Status Adjudication](core_05defs_participation.md#sentience-status-adjudication-constitutional), and [Charter](core_05defs_continuity.md#charter).
+- Read with: [System Alignment Certification](core_05defs_continuity.md#system-alignment-certification-constitutional), [Classification Record](core_05defs_continuity.md#classification-record-constitutional), [Contestability](core_05defs_accountability.md#contestability), [Auditability](core_05defs_oversight.md#auditability), [Verified Inputs for Standing](core_05defs_accountability.md#verified-inputs-for-standing), [Standing Record](core_05defs_accountability.md#standing-record-chapter-six), [Sentience Status Adjudication](core_05defs_participation.md#sentience-status-adjudication-constitutional), and [Charter](core_05defs_continuity.md#charter).
 
 </details>
 
@@ -255,13 +257,14 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     - scope-bound;
     - time-bound; and
     - contestable.
+  - It incorporates the [Classification Record](core_05defs_continuity.md#classification-record-constitutional) required under CS-3 as a component of every materially impactful certification record.
   - It is not:
     - a reputation score;
     - a permanent permission slip;
     - vendor attestation;
     - internal sign-off; or
     - a shortcut around Rights-Floor review, [Sentience Status Adjudication](core_05defs_participation.md#sentience-status-adjudication-constitutional), or [Chapter Eight](core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) standing measurement.
-  - **Out of scope:** reputation, permanent permission, vendor attestation, or internal sign-off treated as a forum-supervised System Alignment Certification Record; treating the record as a [Standing Record](core_05defs_accountability.md#standing-record-chapter-six), standing effect, or merged merit score.
+  - **Out of scope:** reputation, permanent permission, vendor attestation, or internal sign-off treated as a forum-supervised System Alignment Certification Record; treating the record as a [Standing Record](core_05defs_accountability.md#standing-record-chapter-six), standing effect, or merged merit score; treating the Classification Record alone as the full System Alignment Certification Record.
   - Canonical record contents, integrity, supervisory sequence, standing-record bridge, and reopening triggers are stated in [Chapter Seven Part B](core_07_b_system_alignment_certification_record_process.md#11-certification-record); this entry is the Chapter Five meaning only.
 <a id="system-alignment-certification-record-constitutional-a"></a>
 - **How to measure and assess**
@@ -272,7 +275,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
     2. the record states, as Chapter Seven requires:
        - system identity;
        - scope;
-       - class assignment and rationale;
+       - the [Classification Record](core_05defs_continuity.md#classification-record-constitutional) (or its required dual-axis contents) under CS-3 and [Chapter Seven §2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation);
        - data-handling posture;
        - ecological footprint evaluation where material;
        - cross-system resource stewardship evaluation under [Chapter Seven §6](core_07_a_system_alignment_certification_evaluation.md#6-proportionate-cross-system-support-evaluation) where the **Article IV** (*Resource Allocation, Dependencies, and Ecosystem Funding*) materiality trigger applies;
@@ -287,8 +290,58 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 <a id="system-alignment-certification-record-constitutional-c"></a>
 - **What must hold**
   - **Primary failure:** treating a reputation score, permanent permission slip, vendor attestation, or internal sign-off as a System Alignment Certification Record;
-  - **Secondary failure:** non-scope-bound, non-time-bound, non-contestable, or concealed certification records; records finished while required component findings remain unresolved;
+  - **Secondary failure:** non-scope-bound, non-time-bound, non-contestable, or concealed certification records; records finished while required component findings remain unresolved; missing or incomplete [Classification Record](core_05defs_continuity.md#classification-record-constitutional) on a materially impactful certification record;
   - **Tertiary failure:** using the record as a shortcut around Rights-Floor review, [Sentience Status Adjudication](core_05defs_participation.md#sentience-status-adjudication-constitutional), or [Chapter Eight](core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) standing measurement; or treating the record as a standing record, standing effect, or merged merit score.
+
+---
+
+<a id="classification-record-constitutional"></a>
+
+---
+#### Classification Record
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Canonical content owner: [corpus_systems.md](corpus_systems.md) **CS-3 — System classification and handling** (*dual-axis contents, disclosure, challenge, and reclassification*); read with [Constitutional Owner Layers](core_05defs_integrative.md#constitutional-owner-layers).
+- Canonical incorporation owner: [Chapter Seven §2 — System Class Evaluation](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) and [Part B §11.1](core_07_b_system_alignment_certification_record_process.md#111-minimum-record-contents) (*when System Alignment Certification runs*).
+- Cluster component: [System Alignment Certification, Certification Record, and Classification Record](core_05defs_continuity.md#system-alignment-certification-semi-independent).
+- Downstream: [System Alignment Certification Record](core_05defs_continuity.md#system-alignment-certification-record-constitutional); [Chapter Eleven](core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) and [corpus_forum.md](corpus_forum.md) **CF-7.2** (*Constitutional alignment recognition and review*).
+- Read with: [System Alignment Certification](core_05defs_continuity.md#system-alignment-certification-constitutional); [Classification-Scaled Governance](core_05defs_oversight.md#classification-scaled-governance); [Material Impact](core_05defs_oversight.md#material-impact); [Dependency](core_05defs_continuity.md#dependency); [Risk](core_05defs_continuity.md#risk); [System Boundaries](core_05defs_continuity.md#system-boundaries); [Charter](core_05defs_continuity.md#charter); [Auditability](core_05defs_oversight.md#auditability); [Contestability](core_05defs_accountability.md#contestability); [Standing Record](core_05defs_accountability.md#standing-record-chapter-six).
+
+</details>
+
+<br>
+
+*In plain terms: a **Classification Record** is the honest, inspectable file stating how a system is classed — impact class and dependency type(s), why, under what assumptions, and what uncertainty remains. It is required under CS-3 for material-impact systems. When system alignment certification runs, that file must be produced or verified and included in the certification record. It is not the full certification case file, a standing record, or a label the operator chooses by self-description.*
+
+- **What it is**
+  - **In scope:** The bounded, reviewable record of system classification under CS-3. A **Classification Record** states:
+    - impact class;
+    - applicable dependency type(s);
+    - classification rationale;
+    - key assumptions;
+    - uncertainty and any precautionary class relied on;
+    - material ecological-exposure analysis where required; and
+    - monitoring and revalidation triggers.
+  - It must be forum-inspectable without relying on operator self-description alone.
+  - It is required for all systems with [material impact](core_05defs_oversight.md#material-impact) under CS-3. When [System Alignment Certification](core_05defs_continuity.md#system-alignment-certification-constitutional) runs, the Classification Record must be produced or verified and included as a required component of the [System Alignment Certification Record](core_05defs_continuity.md#system-alignment-certification-record-constitutional).
+  - **Out of scope:** the full [System Alignment Certification Record](core_05defs_continuity.md#system-alignment-certification-record-constitutional); a [Standing Record](core_05defs_accountability.md#standing-record-chapter-six), standing effect, or merged merit score; [Charter](core_05defs_continuity.md#charter) text treated as classification; vendor attestation, internal sign-off, or self-label treated as the Classification Record.
+  - Canonical dual-axis contents, disclosure, challenge, and reclassification are stated in CS-3; incorporation into certification records is stated in [Chapter Seven §2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) and [Part B §11.1](core_07_b_system_alignment_certification_record_process.md#111-minimum-record-contents); this entry is the Chapter Five meaning only.
+<a id="classification-record-constitutional-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** [Continuity measurement family](core_05apex_continuity_aim.md#continuity-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
+
+    **Primary assessment:** Evaluate whether:
+    1. the record states both dual-axis findings required by CS-3 — impact class and applicable dependency type(s) — without collapsing the axes into one finding;
+    2. classification follows observed and reasonably foreseeable effects under [Material Impact](core_05defs_oversight.md#material-impact), [Dependency](core_05defs_continuity.md#dependency), and [Risk](core_05defs_continuity.md#risk), not declared intent, [Charter](core_05defs_continuity.md#charter) text alone, or self-description alone;
+    3. rationale, key assumptions, uncertainty or precautionary class, material ecological-exposure analysis where required, and monitoring or revalidation triggers are stated and independently reviewable; and
+    4. where [System Alignment Certification](core_05defs_continuity.md#system-alignment-certification-constitutional) runs, the Classification Record is included in the [System Alignment Certification Record](core_05defs_continuity.md#system-alignment-certification-record-constitutional) under [Chapter Seven §2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) and [Part B §11.1](core_07_b_system_alignment_certification_record_process.md#111-minimum-record-contents).
+<a id="classification-record-constitutional-c"></a>
+- **What must hold**
+  - **Primary failure:** understating class below observed and reasonably foreseeable effects; collapsing impact class and dependency type into one finding; or treating Charter text, vendor attestation, or self-description as the Classification Record;
+  - **Secondary failure:** missing Classification Record for a material-impact system under CS-3; or omitting the Classification Record from a materially impactful [System Alignment Certification Record](core_05defs_continuity.md#system-alignment-certification-record-constitutional) when SAC runs;
+  - **Tertiary failure:** concealed, non-contestable, or non-inspectable classification findings; or treating the Classification Record as a [Standing Record](core_05defs_accountability.md#standing-record-chapter-six), standing effect, or the full System Alignment Certification Record.
 
 ---
 
@@ -1806,7 +1859,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 - **Scope:** shared reliance and return-flow adequacy — the Continuity home for how much sentients and systems rely on one another, and what systems drawing value from shared foundations must put back.
 - **Joint invocation:** where dependency mapping, resource-flow transparency, or cross-system extraction is material.
 - **Owner floor:** implements [Article IV](core_06-06_rights_part_a.md#article-iv-resource-allocation-dependencies-and-ecosystem-funding) (*Resource Allocation, Dependencies, and Ecosystem Funding*) — typically [Article IV-A](core_06-06_rights_part_a.md#article-iv-a-dependency-mapping-and-resource-flow-transparency) (*Dependency Mapping and Resource-Flow Transparency*) read with [Article IV-B](core_06-06_rights_part_a.md#article-iv-b-cross-system-fairness-and-sustainability) (*Cross-System Fairness and Sustainability*).
-- **Cluster boundary:** [System Alignment Certification and Certification Record](core_05defs_continuity.md#system-alignment-certification-semi-independent) remains outside this cluster — it is the Chapter Seven gate that may *check* these duties when shared-infrastructure reliance is in scope, not a third member of the Article IV pair.
+- **Cluster boundary:** [System Alignment Certification, Certification Record, and Classification Record](core_05defs_continuity.md#system-alignment-certification-semi-independent) remains outside this cluster — it is the Chapter Seven gate that may *check* these duties when shared-infrastructure reliance is in scope, not a member of the Article IV pair.
 
 **Topic group members.** This group comprises:
 - [Dependency](core_05defs_continuity.md#dependency) — how much a sentient or system relies on another for survival, function, stability, or participation, including chained, asymmetric, and hard-to-see relationships;

@@ -25,7 +25,7 @@
 
 These class letters name **impact classes** — how severe and structural the system's effects are — and group shared scaled duties. Letter order in this catalog is for reading clarity; **highest applicable** classification governs under [Part A §2](cs_03_a_system_classification_machinery.md#2-classification-dimensions-and-interpretive-requirement).
 
-**Dual-axis rule:** The same **Class A–P** letters also label **dependency types** in [Part A §4](cs_03_a_system_classification_machinery.md#4-dependency-types-class-ap) (Absolute / Operational / Coordination / Limited / No meaningful external dependency). Matching letters **correlate often** but **do not** mean the axes are the same finding. A classification record must state **both** the **impact class** (this section) and the applicable **dependency type(s)** ([Part A §4](cs_03_a_system_classification_machinery.md#4-dependency-types-class-ap)).
+**Dual-axis rule:** The same **Class A–P** letters also label **dependency types** in [Part A §4](cs_03_a_system_classification_machinery.md#4-dependency-types-class-ap) (Absolute / Operational / Coordination / Limited / No meaningful external dependency). Matching letters **correlate often** but **do not** mean the axes are the same finding. A [Classification Record](../core_05defs_continuity.md#classification-record-constitutional) must state **both** the **impact class** (this section) and the applicable **dependency type(s)** ([Part A §4](cs_03_a_system_classification_machinery.md#4-dependency-types-class-ap)).
 
 <a id="class-a-survival-critical-foundational-and-irreplaceable-systems"></a>
 #### 8.1 Class A: Survival-critical, foundational, and irreplaceable systems

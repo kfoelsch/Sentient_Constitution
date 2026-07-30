@@ -113,6 +113,7 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 - [Capture of Resolution Pathways](core_05defs_accountability.md#capture-of-resolution-pathways)
 - [Cascading Failure](core_05defs_continuity.md#cascading-failure)
 - [Charter](core_05defs_continuity.md#charter)
+- [Classification Record](core_05defs_continuity.md#classification-record-constitutional)
 - [Classification-Scaled Governance](core_05defs_oversight.md#classification-scaled-governance)
 - [Coercion and Manipulation](core_05defs_participation.md#coercion-and-manipulation-constitutional)
 - [Collective Accountability Failure](core_05defs_accountability.md#collective-accountability-failure)
