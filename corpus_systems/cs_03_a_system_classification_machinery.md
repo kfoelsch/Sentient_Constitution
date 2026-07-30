@@ -255,38 +255,27 @@ Standardized reliance categories:
 <a id="5-boundaries-timeframes-and-resilience"></a>
 ### 5. Boundaries, timeframes, and resilience
 
-*In plain terms: draw the system boundary from real effects, state survival-relevant time assumptions out loud, and keep resilience proportional to class and failure consequences.*
+*In plain terms: decide what counts as “the system” by what it actually affects, say out loud how much time people have when it fails, make it tough enough to take a hit, and able to keep going or recover in time.*
 
-<a id="51-system-boundaries"></a>
-**5.1. System boundaries.**
-
-Define from **actual impact and dependency**, not formal ownership, jurisdiction, or operational scope alone.
-
-**Externalized** effects that materially impact sentients or systems lie within the **effective boundary**.
-
-As dependency strengthens and substitutability falls, escalate classification and governance. This rule applies **Chapter Five** (*System Boundaries*, *Dependency*, *Material Impact*) in the classification context. **It** must **not** substitute for those Independent Definitions elsewhere.
-
-<a id="52-sentient-survival-relevant-timeframes"></a>
-**5.2. Sentient survival-relevant timeframes.**
-
-Under **CS-3 — System classification and handling**, define by an **external, standardized, auditable** framework. Systems must **explicitly reference** timeframe assumptions used in classification, including environmental, technological, or contextual dependencies.
-
-<a id="53-resilience-and-continuity-requirements"></a>
-**5.3. Resilience and continuity requirements.**
-
-Maintain **resilience proportional** to classification—continued operation, graceful degradation, or safe suspension under stress, disruption, partial failure, or adversarial pressure.
-
-Measures must match classification and **failure consequences**.
-
-Resilience must support **acceptable function** under stress, partial failure, and degradation. **It** must **prevent uncontrolled propagation** across dependents. **It** must **recover** within timeframes consistent with classification. **It** must provide **redundancy, fallback, or substitution** proportional to dependency and risk.
-
-Scale resilience with **impact** on sentients, environment, and info-sphere.
-
-**Also** scale with **stakeholder dependency**.
-
-**Also** scale with **cascading or irreversible** harm potential.
-
-Systems cannot satisfy formal requirements while **structurally fragile**, prone to **unbounded failure**, or unable to maintain safe operation under **reasonably foreseeable** conditions.
+- <a id="51-system-boundaries"></a>**System boundaries**
+  - Draw the boundary from what the system **actually does** to people and other systems — not from who owns it, which jurisdiction claims it, or what the operator’s org chart says
+  - Harm or dependence that spills **outside** the operator’s nominal scope still counts as **inside** the system’s **effective boundary**
+  - When more people or systems depend on it, and substitutes get harder to find, raise the classification and the governance that goes with it
+  - Classification uses the **Chapter Five** meanings (*System Boundaries*, *Dependency*, *Material Impact*); it does **not** replace those definitions elsewhere
+- <a id="52-sentient-survival-relevant-timeframes"></a>**Sentient survival-relevant timeframes**
+  - Use a published, shared, checkable way to define how much time matters for survival when this system fails
+  - State those time assumptions in the classification — including any environmental, technological, or local conditions they depend on
+- <a id="53-resilience-and-continuity-requirements"></a>**Resilience**
+  - Build toughness that matches the class under stress, disruption, partial failure, or attack
+  - Match the measures to how bad failure would be
+  - Keep the system working well enough under stress and partial failure
+  - Stop failure from cascading through systems that depend on it
+  - Include backup, fallback, or replacement options scaled to how much others depend on it and how risky failure is
+  - Passing a checklist is not enough if the system is brittle, can fail without bound, or cannot stay safe under conditions that should have been expected
+- <a id="54-continuity"></a>**Continuity**
+  - Keep running, degrade safely, or shut down safely — whichever fits the class and the situation
+  - Recover in timeframes that match the class
+  - Scale continuity with how much people, environments, and the info-sphere are affected; how much others depend on it; and whether harm could cascade or become permanent
 
 <a id="6-domain-taxonomy-examples-and-scarce-capacity-handling"></a>
 ### 6. Domain taxonomy, ordinary examples, and scarce-capacity handling
