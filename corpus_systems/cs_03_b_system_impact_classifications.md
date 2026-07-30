@@ -23,14 +23,14 @@
 
 *In plain terms: the Class letters here name impact classes, not a second copy of the dependency types in Part A. Record both axes. When more than one impact class could fit, the highest applicable class governs.*
 
-These class letters name **impact classes** — how severe and structural the system's effects are — and group shared scaled duties. Letter order in this catalog is for reading clarity; **highest applicable** classification governs under [Part A §2](cs_03_a_system_classification_machinery.md#2-classification-dimensions-and-interpretive-requirement).
+These class letters name **impact classes** — how severe and structural the system's effects are — and group shared scaled duties. Letter order in this catalog is for reading clarity; **highest applicable** classification governs under [Part A §2.2](cs_03_a_system_classification_machinery.md#22-real-world-application).
 
 **Dual-axis rule:** The same **Class A–P** letters also label **dependency types** in [Part A §4](cs_03_a_system_classification_machinery.md#4-dependency-types-class-ap) (Absolute / Operational / Coordination / Limited / No meaningful external dependency). Matching letters **correlate often** but **do not** mean the axes are the same finding. A [Classification Record](../core_05defs_continuity.md#classification-record-constitutional) must state **both** the **impact class** (this section) and the applicable **dependency type(s)** ([Part A §4](cs_03_a_system_classification_machinery.md#4-dependency-types-class-ap)).
 
 <a id="class-a-survival-critical-foundational-and-irreplaceable-systems"></a>
 #### 8.1 Class A: Survival-critical, foundational, and irreplaceable systems
 
-**Impact posture:** Highest applicable survival-critical class ([Part A §2](cs_03_a_system_classification_machinery.md#2-classification-dimensions-and-interpretive-requirement); [§8 overview](#8-system-impact-classifications)).
+**Impact posture:** Highest applicable survival-critical class ([Part A §2](cs_03_a_system_classification_machinery.md#2-classification-dimensions-and-real-world-application); [§8 overview](#8-system-impact-classifications)).
 
 *In plain terms: if this system fails within survival-relevant time and there is no real substitute, people lose survival conditions — treat it as foundational infrastructure with maximal, non-negotiable duties.*
 
@@ -77,7 +77,7 @@ Operators have minimal discretion, limited strictly to preserving survival, safe
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Topic routing (mandatory read-with): [Part A §2](cs_03_a_system_classification_machinery.md#2-classification-dimensions-and-interpretive-requirement) (*Classification dimensions and interpretive requirement*).
+- Topic routing (mandatory read-with): [Part A §2](cs_03_a_system_classification_machinery.md#2-classification-dimensions-and-real-world-application) (*Classification dimensions and real-world application*).
 - Topic routing (mandatory read-with): [Part A §4](cs_03_a_system_classification_machinery.md#4-dependency-types-class-ap) (*Dependency types* — Absolute dependency often coincides).
 - Topic routing (mandatory read-with): [Part A §5](cs_03_a_system_classification_machinery.md#5-boundaries-timeframes-and-resilience) (*Boundaries, timeframes, and resilience*).
 - Topic routing (mandatory read-with): [Part A §7](cs_03_a_system_classification_machinery.md#7-classification-governance-disclosure-and-challenge) (*Classification governance, disclosure, and challenge*).
@@ -115,7 +115,7 @@ Operators have minimal discretion, limited strictly to preserving survival, safe
 <a id="class-b-critical-high-dependency-systemically-significant-systems"></a>
 #### 8.2 Class B: Critical, high-dependency, systemically significant systems
 
-**Impact posture:** High-assurance infrastructure-dependency class ([Part A §2](cs_03_a_system_classification_machinery.md#2-classification-dimensions-and-interpretive-requirement); [§8 overview](#8-system-impact-classifications)).
+**Impact posture:** High-assurance infrastructure-dependency class ([Part A §2](cs_03_a_system_classification_machinery.md#2-classification-dimensions-and-real-world-application); [§8 overview](#8-system-impact-classifications)).
 
 *In plain terms: dependents cannot keep core function without this system, but survival is not immediately lost if it fails and substitution remains possible within survival-relevant time — still strict, continuously validated duties.*
 
@@ -178,7 +178,7 @@ Failure propagates through dependency chains, not only participant disruption, a
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Topic routing (mandatory read-with): [Part A §2](cs_03_a_system_classification_machinery.md#2-classification-dimensions-and-interpretive-requirement) (*Classification dimensions and interpretive requirement*).
+- Topic routing (mandatory read-with): [Part A §2](cs_03_a_system_classification_machinery.md#2-classification-dimensions-and-real-world-application) (*Classification dimensions and real-world application*).
 - Topic routing (mandatory read-with): [Part A §4](cs_03_a_system_classification_machinery.md#4-dependency-types-class-ap) (*Dependency types* — Operational dependency often coincides).
 - Topic routing (mandatory read-with): [Part A §5](cs_03_a_system_classification_machinery.md#5-boundaries-timeframes-and-resilience) (*Boundaries, timeframes, and resilience*).
 - Topic routing (mandatory read-with): [Part A §7](cs_03_a_system_classification_machinery.md#7-classification-governance-disclosure-and-challenge) (*Classification governance, disclosure, and challenge*).
@@ -217,7 +217,7 @@ Modular interfaces and cross-system coupling are subject to review under **Artic
 <a id="class-c-coordinated-high-dependency-non-critical-systems"></a>
 #### 8.3 Class C: Coordinated, high-dependency, non-critical systems
 
-**Impact posture:** Strong coordination-layer class ([Part A §2](cs_03_a_system_classification_machinery.md#2-classification-dimensions-and-interpretive-requirement); [§8 overview](#8-system-impact-classifications)).
+**Impact posture:** Strong coordination-layer class ([Part A §2](cs_03_a_system_classification_machinery.md#2-classification-dimensions-and-real-world-application); [§8 overview](#8-system-impact-classifications)).
 
 *In plain terms: the system shapes coordination at scale but is not an operational prerequisite for Class A/B function — still fully enforceable duties, proportional to impact and dependency.*
 
@@ -264,7 +264,7 @@ Failures can disrupt significantly but stay **non-critical** to **immediate surv
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Topic routing (mandatory read-with): [Part A §2](cs_03_a_system_classification_machinery.md#2-classification-dimensions-and-interpretive-requirement) (*Classification dimensions and interpretive requirement*).
+- Topic routing (mandatory read-with): [Part A §2](cs_03_a_system_classification_machinery.md#2-classification-dimensions-and-real-world-application) (*Classification dimensions and real-world application*).
 - Topic routing (mandatory read-with): [Part A §4](cs_03_a_system_classification_machinery.md#4-dependency-types-class-ap) (*Dependency types* — Coordination dependency often coincides).
 - Topic routing (mandatory read-with): [Part A §7](cs_03_a_system_classification_machinery.md#7-classification-governance-disclosure-and-challenge) (*Classification governance, disclosure, and challenge*).
 - Read with: [Protocol B](cs_protocol_b_system_comprehensibility_complexity_stewardship.md); **Article XX** (*Comprehensibility and Complexity Stewardship*); **CJS-5.5**, **CJS-5.8**–**CJS-5.10**, **CJS-5.16**, **CJS-5.19**, **CJS-5.21**.
@@ -300,7 +300,7 @@ Failure behavior and salience must preserve population-scale verification and co
 <a id="class-l-local-limited-impact-and-non-critical-systems"></a>
 #### 8.4 Class L: Local, limited-impact, and non-critical systems
 
-**Impact posture:** Proportionate bounded-external-impact class ([Part A §2](cs_03_a_system_classification_machinery.md#2-classification-dimensions-and-interpretive-requirement); [§8 overview](#8-system-impact-classifications)).
+**Impact posture:** Proportionate bounded-external-impact class ([Part A §2](cs_03_a_system_classification_machinery.md#2-classification-dimensions-and-real-world-application); [§8 overview](#8-system-impact-classifications)).
 
 *In plain terms: effects go beyond a private unit but stay local, replaceable, and containable — real accountability at a lighter scale, with reclassification when coordination or dependency grows.*
 
@@ -354,7 +354,7 @@ The system may influence local coordination, services, exchanges, or participati
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Topic routing (mandatory read-with): [Part A §2](cs_03_a_system_classification_machinery.md#2-classification-dimensions-and-interpretive-requirement) (*Classification dimensions and interpretive requirement*).
+- Topic routing (mandatory read-with): [Part A §2](cs_03_a_system_classification_machinery.md#2-classification-dimensions-and-real-world-application) (*Classification dimensions and real-world application*).
 - Topic routing (mandatory read-with): [Part A §3.5](cs_03_a_system_classification_machinery.md#35-reclassification-requirement) (*Reclassification requirement* — proportionate Chapter Seven §3 evaluation).
 - Topic routing (mandatory read-with): [Part A §4](cs_03_a_system_classification_machinery.md#4-dependency-types-class-ap) (*Dependency types* — Limited dependency often coincides).
 - Topic routing (mandatory read-with): [Part A §7](cs_03_a_system_classification_machinery.md#7-classification-governance-disclosure-and-challenge) (*Classification governance, disclosure, and challenge*).
@@ -387,7 +387,7 @@ The system may influence local coordination, services, exchanges, or participati
 <a id="class-p-personal-private-use-isolated-and-experimental-systems"></a>
 #### 8.5 Class P: Personal, private-use, isolated, and experimental systems
 
-**Impact posture:** Contained private-unit class ([Part A §2](cs_03_a_system_classification_machinery.md#2-classification-dimensions-and-interpretive-requirement); [§8 overview](#8-system-impact-classifications)).
+**Impact posture:** Contained private-unit class ([Part A §2](cs_03_a_system_classification_machinery.md#2-classification-dimensions-and-real-world-application); [§8 overview](#8-system-impact-classifications)).
 
 *In plain terms: if effects stay inside a private unit with no meaningful outside reliance, constitutional requirements are mainly internal guidance — reclassify at least to Class L when externalization becomes real.*
 
@@ -459,7 +459,7 @@ Examples include behavior that **creates measurable** off-unit harm risk. **They
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Topic routing (mandatory read-with): [Part A §2](cs_03_a_system_classification_machinery.md#2-classification-dimensions-and-interpretive-requirement) (*Classification dimensions and interpretive requirement*).
+- Topic routing (mandatory read-with): [Part A §2](cs_03_a_system_classification_machinery.md#2-classification-dimensions-and-real-world-application) (*Classification dimensions and real-world application*).
 - Topic routing (mandatory read-with): [Part A §3.5](cs_03_a_system_classification_machinery.md#35-reclassification-requirement) (*Reclassification requirement* — Class P evaluation becomes mandatory on exit).
 - Topic routing (mandatory read-with): [Part A §4](cs_03_a_system_classification_machinery.md#4-dependency-types-class-ap) (*Dependency types* — No meaningful external dependency often coincides).
 - Topic routing (mandatory read-with): [Part A §7](cs_03_a_system_classification_machinery.md#7-classification-governance-disclosure-and-challenge) (*Classification governance, disclosure, and challenge*).

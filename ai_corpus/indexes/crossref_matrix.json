@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-07-29T23:25:51+00:00",
+  "generated_at": "2026-07-30T10:05:18+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -2154,7 +2154,7 @@
           },
           {
             "file": "core_05defs_continuity.md",
-            "count": 83,
+            "count": 84,
             "anchors": [
               "#anti-displacement-floor-constitutional",
               "#avoidable-burden",
@@ -2162,6 +2162,7 @@
               "#burden-reduction-duty-constitutional",
               "#cascading-failure",
               "#charter",
+              "#classification-record-constitutional",
               "#constitutional-efficiency",
               "#constitutional-emergency-and-contingency",
               "#creative-work-attribution-constitutional",
@@ -3448,7 +3449,7 @@
           },
           {
             "file": "core_05apex_continuity_aim.md",
-            "count": 46,
+            "count": 47,
             "anchors": [
               "#continuity-aim-constitutional",
               "#continuity-measurement-family"
@@ -3486,7 +3487,7 @@
           },
           {
             "file": "core_05defs_accountability.md",
-            "count": 181,
+            "count": 185,
             "anchors": [
               "#accountability-contestability-semi-independent",
               "#attributable-action-constitutional",
@@ -3516,7 +3517,7 @@
           },
           {
             "file": "core_05defs_continuity.md",
-            "count": 596,
+            "count": 622,
             "anchors": [
               "#anti-displacement-floor-constitutional",
               "#avoidable-burden",
@@ -3524,6 +3525,7 @@
               "#burden-reduction-duty-constitutional",
               "#cascading-failure",
               "#charter",
+              "#classification-record-constitutional",
               "#constitutional-efficiency",
               "#constitutional-emergency-and-contingency",
               "#creative-work-attribution-constitutional",
@@ -3591,7 +3593,7 @@
           },
           {
             "file": "core_05defs_integrative.md",
-            "count": 34,
+            "count": 35,
             "anchors": [
               "#authority-stack",
               "#constitutional-contract-layer",
@@ -3604,7 +3606,7 @@
           },
           {
             "file": "core_05defs_oversight.md",
-            "count": 176,
+            "count": 181,
             "anchors": [
               "#adversarial-scaled-and-exploited-conditions",
               "#auditability",
@@ -3717,8 +3719,9 @@
           },
           {
             "file": "core_07_a_system_alignment_certification_evaluation.md",
-            "count": 28,
+            "count": 32,
             "anchors": [
+              "#2-system-class-evaluation",
               "#3-whole-system-certification-evaluation",
               "#36-time-consistency-constraint",
               "#5-ecological-footprint-evaluation",
@@ -3728,9 +3731,10 @@
           },
           {
             "file": "core_07_b_system_alignment_certification_record_process.md",
-            "count": 7,
+            "count": 10,
             "anchors": [
               "#11-certification-record",
+              "#111-minimum-record-contents",
               "#112-cross-section-record-requirements",
               "#12-transparency-auditability-and-contestability",
               "#14-supervisory-sequence-and-contestability-chain",
@@ -3748,7 +3752,7 @@
           },
           {
             "file": "core_11-11_forum.md",
-            "count": 4,
+            "count": 5,
             "anchors": [
               "#43-institutional-forums",
               "#chapter-eleven-forums-and-jurisdiction"
@@ -3773,6 +3777,11 @@
             "anchors": []
           },
           {
+            "file": "corpus_forum.md",
+            "count": 1,
+            "anchors": []
+          },
+          {
             "file": "corpus_institutions.md",
             "count": 2,
             "anchors": []
@@ -3793,7 +3802,7 @@
           },
           {
             "file": "corpus_systems.md",
-            "count": 6,
+            "count": 8,
             "anchors": []
           },
           {
@@ -4710,9 +4719,10 @@
           },
           {
             "file": "core_05defs_continuity.md",
-            "count": 61,
+            "count": 63,
             "anchors": [
               "#charter",
+              "#classification-record-constitutional",
               "#dependency",
               "#ecological-footprint",
               "#ecological-integrity-constitutional",
@@ -4913,9 +4923,10 @@
           },
           {
             "file": "core_05defs_continuity.md",
-            "count": 12,
+            "count": 14,
             "anchors": [
               "#charter",
+              "#classification-record-constitutional",
               "#ecological-footprint",
               "#proportionate-cross-system-support-constitutional",
               "#safe-conditions-constitutional",
@@ -10245,8 +10256,9 @@
           },
           {
             "file": "core_05defs_continuity.md",
-            "count": 8,
+            "count": 9,
             "anchors": [
+              "#classification-record-constitutional",
               "#dependency",
               "#dependency-a",
               "#dependency-c",
@@ -10321,6 +10333,16 @@
           },
           {
             "file": "corpus_systems/cs_02_a_information_types_and_handling.md",
+            "count": 2,
+            "anchors": []
+          },
+          {
+            "file": "corpus_systems/cs_03_a_system_classification_machinery.md",
+            "count": 1,
+            "anchors": []
+          },
+          {
+            "file": "corpus_systems/cs_04_critical_system_stewardship.md",
             "count": 1,
             "anchors": []
           }
@@ -10444,6 +10466,15 @@
             ]
           },
           {
+            "file": "core_05defs_continuity.md",
+            "count": 7,
+            "anchors": [
+              "#classification-record-constitutional",
+              "#system-alignment-certification-constitutional",
+              "#system-alignment-certification-record-constitutional"
+            ]
+          },
+          {
             "file": "core_05defs_integrative.md",
             "count": 1,
             "anchors": [
@@ -10486,13 +10517,20 @@
             "anchors": []
           },
           {
+            "file": "corpus_systems/cs_01_scope_purpose_identifier_rules.md",
+            "count": 3,
+            "anchors": [
+              "#operates-in-conjunction-with"
+            ]
+          },
+          {
             "file": "corpus_systems/cs_02_b_data_classifications.md",
             "count": 1,
             "anchors": []
           },
           {
             "file": "corpus_systems/cs_03_b_system_impact_classifications.md",
-            "count": 4,
+            "count": 5,
             "anchors": [
               "#8-system-impact-classifications",
               "#cs-3-part-b-system-impact-classifications"
@@ -10510,16 +10548,18 @@
         "targets": [
           {
             "file": "core_05defs_continuity.md",
-            "count": 1,
+            "count": 2,
             "anchors": [
-              "#cascading-failure"
+              "#cascading-failure",
+              "#classification-record-constitutional"
             ]
           },
           {
             "file": "corpus_systems/cs_03_a_system_classification_machinery.md",
             "count": 35,
             "anchors": [
-              "#2-classification-dimensions-and-interpretive-requirement",
+              "#2-classification-dimensions-and-real-world-application",
+              "#22-real-world-application",
               "#35-reclassification-requirement",
               "#4-dependency-types-class-ap",
               "#41-class-a-absolute-dependency",

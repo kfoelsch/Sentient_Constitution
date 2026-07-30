@@ -39,7 +39,7 @@
 CS-3 implements:
 
 - **How class is determined**
-  - **Holistic multi-dimension classification** — evaluate impact, dependency, and risk together under real and foreseeable conditions ([§1.1](#11-holistic-classification); [§2](#2-classification-dimensions-and-interpretive-requirement))
+  - **Holistic multi-dimension classification** — evaluate impact, dependency, and risk together under real and foreseeable conditions ([§1.1](#11-holistic-classification); [§2.1](#21-classification-dimensions); [§2.2](#22-real-world-application))
   - **Existential and worst-case accounting** — classify to the highest plausible level where credible failure modes or civilization-scale harm pathways exist ([§1.2](#12-classification-and-existential-risk))
   - **Mandatory functional classification** — class follows observed and reasonably foreseeable effects, not intent or self-description; remains transparent, auditable, challengeable, and continuously revalidated in a Classification Record ([§1.3](#13-mandatory-functional-classification))
   - **Alignment-status recognition and ambiguity default** — the Classification Record must support forum recognition or revalidation when official alignment status is required; ambiguity defaults to protecting Foundational Rights ([§1.4](#14-alignment-status-recognition-and-ambiguity-default))
@@ -109,34 +109,42 @@ Where ambiguity exists, default to the level that protects **Foundational Rights
 
 CS-3 does not stand alone. Joint reading with CS-2, CS-4, Protocol A, CJS clusters, and Chapter Five meanings is stated in **[CS-1 — Operates in conjunction with](cs_01_scope_purpose_identifier_rules.md#operates-in-conjunction-with)**.
 
-<a id="2-classification-dimensions-and-interpretive-requirement"></a>
-### 2. Classification dimensions and interpretive requirement
+<a id="2-classification-dimensions-and-real-world-application"></a>
+### 2. Classification dimensions and real-world application
 
-*In plain terms: score impact, dependency, and risk together under real operating conditions — then escalate to the highest class that those conditions require.*
+*In plain terms: first score dependency, risk, and impact together — then interpret that score under real operating conditions and escalate to the highest class those conditions require.*
 
-**Classification dimensions:** Evaluate in aggregate when similar systems at scale produce cumulative effects that materially alter system conditions (combined impact, dependency, risk, and interaction context under real-world and foreseeable operation).
+<a id="21-classification-dimensions"></a>
+**2.1. Classification dimensions.**
 
-Classify by **Impact** — scope, scale, and severity of effects on sentients, environments, and other systems.
+*In plain terms: rate the system on dependency, risk, and impact together — including dependency chains, interactions, and scale effects — not one dial at a time.*
 
-Classify by **Dependency** — extent of reliance on the system evaluated, including availability and viability of alternatives.
+Classify every material-impact system on these together under real-world and foreseeable operation:
 
-Classify by **Risk** — likelihood, speed, severity, and reversibility of harm from failure, misuse, or degradation, including immediate, delayed, cumulative, and irreversible effects. These labels operationalize **Chapter Five** Independent Definitions (*Material Impact*, *Dependency*, *Risk*, including irreversibility where applicable) for **CS-3 — System classification and handling**.
+- **Dependency** — how much others rely on the system, and whether workable alternatives exist
+  - **dependency chains** upstream and downstream
+- **Risk** — harm from failure, misuse, or degradation, including:
+  - how **likely** it is
+  - how **fast** it arrives
+  - how **severe** it is
+  - whether it can be **undone**
+  - **immediate**, **delayed**, **cumulative**, and **irreversible** effects
+- **Impact** — how wide, how large, and how severe the effects are on sentients, environments, and other systems
+  - **interaction** effects that produce emergent outcomes
+- **Aggregate** effects at scale (actual and foreseeable), including when many similar systems produce cumulative effects that materially change conditions
 
-**Chapter Five** governs meaning corpus-wide.
+These labels apply the **Chapter Five** Independent Definitions (*Dependency*, *Risk*, *Material Impact*, including irreversibility where applicable) inside **CS-3 — System classification and handling**. **Chapter Five** owns the meanings corpus-wide. **CS-3** owns how classification uses those meanings.
 
-**CS-3 — System classification and handling** governs how classification applies those meanings.
+Where any of those factors materially change the picture, the classification must reflect that change.
 
-Evaluation must account for **aggregate** effects at scale (actual and foreseeable). **It** must account for **interaction** effects with emergent outcomes. **It** must account for **dependency chains** (upstream and downstream).
+<a id="22-real-world-application"></a>
+**2.2. Real-world application.**
 
-Reflect material alterations in classification.
+*In plain terms: read the dimensions against how the system actually runs — then escalate or reclassify when real conditions raise the stakes.*
 
-**Interpretive requirement:** Classification must reflect **real-world** operating conditions.
+Classification must match how the system actually operates — not a best-case lab picture. Adjust the finding when dependency chains, interaction effects, aggregate effects, adversarial dynamics, or **threshold** behaviors materially alter conditions.
 
-Adjust where aggregate effects, dependency chains, interaction effects, adversarial dynamics, or **threshold** behaviors materially alter conditions.
-
-Escalate to the **highest applicable** classification where credible risk touches **survival-critical** systems, **foundational** infrastructure, or **large-scale** sentient wellbeing.
-
-Reclassify where changes in scale, dependency, interaction, or risk alter conditions materially—including aggregation, coupling, or adversarial dynamics.
+Use the **highest applicable** classification where credible risk touches **survival-critical** systems, **foundational** infrastructure, or **large-scale** sentient wellbeing. Reclassify when dependency, risk, impact, interaction, or scale changes conditions materially — including through aggregation, coupling, or adversarial dynamics.
 
 <a id="3-criticality-concentration-temporal-and-adversarial-factors"></a>
 ### 3. Criticality, concentration, temporal, and adversarial factors
