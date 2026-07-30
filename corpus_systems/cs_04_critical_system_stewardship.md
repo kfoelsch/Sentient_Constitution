@@ -256,6 +256,6 @@ Dependent organizations **inherit responsibility proportional** to dependency.
 
 ---
 
-**Previous file:** [cs_03_system_classification_and_handling.md](cs_03_system_classification_and_handling.md)
+**Previous file:** [cs_03_b_system_impact_classifications.md](cs_03_b_system_impact_classifications.md)
 
 **Next file:** [cs_protocol_a_system_design_testing_verification_deployment.md](cs_protocol_a_system_design_testing_verification_deployment.md)

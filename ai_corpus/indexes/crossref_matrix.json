@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-07-29T14:05:30+00:00",
+  "generated_at": "2026-07-29T23:25:51+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -221,7 +221,11 @@
         "type": "companion"
       },
       {
-        "id": "corpus_systems/cs_03_system_classification_and_handling.md",
+        "id": "corpus_systems/cs_03_a_system_classification_machinery.md",
+        "type": "companion"
+      },
+      {
+        "id": "corpus_systems/cs_03_b_system_impact_classifications.md",
         "type": "companion"
       },
       {
@@ -1550,7 +1554,7 @@
           },
           {
             "file": "core_05defs_oversight.md",
-            "count": 114,
+            "count": 116,
             "anchors": [
               "#auditability",
               "#auditability-a",
@@ -1577,6 +1581,7 @@
               "#proxy-divergence",
               "#proxy-divergence-a",
               "#proxy-divergence-c",
+              "#public-oversight-baseline-disclosure",
               "#transparency",
               "#transparency-a",
               "#transparency-c",
@@ -2239,7 +2244,7 @@
           },
           {
             "file": "core_05defs_oversight.md",
-            "count": 43,
+            "count": 44,
             "anchors": [
               "#adversarial-scaled-and-exploited-conditions",
               "#audit-scope-sufficiency",
@@ -2267,6 +2272,7 @@
               "#protected-data-and-internal-state-publication-constraint",
               "#proxy-divergence",
               "#proxy-metric-gaming-and-indicator-reality-gaps",
+              "#public-oversight-baseline-disclosure",
               "#publication-truthfulness-and-recklessness-floor",
               "#reasonably-foreseeable",
               "#risk-evaluation-and-disclosure",
@@ -4101,7 +4107,7 @@
           },
           {
             "file": "core_05apex_oversight_leg.md",
-            "count": 54,
+            "count": 55,
             "anchors": [
               "#6-process-conflict-resolution",
               "#oversight-constitutional",
@@ -4116,7 +4122,7 @@
           },
           {
             "file": "core_05defs_accountability.md",
-            "count": 67,
+            "count": 70,
             "anchors": [
               "#contestability",
               "#feasibility",
@@ -4133,9 +4139,10 @@
           },
           {
             "file": "core_05defs_continuity.md",
-            "count": 93,
+            "count": 99,
             "anchors": [
               "#cascading-failure",
+              "#charter",
               "#dependency",
               "#privacy-informational",
               "#protected-internal-state-boundary-constitutional",
@@ -4156,7 +4163,7 @@
           },
           {
             "file": "core_05defs_oversight.md",
-            "count": 260,
+            "count": 272,
             "anchors": [
               "#adversarial-scaled-and-exploited-conditions",
               "#audit-scope-sufficiency",
@@ -4185,6 +4192,7 @@
               "#observability",
               "#proxy-divergence",
               "#proxy-metric-gaming-and-indicator-reality-gaps",
+              "#public-oversight-baseline-disclosure",
               "#publication-and-high-impact-communication",
               "#reasonably-foreseeable",
               "#transparency",
@@ -4215,15 +4223,31 @@
           },
           {
             "file": "core_07_a_system_alignment_certification_evaluation.md",
-            "count": 10,
+            "count": 11,
             "anchors": [
-              "#3-whole-system-certification-evaluation"
+              "#3-whole-system-certification-evaluation",
+              "#4-data-types-and-handling-evaluation"
+            ]
+          },
+          {
+            "file": "core_07_b_system_alignment_certification_record_process.md",
+            "count": 2,
+            "anchors": [
+              "#11-certification-record",
+              "#12-transparency-auditability-and-contestability"
             ]
           },
           {
             "file": "corpus_systems.md",
-            "count": 6,
+            "count": 9,
             "anchors": []
+          },
+          {
+            "file": "corpus_systems/cs_02_a_information_types_and_handling.md",
+            "count": 1,
+            "anchors": [
+              "#7-type-o-baseline-for-class-abc-systems"
+            ]
           }
         ]
       },
@@ -4686,7 +4710,7 @@
           },
           {
             "file": "core_05defs_continuity.md",
-            "count": 59,
+            "count": 61,
             "anchors": [
               "#charter",
               "#dependency",
@@ -4721,12 +4745,13 @@
           },
           {
             "file": "core_05defs_oversight.md",
-            "count": 19,
+            "count": 22,
             "anchors": [
               "#auditability",
               "#epistemic-integrity",
               "#material-impact",
               "#materiality-determination",
+              "#public-oversight-baseline-disclosure",
               "#transparency"
             ]
           },
@@ -4834,9 +4859,10 @@
           },
           {
             "file": "corpus_systems/cs_02_a_information_types_and_handling.md",
-            "count": 2,
+            "count": 3,
             "anchors": [
-              "#52-reclassification-and-lifecycle-governance"
+              "#52-reclassification-and-lifecycle-governance",
+              "#7-type-o-baseline-for-class-abc-systems"
             ]
           },
           {
@@ -4906,13 +4932,14 @@
           },
           {
             "file": "core_05defs_oversight.md",
-            "count": 15,
+            "count": 18,
             "anchors": [
               "#auditability",
               "#auditability-a",
               "#auditability-c",
               "#epistemic-integrity",
               "#evidence-preservation",
+              "#public-oversight-baseline-disclosure",
               "#transparency",
               "#transparency-a",
               "#transparency-auditability-and-verification-cluster",
@@ -7936,7 +7963,12 @@
             "anchors": []
           },
           {
-            "file": "corpus_systems/cs_03_system_classification_and_handling.md",
+            "file": "corpus_systems/cs_03_a_system_classification_machinery.md",
+            "count": 1,
+            "anchors": []
+          },
+          {
+            "file": "corpus_systems/cs_03_b_system_impact_classifications.md",
             "count": 1,
             "anchors": []
           },
@@ -9799,7 +9831,7 @@
           },
           {
             "file": "core_05defs_oversight.md",
-            "count": 58,
+            "count": 59,
             "anchors": [
               "#auditability",
               "#auditability-a",
@@ -9812,6 +9844,7 @@
               "#material-risk-a",
               "#material-risk-c",
               "#materiality-determination",
+              "#public-oversight-baseline-disclosure",
               "#transparency",
               "#transparency-a",
               "#transparency-c",
@@ -10135,7 +10168,12 @@
             "anchors": []
           },
           {
-            "file": "corpus_systems/cs_03_system_classification_and_handling.md",
+            "file": "corpus_systems/cs_03_a_system_classification_machinery.md",
+            "count": 1,
+            "anchors": []
+          },
+          {
+            "file": "corpus_systems/cs_03_b_system_impact_classifications.md",
             "count": 1,
             "anchors": []
           },
@@ -10292,9 +10330,69 @@
         "source": "corpus_systems/cs_02_a_information_types_and_handling.md",
         "targets": [
           {
-            "file": "core_05defs_oversight.md",
-            "count": 1,
+            "file": "core_05defs_continuity.md",
+            "count": 2,
             "anchors": [
+              "#charter",
+              "#system-boundaries"
+            ]
+          },
+          {
+            "file": "core_05defs_oversight.md",
+            "count": 8,
+            "anchors": [
+              "#public-oversight-baseline-disclosure",
+              "#transparency"
+            ]
+          },
+          {
+            "file": "core_07_a_system_alignment_certification_evaluation.md",
+            "count": 2,
+            "anchors": [
+              "#4-data-types-and-handling-evaluation"
+            ]
+          },
+          {
+            "file": "core_07_b_system_alignment_certification_record_process.md",
+            "count": 2,
+            "anchors": [
+              "#11-certification-record",
+              "#111-minimum-record-contents"
+            ]
+          },
+          {
+            "file": "corpus_systems/cs_01_scope_purpose_identifier_rules.md",
+            "count": 1,
+            "anchors": []
+          },
+          {
+            "file": "corpus_systems/cs_02_b_data_classifications.md",
+            "count": 11,
+            "anchors": [
+              "#8-data-classifications",
+              "#cs-2-part-b-data-classifications",
+              "#type-o-open-public-baseline-disclosure-data",
+              "#type-s-interaction-with-type-e"
+            ]
+          }
+        ]
+      },
+      {
+        "source": "corpus_systems/cs_02_b_data_classifications.md",
+        "targets": [
+          {
+            "file": "core_05defs_continuity.md",
+            "count": 4,
+            "anchors": [
+              "#charter",
+              "#system-boundaries"
+            ]
+          },
+          {
+            "file": "core_05defs_oversight.md",
+            "count": 17,
+            "anchors": [
+              "#public-oversight-baseline-disclosure",
               "#transparency"
             ]
           },
@@ -10309,45 +10407,32 @@
             "file": "core_07_b_system_alignment_certification_record_process.md",
             "count": 1,
             "anchors": [
-              "#111-minimum-record-contents"
+              "#11-certification-record"
             ]
           },
-          {
-            "file": "corpus_systems/cs_01_scope_purpose_identifier_rules.md",
-            "count": 1,
-            "anchors": []
-          },
-          {
-            "file": "corpus_systems/cs_02_b_data_classifications.md",
-            "count": 7,
-            "anchors": [
-              "#cs-2-part-b-data-classifications",
-              "#type-o-open-public-baseline-disclosure-data"
-            ]
-          }
-        ]
-      },
-      {
-        "source": "corpus_systems/cs_02_b_data_classifications.md",
-        "targets": [
           {
             "file": "corpus_systems/cs_02_a_information_types_and_handling.md",
-            "count": 8,
+            "count": 61,
             "anchors": [
               "#11-identity-self-ownership-and-recoverability",
+              "#2-determination-of-classification",
+              "#50-access-posture-bands",
+              "#51-proportional-access-and-handling",
+              "#53-tiered-transparency-and-audit-access",
+              "#56-proportional-attribution-and-retention",
               "#7-type-o-baseline-for-class-abc-systems",
               "#cs-2-part-a-information-types-and-handling"
             ]
           },
           {
-            "file": "corpus_systems/cs_03_system_classification_and_handling.md",
+            "file": "corpus_systems/cs_03_a_system_classification_machinery.md",
             "count": 1,
             "anchors": []
           }
         ]
       },
       {
-        "source": "corpus_systems/cs_03_system_classification_and_handling.md",
+        "source": "corpus_systems/cs_03_a_system_classification_machinery.md",
         "targets": [
           {
             "file": "core_01_c_stewardship_capacity_principles.md",
@@ -10359,13 +10444,6 @@
             ]
           },
           {
-            "file": "core_05defs_continuity.md",
-            "count": 1,
-            "anchors": [
-              "#cascading-failure"
-            ]
-          },
-          {
             "file": "core_05defs_integrative.md",
             "count": 1,
             "anchors": [
@@ -10374,9 +10452,10 @@
           },
           {
             "file": "core_05defs_oversight.md",
-            "count": 1,
+            "count": 2,
             "anchors": [
-              "#materiality-determination"
+              "#materiality-determination",
+              "#public-oversight-baseline-disclosure"
             ]
           },
           {
@@ -10412,9 +10491,12 @@
             "anchors": []
           },
           {
-            "file": "corpus_systems/cs_04_critical_system_stewardship.md",
-            "count": 1,
-            "anchors": []
+            "file": "corpus_systems/cs_03_b_system_impact_classifications.md",
+            "count": 4,
+            "anchors": [
+              "#8-system-impact-classifications",
+              "#cs-3-part-b-system-impact-classifications"
+            ]
           },
           {
             "file": "corpus_systems/cs_protocol_a_system_design_testing_verification_deployment.md",
@@ -10424,10 +10506,49 @@
         ]
       },
       {
+        "source": "corpus_systems/cs_03_b_system_impact_classifications.md",
+        "targets": [
+          {
+            "file": "core_05defs_continuity.md",
+            "count": 1,
+            "anchors": [
+              "#cascading-failure"
+            ]
+          },
+          {
+            "file": "corpus_systems/cs_03_a_system_classification_machinery.md",
+            "count": 35,
+            "anchors": [
+              "#2-classification-dimensions-and-interpretive-requirement",
+              "#35-reclassification-requirement",
+              "#4-dependency-types-class-ap",
+              "#41-class-a-absolute-dependency",
+              "#42-class-b-operational-dependency",
+              "#43-class-c-coordination-dependency",
+              "#44-class-l-limited-dependency",
+              "#45-class-p-no-meaningful-external-dependency",
+              "#5-boundaries-timeframes-and-resilience",
+              "#7-classification-governance-disclosure-and-challenge",
+              "#cs-3-part-a-system-classification-machinery"
+            ]
+          },
+          {
+            "file": "corpus_systems/cs_04_critical_system_stewardship.md",
+            "count": 1,
+            "anchors": []
+          },
+          {
+            "file": "corpus_systems/cs_protocol_b_system_comprehensibility_complexity_stewardship.md",
+            "count": 5,
+            "anchors": []
+          }
+        ]
+      },
+      {
         "source": "corpus_systems/cs_04_critical_system_stewardship.md",
         "targets": [
           {
-            "file": "corpus_systems/cs_03_system_classification_and_handling.md",
+            "file": "corpus_systems/cs_03_b_system_impact_classifications.md",
             "count": 1,
             "anchors": []
           },

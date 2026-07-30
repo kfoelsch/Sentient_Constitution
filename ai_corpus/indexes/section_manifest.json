@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-07-29T14:05:29+00:00",
+  "generated_at": "2026-07-29T23:25:49+00:00",
   "files": {
     "core_00_preamble.md": {
       "total_lines": 248,
@@ -964,13 +964,13 @@
       ]
     },
     "core_05_definitions_home.md": {
-      "total_lines": 406,
+      "total_lines": 407,
       "sections": [
         {
           "header": "CHAPTER FIVE: FOUNDATIONAL DEFINITIONS",
           "level": 1,
           "line_start": 2,
-          "line_end": 406,
+          "line_end": 407,
           "anchor": "#chapter-five-foundational-definitions"
         },
         {
@@ -1012,35 +1012,35 @@
           "header": "Chapter Five alphabetical directory (non-operative)",
           "level": 3,
           "line_start": 76,
-          "line_end": 344,
+          "line_end": 345,
           "anchor": null
         },
         {
           "header": "Definitions A-Z",
           "level": 4,
           "line_start": 91,
-          "line_end": 321,
+          "line_end": 322,
           "anchor": "#definitions-a-z"
         },
         {
           "header": "Clusters A-Z",
           "level": 4,
-          "line_start": 322,
-          "line_end": 344,
+          "line_start": 323,
+          "line_end": 345,
           "anchor": "#clusters-a-z"
         },
         {
           "header": "Chapter Five compass and definition map",
           "level": 3,
-          "line_start": 345,
-          "line_end": 374,
+          "line_start": 346,
+          "line_end": 375,
           "anchor": "#chapter-five-compass-and-definition-map"
         },
         {
           "header": "Measurement crosswalk (reader guidance)",
           "level": 3,
-          "line_start": 375,
-          "line_end": 406,
+          "line_start": 376,
+          "line_end": 407,
           "anchor": "#chapter-five-measurement-crosswalk"
         }
       ]
@@ -2449,13 +2449,13 @@
       ]
     },
     "core_05defs_oversight.md": {
-      "total_lines": 1081,
+      "total_lines": 1121,
       "sections": [
         {
           "header": "Oversight Constitutional Definitions",
           "level": 1,
           "line_start": 1,
-          "line_end": 1081,
+          "line_end": 1121,
           "anchor": null
         },
         {
@@ -2581,203 +2581,210 @@
           "header": "Oversight: Dependent clusters",
           "level": 3,
           "line_start": 519,
-          "line_end": 1081,
+          "line_end": 1121,
           "anchor": "#movement-refuge-semi-independent"
         },
         {
           "header": "3.2 Transparency, Auditability, and Verification",
           "level": 4,
           "line_start": 523,
-          "line_end": 817,
+          "line_end": 857,
           "anchor": null
         },
         {
           "header": "Transparency",
           "level": 5,
-          "line_start": 576,
+          "line_start": 577,
           "line_end": 616,
           "anchor": "#transparency"
         },
         {
-          "header": "Audit Scope Sufficiency",
+          "header": "Public Oversight Baseline Disclosure",
           "level": 5,
           "line_start": 617,
-          "line_end": 634,
+          "line_end": 656,
+          "anchor": "#public-oversight-baseline-disclosure"
+        },
+        {
+          "header": "Audit Scope Sufficiency",
+          "level": 5,
+          "line_start": 657,
+          "line_end": 674,
           "anchor": "#audit-scope-sufficiency"
         },
         {
           "header": "Auditability",
           "level": 5,
-          "line_start": 635,
-          "line_end": 669,
+          "line_start": 675,
+          "line_end": 709,
           "anchor": "#auditability"
         },
         {
           "header": "Evidence Preservation",
           "level": 5,
-          "line_start": 670,
-          "line_end": 695,
+          "line_start": 710,
+          "line_end": 735,
           "anchor": "#evidence-preservation"
         },
         {
           "header": "Evaluation Completeness Constraint",
           "level": 5,
-          "line_start": 696,
-          "line_end": 711,
+          "line_start": 736,
+          "line_end": 751,
           "anchor": "#evaluation-completeness-constraint"
         },
         {
           "header": "Observability",
           "level": 5,
-          "line_start": 712,
-          "line_end": 726,
+          "line_start": 752,
+          "line_end": 766,
           "anchor": "#evaluation-completeness-constraint-c"
         },
         {
           "header": "Verifiability",
           "level": 5,
-          "line_start": 727,
-          "line_end": 743,
+          "line_start": 767,
+          "line_end": 783,
           "anchor": "#verifiability"
         },
         {
           "header": "Verification Accessibility",
           "level": 5,
-          "line_start": 744,
-          "line_end": 757,
+          "line_start": 784,
+          "line_end": 797,
           "anchor": "#verifiability-c"
         },
         {
           "header": "Verification Feasibility",
           "level": 5,
-          "line_start": 758,
-          "line_end": 770,
+          "line_start": 798,
+          "line_end": 810,
           "anchor": "#verification-accessibility-c"
         },
         {
           "header": "Verification Independence",
           "level": 5,
-          "line_start": 771,
-          "line_end": 784,
+          "line_start": 811,
+          "line_end": 824,
           "anchor": "#verification-feasibility-c"
         },
         {
           "header": "Verification Proportionality",
           "level": 5,
-          "line_start": 785,
-          "line_end": 798,
+          "line_start": 825,
+          "line_end": 838,
           "anchor": "#verification-independence-c"
         },
         {
           "header": "Verification Robustness",
           "level": 5,
-          "line_start": 799,
-          "line_end": 817,
+          "line_start": 839,
+          "line_end": 857,
           "anchor": "#verification-proportionality-c"
         },
         {
           "header": "3.3 Truth and Epistemic Integrity",
           "level": 4,
-          "line_start": 818,
-          "line_end": 1081,
+          "line_start": 858,
+          "line_end": 1121,
           "anchor": "#truth-and-epistemic-integrity-cluster"
         },
         {
           "header": "Publication and High-Impact Communication",
           "level": 5,
-          "line_start": 853,
-          "line_end": 854,
+          "line_start": 893,
+          "line_end": 894,
           "anchor": "#publication-and-high-impact-communication"
         },
         {
           "header": "Publication Truthfulness and Recklessness Floor",
           "level": 5,
-          "line_start": 855,
-          "line_end": 869,
+          "line_start": 895,
+          "line_end": 909,
           "anchor": null
         },
         {
           "header": "Protected Data and Internal-State Publication Constraint",
           "level": 5,
-          "line_start": 870,
-          "line_end": 883,
+          "line_start": 910,
+          "line_end": 923,
           "anchor": "#publication-truthfulness-and-recklessness-floor-c"
         },
         {
           "header": "High-Impact and Systemic Harm Publication Constraint",
           "level": 5,
-          "line_start": 884,
-          "line_end": 898,
+          "line_start": 924,
+          "line_end": 938,
           "anchor": "#protected-data-and-internal-state-publication-constraint-c"
         },
         {
           "header": "Security-Sensitive Disclosure Balance",
           "level": 5,
-          "line_start": 899,
-          "line_end": 913,
+          "line_start": 939,
+          "line_end": 953,
           "anchor": "#high-impact-and-systemic-harm-publication-constraint-c"
         },
         {
           "header": "Truth (Constitutional Constraint)",
           "level": 5,
-          "line_start": 914,
-          "line_end": 938,
+          "line_start": 954,
+          "line_end": 978,
           "anchor": "#truth-constitutional-constraint"
         },
         {
           "header": "Epistemic Integrity",
           "level": 5,
-          "line_start": 939,
-          "line_end": 965,
+          "line_start": 979,
+          "line_end": 1005,
           "anchor": "#epistemic-integrity"
         },
         {
           "header": "Foreseeability Diligence and Reasonably Foreseeable",
           "level": 5,
-          "line_start": 966,
-          "line_end": 994,
+          "line_start": 1006,
+          "line_end": 1034,
           "anchor": "#foreseeability-diligence-and-reasonably-foreseeable"
         },
         {
           "header": "Foreseeability Burden",
           "level": 5,
-          "line_start": 995,
-          "line_end": 1008,
+          "line_start": 1035,
+          "line_end": 1048,
           "anchor": null
         },
         {
           "header": "Foreseeability Diligence",
           "level": 5,
-          "line_start": 1009,
-          "line_end": 1021,
+          "line_start": 1049,
+          "line_end": 1061,
           "anchor": "#foreseeability-diligence"
         },
         {
           "header": "Foreseeability Failure",
           "level": 5,
-          "line_start": 1022,
-          "line_end": 1034,
+          "line_start": 1062,
+          "line_end": 1074,
           "anchor": "#foreseeability-diligence-c"
         },
         {
           "header": "Foreseeability Scaling",
           "level": 5,
-          "line_start": 1035,
-          "line_end": 1047,
+          "line_start": 1075,
+          "line_end": 1087,
           "anchor": "#foreseeability-failure-c"
         },
         {
           "header": "Foreseeability Scope",
           "level": 5,
-          "line_start": 1048,
-          "line_end": 1062,
+          "line_start": 1088,
+          "line_end": 1102,
           "anchor": "#foreseeability-scaling-c"
         },
         {
           "header": "Reasonably Foreseeable",
           "level": 5,
-          "line_start": 1063,
-          "line_end": 1081,
+          "line_start": 1103,
+          "line_end": 1121,
           "anchor": "#reasonably-foreseeable"
         }
       ]
@@ -5939,20 +5946,20 @@
       ]
     },
     "corpus_systems.md": {
-      "total_lines": 75,
+      "total_lines": 76,
       "sections": [
         {
           "header": "Systems and data",
           "level": 1,
           "line_start": 1,
-          "line_end": 75,
+          "line_end": 76,
           "anchor": null
         },
         {
           "header": "Systems Index",
           "level": 2,
           "line_start": 50,
-          "line_end": 75,
+          "line_end": 76,
           "anchor": null
         }
       ]
@@ -6511,13 +6518,13 @@
       ]
     },
     "corpus_systems/cs_00_registry_and_reading_rules.md": {
-      "total_lines": 191,
+      "total_lines": 192,
       "sections": [
         {
           "header": "Systems registry and identifier rules",
           "level": 1,
           "line_start": 1,
-          "line_end": 191,
+          "line_end": 192,
           "anchor": null
         },
         {
@@ -6531,35 +6538,35 @@
           "header": "Systems registry (stable section families)",
           "level": 2,
           "line_start": 78,
-          "line_end": 107,
+          "line_end": 108,
           "anchor": null
         },
         {
           "header": "Systems domain routing (integrator annex)",
           "level": 2,
-          "line_start": 108,
-          "line_end": 191,
+          "line_start": 109,
+          "line_end": 192,
           "anchor": "#systems-domain-routing-integrator-annex"
         },
         {
           "header": "Domain topic owner map (CS-D)",
           "level": 3,
-          "line_start": 127,
-          "line_end": 148,
+          "line_start": 128,
+          "line_end": 149,
           "anchor": "#domain-topic-owner-map-cs-d"
         },
         {
           "header": "Systems overlap discipline",
           "level": 3,
-          "line_start": 149,
-          "line_end": 169,
+          "line_start": 150,
+          "line_end": 170,
           "anchor": "#systems-overlap-discipline"
         },
         {
           "header": "Systems read-with pointers",
           "level": 3,
-          "line_start": 170,
-          "line_end": 191,
+          "line_start": 171,
+          "line_end": 192,
           "anchor": "#systems-read-with-pointers"
         }
       ]
@@ -6569,13 +6576,13 @@
       "sections": []
     },
     "corpus_systems/cs_02_a_information_types_and_handling.md": {
-      "total_lines": 426,
+      "total_lines": 496,
       "sections": [
         {
           "header": "CS-2, Part A: Information types and handling",
           "level": 2,
           "line_start": 2,
-          "line_end": 426,
+          "line_end": 496,
           "anchor": "#cs-2-part-a-information-types-and-handling"
         },
         {
@@ -6603,108 +6610,295 @@
           "header": "4. Anti-circumvention and integrity of classification",
           "level": 3,
           "line_start": 132,
-          "line_end": 145,
+          "line_end": 146,
           "anchor": "#4-anti-circumvention-and-integrity-of-classification"
         },
         {
           "header": "5. Cross-domain governance principles",
           "level": 3,
-          "line_start": 146,
-          "line_end": 290,
+          "line_start": 147,
+          "line_end": 358,
           "anchor": "#5-cross-domain-governance-principles"
         },
         {
           "header": "6. Data separation and attribution",
           "level": 3,
-          "line_start": 291,
-          "line_end": 391,
+          "line_start": 359,
+          "line_end": 459,
           "anchor": "#6-data-separation-and-attribution"
         },
         {
           "header": "7. Type O baseline for Class A/B/C systems",
           "level": 3,
-          "line_start": 392,
-          "line_end": 426,
+          "line_start": 460,
+          "line_end": 496,
           "anchor": "#7-type-o-baseline-for-class-abc-systems"
         }
       ]
     },
     "corpus_systems/cs_02_b_data_classifications.md": {
-      "total_lines": 325,
+      "total_lines": 459,
       "sections": [
         {
           "header": "CS-2, Part B: Data classifications",
           "level": 2,
           "line_start": 2,
-          "line_end": 325,
+          "line_end": 459,
           "anchor": "#cs-2-part-b-data-classifications"
         },
         {
           "header": "8. Data classifications",
           "level": 3,
-          "line_start": 21,
-          "line_end": 325,
-          "anchor": null
+          "line_start": 22,
+          "line_end": 459,
+          "anchor": "#8-data-classifications"
         },
         {
           "header": "8.1 Type E: Environmental, emergency, and survival-coordination data",
           "level": 4,
-          "line_start": 35,
-          "line_end": 78,
+          "line_start": 45,
+          "line_end": 95,
+          "anchor": null
+        },
+        {
+          "header": "8.1.1 Type E access and handling duties",
+          "level": 5,
+          "line_start": 67,
+          "line_end": 95,
           "anchor": null
         },
         {
           "header": "8.2 Type G: Governance and operational source data",
           "level": 4,
-          "line_start": 79,
-          "line_end": 107,
+          "line_start": 96,
+          "line_end": 151,
           "anchor": null
         },
         {
-          "header": "8.3 Type O: Open public-baseline disclosure data",
-          "level": 4,
-          "line_start": 108,
+          "header": "8.2.1 Type G access and handling duties",
+          "level": 5,
+          "line_start": 118,
           "line_end": 151,
+          "anchor": "#821-type-g-access-and-handling-duties"
+        },
+        {
+          "header": "8.3 Type O: Open public oversight baseline disclosure data",
+          "level": 4,
+          "line_start": 152,
+          "line_end": 215,
           "anchor": "#type-o-open-public-baseline-disclosure-data"
+        },
+        {
+          "header": "8.3.1 Type O access and handling duties",
+          "level": 5,
+          "line_start": 185,
+          "line_end": 215,
+          "anchor": null
         },
         {
           "header": "8.4 Type H: Historical, relational, transactional, and participation data",
           "level": 4,
-          "line_start": 152,
-          "line_end": 203,
+          "line_start": 216,
+          "line_end": 272,
+          "anchor": null
+        },
+        {
+          "header": "8.4.1 Type H access and handling duties",
+          "level": 5,
+          "line_start": 236,
+          "line_end": 272,
           "anchor": null
         },
         {
           "header": "8.5 Type I: Identity and attribution data",
           "level": 4,
-          "line_start": 204,
-          "line_end": 237,
+          "line_start": 273,
+          "line_end": 321,
+          "anchor": null
+        },
+        {
+          "header": "8.5.1 Type I access and handling duties",
+          "level": 5,
+          "line_start": 298,
+          "line_end": 321,
           "anchor": null
         },
         {
           "header": "8.6 Type N: Neurocognitive and internal data",
           "level": 4,
-          "line_start": 238,
-          "line_end": 263,
+          "line_start": 322,
+          "line_end": 377,
+          "anchor": null
+        },
+        {
+          "header": "8.6.1 Type N access and handling duties",
+          "level": 5,
+          "line_start": 338,
+          "line_end": 377,
           "anchor": null
         },
         {
           "header": "8.7 Type S: Safety, security, and restricted investigation data",
           "level": 4,
-          "line_start": 264,
-          "line_end": 325,
+          "line_start": 378,
+          "line_end": 459,
+          "anchor": null
+        },
+        {
+          "header": "8.7.1 Type S access and handling duties",
+          "level": 5,
+          "line_start": 415,
+          "line_end": 459,
           "anchor": null
         }
       ]
     },
-    "corpus_systems/cs_03_system_classification_and_handling.md": {
-      "total_lines": 645,
+    "corpus_systems/cs_03_a_system_classification_machinery.md": {
+      "total_lines": 438,
       "sections": [
         {
-          "header": "CS-3: System classification and handling",
+          "header": "CS-3, Part A: System classification machinery",
           "level": 2,
-          "line_start": 1,
-          "line_end": 645,
+          "line_start": 2,
+          "line_end": 438,
+          "anchor": "#cs-3-part-a-system-classification-machinery"
+        },
+        {
+          "header": "1. Purpose and scope",
+          "level": 3,
+          "line_start": 33,
+          "line_end": 71,
+          "anchor": "#1-purpose-and-scope"
+        },
+        {
+          "header": "2. Classification dimensions and interpretive requirement",
+          "level": 3,
+          "line_start": 72,
+          "line_end": 100,
+          "anchor": "#2-classification-dimensions-and-interpretive-requirement"
+        },
+        {
+          "header": "3. Criticality, concentration, temporal, and adversarial factors",
+          "level": 3,
+          "line_start": 101,
+          "line_end": 158,
+          "anchor": "#3-criticality-concentration-temporal-and-adversarial-factors"
+        },
+        {
+          "header": "4. Dependency types (Class A–P)",
+          "level": 3,
+          "line_start": 159,
+          "line_end": 206,
+          "anchor": "#4-dependency-types-class-ap"
+        },
+        {
+          "header": "5. Boundaries, timeframes, and resilience",
+          "level": 3,
+          "line_start": 207,
+          "line_end": 242,
+          "anchor": "#5-boundaries-timeframes-and-resilience"
+        },
+        {
+          "header": "6. Domain taxonomy, ordinary examples, and scarce-capacity handling",
+          "level": 3,
+          "line_start": 243,
+          "line_end": 296,
+          "anchor": "#6-domain-taxonomy-examples-and-scarce-capacity-handling"
+        },
+        {
+          "header": "7. Classification governance, disclosure, and challenge",
+          "level": 3,
+          "line_start": 297,
+          "line_end": 438,
+          "anchor": "#7-classification-governance-disclosure-and-challenge"
+        }
+      ]
+    },
+    "corpus_systems/cs_03_b_system_impact_classifications.md": {
+      "total_lines": 500,
+      "sections": [
+        {
+          "header": "CS-3, Part B: System impact classifications",
+          "level": 2,
+          "line_start": 2,
+          "line_end": 500,
+          "anchor": "#cs-3-part-b-system-impact-classifications"
+        },
+        {
+          "header": "8. System impact classifications",
+          "level": 3,
+          "line_start": 22,
+          "line_end": 500,
+          "anchor": "#8-system-impact-classifications"
+        },
+        {
+          "header": "8.1 Class A: Survival-critical, foundational, and irreplaceable systems",
+          "level": 4,
+          "line_start": 31,
+          "line_end": 115,
+          "anchor": "#class-a-survival-critical-foundational-and-irreplaceable-systems"
+        },
+        {
+          "header": "8.1.1 Class A scaled duties",
+          "level": 5,
+          "line_start": 75,
+          "line_end": 115,
+          "anchor": null
+        },
+        {
+          "header": "8.2 Class B: Critical, high-dependency, systemically significant systems",
+          "level": 4,
+          "line_start": 116,
+          "line_end": 217,
+          "anchor": "#class-b-critical-high-dependency-systemically-significant-systems"
+        },
+        {
+          "header": "8.2.1 Class B scaled duties",
+          "level": 5,
+          "line_start": 176,
+          "line_end": 217,
+          "anchor": null
+        },
+        {
+          "header": "8.3 Class C: Coordinated, high-dependency, non-critical systems",
+          "level": 4,
+          "line_start": 218,
+          "line_end": 300,
+          "anchor": "#class-c-coordinated-high-dependency-non-critical-systems"
+        },
+        {
+          "header": "8.3.1 Class C scaled duties",
+          "level": 5,
+          "line_start": 262,
+          "line_end": 300,
+          "anchor": null
+        },
+        {
+          "header": "8.4 Class L: Local, limited-impact, and non-critical systems",
+          "level": 4,
+          "line_start": 301,
+          "line_end": 387,
+          "anchor": "#class-l-local-limited-impact-and-non-critical-systems"
+        },
+        {
+          "header": "8.4.1 Class L scaled duties",
+          "level": 5,
+          "line_start": 352,
+          "line_end": 387,
+          "anchor": null
+        },
+        {
+          "header": "8.5 Class P: Personal, private-use, isolated, and experimental systems",
+          "level": 4,
+          "line_start": 388,
+          "line_end": 500,
+          "anchor": "#class-p-personal-private-use-isolated-and-experimental-systems"
+        },
+        {
+          "header": "8.5.1 Class P scaled duties",
+          "level": 5,
+          "line_start": 457,
+          "line_end": 500,
           "anchor": null
         }
       ]
