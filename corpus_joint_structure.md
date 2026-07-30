@@ -7,7 +7,7 @@
 - How shared contracts set authority, readability, identifiers, and “who owns this topic”
 - How topic routing and mandatory read-with order work across implementation files
 - How joint obligations and interlocks must be satisfied together — not restated as domain doctrine
-- How shared operational terms (evidence, procedure, dependency, participation, failure handling, and related) live in the **CJS-5** library — including the **[CJS-5.3 audit process home](corpus_joint_structure/cjs_05o_oversight_operations.md#cjs-53-audit-process-home)** (what / why / how / when auditing works across CS, CI, and CF)
+- How shared operational terms (evidence, procedure, dependency, participation, failure handling, and related) live in the **CJS-5** library — including the **[CJS-5.3 audit process home](corpus_joint_structure/cjs_05_audit_process.md#cjs-53-audit-process-home)** (what / why / how / when auditing works across CS, CI, and CF)
 - Families **CJS-1–CJS-5** and the registry annex carry the detail — expand **Joint structure index** below, or use the [topic router reader index](doc_architecture/generated/topic_router_reader_index.md), when you need a specific file
 
 **Does not:**
@@ -58,7 +58,8 @@
 | CJS-3: Joint structural obligations | [cjs_03_joint_structural_obligations.md](corpus_joint_structure/cjs_03_joint_structural_obligations.md) |
 | CJS-4: Specific joint interlocks and shared abstractions | [cjs_04_specific_joint_interlocks.md](corpus_joint_structure/cjs_04_specific_joint_interlocks.md) |
 | CJS-5: Cross-implementation operational cluster library (compass and role preface) | [cjs_05_cross_implementation_operational_terms.md](corpus_joint_structure/cjs_05_cross_implementation_operational_terms.md) |
-| CJS-5.2–CJS-5.6: Oversight leg clusters | [cjs_05o_oversight_operations.md](corpus_joint_structure/cjs_05o_oversight_operations.md) |
+| CJS-5.3: Audit process home (what / why / how / when) | [cjs_05_audit_process.md](corpus_joint_structure/cjs_05_audit_process.md) |
+| CJS-5.2–CJS-5.6: Oversight leg clusters (OP annexes, including CJS-5.3–5.5) | [cjs_05o_oversight_operations.md](corpus_joint_structure/cjs_05o_oversight_operations.md) |
 | CJS-5.7–CJS-5.10: Participation leg clusters | [cjs_05p_participation_operations.md](corpus_joint_structure/cjs_05p_participation_operations.md) |
 | CJS-5.11–CJS-5.15: Accountability leg clusters | [cjs_05a_accountability_operations.md](corpus_joint_structure/cjs_05a_accountability_operations.md) |
 | CJS-5.16–CJS-5.21: Continuity aim clusters | [cjs_05c_continuity_operations.md](corpus_joint_structure/cjs_05c_continuity_operations.md) |

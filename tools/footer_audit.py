@@ -53,6 +53,7 @@ CJS_CHAIN = (
     "corpus_joint_structure/cjs_03_joint_structural_obligations.md",
     "corpus_joint_structure/cjs_04_specific_joint_interlocks.md",
     "corpus_joint_structure/cjs_05_cross_implementation_operational_terms.md",
+    "corpus_joint_structure/cjs_05_audit_process.md",
     "corpus_joint_structure/cjs_05o_oversight_operations.md",
     "corpus_joint_structure/cjs_05p_participation_operations.md",
     "corpus_joint_structure/cjs_05a_accountability_operations.md",

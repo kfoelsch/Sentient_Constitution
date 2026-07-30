@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-07-30T10:05:18+00:00",
+  "generated_at": "2026-07-30T20:11:19+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -178,6 +178,10 @@
       },
       {
         "id": "corpus_joint_structure/cjs_04_specific_joint_interlocks.md",
+        "type": "companion"
+      },
+      {
+        "id": "corpus_joint_structure/cjs_05_audit_process.md",
         "type": "companion"
       },
       {
@@ -1395,7 +1399,7 @@
           },
           {
             "file": "core_05apex_oversight_leg.md",
-            "count": 14,
+            "count": 19,
             "anchors": [
               "#oversight-constitutional",
               "#oversight-constitutional-a",
@@ -1484,7 +1488,7 @@
           },
           {
             "file": "core_05defs_continuity.md",
-            "count": 166,
+            "count": 174,
             "anchors": [
               "#avoidable-burden",
               "#avoidable-burden-a",
@@ -1528,6 +1532,9 @@
               "#strategic-stewardship-obligation-constitutional",
               "#strategic-stewardship-obligation-constitutional-a",
               "#strategic-stewardship-obligation-constitutional-c",
+              "#system-alignment-certification-constitutional",
+              "#system-alignment-certification-constitutional-a",
+              "#system-alignment-certification-constitutional-c",
               "#system-capture",
               "#system-capture-a",
               "#system-capture-c",
@@ -1554,7 +1561,7 @@
           },
           {
             "file": "core_05defs_oversight.md",
-            "count": 116,
+            "count": 123,
             "anchors": [
               "#auditability",
               "#auditability-a",
@@ -1641,7 +1648,7 @@
           },
           {
             "file": "core_06-06_rights_part_c.md",
-            "count": 28,
+            "count": 29,
             "anchors": [
               "#article-xii-d-incentive-alignment-constraint",
               "#article-xiv-info-sphere-integrity",
@@ -2729,17 +2736,18 @@
           },
           {
             "file": "core_05defs_continuity.md",
-            "count": 6,
+            "count": 8,
             "anchors": [
               "#dependency",
               "#risk",
+              "#system-alignment-certification-constitutional",
               "#system-capture",
               "#trustworthiness"
             ]
           },
           {
             "file": "core_05defs_oversight.md",
-            "count": 23,
+            "count": 24,
             "anchors": [
               "#auditability",
               "#classification-scaled-governance",
@@ -3606,7 +3614,7 @@
           },
           {
             "file": "core_05defs_oversight.md",
-            "count": 181,
+            "count": 184,
             "anchors": [
               "#adversarial-scaled-and-exploited-conditions",
               "#auditability",
@@ -4057,7 +4065,7 @@
         "targets": [
           {
             "file": "core_00_preamble.md",
-            "count": 8,
+            "count": 9,
             "anchors": [
               "#constitutional-tetrad",
               "#material-stake"
@@ -4148,7 +4156,7 @@
           },
           {
             "file": "core_05defs_continuity.md",
-            "count": 99,
+            "count": 103,
             "anchors": [
               "#cascading-failure",
               "#charter",
@@ -4157,6 +4165,7 @@
               "#protected-internal-state-boundary-constitutional",
               "#risk",
               "#safety-constraint",
+              "#system-alignment-certification-constitutional",
               "#system-boundaries",
               "#system-boundary-integrity",
               "#system-capture",
@@ -4232,10 +4241,11 @@
           },
           {
             "file": "core_07_a_system_alignment_certification_evaluation.md",
-            "count": 11,
+            "count": 12,
             "anchors": [
               "#3-whole-system-certification-evaluation",
-              "#4-data-types-and-handling-evaluation"
+              "#4-data-types-and-handling-evaluation",
+              "#chapter-seven-system-alignment-certification"
             ]
           },
           {
@@ -4719,7 +4729,7 @@
           },
           {
             "file": "core_05defs_continuity.md",
-            "count": 63,
+            "count": 64,
             "anchors": [
               "#charter",
               "#classification-record-constitutional",
@@ -4755,7 +4765,7 @@
           },
           {
             "file": "core_05defs_oversight.md",
-            "count": 22,
+            "count": 26,
             "anchors": [
               "#auditability",
               "#epistemic-integrity",
@@ -4876,6 +4886,14 @@
             ]
           },
           {
+            "file": "corpus_systems/cs_03_a_system_classification_machinery.md",
+            "count": 5,
+            "anchors": [
+              "#35-reclassification-requirement",
+              "#7-classification-governance-disclosure-and-challenge"
+            ]
+          },
+          {
             "file": "corpus_systems/cs_protocol_a_system_design_testing_verification_deployment.md",
             "count": 2,
             "anchors": []
@@ -4943,7 +4961,7 @@
           },
           {
             "file": "core_05defs_oversight.md",
-            "count": 18,
+            "count": 19,
             "anchors": [
               "#auditability",
               "#auditability-a",
@@ -5034,9 +5052,16 @@
           },
           {
             "file": "corpus_systems/cs_02_a_information_types_and_handling.md",
-            "count": 2,
+            "count": 3,
             "anchors": [
               "#52-reclassification-and-lifecycle-governance"
+            ]
+          },
+          {
+            "file": "corpus_systems/cs_03_a_system_classification_machinery.md",
+            "count": 2,
+            "anchors": [
+              "#35-reclassification-requirement"
             ]
           }
         ]
@@ -5049,6 +5074,13 @@
             "count": 1,
             "anchors": [
               "#charter"
+            ]
+          },
+          {
+            "file": "core_05defs_oversight.md",
+            "count": 1,
+            "anchors": [
+              "#auditability"
             ]
           },
           {
@@ -6753,7 +6785,7 @@
         "targets": [
           {
             "file": "core_00_preamble.md",
-            "count": 45,
+            "count": 46,
             "anchors": [
               "#constitutional-tetrad",
               "#material-stake",
@@ -6897,7 +6929,7 @@
           },
           {
             "file": "core_05defs_continuity.md",
-            "count": 234,
+            "count": 236,
             "anchors": [
               "#avoidable-burden",
               "#avoidable-burden-a",
@@ -7066,7 +7098,7 @@
           },
           {
             "file": "core_07_a_system_alignment_certification_evaluation.md",
-            "count": 22,
+            "count": 23,
             "anchors": [
               "#10-trustworthiness-and-system-reliance-integrity-evaluation",
               "#3-whole-system-certification-evaluation",
@@ -7123,6 +7155,13 @@
             "file": "corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md",
             "count": 1,
             "anchors": []
+          },
+          {
+            "file": "corpus_joint_structure/cjs_05_audit_process.md",
+            "count": 1,
+            "anchors": [
+              "#cjs-53-audit-process-home"
+            ]
           },
           {
             "file": "corpus_systems.md",
@@ -7922,10 +7961,11 @@
           },
           {
             "file": "core_06-06_rights_part_c.md",
-            "count": 4,
+            "count": 5,
             "anchors": [
               "#article-xii-b-right-to-challenge-review-and-redress",
-              "#article-xv-a-auditability-and-observable-evidence"
+              "#article-xv-a-auditability-and-observable-evidence",
+              "#article-xv-audit-transparency-and-independent-verification"
             ]
           },
           {
@@ -8433,6 +8473,13 @@
             "anchors": []
           },
           {
+            "file": "corpus_joint_structure/cjs_05_audit_process.md",
+            "count": 2,
+            "anchors": [
+              "#cjs-53-audit-process-home"
+            ]
+          },
+          {
             "file": "corpus_joint_structure/cjs_05_cross_implementation_operational_terms.md",
             "count": 1,
             "anchors": []
@@ -8592,6 +8639,13 @@
             "file": "corpus_joint_structure/cjs_04_specific_joint_interlocks.md",
             "count": 1,
             "anchors": []
+          },
+          {
+            "file": "corpus_joint_structure/cjs_05_audit_process.md",
+            "count": 2,
+            "anchors": [
+              "#cjs-53-audit-process-home"
+            ]
           },
           {
             "file": "corpus_joint_structure/cjs_05_cross_implementation_operational_terms.md",
@@ -9096,6 +9150,125 @@
         ]
       },
       {
+        "source": "corpus_joint_structure/cjs_05_audit_process.md",
+        "targets": [
+          {
+            "file": "core_00_preamble.md",
+            "count": 2,
+            "anchors": [
+              "#material-stake"
+            ]
+          },
+          {
+            "file": "core_05_definitions_home.md",
+            "count": 1,
+            "anchors": [
+              "#chapter-five-foundational-definitions"
+            ]
+          },
+          {
+            "file": "core_05apex_accountability_leg.md",
+            "count": 4,
+            "anchors": [
+              "#accountability",
+              "#accountability-a",
+              "#accountability-c"
+            ]
+          },
+          {
+            "file": "core_05apex_oversight_leg.md",
+            "count": 4,
+            "anchors": [
+              "#oversight-constitutional",
+              "#oversight-constitutional-a",
+              "#oversight-constitutional-c"
+            ]
+          },
+          {
+            "file": "core_05defs_accountability.md",
+            "count": 4,
+            "anchors": [
+              "#proportionality",
+              "#proportionality-a",
+              "#proportionality-c"
+            ]
+          },
+          {
+            "file": "core_05defs_continuity.md",
+            "count": 10,
+            "anchors": [
+              "#dependency",
+              "#dependency-a",
+              "#dependency-c",
+              "#system-alignment-certification-constitutional",
+              "#system-definition",
+              "#system-definition-a",
+              "#system-definition-c"
+            ]
+          },
+          {
+            "file": "core_05defs_oversight.md",
+            "count": 14,
+            "anchors": [
+              "#auditability",
+              "#auditability-a",
+              "#auditability-c",
+              "#material",
+              "#material-a",
+              "#material-c",
+              "#materiality-determination",
+              "#public-oversight-baseline-disclosure",
+              "#transparency",
+              "#transparency-a",
+              "#transparency-c"
+            ]
+          },
+          {
+            "file": "core_07_a_system_alignment_certification_evaluation.md",
+            "count": 1,
+            "anchors": [
+              "#chapter-seven-system-alignment-certification"
+            ]
+          },
+          {
+            "file": "core_16-16_incorporation.md",
+            "count": 1,
+            "anchors": [
+              "#chapter-sixteen-incorporation-bridge"
+            ]
+          },
+          {
+            "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
+            "count": 1,
+            "anchors": [
+              "#cjs-12-shared-implementation-corpus-preamble-contract"
+            ]
+          },
+          {
+            "file": "corpus_joint_structure/cjs_02_implementation_integration_map.md",
+            "count": 1,
+            "anchors": [
+              "#cjs-21-topic-router-stable-ids"
+            ]
+          },
+          {
+            "file": "corpus_joint_structure/cjs_05_cross_implementation_operational_terms.md",
+            "count": 2,
+            "anchors": [
+              "#cjs-51-constitutional-compass-and-cluster-map"
+            ]
+          },
+          {
+            "file": "corpus_joint_structure/cjs_05o_oversight_operations.md",
+            "count": 10,
+            "anchors": [
+              "#cjs-53-auditability-annex",
+              "#cjs-54-audit-process-output-disclosure"
+            ]
+          }
+        ]
+      },
+      {
         "source": "corpus_joint_structure/cjs_05_cross_implementation_operational_terms.md",
         "targets": [
           {
@@ -9239,6 +9412,13 @@
             "anchors": []
           },
           {
+            "file": "corpus_joint_structure/cjs_05_audit_process.md",
+            "count": 2,
+            "anchors": [
+              "#cjs-53-audit-process-home"
+            ]
+          },
+          {
             "file": "corpus_joint_structure/cjs_05_cross_implementation_operational_terms.md",
             "count": 1,
             "anchors": [
@@ -9263,7 +9443,9 @@
           {
             "file": "corpus_joint_structure/cjs_05o_oversight_operations.md",
             "count": 2,
-            "anchors": []
+            "anchors": [
+              "#cjs-53-auditability-annex"
+            ]
           },
           {
             "file": "corpus_joint_structure/cjs_05p_participation_operations.md",
@@ -9791,7 +9973,7 @@
           },
           {
             "file": "core_05apex_oversight_leg.md",
-            "count": 4,
+            "count": 8,
             "anchors": [
               "#oversight-constitutional",
               "#oversight-constitutional-a",
@@ -9842,7 +10024,7 @@
           },
           {
             "file": "core_05defs_oversight.md",
-            "count": 59,
+            "count": 60,
             "anchors": [
               "#auditability",
               "#auditability-a",
@@ -9877,6 +10059,13 @@
             ]
           },
           {
+            "file": "core_07_a_system_alignment_certification_evaluation.md",
+            "count": 1,
+            "anchors": [
+              "#chapter-seven-system-alignment-certification"
+            ]
+          },
+          {
             "file": "core_16-16_incorporation.md",
             "count": 6,
             "anchors": [
@@ -9898,6 +10087,13 @@
             ]
           },
           {
+            "file": "corpus_joint_structure/cjs_05_audit_process.md",
+            "count": 14,
+            "anchors": [
+              "#cjs-53-audit-process-home"
+            ]
+          },
+          {
             "file": "corpus_joint_structure/cjs_05_cross_implementation_operational_terms.md",
             "count": 2,
             "anchors": [
@@ -9908,6 +10104,14 @@
             "file": "corpus_joint_structure/cjs_05p_participation_operations.md",
             "count": 1,
             "anchors": []
+          },
+          {
+            "file": "corpus_systems/cs_02_a_information_types_and_handling.md",
+            "count": 2,
+            "anchors": [
+              "#53-tiered-transparency-and-audit-access",
+              "#7-type-o-baseline-for-class-abc-systems"
+            ]
           }
         ]
       },
@@ -10383,6 +10587,20 @@
             ]
           },
           {
+            "file": "corpus_joint_structure/cjs_05_audit_process.md",
+            "count": 1,
+            "anchors": [
+              "#cjs-53-audit-process-home"
+            ]
+          },
+          {
+            "file": "corpus_joint_structure/cjs_05o_oversight_operations.md",
+            "count": 1,
+            "anchors": [
+              "#cjs-54-audit-process-output-disclosure"
+            ]
+          },
+          {
             "file": "corpus_systems/cs_01_scope_purpose_identifier_rules.md",
             "count": 1,
             "anchors": []
@@ -10458,16 +10676,14 @@
         "targets": [
           {
             "file": "core_01_c_stewardship_capacity_principles.md",
-            "count": 3,
+            "count": 1,
             "anchors": [
-              "#115-contingent-claims-games-of-chance-and-event-contract-markets",
-              "#121-productive-capacity-instrumental-good",
-              "#13-market-structure"
+              "#115-contingent-claims-games-of-chance-and-event-contract-markets"
             ]
           },
           {
             "file": "core_05defs_continuity.md",
-            "count": 7,
+            "count": 17,
             "anchors": [
               "#classification-record-constitutional",
               "#system-alignment-certification-constitutional",
@@ -10490,13 +10706,6 @@
             ]
           },
           {
-            "file": "core_06-06_rights_part_b.md",
-            "count": 1,
-            "anchors": [
-              "#article-x-c-adult-consensual-commercial-sexual-services-and-sexual-exploitation"
-            ]
-          },
-          {
             "file": "core_06-06_rights_part_c.md",
             "count": 2,
             "anchors": [
@@ -10506,9 +10715,28 @@
           },
           {
             "file": "core_07_a_system_alignment_certification_evaluation.md",
+            "count": 11,
+            "anchors": [
+              "#2-system-class-evaluation",
+              "#3-whole-system-certification-evaluation"
+            ]
+          },
+          {
+            "file": "core_07_b_system_alignment_certification_record_process.md",
+            "count": 21,
+            "anchors": [
+              "#111-minimum-record-contents",
+              "#12-transparency-auditability-and-contestability",
+              "#14-supervisory-sequence-and-contestability-chain",
+              "#15-relationship-to-standing",
+              "#16-reopening-drift-and-non-evasion"
+            ]
+          },
+          {
+            "file": "core_08-08_standing_assessment.md",
             "count": 2,
             "anchors": [
-              "#2-system-class-evaluation"
+              "#chapter-eight-compliance-violation-and-standing-model"
             ]
           },
           {
@@ -10517,8 +10745,23 @@
             "anchors": []
           },
           {
-            "file": "corpus_systems/cs_01_scope_purpose_identifier_rules.md",
+            "file": "corpus_joint_structure/cjs_05_audit_process.md",
             "count": 3,
+            "anchors": [
+              "#cjs-53-audit-process-home",
+              "#cjs-53-sibling-modes"
+            ]
+          },
+          {
+            "file": "corpus_joint_structure/cjs_05o_oversight_operations.md",
+            "count": 1,
+            "anchors": [
+              "#cjs-54-audit-process-output-disclosure"
+            ]
+          },
+          {
+            "file": "corpus_systems/cs_01_scope_purpose_identifier_rules.md",
+            "count": 4,
             "anchors": [
               "#operates-in-conjunction-with"
             ]
@@ -10537,8 +10780,15 @@
             ]
           },
           {
+            "file": "corpus_systems/cs_04_critical_system_stewardship.md",
+            "count": 3,
+            "anchors": [
+              "#private-chokepoint-access-continuity"
+            ]
+          },
+          {
             "file": "corpus_systems/cs_protocol_a_system_design_testing_verification_deployment.md",
-            "count": 2,
+            "count": 3,
             "anchors": []
           }
         ]
@@ -10587,6 +10837,22 @@
       {
         "source": "corpus_systems/cs_04_critical_system_stewardship.md",
         "targets": [
+          {
+            "file": "core_01_c_stewardship_capacity_principles.md",
+            "count": 2,
+            "anchors": [
+              "#121-productive-capacity-instrumental-good",
+              "#13-market-structure"
+            ]
+          },
+          {
+            "file": "corpus_systems/cs_03_a_system_classification_machinery.md",
+            "count": 2,
+            "anchors": [
+              "#7-classification-governance-disclosure-and-challenge",
+              "#78-integrated-risk-governance"
+            ]
+          },
           {
             "file": "corpus_systems/cs_03_b_system_impact_classifications.md",
             "count": 1,

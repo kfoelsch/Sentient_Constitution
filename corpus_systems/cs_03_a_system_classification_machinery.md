@@ -85,7 +85,7 @@ Account for expected and credible worst-case conditions in the system's realisti
 
 **No** system may claim **reduced obligations**, **exemptions**, or **lower-impact** classification while exerting **material external** effects.
 
-**Classification under CS-3 — System classification and handling** is **mandatory** for all systems with **material impact**. Operators must maintain a [Classification Record](../core_05defs_continuity.md#classification-record-constitutional). Classification must be:
+**Classification under CS-3 — System classification and handling** is **mandatory** for all systems with **material impact**. Operators must maintain a [Classification Record](../core_05defs_continuity.md#classification-record-constitutional). That record is **material audited information**: it is independently checked as a sibling audit mode under the **[CJS-5.3 audit process home](../corpus_joint_structure/cjs_05_audit_process.md#cjs-53-audit-process-home)**, between and beside [System Alignment Certification](../core_05defs_continuity.md#system-alignment-certification-constitutional) cycles. Scaled Classification Record audit duties live in [§7.3](#73-auditability-and-verification). Classification must be:
 
 - **functionally determined** from observed and reasonably foreseeable effects rather than declared intent, structure, or self-description
 - **transparent**, **auditable**, and **subject to challenge** under:
@@ -414,13 +414,13 @@ Forum verification under Chapter Seven §2 does **not** transfer ownership of th
 <a id="73-auditability-and-verification"></a>
 **7.3. Audit the Classification Record.**
 
-*Classification Record duty:* check the file against real behavior so System Alignment Certification under **[Chapter Seven §2](../core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation)** is verifying substance, not paper claims.
+*Classification Record duty:* this subsection owns the **Classification Record audit** sibling mode named in the **[CJS-5.3 audit process home](../corpus_joint_structure/cjs_05_audit_process.md#cjs-53-sibling-modes)** — an independent check that the class file matches real behavior, so System Alignment Certification under **[Chapter Seven §2](../core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation)** verifies substance when SAC runs, and so class honesty stays checkable between and beside those cycles.
 
-Auditability of the Classification Record is required under [§1.3](#13-mandatory-functional-classification) (**Article XV-A**, **Article XV**). Verification must inspect real behavior, outputs, and effects — not only claims in the file — on a schedule that matches impact and how fast the system changes.
+Shared process (what / why / how / when) lives in the **[CJS-5.3 audit process home](../corpus_joint_structure/cjs_05_audit_process.md#cjs-53-audit-process-home)**; access tiers and output disclosure in **[CJS-5.4](../corpus_joint_structure/cjs_05o_oversight_operations.md#cjs-54-audit-process-output-disclosure)**; claim checking in **CJS-5.5**; typing in **CS-2 — Information types and handling**. This subsection does **not** relocate the process home or Rights Floor (**Article XV** / **Article XV-A**).
 
-Audit-process duties follow the **[CJS-5.3 audit process home](../corpus_joint_structure/cjs_05o_oversight_operations.md#cjs-53-audit-process-home)** (what / why / how / when), including independent or third-party audit-path availability and disclosure of audit outputs under **[CJS-5.4](../corpus_joint_structure/cjs_05o_oversight_operations.md#cjs-54-audit-process-output-disclosure)** (**Type O** where feasible, then qualified **Type G** or other non-public source, then forensic or more-restricted tiers only as justified), read with **CJS-5.5** and **CS-2 — Information types and handling**.
+Auditability of the Classification Record is required under [§1.3](#13-mandatory-functional-classification). Verification must inspect real behavior, outputs, and effects — not only claims in the file — on a schedule that matches impact and how fast the system changes, including the triggers in the process home and in [§3.5](#35-reclassification-requirement) / [§7.5](#75-reclassification-and-continuous-update).
 
-**For Class A, B, and C:** Classification Record audits must be able to catch misclassification, under-classification, and unreported behavior changes.
+**For Class A, B, and C:** Classification Record audits must be able to catch misclassification, under-classification, and unreported behavior changes. Independent or third-party audit paths must remain available under **CJS-5.4**; "where feasible" does **not** make those paths soft-optional at these classes.
 
 <a id="74-challenge-and-contestability"></a>
 **7.4. Challenge the Classification Record.**

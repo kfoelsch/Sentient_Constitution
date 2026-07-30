@@ -133,7 +133,7 @@ Binding router table, overlap discipline, and definition-tier rules: [cjs_02_imp
 > - **Joint obligations:** **CJS-3** (*Joint structural obligations (cross-domain requirements)*) gives requirements that must be satisfied together when more than one implementation file applies to the same facts.
 > - **Domain limits:** CJS coordinates shared interfaces. It does not replace day-to-day domain rules owned only by `corpus_systems.md`, `corpus_institutions.md`, or `corpus_forum.md`.
 >
-> **Implementation cross-reference index (routing only):** Joint-structure obligations may connect with **CJS-5** (*Implementation and cross-implementation operational cluster library*) operational clusters. Start at [CJS-5.1 constitutional compass](cjs_05_cross_implementation_operational_terms.md#cjs-51-constitutional-compass-and-cluster-map), then the relevant band: **CJS-5.2–CJS-5.6** (Oversight leg), **CJS-5.7–CJS-5.10** (Participation leg), **CJS-5.11–CJS-5.15** (Accountability leg), **CJS-5.16–CJS-5.21** (Continuity aim), **CJS-5.22–CJS-5.23** (Integrative cross-leg). This index only helps readers find related material. It does not redefine Chapter Five constitutional terms.
+> **Implementation cross-reference index (routing only):** Joint-structure obligations may connect with **CJS-5** (*Implementation and cross-implementation operational cluster library*) operational clusters. Start at [CJS-5.1 constitutional compass](cjs_05_cross_implementation_operational_terms.md#cjs-51-constitutional-compass-and-cluster-map). For the readable audit process home (what / why / how / when), open **[CJS-5.3](cjs_05_audit_process.md#cjs-53-audit-process-home)** before the Oversight OP annexes. Then the relevant band: **CJS-5.2–CJS-5.6** (Oversight leg OP clusters), **CJS-5.7–CJS-5.10** (Participation leg), **CJS-5.11–CJS-5.15** (Accountability leg), **CJS-5.16–CJS-5.21** (Continuity aim), **CJS-5.22–CJS-5.23** (Integrative cross-leg). This index only helps readers find related material. It does not redefine Chapter Five constitutional terms.
 
 </details>
 
@@ -173,7 +173,7 @@ These are the stable section families for the CJS folder:
 | **CJS-2** | Cross-file integration map: read-with contract, overlap discipline, and definition tiers (reading guide in **CJS-0.1**) | Topic lookup, editors, auditors | [cjs_02_implementation_integration_map.md](cjs_02_implementation_integration_map.md) |
 | **CJS-3** | General joint structural obligations: requirements that cross domains | Readers handling cross-layer facts; editors, auditors | [cjs_03_joint_structural_obligations.md](cjs_03_joint_structural_obligations.md) |
 | **CJS-4** | Specific joint interlocks and shared abstractions | Topic-driven readers when routed; implementers | [cjs_04_specific_joint_interlocks.md](cjs_04_specific_joint_interlocks.md) |
-| **CJS-5** | Cross-implementation operational cluster library | Readers needing shared operational terms | [cjs_05_cross_implementation_operational_terms.md](cjs_05_cross_implementation_operational_terms.md) |
+| **CJS-5** | Cross-implementation operational cluster library; audit process home at **CJS-5.3** | Readers needing shared operational terms or the auditing guide | [cjs_05_cross_implementation_operational_terms.md](cjs_05_cross_implementation_operational_terms.md); audit process: [cjs_05_audit_process.md](cjs_05_audit_process.md) |
 
 ### CJS-0.3: Stable identifiers, edition alignment, and drafting notes
 
