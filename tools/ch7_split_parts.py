@@ -126,7 +126,7 @@ Chapter Seven, **Part B**, is the constitutional owner of the **certification re
 
 *In plain terms: Part A says what must be **evaluated**. Part B says what must go **on the record**, how **forums** run the process, how people **challenge** outcomes, and how certification may feed **standing** — without letting certification substitute for standing classification or effects.*
 
-Forum-supervised certification must produce a bounded **System Alignment Certification Record** under [§11](#11-certification-record) that reflects Part A evaluation outputs, satisfies [§12](#12-transparency-auditability-and-contestability), follows the forum roles in [§13](#13-forum-supervision-and-component-roles) and supervisory sequence in [§14](#14-supervisory-sequence-and-contestability-chain), and may supply verified inputs to Chapter Eight only through [§15](#15-relationship-to-standing). Defective certification, misclassification, and evasion route under [§16](#16-reopening-drift-and-non-evasion).
+Forum-supervised certification must produce a bounded **System Certification Record** under [§11](#11-certification-record) that reflects Part A evaluation outputs, satisfies [§12](#12-transparency-auditability-and-contestability), follows the forum roles in [§13](#13-forum-supervision-and-component-roles) and supervisory sequence in [§14](#14-supervisory-sequence-and-contestability-chain), and may supply verified inputs to Chapter Eight only through [§15](#15-relationship-to-standing). Defective certification, misclassification, and evasion route under [§16](#16-reopening-drift-and-non-evasion).
 
 <br>
 """

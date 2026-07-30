@@ -48,13 +48,13 @@
 
 **CS** families and related instruments operate **together**. Apply them so systems and data are judged by **what they do**, not by siloed labels:
 
-- **CS-2 — Information types and handling** — data typing, separation, lifecycle, and Type O baseline duties
-- **CS-3 — System classification and handling** — impact class, dependency typing, [Classification Record](../core_05defs_continuity.md#classification-record-constitutional), and class-scaled governance
+- **CS-2 — Information types and handling** — data typing, separation, lifecycle, Type O baseline duties, and the [System Data Types Record](../core_05defs_continuity.md#system-data-types-record-constitutional)
+- **CS-3 — System classification and handling** — impact class, dependency typing, [System Classification Record](../core_05defs_continuity.md#system-classification-record-constitutional), and class-scaled governance
 - **CS-4 — Critical system stewardship** — steward tiers and continuity for high-class systems
 - **Protocol A** (and other named protocols) — design, testing, verification, deployment, and lifecycle evidence
 - **CJS-4.3** (*Cross-implementation trust integrity (joint operation model)*) and **CJS-5** operational clusters — when joint or cross-layer operation applies, including **CJS-5.11–CJS-5.13** (*Authority, constraint, secrecy, and procedure*) through **CJS-5.19–CJS-5.15** (*Failure, robustness, intervention, and correction*)
 - constitutional **Authority Stack and Internal Hierarchy** in **Chapter Five**, read with **Chapter Sixteen** incorporation discipline
-- **Sentient Constitution Chapters Two through Five** — definition requirements and Independent Definitions (materiality, reasonable foreseeability, dependency, system boundaries, risk, harm, Classification Record, and related terms)
+- **Sentient Constitution Chapters Two through Five** — definition requirements and Independent Definitions (materiality, reasonable foreseeability, dependency, system boundaries, risk, harm, System Classification Record, System Data Types Record, and related terms)
 
 Family-specific Trace blocks and mandatory read-withs remain in each CS file. Cross-layer topic routing remains in **CJS-2.1**. Shared contract and joint reading order remain in **CJS-1.1** and **CJS-1.2**.
 

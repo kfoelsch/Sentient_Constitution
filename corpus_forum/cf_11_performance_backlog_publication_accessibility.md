@@ -31,10 +31,6 @@
 <br>
 
 
-**Constitutional index (abridged)**
-- Topic-level routing and cited authorities remain in subsection text and cross-references.
-- Canonical owner map: **CJS-2.1** (*Topic router (stable IDs)*) and `doc_architecture.md` section 4.
-
 This section applies to all forum families recognized in `core_11-11_forum.md` **Chapter Eleven**, including any specialist chamber or designated technical panel operating within those families.
 
 CF-11 governs forum performance as a practical condition of **Contestability**, remedy, publication, and access. A forum that is formally available but too delayed, opaque, inaccessible, inaccurate, or self-damaging to use is not performing its constitutional function.

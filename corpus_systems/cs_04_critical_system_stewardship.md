@@ -1,9 +1,5 @@
 ## CS-4: Critical system stewardship
 
-**Constitutional index (abridged)**
-- Topic-level routing and cited authorities remain in subsection text and cross-references.
-- Canonical owner map: **CJS-2.1** (*Topic router (stable IDs)*) and `doc_architecture.md` section 4.
-
 **Definition:** **Critical System Stewards** are organizations whose operation, governance.
 or continuity is a **non-substitutable dependency** for the **operation, recovery, or governance** of **Class A, B, or C** systems. **They** are organizational dependencies for functioning, maintenance, recovery, or oversight.
 

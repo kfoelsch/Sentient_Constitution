@@ -71,7 +71,7 @@ Approved progress: **225/225** terms pass tier audit.
 | Sustainability | approved | primary_secondary | cluster_member | `core_05defs_continuity.md` | yes | pass |
 | System | approved | primary_only | cluster_member | `core_05defs_continuity.md` | yes | pass |
 | System Alignment Certification | approved | primary_only | cluster_member | `core_05defs_continuity.md` | yes | pass |
-| System Alignment Certification Record | approved | primary_only | cluster_member | `core_05defs_continuity.md` | yes | pass |
+| System Certification Record | approved | primary_only | cluster_member | `core_05defs_continuity.md` | yes | pass |
 | System Boundaries | approved | primary_only | cluster_member | `core_05defs_continuity.md` | yes | pass |
 | System Boundary Integrity | approved | primary_only | cluster_member | `core_05defs_continuity.md` | yes | pass |
 | System Capture | approved | primary_only | cluster_member | `core_05defs_continuity.md` | yes | pass |

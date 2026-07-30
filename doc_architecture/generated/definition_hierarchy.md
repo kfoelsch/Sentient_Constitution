@@ -206,7 +206,7 @@ CH5-HIER-01 tag vocabulary: [doc_architecture.md](../doc_architecture.md) sectio
 | Sustained High-Gravity Pattern | `core_05defs_accountability.md` | cluster_member | cross-cutting | Accountability | 3.6 Accountability · 3.7 Timeliness | 3.10 Standing State, Contribution, and Violation |
 | System | `core_05defs_continuity.md` | cluster_member | cross-cutting | Continuity | 3.3 Continuity | — |
 | System Alignment Certification | `core_05defs_continuity.md` | cluster_member | cross-cutting | Continuity | 3.3 Continuity | — |
-| System Alignment Certification Record | `core_05defs_continuity.md` | cluster_member | cross-cutting | Continuity | 3.3 Continuity | — |
+| System Certification Record | `core_05defs_continuity.md` | cluster_member | cross-cutting | Continuity | 3.3 Continuity | — |
 | System Boundaries | `core_05defs_continuity.md` | cluster_member | cross-cutting | Continuity | 3.3 Continuity | — |
 | System Boundary Integrity | `core_05defs_continuity.md` | cluster_member | cross-cutting | Continuity | 3.3 Continuity | — |
 | System Capture | `core_05defs_continuity.md` | cluster_member | cross-cutting | Continuity | 3.3 Continuity | — |

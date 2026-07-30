@@ -2169,7 +2169,7 @@
               "#burden-reduction-duty-constitutional",
               "#cascading-failure",
               "#charter",
-              "#classification-record-constitutional",
+              "#system-classification-record-constitutional",
               "#constitutional-efficiency",
               "#constitutional-emergency-and-contingency",
               "#creative-work-attribution-constitutional",
@@ -2213,7 +2213,7 @@
               "#surveillance-boundary",
               "#sustainability",
               "#system-alignment-certification-constitutional",
-              "#system-alignment-certification-record-constitutional",
+              "#system-certification-record-constitutional",
               "#system-boundaries",
               "#system-boundary-integrity",
               "#system-capture",
@@ -3533,7 +3533,7 @@
               "#burden-reduction-duty-constitutional",
               "#cascading-failure",
               "#charter",
-              "#classification-record-constitutional",
+              "#system-classification-record-constitutional",
               "#constitutional-efficiency",
               "#constitutional-emergency-and-contingency",
               "#creative-work-attribution-constitutional",
@@ -3581,7 +3581,7 @@
               "#surveillance-boundary",
               "#sustainability",
               "#system-alignment-certification-constitutional",
-              "#system-alignment-certification-record-constitutional",
+              "#system-certification-record-constitutional",
               "#system-alignment-certification-semi-independent",
               "#system-boundaries",
               "#system-boundaries-integrity-and-exit",
@@ -4732,7 +4732,7 @@
             "count": 64,
             "anchors": [
               "#charter",
-              "#classification-record-constitutional",
+              "#system-classification-record-constitutional",
               "#dependency",
               "#ecological-footprint",
               "#ecological-integrity-constitutional",
@@ -4746,7 +4746,7 @@
               "#safe-conditions-constitutional",
               "#sustainability",
               "#system-alignment-certification-constitutional",
-              "#system-alignment-certification-record-constitutional",
+              "#system-certification-record-constitutional",
               "#system-boundaries",
               "#systemic-lock-in",
               "#trust",
@@ -4944,11 +4944,11 @@
             "count": 14,
             "anchors": [
               "#charter",
-              "#classification-record-constitutional",
+              "#system-classification-record-constitutional",
               "#ecological-footprint",
               "#proportionate-cross-system-support-constitutional",
               "#safe-conditions-constitutional",
-              "#system-alignment-certification-record-constitutional"
+              "#system-certification-record-constitutional"
             ]
           },
           {
@@ -10462,7 +10462,7 @@
             "file": "core_05defs_continuity.md",
             "count": 9,
             "anchors": [
-              "#classification-record-constitutional",
+              "#system-classification-record-constitutional",
               "#dependency",
               "#dependency-a",
               "#dependency-c",
@@ -10685,9 +10685,9 @@
             "file": "core_05defs_continuity.md",
             "count": 17,
             "anchors": [
-              "#classification-record-constitutional",
+              "#system-classification-record-constitutional",
               "#system-alignment-certification-constitutional",
-              "#system-alignment-certification-record-constitutional"
+              "#system-certification-record-constitutional"
             ]
           },
           {
@@ -10801,7 +10801,7 @@
             "count": 2,
             "anchors": [
               "#cascading-failure",
-              "#classification-record-constitutional"
+              "#system-classification-record-constitutional"
             ]
           },
           {

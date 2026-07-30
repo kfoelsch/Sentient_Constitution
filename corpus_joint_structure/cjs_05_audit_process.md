@@ -121,7 +121,8 @@ Audit when any of the following applies (often more than one):
 |---|---|
 | Rights Floor — audit, transparency, independent verification | **Article XV** (XV-A / XV-B / XV-C) |
 | System Alignment Certification (large, forum-supervised, recognition-bearing) | **Chapter Seven** |
-| Classification Record audit | **CS-3** §7.3 |
+| System Classification Record audit | **CS-3** §7.3 |
+| System Data Types Record audit | **CS-2** §8.3 |
 | Data typing and access-posture for audit outputs | **CS-2** (Type O / Type G / bands); output-tier preference in **CJS-5.4** |
 | Complexity / comprehensibility audits (systems profile) | **Protocol B**; **Article XX** |
 | Claim integrity and independent verification terms | **CJS-5.5** |

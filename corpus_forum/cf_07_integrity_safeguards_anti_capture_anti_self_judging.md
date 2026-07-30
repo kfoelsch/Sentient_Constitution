@@ -27,11 +27,6 @@
 <br>
 
 
-**Constitutional index (abridged)**
-- This section collects the forum-side safeguards for Integrity forum alignment work, capture-sensitive routing, anti-self-judging support, and family-level capture activation.
-- Detailed routing rules and cited authorities remain in the subsections and cross-references below.
-- The canonical owner map remains **CJS-2.1** (*Topic router (stable IDs)*) and `doc_architecture.md` section 4.
-
 **Chapter Eleven linkage.** This file implements the Chapter Eleven interfaces that Integrity forums need to run alignment work without becoming the general owner of constitutional routing:
 - **Section 4** authorizes Integrity forum alignment rulings and official constitutional alignment recognition or review for new and existing systems.
 - **Section 4** also authorizes Environment forum environmental-alignment component review where material ecological exposure exists, together with supervisory coordination.

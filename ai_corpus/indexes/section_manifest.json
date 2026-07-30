@@ -1784,7 +1784,7 @@
           "anchor": "#voluntary-discontinuation-constitutional-c"
         },
         {
-          "header": "System Alignment Certification, Certification Record, and Classification Record",
+          "header": "System Alignment Certification, System Certification Record, and System Classification Record",
           "level": 4,
           "line_start": 145,
           "line_end": 163,
@@ -1798,18 +1798,18 @@
           "anchor": "#system-alignment-certification-constitutional"
         },
         {
-          "header": "System Alignment Certification Record",
+          "header": "System Certification Record",
           "level": 4,
           "line_start": 240,
           "line_end": 301,
-          "anchor": "#system-alignment-certification-record-constitutional"
+          "anchor": "#system-certification-record-constitutional"
         },
         {
-          "header": "Classification Record",
+          "header": "System Classification Record",
           "level": 4,
           "line_start": 302,
           "line_end": 350,
-          "anchor": "#classification-record-constitutional"
+          "anchor": "#system-classification-record-constitutional"
         },
         {
           "header": "Resilience, Safety, Reversibility, Self-Healing, Cascading Failure, Existential Risk, Environmental Preconditions, and Wellbeing",

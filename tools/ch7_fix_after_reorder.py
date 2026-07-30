@@ -107,7 +107,7 @@ CORPUS_REPLACEMENTS: list[tuple[str, str]] = [
     # Fix double-remap errors from partial migration
     ("Chapter Seven §11 Whole-System Certification Evaluation", "Chapter Seven §3 Whole-System Certification Evaluation"),
     ("Chapter Seven §3 System Class Evaluation", "Chapter Seven §2 System Class Evaluation"),
-    ("Chapter Seven §16 Certification Record", "Chapter Seven §11 Certification Record"),
+    ("Chapter Seven §16 Certification Record", "Chapter Seven §11 System Certification Record"),
     ("Chapter Seven §16.2", "Chapter Seven §3.2"),
     ("Chapter Seven §16.1", "Chapter Seven §3.1"),
     # Letter sections
@@ -142,7 +142,7 @@ CORPUS_REPLACEMENTS: list[tuple[str, str]] = [
     ("Chapter Seven §9 Forum Supervision", "Chapter Seven §13 Forum Supervision"),
     ("Chapter Seven §8 Supervisory Sequence", "Chapter Seven §14 Supervisory Sequence"),
     ("Chapter Seven §7 Transparency", "Chapter Seven §12 Transparency"),
-    ("Chapter Seven §3 Certification Record", "Chapter Seven §11 Certification Record"),
+    ("Chapter Seven §3 Certification Record", "Chapter Seven §11 System Certification Record"),
     ("Chapter Seven §2 Whole-System Certification Evaluation", "Chapter Seven §3 Whole-System Certification Evaluation"),
     ("Chapter Seven §4 System Class Evaluation", "Chapter Seven §2 System Class Evaluation"),
     ("Chapter Seven §5 Data Types", "Chapter Seven §4 Data Types"),

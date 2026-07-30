@@ -280,7 +280,7 @@ def build_section_ref_table() -> list[tuple[str, str]]:
     title_map = [
         ("Chapter Seven §2 Whole-System Certification Evaluation", "Chapter Seven §3 Whole-System Certification Evaluation"),
         ("Chapter Seven §4 System Class Evaluation", "Chapter Seven §2 System Class Evaluation"),
-        ("Chapter Seven §3 Certification Record", "Chapter Seven §11 Certification Record"),
+        ("Chapter Seven §3 Certification Record", "Chapter Seven §11 System Certification Record"),
         ("Chapter Seven §5 Data Types and Handling Evaluation", "Chapter Seven §4 Data Types and Handling Evaluation"),
         ("Chapter Seven §6 Ecological Footprint Evaluation", "Chapter Seven §5 Ecological Footprint Evaluation"),
         (

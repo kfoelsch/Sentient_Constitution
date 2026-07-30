@@ -25,10 +25,6 @@
 <br>
 
 
-**Constitutional index (abridged)**
-- Topic-level routing and cited authorities remain in subsection text and cross-references.
-- Canonical owner map: **CJS-2.1** (*Topic router (stable IDs)*) and `doc_architecture.md` section 4.
-
 This section is the forum-operational home for standard forum records, forms, and evidence artifacts. It consolidates the record duties created in **CF-4** (*Panel formation, disclosure, recusal, and lawful bench constitution*) through **CF-12** (*Forum continuity*), **CF-13** (*Fallback operation*), and **CF-14** (*Emergency adjudication*) and supplies a common minimum set for adopting entities. It does not create a second traceability or verification standard; traceability and verification discipline remain governed by `core_02-03_definition_mechanics.md` **Chapters Two through Four**, **Article XV-A** (*Auditability and Observable Evidence*), and **CJS-R12** (*Standard forum records, forms, and evidence artifacts*). Where forum record systems, forms, or evidence artifacts are maintained by **Class A**, **Class B**, or **Class C** systems, or materially affect those systems' portability, audit, continuity, migration, or cross-implementation operation, structured-record formats and exchange protocols must also satisfy **CJS-5.17** (*interoperability, portability, and exit-integrity terms*).
 
 ### CF-15.1 Minimum record set
