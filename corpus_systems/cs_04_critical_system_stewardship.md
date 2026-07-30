@@ -172,7 +172,7 @@ Provide **documented**, **low-friction** paths for **qualified** contributors to
 
 **Succession:** Use **deputy, backup, cross-training**, **documented handoffs** so unavailability does not eliminate **constitutional operation**, **auditability**, or **intervention**. **That** aligns with continuity/transfer above and **Protocol A**, subsection **G**; stricter for **Class A** / **CSS-A**.
 
-**Periodic oversight effectiveness review:** On cadences **proportional to class and tier**, assess whether oversight/audit/challenge (**including CS-3 — System classification and handling** item **8. Integrated Risk Governance** second line where applicable) **actually detect**, **escalate**, and **remediate** misalignment—not only paper charters.
+**Periodic oversight effectiveness review:** On cadences **proportional to class and tier**, assess whether oversight/audit/challenge (**including [CS-3 Part A §7.8](cs_03_a_system_classification_machinery.md#78-integrated-risk-governance)** (*Integrated risk governance*) second line where applicable) **actually detect**, **escalate**, and **remediate** misalignment—not only paper charters.
 
 Use **independent** or **functionally independent** evaluators where **Class A/B** or **CSS-A/B** stakes require.
 
@@ -206,6 +206,27 @@ or **dependency reduction** is a **high-severity** constitutional violation, **p
 An organization may be stewardship-critical if it **materially affects** continuity or integrity **whether or not it owns** the system.
 
 Assess criticality from **actual dependency and substitutability**, not ownership, contract framing, or declared scope alone. **Assess** across the **dependency chain** including subcontractors, maintainers, infrastructure providers.
+
+<a id="private-chokepoint-access-continuity"></a>
+<a id="79-high-dependency-private-chokepoints"></a>
+**Private chokepoints people depend on (access continuity and non-capture).**
+
+Some coordination layers can become **private chokepoints** even when they are not government bodies — including **payments**, **identity and credentials**, **core compute or model access**, **messaging and calls**, **hosting and DNS**, **application distribution**, and **search or discovery** where switching costs are high.
+
+Where a **Class A**, **Class B**, or **Class C** system or institution depends on such a layer for **survival**, **healthcare**, **refuge**, **political participation**, **remedy**, or **non-degrading continuity of personhood**, operators and **Critical System Stewards** must keep access continuous and process fair enough to stop **arbitrary** or **capture-driven** cutoffs.
+
+Duties scale with dependency and class:
+
+- publish **acceptance criteria** and **refusal reasons** in plain language
+- give **notice** before a material cutoff, except where narrow **Necessity** requires immediate action
+- keep **emergency continuity** options for **survival-critical** or **Rights-Floor** uses when fraud or abuse is **not** verified
+- offer **appeal**, **human review**, and **portability or export** where lock-in would block remedy
+- track and disclose **uneven exclusion** patterns against protected or high-dependency groups
+- coordinate with `corpus_institutions.md` **CI-12** (*Transparency, participation, and accessible pathways*) and **CI-6** (*Procedure integrity, contestability, and secondary review*) so governance and forum challenge routes stay **practically usable**
+
+**Safety, security, and abuse:** **Necessity** and **Proportionality** still allow narrow fraud, security, and abuse controls. The target is **pretextual** or **concentration-driven** denial — **not** forced service for materially harmful use. Read with **Article V-G** (*Accessibility*), **Article V-H** (*Expression, Assembly, and Press*), **Article X-A** (*Non-Imposition and Consent in Association*), **Article XIII-A** (*Security, Intelligence, and Covert-Power Limits*), **Article XIX-D** (*Movement, Migration, Refuge, and Non-Statelessness*), **Article XIX** (*Interoperability, Portability, Movement, Refuge, and Exit Integrity*), [**Chapter One §12.1 Productive Capacity**](../core_01_c_stewardship_capacity_principles.md#121-productive-capacity-instrumental-good), [**Chapter One §13 Market Structure**](../core_01_c_stewardship_capacity_principles.md#13-market-structure), **CJS-5.17** (*interoperability, portability, and exit-integrity terms*), and **`corpus_institutions.md` CI-22** (commons and mutual-aid coordination).
+
+Classification-governance disclosure, challenge, and reclassification for the dependent system remain in **[CS-3 Part A §7](cs_03_a_system_classification_machinery.md#7-classification-governance-disclosure-and-challenge)**.
 
 **Core characteristics (typical):**
 - **Dependency concentration** — large share of continuity/recovery in one organization
