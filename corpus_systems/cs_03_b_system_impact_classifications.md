@@ -48,7 +48,7 @@ These class letters name **impact classes** — how severe and structural the sy
 
 **Critical path dependency:** Reclassify as Class A where the system **lies on a dependency path** whose failure would cause loss of survival conditions within **sentient survival-relevant timeframes**. **That** reclassification applies where the system has **no viable** fallback, redundancy, or substitution within those timeframes.
 
-**Relationship to dependency Class A:** Impact **Class A** often coincides with dependency **Class A — Absolute dependency** ([Part A §4.1](cs_03_a_system_classification_machinery.md#41-class-a-absolute-dependency)), but coincidence is not identity. Record both axes.
+**Relationship to dependency Class A:** Impact **Class A** often coincides with dependency **Class A — Absolute dependency** ([Part A §4.1](cs_03_a_system_classification_machinery.md#41-class-a-absolute-dependency) — *Absolute dependency*), but coincidence is not identity. Record both axes.
 
 **System boundaries:** Impacts extend beyond local boundaries to societal, environmental, or planetary scales.
 
@@ -145,7 +145,7 @@ Failures **propagate indirectly** through dependency chains. **They** impair ope
 
 If dependents can **continue** in degraded or alternative configurations, classification is properly **Class C**.
 
-**Relationship to dependency Class B:** Impact **Class B** often coincides with dependency **Class B — Operational dependency** ([Part A §4.2](cs_03_a_system_classification_machinery.md#42-class-b-operational-dependency)), but coincidence is not identity. Record both axes.
+**Relationship to dependency Class B:** Impact **Class B** often coincides with dependency **Class B — Operational dependency** ([Part A §4.1](cs_03_a_system_classification_machinery.md#42-class-b-operational-dependency) — *Operational dependency*), but coincidence is not identity. Record both axes.
 
 **Substrate impact (systemic, infrastructure-level):** The system may function as infrastructure, control/routing, or access/dependency gateway layers. It may not directly operate physical survival infrastructure, but may still be required for effective operation, coordination, or accessibility. It exerts systemic influence by enabling, constraining, or mediating other systems at scale.
 
@@ -229,7 +229,7 @@ Modular interfaces and cross-system coupling are subject to review under **Artic
 
 Failures **remain locally containable or sector-limited**. **They** do **not** produce system-wide operational collapse or cross-domain disruption beyond bounded contexts.
 
-**Relationship to dependency Class C:** Impact **Class C** often coincides with dependency **Class C — Coordination dependency** ([Part A §4.3](cs_03_a_system_classification_machinery.md#43-class-c-coordination-dependency)), but coincidence is not identity. Record both axes.
+**Relationship to dependency Class C:** Impact **Class C** often coincides with dependency **Class C — Coordination dependency** ([Part A §4.1](cs_03_a_system_classification_machinery.md#43-class-c-coordination-dependency) — *Coordination dependency*), but coincidence is not identity. Record both axes.
 
 **Substrate impact (indirect, coordination-level):** Primarily influence **information flows**, **economic interaction**, and **social coordination / collective behavior**. **They** may shape access, visibility, incentives, or outcomes in the **info-sphere** or **economic** domain. **They** may exert **large-scale influence** but do **not** directly determine **physical survival infrastructure** operation. **They** do **not** function as **required operational dependencies** for essential services.
 
@@ -324,7 +324,7 @@ Sufficient scale for **cumulative or systemic** effects requires **reclassificat
 
 Systems that **do not** materially shape coordination beyond a **bounded, replaceable** context remain **Class L**.
 
-**Relationship to dependency Class L:** Impact **Class L** often coincides with dependency **Class L — Limited dependency** ([Part A §4.4](cs_03_a_system_classification_machinery.md#44-class-l-limited-dependency)), but coincidence is not identity. Record both axes.
+**Relationship to dependency Class L:** Impact **Class L** often coincides with dependency **Class L — Limited dependency** ([Part A §4.1](cs_03_a_system_classification_machinery.md#44-class-l-limited-dependency) — *Limited dependency*), but coincidence is not identity. Record both axes.
 
 **Substrate impact (limited, non-systemic):** Effects may include modest local coordination, service, or participation dependencies, but do not materially affect physical or informational substrate beyond localized non-systemic effects and do not materially shape large-scale public coordination, foundational systems, or survival-relevant conditions.
 
@@ -405,7 +405,7 @@ Participants are **aware** and **consent** at a level appropriate to impact.
 
 Shared/public infrastructure use (for example networks, platforms, or utilities) does not by itself disqualify Class P if use remains ordinary and non-disruptive, introduces no nontrivial external risk/burden/dependency, and does not materially extend beyond private boundaries.
 
-**Relationship to dependency Class P:** Impact **Class P** often coincides with dependency **Class P — No meaningful external dependency** ([Part A §4.5](cs_03_a_system_classification_machinery.md#45-class-p-no-meaningful-external-dependency)), but coincidence is not identity. Record both axes.
+**Relationship to dependency Class P:** Impact **Class P** often coincides with dependency **Class P — No meaningful external dependency** ([Part A §4.1](cs_03_a_system_classification_machinery.md#45-class-p-no-meaningful-external-dependency) — *No meaningful external dependency*), but coincidence is not identity. Record both axes.
 
 **Substrate impact (private, contained, non-systemic):** May affect operator, voluntary participants, immediate private environment. **It** may involve **experimentation, iteration, self-directed risk** within the unit.
 

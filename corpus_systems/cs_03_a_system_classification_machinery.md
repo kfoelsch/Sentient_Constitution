@@ -19,7 +19,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: Integrative Materiality ([Materiality Determination](../core_05defs_oversight.md#materiality-determination)) (*Materiality gate for class scaling*); [Classification Record](../core_05defs_continuity.md#classification-record-constitutional); [Chapter Seven §2 System Class Evaluation](../core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation); [Protocol A — System Design, Testing, Verification, and Deployment](cs_protocol_a_system_design_testing_verification_deployment.md) (*recertification and regression testing*); [CS-1 — Operates in conjunction with](cs_01_scope_purpose_identifier_rules.md#operates-in-conjunction-with).
+- Read with: Integrative Materiality ([Materiality Determination](../core_05defs_oversight.md#materiality-determination)) (*Materiality gate for class scaling*); [Classification Record](../core_05defs_continuity.md#classification-record-constitutional); [Chapter Seven §2 System Class Evaluation](../core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation); [Chapter Seven Part B §16](../core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) (*reopening on system-class misalignment*); [Protocol A — System Design, Testing, Verification, and Deployment](cs_protocol_a_system_design_testing_verification_deployment.md) (*recertification and regression testing*); [CS-1 — Operates in conjunction with](cs_01_scope_purpose_identifier_rules.md#operates-in-conjunction-with).
 
 </details>
 
@@ -154,55 +154,70 @@ Use the **highest applicable** classification where credible risk touches **surv
 <a id="31-concentration-thresholds-and-mitigation-triggers"></a>
 **3.1. Concentration thresholds and mitigation triggers.**
 
-Include **concentration monitoring** tied to class-scaled obligations.
+Operators must maintain **concentration monitoring** tied to class-scaled obligations, including the following:
 
-For systems with **material external** impact (especially **Class A, B, and C**), operators must define and maintain **concentration indicators** (e.g. control-share persistence, dependency concentration, interface gatekeeping, allocation-influence concentration).
-
-**They must** define **trigger thresholds** for escalation, independent review, and mitigation intervention.
-
-**They must** define **mitigation playbooks** proportionate to severity. **Those** playbooks may include authority partitioning, interoperability/portability expansion, access non-discrimination controls, and structural separation where required.
-
-When triggers fire, **record and execute** a time-bound mitigation plan. Failure to define thresholds, disclose concentration status, or implement triggered mitigation is **classification-governance non-compliance** and may require **stricter** reclassification.
+- For systems with **material external** impact (especially **Class A, B, and C**), define and maintain **concentration indicators** (e.g. control-share persistence, dependency concentration, interface gatekeeping, allocation-influence concentration)
+- Define **trigger thresholds** for escalation, independent review, and mitigation intervention
+- Define **mitigation playbooks** proportionate to severity, which may include:
+  - authority partitioning
+  - interoperability/portability expansion
+  - access non-discrimination controls
+  - structural separation where required
+- When triggers fire, **record and execute** a time-bound mitigation plan
+- Failure to define thresholds, disclose concentration status, or implement triggered mitigation is **classification-governance non-compliance** and may require **stricter** reclassification
 
 <a id="32-operational-criticality-threshold"></a>
 **3.2. Operational criticality threshold.**
 
-**Critical** vs **non-critical** depends on **time sensitivity** of harm and **viable substitutes under stress**.
+**Critical** vs **non-critical** depends on **time sensitivity** of harm and **viable substitutes under stress**:
 
-A system is **operationally critical** where loss or degradation would, within **relevant operational timeframes**, cause **material harm** that **cannot** be prevented through available, timely, effective **substitution**.
-
-Where substitution is feasible but **constrained, delayed, or degraded**, classification must reflect the **highest** dependency and risk present under those conditions.
+- A system is **operationally critical** where loss or degradation would, within **relevant operational timeframes**, cause **material harm** that **cannot** be prevented through available, timely, effective **substitution**
+- Where substitution is feasible but **constrained, delayed, or degraded**, classification must reflect the **highest** dependency and risk present under those conditions
 
 <a id="33-temporal-and-systemic-effects"></a>
 **3.3. Temporal and systemic effects.**
 
-Assessments must include **delayed, cumulative, and probabilistic** effects where they materially alter classification or risk. Where systems exhibit **threshold, tipping-point, or phase-transition** behavior, classification must reflect **post-threshold** conditions when they materially increase harm, systemic instability, or irreversibility.
+Assessments must account for the following where they materially alter classification or risk:
+
+- **delayed, cumulative, and probabilistic** effects
+- **threshold, tipping-point, or phase-transition** behavior, with classification reflecting **post-threshold** conditions when they materially increase harm, systemic instability, or irreversibility
 
 <a id="34-adversarial-and-strategic-dynamics"></a>
 **3.4. Adversarial and strategic dynamics.**
 
-Risk assessment must include **adversarial use**, **strategic exploitation**, and **coordinated misuse** where they materially alter impact, dependency, or risk.
+Risk assessment must include the following where they materially alter impact, dependency, or risk:
+
+- **adversarial use**
+- **strategic exploitation**
+- **coordinated misuse**
 
 <a id="35-reclassification-requirement"></a>
 **3.5. Reclassification requirement.**
 
-Systems must undergo **continuous or regularly scheduled** evaluation sufficient to detect material changes within timeframes appropriate to class and risk profile. Whole-system evaluation under **Chapter Seven §3** is **mandatory at full depth** for **Class A**, **Class B**, and **Class C**; **mandatory but proportionate** for **Class L** (including lower default periodic cadence and simplified records where permitted); and **encouraged** for **Class P** while validly **Class P**. For a system claimed to remain **Class P**, that evaluation becomes mandatory upon reclassification to **Class L** or higher, or where the operator voluntarily asserts constitutional compliance for the system.
+Systems must undergo **continuous or regularly scheduled** evaluation sufficient to detect material changes within timeframes appropriate to class and risk profile. Whole-system evaluation under **[Chapter Seven §3](../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)** is:
 
-**System classification** must be **reassessed** whenever material changes alter impact, dependency, or risk. Reclassification must reflect the **highest applicable** classification under updated conditions.
+- **mandatory at full depth** for **Class A**, **Class B**, and **Class C**
+- **mandatory but proportionate** for **Class L** (including lower default periodic cadence and simplified records where permitted)
+- **encouraged** for **Class P** while validly **Class P**
 
-**Do** **not** retain a prior classification where underlying conditions no longer support it.
+For a system claimed to remain **Class P**, that evaluation becomes mandatory upon reclassification to **Class L** or higher, or where the operator voluntarily asserts constitutional compliance for the system.
 
-**Reassess** where **scale, reach, or adoption** materially increases.
+**System classification** must be **reassessed** whenever material changes alter impact, dependency, or risk. Reclassification must reflect the **highest applicable** classification under updated conditions, including the following:
 
-**Reassess** where **dependency** strengthens, expands, or becomes less substitutable.
+- **Do** **not** retain a prior classification where underlying conditions no longer support it
+- **Reassess** where **scale, reach, or adoption** materially increases
+- **Reassess** where **dependency** strengthens, expands, or becomes less substitutable
+- **Reassess** where **new couplings** introduce emergent or cross-domain effects
+- **Reassess** where **adversarial** dynamics, misuse potential, or threat exposure changes materially
+- **Reassess** where **resilience, redundancy, or fallback** is degraded or removed
+- **Reassess** where **failure modes** (including delayed or cascading effects) are newly identified or materially revised
 
-**Reassess** where **new couplings** introduce emergent or cross-domain effects.
+Classification reassessment under this subsection must be:
 
-**Reassess** where **adversarial** dynamics, misuse potential, or threat exposure changes materially.
+- **verified** on each materially impactful [System Alignment Certification](../core_05defs_continuity.md#system-alignment-certification-constitutional) or revalidation cycle under **[Chapter Seven §2](../core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation)** (*System Class Evaluation*) and recorded under **[Chapter Seven Part B §11.1](../core_07_b_system_alignment_certification_record_process.md#111-minimum-record-contents)**
+- **reopened** under **[Chapter Seven Part B §16](../core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion)** where a material reassess trigger fires, or where a prior class is retained after underlying conditions no longer support it
 
-**Reassess** where **resilience, redundancy, or fallback** is degraded or removed.
-
-**Reassess** where **failure modes** (including delayed or cascading effects) are newly identified or materially revised.
+Governance timing for acting on these triggers — including prompt reclassification, pre-deployment reassessment where feasible, and failure-to-reclassify non-compliance — is in [§7.5](#75-reclassification-and-continuous-update).
 
 <a id="4-dependency-types-class-ap"></a>
 ### 4. Dependency types (Class A–P)
@@ -211,46 +226,31 @@ Systems must undergo **continuous or regularly scheduled** evaluation sufficient
 
 **Dual-axis rule:** **Class A–P** letters label **two distinct axes** under CS-3. This section owns **dependency types** (reliance categories). **[Part B §8](cs_03_b_system_impact_classifications.md#8-system-impact-classifications)** owns **impact classes** (Survival-critical through Personal/private). A [Classification Record](../core_05defs_continuity.md#classification-record-constitutional) must state **both** the applicable **dependency type(s)** and the **impact class**. Matching letters **correlate often** but **do not** collapse the axes into one finding.
 
-**Dependency, interaction, and boundary classification overview:** System classification reflects combined impact, dependency, and risk. **Dependency classification** describes structure and strength of reliance.
+**Dependency, interaction, and boundary classification overview:** System classification reflects combined impact, dependency, and risk. **Dependency classification** describes structure and strength of reliance, and must account for the following when they materially alter reliance:
 
-Where interaction produces **emergent** effects that materially alter conditions, reflect **combined** effects. **Highest applicable** classification governs.
+- dependency **chains**
+- **interaction** and **emergent** effects (reflect **combined** effects; **highest applicable** classification governs)
+- **aggregation**
+- **substitutability**
+- **adversarial** dynamics, including **intentional manipulation**, **coordinated attack**, and **strategic degradation** when they materially alter behavior or risk
 
-Dependency classification must account for chains, interaction, aggregation, substitutability, and adversarial dynamics when they materially alter reliance.
+All system classifications must:
 
-All system classifications must **explicitly identify** applicable **dependency type(s)** and align with the **highest level** present under **normal, degraded, and adversarial** conditions.
-
-Include **intentional manipulation**, **coordinated attack**, and **strategic degradation** when they materially alter behavior or risk.
+- **explicitly identify** applicable **dependency type(s)**
+- align with the **highest level** present under **normal, degraded, and adversarial** conditions
 
 **Resilience** requirements scale with classification so systems maintain acceptable function under stress, degradation, and partial failure proportional to impact and dependency.
 
-**Dependency types** (standardized reliance categories):
+<a id="41-dependency-types-standardized"></a>
+**4.1. Dependency types (standardized reliance categories).**
 
-<a id="41-class-a-absolute-dependency"></a>
-**4.1. Class A — Absolute dependency.**
+Standardized reliance categories:
 
-No viable fallback, redundancy, or substitution within **survival-relevant** timeframes.
-
-Loss of continuity yields immediate or near-immediate loss of survival conditions.
-
-<a id="42-class-b-operational-dependency"></a>
-**4.2. Class B — Operational dependency.**
-
-Required for **normal** functioning of dependents, but fallback/redundancy/substitution exists within survival-relevant timeframes.
-
-<a id="43-class-c-coordination-dependency"></a>
-**4.3. Class C — Coordination dependency.**
-
-Materially shapes coordination, interaction, or outcomes across participants or systems, but **not** required for core functional operation.
-
-<a id="44-class-l-limited-dependency"></a>
-**4.4. Class L — Limited dependency.**
-
-Bounded contexts; replaceable within reasonable time and effort without systemic impact.
-
-<a id="45-class-p-no-meaningful-external-dependency"></a>
-**4.5. Class P — No meaningful external dependency.**
-
-Contained within a private unit or among voluntary participants; no reliance beyond that boundary.
+- <a id="41-class-a-absolute-dependency"></a>**Class A — Absolute dependency** — no viable fallback, redundancy, or substitution within **survival-relevant** timeframes; loss of continuity yields immediate or near-immediate loss of survival conditions
+- <a id="42-class-b-operational-dependency"></a>**Class B — Operational dependency** — required for **normal** functioning of dependents; fallback, redundancy, or substitution exists within survival-relevant timeframes
+- <a id="43-class-c-coordination-dependency"></a>**Class C — Coordination dependency** — materially shapes coordination, interaction, or outcomes across participants or systems, but is **not** required for core functional operation
+- <a id="44-class-l-limited-dependency"></a>**Class L — Limited dependency** — confined to **bounded** contexts; replaceable within reasonable time and effort without systemic impact
+- <a id="45-class-p-no-meaningful-external-dependency"></a>**Class P — No meaningful external dependency** — contained within a private unit or among voluntary participants; no reliance beyond that boundary
 
 <a id="5-boundaries-timeframes-and-resilience"></a>
 ### 5. Boundaries, timeframes, and resilience
@@ -390,21 +390,12 @@ Affected stakeholders must be able to **challenge** classification, **present ev
 <a id="75-reclassification-and-continuous-update"></a>
 **7.5. Reclassification and continuous update.**
 
-**Reclassify when** **impact scope** changes.
+Material reassess triggers and class-scaled evaluation depth live in [§3.5](#35-reclassification-requirement). This subsection owns **governance timing** for acting on those triggers:
 
-**Reclassify when** **dependency** increases or decreases.
-
-**Reclassify when** **new failure modes or risks** emerge.
-
-**Reclassify when** **functionality, scale, or integration** materially evolves.
-
-**Timing:** **Before** deployment of materially expanded capabilities **where feasible**.
-
-**Reclassify** **promptly** upon recognition of changed conditions.
-
-**Reclassify** as part of **periodic review**.
-
-**Failure to reclassify** in response to material changes **violates** this constitution.
+- **Reclassify** **before** deployment of materially expanded capabilities **where feasible**
+- **Reclassify** **promptly** upon recognition of changed conditions
+- **Reclassify** as part of **periodic review**, including each materially impactful system alignment certification or revalidation cycle under **[Chapter Seven §2](../core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation)**
+- **Failure to reclassify** in response to material changes **violates** this constitution and is a certification defect under [§3.5](#35-reclassification-requirement) and **[Chapter Seven Part B §16](../core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion)**
 
 <a id="76-misclassification-and-evasion"></a>
 **7.6. Misclassification and evasion.**
