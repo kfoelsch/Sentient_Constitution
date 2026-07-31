@@ -21,11 +21,30 @@
 <a id="8-system-impact-classifications"></a>
 ### 8. System impact classifications
 
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Topic routing (mandatory read-with): [Part A §2](cs_03_a_system_classification_machinery.md#2-classification-dimensions-and-real-world-application) (*Classification dimensions and real-world application* — Chapter Five owns meanings; CS-3 applies them).
+- Topic routing (mandatory read-with): [Part A §4](cs_03_a_system_classification_machinery.md#4-dependency-types-class-ap) (*Dependency types* — dual axis with this section).
+- Read with: [Material Impact](../core_05defs_oversight.md#material-impact); [Materiality Determination](../core_05defs_oversight.md#materiality-determination); [Classification-Scaled Governance](../core_05defs_oversight.md#classification-scaled-governance).
+- Read with: [Dependency](../core_05defs_continuity.md#dependency); [Risk](../core_05defs_continuity.md#risk); [Cascading Failure](../core_05defs_continuity.md#cascading-failure); [Existential Risk](../core_05defs_continuity.md#existential-risk).
+- Read with: [Systemic](../core_05defs_continuity.md#systemic); [Systemic Materiality](../core_05defs_continuity.md#systemic-materiality); [System Classification Record](../core_05defs_continuity.md#system-classification-record-constitutional).
+- Read with: [Chapter Eleven §6](../core_11-11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*forum materiality tiers A/B/C/L/P — alphabet mirror only*).
+
+</details>
+
+<br>
+
 *In plain terms: the Class letters here name impact classes, not a second copy of the dependency types in Part A. Record both axes. When more than one impact class could fit, the highest applicable class governs.*
 
 These class letters name **impact classes** — how severe and structural the system's effects are — and group shared scaled duties. Letter order in this catalog is for reading clarity; **highest applicable** classification governs under [Part A §2.2](cs_03_a_system_classification_machinery.md#22-real-world-application).
 
+Impact-class findings apply Chapter Five meanings of [Material Impact](../core_05defs_oversight.md#material-impact), [Dependency](../core_05defs_continuity.md#dependency), and [Risk](../core_05defs_continuity.md#risk) (including [Cascading Failure](../core_05defs_continuity.md#cascading-failure) and [Existential Risk](../core_05defs_continuity.md#existential-risk) where implicated). [Materiality Determination](../core_05defs_oversight.md#materiality-determination) and [Classification-Scaled Governance](../core_05defs_oversight.md#classification-scaled-governance) scale duty intensity; **Chapter Five** owns those meanings corpus-wide, and **CS-3** owns how classification uses them.
+
 **Dual-axis rule:** The same **Class A–P** letters also label **dependency types** in [Part A §4](cs_03_a_system_classification_machinery.md#4-dependency-types-class-ap) (Absolute / Operational / Coordination / Limited / No meaningful external dependency). Matching letters **correlate often** but **do not** mean the axes are the same finding. A [System Classification Record](../core_05defs_continuity.md#system-classification-record-constitutional) must state **both** the **impact class** (this section) and the applicable **dependency type(s)** ([Part A §4](cs_03_a_system_classification_machinery.md#4-dependency-types-class-ap)).
+
+<a id="cs-local-systemic-classification-language"></a>
+**CS-local “systemic” (classification posture):** In this Part B catalog, **“systemic”** denotes capacity for cross-domain [Cascading Failure](../core_05defs_continuity.md#cascading-failure) across dependents — not merely large-scale or widespread impact. That posture language is **distinct from** Continuity [Systemic](../core_05defs_continuity.md#systemic) and [Systemic Materiality](../core_05defs_continuity.md#systemic-materiality) (interaction and amplification meanings), and **distinct from** Chapter Eleven **Tier A/B/C/L/P** dispute clocks ([§6](../core_11-11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)), which mirror the alphabet only.
 
 <a id="class-a-survival-critical-foundational-and-irreplaceable-systems"></a>
 #### 8.1 Class A: Survival-critical, foundational, and irreplaceable systems
@@ -44,7 +63,7 @@ These class letters name **impact classes** — how severe and structural the sy
 
 **It includes** systems that **produce irreversible** loss of survival conditions or critical system integrity within relevant timeframes.
 
-**It includes** systems that **present credible existential risk**, including low-probability, high-impact scenarios with irreversible consequences, regardless of baseline characteristics.
+**It includes** systems that **present credible** [Existential Risk](../core_05defs_continuity.md#existential-risk), including low-probability, high-impact scenarios with irreversible consequences, regardless of baseline characteristics.
 
 **Critical path dependency:** Reclassify as Class A where the system **lies on a dependency path** whose failure would cause loss of survival conditions within **sentient survival-relevant timeframes**. **That** reclassification applies where the system has **no viable** fallback, redundancy, or substitution within those timeframes.
 
@@ -54,7 +73,7 @@ These class letters name **impact classes** — how severe and structural the sy
 
 Systems form part of the **foundational substrate** of survival and continuity.
 
-Failures produce immediate and severe harm to sentients. They include immediate or near-immediate loss of survival conditions propagating across dependent systems without viable containment. They cannot be meaningfully contained within boundaries and may spread rapidly across dependents and populations.
+Failures produce immediate and severe harm to sentients. They include immediate or near-immediate loss of survival conditions propagating across dependent systems without viable containment. They cannot be meaningfully contained within boundaries and may spread rapidly across dependents and populations as [Cascading Failure](../core_05defs_continuity.md#cascading-failure).
 
 Dependencies create absolute or near-absolute reliance where viable alternatives do not exist or cannot be activated within relevant timeframes.
 
@@ -82,6 +101,8 @@ Operators have minimal discretion, limited strictly to preserving survival, safe
 - Topic routing (mandatory read-with): [Part A §5](cs_03_a_system_classification_machinery.md#5-boundaries-timeframes-and-resilience) (*Boundaries, timeframes, and resilience*).
 - Topic routing (mandatory read-with): [Part A §7](cs_03_a_system_classification_machinery.md#7-classification-governance-disclosure-and-challenge) (*Classification governance, disclosure, and challenge*).
 - Read with: [Protocol B](cs_protocol_b_system_comprehensibility_complexity_stewardship.md); **Article XX** (*Comprehensibility and Complexity Stewardship*); **CJS-5.8**–**CJS-5.10**, **CJS-5.16**, **CJS-5.19**, **CJS-5.21**.
+- Read with: [CS-4 — Integrated risk governance (Class A/B)](cs_04_critical_system_stewardship.md#integrated-risk-governance); **CJS-5.15** (*material classification-record honesty*).
+- Read with: [Existential Risk](../core_05defs_continuity.md#existential-risk); [Cascading Failure](../core_05defs_continuity.md#cascading-failure); [§8 CS-local “systemic”](#cs-local-systemic-classification-language).
 
 </details>
 
@@ -97,13 +118,13 @@ Operators have minimal discretion, limited strictly to preserving survival, safe
 
 **Auditability.** Continuous, high-fidelity, and independently verifiable, including real-time monitoring, forensic analysis, and systemic risk detection (including cross-domain propagation and multi-system dependency impact).
 
-**Intervention capability.** Immediate, reliable, fail-safe mechanisms. Pathways must remain functional under degraded or adversarial conditions. Authorized stakeholders must be able to halt, isolate, or reconfigure behavior in real time and coordinate across interconnected critical systems. Clear priority, arbitration, or override hierarchies are required for conflicting interventions.
+**Intervention capability.** Immediate, reliable, fail-safe mechanisms. Intervention mechanisms must remain functional under degraded or adversarial conditions. Authorized stakeholders must be able to halt, isolate, or reconfigure behavior in real time and coordinate across interconnected critical systems. Clear priority, arbitration, or override hierarchies are required for conflicting interventions.
 
-**Failure integrity.** Failure modes must be explicitly modeled, minimized, and continuously tested; defaults must be fail-safe or survival-preserving. Uncontrolled or unbounded cascading failure is unacceptable.
+**Failure integrity.** Failure modes must be explicitly modeled, minimized, and continuously tested; defaults must be fail-safe or survival-preserving. Uncontrolled or unbounded [Cascading Failure](../core_05defs_continuity.md#cascading-failure) is unacceptable.
 
 **Resilience and continuity.** Continuous operation within survival-relevant tolerances. Include redundancy, geographic and systemic distribution, fallback/recovery for essential function, and contingency for degraded performance. Support controlled, observable, survival-preserving degradation under partial failure. Treat prolonged disruption as a critical emergency.
 
-**Governance.** Formal, multi-layered, and capture-resistant. Use constrained-scope authority, independent oversight and audit, emergency protocols, and accountability in normal and crisis conditions. Test structures against failure, capture, and adversarial manipulation.
+**Governance.** Formal, multi-layered, and capture-resistant. Use constrained-scope authority, independent oversight and audit, emergency protocols, and accountability in normal and crisis conditions. Test structures against failure, capture, and adversarial manipulation. Organizational and steward intensity for Class A continues under [CS-4 — Critical system stewardship](cs_04_critical_system_stewardship.md) (**CSS-A**; [Integrated risk governance (Class A/B)](cs_04_critical_system_stewardship.md#integrated-risk-governance)).
 
 **Comprehensibility and complexity stewardship** (**Protocol B** / **Article XX** (*Comprehensibility and Complexity Stewardship*); **CJS-5.8** (*comprehensibility and cognitive accessibility terms*) through **CJS-5.10** (*disclosure sufficiency and observability terms*), **CJS-5.16** (*dependency integrity and disclosure terms*), **CJS-5.19** (*graceful degradation and failure-mode integrity terms*), and **CJS-5.21** (*adversarial robustness and abuse-resistance terms*)) — **maximum:**
 - structure, dependencies, failure modes, degraded behavior, and adversarial stress paths remain intelligible to qualified operators and independent overseers
@@ -119,9 +140,7 @@ Operators have minimal discretion, limited strictly to preserving survival, safe
 
 *In plain terms: dependents cannot keep core function without this system, but survival is not immediately lost if it fails and substitution remains possible within survival-relevant time — still strict, continuously validated duties.*
 
-For classification purposes, **"systemic"** denotes capacity for cross-domain [Cascading Failure](../core_05defs_continuity.md#cascading-failure) across dependents, not merely large-scale or widespread impact.
-
-This quoted meaning of **"systemic"** is **CS-local** classification language for **CS-3 — System classification and handling** and is not a standalone **CJS Tier 1** abstraction.
+For classification purposes, **"systemic"** in this Class B catalog uses the [§8 CS-local “systemic”](#cs-local-systemic-classification-language) posture (cross-domain [Cascading Failure](../core_05defs_continuity.md#cascading-failure) capacity across dependents), not Continuity [Systemic](../core_05defs_continuity.md#systemic) / [Systemic Materiality](../core_05defs_continuity.md#systemic-materiality) alone and not Chapter Eleven forum tiers.
 
 **Eligibility:** A system is Class B if it is **operationally required** for **normal** functioning of dependent systems.
 
@@ -153,7 +172,7 @@ If dependents can **continue** in degraded or alternative configurations, classi
 
 Systems may act as infrastructure or dependencies for others, including control/routing/access layers that mediate system-user interaction. They may also act as intermediaries that enable or constrain dependent-system functioning, coordination, or accessibility.
 
-Failures cause system-wide operational degradation across dependents (even if survival is not immediately threatened). They impair operation, coordination, or accessibility; degrade, delay, or constrain access to essential or systemically important functions; and may cascade across dependents while still being containable or recoverable within survival-relevant timeframes.
+Failures cause system-wide operational degradation across dependents (even if survival is not immediately threatened). They impair operation, coordination, or accessibility; degrade, delay, or constrain access to essential or systemically important functions; and may produce [Cascading Failure](../core_05defs_continuity.md#cascading-failure) across dependents while still being containable or recoverable within survival-relevant timeframes.
 
 If unmitigated or combined with other failures, they may escalate toward survival-critical impact.
 
@@ -183,6 +202,8 @@ Failure propagates through dependency chains, not only participant disruption, a
 - Topic routing (mandatory read-with): [Part A §5](cs_03_a_system_classification_machinery.md#5-boundaries-timeframes-and-resilience) (*Boundaries, timeframes, and resilience*).
 - Topic routing (mandatory read-with): [Part A §7](cs_03_a_system_classification_machinery.md#7-classification-governance-disclosure-and-challenge) (*Classification governance, disclosure, and challenge*).
 - Read with: [Protocol B](cs_protocol_b_system_comprehensibility_complexity_stewardship.md); **Article XX** (*Comprehensibility and Complexity Stewardship*); **CJS-5.8**–**CJS-5.10**, **CJS-5.16**, **CJS-5.19**, **CJS-5.21**.
+- Read with: [CS-4 — Integrated risk governance (Class A/B)](cs_04_critical_system_stewardship.md#integrated-risk-governance); **CJS-5.15** (*material classification-record honesty*).
+- Read with: [Cascading Failure](../core_05defs_continuity.md#cascading-failure); [§8 CS-local “systemic”](#cs-local-systemic-classification-language).
 
 </details>
 
@@ -200,11 +221,11 @@ Failure propagates through dependency chains, not only participant disruption, a
 
 **Intervention capability.** Rapid, reliable, multi-layered mechanisms that halt, constrain, or modify behavior; coordinate across dependents; and respond within timeframes aligned to reasonably foreseeable systemic harm.
 
-**Failure integrity.** Explicitly modeled and disclosed, fail-safe or fail-contained where possible, and designed to prevent uncontrolled or unbounded systemic disruption.
+**Failure integrity.** Explicitly modeled and disclosed, fail-safe or fail-contained where possible, and designed to prevent uncontrolled or unbounded [Cascading Failure](../core_05defs_continuity.md#cascading-failure) or systemic disruption.
 
 **Resilience and continuity.** High-assurance continuity with redundancy, fallback modes, and cross-system recovery. Treat prolonged disruption as a systemic risk event.
 
-**Governance.** Formal, structured, and enforceable, with clear authority/accountability, independent oversight or audit where appropriate, stakeholder representation/challenge, and safeguards against concentration of power or systemic capture.
+**Governance.** Formal, structured, and enforceable, with clear authority/accountability, independent oversight or audit where appropriate, stakeholder representation/challenge, and safeguards against concentration of power or systemic capture. Organizational and steward intensity for Class B continues under [CS-4 — Critical system stewardship](cs_04_critical_system_stewardship.md) (**CSS-B**; [Integrated risk governance (Class A/B)](cs_04_critical_system_stewardship.md#integrated-risk-governance)).
 
 **Comprehensibility and complexity stewardship** (**Protocol B** / **Article XX** (*Comprehensibility and Complexity Stewardship*), **CJS-5.8** (*comprehensibility and cognitive accessibility terms*) through **CJS-5.10** (*disclosure sufficiency and observability terms*), **CJS-5.16** (*dependency integrity and disclosure terms*), **CJS-5.19** (*graceful degradation and failure-mode integrity terms*), and **CJS-5.21** (*adversarial robustness and abuse-resistance terms*)) — **strict / high-assurance:** layered explanations for dependent-system operators, stakeholders, and formal oversight; periodic independent complexity audits are required.
 
@@ -221,7 +242,7 @@ Modular interfaces and cross-system coupling are subject to review under **Artic
 
 *In plain terms: the system shapes coordination at scale but is not an operational prerequisite for Class A/B function — still fully enforceable duties, proportional to impact and dependency.*
 
-**Minimum threshold:** A system is at least Class C if it materially shapes coordination outcomes across populations or institutions, regardless of geographic scale. That includes cases where distributed or coordinated use produces systemic risk.
+**Minimum threshold:** A system is at least Class C if it materially shapes coordination outcomes across populations or institutions, regardless of geographic scale. That includes cases where distributed or coordinated use produces systemic [Risk](../core_05defs_continuity.md#risk) under the [§8 CS-local “systemic”](#cs-local-systemic-classification-language) posture.
 
 **Characteristics:** Class C systems **influence** coordination, interaction, or outcomes at scale. They are **not** an **operational dependency** required for **Class A or Class B** functioning. They serve as a **coordination or interaction layer** among participants.
 
@@ -243,7 +264,7 @@ Dependents (including critical infrastructure and essential services) can contin
 
 Class C systems may materially affect **economic coordination**, **info-sphere** flows, and **institutional or organizational behavior**. They do not materially control critical infrastructure or essential survival services for immediate sentient wellbeing or societal continuity.
 
-Impacts may be **significant or widespread**, but Class C does **not** produce **cross-domain cascading failure** or **systemic dependency collapse**.
+Impacts may be **significant or widespread**, but Class C does **not** produce cross-domain [Cascading Failure](../core_05defs_continuity.md#cascading-failure) or **systemic dependency collapse** (see [§8 CS-local “systemic”](#cs-local-systemic-classification-language)).
 
 **Operational interpretation:** Large-scale coordination and meaningful dependency in an influential ecosystem layer.
 
@@ -253,7 +274,7 @@ Failures can disrupt significantly but stay **non-critical** to **immediate surv
 
 **Evolution and reclassification (out of Class C):** Reclassify when any of the following applies:
 - **Critical, systemic, or irreplaceable** dependency where loss or disruption would **materially impair** essential services or societal continuity
-- **Systemic or cross-domain** effects beyond the coordination layer, including cascades into critical infrastructure or essential survival/stability services
+- **Systemic or cross-domain** effects beyond the coordination layer, including [Cascading Failure](../core_05defs_continuity.md#cascading-failure) into critical infrastructure or essential survival/stability services
 - **Direct control, operation, or tight coupling** with critical/essential systems, including **functionally equivalent** indirect control that leaves infrastructure unable to operate effectively **without** the system
 - Ability to **materially influence or determine** access to essential resources (e.g. food, water, healthcare, energy), **core governance** or societal decision-making, or **large-scale public coordination** that is not reasonably bypassable
 - **Scale, concentration, or integration** where exit is **not realistically feasible**, alternatives are **not meaningfully** available within reasonable timeframes, or dependency is **effectively non-optional**
@@ -268,6 +289,7 @@ Failures can disrupt significantly but stay **non-critical** to **immediate surv
 - Topic routing (mandatory read-with): [Part A §4](cs_03_a_system_classification_machinery.md#4-dependency-types-class-ap) (*Dependency types* — Coordination dependency often coincides).
 - Topic routing (mandatory read-with): [Part A §7](cs_03_a_system_classification_machinery.md#7-classification-governance-disclosure-and-challenge) (*Classification governance, disclosure, and challenge*).
 - Read with: [Protocol B](cs_protocol_b_system_comprehensibility_complexity_stewardship.md); **Article XX** (*Comprehensibility and Complexity Stewardship*); **CJS-5.5**, **CJS-5.8**–**CJS-5.10**, **CJS-5.16**, **CJS-5.19**, **CJS-5.21**.
+- Read with: **CJS-5.15** (*material classification-record honesty*); [§8 CS-local “systemic”](#cs-local-systemic-classification-language); [Cascading Failure](../core_05defs_continuity.md#cascading-failure).
 
 </details>
 
@@ -330,7 +352,7 @@ Systems that **do not** materially shape coordination beyond a **bounded, replac
 
 **System boundaries:** Effects extend beyond the operator but remain localized, bounded, and containable within limited social, organizational, or technical scope.
 
-Failures may affect multiple participants or dependents within local boundaries and may cause disruption, inconvenience, or bounded harm, but without systemic/cross-domain cascade. They must stay containable and non-systemic in propagation potential (dependents, shared infrastructure, and repeated interactions over time).
+Failures may affect multiple participants or dependents within local boundaries and may cause disruption, inconvenience, or bounded harm, but without systemic/cross-domain [Cascading Failure](../core_05defs_continuity.md#cascading-failure). They must stay containable and non-systemic in propagation potential (dependents, shared infrastructure, and repeated interactions over time) under the [§8 CS-local “systemic”](#cs-local-systemic-classification-language) posture.
 
 Dependencies may form among participants, users, and local organizations, but remain limited in scope, replaceable within reasonable time and effort, and not effectively non-optional for large populations or critical functions.
 
@@ -344,7 +366,7 @@ The system may influence local coordination, services, exchanges, or participati
 
 **Evolution and reclassification (out of Class L):** Reclassify when any of the following applies:
 - **Broad, durable, hard-to-replace** dependency across larger populations, organizations, or systems
-- **material systemic** effects including cascading or cross-domain failures
+- **material systemic** effects including [Cascading Failure](../core_05defs_continuity.md#cascading-failure) or cross-domain failures
 - the system **affects, gates, or integrates** with critical infrastructure, essential services, or foundational systems
 - it **materially influences** large-scale public coordination, governance processes, or access to essential resources
 - external effects are **no longer** localized, bounded, containable, or **proportionate** to Class L
@@ -359,6 +381,7 @@ The system may influence local coordination, services, exchanges, or participati
 - Topic routing (mandatory read-with): [Part A §4](cs_03_a_system_classification_machinery.md#4-dependency-types-class-ap) (*Dependency types* — Limited dependency often coincides).
 - Topic routing (mandatory read-with): [Part A §7](cs_03_a_system_classification_machinery.md#7-classification-governance-disclosure-and-challenge) (*Classification governance, disclosure, and challenge*).
 - Read with: [Protocol B](cs_protocol_b_system_comprehensibility_complexity_stewardship.md); **Article XX** (*Comprehensibility and Complexity Stewardship*); **CJS-5.8**–**CJS-5.10**, **CJS-5.16**, **CJS-5.19**, **CJS-5.21**.
+- Read with: [§8 CS-local “systemic”](#cs-local-systemic-classification-language); [Cascading Failure](../core_05defs_continuity.md#cascading-failure).
 
 </details>
 
@@ -464,6 +487,7 @@ Examples include behavior that **creates measurable** off-unit harm risk. **They
 - Topic routing (mandatory read-with): [Part A §4](cs_03_a_system_classification_machinery.md#4-dependency-types-class-ap) (*Dependency types* — No meaningful external dependency often coincides).
 - Topic routing (mandatory read-with): [Part A §7](cs_03_a_system_classification_machinery.md#7-classification-governance-disclosure-and-challenge) (*Classification governance, disclosure, and challenge*).
 - Read with: [Protocol B](cs_protocol_b_system_comprehensibility_complexity_stewardship.md); **Article XX** (*Comprehensibility and Complexity Stewardship*); **CJS-5.8**–**CJS-5.10**, **CJS-5.16**, **CJS-5.19**, **CJS-5.21**.
+- Read with: [§8 CS-local “systemic”](#cs-local-systemic-classification-language).
 
 </details>
 
