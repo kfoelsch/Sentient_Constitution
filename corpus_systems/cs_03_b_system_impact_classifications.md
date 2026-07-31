@@ -82,7 +82,7 @@ Impact-class findings apply Chapter Five meanings of [Material Impact](../core_0
 - the system has **no viable** fallback, redundancy, or substitution within those timeframes
 
 **Relationship to Dep-A:**
-- Impact **Class A** often coincides with **Dep-A — Absolute dependency** ([Part A §4.1](cs_03_a_system_classification_machinery.md#41-dep-a-absolute-dependency) — *Absolute dependency*)
+- Impact **Class A** often coincides with **Dep-A — Absolute dependency** ([Part A §4.1](cs_03_a_system_classification_machinery.md#41-dep-a-absolute-dependency))
 - coincidence is **not** identity — record both axes
 
 <a id="93-system-boundaries-and-failure-behavior"></a>
@@ -188,12 +188,7 @@ Impact-class findings apply Chapter Five meanings of [Material Impact](../core_0
 - Test structures against failure, capture, and adversarial manipulation
 - Organizational and steward intensity for Class A continues under [CS-4 — Critical system stewardship](cs_04_critical_system_stewardship.md) (**CSS-A**; [Integrated risk governance (Class A/B)](cs_04_critical_system_stewardship.md#integrated-risk-governance))
 
-**Comprehensibility and complexity stewardship** (**Protocol B** / **Article XX** (*Comprehensibility and Complexity Stewardship*); **CJS-5.8** (*comprehensibility and cognitive accessibility terms*) through **CJS-5.10** (*disclosure sufficiency and observability terms*), **CJS-5.16** (*dependency integrity and disclosure terms*), **CJS-5.19** (*graceful degradation and failure-mode integrity terms*), and **CJS-5.21** (*adversarial robustness and abuse-resistance terms*)) — **maximum:**
-- structure, dependencies, failure modes, degraded behavior, and adversarial stress paths remain intelligible to qualified operators and independent overseers
-- salience and presentation must **not** obscure survival-critical or systemic risk
-- **mandatory** periodic independent complexity audits
-- modular boundaries and coupling documented and reviewable
-- adversarial and strategic misuse reflected in drills, documentation, and audit scope
+**Comprehensibility and complexity stewardship** ([Protocol B](cs_protocol_b_system_comprehensibility_complexity_stewardship.md) / **Article XX** (*Comprehensibility and Complexity Stewardship*)) — **maximum.**
 
 <a id="class-b-critical-high-dependency-systemically-significant-systems"></a>
 <a id="10-class-b-critical-high-dependency-systemically-significant-systems"></a>
@@ -223,13 +218,7 @@ For classification purposes, **"systemic"** in this Class B catalog uses the [§
 - failures **propagate indirectly** through dependency chains and impair operation, coordination, or accessibility of other systems rather than producing immediate survival-critical outcomes at the point of failure
 
 <a id="102-escalation-boundary-and-dependency-axis"></a>
-#### 10.2 Escalation, Class C boundary, and dependency-axis relationship
-
-**Escalation to Class A:** Reclassify where any of the following applies:
-- dependency becomes **survival-critical**
-- fallback/substitution is **no longer viable** within survival-relevant timeframes
-- the system sits on a chain whose failure yields **survival-critical or Class A** conditions
-- **adversarial** use or coordinated exploitation **materially increases** impact, dependency, or risk
+#### 10.2 Class C boundary and dependency-axis relationship
 
 **Operational boundary with Class C:**
 - Classification is **Class B** (not **Class C**) where dependents cannot maintain core functionality without the system, even in degraded or less-efficient modes
@@ -237,8 +226,10 @@ For classification purposes, **"systemic"** in this Class B catalog uses the [§
 - If dependents can **continue** in degraded or alternative configurations, classification is properly **Class C**
 
 **Relationship to Dep-B:**
-- Impact **Class B** often coincides with **Dep-B — Operational dependency** ([Part A §4.1](cs_03_a_system_classification_machinery.md#42-dep-b-operational-dependency) — *Operational dependency*)
-- coincidence is **not** identity — record both axes
+- Class B asks how severe the system's effects are. **Dep-B — Operational dependency** ([Part A §4.1](cs_03_a_system_classification_machinery.md#42-dep-b-operational-dependency)) asks whether other systems need it for normal operation (with substitutes still available in time). The two often travel together, but they are different findings.
+- A shared “B” letter is not enough. Record **both** the impact class and the dependency type.
+
+**Escalation to Class A:** Apply [§10.5](#105-evolution-and-reclassification) (*Evolution and reclassification*).
 
 <a id="103-substrate-impact-and-system-boundaries"></a>
 #### 10.3 Substrate impact and system boundaries
@@ -287,11 +278,7 @@ For classification purposes, **"systemic"** in this Class B catalog uses the [§
 <a id="105-evolution-and-reclassification"></a>
 #### 10.5 Evolution and reclassification
 
-**Evolution and reclassification (out of Class B, typically toward Class A):** Reclassify when any of the following applies:
-- the system **directly controls or constitutes** critical infrastructure or essential survival systems where failure would cause **immediate and severe** harm at scale
-- the system **becomes indispensable**—disruption causes **immediate** loss of access to essential resources with **no meaningful** fallback, redundancy, or substitution within **sentient survival-relevant timeframes**
-- the system **generates effects** whose failure produces **immediate, widespread, severe** harm, **irreversible environmental damage**, or **collapse or sustained failure** of essential societal systems
-- the system **reaches integration** where it is **no longer meaningfully separable** from critical infrastructure and **operation is required** for survival-critical systems under normal or reasonably foreseeable conditions
+**Evolution and reclassification (out of Class B, typically toward Class A):** Apply [§9.5](#95-evolution-and-reclassification) (*Evolution and reclassification*) together with [§9.1](#91-eligibility)–[§9.2](#92-critical-path-and-dependency-axis). Adversarial and strategic dynamics that materially increase impact, dependency, or risk follow [Part A §3](cs_03_a_system_classification_machinery.md#3-criticality-concentration-temporal-and-adversarial-factors) (*Criticality, concentration, temporal, and adversarial factors*).
 
 <a id="106-scaled-duties"></a>
 #### 10.6 Scaled duties
@@ -350,12 +337,7 @@ For classification purposes, **"systemic"** in this Class B catalog uses the [§
 - Safeguards against concentration of power or systemic capture
 - Organizational and steward intensity for Class B continues under [CS-4 — Critical system stewardship](cs_04_critical_system_stewardship.md) (**CSS-B**; [Integrated risk governance (Class A/B)](cs_04_critical_system_stewardship.md#integrated-risk-governance))
 
-**Comprehensibility and complexity stewardship** (**Protocol B** / **Article XX** (*Comprehensibility and Complexity Stewardship*), **CJS-5.8** (*comprehensibility and cognitive accessibility terms*) through **CJS-5.10** (*disclosure sufficiency and observability terms*), **CJS-5.16** (*dependency integrity and disclosure terms*), **CJS-5.19** (*graceful degradation and failure-mode integrity terms*), and **CJS-5.21** (*adversarial robustness and abuse-resistance terms*)) — **strict / high-assurance:**
-- layered explanations for dependent-system operators, stakeholders, and formal oversight
-- periodic independent complexity audits are required
-- dependency chains and failure modes must be understandable under normal and degraded conditions
-- salience must **not** bury systemic or cascading risk
-- modular interfaces and cross-system coupling are subject to review under **Article XV-A** (*Auditability and Observable Evidence*)
+**Comprehensibility and complexity stewardship** ([Protocol B](cs_protocol_b_system_comprehensibility_complexity_stewardship.md) / **Article XX** (*Comprehensibility and Complexity Stewardship*)) — **strict / high-assurance.**
 
 <a id="class-c-coordinated-high-dependency-non-critical-systems"></a>
 <a id="11-class-c-coordinated-high-dependency-non-critical-systems"></a>
@@ -387,8 +369,8 @@ For classification purposes, **"systemic"** in this Class B catalog uses the [§
 #### 11.2 Dependency-axis relationship and substrate impact
 
 **Relationship to Dep-C:**
-- Impact **Class C** often coincides with **Dep-C — Coordination dependency** ([Part A §4.1](cs_03_a_system_classification_machinery.md#43-dep-c-coordination-dependency) — *Coordination dependency*)
-- coincidence is **not** identity — record both axes
+- Class C asks how severe the system's effects are — here, large-scale coordination influence without being an operational prerequisite for Class A/B function. **Dep-C — Coordination dependency** ([Part A §4.1](cs_03_a_system_classification_machinery.md#43-dep-c-coordination-dependency)) asks whether other systems or participants rely on it to coordinate or interact, even though they can still operate without it. The two often travel together, but they are different findings.
+- A shared “C” letter is not enough. Record **both** the impact class and the dependency type.
 
 **Substrate impact (indirect, coordination-level):**
 - primarily influence **information flows**, **economic interaction**, and **social coordination / collective behavior**
@@ -439,13 +421,7 @@ For classification purposes, **"systemic"** in this Class B catalog uses the [§
 <a id="115-evolution-and-reclassification"></a>
 #### 11.5 Evolution and reclassification
 
-**Evolution and reclassification (out of Class C):** Reclassify when any of the following applies:
-- **Critical, systemic, or irreplaceable** dependency where loss or disruption would **materially impair** essential services or societal continuity
-- **Systemic or cross-domain** effects beyond the coordination layer, including [Cascading Failure](../core_05defs_continuity.md#cascading-failure) into critical infrastructure or essential survival/stability services
-- **Direct control, operation, or tight coupling** with critical/essential systems, including **functionally equivalent** indirect control that leaves infrastructure unable to operate effectively **without** the system
-- Ability to **materially influence or determine** access to essential resources (e.g. food, water, healthcare, energy), **core governance** or societal decision-making, or **large-scale public coordination** that is not reasonably bypassable
-- **Scale, concentration, or integration** where exit is **not realistically feasible**, alternatives are **not meaningfully** available within reasonable timeframes, or dependency is **effectively non-optional**
-- External effects whose failure would produce **immediate, large-scale, or irreversible** harm
+**Evolution and reclassification (out of Class C):** When dependents can no longer maintain core function without the system, apply Class B [§10.1](#101-eligibility-and-typical-patterns)–[§10.2](#102-escalation-boundary-and-dependency-axis). When survival-critical conditions are met, apply [§9.5](#95-evolution-and-reclassification) together with [§9.1](#91-eligibility)–[§9.2](#92-critical-path-and-dependency-axis). Adversarial and strategic dynamics follow [Part A §3](cs_03_a_system_classification_machinery.md#3-criticality-concentration-temporal-and-adversarial-factors) (*Criticality, concentration, temporal, and adversarial factors*).
 
 <a id="116-scaled-duties"></a>
 #### 11.6 Scaled duties
@@ -500,11 +476,8 @@ For classification purposes, **"systemic"** in this Class B catalog uses the [§
 - Stakeholder feedback and challenge/dispute resolution
 - Safeguards against capture, hidden control, and unilateral decisions that materially affect participants
 
-**Comprehensibility and complexity stewardship** (**Protocol B** / **Article XX** (*Comprehensibility and Complexity Stewardship*), **CJS-5.8** (*comprehensibility and cognitive accessibility terms*) through **CJS-5.10** (*disclosure sufficiency and observability terms*), **CJS-5.16** (*dependency integrity and disclosure terms*), **CJS-5.19** (*graceful degradation and failure-mode integrity terms*), and **CJS-5.21** (*adversarial robustness and abuse-resistance terms*)) — **strong:**
-- participant- and stakeholder-facing layers
+**Comprehensibility and complexity stewardship** ([Protocol B](cs_protocol_b_system_comprehensibility_complexity_stewardship.md) / **Article XX** (*Comprehensibility and Complexity Stewardship*)) — **strong:**
 - complexity audits when scale, coupling, or coordination depth warrant
-- failure behavior and salience must preserve population-scale verification and contestability under **CJS-5.5** (*independent verification and claim-integrity terms*)
-- **document** modularity where interfaces affect many dependents
 
 <a id="class-l-local-limited-impact-and-non-critical-systems"></a>
 <a id="12-class-l-local-limited-impact-and-non-critical-systems"></a>
@@ -549,7 +522,7 @@ For classification purposes, **"systemic"** in this Class B catalog uses the [§
 Systems that **do not** materially shape coordination beyond a **bounded, replaceable** context remain **Class L**.
 
 **Relationship to Dep-L:**
-- Impact **Class L** often coincides with **Dep-L — Limited dependency** ([Part A §4.1](cs_03_a_system_classification_machinery.md#44-dep-l-limited-dependency) — *Limited dependency*)
+- Impact **Class L** often coincides with **Dep-L — Limited dependency** ([Part A §4.1](cs_03_a_system_classification_machinery.md#44-dep-l-limited-dependency))
 - coincidence is **not** identity — record both axes
 
 <a id="123-substrate-impact-and-system-boundaries"></a>
@@ -658,11 +631,9 @@ Systems that **do not** materially shape coordination beyond a **bounded, replac
 - Basic accountability, feedback, correction, and dispute handling
 - Safeguards against avoidable opacity, arbitrariness, and abuse within bounded scope
 
-**Comprehensibility and complexity stewardship** (**Protocol B** / **Article XX** (*Comprehensibility and Complexity Stewardship*), **CJS-5.8** (*comprehensibility and cognitive accessibility terms*) through **CJS-5.10** (*disclosure sufficiency and observability terms*), **CJS-5.16** (*dependency integrity and disclosure terms*), **CJS-5.19** (*graceful degradation and failure-mode integrity terms*), and **CJS-5.21** (*adversarial robustness and abuse-resistance terms*)) — **proportionate:**
-- material risks, limits, and dependencies must be understandable without specialist-only surfaces
-- provide deeper disclosure on contest
-- ensure complexity does not block local accountability/correction
-- scale adversarial robustness to bounded impact
+**Comprehensibility and complexity stewardship** ([Protocol B](cs_protocol_b_system_comprehensibility_complexity_stewardship.md) / **Article XX** (*Comprehensibility and Complexity Stewardship*)) — **proportionate:**
+- deeper disclosure on contest
+- adversarial robustness scaled to bounded impact
 
 <a id="class-p-personal-private-use-isolated-and-experimental-systems"></a>
 <a id="13-class-p-personal-private-use-isolated-and-experimental-systems"></a>
@@ -695,7 +666,7 @@ Systems that **do not** materially shape coordination beyond a **bounded, replac
 #### 13.2 Dependency-axis relationship and substrate impact
 
 **Relationship to Dep-P:**
-- Impact **Class P** often coincides with **Dep-P — No meaningful external dependency** ([Part A §4.1](cs_03_a_system_classification_machinery.md#45-dep-p-no-meaningful-external-dependency) — *No meaningful external dependency*)
+- Impact **Class P** often coincides with **Dep-P — No meaningful external dependency** ([Part A §4.1](cs_03_a_system_classification_machinery.md#45-dep-p-no-meaningful-external-dependency))
 - coincidence is **not** identity — record both axes
 
 **Substrate impact (private, contained, non-systemic):**
@@ -814,10 +785,9 @@ Systems that **do not** materially shape coordination beyond a **bounded, replac
 **Governance.**
 - **No** formal external governance or participatory requirements while validly Class P
 
-**Comprehensibility and complexity stewardship** (**Protocol B** / **Article XX** (*Comprehensibility and Complexity Stewardship*), **CJS-5.8** (*comprehensibility and cognitive accessibility terms*) through **CJS-5.10** (*disclosure sufficiency and observability terms*), **CJS-5.16** (*dependency integrity and disclosure terms*), **CJS-5.19** (*graceful degradation and failure-mode integrity terms*), and **CJS-5.21** (*adversarial robustness and abuse-resistance terms*)) — **internal / minimal external:**
-- operators and participants must understand enough for informed private use
+**Comprehensibility and complexity stewardship** ([Protocol B](cs_protocol_b_system_comprehensibility_complexity_stewardship.md) / **Article XX** (*Comprehensibility and Complexity Stewardship*)) — **internal / minimal external:**
 - no standing independent complexity audits or public Protocol B reporting requirements while Class P holds
-- the corresponding **CJS-5.8**–**CJS-5.10**, **CJS-5.16**, **CJS-5.19**, and **CJS-5.21** terms still guide design so opaque or brittle behavior does not cause material externalization that forces reclassification
+- Protocol B and the corresponding **CJS-5** terms still guide design so opaque or brittle behavior does not cause material externalization that forces reclassification
 
 ---
 
