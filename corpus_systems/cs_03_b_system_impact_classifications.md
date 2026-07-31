@@ -25,7 +25,7 @@
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Topic routing (mandatory read-with): [Part A §2](cs_03_a_system_classification_machinery.md#2-classification-dimensions-and-real-world-application) (*Classification dimensions and real-world application* — Chapter Five owns meanings; CS-3 applies them).
-- Topic routing (mandatory read-with): [Part A §4](cs_03_a_system_classification_machinery.md#4-dependency-types-class-ap) (*Dependency types* — dual axis with this catalog).
+- Topic routing (mandatory read-with): [Part A §4](cs_03_a_system_classification_machinery.md#4-dependency-types-dep-ap) (*Dependency types* — dual axis with this catalog).
 - Read with: [Material Impact](../core_05defs_oversight.md#material-impact); [Materiality Determination](../core_05defs_oversight.md#materiality-determination); [Classification-Scaled Governance](../core_05defs_oversight.md#classification-scaled-governance).
 - Read with: [Dependency](../core_05defs_continuity.md#dependency); [Risk](../core_05defs_continuity.md#risk); [Cascading Failure](../core_05defs_continuity.md#cascading-failure); [Existential Risk](../core_05defs_continuity.md#existential-risk).
 - Read with: [Systemic](../core_05defs_continuity.md#systemic); [Systemic Materiality](../core_05defs_continuity.md#systemic-materiality); [System Classification Record](../core_05defs_continuity.md#system-classification-record-constitutional).
@@ -35,13 +35,13 @@
 
 <br>
 
-*In plain terms: the Class letters here name impact classes, not a second copy of the dependency types in Part A. Record both axes. When more than one impact class could fit, the highest applicable class governs.*
+*In plain terms: the Class letters here name impact classes, not the Dep-A–P dependency types in Part A. Record both axes. When more than one impact class could fit, the highest applicable class governs.*
 
 These class letters name **impact classes** — how severe and structural the system's effects are — and group shared scaled duties. Letter order in this catalog is for reading clarity; **highest applicable** classification governs under [Part A §2.2](cs_03_a_system_classification_machinery.md#22-real-world-application).
 
 Impact-class findings apply Chapter Five meanings of [Material Impact](../core_05defs_oversight.md#material-impact), [Dependency](../core_05defs_continuity.md#dependency), and [Risk](../core_05defs_continuity.md#risk) (including [Cascading Failure](../core_05defs_continuity.md#cascading-failure) and [Existential Risk](../core_05defs_continuity.md#existential-risk) where implicated). [Materiality Determination](../core_05defs_oversight.md#materiality-determination) and [Classification-Scaled Governance](../core_05defs_oversight.md#classification-scaled-governance) scale duty intensity; **Chapter Five** owns those meanings corpus-wide, and **CS-3** owns how classification uses them.
 
-**Dual-axis rule:** The same **Class A–P** letters also label **dependency types** in [Part A §4](cs_03_a_system_classification_machinery.md#4-dependency-types-class-ap) (Absolute / Operational / Coordination / Limited / No meaningful external dependency). Matching letters **correlate often** but **do not** mean the axes are the same finding. A [System Classification Record](../core_05defs_continuity.md#system-classification-record-constitutional) must state **both** the **impact class** ([§§9–13](#9-class-a-survival-critical-foundational-and-irreplaceable-systems)) and the applicable **dependency type(s)** ([Part A §4](cs_03_a_system_classification_machinery.md#4-dependency-types-class-ap)).
+**Dual-axis rule:** **Impact classes** use **Class A–P** in this catalog. **Dependency types** use **Dep-A–P** in [Part A §4](cs_03_a_system_classification_machinery.md#4-dependency-types-dep-ap) (Absolute / Operational / Coordination / Limited / No meaningful external dependency). Matching letter bands **correlate often** but **do not** mean the axes are the same finding. A [System Classification Record](../core_05defs_continuity.md#system-classification-record-constitutional) must state **both** the **impact class** ([§§9–13](#9-class-a-survival-critical-foundational-and-irreplaceable-systems)) and the applicable **dependency type(s)** ([Part A §4](cs_03_a_system_classification_machinery.md#4-dependency-types-dep-ap)).
 
 <a id="cs-local-systemic-classification-language"></a>
 **CS-local “systemic” (classification posture):** In this Part B catalog, **“systemic”** denotes capacity for cross-domain [Cascading Failure](../core_05defs_continuity.md#cascading-failure) across dependents — not merely large-scale or widespread impact. That posture language is **distinct from** Continuity [Systemic](../core_05defs_continuity.md#systemic) and [Systemic Materiality](../core_05defs_continuity.md#systemic-materiality) (interaction and amplification meanings), and **distinct from** Chapter Eleven **Tier A/B/C/L/P** dispute clocks ([§6](../core_11-11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)), which mirror the alphabet only.
@@ -81,8 +81,8 @@ Impact-class findings apply Chapter Five meanings of [Material Impact](../core_0
 - the system **lies on a dependency path** whose failure would cause loss of survival conditions within **sentient survival-relevant timeframes**; and
 - the system has **no viable** fallback, redundancy, or substitution within those timeframes
 
-**Relationship to dependency Class A:**
-- Impact **Class A** often coincides with dependency **Class A — Absolute dependency** ([Part A §4.1](cs_03_a_system_classification_machinery.md#41-class-a-absolute-dependency) — *Absolute dependency*)
+**Relationship to Dep-A:**
+- Impact **Class A** often coincides with **Dep-A — Absolute dependency** ([Part A §4.1](cs_03_a_system_classification_machinery.md#41-dep-a-absolute-dependency) — *Absolute dependency*)
 - coincidence is **not** identity — record both axes
 
 <a id="93-system-boundaries-and-failure-behavior"></a>
@@ -135,7 +135,7 @@ Impact-class findings apply Chapter Five meanings of [Material Impact](../core_0
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Topic routing (mandatory read-with): [Part A §2](cs_03_a_system_classification_machinery.md#2-classification-dimensions-and-real-world-application) (*Classification dimensions and real-world application*).
-- Topic routing (mandatory read-with): [Part A §4](cs_03_a_system_classification_machinery.md#4-dependency-types-class-ap) (*Dependency types* — Absolute dependency often coincides).
+- Topic routing (mandatory read-with): [Part A §4](cs_03_a_system_classification_machinery.md#4-dependency-types-dep-ap) (*Dependency types* — Absolute dependency often coincides).
 - Topic routing (mandatory read-with): [Part A §5](cs_03_a_system_classification_machinery.md#5-boundaries-timeframes-and-resilience) (*Boundaries, timeframes, and resilience*).
 - Topic routing (mandatory read-with): [Part A §7](cs_03_a_system_classification_machinery.md#7-classification-governance-disclosure-and-challenge) (*Classification governance, disclosure, and challenge*).
 - Read with: [Protocol B](cs_protocol_b_system_comprehensibility_complexity_stewardship.md); **Article XX** (*Comprehensibility and Complexity Stewardship*); **CJS-5.8**–**CJS-5.10**, **CJS-5.16**, **CJS-5.19**, **CJS-5.21**.
@@ -236,8 +236,8 @@ For classification purposes, **"systemic"** in this Class B catalog uses the [§
 - That includes cases where failure causes system-wide operational degradation across dependents, even if survival is not immediately threatened, disrupting coordination, functionality, or reliability across multiple systems or domains
 - If dependents can **continue** in degraded or alternative configurations, classification is properly **Class C**
 
-**Relationship to dependency Class B:**
-- Impact **Class B** often coincides with dependency **Class B — Operational dependency** ([Part A §4.1](cs_03_a_system_classification_machinery.md#42-class-b-operational-dependency) — *Operational dependency*)
+**Relationship to Dep-B:**
+- Impact **Class B** often coincides with **Dep-B — Operational dependency** ([Part A §4.1](cs_03_a_system_classification_machinery.md#42-dep-b-operational-dependency) — *Operational dependency*)
 - coincidence is **not** identity — record both axes
 
 <a id="103-substrate-impact-and-system-boundaries"></a>
@@ -300,7 +300,7 @@ For classification purposes, **"systemic"** in this Class B catalog uses the [§
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Topic routing (mandatory read-with): [Part A §2](cs_03_a_system_classification_machinery.md#2-classification-dimensions-and-real-world-application) (*Classification dimensions and real-world application*).
-- Topic routing (mandatory read-with): [Part A §4](cs_03_a_system_classification_machinery.md#4-dependency-types-class-ap) (*Dependency types* — Operational dependency often coincides).
+- Topic routing (mandatory read-with): [Part A §4](cs_03_a_system_classification_machinery.md#4-dependency-types-dep-ap) (*Dependency types* — Operational dependency often coincides).
 - Topic routing (mandatory read-with): [Part A §5](cs_03_a_system_classification_machinery.md#5-boundaries-timeframes-and-resilience) (*Boundaries, timeframes, and resilience*).
 - Topic routing (mandatory read-with): [Part A §7](cs_03_a_system_classification_machinery.md#7-classification-governance-disclosure-and-challenge) (*Classification governance, disclosure, and challenge*).
 - Read with: [Protocol B](cs_protocol_b_system_comprehensibility_complexity_stewardship.md); **Article XX** (*Comprehensibility and Complexity Stewardship*); **CJS-5.8**–**CJS-5.10**, **CJS-5.16**, **CJS-5.19**, **CJS-5.21**.
@@ -386,8 +386,8 @@ For classification purposes, **"systemic"** in this Class B catalog uses the [§
 <a id="112-dependency-axis-and-substrate-impact"></a>
 #### 11.2 Dependency-axis relationship and substrate impact
 
-**Relationship to dependency Class C:**
-- Impact **Class C** often coincides with dependency **Class C — Coordination dependency** ([Part A §4.1](cs_03_a_system_classification_machinery.md#43-class-c-coordination-dependency) — *Coordination dependency*)
+**Relationship to Dep-C:**
+- Impact **Class C** often coincides with **Dep-C — Coordination dependency** ([Part A §4.1](cs_03_a_system_classification_machinery.md#43-dep-c-coordination-dependency) — *Coordination dependency*)
 - coincidence is **not** identity — record both axes
 
 **Substrate impact (indirect, coordination-level):**
@@ -454,7 +454,7 @@ For classification purposes, **"systemic"** in this Class B catalog uses the [§
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Topic routing (mandatory read-with): [Part A §2](cs_03_a_system_classification_machinery.md#2-classification-dimensions-and-real-world-application) (*Classification dimensions and real-world application*).
-- Topic routing (mandatory read-with): [Part A §4](cs_03_a_system_classification_machinery.md#4-dependency-types-class-ap) (*Dependency types* — Coordination dependency often coincides).
+- Topic routing (mandatory read-with): [Part A §4](cs_03_a_system_classification_machinery.md#4-dependency-types-dep-ap) (*Dependency types* — Coordination dependency often coincides).
 - Topic routing (mandatory read-with): [Part A §7](cs_03_a_system_classification_machinery.md#7-classification-governance-disclosure-and-challenge) (*Classification governance, disclosure, and challenge*).
 - Read with: [Protocol B](cs_protocol_b_system_comprehensibility_complexity_stewardship.md); **Article XX** (*Comprehensibility and Complexity Stewardship*); **CJS-5.5**, **CJS-5.8**–**CJS-5.10**, **CJS-5.16**, **CJS-5.19**, **CJS-5.21**.
 - Read with: **CJS-5.15** (*material classification-record honesty*); [§8 CS-local “systemic”](#cs-local-systemic-classification-language); [Cascading Failure](../core_05defs_continuity.md#cascading-failure).
@@ -548,8 +548,8 @@ For classification purposes, **"systemic"** in this Class B catalog uses the [§
 
 Systems that **do not** materially shape coordination beyond a **bounded, replaceable** context remain **Class L**.
 
-**Relationship to dependency Class L:**
-- Impact **Class L** often coincides with dependency **Class L — Limited dependency** ([Part A §4.1](cs_03_a_system_classification_machinery.md#44-class-l-limited-dependency) — *Limited dependency*)
+**Relationship to Dep-L:**
+- Impact **Class L** often coincides with **Dep-L — Limited dependency** ([Part A §4.1](cs_03_a_system_classification_machinery.md#44-dep-l-limited-dependency) — *Limited dependency*)
 - coincidence is **not** identity — record both axes
 
 <a id="123-substrate-impact-and-system-boundaries"></a>
@@ -615,7 +615,7 @@ Systems that **do not** materially shape coordination beyond a **bounded, replac
 
 - Topic routing (mandatory read-with): [Part A §2](cs_03_a_system_classification_machinery.md#2-classification-dimensions-and-real-world-application) (*Classification dimensions and real-world application*).
 - Topic routing (mandatory read-with): [Part A §3.5](cs_03_a_system_classification_machinery.md#35-reclassification-requirement) (*Reclassification requirement* — proportionate Chapter Seven §3 evaluation).
-- Topic routing (mandatory read-with): [Part A §4](cs_03_a_system_classification_machinery.md#4-dependency-types-class-ap) (*Dependency types* — Limited dependency often coincides).
+- Topic routing (mandatory read-with): [Part A §4](cs_03_a_system_classification_machinery.md#4-dependency-types-dep-ap) (*Dependency types* — Limited dependency often coincides).
 - Topic routing (mandatory read-with): [Part A §7](cs_03_a_system_classification_machinery.md#7-classification-governance-disclosure-and-challenge) (*Classification governance, disclosure, and challenge*).
 - Read with: [Protocol B](cs_protocol_b_system_comprehensibility_complexity_stewardship.md); **Article XX** (*Comprehensibility and Complexity Stewardship*); **CJS-5.8**–**CJS-5.10**, **CJS-5.16**, **CJS-5.19**, **CJS-5.21**.
 - Read with: [§8 CS-local “systemic”](#cs-local-systemic-classification-language); [Cascading Failure](../core_05defs_continuity.md#cascading-failure).
@@ -694,8 +694,8 @@ Systems that **do not** materially shape coordination beyond a **bounded, replac
 <a id="132-dependency-axis-and-substrate-impact"></a>
 #### 13.2 Dependency-axis relationship and substrate impact
 
-**Relationship to dependency Class P:**
-- Impact **Class P** often coincides with dependency **Class P — No meaningful external dependency** ([Part A §4.1](cs_03_a_system_classification_machinery.md#45-class-p-no-meaningful-external-dependency) — *No meaningful external dependency*)
+**Relationship to Dep-P:**
+- Impact **Class P** often coincides with **Dep-P — No meaningful external dependency** ([Part A §4.1](cs_03_a_system_classification_machinery.md#45-dep-p-no-meaningful-external-dependency) — *No meaningful external dependency*)
 - coincidence is **not** identity — record both axes
 
 **Substrate impact (private, contained, non-systemic):**
@@ -776,7 +776,7 @@ Systems that **do not** materially shape coordination beyond a **bounded, replac
 
 - Topic routing (mandatory read-with): [Part A §2](cs_03_a_system_classification_machinery.md#2-classification-dimensions-and-real-world-application) (*Classification dimensions and real-world application*).
 - Topic routing (mandatory read-with): [Part A §3.5](cs_03_a_system_classification_machinery.md#35-reclassification-requirement) (*Reclassification requirement* — Class P evaluation becomes mandatory on exit).
-- Topic routing (mandatory read-with): [Part A §4](cs_03_a_system_classification_machinery.md#4-dependency-types-class-ap) (*Dependency types* — No meaningful external dependency often coincides).
+- Topic routing (mandatory read-with): [Part A §4](cs_03_a_system_classification_machinery.md#4-dependency-types-dep-ap) (*Dependency types* — No meaningful external dependency often coincides).
 - Topic routing (mandatory read-with): [Part A §7](cs_03_a_system_classification_machinery.md#7-classification-governance-disclosure-and-challenge) (*Classification governance, disclosure, and challenge*).
 - Read with: [Protocol B](cs_protocol_b_system_comprehensibility_complexity_stewardship.md); **Article XX** (*Comprehensibility and Complexity Stewardship*); **CJS-5.8**–**CJS-5.10**, **CJS-5.16**, **CJS-5.19**, **CJS-5.21**.
 - Read with: [§8 CS-local “systemic”](#cs-local-systemic-classification-language).

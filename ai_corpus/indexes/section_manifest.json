@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-07-31T04:19:27+00:00",
+  "generated_at": "2026-07-31T04:28:18+00:00",
   "files": {
     "core_00_preamble.md": {
       "total_lines": 248,
@@ -6830,13 +6830,13 @@
       ]
     },
     "corpus_systems/cs_03_a_system_classification_machinery.md": {
-      "total_lines": 516,
+      "total_lines": 517,
       "sections": [
         {
           "header": "CS-3, Part A: System classification machinery",
           "level": 2,
           "line_start": 2,
-          "line_end": 516,
+          "line_end": 517,
           "anchor": "#cs-3-part-a-system-classification-machinery"
         },
         {
@@ -6857,35 +6857,35 @@
           "header": "3. Criticality, concentration, temporal, and adversarial factors",
           "level": 3,
           "line_start": 151,
-          "line_end": 223,
+          "line_end": 224,
           "anchor": "#3-criticality-concentration-temporal-and-adversarial-factors"
         },
         {
-          "header": "4. Dependency types (Class A–P)",
+          "header": "4. Dependency types (Dep-A–P)",
           "level": 3,
-          "line_start": 224,
-          "line_end": 256,
-          "anchor": "#4-dependency-types-class-ap"
+          "line_start": 225,
+          "line_end": 257,
+          "anchor": "#4-dependency-types-dep-ap"
         },
         {
           "header": "5. Boundaries, timeframes, and resilience",
           "level": 3,
-          "line_start": 257,
-          "line_end": 281,
+          "line_start": 258,
+          "line_end": 282,
           "anchor": "#5-boundaries-timeframes-and-resilience"
         },
         {
           "header": "6. Domain taxonomy, ordinary examples, and scarce-capacity handling",
           "level": 3,
-          "line_start": 282,
-          "line_end": 342,
+          "line_start": 283,
+          "line_end": 343,
           "anchor": "#6-domain-taxonomy-examples-and-scarce-capacity-handling"
         },
         {
           "header": "7. Classification governance, disclosure, and challenge",
           "level": 3,
-          "line_start": 343,
-          "line_end": 516,
+          "line_start": 344,
+          "line_end": 517,
           "anchor": "#7-classification-governance-disclosure-and-challenge"
         }
       ]

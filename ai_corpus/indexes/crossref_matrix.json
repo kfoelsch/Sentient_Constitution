@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-07-31T04:19:28+00:00",
+  "generated_at": "2026-07-31T04:28:19+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -10877,12 +10877,12 @@
               "#2-classification-dimensions-and-real-world-application",
               "#22-real-world-application",
               "#35-reclassification-requirement",
-              "#4-dependency-types-class-ap",
-              "#41-class-a-absolute-dependency",
-              "#42-class-b-operational-dependency",
-              "#43-class-c-coordination-dependency",
-              "#44-class-l-limited-dependency",
-              "#45-class-p-no-meaningful-external-dependency",
+              "#4-dependency-types-dep-ap",
+              "#41-dep-a-absolute-dependency",
+              "#42-dep-b-operational-dependency",
+              "#43-dep-c-coordination-dependency",
+              "#44-dep-l-limited-dependency",
+              "#45-dep-p-no-meaningful-external-dependency",
               "#5-boundaries-timeframes-and-resilience",
               "#7-classification-governance-disclosure-and-challenge",
               "#cs-3-part-a-system-classification-machinery"

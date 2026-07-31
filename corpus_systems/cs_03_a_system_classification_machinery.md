@@ -6,7 +6,7 @@
 
 > The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other CS-3 parts.
 >
-> This file contains **CS-3, Part A** — purpose and scope, classification dimensions, criticality and concentration factors, **dependency types** (**Class A–P** reliance categories), boundaries / timeframes / resilience, domain taxonomy and scarce-capacity handling, and classification governance (**§§1–7**). **Part B** — system **impact** classifications (**Class A** through **Class P**) — is in [`cs_03_b_system_impact_classifications.md`](cs_03_b_system_impact_classifications.md).
+> This file contains **CS-3, Part A** — purpose and scope, classification dimensions, criticality and concentration factors, **dependency types** (**Dep-A–P** reliance categories), boundaries / timeframes / resilience, domain taxonomy and scarce-capacity handling, and classification governance (**§§1–7**). **Part B** — system **impact** classifications (**Class A** through **Class P**) — is in [`cs_03_b_system_impact_classifications.md`](cs_03_b_system_impact_classifications.md).
 
 </details>
 
@@ -46,7 +46,7 @@ CS-3 implements:
   - **Alignment-status recognition and ambiguity default** — the System Classification Record must support forum recognition or revalidation when official alignment status is required; ambiguity defaults to protecting Foundational Rights ([§1.4](#14-alignment-status-recognition-and-ambiguity-default))
   - **Criticality, concentration, temporal, and adversarial factors** — operational criticality, concentration triggers, delayed/threshold behavior, and adversarial dynamics ([§3](#3-criticality-concentration-temporal-and-adversarial-factors))
 - **What the System Classification Record must state (dual axes)**
-  - **Dependency typing** — applicable **dependency type(s)** (**Class A–P** reliance categories) as a distinct axis from impact class ([§4](#4-dependency-types-class-ap))
+  - **Dependency typing** — applicable **dependency type(s)** (**Dep-A–P** reliance categories) as a distinct axis from impact class ([§4](#4-dependency-types-dep-ap))
   - **Impact-class catalog** — **Class A** through **Class P** impact definitions and scaled duties in **[Part B §§8–13](cs_03_b_system_impact_classifications.md#8-system-impact-classifications)**
   - **Boundaries, timeframes, and resilience** — effective boundaries, survival-relevant timeframes, and class-scaled continuity ([§5](#5-boundaries-timeframes-and-resilience))
 - **How class is applied and governed**
@@ -221,11 +221,12 @@ Classification reassessment under this subsection must be:
 Governance timing for acting on these triggers — including prompt reclassification, pre-deployment reassessment where feasible, and failure-to-reclassify non-compliance — is in [§7.5](#75-reclassification-and-continuous-update).
 
 <a id="4-dependency-types-class-ap"></a>
-### 4. Dependency types (Class A–P)
+<a id="4-dependency-types-dep-ap"></a>
+### 4. Dependency types (Dep-A–P)
 
-*In plain terms: separately record how hard it is to replace the system — Absolute, Operational, Coordination, Limited, or none meaningful — using the same Class letters as impact classes, without treating matching letters as the same finding.*
+*In plain terms: separately record how hard it is to replace the system — Absolute, Operational, Coordination, Limited, or none meaningful — using Dep-A through Dep-P so the dependency axis stays distinct from impact Class A–P, even when the letter bands match.*
 
-**Dual-axis rule:** **Class A–P** letters label **two distinct axes** under CS-3. This section owns **dependency types** (reliance categories). **[Part B §§8–13](cs_03_b_system_impact_classifications.md#8-system-impact-classifications)** owns **impact classes** (Survival-critical through Personal/private). A [System Classification Record](../core_05defs_continuity.md#system-classification-record-constitutional) must state **both** the applicable **dependency type(s)** and the **impact class**. Matching letters **correlate often** but **do not** collapse the axes into one finding.
+**Dual-axis rule:** **Impact classes** use **Class A–P**. **Dependency types** use **Dep-A–P** (same letter band, `Dep-` prefix). This section owns **dependency types** (reliance categories). **[Part B §§8–13](cs_03_b_system_impact_classifications.md#8-system-impact-classifications)** owns **impact classes** (Survival-critical through Personal/private). A [System Classification Record](../core_05defs_continuity.md#system-classification-record-constitutional) must state **both** the applicable **dependency type(s)** and the **impact class**. Matching letter bands **correlate often** but **do not** collapse the axes into one finding.
 
 **Dependency, interaction, and boundary classification overview:** System classification reflects combined impact, dependency, and risk. **Dependency classification** describes structure and strength of reliance, and must account for the following when they materially alter reliance:
 
@@ -247,11 +248,11 @@ All system classifications must:
 
 Standardized reliance categories:
 
-- <a id="41-class-a-absolute-dependency"></a>**Class A — Absolute dependency** — no viable fallback, redundancy, or substitution within **survival-relevant** timeframes; loss of continuity yields immediate or near-immediate loss of survival conditions
-- <a id="42-class-b-operational-dependency"></a>**Class B — Operational dependency** — required for **normal** functioning of dependents; fallback, redundancy, or substitution exists within survival-relevant timeframes
-- <a id="43-class-c-coordination-dependency"></a>**Class C — Coordination dependency** — materially shapes coordination, interaction, or outcomes across participants or systems, but is **not** required for core functional operation
-- <a id="44-class-l-limited-dependency"></a>**Class L — Limited dependency** — confined to **bounded** contexts; replaceable within reasonable time and effort without systemic impact
-- <a id="45-class-p-no-meaningful-external-dependency"></a>**Class P — No meaningful external dependency** — contained within a private unit or among voluntary participants; no reliance beyond that boundary
+- <a id="41-class-a-absolute-dependency"></a><a id="41-dep-a-absolute-dependency"></a>**Dep-A — Absolute dependency** — no viable fallback, redundancy, or substitution within **survival-relevant** timeframes; loss of continuity yields immediate or near-immediate loss of survival conditions
+- <a id="42-class-b-operational-dependency"></a><a id="42-dep-b-operational-dependency"></a>**Dep-B — Operational dependency** — required for **normal** functioning of dependents; fallback, redundancy, or substitution exists within survival-relevant timeframes
+- <a id="43-class-c-coordination-dependency"></a><a id="43-dep-c-coordination-dependency"></a>**Dep-C — Coordination dependency** — materially shapes coordination, interaction, or outcomes across participants or systems, but is **not** required for core functional operation
+- <a id="44-class-l-limited-dependency"></a><a id="44-dep-l-limited-dependency"></a>**Dep-L — Limited dependency** — confined to **bounded** contexts; replaceable within reasonable time and effort without systemic impact
+- <a id="45-class-p-no-meaningful-external-dependency"></a><a id="45-dep-p-no-meaningful-external-dependency"></a>**Dep-P — No meaningful external dependency** — contained within a private unit or among voluntary participants; no reliance beyond that boundary
 
 <a id="5-boundaries-timeframes-and-resilience"></a>
 ### 5. Boundaries, timeframes, and resilience
