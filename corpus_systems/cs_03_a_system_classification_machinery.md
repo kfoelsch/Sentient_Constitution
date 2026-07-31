@@ -423,23 +423,25 @@ Forum verification under Chapter Seven §2 does **not** transfer ownership of th
 
 <br>
 
-*System Classification Record duty:* this subsection owns the **System Classification Record audit** sibling mode named in the **[CJS-5.3 audit process home](../corpus_joint_structure/cjs_05_audit_process.md#cjs-53-sibling-modes)** — an independent check that the class file matches real behavior, so System Alignment Certification under **[Chapter Seven §2](../core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation)** verifies substance when SAC runs, and so class honesty stays checkable between and beside those cycles.
+*System Classification Record duty:* run the independent **System Classification Record audit** named in the **[CJS-5.3 audit process home](../corpus_joint_structure/cjs_05_audit_process.md#cjs-53-sibling-modes)**.
 
 - **Required:** Auditability of the System Classification Record is required under [§1.3](#13-mandatory-functional-classification).
-- **What to verify:** Inspect real behavior, outputs, and effects — not only claims in the file.
+- **What to check:** the class on file matches how the system actually behaves — inspect real behavior, outputs, and effects, not only claims in the file.
+- **Why (when SAC runs):** so System Alignment Certification under **[Chapter Seven §2](../core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation)** can verify substance.
+- **Why (between cycles):** so class honesty stays checkable outside those SAC cycles too.
 - **When:** On a schedule that matches impact and how fast the system changes, including the triggers in the process home and in [§3.5](#35-reclassification-requirement) / [§7.5](#75-reclassification-and-continuous-update).
 - **For Class A, B, and C:** System Classification Record audits must be able to catch misclassification, under-classification, and unreported behavior changes. Independent or third-party audit paths must remain available under **CJS-5.4**; "where feasible" does **not** make those paths soft-optional at these classes.
 
 <a id="74-challenge-and-contestability"></a>
 **7.4. Challenge the System Classification Record.**
 
-*System Classification Record duty:* let affected people contest the file so class findings feeding System Alignment Certification stay challengeable under **Article XII-B** and, when inside an active certification record, under **[Part B §§12 and 14](../core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability)**.
+*System Classification Record duty:* let affected people contest the file.
 
-The right to challenge the System Classification Record is required under [§1.3](#13-mandatory-functional-classification) (**Article XII-B**). Systems must offer challenge routes people can actually use, review claims in good faith and on time, and give reasoned answers — including evidence of misclassification or hidden impact, and requests for review or reclassification of the record.
-
-**For Class A, B, and C**, if an internal dispute about the System Classification Record cannot be resolved, escalation to external or independent review must remain available.
-
-When the challenge concerns classification assumptions, class assignment, or related evidence inside an active System Certification Record, the contestability chain in **[Chapter Seven Part B §12](../core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability)** and **[§14](../core_07_b_system_alignment_certification_record_process.md#14-supervisory-sequence-and-contestability-chain)** applies, and material challenges may reopen review under **[Part B §16](../core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion)**.
+- **Required:** The right to challenge the System Classification Record is required under [§1.3](#13-mandatory-functional-classification) (**Article XII-B**).
+- **What systems must offer:** challenge routes people can actually use; good-faith, timely review; and reasoned answers — including evidence of misclassification or hidden impact, and requests for review or reclassification of the record.
+- **Why:** so class findings that feed System Alignment Certification stay challengeable under **Article XII-B** and, when inside an active certification record, under **[Part B §§12 and 14](../core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability)**.
+- **For Class A, B, and C:** if an internal dispute about the System Classification Record cannot be resolved, escalation to external or independent review must remain available.
+- **When the challenge concerns classification assumptions, class assignment, or related evidence inside an active System Certification Record:** the contestability chain in **[Chapter Seven Part B §12](../core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability)** and **[§14](../core_07_b_system_alignment_certification_record_process.md#14-supervisory-sequence-and-contestability-chain)** applies, and material challenges may reopen review under **[Part B §16](../core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion)**.
 
 <a id="75-reclassification-and-continuous-update"></a>
 **7.5. Update the System Classification Record.**
@@ -452,32 +454,30 @@ What triggers a fresh look, and how deep the look must go, live in [§3.5](#35-r
 - **promptly** once changed conditions are recognized
 - as part of **periodic review**, including each materially impactful [System Alignment Certification](../core_05defs_continuity.md#system-alignment-certification-constitutional) or revalidation cycle under **[Chapter Seven §2](../core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation)**
 
-The System Classification Record must state a **revalidation cadence scaled to class** (and monitoring triggers), as Chapter Seven §2 and the [System Classification Record](../core_05defs_continuity.md#system-classification-record-constitutional) definition require. On each materially impactful SAC or revalidation cycle, certification must **verify** that reassessment under [§3.5](#35-reclassification-requirement) was applied where triggers fired, and record the System Classification Record under **[Part B §11.1](../core_07_b_system_alignment_certification_record_process.md#111-minimum-record-contents)**.
-
-Failure to update the System Classification Record after material change is non-compliance and a **certification defect** under [§3.5](#35-reclassification-requirement), Chapter Seven §2, and **[Part B §16](../core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion)**. Material class change or overdue reassessment reopens certification review; stale certification must not stand in for current class honesty.
+The System Classification Record must state a **revalidation cadence scaled to class** (and monitoring triggers). How certification verifies that cadence and §3.5 reassessment, and treats failure to update after material change as a **certification defect**, live under **[Chapter Seven §2](../core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation)** and **[Part B §16](../core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion)** — see also the [§7 SAC bridge](#7-classification-governance-disclosure-and-challenge).
 
 <a id="76-misclassification-and-evasion"></a>
 **7.6. Correct the System Classification Record.**
 
-*System Classification Record duty:* fix evasion and understatement in the file so System Alignment Certification is not rubber-stamping a defective class — these failures are certification defects under **[Chapter Seven §2](../core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation)** and **[Part B §16](../core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion)**.
+*System Classification Record duty:* correct the file when misclassification or evasion is found.
 
-Understatement of impact, dependency, or risk, and claims of lighter duties from intent or nominal scope, are already barred under [§1.3](#13-mandatory-functional-classification). This subsection adds:
+Shared correction, precautionary-default, and no-quiet-lowering discipline live in **[CJS-5.15 — Material classification-record honesty](../corpus_joint_structure/cjs_05a_accountability_operations.md#cjs-515-material-classification-record-honesty)**. This subsection applies that discipline to the System Classification Record:
 
-- do **not** split or modularize a system just to dodge a higher class on the System Classification Record
-- when misclassification or evasion is found, **correct** the System Classification Record
-- apply proportional requirements **retroactively** where appropriate
-- take corrective action for resulting harm or exposure
+- Understatement of impact, dependency, or risk, and claims of lighter duties from intent or nominal scope, are already barred under [§1.3](#13-mandatory-functional-classification).
+- Do **not** split or modularize a system just to dodge a higher class on the System Classification Record.
+- When misclassification or evasion is found, **correct** the System Classification Record.
 
-These failures are **certification defects** under **[Chapter Seven §2](../core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation)** and **[Part B §16](../core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion)**. Where the facts support it, they may also supply verified input for adverse standing findings under [Chapter Eight](../core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) via **[Part B §15](../core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing)**.
+How those failures count as **certification defects**, and any standing bridge, live under **[Chapter Seven §2](../core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation)**, **[Part B §§15–16](../core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing)**, and the [§7 SAC bridge](#7-classification-governance-disclosure-and-challenge).
 
 <a id="77-default-and-precautionary-classification"></a>
 **7.7. Default uncertain System Classification Record fields.**
 
-*System Classification Record duty:* when the file is incomplete or contested, fill defaults that protect rights — and do not quietly lower class — so recognition and revalidation under System Alignment Certification rest on a precautionary, forum-contestable finding.
+*System Classification Record duty:* when the file is incomplete or contested, apply the precautionary default and state any precautionary class relied on — do not quietly lower class.
 
-Ambiguity and uncertainty defaults (Foundational Rights protection; highest-plausible / worst-case accounting) are owned in [§1.2](#12-classification-and-existential-risk) and [§1.4](#14-alignment-status-recognition-and-ambiguity-default). State any **precautionary class** relied on, and any conditions pending resolution, **in the System Classification Record** — matching what Chapter Seven §2 requires certification to record.
+Shared discipline lives in **[CJS-5.15 — Material classification-record honesty](../corpus_joint_structure/cjs_05a_accountability_operations.md#cjs-515-material-classification-record-honesty)**. CS-3 ambiguity and uncertainty defaults (Foundational Rights protection; highest-plausible / worst-case accounting) are owned in [§1.2](#12-classification-and-existential-risk) and [§1.4](#14-alignment-status-recognition-and-ambiguity-default). This subsection applies them to the System Classification Record:
 
-**Lowering** a class on the System Classification Record requires evidence, documentation, and successful review and validation. Any request to lower class, drop recognition conditions, or claim that a materially impactful system no longer needs higher-tier safeguards must stay open to Integrity forum review under [§1.4](#14-alignment-status-recognition-and-ambiguity-default), Chapter Eleven, and `corpus_forum.md` **CF-7.2** (*Constitutional alignment recognition and review*) when affected people, stewards, oversight bodies, or the System Classification Record itself raise a credible alignment concern. Passing an internal check alone does **not** defeat a timely forum challenge. Where recognition or continued reliance already rests on a System Certification Record, such requests also route through **[Part B §16](../core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion)** reopening where material.
+- State any **precautionary class** relied on, and any conditions pending resolution, **in the System Classification Record**.
+- **Lowering** a class on the System Classification Record requires evidence, documentation, and successful review under the CJS-5.15 rule — and stays open to Integrity forum review under [§1.4](#14-alignment-status-recognition-and-ambiguity-default), Chapter Eleven, and `corpus_forum.md` **CF-7.2** (*Constitutional alignment recognition and review*) when a credible alignment concern is raised. Passing an internal check alone does **not** defeat a timely forum challenge. Where recognition or continued reliance already rests on a System Certification Record, material requests also route through **[Part B §16](../core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion)**.
 
 <a id="78-integrated-risk-governance"></a>
 **7.8. Org roles that protect the System Classification Record (Class A/B).**
@@ -486,7 +486,7 @@ Ambiguity and uncertainty defaults (Foundational Rights protection; highest-plau
 
 For **Class A** and **Class B**, operators and **Critical System Stewards** (**[CS-4 — Critical system stewardship](cs_04_critical_system_stewardship.md)**) must run integrated risk governance across the systems and dependency chains they control or materially affect.
 
-This subsection is practical vocabulary for large-organization risk coordination. It does **not** redefine *Risk*, *Material*, *Dependency*, or related assessment standards — those stay with **Chapter Five** and the CS-3 dimensions in [§2](#2-classification-dimensions-and-real-world-application). Anti-evasion and misclassification bars remain in [§1.3](#13-mandatory-functional-classification) and [§7.6](#76-misclassification-and-evasion).
+This subsection is practical vocabulary for large-organization risk coordination. It does **not** redefine *Risk*, *Material*, *Dependency*, or related assessment standards — those stay with **Chapter Five** and the CS-3 dimensions in [§2](#2-classification-dimensions-and-real-world-application). Anti-evasion and misclassification bars remain in [§1.3](#13-mandatory-functional-classification) and [§7.6](#76-misclassification-and-evasion); shared correction and default discipline remains in **[CJS-5.15](../corpus_joint_structure/cjs_05a_accountability_operations.md#cjs-515-material-classification-record-honesty)**.
 
 - **Risk appetite and tolerance** — publish clear, reviewable statements of how much leftover risk (after prevention and mitigation) the organization accepts, by level and type. Those statements must stay inside foundational requirements (**Chapter One**, **Chapter Six, Articles V through IX**, and **Chapter Five** where material), and must reconcile with the System Classification Record without violating **CJS-5.11**, **CJS-5.7**, or **CJS-5.12** in **corpus_joint_structure.md**.
 - **Who owns the risk picture** — name an accountable function (or clearly split functions with non-overlapping scopes) for the full risk picture of the classified system and its material dependencies, including cross-system and cross-steward interfaces. Ownership covers identification, assessment, treatment, monitoring, and escalation, and stays **traceable** through governance changes, delegation, and subcontracting.

@@ -563,6 +563,7 @@ Records, transparency, and challenge pathway duties
 - Read with: **CJS-5.15** (*Accountability: structural review, correction urgency, and disclosure terms*) and **CJS-5.6** (*Oversight: integrity assurance and resilience operations*) — Evolution, Revalidation, and Non-Entrenchment
 - Read with: **CJS-5.2** (*Oversight: reflexive transparency and accountability terms*) and **CJS-5.6** (*Oversight: integrity assurance and resilience operations*) — Reflexive Transparency and Accountability
 - Read with: `corpus_systems.md` **CS-2 — Information types and handling** and **CS-3 — System classification and handling**
+- Read with: **CJS-5.12** (*burden-of-justification and constraint terms*) where lowering a protective classification finding is at issue.
 - Read with: Owner-layer-specific monitoring or publication duties.
 - Constitutional frame: **Accountability** leg; **Continuity** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05defs_oversight.md#materiality-determination).
 - Cross-leg note: pairs with **CJS-5.6** for evolution, revalidation, and non-entrenchment.
@@ -586,7 +587,7 @@ Records, transparency, and challenge pathway duties
 <br>
 
 
-Use this rule when recurring failures, Correction Urgency Level (**CUL**) assignment, or structural transparency depends on standalone system behavior or combined institutional, system, dependency, or implementation-layer behavior.
+Use this rule when recurring failures, Correction Urgency Level (**CUL**) assignment, structural transparency, or **material classification-record honesty** (correction, precautionary default, and no quiet lowering across owner-layer class/type/status files) depends on standalone system behavior or combined institutional, system, dependency, or implementation-layer behavior.
 
 structural review, correction urgency, and disclosure terms
 - OP-O: Systems must detect patterns, assign correction urgency, integrate fixes, keep structural records, and disclose to the right stakeholders.
@@ -622,6 +623,17 @@ Systemic-pattern detection and escalation
 - OP-O: Decisions, disputes, enforcement actions, and failures must be monitored for repeated errors, biased outcomes, weak-signal reliance, component-linked clusters, and cross-boundary spread.
 - OP-E: Evaluation must verify disclosed, impact-scaled thresholds that distinguish structural defects from isolated events.
 - OP-C: Treating repeated patterns as isolated events to avoid review is non-compliant.
+
+<a id="cjs-515-material-classification-record-honesty"></a>
+Material classification-record honesty (correction, precautionary default, and no quiet lowering)
+
+*In plain terms: when a material class, type, or status file is wrong or incomplete, fix it honestly — default protectively under uncertainty, and do not quietly dial protections down without evidence and review. This shared discipline applies across owner-layer classification files; CS-2, CS-3, and peers keep domain-specific anti-evasion lists and field contents.*
+
+Use this sub-rule when a material **classification, typing, or status record** other systems, institutions, forums, or certification cycles rely on is incomplete, contested, understated, or evasive — including the [System Classification Record](../core_05defs_continuity.md#system-classification-record-constitutional), the [System Data Types Record](../core_05defs_continuity.md#system-data-types-record-constitutional), and comparable owner-layer classification files. Domain anti-evasion lists and required fields stay with the owner file (**CS-2**, **CS-3**, and peers). How System Alignment Certification treats resulting defects lives under **Chapter Seven** and **[Part B §16](../core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion)**.
+
+- OP-O: Operators must keep material classification records honest. When understatement, evasion, or misclassification is found, **correct** the record, apply proportional requirements **retroactively** where appropriate, and take corrective action for resulting harm or exposure. Do **not** split, modularize, fragment, re-label, or otherwise restructure just to dodge a stronger applicable classification. Where the record is incomplete, ambiguous, or contested, apply the owner-layer **rights-protective / highest-plausible** default, and state any precautionary finding and pending conditions **in the record**. **Lowering** a protective classification, dropping recognition conditions, or claiming lighter duties requires evidence, documentation, and successful review — an internal self-clear alone does **not** defeat a timely contest (**CJS-5.12**).
+- OP-E: Evaluation must verify that corrected records match observed and reasonably foreseeable effects; that anti-evasion structure was not used to understate class, type, or status; that precautionary findings and pending conditions are stated where uncertainty remains; and that any lowering path shows evidence, review, and contestability rather than quiet dial-down.
+- OP-C: It is non-compliant to leave known misclassification or evasion uncorrected, to game boundaries or labels to dodge stronger duties, to fill uncertainty with an optimistic understatement, or to lower protective findings by assertion or internal self-clear without the required evidence and review.
 
 ---
 

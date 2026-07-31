@@ -511,6 +511,7 @@ This section owns what operators must **do with** the System Data Types Record b
 | [§8.4](#84-challenge-the-system-data-types-record) | **Challenging** it |
 | [§8.5](#85-update-the-system-data-types-record) | **Updating** it |
 | [§8.6](#86-correct-the-system-data-types-record) | **Correcting** it |
+| [§8.7](#87-default-uncertain-system-data-types-record-fields) | **Defaulting** uncertain fields / barring quiet lowering |
 
 <a id="81-own-the-system-data-types-record"></a>
 **8.1. Own the System Data Types Record.**
@@ -594,11 +595,25 @@ Failure to update the System Data Types Record after material change is non-comp
 <a id="86-correct-the-system-data-types-record"></a>
 **8.6. Correct the System Data Types Record.**
 
-*System Data Types Record duty:* fix evasion and understatement in the file so System Alignment Certification is not rubber-stamping defective typing — these failures are certification defects under **[Chapter Seven §4](../core_07_a_system_alignment_certification_evaluation.md#4-data-types-and-handling-evaluation)** and **[Part B §16](../core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion)**.
+*System Data Types Record duty:* correct the file when mistyping or evasion is found.
+
+Shared correction, precautionary-default, and no-quiet-lowering discipline live in **[CJS-5.15 — Material classification-record honesty](../corpus_joint_structure/cjs_05a_accountability_operations.md#cjs-515-material-classification-record-honesty)**. This subsection applies that discipline to the System Data Types Record:
 
 - do **not** fragment, re-label, or route data just to dodge a stronger type on the System Data Types Record ([§4](#4-anti-circumvention-and-integrity-of-classification))
 - when mistyping or evasion is found, **correct** the System Data Types Record
 - do **not** treat Charter text, vendor attestation, or self-description as the corrected file
+
+How those failures count as **certification defects** live under **[Chapter Seven §4](../core_07_a_system_alignment_certification_evaluation.md#4-data-types-and-handling-evaluation)**, **[Part B §16](../core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion)**, and the [§8 SAC bridge](#8-system-data-types-record-governance).
+
+<a id="87-default-uncertain-system-data-types-record-fields"></a>
+**8.7. Default uncertain System Data Types Record fields.**
+
+*System Data Types Record duty:* when the file is incomplete or contested, apply the precautionary default and state any precautionary typing relied on — do not quietly weaken protections.
+
+Shared discipline lives in **[CJS-5.15 — Material classification-record honesty](../corpus_joint_structure/cjs_05a_accountability_operations.md#cjs-515-material-classification-record-honesty)**. CS-2 keeps the strongest applicable protections under [§2](#2-determination-of-classification)–[§4](#4-anti-circumvention-and-integrity-of-classification). This subsection applies them to the System Data Types Record:
+
+- State any **precautionary typing** relied on, and any conditions pending resolution, **in the System Data Types Record**.
+- **Lowering** typing protections on the System Data Types Record requires evidence, documentation, and successful review under the CJS-5.15 rule. Passing an internal check alone does **not** defeat a timely contest. Where recognition or continued reliance already rests on a System Certification Record, material requests also route through **[Part B §16](../core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion)**.
 
 ---
 
