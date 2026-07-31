@@ -118,7 +118,7 @@ Faith* is **non-compliance** proportional to class and tier (see **Governance an
 
 **Escalate** to independent review when internal resolution risks **credible appearance of bias** (**Article XV-A** (*Auditability and Observable Evidence*), **CJS-5.13** (*procedural integrity and adjudication terms*)).
 
-**Cross-reference:** **Articles IX, XI, XII, XVI, XIX**, **CS-3** (classification challenge, integrated risk **second line** where applicable), **CJS-5.14** (*intervention governance and override-authorization terms*) and **CJS-5.23** (*intervention and override integrity terms*), **CJS-5.2** (*reflexive transparency and accountability terms*) and **CJS-5.6** (*integrity assurance and resilience operations*), **CJS-5.12** (*burden-of-justification and constraint terms*).
+**Cross-reference:** **Articles IX, XI, XII, XVI, XIX**, **CS-3** (classification challenge and System Classification Record audit), **[Integrated risk governance (Class A/B)](#integrated-risk-governance)** (*second line* where applicable), **CJS-5.14** (*intervention governance and override-authorization terms*) and **CJS-5.23** (*intervention and override integrity terms*), **CJS-5.2** (*reflexive transparency and accountability terms*) and **CJS-5.6** (*integrity assurance and resilience operations*), **CJS-5.12** (*burden-of-justification and constraint terms*).
 
 **Continuity, transfer, and exit integrity:** Maintain **continuous operation**, **recoverability**, and **oversight** within required operational and recovery timeframes. **That** obligation applies under **normal, degraded, and adversarial** conditions.
 
@@ -168,7 +168,26 @@ Provide **documented**, **low-friction** paths for **qualified** contributors to
 
 **Succession:** Use **deputy, backup, cross-training**, **documented handoffs** so unavailability does not eliminate **constitutional operation**, **auditability**, or **intervention**. **That** aligns with continuity/transfer above and **Protocol A**, subsection **G**; stricter for **Class A** / **CSS-A**.
 
-**Periodic oversight effectiveness review:** On cadences **proportional to class and tier**, assess whether oversight/audit/challenge (**including [CS-3 Part A §7.8](cs_03_a_system_classification_machinery.md#78-integrated-risk-governance)** (*Integrated risk governance*) second line where applicable) **actually detect**, **escalate**, and **remediate** misalignment—not only paper charters.
+<a id="integrated-risk-governance"></a>
+**Integrated risk governance (Class A/B).**
+
+For **Class A** and **Class B**, operators and **Critical System Stewards** must run integrated risk governance across the systems and dependency chains they control or materially affect. These roles protect classification honesty so the finding System Alignment Certification will verify stays honest — they are **around** the [System Classification Record](../core_05defs_continuity.md#system-classification-record-constitutional), not extra fields inside it, and they do **not** replace forum-supervised SAC. SCR field duties stay in **[CS-3 Part A §7](cs_03_a_system_classification_machinery.md#7-classification-governance-disclosure-and-challenge)**.
+
+This block is practical vocabulary for large-organization risk coordination. It does **not** redefine *Risk*, *Material*, *Dependency*, or related assessment standards — those stay with **Chapter Five** and the CS-3 dimensions in **[CS-3 Part A §2](cs_03_a_system_classification_machinery.md#2-classification-dimensions-and-real-world-application)**. Anti-evasion and misclassification bars remain in **[CS-3 Part A §1.3](cs_03_a_system_classification_machinery.md#13-mandatory-functional-classification)** and **[§7.6](cs_03_a_system_classification_machinery.md#76-misclassification-and-evasion)**; shared correction and default discipline remains in **[CJS-5.15](../corpus_joint_structure/cjs_05a_accountability_operations.md#cjs-515-material-classification-record-honesty)**.
+
+- **Risk appetite and tolerance** — publish clear, reviewable statements of how much leftover risk (after prevention and mitigation) the organization accepts, by level and type. Those statements must stay inside foundational requirements (**Chapter One**, **Chapter Six, Articles V through IX**, and **Chapter Five** where material), and must reconcile with the System Classification Record without violating **CJS-5.11**, **CJS-5.7**, or **CJS-5.12** in **corpus_joint_structure.md**.
+- **Who owns the risk picture** — name an accountable function (or clearly split functions with non-overlapping scopes) for the full risk picture of the classified system and its material dependencies, including cross-system and cross-steward interfaces. Ownership covers identification, assessment, treatment, monitoring, and escalation, and stays **traceable** through governance changes, delegation, and subcontracting.
+- **Three lines of defense (functional analogy)** — for Class A and Class B, separate roles **as far as feasible** without breaking survival-critical continuity:
+  - **First line** — operators and builders managing risk in design, deployment, and day-to-day running
+  - **Second line** — oversight, standards, or challenge functions watching aggregate risk, aligning treatment with the System Classification Record and [Constitutional Constraints](../core_05defs_integrative.md#constitutional-constraint), and escalating material gaps; independent enough of first-line incentives for **credible challenge** where A/B stakes require it
+  - **Third line** — independent assurance under **[CS-3 Part A §7.3](cs_03_a_system_classification_machinery.md#73-auditability-and-verification)** and **Article XV-A**, checking whether appetite, tolerance, and treatments match **observed behavior and the System Classification Record**
+- Where strict separation is **not feasible** (for example, small organizations), use compensating transparency, rotation, independent review, or multi-steward checks that yield **equivalent assurance** scaled to impact and dependency — read with `corpus_institutions.md` **CI-3** and **CJS-5.11** / **CJS-5.7**
+
+Failure integrity, intervention, and steward scaling co-apply through **corpus_joint_structure.md** (**CJS-5** clusters) and the rest of this CS-4 file; see **[CS-1 — Operates in conjunction with](cs_01_scope_purpose_identifier_rules.md#operates-in-conjunction-with)**.
+
+**Class C, L, and P** still need **proportional** risk management. They do **not** need the full three-lines model unless scale, coupling, or dependency makes similar measures warranted under ordinary classification and stewardship rules.
+
+**Periodic oversight effectiveness review:** On cadences **proportional to class and tier**, assess whether oversight/audit/challenge (**including [Integrated risk governance (Class A/B)](#integrated-risk-governance)** second line where applicable) **actually detect**, **escalate**, and **remediate** misalignment—not only paper charters.
 
 Use **independent** or **functionally independent** evaluators where **Class A/B** or **CSS-A/B** stakes require.
 

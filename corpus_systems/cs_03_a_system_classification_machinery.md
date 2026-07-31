@@ -51,7 +51,7 @@ CS-3 implements:
   - **Boundaries, timeframes, and resilience** — effective boundaries, survival-relevant timeframes, and class-scaled continuity ([§5](#5-boundaries-timeframes-and-resilience))
 - **How class is applied and governed**
   - **Domain mapping and scarce-capacity handling** — published domain crosswalk, ordinary application examples, and API/traffic priority rules ([§6](#6-domain-taxonomy-examples-and-scarce-capacity-handling))
-  - **Classification governance** — own, disclose, audit, challenge, update, and correct the System Classification Record; Class A/B org roles around it; prove the class it states ([§7](#7-classification-governance-disclosure-and-challenge))
+  - **Classification governance** — own, disclose, audit, challenge, update, and correct the System Classification Record; prove the class it states; Class A/B org risk roles live in **[CS-4 — Integrated risk governance (Class A/B)](cs_04_critical_system_stewardship.md#integrated-risk-governance)** ([§7](#7-classification-governance-disclosure-and-challenge))
   - **Joint reading** — CS families, CJS clusters, Protocol A, and Chapter Five meanings co-apply per **[CS-1 — Operates in conjunction with](cs_01_scope_purpose_identifier_rules.md#operates-in-conjunction-with)**
 
 <a id="11-holistic-classification"></a>
@@ -374,7 +374,7 @@ This section owns what operators must **do with** the System Classification Reco
 | [§7.5](#75-reclassification-and-continuous-update) | **Updating** it |
 | [§7.6](#76-misclassification-and-evasion) | **Correcting** it |
 | [§7.7](#77-default-and-precautionary-classification) | **Defaulting** uncertain fields / barring quiet lowering |
-| [§7.8](#78-integrated-risk-governance) | **Surrounding** it with Class A/B org roles |
+| [§7.8](#78-integrated-risk-governance) | **Pointing** Class A/B org risk roles to CS-4 |
 | [§7.9](#79-class-scaled-assurance-and-supporting-infrastructure) | **Proving** the class it states |
 
 <a id="71-responsibility-for-classification"></a>
@@ -477,28 +477,15 @@ How those failures count as **certification defects**, and any standing bridge, 
 Shared discipline lives in **[CJS-5.15 — Material classification-record honesty](../corpus_joint_structure/cjs_05a_accountability_operations.md#cjs-515-material-classification-record-honesty)**. CS-3 ambiguity and uncertainty defaults (Foundational Rights protection; highest-plausible / worst-case accounting) are owned in [§1.2](#12-classification-and-existential-risk) and [§1.4](#14-alignment-status-recognition-and-ambiguity-default). This subsection applies them to the System Classification Record:
 
 - State any **precautionary class** relied on, and any conditions pending resolution, **in the System Classification Record**.
-- **Lowering** a class on the System Classification Record requires evidence, documentation, and successful review under the CJS-5.15 rule — and stays open to Integrity forum review under [§1.4](#14-alignment-status-recognition-and-ambiguity-default), Chapter Eleven, and `corpus_forum.md` **CF-7.2** (*Constitutional alignment recognition and review*) when a credible alignment concern is raised. Passing an internal check alone does **not** defeat a timely forum challenge. Where recognition or continued reliance already rests on a System Certification Record, material requests also route through **[Part B §16](../core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion)**.
+- **Lowering** a class on the System Classification Record requires evidence, documentation, and successful review under the CJS-5.15 rule:
+  - stays open to Integrity forum review under [§1.4](#14-alignment-status-recognition-and-ambiguity-default), Chapter Eleven, and `corpus_forum.md` **CF-7.2** (*Constitutional alignment recognition and review*) when a credible alignment concern is raised
+  - Passing an internal check alone does **not** defeat a timely forum challenge
+  - Where recognition or continued reliance already rests on a System Certification Record, a material request to lower class must also reopen certification review under **[Chapter Seven Part B §16](../core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion)** — it is not a System Classification Record-only change
 
 <a id="78-integrated-risk-governance"></a>
 **7.8. Org roles that protect the System Classification Record (Class A/B).**
 
-*System Classification Record duty:* surround the file with accountable Class A/B risk roles so the finding System Alignment Certification will verify stays honest — these roles are **around** the record, not extra fields inside it, and they do **not** replace forum-supervised SAC.
-
-For **Class A** and **Class B**, operators and **Critical System Stewards** (**[CS-4 — Critical system stewardship](cs_04_critical_system_stewardship.md)**) must run integrated risk governance across the systems and dependency chains they control or materially affect.
-
-This subsection is practical vocabulary for large-organization risk coordination. It does **not** redefine *Risk*, *Material*, *Dependency*, or related assessment standards — those stay with **Chapter Five** and the CS-3 dimensions in [§2](#2-classification-dimensions-and-real-world-application). Anti-evasion and misclassification bars remain in [§1.3](#13-mandatory-functional-classification) and [§7.6](#76-misclassification-and-evasion); shared correction and default discipline remains in **[CJS-5.15](../corpus_joint_structure/cjs_05a_accountability_operations.md#cjs-515-material-classification-record-honesty)**.
-
-- **Risk appetite and tolerance** — publish clear, reviewable statements of how much leftover risk (after prevention and mitigation) the organization accepts, by level and type. Those statements must stay inside foundational requirements (**Chapter One**, **Chapter Six, Articles V through IX**, and **Chapter Five** where material), and must reconcile with the System Classification Record without violating **CJS-5.11**, **CJS-5.7**, or **CJS-5.12** in **corpus_joint_structure.md**.
-- **Who owns the risk picture** — name an accountable function (or clearly split functions with non-overlapping scopes) for the full risk picture of the classified system and its material dependencies, including cross-system and cross-steward interfaces. Ownership covers identification, assessment, treatment, monitoring, and escalation, and stays **traceable** through governance changes, delegation, and subcontracting.
-- **Three lines of defense (functional analogy)** — for Class A and Class B, separate roles **as far as feasible** without breaking survival-critical continuity:
-  - **First line** — operators and builders managing risk in design, deployment, and day-to-day running
-  - **Second line** — oversight, standards, or challenge functions watching aggregate risk, aligning treatment with the System Classification Record and [Constitutional Constraints](../core_05defs_integrative.md#constitutional-constraint), and escalating material gaps; independent enough of first-line incentives for **credible challenge** where A/B stakes require it
-  - **Third line** — independent assurance under [§7.3](#73-auditability-and-verification) and **Article XV-A**, checking whether appetite, tolerance, and treatments match **observed behavior and the System Classification Record**
-- Where strict separation is **not feasible** (for example, small organizations), use compensating transparency, rotation, independent review, or multi-steward checks that yield **equivalent assurance** scaled to impact and dependency — read with `corpus_institutions.md` **CI-3** and **CJS-5.11** / **CJS-5.7**
-
-Failure integrity, intervention, and steward scaling co-apply through **corpus_joint_structure.md** (**CJS-5** clusters) and **[CS-4](cs_04_critical_system_stewardship.md)**; see **[CS-1 — Operates in conjunction with](cs_01_scope_purpose_identifier_rules.md#operates-in-conjunction-with)**.
-
-**Class C, L, and P** still need **proportional** risk management. They do **not** need the full three-lines model unless scale, coupling, or dependency makes similar measures warranted under ordinary classification and stewardship rules.
+*System Classification Record duty:* Class A/B org risk roles that protect classification honesty live in **[CS-4 — Integrated risk governance (Class A/B)](cs_04_critical_system_stewardship.md#integrated-risk-governance)**. Those roles surround the System Classification Record; they are **not** extra fields inside it, and they do **not** replace forum-supervised SAC or the SCR field duties in [§7.1](#71-responsibility-for-classification)–[§7.7](#77-default-and-precautionary-classification) and [§7.9](#79-class-scaled-assurance-and-supporting-infrastructure).
 
 <a id="79-class-scaled-assurance-and-supporting-infrastructure"></a>
 <a id="710-class-scaled-assurance-and-supporting-infrastructure"></a>
@@ -506,9 +493,18 @@ Failure integrity, intervention, and steward scaling co-apply through **corpus_j
 
 *System Classification Record duty:* show that assurance depth matching the record’s class was **actually evaluated**, not merely claimed, so **[Chapter Seven §2](../core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation)** can verify that proof on the System Certification Record.
 
-Technical forums may supply measurements and tests; that does not replace the evaluation duty. Resilience, continuity, and supporting-infrastructure toughness scale with the class stated in the System Classification Record under [§5](#5-boundaries-timeframes-and-resilience).
+Who must do what:
 
-**[Chapter Seven §2](../core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation)** requires certification to confirm that class-scaled assurance, infrastructure robustness, and regression coverage match CS-3 and Protocol A for the assigned class, and to state any material gaps on the System Certification Record under **[Part B §11.1](../core_07_b_system_alignment_certification_record_process.md#111-minimum-record-contents)**. Regression scope, results, known failures, remediations, and accepted residual risk for each recertification or revalidation cycle live in **[Protocol A — System Design, Testing, Verification, and Deployment](cs_protocol_a_system_design_testing_verification_deployment.md)** (*Recertification, regression testing, and certification defects*), read with **corpus_joint_structure.md** (**CJS-5.19** through **CJS-5.23** and related clusters). Skipping required regression, relying on outdated results, or leaving known breaks unfixed are certification defects under Protocol A and Chapter Seven §2 — distinct from, but often concurrent with, System Classification Record defects under [§7.6](#76-misclassification-and-evasion).
+- **Operator** — prove the class the System Classification Record states:
+  - show that assurance depth matching that class was **actually evaluated**, not merely claimed
+  - scale resilience, continuity, and supporting-infrastructure toughness to that class under [§5](#5-boundaries-timeframes-and-resilience)
+  - do **not** treat technical-forum measurements or tests as a substitute for that evaluation duty
+- **Technical forums** — may supply measurements and tests that feed the proof; they do **not** absorb the operator’s evaluation duty
+- **Certification under Chapter Seven §2** — when System Alignment Certification runs, confirm and record:
+  - that class-scaled assurance, infrastructure robustness, and regression coverage match CS-3 and Protocol A for the assigned class
+  - any material gaps on the System Certification Record under **[Part B §11.1](../core_07_b_system_alignment_certification_record_process.md#111-minimum-record-contents)**
+- **Protocol A** — owns regression scope, results, known failures, remediations, and accepted residual risk for each recertification or revalidation cycle (**[Protocol A — System Design, Testing, Verification, and Deployment](cs_protocol_a_system_design_testing_verification_deployment.md)** (*Recertification, regression testing, and certification defects*)), read with **corpus_joint_structure.md** (**CJS-5.19** through **CJS-5.23** and related clusters)
+- **Defects** — skipping required regression, relying on outdated results, or leaving known breaks unfixed are certification defects under Protocol A and Chapter Seven §2 — distinct from, but often concurrent with, System Classification Record defects under [§7.6](#76-misclassification-and-evasion)
 
 <a id="79-high-dependency-private-chokepoints"></a>
 Private chokepoint access-continuity duties (payments, identity, compute, messaging, hosting, distribution, discovery, and similar layers) live in **[CS-4 — Critical system stewardship](cs_04_critical_system_stewardship.md#private-chokepoint-access-continuity)** (relocated from former §7.9).

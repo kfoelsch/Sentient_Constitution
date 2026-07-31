@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-07-30T20:11:19+00:00",
+  "generated_at": "2026-07-31T01:25:31+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -2161,7 +2161,7 @@
           },
           {
             "file": "core_05defs_continuity.md",
-            "count": 84,
+            "count": 85,
             "anchors": [
               "#anti-displacement-floor-constitutional",
               "#avoidable-burden",
@@ -2169,7 +2169,6 @@
               "#burden-reduction-duty-constitutional",
               "#cascading-failure",
               "#charter",
-              "#system-classification-record-constitutional",
               "#constitutional-efficiency",
               "#constitutional-emergency-and-contingency",
               "#creative-work-attribution-constitutional",
@@ -2213,10 +2212,12 @@
               "#surveillance-boundary",
               "#sustainability",
               "#system-alignment-certification-constitutional",
-              "#system-certification-record-constitutional",
               "#system-boundaries",
               "#system-boundary-integrity",
               "#system-capture",
+              "#system-certification-record-constitutional",
+              "#system-classification-record-constitutional",
+              "#system-data-types-record-constitutional",
               "#system-definition",
               "#systemic",
               "#systemic-lock-in",
@@ -3457,7 +3458,7 @@
           },
           {
             "file": "core_05apex_continuity_aim.md",
-            "count": 47,
+            "count": 48,
             "anchors": [
               "#continuity-aim-constitutional",
               "#continuity-measurement-family"
@@ -3495,10 +3496,11 @@
           },
           {
             "file": "core_05defs_accountability.md",
-            "count": 185,
+            "count": 193,
             "anchors": [
               "#accountability-contestability-semi-independent",
               "#attributable-action-constitutional",
+              "#attribution-integrity-constitutional",
               "#capture-of-resolution-pathways",
               "#contestability",
               "#feasibility",
@@ -3525,7 +3527,7 @@
           },
           {
             "file": "core_05defs_continuity.md",
-            "count": 622,
+            "count": 646,
             "anchors": [
               "#anti-displacement-floor-constitutional",
               "#avoidable-burden",
@@ -3533,7 +3535,6 @@
               "#burden-reduction-duty-constitutional",
               "#cascading-failure",
               "#charter",
-              "#system-classification-record-constitutional",
               "#constitutional-efficiency",
               "#constitutional-emergency-and-contingency",
               "#creative-work-attribution-constitutional",
@@ -3581,12 +3582,14 @@
               "#surveillance-boundary",
               "#sustainability",
               "#system-alignment-certification-constitutional",
-              "#system-certification-record-constitutional",
               "#system-alignment-certification-semi-independent",
               "#system-boundaries",
               "#system-boundaries-integrity-and-exit",
               "#system-boundary-integrity",
               "#system-capture",
+              "#system-certification-record-constitutional",
+              "#system-classification-record-constitutional",
+              "#system-data-types-record-constitutional",
               "#system-definition",
               "#systemic",
               "#systemic-effects-and-capture-semi-independent",
@@ -3601,7 +3604,7 @@
           },
           {
             "file": "core_05defs_integrative.md",
-            "count": 35,
+            "count": 36,
             "anchors": [
               "#authority-stack",
               "#constitutional-contract-layer",
@@ -3614,7 +3617,7 @@
           },
           {
             "file": "core_05defs_oversight.md",
-            "count": 184,
+            "count": 188,
             "anchors": [
               "#adversarial-scaled-and-exploited-conditions",
               "#auditability",
@@ -3629,6 +3632,7 @@
               "#observability",
               "#proxy-divergence",
               "#proxy-metric-gaming-and-indicator-reality-gaps",
+              "#public-oversight-baseline-disclosure",
               "#transparency",
               "#truth-constitutional-constraint",
               "#verifiability"
@@ -3727,11 +3731,12 @@
           },
           {
             "file": "core_07_a_system_alignment_certification_evaluation.md",
-            "count": 32,
+            "count": 37,
             "anchors": [
               "#2-system-class-evaluation",
               "#3-whole-system-certification-evaluation",
               "#36-time-consistency-constraint",
+              "#4-data-types-and-handling-evaluation",
               "#5-ecological-footprint-evaluation",
               "#6-proportionate-cross-system-support-evaluation",
               "#chapter-seven-system-alignment-certification"
@@ -3739,7 +3744,7 @@
           },
           {
             "file": "core_07_b_system_alignment_certification_record_process.md",
-            "count": 10,
+            "count": 13,
             "anchors": [
               "#11-certification-record",
               "#111-minimum-record-contents",
@@ -3760,7 +3765,7 @@
           },
           {
             "file": "core_11-11_forum.md",
-            "count": 5,
+            "count": 6,
             "anchors": [
               "#43-institutional-forums",
               "#chapter-eleven-forums-and-jurisdiction"
@@ -3786,7 +3791,7 @@
           },
           {
             "file": "corpus_forum.md",
-            "count": 1,
+            "count": 2,
             "anchors": []
           },
           {
@@ -3810,7 +3815,7 @@
           },
           {
             "file": "corpus_systems.md",
-            "count": 8,
+            "count": 9,
             "anchors": []
           },
           {
@@ -4729,10 +4734,9 @@
           },
           {
             "file": "core_05defs_continuity.md",
-            "count": 64,
+            "count": 68,
             "anchors": [
               "#charter",
-              "#system-classification-record-constitutional",
               "#dependency",
               "#ecological-footprint",
               "#ecological-integrity-constitutional",
@@ -4746,8 +4750,10 @@
               "#safe-conditions-constitutional",
               "#sustainability",
               "#system-alignment-certification-constitutional",
-              "#system-certification-record-constitutional",
               "#system-boundaries",
+              "#system-certification-record-constitutional",
+              "#system-classification-record-constitutional",
+              "#system-data-types-record-constitutional",
               "#systemic-lock-in",
               "#trust",
               "#trust-degradation-and-misleading-reliance",
@@ -4821,9 +4827,10 @@
           },
           {
             "file": "core_07_b_system_alignment_certification_record_process.md",
-            "count": 71,
+            "count": 72,
             "anchors": [
               "#11-certification-record",
+              "#111-minimum-record-contents",
               "#12-transparency-auditability-and-contestability",
               "#13-forum-supervision-and-component-roles",
               "#14-supervisory-sequence-and-contestability-chain",
@@ -4879,10 +4886,11 @@
           },
           {
             "file": "corpus_systems/cs_02_a_information_types_and_handling.md",
-            "count": 3,
+            "count": 4,
             "anchors": [
               "#52-reclassification-and-lifecycle-governance",
-              "#7-type-o-baseline-for-class-abc-systems"
+              "#7-type-o-baseline-for-class-abc-systems",
+              "#8-system-data-types-record-governance"
             ]
           },
           {
@@ -4941,14 +4949,15 @@
           },
           {
             "file": "core_05defs_continuity.md",
-            "count": 14,
+            "count": 16,
             "anchors": [
               "#charter",
-              "#system-classification-record-constitutional",
               "#ecological-footprint",
               "#proportionate-cross-system-support-constitutional",
               "#safe-conditions-constitutional",
-              "#system-certification-record-constitutional"
+              "#system-certification-record-constitutional",
+              "#system-classification-record-constitutional",
+              "#system-data-types-record-constitutional"
             ]
           },
           {
@@ -5052,9 +5061,10 @@
           },
           {
             "file": "corpus_systems/cs_02_a_information_types_and_handling.md",
-            "count": 3,
+            "count": 4,
             "anchors": [
-              "#52-reclassification-and-lifecycle-governance"
+              "#52-reclassification-and-lifecycle-governance",
+              "#8-system-data-types-record-governance"
             ]
           },
           {
@@ -9543,7 +9553,7 @@
           },
           {
             "file": "core_05defs_continuity.md",
-            "count": 30,
+            "count": 32,
             "anchors": [
               "#charter",
               "#dependency",
@@ -9551,7 +9561,9 @@
               "#dependency-c",
               "#reversibility-constitutional",
               "#reversibility-constitutional-a",
-              "#reversibility-constitutional-c"
+              "#reversibility-constitutional-c",
+              "#system-classification-record-constitutional",
+              "#system-data-types-record-constitutional"
             ]
           },
           {
@@ -9598,6 +9610,13 @@
               "#article-xii-a-reliability-and-trustworthiness-baseline",
               "#article-xiii-a-security-intelligence-and-covert-power-limits",
               "#article-xix-interoperability-portability-and-exit-integrity"
+            ]
+          },
+          {
+            "file": "core_07_b_system_alignment_certification_record_process.md",
+            "count": 1,
+            "anchors": [
+              "#16-reopening-drift-and-non-evasion"
             ]
           },
           {
@@ -10460,12 +10479,13 @@
           },
           {
             "file": "core_05defs_continuity.md",
-            "count": 9,
+            "count": 10,
             "anchors": [
-              "#system-classification-record-constitutional",
               "#dependency",
               "#dependency-a",
               "#dependency-c",
+              "#system-classification-record-constitutional",
+              "#system-data-types-record-constitutional",
               "#system-definition",
               "#system-definition-a",
               "#system-definition-c"
@@ -10557,15 +10577,18 @@
         "targets": [
           {
             "file": "core_05defs_continuity.md",
-            "count": 2,
+            "count": 13,
             "anchors": [
               "#charter",
-              "#system-boundaries"
+              "#system-alignment-certification-constitutional",
+              "#system-boundaries",
+              "#system-certification-record-constitutional",
+              "#system-data-types-record-constitutional"
             ]
           },
           {
             "file": "core_05defs_oversight.md",
-            "count": 8,
+            "count": 9,
             "anchors": [
               "#public-oversight-baseline-disclosure",
               "#transparency"
@@ -10573,29 +10596,40 @@
           },
           {
             "file": "core_07_a_system_alignment_certification_evaluation.md",
-            "count": 2,
+            "count": 8,
             "anchors": [
               "#4-data-types-and-handling-evaluation"
             ]
           },
           {
             "file": "core_07_b_system_alignment_certification_record_process.md",
-            "count": 2,
+            "count": 13,
             "anchors": [
               "#11-certification-record",
-              "#111-minimum-record-contents"
+              "#111-minimum-record-contents",
+              "#12-transparency-auditability-and-contestability",
+              "#14-supervisory-sequence-and-contestability-chain",
+              "#16-reopening-drift-and-non-evasion"
             ]
           },
           {
             "file": "corpus_joint_structure/cjs_05_audit_process.md",
-            "count": 1,
+            "count": 3,
             "anchors": [
-              "#cjs-53-audit-process-home"
+              "#cjs-53-audit-process-home",
+              "#cjs-53-sibling-modes"
+            ]
+          },
+          {
+            "file": "corpus_joint_structure/cjs_05a_accountability_operations.md",
+            "count": 2,
+            "anchors": [
+              "#cjs-515-material-classification-record-honesty"
             ]
           },
           {
             "file": "corpus_joint_structure/cjs_05o_oversight_operations.md",
-            "count": 1,
+            "count": 2,
             "anchors": [
               "#cjs-54-audit-process-output-disclosure"
             ]
@@ -10614,6 +10648,11 @@
               "#type-o-open-public-baseline-disclosure-data",
               "#type-s-interaction-with-type-e"
             ]
+          },
+          {
+            "file": "corpus_systems/cs_03_a_system_classification_machinery.md",
+            "count": 1,
+            "anchors": []
           }
         ]
       },
@@ -10683,18 +10722,11 @@
           },
           {
             "file": "core_05defs_continuity.md",
-            "count": 17,
+            "count": 15,
             "anchors": [
-              "#system-classification-record-constitutional",
               "#system-alignment-certification-constitutional",
-              "#system-certification-record-constitutional"
-            ]
-          },
-          {
-            "file": "core_05defs_integrative.md",
-            "count": 1,
-            "anchors": [
-              "#constitutional-constraint"
+              "#system-certification-record-constitutional",
+              "#system-classification-record-constitutional"
             ]
           },
           {
@@ -10723,7 +10755,7 @@
           },
           {
             "file": "core_07_b_system_alignment_certification_record_process.md",
-            "count": 21,
+            "count": 17,
             "anchors": [
               "#111-minimum-record-contents",
               "#12-transparency-auditability-and-contestability",
@@ -10734,7 +10766,7 @@
           },
           {
             "file": "core_08-08_standing_assessment.md",
-            "count": 2,
+            "count": 1,
             "anchors": [
               "#chapter-eight-compliance-violation-and-standing-model"
             ]
@@ -10753,6 +10785,13 @@
             ]
           },
           {
+            "file": "corpus_joint_structure/cjs_05a_accountability_operations.md",
+            "count": 2,
+            "anchors": [
+              "#cjs-515-material-classification-record-honesty"
+            ]
+          },
+          {
             "file": "corpus_joint_structure/cjs_05o_oversight_operations.md",
             "count": 1,
             "anchors": [
@@ -10761,10 +10800,15 @@
           },
           {
             "file": "corpus_systems/cs_01_scope_purpose_identifier_rules.md",
-            "count": 4,
+            "count": 3,
             "anchors": [
               "#operates-in-conjunction-with"
             ]
+          },
+          {
+            "file": "corpus_systems/cs_02_a_information_types_and_handling.md",
+            "count": 1,
+            "anchors": []
           },
           {
             "file": "corpus_systems/cs_02_b_data_classifications.md",
@@ -10783,6 +10827,7 @@
             "file": "corpus_systems/cs_04_critical_system_stewardship.md",
             "count": 3,
             "anchors": [
+              "#integrated-risk-governance",
               "#private-chokepoint-access-continuity"
             ]
           },
@@ -10846,11 +10891,42 @@
             ]
           },
           {
-            "file": "corpus_systems/cs_03_a_system_classification_machinery.md",
-            "count": 2,
+            "file": "core_05defs_continuity.md",
+            "count": 1,
             "anchors": [
+              "#system-classification-record-constitutional"
+            ]
+          },
+          {
+            "file": "core_05defs_integrative.md",
+            "count": 1,
+            "anchors": [
+              "#constitutional-constraint"
+            ]
+          },
+          {
+            "file": "corpus_joint_structure/cjs_05a_accountability_operations.md",
+            "count": 1,
+            "anchors": [
+              "#cjs-515-material-classification-record-honesty"
+            ]
+          },
+          {
+            "file": "corpus_systems/cs_01_scope_purpose_identifier_rules.md",
+            "count": 1,
+            "anchors": [
+              "#operates-in-conjunction-with"
+            ]
+          },
+          {
+            "file": "corpus_systems/cs_03_a_system_classification_machinery.md",
+            "count": 6,
+            "anchors": [
+              "#13-mandatory-functional-classification",
+              "#2-classification-dimensions-and-real-world-application",
               "#7-classification-governance-disclosure-and-challenge",
-              "#78-integrated-risk-governance"
+              "#73-auditability-and-verification",
+              "#76-misclassification-and-evasion"
             ]
           },
           {
