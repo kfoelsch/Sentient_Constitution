@@ -195,13 +195,119 @@ A matching letter is never enough by itself. Record **both** the impact class an
 <a id="83-boundaries-failures-and-substrate-ladder"></a>
 #### 8.3 Boundaries, failures, and substrate ladder
 
-| Aspect | Class A | Class B | Class C | Class L | Class P |
-|--------|---------|---------|---------|---------|---------|
-| **Substrate / role** | Foundational survival substrate; directly determines or constrains survival-critical resources, environmental conditions, or societal systems | Infrastructure, control/routing, or access/dependency gateway layers; may not directly operate physical survival infrastructure but may be required for operation, coordination, or accessibility; systemic influence by enabling, constraining, or mediating other systems at scale | Indirect coordination-level: information flows, economic interaction, social coordination / collective behavior; may shape access, visibility, incentives, or outcomes; do **not** directly determine physical survival infrastructure or function as required operational dependencies for essential services | Limited, non-systemic: modest local coordination, service, or participation; do not materially affect substrate beyond localized non-systemic effects; do not materially shape large-scale public coordination, foundational systems, or survival-relevant conditions | Private, contained, non-systemic: may affect operator, voluntary participants, and immediate private environment; may involve experimentation/iteration/self-directed risk within the unit; do **not** materially shape shared infrastructure, public coordination, third-party rights, or broader ecosystem conditions |
-| **System boundaries** | Impacts extend to societal, environmental, or planetary scales; not replaceable within survival-relevant timeframes under normal or reasonably foreseeable conditions | Impacts extend across societal, national, or cross-domain scales as an operational dependency layer; may mediate system-user interaction and enable or constrain dependents | Influence coordination among participants; **not** operational prerequisites for critical infrastructure, essential services, or Class A/B systems; dependents can continue (including degraded modes) for core functionality | Effects extend beyond the operator; remain localized, bounded, and containable within limited social, organizational, or technical scope | Consequences **predominantly borne** within the private unit; failures contained under normal or reasonably foreseeable conditions; do not materially propagate to nonparticipants, shared systems, or external domains |
-| **Failures** | Immediate severe harm; near-immediate loss of survival conditions propagating without viable containment; cannot be meaningfully contained; may spread rapidly as [Cascading Failure](../core_05defs_continuity.md#cascading-failure) | System-wide operational degradation across dependents (survival not immediately threatened); impair operation, coordination, or accessibility; may produce cascading failure that remains containable/recoverable within survival-relevant timeframes; unmitigated/combined failures may escalate toward survival-critical impact | Disrupt coordination, participation, or interaction at scale; do not directly prevent critical infrastructure or essential services from operating; do not independently trigger systemic collapse; remain locally containable or sector-limited | May affect multiple participants within local boundaries; disruption, inconvenience, or bounded harm; must stay without systemic/cross-domain cascading failure; must stay containable and non-systemic in propagation potential under the [§8 CS-local “systemic”](#cs-local-systemic-classification-language) posture | Failures stay **within** the boundary; do not create meaningful downstream dependency, public risk, or systemic harm |
-| **Dependencies** | Absolute or near-absolute reliance; viable alternatives do not exist or cannot be activated in relevant timeframes | Significant and operationally embedded; not survival-critical in isolation where fallback exists in time; may be hard to replace short-term but recoverable under contingency | May become significant and hard to exit; stay replaceable with substantial time, coordination, and effort; recoverable without irreversible loss of critical societal function; evaluated at participant/organization/coordination level, **not** as operational prerequisites | May form among participants and local organizations; limited in scope; replaceable within reasonable time and effort; not effectively non-optional for large populations or critical functions | May exist within the unit or among fully voluntary participants; do not create meaningful outside reliance; remain optional outside the private unit |
-| **Effects / limits / mediation** | (See Class A eligibility includes and substrate row) | **Access and mediation:** may control, gate, or mediate access to critical infrastructure or essential services; may materially affect reliability, coordination, or accessibility of dependents; does **not** independently determine availability of survival-critical resources; does **not** constitute a time-critical path whose failure directly causes immediate loss of sentient life or survival conditions | May materially affect economic coordination, info-sphere flows, and institutional behavior; do not materially control critical infrastructure or essential survival services; impacts may be significant or widespread; Class C does **not** produce cross-domain cascading failure or **systemic dependency collapse** (see [§8 CS-local “systemic”](#cs-local-systemic-classification-language)) | May influence local coordination, services, exchanges, or participation; may create meaningful but bounded obligations; do not materially affect critical infrastructure, foundational systems, or large-scale public coordination; do not create systemic dependency or irreversible external effects beyond local scope | **Permitted private uses / hard limits:** may support personal use, experimentation, learning, creativity, and private coordination; may process sensitive or high-value information if that processing creates no material external impact or dependency; does **not** materially affect public coordination, shared governance, third-party rights, critical infrastructure, or essential services; does **not** materially or cumulatively externalize harm, risk, dependency, or constitutional burden. Remains Class P only if external effects stay incidental, non-recurring, and do not build expectations, coordination, or dependency beyond the unit |
+**Substrate / role**
+- **Class A**
+  - Foundational survival substrate
+  - Directly determines or constrains survival-critical resources, environmental conditions, or societal systems
+- **Class B**
+  - Infrastructure, control/routing, or access/dependency gateway layers
+  - May not directly operate physical survival infrastructure but may be required for operation, coordination, or accessibility
+  - Systemic influence by enabling, constraining, or mediating other systems at scale
+- **Class C**
+  - Indirect coordination-level: information flows, economic interaction, social coordination / collective behavior
+  - May shape access, visibility, incentives, or outcomes
+  - Do **not** directly determine physical survival infrastructure or function as required operational dependencies for essential services
+- **Class L**
+  - Limited, non-systemic: modest local coordination, service, or participation
+  - Do not materially affect substrate beyond localized non-systemic effects
+  - Do not materially shape large-scale public coordination, foundational systems, or survival-relevant conditions
+- **Class P**
+  - Private, contained, non-systemic
+  - May affect operator, voluntary participants, and immediate private environment
+  - May involve experimentation/iteration/self-directed risk within the unit
+  - Do **not** materially shape shared infrastructure, public coordination, third-party rights, or broader ecosystem conditions
+
+**System boundaries**
+- **Class A**
+  - Impacts extend to societal, environmental, or planetary scales
+  - Not replaceable within survival-relevant timeframes under normal or reasonably foreseeable conditions
+- **Class B**
+  - Impacts extend across societal, national, or cross-domain scales as an operational dependency layer
+  - May mediate system-user interaction and enable or constrain dependents
+- **Class C**
+  - Influence coordination among participants
+  - **Not** operational prerequisites for critical infrastructure, essential services, or Class A/B systems
+  - Dependents can continue (including degraded modes) for core functionality
+- **Class L**
+  - Effects extend beyond the operator
+  - Remain localized, bounded, and containable within limited social, organizational, or technical scope
+- **Class P**
+  - Consequences **predominantly borne** within the private unit
+  - Failures contained under normal or reasonably foreseeable conditions
+  - Do not materially propagate to nonparticipants, shared systems, or external domains
+
+**Failures**
+- **Class A**
+  - Immediate severe harm
+  - Near-immediate loss of survival conditions propagating without viable containment
+  - Cannot be meaningfully contained
+  - May spread rapidly as [Cascading Failure](../core_05defs_continuity.md#cascading-failure)
+- **Class B**
+  - System-wide operational degradation across dependents (survival not immediately threatened)
+  - Impair operation, coordination, or accessibility
+  - May produce cascading failure that remains containable/recoverable within survival-relevant timeframes
+  - Unmitigated/combined failures may escalate toward survival-critical impact
+- **Class C**
+  - Disrupt coordination, participation, or interaction at scale
+  - Do not directly prevent critical infrastructure or essential services from operating
+  - Do not independently trigger systemic collapse
+  - Remain locally containable or sector-limited
+- **Class L**
+  - May affect multiple participants within local boundaries
+  - Disruption, inconvenience, or bounded harm
+  - Must stay without systemic/cross-domain cascading failure
+  - Must stay containable and non-systemic in propagation potential under the [§8 CS-local “systemic”](#cs-local-systemic-classification-language) posture
+- **Class P**
+  - Failures stay **within** the boundary
+  - Do not create meaningful downstream dependency, public risk, or systemic harm
+
+**Dependencies**
+- **Class A**
+  - Absolute or near-absolute reliance
+  - Viable alternatives do not exist or cannot be activated in relevant timeframes
+- **Class B**
+  - Significant and operationally embedded
+  - Not survival-critical in isolation where fallback exists in time
+  - May be hard to replace short-term but recoverable under contingency
+- **Class C**
+  - May become significant and hard to exit
+  - Stay replaceable with substantial time, coordination, and effort
+  - Recoverable without irreversible loss of critical societal function
+  - Evaluated at participant/organization/coordination level, **not** as operational prerequisites
+- **Class L**
+  - May form among participants and local organizations
+  - Limited in scope
+  - Replaceable within reasonable time and effort
+  - Not effectively non-optional for large populations or critical functions
+- **Class P**
+  - May exist within the unit or among fully voluntary participants
+  - Do not create meaningful outside reliance
+  - Remain optional outside the private unit
+
+**Effects / limits / mediation**
+- **Class A**
+  - See Class A eligibility includes and substrate / role above
+- **Class B** — access and mediation
+  - May control, gate, or mediate access to critical infrastructure or essential services
+  - May materially affect reliability, coordination, or accessibility of dependents
+  - Does **not** independently determine availability of survival-critical resources
+  - Does **not** constitute a time-critical path whose failure directly causes immediate loss of sentient life or survival conditions
+- **Class C**
+  - May materially affect economic coordination, info-sphere flows, and institutional behavior
+  - Do not materially control critical infrastructure or essential survival services
+  - Impacts may be significant or widespread
+  - Does **not** produce cross-domain cascading failure or **systemic dependency collapse** (see [§8 CS-local “systemic”](#cs-local-systemic-classification-language))
+- **Class L**
+  - May influence local coordination, services, exchanges, or participation
+  - May create meaningful but bounded obligations
+  - Do not materially affect critical infrastructure, foundational systems, or large-scale public coordination
+  - Do not create systemic dependency or irreversible external effects beyond local scope
+- **Class P** — permitted private uses / hard limits
+  - May support personal use, experimentation, learning, creativity, and private coordination
+  - May process sensitive or high-value information if that processing creates no material external impact or dependency
+  - Does **not** materially affect public coordination, shared governance, third-party rights, critical infrastructure, or essential services
+  - Does **not** materially or cumulatively externalize harm, risk, dependency, or constitutional burden
+  - Remains Class P only if external effects stay incidental, non-recurring, and do not build expectations, coordination, or dependency beyond the unit
 
 <a id="84-operational-interpretation-posture"></a>
 #### 8.4 Operational interpretation posture
@@ -272,7 +378,7 @@ See **§8.1** (*Eligibility and threshold differentials*) — critical-path depe
 <a id="93-system-boundaries-and-failure-behavior"></a>
 #### 9.3 System boundaries and failure behavior
 
-See **§8.3** (*Boundaries, failures, and substrate ladder*) — **Class A** column.
+See **§8.3** (*Boundaries, failures, and substrate ladder*) — **Class A**.
 
 <a id="94-operational-interpretation"></a>
 #### 9.4 Operational interpretation
@@ -331,7 +437,7 @@ See **§8.2** (*Neighbor boundaries and dependency-axis correlation*) — **B↔
 <a id="103-substrate-impact-and-system-boundaries"></a>
 #### 10.3 Substrate impact and system boundaries
 
-See **§8.3** (*Boundaries, failures, and substrate ladder*) — **Class B** column (including access and mediation).
+See **§8.3** (*Boundaries, failures, and substrate ladder*) — **Class B** (including access and mediation).
 
 <a id="104-operational-interpretation"></a>
 #### 10.4 Operational interpretation
@@ -383,12 +489,12 @@ See **§8.1** (*Eligibility and threshold differentials*) — **Class C** column
 <a id="112-dependency-axis-and-substrate-impact"></a>
 #### 11.2 Dependency-axis relationship and substrate impact
 
-See **§8.2** (*Neighbor boundaries and dependency-axis correlation*) — Dep-C correlation — and **§8.3** (*Boundaries, failures, and substrate ladder*) — **Class C** substrate row.
+See **§8.2** (*Neighbor boundaries and dependency-axis correlation*) — Dep-C correlation — and **§8.3** (*Boundaries, failures, and substrate ladder*) — **Class C** substrate / role.
 
 <a id="113-system-boundaries-and-failure-behavior"></a>
 #### 11.3 System boundaries and failure behavior
 
-See **§8.3** (*Boundaries, failures, and substrate ladder*) — **Class C** column.
+See **§8.3** (*Boundaries, failures, and substrate ladder*) — **Class C**.
 
 <a id="114-operational-interpretation"></a>
 #### 11.4 Operational interpretation
@@ -443,7 +549,7 @@ See **§8.2** (*Neighbor boundaries and dependency-axis correlation*) — **C↔
 <a id="123-substrate-impact-and-system-boundaries"></a>
 #### 12.3 Substrate impact and system boundaries
 
-See **§8.3** (*Boundaries, failures, and substrate ladder*) — **Class L** column.
+See **§8.3** (*Boundaries, failures, and substrate ladder*) — **Class L**.
 
 <a id="124-operational-interpretation"></a>
 #### 12.4 Operational interpretation
@@ -494,12 +600,12 @@ See **§8.1** (*Eligibility and threshold differentials*) — **Class P** column
 <a id="132-dependency-axis-and-substrate-impact"></a>
 #### 13.2 Dependency-axis relationship and substrate impact
 
-See **§8.2** (*Neighbor boundaries and dependency-axis correlation*) — Dep-P correlation — and **§8.3** (*Boundaries, failures, and substrate ladder*) — **Class P** substrate row.
+See **§8.2** (*Neighbor boundaries and dependency-axis correlation*) — Dep-P correlation — and **§8.3** (*Boundaries, failures, and substrate ladder*) — **Class P** substrate / role.
 
 <a id="133-system-boundaries-and-boundary-conditions"></a>
 #### 13.3 System boundaries and boundary conditions
 
-See **§8.3** (*Boundaries, failures, and substrate ladder*) — **Class P** column (including permitted private uses / hard limits).
+See **§8.3** (*Boundaries, failures, and substrate ladder*) — **Class P** (including permitted private uses / hard limits).
 
 <a id="134-operational-interpretation"></a>
 #### 13.4 Operational interpretation
