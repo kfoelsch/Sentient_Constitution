@@ -47,7 +47,7 @@ CS-3 implements:
   - **Criticality, concentration, temporal, and adversarial factors** — operational criticality, concentration triggers, delayed/threshold behavior, and adversarial dynamics ([§3](#3-criticality-concentration-temporal-and-adversarial-factors))
 - **What the System Classification Record must state (dual axes)**
   - **Dependency typing** — applicable **dependency type(s)** (**Class A–P** reliance categories) as a distinct axis from impact class ([§4](#4-dependency-types-class-ap))
-  - **Impact-class catalog** — **Class A** through **Class P** impact definitions and scaled duties in **[Part B §8](cs_03_b_system_impact_classifications.md#8-system-impact-classifications)**
+  - **Impact-class catalog** — **Class A** through **Class P** impact definitions and scaled duties in **[Part B §§8–13](cs_03_b_system_impact_classifications.md#8-system-impact-classifications)**
   - **Boundaries, timeframes, and resilience** — effective boundaries, survival-relevant timeframes, and class-scaled continuity ([§5](#5-boundaries-timeframes-and-resilience))
 - **How class is applied and governed**
   - **Domain mapping and scarce-capacity handling** — published domain crosswalk, ordinary application examples, and API/traffic priority rules ([§6](#6-domain-taxonomy-examples-and-scarce-capacity-handling))
@@ -225,7 +225,7 @@ Governance timing for acting on these triggers — including prompt reclassifica
 
 *In plain terms: separately record how hard it is to replace the system — Absolute, Operational, Coordination, Limited, or none meaningful — using the same Class letters as impact classes, without treating matching letters as the same finding.*
 
-**Dual-axis rule:** **Class A–P** letters label **two distinct axes** under CS-3. This section owns **dependency types** (reliance categories). **[Part B §8](cs_03_b_system_impact_classifications.md#8-system-impact-classifications)** owns **impact classes** (Survival-critical through Personal/private). A [System Classification Record](../core_05defs_continuity.md#system-classification-record-constitutional) must state **both** the applicable **dependency type(s)** and the **impact class**. Matching letters **correlate often** but **do not** collapse the axes into one finding.
+**Dual-axis rule:** **Class A–P** letters label **two distinct axes** under CS-3. This section owns **dependency types** (reliance categories). **[Part B §§8–13](cs_03_b_system_impact_classifications.md#8-system-impact-classifications)** owns **impact classes** (Survival-critical through Personal/private). A [System Classification Record](../core_05defs_continuity.md#system-classification-record-constitutional) must state **both** the applicable **dependency type(s)** and the **impact class**. Matching letters **correlate often** but **do not** collapse the axes into one finding.
 
 **Dependency, interaction, and boundary classification overview:** System classification reflects combined impact, dependency, and risk. **Dependency classification** describes structure and strength of reliance, and must account for the following when they materially alter reliance:
 

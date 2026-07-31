@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-07-31T01:25:31+00:00",
+  "generated_at": "2026-07-31T04:19:28+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -10747,7 +10747,7 @@
           },
           {
             "file": "core_07_a_system_alignment_certification_evaluation.md",
-            "count": 11,
+            "count": 10,
             "anchors": [
               "#2-system-class-evaluation",
               "#3-whole-system-certification-evaluation"
@@ -10843,15 +10843,36 @@
         "targets": [
           {
             "file": "core_05defs_continuity.md",
-            "count": 2,
+            "count": 33,
             "anchors": [
               "#cascading-failure",
-              "#system-classification-record-constitutional"
+              "#dependency",
+              "#existential-risk",
+              "#risk",
+              "#system-classification-record-constitutional",
+              "#systemic",
+              "#systemic-materiality"
+            ]
+          },
+          {
+            "file": "core_05defs_oversight.md",
+            "count": 6,
+            "anchors": [
+              "#classification-scaled-governance",
+              "#material-impact",
+              "#materiality-determination"
+            ]
+          },
+          {
+            "file": "core_11-11_forum.md",
+            "count": 2,
+            "anchors": [
+              "#6-timely-resolution-materiality-tiers-and-anti-delay-discipline"
             ]
           },
           {
             "file": "corpus_systems/cs_03_a_system_classification_machinery.md",
-            "count": 35,
+            "count": 37,
             "anchors": [
               "#2-classification-dimensions-and-real-world-application",
               "#22-real-world-application",
@@ -10869,8 +10890,10 @@
           },
           {
             "file": "corpus_systems/cs_04_critical_system_stewardship.md",
-            "count": 1,
-            "anchors": []
+            "count": 7,
+            "anchors": [
+              "#integrated-risk-governance"
+            ]
           },
           {
             "file": "corpus_systems/cs_protocol_b_system_comprehensibility_complexity_stewardship.md",
