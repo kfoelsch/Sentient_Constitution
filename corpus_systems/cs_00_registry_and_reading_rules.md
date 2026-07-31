@@ -95,7 +95,7 @@ Unless another reference pattern is stated, **Article** labels with Roman numera
 | **CS-2, Part A** | Handling rules (§1–§7) | [cs_02_a_information_types_and_handling.md](cs_02_a_information_types_and_handling.md) |
 | **CS-2, Part B** | Data classifications (§8; Type E–S including Type O) | [cs_02_b_data_classifications.md](cs_02_b_data_classifications.md) |
 | **CS-3, Part A** | Classification machinery (§1–§7; Dep-A–P dependency types) | [cs_03_a_system_classification_machinery.md](cs_03_a_system_classification_machinery.md) |
-| **CS-3, Part B** | System impact classifications (§8 overview; §§9–13 Class A–P) | [cs_03_b_system_impact_classifications.md](cs_03_b_system_impact_classifications.md) |
+| **CS-3, Part B** | System impact classifications (§8 overview and aspect-comparative matrices; §§9–13 Class A–P cards) | [cs_03_b_system_impact_classifications.md](cs_03_b_system_impact_classifications.md) |
 | **CS-4 — Critical system stewardship** | Critical system stewardship | [cs_04_critical_system_stewardship.md](cs_04_critical_system_stewardship.md) |
 | **Protocol A** | System design, testing, verification, and deployment | [cs_protocol_a_system_design_testing_verification_deployment.md](cs_protocol_a_system_design_testing_verification_deployment.md) |
 | **Protocol B** | System comprehensibility and complexity stewardship | [cs_protocol_b_system_comprehensibility_complexity_stewardship.md](cs_protocol_b_system_comprehensibility_complexity_stewardship.md) |

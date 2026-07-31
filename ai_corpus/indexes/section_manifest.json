@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-07-31T04:28:18+00:00",
+  "generated_at": "2026-07-31T13:21:52+00:00",
   "files": {
     "core_00_preamble.md": {
       "total_lines": 248,
@@ -6891,265 +6891,307 @@
       ]
     },
     "corpus_systems/cs_03_b_system_impact_classifications.md": {
-      "total_lines": 826,
+      "total_lines": 460,
       "sections": [
         {
           "header": "CS-3, Part B: System impact classifications",
           "level": 2,
           "line_start": 2,
-          "line_end": 826,
+          "line_end": 460,
           "anchor": "#cs-3-part-b-system-impact-classifications"
         },
         {
           "header": "8. System impact classifications",
           "level": 3,
-          "line_start": 22,
-          "line_end": 57,
+          "line_start": 24,
+          "line_end": 174,
           "anchor": "#8-system-impact-classifications"
+        },
+        {
+          "header": "8.1 Eligibility and threshold differentials",
+          "level": 4,
+          "line_start": 77,
+          "line_end": 94,
+          "anchor": "#81-eligibility-and-threshold-differentials"
+        },
+        {
+          "header": "8.2 Neighbor boundaries and dependency-axis correlation",
+          "level": 4,
+          "line_start": 95,
+          "line_end": 116,
+          "anchor": "#82-neighbor-boundaries-and-dependency-axis-correlation"
+        },
+        {
+          "header": "8.3 Boundaries, failures, and substrate ladder",
+          "level": 4,
+          "line_start": 117,
+          "line_end": 127,
+          "anchor": "#83-boundaries-failures-and-substrate-ladder"
+        },
+        {
+          "header": "8.4 Operational interpretation posture",
+          "level": 4,
+          "line_start": 128,
+          "line_end": 137,
+          "anchor": "#84-operational-interpretation-posture"
+        },
+        {
+          "header": "8.5 Reclassification edges",
+          "level": 4,
+          "line_start": 138,
+          "line_end": 152,
+          "anchor": "#85-reclassification-edges"
+        },
+        {
+          "header": "8.6 Scaled-duties intensity",
+          "level": 4,
+          "line_start": 153,
+          "line_end": 174,
+          "anchor": "#86-scaled-duties-intensity"
         },
         {
           "header": "9. Class A: Survival-critical, foundational, and irreplaceable systems",
           "level": 3,
-          "line_start": 58,
-          "line_end": 199,
+          "line_start": 175,
+          "line_end": 231,
           "anchor": "#9-class-a-survival-critical-foundational-and-irreplaceable-systems"
         },
         {
           "header": "9.1 Eligibility",
           "level": 4,
-          "line_start": 65,
-          "line_end": 77,
+          "line_start": 184,
+          "line_end": 188,
           "anchor": "#91-eligibility"
         },
         {
           "header": "9.2 Critical-path dependency and dependency-axis relationship",
           "level": 4,
-          "line_start": 78,
-          "line_end": 88,
+          "line_start": 189,
+          "line_end": 193,
           "anchor": "#92-critical-path-and-dependency-axis"
         },
         {
           "header": "9.3 System boundaries and failure behavior",
           "level": 4,
-          "line_start": 89,
-          "line_end": 107,
+          "line_start": 194,
+          "line_end": 198,
           "anchor": "#93-system-boundaries-and-failure-behavior"
         },
         {
           "header": "9.4 Operational interpretation",
           "level": 4,
-          "line_start": 108,
-          "line_end": 120,
+          "line_start": 199,
+          "line_end": 203,
           "anchor": "#94-operational-interpretation"
         },
         {
           "header": "9.5 Evolution and reclassification",
           "level": 4,
-          "line_start": 121,
-          "line_end": 131,
+          "line_start": 204,
+          "line_end": 208,
           "anchor": "#95-evolution-and-reclassification"
         },
         {
           "header": "9.6 Scaled duties",
           "level": 4,
-          "line_start": 132,
-          "line_end": 199,
+          "line_start": 209,
+          "line_end": 231,
           "anchor": "#96-scaled-duties"
         },
         {
           "header": "10. Class B: Critical, high-dependency, systemically significant systems",
           "level": 3,
-          "line_start": 200,
-          "line_end": 361,
+          "line_start": 232,
+          "line_end": 290,
           "anchor": "#10-class-b-critical-high-dependency-systemically-significant-systems"
         },
         {
           "header": "10.1 Eligibility and typical patterns",
           "level": 4,
-          "line_start": 209,
-          "line_end": 225,
+          "line_start": 243,
+          "line_end": 247,
           "anchor": "#101-eligibility-and-typical-patterns"
         },
         {
-          "header": "10.2 Escalation, Class C boundary, and dependency-axis relationship",
+          "header": "10.2 Class C boundary and dependency-axis relationship",
           "level": 4,
-          "line_start": 226,
-          "line_end": 243,
+          "line_start": 248,
+          "line_end": 252,
           "anchor": "#102-escalation-boundary-and-dependency-axis"
         },
         {
           "header": "10.3 Substrate impact and system boundaries",
           "level": 4,
-          "line_start": 244,
-          "line_end": 274,
+          "line_start": 253,
+          "line_end": 257,
           "anchor": "#103-substrate-impact-and-system-boundaries"
         },
         {
           "header": "10.4 Operational interpretation",
           "level": 4,
-          "line_start": 275,
-          "line_end": 287,
+          "line_start": 258,
+          "line_end": 262,
           "anchor": "#104-operational-interpretation"
         },
         {
           "header": "10.5 Evolution and reclassification",
           "level": 4,
-          "line_start": 288,
-          "line_end": 296,
+          "line_start": 263,
+          "line_end": 267,
           "anchor": "#105-evolution-and-reclassification"
         },
         {
           "header": "10.6 Scaled duties",
           "level": 4,
-          "line_start": 297,
-          "line_end": 361,
+          "line_start": 268,
+          "line_end": 290,
           "anchor": "#106-scaled-duties"
         },
         {
           "header": "11. Class C: Coordinated, high-dependency, non-critical systems",
           "level": 3,
-          "line_start": 362,
-          "line_end": 510,
+          "line_start": 291,
+          "line_end": 345,
           "anchor": "#11-class-c-coordinated-high-dependency-non-critical-systems"
         },
         {
           "header": "11.1 Minimum threshold and characteristics",
           "level": 4,
-          "line_start": 369,
-          "line_end": 386,
+          "line_start": 300,
+          "line_end": 304,
           "anchor": "#111-minimum-threshold-and-characteristics"
         },
         {
           "header": "11.2 Dependency-axis relationship and substrate impact",
           "level": 4,
-          "line_start": 387,
-          "line_end": 400,
+          "line_start": 305,
+          "line_end": 309,
           "anchor": "#112-dependency-axis-and-substrate-impact"
         },
         {
           "header": "11.3 System boundaries and failure behavior",
           "level": 4,
-          "line_start": 401,
-          "line_end": 426,
+          "line_start": 310,
+          "line_end": 314,
           "anchor": "#113-system-boundaries-and-failure-behavior"
         },
         {
           "header": "11.4 Operational interpretation",
           "level": 4,
-          "line_start": 427,
-          "line_end": 439,
+          "line_start": 315,
+          "line_end": 319,
           "anchor": "#114-operational-interpretation"
         },
         {
           "header": "11.5 Evolution and reclassification",
           "level": 4,
-          "line_start": 440,
-          "line_end": 450,
+          "line_start": 320,
+          "line_end": 324,
           "anchor": "#115-evolution-and-reclassification"
         },
         {
           "header": "11.6 Scaled duties",
           "level": 4,
-          "line_start": 451,
-          "line_end": 510,
+          "line_start": 325,
+          "line_end": 345,
           "anchor": "#116-scaled-duties"
         },
         {
           "header": "12. Class L: Local, limited-impact, and non-critical systems",
           "level": 3,
-          "line_start": 511,
-          "line_end": 668,
+          "line_start": 346,
+          "line_end": 401,
           "anchor": "#12-class-l-local-limited-impact-and-non-critical-systems"
         },
         {
           "header": "12.1 Eligibility and bounded scope",
           "level": 4,
-          "line_start": 518,
-          "line_end": 539,
+          "line_start": 355,
+          "line_end": 359,
           "anchor": "#121-eligibility-and-bounded-scope"
         },
         {
           "header": "12.2 Class C boundary and dependency-axis relationship",
           "level": 4,
-          "line_start": 540,
-          "line_end": 555,
+          "line_start": 360,
+          "line_end": 364,
           "anchor": "#122-class-c-boundary-and-dependency-axis"
         },
         {
           "header": "12.3 Substrate impact and system boundaries",
           "level": 4,
-          "line_start": 556,
-          "line_end": 585,
+          "line_start": 365,
+          "line_end": 369,
           "anchor": "#123-substrate-impact-and-system-boundaries"
         },
         {
           "header": "12.4 Operational interpretation",
           "level": 4,
-          "line_start": 586,
-          "line_end": 600,
+          "line_start": 370,
+          "line_end": 374,
           "anchor": "#124-operational-interpretation"
         },
         {
           "header": "12.5 Evolution and reclassification",
           "level": 4,
-          "line_start": 601,
-          "line_end": 610,
+          "line_start": 375,
+          "line_end": 379,
           "anchor": "#125-evolution-and-reclassification"
         },
         {
           "header": "12.6 Scaled duties",
           "level": 4,
-          "line_start": 611,
-          "line_end": 668,
+          "line_start": 380,
+          "line_end": 401,
           "anchor": "#126-scaled-duties"
         },
         {
           "header": "13. Class P: Personal, private-use, isolated, and experimental systems",
           "level": 3,
-          "line_start": 669,
-          "line_end": 826,
+          "line_start": 402,
+          "line_end": 460,
           "anchor": "#13-class-p-personal-private-use-isolated-and-experimental-systems"
         },
         {
           "header": "13.1 Retention conditions and typical patterns",
           "level": 4,
-          "line_start": 676,
-          "line_end": 694,
+          "line_start": 411,
+          "line_end": 415,
           "anchor": "#131-retention-conditions-and-typical-patterns"
         },
         {
           "header": "13.2 Dependency-axis relationship and substrate impact",
           "level": 4,
-          "line_start": 695,
-          "line_end": 707,
+          "line_start": 416,
+          "line_end": 420,
           "anchor": "#132-dependency-axis-and-substrate-impact"
         },
         {
           "header": "13.3 System boundaries and boundary conditions",
           "level": 4,
-          "line_start": 708,
-          "line_end": 736,
+          "line_start": 421,
+          "line_end": 425,
           "anchor": "#133-system-boundaries-and-boundary-conditions"
         },
         {
           "header": "13.4 Operational interpretation",
           "level": 4,
-          "line_start": 737,
-          "line_end": 749,
+          "line_start": 426,
+          "line_end": 430,
           "anchor": "#134-operational-interpretation"
         },
         {
           "header": "13.5 Evolution and reclassification",
           "level": 4,
-          "line_start": 750,
-          "line_end": 771,
+          "line_start": 431,
+          "line_end": 435,
           "anchor": "#135-evolution-and-reclassification"
         },
         {
           "header": "13.6 Scaled duties",
           "level": 4,
-          "line_start": 772,
-          "line_end": 826,
+          "line_start": 436,
+          "line_end": 460,
           "anchor": "#136-scaled-duties"
         }
       ]

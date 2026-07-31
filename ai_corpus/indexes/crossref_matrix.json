@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-07-31T04:28:19+00:00",
+  "generated_at": "2026-07-31T13:21:53+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -10843,7 +10843,7 @@
         "targets": [
           {
             "file": "core_05defs_continuity.md",
-            "count": 33,
+            "count": 28,
             "anchors": [
               "#cascading-failure",
               "#dependency",
@@ -10872,10 +10872,11 @@
           },
           {
             "file": "corpus_systems/cs_03_a_system_classification_machinery.md",
-            "count": 37,
+            "count": 38,
             "anchors": [
               "#2-classification-dimensions-and-real-world-application",
               "#22-real-world-application",
+              "#3-criticality-concentration-temporal-and-adversarial-factors",
               "#35-reclassification-requirement",
               "#4-dependency-types-dep-ap",
               "#41-dep-a-absolute-dependency",
@@ -10897,7 +10898,7 @@
           },
           {
             "file": "corpus_systems/cs_protocol_b_system_comprehensibility_complexity_stewardship.md",
-            "count": 5,
+            "count": 6,
             "anchors": []
           }
         ]
@@ -10959,6 +10960,11 @@
           },
           {
             "file": "corpus_systems/cs_protocol_a_system_design_testing_verification_deployment.md",
+            "count": 1,
+            "anchors": []
+          },
+          {
+            "file": "corpus_systems/cs_protocol_b_system_comprehensibility_complexity_stewardship.md",
             "count": 1,
             "anchors": []
           }
