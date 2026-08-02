@@ -312,10 +312,13 @@ A matching letter is never enough by itself. Record **both** the impact class an
 <a id="84-operational-interpretation-posture"></a>
 #### 8.4 Operational interpretation posture
 
-| Aspect | Class A | Class B | Class C | Class L | Class P |
-|--------|---------|---------|---------|---------|---------|
-| **What it is** | Foundational survival infrastructure; continuous reliable operation is a prerequisite for wellbeing and societal continuity; failures are immediate existential or large-scale survival-risk events | Infrastructure-dependency layer; failure propagates through dependency chains; may produce broad cascading destabilization, including indirect harm to survival-critical systems and large populations | Large-scale coordination and meaningful dependency in an influential ecosystem layer; failures can disrupt significantly but stay non-critical to immediate survival | Shared use and external effects beyond private scope, with limited scale, dependency, and constitutional burden | Containment and private risk-bearing; substantial flexibility while conditions hold |
-| **Accordingly** | Requirements maximal, non-negotiable, continuously enforced and validated; extreme reliability, resilience, and integrity under all reasonably foreseeable and adversarial conditions including degraded states; operator discretion minimal and limited to preserving survival, safety, and system integrity | Requirements strict, enforceable, continuously validated; high reliability, accountability, and integrity under normal and adversarial conditions; operator discretion limited where it could materially affect dependent populations or systems | Requirements fully applicable and enforceable; proportional to impact and dependency; robust accountability, transparency, and fairness; operator flexibility allowed with accountability for external effects, shared use, and dependency formation | Requirements applicable and enforceable, scaled to limited impact and dependency; basic accountability, transparency, fairness, and correction; substantial operator flexibility; whole-system evaluation under **Chapter Seven §3** is **mandatory** before classification, governance, limitation, or compliance claims stand; evaluation depth, record form, and re-evaluation cadence remain **proportionate** to Class L | Constitutional requirements function primarily as guidance for operators and voluntary participants rather than fully externalized compliance; broad operator discretion while Class P holds; no formal external governance, oversight, or compliance structures until effects extend beyond Class P; containment includes informational and behavioral dimensions so outputs, data, or effects do not indirectly propagate into broader systems |
+| Class | What it is | Accordingly |
+|-------|------------|-------------|
+| **Class A** | Foundational survival infrastructure; continuous reliable operation is a prerequisite for wellbeing and societal continuity; failures are immediate existential or large-scale survival-risk events | Requirements maximal, non-negotiable, continuously enforced and validated; extreme reliability, resilience, and integrity under all reasonably foreseeable and adversarial conditions including degraded states; operator discretion minimal and limited to preserving survival, safety, and system integrity |
+| **Class B** | Infrastructure-dependency layer; failure propagates through dependency chains; may produce broad cascading destabilization, including indirect harm to survival-critical systems and large populations | Requirements strict, enforceable, continuously validated; high reliability, accountability, and integrity under normal and adversarial conditions; operator discretion limited where it could materially affect dependent populations or systems |
+| **Class C** | Large-scale coordination and meaningful dependency in an influential ecosystem layer; failures can disrupt significantly but stay non-critical to immediate survival | Requirements fully applicable and enforceable; proportional to impact and dependency; robust accountability, transparency, and fairness; operator flexibility allowed with accountability for external effects, shared use, and dependency formation |
+| **Class L** | Shared use and external effects beyond private scope, with limited scale, dependency, and constitutional burden | Requirements applicable and enforceable, scaled to limited impact and dependency; basic accountability, transparency, fairness, and correction; substantial operator flexibility; whole-system evaluation under **Chapter Seven §3** is **mandatory** before classification, governance, limitation, or compliance claims stand; evaluation depth, record form, and re-evaluation cadence remain **proportionate** to Class L |
+| **Class P** | Containment and private risk-bearing; substantial flexibility while conditions hold | Constitutional requirements function primarily as guidance for operators and voluntary participants rather than fully externalized compliance; broad operator discretion while Class P holds; no formal external governance, oversight, or compliance structures until effects extend beyond Class P; containment includes informational and behavioral dimensions so outputs, data, or effects do not indirectly propagate into broader systems |
 
 **Class L classification reminders:** **Local or regional scope alone** does not govern classification. **Non-local coordination**, **cross-domain dependencies**, or **persistent population-wide reliance** → evaluate as **Class C**.
 
@@ -383,7 +386,7 @@ See **§8.3** (*Boundaries, failures, and substrate ladder*) — **Class A**.
 <a id="94-operational-interpretation"></a>
 #### 9.4 Operational interpretation
 
-See **§8.4** (*Operational interpretation posture*) — **Class A** column.
+See **§8.4** (*Operational interpretation posture*) — **Class A** row.
 
 <a id="95-evolution-and-reclassification"></a>
 #### 9.5 Evolution and reclassification
@@ -442,7 +445,7 @@ See **§8.3** (*Boundaries, failures, and substrate ladder*) — **Class B** (in
 <a id="104-operational-interpretation"></a>
 #### 10.4 Operational interpretation
 
-See **§8.4** (*Operational interpretation posture*) — **Class B** column.
+See **§8.4** (*Operational interpretation posture*) — **Class B** row.
 
 <a id="105-evolution-and-reclassification"></a>
 #### 10.5 Evolution and reclassification
@@ -499,7 +502,7 @@ See **§8.3** (*Boundaries, failures, and substrate ladder*) — **Class C**.
 <a id="114-operational-interpretation"></a>
 #### 11.4 Operational interpretation
 
-See **§8.4** (*Operational interpretation posture*) — **Class C** column.
+See **§8.4** (*Operational interpretation posture*) — **Class C** row.
 
 <a id="115-evolution-and-reclassification"></a>
 #### 11.5 Evolution and reclassification
@@ -554,7 +557,7 @@ See **§8.3** (*Boundaries, failures, and substrate ladder*) — **Class L**.
 <a id="124-operational-interpretation"></a>
 #### 12.4 Operational interpretation
 
-See **§8.4** (*Operational interpretation posture*) — **Class L** column and Class L classification reminders.
+See **§8.4** (*Operational interpretation posture*) — **Class L** row and Class L classification reminders.
 
 <a id="125-evolution-and-reclassification"></a>
 #### 12.5 Evolution and reclassification
@@ -610,7 +613,7 @@ See **§8.3** (*Boundaries, failures, and substrate ladder*) — **Class P** (in
 <a id="134-operational-interpretation"></a>
 #### 13.4 Operational interpretation
 
-See **§8.4** (*Operational interpretation posture*) — **Class P** column.
+See **§8.4** (*Operational interpretation posture*) — **Class P** row.
 
 <a id="135-evolution-and-reclassification"></a>
 #### 13.5 Evolution and reclassification
