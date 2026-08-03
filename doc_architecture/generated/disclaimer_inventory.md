@@ -2,7 +2,7 @@
 
 Auto-generated. Do not edit by hand.
 
-Generated: 2026-07-22T13:33:46+00:00
+Generated: 2026-08-03T20:43:03+00:00
 
 Scopes **Chapter Five** band and aim files. Classifies disclaimer / negative-scope clauses on **O**, **E**, and **C** components using [tools/architecture/disclaimer_themes.json](../tools/architecture/disclaimer_themes.json).
 
@@ -10,50 +10,45 @@ Editorial model: **safe redundancy** = one canonical exposition + pointers (see 
 
 ## Summary
 
-- **Total hits (actionable):** 17
-- **Thin candidates:** 4
-- **Review candidates:** 3
-- **Keep (local boundary + canonical homes):** 10
-- **Canonical exposition (do not thin):** 2
-- **Same-theme duplicates across O/E/C (terms):** 2
+- **Total hits (actionable):** 7
+- **Thin candidates:** 3
+- **Review candidates:** 2
+- **Keep (local boundary + canonical homes):** 2
+- **Canonical exposition (do not thin):** 0
+- **Same-theme duplicates across O/E/C (terms):** 1
 
 ### By recommended action
 
 | Action | Count | Meaning |
 | --- | ---: | --- |
-| thin | 4 | Replace with Trace read-with / single C line |
-| review | 3 | Triage per term — may stay local |
-| keep | 8 | Term-pair or jurisdictional — do not fold |
-| canonical | 2 | Canonical home for theme — retain |
+| thin | 3 | Replace with Trace read-with / single C line |
+| review | 2 | Triage per term — may stay local |
+| keep | 2 | Term-pair or jurisdictional — do not fold |
+| canonical | 0 | Canonical home for theme — retain |
 
 ### By O/E/C component
 
 | Component | Hits |
 | --- | ---: |
-| O | 11 |
+| O | 4 |
 | E | 0 |
-| C | 6 |
+| C | 3 |
 
 ### By source file
 
 | File | Hits |
 | --- | ---: |
-| core_05defs_accountability.md | 5 |
 | core_05defs_participation.md | 5 |
-| core_05defs_integrative.md | 3 |
 | core_05apex_participation_leg.md | 2 |
-| core_05defs_continuity.md | 2 |
 
 ### By theme family
 
 | Theme | Hits | Default action | Canonical home |
 | --- | ---: | --- | --- |
-| Rights-Floor jurisdiction / does not displace Ch6 | 7 | keep | core_06-06_rights_part_*.md; Trace routing |
-| Governance layer separation (authorization vs participation) | 4 | thin | core_00_preamble.md §4–§5; core_05defs_integrative.md Constitutional Contract c… |
-| Anti-formalism / label-gaming evasion block | 3 | review | core_02-03_definition_mechanics.md Chapter Three §2.2.1; core_01_c_stewardship_… |
+| Governance layer separation (authorization vs participation) | 2 | thin | core_00_preamble.md §4–§5; core_05defs_integrative.md Constitutional Contract c… |
+| Rights-Floor jurisdiction / does not displace Ch6 | 2 | keep | core_06-06_rights_part_*.md; Trace routing |
+| Anti-formalism / label-gaming evasion block | 2 | review | core_02-03_definition_mechanics.md Chapter Three §2.2.1; core_01_c_stewardship_… |
 | Symbolic / theater participation negative | 1 | thin | core_01_c_stewardship_capacity_principles.md §11; Participation definition |
-| Global integrity negative (harm / deception / capture / proxy divorce) | 1 | thin | core_01_c_stewardship_capacity_principles.md §11.1.2; core_01_a_values_principl… |
-| Neighbor term disambiguation (distinct from …) | 1 | keep | (local term pair — no global fold) |
 
 ## Intra-entry redundancy (same theme, multiple components)
 
@@ -62,7 +57,6 @@ Highest-yield thinning: drop duplicate theme on secondary components when one en
 | Term | Theme | Components |
 | --- | --- | --- |
 | Sentience Status Adjudication | Rights-Floor jurisdiction / does not displace Ch6 | C, O |
-| Supremacy and Enforceability | Governance layer separation (authorization vs participation) | C, O |
 
 ## Thin candidates (sample)
 
@@ -70,8 +64,7 @@ Highest-yield thinning: drop duplicate theme on secondary components when one en
 | --- | ---: | --- | --- | --- | --- |
 | core_05apex_participation_leg.md | 29 | (no heading) | O | layer_separation | Give affected sentients and [Stakeholders](core_05defs_participation.md#stakeholder) real voice in… |
 | core_05apex_participation_leg.md | 29 | (no heading) | O | symbolic_participation | Give affected sentients and [Stakeholders](core_05defs_participation.md#stakeholder) real voice in… |
-| core_05defs_accountability.md | 2348 | Combatant / Non-Combatant Distinction | O | global_integrity_negative | At the time of each applicable use-of-force decision, distinguish sentients who are directly taking… |
-| core_05defs_participation.md | 1690 | Binding Stakeholder Choice — Decision-R… | O | layer_separation | A **Stakeholder System Participation** layer requirement: when material disagreement requires a bin… |
+| core_05defs_participation.md | 1712 | Binding Stakeholder Choice — Decision-R… | O | layer_separation | A **Stakeholder System Participation** layer requirement: when material disagreement requires a bin… |
 
 ## Suggested editorial waves
 

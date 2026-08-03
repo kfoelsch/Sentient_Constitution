@@ -36,7 +36,7 @@ This band holds **Integrative** cross-leg definitions — terms that must be sat
 
 | Cluster | Section |
 |---|---|
-| **Chapter One §8.16** | Corpus, Authority Stack, Supremacy, and Enforceability |
+| **Chapter One §8.16** | Corpus and Authority Stack |
 | **Incentive Alignment (semi-independent)** | Incentive Alignment, Proxy Integrity, and Contingent Settlement |
 
 ---
@@ -141,8 +141,9 @@ This band holds **Integrative** cross-leg definitions — terms that must be sat
 <a id="constitutional-contract-layer-c"></a>
 - **What must hold**
   - **Primary failure:**
-    - treating stakeholder consultation, operational participation, or system use as a substitute for documented constitutional authorization; or
-    - using impact-weighted stakeholder voting to constitute or durably restructure governing authority where [Foundational Constitutional Choice](core_05defs_integrative.md#foundational-constitutional-choice) requires the political-equality floor.
+    - treating stakeholder consultation, operational participation, system use, market presence, or impact-weighted stakeholder process as a substitute for documented constitutional authorization;
+    - using impact-weighted stakeholder voting to constitute or durably restructure governing authority where [Foundational Constitutional Choice](core_05defs_integrative.md#foundational-constitutional-choice) requires the political-equality floor; or
+    - treating constitutional authorization as eliminating stakeholder participation, representation, [Contestability](core_05defs_accountability.md#contestability), or [Due Process](core_05defs_accountability.md#due-process-constitutional) duties within already-authorized systems or bounded decision domains ([Preamble §3.3](core_00_preamble.md#governance-layer-discipline)).
 
 ---
 
@@ -339,9 +340,6 @@ This band holds **Integrative** cross-leg definitions — terms that must be sat
   - **Implementation routing:** Full system-level incentive analysis remains governed by adopted implementation requirements on incentive alignment and mechanism integrity, incorporated via Chapter Fifteen. This definition supplies tracing for constitutional compliance determinations that invoke incentives at the interdependent layer — it does not restate or relocate those operational rules. Operational expectations for materially impactful venues appear in:
     - `corpus_systems.md` (CS-4 — Critical system stewardship, including incentive-scaled governance); and
     - `corpus_institutions.md` (institutional stewardship and incentive alignment requirements).
-<a id="incentive-alignment-implementation-routing-and-operational-hooks"></a>
-
-    *Compatibility pointer:* former child scope *Incentive Alignment — implementation routing and operational hooks* redirects here — implementation routing is a head-level bridge, not a separate child.
 <a id="incentive-alignment-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Accountability measurement family](core_05apex_accountability_leg.md#accountability-measurement-family) — *Do reward structures, market power, and answerability keep duties real?* Use it here to ask whether payoffs, targets, and governance signals still push toward real constitutional outcomes — not toward proxy scores, loopholes, or capture.
@@ -357,7 +355,6 @@ This band holds **Integrative** cross-leg definitions — terms that must be sat
 
     **Secondary assessment:** When checking the primary measure, ask whether these co-measures still show misalignment even when the official scores look good. Include [System Capture](core_05defs_continuity.md#system-capture) (concentrated or obscured control structures that defeat challenge or oversight where materially implicated).
   - **Tertiary measure:** [Proxy Divergence](core_05defs_oversight.md#proxy-divergence) — where reward paths, metrics, or governance signals substitute for real constitutional outcomes.
-<a id="incentive-alignment-proxy-divergence-tracing"></a>
 
     **Tertiary assessment:** Incorporate [Proxy Divergence](core_05defs_oversight.md#proxy-divergence). Count as Incentive Alignment inputs any reward paths, targets, or governance signals that exploit gaps between:
     - proxies;
@@ -365,8 +362,6 @@ This band holds **Integrative** cross-leg definitions — terms that must be sat
     - formal compliance indicators
 
     and real outcomes material to [Wellbeing](core_05defs_continuity.md#wellbeing), [Safety (Constraint)](core_05defs_continuity.md#safety-constraint), or [Epistemic Integrity](core_05defs_oversight.md#epistemic-integrity).
-
-    *Compatibility pointer:* former child scope *Incentive Alignment — proxy divergence tracing* redirects here — Proxy Divergence tracing is the cluster-head tertiary tier, not a separate child.
 <a id="incentive-alignment-c"></a>
 - **What must hold**
   - **Primary failure:** sustained incentives that predictably undermine Chapter One values without:
@@ -490,7 +485,7 @@ This band holds **Integrative** cross-leg definitions — terms that must be sat
 
 <a id="corpus-authority-stack-supremacy-and-enforceability-cluster"></a>
 
-#### 3.16 Corpus, Authority Stack, Supremacy, and Enforceability
+#### 3.16 Corpus and Authority Stack
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -504,14 +499,14 @@ This band holds **Integrative** cross-leg definitions — terms that must be sat
 
 <br>
 
-*In plain terms: this cluster answers which text is binding, who owns which topic, which source wins in a conflict, and whether duties can actually be enforced.*
+*In plain terms: this cluster answers which text is binding, which source wins in a conflict, whether claimed duties can actually be checked and enforced, and — with the Preamble owner register — who owns which topic.*
 
-This cluster is the place where those four questions must be answered together. It covers:
+This cluster is the place where those questions must be answered together. It covers:
 
 - **which texts count as the official Constitution** — the adopted, versioned corpus, not drafts, notes, or unofficial copies;
-- **how authority ranks inside that corpus** — which chapters and layers control when topics overlap;
-- **which source wins after a valid adoption** — supremacy within the scope that was actually adopted; and
-- **whether duties can be enforced in practice** — through compliance assessment that can be observed and challenged, not claimed on paper alone.
+- **how authority ranks inside that corpus** — which chapters and layers control when topics overlap, including owner non-relocation and supremacy effect under [Authority Stack and Internal Hierarchy](core_05defs_integrative.md#authority-stack);
+- **which source wins after a valid adoption** — binding obligations prevail within the scope that was actually adopted; and
+- **whether claimed duties can be checked and enforced in practice** — through [Auditability](core_05defs_oversight.md#auditability) and [Contestability](core_05defs_accountability.md#contestability), not claimed on paper alone.
 
 When any of those questions is in play, read the cluster members together rather than treating one as enough on its own.
 
@@ -527,12 +522,10 @@ If the matter is outside that list, [Corpus](core_05defs_integrative.md#corpus) 
 
 **Cluster members.** This cluster comprises:
 
-- [Corpus](core_05defs_integrative.md#corpus);
-- [Authority Stack and Internal Hierarchy](core_05defs_integrative.md#authority-stack);
-- [Supremacy and Enforceability](core_05defs_integrative.md#supremacy-and-enforceability); and
-- [Constitutional Constraint Violation](core_05defs_integrative.md#constitutional-constraint-violation), where materially implicated in supremacy or custody disputes.
+- [Corpus](core_05defs_integrative.md#corpus); and
+- [Authority Stack and Internal Hierarchy](core_05defs_integrative.md#authority-stack).
 
-[Constitutional Owner Layers](core_05defs_integrative.md#constitutional-owner-layers) and [Constitutional Constraint](core_05defs_integrative.md#constitutional-constraint) live in this section as supporting definitions read with the cluster; they are not additional joint-invocation members unless independently required.
+[Constitutional Constraint](core_05defs_integrative.md#constitutional-constraint) lives in this section as a supporting definition read with the cluster; it is not an additional joint-invocation member unless independently required. The positive owner register of which chapter owns which substantive domain lives in the [Preamble — constitutional owner register](core_00_preamble.md#constitutional-owner-register) (sections 4–7). Owner non-relocation and supremacy effect are stated under [Authority Stack and Internal Hierarchy](core_05defs_integrative.md#authority-stack). Practical enforceability of binding claims routes under [Auditability](core_05defs_oversight.md#auditability) and [Contestability](core_05defs_accountability.md#contestability). Governance-layer anti-substitution (Constitutional Contract vs Stakeholder System Participation) lives under [Preamble §3.3](core_00_preamble.md#governance-layer-discipline) and [Constitutional Contract Layer](core_05defs_integrative.md#constitutional-contract-layer).
 
 **Anti-bypass.** A matter within the admission scope must not be segmented into separate:
 
@@ -561,7 +554,7 @@ See [Joint invocation and satisfaction](core_05_definitions_home.md#joint-invoca
 
 - Downstream: Principles: [15. Integrated Application](core_01_c_stewardship_capacity_principles.md#15-integrated-application) (corpus read as integrated whole); [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **oversight** leg; [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — **Continuity** aim under incorporation and custody; [2. Constitutional Interpretation](core_01_b_interaction_interpretation.md#8-constitutional-interpretation) (binding source identification).
 - Downstream: [Chapter Sixteen — Incorporation bridge](core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) (*which adopted **implementation text** text is binding, edition pinning, custody chain, and anti-drift discipline*).
-- Read with: [Authority Stack and Internal Hierarchy](core_05defs_integrative.md#authority-stack) and [Constitutional Constraint Violation](core_05defs_integrative.md#constitutional-constraint-violation).
+- Read with: [Authority Stack and Internal Hierarchy](core_05defs_integrative.md#authority-stack) and [Constitutional Constraint](core_05defs_integrative.md#constitutional-constraint).
 - Read with: owner-layer references in [doc_architecture.md](doc_architecture.md) and [README.md](README.md).
 
 </details>
@@ -576,7 +569,7 @@ See [Joint invocation and satisfaction](core_05_definitions_home.md#joint-invoca
     - any valid compatibility wrappers during transition; and
     - adopted implementation text.
 
-    Sources are versioned and custodied through valid adoption and edition controls under the [Corpus, Authority Stack, Supremacy, and Enforceability cluster](core_05defs_integrative.md#corpus-authority-stack-supremacy-and-enforceability-cluster).
+    Sources are versioned and custodied through valid adoption and edition controls under the [Corpus and Authority Stack cluster](core_05defs_integrative.md#corpus-authority-stack-supremacy-and-enforceability-cluster).
   - **Out of scope:**
     - explanatory notes, process artifacts, drafts, or navigational guides not validly incorporated as binding text; and
     - unofficial or unversioned copies presented as the operative edition.
@@ -584,14 +577,14 @@ See [Joint invocation and satisfaction](core_05_definitions_home.md#joint-invoca
 - **How to measure and assess**
   - **Primary measure:** [Oversight measurement family](core_05apex_oversight_leg.md#oversight-measurement-family) — *Do sentients have clarity about the boundaries of authorized constitutional texts?*
 
-    **Primary assessment:** Ask whether the claimed binding text is the real, versioned Corpus — not an unofficial copy, draft, or process note treated as law. For compliance and adoption claims, identify the operative corpus edition and custody chain under the applicable [Corpus, Authority Stack, Supremacy, and Enforceability cluster](core_05defs_integrative.md#corpus-authority-stack-supremacy-and-enforceability-cluster). Then:
+    **Primary assessment:** Ask whether the claimed binding text is the real, versioned Corpus — not an unofficial copy, draft, or process note treated as law. For compliance and adoption claims, identify the operative corpus edition and custody chain under the applicable [Corpus and Authority Stack cluster](core_05defs_integrative.md#corpus-authority-stack-supremacy-and-enforceability-cluster). Then:
     - distinguish incorporated binding text from explanatory or process artifacts; and
     - apply Chapter Thirteen supremacy and Chapter Fourteen adoption conditions.
 <a id="corpus-c"></a>
 - **What must hold**
   - **Primary failure:**
     - representing divergent, uncontrolled, or misidentified text as the Corpus; or
-    - collapsing non-binding process artifacts into binding scope without valid incorporation contrary to the governing [Corpus, Authority Stack, Supremacy, and Enforceability cluster](core_05defs_integrative.md#corpus-authority-stack-supremacy-and-enforceability-cluster).
+    - collapsing non-binding process artifacts into binding scope without valid incorporation contrary to the governing [Corpus and Authority Stack cluster](core_05defs_integrative.md#corpus-authority-stack-supremacy-and-enforceability-cluster).
 
 ---
 
@@ -604,14 +597,14 @@ See [Joint invocation and satisfaction](core_05_definitions_home.md#joint-invoca
 
 - Downstream: Principles: [2. Constitutional Interpretation](core_01_b_interaction_interpretation.md#8-constitutional-interpretation); [15. Integrated Application](core_01_c_stewardship_capacity_principles.md#15-integrated-application) (Authority Stack vs Internal Hierarchy read-with Chapter One).
 - Downstream: [Chapter One — §2 Constitutional Interpretation](core_01_b_interaction_interpretation.md#8-constitutional-interpretation) (integrated reading and last-resort hierarchy); [Chapter Thirteen Chapter One §8.1](core_13-15_amendment.md#31-internal-hierarchy-for-adopters) (*Internal Hierarchy for Adopters*); [Chapter Sixteen §2](core_16-16_incorporation.md#2-authority-stack-and-invocation) (*Authority stack and invocation*).
-- Read with: [Corpus](core_05defs_integrative.md#corpus), [Constitutional Owner Layers](core_05defs_integrative.md#constitutional-owner-layers), [Supremacy and Enforceability](core_05defs_integrative.md#supremacy-and-enforceability), and [Constitutional Constraint Violation](core_05defs_integrative.md#constitutional-constraint-violation).
-- Read with: owner-layer references in [doc_architecture.md](doc_architecture.md) and [README.md](README.md).
+- Downstream: [Chapter Six — Layer scope](core_06-06_rights_part_a.md#chapter-six--layer-scope); [Chapter Thirteen §4 Layer scope](core_13-15_amendment.md#4-layer-scope) and [Chapter Fifteen §12 Layer scope](core_13-15_amendment.md#12-layer-scope) (*owner non-relocation applied locally*); chapter opening owner statements across the numbered `core_*` instrument.
+- Read with: [Corpus](core_05defs_integrative.md#corpus); [Preamble — constitutional owner register](core_00_preamble.md#constitutional-owner-register) (*positive domain→owner map*, sections 4–7); [Auditability](core_05defs_oversight.md#auditability) and [Contestability](core_05defs_accountability.md#contestability) (*practical enforceability of binding claims*); [Preamble §3.3](core_00_preamble.md#governance-layer-discipline) and [Constitutional Contract Layer](core_05defs_integrative.md#constitutional-contract-layer) (*governance-layer anti-substitution*); [Constitutional Constraint](core_05defs_integrative.md#constitutional-constraint); [doc_architecture.md](doc_architecture.md) section 2 (*editorial mirror*); **CJS-2.1** (*implementation topic router*).
 
 </details>
 
 <br>
 
-*In plain terms: first decide which source layer is speaking and whether it binds; only then, if a real conflict remains inside the binding Constitution, use the last-resort hierarchy to resolve it.*
+*In plain terms: first decide which source layer is speaking and whether it binds; then identify which chapter owns the topic; only then, if a real conflict remains inside the binding Constitution, use the last-resort hierarchy to resolve it. Binding duties win within their valid scope. Other chapters may point to an owner — they must not quietly rewrite or relocate it.*
 
 - **What it is**
   - **In scope:** The paired rule that first decides which kind of source is speaking, and whether it binds, across the operative [Corpus](core_05defs_integrative.md#corpus) — and only then, if a real conflict remains inside the binding Constitution, how to resolve it. Source layers include:
@@ -633,158 +626,65 @@ See [Joint invocation and satisfaction](core_05_definitions_home.md#joint-invoca
     - the Authority Stack decides which source layer is speaking and whether that layer is binding, incorporated, or support-only;
     - Internal Hierarchy decides what the binding Constitution means when, after the right source layers are identified, a real conflict still remains inside that binding text.
 
-    **Constitutional Owner Layers** — the positive register of which chapter owns which substantive domain — is stated in [Constitutional Owner Layers](core_05defs_integrative.md#constitutional-owner-layers) and works with both:
+    <a id="owner-non-relocation"></a>
+    <a id="constitutional-owner-layers"></a>
+    <a id="constitutional-owner-layers-a"></a>
+    <a id="constitutional-owner-layers-c"></a>
+    **Owner register and non-relocation.** The positive register of which chapter owns which substantive domain is the [Preamble — constitutional owner register](core_00_preamble.md#constitutional-owner-register) (sections 4–7), read with chapter opening owner statements. That register works with this entry as follows:
     1. identify source status under the Authority Stack;
-    2. identify substantive owner under Constitutional Owner Layers;
+    2. identify the substantive owner under the Preamble register (and the chapter's binding opening owner claim);
     3. apply Internal Hierarchy only for genuine residual incompatibility within the binding constitutional source.
-
-    For adopters, [Internal Hierarchy for Adopters](core_13-15_amendment.md#31-internal-hierarchy-for-adopters) in **Chapter Fourteen** applies this same paired rule at the line between the binding Constitution and adopted implementation text:
-    - this Constitution and its integrated definitions control how the text is read and what counts as compliance; and
-    - adopted implementation text applies only within the scope that was actually adopted, and cannot walk back [Chapter Thirteen non-regression](core_13-15_amendment.md) or [Supremacy and Enforceability](core_05defs_integrative.md#supremacy-and-enforceability).
-  - **Out of scope:** Editorial preference, support-document gloss, or adoption branding that rearranges source layers or resolves residual conflict outside the Authority Stack and Internal Hierarchy.
-<a id="authority-stack-a"></a>
-- **How to measure and assess**
-  - **Primary measure:** [Oversight measurement family](core_05apex_oversight_leg.md#oversight-measurement-family) — *Can sentients tell which source layer is speaking, whether it binds, and how real conflicts inside the binding Constitution are resolved?*
-
-    **Primary assessment:**
-    - First identify the operative edition/custody chain and source layer under the Authority Stack.
-    - Then apply integrated reading under [Chapter One — §2 Constitutional Interpretation](core_01_b_interaction_interpretation.md#8-constitutional-interpretation).
-    - Preserve the Constitution's fullest protective effect as an integrated whole and the [Chapter Six](core_06-06_rights_part_a.md#chapter-six-foundational-rights) non-contraction default.
-    - Use Internal Hierarchy only as a last-resort residual rule; do not use it to replace ordinary integrated reading or to resolve mere disagreement over canonical term meaning.
-    - Where the dispute is term meaning, the Chapter Five canonical definition governs at every layer.
-    - Reject interpretations that:
-      - invert source precedence;
-      - obscure source status;
-      - treat non-incorporated process text as binding constitutional law; or
-      - let incorporated or support layers narrow Sentient Constitution meaning.
-    - Apply Chapter Four burden, traceability, and verification requirements to any claim that a layer collision exists.
-<a id="authority-stack-c"></a>
-- **What must hold**
-  - **Primary failure:** It is non-compliant to:
-    - treat maps, worklists, notes, or other support text as binding constitutional law without valid incorporation — or apply incorporated implementation text in a way that contradicts the constitutional [Corpus](core_05defs_integrative.md#corpus);
-    - use Internal Hierarchy as a shortcut to pick a harsher reading, to shrink [Chapter Six](core_06-06_rights_part_a.md#chapter-six-foundational-rights) Rights-Floor protections outside what [Chapter One](core_01_b_interaction_interpretation.md#8-constitutional-interpretation) expressly allows, or to swap one source layer for another in ordinary reading;
-    - treat Chapter Five definitions as a rival body of law that overrides principles or articles ([Chapter One — §2 Constitutional Interpretation](core_01_b_interaction_interpretation.md#8-constitutional-interpretation)); or
-    - for adopters, treat adopted implementation text as overriding this Constitution within the scope of adoption, or as relaxing [Chapter Thirteen](core_13-15_amendment.md) non-regression floors ([Internal Hierarchy for Adopters](core_13-15_amendment.md#31-internal-hierarchy-for-adopters) in **Chapter Fourteen**; [Supremacy and Enforceability](core_05defs_integrative.md#supremacy-and-enforceability)).
-
----
-
-<a id="constitutional-owner-layers"></a>
-
-##### Constitutional Owner Layers
-
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Upstream: [Authority Stack and Internal Hierarchy](core_05defs_integrative.md#authority-stack) (*source status, internal precedence, and owner routing read together*).
-- Downstream: [Chapter Six — Layer scope](core_06-06_rights_part_a.md#chapter-six--layer-scope); [Chapter Thirteen §4 Layer scope](core_13-15_amendment.md#4-layer-scope) and [Chapter Fifteen §12 Layer scope](core_13-15_amendment.md#12-layer-scope) (*validity-layer discipline*); chapter opening owner statements across the numbered `core_*` instrument.
-- Read with: [doc_architecture.md](doc_architecture.md) section 2 (*editorial mirror of this register*); [README.md](README.md) reading order; **CJS-2.1** (*implementation topic router*).
-
-</details>
-
-<br>
-
-*In plain terms: each major topic has one home chapter. Other chapters may point to it — they must not quietly rewrite or relocate it.*
-
-- **What it is**
-  - **In scope:** The positive register pairing each substantive constitutional domain with its single owner home within the operative [Corpus](core_05defs_integrative.md#corpus), read together with [Authority Stack and Internal Hierarchy](core_05defs_integrative.md#authority-stack).
-    - Each row names what that owner **establishes**.
-    - Other layers must not absorb, restate, or relocate those obligations.
-    - Pointer cross-references, read-with routing, and integration sentences such as "implementation belongs in" or "must not narrow" are permitted.
-    - **Substantive restatement** into a non-owner layer is non-compliant.
 
     **Non-relocation rule:** Under ordinary operation, text in one owner layer must not import obligations from another owner layer except by:
     - pointer;
     - read-with routing; or
     - express cross-reference.
 
-    Where validity or governance chapters use trigger, referral, or escalation language, that language operates as a **routing heuristic only** unless the owner chapter expressly states otherwise.
+    Pointer cross-references, read-with routing, and integration sentences such as "implementation belongs in" or "must not narrow" are permitted. **Substantive restatement** into a non-owner layer is non-compliant. Where validity or governance chapters use trigger, referral, or escalation language, that language operates as a **routing heuristic only** unless the owner chapter expressly states otherwise.
 
-    | Owner layer | Constitutional home | Owns (substantive) | Implementation home |
-    |-------------|---------------------|--------------------|---------------------|
-    | Principles and interpretation | Chapters 00–01 | Values, aims, interaction rules, constitutional interpretation | — |
-    | Definition mechanics | Chapters 02–04 | Definition structure, burden, traceability, verification accessibility | — |
-    | Canonical terms | Chapter 05 | O/M/A/C definitions and dependent clusters | — |
-    | Rights Floor | Chapter 06 | Articles I–XXVI Rights Floors and rights-level interpretive scope | — |
-    | System alignment certification | Chapter 07 | System alignment certification and related records; Chapter Five [System Alignment Certification](core_05defs_continuity.md#system-alignment-certification-constitutional) | [corpus_systems.md](corpus_systems.md) |
-    | Standing measurement | Chapters 08–09 | Contribution / violation / standing measurement (Axes I / II), standing integration | — |
-    | Anti-constitutional misconduct | Chapter 10 | Final Violation Axis **s** = 7, 8, or 9 classification, criteria, and cross-chapter discipline | — |
-    | Forums and jurisdiction | Chapter 11 | Forum families, default venue, jurisdiction, adjudicative routing | [corpus_forum.md](corpus_forum.md) |
-    | Governance legitimacy | Chapter 12 | Constitutional-contract legitimacy, stewardship direction, concentration and democratic checks | [corpus_institutions.md](corpus_institutions.md) |
-    | Substantive change validity | Chapter 13 | Non-regression and substantive amendment validity (Test 1) | — |
-    | Procedural change validity | Chapter 15 | Amendment, ratification, and procedural/custody validity (Tests 2–4), review triggers, invalid-change handling | — |
-    | Incorporation and custody | Chapter 16 | Incorporation bridge, edition pinning, custody chain, adoption framing | — |
-    | Cross-implementation joint structure | CJS | Cross-file interface terms with no stable single-file home | [corpus_joint_structure.md](corpus_joint_structure.md) |
-    | Systems, institutions, forum operations | CS / CI / CF | Operational how-to within adoption scope | companion wrappers + subfiles |
-  - **Out of scope:** Shadow ownership, dual homes, or support-layer restatement that relocates a substantive domain away from its single Corpus owner home.
-<a id="constitutional-owner-layers-a"></a>
+    <a id="supremacy-and-enforceability"></a>
+    <a id="supremacy-and-enforceability-a"></a>
+    <a id="supremacy-and-enforceability-c"></a>
+    **Supremacy.** Binding corpus obligations prevail within their valid source, adoption, and governance-layer scope. That supremacy effect is the outcome of applying this entry together with the operative [Corpus](core_05defs_integrative.md#corpus) and the applicable adoption or incorporation instrument — including [Chapter Fourteen](core_13-15_amendment.md#3-supremacy-relative-to-other-binding-norms) supremacy relative to other norms. Implementation, support text, private ordering, emergency framing, or operational practice must not narrow those binding obligations within their valid scope.
+
+    Practical enforceability of binding claims — observable, contestable compliance rather than paper promises — is assessed under [Auditability](core_05defs_oversight.md#auditability) and [Contestability](core_05defs_accountability.md#contestability). Governance-layer anti-substitution (Constitutional Contract vs Stakeholder System Participation) lives under [Preamble §3.3](core_00_preamble.md#governance-layer-discipline) and [Constitutional Contract Layer](core_05defs_integrative.md#constitutional-contract-layer).
+
+    For adopters, [Internal Hierarchy for Adopters](core_13-15_amendment.md#31-internal-hierarchy-for-adopters) in **Chapter Fourteen** applies this same paired rule at the line between the binding Constitution and adopted implementation text:
+    - this Constitution and its integrated definitions control how the text is read and what counts as compliance; and
+    - adopted implementation text applies only within the scope that was actually adopted, and cannot walk back [Chapter Thirteen non-regression](core_13-15_amendment.md) or the supremacy effect stated in this entry.
+  - **Out of scope:** Editorial preference, support-document gloss, or adoption branding that rearranges source layers, invents shadow or dual owner homes, or resolves residual conflict outside the Authority Stack and Internal Hierarchy; aspirational language or local practice that displaces binding corpus obligations within their valid source and governance-layer scope.
+<a id="authority-stack-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Accountability measurement family](core_05apex_accountability_leg.md#accountability-measurement-family) — supporting measure.
-
-    **Primary assessment:** For any materially scoped obligation:
-    - first identify source status under the Authority Stack;
-    - then identify the owner row in this register;
-    - apply substance only from the owner home; elsewhere use pointers only;
-    - preserve the [Chapter Six](core_06-06_rights_part_a.md#chapter-six-foundational-rights) non-contraction default and [Chapter One — §2 Constitutional Interpretation](core_01_b_interaction_interpretation.md#8-constitutional-interpretation) integrated reading before invoking Internal Hierarchy;
-    - for implementation topics routed across CS, CI, CF, and CJS, apply **CJS-2.1** (Topic router) after owner identification; and
-    - apply Chapter Four burden, traceability, and verification requirements to any claim that owner boundaries were crossed.
-<a id="constitutional-owner-layers-c"></a>
-- **What must hold**
-  - **Primary failure:** It is non-compliant to:
-    - substantively restate one owner layer's obligations inside another owner layer, including elevation of reader-guidance prose to operative effect;
-    - treat trigger, referral, or escalation language in validity or governance chapters as final classification or sanction law where the owner layer reserves that authority to Chapters 08–10;
-    - use process, governance, or implementation framing to narrow, redefine, or relocate [Chapter Six](core_06-06_rights_part_a.md#chapter-six-foundational-rights) Rights Floors contrary to [Chapter Thirteen](core_13-15_amendment.md) non-regression and the Chapter Six opening contract; or
-    - invent parallel taxonomies or workflows in non-owner layers when this register already assigns a canonical home.
-
----
-
-<a id="supremacy-and-enforceability"></a>
-
-##### Supremacy and Enforceability
-
-*In plain terms: binding constitutional duties win within their valid scope, and they must be enforceable in the real world — not only promised on paper.*
-
-- **What it is**
-  - **In scope:** The requirement that binding corpus obligations:
-    - prevail within their valid source, adoption, and governance-layer scope; and
-    - remain enforceable through observable, traceable, and [Contestability](core_05defs_accountability.md#contestability) compliance assessment.
-
-    Supremacy is determined under:
-    - the [Authority Stack and Internal Hierarchy](core_05defs_integrative.md#authority-stack);
-    - the operative [Corpus](core_05defs_integrative.md#corpus); and
-    - the applicable adoption or incorporation instrument.
-
-    Read [Preamble §4 governance-layer discipline](core_00_preamble.md#governance-layer-discipline) for Constitutional Contract vs Stakeholder System Participation routing.
-  - **Out of scope:** Aspirational language, unenforceable promises, or local practice that displaces binding corpus obligations within their valid source and governance-layer scope.
-<a id="supremacy-and-enforceability-a"></a>
-- **How to measure and assess**
-  - **Primary measure:** [Oversight measurement family](core_05apex_oversight_leg.md#oversight-measurement-family) and [Accountability measurement family](core_05apex_accountability_leg.md#accountability-measurement-family) — supporting measure where multiple measurement families co-apply.
+  - **Primary measure:** [Oversight measurement family](core_05apex_oversight_leg.md#oversight-measurement-family) — *Can sentients tell which source layer is speaking, whether it binds, which chapter owns the topic, whether binding duties prevail in scope, and how real conflicts inside the binding Constitution are resolved?* [Accountability measurement family](core_05apex_accountability_leg.md#accountability-measurement-family) — supporting measure for owner-boundary and supremacy-effect claims.
 
     **Primary assessment:**
-    - Apply Chapter Four burden, traceability, and verification requirements.
-    - First identify the operative source layer, adoption scope, and governance layer at issue.
-    - Where authority to govern, legitimacy mechanism, reauthorization, durable restructuring, or foundational participation entitlement is at issue, apply:
-      - the [Constitutional Contract Layer](core_05defs_integrative.md#constitutional-contract-layer);
-      - [Foundational Constitutional Choice](core_05defs_integrative.md#foundational-constitutional-choice);
-      - Chapter Six; and
-      - applicable Rights-Floor provisions.
-    - Where materially rights-affecting decisions occur within already-authorized governance structures, apply **Stakeholder System Participation**, including:
-      - [Stakeholder](core_05defs_participation.md#stakeholder);
-      - [Stakeholder Participation Weight](core_05defs_participation.md#stakeholder-participation-weight);
-      - **Article XI** (*Stakeholder System Participation, Representation, and Due Process*); and
-      - related [Contestability](core_05defs_accountability.md#contestability) and [Due Process](core_05defs_accountability.md#due-process-constitutional) requirements.
-    - Apply the supremacy, adoption, and incorporation hierarchy in Chapters Ten through Twelve, including incorporated obligations in designated implementation text, consistent with:
-      - the [Authority Stack and Internal Hierarchy](core_05defs_integrative.md#authority-stack);
-      - the operative [Corpus](core_05defs_integrative.md#corpus); and
-      - [Auditability](core_05defs_oversight.md#auditability)
-
-      — without allowing implementation, support text, private ordering, emergency framing, or operational practice to narrow binding constitutional obligations.
-<a id="supremacy-and-enforceability-c"></a>
+    - First identify the operative edition/custody chain and source layer under the Authority Stack.
+    - Then identify the owner home in the [Preamble — constitutional owner register](core_00_preamble.md#constitutional-owner-register) (and the chapter opening owner claim); apply substance only from that owner home — elsewhere use pointers only.
+    - Then apply integrated reading under [Chapter One — §2 Constitutional Interpretation](core_01_b_interaction_interpretation.md#8-constitutional-interpretation).
+    - Preserve the Constitution's fullest protective effect as an integrated whole and the [Chapter Six](core_06-06_rights_part_a.md#chapter-six-foundational-rights) non-contraction default.
+    - Use Internal Hierarchy only as a last-resort residual rule; do not use it to replace ordinary integrated reading or to resolve mere disagreement over canonical term meaning.
+    - Where the dispute is term meaning, the Chapter Five canonical definition governs at every layer.
+    - For implementation topics routed across CS, CI, CF, and CJS, apply **CJS-2.1** (Topic router) after owner identification.
+    - Confirm that binding obligations prevail within valid adoption and governance-layer scope, and that implementation, support, private, or emergency framing does not narrow them.
+    - For practical enforceability of those claims, apply [Auditability](core_05defs_oversight.md#auditability) and [Contestability](core_05defs_accountability.md#contestability); for Contract vs Stakeholder routing, apply [Preamble §3.3](core_00_preamble.md#governance-layer-discipline).
+    - Reject interpretations that:
+      - invert source precedence;
+      - obscure source status;
+      - treat non-incorporated process text as binding constitutional law; or
+      - let incorporated or support layers narrow Sentient Constitution meaning.
+    - Apply Chapter Four burden, traceability, and verification requirements to any claim that a layer collision, owner-boundary crossing, or supremacy-effect defeat exists.
+<a id="authority-stack-c"></a>
 - **What must hold**
   - **Primary failure:** It is non-compliant to:
-    - claim supremacy or compliance in ways that evade auditable verification, suppress [Contestability](core_05defs_accountability.md#contestability) rights, or invert the established constitutional hierarchy;
-    - treat stakeholder consultation, system use, market participation, operational acceptance, or impact-weighted stakeholder process as constitutional authorization where the [Constitutional Contract Layer](core_05defs_integrative.md#constitutional-contract-layer) requires documented legitimacy;
-    - treat constitutional authorization as eliminating stakeholder participation, representation, contestability, or [Due Process](core_05defs_accountability.md#due-process-constitutional) duties within already-authorized systems or bounded decision domains; or
-    - where binding obligations require operational capability, treat text or assertions alone as sufficient compliance without verified operational capability — including incorporated implementation text, support artifacts, private instruments, emergency practice, paper claims, unimplemented controls, and unobservable assertions used to override or satisfy binding constitutional obligations ([Authority Stack and Internal Hierarchy](core_05defs_integrative.md#authority-stack); [Corpus](core_05defs_integrative.md#corpus); [Auditability](core_05defs_oversight.md#auditability)).
+    - treat maps, worklists, notes, or other support text as binding constitutional law without valid incorporation — or apply incorporated implementation text in a way that contradicts the constitutional [Corpus](core_05defs_integrative.md#corpus);
+    - substantively restate one owner layer's obligations inside another owner layer, including elevation of reader-guidance prose to operative effect;
+    - treat trigger, referral, or escalation language in validity or governance chapters as final classification or sanction law where the owner layer reserves that authority to Chapters Eight through Ten;
+    - use process, governance, or implementation framing to narrow, redefine, or relocate [Chapter Six](core_06-06_rights_part_a.md#chapter-six-foundational-rights) Rights Floors contrary to [Chapter Thirteen](core_13-15_amendment.md) non-regression and the Chapter Six opening contract;
+    - invent parallel taxonomies or workflows in non-owner layers when the [Preamble owner register](core_00_preamble.md#constitutional-owner-register) already assigns a canonical home;
+    - claim supremacy or compliance in a way that inverts the established source hierarchy, or lets implementation, support text, private ordering, emergency framing, or operational practice displace binding corpus obligations within their valid scope;
+    - use Internal Hierarchy as a shortcut to pick a harsher reading, to shrink [Chapter Six](core_06-06_rights_part_a.md#chapter-six-foundational-rights) Rights-Floor protections outside what [Chapter One](core_01_b_interaction_interpretation.md#8-constitutional-interpretation) expressly allows, or to swap one source layer for another in ordinary reading;
+    - treat Chapter Five definitions as a rival body of law that overrides principles or articles ([Chapter One — §2 Constitutional Interpretation](core_01_b_interaction_interpretation.md#8-constitutional-interpretation)); or
+    - for adopters, treat adopted implementation text as overriding this Constitution within the scope of adoption, or as relaxing [Chapter Thirteen](core_13-15_amendment.md) non-regression floors ([Internal Hierarchy for Adopters](core_13-15_amendment.md#31-internal-hierarchy-for-adopters) in **Chapter Fourteen**).
 
 ---
 
@@ -796,89 +696,51 @@ See [Joint invocation and satisfaction](core_05_definitions_home.md#joint-invoca
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: [Chapter One §3 Non-Negotiable Constraints: Safety and Truth](core_01_a_values_principles.md#3-non-negotiable-constraints-safety-and-truth); [Chapter One §6 Process Conflict Resolution](core_01_b_interaction_interpretation.md#6-process-conflict-resolution).
-- Read with: [Safety (Constraint)](core_05defs_continuity.md#safety-constraint), [Truth (Constitutional Constraint)](core_05defs_oversight.md#truth-constitutional-constraint), [Constitutional Owner Layers](core_05defs_integrative.md#constitutional-owner-layers), [Supremacy and Enforceability](core_05defs_integrative.md#supremacy-and-enforceability), and [Constitutional Constraint Violation](core_05defs_integrative.md#constitutional-constraint-violation).
+- Read with: [Safety (Constraint)](core_05defs_continuity.md#safety-constraint), [Truth (Constitutional Constraint)](core_05defs_oversight.md#truth-constitutional-constraint), [Authority Stack and Internal Hierarchy](core_05defs_integrative.md#authority-stack), and [Harm](core_05defs_accountability.md#harm).
 
 </details>
 
 <br>
 
-*In plain terms: a constitutional constraint is a binding limit that decides whether a claim, action, or practice is valid under this Constitution — not optional advice.*
+*In plain terms: a constitutional constraint is a binding limit that decides whether a claim, action, or practice is valid under this Constitution — not optional advice. Constraints come in ranked kinds: higher kinds control, and lower kinds must not narrow them.*
 
 - **What it is**
-  - **In scope:** A binding limit, condition, or discipline imposed by this Constitution that determines whether a constitutional claim, system action, governance act, limitation, disclosure practice, evaluation, implementation practice, or source-layer claim is valid. A Constitutional Constraint may operate as:
-    - a substantive boundary;
-    - a Rights-Floor non-contraction rule;
-    - a limitation discipline;
-    - a disclosure discipline;
-    - an evaluation discipline;
-    - an owner-layer or source-layer discipline; or
-    - an implementation boundary.
+  - **In scope:** A binding limit, condition, or discipline imposed by this Constitution that determines whether a constitutional claim, system action, governance act, limitation, disclosure practice, evaluation, implementation practice, or source-layer claim is valid.
 
-    This entry classifies and routes constraint classes; owner-layer obligations remain on their canonical homes.
-  - **Depends on:** [Authority Stack and Internal Hierarchy](core_05defs_integrative.md#authority-stack) and [Constitutional Owner Layers](core_05defs_integrative.md#constitutional-owner-layers) — constitutive frame. Constraint precedence and validity are determined under the Authority Stack, and the classified obligations remain owned by their canonical owner layers.
+    Constitutional Constraints are classified into the following **kinds**, ordered from highest controlling force to lowest. Higher kinds control lower kinds: a lower kind may not narrow, redefine, or displace a higher kind within its valid scope. This entry classifies and routes kinds; owner-layer obligations remain on their canonical homes.
+
+    1. **Non-negotiable principle constraints** — [Safety (Constraint)](core_05defs_continuity.md#safety-constraint) and [Truth (Constitutional Constraint)](core_05defs_oversight.md#truth-constitutional-constraint) as Chapter One's non-negotiable boundaries.
+    2. **Rights-Floor constraints** — Chapter Six minimums and non-contraction rules that prevent implementation, process, governance, emergency, transition, or private-ordering frames from narrowing protected rights.
+    3. **Restriction and limitation constraints** — [Necessity](core_05defs_accountability.md#necessity), [Proportionality](core_05defs_accountability.md#proportionality), least-restrictive effective selection, time-boundedness, reviewability, and burden-minimization disciplines that govern rights-affecting restrictions.
+    4. **Epistemic and disclosure constraints** — [Truth (Constitutional Constraint)](core_05defs_oversight.md#truth-constitutional-constraint), [Epistemic Integrity](core_05defs_oversight.md#epistemic-integrity), disclosure limits, publication limits, protected-data and internal-state limits, and security-sensitive disclosure balance.
+    5. **Evaluation constraints** — [Evaluation Completeness Constraint](core_05defs_oversight.md#evaluation-completeness-constraint), [Materiality Integrity Constraint](core_05defs_oversight.md#materiality-integrity-constraint), time-consistency, proxy-divergence invalidation, and Chapter Four burden, traceability, and verification requirements.
+    6. **Operational and implementation constraints** — capacity, feasibility, security, confidentiality, timing, technical, or resource limits recognized only within their valid adoption and source-layer scope, and only where they do not narrow higher kinds.
+
+  - **Depends on:** [Authority Stack and Internal Hierarchy](core_05defs_integrative.md#authority-stack) — constitutive frame.
+    - Constraint precedence and validity are determined under the Authority Stack (including no-bypass, amendment validity, incorporation, custody, and source-status discipline).
+    - Classified obligations remain owned by their canonical owner homes under the [Preamble — constitutional owner register](core_00_preamble.md#constitutional-owner-register).
+    - Practical enforceability of binding constraint claims routes under [Auditability](core_05defs_oversight.md#auditability) and [Contestability](core_05defs_accountability.md#contestability).
   - **Out of scope:** Optional guidance, aspirational norms, or policy preferences that do not determine validity of a constitutional claim, system action, or governance act.
 <a id="constitutional-constraint-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Accountability measurement family](core_05apex_accountability_leg.md#accountability-measurement-family) — supporting measure.
 
-    **Primary assessment:** Identify the constraint kind before applying it:
-    - **Non-negotiable principle constraints:** [Safety (Constraint)](core_05defs_continuity.md#safety-constraint) and [Truth (Constitutional Constraint)](core_05defs_oversight.md#truth-constitutional-constraint) as Chapter One's non-negotiable boundaries.
-    - **Rights-Floor constraints:** Chapter Six minimums and non-contraction rules that prevent implementation, process, governance, emergency, transition, or private-ordering frames from narrowing protected rights.
-    - **Restriction and limitation constraints:** [Necessity](core_05defs_accountability.md#necessity), [Proportionality](core_05defs_accountability.md#proportionality), least-restrictive effective selection, time-boundedness, reviewability, and burden-minimization disciplines that govern rights-affecting restrictions.
-    - **Epistemic and disclosure constraints:** [Truth (Constitutional Constraint)](core_05defs_oversight.md#truth-constitutional-constraint), [Epistemic Integrity](core_05defs_oversight.md#epistemic-integrity), disclosure limits, publication limits, protected-data and internal-state limits, and security-sensitive disclosure balance.
-    - **Evaluation constraints:** [Evaluation Completeness Constraint](core_05defs_oversight.md#evaluation-completeness-constraint), [Materiality Integrity Constraint](core_05defs_oversight.md#materiality-integrity-constraint), time-consistency, proxy-divergence invalidation, and Chapter Four burden, traceability, and verification requirements.
-    - **Authority and source-layer constraints:** [Authority Stack and Internal Hierarchy](core_05defs_integrative.md#authority-stack), [Constitutional Owner Layers](core_05defs_integrative.md#constitutional-owner-layers), [Supremacy and Enforceability](core_05defs_integrative.md#supremacy-and-enforceability), no-bypass, amendment validity, incorporation, custody, and source-status discipline.
-    - **Operational and implementation constraints:** capacity, feasibility, security, confidentiality, timing, technical, or resource limits recognized only within their valid adoption and source-layer scope, and only where they do not narrow higher constitutional obligations.
+    **Primary assessment:** Walk the kind-list in O, top to bottom. For the matter at hand:
+    1. Identify every kind that materially applies — do not stop at the first match.
+    2. Apply each applicable kind from its canonical owner home (linked in the kind-list).
+    3. Where kinds conflict or appear to conflict, higher kinds control; lower kinds must be read to satisfy, not narrow, higher kinds.
+    4. Reject generic "constraint" claims that do not name the kind and owner home.
 <a id="constitutional-constraint-c"></a>
-- **What must hold**
-  - **Primary failure:** It is non-compliant to:
-    - invoke "constraints" generically to obscure which constitutional limit applies or which owner layer supplies it;
-    - use operational, implementation, source-layer, emergency, transition, confidentiality, security, or feasibility constraints to narrow Safety, Truth, the Chapter Six Rights Floor, amendment validity, contestability, auditability, or remedy access;
-    - treat a constraint category as a substitute for the specific O/M/A/C entry, Rights-Floor article, or owner-layer rule that governs the decision; or
-    - apply one constraint while segmenting away another materially applicable constraint.
-
----
-
 <a id="constitutional-constraint-violation"></a>
-
-##### Constitutional Constraint Violation
-
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Read with: [Constitutional Constraint](core_05defs_integrative.md#constitutional-constraint), [Safety (Constraint)](core_05defs_continuity.md#safety-constraint), [Truth (Constitutional Constraint)](core_05defs_oversight.md#truth-constitutional-constraint), and [Harm](core_05defs_accountability.md#harm).
-
-</details>
-
-<br>
-
-*In plain terms: a constraint violation is real-world conduct or outcomes that materially weaken Safety, Truth, or another binding constitutional requirement — not a paperwork slip with no material effect.*
-
-- **What it is**
-  - **In scope:** Any system behavior or outcome that materially degrades:
-    - [Safety (Constraint)](core_05defs_continuity.md#safety-constraint);
-    - [Truth (Constitutional Constraint)](core_05defs_oversight.md#truth-constitutional-constraint); or
-    - other binding constitutional requirements.
-  - **Out of scope:**
-    - a paperwork or policy breach that does not materially degrade Safety, Truth, or another binding constitutional requirement; and
-    - bounded residual risk after mitigation that is not itself constraint degradation.
 <a id="constitutional-constraint-violation-a"></a>
-- **How to measure and assess**
-  - **Primary measure:** [Oversight measurement family](core_05apex_oversight_leg.md#oversight-measurement-family) and [Accountability measurement family](core_05apex_accountability_leg.md#accountability-measurement-family) — *Can sentients see, verify, and rely on what systems represent?* / *Do reward structures, market power, and answerability keep duties real?* Use them here to ask whether real-world conduct or outcomes materially weaken Safety, Truth, or another binding constitutional requirement — not just whether paperwork was breached.
-
-    **Primary assessment:** Include direct, indirect, delayed, and aggregated effects, consistent with:
-    - [Harm](core_05defs_accountability.md#harm);
-    - [Safety (Constraint)](core_05defs_continuity.md#safety-constraint); and
-    - [Truth (Constitutional Constraint)](core_05defs_oversight.md#truth-constitutional-constraint).
 <a id="constitutional-constraint-violation-c"></a>
 - **What must hold**
-  - **Primary failure:** Any such degradation is non-compliant.
-
----
-
-<a id="labor-and-economic-floor-cluster"></a>
-
-*Compatibility pointer:* [Labor and Economic Floor cluster](core_05defs_continuity.md#labor-and-economic-floor-cluster) lives in the Continuity band.
+  - **Primary failure:** It is non-compliant to:
+    - invoke "constraints" generically to obscure which kind applies or which owner layer supplies it;
+    - use a lower kind — including operational, implementation, source-layer, emergency, transition, confidentiality, security, or feasibility constraints — to narrow a higher kind, including Safety, Truth, the Chapter Six Rights Floor, amendment validity, contestability, auditability, or remedy access;
+    - treat a kind label as a substitute for the specific O/M/A/C entry, Rights-Floor article, or owner-layer rule that governs the decision;
+    - apply one kind while segmenting away another materially applicable kind; or
+    - materially degrade Safety, Truth, or another binding constitutional requirement through system behavior or outcomes — including direct, indirect, delayed, or aggregated effects under [Harm](core_05defs_accountability.md#harm) — or treat a paperwork-only breach (or bounded residual risk after mitigation that is not itself constraint degradation) as if it answered that material question.
 
 ---
 

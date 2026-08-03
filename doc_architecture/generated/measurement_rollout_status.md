@@ -2,10 +2,10 @@
 
 Auto-generated. Do not edit by hand.
 
-Generated: 2026-07-27T09:54:18+00:00
+Generated: 2026-08-03T21:49:54+00:00
 
 Grouped by Preamble measurement category. **Approved** terms must carry `*Measurements:*` and tier-aligned **E**/**C** per [doc_architecture.md](../doc_architecture.md) MEAS-DEF-01.
-Approved progress: **225/225** terms pass tier audit.
+Approved progress: **221/222** terms pass tier audit.
 
 
 ## 3.2 Flourishing
@@ -71,10 +71,10 @@ Approved progress: **225/225** terms pass tier audit.
 | Sustainability | approved | primary_secondary | cluster_member | `core_05defs_continuity.md` | yes | pass |
 | System | approved | primary_only | cluster_member | `core_05defs_continuity.md` | yes | pass |
 | System Alignment Certification | approved | primary_only | cluster_member | `core_05defs_continuity.md` | yes | pass |
-| System Certification Record | approved | primary_only | cluster_member | `core_05defs_continuity.md` | yes | pass |
 | System Boundaries | approved | primary_only | cluster_member | `core_05defs_continuity.md` | yes | pass |
 | System Boundary Integrity | approved | primary_only | cluster_member | `core_05defs_continuity.md` | yes | pass |
 | System Capture | approved | primary_only | cluster_member | `core_05defs_continuity.md` | yes | pass |
+| System Certification Record | approved | primary_only | cluster_member | `core_05defs_continuity.md` | yes | pass |
 | Systemic | approved | primary_only | cluster_member | `core_05defs_continuity.md` | yes | pass |
 | Systemic Lock-In | approved | primary_only | cluster_member | `core_05defs_continuity.md` | yes | pass |
 | Systemic Materiality | approved | primary_only | cluster_member | `core_05defs_continuity.md` | yes | pass |
@@ -119,7 +119,7 @@ Approved progress: **225/225** terms pass tier audit.
 | Protected Characteristic Proxying and Disparate Impact | approved | full | cluster_member | `core_05defs_participation.md` | yes | pass |
 | Protected Characteristics | approved | primary_only | cluster_member | `core_05defs_participation.md` | yes | pass |
 | Protected Commercial Sexual Services Status and **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) Circumvention | approved | primary_only | cluster_member | `core_05defs_participation.md` | yes | pass |
-| Protected Internal-State Boundary | approved | primary_secondary | cluster_member | `core_05defs_continuity.md` | yes | pass |
+| Protected Internal-State Boundary | approved | primary_secondary | — | `core_05defs_continuity.md` | no | fail |
 | Protected Intimate-Signal Gating | approved | primary_only | cluster_member | `core_05defs_participation.md` | yes | pass |
 | Refuge from Non-Compliance | approved | primary_only | cluster_member | `core_05defs_participation.md` | yes | pass |
 | Reproductive Autonomy | approved | primary_only | cluster_member | `core_05defs_participation.md` | yes | pass |
@@ -146,7 +146,6 @@ Approved progress: **225/225** terms pass tier audit.
 | Authority Stack and Internal Hierarchy | approved | primary_only | cluster_member | `core_05defs_integrative.md` | yes | pass |
 | Capability Requirement | approved | primary_only | independent | `core_05defs_oversight.md` | yes | pass |
 | Classification-Scaled Governance | approved | primary_only | cluster_member | `core_05defs_oversight.md` | yes | pass |
-| Constitutional Constraint Violation | approved | primary_only | cluster_member | `core_05defs_integrative.md` | yes | pass |
 | Corpus | approved | primary_only | cluster_member | `core_05defs_integrative.md` | yes | pass |
 | Epistemic Integrity | approved | full | cluster_member | `core_05defs_oversight.md` | yes | pass |
 | Evaluation Completeness Constraint | approved | primary_only | cluster_member | `core_05defs_oversight.md` | yes | pass |
@@ -173,7 +172,6 @@ Approved progress: **225/225** terms pass tier audit.
 | Reasonably Foreseeable | approved | primary_only | cluster_member | `core_05defs_oversight.md` | yes | pass |
 | Risk Evaluation and Disclosure | approved | primary_only | cluster_member | `core_05defs_oversight.md` | yes | pass |
 | Security-Sensitive Disclosure Balance | approved | primary_only | cluster_member | `core_05defs_oversight.md` | yes | pass |
-| Supremacy and Enforceability | approved | primary_only | cluster_member | `core_05defs_integrative.md` | yes | pass |
 | Transparency | approved | full | cluster_member | `core_05defs_oversight.md` | yes | pass |
 | Trust | approved | primary_only | cluster_member | `core_05defs_continuity.md` | yes | pass |
 | Trust Degradation and Misleading Reliance | approved | primary_only | cluster_member | `core_05defs_continuity.md` | yes | pass |
@@ -197,8 +195,7 @@ Approved progress: **225/225** terms pass tier audit.
 | Competency Bar | approved | primary_only | cluster_member | `core_05defs_accountability.md` | yes | pass |
 | Competency Clearance | approved | primary_only | cluster_member | `core_05defs_accountability.md` | yes | pass |
 | Constitutional Constraint | approved | primary_only | cluster_member | `core_05defs_integrative.md` | yes | pass |
-| Constitutional Contract Layer | approved | primary_only | independent | `core_05defs_integrative.md` | yes | pass |
-| Constitutional Owner Layers | approved | primary_only | cluster_member | `core_05defs_integrative.md` | yes | pass |
+| Constitutional Contract Layer | approved | primary_only | cluster_member | `core_05defs_integrative.md` | yes | pass |
 | Contestability | approved | full | cluster_member | `core_05defs_accountability.md` | yes | pass |
 | Contingent Claim | approved | primary_only | cluster_member | `core_05defs_accountability.md` | yes | pass |
 | Contribution Nature | approved | primary_only | cluster_member | `core_05defs_accountability.md` | yes | pass |

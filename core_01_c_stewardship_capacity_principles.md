@@ -984,7 +984,6 @@ Chapter One supplies the constitutional orientation: classification, compliance,
 
 - [Corpus](core_05defs_integrative.md#corpus) · [O](core_05defs_integrative.md#corpus) · [A](core_05defs_integrative.md#corpus-a) · [C](core_05defs_integrative.md#corpus-c)
 - [Authority Stack and Internal Hierarchy](core_05defs_integrative.md#authority-stack) · [O](core_05defs_integrative.md#authority-stack) · [A](core_05defs_integrative.md#authority-stack-a) · [C](core_05defs_integrative.md#authority-stack-c)
-- [Supremacy and Enforceability](core_05defs_integrative.md#supremacy-and-enforceability) · [O](core_05defs_integrative.md#supremacy-and-enforceability) · [A](core_05defs_integrative.md#supremacy-and-enforceability-a) · [C](core_05defs_integrative.md#supremacy-and-enforceability-c)
 - [Irreversible Harm](core_05defs_accountability.md#irreversible-harm) · [O](core_05defs_accountability.md#irreversible-harm) · [A](core_05defs_accountability.md#irreversible-harm-a) · [C](core_05defs_accountability.md#irreversible-harm-c)
 - [Truth (Constitutional Constraint)](core_05defs_oversight.md#truth-constitutional-constraint) · [O](core_05defs_oversight.md#truth-constitutional-constraint-o) · [A](core_05defs_oversight.md#truth-constitutional-constraint-a) · [C](core_05defs_oversight.md#truth-constitutional-constraint-c)
 - [Meaningful Agency](core_05defs_participation.md#meaningful-agency) · [O](core_05defs_accountability.md#meaningful-agency-o) · [A](core_05defs_participation.md#meaningful-agency-a) · [C](core_05defs_participation.md#meaningful-agency-c)

@@ -156,7 +156,7 @@ Binding router table, overlap discipline, and definition-tier rules: [cjs_02_imp
 
 - [Corpus](../core_05defs_integrative.md#corpus) · [O](../core_05defs_integrative.md#corpus) · [A](../core_05defs_integrative.md#corpus-a) · [C](../core_05defs_integrative.md#corpus-c)
 - [Authority Stack and Internal Hierarchy](../core_05defs_integrative.md#authority-stack) · [O](../core_05defs_integrative.md#authority-stack) · [A](../core_05defs_integrative.md#authority-stack-a) · [C](../core_05defs_integrative.md#authority-stack-c)
-- [Supremacy and Enforceability](../core_05defs_integrative.md#supremacy-and-enforceability) · [O](../core_05defs_integrative.md#supremacy-and-enforceability) · [A](../core_05defs_integrative.md#supremacy-and-enforceability-a) · [C](../core_05defs_integrative.md#supremacy-and-enforceability-c)
+- [Authority Stack and Internal Hierarchy](../core_05defs_integrative.md#authority-stack) · [O](../core_05defs_integrative.md#authority-stack) · [A](../core_05defs_integrative.md#authority-stack-a) · [C](../core_05defs_integrative.md#authority-stack-c)
 
 </details>
 

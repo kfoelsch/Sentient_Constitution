@@ -323,7 +323,7 @@
       "tier_depth": "primary_only",
       "status": "approved"
     },
-    "Binding Stakeholder Choice \u2014 Decision-Resolution Requirements": {
+    "Binding Stakeholder Choice — Decision-Resolution Requirements": {
       "ch00_category": "3.4 Participation",
       "tier_depth": "primary_only",
       "status": "approved"
@@ -398,11 +398,6 @@
       "tier_depth": "primary_only",
       "status": "approved"
     },
-    "Constitutional Constraint Violation": {
-      "ch00_category": "3.5 Oversight",
-      "tier_depth": "primary_only",
-      "status": "approved"
-    },
     "Constitutional Contract Layer": {
       "ch00_category": "3.6 Accountability",
       "tier_depth": "primary_only",
@@ -410,11 +405,6 @@
     },
     "Constitutional Emergency and Contingency": {
       "ch00_category": "3.3 Continuity",
-      "tier_depth": "primary_only",
-      "status": "approved"
-    },
-    "Constitutional Owner Layers": {
-      "ch00_category": "3.6 Accountability",
       "tier_depth": "primary_only",
       "status": "approved"
     },
@@ -643,12 +633,12 @@
       "tier_depth": "primary_only",
       "status": "approved"
     },
-    "Incentive Alignment \u2014 baseline constitutional alignment": {
+    "Incentive Alignment — baseline constitutional alignment": {
       "ch00_category": "3.6 Accountability",
       "tier_depth": "primary_only",
       "status": "approved"
     },
-    "Incentive Alignment \u2014 contingent claims, games of chance, and event-contract markets": {
+    "Incentive Alignment — contingent claims, games of chance, and event-contract markets": {
       "ch00_category": "3.6 Accountability",
       "tier_depth": "primary_only",
       "status": "approved"
@@ -965,11 +955,6 @@
     },
     "Strategic Stewardship Obligation": {
       "ch00_category": "3.3 Continuity",
-      "tier_depth": "primary_only",
-      "status": "approved"
-    },
-    "Supremacy and Enforceability": {
-      "ch00_category": "3.5 Oversight",
       "tier_depth": "primary_only",
       "status": "approved"
     },

@@ -1,6 +1,6 @@
 # Constitution document architecture
 
-This file is the **editor map** for the Sentient Constitution corpus. **Binding text** lives in the numbered `core_*` files (inventory in [README.md](README.md)), [corpus_joint_structure.md](corpus_joint_structure.md), [corpus_systems.md](corpus_systems.md), [corpus_institutions.md](corpus_institutions.md), and [corpus_forum.md](corpus_forum.md). **Corpus** is defined in [Chapter Five Chapter One §8.16 *Corpus, Authority Stack, Supremacy, and Enforceability*](core_05defs_accountability.md#corpus-authority-stack-supremacy-and-enforceability-cluster). Edition labels and custody metadata: [README.md](README.md).
+This file is the **editor map** for the Sentient Constitution corpus. **Binding text** lives in the numbered `core_*` files (inventory in [README.md](README.md)), [corpus_joint_structure.md](corpus_joint_structure.md), [corpus_systems.md](corpus_systems.md), [corpus_institutions.md](corpus_institutions.md), and [corpus_forum.md](corpus_forum.md). **Corpus** is defined in [Chapter Five Chapter One §8.16 *Corpus and Authority Stack*](core_05defs_accountability.md#corpus-authority-stack-supremacy-and-enforceability-cluster). Edition labels and custody metadata: [README.md](README.md).
 
 Retired architecture sections **14–19** (worklist, adoption appendix, document control) → [archive/ARCHITECTURE_ADOPTION_APPENDIX_ARCHIVED_2026-05-08.md](archive/ARCHITECTURE_ADOPTION_APPENDIX_ARCHIVED_2026-05-08.md) and [archive/ARCHITECTURE_WORKLIST_ARCHIVED_2026-05-08.md](archive/ARCHITECTURE_WORKLIST_ARCHIVED_2026-05-08.md).
 
@@ -29,7 +29,7 @@ Filename renames require: reference audit, same-change link updates, dated evide
 
 **Numbering note:** When a passage says only “Chapter Twelve,” disambiguate by filename — see [README.md](README.md).
 
-**Constitutional owner layers:** canonical positive register — [Chapter Five — Constitutional Owner Layers](core_05defs_integrative.md#constitutional-owner-layers). The table below is the editorial mirror; substantive owner discipline and non-relocation rules live in that Chapter Five entry. **Binding owner claims** at chapter openings follow **OWNER-OPENING-01** in **section 4**.
+**Constitutional owner layers:** canonical positive register — [Preamble — constitutional owner register](core_00_preamble.md#constitutional-owner-register) (sections 4–7). The table below is the editorial mirror; substantive owner non-relocation discipline lives under [Authority Stack and Internal Hierarchy](core_05defs_integrative.md#authority-stack). **Binding owner claims** at chapter openings follow **OWNER-OPENING-01** in **section 4**.
 
 | Layer | Primary home | Routing |
 |--------|--------------|---------|
@@ -131,7 +131,7 @@ Collapsed **Reader guidance (non-operative)** widgets give readers orientation w
 
 Each numbered owner-layer chapter states **who owns what** in one binding operative sentence at the chapter opening — not inside collapsed widgets and not buried in **§1 Purpose and Role**.
 
-**Canonical register:** substantive owner homes and non-relocation discipline live in [Chapter Five — Constitutional Owner Layers](core_05defs_integrative.md#constitutional-owner-layers). The opening sentence is the chapter's positive owner claim; the registry is the cross-chapter index.
+**Canonical register:** substantive owner homes live in the [Preamble — constitutional owner register](core_00_preamble.md#constitutional-owner-register) (sections 4–7); non-relocation discipline lives under [Authority Stack and Internal Hierarchy](core_05defs_integrative.md#authority-stack). The opening sentence is the chapter's positive owner claim; the Preamble register is the cross-chapter index.
 
 **Placement rule (stack order):**
 

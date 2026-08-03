@@ -508,7 +508,6 @@ No value defined in this chapter may be used as a universal or unbounded justifi
 
 - [Corpus](core_05defs_integrative.md#corpus) · [O](core_05defs_integrative.md#corpus) · [A](core_05defs_integrative.md#corpus-a) · [C](core_05defs_integrative.md#corpus-c)
 - [Authority Stack and Internal Hierarchy](core_05defs_integrative.md#authority-stack) · [O](core_05defs_integrative.md#authority-stack) · [A](core_05defs_integrative.md#authority-stack-a) · [C](core_05defs_integrative.md#authority-stack-c)
-- [Supremacy and Enforceability](core_05defs_integrative.md#supremacy-and-enforceability) · [O](core_05defs_integrative.md#supremacy-and-enforceability) · [A](core_05defs_integrative.md#supremacy-and-enforceability-a) · [C](core_05defs_integrative.md#supremacy-and-enforceability-c)
 - [Proportionality](core_05defs_accountability.md#proportionality) · [O](core_05defs_accountability.md#proportionality) · [A](core_05defs_accountability.md#proportionality-a) · [C](core_05defs_accountability.md#proportionality-c)
 - [Necessity](core_05defs_accountability.md#necessity) · [O](core_05defs_accountability.md#necessity) · [A](core_05defs_accountability.md#necessity-a) · [C](core_05defs_accountability.md#necessity-c)
 
@@ -604,7 +603,7 @@ Where **[Chapter Sixteen](core_16-16_incorporation.md#2-authority-stack-and-invo
 
 - [Stakeholder Status, Emergency, and Participation Weight](core_05defs_participation.md#stakeholder-status-emergency-and-participation-weight-cluster) (Stakeholder System Participation layer)
 - [Constitutional Contract Layer](core_05defs_integrative.md#constitutional-contract-layer) and [Governance Architecture, Oversight, Dependency, Decentralization, Concentration, Market Structure, and Exit-Path Integrity](core_05defs_accountability.md#governance-architecture-oversight-decentralization-and-concentration-cluster)
-- [Corpus, Authority Stack, Supremacy, and Enforceability](core_05defs_accountability.md#corpus-authority-stack-supremacy-and-enforceability-cluster)
+- [Corpus and Authority Stack](core_05defs_accountability.md#corpus-authority-stack-supremacy-and-enforceability-cluster)
 - [Accountability, Contestability, and Collective Accountability Failure](core_05defs_integrative.md#accountability-contestability-and-collective-accountability-failure-cluster)
 
 **CJS-5** (*Implementation and cross-implementation operational cluster library*) operational cluster compass (cross-implementation joint operational terms — read with this chapter's Tetrad, Aims, and material-stake scaling):

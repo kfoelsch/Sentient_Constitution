@@ -1,39 +1,25 @@
 {
-  "generated": "2026-07-22T13:33:46+00:00",
-  "total_hits": 17,
+  "generated": "2026-08-03T20:43:03+00:00",
+  "total_hits": 7,
   "by_theme": {
-    "layer_separation": 4,
+    "layer_separation": 2,
     "symbolic_participation": 1,
-    "rights_floor_jurisdiction": 7,
-    "global_integrity_negative": 1,
-    "neighbor_disambiguation": 1,
-    "anti_formalism": 3
+    "rights_floor_jurisdiction": 2,
+    "anti_formalism": 2
   },
   "by_action": {
-    "thin": 4,
-    "keep": 8,
-    "review": 3,
-    "canonical": 2
+    "thin": 3,
+    "keep": 2,
+    "review": 2
   },
   "by_file": {
     "core_05apex_participation_leg.md": 2,
-    "core_05defs_accountability.md": 5,
-    "core_05defs_continuity.md": 2,
-    "core_05defs_integrative.md": 3,
     "core_05defs_participation.md": 5
   },
   "duplicate_clusters": [
     {
       "term": "Sentience Status Adjudication",
       "theme_id": "rights_floor_jurisdiction",
-      "components": [
-        "C",
-        "O"
-      ]
-    },
-    {
-      "term": "Supremacy and Enforceability",
-      "theme_id": "layer_separation",
       "components": [
         "C",
         "O"
@@ -66,128 +52,8 @@
       "pattern": "symbolic participation"
     },
     {
-      "file": "core_05defs_accountability.md",
-      "line": 2239,
-      "term": "Use of Force",
-      "component": "O",
-      "theme_id": "rights_floor_jurisdiction",
-      "theme_label": "Rights-Floor jurisdiction / does not displace Ch6",
-      "action": "keep",
-      "canonical_home": "core_06-06_rights_part_*.md; Trace routing",
-      "excerpt": "The Rights-Floor concept for overt physical, coercive, or kinetic force by institutions, stewards, operators, or comparable actors. It includes security, policing, conflict, and military-power deployment. Use of Force i\u2026",
-      "pattern": "rights-floor concept"
-    },
-    {
-      "file": "core_05defs_accountability.md",
-      "line": 2348,
-      "term": "Combatant / Non-Combatant Distinction",
-      "component": "O",
-      "theme_id": "global_integrity_negative",
-      "theme_label": "Global integrity negative (harm / deception / capture / proxy divorce)",
-      "action": "thin",
-      "canonical_home": "core_01_c_stewardship_capacity_principles.md \u00a711.1.2; core_01_a_values_principles.md \u00a73 Safety/Truth; Proxy Divergence",
-      "excerpt": "At the time of each applicable use-of-force decision, distinguish sentients who are directly taking part in hostilities, armed action, or active coercive-force conduct (combatants) from those who are not (non-combatants\u2026",
-      "pattern": "does not authorize"
-    },
-    {
-      "file": "core_05defs_accountability.md",
-      "line": 2385,
-      "term": "Irreversible Deprivation Measure",
-      "component": "O",
-      "theme_id": "neighbor_disambiguation",
-      "theme_label": "Neighbor term disambiguation (distinct from \u2026)",
-      "action": "keep",
-      "canonical_home": "(local term pair \u2014 no global fold)",
-      "excerpt": "The Rights-Floor concept for justice measures that irreversibly deprive a sentient. The central example is deprivation of life by a state, operator, or comparable actor as a justice measure. It also covers any measure w\u2026",
-      "pattern": "is distinct from"
-    },
-    {
-      "file": "core_05defs_accountability.md",
-      "line": 2385,
-      "term": "Irreversible Deprivation Measure",
-      "component": "O",
-      "theme_id": "rights_floor_jurisdiction",
-      "theme_label": "Rights-Floor jurisdiction / does not displace Ch6",
-      "action": "keep",
-      "canonical_home": "core_06-06_rights_part_*.md; Trace routing",
-      "excerpt": "The Rights-Floor concept for justice measures that irreversibly deprive a sentient. The central example is deprivation of life by a state, operator, or comparable actor as a justice measure. It also covers any measure w\u2026",
-      "pattern": "rights-floor concept"
-    },
-    {
-      "file": "core_05defs_accountability.md",
-      "line": 2447,
-      "term": "Autonomous Coercion Tool",
-      "component": "C",
-      "theme_id": "anti_formalism",
-      "theme_label": "Anti-formalism / label-gaming evasion block",
-      "action": "review",
-      "canonical_home": "core_02-03_definition_mechanics.md Chapter Three \u00a72.2.1; core_01_c_stewardship_capacity_principles.md \u00a711.6 for formal-structure change; term-specific C on gamed entries",
-      "excerpt": "The following are non-compliant: - deploying or using an Autonomous Coercion Tool without meeting **Article XIII-C**'s heightened-scrutiny floor (*Autonomous Lethal Systems and Autonomous Coercion Tools*); - using a rub\u2026",
-      "pattern": "human-in-the-loop"
-    },
-    {
-      "file": "core_05defs_continuity.md",
-      "line": 1591,
-      "term": "Creative Work Attribution",
-      "component": "O",
-      "theme_id": "rights_floor_jurisdiction",
-      "theme_label": "Rights-Floor jurisdiction / does not displace Ch6",
-      "action": "keep",
-      "canonical_home": "core_06-06_rights_part_*.md; Trace routing",
-      "excerpt": "The Rights-Floor concept addressing the attribution interest sentients hold in creative, intellectual, or comparable expressive work they produce, where that work is used, reproduced, adapted, transformed, or incorporat\u2026",
-      "pattern": "rights-floor concept"
-    },
-    {
-      "file": "core_05defs_continuity.md",
-      "line": 1642,
-      "term": "Anti-Displacement Floor",
-      "component": "O",
-      "theme_id": "rights_floor_jurisdiction",
-      "theme_label": "Rights-Floor jurisdiction / does not displace Ch6",
-      "action": "keep",
-      "canonical_home": "core_06-06_rights_part_*.md; Trace routing",
-      "excerpt": "The Rights-Floor concept governing deployment of generative, automation, or comparable systems that produce material displacement of sentient labor at population scale. Displacement is material when, at population scale\u2026",
-      "pattern": "rights-floor concept"
-    },
-    {
-      "file": "core_05defs_integrative.md",
-      "line": 427,
-      "term": "Supremacy and Enforceability",
-      "component": "O",
-      "theme_id": "layer_separation",
-      "theme_label": "Governance layer separation (authorization vs participation)",
-      "action": "canonical",
-      "canonical_home": "core_00_preamble.md \u00a74\u2013\u00a75; core_05defs_integrative.md Constitutional Contract cluster",
-      "excerpt": "The requirement that binding corpus obligations prevail within their valid source, adoption, and governance-layer scope, and remain enforceable through observable, traceable, and [Contestability](core_05defs_accountabil\u2026",
-      "pattern": "stakeholder system participation"
-    },
-    {
-      "file": "core_05defs_integrative.md",
-      "line": 436,
-      "term": "Supremacy and Enforceability",
-      "component": "C",
-      "theme_id": "layer_separation",
-      "theme_label": "Governance layer separation (authorization vs participation)",
-      "action": "canonical",
-      "canonical_home": "core_00_preamble.md \u00a74\u2013\u00a75; core_05defs_integrative.md Constitutional Contract cluster",
-      "excerpt": "Non-compliant: - claims of supremacy or compliance that evade auditable verification, suppress [Contestability](core_05defs_accountability.md#contestability) rights, or invert the established constitutional hierarchy; -\u2026",
-      "pattern": "constitutional contract layer"
-    },
-    {
-      "file": "core_05defs_integrative.md",
-      "line": 475,
-      "term": "Constitutional Constraint",
-      "component": "C",
-      "theme_id": "rights_floor_jurisdiction",
-      "theme_label": "Rights-Floor jurisdiction / does not displace Ch6",
-      "action": "keep",
-      "canonical_home": "core_06-06_rights_part_*.md; Trace routing",
-      "excerpt": "Non-compliant: - invoking \"constraints\" generically to obscure which constitutional limit applies or which owner layer supplies it; - using operational, implementation, source-layer, emergency, transition, confidentiali\u2026",
-      "pattern": "chapter six rights floor"
-    },
-    {
       "file": "core_05defs_participation.md",
-      "line": 1623,
+      "line": 1639,
       "term": "Sentience Status Adjudication",
       "component": "O",
       "theme_id": "rights_floor_jurisdiction",
@@ -199,7 +65,7 @@
     },
     {
       "file": "core_05defs_participation.md",
-      "line": 1639,
+      "line": 1655,
       "term": "Sentience Status Adjudication",
       "component": "C",
       "theme_id": "anti_formalism",
@@ -211,7 +77,7 @@
     },
     {
       "file": "core_05defs_participation.md",
-      "line": 1639,
+      "line": 1655,
       "term": "Sentience Status Adjudication",
       "component": "C",
       "theme_id": "rights_floor_jurisdiction",
@@ -223,7 +89,7 @@
     },
     {
       "file": "core_05defs_participation.md",
-      "line": 1690,
+      "line": 1712,
       "term": "Binding Stakeholder Choice \u2014 Decision-Resolution Requirements",
       "component": "O",
       "theme_id": "layer_separation",
@@ -235,7 +101,7 @@
     },
     {
       "file": "core_05defs_participation.md",
-      "line": 1703,
+      "line": 1725,
       "term": "Binding Stakeholder Choice \u2014 Decision-Resolution Requirements",
       "component": "C",
       "theme_id": "anti_formalism",

@@ -61,7 +61,7 @@ Leaf definitions under this aim inherit its scope unless they expressly narrow o
 - [Chapter One §8.2 *Transparency, Auditability, and Verification*](core_05defs_oversight.md#transparency-auditability-and-verification-cluster)
 - [Chapter One §8.10 *Standing State, Contribution, and Violation*](core_05defs_accountability.md#standing-state-contribution-and-violation-cluster)
 - [Chapter One §8.14 *Privacy (Informational)*](core_05defs_continuity.md#privacy-informational-cluster)
-- [Chapter One §8.16 *Corpus, Authority Stack, Supremacy, and Enforceability*](core_05defs_integrative.md#corpus-authority-stack-supremacy-and-enforceability-cluster)
+- [Chapter One §8.16 *Corpus and Authority Stack*](core_05defs_integrative.md#corpus-authority-stack-supremacy-and-enforceability-cluster)
 
 ---
 

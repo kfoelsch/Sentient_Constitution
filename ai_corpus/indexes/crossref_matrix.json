@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-08-03T17:35:27+00:00",
+  "generated_at": "2026-08-03T21:49:55+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -534,9 +534,10 @@
           },
           {
             "file": "core_05defs_accountability.md",
-            "count": 5,
+            "count": 7,
             "anchors": [
               "#capture-of-resolution-pathways",
+              "#contestability",
               "#due-process-constitutional",
               "#market-structure-constitutional",
               "#timely-resolution-constitutional"
@@ -562,8 +563,9 @@
           },
           {
             "file": "core_05defs_integrative.md",
-            "count": 4,
+            "count": 7,
             "anchors": [
+              "#authority-stack",
               "#constitutional-contract-layer",
               "#corpus",
               "#incentive-alignment"
@@ -1190,7 +1192,7 @@
           },
           {
             "file": "core_05defs_integrative.md",
-            "count": 16,
+            "count": 12,
             "anchors": [
               "#accountability-contestability-and-collective-accountability-failure-cluster",
               "#authority-stack",
@@ -1200,10 +1202,7 @@
               "#constitutional-contract-layer",
               "#corpus",
               "#corpus-a",
-              "#corpus-c",
-              "#supremacy-and-enforceability",
-              "#supremacy-and-enforceability-a",
-              "#supremacy-and-enforceability-c"
+              "#corpus-c"
             ]
           },
           {
@@ -1545,7 +1544,7 @@
           },
           {
             "file": "core_05defs_integrative.md",
-            "count": 26,
+            "count": 22,
             "anchors": [
               "#authority-stack",
               "#authority-stack-a",
@@ -1553,10 +1552,7 @@
               "#corpus",
               "#corpus-a",
               "#corpus-c",
-              "#incentive-alignment",
-              "#supremacy-and-enforceability",
-              "#supremacy-and-enforceability-a",
-              "#supremacy-and-enforceability-c"
+              "#incentive-alignment"
             ]
           },
           {
@@ -1768,8 +1764,9 @@
         "targets": [
           {
             "file": "core_00_preamble.md",
-            "count": 9,
+            "count": 10,
             "anchors": [
+              "#constitutional-owner-register",
               "#constitutional-tetrad",
               "#material-stake",
               "#the-model",
@@ -1837,11 +1834,10 @@
           },
           {
             "file": "core_05defs_integrative.md",
-            "count": 6,
+            "count": 5,
             "anchors": [
               "#authority-stack",
               "#constitutional-constraint",
-              "#constitutional-owner-layers",
               "#non-compliance"
             ]
           },
@@ -2233,13 +2229,11 @@
           },
           {
             "file": "core_05defs_integrative.md",
-            "count": 18,
+            "count": 15,
             "anchors": [
               "#authority-stack",
               "#constitutional-constraint",
-              "#constitutional-constraint-violation",
               "#constitutional-contract-layer",
-              "#constitutional-owner-layers",
               "#corpus",
               "#corpus-authority-stack-supremacy-and-enforceability-cluster",
               "#foundational-constitutional-choice",
@@ -2249,8 +2243,7 @@
               "#incentive-alignment-semi-independent",
               "#incentive-alignment-strategic-scaled-and-adversarial-evaluation",
               "#innovation-reward-and-anti-enclosure",
-              "#non-compliance",
-              "#supremacy-and-enforceability"
+              "#non-compliance"
             ]
           },
           {
@@ -3176,11 +3169,11 @@
             "count": 21,
             "anchors": [
               "#accountability-contestability-and-collective-accountability-failure-cluster",
-              "#constitutional-constraint-violation",
+              "#authority-stack",
+              "#constitutional-constraint",
               "#constitutional-contract-layer",
               "#incentive-alignment",
-              "#non-compliance",
-              "#supremacy-and-enforceability"
+              "#non-compliance"
             ]
           },
           {
@@ -3388,9 +3381,10 @@
         "targets": [
           {
             "file": "core_00_preamble.md",
-            "count": 25,
+            "count": 28,
             "anchors": [
               "#chapter-00-preamble--foundational-requirements",
+              "#constitutional-owner-register",
               "#constitutional-tetrad",
               "#material-stake",
               "#measurements-overview",
@@ -3610,11 +3604,11 @@
             "anchors": [
               "#authority-stack",
               "#constitutional-contract-layer",
-              "#constitutional-owner-layers",
               "#foundational-constitutional-choice",
               "#incentive-alignment",
               "#innovation-reward-and-anti-enclosure",
-              "#labor-and-economic-floor-cluster"
+              "#labor-and-economic-floor-cluster",
+              "#owner-non-relocation"
             ]
           },
           {
@@ -3832,8 +3826,9 @@
         "targets": [
           {
             "file": "core_00_preamble.md",
-            "count": 9,
+            "count": 20,
             "anchors": [
+              "#constitutional-owner-register",
               "#constitutional-tetrad",
               "#governance-layer-discipline",
               "#material-stake",
@@ -3842,7 +3837,7 @@
           },
           {
             "file": "core_01_a_values_principles.md",
-            "count": 3,
+            "count": 4,
             "anchors": [
               "#3-non-negotiable-constraints-safety-and-truth",
               "#5-freedom-bounded-agency"
@@ -3858,13 +3853,14 @@
           },
           {
             "file": "core_01_c_stewardship_capacity_principles.md",
-            "count": 16,
+            "count": 19,
             "anchors": [
               "#10-governance-under-stewardship-discipline",
               "#11-incentive-alignment-and-system-capture",
               "#111-alignment-requirement",
               "#1113-stewardship-and-operator-application",
               "#1114-role-depth-and-material-responsibility-pathways",
+              "#1115-constitutional-outcome-claims-discipline",
               "#112-convenient-proxies-and-proxy-divergence",
               "#113-misalignment-detection",
               "#114-misalignment-correction-and-capture-response",
@@ -3901,21 +3897,21 @@
           },
           {
             "file": "core_05apex_accountability_leg.md",
-            "count": 13,
+            "count": 9,
             "anchors": [
               "#accountability-measurement-family"
             ]
           },
           {
             "file": "core_05apex_oversight_leg.md",
-            "count": 4,
+            "count": 2,
             "anchors": [
               "#oversight-measurement-family"
             ]
           },
           {
             "file": "core_05defs_accountability.md",
-            "count": 33,
+            "count": 36,
             "anchors": [
               "#capture-of-resolution-pathways",
               "#contestability",
@@ -3935,10 +3931,13 @@
           },
           {
             "file": "core_05defs_continuity.md",
-            "count": 31,
+            "count": 33,
             "anchors": [
+              "#avoidable-burden",
+              "#constitutional-efficiency",
               "#dependency",
               "#labor-and-economic-floor-cluster",
+              "#productive-capacity-constitutional",
               "#residual-risk--misalignment",
               "#reversibility-constitutional",
               "#risk",
@@ -3952,13 +3951,11 @@
           },
           {
             "file": "core_05defs_integrative.md",
-            "count": 62,
+            "count": 41,
             "anchors": [
               "#authority-stack",
               "#constitutional-constraint",
-              "#constitutional-constraint-violation",
               "#constitutional-contract-layer",
-              "#constitutional-owner-layers",
               "#corpus",
               "#corpus-authority-stack-supremacy-and-enforceability-cluster",
               "#foundational-constitutional-choice",
@@ -3966,13 +3963,12 @@
               "#incentive-alignment-baseline-constitutional-alignment",
               "#incentive-alignment-contingent-claims-games-of-chance-and-event-contract-markets",
               "#incentive-alignment-semi-independent",
-              "#incentive-alignment-strategic-scaled-and-adversarial-evaluation",
-              "#supremacy-and-enforceability"
+              "#incentive-alignment-strategic-scaled-and-adversarial-evaluation"
             ]
           },
           {
             "file": "core_05defs_oversight.md",
-            "count": 30,
+            "count": 31,
             "anchors": [
               "#adversarial-scaled-and-exploited-conditions",
               "#auditability",
@@ -3986,7 +3982,7 @@
           },
           {
             "file": "core_05defs_participation.md",
-            "count": 21,
+            "count": 19,
             "anchors": [
               "#binding-stakeholder-choice-cluster",
               "#lifespan-equivalent-unit-lequ",
@@ -4001,7 +3997,7 @@
           },
           {
             "file": "core_06-06_rights_part_a.md",
-            "count": 5,
+            "count": 4,
             "anchors": [
               "#chapter-six--layer-scope",
               "#chapter-six-foundational-rights"
@@ -4041,17 +4037,19 @@
           },
           {
             "file": "core_13-15_amendment.md",
-            "count": 7,
+            "count": 11,
             "anchors": [
               "#10-ratification-and-adoption",
               "#12-layer-scope",
+              "#3-supremacy-relative-to-other-binding-norms",
               "#31-internal-hierarchy-for-adopters",
-              "#4-layer-scope"
+              "#4-layer-scope",
+              "#chapter-fifteen-amendment-ratification-and-procedural-validity"
             ]
           },
           {
             "file": "core_16-16_incorporation.md",
-            "count": 3,
+            "count": 4,
             "anchors": [
               "#2-authority-stack-and-invocation",
               "#4-adoption-framing-and-scope-of-authority",
@@ -4059,23 +4057,8 @@
             ]
           },
           {
-            "file": "corpus_forum.md",
-            "count": 1,
-            "anchors": []
-          },
-          {
-            "file": "corpus_institutions.md",
-            "count": 1,
-            "anchors": []
-          },
-          {
-            "file": "corpus_joint_structure.md",
-            "count": 1,
-            "anchors": []
-          },
-          {
             "file": "corpus_systems.md",
-            "count": 2,
+            "count": 1,
             "anchors": []
           }
         ]
@@ -4159,7 +4142,7 @@
           },
           {
             "file": "core_05defs_accountability.md",
-            "count": 70,
+            "count": 71,
             "anchors": [
               "#contestability",
               "#feasibility",
@@ -4194,8 +4177,9 @@
           },
           {
             "file": "core_05defs_integrative.md",
-            "count": 3,
+            "count": 4,
             "anchors": [
+              "#authority-stack",
               "#incentive-alignment"
             ]
           },
@@ -4682,8 +4666,9 @@
         "targets": [
           {
             "file": "core_00_preamble.md",
-            "count": 24,
+            "count": 25,
             "anchors": [
+              "#constitutional-owner-register",
               "#constitutional-tetrad",
               "#continuity",
               "#flourishing",
@@ -4777,10 +4762,9 @@
           },
           {
             "file": "core_05defs_integrative.md",
-            "count": 3,
+            "count": 2,
             "anchors": [
               "#authority-stack",
-              "#constitutional-owner-layers",
               "#incentive-alignment"
             ]
           },
@@ -4933,8 +4917,9 @@
         "targets": [
           {
             "file": "core_00_preamble.md",
-            "count": 12,
+            "count": 15,
             "anchors": [
+              "#constitutional-owner-register",
               "#constitutional-tetrad",
               "#material-stake",
               "#two-constitutional-aims"
@@ -4977,10 +4962,10 @@
           },
           {
             "file": "core_05defs_integrative.md",
-            "count": 4,
+            "count": 3,
             "anchors": [
               "#authority-stack",
-              "#constitutional-owner-layers"
+              "#owner-non-relocation"
             ]
           },
           {
@@ -5209,13 +5194,13 @@
             "file": "core_05defs_integrative.md",
             "count": 2,
             "anchors": [
-              "#constitutional-constraint-violation",
-              "#supremacy-and-enforceability"
+              "#authority-stack",
+              "#constitutional-constraint"
             ]
           },
           {
             "file": "core_05defs_oversight.md",
-            "count": 8,
+            "count": 9,
             "anchors": [
               "#auditability",
               "#materiality-determination",
@@ -6165,8 +6150,9 @@
         "targets": [
           {
             "file": "core_00_preamble.md",
-            "count": 30,
+            "count": 33,
             "anchors": [
+              "#constitutional-owner-register",
               "#constitutional-tetrad",
               "#material-stake",
               "#two-constitutional-aims"
@@ -6300,10 +6286,10 @@
             "file": "core_05defs_integrative.md",
             "count": 10,
             "anchors": [
-              "#constitutional-owner-layers",
               "#incentive-alignment",
               "#incentive-alignment-a",
               "#incentive-alignment-c",
+              "#owner-non-relocation",
               "#trust-degradation-and-misleading-reliance-constitutional"
             ]
           },
@@ -7628,8 +7614,9 @@
         "targets": [
           {
             "file": "core_00_preamble.md",
-            "count": 3,
+            "count": 10,
             "anchors": [
+              "#constitutional-owner-register",
               "#constitutional-tetrad",
               "#material-stake",
               "#two-constitutional-aims"
@@ -7678,12 +7665,11 @@
           },
           {
             "file": "core_05defs_integrative.md",
-            "count": 26,
+            "count": 23,
             "anchors": [
               "#authority-stack",
-              "#constitutional-owner-layers",
               "#corpus",
-              "#supremacy-and-enforceability"
+              "#owner-non-relocation"
             ]
           },
           {
@@ -7851,13 +7837,6 @@
             ]
           },
           {
-            "file": "core_05defs_accountability.md",
-            "count": 2,
-            "anchors": [
-              "#corpus-authority-stack-supremacy-and-enforceability-cluster"
-            ]
-          },
-          {
             "file": "core_05defs_continuity.md",
             "count": 8,
             "anchors": [
@@ -7869,11 +7848,11 @@
           },
           {
             "file": "core_05defs_integrative.md",
-            "count": 13,
+            "count": 15,
             "anchors": [
               "#authority-stack",
               "#corpus",
-              "#supremacy-and-enforceability"
+              "#corpus-authority-stack-supremacy-and-enforceability-cluster"
             ]
           },
           {
@@ -8600,10 +8579,7 @@
               "#corpus-c",
               "#incentive-alignment",
               "#incentive-alignment-a",
-              "#incentive-alignment-c",
-              "#supremacy-and-enforceability",
-              "#supremacy-and-enforceability-a",
-              "#supremacy-and-enforceability-c"
+              "#incentive-alignment-c"
             ]
           },
           {
@@ -8752,9 +8728,9 @@
               "#authority-stack",
               "#authority-stack-a",
               "#authority-stack-c",
-              "#constitutional-constraint-violation",
-              "#constitutional-constraint-violation-a",
-              "#constitutional-constraint-violation-c",
+              "#constitutional-constraint",
+              "#constitutional-constraint-a",
+              "#constitutional-constraint-c",
               "#corpus",
               "#corpus-a",
               "#corpus-c",
@@ -8951,19 +8927,16 @@
               "#authority-stack",
               "#authority-stack-a",
               "#authority-stack-c",
-              "#constitutional-constraint-violation",
-              "#constitutional-constraint-violation-a",
-              "#constitutional-constraint-violation-c",
+              "#constitutional-constraint",
+              "#constitutional-constraint-a",
+              "#constitutional-constraint-c",
               "#corpus",
               "#corpus-a",
               "#corpus-c",
               "#incentive-alignment",
               "#incentive-alignment-a",
               "#incentive-alignment-c",
-              "#sentient-composite-c",
-              "#supremacy-and-enforceability",
-              "#supremacy-and-enforceability-a",
-              "#supremacy-and-enforceability-c"
+              "#sentient-composite-c"
             ]
           },
           {
@@ -9098,10 +9071,7 @@
               "#incentive-alignment",
               "#incentive-alignment-a",
               "#incentive-alignment-c",
-              "#sentient-composite-c",
-              "#supremacy-and-enforceability",
-              "#supremacy-and-enforceability-a",
-              "#supremacy-and-enforceability-c"
+              "#sentient-composite-c"
             ]
           },
           {
@@ -9378,10 +9348,7 @@
               "#authority-stack-c",
               "#corpus",
               "#corpus-a",
-              "#corpus-c",
-              "#supremacy-and-enforceability",
-              "#supremacy-and-enforceability-a",
-              "#supremacy-and-enforceability-c"
+              "#corpus-c"
             ]
           },
           {
@@ -11567,10 +11534,7 @@
               "#corpus",
               "#corpus-a",
               "#corpus-c",
-              "#sentient-composite-c",
-              "#supremacy-and-enforceability",
-              "#supremacy-and-enforceability-a",
-              "#supremacy-and-enforceability-c"
+              "#sentient-composite-c"
             ]
           },
           {
@@ -12559,9 +12523,9 @@
               "#authority-stack",
               "#authority-stack-a",
               "#authority-stack-c",
-              "#constitutional-constraint-violation",
-              "#constitutional-constraint-violation-a",
-              "#constitutional-constraint-violation-c",
+              "#constitutional-constraint",
+              "#constitutional-constraint-a",
+              "#constitutional-constraint-c",
               "#corpus",
               "#corpus-a",
               "#corpus-c"
@@ -13145,9 +13109,9 @@
             "file": "core_05defs_integrative.md",
             "count": 14,
             "anchors": [
-              "#constitutional-constraint-violation",
-              "#constitutional-constraint-violation-a",
-              "#constitutional-constraint-violation-c",
+              "#constitutional-constraint",
+              "#constitutional-constraint-a",
+              "#constitutional-constraint-c",
               "#corpus",
               "#corpus-a",
               "#corpus-c",

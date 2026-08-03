@@ -162,7 +162,7 @@ Implementation files should point back here instead of repeating long boilerplat
   - Keep implementation text understandable under **Article XX** (*Comprehensibility and Complexity Stewardship*).
   - To find which section owns a topic: [CJS-0.1](cjs_00_registry_and_reading_rules.md#cjs-01-cross-file-routing), the integrator table in **CJS-2.1**, [topic_router_reader_index.md](../doc_architecture/generated/topic_router_reader_index.md) (generated grouped index), or `doc_architecture.md` section 2 (*Corpus roles*) for layer homes. For definition placement, use `doc_architecture.md` section 4 (*Project-wide definitions protocol*).
 
-This file does not create a separate authority stack. Use the constitutional **Authority Stack and Internal Hierarchy** in `core_05-05_definitions_c_dependent_clusters.md` **Chapter Five**, section **3.4** (*Corpus, Authority Stack, Supremacy, and Enforceability*), read with `core_16-16_incorporation.md` **Chapter Sixteen** for incorporation, edition custody, and anti-drift rules. Applied here:
+This file does not create a separate authority stack. Use the constitutional **Authority Stack and Internal Hierarchy** in `core_05-05_definitions_c_dependent_clusters.md` **Chapter Five**, section **3.4** (*Corpus and Authority Stack*), read with `core_16-16_incorporation.md` **Chapter Sixteen** for incorporation, edition custody, and anti-drift rules. Applied here:
 
 - **Constitutional supremacy**
   - The numbered `core_*` Sentient Constitution files control constitutional meaning.
@@ -224,7 +224,7 @@ Unless a section says otherwise, **Article** labels with Roman numerals that poi
 
 - [Sentient](../core_05defs_participation.md#sentient-composite) · [O](../core_05defs_participation.md#sentient-composite) · [A](../core_05defs_participation.md#sentient-composite-a) · [C](../core_05defs_integrative.md#sentient-composite-c)
 - [Corpus](../core_05defs_integrative.md#corpus) · [O](../core_05defs_integrative.md#corpus) · [A](../core_05defs_integrative.md#corpus-a) · [C](../core_05defs_integrative.md#corpus-c)
-- [Constitutional Constraint Violation](../core_05defs_integrative.md#constitutional-constraint-violation) · [O](../core_05defs_integrative.md#constitutional-constraint-violation) · [A](../core_05defs_integrative.md#constitutional-constraint-violation-a) · [C](../core_05defs_integrative.md#constitutional-constraint-violation-c)
+- [Constitutional Constraint](../core_05defs_integrative.md#constitutional-constraint) · [O](../core_05defs_integrative.md#constitutional-constraint) · [A](../core_05defs_integrative.md#constitutional-constraint-a) · [C](../core_05defs_integrative.md#constitutional-constraint-c)
 - [Evidence Preservation](../core_05defs_oversight.md#evidence-preservation) · [O](../core_05defs_oversight.md#evidence-preservation) · [A](../core_05defs_oversight.md#evidence-preservation-a) · [C](../core_05defs_oversight.md#evidence-preservation-c)
 - [Epistemic Integrity](../core_05defs_oversight.md#epistemic-integrity) · [O](../core_05defs_oversight.md#epistemic-integrity) · [A](../core_05defs_oversight.md#epistemic-integrity-a) · [C](../core_05defs_oversight.md#epistemic-integrity-c)
 
@@ -262,7 +262,7 @@ Subsection-local shorthand applies only inside the subsection where it appears, 
 
 </details>
 
-<strong><span style="color: #2563eb;">Definition:</span></strong> [Constitutional Constraint Violation](../core_05defs_integrative.md#constitutional-constraint-violation) · [O](../core_05defs_integrative.md#constitutional-constraint-violation) · [A](../core_05defs_integrative.md#constitutional-constraint-violation-a) · [C](../core_05defs_integrative.md#constitutional-constraint-violation-c)
+<strong><span style="color: #2563eb;">Definition:</span></strong> [Constitutional Constraint](../core_05defs_integrative.md#constitutional-constraint) · [O](../core_05defs_integrative.md#constitutional-constraint) · [A](../core_05defs_integrative.md#constitutional-constraint-a) · [C](../core_05defs_integrative.md#constitutional-constraint-c)
 
 Some subsections are structured as an operational cluster.
 

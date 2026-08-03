@@ -2127,7 +2127,7 @@ See [Joint invocation and satisfaction](core_05_definitions_home.md#joint-invoca
     - Negligence, concealment, coercion, intent, response, and similar descriptors do not move the numeric slot.
     - Apply Chapter Eight's no-offset rule and keep Violation Axis inputs separate from [Contribution Nature](core_05defs_accountability.md#contribution-nature).
     - For adverse standing effect, a finding without an applicable violation-nature classification is incomplete, and so is a violation-nature label without verified findings.
-    - Where material, read with [Harm](core_05defs_accountability.md#harm), [Materiality Determination](core_05defs_oversight.md#materiality-determination), [Constitutional Constraint Violation](core_05defs_integrative.md#constitutional-constraint-violation), and [Supremacy and Enforceability](core_05defs_integrative.md#supremacy-and-enforceability).
+    - Where material, read with [Harm](core_05defs_accountability.md#harm), [Materiality Determination](core_05defs_oversight.md#materiality-determination), [Constitutional Constraint](core_05defs_integrative.md#constitutional-constraint), and [Authority Stack and Internal Hierarchy](core_05defs_integrative.md#authority-stack).
 <a id="violation-nature-chapter-six-c"></a>
 - **What must hold**
   - **Primary failure:** It is non-compliant to:
@@ -2519,7 +2519,7 @@ See [Joint invocation and satisfaction](core_05_definitions_home.md#joint-invoca
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Canonical owner: [Chapter Ten §2](core_10_a_misconduct_designation.md#2-criteria-set-for-slot-assignment) (*incident shapes for designation*).
-- Read with: the [Standing State, Contribution, and Violation cluster](core_05defs_participation.md#standing-state-contribution-and-violation-cluster), [Anti-Constitutional Misconduct Review](core_05defs_accountability.md#anti-constitutional-misconduct-review), [Unified Incident](core_05defs_accountability.md#unified-incident), [Violation Nature](core_05defs_accountability.md#violation-nature-chapter-six), [Irreversible Harm](core_05defs_accountability.md#irreversible-harm), the Chapter Six Rights Floor, and [Constitutional Constraint Violation](core_05defs_integrative.md#constitutional-constraint-violation).
+- Read with: the [Standing State, Contribution, and Violation cluster](core_05defs_participation.md#standing-state-contribution-and-violation-cluster), [Anti-Constitutional Misconduct Review](core_05defs_accountability.md#anti-constitutional-misconduct-review), [Unified Incident](core_05defs_accountability.md#unified-incident), [Violation Nature](core_05defs_accountability.md#violation-nature-chapter-six), [Irreversible Harm](core_05defs_accountability.md#irreversible-harm), the Chapter Six Rights Floor, and [Constitutional Constraint](core_05defs_integrative.md#constitutional-constraint).
 
 </details>
 

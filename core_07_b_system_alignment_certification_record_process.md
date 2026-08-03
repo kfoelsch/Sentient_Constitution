@@ -164,7 +164,7 @@ When the materiality triggers below apply to a **materially impactful system**, 
 
 *In plain terms: a certification record only works if sentients can read it, verify it, and push back when it is wrong. This section puts those three requirements — transparency, auditability, and contestability — directly on the record itself, not as abstract ideals. Under the **oversight** Tetrad leg, oversight requires auditing; system alignment certification is one especially large audit process that must satisfy those floors here — it does not own or replace **Article XV** or sibling audit modes.*
 
-This section applies [Transparency](core_05defs_oversight.md#transparency), [Auditability](core_05defs_oversight.md#auditability), and [Contestability](core_05defs_accountability.md#contestability) to system alignment certification records. Canonical term homes and owner boundaries are under [Constitutional Owner Layers](core_05defs_integrative.md#constitutional-owner-layers). Under the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad):
+This section applies [Transparency](core_05defs_oversight.md#transparency), [Auditability](core_05defs_oversight.md#auditability), and [Contestability](core_05defs_accountability.md#contestability) to system alignment certification records. Canonical term homes and owner boundaries are under the [Preamble — constitutional owner register](core_00_preamble.md#constitutional-owner-register) and [Authority Stack and Internal Hierarchy](core_05defs_integrative.md#owner-non-relocation). Under the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad):
 
 - **Transparency** and **auditability** implement **oversight**;
 - **Contestability** implements **accountability** and preserves **participation** in challenge paths;
@@ -291,7 +291,7 @@ For materially impactful systems, forum-supervised process under Chapter Eleven 
 - **withdrawal**;
 - **non-recognition**.
 
-This section states the constitutional **supervisory sequence** and **contestability chain** for certification records. Forum-process detail remains with the **Forums and jurisdiction** owner layer ([Chapter Eleven](core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction)); operational detail routes under [corpus_systems.md](corpus_systems.md) per [Constitutional Owner Layers](core_05defs_integrative.md#constitutional-owner-layers). Under the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad):
+This section states the constitutional **supervisory sequence** and **contestability chain** for certification records. Forum-process detail remains with the **Forums and jurisdiction** owner layer ([Chapter Eleven](core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction)); operational detail routes under [corpus_systems.md](corpus_systems.md) per the [Preamble — constitutional owner register](core_00_preamble.md#constitutional-owner-register) and [Authority Stack and Internal Hierarchy](core_05defs_integrative.md#owner-non-relocation). Under the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad):
 
 - the supervisory sequence implements **oversight** and **accountability** across forum families;
 - the contestability chain implements **participation** and **timeliness** so affected sentients can challenge certification before irreversible reliance on systems that gate survival essentials, education, or safety.
@@ -408,7 +408,7 @@ When forum-supervised challenge is required, internal operator review, vendor at
 **Boundary** — certification is not standing:
 
 - A certification record does **not** apply standing effects;
-- This chapter owns **system alignment certification and related records** only — see [Constitutional Owner Layers](core_05defs_integrative.md#constitutional-owner-layers), read with [Authority Stack and Internal Hierarchy](core_05defs_integrative.md#authority-stack);
+- This chapter owns **system alignment certification and related records** only — see the [Preamble — constitutional owner register](core_00_preamble.md#constitutional-owner-register), read with [Authority Stack and Internal Hierarchy](core_05defs_integrative.md#authority-stack);
 - [Chapter Eight](core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) owns standing records and axis-pure measurement;
 - [Chapter Nine](core_09-09_standing_integration.md#chapter-nine-standing-effects-and-integration) owns standing integration and effects;
 - This chapter may supply verified inputs only through the gate above;
