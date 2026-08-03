@@ -28,14 +28,16 @@
 This band holds **Integrative** cross-leg definitions — terms that must be satisfied across Tetrad legs at once and cannot sit cleanly under one leg alone. That includes:
 
 - the corpus authority stack;
-- the constitutional contract layer; and
-- foundational authorization terms.
+- the constitutional contract layer;
+- foundational authorization terms; and
+- incentive alignment across reward paths, proxy integrity, and contingent settlement.
 
 **Materiality** / [Materiality Determination](core_05defs_oversight.md#materiality-determination) is Integrative (cross-cutting threshold gate). Leaf homes currently remain in the Oversight band file pending any later relocation. Canonical **governance-layer discipline** ([Constitutional Contract Layer](core_05defs_integrative.md#constitutional-contract-layer) vs **Stakeholder System Participation**): [Preamble §4](../core_00_preamble.md#governance-layer-discipline).
 
 | Cluster | Section |
 |---|---|
 | **Chapter One §8.16** | Corpus, Authority Stack, Supremacy, and Enforceability |
+| **Incentive Alignment (semi-independent)** | Incentive Alignment, Proxy Integrity, and Contingent Settlement |
 
 ---
 
@@ -168,28 +170,24 @@ This band holds **Integrative** cross-leg definitions — terms that must be sat
     - what governance mechanism applies; and
     - the scope and durable terms of that authority.
 
-    Constituent of the [Constitutional Contract Layer](core_05defs_integrative.md#constitutional-contract-layer). Once structures and processes are authorized for a domain, proportional voice for affected parties routes through:
-    - [Stakeholder](core_05defs_participation.md#stakeholder) identification; and
-    - [Stakeholder Participation Weight](core_05defs_participation.md#stakeholder-participation-weight)
-
-    (including **Article XI** (*Stakeholder System Participation, Representation, and Due Process*) constraints) — not through equal-weight foundational tally rules.
+    This belongs to the [Constitutional Contract Layer](core_05defs_integrative.md#constitutional-contract-layer).
     - Owner: [Chapter Twelve Chapter One §8.1](core_12-12_governance.md#41-entitlement-and-eligibility).
     - Rights-layer pointer: [Article IX-C](core_06-06_rights_part_b.md#article-ix-c-governance-participation-and-voting-entitlement) (*Governance Participation and Voting Entitlement*).
     - Applies under [Sentience Non-Exclusion](core_05defs_participation.md#sentience-non-exclusion).
   - **Out of scope:**
-    - ordinary impact-weighted stakeholder decisions once governing authority for a domain is already authorized; and
+    - ordinary impact-weighted stakeholder decisions once a domain already has authorized governing structures and processes — people who are affected get a say scaled to how much they are affected through [Stakeholder](core_05defs_participation.md#stakeholder) identification and [Stakeholder Participation Weight](core_05defs_participation.md#stakeholder-participation-weight) (including **Article XI** (*Stakeholder System Participation, Representation, and Due Process*) constraints), not through equal-weight foundational tally rules; and
     - routine operational or policy choices that do not authorize or durably restructure that authority.
 <a id="foundational-constitutional-choice-a"></a>
 <a id="foundational-collective-choice-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Accountability measurement family](core_05apex_accountability_leg.md#accountability-measurement-family) — *Do reward structures, market power, and answerability keep duties real?*
+  - **Primary measure:** [Accountability measurement family](core_05apex_accountability_leg.md#accountability-measurement-family) — *Do reward structures, market power, and answerability keep duties real?* Use it here to ask whether equal founding voice stays real in practice — not bought by wealth, skewed by market power, or replaced by impact-weighted stakeholder voting.
 
     **Primary assessment:**
-    - Identify foundational constitutional choice by scope — the question's character as authorization or durable structuring of governing authority — not by marginal per-decision impact.
+    - Treat a decision as foundational when it is about who may govern, by what mechanism, or on what lasting terms — not because one vote or one policy choice has a large short-term effect.
     - Read [Preamble §4 governance-layer discipline](core_00_preamble.md#governance-layer-discipline).
     - Foundational questions are not re-routable as high-impact weighted choices under [Stakeholder Representation and Participation-Weight Limits (Binding Stakeholder Choice)](core_05defs_participation.md#stakeholder-representation-and-participation-weight-limits-binding-collective-choice).
     - Apply [Sentience Non-Exclusion](core_05defs_participation.md#sentience-non-exclusion).
-    - Reject substrate-class, calendar-age, or lineage participation-weight factors.
+    - Do not give more or less founding voice based on substrate class (biological, synthetic, or digital kind), calendar age, or lineage (ancestry, species, or derivation).
     - Apply [Procedural Fairness](core_05defs_participation.md#procedural-fairness-constitutional) to any disqualification invoked against participation.
 <a id="foundational-constitutional-choice-c"></a>
 <a id="foundational-collective-choice-constitutional-c"></a>
@@ -202,9 +200,26 @@ This band holds **Integrative** cross-leg definitions — terms that must be sat
 
 ---
 
+<a id="incentive-alignment-semi-independent"></a>
+<a id="incentive-alignment-proxy-integrity-and-contingent-settlement"></a>
+
+#### Incentive Alignment, Proxy Integrity, and Contingent Settlement
+
+**Semi-independent context** (component definitions may still operate outside joint-invocation scope): This topic group is the Accountability measurement family's joint home for whether rewards, targets, and governance signals stay aligned with constitutional outcomes — including proxy integrity and contingent-settlement discipline under [Chapter One §11](core_01_c_stewardship_capacity_principles.md#11-incentive-alignment-and-system-capture).
+
+**Topic group members.** This group comprises:
+- [Incentive Alignment](core_05defs_integrative.md#incentive-alignment) — the general rule for incentive structures and proxy integrity;
+- [Incentive Alignment — baseline constitutional alignment](core_05defs_integrative.md#incentive-alignment-baseline-constitutional-alignment) — durable alignment with Safety, Truth, Trust, and Meaningful Agency over time;
+- [Incentive Alignment — strategic, scaled, and adversarial evaluation](core_05defs_integrative.md#incentive-alignment-strategic-scaled-and-adversarial-evaluation) — evaluation under gaming, scale, coordination, and deliberate misuse; and
+- [Incentive Alignment — contingent claims, games of chance, and event-contract markets](core_05defs_integrative.md#incentive-alignment-contingent-claims-games-of-chance-and-event-contract-markets) — special application where contingent settlement is materially relevant.
+
+*Measurements (family routing):* Accountability measurement family — operative tiers on the member definitions below; progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md).
+
+---
+
 <a id="incentive-alignment"></a>
 
-#### Incentive Alignment
+##### Incentive Alignment
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -213,9 +228,8 @@ This band holds **Integrative** cross-leg definitions — terms that must be sat
 - Principle-layer rule: [Chapter One §11.1 Alignment Requirement](core_01_c_stewardship_capacity_principles.md#111-alignment-requirement) and [Chapter One §11.2 Convenient Proxies and Proxy Divergence](core_01_c_stewardship_capacity_principles.md#112-convenient-proxies-and-proxy-divergence); stewardship and operator application: [Chapter One §11.1.3 Stewardship and Operator Application](core_01_c_stewardship_capacity_principles.md#1113-stewardship-and-operator-application) and [§11.1.4 Role-Depth and Material-Responsibility Pathways](core_01_c_stewardship_capacity_principles.md#1114-role-depth-and-material-responsibility-pathways).
 - Misalignment detection: [Chapter One §11.3 Misalignment Detection](core_01_c_stewardship_capacity_principles.md#113-misalignment-detection).
 - Active correction and capture escalation: [Chapter One §11.4 Misalignment Correction and Capture Response](core_01_c_stewardship_capacity_principles.md#114-misalignment-correction-and-capture-response).
-- Cluster component: [Chapter Five Chapter One §8.20 *Governance Architecture, Oversight, Dependency, Decentralization, Concentration, Market Structure, and Exit-Path Integrity*](core_05defs_accountability.md#governance-architecture-oversight-decentralization-and-concentration-cluster) (hub paths that intersect dependency, concentration, governance-form incentives, or exit-quality analysis — read together with [Chapter Five *Contingent Claim, Event-Contract Market, Game of Chance, and Insider Advantage*](core_05defs_accountability.md#contingent-claims-games-of-chance-and-event-contract-markets-semi-independent) where contingent structures are materially implicated)
-- Cluster members (family routing): child scopes that inherit this head's measurement tiers — [baseline constitutional alignment](#incentive-alignment-baseline-constitutional-alignment), [strategic, scaled, and adversarial evaluation](#incentive-alignment-strategic-scaled-and-adversarial-evaluation), [contingent claims, games of chance, and event-contract markets](#incentive-alignment-contingent-claims-games-of-chance-and-event-contract-markets), [proxy divergence tracing](#incentive-alignment-proxy-divergence-tracing), and [implementation routing and operational hooks](#incentive-alignment-implementation-routing-and-operational-hooks).
-- Read with: System Capture, Proxy Divergence, Truth (Constitutional Constraint), Epistemic Integrity, and Meaningful Agency.
+- Cluster component: [Incentive Alignment, Proxy Integrity, and Contingent Settlement](core_05defs_integrative.md#incentive-alignment-semi-independent)
+- Read with: [Chapter Five Chapter One §8.20 *Governance Architecture, Oversight, Dependency, Decentralization, Concentration, Market Structure, and Exit-Path Integrity*](core_05defs_accountability.md#governance-architecture-oversight-decentralization-and-concentration-cluster) where dependency, concentration, governance-form incentives, or exit-quality analysis is materially implicated; [Chapter Five *Contingent Claim, Event-Contract Market, Game of Chance, and Insider Advantage*](core_05defs_accountability.md#contingent-claims-games-of-chance-and-event-contract-markets-semi-independent) where contingent structures are materially implicated; System Capture, Proxy Divergence, Truth (Constitutional Constraint), Epistemic Integrity, and Meaningful Agency.
 
 </details>
 
@@ -224,7 +238,7 @@ This band holds **Integrative** cross-leg definitions — terms that must be sat
 *In plain terms: rewards, targets, and governance signals must push agents and systems toward real constitutional outcomes — not toward proxies, loopholes, or capture.*
 
 - **What it is**
-  - **In scope:** Incentive structures assessed as the Accountability measurement family's primary owner for incentive-alignment measurement and proxy integrity, including:
+  - **In scope:** This is the Accountability measurement family's main home for checking whether incentives stay aligned and proxies stay honest. It covers incentive structures, including:
     - reward paths;
     - targets;
     - governance signals; and
@@ -232,22 +246,28 @@ This band holds **Integrative** cross-leg definitions — terms that must be sat
   - **Out of scope:**
     - mere proxy-score or compliance-indicator satisfaction when incentives still undermine constitutional outcomes; and
     - ordinary compensation or targets that do not predictably shape agent, operator, or component behavior.
+  - **Implementation routing:** Full system-level incentive analysis remains governed by adopted implementation requirements on incentive alignment and mechanism integrity, incorporated via Chapter Fifteen. This definition supplies tracing for constitutional compliance determinations that invoke incentives at the interdependent layer — it does not restate or relocate those operational rules. Operational expectations for materially impactful venues appear in:
+    - `corpus_systems.md` (CS-4 — Critical system stewardship, including incentive-scaled governance); and
+    - `corpus_institutions.md` (institutional stewardship and incentive alignment requirements).
+<a id="incentive-alignment-implementation-routing-and-operational-hooks"></a>
+
+    *Compatibility pointer:* former child scope *Incentive Alignment — implementation routing and operational hooks* redirects here — implementation routing is a head-level bridge, not a separate child.
 <a id="incentive-alignment-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Accountability measurement family](core_05apex_accountability_leg.md#accountability-measurement-family) — *Do reward structures, market power, and answerability keep duties real?*
+  - **Primary measure:** [Accountability measurement family](core_05apex_accountability_leg.md#accountability-measurement-family) — *Do reward structures, market power, and answerability keep duties real?* Use it here to ask whether payoffs, targets, and governance signals still push toward real constitutional outcomes — not toward proxy scores, loopholes, or capture.
 
     **Primary assessment:** Assess alignment across delayed and aggregated effects, not only immediate or local outputs — including effects on:
+    - [Safety (Constraint)](core_05defs_continuity.md#safety-constraint);
     - [Risk](core_05defs_continuity.md#risk);
     - [Harm](core_05defs_accountability.md#harm); and
     - [Meaningful Agency](core_05defs_participation.md#meaningful-agency).
 
-    Apply scope-specific routing on cluster children where materially implicated.
+    When a more specific child topic under this cluster is materially at stake, follow that child's assessment path.
   - **Secondary measure:** [Wellbeing](core_05defs_continuity.md#wellbeing), [Safety (Constraint)](core_05defs_continuity.md#safety-constraint), [Epistemic Integrity](core_05defs_oversight.md#epistemic-integrity), and [Meaningful Agency](core_05defs_participation.md#meaningful-agency) — co-measures that can defeat alignment even when nominal targets appear satisfied.
 
-    **Secondary assessment:** When evaluating the primary trace, test whether co-measures defeat alignment despite favorable nominal scores. Include:
-    - [System Capture](core_05defs_continuity.md#system-capture); and
-    - concentrated or obscured control structures that defeat challenge or oversight where materially implicated.
+    **Secondary assessment:** When checking the primary measure, ask whether these co-measures still show misalignment even when the official scores look good. Include [System Capture](core_05defs_continuity.md#system-capture) (concentrated or obscured control structures that defeat challenge or oversight where materially implicated).
   - **Tertiary measure:** [Proxy Divergence](core_05defs_oversight.md#proxy-divergence) — where reward paths, metrics, or governance signals substitute for real constitutional outcomes.
+<a id="incentive-alignment-proxy-divergence-tracing"></a>
 
     **Tertiary assessment:** Incorporate [Proxy Divergence](core_05defs_oversight.md#proxy-divergence). Count as Incentive Alignment inputs any reward paths, targets, or governance signals that exploit gaps between:
     - proxies;
@@ -255,6 +275,8 @@ This band holds **Integrative** cross-leg definitions — terms that must be sat
     - formal compliance indicators
 
     and real outcomes material to [Wellbeing](core_05defs_continuity.md#wellbeing), [Safety (Constraint)](core_05defs_continuity.md#safety-constraint), or [Epistemic Integrity](core_05defs_oversight.md#epistemic-integrity).
+
+    *Compatibility pointer:* former child scope *Incentive Alignment — proxy divergence tracing* redirects here — Proxy Divergence tracing is the cluster-head tertiary tier, not a separate child.
 <a id="incentive-alignment-c"></a>
 - **What must hold**
   - **Primary failure:** sustained incentives that predictably undermine Chapter One values without:
@@ -262,13 +284,24 @@ This band holds **Integrative** cross-leg definitions — terms that must be sat
     - disclosure; or
     - feasible override.
   - **Secondary failure:**
-    - failure to actively detect, disclose, and correct such misalignments (Chapter One §11.3–§11.4); or
-    - concentrated or obscured control structures defeating challenge or oversight.
+    - failure to actively detect, disclose, and correct such misalignments (Chapter One §11.3–§11.4);
+    - [System Capture](core_05defs_continuity.md#system-capture) (concentrated or obscured control structures defeating challenge or oversight); or
+    - claiming constitutional Incentive Alignment while ignoring adopted implementation requirements that govern incentive integrity for the system under review.
   - **Tertiary failure:** treating proxy or compliance-indicator satisfaction as dispositive where [Proxy Divergence](core_05defs_oversight.md#proxy-divergence) is reasonably observable.
 
 <a id="incentive-alignment-baseline-constitutional-alignment"></a>
 
 ##### Incentive Alignment — baseline constitutional alignment
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Cluster component: [Incentive Alignment, Proxy Integrity, and Contingent Settlement](core_05defs_integrative.md#incentive-alignment-semi-independent)
+- Read with: [Incentive Alignment](core_05defs_integrative.md#incentive-alignment); [Proxy Divergence](core_05defs_oversight.md#proxy-divergence) where scores or metrics can mask real outcomes.
+
+</details>
+
+<br>
 
 *In plain terms: incentives must stay aligned with safety, truth, trust, and meaningful agency over time — not only in the short term.*
 
@@ -276,8 +309,9 @@ This band holds **Integrative** cross-leg definitions — terms that must be sat
   - **In scope:** Incentive structures acting on agents, operators, or constituent components — reward paths, targets, governance signals, and comparable structures that predictably shape behavior across delayed and aggregated effects.
   - **Depends on:** [Safety (Constraint)](core_05defs_continuity.md#safety-constraint), [Truth (Constitutional Constraint)](core_05defs_oversight.md#truth-constitutional-constraint), [Trust](core_05defs_continuity.md#trust), and [Meaningful Agency](core_05defs_participation.md#meaningful-agency) — constitutive alignment targets. Incentive structures must align with these bounds and with systemic stability conducive to justified [Trust](core_05defs_continuity.md#trust).
   - **Out of scope:** Short-horizon local reward tuning that does not shape delayed or aggregated behavior against Safety, Truth, Trust, or Meaningful Agency bounds.
+  - **Read with:** [Proxy Divergence](core_05defs_oversight.md#proxy-divergence) where scores or metrics can mask real outcomes against those bounds — owned on the [Incentive Alignment](#incentive-alignment) tertiary tier.
 - **How to measure and assess**
-  - **Primary measure:** [Accountability measurement family](core_05apex_accountability_leg.md#accountability-measurement-family) — *Do reward structures, market power, and answerability keep duties real?*
+  - **Primary measure:** [Accountability measurement family](core_05apex_accountability_leg.md#accountability-measurement-family) — *Do reward structures, market power, and answerability keep duties real?* Use it here to ask whether incentives stay aligned with safety, truth, trust, and meaningful agency over time — not only when short-term scores look good.
 
     **Primary assessment:** Apply the cluster-head primary assessment across delayed and aggregated effects under the **Depends on** bounds stated above.
 - **What must hold**
@@ -286,6 +320,16 @@ This band holds **Integrative** cross-leg definitions — terms that must be sat
 <a id="incentive-alignment-strategic-scaled-and-adversarial-evaluation"></a>
 
 ##### Incentive Alignment — strategic, scaled, and adversarial evaluation
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Cluster component: [Incentive Alignment, Proxy Integrity, and Contingent Settlement](core_05defs_integrative.md#incentive-alignment-semi-independent)
+- Read with: [Incentive Alignment](core_05defs_integrative.md#incentive-alignment); [Adversarial, Scaled, and Exploited Conditions](core_05defs_oversight.md#adversarial-scaled-and-exploited-conditions).
+
+</details>
+
+<br>
 
 *In plain terms: check incentives under gaming, scale, coordination, and deliberate misuse — not only under polite lab conditions.*
 
@@ -297,7 +341,7 @@ This band holds **Integrative** cross-leg definitions — terms that must be sat
     - adaptive or intentional misuse.
   - **Out of scope:** Ideal-lab or one-off misuse anecdotes treated as a stand-in for pressure, scale, coordination, or deliberate exploitation.
 - **How to measure and assess**
-  - **Primary measure:** [Accountability measurement family](core_05apex_accountability_leg.md#accountability-measurement-family) — *Do reward structures, market power, and answerability keep duties real?*
+  - **Primary measure:** [Accountability measurement family](core_05apex_accountability_leg.md#accountability-measurement-family) — *Do reward structures, market power, and answerability keep duties real?* Use it here to ask whether incentives still hold under gaming, scale, coordination, and deliberate misuse — not only under polite lab conditions.
 
     **Primary assessment:** Include [Adversarial, Scaled, and Exploited Conditions](core_05defs_oversight.md#adversarial-scaled-and-exploited-conditions).
 - **What must hold**
@@ -306,6 +350,17 @@ This band holds **Integrative** cross-leg definitions — terms that must be sat
 <a id="incentive-alignment-contingent-claims-games-of-chance-and-event-contract-markets"></a>
 
 ##### Incentive Alignment — contingent claims, games of chance, and event-contract markets
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Downstream: Principles: [Chapter One §11.5 Contingent claims, games of chance, and event-contract markets](core_01_c_stewardship_capacity_principles.md#115-contingent-claims-games-of-chance-and-event-contract-markets).
+- Cluster component: [Incentive Alignment, Proxy Integrity, and Contingent Settlement](core_05defs_integrative.md#incentive-alignment-semi-independent)
+- Read with: [Incentive Alignment](core_05defs_integrative.md#incentive-alignment); [Contingent Claim, Event-Contract Market, Game of Chance, and Insider Advantage](core_05defs_accountability.md#contingent-claims-games-of-chance-and-event-contract-markets-semi-independent).
+
+</details>
+
+<br>
 
 *In plain terms: bets, prediction markets, and chance-based payouts must not reward unlawful harm, insider power, or twisting of public or fiduciary decisions.*
 
@@ -316,21 +371,20 @@ This band holds **Integrative** cross-leg definitions — terms that must be sat
     - treating settlement prices or odds alone as truth or compliance determinations.
 <a id="incentive-alignment-contingent-claims-games-of-chance-and-event-contract-markets-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Accountability measurement family](core_05apex_accountability_leg.md#accountability-measurement-family) — *Do reward structures, market power, and answerability keep duties real?*
+  - **Primary measure:** [Accountability measurement family](core_05apex_accountability_leg.md#accountability-measurement-family) — *Do reward structures, market power, and answerability keep duties real?* Use it here to ask whether bets, prediction markets, and chance-based payouts avoid rewarding unlawful harm, insider power, or twisting of public or fiduciary decisions.
 
-    **Primary assessment:** Such systems must satisfy Chapter One §11.5, including:
-    - application of [Necessity](core_05defs_accountability.md#necessity) and [Proportionality](core_05defs_accountability.md#proportionality) to underlying permitted events;
-    - governance of resolution procedures (independence, multi-source rules where feasible, contestable dispute pathways);
-    - concentration, leverage, and exposure limits scaled to vulnerability and systemic stability;
-    - misuse evaluation including coordination pathways and scale dynamics; and
-    - treatment of prices and odds as insufficient, without more, for truth or compliance determinations — apply the same evidence standards as comparable high-impact decisions.
+    **Primary assessment:** Such systems must satisfy [Chapter One §11.5](core_01_c_stewardship_capacity_principles.md#115-contingent-claims-games-of-chance-and-event-contract-markets), including:
+    - apply [Necessity](core_05defs_accountability.md#necessity) and [Proportionality](core_05defs_accountability.md#proportionality) to the underlying events people may bet on or settle against;
+    - keep outcome-resolution fair and independent — use more than one source where feasible, and keep dispute paths open to challenge;
+    - limit how much concentration, leverage, and exposure any actor can take on, scaled to how vulnerable people and the wider system are;
+    - check for misuse under coordination and high-scale conditions; and
+    - treat prices and odds as market signals only — not, by themselves, as proof of truth or compliance; use the same evidence standards as other high-impact decisions.
+  - **Secondary measure:** [Risk](core_05defs_continuity.md#risk), [Capture of Resolution Pathways](core_05defs_accountability.md#capture-of-resolution-pathways), and [Insider Advantage](core_05defs_accountability.md#insider-advantage) — integrity overlays that can defeat contingent-settlement alignment even when the §11.5 design controls look satisfied.
 
-    Also include:
+    **Secondary assessment:** When checking the primary measure, ask whether these overlays still show misalignment:
     - outcome-manipulation [Risk](core_05defs_continuity.md#risk);
-    - [Capture of Resolution Pathways](core_05defs_accountability.md#capture-of-resolution-pathways);
-    - [Insider Advantage](core_05defs_accountability.md#insider-advantage);
-    - privileged-information pathways; and
-    - treatment of settlement prices or odds as authoritative [Truth](core_05defs_oversight.md#truth-constitutional-constraint).
+    - [Capture of Resolution Pathways](core_05defs_accountability.md#capture-of-resolution-pathways); or
+    - [Insider Advantage](core_05defs_accountability.md#insider-advantage) or other privileged-information pathways.
 <a id="incentive-alignment-contingent-claims-games-of-chance-and-event-contract-markets-c"></a>
 - **What must hold**
   - **Primary failure:** Settlement structures within [Contingent Claim](core_05defs_accountability.md#contingent-claim), [Game of Chance](core_05defs_accountability.md#game-of-chance), or [Event-Contract Market](core_05defs_accountability.md#event-contract-market) that predictably reward:
@@ -339,40 +393,6 @@ This band holds **Integrative** cross-leg definitions — terms that must be sat
     - material distortion of fiduciary or public decisions
 
     without proportionate mitigation.
-
-<a id="incentive-alignment-proxy-divergence-tracing"></a>
-
-##### Incentive Alignment — proxy divergence tracing
-
-*In plain terms: if a score or metric looks good while the real outcome fails, that gap counts against incentive alignment.*
-
-- **What it is**
-  - **In scope:** Tracing of [Proxy Divergence](core_05defs_oversight.md#proxy-divergence) inside Incentive Alignment — reward paths, targets, or governance signals that exploit gaps between proxies or formal compliance indicators and real constitutional outcomes.
-  - **Out of scope:** Ordinary metric refinement that does not create or exploit a material gap between the proxy and the constitutional outcome.
-- **How to measure and assess**
-  - **Primary measure:** [Accountability measurement family](core_05apex_accountability_leg.md#accountability-measurement-family) — *Do reward structures, market power, and answerability keep duties real?*
-
-    **Primary assessment:** Apply the cluster-head tertiary integrity check on [Proxy Divergence](core_05defs_oversight.md#proxy-divergence) — including reward paths, targets, or governance signals that exploit proxy gaps even when other nominal scores stay favorable.
-- **What must hold**
-  - **Primary failure:** treating favorable proxy or compliance-indicator scores as dispositive where [Proxy Divergence](core_05defs_oversight.md#proxy-divergence) is reasonably observable.
-
-<a id="incentive-alignment-implementation-routing-and-operational-hooks"></a>
-
-##### Incentive Alignment — implementation routing and operational hooks
-
-*In plain terms: detailed operating rules for incentive integrity live in the implementation files; this definition is the constitutional bridge to them.*
-
-- **What it is**
-  - **In scope:** Constitutional tracing from Incentive Alignment to adopted implementation requirements on incentive alignment and mechanism integrity.
-  - **Out of scope:** Restating or relocating operational incentive rules that belong in adopted implementation text.
-- **How to measure and assess**
-  - **Primary measure:** [Accountability measurement family](core_05apex_accountability_leg.md#accountability-measurement-family) — *Do reward structures, market power, and answerability keep duties real?*
-
-    **Primary assessment:** Full system-level incentive analysis remains governed by adopted implementation requirements on incentive alignment and mechanism integrity, incorporated via Chapter Fifteen. This definition supplies tracing for constitutional compliance determinations that invoke incentives at the interdependent layer. Operational expectations for materially impactful venues appear in:
-    - `corpus_systems.md` (CS-4 — Critical system stewardship, including incentive-scaled governance); and
-    - `corpus_institutions.md` (institutional stewardship and incentive alignment requirements).
-- **What must hold**
-  - **Primary failure:** claiming constitutional Incentive Alignment while ignoring adopted implementation requirements that govern incentive integrity for the system under review.
 
 ---
 
@@ -414,7 +434,7 @@ This band holds **Integrative** cross-leg definitions — terms that must be sat
 <a id="innovation-reward-and-anti-enclosure-preference-for-non-monopoly-reward-tools-a"></a>
 <a id="innovation-reward-and-anti-enclosure-rebuttable-presumption-against-strong-exclusion-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Accountability measurement family](core_05apex_accountability_leg.md#accountability-measurement-family) — *Do reward structures, market power, and answerability keep duties real?*
+  - **Primary measure:** [Accountability measurement family](core_05apex_accountability_leg.md#accountability-measurement-family) — *Do reward structures, market power, and answerability keep duties real?* Use it here to ask whether invention rewards stay real contribution rewards — not lasting lock-up of repair, reuse, research, or public-interest use.
 
     **Primary assessment:** Evaluate innovation-reward claims in this sequence:
     1. **Identify the actual contribution.** Assess development burden, disclosure sufficiency, and public benefit. Reward requires a real contribution and enough disclosure for independent understanding, audit, and later implementation — subject only to justified temporary limits.
@@ -558,7 +578,7 @@ See [Joint invocation and satisfaction](core_05_definitions_home.md#joint-invoca
     - unofficial or unversioned copies presented as the operative edition.
 <a id="corpus-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Oversight measurement family](core_05apex_oversight_leg.md#oversight-measurement-family) and [Accountability measurement family](core_05apex_accountability_leg.md#accountability-measurement-family) — *Can sentients see, verify, and rely on what systems represent?* / *Do reward structures, market power, and answerability keep duties real?*
+  - **Primary measure:** [Oversight measurement family](core_05apex_oversight_leg.md#oversight-measurement-family) and [Accountability measurement family](core_05apex_accountability_leg.md#accountability-measurement-family) — *Can sentients see, verify, and rely on what systems represent?* / *Do reward structures, market power, and answerability keep duties real?* Use them here to ask whether the claimed binding text is the real, versioned Corpus — not an unofficial copy, draft, or process note treated as law.
 
     **Primary assessment:** For compliance and adoption claims, identify the operative corpus edition and custody chain under the applicable [Corpus, Authority Stack, Supremacy, and Enforceability cluster](core_05defs_integrative.md#corpus-authority-stack-supremacy-and-enforceability-cluster). Then:
     - distinguish incorporated binding text from explanatory or process artifacts; and
@@ -840,7 +860,7 @@ See [Joint invocation and satisfaction](core_05_definitions_home.md#joint-invoca
     - bounded residual risk after mitigation that is not itself constraint degradation.
 <a id="constitutional-constraint-violation-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Oversight measurement family](core_05apex_oversight_leg.md#oversight-measurement-family) and [Accountability measurement family](core_05apex_accountability_leg.md#accountability-measurement-family) — *Can sentients see, verify, and rely on what systems represent?* / *Do reward structures, market power, and answerability keep duties real?*
+  - **Primary measure:** [Oversight measurement family](core_05apex_oversight_leg.md#oversight-measurement-family) and [Accountability measurement family](core_05apex_accountability_leg.md#accountability-measurement-family) — *Can sentients see, verify, and rely on what systems represent?* / *Do reward structures, market power, and answerability keep duties real?* Use them here to ask whether real-world conduct or outcomes materially weaken Safety, Truth, or another binding constitutional requirement — not just whether paperwork was breached.
 
     **Primary assessment:** Include direct, indirect, delayed, and aggregated effects, consistent with:
     - [Harm](core_05defs_accountability.md#harm);

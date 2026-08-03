@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-07-31T13:21:53+00:00",
+  "generated_at": "2026-08-03T17:35:27+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -2233,7 +2233,7 @@
           },
           {
             "file": "core_05defs_integrative.md",
-            "count": 17,
+            "count": 18,
             "anchors": [
               "#authority-stack",
               "#constitutional-constraint",
@@ -2246,6 +2246,8 @@
               "#incentive-alignment",
               "#incentive-alignment-baseline-constitutional-alignment",
               "#incentive-alignment-contingent-claims-games-of-chance-and-event-contract-markets",
+              "#incentive-alignment-semi-independent",
+              "#incentive-alignment-strategic-scaled-and-adversarial-evaluation",
               "#innovation-reward-and-anti-enclosure",
               "#non-compliance",
               "#supremacy-and-enforceability"
@@ -3856,15 +3858,17 @@
           },
           {
             "file": "core_01_c_stewardship_capacity_principles.md",
-            "count": 12,
+            "count": 16,
             "anchors": [
               "#10-governance-under-stewardship-discipline",
+              "#11-incentive-alignment-and-system-capture",
               "#111-alignment-requirement",
               "#1113-stewardship-and-operator-application",
               "#1114-role-depth-and-material-responsibility-pathways",
               "#112-convenient-proxies-and-proxy-divergence",
               "#113-misalignment-detection",
               "#114-misalignment-correction-and-capture-response",
+              "#115-contingent-claims-games-of-chance-and-event-contract-markets",
               "#15-integrated-application"
             ]
           },
@@ -3897,27 +3901,26 @@
           },
           {
             "file": "core_05apex_accountability_leg.md",
-            "count": 11,
+            "count": 13,
             "anchors": [
               "#accountability-measurement-family"
             ]
           },
           {
             "file": "core_05apex_oversight_leg.md",
-            "count": 2,
+            "count": 4,
             "anchors": [
               "#oversight-measurement-family"
             ]
           },
           {
             "file": "core_05defs_accountability.md",
-            "count": 34,
+            "count": 33,
             "anchors": [
               "#capture-of-resolution-pathways",
               "#contestability",
               "#contingent-claim",
               "#contingent-claims-games-of-chance-and-event-contract-markets-semi-independent",
-              "#corpus-authority-stack-supremacy-and-enforceability-cluster",
               "#due-process-constitutional",
               "#event-contract-market",
               "#game-of-chance",
@@ -3932,9 +3935,10 @@
           },
           {
             "file": "core_05defs_continuity.md",
-            "count": 28,
+            "count": 31,
             "anchors": [
               "#dependency",
+              "#labor-and-economic-floor-cluster",
               "#residual-risk--misalignment",
               "#reversibility-constitutional",
               "#risk",
@@ -3948,7 +3952,7 @@
           },
           {
             "file": "core_05defs_integrative.md",
-            "count": 51,
+            "count": 62,
             "anchors": [
               "#authority-stack",
               "#constitutional-constraint",
@@ -3956,13 +3960,19 @@
               "#constitutional-contract-layer",
               "#constitutional-owner-layers",
               "#corpus",
+              "#corpus-authority-stack-supremacy-and-enforceability-cluster",
               "#foundational-constitutional-choice",
+              "#incentive-alignment",
+              "#incentive-alignment-baseline-constitutional-alignment",
+              "#incentive-alignment-contingent-claims-games-of-chance-and-event-contract-markets",
+              "#incentive-alignment-semi-independent",
+              "#incentive-alignment-strategic-scaled-and-adversarial-evaluation",
               "#supremacy-and-enforceability"
             ]
           },
           {
             "file": "core_05defs_oversight.md",
-            "count": 28,
+            "count": 30,
             "anchors": [
               "#adversarial-scaled-and-exploited-conditions",
               "#auditability",
@@ -3976,7 +3986,7 @@
           },
           {
             "file": "core_05defs_participation.md",
-            "count": 20,
+            "count": 21,
             "anchors": [
               "#binding-stakeholder-choice-cluster",
               "#lifespan-equivalent-unit-lequ",
@@ -3999,7 +4009,7 @@
           },
           {
             "file": "core_06-06_rights_part_b.md",
-            "count": 4,
+            "count": 5,
             "anchors": [
               "#article-ix-c-governance-participation-and-voting-entitlement"
             ]
@@ -4020,16 +4030,20 @@
           },
           {
             "file": "core_12-12_governance.md",
-            "count": 4,
+            "count": 11,
             "anchors": [
+              "#1-authorization-and-legitimacy-of-governing-authority",
+              "#11-mechanism-families-auditability-and-pluralism",
+              "#13-recall-class-pathways-and-mid-cycle-transfer-guardrails",
               "#41-entitlement-and-eligibility",
               "#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship"
             ]
           },
           {
             "file": "core_13-15_amendment.md",
-            "count": 6,
+            "count": 7,
             "anchors": [
+              "#10-ratification-and-adoption",
               "#12-layer-scope",
               "#31-internal-hierarchy-for-adopters",
               "#4-layer-scope"
@@ -4037,30 +4051,31 @@
           },
           {
             "file": "core_16-16_incorporation.md",
-            "count": 2,
+            "count": 3,
             "anchors": [
               "#2-authority-stack-and-invocation",
+              "#4-adoption-framing-and-scope-of-authority",
               "#chapter-sixteen-incorporation-bridge"
             ]
           },
           {
             "file": "corpus_forum.md",
-            "count": 2,
+            "count": 1,
             "anchors": []
           },
           {
             "file": "corpus_institutions.md",
-            "count": 2,
+            "count": 1,
             "anchors": []
           },
           {
             "file": "corpus_joint_structure.md",
-            "count": 2,
+            "count": 1,
             "anchors": []
           },
           {
             "file": "corpus_systems.md",
-            "count": 3,
+            "count": 2,
             "anchors": []
           }
         ]
@@ -10898,7 +10913,7 @@
           },
           {
             "file": "corpus_systems/cs_protocol_b_system_comprehensibility_complexity_stewardship.md",
-            "count": 6,
+            "count": 7,
             "anchors": []
           }
         ]

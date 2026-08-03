@@ -1,8 +1,8 @@
 {
   "$schema": "../schemas/definition_registry.schema.json",
-  "generated_at": "2026-07-31T13:21:52+00:00",
+  "generated_at": "2026-08-03T17:35:26+00:00",
   "source": "authoritative Chapter Five core files and Chapter One principle-layer anchors (preamble + Part A)",
-  "definition_count": 231,
+  "definition_count": 233,
   "definitions": [
     {
       "term": "Accessibility",
@@ -127,13 +127,13 @@
       "term": "Authority Stack and Internal Hierarchy",
       "source_file": "core_05defs_integrative.md",
       "anchor": "#authority-stack",
-      "line_start": 360,
-      "line_end": 395,
+      "line_start": 596,
+      "line_end": 668,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "3.16 Corpus, Authority Stack, Supremacy, and Enforceability",
         "cluster_file": "core_05defs_integrative.md",
-        "line": 314
+        "line": 527
       }
     },
     {
@@ -375,8 +375,8 @@
       "term": "Constitutional Constraint",
       "source_file": "core_05defs_integrative.md",
       "anchor": "#constitutional-constraint",
-      "line_start": 450,
-      "line_end": 488,
+      "line_start": 789,
+      "line_end": 839,
       "category": "dependent_cluster",
       "cluster_membership": null
     },
@@ -384,22 +384,22 @@
       "term": "Constitutional Constraint Violation",
       "source_file": "core_05defs_integrative.md",
       "anchor": "#constitutional-constraint-violation",
-      "line_start": 489,
-      "line_end": 518,
+      "line_start": 840,
+      "line_end": 883,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "3.16 Corpus, Authority Stack, Supremacy, and Enforceability",
         "cluster_file": "core_05defs_integrative.md",
-        "line": 316
+        "line": 529
       }
     },
     {
       "term": "Constitutional Contract Layer",
       "source_file": "core_05defs_integrative.md",
       "anchor": "#constitutional-contract-layer",
-      "line_start": 72,
-      "line_end": 103,
-      "category": "independent",
+      "line_start": 97,
+      "line_end": 150,
+      "category": "semi_independent",
       "cluster_membership": null
     },
     {
@@ -424,8 +424,8 @@
       "term": "Constitutional Owner Layers",
       "source_file": "core_05defs_integrative.md",
       "anchor": "#constitutional-owner-layers",
-      "line_start": 396,
-      "line_end": 428,
+      "line_start": 669,
+      "line_end": 737,
       "category": "dependent_cluster",
       "cluster_membership": null
     },
@@ -495,13 +495,13 @@
       "term": "Corpus",
       "source_file": "core_05defs_integrative.md",
       "anchor": "#corpus",
-      "line_start": 328,
-      "line_end": 359,
+      "line_start": 553,
+      "line_end": 595,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "3.16 Corpus, Authority Stack, Supremacy, and Enforceability",
         "cluster_file": "core_05defs_integrative.md",
-        "line": 313
+        "line": 526
       }
     },
     {
@@ -919,8 +919,8 @@
       "term": "Foundational Constitutional Choice",
       "source_file": "core_05defs_integrative.md",
       "anchor": "#foundational-constitutional-choice",
-      "line_start": 104,
-      "line_end": 138,
+      "line_start": 151,
+      "line_end": 205,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -1030,17 +1030,17 @@
       "term": "Incentive Alignment",
       "source_file": "core_05defs_integrative.md",
       "anchor": "#incentive-alignment",
-      "line_start": 139,
-      "line_end": 243,
-      "category": "semi_independent",
+      "line_start": 222,
+      "line_end": 293,
+      "category": "dependent_cluster",
       "cluster_membership": null
     },
     {
       "term": "Incentive Alignment — baseline constitutional alignment",
       "source_file": "core_05defs_integrative.md",
       "anchor": "#incentive-alignment-baseline-constitutional-alignment",
-      "line_start": 178,
-      "line_end": 190,
+      "line_start": 294,
+      "line_end": 321,
       "category": "dependent_cluster",
       "cluster_membership": null
     },
@@ -1048,9 +1048,27 @@
       "term": "Incentive Alignment — contingent claims, games of chance, and event-contract markets",
       "source_file": "core_05defs_integrative.md",
       "anchor": "#incentive-alignment-contingent-claims-games-of-chance-and-event-contract-markets",
-      "line_start": 200,
-      "line_end": 221,
+      "line_start": 352,
+      "line_end": 400,
       "category": "dependent_cluster",
+      "cluster_membership": null
+    },
+    {
+      "term": "Incentive Alignment — strategic, scaled, and adversarial evaluation",
+      "source_file": "core_05defs_integrative.md",
+      "anchor": "#incentive-alignment-strategic-scaled-and-adversarial-evaluation",
+      "line_start": 322,
+      "line_end": 351,
+      "category": "dependent_cluster",
+      "cluster_membership": null
+    },
+    {
+      "term": "Incentive Alignment, Proxy Integrity, and Contingent Settlement",
+      "source_file": "core_05defs_integrative.md",
+      "anchor": "#incentive-alignment-proxy-integrity-and-contingent-settlement",
+      "line_start": 206,
+      "line_end": 400,
+      "category": "semi_independent",
       "cluster_membership": null
     },
     {
@@ -1075,8 +1093,8 @@
       "term": "Innovation Reward and Anti-Enclosure",
       "source_file": "core_05defs_integrative.md",
       "anchor": "#innovation-reward-and-anti-enclosure",
-      "line_start": 244,
-      "line_end": 291,
+      "line_start": 401,
+      "line_end": 490,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -1329,8 +1347,8 @@
       "term": "Non-Compliance",
       "source_file": "core_05defs_integrative.md",
       "anchor": "#non-compliance",
-      "line_start": 40,
-      "line_end": 71,
+      "line_start": 48,
+      "line_end": 96,
       "category": "independent",
       "cluster_membership": null
     },
@@ -1984,13 +2002,13 @@
       "term": "Supremacy and Enforceability",
       "source_file": "core_05defs_integrative.md",
       "anchor": "#supremacy-and-enforceability",
-      "line_start": 429,
-      "line_end": 449,
+      "line_start": 738,
+      "line_end": 788,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "3.16 Corpus, Authority Stack, Supremacy, and Enforceability",
         "cluster_file": "core_05defs_integrative.md",
-        "line": 315
+        "line": 528
       }
     },
     {
