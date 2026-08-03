@@ -695,7 +695,7 @@ A matter within the [Assembly, Collective Organization, and Institutional Format
 
 **Which rights articles still control.** **Article V-H** (*Expression, Assembly, and Press*) (assembly) and **Article III-D** (*Labor and Economic Floor*) (collective organization in labor and economic contexts) remain the controlling Rights-Floor provisions within their scopes.
 
-**When lighter rules apply.** For matters outside this subsection's admission scope, [Assembly](core_05defs_participation.md#assembly-constitutional) and [Collective Organization](core_05defs_participation.md#collective-organization-constitutional) may still be used as ordinary supporting definitions without pulling in the whole cluster (Chapter Five §3.16).
+**When lighter rules apply.** For matters outside this subsection's admission scope, [Assembly](core_05defs_participation.md#assembly-constitutional) and [Collective Organization](core_05defs_participation.md#collective-organization-constitutional) may still be used as ordinary supporting definitions without pulling in the whole cluster (**Def.I1**).
 
 **What this section does not change.** This subsection adds principle-layer anti-segmentation discipline only. It does **not** create, extend, or narrow any Chapter Six Rights-Floor provision.
 

@@ -5,7 +5,7 @@
 
 > The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other chapters.
 >
-> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter Five, Oversight band** — Independent, Semi-independent, and Dependent cluster definitions assigned to the **Oversight** constitutional band (Chapter One §8.2–§3.3). Reading order and the compass live in [core_05_definitions_home.md](core_05_definitions_home.md#chapter-five-foundational-definitions).
+> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter Five, Oversight band** — Independent, Semi-independent, and Dependent cluster definitions assigned to the **Oversight** constitutional band (**Def.O1–Def.O2**). Reading order and the compass live in [core_05_definitions_home.md](core_05_definitions_home.md#chapter-five-foundational-definitions).
 
 </details>
 
@@ -29,8 +29,8 @@ This band holds definitions under the **Oversight** Tetrad leg — transparency,
 
 | Cluster | Section |
 |---|---|
-| **Chapter One §8.2** | Transparency, Auditability, and Verification |
-| **Chapter One §8.3** | Truth and Epistemic Integrity |
+| **Def.O1** | Transparency, Auditability, and Verification |
+| **Def.O2** | Truth and Epistemic Integrity |
 
 ---
 
@@ -74,7 +74,7 @@ This band holds definitions under the **Oversight** Tetrad leg — transparency,
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Cluster component: [Chapter Five Chapter One §8.23 *Material Impact, Materiality Determination, Classification-Scaled Governance, Oversight, and Capability Requirement*](core_05defs_oversight.md#materiality-semi-independent).
+- Cluster component: [*Material Impact, Materiality Determination, Classification-Scaled Governance, Oversight, and Capability Requirement*](core_05defs_oversight.md#materiality-semi-independent).
 - Read with: [Material Impact](core_05defs_oversight.md#material-impact), [Transparency](core_05defs_oversight.md#transparency), and [System Boundaries](core_05defs_continuity.md#system-boundaries).
 
 </details>
@@ -104,7 +104,7 @@ This band holds definitions under the **Oversight** Tetrad leg — transparency,
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — [material stake](core_00_preamble.md#material-stake) scaling.
-- Cluster component: [Chapter Five Chapter One §8.23 *Material Impact, Materiality Determination, Classification-Scaled Governance, Oversight, and Capability Requirement*](core_05defs_oversight.md#materiality-semi-independent).
+- Cluster component: [*Material Impact, Materiality Determination, Classification-Scaled Governance, Oversight, and Capability Requirement*](core_05defs_oversight.md#materiality-semi-independent).
 - Read with: [Dependency](core_05defs_continuity.md#dependency), [Material Impact](core_05defs_oversight.md#material-impact), [Risk](core_05defs_continuity.md#risk), [System Boundary Integrity](core_05defs_continuity.md#system-boundary-integrity), and [Oversight](core_05apex_oversight_leg.md#oversight-constitutional).
 - Downstream: [Chapter Seven §3 Whole-System Certification Evaluation](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) — class-scaled whole-system evaluation duty.
 
@@ -135,7 +135,7 @@ This band holds definitions under the **Oversight** Tetrad leg — transparency,
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Cluster component: [Chapter Five Chapter One §8.22 *Info-Sphere, Expression, Press and Journalistic Activity, and Good Faith (Publication-Scoped Integrity)*](core_05defs_participation.md#info-sphere)
+- Cluster component: [*Info-Sphere, Expression, Press and Journalistic Activity, and Good Faith (Publication-Scoped Integrity)*](core_05defs_participation.md#info-sphere)
 
 </details>
 
@@ -518,9 +518,10 @@ Relationship: a matter can be materially implicated without being materially mis
 
 ### Oversight: Dependent clusters
 
+<a id="defo1"></a>
 <a id="transparency-auditability-and-verification-cluster"></a>
 
-#### 3.2 Transparency, Auditability, and Verification
+#### Def.O1 Transparency, Auditability, and Verification
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -621,7 +622,7 @@ See [Joint invocation and satisfaction](core_05_definitions_home.md#joint-invoca
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Cluster component: [Chapter Five Chapter One §8.2 *Transparency, Auditability, and Verification*](core_05defs_oversight.md#transparency-auditability-and-verification-cluster).
+- Cluster component: [Def.O1 *Transparency, Auditability, and Verification*](core_05defs_oversight.md#transparency-auditability-and-verification-cluster).
 - Downstream: **[CS-2 Part A §7](corpus_systems/cs_02_a_information_types_and_handling.md#7-type-o-baseline-for-class-abc-systems)** (*Type O baseline for Class A/B/C systems*); [Chapter Seven §4](core_07_a_system_alignment_certification_evaluation.md#4-data-types-and-handling-evaluation) (*Data Types and Handling Evaluation*); [Chapter Seven Part B §11](core_07_b_system_alignment_certification_record_process.md#11-certification-record) (*Certification record*); [Chapter Seven Part B §12](core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*Transparency, auditability, and contestability*).
 - Read with: [Transparency](core_05defs_oversight.md#transparency), [Contestability](core_05defs_accountability.md#contestability), [Auditability](core_05defs_oversight.md#auditability), [Charter](core_05defs_continuity.md#charter), [System Boundaries](core_05defs_continuity.md#system-boundaries), [Classification-Scaled Governance](core_05defs_oversight.md#classification-scaled-governance), and **[corpus_systems.md](corpus_systems.md), CS-2 — Information types and handling** (**Type O**).
 
@@ -717,7 +718,7 @@ See [Joint invocation and satisfaction](core_05_definitions_home.md#joint-invoca
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Principles: [4. Non-Negotiable Constraints: Safety and Truth](core_01_a_values_principles.md#3-non-negotiable-constraints-safety-and-truth), [6. Process Conflict Resolution](core_05apex_oversight_leg.md#6-process-conflict-resolution), and [10.2.1 Preservation of Epistemic Integrity](core_01_b_interaction_interpretation.md#621-preservation-of-epistemic-integrity), where materially relevant evidence must remain available for truth, safety, review, and correction.
-- Cluster component: [Chapter Five Chapter One §8.2 *Transparency, Auditability, and Verification*](core_05defs_oversight.md#transparency-auditability-and-verification-cluster).
+- Cluster component: [Def.O1 *Transparency, Auditability, and Verification*](core_05defs_oversight.md#transparency-auditability-and-verification-cluster).
 - Read with: [Auditability](core_05defs_oversight.md#auditability), [Verifiability](core_05defs_oversight.md#verifiability), [Transparency](core_05defs_oversight.md#transparency), [Accountability](core_05apex_accountability_leg.md#accountability), [Contestability](core_05defs_accountability.md#contestability), [Procedural Fairness](core_05defs_participation.md#procedural-fairness-constitutional), [Protected Reporting (Whistleblowing)](core_05defs_accountability.md#protected-reporting-whistleblowing), and [Redress and Remediation](core_05defs_accountability.md#redress-and-remediation-constitutional).
 
 </details>
@@ -857,9 +858,10 @@ See [Joint invocation and satisfaction](core_05_definitions_home.md#joint-invoca
 
 ---
 
+<a id="defo2"></a>
 <a id="truth-and-epistemic-integrity-cluster"></a>
 
-#### 3.3 Truth and Epistemic Integrity
+#### Def.O2 Truth and Epistemic Integrity
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -1019,7 +1021,7 @@ See [Joint invocation and satisfaction](core_05_definitions_home.md#joint-invoca
 <br>
 
 
-This nested sub-block is the joint-invocation home for **Foreseeability Diligence**, **Reasonably Foreseeable**, and the supporting foreseeability mechanics below within §3.3 *Truth and Epistemic Integrity*. All uses of “reasonably foreseeable” in **Chapters Two through Four** are governed exclusively by these definitions and must remain explicitly traceable where invoked ([Chapter Two, §3 — Consistency Across the Definition Stack](core_02-03_definition_mechanics.md#3-consistency-across-the-definition-stack)).
+This nested sub-block is the joint-invocation home for **Foreseeability Diligence**, **Reasonably Foreseeable**, and the supporting foreseeability mechanics below within Def.O2 *Truth and Epistemic Integrity*. All uses of “reasonably foreseeable” in **Chapters Two through Four** are governed exclusively by these definitions and must remain explicitly traceable where invoked ([Chapter Two, §3 — Consistency Across the Definition Stack](core_02-03_definition_mechanics.md#3-consistency-across-the-definition-stack)).
 
 **Admission scope.** This sub-block applies where a matter materially concerns whether outcomes, risks, harms, misuse pathways, or operating conditions were reasonably identifiable before action; whether claims of non-foreseeability are justified; whether analysis depth, scope, and scaling match [Material Impact](core_05defs_oversight.md#material-impact), [Material Risk](core_05defs_oversight.md#material-risk), [Risk](core_05defs_continuity.md#risk), and [Dependency](core_05defs_continuity.md#dependency); or whether evaluation was incomplete in a way that defeats [Safety (Constraint)](core_05defs_continuity.md#safety-constraint), [Risk](core_05defs_continuity.md#risk) assessment, or [Foreseeability Diligence](core_05defs_oversight.md#foreseeability-diligence). Outside that admission scope, individual entries may still operate as supporting definitions without importing the full compound.
 

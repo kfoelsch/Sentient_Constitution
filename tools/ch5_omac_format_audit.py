@@ -109,7 +109,7 @@ def _split_entries(text: str) -> list[tuple[str, str]]:
 
 
 def _is_cluster_shell(title: str, body: str) -> bool:
-    if re.match(r"^#{4}\s+3\.\d+", title):
+    if re.match(r"^#{4}\s+Def\.[OPACI]\d+", title):
         return True
     head = body[:800]
     if (

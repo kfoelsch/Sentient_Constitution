@@ -47,21 +47,21 @@ Leaf definitions under this aim inherit its scope unless they expressly narrow o
 
 **Constituents** (named in [Preamble §1](../core_00_preamble.md#flourishing)) — definition home and joint-invocation cluster:
 
-- **Truth** — [Truth (Constitutional Constraint)](core_05defs_oversight.md#truth-constitutional-constraint); [§3.3 *Truth and Epistemic Integrity*](core_05defs_oversight.md#truth-and-epistemic-integrity-cluster)
-- **Safety** — [Safety (Constraint)](core_05defs_continuity.md#safety-constraint); [§3.32 *Resilience, Safety, Reversibility, Self-Healing, Cascading Failure, Existential Risk, Environmental Preconditions, and Wellbeing*](core_05defs_continuity.md#resilience-safety-reversibility-self-healing-and-systemic-harm-cluster)
-- **Trustworthiness** — [Trustworthiness](core_05defs_continuity.md#trustworthiness); [§3.15 *Trust and Trustworthiness*](core_05defs_continuity.md#trust-and-trustworthiness-cluster)
-- **Meaningful agency** — [Meaningful Agency](core_05defs_participation.md#meaningful-agency); [§3.7 *Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity*](core_05defs_participation.md#self-determination-and-meaningful-agency-cluster)
+- **Truth** — [Truth (Constitutional Constraint)](core_05defs_oversight.md#truth-constitutional-constraint); [Def.O2 *Truth and Epistemic Integrity*](core_05defs_oversight.md#truth-and-epistemic-integrity-cluster)
+- **Safety** — [Safety (Constraint)](core_05defs_continuity.md#safety-constraint); [*Resilience, Safety, Reversibility, Self-Healing, Cascading Failure, Existential Risk, Environmental Preconditions, and Wellbeing*](core_05defs_continuity.md#resilience-safety-reversibility-self-healing-and-systemic-harm-cluster)
+- **Trustworthiness** — [Trustworthiness](core_05defs_continuity.md#trustworthiness); [Def.C4 *Trust and Trustworthiness*](core_05defs_continuity.md#trust-and-trustworthiness-cluster)
+- **Meaningful agency** — [Meaningful Agency](core_05defs_participation.md#meaningful-agency); [Def.P3 *Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity*](core_05defs_participation.md#self-determination-and-meaningful-agency-cluster)
 
 **Other Flourishing-primary clusters** (invoke per admission scope; not listed as constituent homes above):
 
-- [§3.5 *Animal Life, Sentient Life, and Sentience Status*](core_05defs_participation.md#animal-life-sentient-life-and-sentience-status-cluster)
-- [§3.6 *Binding Stakeholder Choice*](core_05defs_participation.md#binding-stakeholder-choice-cluster)
-- [§3.8 *Collective Harm Boundary, Harm, and Harassment and Bullying*](core_05defs_accountability.md#collective-harm-boundary-and-harm-cluster)
-- [§3.9 *Forum Families and Dispute Routing*](core_05defs_accountability.md#forum-families-and-dispute-routing-cluster)
-- [Chapter One §8.2 *Transparency, Auditability, and Verification*](core_05defs_oversight.md#transparency-auditability-and-verification-cluster)
-- [Chapter One §8.10 *Standing State, Contribution, and Violation*](core_05defs_accountability.md#standing-state-contribution-and-violation-cluster)
-- [Chapter One §8.14 *Privacy (Informational)*](core_05defs_continuity.md#privacy-informational-cluster)
-- [Chapter One §8.16 *Corpus and Authority Stack*](core_05defs_integrative.md#corpus-authority-stack-supremacy-and-enforceability-cluster)
+- [Def.P1 *Animal Life, Sentient Life, and Sentience Status*](core_05defs_participation.md#animal-life-sentient-life-and-sentience-status-cluster)
+- [Def.P2 *Binding Stakeholder Choice*](core_05defs_participation.md#binding-stakeholder-choice-cluster)
+- [Def.A1 *Collective Harm Boundary, Harm, and Harassment and Bullying*](core_05defs_accountability.md#collective-harm-boundary-and-harm-cluster)
+- [Def.A2 *Forum Families and Dispute Routing*](core_05defs_accountability.md#forum-families-and-dispute-routing-cluster)
+- [Def.O1 *Transparency, Auditability, and Verification*](core_05defs_oversight.md#transparency-auditability-and-verification-cluster)
+- [Def.A3 *Standing State, Contribution, and Violation*](core_05defs_accountability.md#standing-state-contribution-and-violation-cluster)
+- [Def.C3 *Privacy (Informational)*](core_05defs_continuity.md#privacy-informational-cluster)
+- [Def.I1 *Corpus and Authority Stack*](core_05defs_integrative.md#corpus-authority-stack-supremacy-and-enforceability-cluster)
 
 ---
 

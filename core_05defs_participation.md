@@ -5,7 +5,7 @@
 
 > The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other chapters.
 >
-> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter Five, Participation band** — Independent, Semi-independent, and Dependent cluster definitions assigned to the **Participation** constitutional band (§3.5–§3.7). Reading order and the compass live in [core_05_definitions_home.md](core_05_definitions_home.md#chapter-five-foundational-definitions).
+> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter Five, Participation band** — Independent, Semi-independent, and Dependent cluster definitions assigned to the **Participation** constitutional band (**Def.P1–Def.P3**). Reading order and the compass live in [core_05_definitions_home.md](core_05_definitions_home.md#chapter-five-foundational-definitions).
 
 </details>
 
@@ -29,9 +29,9 @@ This band holds definitions under the **Participation** Tetrad leg — sentience
 
 | Cluster | Section |
 |---|---|
-| **Chapter One §8.5** | Animal Life, Sentient Life, and Sentience Status |
-| **Chapter One §8.6** | Binding Stakeholder Choice |
-| **Chapter One §8.7** | Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity |
+| **Def.P1** | Animal Life, Sentient Life, and Sentience Status |
+| **Def.P2** | Binding Stakeholder Choice |
+| **Def.P3** | Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity |
 
 ---
 
@@ -124,7 +124,7 @@ Independent Definitions meta rules live in [core_05_definitions_home.md](core_05
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 - Downstream: Principles: [Article V-A: Dignity and Equal Moral Standing](core_06-06_rights_part_b.md#article-v-a-dignity-and-equal-moral-standing); [Article V-B: Nondiscrimination](core_06-06_rights_part_b.md#article-v-b-nondiscrimination).
-- Cluster component: [Chapter Five Chapter One §8.25 *Nondiscrimination, Protected Characteristics, Dignity, Intimate-Signal Gating, and **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) Status](core_05defs_participation.md#fairness-and-protected-status-semi-independent)*
+- Cluster component: [*Nondiscrimination, Protected Characteristics, Dignity, Intimate-Signal Gating, and **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) Status](core_05defs_participation.md#fairness-and-protected-status-semi-independent)*
 - Read with: [Sentience Non-Exclusion](core_05defs_participation.md#sentience-non-exclusion), [Self-Determination](core_05defs_participation.md#self-determination-constitutional), [Substantive Fairness](core_05defs_participation.md#substantive-fairness-constitutional).
 </details>
 
@@ -190,7 +190,7 @@ Independent Definitions meta rules live in [core_05_definitions_home.md](core_05
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-- Cluster component: [Chapter Five Chapter One §8.22 *Info-Sphere, Expression, Press and Journalistic Activity, and Good Faith (Publication-Scoped Integrity)](core_05defs_participation.md#info-sphere)*
+- Cluster component: [*Info-Sphere, Expression, Press and Journalistic Activity, and Good Faith (Publication-Scoped Integrity)](core_05defs_participation.md#info-sphere)*
 </details>
 
 <br>
@@ -514,7 +514,7 @@ Independent Definitions meta rules live in [core_05_definitions_home.md](core_05
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 - Downstream: Principles: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation** leg; [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency), [10.1 Core Tradeoff Principles](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), and [Chapter Seven §3 Whole-System Certification Evaluation](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) where participation, dependency, and material impact determine the intensity of agency protection.
-- Cluster component: [Chapter Five §3.8 *Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity](core_05defs_participation.md#self-determination-and-meaningful-agency-cluster)*, and [Chapter Five §2 *Agency, Consent, and Anti-Coercion](core_05defs_participation.md#agency-consent-and-anti-coercion-semi-independent)*.
+- Cluster component: [**Def.A1** *Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity](core_05defs_participation.md#self-determination-and-meaningful-agency-cluster)*, and [Chapter Five §2 *Agency, Consent, and Anti-Coercion](core_05defs_participation.md#agency-consent-and-anti-coercion-semi-independent)*.
 - Read with: [Freedom (Bounded Agency)](core_05defs_participation.md#freedom-bounded-agency), [Consent](core_05defs_participation.md#consent-constitutional), [Coercion and Manipulation](core_05defs_participation.md#coercion-and-manipulation-constitutional), [Dependency](core_05defs_continuity.md#dependency), [Contestability](core_05defs_accountability.md#contestability), [Systemic Lock-In](core_05defs_continuity.md#systemic-lock-in), and [Dignity and Equal Moral Standing](core_05defs_participation.md#dignity-and-equal-moral-standing).
 </details>
 
@@ -1021,7 +1021,7 @@ Independent Definitions meta rules live in [core_05_definitions_home.md](core_05
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 - Owner floor: [Article VII-D](core_06-06_rights_part_b.md#article-vii-d-family-care-relationships-reproductive-autonomy-and-non-separation) (*Family, Care Relationships, Reproductive Autonomy, and Non-Separation*), read with **Article VII-D.1** (*Derivation, Instantiation, and the Parent-System Relationship*) where derivation, instantiation, or parent-system relationships are materially implicated.
-- Cluster component: [the dependent cluster *Family, Care, Reproductive Autonomy, Non-Separation, Parent-System Relationship, and Instantiation Consent](core_05defs_participation.md#family-care-reproductive-autonomy-derivation-and-instantiation-semi-independent)*; [Chapter Five §3.8 *Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity](core_05defs_participation.md#self-determination-and-meaningful-agency-cluster)* where autonomy and agency routing materially applies.
+- Cluster component: [the dependent cluster *Family, Care, Reproductive Autonomy, Non-Separation, Parent-System Relationship, and Instantiation Consent](core_05defs_participation.md#family-care-reproductive-autonomy-derivation-and-instantiation-semi-independent)*; [**Def.A1** *Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity](core_05defs_participation.md#self-determination-and-meaningful-agency-cluster)* where autonomy and agency routing materially applies.
 - Read with: [Consent](core_05defs_participation.md#consent-constitutional), [Meaningful Agency](core_05defs_participation.md#meaningful-agency), [Family and Care Relationships](core_05defs_participation.md#family-and-care-relationships-constitutional), [Non-Separation](core_05defs_participation.md#non-separation-constitutional), [Instantiation Consent](core_05defs_participation.md#instantiation-consent-constitutional), [Parent-System Relationship](core_05defs_participation.md#parent-system-relationship-constitutional), [Dignity and Equal Moral Standing](core_05defs_participation.md#dignity-and-equal-moral-standing), and [Sentience Non-Exclusion](core_05defs_participation.md#sentience-non-exclusion).
 </details>
 
@@ -1090,7 +1090,7 @@ Independent Definitions meta rules live in [core_05_definitions_home.md](core_05
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 - Downstream: Principles: [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency); [3. Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing) (derivation / dignity read-with **Article VII-D.1** (*Derivation, Instantiation, and the Parent-System Relationship*) stack).
 - Owner floor: [Article VII-D.1](core_06-06_rights_part_b.md#article-vii-d1-derivation-instantiation-and-the-parent-system-relationship) (*Derivation, Instantiation, and the Parent-System Relationship*).
-- Read with: the [Animal Life, Sentient Life, and Sentience Status cluster](core_05defs_integrative.md#animal-life-sentient-life-and-sentience-status-cluster), the [Derived and Developing Sentients, Instantiation, and Care Authority cluster](core_05defs_continuity.md#derived-developing-sentients-instantiation-and-care-authority-cluster), [Sentient](core_05defs_participation.md#sentient), [Developing Sentient](core_05defs_participation.md#developing-sentient-constitutional), [Sentience Evaluation](core_05defs_participation.md#sentience-evaluation-e), [Sentience Non-Exclusion](core_05defs_participation.md#sentience-non-exclusion), [Sentience Status Adjudication](core_05defs_participation.md#sentience-status-adjudication-constitutional), [Dignity and Equal Moral Standing](core_05defs_participation.md#dignity-and-equal-moral-standing), [Parent-System Relationship](core_05defs_participation.md#parent-system-relationship-constitutional), and [Instantiation Consent](core_05defs_participation.md#instantiation-consent-constitutional).
+- Read with: the [Animal Life, Sentient Life, and Sentience Status cluster](core_05defs_participation.md#animal-life-sentient-life-and-sentience-status-cluster), the [Derived and Developing Sentients, Instantiation, and Care Authority cluster](core_05defs_continuity.md#derived-developing-sentients-instantiation-and-care-authority-cluster), [Sentient](core_05defs_participation.md#sentient), [Developing Sentient](core_05defs_participation.md#developing-sentient-constitutional), [Sentience Evaluation](core_05defs_participation.md#sentience-evaluation-e), [Sentience Non-Exclusion](core_05defs_participation.md#sentience-non-exclusion), [Sentience Status Adjudication](core_05defs_participation.md#sentience-status-adjudication-constitutional), [Dignity and Equal Moral Standing](core_05defs_participation.md#dignity-and-equal-moral-standing), [Parent-System Relationship](core_05defs_participation.md#parent-system-relationship-constitutional), and [Instantiation Consent](core_05defs_participation.md#instantiation-consent-constitutional).
 </details>
 
 <br>
@@ -1124,7 +1124,7 @@ Independent Definitions meta rules live in [core_05_definitions_home.md](core_05
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 - Downstream: Principles: [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency); [§6.3.1 Rights-Collision Decision Test](core_05apex_participation_leg.md#631-rights-collision-decision-test) (developing sentient / best-interest read-with **Article V-F** (*Developing Sentients, Best-Interest, and Graduated Capability*)).
 - Owner floor: [Article V-F](core_06-06_rights_part_b.md#article-v-f-developing-sentients-best-interest-and-graduated-capability) (*Developing Sentients, Best-Interest, and Graduated Capability*).
-- Read with: the [Animal Life, Sentient Life, and Sentience Status cluster](core_05defs_integrative.md#animal-life-sentient-life-and-sentience-status-cluster), the [Derived and Developing Sentients, Instantiation, and Care Authority cluster](core_05defs_continuity.md#derived-developing-sentients-instantiation-and-care-authority-cluster), [Sentient](core_05defs_participation.md#sentient), [Derived Sentient](core_05defs_participation.md#derived-sentient-constitutional), [Sentience Evaluation](core_05defs_participation.md#sentience-evaluation-e), [Sentience Non-Exclusion](core_05defs_participation.md#sentience-non-exclusion), [Sentience Status Adjudication](core_05defs_participation.md#sentience-status-adjudication-constitutional), [Dignity and Equal Moral Standing](core_05defs_participation.md#dignity-and-equal-moral-standing), [Best-Interest Standard](core_05defs_participation.md#best-interest-standard-constitutional), and [Graduated Capability](core_05defs_participation.md#graduated-capability-constitutional).
+- Read with: the [Animal Life, Sentient Life, and Sentience Status cluster](core_05defs_participation.md#animal-life-sentient-life-and-sentience-status-cluster), the [Derived and Developing Sentients, Instantiation, and Care Authority cluster](core_05defs_continuity.md#derived-developing-sentients-instantiation-and-care-authority-cluster), [Sentient](core_05defs_participation.md#sentient), [Derived Sentient](core_05defs_participation.md#derived-sentient-constitutional), [Sentience Evaluation](core_05defs_participation.md#sentience-evaluation-e), [Sentience Non-Exclusion](core_05defs_participation.md#sentience-non-exclusion), [Sentience Status Adjudication](core_05defs_participation.md#sentience-status-adjudication-constitutional), [Dignity and Equal Moral Standing](core_05defs_participation.md#dignity-and-equal-moral-standing), [Best-Interest Standard](core_05defs_participation.md#best-interest-standard-constitutional), and [Graduated Capability](core_05defs_participation.md#graduated-capability-constitutional).
 </details>
 
 <br>
@@ -1462,10 +1462,11 @@ Independent Definitions meta rules live in [core_05_definitions_home.md](core_05
 
 
 
-<a id="animal-life-sentient-life-and-sentience-status-cluster"></a>
 <a id="35-animal-life-sentient-life-and-sentience-status"></a>
+<a id="defp1"></a>
+<a id="animal-life-sentient-life-and-sentience-status-cluster"></a>
 
-#### 3.5 Animal Life, Sentient Life, and Sentience Status
+#### Def.P1 Animal Life, Sentient Life, and Sentience Status
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -1628,7 +1629,7 @@ This cluster is the canonical O/M/A/C home for **Animal Life**, **Contested-Sent
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 - Owner floor: [Article V-E](core_06-06_rights_part_b.md#article-v-e-sentience-status-adjudication-floor) (*Sentience-Status Adjudication Floor*).
-- Cluster component: [Animal Life, Sentient Life, and Sentience Status](core_05defs_integrative.md#animal-life-sentient-life-and-sentience-status-cluster) cluster.
+- Cluster component: [Animal Life, Sentient Life, and Sentience Status](core_05defs_participation.md#animal-life-sentient-life-and-sentience-status-cluster) cluster.
 - Read with: [Sentience Non-Exclusion](core_05defs_participation.md#sentience-non-exclusion), [Contested-Sentient Life](core_05defs_participation.md#contested-sentient-life-constitutional), [Chapter Eleven](core_11-11_forum.md), and [Chapter Sixteen](core_16-16_incorporation.md) incorporated implementation text.
 </details>
 
@@ -1668,9 +1669,10 @@ See [Joint invocation and satisfaction](core_05_definitions_home.md#joint-invoca
 
 
 
+<a id="defp2"></a>
 <a id="binding-stakeholder-choice-cluster"></a>
 
-#### 3.6 Binding Stakeholder Choice
+#### Def.P2 Binding Stakeholder Choice
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -1766,15 +1768,16 @@ See [Joint invocation and satisfaction](core_05_definitions_home.md#joint-invoca
 
 
 
+<a id="defp3"></a>
 <a id="self-determination-and-meaningful-agency-cluster"></a>
 
-#### 3.7 Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity
+#### Def.P3 Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 - Constitutional frame: **Participation** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](core_05defs_oversight.md#materiality-determination).
 - Chapter One basis: §10, Chapter One §8.1, §4 (see [Chapter Five compass](../core_05_definitions_home.md#chapter-five-compass-and-definition-map) map).
-- Read with: Apply [Coercion and Manipulation](core_05defs_participation.md#coercion-and-manipulation-constitutional), [Consent](core_05defs_participation.md#consent-constitutional), [Privacy (Informational)](core_05defs_continuity.md#privacy-informational), [Dignity and Equal Moral Standing](core_05defs_participation.md#dignity-and-equal-moral-standing), [Dependency](core_05defs_continuity.md#dependency), [Truth (Constitutional Constraint)](core_05defs_oversight.md#truth-constitutional-constraint), [Reproductive Autonomy](core_05defs_participation.md#reproductive-autonomy-constitutional) where **Article VII-D** (*Family, Care Relationships, Reproductive Autonomy, and Non-Separation*) joint invocation materially applies, and [Chapter Five Chapter One §8.22 *Info-Sphere, Expression, Press and Journalistic Activity, and Good Faith (Publication-Scoped Integrity)](core_05apex_participation_leg.md#info-sphere-expression-press-journalistic-activity-and-good-faith-cluster)* where materially implicated.
+- Read with: Apply [Coercion and Manipulation](core_05defs_participation.md#coercion-and-manipulation-constitutional), [Consent](core_05defs_participation.md#consent-constitutional), [Privacy (Informational)](core_05defs_continuity.md#privacy-informational), [Dignity and Equal Moral Standing](core_05defs_participation.md#dignity-and-equal-moral-standing), [Dependency](core_05defs_continuity.md#dependency), [Truth (Constitutional Constraint)](core_05defs_oversight.md#truth-constitutional-constraint), [Reproductive Autonomy](core_05defs_participation.md#reproductive-autonomy-constitutional) where **Article VII-D** (*Family, Care Relationships, Reproductive Autonomy, and Non-Separation*) joint invocation materially applies, and [*Info-Sphere, Expression, Press and Journalistic Activity, and Good Faith (Publication-Scoped Integrity)](core_05apex_participation_leg.md#info-sphere-expression-press-journalistic-activity-and-good-faith-cluster)* where materially implicated.
 </details>
 
 <br>
@@ -1813,7 +1816,7 @@ See [Joint invocation and satisfaction](core_05_definitions_home.md#joint-invoca
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-- Cluster component: [Chapter Five §3.7 *Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity](core_05defs_participation.md#self-determination-and-meaningful-agency-cluster)*.
+- Cluster component: [**Def.P3** *Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity](core_05defs_participation.md#self-determination-and-meaningful-agency-cluster)*.
 - Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation** leg; [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — **Flourishing** aim (*cluster read-with principles*).
 - Owner floor: **[Article IX-A](core_06-06_rights_part_b.md#article-ix-a-agency-and-freedom-from-manipulation) (*Agency and Freedom from Manipulation*)** (*agency and freedom from manipulation*).
 - Read with: [Freedom (Bounded Agency)](core_05defs_participation.md#freedom-bounded-agency) and [Meaningful Agency](core_05defs_participation.md#meaningful-agency) where materially implicated.
@@ -1827,7 +1830,7 @@ See [Joint invocation and satisfaction](core_05_definitions_home.md#joint-invoca
 
 
 - **What it is**
-  - **In scope:** Autonomy to make and refuse informed decisions about oneself and one's future, and to maintain volitional continuity against manipulation and capture, within this §3.8 cluster and **[Article IX: Self-Determination and Agency](core_06-06_rights_part_b.md#article-ix-self-determination-and-agency)**.
+  - **In scope:** Autonomy to make and refuse informed decisions about oneself and one's future, and to maintain volitional continuity against manipulation and capture, within this **Def.A1** cluster and **[Article IX: Self-Determination and Agency](core_06-06_rights_part_b.md#article-ix-self-determination-and-agency)**.
   - **Out of scope:** mere practical task capacity under Meaningful Agency, or collective stakeholder weight in someone else's governance.
 - **How to measure and assess**
   - **Primary measure:** [Participation measurement family](core_05apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?*
@@ -1846,8 +1849,8 @@ See [Joint invocation and satisfaction](core_05_definitions_home.md#joint-invoca
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-- Cluster component: [Chapter Five §3.7 *Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity](core_05defs_participation.md#self-determination-and-meaningful-agency-cluster)*.
-- Read with: [Chapter Five Chapter One §8.22 *Info-Sphere, Expression, Press and Journalistic Activity, and Good Faith (Publication-Scoped Integrity)](core_05apex_participation_leg.md#info-sphere-expression-press-journalistic-activity-and-good-faith-cluster)*, where info-sphere, press, or publication-scoped integrity routing materially applies.
+- Cluster component: [**Def.P3** *Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity](core_05defs_participation.md#self-determination-and-meaningful-agency-cluster)*.
+- Read with: [*Info-Sphere, Expression, Press and Journalistic Activity, and Good Faith (Publication-Scoped Integrity)](core_05apex_participation_leg.md#info-sphere-expression-press-journalistic-activity-and-good-faith-cluster)*, where info-sphere, press, or publication-scoped integrity routing materially applies.
 </details>
 
 <br>
@@ -1858,7 +1861,7 @@ See [Joint invocation and satisfaction](core_05_definitions_home.md#joint-invoca
 
 
 - **What it is**
-  - **In scope:** The Rights-Floor capacity to form, hold, and communicate views — including political, philosophical, artistic, scientific, religious, and worldview expression — substrate-agnostically under **[Article V-H](core_06-06_rights_part_b.md#article-v-h-expression-assembly-and-press) (*Expression, Assembly, and Press*)** (*expression, assembly, and press*), read with this §3.8 cluster and, where **[Article II-E](core_06-06_rights_part_a.md#article-ii-e-info-sphere-dependency-continuity-and-operator-non-viability) (*Info-Sphere Dependency, Continuity, and Operator Non-Viability*)** (*info-sphere dependency*), **Article VIII** (*Likeness, Experiential Data, and Publication Rights*) publication or likeness hooks, functional **Article V-H** (*Expression, Assembly, and Press*) *press*, or publication-scoped **Good Faith** analysis is materially implicated, [Chapter Five Chapter One §8.22 *Info-Sphere, Expression, Press and Journalistic Activity, and Good Faith (Publication-Scoped Integrity)](core_05apex_participation_leg.md#info-sphere-expression-press-journalistic-activity-and-good-faith-cluster)*.
+  - **In scope:** The Rights-Floor capacity to form, hold, and communicate views — including political, philosophical, artistic, scientific, religious, and worldview expression — substrate-agnostically under **[Article V-H](core_06-06_rights_part_b.md#article-v-h-expression-assembly-and-press) (*Expression, Assembly, and Press*)** (*expression, assembly, and press*), read with this **Def.A1** cluster and, where **[Article II-E](core_06-06_rights_part_a.md#article-ii-e-info-sphere-dependency-continuity-and-operator-non-viability) (*Info-Sphere Dependency, Continuity, and Operator Non-Viability*)** (*info-sphere dependency*), **Article VIII** (*Likeness, Experiential Data, and Publication Rights*) publication or likeness hooks, functional **Article V-H** (*Expression, Assembly, and Press*) *press*, or publication-scoped **Good Faith** analysis is materially implicated, [*Info-Sphere, Expression, Press and Journalistic Activity, and Good Faith (Publication-Scoped Integrity)](core_05apex_participation_leg.md#info-sphere-expression-press-journalistic-activity-and-good-faith-cluster)*.
   - **Out of scope:** mere assembly logistics, commercial spam, or compelled speech treated as protected expression.
 - **How to measure and assess**
   - **Primary measure:** [Participation measurement family](core_05apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?*
@@ -1878,7 +1881,7 @@ See [Joint invocation and satisfaction](core_05_definitions_home.md#joint-invoca
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 - Downstream: Participation measurement family (*Fairness, access, and agency — Educational Agency as constitutional measurement*).
-- Cluster component: [Chapter Five §3.7 *Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity](core_05defs_participation.md#self-determination-and-meaningful-agency-cluster)*.
+- Cluster component: [**Def.P3** *Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity](core_05defs_participation.md#self-determination-and-meaningful-agency-cluster)*.
 - Owner floors: **[Article VI: Right to Sentient-Centered Education](core_06-06_rights_part_b.md#article-vi-right-to-sentient-centered-education)**, **[Article III-B: Equal Educational Access](core_06-06_rights_part_a.md#article-iii-b-equal-educational-access)**.
 </details>
 
@@ -1890,7 +1893,7 @@ See [Joint invocation and satisfaction](core_05_definitions_home.md#joint-invoca
 
 
 - **What it is**
-  - **In scope:** Capability-building, lifelong-learning, and contestable education autonomy under **[Article VI: Right to Sentient-Centered Education](core_06-06_rights_part_b.md#article-vi-right-to-sentient-centered-education)**, **[Article III-B: Equal Educational Access](core_06-06_rights_part_a.md#article-iii-b-equal-educational-access)**, and this §3.8 cluster; includes practical access sufficient to develop and exercise constitution-relevant capabilities, not credential symbolism alone.
+  - **In scope:** Capability-building, lifelong-learning, and contestable education autonomy under **[Article VI: Right to Sentient-Centered Education](core_06-06_rights_part_b.md#article-vi-right-to-sentient-centered-education)**, **[Article III-B: Equal Educational Access](core_06-06_rights_part_a.md#article-iii-b-equal-educational-access)**, and this **Def.A1** cluster; includes practical access sufficient to develop and exercise constitution-relevant capabilities, not credential symbolism alone.
   - **Out of scope:** credential collection alone, or mandated training that builds no real contestable capability.
 - **How to measure and assess**
   - **Primary measure:** [Participation measurement family](core_05apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?*
@@ -1913,7 +1916,7 @@ See [Joint invocation and satisfaction](core_05_definitions_home.md#joint-invoca
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-- Cluster component: [Chapter Five §3.7 *Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity](core_05defs_participation.md#self-determination-and-meaningful-agency-cluster)*.
+- Cluster component: [**Def.P3** *Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity](core_05defs_participation.md#self-determination-and-meaningful-agency-cluster)*.
 - Read with: [Self-Determination](core_05defs_participation.md#self-determination-constitutional), [Freedom (Bounded Agency)](core_05defs_participation.md#freedom-bounded-agency), [Coercion and Manipulation](core_05defs_participation.md#coercion-and-manipulation-constitutional), [Consent](core_05defs_participation.md#consent-constitutional), [Protected Internal-State Boundary](core_05defs_continuity.md#protected-internal-state-boundary-constitutional), and [Surveillance Boundary](core_05defs_continuity.md#surveillance-boundary).
 </details>
 

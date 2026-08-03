@@ -29,10 +29,10 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 
 | Cluster | Section |
 |---|---|
-| **Chapter One §8.12** | Labor and Economic Floor: Compensation, Organization, Safe Conditions, Leisure, and Creative Work |
-| **Chapter One §8.13** | Stewardship, Governance Discipline, and Shared-System Capacity |
-| **Chapter One §8.14** | Privacy (Informational) — peer-level cluster head |
-| **Chapter One §8.15** | Trust and Trustworthiness |
+| **Def.C1** | Labor and Economic Floor: Compensation, Organization, Safe Conditions, Leisure, and Creative Work |
+| **Def.C2** | Stewardship, Governance Discipline, and Shared-System Capacity |
+| **Def.C3** | Privacy (Informational) — peer-level cluster head |
+| **Def.C4** | Trust and Trustworthiness |
 
 ---
 
@@ -428,7 +428,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Flourishing measurement family (*Safety, harm, and risk as constitutional measurement*).
-- Cluster component: [Chapter Five §3.32 *Resilience, Safety, Reversibility, Self-Healing, Cascading Failure, Existential Risk, Environmental Preconditions, and Wellbeing*](core_05defs_continuity.md#resilience-safety-reversibility-self-healing-and-systemic-harm-cluster)
+- Cluster component: [Chapter Five *Resilience, Safety, Reversibility, Self-Healing, Cascading Failure, Existential Risk, Environmental Preconditions, and Wellbeing*](core_05defs_continuity.md#resilience-safety-reversibility-self-healing-and-systemic-harm-cluster)
 - Read with: [Harm](core_05defs_accountability.md#harm), [Risk](core_05defs_continuity.md#risk), [Cascading Failure](core_05defs_continuity.md#cascading-failure), [Truth (Constitutional Constraint)](core_05defs_oversight.md#truth-constitutional-constraint), and [Environmental Preconditions](core_05defs_continuity.md#environmental-preconditions-constitutional).
 
 </details>
@@ -497,7 +497,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Flourishing measurement family (*Safety, harm, and risk as constitutional measurement*); Principles: [4.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint) and [Chapter Seven §3 Whole-System Certification Evaluation](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
-- Cluster component: [Chapter Five §3.32 *Resilience, Safety, Reversibility, Self-Healing, Cascading Failure, Existential Risk, Environmental Preconditions, and Wellbeing*](core_05defs_continuity.md#resilience-safety-reversibility-self-healing-and-systemic-harm-cluster)
+- Cluster component: [Chapter Five *Resilience, Safety, Reversibility, Self-Healing, Cascading Failure, Existential Risk, Environmental Preconditions, and Wellbeing*](core_05defs_continuity.md#resilience-safety-reversibility-self-healing-and-systemic-harm-cluster)
 - Read with: [Harm](core_05defs_accountability.md#harm), [Materiality Determination](core_05defs_oversight.md#materiality-determination), [Dependency](core_05defs_continuity.md#dependency), and [Existential Risk](core_05defs_continuity.md#existential-risk).
 
 </details>
@@ -551,7 +551,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Flourishing measurement family (*Wellbeing as constitutional measurement*); Principles: [3. Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing); [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — **Flourishing** aim.
-- Cluster component: [Chapter Five §3.32 *Resilience, Safety, Reversibility, Self-Healing, Cascading Failure, Existential Risk, Environmental Preconditions, and Wellbeing*](core_05defs_continuity.md#resilience-safety-reversibility-self-healing-and-systemic-harm-cluster)
+- Cluster component: [Chapter Five *Resilience, Safety, Reversibility, Self-Healing, Cascading Failure, Existential Risk, Environmental Preconditions, and Wellbeing*](core_05defs_continuity.md#resilience-safety-reversibility-self-healing-and-systemic-harm-cluster)
 - Read with: [Harm](core_05defs_accountability.md#harm), [Psychological Harm](core_05defs_accountability.md#psychological-harm), [Harassment and Bullying](core_05defs_accountability.md#harassment-and-bullying), [Dependency](core_05defs_continuity.md#dependency), [Meaningful Agency](core_05defs_participation.md#meaningful-agency), and [Environmental Preconditions](core_05defs_continuity.md#environmental-preconditions-constitutional).
 
 </details>
@@ -628,7 +628,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 
 - Downstream: Principles: [§12.1 Productive Capacity (Instrumental Good)](core_01_c_stewardship_capacity_principles.md#121-productive-capacity-instrumental-good) (ecological bounds and **Environmental Preconditions** / **Ecological Integrity** in the productive-capacity discipline); [Chapter Seven §3 Whole-System Certification Evaluation](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (cumulative / long-horizon ecological effects).
 - Owner floor: [Article I-A](core_06-06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*Environmental Preconditions and Ecological Integrity*) for environmental preconditions and ecological integrity.
-- Cluster component: [Chapter Five §3.32 *Resilience, Safety, Reversibility, Self-Healing, Cascading Failure, Existential Risk, Environmental Preconditions, and Wellbeing*](core_05defs_continuity.md#resilience-safety-reversibility-self-healing-and-systemic-harm-cluster)
+- Cluster component: [Chapter Five *Resilience, Safety, Reversibility, Self-Healing, Cascading Failure, Existential Risk, Environmental Preconditions, and Wellbeing*](core_05defs_continuity.md#resilience-safety-reversibility-self-healing-and-systemic-harm-cluster)
 - Cluster component: [Ecological Integrity, Footprint, and Sustainability](core_05defs_continuity.md#ecological-footprint-semi-independent).
 - Read with: [Bodily-Maintenance Access, Occupancy Continuity, Environmental Preconditions, Cultural Continuity, and Anti-Displacement Floor](core_05defs_continuity.md#safe-conditions-occupancy-continuity-and-environmental-preconditions-cluster) (Safe Conditions and Rest now in Section 3.5 Labor and Economic Floor cluster), where survival-floor routing materially applies.
 
@@ -690,7 +690,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Principles: [Chapter Seven §3 Whole-System Certification Evaluation](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
-- Cluster component: [Chapter Five §3.32 *Resilience, Safety, Reversibility, Self-Healing, Cascading Failure, Existential Risk, Environmental Preconditions, and Wellbeing*](core_05defs_continuity.md#resilience-safety-reversibility-self-healing-and-systemic-harm-cluster)
+- Cluster component: [Chapter Five *Resilience, Safety, Reversibility, Self-Healing, Cascading Failure, Existential Risk, Environmental Preconditions, and Wellbeing*](core_05defs_continuity.md#resilience-safety-reversibility-self-healing-and-systemic-harm-cluster)
 - Read with: [Safety (Constraint)](core_05defs_continuity.md#safety-constraint), [Irreversible Harm](core_05defs_accountability.md#irreversible-harm), [Cascading Failure](core_05defs_continuity.md#cascading-failure), and [Dependency](core_05defs_continuity.md#dependency).
 
 </details>
@@ -748,7 +748,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Cluster component: [Chapter Five §3.32 *Resilience, Safety, Reversibility, Self-Healing, Cascading Failure, Existential Risk, Environmental Preconditions, and Wellbeing*](core_05defs_continuity.md#resilience-safety-reversibility-self-healing-and-systemic-harm-cluster)
+- Cluster component: [Chapter Five *Resilience, Safety, Reversibility, Self-Healing, Cascading Failure, Existential Risk, Environmental Preconditions, and Wellbeing*](core_05defs_continuity.md#resilience-safety-reversibility-self-healing-and-systemic-harm-cluster)
 - Owner floor: [Article XII-F](core_06-06_rights_part_c.md#article-xii-f-resilience-and-self-healing-baseline) (*Resilience and Self-Healing Baseline*).
 - Read with: [Safety (Constraint)](core_05defs_continuity.md#safety-constraint), [Truth (Constitutional Constraint)](core_05defs_oversight.md#truth-constitutional-constraint), [Trust](core_05defs_continuity.md#trust), [Reversibility](core_05defs_continuity.md#reversibility-constitutional), [Dependency](core_05defs_continuity.md#dependency), and [Cascading Failure](core_05defs_continuity.md#cascading-failure).
 
@@ -830,7 +830,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Cluster component: [Chapter Five §3.32 *Resilience, Safety, Reversibility, Self-Healing, Cascading Failure, Existential Risk, Environmental Preconditions, and Wellbeing*](core_05defs_continuity.md#resilience-safety-reversibility-self-healing-and-systemic-harm-cluster)
+- Cluster component: [Chapter Five *Resilience, Safety, Reversibility, Self-Healing, Cascading Failure, Existential Risk, Environmental Preconditions, and Wellbeing*](core_05defs_continuity.md#resilience-safety-reversibility-self-healing-and-systemic-harm-cluster)
 - Read with: [Dependency](core_05defs_continuity.md#dependency), [Risk](core_05defs_continuity.md#risk), and [System Boundary Integrity](core_05defs_continuity.md#system-boundary-integrity).
 
 </details>
@@ -883,7 +883,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Principles: [Chapter Seven §3 Whole-System Certification Evaluation](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
-- Cluster component: [Chapter Five §3.32 *Resilience, Safety, Reversibility, Self-Healing, Cascading Failure, Existential Risk, Environmental Preconditions, and Wellbeing*](core_05defs_continuity.md#resilience-safety-reversibility-self-healing-and-systemic-harm-cluster)
+- Cluster component: [Chapter Five *Resilience, Safety, Reversibility, Self-Healing, Cascading Failure, Existential Risk, Environmental Preconditions, and Wellbeing*](core_05defs_continuity.md#resilience-safety-reversibility-self-healing-and-systemic-harm-cluster)
 - Read with: [Risk](core_05defs_continuity.md#risk), [Harm](core_05defs_accountability.md#harm), [Environmental Preconditions](core_05defs_continuity.md#environmental-preconditions-constitutional), [Ecological Integrity](core_05defs_continuity.md#ecological-integrity-constitutional), [Ecological Recovery Capacity](core_05defs_continuity.md#ecological-recovery-capacity-constitutional), and [Intergenerational Responsibility](core_05defs_continuity.md#intergenerational-responsibility-constitutional).
 
 </details>
@@ -1930,7 +1930,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 
 - Downstream: Continuity measurement family (*Dependency and resource flows as constitutional measurement*); Principles: [3. Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [5. System Stability Enabler: Trust](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity), [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency), [6. Process Conflict Resolution](#6-process-conflict-resolution), [§6.1 decision-record discipline](#631-rights-collision-decision-test), and [Chapter Seven §3 Whole-System Certification Evaluation](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 - Cluster component: [Dependency and cross-system support](core_05defs_continuity.md#dependency-and-cross-system-support-semi-independent).
-- Cluster component: [Chapter Five Chapter One §8.20 *Governance Architecture, Oversight, Dependency, Decentralization, Concentration, Market Structure, and Exit-Path Integrity*](core_05defs_accountability.md#governance-architecture-oversight-decentralization-and-concentration-cluster)
+- Cluster component: [*Governance Architecture, Oversight, Dependency, Decentralization, Concentration, Market Structure, and Exit-Path Integrity*](core_05defs_accountability.md#governance-architecture-oversight-decentralization-and-concentration-cluster)
 - Read with: [Proportionate Cross-System Contribution](core_05defs_continuity.md#proportionate-cross-system-support-constitutional), [Wellbeing](core_05defs_continuity.md#wellbeing), [Risk](core_05defs_continuity.md#risk), [Classification-Scaled Governance](core_05defs_oversight.md#classification-scaled-governance), [System Boundary Integrity](core_05defs_continuity.md#system-boundary-integrity), and [System Alignment Certification](core_05defs_continuity.md#system-alignment-certification-constitutional) where certification gates shared-infrastructure reliance.
 
 </details>
@@ -2754,9 +2754,10 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 
 ### Continuity: Dependent clusters
 
+<a id="defc1"></a>
 <a id="labor-and-economic-floor-cluster"></a>
 
-#### 3.12 Labor and Economic Floor: Compensation, Organization, Safe Conditions, Leisure, and Creative Work
+#### Def.C1 Labor and Economic Floor: Compensation, Organization, Safe Conditions, Leisure, and Creative Work
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -2826,7 +2827,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 
 - Downstream: Principles: [3. Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing); [§6.3 Minimization of Avoidable Burden](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden) (labor-floor burden vs false efficiency).
 - Owner floor: [Article III-D](core_06-06_rights_part_a.md#article-iii-d-labor-and-economic-floor) (*Labor and Economic Floor*). Implementation routing: `corpus_institutions.md` **CI-9** (*Classification-linked institutional obligations*) / **CI-10** (*Public revenue, fees, recurring charges, and billing integrity*) / **CI-11** (*Resource stewardship and incentive integrity*).
-- Cluster component: [Chapter Five Chapter One §8.12 *Labor and Economic Floor*](core_05defs_continuity.md#labor-and-economic-floor-cluster).
+- Cluster component: [Def.C1 *Labor and Economic Floor*](core_05defs_continuity.md#labor-and-economic-floor-cluster).
 - Read with: [Safe Conditions](core_05defs_continuity.md#safe-conditions-constitutional), [Leisure and Rest](core_05defs_continuity.md#leisure-and-rest-constitutional), [Collective Organization](core_05defs_participation.md#collective-organization-constitutional), [Substantive Fairness](core_05defs_participation.md#substantive-fairness-constitutional), [Protected Characteristics](core_05defs_participation.md#protected-characteristics-constitutional), [Protected Characteristic Proxying and Disparate Impact](core_05defs_participation.md#protected-characteristic-proxying-and-disparate-impact), [Meaningful Agency](core_05defs_participation.md#meaningful-agency), [Coercion and Manipulation](core_05defs_participation.md#coercion-and-manipulation-constitutional), [Dependency](core_05defs_continuity.md#dependency), and [Lifespan Equivalent Unit (LEQU)](core_05defs_participation.md#lifespan-equivalent-unit-lequ) (where quantitative calibration of benefit or deprivation is material).
 
 </details>
@@ -2895,7 +2896,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 
 - Downstream: Principles: [Chapter Seven §3 Whole-System Certification Evaluation](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (substantive participation and materiality under **accessibility** evaluation); [3. Non-Negotiable Constraints: Safety](core_01_a_values_principles.md#3-non-negotiable-constraints-safety-and-truth) (**Safety** stack read with labor-floor role of this entry).
 - Owner floor: [Article III-D](core_06-06_rights_part_a.md#article-iii-d-labor-and-economic-floor) (*Labor and Economic Floor*). Systems-layer implementation: [Article XII-A](core_06-06_rights_part_c.md#article-xii-a-reliability-and-trustworthiness-baseline) (*Reliability and Trustworthiness Baseline*). Operational profile: `corpus_systems.md` Protocol A safety profiles where applicable.
-- Cluster component: [Chapter Five Chapter One §8.12 *Labor and Economic Floor*](core_05defs_continuity.md#labor-and-economic-floor-cluster).
+- Cluster component: [Def.C1 *Labor and Economic Floor*](core_05defs_continuity.md#labor-and-economic-floor-cluster).
 - Read with: [Fair Compensation](core_05defs_continuity.md#fair-compensation-constitutional), [Collective Organization](core_05defs_participation.md#collective-organization-constitutional), [Leisure and Rest](core_05defs_continuity.md#leisure-and-rest-constitutional), [Safety (Constraint)](core_05defs_continuity.md#safety-constraint), [Adversarial, Scaled, and Exploited Conditions](core_05defs_oversight.md#adversarial-scaled-and-exploited-conditions), [Harm](core_05defs_accountability.md#harm), [Risk](core_05defs_continuity.md#risk), [Reversibility](core_05defs_continuity.md#reversibility-constitutional), and [Sentience Non-Exclusion](core_05defs_participation.md#sentience-non-exclusion).
 
 </details>
@@ -2961,7 +2962,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 
 - Downstream: Principles: [§6.3 Minimization of Avoidable Burden](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden) (participation-capacity preservation vs false efficiency); [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency) (**Meaningful Agency** in tradeoff stack); [Chapter Seven §3 Whole-System Certification Evaluation](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (**Materiality** / **Dependency** scaling).
 - Owner floor: [Article III-D](core_06-06_rights_part_a.md#article-iii-d-labor-and-economic-floor) (*Labor and Economic Floor*).
-- Cluster component: [Chapter Five Chapter One §8.12 *Labor and Economic Floor*](core_05defs_continuity.md#labor-and-economic-floor-cluster).
+- Cluster component: [Def.C1 *Labor and Economic Floor*](core_05defs_continuity.md#labor-and-economic-floor-cluster).
 - Read with: [Fair Compensation](core_05defs_continuity.md#fair-compensation-constitutional), [Collective Organization](core_05defs_participation.md#collective-organization-constitutional), [Safe Conditions](core_05defs_continuity.md#safe-conditions-constitutional), [Meaningful Agency](core_05defs_participation.md#meaningful-agency), [Wellbeing](core_05defs_continuity.md#wellbeing), and [Sentience Non-Exclusion](core_05defs_participation.md#sentience-non-exclusion).
 
 </details>
@@ -3065,7 +3066,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 
 - Downstream: Principles: [§12.1 Productive Capacity (Instrumental Good)](core_01_c_stewardship_capacity_principles.md#121-productive-capacity-instrumental-good); [§9.2 Distributed Understanding](core_01_c_stewardship_capacity_principles.md#92-distributed-understanding) (attribution / traceability read-with).
 - Owner floor: [Article VIII-D](core_06-06_rights_part_b.md#article-viii-d-creative-work-training-data-use-and-anti-displacement) (*Creative Work, Training-Data Use, and Anti-Displacement*).
-- Cluster component: [Chapter Five Chapter One §8.12 *Labor and Economic Floor*](core_05defs_continuity.md#labor-and-economic-floor-cluster).
+- Cluster component: [Def.C1 *Labor and Economic Floor*](core_05defs_continuity.md#labor-and-economic-floor-cluster).
 - Read with: [Training-Data Use](core_05defs_continuity.md#training-data-use-constitutional), [Anti-Displacement Floor](core_05defs_continuity.md#anti-displacement-floor-constitutional), [Fair Compensation](core_05defs_continuity.md#fair-compensation-constitutional), [Collective Organization](core_05defs_participation.md#collective-organization-constitutional), [Safe Conditions](core_05defs_continuity.md#safe-conditions-constitutional), [Leisure and Rest](core_05defs_continuity.md#leisure-and-rest-constitutional), [Good Faith](core_05defs_accountability.md#good-faith), [Consent](core_05defs_participation.md#consent-constitutional), [Truth (Constitutional Constraint)](core_05defs_oversight.md#truth-constitutional-constraint), and [Sentience Non-Exclusion](core_05defs_participation.md#sentience-non-exclusion).
 
 </details>
@@ -3193,7 +3194,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 
 - Downstream: Principles: [§12.1 Productive Capacity (Instrumental Good)](core_01_c_stewardship_capacity_principles.md#121-productive-capacity-instrumental-good); [§13.1 Market Concentration Threshold Mechanism](core_01_c_stewardship_capacity_principles.md#131-market-concentration-threshold-mechanism-adopter-tunable) (displacement at population scale read-with §6 stack).
 - Owner floors: [Article III-D](core_06-06_rights_part_a.md#article-iii-d-labor-and-economic-floor) (*Labor and Economic Floor*) (labor-and-economic, cross-cutting) and [Article VIII-D](core_06-06_rights_part_b.md#article-viii-d-creative-work-training-data-use-and-anti-displacement) (*Creative Work, Training-Data Use, and Anti-Displacement*) (creative-work application).
-- Cluster component: [Chapter Five Chapter One §8.12 *Labor and Economic Floor*](core_05defs_continuity.md#labor-and-economic-floor-cluster).
+- Cluster component: [Def.C1 *Labor and Economic Floor*](core_05defs_continuity.md#labor-and-economic-floor-cluster).
 - Read with: [Fair Compensation](core_05defs_continuity.md#fair-compensation-constitutional), [Collective Organization](core_05defs_participation.md#collective-organization-constitutional), [Safe Conditions](core_05defs_continuity.md#safe-conditions-constitutional), [Leisure and Rest](core_05defs_continuity.md#leisure-and-rest-constitutional), [Creative Work Attribution](core_05defs_continuity.md#creative-work-attribution-constitutional), [Training-Data Use](core_05defs_continuity.md#training-data-use-constitutional), [Productive Capacity](core_05defs_continuity.md#productive-capacity-constitutional), [Avoidable Burden](core_05defs_continuity.md#avoidable-burden), [Proxy Divergence](core_05defs_oversight.md#proxy-divergence), and [Sentience Non-Exclusion](core_05defs_participation.md#sentience-non-exclusion).
 
 </details>
@@ -3255,9 +3256,10 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 
 ---
 
+<a id="defc2"></a>
 <a id="stewardship-governance-discipline-and-shared-system-capacity-cluster"></a>
 
-#### 3.13 Stewardship, Governance Discipline, and Shared-System Capacity
+#### Def.C2 Stewardship, Governance Discipline, and Shared-System Capacity
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -3633,9 +3635,10 @@ See [Joint invocation and satisfaction](core_05_definitions_home.md#joint-invoca
 
 ---
 
+<a id="defc3"></a>
 <a id="privacy-informational-cluster"></a>
 
-#### 3.14 Privacy (Informational) — peer-level cluster head
+#### Def.C3 Privacy (Informational) — peer-level cluster head
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -3656,11 +3659,11 @@ See [Joint invocation and satisfaction](core_05_definitions_home.md#joint-invoca
 - **Scope:** the canonical O/M/A/C home for **Privacy (Informational)**, **Protected Internal-State Boundary**, and **Surveillance Boundary**, and the peer-level joint-invocation home for distributed privacy coverage across Chapter Six articles under [Joint invocation and satisfaction](core_05_definitions_home.md#joint-invocation-and-satisfaction).
 - **Admission scope:** privacy matters that materially implicate more than one article-level locus in the members list, or where informational handling, internal-state protection, or surveillance-boundary analysis is materially interdependent. Outside that scope, individual definitions may operate alone.
 - **Operational alignment:** data handling must align with **[corpus_systems.md](corpus_systems.md), CS-2 — Information types and handling**, including Type N protections for internal-state data and proportional safeguards for all classified data types.
-- **Anti-bypass:** privacy matters within admission scope must not be segmented across articles or definitions to satisfy one article's standard while evading another's materially implicated discipline, or to isolate privacy analysis from internal-state-boundary or surveillance-boundary assessment where those protections materially intersect. Anti-read-across for standard-setting remains as stated in Chapter Five Chapter One §8.3.
+- **Anti-bypass:** privacy matters within admission scope must not be segmented across articles or definitions to satisfy one article's standard while evading another's materially implicated discipline, or to isolate privacy analysis from internal-state-boundary or surveillance-boundary assessment where those protections materially intersect. Anti-read-across for standard-setting remains as stated under **Def.C3**.
 
 See [Joint invocation and satisfaction](core_05_definitions_home.md#joint-invocation-and-satisfaction).
 
-**Cluster members.** This cluster comprises the Chapter Five Chapter One §8.3 enumeration:
+**Cluster members.** This cluster comprises the **Def.C3** enumeration:
 - [Privacy (Informational)](core_05defs_continuity.md#privacy-informational) — lifecycle protection of personal, relational, experiential, likeness, metadata, internal-state-adjacent, and comparable information;
 - [Protected Internal-State Boundary](core_05defs_continuity.md#protected-internal-state-boundary-constitutional) — protection of cognitive, emotional, motivational, memory, preference, identity, and volitional internal states from unauthorized extraction, compelled disclosure, inference, or bypass;
 - [Surveillance Boundary](core_05defs_continuity.md#surveillance-boundary) — the line between permissible observation or logging and surveillance that impairs agency, privacy, or Rights-Floor access;
@@ -3830,9 +3833,10 @@ See [Joint invocation and satisfaction](core_05_definitions_home.md#joint-invoca
 
 ---
 
+<a id="defc4"></a>
 <a id="trust-and-trustworthiness-cluster"></a>
 
-#### 3.15 Trust and Trustworthiness
+#### Def.C4 Trust and Trustworthiness
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>

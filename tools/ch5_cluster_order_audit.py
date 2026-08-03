@@ -88,7 +88,7 @@ TOPIC_GROUP_HEADINGS: set[str] = set(EXPECTED_TOPIC_GROUPS) | {
 
 
 EXPECTED_CLUSTERS: dict[str, list[str]] = {
-    "#### 3.5 Animal Life, Sentient Life, and Sentience Status": [
+    "#### Def.P1 Animal Life, Sentient Life, and Sentience Status": [
         "Sentient",
         "Sentience Non-Exclusion",
         "Animal Life",
@@ -97,26 +97,24 @@ EXPECTED_CLUSTERS: dict[str, list[str]] = {
         "Sentience Evaluation",
         "Article V-E",
     ],
-    "#### 3.6 Binding Stakeholder Choice": [
+    "#### Def.P2 Binding Stakeholder Choice": [
         "Binding Stakeholder Choice — Decision-Resolution Requirements",
         "Stakeholder Representation and Participation-Weight Limits (Binding Stakeholder Choice)",
         "Stakeholder Rights-Collision Record (Binding Stakeholder Choice)",
         "Chapter Twelve §3.3",
     ],
-    "#### 3.8 Collective Harm Boundary, Harm, and Harassment and Bullying": [
+    "#### Def.A1 Collective Harm Boundary, Harm, and Harassment and Bullying": [
         "Harm",
         "Collective Harm Boundary",
         "Psychological Harm",
         "Irreversible Harm",
         "Harassment and Bullying",
     ],
-    "#### 3.16 Corpus, Authority Stack, Supremacy, and Enforceability": [
+    "#### Def.I1 Corpus and Authority Stack": [
         "Corpus",
         "Authority Stack and Internal Hierarchy",
-        "Supremacy and Enforceability",
-        "Constitutional Constraint Violation",
     ],
-    "#### 3.12 Labor and Economic Floor: Compensation, Organization, Safe Conditions, Leisure, and Creative Work": [
+    "#### Def.C1 Labor and Economic Floor: Compensation, Organization, Safe Conditions, Leisure, and Creative Work": [
         "Fair Compensation",
         "Safe Conditions",
         "Leisure and Rest",
@@ -125,7 +123,7 @@ EXPECTED_CLUSTERS: dict[str, list[str]] = {
         "Training-Data Use",
         "Anti-Displacement Floor",
     ],
-    "#### 3.9 Forum Families and Dispute Routing": [
+    "#### Def.A2 Forum Families and Dispute Routing": [
         "Forum Family, Sentient",
         "Forum Family, Technical",
         "Forum Family, Institutional",
@@ -135,7 +133,7 @@ EXPECTED_CLUSTERS: dict[str, list[str]] = {
         "Primary-Stakes Routing",
         "Forum Case Record",
     ],
-    "#### 3.7 Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity": [
+    "#### Def.P3 Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity": [
         "Self-Determination",
         "Meaningful Agency",
         "Expression",
@@ -143,7 +141,7 @@ EXPECTED_CLUSTERS: dict[str, list[str]] = {
         "Volitional Integrity",
         "Freedom (Bounded Agency)",
     ],
-    "#### 3.10 Standing State, Contribution, and Violation": [
+    "#### Def.A3 Standing State, Contribution, and Violation": [
         "Participant Standing",
         "Verified Inputs for Standing",
         "Contribution Nature",
@@ -159,7 +157,7 @@ EXPECTED_CLUSTERS: dict[str, list[str]] = {
         "Single Catastrophic Incident",
         "Sustained High-Gravity Pattern",
     ],
-    "#### 3.13 Stewardship, Governance Discipline, and Shared-System Capacity": [
+    "#### Def.C2 Stewardship, Governance Discipline, and Shared-System Capacity": [
         "Stewardship",
         "Distributed Understanding",
         "Strategic Stewardship Obligation",
@@ -167,8 +165,9 @@ EXPECTED_CLUSTERS: dict[str, list[str]] = {
         "Stewardship Defect",
         "Review and Correction Duty",
     ],
-    "#### 3.2 Transparency, Auditability, and Verification": [
+    "#### Def.O1 Transparency, Auditability, and Verification": [
         "Transparency",
+        "Public Oversight Baseline Disclosure",
         "Auditability",
         "Evidence Preservation",
         "Audit Scope Sufficiency",
@@ -181,18 +180,18 @@ EXPECTED_CLUSTERS: dict[str, list[str]] = {
         "Verification Proportionality",
         "Verification Robustness",
     ],
-    "#### 3.15 Trust and Trustworthiness": [
+    "#### Def.C4 Trust and Trustworthiness": [
         "Trust",
         "Trustworthiness",
         "Trust Degradation and Misleading Reliance",
     ],
-    "#### 3.3 Truth and Epistemic Integrity": [
+    "#### Def.O2 Truth and Epistemic Integrity": [
         "Truth (Constitutional Constraint)",
         "Epistemic Integrity",
         "Foreseeability Diligence and Reasonably Foreseeable",
         "Publication and High-Impact Communication",
     ],
-    "#### 3.11 Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm": [
+    "#### Def.A4 Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm": [
         "Use of Force",
         "Autonomous Lethal System",
         "Weapons of Mass Harm",
@@ -218,7 +217,7 @@ def collect_topic_group_entries(lines: list[str], heading: str, group_headings: 
         stripped = lines[i].strip()
         if stripped in group_headings:
             break
-        if re.match(r"^#### 3\.\d+", stripped):
+        if re.match(r"^#### Def\.[OPACI]\d+", stripped):
             break
         m = H4_RE.match(stripped)
         if m:

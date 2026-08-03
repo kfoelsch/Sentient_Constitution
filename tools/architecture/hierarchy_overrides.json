@@ -1,76 +1,76 @@
 {
   "clusters": {
-    "3.2 Transparency, Auditability, and Verification": {
+    "Def.O1 Transparency, Auditability, and Verification": {
       "primary_aim": "Flourishing",
       "tetrad_leg": "Oversight",
       "ch00_measurement": ["3.5 Oversight"]
     },
-    "3.3 Truth and Epistemic Integrity": {
+    "Def.O2 Truth and Epistemic Integrity": {
       "primary_aim": "Flourishing",
       "tetrad_leg": "Oversight",
       "ch00_measurement": ["3.5 Oversight"]
     },
-    "3.5 Animal Life, Sentient Life, and Sentience Status": {
+    "Def.P1 Animal Life, Sentient Life, and Sentience Status": {
       "primary_aim": "Flourishing",
       "tetrad_leg": "Participation",
       "ch00_measurement": ["3.4 Participation"]
     },
-    "3.6 Binding Stakeholder Choice": {
+    "Def.P2 Binding Stakeholder Choice": {
       "primary_aim": "Flourishing",
       "tetrad_leg": "Participation",
       "ch00_measurement": ["3.4 Participation"]
     },
-    "3.7 Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity": {
+    "Def.P3 Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity": {
       "primary_aim": "Flourishing",
       "tetrad_leg": "Participation",
       "ch00_measurement": ["3.4 Participation"]
     },
-    "3.8 Collective Harm Boundary, Harm, and Harassment and Bullying": {
+    "Def.A1 Collective Harm Boundary, Harm, and Harassment and Bullying": {
       "primary_aim": "Flourishing",
       "tetrad_leg": "Accountability",
       "ch00_measurement": ["3.2 Flourishing", "3.6 Accountability"]
     },
-    "3.9 Forum Families and Dispute Routing": {
+    "Def.A2 Forum Families and Dispute Routing": {
       "primary_aim": "Flourishing",
       "tetrad_leg": "Accountability",
       "ch00_measurement": ["3.6 Accountability", "3.7 Timeliness"]
     },
-    "Chapter One §8.10 Standing State, Contribution, and Violation": {
+    "Def.A3 Standing State, Contribution, and Violation": {
       "primary_aim": "Flourishing",
       "tetrad_leg": "Accountability",
       "ch00_measurement": ["3.6 Accountability"]
     },
-    "3.11 Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm": {
+    "Def.A4 Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm": {
       "primary_aim": "Continuity",
       "tetrad_leg": "Accountability",
       "ch00_measurement": ["3.2 Flourishing", "3.3 Continuity"]
     },
-    "3.12 Labor and Economic Floor: Compensation, Organization, Safe Conditions, Leisure, and Creative Work": {
+    "Def.C1 Labor and Economic Floor: Compensation, Organization, Safe Conditions, Leisure, and Creative Work": {
       "primary_aim": "Continuity",
       "tetrad_leg": "Continuity",
       "ch00_measurement": ["3.2 Flourishing", "3.3 Continuity"]
     },
-    "3.13 Stewardship, Governance Discipline, and Shared-System Capacity": {
+    "Def.C2 Stewardship, Governance Discipline, and Shared-System Capacity": {
       "primary_aim": "Continuity",
       "tetrad_leg": "Continuity",
       "ch00_measurement": ["3.3 Continuity", "3.8 Constitutional performance"]
     },
-    "3.14 Privacy (Informational) — peer-level cluster head": {
+    "Def.C3 Privacy (Informational) — peer-level cluster head": {
       "primary_aim": "Flourishing",
       "tetrad_leg": "Continuity",
       "ch00_measurement": ["3.4 Participation"]
     },
-    "3.15 Trust and Trustworthiness": {
+    "Def.C4 Trust and Trustworthiness": {
       "primary_aim": "Flourishing",
       "tetrad_leg": "Continuity",
       "ch00_measurement": ["3.5 Oversight"]
     },
-    "3.16 Corpus and Authority Stack": {
+    "Def.I1 Corpus and Authority Stack": {
       "primary_aim": "Flourishing",
       "tetrad_leg": "Integrative",
       "ch00_measurement": ["3.5 Oversight", "3.6 Accountability"]
     },
-    "3.32 Resilience, Safety, Reversibility, Self-Healing, Cascading Failure, Existential Risk, Environmental Preconditions, and Wellbeing": {
+    "Resilience, Safety, Reversibility, Self-Healing, Cascading Failure, Existential Risk, Environmental Preconditions, and Wellbeing": {
       "primary_aim": "cross-cutting",
       "tetrad_leg": "Continuity",
       "ch00_measurement": ["3.2 Flourishing", "3.3 Continuity"]

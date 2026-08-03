@@ -70,7 +70,7 @@ def category_for(file_name: str) -> str:
 
 
 def is_cluster_heading(label: str) -> bool:
-    return bool(re.match(r"3\.\d+(?:\.\d+)?\s", label))
+    return bool(re.match(r"Def\.[OPACI]\d+\s", label))
 
 
 def collect_entries(root: Path) -> list[RegistryEntry]:

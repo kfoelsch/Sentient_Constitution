@@ -183,7 +183,7 @@ Chapter Fourteen is the constitutional owner of **additive expansion of protecti
 - Upstream: [Chapter Thirteen](core_13-15_amendment.md#chapter-thirteen-non-regression-and-substantive-amendment-validity) non-regression and Test 1; [Authority Stack and Internal Hierarchy](core_05defs_integrative.md#authority-stack), [Authority Stack and Internal Hierarchy](core_05defs_integrative.md#authority-stack), and related [Corpus](core_05defs_integrative.md#corpus) boundary concepts.
 - Subsections: [§1](#1-additive-expansion-permitted)–[§3](#2-continuity-of-supremacy-and-challenge-rights-during-amendment); [§11](#3-supremacy-relative-to-other-binding-norms)–[§2](#4-disputes-involving-external-legal-orders).
 - Downstream: [Chapter Fifteen](core_13-15_amendment.md#chapter-fifteen-amendment-ratification-and-procedural-validity) adoption and supremacy continuity during amendment; [Article XXIII-A](core_06-06_rights_part_d.md) (*Justice Objective and Scope*) review pathways preserved against external process gaps; [Chapter Ten, section 5.2 — *Rights-Floor waivers and unconstitutional contract terms*](core_10_b_misconduct_pattern_applications.md#52-rights-floor-waivers-and-unconstitutional-contract-terms) where external-order interfaces implicate waiver or pseudo-contract devices.
-- Read with: **[corpus_systems.md](corpus_systems.md)** and **Protocol C** references in operative text on cross-jurisdiction execution; [Chapter Nine §8 — *Enforcement realism*](core_09-09_standing_integration.md#9-enforcement-realism) where cited in §3.3; [Corpus and Authority Stack](core_05defs_accountability.md#corpus-authority-stack-supremacy-and-enforceability-cluster) (*Chapter Five Chapter One §8.16 cluster — read with [Corpus](core_05defs_integrative.md#corpus) for custody and adoption*).
+- Read with: **[corpus_systems.md](corpus_systems.md)** and **Protocol C** references in operative text on cross-jurisdiction execution; [Chapter Nine §8 — *Enforcement realism*](core_09-09_standing_integration.md#9-enforcement-realism) where cited in §3.3; [Corpus and Authority Stack](core_05defs_integrative.md#corpus-authority-stack-supremacy-and-enforceability-cluster) (**Def.I1** cluster — read with [Corpus](core_05defs_integrative.md#corpus) for custody and adoption).
 
 </details>
 
@@ -367,7 +367,7 @@ Chapter Fifteen is the constitutional owner of **procedural and custody validity
 
 - Upstream: [Chapter Thirteen](core_13-15_amendment.md#chapter-thirteen-non-regression-and-substantive-amendment-validity) Test 1 and non-regression; [Chapter Fourteen](core_13-15_amendment.md#chapter-fourteen-expansion-supremacy-and-external-legal-orders) supremacy and external-order interface; [Chapter Twelve](core_12-12_governance.md#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship) legitimacy context for collective change.
 - Subsections: [§§ 1–12](#1-heightened-review-for-rights-affecting-changes) procedural and custody validity suite (Tests 2–4, ratification, procedure requirements, and layer scope).
-- Downstream: Adoption instruments and edition custody tie to [Chapter Five *Corpus*](core_05defs_integrative.md#corpus), [Corpus and Authority Stack](core_05defs_accountability.md#corpus-authority-stack-supremacy-and-enforceability-cluster) (*Chapter Five Chapter One §8.16 cluster*), and [doc_architecture.md](doc_architecture.md); invalidity remediation interfaces with owner implementation layers.
+- Downstream: Adoption instruments and edition custody tie to [Chapter Five *Corpus*](core_05defs_integrative.md#corpus), [Corpus and Authority Stack](core_05defs_integrative.md#corpus-authority-stack-supremacy-and-enforceability-cluster) (**Def.I1** cluster), and [doc_architecture.md](doc_architecture.md); invalidity remediation interfaces with owner implementation layers.
 - Read with: [Chapters Two through Four](core_02-03_definition_mechanics.md) publication, burden, and traceability requirements invoked in Tests 2 and 11.
 
 </details>
@@ -448,7 +448,7 @@ A proposed amendment is invalid unless required publication elements are satisfi
 
 - Upstream: [§2](#4-test-2-procedural-validity-and-publication-integrity) Test 2 publication integrity.
 - Downstream: [§16](#10-ratification-and-adoption) instruments and custody expectations; [Chapter Five *Corpus*](core_05defs_integrative.md#corpus) consistency requirements.
-- Read with: [Chapter Five *Corpus*](core_05defs_integrative.md#corpus) and [README.md](README.md) (edition identifiers); [Corpus and Authority Stack](core_05defs_accountability.md#corpus-authority-stack-supremacy-and-enforceability-cluster) (*Chapter Five Chapter One §8.16 cluster*).
+- Read with: [Chapter Five *Corpus*](core_05defs_integrative.md#corpus) and [README.md](README.md) (edition identifiers); [Corpus and Authority Stack](core_05defs_integrative.md#corpus-authority-stack-supremacy-and-enforceability-cluster) (**Def.I1** cluster).
 
 </details>
 

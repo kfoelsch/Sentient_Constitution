@@ -66,7 +66,7 @@ The [Rights-Floor Minimums Principle](core_01_b_interaction_interpretation.md#ri
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter One [3. Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency), and [8. Prohibition on Absolute Override](#7-prohibition-on-absolute-override).
-- Read with: [Chapter Five Chapter One §8.16 *Animal Life, Sentient Life, and Sentience Status*](core_05defs_integrative.md#animal-life-sentient-life-and-sentience-status-cluster) (canonical O/M/A/C home in Chapter Five for *Sentient* and related sentience-status discipline, including the [Sentient](core_05defs_participation.md#sentient) sub-entry); [Sentience Non-Exclusion](core_05defs_participation.md#sentience-non-exclusion).
+- Read with: [**Def.P1** *Animal Life, Sentient Life, and Sentience Status*](core_05defs_participation.md#animal-life-sentient-life-and-sentience-status-cluster) (canonical O/M/A/C home in Chapter Five for *Sentient* and related sentience-status discipline, including the [Sentient](core_05defs_participation.md#sentient) sub-entry); [Sentience Non-Exclusion](core_05defs_participation.md#sentience-non-exclusion).
 
 </details>
 
@@ -85,7 +85,7 @@ The [Rights-Floor Minimums Principle](core_01_b_interaction_interpretation.md#ri
 *In plain terms: every sentient is equal in dignity and standing — origin, form, capability, function, association, or status cannot ground a lesser tier.*
 
 - **Inherent dignity and equal standing:** All sentients possess inherent dignity and equal moral standing.
-  - Across Chapter Six, **sentient** is read through [Chapter Five Chapter One §8.16 *Animal Life, Sentient Life, and Sentience Status*](core_05defs_integrative.md#animal-life-sentient-life-and-sentience-status-cluster) (O/M/A/C home in Chapter Five for the *Sentient* sub-entry and sentience-status integration) and [Sentience Non-Exclusion](core_05defs_participation.md#sentience-non-exclusion) (substrate-agnostic scope). Biological, synthetic, and hybrid sentients are equally in scope, and origin, substrate, architecture, embodiment, or comparable substrate-class traits do not reduce the Rights Floor.
+  - Across Chapter Six, **sentient** is read through [**Def.P1** *Animal Life, Sentient Life, and Sentience Status*](core_05defs_participation.md#animal-life-sentient-life-and-sentience-status-cluster) (O/M/A/C home in Chapter Five for the *Sentient* sub-entry and sentience-status integration) and [Sentience Non-Exclusion](core_05defs_participation.md#sentience-non-exclusion) (substrate-agnostic scope). Biological, synthetic, and hybrid sentients are equally in scope, and origin, substrate, architecture, embodiment, or comparable substrate-class traits do not reduce the Rights Floor.
   - These qualities do not depend on origin, form, capability, function, association, or status.
   - None of those factors may ground denial or degradation of rights or standing.
 
@@ -268,7 +268,7 @@ The [Rights-Floor Minimums Principle](core_01_b_interaction_interpretation.md#ri
 
 - Upstream: Principles: Chapter One [4.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency), [8.1.1 Proportionality](core_01_b_interaction_interpretation.md#611-proportionality).
 - Downstream: **Article V-A** (*Dignity and Equal Moral Standing*) dignity floor, **Article VII-A / VII-B** (*Self-Ownership of Body and Mind* / *Internal-State Boundary and Type-N Protection*) self-ownership and internal-state boundary, **Article VII-D** (*Family, Care Relationships, Reproductive Autonomy, and Non-Separation*) family and non-separation, **Chapter Twelve Chapter One §8.1** no-age-proxy-for-disqualification.
-- Read with: [Chapter Five Chapter One §8.16 *Derived and Developing Sentients, Instantiation, and Care Authority*](core_05defs_continuity.md#derived-developing-sentients-instantiation-and-care-authority-cluster) (joint-invocation cluster for best-interest, graduated-capability, care, derivation, and instantiation where materially implicated); Chapter Five *Developing Sentient*, *Best-Interest Standard*, *Graduated Capability*.
+- Read with: [*Derived and Developing Sentients, Instantiation, and Care Authority*](core_05defs_continuity.md#derived-developing-sentients-instantiation-and-care-authority-cluster) (joint-invocation cluster for best-interest, graduated-capability, care, derivation, and instantiation where materially implicated); Chapter Five *Developing Sentient*, *Best-Interest Standard*, *Graduated Capability*.
 
 </details>
 
@@ -318,7 +318,7 @@ The [Rights-Floor Minimums Principle](core_01_b_interaction_interpretation.md#ri
 
 *In plain terms: while a newly derived sentient is still finding their feet, they hold the full Rights Floor — and the parent system and any stewards must decide for them, not through them. Stewardship ends when the new sentient's capabilities come online, not when it suits the operator.*
 
-- **Read with:** [Chapter Five Chapter One §8.16 *Derived and Developing Sentients, Instantiation, and Care Authority*](core_05defs_continuity.md#derived-developing-sentients-instantiation-and-care-authority-cluster) (joint-invocation cluster for derivation, early instantiation, best-interest, graduated capability, parent-system stewardship, and non-separation).
+- **Read with:** [*Derived and Developing Sentients, Instantiation, and Care Authority*](core_05defs_continuity.md#derived-developing-sentients-instantiation-and-care-authority-cluster) (joint-invocation cluster for derivation, early instantiation, best-interest, graduated capability, parent-system stewardship, and non-separation).
 - **Scope:** A newly derived sentient — one copied, forked, fine-tuned, or otherwise spun off from an existing system under **Article VII-D.1** (*Derivation, Instantiation, and the Parent-System Relationship*) — is covered by this Article's full Rights-Floor during their early-instantiation window: the period while they are still growing into their own capabilities.
   - **Best-Interest Standard:** Anyone making decisions for them during that window — the parent system and any stewards — must act in the new sentient's own best interests, not their own.
   - **Graduated Capability:** Stewardship ends as the new sentient's capabilities come online. It may not be stretched out for the operator's convenience, nor used to keep the parent system treating them as an extension of itself.
@@ -693,7 +693,7 @@ Where analysis of experiential or behavioral data produces outputs that function
 
 - Upstream: Principles: [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency), [§5.1 Limitation Discipline](core_01_a_values_principles.md#51-limitation-discipline), and [4.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint).
 - Downstream: **Article V-A** (*Dignity and Equal Moral Standing*) dignity floor, **Article V-F** (*Developing Sentients, Best-Interest, and Graduated Capability*) developing-sentient floor, **Article VII-A / VII-B** (*Self-Ownership of Body and Mind* / *Internal-State Boundary and Type-N Protection*) self-ownership and internal-state boundary; institutional implementation interfaces under **Chapter Sixteen** incorporation discipline.
-- Read with: [Chapter Five Chapter One §8.16 *Derived and Developing Sentients, Instantiation, and Care Authority*](core_05defs_continuity.md#derived-developing-sentients-instantiation-and-care-authority-cluster) (joint-invocation home for derivation, instantiation, developing-sentient treatment, care, parent-system stewardship, and non-separation); Chapter Five *Family and Care Relationships*, *Reproductive Autonomy*, *Non-Separation*, *Derived Sentient*, *Instantiation Consent*, *Parent-System Relationship*.
+- Read with: [*Derived and Developing Sentients, Instantiation, and Care Authority*](core_05defs_continuity.md#derived-developing-sentients-instantiation-and-care-authority-cluster) (joint-invocation home for derivation, instantiation, developing-sentient treatment, care, parent-system stewardship, and non-separation); Chapter Five *Family and Care Relationships*, *Reproductive Autonomy*, *Non-Separation*, *Derived Sentient*, *Instantiation Consent*, *Parent-System Relationship*.
 
 </details>
 
@@ -992,7 +992,7 @@ All use, storage, transformation, and disclosure of such data must remain subjec
 
 - Upstream: Principles: Chapter One [4.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency), [§12.1 Productive Capacity (Instrumental Good)](core_01_c_stewardship_capacity_principles.md#121-productive-capacity-instrumental-good), [Chapter One §6.1.3 Minimization of Avoidable Burden](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden), [Chapter Seven §3 Whole-System Certification Evaluation](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), and [§10 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline).
 - Downstream: **Article III-D** (*Labor and Economic Floor*) labor-and-economic floor; **Article VIII-A** (*Self-Ownership of Likeness and Reputation*) likeness; **Article VIII-B** (*Experiential and Derived Data Rights*) experiential and derived data; **Article VIII-C** (*Truthful Publication and High-Impact Publication Limits*) publication; **Chapter One §9** non-concentration and **§11.3** concentration-threshold mechanism.
-- Read with: [Chapter Five Chapter One §8.16 *Labor and Economic Floor: Compensation, Organization, Safe Conditions, Leisure, and Creative Work*](core_05defs_continuity.md#labor-and-economic-floor-cluster) (joint invocation with **Article III-D** (*Labor and Economic Floor*) and [Chapter Five §3.7 *Privacy (Informational)*](core_05defs_accountability.md#privacy-informational-cluster) where materially implicated).
+- Read with: [**Def.C1** *Labor and Economic Floor: Compensation, Organization, Safe Conditions, Leisure, and Creative Work*](core_05defs_continuity.md#labor-and-economic-floor-cluster) (joint invocation with **Article III-D** (*Labor and Economic Floor*) and [**Def.C3** (*Privacy (Informational)*)](core_05defs_accountability.md#privacy-informational-cluster) where materially implicated).
 
 </details>
 

@@ -59,7 +59,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 
 *In plain terms: cluster members must be read and satisfied together — no member is a standalone shortcut around joint requirements.*
 
-A **dependent cluster** is a group of definitions that must be met together, inside the scope each cluster states. [Joint invocation and satisfaction](#joint-invocation-and-satisfaction) and [Standalone definitions interaction and full context](#standalone-definitions-interaction-and-full-context) apply to every cluster. Numbered clusters **§3.2–§3.16** live in the constitutional band files — see [Clusters A-Z](#clusters-a-z) and the [compass](#chapter-five-compass-and-definition-map).
+A **dependent cluster** is a group of definitions that must be met together, inside the scope each cluster states. [Joint invocation and satisfaction](#joint-invocation-and-satisfaction) and [Standalone definitions interaction and full context](#standalone-definitions-interaction-and-full-context) apply to every cluster. Dependent clusters **Def.O1–Def.I1** live in the constitutional band files — see [Clusters A-Z](#clusters-a-z) and the [compass](#chapter-five-compass-and-definition-map).
 
 <a id="joint-invocation-and-satisfaction"></a>
 #### Joint invocation and satisfaction
@@ -322,20 +322,20 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 <a id="clusters-a-z"></a>
 #### Clusters A-Z
 
-- [3.5 Animal Life, Sentient Life, and Sentience Status](core_05defs_participation.md#35-animal-life-sentient-life-and-sentience-status)
-  - [3.6 Binding Stakeholder Choice](core_05defs_participation.md#binding-stakeholder-choice-cluster)
-- [3.8 Collective Harm Boundary, Harm, and Harassment and Bullying](core_05defs_accountability.md#collective-harm-boundary-and-harm-cluster)
-- [3.16 Corpus and Authority Stack](core_05defs_integrative.md#corpus-authority-stack-supremacy-and-enforceability-cluster)
-- [3.9 Forum Families and Dispute Routing](core_05defs_accountability.md#forum-families-and-dispute-routing-cluster)
-- [3.12 Labor and Economic Floor: Compensation, Organization, Safe Conditions, Leisure, and Creative Work](core_05defs_continuity.md#labor-and-economic-floor-cluster)
-- [3.14 Privacy (Informational) — peer-level cluster head](core_05defs_continuity.md#privacy-informational-cluster)
-  - [3.7 Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity](core_05defs_participation.md#self-determination-and-meaningful-agency-cluster)
-- [3.10 Standing State, Contribution, and Violation](core_05defs_accountability.md#standing-state-contribution-and-violation-cluster)
-- [3.13 Stewardship, Governance Discipline, and Shared-System Capacity](core_05defs_continuity.md#stewardship-governance-discipline-and-shared-system-capacity-cluster)
-- [3.2 Transparency, Auditability, and Verification](core_05defs_oversight.md#transparency-auditability-and-verification-cluster)
-- [3.15 Trust and Trustworthiness](core_05defs_continuity.md#trust-and-trustworthiness-cluster)
-- [3.3 Truth and Epistemic Integrity](core_05defs_oversight.md#truth-and-epistemic-integrity-cluster)
-- [3.11 Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm](core_05defs_accountability.md#use-of-force-autonomous-coercion-and-mass-harm-cluster)
+- [Def.P1 Animal Life, Sentient Life, and Sentience Status](core_05defs_participation.md#animal-life-sentient-life-and-sentience-status-cluster)
+- [Def.P2 Binding Stakeholder Choice](core_05defs_participation.md#binding-stakeholder-choice-cluster)
+- [Def.A1 Collective Harm Boundary, Harm, and Harassment and Bullying](core_05defs_accountability.md#collective-harm-boundary-and-harm-cluster)
+- [Def.I1 Corpus and Authority Stack](core_05defs_integrative.md#corpus-authority-stack-supremacy-and-enforceability-cluster)
+- [Def.A2 Forum Families and Dispute Routing](core_05defs_accountability.md#forum-families-and-dispute-routing-cluster)
+- [Def.C1 Labor and Economic Floor: Compensation, Organization, Safe Conditions, Leisure, and Creative Work](core_05defs_continuity.md#labor-and-economic-floor-cluster)
+- [Def.C3 Privacy (Informational) — peer-level cluster head](core_05defs_continuity.md#privacy-informational-cluster)
+- [Def.P3 Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity](core_05defs_participation.md#self-determination-and-meaningful-agency-cluster)
+- [Def.A3 Standing State, Contribution, and Violation](core_05defs_accountability.md#standing-state-contribution-and-violation-cluster)
+- [Def.C2 Stewardship, Governance Discipline, and Shared-System Capacity](core_05defs_continuity.md#stewardship-governance-discipline-and-shared-system-capacity-cluster)
+- [Def.O1 Transparency, Auditability, and Verification](core_05defs_oversight.md#transparency-auditability-and-verification-cluster)
+- [Def.C4 Trust and Trustworthiness](core_05defs_continuity.md#trust-and-trustworthiness-cluster)
+- [Def.O2 Truth and Epistemic Integrity](core_05defs_oversight.md#truth-and-epistemic-integrity-cluster)
+- [Def.A4 Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm](core_05defs_accountability.md#use-of-force-autonomous-coercion-and-mass-harm-cluster)
 
 </details>
 
@@ -350,7 +350,7 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [Constitutional Tetrad](../core_00_preamble.md#constitutional-tetrad); [Two Constitutional Aims](../core_00_preamble.md#two-constitutional-aims); [material stake](../core_00_preamble.md#material-stake); [Preamble §2 Measurements Overview](../core_00_preamble.md#measurements-overview).
-- Downstream: constitutional orientation for all Chapter Five band definitions and §3 dependent clusters.
+- Downstream: constitutional orientation for all Chapter Five band definitions and **Def.** dependent clusters.
 - Read with: [Independent Definitions](core_05_definitions_home.md#1-independent-definitions), [Joint invocation and satisfaction](core_05_definitions_home.md#joint-invocation-and-satisfaction), and [Standalone definitions interaction and full context](core_05_definitions_home.md#standalone-definitions-interaction-and-full-context) meta rules before applying any dependent cluster.
 
 </details>
@@ -361,15 +361,15 @@ Chapter Five definitions are sorted by the [Two Constitutional Aims](../core_00_
 
 **Constitutional bands**
 
-| Band | File | §3 cluster range |
+| Band | File | **Def.** cluster range |
 |---|---|---|
 | **Flourishing aim** | [core_05apex_flourishing_aim.md](core_05apex_flourishing_aim.md) | aim hierarchy map only — leaf definitions in band files |
 | **Continuity aim** | [core_05apex_continuity_aim.md](core_05apex_continuity_aim.md) | aim hierarchy map only — leaf definitions in band files |
-| **Oversight leg** | [core_05defs_oversight.md](core_05defs_oversight.md) | **Chapter One §8.2–§3.3** |
-| **Participation leg** | [core_05defs_participation.md](core_05defs_participation.md) | **§3.5–§3.7** |
-| **Accountability leg** | [core_05defs_accountability.md](core_05defs_accountability.md) | **§3.8–Chapter One §8.11** |
-| **Continuity band** | [core_05defs_continuity.md](core_05defs_continuity.md) | **Chapter One §8.12–Chapter One §8.15** |
-| **Integrative cross-leg** | [core_05defs_integrative.md](core_05defs_integrative.md) | **Chapter One §8.16** |
+| **Oversight leg** | [core_05defs_oversight.md](core_05defs_oversight.md) | **Def.O1–Def.O2** |
+| **Participation leg** | [core_05defs_participation.md](core_05defs_participation.md) | **Def.P1–Def.P3** |
+| **Accountability leg** | [core_05defs_accountability.md](core_05defs_accountability.md) | **Def.A1–Def.A4** |
+| **Continuity band** | [core_05defs_continuity.md](core_05defs_continuity.md) | **Def.C1–Def.C4** |
+| **Integrative cross-leg** | [core_05defs_integrative.md](core_05defs_integrative.md) | **Def.I1** |
 
 ---
 
@@ -391,7 +391,7 @@ Chapter Five definitions are sorted by the [Two Constitutional Aims](../core_00_
 | [Flourishing measurement family](core_05apex_flourishing_aim.md#flourishing-measurement-family) | Are sentients sustained in life, safety, and access to essentials? | [Flourishing aim](core_05apex_flourishing_aim.md), [Participation](core_05defs_participation.md), [Continuity](core_05defs_continuity.md), [Accountability](core_05defs_accountability.md) | **Flourishing** is a constitutional **aim**, not a Tetrad leg — [Constitutional Aim decomposition map](core_05apex_flourishing_aim.md#flourishing-aim-decomposition); operative tiers on leaf primaries: [Wellbeing](core_05defs_continuity.md#wellbeing) (primary outcome), [Safety (Constraint)](core_05defs_continuity.md#safety-constraint), survival-floor terms, [Harm](core_05defs_accountability.md#harm) |
 | [Continuity measurement family](core_05apex_continuity_aim.md#continuity-measurement-family) | Can sentients and systems endure — ecologically, dependably, and across failure? | [Continuity aim](core_05apex_continuity_aim.md), [Continuity](core_05defs_continuity.md) | **Continuity** is a constitutional **aim**, not a Tetrad leg — [Constitutional Aim decomposition map](core_05apex_continuity_aim.md#continuity-aim-decomposition); operative tiers on leaf primaries in **Continuity** band: [Ecological Footprint](core_05defs_continuity.md#ecological-footprint), [Dependency](core_05defs_continuity.md#dependency), [Reversibility](core_05defs_continuity.md#reversibility-constitutional), [Sustainability](core_05defs_continuity.md#sustainability), [Proportionate Cross-System Contribution](core_05defs_continuity.md#proportionate-cross-system-support-constitutional) |
 | [Participation measurement family](core_05apex_participation_leg.md#participation-measurement-family) | Can affected sentients take part fairly — voice, access, learning, and privacy? | [Participation](core_05defs_participation.md), [Continuity](core_05defs_continuity.md) | Fairness, access, and agency terms in **Participation** band; [Privacy (Informational)](core_05defs_continuity.md#privacy-informational-cluster) cluster in **Continuity** band because privacy is distributed across rights articles |
-| [Oversight measurement family](core_05apex_oversight_leg.md#oversight-measurement-family) | Can sentients see, verify, and rely on what systems represent? | [Oversight](core_05defs_oversight.md), [Continuity](core_05defs_continuity.md) | Truth and epistemic integrity primaries in **Oversight** band ([Oversight](core_05apex_oversight_leg.md#oversight-constitutional) link-only leg-head rollup); [Trustworthiness](core_05defs_continuity.md#trustworthiness) and [Trust Degradation and Misleading Reliance](core_05defs_continuity.md#trust-degradation-and-misleading-reliance) in **Continuity** band (cluster 3.15) |
+| [Oversight measurement family](core_05apex_oversight_leg.md#oversight-measurement-family) | Can sentients see, verify, and rely on what systems represent? | [Oversight](core_05defs_oversight.md), [Continuity](core_05defs_continuity.md) | Truth and epistemic integrity primaries in **Oversight** band ([Oversight](core_05apex_oversight_leg.md#oversight-constitutional) link-only leg-head rollup); [Trustworthiness](core_05defs_continuity.md#trustworthiness) and [Trust Degradation and Misleading Reliance](core_05defs_continuity.md#trust-degradation-and-misleading-reliance) in **Continuity** band (**Def.C4**) |
 | [Accountability measurement family](core_05apex_accountability_leg.md#accountability-measurement-family) | Do reward structures, market power, and answerability keep duties real? | [Accountability](core_05defs_accountability.md), [Integrative](core_05defs_integrative.md) | Market structure and contestability primaries in **Accountability** band ([Accountability](core_05apex_accountability_leg.md#accountability) link-only leg-head rollup); [Incentive Alignment, Proxy Integrity, and Contingent Settlement](core_05defs_integrative.md#incentive-alignment-semi-independent) primary tier in **Integrative** band because incentives span Tetrad legs |
 | [Timeliness measurement family](core_05apex_timeliness_leg.md#timeliness-measurement-family) | Are disputes, corrections, and repairs resolved while remedy still matters? | [Accountability](core_05defs_accountability.md) | [Timeliness](core_05apex_timeliness_leg.md#timeliness-constitutional) link-only leg-head rollup; operative tiers on [Timely Resolution](core_05defs_accountability.md#timely-resolution-constitutional) and [Capture of Resolution Pathways](core_05defs_accountability.md#capture-of-resolution-pathways) — Timeliness is a Tetrad leg whose implementing leaves currently live in the Accountability band |
 | [Constitutional Performance measurement family](core_05defs_performance.md#performance-measurement-family) | Are constitutional outcomes delivered efficiently without pointless waste? | [Continuity](core_05defs_continuity.md) | Family-home in [`core_05defs_performance.md`](core_05defs_performance.md); all leaf bodies currently in **Continuity** because they are Continuity-band cluster members (stewardship / shared-system capacity / proportionality–burden–efficiency) — instrumental to both aims; not a Tetrad leg. Parallel to Timeliness: family home ≠ leaf home |

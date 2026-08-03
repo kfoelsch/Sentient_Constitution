@@ -46,11 +46,11 @@
 
 Leaf definitions under this leg inherit its scope unless they expressly narrow or widen it. Full topic map: [Chapter Five compass](core_05_definitions_home.md#chapter-five-compass-and-definition-map).
 
-**Dependent clusters** (§3.5–§3.7) — joint-invocation homes:
+**Dependent clusters** (**Def.P1–Def.P3**) — joint-invocation homes:
 
-- **Animal Life, Sentient Life, and Sentience Status** — [§3.5 *Animal Life, Sentient Life, and Sentience Status*](core_05defs_participation.md#animal-life-sentient-life-and-sentience-status-cluster)
-- **Binding Stakeholder Choice** — [§3.6 *Binding Stakeholder Choice*](core_05defs_participation.md#binding-stakeholder-choice-cluster)
-- **Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity** — [§3.7 *Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity*](core_05defs_participation.md#self-determination-and-meaningful-agency-cluster)
+- **Animal Life, Sentient Life, and Sentience Status** — [Def.P1 *Animal Life, Sentient Life, and Sentience Status*](core_05defs_participation.md#animal-life-sentient-life-and-sentience-status-cluster)
+- **Binding Stakeholder Choice** — [Def.P2 *Binding Stakeholder Choice*](core_05defs_participation.md#binding-stakeholder-choice-cluster)
+- **Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity** — [Def.P3 *Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity*](core_05defs_participation.md#self-determination-and-meaningful-agency-cluster)
 
 **Independent terms** live under [Participation: Independent terms](core_05defs_participation.md#participation-independent-terms).
 

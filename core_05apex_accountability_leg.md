@@ -47,12 +47,12 @@
 
 Leaf definitions under this leg inherit its scope unless they expressly narrow or widen it. Full topic map: [Chapter Five compass](core_05_definitions_home.md#chapter-five-compass-and-definition-map).
 
-**Dependent clusters** (Chapter One §3.8–§8.11) — joint-invocation homes:
+**Dependent clusters** (**Def.A1–Def.A4**) — joint-invocation homes:
 
-- **§3.8 Collective Harm Boundary, Harm, and Harassment and Bullying** — [§3.8 *Collective Harm Boundary, Harm, and Harassment and Bullying*](core_05defs_accountability.md#collective-harm-boundary-and-harm-cluster)
-- **§3.9 Forum Families and Dispute Routing** — [§3.9 *Forum Families and Dispute Routing*](core_05defs_accountability.md#forum-families-and-dispute-routing-cluster)
-- **Chapter One §8.10 Standing State, Contribution, and Violation** — [§8.10 *Standing State, Contribution, and Violation*](core_05defs_accountability.md#standing-state-contribution-and-violation-cluster)
-- **Chapter One §8.11 Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm** — [§8.11 *Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm*](core_05defs_accountability.md#use-of-force-autonomous-coercion-and-mass-harm-cluster)
+- **Def.A1 Collective Harm Boundary, Harm, and Harassment and Bullying** — [Def.A1 *Collective Harm Boundary, Harm, and Harassment and Bullying*](core_05defs_accountability.md#collective-harm-boundary-and-harm-cluster)
+- **Def.A2 Forum Families and Dispute Routing** — [Def.A2 *Forum Families and Dispute Routing*](core_05defs_accountability.md#forum-families-and-dispute-routing-cluster)
+- **Def.A3 Standing State, Contribution, and Violation** — [Def.A3 *Standing State, Contribution, and Violation*](core_05defs_accountability.md#standing-state-contribution-and-violation-cluster)
+- **Def.A4 Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm** — [Def.A4 *Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm*](core_05defs_accountability.md#use-of-force-autonomous-coercion-and-mass-harm-cluster)
 
 **Sibling Tetrad leg:** [Timeliness](core_05apex_timeliness_leg.md#timeliness-constitutional).
 

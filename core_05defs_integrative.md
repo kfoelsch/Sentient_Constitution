@@ -36,8 +36,7 @@ This band holds **Integrative** cross-leg definitions — terms that must be sat
 
 | Cluster | Section |
 |---|---|
-| **Chapter One §8.16** | Corpus and Authority Stack |
-| **Incentive Alignment (semi-independent)** | Incentive Alignment, Proxy Integrity, and Contingent Settlement |
+| **Def.I1** | Corpus and Authority Stack |
 
 ---
 
@@ -101,7 +100,7 @@ This band holds **Integrative** cross-leg definitions — terms that must be sat
 
 - Downstream: Principles: [Preamble §4 governance-layer discipline](core_00_preamble.md#governance-layer-discipline); [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency).
 - Owner floor: [Chapter Twelve: Constitutional Contract, Legitimacy, Authorization, and Stewardship](core_12-12_governance.md#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship); [Article IX-C: Governance Participation and Voting Entitlement](core_06-06_rights_part_b.md#article-ix-c-governance-participation-and-voting-entitlement).
-- Cluster component: [Chapter Five Chapter One §8.12 *Constitutional Contract Layer and Foundational Constitutional Choice*](core_05defs_integrative.md#constitutional-contract-layer)
+- Cluster component: [*Constitutional Contract Layer and Foundational Constitutional Choice*](core_05defs_integrative.md#constitutional-contract-layer)
 - Read with: [Foundational Constitutional Choice](core_05defs_integrative.md#foundational-constitutional-choice), [Binding Stakeholder Choice](core_05defs_participation.md#binding-stakeholder-choice-cluster), [Stakeholder Status, Emergency, and Participation Weight](core_05defs_participation.md#stakeholder-status-emergency-and-participation-weight-cluster), [Governance](core_05defs_accountability.md#governance).
 
 </details>
@@ -156,7 +155,7 @@ This band holds **Integrative** cross-leg definitions — terms that must be sat
 
 - Downstream: Principles: [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency); [6. Process Conflict Resolution](#6-process-conflict-resolution).
 - Owner floor: [Chapter Twelve Chapter One §8.1](core_12-12_governance.md#41-entitlement-and-eligibility) (*Political-equality floor for foundational constitutional choice*; *Durable political-voice floor*); [Article IX-C: Governance Participation and Voting Entitlement](core_06-06_rights_part_b.md#article-ix-c-governance-participation-and-voting-entitlement).
-- Cluster component: [Chapter Five Chapter One §8.12 *Constitutional Contract Layer and Foundational Constitutional Choice*](core_05defs_integrative.md#constitutional-contract-layer)
+- Cluster component: [*Constitutional Contract Layer and Foundational Constitutional Choice*](core_05defs_integrative.md#constitutional-contract-layer)
 - Read with: [Constitutional Contract Layer](core_05defs_integrative.md#constitutional-contract-layer), [Stakeholder Representation and Participation-Weight Limits (Binding Stakeholder Choice)](core_05defs_participation.md#stakeholder-representation-and-participation-weight-limits-binding-collective-choice), [Binding Stakeholder Choice](core_05defs_participation.md#binding-stakeholder-choice-cluster), [Procedural Fairness](core_05defs_participation.md#procedural-fairness-constitutional).
 
 </details>
@@ -320,7 +319,7 @@ This band holds **Integrative** cross-leg definitions — terms that must be sat
 - Misalignment detection: [Chapter One §11.3 Misalignment Detection](core_01_c_stewardship_capacity_principles.md#113-misalignment-detection).
 - Active correction and capture escalation: [Chapter One §11.4 Misalignment Correction and Capture Response](core_01_c_stewardship_capacity_principles.md#114-misalignment-correction-and-capture-response).
 - Cluster component: [Incentive Alignment, Proxy Integrity, and Contingent Settlement](core_05defs_integrative.md#incentive-alignment-semi-independent)
-- Read with: [Chapter Five Chapter One §8.20 *Governance Architecture, Oversight, Dependency, Decentralization, Concentration, Market Structure, and Exit-Path Integrity*](core_05defs_accountability.md#governance-architecture-oversight-decentralization-and-concentration-cluster) where dependency, concentration, governance-form incentives, or exit-quality analysis is materially implicated; [Chapter Five *Contingent Claim, Event-Contract Market, Game of Chance, and Insider Advantage*](core_05defs_accountability.md#contingent-claims-games-of-chance-and-event-contract-markets-semi-independent) where contingent structures are materially implicated; System Capture, Proxy Divergence, Truth (Constitutional Constraint), Epistemic Integrity, and Meaningful Agency.
+- Read with: [*Governance Architecture, Oversight, Dependency, Decentralization, Concentration, Market Structure, and Exit-Path Integrity*](core_05defs_accountability.md#governance-architecture-oversight-decentralization-and-concentration-cluster) where dependency, concentration, governance-form incentives, or exit-quality analysis is materially implicated; [Chapter Five *Contingent Claim, Event-Contract Market, Game of Chance, and Insider Advantage*](core_05defs_accountability.md#contingent-claims-games-of-chance-and-event-contract-markets-semi-independent) where contingent structures are materially implicated; System Capture, Proxy Divergence, Truth (Constitutional Constraint), Epistemic Integrity, and Meaningful Agency.
 
 </details>
 
@@ -483,9 +482,10 @@ This band holds **Integrative** cross-leg definitions — terms that must be sat
 
 ### Integrative: Dependent clusters
 
+<a id="defi1"></a>
 <a id="corpus-authority-stack-supremacy-and-enforceability-cluster"></a>
 
-#### 3.16 Corpus and Authority Stack
+#### Def.I1 Corpus and Authority Stack
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>

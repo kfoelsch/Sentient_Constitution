@@ -8,7 +8,7 @@ Operative constitutional text for the **Sentient Constitution** lives in the num
 |---|---|
 | **Corpus edition** | `SC-Corpus-2026.06.18` |
 | **Effective date** | 2026-06-18 |
-| **Status** | Substantive binding text through **Chapter Sixteen** is **stable for assurance review** under this edition. **SC-Corpus-2026.06.18** reorganizes Chapter Five into constitutional **band files** (Oversight, Participation, Accountability, Continuity, Integrative), renumbers §3 dependent clusters **§3.2–§3.16**, and adds the Chapter Five compass in Part A. |
+| **Status** | Substantive binding text through **Chapter Sixteen** is **stable for assurance review** under this edition. **SC-Corpus-2026.06.18** reorganizes Chapter Five into constitutional **band files** (Oversight, Participation, Accountability, Continuity, Integrative), assigns dependent clusters **Def.O1–Def.I1**, and adds the Chapter Five compass in Part A. |
 
 Custody and binding scope: [Chapter Five *Corpus*](core_05defs_integrative.md#corpus) and [Chapter Sixteen](core_16-16_incorporation.md). Bump the edition label only on a deliberate corpus publication cut.
 
@@ -43,11 +43,11 @@ The corpus is written in plain language with low jargon to improve accessibility
   - Oversight leg — canonical O/M/A/C home and hierarchy map — [`core_05apex_oversight_leg.md`](core_05apex_oversight_leg.md)
   - Participation leg — canonical O/M/A/C home and hierarchy map — [`core_05apex_participation_leg.md`](core_05apex_participation_leg.md)
   - Timeliness leg — canonical O/M/A/C home and hierarchy map — [`core_05apex_timeliness_leg.md`](core_05apex_timeliness_leg.md)
-  - Accountability band — §1/§2/§3 **§3.8–§3.11** — [`core_05defs_accountability.md`](core_05defs_accountability.md)
-  - Continuity band — §1/§2/§3 **§3.12–§3.15** — [`core_05defs_continuity.md`](core_05defs_continuity.md)
-  - Integrative band — §1/§2/§3 **§3.16** — [`core_05defs_integrative.md`](core_05defs_integrative.md)
-  - Oversight band — §1/§2/§3 **§3.2–§3.3** — [`core_05defs_oversight.md`](core_05defs_oversight.md)
-  - Participation band — §1/§2/§3 **§3.5–§3.7** — [`core_05defs_participation.md`](core_05defs_participation.md)
+  - Accountability band — Independent / Semi-independent / **Def.A1–Def.A4** — [`core_05defs_accountability.md`](core_05defs_accountability.md)
+  - Continuity band — Independent / Semi-independent / **Def.C1–Def.C4** — [`core_05defs_continuity.md`](core_05defs_continuity.md)
+  - Integrative band — Independent / Semi-independent / **Def.I1** — [`core_05defs_integrative.md`](core_05defs_integrative.md)
+  - Oversight band — Independent / Semi-independent / **Def.O1–Def.O2** — [`core_05defs_oversight.md`](core_05defs_oversight.md)
+  - Participation band — Independent / Semi-independent / **Def.P1–Def.P3** — [`core_05defs_participation.md`](core_05defs_participation.md)
   - Constitutional Performance band — Preamble measurement-family home (leaf definitions currently in the Continuity band) — [`core_05defs_performance.md`](core_05defs_performance.md)
 
 ### Standing pipeline and forums
@@ -89,7 +89,7 @@ Cross-topic entry points not spelled out in the headings above:
 
 - Burden of proof, traceability, verification → **Chapter Four** ([`core_04-04_burden_traceability_verification.md`](core_04-04_burden_traceability_verification.md))
 - Constitutional Tetrad, Two Constitutional Aims, material stake → **Preamble §1 The Model** ([`#constitutional-tetrad`](core_00_preamble.md#constitutional-tetrad), [`#two-constitutional-aims`](core_00_preamble.md#two-constitutional-aims), [`#material-stake`](core_00_preamble.md#material-stake)); Chapter One develops the aims into operative principles
-- Auditing / auditability / independent verification → **Article XV** (*Audit, Transparency, and Independent Verification*); Chapter Five [Auditability](core_05defs_oversight.md#auditability) and §3.2 cluster; implementation process home → **[CJS-5.3](corpus_joint_structure/cjs_05_audit_process.md#cjs-53-audit-process-home)** (what / why / how / when); machine-facing terms → **CJS-5.3**–**CJS-5.5** OP annexes in [cjs_05o_oversight_operations.md](corpus_joint_structure/cjs_05o_oversight_operations.md) (including **CJS-5.4** audit-process output disclosure preference: **Type O** where feasible, then qualified **Type G** / non-public source, then forensic or more-restricted tiers only as justified). Under the **oversight** Tetrad leg, oversight requires auditing; **Chapter Seven** system alignment certification is one especially large, high-stakes audit process among others — sibling modes include System Classification Record audit under **CS-3** §7.3 and System Data Types Record audit under **CS-2** §8.3 — not the sole auditing home
+- Auditing / auditability / independent verification → **Article XV** (*Audit, Transparency, and Independent Verification*); Chapter Five [Auditability](core_05defs_oversight.md#auditability) and **Def.O1** cluster; implementation process home → **[CJS-5.3](corpus_joint_structure/cjs_05_audit_process.md#cjs-53-audit-process-home)** (what / why / how / when); machine-facing terms → **CJS-5.3**–**CJS-5.5** OP annexes in [cjs_05o_oversight_operations.md](corpus_joint_structure/cjs_05o_oversight_operations.md) (including **CJS-5.4** audit-process output disclosure preference: **Type O** where feasible, then qualified **Type G** / non-public source, then forensic or more-restricted tiers only as justified). Under the **oversight** Tetrad leg, oversight requires auditing; **Chapter Seven** system alignment certification is one especially large, high-stakes audit process among others — sibling modes include System Classification Record audit under **CS-3** §7.3 and System Data Types Record audit under **CS-2** §8.3 — not the sole auditing home
 - System alignment certification records → **Chapter Seven**
 - Contribution / violation records and measurement (Contribution Axis and Violation Axis; Questions 1 and 2) → **Chapter Eight**
 - Standing integration and effects (Question 3; violation, correction, and prevention, lock design and enforcement, then contribution gates) → **Chapter Nine**

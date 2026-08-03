@@ -21,7 +21,7 @@
 - Upstream: [Chapter Five compass](core_05_definitions_home.md#chapter-five-compass-and-definition-map); [Constitutional Tetrad](../core_00_preamble.md#constitutional-tetrad) (oversight leg; [material stake](../core_00_preamble.md#material-stake) scaling); [Two Constitutional Aims](../core_00_preamble.md#two-constitutional-aims); primary aim [Flourishing](../core_00_preamble.md#flourishing).
 - Downstream: Principles: [§10 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline); [Tetrad Leg decomposition](#oversight-tetrad-leg-decomposition); Oversight-band leaf definitions in [core_05defs_oversight.md](core_05defs_oversight.md).
 - Cluster component: [Governance Architecture, Oversight, Dependency, Decentralization, Concentration, Market Structure, and Exit-Path Integrity](core_05defs_accountability.md#governance-architecture-oversight-decentralization-and-concentration-cluster).
-- Read with: [Chapter Five Chapter One §8.23 *Material Impact, Materiality Determination, Classification-Scaled Governance, Oversight, and Capability Requirement*](core_05defs_oversight.md#materiality-semi-independent), [Accountability](core_05apex_accountability_leg.md#accountability), [Contestability](core_05defs_accountability.md#contestability), [Transparency](core_05defs_oversight.md#transparency), [Auditability](core_05defs_oversight.md#auditability), [System Capture](core_05defs_continuity.md#system-capture), and Oversight measurement family.
+- Read with: [*Material Impact, Materiality Determination, Classification-Scaled Governance, Oversight, and Capability Requirement*](core_05defs_oversight.md#materiality-semi-independent), [Accountability](core_05apex_accountability_leg.md#accountability), [Contestability](core_05defs_accountability.md#contestability), [Transparency](core_05defs_oversight.md#transparency), [Auditability](core_05defs_oversight.md#auditability), [System Capture](core_05defs_continuity.md#system-capture), and Oversight measurement family.
 
 </details>
 
@@ -47,10 +47,10 @@
 
 Leaf definitions under this leg inherit its scope unless they expressly narrow or widen it. Full topic map: [Chapter Five compass](core_05_definitions_home.md#chapter-five-compass-and-definition-map).
 
-**Dependent clusters** (Chapter One §8.2–§3.3) — joint-invocation homes:
+**Dependent clusters** (**Def.O1–Def.O2**) — joint-invocation homes:
 
-- **Transparency, auditability, and verification** — [§3.2 *Transparency, Auditability, and Verification*](core_05defs_oversight.md#transparency-auditability-and-verification-cluster)
-- **Truth and epistemic integrity** — [§3.3 *Truth and Epistemic Integrity*](core_05defs_oversight.md#truth-and-epistemic-integrity-cluster)
+- **Transparency, auditability, and verification** — [Def.O1 *Transparency, Auditability, and Verification*](core_05defs_oversight.md#transparency-auditability-and-verification-cluster)
+- **Truth and epistemic integrity** — [Def.O2 *Truth and Epistemic Integrity*](core_05defs_oversight.md#truth-and-epistemic-integrity-cluster)
 
 **Semi-independent topic groups** (invoke per admission scope):
 

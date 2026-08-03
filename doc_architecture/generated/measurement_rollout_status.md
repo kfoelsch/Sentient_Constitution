@@ -2,7 +2,7 @@
 
 Auto-generated. Do not edit by hand.
 
-Generated: 2026-08-03T21:49:54+00:00
+Generated: 2026-08-03T22:54:30+00:00
 
 Grouped by Preamble measurement category. **Approved** terms must carry `*Measurements:*` and tier-aligned **E**/**C** per [doc_architecture.md](../doc_architecture.md) MEAS-DEF-01.
 Approved progress: **221/222** terms pass tier audit.

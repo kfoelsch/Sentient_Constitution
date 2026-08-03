@@ -15,19 +15,22 @@ TRACE_BLOCK_RE = re.compile(
     r"<details>\s*\n<summary><strong><span style=\"color: #2563eb;\">Trace</span></strong></summary>\s*\n(.*?)\n</details>",
     re.DOTALL,
 )
-CLUSTER_HEADING_RE = re.compile(r"^#### (3\.\d+) .+$", re.MULTILINE)
+CLUSTER_HEADING_RE = re.compile(r"^#### (Def\.[OPACI]\d+) .+$", re.MULTILINE)
 
 EXPECTED_CLUSTER_IDS = [
-    "3.2", "3.3", "3.5", "3.6", "3.7", "3.8", "3.9", "3.10",
-    "3.11", "3.12", "3.13", "3.14", "3.15", "3.16",
+    "Def.O1", "Def.O2",
+    "Def.P1", "Def.P2", "Def.P3",
+    "Def.A1", "Def.A2", "Def.A3", "Def.A4",
+    "Def.C1", "Def.C2", "Def.C3", "Def.C4",
+    "Def.I1",
 ]
 
 BAND_CLUSTER_RANGES = {
-    "core_05defs_oversight.md": {"3.2", "3.3"},
-    "core_05defs_participation.md": {"3.5", "3.6", "3.7"},
-    "core_05defs_accountability.md": {"3.8", "3.9", "3.10", "3.11"},
-    "core_05defs_continuity.md": {"3.12", "3.13", "3.14", "3.15"},
-    "core_05defs_integrative.md": {"3.16"},
+    "core_05defs_oversight.md": {"Def.O1", "Def.O2"},
+    "core_05defs_participation.md": {"Def.P1", "Def.P2", "Def.P3"},
+    "core_05defs_accountability.md": {"Def.A1", "Def.A2", "Def.A3", "Def.A4"},
+    "core_05defs_continuity.md": {"Def.C1", "Def.C2", "Def.C3", "Def.C4"},
+    "core_05defs_integrative.md": {"Def.I1"},
 }
 
 
@@ -74,18 +77,18 @@ def main() -> int:
             chunk = text[start : start + 4000]
             trace_m = TRACE_BLOCK_RE.search(chunk)
             if not trace_m:
-                failures.append(f"{band_file}: §{cid} missing Trace block")
+                failures.append(f"{band_file}: {cid} missing Trace block")
                 continue
             trace_body = trace_m.group(1)
             if "Constitutional frame:" not in trace_body:
-                failures.append(f"{band_file}: §{cid} Trace missing Constitutional frame")
+                failures.append(f"{band_file}: {cid} Trace missing Constitutional frame")
 
     missing = set(EXPECTED_CLUSTER_IDS) - found_clusters
     extra = found_clusters - set(EXPECTED_CLUSTER_IDS)
     if missing:
-        failures.append(f"Missing §3 clusters: {sorted(missing)}")
+        failures.append(f"Missing Def. clusters: {sorted(missing)}")
     if extra:
-        failures.append(f"Unexpected §3 clusters: {sorted(extra)}")
+        failures.append(f"Unexpected Def. clusters: {sorted(extra)}")
 
     if failures:
         print("FAIL: Chapter Five constitutional cluster audit:")

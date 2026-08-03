@@ -173,7 +173,7 @@ def collect_entries_and_clusters(root: Path) -> tuple[list[Entry], list[ClusterH
                 continue
 
             if depth == 4:
-                numbered = re.match(r"(3\.\d+(?:\.\d+)?)\s+(?:\w+: )?(.+)", label)
+                numbered = re.match(r"(Def\.[OPACI]\d+)\s+(.+)", label)
                 if numbered:
                     display = f"{numbered.group(1)} {numbered.group(2).strip()}"
                     clusters.append(
@@ -254,7 +254,7 @@ def parse_directory(root: Path) -> tuple[list[DirectoryRow], list[str]]:
 
 def normalized_sort_key(label: str, *, cluster: bool = False) -> str:
     if cluster:
-        label = re.sub(r"^3\.\d+\s+", "", label)
+        label = re.sub(r"^Def\.[OPACI]\d+\s+", "", label)
     return label.casefold()
 
 
@@ -302,7 +302,7 @@ def collect_cluster_members(root: Path) -> list[ClusterMember]:
         in_roster = False
         for idx, raw in enumerate(lines):
             stripped = raw.strip()
-            heading = re.match(r"^####\s+(3\.\d+(?:\.\d+)?\s+(?:\w+: )?.+)$", stripped)
+            heading = re.match(r"^####\s+(Def\.[OPACI]\d+\s+.+)$", stripped)
             if heading:
                 owner = heading.group(1)
                 in_roster = False

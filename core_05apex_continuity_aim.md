@@ -52,7 +52,7 @@ Definitions under this aim inherit its scope unless they expressly narrow or wid
 
 **Main building blocks** (named in [Preamble §1](../core_00_preamble.md#continuity) — long-horizon stability, sustainability, resilience, and ecological wellbeing) — where each term lives, and which cluster to read when several apply together:
 
-- **Stability and resilience** — [Stewardship](core_05defs_continuity.md#stewardship-constitutional), [Self-Healing](core_05defs_continuity.md#self-healing-constitutional); [§3.32 *Resilience, Safety, Reversibility, Self-Healing, Cascading Failure, Existential Risk, Environmental Preconditions, and Wellbeing*](core_05defs_continuity.md#resilience-safety-reversibility-self-healing-and-systemic-harm-cluster); [Chapter One §8.13 *Stewardship, Governance Discipline, and Shared-System Capacity*](core_05defs_continuity.md#stewardship-governance-discipline-and-shared-system-capacity-cluster)
+- **Stability and resilience** — [Stewardship](core_05defs_continuity.md#stewardship-constitutional), [Self-Healing](core_05defs_continuity.md#self-healing-constitutional); [*Resilience, Safety, Reversibility, Self-Healing, Cascading Failure, Existential Risk, Environmental Preconditions, and Wellbeing*](core_05defs_continuity.md#resilience-safety-reversibility-self-healing-and-systemic-harm-cluster); [Def.C2 *Stewardship, Governance Discipline, and Shared-System Capacity*](core_05defs_continuity.md#stewardship-governance-discipline-and-shared-system-capacity-cluster)
 - **Sustainability** — [Sustainability](core_05defs_continuity.md#sustainability), [Ecological Footprint](core_05defs_continuity.md#ecological-footprint); [*Ecological Integrity, Footprint, and Sustainability*](core_05defs_continuity.md#ecological-footprint-semi-independent)
 - **Ecological wellbeing** — [Ecological Integrity](core_05defs_continuity.md#ecological-integrity-constitutional), [Environmental Preconditions](core_05defs_continuity.md#environmental-preconditions-constitutional), [Intergenerational Responsibility](core_05defs_continuity.md#intergenerational-responsibility-constitutional)
 - **Dependency and resource flows** — [Dependency](core_05defs_continuity.md#dependency); **Article IV-A** (*Dependency Mapping and Resource-Flow Transparency*)
@@ -60,10 +60,10 @@ Definitions under this aim inherit its scope unless they expressly narrow or wid
 
 **Other Continuity-primary clusters** (use when their admission scope applies; not listed as building-block homes above):
 
-- [Chapter One §8.11 *Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm*](core_05defs_accountability.md#use-of-force-autonomous-coercion-and-mass-harm-cluster)
-- [Chapter One §8.12 *Labor and Economic Floor: Compensation, Organization, Safe Conditions, Leisure, and Creative Work*](core_05defs_continuity.md#labor-and-economic-floor-cluster)
-- [Chapter One §8.14 *Privacy (Informational)*](core_05defs_continuity.md#privacy-informational-cluster)
-- [Chapter One §8.15 *Trust and Trustworthiness*](core_05defs_continuity.md#trust-and-trustworthiness-cluster)
+- [Def.A4 *Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm*](core_05defs_accountability.md#use-of-force-autonomous-coercion-and-mass-harm-cluster)
+- [Def.C1 *Labor and Economic Floor: Compensation, Organization, Safe Conditions, Leisure, and Creative Work*](core_05defs_continuity.md#labor-and-economic-floor-cluster)
+- [Def.C3 *Privacy (Informational)*](core_05defs_continuity.md#privacy-informational-cluster)
+- [Def.C4 *Trust and Trustworthiness*](core_05defs_continuity.md#trust-and-trustworthiness-cluster)
 
 ---
 
@@ -88,7 +88,7 @@ Definitions under this aim inherit its scope unless they expressly narrow or wid
 | Subfamily | Plain question | Main constitutional use |
 |---|---|---|
 | Ecological footprint and environmental preconditions | What environmental burden is being created or shifted? | [Ecological Footprint](core_05defs_continuity.md#ecological-footprint), [Environmental Preconditions](core_05defs_continuity.md#environmental-preconditions-constitutional); disclosure under **Articles I-A** and **I-B** |
-| Resilience, reversibility, and systemic risk | Can failures be contained, reversed, and escalated honestly? | [Reversibility](core_05defs_continuity.md#reversibility-constitutional), [Cascading Failure](core_05defs_continuity.md#cascading-failure), [Existential Risk](core_05defs_continuity.md#existential-risk), [Self-Healing](core_05defs_continuity.md#self-healing-constitutional); [§3.32](core_05defs_continuity.md#resilience-safety-reversibility-self-healing-and-systemic-harm-cluster) |
+| Resilience, reversibility, and systemic risk | Can failures be contained, reversed, and escalated honestly? | [Reversibility](core_05defs_continuity.md#reversibility-constitutional), [Cascading Failure](core_05defs_continuity.md#cascading-failure), [Existential Risk](core_05defs_continuity.md#existential-risk), [Self-Healing](core_05defs_continuity.md#self-healing-constitutional); [*Resilience, Safety, Reversibility, Self-Healing, Cascading Failure, Existential Risk, Environmental Preconditions, and Wellbeing*](core_05defs_continuity.md#resilience-safety-reversibility-self-healing-and-systemic-harm-cluster) |
 | Dependency and resource flows | Are shared dependencies visible and sustained? | [Dependency](core_05defs_continuity.md#dependency); **Article IV-A** (*Dependency Mapping and Resource-Flow Transparency*) |
 | Cross-system support | Does documented return sustain shared infrastructure and ecological repair? | [Proportionate Cross-System Contribution](core_05defs_continuity.md#proportionate-cross-system-support-constitutional); **Article IV-B** (*Cross-System Fairness and Sustainability*) |
 

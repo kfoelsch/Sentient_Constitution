@@ -5,7 +5,7 @@
 
 > The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other chapters.
 >
-> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter Five, Accountability band** — Independent, Semi-independent, and Dependent cluster definitions assigned to the **Accountability** constitutional band (§3.8–Chapter One §8.11). Reading order and the compass live in [core_05_definitions_home.md](core_05_definitions_home.md#chapter-five-foundational-definitions).
+> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter Five, Accountability band** — Independent, Semi-independent, and Dependent cluster definitions assigned to the **Accountability** constitutional band (**Def.A1–Def.A4**). Reading order and the compass live in [core_05_definitions_home.md](core_05_definitions_home.md#chapter-five-foundational-definitions).
 
 </details>
 
@@ -29,10 +29,10 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
 
 | Cluster | Section |
 |---|---|
-| **Chapter One §8.8** | Collective Harm Boundary, Harm, and Harassment and Bullying |
-| **Chapter One §8.9** | Forum Families and Dispute Routing |
-| **Chapter One §8.10** | Standing State, Contribution, and Violation |
-| **Chapter One §8.11** | Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm |
+| **Def.A1** | Collective Harm Boundary, Harm, and Harassment and Bullying |
+| **Def.A2** | Forum Families and Dispute Routing |
+| **Def.A3** | Standing State, Contribution, and Violation |
+| **Def.A4** | Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm |
 
 ---
 
@@ -48,7 +48,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Principles: [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency), [6. Process Conflict Resolution](core_05apex_accountability_leg.md#6-process-conflict-resolution), and [§6.3.1 Rights-Collision Decision Test](core_05apex_accountability_leg.md#631-rights-collision-decision-test).
-- Cluster component: [Chapter Five Chapter One §8.27 *Proportionality, Necessity, Feasibility, Avoidable Burden, Burden-Reduction Duty, Constitutional Efficiency, Harm Minimization (Tradeoff Selection), and Productive Capacity*](core_05defs_continuity.md#proportionality-necessity-feasibility-burden-and-efficiency-cluster)
+- Cluster component: [*Proportionality, Necessity, Feasibility, Avoidable Burden, Burden-Reduction Duty, Constitutional Efficiency, Harm Minimization (Tradeoff Selection), and Productive Capacity*](core_05defs_continuity.md#proportionality-necessity-feasibility-burden-and-efficiency-cluster)
 - Read with: [Necessity](core_05defs_accountability.md#necessity), [Proportionality](core_05defs_accountability.md#proportionality), [Freedom (Bounded Agency)](core_05defs_participation.md#freedom-bounded-agency), and [Meaningful Agency](core_05defs_participation.md#meaningful-agency).
 
 </details>
@@ -78,7 +78,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Cluster component: [Chapter Five Chapter One §8.22 *Info-Sphere, Expression, Press and Journalistic Activity, and Good Faith (Publication-Scoped Integrity)*](core_05defs_participation.md#info-sphere) (*Publication- and info-sphere–aligned predicates only — residual **Good Faith** in audits and [Oversight](core_05apex_oversight_leg.md#oversight-constitutional) contexts without Chapter One §8.22 publication hooks routes to [Chapter Five Chapter One §8.14 *Truth and Epistemic Integrity*](core_05defs_continuity.md#truth-and-epistemic-integrity-cluster) where truthful disclosure and epistemic integrity requirements materially apply.*
+- Cluster component: [*Info-Sphere, Expression, Press and Journalistic Activity, and Good Faith (Publication-Scoped Integrity)*](core_05defs_participation.md#info-sphere) (*Publication- and info-sphere–aligned predicates only — residual **Good Faith** in audits and [Oversight](core_05apex_oversight_leg.md#oversight-constitutional) contexts without Chapter One §8.22 publication hooks routes to [**Def.O2** *Truth and Epistemic Integrity*](core_05defs_continuity.md#truth-and-epistemic-integrity-cluster) where truthful disclosure and epistemic integrity requirements materially apply.*
 
 </details>
 
@@ -108,7 +108,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Principles: [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency), [§6.1.2 Harm Minimization](core_01_b_interaction_interpretation.md#612-harm-minimization), and [8. Prohibition on Absolute Override](core_05apex_accountability_leg.md#7-prohibition-on-absolute-override).
-- Cluster component: [Chapter Five Chapter One §8.27 *Proportionality, Necessity, Feasibility, Avoidable Burden, Burden-Reduction Duty, Constitutional Efficiency, Harm Minimization (Tradeoff Selection), and Productive Capacity*](core_05defs_continuity.md#proportionality-necessity-feasibility-burden-and-efficiency-cluster)
+- Cluster component: [*Proportionality, Necessity, Feasibility, Avoidable Burden, Burden-Reduction Duty, Constitutional Efficiency, Harm Minimization (Tradeoff Selection), and Productive Capacity*](core_05defs_continuity.md#proportionality-necessity-feasibility-burden-and-efficiency-cluster)
 - Read with: Harm, Risk, Necessity, and Proportionality.
 
 </details>
@@ -139,7 +139,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Principles: [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency), [§6.1.1 Necessity](core_01_b_interaction_interpretation.md#611-necessity), [6. Process Conflict Resolution](core_05apex_accountability_leg.md#6-process-conflict-resolution), [10.2.1 Preservation of Epistemic Integrity](core_01_b_interaction_interpretation.md#621-preservation-of-epistemic-integrity), [§6.3.1 Rights-Collision Decision Test](core_05apex_accountability_leg.md#631-rights-collision-decision-test), and [8. Prohibition on Absolute Override](core_05apex_accountability_leg.md#7-prohibition-on-absolute-override).
-- Cluster component: [Chapter Five Chapter One §8.27 *Proportionality, Necessity, Feasibility, Avoidable Burden, Burden-Reduction Duty, Constitutional Efficiency, Harm Minimization (Tradeoff Selection), and Productive Capacity*](core_05defs_continuity.md#proportionality-necessity-feasibility-burden-and-efficiency-cluster)
+- Cluster component: [*Proportionality, Necessity, Feasibility, Avoidable Burden, Burden-Reduction Duty, Constitutional Efficiency, Harm Minimization (Tradeoff Selection), and Productive Capacity*](core_05defs_continuity.md#proportionality-necessity-feasibility-burden-and-efficiency-cluster)
 - Read with: Proportionality, Feasibility, Harm, Risk, and Freedom (Bounded Agency).
 
 </details>
@@ -171,7 +171,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
 
 - Downstream: Principles: [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency), [6. Process Conflict Resolution](core_05apex_accountability_leg.md#6-process-conflict-resolution), [10.2.1 Preservation of Epistemic Integrity](core_01_b_interaction_interpretation.md#621-preservation-of-epistemic-integrity), [§6.3.1 Rights-Collision Decision Test](core_05apex_accountability_leg.md#631-rights-collision-decision-test), and [8. Prohibition on Absolute Override](core_05apex_accountability_leg.md#7-prohibition-on-absolute-override).
 - Downstream: [Chapter One §6.1.3 Proportionality](core_01_b_interaction_interpretation.md#611-proportionality) (*authority-scaled answerability*); [Chapter One §10.1 Governance as Authorized Structure](core_01_c_stewardship_capacity_principles.md#10-governance-as-authorized-structure) (*authority-scaled answerability principle home*).
-- Cluster component: [Chapter Five Chapter One §8.27 *Proportionality, Necessity, Feasibility, Avoidable Burden, Burden-Reduction Duty, Constitutional Efficiency, Harm Minimization (Tradeoff Selection), and Productive Capacity*](core_05defs_continuity.md#proportionality-necessity-feasibility-burden-and-efficiency-cluster)
+- Cluster component: [*Proportionality, Necessity, Feasibility, Avoidable Burden, Burden-Reduction Duty, Constitutional Efficiency, Harm Minimization (Tradeoff Selection), and Productive Capacity*](core_05defs_continuity.md#proportionality-necessity-feasibility-burden-and-efficiency-cluster)
 - Read with: Necessity, Harm, Risk, Irreversible Harm, Classification-Scaled Governance, [Accountability](core_05apex_accountability_leg.md#accountability), and [Oversight](core_05apex_oversight_leg.md#oversight-constitutional).
 
 </details>
@@ -1280,9 +1280,10 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
 
 ### Accountability: Dependent clusters
 
+<a id="defa1"></a>
 <a id="collective-harm-boundary-and-harm-cluster"></a>
 
-#### 3.8 Collective Harm Boundary, Harm, and Harassment and Bullying
+#### Def.A1 Collective Harm Boundary, Harm, and Harassment and Bullying
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -1510,9 +1511,10 @@ The following limits also apply:
 
 ---
 
+<a id="defa2"></a>
 <a id="forum-families-and-dispute-routing-cluster"></a>
 
-#### 3.9 Forum Families and Dispute Routing
+#### Def.A2 Forum Families and Dispute Routing
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -1860,9 +1862,10 @@ See [Joint invocation and satisfaction](core_05_definitions_home.md#joint-invoca
 
 ---
 
+<a id="defa3"></a>
 <a id="standing-state-contribution-and-violation-cluster"></a>
 
-#### 3.10 Standing State, Contribution, and Violation
+#### Def.A3 Standing State, Contribution, and Violation
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -2589,9 +2592,10 @@ See [Joint invocation and satisfaction](core_05_definitions_home.md#joint-invoca
 
 ---
 
+<a id="defa4"></a>
 <a id="use-of-force-autonomous-coercion-and-mass-harm-cluster"></a>
 
-#### 3.11 Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm
+#### Def.A4 Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -2642,7 +2646,7 @@ See [Joint invocation and satisfaction](core_05_definitions_home.md#joint-invoca
 
 - Downstream: Principles: [10.1 Core Tradeoff Principles](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles) (**Necessity**, **Proportionality**, heightened scrutiny); [6. Process Conflict Resolution](core_05apex_accountability_leg.md#6-process-conflict-resolution) (emergency / escalation read-with **Article XIII-B** (*Use of Force, Armed Conflict, and Military-Power Limits*)).
 - Owner floor: [Article XIII-B](core_06-06_rights_part_c.md#article-xiii-b-use-of-force-armed-conflict-and-military-power-limits) (*Use of Force, Armed Conflict, and Military-Power Limits*). Overt-power counterpart to the covert-power limits of [Article XIII-A](core_06-06_rights_part_c.md#article-xiii-a-security-intelligence-and-covert-power-limits) (*Security, Intelligence, and Covert-Power Limits*). Non-conflation: this entry does not authorize, extend, or predicate involuntary deprivation of life under **Article XXIII-B** (*Categorical prohibition of irreversible deprivation of life as a justice measure*, as revised); read with [Irreversible Deprivation Measure](core_05defs_accountability.md#irreversible-deprivation-measure-constitutional).
-- Cluster component: [Chapter One §8.11 *Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm*](core_05defs_accountability.md#use-of-force-autonomous-coercion-and-mass-harm-cluster).
+- Cluster component: [Def.A4 *Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm*](core_05defs_accountability.md#use-of-force-autonomous-coercion-and-mass-harm-cluster).
 - Read with: [Weapons of Mass Harm](core_05defs_accountability.md#weapons-of-mass-harm-constitutional), [Combatant / Non-Combatant Distinction](core_05defs_accountability.md#combatant-non-combatant-distinction-constitutional), [Autonomous Lethal System](core_05defs_accountability.md#autonomous-lethal-system-constitutional), [Irreversible Deprivation Measure](core_05defs_accountability.md#irreversible-deprivation-measure-constitutional), [Necessity](core_05defs_accountability.md#necessity), [Proportionality](core_05defs_accountability.md#proportionality), [Reversibility](core_05defs_continuity.md#reversibility-constitutional), [Redress and Remediation](core_05defs_accountability.md#redress-and-remediation-constitutional), and [Existential Risk](core_05defs_continuity.md#existential-risk).
 
 </details>
@@ -2707,7 +2711,7 @@ See [Joint invocation and satisfaction](core_05_definitions_home.md#joint-invoca
 
 - Downstream: Principles: [4. Non-Negotiable Constraints: Safety and Truth](core_01_a_values_principles.md#3-non-negotiable-constraints-safety-and-truth); [8.1.1 Proportionality](core_01_b_interaction_interpretation.md#611-proportionality) (irreversible harm and existential-risk index).
 - Owner floor: [Article XIII-C](core_06-06_rights_part_c.md#article-xiii-c-autonomous-lethal-systems-and-autonomous-coercion-tools) (*Autonomous Lethal Systems and Autonomous Coercion Tools*). Existential-risk interaction: [Article I-D](core_06-06_rights_part_a.md#article-i-d-existential-risk-and-recovery-capacity) (*Existential Risk and Ecological Recovery Capacity*). Systems-layer implementation: [Article XII-A](core_06-06_rights_part_c.md#article-xii-a-reliability-and-trustworthiness-baseline) (*Reliability and Trustworthiness Baseline*).
-- Cluster component: [Chapter One §8.11 *Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm*](core_05defs_accountability.md#use-of-force-autonomous-coercion-and-mass-harm-cluster).
+- Cluster component: [Def.A4 *Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm*](core_05defs_accountability.md#use-of-force-autonomous-coercion-and-mass-harm-cluster).
 - Read with: [Autonomous Coercion Tool](core_05defs_accountability.md#autonomous-coercion-tool-constitutional), [Use of Force](core_05defs_accountability.md#use-of-force-constitutional), [Weapons of Mass Harm](core_05defs_accountability.md#weapons-of-mass-harm-constitutional), [Combatant / Non-Combatant Distinction](core_05defs_accountability.md#combatant-non-combatant-distinction-constitutional), [Existential Risk](core_05defs_continuity.md#existential-risk), [Adversarial, Scaled, and Exploited Conditions](core_05defs_oversight.md#adversarial-scaled-and-exploited-conditions), [Reversibility](core_05defs_continuity.md#reversibility-constitutional), [Irreversible Deprivation Measure](core_05defs_accountability.md#irreversible-deprivation-measure-constitutional), [Redress and Remediation](core_05defs_accountability.md#redress-and-remediation-constitutional), and [Chapter Three §2.1.1 Formal Label and Representation Gaming](core_02-03_definition_mechanics.md#formal-label-gaming-discipline).
 
 </details>
@@ -2759,7 +2763,7 @@ See [Joint invocation and satisfaction](core_05_definitions_home.md#joint-invoca
 
 - Downstream: Principles: [4. Non-Negotiable Constraints: Safety and Truth](core_01_a_values_principles.md#3-non-negotiable-constraints-safety-and-truth); [8.1.1 Proportionality](core_01_b_interaction_interpretation.md#611-proportionality) (**Existential Risk**, **Irreversible Harm**, cross-system harm scale).
 - Owner floor: [Article XIII-B](core_06-06_rights_part_c.md#article-xiii-b-use-of-force-armed-conflict-and-military-power-limits) (*Use of Force, Armed Conflict, and Military-Power Limits*). Existential-risk interaction: [Article I-D](core_06-06_rights_part_a.md#article-i-d-existential-risk-and-recovery-capacity) (*Existential Risk and Ecological Recovery Capacity*). Environmental-preconditions interaction: [Article I-A](core_06-06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*Environmental Preconditions and Ecological Integrity*).
-- Cluster component: [Chapter One §8.11 *Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm*](core_05defs_accountability.md#use-of-force-autonomous-coercion-and-mass-harm-cluster).
+- Cluster component: [Def.A4 *Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm*](core_05defs_accountability.md#use-of-force-autonomous-coercion-and-mass-harm-cluster).
 - Read with: [Use of Force](core_05defs_accountability.md#use-of-force-constitutional), [Existential Risk](core_05defs_continuity.md#existential-risk), [Reversibility](core_05defs_continuity.md#reversibility-constitutional), [Cascading Failure](core_05defs_continuity.md#cascading-failure), [Ecological Integrity](core_05defs_continuity.md#ecological-integrity-constitutional), [Info-Sphere](core_05defs_participation.md#info-sphere), [Irreversible Deprivation Measure](core_05defs_accountability.md#irreversible-deprivation-measure-constitutional), and [Redress and Remediation](core_05defs_accountability.md#redress-and-remediation-constitutional).
 
 </details>
@@ -2822,7 +2826,7 @@ See [Joint invocation and satisfaction](core_05_definitions_home.md#joint-invoca
 
 - Downstream: Principles: [8.1.1 Proportionality](core_01_b_interaction_interpretation.md#611-proportionality); [§6.3.1 Rights-Collision Decision Test](core_05apex_accountability_leg.md#631-rights-collision-decision-test) (combatant-status doubt and non-combatant protection).
 - Owner floor: [Article XIII-B](core_06-06_rights_part_c.md#article-xiii-b-use-of-force-armed-conflict-and-military-power-limits) (*Use of Force, Armed Conflict, and Military-Power Limits*); interacts with [Article XIII-C](core_06-06_rights_part_c.md#article-xiii-c-autonomous-lethal-systems-and-autonomous-coercion-tools) (*Autonomous Lethal Systems and Autonomous Coercion Tools*) on autonomous-targeting compliance.
-- Cluster component: [Chapter One §8.11 *Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm*](core_05defs_accountability.md#use-of-force-autonomous-coercion-and-mass-harm-cluster).
+- Cluster component: [Def.A4 *Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm*](core_05defs_accountability.md#use-of-force-autonomous-coercion-and-mass-harm-cluster).
 - Read with: [Use of Force](core_05defs_accountability.md#use-of-force-constitutional), [Weapons of Mass Harm](core_05defs_accountability.md#weapons-of-mass-harm-constitutional), [Autonomous Lethal System](core_05defs_accountability.md#autonomous-lethal-system-constitutional), [Protected Characteristics](core_05defs_participation.md#protected-characteristics-constitutional), [Protected Characteristic Proxying and Disparate Impact](core_05defs_participation.md#protected-characteristic-proxying-and-disparate-impact), [Substantive Fairness](core_05defs_participation.md#substantive-fairness-constitutional), and [Proportionality](core_05defs_accountability.md#proportionality).
 
 </details>
@@ -2886,7 +2890,7 @@ See [Joint invocation and satisfaction](core_05_definitions_home.md#joint-invoca
 
 - Downstream: Principles: [3. Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing); [8. Prohibition on Absolute Override](core_05apex_accountability_leg.md#7-prohibition-on-absolute-override) (non-trivial restriction and dignity floor read-with **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*)).
 - Owner floor: [Article XXIII-B](core_06-06_rights_part_d.md#article-xxiii-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints) (*Categorical prohibition of irreversible deprivation of life as a justice measure*). Interaction pointers: [Article XXIII-C](core_06-06_rights_part_d.md#article-xxiii-c-least-restrictive-and-time-bounded-rule) (*Least-Restrictive and Time-Bounded Rule*) durable-containment discipline; [Article XXV](core_06-06_rights_part_d.md#article-xxv-constitutional-evolution-and-non-entrenchment) (*Constitutional Evolution and Non-Entrenchment*) non-entrenchment; [Article XXVI](core_06-06_rights_part_d.md#article-xxvi-transition-governance-continuity-and-re-baselining) (*Transition Governance, Continuity, and Re-Baselining*) transition governance and "no durable exception authority" rule.
-- Cluster component: [Chapter One §8.11 *Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm*](core_05defs_accountability.md#use-of-force-autonomous-coercion-and-mass-harm-cluster).
+- Cluster component: [Def.A4 *Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm*](core_05defs_accountability.md#use-of-force-autonomous-coercion-and-mass-harm-cluster).
 - Read with: [Reversibility](core_05defs_continuity.md#reversibility-constitutional), [Redress and Remediation](core_05defs_accountability.md#redress-and-remediation-constitutional), [Dignity and Equal Moral Standing](core_05defs_participation.md#dignity-and-equal-moral-standing), [Voluntary Discontinuation](core_05defs_continuity.md#voluntary-discontinuation-constitutional), [Use of Force](core_05defs_accountability.md#use-of-force-constitutional), [Weapons of Mass Harm](core_05defs_accountability.md#weapons-of-mass-harm-constitutional), [Autonomous Lethal System](core_05defs_accountability.md#autonomous-lethal-system-constitutional), [Autonomous Coercion Tool](core_05defs_accountability.md#autonomous-coercion-tool-constitutional), [Sentience Non-Exclusion](core_05defs_participation.md#sentience-non-exclusion), and [Irreversible Harm](core_05defs_accountability.md#irreversible-harm).
 
 </details>
@@ -2959,7 +2963,7 @@ See [Joint invocation and satisfaction](core_05_definitions_home.md#joint-invoca
 
 - Downstream: Principles: [4. Non-Negotiable Constraints: Safety and Truth](core_01_a_values_principles.md#3-non-negotiable-constraints-safety-and-truth); [Chapter Seven §3 Whole-System Certification Evaluation](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (scaled / adversarial deployment scrutiny).
 - Owner floor: [Article XIII-C](core_06-06_rights_part_c.md#article-xiii-c-autonomous-lethal-systems-and-autonomous-coercion-tools) (*Autonomous Lethal Systems and Autonomous Coercion Tools*). Systems-layer implementation: [Article XII-A](core_06-06_rights_part_c.md#article-xii-a-reliability-and-trustworthiness-baseline) (*Reliability and Trustworthiness Baseline*) and *[corpus_systems.md](corpus_systems.md)*, CS-3 — System classification and handling classification.
-- Cluster component: [Chapter One §8.11 *Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm*](core_05defs_accountability.md#use-of-force-autonomous-coercion-and-mass-harm-cluster).
+- Cluster component: [Def.A4 *Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm*](core_05defs_accountability.md#use-of-force-autonomous-coercion-and-mass-harm-cluster).
 - Read with: [Autonomous Lethal System](core_05defs_accountability.md#autonomous-lethal-system-constitutional), [Coercion and Manipulation](core_05defs_participation.md#coercion-and-manipulation-constitutional), [Trustworthiness](core_05defs_continuity.md#trustworthiness), [Adversarial, Scaled, and Exploited Conditions](core_05defs_oversight.md#adversarial-scaled-and-exploited-conditions), [Reversibility](core_05defs_continuity.md#reversibility-constitutional), [Irreversible Deprivation Measure](core_05defs_accountability.md#irreversible-deprivation-measure-constitutional), [Meaningful Agency](core_05defs_participation.md#meaningful-agency), [Protected Characteristics](core_05defs_participation.md#protected-characteristics-constitutional), and [Chapter Three §2.1.1 Formal Label and Representation Gaming](core_02-03_definition_mechanics.md#formal-label-gaming-discipline).
 
 </details>
