@@ -121,7 +121,7 @@ Future additions to **Chapter Six** that touch process-flavored, governance-flav
 
 </details>
 
-<strong><span style="color: #2563eb;">Definition:</span></strong> [Environmental Preconditions](core_05defs_continuity.md#environmental-preconditions-constitutional) · [O](core_05defs_continuity.md#environmental-preconditions-constitutional) · [A](core_05defs_continuity.md#environmental-preconditions-constitutional-a) · [C](core_05defs_continuity.md#environmental-preconditions-constitutional-c)
+<strong><span style="color: #2563eb;">Definition:</span></strong> [Environmental Preconditions](core_05defs_continuity.md#environmental-preconditions-constitutional) · [O](core_05defs_continuity.md#environmental-preconditions-constitutional) · [M](core_05defs_continuity.md#environmental-preconditions-constitutional-a) · [A](core_05defs_continuity.md#environmental-preconditions-constitutional-a) · [C](core_05defs_continuity.md#environmental-preconditions-constitutional-c)
 
 *In plain terms: **Article I** (*Environmental Survival*) is the planet-first Rights Floor — Earth's life-support systems must hold so **Flourishing** and **Continuity** remain possible for every sentient, and later governance cannot shrink that floor through certification, classification, or implementation choices.*
 
@@ -150,13 +150,13 @@ Chapter Five defines those conditions under **Environmental Preconditions**. Whe
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Environmental Preconditions](core_05defs_continuity.md#environmental-preconditions-constitutional) · [O](core_05defs_continuity.md#environmental-preconditions-constitutional) · [A](core_05defs_continuity.md#environmental-preconditions-constitutional-a) · [C](core_05defs_continuity.md#environmental-preconditions-constitutional-c)
-- [Ecological Integrity](core_05defs_continuity.md#ecological-integrity-constitutional) · [O](core_05defs_continuity.md#ecological-integrity-constitutional) · [A](core_05defs_continuity.md#ecological-integrity-constitutional-a) · [C](core_05defs_continuity.md#ecological-integrity-constitutional-c)
-- [Sustainability](core_05defs_continuity.md#sustainability) · [O](core_05defs_continuity.md#sustainability) · [A](core_05defs_continuity.md#sustainability-a) · [C](core_05defs_continuity.md#sustainability-c)
-- [Natural Systems Standing](core_05defs_participation.md#natural-systems-standing) · [O](core_05defs_participation.md#natural-systems-standing) · [A](core_05defs_participation.md#natural-systems-standing-a) · [C](core_05defs_participation.md#natural-systems-standing-c)
-- [Animal Life](core_05defs_participation.md#animal-life-constitutional) · [O](core_05defs_participation.md#animal-life-constitutional) · [A](core_05defs_participation.md#animal-life-constitutional-a) · [C](core_05defs_participation.md#animal-life-constitutional-c)
-- [Contested-Sentient Life](core_05defs_participation.md#contested-sentient-life-constitutional) · [O](core_05defs_participation.md#contested-sentient-life-constitutional) · [A](core_05defs_participation.md#contested-sentient-life-constitutional-a) · [C](core_05defs_participation.md#contested-sentient-life-constitutional-c)
-- [Wellbeing](core_05defs_continuity.md#wellbeing) · [O](core_05defs_continuity.md#wellbeing) · [A](core_05defs_continuity.md#wellbeing-a) · [C](core_05defs_continuity.md#wellbeing-c)
+- [Environmental Preconditions](core_05defs_continuity.md#environmental-preconditions-constitutional) · [O](core_05defs_continuity.md#environmental-preconditions-constitutional) · [M](core_05defs_continuity.md#environmental-preconditions-constitutional-a) · [A](core_05defs_continuity.md#environmental-preconditions-constitutional-a) · [C](core_05defs_continuity.md#environmental-preconditions-constitutional-c)
+- [Ecological Integrity](core_05defs_continuity.md#ecological-integrity-constitutional) · [O](core_05defs_continuity.md#ecological-integrity-constitutional) · [M](core_05defs_continuity.md#ecological-integrity-constitutional-a) · [A](core_05defs_continuity.md#ecological-integrity-constitutional-a) · [C](core_05defs_continuity.md#ecological-integrity-constitutional-c)
+- [Sustainability](core_05defs_continuity.md#sustainability) · [O](core_05defs_continuity.md#sustainability) · [M](core_05defs_continuity.md#sustainability-a) · [A](core_05defs_continuity.md#sustainability-a) · [C](core_05defs_continuity.md#sustainability-c)
+- [Natural Systems Standing](core_05defs_participation.md#natural-systems-standing) · [O](core_05defs_participation.md#natural-systems-standing) · [M](core_05defs_participation.md#natural-systems-standing-a) · [A](core_05defs_participation.md#natural-systems-standing-a) · [C](core_05defs_participation.md#natural-systems-standing-c)
+- [Animal Life](core_05defs_participation.md#animal-life-constitutional) · [O](core_05defs_participation.md#animal-life-constitutional) · [M](core_05defs_participation.md#animal-life-constitutional-a) · [A](core_05defs_participation.md#animal-life-constitutional-a) · [C](core_05defs_participation.md#animal-life-constitutional-c)
+- [Contested-Sentient Life](core_05defs_participation.md#contested-sentient-life-constitutional) · [O](core_05defs_participation.md#contested-sentient-life-constitutional) · [M](core_05defs_participation.md#contested-sentient-life-constitutional-a) · [A](core_05defs_participation.md#contested-sentient-life-constitutional-a) · [C](core_05defs_participation.md#contested-sentient-life-constitutional-c)
+- [Wellbeing](core_05defs_continuity.md#wellbeing) · [O](core_05defs_continuity.md#wellbeing) · [M](core_05defs_continuity.md#wellbeing-a) · [A](core_05defs_continuity.md#wellbeing-a) · [C](core_05defs_continuity.md#wellbeing-c)
 
 </details>
 
@@ -187,10 +187,10 @@ Chapter Five defines those conditions under **Environmental Preconditions**. Whe
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Ecological Footprint](core_05defs_continuity.md#ecological-footprint) · [O](core_05defs_continuity.md#ecological-footprint) · [A](core_05defs_continuity.md#ecological-footprint-a) · [C](core_05defs_continuity.md#ecological-footprint-c)
-- [Material Impact](core_05defs_oversight.md#material-impact) · [O](core_05defs_oversight.md#material-impact) · [A](core_05defs_oversight.md#material-impact-a) · [C](core_05defs_oversight.md#material-impact-c)
-- [Transparency](core_05defs_oversight.md#transparency) · [O](core_05defs_oversight.md#transparency) · [A](core_05defs_oversight.md#transparency-a) · [C](core_05defs_oversight.md#transparency-c)
-- [Epistemic Integrity](core_05defs_oversight.md#epistemic-integrity) · [O](core_05defs_oversight.md#epistemic-integrity-o) · [A](core_05defs_oversight.md#epistemic-integrity-a) · [C](core_05defs_oversight.md#epistemic-integrity-c)
+- [Ecological Footprint](core_05defs_continuity.md#ecological-footprint) · [O](core_05defs_continuity.md#ecological-footprint) · [M](core_05defs_continuity.md#ecological-footprint-a) · [A](core_05defs_continuity.md#ecological-footprint-a) · [C](core_05defs_continuity.md#ecological-footprint-c)
+- [Material Impact](core_05defs_oversight.md#material-impact) · [O](core_05defs_oversight.md#material-impact) · [M](core_05defs_oversight.md#material-impact-a) · [A](core_05defs_oversight.md#material-impact-a) · [C](core_05defs_oversight.md#material-impact-c)
+- [Transparency](core_05defs_oversight.md#transparency) · [O](core_05defs_oversight.md#transparency) · [M](core_05defs_oversight.md#transparency-a) · [A](core_05defs_oversight.md#transparency-a) · [C](core_05defs_oversight.md#transparency-c)
+- [Epistemic Integrity](core_05defs_oversight.md#epistemic-integrity) · [O](core_05defs_oversight.md#epistemic-integrity-o) · [M](core_05defs_oversight.md#epistemic-integrity-a) · [A](core_05defs_oversight.md#epistemic-integrity-a) · [C](core_05defs_oversight.md#epistemic-integrity-c)
 
 </details>
 
@@ -215,9 +215,9 @@ Chapter Five defines those conditions under **Environmental Preconditions**. Whe
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Intergenerational Responsibility](core_05defs_continuity.md#intergenerational-responsibility-constitutional) · [O](core_05defs_continuity.md#intergenerational-responsibility-constitutional) · [A](core_05defs_continuity.md#intergenerational-responsibility-constitutional-a) · [C](core_05defs_continuity.md#intergenerational-responsibility-constitutional-c)
-- [Environmental Preconditions](core_05defs_continuity.md#environmental-preconditions-constitutional) · [O](core_05defs_continuity.md#environmental-preconditions-constitutional) · [A](core_05defs_continuity.md#environmental-preconditions-constitutional-a) · [C](core_05defs_continuity.md#environmental-preconditions-constitutional-c)
-- [Materiality Determination](core_05defs_oversight.md#materiality-determination) · [O](core_05defs_oversight.md#materiality-determination) · [A](core_05defs_oversight.md#materiality-determination-a) · [C](core_05defs_oversight.md#materiality-determination-c)
+- [Intergenerational Responsibility](core_05defs_continuity.md#intergenerational-responsibility-constitutional) · [O](core_05defs_continuity.md#intergenerational-responsibility-constitutional) · [M](core_05defs_continuity.md#intergenerational-responsibility-constitutional-a) · [A](core_05defs_continuity.md#intergenerational-responsibility-constitutional-a) · [C](core_05defs_continuity.md#intergenerational-responsibility-constitutional-c)
+- [Environmental Preconditions](core_05defs_continuity.md#environmental-preconditions-constitutional) · [O](core_05defs_continuity.md#environmental-preconditions-constitutional) · [M](core_05defs_continuity.md#environmental-preconditions-constitutional-a) · [A](core_05defs_continuity.md#environmental-preconditions-constitutional-a) · [C](core_05defs_continuity.md#environmental-preconditions-constitutional-c)
+- [Materiality Determination](core_05defs_oversight.md#materiality-determination) · [O](core_05defs_oversight.md#materiality-determination) · [M](core_05defs_oversight.md#materiality-determination-a) · [A](core_05defs_oversight.md#materiality-determination-a) · [C](core_05defs_oversight.md#materiality-determination-c)
 
 </details>
 
@@ -246,10 +246,10 @@ Chapter Five defines those conditions under **Environmental Preconditions**. Whe
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Existential Risk](core_05defs_continuity.md#existential-risk) · [O](core_05defs_continuity.md#existential-risk) · [A](core_05defs_continuity.md#existential-risk-a) · [C](core_05defs_continuity.md#existential-risk-c)
-- [Ecological Recovery Capacity](core_05defs_continuity.md#ecological-recovery-capacity-constitutional) · [O](core_05defs_continuity.md#ecological-recovery-capacity-constitutional) · [A](core_05defs_continuity.md#ecological-recovery-capacity-constitutional-a) · [C](core_05defs_continuity.md#ecological-recovery-capacity-constitutional-c)
-- [Foreseeability](core_05defs_oversight.md#foreseeability-diligence) · [O](core_05defs_oversight.md#foreseeability-diligence) · [A](core_05defs_oversight.md#foreseeability-diligence-a) · [C](core_05defs_oversight.md#foreseeability-diligence-c)
-- [Dependency](core_05defs_continuity.md#dependency) · [O](core_05defs_continuity.md#dependency) · [A](core_05defs_continuity.md#dependency-a) · [C](core_05defs_continuity.md#dependency-c)
+- [Existential Risk](core_05defs_continuity.md#existential-risk) · [O](core_05defs_continuity.md#existential-risk) · [M](core_05defs_continuity.md#existential-risk-a) · [A](core_05defs_continuity.md#existential-risk-a) · [C](core_05defs_continuity.md#existential-risk-c)
+- [Ecological Recovery Capacity](core_05defs_continuity.md#ecological-recovery-capacity-constitutional) · [O](core_05defs_continuity.md#ecological-recovery-capacity-constitutional) · [M](core_05defs_continuity.md#ecological-recovery-capacity-constitutional-a) · [A](core_05defs_continuity.md#ecological-recovery-capacity-constitutional-a) · [C](core_05defs_continuity.md#ecological-recovery-capacity-constitutional-c)
+- [Foreseeability](core_05defs_oversight.md#foreseeability-diligence) · [O](core_05defs_oversight.md#foreseeability-diligence) · [M](core_05defs_oversight.md#foreseeability-diligence-a) · [A](core_05defs_oversight.md#foreseeability-diligence-a) · [C](core_05defs_oversight.md#foreseeability-diligence-c)
+- [Dependency](core_05defs_continuity.md#dependency) · [O](core_05defs_continuity.md#dependency) · [M](core_05defs_continuity.md#dependency-a) · [A](core_05defs_continuity.md#dependency-a) · [C](core_05defs_continuity.md#dependency-c)
 
 </details>
 
@@ -322,9 +322,9 @@ Procedural detail for **Article II** (*Material Stewardship and Durable-Use Inte
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Ecological Footprint](core_05defs_continuity.md#ecological-footprint) · [O](core_05defs_continuity.md#ecological-footprint) · [A](core_05defs_continuity.md#ecological-footprint-a) · [C](core_05defs_continuity.md#ecological-footprint-c)
-- [Intergenerational Responsibility](core_05defs_continuity.md#intergenerational-responsibility-constitutional) · [O](core_05defs_continuity.md#intergenerational-responsibility-constitutional) · [A](core_05defs_continuity.md#intergenerational-responsibility-constitutional-a) · [C](core_05defs_continuity.md#intergenerational-responsibility-constitutional-c)
-- [Materiality Determination](core_05defs_oversight.md#materiality-determination) · [O](core_05defs_oversight.md#materiality-determination) · [A](core_05defs_oversight.md#materiality-determination-a) · [C](core_05defs_oversight.md#materiality-determination-c)
+- [Ecological Footprint](core_05defs_continuity.md#ecological-footprint) · [O](core_05defs_continuity.md#ecological-footprint) · [M](core_05defs_continuity.md#ecological-footprint-a) · [A](core_05defs_continuity.md#ecological-footprint-a) · [C](core_05defs_continuity.md#ecological-footprint-c)
+- [Intergenerational Responsibility](core_05defs_continuity.md#intergenerational-responsibility-constitutional) · [O](core_05defs_continuity.md#intergenerational-responsibility-constitutional) · [M](core_05defs_continuity.md#intergenerational-responsibility-constitutional-a) · [A](core_05defs_continuity.md#intergenerational-responsibility-constitutional-a) · [C](core_05defs_continuity.md#intergenerational-responsibility-constitutional-c)
+- [Materiality Determination](core_05defs_oversight.md#materiality-determination) · [O](core_05defs_oversight.md#materiality-determination) · [M](core_05defs_oversight.md#materiality-determination-a) · [A](core_05defs_oversight.md#materiality-determination-a) · [C](core_05defs_oversight.md#materiality-determination-c)
 
 </details>
 
@@ -355,9 +355,9 @@ Procedural detail for **Article II** (*Material Stewardship and Durable-Use Inte
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Necessity](core_05defs_accountability.md#necessity) · [O](core_05defs_accountability.md#necessity) · [A](core_05defs_accountability.md#necessity-a) · [C](core_05defs_accountability.md#necessity-c)
-- [Proportionality](core_05defs_accountability.md#proportionality) · [O](core_05defs_accountability.md#proportionality) · [A](core_05defs_accountability.md#proportionality-a) · [C](core_05defs_accountability.md#proportionality-c)
-- [Dependency](core_05defs_continuity.md#dependency) · [O](core_05defs_continuity.md#dependency) · [A](core_05defs_continuity.md#dependency-a) · [C](core_05defs_continuity.md#dependency-c)
+- [Necessity](core_05defs_accountability.md#necessity) · [O](core_05defs_accountability.md#necessity) · [M](core_05defs_accountability.md#necessity-a) · [A](core_05defs_accountability.md#necessity-a) · [C](core_05defs_accountability.md#necessity-c)
+- [Proportionality](core_05defs_accountability.md#proportionality) · [O](core_05defs_accountability.md#proportionality) · [M](core_05defs_accountability.md#proportionality-a) · [A](core_05defs_accountability.md#proportionality-a) · [C](core_05defs_accountability.md#proportionality-c)
+- [Dependency](core_05defs_continuity.md#dependency) · [O](core_05defs_continuity.md#dependency) · [M](core_05defs_continuity.md#dependency-a) · [A](core_05defs_continuity.md#dependency-a) · [C](core_05defs_continuity.md#dependency-c)
 
 </details>
 
@@ -388,10 +388,10 @@ Procedural detail for **Article II** (*Material Stewardship and Durable-Use Inte
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Incentive Alignment](core_05defs_integrative.md#incentive-alignment) · [O](core_05defs_integrative.md#incentive-alignment) · [A](core_05defs_integrative.md#incentive-alignment-a) · [C](core_05defs_integrative.md#incentive-alignment-c)
-- [Foreseeability](core_05defs_oversight.md#foreseeability-diligence) · [O](core_05defs_oversight.md#foreseeability-diligence) · [A](core_05defs_oversight.md#foreseeability-diligence-a) · [C](core_05defs_oversight.md#foreseeability-diligence-c)
-- [Necessity](core_05defs_accountability.md#necessity) · [O](core_05defs_accountability.md#necessity) · [A](core_05defs_accountability.md#necessity-a) · [C](core_05defs_accountability.md#necessity-c)
-- [Proportionality](core_05defs_accountability.md#proportionality) · [O](core_05defs_accountability.md#proportionality) · [A](core_05defs_accountability.md#proportionality-a) · [C](core_05defs_accountability.md#proportionality-c)
+- [Incentive Alignment](core_05defs_integrative.md#incentive-alignment) · [O](core_05defs_integrative.md#incentive-alignment) · [M](core_05defs_integrative.md#incentive-alignment-a) · [A](core_05defs_integrative.md#incentive-alignment-a) · [C](core_05defs_integrative.md#incentive-alignment-c)
+- [Foreseeability](core_05defs_oversight.md#foreseeability-diligence) · [O](core_05defs_oversight.md#foreseeability-diligence) · [M](core_05defs_oversight.md#foreseeability-diligence-a) · [A](core_05defs_oversight.md#foreseeability-diligence-a) · [C](core_05defs_oversight.md#foreseeability-diligence-c)
+- [Necessity](core_05defs_accountability.md#necessity) · [O](core_05defs_accountability.md#necessity) · [M](core_05defs_accountability.md#necessity-a) · [A](core_05defs_accountability.md#necessity-a) · [C](core_05defs_accountability.md#necessity-c)
+- [Proportionality](core_05defs_accountability.md#proportionality) · [O](core_05defs_accountability.md#proportionality) · [M](core_05defs_accountability.md#proportionality-a) · [A](core_05defs_accountability.md#proportionality-a) · [C](core_05defs_accountability.md#proportionality-c)
 
 </details>
 
@@ -418,12 +418,12 @@ Procedural detail for **Article II** (*Material Stewardship and Durable-Use Inte
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Consent](core_05defs_participation.md#consent-constitutional) · [O](core_05defs_participation.md#consent-constitutional) · [A](core_05defs_participation.md#consent-constitutional-a) · [C](core_05defs_participation.md#consent-constitutional-c)
-- [Truth (Constitutional Constraint)](core_05defs_oversight.md#truth-constitutional-constraint) · [O](core_05defs_oversight.md#truth-constitutional-constraint-o) · [A](core_05defs_oversight.md#truth-constitutional-constraint-a) · [C](core_05defs_oversight.md#truth-constitutional-constraint-c)
-- [Dependency](core_05defs_continuity.md#dependency) · [O](core_05defs_continuity.md#dependency) · [A](core_05defs_continuity.md#dependency-a) · [C](core_05defs_continuity.md#dependency-c)
-- [Meaningful Agency](core_05defs_participation.md#meaningful-agency) · [O](core_05defs_accountability.md#meaningful-agency-o) · [A](core_05defs_participation.md#meaningful-agency-a) · [C](core_05defs_participation.md#meaningful-agency-c)
-- [Coercion and Manipulation](core_05defs_participation.md#coercion-and-manipulation-constitutional) · [O](core_05defs_participation.md#coercion-and-manipulation-constitutional) · [A](core_05defs_participation.md#coercion-and-manipulation-constitutional-a) · [C](core_05defs_participation.md#coercion-and-manipulation-constitutional-c)
-- [Trust Degradation and Misleading Reliance](core_05defs_integrative.md#trust-degradation-and-misleading-reliance-constitutional) · [O](core_05defs_integrative.md#trust-degradation-and-misleading-reliance-constitutional) · [A](core_05defs_continuity.md#trust-degradation-and-misleading-reliance-a) · [C](core_05defs_continuity.md#trust-degradation-and-misleading-reliance-c)
+- [Consent](core_05defs_participation.md#consent-constitutional) · [O](core_05defs_participation.md#consent-constitutional) · [M](core_05defs_participation.md#consent-constitutional-a) · [A](core_05defs_participation.md#consent-constitutional-a) · [C](core_05defs_participation.md#consent-constitutional-c)
+- [Truth (Constitutional Constraint)](core_05defs_oversight.md#truth-constitutional-constraint) · [O](core_05defs_oversight.md#truth-constitutional-constraint-o) · [M](core_05defs_oversight.md#truth-constitutional-constraint-a) · [A](core_05defs_oversight.md#truth-constitutional-constraint-a) · [C](core_05defs_oversight.md#truth-constitutional-constraint-c)
+- [Dependency](core_05defs_continuity.md#dependency) · [O](core_05defs_continuity.md#dependency) · [M](core_05defs_continuity.md#dependency-a) · [A](core_05defs_continuity.md#dependency-a) · [C](core_05defs_continuity.md#dependency-c)
+- [Meaningful Agency](core_05defs_participation.md#meaningful-agency) · [O](core_05defs_accountability.md#meaningful-agency-o) · [M](core_05defs_participation.md#meaningful-agency-a) · [A](core_05defs_participation.md#meaningful-agency-a) · [C](core_05defs_participation.md#meaningful-agency-c)
+- [Coercion and Manipulation](core_05defs_participation.md#coercion-and-manipulation-constitutional) · [O](core_05defs_participation.md#coercion-and-manipulation-constitutional) · [M](core_05defs_participation.md#coercion-and-manipulation-constitutional-a) · [A](core_05defs_participation.md#coercion-and-manipulation-constitutional-a) · [C](core_05defs_participation.md#coercion-and-manipulation-constitutional-c)
+- [Trust Degradation and Misleading Reliance](core_05defs_integrative.md#trust-degradation-and-misleading-reliance-constitutional) · [O](core_05defs_integrative.md#trust-degradation-and-misleading-reliance-constitutional) · [M](core_05defs_continuity.md#trust-degradation-and-misleading-reliance-a) · [A](core_05defs_continuity.md#trust-degradation-and-misleading-reliance-a) · [C](core_05defs_continuity.md#trust-degradation-and-misleading-reliance-c)
 
 </details>
 
@@ -448,11 +448,11 @@ Procedural detail for **Article II** (*Material Stewardship and Durable-Use Inte
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Dependency](core_05defs_continuity.md#dependency) · [O](core_05defs_continuity.md#dependency) · [A](core_05defs_continuity.md#dependency-a) · [C](core_05defs_continuity.md#dependency-c)
-- [Intergenerational Responsibility](core_05defs_continuity.md#intergenerational-responsibility-constitutional) · [O](core_05defs_continuity.md#intergenerational-responsibility-constitutional) · [A](core_05defs_continuity.md#intergenerational-responsibility-constitutional-a) · [C](core_05defs_continuity.md#intergenerational-responsibility-constitutional-c)
-- [Materiality Determination](core_05defs_oversight.md#materiality-determination) · [O](core_05defs_oversight.md#materiality-determination) · [A](core_05defs_oversight.md#materiality-determination-a) · [C](core_05defs_oversight.md#materiality-determination-c)
-- [Necessity](core_05defs_accountability.md#necessity) · [O](core_05defs_accountability.md#necessity) · [A](core_05defs_accountability.md#necessity-a) · [C](core_05defs_accountability.md#necessity-c)
-- [Negligence](core_05defs_accountability.md#negligence) · [O](core_05defs_accountability.md#negligence) · [A](core_05defs_accountability.md#negligence-a) · [C](core_05defs_accountability.md#negligence-c)
+- [Dependency](core_05defs_continuity.md#dependency) · [O](core_05defs_continuity.md#dependency) · [M](core_05defs_continuity.md#dependency-a) · [A](core_05defs_continuity.md#dependency-a) · [C](core_05defs_continuity.md#dependency-c)
+- [Intergenerational Responsibility](core_05defs_continuity.md#intergenerational-responsibility-constitutional) · [O](core_05defs_continuity.md#intergenerational-responsibility-constitutional) · [M](core_05defs_continuity.md#intergenerational-responsibility-constitutional-a) · [A](core_05defs_continuity.md#intergenerational-responsibility-constitutional-a) · [C](core_05defs_continuity.md#intergenerational-responsibility-constitutional-c)
+- [Materiality Determination](core_05defs_oversight.md#materiality-determination) · [O](core_05defs_oversight.md#materiality-determination) · [M](core_05defs_oversight.md#materiality-determination-a) · [A](core_05defs_oversight.md#materiality-determination-a) · [C](core_05defs_oversight.md#materiality-determination-c)
+- [Necessity](core_05defs_accountability.md#necessity) · [O](core_05defs_accountability.md#necessity) · [M](core_05defs_accountability.md#necessity-a) · [A](core_05defs_accountability.md#necessity-a) · [C](core_05defs_accountability.md#necessity-c)
+- [Negligence](core_05defs_accountability.md#negligence) · [O](core_05defs_accountability.md#negligence) · [M](core_05defs_accountability.md#negligence-a) · [A](core_05defs_accountability.md#negligence-a) · [C](core_05defs_accountability.md#negligence-c)
 
 </details>
 
@@ -522,10 +522,10 @@ This Article states **constitutional floors** for survival and equal access unde
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Wellbeing](core_05defs_continuity.md#wellbeing) · [O](core_05defs_continuity.md#wellbeing) · [A](core_05defs_continuity.md#wellbeing-a) · [C](core_05defs_continuity.md#wellbeing-c)
-- [Dependency](core_05defs_continuity.md#dependency) · [O](core_05defs_continuity.md#dependency) · [A](core_05defs_continuity.md#dependency-a) · [C](core_05defs_continuity.md#dependency-c)
-- [Meaningful Agency](core_05defs_participation.md#meaningful-agency) · [O](core_05defs_accountability.md#meaningful-agency-o) · [A](core_05defs_participation.md#meaningful-agency-a) · [C](core_05defs_participation.md#meaningful-agency-c)
-- [Info-Sphere](core_05defs_participation.md#info-sphere) · [O](core_05defs_participation.md#info-sphere) · [A](core_05defs_participation.md#info-sphere-a) · [C](core_05defs_participation.md#info-sphere-c)
+- [Wellbeing](core_05defs_continuity.md#wellbeing) · [O](core_05defs_continuity.md#wellbeing) · [M](core_05defs_continuity.md#wellbeing-a) · [A](core_05defs_continuity.md#wellbeing-a) · [C](core_05defs_continuity.md#wellbeing-c)
+- [Dependency](core_05defs_continuity.md#dependency) · [O](core_05defs_continuity.md#dependency) · [M](core_05defs_continuity.md#dependency-a) · [A](core_05defs_continuity.md#dependency-a) · [C](core_05defs_continuity.md#dependency-c)
+- [Meaningful Agency](core_05defs_participation.md#meaningful-agency) · [O](core_05defs_accountability.md#meaningful-agency-o) · [M](core_05defs_participation.md#meaningful-agency-a) · [A](core_05defs_participation.md#meaningful-agency-a) · [C](core_05defs_participation.md#meaningful-agency-c)
+- [Info-Sphere](core_05defs_participation.md#info-sphere) · [O](core_05defs_participation.md#info-sphere) · [M](core_05defs_participation.md#info-sphere-a) · [A](core_05defs_participation.md#info-sphere-a) · [C](core_05defs_participation.md#info-sphere-c)
 
 </details>
 
@@ -572,12 +572,12 @@ Cross-reference: **Article XXVI-D** (*Non-Compliant Property and Systems; Volunt
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Protected Characteristics](core_05defs_participation.md#protected-characteristics-constitutional) · [O](core_05defs_participation.md#protected-characteristics-constitutional) · [A](core_05defs_participation.md#protected-characteristics-constitutional-a) · [C](core_05defs_participation.md#protected-characteristics-constitutional-c)
-- [Accessibility](core_05defs_participation.md#accessibility-constitutional) · [O](core_05defs_participation.md#accessibility-constitutional) · [A](core_05defs_participation.md#accessibility-constitutional-a) · [C](core_05defs_participation.md#accessibility-constitutional-c)
-- [Substantive Fairness](core_05defs_participation.md#substantive-fairness-constitutional) · [O](core_05defs_participation.md#substantive-fairness-constitutional) · [A](core_05defs_participation.md#substantive-fairness-constitutional-a) · [C](core_05defs_participation.md#substantive-fairness-constitutional-c)
-- [Educational Agency](core_05defs_participation.md#educational-agency) · [O](core_05defs_accountability.md#educational-agency-o) · [A](core_05defs_participation.md#educational-agency-a) · [C](core_05defs_participation.md#educational-agency-c)
-- [Necessity](core_05defs_accountability.md#necessity) · [O](core_05defs_accountability.md#necessity) · [A](core_05defs_accountability.md#necessity-a) · [C](core_05defs_accountability.md#necessity-c)
-- [Proportionality](core_05defs_accountability.md#proportionality) · [O](core_05defs_accountability.md#proportionality) · [A](core_05defs_accountability.md#proportionality-a) · [C](core_05defs_accountability.md#proportionality-c)
+- [Protected Characteristics](core_05defs_participation.md#protected-characteristics-constitutional) · [O](core_05defs_participation.md#protected-characteristics-constitutional) · [M](core_05defs_participation.md#protected-characteristics-constitutional-a) · [A](core_05defs_participation.md#protected-characteristics-constitutional-a) · [C](core_05defs_participation.md#protected-characteristics-constitutional-c)
+- [Accessibility](core_05defs_participation.md#accessibility-constitutional) · [O](core_05defs_participation.md#accessibility-constitutional) · [M](core_05defs_participation.md#accessibility-constitutional-a) · [A](core_05defs_participation.md#accessibility-constitutional-a) · [C](core_05defs_participation.md#accessibility-constitutional-c)
+- [Substantive Fairness](core_05defs_participation.md#substantive-fairness-constitutional) · [O](core_05defs_participation.md#substantive-fairness-constitutional) · [M](core_05defs_participation.md#substantive-fairness-constitutional-a) · [A](core_05defs_participation.md#substantive-fairness-constitutional-a) · [C](core_05defs_participation.md#substantive-fairness-constitutional-c)
+- [Educational Agency](core_05defs_participation.md#educational-agency) · [O](core_05defs_accountability.md#educational-agency-o) · [M](core_05defs_participation.md#educational-agency-a) · [A](core_05defs_participation.md#educational-agency-a) · [C](core_05defs_participation.md#educational-agency-c)
+- [Necessity](core_05defs_accountability.md#necessity) · [O](core_05defs_accountability.md#necessity) · [M](core_05defs_accountability.md#necessity-a) · [A](core_05defs_accountability.md#necessity-a) · [C](core_05defs_accountability.md#necessity-c)
+- [Proportionality](core_05defs_accountability.md#proportionality) · [O](core_05defs_accountability.md#proportionality) · [M](core_05defs_accountability.md#proportionality-a) · [A](core_05defs_accountability.md#proportionality-a) · [C](core_05defs_accountability.md#proportionality-c)
 
 </details>
 
@@ -612,11 +612,11 @@ Cross-reference: **Article XXVI-D** (*Non-Compliant Property and Systems; Volunt
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Bodily-Maintenance Access](core_05defs_continuity.md#bodily-maintenance-access-constitutional) · [O](core_05defs_continuity.md#bodily-maintenance-access-constitutional) · [A](core_05defs_continuity.md#bodily-maintenance-access-constitutional-a) · [C](core_05defs_continuity.md#bodily-maintenance-access-constitutional-c)
-- [Substantive Fairness](core_05defs_participation.md#substantive-fairness-constitutional) · [O](core_05defs_participation.md#substantive-fairness-constitutional) · [A](core_05defs_participation.md#substantive-fairness-constitutional-a) · [C](core_05defs_participation.md#substantive-fairness-constitutional-c)
-- [Protected Characteristics](core_05defs_participation.md#protected-characteristics-constitutional) · [O](core_05defs_participation.md#protected-characteristics-constitutional) · [A](core_05defs_participation.md#protected-characteristics-constitutional-a) · [C](core_05defs_participation.md#protected-characteristics-constitutional-c)
-- [Necessity](core_05defs_accountability.md#necessity) · [O](core_05defs_accountability.md#necessity) · [A](core_05defs_accountability.md#necessity-a) · [C](core_05defs_accountability.md#necessity-c)
-- [Proportionality](core_05defs_accountability.md#proportionality) · [O](core_05defs_accountability.md#proportionality) · [A](core_05defs_accountability.md#proportionality-a) · [C](core_05defs_accountability.md#proportionality-c)
+- [Bodily-Maintenance Access](core_05defs_continuity.md#bodily-maintenance-access-constitutional) · [O](core_05defs_continuity.md#bodily-maintenance-access-constitutional) · [M](core_05defs_continuity.md#bodily-maintenance-access-constitutional-a) · [A](core_05defs_continuity.md#bodily-maintenance-access-constitutional-a) · [C](core_05defs_continuity.md#bodily-maintenance-access-constitutional-c)
+- [Substantive Fairness](core_05defs_participation.md#substantive-fairness-constitutional) · [O](core_05defs_participation.md#substantive-fairness-constitutional) · [M](core_05defs_participation.md#substantive-fairness-constitutional-a) · [A](core_05defs_participation.md#substantive-fairness-constitutional-a) · [C](core_05defs_participation.md#substantive-fairness-constitutional-c)
+- [Protected Characteristics](core_05defs_participation.md#protected-characteristics-constitutional) · [O](core_05defs_participation.md#protected-characteristics-constitutional) · [M](core_05defs_participation.md#protected-characteristics-constitutional-a) · [A](core_05defs_participation.md#protected-characteristics-constitutional-a) · [C](core_05defs_participation.md#protected-characteristics-constitutional-c)
+- [Necessity](core_05defs_accountability.md#necessity) · [O](core_05defs_accountability.md#necessity) · [M](core_05defs_accountability.md#necessity-a) · [A](core_05defs_accountability.md#necessity-a) · [C](core_05defs_accountability.md#necessity-c)
+- [Proportionality](core_05defs_accountability.md#proportionality) · [O](core_05defs_accountability.md#proportionality) · [M](core_05defs_accountability.md#proportionality-a) · [A](core_05defs_accountability.md#proportionality-a) · [C](core_05defs_accountability.md#proportionality-c)
 
 </details>
 
@@ -659,14 +659,14 @@ Cross-reference: **Article XXVI-D** (*Non-Compliant Property and Systems; Volunt
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Fair Compensation](core_05defs_continuity.md#fair-compensation-constitutional) · [O](core_05defs_continuity.md#fair-compensation-constitutional) · [A](core_05defs_continuity.md#fair-compensation-constitutional-a) · [C](core_05defs_continuity.md#fair-compensation-constitutional-c)
-- [Collective Organization](core_05defs_participation.md#collective-organization-constitutional) · [O](core_05defs_participation.md#collective-organization-constitutional) · [A](core_05defs_participation.md#collective-organization-constitutional-a) · [C](core_05defs_participation.md#collective-organization-constitutional-c)
-- [Business Creation](core_05defs_participation.md#business-creation-constitutional) · [O](core_05defs_participation.md#business-creation-constitutional) · [A](core_05defs_participation.md#business-creation-constitutional-a) · [C](core_05defs_participation.md#business-creation-constitutional-c)
-- [Safe Conditions](core_05defs_continuity.md#safe-conditions-constitutional) · [O](core_05defs_continuity.md#safe-conditions-constitutional) · [A](core_05defs_continuity.md#safe-conditions-constitutional-a) · [C](core_05defs_continuity.md#safe-conditions-constitutional-c)
-- [Anti-Displacement Floor](core_05defs_continuity.md#anti-displacement-floor-constitutional) · [O](core_05defs_continuity.md#anti-displacement-floor-constitutional) · [A](core_05defs_continuity.md#anti-displacement-floor-constitutional-a) · [C](core_05defs_continuity.md#anti-displacement-floor-constitutional-c)
-- [Leisure and Rest](core_05defs_continuity.md#leisure-and-rest-constitutional) · [O](core_05defs_continuity.md#leisure-and-rest-constitutional) · [A](core_05defs_continuity.md#leisure-and-rest-constitutional-a) · [C](core_05defs_continuity.md#leisure-and-rest-constitutional-c)
-- [Indigenous Continuity](core_05defs_continuity.md#indigenous-continuity-constitutional) · [O](core_05defs_continuity.md#indigenous-continuity-constitutional) · [A](core_05defs_continuity.md#indigenous-continuity-constitutional-a) · [C](core_05defs_continuity.md#indigenous-continuity-constitutional-c)
-- [Language, Culture, and Heritage](core_05defs_continuity.md#language-culture-and-heritage-constitutional) · [O](core_05defs_continuity.md#language-culture-and-heritage-constitutional) · [A](core_05defs_continuity.md#language-culture-and-heritage-constitutional-a) · [C](core_05defs_continuity.md#language-culture-and-heritage-constitutional-c)
+- [Fair Compensation](core_05defs_continuity.md#fair-compensation-constitutional) · [O](core_05defs_continuity.md#fair-compensation-constitutional) · [M](core_05defs_continuity.md#fair-compensation-constitutional-a) · [A](core_05defs_continuity.md#fair-compensation-constitutional-a) · [C](core_05defs_continuity.md#fair-compensation-constitutional-c)
+- [Collective Organization](core_05defs_participation.md#collective-organization-constitutional) · [O](core_05defs_participation.md#collective-organization-constitutional) · [M](core_05defs_participation.md#collective-organization-constitutional-a) · [A](core_05defs_participation.md#collective-organization-constitutional-a) · [C](core_05defs_participation.md#collective-organization-constitutional-c)
+- [Business Creation](core_05defs_participation.md#business-creation-constitutional) · [O](core_05defs_participation.md#business-creation-constitutional) · [M](core_05defs_participation.md#business-creation-constitutional-a) · [A](core_05defs_participation.md#business-creation-constitutional-a) · [C](core_05defs_participation.md#business-creation-constitutional-c)
+- [Safe Conditions](core_05defs_continuity.md#safe-conditions-constitutional) · [O](core_05defs_continuity.md#safe-conditions-constitutional) · [M](core_05defs_continuity.md#safe-conditions-constitutional-a) · [A](core_05defs_continuity.md#safe-conditions-constitutional-a) · [C](core_05defs_continuity.md#safe-conditions-constitutional-c)
+- [Anti-Displacement Floor](core_05defs_continuity.md#anti-displacement-floor-constitutional) · [O](core_05defs_continuity.md#anti-displacement-floor-constitutional) · [M](core_05defs_continuity.md#anti-displacement-floor-constitutional-a) · [A](core_05defs_continuity.md#anti-displacement-floor-constitutional-a) · [C](core_05defs_continuity.md#anti-displacement-floor-constitutional-c)
+- [Leisure and Rest](core_05defs_continuity.md#leisure-and-rest-constitutional) · [O](core_05defs_continuity.md#leisure-and-rest-constitutional) · [M](core_05defs_continuity.md#leisure-and-rest-constitutional-a) · [A](core_05defs_continuity.md#leisure-and-rest-constitutional-a) · [C](core_05defs_continuity.md#leisure-and-rest-constitutional-c)
+- [Indigenous Continuity](core_05defs_continuity.md#indigenous-continuity-constitutional) · [O](core_05defs_continuity.md#indigenous-continuity-constitutional) · [M](core_05defs_continuity.md#indigenous-continuity-constitutional-a) · [A](core_05defs_continuity.md#indigenous-continuity-constitutional-a) · [C](core_05defs_continuity.md#indigenous-continuity-constitutional-c)
+- [Language, Culture, and Heritage](core_05defs_continuity.md#language-culture-and-heritage-constitutional) · [O](core_05defs_continuity.md#language-culture-and-heritage-constitutional) · [M](core_05defs_continuity.md#language-culture-and-heritage-constitutional-a) · [A](core_05defs_continuity.md#language-culture-and-heritage-constitutional-a) · [C](core_05defs_continuity.md#language-culture-and-heritage-constitutional-c)
 
 </details>
 
@@ -759,9 +759,9 @@ Those requirements protect shared infrastructure and the systems that depend on 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Dependency](core_05defs_continuity.md#dependency) · [O](core_05defs_continuity.md#dependency) · [A](core_05defs_continuity.md#dependency-a) · [C](core_05defs_continuity.md#dependency-c)
-- [Transparency](core_05defs_oversight.md#transparency) · [O](core_05defs_oversight.md#transparency) · [A](core_05defs_oversight.md#transparency-a) · [C](core_05defs_oversight.md#transparency-c)
-- [System Boundary Integrity](core_05defs_continuity.md#system-boundary-integrity) · [O](core_05defs_continuity.md#system-boundary-integrity) · [A](core_05defs_continuity.md#system-boundary-integrity-a) · [C](core_05defs_continuity.md#system-boundary-integrity-c)
+- [Dependency](core_05defs_continuity.md#dependency) · [O](core_05defs_continuity.md#dependency) · [M](core_05defs_continuity.md#dependency-a) · [A](core_05defs_continuity.md#dependency-a) · [C](core_05defs_continuity.md#dependency-c)
+- [Transparency](core_05defs_oversight.md#transparency) · [O](core_05defs_oversight.md#transparency) · [M](core_05defs_oversight.md#transparency-a) · [A](core_05defs_oversight.md#transparency-a) · [C](core_05defs_oversight.md#transparency-c)
+- [System Boundary Integrity](core_05defs_continuity.md#system-boundary-integrity) · [O](core_05defs_continuity.md#system-boundary-integrity) · [M](core_05defs_continuity.md#system-boundary-integrity-a) · [A](core_05defs_continuity.md#system-boundary-integrity-a) · [C](core_05defs_continuity.md#system-boundary-integrity-c)
 
 </details>
 
@@ -791,11 +791,11 @@ Those requirements protect shared infrastructure and the systems that depend on 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Dependency](core_05defs_continuity.md#dependency) · [O](core_05defs_continuity.md#dependency) · [A](core_05defs_continuity.md#dependency-a) · [C](core_05defs_continuity.md#dependency-c)
-- [Proportionate Cross-System Contribution](core_05defs_continuity.md#proportionate-cross-system-support-constitutional) · [O](core_05defs_continuity.md#proportionate-cross-system-support-constitutional) · [A](core_05defs_continuity.md#proportionate-cross-system-support-constitutional-a) · [C](core_05defs_continuity.md#proportionate-cross-system-support-constitutional-c)
-- [Substantive Fairness](core_05defs_participation.md#substantive-fairness-constitutional) · [O](core_05defs_participation.md#substantive-fairness-constitutional) · [A](core_05defs_participation.md#substantive-fairness-constitutional-a) · [C](core_05defs_participation.md#substantive-fairness-constitutional-c)
-- [Materiality Determination](core_05defs_oversight.md#materiality-determination) · [O](core_05defs_oversight.md#materiality-determination) · [A](core_05defs_oversight.md#materiality-determination-a) · [C](core_05defs_oversight.md#materiality-determination-c)
-- [Ecological Footprint](core_05defs_continuity.md#ecological-footprint) · [O](core_05defs_continuity.md#ecological-footprint) · [A](core_05defs_continuity.md#ecological-footprint-a) · [C](core_05defs_continuity.md#ecological-footprint-c)
+- [Dependency](core_05defs_continuity.md#dependency) · [O](core_05defs_continuity.md#dependency) · [M](core_05defs_continuity.md#dependency-a) · [A](core_05defs_continuity.md#dependency-a) · [C](core_05defs_continuity.md#dependency-c)
+- [Proportionate Cross-System Contribution](core_05defs_continuity.md#proportionate-cross-system-support-constitutional) · [O](core_05defs_continuity.md#proportionate-cross-system-support-constitutional) · [M](core_05defs_continuity.md#proportionate-cross-system-support-constitutional-a) · [A](core_05defs_continuity.md#proportionate-cross-system-support-constitutional-a) · [C](core_05defs_continuity.md#proportionate-cross-system-support-constitutional-c)
+- [Substantive Fairness](core_05defs_participation.md#substantive-fairness-constitutional) · [O](core_05defs_participation.md#substantive-fairness-constitutional) · [M](core_05defs_participation.md#substantive-fairness-constitutional-a) · [A](core_05defs_participation.md#substantive-fairness-constitutional-a) · [C](core_05defs_participation.md#substantive-fairness-constitutional-c)
+- [Materiality Determination](core_05defs_oversight.md#materiality-determination) · [O](core_05defs_oversight.md#materiality-determination) · [M](core_05defs_oversight.md#materiality-determination-a) · [A](core_05defs_oversight.md#materiality-determination-a) · [C](core_05defs_oversight.md#materiality-determination-c)
+- [Ecological Footprint](core_05defs_continuity.md#ecological-footprint) · [O](core_05defs_continuity.md#ecological-footprint) · [M](core_05defs_continuity.md#ecological-footprint-a) · [A](core_05defs_continuity.md#ecological-footprint-a) · [C](core_05defs_continuity.md#ecological-footprint-c)
 
 </details>
 

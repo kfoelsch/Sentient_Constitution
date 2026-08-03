@@ -11,11 +11,11 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Corpus](../core_05defs_integrative.md#corpus) · [O](../core_05defs_integrative.md#corpus) · [A](../core_05defs_integrative.md#corpus-a) · [C](../core_05defs_integrative.md#corpus-c)
-- [Adjudication and Dispute Resolution](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [A](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [C](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-c)
-- [Authority Stack and Internal Hierarchy](../core_05defs_integrative.md#authority-stack) · [O](../core_05defs_integrative.md#authority-stack) · [A](../core_05defs_integrative.md#authority-stack-a) · [C](../core_05defs_integrative.md#authority-stack-c)
-- [Forum Family, Technical](../core_05defs_accountability.md#forum-family-technical) · [O](../core_05defs_accountability.md#forum-family-technical) · [A](../core_05defs_accountability.md#forum-family-technical-a) · [C](../core_05defs_accountability.md#forum-family-technical-c)
-- [Contestability](../core_05defs_accountability.md#contestability) · [O](../core_05defs_accountability.md#contestability) · [A](../core_05defs_accountability.md#contestability-a) · [C](../core_05defs_accountability.md#contestability-c)
+- [Corpus](../core_05defs_integrative.md#corpus) · [O](../core_05defs_integrative.md#corpus) · [M](../core_05defs_integrative.md#corpus-a) · [A](../core_05defs_integrative.md#corpus-a) · [C](../core_05defs_integrative.md#corpus-c)
+- [Adjudication and Dispute Resolution](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [M](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [A](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [C](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-c)
+- [Authority Stack and Internal Hierarchy](../core_05defs_integrative.md#authority-stack) · [O](../core_05defs_integrative.md#authority-stack) · [M](../core_05defs_integrative.md#authority-stack-a) · [A](../core_05defs_integrative.md#authority-stack-a) · [C](../core_05defs_integrative.md#authority-stack-c)
+- [Forum Family, Technical](../core_05defs_accountability.md#forum-family-technical) · [O](../core_05defs_accountability.md#forum-family-technical) · [M](../core_05defs_accountability.md#forum-family-technical-a) · [A](../core_05defs_accountability.md#forum-family-technical-a) · [C](../core_05defs_accountability.md#forum-family-technical-c)
+- [Contestability](../core_05defs_accountability.md#contestability) · [O](../core_05defs_accountability.md#contestability) · [M](../core_05defs_accountability.md#contestability-a) · [A](../core_05defs_accountability.md#contestability-a) · [C](../core_05defs_accountability.md#contestability-c)
 
 </details>
 

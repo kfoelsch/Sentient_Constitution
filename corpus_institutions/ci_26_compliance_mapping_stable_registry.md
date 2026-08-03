@@ -11,13 +11,13 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Indigenous Continuity](../core_05defs_continuity.md#indigenous-continuity-constitutional) · [O](../core_05defs_continuity.md#indigenous-continuity-constitutional) · [A](../core_05defs_continuity.md#indigenous-continuity-constitutional-a) · [C](../core_05defs_continuity.md#indigenous-continuity-constitutional-c)
-- [Proportionality](../core_05defs_accountability.md#proportionality) · [O](../core_05defs_accountability.md#proportionality) · [A](../core_05defs_accountability.md#proportionality-a) · [C](../core_05defs_accountability.md#proportionality-c)
-- [Accountability](../core_05apex_accountability_leg.md#accountability) · [O](../core_05apex_accountability_leg.md#accountability) · [A](../core_05apex_accountability_leg.md#accountability-a) · [C](../core_05apex_accountability_leg.md#accountability-c)
-- [Governance](../core_05defs_accountability.md#governance) · [O](../core_05defs_accountability.md#governance) · [A](../core_05defs_accountability.md#governance-a) · [C](../core_05defs_accountability.md#governance-c)
-- [Oversight](../core_05apex_oversight_leg.md#oversight-constitutional) · [O](../core_05apex_oversight_leg.md#oversight-constitutional) · [A](../core_05apex_oversight_leg.md#oversight-constitutional-a) · [C](../core_05apex_oversight_leg.md#oversight-constitutional-c)
-- [Corpus](../core_05defs_integrative.md#corpus) · [O](../core_05defs_integrative.md#corpus) · [A](../core_05defs_integrative.md#corpus-a) · [C](../core_05defs_integrative.md#corpus-c)
-- [Auditability](../core_05defs_oversight.md#auditability) · [O](../core_05defs_oversight.md#auditability) · [A](../core_05defs_oversight.md#auditability-a) · [C](../core_05defs_oversight.md#auditability-c)
+- [Indigenous Continuity](../core_05defs_continuity.md#indigenous-continuity-constitutional) · [O](../core_05defs_continuity.md#indigenous-continuity-constitutional) · [M](../core_05defs_continuity.md#indigenous-continuity-constitutional-a) · [A](../core_05defs_continuity.md#indigenous-continuity-constitutional-a) · [C](../core_05defs_continuity.md#indigenous-continuity-constitutional-c)
+- [Proportionality](../core_05defs_accountability.md#proportionality) · [O](../core_05defs_accountability.md#proportionality) · [M](../core_05defs_accountability.md#proportionality-a) · [A](../core_05defs_accountability.md#proportionality-a) · [C](../core_05defs_accountability.md#proportionality-c)
+- [Accountability](../core_05apex_accountability_leg.md#accountability) · [O](../core_05apex_accountability_leg.md#accountability) · [M](../core_05apex_accountability_leg.md#accountability-m) · [A](../core_05apex_accountability_leg.md#accountability-a) · [C](../core_05apex_accountability_leg.md#accountability-c)
+- [Governance](../core_05defs_accountability.md#governance) · [O](../core_05defs_accountability.md#governance) · [M](../core_05defs_accountability.md#governance-a) · [A](../core_05defs_accountability.md#governance-a) · [C](../core_05defs_accountability.md#governance-c)
+- [Oversight](../core_05apex_oversight_leg.md#oversight-constitutional) · [O](../core_05apex_oversight_leg.md#oversight-constitutional) · [M](../core_05apex_oversight_leg.md#oversight-constitutional-m) · [A](../core_05apex_oversight_leg.md#oversight-constitutional-a) · [C](../core_05apex_oversight_leg.md#oversight-constitutional-c)
+- [Corpus](../core_05defs_integrative.md#corpus) · [O](../core_05defs_integrative.md#corpus) · [M](../core_05defs_integrative.md#corpus-a) · [A](../core_05defs_integrative.md#corpus-a) · [C](../core_05defs_integrative.md#corpus-c)
+- [Auditability](../core_05defs_oversight.md#auditability) · [O](../core_05defs_oversight.md#auditability) · [M](../core_05defs_oversight.md#auditability-a) · [A](../core_05defs_oversight.md#auditability-a) · [C](../core_05defs_oversight.md#auditability-c)
 
 </details>
 

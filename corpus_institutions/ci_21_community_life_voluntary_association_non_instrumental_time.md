@@ -11,13 +11,13 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Family and Care Relationships](../core_05defs_participation.md#family-and-care-relationships-constitutional) · [O](../core_05defs_participation.md#family-and-care-relationships-constitutional) · [A](../core_05defs_participation.md#family-and-care-relationships-constitutional-a) · [C](../core_05defs_participation.md#family-and-care-relationships-constitutional-c)
-- [Avoidable Burden](../core_05defs_continuity.md#avoidable-burden) · [O](../core_05defs_continuity.md#avoidable-burden) · [A](../core_05defs_continuity.md#avoidable-burden-a) · [C](../core_05defs_continuity.md#avoidable-burden-c)
-- [Contestability](../core_05defs_accountability.md#contestability) · [O](../core_05defs_accountability.md#contestability) · [A](../core_05defs_accountability.md#contestability-a) · [C](../core_05defs_accountability.md#contestability-c)
-- [Transparency](../core_05defs_oversight.md#transparency) · [O](../core_05defs_oversight.md#transparency) · [A](../core_05defs_oversight.md#transparency-a) · [C](../core_05defs_oversight.md#transparency-c)
-- [Expression](../core_05defs_participation.md#expression-constitutional) · [O](../core_05defs_participation.md#expression-constitutional) · [A](../core_05defs_participation.md#expression-constitutional-a) · [C](../core_05defs_participation.md#expression-constitutional-c)
-- [Governance](../core_05defs_accountability.md#governance) · [O](../core_05defs_accountability.md#governance) · [A](../core_05defs_accountability.md#governance-a) · [C](../core_05defs_accountability.md#governance-c)
-- [Necessity](../core_05defs_accountability.md#necessity) · [O](../core_05defs_accountability.md#necessity) · [A](../core_05defs_accountability.md#necessity-a) · [C](../core_05defs_accountability.md#necessity-c)
+- [Family and Care Relationships](../core_05defs_participation.md#family-and-care-relationships-constitutional) · [O](../core_05defs_participation.md#family-and-care-relationships-constitutional) · [M](../core_05defs_participation.md#family-and-care-relationships-constitutional-a) · [A](../core_05defs_participation.md#family-and-care-relationships-constitutional-a) · [C](../core_05defs_participation.md#family-and-care-relationships-constitutional-c)
+- [Avoidable Burden](../core_05defs_continuity.md#avoidable-burden) · [O](../core_05defs_continuity.md#avoidable-burden) · [M](../core_05defs_continuity.md#avoidable-burden-a) · [A](../core_05defs_continuity.md#avoidable-burden-a) · [C](../core_05defs_continuity.md#avoidable-burden-c)
+- [Contestability](../core_05defs_accountability.md#contestability) · [O](../core_05defs_accountability.md#contestability) · [M](../core_05defs_accountability.md#contestability-a) · [A](../core_05defs_accountability.md#contestability-a) · [C](../core_05defs_accountability.md#contestability-c)
+- [Transparency](../core_05defs_oversight.md#transparency) · [O](../core_05defs_oversight.md#transparency) · [M](../core_05defs_oversight.md#transparency-a) · [A](../core_05defs_oversight.md#transparency-a) · [C](../core_05defs_oversight.md#transparency-c)
+- [Expression](../core_05defs_participation.md#expression-constitutional) · [O](../core_05defs_participation.md#expression-constitutional) · [M](../core_05defs_participation.md#expression-constitutional-a) · [A](../core_05defs_participation.md#expression-constitutional-a) · [C](../core_05defs_participation.md#expression-constitutional-c)
+- [Governance](../core_05defs_accountability.md#governance) · [O](../core_05defs_accountability.md#governance) · [M](../core_05defs_accountability.md#governance-a) · [A](../core_05defs_accountability.md#governance-a) · [C](../core_05defs_accountability.md#governance-c)
+- [Necessity](../core_05defs_accountability.md#necessity) · [O](../core_05defs_accountability.md#necessity) · [M](../core_05defs_accountability.md#necessity-a) · [A](../core_05defs_accountability.md#necessity-a) · [C](../core_05defs_accountability.md#necessity-c)
 
 </details>
 

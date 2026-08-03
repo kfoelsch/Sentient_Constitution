@@ -11,9 +11,9 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Corpus](../core_05defs_integrative.md#corpus) · [O](../core_05defs_integrative.md#corpus) · [A](../core_05defs_integrative.md#corpus-a) · [C](../core_05defs_integrative.md#corpus-c)
-- [Authority Stack and Internal Hierarchy](../core_05defs_integrative.md#authority-stack) · [O](../core_05defs_integrative.md#authority-stack) · [A](../core_05defs_integrative.md#authority-stack-a) · [C](../core_05defs_integrative.md#authority-stack-c)
-- [Authority Stack and Internal Hierarchy](../core_05defs_integrative.md#authority-stack) · [O](../core_05defs_integrative.md#authority-stack) · [A](../core_05defs_integrative.md#authority-stack-a) · [C](../core_05defs_integrative.md#authority-stack-c)
+- [Corpus](../core_05defs_integrative.md#corpus) · [O](../core_05defs_integrative.md#corpus) · [M](../core_05defs_integrative.md#corpus-a) · [A](../core_05defs_integrative.md#corpus-a) · [C](../core_05defs_integrative.md#corpus-c)
+- [Authority Stack and Internal Hierarchy](../core_05defs_integrative.md#authority-stack) · [O](../core_05defs_integrative.md#authority-stack) · [M](../core_05defs_integrative.md#authority-stack-a) · [A](../core_05defs_integrative.md#authority-stack-a) · [C](../core_05defs_integrative.md#authority-stack-c)
+- [Authority Stack and Internal Hierarchy](../core_05defs_integrative.md#authority-stack) · [O](../core_05defs_integrative.md#authority-stack) · [M](../core_05defs_integrative.md#authority-stack-a) · [A](../core_05defs_integrative.md#authority-stack-a) · [C](../core_05defs_integrative.md#authority-stack-c)
 
 </details>
 
@@ -40,14 +40,14 @@ Use these clusters as shared operational terms within standalone implementation 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Competency Bar](../core_05defs_accountability.md#competency-bar) · [O](../core_05defs_accountability.md#competency-bar) · [A](../core_05defs_accountability.md#competency-bar-a) · [C](../core_05defs_accountability.md#competency-bar-c)
-- [Competency Clearance](../core_05defs_accountability.md#competency-clearance) · [O](../core_05defs_accountability.md#competency-clearance) · [A](../core_05defs_accountability.md#competency-clearance-a) · [C](../core_05defs_accountability.md#competency-clearance-c)
-- [Accountability](../core_05apex_accountability_leg.md#accountability) · [O](../core_05apex_accountability_leg.md#accountability) · [A](../core_05apex_accountability_leg.md#accountability-a) · [C](../core_05apex_accountability_leg.md#accountability-c)
-- [Contestability](../core_05defs_accountability.md#contestability) · [O](../core_05defs_accountability.md#contestability) · [A](../core_05defs_accountability.md#contestability-a) · [C](../core_05defs_accountability.md#contestability-c)
-- [Reversibility](../core_05defs_continuity.md#reversibility-constitutional) · [O](../core_05defs_continuity.md#reversibility-constitutional) · [A](../core_05defs_continuity.md#reversibility-constitutional-a) · [C](../core_05defs_continuity.md#reversibility-constitutional-c)
-- [Auditability](../core_05defs_oversight.md#auditability) · [O](../core_05defs_oversight.md#auditability) · [A](../core_05defs_oversight.md#auditability-a) · [C](../core_05defs_oversight.md#auditability-c)
-- [Dependency](../core_05defs_continuity.md#dependency) · [O](../core_05defs_continuity.md#dependency) · [A](../core_05defs_continuity.md#dependency-a) · [C](../core_05defs_continuity.md#dependency-c)
-- [Governance](../core_05defs_accountability.md#governance) · [O](../core_05defs_accountability.md#governance) · [A](../core_05defs_accountability.md#governance-a) · [C](../core_05defs_accountability.md#governance-c)
+- [Competency Bar](../core_05defs_accountability.md#competency-bar) · [O](../core_05defs_accountability.md#competency-bar) · [M](../core_05defs_accountability.md#competency-bar-a) · [A](../core_05defs_accountability.md#competency-bar-a) · [C](../core_05defs_accountability.md#competency-bar-c)
+- [Competency Clearance](../core_05defs_accountability.md#competency-clearance) · [O](../core_05defs_accountability.md#competency-clearance) · [M](../core_05defs_accountability.md#competency-clearance-a) · [A](../core_05defs_accountability.md#competency-clearance-a) · [C](../core_05defs_accountability.md#competency-clearance-c)
+- [Accountability](../core_05apex_accountability_leg.md#accountability) · [O](../core_05apex_accountability_leg.md#accountability) · [M](../core_05apex_accountability_leg.md#accountability-m) · [A](../core_05apex_accountability_leg.md#accountability-a) · [C](../core_05apex_accountability_leg.md#accountability-c)
+- [Contestability](../core_05defs_accountability.md#contestability) · [O](../core_05defs_accountability.md#contestability) · [M](../core_05defs_accountability.md#contestability-a) · [A](../core_05defs_accountability.md#contestability-a) · [C](../core_05defs_accountability.md#contestability-c)
+- [Reversibility](../core_05defs_continuity.md#reversibility-constitutional) · [O](../core_05defs_continuity.md#reversibility-constitutional) · [M](../core_05defs_continuity.md#reversibility-constitutional-a) · [A](../core_05defs_continuity.md#reversibility-constitutional-a) · [C](../core_05defs_continuity.md#reversibility-constitutional-c)
+- [Auditability](../core_05defs_oversight.md#auditability) · [O](../core_05defs_oversight.md#auditability) · [M](../core_05defs_oversight.md#auditability-a) · [A](../core_05defs_oversight.md#auditability-a) · [C](../core_05defs_oversight.md#auditability-c)
+- [Dependency](../core_05defs_continuity.md#dependency) · [O](../core_05defs_continuity.md#dependency) · [M](../core_05defs_continuity.md#dependency-a) · [A](../core_05defs_continuity.md#dependency-a) · [C](../core_05defs_continuity.md#dependency-c)
+- [Governance](../core_05defs_accountability.md#governance) · [O](../core_05defs_accountability.md#governance) · [M](../core_05defs_accountability.md#governance-a) · [A](../core_05defs_accountability.md#governance-a) · [C](../core_05defs_accountability.md#governance-c)
 
 </details>
 

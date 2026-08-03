@@ -154,9 +154,9 @@ When the materiality triggers below apply to a **materially impactful system**, 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Transparency](core_05defs_oversight.md#transparency) · [O](core_05defs_oversight.md#transparency) · [A](core_05defs_oversight.md#transparency-a) · [C](core_05defs_oversight.md#transparency-c)
-- [Auditability](core_05defs_oversight.md#auditability) · [O](core_05defs_oversight.md#auditability) · [A](core_05defs_oversight.md#auditability-a) · [C](core_05defs_oversight.md#auditability-c)
-- [Contestability](core_05defs_accountability.md#contestability) · [O](core_05defs_accountability.md#contestability) · [A](core_05defs_accountability.md#contestability-a) · [C](core_05defs_accountability.md#contestability-c)
+- [Transparency](core_05defs_oversight.md#transparency) · [O](core_05defs_oversight.md#transparency) · [M](core_05defs_oversight.md#transparency-a) · [A](core_05defs_oversight.md#transparency-a) · [C](core_05defs_oversight.md#transparency-c)
+- [Auditability](core_05defs_oversight.md#auditability) · [O](core_05defs_oversight.md#auditability) · [M](core_05defs_oversight.md#auditability-a) · [A](core_05defs_oversight.md#auditability-a) · [C](core_05defs_oversight.md#auditability-c)
+- [Contestability](core_05defs_accountability.md#contestability) · [O](core_05defs_accountability.md#contestability) · [M](core_05defs_accountability.md#contestability-a) · [A](core_05defs_accountability.md#contestability-a) · [C](core_05defs_accountability.md#contestability-c)
 
 </details>
 

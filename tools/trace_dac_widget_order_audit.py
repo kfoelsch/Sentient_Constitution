@@ -47,7 +47,7 @@ INLINE_DEFINITION_RE = re.compile(
 )
 OEC_READ_WITH_RE = re.compile(r"· \[O\]\(")
 OEC_ROW_RE = re.compile(
-    r"^\s*-\s+\[[^\]]+\]\([^)]+\)\s*·\s*\[O\]\([^)]+\)\s*·\s*\[A\]\([^)]+\)\s*·\s*\[C\]\([^)]+\)\s*$"
+    r"^\s*-\s+\[[^\]]+\]\([^)]+\)\s*·\s*\[O\]\([^)]+\)\s*·\s*\[M\]\([^)]+\)\s*·\s*\[A\]\([^)]+\)\s*·\s*\[C\]\([^)]+\)\s*$"
 )
 HEADING_RE = re.compile(r"^(#{1,6})\s+")
 PLAIN_TERMS_RE = re.compile(r"^\*In plain terms:")

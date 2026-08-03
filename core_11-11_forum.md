@@ -616,10 +616,10 @@ A case may move from one forum family to another only when the receiving family 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Timely Resolution](core_05defs_accountability.md#timely-resolution-constitutional) · [O](core_05defs_accountability.md#timely-resolution-constitutional) · [A](core_05defs_accountability.md#timely-resolution-constitutional-a) · [C](core_05defs_accountability.md#timely-resolution-constitutional-c)
-- [Materiality Determination](core_05defs_oversight.md#materiality-determination) · [O](core_05defs_oversight.md#materiality-determination) · [A](core_05defs_oversight.md#materiality-determination-a) · [C](core_05defs_oversight.md#materiality-determination-c)
-- [Capture of Resolution Pathways](core_05defs_accountability.md#capture-of-resolution-pathways) · [O](core_05defs_accountability.md#capture-of-resolution-pathways) · [A](core_05defs_accountability.md#capture-of-resolution-pathways-a) · [C](core_05defs_accountability.md#capture-of-resolution-pathways-c)
-- [Constitutional Efficiency](core_05defs_continuity.md#constitutional-efficiency) · [O](core_05defs_continuity.md#constitutional-efficiency) · [A](core_05defs_continuity.md#constitutional-efficiency-a) · [C](core_05defs_continuity.md#constitutional-efficiency-c)
+- [Timely Resolution](core_05defs_accountability.md#timely-resolution-constitutional) · [O](core_05defs_accountability.md#timely-resolution-constitutional) · [M](core_05defs_accountability.md#timely-resolution-constitutional-a) · [A](core_05defs_accountability.md#timely-resolution-constitutional-a) · [C](core_05defs_accountability.md#timely-resolution-constitutional-c)
+- [Materiality Determination](core_05defs_oversight.md#materiality-determination) · [O](core_05defs_oversight.md#materiality-determination) · [M](core_05defs_oversight.md#materiality-determination-a) · [A](core_05defs_oversight.md#materiality-determination-a) · [C](core_05defs_oversight.md#materiality-determination-c)
+- [Capture of Resolution Pathways](core_05defs_accountability.md#capture-of-resolution-pathways) · [O](core_05defs_accountability.md#capture-of-resolution-pathways) · [M](core_05defs_accountability.md#capture-of-resolution-pathways-a) · [A](core_05defs_accountability.md#capture-of-resolution-pathways-a) · [C](core_05defs_accountability.md#capture-of-resolution-pathways-c)
+- [Constitutional Efficiency](core_05defs_continuity.md#constitutional-efficiency) · [O](core_05defs_continuity.md#constitutional-efficiency) · [M](core_05defs_continuity.md#constitutional-efficiency-a) · [A](core_05defs_continuity.md#constitutional-efficiency-a) · [C](core_05defs_continuity.md#constitutional-efficiency-c)
 
 </details>
 

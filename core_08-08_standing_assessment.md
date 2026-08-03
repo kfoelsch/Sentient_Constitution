@@ -91,9 +91,9 @@ Chapter Eight measurement does **not**, by itself, authorize force, detention, o
 
 - Upstream: [Chapter One §7 — Stewardship and Distributed Understanding](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding); [Chapters Two through Four](core_02-03_definition_mechanics.md); [Chapter Five](core_05_definitions_home.md#chapter-five-foundational-definitions).
 - Downstream: [§2](#2-standing-records) (*Question 1*); [§3](#3-standing-record-operational-requirements) (*verification and record requirements*); [§4](#4-standing-measurement-evaluation-dimensions) (*Question 2 measurement*); [§5](#5-slot-grammar-and-lequ-calibration) (*slot grammar and shared scaling*); [§6](#6-constitutional-inputs-to-axis-assignment) (*constitutional-source routing*); [§7](#7-unified-proportional-lequ-scale) (*unified proportional LEQU scale for both axes*); [Chapter Nine](core_09-09_standing_integration.md#chapter-nine-standing-effects-and-integration) (*Question 3*).
-- [Materiality Determination](core_05defs_oversight.md#materiality-determination) · [O](core_05defs_oversight.md#materiality-determination) · [A](core_05defs_oversight.md#materiality-determination-a) · [C](core_05defs_oversight.md#materiality-determination-c)
-- [Harm](core_05defs_accountability.md#harm) · [O](core_05defs_accountability.md#harm) · [A](core_05defs_accountability.md#harm-a) · [C](core_05defs_accountability.md#harm-c)
-- [Proportionality](core_05defs_accountability.md#proportionality) · [O](core_05defs_accountability.md#proportionality) · [A](core_05defs_accountability.md#proportionality-a) · [C](core_05defs_accountability.md#proportionality-c)
+- [Materiality Determination](core_05defs_oversight.md#materiality-determination) · [O](core_05defs_oversight.md#materiality-determination) · [M](core_05defs_oversight.md#materiality-determination-a) · [A](core_05defs_oversight.md#materiality-determination-a) · [C](core_05defs_oversight.md#materiality-determination-c)
+- [Harm](core_05defs_accountability.md#harm) · [O](core_05defs_accountability.md#harm) · [M](core_05defs_accountability.md#harm-a) · [A](core_05defs_accountability.md#harm-a) · [C](core_05defs_accountability.md#harm-c)
+- [Proportionality](core_05defs_accountability.md#proportionality) · [O](core_05defs_accountability.md#proportionality) · [M](core_05defs_accountability.md#proportionality-a) · [A](core_05defs_accountability.md#proportionality-a) · [C](core_05defs_accountability.md#proportionality-c)
 
 </details>
 

@@ -230,7 +230,7 @@ If one reasonable reading would weaken safeguards, narrow what must be checked, 
 
 </details>
 
-<strong><span style="color: #2563eb;">Definition:</span></strong> [Foreseeability](core_05defs_oversight.md#foreseeability-diligence) · [O](core_05defs_oversight.md#foreseeability-diligence) · [A](core_05defs_oversight.md#foreseeability-diligence-a) · [C](core_05defs_oversight.md#foreseeability-diligence-c)
+<strong><span style="color: #2563eb;">Definition:</span></strong> [Foreseeability](core_05defs_oversight.md#foreseeability-diligence) · [O](core_05defs_oversight.md#foreseeability-diligence) · [M](core_05defs_oversight.md#foreseeability-diligence-a) · [A](core_05defs_oversight.md#foreseeability-diligence-a) · [C](core_05defs_oversight.md#foreseeability-diligence-c)
 
 *In plain terms: a definition doesn't just have to hold together on paper — it has to hold together across the definition stack in the real world. Its parts must line up the same way across normal, degraded, and adversarial operation, over time, across connected systems, in every situation you could reasonably see coming, and under every fair reading of its words.*
 

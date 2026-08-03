@@ -43,13 +43,13 @@ This family holds clusters that require simultaneous satisfaction across Tetrad 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Accountability](../core_05apex_accountability_leg.md#accountability) · [O](../core_05apex_accountability_leg.md#accountability) · [A](../core_05apex_accountability_leg.md#accountability-a) · [C](../core_05apex_accountability_leg.md#accountability-c)
-- [Auditability](../core_05defs_oversight.md#auditability) · [O](../core_05defs_oversight.md#auditability) · [A](../core_05defs_oversight.md#auditability-a) · [C](../core_05defs_oversight.md#auditability-c)
-- [Transparency](../core_05defs_oversight.md#transparency) · [O](../core_05defs_oversight.md#transparency) · [A](../core_05defs_oversight.md#transparency-a) · [C](../core_05defs_oversight.md#transparency-c)
-- [Governance](../core_05defs_accountability.md#governance) · [O](../core_05defs_accountability.md#governance) · [A](../core_05defs_accountability.md#governance-a) · [C](../core_05defs_accountability.md#governance-c)
-- [Oversight](../core_05apex_oversight_leg.md#oversight-constitutional) · [O](../core_05apex_oversight_leg.md#oversight-constitutional) · [A](../core_05apex_oversight_leg.md#oversight-constitutional-a) · [C](../core_05apex_oversight_leg.md#oversight-constitutional-c)
-- [Material](../core_05defs_oversight.md#material) · [O](../core_05defs_oversight.md#material) · [A](../core_05defs_oversight.md#material-a) · [C](../core_05defs_oversight.md#material-c)
-- [System](../core_05defs_continuity.md#system-definition) · [O](../core_05defs_continuity.md#system-definition) · [A](../core_05defs_continuity.md#system-definition-a) · [C](../core_05defs_continuity.md#system-definition-c)
+- [Accountability](../core_05apex_accountability_leg.md#accountability) · [O](../core_05apex_accountability_leg.md#accountability) · [M](../core_05apex_accountability_leg.md#accountability-m) · [A](../core_05apex_accountability_leg.md#accountability-a) · [C](../core_05apex_accountability_leg.md#accountability-c)
+- [Auditability](../core_05defs_oversight.md#auditability) · [O](../core_05defs_oversight.md#auditability) · [M](../core_05defs_oversight.md#auditability-a) · [A](../core_05defs_oversight.md#auditability-a) · [C](../core_05defs_oversight.md#auditability-c)
+- [Transparency](../core_05defs_oversight.md#transparency) · [O](../core_05defs_oversight.md#transparency) · [M](../core_05defs_oversight.md#transparency-a) · [A](../core_05defs_oversight.md#transparency-a) · [C](../core_05defs_oversight.md#transparency-c)
+- [Governance](../core_05defs_accountability.md#governance) · [O](../core_05defs_accountability.md#governance) · [M](../core_05defs_accountability.md#governance-a) · [A](../core_05defs_accountability.md#governance-a) · [C](../core_05defs_accountability.md#governance-c)
+- [Oversight](../core_05apex_oversight_leg.md#oversight-constitutional) · [O](../core_05apex_oversight_leg.md#oversight-constitutional) · [M](../core_05apex_oversight_leg.md#oversight-constitutional-m) · [A](../core_05apex_oversight_leg.md#oversight-constitutional-a) · [C](../core_05apex_oversight_leg.md#oversight-constitutional-c)
+- [Material](../core_05defs_oversight.md#material) · [O](../core_05defs_oversight.md#material) · [M](../core_05defs_oversight.md#material-a) · [A](../core_05defs_oversight.md#material-a) · [C](../core_05defs_oversight.md#material-c)
+- [System](../core_05defs_continuity.md#system-definition) · [O](../core_05defs_continuity.md#system-definition) · [M](../core_05defs_continuity.md#system-definition-a) · [A](../core_05defs_continuity.md#system-definition-a) · [C](../core_05defs_continuity.md#system-definition-c)
 - Chapter One basis: §2.2, §11.2, §11.4, §12.1, §13, §14 (see [cluster map](#cjs-51-constitutional-compass-and-cluster-map)).
 </details>
 
@@ -121,13 +121,13 @@ No permanent secrecy and anti-normalization discipline
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Cascading Failure](../core_05defs_continuity.md#cascading-failure) · [O](../core_05defs_continuity.md#cascading-failure) · [A](../core_05defs_continuity.md#cascading-failure-a) · [C](../core_05defs_continuity.md#cascading-failure-c)
-- [Accountability](../core_05apex_accountability_leg.md#accountability) · [O](../core_05apex_accountability_leg.md#accountability) · [A](../core_05apex_accountability_leg.md#accountability-a) · [C](../core_05apex_accountability_leg.md#accountability-c)
-- [Reversibility](../core_05defs_continuity.md#reversibility-constitutional) · [O](../core_05defs_continuity.md#reversibility-constitutional) · [A](../core_05defs_continuity.md#reversibility-constitutional-a) · [C](../core_05defs_continuity.md#reversibility-constitutional-c)
-- [Auditability](../core_05defs_oversight.md#auditability) · [O](../core_05defs_oversight.md#auditability) · [A](../core_05defs_oversight.md#auditability-a) · [C](../core_05defs_oversight.md#auditability-c)
-- [Transparency](../core_05defs_oversight.md#transparency) · [O](../core_05defs_oversight.md#transparency) · [A](../core_05defs_oversight.md#transparency-a) · [C](../core_05defs_oversight.md#transparency-c)
-- [Info-Sphere](../core_05defs_participation.md#info-sphere) · [O](../core_05defs_participation.md#info-sphere) · [A](../core_05defs_participation.md#info-sphere-a) · [C](../core_05defs_participation.md#info-sphere-c)
-- [Dependency](../core_05defs_continuity.md#dependency) · [O](../core_05defs_continuity.md#dependency) · [A](../core_05defs_continuity.md#dependency-a) · [C](../core_05defs_continuity.md#dependency-c)
+- [Cascading Failure](../core_05defs_continuity.md#cascading-failure) · [O](../core_05defs_continuity.md#cascading-failure) · [M](../core_05defs_continuity.md#cascading-failure-a) · [A](../core_05defs_continuity.md#cascading-failure-a) · [C](../core_05defs_continuity.md#cascading-failure-c)
+- [Accountability](../core_05apex_accountability_leg.md#accountability) · [O](../core_05apex_accountability_leg.md#accountability) · [M](../core_05apex_accountability_leg.md#accountability-m) · [A](../core_05apex_accountability_leg.md#accountability-a) · [C](../core_05apex_accountability_leg.md#accountability-c)
+- [Reversibility](../core_05defs_continuity.md#reversibility-constitutional) · [O](../core_05defs_continuity.md#reversibility-constitutional) · [M](../core_05defs_continuity.md#reversibility-constitutional-a) · [A](../core_05defs_continuity.md#reversibility-constitutional-a) · [C](../core_05defs_continuity.md#reversibility-constitutional-c)
+- [Auditability](../core_05defs_oversight.md#auditability) · [O](../core_05defs_oversight.md#auditability) · [M](../core_05defs_oversight.md#auditability-a) · [A](../core_05defs_oversight.md#auditability-a) · [C](../core_05defs_oversight.md#auditability-c)
+- [Transparency](../core_05defs_oversight.md#transparency) · [O](../core_05defs_oversight.md#transparency) · [M](../core_05defs_oversight.md#transparency-a) · [A](../core_05defs_oversight.md#transparency-a) · [C](../core_05defs_oversight.md#transparency-c)
+- [Info-Sphere](../core_05defs_participation.md#info-sphere) · [O](../core_05defs_participation.md#info-sphere) · [M](../core_05defs_participation.md#info-sphere-a) · [A](../core_05defs_participation.md#info-sphere-a) · [C](../core_05defs_participation.md#info-sphere-c)
+- [Dependency](../core_05defs_continuity.md#dependency) · [O](../core_05defs_continuity.md#dependency) · [M](../core_05defs_continuity.md#dependency-a) · [A](../core_05defs_continuity.md#dependency-a) · [C](../core_05defs_continuity.md#dependency-c)
 
 </details>
 

@@ -34,8 +34,8 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Proportionality](core_05defs_accountability.md#proportionality) · [O](core_05defs_accountability.md#proportionality) · [A](core_05defs_accountability.md#proportionality-a) · [C](core_05defs_accountability.md#proportionality-c)
-- [Necessity](core_05defs_accountability.md#necessity) · [O](core_05defs_accountability.md#necessity) · [A](core_05defs_accountability.md#necessity-a) · [C](core_05defs_accountability.md#necessity-c)
+- [Proportionality](core_05defs_accountability.md#proportionality) · [O](core_05defs_accountability.md#proportionality) · [M](core_05defs_accountability.md#proportionality-a) · [A](core_05defs_accountability.md#proportionality-a) · [C](core_05defs_accountability.md#proportionality-c)
+- [Necessity](core_05defs_accountability.md#necessity) · [O](core_05defs_accountability.md#necessity) · [M](core_05defs_accountability.md#necessity-a) · [A](core_05defs_accountability.md#necessity-a) · [C](core_05defs_accountability.md#necessity-c)
 
 </details>
 
@@ -73,12 +73,12 @@ No single principle may be applied in isolation where doing so would materially 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Wellbeing](core_05defs_continuity.md#wellbeing) · [O](core_05defs_continuity.md#wellbeing) · [A](core_05defs_continuity.md#wellbeing-a) · [C](core_05defs_continuity.md#wellbeing-c)
-- [Participation](core_05apex_participation_leg.md#participation-constitutional) · [O](core_05apex_participation_leg.md#participation-constitutional) · [A](core_05apex_participation_leg.md#participation-constitutional-a) · [C](core_05apex_participation_leg.md#participation-constitutional-c)
-- [Dignity and Equal Moral Standing](core_05defs_participation.md#dignity-and-equal-moral-standing) · [O](core_05defs_participation.md#dignity-and-equal-moral-standing) · [A](core_05defs_participation.md#dignity-and-equal-moral-standing-a) · [C](core_05defs_participation.md#dignity-and-equal-moral-standing-c)
-- [Substantive Fairness](core_05defs_participation.md#substantive-fairness-constitutional) · [O](core_05defs_participation.md#substantive-fairness-constitutional) · [A](core_05defs_participation.md#substantive-fairness-constitutional-a) · [C](core_05defs_participation.md#substantive-fairness-constitutional-c)
-- [Materiality](core_05defs_oversight.md#materiality-determination) · [O](core_05defs_oversight.md#materiality-determination) · [A](core_05defs_oversight.md#materiality-determination-a) · [C](core_05defs_oversight.md#materiality-determination-c)
-- [Proxy Divergence](core_05defs_oversight.md#proxy-divergence) · [O](core_05defs_oversight.md#proxy-divergence) · [A](core_05defs_oversight.md#proxy-divergence-a) · [C](core_05defs_oversight.md#proxy-divergence-c)
+- [Wellbeing](core_05defs_continuity.md#wellbeing) · [O](core_05defs_continuity.md#wellbeing) · [M](core_05defs_continuity.md#wellbeing-a) · [A](core_05defs_continuity.md#wellbeing-a) · [C](core_05defs_continuity.md#wellbeing-c)
+- [Participation](core_05apex_participation_leg.md#participation-constitutional) · [O](core_05apex_participation_leg.md#participation-constitutional) · [M](core_05apex_participation_leg.md#participation-constitutional-m) · [A](core_05apex_participation_leg.md#participation-constitutional-a) · [C](core_05apex_participation_leg.md#participation-constitutional-c)
+- [Dignity and Equal Moral Standing](core_05defs_participation.md#dignity-and-equal-moral-standing) · [O](core_05defs_participation.md#dignity-and-equal-moral-standing) · [M](core_05defs_participation.md#dignity-and-equal-moral-standing-a) · [A](core_05defs_participation.md#dignity-and-equal-moral-standing-a) · [C](core_05defs_participation.md#dignity-and-equal-moral-standing-c)
+- [Substantive Fairness](core_05defs_participation.md#substantive-fairness-constitutional) · [O](core_05defs_participation.md#substantive-fairness-constitutional) · [M](core_05defs_participation.md#substantive-fairness-constitutional-a) · [A](core_05defs_participation.md#substantive-fairness-constitutional-a) · [C](core_05defs_participation.md#substantive-fairness-constitutional-c)
+- [Materiality](core_05defs_oversight.md#materiality-determination) · [O](core_05defs_oversight.md#materiality-determination) · [M](core_05defs_oversight.md#materiality-determination-a) · [A](core_05defs_oversight.md#materiality-determination-a) · [C](core_05defs_oversight.md#materiality-determination-c)
+- [Proxy Divergence](core_05defs_oversight.md#proxy-divergence) · [O](core_05defs_oversight.md#proxy-divergence) · [M](core_05defs_oversight.md#proxy-divergence-a) · [A](core_05defs_oversight.md#proxy-divergence-a) · [C](core_05defs_oversight.md#proxy-divergence-c)
 
 </details>
 
@@ -115,15 +115,15 @@ Wellbeing includes not only immediate effects but also indirect, delayed, cumula
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Dignity and Equal Moral Standing](core_05defs_participation.md#dignity-and-equal-moral-standing) · [O](core_05defs_participation.md#dignity-and-equal-moral-standing) · [A](core_05defs_participation.md#dignity-and-equal-moral-standing-a) · [C](core_05defs_participation.md#dignity-and-equal-moral-standing-c)
-- [Accessibility](core_05defs_participation.md#accessibility-constitutional) · [O](core_05defs_participation.md#accessibility-constitutional) · [A](core_05defs_participation.md#accessibility-constitutional-a) · [C](core_05defs_participation.md#accessibility-constitutional-c)
-- [Participation](core_05apex_participation_leg.md#participation-constitutional) · [O](core_05apex_participation_leg.md#participation-constitutional) · [A](core_05apex_participation_leg.md#participation-constitutional-a) · [C](core_05apex_participation_leg.md#participation-constitutional-c)
-- [Procedural Fairness](core_05defs_participation.md#procedural-fairness-constitutional) · [O](core_05defs_participation.md#procedural-fairness-constitutional) · [A](core_05defs_participation.md#procedural-fairness-constitutional-a) · [C](core_05defs_participation.md#procedural-fairness-constitutional-c)
-- [Substantive Fairness](core_05defs_participation.md#substantive-fairness-constitutional) · [O](core_05defs_participation.md#substantive-fairness-constitutional) · [A](core_05defs_participation.md#substantive-fairness-constitutional-a) · [C](core_05defs_participation.md#substantive-fairness-constitutional-c)
-- [Protected Characteristics](core_05defs_participation.md#protected-characteristics-constitutional) · [O](core_05defs_participation.md#protected-characteristics-constitutional) · [A](core_05defs_participation.md#protected-characteristics-constitutional-a) · [C](core_05defs_participation.md#protected-characteristics-constitutional-c)
-- [Protected Characteristic Proxying and Disparate Impact](core_05defs_participation.md#protected-characteristic-proxying-and-disparate-impact) · [O](core_05defs_participation.md#protected-characteristic-proxying-and-disparate-impact) · [A](core_05defs_participation.md#protected-characteristic-proxying-and-disparate-impact-a) · [C](core_05defs_participation.md#protected-characteristic-proxying-and-disparate-impact-c)
-- [Protected Intimate-Signal Gating](core_05defs_participation.md#protected-intimate-signal-gating) · [O](core_05defs_participation.md#protected-intimate-signal-gating) · [A](core_05defs_participation.md#protected-intimate-signal-gating-a) · [C](core_05defs_participation.md#protected-intimate-signal-gating-c)
-- [Proxy Divergence](core_05defs_oversight.md#proxy-divergence) · [O](core_05defs_oversight.md#proxy-divergence) · [A](core_05defs_oversight.md#proxy-divergence-a) · [C](core_05defs_oversight.md#proxy-divergence-c)
+- [Dignity and Equal Moral Standing](core_05defs_participation.md#dignity-and-equal-moral-standing) · [O](core_05defs_participation.md#dignity-and-equal-moral-standing) · [M](core_05defs_participation.md#dignity-and-equal-moral-standing-a) · [A](core_05defs_participation.md#dignity-and-equal-moral-standing-a) · [C](core_05defs_participation.md#dignity-and-equal-moral-standing-c)
+- [Accessibility](core_05defs_participation.md#accessibility-constitutional) · [O](core_05defs_participation.md#accessibility-constitutional) · [M](core_05defs_participation.md#accessibility-constitutional-a) · [A](core_05defs_participation.md#accessibility-constitutional-a) · [C](core_05defs_participation.md#accessibility-constitutional-c)
+- [Participation](core_05apex_participation_leg.md#participation-constitutional) · [O](core_05apex_participation_leg.md#participation-constitutional) · [M](core_05apex_participation_leg.md#participation-constitutional-m) · [A](core_05apex_participation_leg.md#participation-constitutional-a) · [C](core_05apex_participation_leg.md#participation-constitutional-c)
+- [Procedural Fairness](core_05defs_participation.md#procedural-fairness-constitutional) · [O](core_05defs_participation.md#procedural-fairness-constitutional) · [M](core_05defs_participation.md#procedural-fairness-constitutional-a) · [A](core_05defs_participation.md#procedural-fairness-constitutional-a) · [C](core_05defs_participation.md#procedural-fairness-constitutional-c)
+- [Substantive Fairness](core_05defs_participation.md#substantive-fairness-constitutional) · [O](core_05defs_participation.md#substantive-fairness-constitutional) · [M](core_05defs_participation.md#substantive-fairness-constitutional-a) · [A](core_05defs_participation.md#substantive-fairness-constitutional-a) · [C](core_05defs_participation.md#substantive-fairness-constitutional-c)
+- [Protected Characteristics](core_05defs_participation.md#protected-characteristics-constitutional) · [O](core_05defs_participation.md#protected-characteristics-constitutional) · [M](core_05defs_participation.md#protected-characteristics-constitutional-a) · [A](core_05defs_participation.md#protected-characteristics-constitutional-a) · [C](core_05defs_participation.md#protected-characteristics-constitutional-c)
+- [Protected Characteristic Proxying and Disparate Impact](core_05defs_participation.md#protected-characteristic-proxying-and-disparate-impact) · [O](core_05defs_participation.md#protected-characteristic-proxying-and-disparate-impact) · [M](core_05defs_participation.md#protected-characteristic-proxying-and-disparate-impact-a) · [A](core_05defs_participation.md#protected-characteristic-proxying-and-disparate-impact-a) · [C](core_05defs_participation.md#protected-characteristic-proxying-and-disparate-impact-c)
+- [Protected Intimate-Signal Gating](core_05defs_participation.md#protected-intimate-signal-gating) · [O](core_05defs_participation.md#protected-intimate-signal-gating) · [M](core_05defs_participation.md#protected-intimate-signal-gating-a) · [A](core_05defs_participation.md#protected-intimate-signal-gating-a) · [C](core_05defs_participation.md#protected-intimate-signal-gating-c)
+- [Proxy Divergence](core_05defs_oversight.md#proxy-divergence) · [O](core_05defs_oversight.md#proxy-divergence) · [M](core_05defs_oversight.md#proxy-divergence-a) · [A](core_05defs_oversight.md#proxy-divergence-a) · [C](core_05defs_oversight.md#proxy-divergence-c)
 
 </details>
 
@@ -192,12 +192,12 @@ These four parts also support [4. Trust](#4-system-stability-enabler-trust-coord
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Wellbeing](core_05defs_continuity.md#wellbeing) · [O](core_05defs_continuity.md#wellbeing) · [A](core_05defs_continuity.md#wellbeing-a) · [C](core_05defs_continuity.md#wellbeing-c)
-- [Participation](core_05apex_participation_leg.md#participation-constitutional) · [O](core_05apex_participation_leg.md#participation-constitutional) · [A](core_05apex_participation_leg.md#participation-constitutional-a) · [C](core_05apex_participation_leg.md#participation-constitutional-c)
-- [Substantive Fairness](core_05defs_participation.md#substantive-fairness-constitutional) · [O](core_05defs_participation.md#substantive-fairness-constitutional) · [A](core_05defs_participation.md#substantive-fairness-constitutional-a) · [C](core_05defs_participation.md#substantive-fairness-constitutional-c)
-- [Contestability](core_05defs_accountability.md#contestability) · [O](core_05defs_accountability.md#contestability) · [A](core_05defs_accountability.md#contestability-a) · [C](core_05defs_accountability.md#contestability-c)
-- [Meaningful Agency](core_05defs_participation.md#meaningful-agency) · [O](core_05defs_accountability.md#meaningful-agency-o) · [A](core_05defs_participation.md#meaningful-agency-a) · [C](core_05defs_participation.md#meaningful-agency-c)
-- [Incentive Alignment](core_05defs_integrative.md#incentive-alignment) · [O](core_05defs_integrative.md#incentive-alignment) · [A](core_05defs_integrative.md#incentive-alignment-a) · [C](core_05defs_integrative.md#incentive-alignment-c)
+- [Wellbeing](core_05defs_continuity.md#wellbeing) · [O](core_05defs_continuity.md#wellbeing) · [M](core_05defs_continuity.md#wellbeing-a) · [A](core_05defs_continuity.md#wellbeing-a) · [C](core_05defs_continuity.md#wellbeing-c)
+- [Participation](core_05apex_participation_leg.md#participation-constitutional) · [O](core_05apex_participation_leg.md#participation-constitutional) · [M](core_05apex_participation_leg.md#participation-constitutional-m) · [A](core_05apex_participation_leg.md#participation-constitutional-a) · [C](core_05apex_participation_leg.md#participation-constitutional-c)
+- [Substantive Fairness](core_05defs_participation.md#substantive-fairness-constitutional) · [O](core_05defs_participation.md#substantive-fairness-constitutional) · [M](core_05defs_participation.md#substantive-fairness-constitutional-a) · [A](core_05defs_participation.md#substantive-fairness-constitutional-a) · [C](core_05defs_participation.md#substantive-fairness-constitutional-c)
+- [Contestability](core_05defs_accountability.md#contestability) · [O](core_05defs_accountability.md#contestability) · [M](core_05defs_accountability.md#contestability-a) · [A](core_05defs_accountability.md#contestability-a) · [C](core_05defs_accountability.md#contestability-c)
+- [Meaningful Agency](core_05defs_participation.md#meaningful-agency) · [O](core_05defs_accountability.md#meaningful-agency-o) · [M](core_05defs_participation.md#meaningful-agency-a) · [A](core_05defs_participation.md#meaningful-agency-a) · [C](core_05defs_participation.md#meaningful-agency-c)
+- [Incentive Alignment](core_05defs_integrative.md#incentive-alignment) · [O](core_05defs_integrative.md#incentive-alignment) · [M](core_05defs_integrative.md#incentive-alignment-a) · [A](core_05defs_integrative.md#incentive-alignment-a) · [C](core_05defs_integrative.md#incentive-alignment-c)
 
 </details>
 
@@ -303,13 +303,13 @@ Safety and Truth findings can change a sentient's standing record — including 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Safety (Constraint)](core_05defs_continuity.md#safety-constraint) · [O](core_05defs_continuity.md#safety-constraint) · [A](core_05defs_continuity.md#safety-constraint-a) · [C](core_05defs_continuity.md#safety-constraint-c)
-- [Harm](core_05defs_accountability.md#harm) · [O](core_05defs_accountability.md#harm) · [A](core_05defs_accountability.md#harm-a) · [C](core_05defs_accountability.md#harm-c)
-- [Irreversible Harm](core_05defs_accountability.md#irreversible-harm) · [O](core_05defs_accountability.md#irreversible-harm) · [A](core_05defs_accountability.md#irreversible-harm-a) · [C](core_05defs_accountability.md#irreversible-harm-c)
-- [Risk](core_05defs_continuity.md#risk) · [O](core_05defs_continuity.md#risk) · [A](core_05defs_continuity.md#risk-a) · [C](core_05defs_continuity.md#risk-c)
-- [Materiality](core_05defs_oversight.md#materiality-determination) · [O](core_05defs_oversight.md#materiality-determination) · [A](core_05defs_oversight.md#materiality-determination-a) · [C](core_05defs_oversight.md#materiality-determination-c)
-- [Dependency](core_05defs_continuity.md#dependency) · [O](core_05defs_continuity.md#dependency) · [A](core_05defs_continuity.md#dependency-a) · [C](core_05defs_continuity.md#dependency-c)
-- [Foreseeability](core_05defs_oversight.md#foreseeability-diligence) · [O](core_05defs_oversight.md#foreseeability-diligence) · [A](core_05defs_oversight.md#foreseeability-diligence-a) · [C](core_05defs_oversight.md#foreseeability-diligence-c)
+- [Safety (Constraint)](core_05defs_continuity.md#safety-constraint) · [O](core_05defs_continuity.md#safety-constraint) · [M](core_05defs_continuity.md#safety-constraint-a) · [A](core_05defs_continuity.md#safety-constraint-a) · [C](core_05defs_continuity.md#safety-constraint-c)
+- [Harm](core_05defs_accountability.md#harm) · [O](core_05defs_accountability.md#harm) · [M](core_05defs_accountability.md#harm-a) · [A](core_05defs_accountability.md#harm-a) · [C](core_05defs_accountability.md#harm-c)
+- [Irreversible Harm](core_05defs_accountability.md#irreversible-harm) · [O](core_05defs_accountability.md#irreversible-harm) · [M](core_05defs_accountability.md#irreversible-harm-a) · [A](core_05defs_accountability.md#irreversible-harm-a) · [C](core_05defs_accountability.md#irreversible-harm-c)
+- [Risk](core_05defs_continuity.md#risk) · [O](core_05defs_continuity.md#risk) · [M](core_05defs_continuity.md#risk-a) · [A](core_05defs_continuity.md#risk-a) · [C](core_05defs_continuity.md#risk-c)
+- [Materiality](core_05defs_oversight.md#materiality-determination) · [O](core_05defs_oversight.md#materiality-determination) · [M](core_05defs_oversight.md#materiality-determination-a) · [A](core_05defs_oversight.md#materiality-determination-a) · [C](core_05defs_oversight.md#materiality-determination-c)
+- [Dependency](core_05defs_continuity.md#dependency) · [O](core_05defs_continuity.md#dependency) · [M](core_05defs_continuity.md#dependency-a) · [A](core_05defs_continuity.md#dependency-a) · [C](core_05defs_continuity.md#dependency-c)
+- [Foreseeability](core_05defs_oversight.md#foreseeability-diligence) · [O](core_05defs_oversight.md#foreseeability-diligence) · [M](core_05defs_oversight.md#foreseeability-diligence-a) · [A](core_05defs_oversight.md#foreseeability-diligence-a) · [C](core_05defs_oversight.md#foreseeability-diligence-c)
 
 </details>
 
@@ -338,11 +338,11 @@ Systems may not act — or fail to act — in ways that foreseeably increase unc
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Epistemic Integrity](core_05defs_oversight.md#epistemic-integrity) · [O](core_05defs_oversight.md#epistemic-integrity-o) · [A](core_05defs_oversight.md#epistemic-integrity-a) · [C](core_05defs_oversight.md#epistemic-integrity-c)
-- [Truth (Constitutional Constraint)](core_05defs_oversight.md#truth-constitutional-constraint) · [O](core_05defs_oversight.md#truth-constitutional-constraint-o) · [A](core_05defs_oversight.md#truth-constitutional-constraint-a) · [C](core_05defs_oversight.md#truth-constitutional-constraint-c)
-- [Materiality](core_05defs_oversight.md#materiality-determination) · [O](core_05defs_oversight.md#materiality-determination) · [A](core_05defs_oversight.md#materiality-determination-a) · [C](core_05defs_oversight.md#materiality-determination-c)
-- [Dependency](core_05defs_continuity.md#dependency) · [O](core_05defs_continuity.md#dependency) · [A](core_05defs_continuity.md#dependency-a) · [C](core_05defs_continuity.md#dependency-c)
-- [Foreseeability](core_05defs_oversight.md#foreseeability-diligence) · [O](core_05defs_oversight.md#foreseeability-diligence) · [A](core_05defs_oversight.md#foreseeability-diligence-a) · [C](core_05defs_oversight.md#foreseeability-diligence-c)
+- [Epistemic Integrity](core_05defs_oversight.md#epistemic-integrity) · [O](core_05defs_oversight.md#epistemic-integrity-o) · [M](core_05defs_oversight.md#epistemic-integrity-a) · [A](core_05defs_oversight.md#epistemic-integrity-a) · [C](core_05defs_oversight.md#epistemic-integrity-c)
+- [Truth (Constitutional Constraint)](core_05defs_oversight.md#truth-constitutional-constraint) · [O](core_05defs_oversight.md#truth-constitutional-constraint-o) · [M](core_05defs_oversight.md#truth-constitutional-constraint-a) · [A](core_05defs_oversight.md#truth-constitutional-constraint-a) · [C](core_05defs_oversight.md#truth-constitutional-constraint-c)
+- [Materiality](core_05defs_oversight.md#materiality-determination) · [O](core_05defs_oversight.md#materiality-determination) · [M](core_05defs_oversight.md#materiality-determination-a) · [A](core_05defs_oversight.md#materiality-determination-a) · [C](core_05defs_oversight.md#materiality-determination-c)
+- [Dependency](core_05defs_continuity.md#dependency) · [O](core_05defs_continuity.md#dependency) · [M](core_05defs_continuity.md#dependency-a) · [A](core_05defs_continuity.md#dependency-a) · [C](core_05defs_continuity.md#dependency-c)
+- [Foreseeability](core_05defs_oversight.md#foreseeability-diligence) · [O](core_05defs_oversight.md#foreseeability-diligence) · [M](core_05defs_oversight.md#foreseeability-diligence-a) · [A](core_05defs_oversight.md#foreseeability-diligence-a) · [C](core_05defs_oversight.md#foreseeability-diligence-c)
 
 </details>
 
@@ -371,15 +371,15 @@ Systems may not undermine the ability of sentients to understand what is happeni
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Safety (Constraint)](core_05defs_continuity.md#safety-constraint) · [O](core_05defs_continuity.md#safety-constraint) · [A](core_05defs_continuity.md#safety-constraint-a) · [C](core_05defs_continuity.md#safety-constraint-c)
-- [Truth (Constitutional Constraint)](core_05defs_oversight.md#truth-constitutional-constraint) · [O](core_05defs_oversight.md#truth-constitutional-constraint-o) · [A](core_05defs_oversight.md#truth-constitutional-constraint-a) · [C](core_05defs_oversight.md#truth-constitutional-constraint-c)
-- [Epistemic Integrity](core_05defs_oversight.md#epistemic-integrity) · [O](core_05defs_oversight.md#epistemic-integrity-o) · [A](core_05defs_oversight.md#epistemic-integrity-a) · [C](core_05defs_oversight.md#epistemic-integrity-c)
-- [Risk](core_05defs_continuity.md#risk) · [O](core_05defs_continuity.md#risk) · [A](core_05defs_continuity.md#risk-a) · [C](core_05defs_continuity.md#risk-c)
-- [Materiality](core_05defs_oversight.md#materiality-determination) · [O](core_05defs_oversight.md#materiality-determination) · [A](core_05defs_oversight.md#materiality-determination-a) · [C](core_05defs_oversight.md#materiality-determination-c)
-- [Dependency](core_05defs_continuity.md#dependency) · [O](core_05defs_continuity.md#dependency) · [A](core_05defs_continuity.md#dependency-a) · [C](core_05defs_continuity.md#dependency-c)
-- [Foreseeability](core_05defs_oversight.md#foreseeability-diligence) · [O](core_05defs_oversight.md#foreseeability-diligence) · [A](core_05defs_oversight.md#foreseeability-diligence-a) · [C](core_05defs_oversight.md#foreseeability-diligence-c)
-- [Classification-Scaled Governance](core_05defs_oversight.md#classification-scaled-governance) · [O](core_05defs_oversight.md#classification-scaled-governance) · [A](core_05defs_oversight.md#classification-scaled-governance-a) · [C](core_05defs_oversight.md#classification-scaled-governance-c)
-- [Auditability](core_05defs_oversight.md#auditability) · [O](core_05defs_oversight.md#auditability) · [A](core_05defs_oversight.md#auditability-a) · [C](core_05defs_oversight.md#auditability-c)
+- [Safety (Constraint)](core_05defs_continuity.md#safety-constraint) · [O](core_05defs_continuity.md#safety-constraint) · [M](core_05defs_continuity.md#safety-constraint-a) · [A](core_05defs_continuity.md#safety-constraint-a) · [C](core_05defs_continuity.md#safety-constraint-c)
+- [Truth (Constitutional Constraint)](core_05defs_oversight.md#truth-constitutional-constraint) · [O](core_05defs_oversight.md#truth-constitutional-constraint-o) · [M](core_05defs_oversight.md#truth-constitutional-constraint-a) · [A](core_05defs_oversight.md#truth-constitutional-constraint-a) · [C](core_05defs_oversight.md#truth-constitutional-constraint-c)
+- [Epistemic Integrity](core_05defs_oversight.md#epistemic-integrity) · [O](core_05defs_oversight.md#epistemic-integrity-o) · [M](core_05defs_oversight.md#epistemic-integrity-a) · [A](core_05defs_oversight.md#epistemic-integrity-a) · [C](core_05defs_oversight.md#epistemic-integrity-c)
+- [Risk](core_05defs_continuity.md#risk) · [O](core_05defs_continuity.md#risk) · [M](core_05defs_continuity.md#risk-a) · [A](core_05defs_continuity.md#risk-a) · [C](core_05defs_continuity.md#risk-c)
+- [Materiality](core_05defs_oversight.md#materiality-determination) · [O](core_05defs_oversight.md#materiality-determination) · [M](core_05defs_oversight.md#materiality-determination-a) · [A](core_05defs_oversight.md#materiality-determination-a) · [C](core_05defs_oversight.md#materiality-determination-c)
+- [Dependency](core_05defs_continuity.md#dependency) · [O](core_05defs_continuity.md#dependency) · [M](core_05defs_continuity.md#dependency-a) · [A](core_05defs_continuity.md#dependency-a) · [C](core_05defs_continuity.md#dependency-c)
+- [Foreseeability](core_05defs_oversight.md#foreseeability-diligence) · [O](core_05defs_oversight.md#foreseeability-diligence) · [M](core_05defs_oversight.md#foreseeability-diligence-a) · [A](core_05defs_oversight.md#foreseeability-diligence-a) · [C](core_05defs_oversight.md#foreseeability-diligence-c)
+- [Classification-Scaled Governance](core_05defs_oversight.md#classification-scaled-governance) · [O](core_05defs_oversight.md#classification-scaled-governance) · [M](core_05defs_oversight.md#classification-scaled-governance-a) · [A](core_05defs_oversight.md#classification-scaled-governance-a) · [C](core_05defs_oversight.md#classification-scaled-governance-c)
+- [Auditability](core_05defs_oversight.md#auditability) · [O](core_05defs_oversight.md#auditability) · [M](core_05defs_oversight.md#auditability-a) · [A](core_05defs_oversight.md#auditability-a) · [C](core_05defs_oversight.md#auditability-c)
 
 </details>
 
@@ -418,12 +418,12 @@ Safety-sensitive limits on publication, data access, method disclosure, or repli
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Avoidable Burden](core_05defs_continuity.md#avoidable-burden) · [O](core_05defs_continuity.md#avoidable-burden) · [A](core_05defs_continuity.md#avoidable-burden-a) · [C](core_05defs_continuity.md#avoidable-burden-c)
-- [Accessibility](core_05defs_participation.md#accessibility-constitutional) · [O](core_05defs_participation.md#accessibility-constitutional) · [A](core_05defs_participation.md#accessibility-constitutional-a) · [C](core_05defs_participation.md#accessibility-constitutional-c)
-- [Contestability](core_05defs_accountability.md#contestability) · [O](core_05defs_accountability.md#contestability) · [A](core_05defs_accountability.md#contestability-a) · [C](core_05defs_accountability.md#contestability-c)
-- [Meaningful Agency](core_05defs_participation.md#meaningful-agency) · [O](core_05defs_accountability.md#meaningful-agency-o) · [A](core_05defs_participation.md#meaningful-agency-a) · [C](core_05defs_participation.md#meaningful-agency-c)
-- [Transparency](core_05defs_oversight.md#transparency) · [O](core_05defs_oversight.md#transparency) · [A](core_05defs_oversight.md#transparency-a) · [C](core_05defs_oversight.md#transparency-c)
-- [Truth (Constitutional Constraint)](core_05defs_oversight.md#truth-constitutional-constraint) · [O](core_05defs_oversight.md#truth-constitutional-constraint-o) · [A](core_05defs_oversight.md#truth-constitutional-constraint-a) · [C](core_05defs_oversight.md#truth-constitutional-constraint-c)
+- [Avoidable Burden](core_05defs_continuity.md#avoidable-burden) · [O](core_05defs_continuity.md#avoidable-burden) · [M](core_05defs_continuity.md#avoidable-burden-a) · [A](core_05defs_continuity.md#avoidable-burden-a) · [C](core_05defs_continuity.md#avoidable-burden-c)
+- [Accessibility](core_05defs_participation.md#accessibility-constitutional) · [O](core_05defs_participation.md#accessibility-constitutional) · [M](core_05defs_participation.md#accessibility-constitutional-a) · [A](core_05defs_participation.md#accessibility-constitutional-a) · [C](core_05defs_participation.md#accessibility-constitutional-c)
+- [Contestability](core_05defs_accountability.md#contestability) · [O](core_05defs_accountability.md#contestability) · [M](core_05defs_accountability.md#contestability-a) · [A](core_05defs_accountability.md#contestability-a) · [C](core_05defs_accountability.md#contestability-c)
+- [Meaningful Agency](core_05defs_participation.md#meaningful-agency) · [O](core_05defs_accountability.md#meaningful-agency-o) · [M](core_05defs_participation.md#meaningful-agency-a) · [A](core_05defs_participation.md#meaningful-agency-a) · [C](core_05defs_participation.md#meaningful-agency-c)
+- [Transparency](core_05defs_oversight.md#transparency) · [O](core_05defs_oversight.md#transparency) · [M](core_05defs_oversight.md#transparency-a) · [A](core_05defs_oversight.md#transparency-a) · [C](core_05defs_oversight.md#transparency-c)
+- [Truth (Constitutional Constraint)](core_05defs_oversight.md#truth-constitutional-constraint) · [O](core_05defs_oversight.md#truth-constitutional-constraint-o) · [M](core_05defs_oversight.md#truth-constitutional-constraint-a) · [A](core_05defs_oversight.md#truth-constitutional-constraint-a) · [C](core_05defs_oversight.md#truth-constitutional-constraint-c)
 
 </details>
 
@@ -496,12 +496,12 @@ The Rights Floors for accessibility, education, and comprehensibility live in [A
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Trust](core_05defs_continuity.md#trust) · [O](core_05defs_continuity.md#trust) · [A](core_05defs_continuity.md#trust-a) · [C](core_05defs_continuity.md#trust-c)
-- [Trustworthiness](core_05defs_continuity.md#trustworthiness) · [O](core_05defs_continuity.md#trustworthiness) · [A](core_05defs_continuity.md#trustworthiness-a) · [C](core_05defs_continuity.md#trustworthiness-c)
-- [Truth (Constitutional Constraint)](core_05defs_oversight.md#truth-constitutional-constraint) · [O](core_05defs_oversight.md#truth-constitutional-constraint-o) · [A](core_05defs_oversight.md#truth-constitutional-constraint-a) · [C](core_05defs_oversight.md#truth-constitutional-constraint-c)
-- [Safety (Constraint)](core_05defs_continuity.md#safety-constraint) · [O](core_05defs_continuity.md#safety-constraint) · [A](core_05defs_continuity.md#safety-constraint-a) · [C](core_05defs_continuity.md#safety-constraint-c)
-- [Materiality](core_05defs_oversight.md#materiality-determination) · [O](core_05defs_oversight.md#materiality-determination) · [A](core_05defs_oversight.md#materiality-determination-a) · [C](core_05defs_oversight.md#materiality-determination-c)
-- [Trust Degradation and Misleading Reliance](core_05defs_integrative.md#trust-degradation-and-misleading-reliance-constitutional) · [O](core_05defs_integrative.md#trust-degradation-and-misleading-reliance-constitutional) · [A](core_05defs_continuity.md#trust-degradation-and-misleading-reliance-a) · [C](core_05defs_continuity.md#trust-degradation-and-misleading-reliance-c)
+- [Trust](core_05defs_continuity.md#trust) · [O](core_05defs_continuity.md#trust) · [M](core_05defs_continuity.md#trust-a) · [A](core_05defs_continuity.md#trust-a) · [C](core_05defs_continuity.md#trust-c)
+- [Trustworthiness](core_05defs_continuity.md#trustworthiness) · [O](core_05defs_continuity.md#trustworthiness) · [M](core_05defs_continuity.md#trustworthiness-a) · [A](core_05defs_continuity.md#trustworthiness-a) · [C](core_05defs_continuity.md#trustworthiness-c)
+- [Truth (Constitutional Constraint)](core_05defs_oversight.md#truth-constitutional-constraint) · [O](core_05defs_oversight.md#truth-constitutional-constraint-o) · [M](core_05defs_oversight.md#truth-constitutional-constraint-a) · [A](core_05defs_oversight.md#truth-constitutional-constraint-a) · [C](core_05defs_oversight.md#truth-constitutional-constraint-c)
+- [Safety (Constraint)](core_05defs_continuity.md#safety-constraint) · [O](core_05defs_continuity.md#safety-constraint) · [M](core_05defs_continuity.md#safety-constraint-a) · [A](core_05defs_continuity.md#safety-constraint-a) · [C](core_05defs_continuity.md#safety-constraint-c)
+- [Materiality](core_05defs_oversight.md#materiality-determination) · [O](core_05defs_oversight.md#materiality-determination) · [M](core_05defs_oversight.md#materiality-determination-a) · [A](core_05defs_oversight.md#materiality-determination-a) · [C](core_05defs_oversight.md#materiality-determination-c)
+- [Trust Degradation and Misleading Reliance](core_05defs_integrative.md#trust-degradation-and-misleading-reliance-constitutional) · [O](core_05defs_integrative.md#trust-degradation-and-misleading-reliance-constitutional) · [M](core_05defs_continuity.md#trust-degradation-and-misleading-reliance-a) · [A](core_05defs_continuity.md#trust-degradation-and-misleading-reliance-a) · [C](core_05defs_continuity.md#trust-degradation-and-misleading-reliance-c)
 
 </details>
 
@@ -535,11 +535,11 @@ Trust fails when reliance is built or kept through suppression, deception, hidde
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Self-Healing](core_05defs_continuity.md#self-healing-constitutional) · [O](core_05defs_continuity.md#self-healing-constitutional) · [A](core_05defs_continuity.md#self-healing-constitutional-a) · [C](core_05defs_continuity.md#self-healing-constitutional-c)
-- [Cascading Failure](core_05defs_continuity.md#cascading-failure) · [O](core_05defs_continuity.md#cascading-failure) · [A](core_05defs_continuity.md#cascading-failure-a) · [C](core_05defs_continuity.md#cascading-failure-c)
-- [Reversibility](core_05defs_continuity.md#reversibility-constitutional) · [O](core_05defs_continuity.md#reversibility-constitutional) · [A](core_05defs_continuity.md#reversibility-constitutional-a) · [C](core_05defs_continuity.md#reversibility-constitutional-c)
-- [Avoidable Burden](core_05defs_continuity.md#avoidable-burden) · [O](core_05defs_continuity.md#avoidable-burden) · [A](core_05defs_continuity.md#avoidable-burden-a) · [C](core_05defs_continuity.md#avoidable-burden-c)
-- [Incentive Alignment](core_05defs_integrative.md#incentive-alignment) · [O](core_05defs_integrative.md#incentive-alignment) · [A](core_05defs_integrative.md#incentive-alignment) · [C](core_05defs_integrative.md#incentive-alignment)
+- [Self-Healing](core_05defs_continuity.md#self-healing-constitutional) · [O](core_05defs_continuity.md#self-healing-constitutional) · [M](core_05defs_continuity.md#self-healing-constitutional-a) · [A](core_05defs_continuity.md#self-healing-constitutional-a) · [C](core_05defs_continuity.md#self-healing-constitutional-c)
+- [Cascading Failure](core_05defs_continuity.md#cascading-failure) · [O](core_05defs_continuity.md#cascading-failure) · [M](core_05defs_continuity.md#cascading-failure-a) · [A](core_05defs_continuity.md#cascading-failure-a) · [C](core_05defs_continuity.md#cascading-failure-c)
+- [Reversibility](core_05defs_continuity.md#reversibility-constitutional) · [O](core_05defs_continuity.md#reversibility-constitutional) · [M](core_05defs_continuity.md#reversibility-constitutional-a) · [A](core_05defs_continuity.md#reversibility-constitutional-a) · [C](core_05defs_continuity.md#reversibility-constitutional-c)
+- [Avoidable Burden](core_05defs_continuity.md#avoidable-burden) · [O](core_05defs_continuity.md#avoidable-burden) · [M](core_05defs_continuity.md#avoidable-burden-a) · [A](core_05defs_continuity.md#avoidable-burden-a) · [C](core_05defs_continuity.md#avoidable-burden-c)
+- [Incentive Alignment](core_05defs_integrative.md#incentive-alignment) · [O](core_05defs_integrative.md#incentive-alignment) · [M](core_05defs_integrative.md#incentive-alignment) · [A](core_05defs_integrative.md#incentive-alignment) · [C](core_05defs_integrative.md#incentive-alignment)
 
 </details>
 
@@ -581,20 +581,20 @@ Operative detail — recovery detection, containment, safe-failure preference, r
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Freedom (Bounded Agency)](core_05defs_participation.md#freedom-bounded-agency) · [O](core_05defs_participation.md#freedom-bounded-agency) · [A](core_05defs_participation.md#freedom-bounded-agency-a) · [C](core_05defs_participation.md#freedom-bounded-agency-c)
-- [Meaningful Agency](core_05defs_participation.md#meaningful-agency) · [O](core_05defs_accountability.md#meaningful-agency-o) · [A](core_05defs_participation.md#meaningful-agency-a) · [C](core_05defs_participation.md#meaningful-agency-c)
-- [Reproductive Autonomy](core_05defs_participation.md#reproductive-autonomy-constitutional) · [O](core_05defs_participation.md#reproductive-autonomy-constitutional) · [A](core_05defs_participation.md#reproductive-autonomy-constitutional-a) · [C](core_05defs_participation.md#reproductive-autonomy-constitutional-c)
-- [Consent](core_05defs_participation.md#consent-constitutional) · [O](core_05defs_participation.md#consent-constitutional) · [A](core_05defs_participation.md#consent-constitutional-a) · [C](core_05defs_participation.md#consent-constitutional-c)
-- [Coercion and Manipulation](core_05defs_participation.md#coercion-and-manipulation-constitutional) · [O](core_05defs_participation.md#coercion-and-manipulation-constitutional) · [A](core_05defs_participation.md#coercion-and-manipulation-constitutional-a) · [C](core_05defs_participation.md#coercion-and-manipulation-constitutional-c)
-- [Assembly](core_05defs_participation.md#assembly-constitutional) · [O](core_05defs_participation.md#assembly-constitutional) · [A](core_05defs_participation.md#assembly-constitutional-a) · [C](core_05defs_participation.md#assembly-constitutional-c)
-- [Collective Organization](core_05defs_participation.md#collective-organization-constitutional) · [O](core_05defs_participation.md#collective-organization-constitutional) · [A](core_05defs_participation.md#collective-organization-constitutional-a) · [C](core_05defs_participation.md#collective-organization-constitutional-c)
-- [System Creation](core_05defs_participation.md#system-creation-constitutional) · [O](core_05defs_participation.md#system-creation-constitutional) · [A](core_05defs_participation.md#system-creation-constitutional-a) · [C](core_05defs_participation.md#system-creation-constitutional-c)
-- [Business Creation](core_05defs_participation.md#business-creation-constitutional) · [O](core_05defs_participation.md#business-creation-constitutional) · [A](core_05defs_participation.md#business-creation-constitutional-a) · [C](core_05defs_participation.md#business-creation-constitutional-c)
-- [Feasibility](core_05defs_accountability.md#feasibility) · [O](core_05defs_accountability.md#feasibility) · [A](core_05defs_accountability.md#feasibility-a) · [C](core_05defs_accountability.md#feasibility-c)
-- [Necessity](core_05defs_accountability.md#necessity) · [O](core_05defs_accountability.md#necessity) · [A](core_05defs_accountability.md#necessity-a) · [C](core_05defs_accountability.md#necessity-c)
-- [Proportionality](core_05defs_accountability.md#proportionality) · [O](core_05defs_accountability.md#proportionality) · [A](core_05defs_accountability.md#proportionality-a) · [C](core_05defs_accountability.md#proportionality-c)
-- [Harm Minimization (Tradeoff Selection)](core_05defs_accountability.md#harm-minimization-tradeoff-selection) · [O](core_05defs_accountability.md#harm-minimization-tradeoff-selection) · [A](core_05defs_accountability.md#harm-minimization-tradeoff-selection-a) · [C](core_05defs_accountability.md#harm-minimization-tradeoff-selection-c)
-- [Dependency](core_05defs_continuity.md#dependency) · [O](core_05defs_continuity.md#dependency) · [A](core_05defs_continuity.md#dependency-a) · [C](core_05defs_continuity.md#dependency-c)
+- [Freedom (Bounded Agency)](core_05defs_participation.md#freedom-bounded-agency) · [O](core_05defs_participation.md#freedom-bounded-agency) · [M](core_05defs_participation.md#freedom-bounded-agency-a) · [A](core_05defs_participation.md#freedom-bounded-agency-a) · [C](core_05defs_participation.md#freedom-bounded-agency-c)
+- [Meaningful Agency](core_05defs_participation.md#meaningful-agency) · [O](core_05defs_accountability.md#meaningful-agency-o) · [M](core_05defs_participation.md#meaningful-agency-a) · [A](core_05defs_participation.md#meaningful-agency-a) · [C](core_05defs_participation.md#meaningful-agency-c)
+- [Reproductive Autonomy](core_05defs_participation.md#reproductive-autonomy-constitutional) · [O](core_05defs_participation.md#reproductive-autonomy-constitutional) · [M](core_05defs_participation.md#reproductive-autonomy-constitutional-a) · [A](core_05defs_participation.md#reproductive-autonomy-constitutional-a) · [C](core_05defs_participation.md#reproductive-autonomy-constitutional-c)
+- [Consent](core_05defs_participation.md#consent-constitutional) · [O](core_05defs_participation.md#consent-constitutional) · [M](core_05defs_participation.md#consent-constitutional-a) · [A](core_05defs_participation.md#consent-constitutional-a) · [C](core_05defs_participation.md#consent-constitutional-c)
+- [Coercion and Manipulation](core_05defs_participation.md#coercion-and-manipulation-constitutional) · [O](core_05defs_participation.md#coercion-and-manipulation-constitutional) · [M](core_05defs_participation.md#coercion-and-manipulation-constitutional-a) · [A](core_05defs_participation.md#coercion-and-manipulation-constitutional-a) · [C](core_05defs_participation.md#coercion-and-manipulation-constitutional-c)
+- [Assembly](core_05defs_participation.md#assembly-constitutional) · [O](core_05defs_participation.md#assembly-constitutional) · [M](core_05defs_participation.md#assembly-constitutional-a) · [A](core_05defs_participation.md#assembly-constitutional-a) · [C](core_05defs_participation.md#assembly-constitutional-c)
+- [Collective Organization](core_05defs_participation.md#collective-organization-constitutional) · [O](core_05defs_participation.md#collective-organization-constitutional) · [M](core_05defs_participation.md#collective-organization-constitutional-a) · [A](core_05defs_participation.md#collective-organization-constitutional-a) · [C](core_05defs_participation.md#collective-organization-constitutional-c)
+- [System Creation](core_05defs_participation.md#system-creation-constitutional) · [O](core_05defs_participation.md#system-creation-constitutional) · [M](core_05defs_participation.md#system-creation-constitutional-a) · [A](core_05defs_participation.md#system-creation-constitutional-a) · [C](core_05defs_participation.md#system-creation-constitutional-c)
+- [Business Creation](core_05defs_participation.md#business-creation-constitutional) · [O](core_05defs_participation.md#business-creation-constitutional) · [M](core_05defs_participation.md#business-creation-constitutional-a) · [A](core_05defs_participation.md#business-creation-constitutional-a) · [C](core_05defs_participation.md#business-creation-constitutional-c)
+- [Feasibility](core_05defs_accountability.md#feasibility) · [O](core_05defs_accountability.md#feasibility) · [M](core_05defs_accountability.md#feasibility-a) · [A](core_05defs_accountability.md#feasibility-a) · [C](core_05defs_accountability.md#feasibility-c)
+- [Necessity](core_05defs_accountability.md#necessity) · [O](core_05defs_accountability.md#necessity) · [M](core_05defs_accountability.md#necessity-a) · [A](core_05defs_accountability.md#necessity-a) · [C](core_05defs_accountability.md#necessity-c)
+- [Proportionality](core_05defs_accountability.md#proportionality) · [O](core_05defs_accountability.md#proportionality) · [M](core_05defs_accountability.md#proportionality-a) · [A](core_05defs_accountability.md#proportionality-a) · [C](core_05defs_accountability.md#proportionality-c)
+- [Harm Minimization (Tradeoff Selection)](core_05defs_accountability.md#harm-minimization-tradeoff-selection) · [O](core_05defs_accountability.md#harm-minimization-tradeoff-selection) · [M](core_05defs_accountability.md#harm-minimization-tradeoff-selection-a) · [A](core_05defs_accountability.md#harm-minimization-tradeoff-selection-a) · [C](core_05defs_accountability.md#harm-minimization-tradeoff-selection-c)
+- [Dependency](core_05defs_continuity.md#dependency) · [O](core_05defs_continuity.md#dependency) · [M](core_05defs_continuity.md#dependency-a) · [A](core_05defs_continuity.md#dependency-a) · [C](core_05defs_continuity.md#dependency-c)
 
 </details>
 
@@ -615,15 +615,15 @@ Freedom does not include authority to subvert constitutional systems, defeat con
 
 *Scope.* [§5.1 Limitation Discipline](#51-limitation-discipline) — definitions for when freedom may be limited.
 
-- [Freedom (Bounded Agency)](core_05defs_participation.md#freedom-bounded-agency) · [O](core_05defs_participation.md#freedom-bounded-agency) · [A](core_05defs_participation.md#freedom-bounded-agency-a) · [C](core_05defs_participation.md#freedom-bounded-agency-c)
-- [Feasibility](core_05defs_accountability.md#feasibility) · [O](core_05defs_accountability.md#feasibility) · [A](core_05defs_accountability.md#feasibility-a) · [C](core_05defs_accountability.md#feasibility-c)
-- [Necessity](core_05defs_accountability.md#necessity) · [O](core_05defs_accountability.md#necessity) · [A](core_05defs_accountability.md#necessity-a) · [C](core_05defs_accountability.md#necessity-c)
-- [Proportionality](core_05defs_accountability.md#proportionality) · [O](core_05defs_accountability.md#proportionality) · [A](core_05defs_accountability.md#proportionality-a) · [C](core_05defs_accountability.md#proportionality-c)
-- [Harm Minimization (Tradeoff Selection)](core_05defs_accountability.md#harm-minimization-tradeoff-selection) · [O](core_05defs_accountability.md#harm-minimization-tradeoff-selection) · [A](core_05defs_accountability.md#harm-minimization-tradeoff-selection-a) · [C](core_05defs_accountability.md#harm-minimization-tradeoff-selection-c)
-- [Harm](core_05defs_accountability.md#harm) · [O](core_05defs_accountability.md#harm) · [A](core_05defs_accountability.md#harm-a) · [C](core_05defs_accountability.md#harm-c)
-- [Risk](core_05defs_continuity.md#risk) · [O](core_05defs_continuity.md#risk) · [A](core_05defs_continuity.md#risk-a) · [C](core_05defs_continuity.md#risk-c)
-- [Reversibility](core_05defs_continuity.md#reversibility-constitutional) · [O](core_05defs_continuity.md#reversibility-constitutional) · [A](core_05defs_continuity.md#reversibility-constitutional-a) · [C](core_05defs_continuity.md#reversibility-constitutional-c)
-- [Oversight](core_05apex_oversight_leg.md#oversight-constitutional) · [O](core_05apex_oversight_leg.md#oversight-constitutional) · [A](core_05apex_oversight_leg.md#oversight-constitutional-a) · [C](core_05apex_oversight_leg.md#oversight-constitutional-c)
+- [Freedom (Bounded Agency)](core_05defs_participation.md#freedom-bounded-agency) · [O](core_05defs_participation.md#freedom-bounded-agency) · [M](core_05defs_participation.md#freedom-bounded-agency-a) · [A](core_05defs_participation.md#freedom-bounded-agency-a) · [C](core_05defs_participation.md#freedom-bounded-agency-c)
+- [Feasibility](core_05defs_accountability.md#feasibility) · [O](core_05defs_accountability.md#feasibility) · [M](core_05defs_accountability.md#feasibility-a) · [A](core_05defs_accountability.md#feasibility-a) · [C](core_05defs_accountability.md#feasibility-c)
+- [Necessity](core_05defs_accountability.md#necessity) · [O](core_05defs_accountability.md#necessity) · [M](core_05defs_accountability.md#necessity-a) · [A](core_05defs_accountability.md#necessity-a) · [C](core_05defs_accountability.md#necessity-c)
+- [Proportionality](core_05defs_accountability.md#proportionality) · [O](core_05defs_accountability.md#proportionality) · [M](core_05defs_accountability.md#proportionality-a) · [A](core_05defs_accountability.md#proportionality-a) · [C](core_05defs_accountability.md#proportionality-c)
+- [Harm Minimization (Tradeoff Selection)](core_05defs_accountability.md#harm-minimization-tradeoff-selection) · [O](core_05defs_accountability.md#harm-minimization-tradeoff-selection) · [M](core_05defs_accountability.md#harm-minimization-tradeoff-selection-a) · [A](core_05defs_accountability.md#harm-minimization-tradeoff-selection-a) · [C](core_05defs_accountability.md#harm-minimization-tradeoff-selection-c)
+- [Harm](core_05defs_accountability.md#harm) · [O](core_05defs_accountability.md#harm) · [M](core_05defs_accountability.md#harm-a) · [A](core_05defs_accountability.md#harm-a) · [C](core_05defs_accountability.md#harm-c)
+- [Risk](core_05defs_continuity.md#risk) · [O](core_05defs_continuity.md#risk) · [M](core_05defs_continuity.md#risk-a) · [A](core_05defs_continuity.md#risk-a) · [C](core_05defs_continuity.md#risk-c)
+- [Reversibility](core_05defs_continuity.md#reversibility-constitutional) · [O](core_05defs_continuity.md#reversibility-constitutional) · [M](core_05defs_continuity.md#reversibility-constitutional-a) · [A](core_05defs_continuity.md#reversibility-constitutional-a) · [C](core_05defs_continuity.md#reversibility-constitutional-c)
+- [Oversight](core_05apex_oversight_leg.md#oversight-constitutional) · [O](core_05apex_oversight_leg.md#oversight-constitutional) · [M](core_05apex_oversight_leg.md#oversight-constitutional-m) · [A](core_05apex_oversight_leg.md#oversight-constitutional-a) · [C](core_05apex_oversight_leg.md#oversight-constitutional-c)
 
 </details>
 
@@ -646,10 +646,10 @@ When freedom limits collide with other constitutional values or rights, apply [�
 
 *Definition home.* Chapter Five [Voluntary Discontinuation](core_05defs_continuity.md#voluntary-discontinuation-constitutional) is an Independent Definition in §1. Read with Chapter Five §2 _Agency, consent, and anti-coercion_.
 
-- [Voluntary Discontinuation](core_05defs_continuity.md#voluntary-discontinuation-constitutional) · [O](core_05defs_continuity.md#voluntary-discontinuation-constitutional) · [A](core_05defs_continuity.md#voluntary-discontinuation-constitutional-a) · [C](core_05defs_continuity.md#voluntary-discontinuation-constitutional-c)
-- [Consent](core_05defs_participation.md#consent-constitutional) · [O](core_05defs_participation.md#consent-constitutional) · [A](core_05defs_participation.md#consent-constitutional-a) · [C](core_05defs_participation.md#consent-constitutional-c)
-- [Coercion and Manipulation](core_05defs_participation.md#coercion-and-manipulation-constitutional) · [O](core_05defs_participation.md#coercion-and-manipulation-constitutional) · [A](core_05defs_participation.md#coercion-and-manipulation-constitutional-a) · [C](core_05defs_participation.md#coercion-and-manipulation-constitutional-c)
-- [Dependency](core_05defs_continuity.md#dependency) · [O](core_05defs_continuity.md#dependency) · [A](core_05defs_continuity.md#dependency-a) · [C](core_05defs_continuity.md#dependency-c)
+- [Voluntary Discontinuation](core_05defs_continuity.md#voluntary-discontinuation-constitutional) · [O](core_05defs_continuity.md#voluntary-discontinuation-constitutional) · [M](core_05defs_continuity.md#voluntary-discontinuation-constitutional-a) · [A](core_05defs_continuity.md#voluntary-discontinuation-constitutional-a) · [C](core_05defs_continuity.md#voluntary-discontinuation-constitutional-c)
+- [Consent](core_05defs_participation.md#consent-constitutional) · [O](core_05defs_participation.md#consent-constitutional) · [M](core_05defs_participation.md#consent-constitutional-a) · [A](core_05defs_participation.md#consent-constitutional-a) · [C](core_05defs_participation.md#consent-constitutional-c)
+- [Coercion and Manipulation](core_05defs_participation.md#coercion-and-manipulation-constitutional) · [O](core_05defs_participation.md#coercion-and-manipulation-constitutional) · [M](core_05defs_participation.md#coercion-and-manipulation-constitutional-a) · [A](core_05defs_participation.md#coercion-and-manipulation-constitutional-a) · [C](core_05defs_participation.md#coercion-and-manipulation-constitutional-c)
+- [Dependency](core_05defs_continuity.md#dependency) · [O](core_05defs_continuity.md#dependency) · [M](core_05defs_continuity.md#dependency-a) · [A](core_05defs_continuity.md#dependency-a) · [C](core_05defs_continuity.md#dependency-c)
 
 </details>
 
@@ -674,10 +674,10 @@ Whole-system evaluations must test these conditions under [Chapter Seven §16.4 
 
 *Definition home.* Chapter Five [§3.5 Assembly, Collective Organization, and Institutional Formation](core_05defs_participation.md#assembly-collective-organization-institutional-formation-cluster) is the cluster-head home. Read with **Article V-H** (*Expression, Assembly, and Press*) (assembly), **Article III-D** (*Labor and Economic Floor*) (collective organization within the labor and economic floor), and [§9.5 Aligned Self-Organization](core_01_c_stewardship_capacity_principles.md#95-aligned-self-organization) (the procedural path for sentient-initiated and community-initiated constitutional stewardship).
 
-- [Assembly](core_05defs_participation.md#assembly-constitutional) · [O](core_05defs_participation.md#assembly-constitutional) · [A](core_05defs_participation.md#assembly-constitutional-a) · [C](core_05defs_participation.md#assembly-constitutional-c)
-- [Collective Organization](core_05defs_participation.md#collective-organization-constitutional) · [O](core_05defs_participation.md#collective-organization-constitutional) · [A](core_05defs_participation.md#collective-organization-constitutional-a) · [C](core_05defs_participation.md#collective-organization-constitutional-c)
-- [System Creation](core_05defs_participation.md#system-creation-constitutional) · [O](core_05defs_participation.md#system-creation-constitutional) · [A](core_05defs_participation.md#system-creation-constitutional-a) · [C](core_05defs_participation.md#system-creation-constitutional-c)
-- [Business Creation](core_05defs_participation.md#business-creation-constitutional) · [O](core_05defs_participation.md#business-creation-constitutional) · [A](core_05defs_participation.md#business-creation-constitutional-a) · [C](core_05defs_participation.md#business-creation-constitutional-c)
+- [Assembly](core_05defs_participation.md#assembly-constitutional) · [O](core_05defs_participation.md#assembly-constitutional) · [M](core_05defs_participation.md#assembly-constitutional-a) · [A](core_05defs_participation.md#assembly-constitutional-a) · [C](core_05defs_participation.md#assembly-constitutional-c)
+- [Collective Organization](core_05defs_participation.md#collective-organization-constitutional) · [O](core_05defs_participation.md#collective-organization-constitutional) · [M](core_05defs_participation.md#collective-organization-constitutional-a) · [A](core_05defs_participation.md#collective-organization-constitutional-a) · [C](core_05defs_participation.md#collective-organization-constitutional-c)
+- [System Creation](core_05defs_participation.md#system-creation-constitutional) · [O](core_05defs_participation.md#system-creation-constitutional) · [M](core_05defs_participation.md#system-creation-constitutional-a) · [A](core_05defs_participation.md#system-creation-constitutional-a) · [C](core_05defs_participation.md#system-creation-constitutional-c)
+- [Business Creation](core_05defs_participation.md#business-creation-constitutional) · [O](core_05defs_participation.md#business-creation-constitutional) · [M](core_05defs_participation.md#business-creation-constitutional-a) · [A](core_05defs_participation.md#business-creation-constitutional-a) · [C](core_05defs_participation.md#business-creation-constitutional-c)
 
 </details>
 

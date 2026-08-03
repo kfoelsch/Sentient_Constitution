@@ -11,13 +11,13 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Contestability](../core_05defs_accountability.md#contestability) · [O](../core_05defs_accountability.md#contestability) · [A](../core_05defs_accountability.md#contestability-a) · [C](../core_05defs_accountability.md#contestability-c)
-- [Transparency](../core_05defs_oversight.md#transparency) · [O](../core_05defs_oversight.md#transparency) · [A](../core_05defs_oversight.md#transparency-a) · [C](../core_05defs_oversight.md#transparency-c)
-- [Dependency](../core_05defs_continuity.md#dependency) · [O](../core_05defs_continuity.md#dependency) · [A](../core_05defs_continuity.md#dependency-a) · [C](../core_05defs_continuity.md#dependency-c)
-- [Governance](../core_05defs_accountability.md#governance) · [O](../core_05defs_accountability.md#governance) · [A](../core_05defs_accountability.md#governance-a) · [C](../core_05defs_accountability.md#governance-c)
-- [Corpus](../core_05defs_integrative.md#corpus) · [O](../core_05defs_integrative.md#corpus) · [A](../core_05defs_integrative.md#corpus-a) · [C](../core_05defs_integrative.md#corpus-c)
-- [Coercion and Manipulation](../core_05defs_participation.md#coercion-and-manipulation-constitutional) · [O](../core_05defs_participation.md#coercion-and-manipulation-constitutional) · [A](../core_05defs_participation.md#coercion-and-manipulation-constitutional-a) · [C](../core_05defs_participation.md#coercion-and-manipulation-constitutional-c)
-- [Meaningful Agency](../core_05defs_participation.md#meaningful-agency) · [O](../core_05defs_participation.md#meaningful-agency) · [A](../core_05defs_participation.md#meaningful-agency-a) · [C](../core_05defs_participation.md#meaningful-agency-c)
+- [Contestability](../core_05defs_accountability.md#contestability) · [O](../core_05defs_accountability.md#contestability) · [M](../core_05defs_accountability.md#contestability-a) · [A](../core_05defs_accountability.md#contestability-a) · [C](../core_05defs_accountability.md#contestability-c)
+- [Transparency](../core_05defs_oversight.md#transparency) · [O](../core_05defs_oversight.md#transparency) · [M](../core_05defs_oversight.md#transparency-a) · [A](../core_05defs_oversight.md#transparency-a) · [C](../core_05defs_oversight.md#transparency-c)
+- [Dependency](../core_05defs_continuity.md#dependency) · [O](../core_05defs_continuity.md#dependency) · [M](../core_05defs_continuity.md#dependency-a) · [A](../core_05defs_continuity.md#dependency-a) · [C](../core_05defs_continuity.md#dependency-c)
+- [Governance](../core_05defs_accountability.md#governance) · [O](../core_05defs_accountability.md#governance) · [M](../core_05defs_accountability.md#governance-a) · [A](../core_05defs_accountability.md#governance-a) · [C](../core_05defs_accountability.md#governance-c)
+- [Corpus](../core_05defs_integrative.md#corpus) · [O](../core_05defs_integrative.md#corpus) · [M](../core_05defs_integrative.md#corpus-a) · [A](../core_05defs_integrative.md#corpus-a) · [C](../core_05defs_integrative.md#corpus-c)
+- [Coercion and Manipulation](../core_05defs_participation.md#coercion-and-manipulation-constitutional) · [O](../core_05defs_participation.md#coercion-and-manipulation-constitutional) · [M](../core_05defs_participation.md#coercion-and-manipulation-constitutional-a) · [A](../core_05defs_participation.md#coercion-and-manipulation-constitutional-a) · [C](../core_05defs_participation.md#coercion-and-manipulation-constitutional-c)
+- [Meaningful Agency](../core_05defs_participation.md#meaningful-agency) · [O](../core_05defs_participation.md#meaningful-agency) · [M](../core_05defs_participation.md#meaningful-agency-a) · [A](../core_05defs_participation.md#meaningful-agency-a) · [C](../core_05defs_participation.md#meaningful-agency-c)
 
 </details>
 

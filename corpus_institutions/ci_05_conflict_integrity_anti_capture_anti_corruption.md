@@ -14,13 +14,13 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Capture of Resolution Pathways](../core_05defs_accountability.md#capture-of-resolution-pathways) · [O](../core_05defs_accountability.md#capture-of-resolution-pathways) · [A](../core_05defs_accountability.md#capture-of-resolution-pathways-a) · [C](../core_05defs_accountability.md#capture-of-resolution-pathways-c)
-- [Event-Contract Market](../core_05defs_accountability.md#event-contract-market) · [O](../core_05defs_accountability.md#event-contract-market) · [A](../core_05defs_accountability.md#event-contract-market-a) · [C](../core_05defs_accountability.md#event-contract-market-c)
-- [Evidence Preservation](../core_05defs_oversight.md#evidence-preservation) · [O](../core_05defs_oversight.md#evidence-preservation) · [A](../core_05defs_oversight.md#evidence-preservation-a) · [C](../core_05defs_oversight.md#evidence-preservation-c)
-- [Incentive Alignment](../core_05defs_integrative.md#incentive-alignment) · [O](../core_05defs_integrative.md#incentive-alignment) · [A](../core_05defs_integrative.md#incentive-alignment-a) · [C](../core_05defs_integrative.md#incentive-alignment-c)
-- [Contingent Claim](../core_05defs_accountability.md#contingent-claim) · [O](../core_05defs_accountability.md#contingent-claim) · [A](../core_05defs_accountability.md#contingent-claim-a) · [C](../core_05defs_accountability.md#contingent-claim-c)
-- [Accountability](../core_05apex_accountability_leg.md#accountability) · [O](../core_05apex_accountability_leg.md#accountability) · [A](../core_05apex_accountability_leg.md#accountability-a) · [C](../core_05apex_accountability_leg.md#accountability-c)
-- [Contestability](../core_05defs_accountability.md#contestability) · [O](../core_05defs_accountability.md#contestability) · [A](../core_05defs_accountability.md#contestability-a) · [C](../core_05defs_accountability.md#contestability-c)
+- [Capture of Resolution Pathways](../core_05defs_accountability.md#capture-of-resolution-pathways) · [O](../core_05defs_accountability.md#capture-of-resolution-pathways) · [M](../core_05defs_accountability.md#capture-of-resolution-pathways-a) · [A](../core_05defs_accountability.md#capture-of-resolution-pathways-a) · [C](../core_05defs_accountability.md#capture-of-resolution-pathways-c)
+- [Event-Contract Market](../core_05defs_accountability.md#event-contract-market) · [O](../core_05defs_accountability.md#event-contract-market) · [M](../core_05defs_accountability.md#event-contract-market-a) · [A](../core_05defs_accountability.md#event-contract-market-a) · [C](../core_05defs_accountability.md#event-contract-market-c)
+- [Evidence Preservation](../core_05defs_oversight.md#evidence-preservation) · [O](../core_05defs_oversight.md#evidence-preservation) · [M](../core_05defs_oversight.md#evidence-preservation-a) · [A](../core_05defs_oversight.md#evidence-preservation-a) · [C](../core_05defs_oversight.md#evidence-preservation-c)
+- [Incentive Alignment](../core_05defs_integrative.md#incentive-alignment) · [O](../core_05defs_integrative.md#incentive-alignment) · [M](../core_05defs_integrative.md#incentive-alignment-a) · [A](../core_05defs_integrative.md#incentive-alignment-a) · [C](../core_05defs_integrative.md#incentive-alignment-c)
+- [Contingent Claim](../core_05defs_accountability.md#contingent-claim) · [O](../core_05defs_accountability.md#contingent-claim) · [M](../core_05defs_accountability.md#contingent-claim-a) · [A](../core_05defs_accountability.md#contingent-claim-a) · [C](../core_05defs_accountability.md#contingent-claim-c)
+- [Accountability](../core_05apex_accountability_leg.md#accountability) · [O](../core_05apex_accountability_leg.md#accountability) · [M](../core_05apex_accountability_leg.md#accountability-m) · [A](../core_05apex_accountability_leg.md#accountability-a) · [C](../core_05apex_accountability_leg.md#accountability-c)
+- [Contestability](../core_05defs_accountability.md#contestability) · [O](../core_05defs_accountability.md#contestability) · [M](../core_05defs_accountability.md#contestability-a) · [A](../core_05defs_accountability.md#contestability-a) · [C](../core_05defs_accountability.md#contestability-c)
 
 </details>
 
@@ -48,10 +48,10 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [System Capture](../core_05defs_continuity.md#system-capture) · [O](../core_05defs_continuity.md#system-capture) · [A](../core_05defs_continuity.md#system-capture-a) · [C](../core_05defs_continuity.md#system-capture-c)
-- [Incentive Alignment](../core_05defs_integrative.md#incentive-alignment) · [O](../core_05defs_integrative.md#incentive-alignment) · [A](../core_05defs_integrative.md#incentive-alignment-a) · [C](../core_05defs_integrative.md#incentive-alignment-c)
-- [Capture of Resolution Pathways](../core_05defs_accountability.md#capture-of-resolution-pathways) · [O](../core_05defs_accountability.md#capture-of-resolution-pathways) · [A](../core_05defs_accountability.md#capture-of-resolution-pathways-a) · [C](../core_05defs_accountability.md#capture-of-resolution-pathways-c)
-- [Contestability](../core_05defs_accountability.md#contestability) · [O](../core_05defs_accountability.md#contestability) · [A](../core_05defs_accountability.md#contestability-a) · [C](../core_05defs_accountability.md#contestability-c)
+- [System Capture](../core_05defs_continuity.md#system-capture) · [O](../core_05defs_continuity.md#system-capture) · [M](../core_05defs_continuity.md#system-capture-a) · [A](../core_05defs_continuity.md#system-capture-a) · [C](../core_05defs_continuity.md#system-capture-c)
+- [Incentive Alignment](../core_05defs_integrative.md#incentive-alignment) · [O](../core_05defs_integrative.md#incentive-alignment) · [M](../core_05defs_integrative.md#incentive-alignment-a) · [A](../core_05defs_integrative.md#incentive-alignment-a) · [C](../core_05defs_integrative.md#incentive-alignment-c)
+- [Capture of Resolution Pathways](../core_05defs_accountability.md#capture-of-resolution-pathways) · [O](../core_05defs_accountability.md#capture-of-resolution-pathways) · [M](../core_05defs_accountability.md#capture-of-resolution-pathways-a) · [A](../core_05defs_accountability.md#capture-of-resolution-pathways-a) · [C](../core_05defs_accountability.md#capture-of-resolution-pathways-c)
+- [Contestability](../core_05defs_accountability.md#contestability) · [O](../core_05defs_accountability.md#contestability) · [M](../core_05defs_accountability.md#contestability-a) · [A](../core_05defs_accountability.md#contestability-a) · [C](../core_05defs_accountability.md#contestability-c)
 
 </details>
 
@@ -75,11 +75,11 @@ Apply **CJS-5.6** **Shared anti-capture control stack** and **Sortition and civi
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Accountability](../core_05apex_accountability_leg.md#accountability) · [O](../core_05apex_accountability_leg.md#accountability) · [A](../core_05apex_accountability_leg.md#accountability-a) · [C](../core_05apex_accountability_leg.md#accountability-c)
-- [Contingent Claim](../core_05defs_accountability.md#contingent-claim) · [O](../core_05defs_accountability.md#contingent-claim) · [A](../core_05defs_accountability.md#contingent-claim-a) · [C](../core_05defs_accountability.md#contingent-claim-c)
-- [Event-Contract Market](../core_05defs_accountability.md#event-contract-market) · [O](../core_05defs_accountability.md#event-contract-market) · [A](../core_05defs_accountability.md#event-contract-market-a) · [C](../core_05defs_accountability.md#event-contract-market-c)
-- [Evidence Preservation](../core_05defs_oversight.md#evidence-preservation) · [O](../core_05defs_oversight.md#evidence-preservation) · [A](../core_05defs_oversight.md#evidence-preservation-a) · [C](../core_05defs_oversight.md#evidence-preservation-c)
-- [Contestability](../core_05defs_accountability.md#contestability) · [O](../core_05defs_accountability.md#contestability) · [A](../core_05defs_accountability.md#contestability-a) · [C](../core_05defs_accountability.md#contestability-c)
+- [Accountability](../core_05apex_accountability_leg.md#accountability) · [O](../core_05apex_accountability_leg.md#accountability) · [M](../core_05apex_accountability_leg.md#accountability-m) · [A](../core_05apex_accountability_leg.md#accountability-a) · [C](../core_05apex_accountability_leg.md#accountability-c)
+- [Contingent Claim](../core_05defs_accountability.md#contingent-claim) · [O](../core_05defs_accountability.md#contingent-claim) · [M](../core_05defs_accountability.md#contingent-claim-a) · [A](../core_05defs_accountability.md#contingent-claim-a) · [C](../core_05defs_accountability.md#contingent-claim-c)
+- [Event-Contract Market](../core_05defs_accountability.md#event-contract-market) · [O](../core_05defs_accountability.md#event-contract-market) · [M](../core_05defs_accountability.md#event-contract-market-a) · [A](../core_05defs_accountability.md#event-contract-market-a) · [C](../core_05defs_accountability.md#event-contract-market-c)
+- [Evidence Preservation](../core_05defs_oversight.md#evidence-preservation) · [O](../core_05defs_oversight.md#evidence-preservation) · [M](../core_05defs_oversight.md#evidence-preservation-a) · [A](../core_05defs_oversight.md#evidence-preservation-a) · [C](../core_05defs_oversight.md#evidence-preservation-c)
+- [Contestability](../core_05defs_accountability.md#contestability) · [O](../core_05defs_accountability.md#contestability) · [M](../core_05defs_accountability.md#contestability-a) · [A](../core_05defs_accountability.md#contestability-a) · [C](../core_05defs_accountability.md#contestability-c)
 
 </details>
 
@@ -113,13 +113,13 @@ Each institution must also name:
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Accountability](../core_05apex_accountability_leg.md#accountability) · [O](../core_05apex_accountability_leg.md#accountability) · [A](../core_05apex_accountability_leg.md#accountability-a) · [C](../core_05apex_accountability_leg.md#accountability-c)
-- [Contestability](../core_05defs_accountability.md#contestability) · [O](../core_05defs_accountability.md#contestability) · [A](../core_05defs_accountability.md#contestability-a) · [C](../core_05defs_accountability.md#contestability-c)
-- [Oversight](../core_05apex_oversight_leg.md#oversight-constitutional) · [O](../core_05apex_oversight_leg.md#oversight-constitutional) · [A](../core_05apex_oversight_leg.md#oversight-constitutional-a) · [C](../core_05apex_oversight_leg.md#oversight-constitutional-c)
-- [Material](../core_05defs_oversight.md#material) · [O](../core_05defs_oversight.md#material) · [A](../core_05defs_oversight.md#material-a) · [C](../core_05defs_oversight.md#material-c)
-- [Corpus](../core_05defs_integrative.md#corpus) · [O](../core_05defs_integrative.md#corpus) · [A](../core_05defs_integrative.md#corpus-a) · [C](../core_05defs_integrative.md#corpus-c)
-- [System Capture](../core_05defs_continuity.md#system-capture) · [O](../core_05defs_continuity.md#system-capture) · [A](../core_05defs_continuity.md#system-capture-a) · [C](../core_05defs_continuity.md#system-capture-c)
-- [Incentive Alignment](../core_05defs_integrative.md#incentive-alignment) · [O](../core_05defs_integrative.md#incentive-alignment) · [A](../core_05defs_integrative.md#incentive-alignment-a) · [C](../core_05defs_integrative.md#incentive-alignment-c)
+- [Accountability](../core_05apex_accountability_leg.md#accountability) · [O](../core_05apex_accountability_leg.md#accountability) · [M](../core_05apex_accountability_leg.md#accountability-m) · [A](../core_05apex_accountability_leg.md#accountability-a) · [C](../core_05apex_accountability_leg.md#accountability-c)
+- [Contestability](../core_05defs_accountability.md#contestability) · [O](../core_05defs_accountability.md#contestability) · [M](../core_05defs_accountability.md#contestability-a) · [A](../core_05defs_accountability.md#contestability-a) · [C](../core_05defs_accountability.md#contestability-c)
+- [Oversight](../core_05apex_oversight_leg.md#oversight-constitutional) · [O](../core_05apex_oversight_leg.md#oversight-constitutional) · [M](../core_05apex_oversight_leg.md#oversight-constitutional-m) · [A](../core_05apex_oversight_leg.md#oversight-constitutional-a) · [C](../core_05apex_oversight_leg.md#oversight-constitutional-c)
+- [Material](../core_05defs_oversight.md#material) · [O](../core_05defs_oversight.md#material) · [M](../core_05defs_oversight.md#material-a) · [A](../core_05defs_oversight.md#material-a) · [C](../core_05defs_oversight.md#material-c)
+- [Corpus](../core_05defs_integrative.md#corpus) · [O](../core_05defs_integrative.md#corpus) · [M](../core_05defs_integrative.md#corpus-a) · [A](../core_05defs_integrative.md#corpus-a) · [C](../core_05defs_integrative.md#corpus-c)
+- [System Capture](../core_05defs_continuity.md#system-capture) · [O](../core_05defs_continuity.md#system-capture) · [M](../core_05defs_continuity.md#system-capture-a) · [A](../core_05defs_continuity.md#system-capture-a) · [C](../core_05defs_continuity.md#system-capture-c)
+- [Incentive Alignment](../core_05defs_integrative.md#incentive-alignment) · [O](../core_05defs_integrative.md#incentive-alignment) · [M](../core_05defs_integrative.md#incentive-alignment-a) · [A](../core_05defs_integrative.md#incentive-alignment-a) · [C](../core_05defs_integrative.md#incentive-alignment-c)
 
 </details>
 

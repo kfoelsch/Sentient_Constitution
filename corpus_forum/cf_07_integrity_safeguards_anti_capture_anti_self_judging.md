@@ -14,13 +14,13 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Adjudication and Dispute Resolution](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [A](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [C](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-c)
-- [Reasonably Foreseeable](../core_05defs_oversight.md#reasonably-foreseeable) · [O](../core_05defs_oversight.md#reasonably-foreseeable) · [A](../core_05defs_oversight.md#reasonably-foreseeable-a) · [C](../core_05defs_oversight.md#reasonably-foreseeable-c)
-- [Accountability](../core_05apex_accountability_leg.md#accountability) · [O](../core_05apex_accountability_leg.md#accountability) · [A](../core_05apex_accountability_leg.md#accountability-a) · [C](../core_05apex_accountability_leg.md#accountability-c)
-- [Contestability](../core_05defs_accountability.md#contestability) · [O](../core_05defs_accountability.md#contestability) · [A](../core_05defs_accountability.md#contestability-a) · [C](../core_05defs_accountability.md#contestability-c)
-- [Accessibility](../core_05defs_participation.md#accessibility-constitutional) · [O](../core_05defs_participation.md#accessibility-constitutional) · [A](../core_05defs_participation.md#accessibility-constitutional-a) · [C](../core_05defs_participation.md#accessibility-constitutional-c)
-- [Info-Sphere](../core_05defs_participation.md#info-sphere) · [O](../core_05defs_participation.md#info-sphere) · [A](../core_05defs_participation.md#info-sphere-a) · [C](../core_05defs_participation.md#info-sphere-c)
-- [Stakeholder](../core_05defs_participation.md#stakeholder) · [O](../core_05defs_participation.md#stakeholder) · [A](../core_05defs_participation.md#stakeholder-a) · [C](../core_05defs_participation.md#stakeholder-c)
+- [Adjudication and Dispute Resolution](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [M](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [A](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [C](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-c)
+- [Reasonably Foreseeable](../core_05defs_oversight.md#reasonably-foreseeable) · [O](../core_05defs_oversight.md#reasonably-foreseeable) · [M](../core_05defs_oversight.md#reasonably-foreseeable-a) · [A](../core_05defs_oversight.md#reasonably-foreseeable-a) · [C](../core_05defs_oversight.md#reasonably-foreseeable-c)
+- [Accountability](../core_05apex_accountability_leg.md#accountability) · [O](../core_05apex_accountability_leg.md#accountability) · [M](../core_05apex_accountability_leg.md#accountability-m) · [A](../core_05apex_accountability_leg.md#accountability-a) · [C](../core_05apex_accountability_leg.md#accountability-c)
+- [Contestability](../core_05defs_accountability.md#contestability) · [O](../core_05defs_accountability.md#contestability) · [M](../core_05defs_accountability.md#contestability-a) · [A](../core_05defs_accountability.md#contestability-a) · [C](../core_05defs_accountability.md#contestability-c)
+- [Accessibility](../core_05defs_participation.md#accessibility-constitutional) · [O](../core_05defs_participation.md#accessibility-constitutional) · [M](../core_05defs_participation.md#accessibility-constitutional-a) · [A](../core_05defs_participation.md#accessibility-constitutional-a) · [C](../core_05defs_participation.md#accessibility-constitutional-c)
+- [Info-Sphere](../core_05defs_participation.md#info-sphere) · [O](../core_05defs_participation.md#info-sphere) · [M](../core_05defs_participation.md#info-sphere-a) · [A](../core_05defs_participation.md#info-sphere-a) · [C](../core_05defs_participation.md#info-sphere-c)
+- [Stakeholder](../core_05defs_participation.md#stakeholder) · [O](../core_05defs_participation.md#stakeholder) · [M](../core_05defs_participation.md#stakeholder-a) · [A](../core_05defs_participation.md#stakeholder-a) · [C](../core_05defs_participation.md#stakeholder-c)
 
 </details>
 
@@ -46,13 +46,13 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Accountability](../core_05apex_accountability_leg.md#accountability) · [O](../core_05apex_accountability_leg.md#accountability) · [A](../core_05apex_accountability_leg.md#accountability-a) · [C](../core_05apex_accountability_leg.md#accountability-c)
-- [Dependency](../core_05defs_continuity.md#dependency) · [O](../core_05defs_continuity.md#dependency) · [A](../core_05defs_continuity.md#dependency-a) · [C](../core_05defs_continuity.md#dependency-c)
-- [Material](../core_05defs_oversight.md#material) · [O](../core_05defs_oversight.md#material) · [A](../core_05defs_oversight.md#material-a) · [C](../core_05defs_oversight.md#material-c)
-- [Corpus](../core_05defs_integrative.md#corpus) · [O](../core_05defs_integrative.md#corpus) · [A](../core_05defs_integrative.md#corpus-a) · [C](../core_05defs_integrative.md#corpus-c)
-- [System](../core_05defs_continuity.md#system-definition) · [O](../core_05defs_continuity.md#system-definition) · [A](../core_05defs_continuity.md#system-definition-a) · [C](../core_05defs_continuity.md#system-definition-c)
-- [Adjudication and Dispute Resolution](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [A](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [C](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-c)
-- [Accessibility](../core_05defs_participation.md#accessibility-constitutional) · [O](../core_05defs_participation.md#accessibility-constitutional) · [A](../core_05defs_participation.md#accessibility-constitutional-a) · [C](../core_05defs_participation.md#accessibility-constitutional-c)
+- [Accountability](../core_05apex_accountability_leg.md#accountability) · [O](../core_05apex_accountability_leg.md#accountability) · [M](../core_05apex_accountability_leg.md#accountability-m) · [A](../core_05apex_accountability_leg.md#accountability-a) · [C](../core_05apex_accountability_leg.md#accountability-c)
+- [Dependency](../core_05defs_continuity.md#dependency) · [O](../core_05defs_continuity.md#dependency) · [M](../core_05defs_continuity.md#dependency-a) · [A](../core_05defs_continuity.md#dependency-a) · [C](../core_05defs_continuity.md#dependency-c)
+- [Material](../core_05defs_oversight.md#material) · [O](../core_05defs_oversight.md#material) · [M](../core_05defs_oversight.md#material-a) · [A](../core_05defs_oversight.md#material-a) · [C](../core_05defs_oversight.md#material-c)
+- [Corpus](../core_05defs_integrative.md#corpus) · [O](../core_05defs_integrative.md#corpus) · [M](../core_05defs_integrative.md#corpus-a) · [A](../core_05defs_integrative.md#corpus-a) · [C](../core_05defs_integrative.md#corpus-c)
+- [System](../core_05defs_continuity.md#system-definition) · [O](../core_05defs_continuity.md#system-definition) · [M](../core_05defs_continuity.md#system-definition-a) · [A](../core_05defs_continuity.md#system-definition-a) · [C](../core_05defs_continuity.md#system-definition-c)
+- [Adjudication and Dispute Resolution](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [M](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [A](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [C](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-c)
+- [Accessibility](../core_05defs_participation.md#accessibility-constitutional) · [O](../core_05defs_participation.md#accessibility-constitutional) · [M](../core_05defs_participation.md#accessibility-constitutional-a) · [A](../core_05defs_participation.md#accessibility-constitutional-a) · [C](../core_05defs_participation.md#accessibility-constitutional-c)
 
 </details>
 
@@ -74,13 +74,13 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Material](../core_05defs_oversight.md#material) · [O](../core_05defs_oversight.md#material) · [A](../core_05defs_oversight.md#material-a) · [C](../core_05defs_oversight.md#material-c)
-- [System](../core_05defs_continuity.md#system-definition) · [O](../core_05defs_continuity.md#system-definition) · [A](../core_05defs_continuity.md#system-definition-a) · [C](../core_05defs_continuity.md#system-definition-c)
-- [System Capture](../core_05defs_continuity.md#system-capture) · [O](../core_05defs_continuity.md#system-capture) · [A](../core_05defs_continuity.md#system-capture-a) · [C](../core_05defs_continuity.md#system-capture-c)
-- [Incentive Alignment](../core_05defs_integrative.md#incentive-alignment) · [O](../core_05defs_integrative.md#incentive-alignment) · [A](../core_05defs_integrative.md#incentive-alignment-a) · [C](../core_05defs_integrative.md#incentive-alignment-c)
-- [Oversight](../core_05apex_oversight_leg.md#oversight-constitutional) · [O](../core_05apex_oversight_leg.md#oversight-constitutional) · [A](../core_05apex_oversight_leg.md#oversight-constitutional-a) · [C](../core_05apex_oversight_leg.md#oversight-constitutional-c)
-- [Adjudication and Dispute Resolution](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [A](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [C](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-c)
-- [Unified Incident Record](../core_05defs_accountability.md#unified-incident-record) · [O](../core_05defs_accountability.md#unified-incident-record) · [A](../core_05defs_accountability.md#unified-incident-record-a) · [C](../core_05defs_accountability.md#unified-incident-record-c)
+- [Material](../core_05defs_oversight.md#material) · [O](../core_05defs_oversight.md#material) · [M](../core_05defs_oversight.md#material-a) · [A](../core_05defs_oversight.md#material-a) · [C](../core_05defs_oversight.md#material-c)
+- [System](../core_05defs_continuity.md#system-definition) · [O](../core_05defs_continuity.md#system-definition) · [M](../core_05defs_continuity.md#system-definition-a) · [A](../core_05defs_continuity.md#system-definition-a) · [C](../core_05defs_continuity.md#system-definition-c)
+- [System Capture](../core_05defs_continuity.md#system-capture) · [O](../core_05defs_continuity.md#system-capture) · [M](../core_05defs_continuity.md#system-capture-a) · [A](../core_05defs_continuity.md#system-capture-a) · [C](../core_05defs_continuity.md#system-capture-c)
+- [Incentive Alignment](../core_05defs_integrative.md#incentive-alignment) · [O](../core_05defs_integrative.md#incentive-alignment) · [M](../core_05defs_integrative.md#incentive-alignment-a) · [A](../core_05defs_integrative.md#incentive-alignment-a) · [C](../core_05defs_integrative.md#incentive-alignment-c)
+- [Oversight](../core_05apex_oversight_leg.md#oversight-constitutional) · [O](../core_05apex_oversight_leg.md#oversight-constitutional) · [M](../core_05apex_oversight_leg.md#oversight-constitutional-m) · [A](../core_05apex_oversight_leg.md#oversight-constitutional-a) · [C](../core_05apex_oversight_leg.md#oversight-constitutional-c)
+- [Adjudication and Dispute Resolution](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [M](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [A](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [C](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-c)
+- [Unified Incident Record](../core_05defs_accountability.md#unified-incident-record) · [O](../core_05defs_accountability.md#unified-incident-record) · [M](../core_05defs_accountability.md#unified-incident-record-a) · [A](../core_05defs_accountability.md#unified-incident-record-a) · [C](../core_05defs_accountability.md#unified-incident-record-c)
 
 </details>
 
@@ -108,11 +108,11 @@ An alignment ruling must be attributable and reviewable. At minimum, the record 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Dependency](../core_05defs_continuity.md#dependency) · [O](../core_05defs_continuity.md#dependency) · [A](../core_05defs_continuity.md#dependency-a) · [C](../core_05defs_continuity.md#dependency-c)
-- [System Capture](../core_05defs_continuity.md#system-capture) · [O](../core_05defs_continuity.md#system-capture) · [A](../core_05defs_continuity.md#system-capture-a) · [C](../core_05defs_continuity.md#system-capture-c)
-- [Incentive Alignment](../core_05defs_integrative.md#incentive-alignment) · [O](../core_05defs_integrative.md#incentive-alignment) · [A](../core_05defs_integrative.md#incentive-alignment-a) · [C](../core_05defs_integrative.md#incentive-alignment-c)
-- [Oversight](../core_05apex_oversight_leg.md#oversight-constitutional) · [O](../core_05apex_oversight_leg.md#oversight-constitutional) · [A](../core_05apex_oversight_leg.md#oversight-constitutional-a) · [C](../core_05apex_oversight_leg.md#oversight-constitutional-c)
-- [Transparency](../core_05defs_oversight.md#transparency) · [O](../core_05defs_oversight.md#transparency) · [A](../core_05defs_oversight.md#transparency-a) · [C](../core_05defs_oversight.md#transparency-c)
+- [Dependency](../core_05defs_continuity.md#dependency) · [O](../core_05defs_continuity.md#dependency) · [M](../core_05defs_continuity.md#dependency-a) · [A](../core_05defs_continuity.md#dependency-a) · [C](../core_05defs_continuity.md#dependency-c)
+- [System Capture](../core_05defs_continuity.md#system-capture) · [O](../core_05defs_continuity.md#system-capture) · [M](../core_05defs_continuity.md#system-capture-a) · [A](../core_05defs_continuity.md#system-capture-a) · [C](../core_05defs_continuity.md#system-capture-c)
+- [Incentive Alignment](../core_05defs_integrative.md#incentive-alignment) · [O](../core_05defs_integrative.md#incentive-alignment) · [M](../core_05defs_integrative.md#incentive-alignment-a) · [A](../core_05defs_integrative.md#incentive-alignment-a) · [C](../core_05defs_integrative.md#incentive-alignment-c)
+- [Oversight](../core_05apex_oversight_leg.md#oversight-constitutional) · [O](../core_05apex_oversight_leg.md#oversight-constitutional) · [M](../core_05apex_oversight_leg.md#oversight-constitutional-m) · [A](../core_05apex_oversight_leg.md#oversight-constitutional-a) · [C](../core_05apex_oversight_leg.md#oversight-constitutional-c)
+- [Transparency](../core_05defs_oversight.md#transparency) · [O](../core_05defs_oversight.md#transparency) · [M](../core_05defs_oversight.md#transparency-a) · [A](../core_05defs_oversight.md#transparency-a) · [C](../core_05defs_oversight.md#transparency-c)
 
 </details>
 
@@ -134,13 +134,13 @@ Adopting instruments must publish tie-break rules for ordering component referra
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Accountability](../core_05apex_accountability_leg.md#accountability) · [O](../core_05apex_accountability_leg.md#accountability) · [A](../core_05apex_accountability_leg.md#accountability-a) · [C](../core_05apex_accountability_leg.md#accountability-c)
-- [Corpus](../core_05defs_integrative.md#corpus) · [O](../core_05defs_integrative.md#corpus) · [A](../core_05defs_integrative.md#corpus-a) · [C](../core_05defs_integrative.md#corpus-c)
-- [System Capture](../core_05defs_continuity.md#system-capture) · [O](../core_05defs_continuity.md#system-capture) · [A](../core_05defs_continuity.md#system-capture-a) · [C](../core_05defs_continuity.md#system-capture-c)
-- [Incentive Alignment](../core_05defs_integrative.md#incentive-alignment) · [O](../core_05defs_integrative.md#incentive-alignment) · [A](../core_05defs_integrative.md#incentive-alignment-a) · [C](../core_05defs_integrative.md#incentive-alignment-c)
-- [Oversight](../core_05apex_oversight_leg.md#oversight-constitutional) · [O](../core_05apex_oversight_leg.md#oversight-constitutional) · [A](../core_05apex_oversight_leg.md#oversight-constitutional-a) · [C](../core_05apex_oversight_leg.md#oversight-constitutional-c)
-- [Evidence Preservation](../core_05defs_oversight.md#evidence-preservation) · [O](../core_05defs_oversight.md#evidence-preservation) · [A](../core_05defs_oversight.md#evidence-preservation-a) · [C](../core_05defs_oversight.md#evidence-preservation-c)
-- [Adjudication and Dispute Resolution](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [A](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [C](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-c)
+- [Accountability](../core_05apex_accountability_leg.md#accountability) · [O](../core_05apex_accountability_leg.md#accountability) · [M](../core_05apex_accountability_leg.md#accountability-m) · [A](../core_05apex_accountability_leg.md#accountability-a) · [C](../core_05apex_accountability_leg.md#accountability-c)
+- [Corpus](../core_05defs_integrative.md#corpus) · [O](../core_05defs_integrative.md#corpus) · [M](../core_05defs_integrative.md#corpus-a) · [A](../core_05defs_integrative.md#corpus-a) · [C](../core_05defs_integrative.md#corpus-c)
+- [System Capture](../core_05defs_continuity.md#system-capture) · [O](../core_05defs_continuity.md#system-capture) · [M](../core_05defs_continuity.md#system-capture-a) · [A](../core_05defs_continuity.md#system-capture-a) · [C](../core_05defs_continuity.md#system-capture-c)
+- [Incentive Alignment](../core_05defs_integrative.md#incentive-alignment) · [O](../core_05defs_integrative.md#incentive-alignment) · [M](../core_05defs_integrative.md#incentive-alignment-a) · [A](../core_05defs_integrative.md#incentive-alignment-a) · [C](../core_05defs_integrative.md#incentive-alignment-c)
+- [Oversight](../core_05apex_oversight_leg.md#oversight-constitutional) · [O](../core_05apex_oversight_leg.md#oversight-constitutional) · [M](../core_05apex_oversight_leg.md#oversight-constitutional-m) · [A](../core_05apex_oversight_leg.md#oversight-constitutional-a) · [C](../core_05apex_oversight_leg.md#oversight-constitutional-c)
+- [Evidence Preservation](../core_05defs_oversight.md#evidence-preservation) · [O](../core_05defs_oversight.md#evidence-preservation) · [M](../core_05defs_oversight.md#evidence-preservation-a) · [A](../core_05defs_oversight.md#evidence-preservation-a) · [C](../core_05defs_oversight.md#evidence-preservation-c)
+- [Adjudication and Dispute Resolution](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [M](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [A](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [C](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-c)
 
 </details>
 
@@ -162,13 +162,13 @@ Supervisory coordination applies the **CJS-3.3** (*Boundary Between Support Role
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [System Capture](../core_05defs_continuity.md#system-capture) · [O](../core_05defs_continuity.md#system-capture) · [A](../core_05defs_continuity.md#system-capture-a) · [C](../core_05defs_continuity.md#system-capture-c)
-- [Incentive Alignment](../core_05defs_integrative.md#incentive-alignment) · [O](../core_05defs_integrative.md#incentive-alignment) · [A](../core_05defs_integrative.md#incentive-alignment-a) · [C](../core_05defs_integrative.md#incentive-alignment-c)
-- [Oversight](../core_05apex_oversight_leg.md#oversight-constitutional) · [O](../core_05apex_oversight_leg.md#oversight-constitutional) · [A](../core_05apex_oversight_leg.md#oversight-constitutional-a) · [C](../core_05apex_oversight_leg.md#oversight-constitutional-c)
-- [Accountability](../core_05apex_accountability_leg.md#accountability) · [O](../core_05apex_accountability_leg.md#accountability) · [A](../core_05apex_accountability_leg.md#accountability-a) · [C](../core_05apex_accountability_leg.md#accountability-c)
-- [Adjudication and Dispute Resolution](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [A](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [C](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-c)
-- [Unified Incident Record](../core_05defs_accountability.md#unified-incident-record) · [O](../core_05defs_accountability.md#unified-incident-record) · [A](../core_05defs_accountability.md#unified-incident-record-a) · [C](../core_05defs_accountability.md#unified-incident-record-c)
-- [Contestability](../core_05defs_accountability.md#contestability) · [O](../core_05defs_accountability.md#contestability) · [A](../core_05defs_accountability.md#contestability-a) · [C](../core_05defs_accountability.md#contestability-c)
+- [System Capture](../core_05defs_continuity.md#system-capture) · [O](../core_05defs_continuity.md#system-capture) · [M](../core_05defs_continuity.md#system-capture-a) · [A](../core_05defs_continuity.md#system-capture-a) · [C](../core_05defs_continuity.md#system-capture-c)
+- [Incentive Alignment](../core_05defs_integrative.md#incentive-alignment) · [O](../core_05defs_integrative.md#incentive-alignment) · [M](../core_05defs_integrative.md#incentive-alignment-a) · [A](../core_05defs_integrative.md#incentive-alignment-a) · [C](../core_05defs_integrative.md#incentive-alignment-c)
+- [Oversight](../core_05apex_oversight_leg.md#oversight-constitutional) · [O](../core_05apex_oversight_leg.md#oversight-constitutional) · [M](../core_05apex_oversight_leg.md#oversight-constitutional-m) · [A](../core_05apex_oversight_leg.md#oversight-constitutional-a) · [C](../core_05apex_oversight_leg.md#oversight-constitutional-c)
+- [Accountability](../core_05apex_accountability_leg.md#accountability) · [O](../core_05apex_accountability_leg.md#accountability) · [M](../core_05apex_accountability_leg.md#accountability-m) · [A](../core_05apex_accountability_leg.md#accountability-a) · [C](../core_05apex_accountability_leg.md#accountability-c)
+- [Adjudication and Dispute Resolution](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [M](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [A](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [C](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-c)
+- [Unified Incident Record](../core_05defs_accountability.md#unified-incident-record) · [O](../core_05defs_accountability.md#unified-incident-record) · [M](../core_05defs_accountability.md#unified-incident-record-a) · [A](../core_05defs_accountability.md#unified-incident-record-a) · [C](../core_05defs_accountability.md#unified-incident-record-c)
+- [Contestability](../core_05defs_accountability.md#contestability) · [O](../core_05defs_accountability.md#contestability) · [M](../core_05defs_accountability.md#contestability-a) · [A](../core_05defs_accountability.md#contestability-a) · [C](../core_05defs_accountability.md#contestability-c)
 
 </details>
 
@@ -190,13 +190,13 @@ Integrity forums must not issue final merits determinations reserved to another 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Material](../core_05defs_oversight.md#material) · [O](../core_05defs_oversight.md#material) · [A](../core_05defs_oversight.md#material-a) · [C](../core_05defs_oversight.md#material-c)
-- [Contestability](../core_05defs_accountability.md#contestability) · [O](../core_05defs_accountability.md#contestability) · [A](../core_05defs_accountability.md#contestability-a) · [C](../core_05defs_accountability.md#contestability-c)
-- [Procedural Fairness](../core_05defs_participation.md#procedural-fairness-constitutional) · [O](../core_05defs_participation.md#procedural-fairness-constitutional) · [A](../core_05defs_participation.md#procedural-fairness-constitutional-a) · [C](../core_05defs_participation.md#procedural-fairness-constitutional-c)
-- [Redress and Remediation](../core_05defs_accountability.md#redress-and-remediation-constitutional) · [O](../core_05defs_accountability.md#redress-and-remediation-constitutional) · [A](../core_05defs_accountability.md#redress-and-remediation-constitutional-a) · [C](../core_05defs_accountability.md#redress-and-remediation-constitutional-c)
-- [System Capture](../core_05defs_continuity.md#system-capture) · [O](../core_05defs_continuity.md#system-capture) · [A](../core_05defs_continuity.md#system-capture-a) · [C](../core_05defs_continuity.md#system-capture-c)
-- [Incentive Alignment](../core_05defs_integrative.md#incentive-alignment) · [O](../core_05defs_integrative.md#incentive-alignment) · [A](../core_05defs_integrative.md#incentive-alignment-a) · [C](../core_05defs_integrative.md#incentive-alignment-c)
-- [Oversight](../core_05apex_oversight_leg.md#oversight-constitutional) · [O](../core_05apex_oversight_leg.md#oversight-constitutional) · [A](../core_05apex_oversight_leg.md#oversight-constitutional-a) · [C](../core_05apex_oversight_leg.md#oversight-constitutional-c)
+- [Material](../core_05defs_oversight.md#material) · [O](../core_05defs_oversight.md#material) · [M](../core_05defs_oversight.md#material-a) · [A](../core_05defs_oversight.md#material-a) · [C](../core_05defs_oversight.md#material-c)
+- [Contestability](../core_05defs_accountability.md#contestability) · [O](../core_05defs_accountability.md#contestability) · [M](../core_05defs_accountability.md#contestability-a) · [A](../core_05defs_accountability.md#contestability-a) · [C](../core_05defs_accountability.md#contestability-c)
+- [Procedural Fairness](../core_05defs_participation.md#procedural-fairness-constitutional) · [O](../core_05defs_participation.md#procedural-fairness-constitutional) · [M](../core_05defs_participation.md#procedural-fairness-constitutional-a) · [A](../core_05defs_participation.md#procedural-fairness-constitutional-a) · [C](../core_05defs_participation.md#procedural-fairness-constitutional-c)
+- [Redress and Remediation](../core_05defs_accountability.md#redress-and-remediation-constitutional) · [O](../core_05defs_accountability.md#redress-and-remediation-constitutional) · [M](../core_05defs_accountability.md#redress-and-remediation-constitutional-a) · [A](../core_05defs_accountability.md#redress-and-remediation-constitutional-a) · [C](../core_05defs_accountability.md#redress-and-remediation-constitutional-c)
+- [System Capture](../core_05defs_continuity.md#system-capture) · [O](../core_05defs_continuity.md#system-capture) · [M](../core_05defs_continuity.md#system-capture-a) · [A](../core_05defs_continuity.md#system-capture-a) · [C](../core_05defs_continuity.md#system-capture-c)
+- [Incentive Alignment](../core_05defs_integrative.md#incentive-alignment) · [O](../core_05defs_integrative.md#incentive-alignment) · [M](../core_05defs_integrative.md#incentive-alignment-a) · [A](../core_05defs_integrative.md#incentive-alignment-a) · [C](../core_05defs_integrative.md#incentive-alignment-c)
+- [Oversight](../core_05apex_oversight_leg.md#oversight-constitutional) · [O](../core_05apex_oversight_leg.md#oversight-constitutional) · [M](../core_05apex_oversight_leg.md#oversight-constitutional-m) · [A](../core_05apex_oversight_leg.md#oversight-constitutional-a) · [C](../core_05apex_oversight_leg.md#oversight-constitutional-c)
 
 </details>
 
@@ -218,13 +218,13 @@ Where an alignment ruling materially stabilizes outcomes beyond the named partie
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Reasonably Foreseeable](../core_05defs_oversight.md#reasonably-foreseeable) · [O](../core_05defs_oversight.md#reasonably-foreseeable) · [A](../core_05defs_oversight.md#reasonably-foreseeable-a) · [C](../core_05defs_oversight.md#reasonably-foreseeable-c)
-- [Contestability](../core_05defs_accountability.md#contestability) · [O](../core_05defs_accountability.md#contestability) · [A](../core_05defs_accountability.md#contestability-a) · [C](../core_05defs_accountability.md#contestability-c)
-- [Accessibility](../core_05defs_participation.md#accessibility-constitutional) · [O](../core_05defs_participation.md#accessibility-constitutional) · [A](../core_05defs_participation.md#accessibility-constitutional-a) · [C](../core_05defs_participation.md#accessibility-constitutional-c)
-- [Info-Sphere](../core_05defs_participation.md#info-sphere) · [O](../core_05defs_participation.md#info-sphere) · [A](../core_05defs_participation.md#info-sphere-a) · [C](../core_05defs_participation.md#info-sphere-c)
-- [Stakeholder](../core_05defs_participation.md#stakeholder) · [O](../core_05defs_participation.md#stakeholder) · [A](../core_05defs_participation.md#stakeholder-a) · [C](../core_05defs_participation.md#stakeholder-c)
-- [Dependency](../core_05defs_continuity.md#dependency) · [O](../core_05defs_continuity.md#dependency) · [A](../core_05defs_continuity.md#dependency-a) · [C](../core_05defs_continuity.md#dependency-c)
-- [Oversight](../core_05apex_oversight_leg.md#oversight-constitutional) · [O](../core_05apex_oversight_leg.md#oversight-constitutional) · [A](../core_05apex_oversight_leg.md#oversight-constitutional-a) · [C](../core_05apex_oversight_leg.md#oversight-constitutional-c)
+- [Reasonably Foreseeable](../core_05defs_oversight.md#reasonably-foreseeable) · [O](../core_05defs_oversight.md#reasonably-foreseeable) · [M](../core_05defs_oversight.md#reasonably-foreseeable-a) · [A](../core_05defs_oversight.md#reasonably-foreseeable-a) · [C](../core_05defs_oversight.md#reasonably-foreseeable-c)
+- [Contestability](../core_05defs_accountability.md#contestability) · [O](../core_05defs_accountability.md#contestability) · [M](../core_05defs_accountability.md#contestability-a) · [A](../core_05defs_accountability.md#contestability-a) · [C](../core_05defs_accountability.md#contestability-c)
+- [Accessibility](../core_05defs_participation.md#accessibility-constitutional) · [O](../core_05defs_participation.md#accessibility-constitutional) · [M](../core_05defs_participation.md#accessibility-constitutional-a) · [A](../core_05defs_participation.md#accessibility-constitutional-a) · [C](../core_05defs_participation.md#accessibility-constitutional-c)
+- [Info-Sphere](../core_05defs_participation.md#info-sphere) · [O](../core_05defs_participation.md#info-sphere) · [M](../core_05defs_participation.md#info-sphere-a) · [A](../core_05defs_participation.md#info-sphere-a) · [C](../core_05defs_participation.md#info-sphere-c)
+- [Stakeholder](../core_05defs_participation.md#stakeholder) · [O](../core_05defs_participation.md#stakeholder) · [M](../core_05defs_participation.md#stakeholder-a) · [A](../core_05defs_participation.md#stakeholder-a) · [C](../core_05defs_participation.md#stakeholder-c)
+- [Dependency](../core_05defs_continuity.md#dependency) · [O](../core_05defs_continuity.md#dependency) · [M](../core_05defs_continuity.md#dependency-a) · [A](../core_05defs_continuity.md#dependency-a) · [C](../core_05defs_continuity.md#dependency-c)
+- [Oversight](../core_05apex_oversight_leg.md#oversight-constitutional) · [O](../core_05apex_oversight_leg.md#oversight-constitutional) · [M](../core_05apex_oversight_leg.md#oversight-constitutional-m) · [A](../core_05apex_oversight_leg.md#oversight-constitutional-a) · [C](../core_05apex_oversight_leg.md#oversight-constitutional-c)
 
 </details>
 
@@ -246,13 +246,13 @@ Where an alignment ruling materially stabilizes outcomes beyond the named partie
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Reasonably Foreseeable](../core_05defs_oversight.md#reasonably-foreseeable) · [O](../core_05defs_oversight.md#reasonably-foreseeable) · [A](../core_05defs_oversight.md#reasonably-foreseeable-a) · [C](../core_05defs_oversight.md#reasonably-foreseeable-c)
-- [Dependency](../core_05defs_continuity.md#dependency) · [O](../core_05defs_continuity.md#dependency) · [A](../core_05defs_continuity.md#dependency-a) · [C](../core_05defs_continuity.md#dependency-c)
-- [Material](../core_05defs_oversight.md#material) · [O](../core_05defs_oversight.md#material) · [A](../core_05defs_oversight.md#material-a) · [C](../core_05defs_oversight.md#material-c)
-- [System](../core_05defs_continuity.md#system-definition) · [O](../core_05defs_continuity.md#system-definition) · [A](../core_05defs_continuity.md#system-definition-a) · [C](../core_05defs_continuity.md#system-definition-c)
-- [Adjudication and Dispute Resolution](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [A](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [C](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-c)
-- [Authority Stack and Internal Hierarchy](../core_05defs_integrative.md#authority-stack) · [O](../core_05defs_integrative.md#authority-stack) · [A](../core_05defs_integrative.md#authority-stack-a) · [C](../core_05defs_integrative.md#authority-stack-c)
-- [System Capture](../core_05defs_continuity.md#system-capture) · [O](../core_05defs_continuity.md#system-capture) · [A](../core_05defs_continuity.md#system-capture-a) · [C](../core_05defs_continuity.md#system-capture-c)
+- [Reasonably Foreseeable](../core_05defs_oversight.md#reasonably-foreseeable) · [O](../core_05defs_oversight.md#reasonably-foreseeable) · [M](../core_05defs_oversight.md#reasonably-foreseeable-a) · [A](../core_05defs_oversight.md#reasonably-foreseeable-a) · [C](../core_05defs_oversight.md#reasonably-foreseeable-c)
+- [Dependency](../core_05defs_continuity.md#dependency) · [O](../core_05defs_continuity.md#dependency) · [M](../core_05defs_continuity.md#dependency-a) · [A](../core_05defs_continuity.md#dependency-a) · [C](../core_05defs_continuity.md#dependency-c)
+- [Material](../core_05defs_oversight.md#material) · [O](../core_05defs_oversight.md#material) · [M](../core_05defs_oversight.md#material-a) · [A](../core_05defs_oversight.md#material-a) · [C](../core_05defs_oversight.md#material-c)
+- [System](../core_05defs_continuity.md#system-definition) · [O](../core_05defs_continuity.md#system-definition) · [M](../core_05defs_continuity.md#system-definition-a) · [A](../core_05defs_continuity.md#system-definition-a) · [C](../core_05defs_continuity.md#system-definition-c)
+- [Adjudication and Dispute Resolution](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [M](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [A](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [C](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-c)
+- [Authority Stack and Internal Hierarchy](../core_05defs_integrative.md#authority-stack) · [O](../core_05defs_integrative.md#authority-stack) · [M](../core_05defs_integrative.md#authority-stack-a) · [A](../core_05defs_integrative.md#authority-stack-a) · [C](../core_05defs_integrative.md#authority-stack-c)
+- [System Capture](../core_05defs_continuity.md#system-capture) · [O](../core_05defs_continuity.md#system-capture) · [M](../core_05defs_continuity.md#system-capture-a) · [A](../core_05defs_continuity.md#system-capture-a) · [C](../core_05defs_continuity.md#system-capture-c)
 
 </details>
 
@@ -276,13 +276,13 @@ Integrity forums make the official constitutional alignment recognition, validat
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Reasonably Foreseeable](../core_05defs_oversight.md#reasonably-foreseeable) · [O](../core_05defs_oversight.md#reasonably-foreseeable) · [A](../core_05defs_oversight.md#reasonably-foreseeable-a) · [C](../core_05defs_oversight.md#reasonably-foreseeable-c)
-- [Info-Sphere](../core_05defs_participation.md#info-sphere) · [O](../core_05defs_participation.md#info-sphere) · [A](../core_05defs_participation.md#info-sphere-a) · [C](../core_05defs_participation.md#info-sphere-c)
-- [Stakeholder](../core_05defs_participation.md#stakeholder) · [O](../core_05defs_participation.md#stakeholder) · [A](../core_05defs_participation.md#stakeholder-a) · [C](../core_05defs_participation.md#stakeholder-c)
-- [Dependency](../core_05defs_continuity.md#dependency) · [O](../core_05defs_continuity.md#dependency) · [A](../core_05defs_continuity.md#dependency-a) · [C](../core_05defs_continuity.md#dependency-c)
-- [Oversight](../core_05apex_oversight_leg.md#oversight-constitutional) · [O](../core_05apex_oversight_leg.md#oversight-constitutional) · [A](../core_05apex_oversight_leg.md#oversight-constitutional-a) · [C](../core_05apex_oversight_leg.md#oversight-constitutional-c)
-- [Material](../core_05defs_oversight.md#material) · [O](../core_05defs_oversight.md#material) · [A](../core_05defs_oversight.md#material-a) · [C](../core_05defs_oversight.md#material-c)
-- [System](../core_05defs_continuity.md#system-definition) · [O](../core_05defs_continuity.md#system-definition) · [A](../core_05defs_continuity.md#system-definition-a) · [C](../core_05defs_continuity.md#system-definition-c)
+- [Reasonably Foreseeable](../core_05defs_oversight.md#reasonably-foreseeable) · [O](../core_05defs_oversight.md#reasonably-foreseeable) · [M](../core_05defs_oversight.md#reasonably-foreseeable-a) · [A](../core_05defs_oversight.md#reasonably-foreseeable-a) · [C](../core_05defs_oversight.md#reasonably-foreseeable-c)
+- [Info-Sphere](../core_05defs_participation.md#info-sphere) · [O](../core_05defs_participation.md#info-sphere) · [M](../core_05defs_participation.md#info-sphere-a) · [A](../core_05defs_participation.md#info-sphere-a) · [C](../core_05defs_participation.md#info-sphere-c)
+- [Stakeholder](../core_05defs_participation.md#stakeholder) · [O](../core_05defs_participation.md#stakeholder) · [M](../core_05defs_participation.md#stakeholder-a) · [A](../core_05defs_participation.md#stakeholder-a) · [C](../core_05defs_participation.md#stakeholder-c)
+- [Dependency](../core_05defs_continuity.md#dependency) · [O](../core_05defs_continuity.md#dependency) · [M](../core_05defs_continuity.md#dependency-a) · [A](../core_05defs_continuity.md#dependency-a) · [C](../core_05defs_continuity.md#dependency-c)
+- [Oversight](../core_05apex_oversight_leg.md#oversight-constitutional) · [O](../core_05apex_oversight_leg.md#oversight-constitutional) · [M](../core_05apex_oversight_leg.md#oversight-constitutional-m) · [A](../core_05apex_oversight_leg.md#oversight-constitutional-a) · [C](../core_05apex_oversight_leg.md#oversight-constitutional-c)
+- [Material](../core_05defs_oversight.md#material) · [O](../core_05defs_oversight.md#material) · [M](../core_05defs_oversight.md#material-a) · [A](../core_05defs_oversight.md#material-a) · [C](../core_05defs_oversight.md#material-c)
+- [System](../core_05defs_continuity.md#system-definition) · [O](../core_05defs_continuity.md#system-definition) · [M](../core_05defs_continuity.md#system-definition-a) · [A](../core_05defs_continuity.md#system-definition-a) · [C](../core_05defs_continuity.md#system-definition-c)
 
 </details>
 
@@ -310,13 +310,13 @@ Alignment recognition or review must be available when any of the following mate
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Accessibility](../core_05defs_participation.md#accessibility-constitutional) · [O](../core_05defs_participation.md#accessibility-constitutional) · [A](../core_05defs_participation.md#accessibility-constitutional-a) · [C](../core_05defs_participation.md#accessibility-constitutional-c)
-- [Stakeholder](../core_05defs_participation.md#stakeholder) · [O](../core_05defs_participation.md#stakeholder) · [A](../core_05defs_participation.md#stakeholder-a) · [C](../core_05defs_participation.md#stakeholder-c)
-- [Dependency](../core_05defs_continuity.md#dependency) · [O](../core_05defs_continuity.md#dependency) · [A](../core_05defs_continuity.md#dependency-a) · [C](../core_05defs_continuity.md#dependency-c)
-- [Material](../core_05defs_oversight.md#material) · [O](../core_05defs_oversight.md#material) · [A](../core_05defs_oversight.md#material-a) · [C](../core_05defs_oversight.md#material-c)
-- [System](../core_05defs_continuity.md#system-definition) · [O](../core_05defs_continuity.md#system-definition) · [A](../core_05defs_continuity.md#system-definition-a) · [C](../core_05defs_continuity.md#system-definition-c)
-- [System Capture](../core_05defs_continuity.md#system-capture) · [O](../core_05defs_continuity.md#system-capture) · [A](../core_05defs_continuity.md#system-capture-a) · [C](../core_05defs_continuity.md#system-capture-c)
-- [Incentive Alignment](../core_05defs_integrative.md#incentive-alignment) · [O](../core_05defs_integrative.md#incentive-alignment) · [A](../core_05defs_integrative.md#incentive-alignment-a) · [C](../core_05defs_integrative.md#incentive-alignment-c)
+- [Accessibility](../core_05defs_participation.md#accessibility-constitutional) · [O](../core_05defs_participation.md#accessibility-constitutional) · [M](../core_05defs_participation.md#accessibility-constitutional-a) · [A](../core_05defs_participation.md#accessibility-constitutional-a) · [C](../core_05defs_participation.md#accessibility-constitutional-c)
+- [Stakeholder](../core_05defs_participation.md#stakeholder) · [O](../core_05defs_participation.md#stakeholder) · [M](../core_05defs_participation.md#stakeholder-a) · [A](../core_05defs_participation.md#stakeholder-a) · [C](../core_05defs_participation.md#stakeholder-c)
+- [Dependency](../core_05defs_continuity.md#dependency) · [O](../core_05defs_continuity.md#dependency) · [M](../core_05defs_continuity.md#dependency-a) · [A](../core_05defs_continuity.md#dependency-a) · [C](../core_05defs_continuity.md#dependency-c)
+- [Material](../core_05defs_oversight.md#material) · [O](../core_05defs_oversight.md#material) · [M](../core_05defs_oversight.md#material-a) · [A](../core_05defs_oversight.md#material-a) · [C](../core_05defs_oversight.md#material-c)
+- [System](../core_05defs_continuity.md#system-definition) · [O](../core_05defs_continuity.md#system-definition) · [M](../core_05defs_continuity.md#system-definition-a) · [A](../core_05defs_continuity.md#system-definition-a) · [C](../core_05defs_continuity.md#system-definition-c)
+- [System Capture](../core_05defs_continuity.md#system-capture) · [O](../core_05defs_continuity.md#system-capture) · [M](../core_05defs_continuity.md#system-capture-a) · [A](../core_05defs_continuity.md#system-capture-a) · [C](../core_05defs_continuity.md#system-capture-c)
+- [Incentive Alignment](../core_05defs_integrative.md#incentive-alignment) · [O](../core_05defs_integrative.md#incentive-alignment) · [M](../core_05defs_integrative.md#incentive-alignment-a) · [A](../core_05defs_integrative.md#incentive-alignment-a) · [C](../core_05defs_integrative.md#incentive-alignment-c)
 
 </details>
 
@@ -347,13 +347,13 @@ A recognition, validation, or revalidation record must identify:
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Contestability](../core_05defs_accountability.md#contestability) · [O](../core_05defs_accountability.md#contestability) · [A](../core_05defs_accountability.md#contestability-a) · [C](../core_05defs_accountability.md#contestability-c)
-- [System](../core_05defs_continuity.md#system-definition) · [O](../core_05defs_continuity.md#system-definition) · [A](../core_05defs_continuity.md#system-definition-a) · [C](../core_05defs_continuity.md#system-definition-c)
-- [System Capture](../core_05defs_continuity.md#system-capture) · [O](../core_05defs_continuity.md#system-capture) · [A](../core_05defs_continuity.md#system-capture-a) · [C](../core_05defs_continuity.md#system-capture-c)
-- [Incentive Alignment](../core_05defs_integrative.md#incentive-alignment) · [O](../core_05defs_integrative.md#incentive-alignment) · [A](../core_05defs_integrative.md#incentive-alignment-a) · [C](../core_05defs_integrative.md#incentive-alignment-c)
-- [Oversight](../core_05apex_oversight_leg.md#oversight-constitutional) · [O](../core_05apex_oversight_leg.md#oversight-constitutional) · [A](../core_05apex_oversight_leg.md#oversight-constitutional-a) · [C](../core_05apex_oversight_leg.md#oversight-constitutional-c)
-- [Evidence Preservation](../core_05defs_oversight.md#evidence-preservation) · [O](../core_05defs_oversight.md#evidence-preservation) · [A](../core_05defs_oversight.md#evidence-preservation-a) · [C](../core_05defs_oversight.md#evidence-preservation-c)
-- [Adjudication and Dispute Resolution](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [A](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [C](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-c)
+- [Contestability](../core_05defs_accountability.md#contestability) · [O](../core_05defs_accountability.md#contestability) · [M](../core_05defs_accountability.md#contestability-a) · [A](../core_05defs_accountability.md#contestability-a) · [C](../core_05defs_accountability.md#contestability-c)
+- [System](../core_05defs_continuity.md#system-definition) · [O](../core_05defs_continuity.md#system-definition) · [M](../core_05defs_continuity.md#system-definition-a) · [A](../core_05defs_continuity.md#system-definition-a) · [C](../core_05defs_continuity.md#system-definition-c)
+- [System Capture](../core_05defs_continuity.md#system-capture) · [O](../core_05defs_continuity.md#system-capture) · [M](../core_05defs_continuity.md#system-capture-a) · [A](../core_05defs_continuity.md#system-capture-a) · [C](../core_05defs_continuity.md#system-capture-c)
+- [Incentive Alignment](../core_05defs_integrative.md#incentive-alignment) · [O](../core_05defs_integrative.md#incentive-alignment) · [M](../core_05defs_integrative.md#incentive-alignment-a) · [A](../core_05defs_integrative.md#incentive-alignment-a) · [C](../core_05defs_integrative.md#incentive-alignment-c)
+- [Oversight](../core_05apex_oversight_leg.md#oversight-constitutional) · [O](../core_05apex_oversight_leg.md#oversight-constitutional) · [M](../core_05apex_oversight_leg.md#oversight-constitutional-m) · [A](../core_05apex_oversight_leg.md#oversight-constitutional-a) · [C](../core_05apex_oversight_leg.md#oversight-constitutional-c)
+- [Evidence Preservation](../core_05defs_oversight.md#evidence-preservation) · [O](../core_05defs_oversight.md#evidence-preservation) · [M](../core_05defs_oversight.md#evidence-preservation-a) · [A](../core_05defs_oversight.md#evidence-preservation-a) · [C](../core_05defs_oversight.md#evidence-preservation-c)
+- [Adjudication and Dispute Resolution](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [M](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [A](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [C](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-c)
 
 </details>
 
@@ -380,13 +380,13 @@ An Integrity forum may issue any of the following within lawful scope:
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Material](../core_05defs_oversight.md#material) · [O](../core_05defs_oversight.md#material) · [A](../core_05defs_oversight.md#material-a) · [C](../core_05defs_oversight.md#material-c)
-- [System Capture](../core_05defs_continuity.md#system-capture) · [O](../core_05defs_continuity.md#system-capture) · [A](../core_05defs_continuity.md#system-capture-a) · [C](../core_05defs_continuity.md#system-capture-c)
-- [Incentive Alignment](../core_05defs_integrative.md#incentive-alignment) · [O](../core_05defs_integrative.md#incentive-alignment) · [A](../core_05defs_integrative.md#incentive-alignment-a) · [C](../core_05defs_integrative.md#incentive-alignment-c)
-- [Oversight](../core_05apex_oversight_leg.md#oversight-constitutional) · [O](../core_05apex_oversight_leg.md#oversight-constitutional) · [A](../core_05apex_oversight_leg.md#oversight-constitutional-a) · [C](../core_05apex_oversight_leg.md#oversight-constitutional-c)
-- [Adjudication and Dispute Resolution](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [A](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [C](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-c)
-- [Unified Incident Record](../core_05defs_accountability.md#unified-incident-record) · [O](../core_05defs_accountability.md#unified-incident-record) · [A](../core_05defs_accountability.md#unified-incident-record-a) · [C](../core_05defs_accountability.md#unified-incident-record-c)
-- [Redress and Remediation](../core_05defs_accountability.md#redress-and-remediation-constitutional) · [O](../core_05defs_accountability.md#redress-and-remediation-constitutional) · [A](../core_05defs_accountability.md#redress-and-remediation-constitutional-a) · [C](../core_05defs_accountability.md#redress-and-remediation-constitutional-c)
+- [Material](../core_05defs_oversight.md#material) · [O](../core_05defs_oversight.md#material) · [M](../core_05defs_oversight.md#material-a) · [A](../core_05defs_oversight.md#material-a) · [C](../core_05defs_oversight.md#material-c)
+- [System Capture](../core_05defs_continuity.md#system-capture) · [O](../core_05defs_continuity.md#system-capture) · [M](../core_05defs_continuity.md#system-capture-a) · [A](../core_05defs_continuity.md#system-capture-a) · [C](../core_05defs_continuity.md#system-capture-c)
+- [Incentive Alignment](../core_05defs_integrative.md#incentive-alignment) · [O](../core_05defs_integrative.md#incentive-alignment) · [M](../core_05defs_integrative.md#incentive-alignment-a) · [A](../core_05defs_integrative.md#incentive-alignment-a) · [C](../core_05defs_integrative.md#incentive-alignment-c)
+- [Oversight](../core_05apex_oversight_leg.md#oversight-constitutional) · [O](../core_05apex_oversight_leg.md#oversight-constitutional) · [M](../core_05apex_oversight_leg.md#oversight-constitutional-m) · [A](../core_05apex_oversight_leg.md#oversight-constitutional-a) · [C](../core_05apex_oversight_leg.md#oversight-constitutional-c)
+- [Adjudication and Dispute Resolution](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [M](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [A](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [C](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-c)
+- [Unified Incident Record](../core_05defs_accountability.md#unified-incident-record) · [O](../core_05defs_accountability.md#unified-incident-record) · [M](../core_05defs_accountability.md#unified-incident-record-a) · [A](../core_05defs_accountability.md#unified-incident-record-a) · [C](../core_05defs_accountability.md#unified-incident-record-c)
+- [Redress and Remediation](../core_05defs_accountability.md#redress-and-remediation-constitutional) · [O](../core_05defs_accountability.md#redress-and-remediation-constitutional) · [M](../core_05defs_accountability.md#redress-and-remediation-constitutional-a) · [A](../core_05defs_accountability.md#redress-and-remediation-constitutional-a) · [C](../core_05defs_accountability.md#redress-and-remediation-constitutional-c)
 
 </details>
 
@@ -408,13 +408,13 @@ Where Environment forum review is required, final recognition, validation, reval
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [System Capture](../core_05defs_continuity.md#system-capture) · [O](../core_05defs_continuity.md#system-capture) · [A](../core_05defs_continuity.md#system-capture-a) · [C](../core_05defs_continuity.md#system-capture-c)
-- [Incentive Alignment](../core_05defs_integrative.md#incentive-alignment) · [O](../core_05defs_integrative.md#incentive-alignment) · [A](../core_05defs_integrative.md#incentive-alignment-a) · [C](../core_05defs_integrative.md#incentive-alignment-c)
-- [Oversight](../core_05apex_oversight_leg.md#oversight-constitutional) · [O](../core_05apex_oversight_leg.md#oversight-constitutional) · [A](../core_05apex_oversight_leg.md#oversight-constitutional-a) · [C](../core_05apex_oversight_leg.md#oversight-constitutional-c)
-- [Accountability](../core_05apex_accountability_leg.md#accountability) · [O](../core_05apex_accountability_leg.md#accountability) · [A](../core_05apex_accountability_leg.md#accountability-a) · [C](../core_05apex_accountability_leg.md#accountability-c)
-- [Adjudication and Dispute Resolution](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [A](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [C](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-c)
-- [Procedural Fairness](../core_05defs_participation.md#procedural-fairness-constitutional) · [O](../core_05defs_participation.md#procedural-fairness-constitutional) · [A](../core_05defs_participation.md#procedural-fairness-constitutional-a) · [C](../core_05defs_participation.md#procedural-fairness-constitutional-c)
-- [Contestability](../core_05defs_accountability.md#contestability) · [O](../core_05defs_accountability.md#contestability) · [A](../core_05defs_accountability.md#contestability-a) · [C](../core_05defs_accountability.md#contestability-c)
+- [System Capture](../core_05defs_continuity.md#system-capture) · [O](../core_05defs_continuity.md#system-capture) · [M](../core_05defs_continuity.md#system-capture-a) · [A](../core_05defs_continuity.md#system-capture-a) · [C](../core_05defs_continuity.md#system-capture-c)
+- [Incentive Alignment](../core_05defs_integrative.md#incentive-alignment) · [O](../core_05defs_integrative.md#incentive-alignment) · [M](../core_05defs_integrative.md#incentive-alignment-a) · [A](../core_05defs_integrative.md#incentive-alignment-a) · [C](../core_05defs_integrative.md#incentive-alignment-c)
+- [Oversight](../core_05apex_oversight_leg.md#oversight-constitutional) · [O](../core_05apex_oversight_leg.md#oversight-constitutional) · [M](../core_05apex_oversight_leg.md#oversight-constitutional-m) · [A](../core_05apex_oversight_leg.md#oversight-constitutional-a) · [C](../core_05apex_oversight_leg.md#oversight-constitutional-c)
+- [Accountability](../core_05apex_accountability_leg.md#accountability) · [O](../core_05apex_accountability_leg.md#accountability) · [M](../core_05apex_accountability_leg.md#accountability-m) · [A](../core_05apex_accountability_leg.md#accountability-a) · [C](../core_05apex_accountability_leg.md#accountability-c)
+- [Adjudication and Dispute Resolution](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [M](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [A](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [C](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-c)
+- [Procedural Fairness](../core_05defs_participation.md#procedural-fairness-constitutional) · [O](../core_05defs_participation.md#procedural-fairness-constitutional) · [M](../core_05defs_participation.md#procedural-fairness-constitutional-a) · [A](../core_05defs_participation.md#procedural-fairness-constitutional-a) · [C](../core_05defs_participation.md#procedural-fairness-constitutional-c)
+- [Contestability](../core_05defs_accountability.md#contestability) · [O](../core_05defs_accountability.md#contestability) · [M](../core_05defs_accountability.md#contestability-a) · [A](../core_05defs_accountability.md#contestability-a) · [C](../core_05defs_accountability.md#contestability-c)
 
 </details>
 
@@ -436,13 +436,13 @@ Technical adequacy, institutional mandate, ecological merits, environmental-alig
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Stakeholder](../core_05defs_participation.md#stakeholder) · [O](../core_05defs_participation.md#stakeholder) · [A](../core_05defs_participation.md#stakeholder-a) · [C](../core_05defs_participation.md#stakeholder-c)
-- [Dependency](../core_05defs_continuity.md#dependency) · [O](../core_05defs_continuity.md#dependency) · [A](../core_05defs_continuity.md#dependency-a) · [C](../core_05defs_continuity.md#dependency-c)
-- [Material](../core_05defs_oversight.md#material) · [O](../core_05defs_oversight.md#material) · [A](../core_05defs_oversight.md#material-a) · [C](../core_05defs_oversight.md#material-c)
-- [System Capture](../core_05defs_continuity.md#system-capture) · [O](../core_05defs_continuity.md#system-capture) · [A](../core_05defs_continuity.md#system-capture-a) · [C](../core_05defs_continuity.md#system-capture-c)
-- [Incentive Alignment](../core_05defs_integrative.md#incentive-alignment) · [O](../core_05defs_integrative.md#incentive-alignment) · [A](../core_05defs_integrative.md#incentive-alignment-a) · [C](../core_05defs_integrative.md#incentive-alignment-c)
-- [Oversight](../core_05apex_oversight_leg.md#oversight-constitutional) · [O](../core_05apex_oversight_leg.md#oversight-constitutional) · [A](../core_05apex_oversight_leg.md#oversight-constitutional-a) · [C](../core_05apex_oversight_leg.md#oversight-constitutional-c)
-- [Evidence Preservation](../core_05defs_oversight.md#evidence-preservation) · [O](../core_05defs_oversight.md#evidence-preservation) · [A](../core_05defs_oversight.md#evidence-preservation-a) · [C](../core_05defs_oversight.md#evidence-preservation-c)
+- [Stakeholder](../core_05defs_participation.md#stakeholder) · [O](../core_05defs_participation.md#stakeholder) · [M](../core_05defs_participation.md#stakeholder-a) · [A](../core_05defs_participation.md#stakeholder-a) · [C](../core_05defs_participation.md#stakeholder-c)
+- [Dependency](../core_05defs_continuity.md#dependency) · [O](../core_05defs_continuity.md#dependency) · [M](../core_05defs_continuity.md#dependency-a) · [A](../core_05defs_continuity.md#dependency-a) · [C](../core_05defs_continuity.md#dependency-c)
+- [Material](../core_05defs_oversight.md#material) · [O](../core_05defs_oversight.md#material) · [M](../core_05defs_oversight.md#material-a) · [A](../core_05defs_oversight.md#material-a) · [C](../core_05defs_oversight.md#material-c)
+- [System Capture](../core_05defs_continuity.md#system-capture) · [O](../core_05defs_continuity.md#system-capture) · [M](../core_05defs_continuity.md#system-capture-a) · [A](../core_05defs_continuity.md#system-capture-a) · [C](../core_05defs_continuity.md#system-capture-c)
+- [Incentive Alignment](../core_05defs_integrative.md#incentive-alignment) · [O](../core_05defs_integrative.md#incentive-alignment) · [M](../core_05defs_integrative.md#incentive-alignment-a) · [A](../core_05defs_integrative.md#incentive-alignment-a) · [C](../core_05defs_integrative.md#incentive-alignment-c)
+- [Oversight](../core_05apex_oversight_leg.md#oversight-constitutional) · [O](../core_05apex_oversight_leg.md#oversight-constitutional) · [M](../core_05apex_oversight_leg.md#oversight-constitutional-m) · [A](../core_05apex_oversight_leg.md#oversight-constitutional-a) · [C](../core_05apex_oversight_leg.md#oversight-constitutional-c)
+- [Evidence Preservation](../core_05defs_oversight.md#evidence-preservation) · [O](../core_05defs_oversight.md#evidence-preservation) · [M](../core_05defs_oversight.md#evidence-preservation-a) · [A](../core_05defs_oversight.md#evidence-preservation-a) · [C](../core_05defs_oversight.md#evidence-preservation-c)
 
 </details>
 
@@ -464,13 +464,13 @@ Recognition is scope-bound and time-bound by its stated cadence and reopening tr
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Material](../core_05defs_oversight.md#material) · [O](../core_05defs_oversight.md#material) · [A](../core_05defs_oversight.md#material-a) · [C](../core_05defs_oversight.md#material-c)
-- [Corpus](../core_05defs_integrative.md#corpus) · [O](../core_05defs_integrative.md#corpus) · [A](../core_05defs_integrative.md#corpus-a) · [C](../core_05defs_integrative.md#corpus-c)
-- [System](../core_05defs_continuity.md#system-definition) · [O](../core_05defs_continuity.md#system-definition) · [A](../core_05defs_continuity.md#system-definition-a) · [C](../core_05defs_continuity.md#system-definition-c)
-- [System Capture](../core_05defs_continuity.md#system-capture) · [O](../core_05defs_continuity.md#system-capture) · [A](../core_05defs_continuity.md#system-capture-a) · [C](../core_05defs_continuity.md#system-capture-c)
-- [Incentive Alignment](../core_05defs_integrative.md#incentive-alignment) · [O](../core_05defs_integrative.md#incentive-alignment) · [A](../core_05defs_integrative.md#incentive-alignment-a) · [C](../core_05defs_integrative.md#incentive-alignment-c)
-- [Oversight](../core_05apex_oversight_leg.md#oversight-constitutional) · [O](../core_05apex_oversight_leg.md#oversight-constitutional) · [A](../core_05apex_oversight_leg.md#oversight-constitutional-a) · [C](../core_05apex_oversight_leg.md#oversight-constitutional-c)
-- [Contestability](../core_05defs_accountability.md#contestability) · [O](../core_05defs_accountability.md#contestability) · [A](../core_05defs_accountability.md#contestability-a) · [C](../core_05defs_accountability.md#contestability-c)
+- [Material](../core_05defs_oversight.md#material) · [O](../core_05defs_oversight.md#material) · [M](../core_05defs_oversight.md#material-a) · [A](../core_05defs_oversight.md#material-a) · [C](../core_05defs_oversight.md#material-c)
+- [Corpus](../core_05defs_integrative.md#corpus) · [O](../core_05defs_integrative.md#corpus) · [M](../core_05defs_integrative.md#corpus-a) · [A](../core_05defs_integrative.md#corpus-a) · [C](../core_05defs_integrative.md#corpus-c)
+- [System](../core_05defs_continuity.md#system-definition) · [O](../core_05defs_continuity.md#system-definition) · [M](../core_05defs_continuity.md#system-definition-a) · [A](../core_05defs_continuity.md#system-definition-a) · [C](../core_05defs_continuity.md#system-definition-c)
+- [System Capture](../core_05defs_continuity.md#system-capture) · [O](../core_05defs_continuity.md#system-capture) · [M](../core_05defs_continuity.md#system-capture-a) · [A](../core_05defs_continuity.md#system-capture-a) · [C](../core_05defs_continuity.md#system-capture-c)
+- [Incentive Alignment](../core_05defs_integrative.md#incentive-alignment) · [O](../core_05defs_integrative.md#incentive-alignment) · [M](../core_05defs_integrative.md#incentive-alignment-a) · [A](../core_05defs_integrative.md#incentive-alignment-a) · [C](../core_05defs_integrative.md#incentive-alignment-c)
+- [Oversight](../core_05apex_oversight_leg.md#oversight-constitutional) · [O](../core_05apex_oversight_leg.md#oversight-constitutional) · [M](../core_05apex_oversight_leg.md#oversight-constitutional-m) · [A](../core_05apex_oversight_leg.md#oversight-constitutional-a) · [C](../core_05apex_oversight_leg.md#oversight-constitutional-c)
+- [Contestability](../core_05defs_accountability.md#contestability) · [O](../core_05defs_accountability.md#contestability) · [M](../core_05defs_accountability.md#contestability-a) · [A](../core_05defs_accountability.md#contestability-a) · [C](../core_05defs_accountability.md#contestability-c)
 
 </details>
 
@@ -492,13 +492,13 @@ Recognition is scope-bound and time-bound by its stated cadence and reopening tr
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Forum Family, Institutional](../core_05defs_accountability.md#forum-family-institutional) · [O](../core_05defs_accountability.md#forum-family-institutional) · [A](../core_05defs_accountability.md#forum-family-institutional-a) · [C](../core_05defs_accountability.md#forum-family-institutional-c)
-- [Contestability](../core_05defs_accountability.md#contestability) · [O](../core_05defs_accountability.md#contestability) · [A](../core_05defs_accountability.md#contestability-a) · [C](../core_05defs_accountability.md#contestability-c)
-- [Dependency](../core_05defs_continuity.md#dependency) · [O](../core_05defs_continuity.md#dependency) · [A](../core_05defs_continuity.md#dependency-a) · [C](../core_05defs_continuity.md#dependency-c)
-- [Oversight](../core_05apex_oversight_leg.md#oversight-constitutional) · [O](../core_05apex_oversight_leg.md#oversight-constitutional) · [A](../core_05apex_oversight_leg.md#oversight-constitutional-a) · [C](../core_05apex_oversight_leg.md#oversight-constitutional-c)
-- [Material](../core_05defs_oversight.md#material) · [O](../core_05defs_oversight.md#material) · [A](../core_05defs_oversight.md#material-a) · [C](../core_05defs_oversight.md#material-c)
-- [Corpus](../core_05defs_integrative.md#corpus) · [O](../core_05defs_integrative.md#corpus) · [A](../core_05defs_integrative.md#corpus-a) · [C](../core_05defs_integrative.md#corpus-c)
-- [System](../core_05defs_continuity.md#system-definition) · [O](../core_05defs_continuity.md#system-definition) · [A](../core_05defs_continuity.md#system-definition-a) · [C](../core_05defs_continuity.md#system-definition-c)
+- [Forum Family, Institutional](../core_05defs_accountability.md#forum-family-institutional) · [O](../core_05defs_accountability.md#forum-family-institutional) · [M](../core_05defs_accountability.md#forum-family-institutional-a) · [A](../core_05defs_accountability.md#forum-family-institutional-a) · [C](../core_05defs_accountability.md#forum-family-institutional-c)
+- [Contestability](../core_05defs_accountability.md#contestability) · [O](../core_05defs_accountability.md#contestability) · [M](../core_05defs_accountability.md#contestability-a) · [A](../core_05defs_accountability.md#contestability-a) · [C](../core_05defs_accountability.md#contestability-c)
+- [Dependency](../core_05defs_continuity.md#dependency) · [O](../core_05defs_continuity.md#dependency) · [M](../core_05defs_continuity.md#dependency-a) · [A](../core_05defs_continuity.md#dependency-a) · [C](../core_05defs_continuity.md#dependency-c)
+- [Oversight](../core_05apex_oversight_leg.md#oversight-constitutional) · [O](../core_05apex_oversight_leg.md#oversight-constitutional) · [M](../core_05apex_oversight_leg.md#oversight-constitutional-m) · [A](../core_05apex_oversight_leg.md#oversight-constitutional-a) · [C](../core_05apex_oversight_leg.md#oversight-constitutional-c)
+- [Material](../core_05defs_oversight.md#material) · [O](../core_05defs_oversight.md#material) · [M](../core_05defs_oversight.md#material-a) · [A](../core_05defs_oversight.md#material-a) · [C](../core_05defs_oversight.md#material-c)
+- [Corpus](../core_05defs_integrative.md#corpus) · [O](../core_05defs_integrative.md#corpus) · [M](../core_05defs_integrative.md#corpus-a) · [A](../core_05defs_integrative.md#corpus-a) · [C](../core_05defs_integrative.md#corpus-c)
+- [System](../core_05defs_continuity.md#system-definition) · [O](../core_05defs_continuity.md#system-definition) · [M](../core_05defs_continuity.md#system-definition-a) · [A](../core_05defs_continuity.md#system-definition-a) · [C](../core_05defs_continuity.md#system-definition-c)
 
 </details>
 
@@ -527,13 +527,13 @@ Mere dissatisfaction with a ruling, captioning a claim against a forum, or namin
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Standing Effect](../core_05defs_accountability.md#standing-effect-chapter-six) · [O](../core_05defs_accountability.md#standing-effect-chapter-six) · [A](../core_05defs_accountability.md#standing-effect-chapter-six-a) · [C](../core_05defs_accountability.md#standing-effect-chapter-six-c)
-- [Dependency](../core_05defs_continuity.md#dependency) · [O](../core_05defs_continuity.md#dependency) · [A](../core_05defs_continuity.md#dependency-a) · [C](../core_05defs_continuity.md#dependency-c)
-- [System](../core_05defs_continuity.md#system-definition) · [O](../core_05defs_continuity.md#system-definition) · [A](../core_05defs_continuity.md#system-definition-a) · [C](../core_05defs_continuity.md#system-definition-c)
-- [System Capture](../core_05defs_continuity.md#system-capture) · [O](../core_05defs_continuity.md#system-capture) · [A](../core_05defs_continuity.md#system-capture-a) · [C](../core_05defs_continuity.md#system-capture-c)
-- [Incentive Alignment](../core_05defs_integrative.md#incentive-alignment) · [O](../core_05defs_integrative.md#incentive-alignment) · [A](../core_05defs_integrative.md#incentive-alignment-a) · [C](../core_05defs_integrative.md#incentive-alignment-c)
-- [Oversight](../core_05apex_oversight_leg.md#oversight-constitutional) · [O](../core_05apex_oversight_leg.md#oversight-constitutional) · [A](../core_05apex_oversight_leg.md#oversight-constitutional-a) · [C](../core_05apex_oversight_leg.md#oversight-constitutional-c)
-- [Procedural Fairness](../core_05defs_participation.md#procedural-fairness-constitutional) · [O](../core_05defs_participation.md#procedural-fairness-constitutional) · [A](../core_05defs_participation.md#procedural-fairness-constitutional-a) · [C](../core_05defs_participation.md#procedural-fairness-constitutional-c)
+- [Standing Effect](../core_05defs_accountability.md#standing-effect-chapter-six) · [O](../core_05defs_accountability.md#standing-effect-chapter-six) · [M](../core_05defs_accountability.md#standing-effect-chapter-six-a) · [A](../core_05defs_accountability.md#standing-effect-chapter-six-a) · [C](../core_05defs_accountability.md#standing-effect-chapter-six-c)
+- [Dependency](../core_05defs_continuity.md#dependency) · [O](../core_05defs_continuity.md#dependency) · [M](../core_05defs_continuity.md#dependency-a) · [A](../core_05defs_continuity.md#dependency-a) · [C](../core_05defs_continuity.md#dependency-c)
+- [System](../core_05defs_continuity.md#system-definition) · [O](../core_05defs_continuity.md#system-definition) · [M](../core_05defs_continuity.md#system-definition-a) · [A](../core_05defs_continuity.md#system-definition-a) · [C](../core_05defs_continuity.md#system-definition-c)
+- [System Capture](../core_05defs_continuity.md#system-capture) · [O](../core_05defs_continuity.md#system-capture) · [M](../core_05defs_continuity.md#system-capture-a) · [A](../core_05defs_continuity.md#system-capture-a) · [C](../core_05defs_continuity.md#system-capture-c)
+- [Incentive Alignment](../core_05defs_integrative.md#incentive-alignment) · [O](../core_05defs_integrative.md#incentive-alignment) · [M](../core_05defs_integrative.md#incentive-alignment-a) · [A](../core_05defs_integrative.md#incentive-alignment-a) · [C](../core_05defs_integrative.md#incentive-alignment-c)
+- [Oversight](../core_05apex_oversight_leg.md#oversight-constitutional) · [O](../core_05apex_oversight_leg.md#oversight-constitutional) · [M](../core_05apex_oversight_leg.md#oversight-constitutional-m) · [A](../core_05apex_oversight_leg.md#oversight-constitutional-a) · [C](../core_05apex_oversight_leg.md#oversight-constitutional-c)
+- [Procedural Fairness](../core_05defs_participation.md#procedural-fairness-constitutional) · [O](../core_05defs_participation.md#procedural-fairness-constitutional) · [M](../core_05defs_participation.md#procedural-fairness-constitutional-a) · [A](../core_05defs_participation.md#procedural-fairness-constitutional-a) · [C](../core_05defs_participation.md#procedural-fairness-constitutional-c)
 
 </details>
 
@@ -563,13 +563,13 @@ The record must preserve allegations and verified findings separately. An activa
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Primary-Stakes Routing](../core_05defs_accountability.md#primary-stakes-routing) · [O](../core_05defs_accountability.md#primary-stakes-routing) · [A](../core_05defs_accountability.md#primary-stakes-routing-a) · [C](../core_05defs_accountability.md#primary-stakes-routing-c)
-- [System](../core_05defs_continuity.md#system-definition) · [O](../core_05defs_continuity.md#system-definition) · [A](../core_05defs_continuity.md#system-definition-a) · [C](../core_05defs_continuity.md#system-definition-c)
-- [System Capture](../core_05defs_continuity.md#system-capture) · [O](../core_05defs_continuity.md#system-capture) · [A](../core_05defs_continuity.md#system-capture-a) · [C](../core_05defs_continuity.md#system-capture-c)
-- [Incentive Alignment](../core_05defs_integrative.md#incentive-alignment) · [O](../core_05defs_integrative.md#incentive-alignment) · [A](../core_05defs_integrative.md#incentive-alignment-a) · [C](../core_05defs_integrative.md#incentive-alignment-c)
-- [Oversight](../core_05apex_oversight_leg.md#oversight-constitutional) · [O](../core_05apex_oversight_leg.md#oversight-constitutional) · [A](../core_05apex_oversight_leg.md#oversight-constitutional-a) · [C](../core_05apex_oversight_leg.md#oversight-constitutional-c)
-- [Accountability](../core_05apex_accountability_leg.md#accountability) · [O](../core_05apex_accountability_leg.md#accountability) · [A](../core_05apex_accountability_leg.md#accountability-a) · [C](../core_05apex_accountability_leg.md#accountability-c)
-- [Contestability](../core_05defs_accountability.md#contestability) · [O](../core_05defs_accountability.md#contestability) · [A](../core_05defs_accountability.md#contestability-a) · [C](../core_05defs_accountability.md#contestability-c)
+- [Primary-Stakes Routing](../core_05defs_accountability.md#primary-stakes-routing) · [O](../core_05defs_accountability.md#primary-stakes-routing) · [M](../core_05defs_accountability.md#primary-stakes-routing-a) · [A](../core_05defs_accountability.md#primary-stakes-routing-a) · [C](../core_05defs_accountability.md#primary-stakes-routing-c)
+- [System](../core_05defs_continuity.md#system-definition) · [O](../core_05defs_continuity.md#system-definition) · [M](../core_05defs_continuity.md#system-definition-a) · [A](../core_05defs_continuity.md#system-definition-a) · [C](../core_05defs_continuity.md#system-definition-c)
+- [System Capture](../core_05defs_continuity.md#system-capture) · [O](../core_05defs_continuity.md#system-capture) · [M](../core_05defs_continuity.md#system-capture-a) · [A](../core_05defs_continuity.md#system-capture-a) · [C](../core_05defs_continuity.md#system-capture-c)
+- [Incentive Alignment](../core_05defs_integrative.md#incentive-alignment) · [O](../core_05defs_integrative.md#incentive-alignment) · [M](../core_05defs_integrative.md#incentive-alignment-a) · [A](../core_05defs_integrative.md#incentive-alignment-a) · [C](../core_05defs_integrative.md#incentive-alignment-c)
+- [Oversight](../core_05apex_oversight_leg.md#oversight-constitutional) · [O](../core_05apex_oversight_leg.md#oversight-constitutional) · [M](../core_05apex_oversight_leg.md#oversight-constitutional-m) · [A](../core_05apex_oversight_leg.md#oversight-constitutional-a) · [C](../core_05apex_oversight_leg.md#oversight-constitutional-c)
+- [Accountability](../core_05apex_accountability_leg.md#accountability) · [O](../core_05apex_accountability_leg.md#accountability) · [M](../core_05apex_accountability_leg.md#accountability-m) · [A](../core_05apex_accountability_leg.md#accountability-a) · [C](../core_05apex_accountability_leg.md#accountability-c)
+- [Contestability](../core_05defs_accountability.md#contestability) · [O](../core_05defs_accountability.md#contestability) · [M](../core_05defs_accountability.md#contestability-a) · [A](../core_05defs_accountability.md#contestability-a) · [C](../core_05defs_accountability.md#contestability-c)
 
 </details>
 
@@ -597,13 +597,13 @@ Backup routing is limited to what is necessary to preserve a lawful and contesta
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Contestability](../core_05defs_accountability.md#contestability) · [O](../core_05defs_accountability.md#contestability) · [A](../core_05defs_accountability.md#contestability-a) · [C](../core_05defs_accountability.md#contestability-c)
-- [Dependency](../core_05defs_continuity.md#dependency) · [O](../core_05defs_continuity.md#dependency) · [A](../core_05defs_continuity.md#dependency-a) · [C](../core_05defs_continuity.md#dependency-c)
-- [Material](../core_05defs_oversight.md#material) · [O](../core_05defs_oversight.md#material) · [A](../core_05defs_oversight.md#material-a) · [C](../core_05defs_oversight.md#material-c)
-- [Sentient](../core_05defs_participation.md#sentient-composite) · [O](../core_05defs_participation.md#sentient-composite) · [A](../core_05defs_participation.md#sentient-composite-a) · [C](../core_05defs_integrative.md#sentient-composite-c)
-- [System](../core_05defs_continuity.md#system-definition) · [O](../core_05defs_continuity.md#system-definition) · [A](../core_05defs_continuity.md#system-definition-a) · [C](../core_05defs_continuity.md#system-definition-c)
-- [System Capture](../core_05defs_continuity.md#system-capture) · [O](../core_05defs_continuity.md#system-capture) · [A](../core_05defs_continuity.md#system-capture-a) · [C](../core_05defs_continuity.md#system-capture-c)
-- [Incentive Alignment](../core_05defs_integrative.md#incentive-alignment) · [O](../core_05defs_integrative.md#incentive-alignment) · [A](../core_05defs_integrative.md#incentive-alignment-a) · [C](../core_05defs_integrative.md#incentive-alignment-c)
+- [Contestability](../core_05defs_accountability.md#contestability) · [O](../core_05defs_accountability.md#contestability) · [M](../core_05defs_accountability.md#contestability-a) · [A](../core_05defs_accountability.md#contestability-a) · [C](../core_05defs_accountability.md#contestability-c)
+- [Dependency](../core_05defs_continuity.md#dependency) · [O](../core_05defs_continuity.md#dependency) · [M](../core_05defs_continuity.md#dependency-a) · [A](../core_05defs_continuity.md#dependency-a) · [C](../core_05defs_continuity.md#dependency-c)
+- [Material](../core_05defs_oversight.md#material) · [O](../core_05defs_oversight.md#material) · [M](../core_05defs_oversight.md#material-a) · [A](../core_05defs_oversight.md#material-a) · [C](../core_05defs_oversight.md#material-c)
+- [Sentient](../core_05defs_participation.md#sentient-composite) · [O](../core_05defs_participation.md#sentient-composite) · [M](../core_05defs_participation.md#sentient-composite-a) · [A](../core_05defs_participation.md#sentient-composite-a) · [C](../core_05defs_integrative.md#sentient-composite-c)
+- [System](../core_05defs_continuity.md#system-definition) · [O](../core_05defs_continuity.md#system-definition) · [M](../core_05defs_continuity.md#system-definition-a) · [A](../core_05defs_continuity.md#system-definition-a) · [C](../core_05defs_continuity.md#system-definition-c)
+- [System Capture](../core_05defs_continuity.md#system-capture) · [O](../core_05defs_continuity.md#system-capture) · [M](../core_05defs_continuity.md#system-capture-a) · [A](../core_05defs_continuity.md#system-capture-a) · [C](../core_05defs_continuity.md#system-capture-c)
+- [Incentive Alignment](../core_05defs_integrative.md#incentive-alignment) · [O](../core_05defs_integrative.md#incentive-alignment) · [M](../core_05defs_integrative.md#incentive-alignment-a) · [A](../core_05defs_integrative.md#incentive-alignment-a) · [C](../core_05defs_integrative.md#incentive-alignment-c)
 
 </details>
 
@@ -631,13 +631,13 @@ Where the same institution or system steward materially controls both the system
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Dependency](../core_05defs_continuity.md#dependency) · [O](../core_05defs_continuity.md#dependency) · [A](../core_05defs_continuity.md#dependency-a) · [C](../core_05defs_continuity.md#dependency-c)
-- [System](../core_05defs_continuity.md#system-definition) · [O](../core_05defs_continuity.md#system-definition) · [A](../core_05defs_continuity.md#system-definition-a) · [C](../core_05defs_continuity.md#system-definition-c)
-- [Trust](../core_05defs_continuity.md#trust) · [O](../core_05defs_continuity.md#trust) · [A](../core_05defs_continuity.md#trust-a) · [C](../core_05defs_continuity.md#trust-c)
-- [System Capture](../core_05defs_continuity.md#system-capture) · [O](../core_05defs_continuity.md#system-capture) · [A](../core_05defs_continuity.md#system-capture-a) · [C](../core_05defs_continuity.md#system-capture-c)
-- [Incentive Alignment](../core_05defs_integrative.md#incentive-alignment) · [O](../core_05defs_integrative.md#incentive-alignment) · [A](../core_05defs_integrative.md#incentive-alignment-a) · [C](../core_05defs_integrative.md#incentive-alignment-c)
-- [Oversight](../core_05apex_oversight_leg.md#oversight-constitutional) · [O](../core_05apex_oversight_leg.md#oversight-constitutional) · [A](../core_05apex_oversight_leg.md#oversight-constitutional-a) · [C](../core_05apex_oversight_leg.md#oversight-constitutional-c)
-- [Adjudication and Dispute Resolution](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [A](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [C](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-c)
+- [Dependency](../core_05defs_continuity.md#dependency) · [O](../core_05defs_continuity.md#dependency) · [M](../core_05defs_continuity.md#dependency-a) · [A](../core_05defs_continuity.md#dependency-a) · [C](../core_05defs_continuity.md#dependency-c)
+- [System](../core_05defs_continuity.md#system-definition) · [O](../core_05defs_continuity.md#system-definition) · [M](../core_05defs_continuity.md#system-definition-a) · [A](../core_05defs_continuity.md#system-definition-a) · [C](../core_05defs_continuity.md#system-definition-c)
+- [Trust](../core_05defs_continuity.md#trust) · [O](../core_05defs_continuity.md#trust) · [M](../core_05defs_continuity.md#trust-a) · [A](../core_05defs_continuity.md#trust-a) · [C](../core_05defs_continuity.md#trust-c)
+- [System Capture](../core_05defs_continuity.md#system-capture) · [O](../core_05defs_continuity.md#system-capture) · [M](../core_05defs_continuity.md#system-capture-a) · [A](../core_05defs_continuity.md#system-capture-a) · [C](../core_05defs_continuity.md#system-capture-c)
+- [Incentive Alignment](../core_05defs_integrative.md#incentive-alignment) · [O](../core_05defs_integrative.md#incentive-alignment) · [M](../core_05defs_integrative.md#incentive-alignment-a) · [A](../core_05defs_integrative.md#incentive-alignment-a) · [C](../core_05defs_integrative.md#incentive-alignment-c)
+- [Oversight](../core_05apex_oversight_leg.md#oversight-constitutional) · [O](../core_05apex_oversight_leg.md#oversight-constitutional) · [M](../core_05apex_oversight_leg.md#oversight-constitutional-m) · [A](../core_05apex_oversight_leg.md#oversight-constitutional-a) · [C](../core_05apex_oversight_leg.md#oversight-constitutional-c)
+- [Adjudication and Dispute Resolution](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [M](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [A](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [C](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-c)
 
 </details>
 
@@ -666,13 +666,13 @@ Where internal process remains available, the [forum case record](../core_05defs
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Material](../core_05defs_oversight.md#material) · [O](../core_05defs_oversight.md#material) · [A](../core_05defs_oversight.md#material-a) · [C](../core_05defs_oversight.md#material-c)
-- [Corpus](../core_05defs_integrative.md#corpus) · [O](../core_05defs_integrative.md#corpus) · [A](../core_05defs_integrative.md#corpus-a) · [C](../core_05defs_integrative.md#corpus-c)
-- [Procedural Fairness](../core_05defs_participation.md#procedural-fairness-constitutional) · [O](../core_05defs_participation.md#procedural-fairness-constitutional) · [A](../core_05defs_participation.md#procedural-fairness-constitutional-a) · [C](../core_05defs_participation.md#procedural-fairness-constitutional-c)
-- [System Capture](../core_05defs_continuity.md#system-capture) · [O](../core_05defs_continuity.md#system-capture) · [A](../core_05defs_continuity.md#system-capture-a) · [C](../core_05defs_continuity.md#system-capture-c)
-- [Accountability](../core_05apex_accountability_leg.md#accountability) · [O](../core_05apex_accountability_leg.md#accountability) · [A](../core_05apex_accountability_leg.md#accountability-a) · [C](../core_05apex_accountability_leg.md#accountability-c)
-- [Incentive Alignment](../core_05defs_integrative.md#incentive-alignment) · [O](../core_05defs_integrative.md#incentive-alignment) · [A](../core_05defs_integrative.md#incentive-alignment-a) · [C](../core_05defs_integrative.md#incentive-alignment-c)
-- [Oversight](../core_05apex_oversight_leg.md#oversight-constitutional) · [O](../core_05apex_oversight_leg.md#oversight-constitutional) · [A](../core_05apex_oversight_leg.md#oversight-constitutional-a) · [C](../core_05apex_oversight_leg.md#oversight-constitutional-c)
+- [Material](../core_05defs_oversight.md#material) · [O](../core_05defs_oversight.md#material) · [M](../core_05defs_oversight.md#material-a) · [A](../core_05defs_oversight.md#material-a) · [C](../core_05defs_oversight.md#material-c)
+- [Corpus](../core_05defs_integrative.md#corpus) · [O](../core_05defs_integrative.md#corpus) · [M](../core_05defs_integrative.md#corpus-a) · [A](../core_05defs_integrative.md#corpus-a) · [C](../core_05defs_integrative.md#corpus-c)
+- [Procedural Fairness](../core_05defs_participation.md#procedural-fairness-constitutional) · [O](../core_05defs_participation.md#procedural-fairness-constitutional) · [M](../core_05defs_participation.md#procedural-fairness-constitutional-a) · [A](../core_05defs_participation.md#procedural-fairness-constitutional-a) · [C](../core_05defs_participation.md#procedural-fairness-constitutional-c)
+- [System Capture](../core_05defs_continuity.md#system-capture) · [O](../core_05defs_continuity.md#system-capture) · [M](../core_05defs_continuity.md#system-capture-a) · [A](../core_05defs_continuity.md#system-capture-a) · [C](../core_05defs_continuity.md#system-capture-c)
+- [Accountability](../core_05apex_accountability_leg.md#accountability) · [O](../core_05apex_accountability_leg.md#accountability) · [M](../core_05apex_accountability_leg.md#accountability-m) · [A](../core_05apex_accountability_leg.md#accountability-a) · [C](../core_05apex_accountability_leg.md#accountability-c)
+- [Incentive Alignment](../core_05defs_integrative.md#incentive-alignment) · [O](../core_05defs_integrative.md#incentive-alignment) · [M](../core_05defs_integrative.md#incentive-alignment-a) · [A](../core_05defs_integrative.md#incentive-alignment-a) · [C](../core_05defs_integrative.md#incentive-alignment-c)
+- [Oversight](../core_05apex_oversight_leg.md#oversight-constitutional) · [O](../core_05apex_oversight_leg.md#oversight-constitutional) · [M](../core_05apex_oversight_leg.md#oversight-constitutional-m) · [A](../core_05apex_oversight_leg.md#oversight-constitutional-a) · [C](../core_05apex_oversight_leg.md#oversight-constitutional-c)
 
 </details>
 
@@ -696,13 +696,13 @@ Where feasible in cross-forum anti-self-judging cases, the **CF-4.10** (*Certifi
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Material](../core_05defs_oversight.md#material) · [O](../core_05defs_oversight.md#material) · [A](../core_05defs_oversight.md#material-a) · [C](../core_05defs_oversight.md#material-c)
-- [Adjudication and Dispute Resolution](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [A](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [C](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-c)
-- [Authority Stack and Internal Hierarchy](../core_05defs_integrative.md#authority-stack) · [O](../core_05defs_integrative.md#authority-stack) · [A](../core_05defs_integrative.md#authority-stack-a) · [C](../core_05defs_integrative.md#authority-stack-c)
-- [System Capture](../core_05defs_continuity.md#system-capture) · [O](../core_05defs_continuity.md#system-capture) · [A](../core_05defs_continuity.md#system-capture-a) · [C](../core_05defs_continuity.md#system-capture-c)
-- [Incentive Alignment](../core_05defs_integrative.md#incentive-alignment) · [O](../core_05defs_integrative.md#incentive-alignment) · [A](../core_05defs_integrative.md#incentive-alignment-a) · [C](../core_05defs_integrative.md#incentive-alignment-c)
-- [Oversight](../core_05apex_oversight_leg.md#oversight-constitutional) · [O](../core_05apex_oversight_leg.md#oversight-constitutional) · [A](../core_05apex_oversight_leg.md#oversight-constitutional-a) · [C](../core_05apex_oversight_leg.md#oversight-constitutional-c)
-- [Emergency and Contingency](../core_05defs_continuity.md#emergency-and-contingency-constitutional) · [O](../core_05defs_continuity.md#emergency-and-contingency-constitutional) · [A](../core_05defs_continuity.md#emergency-and-contingency-constitutional-a) · [C](../core_05defs_continuity.md#emergency-and-contingency-constitutional-c)
+- [Material](../core_05defs_oversight.md#material) · [O](../core_05defs_oversight.md#material) · [M](../core_05defs_oversight.md#material-a) · [A](../core_05defs_oversight.md#material-a) · [C](../core_05defs_oversight.md#material-c)
+- [Adjudication and Dispute Resolution](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [M](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [A](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [C](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-c)
+- [Authority Stack and Internal Hierarchy](../core_05defs_integrative.md#authority-stack) · [O](../core_05defs_integrative.md#authority-stack) · [M](../core_05defs_integrative.md#authority-stack-a) · [A](../core_05defs_integrative.md#authority-stack-a) · [C](../core_05defs_integrative.md#authority-stack-c)
+- [System Capture](../core_05defs_continuity.md#system-capture) · [O](../core_05defs_continuity.md#system-capture) · [M](../core_05defs_continuity.md#system-capture-a) · [A](../core_05defs_continuity.md#system-capture-a) · [C](../core_05defs_continuity.md#system-capture-c)
+- [Incentive Alignment](../core_05defs_integrative.md#incentive-alignment) · [O](../core_05defs_integrative.md#incentive-alignment) · [M](../core_05defs_integrative.md#incentive-alignment-a) · [A](../core_05defs_integrative.md#incentive-alignment-a) · [C](../core_05defs_integrative.md#incentive-alignment-c)
+- [Oversight](../core_05apex_oversight_leg.md#oversight-constitutional) · [O](../core_05apex_oversight_leg.md#oversight-constitutional) · [M](../core_05apex_oversight_leg.md#oversight-constitutional-m) · [A](../core_05apex_oversight_leg.md#oversight-constitutional-a) · [C](../core_05apex_oversight_leg.md#oversight-constitutional-c)
+- [Emergency and Contingency](../core_05defs_continuity.md#emergency-and-contingency-constitutional) · [O](../core_05defs_continuity.md#emergency-and-contingency-constitutional) · [M](../core_05defs_continuity.md#emergency-and-contingency-constitutional-a) · [A](../core_05defs_continuity.md#emergency-and-contingency-constitutional-a) · [C](../core_05defs_continuity.md#emergency-and-contingency-constitutional-c)
 
 </details>
 
@@ -731,13 +731,13 @@ When such a pattern is material, the record must identify whether immediate back
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Primary-Stakes Routing](../core_05defs_accountability.md#primary-stakes-routing) · [O](../core_05defs_accountability.md#primary-stakes-routing) · [A](../core_05defs_accountability.md#primary-stakes-routing-a) · [C](../core_05defs_accountability.md#primary-stakes-routing-c)
-- [Dependency](../core_05defs_continuity.md#dependency) · [O](../core_05defs_continuity.md#dependency) · [A](../core_05defs_continuity.md#dependency-a) · [C](../core_05defs_continuity.md#dependency-c)
-- [Material](../core_05defs_oversight.md#material) · [O](../core_05defs_oversight.md#material) · [A](../core_05defs_oversight.md#material-a) · [C](../core_05defs_oversight.md#material-c)
-- [Adjudication and Dispute Resolution](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [A](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [C](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-c)
-- [Authority Stack and Internal Hierarchy](../core_05defs_integrative.md#authority-stack) · [O](../core_05defs_integrative.md#authority-stack) · [A](../core_05defs_integrative.md#authority-stack-a) · [C](../core_05defs_integrative.md#authority-stack-c)
-- [System Capture](../core_05defs_continuity.md#system-capture) · [O](../core_05defs_continuity.md#system-capture) · [A](../core_05defs_continuity.md#system-capture-a) · [C](../core_05defs_continuity.md#system-capture-c)
-- [Incentive Alignment](../core_05defs_integrative.md#incentive-alignment) · [O](../core_05defs_integrative.md#incentive-alignment) · [A](../core_05defs_integrative.md#incentive-alignment-a) · [C](../core_05defs_integrative.md#incentive-alignment-c)
+- [Primary-Stakes Routing](../core_05defs_accountability.md#primary-stakes-routing) · [O](../core_05defs_accountability.md#primary-stakes-routing) · [M](../core_05defs_accountability.md#primary-stakes-routing-a) · [A](../core_05defs_accountability.md#primary-stakes-routing-a) · [C](../core_05defs_accountability.md#primary-stakes-routing-c)
+- [Dependency](../core_05defs_continuity.md#dependency) · [O](../core_05defs_continuity.md#dependency) · [M](../core_05defs_continuity.md#dependency-a) · [A](../core_05defs_continuity.md#dependency-a) · [C](../core_05defs_continuity.md#dependency-c)
+- [Material](../core_05defs_oversight.md#material) · [O](../core_05defs_oversight.md#material) · [M](../core_05defs_oversight.md#material-a) · [A](../core_05defs_oversight.md#material-a) · [C](../core_05defs_oversight.md#material-c)
+- [Adjudication and Dispute Resolution](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [M](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [A](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [C](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-c)
+- [Authority Stack and Internal Hierarchy](../core_05defs_integrative.md#authority-stack) · [O](../core_05defs_integrative.md#authority-stack) · [M](../core_05defs_integrative.md#authority-stack-a) · [A](../core_05defs_integrative.md#authority-stack-a) · [C](../core_05defs_integrative.md#authority-stack-c)
+- [System Capture](../core_05defs_continuity.md#system-capture) · [O](../core_05defs_continuity.md#system-capture) · [M](../core_05defs_continuity.md#system-capture-a) · [A](../core_05defs_continuity.md#system-capture-a) · [C](../core_05defs_continuity.md#system-capture-c)
+- [Incentive Alignment](../core_05defs_integrative.md#incentive-alignment) · [O](../core_05defs_integrative.md#incentive-alignment) · [M](../core_05defs_integrative.md#incentive-alignment-a) · [A](../core_05defs_integrative.md#incentive-alignment-a) · [C](../core_05defs_integrative.md#incentive-alignment-c)
 
 </details>
 

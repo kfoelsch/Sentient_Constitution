@@ -11,13 +11,13 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Authority Stack and Internal Hierarchy](../core_05defs_integrative.md#authority-stack) · [O](../core_05defs_integrative.md#authority-stack) · [A](../core_05defs_integrative.md#authority-stack-a) · [C](../core_05defs_integrative.md#authority-stack-c)
-- [Adjudication and Dispute Resolution](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [A](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [C](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-c)
-- [Materiality Determination](../core_05defs_oversight.md#materiality-determination) · [O](../core_05defs_oversight.md#materiality-determination) · [A](../core_05defs_oversight.md#materiality-determination-a) · [C](../core_05defs_oversight.md#materiality-determination-c)
-- [Dependency](../core_05defs_continuity.md#dependency) · [O](../core_05defs_continuity.md#dependency) · [A](../core_05defs_continuity.md#dependency-a) · [C](../core_05defs_continuity.md#dependency-c)
-- [Governance](../core_05defs_accountability.md#governance) · [O](../core_05defs_accountability.md#governance) · [A](../core_05defs_accountability.md#governance-a) · [C](../core_05defs_accountability.md#governance-c)
-- [Oversight](../core_05apex_oversight_leg.md#oversight-constitutional) · [O](../core_05apex_oversight_leg.md#oversight-constitutional) · [A](../core_05apex_oversight_leg.md#oversight-constitutional-a) · [C](../core_05apex_oversight_leg.md#oversight-constitutional-c)
-- [Sentient](../core_05defs_participation.md#sentient-composite) · [O](../core_05defs_participation.md#sentient-composite) · [A](../core_05defs_participation.md#sentient-composite-a) · [C](../core_05defs_integrative.md#sentient-composite-c)
+- [Authority Stack and Internal Hierarchy](../core_05defs_integrative.md#authority-stack) · [O](../core_05defs_integrative.md#authority-stack) · [M](../core_05defs_integrative.md#authority-stack-a) · [A](../core_05defs_integrative.md#authority-stack-a) · [C](../core_05defs_integrative.md#authority-stack-c)
+- [Adjudication and Dispute Resolution](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [M](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [A](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [C](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-c)
+- [Materiality Determination](../core_05defs_oversight.md#materiality-determination) · [O](../core_05defs_oversight.md#materiality-determination) · [M](../core_05defs_oversight.md#materiality-determination-a) · [A](../core_05defs_oversight.md#materiality-determination-a) · [C](../core_05defs_oversight.md#materiality-determination-c)
+- [Dependency](../core_05defs_continuity.md#dependency) · [O](../core_05defs_continuity.md#dependency) · [M](../core_05defs_continuity.md#dependency-a) · [A](../core_05defs_continuity.md#dependency-a) · [C](../core_05defs_continuity.md#dependency-c)
+- [Governance](../core_05defs_accountability.md#governance) · [O](../core_05defs_accountability.md#governance) · [M](../core_05defs_accountability.md#governance-a) · [A](../core_05defs_accountability.md#governance-a) · [C](../core_05defs_accountability.md#governance-c)
+- [Oversight](../core_05apex_oversight_leg.md#oversight-constitutional) · [O](../core_05apex_oversight_leg.md#oversight-constitutional) · [M](../core_05apex_oversight_leg.md#oversight-constitutional-m) · [A](../core_05apex_oversight_leg.md#oversight-constitutional-a) · [C](../core_05apex_oversight_leg.md#oversight-constitutional-c)
+- [Sentient](../core_05defs_participation.md#sentient-composite) · [O](../core_05defs_participation.md#sentient-composite) · [M](../core_05defs_participation.md#sentient-composite-a) · [A](../core_05defs_participation.md#sentient-composite-a) · [C](../core_05defs_integrative.md#sentient-composite-c)
 
 </details>
 
@@ -61,11 +61,11 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Sentient](../core_05defs_participation.md#sentient-composite) · [O](../core_05defs_participation.md#sentient-composite) · [A](../core_05defs_participation.md#sentient-composite-a) · [C](../core_05defs_integrative.md#sentient-composite-c)
-- [System](../core_05defs_continuity.md#system-definition) · [O](../core_05defs_continuity.md#system-definition) · [A](../core_05defs_continuity.md#system-definition-a) · [C](../core_05defs_continuity.md#system-definition-c)
-- [Authority Stack and Internal Hierarchy](../core_05defs_integrative.md#authority-stack) · [O](../core_05defs_integrative.md#authority-stack) · [A](../core_05defs_integrative.md#authority-stack-a) · [C](../core_05defs_integrative.md#authority-stack-c)
-- [Adjudication and Dispute Resolution](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [A](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [C](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-c)
-- [Materiality Determination](../core_05defs_oversight.md#materiality-determination) · [O](../core_05defs_oversight.md#materiality-determination) · [A](../core_05defs_oversight.md#materiality-determination-a) · [C](../core_05defs_oversight.md#materiality-determination-c)
+- [Sentient](../core_05defs_participation.md#sentient-composite) · [O](../core_05defs_participation.md#sentient-composite) · [M](../core_05defs_participation.md#sentient-composite-a) · [A](../core_05defs_participation.md#sentient-composite-a) · [C](../core_05defs_integrative.md#sentient-composite-c)
+- [System](../core_05defs_continuity.md#system-definition) · [O](../core_05defs_continuity.md#system-definition) · [M](../core_05defs_continuity.md#system-definition-a) · [A](../core_05defs_continuity.md#system-definition-a) · [C](../core_05defs_continuity.md#system-definition-c)
+- [Authority Stack and Internal Hierarchy](../core_05defs_integrative.md#authority-stack) · [O](../core_05defs_integrative.md#authority-stack) · [M](../core_05defs_integrative.md#authority-stack-a) · [A](../core_05defs_integrative.md#authority-stack-a) · [C](../core_05defs_integrative.md#authority-stack-c)
+- [Adjudication and Dispute Resolution](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [M](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [A](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [C](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-c)
+- [Materiality Determination](../core_05defs_oversight.md#materiality-determination) · [O](../core_05defs_oversight.md#materiality-determination) · [M](../core_05defs_oversight.md#materiality-determination-a) · [A](../core_05defs_oversight.md#materiality-determination-a) · [C](../core_05defs_oversight.md#materiality-determination-c)
 
 </details>
 
@@ -97,13 +97,13 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Authority Stack and Internal Hierarchy](../core_05defs_integrative.md#authority-stack) · [O](../core_05defs_integrative.md#authority-stack) · [A](../core_05defs_integrative.md#authority-stack-a) · [C](../core_05defs_integrative.md#authority-stack-c)
-- [Dependency](../core_05defs_continuity.md#dependency) · [O](../core_05defs_continuity.md#dependency) · [A](../core_05defs_continuity.md#dependency-a) · [C](../core_05defs_continuity.md#dependency-c)
-- [Governance](../core_05defs_accountability.md#governance) · [O](../core_05defs_accountability.md#governance) · [A](../core_05defs_accountability.md#governance-a) · [C](../core_05defs_accountability.md#governance-c)
-- [Sentient](../core_05defs_participation.md#sentient-composite) · [O](../core_05defs_participation.md#sentient-composite) · [A](../core_05defs_participation.md#sentient-composite-a) · [C](../core_05defs_integrative.md#sentient-composite-c)
-- [Corpus](../core_05defs_integrative.md#corpus) · [O](../core_05defs_integrative.md#corpus) · [A](../core_05defs_integrative.md#corpus-a) · [C](../core_05defs_integrative.md#corpus-c)
-- [System](../core_05defs_continuity.md#system-definition) · [O](../core_05defs_continuity.md#system-definition) · [A](../core_05defs_continuity.md#system-definition-a) · [C](../core_05defs_continuity.md#system-definition-c)
-- [Oversight](../core_05apex_oversight_leg.md#oversight-constitutional) · [O](../core_05apex_oversight_leg.md#oversight-constitutional) · [A](../core_05apex_oversight_leg.md#oversight-constitutional-a) · [C](../core_05apex_oversight_leg.md#oversight-constitutional-c)
+- [Authority Stack and Internal Hierarchy](../core_05defs_integrative.md#authority-stack) · [O](../core_05defs_integrative.md#authority-stack) · [M](../core_05defs_integrative.md#authority-stack-a) · [A](../core_05defs_integrative.md#authority-stack-a) · [C](../core_05defs_integrative.md#authority-stack-c)
+- [Dependency](../core_05defs_continuity.md#dependency) · [O](../core_05defs_continuity.md#dependency) · [M](../core_05defs_continuity.md#dependency-a) · [A](../core_05defs_continuity.md#dependency-a) · [C](../core_05defs_continuity.md#dependency-c)
+- [Governance](../core_05defs_accountability.md#governance) · [O](../core_05defs_accountability.md#governance) · [M](../core_05defs_accountability.md#governance-a) · [A](../core_05defs_accountability.md#governance-a) · [C](../core_05defs_accountability.md#governance-c)
+- [Sentient](../core_05defs_participation.md#sentient-composite) · [O](../core_05defs_participation.md#sentient-composite) · [M](../core_05defs_participation.md#sentient-composite-a) · [A](../core_05defs_participation.md#sentient-composite-a) · [C](../core_05defs_integrative.md#sentient-composite-c)
+- [Corpus](../core_05defs_integrative.md#corpus) · [O](../core_05defs_integrative.md#corpus) · [M](../core_05defs_integrative.md#corpus-a) · [A](../core_05defs_integrative.md#corpus-a) · [C](../core_05defs_integrative.md#corpus-c)
+- [System](../core_05defs_continuity.md#system-definition) · [O](../core_05defs_continuity.md#system-definition) · [M](../core_05defs_continuity.md#system-definition-a) · [A](../core_05defs_continuity.md#system-definition-a) · [C](../core_05defs_continuity.md#system-definition-c)
+- [Oversight](../core_05apex_oversight_leg.md#oversight-constitutional) · [O](../core_05apex_oversight_leg.md#oversight-constitutional) · [M](../core_05apex_oversight_leg.md#oversight-constitutional-m) · [A](../core_05apex_oversight_leg.md#oversight-constitutional-a) · [C](../core_05apex_oversight_leg.md#oversight-constitutional-c)
 
 </details>
 
@@ -191,8 +191,8 @@ This file does not create a separate authority stack. Use the constitutional **A
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Sentient](../core_05defs_participation.md#sentient-composite) · [O](../core_05defs_participation.md#sentient-composite) · [A](../core_05defs_participation.md#sentient-composite-a) · [C](../core_05defs_integrative.md#sentient-composite-c)
-- [Corpus](../core_05defs_integrative.md#corpus) · [O](../core_05defs_integrative.md#corpus) · [A](../core_05defs_integrative.md#corpus-a) · [C](../core_05defs_integrative.md#corpus-c)
+- [Sentient](../core_05defs_participation.md#sentient-composite) · [O](../core_05defs_participation.md#sentient-composite) · [M](../core_05defs_participation.md#sentient-composite-a) · [A](../core_05defs_participation.md#sentient-composite-a) · [C](../core_05defs_integrative.md#sentient-composite-c)
+- [Corpus](../core_05defs_integrative.md#corpus) · [O](../core_05defs_integrative.md#corpus) · [M](../core_05defs_integrative.md#corpus-a) · [A](../core_05defs_integrative.md#corpus-a) · [C](../core_05defs_integrative.md#corpus-c)
 
 </details>
 
@@ -222,11 +222,11 @@ Unless a section says otherwise, **Article** labels with Roman numerals that poi
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Sentient](../core_05defs_participation.md#sentient-composite) · [O](../core_05defs_participation.md#sentient-composite) · [A](../core_05defs_participation.md#sentient-composite-a) · [C](../core_05defs_integrative.md#sentient-composite-c)
-- [Corpus](../core_05defs_integrative.md#corpus) · [O](../core_05defs_integrative.md#corpus) · [A](../core_05defs_integrative.md#corpus-a) · [C](../core_05defs_integrative.md#corpus-c)
-- [Constitutional Constraint](../core_05defs_integrative.md#constitutional-constraint) · [O](../core_05defs_integrative.md#constitutional-constraint) · [A](../core_05defs_integrative.md#constitutional-constraint-a) · [C](../core_05defs_integrative.md#constitutional-constraint-c)
-- [Evidence Preservation](../core_05defs_oversight.md#evidence-preservation) · [O](../core_05defs_oversight.md#evidence-preservation) · [A](../core_05defs_oversight.md#evidence-preservation-a) · [C](../core_05defs_oversight.md#evidence-preservation-c)
-- [Epistemic Integrity](../core_05defs_oversight.md#epistemic-integrity) · [O](../core_05defs_oversight.md#epistemic-integrity) · [A](../core_05defs_oversight.md#epistemic-integrity-a) · [C](../core_05defs_oversight.md#epistemic-integrity-c)
+- [Sentient](../core_05defs_participation.md#sentient-composite) · [O](../core_05defs_participation.md#sentient-composite) · [M](../core_05defs_participation.md#sentient-composite-a) · [A](../core_05defs_participation.md#sentient-composite-a) · [C](../core_05defs_integrative.md#sentient-composite-c)
+- [Corpus](../core_05defs_integrative.md#corpus) · [O](../core_05defs_integrative.md#corpus) · [M](../core_05defs_integrative.md#corpus-a) · [A](../core_05defs_integrative.md#corpus-a) · [C](../core_05defs_integrative.md#corpus-c)
+- [Constitutional Constraint](../core_05defs_integrative.md#constitutional-constraint) · [O](../core_05defs_integrative.md#constitutional-constraint) · [M](../core_05defs_integrative.md#constitutional-constraint-a) · [A](../core_05defs_integrative.md#constitutional-constraint-a) · [C](../core_05defs_integrative.md#constitutional-constraint-c)
+- [Evidence Preservation](../core_05defs_oversight.md#evidence-preservation) · [O](../core_05defs_oversight.md#evidence-preservation) · [M](../core_05defs_oversight.md#evidence-preservation-a) · [A](../core_05defs_oversight.md#evidence-preservation-a) · [C](../core_05defs_oversight.md#evidence-preservation-c)
+- [Epistemic Integrity](../core_05defs_oversight.md#epistemic-integrity) · [O](../core_05defs_oversight.md#epistemic-integrity) · [M](../core_05defs_oversight.md#epistemic-integrity-a) · [A](../core_05defs_oversight.md#epistemic-integrity-a) · [C](../core_05defs_oversight.md#epistemic-integrity-c)
 
 </details>
 
@@ -262,7 +262,7 @@ Subsection-local shorthand applies only inside the subsection where it appears, 
 
 </details>
 
-<strong><span style="color: #2563eb;">Definition:</span></strong> [Constitutional Constraint](../core_05defs_integrative.md#constitutional-constraint) · [O](../core_05defs_integrative.md#constitutional-constraint) · [A](../core_05defs_integrative.md#constitutional-constraint-a) · [C](../core_05defs_integrative.md#constitutional-constraint-c)
+<strong><span style="color: #2563eb;">Definition:</span></strong> [Constitutional Constraint](../core_05defs_integrative.md#constitutional-constraint) · [O](../core_05defs_integrative.md#constitutional-constraint) · [M](../core_05defs_integrative.md#constitutional-constraint-a) · [A](../core_05defs_integrative.md#constitutional-constraint-a) · [C](../core_05defs_integrative.md#constitutional-constraint-c)
 
 Some subsections are structured as an operational cluster.
 

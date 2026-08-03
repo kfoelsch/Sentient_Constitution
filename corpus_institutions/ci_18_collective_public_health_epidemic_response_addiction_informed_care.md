@@ -11,13 +11,13 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Proportionality](../core_05defs_accountability.md#proportionality) · [O](../core_05defs_accountability.md#proportionality) · [A](../core_05defs_accountability.md#proportionality-a) · [C](../core_05defs_accountability.md#proportionality-c)
-- [Governance](../core_05defs_accountability.md#governance) · [O](../core_05defs_accountability.md#governance) · [A](../core_05defs_accountability.md#governance-a) · [C](../core_05defs_accountability.md#governance-c)
-- [Necessity](../core_05defs_accountability.md#necessity) · [O](../core_05defs_accountability.md#necessity) · [A](../core_05defs_accountability.md#necessity-a) · [C](../core_05defs_accountability.md#necessity-c)
-- [Oversight](../core_05apex_oversight_leg.md#oversight-constitutional) · [O](../core_05apex_oversight_leg.md#oversight-constitutional) · [A](../core_05apex_oversight_leg.md#oversight-constitutional-a) · [C](../core_05apex_oversight_leg.md#oversight-constitutional-c)
-- [Material](../core_05defs_oversight.md#material) · [O](../core_05defs_oversight.md#material) · [A](../core_05defs_oversight.md#material-a) · [C](../core_05defs_oversight.md#material-c)
-- [Corpus](../core_05defs_integrative.md#corpus) · [O](../core_05defs_integrative.md#corpus) · [A](../core_05defs_integrative.md#corpus-a) · [C](../core_05defs_integrative.md#corpus-c)
-- [Emergency and Contingency](../core_05defs_continuity.md#emergency-and-contingency-constitutional) · [O](../core_05defs_continuity.md#emergency-and-contingency-constitutional) · [A](../core_05defs_continuity.md#emergency-and-contingency-constitutional-a) · [C](../core_05defs_continuity.md#emergency-and-contingency-constitutional-c)
+- [Proportionality](../core_05defs_accountability.md#proportionality) · [O](../core_05defs_accountability.md#proportionality) · [M](../core_05defs_accountability.md#proportionality-a) · [A](../core_05defs_accountability.md#proportionality-a) · [C](../core_05defs_accountability.md#proportionality-c)
+- [Governance](../core_05defs_accountability.md#governance) · [O](../core_05defs_accountability.md#governance) · [M](../core_05defs_accountability.md#governance-a) · [A](../core_05defs_accountability.md#governance-a) · [C](../core_05defs_accountability.md#governance-c)
+- [Necessity](../core_05defs_accountability.md#necessity) · [O](../core_05defs_accountability.md#necessity) · [M](../core_05defs_accountability.md#necessity-a) · [A](../core_05defs_accountability.md#necessity-a) · [C](../core_05defs_accountability.md#necessity-c)
+- [Oversight](../core_05apex_oversight_leg.md#oversight-constitutional) · [O](../core_05apex_oversight_leg.md#oversight-constitutional) · [M](../core_05apex_oversight_leg.md#oversight-constitutional-m) · [A](../core_05apex_oversight_leg.md#oversight-constitutional-a) · [C](../core_05apex_oversight_leg.md#oversight-constitutional-c)
+- [Material](../core_05defs_oversight.md#material) · [O](../core_05defs_oversight.md#material) · [M](../core_05defs_oversight.md#material-a) · [A](../core_05defs_oversight.md#material-a) · [C](../core_05defs_oversight.md#material-c)
+- [Corpus](../core_05defs_integrative.md#corpus) · [O](../core_05defs_integrative.md#corpus) · [M](../core_05defs_integrative.md#corpus-a) · [A](../core_05defs_integrative.md#corpus-a) · [C](../core_05defs_integrative.md#corpus-c)
+- [Emergency and Contingency](../core_05defs_continuity.md#emergency-and-contingency-constitutional) · [O](../core_05defs_continuity.md#emergency-and-contingency-constitutional) · [M](../core_05defs_continuity.md#emergency-and-contingency-constitutional-a) · [A](../core_05defs_continuity.md#emergency-and-contingency-constitutional-a) · [C](../core_05defs_continuity.md#emergency-and-contingency-constitutional-c)
 
 </details>
 

@@ -87,10 +87,10 @@ The absence of overt deception or forcible act does **not** defeat anti-constitu
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Auditability](core_05defs_oversight.md#auditability) · [O](core_05defs_oversight.md#auditability) · [A](core_05defs_oversight.md#auditability-a) · [C](core_05defs_oversight.md#auditability-c)
-- [Contestability](core_05defs_accountability.md#contestability) · [O](core_05defs_accountability.md#contestability) · [A](core_05defs_accountability.md#contestability-a) · [C](core_05defs_accountability.md#contestability-c)
-- [Necessity](core_05defs_accountability.md#necessity) · [O](core_05defs_accountability.md#necessity) · [A](core_05defs_accountability.md#necessity-a) · [C](core_05defs_accountability.md#necessity-c)
-- [Proportionality](core_05defs_accountability.md#proportionality) · [O](core_05defs_accountability.md#proportionality) · [A](core_05defs_accountability.md#proportionality-a) · [C](core_05defs_accountability.md#proportionality-c)
+- [Auditability](core_05defs_oversight.md#auditability) · [O](core_05defs_oversight.md#auditability) · [M](core_05defs_oversight.md#auditability-a) · [A](core_05defs_oversight.md#auditability-a) · [C](core_05defs_oversight.md#auditability-c)
+- [Contestability](core_05defs_accountability.md#contestability) · [O](core_05defs_accountability.md#contestability) · [M](core_05defs_accountability.md#contestability-a) · [A](core_05defs_accountability.md#contestability-a) · [C](core_05defs_accountability.md#contestability-c)
+- [Necessity](core_05defs_accountability.md#necessity) · [O](core_05defs_accountability.md#necessity) · [M](core_05defs_accountability.md#necessity-a) · [A](core_05defs_accountability.md#necessity-a) · [C](core_05defs_accountability.md#necessity-c)
+- [Proportionality](core_05defs_accountability.md#proportionality) · [O](core_05defs_accountability.md#proportionality) · [M](core_05defs_accountability.md#proportionality-a) · [A](core_05defs_accountability.md#proportionality-a) · [C](core_05defs_accountability.md#proportionality-c)
 
 </details>
 
@@ -140,8 +140,8 @@ The following patterns are **anti-constitutional misconduct within this chapter�
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Contestability](core_05defs_accountability.md#contestability) · [O](core_05defs_accountability.md#contestability) · [A](core_05defs_accountability.md#contestability-a) · [C](core_05defs_accountability.md#contestability-c)
-- [Procedural Fairness](core_05defs_participation.md#procedural-fairness-constitutional) · [O](core_05defs_participation.md#procedural-fairness-constitutional) · [A](core_05defs_participation.md#procedural-fairness-constitutional-a) · [C](core_05defs_participation.md#procedural-fairness-constitutional-c)
+- [Contestability](core_05defs_accountability.md#contestability) · [O](core_05defs_accountability.md#contestability) · [M](core_05defs_accountability.md#contestability-a) · [A](core_05defs_accountability.md#contestability-a) · [C](core_05defs_accountability.md#contestability-c)
+- [Procedural Fairness](core_05defs_participation.md#procedural-fairness-constitutional) · [O](core_05defs_participation.md#procedural-fairness-constitutional) · [M](core_05defs_participation.md#procedural-fairness-constitutional-a) · [A](core_05defs_participation.md#procedural-fairness-constitutional-a) · [C](core_05defs_participation.md#procedural-fairness-constitutional-c)
 
 </details>
 
@@ -209,10 +209,10 @@ This subsection does **not** add an additional designation criterion beyond the 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Epistemic Integrity](core_05defs_oversight.md#epistemic-integrity) · [O](core_05defs_oversight.md#epistemic-integrity-o) · [A](core_05defs_oversight.md#epistemic-integrity-a) · [C](core_05defs_oversight.md#epistemic-integrity-c)
-- [Info-Sphere](core_05defs_participation.md#info-sphere) · [O](core_05defs_participation.md#info-sphere) · [A](core_05defs_participation.md#info-sphere-a) · [C](core_05defs_participation.md#info-sphere-c)
-- [Truth (Constitutional Constraint)](core_05defs_oversight.md#truth-constitutional-constraint) · [O](core_05defs_oversight.md#truth-constitutional-constraint-o) · [A](core_05defs_oversight.md#truth-constitutional-constraint-a) · [C](core_05defs_oversight.md#truth-constitutional-constraint-c)
-- [Transparency](core_05defs_oversight.md#transparency) · [O](core_05defs_oversight.md#transparency) · [A](core_05defs_oversight.md#transparency-a) · [C](core_05defs_oversight.md#transparency-c)
+- [Epistemic Integrity](core_05defs_oversight.md#epistemic-integrity) · [O](core_05defs_oversight.md#epistemic-integrity-o) · [M](core_05defs_oversight.md#epistemic-integrity-a) · [A](core_05defs_oversight.md#epistemic-integrity-a) · [C](core_05defs_oversight.md#epistemic-integrity-c)
+- [Info-Sphere](core_05defs_participation.md#info-sphere) · [O](core_05defs_participation.md#info-sphere) · [M](core_05defs_participation.md#info-sphere-a) · [A](core_05defs_participation.md#info-sphere-a) · [C](core_05defs_participation.md#info-sphere-c)
+- [Truth (Constitutional Constraint)](core_05defs_oversight.md#truth-constitutional-constraint) · [O](core_05defs_oversight.md#truth-constitutional-constraint-o) · [M](core_05defs_oversight.md#truth-constitutional-constraint-a) · [A](core_05defs_oversight.md#truth-constitutional-constraint-a) · [C](core_05defs_oversight.md#truth-constitutional-constraint-c)
+- [Transparency](core_05defs_oversight.md#transparency) · [O](core_05defs_oversight.md#transparency) · [M](core_05defs_oversight.md#transparency-a) · [A](core_05defs_oversight.md#transparency-a) · [C](core_05defs_oversight.md#transparency-c)
 
 </details>
 
@@ -292,12 +292,12 @@ This subsection does **not** add an additional designation criterion beyond the 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Accountability](core_05apex_accountability_leg.md#accountability) · [O](core_05apex_accountability_leg.md#accountability) · [A](core_05apex_accountability_leg.md#accountability-a) · [C](core_05apex_accountability_leg.md#accountability-c)
-- [Auditability](core_05defs_oversight.md#auditability) · [O](core_05defs_oversight.md#auditability) · [A](core_05defs_oversight.md#auditability-a) · [C](core_05defs_oversight.md#auditability-c)
-- [Incentive Alignment](core_05defs_integrative.md#incentive-alignment) · [O](core_05defs_integrative.md#incentive-alignment) · [A](core_05defs_integrative.md#incentive-alignment-a) · [C](core_05defs_integrative.md#incentive-alignment-c)
-- [Oversight](core_05apex_oversight_leg.md#oversight-constitutional) · [O](core_05apex_oversight_leg.md#oversight-constitutional) · [A](core_05apex_oversight_leg.md#oversight-constitutional-a) · [C](core_05apex_oversight_leg.md#oversight-constitutional-c)
-- [Procedural Fairness](core_05defs_participation.md#procedural-fairness-constitutional) · [O](core_05defs_participation.md#procedural-fairness-constitutional) · [A](core_05defs_participation.md#procedural-fairness-constitutional-a) · [C](core_05defs_participation.md#procedural-fairness-constitutional-c)
-- [System Capture](core_05defs_continuity.md#system-capture) · [O](core_05defs_continuity.md#system-capture) · [A](core_05defs_continuity.md#system-capture-a) · [C](core_05defs_continuity.md#system-capture-c)
+- [Accountability](core_05apex_accountability_leg.md#accountability) · [O](core_05apex_accountability_leg.md#accountability) · [M](core_05apex_accountability_leg.md#accountability-m) · [A](core_05apex_accountability_leg.md#accountability-a) · [C](core_05apex_accountability_leg.md#accountability-c)
+- [Auditability](core_05defs_oversight.md#auditability) · [O](core_05defs_oversight.md#auditability) · [M](core_05defs_oversight.md#auditability-a) · [A](core_05defs_oversight.md#auditability-a) · [C](core_05defs_oversight.md#auditability-c)
+- [Incentive Alignment](core_05defs_integrative.md#incentive-alignment) · [O](core_05defs_integrative.md#incentive-alignment) · [M](core_05defs_integrative.md#incentive-alignment-a) · [A](core_05defs_integrative.md#incentive-alignment-a) · [C](core_05defs_integrative.md#incentive-alignment-c)
+- [Oversight](core_05apex_oversight_leg.md#oversight-constitutional) · [O](core_05apex_oversight_leg.md#oversight-constitutional) · [M](core_05apex_oversight_leg.md#oversight-constitutional-m) · [A](core_05apex_oversight_leg.md#oversight-constitutional-a) · [C](core_05apex_oversight_leg.md#oversight-constitutional-c)
+- [Procedural Fairness](core_05defs_participation.md#procedural-fairness-constitutional) · [O](core_05defs_participation.md#procedural-fairness-constitutional) · [M](core_05defs_participation.md#procedural-fairness-constitutional-a) · [A](core_05defs_participation.md#procedural-fairness-constitutional-a) · [C](core_05defs_participation.md#procedural-fairness-constitutional-c)
+- [System Capture](core_05defs_continuity.md#system-capture) · [O](core_05defs_continuity.md#system-capture) · [M](core_05defs_continuity.md#system-capture-a) · [A](core_05defs_continuity.md#system-capture-a) · [C](core_05defs_continuity.md#system-capture-c)
 
 </details>
 
@@ -378,12 +378,12 @@ This subsection does **not** add an additional designation criterion beyond the 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Accountability](core_05apex_accountability_leg.md#accountability) · [O](core_05apex_accountability_leg.md#accountability) · [A](core_05apex_accountability_leg.md#accountability-a) · [C](core_05apex_accountability_leg.md#accountability-c)
-- [Collective Accountability Failure](core_05defs_accountability.md#collective-accountability-failure) · [O](core_05defs_accountability.md#collective-accountability-failure) · [A](core_05defs_accountability.md#collective-accountability-failure-a) · [C](core_05defs_accountability.md#collective-accountability-failure-c)
-- [Coercion and Manipulation](core_05defs_participation.md#coercion-and-manipulation-constitutional) · [O](core_05defs_participation.md#coercion-and-manipulation-constitutional) · [A](core_05defs_participation.md#coercion-and-manipulation-constitutional-a) · [C](core_05defs_participation.md#coercion-and-manipulation-constitutional-c)
-- [Contestability](core_05defs_accountability.md#contestability) · [O](core_05defs_accountability.md#contestability) · [A](core_05defs_accountability.md#contestability-a) · [C](core_05defs_accountability.md#contestability-c)
-- [Procedural Fairness](core_05defs_participation.md#procedural-fairness-constitutional) · [O](core_05defs_participation.md#procedural-fairness-constitutional) · [A](core_05defs_participation.md#procedural-fairness-constitutional-a) · [C](core_05defs_participation.md#procedural-fairness-constitutional-c)
-- [Protected Reporting (Whistleblowing)](core_05defs_accountability.md#protected-reporting-whistleblowing) · [O](core_05defs_accountability.md#protected-reporting-whistleblowing) · [A](core_05defs_accountability.md#protected-reporting-whistleblowing-a) · [C](core_05defs_accountability.md#protected-reporting-whistleblowing-c)
+- [Accountability](core_05apex_accountability_leg.md#accountability) · [O](core_05apex_accountability_leg.md#accountability) · [M](core_05apex_accountability_leg.md#accountability-m) · [A](core_05apex_accountability_leg.md#accountability-a) · [C](core_05apex_accountability_leg.md#accountability-c)
+- [Collective Accountability Failure](core_05defs_accountability.md#collective-accountability-failure) · [O](core_05defs_accountability.md#collective-accountability-failure) · [M](core_05defs_accountability.md#collective-accountability-failure-a) · [A](core_05defs_accountability.md#collective-accountability-failure-a) · [C](core_05defs_accountability.md#collective-accountability-failure-c)
+- [Coercion and Manipulation](core_05defs_participation.md#coercion-and-manipulation-constitutional) · [O](core_05defs_participation.md#coercion-and-manipulation-constitutional) · [M](core_05defs_participation.md#coercion-and-manipulation-constitutional-a) · [A](core_05defs_participation.md#coercion-and-manipulation-constitutional-a) · [C](core_05defs_participation.md#coercion-and-manipulation-constitutional-c)
+- [Contestability](core_05defs_accountability.md#contestability) · [O](core_05defs_accountability.md#contestability) · [M](core_05defs_accountability.md#contestability-a) · [A](core_05defs_accountability.md#contestability-a) · [C](core_05defs_accountability.md#contestability-c)
+- [Procedural Fairness](core_05defs_participation.md#procedural-fairness-constitutional) · [O](core_05defs_participation.md#procedural-fairness-constitutional) · [M](core_05defs_participation.md#procedural-fairness-constitutional-a) · [A](core_05defs_participation.md#procedural-fairness-constitutional-a) · [C](core_05defs_participation.md#procedural-fairness-constitutional-c)
+- [Protected Reporting (Whistleblowing)](core_05defs_accountability.md#protected-reporting-whistleblowing) · [O](core_05defs_accountability.md#protected-reporting-whistleblowing) · [M](core_05defs_accountability.md#protected-reporting-whistleblowing-a) · [A](core_05defs_accountability.md#protected-reporting-whistleblowing-a) · [C](core_05defs_accountability.md#protected-reporting-whistleblowing-c)
 
 </details>
 
@@ -453,12 +453,12 @@ The conduct is in scope only where it has one of the following material effects:
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Accountability](core_05apex_accountability_leg.md#accountability) · [O](core_05apex_accountability_leg.md#accountability) · [A](core_05apex_accountability_leg.md#accountability-a) · [C](core_05apex_accountability_leg.md#accountability-c)
-- [Coercion and Manipulation](core_05defs_participation.md#coercion-and-manipulation-constitutional) · [O](core_05defs_participation.md#coercion-and-manipulation-constitutional) · [A](core_05defs_participation.md#coercion-and-manipulation-constitutional-a) · [C](core_05defs_participation.md#coercion-and-manipulation-constitutional-c)
-- [Contestability](core_05defs_accountability.md#contestability) · [O](core_05defs_accountability.md#contestability) · [A](core_05defs_accountability.md#contestability-a) · [C](core_05defs_accountability.md#contestability-c)
-- [Evidence Preservation](core_05defs_oversight.md#evidence-preservation) · [O](core_05defs_oversight.md#evidence-preservation) · [A](core_05defs_oversight.md#evidence-preservation-a) · [C](core_05defs_oversight.md#evidence-preservation-c)
-- [Procedural Fairness](core_05defs_participation.md#procedural-fairness-constitutional) · [O](core_05defs_participation.md#procedural-fairness-constitutional) · [A](core_05defs_participation.md#procedural-fairness-constitutional-a) · [C](core_05defs_participation.md#procedural-fairness-constitutional-c)
-- [Protected Reporting (Whistleblowing)](core_05defs_accountability.md#protected-reporting-whistleblowing) · [O](core_05defs_accountability.md#protected-reporting-whistleblowing) · [A](core_05defs_accountability.md#protected-reporting-whistleblowing-a) · [C](core_05defs_accountability.md#protected-reporting-whistleblowing-c)
+- [Accountability](core_05apex_accountability_leg.md#accountability) · [O](core_05apex_accountability_leg.md#accountability) · [M](core_05apex_accountability_leg.md#accountability-m) · [A](core_05apex_accountability_leg.md#accountability-a) · [C](core_05apex_accountability_leg.md#accountability-c)
+- [Coercion and Manipulation](core_05defs_participation.md#coercion-and-manipulation-constitutional) · [O](core_05defs_participation.md#coercion-and-manipulation-constitutional) · [M](core_05defs_participation.md#coercion-and-manipulation-constitutional-a) · [A](core_05defs_participation.md#coercion-and-manipulation-constitutional-a) · [C](core_05defs_participation.md#coercion-and-manipulation-constitutional-c)
+- [Contestability](core_05defs_accountability.md#contestability) · [O](core_05defs_accountability.md#contestability) · [M](core_05defs_accountability.md#contestability-a) · [A](core_05defs_accountability.md#contestability-a) · [C](core_05defs_accountability.md#contestability-c)
+- [Evidence Preservation](core_05defs_oversight.md#evidence-preservation) · [O](core_05defs_oversight.md#evidence-preservation) · [M](core_05defs_oversight.md#evidence-preservation-a) · [A](core_05defs_oversight.md#evidence-preservation-a) · [C](core_05defs_oversight.md#evidence-preservation-c)
+- [Procedural Fairness](core_05defs_participation.md#procedural-fairness-constitutional) · [O](core_05defs_participation.md#procedural-fairness-constitutional) · [M](core_05defs_participation.md#procedural-fairness-constitutional-a) · [A](core_05defs_participation.md#procedural-fairness-constitutional-a) · [C](core_05defs_participation.md#procedural-fairness-constitutional-c)
+- [Protected Reporting (Whistleblowing)](core_05defs_accountability.md#protected-reporting-whistleblowing) · [O](core_05defs_accountability.md#protected-reporting-whistleblowing) · [M](core_05defs_accountability.md#protected-reporting-whistleblowing-a) · [A](core_05defs_accountability.md#protected-reporting-whistleblowing-a) · [C](core_05defs_accountability.md#protected-reporting-whistleblowing-c)
 
 </details>
 
@@ -555,12 +555,12 @@ This subsection does **not** add an additional designation criterion beyond the 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Accountability](core_05apex_accountability_leg.md#accountability) · [O](core_05apex_accountability_leg.md#accountability) · [A](core_05apex_accountability_leg.md#accountability-a) · [C](core_05apex_accountability_leg.md#accountability-c)
-- [Auditability](core_05defs_oversight.md#auditability) · [O](core_05defs_oversight.md#auditability) · [A](core_05defs_oversight.md#auditability-a) · [C](core_05defs_oversight.md#auditability-c)
-- [Incentive Alignment](core_05defs_integrative.md#incentive-alignment) · [O](core_05defs_integrative.md#incentive-alignment) · [A](core_05defs_integrative.md#incentive-alignment-a) · [C](core_05defs_integrative.md#incentive-alignment-c)
-- [Protected Reporting Retaliation and Access Interference](core_05defs_accountability.md#protected-reporting-retaliation-and-access-interference) · [O](core_05defs_accountability.md#protected-reporting-retaliation-and-access-interference) · [A](core_05defs_accountability.md#protected-reporting-retaliation-and-access-interference-a) · [C](core_05defs_accountability.md#protected-reporting-retaliation-and-access-interference-c)
-- [System Capture](core_05defs_continuity.md#system-capture) · [O](core_05defs_continuity.md#system-capture) · [A](core_05defs_continuity.md#system-capture-a) · [C](core_05defs_continuity.md#system-capture-c)
-- [Truth (Constitutional Constraint)](core_05defs_oversight.md#truth-constitutional-constraint) · [O](core_05defs_oversight.md#truth-constitutional-constraint-o) · [A](core_05defs_oversight.md#truth-constitutional-constraint-a) · [C](core_05defs_oversight.md#truth-constitutional-constraint-c)
+- [Accountability](core_05apex_accountability_leg.md#accountability) · [O](core_05apex_accountability_leg.md#accountability) · [M](core_05apex_accountability_leg.md#accountability-m) · [A](core_05apex_accountability_leg.md#accountability-a) · [C](core_05apex_accountability_leg.md#accountability-c)
+- [Auditability](core_05defs_oversight.md#auditability) · [O](core_05defs_oversight.md#auditability) · [M](core_05defs_oversight.md#auditability-a) · [A](core_05defs_oversight.md#auditability-a) · [C](core_05defs_oversight.md#auditability-c)
+- [Incentive Alignment](core_05defs_integrative.md#incentive-alignment) · [O](core_05defs_integrative.md#incentive-alignment) · [M](core_05defs_integrative.md#incentive-alignment-a) · [A](core_05defs_integrative.md#incentive-alignment-a) · [C](core_05defs_integrative.md#incentive-alignment-c)
+- [Protected Reporting Retaliation and Access Interference](core_05defs_accountability.md#protected-reporting-retaliation-and-access-interference) · [O](core_05defs_accountability.md#protected-reporting-retaliation-and-access-interference) · [M](core_05defs_accountability.md#protected-reporting-retaliation-and-access-interference-a) · [A](core_05defs_accountability.md#protected-reporting-retaliation-and-access-interference-a) · [C](core_05defs_accountability.md#protected-reporting-retaliation-and-access-interference-c)
+- [System Capture](core_05defs_continuity.md#system-capture) · [O](core_05defs_continuity.md#system-capture) · [M](core_05defs_continuity.md#system-capture-a) · [A](core_05defs_continuity.md#system-capture-a) · [C](core_05defs_continuity.md#system-capture-c)
+- [Truth (Constitutional Constraint)](core_05defs_oversight.md#truth-constitutional-constraint) · [O](core_05defs_oversight.md#truth-constitutional-constraint-o) · [M](core_05defs_oversight.md#truth-constitutional-constraint-a) · [A](core_05defs_oversight.md#truth-constitutional-constraint-a) · [C](core_05defs_oversight.md#truth-constitutional-constraint-c)
 
 </details>
 
@@ -667,14 +667,14 @@ This subsection does **not** add an additional designation criterion beyond the 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Accountability](core_05apex_accountability_leg.md#accountability) · [O](core_05apex_accountability_leg.md#accountability) · [A](core_05apex_accountability_leg.md#accountability-a) · [C](core_05apex_accountability_leg.md#accountability-c)
-- [Auditability](core_05defs_oversight.md#auditability) · [O](core_05defs_oversight.md#auditability) · [A](core_05defs_oversight.md#auditability-a) · [C](core_05defs_oversight.md#auditability-c)
-- [Contestability](core_05defs_accountability.md#contestability) · [O](core_05defs_accountability.md#contestability) · [A](core_05defs_accountability.md#contestability-a) · [C](core_05defs_accountability.md#contestability-c)
-- [Oversight](core_05apex_oversight_leg.md#oversight-constitutional) · [O](core_05apex_oversight_leg.md#oversight-constitutional) · [A](core_05apex_oversight_leg.md#oversight-constitutional-a) · [C](core_05apex_oversight_leg.md#oversight-constitutional-c)
-- [Procedural Fairness](core_05defs_participation.md#procedural-fairness-constitutional) · [O](core_05defs_participation.md#procedural-fairness-constitutional) · [A](core_05defs_participation.md#procedural-fairness-constitutional-a) · [C](core_05defs_participation.md#procedural-fairness-constitutional-c)
-- [Protected Reporting (Whistleblowing)](core_05defs_accountability.md#protected-reporting-whistleblowing) · [O](core_05defs_accountability.md#protected-reporting-whistleblowing) · [A](core_05defs_accountability.md#protected-reporting-whistleblowing-a) · [C](core_05defs_accountability.md#protected-reporting-whistleblowing-c)
-- [Protected Reporting Retaliation and Access Interference](core_05defs_accountability.md#protected-reporting-retaliation-and-access-interference) · [O](core_05defs_accountability.md#protected-reporting-retaliation-and-access-interference) · [A](core_05defs_accountability.md#protected-reporting-retaliation-and-access-interference-a) · [C](core_05defs_accountability.md#protected-reporting-retaliation-and-access-interference-c)
-- [System Capture](core_05defs_continuity.md#system-capture) · [O](core_05defs_continuity.md#system-capture) · [A](core_05defs_continuity.md#system-capture-a) · [C](core_05defs_continuity.md#system-capture-c)
+- [Accountability](core_05apex_accountability_leg.md#accountability) · [O](core_05apex_accountability_leg.md#accountability) · [M](core_05apex_accountability_leg.md#accountability-m) · [A](core_05apex_accountability_leg.md#accountability-a) · [C](core_05apex_accountability_leg.md#accountability-c)
+- [Auditability](core_05defs_oversight.md#auditability) · [O](core_05defs_oversight.md#auditability) · [M](core_05defs_oversight.md#auditability-a) · [A](core_05defs_oversight.md#auditability-a) · [C](core_05defs_oversight.md#auditability-c)
+- [Contestability](core_05defs_accountability.md#contestability) · [O](core_05defs_accountability.md#contestability) · [M](core_05defs_accountability.md#contestability-a) · [A](core_05defs_accountability.md#contestability-a) · [C](core_05defs_accountability.md#contestability-c)
+- [Oversight](core_05apex_oversight_leg.md#oversight-constitutional) · [O](core_05apex_oversight_leg.md#oversight-constitutional) · [M](core_05apex_oversight_leg.md#oversight-constitutional-m) · [A](core_05apex_oversight_leg.md#oversight-constitutional-a) · [C](core_05apex_oversight_leg.md#oversight-constitutional-c)
+- [Procedural Fairness](core_05defs_participation.md#procedural-fairness-constitutional) · [O](core_05defs_participation.md#procedural-fairness-constitutional) · [M](core_05defs_participation.md#procedural-fairness-constitutional-a) · [A](core_05defs_participation.md#procedural-fairness-constitutional-a) · [C](core_05defs_participation.md#procedural-fairness-constitutional-c)
+- [Protected Reporting (Whistleblowing)](core_05defs_accountability.md#protected-reporting-whistleblowing) · [O](core_05defs_accountability.md#protected-reporting-whistleblowing) · [M](core_05defs_accountability.md#protected-reporting-whistleblowing-a) · [A](core_05defs_accountability.md#protected-reporting-whistleblowing-a) · [C](core_05defs_accountability.md#protected-reporting-whistleblowing-c)
+- [Protected Reporting Retaliation and Access Interference](core_05defs_accountability.md#protected-reporting-retaliation-and-access-interference) · [O](core_05defs_accountability.md#protected-reporting-retaliation-and-access-interference) · [M](core_05defs_accountability.md#protected-reporting-retaliation-and-access-interference-a) · [A](core_05defs_accountability.md#protected-reporting-retaliation-and-access-interference-a) · [C](core_05defs_accountability.md#protected-reporting-retaliation-and-access-interference-c)
+- [System Capture](core_05defs_continuity.md#system-capture) · [O](core_05defs_continuity.md#system-capture) · [M](core_05defs_continuity.md#system-capture-a) · [A](core_05defs_continuity.md#system-capture-a) · [C](core_05defs_continuity.md#system-capture-c)
 
 </details>
 
@@ -812,12 +812,12 @@ It routes evaluation of the named pattern into the existing designation criteria
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Dependency](core_05defs_continuity.md#dependency) · [O](core_05defs_continuity.md#dependency) · [A](core_05defs_continuity.md#dependency-a) · [C](core_05defs_continuity.md#dependency-c)
-- [Cascading Failure](core_05defs_continuity.md#cascading-failure) · [O](core_05defs_continuity.md#cascading-failure) · [A](core_05defs_continuity.md#cascading-failure-a) · [C](core_05defs_continuity.md#cascading-failure-c)
-- [Safety (Constraint)](core_05defs_continuity.md#safety-constraint) · [O](core_05defs_continuity.md#safety-constraint) · [A](core_05defs_continuity.md#safety-constraint-a) · [C](core_05defs_continuity.md#safety-constraint-c)
-- [Reversibility](core_05defs_continuity.md#reversibility-constitutional) · [O](core_05defs_continuity.md#reversibility-constitutional) · [A](core_05defs_continuity.md#reversibility-constitutional-a) · [C](core_05defs_continuity.md#reversibility-constitutional-c)
-- [Harm](core_05defs_accountability.md#harm) · [O](core_05defs_accountability.md#harm) · [A](core_05defs_accountability.md#harm-a) · [C](core_05defs_accountability.md#harm-c)
-- [System Capture](core_05defs_continuity.md#system-capture) · [O](core_05defs_continuity.md#system-capture) · [A](core_05defs_continuity.md#system-capture-a) · [C](core_05defs_continuity.md#system-capture-c)
+- [Dependency](core_05defs_continuity.md#dependency) · [O](core_05defs_continuity.md#dependency) · [M](core_05defs_continuity.md#dependency-a) · [A](core_05defs_continuity.md#dependency-a) · [C](core_05defs_continuity.md#dependency-c)
+- [Cascading Failure](core_05defs_continuity.md#cascading-failure) · [O](core_05defs_continuity.md#cascading-failure) · [M](core_05defs_continuity.md#cascading-failure-a) · [A](core_05defs_continuity.md#cascading-failure-a) · [C](core_05defs_continuity.md#cascading-failure-c)
+- [Safety (Constraint)](core_05defs_continuity.md#safety-constraint) · [O](core_05defs_continuity.md#safety-constraint) · [M](core_05defs_continuity.md#safety-constraint-a) · [A](core_05defs_continuity.md#safety-constraint-a) · [C](core_05defs_continuity.md#safety-constraint-c)
+- [Reversibility](core_05defs_continuity.md#reversibility-constitutional) · [O](core_05defs_continuity.md#reversibility-constitutional) · [M](core_05defs_continuity.md#reversibility-constitutional-a) · [A](core_05defs_continuity.md#reversibility-constitutional-a) · [C](core_05defs_continuity.md#reversibility-constitutional-c)
+- [Harm](core_05defs_accountability.md#harm) · [O](core_05defs_accountability.md#harm) · [M](core_05defs_accountability.md#harm-a) · [A](core_05defs_accountability.md#harm-a) · [C](core_05defs_accountability.md#harm-c)
+- [System Capture](core_05defs_continuity.md#system-capture) · [O](core_05defs_continuity.md#system-capture) · [M](core_05defs_continuity.md#system-capture-a) · [A](core_05defs_continuity.md#system-capture-a) · [C](core_05defs_continuity.md#system-capture-c)
 
 </details>
 
@@ -974,10 +974,10 @@ It routes evaluation of the named pattern into the existing designation criteria
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Procedural Fairness](core_05defs_participation.md#procedural-fairness-constitutional) · [O](core_05defs_participation.md#procedural-fairness-constitutional) · [A](core_05defs_participation.md#procedural-fairness-constitutional-a) · [C](core_05defs_participation.md#procedural-fairness-constitutional-c)
-- [Contestability](core_05defs_accountability.md#contestability) · [O](core_05defs_accountability.md#contestability) · [A](core_05defs_accountability.md#contestability-a) · [C](core_05defs_accountability.md#contestability-c)
-- [System Capture](core_05defs_continuity.md#system-capture) · [O](core_05defs_continuity.md#system-capture) · [A](core_05defs_continuity.md#system-capture-a) · [C](core_05defs_continuity.md#system-capture-c)
-- [Forum Family, Constitutional](core_05defs_accountability.md#forum-family-constitutional) · [O](core_05defs_accountability.md#forum-family-constitutional) · [A](core_05defs_accountability.md#forum-family-constitutional-a) · [C](core_05defs_accountability.md#forum-family-constitutional-c)
+- [Procedural Fairness](core_05defs_participation.md#procedural-fairness-constitutional) · [O](core_05defs_participation.md#procedural-fairness-constitutional) · [M](core_05defs_participation.md#procedural-fairness-constitutional-a) · [A](core_05defs_participation.md#procedural-fairness-constitutional-a) · [C](core_05defs_participation.md#procedural-fairness-constitutional-c)
+- [Contestability](core_05defs_accountability.md#contestability) · [O](core_05defs_accountability.md#contestability) · [M](core_05defs_accountability.md#contestability-a) · [A](core_05defs_accountability.md#contestability-a) · [C](core_05defs_accountability.md#contestability-c)
+- [System Capture](core_05defs_continuity.md#system-capture) · [O](core_05defs_continuity.md#system-capture) · [M](core_05defs_continuity.md#system-capture-a) · [A](core_05defs_continuity.md#system-capture-a) · [C](core_05defs_continuity.md#system-capture-c)
+- [Forum Family, Constitutional](core_05defs_accountability.md#forum-family-constitutional) · [O](core_05defs_accountability.md#forum-family-constitutional) · [M](core_05defs_accountability.md#forum-family-constitutional-a) · [A](core_05defs_accountability.md#forum-family-constitutional-a) · [C](core_05defs_accountability.md#forum-family-constitutional-c)
 
 </details>
 
@@ -1043,12 +1043,12 @@ It routes evaluation of the named pattern into the existing designation criteria
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Accountability](core_05apex_accountability_leg.md#accountability) · [O](core_05apex_accountability_leg.md#accountability) · [A](core_05apex_accountability_leg.md#accountability-a) · [C](core_05apex_accountability_leg.md#accountability-c)
-- [Contestability](core_05defs_accountability.md#contestability) · [O](core_05defs_accountability.md#contestability) · [A](core_05defs_accountability.md#contestability-a) · [C](core_05defs_accountability.md#contestability-c)
-- [Capture of Resolution Pathways](core_05defs_accountability.md#capture-of-resolution-pathways) · [O](core_05defs_accountability.md#capture-of-resolution-pathways) · [A](core_05defs_accountability.md#capture-of-resolution-pathways-a) · [C](core_05defs_accountability.md#capture-of-resolution-pathways-c)
-- [Auditability](core_05defs_oversight.md#auditability) · [O](core_05defs_oversight.md#auditability) · [A](core_05defs_oversight.md#auditability-a) · [C](core_05defs_oversight.md#auditability-c)
-- [Evidence Preservation](core_05defs_oversight.md#evidence-preservation) · [O](core_05defs_oversight.md#evidence-preservation) · [A](core_05defs_oversight.md#evidence-preservation-a) · [C](core_05defs_oversight.md#evidence-preservation-c)
-- [Timely Resolution](core_05defs_accountability.md#timely-resolution-constitutional) · [O](core_05defs_accountability.md#timely-resolution-constitutional) · [A](core_05defs_accountability.md#timely-resolution-constitutional-a) · [C](core_05defs_accountability.md#timely-resolution-constitutional-c)
+- [Accountability](core_05apex_accountability_leg.md#accountability) · [O](core_05apex_accountability_leg.md#accountability) · [M](core_05apex_accountability_leg.md#accountability-m) · [A](core_05apex_accountability_leg.md#accountability-a) · [C](core_05apex_accountability_leg.md#accountability-c)
+- [Contestability](core_05defs_accountability.md#contestability) · [O](core_05defs_accountability.md#contestability) · [M](core_05defs_accountability.md#contestability-a) · [A](core_05defs_accountability.md#contestability-a) · [C](core_05defs_accountability.md#contestability-c)
+- [Capture of Resolution Pathways](core_05defs_accountability.md#capture-of-resolution-pathways) · [O](core_05defs_accountability.md#capture-of-resolution-pathways) · [M](core_05defs_accountability.md#capture-of-resolution-pathways-a) · [A](core_05defs_accountability.md#capture-of-resolution-pathways-a) · [C](core_05defs_accountability.md#capture-of-resolution-pathways-c)
+- [Auditability](core_05defs_oversight.md#auditability) · [O](core_05defs_oversight.md#auditability) · [M](core_05defs_oversight.md#auditability-a) · [A](core_05defs_oversight.md#auditability-a) · [C](core_05defs_oversight.md#auditability-c)
+- [Evidence Preservation](core_05defs_oversight.md#evidence-preservation) · [O](core_05defs_oversight.md#evidence-preservation) · [M](core_05defs_oversight.md#evidence-preservation-a) · [A](core_05defs_oversight.md#evidence-preservation-a) · [C](core_05defs_oversight.md#evidence-preservation-c)
+- [Timely Resolution](core_05defs_accountability.md#timely-resolution-constitutional) · [O](core_05defs_accountability.md#timely-resolution-constitutional) · [M](core_05defs_accountability.md#timely-resolution-constitutional-a) · [A](core_05defs_accountability.md#timely-resolution-constitutional-a) · [C](core_05defs_accountability.md#timely-resolution-constitutional-c)
 
 </details>
 

@@ -11,13 +11,13 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Trust Degradation and Misleading Reliance](../core_05defs_continuity.md#trust-degradation-and-misleading-reliance) · [O](../core_05defs_continuity.md#trust-degradation-and-misleading-reliance) · [A](../core_05defs_continuity.md#trust-degradation-and-misleading-reliance-a) · [C](../core_05defs_continuity.md#trust-degradation-and-misleading-reliance-c)
-- [Authority Stack and Internal Hierarchy](../core_05defs_integrative.md#authority-stack) · [O](../core_05defs_integrative.md#authority-stack) · [A](../core_05defs_integrative.md#authority-stack-a) · [C](../core_05defs_integrative.md#authority-stack-c)
-- [Adjudication and Dispute Resolution](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [A](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [C](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-c)
-- [Classification-Scaled Governance](../core_05defs_oversight.md#classification-scaled-governance) · [O](../core_05defs_oversight.md#classification-scaled-governance) · [A](../core_05defs_oversight.md#classification-scaled-governance-a) · [C](../core_05defs_oversight.md#classification-scaled-governance-c)
-- [Authority Stack and Internal Hierarchy](../core_05defs_integrative.md#authority-stack) · [O](../core_05defs_integrative.md#authority-stack) · [A](../core_05defs_integrative.md#authority-stack-a) · [C](../core_05defs_integrative.md#authority-stack-c)
-- [Emergency and Contingency](../core_05defs_continuity.md#emergency-and-contingency-constitutional) · [O](../core_05defs_continuity.md#emergency-and-contingency-constitutional) · [A](../core_05defs_continuity.md#emergency-and-contingency-constitutional-a) · [C](../core_05defs_continuity.md#emergency-and-contingency-constitutional-c)
-- [Incentive Alignment](../core_05defs_integrative.md#incentive-alignment) · [O](../core_05defs_integrative.md#incentive-alignment) · [A](../core_05defs_integrative.md#incentive-alignment-a) · [C](../core_05defs_integrative.md#incentive-alignment-c)
+- [Trust Degradation and Misleading Reliance](../core_05defs_continuity.md#trust-degradation-and-misleading-reliance) · [O](../core_05defs_continuity.md#trust-degradation-and-misleading-reliance) · [M](../core_05defs_continuity.md#trust-degradation-and-misleading-reliance-a) · [A](../core_05defs_continuity.md#trust-degradation-and-misleading-reliance-a) · [C](../core_05defs_continuity.md#trust-degradation-and-misleading-reliance-c)
+- [Authority Stack and Internal Hierarchy](../core_05defs_integrative.md#authority-stack) · [O](../core_05defs_integrative.md#authority-stack) · [M](../core_05defs_integrative.md#authority-stack-a) · [A](../core_05defs_integrative.md#authority-stack-a) · [C](../core_05defs_integrative.md#authority-stack-c)
+- [Adjudication and Dispute Resolution](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [M](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [A](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [C](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-c)
+- [Classification-Scaled Governance](../core_05defs_oversight.md#classification-scaled-governance) · [O](../core_05defs_oversight.md#classification-scaled-governance) · [M](../core_05defs_oversight.md#classification-scaled-governance-a) · [A](../core_05defs_oversight.md#classification-scaled-governance-a) · [C](../core_05defs_oversight.md#classification-scaled-governance-c)
+- [Authority Stack and Internal Hierarchy](../core_05defs_integrative.md#authority-stack) · [O](../core_05defs_integrative.md#authority-stack) · [M](../core_05defs_integrative.md#authority-stack-a) · [A](../core_05defs_integrative.md#authority-stack-a) · [C](../core_05defs_integrative.md#authority-stack-c)
+- [Emergency and Contingency](../core_05defs_continuity.md#emergency-and-contingency-constitutional) · [O](../core_05defs_continuity.md#emergency-and-contingency-constitutional) · [M](../core_05defs_continuity.md#emergency-and-contingency-constitutional-a) · [A](../core_05defs_continuity.md#emergency-and-contingency-constitutional-a) · [C](../core_05defs_continuity.md#emergency-and-contingency-constitutional-c)
+- [Incentive Alignment](../core_05defs_integrative.md#incentive-alignment) · [O](../core_05defs_integrative.md#incentive-alignment) · [M](../core_05defs_integrative.md#incentive-alignment-a) · [A](../core_05defs_integrative.md#incentive-alignment-a) · [C](../core_05defs_integrative.md#incentive-alignment-c)
 
 </details>
 
@@ -64,13 +64,13 @@ A hybrid design that names home and rotating roles but omits **CJS-4.1.2** publi
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Corpus](../core_05defs_integrative.md#corpus) · [O](../core_05defs_integrative.md#corpus) · [A](../core_05defs_integrative.md#corpus-a) · [C](../core_05defs_integrative.md#corpus-c)
-- [System](../core_05defs_continuity.md#system-definition) · [O](../core_05defs_continuity.md#system-definition) · [A](../core_05defs_continuity.md#system-definition-a) · [C](../core_05defs_continuity.md#system-definition-c)
-- [Authority Stack and Internal Hierarchy](../core_05defs_integrative.md#authority-stack) · [O](../core_05defs_integrative.md#authority-stack) · [A](../core_05defs_integrative.md#authority-stack-a) · [C](../core_05defs_integrative.md#authority-stack-c)
-- [System Capture](../core_05defs_continuity.md#system-capture) · [O](../core_05defs_continuity.md#system-capture) · [A](../core_05defs_continuity.md#system-capture-a) · [C](../core_05defs_continuity.md#system-capture-c)
-- [Classification-Scaled Governance](../core_05defs_oversight.md#classification-scaled-governance) · [O](../core_05defs_oversight.md#classification-scaled-governance) · [A](../core_05defs_oversight.md#classification-scaled-governance-a) · [C](../core_05defs_oversight.md#classification-scaled-governance-c)
-- [Emergency and Contingency](../core_05defs_continuity.md#emergency-and-contingency-constitutional) · [O](../core_05defs_continuity.md#emergency-and-contingency-constitutional) · [A](../core_05defs_continuity.md#emergency-and-contingency-constitutional-a) · [C](../core_05defs_continuity.md#emergency-and-contingency-constitutional-c)
-- [Adjudication and Dispute Resolution](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [A](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [C](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-c)
+- [Corpus](../core_05defs_integrative.md#corpus) · [O](../core_05defs_integrative.md#corpus) · [M](../core_05defs_integrative.md#corpus-a) · [A](../core_05defs_integrative.md#corpus-a) · [C](../core_05defs_integrative.md#corpus-c)
+- [System](../core_05defs_continuity.md#system-definition) · [O](../core_05defs_continuity.md#system-definition) · [M](../core_05defs_continuity.md#system-definition-a) · [A](../core_05defs_continuity.md#system-definition-a) · [C](../core_05defs_continuity.md#system-definition-c)
+- [Authority Stack and Internal Hierarchy](../core_05defs_integrative.md#authority-stack) · [O](../core_05defs_integrative.md#authority-stack) · [M](../core_05defs_integrative.md#authority-stack-a) · [A](../core_05defs_integrative.md#authority-stack-a) · [C](../core_05defs_integrative.md#authority-stack-c)
+- [System Capture](../core_05defs_continuity.md#system-capture) · [O](../core_05defs_continuity.md#system-capture) · [M](../core_05defs_continuity.md#system-capture-a) · [A](../core_05defs_continuity.md#system-capture-a) · [C](../core_05defs_continuity.md#system-capture-c)
+- [Classification-Scaled Governance](../core_05defs_oversight.md#classification-scaled-governance) · [O](../core_05defs_oversight.md#classification-scaled-governance) · [M](../core_05defs_oversight.md#classification-scaled-governance-a) · [A](../core_05defs_oversight.md#classification-scaled-governance-a) · [C](../core_05defs_oversight.md#classification-scaled-governance-c)
+- [Emergency and Contingency](../core_05defs_continuity.md#emergency-and-contingency-constitutional) · [O](../core_05defs_continuity.md#emergency-and-contingency-constitutional) · [M](../core_05defs_continuity.md#emergency-and-contingency-constitutional-a) · [A](../core_05defs_continuity.md#emergency-and-contingency-constitutional-a) · [C](../core_05defs_continuity.md#emergency-and-contingency-constitutional-c)
+- [Adjudication and Dispute Resolution](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [M](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [A](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [C](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-c)
 
 </details>
 
@@ -111,8 +111,8 @@ Every covered body must use a **hybrid design** that includes both:
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Emergency and Contingency](../core_05defs_continuity.md#emergency-and-contingency-constitutional) · [O](../core_05defs_continuity.md#emergency-and-contingency-constitutional) · [A](../core_05defs_continuity.md#emergency-and-contingency-constitutional-a) · [C](../core_05defs_continuity.md#emergency-and-contingency-constitutional-c)
-- [Adjudication and Dispute Resolution](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [A](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [C](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-c)
+- [Emergency and Contingency](../core_05defs_continuity.md#emergency-and-contingency-constitutional) · [O](../core_05defs_continuity.md#emergency-and-contingency-constitutional) · [M](../core_05defs_continuity.md#emergency-and-contingency-constitutional-a) · [A](../core_05defs_continuity.md#emergency-and-contingency-constitutional-a) · [C](../core_05defs_continuity.md#emergency-and-contingency-constitutional-c)
+- [Adjudication and Dispute Resolution](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional) · [M](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [A](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [C](../core_05defs_accountability.md#adjudication-and-dispute-resolution-constitutional-c)
 
 </details>
 
@@ -142,9 +142,9 @@ Sample formulas are illustrative unless a **primary owner** makes them mandatory
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Corpus](../core_05defs_integrative.md#corpus) · [O](../core_05defs_integrative.md#corpus) · [A](../core_05defs_integrative.md#corpus-a) · [C](../core_05defs_integrative.md#corpus-c)
-- [Authority Stack and Internal Hierarchy](../core_05defs_integrative.md#authority-stack) · [O](../core_05defs_integrative.md#authority-stack) · [A](../core_05defs_integrative.md#authority-stack-a) · [C](../core_05defs_integrative.md#authority-stack-c)
-- [Authority Stack and Internal Hierarchy](../core_05defs_integrative.md#authority-stack) · [O](../core_05defs_integrative.md#authority-stack) · [A](../core_05defs_integrative.md#authority-stack-a) · [C](../core_05defs_integrative.md#authority-stack-c)
+- [Corpus](../core_05defs_integrative.md#corpus) · [O](../core_05defs_integrative.md#corpus) · [M](../core_05defs_integrative.md#corpus-a) · [A](../core_05defs_integrative.md#corpus-a) · [C](../core_05defs_integrative.md#corpus-c)
+- [Authority Stack and Internal Hierarchy](../core_05defs_integrative.md#authority-stack) · [O](../core_05defs_integrative.md#authority-stack) · [M](../core_05defs_integrative.md#authority-stack-a) · [A](../core_05defs_integrative.md#authority-stack-a) · [C](../core_05defs_integrative.md#authority-stack-c)
+- [Authority Stack and Internal Hierarchy](../core_05defs_integrative.md#authority-stack) · [O](../core_05defs_integrative.md#authority-stack) · [M](../core_05defs_integrative.md#authority-stack-a) · [A](../core_05defs_integrative.md#authority-stack-a) · [C](../core_05defs_integrative.md#authority-stack-c)
 
 </details>
 
@@ -173,13 +173,13 @@ When revising **CJS** joint-structure text:
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Trust Degradation and Misleading Reliance](../core_05defs_continuity.md#trust-degradation-and-misleading-reliance) · [O](../core_05defs_continuity.md#trust-degradation-and-misleading-reliance) · [A](../core_05defs_continuity.md#trust-degradation-and-misleading-reliance-a) · [C](../core_05defs_continuity.md#trust-degradation-and-misleading-reliance-c)
-- [Trustworthiness](../core_05defs_continuity.md#trustworthiness) · [O](../core_05defs_continuity.md#trustworthiness) · [A](../core_05defs_continuity.md#trustworthiness-a) · [C](../core_05defs_continuity.md#trustworthiness-c)
-- [Dependency](../core_05defs_continuity.md#dependency) · [O](../core_05defs_continuity.md#dependency) · [A](../core_05defs_continuity.md#dependency-a) · [C](../core_05defs_continuity.md#dependency-c)
-- [System](../core_05defs_continuity.md#system-definition) · [O](../core_05defs_continuity.md#system-definition) · [A](../core_05defs_continuity.md#system-definition-a) · [C](../core_05defs_continuity.md#system-definition-c)
-- [Trust](../core_05defs_continuity.md#trust) · [O](../core_05defs_continuity.md#trust) · [A](../core_05defs_continuity.md#trust-a) · [C](../core_05defs_continuity.md#trust-c)
-- [Incentive Alignment](../core_05defs_integrative.md#incentive-alignment) · [O](../core_05defs_integrative.md#incentive-alignment) · [A](../core_05defs_integrative.md#incentive-alignment-a) · [C](../core_05defs_integrative.md#incentive-alignment-c)
-- [Auditability](../core_05defs_oversight.md#auditability) · [O](../core_05defs_oversight.md#auditability) · [A](../core_05defs_oversight.md#auditability-a) · [C](../core_05defs_oversight.md#auditability-c)
+- [Trust Degradation and Misleading Reliance](../core_05defs_continuity.md#trust-degradation-and-misleading-reliance) · [O](../core_05defs_continuity.md#trust-degradation-and-misleading-reliance) · [M](../core_05defs_continuity.md#trust-degradation-and-misleading-reliance-a) · [A](../core_05defs_continuity.md#trust-degradation-and-misleading-reliance-a) · [C](../core_05defs_continuity.md#trust-degradation-and-misleading-reliance-c)
+- [Trustworthiness](../core_05defs_continuity.md#trustworthiness) · [O](../core_05defs_continuity.md#trustworthiness) · [M](../core_05defs_continuity.md#trustworthiness-a) · [A](../core_05defs_continuity.md#trustworthiness-a) · [C](../core_05defs_continuity.md#trustworthiness-c)
+- [Dependency](../core_05defs_continuity.md#dependency) · [O](../core_05defs_continuity.md#dependency) · [M](../core_05defs_continuity.md#dependency-a) · [A](../core_05defs_continuity.md#dependency-a) · [C](../core_05defs_continuity.md#dependency-c)
+- [System](../core_05defs_continuity.md#system-definition) · [O](../core_05defs_continuity.md#system-definition) · [M](../core_05defs_continuity.md#system-definition-a) · [A](../core_05defs_continuity.md#system-definition-a) · [C](../core_05defs_continuity.md#system-definition-c)
+- [Trust](../core_05defs_continuity.md#trust) · [O](../core_05defs_continuity.md#trust) · [M](../core_05defs_continuity.md#trust-a) · [A](../core_05defs_continuity.md#trust-a) · [C](../core_05defs_continuity.md#trust-c)
+- [Incentive Alignment](../core_05defs_integrative.md#incentive-alignment) · [O](../core_05defs_integrative.md#incentive-alignment) · [M](../core_05defs_integrative.md#incentive-alignment-a) · [A](../core_05defs_integrative.md#incentive-alignment-a) · [C](../core_05defs_integrative.md#incentive-alignment-c)
+- [Auditability](../core_05defs_oversight.md#auditability) · [O](../core_05defs_oversight.md#auditability) · [M](../core_05defs_oversight.md#auditability-a) · [A](../core_05defs_oversight.md#auditability-a) · [C](../core_05defs_oversight.md#auditability-c)
 
 </details>
 
@@ -226,14 +226,14 @@ Trust claims must remain consistent with **CJS-3.2** (*No false partial complian
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Competency Bar](../core_05defs_accountability.md#competency-bar) · [O](../core_05defs_accountability.md#competency-bar) · [A](../core_05defs_accountability.md#competency-bar-a) · [C](../core_05defs_accountability.md#competency-bar-c)
-- [Competency Clearance](../core_05defs_accountability.md#competency-clearance) · [O](../core_05defs_accountability.md#competency-clearance) · [A](../core_05defs_accountability.md#competency-clearance-a) · [C](../core_05defs_accountability.md#competency-clearance-c)
-- [Governance](../core_05defs_accountability.md#governance) · [O](../core_05defs_accountability.md#governance) · [A](../core_05defs_accountability.md#governance-a) · [C](../core_05defs_accountability.md#governance-c)
-- [Sentient](../core_05defs_participation.md#sentient-composite) · [O](../core_05defs_participation.md#sentient-composite) · [A](../core_05defs_participation.md#sentient-composite-a) · [C](../core_05defs_integrative.md#sentient-composite-c)
-- [Corpus](../core_05defs_integrative.md#corpus) · [O](../core_05defs_integrative.md#corpus) · [A](../core_05defs_integrative.md#corpus-a) · [C](../core_05defs_integrative.md#corpus-c)
-- [System](../core_05defs_continuity.md#system-definition) · [O](../core_05defs_continuity.md#system-definition) · [A](../core_05defs_continuity.md#system-definition-a) · [C](../core_05defs_continuity.md#system-definition-c)
-- [System Capture](../core_05defs_continuity.md#system-capture) · [O](../core_05defs_continuity.md#system-capture) · [A](../core_05defs_continuity.md#system-capture-a) · [C](../core_05defs_continuity.md#system-capture-c)
-- [Classification-Scaled Governance](../core_05defs_oversight.md#classification-scaled-governance) · [O](../core_05defs_oversight.md#classification-scaled-governance) · [A](../core_05defs_oversight.md#classification-scaled-governance-a) · [C](../core_05defs_oversight.md#classification-scaled-governance-c)
+- [Competency Bar](../core_05defs_accountability.md#competency-bar) · [O](../core_05defs_accountability.md#competency-bar) · [M](../core_05defs_accountability.md#competency-bar-a) · [A](../core_05defs_accountability.md#competency-bar-a) · [C](../core_05defs_accountability.md#competency-bar-c)
+- [Competency Clearance](../core_05defs_accountability.md#competency-clearance) · [O](../core_05defs_accountability.md#competency-clearance) · [M](../core_05defs_accountability.md#competency-clearance-a) · [A](../core_05defs_accountability.md#competency-clearance-a) · [C](../core_05defs_accountability.md#competency-clearance-c)
+- [Governance](../core_05defs_accountability.md#governance) · [O](../core_05defs_accountability.md#governance) · [M](../core_05defs_accountability.md#governance-a) · [A](../core_05defs_accountability.md#governance-a) · [C](../core_05defs_accountability.md#governance-c)
+- [Sentient](../core_05defs_participation.md#sentient-composite) · [O](../core_05defs_participation.md#sentient-composite) · [M](../core_05defs_participation.md#sentient-composite-a) · [A](../core_05defs_participation.md#sentient-composite-a) · [C](../core_05defs_integrative.md#sentient-composite-c)
+- [Corpus](../core_05defs_integrative.md#corpus) · [O](../core_05defs_integrative.md#corpus) · [M](../core_05defs_integrative.md#corpus-a) · [A](../core_05defs_integrative.md#corpus-a) · [C](../core_05defs_integrative.md#corpus-c)
+- [System](../core_05defs_continuity.md#system-definition) · [O](../core_05defs_continuity.md#system-definition) · [M](../core_05defs_continuity.md#system-definition-a) · [A](../core_05defs_continuity.md#system-definition-a) · [C](../core_05defs_continuity.md#system-definition-c)
+- [System Capture](../core_05defs_continuity.md#system-capture) · [O](../core_05defs_continuity.md#system-capture) · [M](../core_05defs_continuity.md#system-capture-a) · [A](../core_05defs_continuity.md#system-capture-a) · [C](../core_05defs_continuity.md#system-capture-c)
+- [Classification-Scaled Governance](../core_05defs_oversight.md#classification-scaled-governance) · [O](../core_05defs_oversight.md#classification-scaled-governance) · [M](../core_05defs_oversight.md#classification-scaled-governance-a) · [A](../core_05defs_oversight.md#classification-scaled-governance-a) · [C](../core_05defs_oversight.md#classification-scaled-governance-c)
 
 </details>
 
@@ -275,14 +275,14 @@ The constitutional floor remains in `core_12-12_governance.md` **Chapter Twelve*
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Competency Bar](../core_05defs_accountability.md#competency-bar) · [O](../core_05defs_accountability.md#competency-bar) · [A](../core_05defs_accountability.md#competency-bar-a) · [C](../core_05defs_accountability.md#competency-bar-c)
-- [Competency Clearance](../core_05defs_accountability.md#competency-clearance) · [O](../core_05defs_accountability.md#competency-clearance) · [A](../core_05defs_accountability.md#competency-clearance-a) · [C](../core_05defs_accountability.md#competency-clearance-c)
-- [Contestability](../core_05defs_accountability.md#contestability) · [O](../core_05defs_accountability.md#contestability) · [A](../core_05defs_accountability.md#contestability-a) · [C](../core_05defs_accountability.md#contestability-c)
-- [Material](../core_05defs_oversight.md#material) · [O](../core_05defs_oversight.md#material) · [A](../core_05defs_oversight.md#material-a) · [C](../core_05defs_oversight.md#material-c)
-- [Sentient](../core_05defs_participation.md#sentient-composite) · [O](../core_05defs_participation.md#sentient-composite) · [A](../core_05defs_participation.md#sentient-composite-a) · [C](../core_05defs_integrative.md#sentient-composite-c)
-- [Corpus](../core_05defs_integrative.md#corpus) · [O](../core_05defs_integrative.md#corpus) · [A](../core_05defs_integrative.md#corpus-a) · [C](../core_05defs_integrative.md#corpus-c)
-- [Auditability](../core_05defs_oversight.md#auditability) · [O](../core_05defs_oversight.md#auditability) · [A](../core_05defs_oversight.md#auditability-a) · [C](../core_05defs_oversight.md#auditability-c)
-- [Authority Stack and Internal Hierarchy](../core_05defs_integrative.md#authority-stack) · [O](../core_05defs_integrative.md#authority-stack) · [A](../core_05defs_integrative.md#authority-stack-a) · [C](../core_05defs_integrative.md#authority-stack-c)
+- [Competency Bar](../core_05defs_accountability.md#competency-bar) · [O](../core_05defs_accountability.md#competency-bar) · [M](../core_05defs_accountability.md#competency-bar-a) · [A](../core_05defs_accountability.md#competency-bar-a) · [C](../core_05defs_accountability.md#competency-bar-c)
+- [Competency Clearance](../core_05defs_accountability.md#competency-clearance) · [O](../core_05defs_accountability.md#competency-clearance) · [M](../core_05defs_accountability.md#competency-clearance-a) · [A](../core_05defs_accountability.md#competency-clearance-a) · [C](../core_05defs_accountability.md#competency-clearance-c)
+- [Contestability](../core_05defs_accountability.md#contestability) · [O](../core_05defs_accountability.md#contestability) · [M](../core_05defs_accountability.md#contestability-a) · [A](../core_05defs_accountability.md#contestability-a) · [C](../core_05defs_accountability.md#contestability-c)
+- [Material](../core_05defs_oversight.md#material) · [O](../core_05defs_oversight.md#material) · [M](../core_05defs_oversight.md#material-a) · [A](../core_05defs_oversight.md#material-a) · [C](../core_05defs_oversight.md#material-c)
+- [Sentient](../core_05defs_participation.md#sentient-composite) · [O](../core_05defs_participation.md#sentient-composite) · [M](../core_05defs_participation.md#sentient-composite-a) · [A](../core_05defs_participation.md#sentient-composite-a) · [C](../core_05defs_integrative.md#sentient-composite-c)
+- [Corpus](../core_05defs_integrative.md#corpus) · [O](../core_05defs_integrative.md#corpus) · [M](../core_05defs_integrative.md#corpus-a) · [A](../core_05defs_integrative.md#corpus-a) · [C](../core_05defs_integrative.md#corpus-c)
+- [Auditability](../core_05defs_oversight.md#auditability) · [O](../core_05defs_oversight.md#auditability) · [M](../core_05defs_oversight.md#auditability-a) · [A](../core_05defs_oversight.md#auditability-a) · [C](../core_05defs_oversight.md#auditability-c)
+- [Authority Stack and Internal Hierarchy](../core_05defs_integrative.md#authority-stack) · [O](../core_05defs_integrative.md#authority-stack) · [M](../core_05defs_integrative.md#authority-stack-a) · [A](../core_05defs_integrative.md#authority-stack-a) · [C](../core_05defs_integrative.md#authority-stack-c)
 
 </details>
 

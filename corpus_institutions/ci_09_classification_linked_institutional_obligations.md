@@ -11,13 +11,13 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Authority Stack and Internal Hierarchy](../core_05defs_integrative.md#authority-stack) · [O](../core_05defs_integrative.md#authority-stack) · [A](../core_05defs_integrative.md#authority-stack-a) · [C](../core_05defs_integrative.md#authority-stack-c)
-- [Constitutional Constraint](../core_05defs_integrative.md#constitutional-constraint) · [O](../core_05defs_integrative.md#constitutional-constraint) · [A](../core_05defs_integrative.md#constitutional-constraint-a) · [C](../core_05defs_integrative.md#constitutional-constraint-c)
-- [Classification-Scaled Governance](../core_05defs_oversight.md#classification-scaled-governance) · [O](../core_05defs_oversight.md#classification-scaled-governance) · [A](../core_05defs_oversight.md#classification-scaled-governance-a) · [C](../core_05defs_oversight.md#classification-scaled-governance-c)
-- [Collective Organization](../core_05defs_participation.md#collective-organization-constitutional) · [O](../core_05defs_participation.md#collective-organization-constitutional) · [A](../core_05defs_participation.md#collective-organization-constitutional-a) · [C](../core_05defs_participation.md#collective-organization-constitutional-c)
-- [Business Creation](../core_05defs_participation.md#business-creation-constitutional) · [O](../core_05defs_participation.md#business-creation-constitutional) · [A](../core_05defs_participation.md#business-creation-constitutional-a) · [C](../core_05defs_participation.md#business-creation-constitutional-c)
-- [Proportionality](../core_05defs_accountability.md#proportionality) · [O](../core_05defs_accountability.md#proportionality) · [A](../core_05defs_accountability.md#proportionality-a) · [C](../core_05defs_accountability.md#proportionality-c)
-- [System Creation](../core_05defs_participation.md#system-creation-constitutional) · [O](../core_05defs_participation.md#system-creation-constitutional) · [A](../core_05defs_participation.md#system-creation-constitutional-a) · [C](../core_05defs_participation.md#system-creation-constitutional-c)
+- [Authority Stack and Internal Hierarchy](../core_05defs_integrative.md#authority-stack) · [O](../core_05defs_integrative.md#authority-stack) · [M](../core_05defs_integrative.md#authority-stack-a) · [A](../core_05defs_integrative.md#authority-stack-a) · [C](../core_05defs_integrative.md#authority-stack-c)
+- [Constitutional Constraint](../core_05defs_integrative.md#constitutional-constraint) · [O](../core_05defs_integrative.md#constitutional-constraint) · [M](../core_05defs_integrative.md#constitutional-constraint-a) · [A](../core_05defs_integrative.md#constitutional-constraint-a) · [C](../core_05defs_integrative.md#constitutional-constraint-c)
+- [Classification-Scaled Governance](../core_05defs_oversight.md#classification-scaled-governance) · [O](../core_05defs_oversight.md#classification-scaled-governance) · [M](../core_05defs_oversight.md#classification-scaled-governance-a) · [A](../core_05defs_oversight.md#classification-scaled-governance-a) · [C](../core_05defs_oversight.md#classification-scaled-governance-c)
+- [Collective Organization](../core_05defs_participation.md#collective-organization-constitutional) · [O](../core_05defs_participation.md#collective-organization-constitutional) · [M](../core_05defs_participation.md#collective-organization-constitutional-a) · [A](../core_05defs_participation.md#collective-organization-constitutional-a) · [C](../core_05defs_participation.md#collective-organization-constitutional-c)
+- [Business Creation](../core_05defs_participation.md#business-creation-constitutional) · [O](../core_05defs_participation.md#business-creation-constitutional) · [M](../core_05defs_participation.md#business-creation-constitutional-a) · [A](../core_05defs_participation.md#business-creation-constitutional-a) · [C](../core_05defs_participation.md#business-creation-constitutional-c)
+- [Proportionality](../core_05defs_accountability.md#proportionality) · [O](../core_05defs_accountability.md#proportionality) · [M](../core_05defs_accountability.md#proportionality-a) · [A](../core_05defs_accountability.md#proportionality-a) · [C](../core_05defs_accountability.md#proportionality-c)
+- [System Creation](../core_05defs_participation.md#system-creation-constitutional) · [O](../core_05defs_participation.md#system-creation-constitutional) · [M](../core_05defs_participation.md#system-creation-constitutional-a) · [A](../core_05defs_participation.md#system-creation-constitutional-a) · [C](../core_05defs_participation.md#system-creation-constitutional-c)
 
 </details>
 
@@ -56,13 +56,13 @@ The operational mechanics in this section — registration, fiscal treatment, li
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Proportionality](../core_05defs_accountability.md#proportionality) · [O](../core_05defs_accountability.md#proportionality) · [A](../core_05defs_accountability.md#proportionality-a) · [C](../core_05defs_accountability.md#proportionality-c)
-- [Dependency](../core_05defs_continuity.md#dependency) · [O](../core_05defs_continuity.md#dependency) · [A](../core_05defs_continuity.md#dependency-a) · [C](../core_05defs_continuity.md#dependency-c)
-- [Oversight](../core_05apex_oversight_leg.md#oversight-constitutional) · [O](../core_05apex_oversight_leg.md#oversight-constitutional) · [A](../core_05apex_oversight_leg.md#oversight-constitutional-a) · [C](../core_05apex_oversight_leg.md#oversight-constitutional-c)
-- [Classification-Scaled Governance](../core_05defs_oversight.md#classification-scaled-governance) · [O](../core_05defs_oversight.md#classification-scaled-governance) · [A](../core_05defs_oversight.md#classification-scaled-governance-a) · [C](../core_05defs_oversight.md#classification-scaled-governance-c)
-- [Risk](../core_05defs_continuity.md#risk) · [O](../core_05defs_continuity.md#risk) · [A](../core_05defs_continuity.md#risk-a) · [C](../core_05defs_continuity.md#risk-c)
-- [Auditability](../core_05defs_oversight.md#auditability) · [O](../core_05defs_oversight.md#auditability) · [A](../core_05defs_oversight.md#auditability-a) · [C](../core_05defs_oversight.md#auditability-c)
-- [Constitutional Constraint](../core_05defs_integrative.md#constitutional-constraint) · [O](../core_05defs_integrative.md#constitutional-constraint) · [A](../core_05defs_integrative.md#constitutional-constraint-a) · [C](../core_05defs_integrative.md#constitutional-constraint-c)
+- [Proportionality](../core_05defs_accountability.md#proportionality) · [O](../core_05defs_accountability.md#proportionality) · [M](../core_05defs_accountability.md#proportionality-a) · [A](../core_05defs_accountability.md#proportionality-a) · [C](../core_05defs_accountability.md#proportionality-c)
+- [Dependency](../core_05defs_continuity.md#dependency) · [O](../core_05defs_continuity.md#dependency) · [M](../core_05defs_continuity.md#dependency-a) · [A](../core_05defs_continuity.md#dependency-a) · [C](../core_05defs_continuity.md#dependency-c)
+- [Oversight](../core_05apex_oversight_leg.md#oversight-constitutional) · [O](../core_05apex_oversight_leg.md#oversight-constitutional) · [M](../core_05apex_oversight_leg.md#oversight-constitutional-m) · [A](../core_05apex_oversight_leg.md#oversight-constitutional-a) · [C](../core_05apex_oversight_leg.md#oversight-constitutional-c)
+- [Classification-Scaled Governance](../core_05defs_oversight.md#classification-scaled-governance) · [O](../core_05defs_oversight.md#classification-scaled-governance) · [M](../core_05defs_oversight.md#classification-scaled-governance-a) · [A](../core_05defs_oversight.md#classification-scaled-governance-a) · [C](../core_05defs_oversight.md#classification-scaled-governance-c)
+- [Risk](../core_05defs_continuity.md#risk) · [O](../core_05defs_continuity.md#risk) · [M](../core_05defs_continuity.md#risk-a) · [A](../core_05defs_continuity.md#risk-a) · [C](../core_05defs_continuity.md#risk-c)
+- [Auditability](../core_05defs_oversight.md#auditability) · [O](../core_05defs_oversight.md#auditability) · [M](../core_05defs_oversight.md#auditability-a) · [A](../core_05defs_oversight.md#auditability-a) · [C](../core_05defs_oversight.md#auditability-c)
+- [Constitutional Constraint](../core_05defs_integrative.md#constitutional-constraint) · [O](../core_05defs_integrative.md#constitutional-constraint) · [M](../core_05defs_integrative.md#constitutional-constraint-a) · [A](../core_05defs_integrative.md#constitutional-constraint-a) · [C](../core_05defs_integrative.md#constitutional-constraint-c)
 
 </details>
 
@@ -93,13 +93,13 @@ Apply **CJS-5.11** **Formation and authorization proportionality floor** for the
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Dependency](../core_05defs_continuity.md#dependency) · [O](../core_05defs_continuity.md#dependency) · [A](../core_05defs_continuity.md#dependency-a) · [C](../core_05defs_continuity.md#dependency-c)
-- [Corpus](../core_05defs_integrative.md#corpus) · [O](../core_05defs_integrative.md#corpus) · [A](../core_05defs_integrative.md#corpus-a) · [C](../core_05defs_integrative.md#corpus-c)
-- [Classification-Scaled Governance](../core_05defs_oversight.md#classification-scaled-governance) · [O](../core_05defs_oversight.md#classification-scaled-governance) · [A](../core_05defs_oversight.md#classification-scaled-governance-a) · [C](../core_05defs_oversight.md#classification-scaled-governance-c)
-- [Proportionality](../core_05defs_accountability.md#proportionality) · [O](../core_05defs_accountability.md#proportionality) · [A](../core_05defs_accountability.md#proportionality-a) · [C](../core_05defs_accountability.md#proportionality-c)
-- [Risk](../core_05defs_continuity.md#risk) · [O](../core_05defs_continuity.md#risk) · [A](../core_05defs_continuity.md#risk-a) · [C](../core_05defs_continuity.md#risk-c)
-- [Authority Stack and Internal Hierarchy](../core_05defs_integrative.md#authority-stack) · [O](../core_05defs_integrative.md#authority-stack) · [A](../core_05defs_integrative.md#authority-stack-a) · [C](../core_05defs_integrative.md#authority-stack-c)
-- [Governance](../core_05defs_accountability.md#governance) · [O](../core_05defs_accountability.md#governance) · [A](../core_05defs_accountability.md#governance-a) · [C](../core_05defs_accountability.md#governance-c)
+- [Dependency](../core_05defs_continuity.md#dependency) · [O](../core_05defs_continuity.md#dependency) · [M](../core_05defs_continuity.md#dependency-a) · [A](../core_05defs_continuity.md#dependency-a) · [C](../core_05defs_continuity.md#dependency-c)
+- [Corpus](../core_05defs_integrative.md#corpus) · [O](../core_05defs_integrative.md#corpus) · [M](../core_05defs_integrative.md#corpus-a) · [A](../core_05defs_integrative.md#corpus-a) · [C](../core_05defs_integrative.md#corpus-c)
+- [Classification-Scaled Governance](../core_05defs_oversight.md#classification-scaled-governance) · [O](../core_05defs_oversight.md#classification-scaled-governance) · [M](../core_05defs_oversight.md#classification-scaled-governance-a) · [A](../core_05defs_oversight.md#classification-scaled-governance-a) · [C](../core_05defs_oversight.md#classification-scaled-governance-c)
+- [Proportionality](../core_05defs_accountability.md#proportionality) · [O](../core_05defs_accountability.md#proportionality) · [M](../core_05defs_accountability.md#proportionality-a) · [A](../core_05defs_accountability.md#proportionality-a) · [C](../core_05defs_accountability.md#proportionality-c)
+- [Risk](../core_05defs_continuity.md#risk) · [O](../core_05defs_continuity.md#risk) · [M](../core_05defs_continuity.md#risk-a) · [A](../core_05defs_continuity.md#risk-a) · [C](../core_05defs_continuity.md#risk-c)
+- [Authority Stack and Internal Hierarchy](../core_05defs_integrative.md#authority-stack) · [O](../core_05defs_integrative.md#authority-stack) · [M](../core_05defs_integrative.md#authority-stack-a) · [A](../core_05defs_integrative.md#authority-stack-a) · [C](../core_05defs_integrative.md#authority-stack-c)
+- [Governance](../core_05defs_accountability.md#governance) · [O](../core_05defs_accountability.md#governance) · [M](../core_05defs_accountability.md#governance-a) · [A](../core_05defs_accountability.md#governance-a) · [C](../core_05defs_accountability.md#governance-c)
 
 </details>
 
@@ -130,13 +130,13 @@ Apply **CJS-5.16** **Domain and sector classification mapping** for the shared d
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Material Impact](../core_05defs_oversight.md#material-impact) · [O](../core_05defs_oversight.md#material-impact) · [A](../core_05defs_oversight.md#material-impact-a) · [C](../core_05defs_oversight.md#material-impact-c)
-- [Transparency](../core_05defs_oversight.md#transparency) · [O](../core_05defs_oversight.md#transparency) · [A](../core_05defs_oversight.md#transparency-a) · [C](../core_05defs_oversight.md#transparency-c)
-- [Material](../core_05defs_oversight.md#material) · [O](../core_05defs_oversight.md#material) · [A](../core_05defs_oversight.md#material-a) · [C](../core_05defs_oversight.md#material-c)
-- [Corpus](../core_05defs_integrative.md#corpus) · [O](../core_05defs_integrative.md#corpus) · [A](../core_05defs_integrative.md#corpus-a) · [C](../core_05defs_integrative.md#corpus-c)
-- [System](../core_05defs_continuity.md#system-definition) · [O](../core_05defs_continuity.md#system-definition) · [A](../core_05defs_continuity.md#system-definition-a) · [C](../core_05defs_continuity.md#system-definition-c)
-- [Classification-Scaled Governance](../core_05defs_oversight.md#classification-scaled-governance) · [O](../core_05defs_oversight.md#classification-scaled-governance) · [A](../core_05defs_oversight.md#classification-scaled-governance-a) · [C](../core_05defs_oversight.md#classification-scaled-governance-c)
-- [Proportionality](../core_05defs_accountability.md#proportionality) · [O](../core_05defs_accountability.md#proportionality) · [A](../core_05defs_accountability.md#proportionality-a) · [C](../core_05defs_accountability.md#proportionality-c)
+- [Material Impact](../core_05defs_oversight.md#material-impact) · [O](../core_05defs_oversight.md#material-impact) · [M](../core_05defs_oversight.md#material-impact-a) · [A](../core_05defs_oversight.md#material-impact-a) · [C](../core_05defs_oversight.md#material-impact-c)
+- [Transparency](../core_05defs_oversight.md#transparency) · [O](../core_05defs_oversight.md#transparency) · [M](../core_05defs_oversight.md#transparency-a) · [A](../core_05defs_oversight.md#transparency-a) · [C](../core_05defs_oversight.md#transparency-c)
+- [Material](../core_05defs_oversight.md#material) · [O](../core_05defs_oversight.md#material) · [M](../core_05defs_oversight.md#material-a) · [A](../core_05defs_oversight.md#material-a) · [C](../core_05defs_oversight.md#material-c)
+- [Corpus](../core_05defs_integrative.md#corpus) · [O](../core_05defs_integrative.md#corpus) · [M](../core_05defs_integrative.md#corpus-a) · [A](../core_05defs_integrative.md#corpus-a) · [C](../core_05defs_integrative.md#corpus-c)
+- [System](../core_05defs_continuity.md#system-definition) · [O](../core_05defs_continuity.md#system-definition) · [M](../core_05defs_continuity.md#system-definition-a) · [A](../core_05defs_continuity.md#system-definition-a) · [C](../core_05defs_continuity.md#system-definition-c)
+- [Classification-Scaled Governance](../core_05defs_oversight.md#classification-scaled-governance) · [O](../core_05defs_oversight.md#classification-scaled-governance) · [M](../core_05defs_oversight.md#classification-scaled-governance-a) · [A](../core_05defs_oversight.md#classification-scaled-governance-a) · [C](../core_05defs_oversight.md#classification-scaled-governance-c)
+- [Proportionality](../core_05defs_accountability.md#proportionality) · [O](../core_05defs_accountability.md#proportionality) · [M](../core_05defs_accountability.md#proportionality-a) · [A](../core_05defs_accountability.md#proportionality-a) · [C](../core_05defs_accountability.md#proportionality-c)
 
 </details>
 
@@ -159,13 +159,13 @@ Apply **CJS-4.1** (*Hybrid delegated authority (delegated binding bodies)*) and 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Contestability](../core_05defs_accountability.md#contestability) · [O](../core_05defs_accountability.md#contestability) · [A](../core_05defs_accountability.md#contestability-a) · [C](../core_05defs_accountability.md#contestability-c)
-- [Classification-Scaled Governance](../core_05defs_oversight.md#classification-scaled-governance) · [O](../core_05defs_oversight.md#classification-scaled-governance) · [A](../core_05defs_oversight.md#classification-scaled-governance-a) · [C](../core_05defs_oversight.md#classification-scaled-governance-c)
-- [Proportionality](../core_05defs_accountability.md#proportionality) · [O](../core_05defs_accountability.md#proportionality) · [A](../core_05defs_accountability.md#proportionality-a) · [C](../core_05defs_accountability.md#proportionality-c)
-- [Risk](../core_05defs_continuity.md#risk) · [O](../core_05defs_continuity.md#risk) · [A](../core_05defs_continuity.md#risk-a) · [C](../core_05defs_continuity.md#risk-c)
-- [Epistemic Integrity](../core_05defs_oversight.md#epistemic-integrity) · [O](../core_05defs_oversight.md#epistemic-integrity) · [A](../core_05defs_oversight.md#epistemic-integrity-a) · [C](../core_05defs_oversight.md#epistemic-integrity-c)
-- [Procedural Fairness](../core_05defs_participation.md#procedural-fairness-constitutional) · [O](../core_05defs_participation.md#procedural-fairness-constitutional) · [A](../core_05defs_participation.md#procedural-fairness-constitutional-a) · [C](../core_05defs_participation.md#procedural-fairness-constitutional-c)
-- [Review and Correction Duty](../core_05defs_continuity.md#review-and-correction-duty-constitutional) · [O](../core_05defs_continuity.md#review-and-correction-duty-constitutional) · [A](../core_05defs_continuity.md#review-and-correction-duty-constitutional-a) · [C](../core_05defs_continuity.md#review-and-correction-duty-constitutional-c)
+- [Contestability](../core_05defs_accountability.md#contestability) · [O](../core_05defs_accountability.md#contestability) · [M](../core_05defs_accountability.md#contestability-a) · [A](../core_05defs_accountability.md#contestability-a) · [C](../core_05defs_accountability.md#contestability-c)
+- [Classification-Scaled Governance](../core_05defs_oversight.md#classification-scaled-governance) · [O](../core_05defs_oversight.md#classification-scaled-governance) · [M](../core_05defs_oversight.md#classification-scaled-governance-a) · [A](../core_05defs_oversight.md#classification-scaled-governance-a) · [C](../core_05defs_oversight.md#classification-scaled-governance-c)
+- [Proportionality](../core_05defs_accountability.md#proportionality) · [O](../core_05defs_accountability.md#proportionality) · [M](../core_05defs_accountability.md#proportionality-a) · [A](../core_05defs_accountability.md#proportionality-a) · [C](../core_05defs_accountability.md#proportionality-c)
+- [Risk](../core_05defs_continuity.md#risk) · [O](../core_05defs_continuity.md#risk) · [M](../core_05defs_continuity.md#risk-a) · [A](../core_05defs_continuity.md#risk-a) · [C](../core_05defs_continuity.md#risk-c)
+- [Epistemic Integrity](../core_05defs_oversight.md#epistemic-integrity) · [O](../core_05defs_oversight.md#epistemic-integrity) · [M](../core_05defs_oversight.md#epistemic-integrity-a) · [A](../core_05defs_oversight.md#epistemic-integrity-a) · [C](../core_05defs_oversight.md#epistemic-integrity-c)
+- [Procedural Fairness](../core_05defs_participation.md#procedural-fairness-constitutional) · [O](../core_05defs_participation.md#procedural-fairness-constitutional) · [M](../core_05defs_participation.md#procedural-fairness-constitutional-a) · [A](../core_05defs_participation.md#procedural-fairness-constitutional-a) · [C](../core_05defs_participation.md#procedural-fairness-constitutional-c)
+- [Review and Correction Duty](../core_05defs_continuity.md#review-and-correction-duty-constitutional) · [O](../core_05defs_continuity.md#review-and-correction-duty-constitutional) · [M](../core_05defs_continuity.md#review-and-correction-duty-constitutional-a) · [A](../core_05defs_continuity.md#review-and-correction-duty-constitutional-a) · [C](../core_05defs_continuity.md#review-and-correction-duty-constitutional-c)
 
 </details>
 
@@ -194,13 +194,13 @@ Subunits must remain **subordinate** to the parent mandate. They must not operat
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Corpus](../core_05defs_integrative.md#corpus) · [O](../core_05defs_integrative.md#corpus) · [A](../core_05defs_integrative.md#corpus-a) · [C](../core_05defs_integrative.md#corpus-c)
-- [Classification-Scaled Governance](../core_05defs_oversight.md#classification-scaled-governance) · [O](../core_05defs_oversight.md#classification-scaled-governance) · [A](../core_05defs_oversight.md#classification-scaled-governance-a) · [C](../core_05defs_oversight.md#classification-scaled-governance-c)
-- [Proportionality](../core_05defs_accountability.md#proportionality) · [O](../core_05defs_accountability.md#proportionality) · [A](../core_05defs_accountability.md#proportionality-a) · [C](../core_05defs_accountability.md#proportionality-c)
-- [Risk](../core_05defs_continuity.md#risk) · [O](../core_05defs_continuity.md#risk) · [A](../core_05defs_continuity.md#risk-a) · [C](../core_05defs_continuity.md#risk-c)
-- [System Capture](../core_05defs_continuity.md#system-capture) · [O](../core_05defs_continuity.md#system-capture) · [A](../core_05defs_continuity.md#system-capture-a) · [C](../core_05defs_continuity.md#system-capture-c)
-- [Oversight](../core_05apex_oversight_leg.md#oversight-constitutional) · [O](../core_05apex_oversight_leg.md#oversight-constitutional) · [A](../core_05apex_oversight_leg.md#oversight-constitutional-a) · [C](../core_05apex_oversight_leg.md#oversight-constitutional-c)
-- [Authority Stack and Internal Hierarchy](../core_05defs_integrative.md#authority-stack) · [O](../core_05defs_integrative.md#authority-stack) · [A](../core_05defs_integrative.md#authority-stack-a) · [C](../core_05defs_integrative.md#authority-stack-c)
+- [Corpus](../core_05defs_integrative.md#corpus) · [O](../core_05defs_integrative.md#corpus) · [M](../core_05defs_integrative.md#corpus-a) · [A](../core_05defs_integrative.md#corpus-a) · [C](../core_05defs_integrative.md#corpus-c)
+- [Classification-Scaled Governance](../core_05defs_oversight.md#classification-scaled-governance) · [O](../core_05defs_oversight.md#classification-scaled-governance) · [M](../core_05defs_oversight.md#classification-scaled-governance-a) · [A](../core_05defs_oversight.md#classification-scaled-governance-a) · [C](../core_05defs_oversight.md#classification-scaled-governance-c)
+- [Proportionality](../core_05defs_accountability.md#proportionality) · [O](../core_05defs_accountability.md#proportionality) · [M](../core_05defs_accountability.md#proportionality-a) · [A](../core_05defs_accountability.md#proportionality-a) · [C](../core_05defs_accountability.md#proportionality-c)
+- [Risk](../core_05defs_continuity.md#risk) · [O](../core_05defs_continuity.md#risk) · [M](../core_05defs_continuity.md#risk-a) · [A](../core_05defs_continuity.md#risk-a) · [C](../core_05defs_continuity.md#risk-c)
+- [System Capture](../core_05defs_continuity.md#system-capture) · [O](../core_05defs_continuity.md#system-capture) · [M](../core_05defs_continuity.md#system-capture-a) · [A](../core_05defs_continuity.md#system-capture-a) · [C](../core_05defs_continuity.md#system-capture-c)
+- [Oversight](../core_05apex_oversight_leg.md#oversight-constitutional) · [O](../core_05apex_oversight_leg.md#oversight-constitutional) · [M](../core_05apex_oversight_leg.md#oversight-constitutional-m) · [A](../core_05apex_oversight_leg.md#oversight-constitutional-a) · [C](../core_05apex_oversight_leg.md#oversight-constitutional-c)
+- [Authority Stack and Internal Hierarchy](../core_05defs_integrative.md#authority-stack) · [O](../core_05defs_integrative.md#authority-stack) · [M](../core_05defs_integrative.md#authority-stack-a) · [A](../core_05defs_integrative.md#authority-stack-a) · [C](../core_05defs_integrative.md#authority-stack-c)
 
 </details>
 
@@ -229,13 +229,13 @@ Where a multi-member body uses a different deciding-bench balance or materially 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Corpus](../core_05defs_integrative.md#corpus) · [O](../core_05defs_integrative.md#corpus) · [A](../core_05defs_integrative.md#corpus-a) · [C](../core_05defs_integrative.md#corpus-c)
-- [Classification-Scaled Governance](../core_05defs_oversight.md#classification-scaled-governance) · [O](../core_05defs_oversight.md#classification-scaled-governance) · [A](../core_05defs_oversight.md#classification-scaled-governance-a) · [C](../core_05defs_oversight.md#classification-scaled-governance-c)
-- [Proportionality](../core_05defs_accountability.md#proportionality) · [O](../core_05defs_accountability.md#proportionality) · [A](../core_05defs_accountability.md#proportionality-a) · [C](../core_05defs_accountability.md#proportionality-c)
-- [Risk](../core_05defs_continuity.md#risk) · [O](../core_05defs_continuity.md#risk) · [A](../core_05defs_continuity.md#risk-a) · [C](../core_05defs_continuity.md#risk-c)
-- [Oversight](../core_05apex_oversight_leg.md#oversight-constitutional) · [O](../core_05apex_oversight_leg.md#oversight-constitutional) · [A](../core_05apex_oversight_leg.md#oversight-constitutional-a) · [C](../core_05apex_oversight_leg.md#oversight-constitutional-c)
-- [Authority Stack and Internal Hierarchy](../core_05defs_integrative.md#authority-stack) · [O](../core_05defs_integrative.md#authority-stack) · [A](../core_05defs_integrative.md#authority-stack-a) · [C](../core_05defs_integrative.md#authority-stack-c)
-- [Emergency and Contingency](../core_05defs_continuity.md#emergency-and-contingency-constitutional) · [O](../core_05defs_continuity.md#emergency-and-contingency-constitutional) · [A](../core_05defs_continuity.md#emergency-and-contingency-constitutional-a) · [C](../core_05defs_continuity.md#emergency-and-contingency-constitutional-c)
+- [Corpus](../core_05defs_integrative.md#corpus) · [O](../core_05defs_integrative.md#corpus) · [M](../core_05defs_integrative.md#corpus-a) · [A](../core_05defs_integrative.md#corpus-a) · [C](../core_05defs_integrative.md#corpus-c)
+- [Classification-Scaled Governance](../core_05defs_oversight.md#classification-scaled-governance) · [O](../core_05defs_oversight.md#classification-scaled-governance) · [M](../core_05defs_oversight.md#classification-scaled-governance-a) · [A](../core_05defs_oversight.md#classification-scaled-governance-a) · [C](../core_05defs_oversight.md#classification-scaled-governance-c)
+- [Proportionality](../core_05defs_accountability.md#proportionality) · [O](../core_05defs_accountability.md#proportionality) · [M](../core_05defs_accountability.md#proportionality-a) · [A](../core_05defs_accountability.md#proportionality-a) · [C](../core_05defs_accountability.md#proportionality-c)
+- [Risk](../core_05defs_continuity.md#risk) · [O](../core_05defs_continuity.md#risk) · [M](../core_05defs_continuity.md#risk-a) · [A](../core_05defs_continuity.md#risk-a) · [C](../core_05defs_continuity.md#risk-c)
+- [Oversight](../core_05apex_oversight_leg.md#oversight-constitutional) · [O](../core_05apex_oversight_leg.md#oversight-constitutional) · [M](../core_05apex_oversight_leg.md#oversight-constitutional-m) · [A](../core_05apex_oversight_leg.md#oversight-constitutional-a) · [C](../core_05apex_oversight_leg.md#oversight-constitutional-c)
+- [Authority Stack and Internal Hierarchy](../core_05defs_integrative.md#authority-stack) · [O](../core_05defs_integrative.md#authority-stack) · [M](../core_05defs_integrative.md#authority-stack-a) · [A](../core_05defs_integrative.md#authority-stack-a) · [C](../core_05defs_integrative.md#authority-stack-c)
+- [Emergency and Contingency](../core_05defs_continuity.md#emergency-and-contingency-constitutional) · [O](../core_05defs_continuity.md#emergency-and-contingency-constitutional) · [M](../core_05defs_continuity.md#emergency-and-contingency-constitutional-a) · [A](../core_05defs_continuity.md#emergency-and-contingency-constitutional-a) · [C](../core_05defs_continuity.md#emergency-and-contingency-constitutional-c)
 
 </details>
 
@@ -264,13 +264,13 @@ Apply **CJS-4.1.2** (*Attachment publication*) for shared rotating-attachment re
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Corpus](../core_05defs_integrative.md#corpus) · [O](../core_05defs_integrative.md#corpus) · [A](../core_05defs_integrative.md#corpus-a) · [C](../core_05defs_integrative.md#corpus-c)
-- [Classification-Scaled Governance](../core_05defs_oversight.md#classification-scaled-governance) · [O](../core_05defs_oversight.md#classification-scaled-governance) · [A](../core_05defs_oversight.md#classification-scaled-governance-a) · [C](../core_05defs_oversight.md#classification-scaled-governance-c)
-- [Proportionality](../core_05defs_accountability.md#proportionality) · [O](../core_05defs_accountability.md#proportionality) · [A](../core_05defs_accountability.md#proportionality-a) · [C](../core_05defs_accountability.md#proportionality-c)
-- [Risk](../core_05defs_continuity.md#risk) · [O](../core_05defs_continuity.md#risk) · [A](../core_05defs_continuity.md#risk-a) · [C](../core_05defs_continuity.md#risk-c)
-- [Oversight](../core_05apex_oversight_leg.md#oversight-constitutional) · [O](../core_05apex_oversight_leg.md#oversight-constitutional) · [A](../core_05apex_oversight_leg.md#oversight-constitutional-a) · [C](../core_05apex_oversight_leg.md#oversight-constitutional-c)
-- [Authority Stack and Internal Hierarchy](../core_05defs_integrative.md#authority-stack) · [O](../core_05defs_integrative.md#authority-stack) · [A](../core_05defs_integrative.md#authority-stack-a) · [C](../core_05defs_integrative.md#authority-stack-c)
-- [Emergency and Contingency](../core_05defs_continuity.md#emergency-and-contingency-constitutional) · [O](../core_05defs_continuity.md#emergency-and-contingency-constitutional) · [A](../core_05defs_continuity.md#emergency-and-contingency-constitutional-a) · [C](../core_05defs_continuity.md#emergency-and-contingency-constitutional-c)
+- [Corpus](../core_05defs_integrative.md#corpus) · [O](../core_05defs_integrative.md#corpus) · [M](../core_05defs_integrative.md#corpus-a) · [A](../core_05defs_integrative.md#corpus-a) · [C](../core_05defs_integrative.md#corpus-c)
+- [Classification-Scaled Governance](../core_05defs_oversight.md#classification-scaled-governance) · [O](../core_05defs_oversight.md#classification-scaled-governance) · [M](../core_05defs_oversight.md#classification-scaled-governance-a) · [A](../core_05defs_oversight.md#classification-scaled-governance-a) · [C](../core_05defs_oversight.md#classification-scaled-governance-c)
+- [Proportionality](../core_05defs_accountability.md#proportionality) · [O](../core_05defs_accountability.md#proportionality) · [M](../core_05defs_accountability.md#proportionality-a) · [A](../core_05defs_accountability.md#proportionality-a) · [C](../core_05defs_accountability.md#proportionality-c)
+- [Risk](../core_05defs_continuity.md#risk) · [O](../core_05defs_continuity.md#risk) · [M](../core_05defs_continuity.md#risk-a) · [A](../core_05defs_continuity.md#risk-a) · [C](../core_05defs_continuity.md#risk-c)
+- [Oversight](../core_05apex_oversight_leg.md#oversight-constitutional) · [O](../core_05apex_oversight_leg.md#oversight-constitutional) · [M](../core_05apex_oversight_leg.md#oversight-constitutional-m) · [A](../core_05apex_oversight_leg.md#oversight-constitutional-a) · [C](../core_05apex_oversight_leg.md#oversight-constitutional-c)
+- [Authority Stack and Internal Hierarchy](../core_05defs_integrative.md#authority-stack) · [O](../core_05defs_integrative.md#authority-stack) · [M](../core_05defs_integrative.md#authority-stack-a) · [A](../core_05defs_integrative.md#authority-stack-a) · [C](../core_05defs_integrative.md#authority-stack-c)
+- [Emergency and Contingency](../core_05defs_continuity.md#emergency-and-contingency-constitutional) · [O](../core_05defs_continuity.md#emergency-and-contingency-constitutional) · [M](../core_05defs_continuity.md#emergency-and-contingency-constitutional-a) · [A](../core_05defs_continuity.md#emergency-and-contingency-constitutional-a) · [C](../core_05defs_continuity.md#emergency-and-contingency-constitutional-c)
 
 </details>
 
@@ -293,13 +293,13 @@ Apply **CJS-4.1.2** (*Attachment publication*) for shared home-based continuity 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Proportionality](../core_05defs_accountability.md#proportionality) · [O](../core_05defs_accountability.md#proportionality) · [A](../core_05defs_accountability.md#proportionality-a) · [C](../core_05defs_accountability.md#proportionality-c)
-- [Necessity](../core_05defs_accountability.md#necessity) · [O](../core_05defs_accountability.md#necessity) · [A](../core_05defs_accountability.md#necessity-a) · [C](../core_05defs_accountability.md#necessity-c)
-- [Material](../core_05defs_oversight.md#material) · [O](../core_05defs_oversight.md#material) · [A](../core_05defs_oversight.md#material-a) · [C](../core_05defs_oversight.md#material-c)
-- [Corpus](../core_05defs_integrative.md#corpus) · [O](../core_05defs_integrative.md#corpus) · [A](../core_05defs_integrative.md#corpus-a) · [C](../core_05defs_integrative.md#corpus-c)
-- [Classification-Scaled Governance](../core_05defs_oversight.md#classification-scaled-governance) · [O](../core_05defs_oversight.md#classification-scaled-governance) · [A](../core_05defs_oversight.md#classification-scaled-governance-a) · [C](../core_05defs_oversight.md#classification-scaled-governance-c)
-- [Risk](../core_05defs_continuity.md#risk) · [O](../core_05defs_continuity.md#risk) · [A](../core_05defs_continuity.md#risk-a) · [C](../core_05defs_continuity.md#risk-c)
-- [Transparency](../core_05defs_oversight.md#transparency) · [O](../core_05defs_oversight.md#transparency) · [A](../core_05defs_oversight.md#transparency-a) · [C](../core_05defs_oversight.md#transparency-c)
+- [Proportionality](../core_05defs_accountability.md#proportionality) · [O](../core_05defs_accountability.md#proportionality) · [M](../core_05defs_accountability.md#proportionality-a) · [A](../core_05defs_accountability.md#proportionality-a) · [C](../core_05defs_accountability.md#proportionality-c)
+- [Necessity](../core_05defs_accountability.md#necessity) · [O](../core_05defs_accountability.md#necessity) · [M](../core_05defs_accountability.md#necessity-a) · [A](../core_05defs_accountability.md#necessity-a) · [C](../core_05defs_accountability.md#necessity-c)
+- [Material](../core_05defs_oversight.md#material) · [O](../core_05defs_oversight.md#material) · [M](../core_05defs_oversight.md#material-a) · [A](../core_05defs_oversight.md#material-a) · [C](../core_05defs_oversight.md#material-c)
+- [Corpus](../core_05defs_integrative.md#corpus) · [O](../core_05defs_integrative.md#corpus) · [M](../core_05defs_integrative.md#corpus-a) · [A](../core_05defs_integrative.md#corpus-a) · [C](../core_05defs_integrative.md#corpus-c)
+- [Classification-Scaled Governance](../core_05defs_oversight.md#classification-scaled-governance) · [O](../core_05defs_oversight.md#classification-scaled-governance) · [M](../core_05defs_oversight.md#classification-scaled-governance-a) · [A](../core_05defs_oversight.md#classification-scaled-governance-a) · [C](../core_05defs_oversight.md#classification-scaled-governance-c)
+- [Risk](../core_05defs_continuity.md#risk) · [O](../core_05defs_continuity.md#risk) · [M](../core_05defs_continuity.md#risk-a) · [A](../core_05defs_continuity.md#risk-a) · [C](../core_05defs_continuity.md#risk-c)
+- [Transparency](../core_05defs_oversight.md#transparency) · [O](../core_05defs_oversight.md#transparency) · [M](../core_05defs_oversight.md#transparency-a) · [A](../core_05defs_oversight.md#transparency-a) · [C](../core_05defs_oversight.md#transparency-c)
 
 </details>
 

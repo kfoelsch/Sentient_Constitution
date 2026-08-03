@@ -14,14 +14,14 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Authority Stack and Internal Hierarchy](../core_05defs_integrative.md#authority-stack) · [O](../core_05defs_integrative.md#authority-stack) · [A](../core_05defs_integrative.md#authority-stack-a) · [C](../core_05defs_integrative.md#authority-stack-c)
-- [Accountability](../core_05apex_accountability_leg.md#accountability) · [O](../core_05apex_accountability_leg.md#accountability) · [A](../core_05apex_accountability_leg.md#accountability-a) · [C](../core_05apex_accountability_leg.md#accountability-c)
-- [System Capture](../core_05defs_continuity.md#system-capture) · [O](../core_05defs_continuity.md#system-capture) · [A](../core_05defs_continuity.md#system-capture-a) · [C](../core_05defs_continuity.md#system-capture-c)
-- [Material Risk](../core_05defs_oversight.md#material-risk) · [O](../core_05defs_oversight.md#material-risk) · [A](../core_05defs_oversight.md#material-risk-a) · [C](../core_05defs_oversight.md#material-risk-c)
-- [Governance](../core_05defs_accountability.md#governance) · [O](../core_05defs_accountability.md#governance) · [A](../core_05defs_accountability.md#governance-a) · [C](../core_05defs_accountability.md#governance-c)
-- [Material](../core_05defs_oversight.md#material) · [O](../core_05defs_oversight.md#material) · [A](../core_05defs_oversight.md#material-a) · [C](../core_05defs_oversight.md#material-c)
-- [Charter](../core_05defs_continuity.md#charter) · [O](../core_05defs_continuity.md#charter) · [A](../core_05defs_continuity.md#charter-a) · [C](../core_05defs_continuity.md#charter-c)
-- [Corpus](../core_05defs_integrative.md#corpus) · [O](../core_05defs_integrative.md#corpus) · [A](../core_05defs_integrative.md#corpus-a) · [C](../core_05defs_integrative.md#corpus-c)
+- [Authority Stack and Internal Hierarchy](../core_05defs_integrative.md#authority-stack) · [O](../core_05defs_integrative.md#authority-stack) · [M](../core_05defs_integrative.md#authority-stack-a) · [A](../core_05defs_integrative.md#authority-stack-a) · [C](../core_05defs_integrative.md#authority-stack-c)
+- [Accountability](../core_05apex_accountability_leg.md#accountability) · [O](../core_05apex_accountability_leg.md#accountability) · [M](../core_05apex_accountability_leg.md#accountability-m) · [A](../core_05apex_accountability_leg.md#accountability-a) · [C](../core_05apex_accountability_leg.md#accountability-c)
+- [System Capture](../core_05defs_continuity.md#system-capture) · [O](../core_05defs_continuity.md#system-capture) · [M](../core_05defs_continuity.md#system-capture-a) · [A](../core_05defs_continuity.md#system-capture-a) · [C](../core_05defs_continuity.md#system-capture-c)
+- [Material Risk](../core_05defs_oversight.md#material-risk) · [O](../core_05defs_oversight.md#material-risk) · [M](../core_05defs_oversight.md#material-risk-a) · [A](../core_05defs_oversight.md#material-risk-a) · [C](../core_05defs_oversight.md#material-risk-c)
+- [Governance](../core_05defs_accountability.md#governance) · [O](../core_05defs_accountability.md#governance) · [M](../core_05defs_accountability.md#governance-a) · [A](../core_05defs_accountability.md#governance-a) · [C](../core_05defs_accountability.md#governance-c)
+- [Material](../core_05defs_oversight.md#material) · [O](../core_05defs_oversight.md#material) · [M](../core_05defs_oversight.md#material-a) · [A](../core_05defs_oversight.md#material-a) · [C](../core_05defs_oversight.md#material-c)
+- [Charter](../core_05defs_continuity.md#charter) · [O](../core_05defs_continuity.md#charter) · [M](../core_05defs_continuity.md#charter-a) · [A](../core_05defs_continuity.md#charter-a) · [C](../core_05defs_continuity.md#charter-c)
+- [Corpus](../core_05defs_integrative.md#corpus) · [O](../core_05defs_integrative.md#corpus) · [M](../core_05defs_integrative.md#corpus-a) · [A](../core_05defs_integrative.md#corpus-a) · [C](../core_05defs_integrative.md#corpus-c)
 
 </details>
 
@@ -52,14 +52,14 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Material Risk](../core_05defs_oversight.md#material-risk) · [O](../core_05defs_oversight.md#material-risk) · [A](../core_05defs_oversight.md#material-risk-a) · [C](../core_05defs_oversight.md#material-risk-c)
-- [Material](../core_05defs_oversight.md#material) · [O](../core_05defs_oversight.md#material) · [A](../core_05defs_oversight.md#material-a) · [C](../core_05defs_oversight.md#material-c)
-- [Governance](../core_05defs_accountability.md#governance) · [O](../core_05defs_accountability.md#governance) · [A](../core_05defs_accountability.md#governance-a) · [C](../core_05defs_accountability.md#governance-c)
-- [Authority Stack and Internal Hierarchy](../core_05defs_integrative.md#authority-stack) · [O](../core_05defs_integrative.md#authority-stack) · [A](../core_05defs_integrative.md#authority-stack-a) · [C](../core_05defs_integrative.md#authority-stack-c)
-- [System Capture](../core_05defs_continuity.md#system-capture) · [O](../core_05defs_continuity.md#system-capture) · [A](../core_05defs_continuity.md#system-capture-a) · [C](../core_05defs_continuity.md#system-capture-c)
-- [Charter](../core_05defs_continuity.md#charter) · [O](../core_05defs_continuity.md#charter) · [A](../core_05defs_continuity.md#charter-a) · [C](../core_05defs_continuity.md#charter-c)
-- [Accountability](../core_05apex_accountability_leg.md#accountability) · [O](../core_05apex_accountability_leg.md#accountability) · [A](../core_05apex_accountability_leg.md#accountability-a) · [C](../core_05apex_accountability_leg.md#accountability-c)
-- [Risk](../core_05defs_continuity.md#risk) · [O](../core_05defs_continuity.md#risk) · [A](../core_05defs_continuity.md#risk-a) · [C](../core_05defs_continuity.md#risk-c)
+- [Material Risk](../core_05defs_oversight.md#material-risk) · [O](../core_05defs_oversight.md#material-risk) · [M](../core_05defs_oversight.md#material-risk-a) · [A](../core_05defs_oversight.md#material-risk-a) · [C](../core_05defs_oversight.md#material-risk-c)
+- [Material](../core_05defs_oversight.md#material) · [O](../core_05defs_oversight.md#material) · [M](../core_05defs_oversight.md#material-a) · [A](../core_05defs_oversight.md#material-a) · [C](../core_05defs_oversight.md#material-c)
+- [Governance](../core_05defs_accountability.md#governance) · [O](../core_05defs_accountability.md#governance) · [M](../core_05defs_accountability.md#governance-a) · [A](../core_05defs_accountability.md#governance-a) · [C](../core_05defs_accountability.md#governance-c)
+- [Authority Stack and Internal Hierarchy](../core_05defs_integrative.md#authority-stack) · [O](../core_05defs_integrative.md#authority-stack) · [M](../core_05defs_integrative.md#authority-stack-a) · [A](../core_05defs_integrative.md#authority-stack-a) · [C](../core_05defs_integrative.md#authority-stack-c)
+- [System Capture](../core_05defs_continuity.md#system-capture) · [O](../core_05defs_continuity.md#system-capture) · [M](../core_05defs_continuity.md#system-capture-a) · [A](../core_05defs_continuity.md#system-capture-a) · [C](../core_05defs_continuity.md#system-capture-c)
+- [Charter](../core_05defs_continuity.md#charter) · [O](../core_05defs_continuity.md#charter) · [M](../core_05defs_continuity.md#charter-a) · [A](../core_05defs_continuity.md#charter-a) · [C](../core_05defs_continuity.md#charter-c)
+- [Accountability](../core_05apex_accountability_leg.md#accountability) · [O](../core_05apex_accountability_leg.md#accountability) · [M](../core_05apex_accountability_leg.md#accountability-m) · [A](../core_05apex_accountability_leg.md#accountability-a) · [C](../core_05apex_accountability_leg.md#accountability-c)
+- [Risk](../core_05defs_continuity.md#risk) · [O](../core_05defs_continuity.md#risk) · [M](../core_05defs_continuity.md#risk-a) · [A](../core_05defs_continuity.md#risk-a) · [C](../core_05defs_continuity.md#risk-c)
 
 </details>
 
@@ -87,13 +87,13 @@ Additional non-delegable duties must be listed.
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Governance](../core_05defs_accountability.md#governance) · [O](../core_05defs_accountability.md#governance) · [A](../core_05defs_accountability.md#governance-a) · [C](../core_05defs_accountability.md#governance-c)
-- [Authority Stack and Internal Hierarchy](../core_05defs_integrative.md#authority-stack) · [O](../core_05defs_integrative.md#authority-stack) · [A](../core_05defs_integrative.md#authority-stack-a) · [C](../core_05defs_integrative.md#authority-stack-c)
-- [System Capture](../core_05defs_continuity.md#system-capture) · [O](../core_05defs_continuity.md#system-capture) · [A](../core_05defs_continuity.md#system-capture-a) · [C](../core_05defs_continuity.md#system-capture-c)
-- [Oversight](../core_05apex_oversight_leg.md#oversight-constitutional) · [O](../core_05apex_oversight_leg.md#oversight-constitutional) · [A](../core_05apex_oversight_leg.md#oversight-constitutional-a) · [C](../core_05apex_oversight_leg.md#oversight-constitutional-c)
-- [Auditability](../core_05defs_oversight.md#auditability) · [O](../core_05defs_oversight.md#auditability) · [A](../core_05defs_oversight.md#auditability-a) · [C](../core_05defs_oversight.md#auditability-c)
-- [Market Concentration Threshold](../core_05defs_accountability.md#market-concentration-threshold-constitutional) · [O](../core_05defs_accountability.md#market-concentration-threshold-constitutional) · [A](../core_05defs_accountability.md#market-concentration-threshold-constitutional-a) · [C](../core_05defs_accountability.md#market-concentration-threshold-constitutional-c)
-- [Contestability](../core_05defs_accountability.md#contestability) · [O](../core_05defs_accountability.md#contestability) · [A](../core_05defs_accountability.md#contestability-a) · [C](../core_05defs_accountability.md#contestability-c)
+- [Governance](../core_05defs_accountability.md#governance) · [O](../core_05defs_accountability.md#governance) · [M](../core_05defs_accountability.md#governance-a) · [A](../core_05defs_accountability.md#governance-a) · [C](../core_05defs_accountability.md#governance-c)
+- [Authority Stack and Internal Hierarchy](../core_05defs_integrative.md#authority-stack) · [O](../core_05defs_integrative.md#authority-stack) · [M](../core_05defs_integrative.md#authority-stack-a) · [A](../core_05defs_integrative.md#authority-stack-a) · [C](../core_05defs_integrative.md#authority-stack-c)
+- [System Capture](../core_05defs_continuity.md#system-capture) · [O](../core_05defs_continuity.md#system-capture) · [M](../core_05defs_continuity.md#system-capture-a) · [A](../core_05defs_continuity.md#system-capture-a) · [C](../core_05defs_continuity.md#system-capture-c)
+- [Oversight](../core_05apex_oversight_leg.md#oversight-constitutional) · [O](../core_05apex_oversight_leg.md#oversight-constitutional) · [M](../core_05apex_oversight_leg.md#oversight-constitutional-m) · [A](../core_05apex_oversight_leg.md#oversight-constitutional-a) · [C](../core_05apex_oversight_leg.md#oversight-constitutional-c)
+- [Auditability](../core_05defs_oversight.md#auditability) · [O](../core_05defs_oversight.md#auditability) · [M](../core_05defs_oversight.md#auditability-a) · [A](../core_05defs_oversight.md#auditability-a) · [C](../core_05defs_oversight.md#auditability-c)
+- [Market Concentration Threshold](../core_05defs_accountability.md#market-concentration-threshold-constitutional) · [O](../core_05defs_accountability.md#market-concentration-threshold-constitutional) · [M](../core_05defs_accountability.md#market-concentration-threshold-constitutional-a) · [A](../core_05defs_accountability.md#market-concentration-threshold-constitutional-a) · [C](../core_05defs_accountability.md#market-concentration-threshold-constitutional-c)
+- [Contestability](../core_05defs_accountability.md#contestability) · [O](../core_05defs_accountability.md#contestability) · [M](../core_05defs_accountability.md#contestability-a) · [A](../core_05defs_accountability.md#contestability-a) · [C](../core_05defs_accountability.md#contestability-c)
 
 </details>
 
@@ -118,11 +118,11 @@ This subsection states institutional owner duties: each institution must publish
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Governance](../core_05defs_accountability.md#governance) · [O](../core_05defs_accountability.md#governance) · [A](../core_05defs_accountability.md#governance-a) · [C](../core_05defs_accountability.md#governance-c)
-- [Authority Stack and Internal Hierarchy](../core_05defs_integrative.md#authority-stack) · [O](../core_05defs_integrative.md#authority-stack) · [A](../core_05defs_integrative.md#authority-stack-a) · [C](../core_05defs_integrative.md#authority-stack-c)
-- [System Capture](../core_05defs_continuity.md#system-capture) · [O](../core_05defs_continuity.md#system-capture) · [A](../core_05defs_continuity.md#system-capture-a) · [C](../core_05defs_continuity.md#system-capture-c)
-- [Charter](../core_05defs_continuity.md#charter) · [O](../core_05defs_continuity.md#charter) · [A](../core_05defs_continuity.md#charter-a) · [C](../core_05defs_continuity.md#charter-c)
-- [Review and Correction Duty](../core_05defs_continuity.md#review-and-correction-duty-constitutional) · [O](../core_05defs_continuity.md#review-and-correction-duty-constitutional) · [A](../core_05defs_continuity.md#review-and-correction-duty-constitutional-a) · [C](../core_05defs_continuity.md#review-and-correction-duty-constitutional-c)
+- [Governance](../core_05defs_accountability.md#governance) · [O](../core_05defs_accountability.md#governance) · [M](../core_05defs_accountability.md#governance-a) · [A](../core_05defs_accountability.md#governance-a) · [C](../core_05defs_accountability.md#governance-c)
+- [Authority Stack and Internal Hierarchy](../core_05defs_integrative.md#authority-stack) · [O](../core_05defs_integrative.md#authority-stack) · [M](../core_05defs_integrative.md#authority-stack-a) · [A](../core_05defs_integrative.md#authority-stack-a) · [C](../core_05defs_integrative.md#authority-stack-c)
+- [System Capture](../core_05defs_continuity.md#system-capture) · [O](../core_05defs_continuity.md#system-capture) · [M](../core_05defs_continuity.md#system-capture-a) · [A](../core_05defs_continuity.md#system-capture-a) · [C](../core_05defs_continuity.md#system-capture-c)
+- [Charter](../core_05defs_continuity.md#charter) · [O](../core_05defs_continuity.md#charter) · [M](../core_05defs_continuity.md#charter-a) · [A](../core_05defs_continuity.md#charter-a) · [C](../core_05defs_continuity.md#charter-c)
+- [Review and Correction Duty](../core_05defs_continuity.md#review-and-correction-duty-constitutional) · [O](../core_05defs_continuity.md#review-and-correction-duty-constitutional) · [M](../core_05defs_continuity.md#review-and-correction-duty-constitutional-a) · [A](../core_05defs_continuity.md#review-and-correction-duty-constitutional-a) · [C](../core_05defs_continuity.md#review-and-correction-duty-constitutional-c)
 
 </details>
 
@@ -155,13 +155,13 @@ Delegations must remain consistent with the institution's governing [Charter](..
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Proportionality](../core_05defs_accountability.md#proportionality) · [O](../core_05defs_accountability.md#proportionality) · [A](../core_05defs_accountability.md#proportionality-a) · [C](../core_05defs_accountability.md#proportionality-c)
-- [Necessity](../core_05defs_accountability.md#necessity) · [O](../core_05defs_accountability.md#necessity) · [A](../core_05defs_accountability.md#necessity-a) · [C](../core_05defs_accountability.md#necessity-c)
-- [Governance](../core_05defs_accountability.md#governance) · [O](../core_05defs_accountability.md#governance) · [A](../core_05defs_accountability.md#governance-a) · [C](../core_05defs_accountability.md#governance-c)
-- [Authority Stack and Internal Hierarchy](../core_05defs_integrative.md#authority-stack) · [O](../core_05defs_integrative.md#authority-stack) · [A](../core_05defs_integrative.md#authority-stack-a) · [C](../core_05defs_integrative.md#authority-stack-c)
-- [System Capture](../core_05defs_continuity.md#system-capture) · [O](../core_05defs_continuity.md#system-capture) · [A](../core_05defs_continuity.md#system-capture-a) · [C](../core_05defs_continuity.md#system-capture-c)
-- [Emergency and Contingency](../core_05defs_continuity.md#emergency-and-contingency-constitutional) · [O](../core_05defs_continuity.md#emergency-and-contingency-constitutional) · [A](../core_05defs_continuity.md#emergency-and-contingency-constitutional-a) · [C](../core_05defs_continuity.md#emergency-and-contingency-constitutional-c)
-- [Review and Correction Duty](../core_05defs_continuity.md#review-and-correction-duty-constitutional) · [O](../core_05defs_continuity.md#review-and-correction-duty-constitutional) · [A](../core_05defs_continuity.md#review-and-correction-duty-constitutional-a) · [C](../core_05defs_continuity.md#review-and-correction-duty-constitutional-c)
+- [Proportionality](../core_05defs_accountability.md#proportionality) · [O](../core_05defs_accountability.md#proportionality) · [M](../core_05defs_accountability.md#proportionality-a) · [A](../core_05defs_accountability.md#proportionality-a) · [C](../core_05defs_accountability.md#proportionality-c)
+- [Necessity](../core_05defs_accountability.md#necessity) · [O](../core_05defs_accountability.md#necessity) · [M](../core_05defs_accountability.md#necessity-a) · [A](../core_05defs_accountability.md#necessity-a) · [C](../core_05defs_accountability.md#necessity-c)
+- [Governance](../core_05defs_accountability.md#governance) · [O](../core_05defs_accountability.md#governance) · [M](../core_05defs_accountability.md#governance-a) · [A](../core_05defs_accountability.md#governance-a) · [C](../core_05defs_accountability.md#governance-c)
+- [Authority Stack and Internal Hierarchy](../core_05defs_integrative.md#authority-stack) · [O](../core_05defs_integrative.md#authority-stack) · [M](../core_05defs_integrative.md#authority-stack-a) · [A](../core_05defs_integrative.md#authority-stack-a) · [C](../core_05defs_integrative.md#authority-stack-c)
+- [System Capture](../core_05defs_continuity.md#system-capture) · [O](../core_05defs_continuity.md#system-capture) · [M](../core_05defs_continuity.md#system-capture-a) · [A](../core_05defs_continuity.md#system-capture-a) · [C](../core_05defs_continuity.md#system-capture-c)
+- [Emergency and Contingency](../core_05defs_continuity.md#emergency-and-contingency-constitutional) · [O](../core_05defs_continuity.md#emergency-and-contingency-constitutional) · [M](../core_05defs_continuity.md#emergency-and-contingency-constitutional-a) · [A](../core_05defs_continuity.md#emergency-and-contingency-constitutional-a) · [C](../core_05defs_continuity.md#emergency-and-contingency-constitutional-c)
+- [Review and Correction Duty](../core_05defs_continuity.md#review-and-correction-duty-constitutional) · [O](../core_05defs_continuity.md#review-and-correction-duty-constitutional) · [M](../core_05defs_continuity.md#review-and-correction-duty-constitutional-a) · [A](../core_05defs_continuity.md#review-and-correction-duty-constitutional-a) · [C](../core_05defs_continuity.md#review-and-correction-duty-constitutional-c)
 
 </details>
 
@@ -184,12 +184,12 @@ Emergency delegation is permitted only for necessity and proportionality reasons
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Material](../core_05defs_oversight.md#material) · [O](../core_05defs_oversight.md#material) · [A](../core_05defs_oversight.md#material-a) · [C](../core_05defs_oversight.md#material-c)
-- [Governance](../core_05defs_accountability.md#governance) · [O](../core_05defs_accountability.md#governance) · [A](../core_05defs_accountability.md#governance-a) · [C](../core_05defs_accountability.md#governance-c)
-- [Authority Stack and Internal Hierarchy](../core_05defs_integrative.md#authority-stack) · [O](../core_05defs_integrative.md#authority-stack) · [A](../core_05defs_integrative.md#authority-stack-a) · [C](../core_05defs_integrative.md#authority-stack-c)
-- [System Capture](../core_05defs_continuity.md#system-capture) · [O](../core_05defs_continuity.md#system-capture) · [A](../core_05defs_continuity.md#system-capture-a) · [C](../core_05defs_continuity.md#system-capture-c)
-- [Review and Correction Duty](../core_05defs_continuity.md#review-and-correction-duty-constitutional) · [O](../core_05defs_continuity.md#review-and-correction-duty-constitutional) · [A](../core_05defs_continuity.md#review-and-correction-duty-constitutional-a) · [C](../core_05defs_continuity.md#review-and-correction-duty-constitutional-c)
-- [Risk](../core_05defs_continuity.md#risk) · [O](../core_05defs_continuity.md#risk) · [A](../core_05defs_continuity.md#risk-a) · [C](../core_05defs_continuity.md#risk-c)
+- [Material](../core_05defs_oversight.md#material) · [O](../core_05defs_oversight.md#material) · [M](../core_05defs_oversight.md#material-a) · [A](../core_05defs_oversight.md#material-a) · [C](../core_05defs_oversight.md#material-c)
+- [Governance](../core_05defs_accountability.md#governance) · [O](../core_05defs_accountability.md#governance) · [M](../core_05defs_accountability.md#governance-a) · [A](../core_05defs_accountability.md#governance-a) · [C](../core_05defs_accountability.md#governance-c)
+- [Authority Stack and Internal Hierarchy](../core_05defs_integrative.md#authority-stack) · [O](../core_05defs_integrative.md#authority-stack) · [M](../core_05defs_integrative.md#authority-stack-a) · [A](../core_05defs_integrative.md#authority-stack-a) · [C](../core_05defs_integrative.md#authority-stack-c)
+- [System Capture](../core_05defs_continuity.md#system-capture) · [O](../core_05defs_continuity.md#system-capture) · [M](../core_05defs_continuity.md#system-capture-a) · [A](../core_05defs_continuity.md#system-capture-a) · [C](../core_05defs_continuity.md#system-capture-c)
+- [Review and Correction Duty](../core_05defs_continuity.md#review-and-correction-duty-constitutional) · [O](../core_05defs_continuity.md#review-and-correction-duty-constitutional) · [M](../core_05defs_continuity.md#review-and-correction-duty-constitutional-a) · [A](../core_05defs_continuity.md#review-and-correction-duty-constitutional-a) · [C](../core_05defs_continuity.md#review-and-correction-duty-constitutional-c)
+- [Risk](../core_05defs_continuity.md#risk) · [O](../core_05defs_continuity.md#risk) · [M](../core_05defs_continuity.md#risk-a) · [A](../core_05defs_continuity.md#risk-a) · [C](../core_05defs_continuity.md#risk-c)
 
 </details>
 
@@ -213,16 +213,16 @@ Each institution must maintain a plain-language risk appetite and tolerance stat
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Charter](../core_05defs_continuity.md#charter) · [O](../core_05defs_continuity.md#charter) · [A](../core_05defs_continuity.md#charter-a) · [C](../core_05defs_continuity.md#charter-c)
-- [System Boundaries](../core_05defs_continuity.md#system-boundaries) · [O](../core_05defs_continuity.md#system-boundaries) · [A](../core_05defs_continuity.md#system-boundaries-a) · [C](../core_05defs_continuity.md#system-boundaries-c)
-- [System Creation](../core_05defs_participation.md#system-creation-constitutional) · [O](../core_05defs_participation.md#system-creation-constitutional) · [A](../core_05defs_participation.md#system-creation-constitutional-a) · [C](../core_05defs_participation.md#system-creation-constitutional-c)
-- [Business Creation](../core_05defs_participation.md#business-creation-constitutional) · [O](../core_05defs_participation.md#business-creation-constitutional) · [A](../core_05defs_participation.md#business-creation-constitutional-a) · [C](../core_05defs_participation.md#business-creation-constitutional-c)
-- [Proportionality](../core_05defs_accountability.md#proportionality) · [O](../core_05defs_accountability.md#proportionality) · [A](../core_05defs_accountability.md#proportionality-a) · [C](../core_05defs_accountability.md#proportionality-c)
-- [Classification-Scaled Governance](../core_05defs_oversight.md#classification-scaled-governance) · [O](../core_05defs_oversight.md#classification-scaled-governance) · [A](../core_05defs_oversight.md#classification-scaled-governance-a) · [C](../core_05defs_oversight.md#classification-scaled-governance-c)
-- [Material Impact](../core_05defs_oversight.md#material-impact) · [O](../core_05defs_oversight.md#material-impact) · [A](../core_05defs_oversight.md#material-impact-a) · [C](../core_05defs_oversight.md#material-impact-c)
-- [Governance](../core_05defs_accountability.md#governance) · [O](../core_05defs_accountability.md#governance) · [A](../core_05defs_accountability.md#governance-a) · [C](../core_05defs_accountability.md#governance-c)
-- [Auditability](../core_05defs_oversight.md#auditability) · [O](../core_05defs_oversight.md#auditability) · [A](../core_05defs_oversight.md#auditability-a) · [C](../core_05defs_oversight.md#auditability-c)
-- [Contestability](../core_05defs_accountability.md#contestability) · [O](../core_05defs_accountability.md#contestability) · [A](../core_05defs_accountability.md#contestability-a) · [C](../core_05defs_accountability.md#contestability-c)
+- [Charter](../core_05defs_continuity.md#charter) · [O](../core_05defs_continuity.md#charter) · [M](../core_05defs_continuity.md#charter-a) · [A](../core_05defs_continuity.md#charter-a) · [C](../core_05defs_continuity.md#charter-c)
+- [System Boundaries](../core_05defs_continuity.md#system-boundaries) · [O](../core_05defs_continuity.md#system-boundaries) · [M](../core_05defs_continuity.md#system-boundaries-a) · [A](../core_05defs_continuity.md#system-boundaries-a) · [C](../core_05defs_continuity.md#system-boundaries-c)
+- [System Creation](../core_05defs_participation.md#system-creation-constitutional) · [O](../core_05defs_participation.md#system-creation-constitutional) · [M](../core_05defs_participation.md#system-creation-constitutional-a) · [A](../core_05defs_participation.md#system-creation-constitutional-a) · [C](../core_05defs_participation.md#system-creation-constitutional-c)
+- [Business Creation](../core_05defs_participation.md#business-creation-constitutional) · [O](../core_05defs_participation.md#business-creation-constitutional) · [M](../core_05defs_participation.md#business-creation-constitutional-a) · [A](../core_05defs_participation.md#business-creation-constitutional-a) · [C](../core_05defs_participation.md#business-creation-constitutional-c)
+- [Proportionality](../core_05defs_accountability.md#proportionality) · [O](../core_05defs_accountability.md#proportionality) · [M](../core_05defs_accountability.md#proportionality-a) · [A](../core_05defs_accountability.md#proportionality-a) · [C](../core_05defs_accountability.md#proportionality-c)
+- [Classification-Scaled Governance](../core_05defs_oversight.md#classification-scaled-governance) · [O](../core_05defs_oversight.md#classification-scaled-governance) · [M](../core_05defs_oversight.md#classification-scaled-governance-a) · [A](../core_05defs_oversight.md#classification-scaled-governance-a) · [C](../core_05defs_oversight.md#classification-scaled-governance-c)
+- [Material Impact](../core_05defs_oversight.md#material-impact) · [O](../core_05defs_oversight.md#material-impact) · [M](../core_05defs_oversight.md#material-impact-a) · [A](../core_05defs_oversight.md#material-impact-a) · [C](../core_05defs_oversight.md#material-impact-c)
+- [Governance](../core_05defs_accountability.md#governance) · [O](../core_05defs_accountability.md#governance) · [M](../core_05defs_accountability.md#governance-a) · [A](../core_05defs_accountability.md#governance-a) · [C](../core_05defs_accountability.md#governance-c)
+- [Auditability](../core_05defs_oversight.md#auditability) · [O](../core_05defs_oversight.md#auditability) · [M](../core_05defs_oversight.md#auditability-a) · [A](../core_05defs_oversight.md#auditability-a) · [C](../core_05defs_oversight.md#auditability-c)
+- [Contestability](../core_05defs_accountability.md#contestability) · [O](../core_05defs_accountability.md#contestability) · [M](../core_05defs_accountability.md#contestability-a) · [A](../core_05defs_accountability.md#contestability-a) · [C](../core_05defs_accountability.md#contestability-c)
 
 </details>
 

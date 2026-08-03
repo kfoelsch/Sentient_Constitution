@@ -11,13 +11,13 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Avoidable Burden](../core_05defs_continuity.md#avoidable-burden) · [O](../core_05defs_continuity.md#avoidable-burden) · [A](../core_05defs_continuity.md#avoidable-burden-a) · [C](../core_05defs_continuity.md#avoidable-burden-c)
-- [Contestability](../core_05defs_accountability.md#contestability) · [O](../core_05defs_accountability.md#contestability) · [A](../core_05defs_accountability.md#contestability-a) · [C](../core_05defs_accountability.md#contestability-c)
-- [Auditability](../core_05defs_oversight.md#auditability) · [O](../core_05defs_oversight.md#auditability) · [A](../core_05defs_oversight.md#auditability-a) · [C](../core_05defs_oversight.md#auditability-c)
-- [Transparency](../core_05defs_oversight.md#transparency) · [O](../core_05defs_oversight.md#transparency) · [A](../core_05defs_oversight.md#transparency-a) · [C](../core_05defs_oversight.md#transparency-c)
-- [Material](../core_05defs_oversight.md#material) · [O](../core_05defs_oversight.md#material) · [A](../core_05defs_oversight.md#material-a) · [C](../core_05defs_oversight.md#material-c)
-- [Corpus](../core_05defs_integrative.md#corpus) · [O](../core_05defs_integrative.md#corpus) · [A](../core_05defs_integrative.md#corpus-a) · [C](../core_05defs_integrative.md#corpus-c)
-- [System](../core_05defs_continuity.md#system-definition) · [O](../core_05defs_continuity.md#system-definition) · [A](../core_05defs_continuity.md#system-definition-a) · [C](../core_05defs_continuity.md#system-definition-c)
+- [Avoidable Burden](../core_05defs_continuity.md#avoidable-burden) · [O](../core_05defs_continuity.md#avoidable-burden) · [M](../core_05defs_continuity.md#avoidable-burden-a) · [A](../core_05defs_continuity.md#avoidable-burden-a) · [C](../core_05defs_continuity.md#avoidable-burden-c)
+- [Contestability](../core_05defs_accountability.md#contestability) · [O](../core_05defs_accountability.md#contestability) · [M](../core_05defs_accountability.md#contestability-a) · [A](../core_05defs_accountability.md#contestability-a) · [C](../core_05defs_accountability.md#contestability-c)
+- [Auditability](../core_05defs_oversight.md#auditability) · [O](../core_05defs_oversight.md#auditability) · [M](../core_05defs_oversight.md#auditability-a) · [A](../core_05defs_oversight.md#auditability-a) · [C](../core_05defs_oversight.md#auditability-c)
+- [Transparency](../core_05defs_oversight.md#transparency) · [O](../core_05defs_oversight.md#transparency) · [M](../core_05defs_oversight.md#transparency-a) · [A](../core_05defs_oversight.md#transparency-a) · [C](../core_05defs_oversight.md#transparency-c)
+- [Material](../core_05defs_oversight.md#material) · [O](../core_05defs_oversight.md#material) · [M](../core_05defs_oversight.md#material-a) · [A](../core_05defs_oversight.md#material-a) · [C](../core_05defs_oversight.md#material-c)
+- [Corpus](../core_05defs_integrative.md#corpus) · [O](../core_05defs_integrative.md#corpus) · [M](../core_05defs_integrative.md#corpus-a) · [A](../core_05defs_integrative.md#corpus-a) · [C](../core_05defs_integrative.md#corpus-c)
+- [System](../core_05defs_continuity.md#system-definition) · [O](../core_05defs_continuity.md#system-definition) · [M](../core_05defs_continuity.md#system-definition-a) · [A](../core_05defs_continuity.md#system-definition-a) · [C](../core_05defs_continuity.md#system-definition-c)
 
 </details>
 
@@ -50,13 +50,13 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Contestability](../core_05defs_accountability.md#contestability) · [O](../core_05defs_accountability.md#contestability) · [A](../core_05defs_accountability.md#contestability-a) · [C](../core_05defs_accountability.md#contestability-c)
-- [Auditability](../core_05defs_oversight.md#auditability) · [O](../core_05defs_oversight.md#auditability) · [A](../core_05defs_oversight.md#auditability-a) · [C](../core_05defs_oversight.md#auditability-c)
-- [Material](../core_05defs_oversight.md#material) · [O](../core_05defs_oversight.md#material) · [A](../core_05defs_oversight.md#material-a) · [C](../core_05defs_oversight.md#material-c)
-- [Corpus](../core_05defs_integrative.md#corpus) · [O](../core_05defs_integrative.md#corpus) · [A](../core_05defs_integrative.md#corpus-a) · [C](../core_05defs_integrative.md#corpus-c)
-- [System](../core_05defs_continuity.md#system-definition) · [O](../core_05defs_continuity.md#system-definition) · [A](../core_05defs_continuity.md#system-definition-a) · [C](../core_05defs_continuity.md#system-definition-c)
-- [Avoidable Burden](../core_05defs_continuity.md#avoidable-burden) · [O](../core_05defs_continuity.md#avoidable-burden) · [A](../core_05defs_continuity.md#avoidable-burden-a) · [C](../core_05defs_continuity.md#avoidable-burden-c)
-- [Transparency](../core_05defs_oversight.md#transparency) · [O](../core_05defs_oversight.md#transparency) · [A](../core_05defs_oversight.md#transparency-a) · [C](../core_05defs_oversight.md#transparency-c)
+- [Contestability](../core_05defs_accountability.md#contestability) · [O](../core_05defs_accountability.md#contestability) · [M](../core_05defs_accountability.md#contestability-a) · [A](../core_05defs_accountability.md#contestability-a) · [C](../core_05defs_accountability.md#contestability-c)
+- [Auditability](../core_05defs_oversight.md#auditability) · [O](../core_05defs_oversight.md#auditability) · [M](../core_05defs_oversight.md#auditability-a) · [A](../core_05defs_oversight.md#auditability-a) · [C](../core_05defs_oversight.md#auditability-c)
+- [Material](../core_05defs_oversight.md#material) · [O](../core_05defs_oversight.md#material) · [M](../core_05defs_oversight.md#material-a) · [A](../core_05defs_oversight.md#material-a) · [C](../core_05defs_oversight.md#material-c)
+- [Corpus](../core_05defs_integrative.md#corpus) · [O](../core_05defs_integrative.md#corpus) · [M](../core_05defs_integrative.md#corpus-a) · [A](../core_05defs_integrative.md#corpus-a) · [C](../core_05defs_integrative.md#corpus-c)
+- [System](../core_05defs_continuity.md#system-definition) · [O](../core_05defs_continuity.md#system-definition) · [M](../core_05defs_continuity.md#system-definition-a) · [A](../core_05defs_continuity.md#system-definition-a) · [C](../core_05defs_continuity.md#system-definition-c)
+- [Avoidable Burden](../core_05defs_continuity.md#avoidable-burden) · [O](../core_05defs_continuity.md#avoidable-burden) · [M](../core_05defs_continuity.md#avoidable-burden-a) · [A](../core_05defs_continuity.md#avoidable-burden-a) · [C](../core_05defs_continuity.md#avoidable-burden-c)
+- [Transparency](../core_05defs_oversight.md#transparency) · [O](../core_05defs_oversight.md#transparency) · [M](../core_05defs_oversight.md#transparency-a) · [A](../core_05defs_oversight.md#transparency-a) · [C](../core_05defs_oversight.md#transparency-c)
 
 </details>
 
@@ -84,13 +84,13 @@ Apply **CJS-5.12** **Class-aligned revenue and access-burden floor** for the sha
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Trust Degradation and Misleading Reliance](../core_05defs_continuity.md#trust-degradation-and-misleading-reliance) · [O](../core_05defs_continuity.md#trust-degradation-and-misleading-reliance) · [A](../core_05defs_continuity.md#trust-degradation-and-misleading-reliance-a) · [C](../core_05defs_continuity.md#trust-degradation-and-misleading-reliance-c)
-- [Coercion and Manipulation](../core_05defs_participation.md#coercion-and-manipulation-constitutional) · [O](../core_05defs_participation.md#coercion-and-manipulation-constitutional) · [A](../core_05defs_participation.md#coercion-and-manipulation-constitutional-a) · [C](../core_05defs_participation.md#coercion-and-manipulation-constitutional-c)
-- [Meaningful Agency](../core_05defs_participation.md#meaningful-agency) · [O](../core_05defs_participation.md#meaningful-agency) · [A](../core_05defs_participation.md#meaningful-agency-a) · [C](../core_05defs_participation.md#meaningful-agency-c)
-- [Material Impact](../core_05defs_oversight.md#material-impact) · [O](../core_05defs_oversight.md#material-impact) · [A](../core_05defs_oversight.md#material-impact-a) · [C](../core_05defs_oversight.md#material-impact-c)
-- [Proportionality](../core_05defs_accountability.md#proportionality) · [O](../core_05defs_accountability.md#proportionality) · [A](../core_05defs_accountability.md#proportionality-a) · [C](../core_05defs_accountability.md#proportionality-c)
-- [Contestability](../core_05defs_accountability.md#contestability) · [O](../core_05defs_accountability.md#contestability) · [A](../core_05defs_accountability.md#contestability-a) · [C](../core_05defs_accountability.md#contestability-c)
-- [Accessibility](../core_05defs_participation.md#accessibility-constitutional) · [O](../core_05defs_participation.md#accessibility-constitutional) · [A](../core_05defs_participation.md#accessibility-constitutional-a) · [C](../core_05defs_participation.md#accessibility-constitutional-c)
+- [Trust Degradation and Misleading Reliance](../core_05defs_continuity.md#trust-degradation-and-misleading-reliance) · [O](../core_05defs_continuity.md#trust-degradation-and-misleading-reliance) · [M](../core_05defs_continuity.md#trust-degradation-and-misleading-reliance-a) · [A](../core_05defs_continuity.md#trust-degradation-and-misleading-reliance-a) · [C](../core_05defs_continuity.md#trust-degradation-and-misleading-reliance-c)
+- [Coercion and Manipulation](../core_05defs_participation.md#coercion-and-manipulation-constitutional) · [O](../core_05defs_participation.md#coercion-and-manipulation-constitutional) · [M](../core_05defs_participation.md#coercion-and-manipulation-constitutional-a) · [A](../core_05defs_participation.md#coercion-and-manipulation-constitutional-a) · [C](../core_05defs_participation.md#coercion-and-manipulation-constitutional-c)
+- [Meaningful Agency](../core_05defs_participation.md#meaningful-agency) · [O](../core_05defs_participation.md#meaningful-agency) · [M](../core_05defs_participation.md#meaningful-agency-a) · [A](../core_05defs_participation.md#meaningful-agency-a) · [C](../core_05defs_participation.md#meaningful-agency-c)
+- [Material Impact](../core_05defs_oversight.md#material-impact) · [O](../core_05defs_oversight.md#material-impact) · [M](../core_05defs_oversight.md#material-impact-a) · [A](../core_05defs_oversight.md#material-impact-a) · [C](../core_05defs_oversight.md#material-impact-c)
+- [Proportionality](../core_05defs_accountability.md#proportionality) · [O](../core_05defs_accountability.md#proportionality) · [M](../core_05defs_accountability.md#proportionality-a) · [A](../core_05defs_accountability.md#proportionality-a) · [C](../core_05defs_accountability.md#proportionality-c)
+- [Contestability](../core_05defs_accountability.md#contestability) · [O](../core_05defs_accountability.md#contestability) · [M](../core_05defs_accountability.md#contestability-a) · [A](../core_05defs_accountability.md#contestability-a) · [C](../core_05defs_accountability.md#contestability-c)
+- [Accessibility](../core_05defs_participation.md#accessibility-constitutional) · [O](../core_05defs_participation.md#accessibility-constitutional) · [M](../core_05defs_participation.md#accessibility-constitutional-a) · [A](../core_05defs_participation.md#accessibility-constitutional-a) · [C](../core_05defs_participation.md#accessibility-constitutional-c)
 
 </details>
 

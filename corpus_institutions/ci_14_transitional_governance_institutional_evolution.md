@@ -12,13 +12,13 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Contestability](../core_05defs_accountability.md#contestability) · [O](../core_05defs_accountability.md#contestability) · [A](../core_05defs_accountability.md#contestability-a) · [C](../core_05defs_accountability.md#contestability-c)
-- [Reversibility](../core_05defs_continuity.md#reversibility-constitutional) · [O](../core_05defs_continuity.md#reversibility-constitutional) · [A](../core_05defs_continuity.md#reversibility-constitutional-a) · [C](../core_05defs_continuity.md#reversibility-constitutional-c)
-- [Governance](../core_05defs_accountability.md#governance) · [O](../core_05defs_accountability.md#governance) · [A](../core_05defs_accountability.md#governance-a) · [C](../core_05defs_accountability.md#governance-c)
-- [Oversight](../core_05apex_oversight_leg.md#oversight-constitutional) · [O](../core_05apex_oversight_leg.md#oversight-constitutional) · [A](../core_05apex_oversight_leg.md#oversight-constitutional-a) · [C](../core_05apex_oversight_leg.md#oversight-constitutional-c)
-- [Material](../core_05defs_oversight.md#material) · [O](../core_05defs_oversight.md#material) · [A](../core_05defs_oversight.md#material-a) · [C](../core_05defs_oversight.md#material-c)
-- [Sentient](../core_05defs_participation.md#sentient-composite) · [O](../core_05defs_participation.md#sentient-composite) · [A](../core_05defs_participation.md#sentient-composite-a) · [C](../core_05defs_integrative.md#sentient-composite-c)
-- [Corpus](../core_05defs_integrative.md#corpus) · [O](../core_05defs_integrative.md#corpus) · [A](../core_05defs_integrative.md#corpus-a) · [C](../core_05defs_integrative.md#corpus-c)
+- [Contestability](../core_05defs_accountability.md#contestability) · [O](../core_05defs_accountability.md#contestability) · [M](../core_05defs_accountability.md#contestability-a) · [A](../core_05defs_accountability.md#contestability-a) · [C](../core_05defs_accountability.md#contestability-c)
+- [Reversibility](../core_05defs_continuity.md#reversibility-constitutional) · [O](../core_05defs_continuity.md#reversibility-constitutional) · [M](../core_05defs_continuity.md#reversibility-constitutional-a) · [A](../core_05defs_continuity.md#reversibility-constitutional-a) · [C](../core_05defs_continuity.md#reversibility-constitutional-c)
+- [Governance](../core_05defs_accountability.md#governance) · [O](../core_05defs_accountability.md#governance) · [M](../core_05defs_accountability.md#governance-a) · [A](../core_05defs_accountability.md#governance-a) · [C](../core_05defs_accountability.md#governance-c)
+- [Oversight](../core_05apex_oversight_leg.md#oversight-constitutional) · [O](../core_05apex_oversight_leg.md#oversight-constitutional) · [M](../core_05apex_oversight_leg.md#oversight-constitutional-m) · [A](../core_05apex_oversight_leg.md#oversight-constitutional-a) · [C](../core_05apex_oversight_leg.md#oversight-constitutional-c)
+- [Material](../core_05defs_oversight.md#material) · [O](../core_05defs_oversight.md#material) · [M](../core_05defs_oversight.md#material-a) · [A](../core_05defs_oversight.md#material-a) · [C](../core_05defs_oversight.md#material-c)
+- [Sentient](../core_05defs_participation.md#sentient-composite) · [O](../core_05defs_participation.md#sentient-composite) · [M](../core_05defs_participation.md#sentient-composite-a) · [A](../core_05defs_participation.md#sentient-composite-a) · [C](../core_05defs_integrative.md#sentient-composite-c)
+- [Corpus](../core_05defs_integrative.md#corpus) · [O](../core_05defs_integrative.md#corpus) · [M](../core_05defs_integrative.md#corpus-a) · [A](../core_05defs_integrative.md#corpus-a) · [C](../core_05defs_integrative.md#corpus-c)
 
 </details>
 
@@ -74,13 +74,13 @@ Each institution in scope must name and maintain locally:
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Contestability](../core_05defs_accountability.md#contestability) · [O](../core_05defs_accountability.md#contestability) · [A](../core_05defs_accountability.md#contestability-a) · [C](../core_05defs_accountability.md#contestability-c)
-- [Governance](../core_05defs_accountability.md#governance) · [O](../core_05defs_accountability.md#governance) · [A](../core_05defs_accountability.md#governance-a) · [C](../core_05defs_accountability.md#governance-c)
-- [Material](../core_05defs_oversight.md#material) · [O](../core_05defs_oversight.md#material) · [A](../core_05defs_oversight.md#material-a) · [C](../core_05defs_oversight.md#material-c)
-- [Sentient](../core_05defs_participation.md#sentient-composite) · [O](../core_05defs_participation.md#sentient-composite) · [A](../core_05defs_participation.md#sentient-composite-a) · [C](../core_05defs_integrative.md#sentient-composite-c)
-- [Corpus](../core_05defs_integrative.md#corpus) · [O](../core_05defs_integrative.md#corpus) · [A](../core_05defs_integrative.md#corpus-a) · [C](../core_05defs_integrative.md#corpus-c)
-- [System](../core_05defs_continuity.md#system-definition) · [O](../core_05defs_continuity.md#system-definition) · [A](../core_05defs_continuity.md#system-definition-a) · [C](../core_05defs_continuity.md#system-definition-c)
-- [Reversibility](../core_05defs_continuity.md#reversibility-constitutional) · [O](../core_05defs_continuity.md#reversibility-constitutional) · [A](../core_05defs_continuity.md#reversibility-constitutional-a) · [C](../core_05defs_continuity.md#reversibility-constitutional-c)
+- [Contestability](../core_05defs_accountability.md#contestability) · [O](../core_05defs_accountability.md#contestability) · [M](../core_05defs_accountability.md#contestability-a) · [A](../core_05defs_accountability.md#contestability-a) · [C](../core_05defs_accountability.md#contestability-c)
+- [Governance](../core_05defs_accountability.md#governance) · [O](../core_05defs_accountability.md#governance) · [M](../core_05defs_accountability.md#governance-a) · [A](../core_05defs_accountability.md#governance-a) · [C](../core_05defs_accountability.md#governance-c)
+- [Material](../core_05defs_oversight.md#material) · [O](../core_05defs_oversight.md#material) · [M](../core_05defs_oversight.md#material-a) · [A](../core_05defs_oversight.md#material-a) · [C](../core_05defs_oversight.md#material-c)
+- [Sentient](../core_05defs_participation.md#sentient-composite) · [O](../core_05defs_participation.md#sentient-composite) · [M](../core_05defs_participation.md#sentient-composite-a) · [A](../core_05defs_participation.md#sentient-composite-a) · [C](../core_05defs_integrative.md#sentient-composite-c)
+- [Corpus](../core_05defs_integrative.md#corpus) · [O](../core_05defs_integrative.md#corpus) · [M](../core_05defs_integrative.md#corpus-a) · [A](../core_05defs_integrative.md#corpus-a) · [C](../core_05defs_integrative.md#corpus-c)
+- [System](../core_05defs_continuity.md#system-definition) · [O](../core_05defs_continuity.md#system-definition) · [M](../core_05defs_continuity.md#system-definition-a) · [A](../core_05defs_continuity.md#system-definition-a) · [C](../core_05defs_continuity.md#system-definition-c)
+- [Reversibility](../core_05defs_continuity.md#reversibility-constitutional) · [O](../core_05defs_continuity.md#reversibility-constitutional) · [M](../core_05defs_continuity.md#reversibility-constitutional-a) · [A](../core_05defs_continuity.md#reversibility-constitutional-a) · [C](../core_05defs_continuity.md#reversibility-constitutional-c)
 
 </details>
 
@@ -118,13 +118,13 @@ For **Class A**, **Class B**, and **Critical System Steward** scope, connect to 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Evidence Preservation](../core_05defs_oversight.md#evidence-preservation) · [O](../core_05defs_oversight.md#evidence-preservation) · [A](../core_05defs_oversight.md#evidence-preservation-a) · [C](../core_05defs_oversight.md#evidence-preservation-c)
-- [Accountability](../core_05apex_accountability_leg.md#accountability) · [O](../core_05apex_accountability_leg.md#accountability) · [A](../core_05apex_accountability_leg.md#accountability-a) · [C](../core_05apex_accountability_leg.md#accountability-c)
-- [Stakeholder](../core_05defs_participation.md#stakeholder) · [O](../core_05defs_participation.md#stakeholder) · [A](../core_05defs_participation.md#stakeholder-a) · [C](../core_05defs_participation.md#stakeholder-c)
-- [Oversight](../core_05apex_oversight_leg.md#oversight-constitutional) · [O](../core_05apex_oversight_leg.md#oversight-constitutional) · [A](../core_05apex_oversight_leg.md#oversight-constitutional-a) · [C](../core_05apex_oversight_leg.md#oversight-constitutional-c)
-- [Reversibility](../core_05defs_continuity.md#reversibility-constitutional) · [O](../core_05defs_continuity.md#reversibility-constitutional) · [A](../core_05defs_continuity.md#reversibility-constitutional-a) · [C](../core_05defs_continuity.md#reversibility-constitutional-c)
-- [Emergency and Contingency](../core_05defs_continuity.md#emergency-and-contingency-constitutional) · [O](../core_05defs_continuity.md#emergency-and-contingency-constitutional) · [A](../core_05defs_continuity.md#emergency-and-contingency-constitutional-a) · [C](../core_05defs_continuity.md#emergency-and-contingency-constitutional-c)
-- [Constitutional Constraint](../core_05defs_integrative.md#constitutional-constraint) · [O](../core_05defs_integrative.md#constitutional-constraint) · [A](../core_05defs_integrative.md#constitutional-constraint-a) · [C](../core_05defs_integrative.md#constitutional-constraint-c)
+- [Evidence Preservation](../core_05defs_oversight.md#evidence-preservation) · [O](../core_05defs_oversight.md#evidence-preservation) · [M](../core_05defs_oversight.md#evidence-preservation-a) · [A](../core_05defs_oversight.md#evidence-preservation-a) · [C](../core_05defs_oversight.md#evidence-preservation-c)
+- [Accountability](../core_05apex_accountability_leg.md#accountability) · [O](../core_05apex_accountability_leg.md#accountability) · [M](../core_05apex_accountability_leg.md#accountability-m) · [A](../core_05apex_accountability_leg.md#accountability-a) · [C](../core_05apex_accountability_leg.md#accountability-c)
+- [Stakeholder](../core_05defs_participation.md#stakeholder) · [O](../core_05defs_participation.md#stakeholder) · [M](../core_05defs_participation.md#stakeholder-a) · [A](../core_05defs_participation.md#stakeholder-a) · [C](../core_05defs_participation.md#stakeholder-c)
+- [Oversight](../core_05apex_oversight_leg.md#oversight-constitutional) · [O](../core_05apex_oversight_leg.md#oversight-constitutional) · [M](../core_05apex_oversight_leg.md#oversight-constitutional-m) · [A](../core_05apex_oversight_leg.md#oversight-constitutional-a) · [C](../core_05apex_oversight_leg.md#oversight-constitutional-c)
+- [Reversibility](../core_05defs_continuity.md#reversibility-constitutional) · [O](../core_05defs_continuity.md#reversibility-constitutional) · [M](../core_05defs_continuity.md#reversibility-constitutional-a) · [A](../core_05defs_continuity.md#reversibility-constitutional-a) · [C](../core_05defs_continuity.md#reversibility-constitutional-c)
+- [Emergency and Contingency](../core_05defs_continuity.md#emergency-and-contingency-constitutional) · [O](../core_05defs_continuity.md#emergency-and-contingency-constitutional) · [M](../core_05defs_continuity.md#emergency-and-contingency-constitutional-a) · [A](../core_05defs_continuity.md#emergency-and-contingency-constitutional-a) · [C](../core_05defs_continuity.md#emergency-and-contingency-constitutional-c)
+- [Constitutional Constraint](../core_05defs_integrative.md#constitutional-constraint) · [O](../core_05defs_integrative.md#constitutional-constraint) · [M](../core_05defs_integrative.md#constitutional-constraint-a) · [A](../core_05defs_integrative.md#constitutional-constraint-a) · [C](../core_05defs_integrative.md#constitutional-constraint-c)
 
 </details>
 
@@ -179,10 +179,10 @@ Institutions must publish or provide stakeholder-facing summaries on a fixed cad
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Evidence Preservation](../core_05defs_oversight.md#evidence-preservation) · [O](../core_05defs_oversight.md#evidence-preservation) · [A](../core_05defs_oversight.md#evidence-preservation-a) · [C](../core_05defs_oversight.md#evidence-preservation-c)
-- [Necessity](../core_05defs_accountability.md#necessity) · [O](../core_05defs_accountability.md#necessity) · [A](../core_05defs_accountability.md#necessity-a) · [C](../core_05defs_accountability.md#necessity-c)
-- [Proportionality](../core_05defs_accountability.md#proportionality) · [O](../core_05defs_accountability.md#proportionality) · [A](../core_05defs_accountability.md#proportionality-a) · [C](../core_05defs_accountability.md#proportionality-c)
-- [Substantive Fairness](../core_05defs_participation.md#substantive-fairness-constitutional) · [O](../core_05defs_participation.md#substantive-fairness-constitutional) · [A](../core_05defs_participation.md#substantive-fairness-constitutional-a) · [C](../core_05defs_participation.md#substantive-fairness-constitutional-c)
+- [Evidence Preservation](../core_05defs_oversight.md#evidence-preservation) · [O](../core_05defs_oversight.md#evidence-preservation) · [M](../core_05defs_oversight.md#evidence-preservation-a) · [A](../core_05defs_oversight.md#evidence-preservation-a) · [C](../core_05defs_oversight.md#evidence-preservation-c)
+- [Necessity](../core_05defs_accountability.md#necessity) · [O](../core_05defs_accountability.md#necessity) · [M](../core_05defs_accountability.md#necessity-a) · [A](../core_05defs_accountability.md#necessity-a) · [C](../core_05defs_accountability.md#necessity-c)
+- [Proportionality](../core_05defs_accountability.md#proportionality) · [O](../core_05defs_accountability.md#proportionality) · [M](../core_05defs_accountability.md#proportionality-a) · [A](../core_05defs_accountability.md#proportionality-a) · [C](../core_05defs_accountability.md#proportionality-c)
+- [Substantive Fairness](../core_05defs_participation.md#substantive-fairness-constitutional) · [O](../core_05defs_participation.md#substantive-fairness-constitutional) · [M](../core_05defs_participation.md#substantive-fairness-constitutional-a) · [A](../core_05defs_participation.md#substantive-fairness-constitutional-a) · [C](../core_05defs_participation.md#substantive-fairness-constitutional-c)
 
 </details>
 

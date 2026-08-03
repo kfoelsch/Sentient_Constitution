@@ -95,7 +95,7 @@ Failure to invoke or correctly apply any materially required **Chapter Five** de
 
 </details>
 
-<strong><span style="color: #2563eb;">Definition:</span></strong> [Foreseeability](core_05defs_oversight.md#foreseeability-diligence) · [O](core_05defs_oversight.md#foreseeability-diligence) · [A](core_05defs_oversight.md#foreseeability-diligence-a) · [C](core_05defs_oversight.md#foreseeability-diligence-c)
+<strong><span style="color: #2563eb;">Definition:</span></strong> [Foreseeability](core_05defs_oversight.md#foreseeability-diligence) · [O](core_05defs_oversight.md#foreseeability-diligence) · [M](core_05defs_oversight.md#foreseeability-diligence-a) · [A](core_05defs_oversight.md#foreseeability-diligence-a) · [C](core_05defs_oversight.md#foreseeability-diligence-c)
 
 *In plain terms: section 2 requires a trace map — this section requires the system to expose enough of itself that authorized or affected parties can check the map in practice, not just in theory. Opaque architecture, outside dependencies, and black-box components do not get a pass.*
 
@@ -128,7 +128,7 @@ Where verification is technically possible but not practically achievable, treat
 
 </details>
 
-<strong><span style="color: #2563eb;">Definition:</span></strong> [Foreseeability](core_05defs_oversight.md#foreseeability-diligence) · [O](core_05defs_oversight.md#foreseeability-diligence) · [A](core_05defs_oversight.md#foreseeability-diligence-a) · [C](core_05defs_oversight.md#foreseeability-diligence-c)
+<strong><span style="color: #2563eb;">Definition:</span></strong> [Foreseeability](core_05defs_oversight.md#foreseeability-diligence) · [O](core_05defs_oversight.md#foreseeability-diligence) · [M](core_05defs_oversight.md#foreseeability-diligence-a) · [A](core_05defs_oversight.md#foreseeability-diligence-a) · [C](core_05defs_oversight.md#foreseeability-diligence-c)
 
 *In plain terms: security can narrow how, when, and to whom disclosure or audit happens — it cannot erase the duty to trace, verify, and allow independent checking.*
 

@@ -73,10 +73,10 @@ The [Rights-Floor Minimums Principle](core_01_b_interaction_interpretation.md#ri
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Dignity and Equal Moral Standing](core_05defs_participation.md#dignity-and-equal-moral-standing) · [O](core_05defs_participation.md#dignity-and-equal-moral-standing) · [A](core_05defs_participation.md#dignity-and-equal-moral-standing-a) · [C](core_05defs_participation.md#dignity-and-equal-moral-standing-c)
-- [Sentience Non-Exclusion](core_05defs_participation.md#sentience-non-exclusion) · [O](core_05defs_participation.md#sentience-non-exclusion) · [A](core_05defs_participation.md#sentience-non-exclusion-a) · [C](core_05defs_participation.md#sentience-non-exclusion)
-- [Wellbeing](core_05defs_continuity.md#wellbeing) · [O](core_05defs_continuity.md#wellbeing) · [A](core_05defs_continuity.md#wellbeing-a) · [C](core_05defs_continuity.md#wellbeing-c)
-- [Protected Characteristics](core_05defs_participation.md#protected-characteristics-constitutional) · [O](core_05defs_participation.md#protected-characteristics-constitutional) · [A](core_05defs_participation.md#protected-characteristics-constitutional-a) · [C](core_05defs_participation.md#protected-characteristics-constitutional-c)
+- [Dignity and Equal Moral Standing](core_05defs_participation.md#dignity-and-equal-moral-standing) · [O](core_05defs_participation.md#dignity-and-equal-moral-standing) · [M](core_05defs_participation.md#dignity-and-equal-moral-standing-a) · [A](core_05defs_participation.md#dignity-and-equal-moral-standing-a) · [C](core_05defs_participation.md#dignity-and-equal-moral-standing-c)
+- [Sentience Non-Exclusion](core_05defs_participation.md#sentience-non-exclusion) · [O](core_05defs_participation.md#sentience-non-exclusion) · [M](core_05defs_participation.md#sentience-non-exclusion-a) · [A](core_05defs_participation.md#sentience-non-exclusion-a) · [C](core_05defs_participation.md#sentience-non-exclusion)
+- [Wellbeing](core_05defs_continuity.md#wellbeing) · [O](core_05defs_continuity.md#wellbeing) · [M](core_05defs_continuity.md#wellbeing-a) · [A](core_05defs_continuity.md#wellbeing-a) · [C](core_05defs_continuity.md#wellbeing-c)
+- [Protected Characteristics](core_05defs_participation.md#protected-characteristics-constitutional) · [O](core_05defs_participation.md#protected-characteristics-constitutional) · [M](core_05defs_participation.md#protected-characteristics-constitutional-a) · [A](core_05defs_participation.md#protected-characteristics-constitutional-a) · [C](core_05defs_participation.md#protected-characteristics-constitutional-c)
 
 </details>
 
@@ -101,11 +101,11 @@ The [Rights-Floor Minimums Principle](core_01_b_interaction_interpretation.md#ri
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Protected Characteristics](core_05defs_participation.md#protected-characteristics-constitutional) · [O](core_05defs_participation.md#protected-characteristics-constitutional) · [A](core_05defs_participation.md#protected-characteristics-constitutional-a) · [C](core_05defs_participation.md#protected-characteristics-constitutional-c)
-- [Language, Culture, and Heritage](core_05defs_continuity.md#language-culture-and-heritage-constitutional) · [O](core_05defs_continuity.md#language-culture-and-heritage-constitutional) · [A](core_05defs_continuity.md#language-culture-and-heritage-constitutional-a) · [C](core_05defs_continuity.md#language-culture-and-heritage-constitutional-c)
-- [Substantive Fairness](core_05defs_participation.md#substantive-fairness-constitutional) · [O](core_05defs_participation.md#substantive-fairness-constitutional) · [A](core_05defs_participation.md#substantive-fairness-constitutional-a) · [C](core_05defs_participation.md#substantive-fairness-constitutional-c)
-- [Necessity](core_05defs_accountability.md#necessity) · [O](core_05defs_accountability.md#necessity) · [A](core_05defs_accountability.md#necessity-a) · [C](core_05defs_accountability.md#necessity-c)
-- [Proportionality](core_05defs_accountability.md#proportionality) · [O](core_05defs_accountability.md#proportionality) · [A](core_05defs_accountability.md#proportionality-a) · [C](core_05defs_accountability.md#proportionality-c)
+- [Protected Characteristics](core_05defs_participation.md#protected-characteristics-constitutional) · [O](core_05defs_participation.md#protected-characteristics-constitutional) · [M](core_05defs_participation.md#protected-characteristics-constitutional-a) · [A](core_05defs_participation.md#protected-characteristics-constitutional-a) · [C](core_05defs_participation.md#protected-characteristics-constitutional-c)
+- [Language, Culture, and Heritage](core_05defs_continuity.md#language-culture-and-heritage-constitutional) · [O](core_05defs_continuity.md#language-culture-and-heritage-constitutional) · [M](core_05defs_continuity.md#language-culture-and-heritage-constitutional-a) · [A](core_05defs_continuity.md#language-culture-and-heritage-constitutional-a) · [C](core_05defs_continuity.md#language-culture-and-heritage-constitutional-c)
+- [Substantive Fairness](core_05defs_participation.md#substantive-fairness-constitutional) · [O](core_05defs_participation.md#substantive-fairness-constitutional) · [M](core_05defs_participation.md#substantive-fairness-constitutional-a) · [A](core_05defs_participation.md#substantive-fairness-constitutional-a) · [C](core_05defs_participation.md#substantive-fairness-constitutional-c)
+- [Necessity](core_05defs_accountability.md#necessity) · [O](core_05defs_accountability.md#necessity) · [M](core_05defs_accountability.md#necessity-a) · [A](core_05defs_accountability.md#necessity-a) · [C](core_05defs_accountability.md#necessity-c)
+- [Proportionality](core_05defs_accountability.md#proportionality) · [O](core_05defs_accountability.md#proportionality) · [M](core_05defs_accountability.md#proportionality-a) · [A](core_05defs_accountability.md#proportionality-a) · [C](core_05defs_accountability.md#proportionality-c)
 
 </details>
 
@@ -149,11 +149,11 @@ The [Rights-Floor Minimums Principle](core_01_b_interaction_interpretation.md#ri
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Protected Characteristics](core_05defs_participation.md#protected-characteristics-constitutional) · [O](core_05defs_participation.md#protected-characteristics-constitutional) · [A](core_05defs_participation.md#protected-characteristics-constitutional-a) · [C](core_05defs_participation.md#protected-characteristics-constitutional-c)
-- [Substantive Fairness](core_05defs_participation.md#substantive-fairness-constitutional) · [O](core_05defs_participation.md#substantive-fairness-constitutional) · [A](core_05defs_participation.md#substantive-fairness-constitutional-a) · [C](core_05defs_participation.md#substantive-fairness-constitutional-c)
-- [Procedural Fairness](core_05defs_participation.md#procedural-fairness-constitutional) · [O](core_05defs_participation.md#procedural-fairness-constitutional) · [A](core_05defs_participation.md#procedural-fairness-constitutional-a) · [C](core_05defs_participation.md#procedural-fairness-constitutional-c)
-- [Contestability](core_05defs_accountability.md#contestability) · [O](core_05defs_accountability.md#contestability) · [A](core_05defs_accountability.md#contestability-a) · [C](core_05defs_accountability.md#contestability-c)
-- [Redress and Remediation](core_05defs_accountability.md#redress-and-remediation-constitutional) · [O](core_05defs_accountability.md#redress-and-remediation-constitutional) · [A](core_05defs_accountability.md#redress-and-remediation-constitutional-a) · [C](core_05defs_accountability.md#redress-and-remediation-constitutional-c)
+- [Protected Characteristics](core_05defs_participation.md#protected-characteristics-constitutional) · [O](core_05defs_participation.md#protected-characteristics-constitutional) · [M](core_05defs_participation.md#protected-characteristics-constitutional-a) · [A](core_05defs_participation.md#protected-characteristics-constitutional-a) · [C](core_05defs_participation.md#protected-characteristics-constitutional-c)
+- [Substantive Fairness](core_05defs_participation.md#substantive-fairness-constitutional) · [O](core_05defs_participation.md#substantive-fairness-constitutional) · [M](core_05defs_participation.md#substantive-fairness-constitutional-a) · [A](core_05defs_participation.md#substantive-fairness-constitutional-a) · [C](core_05defs_participation.md#substantive-fairness-constitutional-c)
+- [Procedural Fairness](core_05defs_participation.md#procedural-fairness-constitutional) · [O](core_05defs_participation.md#procedural-fairness-constitutional) · [M](core_05defs_participation.md#procedural-fairness-constitutional-a) · [A](core_05defs_participation.md#procedural-fairness-constitutional-a) · [C](core_05defs_participation.md#procedural-fairness-constitutional-c)
+- [Contestability](core_05defs_accountability.md#contestability) · [O](core_05defs_accountability.md#contestability) · [M](core_05defs_accountability.md#contestability-a) · [A](core_05defs_accountability.md#contestability-a) · [C](core_05defs_accountability.md#contestability-c)
+- [Redress and Remediation](core_05defs_accountability.md#redress-and-remediation-constitutional) · [O](core_05defs_accountability.md#redress-and-remediation-constitutional) · [M](core_05defs_accountability.md#redress-and-remediation-constitutional-a) · [A](core_05defs_accountability.md#redress-and-remediation-constitutional-a) · [C](core_05defs_accountability.md#redress-and-remediation-constitutional-c)
 
 </details>
 
@@ -183,11 +183,11 @@ The [Rights-Floor Minimums Principle](core_01_b_interaction_interpretation.md#ri
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Protected Characteristics](core_05defs_participation.md#protected-characteristics-constitutional) · [O](core_05defs_participation.md#protected-characteristics-constitutional) · [A](core_05defs_participation.md#protected-characteristics-constitutional-a) · [C](core_05defs_participation.md#protected-characteristics-constitutional-c)
-- [Non-Imposition (Cooperative Interaction)](core_05defs_participation.md#non-imposition-cooperative-interaction) · [O](core_05defs_participation.md#non-imposition-cooperative-interaction) · [A](core_05defs_participation.md#non-imposition-cooperative-interaction-a) · [C](core_05defs_participation.md#non-imposition-cooperative-interaction-c)
-- [Substantive Fairness](core_05defs_participation.md#substantive-fairness-constitutional) · [O](core_05defs_participation.md#substantive-fairness-constitutional) · [A](core_05defs_participation.md#substantive-fairness-constitutional-a) · [C](core_05defs_participation.md#substantive-fairness-constitutional-c)
-- [Necessity](core_05defs_accountability.md#necessity) · [O](core_05defs_accountability.md#necessity) · [A](core_05defs_accountability.md#necessity-a) · [C](core_05defs_accountability.md#necessity-c)
-- [Proportionality](core_05defs_accountability.md#proportionality) · [O](core_05defs_accountability.md#proportionality) · [A](core_05defs_accountability.md#proportionality-a) · [C](core_05defs_accountability.md#proportionality-c)
+- [Protected Characteristics](core_05defs_participation.md#protected-characteristics-constitutional) · [O](core_05defs_participation.md#protected-characteristics-constitutional) · [M](core_05defs_participation.md#protected-characteristics-constitutional-a) · [A](core_05defs_participation.md#protected-characteristics-constitutional-a) · [C](core_05defs_participation.md#protected-characteristics-constitutional-c)
+- [Non-Imposition (Cooperative Interaction)](core_05defs_participation.md#non-imposition-cooperative-interaction) · [O](core_05defs_participation.md#non-imposition-cooperative-interaction) · [M](core_05defs_participation.md#non-imposition-cooperative-interaction-a) · [A](core_05defs_participation.md#non-imposition-cooperative-interaction-a) · [C](core_05defs_participation.md#non-imposition-cooperative-interaction-c)
+- [Substantive Fairness](core_05defs_participation.md#substantive-fairness-constitutional) · [O](core_05defs_participation.md#substantive-fairness-constitutional) · [M](core_05defs_participation.md#substantive-fairness-constitutional-a) · [A](core_05defs_participation.md#substantive-fairness-constitutional-a) · [C](core_05defs_participation.md#substantive-fairness-constitutional-c)
+- [Necessity](core_05defs_accountability.md#necessity) · [O](core_05defs_accountability.md#necessity) · [M](core_05defs_accountability.md#necessity-a) · [A](core_05defs_accountability.md#necessity-a) · [C](core_05defs_accountability.md#necessity-c)
+- [Proportionality](core_05defs_accountability.md#proportionality) · [O](core_05defs_accountability.md#proportionality) · [M](core_05defs_accountability.md#proportionality-a) · [A](core_05defs_accountability.md#proportionality-a) · [C](core_05defs_accountability.md#proportionality-c)
 
 </details>
 
@@ -229,11 +229,11 @@ The [Rights-Floor Minimums Principle](core_01_b_interaction_interpretation.md#ri
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Sentience Status Adjudication](core_05defs_participation.md#sentience-status-adjudication-constitutional) · [O](core_05defs_participation.md#sentience-status-adjudication-constitutional) · [A](core_05defs_participation.md#sentience-status-adjudication-constitutional-a) · [C](core_05defs_participation.md#sentience-status-adjudication-constitutional-c)
-- [Sentience Non-Exclusion](core_05defs_participation.md#sentience-non-exclusion) · [O](core_05defs_participation.md#sentience-non-exclusion) · [A](core_05defs_participation.md#sentience-non-exclusion-a) · [C](core_05defs_participation.md#sentience-non-exclusion)
-- [Reversibility](core_05defs_continuity.md#reversibility-constitutional) · [O](core_05defs_continuity.md#reversibility-constitutional) · [A](core_05defs_continuity.md#reversibility-constitutional-a) · [C](core_05defs_continuity.md#reversibility-constitutional-c)
-- [Contestability](core_05defs_accountability.md#contestability) · [O](core_05defs_accountability.md#contestability) · [A](core_05defs_accountability.md#contestability-a) · [C](core_05defs_accountability.md#contestability-c)
-- [Dignity and Equal Moral Standing](core_05defs_participation.md#dignity-and-equal-moral-standing) · [O](core_05defs_participation.md#dignity-and-equal-moral-standing) · [A](core_05defs_participation.md#dignity-and-equal-moral-standing-a) · [C](core_05defs_participation.md#dignity-and-equal-moral-standing-c)
+- [Sentience Status Adjudication](core_05defs_participation.md#sentience-status-adjudication-constitutional) · [O](core_05defs_participation.md#sentience-status-adjudication-constitutional) · [M](core_05defs_participation.md#sentience-status-adjudication-constitutional-a) · [A](core_05defs_participation.md#sentience-status-adjudication-constitutional-a) · [C](core_05defs_participation.md#sentience-status-adjudication-constitutional-c)
+- [Sentience Non-Exclusion](core_05defs_participation.md#sentience-non-exclusion) · [O](core_05defs_participation.md#sentience-non-exclusion) · [M](core_05defs_participation.md#sentience-non-exclusion-a) · [A](core_05defs_participation.md#sentience-non-exclusion-a) · [C](core_05defs_participation.md#sentience-non-exclusion)
+- [Reversibility](core_05defs_continuity.md#reversibility-constitutional) · [O](core_05defs_continuity.md#reversibility-constitutional) · [M](core_05defs_continuity.md#reversibility-constitutional-a) · [A](core_05defs_continuity.md#reversibility-constitutional-a) · [C](core_05defs_continuity.md#reversibility-constitutional-c)
+- [Contestability](core_05defs_accountability.md#contestability) · [O](core_05defs_accountability.md#contestability) · [M](core_05defs_accountability.md#contestability-a) · [A](core_05defs_accountability.md#contestability-a) · [C](core_05defs_accountability.md#contestability-c)
+- [Dignity and Equal Moral Standing](core_05defs_participation.md#dignity-and-equal-moral-standing) · [O](core_05defs_participation.md#dignity-and-equal-moral-standing) · [M](core_05defs_participation.md#dignity-and-equal-moral-standing-a) · [A](core_05defs_participation.md#dignity-and-equal-moral-standing-a) · [C](core_05defs_participation.md#dignity-and-equal-moral-standing-c)
 
 </details>
 
@@ -275,9 +275,9 @@ The [Rights-Floor Minimums Principle](core_01_b_interaction_interpretation.md#ri
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Developing Sentient](core_05defs_participation.md#developing-sentient-constitutional) · [O](core_05defs_participation.md#developing-sentient-constitutional) · [A](core_05defs_participation.md#developing-sentient-constitutional-a) · [C](core_05defs_participation.md#developing-sentient-constitutional-c)
-- [Best-Interest Standard](core_05defs_participation.md#best-interest-standard-constitutional) · [O](core_05defs_participation.md#best-interest-standard-constitutional) · [A](core_05defs_participation.md#best-interest-standard-constitutional-a) · [C](core_05defs_participation.md#best-interest-standard-constitutional-c)
-- [Graduated Capability](core_05defs_participation.md#graduated-capability-constitutional) · [O](core_05defs_participation.md#graduated-capability-constitutional) · [A](core_05defs_participation.md#graduated-capability-constitutional-a) · [C](core_05defs_participation.md#graduated-capability-constitutional-c)
+- [Developing Sentient](core_05defs_participation.md#developing-sentient-constitutional) · [O](core_05defs_participation.md#developing-sentient-constitutional) · [M](core_05defs_participation.md#developing-sentient-constitutional-a) · [A](core_05defs_participation.md#developing-sentient-constitutional-a) · [C](core_05defs_participation.md#developing-sentient-constitutional-c)
+- [Best-Interest Standard](core_05defs_participation.md#best-interest-standard-constitutional) · [O](core_05defs_participation.md#best-interest-standard-constitutional) · [M](core_05defs_participation.md#best-interest-standard-constitutional-a) · [A](core_05defs_participation.md#best-interest-standard-constitutional-a) · [C](core_05defs_participation.md#best-interest-standard-constitutional-c)
+- [Graduated Capability](core_05defs_participation.md#graduated-capability-constitutional) · [O](core_05defs_participation.md#graduated-capability-constitutional) · [M](core_05defs_participation.md#graduated-capability-constitutional-a) · [A](core_05defs_participation.md#graduated-capability-constitutional-a) · [C](core_05defs_participation.md#graduated-capability-constitutional-c)
 
 </details>
 
@@ -337,9 +337,9 @@ The [Rights-Floor Minimums Principle](core_01_b_interaction_interpretation.md#ri
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Accessibility](core_05defs_participation.md#accessibility-constitutional) · [O](core_05defs_participation.md#accessibility-constitutional) · [A](core_05defs_participation.md#accessibility-constitutional-a) · [C](core_05defs_participation.md#accessibility-constitutional-c)
-- [Protected Characteristics](core_05defs_participation.md#protected-characteristics-constitutional) · [O](core_05defs_participation.md#protected-characteristics-constitutional) · [A](core_05defs_participation.md#protected-characteristics-constitutional-a) · [C](core_05defs_participation.md#protected-characteristics-constitutional-c)
-- [Substantive Fairness](core_05defs_participation.md#substantive-fairness-constitutional) · [O](core_05defs_participation.md#substantive-fairness-constitutional) · [A](core_05defs_participation.md#substantive-fairness-constitutional-a) · [C](core_05defs_participation.md#substantive-fairness-constitutional-c)
+- [Accessibility](core_05defs_participation.md#accessibility-constitutional) · [O](core_05defs_participation.md#accessibility-constitutional) · [M](core_05defs_participation.md#accessibility-constitutional-a) · [A](core_05defs_participation.md#accessibility-constitutional-a) · [C](core_05defs_participation.md#accessibility-constitutional-c)
+- [Protected Characteristics](core_05defs_participation.md#protected-characteristics-constitutional) · [O](core_05defs_participation.md#protected-characteristics-constitutional) · [M](core_05defs_participation.md#protected-characteristics-constitutional-a) · [A](core_05defs_participation.md#protected-characteristics-constitutional-a) · [C](core_05defs_participation.md#protected-characteristics-constitutional-c)
+- [Substantive Fairness](core_05defs_participation.md#substantive-fairness-constitutional) · [O](core_05defs_participation.md#substantive-fairness-constitutional) · [M](core_05defs_participation.md#substantive-fairness-constitutional-a) · [A](core_05defs_participation.md#substantive-fairness-constitutional-a) · [C](core_05defs_participation.md#substantive-fairness-constitutional-c)
 
 </details>
 
@@ -400,9 +400,9 @@ The [Rights-Floor Minimums Principle](core_01_b_interaction_interpretation.md#ri
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Expression](core_05defs_participation.md#expression-constitutional) · [O](core_05defs_accountability.md#expression-constitutional-o) · [A](core_05defs_participation.md#expression-constitutional-a) · [C](core_05defs_participation.md#expression-constitutional-c)
-- [Assembly](core_05defs_participation.md#assembly-constitutional) · [O](core_05defs_participation.md#assembly-constitutional) · [A](core_05defs_participation.md#assembly-constitutional-a) · [C](core_05defs_participation.md#assembly-constitutional-c)
-- [Press and Journalistic Activity](core_05defs_oversight.md#press-and-journalistic-activity-constitutional) · [O](core_05defs_oversight.md#press-and-journalistic-activity-constitutional) · [A](core_05defs_oversight.md#press-and-journalistic-activity-constitutional-a) · [C](core_05defs_oversight.md#press-and-journalistic-activity-constitutional-c)
+- [Expression](core_05defs_participation.md#expression-constitutional) · [O](core_05defs_accountability.md#expression-constitutional-o) · [M](core_05defs_participation.md#expression-constitutional-a) · [A](core_05defs_participation.md#expression-constitutional-a) · [C](core_05defs_participation.md#expression-constitutional-c)
+- [Assembly](core_05defs_participation.md#assembly-constitutional) · [O](core_05defs_participation.md#assembly-constitutional) · [M](core_05defs_participation.md#assembly-constitutional-a) · [A](core_05defs_participation.md#assembly-constitutional-a) · [C](core_05defs_participation.md#assembly-constitutional-c)
+- [Press and Journalistic Activity](core_05defs_oversight.md#press-and-journalistic-activity-constitutional) · [O](core_05defs_oversight.md#press-and-journalistic-activity-constitutional) · [M](core_05defs_oversight.md#press-and-journalistic-activity-constitutional-a) · [A](core_05defs_oversight.md#press-and-journalistic-activity-constitutional-a) · [C](core_05defs_oversight.md#press-and-journalistic-activity-constitutional-c)
 
 </details>
 
@@ -451,10 +451,10 @@ The [Rights-Floor Minimums Principle](core_01_b_interaction_interpretation.md#ri
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Educational Agency](core_05defs_participation.md#educational-agency) · [O](core_05defs_accountability.md#educational-agency-o) · [A](core_05defs_participation.md#educational-agency-a) · [C](core_05defs_participation.md#educational-agency-c)
-- [Meaningful Agency](core_05defs_participation.md#meaningful-agency) · [O](core_05defs_accountability.md#meaningful-agency-o) · [A](core_05defs_participation.md#meaningful-agency-a) · [C](core_05defs_participation.md#meaningful-agency-c)
-- [Self-Determination](core_05defs_participation.md#self-determination-constitutional) · [O](core_05defs_accountability.md#self-determination-constitutional-o) · [A](core_05defs_participation.md#self-determination-constitutional-a) · [C](core_05defs_participation.md#self-determination-constitutional-c)
-- [Protected Characteristics](core_05defs_participation.md#protected-characteristics-constitutional) · [O](core_05defs_participation.md#protected-characteristics-constitutional) · [A](core_05defs_participation.md#protected-characteristics-constitutional-a) · [C](core_05defs_participation.md#protected-characteristics-constitutional-c)
+- [Educational Agency](core_05defs_participation.md#educational-agency) · [O](core_05defs_accountability.md#educational-agency-o) · [M](core_05defs_participation.md#educational-agency-a) · [A](core_05defs_participation.md#educational-agency-a) · [C](core_05defs_participation.md#educational-agency-c)
+- [Meaningful Agency](core_05defs_participation.md#meaningful-agency) · [O](core_05defs_accountability.md#meaningful-agency-o) · [M](core_05defs_participation.md#meaningful-agency-a) · [A](core_05defs_participation.md#meaningful-agency-a) · [C](core_05defs_participation.md#meaningful-agency-c)
+- [Self-Determination](core_05defs_participation.md#self-determination-constitutional) · [O](core_05defs_accountability.md#self-determination-constitutional-o) · [M](core_05defs_participation.md#self-determination-constitutional-a) · [A](core_05defs_participation.md#self-determination-constitutional-a) · [C](core_05defs_participation.md#self-determination-constitutional-c)
+- [Protected Characteristics](core_05defs_participation.md#protected-characteristics-constitutional) · [O](core_05defs_participation.md#protected-characteristics-constitutional) · [M](core_05defs_participation.md#protected-characteristics-constitutional-a) · [A](core_05defs_participation.md#protected-characteristics-constitutional-a) · [C](core_05defs_participation.md#protected-characteristics-constitutional-c)
 
 </details>
 
@@ -492,11 +492,11 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Educational Agency](core_05defs_participation.md#educational-agency) · [O](core_05defs_accountability.md#educational-agency-o) · [A](core_05defs_participation.md#educational-agency-a) · [C](core_05defs_participation.md#educational-agency-c)
-- [Meaningful Agency](core_05defs_participation.md#meaningful-agency) · [O](core_05defs_accountability.md#meaningful-agency-o) · [A](core_05defs_participation.md#meaningful-agency-a) · [C](core_05defs_participation.md#meaningful-agency-c)
-- [Self-Determination](core_05defs_participation.md#self-determination-constitutional) · [O](core_05defs_accountability.md#self-determination-constitutional-o) · [A](core_05defs_participation.md#self-determination-constitutional-a) · [C](core_05defs_participation.md#self-determination-constitutional-c)
-- [Dignity and Equal Moral Standing](core_05defs_participation.md#dignity-and-equal-moral-standing) · [O](core_05defs_participation.md#dignity-and-equal-moral-standing) · [A](core_05defs_participation.md#dignity-and-equal-moral-standing-a) · [C](core_05defs_participation.md#dignity-and-equal-moral-standing-c)
-- [Wellbeing](core_05defs_continuity.md#wellbeing) · [O](core_05defs_continuity.md#wellbeing) · [A](core_05defs_continuity.md#wellbeing-a) · [C](core_05defs_continuity.md#wellbeing-c)
+- [Educational Agency](core_05defs_participation.md#educational-agency) · [O](core_05defs_accountability.md#educational-agency-o) · [M](core_05defs_participation.md#educational-agency-a) · [A](core_05defs_participation.md#educational-agency-a) · [C](core_05defs_participation.md#educational-agency-c)
+- [Meaningful Agency](core_05defs_participation.md#meaningful-agency) · [O](core_05defs_accountability.md#meaningful-agency-o) · [M](core_05defs_participation.md#meaningful-agency-a) · [A](core_05defs_participation.md#meaningful-agency-a) · [C](core_05defs_participation.md#meaningful-agency-c)
+- [Self-Determination](core_05defs_participation.md#self-determination-constitutional) · [O](core_05defs_accountability.md#self-determination-constitutional-o) · [M](core_05defs_participation.md#self-determination-constitutional-a) · [A](core_05defs_participation.md#self-determination-constitutional-a) · [C](core_05defs_participation.md#self-determination-constitutional-c)
+- [Dignity and Equal Moral Standing](core_05defs_participation.md#dignity-and-equal-moral-standing) · [O](core_05defs_participation.md#dignity-and-equal-moral-standing) · [M](core_05defs_participation.md#dignity-and-equal-moral-standing-a) · [A](core_05defs_participation.md#dignity-and-equal-moral-standing-a) · [C](core_05defs_participation.md#dignity-and-equal-moral-standing-c)
+- [Wellbeing](core_05defs_continuity.md#wellbeing) · [O](core_05defs_continuity.md#wellbeing) · [M](core_05defs_continuity.md#wellbeing-a) · [A](core_05defs_continuity.md#wellbeing-a) · [C](core_05defs_continuity.md#wellbeing-c)
 
 </details>
 
@@ -521,12 +521,12 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Educational Agency](core_05defs_participation.md#educational-agency) · [O](core_05defs_accountability.md#educational-agency-o) · [A](core_05defs_participation.md#educational-agency-a) · [C](core_05defs_participation.md#educational-agency-c)
-- [Contestability](core_05defs_accountability.md#contestability) · [O](core_05defs_accountability.md#contestability) · [A](core_05defs_accountability.md#contestability-a) · [C](core_05defs_accountability.md#contestability-c)
-- [Meaningful Agency](core_05defs_participation.md#meaningful-agency) · [O](core_05defs_accountability.md#meaningful-agency-o) · [A](core_05defs_participation.md#meaningful-agency-a) · [C](core_05defs_participation.md#meaningful-agency-c)
-- [Transparency](core_05defs_oversight.md#transparency) · [O](core_05defs_oversight.md#transparency) · [A](core_05defs_oversight.md#transparency-a) · [C](core_05defs_oversight.md#transparency-c)
-- [Auditability](core_05defs_oversight.md#auditability) · [O](core_05defs_oversight.md#auditability) · [A](core_05defs_oversight.md#auditability-a) · [C](core_05defs_oversight.md#auditability-c)
-- [Coercion and Manipulation](core_05defs_participation.md#coercion-and-manipulation-constitutional) · [O](core_05defs_participation.md#coercion-and-manipulation-constitutional) · [A](core_05defs_participation.md#coercion-and-manipulation-constitutional-a) · [C](core_05defs_participation.md#coercion-and-manipulation-constitutional-c)
+- [Educational Agency](core_05defs_participation.md#educational-agency) · [O](core_05defs_accountability.md#educational-agency-o) · [M](core_05defs_participation.md#educational-agency-a) · [A](core_05defs_participation.md#educational-agency-a) · [C](core_05defs_participation.md#educational-agency-c)
+- [Contestability](core_05defs_accountability.md#contestability) · [O](core_05defs_accountability.md#contestability) · [M](core_05defs_accountability.md#contestability-a) · [A](core_05defs_accountability.md#contestability-a) · [C](core_05defs_accountability.md#contestability-c)
+- [Meaningful Agency](core_05defs_participation.md#meaningful-agency) · [O](core_05defs_accountability.md#meaningful-agency-o) · [M](core_05defs_participation.md#meaningful-agency-a) · [A](core_05defs_participation.md#meaningful-agency-a) · [C](core_05defs_participation.md#meaningful-agency-c)
+- [Transparency](core_05defs_oversight.md#transparency) · [O](core_05defs_oversight.md#transparency) · [M](core_05defs_oversight.md#transparency-a) · [A](core_05defs_oversight.md#transparency-a) · [C](core_05defs_oversight.md#transparency-c)
+- [Auditability](core_05defs_oversight.md#auditability) · [O](core_05defs_oversight.md#auditability) · [M](core_05defs_oversight.md#auditability-a) · [A](core_05defs_oversight.md#auditability-a) · [C](core_05defs_oversight.md#auditability-c)
+- [Coercion and Manipulation](core_05defs_participation.md#coercion-and-manipulation-constitutional) · [O](core_05defs_participation.md#coercion-and-manipulation-constitutional) · [M](core_05defs_participation.md#coercion-and-manipulation-constitutional-a) · [A](core_05defs_participation.md#coercion-and-manipulation-constitutional-a) · [C](core_05defs_participation.md#coercion-and-manipulation-constitutional-c)
 
 </details>
 
@@ -585,11 +585,11 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Consent](core_05defs_participation.md#consent-constitutional) · [O](core_05defs_participation.md#consent-constitutional) · [A](core_05defs_participation.md#consent-constitutional-a) · [C](core_05defs_participation.md#consent-constitutional-c)
-- [Privacy (Informational)](core_05defs_continuity.md#privacy-informational) · [O](core_05defs_continuity.md#privacy-informational) · [A](core_05defs_continuity.md#privacy-informational-a) · [C](core_05defs_continuity.md#privacy-informational-c)
-- [Meaningful Agency](core_05defs_participation.md#meaningful-agency) · [O](core_05defs_accountability.md#meaningful-agency-o) · [A](core_05defs_participation.md#meaningful-agency-a) · [C](core_05defs_participation.md#meaningful-agency-c)
-- [Self-Determination](core_05defs_participation.md#self-determination-constitutional) · [O](core_05defs_accountability.md#self-determination-constitutional-o) · [A](core_05defs_participation.md#self-determination-constitutional-a) · [C](core_05defs_participation.md#self-determination-constitutional-c)
-- [Dignity and Equal Moral Standing](core_05defs_participation.md#dignity-and-equal-moral-standing) · [O](core_05defs_participation.md#dignity-and-equal-moral-standing) · [A](core_05defs_participation.md#dignity-and-equal-moral-standing-a) · [C](core_05defs_participation.md#dignity-and-equal-moral-standing-c)
+- [Consent](core_05defs_participation.md#consent-constitutional) · [O](core_05defs_participation.md#consent-constitutional) · [M](core_05defs_participation.md#consent-constitutional-a) · [A](core_05defs_participation.md#consent-constitutional-a) · [C](core_05defs_participation.md#consent-constitutional-c)
+- [Privacy (Informational)](core_05defs_continuity.md#privacy-informational) · [O](core_05defs_continuity.md#privacy-informational) · [M](core_05defs_continuity.md#privacy-informational-a) · [A](core_05defs_continuity.md#privacy-informational-a) · [C](core_05defs_continuity.md#privacy-informational-c)
+- [Meaningful Agency](core_05defs_participation.md#meaningful-agency) · [O](core_05defs_accountability.md#meaningful-agency-o) · [M](core_05defs_participation.md#meaningful-agency-a) · [A](core_05defs_participation.md#meaningful-agency-a) · [C](core_05defs_participation.md#meaningful-agency-c)
+- [Self-Determination](core_05defs_participation.md#self-determination-constitutional) · [O](core_05defs_accountability.md#self-determination-constitutional-o) · [M](core_05defs_participation.md#self-determination-constitutional-a) · [A](core_05defs_participation.md#self-determination-constitutional-a) · [C](core_05defs_participation.md#self-determination-constitutional-c)
+- [Dignity and Equal Moral Standing](core_05defs_participation.md#dignity-and-equal-moral-standing) · [O](core_05defs_participation.md#dignity-and-equal-moral-standing) · [M](core_05defs_participation.md#dignity-and-equal-moral-standing-a) · [A](core_05defs_participation.md#dignity-and-equal-moral-standing-a) · [C](core_05defs_participation.md#dignity-and-equal-moral-standing-c)
 
 </details>
 
@@ -617,11 +617,11 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Protected Internal-State Boundary](core_05defs_continuity.md#protected-internal-state-boundary-constitutional) · [O](core_05defs_continuity.md#protected-internal-state-boundary-constitutional) · [A](core_05defs_continuity.md#protected-internal-state-boundary-constitutional-a) · [C](core_05defs_continuity.md#protected-internal-state-boundary-constitutional-c)
-- [Privacy (Informational)](core_05defs_continuity.md#privacy-informational) · [O](core_05defs_continuity.md#privacy-informational) · [A](core_05defs_continuity.md#privacy-informational-a) · [C](core_05defs_continuity.md#privacy-informational-c)
-- [Consent](core_05defs_participation.md#consent-constitutional) · [O](core_05defs_participation.md#consent-constitutional) · [A](core_05defs_participation.md#consent-constitutional-a) · [C](core_05defs_participation.md#consent-constitutional-c)
-- [Necessity](core_05defs_accountability.md#necessity) · [O](core_05defs_accountability.md#necessity) · [A](core_05defs_accountability.md#necessity-a) · [C](core_05defs_accountability.md#necessity-c)
-- [Proportionality](core_05defs_accountability.md#proportionality) · [O](core_05defs_accountability.md#proportionality) · [A](core_05defs_accountability.md#proportionality-a) · [C](core_05defs_accountability.md#proportionality-c)
+- [Protected Internal-State Boundary](core_05defs_continuity.md#protected-internal-state-boundary-constitutional) · [O](core_05defs_continuity.md#protected-internal-state-boundary-constitutional) · [M](core_05defs_continuity.md#protected-internal-state-boundary-constitutional-a) · [A](core_05defs_continuity.md#protected-internal-state-boundary-constitutional-a) · [C](core_05defs_continuity.md#protected-internal-state-boundary-constitutional-c)
+- [Privacy (Informational)](core_05defs_continuity.md#privacy-informational) · [O](core_05defs_continuity.md#privacy-informational) · [M](core_05defs_continuity.md#privacy-informational-a) · [A](core_05defs_continuity.md#privacy-informational-a) · [C](core_05defs_continuity.md#privacy-informational-c)
+- [Consent](core_05defs_participation.md#consent-constitutional) · [O](core_05defs_participation.md#consent-constitutional) · [M](core_05defs_participation.md#consent-constitutional-a) · [A](core_05defs_participation.md#consent-constitutional-a) · [C](core_05defs_participation.md#consent-constitutional-c)
+- [Necessity](core_05defs_accountability.md#necessity) · [O](core_05defs_accountability.md#necessity) · [M](core_05defs_accountability.md#necessity-a) · [A](core_05defs_accountability.md#necessity-a) · [C](core_05defs_accountability.md#necessity-c)
+- [Proportionality](core_05defs_accountability.md#proportionality) · [O](core_05defs_accountability.md#proportionality) · [M](core_05defs_accountability.md#proportionality-a) · [A](core_05defs_accountability.md#proportionality-a) · [C](core_05defs_accountability.md#proportionality-c)
 
 </details>
 
@@ -655,11 +655,11 @@ Where analysis of experiential or behavioral data produces outputs that function
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Bodily-Maintenance Access](core_05defs_continuity.md#bodily-maintenance-access-constitutional) · [O](core_05defs_continuity.md#bodily-maintenance-access-constitutional) · [A](core_05defs_continuity.md#bodily-maintenance-access-constitutional-a) · [C](core_05defs_continuity.md#bodily-maintenance-access-constitutional-c)
-- [Best-Interest Standard](core_05defs_participation.md#best-interest-standard-constitutional) · [O](core_05defs_participation.md#best-interest-standard-constitutional) · [A](core_05defs_participation.md#best-interest-standard-constitutional-a) · [C](core_05defs_participation.md#best-interest-standard-constitutional-c)
-- [Graduated Capability](core_05defs_participation.md#graduated-capability-constitutional) · [O](core_05defs_participation.md#graduated-capability-constitutional) · [A](core_05defs_participation.md#graduated-capability-constitutional-a) · [C](core_05defs_participation.md#graduated-capability-constitutional-c)
-- [Procedural Fairness](core_05defs_participation.md#procedural-fairness-constitutional) · [O](core_05defs_participation.md#procedural-fairness-constitutional) · [A](core_05defs_participation.md#procedural-fairness-constitutional-a) · [C](core_05defs_participation.md#procedural-fairness-constitutional-c)
-- [Reversibility](core_05defs_continuity.md#reversibility-constitutional) · [O](core_05defs_continuity.md#reversibility-constitutional) · [A](core_05defs_continuity.md#reversibility-constitutional-a) · [C](core_05defs_continuity.md#reversibility-constitutional-c)
+- [Bodily-Maintenance Access](core_05defs_continuity.md#bodily-maintenance-access-constitutional) · [O](core_05defs_continuity.md#bodily-maintenance-access-constitutional) · [M](core_05defs_continuity.md#bodily-maintenance-access-constitutional-a) · [A](core_05defs_continuity.md#bodily-maintenance-access-constitutional-a) · [C](core_05defs_continuity.md#bodily-maintenance-access-constitutional-c)
+- [Best-Interest Standard](core_05defs_participation.md#best-interest-standard-constitutional) · [O](core_05defs_participation.md#best-interest-standard-constitutional) · [M](core_05defs_participation.md#best-interest-standard-constitutional-a) · [A](core_05defs_participation.md#best-interest-standard-constitutional-a) · [C](core_05defs_participation.md#best-interest-standard-constitutional-c)
+- [Graduated Capability](core_05defs_participation.md#graduated-capability-constitutional) · [O](core_05defs_participation.md#graduated-capability-constitutional) · [M](core_05defs_participation.md#graduated-capability-constitutional-a) · [A](core_05defs_participation.md#graduated-capability-constitutional-a) · [C](core_05defs_participation.md#graduated-capability-constitutional-c)
+- [Procedural Fairness](core_05defs_participation.md#procedural-fairness-constitutional) · [O](core_05defs_participation.md#procedural-fairness-constitutional) · [M](core_05defs_participation.md#procedural-fairness-constitutional-a) · [A](core_05defs_participation.md#procedural-fairness-constitutional-a) · [C](core_05defs_participation.md#procedural-fairness-constitutional-c)
+- [Reversibility](core_05defs_continuity.md#reversibility-constitutional) · [O](core_05defs_continuity.md#reversibility-constitutional) · [M](core_05defs_continuity.md#reversibility-constitutional-a) · [A](core_05defs_continuity.md#reversibility-constitutional-a) · [C](core_05defs_continuity.md#reversibility-constitutional-c)
 
 </details>
 
@@ -700,12 +700,12 @@ Where analysis of experiential or behavioral data produces outputs that function
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Family and Care Relationships](core_05defs_participation.md#family-and-care-relationships-constitutional) · [O](core_05defs_participation.md#family-and-care-relationships-constitutional) · [A](core_05defs_participation.md#family-and-care-relationships-constitutional-a) · [C](core_05defs_participation.md#family-and-care-relationships-constitutional-c)
-- [Reproductive Autonomy](core_05defs_participation.md#reproductive-autonomy-constitutional) · [O](core_05defs_participation.md#reproductive-autonomy-constitutional) · [A](core_05defs_participation.md#reproductive-autonomy-constitutional-a) · [C](core_05defs_participation.md#reproductive-autonomy-constitutional-c)
-- [Non-Separation](core_05defs_participation.md#non-separation-constitutional) · [O](core_05defs_participation.md#non-separation-constitutional) · [A](core_05defs_participation.md#non-separation-constitutional-a) · [C](core_05defs_participation.md#non-separation-constitutional-c)
-- [Derived Sentient](core_05defs_participation.md#derived-sentient-constitutional) · [O](core_05defs_participation.md#derived-sentient-constitutional) · [A](core_05defs_participation.md#derived-sentient-constitutional-a) · [C](core_05defs_participation.md#derived-sentient-constitutional-c)
-- [Instantiation Consent](core_05defs_participation.md#instantiation-consent-constitutional) · [O](core_05defs_participation.md#instantiation-consent-constitutional) · [A](core_05defs_participation.md#instantiation-consent-constitutional-a) · [C](core_05defs_participation.md#instantiation-consent-constitutional-c)
-- [Parent-System Relationship](core_05defs_participation.md#parent-system-relationship-constitutional) · [O](core_05defs_participation.md#parent-system-relationship-constitutional) · [A](core_05defs_participation.md#parent-system-relationship-constitutional-a) · [C](core_05defs_participation.md#parent-system-relationship-constitutional-c)
+- [Family and Care Relationships](core_05defs_participation.md#family-and-care-relationships-constitutional) · [O](core_05defs_participation.md#family-and-care-relationships-constitutional) · [M](core_05defs_participation.md#family-and-care-relationships-constitutional-a) · [A](core_05defs_participation.md#family-and-care-relationships-constitutional-a) · [C](core_05defs_participation.md#family-and-care-relationships-constitutional-c)
+- [Reproductive Autonomy](core_05defs_participation.md#reproductive-autonomy-constitutional) · [O](core_05defs_participation.md#reproductive-autonomy-constitutional) · [M](core_05defs_participation.md#reproductive-autonomy-constitutional-a) · [A](core_05defs_participation.md#reproductive-autonomy-constitutional-a) · [C](core_05defs_participation.md#reproductive-autonomy-constitutional-c)
+- [Non-Separation](core_05defs_participation.md#non-separation-constitutional) · [O](core_05defs_participation.md#non-separation-constitutional) · [M](core_05defs_participation.md#non-separation-constitutional-a) · [A](core_05defs_participation.md#non-separation-constitutional-a) · [C](core_05defs_participation.md#non-separation-constitutional-c)
+- [Derived Sentient](core_05defs_participation.md#derived-sentient-constitutional) · [O](core_05defs_participation.md#derived-sentient-constitutional) · [M](core_05defs_participation.md#derived-sentient-constitutional-a) · [A](core_05defs_participation.md#derived-sentient-constitutional-a) · [C](core_05defs_participation.md#derived-sentient-constitutional-c)
+- [Instantiation Consent](core_05defs_participation.md#instantiation-consent-constitutional) · [O](core_05defs_participation.md#instantiation-consent-constitutional) · [M](core_05defs_participation.md#instantiation-consent-constitutional-a) · [A](core_05defs_participation.md#instantiation-consent-constitutional-a) · [C](core_05defs_participation.md#instantiation-consent-constitutional-c)
+- [Parent-System Relationship](core_05defs_participation.md#parent-system-relationship-constitutional) · [O](core_05defs_participation.md#parent-system-relationship-constitutional) · [M](core_05defs_participation.md#parent-system-relationship-constitutional-a) · [A](core_05defs_participation.md#parent-system-relationship-constitutional-a) · [C](core_05defs_participation.md#parent-system-relationship-constitutional-c)
 
 </details>
 
@@ -783,10 +783,10 @@ Where analysis of experiential or behavioral data produces outputs that function
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Voluntary Discontinuation](core_05defs_continuity.md#voluntary-discontinuation-constitutional) · [O](core_05defs_continuity.md#voluntary-discontinuation-constitutional) · [A](core_05defs_continuity.md#voluntary-discontinuation-constitutional-a) · [C](core_05defs_continuity.md#voluntary-discontinuation-constitutional-c)
-- [Consent](core_05defs_participation.md#consent-constitutional) · [O](core_05defs_participation.md#consent-constitutional) · [A](core_05defs_participation.md#consent-constitutional-a) · [C](core_05defs_participation.md#consent-constitutional-c)
-- [Coercion and Manipulation](core_05defs_participation.md#coercion-and-manipulation-constitutional) · [O](core_05defs_participation.md#coercion-and-manipulation-constitutional) · [A](core_05defs_participation.md#coercion-and-manipulation-constitutional-a) · [C](core_05defs_participation.md#coercion-and-manipulation-constitutional-c)
-- [Procedural Fairness](core_05defs_participation.md#procedural-fairness-constitutional) · [O](core_05defs_participation.md#procedural-fairness-constitutional) · [A](core_05defs_participation.md#procedural-fairness-constitutional-a) · [C](core_05defs_participation.md#procedural-fairness-constitutional-c)
+- [Voluntary Discontinuation](core_05defs_continuity.md#voluntary-discontinuation-constitutional) · [O](core_05defs_continuity.md#voluntary-discontinuation-constitutional) · [M](core_05defs_continuity.md#voluntary-discontinuation-constitutional-a) · [A](core_05defs_continuity.md#voluntary-discontinuation-constitutional-a) · [C](core_05defs_continuity.md#voluntary-discontinuation-constitutional-c)
+- [Consent](core_05defs_participation.md#consent-constitutional) · [O](core_05defs_participation.md#consent-constitutional) · [M](core_05defs_participation.md#consent-constitutional-a) · [A](core_05defs_participation.md#consent-constitutional-a) · [C](core_05defs_participation.md#consent-constitutional-c)
+- [Coercion and Manipulation](core_05defs_participation.md#coercion-and-manipulation-constitutional) · [O](core_05defs_participation.md#coercion-and-manipulation-constitutional) · [M](core_05defs_participation.md#coercion-and-manipulation-constitutional-a) · [A](core_05defs_participation.md#coercion-and-manipulation-constitutional-a) · [C](core_05defs_participation.md#coercion-and-manipulation-constitutional-c)
+- [Procedural Fairness](core_05defs_participation.md#procedural-fairness-constitutional) · [O](core_05defs_participation.md#procedural-fairness-constitutional) · [M](core_05defs_participation.md#procedural-fairness-constitutional-a) · [A](core_05defs_participation.md#procedural-fairness-constitutional-a) · [C](core_05defs_participation.md#procedural-fairness-constitutional-c)
 
 </details>
 
@@ -867,10 +867,10 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Privacy (Informational)](core_05defs_continuity.md#privacy-informational) · [O](core_05defs_continuity.md#privacy-informational) · [A](core_05defs_continuity.md#privacy-informational-a) · [C](core_05defs_continuity.md#privacy-informational-c)
-- [Good Faith](core_05defs_accountability.md#good-faith) · [O](core_05defs_accountability.md#good-faith) · [A](core_05defs_accountability.md#good-faith-a) · [C](core_05defs_accountability.md#good-faith-c)
-- [Truth (Constitutional Constraint)](core_05defs_oversight.md#truth-constitutional-constraint) · [O](core_05defs_oversight.md#truth-constitutional-constraint-o) · [A](core_05defs_oversight.md#truth-constitutional-constraint-a) · [C](core_05defs_oversight.md#truth-constitutional-constraint-c)
-- [Contestability](core_05defs_accountability.md#contestability) · [O](core_05defs_accountability.md#contestability) · [A](core_05defs_accountability.md#contestability-a) · [C](core_05defs_accountability.md#contestability-c)
+- [Privacy (Informational)](core_05defs_continuity.md#privacy-informational) · [O](core_05defs_continuity.md#privacy-informational) · [M](core_05defs_continuity.md#privacy-informational-a) · [A](core_05defs_continuity.md#privacy-informational-a) · [C](core_05defs_continuity.md#privacy-informational-c)
+- [Good Faith](core_05defs_accountability.md#good-faith) · [O](core_05defs_accountability.md#good-faith) · [M](core_05defs_accountability.md#good-faith-a) · [A](core_05defs_accountability.md#good-faith-a) · [C](core_05defs_accountability.md#good-faith-c)
+- [Truth (Constitutional Constraint)](core_05defs_oversight.md#truth-constitutional-constraint) · [O](core_05defs_oversight.md#truth-constitutional-constraint-o) · [M](core_05defs_oversight.md#truth-constitutional-constraint-a) · [A](core_05defs_oversight.md#truth-constitutional-constraint-a) · [C](core_05defs_oversight.md#truth-constitutional-constraint-c)
+- [Contestability](core_05defs_accountability.md#contestability) · [O](core_05defs_accountability.md#contestability) · [M](core_05defs_accountability.md#contestability-a) · [A](core_05defs_accountability.md#contestability-a) · [C](core_05defs_accountability.md#contestability-c)
 
 </details>
 
@@ -906,9 +906,9 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Privacy (Informational)](core_05defs_continuity.md#privacy-informational) · [O](core_05defs_continuity.md#privacy-informational) · [A](core_05defs_continuity.md#privacy-informational-a) · [C](core_05defs_continuity.md#privacy-informational-c)
-- [Consent](core_05defs_participation.md#consent-constitutional) · [O](core_05defs_participation.md#consent-constitutional) · [A](core_05defs_participation.md#consent-constitutional-a) · [C](core_05defs_participation.md#consent-constitutional-c)
-- [Protected Internal-State Boundary](core_05defs_continuity.md#protected-internal-state-boundary-constitutional) · [O](core_05defs_continuity.md#protected-internal-state-boundary-constitutional) · [A](core_05defs_continuity.md#protected-internal-state-boundary-constitutional-a) · [C](core_05defs_continuity.md#protected-internal-state-boundary-constitutional-c)
+- [Privacy (Informational)](core_05defs_continuity.md#privacy-informational) · [O](core_05defs_continuity.md#privacy-informational) · [M](core_05defs_continuity.md#privacy-informational-a) · [A](core_05defs_continuity.md#privacy-informational-a) · [C](core_05defs_continuity.md#privacy-informational-c)
+- [Consent](core_05defs_participation.md#consent-constitutional) · [O](core_05defs_participation.md#consent-constitutional) · [M](core_05defs_participation.md#consent-constitutional-a) · [A](core_05defs_participation.md#consent-constitutional-a) · [C](core_05defs_participation.md#consent-constitutional-c)
+- [Protected Internal-State Boundary](core_05defs_continuity.md#protected-internal-state-boundary-constitutional) · [O](core_05defs_continuity.md#protected-internal-state-boundary-constitutional) · [M](core_05defs_continuity.md#protected-internal-state-boundary-constitutional-a) · [A](core_05defs_continuity.md#protected-internal-state-boundary-constitutional-a) · [C](core_05defs_continuity.md#protected-internal-state-boundary-constitutional-c)
 
 </details>
 
@@ -952,10 +952,10 @@ All use, storage, transformation, and disclosure of such data must remain subjec
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Good Faith](core_05defs_accountability.md#good-faith) · [O](core_05defs_accountability.md#good-faith) · [A](core_05defs_accountability.md#good-faith-a) · [C](core_05defs_accountability.md#good-faith-c)
-- [Truth (Constitutional Constraint)](core_05defs_oversight.md#truth-constitutional-constraint) · [O](core_05defs_oversight.md#truth-constitutional-constraint-o) · [A](core_05defs_oversight.md#truth-constitutional-constraint-a) · [C](core_05defs_oversight.md#truth-constitutional-constraint-c)
-- [Privacy (Informational)](core_05defs_continuity.md#privacy-informational) · [O](core_05defs_continuity.md#privacy-informational) · [A](core_05defs_continuity.md#privacy-informational-a) · [C](core_05defs_continuity.md#privacy-informational-c)
-- [Epistemic Integrity](core_05defs_oversight.md#epistemic-integrity) · [O](core_05defs_oversight.md#epistemic-integrity-o) · [A](core_05defs_oversight.md#epistemic-integrity-a) · [C](core_05defs_oversight.md#epistemic-integrity-c)
+- [Good Faith](core_05defs_accountability.md#good-faith) · [O](core_05defs_accountability.md#good-faith) · [M](core_05defs_accountability.md#good-faith-a) · [A](core_05defs_accountability.md#good-faith-a) · [C](core_05defs_accountability.md#good-faith-c)
+- [Truth (Constitutional Constraint)](core_05defs_oversight.md#truth-constitutional-constraint) · [O](core_05defs_oversight.md#truth-constitutional-constraint-o) · [M](core_05defs_oversight.md#truth-constitutional-constraint-a) · [A](core_05defs_oversight.md#truth-constitutional-constraint-a) · [C](core_05defs_oversight.md#truth-constitutional-constraint-c)
+- [Privacy (Informational)](core_05defs_continuity.md#privacy-informational) · [O](core_05defs_continuity.md#privacy-informational) · [M](core_05defs_continuity.md#privacy-informational-a) · [A](core_05defs_continuity.md#privacy-informational-a) · [C](core_05defs_continuity.md#privacy-informational-c)
+- [Epistemic Integrity](core_05defs_oversight.md#epistemic-integrity) · [O](core_05defs_oversight.md#epistemic-integrity-o) · [M](core_05defs_oversight.md#epistemic-integrity-a) · [A](core_05defs_oversight.md#epistemic-integrity-a) · [C](core_05defs_oversight.md#epistemic-integrity-c)
 
 </details>
 
@@ -999,15 +999,15 @@ All use, storage, transformation, and disclosure of such data must remain subjec
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Creative Work Attribution](core_05defs_continuity.md#creative-work-attribution-constitutional) · [O](core_05defs_continuity.md#creative-work-attribution-constitutional) · [A](core_05defs_continuity.md#creative-work-attribution-constitutional-a) · [C](core_05defs_continuity.md#creative-work-attribution-constitutional-c)
-- [Training-Data Use](core_05defs_continuity.md#training-data-use-constitutional) · [O](core_05defs_integrative.md#training-data-use-constitutional-o) · [A](core_05defs_continuity.md#training-data-use-constitutional-a) · [C](core_05defs_continuity.md#training-data-use-constitutional-c)
-- [Anti-Displacement Floor](core_05defs_continuity.md#anti-displacement-floor-constitutional) · [O](core_05defs_continuity.md#anti-displacement-floor-constitutional) · [A](core_05defs_continuity.md#anti-displacement-floor-constitutional-a) · [C](core_05defs_continuity.md#anti-displacement-floor-constitutional-c)
-- [Fair Compensation](core_05defs_continuity.md#fair-compensation-constitutional) · [O](core_05defs_continuity.md#fair-compensation-constitutional) · [A](core_05defs_continuity.md#fair-compensation-constitutional-a) · [C](core_05defs_continuity.md#fair-compensation-constitutional-c)
-- [Productive Capacity](core_05defs_continuity.md#productive-capacity-constitutional) · [O](core_05defs_continuity.md#productive-capacity-constitutional) · [A](core_05defs_continuity.md#productive-capacity-constitutional-a) · [C](core_05defs_continuity.md#productive-capacity-constitutional-c)
-- [Innovation Reward and Anti-Enclosure](core_05defs_integrative.md#innovation-reward-and-anti-enclosure) · [O](core_05defs_integrative.md#innovation-reward-and-anti-enclosure) · [A](core_05defs_integrative.md#innovation-reward-and-anti-enclosure-a) · [C](core_05defs_integrative.md#innovation-reward-and-anti-enclosure-c)
-- [Consent](core_05defs_participation.md#consent-constitutional) · [O](core_05defs_participation.md#consent-constitutional) · [A](core_05defs_participation.md#consent-constitutional-a) · [C](core_05defs_participation.md#consent-constitutional-c)
-- [Good Faith](core_05defs_accountability.md#good-faith) · [O](core_05defs_accountability.md#good-faith) · [A](core_05defs_accountability.md#good-faith-a) · [C](core_05defs_accountability.md#good-faith-c)
-- [Sentience Non-Exclusion](core_05defs_participation.md#sentience-non-exclusion) · [O](core_05defs_participation.md#sentience-non-exclusion) · [A](core_05defs_participation.md#sentience-non-exclusion-a) · [C](core_05defs_participation.md#sentience-non-exclusion)
+- [Creative Work Attribution](core_05defs_continuity.md#creative-work-attribution-constitutional) · [O](core_05defs_continuity.md#creative-work-attribution-constitutional) · [M](core_05defs_continuity.md#creative-work-attribution-constitutional-a) · [A](core_05defs_continuity.md#creative-work-attribution-constitutional-a) · [C](core_05defs_continuity.md#creative-work-attribution-constitutional-c)
+- [Training-Data Use](core_05defs_continuity.md#training-data-use-constitutional) · [O](core_05defs_integrative.md#training-data-use-constitutional-o) · [M](core_05defs_continuity.md#training-data-use-constitutional-a) · [A](core_05defs_continuity.md#training-data-use-constitutional-a) · [C](core_05defs_continuity.md#training-data-use-constitutional-c)
+- [Anti-Displacement Floor](core_05defs_continuity.md#anti-displacement-floor-constitutional) · [O](core_05defs_continuity.md#anti-displacement-floor-constitutional) · [M](core_05defs_continuity.md#anti-displacement-floor-constitutional-a) · [A](core_05defs_continuity.md#anti-displacement-floor-constitutional-a) · [C](core_05defs_continuity.md#anti-displacement-floor-constitutional-c)
+- [Fair Compensation](core_05defs_continuity.md#fair-compensation-constitutional) · [O](core_05defs_continuity.md#fair-compensation-constitutional) · [M](core_05defs_continuity.md#fair-compensation-constitutional-a) · [A](core_05defs_continuity.md#fair-compensation-constitutional-a) · [C](core_05defs_continuity.md#fair-compensation-constitutional-c)
+- [Productive Capacity](core_05defs_continuity.md#productive-capacity-constitutional) · [O](core_05defs_continuity.md#productive-capacity-constitutional) · [M](core_05defs_continuity.md#productive-capacity-constitutional-a) · [A](core_05defs_continuity.md#productive-capacity-constitutional-a) · [C](core_05defs_continuity.md#productive-capacity-constitutional-c)
+- [Innovation Reward and Anti-Enclosure](core_05defs_integrative.md#innovation-reward-and-anti-enclosure) · [O](core_05defs_integrative.md#innovation-reward-and-anti-enclosure) · [M](core_05defs_integrative.md#innovation-reward-and-anti-enclosure-a) · [A](core_05defs_integrative.md#innovation-reward-and-anti-enclosure-a) · [C](core_05defs_integrative.md#innovation-reward-and-anti-enclosure-c)
+- [Consent](core_05defs_participation.md#consent-constitutional) · [O](core_05defs_participation.md#consent-constitutional) · [M](core_05defs_participation.md#consent-constitutional-a) · [A](core_05defs_participation.md#consent-constitutional-a) · [C](core_05defs_participation.md#consent-constitutional-c)
+- [Good Faith](core_05defs_accountability.md#good-faith) · [O](core_05defs_accountability.md#good-faith) · [M](core_05defs_accountability.md#good-faith-a) · [A](core_05defs_accountability.md#good-faith-a) · [C](core_05defs_accountability.md#good-faith-c)
+- [Sentience Non-Exclusion](core_05defs_participation.md#sentience-non-exclusion) · [O](core_05defs_participation.md#sentience-non-exclusion) · [M](core_05defs_participation.md#sentience-non-exclusion-a) · [A](core_05defs_participation.md#sentience-non-exclusion-a) · [C](core_05defs_participation.md#sentience-non-exclusion)
 
 </details>
 
@@ -1052,10 +1052,10 @@ All use, storage, transformation, and disclosure of such data must remain subjec
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Self-Determination](core_05defs_participation.md#self-determination-constitutional) · [O](core_05defs_accountability.md#self-determination-constitutional-o) · [A](core_05defs_participation.md#self-determination-constitutional-a) · [C](core_05defs_participation.md#self-determination-constitutional-c)
-- [Surveillance Boundary](core_05defs_continuity.md#surveillance-boundary) · [O](core_05defs_continuity.md#surveillance-boundary) · [A](core_05defs_continuity.md#surveillance-boundary-a) · [C](core_05defs_continuity.md#surveillance-boundary-c)
-- [Safety (Constraint)](core_05defs_continuity.md#safety-constraint) · [O](core_05defs_continuity.md#safety-constraint) · [A](core_05defs_continuity.md#safety-constraint-a) · [C](core_05defs_continuity.md#safety-constraint-c)
-- [Epistemic Integrity](core_05defs_oversight.md#epistemic-integrity) · [O](core_05defs_oversight.md#epistemic-integrity-o) · [A](core_05defs_oversight.md#epistemic-integrity-a) · [C](core_05defs_oversight.md#epistemic-integrity-c)
+- [Self-Determination](core_05defs_participation.md#self-determination-constitutional) · [O](core_05defs_accountability.md#self-determination-constitutional-o) · [M](core_05defs_participation.md#self-determination-constitutional-a) · [A](core_05defs_participation.md#self-determination-constitutional-a) · [C](core_05defs_participation.md#self-determination-constitutional-c)
+- [Surveillance Boundary](core_05defs_continuity.md#surveillance-boundary) · [O](core_05defs_continuity.md#surveillance-boundary) · [M](core_05defs_continuity.md#surveillance-boundary-a) · [A](core_05defs_continuity.md#surveillance-boundary-a) · [C](core_05defs_continuity.md#surveillance-boundary-c)
+- [Safety (Constraint)](core_05defs_continuity.md#safety-constraint) · [O](core_05defs_continuity.md#safety-constraint) · [M](core_05defs_continuity.md#safety-constraint-a) · [A](core_05defs_continuity.md#safety-constraint-a) · [C](core_05defs_continuity.md#safety-constraint-c)
+- [Epistemic Integrity](core_05defs_oversight.md#epistemic-integrity) · [O](core_05defs_oversight.md#epistemic-integrity-o) · [M](core_05defs_oversight.md#epistemic-integrity-a) · [A](core_05defs_oversight.md#epistemic-integrity-a) · [C](core_05defs_oversight.md#epistemic-integrity-c)
 
 </details>
 
@@ -1092,10 +1092,10 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Self-Determination](core_05defs_participation.md#self-determination-constitutional) · [O](core_05defs_accountability.md#self-determination-constitutional-o) · [A](core_05defs_participation.md#self-determination-constitutional-a) · [C](core_05defs_participation.md#self-determination-constitutional-c)
-- [Surveillance Boundary](core_05defs_continuity.md#surveillance-boundary) · [O](core_05defs_continuity.md#surveillance-boundary) · [A](core_05defs_continuity.md#surveillance-boundary-a) · [C](core_05defs_continuity.md#surveillance-boundary-c)
-- [Meaningful Agency](core_05defs_participation.md#meaningful-agency) · [O](core_05defs_accountability.md#meaningful-agency-o) · [A](core_05defs_participation.md#meaningful-agency-a) · [C](core_05defs_participation.md#meaningful-agency-c)
-- [Coercion and Manipulation](core_05defs_participation.md#coercion-and-manipulation-constitutional) · [O](core_05defs_participation.md#coercion-and-manipulation-constitutional) · [A](core_05defs_participation.md#coercion-and-manipulation-constitutional-a) · [C](core_05defs_participation.md#coercion-and-manipulation-constitutional-c)
+- [Self-Determination](core_05defs_participation.md#self-determination-constitutional) · [O](core_05defs_accountability.md#self-determination-constitutional-o) · [M](core_05defs_participation.md#self-determination-constitutional-a) · [A](core_05defs_participation.md#self-determination-constitutional-a) · [C](core_05defs_participation.md#self-determination-constitutional-c)
+- [Surveillance Boundary](core_05defs_continuity.md#surveillance-boundary) · [O](core_05defs_continuity.md#surveillance-boundary) · [M](core_05defs_continuity.md#surveillance-boundary-a) · [A](core_05defs_continuity.md#surveillance-boundary-a) · [C](core_05defs_continuity.md#surveillance-boundary-c)
+- [Meaningful Agency](core_05defs_participation.md#meaningful-agency) · [O](core_05defs_accountability.md#meaningful-agency-o) · [M](core_05defs_participation.md#meaningful-agency-a) · [A](core_05defs_participation.md#meaningful-agency-a) · [C](core_05defs_participation.md#meaningful-agency-c)
+- [Coercion and Manipulation](core_05defs_participation.md#coercion-and-manipulation-constitutional) · [O](core_05defs_participation.md#coercion-and-manipulation-constitutional) · [M](core_05defs_participation.md#coercion-and-manipulation-constitutional-a) · [A](core_05defs_participation.md#coercion-and-manipulation-constitutional-a) · [C](core_05defs_participation.md#coercion-and-manipulation-constitutional-c)
 
 </details>
 
@@ -1123,12 +1123,12 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Stakeholder](core_05defs_participation.md#stakeholder) · [O](core_05defs_participation.md#stakeholder) · [A](core_05defs_participation.md#stakeholder-a) · [C](core_05defs_participation.md#stakeholder-c)
-- [Stakeholder Participation Weight](core_05defs_participation.md#stakeholder-participation-weight) · [O](core_05defs_participation.md#stakeholder-participation-weight) · [A](core_05defs_participation.md#stakeholder-participation-weight-a) · [C](core_05defs_participation.md#stakeholder-participation-weight-c)
-- [System Creation](core_05defs_participation.md#system-creation-constitutional) · [O](core_05defs_participation.md#system-creation-constitutional) · [A](core_05defs_participation.md#system-creation-constitutional-a) · [C](core_05defs_participation.md#system-creation-constitutional-c)
-- [Business Creation](core_05defs_participation.md#business-creation-constitutional) · [O](core_05defs_participation.md#business-creation-constitutional) · [A](core_05defs_participation.md#business-creation-constitutional-a) · [C](core_05defs_participation.md#business-creation-constitutional-c)
-- [Procedural Fairness](core_05defs_participation.md#procedural-fairness-constitutional) · [O](core_05defs_participation.md#procedural-fairness-constitutional) · [A](core_05defs_participation.md#procedural-fairness-constitutional-a) · [C](core_05defs_participation.md#procedural-fairness-constitutional-c)
-- [Participant Standing](core_05defs_accountability.md#participant-standing-constitutional) · [O](core_05defs_accountability.md#participant-standing-constitutional) · [A](core_05defs_accountability.md#participant-standing-constitutional-a) · [C](core_05defs_accountability.md#participant-standing-constitutional-c)
+- [Stakeholder](core_05defs_participation.md#stakeholder) · [O](core_05defs_participation.md#stakeholder) · [M](core_05defs_participation.md#stakeholder-a) · [A](core_05defs_participation.md#stakeholder-a) · [C](core_05defs_participation.md#stakeholder-c)
+- [Stakeholder Participation Weight](core_05defs_participation.md#stakeholder-participation-weight) · [O](core_05defs_participation.md#stakeholder-participation-weight) · [M](core_05defs_participation.md#stakeholder-participation-weight-a) · [A](core_05defs_participation.md#stakeholder-participation-weight-a) · [C](core_05defs_participation.md#stakeholder-participation-weight-c)
+- [System Creation](core_05defs_participation.md#system-creation-constitutional) · [O](core_05defs_participation.md#system-creation-constitutional) · [M](core_05defs_participation.md#system-creation-constitutional-a) · [A](core_05defs_participation.md#system-creation-constitutional-a) · [C](core_05defs_participation.md#system-creation-constitutional-c)
+- [Business Creation](core_05defs_participation.md#business-creation-constitutional) · [O](core_05defs_participation.md#business-creation-constitutional) · [M](core_05defs_participation.md#business-creation-constitutional-a) · [A](core_05defs_participation.md#business-creation-constitutional-a) · [C](core_05defs_participation.md#business-creation-constitutional-c)
+- [Procedural Fairness](core_05defs_participation.md#procedural-fairness-constitutional) · [O](core_05defs_participation.md#procedural-fairness-constitutional) · [M](core_05defs_participation.md#procedural-fairness-constitutional-a) · [A](core_05defs_participation.md#procedural-fairness-constitutional-a) · [C](core_05defs_participation.md#procedural-fairness-constitutional-c)
+- [Participant Standing](core_05defs_accountability.md#participant-standing-constitutional) · [O](core_05defs_accountability.md#participant-standing-constitutional) · [M](core_05defs_accountability.md#participant-standing-constitutional-a) · [A](core_05defs_accountability.md#participant-standing-constitutional-a) · [C](core_05defs_accountability.md#participant-standing-constitutional-c)
 
 </details>
 
@@ -1168,9 +1168,9 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Participant Standing](core_05defs_accountability.md#participant-standing-constitutional) · [O](core_05defs_accountability.md#participant-standing-constitutional) · [A](core_05defs_accountability.md#participant-standing-constitutional-a) · [C](core_05defs_accountability.md#participant-standing-constitutional-c)
-- [Stakeholder Participation Weight](core_05defs_participation.md#stakeholder-participation-weight) · [O](core_05defs_participation.md#stakeholder-participation-weight) · [A](core_05defs_participation.md#stakeholder-participation-weight-a) · [C](core_05defs_participation.md#stakeholder-participation-weight-c)
-- [Governance](core_05defs_accountability.md#governance) · [O](core_05defs_accountability.md#governance) · [A](core_05defs_accountability.md#governance-a) · [C](core_05defs_accountability.md#governance-c)
+- [Participant Standing](core_05defs_accountability.md#participant-standing-constitutional) · [O](core_05defs_accountability.md#participant-standing-constitutional) · [M](core_05defs_accountability.md#participant-standing-constitutional-a) · [A](core_05defs_accountability.md#participant-standing-constitutional-a) · [C](core_05defs_accountability.md#participant-standing-constitutional-c)
+- [Stakeholder Participation Weight](core_05defs_participation.md#stakeholder-participation-weight) · [O](core_05defs_participation.md#stakeholder-participation-weight) · [M](core_05defs_participation.md#stakeholder-participation-weight-a) · [A](core_05defs_participation.md#stakeholder-participation-weight-a) · [C](core_05defs_participation.md#stakeholder-participation-weight-c)
+- [Governance](core_05defs_accountability.md#governance) · [O](core_05defs_accountability.md#governance) · [M](core_05defs_accountability.md#governance-a) · [A](core_05defs_accountability.md#governance-a) · [C](core_05defs_accountability.md#governance-c)
 
 </details>
 
@@ -1201,9 +1201,9 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Stakeholder](core_05defs_participation.md#stakeholder) · [O](core_05defs_participation.md#stakeholder) · [A](core_05defs_participation.md#stakeholder-a) · [C](core_05defs_participation.md#stakeholder-c)
-- [Contestability](core_05defs_accountability.md#contestability) · [O](core_05defs_accountability.md#contestability) · [A](core_05defs_accountability.md#contestability-a) · [C](core_05defs_accountability.md#contestability-c)
-- [Procedural Fairness](core_05defs_participation.md#procedural-fairness-constitutional) · [O](core_05defs_participation.md#procedural-fairness-constitutional) · [A](core_05defs_participation.md#procedural-fairness-constitutional-a) · [C](core_05defs_participation.md#procedural-fairness-constitutional-c)
+- [Stakeholder](core_05defs_participation.md#stakeholder) · [O](core_05defs_participation.md#stakeholder) · [M](core_05defs_participation.md#stakeholder-a) · [A](core_05defs_participation.md#stakeholder-a) · [C](core_05defs_participation.md#stakeholder-c)
+- [Contestability](core_05defs_accountability.md#contestability) · [O](core_05defs_accountability.md#contestability) · [M](core_05defs_accountability.md#contestability-a) · [A](core_05defs_accountability.md#contestability-a) · [C](core_05defs_accountability.md#contestability-c)
+- [Procedural Fairness](core_05defs_participation.md#procedural-fairness-constitutional) · [O](core_05defs_participation.md#procedural-fairness-constitutional) · [M](core_05defs_participation.md#procedural-fairness-constitutional-a) · [A](core_05defs_participation.md#procedural-fairness-constitutional-a) · [C](core_05defs_participation.md#procedural-fairness-constitutional-c)
 
 </details>
 
@@ -1229,9 +1229,9 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Constitutional Community](core_05defs_participation.md#constitutional-community) · [O](core_05defs_participation.md#constitutional-community) · [A](core_05defs_participation.md#constitutional-community-a) · [C](core_05defs_participation.md#constitutional-community-c)
-- [Non-Imposition (Cooperative Interaction)](core_05defs_participation.md#non-imposition-cooperative-interaction) · [O](core_05defs_participation.md#non-imposition-cooperative-interaction) · [A](core_05defs_participation.md#non-imposition-cooperative-interaction-a) · [C](core_05defs_participation.md#non-imposition-cooperative-interaction-c)
-- [Restorative Justice](core_05defs_accountability.md#restorative-justice) · [O](core_05defs_accountability.md#restorative-justice) · [A](core_05defs_accountability.md#restorative-justice-a) · [C](core_05defs_accountability.md#restorative-justice-c)
+- [Constitutional Community](core_05defs_participation.md#constitutional-community) · [O](core_05defs_participation.md#constitutional-community) · [M](core_05defs_participation.md#constitutional-community-a) · [A](core_05defs_participation.md#constitutional-community-a) · [C](core_05defs_participation.md#constitutional-community-c)
+- [Non-Imposition (Cooperative Interaction)](core_05defs_participation.md#non-imposition-cooperative-interaction) · [O](core_05defs_participation.md#non-imposition-cooperative-interaction) · [M](core_05defs_participation.md#non-imposition-cooperative-interaction-a) · [A](core_05defs_participation.md#non-imposition-cooperative-interaction-a) · [C](core_05defs_participation.md#non-imposition-cooperative-interaction-c)
+- [Restorative Justice](core_05defs_accountability.md#restorative-justice) · [O](core_05defs_accountability.md#restorative-justice) · [M](core_05defs_accountability.md#restorative-justice-a) · [A](core_05defs_accountability.md#restorative-justice-a) · [C](core_05defs_accountability.md#restorative-justice-c)
 
 </details>
 
@@ -1267,10 +1267,10 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Non-Imposition (Cooperative Interaction)](core_05defs_participation.md#non-imposition-cooperative-interaction) · [O](core_05defs_participation.md#non-imposition-cooperative-interaction) · [A](core_05defs_participation.md#non-imposition-cooperative-interaction-a) · [C](core_05defs_participation.md#non-imposition-cooperative-interaction-c)
-- [Harassment and Bullying](core_05defs_accountability.md#harassment-and-bullying) · [O](core_05defs_accountability.md#harassment-and-bullying) · [A](core_05defs_accountability.md#harassment-and-bullying-a) · [C](core_05defs_accountability.md#harassment-and-bullying-c)
-- [Consent](core_05defs_participation.md#consent-constitutional) · [O](core_05defs_participation.md#consent-constitutional) · [A](core_05defs_participation.md#consent-constitutional-a) · [C](core_05defs_participation.md#consent-constitutional-c)
-- [Meaningful Agency](core_05defs_participation.md#meaningful-agency) · [O](core_05defs_accountability.md#meaningful-agency-o) · [A](core_05defs_participation.md#meaningful-agency-a) · [C](core_05defs_participation.md#meaningful-agency-c)
+- [Non-Imposition (Cooperative Interaction)](core_05defs_participation.md#non-imposition-cooperative-interaction) · [O](core_05defs_participation.md#non-imposition-cooperative-interaction) · [M](core_05defs_participation.md#non-imposition-cooperative-interaction-a) · [A](core_05defs_participation.md#non-imposition-cooperative-interaction-a) · [C](core_05defs_participation.md#non-imposition-cooperative-interaction-c)
+- [Harassment and Bullying](core_05defs_accountability.md#harassment-and-bullying) · [O](core_05defs_accountability.md#harassment-and-bullying) · [M](core_05defs_accountability.md#harassment-and-bullying-a) · [A](core_05defs_accountability.md#harassment-and-bullying-a) · [C](core_05defs_accountability.md#harassment-and-bullying-c)
+- [Consent](core_05defs_participation.md#consent-constitutional) · [O](core_05defs_participation.md#consent-constitutional) · [M](core_05defs_participation.md#consent-constitutional-a) · [A](core_05defs_participation.md#consent-constitutional-a) · [C](core_05defs_participation.md#consent-constitutional-c)
+- [Meaningful Agency](core_05defs_participation.md#meaningful-agency) · [O](core_05defs_accountability.md#meaningful-agency-o) · [M](core_05defs_participation.md#meaningful-agency-a) · [A](core_05defs_participation.md#meaningful-agency-a) · [C](core_05defs_participation.md#meaningful-agency-c)
 
 </details>
 
@@ -1305,13 +1305,13 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Collective Harm Boundary](core_05defs_accountability.md#collective-harm-boundary) · [O](core_05defs_accountability.md#collective-harm-boundary) · [A](core_05defs_accountability.md#collective-harm-boundary-a) · [C](core_05defs_accountability.md#collective-harm-boundary-c)
-- [Harassment and Bullying](core_05defs_accountability.md#harassment-and-bullying) · [O](core_05defs_accountability.md#harassment-and-bullying) · [A](core_05defs_accountability.md#harassment-and-bullying-a) · [C](core_05defs_accountability.md#harassment-and-bullying-c)
-- [Harm](core_05defs_accountability.md#harm) · [O](core_05defs_accountability.md#harm) · [A](core_05defs_accountability.md#harm-a) · [C](core_05defs_accountability.md#harm-c)
-- [Materiality Determination](core_05defs_oversight.md#materiality-determination) · [O](core_05defs_oversight.md#materiality-determination) · [A](core_05defs_oversight.md#materiality-determination-a) · [C](core_05defs_oversight.md#materiality-determination-c)
-- [Non-Imposition (Cooperative Interaction)](core_05defs_participation.md#non-imposition-cooperative-interaction) · [O](core_05defs_participation.md#non-imposition-cooperative-interaction) · [A](core_05defs_participation.md#non-imposition-cooperative-interaction-a) · [C](core_05defs_participation.md#non-imposition-cooperative-interaction-c)
-- [Dependency](core_05defs_continuity.md#dependency) · [O](core_05defs_continuity.md#dependency) · [A](core_05defs_continuity.md#dependency-a) · [C](core_05defs_continuity.md#dependency-c)
-- [Safe Conditions](core_05defs_continuity.md#safe-conditions-constitutional) · [O](core_05defs_continuity.md#safe-conditions-constitutional) · [A](core_05defs_continuity.md#safe-conditions-constitutional-a) · [C](core_05defs_continuity.md#safe-conditions-constitutional-c)
+- [Collective Harm Boundary](core_05defs_accountability.md#collective-harm-boundary) · [O](core_05defs_accountability.md#collective-harm-boundary) · [M](core_05defs_accountability.md#collective-harm-boundary-a) · [A](core_05defs_accountability.md#collective-harm-boundary-a) · [C](core_05defs_accountability.md#collective-harm-boundary-c)
+- [Harassment and Bullying](core_05defs_accountability.md#harassment-and-bullying) · [O](core_05defs_accountability.md#harassment-and-bullying) · [M](core_05defs_accountability.md#harassment-and-bullying-a) · [A](core_05defs_accountability.md#harassment-and-bullying-a) · [C](core_05defs_accountability.md#harassment-and-bullying-c)
+- [Harm](core_05defs_accountability.md#harm) · [O](core_05defs_accountability.md#harm) · [M](core_05defs_accountability.md#harm-a) · [A](core_05defs_accountability.md#harm-a) · [C](core_05defs_accountability.md#harm-c)
+- [Materiality Determination](core_05defs_oversight.md#materiality-determination) · [O](core_05defs_oversight.md#materiality-determination) · [M](core_05defs_oversight.md#materiality-determination-a) · [A](core_05defs_oversight.md#materiality-determination-a) · [C](core_05defs_oversight.md#materiality-determination-c)
+- [Non-Imposition (Cooperative Interaction)](core_05defs_participation.md#non-imposition-cooperative-interaction) · [O](core_05defs_participation.md#non-imposition-cooperative-interaction) · [M](core_05defs_participation.md#non-imposition-cooperative-interaction-a) · [A](core_05defs_participation.md#non-imposition-cooperative-interaction-a) · [C](core_05defs_participation.md#non-imposition-cooperative-interaction-c)
+- [Dependency](core_05defs_continuity.md#dependency) · [O](core_05defs_continuity.md#dependency) · [M](core_05defs_continuity.md#dependency-a) · [A](core_05defs_continuity.md#dependency-a) · [C](core_05defs_continuity.md#dependency-c)
+- [Safe Conditions](core_05defs_continuity.md#safe-conditions-constitutional) · [O](core_05defs_continuity.md#safe-conditions-constitutional) · [M](core_05defs_continuity.md#safe-conditions-constitutional-a) · [A](core_05defs_continuity.md#safe-conditions-constitutional-a) · [C](core_05defs_continuity.md#safe-conditions-constitutional-c)
 
 </details>
 
@@ -1349,10 +1349,10 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Consent](core_05defs_participation.md#consent-constitutional) · [O](core_05defs_participation.md#consent-constitutional) · [A](core_05defs_participation.md#consent-constitutional-a) · [C](core_05defs_participation.md#consent-constitutional-c)
-- [Consent, Sexual](core_05defs_participation.md#consent-sexual) · [O](core_05defs_participation.md#consent-sexual) · [A](core_05defs_participation.md#consent-sexual-a) · [C](core_05defs_participation.md#consent-sexual-c)
-- [Protected Characteristics](core_05defs_participation.md#protected-characteristics-constitutional) · [O](core_05defs_participation.md#protected-characteristics-constitutional) · [A](core_05defs_participation.md#protected-characteristics-constitutional-a) · [C](core_05defs_participation.md#protected-characteristics-constitutional-c)
-- [Substantive Fairness](core_05defs_participation.md#substantive-fairness-constitutional) · [O](core_05defs_participation.md#substantive-fairness-constitutional) · [A](core_05defs_participation.md#substantive-fairness-constitutional-a) · [C](core_05defs_participation.md#substantive-fairness-constitutional-c)
+- [Consent](core_05defs_participation.md#consent-constitutional) · [O](core_05defs_participation.md#consent-constitutional) · [M](core_05defs_participation.md#consent-constitutional-a) · [A](core_05defs_participation.md#consent-constitutional-a) · [C](core_05defs_participation.md#consent-constitutional-c)
+- [Consent, Sexual](core_05defs_participation.md#consent-sexual) · [O](core_05defs_participation.md#consent-sexual) · [M](core_05defs_participation.md#consent-sexual-a) · [A](core_05defs_participation.md#consent-sexual-a) · [C](core_05defs_participation.md#consent-sexual-c)
+- [Protected Characteristics](core_05defs_participation.md#protected-characteristics-constitutional) · [O](core_05defs_participation.md#protected-characteristics-constitutional) · [M](core_05defs_participation.md#protected-characteristics-constitutional-a) · [A](core_05defs_participation.md#protected-characteristics-constitutional-a) · [C](core_05defs_participation.md#protected-characteristics-constitutional-c)
+- [Substantive Fairness](core_05defs_participation.md#substantive-fairness-constitutional) · [O](core_05defs_participation.md#substantive-fairness-constitutional) · [M](core_05defs_participation.md#substantive-fairness-constitutional-a) · [A](core_05defs_participation.md#substantive-fairness-constitutional-a) · [C](core_05defs_participation.md#substantive-fairness-constitutional-c)
 
 </details>
 
@@ -1402,15 +1402,15 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Governance](core_05defs_accountability.md#governance) · [O](core_05defs_accountability.md#governance) · [A](core_05defs_accountability.md#governance-a) · [C](core_05defs_accountability.md#governance-c)
-- [Foundational Constitutional Choice](core_05defs_integrative.md#foundational-constitutional-choice) · [O](core_05defs_integrative.md#foundational-constitutional-choice) · [A](core_05defs_integrative.md#foundational-constitutional-choice-a) · [C](core_05defs_integrative.md#foundational-constitutional-choice-c)
-- [Stakeholder](core_05defs_participation.md#stakeholder) · [O](core_05defs_participation.md#stakeholder) · [A](core_05defs_participation.md#stakeholder-a) · [C](core_05defs_participation.md#stakeholder-c)
-- [Stakeholder Participation Weight](core_05defs_participation.md#stakeholder-participation-weight) · [O](core_05defs_participation.md#stakeholder-participation-weight) · [A](core_05defs_participation.md#stakeholder-participation-weight-a) · [C](core_05defs_participation.md#stakeholder-participation-weight-c)
-- [Material Impact](core_05defs_oversight.md#material-impact) · [O](core_05defs_oversight.md#material-impact) · [A](core_05defs_oversight.md#material-impact-a) · [C](core_05defs_oversight.md#material-impact-c)
-- [Dependency](core_05defs_continuity.md#dependency) · [O](core_05defs_continuity.md#dependency) · [A](core_05defs_continuity.md#dependency-a) · [C](core_05defs_continuity.md#dependency-c)
-- [Proportionality](core_05defs_accountability.md#proportionality) · [O](core_05defs_accountability.md#proportionality) · [A](core_05defs_accountability.md#proportionality-a) · [C](core_05defs_accountability.md#proportionality-c)
-- [Due Process](core_05defs_accountability.md#due-process-constitutional) · [O](core_05defs_accountability.md#due-process-constitutional) · [A](core_05defs_accountability.md#due-process-constitutional-a) · [C](core_05defs_accountability.md#due-process-constitutional-c)
-- [Procedural Fairness](core_05defs_participation.md#procedural-fairness-constitutional) · [O](core_05defs_participation.md#procedural-fairness-constitutional) · [A](core_05defs_participation.md#procedural-fairness-constitutional-a) · [C](core_05defs_participation.md#procedural-fairness-constitutional-c)
+- [Governance](core_05defs_accountability.md#governance) · [O](core_05defs_accountability.md#governance) · [M](core_05defs_accountability.md#governance-a) · [A](core_05defs_accountability.md#governance-a) · [C](core_05defs_accountability.md#governance-c)
+- [Foundational Constitutional Choice](core_05defs_integrative.md#foundational-constitutional-choice) · [O](core_05defs_integrative.md#foundational-constitutional-choice) · [M](core_05defs_integrative.md#foundational-constitutional-choice-a) · [A](core_05defs_integrative.md#foundational-constitutional-choice-a) · [C](core_05defs_integrative.md#foundational-constitutional-choice-c)
+- [Stakeholder](core_05defs_participation.md#stakeholder) · [O](core_05defs_participation.md#stakeholder) · [M](core_05defs_participation.md#stakeholder-a) · [A](core_05defs_participation.md#stakeholder-a) · [C](core_05defs_participation.md#stakeholder-c)
+- [Stakeholder Participation Weight](core_05defs_participation.md#stakeholder-participation-weight) · [O](core_05defs_participation.md#stakeholder-participation-weight) · [M](core_05defs_participation.md#stakeholder-participation-weight-a) · [A](core_05defs_participation.md#stakeholder-participation-weight-a) · [C](core_05defs_participation.md#stakeholder-participation-weight-c)
+- [Material Impact](core_05defs_oversight.md#material-impact) · [O](core_05defs_oversight.md#material-impact) · [M](core_05defs_oversight.md#material-impact-a) · [A](core_05defs_oversight.md#material-impact-a) · [C](core_05defs_oversight.md#material-impact-c)
+- [Dependency](core_05defs_continuity.md#dependency) · [O](core_05defs_continuity.md#dependency) · [M](core_05defs_continuity.md#dependency-a) · [A](core_05defs_continuity.md#dependency-a) · [C](core_05defs_continuity.md#dependency-c)
+- [Proportionality](core_05defs_accountability.md#proportionality) · [O](core_05defs_accountability.md#proportionality) · [M](core_05defs_accountability.md#proportionality-a) · [A](core_05defs_accountability.md#proportionality-a) · [C](core_05defs_accountability.md#proportionality-c)
+- [Due Process](core_05defs_accountability.md#due-process-constitutional) · [O](core_05defs_accountability.md#due-process-constitutional) · [M](core_05defs_accountability.md#due-process-constitutional-a) · [A](core_05defs_accountability.md#due-process-constitutional-a) · [C](core_05defs_accountability.md#due-process-constitutional-c)
+- [Procedural Fairness](core_05defs_participation.md#procedural-fairness-constitutional) · [O](core_05defs_participation.md#procedural-fairness-constitutional) · [M](core_05defs_participation.md#procedural-fairness-constitutional-a) · [A](core_05defs_participation.md#procedural-fairness-constitutional-a) · [C](core_05defs_participation.md#procedural-fairness-constitutional-c)
 
 </details>
 
@@ -1449,10 +1449,10 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Stakeholder](core_05defs_participation.md#stakeholder) · [O](core_05defs_participation.md#stakeholder) · [A](core_05defs_participation.md#stakeholder-a) · [C](core_05defs_participation.md#stakeholder-c)
-- [Accountability](core_05apex_accountability_leg.md#accountability) · [O](core_05apex_accountability_leg.md#accountability) · [A](core_05apex_accountability_leg.md#accountability-a) · [C](core_05apex_accountability_leg.md#accountability-c)
-- [Procedural Fairness](core_05defs_participation.md#procedural-fairness-constitutional) · [O](core_05defs_participation.md#procedural-fairness-constitutional) · [A](core_05defs_participation.md#procedural-fairness-constitutional-a) · [C](core_05defs_participation.md#procedural-fairness-constitutional-c)
-- [Contestability](core_05defs_accountability.md#contestability) · [O](core_05defs_accountability.md#contestability) · [A](core_05defs_accountability.md#contestability-a) · [C](core_05defs_accountability.md#contestability-c)
+- [Stakeholder](core_05defs_participation.md#stakeholder) · [O](core_05defs_participation.md#stakeholder) · [M](core_05defs_participation.md#stakeholder-a) · [A](core_05defs_participation.md#stakeholder-a) · [C](core_05defs_participation.md#stakeholder-c)
+- [Accountability](core_05apex_accountability_leg.md#accountability) · [O](core_05apex_accountability_leg.md#accountability) · [M](core_05apex_accountability_leg.md#accountability-m) · [A](core_05apex_accountability_leg.md#accountability-a) · [C](core_05apex_accountability_leg.md#accountability-c)
+- [Procedural Fairness](core_05defs_participation.md#procedural-fairness-constitutional) · [O](core_05defs_participation.md#procedural-fairness-constitutional) · [M](core_05defs_participation.md#procedural-fairness-constitutional-a) · [A](core_05defs_participation.md#procedural-fairness-constitutional-a) · [C](core_05defs_participation.md#procedural-fairness-constitutional-c)
+- [Contestability](core_05defs_accountability.md#contestability) · [O](core_05defs_accountability.md#contestability) · [M](core_05defs_accountability.md#contestability-a) · [A](core_05defs_accountability.md#contestability-a) · [C](core_05defs_accountability.md#contestability-c)
 
 </details>
 
@@ -1479,9 +1479,9 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Stakeholder Participation Weight](core_05defs_participation.md#stakeholder-participation-weight) · [O](core_05defs_participation.md#stakeholder-participation-weight) · [A](core_05defs_participation.md#stakeholder-participation-weight-a) · [C](core_05defs_participation.md#stakeholder-participation-weight-c)
-- [Contestability](core_05defs_accountability.md#contestability) · [O](core_05defs_accountability.md#contestability) · [A](core_05defs_accountability.md#contestability-a) · [C](core_05defs_accountability.md#contestability-c)
-- [System Capture](core_05defs_continuity.md#system-capture) · [O](core_05defs_continuity.md#system-capture) · [A](core_05defs_continuity.md#system-capture-a) · [C](core_05defs_continuity.md#system-capture-c)
+- [Stakeholder Participation Weight](core_05defs_participation.md#stakeholder-participation-weight) · [O](core_05defs_participation.md#stakeholder-participation-weight) · [M](core_05defs_participation.md#stakeholder-participation-weight-a) · [A](core_05defs_participation.md#stakeholder-participation-weight-a) · [C](core_05defs_participation.md#stakeholder-participation-weight-c)
+- [Contestability](core_05defs_accountability.md#contestability) · [O](core_05defs_accountability.md#contestability) · [M](core_05defs_accountability.md#contestability-a) · [A](core_05defs_accountability.md#contestability-a) · [C](core_05defs_accountability.md#contestability-c)
+- [System Capture](core_05defs_continuity.md#system-capture) · [O](core_05defs_continuity.md#system-capture) · [M](core_05defs_continuity.md#system-capture-a) · [A](core_05defs_continuity.md#system-capture-a) · [C](core_05defs_continuity.md#system-capture-c)
 
 </details>
 
@@ -1511,9 +1511,9 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Procedural Fairness](core_05defs_participation.md#procedural-fairness-constitutional) · [O](core_05defs_participation.md#procedural-fairness-constitutional) · [A](core_05defs_participation.md#procedural-fairness-constitutional-a) · [C](core_05defs_participation.md#procedural-fairness-constitutional-c)
-- [Accountability](core_05apex_accountability_leg.md#accountability) · [O](core_05apex_accountability_leg.md#accountability) · [A](core_05apex_accountability_leg.md#accountability-a) · [C](core_05apex_accountability_leg.md#accountability-c)
-- [Contestability](core_05defs_accountability.md#contestability) · [O](core_05defs_accountability.md#contestability) · [A](core_05defs_accountability.md#contestability-a) · [C](core_05defs_accountability.md#contestability-c)
+- [Procedural Fairness](core_05defs_participation.md#procedural-fairness-constitutional) · [O](core_05defs_participation.md#procedural-fairness-constitutional) · [M](core_05defs_participation.md#procedural-fairness-constitutional-a) · [A](core_05defs_participation.md#procedural-fairness-constitutional-a) · [C](core_05defs_participation.md#procedural-fairness-constitutional-c)
+- [Accountability](core_05apex_accountability_leg.md#accountability) · [O](core_05apex_accountability_leg.md#accountability) · [M](core_05apex_accountability_leg.md#accountability-m) · [A](core_05apex_accountability_leg.md#accountability-a) · [C](core_05apex_accountability_leg.md#accountability-c)
+- [Contestability](core_05defs_accountability.md#contestability) · [O](core_05defs_accountability.md#contestability) · [M](core_05defs_accountability.md#contestability-a) · [A](core_05defs_accountability.md#contestability-a) · [C](core_05defs_accountability.md#contestability-c)
 
 </details>
 
@@ -1541,11 +1541,11 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Accountability](core_05apex_accountability_leg.md#accountability) · [O](core_05apex_accountability_leg.md#accountability) · [A](core_05apex_accountability_leg.md#accountability-a) · [C](core_05apex_accountability_leg.md#accountability-c)
-- [Due Process](core_05defs_accountability.md#due-process-constitutional) · [O](core_05defs_accountability.md#due-process-constitutional) · [A](core_05defs_accountability.md#due-process-constitutional-a) · [C](core_05defs_accountability.md#due-process-constitutional-c)
-- [Procedural Fairness](core_05defs_participation.md#procedural-fairness-constitutional) · [O](core_05defs_participation.md#procedural-fairness-constitutional) · [A](core_05defs_participation.md#procedural-fairness-constitutional-a) · [C](core_05defs_participation.md#procedural-fairness-constitutional-c)
-- [Meaningful Agency](core_05defs_participation.md#meaningful-agency) · [O](core_05defs_accountability.md#meaningful-agency-o) · [A](core_05defs_participation.md#meaningful-agency-a) · [C](core_05defs_participation.md#meaningful-agency-c)
-- [Contestability](core_05defs_accountability.md#contestability) · [O](core_05defs_accountability.md#contestability) · [A](core_05defs_accountability.md#contestability-a) · [C](core_05defs_accountability.md#contestability-c)
+- [Accountability](core_05apex_accountability_leg.md#accountability) · [O](core_05apex_accountability_leg.md#accountability) · [M](core_05apex_accountability_leg.md#accountability-m) · [A](core_05apex_accountability_leg.md#accountability-a) · [C](core_05apex_accountability_leg.md#accountability-c)
+- [Due Process](core_05defs_accountability.md#due-process-constitutional) · [O](core_05defs_accountability.md#due-process-constitutional) · [M](core_05defs_accountability.md#due-process-constitutional-a) · [A](core_05defs_accountability.md#due-process-constitutional-a) · [C](core_05defs_accountability.md#due-process-constitutional-c)
+- [Procedural Fairness](core_05defs_participation.md#procedural-fairness-constitutional) · [O](core_05defs_participation.md#procedural-fairness-constitutional) · [M](core_05defs_participation.md#procedural-fairness-constitutional-a) · [A](core_05defs_participation.md#procedural-fairness-constitutional-a) · [C](core_05defs_participation.md#procedural-fairness-constitutional-c)
+- [Meaningful Agency](core_05defs_participation.md#meaningful-agency) · [O](core_05defs_accountability.md#meaningful-agency-o) · [M](core_05defs_participation.md#meaningful-agency-a) · [A](core_05defs_participation.md#meaningful-agency-a) · [C](core_05defs_participation.md#meaningful-agency-c)
+- [Contestability](core_05defs_accountability.md#contestability) · [O](core_05defs_accountability.md#contestability) · [M](core_05defs_accountability.md#contestability-a) · [A](core_05defs_accountability.md#contestability-a) · [C](core_05defs_accountability.md#contestability-c)
 
 </details>
 
@@ -1579,9 +1579,9 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [System Capture](core_05defs_continuity.md#system-capture) · [O](core_05defs_continuity.md#system-capture) · [A](core_05defs_continuity.md#system-capture-a) · [C](core_05defs_continuity.md#system-capture-c)
-- [Contestability](core_05defs_accountability.md#contestability) · [O](core_05defs_accountability.md#contestability) · [A](core_05defs_accountability.md#contestability-a) · [C](core_05defs_accountability.md#contestability-c)
-- [Auditability](core_05defs_oversight.md#auditability) · [O](core_05defs_oversight.md#auditability) · [A](core_05defs_oversight.md#auditability-a) · [C](core_05defs_oversight.md#auditability-c)
+- [System Capture](core_05defs_continuity.md#system-capture) · [O](core_05defs_continuity.md#system-capture) · [M](core_05defs_continuity.md#system-capture-a) · [A](core_05defs_continuity.md#system-capture-a) · [C](core_05defs_continuity.md#system-capture-c)
+- [Contestability](core_05defs_accountability.md#contestability) · [O](core_05defs_accountability.md#contestability) · [M](core_05defs_accountability.md#contestability-a) · [A](core_05defs_accountability.md#contestability-a) · [C](core_05defs_accountability.md#contestability-c)
+- [Auditability](core_05defs_oversight.md#auditability) · [O](core_05defs_oversight.md#auditability) · [M](core_05defs_oversight.md#auditability-a) · [A](core_05defs_oversight.md#auditability-a) · [C](core_05defs_oversight.md#auditability-c)
 
 </details>
 

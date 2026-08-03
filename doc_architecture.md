@@ -191,7 +191,8 @@ Collapsed **Definitions · Assessment · Compliance** widget (same blue `<detail
 **Inside the widget**
 
 - **Row shape (enforced by `make ch5-dac-widget-audit`):** each row is  
-  `- [Name](core_05…#slug) · [O](…) · [E](…) · [C](…)`.
+  `- [Name](core_05…#slug) · [O](…) · [M](…) · [A](…) · [C](…)`.
+  Measurement (M) targets `#{slug}-m` when that anchor exists (aim and Tetrad-leg apex heads); otherwise M shares the assessment-region target `#{slug}-a` with A (leaf guidepost form interweaves M with A under **How to measure and assess**).
 - **Annotation prose (optional, non-row):** italic-label lines such as `*Scope.*`, `*Definition home.*`, or `*Cluster-head home.*` may appear as plain paragraphs inside the widget before the row list. They are **not** list bullets and must not mimic row shape.
 - **Chapter One row order:** functional reasoning order, not alphabetical — config in [tools/architecture/ch1_dac_order.json](tools/architecture/ch1_dac_order.json); `make ch1-dac-order-audit`.
 

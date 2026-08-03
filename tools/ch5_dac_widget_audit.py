@@ -33,12 +33,12 @@ audits. It enforces two invariants:
    the four Chapter Eleven parts), every line inside a D/A/C widget that appears
    to be a widget row must match the canonical shape:
 
-       - [Name](core_05defs_accountability.md#slug) · [O](...) · [E](...) · [C](...)
+       - [Name](core_05defs_accountability.md#slug) · [O](...) · [M](...) · [A](...) · [C](...)
 
    and every anchor in that row must resolve to a live Chapter Five anchor.
    The single-concept inline form is also recognized:
 
-       <strong><span style="color: #2563eb;">Definition:</span></strong> [Name](...) · [O](...) · [E](...) · [C](...)
+       <strong><span style="color: #2563eb;">Definition:</span></strong> [Name](...) · [O](...) · [M](...) · [A](...) · [C](...)
 
    Mis-shaped rows (missing separators, wrong arity, dead anchors) are
    reported with file/line/slug detail.
@@ -74,8 +74,10 @@ CH5_FILENAME = CH5_PART_A
 _WIDGET_SLUG_SUFFIXES = (
     "-constitutional-a",
     "-constitutional-c",
+    "-constitutional-m",
     "-constitutional",
     "-o",
+    "-m",
     "-a",
     "-c",
 )
@@ -159,11 +161,14 @@ DETAILS_CLOSE_RE = re.compile(r"^\s*</details>\s*$")
 # middle-dot with single spaces. Each href must point into Chapter Five.
 #
 # Example:
-#   - [Wellbeing](core_05defs_continuity.md#wellbeing) · [O](core_05defs_continuity.md#wellbeing) · [E](core_05defs_continuity.md#wellbeing-e) · [C](core_05defs_continuity.md#wellbeing-c)
+#   - [Wellbeing](core_05defs_continuity.md#wellbeing) · [O](core_05defs_continuity.md#wellbeing) · [M](core_05defs_continuity.md#wellbeing-a) · [A](core_05defs_continuity.md#wellbeing-a) · [C](core_05defs_continuity.md#wellbeing-c)
+# M targets #{slug}-m when present (aim/leg apex heads); otherwise #{slug}-a
+# (leaf guidepost form interweaves Measurement with Assessment).
 ROW_RE = re.compile(
     r"^\s*-\s+"
     r"\[(?P<name>[^\]]+)\]\((?P<link>[^)]+)\)"
     r"\s+·\s+\[O\]\((?P<o>[^)]+)\)"
+    r"\s+·\s+\[M\]\((?P<m>[^)]+)\)"
     r"\s+·\s+\[A\]\((?P<a>[^)]+)\)"
     r"\s+·\s+\[C\]\((?P<c>[^)]+)\)"
     r"\s*$"
@@ -176,6 +181,7 @@ INLINE_RE = re.compile(
     r'^<strong><span style="color: #2563eb;">Definition:</span></strong>'
     r"\s+\[(?P<name>[^\]]+)\]\((?P<link>[^)]+)\)"
     r"\s+·\s+\[O\]\((?P<o>[^)]+)\)"
+    r"\s+·\s+\[M\]\((?P<m>[^)]+)\)"
     r"\s+·\s+\[A\]\((?P<a>[^)]+)\)"
     r"\s+·\s+\[C\]\((?P<c>[^)]+)\)"
     r"\s*$"
@@ -517,7 +523,7 @@ def audit_widgets_in_file(
                         violations.append(
                             f"{path}:{k + 1}: D/A/C widget row does not "
                             f"match canonical shape "
-                            f"'- [Name](...) · [O](...) · [A](...) · [C](...)': "
+                            f"'- [Name](...) · [O](...) · [M](...) · [A](...) · [C](...)': "
                             f"{stripped}"
                         )
                         k += 1
@@ -552,7 +558,7 @@ def audit_widgets_in_file(
                 f"{path}:{i + 1}: inline 'Definition:' line does not match "
                 f"canonical shape "
                 f"'<strong>...Definition:</strong> [Name](...) · [O](...) · "
-                f"[A](...) · [C](...)'"
+                f"[M](...) · [A](...) · [C](...)'"
             )
         i += 1
 
@@ -565,17 +571,19 @@ def validate_row(
     match: re.Match[str],
     anchors: set[str],
 ) -> list[str]:
-    """Validate the O/E/C href resolution for a single widget/inline row."""
+    """Validate the O/M/A/C href resolution for a single widget/inline row."""
     violations: list[str] = []
     name = match.group("name")
     link_href = match.group("link")
     o_href = match.group("o")
+    m_href = match.group("m")
     a_href = match.group("a")
     c_href = match.group("c")
 
     for label, href in (
         ("link", link_href),
         ("O", o_href),
+        ("M", m_href),
         ("A", a_href),
         ("C", c_href),
     ):

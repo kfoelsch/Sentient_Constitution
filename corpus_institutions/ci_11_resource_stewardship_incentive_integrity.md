@@ -12,13 +12,13 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Transparency](../core_05defs_oversight.md#transparency) · [O](../core_05defs_oversight.md#transparency) · [A](../core_05defs_oversight.md#transparency-a) · [C](../core_05defs_oversight.md#transparency-c)
-- [Governance](../core_05defs_accountability.md#governance) · [O](../core_05defs_accountability.md#governance) · [A](../core_05defs_accountability.md#governance-a) · [C](../core_05defs_accountability.md#governance-c)
-- [Negligence](../core_05defs_accountability.md#negligence) · [O](../core_05defs_accountability.md#negligence) · [A](../core_05defs_accountability.md#negligence-a) · [C](../core_05defs_accountability.md#negligence-c)
-- [Material](../core_05defs_oversight.md#material) · [O](../core_05defs_oversight.md#material) · [A](../core_05defs_oversight.md#material-a) · [C](../core_05defs_oversight.md#material-c)
-- [Corpus](../core_05defs_integrative.md#corpus) · [O](../core_05defs_integrative.md#corpus) · [A](../core_05defs_integrative.md#corpus-a) · [C](../core_05defs_integrative.md#corpus-c)
-- [System](../core_05defs_continuity.md#system-definition) · [O](../core_05defs_continuity.md#system-definition) · [A](../core_05defs_continuity.md#system-definition-a) · [C](../core_05defs_continuity.md#system-definition-c)
-- [Strategic Stewardship Obligation](../core_05defs_continuity.md#strategic-stewardship-obligation-constitutional) · [O](../core_05defs_continuity.md#strategic-stewardship-obligation-constitutional) · [A](../core_05defs_continuity.md#strategic-stewardship-obligation-constitutional-a) · [C](../core_05defs_continuity.md#strategic-stewardship-obligation-constitutional-c)
+- [Transparency](../core_05defs_oversight.md#transparency) · [O](../core_05defs_oversight.md#transparency) · [M](../core_05defs_oversight.md#transparency-a) · [A](../core_05defs_oversight.md#transparency-a) · [C](../core_05defs_oversight.md#transparency-c)
+- [Governance](../core_05defs_accountability.md#governance) · [O](../core_05defs_accountability.md#governance) · [M](../core_05defs_accountability.md#governance-a) · [A](../core_05defs_accountability.md#governance-a) · [C](../core_05defs_accountability.md#governance-c)
+- [Negligence](../core_05defs_accountability.md#negligence) · [O](../core_05defs_accountability.md#negligence) · [M](../core_05defs_accountability.md#negligence-a) · [A](../core_05defs_accountability.md#negligence-a) · [C](../core_05defs_accountability.md#negligence-c)
+- [Material](../core_05defs_oversight.md#material) · [O](../core_05defs_oversight.md#material) · [M](../core_05defs_oversight.md#material-a) · [A](../core_05defs_oversight.md#material-a) · [C](../core_05defs_oversight.md#material-c)
+- [Corpus](../core_05defs_integrative.md#corpus) · [O](../core_05defs_integrative.md#corpus) · [M](../core_05defs_integrative.md#corpus-a) · [A](../core_05defs_integrative.md#corpus-a) · [C](../core_05defs_integrative.md#corpus-c)
+- [System](../core_05defs_continuity.md#system-definition) · [O](../core_05defs_continuity.md#system-definition) · [M](../core_05defs_continuity.md#system-definition-a) · [A](../core_05defs_continuity.md#system-definition-a) · [C](../core_05defs_continuity.md#system-definition-c)
+- [Strategic Stewardship Obligation](../core_05defs_continuity.md#strategic-stewardship-obligation-constitutional) · [O](../core_05defs_continuity.md#strategic-stewardship-obligation-constitutional) · [M](../core_05defs_continuity.md#strategic-stewardship-obligation-constitutional-a) · [A](../core_05defs_continuity.md#strategic-stewardship-obligation-constitutional-a) · [C](../core_05defs_continuity.md#strategic-stewardship-obligation-constitutional-c)
 
 </details>
 

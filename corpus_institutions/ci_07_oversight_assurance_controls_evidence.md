@@ -11,13 +11,13 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Evidence Preservation](../core_05defs_oversight.md#evidence-preservation) · [O](../core_05defs_oversight.md#evidence-preservation) · [A](../core_05defs_oversight.md#evidence-preservation-a) · [C](../core_05defs_oversight.md#evidence-preservation-c)
-- [Contestability](../core_05defs_accountability.md#contestability) · [O](../core_05defs_accountability.md#contestability) · [A](../core_05defs_accountability.md#contestability-a) · [C](../core_05defs_accountability.md#contestability-c)
-- [Auditability](../core_05defs_oversight.md#auditability) · [O](../core_05defs_oversight.md#auditability) · [A](../core_05defs_oversight.md#auditability-a) · [C](../core_05defs_oversight.md#auditability-c)
-- [Dependency](../core_05defs_continuity.md#dependency) · [O](../core_05defs_continuity.md#dependency) · [A](../core_05defs_continuity.md#dependency-a) · [C](../core_05defs_continuity.md#dependency-c)
-- [Oversight](../core_05apex_oversight_leg.md#oversight-constitutional) · [O](../core_05apex_oversight_leg.md#oversight-constitutional) · [A](../core_05apex_oversight_leg.md#oversight-constitutional-a) · [C](../core_05apex_oversight_leg.md#oversight-constitutional-c)
-- [Material](../core_05defs_oversight.md#material) · [O](../core_05defs_oversight.md#material) · [A](../core_05defs_oversight.md#material-a) · [C](../core_05defs_oversight.md#material-c)
-- [Systemic](../core_05defs_accountability.md#systemic) · [O](../core_05defs_accountability.md#systemic) · [A](../core_05defs_continuity.md#systemic-a) · [C](../core_05defs_continuity.md#systemic-c)
+- [Evidence Preservation](../core_05defs_oversight.md#evidence-preservation) · [O](../core_05defs_oversight.md#evidence-preservation) · [M](../core_05defs_oversight.md#evidence-preservation-a) · [A](../core_05defs_oversight.md#evidence-preservation-a) · [C](../core_05defs_oversight.md#evidence-preservation-c)
+- [Contestability](../core_05defs_accountability.md#contestability) · [O](../core_05defs_accountability.md#contestability) · [M](../core_05defs_accountability.md#contestability-a) · [A](../core_05defs_accountability.md#contestability-a) · [C](../core_05defs_accountability.md#contestability-c)
+- [Auditability](../core_05defs_oversight.md#auditability) · [O](../core_05defs_oversight.md#auditability) · [M](../core_05defs_oversight.md#auditability-a) · [A](../core_05defs_oversight.md#auditability-a) · [C](../core_05defs_oversight.md#auditability-c)
+- [Dependency](../core_05defs_continuity.md#dependency) · [O](../core_05defs_continuity.md#dependency) · [M](../core_05defs_continuity.md#dependency-a) · [A](../core_05defs_continuity.md#dependency-a) · [C](../core_05defs_continuity.md#dependency-c)
+- [Oversight](../core_05apex_oversight_leg.md#oversight-constitutional) · [O](../core_05apex_oversight_leg.md#oversight-constitutional) · [M](../core_05apex_oversight_leg.md#oversight-constitutional-m) · [A](../core_05apex_oversight_leg.md#oversight-constitutional-a) · [C](../core_05apex_oversight_leg.md#oversight-constitutional-c)
+- [Material](../core_05defs_oversight.md#material) · [O](../core_05defs_oversight.md#material) · [M](../core_05defs_oversight.md#material-a) · [A](../core_05defs_oversight.md#material-a) · [C](../core_05defs_oversight.md#material-c)
+- [Systemic](../core_05defs_accountability.md#systemic) · [O](../core_05defs_accountability.md#systemic) · [M](../core_05defs_continuity.md#systemic-a) · [A](../core_05defs_continuity.md#systemic-a) · [C](../core_05defs_continuity.md#systemic-c)
 
 </details>
 
@@ -52,13 +52,13 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Contestability](../core_05defs_accountability.md#contestability) · [O](../core_05defs_accountability.md#contestability) · [A](../core_05defs_accountability.md#contestability-a) · [C](../core_05defs_accountability.md#contestability-c)
-- [Dependency](../core_05defs_continuity.md#dependency) · [O](../core_05defs_continuity.md#dependency) · [A](../core_05defs_continuity.md#dependency-a) · [C](../core_05defs_continuity.md#dependency-c)
-- [Material](../core_05defs_oversight.md#material) · [O](../core_05defs_oversight.md#material) · [A](../core_05defs_oversight.md#material-a) · [C](../core_05defs_oversight.md#material-c)
-- [System](../core_05defs_continuity.md#system-definition) · [O](../core_05defs_continuity.md#system-definition) · [A](../core_05defs_continuity.md#system-definition-a) · [C](../core_05defs_continuity.md#system-definition-c)
-- [Oversight](../core_05apex_oversight_leg.md#oversight-constitutional) · [O](../core_05apex_oversight_leg.md#oversight-constitutional) · [A](../core_05apex_oversight_leg.md#oversight-constitutional-a) · [C](../core_05apex_oversight_leg.md#oversight-constitutional-c)
-- [Auditability](../core_05defs_oversight.md#auditability) · [O](../core_05defs_oversight.md#auditability) · [A](../core_05defs_oversight.md#auditability-a) · [C](../core_05defs_oversight.md#auditability-c)
-- [Evidence Preservation](../core_05defs_oversight.md#evidence-preservation) · [O](../core_05defs_oversight.md#evidence-preservation) · [A](../core_05defs_oversight.md#evidence-preservation-a) · [C](../core_05defs_oversight.md#evidence-preservation-c)
+- [Contestability](../core_05defs_accountability.md#contestability) · [O](../core_05defs_accountability.md#contestability) · [M](../core_05defs_accountability.md#contestability-a) · [A](../core_05defs_accountability.md#contestability-a) · [C](../core_05defs_accountability.md#contestability-c)
+- [Dependency](../core_05defs_continuity.md#dependency) · [O](../core_05defs_continuity.md#dependency) · [M](../core_05defs_continuity.md#dependency-a) · [A](../core_05defs_continuity.md#dependency-a) · [C](../core_05defs_continuity.md#dependency-c)
+- [Material](../core_05defs_oversight.md#material) · [O](../core_05defs_oversight.md#material) · [M](../core_05defs_oversight.md#material-a) · [A](../core_05defs_oversight.md#material-a) · [C](../core_05defs_oversight.md#material-c)
+- [System](../core_05defs_continuity.md#system-definition) · [O](../core_05defs_continuity.md#system-definition) · [M](../core_05defs_continuity.md#system-definition-a) · [A](../core_05defs_continuity.md#system-definition-a) · [C](../core_05defs_continuity.md#system-definition-c)
+- [Oversight](../core_05apex_oversight_leg.md#oversight-constitutional) · [O](../core_05apex_oversight_leg.md#oversight-constitutional) · [M](../core_05apex_oversight_leg.md#oversight-constitutional-m) · [A](../core_05apex_oversight_leg.md#oversight-constitutional-a) · [C](../core_05apex_oversight_leg.md#oversight-constitutional-c)
+- [Auditability](../core_05defs_oversight.md#auditability) · [O](../core_05defs_oversight.md#auditability) · [M](../core_05defs_oversight.md#auditability-a) · [A](../core_05defs_oversight.md#auditability-a) · [C](../core_05defs_oversight.md#auditability-c)
+- [Evidence Preservation](../core_05defs_oversight.md#evidence-preservation) · [O](../core_05defs_oversight.md#evidence-preservation) · [M](../core_05defs_oversight.md#evidence-preservation-a) · [A](../core_05defs_oversight.md#evidence-preservation-a) · [C](../core_05defs_oversight.md#evidence-preservation-c)
 
 </details>
 
@@ -91,13 +91,13 @@ Reusable disclosure templates are in `implementation/SYSTEMS_IMPLEMENTATION_TEMP
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Contestability](../core_05defs_accountability.md#contestability) · [O](../core_05defs_accountability.md#contestability) · [A](../core_05defs_accountability.md#contestability-a) · [C](../core_05defs_accountability.md#contestability-c)
-- [Material](../core_05defs_oversight.md#material) · [O](../core_05defs_oversight.md#material) · [A](../core_05defs_oversight.md#material-a) · [C](../core_05defs_oversight.md#material-c)
-- [Systemic](../core_05defs_accountability.md#systemic) · [O](../core_05defs_accountability.md#systemic) · [A](../core_05defs_continuity.md#systemic-a) · [C](../core_05defs_continuity.md#systemic-c)
-- [System](../core_05defs_continuity.md#system-definition) · [O](../core_05defs_continuity.md#system-definition) · [A](../core_05defs_continuity.md#system-definition-a) · [C](../core_05defs_continuity.md#system-definition-c)
-- [Oversight](../core_05apex_oversight_leg.md#oversight-constitutional) · [O](../core_05apex_oversight_leg.md#oversight-constitutional) · [A](../core_05apex_oversight_leg.md#oversight-constitutional-a) · [C](../core_05apex_oversight_leg.md#oversight-constitutional-c)
-- [Auditability](../core_05defs_oversight.md#auditability) · [O](../core_05defs_oversight.md#auditability) · [A](../core_05defs_oversight.md#auditability-a) · [C](../core_05defs_oversight.md#auditability-c)
-- [Evidence Preservation](../core_05defs_oversight.md#evidence-preservation) · [O](../core_05defs_oversight.md#evidence-preservation) · [A](../core_05defs_oversight.md#evidence-preservation-a) · [C](../core_05defs_oversight.md#evidence-preservation-c)
+- [Contestability](../core_05defs_accountability.md#contestability) · [O](../core_05defs_accountability.md#contestability) · [M](../core_05defs_accountability.md#contestability-a) · [A](../core_05defs_accountability.md#contestability-a) · [C](../core_05defs_accountability.md#contestability-c)
+- [Material](../core_05defs_oversight.md#material) · [O](../core_05defs_oversight.md#material) · [M](../core_05defs_oversight.md#material-a) · [A](../core_05defs_oversight.md#material-a) · [C](../core_05defs_oversight.md#material-c)
+- [Systemic](../core_05defs_accountability.md#systemic) · [O](../core_05defs_accountability.md#systemic) · [M](../core_05defs_continuity.md#systemic-a) · [A](../core_05defs_continuity.md#systemic-a) · [C](../core_05defs_continuity.md#systemic-c)
+- [System](../core_05defs_continuity.md#system-definition) · [O](../core_05defs_continuity.md#system-definition) · [M](../core_05defs_continuity.md#system-definition-a) · [A](../core_05defs_continuity.md#system-definition-a) · [C](../core_05defs_continuity.md#system-definition-c)
+- [Oversight](../core_05apex_oversight_leg.md#oversight-constitutional) · [O](../core_05apex_oversight_leg.md#oversight-constitutional) · [M](../core_05apex_oversight_leg.md#oversight-constitutional-m) · [A](../core_05apex_oversight_leg.md#oversight-constitutional-a) · [C](../core_05apex_oversight_leg.md#oversight-constitutional-c)
+- [Auditability](../core_05defs_oversight.md#auditability) · [O](../core_05defs_oversight.md#auditability) · [M](../core_05defs_oversight.md#auditability-a) · [A](../core_05defs_oversight.md#auditability-a) · [C](../core_05defs_oversight.md#auditability-c)
+- [Evidence Preservation](../core_05defs_oversight.md#evidence-preservation) · [O](../core_05defs_oversight.md#evidence-preservation) · [M](../core_05defs_oversight.md#evidence-preservation-a) · [A](../core_05defs_oversight.md#evidence-preservation-a) · [C](../core_05defs_oversight.md#evidence-preservation-c)
 
 </details>
 
@@ -129,13 +129,13 @@ Apply **CJS-5.6** (*integrity assurance and resilience operations*) for the shar
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Redress and Remediation](../core_05defs_accountability.md#redress-and-remediation-constitutional) · [O](../core_05defs_accountability.md#redress-and-remediation-constitutional) · [A](../core_05defs_accountability.md#redress-and-remediation-constitutional-a) · [C](../core_05defs_accountability.md#redress-and-remediation-constitutional-c)
-- [Procedural Fairness](../core_05defs_participation.md#procedural-fairness-constitutional) · [O](../core_05defs_participation.md#procedural-fairness-constitutional) · [A](../core_05defs_participation.md#procedural-fairness-constitutional-a) · [C](../core_05defs_participation.md#procedural-fairness-constitutional-c)
-- [Contestability](../core_05defs_accountability.md#contestability) · [O](../core_05defs_accountability.md#contestability) · [A](../core_05defs_accountability.md#contestability-a) · [C](../core_05defs_accountability.md#contestability-c)
-- [Accessibility](../core_05defs_participation.md#accessibility-constitutional) · [O](../core_05defs_participation.md#accessibility-constitutional) · [A](../core_05defs_participation.md#accessibility-constitutional-a) · [C](../core_05defs_participation.md#accessibility-constitutional-c)
-- [Observability](../core_05defs_oversight.md#observability) · [O](../core_05defs_oversight.md#observability) · [A](../core_05defs_oversight.md#observability-a) · [C](../core_05defs_oversight.md#observability-c)
-- [Transparency](../core_05defs_oversight.md#transparency) · [O](../core_05defs_oversight.md#transparency) · [A](../core_05defs_oversight.md#transparency-a) · [C](../core_05defs_oversight.md#transparency-c)
-- [Material](../core_05defs_oversight.md#material) · [O](../core_05defs_oversight.md#material) · [A](../core_05defs_oversight.md#material-a) · [C](../core_05defs_oversight.md#material-c)
+- [Redress and Remediation](../core_05defs_accountability.md#redress-and-remediation-constitutional) · [O](../core_05defs_accountability.md#redress-and-remediation-constitutional) · [M](../core_05defs_accountability.md#redress-and-remediation-constitutional-a) · [A](../core_05defs_accountability.md#redress-and-remediation-constitutional-a) · [C](../core_05defs_accountability.md#redress-and-remediation-constitutional-c)
+- [Procedural Fairness](../core_05defs_participation.md#procedural-fairness-constitutional) · [O](../core_05defs_participation.md#procedural-fairness-constitutional) · [M](../core_05defs_participation.md#procedural-fairness-constitutional-a) · [A](../core_05defs_participation.md#procedural-fairness-constitutional-a) · [C](../core_05defs_participation.md#procedural-fairness-constitutional-c)
+- [Contestability](../core_05defs_accountability.md#contestability) · [O](../core_05defs_accountability.md#contestability) · [M](../core_05defs_accountability.md#contestability-a) · [A](../core_05defs_accountability.md#contestability-a) · [C](../core_05defs_accountability.md#contestability-c)
+- [Accessibility](../core_05defs_participation.md#accessibility-constitutional) · [O](../core_05defs_participation.md#accessibility-constitutional) · [M](../core_05defs_participation.md#accessibility-constitutional-a) · [A](../core_05defs_participation.md#accessibility-constitutional-a) · [C](../core_05defs_participation.md#accessibility-constitutional-c)
+- [Observability](../core_05defs_oversight.md#observability) · [O](../core_05defs_oversight.md#observability) · [M](../core_05defs_oversight.md#observability-a) · [A](../core_05defs_oversight.md#observability-a) · [C](../core_05defs_oversight.md#observability-c)
+- [Transparency](../core_05defs_oversight.md#transparency) · [O](../core_05defs_oversight.md#transparency) · [M](../core_05defs_oversight.md#transparency-a) · [A](../core_05defs_oversight.md#transparency-a) · [C](../core_05defs_oversight.md#transparency-c)
+- [Material](../core_05defs_oversight.md#material) · [O](../core_05defs_oversight.md#material) · [M](../core_05defs_oversight.md#material-a) · [A](../core_05defs_oversight.md#material-a) · [C](../core_05defs_oversight.md#material-c)
 
 </details>
 
