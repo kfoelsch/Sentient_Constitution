@@ -200,6 +200,96 @@ This band holds **Integrative** cross-leg definitions — terms that must be sat
 
 ---
 
+<a id="innovation-reward-and-anti-enclosure"></a>
+
+#### Innovation Reward and Anti-Enclosure
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Read with: [Productive Capacity](core_05defs_continuity.md#productive-capacity-constitutional), [Constitutional Efficiency](core_05defs_continuity.md#constitutional-efficiency), and [Avoidable Burden](core_05defs_continuity.md#avoidable-burden) — constitutional warrant for legitimate reward tracking under [Chapter One §11.1.3 Stewardship and Operator Application](core_01_c_stewardship_capacity_principles.md#1113-stewardship-and-operator-application); where a claimant justifies exclusivity by capacity or efficiency gains, those claims must remain outcome-traceable under [§11.1.5 Constitutional Outcome Claims Discipline](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline).
+- For innovations with direct constitutional impact, public benefit may be assessed using [Lifespan Equivalent Unit (LEQU)](core_05defs_participation.md#lifespan-equivalent-unit-lequ) as one measure of contribution magnitude under Chapter Eight.
+
+</details>
+
+<br>
+
+*In plain terms: reward real invention and useful creation — but do not let that reward harden into lasting lock-up of repair, reuse, research, or public-interest use.*
+
+- **What it is**
+  - **In scope:** The constitutional rule for rewarding invention, research, building, and creation that is materially novel and socially useful — without letting that reward become durable enclosure.
+    - Constitutional warrant: under [Chapter One §11.1.3](core_01_c_stewardship_capacity_principles.md#1113-stewardship-and-operator-application), reward may legitimately track [Productive Capacity](core_05defs_continuity.md#productive-capacity-constitutional) and [Constitutional Efficiency](core_05defs_continuity.md#constitutional-efficiency); [Avoidable Burden](core_05defs_continuity.md#avoidable-burden) guards against rewarding busywork, warehousing, or enclosure friction that serves no constitutional purpose.
+    - Reward may recognize contribution, development burden, and disclosure.
+    - It may include temporary exclusion only when that exclusion is:
+      - narrow;
+      - time-bounded;
+      - reviewable; and
+      - justified.
+    - Attribution is not exclusion; credit and source history may persist after any exclusion ends.
+    - Applies where reward structures could affect [Wellbeing](core_05defs_continuity.md#wellbeing), [Safety (Constraint)](core_05defs_continuity.md#safety-constraint), [Truth (Constitutional Constraint)](core_05defs_oversight.md#truth-constitutional-constraint), or [Meaningful Agency](core_05defs_participation.md#meaningful-agency).
+  - **Depends on:** [Necessity](core_05defs_accountability.md#necessity), [Proportionality](core_05defs_accountability.md#proportionality), and [Systemic Lock-In](core_05defs_continuity.md#systemic-lock-in) — constitutive bounds. Any exclusion must be necessity- and proportionality-justified, and control over use must not harden into:
+    - permanent scarcity;
+    - Systemic Lock-In; or
+    - suppression of repair, interoperability, learning, safety work, truthful disclosure, or downstream experimentation.
+  - **Out of scope:**
+    - attribution, credit, or provenance alone without exclusionary control; and
+    - ordinary recognition or branding that does not restrict repair, reuse, interoperability, research, or public-interest implementation.
+<a id="innovation-reward-and-anti-enclosure-a"></a>
+<a id="innovation-reward-and-anti-enclosure-contribution-and-necessity-assessment-a"></a>
+<a id="innovation-reward-and-anti-enclosure-class-scaled-exclusion-analysis-a"></a>
+<a id="innovation-reward-and-anti-enclosure-preference-for-non-monopoly-reward-tools-a"></a>
+<a id="innovation-reward-and-anti-enclosure-rebuttable-presumption-against-strong-exclusion-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** [Accountability measurement family](core_05apex_accountability_leg.md#accountability-measurement-family) — *Do reward structures, market power, and answerability keep duties real?* Use it here to ask whether invention rewards stay real contribution rewards — not lasting lock-up of repair, reuse, research, or public-interest use.
+
+    **Primary assessment:** Evaluate innovation-reward claims in this sequence:
+    1. **Identify the actual contribution.** Assess development burden, disclosure sufficiency, and public benefit. Reward requires a real contribution and enough disclosure for independent understanding, audit, and later implementation — subject only to justified temporary limits.
+    2. **Separate attribution from exclusion.** A claimant may keep credit, provenance, and recognition after any exclusion term ends. These interests do not by themselves justify control over repair, reuse, compatibility, research, education, migration, or public-interest implementation.
+    3. **Test necessity and proportionality.** Ask whether exclusivity is needed at all. Ask whether the same or greater public benefit could come through less-restrictive reward tools. Any exclusion must be narrow, time-bounded, and reviewable under [Necessity](core_05defs_accountability.md#necessity) and [Proportionality](core_05defs_accountability.md#proportionality).
+    4. **Scale to context.** Adjust analysis for:
+       - system class;
+       - [Dependency](core_05defs_continuity.md#dependency);
+       - coordination power;
+       - interoperability burden; and
+       - [Reversibility](core_05defs_continuity.md#reversibility-constitutional).
+
+       The stronger the dependency, leverage, or irreversibility, the stronger the presumption against exclusion.
+    5. **Prefer non-monopoly mechanisms.** Use prize, levy, pooled-license, public-buyout, compulsory-access, or similar tools where exclusivity would predictably create lock-in, anti-competitive warehousing, or material harm to:
+       - Class A, Class B, or Class C systems;
+       - survival-critical domains;
+       - standards-setting functions; or
+       - foundational knowledge.
+    6. **Apply rebuttable presumptions.** Strong exclusion faces a rebuttable presumption against it for:
+       - medicines and public-health essentials;
+       - survival-critical infrastructure;
+       - foundational scientific knowledge;
+       - core interoperability standards; and
+       - constitutional safety, audit, or compliance mechanisms.
+<a id="innovation-reward-and-anti-enclosure-c"></a>
+<a id="innovation-reward-and-anti-enclosure-class-scaled-exclusion-analysis-c"></a>
+<a id="innovation-reward-and-anti-enclosure-anti-enclosure-non-compliance-c"></a>
+- **What must hold**
+  - **Primary failure:** Durable or open-ended exclusion; strategic non-use; trolling; artificial scarcity; or reward claims that materially block:
+    - repair;
+    - security testing;
+    - interoperability;
+    - migration;
+    - education;
+    - research;
+    - truthful scrutiny; or
+    - public-interest implementation.
+  - **Secondary failure:** Continued exclusion of a [Dependency](core_05defs_continuity.md#dependency)-critical innovation without:
+    - class-scaled tightening;
+    - conversion to access-preserving reward; or
+    - sunset under [corpus_systems.md](corpus_systems.md), CS-3 — System classification and handling.
+  - **Tertiary failure:**
+    - exclusion that creates [Systemic Lock-In](core_05defs_continuity.md#systemic-lock-in), anti-competitive bottlenecks, material [Harm](core_05defs_accountability.md#harm), or avoidable dependence on a single claimant where less-restrictive reward tools would work as well or better; or
+    - reward claims resting on concealment, inadequate disclosure, or pretextual restriction beyond what Chapter One and Chapter Six justify.
+
+---
+
+### Integrative: Semi-independent terms
+
 <a id="incentive-alignment-semi-independent"></a>
 <a id="incentive-alignment-proxy-integrity-and-contingent-settlement"></a>
 
@@ -396,94 +486,6 @@ This band holds **Integrative** cross-leg definitions — terms that must be sat
 
 ---
 
-<a id="innovation-reward-and-anti-enclosure"></a>
-
-#### Innovation Reward and Anti-Enclosure
-
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- For innovations with direct constitutional impact, public benefit may be assessed using [Lifespan Equivalent Unit (LEQU)](core_05defs_participation.md#lifespan-equivalent-unit-lequ) as one measure of contribution magnitude under Chapter Eight.
-
-</details>
-
-<br>
-
-*In plain terms: reward real invention and useful creation — but do not let that reward harden into lasting lock-up of repair, reuse, research, or public-interest use.*
-
-- **What it is**
-  - **In scope:** The constitutional rule for rewarding invention, research, building, and creation that is materially novel and socially useful — without letting that reward become durable enclosure.
-    - Reward may recognize contribution, development burden, and disclosure.
-    - It may include temporary exclusion only when that exclusion is:
-      - narrow;
-      - time-bounded;
-      - reviewable; and
-      - justified.
-    - Attribution is not exclusion; credit and source history may persist after any exclusion ends.
-    - Applies where reward structures could affect [Wellbeing](core_05defs_continuity.md#wellbeing), [Safety (Constraint)](core_05defs_continuity.md#safety-constraint), [Truth (Constitutional Constraint)](core_05defs_oversight.md#truth-constitutional-constraint), or [Meaningful Agency](core_05defs_participation.md#meaningful-agency).
-  - **Depends on:** [Necessity](core_05defs_accountability.md#necessity), [Proportionality](core_05defs_accountability.md#proportionality), and [Systemic Lock-In](core_05defs_continuity.md#systemic-lock-in) — constitutive bounds. Any exclusion must be necessity- and proportionality-justified, and control over use must not harden into:
-    - permanent scarcity;
-    - Systemic Lock-In; or
-    - suppression of repair, interoperability, learning, safety work, truthful disclosure, or downstream experimentation.
-  - **Out of scope:**
-    - attribution, credit, or provenance alone without exclusionary control; and
-    - ordinary recognition or branding that does not restrict repair, reuse, interoperability, research, or public-interest implementation.
-<a id="innovation-reward-and-anti-enclosure-a"></a>
-<a id="innovation-reward-and-anti-enclosure-contribution-and-necessity-assessment-a"></a>
-<a id="innovation-reward-and-anti-enclosure-class-scaled-exclusion-analysis-a"></a>
-<a id="innovation-reward-and-anti-enclosure-preference-for-non-monopoly-reward-tools-a"></a>
-<a id="innovation-reward-and-anti-enclosure-rebuttable-presumption-against-strong-exclusion-a"></a>
-- **How to measure and assess**
-  - **Primary measure:** [Accountability measurement family](core_05apex_accountability_leg.md#accountability-measurement-family) — *Do reward structures, market power, and answerability keep duties real?* Use it here to ask whether invention rewards stay real contribution rewards — not lasting lock-up of repair, reuse, research, or public-interest use.
-
-    **Primary assessment:** Evaluate innovation-reward claims in this sequence:
-    1. **Identify the actual contribution.** Assess development burden, disclosure sufficiency, and public benefit. Reward requires a real contribution and enough disclosure for independent understanding, audit, and later implementation — subject only to justified temporary limits.
-    2. **Separate attribution from exclusion.** A claimant may keep credit, provenance, and recognition after any exclusion term ends. These interests do not by themselves justify control over repair, reuse, compatibility, research, education, migration, or public-interest implementation.
-    3. **Test necessity and proportionality.** Ask whether exclusivity is needed at all. Ask whether the same or greater public benefit could come through less-restrictive reward tools. Any exclusion must be narrow, time-bounded, and reviewable under [Necessity](core_05defs_accountability.md#necessity) and [Proportionality](core_05defs_accountability.md#proportionality).
-    4. **Scale to context.** Adjust analysis for:
-       - system class;
-       - [Dependency](core_05defs_continuity.md#dependency);
-       - coordination power;
-       - interoperability burden; and
-       - [Reversibility](core_05defs_continuity.md#reversibility-constitutional).
-
-       The stronger the dependency, leverage, or irreversibility, the stronger the presumption against exclusion.
-    5. **Prefer non-monopoly mechanisms.** Use prize, levy, pooled-license, public-buyout, compulsory-access, or similar tools where exclusivity would predictably create lock-in, anti-competitive warehousing, or material harm to:
-       - Class A, Class B, or Class C systems;
-       - survival-critical domains;
-       - standards-setting functions; or
-       - foundational knowledge.
-    6. **Apply rebuttable presumptions.** Strong exclusion faces a rebuttable presumption against it for:
-       - medicines and public-health essentials;
-       - survival-critical infrastructure;
-       - foundational scientific knowledge;
-       - core interoperability standards; and
-       - constitutional safety, audit, or compliance mechanisms.
-<a id="innovation-reward-and-anti-enclosure-c"></a>
-<a id="innovation-reward-and-anti-enclosure-class-scaled-exclusion-analysis-c"></a>
-<a id="innovation-reward-and-anti-enclosure-anti-enclosure-non-compliance-c"></a>
-- **What must hold**
-  - **Primary failure:** Durable or open-ended exclusion; strategic non-use; trolling; artificial scarcity; or reward claims that materially block:
-    - repair;
-    - security testing;
-    - interoperability;
-    - migration;
-    - education;
-    - research;
-    - truthful scrutiny; or
-    - public-interest implementation.
-  - **Secondary failure:** Continued exclusion of a [Dependency](core_05defs_continuity.md#dependency)-critical innovation without:
-    - class-scaled tightening;
-    - conversion to access-preserving reward; or
-    - sunset under [corpus_systems.md](corpus_systems.md), CS-3 — System classification and handling.
-  - **Tertiary failure:**
-    - exclusion that creates [Systemic Lock-In](core_05defs_continuity.md#systemic-lock-in), anti-competitive bottlenecks, material [Harm](core_05defs_accountability.md#harm), or avoidable dependence on a single claimant where less-restrictive reward tools would work as well or better; or
-    - reward claims resting on concealment, inadequate disclosure, or pretextual restriction beyond what Chapter One and Chapter Six justify.
-
----
-
-### Integrative: Semi-independent terms
-
 ### Integrative: Dependent clusters
 
 <a id="corpus-authority-stack-supremacy-and-enforceability-cluster"></a>
@@ -504,12 +506,14 @@ This band holds **Integrative** cross-leg definitions — terms that must be sat
 
 *In plain terms: this cluster answers which text is binding, who owns which topic, which source wins in a conflict, and whether duties can actually be enforced.*
 
-This cluster is the joint-invocation home for:
+This cluster is the place where those four questions must be answered together. It covers:
 
-- operative corpus identity;
-- authority-stack hierarchy;
-- supremacy within valid adoption scope; and
-- enforceability through observable and contestable compliance assessment.
+- **which texts count as the official Constitution** — the adopted, versioned corpus, not drafts, notes, or unofficial copies;
+- **how authority ranks inside that corpus** — which chapters and layers control when topics overlap;
+- **which source wins after a valid adoption** — supremacy within the scope that was actually adopted; and
+- **whether duties can be enforced in practice** — through compliance assessment that can be observed and challenged, not claimed on paper alone.
+
+When any of those questions is in play, read the cluster members together rather than treating one as enough on its own.
 
 **Admission scope.** This cluster applies where a matter materially concerns:
 
@@ -519,7 +523,7 @@ This cluster is the joint-invocation home for:
 - incorporation scope; or
 - whether claimed obligations are enforceably grounded in the adopted corpus.
 
-Outside that admission scope, [Corpus](core_05defs_integrative.md#corpus) and [Authority Stack and Internal Hierarchy](core_05defs_integrative.md#authority-stack) may operate as supporting Independent Definitions without importing the whole cluster.
+If the matter is outside that list, [Corpus](core_05defs_integrative.md#corpus) and [Authority Stack and Internal Hierarchy](core_05defs_integrative.md#authority-stack) may still be used on their own as supporting definitions. You do not have to pull in the whole cluster just because one of those terms appears.
 
 **Cluster members.** This cluster comprises:
 
@@ -578,9 +582,9 @@ See [Joint invocation and satisfaction](core_05_definitions_home.md#joint-invoca
     - unofficial or unversioned copies presented as the operative edition.
 <a id="corpus-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Oversight measurement family](core_05apex_oversight_leg.md#oversight-measurement-family) and [Accountability measurement family](core_05apex_accountability_leg.md#accountability-measurement-family) — *Can sentients see, verify, and rely on what systems represent?* / *Do reward structures, market power, and answerability keep duties real?* Use them here to ask whether the claimed binding text is the real, versioned Corpus — not an unofficial copy, draft, or process note treated as law.
+  - **Primary measure:** [Oversight measurement family](core_05apex_oversight_leg.md#oversight-measurement-family) — *Do sentients have clarity about the boundaries of authorized constitutional texts?*
 
-    **Primary assessment:** For compliance and adoption claims, identify the operative corpus edition and custody chain under the applicable [Corpus, Authority Stack, Supremacy, and Enforceability cluster](core_05defs_integrative.md#corpus-authority-stack-supremacy-and-enforceability-cluster). Then:
+    **Primary assessment:** Ask whether the claimed binding text is the real, versioned Corpus — not an unofficial copy, draft, or process note treated as law. For compliance and adoption claims, identify the operative corpus edition and custody chain under the applicable [Corpus, Authority Stack, Supremacy, and Enforceability cluster](core_05defs_integrative.md#corpus-authority-stack-supremacy-and-enforceability-cluster). Then:
     - distinguish incorporated binding text from explanatory or process artifacts; and
     - apply Chapter Thirteen supremacy and Chapter Fourteen adoption conditions.
 <a id="corpus-c"></a>
@@ -610,10 +614,10 @@ See [Joint invocation and satisfaction](core_05_definitions_home.md#joint-invoca
 *In plain terms: first decide which source layer is speaking and whether it binds; only then, if a real conflict remains inside the binding Constitution, use the last-resort hierarchy to resolve it.*
 
 - **What it is**
-  - **In scope:** The paired rule for source status and residual conflict resolution across the operative [Corpus](core_05defs_integrative.md#corpus). Source layers include:
-    - **binding constitutional sources** — Sentient Constitution core files read together, starting with `core_00_preamble.md`, `core_01_a_values_principles.md`, and `core_01_c_stewardship_capacity_principles.md` and the remaining numbered core files;
-    - **binding incorporated implementation source** — designated obligations in adopted implementation text within valid Chapter Fourteen adoption scope; and
-    - **process/map support sources** — `doc_architecture.md`, `TODO.md`, and regression/evidence artifacts, unless explicitly incorporated by valid adopting instrument.
+  - **In scope:** The paired rule that first decides which kind of source is speaking, and whether it binds, across the operative [Corpus](core_05defs_integrative.md#corpus) — and only then, if a real conflict remains inside the binding Constitution, how to resolve it. Source layers include:
+    - **binding constitutional sources** — the [Preamble](core_00_preamble.md), [Chapter One](core_01_a_values_principles.md), and the other numbered chapters of this Constitution, read together as one instrument;
+    - **binding incorporated implementation sources** — designated obligations in adopted implementation text, within valid adoption and incorporation scope under [Chapter Fifteen](core_13-15_amendment.md#chapter-fifteen-amendment-ratification-and-procedural-validity) and [Chapter Sixteen](core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge); and
+    - **process and map support sources** — architecture maps, worklists, and regression or evidence records (including [doc_architecture.md](doc_architecture.md)), unless a valid adopting instrument expressly incorporates them as binding.
 
     **Authority Stack:** the ordered source-of-authority framework governing constitutional interpretation, adoption effect, and layer status across constitutional, incorporated, and support layers.
 
@@ -627,20 +631,20 @@ See [Joint invocation and satisfaction](core_05_definitions_home.md#joint-invoca
 
     **Boundary between them:**
     - the Authority Stack decides which source layer is speaking and whether that layer is binding, incorporated, or support-only;
-    - Internal Hierarchy decides how binding constitutional meaning is resolved once the operative layer has been identified.
+    - Internal Hierarchy decides what the binding Constitution means when, after the right source layers are identified, a real conflict still remains inside that binding text.
 
     **Constitutional Owner Layers** — the positive register of which chapter owns which substantive domain — is stated in [Constitutional Owner Layers](core_05defs_integrative.md#constitutional-owner-layers) and works with both:
     1. identify source status under the Authority Stack;
     2. identify substantive owner under Constitutional Owner Layers;
     3. apply Internal Hierarchy only for genuine residual incompatibility within the binding constitutional source.
 
-    For adopters, Chapter Thirteen Chapter One §8.1 applies this paired discipline at the binding-corpus / adopted-implementation boundary:
-    - this Constitution and its integrated definitions govern interpretation and compliance; and
-    - adopted implementation text governs only within its stated adoption scope and remains subject to [Chapter Thirteen non-regression](core_13-15_amendment.md) and [Supremacy and Enforceability](core_05defs_integrative.md#supremacy-and-enforceability).
+    For adopters, [Internal Hierarchy for Adopters](core_13-15_amendment.md#31-internal-hierarchy-for-adopters) in **Chapter Fourteen** applies this same paired rule at the line between the binding Constitution and adopted implementation text:
+    - this Constitution and its integrated definitions control how the text is read and what counts as compliance; and
+    - adopted implementation text applies only within the scope that was actually adopted, and cannot walk back [Chapter Thirteen non-regression](core_13-15_amendment.md) or [Supremacy and Enforceability](core_05defs_integrative.md#supremacy-and-enforceability).
   - **Out of scope:** Editorial preference, support-document gloss, or adoption branding that rearranges source layers or resolves residual conflict outside the Authority Stack and Internal Hierarchy.
 <a id="authority-stack-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Oversight measurement family](core_05apex_oversight_leg.md#oversight-measurement-family) and [Accountability measurement family](core_05apex_accountability_leg.md#accountability-measurement-family) — supporting measure where multiple measurement families co-apply.
+  - **Primary measure:** [Oversight measurement family](core_05apex_oversight_leg.md#oversight-measurement-family) — *Can sentients tell which source layer is speaking, whether it binds, and how real conflicts inside the binding Constitution are resolved?*
 
     **Primary assessment:**
     - First identify the operative edition/custody chain and source layer under the Authority Stack.
@@ -657,10 +661,10 @@ See [Joint invocation and satisfaction](core_05_definitions_home.md#joint-invoca
 <a id="authority-stack-c"></a>
 - **What must hold**
   - **Primary failure:** It is non-compliant to:
-    - treat support or process artifacts as constitutionally binding without valid incorporation, or apply incorporated text contrary to the constitutional [Corpus](core_05defs_integrative.md#corpus);
-    - invoke Internal Hierarchy to license abstract-strictness preferences, to contract [Chapter Six](core_06-06_rights_part_a.md#chapter-six-foundational-rights) protections outside expressly permitted Chapter One interaction rules, or to substitute one layer for another under ordinary operation;
-    - treat canonical Chapter Five definitions as a competing substantive layer that displaces principles or articles ([2. Constitutional Interpretation](core_01_b_interaction_interpretation.md#8-constitutional-interpretation)); or
-    - for adopters, treat adopted implementation text as overriding binding constitutional source within scope of adoption, or as relaxing [Chapter Thirteen](core_13-15_amendment.md) non-regression floors (Chapter Thirteen Chapter One §8.1; [Supremacy and Enforceability](core_05defs_integrative.md#supremacy-and-enforceability)).
+    - treat maps, worklists, notes, or other support text as binding constitutional law without valid incorporation — or apply incorporated implementation text in a way that contradicts the constitutional [Corpus](core_05defs_integrative.md#corpus);
+    - use Internal Hierarchy as a shortcut to pick a harsher reading, to shrink [Chapter Six](core_06-06_rights_part_a.md#chapter-six-foundational-rights) Rights-Floor protections outside what [Chapter One](core_01_b_interaction_interpretation.md#8-constitutional-interpretation) expressly allows, or to swap one source layer for another in ordinary reading;
+    - treat Chapter Five definitions as a rival body of law that overrides principles or articles ([Chapter One — §2 Constitutional Interpretation](core_01_b_interaction_interpretation.md#8-constitutional-interpretation)); or
+    - for adopters, treat adopted implementation text as overriding this Constitution within the scope of adoption, or as relaxing [Chapter Thirteen](core_13-15_amendment.md) non-regression floors ([Internal Hierarchy for Adopters](core_13-15_amendment.md#31-internal-hierarchy-for-adopters) in **Chapter Fourteen**; [Supremacy and Enforceability](core_05defs_integrative.md#supremacy-and-enforceability)).
 
 ---
 
