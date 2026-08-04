@@ -208,7 +208,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
 - [Game of Chance](core_05_band_accountability.md#game-of-chance) — a kind of Contingent Claim: chance-based payouts.
 - [Insider Advantage](core_05_band_accountability.md#insider-advantage) — the integrity overlay for non-public or role-based edges in staking, trading, settlement, or influence over those structures.
 
-*Measurements (family routing):* Accountability measurement family and Timeliness measurement family — operative tiers on [Contingent Claim](core_05_band_accountability.md#contingent-claim), [Event-Contract Market](core_05_band_accountability.md#event-contract-market), [Game of Chance](core_05_band_accountability.md#game-of-chance), and [Insider Advantage](core_05_band_accountability.md#insider-advantage) below; progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md).
+*Measurements (family routing):* Measured under the Accountability measurement family and Timeliness measurement family. Find the concrete measures on [Contingent Claim](core_05_band_accountability.md#contingent-claim), [Event-Contract Market](core_05_band_accountability.md#event-contract-market), [Game of Chance](core_05_band_accountability.md#game-of-chance), and [Insider Advantage](core_05_band_accountability.md#insider-advantage) below. Progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md).
 
 ---
 
@@ -359,7 +359,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
 - [Force Majeure](core_05_band_accountability.md#force-majeure-constitutional) — exceptional external disruptions.
 - [Capture of Resolution Pathways](core_05_band_accountability.md#capture-of-resolution-pathways) — protection against capture of outcome-determination mechanisms.
 
-*Measurements (family routing):* Accountability measurement family and Timeliness measurement family — operative tiers on [Accountability](core_05_apex_accountability_leg.md#accountability), [Attributable Action](core_05_band_accountability.md#attributable-action-constitutional), [Attribution Integrity](core_05_band_accountability.md#attribution-integrity-constitutional), [Contestability](core_05_band_accountability.md#contestability), [Due Process](core_05_band_accountability.md#due-process-constitutional), [Timeliness](core_05_apex_timeliness_leg.md#timeliness-constitutional), [Timely Resolution](core_05_band_accountability.md#timely-resolution-constitutional), [Negligence](core_05_band_accountability.md#negligence), [Redress and Remediation](core_05_band_accountability.md#redress-and-remediation-constitutional), [Remedy System](core_05_band_accountability.md#remedy-system-constitutional), [Restorative Justice](core_05_band_accountability.md#restorative-justice), and [Capture of Resolution Pathways](core_05_band_accountability.md#capture-of-resolution-pathways) below; progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md).
+*Measurements (family routing):* Measured under the Accountability measurement family and Timeliness measurement family. Find the concrete measures on [Accountability](core_05_apex_accountability_leg.md#accountability), [Attributable Action](core_05_band_accountability.md#attributable-action-constitutional), [Attribution Integrity](core_05_band_accountability.md#attribution-integrity-constitutional), [Contestability](core_05_band_accountability.md#contestability), [Due Process](core_05_band_accountability.md#due-process-constitutional), [Timeliness](core_05_apex_timeliness_leg.md#timeliness-constitutional), [Timely Resolution](core_05_band_accountability.md#timely-resolution-constitutional), [Negligence](core_05_band_accountability.md#negligence), [Redress and Remediation](core_05_band_accountability.md#redress-and-remediation-constitutional), [Remedy System](core_05_band_accountability.md#remedy-system-constitutional), [Restorative Justice](core_05_band_accountability.md#restorative-justice), and [Capture of Resolution Pathways](core_05_band_accountability.md#capture-of-resolution-pathways) below. Progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md).
 
 ---
 
@@ -1011,7 +1011,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
 - [Protected Reporting (Whistleblowing)](core_05_band_accountability.md#protected-reporting-whistleblowing);
 - [Protected Reporting Retaliation and Access Interference](core_05_band_accountability.md#protected-reporting-retaliation-and-access-interference).
 
-*Measurements (family routing):* Accountability measurement family — operative tiers on the member definitions below; progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md).
+*Measurements (family routing):* Measured under the Accountability measurement family. Find the concrete measures on the member definitions below. Progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md).
 
 <a id="protected-reporting-whistleblowing"></a>
 
@@ -1100,7 +1100,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
 
 **Principle-layer interface.** Read this cluster with [Chapter One §9.5 Aligned Self-Organization](core_01_c_stewardship_capacity_principles.md#95-aligned-self-organization). That principle explains how sentient-initiated and community-initiated constitutional work receives a real procedural path without allowing incumbents to monopolize initiative or review. It is not a grant of governing, enforcement, coercive, or merits authority and is not an additional definition in this cluster.
 
-*Measurements (family routing):* Accountability measurement family — operative tiers on [Market Structure](core_05_band_accountability.md#market-structure-constitutional) and [Market Concentration Threshold](core_05_band_accountability.md#market-concentration-threshold-constitutional) below; progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md).
+*Measurements (family routing):* Measured under the Accountability measurement family. Find the concrete measures on [Market Structure](core_05_band_accountability.md#market-structure-constitutional) and [Market Concentration Threshold](core_05_band_accountability.md#market-concentration-threshold-constitutional) below. Progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md).
 
 <a id="governance"></a>
 
@@ -1337,7 +1337,7 @@ The following limits also apply:
 - Offense, preference, discomfort, or disagreement alone is not sufficient without a material harm pathway.
 - A practice can still fall under this cluster even if it is described as private, local, expressive, commercial, technical, or collective. What matters is its real effect. The cluster applies when the practice causes material harm to protected interests or shared constitutional conditions — whether the harm is direct or indirect, appears later or builds over time, crosses systems, or affects the info-sphere, environment, wellbeing, or agency.
 
-*Measurements (family routing):* Accountability measurement family — operative tiers on the member definitions below; progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md).
+*Measurements (family routing):* Measured under the Accountability measurement family. Find the concrete measures on the member definitions below. Progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md).
 
 ---
 
@@ -1560,7 +1560,7 @@ Outside that scope, an individual forum-family entry may still be used as a supp
 
 See [Joint invocation and satisfaction](core_05__definitions_home.md#joint-invocation-and-satisfaction).
 
-*Measurements (family routing):* Accountability measurement family and Timeliness measurement family — operative tiers on the member definitions below; progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md).
+*Measurements (family routing):* Measured under the Accountability measurement family and Timeliness measurement family. Find the concrete measures on the member definitions below. Progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md).
 
 ---
 
@@ -1920,7 +1920,7 @@ Outside that scope, an individual Chapter Eight through Chapter Ten hook may sti
 
 See [Joint invocation and satisfaction](core_05__definitions_home.md#joint-invocation-and-satisfaction).
 
-*Measurements (family routing):* Accountability measurement family and Timeliness measurement family — operative tiers on the member definitions below; progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md).
+*Measurements (family routing):* Measured under the Accountability measurement family and Timeliness measurement family. Find the concrete measures on the member definitions below. Progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md).
 
 ---
 
@@ -2634,7 +2634,7 @@ Outside that admission scope, individual definitions may operate as supporting I
 
 See [Joint invocation and satisfaction](core_05__definitions_home.md#joint-invocation-and-satisfaction).
 
-*Measurements (family routing):* Accountability measurement family — operative tiers on the member definitions below; progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md).
+*Measurements (family routing):* Measured under the Accountability measurement family. Find the concrete measures on the member definitions below. Progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md).
 
 ---
 

@@ -216,7 +216,7 @@ This band holds definitions under the **Oversight** Tetrad leg — transparency,
 
 Implication can exist without misalignment. Misalignment always implies material implication.
 
-*Measurements (family routing):* Oversight measurement family — operative tiers on the member definitions below; progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md).
+*Measurements (family routing):* Measured under the Oversight measurement family. Find the concrete measures on the member definitions below. Progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md).
 
 <a id="material"></a>
 
@@ -638,7 +638,7 @@ Outside that scope, individual entries may still apply on their own without impo
 
 See [Joint invocation and satisfaction](core_05__definitions_home.md#joint-invocation-and-satisfaction).
 
-*Measurements (family routing):* Oversight measurement family — operative tiers on [Transparency](core_05_band_oversight.md#transparency), [Auditability](core_05_band_oversight.md#auditability), and [Verifiability](core_05_band_oversight.md#verifiability) below; progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md).
+*Measurements (family routing):* Measured under the Oversight measurement family. Find the concrete measures on [Transparency](core_05_band_oversight.md#transparency), [Auditability](core_05_band_oversight.md#auditability), and [Verifiability](core_05_band_oversight.md#verifiability) below. Progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md).
 
 ---
 
@@ -658,16 +658,16 @@ See [Joint invocation and satisfaction](core_05__definitions_home.md#joint-invoc
 *In plain terms: telling affected sentients enough about how a system works, its limits, and its risks that they can genuinely understand and question it — not burying them in noise.*
 
 - **What it is**
-  - **In scope:** Telling people enough about externally relevant system behavior, limits, uncertainties, and dependencies that affected parties can understand function and risk in context. Safety- and security-justified limits still apply, consistent with [Epistemic Integrity](core_05_band_oversight.md#epistemic-integrity) and Chapter One §9.2 — Epistemic Disclosure Constraints.
-    - Where lawful online publication infrastructure exists for a materially scoped system, institution, forum process, or comparable governed domain, baseline transparency disclosure must be freely available online for class-appropriate public access — no paywall or insider-only substitute for [Public Oversight Baseline Disclosure](core_05_band_oversight.md#public-oversight-baseline-disclosure) where that floor applies.
-    - Where raw public disclosure is inappropriate under lawful protection constraints, the owner must provide the strongest feasible online public substitute while preserving meaningful accountability and contestability, for example:
+  - **In scope:** Giving affected people enough information about how a system behaves outwardly — its limits, uncertainties, and what depends on it — that they can understand what it does and what risks it creates. Legitimate safety and security limits still apply, consistent with [Epistemic Integrity](core_05_band_oversight.md#epistemic-integrity) and [6.2 Epistemic Disclosure Constraints](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints).
+    - If a material system, institution, forum process, or similar governed domain can lawfully publish online, its baseline transparency disclosure must be free to the public at the access level its class requires — not behind a paywall or available only to insiders — wherever [Public Oversight Baseline Disclosure](core_05_band_oversight.md#public-oversight-baseline-disclosure) applies.
+    - If publishing the raw material would break lawful protections, the owner must still publish the strongest public substitute reasonably possible online, without gutting accountability or [Contestability](core_05_band_accountability.md#contestability) — for example:
       - aggregation;
       - de-identification;
       - summary disclosure;
       - delayed disclosure; or
       - qualified audit access.
-    - [Public Oversight Baseline Disclosure](core_05_band_oversight.md#public-oversight-baseline-disclosure) — including online availability and lawful substitute discipline — is implemented at the systems layer as **Type O** data under **[corpus_systems.md](corpus_systems.md), CS-2 — Information types and handling**.
-  - **Out of scope:** A data dump, document volume, paywall, or insider-only access that does not let affected parties understand function and risk.
+    - [Public Oversight Baseline Disclosure](core_05_band_oversight.md#public-oversight-baseline-disclosure) — free online access and these lawful substitutes included — is implemented at the systems layer as **Type O** data under **[corpus_systems.md](corpus_systems.md), CS-2 — Information types and handling**.
+  - **Out of scope:** A data dump, mountain of documents, paywall, or insider-only access that still leaves affected people unable to understand function and risk.
 <a id="transparency-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Oversight measurement family](core_05_apex_oversight_leg.md#oversight-measurement-family) — *Can sentients see, verify, and rely on what systems represent?* Use it here to ask whether affected parties get decision-relevant clarity about function, limits, and risk — not volume, noise, or insider-only access.
@@ -1108,7 +1108,7 @@ Outside that scope, component definitions may still apply on their own without i
 
 See [Joint invocation and satisfaction](core_05__definitions_home.md#joint-invocation-and-satisfaction).
 
-*Measurements (family routing):* Oversight measurement family — operative tiers on [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint) and [Epistemic Integrity](core_05_band_oversight.md#epistemic-integrity) below; progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md).
+*Measurements (family routing):* Measured under the Oversight measurement family. Find the concrete measures on [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint) and [Epistemic Integrity](core_05_band_oversight.md#epistemic-integrity) below. Progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md).
 
 <a id="publication-and-high-impact-communication"></a>
 

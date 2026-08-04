@@ -303,7 +303,7 @@ This band holds **Integrative** cross-leg definitions — terms that must be sat
 - [Incentive Alignment — strategic, scaled, and adversarial evaluation](core_05_band_integrative.md#incentive-alignment-strategic-scaled-and-adversarial-evaluation) — evaluation under gaming, scale, coordination, and deliberate misuse; and
 - [Incentive Alignment — contingent claims, games of chance, and event-contract markets](core_05_band_integrative.md#incentive-alignment-contingent-claims-games-of-chance-and-event-contract-markets) — special application where contingent settlement is materially relevant.
 
-*Measurements (family routing):* Accountability measurement family — operative tiers on the member definitions below; progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md).
+*Measurements (family routing):* Measured under the Accountability measurement family. Find the concrete measures on the member definitions below. Progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md).
 
 ---
 
@@ -541,7 +541,7 @@ questions in a way that:
 
 See [Joint invocation and satisfaction](core_05__definitions_home.md#joint-invocation-and-satisfaction).
 
-*Measurements (family routing):* Oversight measurement family and Accountability measurement family — operative tiers on the member definitions below; progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md).
+*Measurements (family routing):* Measured under the Oversight measurement family and Accountability measurement family. Find the concrete measures on the member definitions below. Progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md).
 
 ---
 

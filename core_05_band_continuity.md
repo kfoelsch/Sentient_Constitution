@@ -157,7 +157,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 - [System Classification Record](core_05_band_continuity.md#system-classification-record-constitutional) — the bounded dual-axis class findings (impact class and dependency type(s)) required under CS-3 and incorporated into the System Certification Record when SAC runs;
 - [System Data Types Record](core_05_band_continuity.md#system-data-types-record-constitutional) — the bounded type-and-handling findings required under CS-2 as material audited information and incorporated into the System Certification Record when SAC runs.
 
-*Measurements (family routing):* Continuity measurement family — operative tiers on the member definitions below; progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md).
+*Measurements (family routing):* Measured under the Continuity measurement family. Find the concrete measures on the member definitions below. Progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md).
 
 <a id="system-alignment-certification-constitutional"></a>
 
@@ -418,7 +418,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 - [Cascading Failure](core_05_band_continuity.md#cascading-failure) — escalation where failures spread across dependencies;
 - [Existential Risk](core_05_band_continuity.md#existential-risk) — escalation where failures threaten civilization-scale or survival-critical layers.
 
-*Measurements (family routing):* Continuity measurement family and Flourishing measurement family — operative tiers on the member definitions below; progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md).
+*Measurements (family routing):* Measured under the Continuity measurement family and Flourishing measurement family. Find the concrete measures on the member definitions below. Progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md).
 
 <a id="safety-constraint"></a>
 
@@ -991,7 +991,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 - [Avoidable Burden](core_05_band_continuity.md#avoidable-burden) — costs not traceable to constitutional outcomes;
 - [Burden-Reduction Duty](core_05_band_continuity.md#burden-reduction-duty-constitutional) — the affirmative stewardship obligation to minimize such friction where constitutionally safe.
 
-*Measurements (family routing):* Constitutional Performance measurement family — operative tiers on [Constitutional Efficiency](core_05_band_continuity.md#constitutional-efficiency), [Avoidable Burden](core_05_band_continuity.md#avoidable-burden), [Productive Capacity](core_05_band_continuity.md#productive-capacity-constitutional), and [Burden-Reduction Duty](core_05_band_continuity.md#burden-reduction-duty-constitutional) below; progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md).
+*Measurements (family routing):* Measured under the Constitutional Performance measurement family. Find the concrete measures on [Constitutional Efficiency](core_05_band_continuity.md#constitutional-efficiency), [Avoidable Burden](core_05_band_continuity.md#avoidable-burden), [Productive Capacity](core_05_band_continuity.md#productive-capacity-constitutional), and [Burden-Reduction Duty](core_05_band_continuity.md#burden-reduction-duty-constitutional) below. Progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md).
 
 <a id="shared-system-capacity-constitutional"></a>
 
@@ -1360,7 +1360,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 - [Sustainability](core_05_band_continuity.md#sustainability) — capacity to maintain environmental preconditions without burden-shifting to other communities, systems, or future sentients;
 - [Intergenerational Responsibility](core_05_band_continuity.md#intergenerational-responsibility-constitutional) — duty to account for foreseeable effects of present decisions on future sentients and ecological systems.
 
-*Measurements (family routing):* Continuity measurement family — operative tiers on the member definitions below; progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md).
+*Measurements (family routing):* Measured under the Continuity measurement family. Find the concrete measures on the member definitions below. Progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md).
 
 <a id="ecological-integrity-constitutional"></a>
 
@@ -1756,7 +1756,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 - [Stakeholder Emergency and Contingency](core_05_band_continuity.md#stakeholder-emergency-and-contingency) — emergencies within already-authorized systems under the Stakeholder System Participation layer;
 - [Emergency Pre-Deliberation Action (Binding Collective Choice)](core_05_band_continuity.md#emergency-pre-deliberation-action-binding-collective-choice) — narrow exceptions for binding action before full deliberation where delay would cause imminent harm.
 
-*Measurements (family routing):* Continuity measurement family — operative tiers on the member definitions below; progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md).
+*Measurements (family routing):* Measured under the Continuity measurement family. Find the concrete measures on the member definitions below. Progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md).
 
 <a id="emergency-and-contingency-constitutional"></a>
 
@@ -1959,7 +1959,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 - [Dependency](core_05_band_continuity.md#dependency) — how much a sentient or system relies on another for survival, function, stability, or participation, including chained, asymmetric, and hard-to-see relationships;
 - [Proportionate Cross-System Contribution](core_05_band_continuity.md#proportionate-cross-system-support-constitutional) — the duty of systems that draw value from shared foundations to put enough documented, auditable resources back to keep those foundations running, contestable, and sustainable.
 
-*Measurements (family routing):* Continuity measurement family (*Dependency and resource flows*; *Cross-system support*) — operative tiers on the member definitions below; progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md). Read with [Protocol S5 — Resource Allocation and Funding Stewardship](corpus_systems/cs_protocol_s5_resource_allocation_funding_stewardship.md).
+*Measurements (family routing):* Measured under the Continuity measurement family (*Dependency and resource flows*; *Cross-system support*). Find the concrete measures on the member definitions below. Progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md). Read with [Protocol S5 — Resource Allocation and Funding Stewardship](corpus_systems/cs_protocol_s5_resource_allocation_funding_stewardship.md).
 
 <a id="dependency"></a>
 
@@ -2127,7 +2127,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 - [Systemic Materiality](core_05_band_continuity.md#systemic-materiality) — the threshold where interaction makes total [Material Impact](core_05_band_oversight.md#material-impact) exceed the sum of separable parts;
 - [System Capture](core_05_band_continuity.md#system-capture) — the integrity overlay: concentrated incentives or power that distort [Governance](core_05_band_accountability.md#governance), [Oversight](core_05_apex_oversight_leg.md#oversight-constitutional), or [Contestability](core_05_band_accountability.md#contestability).
 
-*Measurements (family routing):* Continuity measurement family — operative tiers on the member definitions below; progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md).
+*Measurements (family routing):* Measured under the Continuity measurement family. Find the concrete measures on the member definitions below. Progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md).
 
 <a id="systemic"></a>
 
@@ -2303,7 +2303,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 - [Charter](core_05_band_continuity.md#charter) — the published, amendable scope instrument stating what a system, institution, or business claims authority to do, subject to periodic alignment review;
 - [Systemic Lock-In](core_05_band_continuity.md#systemic-lock-in) — conditions where exit or corrective action is foreclosed, negating meaningful agency or contestability.
 
-*Measurements (family routing):* Continuity measurement family — operative tiers on the member definitions below; progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md).
+*Measurements (family routing):* Measured under the Continuity measurement family. Find the concrete measures on the member definitions below. Progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md).
 
 <a id="system-definition"></a>
 
@@ -2526,7 +2526,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 - [Occupancy Continuity](core_05_band_continuity.md#occupancy-continuity-constitutional) — procedural and substantive stability of essential shelter and operating-environment relationships;
 - [Environmental Preconditions](core_05_band_continuity.md#environmental-preconditions-constitutional) — the biophysical conditions, including stable climate, functioning ecosystems, and clean air and water, on which sentient survival depends.
 
-*Measurements (family routing):* Flourishing measurement family and Continuity measurement family — operative tiers on the member definitions below; progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md).
+*Measurements (family routing):* Measured under the Flourishing measurement family and Continuity measurement family. Find the concrete measures on the member definitions below. Progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md).
 
 <a id="bodily-maintenance-access-constitutional"></a>
 
@@ -2662,7 +2662,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 - [Indigenous Continuity](core_05_band_continuity.md#indigenous-continuity-constitutional) — a community-anchored, capability-functional floor for language, cultural practice, governance practice, and knowledge transmission in communities with durable territorial or ecosystem connection;
 - [Language, Culture, and Heritage](core_05_band_continuity.md#language-culture-and-heritage-constitutional) — protected-characteristic-based protection for individual and collective cultural identity, including language use, cultural practice, heritage transmission, and communication modalities.
 
-*Measurements (family routing):* Continuity measurement family — operative tiers on the member definitions below; progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md).
+*Measurements (family routing):* Measured under the Continuity measurement family. Find the concrete measures on the member definitions below. Progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md).
 
 ---
 
@@ -2855,7 +2855,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 - [Training-Data Use](core_05_band_continuity.md#training-data-use-constitutional) — use of sentient-produced identifiable work as training data under applicable consent, privacy, and attribution duties;
 - [Anti-Displacement Floor](core_05_band_continuity.md#anti-displacement-floor-constitutional) — substantive mitigation where generative or automation deployment causes population-scale displacement of sentient labor.
 
-*Measurements (family routing):* Continuity measurement family — operative tiers on the member definitions below; progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md).
+*Measurements (family routing):* Measured under the Continuity measurement family. Find the concrete measures on the member definitions below. Progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md).
 
 ---
 
@@ -3360,7 +3360,7 @@ See [Joint invocation and satisfaction](core_05__definitions_home.md#joint-invoc
 - [Stewardship Defect](core_05_band_continuity.md#stewardship-defect-constitutional) — material failure of stewardship, strategy, incentive design, monitoring, correction, or disclosure that foreseeably permits misalignment or harm;
 - [Review and Correction Duty](core_05_band_continuity.md#review-and-correction-duty-constitutional) — periodic revalidation of stewardship claims against outcomes, with revision within time-bounded windows scaled to material stake.
 
-*Measurements (family routing):* Continuity measurement family — operative tiers on the member definitions below; progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md).
+*Measurements (family routing):* Measured under the Continuity measurement family. Find the concrete measures on the member definitions below. Progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md).
 
 <a id="stewardship-constitutional"></a>
 
@@ -3714,7 +3714,7 @@ See [Joint invocation and satisfaction](core_05__definitions_home.md#joint-invoc
 - [Article IX-A](core_06-06_rights_part_b.md#article-ix-a-agency-and-freedom-from-manipulation) (*Agency and Freedom from Manipulation*);
 - [Article XIII-A](core_06-06_rights_part_c.md#article-xiii-a-security-intelligence-and-covert-power-limits) (*Security, Intelligence, and Covert-Power Limits*).
 
-*Measurements (family routing):* Continuity measurement family — operative tiers on the member definitions below; progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md).
+*Measurements (family routing):* Measured under the Continuity measurement family. Find the concrete measures on the member definitions below. Progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md).
 
 <a id="privacy-informational"></a>
 
@@ -3920,7 +3920,7 @@ See [Joint invocation and satisfaction](core_05__definitions_home.md#joint-invoc
 - [Trustworthiness](core_05_band_continuity.md#trustworthiness) — reliability of system behavior relative to stated properties, demonstrated through observable and verifiable conduct over time;
 - [Trust Degradation and Misleading Reliance](core_05_band_continuity.md#trust-degradation-and-misleading-reliance) — conditions where misrepresentation, inconsistency, unresolved failure, verification erosion, or material omission defeats justified reliance.
 
-*Measurements (family routing):* Continuity measurement family — operative tiers on the member definitions below; progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md).
+*Measurements (family routing):* Measured under the Continuity measurement family. Find the concrete measures on the member definitions below. Progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md).
 
 ---
 
