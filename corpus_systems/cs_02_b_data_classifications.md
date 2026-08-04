@@ -157,28 +157,36 @@ These type letters name different kinds of data and how they are usually shared 
 
 **Definition:** Data released or required to be released as [Public Oversight Baseline Disclosure](../core_05defs_oversight.md#public-oversight-baseline-disclosure) for transparency, oversight, and contestability — including lawful substitutes where **Type G**, **Type E**, or other source records remain non-public, non-baseline, or otherwise restricted. Canonical meaning is in Chapter Five; this type owns systems-layer typing and handling.
 
-**Class A/B/C public-baseline content.** Where the [Type O baseline for Class A/B/C](cs_02_a_information_types_and_handling.md#7-type-o-baseline-for-class-abc-systems) applies, **Type O** carries [Public Oversight Baseline Disclosure](../core_05defs_oversight.md#public-oversight-baseline-disclosure) — the **public explanation** of chartered and certified scope — mapped under Part A §7 from the governing [Charter](../core_05defs_continuity.md#charter) (or equivalent), assigned class, and observed [System Boundaries](../core_05defs_continuity.md#system-boundaries) — not a second taxonomy. It includes information people need to understand:
-- what the system does
+**Class A/B/C public-baseline content.** Where the [Type O baseline for Class A/B/C](cs_02_a_information_types_and_handling.md#7-type-o-baseline-for-class-abc-systems) applies, **Type O** carries [Public Oversight Baseline Disclosure](../core_05_band_oversight.md#public-oversight-baseline-disclosure) — the **public explanation** of chartered and certified scope — mapped under Part A §7 from the governing [Charter](../core_05_band_continuity.md#charter) (or equivalent), assigned class, and observed [System Boundaries](../core_05_band_continuity.md#system-boundaries) — not a second taxonomy. It includes information people need to understand:
+- purpose and what the system does
 - how it is classified
-- what depends on it
-- how it is running
-- what can go wrong
-- how it is governed
+- dependency structure and what depends on it
+- operational status and how it is running
+- material risks, performance, and failures
+- how it is governed and material audit outcomes
+- stakeholder effects
 - its degree of alignment with this Constitution
 
+Where that baseline applies, **Type O** also carries — at public-baseline fidelity, including lawful substitutes — publication or a usable public view of:
+- the governing [Charter](../core_05_band_continuity.md#charter) (or equivalent published scope instrument)
+- the [System Classification Record](../core_05_band_continuity.md#system-classification-record-constitutional)
+- the [System Data Types Record](../core_05_band_continuity.md#system-data-types-record-constitutional)
+- the [System Certification Record](../core_05_band_continuity.md#system-certification-record-constitutional) produced by [System Alignment Certification](../core_05_band_continuity.md#system-alignment-certification-constitutional), including material governance and audit outcomes required for baseline visibility
+
+Baseline visibility into purpose, operational status, material risk, performance, failures, and stakeholder effects may be satisfied through those records, [Risk Disclosure](../core_05_band_oversight.md#risk-disclosure) where systemic risk is in scope, and other lawful **Type O** summaries or substitutes — not by omitting the topics.
+
 **Other examples include:**
-- the **published Charter** (or equivalent published scope instrument) itself, at public-baseline fidelity
-- **published certification, governance, and audit records** required for Public Oversight Baseline Disclosure visibility
-- **published procedural rules, system classifications, and disclosed assumptions** at public-baseline fidelity
+- **published procedural rules and disclosed assumptions** at public-baseline fidelity
 - **aggregated, de-identified, summary, or delayed** public releases that substitute for **Type G**, **Type E**, or other restricted or non-baseline source data
 - **published emergency notices and aggregated environmental or public-risk summaries** at public-baseline fidelity drawn from **Type E** streams
 - **public eligibility rules and routing** for qualified audit access to **Type G** or other non-public source
-- **versioned public change notices, operational status, and material-risk summaries** for baseline understanding
+- **versioned public change notices, operational status, performance, failure, stakeholder-effect, and material-risk summaries** for baseline understanding
 
 **Relationship to other types:**
 - **Type G** holds sensitive governance and operational **source** that is audit-accessible but not public by default.
-- **Type E** holds survival- and coordination-critical **content streams** that are accessible by default under Type E duties and are **not** themselves [Public Oversight Baseline Disclosure](../core_05defs_oversight.md#public-oversight-baseline-disclosure).
+- **Type E** holds survival- and coordination-critical **content streams** that are accessible by default under Type E duties and are **not** themselves [Public Oversight Baseline Disclosure](../core_05_band_oversight.md#public-oversight-baseline-disclosure).
 - **Type O** governs the **publication posture** of Public Oversight Baseline Disclosure artifacts, including substitutes derived from **Type G** or **Type E**.
+- Neither **Type E** nor **Type G** is the public floor; published baseline artifacts drawn from them are **Type O**, while underlying streams may remain under their original type.
 
 **Disclosure posture:** **Baseline public accessibility** under the **open / accessible by default** band ([Part A §5.0](cs_02_a_information_types_and_handling.md#50-access-posture-bands)). Deeper structured or qualified audit access to **Type G** (or other non-public source) may run in parallel but must not replace [Public Oversight Baseline Disclosure](../core_05defs_oversight.md#public-oversight-baseline-disclosure) where **Type O** applies.
 
@@ -191,7 +199,7 @@ These type letters name different kinds of data and how they are usually shared 
 - Topic routing (mandatory read-with): [Part A §7](cs_02_a_information_types_and_handling.md#7-type-o-baseline-for-class-abc-systems) (*Type O baseline for Class A/B/C systems* — scoped by Charter, class, and System Boundaries; verified under Chapter Seven).
 - Topic routing (mandatory read-with): [Part A §5.3](cs_02_a_information_types_and_handling.md#53-tiered-transparency-and-audit-access) (*Tiered transparency and audit access*).
 - Topic routing (mandatory read-with): [Part A §2](cs_02_a_information_types_and_handling.md#2-determination-of-classification) (*Determination of classification* — most-restrictive applicable protections).
-- Read with: [Public Oversight Baseline Disclosure](../core_05defs_oversight.md#public-oversight-baseline-disclosure); [Charter](../core_05defs_continuity.md#charter); [System Boundaries](../core_05defs_continuity.md#system-boundaries); [Chapter Seven §4](../core_07_a_system_alignment_certification_evaluation.md#4-data-types-and-handling-evaluation) (*Data Types and Handling Evaluation*); [Chapter Seven Part B §11](../core_07_b_system_alignment_certification_record_process.md#11-certification-record) (*Certification record*); [Transparency](../core_05defs_oversight.md#transparency); **Article XV** (*Audit, Transparency, and Independent Verification*).
+- Read with: [Public Oversight Baseline Disclosure](../core_05_band_oversight.md#public-oversight-baseline-disclosure); [Charter](../core_05_band_continuity.md#charter); [System Boundaries](../core_05_band_continuity.md#system-boundaries); [System Alignment Certification](../core_05_band_continuity.md#system-alignment-certification-constitutional); [System Certification Record](../core_05_band_continuity.md#system-certification-record-constitutional); [System Classification Record](../core_05_band_continuity.md#system-classification-record-constitutional); [System Data Types Record](../core_05_band_continuity.md#system-data-types-record-constitutional); [Chapter Seven §4](../core_07_a_system_alignment_certification_evaluation.md#4-data-types-and-handling-evaluation) (*Data Types and Handling Evaluation*); [Chapter Seven Part B §11](../core_07_b_system_alignment_certification_record_process.md#11-certification-record) (*Certification record*); [Transparency](../core_05defs_oversight.md#transparency); **Article XV** (*Audit, Transparency, and Independent Verification*).
 
 </details>
 

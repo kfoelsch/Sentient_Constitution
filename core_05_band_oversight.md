@@ -697,50 +697,72 @@ See [Joint invocation and satisfaction](core_05__definitions_home.md#joint-invoc
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Cluster component: [Def.O1 *Transparency, Auditability, and Verification*](core_05_band_oversight.md#transparency-auditability-and-verification-cluster).
-- Downstream: **[CS-2 Part A §7](corpus_systems/cs_02_a_information_types_and_handling.md#7-type-o-baseline-for-class-abc-systems)** (*Type O baseline for Class A/B/C systems*); [Chapter Seven §4](core_07_a_system_alignment_certification_evaluation.md#4-data-types-and-handling-evaluation) (*Data Types and Handling Evaluation*); [Chapter Seven Part B §11](core_07_b_system_alignment_certification_record_process.md#11-certification-record) (*Certification record*); [Chapter Seven Part B §12](core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*Transparency, auditability, and contestability*).
-- Read with: [Transparency](core_05_band_oversight.md#transparency), [Contestability](core_05_band_accountability.md#contestability), [Auditability](core_05_band_oversight.md#auditability), [Charter](core_05_band_continuity.md#charter), [System Boundaries](core_05_band_continuity.md#system-boundaries), [Classification-Scaled Governance](core_05_band_oversight.md#classification-scaled-governance), and **[corpus_systems.md](corpus_systems.md), CS-2 — Information types and handling** (**Type O**).
+- Downstream: **[CS-2 Part A §7](corpus_systems/cs_02_a_information_types_and_handling.md#7-type-o-baseline-for-class-abc-systems)** (*Type O baseline for Class A/B/C systems*); **[CS-2 Part B — Type O](corpus_systems/cs_02_b_data_classifications.md#type-o-open-public-baseline-disclosure-data)** (*typing and O/E/G relationship*); [Chapter Seven §4](core_07_a_system_alignment_certification_evaluation.md#4-data-types-and-handling-evaluation) (*Data Types and Handling Evaluation*); [Chapter Seven Part B §11](core_07_b_system_alignment_certification_record_process.md#11-certification-record) (*Certification record*); [Chapter Seven Part B §12](core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*Transparency, auditability, and contestability*).
+- Read with: [Transparency](core_05_band_oversight.md#transparency), [Contestability](core_05_band_accountability.md#contestability), [Auditability](core_05_band_oversight.md#auditability), [Risk Disclosure](core_05_band_oversight.md#risk-disclosure), [Charter](core_05_band_continuity.md#charter), [System Boundaries](core_05_band_continuity.md#system-boundaries), [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional), [System Certification Record](core_05_band_continuity.md#system-certification-record-constitutional), [System Classification Record](core_05_band_continuity.md#system-classification-record-constitutional), [System Data Types Record](core_05_band_continuity.md#system-data-types-record-constitutional), [Classification-Scaled Governance](core_05_band_oversight.md#classification-scaled-governance), and **[corpus_systems.md](corpus_systems.md), CS-2 — Information types and handling** (**Type O**).
 
 </details>
 
 <br>
 
-*In plain terms: the minimum public disclosure high-impact systems must publish so people can understand, oversee, and challenge them — including a strong public substitute when raw private or non-baseline records cannot be released.*
+*In plain terms: the minimum public disclosure high-impact systems must publish so people can understand, oversee, and challenge them — including purpose, class, dependencies, status, risk, performance, failures, governance, stakeholder effects, constitutional alignment, and the public face of the Charter, classification, data-typing, and certification records — with a strong public substitute when raw private or non-baseline records cannot be released.*
 
 - **What it is**
   - **In scope:** The required public disclosure floor so people can oversee and challenge materially impactful systems — especially **Class A**, **Class B**, and **Class C** under **[corpus_systems.md](corpus_systems.md), CS-3 — System classification and handling**. Coverage follows the governing [Charter](core_05_band_continuity.md#charter) (or equivalent published scope instrument), assigned class, and observed [System Boundaries](core_05_band_continuity.md#system-boundaries). It includes what people need to understand:
-    - what the system does;
+    - purpose and what the system does;
     - how it is classified;
-    - what depends on it;
-    - how it is running;
-    - what can go wrong; and
+    - dependency structure and what depends on it;
+    - operational status and how it is running;
+    - material risks, performance, and failures;
+    - how it is governed and material audit outcomes;
+    - stakeholder effects; and
     - how aligned it is with this Constitution.
-    Lawful public substitutes stay in scope where **Type G**, **Type E**, or other source records stay non-public, non-baseline, or otherwise restricted, including:
+  - **Class A/B/C Type O instruments:** Where the **Type O** baseline applies for **Class A**, **Class B**, or **Class C**, that floor includes — at public-baseline fidelity, including lawful substitutes — publication or a usable public view of:
+    - the governing [Charter](core_05_band_continuity.md#charter) (or equivalent published scope instrument);
+    - the [System Classification Record](core_05_band_continuity.md#system-classification-record-constitutional);
+    - the [System Data Types Record](core_05_band_continuity.md#system-data-types-record-constitutional); and
+    - the [System Certification Record](core_05_band_continuity.md#system-certification-record-constitutional) produced by [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional), including material governance and audit outcomes required for baseline visibility.
+  - **Topic satisfaction:** Baseline visibility into purpose, operational status, material risk, performance, failures, and stakeholder effects may be satisfied through those records, [Risk Disclosure](core_05_band_oversight.md#risk-disclosure) where systemic risk is in scope, and other lawful **Type O** summaries or substitutes — not by omitting the topics.
+  - **Lawful substitutes:** Stay in scope where **Type G**, **Type E**, or other source records stay non-public, non-baseline, or otherwise restricted, including:
     - aggregation;
     - de-identification;
     - summary or delayed disclosure; and
     - comparable artifacts.
-    Systems-layer typing, substitute mechanics, and holding-back limits are owned by **[corpus_systems.md](corpus_systems.md), CS-2 — Information types and handling** as **Type O**.
+  - **Type O / Type E / Type G relationship:**
+    - This disclosure floor is typed and handled as **Type O**.
+    - **Type E** holds survival- and coordination-critical content streams; **Type G** holds audit-accessible governance and operational source that is not public by default.
+    - Neither **Type E** nor **Type G** is itself the public floor.
+    - Published baseline artifacts drawn from them — including substitutes — are **Type O**; underlying streams may remain under their original type.
+    - Systems-layer typing, substitute mechanics, and holding-back limits are owned by **[corpus_systems.md](corpus_systems.md), CS-2 — Information types and handling** as **Type O**.
   - **Out of scope:**
     - structured or qualified audit access treated as a substitute for the public floor;
     - performative summaries that withhold decision-relevant baseline material;
     - paywalled or insider-only distribution of the floor where lawful online publication infrastructure exists for class-appropriate public access; and
-    - raw **Type G**, **Type E**, or other restricted source itself merely because a public substitute was derived from it.
+    - raw **Type G**, **Type E**, or other restricted source records — publishing a public substitute derived from them does not bring those raw records into this disclosure floor.
 <a id="public-oversight-baseline-disclosure-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Oversight measurement family](core_05_apex_oversight_leg.md#oversight-measurement-family) — *Can sentients see, verify, and rely on what systems represent?* Use it here to ask whether the required public disclosure floor is actually published and usable for oversight and challenge — including lawful substitutes where raw records stay restricted.
 
-    **Primary assessment:** Compare published disclosure to certified scope from [Charter](core_05_band_continuity.md#charter), assigned class, and [System Boundaries](core_05_band_continuity.md#system-boundaries). Check that lawful substitutes still support meaningful accountability and [Contestability](core_05_band_accountability.md#contestability), and that free online availability holds where lawful publication infrastructure exists.
-  - **Secondary measure:** [Transparency](core_05_band_oversight.md#transparency), [Contestability](core_05_band_accountability.md#contestability), [Epistemic Integrity](core_05_band_oversight.md#epistemic-integrity), and [Auditability](core_05_band_oversight.md#auditability) — co-measures that can defeat the floor even when some public artifacts exist.
+    **Primary assessment:** Compare published disclosure to certified scope from [Charter](core_05_band_continuity.md#charter), assigned class, and [System Boundaries](core_05_band_continuity.md#system-boundaries). Where the **Type O** baseline applies for a **Class A**, **Class B**, or **Class C** system under **[CS-2 Part A §7](corpus_systems/cs_02_a_information_types_and_handling.md#7-type-o-baseline-for-class-abc-systems)**, confirm:
+    - a usable public view of the [Charter](core_05_band_continuity.md#charter), [System Classification Record](core_05_band_continuity.md#system-classification-record-constitutional), [System Data Types Record](core_05_band_continuity.md#system-data-types-record-constitutional), and [System Certification Record](core_05_band_continuity.md#system-certification-record-constitutional) (or required contents) at public-baseline fidelity;
+    - that purpose, dependency structure, operational status, material risks, performance, failures, governance, audit outcomes, stakeholder effects, and constitutional compliance are each covered at baseline depth;
+    - that lawful substitutes still support meaningful accountability and [Contestability](core_05_band_accountability.md#contestability); and
+    - that free online availability holds where lawful publication infrastructure exists.
+  - **Secondary measure:** [Transparency](core_05_band_oversight.md#transparency), [Contestability](core_05_band_accountability.md#contestability), [Epistemic Integrity](core_05_band_oversight.md#epistemic-integrity), [Auditability](core_05_band_oversight.md#auditability), and [Risk Disclosure](core_05_band_oversight.md#risk-disclosure) — co-measures that can defeat the floor even when some public artifacts exist.
 
     **Secondary assessment:** When checking the primary answer, look for:
     - thin summaries;
     - audit-only substitution;
-    - coverage gaps against certified scope; and
+    - coverage gaps against certified scope;
+    - missing or non-usable public views of required Charter, classification, data-types, or certification records;
+    - missing baseline visibility into performance, failures, stakeholder effects, or material risk; and
     - hold-backs that hide systemic behavior, constitutional violations, material risk, dependency, failure, or externalized cost.
 <a id="public-oversight-baseline-disclosure-c"></a>
 - **What must hold**
   - **Primary failure:** missing or inadequate Public Oversight Baseline Disclosure where the **Type O** baseline for **Class A**, **Class B**, or **Class C** applies under CS-2.
-  - **Secondary failure:** treating non-public **Type G** audit access, paywalls, or performative summaries as satisfying the floor.
+  - **Secondary failure:**
+    - treating non-public **Type G** audit access, paywalls, or performative summaries as satisfying the floor;
+    - omitting a usable public view of the [Charter](core_05_band_continuity.md#charter), [System Classification Record](core_05_band_continuity.md#system-classification-record-constitutional), [System Data Types Record](core_05_band_continuity.md#system-data-types-record-constitutional), or [System Certification Record](core_05_band_continuity.md#system-certification-record-constitutional) where the **Type O** baseline applies for a **Class A**, **Class B**, or **Class C** system under **[CS-2 Part A §7](corpus_systems/cs_02_a_information_types_and_handling.md#7-type-o-baseline-for-class-abc-systems)**; or
+    - omitting baseline visibility into purpose, dependency structure, operational status, material risks, performance, failures, governance, audit outcomes, stakeholder effects, or constitutional compliance.
   - **Tertiary failure:** hold-backs that are not narrow, documented, proportionate, auditable, and challengeable under CS-2 and [Transparency](core_05_band_oversight.md#transparency).
 
 
