@@ -175,11 +175,7 @@ EXPECTED_CLUSTERS: dict[str, list[str]] = {
         "Evaluation Completeness Constraint",
         "Observability",
         "Verifiability",
-        "Verification Accessibility",
-        "Verification Feasibility",
-        "Verification Independence",
-        "Verification Proportionality",
-        "Verification Robustness",
+        "Verification",
     ],
     "#### Def.C4 Trust and Trustworthiness": [
         "Trust",

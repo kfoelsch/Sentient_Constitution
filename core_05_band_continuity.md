@@ -3884,7 +3884,7 @@ See [Joint invocation and satisfaction](core_05__definitions_home.md#joint-invoc
 
 - Constitutional frame: **Continuity** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](core_05_band_oversight.md#materiality-determination).
 - Chapter One basis: §5, §12.1, §8 (see [Chapter Five compass](../core_05__definitions_home.md#chapter-five-compass-and-definition-map) map).
-- Read with: Apply [Transparency](core_05_band_oversight.md#transparency), [Auditability](core_05_band_oversight.md#auditability), [Accountability](core_05_apex_accountability_leg.md#accountability), [Epistemic Integrity](core_05_band_oversight.md#epistemic-integrity), [Incentive Alignment](core_05_band_integrative.md#incentive-alignment), [Dependency](core_05_band_continuity.md#dependency), [Verification Accessibility](#verification-accessibility), and [Psychological Harm](core_05_band_accountability.md#psychological-harm) where materially implicated.
+- Read with: Apply [Transparency](core_05_band_oversight.md#transparency), [Auditability](core_05_band_oversight.md#auditability), [Accountability](core_05_apex_accountability_leg.md#accountability), [Epistemic Integrity](core_05_band_oversight.md#epistemic-integrity), [Incentive Alignment](core_05_band_integrative.md#incentive-alignment), [Dependency](core_05_band_continuity.md#dependency), [Verification Accessibility](core_05_band_oversight.md#verification-accessibility), and [Psychological Harm](core_05_band_accountability.md#psychological-harm) where materially implicated.
 
 </details>
 
@@ -4103,7 +4103,7 @@ See [Joint invocation and satisfaction](core_05__definitions_home.md#joint-invoc
       - [Contestability](core_05_band_accountability.md#contestability);
       - [Auditability](core_05_band_oversight.md#auditability);
       - [Verifiability](core_05_band_oversight.md#verifiability);
-      - [Verification Accessibility](#verification-accessibility);
+      - [Verification Accessibility](core_05_band_oversight.md#verification-accessibility);
       - [Dependency](core_05_band_continuity.md#dependency);
       - [Systemic Lock-In](core_05_band_continuity.md#systemic-lock-in);
       - [Coercion and Manipulation](core_05_band_participation.md#coercion-and-manipulation-constitutional); and
