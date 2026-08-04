@@ -171,7 +171,6 @@ EXPECTED_CLUSTERS: dict[str, list[str]] = {
         "Risk Disclosure",
         "Auditability",
         "Evidence Preservation",
-        "Audit Scope Sufficiency",
         "Evaluation Completeness Constraint",
         "Observability",
         "Verifiability",

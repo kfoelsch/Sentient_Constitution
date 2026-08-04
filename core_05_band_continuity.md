@@ -279,6 +279,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
        - scope;
        - the [System Classification Record](core_05_band_continuity.md#system-classification-record-constitutional) (or its required dual-axis contents) under CS-3 and [Chapter Seven §2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation);
        - the [System Data Types Record](core_05_band_continuity.md#system-data-types-record-constitutional) (or its required contents) under CS-2 and [Chapter Seven §4](core_07_a_system_alignment_certification_evaluation.md#4-data-types-and-handling-evaluation);
+       - risk-evaluation and risk-disclosure findings where systemic risk is in scope under [Chapter Seven §3.1](core_07_a_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors) — stated on this record, not as a separate named risk-disclosure record;
        - ecological footprint evaluation where material;
        - cross-system resource stewardship evaluation under [Chapter Seven §6](core_07_a_system_alignment_certification_evaluation.md#6-proportionate-cross-system-support-evaluation) where the **Article IV** (*Resource Allocation, Dependencies, and Ecosystem Funding*) materiality trigger applies;
        - technical and stakeholder review components;
@@ -551,9 +552,9 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Flourishing measurement family (*Safety, harm, and risk as constitutional measurement*); Principles: [4.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint) and [Chapter Seven §3 Whole-System Certification Evaluation](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Downstream: Flourishing measurement family (*Safety, harm, and risk as constitutional measurement*); Principles: [4.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint); [Chapter Seven §3.1 Systemic Scope and Risk Factors](core_07_a_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors) (*SAC risk-evaluation half of the evaluation-and-disclosure bridge*); [Chapter Seven Part B §11.1](core_07_b_system_alignment_certification_record_process.md#111-minimum-record-contents) (*findings on the System Certification Record*).
 - Cluster component: [Chapter Five *Resilience, Safety, Reversibility, Self-Healing, Cascading Failure, Existential Risk, Environmental Preconditions, and Wellbeing*](core_05_band_continuity.md#resilience-safety-reversibility-self-healing-and-systemic-harm-cluster)
-- Read with: [Risk](core_05_band_continuity.md#risk), [Dependency](core_05_band_continuity.md#dependency), [Safety (Constraint)](core_05_band_continuity.md#safety-constraint), [Adversarial, Scaled, and Exploited Conditions](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions), [Material Risk](core_05_band_oversight.md#material-risk), [Foreseeability Diligence](core_05_band_oversight.md#foreseeability-diligence), and [Risk Disclosure](core_05_band_oversight.md#risk-disclosure).
+- Read with: [Risk](core_05_band_continuity.md#risk), [Dependency](core_05_band_continuity.md#dependency), [Safety (Constraint)](core_05_band_continuity.md#safety-constraint), [Adversarial, Scaled, and Exploited Conditions](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions), [Material Risk](core_05_band_oversight.md#material-risk), [Foreseeability Diligence](core_05_band_oversight.md#foreseeability-diligence), [Risk Disclosure](core_05_band_oversight.md#risk-disclosure), and [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional).
 
 </details>
 

@@ -2,10 +2,10 @@
 
 Auto-generated. Do not edit by hand.
 
-Generated: 2026-08-04T12:07:24+00:00
+Generated: 2026-08-04T18:16:35+00:00
 
 Grouped by Preamble measurement category. **Approved** terms must carry `*Measurements:*` and tier-aligned **E**/**C** per [doc_architecture.md](../doc_architecture.md) MEAS-DEF-01.
-Approved progress: **221/222** terms pass tier audit.
+Approved progress: **220/221** terms pass tier audit.
 
 
 ## 3.2 Flourishing
@@ -142,7 +142,6 @@ Approved progress: **221/222** terms pass tier audit.
 | Term | Status | Tier depth | Aim role | File | Has measurements | Audit |
 | --- | --- | --- | --- | --- | --- | --- |
 | Adversarial, Scaled, and Exploited Conditions | approved | primary_only | independent | `core_05_band_oversight.md` | yes | pass |
-| Audit Scope Sufficiency | approved | primary_only | cluster_member | `core_05_band_oversight.md` | yes | pass |
 | Auditability | approved | full | cluster_member | `core_05_band_oversight.md` | yes | pass |
 | Authority Stack and Internal Hierarchy | approved | primary_only | cluster_member | `core_05_band_integrative.md` | yes | pass |
 | Capability Requirement | approved | primary_only | cluster_member | `core_05_band_oversight.md` | yes | pass |

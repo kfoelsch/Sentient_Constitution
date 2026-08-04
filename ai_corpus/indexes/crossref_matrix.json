@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-08-04T12:07:01+00:00",
+  "generated_at": "2026-08-04T18:25:17+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -2256,10 +2256,9 @@
           },
           {
             "file": "core_05_band_oversight.md",
-            "count": 43,
+            "count": 42,
             "anchors": [
               "#adversarial-scaled-and-exploited-conditions",
-              "#audit-scope-sufficiency",
               "#auditability",
               "#capability-requirement",
               "#classification-scaled-governance",
@@ -3529,7 +3528,7 @@
           },
           {
             "file": "core_05_band_continuity.md",
-            "count": 663,
+            "count": 664,
             "anchors": [
               "#anti-displacement-floor-constitutional",
               "#avoidable-burden",
@@ -3620,7 +3619,7 @@
           },
           {
             "file": "core_05_band_oversight.md",
-            "count": 196,
+            "count": 198,
             "anchors": [
               "#adversarial-scaled-and-exploited-conditions",
               "#auditability",
@@ -3638,7 +3637,8 @@
               "#risk-disclosure",
               "#transparency",
               "#truth-constitutional-constraint",
-              "#verifiability"
+              "#verifiability",
+              "#verification-accessibility"
             ]
           },
           {
@@ -3734,10 +3734,11 @@
           },
           {
             "file": "core_07_a_system_alignment_certification_evaluation.md",
-            "count": 38,
+            "count": 39,
             "anchors": [
               "#2-system-class-evaluation",
               "#3-whole-system-certification-evaluation",
+              "#31-systemic-scope-and-risk-factors",
               "#36-time-consistency-constraint",
               "#4-data-types-and-handling-evaluation",
               "#5-ecological-footprint-evaluation",
@@ -3747,7 +3748,7 @@
           },
           {
             "file": "core_07_b_system_alignment_certification_record_process.md",
-            "count": 13,
+            "count": 14,
             "anchors": [
               "#11-certification-record",
               "#111-minimum-record-contents",
@@ -4090,10 +4091,11 @@
           },
           {
             "file": "core_01_b_interaction_interpretation.md",
-            "count": 8,
+            "count": 9,
             "anchors": [
               "#61-core-tradeoff-principles",
               "#611-proportionality",
+              "#62-epistemic-disclosure-constraints",
               "#621-preservation-of-epistemic-integrity",
               "#632-proxy-divergence-invalidation"
             ]
@@ -4134,22 +4136,17 @@
           },
           {
             "file": "core_05_apex_oversight_leg.md",
-            "count": 54,
+            "count": 41,
             "anchors": [
               "#6-process-conflict-resolution",
               "#oversight-constitutional",
               "#oversight-measurement-family",
-              "#oversight-tetrad-leg-decomposition",
-              "#verification-accessibility",
-              "#verification-feasibility",
-              "#verification-independence",
-              "#verification-proportionality",
-              "#verification-robustness"
+              "#oversight-tetrad-leg-decomposition"
             ]
           },
           {
             "file": "core_05_band_accountability.md",
-            "count": 71,
+            "count": 74,
             "anchors": [
               "#contestability",
               "#feasibility",
@@ -4166,7 +4163,7 @@
           },
           {
             "file": "core_05_band_continuity.md",
-            "count": 116,
+            "count": 140,
             "anchors": [
               "#cascading-failure",
               "#charter",
@@ -4180,6 +4177,9 @@
               "#system-boundaries",
               "#system-boundary-integrity",
               "#system-capture",
+              "#system-certification-record-constitutional",
+              "#system-classification-record-constitutional",
+              "#system-data-types-record-constitutional",
               "#systemic-materiality",
               "#wellbeing"
             ]
@@ -4194,10 +4194,9 @@
           },
           {
             "file": "core_05_band_oversight.md",
-            "count": 261,
+            "count": 308,
             "anchors": [
               "#adversarial-scaled-and-exploited-conditions",
-              "#audit-scope-sufficiency",
               "#auditability",
               "#classification-scaled-governance",
               "#epistemic-integrity",
@@ -4230,7 +4229,13 @@
               "#transparency",
               "#transparency-auditability-and-verification-cluster",
               "#truth-constitutional-constraint",
-              "#verifiability"
+              "#verifiability",
+              "#verification",
+              "#verification-accessibility",
+              "#verification-feasibility",
+              "#verification-independence",
+              "#verification-proportionality",
+              "#verification-robustness"
             ]
           },
           {
@@ -4255,31 +4260,40 @@
           },
           {
             "file": "core_07_a_system_alignment_certification_evaluation.md",
-            "count": 12,
+            "count": 14,
             "anchors": [
               "#3-whole-system-certification-evaluation",
+              "#31-systemic-scope-and-risk-factors",
               "#4-data-types-and-handling-evaluation",
               "#chapter-seven-system-alignment-certification"
             ]
           },
           {
             "file": "core_07_b_system_alignment_certification_record_process.md",
-            "count": 2,
+            "count": 3,
             "anchors": [
               "#11-certification-record",
+              "#111-minimum-record-contents",
               "#12-transparency-auditability-and-contestability"
             ]
           },
           {
             "file": "corpus_systems.md",
-            "count": 9,
+            "count": 8,
             "anchors": []
           },
           {
             "file": "corpus_systems/cs_02_a_information_types_and_handling.md",
-            "count": 1,
+            "count": 3,
             "anchors": [
               "#7-type-o-baseline-for-class-abc-systems"
+            ]
+          },
+          {
+            "file": "corpus_systems/cs_02_b_data_classifications.md",
+            "count": 1,
+            "anchors": [
+              "#type-o-open-public-baseline-disclosure-data"
             ]
           }
         ]
@@ -4677,7 +4691,7 @@
         "targets": [
           {
             "file": "core_00_preamble.md",
-            "count": 25,
+            "count": 26,
             "anchors": [
               "#constitutional-owner-register",
               "#constitutional-tetrad",
@@ -4745,7 +4759,7 @@
           },
           {
             "file": "core_05_band_continuity.md",
-            "count": 68,
+            "count": 78,
             "anchors": [
               "#charter",
               "#dependency",
@@ -4758,7 +4772,9 @@
               "#proportionate-cross-system-support-constitutional",
               "#reversibility-constitutional",
               "#risk",
+              "#risk-evaluation",
               "#safe-conditions-constitutional",
+              "#safety-constraint",
               "#sustainability",
               "#system-alignment-certification-constitutional",
               "#system-boundaries",
@@ -4781,13 +4797,15 @@
           },
           {
             "file": "core_05_band_oversight.md",
-            "count": 26,
+            "count": 35,
             "anchors": [
+              "#adversarial-scaled-and-exploited-conditions",
               "#auditability",
               "#epistemic-integrity",
               "#material-impact",
               "#materiality-determination",
               "#public-oversight-baseline-disclosure",
+              "#risk-disclosure",
               "#transparency"
             ]
           },
@@ -4837,7 +4855,7 @@
           },
           {
             "file": "core_07_b_system_alignment_certification_record_process.md",
-            "count": 72,
+            "count": 74,
             "anchors": [
               "#11-certification-record",
               "#111-minimum-record-contents",
@@ -4960,11 +4978,12 @@
           },
           {
             "file": "core_05_band_continuity.md",
-            "count": 16,
+            "count": 17,
             "anchors": [
               "#charter",
               "#ecological-footprint",
               "#proportionate-cross-system-support-constitutional",
+              "#risk-evaluation",
               "#safe-conditions-constitutional",
               "#system-certification-record-constitutional",
               "#system-classification-record-constitutional",
@@ -4981,7 +5000,7 @@
           },
           {
             "file": "core_05_band_oversight.md",
-            "count": 21,
+            "count": 22,
             "anchors": [
               "#auditability",
               "#auditability-a",
@@ -4989,6 +5008,7 @@
               "#epistemic-integrity",
               "#evidence-preservation",
               "#public-oversight-baseline-disclosure",
+              "#risk-disclosure",
               "#transparency",
               "#transparency-a",
               "#transparency-auditability-and-verification-cluster",
@@ -5019,13 +5039,14 @@
           },
           {
             "file": "core_07_a_system_alignment_certification_evaluation.md",
-            "count": 80,
+            "count": 85,
             "anchors": [
               "#1-purpose-and-role",
               "#10-trustworthiness-and-system-reliance-integrity-evaluation",
               "#2-system-class-evaluation",
               "#21-illustrative-class-profiles-non-exhaustive",
               "#3-whole-system-certification-evaluation",
+              "#31-systemic-scope-and-risk-factors",
               "#4-data-types-and-handling-evaluation",
               "#5-ecological-footprint-evaluation",
               "#6-proportionate-cross-system-support-evaluation",
@@ -10026,7 +10047,7 @@
           },
           {
             "file": "core_05_band_continuity.md",
-            "count": 50,
+            "count": 53,
             "anchors": [
               "#cascading-failure",
               "#cascading-failure-a",
@@ -10037,6 +10058,9 @@
               "#reversibility-constitutional",
               "#reversibility-constitutional-a",
               "#reversibility-constitutional-c",
+              "#system-certification-record-constitutional",
+              "#system-classification-record-constitutional",
+              "#system-data-types-record-constitutional",
               "#system-definition",
               "#system-definition-a",
               "#system-definition-c",
@@ -10670,17 +10694,22 @@
         "targets": [
           {
             "file": "core_05_band_continuity.md",
-            "count": 4,
+            "count": 13,
             "anchors": [
               "#charter",
-              "#system-boundaries"
+              "#system-alignment-certification-constitutional",
+              "#system-boundaries",
+              "#system-certification-record-constitutional",
+              "#system-classification-record-constitutional",
+              "#system-data-types-record-constitutional"
             ]
           },
           {
             "file": "core_05_band_oversight.md",
-            "count": 17,
+            "count": 18,
             "anchors": [
               "#public-oversight-baseline-disclosure",
+              "#risk-disclosure",
               "#transparency"
             ]
           },
@@ -15612,18 +15641,17 @@
           },
           {
             "file": "core_05_band_integrative.md",
-            "count": 17,
+            "count": 13,
             "anchors": [
               "#corpus",
               "#corpus-a",
               "#corpus-c",
-              "#sentient-composite-c",
-              "#verification-accessibility"
+              "#sentient-composite-c"
             ]
           },
           {
             "file": "core_05_band_oversight.md",
-            "count": 147,
+            "count": 151,
             "anchors": [
               "#auditability",
               "#auditability-a",
@@ -15643,6 +15671,7 @@
               "#verifiability",
               "#verifiability-a",
               "#verifiability-c",
+              "#verification-accessibility",
               "#verification-accessibility-a",
               "#verification-accessibility-c"
             ]

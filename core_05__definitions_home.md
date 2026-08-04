@@ -98,7 +98,6 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 - [Anti-Constitutional Misconduct Review](core_05_band_accountability.md#anti-constitutional-misconduct-review)
 - [Anti-Displacement Floor](core_05_band_continuity.md#anti-displacement-floor-constitutional)
 - [Assembly](core_05_band_participation.md#assembly-constitutional)
-- [Audit Scope Sufficiency](core_05_band_oversight.md#audit-scope-sufficiency)
 - [Auditability](core_05_band_oversight.md#auditability)
 - [Authority Stack and Internal Hierarchy](core_05_band_integrative.md#authority-stack)
 - [Autonomous Coercion Tool](core_05_band_accountability.md#autonomous-coercion-tool-constitutional)
