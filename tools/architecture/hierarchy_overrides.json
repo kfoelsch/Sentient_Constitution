@@ -85,41 +85,41 @@
     "Flourishing": {
       "aim_role": "aim_head",
       "primary_aim": "Flourishing",
-      "canonical_file": "core_05apex_flourishing_aim.md",
+      "canonical_file": "core_05_apex_flourishing_aim.md",
       "ch00_measurement": ["3.2 Flourishing"]
     },
     "Continuity (Constitutional Aim)": {
       "aim_role": "aim_head",
       "primary_aim": "Continuity",
-      "canonical_file": "core_05apex_continuity_aim.md",
+      "canonical_file": "core_05_apex_continuity_aim.md",
       "ch00_measurement": ["3.3 Continuity"]
     },
     "Participation": {
       "aim_role": "tetrad_leg_head",
       "primary_aim": "Flourishing",
       "tetrad_leg": "Participation",
-      "canonical_file": "core_05apex_participation_leg.md",
+      "canonical_file": "core_05_apex_participation_leg.md",
       "ch00_measurement": ["3.4 Participation"]
     },
     "Oversight": {
       "aim_role": "tetrad_leg_head",
       "primary_aim": "Flourishing",
       "tetrad_leg": "Oversight",
-      "canonical_file": "core_05apex_oversight_leg.md",
+      "canonical_file": "core_05_apex_oversight_leg.md",
       "ch00_measurement": ["3.5 Oversight"]
     },
     "Accountability": {
       "aim_role": "tetrad_leg_head",
       "primary_aim": "cross-cutting",
       "tetrad_leg": "Accountability",
-      "canonical_file": "core_05apex_accountability_leg.md",
+      "canonical_file": "core_05_apex_accountability_leg.md",
       "ch00_measurement": ["3.6 Accountability"]
     },
     "Timeliness": {
       "aim_role": "tetrad_leg_head",
       "primary_aim": "cross-cutting",
       "tetrad_leg": "Timeliness",
-      "canonical_file": "core_05apex_timeliness_leg.md",
+      "canonical_file": "core_05_apex_timeliness_leg.md",
       "ch00_measurement": ["3.7 Timeliness"]
     },
     "Truth (Constitutional Constraint)": {
@@ -154,6 +154,11 @@
       "ch00_measurement": ["3.2 Flourishing"]
     },
     "Risk": {
+      "aim_role": "measurement_family_member",
+      "primary_aim": "cross-cutting",
+      "ch00_measurement": ["3.2 Flourishing", "3.3 Continuity"]
+    },
+    "Risk Evaluation": {
       "aim_role": "measurement_family_member",
       "primary_aim": "cross-cutting",
       "ch00_measurement": ["3.2 Flourishing", "3.3 Continuity"]

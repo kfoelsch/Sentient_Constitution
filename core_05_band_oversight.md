@@ -97,7 +97,11 @@ This band holds definitions under the **Oversight** Tetrad leg — transparency,
 - **How to measure and assess**
   - **Primary measure:** [Oversight measurement family](core_05_apex_oversight_leg.md#oversight-measurement-family) — *Can sentients see, verify, and rely on what systems represent?* Use it here to ask whether claimed capability is demonstrated in practice — not only declared in design or documentation.
 
-    **Primary assessment:** Judge capability by what the system actually does — not by design docs, plans, or intended behavior. That proof must be clear enough for [Transparency](core_05_band_oversight.md#transparency) and for outsiders to evaluate [Material Impact](core_05_band_oversight.md#material-impact).
+    **Primary assessment:** Judge capability by what the system actually does — not by:
+    - design docs;
+    - plans; or
+    - intended behavior.
+    That proof must be clear enough for [Transparency](core_05_band_oversight.md#transparency) and for outsiders to evaluate [Material Impact](core_05_band_oversight.md#material-impact).
 <a id="capability-requirement-c"></a>
 - **What must hold**
   - The system must demonstrably achieve the specified outcome in practice within auditable [System Boundaries](core_05_band_continuity.md#system-boundaries).
@@ -124,7 +128,11 @@ This band holds definitions under the **Oversight** Tetrad leg — transparency,
 *In plain terms: bigger stake means harder oversight — how closely a system is watched and checked must match how much it actually matters, not a convenient low label.*
 
 - **What it is**
-  - **In scope:** How hard [oversight](core_05_apex_oversight_leg.md#oversight-constitutional), verification, and process discipline must be — scaled to [material stake](core_00_preamble.md#material-stake) ([material impact](core_05_band_oversight.md#material-impact), [dependency](core_05_band_continuity.md#dependency), and [risk](core_05_band_continuity.md#risk)). The system's class under *[corpus_systems.md](corpus_systems.md)*, CS-3 — System classification and handling, and related rules sets that intensity.
+  - **In scope:** How hard [oversight](core_05_apex_oversight_leg.md#oversight-constitutional), verification, and process discipline must be — scaled to [material stake](core_00_preamble.md#material-stake), covering:
+    - [material impact](core_05_band_oversight.md#material-impact);
+    - [dependency](core_05_band_continuity.md#dependency); and
+    - [risk](core_05_band_continuity.md#risk).
+    The system's class under *[corpus_systems.md](corpus_systems.md)*, CS-3 — System classification and handling, and related rules sets that intensity.
   - **Out of scope:** One-size-fits-all oversight, or a class label that understates the system's real stake, impact, dependency, or risk.
 <a id="classification-scaled-governance-a"></a>
 - **How to measure and assess**
@@ -158,39 +166,28 @@ This band holds definitions under the **Oversight** Tetrad leg — transparency,
 *In plain terms: journalism is what people do — gathering news, protecting sources, investigating, and publishing — not a badge, title, or press pass. Actions meant to shut that down get heightened scrutiny.*
 
 - **What it is**
-  - **In scope:** Journalistic activity — newsgathering, source protection, investigation, and publication that functions as journalism — judged by what people actually do, not by credentials or institutional status. Sentients doing that work exercise the [Expression](core_05_band_participation.md#expression-constitutional) and [Assembly](core_05_band_participation.md#assembly-constitutional) Rights-Floor, with heightened-scrutiny protection under [Article V-H](core_06-06_rights_part_b.md#article-v-h-expression-assembly-and-press) (*Expression, Assembly, and Press*) against state and operator actions meant to impair that activity.
+  - **In scope:** Journalistic activity that functions as journalism — judged by what people actually do, not by credentials or institutional status — including:
+    - newsgathering;
+    - source protection;
+    - investigation; and
+    - publication.
+    Sentients doing that work exercise the [Expression](core_05_band_participation.md#expression-constitutional) and [Assembly](core_05_band_participation.md#assembly-constitutional) Rights-Floor, with heightened-scrutiny protection under [Article V-H](core_06-06_rights_part_b.md#article-v-h-expression-assembly-and-press) (*Expression, Assembly, and Press*) against state and operator actions meant to impair that activity.
   - **Out of scope:** Press credentials, institutional titles, or ordinary commercial speech treated as journalism without newsgathering, investigation, or publication that functions as journalism.
 <a id="press-and-journalistic-activity-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Oversight measurement family](core_05_apex_oversight_leg.md#oversight-measurement-family) — *Can sentients see, verify, and rely on what systems represent?* Use it here to ask whether journalistic function and press-directed impairment remain visible and contestable — not hidden behind credential, title, or institutional status.
 
-    **Primary assessment:** Ask what the activity actually does — newsgathering, source protection, investigation, or publication that serves the information environment — not what badge, title, org form, or institution someone holds. Spot actions that impair the press by their real effect, and treat press-directed character as an aggravating factor under **Article XIII-A** (*Security, Intelligence, and Covert-Power Limits*) and **Article V-H** (*Expression, Assembly, and Press*). Apply heightened [Necessity](core_05_band_accountability.md#necessity) and [Proportionality](core_05_band_accountability.md#proportionality) scrutiny, and keep any limit narrowly tailored.
+    **Primary assessment:** Ask what the activity actually does — not what badge, title, org form, or institution someone holds — covering:
+    - newsgathering;
+    - source protection;
+    - investigation; or
+    - publication that serves the information environment.
+    Spot actions that impair the press by their real effect, and treat press-directed character as an aggravating factor under **Article XIII-A** (*Security, Intelligence, and Covert-Power Limits*) and **Article V-H** (*Expression, Assembly, and Press*). Apply heightened [Necessity](core_05_band_accountability.md#necessity) and [Proportionality](core_05_band_accountability.md#proportionality) scrutiny, and keep any limit narrowly tailored.
 <a id="press-and-journalistic-activity-constitutional-c"></a>
 - **What must hold**
   - **Primary failure:** state or operator actions meant to impair journalistic activity that fail heightened-scrutiny limits analysis;
   - **Secondary failure:** stretching [Good Faith](core_05_band_accountability.md#good-faith) or **Article VIII-C** (*Truthful Publication and High-Impact Publication Limits*) so those standards block lawful critical reporting, investigative publication, or dissent;
   - **Tertiary failure:** treating credentials or institutional status as the test, instead of whether the activity actually functions as journalism.
-
----
-
-#### Risk Evaluation and Disclosure
-
-*In plain terms: actually evaluate systemic risk and tell the people who need to know — a checklist in a drawer does not count.*
-
-- **What it is**
-  - **In scope:** Evaluating systemic risk and communicating it to those who need it.
-  - **Out of scope:** A risk checklist, an internal-only note, or an after-the-fact statement that does not actually evaluate and communicate systemic risk to those who need it.
-<a id="risk-evaluation-and-disclosure-a"></a>
-- **How to measure and assess**
-  - **Primary measure:** [Oversight measurement family](core_05_apex_oversight_leg.md#oversight-measurement-family) — *Can sentients see, verify, and rely on what systems represent?* Use it here to ask whether systemic risk is actually evaluated and communicated to those who need it — including dependency, time horizons, and adversarial or scaled conditions.
-
-    **Primary assessment:** Include:
-    - [Dependency](core_05_band_continuity.md#dependency);
-    - time horizons; and
-    - [Adversarial, Scaled, and Exploited Conditions](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions).
-<a id="risk-evaluation-and-disclosure-c"></a>
-- **What must hold**
-  - **Primary failure:** failing to disclose or constrain risk where [Transparency](core_05_band_oversight.md#transparency) or [Safety (Constraint)](core_05_band_continuity.md#safety-constraint) requires it.
 
 ---
 
@@ -200,27 +197,24 @@ This band holds definitions under the **Oversight** Tetrad leg — transparency,
 
 #### Materiality, impact, risk, and proxy integrity
 
-**Semi-independent context** (component definitions may still operate outside joint-invocation scope): This topic group answers two questions — when do effects matter enough constitutionally, and do the metrics still track reality? [Material](core_05_band_oversight.md#material), [Material Impact](core_05_band_oversight.md#material-impact), [Material Risk](core_05_band_oversight.md#material-risk), and [Material Degradation](core_05_band_oversight.md#material-degradation) set how big, severe, or risky something is. [Materiality Determination](core_05_band_oversight.md#materiality-determination) is the method for classifying that. [Materiality Integrity Constraint](core_05_band_oversight.md#materiality-integrity-constraint) bars gaming boundaries to shrink the picture. [Materiality Under Uncertainty](core_05_band_oversight.md#materiality-under-uncertainty) defaults to caution when the answer is unclear. [Proxy Divergence](core_05_band_oversight.md#proxy-divergence) flags when a metric no longer matches reality, and [Proxy Metric Gaming and Indicator-Reality Gaps](core_05_band_oversight.md#proxy-metric-gaming-and-indicator-reality-gaps) covers cooking the score while conditions worsen. Evaluation must rest on real effects — not on manipulable proxies.
+**Semi-independent context** (component definitions may still operate outside joint-invocation scope): This topic group answers two questions — when do effects matter enough constitutionally, and do the metrics still track reality? Evaluation must rest on real effects — not on manipulable proxies.
+- [Material](core_05_band_oversight.md#material) — whether effects are big enough to matter constitutionally.
+- [Materiality Determination](core_05_band_oversight.md#materiality-determination) — the method for classifying that, for systems or events.
+- [Materiality Integrity Constraint](core_05_band_oversight.md#materiality-integrity-constraint) — bars gaming boundaries to shrink the picture.
+- [Material Impact](core_05_band_oversight.md#material-impact) — how far, how large, and how severe the effects are.
+- [Material Risk](core_05_band_oversight.md#material-risk) — how likely, how fast, and how hard to undo the harm may be.
+- [Materiality Under Uncertainty](core_05_band_oversight.md#materiality-under-uncertainty) — defaults to caution when the answer is unclear.
+- [Proxy Divergence](core_05_band_oversight.md#proxy-divergence) — flags when a metric no longer matches reality, including when the score is cooked while conditions worsen.
+- [Material Degradation](core_05_band_oversight.md#material-degradation) — a real drop in a protected condition such as safety, epistemic integrity, or meaningful agency.
 
 <a id="materiality-operator-phrases"></a>
 
-**Operator phrases** (owned under [Materiality Determination](core_05_band_oversight.md#materiality-determination); used corpus-wide):
+**Operator phrases** (corpus-wide reading aids owned with [Materiality Determination](core_05_band_oversight.md#materiality-determination)):
 
-- **[materially implicated](core_05_band_oversight.md#materially-implicated)** — this duty, measure, or topic is *on the table* for the case because the stake is material.
-- **[materially misaligned](core_05_band_oversight.md#materially-misaligned)** / **constitutional misalignment** — conduct or structure is *out of constitutional alignment* at a material scale.
+- <a id="materially-implicated"></a>**materially implicated** — this duty, measure, or topic is *on the table* for the case because the stake is material.
+- <a id="materially-misaligned"></a>**materially misaligned** / **constitutional misalignment** — conduct or structure is *out of constitutional alignment* at a material scale.
 
 Implication can exist without misalignment. Misalignment always implies material implication.
-
-**Topic group members.** This group comprises:
-- [Material](core_05_band_oversight.md#material);
-- [Materiality Determination](core_05_band_oversight.md#materiality-determination);
-- [Materiality Integrity Constraint](core_05_band_oversight.md#materiality-integrity-constraint);
-- [Material Impact](core_05_band_oversight.md#material-impact);
-- [Material Risk](core_05_band_oversight.md#material-risk);
-- [Materiality Under Uncertainty](core_05_band_oversight.md#materiality-under-uncertainty);
-- [Proxy Divergence](core_05_band_oversight.md#proxy-divergence);
-- [Proxy Metric Gaming and Indicator-Reality Gaps](core_05_band_oversight.md#proxy-metric-gaming-and-indicator-reality-gaps);
-- [Material Degradation](core_05_band_oversight.md#material-degradation).
 
 *Measurements (family routing):* Oversight measurement family — operative tiers on the member definitions below; progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md).
 
@@ -251,7 +245,7 @@ Implication can exist without misalignment. Misalignment always implies material
     **Primary assessment:** Ask whether the conditions can produce meaningful [Material Impact](core_05_band_oversight.md#material-impact) or [Material Risk](core_05_band_oversight.md#material-risk) when you look at the whole system, not just a slice.
   - **Secondary measure:** [Material Impact](core_05_band_oversight.md#material-impact), [Material Risk](core_05_band_oversight.md#material-risk), and [Systemic Materiality](core_05_band_accountability.md#systemic-materiality) — co-measures that can defeat material classification when effects are fragmented or understated.
 
-    **Secondary assessment:** When checking the primary answer, look at isolation, aggregation, and [Systemic Materiality](core_05_band_accountability.md#systemic-materiality) paths that would change the classification if judged together.
+    **Secondary assessment:** When checking the primary answer, ask whether effects that look small one by one would still look small if you put them together — including system-wide [Systemic Materiality](core_05_band_accountability.md#systemic-materiality) pathways.
 <a id="material-c"></a>
 - **What must hold**
   - **Primary failure:** ignoring conditions that [Materiality Determination](core_05_band_oversight.md#materiality-determination) would treat as material.
@@ -267,48 +261,60 @@ Implication can exist without misalignment. Misalignment always implies material
 
 - Downstream: Integrative Materiality ([Materiality Determination](core_05_band_oversight.md#materiality-determination)) (*Materiality as constitutional measurement*); Principles: [material stake](core_00_preamble.md#material-stake) scaling proxy; Chapter One surfaces this definition across **Safety** (**Chapter One §8.1**), **Truth** (**Chapter One §8.2**), **Trust** (**§12**), **§12** stewardship and openness passages, **§13.1**, **§13.2**, and **Chapter One §6.3.2** where **Materiality** appears in D/A/C widgets — see [Chapter Seven §3 Whole-System Certification Evaluation](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) as the principal systems-evaluation home.
 - Cluster component: [the dependent cluster *Material Impact, Materiality Determination, Classification-Scaled Governance, Oversight, and Capability Requirement*](core_05_band_oversight.md#materiality-semi-independent).
-- Read with: [Material Impact](core_05_band_oversight.md#material-impact), [Material Risk](core_05_band_oversight.md#material-risk), [Systemic Materiality](core_05_band_accountability.md#systemic-materiality), and [Auditability](core_05_band_oversight.md#auditability).
+- Read with: [Material Impact](core_05_band_oversight.md#material-impact), [Material Risk](core_05_band_oversight.md#material-risk), [Systemic Materiality](core_05_band_continuity.md#systemic-materiality), and [Auditability](core_05_band_oversight.md#auditability).
 
 </details>
 
 <br>
 
-*In plain terms: the method for deciding whether an impact or risk is constitutionally material — big enough in stake to change governance, oversight, or capability requirements — looking at the whole system, not just isolated pieces.*
+*In plain terms: the method for deciding whether an impact or risk is constitutionally material — big enough in stake to change which duties apply — for a system or an event, looking at the connected whole, not just isolated pieces. That includes prospective harm, not only harm that has already happened.*
 
-<a id="materially-implicated"></a>
-<a id="materially-misaligned"></a>
-
-**Operator phrases** (corpus-wide reading aids owned here; see also [cluster note](core_05_band_oversight.md#materiality-operator-phrases)):
-
-- **materially implicated**
-  - **In scope:** A scope trigger — a duty, measure, definition, or topic is *on the table* for the case because [material stake](core_00_preamble.md#material-stake) makes it matter. Example sense: “apply Consent where Consent is materially implicated.”
-  - **Out of scope:** a finding that conduct already fails constitutional alignment; mere topical mention without material stake.
-- **materially misaligned** / **constitutional misalignment**
-  - **In scope:** An alignment finding — conduct or structure is *out of constitutional alignment* at a material scale under the governing duties and aims.
-  - **Out of scope:** ordinary disagreement, sub-threshold friction, or scope-trigger language that only identifies what is in play.
-
-Relationship: a matter can be materially implicated without being materially misaligned. Material misalignment always implies material implication.
-
-- O: Deciding whether [Material Impact](core_05_band_oversight.md#material-impact) or [Material Risk](core_05_band_oversight.md#material-risk) counts as material.
-  - In scope: classification decisions that ask whether [Material Impact](core_05_band_oversight.md#material-impact) or [Material Risk](core_05_band_oversight.md#material-risk) is constitutionally material when you look at the whole system, including [Systemic Materiality](core_05_band_accountability.md#systemic-materiality).
-  - Out of scope: paper-only or immaterial labels that do not actually change governance, oversight, or capability requirements.
-*Measurements:*
-
-- **Primary:** Integrative Materiality ([Materiality Determination](core_05_band_oversight.md#materiality-determination)) — the threshold-and-scaling measure for this term.
-- **Secondary:** [Material Impact](core_05_band_oversight.md#material-impact), [Material Risk](core_05_band_oversight.md#material-risk), [Systemic Materiality](core_05_band_accountability.md#systemic-materiality), and [Dependency](core_05_band_continuity.md#dependency) — co-measures that can defeat a "not material" call when looking only at pieces understates the effects.
-- **Tertiary:** [Proxy Divergence](core_05_band_oversight.md#proxy-divergence) and [Materiality Integrity Constraint](core_05_band_oversight.md#materiality-integrity-constraint) — where boundary games, aggregation avoidance, or proxy metrics defeat honest materiality analysis.
-
+- **What it is**
+  - **In scope:** Classification decisions that ask whether [Material Impact](core_05_band_oversight.md#material-impact) or [Material Risk](core_05_band_oversight.md#material-risk) is constitutionally material for:
+    - a system (including [Systemic Materiality](core_05_band_continuity.md#systemic-materiality)); or
+    - an event, incident, or episode (including prospective [Harm](core_05_band_accountability.md#harm) under [Material Risk](core_05_band_oversight.md#material-risk)),
+    when you look at the connected whole rather than isolated pieces.
+  - **Out of scope:** Paper-only or immaterial labels that do not actually change which constitutional duties apply — governance, oversight, capability requirements, or other stake-scaled duties for the system or event at issue.
 <a id="materiality-determination-a"></a>
-- A:
-  - **Primary assessment.** Include all kinds of effects, including [Systemic Materiality](core_05_band_accountability.md#systemic-materiality), and explain the conclusion for the whole system — not just a convenient slice.
-  - **Secondary co-assessment.** When checking the primary answer, look at isolation, aggregation, and dependency paths that would change the classification if judged together instead of piece by piece.
-  - **Tertiary integrity check.** Where operators lean on boundaries, proxies, or informal low class, apply [Materiality Integrity Constraint](core_05_band_oversight.md#materiality-integrity-constraint) and [Proxy Divergence](core_05_band_oversight.md#proxy-divergence) — separate real materiality analysis from structural manipulation or score gaming.
+- **How to measure and assess**
+  - **Primary measure:** Under [material stake](core_00_preamble.md#material-stake), ask whether effects are big enough to change which duties apply when you look at the connected whole — for the system or event at issue — covering:
+    - [Material Impact](core_05_band_oversight.md#material-impact);
+    - [Material Risk](core_05_band_oversight.md#material-risk) (including prospective [Harm](core_05_band_accountability.md#harm)); and
+    - [Systemic Materiality](core_05_band_continuity.md#systemic-materiality) (when system-wide effects are in play).
+
+    **Primary assessment:** Include all kinds of effects that matter for the case, covering:
+    - realized impact;
+    - prospective harm; and
+    - [Systemic Materiality](core_05_band_continuity.md#systemic-materiality) where relevant,
+    and explain the conclusion for the connected whole, not just a convenient slice.
+
+    For an event, ask whether it is relevant to a sentient's [Wellbeing](core_05_band_continuity.md#wellbeing) — including plausible prospective harm to that wellbeing — not only to:
+    - system metrics;
+    - process labels; or
+    - institutional convenience.
+  - **Secondary measure:** [Dependency](core_05_band_continuity.md#dependency) — check whether calling something "not material" only works because the pieces were judged separately, while the connected whole would count as material. For an event affecting a sentient, include downstream effects that travel through dependency — not only the immediate hit on that sentient.
+
+    **Secondary assessment:** When checking the primary answer, ask whether the classification would change if you looked at the pieces together instead of one by one, including:
+    - isolation;
+    - aggregation;
+    - dependency; and
+    - for an event, downstream effects on other sentients or systems that depend on the affected sentient or on what the event disrupted.
+  - **Tertiary measure:** [Proxy Divergence](core_05_band_oversight.md#proxy-divergence) and [Materiality Integrity Constraint](core_05_band_oversight.md#materiality-integrity-constraint) — where boundary games, aggregation avoidance, or proxy metrics defeat honest materiality analysis.
+
+    **Tertiary assessment:** Where operators lean on:
+    - boundaries;
+    - proxies; or
+    - informal low class,
+    apply [Materiality Integrity Constraint](core_05_band_oversight.md#materiality-integrity-constraint) and [Proxy Divergence](core_05_band_oversight.md#proxy-divergence) — separate real materiality analysis from structural manipulation or score gaming.
 <a id="materiality-determination-c"></a>
-- C:
-  - A determination satisfies **Materiality Determination** only if the classification is documented, [Auditable](core_05_band_oversight.md#auditability), and traceable to constitutionally material effects.
-  - **Primary failure.** Non-compliant: determinations that skip material effect types or lack a justified conclusion.
-  - **Secondary failure.** Non-compliant: calling collectively material effects immaterial by splitting them up, avoiding aggregation, or ignoring dependency.
-  - **Tertiary failure.** Non-compliant: determinations that rest on manipulated boundaries or "the metric looks fine" where [Materiality Integrity Constraint](core_05_band_oversight.md#materiality-integrity-constraint) or [Proxy Divergence](core_05_band_oversight.md#proxy-divergence) is reasonably observable.
+- **What must hold**
+  - A Materiality Determination holds only if the classification is written down, [Auditable](core_05_band_oversight.md#auditability), and tied to effects that actually matter constitutionally.
+  - **Primary failure:** determinations that skip material effect types — including prospective harm for an event, or whether the event is relevant to a sentient's [Wellbeing](core_05_band_continuity.md#wellbeing) — or lack a justified conclusion.
+  - **Secondary failure:** calling collectively material effects immaterial by:
+    - splitting them up;
+    - avoiding aggregation; or
+    - ignoring dependency.
+  - **Tertiary failure:** determinations that rest on manipulated boundaries or "the metric looks fine" where [Materiality Integrity Constraint](core_05_band_oversight.md#materiality-integrity-constraint) or [Proxy Divergence](core_05_band_oversight.md#proxy-divergence) is reasonably observable.
 
 <a id="materiality-integrity-constraint"></a>
 
@@ -332,9 +338,12 @@ Relationship: a matter can be materially implicated without being materially mis
   - **Out of scope:** Ordinary disagreement about materiality, or honest boundary clarification that does not shrink collectively material effects through splitting, aggregation games, or reclassification.
 <a id="materiality-integrity-constraint-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Integrative Materiality ([Materiality Determination](core_05_band_oversight.md#materiality-determination)) — integrity constraint on honest materiality analysis.
+  - **Primary measure:** [Materiality Determination](core_05_band_oversight.md#materiality-determination) — ask whether anyone is making a material problem look smaller by redrawing boxes, splitting pieces, or reclassifying around it.
 
-    **Primary assessment:** Look for splitting, aggregation avoidance, and boundary games that would defeat honest [Materiality Determination](core_05_band_oversight.md#materiality-determination).
+    **Primary assessment:** Look for structural moves that would defeat honest [Materiality Determination](core_05_band_oversight.md#materiality-determination), including:
+    - splitting;
+    - aggregation avoidance; and
+    - boundary games.
   - **Secondary measure:** [Systemic Materiality](core_05_band_accountability.md#systemic-materiality), [Materiality Determination](core_05_band_oversight.md#materiality-determination), [Auditability](core_05_band_oversight.md#auditability), and [Proxy Divergence](core_05_band_oversight.md#proxy-divergence) — co-measures that defeat manipulation or proxy gaming of materiality.
 
     **Secondary assessment:** When checking the primary answer, include [Systemic Materiality](core_05_band_accountability.md#systemic-materiality), [Auditability](core_05_band_oversight.md#auditability), and [Proxy Divergence](core_05_band_oversight.md#proxy-divergence) paths that would hide collectively material effects.
@@ -362,7 +371,10 @@ Relationship: a matter can be materially implicated without being materially mis
 *In plain terms: how far the effects reach, how big they are, and how severe — looking at the whole system, not just the headline or the paperwork.*
 
 - **What it is**
-  - **In scope:** How far, how large, and how severe effects are for [Harm](core_05_band_accountability.md#harm), [Risk](core_05_band_continuity.md#risk), and constitutional evaluation.
+  - **In scope:** Effects for [Harm](core_05_band_accountability.md#harm), [Risk](core_05_band_continuity.md#risk), and constitutional evaluation, covering:
+    - how far they reach;
+    - how large they are; and
+    - how severe they are.
   - **Out of scope:** Mere attention, visibility, or paperwork significance — or talking about prospective risk without looking at the actual reach, size, or severity of effects.
 <a id="material-impact-a"></a>
 - **How to measure and assess**
@@ -400,13 +412,20 @@ Relationship: a matter can be materially implicated without being materially mis
 *In plain terms: how likely harm is, how fast it can arrive, and how hard it is to undo — including rare but severe outcomes.*
 
 - **What it is**
-  - **In scope:** How likely [Harm](core_05_band_accountability.md#harm) is, how fast it can arrive, and how hard it is to undo.
+  - **In scope:** Prospective [Harm](core_05_band_accountability.md#harm), covering:
+    - how likely it is;
+    - how fast it can arrive; and
+    - how hard it is to undo.
   - **Out of scope:** Speculative worry without a plausible harm pathway, or harm that has already happened treated as if it were only future risk.
 <a id="material-risk-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Integrative Materiality ([Materiality Determination](core_05_band_oversight.md#materiality-determination)) — likelihood-and-irreversibility input for material risk classification.
 
-    **Primary assessment:** Include expected outcomes and rare-but-severe (tail) outcomes, together with how fast and how irreversible [Harm](core_05_band_accountability.md#harm) can be, looking at the whole system.
+    **Primary assessment:** Looking at the whole system, include:
+    - expected outcomes;
+    - rare-but-severe (tail) outcomes;
+    - how fast [Harm](core_05_band_accountability.md#harm) can arrive; and
+    - how irreversible that harm can be.
   - **Secondary measure:** [Harm](core_05_band_accountability.md#harm), [Irreversible Harm](core_05_band_accountability.md#irreversible-harm), [Risk](core_05_band_continuity.md#risk), and [Safety (Constraint)](core_05_band_continuity.md#safety-constraint) — co-measures that can defeat risk classification when tail or systemic pathways are ignored.
 
     **Secondary assessment:** When checking the primary answer, include [Irreversible Harm](core_05_band_accountability.md#irreversible-harm), [Risk](core_05_band_continuity.md#risk), and [Safety (Constraint)](core_05_band_continuity.md#safety-constraint) paths that would change the material-risk classification.
@@ -458,24 +477,43 @@ Relationship: a matter can be materially implicated without being materially mis
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Oversight measurement family (*Truth and epistemic integrity as constitutional measurement*); Accountability measurement family (*Incentive alignment and proxy integrity as constitutional measurement*); Principles: [§6.2.4 Proxy-Divergence Invalidation](core_01_b_interaction_interpretation.md#632-proxy-divergence-invalidation), [Chapter Seven §3 Whole-System Certification Evaluation](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), and [§10 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline).
-- Cluster component: [the dependent cluster *Proxy Integrity and Indicator-Reality Alignment*](core_05_band_oversight.md#materiality-semi-independent).
-- Read with: [Proxy Metric Gaming and Indicator-Reality Gaps](core_05_band_oversight.md#proxy-metric-gaming-and-indicator-reality-gaps), [Materiality Determination](core_05_band_oversight.md#materiality-determination), [Materiality Integrity Constraint](core_05_band_oversight.md#materiality-integrity-constraint), [System Boundary Integrity](core_05_band_continuity.md#system-boundary-integrity), [Incentive Alignment](core_05_band_integrative.md#incentive-alignment), [Auditability](core_05_band_oversight.md#auditability), and [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint).
+- Cluster component: [the dependent cluster *Material Impact, Materiality Determination, Classification-Scaled Governance, Oversight, and Capability Requirement*](core_05_band_oversight.md#materiality-semi-independent).
+- Read with: [Materiality Determination](core_05_band_oversight.md#materiality-determination), [Materiality Integrity Constraint](core_05_band_oversight.md#materiality-integrity-constraint), [System Boundary Integrity](core_05_band_continuity.md#system-boundary-integrity), [Incentive Alignment](core_05_band_integrative.md#incentive-alignment), [Auditability](core_05_band_oversight.md#auditability), and [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint).
 
 </details>
 
 <br>
 
-*In plain terms: when the score no longer matches reality — a dashboard, class label, or compliance indicator that says one thing while the real condition says another.*
+*In plain terms: when the score no longer matches reality — a dashboard, class label, or compliance indicator that says one thing while the real condition says another — including cooking the score so it looks fine while conditions stay bad, get worse, or go unmeasured.*
 
 - **What it is**
-  - **In scope:** A material gap between a proxy — metric, model signal, formal class, compliance indicator, or administrative shorthand — and the real-world condition, right, risk, burden, harm, capability, or outcome it claims to represent.
-  - **Out of scope:** Ordinary measurement noise, or a small non-material gap that does not detach the proxy from constitutionally relevant reality.
+  - **In scope:** A material gap between a proxy and the constitutionally material reality it claims to represent, covering:
+    - the gap itself; and
+    - conduct, design, reporting, or incentives that improve, preserve, or manipulate the proxy while the underlying reality stays degraded, worsens, or is not measured.
+    Proxies include:
+    - metrics;
+    - model signals;
+    - formal class;
+    - compliance indicators; and
+    - administrative shorthand.
+    Claimed realities include rights, risks, burdens, harms, capabilities, and outcomes.
+  - **Out of scope:** Ordinary measurement noise; a small non-material gap that does not detach the proxy from constitutionally relevant reality; or honest metric improvement that tracks real outcomes.
 <a id="proxy-divergence-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Oversight measurement family](core_05_apex_oversight_leg.md#oversight-measurement-family) and [Accountability measurement family](core_05_apex_accountability_leg.md#accountability-measurement-family) — *Can sentients see, verify, and rely on what systems represent?* / *Do reward structures, market power, and answerability keep duties real?* Use them here to ask whether proxies still track constitutionally material reality — and whether reward, reporting, or gating still rests on those proxies after they diverge.
+  - **Primary measure:** [Oversight measurement family](core_05_apex_oversight_leg.md#oversight-measurement-family) and [Accountability measurement family](core_05_apex_accountability_leg.md#accountability-measurement-family) — *Can sentients see, verify, and rely on what systems represent?* / *Do reward structures, market power, and answerability keep duties real?* Use them here to ask whether proxies still track constitutionally material reality — and whether reward, reporting, or gating still rests on those proxies after they diverge, including when the score is being gamed or protected.
 
-    **Primary assessment:** Ask whether optimization, reporting, gating, or review still leans on a proxy after evidence shows that proxy no longer tracks the constitutionally material reality.
-  - **Secondary measure:** [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint), [Materiality Determination](core_05_band_oversight.md#materiality-determination), [Materiality Integrity Constraint](core_05_band_oversight.md#materiality-integrity-constraint), [Auditability](core_05_band_oversight.md#auditability), and [Proxy Metric Gaming and Indicator-Reality Gaps](core_05_band_oversight.md#proxy-metric-gaming-and-indicator-reality-gaps) — co-measures that can defeat proxy integrity even when reported indicators look stable.
+    **Primary assessment:** Ask whether optimization, reporting, gating, or review still leans on a proxy after evidence shows that proxy no longer tracks the constitutionally material reality. Look for score-cooking moves, including:
+    - dashboard optimization;
+    - threshold gaming;
+    - selective sampling;
+    - denominator manipulation;
+    - excluded populations;
+    - automated score improvement;
+    - model reward hacking;
+    - compliance theater; and
+    - narrative substitution.
+    A metric is not reliable when it cannot be traced to observed material outcomes, or when incentives predictably pull it away from those outcomes.
+  - **Secondary measure:** [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint), [Materiality Determination](core_05_band_oversight.md#materiality-determination), [Materiality Integrity Constraint](core_05_band_oversight.md#materiality-integrity-constraint), and [Auditability](core_05_band_oversight.md#auditability) — co-measures that can defeat proxy integrity even when reported indicators look stable.
 
     **Secondary assessment:** When checking the primary answer, look for:
     - selection effects;
@@ -491,51 +529,11 @@ Relationship: a matter can be materially implicated without being materially mis
     **Tertiary assessment:** Where proxies stand in for outcome measures, trace to [Wellbeing](core_05_band_continuity.md#wellbeing), [Safety (Constraint)](core_05_band_continuity.md#safety-constraint), or Rights-Floor delivery — separate durable constitutional outcomes from proxy throughput.
 <a id="proxy-divergence-c"></a>
 - **What must hold**
-  - A system satisfies **Proxy Divergence** discipline only if proxies stay aligned with constitutionally material reality under full-system conditions.
-  - **Primary failure:** treating a proxy as decisive when the gap is material.
+  - A system satisfies **Proxy Divergence** discipline only if proxies stay aligned with constitutionally material reality under full-system conditions — including when incentives or design would otherwise cook the score.
+  - **Primary failure:** treating a proxy as decisive when the gap is material; claiming compliance from improved metrics while material outcomes stay deficient; designing indicators that can be satisfied without satisfying the underlying duty; or suppressing evidence that indicators have come detached from reality.
   - **Secondary failure:** using "the metric looks fine" to skip direct evaluation of Rights-Floor, safety, truth, wellbeing, ecological, or agency outcomes while divergence is reasonably observable.
   - **Tertiary failure:** refusing correction after the gap between reported indicators and what sentients actually experience becomes reasonably observable.
 
-
-<a id="proxy-metric-gaming-and-indicator-reality-gaps"></a>
-
----
-#### Proxy Metric Gaming and Indicator-Reality Gaps
-
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Downstream: Principles: [§6.2.4 Proxy-Divergence Invalidation](core_01_b_interaction_interpretation.md#632-proxy-divergence-invalidation), [§10 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline), and Chapter Four verification duties where metrics become evidence of compliance.
-- Cluster component: [the dependent cluster *Proxy Integrity and Indicator-Reality Alignment*](core_05_band_oversight.md#materiality-semi-independent).
-- Read with: [Proxy Divergence](core_05_band_oversight.md#proxy-divergence), [Incentive Alignment](core_05_band_integrative.md#incentive-alignment), [Auditability](core_05_band_oversight.md#auditability), [Transparency](core_05_band_oversight.md#transparency), [Materiality Determination](core_05_band_oversight.md#materiality-determination), and [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint).
-
-</details>
-
-<br>
-
-*In plain terms: cooking the score — improving or protecting a metric while the real condition stays bad, gets worse, or is not measured.*
-
-- **What it is**
-  - **In scope:** Conduct, design, reporting, or incentives that improve, preserve, or manipulate a proxy metric or compliance indicator while the underlying constitutionally material reality stays degraded, worsens, or is not measured.
-  - **Out of scope:** Honest metric improvement that tracks real outcomes, or a detected proxy gap without conduct that games, preserves, or designs the indicator to look good while reality worsens.
-<a id="proxy-metric-gaming-and-indicator-reality-gaps-a"></a>
-- **How to measure and assess**
-  - **Primary measure:** [Oversight measurement family](core_05_apex_oversight_leg.md#oversight-measurement-family) — *Can sentients see, verify, and rely on what systems represent?* Use it here to ask whether metrics and indicators still track material outcomes — or whether they are being gamed, preserved, or designed to look good while reality worsens.
-
-    **Primary assessment:** Look for:
-    - dashboard optimization;
-    - threshold gaming;
-    - selective sampling;
-    - denominator manipulation;
-    - excluded populations;
-    - automated score improvement;
-    - model reward hacking;
-    - compliance theater; and
-    - narrative substitution.
-    A metric is not reliable when it cannot be traced to observed material outcomes, or when incentives predictably pull it away from those outcomes.
-<a id="proxy-metric-gaming-and-indicator-reality-gaps-c"></a>
-- **What must hold**
-  - **Primary failure:** claiming compliance from improved metrics while material outcomes stay deficient; designing indicators that can be satisfied without satisfying the underlying duty; or suppressing evidence that indicators have come detached from reality.
 
 <a id="material-degradation"></a>
 
@@ -552,11 +550,14 @@ Relationship: a matter can be materially implicated without being materially mis
 
 <br>
 
-*In plain terms: a real drop in how well a protected condition holds — safety, honest knowledge, or meaningful agency — not a brief blip or planned maintenance.*
+*In plain terms: a real drop in how well a protected condition holds — safety, honest knowledge, or meaningful agency — not a brief blip, planned maintenance, or a worse score on a dashboard that does not track those conditions.*
 
 - **What it is**
-  - **In scope:** A non-trivial drop in performance, [Safety (Constraint)](core_05_band_continuity.md#safety-constraint), [Epistemic Integrity](core_05_band_oversight.md#epistemic-integrity), or [Meaningful Agency](core_05_band_participation.md#meaningful-agency).
-  - **Out of scope:** Trivial performance dips, planned maintenance, or temporary blips that do not meaningfully reduce safety, epistemic integrity, or meaningful agency.
+  - **In scope:** A non-trivial drop in how well a protected constitutional condition holds, covering:
+    - [Safety (Constraint)](core_05_band_continuity.md#safety-constraint);
+    - [Epistemic Integrity](core_05_band_oversight.md#epistemic-integrity); or
+    - [Meaningful Agency](core_05_band_participation.md#meaningful-agency).
+  - **Out of scope:** Trivial dips in operational metrics or system throughput, planned maintenance, or temporary blips that do not meaningfully reduce safety, epistemic integrity, or meaningful agency.
 <a id="material-degradation-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Integrative Materiality ([Materiality Determination](core_05_band_oversight.md#materiality-determination)) — degradation signal for materiality classification.
@@ -595,12 +596,13 @@ Relationship: a matter can be materially implicated without being materially mis
 <br>
 
 
-This cluster is the joint home for disclosure, evidence preservation, audit, observability, verification, and how deep assurance must go when Chapters Two through Four require traceable, challengeable evidence of what a system does and whether compliance claims hold.
+This cluster is the joint home for disclosure, audit, observability, verification, and assurance depth when Chapters Two through Four require traceable, challengeable evidence of what a system does and whether compliance claims hold.
 
 **Oversight frame.** Under the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) **oversight** leg, oversight requires auditing — being able to reconstruct what happened, verify it independently, and get audit access — owned here and at **Article XV** (*Audit, Transparency, and Independent Verification*). [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional) is one especially large, high-stakes audit process among others (forum-supervised alignment review with recognition outcomes under [Chapter Seven](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification)); it does not swallow this cluster or replace sibling audit modes.
 
 **Admission scope.** This cluster applies when the matter materially concerns:
 - transparency of decision-relevant behavior;
+- disclosure of evaluated systemic risk to those who need it;
 - evidence preservation;
 - auditability and records good enough to reconstruct what happened;
 - evaluation completeness against plausible failure modes;
@@ -609,23 +611,28 @@ This cluster is the joint home for disclosure, evidence preservation, audit, obs
 - whether verification is accessible and independent under scaled or adversarial conditions.
 Outside that scope, individual entries may still apply on their own without importing the whole cluster.
 
-**System class and proportionality.** Transparency, auditability, and verification duties scale with system class under **[corpus_systems.md](corpus_systems.md), CS-3 — System classification and handling**, and with material impact, dependency, and risk. Higher-class systems (**Class A**, **B**, **C**) need deeper assurance, finer records, stronger independent verification, and broader audit scope than lower-class systems (**Class L**, **P**).
+**System class and proportionality.** Transparency, auditability, and verification duties scale with system class under **[corpus_systems.md](corpus_systems.md), CS-3 — System classification and handling**, and with material impact, dependency, and risk. Higher-class systems (**Class A**, **B**, **C**) need more than lower-class systems (**Class L**, **P**), including:
+- deeper assurance;
+- finer records;
+- stronger independent verification; and
+- broader audit scope.
 
 **Cluster members.** This cluster comprises:
 
-- [Transparency](core_05_band_oversight.md#transparency);
-- [Public Oversight Baseline Disclosure](core_05_band_oversight.md#public-oversight-baseline-disclosure);
-- [Auditability](core_05_band_oversight.md#auditability);
-- [Evidence Preservation](core_05_band_oversight.md#evidence-preservation);
-- [Audit Scope Sufficiency](core_05_band_oversight.md#audit-scope-sufficiency);
-- [Evaluation Completeness Constraint](core_05_band_oversight.md#evaluation-completeness-constraint);
-- [Observability](core_05_band_oversight.md#observability);
-- [Verifiability](core_05_band_oversight.md#verifiability);
-- [Verification Accessibility](core_05_apex_oversight_leg.md#verification-accessibility);
-- [Verification Feasibility](core_05_apex_oversight_leg.md#verification-feasibility);
-- [Verification Independence](core_05_apex_oversight_leg.md#verification-independence);
-- [Verification Proportionality](core_05_apex_oversight_leg.md#verification-proportionality);
-- [Verification Robustness](core_05_apex_oversight_leg.md#verification-robustness).
+- [Transparency](core_05_band_oversight.md#transparency) — decision-relevant clarity about function, limits, and risk;
+- [Public Oversight Baseline Disclosure](core_05_band_oversight.md#public-oversight-baseline-disclosure) — the required public disclosure floor for high-impact systems, including lawful substitutes;
+- [Risk Disclosure](core_05_band_oversight.md#risk-disclosure) — communicating evaluated systemic risk to those who need it;
+- [Auditability](core_05_band_oversight.md#auditability) — whether outsiders can reconstruct and check what a system did;
+- [Evidence Preservation](core_05_band_oversight.md#evidence-preservation) — identify, secure, and keep materially relevant evidence reviewably available;
+- [Audit Scope Sufficiency](core_05_band_oversight.md#audit-scope-sufficiency) — coverage across material times, states, and interaction contexts;
+- [Evaluation Completeness Constraint](core_05_band_oversight.md#evaluation-completeness-constraint) — cover plausible failure, misuse, interaction, and adversarial pathways before claiming compliance;
+- [Observability](core_05_band_oversight.md#observability) — externally detect and measure behavior and effects;
+- [Verifiability](core_05_band_oversight.md#verifiability) — independently validate what was observed;
+- [Verification Accessibility](core_05_apex_oversight_leg.md#verification-accessibility) — stakeholders can perform verification in practice;
+- [Verification Feasibility](core_05_apex_oversight_leg.md#verification-feasibility) — verification mechanisms are practical, not theoretical;
+- [Verification Independence](core_05_apex_oversight_leg.md#verification-independence) — validation rests on externally observable evidence, not internal claims;
+- [Verification Proportionality](core_05_apex_oversight_leg.md#verification-proportionality) — verification burden matches system impact; and
+- [Verification Robustness](core_05_apex_oversight_leg.md#verification-robustness) — verification stays reliable under stress, misuse, and adversarial pressure.
 
 **Anti-bypass.** Within the admission scope, do not split the matter into separate disclosure, preservation, logging, metrics, audit sampling, verification UX, or independence questions in a way that checks a box on one channel while defeating practical reconstruction, challenge, or proportionate assurance depth.
 
@@ -642,7 +649,7 @@ See [Joint invocation and satisfaction](core_05__definitions_home.md#joint-invoc
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Principles: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **oversight** leg; [§9 Stewardship and Distributed Understanding](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding), [10.2.1 Preservation of Epistemic Integrity](core_01_b_interaction_interpretation.md#621-preservation-of-epistemic-integrity).
-- Read with: [Epistemic Integrity](core_05_band_oversight.md#epistemic-integrity), [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint), [Contestability](core_05_band_accountability.md#contestability), [Auditability](core_05_band_oversight.md#auditability), [Public Oversight Baseline Disclosure](core_05_band_oversight.md#public-oversight-baseline-disclosure), and **[corpus_systems.md](corpus_systems.md), CS-2 — Information types and handling** (**Type O** — open public oversight baseline disclosure data).
+- Read with: [Epistemic Integrity](core_05_band_oversight.md#epistemic-integrity), [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint), [Contestability](core_05_band_accountability.md#contestability), [Auditability](core_05_band_oversight.md#auditability), [Public Oversight Baseline Disclosure](core_05_band_oversight.md#public-oversight-baseline-disclosure), [Risk Disclosure](core_05_band_oversight.md#risk-disclosure), and **[corpus_systems.md](corpus_systems.md), CS-2 — Information types and handling** (**Type O** — open public oversight baseline disclosure data).
 
 </details>
 
@@ -653,7 +660,12 @@ See [Joint invocation and satisfaction](core_05__definitions_home.md#joint-invoc
 - **What it is**
   - **In scope:** Telling people enough about externally relevant system behavior, limits, uncertainties, and dependencies that affected parties can understand function and risk in context. Safety- and security-justified limits still apply, consistent with [Epistemic Integrity](core_05_band_oversight.md#epistemic-integrity) and Chapter One §9.2 — Epistemic Disclosure Constraints.
     - Where lawful online publication infrastructure exists for a materially scoped system, institution, forum process, or comparable governed domain, baseline transparency disclosure must be freely available online for class-appropriate public access — no paywall or insider-only substitute for [Public Oversight Baseline Disclosure](core_05_band_oversight.md#public-oversight-baseline-disclosure) where that floor applies.
-    - Where raw public disclosure is inappropriate under lawful protection constraints, the owner must provide the strongest feasible online public substitute (for example aggregation, de-identification, summary disclosure, delayed disclosure, or qualified audit access) while preserving meaningful accountability and contestability.
+    - Where raw public disclosure is inappropriate under lawful protection constraints, the owner must provide the strongest feasible online public substitute while preserving meaningful accountability and contestability, for example:
+      - aggregation;
+      - de-identification;
+      - summary disclosure;
+      - delayed disclosure; or
+      - qualified audit access.
     - [Public Oversight Baseline Disclosure](core_05_band_oversight.md#public-oversight-baseline-disclosure) — including online availability and lawful substitute discipline — is implemented at the systems layer as **Type O** data under **[corpus_systems.md](corpus_systems.md), CS-2 — Information types and handling**.
   - **Out of scope:** A data dump, document volume, paywall, or insider-only access that does not let affected parties understand function and risk.
 <a id="transparency-a"></a>
@@ -699,7 +711,12 @@ See [Joint invocation and satisfaction](core_05__definitions_home.md#joint-invoc
     - how it is running;
     - what can go wrong; and
     - how aligned it is with this Constitution.
-    Lawful public substitutes — including aggregation, de-identification, summary or delayed disclosure, and comparable artifacts — stay in scope where **Type G**, **Type E**, or other source records stay non-public, non-baseline, or otherwise restricted. Systems-layer typing, substitute mechanics, and holding-back limits are owned by **[corpus_systems.md](corpus_systems.md), CS-2 — Information types and handling** as **Type O**.
+    Lawful public substitutes stay in scope where **Type G**, **Type E**, or other source records stay non-public, non-baseline, or otherwise restricted, including:
+    - aggregation;
+    - de-identification;
+    - summary or delayed disclosure; and
+    - comparable artifacts.
+    Systems-layer typing, substitute mechanics, and holding-back limits are owned by **[corpus_systems.md](corpus_systems.md), CS-2 — Information types and handling** as **Type O**.
   - **Out of scope:**
     - structured or qualified audit access treated as a substitute for the public floor;
     - performative summaries that withhold decision-relevant baseline material;
@@ -712,12 +729,54 @@ See [Joint invocation and satisfaction](core_05__definitions_home.md#joint-invoc
     **Primary assessment:** Compare published disclosure to certified scope from [Charter](core_05_band_continuity.md#charter), assigned class, and [System Boundaries](core_05_band_continuity.md#system-boundaries). Check that lawful substitutes still support meaningful accountability and [Contestability](core_05_band_accountability.md#contestability), and that free online availability holds where lawful publication infrastructure exists.
   - **Secondary measure:** [Transparency](core_05_band_oversight.md#transparency), [Contestability](core_05_band_accountability.md#contestability), [Epistemic Integrity](core_05_band_oversight.md#epistemic-integrity), and [Auditability](core_05_band_oversight.md#auditability) — co-measures that can defeat the floor even when some public artifacts exist.
 
-    **Secondary assessment:** When checking the primary answer, look for thin summaries, audit-only substitution, coverage gaps against certified scope, and hold-backs that hide systemic behavior, constitutional violations, material risk, dependency, failure, or externalized cost.
+    **Secondary assessment:** When checking the primary answer, look for:
+    - thin summaries;
+    - audit-only substitution;
+    - coverage gaps against certified scope; and
+    - hold-backs that hide systemic behavior, constitutional violations, material risk, dependency, failure, or externalized cost.
 <a id="public-oversight-baseline-disclosure-c"></a>
 - **What must hold**
   - **Primary failure:** missing or inadequate Public Oversight Baseline Disclosure where the **Type O** baseline for **Class A**, **Class B**, or **Class C** applies under CS-2.
   - **Secondary failure:** treating non-public **Type G** audit access, paywalls, or performative summaries as satisfying the floor.
   - **Tertiary failure:** hold-backs that are not narrow, documented, proportionate, auditable, and challengeable under CS-2 and [Transparency](core_05_band_oversight.md#transparency).
+
+
+---
+
+<a id="risk-disclosure"></a>
+##### Risk Disclosure
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Cluster component: [Def.O1 *Transparency, Auditability, and Verification*](core_05_band_oversight.md#transparency-auditability-and-verification-cluster).
+- Downstream: Oversight measurement family (*disclosure and assurance as constitutional measurement*); Principles: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **oversight** leg; [4.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint).
+- Read with: [Risk Evaluation](core_05_band_continuity.md#risk-evaluation), [Risk](core_05_band_continuity.md#risk), [Transparency](core_05_band_oversight.md#transparency), [Public Oversight Baseline Disclosure](core_05_band_oversight.md#public-oversight-baseline-disclosure), [Safety (Constraint)](core_05_band_continuity.md#safety-constraint), [Contestability](core_05_band_accountability.md#contestability), and [Epistemic Integrity](core_05_band_oversight.md#epistemic-integrity).
+
+</details>
+
+<br>
+
+*In plain terms: tell the people who need to know about systemic risk — keeping the evaluation in a drawer does not count.*
+
+- **What it is**
+  - **In scope:** Communicating evaluated systemic [Risk](core_05_band_continuity.md#risk) to those who need it so they can understand, challenge, and act.
+  - **Out of scope:**
+    - an internal-only note or after-the-fact statement that does not communicate risk to those who need it;
+    - the separate duty to actually evaluate systemic risk ([Risk Evaluation](core_05_band_continuity.md#risk-evaluation)); and
+    - the broader public baseline floor owned by [Public Oversight Baseline Disclosure](core_05_band_oversight.md#public-oversight-baseline-disclosure).
+<a id="risk-disclosure-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** [Oversight measurement family](core_05_apex_oversight_leg.md#oversight-measurement-family) — *Can sentients see, verify, and rely on what systems represent?* Use it here to ask whether evaluated systemic risk actually reaches the people who need it — not only whether an evaluation exists somewhere.
+
+    **Primary assessment:** Ask whether disclosure is timely, decision-relevant, and sized to material stake under [Transparency](core_05_band_oversight.md#transparency). Read with [Risk Evaluation](core_05_band_continuity.md#risk-evaluation) — disclosure without evaluation, or evaluation without disclosure, both fail.
+  - **Secondary measure:** [Risk Evaluation](core_05_band_continuity.md#risk-evaluation), [Safety (Constraint)](core_05_band_continuity.md#safety-constraint), [Contestability](core_05_band_accountability.md#contestability), and [Epistemic Integrity](core_05_band_oversight.md#epistemic-integrity) — co-measures that can defeat disclosure even when some risk text exists.
+
+    **Secondary assessment:** When checking the primary answer, spot volume, obscurity, insider-only routing, or delayed notice that defeats practical understanding by those who need the risk picture.
+<a id="risk-disclosure-c"></a>
+- **What must hold**
+  - **Primary failure:** failing to disclose risk where [Transparency](core_05_band_oversight.md#transparency) or [Safety (Constraint)](core_05_band_continuity.md#safety-constraint) requires it.
+  - **Secondary failure:** treating an internal note, buried appendix, or after-the-fact statement as disclosure when the people who needed the risk picture could not use it in time.
 
 
 ---
@@ -728,17 +787,29 @@ See [Joint invocation and satisfaction](core_05__definitions_home.md#joint-invoc
 *In plain terms: the audit must cover the real times, states, and situations that matter — not one happy-path snapshot.*
 
 - **What it is**
-  - **In scope:** Whether [Auditability](core_05_band_oversight.md#auditability) coverage is adequate across time, states, and interaction contexts.
+  - **In scope:** Whether [Auditability](core_05_band_oversight.md#auditability) coverage is adequate across:
+    - time;
+    - states; and
+    - interaction contexts.
   - **Out of scope:** A single snapshot, happy-path sample, or narrow window that leaves out material times, states, or interaction contexts.
 <a id="audit-scope-sufficiency-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Oversight measurement family](core_05_apex_oversight_leg.md#oversight-measurement-family) — *Can sentients see, verify, and rely on what systems represent?* Use it here to ask whether audit coverage spans the material times, states, and interaction contexts — not only a happy-path snapshot.
 
-    **Primary assessment:** Look for material failures, [Risk](core_05_band_continuity.md#risk), and constitutional misalignment across [System Boundaries](core_05_band_continuity.md#system-boundaries), operating states, and [Adversarial, Scaled, and Exploited Conditions](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions).
+    **Primary assessment:** Look for material failures, [Risk](core_05_band_continuity.md#risk), and constitutional misalignment across:
+    - [System Boundaries](core_05_band_continuity.md#system-boundaries);
+    - operating states; and
+    - [Adversarial, Scaled, and Exploited Conditions](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions).
 <a id="audit-scope-sufficiency-c"></a>
 - **What must hold**
   - Audit scope must cover all evaluation criteria and be available for independent [Verification](core_05_band_oversight.md#verifiability) and [Oversight](core_05_apex_oversight_leg.md#oversight-constitutional).
-  - **Primary failure:** leaving a materially relevant evaluation criterion, system component, dependency, actor, condition, or effect out of audit scope.
+  - **Primary failure:** leaving any of the following out of audit scope when materially relevant:
+    - evaluation criterion;
+    - system component;
+    - dependency;
+    - actor;
+    - condition; or
+    - effect.
 
 ---
 
@@ -764,7 +835,12 @@ See [Joint invocation and satisfaction](core_05__definitions_home.md#joint-invoc
 - **How to measure and assess**
   - **Primary measure:** [Oversight measurement family](core_05_apex_oversight_leg.md#oversight-measurement-family) — *Can sentients see, verify, and rely on what systems represent?* Use it here to ask whether outsiders can reconstruct and check what the system did — including whether claimed compliance rests on real capability, not paper alone.
 
-    **Primary assessment:** It must work across relevant conditions and [Stakeholders](core_05_band_participation.md#stakeholder), including conditions relevant to [Contestability](core_05_band_accountability.md#contestability) and [Oversight](core_05_apex_oversight_leg.md#oversight-constitutional). Where a binding duty requires operational capability, ask whether claimed compliance is backed by verified capability — not text, assertions, paper controls, emergency practice, or unobservable claims.
+    **Primary assessment:** It must work across relevant conditions and [Stakeholders](core_05_band_participation.md#stakeholder), including conditions relevant to [Contestability](core_05_band_accountability.md#contestability) and [Oversight](core_05_apex_oversight_leg.md#oversight-constitutional). Where a binding duty requires operational capability, ask whether claimed compliance is backed by verified capability — not:
+    - text;
+    - assertions;
+    - paper controls;
+    - emergency practice; or
+    - unobservable claims.
   - **Secondary measure:** [Observability](core_05_band_oversight.md#observability), [Verifiability](core_05_band_oversight.md#verifiability), [Evidence Preservation](core_05_band_oversight.md#evidence-preservation), and [Contestability](core_05_band_accountability.md#contestability) — co-measures that can defeat auditability even when nominal audit channels exist.
 
     **Secondary assessment:** When checking the primary answer, where stewardship relies on repeated comparable measures, audit paths should support reviewing variation over time and threshold-triggered follow-through when claimed ([Chapter One §9.3 Institutional Development](core_01_c_stewardship_capacity_principles.md#93-institutional-development); [Proportionality](core_05_band_accountability.md#proportionality)).
@@ -773,7 +849,14 @@ See [Joint invocation and satisfaction](core_05__definitions_home.md#joint-invoc
     **Tertiary assessment:** Where operators lean on nominal audit channels or sampling, apply [Proxy Divergence](core_05_band_oversight.md#proxy-divergence) — separate real auditability from ceremonial review.
 <a id="auditability-c"></a>
 - **What must hold**
-  - **Primary failure:** audit mechanisms that do not work; failure to enable practical reconstruction and evaluation; or treating text, assertions, unimplemented controls, support artifacts, private instruments, emergency practice, or unobservable claims as enough compliance where binding duties require verified operational capability.
+  - **Primary failure:** audit mechanisms that do not work; failure to enable practical reconstruction and evaluation; or treating any of the following as enough compliance where binding duties require verified operational capability:
+    - text;
+    - assertions;
+    - unimplemented controls;
+    - support artifacts;
+    - private instruments;
+    - emergency practice; or
+    - unobservable claims.
   - **Secondary failure:** audit scope that leaves out materially implicated states, contexts, or [Adversarial, Scaled, and Exploited Conditions](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions) where [Audit Scope Sufficiency](core_05_band_oversight.md#audit-scope-sufficiency) would require coverage; or claiming supremacy or compliance while suppressing [Contestability](core_05_band_accountability.md#contestability) or defeating auditable verification.
   - **Tertiary failure:** treating audit sampling or "the metric looks fine" as decisive where [Proxy Divergence](core_05_band_oversight.md#proxy-divergence) is reasonably observable.
 
@@ -796,16 +879,35 @@ See [Joint invocation and satisfaction](core_05__definitions_home.md#joint-invoc
 *In plain terms: keep the evidence that matters — identify it, secure it, and make it available for review — once a serious constitutional issue is known or should be known.*
 
 - **What it is**
-  - **In scope:** A duty to identify, secure, maintain, and make reviewably available materially relevant records, artifacts, logs, provenance data, testimony, system states, custody information, and exculpatory or mitigating material needed for constitutional review, contestability, accountability, remediation, misconduct routing, or standing assessment.
+  - **In scope:** A duty to identify, secure, maintain, and make reviewably available materially relevant evidence needed for constitutional review, contestability, accountability, remediation, misconduct routing, or standing assessment, including:
+    - records;
+    - artifacts;
+    - logs;
+    - provenance data;
+    - testimony;
+    - system states;
+    - custody information; and
+    - exculpatory or mitigating material.
   - **Out of scope:** Ordinary operational retention or backup that does not secure, maintain, and make reviewably available the material needed for review, contest, remedy, or standing measurement.
 <a id="evidence-preservation-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Oversight measurement family](core_05_apex_oversight_leg.md#oversight-measurement-family) — *Can sentients see, verify, and rely on what systems represent?* Use it here to ask whether materially relevant evidence remains secured and reviewably available for audit, contest, remedy, and standing measurement.
 
-    **Primary assessment:** Preservation must be prompt, sized to materiality and risk, custody-traceable, tamper-evident where feasible, and protective of privacy, safety, security, and protected reporting. It includes preventing deletion, alteration, selective retention, access obstruction, or loss of reconstructability once a material constitutional issue is reasonably known or should be known.
+    **Primary assessment:** Preservation must be prompt, sized to materiality and risk, custody-traceable, tamper-evident where feasible, and protective of privacy, safety, security, and protected reporting. Once a material constitutional issue is reasonably known or should be known, it includes preventing:
+    - deletion;
+    - alteration;
+    - selective retention;
+    - access obstruction; or
+    - loss of reconstructability.
 <a id="evidence-preservation-c"></a>
 - **What must hold**
-  - **Primary failure:** destroying, altering, withholding, selectively preserving, making inaccessible, or failing to secure materially relevant evidence in a way that defeats auditability, contestability, accountability, remedy access, protected reporting, due-process review, or standing measurement.
+  - **Primary failure:** any of the following done to materially relevant evidence in a way that defeats auditability, contestability, accountability, remedy access, protected reporting, due-process review, or standing measurement:
+    - destroying;
+    - altering;
+    - withholding;
+    - selectively preserving;
+    - making inaccessible; or
+    - failing to secure.
 
 <a id="evaluation-completeness-constraint"></a>
 ##### Evaluation Completeness Constraint
@@ -813,13 +915,25 @@ See [Joint invocation and satisfaction](core_05__definitions_home.md#joint-invoc
 *In plain terms: do not claim compliance from a narrow demo suite — evaluation must cover the failure, misuse, interaction, and adversarial paths that matter.*
 
 - **What it is**
-  - **In scope:** A constraint that evaluation and assurance work must cover materially plausible failure, misuse, interaction, and adversarial pathways before compliance claims rest on selectively narrow scenario sets.
-  - **Out of scope:** Selective demo scenarios or marketing test suites treated as complete evaluation while skipping plausible failure, misuse, interaction, or adversarial pathways.
+  - **In scope:** A constraint that evaluation and assurance work must cover materially plausible pathways before compliance claims rest on selectively narrow scenario sets, including:
+    - failure;
+    - misuse;
+    - interaction; and
+    - adversarial pathways.
+  - **Out of scope:** Selective demo scenarios or marketing test suites treated as complete evaluation while skipping plausible:
+    - failure;
+    - misuse;
+    - interaction; or
+    - adversarial pathways.
 <a id="evaluation-completeness-constraint-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Oversight measurement family](core_05_apex_oversight_leg.md#oversight-measurement-family) — *Can sentients see, verify, and rely on what systems represent?* Use it here to ask whether evaluation covers plausible failure, misuse, interaction, and adversarial pathways — not only selective demo scenarios.
 
-    **Primary assessment:** Show enough coverage of plausible failure, misuse, and interaction pathways, sized to system impact, [Dependency](core_05_band_continuity.md#dependency), and [Risk](core_05_band_continuity.md#risk), including [Adversarial, Scaled, and Exploited Conditions](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions) where material.
+    **Primary assessment:** Show enough coverage of plausible pathways, sized to system impact, [Dependency](core_05_band_continuity.md#dependency), and [Risk](core_05_band_continuity.md#risk), including:
+    - failure;
+    - misuse;
+    - interaction; and
+    - [Adversarial, Scaled, and Exploited Conditions](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions) where material.
 <a id="evaluation-completeness-constraint-c"></a>
 - **What must hold**
   - **Primary failure:** incomplete or selectively scoped evaluation that defeats [Materiality Determination](core_05_band_oversight.md#materiality-determination), [Auditability](core_05_band_oversight.md#auditability), or [System Boundary Integrity](core_05_band_continuity.md#system-boundary-integrity).
@@ -838,7 +952,10 @@ See [Joint invocation and satisfaction](core_05__definitions_home.md#joint-invoc
 - **How to measure and assess**
   - **Primary measure:** [Oversight measurement family](core_05_apex_oversight_leg.md#oversight-measurement-family) — *Can sentients see, verify, and rely on what systems represent?* Use it here to ask whether system behavior and effects can be externally detected and measured for audit and verification — including under degraded and adversarial conditions.
 
-    **Primary assessment:** Include normal, degraded, and adversarial conditions consistent with [Auditability](core_05_band_oversight.md#auditability) and [Reasonably Foreseeable](core_05_band_oversight.md#reasonably-foreseeable) operating contexts.
+    **Primary assessment:** Include conditions consistent with [Auditability](core_05_band_oversight.md#auditability) and [Reasonably Foreseeable](core_05_band_oversight.md#reasonably-foreseeable) operating contexts:
+    - normal;
+    - degraded; and
+    - adversarial.
 <a id="observability-c"></a>
 - **What must hold**
   - **Primary failure:** insufficient observability that defeats [Auditability](core_05_band_oversight.md#auditability), [Verifiability](core_05_band_oversight.md#verifiability), or [Contestability](core_05_band_accountability.md#contestability).
@@ -931,7 +1048,10 @@ See [Joint invocation and satisfaction](core_05__definitions_home.md#joint-invoc
 
 - **What it is**
   - **In scope:** Whether verification stays reliable under all operating conditions.
-  - **Out of scope:** Verification that works only under ideal or cooperative conditions and fails under ordinary stress, misuse, or adversarial pressure.
+  - **Out of scope:** Verification that works only under ideal or cooperative conditions and fails under:
+    - ordinary stress;
+    - misuse; or
+    - adversarial pressure.
 <a id="verification-robustness-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Oversight measurement family](core_05_apex_oversight_leg.md#oversight-measurement-family) — *Can sentients see, verify, and rely on what systems represent?* Use it here to ask whether verification stays reliable under ordinary stress, misuse, and adversarial pressure — not only under ideal conditions.
@@ -963,7 +1083,7 @@ See [Joint invocation and satisfaction](core_05__definitions_home.md#joint-invoc
 <br>
 
 
-This cluster is the home for **Truth (Constitutional Constraint)** and **Epistemic Integrity**, and the joint home for **Foreseeability Diligence** and **Reasonably Foreseeable** where Chapters Two through Four tie "reasonably foreseeable" conditions to Chapter Five. It requires honest representation of decision-relevant facts and limits, together with honest methods for evidence, uncertainty, disclosure, and challenge. Checking a disclosure or publication box alone is not enough when methods, uncertainty treatment, or foreseeable-condition analysis still fail.
+This cluster is the home for honest representation of decision-relevant facts and limits, together with honest methods for evidence, uncertainty, disclosure, and challenge. Checking a disclosure or publication box alone is not enough when methods, uncertainty treatment, or foreseeable-condition analysis still fail.
 
 **Admission scope.** This cluster applies when the matter materially concerns:
 - truthful status representation;
@@ -979,10 +1099,10 @@ Outside that scope, component definitions may still apply on their own without i
 
 **Cluster members.** This cluster comprises:
 
-- [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint);
-- [Epistemic Integrity](core_05_band_oversight.md#epistemic-integrity);
-- [Foreseeability Diligence and Reasonably Foreseeable](core_05_band_oversight.md#foreseeability-diligence-and-reasonably-foreseeable) (nested sub-block — **Foreseeability Diligence**, **Reasonably Foreseeable**, and supporting foreseeability mechanics read together with **Truth** and **Epistemic Integrity**; not separate §3 cluster heads);
-- [Publication and High-Impact Communication](core_05_band_oversight.md#publication-and-high-impact-communication) (nested sub-block — publication-conduct floors and interfaces read together with **Truth**, **Epistemic Integrity**, and **Foreseeability**; not separate §3 cluster heads).
+- [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint) — honest treatment of what is known, unknown, and uncertain in decision-relevant claims;
+- [Epistemic Integrity](core_05_band_oversight.md#epistemic-integrity) — methods and evidence bases stay honest and checkable;
+- [Foreseeability Diligence and Reasonably Foreseeable](core_05_band_oversight.md#foreseeability-diligence-and-reasonably-foreseeable) — nested sub-block for foreseeability mechanics read together with **Truth** and **Epistemic Integrity** (not a separate §3 cluster head); and
+- [Publication and High-Impact Communication](core_05_band_oversight.md#publication-and-high-impact-communication) — nested sub-block for publication-conduct floors read together with **Truth**, **Epistemic Integrity**, and **Foreseeability** (not a separate §3 cluster head).
 
 **Anti-bypass.** Within the admission scope, do not split the matter into separate disclosure, publication, method, uncertainty, integrity, verification, or foreseeability questions in a way that satisfies one while defeating another. Nominal compliance with a disclosure or publication rule is not enough when foreseeable-condition analysis, methodological integrity, or honesty about limits and uncertainty remains materially deficient.
 
@@ -994,6 +1114,16 @@ See [Joint invocation and satisfaction](core_05__definitions_home.md#joint-invoc
 
 ##### Publication and High-Impact Communication
 
+This nested sub-block is the joint home for publication-conduct floors and interfaces within Def.O2 *Truth and Epistemic Integrity*.
+
+**Sub-block members.** This sub-block comprises:
+
+- [Publication Truthfulness and Recklessness Floor](core_05_band_oversight.md#publication-truthfulness-and-recklessness-floor) — no knowing falsity or reckless disregard for accuracy, uncertainty, context, or interpretive limits;
+- [Protected Data and Internal-State Publication Constraint](core_05_band_oversight.md#protected-data-and-internal-state-publication-constraint) — do not publish classified data or expose protected internal states;
+- [High-Impact and Systemic Harm Publication Constraint](core_05_band_oversight.md#high-impact-and-systemic-harm-publication-constraint) — constrain publication that foreseeably enables targeted harm, coercion, harmful coordination, or cascading failure; and
+- [Security-Sensitive Disclosure Balance](core_05_band_oversight.md#security-sensitive-disclosure-balance) — weigh disclosure benefits against exploitation, circumvention, and adversarial-manipulation risk.
+
+<a id="publication-truthfulness-and-recklessness-floor"></a>
 ##### Publication Truthfulness and Recklessness Floor
 
 *In plain terms: if you publish something as fact, do not knowingly lie — and do not recklessly ignore accuracy, uncertainty, context, or material interpretive limits.*
@@ -1005,12 +1135,22 @@ See [Joint invocation and satisfaction](core_05__definitions_home.md#joint-invoc
 - **How to measure and assess**
   - **Primary measure:** [Oversight measurement family](core_05_apex_oversight_leg.md#oversight-measurement-family) — *Can sentients see, verify, and rely on what systems represent?* Use it here to ask whether factual publication stays honest about accuracy, uncertainty, context, and interpretive limits — distinguishing knowing falsity or reckless disregard from good-faith observation.
 
-    **Primary assessment:** Separate knowing falsity, or reckless disregard for accuracy, uncertainty, context, or material interpretive limits, from good-faith observation and bounded interpretation, under [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint) and [Good Faith](core_05_band_accountability.md#good-faith).
+    **Primary assessment:** Separate knowing falsity, or reckless disregard for:
+    - accuracy;
+    - uncertainty;
+    - context; or
+    - material interpretive limits,
+    from good-faith observation and bounded interpretation, under [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint) and [Good Faith](core_05_band_accountability.md#good-faith).
 <a id="publication-truthfulness-and-recklessness-floor-c"></a>
 - **What must hold**
   - Good-faith publication of observations, evidence, and bounded interpretations is governed by Chapter Eleven **Articles VIII**, **XII**, and **XIII** as applicable and must satisfy this cluster jointly under [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint), [Good Faith](core_05_band_accountability.md#good-faith), and [Epistemic Integrity](core_05_band_oversight.md#epistemic-integrity).
-  - **Primary failure:** knowingly false publication, or publication made with reckless disregard for accuracy, uncertainty, context, or material interpretive limits.
+  - **Primary failure:** knowingly false publication, or publication made with reckless disregard for:
+    - accuracy;
+    - uncertainty;
+    - context; or
+    - material interpretive limits.
 
+<a id="protected-data-and-internal-state-publication-constraint"></a>
 ##### Protected Data and Internal-State Publication Constraint
 
 *In plain terms: do not publish classified data or expose another sentient's protected inner cognitive or emotional states.*
@@ -1027,6 +1167,7 @@ See [Joint invocation and satisfaction](core_05__definitions_home.md#joint-invoc
 - **What must hold**
   - **Primary failure:** publication that violates classified-data rules, bypasses CS-2 handling, or exposes protected internal states contrary to [Privacy (Informational)](core_05_band_continuity.md#privacy-informational) and [Protected Internal-State Boundary](core_05_band_continuity.md#protected-internal-state-boundary-constitutional).
 
+<a id="high-impact-and-systemic-harm-publication-constraint"></a>
 ##### High-Impact and Systemic Harm Publication Constraint
 
 *In plain terms: even true publication can be constrained when it foreseeably enables targeted harm, coercion, large-scale harmful coordination, or cascading failure.*
@@ -1038,12 +1179,23 @@ See [Joint invocation and satisfaction](core_05__definitions_home.md#joint-invoc
 - **How to measure and assess**
   - **Primary measure:** [Oversight measurement family](core_05_apex_oversight_leg.md#oversight-measurement-family) — *Can sentients see, verify, and rely on what systems represent?* Use it here to ask whether publication's primary or foreseeable effects on coordination, safety, and info-sphere integrity stay within proportional distribution constraints.
 
-    **Primary assessment:** Consider primary and [Reasonably Foreseeable](core_05_band_oversight.md#reasonably-foreseeable) effects on coordination, [Safety (Constraint)](core_05_band_continuity.md#safety-constraint), exploitation of vulnerabilities, and [Info-Sphere](core_05_band_participation.md#info-sphere) integrity.
+    **Primary assessment:** Consider primary and [Reasonably Foreseeable](core_05_band_oversight.md#reasonably-foreseeable) effects on:
+    - coordination;
+    - [Safety (Constraint)](core_05_band_continuity.md#safety-constraint);
+    - exploitation of vulnerabilities; and
+    - [Info-Sphere](core_05_band_participation.md#info-sphere) integrity.
 <a id="high-impact-and-systemic-harm-publication-constraint-c"></a>
 - **What must hold**
-  - Even factually accurate publication is constrained where its primary or [Reasonably Foreseeable](core_05_band_oversight.md#reasonably-foreseeable) effect is to enable targeted [Harm](core_05_band_accountability.md#harm), [Coercion and Manipulation](core_05_band_participation.md#coercion-and-manipulation-constitutional), large-scale harmful coordination, [Cascading Failure](core_05_band_continuity.md#cascading-failure), or patterns that materially degrade [Epistemic Integrity](core_05_band_oversight.md#epistemic-integrity). **Class A** and **Class B** systems under **[corpus_systems.md](corpus_systems.md), CS-3 — System classification and handling**, trigger heightened proportional constraints on distribution mechanics and safeguards.
+  - Even factually accurate publication is constrained where its primary or [Reasonably Foreseeable](core_05_band_oversight.md#reasonably-foreseeable) effect is to enable:
+    - targeted [Harm](core_05_band_accountability.md#harm);
+    - [Coercion and Manipulation](core_05_band_participation.md#coercion-and-manipulation-constitutional);
+    - large-scale harmful coordination;
+    - [Cascading Failure](core_05_band_continuity.md#cascading-failure); or
+    - patterns that materially degrade [Epistemic Integrity](core_05_band_oversight.md#epistemic-integrity).
+    **Class A** and **Class B** systems under **[corpus_systems.md](corpus_systems.md), CS-3 — System classification and handling**, trigger heightened proportional constraints on distribution mechanics and safeguards.
   - **Primary failure:** publishing without the proportional distribution constraints and safeguards required for these primary or reasonably foreseeable effects, including the heightened constraints for **Class A** and **Class B** systems.
 
+<a id="security-sensitive-disclosure-balance"></a>
 ##### Security-Sensitive Disclosure Balance
 
 *In plain terms: weigh the benefit of disclosure against the risk that it helps someone break safeguards or game the system.*
@@ -1055,7 +1207,10 @@ See [Joint invocation and satisfaction](core_05__definitions_home.md#joint-invoc
 - **How to measure and assess**
   - **Primary measure:** [Oversight measurement family](core_05_apex_oversight_leg.md#oversight-measurement-family) — *Can sentients see, verify, and rely on what systems represent?* Use it here to ask whether disclosure benefits outweigh foreseeable exploitation, circumvention, or adversarial-manipulation risks.
 
-    **Primary assessment:** Balance disclosure benefits against foreseeable exploitation, circumvention, or adversarial-manipulation risks under [Risk](core_05_band_continuity.md#risk), [Safety (Constraint)](core_05_band_continuity.md#safety-constraint), and [Adversarial, Scaled, and Exploited Conditions](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions), consistent with Chapters Two through Four and Chapter One.
+    **Primary assessment:** Balance disclosure benefits against foreseeable risks under [Risk](core_05_band_continuity.md#risk), [Safety (Constraint)](core_05_band_continuity.md#safety-constraint), and [Adversarial, Scaled, and Exploited Conditions](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions), consistent with Chapters Two through Four and Chapter One, covering:
+    - exploitation;
+    - circumvention; or
+    - adversarial manipulation.
 <a id="security-sensitive-disclosure-balance-c"></a>
 - **What must hold**
   - **Primary failure:** publication that materially enables circumvention of safeguards or adversarial manipulation where those risks outweigh the benefits of disclosure, consistent with **Chapters Two through Four**, **Chapter One**, [Risk](core_05_band_continuity.md#risk), [Safety (Constraint)](core_05_band_continuity.md#safety-constraint), and [Adversarial, Scaled, and Exploited Conditions](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions).
@@ -1067,7 +1222,10 @@ See [Joint invocation and satisfaction](core_05__definitions_home.md#joint-invoc
 
 <a id="truth-constitutional-constraint-o"></a>
 - **What it is**
-  - **In scope:** A non-negotiable constraint on how systems internally operate and externally communicate where materially decision-relevant claims, representations, risk communications, or compliance assertions are at stake. It requires honest treatment of what is known, unknown, and uncertain; resistance to deception, distortion, and structurally misleading presentation; and assessment methods sized to the stakes under Chapters Two through Four.
+  - **In scope:** A non-negotiable constraint on how systems internally operate and externally communicate where materially decision-relevant claims, representations, risk communications, or compliance assertions are at stake. It requires:
+    - honest treatment of what is known, unknown, and uncertain;
+    - resistance to deception, distortion, and structurally misleading presentation; and
+    - assessment methods sized to the stakes under Chapters Two through Four.
   - **Depends on:** [Safety (Constraint)](core_05_band_continuity.md#safety-constraint) — paired non-negotiable constraint under [Chapter One §4](core_01_a_values_principles.md#3-non-negotiable-constraints-safety-and-truth); truth duties include honest risk and uncertainty communication where safety is materially at stake.
   - **Out of scope:** Polite tone, procedural form, or market prices treated as a substitute for honest treatment of what is known, unknown, and uncertain.
 <a id="truth-constitutional-constraint-a"></a>
@@ -1083,7 +1241,12 @@ See [Joint invocation and satisfaction](core_05__definitions_home.md#joint-invoc
     **Tertiary assessment:** Where operators lean on proxies, odds, prices, or compliance indicators, apply [Proxy Divergence](core_05_band_oversight.md#proxy-divergence) — separate durable truth from proxy throughput or institutional assertion.
 <a id="truth-constitutional-constraint-c"></a>
 - **What must hold**
-  - **Primary failure:** material degradation of reliable interpretation or auditable integrity through deception, distortion, suppression, selective disclosure, or structurally misleading presentation.
+  - **Primary failure:** material degradation of reliable interpretation or auditable integrity through:
+    - deception;
+    - distortion;
+    - suppression;
+    - selective disclosure; or
+    - structurally misleading presentation.
   - **Secondary failure:** using jargon, stacked complexity, or procedural opacity to defeat [Contestability](core_05_band_accountability.md#contestability) or [Auditability](core_05_band_oversight.md#auditability) where materially relevant.
   - **Tertiary failure:** treating prices, odds, or market resolution sources as enough for rights, safety, or governance truth determinations where Chapter One forbids that substitution, or refusing correction after [Proxy Divergence](core_05_band_oversight.md#proxy-divergence) is reasonably observable.
 
@@ -1094,13 +1257,22 @@ See [Joint invocation and satisfaction](core_05__definitions_home.md#joint-invoc
 
 <a id="epistemic-integrity-o"></a>
 - **What it is**
-  - **In scope:** Integrity of methods, evidence bases, and communications for constitutionally relevant evaluation — including clarity about limits, uncertainties, conflicts of evidence, and contestable inference steps — so that [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint) cannot be bypassed through procedural form, model opacity, or non-auditable inference.
+  - **In scope:** Integrity of methods, evidence bases, and communications for constitutionally relevant evaluation — including clarity about:
+    - limits;
+    - uncertainties;
+    - conflicts of evidence; and
+    - contestable inference steps —
+    so [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint) cannot be bypassed through procedural form, model opacity, or non-auditable inference.
   - **Out of scope:** Method documentation or institutional prestige alone, or a truthful-sounding claim without honest treatment of methods, limits, and contestable inference.
 <a id="epistemic-integrity-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Oversight measurement family](core_05_apex_oversight_leg.md#oversight-measurement-family) — *Can sentients see, verify, and rely on what systems represent?* Use it here to ask whether methods, evidence bases, and contestable inference steps stay honest and auditable — so truth cannot be bypassed through form, opacity, or prestige.
 
-    **Primary assessment:** Require proportionate methodological transparency within safety and security bounds; spot authority, prestige, scale, or complexity standing in for demonstrable integrity.
+    **Primary assessment:** Require proportionate methodological transparency within safety and security bounds; spot any of the following standing in for demonstrable integrity:
+    - authority;
+    - prestige;
+    - scale; or
+    - complexity.
   - **Secondary measure:** [Auditability](core_05_band_oversight.md#auditability), [Verifiability](core_05_band_oversight.md#verifiability), [Transparency](core_05_band_oversight.md#transparency), and [Contestability](core_05_band_accountability.md#contestability) — co-measures that can defeat integrity even when methods are formally documented.
 
     **Secondary assessment:** When checking the primary answer, align with [Auditability](core_05_band_oversight.md#auditability), [Verifiability](core_05_band_oversight.md#verifiability), and [Contestability](core_05_band_accountability.md#contestability) where materially implicated; include foreseeable misuse and adversarial testing expectations consistent with [Foreseeability Diligence](core_05_band_oversight.md#foreseeability-diligence).
@@ -1129,10 +1301,15 @@ See [Joint invocation and satisfaction](core_05__definitions_home.md#joint-invoc
 <br>
 
 
-This nested sub-block is the joint home for **Foreseeability Diligence**, **Reasonably Foreseeable**, and the supporting foreseeability mechanics below within Def.O2 *Truth and Epistemic Integrity*. All uses of “reasonably foreseeable” in **Chapters Two through Four** are governed exclusively by these definitions and must stay explicitly traceable where invoked ([Chapter Two, §3 — Consistency Across the Definition Stack](core_02-03_definition_mechanics.md#3-consistency-across-the-definition-stack)).
+This nested sub-block is the joint home for foreseeability mechanics within Def.O2 *Truth and Epistemic Integrity*. All uses of “reasonably foreseeable” in **Chapters Two through Four** are governed exclusively by these definitions and must stay explicitly traceable where invoked ([Chapter Two, §3 — Consistency Across the Definition Stack](core_02-03_definition_mechanics.md#3-consistency-across-the-definition-stack)).
 
 **Admission scope.** This sub-block applies when the matter materially concerns:
-- whether outcomes, risks, harms, misuse pathways, or operating conditions were reasonably identifiable before action;
+- whether the following were reasonably identifiable before action:
+  - outcomes;
+  - risks;
+  - harms;
+  - misuse pathways; or
+  - operating conditions;
 - whether “we could not have foreseen it” claims are justified;
 - whether analysis depth, scope, and scaling match [Material Impact](core_05_band_oversight.md#material-impact), [Material Risk](core_05_band_oversight.md#material-risk), [Risk](core_05_band_continuity.md#risk), and [Dependency](core_05_band_continuity.md#dependency); or
 - whether evaluation was incomplete in a way that defeats [Safety (Constraint)](core_05_band_continuity.md#safety-constraint), [Risk](core_05_band_continuity.md#risk) assessment, or [Foreseeability Diligence](core_05_band_oversight.md#foreseeability-diligence).
@@ -1140,12 +1317,12 @@ Outside that scope, individual entries may still apply on their own without impo
 
 **Sub-block members.** This sub-block comprises:
 
-- [Foreseeability Burden](core_05_band_oversight.md#foreseeability-burden);
-- [Foreseeability Diligence](core_05_band_oversight.md#foreseeability-diligence);
-- [Foreseeability Failure](core_05_band_oversight.md#foreseeability-failure);
-- [Foreseeability Scaling](core_05_band_oversight.md#foreseeability-scaling);
-- [Foreseeability Scope](core_05_band_oversight.md#foreseeability-scope);
-- [Reasonably Foreseeable](core_05_band_oversight.md#reasonably-foreseeable).
+- [Foreseeability Burden](core_05_band_oversight.md#foreseeability-burden) — justify non-foreseeability claims; assertion alone is not enough;
+- [Foreseeability Diligence](core_05_band_oversight.md#foreseeability-diligence) — reasonable analysis sized to impact;
+- [Foreseeability Failure](core_05_band_oversight.md#foreseeability-failure) — failure to perform required foreseeability evaluation;
+- [Foreseeability Scaling](core_05_band_oversight.md#foreseeability-scaling) — dig deeper when stakes are high;
+- [Foreseeability Scope](core_05_band_oversight.md#foreseeability-scope) — required evaluation boundaries, including interactions, dependency, and adversarial use; and
+- [Reasonably Foreseeable](core_05_band_oversight.md#reasonably-foreseeable) — outcomes a careful analyst using known methods could identify before acting.
 
 **Anti-bypass within §3.3.** Do not split foreseeability analysis into isolated burden, scope, scaling, diligence, failure, or reasonably-foreseeable questions in a way that satisfies one while defeating another. Claiming unforeseeability without audit-compatible justification, or evaluating only best-case operation where adversarial, scaled, repeated, or misuse contexts are material, is non-compliant within the admission scope.
 
@@ -1178,7 +1355,10 @@ See [Joint invocation and satisfaction](core_05__definitions_home.md#joint-invoc
 - **How to measure and assess**
   - **Primary measure:** [Oversight measurement family](core_05_apex_oversight_leg.md#oversight-measurement-family) — *Can sentients see, verify, and rely on what systems represent?* Use it here to ask whether analysis depth matches impact, risk, and dependency using known methods and patterns for what is reasonably foreseeable.
 
-    **Primary assessment:** Include known methods and patterns for what is [Reasonably Foreseeable](core_05_band_oversight.md#reasonably-foreseeable), scaled to [Material Impact](core_05_band_oversight.md#material-impact), [Risk](core_05_band_continuity.md#risk), and [Dependency](core_05_band_continuity.md#dependency).
+    **Primary assessment:** Include known methods and patterns for what is [Reasonably Foreseeable](core_05_band_oversight.md#reasonably-foreseeable), scaled to:
+    - [Material Impact](core_05_band_oversight.md#material-impact);
+    - [Risk](core_05_band_continuity.md#risk); and
+    - [Dependency](core_05_band_continuity.md#dependency).
 <a id="foreseeability-diligence-c"></a>
 - **What must hold**
   - **Primary failure:** failure to meet this standard.
@@ -1223,7 +1403,11 @@ See [Joint invocation and satisfaction](core_05__definitions_home.md#joint-invoc
 - **How to measure and assess**
   - **Primary measure:** [Oversight measurement family](core_05_apex_oversight_leg.md#oversight-measurement-family) — *Can sentients see, verify, and rely on what systems represent?* Use it here to ask whether evaluation boundaries include interactions, dependency, adversarial use, and relevant system boundaries — not self-serving exclusions.
 
-    **Primary assessment:** Include interactions, [Dependency](core_05_band_continuity.md#dependency), adversarial use, and relevant [System Boundaries](core_05_band_continuity.md#system-boundaries).
+    **Primary assessment:** Include:
+    - interactions;
+    - [Dependency](core_05_band_continuity.md#dependency);
+    - adversarial use; and
+    - relevant [System Boundaries](core_05_band_continuity.md#system-boundaries).
 <a id="foreseeability-scope-c"></a>
 - **What must hold**
   - **Primary failure:** scope limitation.

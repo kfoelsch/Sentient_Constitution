@@ -108,6 +108,16 @@
       "tier_depth": "primary_secondary",
       "status": "approved"
     },
+    "Risk Evaluation": {
+      "ch00_category": "3.2 Flourishing",
+      "tier_depth": "primary_secondary",
+      "status": "approved"
+    },
+    "Risk Disclosure": {
+      "ch00_category": "3.5 Oversight",
+      "tier_depth": "primary_secondary",
+      "status": "approved"
+    },
     "Ecological Footprint": {
       "ch00_category": "3.3 Continuity",
       "tier_depth": "primary_secondary",
@@ -788,11 +798,6 @@
       "tier_depth": "primary_only",
       "status": "approved"
     },
-    "Proxy Metric Gaming and Indicator-Reality Gaps": {
-      "ch00_category": "3.5 Oversight",
-      "tier_depth": "primary_only",
-      "status": "approved"
-    },
     "Psychological Harm": {
       "ch00_category": "3.2 Flourishing",
       "tier_depth": "primary_only",
@@ -840,11 +845,6 @@
     },
     "Review and Correction Duty": {
       "ch00_category": "3.3 Continuity",
-      "tier_depth": "primary_only",
-      "status": "approved"
-    },
-    "Risk Evaluation and Disclosure": {
-      "ch00_category": "3.5 Oversight",
       "tier_depth": "primary_only",
       "status": "approved"
     },

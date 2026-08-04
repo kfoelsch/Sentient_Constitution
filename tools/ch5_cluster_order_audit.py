@@ -19,7 +19,7 @@ from ch5_paths import CH5_BANDS, CH5_INDEX
 
 EXPECTED_TOPIC_GROUPS: dict[str, list[str]] = {
     "#### Accountability, contestability, and redress pathways": [
-        # Accountability and Timeliness leg heads live in core_05apex_accountability_leg.md
+        # Accountability and Timeliness leg heads live in core_05_apex_accountability_leg.md
         "Contestability",
         "Adjudication and Dispute Resolution",
         "Due Process",
@@ -168,6 +168,7 @@ EXPECTED_CLUSTERS: dict[str, list[str]] = {
     "#### Def.O1 Transparency, Auditability, and Verification": [
         "Transparency",
         "Public Oversight Baseline Disclosure",
+        "Risk Disclosure",
         "Auditability",
         "Evidence Preservation",
         "Audit Scope Sufficiency",
