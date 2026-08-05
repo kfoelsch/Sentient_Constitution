@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-04T20:54:30+00:00",
+  "generated_at": "2026-08-05T13:26:20+00:00",
   "source": "ai_corpus/indexes/definition_registry.json",
   "overrides": "tools/architecture/hierarchy_overrides.json",
-  "entry_count": 224,
+  "entry_count": 220,
   "entries": [
     {
       "term": "Accessibility",
@@ -930,7 +930,7 @@
       "term": "Epistemic Integrity",
       "canonical_file": "core_05_band_oversight.md",
       "anchor": "#epistemic-integrity",
-      "line_start": 1232,
+      "line_start": 1251,
       "definition_class": "dependent_cluster",
       "tetrad_leg": "Oversight",
       "primary_aim": "Flourishing",
@@ -1111,70 +1111,10 @@
       "notes": ""
     },
     {
-      "term": "Foreseeability Burden",
-      "canonical_file": "core_05_band_oversight.md",
-      "anchor": "#foreseeability-burden",
-      "line_start": 1309,
-      "definition_class": "dependent_cluster",
-      "tetrad_leg": "Oversight",
-      "primary_aim": "cross-cutting",
-      "aim_role": "cluster_member",
-      "ch00_measurement": [
-        "3.5 Oversight"
-      ],
-      "cluster_id": null,
-      "notes": ""
-    },
-    {
       "term": "Foreseeability Diligence",
       "canonical_file": "core_05_band_oversight.md",
       "anchor": "#foreseeability-diligence",
-      "line_start": 1325,
-      "definition_class": "dependent_cluster",
-      "tetrad_leg": "Oversight",
-      "primary_aim": "cross-cutting",
-      "aim_role": "cluster_member",
-      "ch00_measurement": [
-        "3.5 Oversight"
-      ],
-      "cluster_id": null,
-      "notes": ""
-    },
-    {
-      "term": "Foreseeability Failure",
-      "canonical_file": "core_05_band_oversight.md",
-      "anchor": "#foreseeability-failure",
-      "line_start": 1343,
-      "definition_class": "dependent_cluster",
-      "tetrad_leg": "Oversight",
-      "primary_aim": "cross-cutting",
-      "aim_role": "cluster_member",
-      "ch00_measurement": [
-        "3.5 Oversight"
-      ],
-      "cluster_id": null,
-      "notes": ""
-    },
-    {
-      "term": "Foreseeability Scaling",
-      "canonical_file": "core_05_band_oversight.md",
-      "anchor": "#foreseeability-scaling",
-      "line_start": 1358,
-      "definition_class": "dependent_cluster",
-      "tetrad_leg": "Oversight",
-      "primary_aim": "cross-cutting",
-      "aim_role": "cluster_member",
-      "ch00_measurement": [
-        "3.5 Oversight"
-      ],
-      "cluster_id": null,
-      "notes": ""
-    },
-    {
-      "term": "Foreseeability Scope",
-      "canonical_file": "core_05_band_oversight.md",
-      "anchor": "#foreseeability-scope",
-      "line_start": 1373,
+      "line_start": 1329,
       "definition_class": "dependent_cluster",
       "tetrad_leg": "Oversight",
       "primary_aim": "cross-cutting",
@@ -1441,7 +1381,7 @@
       "term": "High-Impact and Systemic Harm Publication Constraint",
       "canonical_file": "core_05_band_oversight.md",
       "anchor": "#high-impact-and-systemic-harm-publication-constraint",
-      "line_start": 1149,
+      "line_start": 1160,
       "definition_class": "dependent_cluster",
       "tetrad_leg": "Oversight",
       "primary_aim": "cross-cutting",
@@ -2265,7 +2205,7 @@
       "term": "Protected Data and Internal-State Publication Constraint",
       "canonical_file": "core_05_band_oversight.md",
       "anchor": "#protected-data-and-internal-state-publication-constraint",
-      "line_start": 1132,
+      "line_start": 1143,
       "definition_class": "dependent_cluster",
       "tetrad_leg": "Oversight",
       "primary_aim": "cross-cutting",
@@ -2374,7 +2314,7 @@
       "term": "Publication Truthfulness and Recklessness Floor",
       "canonical_file": "core_05_band_oversight.md",
       "anchor": "#publication-truthfulness-and-recklessness-floor",
-      "line_start": 1105,
+      "line_start": 1114,
       "definition_class": "dependent_cluster",
       "tetrad_leg": "Oversight",
       "primary_aim": "cross-cutting",
@@ -2389,7 +2329,7 @@
       "term": "Reasonably Foreseeable",
       "canonical_file": "core_05_band_oversight.md",
       "anchor": "#reasonably-foreseeable",
-      "line_start": 1394,
+      "line_start": 1380,
       "definition_class": "dependent_cluster",
       "tetrad_leg": "Oversight",
       "primary_aim": "cross-cutting",
@@ -2606,7 +2546,7 @@
       "term": "Security-Sensitive Disclosure Balance",
       "canonical_file": "core_05_band_oversight.md",
       "anchor": "#security-sensitive-disclosure-balance",
-      "line_start": 1177,
+      "line_start": 1188,
       "definition_class": "dependent_cluster",
       "tetrad_leg": "Oversight",
       "primary_aim": "cross-cutting",
@@ -3274,7 +3214,7 @@
       "term": "Truth (Constitutional Constraint)",
       "canonical_file": "core_05_band_oversight.md",
       "anchor": "#truth-constitutional-constraint",
-      "line_start": 1197,
+      "line_start": 1216,
       "definition_class": "dependent_cluster",
       "tetrad_leg": "Oversight",
       "primary_aim": "Flourishing",

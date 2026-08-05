@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-08-04T20:54:30+00:00",
+  "generated_at": "2026-08-05T13:26:24+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -2256,7 +2256,7 @@
           },
           {
             "file": "core_05_band_oversight.md",
-            "count": 36,
+            "count": 32,
             "anchors": [
               "#adversarial-scaled-and-exploited-conditions",
               "#auditability",
@@ -2265,11 +2265,7 @@
               "#epistemic-integrity",
               "#evaluation-completeness-constraint",
               "#evidence-preservation",
-              "#foreseeability-burden",
               "#foreseeability-diligence",
-              "#foreseeability-failure",
-              "#foreseeability-scaling",
-              "#foreseeability-scope",
               "#high-impact-and-systemic-harm-publication-constraint",
               "#material",
               "#material-degradation",
@@ -4128,7 +4124,7 @@
           },
           {
             "file": "core_05_apex_oversight_leg.md",
-            "count": 35,
+            "count": 32,
             "anchors": [
               "#6-process-conflict-resolution",
               "#oversight-constitutional",
@@ -4155,7 +4151,7 @@
           },
           {
             "file": "core_05_band_continuity.md",
-            "count": 152,
+            "count": 159,
             "anchors": [
               "#cascading-failure",
               "#charter",
@@ -4186,7 +4182,7 @@
           },
           {
             "file": "core_05_band_oversight.md",
-            "count": 273,
+            "count": 272,
             "anchors": [
               "#adversarial-scaled-and-exploited-conditions",
               "#auditability",
@@ -4194,12 +4190,8 @@
               "#epistemic-integrity",
               "#evaluation-completeness-constraint",
               "#evidence-preservation",
-              "#foreseeability-burden",
               "#foreseeability-diligence",
               "#foreseeability-diligence-and-reasonably-foreseeable",
-              "#foreseeability-failure",
-              "#foreseeability-scaling",
-              "#foreseeability-scope",
               "#high-impact-and-systemic-harm-publication-constraint",
               "#material",
               "#material-degradation",
@@ -4247,7 +4239,7 @@
           },
           {
             "file": "core_06-06_rights_part_c.md",
-            "count": 2,
+            "count": 3,
             "anchors": [
               "#article-xv-c-verification-accessibility"
             ]
@@ -4273,7 +4265,7 @@
           },
           {
             "file": "corpus_systems.md",
-            "count": 8,
+            "count": 9,
             "anchors": []
           },
           {

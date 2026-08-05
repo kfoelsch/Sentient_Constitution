@@ -2,10 +2,10 @@
 
 Auto-generated. Do not edit by hand.
 
-Generated: 2026-08-04T23:45:38+00:00
+Generated: 2026-08-05T13:26:21+00:00
 
 Grouped by Preamble measurement category. **Approved** terms must carry `*Measurements:*` and tier-aligned **E**/**C** per [doc_architecture.md](../doc_architecture.md) MEAS-DEF-01.
-Approved progress: **214/215** terms pass tier audit.
+Approved progress: **210/211** terms pass tier audit.
 
 
 ## 3.2 Flourishing
@@ -150,11 +150,7 @@ Approved progress: **214/215** terms pass tier audit.
 | Epistemic Integrity | approved | full | cluster_member | `core_05_band_oversight.md` | yes | pass |
 | Evaluation Completeness Constraint | approved | primary_only | cluster_member | `core_05_band_oversight.md` | yes | pass |
 | Evidence Preservation | approved | primary_only | cluster_member | `core_05_band_oversight.md` | yes | pass |
-| Foreseeability Burden | approved | primary_only | cluster_member | `core_05_band_oversight.md` | yes | pass |
 | Foreseeability Diligence | approved | primary_only | cluster_member | `core_05_band_oversight.md` | yes | pass |
-| Foreseeability Failure | approved | primary_only | cluster_member | `core_05_band_oversight.md` | yes | pass |
-| Foreseeability Scaling | approved | primary_only | cluster_member | `core_05_band_oversight.md` | yes | pass |
-| Foreseeability Scope | approved | primary_only | cluster_member | `core_05_band_oversight.md` | yes | pass |
 | High-Impact and Systemic Harm Publication Constraint | approved | primary_only | cluster_member | `core_05_band_oversight.md` | yes | pass |
 | Material | approved | primary_secondary | cluster_member | `core_05_band_oversight.md` | yes | pass |
 | Material Degradation | approved | primary_secondary | cluster_member | `core_05_band_oversight.md` | yes | pass |

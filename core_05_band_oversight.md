@@ -1108,7 +1108,7 @@ This nested sub-block is the joint home for publication-conduct floors and inter
 - [Publication Truthfulness and Recklessness Floor](core_05_band_oversight.md#publication-truthfulness-and-recklessness-floor) — no knowing falsity or reckless disregard for accuracy, uncertainty, context, or interpretive limits;
 - [Protected Data and Internal-State Publication Constraint](core_05_band_oversight.md#protected-data-and-internal-state-publication-constraint) — do not publish restricted data or expose protected internal states;
 - [High-Impact and Systemic Harm Publication Constraint](core_05_band_oversight.md#high-impact-and-systemic-harm-publication-constraint) — constrain publication that foreseeably enables targeted harm, coercion, harmful coordination, or cascading failure; and
-- [Security-Sensitive Disclosure Balance](core_05_band_oversight.md#security-sensitive-disclosure-balance) — weigh disclosure benefits against exploitation, circumvention, and adversarial-manipulation risk.
+- [Security-Sensitive Disclosure Balance](core_05_band_oversight.md#security-sensitive-disclosure-balance) — weigh disclosure benefits against exploitation risk; keep a usable route for good-faith researchers; defer exploit-enabling detail until mitigation is complete.
 
 <a id="publication-truthfulness-and-recklessness-floor"></a>
 ##### Publication Truthfulness and Recklessness Floor
@@ -1162,7 +1162,7 @@ This nested sub-block is the joint home for publication-conduct floors and inter
 *In plain terms: even true publication can be constrained when it foreseeably enables targeted harm, coercion, large-scale harmful coordination, or cascading failure.*
 
 - **What it is**
-  - **In scope:** Publication through or via channels with systemic external effects on the [Info-Sphere](core_05_band_participation.md#info-sphere), [Harm](core_05_band_accountability.md#harm), and coordination conditions.
+  - **In scope:** Publication that goes out through channels that can broadly affect the shared information environment ([Info-Sphere](core_05_band_participation.md#info-sphere)), cause [Harm](core_05_band_accountability.md#harm), or shape how people coordinate.
   - **Out of scope:** Ordinary true reporting without a foreseeable systemic-harm or harmful-coordination pathway, or ordinary truthfulness disputes under the recklessness floor.
 <a id="high-impact-and-systemic-harm-publication-constraint-a"></a>
 - **How to measure and assess**
@@ -1181,17 +1181,17 @@ This nested sub-block is the joint home for publication-conduct floors and inter
     - large-scale harmful coordination;
     - [Cascading Failure](core_05_band_continuity.md#cascading-failure); or
     - patterns that materially degrade [Epistemic Integrity](core_05_band_oversight.md#epistemic-integrity).
-    **Class A** and **Class B** systems under **[corpus_systems.md](corpus_systems.md), CS-3 — System classification and handling**, trigger heightened proportional constraints on distribution mechanics and safeguards.
+  - **Class A** and **Class B** systems under **[corpus_systems.md](corpus_systems.md), CS-3 — System classification and handling**, trigger heightened proportional constraints on distribution mechanics and safeguards.
   - **Primary failure:** publishing without the proportional distribution constraints and safeguards required for these primary or reasonably foreseeable effects, including the heightened constraints for **Class A** and **Class B** systems.
 
 <a id="security-sensitive-disclosure-balance"></a>
 ##### Security-Sensitive Disclosure Balance
 
-*In plain terms: weigh the benefit of disclosure against the risk that it helps someone break safeguards or game the system.*
+*In plain terms: weigh the benefit of disclosure against the risk that it helps someone break safeguards or game the system — give good-faith security researchers (white hats) a real route to publish low-risk findings, and wait to publish exploit-enabling detail until the fix is in place.*
 
 - **What it is**
-  - **In scope:** Disclosure that enables exploitation of safeguards.
-  - **Out of scope:** Blanket secrecy with no exploitation tradeoff, or ordinary transparency disclosure that does not enable circumvention of safeguards.
+  - **In scope:** Disclosure that can enable exploitation of safeguards, including how good-faith security researchers publish findings.
+  - **Out of scope:** Blanket secrecy with no exploitation tradeoff; ordinary transparency disclosure that does not enable circumvention of safeguards; or permanent hold-back of low-risk researcher publication after mitigation is complete.
 <a id="security-sensitive-disclosure-balance-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Oversight measurement family](core_05_apex_oversight_leg.md#oversight-measurement-family) — *Can sentients see, verify, and rely on what systems represent?* Use it here to ask whether disclosure benefits outweigh foreseeable exploitation, circumvention, or adversarial-manipulation risks.
@@ -1200,9 +1200,17 @@ This nested sub-block is the joint home for publication-conduct floors and inter
     - exploitation;
     - circumvention; or
     - adversarial manipulation.
+  - **Secondary measure:** Good-faith researcher publication routes and deferred exploit-detail timing — co-measures under **Type S** deferred disclosure and **CJS-5.22** (*constrained-secrecy and protected-investigation terms*).
+
+    **Secondary assessment:** Assess whether low-risk findings can be published through a usable route, and whether exploit-enabling detail is deferred until security mitigation is complete, consistent with **Type S** deferred disclosure under **[corpus_systems.md](corpus_systems.md), CS-2 — Information types and handling**, and **CJS-5.22** (*constrained-secrecy and protected-investigation terms*).
 <a id="security-sensitive-disclosure-balance-c"></a>
 - **What must hold**
-  - **Primary failure:** publication that materially enables circumvention of safeguards or adversarial manipulation where those risks outweigh the benefits of disclosure, consistent with **Chapters Two through Four**, **Chapter One**, [Risk](core_05_band_continuity.md#risk), [Safety (Constraint)](core_05_band_continuity.md#safety-constraint), and [Adversarial, Scaled, and Exploited Conditions](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions).
+  - Good-faith security researchers must have a usable, non-retaliatory route to publish low-risk information — including existence notice and non-exploit-enabling detail — without treating researcher publication itself as prohibited disclosure.
+  - Exploit-enabling or otherwise high-risk security detail must be deferred until security mitigation is complete, or until **Type S** (or equivalent) restriction justification ends under CS-2 — then disclosed under applicable deferred-disclosure and **Type O** summary rules.
+  - **Primary failure:** consistent with **Chapters Two through Four**, **Chapter One**, [Risk](core_05_band_continuity.md#risk), [Safety (Constraint)](core_05_band_continuity.md#safety-constraint), and [Adversarial, Scaled, and Exploited Conditions](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions):
+    - publication that materially enables circumvention of safeguards or adversarial manipulation where those risks outweigh the benefits of disclosure;
+    - suppressing low-risk good-faith researcher publication; or
+    - indefinite hold-back of discloseable detail after mitigation without a still-justified **Type S** (or equivalent) restriction.
 
 <a id="truth-constitutional-constraint"></a>
 ##### Truth (Constitutional Constraint)
@@ -1255,16 +1263,16 @@ This nested sub-block is the joint home for publication-conduct floors and inter
   - **Out of scope:** Method documentation or institutional prestige alone, or a truthful-sounding claim without honest treatment of methods, limits, and contestable inference.
 <a id="epistemic-integrity-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Oversight measurement family](core_05_apex_oversight_leg.md#oversight-measurement-family) — *Can sentients see, verify, and rely on what systems represent?* Use it here to ask whether methods, evidence bases, and contestable inference steps stay honest and auditable — so truth cannot be bypassed through form, opacity, or prestige.
+  - **Primary measure:** [Oversight measurement family](core_05_apex_oversight_leg.md#oversight-measurement-family) — *Can sentients see, verify, and rely on what systems represent?* Use it here to ask whether the methods, evidence, and challengeable reasoning stay honest and checkable — so paperwork, black-box opacity, or prestige cannot stand in for truth.
 
-    **Primary assessment:** Require proportionate methodological transparency within safety and security bounds; spot any of the following standing in for demonstrable integrity:
+    **Primary assessment:** Require enough openness about methods to match the stakes, within safety and security limits — and watch for any of the following standing in for real integrity:
     - authority;
     - prestige;
     - scale; or
     - complexity.
   - **Secondary measure:** [Auditability](core_05_band_oversight.md#auditability), [Verifiability](core_05_band_oversight.md#verifiability), [Transparency](core_05_band_oversight.md#transparency), and [Contestability](core_05_band_accountability.md#contestability) — co-measures that can defeat integrity even when methods are formally documented.
 
-    **Secondary assessment:** When checking the primary answer, align with [Auditability](core_05_band_oversight.md#auditability), [Verifiability](core_05_band_oversight.md#verifiability), and [Contestability](core_05_band_accountability.md#contestability) where materially implicated; include foreseeable misuse and adversarial testing expectations consistent with [Foreseeability Diligence](core_05_band_oversight.md#foreseeability-diligence).
+    **Secondary assessment:** When checking the primary answer, also check [Auditability](core_05_band_oversight.md#auditability), [Verifiability](core_05_band_oversight.md#verifiability), and [Contestability](core_05_band_accountability.md#contestability) wherever they matter — and include foreseeable misuse and adversarial testing under [Foreseeability Diligence](core_05_band_oversight.md#foreseeability-diligence).
   - **Tertiary measure:** [Proxy Divergence](core_05_band_oversight.md#proxy-divergence) — where authority, prestige, scale, or complexity stands in for demonstrable integrity.
 
     **Tertiary assessment:** Where operators lean on authority, model opacity, or unverifiable assertion, apply [Proxy Divergence](core_05_band_oversight.md#proxy-divergence) — separate durable epistemic integrity from procedural form.
@@ -1306,100 +1314,67 @@ Outside that scope, individual entries may still apply on their own without impo
 
 **Sub-block members.** This sub-block comprises:
 
-- [Foreseeability Burden](core_05_band_oversight.md#foreseeability-burden) — justify non-foreseeability claims; assertion alone is not enough;
-- [Foreseeability Diligence](core_05_band_oversight.md#foreseeability-diligence) — reasonable analysis sized to impact;
-- [Foreseeability Failure](core_05_band_oversight.md#foreseeability-failure) — failure to perform required foreseeability evaluation;
-- [Foreseeability Scaling](core_05_band_oversight.md#foreseeability-scaling) — dig deeper when stakes are high;
-- [Foreseeability Scope](core_05_band_oversight.md#foreseeability-scope) — required evaluation boundaries, including interactions, dependency, and adversarial use; and
+- [Foreseeability Diligence](core_05_band_oversight.md#foreseeability-diligence) — reasonable analysis sized to impact: required depth, evaluation boundaries, incompleteness failure, and justified non-foreseeability claims; and
 - [Reasonably Foreseeable](core_05_band_oversight.md#reasonably-foreseeable) — outcomes a careful analyst using known methods could identify before acting.
 
-**Anti-bypass within §3.3.** Do not split foreseeability analysis into isolated burden, scope, scaling, diligence, failure, or reasonably-foreseeable questions in a way that satisfies one while defeating another. Claiming unforeseeability without audit-compatible justification, or evaluating only best-case operation where adversarial, scaled, repeated, or misuse contexts are material, is non-compliant within the admission scope.
+**Anti-bypass within §3.3.** Do not split foreseeability analysis into isolated depth, boundary, claim-burden, incompleteness, or reasonably-foreseeable questions in a way that satisfies one while defeating another. Claiming unforeseeability without audit-compatible justification, or evaluating only best-case operation where adversarial, scaled, repeated, or misuse contexts are material, is non-compliant within the admission scope.
 
 See [Joint invocation and satisfaction](core_05__definitions_home.md#joint-invocation-and-satisfaction).
 
-##### Foreseeability Burden
-
-*In plain terms: if you claim something was unforeseeable, you must justify that claim — assertion alone is not enough.*
-
-- **What it is**
-  - **In scope:** Responsibility for claiming non-foreseeability under [Reasonably Foreseeable](core_05_band_oversight.md#reasonably-foreseeable) conditions.
-  - **Out of scope:** Mere assertion that something was unforeseeable, without accepting the duty to justify that claim.
-<a id="foreseeability-burden-a"></a>
-- **How to measure and assess**
-  - **Primary measure:** [Oversight measurement family](core_05_apex_oversight_leg.md#oversight-measurement-family) — *Can sentients see, verify, and rely on what systems represent?* Use it here to ask whether a non-foreseeability claim is backed by audit-compatible justification — not mere assertion.
-
-    **Primary assessment:** Include [Auditability](core_05_band_oversight.md#auditability)-compatible analysis.
-<a id="foreseeability-burden-c"></a>
-- **What must hold**
-  - **Primary failure:** insufficient justification.
+<a id="foreseeability-burden"></a>
+<a id="foreseeability-failure"></a>
+<a id="foreseeability-scaling"></a>
+<a id="foreseeability-scope"></a>
 <a id="foreseeability-diligence"></a>
 ##### Foreseeability Diligence
 
-*In plain terms: do a reasonable analysis sized to the impact — not a checkbox, and not endless speculation.*
+*In plain terms: do a reasonable analysis sized to the impact — dig deeper when stakes are high, cover the required boundaries (including interactions, dependency, and adversarial use), and if you claim something was unforeseeable, justify that claim. Assertion and checkboxes are not enough.*
 
 - **What it is**
-  - **In scope:** A standard of reasonable analysis sized to impact.
-  - **Out of scope:** A checkbox analysis, unbounded speculative review, or the separate burden of justifying a non-foreseeability claim.
+  - **In scope:** A standard of reasonable analysis sized to impact, covering:
+    - analysis depth that scales with [Material Impact](core_05_band_oversight.md#material-impact), [Risk](core_05_band_continuity.md#risk), and [Dependency](core_05_band_continuity.md#dependency) under [Proportionality](core_05_band_accountability.md#proportionality);
+    - required evaluation boundaries, including interactions, dependency, adversarial use, and relevant [System Boundaries](core_05_band_continuity.md#system-boundaries);
+    - the duty to actually perform that evaluation; and
+    - responsibility for justifying non-foreseeability claims under [Reasonably Foreseeable](core_05_band_oversight.md#reasonably-foreseeable).
+  - **Out of scope:**
+    - checkbox analysis or unbounded speculative review;
+    - outcomes that remain unforeseeable after required diligence;
+    - mere assertion that something was unforeseeable, without accepting the duty to justify that claim;
+    - self-serving exclusions that shrink below the required evaluation boundaries; or
+    - flat maximal analysis for every low-stakes case, or superficial analysis despite high impact.
+<a id="foreseeability-burden-a"></a>
+<a id="foreseeability-failure-a"></a>
+<a id="foreseeability-scaling-a"></a>
+<a id="foreseeability-scope-a"></a>
 <a id="foreseeability-diligence-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Oversight measurement family](core_05_apex_oversight_leg.md#oversight-measurement-family) — *Can sentients see, verify, and rely on what systems represent?* Use it here to ask whether analysis depth matches impact, risk, and dependency using known methods and patterns for what is reasonably foreseeable.
+  - **Primary measure:** [Oversight measurement family](core_05_apex_oversight_leg.md#oversight-measurement-family) — *Can sentients see, verify, and rely on what systems represent?* Use it here to ask whether analysis depth matches impact, risk, and dependency; whether required boundaries were covered; whether the evaluation was actually performed; and whether non-foreseeability claims have audit-compatible justification.
 
     **Primary assessment:** Include known methods and patterns for what is [Reasonably Foreseeable](core_05_band_oversight.md#reasonably-foreseeable), scaled to:
     - [Material Impact](core_05_band_oversight.md#material-impact);
     - [Risk](core_05_band_continuity.md#risk); and
     - [Dependency](core_05_band_continuity.md#dependency).
-<a id="foreseeability-diligence-c"></a>
-- **What must hold**
-  - **Primary failure:** failure to meet this standard.
-##### Foreseeability Failure
-
-*In plain terms: failing to do the required foreseeability evaluation — not outcomes that stay unforeseeable after real diligence.*
-
-- **What it is**
-  - **In scope:** Failure to perform required evaluation.
-  - **Out of scope:** Outcomes that remain unforeseeable after required diligence, or ordinary disagreement about analysis depth without failure to evaluate.
-<a id="foreseeability-failure-a"></a>
-- **How to measure and assess**
-  - **Primary measure:** [Oversight measurement family](core_05_apex_oversight_leg.md#oversight-measurement-family) — *Can sentients see, verify, and rely on what systems represent?* Use it here to ask whether required foreseeability evaluation was actually performed — detecting incompleteness that defeats diligence, risk evaluation, or safety.
-
-    **Primary assessment:** Spot incompleteness.
-<a id="foreseeability-failure-c"></a>
-- **What must hold**
-  - **Primary failure:** non-compliant where it defeats [Foreseeability Diligence](core_05_band_oversight.md#foreseeability-diligence), [Risk](core_05_band_continuity.md#risk) evaluation, or [Safety (Constraint)](core_05_band_continuity.md#safety-constraint).
-##### Foreseeability Scaling
-
-*In plain terms: dig deeper when stakes are high — do not run the same maximal analysis for every low-stakes case.*
-
-- **What it is**
-  - **In scope:** [Proportionality](core_05_band_accountability.md#proportionality)-sensitive depth of analysis.
-  - **Out of scope:** Flat maximal analysis for every low-stakes case, or superficial analysis despite high impact.
-<a id="foreseeability-scaling-a"></a>
-- **How to measure and assess**
-  - **Primary measure:** [Oversight measurement family](core_05_apex_oversight_leg.md#oversight-measurement-family) — *Can sentients see, verify, and rely on what systems represent?* Use it here to ask whether analysis depth scales with material impact and risk — neither flat-maximal for every low-stakes case nor superficial despite high impact.
-
-    **Primary assessment:** Scale with [Material Impact](core_05_band_oversight.md#material-impact) and [Risk](core_05_band_continuity.md#risk).
-<a id="foreseeability-scaling-c"></a>
-- **What must hold**
-  - **Primary failure:** superficial analysis.
-##### Foreseeability Scope
-
-*In plain terms: evaluate inside the required boundaries — including interactions, dependency, and adversarial use — not self-serving exclusions.*
-
-- **What it is**
-  - **In scope:** Required evaluation boundaries.
-  - **Out of scope:** Optional research horizons, or self-serving exclusions that shrink below the required evaluation boundaries.
-<a id="foreseeability-scope-a"></a>
-- **How to measure and assess**
-  - **Primary measure:** [Oversight measurement family](core_05_apex_oversight_leg.md#oversight-measurement-family) — *Can sentients see, verify, and rely on what systems represent?* Use it here to ask whether evaluation boundaries include interactions, dependency, adversarial use, and relevant system boundaries — not self-serving exclusions.
-
-    **Primary assessment:** Include:
+    Include evaluation boundaries covering:
     - interactions;
     - [Dependency](core_05_band_continuity.md#dependency);
     - adversarial use; and
     - relevant [System Boundaries](core_05_band_continuity.md#system-boundaries).
+    Include [Auditability](core_05_band_oversight.md#auditability)-compatible justification for non-foreseeability claims. Spot incompleteness that defeats diligence, [Risk](core_05_band_continuity.md#risk) evaluation, or [Safety (Constraint)](core_05_band_continuity.md#safety-constraint).
+<a id="foreseeability-burden-c"></a>
+<a id="foreseeability-failure-c"></a>
+<a id="foreseeability-scaling-c"></a>
 <a id="foreseeability-scope-c"></a>
+<a id="foreseeability-diligence-c"></a>
 - **What must hold**
-  - **Primary failure:** scope limitation.
+  - Analysis depth must scale with [Material Impact](core_05_band_oversight.md#material-impact) and [Risk](core_05_band_continuity.md#risk) — neither flat-maximal for every low-stakes case nor superficial despite high impact.
+  - Evaluation boundaries must include interactions, [Dependency](core_05_band_continuity.md#dependency), adversarial use, and relevant [System Boundaries](core_05_band_continuity.md#system-boundaries).
+  - Non-foreseeability claims require [Auditability](core_05_band_oversight.md#auditability)-compatible justification — assertion alone is not enough.
+  - **Primary failure:**
+    - failure to meet this standard or to perform required foreseeability evaluation;
+    - superficial analysis despite high impact;
+    - scope limitation below required boundaries;
+    - insufficient justification for a non-foreseeability claim; or
+    - incompleteness that defeats [Foreseeability Diligence](core_05_band_oversight.md#foreseeability-diligence), [Risk](core_05_band_continuity.md#risk) evaluation, or [Safety (Constraint)](core_05_band_continuity.md#safety-constraint).
 
 <a id="reasonably-foreseeable"></a>
 ##### Reasonably Foreseeable

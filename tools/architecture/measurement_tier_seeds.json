@@ -538,27 +538,7 @@
       "tier_depth": "primary_only",
       "status": "approved"
     },
-    "Foreseeability Burden": {
-      "ch00_category": "3.5 Oversight",
-      "tier_depth": "primary_only",
-      "status": "approved"
-    },
     "Foreseeability Diligence": {
-      "ch00_category": "3.5 Oversight",
-      "tier_depth": "primary_only",
-      "status": "approved"
-    },
-    "Foreseeability Failure": {
-      "ch00_category": "3.5 Oversight",
-      "tier_depth": "primary_only",
-      "status": "approved"
-    },
-    "Foreseeability Scaling": {
-      "ch00_category": "3.5 Oversight",
-      "tier_depth": "primary_only",
-      "status": "approved"
-    },
-    "Foreseeability Scope": {
       "ch00_category": "3.5 Oversight",
       "tier_depth": "primary_only",
       "status": "approved"
