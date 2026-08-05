@@ -389,7 +389,7 @@ Operational mechanics — registration, [Charter](core_05_band_continuity.md#cha
 *In plain terms: sentients must be able to gather, associate, and act together — physically, online, or in shared compute spaces — for expression, politics, culture, community, and similar purposes. Blocking that through venue rules, compute gating, or retaliation fails this test.*
 
 - **What it is**
-  - **In scope:** The Rights-Floor concept covering the right of sentients to gather, associate, organize, and act collectively.
+  - **In scope:** The Rights-Floor right of sentients under [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion) to gather, associate, organize, and act collectively.
   - **In scope — spaces:**
     - physical;
     - digital and networked; and
@@ -402,7 +402,6 @@ Operational mechanics — registration, [Charter](core_05_band_continuity.md#cha
     - scientific;
     - economic; and
     - community.
-  - **In scope — sentients:** under [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion).
   - *Assembly* is distinct from [Non-Imposition (Cooperative Interaction)](core_05_band_participation.md#non-imposition-cooperative-interaction) and is read together with it under **Article X-A** (*Non-Imposition and Consent in Association*), which governs consent conditions within association.
   - **Out of scope:**
     - casual co-presence;
@@ -970,7 +969,7 @@ Operational mechanics — registration, [Charter](core_05_band_continuity.md#cha
 
 <br>
 
-*In plain terms: listed traits and statuses — and close stand-ins for them — cannot be used to put sentients at a real disadvantage without a strong, justified reason.*
+*In plain terms: listed traits and statuses — and close stand-ins for them — cannot be used to put sentients, groups, or institutions at a real disadvantage without a strong, justified reason. Consensual private sexual conduct between adults is not a lawful basis for that kind of discrimination.*
 
 - **What it is**
   - **In scope:** Traits, statuses, or classifications of sentients must not serve, absent adequate justification, as the basis for:
@@ -986,7 +985,7 @@ Operational mechanics — registration, [Charter](core_05_band_continuity.md#cha
     - disability, health status, or variation in sensory, cognitive, or functional capability; age or life stage;
     - sex, gender, gender identity, gender expression, sexual orientation, intimate affiliation, or relational identity;
     - reproductive status, pregnancy, or caregiving status;
-    - private intimate or sexual conduct or history;
+    - private intimate or sexual conduct or history — including consensual private sexual conduct between adults; such conduct must not be used as a ground for material disadvantage, exclusion, or comparable discrimination against individuals, groups, or institutions, absent the justification discipline above;
     - present or past voluntary engagement in commercial sexual services between adults within the decriminalization floor stated in **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*); perceived engagement where that perception functions in context as a proxy for the foregoing;
     - appearance in intimate media, non-consensual intimate imagery, or synthetic intimate depictions credibly presented as authentic regarding a sentient;
     - race, ethnicity, national or social origin, caste or analogous inherited rank, culture, language, or religion or comparable worldview;
@@ -995,15 +994,15 @@ Operational mechanics — registration, [Charter](core_05_band_continuity.md#cha
     - lawful employment, employment history, lawful work status, lack of employment, or protected association;
     - economic, property, or social station when used to foreclose Rights-Floor minimums or equitable opportunity;
     - any other trait or correlate that functions in context as an invidious proxy, consistent with [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion) and [Sentience Evaluation](core_05_band_participation.md#sentience-evaluation-e) requirements.
-  - **Out of scope:** justified role or safety qualifications that do not use a trait as an invidious basis for exclusion.
+  - **Out of scope:** justified role or safety qualifications that do not use a trait as an invidious basis for exclusion; exploitation, trafficking, lack of [Consent, Sexual](core_05_band_participation.md#consent-sexual), or other independent harm predicates outside consensual adult private sexual conduct.
 <a id="protected-characteristics-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Participation measurement family](core_05_apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether a protected characteristic or functional equivalent is being used to disadvantage, exclude, or deny rights — including through "neutral" rules or intimate-signal gates.
 
-    **Primary assessment:** Detect disparate impact, pretextual "neutral" rules, proxy discrimination, high-salience [Protected Intimate-Signal Gating](core_05_band_participation.md#protected-intimate-signal-gating), and **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) status or circumvention risks. Detect punishment, exclusion, or access denial **mainly because** of lawful employment, employment history, lawful work status, lack of employment, or protected association without constitutionally sufficient justification. Systematic skew affecting demographically identifiable groups triggers [Substantive Fairness](core_05_band_participation.md#substantive-fairness-constitutional) analysis even where a trait is not expressly named. Read with [Protected Characteristic Proxying and Disparate Impact](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact), [Protected Intimate-Signal Gating](core_05_band_participation.md#protected-intimate-signal-gating), and [Protected Commercial Sexual Services Status and **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) Circumvention](core_05_band_participation.md#protected-commercial-sexual-services-status-and-article-x-c-circumvention).
+    **Primary assessment:** Detect disparate impact, pretextual "neutral" rules, proxy discrimination, high-salience [Protected Intimate-Signal Gating](core_05_band_participation.md#protected-intimate-signal-gating), and **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) status or circumvention risks. Detect punishment, exclusion, or access denial **mainly because** of lawful employment, employment history, lawful work status, lack of employment, protected association, or consensual private adult sexual conduct or history — including disadvantage aimed at individuals, groups, or institutions on that ground — without constitutionally sufficient justification. Systematic skew affecting demographically identifiable groups triggers [Substantive Fairness](core_05_band_participation.md#substantive-fairness-constitutional) analysis even where a trait is not expressly named. Read with [Protected Characteristic Proxying and Disparate Impact](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact), [Protected Intimate-Signal Gating](core_05_band_participation.md#protected-intimate-signal-gating), and [Protected Commercial Sexual Services Status and **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) Circumvention](core_05_band_participation.md#protected-commercial-sexual-services-status-and-article-x-c-circumvention).
 <a id="protected-characteristics-constitutional-c"></a>
 - **What must hold**
-  - **Primary failure:** using a protected characteristic or a functional equivalent as a ground for invidious discrimination; unjustified systematic worsening of burdens, standing, or benefits for materially comparable sentients; denying jobs, housing, banking, licenses, standing, or comparable access **mainly because** of lawful employment, employment history, lawful work status, lack of employment, or protected association without constitutionally sufficient justification. Read with the linked protected-status definitions.
+  - **Primary failure:** using a protected characteristic or a functional equivalent as a ground for invidious discrimination; unjustified systematic worsening of burdens, standing, or benefits for materially comparable sentients; denying jobs, housing, banking, licenses, standing, venue or association access, or comparable access **mainly because** of lawful employment, employment history, lawful work status, lack of employment, protected association, or consensual private adult sexual conduct or history — including against individuals, groups, or institutions — without constitutionally sufficient justification. Read with the linked protected-status definitions.
 
 ---
 
