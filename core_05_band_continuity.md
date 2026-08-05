@@ -3700,7 +3700,7 @@ See [Joint invocation and satisfaction](core_05__definitions_home.md#joint-invoc
 
 - **Scope:** the canonical O/M/A/C home for **Privacy (Informational)**, **Protected Internal-State Boundary**, and **Surveillance Boundary**, and the peer-level joint-invocation home for distributed privacy coverage across Chapter Six articles under [Joint invocation and satisfaction](core_05__definitions_home.md#joint-invocation-and-satisfaction).
 - **Admission scope:** privacy matters that materially implicate more than one article-level locus in the members list, or where informational handling, internal-state protection, or surveillance-boundary analysis is materially interdependent. Outside that scope, individual definitions may operate alone.
-- **Operational alignment:** data handling must align with **[corpus_systems.md](corpus_systems.md), CS-2 — Information types and handling**, including Type N protections for internal-state data and proportional safeguards for all classified data types.
+- **Operational alignment:** data handling must align with **[corpus_systems.md](corpus_systems.md), CS-2 — Information types and handling**, including Type N protections for internal-state data and proportional safeguards for all CS-2 data types.
 - **Anti-bypass:** privacy matters within admission scope must not be segmented across articles or definitions to satisfy one article's standard while evading another's materially implicated discipline, or to isolate privacy analysis from internal-state-boundary or surveillance-boundary assessment where those protections materially intersect. Anti-read-across for standard-setting remains as stated under **Def.C3**.
 
 See [Joint invocation and satisfaction](core_05__definitions_home.md#joint-invocation-and-satisfaction).
@@ -3885,7 +3885,7 @@ See [Joint invocation and satisfaction](core_05__definitions_home.md#joint-invoc
 
 - Constitutional frame: **Continuity** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](core_05_band_oversight.md#materiality-determination).
 - Chapter One basis: §5, §12.1, §8 (see [Chapter Five compass](../core_05__definitions_home.md#chapter-five-compass-and-definition-map) map).
-- Read with: Apply [Transparency](core_05_band_oversight.md#transparency), [Auditability](core_05_band_oversight.md#auditability), [Accountability](core_05_apex_accountability_leg.md#accountability), [Epistemic Integrity](core_05_band_oversight.md#epistemic-integrity), [Incentive Alignment](core_05_band_integrative.md#incentive-alignment), [Dependency](core_05_band_continuity.md#dependency), [Verification Accessibility](core_05_band_oversight.md#verification-accessibility), and [Psychological Harm](core_05_band_accountability.md#psychological-harm) where materially implicated.
+- Read with: Apply [Transparency](core_05_band_oversight.md#transparency), [Auditability](core_05_band_oversight.md#auditability), [Accountability](core_05_apex_accountability_leg.md#accountability), [Epistemic Integrity](core_05_band_oversight.md#epistemic-integrity), [Incentive Alignment](core_05_band_integrative.md#incentive-alignment), [Dependency](core_05_band_continuity.md#dependency), [Verifiability](core_05_band_oversight.md#verifiability), and [Psychological Harm](core_05_band_accountability.md#psychological-harm) where materially implicated.
 
 </details>
 
@@ -4074,7 +4074,7 @@ See [Joint invocation and satisfaction](core_05__definitions_home.md#joint-invoc
   - **Primary measure:** [Oversight measurement family](core_05_apex_oversight_leg.md#oversight-measurement-family) — *Can sentients see, verify, and rely on what systems represent?*
 
     **Primary assessment:** First confirm this entry actually applies — material reliance is at stake under the scope above. Then evaluate under these requirements together:
-    - **Representation-behavior consistency:** check that what the system says matches what it actually does, using [Observability](core_05_band_oversight.md#observability) evidence — not claims alone.
+    - **Representation-behavior consistency:** check that what the system says matches what it actually does, using [Verifiability](core_05_band_oversight.md#verifiability) evidence — not claims alone.
     - **Omission and contextual completeness:** check whether people get what they need to decide wisely, including:
       - material facts left out; and
       - enough surrounding context to understand what is being relied on.
@@ -4087,9 +4087,8 @@ See [Joint invocation and satisfaction](core_05__definitions_home.md#joint-invoc
     - **Attribution and correction:** support:
       - attribution of causes along an [Accountability](core_05_apex_accountability_leg.md#accountability) answerability chain; and
       - proportionate correction aligned with root causes and [Redress and Remediation](core_05_band_accountability.md#redress-and-remediation-constitutional) where systems are assessed under adopted implementation requirements on trust and reliability.
-    - **Observability, independent verification, and stressed-condition effectiveness:** supporting capabilities must be:
-      - [Observability](core_05_band_oversight.md#observability)-grounded;
-      - independently [Verifiable](core_05_band_oversight.md#verifiability); and
+    - **External detectability, independent verification, and stressed-condition effectiveness:** supporting capabilities must be:
+      - [Verifiability](core_05_band_oversight.md#verifiability)-grounded (externally detectable and independently validated); and
       - effective under normal, degraded, and adversarial conditions.
     - **Proportional intensity scaling:** [Proportional](core_05_band_accountability.md#proportionality) intensity must scale with:
       - [Material Impact](core_05_band_oversight.md#material-impact);
@@ -4104,7 +4103,6 @@ See [Joint invocation and satisfaction](core_05__definitions_home.md#joint-invoc
       - [Contestability](core_05_band_accountability.md#contestability);
       - [Auditability](core_05_band_oversight.md#auditability);
       - [Verifiability](core_05_band_oversight.md#verifiability);
-      - [Verification Accessibility](core_05_band_oversight.md#verification-accessibility);
       - [Dependency](core_05_band_continuity.md#dependency);
       - [Systemic Lock-In](core_05_band_continuity.md#systemic-lock-in);
       - [Coercion and Manipulation](core_05_band_participation.md#coercion-and-manipulation-constitutional); and

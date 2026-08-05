@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-08-04T18:25:16+00:00",
+  "generated_at": "2026-08-04T20:54:28+00:00",
   "files": {
     "core_00_preamble.md": {
       "total_lines": 252,
@@ -964,13 +964,13 @@
       ]
     },
     "core_05__definitions_home.md": {
-      "total_lines": 406,
+      "total_lines": 400,
       "sections": [
         {
           "header": "CHAPTER FIVE: FOUNDATIONAL DEFINITIONS",
           "level": 1,
           "line_start": 2,
-          "line_end": 406,
+          "line_end": 400,
           "anchor": "#chapter-five-foundational-definitions"
         },
         {
@@ -1012,35 +1012,35 @@
           "header": "Chapter Five alphabetical directory (non-operative)",
           "level": 3,
           "line_start": 76,
-          "line_end": 344,
+          "line_end": 338,
           "anchor": null
         },
         {
           "header": "Definitions A-Z",
           "level": 4,
           "line_start": 91,
-          "line_end": 321,
+          "line_end": 315,
           "anchor": "#definitions-a-z"
         },
         {
           "header": "Clusters A-Z",
           "level": 4,
-          "line_start": 322,
-          "line_end": 344,
+          "line_start": 316,
+          "line_end": 338,
           "anchor": "#clusters-a-z"
         },
         {
           "header": "Chapter Five compass and definition map",
           "level": 3,
-          "line_start": 345,
-          "line_end": 374,
+          "line_start": 339,
+          "line_end": 368,
           "anchor": "#chapter-five-compass-and-definition-map"
         },
         {
           "header": "Measurement crosswalk (reader guidance)",
           "level": 3,
-          "line_start": 375,
-          "line_end": 406,
+          "line_start": 369,
+          "line_end": 400,
           "anchor": "#chapter-five-measurement-crosswalk"
         }
       ]
@@ -1739,13 +1739,13 @@
       ]
     },
     "core_05_band_continuity.md": {
-      "total_lines": 4137,
+      "total_lines": 4135,
       "sections": [
         {
           "header": "Continuity Constitutional Definitions",
           "level": 1,
           "line_start": 1,
-          "line_end": 4137,
+          "line_end": 4135,
           "anchor": null
         },
         {
@@ -2144,7 +2144,7 @@
           "header": "Continuity: Dependent clusters",
           "level": 3,
           "line_start": 2797,
-          "line_end": 4137,
+          "line_end": 4135,
           "anchor": "#language-culture-and-heritage-constitutional-c"
         },
         {
@@ -2291,7 +2291,7 @@
           "header": "Def.C4 Trust and Trustworthiness",
           "level": 4,
           "line_start": 3881,
-          "line_end": 4137,
+          "line_end": 4135,
           "anchor": "#trust-and-trustworthiness-cluster"
         },
         {
@@ -2312,7 +2312,7 @@
           "header": "Trust Degradation and Misleading Reliance",
           "level": 5,
           "line_start": 4032,
-          "line_end": 4137,
+          "line_end": 4135,
           "anchor": "#trust-degradation-and-misleading-reliance"
         }
       ]
@@ -2442,13 +2442,13 @@
       ]
     },
     "core_05_band_oversight.md": {
-      "total_lines": 1490,
+      "total_lines": 1414,
       "sections": [
         {
           "header": "Oversight Constitutional Definitions",
           "level": 1,
           "line_start": 1,
-          "line_end": 1490,
+          "line_end": 1414,
           "anchor": null
         },
         {
@@ -2560,217 +2560,168 @@
           "header": "Oversight: Dependent clusters",
           "level": 3,
           "line_start": 580,
-          "line_end": 1490,
+          "line_end": 1414,
           "anchor": "#movement-refuge-semi-independent"
         },
         {
           "header": "Def.O1 Transparency, Auditability, and Verification",
           "level": 4,
           "line_start": 585,
-          "line_end": 1123,
+          "line_end": 1047,
           "anchor": "#transparency-auditability-and-verification-cluster"
         },
         {
           "header": "Transparency",
           "level": 5,
-          "line_start": 643,
-          "line_end": 692,
+          "line_start": 641,
+          "line_end": 685,
           "anchor": "#transparency"
         },
         {
           "header": "Public Oversight Baseline Disclosure",
           "level": 5,
-          "line_start": 693,
-          "line_end": 770,
+          "line_start": 686,
+          "line_end": 763,
           "anchor": "#public-oversight-baseline-disclosure"
         },
         {
           "header": "Risk Disclosure",
           "level": 5,
-          "line_start": 771,
-          "line_end": 811,
+          "line_start": 764,
+          "line_end": 804,
           "anchor": "#risk-disclosure"
         },
         {
           "header": "Auditability",
           "level": 5,
-          "line_start": 812,
-          "line_end": 873,
+          "line_start": 805,
+          "line_end": 878,
           "anchor": "#auditability"
         },
         {
           "header": "Evidence Preservation",
           "level": 5,
-          "line_start": 874,
-          "line_end": 920,
+          "line_start": 879,
+          "line_end": 925,
           "anchor": "#evidence-preservation"
         },
         {
           "header": "Evaluation Completeness Constraint",
           "level": 5,
-          "line_start": 921,
-          "line_end": 951,
+          "line_start": 926,
+          "line_end": 984,
           "anchor": "#evaluation-completeness-constraint"
-        },
-        {
-          "header": "Observability",
-          "level": 5,
-          "line_start": 952,
-          "line_end": 983,
-          "anchor": "#observability"
         },
         {
           "header": "Verifiability",
           "level": 5,
-          "line_start": 984,
-          "line_end": 1014,
+          "line_start": 985,
+          "line_end": 1047,
           "anchor": "#verifiability"
-        },
-        {
-          "header": "Verification",
-          "level": 5,
-          "line_start": 1015,
-          "line_end": 1027,
-          "anchor": "#verification"
-        },
-        {
-          "header": "Verification Accessibility",
-          "level": 5,
-          "line_start": 1028,
-          "line_end": 1045,
-          "anchor": "#verification-accessibility"
-        },
-        {
-          "header": "Verification Feasibility",
-          "level": 5,
-          "line_start": 1046,
-          "line_end": 1062,
-          "anchor": "#verification-feasibility"
-        },
-        {
-          "header": "Verification Independence",
-          "level": 5,
-          "line_start": 1063,
-          "line_end": 1080,
-          "anchor": "#verification-independence"
-        },
-        {
-          "header": "Verification Proportionality",
-          "level": 5,
-          "line_start": 1081,
-          "line_end": 1098,
-          "anchor": "#verification-proportionality"
-        },
-        {
-          "header": "Verification Robustness",
-          "level": 5,
-          "line_start": 1099,
-          "line_end": 1123,
-          "anchor": "#verification-robustness"
         },
         {
           "header": "Def.O2 Truth and Epistemic Integrity",
           "level": 4,
-          "line_start": 1124,
-          "line_end": 1490,
+          "line_start": 1048,
+          "line_end": 1414,
           "anchor": "#truth-and-epistemic-integrity-cluster"
         },
         {
           "header": "Publication and High-Impact Communication",
           "level": 5,
-          "line_start": 1169,
-          "line_end": 1180,
+          "line_start": 1093,
+          "line_end": 1104,
           "anchor": "#publication-and-high-impact-communication"
         },
         {
           "header": "Publication Truthfulness and Recklessness Floor",
           "level": 5,
-          "line_start": 1181,
-          "line_end": 1207,
+          "line_start": 1105,
+          "line_end": 1131,
           "anchor": "#publication-truthfulness-and-recklessness-floor"
         },
         {
           "header": "Protected Data and Internal-State Publication Constraint",
           "level": 5,
-          "line_start": 1208,
-          "line_end": 1224,
+          "line_start": 1132,
+          "line_end": 1148,
           "anchor": "#protected-data-and-internal-state-publication-constraint"
         },
         {
           "header": "High-Impact and Systemic Harm Publication Constraint",
           "level": 5,
-          "line_start": 1225,
-          "line_end": 1252,
+          "line_start": 1149,
+          "line_end": 1176,
           "anchor": "#high-impact-and-systemic-harm-publication-constraint"
         },
         {
           "header": "Security-Sensitive Disclosure Balance",
           "level": 5,
-          "line_start": 1253,
-          "line_end": 1272,
+          "line_start": 1177,
+          "line_end": 1196,
           "anchor": "#security-sensitive-disclosure-balance"
         },
         {
           "header": "Truth (Constitutional Constraint)",
           "level": 5,
-          "line_start": 1273,
-          "line_end": 1307,
+          "line_start": 1197,
+          "line_end": 1231,
           "anchor": "#truth-constitutional-constraint"
         },
         {
           "header": "Epistemic Integrity",
           "level": 5,
-          "line_start": 1308,
-          "line_end": 1345,
+          "line_start": 1232,
+          "line_end": 1269,
           "anchor": "#epistemic-integrity"
         },
         {
           "header": "Foreseeability Diligence and Reasonably Foreseeable",
           "level": 5,
-          "line_start": 1346,
-          "line_end": 1384,
+          "line_start": 1270,
+          "line_end": 1308,
           "anchor": "#foreseeability-diligence-and-reasonably-foreseeable"
         },
         {
           "header": "Foreseeability Burden",
           "level": 5,
-          "line_start": 1385,
-          "line_end": 1400,
+          "line_start": 1309,
+          "line_end": 1324,
           "anchor": null
         },
         {
           "header": "Foreseeability Diligence",
           "level": 5,
-          "line_start": 1401,
-          "line_end": 1418,
+          "line_start": 1325,
+          "line_end": 1342,
           "anchor": "#foreseeability-diligence"
         },
         {
           "header": "Foreseeability Failure",
           "level": 5,
-          "line_start": 1419,
-          "line_end": 1433,
+          "line_start": 1343,
+          "line_end": 1357,
           "anchor": "#foreseeability-diligence-c"
         },
         {
           "header": "Foreseeability Scaling",
           "level": 5,
-          "line_start": 1434,
-          "line_end": 1448,
+          "line_start": 1358,
+          "line_end": 1372,
           "anchor": "#foreseeability-failure-c"
         },
         {
           "header": "Foreseeability Scope",
           "level": 5,
-          "line_start": 1449,
-          "line_end": 1469,
+          "line_start": 1373,
+          "line_end": 1393,
           "anchor": "#foreseeability-scaling-c"
         },
         {
           "header": "Reasonably Foreseeable",
           "level": 5,
-          "line_start": 1470,
-          "line_end": 1490,
+          "line_start": 1394,
+          "line_end": 1414,
           "anchor": "#reasonably-foreseeable"
         }
       ]
@@ -8602,55 +8553,55 @@
       ]
     },
     "corpus_forum/cf_08_forum_forensic_analytical_support.md": {
-      "total_lines": 240,
+      "total_lines": 236,
       "sections": [
         {
           "header": "CF-8: Forum forensic and analytical support",
           "level": 2,
           "line_start": 1,
-          "line_end": 240,
+          "line_end": 236,
           "anchor": null
         },
         {
           "header": "CF-8.1 When forensic or analytical support is required",
           "level": 3,
-          "line_start": 33,
-          "line_end": 67,
+          "line_start": 31,
+          "line_end": 65,
           "anchor": null
         },
         {
           "header": "CF-8.2 What support personnel may do",
           "level": 3,
-          "line_start": 68,
-          "line_end": 104,
+          "line_start": 66,
+          "line_end": 102,
           "anchor": null
         },
         {
           "header": "CF-8.3 Independence, conflicts, and challenges",
           "level": 3,
-          "line_start": 105,
-          "line_end": 140,
+          "line_start": 103,
+          "line_end": 138,
           "anchor": null
         },
         {
           "header": "CF-8.4 Evidence custody and method records",
           "level": 3,
-          "line_start": 141,
-          "line_end": 175,
+          "line_start": 139,
+          "line_end": 171,
           "anchor": null
         },
         {
           "header": "CF-8.5 Reports, explanations, and emergency preservation",
           "level": 3,
-          "line_start": 176,
-          "line_end": 205,
+          "line_start": 172,
+          "line_end": 201,
           "anchor": null
         },
         {
           "header": "CF-8.6 Boundary with contest-integrity monitoring",
           "level": 3,
-          "line_start": 206,
-          "line_end": 240,
+          "line_start": 202,
+          "line_end": 236,
           "anchor": null
         }
       ]

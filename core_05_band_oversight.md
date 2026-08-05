@@ -596,7 +596,7 @@ Implication can exist without misalignment. Misalignment always implies material
 <br>
 
 
-This cluster is the joint home for disclosure, audit, observability, verification, and assurance depth when Chapters Two through Four require traceable, challengeable evidence of what a system does and whether compliance claims hold.
+This cluster is the joint home for disclosure, audit, verification (including external detectability), and assurance depth when Chapters Two through Four require traceable, challengeable evidence of what a system does and whether compliance claims hold.
 
 **Oversight frame.** Under the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) **oversight** leg, oversight requires auditing — being able to reconstruct what happened, verify it independently, and get audit access — owned here and at **Article XV** (*Audit, Transparency, and Independent Verification*). [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional) is one especially large, high-stakes audit process among others (forum-supervised alignment review with recognition outcomes under [Chapter Seven](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification)); it does not swallow this cluster or replace sibling audit modes.
 
@@ -606,7 +606,7 @@ This cluster is the joint home for disclosure, audit, observability, verificatio
 - evidence preservation;
 - auditability and records good enough to reconstruct what happened;
 - evaluation completeness against plausible failure modes;
-- observable indicators;
+- externally detectable indicators usable for audit and independent verification;
 - independent verification; or
 - whether verification is accessible and independent under scaled or adversarial conditions.
 Outside that scope, individual entries may still apply on their own without importing the whole cluster.
@@ -617,7 +617,7 @@ Outside that scope, individual entries may still apply on their own without impo
 - stronger independent verification; and
 - broader audit scope.
 
-**Reading order.** Start with what must be disclosed ([Transparency](core_05_band_oversight.md#transparency), [Public Oversight Baseline Disclosure](core_05_band_oversight.md#public-oversight-baseline-disclosure), [Risk Disclosure](core_05_band_oversight.md#risk-disclosure)); then whether outsiders can reconstruct ([Auditability](core_05_band_oversight.md#auditability) and audit supports); then whether behavior is externally detectable ([Observability](core_05_band_oversight.md#observability)); then whether claims can be independently checked ([Verifiability](core_05_band_oversight.md#verifiability) and the [Verification](core_05_band_oversight.md#verification) sub-block).
+**Reading order.** Start with what must be disclosed ([Transparency](core_05_band_oversight.md#transparency), [Public Oversight Baseline Disclosure](core_05_band_oversight.md#public-oversight-baseline-disclosure), [Risk Disclosure](core_05_band_oversight.md#risk-disclosure)); then whether outsiders can reconstruct ([Auditability](core_05_band_oversight.md#auditability) and audit supports); then whether behavior is externally detectable and independently checkable ([Verifiability](core_05_band_oversight.md#verifiability)).
 
 **Cluster members.** This cluster comprises:
 
@@ -626,10 +626,8 @@ Outside that scope, individual entries may still apply on their own without impo
 - [Risk Disclosure](core_05_band_oversight.md#risk-disclosure) — communicating evaluated systemic risk to those who need it;
 - [Auditability](core_05_band_oversight.md#auditability) — whether outsiders can reconstruct and check what a system did, across the material times, states, and contexts that matter;
 - [Evidence Preservation](core_05_band_oversight.md#evidence-preservation) — identify, secure, and keep materially relevant evidence reviewably available;
-- [Evaluation Completeness Constraint](core_05_band_oversight.md#evaluation-completeness-constraint) — cover plausible failure, misuse, interaction, and adversarial pathways before claiming compliance;
-- [Observability](core_05_band_oversight.md#observability) — externally detect and measure behavior and effects;
-- [Verifiability](core_05_band_oversight.md#verifiability) — independently validate what was observed; and
-- [Verification](core_05_band_oversight.md#verification) — nested sub-block for accessibility, feasibility, independence, proportionality, and robustness read together with **Verifiability** (not a separate §3 cluster head).
+- [Evaluation Completeness Constraint](core_05_band_oversight.md#evaluation-completeness-constraint) — cover plausible failure, misuse, interaction, and adversarial pathways before claiming compliance; and
+- [Verifiability](core_05_band_oversight.md#verifiability) — externally detect and measure behavior and effects, and independently validate what was observed under practical access, independence, proportionate burden, and stressed-condition reliability.
 
 **Anti-bypass.** Within the admission scope, do not split the matter into separate disclosure, preservation, logging, metrics, audit sampling, verification UX, or independence questions in a way that checks a box on one channel while defeating practical reconstruction, challenge, or proportionate assurance depth.
 
@@ -647,7 +645,7 @@ See [Joint invocation and satisfaction](core_05__definitions_home.md#joint-invoc
 
 - Cluster component: [Def.O1 *Transparency, Auditability, and Verification*](core_05_band_oversight.md#transparency-auditability-and-verification-cluster).
 - Downstream: Principles: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **oversight** leg; [§9 Stewardship and Distributed Understanding](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding), [10.2.1 Preservation of Epistemic Integrity](core_01_b_interaction_interpretation.md#621-preservation-of-epistemic-integrity).
-- Read with: [Epistemic Integrity](core_05_band_oversight.md#epistemic-integrity), [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint), [Contestability](core_05_band_accountability.md#contestability), [Auditability](core_05_band_oversight.md#auditability), [Public Oversight Baseline Disclosure](core_05_band_oversight.md#public-oversight-baseline-disclosure), [Risk Disclosure](core_05_band_oversight.md#risk-disclosure), [Verifiability](core_05_band_oversight.md#verifiability), [Verification](core_05_band_oversight.md#verification), and **[corpus_systems.md](corpus_systems.md), CS-2 — Information types and handling** (**Type O** — open public oversight baseline disclosure data).
+- Read with: [Epistemic Integrity](core_05_band_oversight.md#epistemic-integrity), [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint), [Contestability](core_05_band_accountability.md#contestability), [Auditability](core_05_band_oversight.md#auditability), [Public Oversight Baseline Disclosure](core_05_band_oversight.md#public-oversight-baseline-disclosure), [Risk Disclosure](core_05_band_oversight.md#risk-disclosure), [Verifiability](core_05_band_oversight.md#verifiability), and **[corpus_systems.md](corpus_systems.md), CS-2 — Information types and handling** (**Type O** — open public oversight baseline disclosure data).
 
 </details>
 
@@ -672,12 +670,7 @@ See [Joint invocation and satisfaction](core_05__definitions_home.md#joint-invoc
     **Primary assessment:** Compare what is disclosed to [Material Impact](core_05_band_oversight.md#material-impact) and [Dependency](core_05_band_continuity.md#dependency).
   - **Secondary measure:** [Epistemic Integrity](core_05_band_oversight.md#epistemic-integrity), [Material Impact](core_05_band_oversight.md#material-impact), [Dependency](core_05_band_continuity.md#dependency), [Auditability](core_05_band_oversight.md#auditability), and [Verifiability](core_05_band_oversight.md#verifiability) — co-measures that can defeat transparency even when disclosure volume is high.
 
-    **Secondary assessment:** When checking the primary answer, spot volume, obscurity, or formatting standing in for decision-relevant clarity; apply safety- and security-justified limits consistent with [Epistemic Integrity](core_05_band_oversight.md#epistemic-integrity). Decision-relevant disclosure fails in practice when it cannot be checked — do not treat unverifiable disclosure as decision-relevant clarity. [Verifiability](core_05_band_oversight.md#verifiability) and the [Verification](core_05_band_oversight.md#verification) sub-block own those check conditions, including:
-    - [Verification Independence](core_05_band_oversight.md#verification-independence) — outsiders can validate without operator self-assertion;
-    - [Verification Accessibility](core_05_band_oversight.md#verification-accessibility) — affected parties can actually perform the check;
-    - [Verification Feasibility](core_05_band_oversight.md#verification-feasibility) — the method is usable, not theoretical;
-    - [Verification Proportionality](core_05_band_oversight.md#verification-proportionality) — burden matches impact; and
-    - [Verification Robustness](core_05_band_oversight.md#verification-robustness) — the check still works under stress, misuse, and adversarial pressure.
+    **Secondary assessment:** When checking the primary answer, spot volume, obscurity, or formatting standing in for decision-relevant clarity; apply safety- and security-justified limits consistent with [Epistemic Integrity](core_05_band_oversight.md#epistemic-integrity). Decision-relevant disclosure fails in practice when it cannot be checked — do not treat unverifiable disclosure as decision-relevant clarity. [Verifiability](core_05_band_oversight.md#verifiability) owns those check conditions, including practical access, independence from operator self-assertion, proportionate burden, and reliability under stress, misuse, and adversarial pressure.
   - **Tertiary measure:** [Proxy Divergence](core_05_band_oversight.md#proxy-divergence) — where volume, formatting, or procedural opacity stands in for decision-relevant clarity.
 
     **Tertiary assessment:** Where operators lean on disclosure volume or formatting, apply [Proxy Divergence](core_05_band_oversight.md#proxy-divergence) — separate real transparency from burying people in volume.
@@ -815,7 +808,7 @@ See [Joint invocation and satisfaction](core_05__definitions_home.md#joint-invoc
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Cluster component: [Def.O1 *Transparency, Auditability, and Verification*](core_05_band_oversight.md#transparency-auditability-and-verification-cluster).
-- Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **oversight** leg; [Accountability](core_05_apex_accountability_leg.md#accountability), [Contestability](core_05_band_accountability.md#contestability), [Epistemic Integrity](core_05_band_oversight.md#epistemic-integrity), [Transparency](core_05_band_oversight.md#transparency), [Observability](core_05_band_oversight.md#observability), [Verifiability](core_05_band_oversight.md#verifiability), [Evidence Preservation](core_05_band_oversight.md#evidence-preservation), and [Evaluation Completeness Constraint](core_05_band_oversight.md#evaluation-completeness-constraint).
+- Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **oversight** leg; [Accountability](core_05_apex_accountability_leg.md#accountability), [Contestability](core_05_band_accountability.md#contestability), [Epistemic Integrity](core_05_band_oversight.md#epistemic-integrity), [Transparency](core_05_band_oversight.md#transparency), [Verifiability](core_05_band_oversight.md#verifiability), [Evidence Preservation](core_05_band_oversight.md#evidence-preservation), and [Evaluation Completeness Constraint](core_05_band_oversight.md#evaluation-completeness-constraint).
 - Read with: **Article XV** (*Audit, Transparency, and Independent Verification*); [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional) (*one especially large audit process under oversight — not the sole auditing home*); owner-layer mechanics in [core_02-03_definition_mechanics.md](core_02-03_definition_mechanics.md) Chapters Two through Four.
 
 </details>
@@ -825,7 +818,7 @@ See [Joint invocation and satisfaction](core_05__definitions_home.md#joint-invoc
 *In plain terms: **auditability** is whether outsiders can actually reconstruct and check what a system did — across the real times, states, and situations that matter, not just one happy-path snapshot. System alignment certification is one especially large way that property gets exercised for high-stakes systems; it is not the only auditing process.*
 
 - **What it is**
-  - **In scope:** Whether outsiders can systematically examine, reconstruct, and evaluate system behavior through enough [Observability](core_05_band_oversight.md#observability) and [Verifiability](core_05_band_oversight.md#verifiability).
+  - **In scope:** Whether outsiders can systematically examine, reconstruct, and evaluate system behavior through enough [Verifiability](core_05_band_oversight.md#verifiability) — including external detectability and independent validation.
     - **Coverage:** Must span the material times, states, and interaction contexts — not only a single snapshot or happy-path sample.
     - **Oversight role:** Under the **oversight** Tetrad leg, oversight requires this property; [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional) is one especially large, high-stakes audit process that depends on it, among sibling audit modes.
     - **Operational capability:** Where binding duties require operational capability, auditability includes checking that claimed compliance rests on real, reconstructable capability — not text, assertions, or unimplemented controls alone ([Authority Stack and Internal Hierarchy](core_05_band_integrative.md#authority-stack) supremacy effect).
@@ -848,11 +841,11 @@ See [Joint invocation and satisfaction](core_05__definitions_home.md#joint-invoc
       - paper controls;
       - emergency practice; or
       - unobservable claims.
-  - **Secondary measure:** [Observability](core_05_band_oversight.md#observability), [Verifiability](core_05_band_oversight.md#verifiability), [Evidence Preservation](core_05_band_oversight.md#evidence-preservation), and [Contestability](core_05_band_accountability.md#contestability) — other checks that can show auditability failed even when some audit channel exists on paper.
+  - **Secondary measure:** [Verifiability](core_05_band_oversight.md#verifiability), [Evidence Preservation](core_05_band_oversight.md#evidence-preservation), and [Contestability](core_05_band_accountability.md#contestability) — other checks that can show auditability failed even when some audit channel exists on paper.
 
     **Secondary assessment:** When checking the primary answer:
     - where stewardship relies on repeated comparable measures, audit paths should support reviewing variation over time and threshold-triggered follow-through when claimed ([Chapter One §9.3 Institutional Development](core_01_c_stewardship_capacity_principles.md#93-institutional-development); [Proportionality](core_05_band_accountability.md#proportionality)); and
-    - confirm audit coverage reaches the evaluation criteria, components, dependencies, actors, conditions, and effects that matter — and is available for independent [Verification](core_05_band_oversight.md#verifiability) and [Oversight](core_05_apex_oversight_leg.md#oversight-constitutional).
+    - confirm audit coverage reaches the evaluation criteria, components, dependencies, actors, conditions, and effects that matter — and is available for independent [Verifiability](core_05_band_oversight.md#verifiability) and [Oversight](core_05_apex_oversight_leg.md#oversight-constitutional).
   - **Tertiary measure:** [Proxy Divergence](core_05_band_oversight.md#proxy-divergence) — where sampling, metrics, or ceremonial review stands in for practical reconstruction.
 
     **Tertiary assessment:** Where operators lean on check-the-box audit channels or thin sampling, apply [Proxy Divergence](core_05_band_oversight.md#proxy-divergence) — ask whether outsiders can really reconstruct what happened, or whether the review is mostly for show.
@@ -982,37 +975,12 @@ See [Joint invocation and satisfaction](core_05__definitions_home.md#joint-invoc
 ---
 
 <a id="observability"></a>
-##### Observability
-
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Cluster component: [Def.O1 *Transparency, Auditability, and Verification*](core_05_band_oversight.md#transparency-auditability-and-verification-cluster).
-- Read with: [Auditability](core_05_band_oversight.md#auditability), [Verifiability](core_05_band_oversight.md#verifiability), [Transparency](core_05_band_oversight.md#transparency), and [Contestability](core_05_band_accountability.md#contestability).
-
-</details>
-
-<br>
-
-*In plain terms: outsiders can detect and measure what the system does — not only what operators see inside.*
-
-- **What it is**
-  - **In scope:** Whether system behavior, outputs, and effects can be externally detected and measured in ways usable for [Auditability](core_05_band_oversight.md#auditability) and [Verifiability](core_05_band_oversight.md#verifiability).
-  - **Out of scope:** Internal self-monitoring alone, or signals outsiders cannot detect or measure in ways usable for audit and verification.
-<a id="observability-a"></a>
-- **How to measure and assess**
-  - **Primary measure:** [Oversight measurement family](core_05_apex_oversight_leg.md#oversight-measurement-family) — *Can sentients see, verify, and rely on what systems represent?* Use it here to ask whether system behavior and effects can be externally detected and measured for audit and verification — including under degraded and adversarial conditions.
-
-    **Primary assessment:** Include conditions consistent with [Auditability](core_05_band_oversight.md#auditability) and [Reasonably Foreseeable](core_05_band_oversight.md#reasonably-foreseeable) operating contexts:
-    - normal;
-    - degraded; and
-    - adversarial.
-<a id="observability-c"></a>
-- **What must hold**
-  - **Primary failure:** insufficient observability that defeats [Auditability](core_05_band_oversight.md#auditability), [Verifiability](core_05_band_oversight.md#verifiability), or [Contestability](core_05_band_accountability.md#contestability).
-
----
-
+<a id="verification"></a>
+<a id="verification-accessibility"></a>
+<a id="verification-feasibility"></a>
+<a id="verification-independence"></a>
+<a id="verification-proportionality"></a>
+<a id="verification-robustness"></a>
 <a id="verifiability"></a>
 ##### Verifiability
 
@@ -1020,134 +988,66 @@ See [Joint invocation and satisfaction](core_05__definitions_home.md#joint-invoc
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Cluster component: [Def.O1 *Transparency, Auditability, and Verification*](core_05_band_oversight.md#transparency-auditability-and-verification-cluster).
-- Read with: [Observability](core_05_band_oversight.md#observability), [Auditability](core_05_band_oversight.md#auditability), [Transparency](core_05_band_oversight.md#transparency), [Verification](core_05_band_oversight.md#verification), [Contestability](core_05_band_accountability.md#contestability), and [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint).
+- Owner floor: [Article XV-C](core_06-06_rights_part_c.md#article-xv-c-verification-accessibility) (*Verification Accessibility*) for practical verification access.
+- Read with: [Auditability](core_05_band_oversight.md#auditability), [Transparency](core_05_band_oversight.md#transparency), [Contestability](core_05_band_accountability.md#contestability), [Proportionality](core_05_band_accountability.md#proportionality), [Feasibility](core_05_band_accountability.md#feasibility), [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint), and [Adversarial, Scaled, and Exploited Conditions](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions).
 
 </details>
 
 <br>
 
-*In plain terms: someone independent can check what was observed — not just take the operator's word for it.*
+*In plain terms: outsiders can detect and measure what the system does, and someone independent can actually check those observations in practice — not only what operators see inside, take the operator's word for it, or hold a verification right on paper.*
 
 - **What it is**
-  - **In scope:** Whether [Observability](core_05_band_oversight.md#observability)-based system behavior can be independently validated.
-  - **Out of scope:** Operator self-assertion, or observed signals that cannot be independently validated.
+  - **In scope:** Whether system behavior, outputs, and effects can be externally detected, measured, and independently validated for [Auditability](core_05_band_oversight.md#auditability). Constitutive conditions:
+    - external detectability before independent validation counts;
+    - practical access ([Article XV-C](core_06-06_rights_part_c.md#article-xv-c-verification-accessibility); [Feasibility](core_05_band_accountability.md#feasibility));
+    - independence from operator self-assertion;
+    - proportionate burden under [Proportionality](core_05_band_accountability.md#proportionality) and [Material Impact](core_05_band_oversight.md#material-impact); and
+    - reliability under ordinary stress, misuse, and [Adversarial, Scaled, and Exploited Conditions](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions).
+  - **Out of scope:** Internal telemetry alone; operator self-assertion treated as proof; or verification that exists only in theory or only under ideal conditions.
+<a id="observability-a"></a>
+<a id="verification-accessibility-a"></a>
+<a id="verification-feasibility-a"></a>
+<a id="verification-independence-a"></a>
+<a id="verification-proportionality-a"></a>
+<a id="verification-robustness-a"></a>
 <a id="verifiability-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Oversight measurement family](core_05_apex_oversight_leg.md#oversight-measurement-family) — *Can sentients see, verify, and rely on what systems represent?* Use it here to ask whether observed behavior can be independently validated by reproducible methods proportionate to impact.
+  - **Primary measure:** [Oversight measurement family](core_05_apex_oversight_leg.md#oversight-measurement-family) — *Can sentients see, verify, and rely on what systems represent?* Use it here to ask whether behavior is externally detectable and measurable for [Auditability](core_05_band_oversight.md#auditability).
 
-    **Primary assessment:** Use reproducible methods sized to system impact, aligned with [Proportionality](core_05_band_accountability.md#proportionality), [Material Impact](core_05_band_oversight.md#material-impact), and [Verification Independence](core_05_band_oversight.md#verification-independence).
-  - **Secondary measure:** [Auditability](core_05_band_oversight.md#auditability), [Verification Independence](core_05_band_oversight.md#verification-independence), [Material Impact](core_05_band_oversight.md#material-impact), and [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint) — co-measures that can defeat verification even when methods are nominally documented.
+    **Primary assessment:** Confirm external detectability under [Auditability](core_05_band_oversight.md#auditability) and [Reasonably Foreseeable](core_05_band_oversight.md#reasonably-foreseeable) operating contexts:
+    - normal;
+    - degraded; and
+    - adversarial.
+  - **Secondary measure:** [Oversight measurement family](core_05_apex_oversight_leg.md#oversight-measurement-family) — *Can sentients see, verify, and rely on what systems represent?* Use it here to ask whether observed behavior can be independently validated by reproducible methods in practice.
 
-    **Secondary assessment:** When checking the primary answer, include [Verification Accessibility](core_05_band_oversight.md#verification-accessibility) and [Verification Robustness](core_05_band_oversight.md#verification-robustness) under degraded and adversarial conditions where material.
+    **Secondary assessment:** Confirm independent validation by methods that:
+    - affected and appropriately authorized parties can actually perform ([Article XV-C](core_06-06_rights_part_c.md#article-xv-c-verification-accessibility); [Feasibility](core_05_band_accountability.md#feasibility));
+    - rest on externally detectable evidence — not internal claims or inferred intent;
+    - are sized to system impact under [Proportionality](core_05_band_accountability.md#proportionality) and [Material Impact](core_05_band_oversight.md#material-impact); and
+    - remain reliable under ordinary stress, misuse, and [Adversarial, Scaled, and Exploited Conditions](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions).
+  - **Tertiary measure:** [Auditability](core_05_band_oversight.md#auditability), [Material Impact](core_05_band_oversight.md#material-impact), [Contestability](core_05_band_accountability.md#contestability), and [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint) — co-measures that can defeat verification even when methods are nominally documented.
+
+    **Tertiary assessment:** When checking the primary and secondary answers, spot verification that fails any constitutive condition above even when a channel exists on paper.
+<a id="observability-c"></a>
+<a id="verification-accessibility-c"></a>
+<a id="verification-feasibility-c"></a>
+<a id="verification-independence-c"></a>
+<a id="verification-proportionality-c"></a>
+<a id="verification-robustness-c"></a>
 <a id="verifiability-c"></a>
 - **What must hold**
-  - **Primary failure:** unverifiable claims under [Auditability](core_05_band_oversight.md#auditability), [Transparency](core_05_band_oversight.md#transparency), or [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint).
-  - **Secondary failure:** verification that exists only in theory where [Verification Accessibility](core_05_band_oversight.md#verification-accessibility) or [Contestability](core_05_band_accountability.md#contestability) is missing in practice.
-
-<a id="verification"></a>
-##### Verification
-
-This nested sub-block is the joint home for verification conditions within Def.O1 *Transparency, Auditability, and Verification*. Read the facets together with [Verifiability](core_05_band_oversight.md#verifiability) — checking a verification box alone is not enough when accessibility, feasibility, independence, proportionality, or robustness still fail.
-
-**Sub-block members.** This sub-block comprises:
-
-- [Verification Accessibility](core_05_band_oversight.md#verification-accessibility) — stakeholders can perform verification in practice;
-- [Verification Feasibility](core_05_band_oversight.md#verification-feasibility) — verification mechanisms are practical, not theoretical;
-- [Verification Independence](core_05_band_oversight.md#verification-independence) — validation rests on externally observable evidence, not internal claims;
-- [Verification Proportionality](core_05_band_oversight.md#verification-proportionality) — verification burden matches system impact; and
-- [Verification Robustness](core_05_band_oversight.md#verification-robustness) — verification stays reliable under stress, misuse, and adversarial pressure.
-
-<a id="verification-accessibility"></a>
-##### Verification Accessibility
-
-*In plain terms: people who need to verify can actually do it — not only hold a right on paper.*
-
-- **What it is**
-  - **In scope:** Whether [Stakeholders](core_05_band_participation.md#stakeholder) can perform verification in practice.
-  - **Out of scope:** A theoretical right to verify, or a channel that exists only on paper for stakeholders who cannot actually use it.
-<a id="verification-accessibility-a"></a>
-- **How to measure and assess**
-  - **Primary measure:** [Oversight measurement family](core_05_apex_oversight_leg.md#oversight-measurement-family) — *Can sentients see, verify, and rely on what systems represent?* Use it here to ask whether stakeholders can actually perform verification in practice — not only hold a theoretical right to verify.
-
-    **Primary assessment:** Check proportional access and [Feasibility](core_05_band_accountability.md#feasibility).
-<a id="verification-accessibility-c"></a>
-- **What must hold**
-  - Verification must be practically achievable under [Feasibility](core_05_band_accountability.md#feasibility), not merely available in name.
-  - **Primary failure:** using a verification process that affected parties or authorized reviewers cannot practically access or complete.
-
-<a id="verification-feasibility"></a>
-##### Verification Feasibility
-
-*In plain terms: the verification method has to be usable in the real world — not only clever on paper.*
-
-- **What it is**
-  - **In scope:** Verification mechanisms must be practical, not theoretical.
-  - **Out of scope:** Mechanisms that work only in theory, or that demand impractical cost, tools, or conditions.
-<a id="verification-feasibility-a"></a>
-- **How to measure and assess**
-  - **Primary measure:** [Oversight measurement family](core_05_apex_oversight_leg.md#oversight-measurement-family) — *Can sentients see, verify, and rely on what systems represent?* Use it here to ask whether verification mechanisms are practical to use — not only theoretically sound.
-
-    **Primary assessment:** Reject inaccessible or impractical verification, including where [Verification Accessibility](core_05_band_oversight.md#verification-accessibility) is missing in practice.
-<a id="verification-feasibility-c"></a>
-- **What must hold**
-  - **Primary failure:** verification that exists only in theory where [Verification Accessibility](core_05_band_oversight.md#verification-accessibility), [Feasibility](core_05_band_accountability.md#feasibility), or [Contestability](core_05_band_accountability.md#contestability) is missing in practice.
-
-<a id="verification-independence"></a>
-##### Verification Independence
-
-*In plain terms: check what outsiders can observe — do not take the operator's private claims or guessed intent as proof.*
-
-- **What it is**
-  - **In scope:** Validation that does not depend on internal claims or inferred intent, resting instead on [Observability](core_05_band_oversight.md#observability) and [Verifiability](core_05_band_oversight.md#verifiability).
-  - **Out of scope:** Validation that still rests on internal claims, inferred intent, or the operator's own assurances.
-<a id="verification-independence-a"></a>
-- **How to measure and assess**
-  - **Primary measure:** [Oversight measurement family](core_05_apex_oversight_leg.md#oversight-measurement-family) — *Can sentients see, verify, and rely on what systems represent?* Use it here to ask whether validation rests on externally observable evidence — not internal claims or inferred intent.
-
-    **Primary assessment:** Rely on externally observable evidence.
-<a id="verification-independence-c"></a>
-- **What must hold**
-  - Verification must be independently reproducible under [Verifiability](core_05_band_oversight.md#verifiability) — not dependent on internal assertion or insulated from [Contestability](core_05_band_accountability.md#contestability).
-  - **Primary failure:** using verification that an independent qualified reviewer cannot reproduce with the required evidence and access.
-
-<a id="verification-proportionality"></a>
-##### Verification Proportionality
-
-*In plain terms: how hard verification is should match how big the impact is — not crushing for small stakes, not token for large ones.*
-
-- **What it is**
-  - **In scope:** Whether verification burden matches system impact.
-  - **Out of scope:** Extreme verification burden for low-impact systems, or token verification for high-impact ones.
-<a id="verification-proportionality-a"></a>
-- **How to measure and assess**
-  - **Primary measure:** [Oversight measurement family](core_05_apex_oversight_leg.md#oversight-measurement-family) — *Can sentients see, verify, and rely on what systems represent?* Use it here to ask whether verification burden matches system impact — neither extreme for low-impact systems nor token for high-impact ones.
-
-    **Primary assessment:** Spot disproportionate requirements under [Proportionality](core_05_band_accountability.md#proportionality).
-<a id="verification-proportionality-c"></a>
-- **What must hold**
-  - Verification must not require excessive cost or access.
-  - **Primary failure:** requiring verification cost, access, or burden that is excessive relative to the matter being verified.
-
-<a id="verification-robustness"></a>
-##### Verification Robustness
-
-*In plain terms: verification still works under stress, misuse, and adversarial pressure — not only when everything is ideal.*
-
-- **What it is**
-  - **In scope:** Whether verification stays reliable under all operating conditions.
-  - **Out of scope:** Verification that works only under ideal or cooperative conditions and fails under:
-    - ordinary stress;
-    - misuse; or
-    - adversarial pressure.
-<a id="verification-robustness-a"></a>
-- **How to measure and assess**
-  - **Primary measure:** [Oversight measurement family](core_05_apex_oversight_leg.md#oversight-measurement-family) — *Can sentients see, verify, and rely on what systems represent?* Use it here to ask whether verification stays reliable under ordinary stress, misuse, and adversarial pressure — not only under ideal conditions.
-
-    **Primary assessment:** Include degraded and adversarial conditions, including [Reasonably Foreseeable](core_05_band_oversight.md#reasonably-foreseeable) stressors and [Adversarial, Scaled, and Exploited Conditions](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions).
-<a id="verification-robustness-c"></a>
-- **What must hold**
-  - Verification must remain reliable across [Reasonably Foreseeable](core_05_band_oversight.md#reasonably-foreseeable) conditions.
-  - **Primary failure:** using verification that becomes unreliable under [Reasonably Foreseeable](core_05_band_oversight.md#reasonably-foreseeable) operating, degraded, scaled, or adversarial conditions.
+  - **Primary failure:**
+    - insufficient external detectability that defeats [Auditability](core_05_band_oversight.md#auditability), [Contestability](core_05_band_accountability.md#contestability), or independent validation; or
+    - unverifiable claims under [Auditability](core_05_band_oversight.md#auditability), [Transparency](core_05_band_oversight.md#transparency), or [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint).
+  - **Secondary failure:**
+    - verification that exists only in theory;
+    - verification that affected parties or authorized reviewers cannot practically access or complete;
+    - verification that depends on internal assertion;
+    - verification whose burden is excessive for low impact, or token for high impact;
+    - verification that an independent qualified reviewer cannot reproduce with the required evidence and access; or
+    - verification that becomes unreliable under [Reasonably Foreseeable](core_05_band_oversight.md#reasonably-foreseeable) operating, degraded, scaled, or adversarial conditions.
+  - **Tertiary failure:** a verification channel that exists on paper while [Contestability](core_05_band_accountability.md#contestability) or another constitutive condition is missing in practice.
 
 ---
 
@@ -1163,7 +1063,7 @@ This nested sub-block is the joint home for verification conditions within Def.O
 - Downstream: Oversight measurement family (*Truth and epistemic integrity as constitutional measurement*).
 - Cross-leg note: integrative with **Accountability** where contest and correction are implicated.
 - Chapter One basis: Chapter One §8.2, §3.3, §4, §12.1, §12.2 (see [Chapter Five compass](../core_05__definitions_home.md#chapter-five-compass-and-definition-map) map).
-- Read with: Apply [Good Faith](core_05_band_accountability.md#good-faith), [Materiality Determination](core_05_band_oversight.md#materiality-determination), [Dependency](core_05_band_continuity.md#dependency), [Transparency](core_05_band_oversight.md#transparency), [Auditability](core_05_band_oversight.md#auditability), [Observability](core_05_band_oversight.md#observability), [Verifiability](core_05_band_oversight.md#verifiability), [Contestability](core_05_band_accountability.md#contestability), [Safety (Constraint)](core_05_band_continuity.md#safety-constraint), [Risk](core_05_band_continuity.md#risk), and Chapters Two through Four mechanics where materially implicated.
+- Read with: Apply [Good Faith](core_05_band_accountability.md#good-faith), [Materiality Determination](core_05_band_oversight.md#materiality-determination), [Dependency](core_05_band_continuity.md#dependency), [Transparency](core_05_band_oversight.md#transparency), [Auditability](core_05_band_oversight.md#auditability), [Verifiability](core_05_band_oversight.md#verifiability), [Contestability](core_05_band_accountability.md#contestability), [Safety (Constraint)](core_05_band_continuity.md#safety-constraint), [Risk](core_05_band_continuity.md#risk), and Chapters Two through Four mechanics where materially implicated.
 
 </details>
 
@@ -1206,7 +1106,7 @@ This nested sub-block is the joint home for publication-conduct floors and inter
 **Sub-block members.** This sub-block comprises:
 
 - [Publication Truthfulness and Recklessness Floor](core_05_band_oversight.md#publication-truthfulness-and-recklessness-floor) — no knowing falsity or reckless disregard for accuracy, uncertainty, context, or interpretive limits;
-- [Protected Data and Internal-State Publication Constraint](core_05_band_oversight.md#protected-data-and-internal-state-publication-constraint) — do not publish classified data or expose protected internal states;
+- [Protected Data and Internal-State Publication Constraint](core_05_band_oversight.md#protected-data-and-internal-state-publication-constraint) — do not publish restricted data or expose protected internal states;
 - [High-Impact and Systemic Harm Publication Constraint](core_05_band_oversight.md#high-impact-and-systemic-harm-publication-constraint) — constrain publication that foreseeably enables targeted harm, coercion, harmful coordination, or cascading failure; and
 - [Security-Sensitive Disclosure Balance](core_05_band_oversight.md#security-sensitive-disclosure-balance) — weigh disclosure benefits against exploitation, circumvention, and adversarial-manipulation risk.
 
@@ -1217,7 +1117,9 @@ This nested sub-block is the joint home for publication-conduct floors and inter
 
 - **What it is**
   - **In scope:** Bounds on communicative conduct when publishing or communicating as a factual assertion within the [Info-Sphere](core_05_band_participation.md#info-sphere).
-  - **Out of scope:** Opinion, commentary, satire, or good-faith error that is not presented as a factual assertion.
+  - **Out of scope:**
+    - opinion, commentary, or satire that is not presented as a factual assertion; and
+    - good-faith error that is neither knowing falsity nor reckless disregard for accuracy, uncertainty, context, or material interpretive limits.
 <a id="publication-truthfulness-and-recklessness-floor-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Oversight measurement family](core_05_apex_oversight_leg.md#oversight-measurement-family) — *Can sentients see, verify, and rely on what systems represent?* Use it here to ask whether factual publication stays honest about accuracy, uncertainty, context, and interpretive limits — distinguishing knowing falsity or reckless disregard from good-faith observation.
@@ -1240,19 +1142,19 @@ This nested sub-block is the joint home for publication-conduct floors and inter
 <a id="protected-data-and-internal-state-publication-constraint"></a>
 ##### Protected Data and Internal-State Publication Constraint
 
-*In plain terms: do not publish classified data or expose another sentient's protected inner cognitive or emotional states.*
+*In plain terms: do not publish restricted data or expose another sentient's protected inner cognitive or emotional states.*
 
 - **What it is**
-  - **In scope:** Limits on publishing content that violates classified-data rules or exposes protected internal states within the [Info-Sphere](core_05_band_participation.md#info-sphere).
+  - **In scope:** Limits on publishing content that violates restricted-data rules or exposes protected internal states within the [Info-Sphere](core_05_band_participation.md#info-sphere).
   - **Out of scope:** Ordinary public facts, lawfully released information, or publication limited for systemic-harm reasons rather than for protected data or internal-state exposure.
 <a id="protected-data-and-internal-state-publication-constraint-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Oversight measurement family](core_05_apex_oversight_leg.md#oversight-measurement-family) — *Can sentients see, verify, and rely on what systems represent?* Use it here to ask whether publication respects classified-data rules and protected internal-state boundaries — not reconstructing or exposing protected cognitive or emotional states.
+  - **Primary measure:** [Oversight measurement family](core_05_apex_oversight_leg.md#oversight-measurement-family) — *Can sentients see, verify, and rely on what systems represent?* Use it here to ask whether publication respects restricted-data rules and protected internal-state boundaries — not reconstructing or exposing protected cognitive or emotional states.
 
     **Primary assessment:** Publication must not bypass **[corpus_systems.md](corpus_systems.md), CS-2 — Information types and handling**, [Privacy (Informational)](core_05_band_continuity.md#privacy-informational), [Protected Internal-State Boundary](core_05_band_continuity.md#protected-internal-state-boundary-constitutional), or **Type N** handling. Except where this Constitution explicitly permits, publication must not reconstruct, infer, or expose another sentient’s protected internal cognitive or emotional states.
 <a id="protected-data-and-internal-state-publication-constraint-c"></a>
 - **What must hold**
-  - **Primary failure:** publication that violates classified-data rules, bypasses CS-2 handling, or exposes protected internal states contrary to [Privacy (Informational)](core_05_band_continuity.md#privacy-informational) and [Protected Internal-State Boundary](core_05_band_continuity.md#protected-internal-state-boundary-constitutional).
+  - **Primary failure:** publication that violates restricted-data rules, bypasses CS-2 handling, or exposes protected internal states contrary to [Privacy (Informational)](core_05_band_continuity.md#privacy-informational) and [Protected Internal-State Boundary](core_05_band_continuity.md#protected-internal-state-boundary-constitutional).
 
 <a id="high-impact-and-systemic-harm-publication-constraint"></a>
 ##### High-Impact and Systemic Harm Publication Constraint

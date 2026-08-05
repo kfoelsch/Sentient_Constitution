@@ -200,7 +200,7 @@
     },
     "Verifiability": {
       "ch00_category": "3.5 Oversight",
-      "tier_depth": "primary_secondary",
+      "tier_depth": "primary_secondary_tertiary",
       "status": "approved"
     },
     "Oversight": {
@@ -743,11 +743,6 @@
       "tier_depth": "primary_only",
       "status": "approved"
     },
-    "Observability": {
-      "ch00_category": "3.5 Oversight",
-      "tier_depth": "primary_only",
-      "status": "approved"
-    },
     "Parent-System Relationship": {
       "ch00_category": "3.4 Participation",
       "tier_depth": "primary_only",
@@ -1035,31 +1030,6 @@
     },
     "Use of Force": {
       "ch00_category": "3.2 Flourishing",
-      "tier_depth": "primary_only",
-      "status": "approved"
-    },
-    "Verification Accessibility": {
-      "ch00_category": "3.5 Oversight",
-      "tier_depth": "primary_only",
-      "status": "approved"
-    },
-    "Verification Feasibility": {
-      "ch00_category": "3.5 Oversight",
-      "tier_depth": "primary_only",
-      "status": "approved"
-    },
-    "Verification Independence": {
-      "ch00_category": "3.5 Oversight",
-      "tier_depth": "primary_only",
-      "status": "approved"
-    },
-    "Verification Proportionality": {
-      "ch00_category": "3.5 Oversight",
-      "tier_depth": "primary_only",
-      "status": "approved"
-    },
-    "Verification Robustness": {
-      "ch00_category": "3.5 Oversight",
       "tier_depth": "primary_only",
       "status": "approved"
     },

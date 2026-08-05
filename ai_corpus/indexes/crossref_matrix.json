@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-08-04T18:25:17+00:00",
+  "generated_at": "2026-08-04T20:54:30+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -1585,9 +1585,6 @@
               "#materiality-determination",
               "#materiality-determination-a",
               "#materiality-determination-c",
-              "#observability",
-              "#observability-a",
-              "#observability-c",
               "#proxy-divergence",
               "#proxy-divergence-a",
               "#proxy-divergence-c",
@@ -1598,7 +1595,10 @@
               "#truth-constitutional-constraint",
               "#truth-constitutional-constraint-a",
               "#truth-constitutional-constraint-c",
-              "#truth-constitutional-constraint-o"
+              "#truth-constitutional-constraint-o",
+              "#verifiability",
+              "#verifiability-a",
+              "#verifiability-c"
             ]
           },
           {
@@ -2256,7 +2256,7 @@
           },
           {
             "file": "core_05_band_oversight.md",
-            "count": 42,
+            "count": 36,
             "anchors": [
               "#adversarial-scaled-and-exploited-conditions",
               "#auditability",
@@ -2278,7 +2278,6 @@
               "#materiality-determination",
               "#materiality-integrity-constraint",
               "#materiality-under-uncertainty",
-              "#observability",
               "#press-and-journalistic-activity-constitutional",
               "#protected-data-and-internal-state-publication-constraint",
               "#proxy-divergence",
@@ -2291,12 +2290,7 @@
               "#transparency-auditability-and-verification-cluster",
               "#truth-and-epistemic-integrity-cluster",
               "#truth-constitutional-constraint",
-              "#verifiability",
-              "#verification-accessibility",
-              "#verification-feasibility",
-              "#verification-independence",
-              "#verification-proportionality",
-              "#verification-robustness"
+              "#verifiability"
             ]
           },
           {
@@ -3619,7 +3613,7 @@
           },
           {
             "file": "core_05_band_oversight.md",
-            "count": 198,
+            "count": 196,
             "anchors": [
               "#adversarial-scaled-and-exploited-conditions",
               "#auditability",
@@ -3631,14 +3625,12 @@
               "#materiality-determination",
               "#materiality-under-uncertainty",
               "#materially-implicated",
-              "#observability",
               "#proxy-divergence",
               "#public-oversight-baseline-disclosure",
               "#risk-disclosure",
               "#transparency",
               "#truth-constitutional-constraint",
-              "#verifiability",
-              "#verification-accessibility"
+              "#verifiability"
             ]
           },
           {
@@ -4136,7 +4128,7 @@
           },
           {
             "file": "core_05_apex_oversight_leg.md",
-            "count": 41,
+            "count": 35,
             "anchors": [
               "#6-process-conflict-resolution",
               "#oversight-constitutional",
@@ -4146,7 +4138,7 @@
           },
           {
             "file": "core_05_band_accountability.md",
-            "count": 74,
+            "count": 73,
             "anchors": [
               "#contestability",
               "#feasibility",
@@ -4163,7 +4155,7 @@
           },
           {
             "file": "core_05_band_continuity.md",
-            "count": 140,
+            "count": 152,
             "anchors": [
               "#cascading-failure",
               "#charter",
@@ -4194,7 +4186,7 @@
           },
           {
             "file": "core_05_band_oversight.md",
-            "count": 308,
+            "count": 273,
             "anchors": [
               "#adversarial-scaled-and-exploited-conditions",
               "#auditability",
@@ -4217,7 +4209,6 @@
               "#materiality-integrity-constraint",
               "#materiality-semi-independent",
               "#materiality-under-uncertainty",
-              "#observability",
               "#protected-data-and-internal-state-publication-constraint",
               "#proxy-divergence",
               "#public-oversight-baseline-disclosure",
@@ -4229,26 +4220,22 @@
               "#transparency",
               "#transparency-auditability-and-verification-cluster",
               "#truth-constitutional-constraint",
-              "#verifiability",
-              "#verification",
-              "#verification-accessibility",
-              "#verification-feasibility",
-              "#verification-independence",
-              "#verification-proportionality",
-              "#verification-robustness"
+              "#verifiability"
             ]
           },
           {
             "file": "core_05_band_participation.md",
-            "count": 16,
+            "count": 17,
             "anchors": [
               "#assembly-constitutional",
+              "#business-creation-constitutional",
               "#coercion-and-manipulation-constitutional",
               "#expression-constitutional",
               "#info-sphere",
               "#meaningful-agency",
               "#procedural-fairness-constitutional",
-              "#stakeholder"
+              "#stakeholder",
+              "#system-creation-constitutional"
             ]
           },
           {
@@ -4259,8 +4246,15 @@
             ]
           },
           {
+            "file": "core_06-06_rights_part_c.md",
+            "count": 2,
+            "anchors": [
+              "#article-xv-c-verification-accessibility"
+            ]
+          },
+          {
             "file": "core_07_a_system_alignment_certification_evaluation.md",
-            "count": 14,
+            "count": 18,
             "anchors": [
               "#3-whole-system-certification-evaluation",
               "#31-systemic-scope-and-risk-factors",
@@ -4270,7 +4264,7 @@
           },
           {
             "file": "core_07_b_system_alignment_certification_record_process.md",
-            "count": 3,
+            "count": 4,
             "anchors": [
               "#11-certification-record",
               "#111-minimum-record-contents",
@@ -4295,6 +4289,11 @@
             "anchors": [
               "#type-o-open-public-baseline-disclosure-data"
             ]
+          },
+          {
+            "file": "corpus_systems/cs_protocol_a_system_design_testing_verification_deployment.md",
+            "count": 2,
+            "anchors": []
           }
         ]
       },
@@ -4455,10 +4454,10 @@
               "#material-impact",
               "#materiality-determination",
               "#movement-refuge-semi-independent",
-              "#observability",
               "#proxy-divergence",
               "#transparency",
-              "#truth-constitutional-constraint"
+              "#truth-constitutional-constraint",
+              "#verifiability"
             ]
           },
           {
@@ -10258,12 +10257,12 @@
               "#material-impact-a",
               "#material-impact-c",
               "#materiality-determination",
-              "#observability",
-              "#observability-a",
-              "#observability-c",
               "#transparency",
               "#transparency-a",
-              "#transparency-c"
+              "#transparency-c",
+              "#verifiability",
+              "#verifiability-a",
+              "#verifiability-c"
             ]
           },
           {
@@ -12312,12 +12311,12 @@
               "#material",
               "#material-a",
               "#material-c",
-              "#observability",
-              "#observability-a",
-              "#observability-c",
               "#transparency",
               "#transparency-a",
-              "#transparency-c"
+              "#transparency-c",
+              "#verifiability",
+              "#verifiability-a",
+              "#verifiability-c"
             ]
           },
           {
@@ -15651,7 +15650,7 @@
           },
           {
             "file": "core_05_band_oversight.md",
-            "count": 151,
+            "count": 131,
             "anchors": [
               "#auditability",
               "#auditability-a",
@@ -15662,18 +15661,12 @@
               "#material",
               "#material-a",
               "#material-c",
-              "#observability",
-              "#observability-a",
-              "#observability-c",
               "#transparency",
               "#transparency-a",
               "#transparency-c",
               "#verifiability",
               "#verifiability-a",
-              "#verifiability-c",
-              "#verification-accessibility",
-              "#verification-accessibility-a",
-              "#verification-accessibility-c"
+              "#verifiability-c"
             ]
           },
           {

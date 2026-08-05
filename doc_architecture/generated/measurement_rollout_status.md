@@ -2,10 +2,10 @@
 
 Auto-generated. Do not edit by hand.
 
-Generated: 2026-08-04T18:16:35+00:00
+Generated: 2026-08-04T23:45:38+00:00
 
 Grouped by Preamble measurement category. **Approved** terms must carry `*Measurements:*` and tier-aligned **E**/**C** per [doc_architecture.md](../doc_architecture.md) MEAS-DEF-01.
-Approved progress: **220/221** terms pass tier audit.
+Approved progress: **214/215** terms pass tier audit.
 
 
 ## 3.2 Flourishing
@@ -162,7 +162,6 @@ Approved progress: **220/221** terms pass tier audit.
 | Material Risk | approved | primary_secondary | cluster_member | `core_05_band_oversight.md` | yes | pass |
 | Materiality Integrity Constraint | approved | primary_secondary | cluster_member | `core_05_band_oversight.md` | yes | pass |
 | Materiality Under Uncertainty | approved | primary_secondary | cluster_member | `core_05_band_oversight.md` | yes | pass |
-| Observability | approved | primary_only | cluster_member | `core_05_band_oversight.md` | yes | pass |
 | Oversight | approved | primary_only | tetrad_leg_head | `core_05_apex_oversight_leg.md` | no | pass |
 | Press and Journalistic Activity | approved | primary_only | cluster_member | `core_05_band_oversight.md` | yes | pass |
 | Protected Data and Internal-State Publication Constraint | approved | primary_only | cluster_member | `core_05_band_oversight.md` | yes | pass |
@@ -176,12 +175,7 @@ Approved progress: **220/221** terms pass tier audit.
 | Trust Degradation and Misleading Reliance | approved | primary_only | cluster_member | `core_05_band_continuity.md` | yes | pass |
 | Trustworthiness | approved | full | constituent | `core_05_band_continuity.md` | yes | pass |
 | Truth (Constitutional Constraint) | approved | full | constituent | `core_05_band_oversight.md` | yes | pass |
-| Verifiability | approved | primary_secondary | cluster_member | `core_05_band_oversight.md` | yes | pass |
-| Verification Accessibility | approved | primary_only | cluster_member | `core_05_band_oversight.md` | yes | pass |
-| Verification Feasibility | approved | primary_only | cluster_member | `core_05_band_oversight.md` | yes | pass |
-| Verification Independence | approved | primary_only | cluster_member | `core_05_band_oversight.md` | yes | pass |
-| Verification Proportionality | approved | primary_only | cluster_member | `core_05_band_oversight.md` | yes | pass |
-| Verification Robustness | approved | primary_only | cluster_member | `core_05_band_oversight.md` | yes | pass |
+| Verifiability | approved | primary_secondary_tertiary | cluster_member | `core_05_band_oversight.md` | yes | pass |
 
 ## 3.6 Accountability
 
