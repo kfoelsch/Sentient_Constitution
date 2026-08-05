@@ -62,6 +62,7 @@ Independent Definitions meta rules live in [core_05__definitions_home.md](core_0
 *In plain terms: access must work in real life — not only on paper. If someone cannot actually take part because of how they sense, think, move, communicate, or interface with a system, the system fails this test.*
 
 - **What it is**
+  - **In scope — who:** sentients under [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion).
   - **In scope — domains:** settings where participation matters, including:
     - governance;
     - adjudication;
@@ -72,7 +73,6 @@ Independent Definitions meta rules live in [core_05__definitions_home.md](core_0
     - press;
     - stakeholder participation; and
     - comparable domains.
-  - **In scope — who:** sentients under [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion).
   - **In scope — access needs:** needs that can be constant, episodic, or developmental, covering:
     - sensory;
     - cognitive;
@@ -91,9 +91,9 @@ Independent Definitions meta rules live in [core_05__definitions_home.md](core_0
     - "general access" patterns that lean on defaults without producing real participation capacity;
     - accommodations that exist on paper but cannot be reached in practice; and
     - selective [Materiality](core_05_band_oversight.md#materiality-determination) arguments used to scale accommodation below the participation floor.
-  - **Secondary measure:** [Substantive Fairness](core_05_band_participation.md#substantive-fairness-constitutional), [Protected Characteristics](core_05_band_participation.md#protected-characteristics-constitutional), [Meaningful Agency](core_05_band_participation.md#meaningful-agency), [Materiality Determination](core_05_band_oversight.md#materiality-determination), and [Dependency](core_05_band_continuity.md#dependency) — co-measures that can defeat accessibility even when formal affordances exist.
+  - **Secondary measure:** [Substantive Fairness](core_05_band_participation.md#substantive-fairness-constitutional), [Protected Characteristics](core_05_band_participation.md#protected-characteristics-constitutional), [Meaningful Agency](core_05_band_participation.md#meaningful-agency), [Materiality Determination](core_05_band_oversight.md#materiality-determination), and [Dependency](core_05_band_continuity.md#dependency) — related tests. A system can still fail accessibility under these even when formal accommodations exist on paper.
 
-    **Secondary assessment:** When checking the primary answer, scale the duty by the relevant [Materiality](core_05_band_oversight.md#materiality-determination) domain and [Dependency](core_05_band_continuity.md#dependency). Apply [Protected Characteristics](core_05_band_participation.md#protected-characteristics-constitutional) and [Protected Characteristic Proxying and Disparate Impact](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact) to how accommodations are designed. Whoever claims compliance must prove real participation effect.
+    **Secondary assessment:** When checking the primary answer, match how strong the duty is to what is at stake ([Materiality](core_05_band_oversight.md#materiality-determination)) and how hard it is to leave or work around the system ([Dependency](core_05_band_continuity.md#dependency)). Check whether accommodations are designed in ways that discriminate under [Protected Characteristics](core_05_band_participation.md#protected-characteristics-constitutional) and [Protected Characteristic Proxying and Disparate Impact](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact). Whoever claims compliance must prove people can actually take part.
 <a id="accessibility-constitutional-c"></a>
 - **What must hold**
   - **Primary failure:**
@@ -178,30 +178,40 @@ Independent Definitions meta rules live in [core_05__definitions_home.md](core_0
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Principles: [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency).
-- Read with: the [Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity cluster](core_05_band_participation.md#self-determination-and-meaningful-agency-cluster), [Meaningful Agency](core_05_band_participation.md#meaningful-agency), [Necessity](core_05_band_accountability.md#necessity), [Proportionality](core_05_band_accountability.md#proportionality), [Coercion and Manipulation](core_05_band_participation.md#coercion-and-manipulation-constitutional), and [Contestability](core_05_band_accountability.md#contestability).
+- Read with: the [Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity cluster](core_05_band_participation.md#self-determination-and-meaningful-agency-cluster), [Meaningful Agency](core_05_band_participation.md#meaningful-agency), [Necessity](core_05_band_accountability.md#necessity), [Proportionality](core_05_band_accountability.md#proportionality), [Coercion and Manipulation](core_05_band_participation.md#coercion-and-manipulation-constitutional), [Psychological Harm](core_05_band_accountability.md#psychological-harm), [Harassment and Bullying](core_05_band_accountability.md#harassment-and-bullying), and [Contestability](core_05_band_accountability.md#contestability).
 
 </details>
 
 <br>
 
-*In plain terms: the real ability to act, take part in decisions that affect you, and leave or change course — within Safety, Truth, others' rights, and Meaningful Agency. Paper exit options while lock-in remains do not count.*
+*In plain terms: the real ability to act, take part in decisions that affect you, and leave or change course — within Safety, Truth, others' rights, and Meaningful Agency. Paper exit options while lock-in remains do not count. Neither do choices hollowed by coercion, manipulation, psychological trauma, abuse, or bullying.*
 
 - **What it is**
-  - **In scope:** Sentients' capacity to:
+  - **In scope — capacity:** Sentients' capacity to:
     - act;
     - take part in decisions that affect them; and
-    - exit or redirect engagement with systems,
-    within the limits of [Safety (Constraint)](core_05_band_continuity.md#safety-constraint), [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint), the rights of others, and [Meaningful Agency](core_05_band_participation.md#meaningful-agency). Includes protection from [coercion and manipulation](core_05_band_participation.md#coercion-and-manipulation-constitutional) and from unjustified constraint.
+    - exit or redirect engagement with systems.
+  - **In scope — limits:**
+    - [Safety (Constraint)](core_05_band_continuity.md#safety-constraint);
+    - [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint);
+    - the rights of others; and
+    - [Meaningful Agency](core_05_band_participation.md#meaningful-agency).
+  - **In scope — protection from:**
+    - [coercion and manipulation](core_05_band_participation.md#coercion-and-manipulation-constitutional);
+    - unjustified constraint;
+    - psychological trauma and other material [Psychological Harm](core_05_band_accountability.md#psychological-harm) that hollows real choice;
+    - abuse; and
+    - [Harassment and Bullying](core_05_band_accountability.md#harassment-and-bullying).
   - **Out of scope:** claims of unbounded license with no Safety, Truth, or others'-rights limits — or exit options that exist only on paper while lock-in remains.
 <a id="freedom-bounded-agency-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Participation measurement family](core_05_apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether agency is real in practice — including workable exit — not only formally declared.
 
-    **Primary assessment:** Assess substantive agency, [coercion and manipulation](core_05_band_participation.md#coercion-and-manipulation-constitutional), and [Systemic Lock-In](core_05_band_continuity.md#systemic-lock-in). Evaluate opt-out and workable alternatives under [Feasibility](core_05_band_accountability.md#feasibility). Read [Participation](core_05_apex_participation_leg.md#participation-constitutional) where collective voice is materially implicated.
+    **Primary assessment:** Assess substantive agency, [coercion and manipulation](core_05_band_participation.md#coercion-and-manipulation-constitutional), [Psychological Harm](core_05_band_accountability.md#psychological-harm) (including psychological trauma), abuse, [Harassment and Bullying](core_05_band_accountability.md#harassment-and-bullying), and [Systemic Lock-In](core_05_band_continuity.md#systemic-lock-in). Evaluate opt-out and workable alternatives under [Feasibility](core_05_band_accountability.md#feasibility). Read [Participation](core_05_apex_participation_leg.md#participation-constitutional) where collective voice is materially implicated.
 <a id="freedom-bounded-agency-c"></a>
 - **What must hold**
   - **Primary failure:**
-    - systems that negate substantive agency; or
+    - systems that negate substantive agency — including through coercion, manipulation, psychological trauma, abuse, or bullying that hollows real choice; or
     - systems that impose disproportionate exit costs without justification.
 
 ---
@@ -227,8 +237,20 @@ Independent Definitions meta rules live in [core_05__definitions_home.md](core_0
     - coordinate;
     - publish;
     - interpret reality; and
-    - exercise epistemic and associational rights,
-    including infrastructures, protocols, interfaces, storage, ranking and inference layers, and collective resources. These elements materially affect [Meaningful Agency](core_05_band_participation.md#meaningful-agency), [Trust](core_05_band_continuity.md#trust), survival-relevant coordination, **Article XIV** (*Info-Sphere Integrity*) info-sphere protections, and **Article XV-A** (*Auditability and Observable Evidence*) auditability protections.
+    - exercise epistemic and associational rights.
+  - **In scope — elements:**
+    - infrastructures;
+    - protocols;
+    - interfaces;
+    - storage;
+    - ranking and inference layers; and
+    - collective resources.
+  - **In scope — material effects on:**
+    - [Meaningful Agency](core_05_band_participation.md#meaningful-agency);
+    - [Trust](core_05_band_continuity.md#trust);
+    - survival-relevant coordination;
+    - **Article XIV** (*Info-Sphere Integrity*) info-sphere protections; and
+    - **Article XV-A** (*Auditability and Observable Evidence*) auditability protections.
   - **Out of scope:** a private inbox, personal notes, or an isolated device that is not the shared information environment others depend on.
 <a id="info-sphere-a"></a>
 - **How to measure and assess**
@@ -277,8 +299,8 @@ Independent Definitions meta rules live in [core_05__definitions_home.md](core_0
 *In plain terms: life-supporting natural systems — including Earth's biosphere — have continuity and integrity interests that governance must take seriously. They are not only raw materials to extract.*
 
 - **What it is**
-  - **In scope:** Recognition that life-supporting natural systems — including Earth's biosphere as described in **Article I-A** (*Environmental Preconditions and Ecological Integrity*) — have continuity and integrity interests. Those interests must inform interpretation and governance alongside sentient interests, and must not be treated solely as extractive inventory.
-  - **Out of scope:** scenic amenity, extractive inventory, or private land title alone, without life-supporting continuity interests.
+  - **In scope:** Life-supporting natural systems — including Earth's biosphere as described in **Article I-A** (*Environmental Preconditions and Ecological Integrity*) — have continuity and integrity interests of their own. Interpretation and governance must weigh those interests alongside sentient interests, and must not treat natural systems only as raw materials to extract.
+  - **Out of scope:** pretty scenery, raw-material stockpiles, or private land title alone — when no life-supporting continuity interest is at stake.
 <a id="natural-systems-standing-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Participation measurement family](core_05_apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether life-supporting natural systems' continuity and integrity interests are counted in interpretation and governance — not dismissed as scenery or stockpile.
@@ -286,7 +308,9 @@ Independent Definitions meta rules live in [core_05__definitions_home.md](core_0
     **Primary assessment:** Align with [Ecological Integrity](core_05_band_continuity.md#ecological-integrity-constitutional), [Environmental Preconditions](core_05_band_continuity.md#environmental-preconditions-constitutional), [Harm](core_05_band_accountability.md#harm), and [Risk](core_05_band_continuity.md#risk). **Article I-A** (*Environmental Preconditions and Ecological Integrity*) and implementation protocols supply operational measures and must not narrow this recognition.
 <a id="natural-systems-standing-c"></a>
 - **What must hold**
-  - **Primary failure:** treating natural systems as lacking protectable interests where **Article I-A** (*Environmental Preconditions and Ecological Integrity*) or binding environmental norms require such consideration.
+  - **Primary failure:**
+    - treating natural systems as if they have no protectable interests when **Article I-A** (*Environmental Preconditions and Ecological Integrity*) requires their continuity and integrity interests to be weighed; or
+    - treating natural systems as if they have no protectable interests when other binding environmental norms require their continuity and integrity interests to be weighed.
 
 ---
 
@@ -297,12 +321,12 @@ Independent Definitions meta rules live in [core_05__definitions_home.md](core_0
 *In plain terms: do not force beliefs or trap unwanted contact on others in associational life. Patterned harassment, bullying, or unreasonable attention-capture that degrades dignity, safety, equal participation, or agency is out of bounds.*
 
 - **What it is**
-  - **In scope:** The obligation not to force beliefs or unwanted communications on others through coercive or manipulative means in associational life. Also bars patterned [Harassment and Bullying](core_05_band_accountability.md#harassment-and-bullying) or unreasonable capture of attention or sustained interruption that materially degrades:
+  - **In scope:** Where **Article X-A** (*Non-Imposition and Consent in Association*) applies, the obligation not to force beliefs or unwanted communications on others through coercive or manipulative means in associational life. Also bars patterned [Harassment and Bullying](core_05_band_accountability.md#harassment-and-bullying) or unreasonable capture of attention or sustained interruption that materially degrades:
     - [Dignity and Equal Moral Standing](core_05_band_participation.md#dignity-and-equal-moral-standing);
     - [Safety (Constraint)](core_05_band_continuity.md#safety-constraint);
     - equal participation; or
-    - [Meaningful Agency](core_05_band_participation.md#meaningful-agency),
-    where **Article X-A** (*Non-Imposition and Consent in Association*) applies. Preserves [Freedom (Bounded Agency)](core_05_band_participation.md#freedom-bounded-agency), [Consent](core_05_band_participation.md#consent-constitutional), and **Article X-A** (*Non-Imposition and Consent in Association*) cooperative norms.
+    - [Meaningful Agency](core_05_band_participation.md#meaningful-agency).
+    This entry preserves [Freedom (Bounded Agency)](core_05_band_participation.md#freedom-bounded-agency), [Consent](core_05_band_participation.md#consent-constitutional), and **Article X-A** cooperative norms.
   - **Out of scope:** ordinary avoidable advertising, ordinary disagreement, or voluntary persuasion that does not coerce or trap attention.
 <a id="non-imposition-cooperative-interaction-a"></a>
 - **How to measure and assess**
@@ -316,8 +340,8 @@ Independent Definitions meta rules live in [core_05__definitions_home.md](core_0
 <a id="non-imposition-cooperative-interaction-c"></a>
 - **What must hold**
   - **Primary failure:**
-    - coercive or manipulative imposition of beliefs or unwanted communications contrary to **Article X-A** (*Non-Imposition and Consent in Association*); or
-    - materially degrading [Harassment and Bullying](core_05_band_accountability.md#harassment-and-bullying) or unreasonable attention capture or sustained interruption contrary to **Article X-A** (*Non-Imposition and Consent in Association*) and **Article IX-A** (*Agency and Freedom from Manipulation*).
+    - forcing beliefs or unwanted messages on others through coercion or manipulation, contrary to **Article X-A** (*Non-Imposition and Consent in Association*); or
+    - [Harassment and Bullying](core_05_band_accountability.md#harassment-and-bullying), or unreasonable attention-capture or sustained interruption, that materially degrades dignity, safety, equal participation, or agency — contrary to **Article X-A** (*Non-Imposition and Consent in Association*) and **Article IX-A** (*Agency and Freedom from Manipulation*).
 
 ---
 
