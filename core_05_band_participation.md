@@ -1711,16 +1711,53 @@ This nested sub-block is the joint home for **Article VII-D.1** (*Derivation, In
 
 #### Movement, refuge, and non-statelessness
 
-**Semi-independent context** (component definitions may still operate outside joint-invocation scope): This topic group protects mobility rights and baseline recognition across regime boundaries. These definitions implement [Article XIX-D](core_06-06_rights_part_c.md#article-xix-d-movement-migration-refuge-and-non-statelessness) (*Movement, Migration, Refuge, and Non-Statelessness*) and keep constitutional protection in force across jurisdictional and structural breaks.
+**Semi-independent context** (component definitions may still operate outside joint-invocation scope): This topic group protects:
+- mobility rights; and
+- baseline recognition across regime boundaries.
+
+These definitions:
+- implement [Article XIX-D](core_06-06_rights_part_c.md#article-xix-d-movement-migration-refuge-and-non-statelessness) (*Movement, Migration, Refuge, and Non-Statelessness*); and
+- keep constitutional protection in force across jurisdictional and structural breaks.
 
 <a id="movement-refuge-admission-qualifier"></a>
 
-**Qualifier on admission scope:** Movement and refuge rights do not extend to sentients entering from other states, jurisdictions, or regimes who carry unremediated anti-constitutional conduct or show constitutional hostility — including active opposition to [Safety (Constraint)](core_05_band_continuity.md#safety-constraint), [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint), the Chapter Six Rights Floor, or the foundational mechanisms of [Accountability](core_05_apex_accountability_leg.md#accountability), [Contestability](core_05_band_accountability.md#contestability), and [Redress and Remediation](core_05_band_accountability.md#redress-and-remediation-constitutional). Constitutional communities may exclude or condition entry for such sentients where exclusion is necessary to preserve constitutional integrity and does not produce [Non-Statelessness](core_05_band_participation.md#non-statelessness-constitutional) in violation of the baseline guarantee. Exclusion decisions remain subject to [Procedural Fairness](core_05_band_participation.md#procedural-fairness-constitutional), [Proportionality](core_05_band_accountability.md#proportionality), and [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion) constraints against substrate-class discrimination.
+**Qualifier on admission scope:** Movement and refuge rights do not extend to sentients entering from other:
+- states;
+- jurisdictions; or
+- regimes
+who:
+  - carry unremediated anti-constitutional conduct; or
+  - show constitutional hostility —
+    including active opposition to:
+    - [Safety (Constraint)](core_05_band_continuity.md#safety-constraint);
+    - [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint);
+    - the Chapter Six Rights Floor; or
+    - the foundational mechanisms of:
+      - [Accountability](core_05_apex_accountability_leg.md#accountability);
+      - [Contestability](core_05_band_accountability.md#contestability); and
+      - [Redress and Remediation](core_05_band_accountability.md#redress-and-remediation-constitutional); or
+  - show documented contempt or repudiation of the constitutional community —
+    meaning bad-faith rejection of the community as a legitimate constitutional order —
+    not mere:
+    - disagreement;
+    - criticism; or
+    - non-adoption.
+
+Constitutional communities may exclude or condition entry for such sentients where exclusion is necessary to preserve constitutional integrity.
+
+Exclusion from a particular adopter's admission or hosting does **not** violate [Non-Statelessness](core_05_band_participation.md#non-statelessness-constitutional) when real recognition remains available through:
+- origin-primary recognition duty; or
+- shared / federation transitional recognition backup.
+
+Exclusion decisions remain subject to:
+- [Procedural Fairness](core_05_band_participation.md#procedural-fairness-constitutional);
+- [Proportionality](core_05_band_accountability.md#proportionality); and
+- [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion) constraints against substrate-class discrimination.
 
 **Topic group members.** This group comprises:
 - [Movement and Relocation](core_05_band_participation.md#movement-and-relocation-constitutional) — right to move within and between jurisdictions, and to relocate when staying would impair rights.
 - [Refuge from Non-Compliance](core_05_band_participation.md#refuge-from-non-compliance-constitutional) — right to seek refuge in a compliant regime when facing material constitutional violations.
-- [Non-Statelessness](core_05_band_participation.md#non-statelessness-constitutional) — guarantee that no sentient is left without a regime that recognizes their Rights Floor and provides redress pathways.
+- [Non-Statelessness](core_05_band_participation.md#non-statelessness-constitutional) — no zero-regime gap for baseline Rights-Floor recognition and redress pathways; not a mandate that any particular adopter must host.
 
 *Measurements (family routing):* Measured under the Participation measurement family. Find the concrete measures on the member definitions below.
 
@@ -1742,21 +1779,64 @@ This nested sub-block is the joint home for **Article VII-D.1** (*Derivation, In
 *In plain terms: the right to move within and between jurisdictions — and to relocate when staying would materially impair survival, dignity, Rights-Floor access, or freedom from manipulation — including operationally equivalent moves for synthetic and hybrid sentients.*
 
 - **What it is**
-  - **In scope:** The Rights-Floor concept covering movement within and between jurisdictions, federations, and adopter regimes, and relocation where continued presence materially impairs survival, dignity, Rights-Floor access, or freedom from manipulation. Movement includes physical movement for biological sentients and operationally equivalent forms for synthetic and hybrid sentients (relocation of instance, hosting substrate change, or equivalent). Subject to the cluster [admission qualifier](#movement-refuge-admission-qualifier). Distinct from and read with [Systemic Lock-In](core_05_band_continuity.md#systemic-lock-in) under **Article XIX** (*Interoperability, Portability, Movement, Refuge, and Exit Integrity*) (operational interoperability / portability / exit-integrity counterpart), and governed by [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion).
-  - **Out of scope:** ordinary travel preference or tourism, or technical portability issues handled under systemic lock-in rules.
+  - **In scope — movement:** The Rights-Floor concept covering movement within and between:
+    - jurisdictions;
+    - federations; and
+    - adopter regimes.
+  - **In scope — relocation trigger:** Relocation where continued presence materially impairs:
+    - survival;
+    - dignity;
+    - Rights-Floor access; or
+    - freedom from manipulation.
+  - **In scope — forms of movement:** Movement includes:
+    - physical movement for biological sentients; and
+    - operationally equivalent forms for synthetic and hybrid sentients, including:
+      - relocation of instance;
+      - hosting substrate change; or
+      - equivalent.
+  - **Boundary:**
+    - Subject to the cluster [admission qualifier](#movement-refuge-admission-qualifier).
+    - Distinct from and read with [Systemic Lock-In](core_05_band_continuity.md#systemic-lock-in) under **Article XIX** (*Interoperability, Portability, Movement, Refuge, and Exit Integrity*) (operational interoperability / portability / exit-integrity counterpart).
+    - Governed by [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion).
+  - **Out of scope:**
+    - ordinary travel preference or tourism; or
+    - technical portability issues handled under systemic lock-in rules.
 <a id="movement-and-relocation-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Participation measurement family](core_05_apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether movement is real in effect — not denied by paperwork, delay-to-exhaust, or credentialing that functions as exclusion contrary to [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion).
-
-    **Primary assessment:** Reach substantive effect — detecting denial through bureaucratic, administrative, or allocation-gating mechanisms functioning as denial-by-proxy, delay regimes designed to exhaust claimants, and credentialing regimes functioning as exclusion contrary to [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion). Apply [Necessity](core_05_band_accountability.md#necessity), [Proportionality](core_05_band_accountability.md#proportionality), narrow tailoring, and least-restrictive-effective approach; apply [Protected Characteristics](core_05_band_participation.md#protected-characteristics-constitutional) to any distinction; and refuse population-level demographic framing as a substitute for individualized [Procedural Fairness](core_05_band_participation.md#procedural-fairness-constitutional). Where exclusion for anti-constitutional conduct or constitutional hostility is invoked, assess whether the conduct is documented, ongoing, and materially threatens constitutional integrity; exclusion remains subject to [Procedural Fairness](core_05_band_participation.md#procedural-fairness-constitutional) and must not produce [Non-Statelessness](core_05_band_participation.md#non-statelessness-constitutional) in violation of the baseline guarantee.
+  - **Primary measure:** [Participation measurement family](core_05_apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether movement is real in effect — not denied by:
+    - paperwork;
+    - delay-to-exhaust; or
+    - credentialing that functions as exclusion contrary to [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion).
+  - **Primary assessment:**
+    - Reach substantive effect — detecting denial through:
+      - bureaucratic, administrative, or allocation-gating mechanisms functioning as denial-by-proxy;
+      - delay regimes designed to exhaust claimants; and
+      - credentialing regimes functioning as exclusion contrary to [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion).
+    - Apply:
+      - [Necessity](core_05_band_accountability.md#necessity);
+      - [Proportionality](core_05_band_accountability.md#proportionality);
+      - narrow tailoring; and
+      - least-restrictive-effective approach.
+    - Apply [Protected Characteristics](core_05_band_participation.md#protected-characteristics-constitutional) to any distinction.
+    - Do not exclude people by group label or demographic category instead of judging each person under [Procedural Fairness](core_05_band_participation.md#procedural-fairness-constitutional).
+    - If someone is refused entry for:
+      - anti-constitutional conduct;
+      - constitutional hostility; or
+      - documented contempt or repudiation of the constitutional community,
+      check that the reason is:
+        - backed by evidence;
+        - still true now; and
+        - actually one of those grounds — not a made-up label.
+    - A particular adopter may refuse that person entry and still satisfy [Non-Statelessness](core_05_band_participation.md#non-statelessness-constitutional) if another real recognizing regime remains available — either the origin regime's primary duty, or shared / federation backup recognition. The refusal itself must still meet [Procedural Fairness](core_05_band_participation.md#procedural-fairness-constitutional).
 <a id="movement-and-relocation-constitutional-c"></a>
 - **What must hold**
-  - **Primary failure:** denial or material degradation of movement where the substantive effect defeats the floor, regardless of formal framing;
-  - **Secondary failure:** exclusion contrary to [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion);
-  - **Tertiary failure:** durable restriction under generalized "border-security" or "capacity" framings that do not satisfy the ordinary limitations tests;
-  - **Tertiary failure:** emergency-measure framings that do not satisfy **Article XXIII-D** (*Emergency Measures and Continuation Burden*) discipline;
-  - **Tertiary failure:** using anti-constitutional conduct or constitutional hostility claims as pretext for exclusion where no documented, ongoing threat to constitutional integrity exists;
-  - **Tertiary failure:** exclusion decisions that fail [Procedural Fairness](core_05_band_participation.md#procedural-fairness-constitutional) or produce [Non-Statelessness](core_05_band_participation.md#non-statelessness-constitutional) in violation of the baseline guarantee.
+  - **Primary failure:** denial or material degradation of movement where the substantive effect defeats the floor, regardless of formal framing.
+  - **Secondary failure:** exclusion contrary to [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion).
+  - **Tertiary failure:**
+    - durable restriction under generalized "border-security" or "capacity" framings that do not satisfy the ordinary limitations tests;
+    - emergency-measure framings that do not satisfy **Article XXIII-D** (*Emergency Measures and Continuation Burden*) discipline;
+    - fabricating or mislabeling exclusion as anti-constitutional conduct, constitutional hostility, or contempt or repudiation when those grounds are not actually present; or
+    - exclusion decisions that fail [Procedural Fairness](core_05_band_participation.md#procedural-fairness-constitutional) or leave a sentient with zero recognizing regime in violation of [Non-Statelessness](core_05_band_participation.md#non-statelessness-constitutional).
 
 ---
 
@@ -1777,20 +1857,57 @@ This nested sub-block is the joint home for **Article VII-D.1** (*Derivation, In
 *In plain terms: if the regime you are in is materially non-compliant with this Constitution, you have a Rights-Floor right to seek refuge in a compliant regime — subject to the admission qualifier and the receiving regime's duty to consider and, where consistent with its own Rights Floor, grant refuge.*
 
 - **What it is**
-  - **In scope:** The Rights-Floor concept that a sentient facing a jurisdiction, federation, or adopter regime whose practice is materially non-compliant with this Constitution holds a right to seek refuge in a compliant regime. Subject to the cluster [admission qualifier](#movement-refuge-admission-qualifier). The receiving regime's duty to consider and, where consistent with its own Rights-Floor, grant refuge is stated at [Article XIX-D](core_06-06_rights_part_c.md#article-xix-d-movement-migration-refuge-and-non-statelessness) (*Movement, Migration, Refuge, and Non-Statelessness*). The floor applies under [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion). Operational procedures for cross-regime recognition route to incorporated implementation text under Chapter Fifteen and must not narrow this floor.
+  - **In scope — who holds the right:** A sentient facing a:
+    - jurisdiction;
+    - federation; or
+    - adopter regime
+    whose practice is materially non-compliant with this Constitution holds a right to seek refuge in a compliant regime.
+  - **In scope — receiving-regime duty:** The receiving regime's duty to consider and, where consistent with its own Rights-Floor, grant refuge is stated at [Article XIX-D](core_06-06_rights_part_c.md#article-xix-d-movement-migration-refuge-and-non-statelessness) (*Movement, Migration, Refuge, and Non-Statelessness*).
+  - **Boundary:**
+    - Subject to the cluster [admission qualifier](#movement-refuge-admission-qualifier).
+    - The floor applies under [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion).
+    - How regimes recognize each other across borders — the forms, handoffs, and procedures — lives in adopted implementation text under [Chapter Sixteen](core_16-16_incorporation.md) (typically [corpus_institutions.md](corpus_institutions.md)). Those procedures may spell out mechanics; they may not shrink this Rights Floor.
+    - [Non-Statelessness](core_05_band_participation.md#non-statelessness-constitutional) is a no-zero-regime recognition floor — not a mandate that any particular receiving adopter must host at volume.
   - **Out of scope:** ordinary relocation preference where the origin regime is not materially non-compliant.
 <a id="refuge-from-non-compliance-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Participation measurement family](core_05_apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether refuge tracks real non-compliance and fair receiving-regime process — not the origin regime's self-description or capacity used as pretext.
-
-    **Primary assessment:** Identify non-compliance in the originating regime by substantive effect — detecting denial-by-proxy, durable Rights-Floor degradation, and structurally coercive environments — not by the originating regime's formal self-description. Evaluate the receiving regime's duty under [Necessity](core_05_band_accountability.md#necessity), [Proportionality](core_05_band_accountability.md#proportionality), [Procedural Fairness](core_05_band_participation.md#procedural-fairness-constitutional), and [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion); receiving-regime capacity constraints are subject to [Feasibility](core_05_band_accountability.md#feasibility) but may not be used as pretext for exclusion contrary to [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion) or generalized denial without individualized predicate. Where the claimant carries documented anti-constitutional conduct or constitutional hostility, assess whether granting refuge would materially undermine the receiving regime's constitutional integrity; refusal on this ground remains subject to [Procedural Fairness](core_05_band_participation.md#procedural-fairness-constitutional) and must not produce [Non-Statelessness](core_05_band_participation.md#non-statelessness-constitutional) in violation of the baseline guarantee.
+  - **Primary measure:** [Participation measurement family](core_05_apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether refuge tracks:
+    - real non-compliance; and
+    - fair receiving-regime process —
+    not the origin regime's self-description or capacity used as pretext.
+  - **Primary assessment:**
+    - Identify non-compliance in the originating regime by substantive effect — detecting:
+      - denial-by-proxy;
+      - durable Rights-Floor degradation; and
+      - structurally coercive environments —
+      not by the originating regime's formal self-description.
+    - Evaluate the receiving regime's duty under:
+      - [Necessity](core_05_band_accountability.md#necessity);
+      - [Proportionality](core_05_band_accountability.md#proportionality);
+      - [Procedural Fairness](core_05_band_participation.md#procedural-fairness-constitutional); and
+      - [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion).
+    - Receiving-regime capacity constraints are subject to [Feasibility](core_05_band_accountability.md#feasibility) but may not be used as pretext for:
+      - exclusion contrary to [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion); or
+      - blanket refusals that never look at the individual person's case.
+    - Where the inflow is instrumentally coerced or weaponized mass outflow — deliberate expulsion or dumping designed to overwhelm receiving adopters — treat that as a regime-level violation of the origin or expelling regime. It does not auto-assign hosting to any particular receiving adopter when origin-primary or shared / federation backup recognition remains real.
+    - A particular adopter may refuse such instrumentally coerced inflows under:
+      - [Necessity](core_05_band_accountability.md#necessity);
+      - [Proportionality](core_05_band_accountability.md#proportionality); and
+      - [Feasibility](core_05_band_accountability.md#feasibility)
+      without extinguishing baseline recognition elsewhere.
+    - Assess whether granting refuge would materially undermine the receiving regime's constitutional integrity where the claimant carries documented:
+      - anti-constitutional conduct;
+      - constitutional hostility; or
+      - contempt or repudiation of the constitutional community.
+    - Refusal on that ground remains subject to [Procedural Fairness](core_05_band_participation.md#procedural-fairness-constitutional) and does not violate [Non-Statelessness](core_05_band_participation.md#non-statelessness-constitutional) when origin-primary or shared / federation backup recognition remains real.
 <a id="refuge-from-non-compliance-constitutional-c"></a>
 - **What must hold**
-  - **Primary failure:** refusal of refuge contrary to [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion);
-  - **Secondary failure:** refusal framed as "incompatibility" or "capacity" that does not satisfy the ordinary limitations tests;
-  - **Tertiary failure:** originating- or receiving-regime instruments that narrow this floor through cross-federation recognition procedure (operational procedure may specify mechanics but may not narrow the floor);
-  - **Tertiary failure:** using anti-constitutional conduct or constitutional hostility claims as pretext to deny refuge where no documented, ongoing threat to receiving-regime integrity exists;
-  - **Tertiary failure:** refusal decisions that fail [Procedural Fairness](core_05_band_participation.md#procedural-fairness-constitutional) or produce [Non-Statelessness](core_05_band_participation.md#non-statelessness-constitutional) in violation of the baseline guarantee.
+  - **Primary failure:** refusal of refuge contrary to [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion).
+  - **Secondary failure:** refusal framed as "incompatibility" or "capacity" that does not satisfy the ordinary limitations tests and leaves no origin-primary or shared / federation backup recognition.
+  - **Tertiary failure:**
+    - origin or receiving regimes using recognition paperwork or cross-federation procedure to shrink this Rights Floor (procedure may spell out how recognition works; it may not cut the right itself); or
+    - fabricating or mislabeling refuge denial as anti-constitutional conduct, constitutional hostility, or contempt or repudiation when those grounds are not actually present; or
+    - refusal decisions that fail [Procedural Fairness](core_05_band_participation.md#procedural-fairness-constitutional) or leave a sentient with zero recognizing regime in violation of [Non-Statelessness](core_05_band_participation.md#non-statelessness-constitutional).
 
 ---
 
@@ -1807,23 +1924,86 @@ This nested sub-block is the joint home for **Article VII-D.1** (*Derivation, In
 
 <br>
 
-*In plain terms: no sentient may be left without a regime that recognizes their baseline Rights Floor, adjudicates their standing, and provides redress pathways — even after parent-system collapse, adopter withdrawal, or federation exit.*
+*In plain terms: no sentient may be left with zero recognizing regime for baseline Rights Floor, standing adjudication, and redress — even after collapse, withdrawal, or exit. That is not a mandate that any particular adopter must absorb coerced mass outflows; origin regimes keep primary recognition duty, with federation or shared transitional recognition as backup.*
 
 - **What it is**
-  - **In scope:** The Rights-Floor concept that no sentient may be left without a regime that will recognize their baseline Rights-Floor, adjudicate their standing, and provide [Redress and Remediation](core_05_band_accountability.md#redress-and-remediation-constitutional) pathways. Parent-system collapse, adopter withdrawal, federation exit, or comparable structural discontinuity does not extinguish a sentient's Chapter Six protection. This guarantee applies without regard to whether the sentient carries anti-constitutional conduct or constitutional hostility — the baseline duty to prevent statelessness is unconditional. However, regimes may impose conditions, monitoring, or restricted status on recognition where documented anti-constitutional conduct or constitutional hostility is present, provided such conditions do not extinguish the core protections of the Rights-Floor, [Redress and Remediation](core_05_band_accountability.md#redress-and-remediation-constitutional), and [Procedural Fairness](core_05_band_participation.md#procedural-fairness-constitutional). Applies under [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion).
-  - **Out of scope:** preferred citizenship shopping, or a demand for full political franchise beyond baseline Rights-Floor recognition.
+  - **In scope — guarantee:** No sentient may be left without a regime that will:
+    - recognize their baseline Rights-Floor;
+    - adjudicate their standing; and
+    - provide [Redress and Remediation](core_05_band_accountability.md#redress-and-remediation-constitutional) pathways.
+  - **In scope — structural discontinuity:** The following do not extinguish a sentient's Chapter Six protection:
+    - parent-system collapse;
+    - adopter withdrawal;
+    - federation exit; or
+    - comparable structural discontinuity.
+  - **Boundary — recognition vs hosting:** Non-Statelessness is a **no-zero-regime recognition floor**. It is **not**:
+    - unconditional placement into a chosen adopter;
+    - an open-border hosting mandate; or
+    - a duty that any particular receiving adopter absorb instrumentally coerced or weaponized mass outflows.
+  - **Boundary — origin-primary duty:** Primary recognition responsibility stays with whichever of these still exists and can still recognize:
+    - the origin regime;
+    - the expelling regime;
+    - the collapsing regime;
+    - the withdrawing regime; or
+    - the exiting regime.
+  - **Boundary — shared / federation backup:** Shared or federation transitional recognition must be arranged — consistent with **Article XXVI** (*Transition Governance, Continuity, and Re-Baselining*) — so the individual never hits zero recognition, where the origin-primary regime:
+    - is gone;
+    - refuses; or
+    - leaves a gap through the discontinuity.
+    How regimes recognize each other across borders — the forms, handoffs, and procedures — lives in adopted implementation text under [Chapter Sixteen](core_16-16_incorporation.md) (typically [corpus_institutions.md](corpus_institutions.md)):
+    - those procedures may spell out mechanics;
+    - they may not shrink this Rights Floor.
+  - **Boundary — weaponized outflow:** Deliberate coercive expulsion or dumping designed to overwhelm receiving adopters is a **regime-level** violation by the origin or expelling regime. It does **not** become an automatic hosting mandate on the nearest adopter when recognition remains real through:
+    - origin-primary duty; or
+    - shared / federation backup.
+  - **Boundary — particular-adopter refusal:** A particular adopter may refuse instrumentally coerced inflows under:
+    - [Necessity](core_05_band_accountability.md#necessity);
+    - [Proportionality](core_05_band_accountability.md#proportionality); and
+    - [Feasibility](core_05_band_accountability.md#feasibility)
+    without extinguishing baseline recognition elsewhere.
+  - **Boundary — restricted-status recognition:** Where documented:
+    - anti-constitutional conduct;
+    - constitutional hostility; or
+    - contempt or repudiation of the constitutional community
+    is present, regimes may impose:
+    - conditions;
+    - monitoring; or
+    - restricted status on recognition —
+    provided such conditions do not extinguish the core protections of:
+      - the Rights-Floor;
+      - [Redress and Remediation](core_05_band_accountability.md#redress-and-remediation-constitutional); and
+      - [Procedural Fairness](core_05_band_participation.md#procedural-fairness-constitutional).
+    Contempt remains an admission and entry ground under the cluster [admission qualifier](#movement-refuge-admission-qualifier); it is not a license to erase baseline recognition somewhere in the system.
+  - **Boundary — non-exclusion:** Applies under [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion).
+  - **Out of scope:**
+    - preferred citizenship shopping;
+    - a demand for full political franchise beyond baseline Rights-Floor recognition; or
+    - a demand that a particular adopter host at volume merely because no other regime has yet been arranged, where origin-primary or shared / federation backup pathways remain available.
 <a id="non-statelessness-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Participation measurement family](core_05_apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether recognition and standing adjudication are real after structural break — not a gap where no regime claims responsibility.
-
-    **Primary assessment:** Test whether a sentient facing structural discontinuity has real, not merely formal, recognition and standing-adjudication access; detect arrangements under which no regime claims recognition responsibility; apply [Procedural Fairness](core_05_band_participation.md#procedural-fairness-constitutional) and [Reversibility](core_05_band_continuity.md#reversibility-constitutional) to transitional arrangements. Where the sentient carries documented anti-constitutional conduct or constitutional hostility, evaluate whether restricted-status recognition — including conditions, monitoring, or limited access to certain rights-affecting forums — preserves the core protections of the Rights-Floor and redress pathways without arbitrary exclusion or degradation.
+  - **Primary measure:** [Participation measurement family](core_05_apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether recognition and standing adjudication are real after structural break — not a gap where no regime claims responsibility, and not a forced hosting assignment that rewards weaponized outflow.
+  - **Primary assessment:**
+    - Test whether a sentient facing structural discontinuity has real, not merely formal:
+      - recognition; and
+      - standing-adjudication access —
+      through origin-primary duty or shared / federation backup.
+    - Detect arrangements under which no regime claims recognition responsibility.
+    - Detect instrumentally coerced or weaponized mass outflows and refuse to treat them as automatic hosting assignments to any particular adopter.
+    - Apply [Procedural Fairness](core_05_band_participation.md#procedural-fairness-constitutional) and [Reversibility](core_05_band_continuity.md#reversibility-constitutional) to transitional arrangements.
+    - Where the sentient carries documented anti-constitutional conduct, constitutional hostility, or contempt or repudiation of the constitutional community, evaluate whether restricted-status recognition — including:
+      - conditions;
+      - monitoring; or
+      - limited access to certain rights-affecting forums —
+      preserves the core protections of the Rights-Floor and redress pathways without arbitrary exclusion or degradation.
 <a id="non-statelessness-constitutional-c"></a>
 - **What must hold**
-  - **Primary failure:** arrangements leaving a sentient without any recognizing regime;
-  - **Secondary failure:** denial of recognition or standing-adjudication access contrary to [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion);
-  - **Tertiary failure:** transitional regimes that do not provide real standing, adjudication, and remedy access pending durable recognition;
-  - **Tertiary failure:** using anti-constitutional conduct or constitutional hostility claims to extinguish the core protections of the Rights-Floor, [Redress and Remediation](core_05_band_accountability.md#redress-and-remediation-constitutional), or [Procedural Fairness](core_05_band_participation.md#procedural-fairness-constitutional);
-  - **Tertiary failure:** arbitrary or pretextual imposition of restricted status without documented, ongoing threat to constitutional integrity.
+  - **Primary failure:** arrangements leaving a sentient without any recognizing regime.
+  - **Secondary failure:** denial of recognition or standing-adjudication access contrary to [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion).
+  - **Tertiary failure:**
+    - transitional regimes that do not provide real standing, adjudication, and remedy access pending durable recognition;
+    - treating Non-Statelessness as a mandate that a particular adopter absorb instrumentally coerced or weaponized mass outflows when origin-primary or shared / federation backup recognition remains available;
+    - using anti-constitutional conduct, constitutional hostility, or contempt-or-repudiation claims to extinguish the core protections of the Rights-Floor, [Redress and Remediation](core_05_band_accountability.md#redress-and-remediation-constitutional), or [Procedural Fairness](core_05_band_participation.md#procedural-fairness-constitutional); or
+    - fabricating or mislabeling restricted status as anti-constitutional conduct, constitutional hostility, or contempt or repudiation when those grounds are not actually present.
 
 ---
 
