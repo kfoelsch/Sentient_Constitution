@@ -141,6 +141,12 @@ EXPECTED_CLUSTERS: dict[str, list[str]] = {
         "Volitional Integrity",
         "Freedom (Bounded Agency)",
     ],
+    "#### Def.P4 Developing Sentient, Best-Interest Standard, and Graduated Capability": [
+        "Developing Sentient",
+        "Best-Interest Standard",
+        "Graduated Capability",
+        "Article V-F",
+    ],
     "#### Def.A3 Standing State, Contribution, and Violation": [
         "Participant Standing",
         "Verified Inputs for Standing",

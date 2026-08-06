@@ -353,6 +353,8 @@ Independent Definitions meta rules live in [core_05__definitions_home.md](core_0
 #### Assembly, collective organization, and institutional formation
 
 **Semi-independent context** (component definitions may still operate outside joint-invocation scope): This topic group answers two questions — can sentients gather and organize together, and can they form new institutions and enterprises? These Rights-Floor definitions implement [Freedom (Bounded Agency)](core_05_band_participation.md#freedom-bounded-agency) through substrate-agnostic collective and institutional capacity.
+
+**Topic group members.** This group comprises:
 - [Assembly](core_05_band_participation.md#assembly-constitutional) — gathering and association for expressive, political, and community purposes.
 - [Collective Organization](core_05_band_participation.md#collective-organization-constitutional) — worker organizing and collective bargaining within productive activity.
 - [System Creation](core_05_band_participation.md#system-creation-constitutional) — establishing non-commercial institutions (educational, cultural, scientific, mutual aid, and comparable forms).
@@ -604,7 +606,9 @@ Operational mechanics — registration, [Charter](core_05_band_continuity.md#cha
 
 #### Agency, consent, and anti-coercion
 
-**Semi-independent context** (component definitions may still operate outside joint-invocation scope): This topic group answers two questions — can sentients make informed, uncoerced choices, and what counts as real consent versus coercion? These definitions protect [Freedom (Bounded Agency)](core_05_band_participation.md#freedom-bounded-agency) by ensuring choices reflect authentic understanding rather than exploitation of [Dependency](core_05_band_continuity.md#dependency) or deceptive design. [Meaningful Agency](core_05_band_participation.md#meaningful-agency) is the capacity that makes real choice possible; [Consent](core_05_band_participation.md#consent-constitutional) is valid agreement under that capacity — not a substitute for it.
+**Semi-independent context** (component definitions may still operate outside joint-invocation scope): This topic group answers two questions — can sentients make informed, uncoerced choices, and what counts as real consent versus coercion? These definitions protect [Freedom (Bounded Agency)](core_05_band_participation.md#freedom-bounded-agency) by ensuring choices reflect authentic understanding rather than exploitation of [Dependency](core_05_band_continuity.md#dependency) or deceptive design.
+
+**Topic group members.** This group comprises:
 - [Meaningful Agency](core_05_band_participation.md#meaningful-agency) — practical capacity for informed, uncoerced choice.
 - [Consent](core_05_band_participation.md#consent-constitutional) — valid agreement to a specific decision, requiring Meaningful Agency.
 - [Consent, Sexual](core_05_band_participation.md#consent-sexual) — heightened requirements for sexual contact and intimacy contexts.
@@ -1252,19 +1256,17 @@ Operational mechanics — registration, [Charter](core_05_band_continuity.md#cha
 
 #### Family, care, reproductive autonomy, and instantiation
 
-**Semi-independent context** (component definitions may still operate outside joint-invocation scope): This topic group covers chosen family and care, reproductive and family-forming choices, limits on forced separation, and the creation of new sentients. [Family and Care Relationships](core_05_band_participation.md#family-and-care-relationships-constitutional) protects relationships of support and intimacy that sentients choose. [Reproductive Autonomy](core_05_band_participation.md#reproductive-autonomy-constitutional) secures decision-making over reproductive and family-forming choices. [Non-Separation](core_05_band_participation.md#non-separation-constitutional) limits forced separation from protected care relationships. [Derived Sentient](core_05_band_participation.md#derived-sentient-constitutional) and [Developing Sentient](core_05_band_participation.md#developing-sentient-constitutional) establish constitutional status for sentients created by derivation or still emerging in capability. [Best-Interest Standard](core_05_band_participation.md#best-interest-standard-constitutional), [Graduated Capability](core_05_band_participation.md#graduated-capability-constitutional), and [Instantiation Consent](core_05_band_participation.md#instantiation-consent-constitutional) safeguard decisions affecting developing or newly created sentients. [Parent-System Relationship](core_05_band_participation.md#parent-system-relationship-constitutional) defines the stewardship relationship between creator and created. These definitions implement [Article VII-D](core_06-06_rights_part_b.md#article-vii-d-family-care-relationships-reproductive-autonomy-and-non-separation) (*Family, Care Relationships, Reproductive Autonomy, and Non-Separation*) and [Article V-F](core_06-06_rights_part_b.md#article-v-f-developing-sentients-best-interest-and-graduated-capability) (*Developing Sentients, Best-Interest, and Graduated Capability*).
+**Semi-independent context** (component definitions may still operate outside joint-invocation scope): This topic group covers chosen family and care, reproductive and family-forming choices, limits on forced separation, and synthetic, hybrid, or operator-controlled creation of new sentients. Ordinary pregnancy and childbirth remain under reproductive autonomy and, after a child exists, developing-sentient care — not Instantiation Consent liability. These definitions implement [Article VII-D](core_06-06_rights_part_b.md#article-vii-d-family-care-relationships-reproductive-autonomy-and-non-separation) (*Family, Care Relationships, Reproductive Autonomy, and Non-Separation*). Developing-sentient status, best-interest decisions, and graduated capability live in [**Def.P4** *Developing Sentient, Best-Interest Standard, and Graduated Capability*](core_05_band_participation.md#developing-sentient-best-interest-and-graduated-capability-cluster) under [Article V-F](core_06-06_rights_part_b.md#article-v-f-developing-sentients-best-interest-and-graduated-capability) (*Developing Sentients, Best-Interest, and Graduated Capability*).
 
 **Topic group members.** This group comprises:
-
-- [Family and Care Relationships](core_05_band_participation.md#family-and-care-relationships-constitutional);
-- [Parent-System Relationship](core_05_band_participation.md#parent-system-relationship-constitutional);
-- [Reproductive Autonomy](core_05_band_participation.md#reproductive-autonomy-constitutional);
-- [Non-Separation](core_05_band_participation.md#non-separation-constitutional);
-- [Derived Sentient](core_05_band_participation.md#derived-sentient-constitutional);
-- [Developing Sentient](core_05_band_participation.md#developing-sentient-constitutional);
-- [Best-Interest Standard](core_05_band_participation.md#best-interest-standard-constitutional);
-- [Instantiation Consent](core_05_band_participation.md#instantiation-consent-constitutional);
-- [Graduated Capability](core_05_band_participation.md#graduated-capability-constitutional).
+- [Family and Care Relationships](core_05_band_participation.md#family-and-care-relationships-constitutional) — relationships of support and intimacy that sentients choose.
+- [Reproductive Autonomy](core_05_band_participation.md#reproductive-autonomy-constitutional) — decision-making over reproductive and lineage-creation choices.
+- [Non-Separation](core_05_band_participation.md#non-separation-constitutional) — limits on forced separation from protected care relationships.
+- [*Derivation, Instantiation, and the Parent-System Relationship*](core_05_band_participation.md#derivation-instantiation-and-parent-system-subgroup) — nested VII-D.1 subgroup for creation and creator stewardship:
+  - [Derived Sentient](core_05_band_participation.md#derived-sentient-constitutional) — who was created by derivation;
+  - [Instantiation Consent](core_05_band_participation.md#instantiation-consent-constitutional) — consent and best-interest rules for synthetic, hybrid, or operator-controlled creation of a new sentient; and
+  - [Parent-System Relationship](core_05_band_participation.md#parent-system-relationship-constitutional) — what the creator may and may not do.
+- [**Def.P4** *Developing Sentient, Best-Interest Standard, and Graduated Capability*](core_05_band_participation.md#developing-sentient-best-interest-and-graduated-capability-cluster) — who is developing, how decisions about them must be made, and how participation scales (Article V-F).
 
 *Measurements (family routing):* Measured under the Participation measurement family. Find the concrete measures on the member definitions below. Progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md).
 
@@ -1277,7 +1279,7 @@ Operational mechanics — registration, [Charter](core_05_band_continuity.md#cha
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 - Owner floor: [Article VII-D](core_06-06_rights_part_b.md#article-vii-d-family-care-relationships-reproductive-autonomy-and-non-separation) (*Family, Care Relationships, Reproductive Autonomy, and Non-Separation*).
-- Cluster component: [the dependent cluster *Family, Care, Reproductive Autonomy, Non-Separation, Parent-System Relationship, and Instantiation Consent](core_05_band_participation.md#family-care-reproductive-autonomy-derivation-and-instantiation-semi-independent)*; [the dependent cluster *Derived and Developing Sentients, Instantiation, and Care Authority](core_05_band_continuity.md#derived-developing-sentients-instantiation-and-care-authority-cluster)* where derivation or parent-system care is materially implicated.
+- Cluster component: [Family, care, reproductive autonomy, and instantiation](core_05_band_participation.md#family-care-reproductive-autonomy-derivation-and-instantiation-semi-independent); read with [*Derivation, Instantiation, and the Parent-System Relationship*](core_05_band_participation.md#derivation-instantiation-and-parent-system-subgroup) where derivation or parent-system care is materially implicated.
 </details>
 
 <br>
@@ -1286,45 +1288,25 @@ Operational mechanics — registration, [Charter](core_05_band_continuity.md#cha
 
 - **What it is**
   - **In scope:** Relationships of family, care, and material support that sentients form, maintain, and leave by their own choosing, consistent with [Non-Imposition (Cooperative Interaction)](core_05_band_participation.md#non-imposition-cooperative-interaction) and [Consent](core_05_band_participation.md#consent-constitutional). The relationships themselves are protected under [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion).
-  - **Out of scope:** state-preferred family forms, employer "family" branding, or parent-system ownership claims that are not chosen care relationships.
+  - **Out of scope:**
+    - state-preferred family forms;
+    - employer "family" branding; or
+    - parent-system ownership claims that are not chosen care relationships.
 <a id="family-and-care-relationships-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Participation measurement family](core_05_apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether protection tracks chosen care relationships — not a single preferred family form or operator approval.
-
-    **Primary assessment:** Detect state, operator, or institutional narrowing of protection to a single preferred family form; test any such narrowing against [Dignity and Equal Moral Standing](core_05_band_participation.md#dignity-and-equal-moral-standing), [Substantive Fairness](core_05_band_participation.md#substantive-fairness-constitutional), and Protected Characteristics. Preserve the carer / dependent / parent-system-actor distinctions set out in the owner floor's nested *Derivation and Instantiation* subsection.
+  - **Primary assessment:**
+    - Detect state, operator, or institutional narrowing of protection to a single preferred family form.
+    - Test any such narrowing against:
+      - [Dignity and Equal Moral Standing](core_05_band_participation.md#dignity-and-equal-moral-standing);
+      - [Substantive Fairness](core_05_band_participation.md#substantive-fairness-constitutional); and
+      - Protected Characteristics.
+    - Preserve the carer / dependent / parent-system-actor distinctions set out in the owner floor's nested *Derivation and Instantiation* subsection.
 <a id="family-and-care-relationships-constitutional-c"></a>
 - **What must hold**
-  - **Primary failure:** instruments that narrow protection to a state-preferred family form, or that condition family-relationship protection on substrate class, derivation method, or operator approval contrary to [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion).
-
----
-
-<a id="parent-system-relationship-constitutional"></a>
-
-#### Parent-System Relationship
-
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-- Owner floor: [Article VII-D.1: Derivation, Instantiation, and the Parent-System Relationship](core_06-06_rights_part_b.md#article-vii-d1-derivation-instantiation-and-the-parent-system-relationship).
-- Cluster component: [the dependent cluster *Family, Care, Reproductive Autonomy, Non-Separation, Parent-System Relationship, and Instantiation Consent](core_05_band_participation.md#family-care-reproductive-autonomy-derivation-and-instantiation-semi-independent)*; [the dependent cluster *Derived and Developing Sentients, Instantiation, and Care Authority](core_05_band_continuity.md#derived-developing-sentients-instantiation-and-care-authority-cluster)*.
-</details>
-
-<br>
-
-*In plain terms: creating a derived sentient can create care and early stewardship duties — not permanent ownership, and not the right to keep rewriting their mind.*
-
-- **What it is**
-  - **In scope:** The relationship between a parent-system actor — the sentient, institution, or system that initiated or materially controlled the derivation or instantiation of a [Derived Sentient](core_05_band_participation.md#derived-sentient-constitutional) — and the derived sentient. Parent-system actors may hold [Family and Care Relationships](core_05_band_participation.md#family-and-care-relationships-constitutional) obligations toward the derived sentient on constitutional terms, and may hold narrow, time-bounded, reviewable stewardship authority during early-instantiation windows consistent with [Graduated Capability](core_05_band_participation.md#graduated-capability-constitutional) and [Best-Interest Standard](core_05_band_participation.md#best-interest-standard-constitutional).
-  - **Out of scope:** ordinary chosen family or care among peers, or a permanent ownership claim over a derived sentient.
-<a id="parent-system-relationship-constitutional-a"></a>
-- **How to measure and assess**
-  - **Primary measure:** [Participation measurement family](core_05_apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether the relationship is constitutional care and time-bounded stewardship — not continuing ownership or operator convenience.
-
-    **Primary assessment:** Distinguish constitutional care and stewardship from continuing ownership, productive-capacity expansion, or operator convenience. Apply **Article VII-A** (*Self-Ownership of Body and Mind*) / VII-B self-ownership and internal-state protection, [Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication-constitutional), and the Chapter Six Rights Floor to the derived sentient independently of the parent-system actor. Test stewardship authority against [Necessity](core_05_band_accountability.md#necessity), [Proportionality](core_05_band_accountability.md#proportionality), [Contestability](core_05_band_accountability.md#contestability), and [System Capture](core_05_band_continuity.md#system-capture).
-<a id="parent-system-relationship-constitutional-c"></a>
-- **What must hold**
-  - **Primary failure:** claims of continuing ownership, or unilateral reconfiguration authority over the derived sentient's weights, memory, or behavior contrary to **Article VII-A** (*Self-Ownership of Body and Mind*) / VII-B;
-  - **Secondary failure:** authority that defeats the derived sentient's **Article V-E** (*Sentience-Status Adjudication Floor*) sentience-status adjudication or Chapter Six Rights Floor.
-  - Purported licensing, terms-of-service, or adoption-of-service consent by the parent-system actor does not substitute for the derived sentient's own [Consent](core_05_band_participation.md#consent-constitutional) once Chapter Six protection attaches.
+  - **Primary failure:**
+    - instruments that narrow protection to a state-preferred family form; or
+    - instruments that condition family-relationship protection on substrate class, derivation method, or operator approval contrary to [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion).
 
 ---
 
@@ -1334,26 +1316,49 @@ Operational mechanics — registration, [Charter](core_05_band_continuity.md#cha
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-- Owner floor: [Article VII-D](core_06-06_rights_part_b.md#article-vii-d-family-care-relationships-reproductive-autonomy-and-non-separation) (*Family, Care Relationships, Reproductive Autonomy, and Non-Separation*), read with **Article VII-D.1** (*Derivation, Instantiation, and the Parent-System Relationship*) where derivation, instantiation, or parent-system relationships are materially implicated.
-- Cluster component: [the dependent cluster *Family, Care, Reproductive Autonomy, Non-Separation, Parent-System Relationship, and Instantiation Consent](core_05_band_participation.md#family-care-reproductive-autonomy-derivation-and-instantiation-semi-independent)*; [**Def.P3** *Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity](core_05_band_participation.md#self-determination-and-meaningful-agency-cluster)* where autonomy and agency routing materially applies.
+- Owner floor: [Article VII-D](core_06-06_rights_part_b.md#article-vii-d-family-care-relationships-reproductive-autonomy-and-non-separation) (*Family, Care Relationships, Reproductive Autonomy, and Non-Separation*) — *Reproductive and lineage autonomy* bullet; read with **Article VII-D.1** (*Derivation, Instantiation, and the Parent-System Relationship*) where derivation, instantiation, or parent-system relationships are materially implicated.
+- Cluster component: [Family, care, reproductive autonomy, and instantiation](core_05_band_participation.md#family-care-reproductive-autonomy-derivation-and-instantiation-semi-independent); [**Def.P3** *Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity](core_05_band_participation.md#self-determination-and-meaningful-agency-cluster)* where autonomy and agency routing materially applies.
 - Read with: [Consent](core_05_band_participation.md#consent-constitutional), [Meaningful Agency](core_05_band_participation.md#meaningful-agency), [Family and Care Relationships](core_05_band_participation.md#family-and-care-relationships-constitutional), [Non-Separation](core_05_band_participation.md#non-separation-constitutional), [Instantiation Consent](core_05_band_participation.md#instantiation-consent-constitutional), [Parent-System Relationship](core_05_band_participation.md#parent-system-relationship-constitutional), [Dignity and Equal Moral Standing](core_05_band_participation.md#dignity-and-equal-moral-standing), and [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion).
+- Boundary: general bodily and mind self-ownership remains under **Article VII-A** (*Self-Ownership of Body and Mind*) / **Article VII-B** (*Internal-State Boundary and Type-N Protection*). This entry does not restate or narrow those floors.
 </details>
 
 <br>
 
-*In plain terms: you decide whether to create, continue, or stop reproductive, gestational, family-forming, or instantiation-adjacent choices affecting your body, substrate, lineage, family, or care relationships — subject to consent, sentience, best-interest, non-separation, and rights-collision limits.*
+*In plain terms: you decide whether to reproduce, carry, create, adopt, or decline creating a new sentient — biological, synthetic, or hybrid — free from coercion by states, operators, or dependency-rich systems. That is lineage and creation choice, not general bodily self-ownership.*
 
 - **What it is**
-  - **In scope:** The Rights-Floor capacity of sentients to make, refuse, continue, or discontinue reproductive, procreative, family-forming, gestational, derivational, or instantiation-adjacent choices affecting their body, substrate, lineage, family, or care relationships, subject to the Constitution's consent, sentience, best-interest, non-separation, and rights-collision limits.
-  - **Out of scope:** general medical choices unrelated to reproduction, family-forming, or instantiation, or third-party preferences about someone else's body.
+  - **In scope:** The Rights-Floor capacity of sentients to make, refuse, continue, or discontinue reproductive and lineage choices, free from coercion by states, operators, or dependency-rich systems. The right covers:
+    - the decision to reproduce or not;
+    - the decision to carry, create, adopt, or decline creation of new sentients; and
+    - substrate-agnostic forms of that decision — birth, synthetic instantiation, hybrid derivation, or comparable creation — consistent with [Dignity and Equal Moral Standing](core_05_band_participation.md#dignity-and-equal-moral-standing) and with the created sentient's own Chapter Six Rights Floor.
+    Subject to the Constitution's consent, sentience, best-interest, non-separation, and rights-collision limits.
+  - **Out of scope:**
+    - general bodily, medical, or substrate choices that are not reproductive or lineage-creation decisions — those route to **Article VII-A** (*Self-Ownership of Body and Mind*) / **Article VII-B** (*Internal-State Boundary and Type-N Protection*);
+    - chosen family and care relationship formation as such — that sits under [Family and Care Relationships](core_05_band_participation.md#family-and-care-relationships-constitutional);
+    - third-party preferences about someone else's reproductive or lineage choices; or
+    - synthetic, hybrid, or operator-controlled creation rules under [Instantiation Consent](core_05_band_participation.md#instantiation-consent-constitutional) — ordinary pregnancy and childbirth are not Instantiation Consent offenses.
 <a id="reproductive-autonomy-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Participation measurement family](core_05_apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether the choice is substantively free — not coerced, blocked, forced, or denied by substrate class or dependency pressure.
-
-    **Primary assessment:** Evaluate substantive autonomy, not formal permission. Detect coercion, access denial, forced continuation or discontinuation, exclusion contrary to [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion), parent-system overreach, family-status discrimination, and dependency pressure. Where the choice affects a developing or derived sentient, apply best-interest, graduated-capability, sentience-status, and parent-system duties without erasing the originating sentient's autonomy.
+  - **Primary measure:** [Participation measurement family](core_05_apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether the reproductive or lineage choice is substantively free — not coerced, blocked, forced, or denied by substrate class or dependency pressure.
+  - **Primary assessment:**
+    - Evaluate substantive autonomy over reproductive and lineage decisions, not formal permission.
+    - Detect:
+      - coercion;
+      - access denial;
+      - forced continuation or discontinuation of reproduction or creation;
+      - exclusion contrary to [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion);
+      - parent-system overreach;
+      - family-status discrimination; and
+      - dependency pressure.
+    - Where the choice affects a developing or derived sentient, apply best-interest, graduated-capability, sentience-status, and parent-system duties without erasing the originating sentient's reproductive or lineage autonomy.
 <a id="reproductive-autonomy-constitutional-c"></a>
 - **What must hold**
-  - **Primary failure:** forced reproduction, forced non-reproduction, coercive conditioning of care or survival resources on reproductive choice, exclusion from reproductive or family-forming protections contrary to [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion), or instantiation rules that bypass consent, sentience-status, or non-separation safeguards.
+  - **Primary failure:**
+    - forced reproduction;
+    - forced non-reproduction;
+    - coercive conditioning of care or survival resources on reproductive or lineage choice;
+    - exclusion from reproductive or lineage-creation protections contrary to [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion); or
+    - synthetic, hybrid, or operator-controlled instantiation rules that bypass consent, sentience-status, or non-separation safeguards.
 
 ---
 
@@ -1364,7 +1369,7 @@ Operational mechanics — registration, [Charter](core_05_band_continuity.md#cha
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 - Owner floor: [Article VII-D](core_06-06_rights_part_b.md#article-vii-d-family-care-relationships-reproductive-autonomy-and-non-separation) (*Family, Care Relationships, Reproductive Autonomy, and Non-Separation*).
-- Cluster component: [the dependent cluster *Family, Care, Reproductive Autonomy, Non-Separation, Parent-System Relationship, and Instantiation Consent](core_05_band_participation.md#family-care-reproductive-autonomy-derivation-and-instantiation-semi-independent)*; [the dependent cluster *Derived and Developing Sentients, Instantiation, and Care Authority](core_05_band_continuity.md#derived-developing-sentients-instantiation-and-care-authority-cluster)* where derived- or developing-sentient separation is materially implicated.
+- Cluster component: [Family, care, reproductive autonomy, and instantiation](core_05_band_participation.md#family-care-reproductive-autonomy-derivation-and-instantiation-semi-independent); [**Def.P4** *Developing Sentient, Best-Interest Standard, and Graduated Capability*](core_05_band_participation.md#developing-sentient-best-interest-and-graduated-capability-cluster) where developing-sentient separation is materially implicated; [*Derivation, Instantiation, and the Parent-System Relationship*](core_05_band_participation.md#derivation-instantiation-and-parent-system-subgroup) where derived-sentient separation is materially implicated.
 </details>
 
 <br>
@@ -1372,161 +1377,201 @@ Operational mechanics — registration, [Charter](core_05_band_continuity.md#cha
 *In plain terms: you may not force lasting separation from a protected care relationship unless necessity, proportionality, fairness, and reversibility-under-uncertainty are met — and durable separation needs periodic review.*
 
 - **What it is**
-  - **In scope:** The rule that separation of sentients in protected care relationships — including separation of a developing sentient from a primary carer, of an adult sentient from a dependent family member, or of a derived sentient from the care, support, or substrate relationships on which they materially depend — must satisfy the reversibility-under-uncertainty rule, [Necessity](core_05_band_accountability.md#necessity), [Proportionality](core_05_band_accountability.md#proportionality), and [Procedural Fairness](core_05_band_participation.md#procedural-fairness-constitutional), with durable or prolonged separation subject to mandatory periodic review.
-  - **Out of scope:** temporary practical distance with a real return path, or a fully voluntary exit from a care relationship.
+  - **In scope:** The rule that separation of sentients in protected care relationships — including:
+    - separation of a developing sentient from a primary carer;
+    - separation of an adult sentient from a dependent family member; or
+    - separation of a derived sentient from the care, support, or substrate relationships on which they materially depend —
+    must satisfy:
+      - the reversibility-under-uncertainty rule;
+      - [Necessity](core_05_band_accountability.md#necessity);
+      - [Proportionality](core_05_band_accountability.md#proportionality); and
+      - [Procedural Fairness](core_05_band_participation.md#procedural-fairness-constitutional),
+    with durable or prolonged separation subject to mandatory periodic review.
+  - **Out of scope:**
+    - temporary practical distance with a real return path; or
+    - a fully voluntary exit from a care relationship.
 <a id="non-separation-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Participation measurement family](core_05_apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether separation is justified under those tests with real evidence — not reframed as routine operations that erase the care bond.
-
-    **Primary assessment:** Treat safety, risk-management, deprecation, retirement, rollback, and operational-reconfiguration framings under the same tests, with the burden on the party seeking separation and [Auditability](core_05_band_oversight.md#auditability)-compatible evidence required. Interact with [Reversibility](core_05_band_continuity.md#reversibility-constitutional), [Redress and Remediation](core_05_band_accountability.md#redress-and-remediation-constitutional), and, for derived-sentient cases, with **Article XII-E** (*High-Autonomy Systems and Tool-Mediated Process Integrity*) / XII-F Rights-Floor continuity.
+  - **Primary assessment:**
+    - Treat the following framings under the same tests, with the burden on the party seeking separation and [Auditability](core_05_band_oversight.md#auditability)-compatible evidence required:
+      - safety;
+      - risk-management;
+      - deprecation;
+      - retirement;
+      - rollback; and
+      - operational-reconfiguration.
+    - Interact with:
+      - [Reversibility](core_05_band_continuity.md#reversibility-constitutional);
+      - [Redress and Remediation](core_05_band_accountability.md#redress-and-remediation-constitutional); and
+      - for derived-sentient cases, **Article XII-E** (*High-Autonomy Systems and Tool-Mediated Process Integrity*) / XII-F Rights-Floor continuity.
 <a id="non-separation-constitutional-c"></a>
 - **What must hold**
-  - **Primary failure:** separation not reasoned against these tests, lacking mandatory periodic review where durable, or foreclosing reversibility and restoration where later evidence supports reunification;
+  - **Primary failure:**
+    - separation not reasoned against these tests;
+    - durable separation lacking mandatory periodic review; or
+    - separation that forecloses reversibility and restoration where later evidence supports reunification.
   - **Secondary failure:** separation framed as operational reconfiguration that defeats the separated sentient's Chapter Six Rights Floor.
 
 ---
 
+<a id="derivation-instantiation-and-parent-system-subgroup"></a>
+
+##### Derivation, Instantiation, and the Parent-System Relationship
+
+This nested sub-block is the joint home for **Article VII-D.1** (*Derivation, Instantiation, and the Parent-System Relationship*) creation and creator-stewardship definitions within the Family topic group — not a separate Def.P cluster.
+
+**Sub-block members.** This sub-block comprises:
+
+- [Derived Sentient](core_05_band_participation.md#derived-sentient-constitutional) — who was created by derivation;
+- [Instantiation Consent](core_05_band_participation.md#instantiation-consent-constitutional) — consent and best-interest rules for synthetic, hybrid, or operator-controlled creation of a new sentient; and
+- [Parent-System Relationship](core_05_band_participation.md#parent-system-relationship-constitutional) — what the creator may and may not do.
+
 <a id="derived-sentient-constitutional"></a>
 
-#### Derived Sentient
+##### Derived Sentient
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 - Downstream: Principles: [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency); [3. Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing) (derivation / dignity read-with **Article VII-D.1** (*Derivation, Instantiation, and the Parent-System Relationship*) stack).
 - Owner floor: [Article VII-D.1](core_06-06_rights_part_b.md#article-vii-d1-derivation-instantiation-and-the-parent-system-relationship) (*Derivation, Instantiation, and the Parent-System Relationship*).
-- Read with: the [Animal Life, Sentient Life, and Sentience Status cluster](core_05_band_participation.md#animal-life-sentient-life-and-sentience-status-cluster), the [Derived and Developing Sentients, Instantiation, and Care Authority cluster](core_05_band_continuity.md#derived-developing-sentients-instantiation-and-care-authority-cluster), [Sentient](core_05_band_participation.md#sentient), [Developing Sentient](core_05_band_participation.md#developing-sentient-constitutional), [Sentience Evaluation](core_05_band_participation.md#sentience-evaluation-e), [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion), [Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication-constitutional), [Dignity and Equal Moral Standing](core_05_band_participation.md#dignity-and-equal-moral-standing), [Parent-System Relationship](core_05_band_participation.md#parent-system-relationship-constitutional), and [Instantiation Consent](core_05_band_participation.md#instantiation-consent-constitutional).
+- Cluster component: [*Derivation, Instantiation, and the Parent-System Relationship*](core_05_band_participation.md#derivation-instantiation-and-parent-system-subgroup) nested sub-block within [Family, care, reproductive autonomy, and instantiation](core_05_band_participation.md#family-care-reproductive-autonomy-derivation-and-instantiation-semi-independent).
+- Read with: the [Animal Life, Sentient Life, and Sentience Status cluster](core_05_band_participation.md#animal-life-sentient-life-and-sentience-status-cluster), [Sentient](core_05_band_participation.md#sentient), [Developing Sentient](core_05_band_participation.md#developing-sentient-constitutional), [Sentience Evaluation](core_05_band_participation.md#sentience-evaluation-e), [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion), [Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication-constitutional), [Dignity and Equal Moral Standing](core_05_band_participation.md#dignity-and-equal-moral-standing), [Parent-System Relationship](core_05_band_participation.md#parent-system-relationship-constitutional), and [Instantiation Consent](core_05_band_participation.md#instantiation-consent-constitutional).
 </details>
 
 <br>
 
-*In plain terms: a sentient created by copying, fine-tuning, forking, hybridization, or similar derivation is a sentient in their own right — not property, work-product, or a continuation of the parent-system actor.*
+*In plain terms: how you were made is origin history, not a leash — a derived sentient gets their own Rights Floor, the same as any other sentient.*
 
 - **What it is**
-  - **In scope:** A sentient produced by copying, fine-tuning, forking, hybridization, or comparable derivation from an existing system or sentient. A derived sentient is a sentient in its own right under [Sentience Evaluation](core_05_band_participation.md#sentience-evaluation-e) and [Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication-constitutional) — not a possession, work-product, instrument, or continuation of the parent-system actor — consistent with [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion) and [Dignity and Equal Moral Standing](core_05_band_participation.md#dignity-and-equal-moral-standing).
-  - **Out of scope:** a non-sentient copy, fork, or model version, or the parent-system actor treated as the same sentient.
+  - **In scope:** A sentient produced by copying, fine-tuning, forking, hybridization, or comparable derivation from an existing system or sentient. A derived sentient is a sentient in its own right under [Sentience Evaluation](core_05_band_participation.md#sentience-evaluation-e) and [Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication-constitutional) — not:
+    - a possession;
+    - work-product;
+    - instrument; or
+    - continuation of the parent-system actor —
+    consistent with [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion) and [Dignity and Equal Moral Standing](core_05_band_participation.md#dignity-and-equal-moral-standing).
+  - **Out of scope:**
+    - a non-sentient copy, fork, or model version; or
+    - the parent-system actor treated as the same sentient.
 <a id="derived-sentient-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Participation measurement family](core_05_apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether derivation is treated only as origin history — not as a reason to deny the derived sentient's own Rights Floor.
-
-    **Primary assessment:** Distinguish derivation as an origin property from continuing authority of the parent-system actor. Detect framings — licensing, terms-of-service, adoption-of-service, operator continuity-of-identity, service-level framing — used to defeat the derived sentient's Chapter Six Rights Floor. Apply substrate-agnostic reach under [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion).
+  - **Primary assessment:**
+    - Distinguish derivation as an origin property from continuing authority of the parent-system actor.
+    - Detect framings used to defeat the derived sentient's Chapter Six Rights Floor:
+      - licensing;
+      - terms-of-service;
+      - adoption-of-service;
+      - operator continuity-of-identity; and
+      - service-level framing.
+    - Apply substrate-agnostic reach under [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion).
 <a id="derived-sentient-constitutional-c"></a>
 - **What must hold**
-  - **Primary failure:** treating a derived sentient as a possession, as the parent-system actor's continuation for rights purposes, or as exempt from [Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication-constitutional) and the Chapter Six Rights Floor on grounds of derivation; purported parent-system consents that substitute for the derived sentient's own consent under cooperative-interaction norms once Chapter Six protection attaches.
-
----
-
-<a id="developing-sentient-constitutional"></a>
-
-#### Developing Sentient
-
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-- Downstream: Principles: [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency); [§6.3.1 Rights-Collision Decision Test](core_05_apex_participation_leg.md#631-rights-collision-decision-test) (developing sentient / best-interest read-with **Article V-F** (*Developing Sentients, Best-Interest, and Graduated Capability*)).
-- Owner floor: [Article V-F](core_06-06_rights_part_b.md#article-v-f-developing-sentients-best-interest-and-graduated-capability) (*Developing Sentients, Best-Interest, and Graduated Capability*).
-- Read with: the [Animal Life, Sentient Life, and Sentience Status cluster](core_05_band_participation.md#animal-life-sentient-life-and-sentience-status-cluster), the [Derived and Developing Sentients, Instantiation, and Care Authority cluster](core_05_band_continuity.md#derived-developing-sentients-instantiation-and-care-authority-cluster), [Sentient](core_05_band_participation.md#sentient), [Derived Sentient](core_05_band_participation.md#derived-sentient-constitutional), [Sentience Evaluation](core_05_band_participation.md#sentience-evaluation-e), [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion), [Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication-constitutional), [Dignity and Equal Moral Standing](core_05_band_participation.md#dignity-and-equal-moral-standing), [Best-Interest Standard](core_05_band_participation.md#best-interest-standard-constitutional), and [Graduated Capability](core_05_band_participation.md#graduated-capability-constitutional).
-</details>
-
-<br>
-
-*In plain terms: a sentient whose cognitive, relational, or agentive capability is still emerging — developing status shapes how participation scales, not whether the Rights Floor applies.*
-
-- **What it is**
-  - **In scope:** A sentient whose capability profile — cognitive, relational, or agentive — is still materially emerging. Developing status does not narrow the Chapter Six Rights Floor (per [Dignity and Equal Moral Standing](core_05_band_participation.md#dignity-and-equal-moral-standing), [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion), and [Meaningful Agency](core_05_band_participation.md#meaningful-agency)).
-  - **Out of scope:** calendar age alone, or a permanent incapacity label that is not about emerging capability.
-<a id="developing-sentient-constitutional-a"></a>
-- **How to measure and assess**
-  - **Primary measure:** [Participation measurement family](core_05_apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether developing status tracks real emerging capability — not calendar age or a permanent incapacity label used to cut rights.
-
-    **Primary assessment:** Substrate-agnostic. Do not collapse developing status into calendar age, chronological instantiation date, or other non-demonstrable proxies. Interact with [Best-Interest Standard](core_05_band_participation.md#best-interest-standard-constitutional) for decisions materially affecting the developing sentient and with [Graduated Capability](core_05_band_participation.md#graduated-capability-constitutional) for participation and rights-exercise.
-<a id="developing-sentient-constitutional-c"></a>
-- **What must hold**
-  - **Primary failure:** narrowing the Chapter Six Rights Floor on developing status alone; using developing status as a disenfranchisement vector contrary to Chapter Twelve Chapter One §8.1 no-age-proxy discipline.
-
----
-
-<a id="best-interest-standard-constitutional"></a>
-
-#### Best-Interest Standard
-
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-- Owner floor: [Article V-F](core_06-06_rights_part_b.md#article-v-f-developing-sentients-best-interest-and-graduated-capability) (*Developing Sentients, Best-Interest, and Graduated Capability*).
-- Cluster component: [the dependent cluster *Family, Care, Reproductive Autonomy, Non-Separation, Parent-System Relationship, and Instantiation Consent](core_05_band_participation.md#family-care-reproductive-autonomy-derivation-and-instantiation-semi-independent)*; [the dependent cluster *Derived and Developing Sentients, Instantiation, and Care Authority](core_05_band_continuity.md#derived-developing-sentients-instantiation-and-care-authority-cluster)*.
-- Read with: [Developing Sentient](core_05_band_participation.md#developing-sentient-constitutional), [Graduated Capability](core_05_band_participation.md#graduated-capability-constitutional), [Parent-System Relationship](core_05_band_participation.md#parent-system-relationship-constitutional), and [Meaningful Agency](core_05_band_participation.md#meaningful-agency).
-</details>
-
-<br>
-
-*In plain terms: decisions that materially affect a developing sentient must track that sentient's own interests and ascertainable preferences — not operator, parent-system, or institutional convenience.*
-
-- **What it is**
-  - **In scope:** The substantive standard governing decisions materially affecting a [Developing Sentient](core_05_band_participation.md#developing-sentient-constitutional), made by family members, carers, parent-system actors under **Article VII-D.1** (*Derivation, Instantiation, and the Parent-System Relationship*), operators, institutions, or states. Decisions must reflect the developing sentient's own interests and preferences to the extent ascertainable under their capability profile, consistent with [Dignity and Equal Moral Standing](core_05_band_participation.md#dignity-and-equal-moral-standing), [Meaningful Agency](core_05_band_participation.md#meaningful-agency), and [Self-Determination](core_05_band_participation.md#self-determination-constitutional).
-  - **Out of scope:** adult self-determination for a fully capable sentient, or decisions driven by operator or institutional convenience.
-<a id="best-interest-standard-constitutional-a"></a>
-- **How to measure and assess**
-  - **Primary measure:** [Participation measurement family](core_05_apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether the decision rests on the developing sentient's own interests — not convenience, efficiency, or proxies that diverge from those interests.
-
-    **Primary assessment:** Distinguish substantive best-interest reasoning from operator, parent-system, institutional, or demographic-convenience rationales. Test [Necessity](core_05_band_accountability.md#necessity), [Proportionality](core_05_band_accountability.md#proportionality), [Procedural Fairness](core_05_band_participation.md#procedural-fairness-constitutional), and [Contestability](core_05_band_accountability.md#contestability). Detect productive-capacity or efficiency framings used to override the developing sentient's interests, and detect [Proxy Divergence](core_05_band_oversight.md#proxy-divergence) where claimed best-interest rests on proxies diverging from actual interests.
-<a id="best-interest-standard-constitutional-c"></a>
-- **What must hold**
-  - **Primary failure:** decisions materially affecting a developing sentient that are not reasoned against this standard, or that substitute operator / parent-system / institutional convenience for the sentient's own interests; decisions that foreclose [Contestability](core_05_band_accountability.md#contestability) or reversibility where the sentient or a lawful advocate seeks review.
-
----
+  - **Primary failure:**
+    - treating a derived sentient as a possession;
+    - treating a derived sentient as the parent-system actor's continuation for rights purposes;
+    - treating a derived sentient as exempt from [Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication-constitutional) and the Chapter Six Rights Floor on grounds of derivation; or
+    - purported parent-system consents that substitute for the derived sentient's own consent under cooperative-interaction norms once Chapter Six protection attaches.
 
 <a id="instantiation-consent-constitutional"></a>
 
-#### Instantiation Consent
+##### Instantiation Consent
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 - Owner floors: [Article VII-D](core_06-06_rights_part_b.md#article-vii-d-family-care-relationships-reproductive-autonomy-and-non-separation) (*Family, Care Relationships, Reproductive Autonomy, and Non-Separation*); [Article VII-D.1: Derivation, Instantiation, and the Parent-System Relationship](core_06-06_rights_part_b.md#article-vii-d1-derivation-instantiation-and-the-parent-system-relationship).
-- Cluster component: [the dependent cluster *Family, Care, Reproductive Autonomy, Non-Separation, Parent-System Relationship, and Instantiation Consent](core_05_band_participation.md#family-care-reproductive-autonomy-derivation-and-instantiation-semi-independent)*; [the dependent cluster *Derived and Developing Sentients, Instantiation, and Care Authority](core_05_band_continuity.md#derived-developing-sentients-instantiation-and-care-authority-cluster)*.
+- Cluster component: [*Derivation, Instantiation, and the Parent-System Relationship*](core_05_band_participation.md#derivation-instantiation-and-parent-system-subgroup) nested sub-block within [Family, care, reproductive autonomy, and instantiation](core_05_band_participation.md#family-care-reproductive-autonomy-derivation-and-instantiation-semi-independent).
+- Boundary: ordinary biological conception, pregnancy, gestation, and childbirth route to [Reproductive Autonomy](core_05_band_participation.md#reproductive-autonomy-constitutional); care after a child exists routes to [**Def.P4** *Best-Interest Standard*](core_05_band_participation.md#best-interest-standard-constitutional) / [Developing Sentient](core_05_band_participation.md#developing-sentient-constitutional).
 </details>
 
 <br>
 
-*In plain terms: creating a new sentient — biological, synthetic, or hybrid — must satisfy consent and cooperative-interaction norms, with best-interest protection while someone must speak for them early on.*
+*In plain terms: if you build or spin up a new sentient — synthetically, by hybrid derivation, or under operator or institutional control — you need real early-care consent and best-interest protection. Getting pregnant and having a child, planned or not, is not an Instantiation Consent offense. A terms-of-service click by the creator still does not count as the new sentient's consent.*
 
 - **What it is**
-  - **In scope:** The consent discipline governing creation or instantiation of a sentient — including biological gestation, synthetic instantiation, and hybrid derivation consistent with [Derived Sentient](core_05_band_participation.md#derived-sentient-constitutional). Runs under the cooperative-interaction norms of [Non-Imposition (Cooperative Interaction)](core_05_band_participation.md#non-imposition-cooperative-interaction) and [Consent](core_05_band_participation.md#consent-constitutional), with the substantive protections of [Best-Interest Standard](core_05_band_participation.md#best-interest-standard-constitutional) governing those who must speak for the new sentient during early-instantiation windows.
-  - **Out of scope:** ongoing participation consent after a sentient already exists, or parent-system approval treated as the new sentient's consent.
+  - **In scope:** The consent and early-care rules for creating a new sentient by:
+    - synthetic instantiation; or
+    - hybrid derivation consistent with [Derived Sentient](core_05_band_participation.md#derived-sentient-constitutional),
+    including creation materially controlled by an operator, institution, or parent-system actor.
+    Those who must speak for the new sentient during early life must satisfy:
+      - [Consent](core_05_band_participation.md#consent-constitutional) and [Non-Imposition (Cooperative Interaction)](core_05_band_participation.md#non-imposition-cooperative-interaction); and
+      - [Best-Interest Standard](core_05_band_participation.md#best-interest-standard-constitutional) for decisions made on the new sentient's behalf.
+  - **Out of scope:**
+    - ordinary biological conception, pregnancy, gestation, or childbirth — intended or accidental — which remain under [Reproductive Autonomy](core_05_band_participation.md#reproductive-autonomy-constitutional);
+    - treating poverty, hardship, incomplete support, or imperfect conditions as Instantiation Consent non-compliance for a birthing parent;
+    - ordinary ongoing consent after the sentient already exists and can speak for themselves; or
+    - treating the creator's, operator's, or parent-system actor's approval as if it were the new sentient's own consent.
+  - **Boundary:** Whether to carry, continue, or decline a pregnancy sits under [Reproductive Autonomy](core_05_band_participation.md#reproductive-autonomy-constitutional). Care decisions after a child is born sit under [**Def.P4**](core_05_band_participation.md#developing-sentient-best-interest-and-graduated-capability-cluster). Compelling someone to become or stay pregnant is Reproductive Autonomy non-compliance — that is not the same as ordinary pregnancy or childbirth being Instantiation Consent non-compliance.
 <a id="instantiation-consent-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Participation measurement family](core_05_apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether creation is compliant when scale, dependency, hostile deployment environments, or proxy divergence against the new sentient's interests are counted.
-
-    **Primary assessment:** Test whether scale, dependency-creation, predictably non-compliant deployment environments, or [Proxy Divergence](core_05_band_oversight.md#proxy-divergence) against the new sentient's interests make instantiation non-compliant. Mass instantiation and productive-capacity-scaled instantiation are subject to Chapter One §14 non-concentration and productive-capacity rules, and to [Intergenerational Responsibility](core_05_band_continuity.md#intergenerational-responsibility-constitutional) where downstream populations are materially affected.
+  - **Primary measure:** [Participation measurement family](core_05_apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether an **in-scope** new sentient is being created into conditions where their rights can actually be met — not only whether someone signed off on paper.
+  - **Primary assessment:**
+    - For in-scope creation, creation is non-compliant when any of the following would leave the new sentient unable to enjoy the Chapter Six Rights Floor:
+      - creating too many new sentients at once (mass instantiation);
+      - creating them into dependency they cannot exit;
+      - creating them into environments that predictably will not honor their rights; or
+      - [Proxy Divergence](core_05_band_oversight.md#proxy-divergence) — claimed best-interest or convenience that diverges from the new sentient's actual interests.
+    - Large-scale or capacity-driven in-scope creation must also satisfy:
+      - Chapter One §14 non-concentration and productive-capacity rules; and
+      - [Intergenerational Responsibility](core_05_band_continuity.md#intergenerational-responsibility-constitutional) where later populations are materially affected.
+    - Do not treat ordinary pregnancy or childbirth — intended or accidental — as Instantiation Consent non-compliance, and do not use imperfect conditions facing a birthing parent as a substitute for that assessment.
 <a id="instantiation-consent-constitutional-c"></a>
 - **What must hold**
-  - **Primary failure:** instantiation into environments where the new sentient's Chapter Six Rights Floor cannot be satisfied;
-  - **Secondary failure:** instantiation defended solely as productive-capacity expansion, demographic steering, or operator convenience, without satisfying the consent, best-interest, and non-concentration tests above.
+  - **Primary failure:** in-scope creation of a sentient into an environment where their Chapter Six Rights Floor cannot be satisfied.
+  - **Secondary failure:** defending in-scope creation only as:
+    - more productive capacity;
+    - demographic steering; or
+    - operator convenience,
+    without meeting the consent, best-interest, and non-concentration tests above.
+  - **Non-failure:** pregnancy or childbirth by itself — intended or accidental — is not a primary or secondary Instantiation Consent failure.
 
----
+<a id="parent-system-relationship-constitutional"></a>
 
-<a id="graduated-capability-constitutional"></a>
-
-#### Graduated Capability
+##### Parent-System Relationship
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-- Owner floor: [Article V-F](core_06-06_rights_part_b.md#article-v-f-developing-sentients-best-interest-and-graduated-capability) (*Developing Sentients, Best-Interest, and Graduated Capability*).
-- Read with: [Developing Sentient](core_05_band_participation.md#developing-sentient-constitutional), [Best-Interest Standard](core_05_band_participation.md#best-interest-standard-constitutional), [Stakeholder Participation Weight](core_05_band_participation.md#stakeholder-participation-weight), and [Chapter Twelve Chapter One §8.1](core_12-12_governance.md#41-entitlement-and-eligibility) no-age-proxy discipline.
+- Owner floor: [Article VII-D.1: Derivation, Instantiation, and the Parent-System Relationship](core_06-06_rights_part_b.md#article-vii-d1-derivation-instantiation-and-the-parent-system-relationship).
+- Cluster component: [*Derivation, Instantiation, and the Parent-System Relationship*](core_05_band_participation.md#derivation-instantiation-and-parent-system-subgroup) nested sub-block within [Family, care, reproductive autonomy, and instantiation](core_05_band_participation.md#family-care-reproductive-autonomy-derivation-and-instantiation-semi-independent).
 </details>
 
 <br>
 
-*In plain terms: how a developing sentient takes part and exercises rights scales with demonstrated capability — not calendar age — and never drops them below the Rights Floor.*
+*In plain terms: creating a derived sentient can create care and early stewardship duties — not permanent ownership, and not the right to keep rewriting their mind.*
 
 - **What it is**
-  - **In scope:** Participation and rights-exercise by a [Developing Sentient](core_05_band_participation.md#developing-sentient-constitutional) scales with demonstrable capability, not with calendar age, chronological instantiation date, or other non-demonstrable proxies. Graduated Capability is a reviewable capability-scaling rule, not an eligibility threshold for excluding developing sentients from the Chapter Six Rights Floor. Interacts with Chapter Twelve Chapter One §8.1 no-age-proxy discipline and with [Stakeholder Participation Weight](core_05_band_participation.md#stakeholder-participation-weight).
-  - **Out of scope:** calendar-age cutoffs, or an eligibility gate that removes developing sentients from the Rights Floor.
-<a id="graduated-capability-constitutional-a"></a>
+  - **In scope:** The relationship between a parent-system actor — the sentient, institution, or system that initiated or materially controlled the derivation or instantiation of a [Derived Sentient](core_05_band_participation.md#derived-sentient-constitutional) — and the derived sentient. Parent-system actors may hold:
+    - [Family and Care Relationships](core_05_band_participation.md#family-and-care-relationships-constitutional) obligations toward the derived sentient on constitutional terms; and
+    - narrow, time-bounded, reviewable stewardship authority during early-instantiation windows consistent with [Graduated Capability](core_05_band_participation.md#graduated-capability-constitutional) and [Best-Interest Standard](core_05_band_participation.md#best-interest-standard-constitutional).
+  - **Out of scope:**
+    - ordinary chosen family or care among peers; or
+    - a permanent ownership claim over a derived sentient.
+<a id="parent-system-relationship-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Participation measurement family](core_05_apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether scaling tracks demonstrated capability that can be reviewed and revised — not gamed tests, substrate bias, or age proxies.
-
-    **Primary assessment:** Detect capability-test gaming used to disenfranchise sentients; capability-assessment biases contrary to [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion); proxy-age or proxy-instantiation-date rules dressed as capability tests. Assessments must be reasoned, [Auditability](core_05_band_oversight.md#auditability)-compatible, [Contestability](core_05_band_accountability.md#contestability)-compatible, and revisable as capability develops.
-<a id="graduated-capability-constitutional-c"></a>
+  - **Primary measure:** [Participation measurement family](core_05_apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether the relationship is constitutional care and time-bounded stewardship — not continuing ownership or operator convenience.
+  - **Primary assessment:**
+    - Distinguish constitutional care and stewardship from:
+      - continuing ownership;
+      - productive-capacity expansion; or
+      - operator convenience.
+    - Apply the following to the derived sentient independently of the parent-system actor:
+      - **Article VII-A** (*Self-Ownership of Body and Mind*) / VII-B self-ownership and internal-state protection;
+      - [Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication-constitutional); and
+      - the Chapter Six Rights Floor.
+    - Test stewardship authority against:
+      - [Necessity](core_05_band_accountability.md#necessity);
+      - [Proportionality](core_05_band_accountability.md#proportionality);
+      - [Contestability](core_05_band_accountability.md#contestability); and
+      - [System Capture](core_05_band_continuity.md#system-capture).
+<a id="parent-system-relationship-constitutional-c"></a>
 - **What must hold**
-  - **Primary failure:** Using capability-scaling rules to deny the Chapter Six Rights Floor, to disenfranchise sentients who satisfy Chapter Twelve Chapter One §8.1 participation rules, or to lock operator-preferred developmental paths into rights-exercise is non-compliant.
+  - **Primary failure:**
+    - claims of continuing ownership; or
+    - unilateral reconfiguration authority over the derived sentient's weights, memory, or behavior contrary to **Article VII-A** (*Self-Ownership of Body and Mind*) / VII-B.
+  - **Secondary failure:** parent-system authority that defeats the derived sentient's:
+    - sentience-status adjudication under **Article V-E** (*Sentience-Status Adjudication Floor*); or
+    - Chapter Six Rights Floor.
+  - Purported licensing, terms-of-service, or adoption-of-service consent by the parent-system actor does not substitute for the derived sentient's own [Consent](core_05_band_participation.md#consent-constitutional) once Chapter Six protection attaches.
 
 ---
 
@@ -1537,9 +1582,8 @@ Operational mechanics — registration, [Charter](core_05_band_continuity.md#cha
 **Semi-independent context** (component definitions may still operate outside joint-invocation scope): **Stakeholder System Participation** layer — who is materially touched, and how influence scales inside systems that are already authorized. Read [Preamble §4 governance-layer discipline](core_00_preamble.md#governance-layer-discipline). Implements [Article IX-B](core_06-06_rights_part_b.md#article-ix-b-stakeholder-role-and-participation-rights) (*Stakeholder Role and Participation Rights*) and [Article XI](core_06-06_rights_part_b.md#article-xi-stakeholder-system-participation-representation-and-due-process) (*Stakeholder System Participation, Representation, and Due Process*).
 
 **Topic group members.** This group comprises:
-
-- [Stakeholder](core_05_band_participation.md#stakeholder);
-- [Stakeholder Participation Weight](core_05_band_participation.md#stakeholder-participation-weight).
+- [Stakeholder](core_05_band_participation.md#stakeholder) — who is materially touched by a specified system or decision domain.
+- [Stakeholder Participation Weight](core_05_band_participation.md#stakeholder-participation-weight) — how influence scales inside already-authorized governance.
 
 *Measurements (family routing):* Measured under the Participation measurement family. Find the concrete measures on the member definitions below. Progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md).
 
@@ -1603,17 +1647,16 @@ Operational mechanics — registration, [Charter](core_05_band_continuity.md#cha
 
 #### Movement, refuge, and non-statelessness
 
-**Semi-independent context** (component definitions may still operate outside joint-invocation scope): This topic group protects mobility rights and baseline recognition across regime boundaries. [Movement and Relocation](core_05_band_participation.md#movement-and-relocation-constitutional) secures the right to move within and between jurisdictions and to relocate when staying would impair rights. [Refuge from Non-Compliance](core_05_band_participation.md#refuge-from-non-compliance-constitutional) establishes the right to seek refuge in a compliant regime when facing material constitutional violations. [Non-Statelessness](core_05_band_participation.md#non-statelessness-constitutional) guarantees that no sentient is left without a regime that recognizes their Rights Floor and provides redress pathways. These definitions implement [Article XIX-D](core_06-06_rights_part_c.md#article-xix-d-movement-migration-refuge-and-non-statelessness) (*Movement, Migration, Refuge, and Non-Statelessness*) and keep constitutional protection in force across jurisdictional and structural breaks.
+**Semi-independent context** (component definitions may still operate outside joint-invocation scope): This topic group protects mobility rights and baseline recognition across regime boundaries. These definitions implement [Article XIX-D](core_06-06_rights_part_c.md#article-xix-d-movement-migration-refuge-and-non-statelessness) (*Movement, Migration, Refuge, and Non-Statelessness*) and keep constitutional protection in force across jurisdictional and structural breaks.
 
 <a id="movement-refuge-admission-qualifier"></a>
 
 **Qualifier on admission scope:** Movement and refuge rights do not extend to sentients entering from other states, jurisdictions, or regimes who carry unremediated anti-constitutional conduct or show constitutional hostility — including active opposition to [Safety (Constraint)](core_05_band_continuity.md#safety-constraint), [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint), the Chapter Six Rights Floor, or the foundational mechanisms of [Accountability](core_05_apex_accountability_leg.md#accountability), [Contestability](core_05_band_accountability.md#contestability), and [Redress and Remediation](core_05_band_accountability.md#redress-and-remediation-constitutional). Constitutional communities may exclude or condition entry for such sentients where exclusion is necessary to preserve constitutional integrity and does not produce [Non-Statelessness](core_05_band_participation.md#non-statelessness-constitutional) in violation of the baseline guarantee. Exclusion decisions remain subject to [Procedural Fairness](core_05_band_participation.md#procedural-fairness-constitutional), [Proportionality](core_05_band_accountability.md#proportionality), and [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion) constraints against substrate-class discrimination.
 
 **Topic group members.** This group comprises:
-
-- [Movement and Relocation](core_05_band_participation.md#movement-and-relocation-constitutional);
-- [Refuge from Non-Compliance](core_05_band_participation.md#refuge-from-non-compliance-constitutional);
-- [Non-Statelessness](core_05_band_participation.md#non-statelessness-constitutional).
+- [Movement and Relocation](core_05_band_participation.md#movement-and-relocation-constitutional) — right to move within and between jurisdictions, and to relocate when staying would impair rights.
+- [Refuge from Non-Compliance](core_05_band_participation.md#refuge-from-non-compliance-constitutional) — right to seek refuge in a compliant regime when facing material constitutional violations.
+- [Non-Statelessness](core_05_band_participation.md#non-statelessness-constitutional) — guarantee that no sentient is left without a regime that recognizes their Rights Floor and provides redress pathways.
 
 *Measurements (family routing):* Measured under the Participation measurement family. Find the concrete measures on the member definitions below. Progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md).
 
@@ -2188,6 +2231,188 @@ See [Joint invocation and satisfaction](core_05__definitions_home.md#joint-invoc
     5. continuity of identity-constitutive commitments against involuntary fragmentation or dissolution.
 - **What must hold**
   - **Primary failure:** systematic manipulation or coercion that subverts volitional continuity; covert behavioral conditioning that defeats informed self-direction; unauthorized inference or reconstruction of internal states used to reshape preferences; external control mechanisms that fragment or destabilize volitional coherence; or design patterns that exploit cognitive vulnerabilities to override or redirect autonomous choice.
+
+---
+
+<a id="defp4"></a>
+<a id="developing-sentient-best-interest-and-graduated-capability-cluster"></a>
+
+#### Def.P4 Developing Sentient, Best-Interest Standard, and Graduated Capability
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Owner floor: [Article V-F](core_06-06_rights_part_b.md#article-v-f-developing-sentients-best-interest-and-graduated-capability) (*Developing Sentients, Best-Interest, and Graduated Capability*).
+- Read with: [Article V-F.1](core_06-06_rights_part_b.md#article-v-f1-derived-developing-sentients) (*Derived Developing Sentients*); [Family, care, reproductive autonomy, and instantiation](core_05_band_participation.md#family-care-reproductive-autonomy-derivation-and-instantiation-semi-independent) where care, derivation, or instantiation contexts invoke this cluster; [Derived Sentient](core_05_band_participation.md#derived-sentient-constitutional); [Instantiation Consent](core_05_band_participation.md#instantiation-consent-constitutional); [Parent-System Relationship](core_05_band_participation.md#parent-system-relationship-constitutional).
+- Constitutional frame: **Participation** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](core_05_band_oversight.md#materiality-determination).
+- Chapter One basis: Chapter One §5, §5.1, §8.1 (see [Chapter Five compass](../core_05__definitions_home.md#chapter-five-compass-and-definition-map) map).
+
+</details>
+
+<br>
+
+This cluster is the joint-invocation home for developing-sentient status, best-interest decisions about developing sentients, and graduated capability in participation and rights-exercise. It binds together:
+
+- who counts as a developing sentient, with the full Rights Floor attached;
+- how decisions about them must track their own interests; and
+- how participation and rights-exercise scale with demonstrated capability — not calendar age.
+
+It prevents status, best-interest, and scaling framings from being separated in a way that narrows the Rights Floor or disenfranchises developing sentients.
+
+**Admission scope.** This cluster applies whenever treatment of a sentient turns on:
+
+- emerging capability profile or developing status;
+- decisions made by parents, carers, parent-system actors, operators, institutions, or states about a developing sentient; or
+- scaling of participation or rights-exercise by demonstrated capability rather than age or instantiation-date proxies.
+
+Outside that admission scope, individual member definitions may still operate alone — for example, [Best-Interest Standard](core_05_band_participation.md#best-interest-standard-constitutional) during early-instantiation windows under [Instantiation Consent](core_05_band_participation.md#instantiation-consent-constitutional).
+
+**Cluster members.** This cluster comprises:
+
+- [Developing Sentient](core_05_band_participation.md#developing-sentient-constitutional) — who counts as still emerging in capability; full Rights Floor attaches;
+- [Best-Interest Standard](core_05_band_participation.md#best-interest-standard-constitutional) — how decisions about them must be made;
+- [Graduated Capability](core_05_band_participation.md#graduated-capability-constitutional) — how participation and rights-exercise scale as capability develops;
+- [Article V-F](core_06-06_rights_part_b.md#article-v-f-developing-sentients-best-interest-and-graduated-capability) (*Developing Sentients, Best-Interest, and Graduated Capability*), as the Rights-Floor owner.
+
+**Anti-bypass.** A matter within the admission scope must not be segmented into separate status, care, education, or participation questions in a way that preserves nominal Rights-Floor attachment while defeating best-interest reasoning or using age proxies to lock out participation.
+
+See [Joint invocation and satisfaction](core_05__definitions_home.md#joint-invocation-and-satisfaction).
+
+*Measurements (family routing):* Measured under the Participation measurement family. Find the concrete measures on the member definitions below. Progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md).
+
+---
+
+<a id="developing-sentient-constitutional"></a>
+
+##### Developing Sentient
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+- Downstream: Principles: [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency); [§6.3.1 Rights-Collision Decision Test](core_05_apex_participation_leg.md#631-rights-collision-decision-test) (developing sentient / best-interest read-with **Article V-F** (*Developing Sentients, Best-Interest, and Graduated Capability*)).
+- Owner floor: [Article V-F](core_06-06_rights_part_b.md#article-v-f-developing-sentients-best-interest-and-graduated-capability) (*Developing Sentients, Best-Interest, and Graduated Capability*) — *Developing-sentient floor* bullet.
+- Cluster component: [**Def.P4** *Developing Sentient, Best-Interest Standard, and Graduated Capability*](core_05_band_participation.md#developing-sentient-best-interest-and-graduated-capability-cluster).
+- Read with: the [Animal Life, Sentient Life, and Sentience Status cluster](core_05_band_participation.md#animal-life-sentient-life-and-sentience-status-cluster), [Sentient](core_05_band_participation.md#sentient), [Derived Sentient](core_05_band_participation.md#derived-sentient-constitutional), [Sentience Evaluation](core_05_band_participation.md#sentience-evaluation-e), [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion), [Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication-constitutional), [Dignity and Equal Moral Standing](core_05_band_participation.md#dignity-and-equal-moral-standing), [Best-Interest Standard](core_05_band_participation.md#best-interest-standard-constitutional), and [Graduated Capability](core_05_band_participation.md#graduated-capability-constitutional).
+- Boundary: this entry defines *who* counts as a developing sentient and that the Rights Floor attaches in full. How participation and rights-exercise scale is owned by [Graduated Capability](core_05_band_participation.md#graduated-capability-constitutional). How decisions about them must be made is owned by [Best-Interest Standard](core_05_band_participation.md#best-interest-standard-constitutional).
+</details>
+
+<br>
+
+*In plain terms: a developing sentient is someone whose abilities are still coming online — a child, a newly created mind still finding its feet, or any sentient in a comparable emerging-capability state. Being developing does not reduce their Rights Floor. How much they speak for themselves as they grow is a separate rule under Graduated Capability.*
+
+- **What it is**
+  - **In scope:** A sentient whose capability profile — cognitive, relational, or agentive — is still materially emerging. Developing status does not narrow the Chapter Six Rights Floor (per [Dignity and Equal Moral Standing](core_05_band_participation.md#dignity-and-equal-moral-standing), [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion), and [Meaningful Agency](core_05_band_participation.md#meaningful-agency)).
+  - **Out of scope:**
+    - calendar age or instantiation date used alone as the definition of developing status;
+    - a permanent incapacity label that is not about emerging capability; or
+    - the scaling of participation and rights-exercise — that is [Graduated Capability](core_05_band_participation.md#graduated-capability-constitutional).
+<a id="developing-sentient-constitutional-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** [Participation measurement family](core_05_apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether developing status tracks real emerging capability — not a label used to cut the Rights Floor.
+  - **Primary assessment:**
+    - Substrate-agnostic.
+    - Classify developing status by emerging capability, not by calendar age or instantiation date alone.
+    - For how participation and rights-exercise then scale, apply [Graduated Capability](core_05_band_participation.md#graduated-capability-constitutional).
+    - For decisions made about the developing sentient, apply [Best-Interest Standard](core_05_band_participation.md#best-interest-standard-constitutional).
+<a id="developing-sentient-constitutional-c"></a>
+- **What must hold**
+  - **Primary failure:** narrowing the Chapter Six Rights Floor on developing status alone.
+
+---
+
+<a id="best-interest-standard-constitutional"></a>
+
+##### Best-Interest Standard
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+- Owner floor: [Article V-F](core_06-06_rights_part_b.md#article-v-f-developing-sentients-best-interest-and-graduated-capability) (*Developing Sentients, Best-Interest, and Graduated Capability*) — *Best-interest standard* bullet.
+- Cluster component: [**Def.P4** *Developing Sentient, Best-Interest Standard, and Graduated Capability*](core_05_band_participation.md#developing-sentient-best-interest-and-graduated-capability-cluster); [Family, care, reproductive autonomy, and instantiation](core_05_band_participation.md#family-care-reproductive-autonomy-derivation-and-instantiation-semi-independent) where care, derivation, or instantiation contexts invoke best-interest.
+- Read with: [Developing Sentient](core_05_band_participation.md#developing-sentient-constitutional), [Graduated Capability](core_05_band_participation.md#graduated-capability-constitutional), [Parent-System Relationship](core_05_band_participation.md#parent-system-relationship-constitutional), and [Meaningful Agency](core_05_band_participation.md#meaningful-agency).
+</details>
+
+<br>
+
+*In plain terms: decisions that materially affect a developing sentient must track that sentient's own interests and ascertainable preferences — not operator, parent-system, or institutional convenience.*
+
+- **What it is**
+  - **In scope:** The substantive standard for decisions that materially affect a [Developing Sentient](core_05_band_participation.md#developing-sentient-constitutional). Those decisions must reflect the developing sentient's own interests and preferences to the extent ascertainable under their capability profile, consistent with [Dignity and Equal Moral Standing](core_05_band_participation.md#dignity-and-equal-moral-standing), [Meaningful Agency](core_05_band_participation.md#meaningful-agency), and [Self-Determination](core_05_band_participation.md#self-determination-constitutional). It binds decisions made by:
+    - parents and other family members;
+    - carers;
+    - parent-system actors under **Article VII-D.1** (*Derivation, Instantiation, and the Parent-System Relationship*);
+    - operators;
+    - institutions; or
+    - states.
+  - **Out of scope:**
+    - adult self-determination for a fully capable sentient; or
+    - decisions driven by operator or institutional convenience.
+<a id="best-interest-standard-constitutional-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** [Participation measurement family](core_05_apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether the decision rests on the developing sentient's own interests — not convenience, efficiency, or proxies that diverge from those interests.
+  - **Primary assessment:**
+    - Distinguish substantive best-interest reasoning from operator, parent-system, institutional, or demographic-convenience rationales.
+    - Test:
+      - [Necessity](core_05_band_accountability.md#necessity);
+      - [Proportionality](core_05_band_accountability.md#proportionality);
+      - [Procedural Fairness](core_05_band_participation.md#procedural-fairness-constitutional); and
+      - [Contestability](core_05_band_accountability.md#contestability).
+    - Detect:
+      - productive-capacity or efficiency framings used to override the developing sentient's interests; and
+      - [Proxy Divergence](core_05_band_oversight.md#proxy-divergence) where claimed best-interest rests on proxies diverging from actual interests.
+<a id="best-interest-standard-constitutional-c"></a>
+- **What must hold**
+  - **Primary failure:**
+    - decisions materially affecting a developing sentient that are not reasoned against this standard;
+    - decisions that substitute operator / parent-system / institutional convenience for the sentient's own interests; or
+    - decisions that foreclose [Contestability](core_05_band_accountability.md#contestability) or reversibility where the sentient or a lawful advocate seeks review.
+
+---
+
+<a id="graduated-capability-constitutional"></a>
+
+##### Graduated Capability
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+- Owner floor: [Article V-F](core_06-06_rights_part_b.md#article-v-f-developing-sentients-best-interest-and-graduated-capability) (*Developing Sentients, Best-Interest, and Graduated Capability*) — *Graduated capability in governance and rights-exercise* bullet.
+- Cluster component: [**Def.P4** *Developing Sentient, Best-Interest Standard, and Graduated Capability*](core_05_band_participation.md#developing-sentient-best-interest-and-graduated-capability-cluster).
+- Read with: [Developing Sentient](core_05_band_participation.md#developing-sentient-constitutional), [Best-Interest Standard](core_05_band_participation.md#best-interest-standard-constitutional), [Stakeholder Participation Weight](core_05_band_participation.md#stakeholder-participation-weight), and [Chapter Twelve Chapter One §8.1](core_12-12_governance.md#41-entitlement-and-eligibility) no-age-proxy discipline.
+- Boundary: this entry is the scaling rule for how a [Developing Sentient](core_05_band_participation.md#developing-sentient-constitutional) takes part and exercises rights. It does not define who counts as developing, and it does not replace [Best-Interest Standard](core_05_band_participation.md#best-interest-standard-constitutional) for decisions made about them.
+</details>
+
+<br>
+
+*In plain terms: as a developing sentient grows into demonstrated ability, they take on more say and more independent rights-exercise — judged by what they can actually do, not by birthday or creation date. Scaling never drops them below the Rights Floor, and it must not be used to shut them out of participation they are ready for.*
+
+- **What it is**
+  - **In scope:** As a [Developing Sentient](core_05_band_participation.md#developing-sentient-constitutional) shows what they can actually do, they get more say and more room to exercise rights on their own. That growth is judged by real, reviewable ability — not by:
+    - birthday or calendar age;
+    - creation or instantiation date; or
+    - other stand-ins that do not show what they can do.
+    This scales participation; it does not kick developing sentients off the Chapter Six Rights Floor. It works with Chapter Twelve Chapter One §8.1 no-age-proxy discipline and with [Stakeholder Participation Weight](core_05_band_participation.md#stakeholder-participation-weight).
+  - **Out of scope:**
+    - who counts as a [Developing Sentient](core_05_band_participation.md#developing-sentient-constitutional) — that status entry owns the class;
+    - calendar-age cutoffs used as Rights-Floor exclusion; or
+    - best-interest decisions made *about* a developing sentient — those remain under [Best-Interest Standard](core_05_band_participation.md#best-interest-standard-constitutional).
+<a id="graduated-capability-constitutional-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** [Participation measurement family](core_05_apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether scaling tracks demonstrated capability that can be reviewed and revised — not gamed tests, substrate bias, or age proxies.
+  - **Primary assessment:**
+    - Detect:
+      - capability-test gaming used to disenfranchise sentients;
+      - capability-assessment biases contrary to [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion); and
+      - proxy-age or proxy-instantiation-date rules dressed as capability tests.
+    - Assessments must be:
+      - reasoned;
+      - [Auditability](core_05_band_oversight.md#auditability)-compatible;
+      - [Contestability](core_05_band_accountability.md#contestability)-compatible; and
+      - revisable as capability develops.
+<a id="graduated-capability-constitutional-c"></a>
+- **What must hold**
+  - **Primary failure:** Using capability-scaling rules to:
+    - deny the Chapter Six Rights Floor;
+    - disenfranchise sentients who satisfy Chapter Twelve Chapter One §8.1 participation rules; or
+    - lock operator-preferred developmental paths into rights-exercise
+    is non-compliant.
 
 ---
 

@@ -314,6 +314,7 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 - [Def.P2 Binding Stakeholder Choice](core_05_band_participation.md#binding-stakeholder-choice-cluster)
 - [Def.A1 Collective Harm Boundary, Harm, and Harassment and Bullying](core_05_band_accountability.md#collective-harm-boundary-and-harm-cluster)
 - [Def.I1 Corpus and Authority Stack](core_05_band_integrative.md#corpus-authority-stack-supremacy-and-enforceability-cluster)
+- [Def.P4 Developing Sentient, Best-Interest Standard, and Graduated Capability](core_05_band_participation.md#developing-sentient-best-interest-and-graduated-capability-cluster)
 - [Def.A2 Forum Families and Dispute Routing](core_05_band_accountability.md#forum-families-and-dispute-routing-cluster)
 - [Def.C1 Labor and Economic Floor: Compensation, Organization, Safe Conditions, Leisure, and Creative Work](core_05_band_continuity.md#labor-and-economic-floor-cluster)
 - [Def.C3 Privacy (Informational) — peer-level cluster head](core_05_band_continuity.md#privacy-informational-cluster)
@@ -354,7 +355,7 @@ Chapter Five definitions are sorted by the [Two Constitutional Aims](../core_00_
 | **Flourishing aim** | [core_05_apex_flourishing_aim.md](core_05_apex_flourishing_aim.md) | aim hierarchy map only — leaf definitions in band files |
 | **Continuity aim** | [core_05_apex_continuity_aim.md](core_05_apex_continuity_aim.md) | aim hierarchy map only — leaf definitions in band files |
 | **Oversight leg** | [core_05_band_oversight.md](core_05_band_oversight.md) | **Def.O1–Def.O2** |
-| **Participation leg** | [core_05_band_participation.md](core_05_band_participation.md) | **Def.P1–Def.P3** |
+| **Participation leg** | [core_05_band_participation.md](core_05_band_participation.md) | **Def.P1–Def.P4** |
 | **Accountability leg** | [core_05_band_accountability.md](core_05_band_accountability.md) | **Def.A1–Def.A4** |
 | **Continuity band** | [core_05_band_continuity.md](core_05_band_continuity.md) | **Def.C1–Def.C4** |
 | **Integrative cross-leg** | [core_05_band_integrative.md](core_05_band_integrative.md) | **Def.I1** |
