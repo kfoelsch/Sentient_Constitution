@@ -1175,21 +1175,76 @@ Operational mechanics — registration, [Charter](core_05_band_continuity.md#cha
 
 - **What it is**
   - **In scope:**
-    - **Intimate-signal gating:** Use of intimate media, sexual-history signals, or comparable intimate-status inferences as inputs to employment, standing, reputation, access, or comparable gating. These access-gating uses are both discrimination-sensitive and informational-risk-sensitive.
-    - **Article X-C status and circumvention:** Use of commercial sexual services work status, or perceived status, within the scope of **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) as a basis for material disadvantage, exclusion, or neutral-form circumvention of the decriminalization floor.
-  - **Out of scope:** narrow documented safeguarding uses that meet necessity and proportionality; ordinary trait discrimination that does not use intimate signals; exploitation or trafficking cases outside the Article X-C adult-consensual floor; or disadvantage on other protected grounds.
+    - **Intimate-signal gating:** Use of intimate media, sexual-history signals, or comparable intimate-status inferences as inputs to:
+      - employment;
+      - standing;
+      - reputation;
+      - access; or
+      - comparable gating.
+      These access-gating uses are both discrimination-sensitive and informational-risk-sensitive.
+    - **Article X-C status and circumvention:** Use of commercial sexual services work status, or perceived status, within the scope of **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) as a basis for:
+      - material disadvantage;
+      - exclusion; or
+      - neutral-form circumvention of the decriminalization floor.
+  - **Out of scope:**
+    - narrow documented safeguarding uses that meet necessity and proportionality;
+    - ordinary trait discrimination that does not use intimate signals;
+    - exploitation or trafficking cases outside the Article X-C adult-consensual floor; or
+    - disadvantage on other protected grounds.
 <a id="protected-intimate-signal-gating-a"></a>
 <a id="protected-commercial-sexual-services-status-and-article-x-c-circumvention-a"></a>
 <a id="protected-intimate-signal-gating-and-article-x-c-status-circumvention-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Participation measurement family](core_05_apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether intimate media, sexual-history signals, or comparable intimate-status inferences are being used to gate employment, standing, reputation, or access without the required narrow justification; whether commercial sexual services status — real or perceived — is being used to gate employment, housing, financial services, licensing, standing, or similar access; or whether "neutral" rules mainly burden **Article X-C**-protected conduct without the required predicates.
+  - **Primary measure:** [Participation measurement family](core_05_apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether any of the following is happening without the required narrow justification or predicates:
+    - intimate media, sexual-history signals, comparable intimate-status inferences, or commercial sexual services status — real or perceived — used to gate:
+      - employment;
+      - housing;
+      - financial services;
+      - licensing;
+      - standing;
+      - reputation; or
+      - similar access; or
+    - "neutral" rules that mainly burden **Article X-C**-protected conduct.
 
-    **Primary assessment:** Treat workflows that scrape, index, infer from, or score intimate media or sexual-history signals — including for employment, standing, reputation systems, or comparable gating — as high-salience discrimination and informational-risk uses. Narrow justification under [Necessity](core_05_band_accountability.md#necessity) and [Proportionality](core_05_band_accountability.md#proportionality) is required. Such workflows must remain consistent with **Article VII-A** (*Self-Ownership of Body and Mind*), **Article XV-A** (*Auditability and Observable Evidence*), and [corpus_systems.md](corpus_systems.md), CS-2 — Information types and handling, and must align with [Dignity and Equal Moral Standing](core_05_band_participation.md#dignity-and-equal-moral-standing), [Contestability](core_05_band_accountability.md#contestability), [Transparency](core_05_band_oversight.md#transparency), and **Article V-B** (*Nondiscrimination*). Treat commercial sexual services work status and perceived status as especially salient within **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) when they shape access to employment, housing, financial services, licensing, standing, or similar gates. Do not let *exploitation* enforcement serve as a pretext for burdening conduct protected by **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*). Regard neutral-form licensing, zoning, fee, or commercial rules that primarily burden that protected conduct — without predicates aligned with **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*)'s *exploitation*, *procurement*, or *independent harm* branches — as circumvention risks under **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) anti-circumvention and `corpus_institutions.md` CI-19 (*Vulnerable personal services markets — general regulation and **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) interface*).
+    **Primary assessment:** Treat workflows that scrape, index, infer from, or score intimate media or sexual-history signals — including for employment, standing, reputation systems, or comparable gating — as high-salience discrimination and informational-risk uses. Narrow justification under [Necessity](core_05_band_accountability.md#necessity) and [Proportionality](core_05_band_accountability.md#proportionality) is required. Such workflows must remain consistent with:
+    - **Article VII-A** (*Self-Ownership of Body and Mind*);
+    - **Article XV-A** (*Auditability and Observable Evidence*);
+    - [corpus_systems.md](corpus_systems.md), CS-2 — Information types and handling;
+    - [Dignity and Equal Moral Standing](core_05_band_participation.md#dignity-and-equal-moral-standing);
+    - [Contestability](core_05_band_accountability.md#contestability);
+    - [Transparency](core_05_band_oversight.md#transparency); and
+    - **Article V-B** (*Nondiscrimination*).
+
+    Treat commercial sexual services work status and perceived status as especially salient within **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) when they shape access to:
+    - employment;
+    - housing;
+    - financial services;
+    - licensing;
+    - standing; or
+    - similar gates.
+
+    Do not let *exploitation* enforcement serve as a pretext for burdening conduct protected by **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*).
+
+    Treat rules that look neutral but mainly target that protected work as dodging **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) when they are not based on one of these grounds:
+    - *exploitation*;
+    - *procurement*; or
+    - *independent harm*.
+
+    Read those risks under that article's anti-circumvention rules and `corpus_institutions.md` CI-19 (*Vulnerable personal services markets — general regulation and **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) interface*).
+
+    Watch especially for:
+    - licensing;
+    - zoning;
+    - fees; or
+    - commercial rules.
 <a id="protected-intimate-signal-gating-c"></a>
 <a id="protected-commercial-sexual-services-status-and-article-x-c-circumvention-c"></a>
 <a id="protected-intimate-signal-gating-and-article-x-c-status-circumvention-c"></a>
 - **What must hold**
-  - **Primary failure:** using intimate media, sexual-history signals, or comparable intimate-status inferences for gating or disadvantage without the required narrow justification and consistency with the foregoing authorities; imposing material disadvantage on the sole or primary ground of **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*)-protected commercial sexual services status; or using neutral-form regulation to circumvent that protection without the required predicates.
+  - **Primary failure:**
+    - using intimate media, sexual-history signals, or comparable intimate-status inferences for gating or disadvantage without the required narrow justification and consistency with the foregoing authorities;
+    - imposing material disadvantage on the sole or primary ground of **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*)-protected commercial sexual services status; or
+    - using neutral-form regulation to circumvent that protection without the required predicates.
 
 ---
 
