@@ -369,7 +369,7 @@ Independent Definitions meta rules live in [core_05__definitions_home.md](core_0
 
 Operational mechanics — registration, [Charter](core_05_band_continuity.md#charter) adoption and charter-scope limitation, fiscal treatment, liability frameworks, securities regulation, and dissolution pathways — route to [corpus_institutions.md](corpus_institutions.md) under **Chapter Sixteen** incorporation discipline and must not narrow these floors.
 
-*Measurements (family routing):* Measured under the Participation measurement family. Find the concrete measures on the member definitions below. Progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md).
+*Measurements (family routing):* Measured under the Participation measurement family. Find the concrete measures on the member definitions below.
 
 ---
 
@@ -614,7 +614,7 @@ Operational mechanics — registration, [Charter](core_05_band_continuity.md#cha
 - [Consent, Sexual](core_05_band_participation.md#consent-sexual) — heightened requirements for sexual contact and intimacy contexts.
 - [Coercion and Manipulation](core_05_band_participation.md#coercion-and-manipulation-constitutional) — conduct that subverts genuine voluntariness.
 
-*Measurements (family routing):* Measured under the Participation measurement family. Find the concrete measures on the member definitions below. Progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md).
+*Measurements (family routing):* Measured under the Participation measurement family. Find the concrete measures on the member definitions below.
 
 ---
 
@@ -852,7 +852,7 @@ Operational mechanics — registration, [Charter](core_05_band_continuity.md#cha
 - [Protected Characteristic Proxying and Disparate Impact](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact) — facially neutral rules that replicate prohibited discrimination.
 - [Protected Intimate-Signal Gating and **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) Status Circumvention](core_05_band_participation.md#protected-intimate-signal-gating-and-article-x-c-status-circumvention) — restricts intimate-signal and **Article X-C** status uses for gating, and blocks circumvention of the decriminalization floor.
 
-*Measurements (family routing):* Measured under the Participation measurement family. Find the concrete measures on the member definitions below. Progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md).
+*Measurements (family routing):* Measured under the Participation measurement family. Find the concrete measures on the member definitions below.
 
 ---
 
@@ -1268,7 +1268,7 @@ Operational mechanics — registration, [Charter](core_05_band_continuity.md#cha
   - [Parent-System Relationship](core_05_band_participation.md#parent-system-relationship-constitutional) — what the creator may and may not do.
 - [**Def.P4** *Developing Sentient, Best-Interest Standard, and Graduated Capability*](core_05_band_participation.md#developing-sentient-best-interest-and-graduated-capability-cluster) — who is developing, how decisions about them must be made, and how participation scales (Article V-F).
 
-*Measurements (family routing):* Measured under the Participation measurement family. Find the concrete measures on the member definitions below. Progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md).
+*Measurements (family routing):* Measured under the Participation measurement family. Find the concrete measures on the member definitions below.
 
 ---
 
@@ -1579,13 +1579,13 @@ This nested sub-block is the joint home for **Article VII-D.1** (*Derivation, In
 
 #### Stakeholder status and participation weight
 
-**Semi-independent context** (component definitions may still operate outside joint-invocation scope): **Stakeholder System Participation** layer — who is materially touched, and how influence scales inside systems that are already authorized. Read [Preamble §4 governance-layer discipline](core_00_preamble.md#governance-layer-discipline). Implements [Article IX-B](core_06-06_rights_part_b.md#article-ix-b-stakeholder-role-and-participation-rights) (*Stakeholder Role and Participation Rights*) and [Article XI](core_06-06_rights_part_b.md#article-xi-stakeholder-system-participation-representation-and-due-process) (*Stakeholder System Participation, Representation, and Due Process*).
+**Semi-independent context** (component definitions may still operate outside joint-invocation scope): **Stakeholder System Participation** layer — who a system really affects, and how much say those people get once that system's governing rules are already in place. Read [Preamble §4 governance-layer discipline](core_00_preamble.md#governance-layer-discipline). Implements [Article IX-B](core_06-06_rights_part_b.md#article-ix-b-stakeholder-role-and-participation-rights) (*Stakeholder Role and Participation Rights*) and [Article XI](core_06-06_rights_part_b.md#article-xi-stakeholder-system-participation-representation-and-due-process) (*Stakeholder System Participation, Representation, and Due Process*).
 
 **Topic group members.** This group comprises:
 - [Stakeholder](core_05_band_participation.md#stakeholder) — who is materially touched by a specified system or decision domain.
 - [Stakeholder Participation Weight](core_05_band_participation.md#stakeholder-participation-weight) — how influence scales inside already-authorized governance.
 
-*Measurements (family routing):* Measured under the Participation measurement family. Find the concrete measures on the member definitions below. Progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md).
+*Measurements (family routing):* Measured under the Participation measurement family. Find the concrete measures on the member definitions below.
 
 ---
 
@@ -1658,7 +1658,7 @@ This nested sub-block is the joint home for **Article VII-D.1** (*Derivation, In
 - [Refuge from Non-Compliance](core_05_band_participation.md#refuge-from-non-compliance-constitutional) — right to seek refuge in a compliant regime when facing material constitutional violations.
 - [Non-Statelessness](core_05_band_participation.md#non-statelessness-constitutional) — guarantee that no sentient is left without a regime that recognizes their Rights Floor and provides redress pathways.
 
-*Measurements (family routing):* Measured under the Participation measurement family. Find the concrete measures on the member definitions below. Progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md).
+*Measurements (family routing):* Measured under the Participation measurement family. Find the concrete measures on the member definitions below.
 
 ---
 
@@ -1814,7 +1814,7 @@ It also applies where origin, derivation, development, capability profile, calen
 - [Sentience Evaluation](core_05_band_participation.md#sentience-evaluation-e);
 - [Article V-E](core_06-06_rights_part_b.md#article-v-e-sentience-status-adjudication-floor) (*Sentience-Status Adjudication Floor*), as the Rights-Floor owner where sentience status is materially uncertain, disputed, contested, narrowed, revoked, or restored.
 
-*Measurements (family routing):* Measured under the Participation measurement family. Find the concrete measures on the member definitions below. Progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md).
+*Measurements (family routing):* Measured under the Participation measurement family. Find the concrete measures on the member definitions below.
 
 <a id="sentient-composite"></a>
 <a id="sentient"></a>
@@ -2007,7 +2007,7 @@ This cluster is the canonical compound-definition home for binding stakeholder c
 
 See [Joint invocation and satisfaction](core_05__definitions_home.md#joint-invocation-and-satisfaction).
 
-*Measurements (family routing):* Measured under the Participation measurement family. Find the concrete measures on the member definitions below. Progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md).
+*Measurements (family routing):* Measured under the Participation measurement family. Find the concrete measures on the member definitions below.
 
 <a id="binding-collective-choice-decision-resolution-process"></a>
 <a id="binding-stakeholder-choice-decision-resolution-requirements"></a>
@@ -2106,7 +2106,7 @@ This cluster is the joint-invocation home for self-determination, meaningful age
 
 See [Joint invocation and satisfaction](core_05__definitions_home.md#joint-invocation-and-satisfaction).
 
-*Measurements (family routing):* Measured under the Participation measurement family. Find the concrete measures on the member definitions below. Progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md).
+*Measurements (family routing):* Measured under the Participation measurement family. Find the concrete measures on the member definitions below.
 
 ---
 
@@ -2278,7 +2278,7 @@ Outside that admission scope, individual member definitions may still operate al
 
 See [Joint invocation and satisfaction](core_05__definitions_home.md#joint-invocation-and-satisfaction).
 
-*Measurements (family routing):* Measured under the Participation measurement family. Find the concrete measures on the member definitions below. Progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md).
+*Measurements (family routing):* Measured under the Participation measurement family. Find the concrete measures on the member definitions below.
 
 ---
 

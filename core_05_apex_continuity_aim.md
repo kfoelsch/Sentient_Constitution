@@ -20,7 +20,7 @@
 
 - Upstream: [Chapter Five compass](core_05__definitions_home.md#chapter-five-compass-and-definition-map); [Two Constitutional Aims](../core_00_preamble.md#two-constitutional-aims); plain-language aim at [Preamble §1](../core_00_preamble.md#continuity).
 - Downstream: Principles: [Chapter One §8.1 Resilience and Self-Healing Design](core_01_a_values_principles.md#41-resilience-and-self-healing-design); [§12 Shared-System Capacity](core_01_c_stewardship_capacity_principles.md#12-shared-system-capacity); [§11.1.5 Constitutional Outcome Claims Discipline](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline); [Constitutional Aim decomposition](#continuity-aim-decomposition); Continuity topic groups in [core_05_band_continuity.md](core_05_band_continuity.md).
-- Read with: [Stewardship](core_05_band_continuity.md#stewardship-constitutional), [Ecological Integrity](core_05_band_continuity.md#ecological-integrity-constitutional), [Dependency](core_05_band_continuity.md#dependency), [Flourishing](core_05_apex_flourishing_aim.md#flourishing-constitutional) (the paired aim — neither may be chased at the other's expense), [Constitutional Tetrad](../core_00_preamble.md#constitutional-tetrad) scaled to [material stake](../core_00_preamble.md#material-stake) (how Continuity stays legitimate — not a fifth building block), Continuity measurement family, [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md), and [definition hierarchy](doc_architecture/generated/definition_hierarchy.md).
+- Read with: [Stewardship](core_05_band_continuity.md#stewardship-constitutional), [Ecological Integrity](core_05_band_continuity.md#ecological-integrity-constitutional), [Dependency](core_05_band_continuity.md#dependency), [Flourishing](core_05_apex_flourishing_aim.md#flourishing-constitutional) (the paired aim — neither may be chased at the other's expense), [Constitutional Tetrad](../core_00_preamble.md#constitutional-tetrad) scaled to [material stake](../core_00_preamble.md#material-stake) (how Continuity stays legitimate — not a fifth building block), Continuity measurement family, and [definition hierarchy](doc_architecture/generated/definition_hierarchy.md).
 
 </details>
 
@@ -75,7 +75,7 @@ Definitions under this aim inherit its scope unless they expressly narrow or wid
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Continuity measurement family — link-only rollup; per-term tiers live on leaf definitions linked in the table below.
-- Read with: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md); [Protocol S5 — Resource Allocation and Funding Stewardship](corpus_systems/cs_protocol_s5_resource_allocation_funding_stewardship.md) (funding and cross-system return mechanics).
+- Read with: [Protocol S5 — Resource Allocation and Funding Stewardship](corpus_systems/cs_protocol_s5_resource_allocation_funding_stewardship.md) (funding and cross-system return mechanics).
 
 </details>
 

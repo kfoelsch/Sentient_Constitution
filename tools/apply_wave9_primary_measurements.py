@@ -121,8 +121,7 @@ def build_measurements_block(term: str, categories: list[str], aim_role: str) ->
         label, anchor, _ = CAT_META[cat]
         primary = (
             f"- **Primary:** [Preamble {label}](../core_00_preamble.md{anchor}) "
-            f"— link-only rollup for the **{leg}** Tetrad leg; operative tiers on leaf primaries below. "
-            "Progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md)."
+            f"— link-only rollup for the **{leg}** Tetrad leg; operative tiers on leaf primaries below."
         )
     elif len(links) == 1:
         primary = (

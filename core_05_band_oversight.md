@@ -216,7 +216,7 @@ This band holds definitions under the **Oversight** Tetrad leg — transparency,
 
 Implication can exist without misalignment. Misalignment always implies material implication.
 
-*Measurements (family routing):* Measured under the Oversight measurement family. Find the concrete measures on the member definitions below. Progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md).
+*Measurements (family routing):* Measured under the Oversight measurement family. Find the concrete measures on the member definitions below.
 
 <a id="material"></a>
 
@@ -633,7 +633,7 @@ Outside that scope, individual entries may still apply on their own without impo
 
 See [Joint invocation and satisfaction](core_05__definitions_home.md#joint-invocation-and-satisfaction).
 
-*Measurements (family routing):* Measured under the Oversight measurement family. Find the concrete measures on [Transparency](core_05_band_oversight.md#transparency), [Auditability](core_05_band_oversight.md#auditability), and [Verifiability](core_05_band_oversight.md#verifiability) below. Progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md).
+*Measurements (family routing):* Measured under the Oversight measurement family. Find the concrete measures on [Transparency](core_05_band_oversight.md#transparency), [Auditability](core_05_band_oversight.md#auditability), and [Verifiability](core_05_band_oversight.md#verifiability) below.
 
 ---
 
@@ -1095,7 +1095,7 @@ Outside that scope, component definitions may still apply on their own without i
 
 See [Joint invocation and satisfaction](core_05__definitions_home.md#joint-invocation-and-satisfaction).
 
-*Measurements (family routing):* Measured under the Oversight measurement family. Find the concrete measures on [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint) and [Epistemic Integrity](core_05_band_oversight.md#epistemic-integrity) below. Progress: [measurement rollout status](doc_architecture/generated/measurement_rollout_status.md).
+*Measurements (family routing):* Measured under the Oversight measurement family. Find the concrete measures on [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint) and [Epistemic Integrity](core_05_band_oversight.md#epistemic-integrity) below.
 
 <a id="publication-and-high-impact-communication"></a>
 
