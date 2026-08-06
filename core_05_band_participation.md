@@ -1604,16 +1604,35 @@ This nested sub-block is the joint home for **Article VII-D.1** (*Derivation, In
 *In plain terms: a stakeholder is someone who uses, depends on, or is materially affected by a specified system or decision domain — judged by real effects, not by whether the operator puts them on a list.*
 
 - **What it is**
-  - **In scope:** A sentient who uses, depends upon, or is materially affected by a specified system, institutional arrangement, or bounded decision domain — judged by that entity's operation or outcomes. Indirect or dependency-based impacts count when significant and demonstrable under [Auditability](core_05_band_oversight.md#auditability)-compatible criteria, consistent with [Material](core_05_band_oversight.md#material), [Dependency](core_05_band_continuity.md#dependency), and [System Boundaries](core_05_band_continuity.md#system-boundaries). Stakeholder status answers *who is materially touched in a proportionality-relevant way* relative to that scope. For participation **weight** within already-authorized [Governance](core_05_band_accountability.md#governance), see [Stakeholder Participation Weight](core_05_band_participation.md#stakeholder-participation-weight). For authorization-layer routing, read [Preamble §4 governance-layer discipline](core_00_preamble.md#governance-layer-discipline).
-  - **Out of scope:** mere observers or curious parties, or community membership alone without material effect from the system.
+  - **In scope — who:** A sentient who:
+    - uses;
+    - depends upon; or
+    - is materially affected by
+    a specified system, institutional arrangement, or bounded decision domain — judged by that entity's operation or outcomes. Stakeholder status answers *who is materially touched in a proportionality-relevant way* relative to that scope.
+  - **In scope — indirect impacts:** Indirect or dependency-based impacts count when demonstrable under [Auditability](core_05_band_oversight.md#auditability)-compatible criteria, consistent with:
+      - [Material](core_05_band_oversight.md#material);
+      - [Dependency](core_05_band_continuity.md#dependency); and
+      - [System Boundaries](core_05_band_continuity.md#system-boundaries).
+  - **Boundary:**
+    - For participation **weight** within already-authorized [Governance](core_05_band_accountability.md#governance), see [Stakeholder Participation Weight](core_05_band_participation.md#stakeholder-participation-weight).
+    - For authorization-layer routing, read [Preamble §4 governance-layer discipline](core_00_preamble.md#governance-layer-discipline).
+  - **Out of scope:**
+    - mere observers or curious parties; or
+    - community membership alone without material effect from the system.
 <a id="stakeholder-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Participation measurement family](core_05_apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether stakeholder status tracks who is materially touched — not unilateral operator lists that shut sentients out without contestability.
-
-    **Primary assessment:** Use transparent, reasonable criteria. Do not permit unilateral system-defined exclusion from stakeholder status without external [Contestability](core_05_band_accountability.md#contestability) where Chapter Six or governance safeguards require it.
+  - **Primary assessment:**
+    - Use transparent, reasonable criteria.
+    - Do not let the system itself decide who is not a stakeholder and shut them out with no outside [Contestability](core_05_band_accountability.md#contestability), when Chapter Six or governance safeguards require that contest.
 <a id="stakeholder-c"></a>
 - **What must hold**
-  - **Primary failure:** denying stakeholder standing or associated protections to an entity that satisfies the ontological scope, where rights attach and the denial lacks justification under applicable articles and definitions ([Contestability](core_05_band_accountability.md#contestability), [Constitutional Community](core_05_band_participation.md#constitutional-community), [Material Impact](core_05_band_oversight.md#material-impact)).
+  - **Primary failure:** denying stakeholder standing or associated protections to an entity that satisfies the ontological scope, where:
+    - rights attach; and
+    - the denial lacks justification under applicable articles and definitions, including:
+      - [Contestability](core_05_band_accountability.md#contestability);
+      - [Constitutional Community](core_05_band_participation.md#constitutional-community); and
+      - [Material Impact](core_05_band_oversight.md#material-impact).
 
 ---
 
@@ -1632,16 +1651,61 @@ This nested sub-block is the joint home for **Article VII-D.1** (*Derivation, In
 *In plain terms: inside already-authorized system governance, how much scope, voice, timing, and decision influence stakeholders get should track how much they are actually affected — not equal foundational constitutional voting, and not a symbolic seat.*
 
 - **What it is**
-  - **In scope:** The scaling of scope, form, timing, and decision influence afforded to [Stakeholders](core_05_band_participation.md#stakeholder) in matters that materially affect them *within* the [Governance](core_05_band_accountability.md#governance) **structures, rules, allocation of authority, and processes** already authorized for the **relevant system, institution, or bounded decision domain**. This is the **Stakeholder System Participation** layer. Weight must be proportionate to [Material Impact](core_05_band_oversight.md#material-impact), [Dependency](core_05_band_continuity.md#dependency), demonstrated stake, and [Feasibility](core_05_band_accountability.md#feasibility), under the [Stakeholder Status, Emergency, and Participation Weight cluster](core_05_band_participation.md#stakeholder-status-emergency-and-participation-weight-cluster). It does **not** govern participation **weights** for [Foundational Constitutional Choice](core_05_band_integrative.md#foundational-constitutional-choice), where the political-equality floor applies to the entitled community (**Article IX-C** (*Governance Participation and Voting Entitlement*); **Chapter Twelve Chapter One §8.1**). Restrictive consequences for verified corruption, capture, false-stake abuse, or coercive gaming of stake-weighted participation attach through the **stakeholder-participation** lock — including the [Stakeholder-Participation Standing Lock](core_09-09_standing_integration.md#55-special-locks) — not through a **governance-voting** lock by itself, and not by erasing stakeholder status.
-  - **Out of scope:** equal-weight foundational constitutional choice voting, a seat at the table that is only symbolic, or using a standing lock to erase stakeholder status rather than limit stake-weighted influence.
+  - **In scope — what it scales:** How much say [Stakeholders](core_05_band_participation.md#stakeholder) get in matters that materially affect them, across:
+    - scope;
+    - form;
+    - timing; and
+    - decision influence.
+  - **In scope — where it applies:** Stakeholder Participation Weight operates at the **Stakeholder System Participation** layer — only *within* already-authorized [Governance](core_05_band_accountability.md#governance) for a relevant:
+    - system;
+    - institution; or
+    - bounded decision domain —
+    including that domain's:
+      - structures;
+      - rules;
+      - allocation of authority; and
+      - processes.
+  - **In scope — how weight is set:** Weight must be proportionate to:
+    - [Material Impact](core_05_band_oversight.md#material-impact);
+    - [Dependency](core_05_band_continuity.md#dependency);
+    - demonstrated stake; and
+    - [Feasibility](core_05_band_accountability.md#feasibility),
+    under the [Stakeholder Status, Emergency, and Participation Weight cluster](core_05_band_participation.md#stakeholder-status-emergency-and-participation-weight-cluster).
+  - **Boundary — restrictive consequences:** Restrictive consequences for:
+    - verified corruption;
+    - capture;
+    - false-stake abuse; or
+    - coercive gaming of stake-weighted participation
+    attach through the **stakeholder-participation** lock — including the [Stakeholder-Participation Standing Lock](core_09-09_standing_integration.md#55-special-locks) — and:
+      - not through a **governance-voting** lock by itself; and
+      - not by treating that lock as if it wiped out [Stakeholder](core_05_band_participation.md#stakeholder) status.
+    That lock only limits how much stake-weighted say someone gets. Where anti-constitutional misconduct or other verified standing outcomes lawfully affect status, those consequences route under [Chapter Ten](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct) and the applicable Chapter Nine standing pathways — not through this weight definition alone.
+  - **Out of scope:**
+    - participation **weights** for [Foundational Constitutional Choice](core_05_band_integrative.md#foundational-constitutional-choice), where the political-equality floor applies to the entitled community; or
+    - a seat at the table that is only symbolic.
 <a id="stakeholder-participation-weight-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Participation measurement family](core_05_apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether influence inside already-authorized governance tracks real stake — not capture, illusory voice, or operator-heavy weight without justification.
-
-    **Primary assessment:** Detect capture of participation processes, formalistic or illusory voice, and exclusion of qualified stakeholders. Detect disproportionate weight to operators, narrow interests, or non-affected parties without required justification. Required justification tests: [Necessity](core_05_band_accountability.md#necessity), [Proportionality](core_05_band_accountability.md#proportionality), [Contestability](core_05_band_accountability.md#contestability), and [Coercion and Manipulation](core_05_band_participation.md#coercion-and-manipulation-constitutional).
+  - **Primary assessment:**
+    - Detect:
+      - capture of participation processes;
+      - formalistic or illusory voice; and
+      - exclusion of qualified stakeholders.
+    - Detect disproportionate weight — without required justification — to:
+      - operators;
+      - narrow interests; or
+      - non-affected parties.
+    - Required justification tests:
+      - [Necessity](core_05_band_accountability.md#necessity);
+      - [Proportionality](core_05_band_accountability.md#proportionality);
+      - [Contestability](core_05_band_accountability.md#contestability); and
+      - [Coercion and Manipulation](core_05_band_participation.md#coercion-and-manipulation-constitutional).
 <a id="stakeholder-participation-weight-c"></a>
 - **What must hold**
-  - **Primary failure:** allocating participation rights or influence in a manner that materially negates [Meaningful Agency](core_05_band_participation.md#meaningful-agency) or [Freedom (Bounded Agency)](core_05_band_participation.md#freedom-bounded-agency) for affected stakeholders, where Chapter Six or binding governance norms require voice.
+  - **Primary failure:** allocating participation rights or influence in a manner that materially negates:
+    - [Meaningful Agency](core_05_band_participation.md#meaningful-agency); or
+    - [Freedom (Bounded Agency)](core_05_band_participation.md#freedom-bounded-agency)
+    for affected stakeholders, where Chapter Six or binding governance norms require voice.
 
 ---
 
